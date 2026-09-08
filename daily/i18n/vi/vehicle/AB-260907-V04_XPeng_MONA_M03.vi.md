@@ -1,16 +1,16 @@
 # XPen MONA M03: A China-Market Compact corded Quan Xây dựng xung quanh ắc quy–Rage–Motor Ma trận
-## SAO Siêu dữ liệu
-- **SEAO Titry**: XPeng MONA M03 Name Bộ xem và người xuất khẩu kiểm tra tự động lưu trữ  vội
-- **Meta Mô tả**: Tham khảo thị trường Trung Quốc cho sedan điện XPen MONA M03: 51.8/62.2 kWh LFP batteries, Cấp CLTC  and  140/160 kW motors kept mapped by SKU, cộng với việc xuất khẩu các bước xác thực.
-- ** H1 **: XPeng MONA M03: A China-Market Compactic Sedan Xây dựng xung quanh ắc quy–Rang–Motor
-- **Cungary Keyword**: XPeng MONA M03 eract
-- **Secondary Search Words**: 小鹏 MONA M03; Phạm vi M03 CLTC; MONA M03 62.2 kWh; XPen M03 160 kW; Xuất khẩu sedan điện Trung Quốc; Cd 0.194
-- **Sudeest URL**: /vehicles/xpeng-mona- m03/
-- **Tìm kiếm Intent**: 面向海外买家介绍小鹏 MONA M03 中国市场身份  đáp án 电池 /CLTC 续航 / 电机的 SKU 对应关系与版本边界
-- **I nội bộ Link gợi ý*: //vehicles/ perfecles- s05/, /vehcles/dong Phong-aulus-yixuan /, /guides/ev-ship- un3556-imdg-compliance/
-- **Image gợi ý**: một chiếc xe sedan chạy nhanh XPen MONA M03 hiển thị từ phía trước ba phần tư trên nền trung lập
-- **LT Gợi ý**: hình ba phần tư trước của một chiếc xe điện XPen MONA M03 trên nền studio trung lập
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: XPeng MONA M03 Hoa - Market EV Comment
+- **Meta mô tả**: Chinese-market reference for the XPeng  MONA  M03 electric sedan: 51.8/62.2 kWh  LFP  batteries, Cấp CLTC  and  140/160 kW motors kept mapped by  SKU , cộng với việc xuất khẩu các bước xác thực.
+- **H1**: XPen MONA M03: A China-Market Compact ic Sedan Xây dựng xung quanh ắc quy–Rage–Motor Ma trận
+- **Từ khóa chính**: XPeng MONA M03 xuất khẩu các thông số
+- **Cụm tìm kiếm phụ**: 小鹏 MONA M03; MONA M03 CLTC phạm vi; MONA M03 62.2 kWh; XPen M03 160 kW; Xuất khẩu sedan điện Trung Quốc; Cd 0.194
+- **URL đề xuất**: /vehicles/xpeng-mona-m03/
+- **Ý định tìm kiếm**: Hiểu XPeng MONA M03: Một máy tính điện tử Trung Quốc được xây dựng quanh ắc quy–Rage–Motor: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Gợi ý hình ảnh**: Một chiếc xe sedan chạy nhanh XPen MONA M03 được trưng bày từ phía trước ba phần tư trên nền trung lập
+- **Văn bản ALT**: Cảnh quay thứ ba ở trước của chiếc xe điện XPen MONA M03 trên nền studio trung lập
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launched in China in August 2024 on a front single-motor, Bố trí bánh xe trước với hệ số kéo thấp bất thường. Đối với một người mua EV ở nước ngoài, kỷ luật khác với một chiếc xe của hãng ECE: Thứ tự phải khóa dung lượng của **battary, phạm vi thử nghiệm và động cơ như một khớp với SKU**, bởi vì M03 được bán theo nhiều tổ hợp dễ dàng để kết hợp. Trang này là một tài liệu tham khảo ** của Trung Quốc; Tất cả các phạm vi là **CLTC** và không được so sánh với các con số của WLP/NEDC, nhà cung cấp pin không được xác nhận, và tiêu chuẩn sạc thị trường xuất khẩu đòi hỏi phải có bằng chứng riêng.
 

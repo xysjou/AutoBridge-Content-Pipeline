@@ -1,15 +1,17 @@
 # Changan CS55 PLUS (3rd Generation, 2024) - Cinese- Pasar Petrol SUV Specs dan Ekspor Cek
 
-## SEO Metadata
-- ** Judul SEO **: Changan CS55 PLUS (3rd Gen) 2024: Cinese- Pasar ICE Panduan Specs & Ekspor
-- ** Meta Description **: Chinese- pasar Ketiga generasi Changan CS55 PLUS bensin SUV: Paus Biru NE 1.5T, 7DCT, dimensi, bahan bakar WLTC, dan mengapa hibrida adalah garis yang terpisah.
-- *** H1 **: Changan CS55 PLUS (3rd Generation, 2024) - Chinice-Market Petrol SUV Specs dan Ekspor cek
-- ** Primary Keyword **: Changan 长安 CS55 PLUS 第三代 SKSPISK export
-- ** Akhir Pencarian Second **: Changan CS55 PLUS ekspor; generasi ketiga CS55; Paus Biru 1.5T; SUV bensin Cina; 7DCT
-- ** Sugested URL **: kendaraan changan - cs55-plus/
-- ** Cari Intent **: 了解 Changan 长安 CS55 PLUS 第三代: 中国版规格 配置与出口适配性: 车型参数页
-- ** Internal Link Sugestions **: kendaraan changan - cs55-plus/, pemandu emision- fuel-fuellibility- history guide china-userd- mobil- export- -secess- proses
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Changan CS55 PLUS (3rd Gen) 2024: Cinese- Market ICE Panduan Specs & Ekspor
+- **Deskripsi Meta**: Chinese- pasar ketiga generasi Cheangan CS55 PLUS bensin SUV: Blue Whale NE 1.5T, 7DCT, dimensi, WLTC penggunaan bahan bakar, dan mengapa hibrida adalah garis yang terpisah.
+- **H1**: Changan CS55 PLUS (3rd Generation, 2024) - Chinese- Pasar Petrol SUV Specs dan Ekspor Cek
+- **Kata kunci utama**: Changan / 长安  CS55   PLUS （第三代） specs export
+- **Istilah pencarian sekunder**: Sport Changan CS55 PLUS; generasi ketiga CS55; Paus Biru 1.5T; bensin Cina SUV; 7DCT
+- **URL yang disarankan**: /vehicles/changan-cs55-plus/
+- **Maksud pencarian**: Memahami Changan CS55 PLUS (3rd Generation, 2024) - Chinese- Market Petrol SUV Specs dan Expor Checks: apa yang kendaraan / suku ekspor harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan adegan Changan CS55 PLUS (3rd Generation, 2024) - Cinese- Petrol Pasar dan Expor Chec, tidak ada pemeriksaan pentas atau orang-orang yang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang berhubungan dengan Changan CS55 PLUS (3rd Generation, 2024) - Cine- Pasar Petrol SUV Specs dan E, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Batas konteks dan generasi Pembeli
 Halaman ini hanya mencakup ** Generasi Ketiga Changan CS55 PLUS (2024) dengan daya kereta listrik ICE (ICE) *. Versi superhybrid adalah garis yang berbeda dengan tubuh yang berbeda dan angka-angka kuat dan tidak bergabung di sini. Referensi pasar adalah ** China **.
@@ -53,7 +55,6 @@ Is 6.94 L 100 km a reallworld figure? Ini adalah nilai lab WLTC; variasi penggun
 ** Apakah 99, 900 RMB harga ekspor? ** Tidak, referensi peluncuran domestik.
 **Which transmission?** 7-speed wet dual-clutch (7DCT) on the captured line.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@ Is 6.94 L 100 km a reallworld figure? Ini adalah nilai lab WLTC; variasi penggun
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: tepat Changan CS55 PLUS Gen3
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan CS55 PLUS Gen3
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
   - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
   - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
@@ -95,6 +96,5 @@ Is 6.94 L 100 km a reallworld figure? Ini adalah nilai lab WLTC; variasi penggun
   - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE

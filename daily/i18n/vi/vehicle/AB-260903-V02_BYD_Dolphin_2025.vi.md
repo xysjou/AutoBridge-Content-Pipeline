@@ -1,14 +1,16 @@
 # DOD Dolphin 2025 (Trung Quốc): Pin, CLTC Range và Hai lớp xe hơi cho các nhà nhập khẩu
-## SAO Siêu dữ liệu
-- **SEO Titry**: BD Dolphin 2025 Kính Trung Quốc: Pin, Phạm vi & Xuất Kiểm tra
-- **Meta Mô tả**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 đấu với 150 kW điểm,  420/520 km CLTC, DiPilot, với kỷ luật Trung Quốc-Vs overseseseseses-spec cho người mua.
-- ** URL đã gợi ý**: /vehicles/byd-dolphin/:
-- ** H1 **: BD Dolphin 2025 (Trung Quốc - Market): multiites, ắc quy, Range Cccle và Xuất khẩu Verification
-- ** Từ khoá bí mật **: Kính lục phân cá heo theo chiều dọc 2025
-- **Secondary Search termss**: ByD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLC 420 520, DOD nhỏ xuất khẩu EV, Dolphin DiPlot, China EV GB/T sạc
-- **I nội bộ Link gợi ý**: /vehcles/farizon-xiang- v6e-specs/; /guides/chinese-charing-c tương thích tiêu chuẩn-c/;guides/ev-ship- un3171-imdg-compliance/
-- **Image gợi ý**: chuẩn so sánh điểm tương ứng với hiệp sĩ; lưu ý gói stonery; cổng nạp GB/T; xoay/GB
-- **LT gợi ý**: "BYD Dolphin 2025 điểm mạnh," "Dolphin pulTC ircric so với chu kỳ nước ngoài"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: BYD Dolphin 2025 Kính Trung Quốc: Pin, Phạm vi & Xuất Kiểm tra
+- **Meta mô tả**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 đấu với 150 kW điểm,  420/520 km  CLTC , DiPilot, với kỷ luật Trung Quốc-Vs overseseseseses-spec cho người mua.
+- **H1**: BYD Dolphin 2025 (Trung Hoa - Market): Bộ đa hợp, pin, khoảng cách cycle và Xuất khẩu
+- **Từ khóa chính**: Kính lục phân cá heo theo chiều dọc 2025
+- **Cụm tìm kiếm phụ**: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Hiệp sĩ, Dolphin CLTC 420 520, BYD nhỏ EV xuất khẩu, Dolphin DiPilot, sạc Trung Quốc EV GB/T
+- **URL đề xuất**: /vehicles/byd-dolphin/
+- **Ý định tìm kiếm**: Hiểu BYD Dolphin 2025 (Trung Hoa - Market): Bộ đa biến, pin, lực, lực hấp dẫn và Xuất khẩu: một người xuất khẩu xe/ phần phải kiểm tra tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Gợi ý hình ảnh**: So sánh điểm chuẩn với hiệp sĩ
+- **Văn bản ALT**: BORD Dolphin 2025 điểm pin
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Người mua bối cảnh: Một quyết định EV bắt đầu với pin và chu kỳ
 Dolphin là pin dự phòng nhỏ của AD trên máy điện tử 3.0 với một bình ắc quy LFP Blade. Đối với một EV, thứ tự là ắc quy ắc quy **cycle** _BAR_ sạc điện/phần mềm, không phải một số tiêu đề. Trang này bao gồm đường cao tốc Trung Quốc ** 2025 (REFERCE MORT: Chloe. BORD cũng bán một chiếc xe có hiệu "Dolphin" ở chợ nước ngoài; Đó là tên liên tục,  **not** a 1: 1 giả thiết khớp — kích cỡ pin từ nước ngoài, Chu kỳ được xác nhận (WLP/NEEC)  and  Thiết bị khác nhau  and  Phải đọc từ tờ đích, Không bao giờ rút ra từ những con số này của Trung Quốc.
@@ -56,18 +58,18 @@ Dolphin nước ngoài có giống chiếc xe Trung Quốc không? Nó có chung
 Hay là một khách sạn ở Trung Quốc sạc điện mà không sửa đổi? Kiểm tra GB/T để không bị ảnh hưởng bởi cơ sở hạ tầng đích trên VIN; chỉ người thích nghi thôi có thể không giải quyết được sự khác biệt giao thức.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug

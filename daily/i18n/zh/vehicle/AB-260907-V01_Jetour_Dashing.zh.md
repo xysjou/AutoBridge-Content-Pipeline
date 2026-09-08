@@ -1,16 +1,16 @@
 # Jetour Dashing (达生):中国市场契约SUV 及其三强电源套接字
-## 道德操守办公室 元数据
-- **SEO标题**:喷气式大碟(大生)中国-市场标本和出口购买者检查 QQ自动桥
-- **Meta Drif**:Jetour Dashing(达生)紧凑型SUV的中国市场参考:2024对2025维,1.5T,1.6T和1.5TD电源连续保持分离,VIN级对海外买家的检查.
-- ** H1 资源需求。 **: Jetour Dashing (Dasheng):中国市场契约SUV 及其三强列车的参考
-- ** 关键词**: Jetour Dashing Dasheng 导出规格
-- ** 二级搜索术语**:喷气式大口径飞机;捷途大圣;喷气式大口径飞机;1.6T 7DCT;中国紧凑型SUV出口;Dasheng 2025 1.5TD
-- ** 提议URL**:/车辆/喷射/
-- ** 搜索意向**:面向海外 B 端买家介绍捷途大圣中国市场身份  2024/2025 尺寸与三套动力的版本边界及采购核验
-- ** 内部链接建议**:车辆/大麻-卡伊烯-f70/,指南/核查-钦那-汽车-出口-供应商-历史/, /车辆/东风-aeolus-yixuan/
-- **图像建议**:从前四分之三显示在中性背景上的喷气式调制式紧凑型SUV
-- ** ALT(美国) 建议**:在中立工作室背景上,一架喷气式Dashing Contract SUV的四分之三前视线
-- ** 计划范围**:第+条车辆(无产品/产出/价格/审查/定时)
+## SEO元数据
+- **SEO标题**: Jetour Dashing (Dasheng) 中国-市场标本及出口购买者检查 QQ自动桥
+- **Meta描述**: 捷图达兴(达生)契约SUV型中市场参考文献:2024对2025维,1.5T,1.6T和1.5TD型电力机车保持分离,VIN级对海外买家的检查.
+- **H1**: Jetour Dashing (达生):中国市场契约SUV 参考其三强特快软件
+- **核心关键词**: Jetour Dashing Dasheng 导出规格
+- **次级搜索词**: Jetour Dashing 维度; 捷途大圣; Jetour Dashing 1.6T 7DCT; 中国紧凑型SUV出口; Dasheng 2025 1.5TD
+- **建议URL**: /vehicles/jetour-dashing/
+- **搜索意图**: 了解Jetour Dashing(达生):中国市场契约SUV 参考其三强电源:车辆/零件出口商在承诺下达订单前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/changan-kaicene-f70/, /guides/verify-chinese-car-export-supplier-history/, /vehicles/dongfeng-aeolus-yixuan/
+- **图片建议**: 一架喷气式Dashing Contract SUV从前三季度显示在中立背景
+- **ALT文本**: 中性工作室背景的喷气式大修机SUV号机的前方四分之三视线
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 在中国作为大申号(大圣)出售的Jetour Dashing是紧凑的五座SUV Cherry的Jetour品牌,其位置围绕大胆的交叉型号. 海外买家从中国采购, 中心学科是版本控制: 线路跨2024年和2025年的模型年, 体积和汽油电源都不同, 这页是**中国市场参考**——它不是全球规格单,任何出口市场Dashing都必须单独证明. 如果一个数字依赖于一个独立来源,而不是一个OEM精确的图示,则标注为VIN级确认,而不是按已结算的表示。
 
@@ -70,7 +70,7 @@
 
 中国市场参考车为前轮驱动.
 
-**Is there a factory right-hand-drive version?**
+** 是否有工厂右侧驱动版本? 页:1
 
 无红外线 这里建立了中国市场版本;RHD合格需要单独的OEM证据,出口规格不得从中国线推断.
 

@@ -1,15 +1,17 @@
 # DOD Tần L DM-i (秦 L DM-i): Sự di chuyển của PHV Saoon — Kính hiển vi Trung Quốc cho các nhà xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEEO Titry**: ByD Tần L DM-i PHV Spec & Xuất Hướng dẫn (5th-Gen DM, CLTC)
-- **Meta Mô tả**: Chứng khoán Trung Quốc Tần L DM-i thứ năm gen bổ sung cho người lai - 1.5L động cơ chuyên dụng,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  Kiểm tra xuất khẩu.
-- **Sudeest URL**: /vehicles/byd-qin-l-dm-i
-- ** H1 **: BOD Tần L DM-i (Fifth-generation DM): China-Market PHV Comment
-- ** Từ khoá bí mật **: byd qin I dm-i ecraw
-- **Secondary Search termss**: Tần L DM 120km, thế hệ thứ năm DM, BORD Blade ắc quy PHV, Tần LLC, 秦 L DM-i xuất khẩu
-- **I nội bộ Link gợi ý**: un3556-imdg-compliance/; /guides/ecation-fuel-chiel-cchilda-vehicles /guides/export-vecle-docucht- wrap/
-- **Image gợi ý**: bên hồ sơ Tần L DM-i; cổng sạc điện; pin Blade dưới sàn; 120km phù hiệu phía sau cabin
-- **LT Những gợi ý**: "BYD Tần L DM-i thế hệ thứ năm PHV sedan," "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: BYD  Qin L  DM -i  PHEV  Specs & Export Guide (5th-Gen  DM , CLTC)
+- **Meta mô tả**: Trung Quốc thị trường BYD Tần L DM -i-năm-gen lai - 1.5L động cơ tận tụy,   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  Kiểm tra xuất khẩu.
+- **H1**: BYD Tần L DM -i (Sự di truyền thứ DM): Trung Quốc-Market PHEV Comment
+- **Từ khóa chính**: byd qin I dm-i ecraw
+- **Cụm tìm kiếm phụ**: Tần L DM - 120km,  fifth generation  DM ,   BYD  Blade battery  PHEV , Phong L CLTC, 秦 L DM - Tôi xuất khẩu
+- **URL đề xuất**: /vehicles/byd-qin-l-dm-i/
+- **Ý định tìm kiếm**: Hiểu BYD Tần L DM -i (Sự di truyền thứ DM): Trung Quốc-Market PHEV Specs và Elibe Notes: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Gợi ý hình ảnh**: Hồ sơ của Tần LM-i
+- **Văn bản ALT**: DOD Tần L DM-i thế hệ thứ năm Cợn PHV
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Văn cảnh người mua: Đọc Nó như là một chiếc PHV, không phải một chiếc EV và không phải một chiếc xe lai của hội nghị
 The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-generation DM** architecture. Người xuất khẩu thường sử dụng sai phương pháp này theo một cách: Hai phiên bản pin này có thể thay đổi. Chúng không phải là - 80 km và 120 km xe có tầm điện mang theo những năng lượng khác nhau và những trường hợp sử dụng khác nhau. Trang này tài liệu của dòng thị trường Trung Hoa ** (REFERCE MORET: Chloe; không có trang đặc trưng nào của AD nước ngoài bị ghi lại, nên không có gì ở đây nên được trình bày như là một thông số toàn cầu hay đích đến.

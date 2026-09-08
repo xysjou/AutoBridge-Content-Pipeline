@@ -1,15 +1,17 @@
 # Kendaraan Ekspor Paket Dokumen: Standar Sertifikat saat ini vs Standar Wajib Masih dalam Draft
 
-## SEO Metadata
-- ** Judul SEO **: China Kendaraan Ekspor Panduan Paket Dokumen - GB T 21085-2020 Standar Saat Ini
-- ** Meta Description **: Buat dokumen ekspor yang disetel dalam sertifikat pabrik GB T 21085-2020 saat ini, bedakan dokumen tersebut dari standar wajib 20260041-Q-339 masih dalam pembangunan, dan perlakukan item NEV translasi sebagai rekomendasi.
-- ** Sugesti URL **: panduan ekspor-kendaraan-dokumentasi-paket
--   H1 **: Merakapkan sebuah Mobil Cina Ekspor Paket Dokumen - Apa Yang Saat Ini, Apa Masih Sebuah Draft, Apa Kami Rekomendasikan
-- ** Primer Keyword **: dokumen ekspor kendaraan paket pabrik GB T21085
-- ** Akhir Pencarian Second *: 机动车出厂合格证, GB T21085-2020 saat ini, draft 20260041-Q-339, sertifikat ekspor konformitas, dokumen ekspor NEV UN38.3
-- ** Internal Link Sugestions **: guide vin-plates -verification -chinese- kendaraan guide ev- shippping-un3556-imdg-compliance/; guide china-export -certicates -of-nation
-- ** ImaglSugestions **: documents bundle layout; tracet--vs- draft standar timeline; descpor berkas split
-- ** AlT Sugestions **: "Akte GB T21085-2020 saat ini melawan wajib 20260041-Q-339 draft"
+## Metadata SEO
+- **Judul SEO**: China Kendaraan Ekspor Pacheg Quaky Panduan - GB/T 21085-2020 Standar Saat Ini
+- **Deskripsi Meta**: Buat dokumen ekspor yang disetel sekitar sertifikat pabrik GB/T 21085-2020 saat ini, bedakan dokumen tersebut dari standar wajib 20260041-Q-339 yang masih dalam pembangunan, dan perlakukan NEV / dokumen terjemahan sebagai rekomendasi.
+- **H1**: Membentuk sebuah Mobil Cina Ekspor Paket Dokumen - Apa yang Saat Ini, Apa Masih Draft, Apa Kami Sarankan
+- **Kata kunci utama**: dokumen ekspor kendaraan sertifikat pabrik paket GB/T21085
+- **Istilah pencarian sekunder**: 机动车出厂合格证, GB/T21085-2020 saat ini, draft 20260041-Q-339, sertifikat ekspor konformitas, NEV ekspor dokumen UN38.3
+- **URL yang disarankan**: /guides/export-vehicle-document-package
+- **Maksud pencarian**: Memahami Perakitan Kendaraan Cina Ekspor Paket Dokumen - Apa yang Sekarang, Apa Yang Masih Draft, Apa Kami Rekomendasikan: apa kendaraan / bagian eksportir harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Saran gambar**: tata letak bundel dokumen
+- **Teks ALT**: Sertifikat sekarang GB / T21085-2020 dibandingkan wajib 20260041-Q-339 draft
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Perangkap: Memperlakukan Standar Draft sebagai Saat Ini
 Penunjuk paket seringkali mengutip standar sertifikat wajib yang akan datang seolah-olah sudah berlaku. Yang menciptakan dokumen harapan tidak ada aturan saat ini mendukung. Halaman ini menggambar garis keras: standar ** arus ** untuk sertifikat pabrik kendaraan motor ** GB T 21085-2020 **; pengganti wajib (rencana * 20260041-Q-339 **) adalah * pengembangan dan tidak diterbitkan atau secara paksa **, dan tidak boleh diberikan sebagai persyaratan saat ini.

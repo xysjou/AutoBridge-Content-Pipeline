@@ -1,15 +1,17 @@
 # Foton Aumark (奥铃) 冷やされていたトラック — シャーシ、リーフア ボディ、冷却ユニット バイヤー ガイド
 
-## ツイート メタデータ
-- ** SEO タイトル**: Foton Aumark 冷やされていたトラックの仕様とリーフアビルドのエクスポートガイド
-- **メタ 説明**: フォートン・オリン(オリン) 参照: 150 PS ジエユン・シャシ、4.085 m 絶縁体、GVW 4.495 t、熱王/国内ユニットのオプション、輸出用冷凍トラックの指定方法。
-- **混雑したURL**: /vehicles/foton-aumark-refrigerated-truck/
-- H1 ホテル **: Foton Aumarkの冷やされていたトラック:Chassis、絶縁されたボディおよび冷凍の単位を分けること
-- **主なキーワード**: Foton Aumarkの冷蔵トラックの指定の輸出
-- **二次検索条件**:Ollinのreeferのトラック中国、Foton Cummins 2.8の冷房装置、 サーモキング T880 プロ トラック、4.5t のリーファーのトラックの輸出、中国の冷えのチェーン トラック
-- **内部リンクの提案**: /vehicles/jac-kangling-light-truck/; /guides/commercial-truck-fleet-procurement-china/; /guides/marine-cargo-insurance-car-import/
-- **イメージ提案**:側面図の巻き枠ボディ;タクシーの屋根の冷凍の単位;肉ホックが付いている絶縁された箱の内部;シャーシの版;温度のコントローラー
-- **ALTの提案**:「箱によって絶縁される箱が付いているFoton Aumark 4x4の冷房されたトラック、中国 spec」;「トラック取付けられた熱王の冷凍の単位」;「箱の内部および肉柵を補強して下さい
+## SEOメタデータ
+- **SEOタイトル**: Foton Aumarkの冷やされていたトラックのSpecs及びReeferの造りの輸出ガイド
+- **メタディスクリプション**: フォートン・オアマーク(オリン) リーファー:150 PS ジエユンシャシ、4.085 m 絶縁体、GVW 4.495 t、サーモキング/ドメスティックユニットオプション、輸出用冷凍トラックを指定する方法。
+- **H1**: Foton Aumarkの冷やされていたトラック:Chassis、絶縁されたボディおよび冷凍の単位を分けること
+- **主要キーワード**: Foton Aumarkの冷やされたトラックの指定の輸出
+- **関連検索語**: オリリンのreeferのトラック中国、Foton Cummins 2.8は、冷やしました、 サーモキング T880 プロ トラック、4.5t のリーファーのトラックの輸出、中国の冷えのチェーン トラック
+- **推奨URL**: /vehicles/foton-aumark-refrigerated-truck/
+- **検索意図**: Foton Aumarkの冷やされていたトラックに抗して下さい:Chassis、絶縁されたボディおよび冷凍の単位を分けて下さい:車/部品輸出業者が順序に託す前に確認し、文書そして決定しなければならないものを。
+- **内部リンク候補**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
+- **画像候補**: 側面図のreeferボディ
+- **ALTテキスト**: Foton Aumark 4x4は、絶縁された箱、中国仕様のトラックを冷やしました
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## 冷蔵トラックの仕様方法
 
@@ -71,44 +73,44 @@ A reefer is really **three products in one**: ドナーシャシ、絶縁貨物�
 リーフワーコストは、箱と冷却ユニットに大きく依存します。信頼できる2026-09-02の価格はキャプチャされず、予想されることはありません。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
 ## ソースと検証
 
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 のリファー変数 | (卡车之家) | CN の | 担当: | 2026-09-02 | CROSS_CHECKED(クロス) | 通知、Yuneneiエンジン、ZF6、重量、箱、単位の選択 | http://product.m.360che.com/m441/110460_param.html 360che
+| Aumark Jieyun 150 のリファー変数 | (卡车之家) |  CN  の | 担当: | 2026-09-02 |  CROSS  |  CHECKED  (クロス) | 通知 、 ユナイ エンジン 、 ZF6 、 重量 、 箱 、 単位の選択 | http://product.m.360che.com/m441/110460_param.html 360che
 | オリリン公式リファーページ | フォートン・オリン(公式) | CN の | 以下は、 https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | 検証済み | ミッドトラックのreeferエンジンの選択、箱長さシリーズ |
 | Suyun の reefer 配達箱 | フォートン・オリン(公式) | CN の | 以下は、 https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html の | 2026-09-02 | 検証済み | 4.2 m reefer, Cummins 2.8の  18 m³, 3360 WBの特長 |
 | オルリン・レファーの記事 | ドネッディ (懂车帝) | CN の | 以下は、 https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED(クロス) | Cummins 150/163 PS, 470 N·m |
 
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 | GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 *Confidenceのノート(AutoBridgeの標準): Cummins/Suyunの事実はFototonの公式材料および交差チェックでVERIFIEDです;詳しいJieyunの発表の数字はSINGLE_SOURCE リーフアユニットモデルと価格はビルダーに依存しており、価格が無制限です。 書き込みで確認します。 ふりがな 360che

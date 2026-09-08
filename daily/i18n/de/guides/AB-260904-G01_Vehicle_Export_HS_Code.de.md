@@ -1,15 +1,17 @@
 # Klassifizierung eines Fahrzeugs für den Export: Sortieren 87.01–87.05 und 8716 Trailer unter dem 2026 Tarif
 
-## SEO Metadaten
-- **SEO Titel**: Vehicle Export HS Code Classification Guide — 8701/8702/8703/8704/8705/8716
-- **Meta Description**: Wie die chinesischen Ausführer Traktoren, Personenkraftwagen, Bussen, Lastkraftwagen, Spezialfahrzeugen und Anhängern im Rahmen des Import- und Exporttarifs 2026 die richtige HS-Position zuweisen, bevor sie über Zölle oder Zertifizierungen diskutieren.
+## SEO-Metadaten
+- **SEO-Titel**: Fahrzeugausfuhr HS Code-Klassifizierung Leitfaden — 8701/8702/8703/8704/8705/8716
+- **Meta-Beschreibung**: How Chinese exporters assign the correct  HS  heading to tractors, Personenkraftwagen, Busse, Lastkraftwagen, Fahrzeuge für besondere Zwecke  and  Anhänger unter dem 2026 Import  and  Ausfuhrzollsatz vor Erörterung der Zoll- oder Bescheinigungspflicht.
+- **H1**: Which  HS  Heading Is My Vehicle? An Export-Side Classification Guide Built on the 2026 Tariff
+- **Haupt-Keyword**: Fahrzeugausfuhr hs Code-Klassifizierung 8702 8703 8704 8705
+- **Sekundäre Suchbegriffe**: 8701 Traktor HS, 8703 Personenkraftwagen HS, 8704 Lastkraftwagen, 8705 Spezialfahrzeug, 8716 Anhänger HS, 2026 China Import Export Tarif Kapitel 87
 - **Vorgeschlagene URL**: /guides/vehicle-export-hs-code-classification
-- ** H1 **: Welche HS-Position ist mein Fahrzeug? An Export-Side Classification Guide Built on the 2026 Tariff
-- **Hauptschlüsselwort**: Fahrzeugausfuhr hs Code-Klassifizierung 8702 8703 8704 8705
-- **Secondary Search Terms**: 8701 Traktor HS, 8703 Personenkraftwagen HS, 8704 Lastkraftwagen, 8705 Spezialfahrzeug, 8716 Anhänger HS, 2026 China Import Export Tarif Kapitel 87
-- **Interne Linkvorschläge**: /guides/china-export-certificate-of-origin/; /vehicles/dongfeng-tianlong-kl/; /vehicles/dongfeng-tianjin-kr/
-- **Bildvorschläge**: HS-Position Entscheidungsbaum; Auto vs LKW vs Traktor vs Anhänger Symbolsatz; Zollanmeldung Formularfeld
-- **ALT Vorschläge**: "Fahrzeug HS-Position Entscheidungsbaum 8701 8702 8703 8704 8705 8716 "
+- **Suchabsicht**: Understand Which  HS  Heading Is My Vehicle? An Export-Side Classification Guide Built on the 2026 Tariff: was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Bildvorschlag**: HS Positionsentscheidungsbaum
+- **ALT-Text**: Fahrzeug HS (Positionsentscheidung) 8701 8702 8703 8704 8705 8716
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum die Überschrift vor allem anderen kommt
 Tarif, Zertifizierung, Inspektion und Dokumentation hängen vom HS-Code ab - Exporteure beginnen jedoch oft mit einem Versandangebot und klassifizieren das Fahrzeug fast als nachträglichen Einfall. Bei Nutzfahrzeugen und Spezialfahrzeugen ist die Reihenfolge rückwärts: ein Traktorkopf, ein Lastwagen, ein Spezialfunktions-LKW und ein Anhänger teilen sich kein Verfahren, und wenn man annimmt, dass "alles 87.04 ist", werden Sendungen beim Zoll neu klassifiziert. Die Arbeitsregel auf dieser Seite lautet **HS-first**: Pinnen Sie zuerst die genaue Überschrift und die nationale Unterüberschrift an und gehen Sie dann zu Tarif und Konformität über. Die aktuelle Basis ist hier die ** 2026 Ausgabe des *Import  and  Ausfuhrzolltarif der Volksrepublik China*** (zusammengestellt von der Zolltarifkommission des Staatsrates)  and  the **GACC announcement implementing the 2026 tariff adjustment programme**. Vierstellige/sechsstellige Überschriften sind vergleichsweise stabil; die zehnstelligen nationalen Unterpositionen und die Zwischentarife ändern sich mit jedem jährlichen Tarif und sind nach Ausgaben anzugeben.

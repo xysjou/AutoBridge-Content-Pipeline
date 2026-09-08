@@ -1,15 +1,17 @@
 # Exportação de automóveis usados chineses — Processo de qualificação, licença e autorização-piloto
 
-## SEO Meta- dados
-- ** Título SEO**: China Exportação de carros usados: Qualificação piloto, Licença de exportação e desembaraço (2026 regras)
-- ** Descrição do Meta**: Como uma empresa chinesa exporta carros usados: qualificação zona piloto, a licença de exportação, exceção de contratação de projetos, consistência de informação e a regra de 2026 registro-consistência.
-- ** H1 **: Exportação de carros usados chineses — Processo de qualificação, licença e autorização de piloto
-- **Primary Keyword**: China usado processo de licença de exportação de carro
-- ** Termos de pesquisa secundários**: exportação de carro usado China; licença de exportação de veículo usado; zona piloto; exportação de carro em segunda mão; licença MOFCOM
-- ** URL sugerido**: /guides/china-usado-car-export-licence-process/
-- **Intenção de pesquisa**: 企业如何取得二手车出口资质, 办理转让登记, 申领出口许可证并完成通关 (含 2026 年新规)
-- **As sugestões de ligação interna**: /guias/china-exportação-costumum-declaração-única-janela/, /guias/usado-chinês-ev-inspecção-história/, /guias/verificar-chinês-carro-exportação-supridor-história/
-- **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: China Usado-Car Exportation: Pilot Qualification, Export Licence and Clearance (2026 Rules)
+- **Meta descrição**: Como uma empresa chinesa exporta carros usados: qualificação zona piloto, a licença de exportação, exceção de contratação de projetos, consistência de informação e a regra de 2026 registro-consistência.
+- **H1**: Exportação de automóveis usados chineses — Processo de qualificação, licença e autorização de piloto
+- **Palavra-chave principal**: China usado processo de licença de exportação de carro
+- **Termos de busca secundários**: China de exportação de automóveis usados; Licença de exportação de veículos utilizados; Zona piloto; Exportação de automóveis em segunda mão; Licença MOFCOM
+- **URL sugerida**: /guides/china-used-car-export-license-process/
+- **Intenção de busca**: Entender a exportação de carros usados chineses — Processo de qualificação, licença e autorização de piloto: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugestão de imagem**: Uma cena realista, centrada em documentos/veículos, que ilustra a exportação de carros usados chineses — Processo de qualificação, licença e autorização-piloto, sem inspeção encenada ou pessoas alegadas.
+- **Texto ALT**: A Comissão considera que a medida em causa não constitui um auxílio estatal.
+- **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Exportação de carros usados é uma empresa licenciada, baseada em pilotos
 Ao contrário da exportação normal de automóveis novos, a exportação de veículos usados da China é limitada a ** empresas qualificadas em áreas-piloto aprovadas** seleccionadas através do mecanismo-piloto, e opera ao abrigo de um regime de ** licença de exportação**. Uma empresa não pode começar a exportar carros usados simplesmente porque tem direitos comerciais gerais. A lista de zonas piloto expande-se ao longo do tempo e deve ser lida a partir do actual aviso MOFCOM/governo, em vez de uma lista fixa.
@@ -40,7 +42,6 @@ A lista de cidades-piloto e as telas exatas do sistema são sensíveis ao tempo 
 ** Onde está a lista de pilotos?** No último aviso MOFCOM/governação — não se baseie numa lista estática.
 ** Isto cobre as regras de importação de destino?** Não — são separadas e específicas do país.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ A lista de cidades-piloto e as telas exatas do sistema são sensíveis ao tempo 
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- ** MODEL_TOPIC_ MATCH**: exportação de carros usados chineses exata
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
+- **MODEL_TOPIC_MATCH**: exact Chinese Used-Car Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ A lista de cidades-piloto e as telas exatas do sistema são sensíveis ao tempo 
   - **ID**: used car export licence, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: used car export licence, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: used car export licence, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #UsedCarExport #ExportLicence

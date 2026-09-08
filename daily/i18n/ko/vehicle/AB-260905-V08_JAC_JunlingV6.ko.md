@@ -1,15 +1,17 @@
 # JAC Junling V6 (2024/2025) - 중국 시장 라이트 트럭 사양 및 수출 검사
 
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: JAC 준링 V6 라이트 트럭: 중국 시장 사양 및 수출 구매자 가이드
-- **마타 기술 **: 중국 시장 JAC V6 블루 플레이트 라이트화물 트럭을 준거: Yunnei D25 디젤, Ankang 160 라인,화물 상자, GVW 페이로드, 단일 소스 질량 동굴.
-- ** H1 **: JAC 준링 V6 (2024/2025) - 중국 시장 라이트 트럭 사양 및 수출 검사
-- **기본 키워드**: JAC 江淮 骏铃 V6 轻卡 (Light Truck) specs 수출
-- **세컨드리 검색 조건**: JAC 준링 V6 수출; Jianghuai 광 트럭; 중국화물 트럭; 블루 플레이트 트럭; Yunnei D25
-- **수입 URL**: /vehicles/jac-junling- v6/
-- ** 수색 **: 了解 JAC 江淮 骏铃 V6 轻卡 (밝은 트럭) 中国版规格, 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/jac-junling- v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+- **메타 설명**: 중국 시장 JAC V6 블루 플레이트 라이트화물 트럭을 준거: Yunnei D25 디젤, Ankang 160 선, 화물 상자, GVW /payload 및 단일 소스 질량 동굴.
+- **H1**: JAC 준링 V6 (2024/2025) - 중국 시장 라이트 트럭 사양 및 수출 검사
+- **주요 키워드**: JAC / 江淮 骏铃 V6 轻卡 (Light Truck) specs 수출
+- **보조 검색어**: JAC  Junling V6 export; Jianghuai 빛 트럭; 중국 화물 트럭; 파란 판 트럭; 윤네이 D25
+- **추천 URL**: /vehicles/jac-junling-v6/
+- **검색 의도**: JAC 준링 V6 (2024/2025) - 중국 시장 라이트 트럭 사양 및 수출 검사: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **이미지 제안**: JAC Junling V6 (2024/2025) - 중국 시장 라이트 트럭 사양 및 수출 검사, 단계 검사 또는 사람들이 주장하는 현실적이고 문서 / 차량 중심 장면.
+- **ALT 텍스트**: 가까운, 자연적 재료와 JAC 준링 V6 (2024/2025)와 관련된 주제 - 중국 시장 라이트 트럭 사양 및 수출 검사, 중립적 배경, 사람들이 또는 검사 행동 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트: 블루 플레이트 도시 유통 트럭
 **JAC Junling V6 (骏铃 V6, 2024/2025) **는 도시 지역 분포에 사용되는 하위 4.5 t 블루 플레이트 클래스의 중국 시장 디젤 광화물 트럭입니다. 상업 차량 구매자는 택시 손질의 앞에 GVW, 탑재량 및 화물 상자에 닻을 이어야 합니다. 참고 시장은 ** 중국**; 대량은 균질 확인을 요구합니다.
@@ -50,7 +52,6 @@
 **엔진?** Yunnei D25TCIF1 2.5 L 디젤, 캡처 된 라인에 150 hp 400 N·m.
 ** 타이어 차축 세부 사항이 있습니까? ** 붙잡지 않는; OEM 건축판을 요구하십시오.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
@@ -69,18 +70,18 @@
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 JAC V6의 빛 트럭을 던지는
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 JAC Junling V6 빛 트럭
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

@@ -1,15 +1,17 @@
 # Foton General G9 Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y controles de exportación
 
-## SEO Metadatos
-- **SEO Título**: Foton General G9 Pickup 2025: Chinese-Market Diesel/Petrol Specs & Export Guide
-- **Meta Descripción**: El mercado chino Foton General G9 (大将军 G9) pickup: 2.0T líneas diesel y gasolina, 6MT/8AT, RWD/ 4WD, dimensiones de la cama y la rueda de la rueda, y el conflicto de la torsión diesel flagged.
-- ** H1 **: Foton General G9 Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y cheques de exportación
-- **Primary Keyword**: Foton 福田 General G9 大将军 G9 皮卡 specs export
-- **Segundary Search Terms**: Foton General G9 export; Dajiangjun G9 pickup; China diesel pickup; 4WD pickup; cabina doble
-- ** URL agregada**: /vehicles/foton-general- g9/
-- **Búsqueda Intent**: 了解 Foton 福田 General G9 大将军 G9 皮卡 中国版规格, 配置与出口适配性 (车型参数页)
-- **Sugerencias de Enlace Interno**: /vehículos/foton-general- g9/, /guides/vehículo-export-hs-code-history/, /guides/emission-fuel-compatibilidad-history/
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
+## Metadatos SEO
+- **Título SEO**: Foton General G9 Pickup 2025: China-Market Diesel/Petrol Specs & Export Guide
+- **Meta descripción**: Foton General G9 (大将军 G9) recogida: 2.0T líneas diesel y gasolina, 6MT/8AT, RWD/4WD, cama y dimensiones de la base de ruedas, y el par motor contradictorio insignia.
+- **H1**: Foton General G9 / Dajiangjun G9 (2025) — Chino-Marcos Pickup Especs y controles de exportación
+- **Palabra clave principal**: Foton / 福田 General G9 / 大将军 G9 皮卡 specs export
+- **Términos de búsqueda secundarios**: Foton General G9 export; Dajiangjun G9 pickup; China diesel pickup; 4WD pickup; cabina doble
+- **URL sugerida**: /vehicles/foton-general-g9/
+- **Intención de búsqueda**: Comprende Foton General G9 / Dajiangjun G9 (2025) — Chino-Marca Pickup Specs and Export Checks: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **Sugerencia de imagen**: Una escena realista, centrada en documentos/vehículos que ilustra Foton General G9 / Dajiangjun G9 (2025) — Chino-Marcet Pickup Specs and Export Checks, ninguna inspección escénica o la gente reclamada.
+- **Texto ALT**: Vista natural de materiales y el tema relacionado con Foton General G9 / Dajiangjun G9 (2025) — Chino-Marcos Pickup Especs y Exportaciones, fondo neutro, ninguna gente o acción de inspección mostrada.
+- **Alcance del esquema**: Artículo + Vehículo (sin Producto/Offer/Revisión)
 
 ## Contexto del comprador: una camioneta de trabajo con dos líneas de combustible
 **Foton General G9 (大将军 G9, 2025)** es una camioneta de cuerpo a marco de mercado chino vendida en líneas de **diesel y gasolina**, con cajas de cambios manuales/auto y unidad trasera o de cuatro ruedas. Para los compradores de exportación los campos decisivos son tamaño de cama, carril, transmisión y el motor exacto - no una sola " G9 " especificaciones. El mercado de referencia es **China**.
@@ -54,7 +56,6 @@ Las órdenes de recogida fallan con más frecuencia en la longitud de la cama y 
 ** Dimensiones de los lechos?** Un solo recurso aquí; chequeo cruzado antes de ordenar.
 ¿Cuál combustible para diesel?** China-VI, 0 # diesel; verifique la compatibilidad del combustible de destino.
 
-
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
@@ -74,18 +75,18 @@ Las órdenes de recogida fallan con más frecuencia en la longitud de la cama y 
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
 ## Grabación de imagen
-- **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
-- **ORIGINAL_IMAGE_URL**: no capturado
-- **SOURCE_PAGE**: no capturado
-- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
-- RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
-- **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exacta Foton General G9 pickup
-- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
-- IMAGE_RIGHTS_STATUS #
-- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
-- **ALT (12 idiomas)**:
+- **MODEL_TOPIC_MATCH**: exact Foton General G9 pickup
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
   - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer
@@ -98,6 +99,5 @@ Las órdenes de recogida fallan con más frecuencia en la longitud de la cama y 
   - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup

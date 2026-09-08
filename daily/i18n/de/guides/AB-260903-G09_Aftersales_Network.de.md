@@ -1,14 +1,16 @@
 # Aufbau eines überseeischen After-Sales, Teile und Garantie-Netzwerk von einem Standing Start
-## SEO Metadaten
-- **SEO Titel**: Overseas After-Sales, Teile & Garantie Netzwerk Setup Guide
-- **Meta Description**: Wie ein Fahrzeugexporteur praktikable After-Sales in Übersee baut - Netzwerkmodelle, die auf die installierte Basis, den regionalen Teilebestand, Garantieversprechen, die auf echte Servicekapazitäten abgestimmt sind, und die Erwartungen der China-Politik dahinter.
+## SEO-Metadaten
+- **SEO-Titel**: Übersee-After-Sales, Teile & Garantie Leitfaden für die Einrichtung von Netzwerken
+- **Meta-Beschreibung**: Wie ein Fahrzeugexporteur praktikable After-Sales in Übersee baut - Netzwerkmodelle, die auf die installierte Basis, den regionalen Teilebestand, Garantieversprechen, die auf echte Servicekapazität abgestimmt sind, und die Erwartungen der China-Politik dahinter.
+- **H1**: Bau von Übersee-After-Sales, Ersatzteilen und Garantiefähigkeit für exportierte Fahrzeuge
+- **Haupt-Keyword**: Übersee-After-Sales-Teile Garantie Netzwerk-Setup Exporteur
+- **Sekundäre Suchbegriffe**: Exporteur-Service-Netzwerk in Übersee, regionales Teilelager, Fahrzeuggarantiepolitik in Übersee, unabhängiges Mehrmarken-Reparaturnetzwerk, Händler-Aftersales-Support
 - **Vorgeschlagene URL**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: Bau von Übersee-After-Sales, Ersatzteilen und Garantiefähigkeit für exportierte Fahrzeuge
-- ** Primäres Keyword**: Übersee-Aftersales-Teile-Garantie-Netzwerk-Setup-Exporteur
-- **Secondary Search Terms**: Exporteur-Servicenetzwerk in Übersee, regionales Teilelager, Fahrzeuggarantiepolitik in Übersee, unabhängiges Mehrmarken-Reparaturnetzwerk, Support für den Händler-Aftersales
-- **Interne Linkvorschläge**: /guides/vehicle-export-sales-contract-clauses/; /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/
-- **Bildvorschläge**: installed-base→network-model decision tree; parts-stock tiers; guarantee-capability matching loop
-- **ALT Suggestions**: "Aftersales-Netzwerkmodell nach installierter Basis"; "Regional Parts Stock Tiers"
+- **Suchabsicht**: Verstehen Sie den Bau von Übersee-Nachverkäufen, Ersatzteilen und Garantiefähigkeit für exportierte Fahrzeuge: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **Bildvorschlag**: installation-base →Netzwerkmodell-Entscheidungsbaum
+- **ALT-Text**: After-Sales-Netzwerkmodell nach installierter Basis
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Umfang: Hier geht es um Service, nicht um den Kauf von Ersatzteilen
 Dieser Leitfaden behandelt **Stand nach dem Verkauf, Teilelieferung und Gewährleistungserfüllung ** in einem Zielmarkt. Es unterscheidet sich bewusst vom separaten Thema *Beschaffung* Ersatzteile in China (ein bestehendes Ersatzteil-Cluster) - Beschaffungskomponenten sind ein Input; Diese Seite behandelt die **Betriebsfähigkeit **, die diese Teile in Kundenverfügbarkeit verwandelt.
@@ -52,18 +54,18 @@ Eine Gewährleistung ist nur glaubwürdig, soweit das Netzwerk sie einhalten kan
 **Wie unterscheidet sich das von einem "Kauf von Ersatzteilen" -Guide? ** Dies gilt für die Beschaffung von Teilen in China; dies umfasst den Betrieb der Service- Teile- Garantiefähigkeit auf dem Zielmarkt.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf

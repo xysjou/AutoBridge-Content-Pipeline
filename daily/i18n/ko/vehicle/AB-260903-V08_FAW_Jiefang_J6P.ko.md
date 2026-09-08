@@ -1,14 +1,16 @@
 # FAW Jiefang J6P 무거운 트랙터: 엔진, 변속기, 차축 및 GCW는 트랙터 명세 결정으로 읽었습니다
-## ▼ 한국어 메타데이터
-- **SEO 제목**: FAW Jiefang J6P 트랙터 사양: 엔진, GCW 및 수출 노트
-- **마타 기술 **: 중국 시장 FAW Jiefang J6P 무거운 트랙터 - Xichai CA6DM2 460 PS 2300 N·m 중국-VI 디젤, 4 × 2/6 × 4/8 × 4 레이아웃, 10–16-speed 기어 박스, ~ 40 t GCW 클래스, 및 수출 수표 필요.
-- **수입 URL**: /vehicles/faw-jiefang- j6p-tractor-specs/
-- ** H1 **: FAW Jiefang J6P (중국 시장): 무거운 트랙터 동력, 포좌 및 수출 검증
-- ** 일기 키워드 **: faw jiefang j6p 트랙터 사양
-- ** 보조 검색 조건 **: Jiefang J6P 460, CA6DM2 엔진, J6P 6x4 트랙터 GCW, 중국 VI 무거운 트럭 수출, J6P AMT 기어 박스, Xichai 11 리터 디젤
-- ** 내부 링크 제안**: /vehicles/yutong- zk6122-coach-specs/; /vehicles/sany-concrete-mixer-truck-specs/; /guides/china-vehicle-export-license-customs-documents/
-- ** 이미지 제안 **: 6 × 4 트랙터 측; Xichai CA6DM2 엔진; 12-speed 기어 박스; 탠덤 드라이브 차축; 택시 내부
-- ** ALT 제안**: "FAW Jiefang J6P 6x4 무거운 트랙터"; "J6P Xichai CA6DM2 디젤 엔진"
+## SEO 메타데이터
+- **SEO 제목**: FAW  Jiefang J6P Tractor Specs: 엔진, GCW & 수출 주
+- **메타 설명**: Chinese-market  FAW  Jiefang J6P heavy tractor — Xichai  CA6DM2  460  PS/2300  N·m China- VI  diesel, 4 × 2/6 × 4/8 × 4 레이아웃, 10–16-speed 기어 박스, ~ 40 t GCW 클래스,  and  수출은 구매자 필요를 검사합니다.
+- **H1**: FAW  Jiefang J6P (Chinese-Market): 무거운 트랙터 파워 트레인, 포좌 및 수출 검증
+- **주요 키워드**: faw jiefang j6p 트랙터 명세
+- **보조 검색어**: Jiefang J6P 460, CA6DM2 엔진, J6P 6x4 트랙터 GCW, 중국 VI 무거운 트럭 수출, J6P AMT 기어 박스, Xichai 11 리터 디젤
+- **추천 URL**: /vehicles/faw-jiefang-j6p-tractor-specs/
+- **검색 의도**: FAW Jiefang J6P (중국 시장)를 이해하십시오: 무거운 트랙터 파워 트레인, 포좌 및 수출 검증: 차량/부품 수출자는 확인해야 하고, 문서는 순서로 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/yutong-zk6122-coach-specs/ ; /vehicles/sany-concrete-mixer-truck-specs/ ; /guides/china-vehicle-export-license-customs-documents/
+- **이미지 제안**: 6 × 4 트랙터 측
+- **ALT 텍스트**: FAW Jiefang J6P 6x4 무거운 트랙터
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 컨텍스트: Driveline 및 GCW에 의해 트랙터를 지정, 배지에 의해 아닙니다
 무거운 운반대를 위해, 탈절 분야는 ** 엔진 진지변환과 토크, 변속기, 드라이브 차축, GCW 종류, 택시 및 포좌 ** - 손질 수준 장비 아닙니다. J6P은 FAW Jiefang의 긴 실행 무거운 트랙터 시리즈, ** 4 × 2, 6 × 4 및 8 × 4에서 제공된다. 이 페이지는 ** 중국 시장 참조 (REFERENCE MARKET: CHINA)**입니다. 모든 트랙터는 균질 모델 코드로 구성되며, 수출 방출 차축 비율은 주문 별입니다.
@@ -53,30 +55,30 @@ J6P은 장거리 대 지역 작업을 위해 여러 개의 cab 변형 (일 수�
 ** 중국 - VI 트랙터는 어떤 디젤에 실행할 수 ** 그것은 매우 낮은 sulphur 디젤 플러스 DEF 및 적절한 DPF 조건을 필요로한다; 주문하기 전에 목적지 연료 및 배출 합격을 확인.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
-  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 重型牵引车
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
@@ -84,11 +86,11 @@ J6P은 장거리 대 지역 작업을 위해 여러 개의 cab 변형 (일 수�
 | New J6P 460 (CA6DM2-46E6 2300 N·m) | 트럭 홈 토우티아오 | 담당자: Mr. wang | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_체크 | 엔진 모형, 힘/torque, 중국 VI |
 | J6P 비교 (CA6DM2-46E61, 341 kW) | 트럭 홈 토우티아오 | 담당자: Mr. wang | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_체크 | 338–341 kW cross-check, 드라이브 레이아웃 |
 | J6P 3.0 (CA6DM3 13 L 560 PS) | 트럭 홈 토우티아오 | 담당자: Mr. wang | http://m.toutiao.com/group/6919343124628374029/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | 13 L 560 PS의 긴 하수구 간격 |
-| Jiefang J6 모델 드라이브 파워 라인age | Douyin 백과 사전 | 담당자: Mr. wang | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCE(싱글) | 배경 |
+Jiefang J6 모델 드라이브 파워 라인age | 도우이인 백과 사전 | 담당자: Mr. 광 | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCE(싱글) | 사이트 맵
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고: no FAW primary spec sheet was captured; 460 13 L 560 PS와 ~ 40 t GCW가 단일 소스이며 균질 모델 코드에 바인딩되어 있습니다. 중국-VI 후처리 호환성은 엔지니어링 승인 확인, 가정하지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************

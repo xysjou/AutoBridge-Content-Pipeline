@@ -1,14 +1,16 @@
 # 向阿联酋进口车辆:清关至登记序列和必须重新验证的东西
-## 道德操守办公室 元数据
-- ** 安全监督办标题**:阿联酋车辆进口和RTA登记文件指南
-- ** 金属说明**: 正确进口阿联酋车辆的顺序——结关文件、海合会/全球地面安全组织符合规定,然后是区域贸易协定登记(Mulkiya)。
-- ** 建议的URL**:/指南/车辆进口登记文件/
-- ** H1 **:阿联酋车辆进口:从港口清关到区域贸易协定登记——文件和核查
-- ** 基本关键词**: 汽车进口登记文件
-- ** 第二次搜索术语**:迪拜海关车辆进口、阿联酋Murkiya注册、海合会GSO车辆合格、阿联酋车辆进口税增值税、MOIAT车辆进口
-- ** 内部链接建议**: /指南/车辆-coc-type-核准-dosier/;/指南/钦那车辆-出口-许可证-海关-文件/;/指南/车辆-装运前检查-psi/
-- ** 图像建议**:清除** RTA 序列图; 阿联酋文件清单;
-- ** ALT建议**: "UAE海关对RTA的登记序列"; "UAE车辆进口文件清单"
+## SEO元数据
+- **SEO标题**: UAE 维基月球 车辆进口和RTA登记文件指南
+- **Meta描述**: 顺序UAE车辆进口正确——通关单证GCC/GSO符合规定,再注册RTA(Mulkiya). 报告值班/VAT数字标注为正式UAE确认,而不是标注为固定数字。
+- **H1**: UAE 维基月球 车辆进口:从港口清关到RTA 登记——文件和核查
+- **核心关键词**: 汽车进口登记文件
+- **次级搜索词**: 迪拜海关车辆进口,UAE辆穆尔基亚牌照,GCC GSO辆符合规定,UAE辆汽车进口税,VAT辆,进口MOIAT车辆
+- **建议URL**: /guides/uae-vehicle-import-registration-documents/
+- **搜索意图**: 懂UAE吗? 车辆进口:从港口清关到RTA登记——文件和核查:车辆/部件出口商在承诺订购前必须核查、记录和决定的是什么。
+- **内链建议**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **图片建议**: 清空 – RTA 序列图
+- **ALT文本**: UAE个海关到RTA个登记序列
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 范围和证据边界(第一读)
 本指南以**阿拉伯阿拉伯经济联盟为例**;向海湾合作委员会其他市场转移的顺序逻辑,但每个酋长国和海湾合作委员会国家都适用自己的形式和收费。 ** 本包中没有阿联酋联邦海关或RTA主页。 ** 因此,以下具体关税/增值税/收费数字**由货运指南报告,是时间-可持续性核查项目,不是固定事实**——在采用着陆成本模型之前,从阿联酋联邦海关当局和有关酋长国的区域贸易协定获得目前价值。
@@ -54,18 +56,18 @@
 ** 本指南是否也适用于沙特阿拉伯/卡塔尔? ** 转移的顺序概念上不同,但形式、收费和当局因海湾合作委员会国家而异——各国分别核实。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

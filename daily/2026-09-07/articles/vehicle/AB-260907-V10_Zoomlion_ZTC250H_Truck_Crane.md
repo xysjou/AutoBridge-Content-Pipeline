@@ -6,7 +6,7 @@
 - **Primary Keyword**: Zoomlion ZTC250H export specs
 - **Secondary Search Terms**: 中联重科ZTC250H; Zoomlion 25 ton truck crane; ZTC series crane; truck crane load chart; Chinese crane export; QY25 vs ZTC250
 - **Suggested URL**: /vehicles/zoomlion-ztc250h-truck-crane/
-- **Search Intent**: 面向海外买家介绍中联ZTC250H身份（25t级汽车吊=底盘+起重上装），并说明为何不能套用相邻25t吊性能表
+- **Search Intent**: Understand Zoomlion ZTC250H Truck Crane: An Identity-Level China-Market Reference and Why No Borrowed Load Chart Belongs Here: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/faw-jiefang-j7-tractor/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A Zoomlion ZTC-series 25-tonne-class truck crane with boom partially raised on neutral ground
 - **ALT Suggestion**: A 25-tonne-class truck crane with its telescopic boom partially raised on neutral ground

@@ -6,7 +6,7 @@
 - **Primary Keyword**: SAIC MAXUS V80 van export specs
 - **Secondary Search Terms**: MAXUS V80 diesel van; Xintu V80 PRO 2.0T; V80 minibus seats; MAXUS large van cargo; Chinese panel van export
 - **Suggested URL**: /vehicles/saic-maxus-v80/
-- **Search Intent**: 面向海外B端买家介绍新途V80中国市场版本身份、车身矩阵/座位/动力与版本边界
+- **Search Intent**: Understand SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
 - **Image Suggestion**: A SAIC MAXUS V80 large panel van shown in side profile to display its cargo body length
 - **ALT Suggestion**: Side profile of a SAIC MAXUS Xintu V80 large van showing the long cargo body

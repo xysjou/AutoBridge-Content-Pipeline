@@ -1,15 +1,17 @@
 # Penghapusan Mobil Cina - Kualifikasi Pilot, Licence dan Proses Izin
 
-## SEO Metadata
-- ** Judul SEO **: Cina Used- Car Expor: Kualifikasi Pilot, Ekspor Licence dan Clearance (Aturan 2026)
-- ** Meta Description **: Bagaimana sebuah ekspor perusahaan Cina menggunakan mobil: pilot-zona kualifikasi, lisensi ekspor, eksepsi projektasi kontrak, konsistensi informasi dan 2026 registrasi - aturan konsistensi.
--   H1 **: Hak Ciptaan Cina - Mobil Ekspor - Kualifikasi Pilot, Licence dan Proses Clearance
-- ** Primary Keyword **: china menggunakan proses ekspor mobil
-- ** Akhir Pencarian Second **: ekspor mobil digunakan Cina; menggunakan lisensi ekspor kendaraan; zona pilot; ekspor mobil bekas; lisensi MOFCOM
-- ** Sugesti URL **: guide china-used-car-export-licence-process
--  Search Intent : 企业如何取得二手车出口资质  办理转让登记  申领出口许可证并完成通关  含 2026 年新规 
-- ** Internal Link Sugestions **: guide china -export -expression -single-window guide userd-chinese- chine- history guide verify-chinese- charce- export -, guarter riwayat
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Cina Used- Car Expor: Pilot Qualifikasi, Ekspor Licence dan Clearance (2026 Aturan)
+- **Deskripsi Meta**: Bagaimana sebuah ekspor perusahaan Cina menggunakan mobil: pilot-zona kualifikasi, lisensi ekspor, eksepsi projektasi kontrak, konsistensi informasi dan 2026 registrasi - aturan konsistensi.
+- **H1**: Penghapusan Mobil Cina - Kualifikasi Pilot, Licence dan Proses Izin
+- **Kata kunci utama**: proses ekspor mobil yang digunakan cina
+- **Istilah pencarian sekunder**: menggunakan ekspor mobil Cina; menggunakan lisensi ekspor kendaraan; zona pilot; ekspor mobil bekas; MOFCOM lisensi
+- **URL yang disarankan**: /guides/china-used-car-export-license-process/
+- **Maksud pencarian**: Memahami Hak Ciptaan Mobil Cina - Pilot Qualifikasi, Licence dan Clearance Proses: apa yang eksportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan tentang Used- Mobil ekspor - Pilot Qualifikasi, Licence dan Clearance Process, tidak ada pemeriksaan pentas atau orang yang mengklaim.
+- **Teks ALT**: Pandangan alami terhadap materi dan subjek yang terkait dengan ekspor mobil Cina - Pilot Qualifikasi, Licence dan Clearance Process, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## ekspor mobil berlisensi, berbasis perusahan.
 Tidak seperti ekspor mobil baru biasa, ekspor kendaraan dari Cina dibatasi ke ** perusahaan berkualitas dalam daerah pilot yang disetujui ** yang dipilih melalui mekanisme pilot, dan beroperasi di bawah * lisensi ekspor **. Sebuah perusahaan tidak bisa mulai mengekspor mobil bekas hanya karena memiliki hak perdagangan umum. Daftar pilot-area yang meluas dari waktu ke waktu dan harus dibaca dari pemberitahuan MOFCOM pemerintah saat ini daripada daftar tetap.
@@ -40,7 +42,6 @@ Daftar pilot-kota saat ini dan layar sistem yang tepat adalah waktu-sensitif dan
 ** Dimana daftar percontohan kota? ** Dalam pemberitahuan terbaru MOFCOM pemerintah - jangan mengandalkan daftar statis.
 ** Apakah ini tujuan penutup aturan impor? ** Tidak, itu terpisah dan spesifik.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Daftar pilot-kota saat ini dan layar sistem yang tepat adalah waktu-sensitif dan
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: exact Cina Used- Car Expor
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Chinese Used-Car Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Daftar pilot-kota saat ini dan layar sistem yang tepat adalah waktu-sensitif dan
   - **ID**: used car export licence, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: used car export licence, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: used car export licence, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #UsedCarExport #ExportLicence

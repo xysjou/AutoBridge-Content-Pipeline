@@ -1,14 +1,16 @@
 # Delfín BYD 2025 (China): batería, rango CLTC y dos grados de motor para importadores
-## SEO Metadatos
-- **SEO Título**: BYD Dolphin 2025 China Espec: batería, rango " controles de exportación
-- **Meta Descripción**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grados,  420/520 km CLTC, DiPilot, con disciplina China-vs-overseas-spec para compradores.
-- ** URL suggested**: /vehicles/byd-dolphin/
-- ** H1 **: Delfín de BYD 2025 (Marco chino): Variedades, batería, ciclo de rango y verificación de exportación
-- **Primary Keyword**: byd dolphin 2025 gama de espectros de batería
-- **Segundary Search Terms**: Defines de ByD 44.9 kWh, Delfín 60.48 kWh Knight, Delfín CLTC 420 520, Pequeña exportación de EV de BYD, Delphin DiPilot, China EV GB/T de carga
-- **Sugerencias de enlace interno**: /vehicles/byd-yuan-plus/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/chinese-ev-charging-standard-compatibilidad/; /guides/ev-shipping- un3171-imdg-compliance/
-- **Sugerencias de imagen**: comparación estándar vs Knight grade; nota de paquete Blade; puerto de carga GB/T; pantalla de rotación/infotainment; asientos traseros
-- **Sugerencias de ALT**: "Delfín de BYD 2025 dos grados de batería"; " rango de Delfín CLTC versus ciclo de ultramar"
+## Metadatos SEO
+- **Título SEO**: BYD Delfín 2025 China Espec: batería, rango " controles de exportación
+- **Meta descripción**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grados,  420/520 km  CLTC , DiPilot, con disciplina China-vs-overseas-spec para compradores.
+- **H1**: BYD Delfines 2025 (Marco chino): Variedades, batería, ciclo de rango y verificación de exportación
+- **Palabra clave principal**: byd delfín 2025 gama de las especificaciones de la batería
+- **Términos de búsqueda secundarios**: BYD Delfines 44.9 kWh, Delfín 60.48 kWh Caballero, Delfín CLTC 420 520, BYD pequeña EV exportación, Delfín DiPilot, China EV GB/T carga
+- **URL sugerida**: /vehicles/byd-dolphin/
+- **Intención de búsqueda**: Comprender BYD Delfín 2025 (Marco chino): Variantes, Batería, Ciclo de rango y Verificación de exportaciones: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Sugerencia de imagen**: estándar vs Knight comparación de grado
+- **Texto ALT**: BYD Delfín 2025 dos grados de batería
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: una decisión EV comienza con batería y ciclo
 El Delfín es el recubrimiento compacto de la batería de BYD en el e-platform 3.0 con una batería de la hoja LFP. Para un EV, el pedido es batería → rango **ciclo** → grado motor → carga software, no un solo número de encabezado. Esta página cubre la línea ** 2025 de mercado chino (REFERENCIA MARKET: CHINA)**. BYD también vende un coche etiquetado "Delphin" en mercados extranjeros; es decir, continuidad de nombre, **no** un partido de 1: 1 espectros — tamaños de baterías en el extranjero, ciclos de gama certificados (WLTP/NEDC) y equipo difieren y deben leerse en la hoja de destino, nunca inferidos de estos números de China.
@@ -56,18 +58,18 @@ No se publica ningún precio de exportación estático. La RMB 99, 800 China fig
 **¿Se cobra un delfín chino en el extranjero sin modificaciones?** Verifique la entrada GB/T contra la infraestructura de destino en el VIN; un adaptador solo puede no resolver las diferencias de protocolo.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug

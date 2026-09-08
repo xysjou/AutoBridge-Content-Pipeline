@@ -1,16 +1,16 @@
 # Nhập xe cộ vào Kenya: KRA Customs, KSBS PVVC và đường dẫn tiêu chuẩn
-## SAO Siêu dữ liệu
-- **SEO title**: Nhập xe cộ ở Kenya: KRA Do Thái (KRA Does Duies) và Hướng dẫn KEBS PVC
-- **Meta Mô tả**: Một hướng dẫn đặc biệt về việc nhập xe vào Kenya: thủ tục hải quan và thuế của KRA, việc xác minh trước khi xuất bản của sự phù hợp (PVC), và quy tắc quay xe được xuất bản như thế nào.
-- ** H1 **: Nhập xe cộ vào Kenya: KRA Customs, KEBS PVVC và đường dẫn tiêu chuẩn
-- **Cumpary Keyword**: phương tiện Kenya nhập KRA KEBS PVC
-- **Secondary Search termss**: Kenya Bộ nhập khẩu phương tiện KEBS PVC; nhập khẩu đánh dấu Kenya; Kenya sử dụng quy tắc niên đại xe hơi; Kenya nhập khẩu
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Tìm kiếm ý định**: 向肯尼亚出口车辆需经过哪些海关计税  thể loại 装船前合格评定与标准 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image khuyên**: xuất khẩu xe cổng của hội chứng siêu dữ liệu ở vùng lòng và tài liệu KRA
-- **LT Gợi ý**: tệp tin nhập xe hơi có giấy tờ KEBS và KRA và một sân cảng ở phía sau
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Nhập xe cộ Kenya: KRA tập tục và KEBS Sổ tay PVC
+- **Meta mô tả**: Một hướng dẫn đặc biệt về việc nhập xe vào Kenya: KRA thủ tục hải quan và thuế, KEBS bản quyền trước khi xuất bản (PVC), và quy tắc quay xe được xuất bản như thế nào.
+- **H1**: Nhập xe cộ vào Kenya: KRA hải quan, KEBS PVoC và đường mòn tiêu chuẩn
+- **Từ khóa chính**: Kenya vehicle import  KRA   KEBS  PVoC
+- **Cụm tìm kiếm phụ**: Kenya KRA xe nhập khẩu nghĩa vụ nhập khẩu; KEBS phương tiện vận động PVC; nhập khẩu đánh dấu Kenya; Kenya sử dụng quy tắc thời đại xe hơi; Kenya nhập khẩu
+- **URL đề xuất**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Ý định tìm kiếm**: Hiểu được nhập khẩu xe cộ vào Kenya: KRA hải quan, KEBS PVOC và đường Standards: những gì một người xuất khẩu xe/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Gợi ý hình ảnh**: Nhập khẩu xe của người dùng ở vùng cảng của KEBS và tài liệu KRA
+- **Văn bản ALT**: Tập tin nhập khẩu xe cộ có giấy tờ KEBS và KRA và một sân cảng ở phía sau
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Kenya chia một phương tiện nhập khẩu giữa quyền thuế và cơ quan tiêu chuẩn, và bước đi tiêu chuẩn xảy ra phần lớn ** trước khi xe rời khỏi nước gốc**. **Kenya Revenue Aution (KRA)** quản lý việc đánh giá hải quan, nhiệm vụ và giấy phép; **Kenya Bureau of Standards (KEBS)** chạy chương trình trước thời xuất bản của sự thống kê (PVC) mà quyết định việc nhập khẩu có đáp ứng tiêu chuẩn Kenya hay không. Đây là hướng dẫn đặc biệt của Kenya; các số và danh sách liên quan rất nhạy cảm về thời gian và phải được đọc từ nguồn KRA/KERS hiện thời.
 

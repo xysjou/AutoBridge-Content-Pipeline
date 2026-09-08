@@ -1,14 +1,17 @@
 # 进口中国EV EAEU: 类型批准、ERA-GLONASS和必须商定的文件
-## 道德操守办公室 元数据
-- ** SIO标题**:向俄罗斯进口中国EV:EAEU型批准和海关路径
-- ** 金属说明**: 中式EV的俄罗斯/EAEU符合路线——TR CU 018/2011 OTTC vs SBKTS, 条例下的ERA-GLONASS,EPTS,中国2026出口许可证规则,付款前确切确认什么.
-- ** 建议的URL**: /指南/进口-chinese-ev-to-Russia-eac-otc/
-- ** H1 资源需求。
-- ** 基本关键词**:向俄罗斯进口中国EV 欧欧海关
-- ** 二级搜索术语**:TR CU 018/2011轮式车辆、EAEU车辆型号核准、SBKTS单车证书、ERA-GLONASS要求、EPTS电子护照、中国EV出口许可证2026
-- ** 内部链接建议**: /指南/车辆-进口-付款-tt-vs-lc/;/指南/海运-货物-保险-汽车-进口/;/指南/核查-钦那-汽车-出口-供应商/
-- ** 图像建议**:OTTC-对-SBKTS路由图;EAC符合标;ERA-GLONASS终端和SOS按钮;文档名称一致性流
-- ** ALT建议**:“欧洲铁路运输公司对SBKTS车辆认证路线”;“EAC合格标记”;“必须标明同一进口商和VIN名称的文件”。
+## SEO元数据
+- **SEO标题**: 向俄罗斯进口中国EV型:EAEU型批准和海关路径
+- **Meta描述**: The Russia/ EAEU  conformity route for a Chinese  EV  —  TR   CU  018/2011  OTTC  vs  SBKTS , ERA-GLONASS 根据条例,   EPTS , 中国2026出口许可证规则,  and  付款前要确认什么
+- **H1**: 中国电力机车如何清俄罗斯/EAEU型:符合要求路线和海关文书工作
+- **核心关键词**: 进口中国EV至俄罗斯EAEU OTTC SBKTS海关
+- **次级搜索词**: TR CU 018/2011 轮式车辆, EAEU辆车辆类型核准, SBKTS份单车证书, ERA-GLONASS 所需经费, EPTS 电子护照, 中国 EV 出口许可证 2026
+- **建议URL**: /guides/import-chinese-ev-to-russia-eac-ottc/
+- **搜索意图**: 了解中国电力机车如何清空俄罗斯/EAEU型:符合要求的路线和海关文件工作:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /guides/verify-china-car-export-supplier/
+- **图片建议**: OTTC - 对- SBKTS 路由图
+- **ALT文本**: EAEU OTTC对SBKTS车辆认证路线
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## B2B 进口商的实际问题
 在中国电子货车在三样货排成一列后,才到达俄罗斯买方手中:一份**有效的EAEU符合文件**、一份**接受登记的紧急呼叫规定**和一份**海关/单据包,其法律实体在符合证书、记录进口商和发票**之间进行了核对。 实际上,当这些文件点名不同当事方,或当预期每个单位的证书会表现为批次式批准时,装运往往遇到麻烦。 这种做法被视为采购风险控制步骤;某一路线的确切法律实体要求应由经认可的机构和海关经纪人确认。 该指南是**欧亚经济联盟内的俄罗斯**
 ## 和解后骨:TR CU 018/2011
@@ -53,30 +56,30 @@
 **中国那边的改变 2026?** From 1 January 2026 纯电动客车实行出口许可证制度 (joint Announcement No. 54),  and  出口商必须有资格参加渔业和矿产部2026份申请/名单程序。
 ** 为什么在单据上核对进口商名称? ** 作为风险控制事项,使OTTC/SBKTS持有人、记录的海关进口商和发票收货人保持一致,避免了结关/登记纠纷;如果无法完全相同,则从经认可的机构或海关经纪人获得关于可接受的安排的书面指导。
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Russia EAEU EV import approval, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Russia EAEU EV import approval, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Russia EAEU EV import approval, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Russia EAEU EV import approval, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia EAEU EV import approval, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia EAEU EV import approval, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia EAEU EV import approval, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia EAEU EV import approval, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Russia EAEU EV import approval, 汽车出口采购指南
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Russia / EAEU EV import approval, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Russia / EAEU EV import approval, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia / EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Russia / EAEU EV import approval, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Russia / EAEU EV import approval, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia / EAEU EV import approval, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia / EAEU EV import approval, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia / EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia / EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia / EAEU EV import approval, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

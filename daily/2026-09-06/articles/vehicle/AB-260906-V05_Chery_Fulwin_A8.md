@@ -6,7 +6,7 @@
 - **Primary Keyword**: Chery Fulwin A8 Fengyun A8 export specs
 - **Secondary Search Terms**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC electric range; Fulwin A8 145 km; Chery plug-in hybrid export; Fulwin A8 dimensions
 - **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Search Intent**: 面向海外B端买家介绍风云A8中国市场版本身份、插混系统/纯电续航/版本边界
+- **Search Intent**: Understand Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
 - **Image Suggestion**: Side view of a Chery Fulwin A8 plug-in hybrid sedan with charging port visible
 - **ALT Suggestion**: Side profile of a Chery Fulwin A8 PHEV sedan with its charging flap visible

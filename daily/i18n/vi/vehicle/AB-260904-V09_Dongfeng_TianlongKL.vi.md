@@ -1,15 +1,17 @@
 # Dong Phong Cối Long KL (天龙 KL) Heavy Tractor: động cơ, hộp bánh răng, Axle và GCW để xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEO title**: Dongfeng Tianlong KL Tractor Specs & Export Guide (DDi11 465, GCW 40t)
-- **Meta Mô tả**: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (tùy chọn mẹ) 40 t GCW, thêm năng lượng vào  and  Kiểm tra biến thể cần thiết.
-- ** URL đã được đánh dấu**: /vehicles/dong phong-tinalong-kl/
-- ** H1 **: Dong Phong Thiên Long Đầu Đầu Đầu KL Heavy Tractor: Tàu Con dấu Quyền năng Trung Quốc và Đáy Tàu
-- **Cumpary Keyword**: dong Phong tianlong kl ercraw
-- **Secondary Search Words**: Thiên Long 465, DDi11E465 hộp số, Dong Phong 14-speed hộp số, đầu máy kéo Trung Quốc 6x4, 40t xe tải GCW xuất khẩu
-- **I nội bộ Link gợi ý: /guides/ecoff-fuel-chiel-china-vehcles /vehcles/jmc-shunda
-- **Image gợi ý**: KL head 6x4; DDi11 động cơ; 14-speed biến chuyển/AT; tắc xi nội thất; khung khung khung và bánh xe thứ năm
-- **LT Những gợi ý**: "Dong Phong Thiên Long KL 465 Đầu máy kéo nặng," "Tanlong KL DDi11 2240Nm 14-speed GCW 40t"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Dong Phong Thiên Long KL Tractor Spec & Eli Guide (DDi11 465), GCW 40t)
+- **Meta mô tả**: Chinese-market Dongfeng Tianlong  KL  6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (AMT), 40 t GCW, thêm năng lượng điện vào  and  Kiểm tra biến thể cần thiết.
+- **H1**: Đông Phong Thiên Long KL Quan tài Đầu: tàu điện- Market và kính ảo
+- **Từ khóa chính**: Dong Phong tianlong kl ercraw
+- **Cụm tìm kiếm phụ**: Thiên Long KL 465 DDi11E465, Dong Phong 14-speed hộp số. Đầu máy kéo Trung Quốc 6x4,  40t  GCW  truck export
+- **URL đề xuất**: /vehicles/dongfeng-tianlong-kl/
+- **Ý định tìm kiếm**: Hiểu Phong Thiên Long KL Trích dẫn Eight Tractor Đầu: tàu điện-Cát-Cát-Cát-Cuong và Đác-sê-si: một nhà xuất khẩu xe hơi/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **Gợi ý hình ảnh**: Đầu máy kéo KL 6x4
+- **Văn bản ALT**: Đông Phong Thiên Long KL 465 đầu máy kéo nặng
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Người mua bối cảnh: Đầu máy điện tử được xác định bởi dây chuyền và độ nặng của con tàu điện
 Những người mua xe tải nặng không liệt kê các thiết bị mua hàng — họ chỉ định một chuỗi–gearbox kỹ thuật–axle tương ứng với trọng lượng tổng hợp**. Thiên Long KL là người Trung Quốc của Đông Phong 6 chuyên gia bán dẫn nặng. Lỗi lặp lại trên mô hình này đang làm rối loạn năng lượng đã được sửa chữa với năng lượng lưới** con số,  or blending the 465 PS tractor with the 430/520/560 PS  and  biến thể khí. Trang này tài liệu của máy kéo DDi11E465-60 Trung Quốc (REFERCE MORT: Chloe; Không có cuốn sách mỏng sơ bộ nào của OEM bị bắt, nên phải kiểm tra chéo giá trị thương mại với thông báo của MIIT.

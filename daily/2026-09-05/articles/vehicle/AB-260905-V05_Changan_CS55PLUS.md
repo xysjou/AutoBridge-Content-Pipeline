@@ -7,8 +7,10 @@
 - **Primary Keyword**: Changan / 长安 CS55 PLUS（第三代） specs export
 - **Secondary Search Terms**: Changan CS55 PLUS export; third generation CS55; Blue Whale 1.5T; Chinese petrol SUV; 7DCT
 - **Suggested URL**: /vehicles/changan-cs55-plus/
-- **Search Intent**: 了解 Changan / 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Petrol SUV Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Petrol SUV Specs and Export Chec, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Petrol SUV Specs and E, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context and generation boundary

@@ -1,15 +1,17 @@
 # ไบดี จิน ห ห ห ห ห ห ห ห ห ห ห า (秦 ห ห ห ห ห ห ห ห ห ห ห ห ห ห ห ห ห ห า ง ง ง ง ง ง ง ง ง ง ง ง ง า า า ภบ า า ภรณ์ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ พรรณ ศรี (พ.
 
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: byD Qin L DM-i Profiles & ทิศทางส่งออก (5th-Gen DM, CLTC)
-- ""คําอธิบาย" Chinese-market BYD Qin L DM-i fifth-gen plug-in hybrid — 1.5L dedicated engine,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  เช็คผู้ส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: verycles/ bid-chin-l-dm-i/
-- **H1**: BYD Qin L DM-i (Fifth-Generation DM): แฟ้มภาพประเภทภาษาจีนName สเปกตรัมและส่งออกบันทึกช่วยจํา
-- ~คําสําคัญ~ ส่งออกเป็น id_ ident
-- ~การค้นหาตามวาระที่: ~ จิน ห ห ห ห ห ห ห ห  120km  fifth generation DM, ขนาดไบต์ แบตเตอรี่เบลด ppEV ช่วงของ Qin LCLTC L. 秦 ส่งออกเป็น LDM- i
-- ~ ลิงก์ภายในที่แนะนํา~ ~/gides/vive-sing- un3556-imdg-compliance/]; guides/ful-computifition-china-Vholics/;///guides/ exportic-Vocycument-comport-commubt.
-- ~คําแนะนําของ Imaction ~: โพรไฟล์ด้าน QI L DM-i; ชาร์จแบตเตอรี; แบตเตอรีเบลดใต้แผนภาพพื้น; 120km ตรา; หลังกระท่อม
-- ~~~~~~~~~ คําแนะนํา: "BYD Qin L DM-i fifth generation PHEV sedan"; "In L DM-i 15.87kWh". แบตเตอรี่เบลด 120km CLTC"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: BYD  Qin L  DM -i  PHEV  Specs & Export Guide (5th-Gen  DM , CLTC)
+- **คำอธิบาย Meta**: จีน-มาร์เก็ต BYD ชิน หลิว DM - ปลั๊ก-อิน ไมโคร-ไฮโดรม - 1.5L เครื่องยนต์ที่อุทิศให้   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  เช็คผู้ส่งออก
+- **H1**: BYD ชิน L DM - i (Fifth-Genation DM): จีน-มาร์เก็ต PHEV (พ.ศ. สเปกตรัมและส่งออกบันทึกช่วยจํา
+- **คีย์เวิร์ดหลัก**: ส่งออกเป็น id_ ident
+- **คำค้นหารอง**: จิน L DM - i 120km  fifth generation  DM , BYD แบตเตอรี่เบลด PHEV Qin L CLTC ช่วง 秦 L DM ส่งออกเป็น PNG ผิดพลาด
+- **URL ที่แนะนำ**: /vehicles/byd-qin-l-dm-i/
+- **เจตนาการค้นหา**: เข้าใจ BYD ชิน L DM - i (Fifth-Genation DM): จีน-มาร์เก็ต PHEV (พ.ศ. สเปคและส่งออกบันทึก: สิ่งที่ผู้ส่งออกรถ/ parts ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **คำแนะนำรูปภาพ**: โพรไฟล์ด้าน Qin L DM - i
+- **ข้อความ ALT**: BYD Qin L DM-i fifth generation PHEV sedan
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของตัวซื้อ: อ่าน ในฐานะผู้แต่งภาพ ไม่ใช่ตัวย่อ ไม่ใช่ตัวย่อ
 Kin L M-I เป็นเครื่องปรุงผสมผสมผสมขนาดกลางที่สร้างขึ้นบนไบดีส์ รุ่นที่เสียชีวิต DM- ผู้ส่งออกมักใช้รถนี้ผิดวิธีเสมอ: การปฏิบัติต่อแบตเตอรีทั้งสองรุ่นที่สลับกันได้ ไม่เป็นหรอก รถไฟฟ้า 80 km และ 120 km คัน มีแบตเตอร์รี่ที่แตกต่างกัน และมีกรณีใช้งานที่แตกต่างกัน เอกสารหน้านี้ เว็บยูจีน-มาร์เก็ต (REFESTLELE: FELEST) ~; ไม่มีหน้ากําหนดต่างประเทศถูกบันทึกไว้ ดังนั้นไม่มีอะไรที่นี่ควรนําเสนอเป็น สเปกตรัมหรือปลายทาง
@@ -17,7 +19,7 @@ Kin L M-I เป็นเครื่องปรุงผสมผสมผส�
 ## ภาพ Powerrain: เครื่องยนต์ + มอเตอร์ + โหมดปฏิบัติการ
 | รายการ | Qin L DM-i (อ้างอิงจีน) |
 |---|---|
-| ชนิดพลังงาน | Plug-in hybrid (PHEV), fifth-gen DM |
+| ช ช ช น น น น น น น น น น น น ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), (PH ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ), ),
 | กลไก | 1.5 L เครื่องยนต์ลูกผสมที่อุทิศ |
 | การส่ง | E-CVT (Single-สปีด DHT, DM Super-hibrad) |
 | แบตเตอรี | แบบ LFP ~แบตเตอรี่~ |
@@ -74,14 +76,14 @@ A PHEV buyer needs four answers in order: ** เครื่องยนต์ �
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+- ~~~: อ้างอิงการส่งออกของ AutoBridge- Buyer — ByD Qin L DM-i, Plugin-in cary Zero
+- ~FR~: Réfénc Autobridge ส่งออก acheterers — IyD Qin L DM-i, Vehichule softterline
+- - - - - - - - - AutoBridge-Referenz furer Excufer — yD Qin LDM-i, ปลั๊ก Hybradfharijug ลิมูซีน
+- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร ตา โดเรส เด เอ สกา รา ซิ ยง — ไบด์ หลิน ห ห ห ม ม อย, วี อา คูโล ไฮ บริ โด อิช รู บา
   - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
   - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+- ~วูฟ~: Tai liju Thomkho Auto Bridge ju ng i i i gua au chhu — Id Gin L DM-i, xe imum Skk nagai CUV
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
   - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
@@ -92,11 +94,11 @@ A PHEV buyer needs four answers in order: ** เครื่องยนต์ �
 |---|---|---|---|---|---|---|
 | Qin พารามิเตอร์ DM | ฐานข้อมูล Dandmedi | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | ROOS_ CHCKED | ขนาด, เบสล้อ, แบตเตอรี่, DHT, น้ําหนัก, ถัง |
 | การปรับแต่ง Qin L DM | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | ROOS_ CHCKED | ขนาด, ช่วงของ CLTC |
-| Qin L DM-i 2024 120km การ ตัด ไม้ | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | ROOS_ CHCKED | 120 km CLTC อ้างอิงราคาในประเทศ พ.ศ. |
-| Fifth-gen DM range & fuel-use analysis | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | ผู้โดยสาร_ปลายทาง | เครื่องยนต์ที่สละแล้ว, เวลาชาร์จเร็ว, อ้างว่าช่วงรวม |
+| Qin L DM-i 2024 120km การ ตัด ไม้ | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | ROOS_ CHCKED | 120 km CLTC อ้างอิงราคาในประเทศ พ.ศ. ○
+| Fifth-gen DM range & fuel-use analysis | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04-04 | | | | | | | | | | | ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ล ล | | | | | ย ย ย ย ย ท ท ท ท ท ท ท ท ท ท ท ท ท ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ | | | | | | | | | | | | | | | | | | | | | | | | | |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |

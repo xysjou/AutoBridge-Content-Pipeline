@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: EV Export Booking Documents Under IMDG 42-24: UN3556 Paperwork & Carrier Checks
 - **Meta Description**: How lithium-battery vehicles are classified for ocean freight under current IMDG Amendment 42-24 (UN3556/3557/3558; legacy UN3171 transition ended), the SP961/SP962 paths, UN38.3 and SDS paperwork, and carrier-specific booking conditions.
-- **Suggested URL**: /guides/ev-shipping-un3171-imdg-compliance/
 - **H1**: Shipping Electrified Vehicles by Sea: Current Dangerous-Goods Classification, the Booking Document Set and Red Lines
 - **Primary Keyword**: electric vehicle ocean shipping un3556 imdg 42-24 documents
 - **Secondary Search Terms**: UN3556 lithium ion battery vehicle, UN3557 lithium metal vehicle, UN3558 sodium ion vehicle, legacy UN3171 transition, SP961 SP962 vehicle, Class 9 label 9A, UN38.3 test summary, SDS electric car shipping, EV SOC requirement carrier
+- **Suggested URL**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Search Intent**: Understand Shipping Electrified Vehicles by Sea: Current Dangerous-Goods Classification, the Booking Document Set and Red Lines: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
-- **Image Suggestions**: UN number/class label diagram; SP961-vs-SP962 decision flow; booking document chain; Class 9 / label 9A placard
-- **ALT Suggestions**: "UN3556 IMDG 42-24 Class 9 electric vehicle shipping"; "EV shipping booking document chain"
+- **Image Suggestion**: UN number/class label diagram; SP961-vs-SP962 decision flow; booking document chain; Class 9 / label 9A placard
+- **ALT Suggestion**: UN3556 IMDG 42-24 Class 9 electric vehicle shipping
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## Start Here: a Whole EV Is Dangerous Goods, and the Entry Changed in 42-24
 An intact, factory-built electrified vehicle is still dangerous goods for sea transport. Under **IMDG Code Amendment 42-24 (2024 Edition), mandatory from 1 January 2026**, battery-powered vehicles are split into dedicated entries rather than falling under one blanket number:
 - **UN3556 — Vehicle, lithium-ion-battery-powered** (the case for a BEV or a PHEV/EREV whose traction battery is lithium-ion);

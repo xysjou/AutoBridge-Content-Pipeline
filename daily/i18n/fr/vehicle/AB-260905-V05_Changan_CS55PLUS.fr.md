@@ -1,15 +1,29 @@
 # Changan CS55 PLUS (3rd Generation, 2024) — Spécifications et contrôles d'exportation des VUS à essence du marché chinois
+## Métadonnées SEO
+- **Titre SEO**: Changan CS55 PLUS (3rd Gen) 2024: Marché Chinois ICE Spécifications et Guide d'exportation
+- **Description meta**: Marché chinois de troisième génération Changan CS55 PLUS essence SUV: Baleine bleue NE 1.5T, 7DCT, dimensions, utilisation de carburant WLTC, et pourquoi l'hybride est une ligne séparée.
+- **H1**: Changan CS55 PLUS (3rd Génération, 2024) — Essence marché chinois SUV Spécifications et contrôles à l'exportation
+- **Mot-clé principal**: Changan / 长安 CS55 PLUS (第三代) spécifications exportation
+- **Termes de recherche secondaires**: Changan CS55 PLUS exportation; troisième génération CS55; Baleine bleue 1.5T; essence chinoise SUV; 7DCT
+- **URL suggérée**: /vehicles/changan-cs55-plus/
+- **Intention de recherche**: Comprendre Changan CS55 PLUS (3rd Generation, 2024) — Essence du marché chinois SUV Spécifications et contrôles à l'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **Suggestion d'image**: Une scène réaliste, axée sur le document/véhicule illustrant Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Petrol SUV Specs and Export Chec, aucune inspection par étapes ni les personnes réclamées.
+- **Texte ALT**: Vue de près, naturelle des matériaux et du sujet lié à Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Essence SUV Specs et E, fond neutre, aucune personne ni action d'inspection montrée.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
-## OEuvre Métadonnées
-- **Référencement**: Changan CS55 PLUS (3rd Gen) 2024: Marché Chinois ICE Spécifications et Guide d'exportation
-- **Description détaillée**: SUV essence Changan CS55 PLUS de troisième génération sur le marché chinois: Blue Whale NE 1.5T, 7DCT, dimensions, utilisation de carburant WLTC, et pourquoi l'hybride est une ligne séparée.
-- ** H1 **: Changan CS55 PLUS (3rd Génération, 2024) — Spécifications des VUS à essence et contrôles à l'exportation sur le marché chinois
-- **Mot-clé principal**: Changan 长安 CS55 PLUS(第三代) spécifications exportation
-- ** Termes de recherche secondaires**: Changan CS55 PLUS export; troisième génération CS55; Baleine bleue 1.5T; VUS chinois à essence; 7DCT
-- **URL suggérée**: /véhicules/changan- cs55-plus/
-- **Intention de la recherche**: 了解 Changan 长安 CS55 PLUS(第三代) 中国版规格 -配置与出口适配性 (车型参数页)
-- **Suggestions de lien interne**: /véhicules/changan- cs55-plus/, /guides/émissions-compatibilité-histoire/, /guides/chine-utilisé-automobile-exportation-licence-processus/
-- **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: Changan CS55 PLUS (3rd Gen) 2024: Marché Chinois ICE Spécifications et Guide d'exportation
+- **Description meta**: Marché chinois de troisième génération Changan CS55 PLUS VUS essence: Blue Whale NE 1.5T, 7DCT, dimensions, utilisation de carburant WLTC, et pourquoi l'hybride est une ligne séparée.
+- **H1**: Changan CS55 PLUS (3rd Generation, 2024) — Spécifications et contrôles d'exportation des VUS à essence du marché chinois
+- **Mot-clé principal**: Changan / 长安 CS55 PLUS(第三代) spécifications exportation
+- **Termes de recherche secondaires**: Changan CS55 PLUS export; troisième génération CS55; Baleine bleue 1.5T; VUS chinois à essence; 7DCT
+- **URL suggérée**: /vehicles/changan-cs55-plus/
+- **Intention de recherche**: Comprendre lechangan cs55 plus (3rd génération, 2024) — les spécifications du marché chinois de l'essence et les contrôles à l'exportation: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant Changan CS55 PLUS (3rd Generation, 2024) — Spécifications du SUV essence marché chinois et le Chec d'exportation, aucune inspection par étapes ni les personnes réclamées.
+- **Texte ALT**: Vue de près, naturelle des matériaux et du sujet lié à Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market SUV essence Specs et E, fond neutre, aucune personne ni action d'inspection montrée.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
 ## Contexte de l'acheteur et limite de production
 Cette page ne couvre que le ** troisième Changan CS55 PLUS (2024) avec le groupe motopropulseur essence (ICE)**. La version ** super hybride est une ligne distincte** avec des figures différentes de la carrosserie et du groupe motopropulseur et n'est pas fusionnée ici. Le marché de référence est **Chine**.
@@ -53,7 +67,6 @@ Pour un VUS essence, les contrôles critiques de la commande sont le stade **ém
 **Le prix à l'exportation est-il de 99 à 900 RMB?** Non — référence de lancement national.
 ** Quelle transmission?** 7-speed double embrayage humide (7DCT) sur la ligne capturée.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -71,18 +84,18 @@ Pour un VUS essence, les contrôles critiques de la commande sont le stade **ém
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact Changan CS55 PLUS Gen3
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
   - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
   - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
@@ -95,6 +108,5 @@ Pour un VUS essence, les contrôles critiques de la commande sont le stade **ém
   - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE

@@ -1,16 +1,16 @@
 # Zollfreiwillige Offenlegung in China: Aus einem selbstgefundenen Fehler ein Toleranzergebnis machen
-## SEO Metadaten
-- **SEO Titel**: China Customs Voluntary Disclosure & Audit Tolerance for Exporters | AutoBridge
-- **Meta Description**: Wie China Zoll freiwillige Offenlegung funktioniert, das aktuelle Politikfenster bis 30 Juni 2027, wenn Verwaltungsstrafen aufgehoben oder reduziert werden können, und was ein Exporteur dokumentieren muss.
-- ** H1 **: Zollfreiwillige Offenlegung in China: Aus einem selbstgefundenen Fehler ein Toleranzergebnis machen
-- ** Primäres Keyword**: China Customs voluntary disclosure audit tolerance
-- **Secondary Search Terms**: Zoll freiwillige Offenlegung China; 主动披露; keine Verwaltungsstrafe Zoll; Zoll-Audit-Verordnung Artikel 27; verspätete Zahlung Zuschlag Ermäßigung
+## SEO-Metadaten
+- **SEO-Titel**: China Customs Voluntary Disclosure & Audit Tolerance für Exporteure | AutoBridge
+- **Meta-Beschreibung**: Wie China Zoll freiwillige Offenlegung funktioniert, das aktuelle Politikfenster bis 30 Juni 2027, wenn Verwaltungsstrafen aufgehoben oder reduziert werden können, und was ein Exporteur dokumentieren muss.
+- **H1**: Zollfreiwillige Offenlegung in China: Aus einem selbstgefundenen Fehler ein Toleranzergebnis machen
+- **Haupt-Keyword**: China Zoll freiwillige Offenlegung Audit Toleranz
+- **Sekundäre Suchbegriffe**: freiwillige Zollanmeldung China; 主动披露; keine Verwaltungssanktion Zoll; Zoll-Audit-Verordnung Artikel 27; verspätete Zahlung Zuschlag Ermäßigung
 - **Vorgeschlagene URL**: /guides/customs-voluntary-disclosure-audit-tolerance/
-- **Search Intent**: 海关主动披露是什么 符合条件为何可不予 / 减轻行政处罚 现行政策窗口与办理要点
-- **Interne Linkvorschläge**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-freety-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
+- **Suchabsicht**: Zollfreiwillige Offenlegung in China verstehen: Aus einem selbstgefundenen Fehler ein Toleranzergebnis machen: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
 - **Bildvorschlag**: Ein Finanzbeamter, der einen schriftlichen Bericht über die freiwillige Offenlegung mit offener Zollkontrollakte erstellt
-- **ALT Suggestion**: Hände bereiten ein freiwilliges Offenlegungsschreiben neben einer offenen Zollauditmappe vor
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **ALT-Text**: Hands Vorbereitung eines freiwilligen Offenlegungsschreibens neben einer offenen Zollauditmappe
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Es gibt einen bedeutenden Unterschied in der chinesischen Zolldurchführung zwischen einem Fehler, den die Behörde während einer Prüfung findet, und einem Fehler, den ein Unternehmen selbst findet und meldet. Der Mechanismus der freiwilligen Offenlegung (主动披露) basiert auf diesem Unterschied: Ein Unternehmen, das seine unterbezahlten Abgaben feststellt oder durch seine eigene interne Kontrolle eine Zollpflicht verletzt, kann einen schriftlichen Bericht vorlegen und die Behandlung akzeptieren und - sofern die gesetzlichen Bedingungen erfüllt sind - eine tolerantere Behandlung erhalten, als wenn das gleiche Problem vom Zoll entdeckt würde. Dieser Leitfaden beschreibt die Rechtsgrundlage, das aktuelle Zeitfenster für die Toleranz, wie der Mechanismus tatsächlich abläuft und welche Grenzen für die Einstufung eines bestimmten Falls gelten.
 

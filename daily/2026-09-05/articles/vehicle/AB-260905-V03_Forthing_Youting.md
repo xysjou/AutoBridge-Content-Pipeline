@@ -7,8 +7,10 @@
 - **Primary Keyword**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
 - **Secondary Search Terms**: Forthing Youting export; 游艇 MPV specs; Chinese 7-seat MPV; MPV PHEV; passenger van import
 - **Suggested URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Expor, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context: one MPV nameplate, two energy lines

@@ -1,16 +1,16 @@
 # 케냐로 차량 수입: KRA 세관, KEBS PVoC 및 표준 경로
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 케냐 차량 수입: KRA 세관 듀티 및 KEBS PVOC 가이드
-- **마타 기술 **: 케냐에 차량을 수입하는 국가별 가이드: KRA 세관 절차 및 세금, 적합성 (PVoC)의 KEBS 사전 수출 검증 및 롤링 차량 요금 규칙이 출판되는 방법.
-- ** H1 **: 케냐로 차량 수입: KRA 세관, KEBS PVoC 및 표준 경로
-- ** 일기 키워드 **: 케냐 차량 수입 KRA KEBS PVOC
-- **세컨드 수색 약관**: 케냐 KRA 차량 수입품 의무; KEBS PVoC 모터 차량; 수입 표준화 표 케냐; 케냐는 차 나이 규칙을 사용했습니다; 케냐 수입품 선언
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- ** 수색 **: 向肯尼亚出口车辆需经过哪些海关计税、 装船前合格评定与标准 / 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image 제안**: KEBS와 KRA 문서로 Mombasa 포트 차량 수입 처리
-- ** ALT 제안**: KEBS와 KRA 종이작업과 배경에 있는 항구 야드를 가진 차량 수입품 파일
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO 메타데이터
+- **SEO 제목**: 케냐 차량 수입품: KRA 세관 의무 및 KEBS PVoC 가이드
+- **메타 설명**: 케냐로 차량을 수입하는 국가별 가이드: KRA 세관 절차 및 세금, KEBS 예비 수출 인증 (PVoC) 및 롤링 차량 요금 규칙이 출판되는 방법.
+- **H1**: 케냐로 차량 수입: KRA 세관, KEBS PVoC 및 표준 경로
+- **주요 키워드**: 케냐 차량 수입 KRA KEBS PVoC
+- **보조 검색어**: 케냐 KRA 차량 수입 의무; KEBS PVoC 모터 차량; 수입 표준화 마크 케냐; 케냐 사용 자동차 연령 규칙; 케냐 수입 선언
+- **추천 URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **검색 의도**: 케냐로 가져 오기 차량에 대해: KRA 세관, KEBS PVoC 및 표준 경로: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **이미지 제안**: KEBS 및 KRA 문서로 모바스 포트 차량 수입 처리
+- **ALT 텍스트**: KEBS 및 KRA 용지 작업 및 배경의 포트 야드와 차량 가져 오기 파일
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 케냐는 세금 기관과 표준 신체 사이에 차량 수입을 분할하고 표준 단계는 크게 ** 차량이 기원국을 나타낸다 **. **Kenya Revenue Authority (KRA)**는 세관 공세, 관세 및 정리를 처리합니다. **Kenya Bureau of Standards (KEBS)**는 규제 수입이 케냐 표준을 충족하는지 결정하는 Conformity (PVoC) 프로그램의 사전 수출 검증을 실행합니다. 이것은 케냐 특정 가이드입니다. 숫자와 목록은 시간 민감하고 현재 KRA / KEBS 소스에서 읽을 수 있습니다.
 
@@ -83,15 +83,15 @@ KRA가 발표한 롤링 제조년 규칙입니다. 고정 번호를 사용하되
 | KRA 官网 (海关税收征管机构身份; 具体进口税页未取到稳定子页) | 케냐 매출 | 뚱 베어 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.kra.go.ke/ | 海关税务机构身份 - 肯尼亚海关税务 |
 | KRA 对二手机动车启用新 CRSP 现行零售价表 (2025-07-01, T4 仅线索, 须 KRA 官方核) | 顺企网 (T4년) | 뚱 베어 | T4 | 한국어 | https://m.11467.com/product/d40233025.htm | CRSP 估值线索의  |
 | , 肯尼亚只进口车龄 8 年内二手车 '(人民网 / 头条媒体口径, 非 KEBS / KRA 一手) | 今日头条 (媒体镜像년) | 뚱 베어 | T3 | 한국어 | http://m.toutiao.com/group/6906281676268110344/ | 8 年车龄线索년  |
-| 자동차 수입 (knowledge base) | 케냐 매출 | 뚱 베어 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis - 의무 부품은 HS에 따라 다릅니다. 세금 시간 감지, 현재 요금을 확인 |
-| 자동차 수입 절차 | 케냐 매출 | 뚱 베어 | T1 | TIME_SENSITIVE(주) | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis - 수입 절차 및 세금 범주; KRA에 의해 출판 된 압연 제조 년 규칙 |
+| 자동차 수입 (knowledge base) | 케냐 매출 | 뚱 베어 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis - 의무 부품은 HS에 따라 다릅니다. 세금 정보
+| 자동차 수입 절차 | 케냐 매출 | 뚱 베어 | T1 | TIME_SENSITIVE(주) | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis - 수입 절차 및 세금 범주; 확장 파일 형식 : 확장 파일
 | PVOC 프로그램 운영 설명서 v14 (9 Nov 2025) | 케냐 국가 표준 | 뚱 베어 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis - 모터 차량/모바일 장비 PVoC 및 임명된 검사 대리인 |
 | 수입 표준화 Mark Guidelines의 특징 | 케냐 국가 표준 | 뚱 베어 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis - PVoC-licensed/regulated 수입을 위한 ISM 발행 |
-| PVoC 프로그램 운영 설명서 (InfoTrade Kenya 포털) | InfoTrade 케냐 (정부 무역 포털) | 뚱 베어 | T1 | CROSS_체크 | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis - KS 표준에 따라 평가 된 중고 차량; 현재 버전을 확인 |
+| PVoC 프로그램 운영 설명서 (InfoTrade Kenya 포털) | InfoTrade 케냐 (정부 무역 포털) | 뚱 베어 | T1 | CROSS_체크 | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis - KS 표준에 따라 평가 된 중고 차량; 확장명
 | 케냐 무역 네트워크 기관 (KenTrade) 공식 | 케냐 무역 네트워크 기관 | 뚱 베어 | T1 | CROSS_체크 | https://www.kentrade.go.ke/ | kebs_qis - 국가 단 하나 창 무역 facilitation 몸 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: KE (肯尼亚单国의 Country_SPECIFIC; 税率 /CRSP/车龄 /PVoC 费用为时点数据)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

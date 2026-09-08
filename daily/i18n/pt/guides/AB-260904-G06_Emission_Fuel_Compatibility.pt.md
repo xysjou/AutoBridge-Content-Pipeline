@@ -1,15 +1,17 @@
 # China-VI Veículos Ultramarinos: Normas de Emissão, a Emenda 2026 e Compatibilidade com Combustíveis Os compradores devem verificar
 
-## SEO Meta- dados
-- ** Título SEO**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 GB17691
-- ** Descrição do Meta**: Separação de direitos leves GB18352.6-2016 (emenda XG1-2026) de pesados GB17691-2018, China-VI diesel enxofre limites e risco DPF SCR, e porque China VI nunca auto-iguals Euro ou aprovação EPA.
-- ** URL sugerido**: /guias/combustível-combinação-combustível-veículos-china
-- ** H1 **: Levando um veículo China-VI para o exterior: Que padrão de emissão se aplica, e o combustível local irá adotá-lo?
-- **Primary Keyword**: China 6 emissão padrão combustível exterior compatibilidade GB18352.6 GB17691
-- ** Termos de pesquisa secundários**: GB18352.6-2016 XG1-2026, GB17691-2018 china de serviço pesado 6, GB19147 enxofre diesel 10ppm, DPF SCR alto combustível de enxofre, China VI vs Euro equivalência
-- ** Sugestões de ligação interna**: /guias/veículo-exportação-pdi-pré-navio-manufação/; /veículos/jmc-shunda/; /veículos/dongfeng-tiang-long-kl/
-- ** Sugestões de imagens**: divisão padrão leve vs. pesada; diagrama de pós-tratamento DPF/SCR; calibre de enxofre-conteúdo; ciclo de verificação de destino
-- ** Sugestões ALT**: "Little-yold-yold GB18352.6 e pesado-yold GB17691 separados com verificação de compatibilidade do combustível"
+## Metadados SEO
+- **Título SEO**: China VI Guia de Compatibilidade de Emissões e Combustíveis Ultramares — GB18352.6 / GB17691
+- **Meta descrição**: Separação de direitos leves GB18352.6-2016 (emenda XG1-2026) de direitos pesados GB17691-2018, China- VI diesel enxofre limites e DPF/SCR risco, e porque China VI nunca auto-iguales Euro ou EPA aprovação.
+- **H1**: Tomar uma China- VI Veículo no exterior: Qual padrão de emissão se aplica, e o combustível local irá adotá-lo?
+- **Palavra-chave principal**: China 6 emissão padrão de combustível no exterior compatibilidade GB18352.6 GB17691
+- **Termos de busca secundários**: GB18352.6-2016 XG1-2026, GB17691-2018 china de serviço pesado 6, GB19147 enxofre diesel 10ppm, DPF SCR combustível de enxofre elevado, China VI vs equivalência Euro
+- **URL sugerida**: /guides/emission-fuel-compatibility-china-vehicles
+- **Intenção de busca**: Compreenda Tomar uma China- VI Veículo no exterior: Qual padrão de emissão se aplica, e o combustível local irá apropriá-lo?: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Sugestão de imagem**: divisão padrão leve vs. pesada
+- **Texto ALT**: Light-duty GB18352.6  and  GB17691 pesados separados com verificações de compatibilidade com combustível
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Por que "China VI" não é um número
 Os compradores frequentemente lêem "China VI 国六 " como um único padrão. Não é: **veículos leves e pesados se encontram sob diferentes normas chinesas**, e uma norma de emissão também é distinta de **compatibilidade com combustíveis** e de ** aprovação de tipo de destino**. Este guia separa todos os três e estados exatamente onde os padrões oficiais da China terminam e verificação de destino começa.

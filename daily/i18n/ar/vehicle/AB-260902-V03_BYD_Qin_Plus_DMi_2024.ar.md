@@ -1,14 +1,17 @@
 # حسب ادارة التنمية البشرية، Qin Plus DM-i - PHEV Architecture, Two Battery Versions and Export checks
-## SEO Metadata
-- ** عنوان الحلقة**: حسب رتبة كين زائداً DM-i PHEV: Two Battery Versions " Export Guide "
-- ** وصف البيانات**: كما شرحه (كين) زائداً (دي إم) للمستوردين - كيف أن المحرك 1.5L محرك كهربائي  8.32/18.32 kWh battery, E-CVT  and  أساليب التشغيل تجمع بين  and  why 55 vs 120 must be fixed by VIN.
-- ** URL المقترض**: /مركبات/قنّة
-- ** H1 **: من جانب شركة Qin Plus DM-i: PHEV Powertrain, Version Differences and What Importers Must Confirm
-- ** كلمة رئيسية**: تصدير مواصفات من قبل شركة Qin Plus DM-i
-- ** محطات البحث الثانية**: Qin Plus DM-i 55 vs 120، حسب DM-i plug-in hybrid، Qin Plus 18.32 kWh, Qin Plus DM-i overseas/Bahrain market, PHEV NEDC WLTC range, Chinese PHEV sedan export
-- ** مقترحات داخلية بشأن الروابط**: /حلقات/حلقات من نوع يوان - زائد/؛/أغدا/الصينية - حتى المطابقة /أغدا/الغراءات/التوجيهات/الأجهزة التجارية - أجهزة
-- ** اقتراحات تتعلق بالصور الجانبية**: سيدان؛ 55 مقابل 120 بطاقة نسخ؛ محرك DM-i+motor+E-CVT، مركب مركب؛ مركب مركب مركب مركب مركب؛ مركب مركب مركب مركب مركب؛ مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب؛ مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب مركب
-- ** اقتراحات بشأن: "BYD Qin Plus DM-i plug-in hybrid sedan" ؛ "55km مقابل 120km بطاريات مقارنه" ؛ "BYD DM-i series-hybrid powertrain layout"
+## بيانات SEO الوصفية
+- **عنوان SEO**: BYD Qin Plus DM -i PHEV: Two Battery Versions " Export Guide "
+- **وصف Meta**: BYD (كين زائد DM) - شرحت للمستوردين - كيف أن المحرك 1.5L، محرك كهربائي  8.32/18.32 kWh battery, E- CVT   and  أساليب التشغيل تجمع بين  and  why 55 vs 120 must be fixed by  VIN .
+- **H1**: BYD Qin Plus DM -i: PHEV Powertrain, Version Differences and What Importers must Confirm
+- **الكلمة المفتاحية الرئيسية**: BYD Qin Plus DM - المواصفات التصديرية
+- **مصطلحات بحث ثانوية**: Qin Plus DM -i 55 vs 120, BYD DM -أنا أُقرّبُ هجيناً Qin Plus 18.32 kWh, Qin Plus DM -i overseas/Bahrain market, PHEV NEDC WLTC range, Chinese PHEV sedan export
+- **URL المقترح**: /vehicles/byd-qin-plus-dmi/
+- **نية البحث**: فهم BYD Qin Plus DM -i: PHEV Powertrain, Version Differences and What Importers must Confirm: What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
+- **اقتراح الصورة**: جانبي من البيانات
+- **نص ALT**: BYD Qin Plus DM - أنا plug-in hybrid sedan
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
+
 ## لماذا يجب أن يُحدد نظام إدارة الـ "دي إم آي" كنظام
 إن القلنسوة زائداً DM-i هي سيارة مهجورة ** مدمجة لا مركب EV ولا سيارة نفط تقليدية. "الدمّار" "الدمّر" هو نظام مُختلف بسلسلة" (أ) محرك صغير مُلحّ من حيث الكفاءة ** 1.5L مُطلِق طبيعيا**، ومحرك حركي مُحرّك**، وكتيب مُتَوَجِّر من طراز LFP، وطائرة من طراز CVT** تعملان على نحو يجعل السيارة تُشغل بالكهرباء حيثما أمكن، وتستخدم المُحرك أساساً من أجل توليد الطاقة بكفاءة ولمساعدة عالية السرعة. وبسبب ذلك، يجب أن يصلح الأمر أربعة أشياء معا - حجم البطاريات، والنسخة الكهربائية فقط، والناتج الحركي، والسلوك التشغيلي**؛ "الـ "كين زائد دي إم آي" بدون الـ55/120 التسميه غامضة هذه الصفحة الأبدية تغطي **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: **. كما يعرض برنامج التنمية البشرية على موقع " ** زائداً " DM-i** في صفحات مختارة من الأسواق الخارجية؛ تلك المواصفات الرسمية الإقليمية تحكم تلك السيارات. ** قاعدة تحديد الهوية النموذجية:** يُعامل نموذج " بي دي بي إي في " (PHEV) مختلف اسمه على أنه نموذج* ذي صلة، وليس النموذج نفسه، ما لم يذكر المدير العام صراحة الاسم المستعار - أي المنصات المشتركة أو القوة أو المظهر لا يثبت وجود نظام SAME. -الطريقة
 ## الجانبان الجانبان
@@ -21,7 +24,7 @@
 ناتج سيارة أكبر حجماً من طراز 145 kW/ 197 PS  and  حزمة الـ18.3 kWh مثبتة على صفحة (كين اكس) الخاصة بـ (دين دى إم) للبحرين مُتَفَقَّد، (أ) نطاق محدود مع النموذج المذكور أعلاه**؛ China version figures (8.32/18.32 kWh,  132/145 kW, وتتم مراقبة هذه الشبكة عبر قواعد البيانات الصينية (CROSS-CHECKED). The 120 is both quicker and heavier (curb: 1620 kg for the 120KM 领先型)
 ## محرك وأسلوب التشغيل (الأسئلة الخاصة بمركبات الكربون الكلورية فلورية)
 - ** مهندس**: 1.5L طبيعياً يتطلع إلى L4  81 kW (110 PS) 135 N·m; وهي في المقام الأول وحدة بدلا من المحرك الرئيسي.
-- ** Transmission**: E-CVT single-speed electric continuously changing drive - There is no multi-step equipmentbox to spec.
+- Transmission**: E-CVT الكهرباء ذات السرعة الواحدة التي تتغير باستمرار - لا يوجد جهاز متعدد الخطوات للتنبّه.
 - ** المواد**: EV (شحنة مستنفدة) وهجين (محتوية على رسوم)؛ واستُشهد باستخدام الوقود المحتوي على رسوم بحوالي 3.8 L/ 100 km (الإندونيس). وبالنسبة لأسطول التصدير، يرجى من العملاء أن استخدام الوقود في العالم الحقيقي يتوقف على السلوك المزيف - وهو جهاز لاسلكي محركه إلا بشحنات تصرفات مثل الهجين وليس على شكل EV.
 - ** سرعة التشغيل**: 185 km/h.
 ## البطارية، والشحن، والتأديب على أساس نوعين
@@ -33,7 +36,7 @@ A PHEV carries ** Two** range numbers that buyers conflate: ** النطاق ال
 ## قبل الدفع
 - "الـ55 أو 120 **"  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
 - تسجيل دورة الكهرباء ** (NEDC vs WLTC)  and  (ج) الحصول على PHEV المصدق عليها في الوجهة المقصودة، حيث تتوقف الضرائب أو الحوافز على ذلك.
-- Confirm connector and AC/DC capability **by grade**; do not assume GB/T matches destination sockets.
+- وصلة للمؤكد وإمكانية AC/DC** لا تفترض أن (جي بي) و(تي) يطابق جوارب الوجهة
 - الجهة التوجيهية للالتفاف، احتواء خارج الصين، وضمان يغطي المحرك** والبطارية****والحركة**.
 - تحقق من تصنيف المقصد للزيت النباتي - الحوافز تختلف عن الأشعة المقطعية النقية
 ## طلب تخصيص موارد التصدير الحالية
@@ -45,38 +48,38 @@ A PHEV carries ** Two** range numbers that buyers conflate: ** النطاق ال
 ** هل هو 1245 km من النطاق الكهربائي**؟ لا - إنه رقم صيني مشترك في الوقود + الكتيبة؛ الكهرباء فقط هي أكثر من 120 km شركة نيو دي سي
 ** هل باع في الخارج**؟ ويقدم برنامج التنمية البشرية نسخة من " كين زائدا " في صفحات مختارة من الأسواق الخارجية؛ ويستخدم صحيفة " الوجهة الرسمية ". وأي نموذج مختلف لإسم التصدير يتطلب تأكيداً صريحاً من جانب وزارة الدفاع - لا يفترض أن يكون النموذج نفسه هو نموذج ثنائي الفينيل متعدد البروم ذي التطلعات.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| صفحة إقليمية رسمية من قبل شركة QIN PLUS DM-i (en-bh = موقع البحرين القطري) | (**مسؤول رسمي**) | Export ** Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ** متفشية (مقلوب: هذا يسمى كين زائدا دي إم آي فقط)*  | 18.3 kWh حزمة، تصل إلى 197 hp 145 kW، 7.3 حزمة من أجل ما يسمى Qin Plus DM-i |
-| Glory Edition 55/120 config | أوتومهومي (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | صرخات | الأبعاد 1.5L 81 kW، 132 kW محرك E-CVT، النطاق |
+| | (**وَصْرَغَ**) | Export ** Bahrain (regional en-bh page; ليس UAE**: https://www.byd.com/en-bh/car/qin-plus-dmi . 2026-09-03 | repeatedly off and (media: هذا يسمى كين زائدا دي إم آي فقط)*  | 18.3 kWh حزمة، تصل إلى 197 hp 145 kW، 7.3 حزمة من أجل ما يسمى Qin Plus DM-i |
+| Glory Edition 55/120 config | orob) (之《家《家《家《家《家的. | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | | | | | 1.5L 81 kW, 132 kWWECT E-CVT,  النطاق  النطاق | |
 | إطلاق Glory Edition | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | صرخات | 145 kW 325 N·m, 18.32 kWh, combined-range |
-| Qin Plus config | Xcar (爱卡) PCauto Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | صرخات | وزن الكرونات، قاعدة العجلات، العالمية للسيارات، البطارية |
+) Qin Plus config ) Xcar (( PCauto Guazi) CN | https://newcar.xcar.com.cn/m72508/config.htm ? 2026-09-02 ?? ? الاستردادي يُخضع أيضاً للاجراءات، والانتاجات، والدياس العالمي، ?
 | 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE OURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
 | 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE OURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE OURCE | 轴距 2718mm、油耗、0-100 加速 |

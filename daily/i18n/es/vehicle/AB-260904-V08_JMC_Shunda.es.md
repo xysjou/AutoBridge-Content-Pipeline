@@ -1,15 +1,17 @@
 # JMC Shunda (顺达) Camión de luz: GVW, Payload, Motor y Cargo Body para compradores de exportación
 
-## SEO Metadatos
-- **SEO Title**: JMC Shunda Light Truck Specs " Export Guide (GVW 4.27t, China- 6)
-- **Meta Descripción**: China-market JMC Shunda camión de luz de placa azul — JX493 diesel 90 kW, GVW 4.27 t, 3700 mm cama de lavanda, rueda de rodadura y círculo de giro, más la carga de pago y los controles de la conversión del motor necesitan los exportadores.
-- ** URL agregada**: /vehicles/jmc-shunda/
-- ** H1 **: JMC Shunda: Chino-Marcet Chasis Light-Truck, GVW y Especies de Cargo para Exportar
-- **Primary Keyword**: jmc shunda light truck specs export
-- ** Términos de búsqueda de la segunda reunión**: JMC Shunda JX493, 顺达小卡, camión de luz chino GVW, carga de la entrega de JMC, exportación de camión diesel China- 6
-- **Sugerencias de enlace interno**: /guides/vehicle-export-hs-code-classification/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/dongfeng-tianjin-kr/
-- **Sugerencias de imagen**: lado de Shunda; cama de carga; motor JX493; marco de chasis; cabina
-- **Sugerencias de ALT**: "JMC Shunda carretilla de luz de placa azul"; "Shunda 3700mm cama de carga GVW 4.27t "
+## Metadatos SEO
+- **Título SEO**: JMC Shunda Light Truck Specs " Export Guide (GVW 4.27t, China- 6)
+- **Meta descripción**: China-mercado JMC Shunda camión de luz de placa azul — JX493 diesel 90 kW, GVW 4.27 t, 3700 mm cama de lavanda, carretilla y círculo de giro, más la carga de pago y los controles de la conversión del motor necesitan los exportadores.
+- **H1**: JMC Shunda: Chino-Marcet Chasis Light-Truck, GVW y Especies de Cargo para Exportar
+- **Palabra clave principal**: jmc shunda light truck specs export
+- **Términos de búsqueda secundarios**: JMC Shunda JX493, 顺达小卡, camión de luz chino GVW, JMC descarga de la parte de la descarga, China- 6 exportación de camión diesel
+- **URL sugerida**: /vehicles/jmc-shunda/
+- **Intención de búsqueda**: Comprensión JMC Shunda: Chino-Marcet Chassis Light-Truck, GVW y Especies de Cargo para Exportar: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
+- **Sugerencia de imagen**: Shunda lado de la gota
+- **Texto ALT**: JMC Shunda camión de luz de placa azul
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: una página de vehículos comerciales está construida alrededor de GVW y la carga de pago
 Para un camión ligero el comprador no está comparando los niveles de los bordes — están igualando **GVW, la carga útil nominal, la versión del motor y el cuerpo de carga** a un trabajo operativo. La Shunda (顺达) es la línea de camiones de luz China- 6 de JMC. El riesgo principal de pedido es la mezcla de motor-versión: el motor de pequeño-truck documentado es el ** JX493ZLQ6D 2.499 L **, mientras que la gama más amplia de Shunda también utiliza un ** 2.8 L 493 ** con diferentes productos. Esta página documenta la referencia de pequeño-truck **Chino-mercado (REFERENCE MARKET: CHINA)**; no se captó ninguna hoja primaria OEM, por lo que las cifras son valores de base comercial cruzados para confirmar contra el anuncio MIIT y el certificado de vehículo.

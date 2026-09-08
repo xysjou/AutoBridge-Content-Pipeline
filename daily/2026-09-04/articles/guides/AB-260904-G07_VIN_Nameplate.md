@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: VIN & Nameplate Verification for Chinese Vehicle Imports — GB 16735-2019
 - **Meta Description**: How a 17-character VIN splits into WMI/VDS/VIS under GB 16735-2019, why stamped VIN, nameplate, certificate and shipping documents must match, and what an importer should verify before payment.
-- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
 - **H1**: VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match
 - **Primary Keyword**: VIN nameplate verification GB16735 chinese vehicle
 - **Secondary Search Terms**: WMI VDS VIS structure, GB16735-2019 VIN, VIN check digit position 9, VIN nameplate certificate consistency, stamped VIN tampering
+- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
+- **Search Intent**: Understand VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
-- **Image Suggestions**: 17-char VIN segment diagram; four-place match checklist; stamped VIN close-up
-- **ALT Suggestions**: "17 character VIN split into WMI VDS VIS under GB16735-2019"
+- **Image Suggestion**: 17-char VIN segment diagram; four-place match checklist; stamped VIN close-up
+- **ALT Suggestion**: 17 character VIN split into WMI VDS VIS under GB16735-2019
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why VIN Verification Sits Before Payment
 A VIN mismatch is one of the few defects that blocks registration **after** the vehicle has already been paid for and shipped. The fix is cheap at the sourcing desk and expensive at the destination port. This guide explains the Chinese VIN structure under the current standard and gives a four-place consistency check buyers can run before releasing balance payment.

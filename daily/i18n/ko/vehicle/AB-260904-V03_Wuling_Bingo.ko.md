@@ -1,15 +1,17 @@
 # Wuling Bingo (缤果): 작은 중국 전기 해치백 - Specs 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- **마타 기술 **: 중국 시장 Wuling Bingo 작은 BEV — LFP 건전지,  203/333/410 km CLTC steps,  30/50 kW motors, DC 빠른 위탁, 크기,  and  어떤 수입업자는 손질 당 검증해야 합니다.
-- **Suggested URL**: /vehicles/wuling-bingo/
-- ** H1 **: 밍고 Bingo: 중국 시장 작은 EV Specs 및 수출 검증
-- ** 출원 키워드 **: wuling bingo ev specs 수출
-- ** 보조 검색 조건 **: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, 중국 작은 EV 수출, 五菱缤果 사양
-- ** 내부 링크 제안**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/vehicle-export-pdi-pre-shipment-handover/; /vehicles/byd-qin-l-dm-i/
-- ** 이미지 제안**: five-door Bingo side; 203 대 333/410 배지; 겹이 있는 좌석을 가진 후방 화물; 책임 항구; four-seat cabin
-- ** ALT 제안**: "Wuling Bingo 작은 전기 해치백 중국 spec"; "Wuling Bingo CLTC 범위 203 333 410 km "
+## SEO 메타데이터
+- **SEO 제목**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **메타 설명**: 중국 시장 Wuling Bingo 작은 BEV - LFP 배터리,  203/333/410 km  CLTC  steps,  30/50 kW motors, DC 빠른 위탁, 크기,  and  어떤 수입업자는 손질 당 검증해야 합니다.
+- **H1**: Wuling Bingo: 중국 시장 작은 EV Specs 및 수출 검증
+- **주요 키워드**: wuling bingo ev specs 수출
+- **보조 검색어**: Wuling Bingo 203km의 Wuling Bingo 333km의 Wuling Bingo 410km의 중국 작은 EV 수출, 五菱缤果 specs
+- **추천 URL**: /vehicles/wuling-bingo/
+- **검색 의도**: Wuling Bingo를 이해하십시오: 중국 시장 작은 EV Specs 및 수출 검증: 어떤 차량/parts 수출상든지 확인해야 하고, 문서는 순서에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **이미지 제안**: five-door Bingo side
+- **ALT 텍스트**: Wuling Bingo 작은 전기 hatchback 중국 spec
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 Context: a City BEV Sold in Three Range Steps
 The Bingo is Wuling's five-door small electric hatchback, 도시를 향해  and  light-commercial 개인 사용. 수출상에 대한 결정적인 변수는 **range step**, 때문에 모터 파워, 배터리 및 최고 속도 모두 변경으로. 이 장은 ** 중국 시장 2024 선 (REFERENCE 시장: 중국)**; OEM 해외 페이지 없이, 중국 그림은 기준, 세계적인 명세 아닙니다입니다.
@@ -52,7 +54,7 @@ The Bingo is Wuling's five-door small electric hatchback, 도시를 향해  and 
 ## 자주 묻는 질문
 **How many range versions are there?** Three documented CLTC steps — 203,  333  and  410 km - 다른 모터와  and  배터리 사양.
 **모든 빙고 50 kW ** 아니오; 203 km 입장 차는 30 kW 모터를, 333/410 버전 사용 50 kW 사용하면서 사용합니다.
-**How many seats?** The documented entry layout is four seats (2+2); confirm whether the chosen version seats five.
+**석은 몇 개입니까? ** 문서화 된 항목 레이아웃은 4 석 (2+2); 선택된 버전 좌석이 5인인지 확인합니다.
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, 중국 적용 당); 해외 연결관 유형은 검사되어야 합니다.
 
 ## 이미지 기록
@@ -86,14 +88,14 @@ The Bingo is Wuling's five-door small electric hatchback, 도시를 향해  and 
 |---|---|---|---|---|---|---|
 | Wuling Bingo 203km 구성 테이블 | Autohome 설정 | 담당자: Mr. wang | https://car.m.autohome.com.cn/config/spec/61645.html 의 설정 | 2026-09-04 | CROSS_체크 | 17.3 kWh, 30 kW/85 N·m의 범위, 최고 속도 |
 | Bingo 2024 203km 매개 변수 | Sohu 자동차 데이터베이스 | 담당자: Mr. wang | http://db.m.auto.sohu.com/trim_173261 경우 | 2026-09-04 | CROSS_체크 | 차원, 축거, 건전지, 좌석 |
-| 2024 Bingo range & fast-charge update | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_체크 | 범위 단계, 50 kW의 DC 책임 분, CLTC |
+칭고의 범위는 2024년 전부터 운영되고 있습니다. 담당자: Mr. 광 | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_체크 | 단계, 50kW의 DC 책임 분, CLTC |
 | Bingo 치수 및 휴식 레이아웃 | 자동차 | 담당자: Mr. wang | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | 2+2석 | https://m.16888.com/news/2025/0708/23852156.html 16888
-| Wuling Bingo 2025 전체 라인 구성 | PCauto 구성 | 담당자: Mr. wang | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_체크 | 모터, 범위 |
+칭고 2025 전체 구성 요소 | PCauto 구성 요소 | 담당자: Mr. wang | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_체크 | 모터사이클
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 38031 견인 건전지 안전 필요조건 (GB 38031-2025; 2026-07-01에서 필수 새로운 유형 신청) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 필수 견인 배터리 안전 요구 사항 electrified powertrain |
-| GB 18384 전기 차량 안전 필요조건 (GB 18384-2025) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 전기 차량 안전 필요조건 기초 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+GB 38031 견인 건전지 안전 명세 (GB 38031-2025; 2026-07-01에서 필수 새로운 유형 신청) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 필수 견인 배터리 안전 요구 사항 electrified powertrain |
+| GB 18384 전기 차량 안전 필요조건 (GB 18384-2025) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 전기 차량 안전 필요조건 기초 |
 
 *Confidence 참고: 입장 십자가 검사하는; 모터 토크, 화물 양, 좌석 조사 및 책임 분은 단 하나 근원 및 끌입니다. OEM 해외 페이지 없음 - 중국 시장 참고 만. ****************************************************************************************************************************************************************************************************************************************************************
 

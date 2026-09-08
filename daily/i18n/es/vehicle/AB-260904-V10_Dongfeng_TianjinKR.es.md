@@ -1,15 +1,17 @@
 # Dongfeng Tianjin KR (天锦 KR) Camión refrigerado: Chasis, Superestructura y GVW para la exportación
 
-## SEO Metadatos
-- **SEO Título**: Dongfeng Tianjin KR Refrigerated Truck Specs " Export Guide (18t)
-- **Meta Descripción**: Reefer de Dongfeng Tianjin KR 6.8 m del mercado chino — Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT modelo código, y cómo el chasis difiere de la superestructura refrigerada.
-- ** URL agregada**: /vehicles/dongfeng-tianjin-kr/
-- ** H1 **: Dongfeng Tianjin KR Camión refrigerada: Chasis + Especies de superestructura para los compradores de exportación
-- **Primary Keyword**: dongfeng tianjin kr refrigerado espectros de camiones export
-- **Segundary Search Terms**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truck, China refrigerated truck export, 18t GVW chassis
-- **Sugerencias de Enlace Interno**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /vehicles/jmc-shunda/
-- **Sugerencias de imagen**: caja lateral de reefer KR 6.8m; marco de chasis; motor Cummins B6.2; unidad de refrigeración; puertas traseras e interiores
-- **Sugerencias de ALT**: "Tanfeng Tianjin KR 6.8m camión refrigerado 18t "; "Tianjin KR chassis vs reefer superestructura"
+## Metadatos SEO
+- **Título SEO**: Dongfeng Tianjin KR Refrigerated Truck Specs & Export Guide (18t)
+- **Meta descripción**: Reefer de Dongfeng Tianjin KR 6.8 m de mercado chino — Cummins B6.2 180 kW / 1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT código modelo, y cómo el chasis difiere de la superestructura refrigerada.
+- **H1**: Dongfeng Tianjin KR Camión refrigerada: Chasis + Especies de superestructura para los compradores de exportación
+- **Palabra clave principal**: dongfeng tianjin kr refrigerado camiones espectros exportación
+- **Términos de búsqueda secundarios**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m camión de reefer, China de exportación de camiones refrigerados, 18t GVW chasis
+- **URL sugerida**: /vehicles/dongfeng-tianjin-kr/
+- **Intención de búsqueda**: Comprensión Dongfeng Tianjin KR Camión refrigerada: Chassis + Superestructura Especs para Compradores de Exportaciones: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Sugerencia de imagen**: KR reefer lateral 6.8m caja
+- **Texto ALT**: Dongfeng Tianjin KR 6.8m camión refrigerado 18t
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: un vehículo especial es dos productos — Chasis y superestructura
 Un camión refrigerado no es una especificación de fábrica única. La **chassis** (motor, caja de cambios, eje, GVW, carretilla) está construida por el fabricante de camiones; la caja **insulado, unidad de refrigeración, zonas de temperatura y espesor de aislamiento son un ajuste** instalado por un constructor de cuerpo. Tratar la unidad de reefer como un ajuste de fábrica fijo —o fusionar la KR de 6.8 m con la KR Plus más grande— es el principal error de adquisición aquí. Esta página documenta el **Tianjin KR 18 t -class reefer chassis (REFERENCE MARKET: CHINA)**; el código modelo aparece en el anuncio público MIIT, que ancla la especificación legal.

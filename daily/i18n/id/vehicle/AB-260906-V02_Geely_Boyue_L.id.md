@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation Boyae): China-Market Compact SUV Ekspor Referensi
-## SEO Metadata
-- ** Judul SEO **: Geely Boiue L Ekspor Specs: 1.5T/2.0T Kompact SUV Buyer Guide
-- ** Meta Description **: Referensi pasar untuk Geely Boyae L compact SUV: dimensi dan kargo, 1.5T dan 2.0T variant dipisahkan, Stroks exports nama caveat, dan VIN-level pembeli cek.
--   H1 **: Geely Boyae L (4th-Generation Boyae): China-Market Compact SUV Ekspor Referensi**
-- ** Primary Keyword **: Geely Boyae Spesifikasi ekspor L
-- ** TerminalSecondary Search Terms **: Geely Boyae L dimensi; Bolue L 1.5T 7DCT; Geely Starik ekspor; China compact SUV; Bolue Ruang kargo L
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- 面向海外 B 端买家介绍 Boyae L 中国市场版本身份 尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- ** Informan Gambar **: L compact SUV dalam profil menunjukkan nya atap dan cIdding roda lengkungan
-- ** ALT Saransineson **: Profil sisi dari Geely Boyue L compact SUV pada latar belakang polos
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: Geely Boiue L Ekspor Specs: 1.5T/2.0T Compact SUV Panduan Pembeli
+- **Deskripsi Meta**: Referensi pasar untuk Geely Boyae L compact SUV: dimensi dan kargo, 1.5T dan 2.0T variant dipisahkan, Starray ekspor nama caveat, dan VIN tingkat pembeli cek.
+- **H1**: Geely Boyae L (4th-Generation Boyae): Kompaten Pasar Cina SUV Ekspor Referensi
+- **Kata kunci utama**: Geely Boyae Spesifikasi ekspor L
+- **Istilah pencarian sekunder**: Geely Boyae L dimensi; Bolue L 1.5T 7DCT; Geely Starik ekspor; Cina kompak SUV; Boyae Ruang kargo L
+- **URL yang disarankan**: /vehicles/geely-boyue-l/
+- **Maksud pencarian**: Mengerti Goely Bolue L (4th-Generation Boyae): Kompaten Pasar Cina SUV Ekspor Referensi: apa exportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Saran gambar**: A Geely Boyae L compact SUV dalam profil menunjukkan nya atap dan clidding roda lengkungan
+- **Teks ALT**: Profil samping dari Geely Boyae L compact SUV pada latar belakang polos
+- **Cakupan skema**: Artikel + Kendaraan
 
 The Boyae L adalah evolusi keempat generasi dari panjang Geely 's Boyue (Atlas Proton X70-family lineage) SUV kompak - a five-door, lima-seat, depan-roda-drive crossing ditujukan ke jantung keluarga-SUV. Mengekspor barang-barang ini sebagian besar adalah pertanyaan untuk memilih kereta yang tepat dan tidak membingungkan mobil Cina dengan pasar Stroks yang berbeda-beda ditentukan. Halaman ini hanya dokumen referensi pasar ** Cinese- ** saja.
 

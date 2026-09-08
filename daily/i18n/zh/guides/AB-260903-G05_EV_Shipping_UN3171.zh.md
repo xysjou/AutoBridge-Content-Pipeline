@@ -1,14 +1,17 @@
 # 订定供海洋出口使用的电化车辆:载货商的《危险货物》
-## 道德操守办公室 元数据
-- ** 标准电子文档标题**:EV出口订货文件,根据IMDG 42-24:UN3556 纸张和承运 检查
-- ** 金属说明**: 锂电池车辆如何根据目前的《IMDG修正案》42-24(UN3556/3557/3558;遗留UN3171过渡结束)、SP961/SP962路径、UN38.3和特殊安全数据系统文件以及具体载体预订条件分类为远洋货运。
-- ** 建议的URL**:/指南/前发货-un3171-imdg-compliance/
-- ** H1 资源需求。 **:海上运输电气化车辆:当前危险品分类、订货文件集和红线
-- ** 基本关键词**:电动车辆海运 un3556 imdg 42-24文件
-- ** 二级搜索术语**:UN3556锂离子电池车、UN3557锂金属车、UN3558钠离子车、遗留UN3171过渡、SP961 SP962车、9级标签9A、UN38.3试验摘要、SDS电动汽车运输、EV SOC要求载体
-- ** 内部联系建议**: /指南/前期装运-un3556-imdg-compliance/;/指南/钦那车辆-出口-许可-海关-文件/;/指南/集装箱-车辆装载-斜拉/;/指南/车辆装运前检查-psi/;/车辆/旁海豚/
-- ** 图像建议**:联合国编号/类别标签图;SP961-vs-SP962决定流程;预订文件链;第9类/标签9A牌
-- ** ALT(美国) 建议**: " UN3556 IMDG 42-24 9级电动车辆运输";"EV航运订票文件链".
+## SEO元数据
+- **SEO标题**: EV 维基月球 出口订货文件 低于IMDG 42-24:UN3556 纸张和承运 检查
+- **Meta描述**: 锂电池车辆如何根据目前的IMDG修正案42-24(UN3556/3557/3558;UN3171遗产过渡结束)、SP961/SP962路径、UN38.3和SDS文书以及承运人专用订货条件分类为远洋货运。
+- **H1**: 海运电气化车辆:当前危险品分类、订货文件集和红线
+- **核心关键词**: 海运un3556 imdg 42-24号文件
+- **次级搜索词**: UN3556锂离子电池车, UN3557锂金属车辆, UN3558 钠离子车, 遗产UN3171年,过渡, SP961 SP962辆汽车, 级9标签9A,,, UN38.3试验摘要, SDS 电动汽车运输, EV SOC 所需载体
+- **建议URL**: /guides/ev-shipping-un3171-imdg-compliance/
+- **搜索意图**: 了解海运电气化车辆:当前危险品分类、订货文件集和红线:车辆/部件出口商在承诺订购前必须核实、记录和决定的内容。
+- **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **图片建议**: UN 个数字/类标签图
+- **ALT文本**: UN3556 IMDG 42-24 (中文(简体)). 9级电力车辆运输
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 在此开始: 整台EV 是危险品, 条目更改于 42-24
 工厂制造的完整电气化车辆仍然是海运的危险货物。 根据**《国际千年发展目标法典》第42-24号修正案(2024版),  mandatory from 1 January 2026**, 电池动力车辆分为专用条目,而不是一个毛毯号码:
 - ** UN3556——车辆、锂离子电池动力**(牵引电池为锂离子的BEV或PHEV/EREV的情况);
@@ -61,17 +64,17 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Shipping an electric vehicle by sea (IMDG), vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Shipping an electric vehicle by sea (IMDG), guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Shipping an electric vehicle by sea (IMDG), Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Shipping an electric vehicle by sea (IMDG), guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Shipping an electric vehicle by sea (IMDG), guia de compras para exportação de veículos
+- ** ** 自动桥出口-买方参考——海运一部电动车辆,车辆-出口采购指南
+- **法国**: 出口汽车汽车——海运一辆电动车辆,汽车出口指南
+- DE**: 国家 AutoBridge-Referenz für Exportkäufer——海运一部海路电力车辆,莱特法登 für Fahrzeugexport-Einkauf
+- **ES**: 出口商总公司——海运一部海路电力车辆,出口商总公司
+-  **: 海运电力车辆,出口运输总公司
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shipping an electric vehicle by sea (IMDG), 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shipping an electric vehicle by sea (IMDG), 자동차 수출 조달 가이드
+- 科罗拉多州: 自动桥 乘海电动车 乘海电动车 乘海电动车
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shipping an electric vehicle by sea (IMDG), hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shipping an electric vehicle by sea (IMDG), คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shipping an electric vehicle by sea (IMDG), panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Shipping an electric vehicle by sea (IMDG), دليل مشتريات تصدير المركبات
+- ** ** ** เอกสารอ้างอิง 自动桥——海运一部电动车辆,(IMD),(X)
+- 身份证**: 运输海路电力车辆(IMDG),Panduan pengadaan ekspor kendaraan
+- AR**: 国家 汽车桥 – 海上运输电力车辆(IMD), – مشتريات تصدير
   - **ZH**: AutoBridge 出口采购参考｜Shipping an electric vehicle by sea (IMDG), 汽车出口采购指南
 
 ## 源码验证(V)

@@ -1,17 +1,19 @@
-# GAC Trumpchi E8 (传祺 E8): a seven-Seat PHEV MPV - China Specs and Export checks
+# GAC Trumpchi E8 (): E8): (أ) 7 عجلات من طراز PHEV MPV - الصين
 
-## SEO Metadata
-- ** عنوان المنظمة**: GAC Trumpchi E8 PHEV MPV Specs " Export Guide (7-Seat, China)
-- ** وصف البيانات**: Chinese-market Trumpchi E8 new-energy PHEV MPV — 2.0ATK engine, 134 kW محرك 25.57 kWh بطارية 150 km CLTC, 2+2+3 مقعد  and  كيف يختلف عن الـ "جيلوري هيف" الغير مُقيد
-- ** URL المقترض**: /مركبات/غاز - ترامبشي - e8/
-- ** H1 **: GAC Trumpchi E8 PHEV: Chinese-Market seven-Seat MPV Specs and Export Notes
-- ** كلمة رئيسية رمزية**: جمارك ترومبشي e8 عينة من الطيف
-- ** مصطلحات البحث الثانية**: E8 ميغاواط، 传祺 E8 فائق من طراز PHEV، E8 فرق المجد في الهواء الطلق، ترامبشي E8 7-seat، الصينية تصدير PHEV MPV
-- ** Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/export-vecle-document-package/; /vehicles/chery-fulwin- t9/
-- ** اقتراحات بشأن: E8 من الموجزات الجانبية للصوت المتعدد الأبعاد؛ 2+2+3 من مخططات المقاعد؛ شحن ميناء مقابل لا يوجد فيه أي تقرير ثانوي؛ الصف الثالث؛ V2L منفذ
-- ** الاقتراحات**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 seating  and  الشحنة
+## بيانات SEO الوصفية
+- **عنوان SEO**: GAC  Trumpchi E8  PHEV   MPV  Specs & Export Guide (7-Seat, الصين)
+- **وصف Meta**: Chinese-market Trumpchi E8 new-energy  PHEV   MPV  — 2.0ATK engine, 134 kW محرك 25.57 kWh بطارية 150 km CLTC 2+2+3 مقعد  and  how it differs from the non-charging Glory  HEV .
+- **H1**: GAC Trumpchi E8 PHEV: مراكت الصينية - المريخية MPV سبيكات ومذكرات التصدير
+- **الكلمة المفتاحية الرئيسية**: تصدير قاذفة من طراز gac trumpchi e8 phev
+- **مصطلحات بحث ثانوية**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 فرق المجد HEV، ترامبشي E8 7-seat، تصدير PHEV MPV الصينية
+- **URL المقترح**: /vehicles/gac-trumpchi-e8/
+- **نية البحث**: Understand  GAC  Trumpchi E8  PHEV : Chinese-Market Seven-Seat  MPV  Specs  and  مذكرات التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **اقتراح الصورة**: E8 من الموجزات الجانبية MPV
+- **نص ALT**: GAC Trumpchi E8 PHEV seven-seat MPV China spec
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Buyer Context: an MPV Purchase is Decided by Seating and by the PHEV/HEV Split
+# Buyer Context: م ح م الشراء يُقرّر عن طريق البحّارة و عن طريق الـ (بي.إف) و (هيف)
 وبالنسبة لـ MPV مصدِّر، فإن الأسئلة هي هندسة الكوخات وبنية المقاعد أولاً، قطار الطاقة الثاني. وعلى متن الـ E8 يوجد فخ تسمية: الطاقة الجديدة البالغ عددها E8 هجين مع ميناء شحن، في حين أن الـ E8 غلوري (荣耀) هي قذيفة لا تحمل أي ميناء. وهي أنواع مختلفة من الطاقة ويجب اقتباسها على خطوط منفصلة. وتوثّق هذه الصحيفة السوق الصينية رقم PHEV (REFERENCE MARKET: CHINA)؛ وأُلقيت صفحة تشكيلية قدرها OEM.
 
 ## م ح المصدر: الشحن البحري والفضاء والمسافر
@@ -21,7 +23,7 @@
 | Length width | **4920 1900 1760 mm** |
 | Wheelbase | **2930 mm** |
 | مخططات الجلوس | ** 2+2+3، سبعة مقاعد*  |
-| منهاج العمل | GAC Global Platform Modular Architecture (GPMA 3.0 L); high-strength steel about 75% (single-source) |
+| منظمة العمل الدولية | GAC Global Platform Modular Architecture (GPMA 3.0 L); الصلب العالي الارتداد حوالي 75 في المائة (المصدر الرئيسي) |
 | وزن العنب | 2175 kg |
 | صهاريج الوقود | 50 L |
 
@@ -90,11 +92,11 @@ The 2930 mm wheelbase and 2+2+3 layout are the commercial story: independent mid
 | Trumpchi E8+ official configuration table | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | مثقفة | PHEV powertrain, bat, dimensions, seats |
 | E8 (PHEV) الإطلاق، الحجم، الكهرباء | جنوب العاصمة | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | صرخات | الأبعاد، المحركات، البطارية |
 | E8 غرفة عرض: الحجم/الحركة/البطانة | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | صرخات | المحركات، الوزن، V2L/V2V |
-| E8 هيكل GPMA " الصلب العالي القوة | Yangcheng Evening News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE OURCE | منصة: 75% HSS |
-| Trumpchi E8 New Energy full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | صرخات | الأبعاد، 25.57 kWh، نطاق لجنة مكافحة الإرهاب |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+E8 GPMA "العمليات المؤثرة"  . Yangcheng Evening News PDF. CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 : غنّي لنا: 75 HSS |
+| Trumpchi E8 New Energy full-line config | PCauto config CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | | | −ments ،XV, 25.57 kWh,
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
@@ -102,7 +104,7 @@ The 2930 mm wheelbase and 2+2+3 layout are the commercial story: independent mid
 * ملاحظة الملاءمة: OEM صفحة مأخوذة؛ ونسبة الفولاذ إلى المنهاج وV2L/V2V شخص من مصدر واحد. PHEV وGlory HEV deliberately separated; Chinese-market reference only. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، E8 الطاقة الجديدة PHEV (Chinese-market reference; CLTC stated; Glory HEV separated; not a global spec)
 - ** طريقة التأجيل**: يُثقل مكتب مراقبة الأوزون؛ ويُنفَّذ نوع الطاقة؛ ويُعَلَّم بأصناف ذات مصدر واحد

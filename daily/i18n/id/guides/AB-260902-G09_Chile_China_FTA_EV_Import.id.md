@@ -1,14 +1,17 @@
 # Mengimpor Kendaraan Cina ke Chili: FTA Preferensi, IVA dan Langkah Homologasi 3CV
-## SEO Metadata
-- ** Judul SEO **: Impor EVs Cina ke Chili: FTA Preferensi, IVA & 3CV Panduan
-- ** Meta Description **: Bagaimana preferensi Cina-Chile FTA bekerja untuk kendaraan yang dibangun Cina, Bea Cukai Chili 6% tugas umum dan 19% IVA dikonfirmasi secara resmi, mengapa sertifikat asal adalah kondisi, dan bagaimana 3CV homologasi cocok.
-- ** URL yang Disarankan **: panduan import- chinese- e- chile-fta
--   H1 **: Kendaraan Cina ke Chili: Menggunakan Preferensi FTA Tanpa Salah Perhitungan Biaya Landed
-- ** Primary Keyword **: Chili China FTA kendaraan impor tugas IVA homologation
-- ** Akhir Pencarian Second **: Chile aduana 6% arancel, Chile IVA 19% import, China Chile FTA sertifikat asal, Chile 3CV homologation, certicado orilgen TLC China Chile, EV import Chile
-- ** Internal Link Sugestions **: guide kendaraan import- t-vs-lc guide marine- cargo-import kendaraan byd-yuan- plus
-- *** Saran Gambar **: TaxuckChile-stack waterfall; Sertifikat FTA -of-asal aliran; 3CV homologation langkah
-- ** Saran ALT **: "Pile import biaya stack: tugas versus IVA"; "Sertifikat FTA dari dasar yang dibutuhkan"; "Chile 3CV proses homologasi"
+## Metadata SEO
+- **Judul SEO**: Impor Evs Cina ke Chili: Preferensi FTA, IVA & 3CV Panduan
+- **Deskripsi Meta**: Bagaimana Cina - Chili FTA preferensi bekerja untuk kendaraan-kendaraan dibangun Cina, Bea Cukai Chili 6% tugas umum dan 19% IVA dikonfirmasi secara resmi, mengapa sertifikat asal adalah kondisi, dan bagaimana 3CV homologasi cocok.
+- **H1**: Kendaraan Cina Ke Chili: Menggunakan Preferensi FTA Tanpa Biaya Terhitung
+- **Kata kunci utama**: Chile China FTA kendaraan impor tugas IVA homologasi
+- **Istilah pencarian sekunder**: Chile Aduana 6% arancel, Chile IVA 19% import, China Chile FTA sertifikat asal, Chile 3CV homologation, certicado origen TLC China Chile, EV import Chile
+- **URL yang disarankan**: /guides/import-chinese-ev-chile-fta/
+- **Maksud pencarian**: Memahami kendaraan Cina ke Chili: menggunakan Preferensi FTA Tanpa Salah Perhitungan Biaya Landed: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **Saran gambar**: Chili taksi-stack air terjun
+- **Teks ALT**: Biaya Chile import stack: tugas versus IVA
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## The Oportunity and the Recurring Misconculate
 Chili beroperasi bebas - perdagangan perjanjian dengan mitra utamanya, ** termasuk Cina **. Kendaraan Cina yang lengkap dapat menggunakan preferensi FTA (ad- valorem ** tugas 0% **), sedangkan tugas umum Chile ad-valorem adalah 6% nilai CIF ** untuk asal yang bukan preferensi - keduanya sekarang berlabuh ke sumber resmi (di bawah). Galat yang berulang adalah membaca "FTA 0% duty" sebagai "0% biaya untuk mengimpor". Hal ini tidak: ** 19% IVA masih berlaku, 0% tergantung pada bukti asal, dan homologation adalah workstream terpisah. ** Pemandu ini khusus untuk Chile.
 ## The Tax Stack, Line by Line (secara resmi membumi)
@@ -53,18 +56,18 @@ Dokumen apa yang membuka preferensi? Sertifikat FTA Origin yang valid konsisten 
 ** Apa itu 3CV dan apa biayanya? ** Kendaraan Chili proses homologasi; itu gerbang pendaftaran dan biaya timeline harus dikutip oleh sertifikat - artikel ini tidak menegaskan nomor tetap.
 ** Apakah ATAS EV-duty memotong gaya? ** Tidak - itu adalah 2026 proposal asosiasi, tidak dilaksanakan hukum; ulang-cek di pengiriman.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,15 +1,17 @@
 # Dong Phong Lôi Tân KR (天锦 KR) Xe tải được nén: Chasis, siêu cơ cấu và GVW để xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEEO Titry**: Dong Phong Thiên Tân KR Phangrinerated created ics & Xuất Guide (18t)
-- **Meta Mô tả**: Chinese-market Dongfeng Tianjin KR 6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, Nhanh 8-speed, Dana trục, 18 t GVW, Mã của mô hình MIT,  and  Bộ khung cửa khác với cơ cấu siêu đông lạnh.
-- ** URL đã được đánh dấu**: /vehicles/dong Phong-tinjin-kr/
-- ** H1 Dong Phong Thiên Tân Xe tải được giữ lạnh: Name
-- **Cumpary Keywomwond**: dong Phong Thiên Tân kr er er er er ercricerated eraw
-- **Secondary Search termss**: Thiên Tân KR DFH5180XLC, Dong Phong Cummins B6.2, 6.8m xe tải bán đá ngầm, xe tải đông lạnh của Trung Quốc xuất khẩu, 18t GVW
-- **I nội bộ Link gợi ý: /guides/export-vehic-docucht- wrapt/; /vehcles/jmc-shunda
-- **Image gợi ý**: KR crackter bên 6.8m hộp; khung khung khung; động cơ Cummins B6.2; bộ phận làm lạnh; cửa sau và nội thất
-- **LT gợi ý**: "Dong Phong Thiên Tân 6.8m chiếc xe đông lạnh 18t "; "Taanjin KR cravers superweaper"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Dong Phong Lôi KR quang phổ và xuất bản của xe tải được dán lên (18t)
+- **Meta mô tả**: Chinese-market Dongfeng Tianjin  KR  6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, Nhanh 8-speed, Dana trục, 18 t GVW, MIIT người mẫu mã,  and  Bộ khung cửa khác với cơ cấu siêu đông lạnh.
+- **H1**: Đông Phong Thiên Tân KR Xe tải đã được ướp lạnh: Name
+- **Từ khóa chính**: Dong Phong Thiênjin kr đông lạnh xe tải ra đời
+- **Cụm tìm kiếm phụ**: Thiên Tân KR DFH5180XLC, Đông Phong Cưu B6.2, 6.8m xe tải san hô, xe tải đông lạnh của Trung Quốc, số xuất khẩu 18t GVW khung gầm
+- **URL đề xuất**: /vehicles/dongfeng-tianjin-kr/
+- **Ý định tìm kiếm**: Hiểu Phong Thiên Tân KR Xe tải đã được ướp lạnh: Chasis + Super  build Specs cho Elis: một nhà xuất khẩu xe/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Gợi ý hình ảnh**: Máy hút bụi KR bên 6.8m hộp
+- **Văn bản ALT**: Dong Phong Lôi Tân KR 6.8m Xe đông lạnh 18t
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Người mua văn cảnh: Xe đặc biệt là hai sản phẩm — Chassis và cơ cấu siêu cấp
 Một xe tải đông lạnh không phải là một đặc điểm của nhà máy. **chasis** (cơ chế, hộp số, trục, xe tải), được xây dựng bởi người sản xuất xe tải; hộp **insectoration, đơn vị làm lạnh, nhiệt độ và độ dày cách nhiệt là một sự gia tăng** do một người xây dựng cơ thể lắp đặt. Đối xử với đơn vị bán san hô như một nhà máy cố định — hoặc trộn 6.8 m KR với KR Plus lớn hơn — là lỗi chính ở đây. Trang này tài liệu của trang chủ **-seng-seat Tianjin KR 18 t - staper lớp san hô (REFERCEET: CHINA); mã lệnh này xuất hiện trong thông báo công cộng của MIIT, nơi đặt các chi tiết pháp lý.

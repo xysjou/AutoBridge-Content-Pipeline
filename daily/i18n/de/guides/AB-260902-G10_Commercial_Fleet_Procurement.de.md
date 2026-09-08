@@ -1,14 +1,17 @@
 # Massengutbeschaffung von Nutzfahrzeugflotten aus China: Duty-Cycle Engineering, 2026 Export-Licence Rules und Annahme
-## SEO Metadaten
-- **SEO Titel **: Kauf einer chinesischen LKW-Flotte in Massen: Spec, Lizenz & Akzeptanz
-- **Meta Description**: Ingenieur und Großhandelsbeschaffer chinesischer Schwerlast-/Müllelastkraftwagen — Duty-Cycle-Spezifikation, Achsen/Rahmen/Karosserie, das offizielle Exportlizenzsystem für Fahrzeuge in China 2026, Akzeptanz in Tenderqualität und die Dokumentenkette.
+## SEO-Metadaten
+- **SEO-Titel**: Kauf einer chinesischen LKW-Flotte in Massen: Spec, Lizenz & Akzeptanz
+- **Meta-Beschreibung**: Ingenieur und Großhandelsbeschaffer chinesischer Schwerlast-/Müller-/Speziallastkraftwagen — Duty-Cycle-Spezifikation, Achsen/Rahmen/Karosserie, das offizielle Exportlizenzsystem für Fahrzeuge in China 2026, Akzeptanz in Tenderqualität und die Dokumentenkette.
+- **H1**: Beschaffung einer kommerziellen LKW-Flotte aus China: Duty Cycle, Exporterlizenz und Annahme
+- **Haupt-Keyword**: Massengutbeschaffung von Nutzfahrzeugen in China: Ausfuhrlizenzen
+- **Sekundäre Suchbegriffe**: China Muldenkipper 6x4 8x4 Export, 2026 Fahrzeug Exportlizenz MOFCOM, rein EV Passagier Exportlizenz HS 8703801090, verstärkter Achsrahmen, Flottentender Annahme, Nutzfahrzeug Exportdokumente
 - **Vorgeschlagene URL**: /guides/commercial-truck-fleet-procurement-china/
-- ** H1 **: Beschaffung einer kommerziellen LKW-Flotte aus China: Duty Cycle, Exporterlizenz und Annahme
-- **Hauptschlüsselwort**: Massengutbeschaffung von Nutzfahrzeugen in China Spezifikation Exportlizenz
-- **Secondary Search Terms**: China Dump Truck 6x4 8x4 Export, 2026 Fahrzeug Exportlizenz MOFCOM, reine EV Passagier Exportlizenz HS 8703801090, verstärkter Achsrahmen, Flottentender Annahme, Nutzfahrzeug Exportdokumente
-- **Interne Linkvorschläge**: /Fahrzeuge/Shacman- x3000-dump-truck/; /Fahrzeuge/Sinotruk-howo- t7h-tractor/; /Fahrzeuge/Foton-aumark-refrigerated-truck/; /guides/verify-china-car-export-supplier/
-- **Bildvorschläge**: Duty-Cycle-to-Spec-Arbeitsblatt; verstärkter Rahmen Achse; Tenderannahmekontrolle; Exportdokumentenkette
-- **ALT Vorschläge**: "Lkw-Flottendienstzyklus-Spezifikations-Arbeitsblatt"; "Doppelschichtrahmen und verstärkte Antriebsachse"; "Flottentenderabnahme im Werk"
+- **Suchabsicht**: Kauf einer kommerziellen LKW-Flotte aus China verstehen: Duty Cycle, Exporterlizenz und -abnahme: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **Bildvorschlag**: Duty-Cycle-to-Spec-Arbeitsblatt
+- **ALT-Text**: Arbeitsblatt für die Spezifikation der Lkw-Flotte
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+
 ## Eine Flotte ist auf Bestellung ausgelegt, nicht aus einem Regal gegriffen
 Ein 6 × 4 Mining Kipper, ein 8 × 4 On-Highway-Dump, ein Langstreckentraktor und ein Kühl- oder Tanker erfordern unterschiedliche Antriebsstränge, Rahmen, Achsen und Karosserieauswahl, und Großaufträge müssen zusätzlich Chinas **aktuelles (2026) Exportlizenzregime, eine enge Dokumentenkette und Tender-Akzeptanz erfüllen. Dieser Leitfaden gibt Flottenkäufern, Auftragnehmern und CV-Importeuren einen wiederholbaren Weg. Es zitiert keine Rabatte, MOQs oder Vorlaufzeiten - diese werden pro Projekt ausgehandelt und es gibt keine maßgeblichen Persönlichkeiten des öffentlichen Lebens.
 ## Schritt 1 - Definieren Sie den Duty Cycle vor dem Preis
@@ -58,18 +61,18 @@ PIN vertraglich: Stückpreis vs. Spezifikationsniveau, Ersatzteile Common-Wear-K
 **Preis- oder Lokalteileunterstützung?** Für eine funktionierende Flotte legt die lokale Service- Ersatzteilabdeckung oft die Gesamtbetriebskosten fest - überprüfen Sie das OEM-Netzwerk, bevor Sie den Preis wählen.
 **Sind Bulk-Rabatte/MOQs veröffentlicht?** Nein — es handelt sich um projektspezifische kommerzielle Begriffe; verhandeln Sie gegen einen streng spezifizierten technischen Anhang.
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf

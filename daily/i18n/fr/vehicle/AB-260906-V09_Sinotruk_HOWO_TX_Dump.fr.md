@@ -1,16 +1,16 @@
 # Sinotruk Howo TX Tipper: Chine-Marché La référence d'exportation de trémie lourde
-## OEuvre Métadonnées
-- **Référencement**: Sinotruk HOWO TX Spécifications d'exportation de camion: ligne d'entraînement, aux axles, guide de châssis
-- **Description détaillée**: Référence du marché chinois pour le tipper lourd Sinotruk HOWO TX: 6x4/8x4, une ligne d'entraînement Weichai/HW échantillonnée, focalisée sur l'essieu et le châssis, et les documents d'homologation pour les acheteurs d'exportation ont besoin.
-- ** H1 **: Sinotruk HOWO TX Tipper: Chine-Marché Laid Dump-Truck Référence à l'exportation
-- **Mot-clé principal**: spécifications d'exportation de camion-panneau Sinotruk HOWO TX
-- ** Termes de recherche secondaires**: Tipper Howo TX; camion à benne Sinotruk 8x4; WP10H 400; boîte de vitesses HW19712; exportation chinoise de tipper lourd
-- **Suggested URL**: /vehicles/sinotruk-howo-tx-dump/
-- **Intention de la recherche**: 面向海外 B 端买家介绍豪沃 TX 自卸车中国市场版本身份 - 驱动 动力链 底盘与版本边界
-- **Internal Link Suggestions**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
-- **Suggestion d'image**: Un Sinotruk 8x4 HOWO TX camion à décharge avec lit à bascule surélevé dans un chantier de construction
-- ** Suggestion ALT**: Sinotruk HOWO TX 8x4 camion à décharge avec son corps de basculement partiellement soulevé sur un chantier de construction
-- **Schema Scope**: Article + Vehicle
+## Métadonnées SEO
+- **Titre SEO**: Sinotruk HOWO TX Spécifications d'exportation de camion de dump: ligne d'entraînement, aux axles, guide de châssis
+- **Description meta**: Référence du marché chinois pour le Sinotruk HOWO TX tipper lourd: 6x4/8x4 mises en page, un échantillon Weichai/ HW driveline conservé comme échantillon, axe et châssis focus, et les documents d'homologation les acheteurs d'exportation ont besoin.
+- **H1**: Sinotruk HOWO TX Tipper: Référence à l'exportation de la Chine-Marché de la grande pompe à décharge
+- **Mot-clé principal**: Sinotruk HOWO TX camion-poubelle spécifications d'exportation
+- **Termes de recherche secondaires**: HOWO TX tipper; Sinotruk 8x4 camion-poubelle; WP10H 400; HW19712 boîte de vitesses; exportation chinoise de tipper lourd
+- **URL suggérée**: /vehicles/sinotruk-howo-tx-dump/
+- **Intention de recherche**: Comprendre Sinotruk HOWO TX Tipper: Exportation de camions à douille lourde sur le marché chinois Référence: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
+- **Suggestion d'image**: Un camion à benne à benne de 8x4 Sinotruk HOWO TX avec lit à bascule surélevé dans un chantier de construction
+- **Texte ALT**: Sinotruk HOWO TX 8x4 camion à benne avec son corps de tipper partiellement sur un chantier de construction
+- **Portée du schéma**: Article + Véhicule
 
 Le HOWO TX est le tipper lourd du groupe chinois de camion lourd de Chine (camion à pompe) pour la construction et le transport de rondelles, vendu en 6 × 4 et 8 × 4 drive. L'achat de camions lourds concerne la ligne d'entraînement, les essieux, la combinaison brute de poids, la cabine et le châssis, et la reconnaissance du fait qu'un seul échantillon ne représente pas la matrice du modèle. Le statut de la marque de camion lourd de base de HOWO est confirmé par les informations officielles de l'entreprise; les chiffres détaillés de travail proviennent du papier d'homologation.
 

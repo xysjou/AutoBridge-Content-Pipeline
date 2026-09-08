@@ -1,15 +1,17 @@
 # BYD Qin L DM-i (秦 L DM-i): Saloon PHEV de quinta generación — Especies de China para exportadores
 
-## SEO Metadatos
-- **SEO Título**: BYD Qin L DM-i PHEV Specs " Export Guide (5th-Gen DM, CLTC)
-- **Meta Descripción**: Chinese-market BYD Qin L DM-i fifth-gen plug-in hybrid — 1.5L dedicated engine,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  Controles de exportadores.
-- ** URL agregada**: /vehicles/byd-qin-l-dm-i/
-- ** H1 **: BYD Qin L DM-i (Fifth-Generation DM): Chinese-Market PHEV Especificaciones y notas de exportación
-- **Primary Keyword**: byd qin l dm-i specs export
-- **Segundary Search Terms**: Qin L DM-i 120km, quinta generación DM, batería de BYD Blade PHEV, Qin L CLTC range, 秦 L DM-i export
-- **Sugerencias de enlace interno**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/; /guides/export-vehicle-document-package/
-- **Sugerencias de imagen**: perfil lateral Qin L DM-i; puerto de carga; diagrama de suelo de batería de hoja; placa 120km; cabina trasera
-- **Sugerencias de ALT**: "Sedán PHEV de quinta generación de BYD Qin L DM-i 15.87kWh de batería de la batería de la cuchilla 120km CLTC"
+## Metadatos SEO
+- **Título SEO**: BYD Qin L DM -i PHEV Specs & Export Guide (5th-Gen DM, CLTC)
+- **Meta descripción**: China-mercado BYD Qin L DM -i quinto-gen híbrido plug-in — 1.5L motor dedicado,   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  Controles de exportadores.
+- **H1**: BYD Qin L DM -i (Fifth-Generation DM): Chinese-Market PHEV Especificaciones y notas de exportación
+- **Palabra clave principal**: byd qin l dm-i specs export
+- **Términos de búsqueda secundarios**: Qin L DM -i 120km, quinta generación DM, BYD batería de la batería de la hoja PHEV, Qin L CLTC rango, 秦 L DM -i export
+- **URL sugerida**: /vehicles/byd-qin-l-dm-i/
+- **Intención de búsqueda**: Comprender BYD Qin L DM -i (Fifth-Generation DM): Chinese-Market PHEV Especificaciones y Notas de Exportación: qué un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Sugerencia de imagen**: perfil lateral Qin L DM -i
+- **Texto ALT**: BYD Qin L DM -i quinta generación PHEV sedan
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: Leer Es como un PHEV, no un EV y no un híbrido convencional
 El Qin L DM-i es un saloon híbrido de tamaño medio construido sobre la arquitectura DM ** de quinta generación ** de BYD. Los exportadores con mayor frecuencia mal manejan este coche de una manera: tratar las dos versiones de la batería como intercambiables. No son: los coches de 80 km y 120 km de rango eléctrico tienen diferentes capacidades de batería y diferentes casos de uso. Esta página documenta la línea **Mercadillo chino (REFERENCIA: CHINA)**; no se captó ninguna página de especificación en el extranjero BYD, por lo que no se debe presentar aquí como una especie global o de destino.

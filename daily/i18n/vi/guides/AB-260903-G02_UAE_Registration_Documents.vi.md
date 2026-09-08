@@ -1,14 +1,16 @@
 # Nhập một chiếc xe vào Mô- đun Mô- đun: được phép tái định cư và bạn phải tái xác nhận cái gì
-## SAO Siêu dữ liệu
-- **SEAO title**: UAE road Import & RTA đăng ký tài liệu hướng dẫn
-- **Meta Mô tả**: Nối một phương tiện được nhập đúng — tài liệu cho phép sử dụng trong hải quan, quy định GCC/GSO, rồi đăng ký RTA (Mulkiya). Các con số được báo cáo có tính năng/số lượng được đánh dấu để xác nhận chính thức UAE thay vì được ghi rõ như cố định.
-- ** URL đã gợi ý**: /guides/uae-vehic-import-registration-docuistths/
-- ** H1 **: Xe bò U.S.E. Import: Từ rõ ràng cổng đến đăng ký RTA — Tài liệu và việc chuyển nhượng
-- **Cumpary Keyword**: phương tiện nhập khẩu tài liệu đăng ký rta
-- **Secondary Search termss**: xe hải quan Dubai nhập khẩu, Mô tảE Mulkiya, xe GCC GSO phù hợp, đặc vụ nhập khẩu xe UAE, MolaT xe nhập khẩu
-- **I nội bộ Link gợi ý: tượng-priver-dliver/; /guides/china-vehic-lic-liense-Dense-Dient-Dientts/; /guides/vehle-Page-conpection-ps///
-- **Image gợi ý**: rõ ràng Biểu đồ chuỗi RTA; bảng kiểm tra tài liệu UAE; sơ đồ thẩm quyền conrate/fel
-- **LT gợi ý**: "Các phong tục UAE đến trình tự đăng ký RTA; "Danh sách xe hơi nhập khẩu tài liệu"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: UAE  Vehicle Import &  RTA  Registration Documents Guide
+- **Meta mô tả**: Hàng loạt UAE xe nhập đúng — giấy phép sử dụng hải quan, GCC/GSO tùy theo nhau, rồi RTA giấy đăng ký (Mulkiya). Báo cáo nhiệm vụ/ VAT con số được đánh dấu để xác nhận chính thức UAE chứ không phải là đã ghi rõ như cố định.
+- **H1**: UAE Nhập xe: Từ việc dọn sạch cổng đến RTA — Tài liệu và sự xác định
+- **Từ khóa chính**: Name
+- **Cụm tìm kiếm phụ**: Xe hải quan Dubai nhập khẩu, UAE Đăng ký Mulkiya, GCC GSO xe phù hợp với nhau,   UAE  car import duty  VAT , Nhập xe MoIAT
+- **URL đề xuất**: /guides/uae-vehicle-import-registration-documents/
+- **Ý định tìm kiếm**: Hiểu UAE Nhập khẩu xe cộ: Từ việc dọn sạch Port đến RTA tài liệu — Tài liệu và vật liệu: người xuất khẩu xe cộ/một phần phải xác nhận điều gì, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Gợi ý hình ảnh**: Name sơ đồ dãy
+- **Văn bản ALT**: Các tập tin thuộc tập tin Mô tả sang tiến trình đăng ký RTA
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Phạm vi và Kết giới bằng chứng (đã đọc trước)
 Hướng dẫn này sử dụng **UAE như là ví dụ làm việc**; sự chuyển đổi logic trình tự đến các thị trường khác GCC, nhưng mỗi bang di dân và mỗi bang GCC áp dụng hình thức và phí riêng của nó. **Không có mô tả liên bang-customs hay RTA trang chính đã bị bắt trong gói này.** Do đó, nhiệm vụ cụ thể/các con số dưới đây được đăng tải bởi **reported bởi các hướng dẫn hàng hóa và là các mục khảo sát thời gian, không phải là những dữ kiện cố định** - lấy các giá trị hiện tại từ các tập tục liên bang UAE và các liên quan đến RTA trước khi thực hiện một mô hình giá trị hạ cánh.
@@ -54,18 +56,18 @@ Chuyện gì xảy ra với ESMA? Các chức năng liên quan của nó đượ
 ** Sách hướng dẫn này có áp dụng cho Saudi/Qatar không?** Các chuỗi chuyển giao theo khái niệm, nhưng hình thức, phí tổn và quyền hạn khác nhau của bang GCC — xác nhận mỗi quốc gia riêng lẻ.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

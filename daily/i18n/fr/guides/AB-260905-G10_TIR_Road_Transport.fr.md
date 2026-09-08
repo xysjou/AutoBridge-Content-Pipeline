@@ -1,15 +1,29 @@
 # Transport routier international TIR pour les exportateurs chinois — Carnet, homologation de véhicule, règles 2026
+## Métadonnées SEO
+- **Titre SEO**: TIR Transport routier de la Chine vers l'Asie centrale/Europe: carnet, homologation de véhicule et 2026 extension
+- **Description meta**: Comment le fret routier international TIR fonctionne pour les exportateurs chinois de véhicules et de pièces: le carnet TIR, le certificat d'homologation du véhicule, compartiment de chargement scellé, Calendrier pour la Chine  and  the 2026 scope expansion.
+- **H1**: TIR Transport routier international pour les exportateurs chinois — carnet, homologation de véhicule, 2026 Règles
+- **Mot-clé principal**: Transports routiers Chine Asie centrale
+- **Termes de recherche secondaires**: TIR carnet; Chine Centrale Transport par camion en Asie; certificat d'agrément des véhicules; sceau douanier; transit routier
+- **URL suggérée**: /guides/tir-road-transport-china-central-asia/
+- **Intention de recherche**: Comprendre TIR Transport routier international pour les exportateurs chinois — carnet, homologation de véhicule, 2026 Règles: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant TIR Transport routier international pour les exportateurs chinois — Carnet, homologation de véhicule, 2026 Règle, aucune inspection par étapes ou les gens ont réclamé.
+- **Texte ALT**: Vue de près, naturelle des matériaux et du sujet lié à TIR Transport routier international pour les exportateurs chinois — Carnet, homologation de véhicule, fond neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
-## OEuvre Métadonnées
-- ** Titre du SEO**: Transport routier TIR de la Chine vers l ' Asie centrale/Europe: carnet, homologation de véhicule et 2026 extension
-- **Description détaillée**: Comment fonctionne le fret routier international TIR pour les exportateurs chinois de véhicules et de pièces: le carnet TIR, le certificat d'homologation du véhicule, compartiment de chargement scellé, Calendrier pour la Chine  and  the 2026 scope expansion.
-- ** H1 **: Transport routier international TIR pour les exportateurs chinois — carnet, homologation de véhicule, 2026 Règles
-- ** Mot-clé principal**: le transport routier de la Chine Asie centrale
-- ** Termes de recherche secondaire**: carnet TIR; Chine Centrale Transport par camion en Asie; certificat d'agrément des véhicules; sceau douanier; transit routier
-- **URL suggérée**: /guides/tir-road-transport-chine-central-asia/
-- **Intention de la recherche**: 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化（欧洲卡航出口）（对中亚）
-- **Suggestions de lien interne**: /guides/tir-route-transport-chine-central-asie/, /guides/véhicule-export-hs-code-histoire/, /guides/chine-export-douanes-déclaration-single-window/
-- **Schema Champ d'application**: article (pas de produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: Transport routier TIR de la Chine vers l ' Asie centrale/Europe: carnet, homologation de véhicule et 2026 extension
+- **Description meta**: Comment fonctionne le fret routier international TIR pour les exportateurs chinois de véhicules et de pièces: le carnet TIR, le certificat d'homologation du véhicule, compartiment de chargement scellé, Calendrier pour la Chine  and  the 2026 scope expansion.
+- **H1**: Transport routier international TIR pour les exportateurs chinois — Carnet, homologation de véhicule, règles 2026
+- **Mot-clé principal**: Transports routiers Chine Asie centrale
+- **Termes de recherche secondaires**: Carnet TIR; Chine Centrale Transport par camion en Asie; certificat d'agrément des véhicules; sceau douanier; transit routier
+- **URL suggérée**: /guides/tir-road-transport-china-central-asia/
+- **Intention de recherche**: Comprendre le transport routier international pour les exportateurs de Chine — carnet, agrément de véhicule, règles 2026: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Suggestion d'image**: Un tableau réaliste, axé sur les documents et les véhicules, illustrant le transport routier international TIR pour les exportateurs chinois — Carnet, homologation de véhicule, 2026 Règle, aucune inspection par étapes ou les gens ont réclamé.
+- **Texte ALT**: Vue de près et naturelle des matériaux et du sujet lié au transport routier international TIR pour les exportateurs chinois — carnet, homologation de véhicule, arrière-plan neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
 ## Ce qui change pour un exportateur terrestre
 TIR est un système de transit douanier international qui permet à un véhicule routier ou un conteneur scellé de passer par les parties contractantes avec un seul carnet **TIR**, les marchandises restant généralement scellées et les droits/taxes garantis le long de la chaîne. Pour les exportateurs chinois qui expédient des véhicules ou des pièces par terre vers l'Asie centrale et vers l'Europe, il réduit les inspections et les garanties répétées aux frontières. Il s'agit d'une convention-cadre; les détails opérationnels sont mis en œuvre par les douanes de chaque partie contractante.
@@ -41,7 +55,6 @@ Ce guide ne énumère pas toutes les parties contractantes, ni les frais de cha�
 **Le TIR remplace-t-il la déclaration d'exportation?** Non, il travaille avec la déclaration d'exportation de la Chine.
 **Contient-ils le fret maritime?** Il s'agit d'un système de transit routier (et routier-intermodal); confirmer la portée modale de l'itinéraire.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -59,18 +72,18 @@ Ce guide ne énumère pas toutes les parties contractantes, ni les frais de cha�
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: le transport routier international TIR exact pour les exportateurs chinois
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact TIR International Road Transport for China Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
   - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
   - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +96,5 @@ Ce guide ne énumère pas toutes les parties contractantes, ni les frais de cha�
   - **ID**: TIR road transport, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: TIR road transport, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: TIR road transport, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TIR #RoadFreight

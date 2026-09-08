@@ -1,16 +1,16 @@
 # XPeng MONA M03: Eine kompakte elektrische Limousine aus China, die um die Batterie-Range-Motor-Matrix herum gebaut wurde
-## SEO Metadaten
-- **SEO Titel**: XPeng MONA M03 China-Markt EV Specs und Export Käufer Schecks | AutoBridge
-- **Meta Description**: Chinesische Marktreferenz für die elektrische Limousine XPeng MONA M03: 51.8/62.2 kWh LFP batteries, CLTC-Bereichsgrenzen  and  140/160 kW motors kept mapped by SKU, sowie Ausfuhrprüfungsschritte.
-- ** H1 **: XPeng MONA M03: Eine kompakte elektrische Limousine aus China, die um die Batterie-Range-Motor-Matrix herum gebaut wurde
-- **Hauptschlüsselwort**: XPeng MONA M03 Exportspezifikationen
-- **Secondary Search Terms**: 小鹏 MONA M03; MONA M03 CLTC-Reihe; MONA M03 62.2 kWh; XPeng M03 160 kW; Export von chinesischen Elektrolimousinen; Cd 0.194
-- **Vorgeschlagene URL**: /Fahrzeuge/xpeng-mona-m03/
-- **Search Intent**: 面向海外买家介绍小鹏 MONA M03 中国市场身份 电池 /CLTC 续航 / 电机的 SKU 对应关系与版本边界
-- **Interne Linkvorschläge**: /Fahrzeuge/deepal- s05/, /Fahrzeuge/dongfeng-aeolus-yixuan/, /guides/ev-shipping- un3556-imdg-compliance/
-- **Bildvorschlag**: Eine elektrische Fastback-Limousine XPeng MONA M03 von vorne drei Viertel auf neutralem Hintergrund
-- **ALT Vorschlag**: Vordere Dreiviertelansicht einer elektrischen XPeng MONA M03 Limousine auf einem neutralen Studiohintergrund
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Bewertung / Bewertung)
+## SEO-Metadaten
+- **SEO-Titel**: XPeng MONA M03 China-Markt EV Specs und Export Käufer Schecks | AutoBridge
+- **Meta-Beschreibung**: Chinesische Marktreferenz für die elektrische Limousine XPeng MONA M03: 51.8/62.2 kWh  LFP  batteries, CLTC Reichweitenstufen  and  140/160 kW motors kept mapped by  SKU , sowie Ausfuhrprüfungsschritte.
+- **H1**: XPeng MONA M03: Eine kompakte elektrische Limousine aus China, die um die Batterie-Range-Motor-Matrix herum gebaut wurde
+- **Haupt-Keyword**: XPeng MONA M03 Exportspezifikationen
+- **Sekundäre Suchbegriffe**: 小鹏 MONA M03; MONA M03 CLTC; MONA M03 62.2 kWh; XPeng M03 160 kW; Export von Elektrolimousinen aus China; Cd 0.194
+- **Vorgeschlagene URL**: /vehicles/xpeng-mona-m03/
+- **Suchabsicht**: XPeng MONA M03: Eine kompakte elektrische Limousine aus China, die um den Batterie-Range-Motor herum gebaut wurde Matrix: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Bildvorschlag**: Eine elektrische Fastback-Limousine XPeng MONA M03 von vorne drei Viertel auf einem neutralen Hintergrund gezeigt
+- **ALT-Text**: Front Dreiviertelansicht einer XPeng MONA M03 Elektrolimousine auf einem neutralen Studiohintergrund
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Die XPeng MONA M03 ist die kompakte elektrische Schnellhecklimousine XPeng, die im August 2024 in China auf einem vorderen Einmotor-Layout mit Frontantrieb mit einem ungewöhnlich niedrigen Luftwiderstandsbeiwert auf den Markt gebracht wurde. Für einen Käufer von Elektrofahrzeugen aus Übersee unterscheidet sich die Disziplin von einem ICE-Auto: Der Auftrag muss die Batteriekapazität, die Testzyklus-Reihe und den Motor als eine passende SKU ** sperren, da der M03 in mehreren Kombinationen verkauft wird, die leicht zu mischen sind. Diese Seite ist eine **chinesische Marktreferenz **; alle Bereiche sind **CLTC ** und dürfen nicht mit WLTP/NEFZ-Nummern verglichen werden, der Batterielieferant wird nicht behauptet, und die Standards für die Aufladung auf dem Exportmarkt erfordern separate Nachweise.
 

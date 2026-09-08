@@ -1,14 +1,16 @@
 # Geely Engrand(4th Gen) 2024:一个供出口商使用的中马条目轿车标本表
-## 道德操守办公室 元数据
-- ** SEO标题**:吉利Engrand 2024(4th Gen) Specs & Element Buyers指南
-- **Meta 描述**:中国市场4th-generation 吉利Engrand 2024 — 1.5L 93 kW引擎,5MT/CVT,维度,4th-gen对全新5th-gen的区分,以及进口商在订购前必须核实的.
-- ** 建议的URL**:车辆/大海/
-- ** H1 **:吉利安格朗德2024(4th年代):中马标本和出口检查
-- ** 基本关键词**:宝石2024种出口
-- ** 二级搜索术语**:吉利Engrand 1.5L CVT,4th代 Emgrand 维度,中国进货轿车出口,Geely Emgrand 93kW,Emgrand 模范年差
-- ** 内部链接建议**:车辆/吊车-cs75-plus/;车辆/车辆-coc-型核准-多塞/;车辆/集装箱/车辆装载-拉伸/
-- ** 图像建议**:4th-gen的前四分之三。 Empgrand; 5MT vs CVT 驱动列车注解;后座和后座空间;引擎舱1.5L徽章
-- **ALT建议**:"吉利·安格朗德第四代1.5L轿车";"英格朗德2024尺寸和车轮基".
+## SEO元数据
+- **SEO标题**: Geely Engrand 2024(4th Gen) 光谱和出口购买者指南
+- **Meta描述**: 中国市场4th-generation 吉利Engrand 2024 — 1.5L 93 kW引擎,5MT/ CVT,维度,4th-gen对全新5th-gen的区分,以及进口商在订购前必须核实的.
+- **H1**: Geely Engrand 2024 (4th Generation):中国市场标本与出口检查
+- **核心关键词**: 宝石 2024 光谱导出
+- **次级搜索词**: 吉利Empgrand 1.5L CVT 4th 一代Empgrand 维度,中国进货轿车出口,吉利Empgrand 93kW 年差 吉利Empgrand 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差
+- **建议URL**: /vehicles/geely-emgrand/
+- **搜索意图**: 了解吉利Engrand 2024(4th Generation):中国市场标本和出口检查:车辆/零件出口商在承诺订购前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **图片建议**: front three-quarter of 4th-gen Emgrand
+- **ALT文本**: 吉利·安格朗德第四代1.5L轿车
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者背景: 在您先将世代推向价格
 爱姆格朗是吉利公司高容量的紧凑型轿车,也是价格敏感的进车市场的一个自然候选. 进口商的陷阱是世代相传的: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: 中国)**,  while an **all-new 5th generation launched in China in November 2025** with a longer body, 长轮式基座  and  a 起点价格较低。 引用2024单位对5th-gen维度——或反之,是这个名牌上唯一最常见的顺序错误. 将下图作为**中国市场参考规格**; 目的地市场引擎调谐,排放级和设备由当地同调,而不是本表管辖.
@@ -54,30 +56,30 @@
 **1.5L发动机的功率有多大?**93 kW(约127 PS),中国参考页127 N·m;验证精确的修剪.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

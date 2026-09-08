@@ -1,16 +1,16 @@
 # Importar vehículos en Kenia: KRA Customs, KEBS PVoC y el Standards Path
-## SEO Metadatos
-- **SEO Title**: Kenya Importación del vehículo: KRA Customs Duties y KEBS PVoC Guide
-- **Meta Descripción**: Guía específica para importar vehículos a Kenya: procedimiento aduanero e impuestos del KRA, verificación previa a la exportación del KEBS de conformidad (PVoC), y cómo se publica la norma de la edad rodante del vehículo.
-- ** H1 **: Importación de vehículos en Kenia: aduanas KRA, KEBS PVoC y el camino estándar
-- **Primary Keyword**: importación de vehículos de Kenya KRA KEBS PVoC
-- ** Términos de búsqueda de la segunda reunión**: Kenya KRA vehicle import duty; KEBS PVoC vehicle; import standardization mark Kenya; Kenya used car age rule; Kenya import declaration
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Intent de búsqueda**: 向肯尼亚出口车辆需经过哪些海关计税, 装船前合格评定与标准 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Sugerencia de imagen**: Manejo de importación de vehículos portuarios de Mombasa con documentos KEBS y KRA
-- **ALT Sugerencia**: Archivo de importación de vehículos con papeleo KEBS y KRA y un patio de puerto en segundo plano
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadatos SEO
+- **Título SEO**: Kenya Importación del vehículo: KRA deber aduanero y KEBS guía de PVoC
+- **Meta descripción**: Guía específica para importar vehículos a Kenya: KRA procedimientos e impuestos aduaneros, la verificación previa a la exportación de la conformidad (PVoC) de KEBS y cómo se publica la norma de la edad rodante de los vehículos.
+- **H1**: Importar vehículos en Kenia: KRA Aduanas, KEBS PVoC y el Camino de las Normas
+- **Palabra clave principal**: Importación de vehículos de Kenya KRA KEBS PVoC
+- **Términos de búsqueda secundarios**: Kenya KRA derechos de importación de vehículos; KEBS vehículos de motor PVoC; marca de estandarización de importaciones Kenya; Kenya usó la regla de edad del automóvil; declaración de importación de Kenya
+- **URL sugerida**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Intención de búsqueda**: Comprender la importación de vehículos en Kenia: KRA Aduanas, KEBS PVoC y el Camino de Normas: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Sugerencia de imagen**: Manejo de importación de vehículos portuarios Mombasa con KEBS y KRA documentos
+- **Texto ALT**: Archivo de importación de vehículos con papeleo KEBS y KRA y un patio de puerto en segundo plano
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Kenya divide una importación de vehículos entre la autoridad tributaria y el órgano de normas, y el paso de las normas ocurre en gran medida **antes de que el vehículo abandone el país de origen**. La Autoridad de Impuestos de Kenya** maneja la valoración, las obligaciones y la limpieza aduaneras; la Oficina de Normas de Kenya** ejecuta el programa de verificación previa de la conformidad (PVoC) que decide si una importación regulada cumple las normas de Kenya. Esta es una guía específica para Kenya; los números y listas implicados son sensibles al tiempo y deben leerse de las fuentes actuales de KRA/KEBS.
 

@@ -1,16 +1,16 @@
 # Changan Kaicene F70: Un modèle de pickup en Chine pour le corps sur le marché construit autour du lit, de l'empattement et du train d'entraînement
-## OEuvre Métadonnées
-- **Référencement**: Changan Kaicene F70 Chine-Marché Spécifications de ramassage et contrôles d'exportation
-- **Description détaillée**: Référence du marché chinois pour la camionnette Changan Kaicene F70: lits standard vs long-rouebase, châssis corps sur cadre et disposition 2WD/4WD, avec des chiffres de remorquage/charge utile non vérifiés délibérément retenus.
-- ** H1 **: Changan Kaicene F70: Un modèle de pickup en série pour le marché chinois construit autour du lit, de l'empattement et du train d'entraînement
+## Métadonnées SEO
+- **Titre SEO**: Changan Kaicene F70 Chine-Marché Spécifications de ramassage et contrôles d'exportation
+- **Description meta**: Référence du marché chinois pour la camionnette Changan Kaicene F70: lits standard vs long-rouebase, châssis corps sur cadre et disposition 2WD/4WD, avec des chiffres de remorquage/charge utile non vérifiés délibérément retenus.
+- **H1**: Changan Kaicene F70: Un modèle de pickup en Chine pour le corps sur le marché construit autour du lit, de l'empattement et du train d'entraînement
 - **Mot-clé principal**: Changan Kaicene F70 spécifications d'exportation
-- ** Termes de recherche secondaires**: 长安凯程 F70; Kaicene F70 dimensions; F70 lit long; JE4D25 ramassage diesel; exportation de ramassage chinois; lit long de baleine bleue
-- **URL suggérée**: /véhicules/changan-kaicène- f70/
-- **Intention de la recherche**: 面向海外买家介绍长安凯程 F70 中国市场身份 - 标轴 / 长轴货箱 - 非承载底盘与四驱, 未核实拖拽 / 承载保持待证
-- **Suggestions de lien interne**: /véhicules/qingling-isuzu- kv100/, /véhicules/jmc-ford-transit- t8/, /guides/vérify-chine-car-export-fournisseur-histoire/
-- **Suggestion d'image**: Un ramassage à double cabine Changan Kaicene F70 montré sur le profil latéral pour afficher son lit de chargement
-- **ALT Suggestion**: Profil latéral d'un pickup Changan Kaicene F70 à double cabine montrant le cargo sur sol neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+- **Termes de recherche secondaires**: 长安凯程 F70; Kaicene F70 dimensions; F70 lit long; JE4D25 ramassage diesel; exportation de ramassage chinois; lit long pour baleine bleue
+- **URL suggérée**: /vehicles/changan-kaicene-f70/
+- **Intention de recherche**: Comprendre Changan Kaicene F70: Un produit de référence pour le ramassage en Chine construit autour du lit, de l'empattement et du train d'entraînement: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager sur une commande.
+- **Suggestions de liens internes**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- **Suggestion d'image**: Une camionnette Changan Kaicene F70 double cabine montrée du profil latéral pour afficher son lit de chargement
+- **Texte ALT**: Profil latéral d'un pick-up Changan Kaicene F70 double cabine montrant le cargo-lit sur sol neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 Le Changan Kaicene F70 est un pick-up de taille moyenne, sans charge, pour la carrosserie, offert en double cabine en deux et quatre roues motrices, avec des versions standard et longues roues/lits, avec une variante longue lit "Blue Whale". Pour un acheteur de ramassage, les décisions sont physiques plutôt que esthétiques: ** longueur du lit, empattement, entraînement et châssis**, et les numéros de charge/remorquage qui décident si le camion fait le travail. Cette page est une référence ** du marché chinois**. Il corrige les dimensions qui sont recoupées, nomme les familles de moteurs sans épingler les sorties de source unique, et délibérément ** refuse** les chiffres de remorquage et de charge utile largement circulés parce qu'aucune feuille de même format d'OEM ou bulletin d'homologation n'a été capturé pour les soutenir.
 

@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Wuling Hongguang MINIEV Macaron 2024 Specs & Export Notes
 - **Meta Description**: Chinese-market 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, 20 kW motor, 170/215 km CLTC, LFP battery, mainly slow charging, 100 km/h top speed, grade-selection logic and exporter checks.
-- **Suggested URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
 - **H1**: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro-EV Specs and Export Checks
 - **Primary Keyword**: wuling hongguang miniev macaron 2024 specs
 - **Secondary Search Terms**: MINIEV Macaron range, Wuling micro EV export, MINIEV 20kW, 170 215 CLTC city car, Wuling LFP small battery
+- **Suggested URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **Search Intent**: Understand Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro-EV Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
-- **Image Suggestions**: 3-door body with open doors; 4-seat micro cabin; charge port (slow charge); size comparison in a parking bay
-- **ALT Suggestions**: "Wuling MINIEV Macaron micro EV dimensions"; "MINIEV Macaron 170 215 CLTC range"
+- **Image Suggestion**: 3-door body with open doors; 4-seat micro cabin; charge port (slow charge); size comparison in a parking bay
+- **ALT Suggestion**: Wuling MINIEV Macaron micro EV dimensions
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Match the Product to the Use Case
 The Hongguang MINIEV Macaron is a **micro urban electric car**, not a compact EV. At **3064 mm long and 777 kg kerb**, it sits a full class below a small hatchback — for scale, the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. That gap is the whole buying decision: the Macaron's value is short-trip city mobility at a very low Chinese price point; its limitations are top speed (**100 km/h**), range (**170/215 km CLTC**), charging speed and cabin size. An exporter who positions it against B-segment EVs will create returns problems; one who sells it as a defined urban/last-mile product will not. This page covers the **3rd-generation Macaron, model year 2024 (REFERENCE MARKET: CHINA)**.

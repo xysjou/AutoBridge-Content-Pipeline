@@ -1,16 +1,16 @@
 # 의 특징 Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
-## ▼ 한국어 메타데이터
-- **SEO 제목**: FAW Jiefang J6F 라이트 트럭 수출 사양: 엔진, 포좌, 탑재량 가이드
-- **마타 기술 **: FAW Jiefang J6F 택시 이상 블루 플레이트 라이트 트럭에 대한 중국 시장 참조: N2 범주, Deutz 시리즈 디젤 옵션, 섀시 / 카고 바디, 및 균질화 문서 수출 구매자가 얻을 수 있어야합니다.
-- ** H1 **: FAW Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
-- ** 일기 키워드 **: FAW Jiefang J6F 빛 트럭 수출 specs
-- ** 보조 검색 조건 **: 지팡 J6F 라이트 트럭; J6F 블루 플레이트 N2; CA4DB1 디젤 130; 트럭 수출 이상의 FAW 택시; 중국 가벼운화물 트럭
-- **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- ** 수색 **: 面向海外 B 端买家介绍 J6F 中国市场版本身份, 底盘 / 动力 / 货箱与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- ** 이미지 제안 **: 백색 FAW Jiefang J6F 택시 이상 빛 화물 트럭은 야드에 있는 상자 몸을 가진 트럭을 제안합니다
-- **ALT 제안**: 택시 오버 FAW Jiefang J6F의 가벼운 트럭은 화물 몸이 물류 야드에 주차
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: FAW  Jiefang J6F Light Truck Export Specs: 엔진, 포좌, 탑재량 가이드
+- **메타 설명**: FAW 중국 시장 참조 Jiefang J6F 택시 오버 블루 플레이트 라이트 트럭: N2 범주, Deutz 시리즈 디젤 옵션, 섀시 / 카고 바디, 균질화 문서 수출 구매자가 얻을 수 있어야합니다.
+- **H1**: FAW  Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
+- **주요 키워드**: FAW  Jiefang J6F light truck export specs
+- **보조 검색어**: Jiefang J6F 빛 트럭; J6F 파란 판 N2; CA4DB1 디젤 130; 트럭 수출에 FAW 택시; 중국 가벼운 화물 트럭
+- **추천 URL**: /vehicles/faw-jiefang-j6f/
+- **검색 의도**: FAW의 이해 Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- **이미지 제안**: 야드에 상자 몸을 가진 백색 FAW Jiefang J6F 택시에 가벼운 화물 트럭
+- **ALT 텍스트**: 택시 이상 FAW Jiefang J6F의 가벼운 트럭은 화물 몸이 물류 야드에 주차
+- **스키마 범위**: 제+차량
 
 Jiefang J6F는 중국 '파란 판'N2 세그먼트에서 FAW의 택시 오버 라이트 듀티 트럭입니다. 4.5 톤 이하의 차량 무게, 도시 분포의 작업자. 빛 트럭 수출 결정은 엔진, 변속기, 차축, GVW/payload, 포좌 및 화물 몸에, 이렇게 이 페이지는 여객 차 배치 보다는 오히려 상업 차량 논리를 따르는 것을 따릅니다. 정체성 (FAW Jiefang 모형 선, 택시 이상 N2 빛 트럭)는 OEM 설치됩니다; 상세한 질량은 균질화 종이를 요구합니다.
 
@@ -80,12 +80,12 @@ Payload와 GVW는 여기에 고정되지 않습니다. MIIT 발표 / 특정 섀�
 | J6F 潍柴 WP2.3N 130Ps 国六配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机,  国六  |
 | 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.fawjiefang.com.cn/ | 车型官方身份  |
 | J6F 二手 / 在售配置样本 (额定载重区间线索, T4) | 58同城 | 담당자: Mr. Li | T4 | 한국어 | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | ID - 정확한 발표로 N2 GVW/engine/payload 인증 |
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | ID - 정확한 발표로 N2 GVW/engine/payload 인증 |
 | 卡车之家 解放 J6F 车型库 (独立商用车数据库) | 卡车之家 | 담당자: Mr. wang | T2 | CROSS_체크 | http://www.360che.com/ | identity — 상용 차량 데이터베이스 크로스 체크; 발표 당 여전히 페이로드 |
 | 의 특징 트럭 글로벌 (export) | 의 특징 뚱 베어 | - 연혁 | T1 | CROSS_체크 | https://www.fawtrucks.com/ | identity — 수출 시장 참고; 중국 J6F에 equate |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (N2 蓝牌轻卡; 额定载质量/总质量/全动力矩阵须公告, 二手平台线索不入正文确定值)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

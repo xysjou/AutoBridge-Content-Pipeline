@@ -1,15 +1,17 @@
 # Bộ điều khiển và giao dịch cho xuất khẩu xe cộ: quy tắc Carrier tương ứng với danh sách kiểm tra tự độngBridge
 
-## SAO Siêu dữ liệu
-- **SEAO Title**: xe cộ xuất cảnh & tiền-sipment Hướng dẫn chuyển nhượng — Quy tắc được đặt tên
-- **Meta Mô tả**: Tách biệt tên là RoRo nhà xuất bản chính sách (Waldenius Wilhelmsen, Höegh Autoliners) — nhiên liệu, pin, SOC và năng lượng — từ danh sách kiểm tra hàng đầu của AutoBridge; không có giá trị cố định chung.
-- **Sudeest URL**: /guides/vehic-eport-pdi-P-P-P-P-P-P-P-P-P-P-nover
-- ** H1 **: chuẩn bị xe hơi cho RoRo hoặc ver Engage: Những gì các nhà truyền giáo có tên yêu cầu và những gì chúng tôi đề nghị
-- **Criumary Keyword**: phương tiện xuất khẩu trước khi làm nhiệm vụ kiểm tra PDI giao cho RoRo
-- **Secondary Search Words**: - Tôi là một người tốt. - Tôi là một người tốt.  Hoegh BEV SOC 50 percent, Xe chở thuốc RoRo operable, ngắt kết nối 12V ắc quy sử dụng, Kỷ lục chụp hình trước thời kỳ định vị
-- **I nội bộ Link gợi ý**: /guides/ev-ping- un3556-imdg-compliance/; /guides/ec-fuel-cc tương thích-chicha-vecles/
-- **Image gợi ý**: tờ kiểm tra PDI; đường dốc tự lái; tên-carer vs phân chia sơ đồ
-- **LT gợi ý**: "Biểu thức phát thanh tên so với kiểm tra tính trước khi làm nhiệm vụ"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Xe cộ xuất PDI & tiền bảo hiểm Hướng dẫn chuyển nhượng — Quy tắc được đặt tên
+- **Meta mô tả**: Tách biệt tên là RoRo, chính sách của hãng hàng không (Waldenius Wilhelmsen, Höegh Autoliners) — nhiên liệu, pin, SOC và tính năng vận hành — từ danh sách kiểm tra hàng đầu của AutoBridge; không có giá trị cố định phổ quát.
+- **H1**: Chuẩn bị xe hơi cho RoRo hoặc ngăn chặn Xuất: Chúng tôi đề nghị gì?
+- **Từ khóa chính**: Xe xuất khẩu trước khi lên tàu kiểm tra PDI bàn tay trên RoRo
+- **Cụm tìm kiếm phụ**: - Tôi là một người tốt. - Tôi là một người tốt.  Hoegh  BEV   SOC  50 percent, Xe chở thuốc RoRo operable, ngắt kết nối 12V ắc quy sử dụng, Kỷ lục chụp hình trước thời kỳ định vị
+- **URL đề xuất**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Ý định tìm kiếm**: Hiểu việc chuẩn bị xe cộ cho RoRo hay ver E.: Điều mà Carriers tên và những gì chúng tôi đề nghị: những gì một người xuất khẩu xe/ phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Gợi ý hình ảnh**: Bảng kiểm tra cho PDI
+- **Văn bản ALT**: Yêu cầu nhà cung cấp tên đối với danh sách kiểm tra công việc trước
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Hai lớp không được trộn vào
 Đánh nhau tại điểm đến hầu như luôn luôn theo dấu đến một câu hỏi: tình trạng của phương tiện, nhiên liệu và tính năng vận hành ** khi giao nộp**? Để trả lời một cách rõ ràng, hướng dẫn viên này giữ riêng hai lớp:

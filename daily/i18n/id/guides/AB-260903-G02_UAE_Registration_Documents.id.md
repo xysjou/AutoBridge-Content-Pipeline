@@ -1,14 +1,16 @@
 # Mengimpor Kendaraan Ke UEE: Bersihkan -ke-Urutan Pendaftaran dan Apa Anda Harus ReVerify
-## SEO Metadata
-- *** Judul SEO **: UAE Kendaraan Impor & RTA Pendaftaran Panduan Dokumen
-- ** Meta Description **: Sekuence a UEE conceices import right - custom clearance documents, GCC GSO conformitas, then RTA registrasi (Mulkiya). Dilaporkan tugas tokoh VAT ditandai untuk konfirmasi resmi UAE daripada dinyatakan sebagai tetap.
-- ** URL yang Disarankan **: pemandu uae- kendaraan -import- registration- dokumen
-- ** H1 **: UAE Kendaraan Impor: Dari Port Clearance ke Registrasi RTA - Dokumen dan Verifikasi
-- ** Kata Kunci Primer **: uae kendaraan impor dokumen pendaftaran rta proses
-- ** Akhir Pencarian Second **: Impor kendaraan bea cukai Dubai, registrasi UAE Mulkiya, GCC GSO konformitas kendaraan, UEE car impor tugas VAT, moiAT impor kendaraan
-- *** Internal Link Sugestions **: guide kendaraan cocc-typeval- approcival- doossier guiler china- ourcle- excel.-license- dokumen-dokumen guarer ourcle- pre- cipment -psi
-- *** Sugesti Gambar **: Izin RTA diagram urutan; Daftar cek dokumen UAE; emirate federal peta otoritas
-- ** AlT Sugestions **: "UAE cukai untuk urutan pendaftaran RTA"; "UAE kendaraan impor dokumen checklist"
+## Metadata SEO
+- **Judul SEO**: UAE Impor Kendaraan & RTA Pendaftaran Petunjuk Dokumen
+- **Deskripsi Meta**: Sekuence a UAE kendaraan impor benar - ilegase clearance dokumen, GCC/GSO konformitas, kemudian RTA registrasi (Mulkiya). Dilaporkan bertugas / VAT angka ditandai untuk resmi UAE konfirmasi daripada dinyatakan sebagai tetap.
+- **H1**: UAE Impor Kendaraan: Dari Port Clearance ke RTA Registrasi - Dokumen dan Verifikasi
+- **Kata kunci utama**: uae kendaraan impor dokumen pendaftaran proses rta
+- **Istilah pencarian sekunder**: Pengimpor kendaraan bea cukai Dubai, UAE Mulkiya registrasi, GCC GSO kendaraan konformitas, UAE mobil impor tugas VAT, moiAT impor kendaraan
+- **URL yang disarankan**: /guides/uae-vehicle-import-registration-documents/
+- **Maksud pencarian**: Mengerti UAE Impor Kendaraan: Dari Port Clearance ke Registrasi RTA - Dokumen dan Verifikasi: apa yang eksportir kendaraan / bagian harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Saran gambar**: Diagram urutan 'clearse RTA'
+- **Teks ALT**: UAE kebiasaan untuk RTA urutan pendaftaran
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Batas Bukti dan Scope (baca pertama)
 Panduan ini menggunakan ** UEE sebagai contoh yang bekerja **; urutan transfer logika ke pasar GCC lain, tapi setiap emirate dan setiap negara GCC menerapkan bentuk dan biaya sendiri. ** Tidak ada UAE federal- pabean atau RTA halaman utama ditangkap dalam paket ini. ** Secara akori, tugas beton VAT biaya tokoh di bawah ini adalah ** dilaporkan oleh panduan forywarder bebas dan merupakan item verifikasi TIME- SENSTIVE, tidak tetap fakta *** - mendapatkan nilai saat ini dari otoritas federal UAE dan relevan emigate 's RTA sebelum melakukan model landed- biaya.
@@ -54,18 +56,18 @@ Setelah bebas bea cukai, pembeli berlaku untuk RTA dengan (laporan): asuransi **
 ** Apakah panduan ini berlaku untuk Saudi Qatar juga? ** Pentransferan urutan secara konseptual, tapi bentuk, biaya dan otoritas berbeda dengan negara GCC - memverifikasi setiap negara secara terpisah.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

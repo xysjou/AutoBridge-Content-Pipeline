@@ -1,14 +1,17 @@
 # Buchen Sie ein elektrifiziertes Fahrzeug für den Export: Der gefährliche Warenpapierkram, den ein Carrier tatsächlich überprüft
-## SEO Metadaten
-- **SEO Titel **: EV Export Buchungsdokumente unter IMDG 42-24: UN3556 Papierkram & Carrier Kontrollen
-- **Meta Description**: Wie Lithium-Batterie-Fahrzeuge für Seefracht unter dem aktuellen IMDG-Änderung 42-24 (UN3556/3557/3558; Legacy UN3171 Übergang beendet), die SP961/SP962 Pfade, UN38.3 und SDS-Papier und Carrier-spezifische Buchungsbedingungen klassifiziert werden.
-- **Vorgeschlagene URL**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 **: Versand elektrifizierter Fahrzeuge auf dem Seeweg: Aktuelle Gefahrengutklassifizierung, Buchungsdokumentsatz und rote Linien
-- ** Primäres Keyword**: Ozeanschifffahrt un3556 imdg 42-24 Dokumente
-- **Secondary Search Terms**: UN3556 Lithium-Ionen-Batteriefahrzeug, UN3557 Lithium-Metallfahrzeug, UN3558 Natrium-Ionen-Fahrzeug, Legacy UN3171 Transition, SP961 SP962 Fahrzeug, Class 9 Label 9A, UN38.3 Testzusammenfassung, SDS-Elektroautoversand, EV SOC Anforderungsträger
-- **Interne Linkvorschläge**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-vehicle-export-license-Zolldokumente/; /guides/container-vehicle-loading-zurr-; /guides/vehicle-pre-shipment-inspection-psi/; /vehicles/byd-dolphin/
-- **Bildvorschläge**: UN-Nummer/Klassen-Etikett; SP961-vs-SP962 Entscheidungsfluss; Buchungsdokumentkette; Klasse 9 Label 9A Plakat
-- **ALT Vorschläge**: " UN3556 IMDG 42-24" Klasse 9 „Elektrofahrzeugschifffahrt“; „EV-Versandbuchungsdokumentkette“
+## SEO-Metadaten
+- **SEO-Titel**: EV Exportbuchungsdokumente unter IMDG 42-24: UN3556 Papierkram & Carrier Kontrollen
+- **Meta-Beschreibung**: Wie Lithium-Batterie-Fahrzeuge für Seefracht unter aktuelle IMDG Änderung 42-24 (UN3556/3557/3558; Legacy UN3171 Übergang beendet), die SP961/SP962 Pfade, UN38.3 und SDS Papierkram und Carrier-spezifische Buchungsbedingungen klassifiziert werden.
+- **H1**: Versand elektrifizierter Fahrzeuge auf dem Seeweg: Aktuelle Gefahrengutklassifizierung, Buchungsdokumentsatz und rote Linien
+- **Haupt-Keyword**: Elektrofahrzeug Ozeanschifffahrt un3556 imdg 42-24 Dokumente
+- **Sekundäre Suchbegriffe**: UN3556 Lithium-Ionen-Batteriefahrzeug, UN3557 Lithium-Metall-Fahrzeug, UN3558 Natrium-Ionen-Fahrzeug, Legacy UN3171 Transition, SP961 SP962 Fahrzeug, Klasse 9 Label 9A, UN38.3 Testzusammenfassung, SDS Elektroauto-Versand, EV SOC Anforderungsträger
+- **Vorgeschlagene URL**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Suchabsicht**: Verstehen Sie den Versand elektrifizierter Fahrzeuge auf dem Seeweg: Aktuelle Gefahrengutklassifizierung, das Buchungsdokument-Set und rote Linien: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **Bildvorschlag**: UN Nummern-/Klassen-Etikettdiagramm
+- **ALT-Text**: UN3556 IMDG 42-24 Klasse 9 Elektrofahrzeugschifffahrt
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+
 ## Starten Sie hier: Ein ganzes EV ist gefährlich, und der Eintrag wurde in 42-24 geändert
 Ein intaktes, fabrikmäßig gebautes elektrifiziertes Fahrzeug ist immer noch Gefahrgut für den Seetransport. Unter **IMDG Code Amendment 42-24 (2024 Edition), obligatorisch ab 1 Januar 2026 **, werden batteriebetriebene Fahrzeuge in spezielle Einträge aufgeteilt, anstatt unter eine Pauschalnummer zu fallen:
 - ** UN3556 — Fahrzeug, mit Lithium-Ionen-Batterie betrieben** (der Fall für ein BEV oder ein PHEV/EREV, dessen Antriebsbatterie Lithium-Ionen ist);

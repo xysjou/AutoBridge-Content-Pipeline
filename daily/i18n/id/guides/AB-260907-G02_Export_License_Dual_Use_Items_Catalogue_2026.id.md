@@ -1,16 +1,16 @@
 # Cina 2026 Dual- Gunakan Katalog Item: Ketika sebuah Kendaraan Ekspor Butuh Lisensi Sebelum Deklarasi
-## SEO Metadata
-- ** Judul SEO **: China Dual-Use Export License & 2026 Catalogue for Vehicle Exporters | AutoBridge
-- ** Meta Description **: Bagaimana China menggunakan benda 2026 dual  and  Teknologi impor / ekspor katalog lisensi bekerja, Ketika 2025 No. 91 pengumuman berlaku,  and  bagaimana seorang eksportir menegaskan apakah bagian atau teknologi terdaftar.
-- ** H1 **: China 2026 Dual- Gunakan Item Katalog: Ketika sebuah Kendaraan Ekspor Butuh Lisensi Sebelum Deklarasi
-- ** Primary Keyword **: china dual gunakan item export sensicalog 2026
-- ** Akhir Pencarian Second **: dual- gunakan lisensi ekspor item Cina; Pengumuman MOFCOM GACC 2025 No 91; ekspor kontrol hukum Cina; end-user end-use pernyataan; dikendalikan butir deklarasi bea cukai
-- ** Sugested URL **: / guide / exports-licence-dual-it ems-catalogue- 2026/
-- ♪ Search Intent ♪ 两用物项和技术 2026 目录如何适用 ♪ 列入目录为何须先取证再报关 出口经营者的最终用户 / 最终用途责任
-- ** * Internal Link Sugestions **: / guide / ipr- gustmation-recordation-exports-protection /, / guider / cross- border- -colummerce- b2b-export-9710-9810/, / guiders / china -ocoolcle- exports / lisensi /
-- ** Imagesticalypse **: Seorang petugas eksport- compliance membandingkan daftar bagian terhadap sebuah katalog lisensi resmi di layar
-- ** ALT Sarankan **: Orang membandingkan daftar bagian yang dicetak dengan katalog lisensi yang ditampilkan di monitor
-- ** Skema Scope **: Artikel (tidak ada Produk / Offer / Harga / Review / Rating)
+## Metadata SEO
+- **Judul SEO**: China Dual-Use Export License & 2026 Catalogue for Vehicle Exporters | AutoBridge
+- **Deskripsi Meta**: Bagaimana China menggunakan benda 2026 dual  and  Teknologi impor / ekspor katalog lisensi bekerja, Ketika 2025 No. 91 pengumuman berlaku,  and  bagaimana seorang eksportir menegaskan apakah bagian atau teknologi terdaftar.
+- **H1**: Cina 2026 Dual- Gunakan Katalog Item: Ketika sebuah Kendaraan Ekspor Butuh Lisensi Sebelum Deklarasi
+- **Kata kunci utama**: china ganda gunakan item expor katalog lisensi 2026
+- **Istilah pencarian sekunder**: dual- gunakan lisensi ekspor butir Cina; MOFCOM GACC pengumuman 2025 No.91; ekspor kontrol hukum Cina; end-user end-use pernyataan; dikendalikan item deklarasi bea cukai
+- **URL yang disarankan**: /guides/export-license-dual-use-items-catalogue-2026/
+- **Maksud pencarian**: Memahami Cina 2026 Dual- Gunakan Katalog Item: Ketika sebuah Kendaraan Ekspor memerlukan Lisensi Sebelum Deklarasi: ekspor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen pada suatu perintah.
+- **Saran tautan internal**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
+- **Saran gambar**: Seorang petugas eksport- compliance membandingkan daftar bagian terhadap sebuah katalog lisensi resmi di layar
+- **Teks ALT**: Orang membandingkan daftar bagian yang dicetak dengan katalog lisensi yang ditampilkan di monitor
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Kebanyakan kendaraan penumpang yang selesai adalah barang komersial biasa, namun bisnis kendaraan juga memindahkan item yang ada di jalur hukum yang berbeda: dual- menggunakan item dan teknologi yang dapat melayani warga sipil dan militer atau proliferasi - penggunaan sensitif. Elektronik papan satu tertentu, komponen navigasi atau sensing, bahan khusus, teknologi produksi dan beberapa peralatan yang berdekatan dapat jatuh di dalam katalog yang terkendali. Untuk barang-barang Cina tidak mengizinkan deklarasi pertama dan klarifikasi nanti: operator harus memegang lisensi yang benar sebelum deklarasi bea cukai. Panduan ini menjelaskan hirarki hukum, bagaimana katalog saat ini dikeluarkan dan dibawa ke dalam gaya, dan eksportir ini terus-menerus tanggung jawab untuk end-user dan end- gunakan - sementara meninggalkan itu - item klasifikasi ke katalog resmi dan otoritas yang kompeten.
 

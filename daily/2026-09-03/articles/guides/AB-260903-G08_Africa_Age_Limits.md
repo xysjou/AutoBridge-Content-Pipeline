@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Africa Used-Car Import Age Limits by Country: Kenya & Nigeria Verified
 - **Meta Description**: Country-by-country African used-car age limits, steering side and inspection gates — Kenya (8 years from first registration) and Nigeria (15 from manufacture) now anchored to primary sources, other markets flagged for official verification.
-- **Suggested URL**: /guides/africa-used-car-import-age-limits/
 - **H1**: Used-Car Age Limits Across African Markets: a Matrix Built to Be Verified, Not Memorised
 - **Primary Keyword**: africa used car import age limit by country matrix
 - **Secondary Search Terms**: Kenya used car age limit 8 years first registration, Nigeria car import 15 years manufacture, Ethiopia used car ban, Ghana OBD import, Mozambique vehicle age, Sudan car age limit, Côte d'Ivoire CoC, KEBS DKS 1515
+- **Suggested URL**: /guides/africa-used-car-import-age-limits/
+- **Search Intent**: Understand Used-Car Age Limits Across African Markets: a Matrix Built to Be Verified, Not Memorised: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
-- **Image Suggestions**: country matrix table; manufacture-year vs first-registration-year timeline; official verification route diagram
-- **ALT Suggestions**: "African used car age limit verification matrix"; "manufacture year versus first registration year"
+- **Image Suggestion**: country matrix table; manufacture-year vs first-registration-year timeline; official verification route diagram
+- **ALT Suggestion**: African used car age limit verification matrix
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## Read the Evidence Ceiling Before the Table
 Age limits change, are enforced differently by port, and are frequently misquoted in freight-forwarder summaries. This page separates **two evidence tiers**. **Kenya and Nigeria are now anchored to destination primary sources** (a revenue/customs authority and a standards body) and their age basis is stated below. **Every other country row remains a reported value from forwarder/media material** and is flagged for official verification — it is not stated as settled fact. There is no single regional "Africa" rule: each country sets its own age basis, steering rule and inspection gate, and a single headline "X years" without that basis is unsafe.
 ## First: Know Which "Age" Is Being Measured

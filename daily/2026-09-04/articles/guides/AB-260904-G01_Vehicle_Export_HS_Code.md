@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Vehicle Export HS Code Classification Guide — 8701/8702/8703/8704/8705/8716
 - **Meta Description**: How Chinese exporters assign the correct HS heading to tractors, passenger cars, buses, goods vehicles, special-purpose vehicles and trailers under the 2026 Import and Export Tariff before discussing duty or certification.
-- **Suggested URL**: /guides/vehicle-export-hs-code-classification
 - **H1**: Which HS Heading Is My Vehicle? An Export-Side Classification Guide Built on the 2026 Tariff
 - **Primary Keyword**: vehicle export hs code classification 8702 8703 8704 8705
 - **Secondary Search Terms**: 8701 tractor HS, 8703 passenger vehicle HS, 8704 goods vehicle, 8705 special purpose vehicle, 8716 trailer HS, 2026 China import export tariff chapter 87
+- **Suggested URL**: /guides/vehicle-export-hs-code-classification
+- **Search Intent**: Understand Which HS Heading Is My Vehicle? An Export-Side Classification Guide Built on the 2026 Tariff: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
-- **Image Suggestions**: HS heading decision tree; car vs truck vs tractor vs trailer icon set; customs declaration form field
-- **ALT Suggestions**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
+- **Image Suggestion**: HS heading decision tree; car vs truck vs tractor vs trailer icon set; customs declaration form field
+- **ALT Suggestion**: Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why the Heading Comes Before Everything Else
 Tariff, certification, inspection and documentation all hang off the HS code — yet exporters often start with a shipping quote and classify the vehicle almost as an afterthought. For commercial and special-purpose vehicles that sequence is backwards: a tractor head, a cargo truck, a special-function truck and a trailer do not share one procedure, and assuming "it is all 87.04" is how shipments get re-classified at customs. The working rule on this page is **HS-first**: pin the exact heading and national subheading first, then move to tariff and conformity. The current basis here is the **2026 edition of the *Import and Export Tariff of the People's Republic of China*** (compiled by the Customs Tariff Commission of the State Council) and the **GACC announcement implementing the 2026 tariff adjustment programme**. Four-digit/six-digit headings are comparatively stable; the ten-digit national subheading and interim rates change with each annual tariff and must be cited by edition.

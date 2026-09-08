@@ -1,14 +1,16 @@
 # Memuat Mobil Ke Kontainer 40HQ: Menghitung Yang Menyebarkan pada Rencana Beban, dan Lashing Yang Holds di Laut
-## SEO Metadata
-- ** Judul SEO **: Berapa Banyak Mobil Cocok dengan 40HQ? Kontainer memuat & Pengatur Pengatur Pengatur
-- ** Meta Description **: Sebuah panduan 40HQ kendaraan-loading - khas 2-SUV no- rak muatan vs 4-vehicle double@-@ rak sistem, ~ 8 tali per mobil pada ban, loading urutan dan lima titik cek stowore sebelum segel.
-- ** Sugested URL **: guide juru- kendaraan-loading- lashing
--   H1 **: Kendaraan Kontainer Memuat dan Lashing: Counts, Racks, Sequence dan Pre- Seal Checks
-- ** Primary Keyword **: berapa banyak mobil cocok 40hq kontainer lashing
-- ** Akhir Pencarian Second **: 40HQ dua SUV, kotak rak mobil ganda, kendaraan memukul roda tali mengikat, RoRo ke konversi kontainer, urutan pemuatan mobil kontainer
-- ** Inside Link Sugestions **: guide kendaraan pre- pengiriman-pengiriman -examination-psi guide ev- shippping- un3171-imdg-compliance/; kendaraan changan- cs75-plus/
-- *** Saran Gambar **: sisi-lihat diagram stowage; titik putar; tarik-out rak ganda; urutan atas + bawah pemuatan
-- ** ALT Saran: "40HQ dua SUV sisi storeads"; "ban ban memukul delapan tali"
+## Metadata SEO
+- **Judul SEO**: How Many Car Cocok dengan 40HQ? Kontainer memuat & Pengatur Pengatur Pengatur
+- **Deskripsi Meta**: Sebuah panduan 40HQ kendaraan-loading - khas 2- SUV norak vs 4-vehicle double- rak sistem, ~ 8 tali per mobil pada ban, memuat urutan dan lima titik cek stowore sebelum segel.
+- **H1**: Kendaraan Kontainer memuat dan Lashing: Counting, Racks, Sequence dan Pre- Seal Checks
+- **Kata kunci utama**: Berapa banyak mobil yang cocok dengan 40hq kontainer yang memuat lashing
+- **Istilah pencarian sekunder**: 40HQ dua SUV, kotak rak mobil ganda, kendaraan memukul roda tali dasi turun, RoRo ke konversi kontainer, urutan pemuatan mobil kontainer
+- **URL yang disarankan**: /guides/container-vehicle-loading-lashing/
+- **Maksud pencarian**: Memahami Kontainer Mobil Memuat dan Lashing: Counts, Racks, Sequence dan Pre- Seal Cek: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk perintah.
+- **Saran tautan internal**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Saran gambar**: sisi - lihat diagram stowage
+- **Teks ALT**: 40HQ dua SUV storeward samping
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Pertanyaan yang semua orang tanyakan pertama
 "Berapa banyak mobil dalam 40HQ?" Tidak memiliki jawaban universal - itu adalah fungsi dari ** dimensi kendaraan, cermin-lipat, rak sistem dan pembawa yang disetujui rencana stowest **. Panduan ini memberikan band realistis dan metode, itu sengaja tidak menjanjikan menghitung tetap. Konfirmasi setiap pengiriman terhadap rencana pengukur beban yang sebenarnya.
@@ -60,18 +62,18 @@ Kenapa kau mengisi rak terlebih dahulu? Kendaraan atas harus diposisikan sebelum
 Apa yang diperiksa sebelum menyegel pintu? Barang-barang daftar cocok, ketertiban, pusat gravitasi dan izin, mengamankan penuh, dan batas pintu - dengan foto-foto.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

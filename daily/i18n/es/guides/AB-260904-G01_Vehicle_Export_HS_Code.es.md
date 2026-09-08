@@ -1,15 +1,17 @@
 # Clasificación de un vehículo para la exportación: clasificación 87.01–87.05 y 8716 remolques bajo el límite 2026
 
-## SEO Metadatos
-- **SEO Title**: Guía de clasificación de códigos HS de exportación de vehículos - 8701/8702/8703/8704/8705/8716
-- **Meta Descripción**: Cómo los exportadores chinos asignan el rumbo correcto de HS a tractores, automóviles de pasajeros, autobuses, vehículos de mercancías, vehículos de uso especial y remolques bajo el Término de Importación y Exportación de 2026 antes de discutir el deber o la certificación.
-- ** URL agregada**: /guides/vehicle-export-hs-code-classification
-- ** H1 ¿Cuál es mi vehículo? Guía de clasificación de exportación-sida Construida en el límite de 2026
-- **Primary Keyword**: vehículos exportables hs clasificación de código 8702 8703 8704 8705
-- **Secondary Search Terms**: tractor 8701 HS, 8703 vehículos de pasajeros HS, 8704 vehículos de mercancías, 8705 vehículos de uso especial, 8716 remolque HS, 2026 China importa export export tariff chapter 87
-- **Sugerencias de enlace interno**: /guides/china-export-certificate-of-origin/; /vehicles/dongfeng-tianlong-kl/; /vehicles/dongfeng-tianjin-kr/
-- **Sugerencias de imagen**: árbol de decisión de la partida HS; coche vs camión vs tractor vs conjunto de iconos del remolque; campo de formulario de declaración de aduanas
-- **ALT Sugerencias**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716 "
+## Metadatos SEO
+- **Título SEO**: Clasificación del Código de Exportación de Vehículos HS Guía: 8701/8702/8703/8704/8705/8716
+- **Meta descripción**: Cómo los exportadores chinos asignan el HS correcto encabezamiento a tractores, automóviles de pasajeros, autobuses, vehículos de mercancías, vehículos de uso especial y remolques bajo el Término de Importación y Exportación 2026 antes de discutir el deber o la certificación.
+- **H1**: Which  HS  Heading Is My Vehicle? Guía de clasificación de exportación-sida Construida en el arancel 2026
+- **Palabra clave principal**: vehículos exportables hs clasificación de código 8702 8703 8704 8705
+- **Términos de búsqueda secundarios**: 8701 tractor HS, 8703 vehículo de pasajeros HS, 8704 vehículo de mercancías, 8705 vehículo de propósito especial, 8716 remolque HS, 2026 China importador arancelario de exportación capítulo 87
+- **URL sugerida**: /guides/vehicle-export-hs-code-classification
+- **Intención de búsqueda**: Understand Which  HS  Heading Is My Vehicle? Guía de clasificación de exportación-sida Construida en el Término 2026: qué debe verificar, documentar y decidir un vehículo/partes exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Sugerencia de imagen**: HS encabezamiento del árbol de decisión
+- **Texto ALT**: Vehículo HS encabezamiento del árbol de decisión 8701 8702 8703 8704 8705 8716
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Por qué el encabezado viene antes de todo
 Tariff, certificación, inspección y documentación colgado del HS código - aún exportadores a menudo comienza con un presupuesto de envío y clasificar el vehículo casi como un pensamiento posterior. Para fines comerciales y especiales vehículos que secuencia al revés: una cabeza de tractor, un camión de carga, un camión especial y un remolque no compartir un procedimiento, y suponiendo "es todo 87.04 " es cómo envíos reclasificados en aduanas. La norma de trabajo sobre esta página es ** HS -first**: pin el rumbo exacto y subpartida nacional primero, entonces pasar a arancel y conformidad. La base actual aquí es la edición ** 2026 de la *Importación y Arancelario de exportación República Popular China*** (compilado por las aduanas Comisión de Aranceles Aduaneros Consejo de Estado) y el ** Anuncio de GACC Programa de ajuste arancelario 2026**. Las partidas de cuatro dígitos y seis dígitos son comparativamente estable; la subpartida nacional de diez dígitos y cambio de las tasas provisionales con cada tarifa anual y debe ser citado por edición.

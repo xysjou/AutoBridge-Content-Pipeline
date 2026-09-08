@@ -1,14 +1,16 @@
 # 中国-サイド車両輸出ライセンスと税関書類:輸出業者がフォローしなければならない注文
-## ツイート メタデータ
-- **SEOのタイトル**: 中国車輸出免許証及び習慣文書ガイド(2026)
-- **メタ 記述**: 中国車輸出資格の仕組み — 年間MOFCOMライセンス申請、BEV旅客車輸出ライセンス、中古車180-day規則、税関申告前の輸出書類チェーン。
-- **混雑したURL**: /guides/china-vehicle-export-license-customs-documents/
-- H1 ホテル **: 中国-サイド車両輸出ライセンス、資格、税関文書チェーン
-- **主なキーワード**:中国車輸出ライセンス税関申告文書
-- **二次検索条件**:中国中古車輸出ライセンス、BEV輸出ライセンス中国、 MOFCOM車の輸出ファイリング、車の輸出文書の鎖、180日は車の輸出規則を使用しました
-- **内部リンクの提案**: /guides/vehicle-coc-type-approval-dosier/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
-- **画像提案**: licence→document→customs フロー図; 文書チェーンチェックリスト; 年次フィリングタイムライン
-- **ALTの提案**:「税関の流れへの中国車輸出免許証」;「車の輸出文書チェーンチェックリスト」
+## SEOメタデータ
+- **SEOタイトル**: 中国車輸出免許証及び習慣文書ガイド(2026)
+- **メタディスクリプション**: 中国の車輸出資格が機能する方法 - 年間MOFCOMライセンス、BEV旅客車輸出ライセンス、中古車180-dayルール、および税関申告前の完全な輸出文書チェーン。
+- **H1**: 中国-サイド車両輸出ライセンス、資格、税関文書チェーン
+- **主要キーワード**: 中国車輸出免許証の習慣の宣言文書
+- **関連検索語**: 中国中古車輸出ライセンス、BEV輸出ライセンス中国、MOFCOM車両輸出出願、車両輸出文書チェーン、180日中古車輸出規則
+- **推奨URL**: /guides/china-vehicle-export-license-customs-documents/
+- **検索意図**: 中国・サイド車両輸出ライセンス、資格、税関文書チェーンを理解します。車両/部品輸出業者が確認、文書化、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **画像候補**: licence→document→customs フロー図
+- **ALTテキスト**: 中国の車両輸出ライセンス 通関の流れ
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## なぜこのページが主張するのか
 ほとんどの場合、最初の出荷は、**中国側**で失敗します。 宛先:輸出業者は、適切な資格カテゴリを欠い、ライセンスは製品をカバーしていません。 または文書チェーンは宣言に矛盾しています。 注文をフォローするガイドです。 中国語の政府文書(MOFCOM、州議会政策ライブラリ、MIIT)に基づいて、規則が毎年変更されるか、時間感度が低下する場合には、永続的に扱われるのではなく、フラグが付けられます。
@@ -57,18 +59,18 @@ MIIT注文番号50は、道路車両メーカーと製品を別館に分けま�
 **HSコードはいつから来るのですか?** 現在の関税スケジュールと最新のMOFCOM通知に対する正確なコードと規制条件を確認します。 古いコードを継承しません。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,7 +87,7 @@ MIIT注文番号50は、道路車両メーカーと製品を別館に分けま�
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 2026 Automobile & Motorcycle Export Licence Filing Notice | 商務省(MOFCOM) | CN(輸出側) | 以下は、 https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | 検証済み | 年間出願; 性能の証拠を向上 |
+| 2026 自動車・オートバイ 輸出入申請書 | 商務省(MOFCOM) | CN(輸出側) | 以下は 、 https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | 検証済み | 年間出願 性能の証拠を向上 |
 | 中古車輸出管理の強化について | 州立評議会政策ライブラリ(四省) | CN(輸出側) | 以下は、 https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 検証済み | 中古車ライセンス制度;180-day ルール 2026-01-01 |
 | BEV の乗客車輸出免許証管理 | | CN(輸出側) | 担当: http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | タイム _ センシブ | BEV ライセンス トラック、参照HS |
 | MIIT注文番号50 - 製造業者および製品入場料 | 業界・IT省 | CN(輸出側) | 以下は、 https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | 検証済み | Six admission categories; 文書チェーンベース |

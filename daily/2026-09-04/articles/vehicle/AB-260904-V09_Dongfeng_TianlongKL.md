@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Dongfeng Tianlong KL Tractor Specs & Export Guide (DDi11 465, GCW 40t)
 - **Meta Description**: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (AMT option), 40 t GCW, plus the power-rating and variant checks exporters need.
-- **Suggested URL**: /vehicles/dongfeng-tianlong-kl/
 - **H1**: Dongfeng Tianlong KL Heavy Tractor Head: Chinese-Market Powertrain and Chassis Specs
 - **Primary Keyword**: dongfeng tianlong kl tractor specs export
 - **Secondary Search Terms**: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, Chinese 6x4 tractor head, 40t GCW truck export
+- **Suggested URL**: /vehicles/dongfeng-tianlong-kl/
+- **Search Intent**: Understand Dongfeng Tianlong KL Heavy Tractor Head: Chinese-Market Powertrain and Chassis Specs: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
-- **Image Suggestions**: KL tractor head 6x4; DDi11 engine; 14-speed shifter/AMT; cab interior; chassis frame and fifth wheel
-- **ALT Suggestions**: "Dongfeng Tianlong KL 465 heavy tractor head"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+- **Image Suggestion**: KL tractor head 6x4; DDi11 engine; 14-speed shifter/AMT; cab interior; chassis frame and fifth wheel
+- **ALT Suggestion**: Dongfeng Tianlong KL 465 heavy tractor head
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a Tractor Head Is Specified by Powertrain Chain and Train Weight
 Heavy-truck buyers do not shop equipment lists — they specify an **engine–gearbox–axle chain matched to a gross combination weight**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. The recurring error on this model is confusing the **rated power with the net power** figure, or blending the 465 PS tractor with the 430/520/560 PS and gas variants. This page documents the **Chinese-market DDi11E465-60 tractor (REFERENCE MARKET: CHINA)**; no OEM primary brochure was captured, so cross-checked trade values should be confirmed against the MIIT announcement.

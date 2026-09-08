@@ -1,14 +1,16 @@
 # استيراد مركبة إلى جامعة الدول العربية: تصفية السجلات وما يجب أن تعيد التحقق
-## SEO Metadata
-- ** المصدر: العنوان**: " دليل وثائق تسجيل استيراد المركبات "
-- ** وصف البيانات**: Sequence a UAE vehicle import correctly -- customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). ويُشار إلى أرقام المرفوعة على أساس الموافقة الرسمية للشركة بدلاً من أن تُدرج على أنها ثابتة.
-- ** URL المقترض**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: UAE استيراد المركبات: من نظام تصاريح الموانئ إلى تسجيل اتفاق التجارة الإقليمية - الوثائق والتحقق
-- ** كلمة رئيسية**: عملية تسجيل وثائق استيراد المركبات
-- ** شروط البحث الثانية**: استيراد مركبات دبي الجمارك، تسجيل حركة أوغا إي مولكيا، مطابقة مركبات شركة سي جي أو جي أو جي أو جي أو جي أو إي، ورسوم استيراد السيارات في أوغا أو، وواردات مركبات موليت
-- ** Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dosssier/;guides/china-vehicle-export-license-customs/;/guides/vehicle-preshipment-inspection-psi/
-- ** اقتراحات بشأن: الموافقة** مخطط تسلسل الاتفاق الإقليمي؛ قائمة مرجعية بوثائق الاتحاد الأوروبي؛ خريطة بالسلطة
-- ** اقتراحات بشأن: " الجمارك في منطقة التجارة الإقليمية إلى تسلسل تسجيلها " ؛ قائمة مرجعية بوثائق استيراد المركبات في منطقة أو إيه
+## بيانات SEO الوصفية
+- **عنوان SEO**: UAE  Vehicle Import &  RTA  Registration Documents Guide
+- **وصف Meta**: Sequence a  UAE  vehicle import correctly — customs clearance documents, GCC/GSO تطابق ثم تسجيل RTA (مولكيا). ويُبلغ عن أرقام للواجب/ VAT في حالة تأكيد رسمي قدره UAE بدلا من أن يُذكر أنها ثابتة.
+- **H1**: UAE استيراد المركبات: From Port Clearance to  RTA  Registration — Documents  and  التحقق
+- **الكلمة المفتاحية الرئيسية**: عملية تسجيل استيراد المركبات
+- **مصطلحات بحث ثانوية**: استيراد مركبات دبي الجمركية UAE تسجيل (مولكيا)   GCC   GSO  vehicle conformity, UAE من واجب استيراد السيارات VAT استيراد المركبات
+- **URL المقترح**: /guides/uae-vehicle-import-registration-documents/
+- **نية البحث**: فهم UAE استيراد المركبات: From Port Clearance to  RTA  Registration — Documents  and  التحقق: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **اقتراح الصورة**: تصاريح تصفية تصاريح تصفية تصفية ذخائر
+- **نص ALT**: UAE جمركية إلى RTA سلسلة تسجيل
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## الحدود الدنيا (الخط الأول)
 ويستخدم هذا الدليل نظام المعلومات البيئية الموسَّع كمثال عملي**؛ ويُطبِّق المنطق المتسلسل الذي ينتقل إلى أسواق أخرى تابعة لمجلس التعاون الخليجي، ولكن كل إيميلي وكل دولة من دول مجلس التعاون الخليجي أشكالها ورسومها الخاصة. ** لم تُدرج في هذه المجموعة أي ذرات اتحادية أو صفحة أولية من طراز UAE. وبناء على ذلك، فإن أرقام الرسوم/الرسوم/الرسوم البيانية الواردة أدناه تُبلغ عنها أدلة الشحن المرسلة، وهي أصناف تحقق ذات صلة بالمشروع، وليست وقائع ثابتة** - تحصل على القيم الحالية من سلطة الجمارك الاتحادية في جامعة الدول العربية واتفاقات التوريد ذات الصلة قبل أن ترتكب نموذجاً لتكاليف الهبوط.
@@ -54,17 +56,17 @@
 ** هل ينطبق هذا الدليل على أيضاً**؟ وتنتقل هذه التسلسلات من الناحية المفاهيمية، ولكن الأشكال والرسوم والسلطات تختلف باختلاف ولاية مجلس التعاون الخليجي - التحقق من كل بلد على حدة.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
@@ -88,10 +90,10 @@
 * سقف الأدلة: المصادر هي أدلة أسلم (T3)  and  وسائط الإعلام الصينية - لم يتم إلقاء القبض على أي من الأعراف الاتحادية في اتحادات الولايات الأولى من " RTA ". لذا تقدم رسوم/رسوم/رسومات/إف وحوافز للرسوم على الأشعة السينية كما هو مُبلّغ عنه وحساس للوقت، لتتأكد من الجمارك الاتحادية في جامعة يو أي إي إي إيه ووكالة إيميلي للشحنات المُعادية ولا يوجد أي معدل ثابت مؤكد. 
 
 | إزالة الآثار الشخصية (واردة المركبات الوثائق المطلوبة؛ 5% من الرسوم الجمركية على المزهرة المقسَّرة | دبي جمارك (حكومة دبي) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | مفقود | 5% واجب على القيمة المقومة بالجمارك؛ وقائمة الفواتير الأصلية/التعبئة/ سند السفر أو نسخة من بطاقة الهوية في الإمارات؛ والتفتيش والتقييم |
-| آلية لتحديد قيمة شحنات الركاب (الاستهلاك حسب السنوات) | دبي جمارك | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | مفقود | المركبات المستعملة التي تقدر بالجدول الزمني للنقصان على أساس سنوي قبل العمل |
-| دليل التجارة الإلكترونية (VATGEC1) §3.5.1 - استيراد ضريبة القيمة المضافة 5% على القيمة الجمركية. الشحن والتأمين والرسوم الجمركية | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | مفقود | الواردات من ضريبة القيمة المضافة 5%؛ قاعدة ضريبة القيمة المضافة = القيمة الجمركية (الصندوق الاستئماني المشترك) + الرسوم الجمركية |
+ Provide Provide on the for theuring (ext of the Kyoto) CONound . DUBAI | https://www.dubaicustoms.gov.ae/en/Policies AndNotices/Policies/mechanismfordetermining thevalueofpassengerscargotr.pdf. 2026-09-04 - اختيار. الممتنعون عن التصويت
+) |  دليل ROM  دليل ROM (VATGEC1) §3.5.1 - Enhancing 5% on Live. الشحن والتأمين والرسوم الجمركية | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | مفقود | الواردات من ضريبة القيمة المضافة 5%؛ قاعدة ضريبة القيمة المضافة = القيمة الجمركية (الصندوق الاستئماني المشترك) + الرسوم الجمركية |
 | المركبات المسجلة (شهادة الجمارك أو شهادة النقل/التصدير/الحيازة؛ بطاقة هوية الإمارات؛ جواز | ميناء الحكومة الاتحادية (ش) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | مفقود | مجموعة وثائق التسجيل؛ شهادة الجمارك هي الجسر من مرحلة التصاريح إلى مرحلة التسجيل |
-| شهادة مطابقة المنتجات الخاضعة للوائح التقنية (اللجنة الاقتصادية لأفريقيا؛ خلف الهيئة الفرعية للمشورة العلمية والتكنولوجية) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | مفقود | MoIAT issues UAE CoC for regulated products incl. مستوعبة |
+| شهادة مطابقة المنتجات الخاضعة للوائح التقنية (اللجنة الاقتصادية لأفريقيا؛ خلف الهيئة الفرعية للمشورة العلمية والتكنولوجية) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | مفقود | MoIAT issues UAE CoC for regulated products incl. ○ ○ ○
 | List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. الجدول الزمني لليورو - 6b | منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE OURCE | من طراز UAE New-,6b from 2026-01-01; all imports from 2027-07-01 |
 
 ## استعراض التحرير

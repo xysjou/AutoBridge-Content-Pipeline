@@ -6,7 +6,7 @@
 - **Primary Keyword**: Changan Kaicene F70 export specs
 - **Secondary Search Terms**: 长安凯程F70; Kaicene F70 dimensions; F70 long bed; JE4D25 diesel pickup; Chinese pickup export; Blue Whale long bed
 - **Suggested URL**: /vehicles/changan-kaicene-f70/
-- **Search Intent**: 面向海外买家介绍长安凯程F70中国市场身份、标轴/长轴货箱、非承载底盘与四驱，未核实拖拽/承载保持待证
+- **Search Intent**: Understand Changan Kaicene F70: A China-Market Body-on-Frame Pickup Reference Built Around Bed, Wheelbase and Drivetrain: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A Changan Kaicene F70 double-cab pickup shown from side profile to display its cargo bed
 - **ALT Suggestion**: Side profile of a double-cab Changan Kaicene F70 pickup showing the cargo bed on neutral ground

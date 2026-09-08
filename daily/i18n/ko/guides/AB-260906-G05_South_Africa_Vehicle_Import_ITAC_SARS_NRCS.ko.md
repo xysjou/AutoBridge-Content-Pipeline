@@ -1,16 +1,16 @@
 # 남아프리카에 차량 수입: ITAC 허가, SARS 세관 및 NRCS LOA
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 남아프리카 차량 수입: ITAC, SARS 및 NRCS LOA 설명
-- **마타 기술 **: 남아프리카 공화국으로 차량을 수입하는 국가별 가이드: ITAC 수입 허가, NRCS 허가서, SARS 세관 절차, 기관 및 단계의 순서와.
-- ** H1 **: 남아프리카에 차량 수입: ITAC 허가, SARS 세관 및 NRCS LOA
-- ** 일기 키워드 **: 남쪽 아프리카 차량 수입 ITAC SARS NRCS LOA, 이탈리아
-- **세컨드리뷰 이용 약관**: ITAC 수입 허가 남아프리카; NRCS 권한 차량; SARS 세관 차량 수입; 수입에 사용되는 자동차 남아프리카; LOA 모터 차량
-- **Suggested URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- ** 수색 **: 向南非出口车辆需要哪些进口管制许可、 海关税务与强制合规 (로아), 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
-- **Image 제안**: 남아프리카 항구 차량은 책상에 허가 및 세관 문서로 처리
-- ** ALT 제안**: 차량 수입 허가 및 세관 서류 업무는 남아프리카 항구 야드를 가진 책상에
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO 메타데이터
+- **SEO 제목**: 남아프리카 차량 수입품: ITAC, SARS 및 NRCS LOA 의논하기
+- **메타 설명**: 남아프리카에 차량을 수입하는 국가별 가이드: ITAC 수입 허가, NRCS 권위의 편지, SARS 세관 절차, 기관 및 단계의 순서와.
+- **H1**: 남아프리카에 차량 수입: ITAC 허가, SARS 세관 및 NRCS LOA
+- **주요 키워드**: 남쪽 africa 차량 수입 ITAC SARS NRCS LOA
+- **보조 검색어**: ITAC 수입 허가 남아프리카; 권위 차량의 NRCS 편지; SARS 세관 차량 수입품; 수입에 의하여 사용된 차 남아프리카; LOA 모터 차량
+- **추천 URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **검색 의도**: 남아프리카에 수입 차량에 대한 이해: ITAC 허가, SARS 세관 및 NRCS LOA: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
+- **이미지 제안**: 남아프리카 항구 차량은 책상에 허가 및 세관 서류 처리
+- **ALT 텍스트**: 자동차 수입 허가 및 세관 서류 작업은 남아프리카 항구 야드를 초과하는 책상에
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 South Africa runs vehicle imports through three distinct authorities,  and  그들을 혼란시키는 것은 가장 일반적인 이유입니다. **국제 무역 관리위원회 (ITAC) ** 차량이 모든 것에 가져올 수 있는지 제어; Compulsory Specification (NRCS)**에 대한 ** 국가 규정은 권한의 편지를 통해 의무 안전 사양을 충족하는지 여부를 제어합니다. 그리고 **남아프리카 Revenue Service (SARS)**는 통관과 세금을 평가하고 수집합니다. 이것은 남 아프리카의 특정 가이드입니다. 그것은 국가 중화국에 대한 지역 규칙이 아닙니다.
 
@@ -77,16 +77,16 @@ SARS는 세관 신고, 세무 및 의무 및 세금의 수집을 처리합니다
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| ITAC 수입 제어 (进口管制: 约 276 个管制税号, 所有二手 / 旧货物均需进口许可证, 3-5 工作日, ITA 법 2002 (Act71) / 海关法 1964 (Act91) | 국제 무역 관리위원회 (International Trade Administration Commission) | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 - 南非进口管制 |
+| ITAC의 장점 约 276 个管制税号, 所有二手 / 旧货物均需进口许可证, 3-5 工作日, ITA 법 2002 (Act71) / 海关法 1964 (Act91) | 국제 무역 관리위원회 (International Trade Administration Commission) | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 - 南非进口管制 |
 | ITAC 官网 (机构身份与进口管制/关税职能) | ITAC 남아프리카 | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.itac.org.za/ | 主管机构身份 - 机构 |
-| SARS 관례 & 흥분 (海关征管; 外籍注册车辆 TMS 申报 2026-06-01 起等当期通告) | South Africa Revenue 서비스 | ₢ 킹 | T1 | TIME_SENSITIVE(주) | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 - 南非海关税务 |
+카지노사이트 外籍注册车辆 TMS 申报 2026-06-01 起等当期通告) | South Africa Revenue 서비스 | ₢ 킹 | T1 | TIME_SENSITIVE(주) | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 - 南非海关税务 |
 | NRCS (强制性规范与 권위의 편지, 含 자동 汽车类别) | Compulsory 명세를 위한 국가 규칙 | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 - 南非强制合规 |
 | 南非拟调整中印进口车关税 (媒体报道, 仅 TIME_SENSITIVE 背景, 税率须 SARS/ITAC 官方核) | 今日头条 (媒体년) | ₢ 킹 | T3 | TIME_SENSITIVE(주) | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
-| 중고차(공식 가이드) 수입 | 남아프리카 정부 | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC는 먼저 SARS로 지불, 현재 일정 당 요금 |
+의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 🚙 🚙 🚙 잉카에서 1일당 렌터카 서비스 비용 {PROM1_LOCAL} {CURRENCY}
 | 수입 또는 재건 모터 차량을위한 권위의 편지 | 남아프리카 정부 | ₢ 킹 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa - 수입/재고 전에 새로운 중고차에 필요한 NRCS LOA |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: ZA(南非单国,COUNTRY_SPECIFIC; 税率 / 管制清单 / 规范版本为时点数据)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

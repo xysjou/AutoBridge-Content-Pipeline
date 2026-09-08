@@ -1,15 +1,17 @@
 # Sinotruk HOWO T7H 트랙터 트럭 - 6 × 4 무거운 운반대 Specs 및 수출 윤곽 가이드
 
-## ▼ 한국어 메타데이터
-- **SEO 제목 **: Sinotruk HOWO T7H 6x4 트랙터 Specs의 엔진 & 수출 가이드
-- **마타 기술 **: HOWO T7H 트랙터 머리: Weichai 460 PS 중국 제조 대 MAN-Technology MC11/MC13 수출 엔진, 12-speed AMT, 40 t GCW, 차축, 유로 V/VI 옵션 및 구매자 검증 포인트.
-- **자유 URL**: /vehicles/sinotruk-howo- t7h-tractor/
-- ** H1 **: Sinotruk HOWO T7H 트랙터: 엔진, Driveline 및 수출 배출을 정확하게 선택
-- ** 운송 키워드 **: Sinotruk HOWO T7H 트랙터 트럭 사양 수출
-- ** 보조 검색 조건 **: HOWO T7H 6x4 460, Sinotruk MC13 540 트랙터, Weichai WP10.5H 트럭, 중국 무거운 트랙터 수출, HOWO 유로 V 트랙터 헤드, LNG 트랙터 트럭
-- ** 내부 링크 제안**: /vehicles/shacman- x3000-dump-truck/; /guides/commercial-truck-fleet-procurement-china/; /guides/import-chinese-truck-saudi-saso/
-- ** 이미지 제안 **: 6x4 트랙터 머리 측 전망; Weichai 대 MC 엔진 비교; 다섯번째 바퀴 및 tandem 차축; 높 지붕 슬리퍼 택시; 12-speed AMT 선별기
-- ** ALT 제안**: "시노루크 HOWO T7H 6x4 트랙터 머리, 중국 수출 구성"; "HOWO T7H 탠덤 드라이브 차축 및 다섯 바퀴"; "MC13 540 MAN-Technology 디젤 엔진"
+## SEO 메타데이터
+- **SEO 제목**: Sinotruk HOWO T7H 6x4년 트랙터 Specs, 엔진 & 수출 가이드
+- **메타 설명**: HOWO T7H 트랙터 머리: Weichai 460 PS 중국 빌드 대 MAN - 기술 MC11/MC13 수출 엔진, 12-speed AMT, 40 t GCW, 차축, 유로 V / VI 옵션 및 구매자 검증 포인트.
+- **H1**: Sinotruk HOWO T7H 트랙터: 조광 엔진, 몬탈 및 수출 배출 Correctly
+- **주요 키워드**: Sinotruk HOWO T7H 트랙터 트럭 명세 수출
+- **보조 검색어**: HOWO T7H 6x4 460의 Sinotruk MC13 540 트랙터, Weichai WP10.5H 트럭, 중국 무거운 트랙터 수출, HOWO 유로 V 트랙터 머리, LNG 트랙터 트럭
+- **추천 URL**: /vehicles/sinotruk-howo-t7h-tractor/
+- **검색 의도**: Sinotruk HOWO T7H 트랙터의 밑에: 조광 엔진, 몬탈 및 수출 배출 정확한: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/shacman-x3000-dump-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
+- **이미지 제안**: 6x4 트랙터 머리 측 전망
+- **ALT 텍스트**: Sinotruk HOWO T7H 6x4 트랙터 머리, 중국/export 윤곽
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## T7H은
 
@@ -67,43 +69,43 @@ Sinotruk는 **유로 V와 유로 VI ** 수준 (과 디젤에 있는 LNG 가스 �
 ** 어떤 숫자는 단일 ** 상세한 중국 발표 자료는 왔다; 엔진 가족과 수출 선택권은 Sinotruk 공식적인 수로에 의해 확인됩니다. 최종 문서의 Cross-check. 360che
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
-  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 重型牵引车
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
 ## 소스 및 검증
 
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| HOWO T7H 460 6 × 4 모수 | (卡车之家년) | 담당자: Mr. wang | HTTP: | 2026-09-02 | CROSS_체크 | 공지, Weichai 엔진, 차축, 타이어, 탱크, 택시 | http://product.m.360che.com/m427/106833_param.html 360che
+|주식회사 HOWO T7H 460 6 × 4개 | (之之家) | 제조국: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | HTTP: | 2026-09-02 | CROSS_체크 | 공지, Weichai 엔진, 차축, 타이어, 탱크, 택시 | http://product.m.360che.com/m427/106833_param.html 360che
 | T7H 공식 제품 페이지 | Sinotruk 그룹 (CNHTC의 공식) | CN/Export의 장점 | https: 대한 자세한 정보 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MC11 440 HP 10.518 L, 포좌, 기어 박스, ZF 조타 | https://www.sinotrukgroup.com.cn/product-43.html
 | HOWO NX/T7H 국제 | SINOTRUK의 특징 국제 (공식) | 수출입 | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html 참조하세요. | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 수출 엔진 진지변환/HP 선택권 |
-| T7H 수출 윤곽 | SINOTRUK HOWO (공식 상인 체계) | 수출입 | https: 대한 자세한 정보 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 8.8/25/40 t weights, MC13.54-50 540 HP 2500 N·m, 유로 V | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html
+| T7H 수출형 | SINOTRUK HOWO(공식) | 수출입 | https://www.sinotruk.com/ 대한 자세한 정보 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 8.8/25/40 t weights, MC13.54-50 540 HP 2500 N·m, 유로 V | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html
 
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고 (AutoBridge 표준): MC11/MC13 수출 엔진 및 중량은 Sinotruk-official 채널에 VERIFIED; 상세한 발표 그림은 SINGLE_입니다... 가격은 UNVERIFIED 및 omitted입니다. Sinotruk 국제 시트에 정확한 수출 빌드를 확인합니다. **************************************************************************************************************************************************************************************************************************************************************** 360che

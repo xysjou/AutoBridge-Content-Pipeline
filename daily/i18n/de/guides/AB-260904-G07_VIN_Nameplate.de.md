@@ -1,15 +1,17 @@
 # Lesen und Überprüfen der VIN und des Namensschilds eines chinesischen Fahrzeugs unter GB 16735-2019
 
-## SEO Metadaten
-- **SEO Titel**: VIN & Nameplate Verification für chinesische Fahrzeugimporte - GB 16735-2019
-- **Meta Description**: Wie sich eine 17-character VIN in WMI/VDS/VIS unter GB 16735-2019 aufteilt, warum gestempelte VIN, Typenschild, Zertifikat und Versanddokumente übereinstimmen müssen und was ein Importeur vor der Zahlung überprüfen sollte.
+## SEO-Metadaten
+- **SEO-Titel**: VIN & Namensschild-Verifizierung für chinesische Fahrzeugimporte - GB 16735-2019
+- **Meta-Beschreibung**: Wie sich ein 17-character VIN in WMI/VDS/VIS unter GB 16735-2019 aufteilt, warum gestempelte VIN, Typenschild, Zertifikat und Versanddokumente übereinstimmen müssen und was ein Importeur vor der Zahlung überprüfen sollte.
+- **H1**: VIN und Namensschild-Verifizierung für ein chinesisches Fahrzeug: Struktur, Standard und das Vier-Platz-Match
+- **Haupt-Keyword**: VIN Typschildprüfung GB16735 chinesisches Fahrzeug
+- **Sekundäre Suchbegriffe**: WMI VDS VIS Struktur, GB16735-2019 VIN, VIN Prüfziffernposition 9, VIN Typenschild-Zertifikatskonsistenz, gestempelt VIN Manipulation
 - **Vorgeschlagene URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- ** H1 **: VIN und Namensschild Verifizierung für ein chinesisches Fahrzeug: Struktur, Standard und das Vier-Platz-Match
-- **Hauptschlüsselwort**: Überprüfung des VIN-Typenschilds GB16735 chinesisches Fahrzeug
-- **Secondary Search Terms**: WMI VDS VIS Struktur, GB16735-2019 VIN, VIN Check-Ziffernposition 9, VIN-Namensschild-Zertifikat Konsistenz, gestempelt VIN Manipulation
-- **Interne Linkvorschläge**: /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-deklaration/; /vehicles/jac- t9-hunter/
-- **Bildvorschläge**: 17-char VIN-Segmentdiagramm; Vier-Platz-Match-Checkliste; gestempelte VIN-Nahaufnahme
-- **ALT Vorschläge**: " 17 Zeichen VIN aufgeteilt in WMI VDS VIS unter GB16735-2019 "
+- **Suchabsicht**: Verstehen VIN und Nameplate Verification für ein chinesisches Fahrzeug: Struktur, Standard und das Vier-Platz-Match: Was ein Fahrzeug / Teile-Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- **Bildvorschlag**: 17-char VIN Segmentdiagramm
+- **ALT-Text**: 17 Zeichen VIN aufgeteilt in WMI VDS VIS unter GB16735-2019
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum VIN-Verifizierung vor der Zahlung sitzt
 Eine VIN-Mismatch ist einer der wenigen Mängel, die die Registrierung ** blockieren, nachdem das Fahrzeug bereits bezahlt und versendet wurde. Die Lösung ist am Sourcing Desk billig und am Zielhafen teuer. Dieser Leitfaden erklärt die chinesische VIN-Struktur unter dem aktuellen Standard und gibt einen vierstufigen Konsistenz-Check, den Käufer vor der Freigabe der Restzahlung ausführen können.
@@ -53,30 +55,17 @@ Jeder Zeichenunterschied, jeder Restamping-Beweis oder jede Dokument-gegen-Körp
 **Was muss vor der Zahlung übereinstimmen?** VIN, VIN, Typenschild, Bescheinigungs-VIN und Versanddokument-VIN — alle identisch, ohne erneutes Abstempeln.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — Chinese VIN and nameplate under GB 16735, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Chinese VIN and nameplate under GB 16735, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese VIN and nameplate under GB 16735, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chinese VIN and nameplate under GB 16735, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Chinese VIN and nameplate under GB 16735, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chinese VIN and nameplate under GB 16735, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chinese VIN and nameplate under GB 16735, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chinese VIN and nameplate under GB 16735, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chinese VIN and nameplate under GB 16735, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chinese VIN and nameplate under GB 16735, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
+- **SEO Title**: VIN & Nameplate Verification for Chinese Vehicle Imports — GB 16735-2019
+- **Meta Description**: How a 17-character VIN splits into WMI/VDS/VIS under GB 16735-2019, why stamped VIN, nameplate, certificate and shipping documents must match, and what an importer should verify before payment.
+- **H1**: VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match
+- **Primary Keyword**: VIN nameplate verification GB16735 chinese vehicle
+- **Secondary Search Terms**: WMI VDS VIS structure, GB16735-2019 VIN, VIN check digit position 9, VIN nameplate certificate consistency, stamped VIN tampering
+- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
+- **Search Intent**: Understand VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **Internal Link Suggestions**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- **Image Suggestion**: 17-char VIN segment diagram; four-place match checklist; stamped VIN close-up
+- **ALT Suggestion**: 17 character VIN split into WMI VDS VIS under GB16735-2019
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |

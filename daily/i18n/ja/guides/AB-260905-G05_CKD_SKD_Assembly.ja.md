@@ -1,15 +1,17 @@
 # CKD/SKDの特長 ノックダウン輸出および海外組立 — モデル、分類、コンプライアンス
 
-## ツイート メタデータ
-- **SEOタイトル**:CKD/SKDのノックダウン キット輸出・海外組立:分類・コンプライアンス
-- **メタ 記述**: CKD/SKD の車キットの輸出がどのように機能するか: 調和したシステムで造られる分類、なぜ先の tariff/local-assembly の処置が国別で、中国の輸出業者はキットを出荷する前に確認しなければなりません。
-- H1 **: CKD/SKD のノックダウンの輸出および海外アセンブリ — モデル、分類および承諾
-- **主なキーワード**: ckd skd のノックダウンのキットの輸出アセンブリ
-- **二次検索条件**:CKD SKDエクスポート、ノックダウンキット、海外アセンブリ、GRI 2(a)は、組み立てられていない。 ローカルアセンブリ関税
-- **混雑したURL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Search Intent**: 区分 CBU/CKD/SKD 模式、理解散件出口归类、原产地与目的国组装的关键合规问题
-- **内部リンクの提案**: /guides/vehicle-export-hs-code-history/、/guides/certificate-of-origin-history/、/guides/export-document-package-history/
-- **シュマスコープ**: 記事(製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: CKD/SKD  Knockdown Kit Export  and  海外アセンブリ: 分類およびコンプライアンス
+- **メタディスクリプション**: CKD/SKDの車キットの輸出はいかに働きます: 調和させたシステムで造られる分類、なぜ場所の税率/ローカル アセンブリ処置が国別で、中国の輸出業者は出荷のキットの前に確認しなければなりません。
+- **H1**: CKD/SKD  Knockdown Export  and  海外組立 — モデル, 分類: 分類  and  コンプライアンス
+- **主要キーワード**: ckd skd のノックダウンのキットの輸出アセンブリ
+- **関連検索語**: CKD SKD 輸出;ノックダウンキット;海外アセンブリ;GRI 2 (a) 組み立てられ;ローカル アセンブリ tariff
+- **推奨URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
+- **検索意図**: CKD/SKD ノックダウン エクスポートと海外アセンブリを把握 — モデル、分類、コンプライアンス: 車両/部品輸出業者が確認、文書化、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **画像候補**: リアルで、文書/車両重視のシーンをイラスト化 CKD/SKD ノックダウン 輸出と海外組立 — モデル、分類、コンプライアンス、段階的な検査や要求の無い人々。
+- **ALTテキスト**: クローズ、材料の自然なビューとCKD/SKD Knockdownのエクスポートと海外アセンブリに関連する対象 - モデル、分類およびコンプル、ニュートラル背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: 記事(商品・オファー・レビューなし)
 
 ## CKDとSKDが調達決定にどういう意味か
 A **SKD (半ノックダウン)** キットは、部分的に組み立てられたモジュールを出荷します。**CKD (完全にノックダウン)** キットは、ローカルアセンブリのためのコンポーネントのフルセットを出荷します。 どちらが、最終車両のエクスポートを部品とアセンブリモデルに交換します。通常、目的地のローカルアセンブリポリシーを満たすために。 商用の控訴は現実的ですが、法的/関税の帰因は、中国輸出業者が「CKD」をラベル付けしていない**の**の宛先税関当局によって決定されます。
@@ -37,16 +39,15 @@ A **SKD (半ノックダウン)** キットは、部分的に組み立てられ�
 キットの設計は、あらゆる市場で働くことができますか? いいえ — 分類およびアセンブリ条件は国別です。
 **BOMは何をすべきですか?** HS ライン、オリジン、値を各コンポーネントに分類する前に割り当てます。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
 | 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN の | T1 | 検証済み | 以下は、 https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础、归类裁定与决定 |
 | 汽车 CKD 散件出口原产地证填制 (行业流程、T4 仅线索) | 顺企网 | CN の | T4 | 免責事項 | 以下は、 | 成套散件清单/HS逐项整理流程线索 | https://m.11467.com/product/d53830031.htm
 | 成套散件 (SKD/CKD) 进口申请表说明 (反向参考、T4) | 顺企网 | CN の | T4 | 免責事項 | 以下は、 | 成套散件申报要素线索 | https://m.11467.com/product/d14729353.htm
-| ハーモナイズドシステム ノーメンクラチュア(WCO) | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 の一覧を表示 | HSのnomenclatureはWCOによって維持される分類基礎です | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx
+| ハーモナイズドシステム ノーメンクラチュア (WCO) | 世界税関機関 |  CN  の | T1 | 検証済み | 以下は 、 の一覧を表示 |  HS  の nomenclature は  WCO  によって維持される分類基礎です | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx
 | WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
-| カスタム評価に関するWTO協定 | ワールドトレード機構 | エントリー | T1/T2 | 検証済み | 以下は、 | ノックダウンキットと組み立てられたユニットが異なる場合、関連する税関評価フレームワーク; 設定された宛先アセンブリ関税はありません | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm
+| カスタム評価に関する WTO 協定 | ワールドトレード機構 | エントリー | T1/T2 | 検証済み | 以下は | ノックダウンキットと組み立てられたユニットが異なる場合、関連する税関評価フレームワーク; 設定された宛先へ進む 設定された 値 の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定 の 設定 の 設定 の 設定 の 設定 の 設定 設定 の 設定 設定 の 設定 設定 の 設定 の 設定 設定 の 設定 設定 の 設定 設定 設定 の 設定 設定 設定 設定 の 設定 の 設定 設定 設定 設定 設定 設定 設定 設定 の の 設定 設定 設定 設定 設定 の 設定 の の 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 の 設定 設定 設定 設定 設定 設定 設定
 | ワコワ HS 憲章 — 分類器(GRI) | 世界税関機関 | エントリー | T1/T2 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | 総合解釈規則(GRI 2(a)を含む)は、組み立てられない/分解されたノックダウン商品の分類を規定する; ディープページ |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
@@ -56,18 +57,18 @@ A **SKD (半ノックダウン)** キットは、部分的に組み立てられ�
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確なCKD/SKDのノックダウンの輸出および海外アセンブリ
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: CKD/SKDのノックダウンの輸出および海外アセンブリ
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -80,6 +81,5 @@ A **SKD (半ノックダウン)** キットは、部分的に組み立てられ�
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

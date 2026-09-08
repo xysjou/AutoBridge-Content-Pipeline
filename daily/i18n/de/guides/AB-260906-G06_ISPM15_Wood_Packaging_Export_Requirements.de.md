@@ -1,16 +1,16 @@
 # ISPM- 15 Holzverpackungen für den Fahrzeugexport: Behandlung und IPPC-Marke
-## SEO Metadaten
-- **SEO Titel**: ISPM- 15 Holzverpackungen im Fahrzeugexport: Behandlung & Mark Guide
-- **Meta Description**: Wie Holzkisten, Paletten und Stauholz, die für den Export von Fahrzeugen und Teilen verwendet wurden, unter ISPM-15 behandelt und gekennzeichnet werden müssen, um eine Ablehnung zu vermeiden, und wie die Registrierung von Ausgängen auf der chinesischen Seite funktioniert.
-- ** H1 **: ISPM- 15 Holzverpackungen für den Fahrzeugexport: Behandlung und IPPC-Marke
-- **Hauptschlüsselwort**: ISPM 15 Holzverpackung Exportbehandlungszeichen
-- **Secondary Search Terms**: ISPM 15 Marke; IPPC Holzverpackung; wärmebehandelte Palettenexport; MB Begasungsholzverpackung; Holzverpackungsregistrierung China Zoll
-- **Suggested URL**: /guides/ippc-ispm15-wood-packaging-export/
-- **Search Intent**: 车辆出口所用木箱 木托盘 垫木如何按 IPPC ISPM- 15 完成除害处理并加施标识, 避免目的国退运
-- **Internal Link Suggestions**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
-- **Bildvorschlag**: Eine wärmebehandelte Exportkiste mit der Marke IPPC ISPM-15 mit einem heruntergeklappten Fahrzeugteil
-- **ALT Suggestion**: Holzkiste mit IPPC-Behandlungszeichen neben verpacktem Fahrzeugbauteil exportieren
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: ISPM-15 Holzverpackungen im Fahrzeugexport: Behandlung & Mark Guide
+- **Meta-Beschreibung**: Wie Holzkisten, Paletten und Stauholz, die für den Export von Fahrzeugen und Teilen verwendet wurden, behandelt und unter ISPM-15 gekennzeichnet werden müssen, um eine Ablehnung zu vermeiden, und wie die Registrierung von Ausgängen auf der chinesischen Seite funktioniert.
+- **H1**: ISPM-15 Holzverpackungen für den Fahrzeugexport: Behandlung  and  IPPC Kennzeichen
+- **Haupt-Keyword**: ISPM 15 Ausfuhrbehandlungszeichen für Holzverpackungen
+- **Sekundäre Suchbegriffe**: ISPM 15 Marke; IPPC Holzverpackung; wärmebehandelte Palettenexport; MB Begasungsholzverpackung; Holzverpackungsregistrierung China Zoll
+- **Vorgeschlagene URL**: /guides/ippc-ispm15-wood-packaging-export/
+- **Suchabsicht**: ISPM-15 verstehen Holzverpackungen für den Fahrzeugexport: Behandlung und die IPPC Mark: was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
+- **Bildvorschlag**: Eine wärmebehandelte Exportkiste mit der Marke IPPC ISPM - 15 mit einem heruntergeknickten Fahrzeugteil
+- **ALT-Text**: Holzkiste mit dem IPPC-Behandlungszeichen neben einem verpackten Fahrzeugbauteil exportieren
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Von RoRo verschiffte fertige Fahrzeuge tragen möglicherweise wenig Holz, aber heruntergekommene Einheiten, Ersatzteile, CKD SKD-Kits und Containerfahrzeuge sind auf Kisten, Paletten, Stäbe und Stauholz angewiesen - und fast jedes Land reguliert dieses Holz unter dem ISPM-15. des IPPC. Eine fehlende oder ungültige Marke ist eine der vermeidbarsten Ursachen für Wiederausfuhr, Begasung bei Ankunft oder Verzögerung. Diese Seite erklärt, was ISPM-15 erfordert, wie die Marke aufgebaut ist und wie die Behandlung und Ausstiegsregistrierung auf China-Seite funktioniert.
 

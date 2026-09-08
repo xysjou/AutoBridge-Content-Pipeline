@@ -6,7 +6,7 @@
 - **Primary Keyword**: Dongfeng Aeolus Yixuan export specs
 - **Secondary Search Terms**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T sedan; Chinese CMP sedan export
 - **Suggested URL**: /vehicles/dongfeng-aeolus-yixuan/
-- **Search Intent**: 面向海外买家介绍风神奕炫中国市场身份、尺寸、当前1.5L与较早马赫版1.5T的版本边界
+- **Search Intent**: Understand Dongfeng Aeolus Yixuan: A China-Market CMP Compact Sedan Reference, Current Line vs Older Mach Version: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
 - **ALT Suggestion**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background

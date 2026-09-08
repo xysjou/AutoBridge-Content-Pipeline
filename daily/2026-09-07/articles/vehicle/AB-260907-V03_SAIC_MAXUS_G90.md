@@ -6,7 +6,7 @@
 - **Primary Keyword**: SAIC MAXUS G90 export specs
 - **Secondary Search Terms**: 上汽大通G90; MAXUS G90 dimensions; G90 2.0T 8AT; six seven seat MPV; Chinese MPV export China spec
 - **Suggested URL**: /vehicles/saic-maxus-g90/
-- **Search Intent**: 面向海外买家介绍上汽大通MAXUS G90中国市场身份、尺寸、2.0T+8AT燃油线与6/7座布局边界
+- **Search Intent**: Understand SAIC MAXUS G90: A China-Market Large Petrol MPV Reference Built Around Seating Layout: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
 - **ALT Suggestion**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background

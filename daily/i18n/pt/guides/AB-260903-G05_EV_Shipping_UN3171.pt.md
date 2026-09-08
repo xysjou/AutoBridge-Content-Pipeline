@@ -1,14 +1,17 @@
 # Reserva de um Veículo Eletrificado para Exportação Oceânica: a Papelaria de Produtos Perigosos um Transportador Na verdade Verifica
-## SEO Meta- dados
-- ** Título SEO**: Documentos de reserva de exportação EV sob IMDG 42-24: UN3556 Papelaria e Transportador Controlos
-- ** Descrição do Meta**: Como os veículos de bateria de lítio são classificados para o frete marítimo sob a atual Emenda IMDG 42-24 (UN3556/3557/3558; transição legado UN3171 terminou), os SP961/SP962 caminhos, UN38.3 e papelada SDS, e condições de reserva específicas do transportador.
-- ** URL sugerido**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 **: Transporte Veículos Eletrificados por Mar: Classificação de Mercadorias Perigosas Correntes, o Conjunto de Documentos de Reserva e Linhas Vermelhas
-- **Primary Keyword**: transporte marítimo de veículos elétricos un3556 documentos imdg 42-24
-- ** Termos de pesquisa secundários**: UN3556 veículo de bateria de íon de lítio, UN3557 veículo de lítio metal, UN3558 veículo de íon de sódio, transição legado UN3171, SP961 SP962 veículo, classe 9 rótulo 9A, UN38.3 resumo de teste, transporte de carro elétrico SDS, transporte de EV SOC exigência
-- **As sugestões de ligação interna**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-veículo-exportação-licença-documentos-customs-documentos/; /guides/container-veículo-carregamento-agressão/; /guides/veículo-pré-navio-inspecção-psi/; /veículos/byd-dolphin/
-- ** Sugestões de imagens**: Diagrama de etiquetas da ONU; fluxo de decisão de SP961-vs-SP962; cadeia de documentos de reserva; Placa de etiqueta 9 9A
-- **ALT Sugestões**: " UN3556 IMDG 42-24 Classe 9 transporte de veículos eléctricos"; "cadeia de documento de reserva de transporte de V"
+## Metadados SEO
+- **Título SEO**: EV Exportar documentos de reserva abaixo de IMDG 42-24: UN3556 Papelaria e Transportador Controlos
+- **Meta descrição**: Como os veículos de bateria de lítio são classificados para o transporte marítimo ao abrigo da actual alteração IMDG 42-24 (UN3556/3557/3558; A transição legado UN3171, os SP961/SP962 caminhos, a papelada UN38.3 e SDS, e as condições de reserva específicas do transportador.
+- **H1**: Transporte Veículos Eletrificados por Mar: Classificação de Mercadorias Perigosas Correntes, o Conjunto de Documentos de Reserva e Linhas Vermelhas
+- **Palavra-chave principal**: Veículo elétrico transporte marítimo un3556 imdg 42-24 documentos
+- **Termos de busca secundários**: UN3556 veículo de bateria de iões de lítio, UN3557 veículo de lítio, UN3558 veículo de iões de sódio, transição legado UN3171, SP961 SP962 veículo, classe 9 rótulo 9A, UN38.3 resumo de teste, SDS transporte de carro elétrico, EV SOC veículo de exigência
+- **URL sugerida**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Intenção de busca**: Compreender o envio Veículos Eletrificados por Mar: Classificação de Mercadorias Perigosas Correntes, o Conjunto de Documentos de Reserva e Linhas Vermelhas: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **Sugestão de imagem**: UN número/digrama de etiquetas da classe
+- **Texto ALT**: UN3556 IMDG 42-24 Classe 9 transporte de veículos eléctricos
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
+
 ## Comece aqui: um EV inteiro é perigoso mercadorias, e a entrada mudou em 42-24
 Um veículo eletrificado intacto, construído em fábrica, continua a ser um veículo perigoso para o transporte marítimo. Em ** Emenda do Código do IMDG 42-24 (2024 Edition), obrigatória a partir de 1 Janeiro 2026 **, os veículos movidos a pilhas são divididos em entradas dedicadas, em vez de cair sob um número de cobertor:
 - ** UN3556 — Veículo, com bateria de lítio-ion ** (caso de um veículo ou de um veículo de tracção PHEV/EREV cuja bateria de tracção é lítio-ion);

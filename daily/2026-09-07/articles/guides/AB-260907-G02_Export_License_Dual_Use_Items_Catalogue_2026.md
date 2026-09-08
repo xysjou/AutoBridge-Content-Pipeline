@@ -6,7 +6,7 @@
 - **Primary Keyword**: china dual use items export license catalogue 2026
 - **Secondary Search Terms**: dual-use items export license China; MOFCOM GACC announcement 2025 No.91; export control law China; end-user end-use statement; controlled items customs declaration
 - **Suggested URL**: /guides/export-license-dual-use-items-catalogue-2026/
-- **Search Intent**: 两用物项和技术2026目录如何适用，列入目录为何须先取证再报关，出口经营者的最终用户/最终用途责任
+- **Search Intent**: Understand China's 2026 Dual-Use Items Catalogue: When a Vehicle Export Needs a License Before Declaration: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
 - **Image Suggestion**: An export-compliance officer comparing a parts list against an official licence catalogue on a screen
 - **ALT Suggestion**: Person comparing a printed parts list with a licence catalogue displayed on a monitor

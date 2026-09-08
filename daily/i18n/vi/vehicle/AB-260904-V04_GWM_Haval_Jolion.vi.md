@@ -1,15 +1,17 @@
 # GWMComment Haval Jolil: một bảng tên, chương trình Thị Trường Đặc Biệt huấn luyện một người mua không được trộn lẫn
 
-## SAO Siêu dữ liệu
-- **SEEO Tittry**: Haval Jolil Haval Chulian ID & Market-Specifify Specics — Elive Guide
-- **Meta Mô tả**: Lịch sử của GWM xác nhận rằng đoàn tàu Haval Chulian (哈弗初恋) Trung Quốc (哈弗初恋) đã được bán ra nước ngoài như là nhóm Haval Jol ở cấp độ cơ bản - mẫu - nhưng Trung Quốc 1.5T và những tàu năng lượng của HV khác nhau và được liệt kê bởi thị trường, không bao giờ nhập vào.
-- ** URL đã được đánh dấu**: /vehcles/haval-jolil/:
-- ** H1 **: GWM Haval Joll: OEM-Conced Name IDed Name, với các huấn luyện viên quyền lực Trung Quốc và Overseas La Mã giữ riêng
-- **Cumpary Keyword**: haval jollln graphs port
-- **Secondary Search termss**: Haval Chulian Tương tự như Jolion, Jolion 1.5T, Joll HOV nước ngoài, lịch sử GWM ở Nam Phi Saudi, kích thước Jolion
-- **I nội bộ Link gợi ý*: /guides/eoff-fuel-cchile-chicha-vehicles /vehcles/chery-fulwin- t9/
-- **Image gợi ý**: Jolion mặt trận ba phần tư; 1.5T chống lại phù hiệu HOV; hàng sau; Ghi chú lịch sử GWM-page
-- **LT gợi ý**: "Haval Jolil China 1.5T nhỏ SUV với trực thăng nước ngoài giữ riêng"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Haval Jolil / Haval Chulian ID & Market-Specifify Spects — Elict Guide
+- **Meta mô tả**: Lịch sử của GWM người đã xác nhận rằng nhóm Haval Chulian (哈弗初恋) Trung Quốc (哈弗初恋) đã được bán ra nước ngoài như là nhóm Haval Jol ở cấp độ cơ bản - mẫu - nhưng Trung Quốc 1.5T và HEV tàu điện khác nhau và được liệt kê bởi thị trường, không bao giờ nhập vào.
+- **H1**: GWM Haval Jollil: OEM - Xác nhận danh tính, với các Huấn luyện viên quyền lực Trung Quốc và hải ngoại.
+- **Từ khóa chính**: xuất khẩu thông số nghệ thuật bản xứ
+- **Cụm tìm kiếm phụ**: Haval Chulian Jolion cùng mô hình, Jolion 1.5T, Jolll HEV nước ngoài, GWM lịch sử Jolion Nam Phi Saudi, kích thước Jolion
+- **URL đề xuất**: /vehicles/haval-jolion/
+- **Ý định tìm kiếm**: Hiểu GWM Haval Jollil: OEM - Xác nhận danh tính, với tàu điện Trung Quốc và Overseas Tights được tách ra: những gì một nhà xuất khẩu xe hơi/một phần phải xác nhận, tài liệu và quyết định trước khi cam kết với một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/chery-fulwin-t9/
+- **Gợi ý hình ảnh**: Jolion front three-quarter
+- **Văn bản ALT**: Haval Jolil Trung Quốc 1.5T chiếc SUV nhỏ gọn với trực thăng hải ngoại giữ riêng
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Nhận diện người đầu tiên: OEM xác nhận tên, không phải là một dữ liệu toàn cầu
 " Jolion" là tên thị trường nước ngoài của hội nghị nhỏ SUV Trung Quốc được bán tại nhà như là Haval Chulian (哈弗初恋). Không giống như một bí danh từ ngoại hình hoặc nền tảng, danh tính này được xác nhận bởi trang lịch sử công ty của GWM, mà ghi lại phiên bản nước ngoài của Haval Chulian, JOLION, được phát hành ở Nam Phi và Ả Rập Saudi (với JOLION HV tại Thái Lan). Theo MODEL_ALAS_OEM_PROOF Mô hình cơ bản là do đó giống nhau_MIDEL. Giới hạn quan trọng: OEM xác nhận tên ** không làm cho mọi sức mạnh của thị trường đều giống nhau. Trung Quốc 1.5T, 1.5T người Úc và HV ở nước ngoài được liệt kê dưới đây theo thị trường, và không có "số lượng khổng lồ" nào được khẳng định.

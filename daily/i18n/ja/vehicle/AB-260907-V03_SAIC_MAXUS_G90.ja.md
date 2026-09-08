@@ -1,16 +1,16 @@
 # SAIC MAXUS G90: 中国市場大型ガソリンMPV 参照 周囲の座席レイアウトのレイアウトを造る
-## ツイート メタデータ
-- **SEOタイトル**: サイクマックスG90 中国市場MPV スペック・輸出買主チェック | オートブリッジ
-- **メタ 記述**: SAIC MAXUS G90大型MPVの中国市場参照: 寸法, 2.0T+8ATガソリンラインは、任意の電気化された変形から分離され、  six- vs seven-seat layouts,  and  輸出確認のステップ。
-- H1 **: シックマックスG90: 中国の市場大型ガソリンMPV 参照 周囲の座席レイアウトのレイアウトを造る
-- **主なキーワード**: SAIC MAXUS G90輸出仕様
-- **二次検索条件**: 上汽大通 G90; MAXUS G90の次元; G90 2.0T 8AT; six seven seat MPV; 中国MPV輸出中国仕様
-- **混雑URL**: /vehicles/saic-maxus- g90/
-- **Search Intent**: 面向海外买家介绍上汽大通 MAXUS G90 中国市场身份、尺寸、2.0T+8AT 燃油线与 6/7 座布局边界
-- **内部リンク提案**: /vehicles/jmc-ford-transit- t8/、 /vehicles/dongfeng-aeolus-yixuan/、/guides/verify-chinese-car-export-supplier-history/
-- **イメージ提案**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
-- アルト 提案**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: SAIC   MAXUS  G90 China-Market  MPV  Specs  and  輸出バイヤーチェック | オートブリッジ
+- **メタディスクリプション**: SAIC MAXUS G90 大型 MPV の中国市場参照: 寸法, 2.0T+8ATガソリンラインは、任意の電気化された変形から分離され、  six- vs seven-seat layouts,  and  輸出確認のステップ。
+- **H1**: SAIC MAXUS G90: 中国市場大型ガソリンMPV 参照 周囲の座席レイアウトのレイアウトを造る
+- **主要キーワード**: SAIC MAXUS G90 輸出仕様
+- **関連検索語**: 上汽大通 G90; MAXUS G90 次元; G90 2.0T 8AT; six seven seat  MPV ; 中国MPV輸出中国仕様
+- **推奨URL**: /vehicles/saic-maxus-g90/
+- **検索意図**: SAIC MAXUS G90に耐える中国市場大型ガソリンMPV 参照 レイアウトをシートの周りに構築:車両/部品輸出業者が確認しなければならないもの、ドキュメント、注文にコミットする前に決定します。
+- **内部リンク候補**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
+- **画像候補**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
+- **ALTテキスト**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 SAIC MAXUS G90は、エグゼクティブシャトル、家族、フリートの使用を目的とした、SAIC Maxusの大型(上)の人格です。 輸出バイヤーのために定義質問はスポーティーな性能ではなく**構成です。 the G90 is a very long MPV offered in six-  and  seven-seat layouts with dual sliding doors,  and  このページは中国市場へのロック**petrol 2.0T + 8AT フロントホイールドライブ** ではなく、選択または海外の変形でブレンドします。 これは、**中国市場参照**、グローバル仕様ではありません。 右手ドライブとエクスポートビルドでは、OEM の証拠を分離し、単一ソース出力は VIN レベルの確認のためにフラグが付けられます。
 
@@ -34,7 +34,7 @@ A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition �
 G90は**six-seat(2+2+2)**と**seven-seat(2+2+3)**の構成で提供され、選択は快適さとタイプ承認シートのカウントの両方を変更します。 レイアウトが単一ソースであり、モデル年によって変化するトリムが運ぶ正確なマッピングは、買い手は以下でなければなりません。
 
 - 座席数と** 2+2+2 / 2+2+3 ** 契約中のレイアウト明示的に;
-- confirm second-row captain-chair versus bench content for the chosen trim;
+- 選択したトリムの2列のキャプテン・チェア・バース・ベンチの内容を確認します。
 - マーケティングイメージではなく、同封証明書にシートカウントを合わせます。
 
 Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), illustrating how much luggage space depends on whether the third row is in use; トリム依存症として正確な数字を扱います。
@@ -68,7 +68,7 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 
 参照寸法は5280×1998×1845 mm、3200 mmホイールベースで、主に大型MPVです。
 
-**Does it come in six and seven seats?**
+※6席・7席は着席できますか? アパート
 
 あり、  in 2+2+2 six-seat  and  2+2+3 seven-seat layouts; 契約および均質な書類の正確なレイアウトおよびトリムを修理して下さい。
 

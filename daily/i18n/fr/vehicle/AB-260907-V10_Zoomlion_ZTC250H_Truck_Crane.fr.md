@@ -1,16 +1,16 @@
 # Zoomlion ZTC250H Grue de camion: une référence de marché Chine-niveau d'identité et pourquoi aucun graphique de charge empruntée appartient ici
-## OEuvre Métadonnées
-- ** Titre du référencement**: Zoomlion ZTC250H 25t Camion Grue Référence et contrôles d'exportation - AutoBridge
-- **Description détaillée**: Référence d'identité du marché chinois pour la grue de camion Zoomlion ZTC250H 25-tonne en tant qu'équipement spécial châssis-plus-superstructure, pourquoi les spécifications de grues adjacentes 25t ne peuvent pas être empruntées, et les données de modèle exact à obtenir avant d'acheter.
-- ** H1 **: Zoomlion ZTC250H Grue de camion: une référence de marché Chine-niveau d'identité et pourquoi aucun graphique de charge empruntée appartient ici
+## Métadonnées SEO
+- **Titre SEO**: Zoomlion ZTC250H 25t Référence de grue de camion et contrôles d'exportation
+- **Description meta**: Référence d'identité du marché chinois pour la grue de camion Zoomlion ZTC250H 25-tonne en tant qu'équipement spécial châssis-plus-superstructure, pourquoi les spécifications de grues adjacentes 25t ne peuvent pas être empruntées, et les données de modèle exact à obtenir avant d'acheter.
+- **H1**: Zoomlion ZTC250H Grue de camion: une référence de marché Chine-niveau d'identité et pourquoi aucun graphique de charge empruntée appartient ici
 - **Mot-clé principal**: Zoomlion ZTC250H spécifications d'exportation
-- ** Termes de recherche secondaire**: 中联重科 ZTC250H; Zoomlion Grue de camions de 25 tonnes; grue de la série ZTC; carte de charge de grue de camions; exportation de grues chinoises; QY25 vs ZTC250
-- **URL suggérée**: /véhicules/zoomlion- ztc250h-truck-crane/
-- **Intention de la recherche**: 面向海外买家介绍中联 ZTC250H 身份 (25t 级汽车吊 = 底盘 + 起重上装), 并说明为何不能套用相邻 25t 吊性能表
-- **Suggestions de lien interne**: /véhicules/faw-jiefang- j7-tractor/, /véhicules/qingling-isuzu- kv100/, /guides/vérify-chine-car-export-fournisseur-histoire/
-- **Suggestion d'image**: Une grue de camion série ZTC de Zoomlion 25-tonne-class avec boom partiellement relevé sur sol neutre
-- **ALT Suggestion**: Une grue de camion 25-tonne-class avec sa flèche télescopique partiellement relevée sur sol neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+- **Termes de recherche secondaires**: 中联重科 ZTC250H; Zoomlion 25 tonne grue de camion; ZTC série grue; camion grue carte de charge; exportation de grue chinoise; QY25 vs ZTC250
+- **URL suggérée**: /vehicles/zoomlion-ztc250h-truck-crane/
+- **Intention de recherche**: Comprendre Zoomlion ZTC250H Grue de camion: une référence de marché Chine-niveau d'identité et pourquoi aucun graphique de charge emprunté appartient ici: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/faw-jiefang-j7-tractor/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **Suggestion d'image**: Une Zoomlion ZTC - série 25-tonne-class grue de camion avec boom partiellement soulevé sur sol neutre
+- **Texte ALT**: Une grue de camion 25-tonne-class avec sa boom télescopique partiellement relevée au sol neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 Une grue de camion n'est pas un camion avec un treuil fixé: c'est un véhicule à usage spécial ** combinant un châssis de porte-avions avec une superstructure de levage conçue**, et sa valeur et sa sécurité sont définies presque entièrement par le tableau de charge nominal de cette superstructure. Le Zoomlion ZTC250H est le 25-tonne-class membre de la ligne ZTC de Zoomlion. Cette page fournit délibérément une référence **de niveau d'identité** du marché chinois: elle corrige ce que est le modèle et comment fonctionne la famille de produits, mais elle ne **pas** longueur de boom d'impression, hauteur de levage, puissance du moteur, dimensions ou une table de classement de charge, parce qu'aucune table de charge exacte ZTC250H OEM n'a été capturée, et l'emprunt de ces chiffres d'une grue adjacente 25-tonne serait une erreur grave et potentiellement dangereuse.
 

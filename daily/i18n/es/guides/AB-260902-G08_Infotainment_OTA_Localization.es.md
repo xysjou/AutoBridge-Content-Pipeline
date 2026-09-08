@@ -1,14 +1,17 @@
 # Información de coches chinos, aplicaciones y OTA Overseas: una Guía de verificación de localización por vehículo
-## SEO Metadatos
-- **SEO Título**: Chinese-Car Infotainment " OTA Abroad: a Per-VIN Guía de verificación
-- **Meta Descripción**: ¿Un equipo de cabeza de China-spec trabajará en su mercado? Verifique el idioma de la interfaz de usuario, mapas locales, espejos telefónicos, capacidad de aplicación y OTA en el VIN real, con hechos específicos de marca mantenidos separados de los ejemplos de la industria.
-- ** URL agregada**: /guides/chinese-car-infotainment-ota-localization/
-- ** H1 **: Hacer que un coche chino trabaje en su mercado: Qué probar en el coche real
-- **Primary Keyword**: China coche infotainment Inglés OTA localización en el extranjero por VIN
-- **Secondary Search Terms**: Unidad cabezal China-spechular Español UI, BYD DiLink en el extranjero, mapas chinos EV en el extranjero, CarPlay Android Auto Chino coche, OTA región servidor, árabe RTL HMI, desarrollo de software de exportación
-- **Sugerencias internas**: /guides/chinese-ev-charging-standard-compatibilidad/; /guides/right-drive-chinese-cars/; /guides/verify-china-car-export-supplier/
-- **Sugerencias de imagen**: únicamente en chino vs Inglés HMI; cinco controles de software; pila de software de exportación nacional vs; diagrama de registro del servidor OTA
-- **Sugerencias de ALT**: "Configuración de lenguaje de la unidad de cabeza de China-spechular"; "cinco controles de localización"; "Apilación de software de producción versus exportación"
+## Metadatos SEO
+- **Título SEO**: Información de coches chinos " OTA En el extranjero: a Per- VIN Guía de verificación
+- **Meta descripción**: ¿Un equipo de cabeza de China-spec trabajará en su mercado? Verificar UI idioma, mapas locales, espejos telefónicos, capacidad de aplicación/servidor y OTA en el VIN real, con hechos específicos de marca mantenidos separados de los ejemplos de la industria.
+- **H1**: Hacer un trabajo de software de coches chinos en su mercado: Qué probar en el coche real
+- **Palabra clave principal**: Chinese car infotainment English  OTA  overseas localization per  VIN
+- **Términos de búsqueda secundarios**: China-especie unidad Inglés UI, BYD DiLink en el extranjero, China EV mapas en el extranjero, CarPlay Android Auto Chino coche, OTA región del servidor, árabe RTL HMI, construcción de software de exportación
+- **URL sugerida**: /guides/chinese-car-infotainment-ota-localization/
+- **Intención de búsqueda**: Comprende Hacer que un coche chino funcione en su mercado: Qué probar en el coche real: qué debe verificar, documentar y decidir un vehículo/parte exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **Sugerencia de imagen**: Solo chino vs inglés HMI
+- **Texto ALT**: Ajustes de lenguaje de la unidad de la cabeza de China
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+
 ## La disciplina de la evidencia Esta guía sigue
 El comportamiento del software es **marca-y VIN-specific**, por lo que esta página separa deliberadamente dos tipos de declaración:
 - ** Datos específicos de marca/modelo** — estos sólo pueden ser resueltos en el VIN exacto a través del canal de ultramar de la marca o una prueba en vivo; nunca se infiere de otro modelo.
@@ -55,18 +58,18 @@ Los proveedores de localización tienen un incentivo para decir que cada problem
 ¿Está recortando la seguridad? El flash no autorizado puede anular la garantía y plantear problemas de cumplimiento; prefiera la construcción de la exportación de fábrica o una ruta respaldada por la marca.
 **¿La UI inglesa la hace lista para árabe?** No — árabe necesita diseño RTL y localización adecuada más allá de la traducción.
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf

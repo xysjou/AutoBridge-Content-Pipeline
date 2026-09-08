@@ -1,14 +1,16 @@
 # FAW Jiefang J6P Heady Tractor: เครื่องยนต์, Spickbox, แอ็กเซลและ GCW อ่านเป็นการตัดสินใจแบบมาตรฐาน
-## เชา ข้อมูลกํากับภาพ
-- < ESO ชื่อเพลง *: FAW Jiefang J6P Tractor Spects: เครื่องยนต์, GCW & ส่งออกบันทึกย่อ
-- ""คําอธิบาย" ประเทศจีน- ตลาด รถ แทรกเตอร์ หนัก J6P คัน — ซี ชัย CA6DM2 460 PS 2300 N·m ไชน่า-VI DEC, 4 × 2/6 × 4/8 – 4 ผังเพลง, 10–16-speed เกียร์เบเก๊ก, ~ 40 t GCW และรายการตรวจสอบผู้ซื้อสินค้าต้องการ
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกนิกส์/ฟอว์-จีฟรัง- j6p-tractor-specs/
-- ** H1 **: FAW Jiefang J6P (Chinese-Magnet): vain Train (handor Powerrin), Chasis and eplication
-- ~คําสําคัญในจดหมาย ~: faw jifang j6p ข้อจํากัดรถแทรกเตอร์
-- ~การค้นหาตามวาระที่: ~ เจียวเจิง J6P 460 (พ.ศ. CA6DM2 เครื่องยนต์ J6P 6x4 รถจีซีดับเบิลยู (จีซีดับเบิลยู)  China VI heavy truck export, J6P กล่องเกียร์ AMT (ชุดอุปกรณ์) ไซโคไลด์ 11 ลิตร
-- ~ ลิงก์ภายใน ข้อเสนอ: Vichales/yotoong- zk6122-coach-specs/ ~ vichales/ concrated-maxter-signics/ guides/////chinides-Vinoicic-export-cents-duccess-documents/
-- ข้อเสนอแนะ: 6 × 4 ด้านข้างรถแทรกเตอร์; Xichai CA6DM2 เครื่องยนต์; 12-speed กล่องเกียร์; ขวานล้อรถแทนเด็ม แท็กซี่ที่อยู่ข้างใน
-- "FAW Jiefang J6P 6x4 Hunch RV". " J6P Xichai CA6DM2 DCD".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: FAW Jiefang J6P Tractor Specs: เครื่องยนต์ GCW & ส่งออกบันทึกย่อ
+- **คำอธิบาย Meta**: จีน- ตลาด FAW Jiefang J6P รถแทรกเตอร์หนัก – Xichai CA6DM2 460 PS/2300 NEM ประเทศจีน-VI Design, 4 × 2/6 × 4/8 x 4 ผังพิมพ์ 10–16-speed กล่องเกียร์ ~ 40 t GCW ชั้น (พ.ศ.  and  ต้องการการตรวจสอบผู้ส่งถ่าย
+- **H1**: FAW Jiefang J6P (Chinese-Maget): Hivedraft Train, Chasis และส่งออกการรับรอง
+- **คีย์เวิร์ดหลัก**: Faw Jifang j6p กําหนดรถแทรกเตอร์
+- **คำค้นหารอง**: เจียวเจิง J6P 460 (พ.ศ. CA6DM2 เครื่องยนต์ J6P 6x4 รถแทรกเตอร์ GCW (พ.ศ. ประเทศจีน VI รถบรรทุกหนัก, J6P AMT กล่องเกียร์ ไซโคไลด์ 11 ลิตร
+- **URL ที่แนะนำ**: /vehicles/faw-jiefang-j6p-tractor-specs/
+- **เจตนาการค้นหา**: เข้าใจ FAW Jiefang J6P (Chinese-Maget); Hivedor Powerrentr, Chasis and eport resciation: สิ่งที่นักส่งออกรถยนต์/พาร์ทเนอร์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/yutong-zk6122-coach-specs/ ; /vehicles/sany-concrete-mixer-truck-specs/ ; /guides/china-vehicle-export-license-customs-documents/
+- **คำแนะนำรูปภาพ**: 6 × 4 ด้านข้างรถแทรกเตอร์
+- **ข้อความ ALT**: FAW จิฟกัง J6P 6x4 รถแทรกเตอร์หนัก
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: สเปค อะแทรคเตอร์โดยไดรฟ์ไลน์และจีซีดับเบิลยู, ไม่ใช่โดยแบดเจอร์
 สําหรับรถแทรกเตอร์ที่หนักที่สุด สนามตัดสิน มีการเปลี่ยนทิศทางและบิด, เกียร์, เพลาขับ, ชั้นเรียนจีซีดับเบิลยู, แท็กซี่และแชสซิส -- ไม่ใช่อุปกรณ์ระดับเนื้อ J6P เป็นซีรีส์รถแทรกเตอร์รุ่นหนักของ FAW Jiefang นําเสนอใน 4 × 2, 6 × 4 และ 8 x 4) ผังขับขี่ (พ.ศ. หน้านี้ใช้โปรแกรม 'Chinese-Market' (REFEST: FELELE) ทุกรถแทรกเตอร์ถูกปรับแต่งให้ใช้รหัสรุ่นที่ดัดแปลงแล้ว และค่าส่งออกเสียง/axle อัตราส่วนนั้นเรียงตามลําดับ
@@ -20,7 +22,7 @@
 | การ ปลด ปล่อย | China VI (国六) |
 | ยกกําลัง | 338–341 kW (≈460 PS) |
 | แรงบิดของยอด | 2300 N·m @ 1000–1400 Rpm |
-| หลังการเลี้ยง | EGR + DOC + DPF + SCR (China VI China VI-b) |
+| ห ห ล ล ล ล ั ั ั ั ั ง ง ง ง ง ง ง ง ง ง ง ั ั ั F F P P P P P P P P P P P P F F F F F F  +  +  +  +  +  + F F F F F F F F F F F F F F F F F F F F F F | | | | | |  +  +  +  +  +  +  +  +  + R R  +  + R ร ร า ร ร ร ร ร ร ร ร R R R R R ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร
 รุ่นเครื่องยนต์และแรงบิด 2300 N·m ของมัน ถูกตรวจสอบข้ามสองภาควิชาชีพพาณิชย์จีน A higher-tier **CA6DM3 13 L ≈560 PS ("3.0")** with a reported ~150,000 km ช่วงการรถไฟยาวเป็นซิงเกิล-ซอร์ส  and  ต้องได้รับการยืนยันในรหัสที่แน่นอน มากกว่าการสันนิษฐาน
 
 ## เกียร์บ็อกซ์ แอคเซิล และจีซีดับเบิลยู
@@ -53,30 +55,30 @@ J6P เสนอรถแท็กซี่หลายคัน สําหร
 ~ รถจี็ง-วี วิ่งไปบนดีเซลได้ไหม~ มันต้องการน้ํายาดีเซลที่ช้ามากๆ บวกกับ DEF และสภาวะ DPF ที่เหมาะสม ตรวจสอบเชื้อเพลิงปลายทาง และการรับการปล่อยก๊าซ ก่อนสั่ง
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 重型牵引车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
@@ -87,8 +89,8 @@ J6P เสนอรถแท็กซี่หลายคัน สําหร
 | เจียวเจิง J6 รุ่น/ไดรฟ์/ พลัง | สารานุกรม ดู ยอน | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | ผู้โดยสาร_ปลายทาง | เส้นต่อเนื่อง |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
 | GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
 *Confinidence ข้อสังเกต: ไม่มีแผ่นสเปกนิกหลัก FAW ถูกจับ; เครื่องแบบ 460 ถูกตรวจสอบแบบข้าม (CROOSS_CHCKED) ในขณะที่ 13 L 560 PS และ UN 40 t GCW เป็นโปรแกรมเดี่ยว และผูกพันกับรหัสรุ่นที่ดัดแปลงแล้ว (PDF). จีน-วี-วิ-หลังจากการรักษาความเข้ากันได้ ไม่ใช่การสันนิษฐาน *

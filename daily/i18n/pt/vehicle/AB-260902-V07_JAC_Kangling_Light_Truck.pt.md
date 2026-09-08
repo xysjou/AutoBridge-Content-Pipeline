@@ -1,14 +1,17 @@
 # JAC Kangling (康铃) Lingpao L6 caminhão leve — família Chassis, anúncios constrói e exportar notas de Sourcing
-## SEO Meta- dados
-- ** Título SEO**: JAC Kangling Lingpao L6 caminhão leve: Chassis, GVW e Driveline para importadores
-- ** Descrição do Meta**: JAC 1Ka Lingpao (Kangling) L6 caminhão leve explicado pela família chassis — Anhui-Cummins 2.5 diesel power staps, 4T/5T eixo traseiro, vários corpos de anúncio MIIT, e como fixar a exata construção de exportação.
-- ** URL sugerido**: /veículos/jac-kangling-light-truck/
-- ** H1 **: JAC Kangling Lingpao L6: Combinando Chassis, Modelo de Anúncio e Superestrutura para uma Ordem de Exportação
-- **Chave Primária**: JAC Kangling Lingpao L6 especificações de caminhão leve exportação
-- ** Termos de pesquisa secundários**: JAC Lingpao L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 caminhão leve, China 4.5t GVW caminhão diesel, JAC 1Ka caminhão leve exportação, Kangling caminhão dropside
-- **As sugestões de ligação interna**: /guias/comercial-truck-fleet-procurement-china/; /guias/importação-chinese-truck-saudi-saso/; /veículos/foton-aumark-refrigerado-truck/
-- **Image Suggestions**: vista lateral de uma gota L6; quadro-quadro oficial e layout do eixo traseiro; compartimento do motor do diesel HFC4DE3 2.5; comparação de corpos dropside/box/stake; cabine de linha única 1920 mm
-- ** Sugestões ALT**: "JAC Lingpao L6 4x2 caminhão de luz diesel dropside"; "Lingpao L6 180 mm quadro de chassi e 4T/5T eixo traseiro"; "Anhui Cummins HFC4DE3 2.5-litre motor diesel"
+## Metadados SEO
+- **Título SEO**: JAC Kangling Lingpao L6 caminhão leve: Chassis, GVW e linha de transmissão para importadores
+- **Meta descrição**: JAC 1Ka Lingpao (Kangling) L6 caminhão leve explicado pela família de chassis — Anhui-Cummins 2.5 diesel potência passos, 4T/5T eixo traseiro, múltiplos MIIT corpos de anúncio, e como fixar a exata construção de exportação.
+- **H1**: JAC Kangling Lingpao L6: Combinando Chassis, Modelo de Anúncio e Superestrutura para uma Ordem de Exportação
+- **Palavra-chave principal**: JAC Kangling Lingpao L6 especificações de caminhão leve exportação
+- **Termos de busca secundários**: JAC Lingpao L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 caminhão leve, China 4.5t GVW caminhão diesel, JAC 1Ka caminhão leve exportação, Kangling caminhão dropside
+- **URL sugerida**: /vehicles/jac-kangling-light-truck/
+- **Intenção de busca**: Understand  JAC  Kangling Lingpao L6: Combinando Chassis, Modelo de Anúncio e Superestrutura para uma Ordem de Exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
+- **Sugestão de imagem**: vista lateral de uma gota de L6
+- **Texto ALT**: JAC Lingpao L6 4x2 caminhão de gotas de luz diesel
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+
 ## Por que um L6 é ordenado pelo código de chassis, não por um nome de modelo
 Um caminhão comercial leve chinês não é uma especificação fixa de passageiro-carro: o **Lingpao L6 (领跑 L6, vendido sob a linha 1Ka 康铃 da JAC)** é uma família *chassis* que a JAC constrói com vários motores, duas bases de roda, duas classificações de eixo traseiro e muitos corpos de fábrica ou de coachbuilt (dropside 栏板, caixa 厢式, estaca 仓栅, refrigerado e muito mais). Cada combinação legal carrega seu próprio modelo de anúncio **MIIT (公告型号)** e seu próprio peso de cotação carga útil nominal. "Um L6" portanto não diz nada preciso até que o modelo de anúncio, sufixo do motor e corpo sejam nomeados. Esta página separa o que a JAC publica oficialmente sobre a plataforma da construção de anúncio único capturada no banco de dados de veículos comerciais, para que um importador possa encomendar um caminhão definido em vez de um nome.
 ## A Plataforma, por tabela de configuração oficial do JAC
@@ -65,30 +68,30 @@ Nenhum preço interno da China é promovido a um valor de exportação e nenhum 
 ** O que é a GVW e a carga útil?** A construção capturada dropside é 4.495 t GVW 1.735 t carga útil; caixa e stake builds são mais pesados com carga útil mais baixa — leia o certificado de cada corpo.
 ** Existe um automático?** O diesel capturado usa um manual JAC 6-speed, um Fast 8-speed aparece em certas variantes — confirme para a linha exata em vez de supor.
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 轻卡
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |

@@ -1,15 +1,17 @@
 # Sourcing Factory Right-Hand-Drive (RHD) chinesische Autos: Markenverfügbarkeit und Verifizierung
 
-## SEO Metadaten
-- **SEO Titel **: Welche chinesischen Autos kommen in Rechtslenkung (RHD)? Sourcing Guide
-- **Meta Description**: Wie man RHD-Chinesische Fabrikfahrzeuge für Großbritannien, Australien, Thailand, Malaysia, Südafrika und darüber hinaus bezieht - welche Marken RHD bauen, wie man pro VIN bestätigt und warum die Umwandlung von LHD in RHD riskant ist.
+## SEO-Metadaten
+- **SEO-Titel**: Welche chinesischen Autos kommen in Rechtslenkung (RHD)? Sourcing Guide
+- **Meta-Beschreibung**: Wie man Fabrik RHD chinesische Fahrzeuge für die UK, Australien, Thailand, Malaysia, Südafrika und darüber hinaus beschafft - welche Marken RHD bauen, wie man pro VIN bestätigt und warum LHD - zu RHD Umbau riskant ist.
+- **H1**: Kaufen Sie chinesische Autos mit Rechtslenkung: Warum es eine Fabrik RHD sein muss
+- **Haupt-Keyword**: Chinesische Autos Rechtshänder fahren RHD Modelle exportieren
+- **Sekundäre Suchbegriffe**: Fabrik RHD Chinesisch EV, BYD Rechtslenker, MG RHD Modelle, GWM Haval RHD, RHD Thailand Chinesisches Auto, LHD bis RHD Konversionsrisiko
 - **Vorgeschlagene URL**: /guides/right-hand-drive-chinese-cars/
-- ** H1 **: Kauf von chinesischen Autos mit Rechtslenkung: Warum es ein RHD-Bauwerk sein muss
-- **Hauptschlüsselwort**: Chinesische Autos Rechtshänder fahren RHD-Modelle exportieren
-- **Secondary Search Terms**: Factory RHD Chinesisches EV, BYD Rechtslenker, MG RHD Modelle, GWM Haval RHD, RHD Thailand Chinesisches Auto, LHD zu RHD Konversionsrisiko
-- **Interne Linkvorschläge**: /guides/chinese-ev-charging-standard-compatibility/; /guides/verify-china-car-export-supplier/; /vehicles/hongqi-e-hs9-2024/
-- **Bildvorschläge**: RHD-Cockpit (Rechtslenkung) vs. LHD; RHD-Weltmarktkarte; RHD-Fabrik-Produktionslinie; Conversion-Risiko-Warnung
-- **ALT-Vorschläge**: "Fabrik rechts-hand-drive Chinese car cockpit"; "Global right-hand-drive markets map"; "LHD to RHD conversion components warning"
+- **Suchabsicht**: Verstehen Sie den Kauf von chinesischen Rechtslenkern: Warum es eine Fabrik RHD sein muss: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **Bildvorschlag**: RHD Cockpit (rechts) vs LHD
+- **ALT-Text**: Fabrik Rechtslenker Chinesisches Auto-Cockpit
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## RHD Ist eine Herstellungsfrage, keine Reparaturwerkstattfrage
 
@@ -63,18 +65,18 @@ Verkäufer behaupten RHD-Verfügbarkeit, ohne eine Fabriklinie von einem Konvert
 **Warum von VIN überprüfen?** Marketingmaterial kann sagen "RHD verfügbar", während der zugewiesene Bestand LHD ist; Das VIN-Buildsheet ist der zuverlässige Beweis.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf

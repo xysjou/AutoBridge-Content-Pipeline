@@ -1,14 +1,17 @@
 # Limites d'âge pour l'importation de voitures d'occasion en Afrique: une matrice de vérification pays par pays
-## OEuvre Métadonnées
-- **Référencement**: Afrique: Limites d'âge pour l'importation de voitures usagées par pays: Kenya & Nigeria Vérifié
-- **Description détaillée**: Les limites d'âge des voitures d'occasion, du côté de la direction et des barrières d'inspection, pays par pays, sont le Kenya (8 ans à compter de la première immatriculation) et le Nigéria (15 à partir de la fabrication) maintenant ancrés aux sources primaires, d'autres marchés marqués pour vérification officielle.
-- **URL suggérée**: /guides/frican-used-car-import-age-limites/
-- ** H1 **: Limites d'âge des voitures d'occasion sur les marchés africains: une matrice construite pour être vérifiée, non mémorisée
-- **Mot-clé principal**: limite d'âge des importations de voitures utilisées en Afrique par matrice de pays
-- ** Termes de recherche secondaires**: Kenya limite d'âge des voitures d'occasion 8 ans première immatriculation, Nigeria importation de voitures d'occasion 15 ans fabrication, Éthiopie interdiction de voiture d'occasion, Ghana importation OBD, Mozambique âge des véhicules, Soudan limite d'âge des voitures, Côte d'Ivoire CoC, KEBS DKS 1515
-- **Liens internes Suggestions**: /guides/véhicule-préexpédition-inspection-psi/; /guides/véhicule-coc-type-approbation-dossier/; /guides/chine-véhicule-exportation-licence-douane-documents/
-- **Suggestions d'image**: tableau de matrice de pays; calendrier de fabrication par rapport à la première année d'enregistrement; diagramme officiel de la voie de vérification
-- ** Suggestions ALT**: "Matrice de vérification de l'âge limite d'utilisation des voitures en Afrique"; "année de fabrication par rapport à la première année d'immatriculation"
+## Métadonnées SEO
+- **Titre SEO**: Limites d'âge pour l'importation de voitures d'occasion en Afrique par pays: Kenya et Nigéria Vérifié
+- **Description meta**: Les limites d'âge des voitures d'occasion, du côté de la direction et des barrières d'inspection, pays par pays, sont le Kenya (8 ans à compter de la première immatriculation) et le Nigéria (15 à partir de la fabrication) maintenant ancrés dans les sources primaires, d'autres marchés marqués pour vérification officielle.
+- **H1**: Limites d'âge des voitures d'occasion sur les marchés africains: une matrice construite pour être vérifiée, non mémorisée
+- **Mot-clé principal**: limite d'âge d'importation de voitures utilisée en Afrique par matrice de pays
+- **Termes de recherche secondaires**: Kenya voiture d'occasion limite d'âge 8 ans première immatriculation, Nigeria voiture importation 15 ans fabrication, Ethiopie voiture d'occasion interdiction, Ghana OBD importation, Mozambique véhicule âge, Soudan voiture limite d'âge, Côte d'Ivoire CoC, KEBS DKS 1515
+- **URL suggérée**: /guides/africa-used-car-import-age-limits/
+- **Intention de recherche**: Comprendre les limites d'âge des véhicules usagés sur les marchés africains: une matrice conçue pour être vérifiée, non mémorisée: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Suggestion d'image**: tableau matriciel de pays
+- **Texte ALT**: Matrice de vérification de la limite d'âge des voitures utilisées en Afrique
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
 ## Lisez le plafond des preuves avant le tableau
 Les limites d'âge changent, sont appliquées différemment par le port et sont souvent mal citées dans les résumés des transitaires. Cette page sépare **deux niveaux de preuve**. ** Le Kenya et le Nigéria sont maintenant ancrés dans les sources primaires de destination** (une autorité en matière de recettes/douanes et un organisme de normalisation) et leur âge est indiqué ci-dessous. **Chaque autre ligne de pays demeure une valeur déclarée par le transitaire/média** et est indiquée pour vérification officielle - elle n'est pas déclarée comme étant un fait établi. Il n'existe pas de règle régionale unique pour l'Afrique: chaque pays fixe sa propre base d'âge, sa règle de pilotage et sa porte d'inspection, et un seul titre « X ans » sans cette base est dangereux.
 ## D'abord: savoir quel âge est mesuré

@@ -1,14 +1,17 @@
 # 进口中国车辆进入智利:自贸试验区 优先、IVA和3CV 同性恋步
-## 道德操守办公室 元数据
-- ** SIO标题**:向智利进口中国EV:自贸试验区 优先选择, IVA & 3CV 指南
-- ** 金属说明**: 中国 — 智利自贸试验区对中国制造的车辆的优惠如何运作,智利海关6%通用关税和19%IVA正式确认,原产地证书为何是条件,3CV同位化如何适合.
-- ** 建议的URL**:/指南/进口-chinese-ev-chile-fta/
-- ** H1 资源需求。 **:中国车辆进入智利:使用自贸试验区优惠,不误算着陆成本
-- ** 关键词**: 智 利 中国 自贸试验区车辆进口税IVA同位素
-- ** 二次搜索术语**:智利aduana 6% arancel,智利IVA 19% 进口,中国智利自贸试验区原产地证书,智利3CV 同位素,证书类原生物 TLC 中国 智利 EV 进口智利
-- ** 内部链接建议**: /指南/车辆-进口-付款-tt-vs-lc/;/指南/海运-货物-保险-汽车-进口/;/车辆/byd-yuan-plus/
-- ** 图像建议**:智利税-税-税-瀑布;自贸试验区原产地证书流动;3CV个同位化步骤
-- ** ALT建议**:“智利进口成本堆栈:关税与国际投资协议”;“自贸试验区原产地证书要求”;“智利3CV同位化过程”。
+## SEO元数据
+- **SEO标题**: 向智利进口中国EV:FTA 优惠,IVA & 3CV 指南
+- **Meta描述**: 中国-智利FTA年对中国制造的车辆的优惠如何,智利海关6%年总关税和19%年IVA年正式确认,原产地证书为何是条件,3CV年的同义化如何适合.
+- **H1**: 中国车辆 进入智利:使用FTA优先,不误算着陆成本
+- **核心关键词**: 智利 中国FTA辆车辆进口税 IVA 同位素
+- **次级搜索词**: 智利 adunana 6% arancel,智利 IVA 19% 进口,中国 智利 FTA 原产地证书 智利 3CV 同源证书, 证书 origen TLC 中国 智利 EV 进口智利
+- **建议URL**: /guides/import-chinese-ev-chile-fta/
+- **搜索意图**: 了解中国车辆进入智利:使用FTA优先级而不误算 着陆成本:车辆/零件出口商在承诺订购之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **图片建议**: 智利税袋瀑布
+- **ALT文本**: 智利进口成本堆栈:关税与IVA
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 机会和反复出现的误算
 智利与其主要伙伴,** 包括中国** 执行自由贸易协定。 符合要求的中原车辆可以使用自贸试验区优惠(ad-valorem **dule 0% **),而智利的**一般从价税是6% CIF关税值**,用于非优惠来源——现在都锚定在官方来源(以下). 反复出现的买方错误是将"FTA 0% 关税"读作"0% 进口成本". 这并不是:** 19% IVA仍然适用,0%取决于证明来源,同源化是一个单独的工作流程。 ** 本指南针对**智利**。
 ## 税堆, 逐行(正式禁用)
@@ -53,18 +56,18 @@
 ** 什么是3CV号  and  多少钱? ** 智利车辆同位化过程;
 ** ANAC EV-值班是否在生效? ** 不——这是一份2026个协会提案,没有颁布法律;在发货时重新检查。
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf

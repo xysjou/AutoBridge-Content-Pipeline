@@ -1,15 +1,17 @@
 # Shacman Delong X3000 Dump Truck - 8 × 4 Tipper Specs dan Catatan Konfigurasi Expor
 
-## SEO Metadata
-- Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Ekspor Panduan
-- ** Meta Description **: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, mesin Weichai, Fast 12-speed, 31 t GVW, 7.6 m return-tip body, axles dan ekspor emism pilihan untuk pembeli armada.
-- ** Sugested URL **: kendaraan shacman - x3000-dump-truck/
--   H1 Shacman Delong X3000 Dump Truck: Chassis, Tipping Body dan Ekspor Pilihan Pembangunan
-- ** Primary Keyword **: Shacman X3000 dump truck export
-- ** Akhir Pencarian Second **: Shacman X3000 8x4 Tipper, Delong 430 truk sampah, Weichai WP12 430, Fast 12-speed tipper, Cina 31t dump export truk, Shacman 6x4 dump
-- ** Internal Link Sugestions **: kendaraan sinotruk-hodo- t7h-tractor/; guiders commercial- truck- fleet- procurements -china guide important chinse- truck- -saudi- saso
-- ** Saran Gambar **: 8x4 tampilan samping yang lebih baik; 7.6 m badan reart- tip dinaikkan; MAN- ketik sumbu dan suspensi; Weichai WP12 mesin; frame detail chassis
-- ** Sugesti ALT **: "Shacman Ddong X3000 8x4 truk dump, China referensi membangun"; "X3000 7.6 meter kembali ke belakang tubuh meningkat"; "Shacman X3000 pengkurangan tandem"
+## Metadata SEO
+- **Judul SEO**: Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Ekspor Panduan
+- **Deskripsi Meta**: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, mesin Weichai, Fast 12-speed, 31 t GVW, 7.6 m back-tip body, axles dan ekspor pilihan untuk pembeli armada.
+- **H1**: Shacman Delong X3000 Dump Truck: Chassis, Tipping Body dan Ekspor Pilihan Pembangunan
+- **Kata kunci utama**: Sshacman X3000 dump truk ekspor spesifikasi
+- **Istilah pencarian sekunder**: Shacman X3000 8x4 Tipper, Delong 430 dump truck, Weichai WP12 430, Fast 12-speed Tipper, China 31t dump export truk, Shacman 6x4 dump
+- **URL yang disarankan**: /vehicles/shacman-x3000-dump-truck/
+- **Maksud pencarian**: Mengerti Shacman Delong X3000 Truk Sampah: Chassis, Tipping Body dan Ekspor Pilihan Pembuatan: apa yang harus diverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu perintah.
+- **Saran tautan internal**: /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
+- **Saran gambar**: 8x4 tipper sisi tampilan
+- **Teks ALT**: Shacman Delong X3000 8x4 truk sampah, China referensi membangun
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Peran dan Line- up
 
@@ -65,30 +67,30 @@ Mengapa versi emisi bervariasi begitu banyak? Pasar berbeda dalam konten sulfur 
 ** Manual atau otomatis? ** Pembangunan yang ditangkap menggunakan transmisi manual cepat (12/13-speed); pastikan daripada mengasumsikan otomatis.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle dump/tipper truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) camion benne
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) Kipper
-  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) camión volqueta
-  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) caminhão basculante
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 ダンプカー
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 덤프트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) xe ben
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) รถดั๊มพ์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) truk dump
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) شاحنة قلابة
-  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 自卸车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
+  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) / camión volqueta
+  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) / caminhão basculante
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 / ダンプカー
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 / 덤프트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) / xe ben
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถดั๊มพ์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) / truk dump
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
+  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
 ## Sumber & Verifikasi
 

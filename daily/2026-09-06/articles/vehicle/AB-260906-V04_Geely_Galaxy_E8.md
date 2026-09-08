@@ -6,7 +6,7 @@
 - **Primary Keyword**: Geely Galaxy E8 Yinhe E8 export specs
 - **Secondary Search Terms**: Galaxy E8 SEA architecture; Yinhe E8 CLTC range; Galaxy E8 800V charging; Geely electric sedan export; E8 475 kW AWD
 - **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Search Intent**: 面向海外B端买家介绍银河E8中国市场版本身份、三电/续航/充电与版本边界
+- **Search Intent**: Understand Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
 - **Image Suggestion**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
 - **ALT Suggestion**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar and fastback roofline

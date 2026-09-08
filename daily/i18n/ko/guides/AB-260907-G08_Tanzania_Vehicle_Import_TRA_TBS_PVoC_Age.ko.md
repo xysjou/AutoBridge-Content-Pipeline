@@ -1,16 +1,16 @@
 # 탄자니아로 차량 수입: TRA 세관 트랙과 TBS PVoC / COC 트랙
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 탄자니아 차량 수입품: TRA 관례와 TBS PVoC/CoC는 설명했습니다| AutoBridge
-- **마타 기술 **: 탄자니아에 차량 수입은 EACCMA/TANCIS 및 TBS 선행 PVoCity (공용 중고 모터 차량 범주)의 TRA 통관과, 그리고 나이와 의무를 위해 확인되어야 하는 것의 사이에서 분할합니다.
-- ** H1 **: 탄자니아로 차량 수입: TRA 세관 트랙과 TBS PVoC / COC 트랙
-- ** 일기 키워드 **: tanzania 차량 수입 tra tbs pvoc 나이
-- ** 보조 검색 조건 **: TBS PVOC 중고 모터 차량; 탄자니아 코 C 선행; TRA TANCIS 가져 오기; EACCMA 2004 차량 수입; 탄자니아 중고 자동차 연령 제한; CCIC PVOC 중국
-- **Suggested URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
-- ** 수색 **: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责、PVoC/CoC 机制与二手车专门类别, 以及车龄 / 税率需向谁核验
-- ** 내부 링크 제안**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
-- ** 이미지 제안**: 적합성 문서가 준비된 동안 수출 야드에서 검사되는 중고차
-- ** ALT 제안**: 클립보드에 적합 증명서 옆에 전 선적 검사의 밑에 차량
-- **Schema Scope**: 기사 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 탄자니아 차량 수입품: TRA의 관례 및 TBS PVoC/CoC는 설명했습니다| AutoBridge
+- **메타 설명**: 탄자니아에 차량 수입은 EACCMA/TANCIS 및 TBS 선행 PVoC 적합 (공용 중고 모터 차량 범주)의 TRA 통관 사이, 그리고 나이와 의무에 대해 확인해야 할 것입니다.
+- **H1**: 탄자니아로 차량 수입: TRA 세관 트랙 및 TBS PVoC / COC 트랙
+- **주요 키워드**: tanzania 차량 수입 tra tbs pvoc 나이
+- **보조 검색어**: TBS PVoC는 모터 차량을 사용했습니다; 탄자니아 CoC 전 선적; TRA TANCIS 수입품; EACCMA 2004 차량 수입품; 탄자니아에 의하여 사용된 차 나이 한계; CCIC PVoC 중국
+- **추천 URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **검색 의도**: 탄자니아로 수입 차량에 대한 이해: TRA 세관 궤도와 TBS PVoC/CoC 트랙: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+- **이미지 제안**: 적합성 문서가 준비된 동안 수출 야드에서 검사되는 중고차
+- **ALT 텍스트**: 클립보드에 적합 증명서 옆에 전 선적 검사의 밑에 차량
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 Tanzania is a single-country market with a deliberately two-track import system, and a vehicle exporter who treats it as one process loses time at the port. 한 트랙은 ** Tanzania Revenue Authority (TRA)**에 속합니다. - 세관 신고, 동부 아프리카 커뮤니티 세관 관리법의 의무 평가 및 정리. 다른 사람은 ** TBS (Tanzania Bureau of Standards)**에 속합니다. - 규제 된 선적, 중고 모터 차량이 포함 된지 결정하는 사전 선적 적합성 평가는 허용됩니다. 이 가이드는 탄자니아에 특이합니다 (동 아프리카 전체 진술은 아닙니다)  and  현재 TBS에 건축됩니다  and  TRA 기본 페이지. 그것은 모두 트랙 권한 및, 사용 차 나이 및 차량 의무 비율에 대한 공식적인 기본 문서는 검토에 재평가되지 않았고, 그 항목이 숫자를 발명하지 않도록 식별하는 것으로 나타났습니다.
 
@@ -77,7 +77,7 @@ TBS-authorised PVoC 공급자는 CCIC (중국 명부에), Intertek, SGS 및 TÜV
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | TBS 수입 및 수출 관리 - PVoC 프로그램, CoC, 중고 모터 차량 카테고리, D1, 파트너 이름 | 탄자니아 국가 (TBS) | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据, CoC 装船前, 二手车单列类别, 检验机构, D1 |
-| TRA 수입 절차 - EACCMA 2004, 라이센스 CFA, TANCIS, ≥ 7-day 숙박, 허가 기관 중 TBS | 탄자니아 Revenue Authority (TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS 许可 |
+TRA는 EACCMA 2004, 라이센스 CFA, TANCIS, ≥ 7 일, 비자 기관 중 TBS | 탄자니아 복수 권위(TRA) | TZ | T1 | 인증 | https://www.tra.go.tz/page/import-procedures | EA, EACCMA, TANCIS, TBS EA |
 | TRA 모터 차량 등록 (등록 / 교환 -의 내면) | 탄자니아 Revenue Authority (TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
 | 货代 PVoC/e-COC 介绍 (仅线索, 不作事实依据) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVOC 线索의 |
 | 货代 PVoC 流程介绍 (仅线索) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |

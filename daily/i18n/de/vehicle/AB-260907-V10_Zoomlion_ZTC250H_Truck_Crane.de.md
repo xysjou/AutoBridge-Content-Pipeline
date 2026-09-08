@@ -1,16 +1,16 @@
 # Zoomlion ZTC250H Truck Crane: Eine China-Marktreferenz auf Identitätsebene und warum hier kein geliehenes Lastdiagramm gehört
-## SEO Metadaten
-- **SEO Titel**: Zoomlion ZTC250H 25t Truck Crane Referenz- und Exportkontrollen | AutoBridge
-- **Meta Description**: Chinesische Marktidentitätsreferenz für den Zoomlion ZTC250H 25-tonne LKW-Kran als Chassis-plus-Aufbau-Spezialausrüstung, warum benachbarte 25t Kran-Spezifikationen nicht ausgeliehen werden können, und die genauen Modelldaten, die vor dem Kauf zu erhalten sind.
-- ** H1 **: Zoomlion ZTC250H Truck Crane: Eine China-Marktreferenz auf Identitätsebene und warum hier kein geliehenes Lastdiagramm gehört
-- ** Primäres Keyword**: Zoomlion ZTC250H Exportspezifikationen
-- **Secondary Search Terms**: 中联重科 ZTC250H; Zoomlion 25 Tonnen LKW-Kran; ZTC-Serie Kran; LKW-Kran Ladekarte; chinesischer Kran Export; QY25 vs ZTC250
-- **Vorgeschlagene URL**: /Fahrzeuge/zoomlion- ztc250h-truck-crane/
-- **Search Intent**: 面向海外买家介绍中联 ZTC250H 身份 (25t 级汽车吊 = 底盘 + 起重上装), 并说明为何不能套用相邻 25t 吊性能表
-- **Interne Linkvorschläge**: /Fahrzeuge/faw-jiefang- j7-tractor/, /Fahrzeuge/qingling-isuzu- kv100/, /guides/verify-chinese-car-export-supplier-history/
-- **Bildvorschlag**: Ein ZTC-Baureihe 25-tonne-class LKW-Kran mit Ausleger teilweise auf neutralem Boden angehoben
-- **ALT Vorschlag**: A 25-tonne-class truck crane with its telescopic boom partially raised on neutral ground
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Bewertung / Bewertung)
+## SEO-Metadaten
+- **SEO-Titel**: Zoomlion ZTC250H 25t Truck Crane Referenz- und Exportkontrollen | AutoBridge
+- **Meta-Beschreibung**: Chinesische Marktidentitätsreferenz für den Zoomlion ZTC250H 25-tonne LKW-Kran als Chassis-plus-Aufbau-Spezialausrüstung, warum benachbarte 25t Kran-Spezifikationen nicht ausgeliehen werden können, und die genauen Modelldaten, die vor dem Kauf zu erhalten sind.
+- **H1**: Zoomlion ZTC250H Truck Crane: Eine China-Marktreferenz auf Identitätsebene und warum hier kein geliehenes Lastdiagramm gehört
+- **Haupt-Keyword**: Zoomlion ZTC250H Exportspezifikationen
+- **Sekundäre Suchbegriffe**: 中联重科 ZTC250H; Zoomlion 25 Tonnen LKW-Kran; Kran der Serie ZTC; Lastenverteilung für LKW-Krane; Ausfuhr von chinesischen Kranen; QY25 vs. ZTC250
+- **Vorgeschlagene URL**: /vehicles/zoomlion-ztc250h-truck-crane/
+- **Suchabsicht**: Zoomlion ZTC250H verstehen Truck Crane: Eine China-Market-Referenz auf Identitätsebene und warum hier kein Leihlastdiagramm gehört: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/faw-jiefang-j7-tractor/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **Bildvorschlag**: Ein Zoomlion ZTC-Serie 25-tonne-class LKW-Kran mit Ausleger teilweise auf neutralem Boden angehoben
+- **ALT-Text**: Ein 25-tonne-class-Lkw-Kran mit Teleskopausleger teilweise auf neutralem Boden angehoben
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Ein LKW-Kran ist kein LKW mit einer Winde, die auf: Es handelt sich um ein **Spezialfahrzeug, das ein Trägerfahrgestell mit einem speziell dafür gebauten Hebeaufbau kombiniert, und sein Wert und seine Sicherheit werden fast ausschließlich durch das Nennlastdiagramm dieses Aufbaus definiert. Der Zoomlion ZTC250H ist das 25-tonne-class Mitglied der ZTC-LKW-Crane-Linie von Zoomlion. Diese Seite bietet bewusst eine **Identitätsstufe** Referenzmarkt China: Es behebt, was das Modell ist  and  wie die Produktfamilie funktioniert, aber es **nicht ** Druck Ausleger Länge, Hubhöhe, Motorleistung, Abmessungen oder Tragfähigkeitstabelle, weil kein exakter OEM-Ladetisch des Modells ZTC250H erfasst wurde —  and  borrowing those numbers from an adjacent 25-tonne crane would be a serious, potenziell unsicherer Fehler.
 

@@ -1,15 +1,17 @@
-# Foton Daimler EST (China-V/VI) - Chinese-Market Heavy Tractor Truck Specs and Export checks
+فوتون دايملر (الصين - في/سادس) - شركة تراك تراك تراك تراك تراك تراك وتحقق من الصادرات
 
-## SEO Metadata
-- ** عنوان المنظمة**: فوتون دايملر متعقب: دليل التصدير الصيني - المريخ
-- ** بيان المرصد**: فون دايملر من السوق الصينية رئيس جرار ثقيل China-V ISG and China-VI X13 lines, ZF/Fast Equipmentboxes, ~ 40 t GCW class, with the BEV kept as a separate line.
-- ** H1 **: Foton Daimler EST (China-V/VI) - Chinese-Market Heavy Tractor Truck Specs and Export checks
-- ** كلمة رئيسية رمزية**: فوتون دايملر 福田戴姆勒欧曼 EST 重型牵引车 (شاحنة التراك)
-- ** مصطلحات البحث الثانية**: تصدير شاحنات فولتون دايملر؛ جرار شاحنة صينية ثقيلة؛ X13 محرك؛ 6x4 جرارة
-- ** URL المقترض**: /مركبات/فولطون - أومان - أغرب
-- ** الحلقة الدراسية**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/foton-auman-esttractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-ding-types-history/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Foton Daimler AUMAN EST Tractor: Chinese-Market Specs " Export Guide
+- **وصف Meta**: Chinese-market Foton Daimler  AUMAN   EST  heavy tractor head: China-V ISG   and  China- VI  X13 lines, ZF -أحزمة التروس  ~40 t  GCW  class, مع الـBEV تم حفظه كخط منفصل
+- **H1**: Foton Daimler  AUMAN   EST  (China-V/ VI ) — Chinese-Market Heavy Tractor Truck Specs  and  ضوابط التصدير
+- **الكلمة المفتاحية الرئيسية**: فوتون دايملر AUMAN / 福田戴姆勒欧曼 EST 重型牵引车 (Tractor Truck)
+- **مصطلحات بحث ثانوية**: AUMAN   EST  export; (فوتون دايملر) رئيس جرار؛ جرار شاحنة ثقيلة صينية؛ X13 محرك؛ 6x4 جرارة
+- **URL المقترح**: /vehicles/foton-auman-est-tractor/
+- **نية البحث**: Understand Foton Daimler  AUMAN   EST  (China-V/ VI ) — Chinese-Market Heavy Tractor Truck Specs  and  ضوابط التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **اقتراح الصورة**: مشهد واقعي يركز على الوثائق/المركبات، يوضح فوتون دايملر AUMAN (الصين - V/ VI) - شركة شاحنات ثقيلة صينية - مريخت - شركة سيك وتصدير، ولم يُجر أي تفتيش على مراحل أو يُزعم أن هناك أشخاصا.
+- **نص ALT**: نظرة طبيعية وثيقة على المواد والموضوع المتصل بشركة Foton Daimler AUMAN (China-V/VI) - الصينية - Market Heavy Tractor Truck Specs, neutral background, no people or inspection action shown.
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء: رأس جرارة مع خطوط منفصلة للانبعاثات والطاقة
 The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head. إن الصين-V EST510 والصين-VI X13 مختلفان من أجيال الانبعاث، كما أن جرار كهرباء البطاريات هو خط منفصل - يجب ألا يدمجا أبدا في مواصفات واحدة. السوق المرجعية هي الصين.
@@ -34,50 +36,49 @@ The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head.
 دائماً تذكر ما إذا كانت الوحدة هي الصين (historical) or current China-VI; لا تقدم وحدة من طراز China-V كما هي حالية. Exact GCW, حمولة العجلات الخامسة و GVW يتطلبان الإعلان عن التلويث لرمز نموذجي محدد. ولا يُقبض على استهلاك بصورة موثوقة إما للديزل أو الديزل أو الدي في، وهو مُحجب. ملف جرارة الـ 2026 بي في (المحركة الـ 350 kW)  25 000 kg total mass) يُبلَّغ عنها **separate energy line**, ليس كبديل من الديزل
 
 ## التحقق من المشتري في الخارج قبل الدفع
-1. State China-V (historical) vs China-VI current; never relabel old as current.
+1 State China-V (historical) vs China-VI current; لا يُعاد أبداً إلى الظهور كالتيّار
 2. الحصول على حمولة من الـ (جي دبليو) و(بي.و)) من إعلان التشويش
 3. أبقوا الديزل و جرارات الدي في على منفصلة
 4. Confirm ZF AMT vs كتيب سريع، مرحلة الانبعاث وقاعدة استيراد الوجهة.
 5. طلب اقتباس التصدير الحالي؛ ولا ينشر أي منها.
 
 ## FAQ
-**Is EST510 a current model?** It is the China-V line — label it historical where China-VI is current.
+** هل هو النموذج الحالي 510؟** وهو خط الصين - V - يسميه تاريخيا حيث الصين - ٦ هي حاليا.
 ** ما هو بالضبط مجلس الإدارة؟ ** حوالي 40 t درجة لـ 6x4؛ تأكيد بواسطة التهاب
 هل هناك جهاز كهربائي؟ وهناك 2026 ملف مستقل للديزل - لا يدمجه بمواصفات الديزل.
 ** أي صندوق تروس؟ ** ZF 12TX AMT أو Fast 16-speed، عن طريق البناء
 ** X13 ناتج؟** 12.9 L، 412 kW/560 hp، 2600 N·m على خط الصين السادس.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力، AMT |
-| 欧曼 EST-A 配置 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
+| | | | | 之《家《车《车《家 | | CN | T3 | | صرخ صرخ صرخ صرخ صرخ > < https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF |. |
 | 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | |（潍柴）（法士特配置）
 | 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | صرخات | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | |（国五参数线索）（公告型号）
 | 欧曼纯电 /LNG 牵引车申报 | 新浪财经 | CN | T3 | صرخات | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线، 勿混入燃油) |
 | موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** فوتون دايملر بالضبط شاحن بريطاني
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** (فولتون دايملر) شاحن بريطاني
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
@@ -91,6 +92,5 @@ The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head.
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

@@ -1,14 +1,16 @@
 # アリソン・シンギアン V6E 電気貨物バン: 電池年ロック,  6 m³ Load Bay  and  文書化Türkiyeエクスポート
-## ツイート メタデータ
-- **SEOタイトル**:Farizon V6E 電気自動車のバンスペック&輸出バイヤーノート
-- **メタ 記述**: 中国の市場Farizon (Geely) Xingxiang V6E電気貨物のバン — 60 kW/220 N·mモーター、  6 m³ cargo volume, 35.2 kWh 260 kmベース対新規51 kWhビルド、 90 km/h 限界、  and  記録されたEU-spec Türkiyeの出荷。
-- **混雑したURL**: /vehicles/farizon-xingxiang- v6e-specs/
-- ** H1 **: Farizon Xingxiang V6E (中国市場): 電気貨物のバンのSpecsおよび輸出確認
-- **主なキーワード**: ファーツィソンv6e電気貨物バンスペック
-- **二次検索条件**:Xingxiang V6Eの範囲、Farizon電気配達バン、6m3電気バン、V6E 35.2 kWh、Farizon チュールキー輸出、電気都市物流バン
-- **内部リンクの提案**: /vehicles/saic-maxus- v90-specs/; /vehicles/byd-dolphin/; /guides/ev-shipping- un3171-imdg-compliance/
-- EU-specエクスポートバッチ
-- アルト 提案**: "Farizon V6E six cubic metre electric cargo van"; 「V6E電池グレードと範囲」
+## SEOメタデータ
+- **SEOタイトル**: ファーリズン V6E 電気自動車のバンスペック&輸出バイヤーのノート
+- **メタディスクリプション**: 中国の市場Farizon (Geely) Xingxiang V6E電気貨物のバン — 60 kW/220 N·mモーター、  6 m³ cargo volume, 35.2 kWh / 260 kmベース対新規51 kWhビルド、 90 km/h 限界、  and  記録されたEU -spec Türkiyeの出荷。
+- **H1**: Farizon Xingxiang V6E(中国市場):電気貨物のバンスペックと輸出検証
+- **主要キーワード**: ファージソンv6e電動貨物バンスペック
+- **関連検索語**: Xingxiang V6Eの範囲、Farizonの電気配達バン、6m3電気バン、V6E 35.2 kWhのFarizon チュールキー輸出、電気都市物流バン
+- **推奨URL**: /vehicles/farizon-xingxiang-v6e-specs/
+- **検索意図**: Farizon Xingxiang V6E(中国市場):電気貨物バンスペックと輸出検証:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **画像候補**: 貨物 次元の湾
+- **ALTテキスト**: Farizon V6E six cubic metre electric cargo van
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 電池の年を締めて下さい 何でもの前に es を
 シンキシンV6EはFarizonの(Geelyの商用車ブランド)**電池電気都市配達バン**です。 単一の最大のスペックリスクはモデル年です。ベースビルドは** 35.2 kWh **のパックを使用し、**newerビルドは51 kWh **のものを使用し、それに応じて変化範囲が変化します。 購入注文は「V6E」のみが、どちらかで記入できます。 このページでは、**中国市場V6E(REFERENCE MARKET: CHINA)**をカバーし、ベースと新しいビルドを分離します。
@@ -52,30 +54,30 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 ウーロン-ZF TZ185XS022 の永久的な磁気モーター、60 kW/220 N·m。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
@@ -83,9 +85,9 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 | V6E は明らかにします(モーター/0–50/speed 限界) | トラック ホーム トゥーティーアオ | CN の | 担当: http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED(クロス) | 60 kW 220 N·m、90 km/h限界、葉のばねの車軸 |
 | V6E EU-spec export to Türkiye (6 m³) | 中国交通 ニュース(業界ニュースメディア) | CNメディア(輸出記録:TR) | 以下は、 https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED(クロス) | Feb-2024 EU-spec Türkiye batch,  6 m³ (news record, OEM/政府ではない; 検証されていない) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | ソーフオート | CN の | 以下は、 https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED(クロス) | |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
 | GB 38031の牽引電池の安全条件(GB 38031-2025;2026-07-01から必須新しいタイプ塗布) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | 電動パワートレインのための必須のトラクション電池の安全要件ベース |
 | GB 18384電気車両の安全要件(GB 18384-2025) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 検証済み | |
 

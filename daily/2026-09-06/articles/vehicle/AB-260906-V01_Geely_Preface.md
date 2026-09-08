@@ -6,7 +6,7 @@
 - **Primary Keyword**: Geely Preface Xingrui export specs
 - **Secondary Search Terms**: Geely Preface CMA sedan; Xingrui dimensions; Geely Preface 2.0T 8AT; Chinese sedan export China spec; Preface trim differences
 - **Suggested URL**: /vehicles/geely-preface/
-- **Search Intent**: 面向海外B端买家介绍Preface（星瑞）中国市场版本身份、尺寸/动力与版本边界
+- **Search Intent**: Understand Geely Preface (Xingrui): A China-Market CMA Sedan Buyer Reference for Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
 - **ALT Suggestion**: Front three-quarter view of a Geely Preface sedan on a neutral background

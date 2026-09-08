@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: JMC Shunda Light Truck Specs & Export Guide (GVW 4.27t, China-6)
 - **Meta Description**: Chinese-market JMC Shunda blue-plate light truck — JX493 diesel 90 kW, GVW 4.27 t, 3700 mm dropside bed, wheelbase and turning circle, plus the payload and engine-version checks exporters need.
-- **Suggested URL**: /vehicles/jmc-shunda/
 - **H1**: JMC Shunda: Chinese-Market Light-Truck Chassis, GVW and Cargo Specs for Export
 - **Primary Keyword**: jmc shunda light truck specs export
 - **Secondary Search Terms**: JMC Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China-6 diesel truck export
+- **Suggested URL**: /vehicles/jmc-shunda/
+- **Search Intent**: Understand JMC Shunda: Chinese-Market Light-Truck Chassis, GVW and Cargo Specs for Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
-- **Image Suggestions**: Shunda dropside side; cargo bed; JX493 engine; chassis frame; cab
-- **ALT Suggestions**: "JMC Shunda blue-plate light truck dropside"; "Shunda 3700mm cargo bed GVW 4.27t"
+- **Image Suggestion**: Shunda dropside side; cargo bed; JX493 engine; chassis frame; cab
+- **ALT Suggestion**: JMC Shunda blue-plate light truck dropside
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a Commercial Vehicle Page Is Built Around GVW and Payload
 For a light truck the buyer is not comparing trim levels — they are matching **GVW, rated payload, engine version and cargo body** to an operating job. The Shunda (顺达) is JMC's China-6 blue-plate light truck line. The main order risk is engine-version mixing: the documented small-truck engine is the **JX493ZLQ6D 2.499 L**, while the wider Shunda range also uses a **2.8 L 493** with different outputs. This page documents the **Chinese-market small-truck reference (REFERENCE MARKET: CHINA)**; no OEM primary sheet was captured, so figures are cross-checked trade-database values to confirm against the MIIT announcement and the vehicle certificate.

@@ -1,15 +1,17 @@
 # Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal bagi Kendaraan
 
-## SEO Metadata
-- ** Judul SEO **: China Ekspor Deklarasi Bea Cukai & Jendela Tunggal untuk Pengiriman Kendaraan
-- ** Meta Description **: Bagaimana sebuah kendaraan Cina mengekspor berkas deklarasi bea cukai ekspor melalui International Trade Single Window: saluran deklarasi, menyertai dokumen, tugas kebenaran dan mengajukan kembali setelah penolakan.
--   H1 **: China Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal untuk Kendaraan
-- ** Primary Keyword **: china expor cukai deklarasi jendela tunggal
-- ** Akhir Pencarian Second **: Cina ekspor deklarasi; jendela tunggal; bentuk deklarasi bea cukai; menyertai dokumen; izin ekspor
-- ** Sugested URL **: guide china -export-commerce-deklarasi-tunggal-window
-- ** Search Intent **: 出口车辆如何通过中国国际贸易单一窗口填制出口货物报关单 WAS随附单证与申报流程
-- *** Internal Link Sugestions **: guide moolled-export-hs-code- history guidor dokumentasi-background -history guider chini-userd- car- exports-licence process
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Cina Ekspor Deklarasi Bea Cukai & Jendela Tunggal bagi Pengiriman Kendaraan
+- **Deskripsi Meta**: Bagaimana sebuah kendaraan Cina mengekspor berkas deklarasi bea cukai ekspor melalui International Trade Single Window: saluran deklarasi, menyertai dokumen, tugas kebenaran dan mengajukan kembali setelah penolakan.
+- **H1**: Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal bagi Kendaraan
+- **Kata kunci utama**: deklarasi adat ekspor Cina jendela tunggal
+- **Istilah pencarian sekunder**: Cina expor deklarasi; jendela tunggal; bentuk deklarasi pabean; menyertai dokumen; izin ekspor
+- **URL yang disarankan**: /guides/china-export-customs-declaration-single-window/
+- **Maksud pencarian**: Memahami Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal untuk Kendaraan: apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal untuk Kendaraan, tidak ada pemeriksaan terencana atau orang-orang mengklaim.
+- **Teks ALT**: Dekat, pandangan alami dari materi dan subjek yang terkait dengan Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal untuk Kendaraan, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Apa yang sebenarnya terjadi di deklarasi ekspor
 Di sisi China, sebuah pengiriman ekspor kendaraan dinyatakan secara elektronik melalui ** International Trade Single Window **, menggunakan kredensial elektronik perusahaan (IC card USBKey). Kondektan - consignor atau broker pabean - bertanggung jawab untuk kebenaran, akurasi dan komplement deklarasi. Panduan ini mencakup proses sisi Cina saja; tujuan impor clearance adalah terpisah, negara-spesifik masalah.
@@ -40,7 +42,6 @@ Ini tidak menyediakan kode HS atau kondisi pengawasan tertentu (itu adalah kode 
 ** Bagaimana jika deklarasi ditolak? ** Koreksi ruas yang ditandai dan masukkan kembali dengan dokumen yang konsisten.
 ** Apakah biaya pialang tetap? ** Tidak - mereka bervariasi dan tidak dikutip di sini.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Ini tidak menyediakan kode HS atau kondisi pengawasan tertentu (itu adalah kode 
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH **: tepat Cina Ekspor Deklarasi Bea Cukai dan Proses Jendela Tunggal untuk Kendaraan
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact China Export Customs Declaration and the Single Window Process for Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
   - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export
   - **DE**: single window declaration, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Ini tidak menyediakan kode HS atau kondisi pengawasan tertentu (itu adalah kode 
   - **ID**: single window declaration, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: single window declaration, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: single window declaration, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CustomsClearance #SingleWindow

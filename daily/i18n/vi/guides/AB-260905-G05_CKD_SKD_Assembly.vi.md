@@ -1,15 +1,17 @@
 # CKD/SKD Hội nghị ở hải ngoại và xuất khẩu — Mô hình, phân loại và tính đồng nhất
 
-## SAO Siêu dữ liệu
-- **SSEO Titry**: CKD/SKD knockdown Hội nghị Kit E. E. và Overseas: Loại và tính tổng hợp
-- **Meta Mô tả**: Việc xuất khẩu xe CKD/SKD hoạt động như thế nào: phân loại trên hệ thống Harmonized, tại sao việc điều trị thuế/local-ably là đặc trưng của quốc gia, và những gì một người xuất khẩu Trung Quốc phải xác minh trước khi vận chuyển dụng cụ.
-- ** H1 **: CKD/SKD knockdown Epart and Overseas Assembly — Model, classification and Compliance
-- ** Từ khoá bí mật **: Kkd_Kard ra nén
-- **Secondary Search termss**: CKD SKD; knockt; hội nghị ở nước ngoài; GRI 2 (a) uncomped; thuế hội nghị địa phương
-- ** URL đã gợi ý**: /guides/ckd-kod-kew-kick-kit-sede-seble-able/
-- **Tìm kiếm Intent**: 区分 CBU/CKD/SKD 模式, 理解散件出口归类 原产地与目的国组装的关键合规问题
-- **I nội bộ Link gợi ý*: Story/, /guides/certifate-of-higin-hi story/, /guides/export-doment-history/
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: CKD/SKD Hạ cánh Hội nghị Kit E. E. và Overseas: Loại và tính tổng hợp
+- **Meta mô tả**: Việc xuất khẩu phương tiện CKD/SKD được thiết kế như thế nào: phân loại trên hệ thống Harmonized, tại sao việc sử dụng thuế má/local-ably điều trị là đặc trưng của quốc gia, và những gì một người xuất khẩu người Trung Quốc phải xác minh trước khi vận chuyển dụng cụ thể.
+- **H1**: CKD/SKD Hội nghị ở hải ngoại và xuất khẩu — Mô hình, phân loại và tính đồng nhất
+- **Từ khóa chính**: Kkd_Kard ra nén
+- **Cụm tìm kiếm phụ**: CKD SKD xuất khẩu; Bộ đồ giảm giá; Hội nghị ở nước ngoài; GRI 2 (a) chưa ráp lại; Thuế địa phương
+- **URL đề xuất**: /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Ý định tìm kiếm**: Hiểu CKD/SKD Hội Nghị Xuất khẩu và Vùng Ngoại Hải — Mô hình, phân loại và tính tổng hợp: điều mà người xuất khẩu xe cộ/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu tập trung, hình ảnh CKD/SKD khu vực xuất khẩu và hội nghị Overseas — Model, classification và Compliance, không có dàn xếp kiểm tra hoặc người tuyên bố.
+- **Văn bản ALT**: Gần đây, quan điểm tự nhiên về vật liệu và chủ đề liên quan đến hội nghị ở khu vực xuất khẩu và khu vực Overseas — Model, classification và Compl, nền tảng trung lập, không có người hoặc hành động thanh tra.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## CKD và SKD có nghĩa gì trong quyết định hỗ trợ
 A **SKD (semi-ked-down)** Các con tàu có bộ phận lắp ráp mô- đun; một **CKD (hoàn toàn gõ cửa)** các con tàu có đầy đủ thành phần cho hội nghị địa phương. Cả hai đều thay thế một xuất khẩu hoàn thiện với một mô hình có thể lắp ráp được, thường là để đáp ứng các đích chính sách có quy mô địa phương. Việc quảng cáo là có thật, nhưng kết quả pháp luật/tiff được quyết định bởi nhà chức trách tiền định **, không phải bởi người xuất khẩu Trung Quốc gán cho một cái nhãn "kD".
@@ -37,7 +39,6 @@ Trang này cố ý không** yêu cầu một định nghĩa chung về CND/SKD, 
 **Có thể thiết kế bộ dụng cụ nào cũng làm việc ở mọi chợ không? Không, điều kiện phân loại và lắp ráp là đặc trưng của đất nước.
 **Người BOM nên làm gì? Chỉ định một dòng, nguồn gốc và giá trị cho mọi thành phần trước khi phân loại.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -56,18 +57,18 @@ Trang này cố ý không** yêu cầu một định nghĩa chung về CND/SKD, 
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LASSASPERRRRY_SSKSKSTESTESSTESSSTESSSTES và Hội nghị Overseas
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact CKD/SKD Knockdown Export and Overseas Assembly
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -80,6 +81,5 @@ Trang này cố ý không** yêu cầu một định nghĩa chung về CND/SKD, 
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

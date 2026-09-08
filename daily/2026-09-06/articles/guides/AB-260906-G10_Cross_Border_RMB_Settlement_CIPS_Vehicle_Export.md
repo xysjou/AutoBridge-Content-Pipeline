@@ -6,7 +6,7 @@
 - **Primary Keyword**: cross border RMB settlement CIPS vehicle export
 - **Secondary Search Terms**: RMB trade settlement; CIPS cross-border interbank payment; renminbi export receipt; cross-border RMB tax refund; RMB invoicing exporter
 - **Suggested URL**: /guides/cross-border-rmb-settlement-cips/
-- **Search Intent**: 汽车出口企业能否用人民币结算收汇、如何办理跨境人民币结算、CIPS在其中起什么作用
+- **Search Intent**: Understand Settling Chinese Vehicle Exports in RMB: Cross-Border RMB Settlement and the Role of CIPS: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
 - **Image Suggestion**: An exporter comparing RMB settlement routes on screen with a vehicle contract and CIPS diagram
 - **ALT Suggestion**: Screen showing cross-border RMB settlement routes beside a vehicle export contract

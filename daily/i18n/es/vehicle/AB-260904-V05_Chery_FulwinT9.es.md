@@ -1,15 +1,17 @@
 # Chery Fulwin T9 (风云 T9): un SUV híbrido de tamaño mediano C-DM enchufe – Especies de China para la exportación
 
-## SEO Metadatos
-- **SEO Título**: Chery Fulwin T9 C-DM PHEV Specs " Export Guide (China Reference)
-- **Meta Descripción**: China-mercado Chery Fulwin T9 C-DM plug-in híbrido SUV — 1.5T motor dedicado, motor delantero 150 kW, batería 32.66 kWh,  120–220 km CLTC, 5/7 asientos,  and  Controles de exportadores.
-- ** URL agregada**: /vehicles/chery-fulwin- t9/
-- ** H1 **: Chery Fulwin T9 C-DM: Chino-Marcos SUV Especies y verificación de exportación
-- **Primary Keyword**: chery fulwin t9 specs export
-- **Segundary Search Terms**: Fulwin T9 C-DM, 风云 T9 plug-in híbrido, Chery T9 32.66kWh, Fulwin T9 7-seat, chino Exportación de vehículos de vehículos de alta tensión
-- **Sugerencias de Enlace Interno**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/; /guides/export-vehicle-document-package/
-- **Sugerencias de imagen**: Fulwin T9 tres cuartos; puerto de carga; distribución de asientos 5 vs 7; placa C-DM 1.5T; zona de carga
-- **Sugerencias de ALT**: "Chery Fulwin T9 C-DM plug-in híbrido SUV"; "Fulwin T9 32.66kWh batería CLTC rango"
+## Metadatos SEO
+- **Título SEO**: Chery Fulwin T9 C- DM PHEV Guía de exportación de especies (Referencia de China)
+- **Meta descripción**: China-mercado Chery Fulwin T9 C- DM híbrido de conexión SUV — 1.5T motor dedicado, motor delantero 150 kW, batería 32.66 kWh,  120–220 km  CLTC , 5/7 asientos,  and  Controles de exportadores.
+- **H1**: Chery Fulwin T9 C- DM: Chinese-Market PHEV SUV Especie y verificación de exportación
+- **Palabra clave principal**: fulwin t9 especificaciones exportación
+- **Términos de búsqueda secundarios**: Fulwin T9 C- DM, 风云 T9 híbrido de plug-in, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinese PHEV SUV export
+- **URL sugerida**: /vehicles/chery-fulwin-t9/
+- **Intención de búsqueda**: Comprende el Chery Fulwin T9 C- DM: Chinese-Market PHEV SUV Especificación y verificación de exportación: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Sugerencia de imagen**: Fulwin T9 tres cuartos
+- **Texto ALT**: Chery Fulwin T9 C- DM híbrido de plug-in SUV
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: un SUV familiar PHEV con una versión de larga base
 El Fulwin T9 es el SUV híbrido de tamaño medio de Chery C-DM, ofrecido en formas de cinco y siete asientos. Los errores de dos órdenes dominan este modelo: mezclar el **standard T9 con el estirado T9L **, y citar la gama eléctrica sin nombrar la batería. Esta página documenta **solo el estándar Fulwin T9 (REFERENCE MARKET: CHINA)**; el más largo T9L (proximadamente 4870 mm 2920 mm distancia de rueda) es un cuerpo diferente y está deliberadamente excluido. Para este modelo se captó una página de configuración OEM, que fortalece la base de la espectro.

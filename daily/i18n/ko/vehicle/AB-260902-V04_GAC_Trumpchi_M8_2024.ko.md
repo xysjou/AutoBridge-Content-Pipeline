@@ -1,15 +1,17 @@
 # GAC Trumpchi M8 2024 - 비즈니스 MPV: 시리즈 차이, 시트 레이아웃 및 수출 노트
 
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: GAC Trumpchi M8 2024 MPV Specs, 시리즈 & 좌석 수출 가이드
-- **마타 기술 **: 2024 GAC 트럼프 M8 중국 참고 specs: Lingxiu 시리즈, 2.0TGDI 185 kW, 8AT, 7-seat 레이아웃, 차원 및 해외 구매자 검증 포인트를 위한 주된/Grandmaster.
-- **수입 URL**: /vehicles/gac-trumpchi- m8/
-- ** H1 **: GAC Trumpchi M8 2024 (중국): MPV 시리즈, 인더스트리더용 시트 및 사양 맵
-- ** 출원 키워드 **: GAC Trumpchi M8 2024 사양 수출
-- **세컨드 검색 조건 **: 트럼프 치 M8 7-seat MPV, GAC M8 2.0TGDI 8AT, 트럼프 치 M8 마스터 시리즈, 중국 럭셔리 MPV 수출, GAC M8 중동
-- ** 내부 링크 제안**: /guides/right-hand-drive-chinese-cars/; /guides/commercial-truck-fleet-procurement-china/; /vehicles/forthing-lingzhi- m5/
-- ** 이미지 제안 **: 3070 mm 휠베이스를 보여주는 측면 프로파일; 두 번째 줄 선장 좌석; 세 시리즈 비교; 슬라이딩 도어와 통로; 드라이버 조종석
-- ** ALT 제안**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, 중국 spec; "Trumpchi M8 초선 선장 좌석과 통로"; "M8 마스터 대 Grandmaster vs Lingxiu 시리즈 비교"
+- **메타 설명**: 2024 GAC 트럼프패 M8 중국 참고 specs: Lingxiu 시리즈, 2.0TGDI 185 kW, 8AT, 7-seat 레이아웃, 차원 및 해외 구매자 검증 포인트를 위한 주된/Grandmaster.
+- **H1**: GAC Trumpchi M8 2024 (중국): MPV 시리즈, 시트 및 사양 인지도 수입
+- **주요 키워드**: GAC Trumpchi M8 2024 사양 수출
+- **보조 검색어**: 트럼프 치 M8 7-seat MPV, GAC M8 2.0TGDI 8AT, 트럼프 치 M8 마스터 시리즈, 중국 럭셔리 MPV 수출, GAC M8 중동
+- **추천 URL**: /vehicles/gac-trumpchi-m8/
+- **검색 의도**: GAC Trumpchi M8 2024 (중국): MPV 시리즈, 착석 및 수입용 사양지도: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/ ; /vehicles/forthing-lingzhi-m5/
+- **이미지 제안**: 3070 mm 휠베이스를 보여주는 측면 프로파일
+- **ALT 텍스트**: 2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, 중국 spec
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 왜 구매자가 M8을 봐
 
@@ -83,40 +85,40 @@ AutoBridge 문제는 정적 가격 목록보다는 실시간 견적을 발급합
 **국내 M8개 판매?** 예, GAC 그룹은 해외 GAC M8 (중동 시장을 포함); 공식 수출 구성을 사용하고 국가 LHD RHD를 확인합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 MPV
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
 ## 소스 및 검증
 
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 공식 | GAC Trumpchi (공식) | 담당자: Mr. wang | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 5212 mm 몸, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 해외 구성 | GAC 그룹 (공식) | CN/Export의 장점 | https: 으로 변경 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 185 kW 252 PS, 7 좌석, 서스펜션 | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024
-| 2024 M8 宗师 가솔린 공식 | GAC Trumpchi (공식) | 담당자: Mr. wang | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 2.0TGDI + 8AT, 400 N·m의 국내 가격 |
+| M8 大师 尊贵版 공식 | GAC Trumpchi (공식) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 5212 mm 몸, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 국내 구성 | GAC 그룹(공식) | CN/Export의 장점 | https: 으로 변경 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 185 kW 252 PS, 7 좌석, 서스펜션 | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024
+| 2024 M8 宗师 가솔린 공식 | GAC Trumpchi (공식) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 2.0TGDI + 8AT, 400 N·m의 국내 가격 |
 | Lingxiu 390T 구성 | 오토홈 (汽车之家) | 담당자: Mr. wang | https://dealer.autohome.com.cn/2133191/spec_68518.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 5089 mm 몸, 3000 mm WB, 390 N·m의 WLTC 8.85 |
-| M8 매개 변수 | PCauto (太平洋汽车년) | 담당자: Mr. wang | https: 의 | 2026-09-02 | CROSS_체크 | Wheelbase 분할, 시리즈 매핑 | https://price.pcauto.com.cn/m128883/config.html
+| M8 매개 변수 | PCauto (太平洋汽车년) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: | 2026-09-02 | CROSS_체크 | 휠베이스는, 시리즈 매핑 | https://price.pcauto.com.cn/m128883/config.html
 | Lingxiu 구성 | 이체 (易车) | 담당자: Mr. wang | https://car.yiche.com/chuanqigm8/m173683/peizhi/ 경우 | 2026-09-02 | CROSS_체크 | Lingxiu 차원, 국내 가격 |
 
 *Confidence 참고 (AutoBridge 표준): Grandmaster Master 코어 사양은 GAC의 자체 페이지 (제조 업체 공식); Lingxiu 값은 독립적 인 데이터베이스를 통해 CROSS_CHECKED입니다. 400 대 390 N·m 보정은 의도적으로 시리즈에 의해 분리 유지; 하이브리드 (双擎) 사양은 asserted되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************

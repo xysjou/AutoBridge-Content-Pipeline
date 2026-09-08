@@ -1,14 +1,16 @@
 # セイント 具体的なミキサーのトラック(SYシリーズ): 読む シャーシとして+超構造+ドラム容量
-## ツイート メタデータ
-- ** SEO のタイトル**: SANY のトラックのミキサーのトラックのSpecs: ドラム容量、シャーシ及び輸出
-- **メタ 記述**: Chinese-market SANY SY-series mixer trucks — 6–10 m³ drums,  SY310C-8S(V) 10 m³ with 400 L water tank, 日野・夕日・水海・山 パワーエンジン, 統合されたフレーム,  and  8×4 BEVオプション
-- **混雑URL**: /vehicles/sany-concrete-mixer-truck-specs/
-- H1 **: SANY SYシリーズコンクリートミキサートラック(中国市場): 構造、シャーシおよび輸出点検
-- **主なキーワード**: sany コンクリートミキサー車仕様
-- **二次検索条件**:SANY SY310Cミキサー、10m3ミキサートラック、コンクリートミキサーシャーシのスーパー構造、SanyパワーD09C5、電動ミキサートラック8x4、ミキサードラム容量
-- **内部リンクの提案**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/yutong- zk6122-coach-specs/; /guides/vehicle-pre-shipment-inspection-psi/
-- **イメージ提案**:ミキサードラムとシュート;シャシ+上部構造面;一体型フレーム;水漕;8×4電動ミキサー
-- アルト 提案**: "SANY SY310C ten cubic metre mixer truck"; 「ミキサートラックのシャーシおよびドラム上部構造」
+## SEOメタデータ
+- **SEOタイトル**: SANY  Concrete Mixer Truck Specs: ドラム容量、シャーシ及び輸出
+- **メタディスクリプション**: Chinese-market  SANY   SY -series mixer trucks — 6–10 m³ drums,   SY310C-8S (V) 10 m³ with 400 L water tank, 日野・夕陽・水海・山 パワーエンジン, 統合されたフレーム,  and  8×4 BEVオプション
+- **H1**: SANY SY -シリーズコンクリートミキサートラック(中国市場):スーパー構造、シャーシおよび輸出チェック
+- **主要キーワード**: sany コンクリートミキサー トラックの指定
+- **関連検索語**: SANY SY310Cミキサー、10m3ミキサーのトラック、具体的なミキサーのシャーシの上部構造、Sany力D09C5の電気ミキサーのトラック8x4のミキサーのドラム容量
+- **推奨URL**: /vehicles/sany-concrete-mixer-truck-specs/
+- **検索意図**: SANY SY -シリーズコンクリートミキサートラック(中国市場):スーパー構造、シャーシおよびエクスポートチェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/yutong-zk6122-coach-specs/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **画像候補**: ミキサードラムとシュート
+- **ALTテキスト**: SANY SY310C ten cubic metre mixer truck
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: a Special Vehicle Is Two Products Bolted Together
 ミキサー車は、**専用車**:トラック**シャーシ**と回転ドラム**のスーパー構造**独自の油圧ドライブ、水システム、放電装置。 **ドラム容量→シャーシ/エンジン→GVW/アキル→スーパー構造機器**でそれをスペックし、均質なモデルコードに対する全組み合わせを確認します。 このページでは、SANYの**中国市場SYシリーズ(REFERENCE MARKET: CHINA)**をカバーしています。 SANYの製品ラインとモデルページはOEMのソースであり、電気的変種は取引媒体を介して報告されています。
@@ -47,30 +49,30 @@ SANY's line spans three drum-size bands: **6–7 m³ 8–9 m³ 10 m³** (OEM pro
 いいえ — 法的ペイロードは GVW と目的地のアクスルロードルールによって設定されます。ドラムのボリュームだけではありません。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle concrete mixer truck
-  - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) camion malaxeur à béton
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) Betonmisch-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — SANY SY-series, vehículo de combustión (mercado chino) camión hormigonera
-  - **PT**: Referência AutoBridge para compradores de exportação — SANY SY-series, veículo a combustão (mercado chinês) caminhão betoneira
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SANY SY-series, 中国市場仕様 内燃機関車 コンクリートミキサー車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SANY SY-series, 중국 시장 내연기관 차량 콘크리트 믹서 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SANY SY-series, xe động cơ đốt trong (thị trường Trung Quốc) xe trộn bê tông
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SANY SY-series, รถเครื่องยนต์สันดาป (ตลาดจีน) รถโม่ปูน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SANY SY-series, kendaraan mesin pembakaran (pasar Tiongkok) truk molen beton
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) شاحنة خلط خرسانة
-  - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 混凝土搅拌车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle / concrete mixer truck
+  - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) / camion malaxeur à béton
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) / Betonmisch-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — SANY SY-series, vehículo de combustión (mercado chino) / camión hormigonera
+  - **PT**: Referência AutoBridge para compradores de exportação — SANY SY-series, veículo a combustão (mercado chinês) / caminhão betoneira
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SANY SY-series, 中国市場仕様 内燃機関車 / コンクリートミキサー車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SANY SY-series, 중국 시장 내연기관 차량 / 콘크리트 믹서 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SANY SY-series, xe động cơ đốt trong (thị trường Trung Quốc) / xe trộn bê tông
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SANY SY-series, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถโม่ปูน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SANY SY-series, kendaraan mesin pembakaran (pasar Tiongkok) / truk molen beton
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
+  - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
@@ -79,9 +81,9 @@ SANY's line spans three drum-size bands: **6–7 m³ 8–9 m³ 10 m³** (OEM pro
 | SY310C-8S(V) 10 m³ model parameters | サンアイグループ(OEM公式) | CN/グローバル製品 | 以下は、 https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ の | 2026-09-03 | 検証済み | 10 m³ drum, 400 L 水, D09C5-380E3 エンジン |
 | サンイ電気ミキサー発表(350 kW) | トラック ホーム トゥーティーアオ | CN の | 担当: http://m.toutiao.com/group/6877415697362715147/ の | 2026-09-03 | シングル_ソース | 8×4 BEV、350ピーク/ 215定格kW |
 | SANY integrated frame 20 m³ mixer | | CN の | 担当: http://m.toutiao.com/group/6705156123395097102/ の | 2026-09-03 | CROSS_CHECKED(クロス) | 統合フレームエンジニアリング、大型クラスコンテクスト |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国のVI | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+|  GB  17691-2018 の頑丈なディーゼル車の汚染物質の放出 (中国  VI) | エコロジー・環境省 (MEE) |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 中国の  VI  | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
 | GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 ※本機能:ドラム容量やエンジンブランドは、SANY社のOEMページ(スコープ=製品仕様)にて検証されています。 一体型フレームのディテールとBEVモーターは、単一ソースで、現在の均質なモデルコードの確認が必要です。 価格は主張しません。 ふりがな

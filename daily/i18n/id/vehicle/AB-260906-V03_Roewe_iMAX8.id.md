@@ -1,16 +1,16 @@
 # Roewe iMAX8: A China- Market Even-Seat MPV Referensi Pembeli untuk Ekspor
-## SEO Metadata
-- ** SeO Judul ** Roewe iMAX8 MPV Ekspor Specs: Pembuatan, Dimensi, 2.0T Panduan Pembeli
-- ** Meta Description **: Referensi pasar untuk Roewe iMAX8 7-seat MPV: 2+2+3 tempat duduk dan ruang, dimensi, model - tahun tergantung 2.0T kalibrasi tetap terpisah, dan ekspor langkah verifikasi.
--   H1 **: Roewe iMAX8: A China- Pasar tujuh-Kursi MPV Referensi Pembeli untuk Ekspor**
-- ** Primary Keyword **: Roewe iMAX8 ekspor spesifikasi
-- ** Akhir Pencarian Second **: Roewe iMAX8 MPV; iMAX8 7 kursi 2+2+3; iMAX8 dimensi pangkalan roda; SAIC MPV ekspor; iMAX8 2.0T Aisin 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- ** Cari Intent **: 面向海外 B 端买家介绍 iMAX8 中国市场版本身份: 座椅空间 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- ** * Sugesti Gambar **: Sebuah Roewe iMAX8 MPV tampilan samping menyoroti panjang pangkalan roda dan geser pintu belakang
-- ** ALT Saran **: Sisi tampilan Roewe iMAX8 tujuh kursi MPV menampilkan pintu geser dan pangkalan roda panjang
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: Roewe iMAX8 MPV Ekspor Specs: Pembantaian, Dimensi, 2.0T Panduan Pembeli
+- **Deskripsi Meta**: Referensi pasar untuk Roewe iMAX8 7-seat MPV: 2+2+3 tempat duduk dan ruang, dimensi, model - tahun tergantung 2.0T kalibrasi tetap terpisah, dan ekspor langkah verifikasi.
+- **H1**: Roewe iMAX8: A China- Pasar Tujuh-Kursi MPV Referensi Pembeli untuk Ekspor
+- **Kata kunci utama**: Spesifikasi ekspor Roewe iMAX8
+- **Istilah pencarian sekunder**: Roewe iMAX8 MPV; iMAX8 7 kursi 2+2+3; iMAX8 dimensi pangkalan roda; SAIC MPV ekspor; iMAX8 2.0T Aisin 8AT
+- **URL yang disarankan**: /vehicles/roewe-imax8/
+- **Maksud pencarian**: Mengerti Roewe iMAX8: Sebuah Cina - Pasar Tujuh-Kursi MPV Referensi Pembeli untuk Ekspor: exportir kendaraan / suku cadang apa yang harus diverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Saran gambar**: Sebuah Roewe iMAX8 MPV sisi tampilan menyoroti panjang roda dan geser pintu belakang
+- **Teks ALT**: Sisi melihat dari Roewe iMAX8 tujuh kursi MPV menunjukkan pintu geser dan pangkalan roda panjang
+- **Cakupan skema**: Artikel + Kendaraan
 
 Roewe iMAX8 adalah pembawa orang-orang penting di Amerika - sebuah lima pintu, tujuh kursi (2+2+3) di depan - roda-drive MPV ditujukan pada keluarga dan pengangkutan pesawat ulang-ulang. Untuk ekspor, MPV dibeli untuk tempat duduk dan ruang pertama dan tenaga kuda kedua, jadi halaman ini memimpin dengan arsitektur kabin. Ini mencakup ** bensin iMAX8 saja **; setiap hibrida atau listrik iMAX8 varian adalah produk yang berbeda dan sengaja tidak dicampur masuk
 

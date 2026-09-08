@@ -1,15 +1,17 @@
 # 切里·阿里佐 8 (艾瑞泽 8):中国-马赛特 1.6T 出口购买者的沙隆标本表
 
-## 道德操守办公室 元数据
-- ** SIO标题**:Chery Arrizo 8 Specs & Export Buyer Guide(1.6TGDI,中国参考)
-- **Meta 描述**:中国市场 切里·阿里佐 8 — 1.6T 昆鹏 145 kW 290 N·m, 7DCT, 4780 mm 尸体,这很重要的修饰区别,以及进口商在订购前核实的是什么.
-- ** 提议URL**:车辆/干燥-Arrizo-8/
-- ** H1 资源需求。 **:切里·阿里佐 8:中国市场规格和出口核查说明
-- ** 初级关键词**:chery arrizo 8 光谱导出
-- ** 二级搜索术语**:Arrizo 8 1.6TGDI,Chery Arrizo 8尺寸,艾瑞泽 8出口,Kunpeng SQRF4J16,中国紧凑轿车出口
-- ** 内部链接建议**: /指南/万姓牌核查-钦安车辆/;/指南/排放-燃料兼容-钦安车辆/;/指南/出口-车辆-文件-包装/
-- ** 图像建议**:Arrizo 8前四分之三;引擎盖1.6TGDI徽章;后舱腿室;7DCT选择器
-- ** ALT建议**: "Chery Arrizo 8 1.6TGDI 中国市场轿车"; "Arrizo 8维4780mm轮式车基2790mm"
+## SEO元数据
+- **SEO标题**: 切里·阿里佐 8 Specs & Export Buyers Guide (1.6TGDI,). 中国参考).
+- **Meta描述**: 中国市场 切里·阿里佐 8 — 1.6T 昆鹏 145 kW / 290 N·m, 7DCT, 4780 mm 尸体, 两者的区别很重要, 进口商在订购前核实什么。
+- **H1**: 切里·阿里佐 8:中国市场规格和出口核查说明
+- **核心关键词**: 樱桃 arrizo 8 光谱导出
+- **次级搜索词**: Arrizo 8 1.6TGDI, Cherry Arrizo 8 维度, 艾瑞泽 8 出口, 昆鹏 SQRF4J16, 中国紧凑轿车出口
+- **建议URL**: /vehicles/chery-arrizo-8/
+- **搜索意图**: 了解Chery Arrizo 8:中国市场规格和出口核查说明:车辆/部件出口商在承诺订购之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **图片建议**: 阿里索8号
+- **ALT文本**: 切里·阿里佐 8 1.6TGDI (英语). 中国市场轿车
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景:小汽车场上方的近B区沙龙座
 阿里佐8号是切里继位的轿车,大小在传统紧凑场和B区间,并投放在想要比进货轿车更后方空间的买家身上. 对于出口商来说,开场问题不是价格,而是** 所引用的电动列车线路**:中国范围是建造在1.6-litre涡轮机车左右,本页记录了** 1.6TGDI DCT中国市场汽车(REFERENCE MARKET: CHINA)**。 下面的每个数字都是**中国市场参考规格**,而不是全球规格——目的地调调,排放同位素和设备由当地市场设定,在研究包中也没有为这个模型捕获OEM海外规格表.
@@ -67,16 +69,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+- ** ** 自动桥出口-买方参考——切里·阿里佐8,汽油/柴油中国市场车辆轿车
+- **法国**: 出口切里·阿里佐汽车(Référence AutoBridge) 8号,中国建筑商泊车
+- DE**: 国家 AutoBridge-Referenz für Exportkäufer — 切里·阿里佐 8, 韦尔布伦纳(chinesischer Markt) 互联网档案馆的存檔,存档日期2013-03-02. 利摩斯语
+- **ES**: 出口控制中心——Chery Arrizo 8, vehículo de buxustion (中文(简体) ). .
+-  **: 出口控制中心——Chery Arrizo 8, viículo a burnustão (mercado chinês) sedãs
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+- 身份证**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
   - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 

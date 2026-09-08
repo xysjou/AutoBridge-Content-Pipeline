@@ -1,15 +1,17 @@
 # Truk Traktor Sinotruk HoW T7H - 6 x 4 Specs Haluler Lebatweather condition  and  Ekspor Konfigurasi Panduan
 
-## SEO Metadata
-- ** Judul SEO **: Sinotruk HOWO T7H 6x4 Tractor Spector, Mesin & Ekspor Panduan
-- ** Meta Description **: HOWO T7H traktor kepala: Weichai 460 PS Cina membangun vs MAN- teknologi MC11/MC13 ekspor mesin, 12-speed AMT, 40 t GCW, axles, Euro V VI pilihan dan pembeli titik verifikasi.
-- ** Sugested URL **: kendaraan sinotruk-howo - t7h-tractor/
-- ** H1 **: Sinotruk HoW T7H Traktor: Pilih Mesin, Driveline dan Ekspor Emisi Benar
-- ** Primary Keyword **: Sinotruk HOW T7H spesifikasi truk traktor
-- ** Akhir Pencarian Second **: HOWO T7H 6x4 460, Sinotruk MC13 540 traktor, truk Weichai WP10.5H, ekspor traktor berat Cina, HOWO Euro V traktor kepala, truk traktor LNG
-- ** Internal Link Sugestions **: kendaraan shacman - x3000-dump-truck/; pemandu pemandu truk-komersial -sleet- procurement -china guide import- chince- truk -saso /.
-- *** Saran Gambar *: 6x4 dilihat dari sisi traktor; Weichai vs mesin MC perbandingan; roda lima dan roda tandem; tinggi-atap tidur taksi; 12-speed pemilih AMT
-- ** Sugesti ALT **: "Sinotruk Howa T7H 6x4 traktor kepala, Cina ekspor konfigurasi"; "HOWO T7H tandem drive axles dan roda kelima"; "MC13 540 manusia-teknologi diesel mesin"
+## Metadata SEO
+- **Judul SEO**: Sinotruk HOWO T7H 6x4 Specs Traktor, Petunjuk Mesin & Ekspor
+- **Deskripsi Meta**: HOWO T7H traktor kepala: Weichai 460  PS  China build vs  MAN -technology  MC11/MC13  export engines, 12-speed AMT, 40 t GCW, Axel, Opsi Euro V / VI  and  Pembeli verifikasi poin.
+- **H1**: Sinotruk HOWO T7H Tractor: mesin pilih, Driveline dan Ekspor Emisi benar
+- **Kata kunci utama**: Ekpor truk traktor Sinotruk HOWO T7H
+- **Istilah pencarian sekunder**: HOWO T7H 6x4 460, Sinotruk MC13 540 traktor, truk Weichai WP10.5H, ekspor traktor berat Cina, HOWO Euro Kepala traktor V, LNG truk traktor
+- **URL yang disarankan**: /vehicles/sinotruk-howo-t7h-tractor/
+- **Maksud pencarian**: Memahami Tractor HOWO T7H Sinotruk: Mesin Memilih, Driveline dan Expor Emission Benar: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/shacman-x3000-dump-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
+- **Saran gambar**: 6x4 tampilan samping traktor
+- **Teks ALT**: Konfigurasi traktor Sinotruk HOWO T7H 6x4, konfigurasi ekspor Cina
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Apa T7H Is
 
@@ -67,30 +69,30 @@ Apa bedanya 460 dan 540 T7H? Di luar kekuasaan, mereka dapat menjadi keluarga me
 ** Mengapa beberapa angka tunggal -sumber? ** Data pengumuman China terdetail berasal dari pilihan keluarga dan ekspor dikonfirmasi oleh saluran resmi Sinotruk. Periksa silang sebelum dokumen terakhir. 360che
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 重型牵引车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
 ## Sumber & Verifikasi
 

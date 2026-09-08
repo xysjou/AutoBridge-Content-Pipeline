@@ -1,15 +1,17 @@
 # 吉利兴远/银河兴远(2025/2026)——中马BEV样板与出口核查.
 
-## 道德操守办公室 元数据
-- ** SIO标题**:吉利兴业(银河兴业) BEV:中马标本和导出指南
-- **Meta Directoration**:中市吉利兴远/星辰小EV:GEA架构,RWD,58/85 kW马达,310/410 kmCLTC,40.16 kWh线及出口买家检查.
-- ** H1 资源需求。 **:吉利兴业 Galaxyuan (2025/2026)——中马BEV样板与出口核查.
-- ** 类出口（吉利星愿）（吉利）（星愿）
-- ** 二级搜索术语**:吉利兴远出口;银河兴远规格;吉利星威;中国小电源舱背;CLTC城市EV
-- ** 建议的URL**:车辆/大黄蜂/
-- ** 搜索意向**:了解 Geely 吉利 Xingyuan 吉利星愿 (银河星愿) 中国版规格 – 配置与出口适配性 (车型参数页)
-- ** 内部链接建议**:车辆/大黄蜂/、指南/前货un3556-imdg-compliance-history/、指南/出口遵守-制裁-筛选-最终用户/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: 吉利兴业(银河兴业) BEV:中马标本和出口指南
+- **Meta描述**: 中国市场吉利兴远/星际迷航小EV: GEA 建筑,   RWD ,  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh号线  and  出口买方检查。
+- **H1**: 吉利兴远/银河兴远(2025/2026)——中马BEV标本与出口核查.
+- **核心关键词**: Geely / 吉利 X / 吉利星愿 (银河星愿) 光谱出口
+- **次级搜索词**: 吉利兴远出口;银河兴远区规格;吉利星威;中国小电源舱背;CLTC城市EV
+- **建议URL**: /vehicles/geely-xingyuan/
+- **搜索意图**: 了解吉利兴业/银河兴业(2025/2026)——中马BEV 证照和出口核查:车辆/部件出口商在承诺执行命令之前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **图片建议**: 现实的,文件/车辆聚焦的场景,说明吉利兴远/银河兴远(2025/2026)——中马BEV标本和出口检验,没有进行阶段检查或有人声称.
+- **ALT文本**: 近,自然的看材料和与吉利兴业/银河兴业(2025/2026)有关的课题——中马BEV种斑点和博览会,中立背景,没有显示人或检查行动.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 买家上下文和模式身份
 **Geely Xingyuan(银河X,在一些出口市场以单独的英文名称销售)**是吉利的**GEA**EV架构上的A0个五门电池电源舱背,带有**rear-motor/rear-wheel驱动器**. 本页为**中国市场**参考文献;海外模型名称没有OEM说明,不作为相同名称处理.
@@ -53,7 +55,6 @@
 **Is 410 km WLTP?** No — CLTC.
 船怎么开的? 以目前IMDG类(UN3556)为完整无缺的锂离子电池EV;与承运人确认。
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
--   ************                                  
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Xingyuan
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
@@ -95,6 +96,5 @@
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

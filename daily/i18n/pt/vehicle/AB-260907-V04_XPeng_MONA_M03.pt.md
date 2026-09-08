@@ -1,16 +1,16 @@
 # XPeng MONA M03: Uma China-Market Compact Sedan Sedan Referência elétrica construída em torno da bateria–Range–Motor Matrix
-## SEO Meta- dados
-- ** Título SEO**: XPeng MONA M03 China-Market EV Specs  and  Exportar verificação do comprador.
-- ** Descrição do Meta**: Referência do mercado chinês para o sedan elétrico XPeng MONA M03: 51.8/62.2 kWh LFP batteries, Níveis de intervalo CLTC  and  140/160 kW motors kept mapped by SKU, mais as etapas de verificação da exportação.
-- ** H1 **: XPeng MONA M03: Uma China-Market Compact Sedan Sedan Referência elétrica construída em torno da bateria-range-Motor Matrix
-- **Chave Primária**: XPeng MONA M03 especificações de exportação
-- ** Termos de pesquisa secundários**: 小鹏 MONA M03; MONA M03 CLTC range; MONA M03 62.2 kWh; XPeng M03 160 kW; exportação de sedan elétrico chinês; Cd 0.194
-- ** URL sugerida**: /veículos/xpeng-mona- m03/
-- **Intenção de pesquisa**: 面向海外买家介绍小鹏 MONA M03 中国市场身份, 电池 / CLTC 续航 / 电机的 SKU 对应关系与版本边界
-- **As sugestões de ligação interna**: /veículos/deepal- s05/, /veículos/dongfeng-aeolus-yixuan/, /guias/ev-shipping- un3556-imdg-compliance/
-- *Image Suggestion**: Um sedan elétrico de fastback do XPeng MONA M03 mostrado da frente em um fundo neutro
-- **ALT Sugestão**: Vista frontal de três quartos de um sedan elétrico XPeng MONA M03 em um fundo de estúdio neutro
-- **Espécie de âmbito**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+## Metadados SEO
+- **Título SEO**: XPeng MONA M03 China-Mercado EV Especificações e Exportar Verificações do Comprador. AutoBridge
+- **Meta descrição**: Chinese-market reference for the XPeng  MONA  M03 electric sedan: 51.8/62.2 kWh  LFP  batteries, CLTC níveis de gama  and  140/160 kW motors kept mapped by  SKU , mais as etapas de verificação da exportação.
+- **H1**: XPeng MONA M03: Uma China-Market Compact Sedan Sedan Referência elétrica construída em torno da bateria–Range–Motor Matrix
+- **Palavra-chave principal**: XPeng MONA M03 Especificações de exportação
+- **Termos de busca secundários**: 小鹏 MONA M03; MONA M03 CLTC range; MONA M03 62.2 kWh; XPeng M03 160 kW; exportação de sedan elétrico chinês; Cd 0.194
+- **URL sugerida**: /vehicles/xpeng-mona-m03/
+- **Intenção de busca**: Understand XPeng  MONA  M03: Uma referência Sedan elétrico compacto de mercado da China construída em torno da matriz da bateria–range–motor: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Sugestão de imagem**: Um sedan elétrico de fastback XPeng MONA M03 mostrado da frente três quartos em um fundo neutro
+- **Texto ALT**: Vista frontal de três quartos de um sedan elétrico XPeng MONA M03 em um fundo de estúdio neutro
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 O XPeng MONA M03 é o compacto sedan elétrico de cinco lugares da XPeng, lançado na China em agosto de 2024 em um layout de tração dianteira com um coeficiente de arrasto anormalmente baixo. Para um comprador de EV no exterior, a disciplina é diferente de um carro ICE: a ordem deve bloquear a capacidade de bateria **, a faixa de teste-ciclo e o motor como um SKU igualado**, porque o M03 é vendido em várias combinações que são fáceis de misturar. Esta página é uma referência ** Chinesa-mercado**; todas as faixas são **CLTC** e não deve ser comparado com os números WLTP/NEDC, o fornecedor de baterias não é afirmado, e padrões de exportação-mercado de carregamento exigem evidência separada.
 

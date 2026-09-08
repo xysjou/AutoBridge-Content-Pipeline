@@ -1,14 +1,17 @@
 # التفتيش الصيني قبل التصدير: البطارية سوه مُنحت بشكل لائق، بالإضافة إلى فحص الحوادث والفيضانات والأدومتر
-## SEO Metadata
-- ** عنوان المنظمة**: التفتيش الصيني المستعمل على المركبات: البطارية سوه، فلورود أودوميتر الشيكات
-- ** وصف البيانات**: كيفية تفتيش أي فتيل صيني مستعمل قبل التصدير - ما يعنيه ذلك فعلاً بموجب معايير البطاريات، وفحص الشحنات المميتة، وقراءة التوازن الخلوي، وفحص وفحص الدراجات العنيفة، دون اختراع عتبة قانونية.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشاد/استفتاء مستعمل من الصين إلى الصين
-- ** H1 **** تفتيش موقع التصوير المقطعي الصيني المستخدم قبل التصدير: ما يعنيه عدد البطاريات وما الذي يُرفض
-- ** كلمة مفتاحية برية**: مستعملة في قائمة التفتيش الصينية على المركبات الإلكترونية
-- ** محطات البحث الثانية**: معيار التردد العالي جداً للبطارية الكهربائية HC/T 743، ومعدل الحياة في الدورة استخدم خلل الخلايا الكهربائية EV، وفحص الأضرار الناجمة عن الفيضانات، وحساب دورة البطاريات العمودية 31484
-- ** مقترحات داخلية بشأن الروابط**: بين الصين والبلديات، مع المستوى الصيني، مبادئ - صينية - مقابل صدى - إيك -
-- ** اقتراحات تتعلق بالنص**: تشخيص برمجيات الصحة الجنسية والجهاز الخلوي؛ metered 20–80% charge worksheet; - نقاط التفتيش بالطيور الخفيفة؛ عينة تسجيلات
-- ** اقتراحات بشأن: تقرير تشخيصي مستقل يبين وجود فرق كبير في الزنزانة، وصحيفة اختبار الطاقة المقومة، وعلامة تفتيش للبطارية، وعلامة تفتيش للبطارية
+## بيانات SEO الوصفية
+- **عنوان SEO**: Used Chinese  EV  Inspection: Battery SOH, Flood ' Odometer الشيكات
+- **وصف Meta**: كيفية تفتيش EV صيني مستعمل قبل التصدير - أي ما يعنيه SOH في الواقع بموجب معايير البطاريات، وفحص الشحنات المميتة، وقراءة التوازن الخلوي، وفحص الحوادث/الفيضانات، وفحص الدراجات العتيقة، دون اختراع عتبة قانونية.
+- **H1**: Inspecting a Used Chinese  EV  Before Export: ما يعنيه البطارية وما الذي سيرفضه
+- **الكلمة المفتاحية الرئيسية**: used Chinese  EV  inspection battery  SOH  checklist
+- **مصطلحات بحث ثانوية**: EV بطارية SOH معياري QC/T 743   GB/T  31484 cycle life,  used  EV  cell voltage imbalance,   EV  flood damage inspection, عدّة دورات البطارية
+- **URL المقترح**: /guides/used-chinese-ev-inspection/
+- **نية البحث**: فهم التفتيش على EV صيني مستعمل قبل التصدير: ما يعنيه عدد البطاريات وما ينبغي رفضه: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من أمر ما ويوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **اقتراح الصورة**: تشخيص - ملعب SOH وأجهزة قراءة ذات صبغة خلية
+- **نص ALT**: تقرير تشخيصي مستقل يبين وجود SOH فرق في الزنزانات القصوى
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
+
 ## النطاق: دليل تفتيش، وليس مناقشة جديدة الاستعمال
 ويتخذ القرار المتعلق بشراء**** كما ورد؛ وتغطي هذه الصفحة التفتيش التقني ** قبل التصدير**. وتهيمن على اقتصاديات المركبات الإلكترونية المستعملة البطارية ذات الطفرة العالية: فالجثة النظيفة التي تحمل حزمة دودة يمكن أن تكون أقل من تكلفة الاستبدال بعد الشحن، وبالتالي فإن أمر التفتيش للعمليات يختلف عن سيارة تابعة للشركة. الهدف الرئيسي هو أن يكون دقيقاً حول ما هو "OH 80%" في الواقع... مرجع هندسي، وليس خط جمارك عالمي.
 ## ماذا؟ هو - وما هو الشكل 80% في الواقع معنى
@@ -44,7 +47,7 @@ A clocked EV shows an **odometer inconsistent with battery cycle counting and we
 - الذي يفشل ** خط قبولك الموثق الخاص** (المجموعة من قاعدة الضمان التجاري + هامش التجارة) - وليس بوابة قانونية عالمية أسطورية تبلغ 80%.
 ## قائمة اختبار القبول
 - تقرير مستقل: SH ** و** اختلال التوازن في الحركة إلى أقصى حد ممكن، مع تسجيل الأدوات/التحويل/التاريخ.
-- Metered 20). 80% charge test (SOC, kWh, power curve, time).
+-معدّل 20 80 في المائة اختبار الشحنات (مجلس التلقيم الصناعي، الكيلوواط، منحنى الطاقة، الوقت).
 - تم تفتيش موصلات للصيد بالبطارية والمركبات ذات الأشعة فوق البنفسجية من أجل الإزالة/الحرق.
 - الخدمة + تاريخ المطالبة بالتأمين؛ فحصت علامات الاصطدام/السرقة/الطلقات.
 - تمت تسوية الأودوميتر مع دورات الشحن والملابس البدنية.
@@ -58,17 +61,17 @@ A clocked EV shows an **odometer inconsistent with battery cycle counting and we
 ** لماذا تلف الفيضانات خطير بوجه خاص في سيارة إي في؟** ويمكن أن يُقلل من حجم الحزمة ويُضفي على الخفية، مما يتسبب في حدوث إخفاقات في السلامة والموثوقية بعد التصدير.
 ** كيف يتم رصد احتيال الشرياني على الأشعة السينية؟** Compare displayed milesage with battery cycle counting and physical wear; low odometer with high cycles is a warning.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
@@ -87,10 +90,10 @@ A clocked EV shows an **odometer inconsistent with battery cycle counting and we
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | GB/T traction-battery cycle-life requirements/test methods | المعيار الوطني الصيني (الهيئة المعنية بالتساوق**) | CN | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | ** مصدق عليه** | إطار اختبار متطلبات القدرة الأولية | 31484
-| IEC 62660-1/2 Lethium-ion cell performance/life testing | اللجنة الدولية المعنية بالتكنولوجيا (الهيئة الدولية للمعايير**) | Global | https://www.iec.ch/ (سلسلة IEC 62660) | 2026-09-03 | ** مصدق عليه** | أساس معياري لأداء |
-| GB/T 46991.1-2025 on-board SOH/SOC display accuracy " durability (MIIT/SAC) | المعيار الوطني الصيني الموصى به (الهيئة المعنية بالمعايير**) | CN | : الإبلاغ عن طريق التغطية بالمعايير؛ والأساس في قنوات SAC/MIIT | 2026-09-03 | صرخات | يجري توحيد الدقة في التعامل مع الوضع الصحي على حدة (وليس خطاً قانونياً للواردات) |
+| IEC 62660-1/2 Lethium-ion cell performance/life testing | Committee International Use (Irit**) | Global | https://www.iec.ch/ (IEC 62660) | 2026-09-03 |тететете  أساس ?
+| GB/T 46991.1-2025 on-board SOH/SOC display accuracy " durability (MIIT/SAC) | الإبلاغ عن طريق التغطية بالمعايير؛ والأساس في قنوات SAC/MIIT | 2026-09-03 | صرخات | يجري توحيد الدقة في التعامل مع الوضع الصحي على حدة (وليس خطاً قانونياً للواردات) |
 | تركيبات سوتش  and  the QC/T 743 80% end-of-life convention | LNC موضح تقني (صناعات) | Global | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE OURCE | صيغة بناء على القدرات في مجال الصحة الإنجابية؛ 80% كإشارات نهاية العمر في الصناعة |
-| النقاط الأساسية لشراء أجهزة التصوير المحتوية على سواتل الشحن | ييتش، دونغشيدي (وسائط الإعلام؛ المراجع المتعلقة بالطرق) | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | SINGLE OURCE | طريقة التفتيش، اختبار الشحن، الحوادث/الفيضانات/المناظر |
+| | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03. الفقرتان 21 و 21 من المعسكرات
 | 懂车帝 二手车电池检测内容 | 懂车帝（字节跳动） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE OURCE | 20%-80% 充电验证衰减方法 |
 | 懂车帝 二手电车三招排除事故/泡水/调表 | 懂车帝（视频） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE OURCE | 事故 泡水 调表排查方法 电池包护板拆装痕迹 |
 | Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar(行业站) | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE OURCE | 出口 SOH≥80% 认证门槛（EU/东盟） |

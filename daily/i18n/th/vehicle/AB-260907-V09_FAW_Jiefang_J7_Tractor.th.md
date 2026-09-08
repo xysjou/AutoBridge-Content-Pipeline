@@ -1,16 +1,16 @@
 # FAW Jiefang J7 Tractor: A China-Muset หนัก-Truck อ้างอิงที่รักษาจีน 5 และจีน 6 รุ่นนอก
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: FAW Jiefang J7 China- Magnetor Specs และส่งออก Checks   AutoBridge
-- ""คําอธิบาย" Chinese-market reference for the FAW Jiefang J7 heavy tractor: the historical China-5 CA6DM3 550 PS line kept separate from the current China-6 CA6SX1 up-to-600 PS line, การจัดวาง 6x4 แบบ  and  เช็คส่งออก
-- **H1**: FAW Jiefang J7 Tractor: สืบค้นเมื่อ ค.ศ. จีน-มาร์เก็ต อ้างอิงแบบหนา-ทรุค ที่รักษาจีน- 5 และจีน 6 รุ่น
-- ~คําสําคัญในคอลัมน์ ~: FAW แฟ้มภาพประเภท Jiefang J7
-- ~การค้นหาโดยย่อ: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; จิฟกัง J7 6x4 รถแทรกเตอร์;  Ji; ส่งออกรถบรรทุกหนักจีน; จีน-6 J7 600 PS
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกนิกส์/ฟอว์-จีฟรัง- j7-tractor/
-- สืบค้นเมื่อ 面向海外买家介绍解放 J7 中国市场身份 严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- ~ ลิงก์ภายในแนะนํา~: / สืบค้นเมื่อ://///////////////ชิงชิงแชมป์-ไอซุซุ- kv100/, / วีเซล/โซโมไลออน- ztc250h-truck-crane/ / ไกด์/ชินา-วีนิก-เอ็กซ์พอร์-เอ็กซ์พอร์ส-อิคเตอร์-อิคเตอร์-อิคเตอร์-อิคเตอร์-อิลิเตอร์-ค.ศ.
-- เคล็ดลับที่: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
-- ~~~~~~~~~ ข้อเสนอ: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
-- ~Schema Scop~: มาตรา + carb (ไม่มี Prodult/Offer/Price/Review/Ring)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: FAW เจียวเจิง J7 China- Magnetor Specs และส่งออก Checks   AutoBridge
+- **คำอธิบาย Meta**: Chinese-market reference for the  FAW  Jiefang J7 heavy tractor: ประเทศจีนประวัติศาสตร์ 5 CA6DM3 550 PS เส้นแยกจากจีนในปัจจุบัน-6 CA6SX1 ขึ้น-600 PS บรรทัด การจัดวาง 6x4 แบบ  and  เช็คส่งออก
+- **H1**: FAW Jiefang J7 Tractor: China-maret Chird-Truck อ้างอิงที่รักษาจีน 5 และจีน 6 รุ่นนอก
+- **คีย์เวิร์ดหลัก**: FAW แฟ้มภาพประเภท Jiefang J7
+- **คำค้นหารอง**: 解放 J7;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  J7 CA6SX1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  J7  CA6DM3  550; จีฟรัง J7 6x4 รถแทรกเตอร์; ส่งออกรถบรรทุกหนักของจีน China-6 J7 600  PS
+- **URL ที่แนะนำ**: /vehicles/faw-jiefang-j7-tractor/
+- **เจตนาการค้นหา**: เข้าใจ FAW จิฟกัง J7 Tractor: ประเทศจีน-Muset หนัก-Truck อ้างอิงที่รักษาการอ้างอิงจีน- 5 และจีน- 6 รุ่นอื่น ๆ: สิ่งที่นักส่งออกรถยนต์/พาร์ทเนอร์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **คำแนะนำรูปภาพ**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
+- **ข้อความ ALT**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor from China's largest heavy-truck maker, ขายส่วนใหญ่เป็นแท็กซี่ราคาสูง  6x4 สําหรับงานยาวสายฮาอึล วินัยที่เข้มงวดสําหรับผู้ซื้อส่งออกคือ ~ periodal ~: J7 ได้มีการเสนอเครื่องจีน- 5 (เครื่องชาติ) จากยุคเปิดตัว 2018 และใหม่ใหม่ของจีน- 6 (National VI) และรวมจํานวนที่มากที่สุดจากแต่ละเครื่องเป็น "J7 สเปกตรัม" เป็นข้อผิดพลาดที่ป้องกันหน้านี้อย่างแม่นยํา นี่คือ 'Chinese-Markets' สืบค้นเมื่อ Descal LNG และพลังงานบริสุทธิ์ J7 อนุมาน และต่างประเทศ J7 อยู่นอกหน้านี้ และส่งออกซิงเกิลซอร์ส มีสัญญาณยืนยันการยืนยัน
 
@@ -92,8 +92,8 @@ Two generations must be kept apart: 2018-era จีน- 5 CA6DM3-55E52 ที่
 | CA6DM3/ 上市 / 国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
 | 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
 | CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩 (พ.ศ. 12 挡 (พ.ศ. 缓速器 |
-| 车型身份 / 底盘选装 | 汽车之家 – 车家号 พ.ศ. | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩 (พ.ศ. 12 挡 (พ 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡 挡  2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. (พ.ศ.
+| 车型身份 / 底盘选装 | 汽车之家 – 车家号 พ พ ศ ศ ศ ศ 底盘选装 底盘选装 | | | 汽车之家 汽车之家 汽车之家 汽车之家 – 车家号 พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  –  – ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
 | 一汽解放官方网站 (车型线身份); exact-SKU 以官方 / 公告终核) พ.ศ. | 一汽解放 (FAW Jiefang) – สืบค้นเมื่อ พ.ศ. | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## การทบทวนแก้ไข

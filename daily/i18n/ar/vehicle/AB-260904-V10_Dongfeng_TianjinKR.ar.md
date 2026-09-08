@@ -1,15 +1,17 @@
 # دونغفنغ تيانجين كرونا (天锦 كرونة إسترلينية) شاحنة مبردة: شاسيس، هيكل خارق، وشبكة GVW من أجل التصدير
 
-## SEO Metadata
-- ** عنوان المنظمة**: دونغ تيانجين كرونة مبردة " دليل تصدير " (18t)
-- ** Meta Description**: Chinese-market Dongfeng Tianjin KR 6.8 m reefer - Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT model code, and how chassis differents from the refrigerated super structure.
-- ** URL المقتطع**: /حلقات/دونغ فنغ - تيانجين -
-- ** H1 **** دونغفنغ تيانجين ك. شاحنة مبردة: سلسلة + هياكل أساسية
-- ** كلمة رئيسية رمزية**: دونغ تيانجين كرو مطروحة من مواصفات تصدير
-- ** محطات البحث الثانية**: تيانجين KR DFH5180XLC، دونغفنغ كوممينز B6.2، 6.8m شاحنة لحم، تصدير شاحنات التبريد الصينية، 18t جي فيو
-- ** مقترحات داخلية بشأن الربط**: المركبات/تصنيف/تصنيف/تصنيف/تصنيف/تصنيف؛/مبادئ وثائق المركبات/مركبة/مركبة/ميغاطندا/
-- ** اقتراحات تتعلق بالنقل**: جانب الشعاب المرجانية في KR 6.8m مربع؛ إطار للفوضى؛ محرك Cummins B6.2؛ وحدة التبريد؛ الأبواب الخلفية والداخلية
-- ** اقتراحات**: "دونغفنغ تيانجين KR 6.8m شاحنة مبردة 18t، "تيانجين كروزيسيز ضد هيكل الشعاب المرجانية
+## بيانات SEO الوصفية
+- **عنوان SEO**: دونغفنغ تيانجين KR دليل تصدير شاحنة مبردة (18t)
+- **وصف Meta**: دنغفنغ تيانجين KR 6.8 متر من الشعاب - اللومان B6.2 180 kW / 1000 N·m، الفأس السريع 8-speed، الدانا، 18 t، GVW، رمز نموذجي، وMIIT، وكيف يختلف التهاب عن البنية الخارقة المبردة.
+- **H1**: Dongfeng Tianjin KR شاحنة مبردة: سلسلة + هياكل أساسية
+- **الكلمة المفتاحية الرئيسية**: شاحنات مبردة مواصفات تصدير
+- **مصطلحات بحث ثانوية**: تيانجين KR، DFH5180XLC، دونغفنغ كوممنز B6.2 6.8m شاحنة لحم تصدير شاحنة مبردة صينية 18t GVW عملية فوضوية
+- **URL المقترح**: /vehicles/dongfeng-tianjin-kr/
+- **نية البحث**: (دونغفنغ تيانجين) KR شاحنة مبردة: Chassis + Superstructure Specs for Export Buyers: What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **اقتراح الصورة**: KR قطعة لحم من طراز 6.8m مربع
+- **نص ALT**: Dongfeng Tianjin KR 6.8m refrigerated truck 18t
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## قطاع المشتريات: مركبة خاصة هي منتجان - شاسيس وسوبر هيكل
 شاحنة مبردة ليست مواصفات مصنع واحد (أ) الشاشة** (المحرك، صندوق التروس، أكسل، GVW، قاعدة العجلات) التي يبنيها صانع الشاحنة؛ إن الصندوق المحصور، ووحدة التبريد، ومناطق الحرارة وسماكة العزل، هي صعود رُكّب بواسطة بناة الجسم**. ويعتبر تناول وحدة الشعاب المرجانية كتجهيز ثابت للمصنع - أو دمج الـ 6.8 متر كرونة كويتر مع أكبر شركة KR Plus - هو الخطأ الرئيسي في المشتريات هنا. هذه الصفحة توثق تيانجين KR 18 t من السوق الصينية ** الصين**؛ ويظهر القانون النموذجي في الإعلان العام لوزارة الداخلية، الذي يرسي المواصفات القانونية.
@@ -91,15 +93,15 @@
 | Nine 6.8m cargo trucks: KR config | 360che (توتوياو) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | صرخات | 6.8m، قاعدة العجلات، نسبة الأكسل |
 | صندوق الشحن Tianjin KR 6.8m | 360che (توتوياو) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | صرخات | 5000 WB, internal width, GVW |
 | DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | صرخات | رمز جديد للتسجيل، الحد الأقصى للسرعة |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
 * ملاحظة: رمز نموذجي مثبت MIIT دفعة - 410 تقرير؛ وحدة الشعاب/المناطق/الزراعة التي تترك عمدا إلى مبني الجسم (لا توجد قيم مشفرة بصعوبة)؛ KR زائد مستبعد. المراجع الصينية للسوق؛ تأكيد التقييم القانوني الإعلان/الشهادة. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، تيانجين كرومـا، DFH5180XLC شبـاط الشعاب (مراجع السوق الصينية؛ وفوضى ضد المرفأ المفصول؛ وليس مواصفات عالمية)
 - ** طريقة التحقق**: مرساة تصفية المركبات الآلية؛ فحص خط القيادة عبر الحدود؛ الهيكل الخارق المؤجل إلى بناء الجسم

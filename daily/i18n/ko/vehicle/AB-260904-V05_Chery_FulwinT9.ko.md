@@ -1,15 +1,17 @@
 # Chery Fulwin T9 (风云 T9): C-DM 플러그 인 하이브리드 중형 SUV - 수출을위한 중국 사양
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Chery Fulwin T9 C-DM PHEV 사양 및 수출 가이드 (중국 참조)
-- **마타 기술 **: 중국 시장 Chery Fulwin T9 C-DM 플러그 인 하이브리드 SUV - 1.5T 전용 엔진, 150 kW 정면 모터, 32.66 kWh 배터리,  120–220 km CLTC, 5/7석,  and  수출입 검사.
-- **수입 URL**: /vehicles/chery-fulwin- t9/
-- ** H1 **: Chery Fulwin T9 C-DM: 중국 시장 PHEV SUV Specs 및 수출 검증
-- ** 일기 키워드 **: chery fulwin t9 specs 수출
-- **세컨드 검색 조건**: Fulwin T9 C-DM, 风云 T9 플러그 인 하이브리드, Chery T9 32.66kWh, Fulwin T9 7-seat, 중국 PHEV SUV 수출
-- ** 내부 링크 제안**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/; /guides/export-vehicle-document-package/
-- ** 이미지 제안**: Fulwin T9 three-quarter; 충전 포트; 5 대 7 좌석 레이아웃; 1.5T C-DM 배지; 화물 영역
-- ** ALT 제안**: "Chery Fulwin T9 C-DM 플러그 인 하이브리드 SUV"; "Fulwin T9 32.66kWh 배터리 CLTC 범위"
+## SEO 메타데이터
+- **SEO 제목**: Chery Fulwin T9 C- DM PHEV년 Specs & 수출 가이드 (중국 참조)
+- **메타 설명**: 중국 시장 Chery Fulwin T9 C- DM 플러그 인 하이브리드 SUV - 1.5T 전용 엔진, 150 kW 정면 모터, 32.66 kWh 배터리,  120–220 km  CLTC , 5/7석,  and  수출입 검사.
+- **H1**: Chery Fulwin T9 C- DM: 중국 시장 PHEV SUV 사양 및 수출 검증
+- **주요 키워드**: chery fulwin t9 specs 수출
+- **보조 검색어**: Fulwin T9 C- DM의 风云 T9 플러그 접속식 잡종, Chery T9 32.66kWh, Fulwin T9 7-seat의 중국 PHEV SUV 수출
+- **추천 URL**: /vehicles/chery-fulwin-t9/
+- **검색 의도**: Chery Fulwin T9 C- DM를 저항하십시오: 중국 시장 PHEV SUV Specs and Export Verification: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **이미지 제안**: Fulwin T9 three-quarter
+- **ALT 텍스트**: 체리 Fulwin T9 C- DM 플러그 인 하이브리드 SUV
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## Buyer Context: 긴 배터리 버전의 PHEV 제품군 SUV
 Fulwin T9은 Chery의 C-DM 중간 크기 플러그 인 하이브리드 SUV입니다.  offered in five-  and  seven-seat forms. 두 가지 순서 오류가이 모델을 지배: 스트레칭 T9L ** 표준 T9을 혼합하고 배터리를 남지 않고 전기 범위를 인용합니다. 이 문서는 ** 표준 Fulwin T9 (REFERENCE MARKET 만: 중국)**; T9L (거짓 4870 mm 2920 mm 휠베이스)는 다른 몸이며 심하게 제외됩니다. OEM 구성 페이지는 spec base를 강화하는 이 모형을 위해 붙잡았습니다.
@@ -22,7 +24,7 @@ Fulwin T9은 Chery의 C-DM 중간 크기 플러그 인 하이브리드 SUV입니
 | 결합된 체계 산출 | 265 kW 530 N·m에 대한 |
 | Hybrid 전송 | 단일 속도 DHT |
 | Long-range 배터리 | ** 32.66 kWh ** |
-| 전기 범위 | **120–220 km CLTC** (version-dependent; a WLTC figure of about 160 km is also cited for one version) |
+| 전기 범위 | **120–220 km CLTC** (version-dependent; 약 160km의 WLTC 수치도 1개의 버전으로 인용됩니다. |
 | 결합된 범위 | 약 1400 km ** WLTC, 제조업체 - 평가 ** - 공장 청구로 라벨, 측정하지 않음 |
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | DC about 20 min for 30–80%; AC 느린 충전 3 h (단일 소스; OEM 당 확인) |
 
@@ -84,11 +86,11 @@ PHEV용 수출상 고정 **엔진, 모터, 배터리 및 충전** 1.5T은 여기
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| GB 38031 견인 건전지 안전 필요조건 (국가 기준) | SAMR 표준화 관리 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | C-DM 고전압 팩과 관련된 견인 배터리 안전 기본선 |
-| GB 18352.6-2016/XG1-2026 빛 차량 방출 한계 (중국 6) | 환경 및 환경 | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 현재 중국- 6 배출 프레임 1.5T 전용 엔진 (중국- 6b 참조) |
+| GB 38031 견인 건전지 안전 필요조건 (국가 기준) | SAMR 표준화 관리 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | C-DM 고전압 팩과 관련된 견인 배터리 안전 기본선 |
+| GB 18352.6-2016/XG1-2026 빛 차량 방출 한계 (중국 6) | 환경 및 환경 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 현재 중국- 6 배출 프레임 1.5T 전용 엔진 (중국- 6b 참조) |
 | Fulwin T9 공식 구성표 | Chery Fulwin (OEM)를 | 담당자: Mr. wang | https://fulwin.chery.cn/vehicles/t9/config/ 위한 | 2026-09-04 | 인증 (OEM) | 배터리, 치수, 좌석, 충전, 버전 |
 | Fulwin T9 핸즈에 년) | 팟캐스트 | 담당자: Mr. wang | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_체크 | 차원, 모형 년 경계 |
-| Fulwin T9 120 장거리 주력 구성 | Autohome 설정 | 담당자: Mr. wang | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_체크 | 32.66 kWh의 전기 범위, 모터 |
+| UDIO T9 120의 펜서 구성 | 의 Autohome 설정 |: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_체크 | 32.66 모터사이클 모터사이클
 | Fulwin T9 배터리 및 EV 범위 분석 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 대체하십시오 | 2026-09-04 | SINGLE_SOURCE(싱글) | 배터리, CLTC/WLTC 범위, 충전 시간 |
 | Fulwin T9 출시 및 치수 | Sohu 자동차 데이터베이스 | 담당자: Mr. wang | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 경우 | 2026-09-04 | CROSS_체크 | 중형 PHEV SUV 크기, 국내 가격 |
 | 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方년) | 담당자: Mr. wang | https://fulwin.chery.cn/vehicles/t9/config/ 위한 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 发动机115kW/220N·m/国VIb/无级超级电混DHT |

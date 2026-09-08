@@ -1,15 +1,29 @@
 # Wuling Bingo (缤果): un petit hatchback électrique chinois — Spécifications et chèques à l'exportateur
+## Métadonnées SEO
+- **Titre SEO**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **Description meta**: Petite batterie Wuling Bingo BEV — LFP sur le marché chinois  203/333/410 km  CLTC  steps,  30/50 kW motors, DC charge rapide, dimensions,  and  les importateurs doivent vérifier par garniture.
+- **H1**: Wuling Bingo: Chinese-Market Small EV Spécifications et vérification des exportations
+- **Mot-clé principal**: wuling bingo ev spécifications export
+- **Termes de recherche secondaires**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chine petite exportation EV, 五菱缤果 specs
+- **URL suggérée**: /vehicles/wuling-bingo/
+- **Intention de recherche**: Comprendre Wuling Bingo: Chinese-Market Small EV Spécifications et vérification à l'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **Suggestion d'image**: cinq portes Côté bingo
+- **Texte ALT**: Wuling Bingo petit électrique hayon Chine spec
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Référencement au titre**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- **Description détaillée**: Le marché chinois Wuling Bingo petite BEV — batterie LFP,  203/333/410 km CLTC steps,  30/50 kW motors, Charge rapide en courant continu, dimensions,  and  les importateurs doivent vérifier par garniture.
-- **URL suggérée**: /véhicules/wuling-bingo/
-- ** H1 **: Wuling Bingo: spécifications de petites voitures de marché et vérification des exportations
-- **Mot-clé principal**: exportation de bingo ev specs
-- ** Termes de recherche secondaires**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
-- **Suggestions de lien interne**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/véhicule-export-pdi-pré-expédition-transmission/; /véhicules/byd-qin-l-dm-i/
-- **Suggestions d'image**: côté bingo à cinq portes; insigne 203 vs 333/410; chargement arrière avec sièges repliés; port de charge; cabine à quatre places
-- ** Suggestions de l'ALT**: "Wuling Bingo petit électrique hachback Chine spec"; "Wuling Bingo CLTC range 203 333 410 km "
+Métadonnées SEO
+- **Titre SEO**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
+- **Description meta**: Le marché chinois Wuling Bingo petite BEV — batterie LFP,  203/333/410 km CLTC steps,  30/50 kW motors, Charge rapide en courant continu, dimensions,  and  les importateurs doivent vérifier par garniture.
+- **H1**: Wuling Bingo: Spécifications de petites voitures de marché chinois et vérification des exportations
+- **Mot-clé principal**: wuling bingo ev spécifications exportation
+- **Termes de recherche secondaires**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, exportation chinoise de petites voitures électriques, 五菱缤果 spécifications
+- **URL suggérée**: /vehicles/wuling-bingo/
+- **Intention de recherche**: Comprendre le bingo wuling: Chinese-market petites spécifications et vérification des exportations: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **Suggestion d'image**: cinq portes Côté bingo; insigne 203 vs 333/410; chargement arrière avec sièges repliés; port de charge; cabine à quatre places
+- **Texte ALT**: Wuling Bingo petit électrique hachback Chine spec
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte de l'acheteur: une ville BEV vendue en trois étapes
 Le Bingo est le petit hayon électrique à cinq portes de Wuling, destiné à un usage personnel urbain et commercial léger. Pour un exportateur, la variable déterminante est **Step**, car la puissance du moteur, la batterie et la vitesse maximale changent toutes avec elle. Cette feuille couvre la ligne **Marché chinois 2024 (Marché de la référence: CHINE)**; sans page OEM outre-mer, les chiffres chinois sont une référence, pas une spécification globale.

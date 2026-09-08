@@ -1,15 +1,17 @@
 # Lesen eines Seefracht-Quotations für den Fahrzeugexport: Ladestruktur ohne erfundene Zahlen
 
-## SEO Metadaten
-- **SEO-Titel**: Ocean Freight Charge Structure for Vehicle Export — O/F, THC, DOC, BAF erklärt
-- **Meta Description**: Verstehen Sie O F, THC, DOC SEAL VGM, BAF und Zuschläge, Herkunfts- und Zielgebühren und warum AMS ACI ENS Manifestgebühren routenspezifisch sind - ein Strukturleitfaden, der bewusst keine festen Beträge angibt.
+## SEO-Metadaten
+- **SEO-Titel**: Seefrachtgebührenstruktur für den Fahrzeugexport — O/F, THC, DOC, BAF Erklärt
+- **Meta-Beschreibung**: Verstehen Sie O / F, THC, DOC/SEAL/VGM, BAF und Zuschläge, Herkunfts- und Zielgebühren und warum AMS/ACI/ENS Manifestgebühren routenspezifisch sind - ein Strukturleitfaden, der bewusst keine festen Beträge angibt.
+- **H1**: Dekodierung eines Fahrzeug-Exportfracht-Angebots: Welche Gebühren existieren, wer sie berechnet und was zu überprüfen ist
+- **Haupt-Keyword**: Seefrachtgebührenstruktur Fahrzeugexport THC DOC BAF
+- **Sekundäre Suchbegriffe**: O/F Seefracht, Terminalumschlagsgebühr, DOC Dokumentengebühr, SEAL VGM Gebühr, BAF EBS Zuschlag, AMS ACI ENS Manifestgebühr, Ursprungs-/Zielgebühren
 - **Vorgeschlagene URL**: /guides/ocean-freight-charge-structure-vehicle-export
-- ** H1 **: Dekodierung eines Fahrzeug-Exportfracht-Angebots: Welche Gebühren existieren, wer sie berechnet und was zu überprüfen ist
-- ** Primäres Keyword**: Export von Seefrachtgebührenstrukturfahrzeugen THC DOC BAF
-- **Secondary Search Terms**: O/F-Seefracht, Terminalumschlagsgebühr, DOC-Dokumentengebühr, SEAL VGM-Gebühr, BAF EBS-Zuschlag, AMS ACI ENS-Manifestgebühr, Herkunfts-/Zielgebühren
-- **Interne Linkvorschläge**: /guides/vehicle-export-bill-of-lading-types/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/vehicle-export-hs-code-classification/
-- **Bildvorschläge**: Ladung Wasserfall Ursprung → Ozean → Ziel; Zuschlag Taxonomie; Quote-line-Auditbogen
-- **ALT Suggestions**: "Ocean cargo charge structure split by origin, ocean and destination"
+- **Suchabsicht**: Verstehen Sie die Dekodierung eines Fahrzeug-Exportfrachtangebots: Welche Gebühren existieren, wer sie berechnet und was zu überprüfen ist: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Bildvorschlag**: Ladung Wasserfall Ursprung → Ozean → Ziel
+- **ALT-Text**: Seefrachtgebührenstruktur nach Herkunft, Ozean und Bestimmungsort
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum ein strukturiertes Zitat wichtiger ist als eine niedrige Zahl
 Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeugexporteure werden nicht von der Basis-Seefracht erwischt, sondern von dem Stapel von Zuschlägen und Zielgebühren, die damit verbunden sind. Dieser Leitfaden erklärt **was jede Ladung ist, was sie in Rechnung gestellt wird und wo sie entsteht ** und - weil sich jede Rate mit Spur, Kapazität und Saison bewegt - gibt es keine festen Beträge ** an. Verwenden Sie es, um ein Angebot Zeile für Zeile zu prüfen, nicht um eine Landekosten zu schätzen.

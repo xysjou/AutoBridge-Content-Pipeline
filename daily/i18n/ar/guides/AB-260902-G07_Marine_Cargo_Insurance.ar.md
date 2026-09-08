@@ -1,14 +1,17 @@
 # تأمين الشحن البحري للمركبات الصينية المشحونة: الغرفة التجارية الدولية (ألف)/(باء)/(جيم)، والقيمة المؤمن عليها، ومقطورة المطالبات
-## SEO Metadata
-- ** عنوان المنظمة**: التأمين البحري للسيارات الصينية المستوردة: المطالبات من كلوز
-- ** وصف البيانات**: - تأمين مركبة صينية في عبور المحيطات بشكل صحيح - المعهد الرسمي لركوزات الشحن (ألف)/(باء)/(جيم)، سبب احتياج السيارات إلى جميع الركازات، والإطار المتكامل الدولي للسلامة الكيميائية (CIP) إلى 2020 من التزامات التأمين، واتفاقية القيمة المؤمن عليها، والأدلة على المطالبات.
-- ** URL المقترض**: /guides/marine-cargo-insurance-car-import/
-- ** H1 **** ضمان المركبات الصينية في النقل العابر للمحيطات: عجلات التصفيق، وسام مؤمن عليه، وكيف أن المطالبة مدفوعة في الواقع
-- ** كلمة رئيسية**: تأمين الشحن البحري المستورد من مركبة صينية من طراز C
-- ** مصطلحات البحث الثانية**: معهد كارغو كلوز A all risks, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C minimum, Hague-Visby SDR carrier cap, RoRo vehicle insurance, EV battery fire marine cover
-- ** Internal Link Suggestions**: /guides/vehicle-import-payment-t-vs-lc/;guides/commercial-truck-fleet-procurement-china/;/guides/used-chinese-ev-inspection/
-- ** اقتراحات بشأن: هرم تغطية الغرفة A/B/C؛ والجدول الزمني لنقل التأمينية حسب Incoterm؛ ومجموعة صور حالات ما قبل الشحن؛ وثغرة في قيمة المركبات
-- ** اقتراحات بشأن: " مؤسسة الشحنات من الفئة ألف باء جيم " ؛ " التزام تأمين البائع من الشركة مقابل شركة سي آي " بموجب العقدين الدوليين البالغ عددهم 2020، " سجل حالة المركبات قبل الشحن بالنسبة للمطالبة "
+## بيانات SEO الوصفية
+- **عنوان SEO**: التأمين البحري للسيارات الصينية المستوردة: ICC مطالبة من كلوز
+- **وصف Meta**: تأمين مركبة صينية في المحيط العابر بشكل صحيح - المعهد الرسمي لشحنات الشحن)ألف(/)باء(/)جيم(، لماذا السيارات تحتاج إلى كل الركازات CIF/CIP الالتزامات التأمينية البالغة 2020 اتفاقية قيمة التأمين  and  أدلة
+- **H1**: Insuring Chinese Vehicles in Ocean Transit: Clause Tier, Sum Insured and How a Claim is actually Paid
+- **الكلمة المفتاحية الرئيسية**: تأمين الشحنات البحرية المستوردة مركبة صينية ICC ألف باء جيم
+- **مصطلحات بحث ثانوية**: معهد كارغو كلوز كل المخاطر LMA CL382 CIP Incoterms 2020 ICC ألف CIF ICC جيم كحد أدنى  Hague-Visby  SDR  carrier cap, تأمين سيارة رورو EV غطاء بحري من طرازات
+- **URL المقترح**: /guides/marine-cargo-insurance-car-import/
+- **نية البحث**: Understand Insuring Chinese Vehicles in Ocean Transit: Clause Tier, Sum Insured and How a Claim is actually Paid: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **اقتراح الصورة**: الغرفة الدولية للحساب الإلكتروني A/B/C
+- **نص ALT**: معهد كارغو كلوز C coverage tiers
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
+
 ## سوء الفهم الذي يكلف المستوردين
 ويفترض المشترين أن خط الشحن المكشوف يعوض بالكامل تحت سطح السفينة أو CIF** مركبة خدشت أو سحقت أو سرقت أو دمرتها المياه. لا يعني أن المسؤولية الناقلة مُغطى بالاتفاقية الدولية التي تقل كثيراً عن قيمة السيارة و شرط الشحن الذي تختاره هو ما إذا كان الضرر العابر العادي مُغطى على الإطلاق وتغطي هذه الصفحة تأمين الشحنات المعمارية للمركبات التي شحنت من الصين**)طرق المحيطات العالمية(- الشروط والمطالبات، التي تختلف عن التسعير غير المحدد، وعن خيار راكب النفط من طراز RoRo-vs.
 ## ثلاثه اصفاد - انقسام الى الورد الرسمي
@@ -52,17 +55,17 @@ ICC (A) is broad,ليس تماما:لا يغطي التحلل الميكانيك
 ** CIF أو CIP - أي قصور أقوى؟** Under Incoterms 2020 CIP requires at least ICC (A); CIF defaults to ICC (C), so on CIF demand (A) in writing.
 ** هل تُغطي جميع المخاطر حريقاً من طراز EV؟ ** وهو يعتمد على الصياغة - إعلان الحرف الفوقية والحصول على تأكيد خطي.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
@@ -81,13 +84,13 @@ ICC (A) is broad,ليس تماما:لا يغطي التحلل الميكانيك
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | رابطة سوق لويد رسمية**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | ** مصدق عليه** | نطاق واستبعادات المحكمة الجنائية الدولية (A) جميع المخاطر؛ صياغة شرط رسمي |
-| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A) | غرفة التجارة الدولية (** مسؤول رسمي لدى الهيئة**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | ** مصدق عليه** | الحد الأدنى للشراكات الدولية التي ترفع إلى المحكمة الجنائية الدولية (ألف)؛ وتحتفظ لجنة الحدود الدولية بالمحكمة الجنائية الدولية (جيم) |
-| Incoterms 2020 — CPT or CIP (seller insurance duty) | أكاديمية غرفة التجارة الدولية (**. | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | ** مصدق عليه** | على بائعي شركة سي بي آي |
-| معهد كارغو فعال لغطاء مركبة رورو | مصفاة فويج (الوساطة المتخصصة، يُستشهد بـ LMA/IUA، لاهاي-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | صرخات | CL382/383/384 ترقيم، 1 Jan 2009, SDR cap context |
-| 110% اتفاقية بشأن القيمة | Portlogics " PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | صرخات | : تشغيل 110% اتفاقية ومعدل كل شحن؛ وتميز قواعد الإكسترال في الجسم |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (CIP) to ICC (A) |法 International (** | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03) **The adًd.**
+. Incoterms 2020 — CPT or CIP (seller insurance duty) .ßæsident | Global | https://academy.iccwbo.org/incoterms//incoterms-2020-cpt-or-cip/ | 2026-09-03 | **S  عليه Arabic Page
+|corpido en la régación de se especial en especial enfants (USRE,,, revevovestrow pour LMA/IUA, Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | | | | | | ات ات ات ات ات ات Étments | CL382/383/384  ترقي 1 كانون الثاني/يناير 2009، السياق النهائي لخفض الانبعاثات الناجمة عن إزالة الغابات وتدهورها
+110% على الرابط "البورتولوجيا "الصناعات https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | ; ; ; 110% and devic upon all discriminatory women; - القضاء على جميع أشكال التمييز ضد المرأة، والفصل في جميع أشكال التمييز؛
 | مطالبة شركة كوريــا للتأمين البحري)ICC A/B/C 对比( | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE OURCE | ICC(A/B/C) 覆盖范围 |
 | دليل التأمين الكوري على تصدير السلع | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE OURCE | 车辆推荐 ICC(A) |
-| شراء سيارة بحرية التأمين: التأمينات والمعدلات والمطالبات | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | SINGLE OURCE | CIP 2020 升至 ICC(A) PROCIF 最低 ICC(C) |
+| | | | | 第4 第第第第第第4 第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第第号建议的。 المطالعات والاعتراضات | 出 出 出 出 出 出 出 出 | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance ) 2026-09-02 | SINGLE OURCE | CIP 2020 升 ICC(A) | ICC(CIF |
 | مركبة في رو رو رو فيسيل | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE OURCE | Hague-Visby 承运人责任上限 − 固有缺陷除外 |
 | تأمين الشحن البحري | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE OURCE | 一切险 ٪ 战争 罢工附加险 |
 | 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE OURCE | 保险金额=CIF×110%、保费公式 |

@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Verify a Chinese Car Export Supplier: Due-Diligence Checklist
 - **Meta Description**: A payment-stage due-diligence framework for vetting Chinese vehicle exporters — MIIT announcement/CCC qualification, business-license checks, export authorisation chain, AEO, bank-account matching and video-audit standards.
-- **Suggested URL**: /guides/verify-china-car-export-supplier/
 - **H1**: Vetting a Chinese Vehicle Exporter: What to Verify Before the First Payment
 - **Primary Keyword**: verify Chinese car export supplier due diligence license
 - **Secondary Search Terms**: China vehicle export qualification, MIIT vehicle manufacturer announcement, CCC certificate exporter, gsxt business license check, China car export authorization chain, AEO customs credit
+- **Suggested URL**: /guides/verify-china-car-export-supplier/
+- **Search Intent**: Understand Vetting a Chinese Vehicle Exporter: What to Verify Before the First Payment: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: due-diligence layered pyramid; gsxt business-license check fields; authorization-chain diagram; bank-account match warning
-- **ALT Suggestions**: "Chinese car exporter due diligence verification layers"; "National Enterprise Credit Information system license fields"; "Supplier to factory authorization chain"
+- **Image Suggestion**: due-diligence layered pyramid; gsxt business-license check fields; authorization-chain diagram; bank-account match warning
+- **ALT Suggestion**: Chinese car exporter due diligence verification layers
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Problem This Solves
 

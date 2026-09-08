@@ -1,15 +1,29 @@
 # MBL, HBL, Télex ou Sea Waybill ? Choisir la méthode de dégagement d'un véhicule en vertu du Code maritime 2025
+## Métadonnées SEO
+- **Titre SEO**: Guide sur le connaissement des lettres d'exportation de véhicules — MBL/HBL /Telex/ SWB + Code maritime Arts. 80/81/87
+- **Description meta**: Comment les factures principales, les factures de maison, les lettres de mainlevée télex et les lettres de transport maritime diffèrent, les règles de transférabilité/livraison dans le Code maritime révisé de la Chine (en vigueur 2026-05-01, art. 80/81/87) et la méthode de mainlevée correspondante aux conditions de paiement.
+- **H1**: Choisir une méthode de mainlevée pour un véhicule exporté — Pratique commerciale ancrée dans le Code maritime révisé
+- **Mot-clé principal**: le connaissement du véhicule par lettre de transport maritime par télex
+- **Termes de recherche secondaires**: Code maritime 2025 révision, article 80 connaissement transfert, article 81 autre document de transport, article 87 livraison, NVOCC HBL, ordre télex
+- **URL suggérée**: /guides/vehicle-export-bill-of-lading-types
+- **Intention de recherche**: Comprendre la méthode de mainlevée de connaissement d'un véhicule exporté — Pratique commerciale Ancrée dans le Code maritime révisé: ce qu'un exportateur de véhicule ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Suggestion d'image**: comparaison avec quatre méthodes
+- **Texte ALT**: MBL HBL Négociabilité de la lettre de transport maritime télex en vertu du Code maritime révisé
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Référencement**: Guide sur le connaissement des lettres d'exportation de véhicules — MBL/HBL/Telex/SWB + Code maritime Arts. 80/81/87
-- **Description détaillée**: Comment les factures principales, les factures de maison, les lettres de mainlevée télex et les lettres de transport maritime diffèrent, les règles de transférabilité/livraison dans le Code maritime révisé de la Chine (en vigueur 2026-05-01, art. 80/81/87) et la méthode de mainlevée correspondante aux conditions de paiement.
-- **URL suggérée**: /guides/véhicule-exportation-lettre de chargement-types
-- ** H1 **: Choisir une méthode de mainlevée pour un véhicule exporté — Pratique commerciale ancrée dans le Code maritime révisé
+Métadonnées SEO
+- **Titre SEO**: Guide sur le connaissement des lettres d'exportation de véhicules — MBL/HBL/Telex/SWB + Code maritime Arts. 80/81/87
+- **Description meta**: Comment les factures principales, les factures de maison, les lettres de mainlevée télex et les lettres de transport maritime diffèrent, les règles de transférabilité/livraison dans le Code maritime révisé de la Chine (en vigueur 2026-05-01, art. 80/81/87) et la méthode de mainlevée correspondante aux conditions de paiement.
+- **H1**: Choisir une méthode de mainlevée pour un véhicule exporté — Pratique commerciale ancrée dans le Code maritime révisé
 - **Mot-clé principal**: le connaissement du véhicule à l'exportation mbl hbl télex relâchement de la facture de transport maritime
-- **Conditions de recherche secondaires**: Code maritime 2025, révision, article 80 connaissement, article 81 autre document de transport, article 87 livraison, NVOCC HBL, note de commande télex
-- **Suggestions de lien interne**: /guides/fret océanique-charge-structure-véhicule-exportation/; /guides/véhicule-exportation-pdi-préexpédition-transmission/; /guides/exportation-véhicule-document-emballage/
-- **Suggestions d'image**: comparaison à quatre méthodes; échelle de négociabilité vs paiement; chaîne MBL/HBL; art. 80/81/87 débit de livraison
-- ** Suggestions concernant l'ALT**: « Négociabilité de la lettre de transport maritime de la LBM HBL télex en vertu du Code maritime révisé »
+- **Termes de recherche secondaires**: Code maritime 2025 révision, article 80 connaissement transfert, article 81 autre document de transport, article 87 livraison, NVOCC HBL, note de commande télex
+- **URL suggérée**: /guides/vehicle-export-bill-of-lading-types
+- **Intention de recherche**: Comprendre la méthode de mainlevée du connaissement pour un véhicule exporté — pratique commerciale ancrée dans le code maritime révisé: ce qu'un exportateur de véhicule/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Suggestion d'image**: Comparaison entre quatre méthodes; échelle de négociabilité et paiement; chaîne MBL/HBL; art. 80/81/87 débit de livraison
+- **Texte ALT**: Négociabilité de la lettre de transport maritime télex de la LBM en vertu du Code maritime révisé
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Le problème de l'approvisionnement est le contrôle du fret, pas le travail sur papier
 Les exportateurs traitent le choix du connaissement comme une documentation. Il s'agit d'une décision ** concernant les risques de paiement**: le moment où vous passez d'une facture négociable originale à la version télex ou à une lettre de transport maritime, vous changez lorsque vous arrêtez de contrôler le véhicule à destination. Ce guide associe le comportement des quatre instruments au **repère réglementaire chinois actuel** — le *Code maritime de la RPC*, **révisé le 2025-10-28 par la session 18th du Comité permanent du CNP 14th (ordonnance présidentielle no 58), en vigueur à partir de 2026-05-01 (16 chapitres, 310 articles)** —  and  puis correspond à la méthode de paiement. Les règles et les droits propres au télex du transporteur/port restent propres au voyage et ne sont pas indiqués comme valeurs fixes.

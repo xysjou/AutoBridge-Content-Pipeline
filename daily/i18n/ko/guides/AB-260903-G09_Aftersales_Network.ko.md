@@ -1,14 +1,16 @@
 # 해외 애프터 세일즈, 부품 및 보증 네트워크 구축
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 해외 판매 후, 부품 및 보증 네트워크 설정 가이드
-- **마타 기술 **: 차량 수출은 설치 된 기지, 지역 부품 주식, 보증에 일치 한 네트워크 모델이 실제 서비스 용량과 일치하여, 중국 정책 기대에 부응하는 것을 약속합니다.
-- **Suggested URL**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: 수출된 차량을 위한 해외 판매 후, 예비 품목 및 보장 기능 건축
-- ** 출원 키워드 **: 해외 판매 후 부품 보증 네트워크 설정 수출
-- **세컨드리뷰 이용**: 해외 수출 서비스 네트워크, 지역 부품 창고, 차량 보증 정책 해외, 독립 멀티 브랜드 수리 네트워크, 딜러 판매 후 지원
-- ** 내부 링크 제안**: /guides/vehicle-export-sales-contract-clauses/; /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/
-- ** 이미지 제안 **: 설치된 base→network-model 결정 나무; 부속 주식 층; 보장 capability 어울리는 반복
-- **ALT 제안**: "설치된 기초에 의하여 판매 네트워크 모형"; "regional 부속 주식 층"
+## SEO 메타데이터
+- **SEO 제목**: 해외 판매 후, 부속 & 보장 Network Setup 가이드
+- **메타 설명**: 차량 수출은 설치 된 기지, 지역 부품 주식, 보증에 일치 한 네트워크 모델이 실제 서비스 용량과 일치하여, 중국 정책 기대에 부응하는 것을 약속합니다.
+- **H1**: 수출된 차량을 위한 해외 판매 후, 예비 품목 및 보장 기능 건축
+- **주요 키워드**: 해외 판매 후 부품 보증 네트워크 설정 수출
+- **보조 검색어**: 수출상 서비스 네트워크 해외, 지역 부속 창고, 차량 보장 정책 해외, 독립적인 다 상표 수선 네트워크, 상인 판매 후 지원
+- **추천 URL**: /guides/overseas-aftersales-parts-warranty-network/
+- **검색 의도**: 수출된 차량을 위한 해외 판매 후, 예비 부품 및 보장 기능 건축의 밑에: 차량/parts 수출자는 순서에 투입하기 전에 확인해야 하고, 문서 및 결정해야 합니다.
+- **내부 링크 제안**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **이미지 제안**: install-base→network-model 결정 나무
+- **ALT 텍스트**: aftersales 네트워크 모델 설치베이스
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 범위: 이것은 운영 서비스에 관하여, 예비 품목을 사고는 아닙니다
 이 가이드는 더 많은 정보를 원합니다. *procuring* 예비 부품의 별도 항목에서 deliberately 구별됩니다. (현재는 extra_parts content cluster) - sourcing 구성 요소는 입력입니다. 이 페이지는 **operating 기능**에 대한 것입니다. 그 부분을 고객 가동 시간으로 전환합니다.
@@ -52,18 +54,18 @@ China's four-ministry used-car export notice (item on improving the export suppo
 **이 다른 "구매 예비 부품"가이드는?** 그것은 중국에 있는 sourcing 부속을 커버합니다; 이것은 목적지 시장에 있는 서비스/parts/warranty 기능을 운영합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,9 +82,9 @@ China's four-ministry used-car export notice (item on improving the export suppo
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Four-ministry used-car export notice (item 6: 지원 시스템) | 주회정책 도서관 | CN 글로벌 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 공동 판매 후 부품 기술 지원의 정책 기대 |
+| 4분의 수출입 안내 (item 6 : 지원 시스템) | 주회정책 도서관 | CN 글로벌 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 공동 판매 후 부품 기술 지원의 정책 기대 |
 | 같은 통지 (지원 시스템) | 회사 소개 | CN 글로벌 | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html 대한 자세한 정보 | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MOFCOM는 텍스트를 반대 |
-| 중국 자동차 제조업체는 해외 판매 후 격차를 닫을 수 있습니다. | Sina 금융 | - 연혁 | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE_SOURCE(싱글) | 다 상표 네트워크 경로; 멜버른 부속 예; 7-yr 보장 예 |
+자동차 제조업체는 자동차 제조업체의 판매 후 격차를 닫습니다. | Sina 금융 | - 연혁 | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE_SOURCE(싱글) | 다 상표 네트워크 경로; 재고 관리 7년 보증 예|
 | 부품은 글로벌 시스템화되어야 합니다. | 베이징 뉴스 | - 연혁 | https://m.bjnews.com.cn/detail/1779683581168283.html 대한 자세한 정보 | 2026-09-03 | CROSS_체크 | "Heavy 판매, 가벼운 서비스"약점; 위임 위험 |
 *Scope 참고: 정책 기대는 공식입니다; 네트워크 모형과 호주 품목은 보편적인 기준으로, 보여주지 않는 한 단 하나 회사 기업 예입니다. 이 가이드 주소 서비스 운영 및 예비 부품 조달 클러스터에서 구별됩니다. ****************************************************************************************************************************************************************************************************************************************************************
 

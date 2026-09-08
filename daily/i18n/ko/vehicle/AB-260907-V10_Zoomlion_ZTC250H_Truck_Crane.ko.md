@@ -1,16 +1,16 @@
 # 줌머 ZTC250H 트럭 기중기: Identity-Level 중국 시장 참고 및 왜 Borrowed 짐 도표는 여기에서 길게 합니다
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Zoomlion ZTC250H 25t 트럭 크레인 참조 및 수출 검사|AutoBridge
-- **마타 기술 **: Zoomlion ZTC250H 25-tonne 트럭 크레인 섀시 플러스 슈퍼 구조 특수 장비로 중국 시장 정체 참조, 왜 인접한 25t 크레인 사양은 빌릴 수 없으며, 구매하기 전에 정확한 모델 데이터.
-- ** H1 **: Zoomlion ZTC250H 트럭 기중기: Identity-Level 중국 시장 참고 및 왜 Borrowed 짐 도표는 여기에서 길게 합니다
-- ** 출원 키워드 **: Zoomlion ZTC250H 수출 사양
-- **세컨드 검색 이용 약관**: 中联重科 ZTC250H; Zoomlion 25 톤 트럭 기중기; ZTC 시리즈 기중기; 트럭 기중기 짐 도표; 중국 기중기 수출; QY25 대 ZTC250
-- **자유 URL**: /vehicles/zoomlion- ztc250h-truck-crane/
-- ** 수색 **: 面向海外买家介绍中联 ZTC250H 身份 (25t 级汽车吊 = 底盘 + 起重上装), 并说明为何不能套用相邻 25t 吊性能表
-- ** 내부 링크 제안**: /vehicles/faw-jiefang- j7-tractor/, /vehicles/qingling-isuzu- kv100/, /guides/verify-chinese-car-export-supplier-history/
-- ** 이미지 제안 **: 중성 지상에 붐을 가진 Zoomlion ZTC 시리즈 25-tonne-class 트럭 기중기
-- ** ALT 제안**: 중립적인 배경에 부분적으로 올려진 그것의 망원경 붐을 가진 25-tonne-class 트럭 기중기
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 줌마 ZTC250H 25t 트럭 크레인 참조 및 수출 검사|AutoBridge
+- **메타 설명**: Zoomlion ZTC250H 25-tonne 트럭 크레인 섀시 플러스 슈퍼 구조 특수 장비로 중국 시장 정체 참조, 왜 인접한 25t 크레인 사양은 빌릴 수 없으며, 구매하기 전에 정확한 모델 데이터.
+- **H1**: 줌머 ZTC250H 트럭 기중기: Identity-Level 중국 시장 참고 및 왜 Borrowed 짐 도표는 여기에서 길게 합니다
+- **주요 키워드**: Zoomlion ZTC250H 수출 specs
+- **보조 검색어**: 中联重科 ZTC250H; Zoomlion 25 톤 트럭 기중기; ZTC 시리즈 기중기; 트럭 기중기 짐 도표; 중국 기중기 수출; QY25 대 ZTC250
+- **추천 URL**: /vehicles/zoomlion-ztc250h-truck-crane/
+- **검색 의도**: 줌마 ZTC250H 트럭 크레인: Identity-Level China-Market Reference와 왜 Borrowed Load Chart가 여기에 있습니다. 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/faw-jiefang-j7-tractor/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: Zoomlion ZTC - 시리즈 25-tonne-class 트럭 크레인은 부분적으로 중립적 인 땅에 올려
+- **ALT 텍스트**: 25-tonne-class 트럭 크레인은 부분적으로 중립적인 땅에 올려진 망원경 붐을 가진
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 트럭 크레인은 윈치가 볼트 트럭이 아닙니다. 목적 건설 리프팅 슈퍼 구조**를 갖춘 캐리어 섀시를 결합한 ** 특수 목적 차량이며, 그 값과 안전성은 매우 높은 부하 차트에 의해 거의 완전히 정의됩니다. Zoomlion ZTC250H은 Zoomlion의 ZTC 트럭 크래프트 라인의 25-tonne-class 회원입니다. 이 페이지는 의향을 제공합 **identity-level** 중국 시장 참조: 그것은 어떤 모델이 및 어떻게 제품 가족 작품, 하지만 ** 인쇄 붐 길이, 리프팅 높이, 엔진 힘, 치수 또는 로드 rating 테이블, 정확한 모델 ZTC250H OEM 로드 테이블 캡처되지 않았기 때문에 - 그리고 인접한 25-tonne 크레인에서 그 번호를 빌려 심각한 잠재적으로 안전 오류가 될 것입니다.
 
@@ -62,7 +62,7 @@ Because the machine is two systems in one, 수출 구매자는 둘 다를 verifi
 6. 계약, 송장, B/L 및 최종 지불의 앞에 기계의 명찰의 맞은편에 serial/VIN를 재구성하십시오.
 
 ## 의논하기
-**What does "25 tonnes" mean for the ZTC250H?**
+**ZTC250H의 의미는 "25 톤"은 무엇입니까? 의 모든 것
 
 명목상 25-tonne 종류입니다; 어떤 반경든지에 안전한 상승은 모형 특정한 짐 도표에 의해, 각 윤곽에 있는 편평한 25 t 아닙니다 놓입니다.
 

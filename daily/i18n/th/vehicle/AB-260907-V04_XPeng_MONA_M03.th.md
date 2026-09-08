@@ -1,16 +1,16 @@
 # XPhen MONA M03: ประเทศจีน-Maget play Seck seda Restemed รอบ ๆ แบตเตอรี่ – Range – Motor matrix
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: XPhang MONA M03 ประเทศจีน- ฟิล์ม EV Checks และส่งออกเป็น | AutoBridge
-- ""คําอธิบาย" อ้างอิงตลาดจีน สําหรับรถซีดานไฟฟ้า XPen MANA M03: 51.8/62.2 kWh LFP batteries, ระดับของช่วง CLTC  and  140/160 kW motors kept mapped by SKU, เพิ่มขั้นตอนการตรวจสอบการส่งออก
-- ** H1 ~: XPang MONA M03: ประเทศจีน-Maget อิเล็กทรอนิกส์ Segle CATV SDe ที่สร้างขึ้นรอบ ๆ แบตเตอรี่ – Range – Motor matrix
-- ~ คําสําคัญในคอลัมน์ ~: XPense MANA M03 สเปกตรัม
-- ~การค้นหาตามวาระที่: ~ 小鹏 MONA M03; สืบค้นเมื่อ พ.ศ. MANA M03 CLTC ช่วง; MANA M03 62.2 kWh (พ.ศ. XPhang M03 160 kW; ส่งออกเป็นซีดานไฟฟ้าของจีน Cd 0.194
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/xpang-mona- m03/
-- สืบค้นเมื่อ 面向海外买家介绍小鹏 MANA M03 中国市场身份 、 电池 / CLTL 续航 / 电机的 SKU 对应关系与版本边界.
-- ** ลิงก์ภายใน ข้อเสนอ: / วิชเซิล/ ลึก- s05/, / เวญญิณ/ ดองเฟียส-ไฮเซน//// guides/v-Offing- un3556-imdg-compliance/*
-- เคล็ดลับที่: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
-- ~~~~~~~~~ ข้อเสนอ: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background
-- ~Schema Scop~: มาตรา + carb (ไม่มี Prodult/Offer/Price/Review/Ring)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: XPhang MONA M03 จีน-มาร์เก็ต EV Checks และส่งออกเป็น | AutoBridge
+- **คำอธิบาย Meta**: อ้างอิงตลาดจีนสําหรับ XPen MONA M03 ซีดานไฟฟ้า: 51.8/62.2 kWh  LFP  batteries, CLTC ระดับของระยะ  and  140/160 kW motors kept mapped by  SKU , เพิ่มขั้นตอนการตรวจสอบการส่งออก
+- **H1**: XPeng  MONA  M03: ประเทศจีน-แมกซ์เซลอิเล็กทรอนิกส์เซดาน อ้างอิงสร้างขึ้นรอบ ๆ แบตเตอรี่-รังก้า-โมเตอร์แมททริกซ์
+- **คีย์เวิร์ดหลัก**: XPhang MONA M03 สเปกตรัมส่งออก
+- **คำค้นหารอง**: 小鹏 MONA M03; สืบค้นเมื่อ พ.ศ. MONA  M03  CLTC  range; MONA M03 62.2 kWh (พ.ศ. XPhang M03 160 kW; ส่งออกเป็นซีดานไฟฟ้าของจีน Cd 0.194
+- **URL ที่แนะนำ**: /vehicles/xpeng-mona-m03/
+- **เจตนาการค้นหา**: เข้าใจ XPen MONA M03: ประเทศจีน-Magnet electricic september Sepan Restemed ล้อมรอบด้วยแบตเตอรี่-Range - Motor matrix: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **คำแนะนำรูปภาพ**: XPhong MONA M03 รถเก๋งวิ่งเร็วแสดงจากด้านหน้าสามส่วนสี่ บนพื้นหลังที่เป็นกลาง
+- **ข้อความ ALT**: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 XPhang MONA M03 เป็นรถซีดานอัตโนมัติของ XPeng เปิดตัวในประเทศจีนเมื่อเดือนสิงหาคม 2024 บนรถโมบายหน้า ผังล้อหน้า มีสัมประสิทธิ์ลากที่ต่ําผิดปกติ สําหรับผู้ซื้ออีวีต่างประเทศ วินัยแตกต่างจากรถไอซีเอ คําสั่งต้องจํากัดความจุของงาน ช่วงของล้อทดสอบ  and  มอเตอร์ที่ตรงกับ สKU เพราะ M03 ขายได้หลายรูปแบบที่ผสมได้ง่าย หน้านี้อ้างอิงของ "จีน-มาร์เก็ต" ทุกช่วงมี * CLTC * และต้องไม่ถูกเปรียบเทียบกับหมายเลข WLTP/NEDC, ผู้ผลิตแบตเตอรีไม่สามารถยืนยันได้ และมาตรฐานการชาร์จสินค้าส่งออก ต้องแยกหลักฐาน
 

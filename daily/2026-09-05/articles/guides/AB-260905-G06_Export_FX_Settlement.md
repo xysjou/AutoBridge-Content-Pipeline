@@ -7,8 +7,10 @@
 - **Primary Keyword**: export fx settlement trade fx registration
 - **Secondary Search Terms**: export FX settlement; trade foreign exchange; SAFE registration; goods flow funds flow; ASOne platform
 - **Suggested URL**: /guides/export-fx-settlement-trade-fx-registration/
-- **Search Intent**: 出口企业如何办理贸易外汇收支企业名录登记、收汇结汇并满足货物流-资金流匹配核查
+- **Search Intent**: Understand Export FX Settlement and Trade-FX Administration for Vehicle Exporters: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Export FX Settlement and Trade-FX Administration for Vehicle Exporters, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Export FX Settlement and Trade-FX Administration for Vehicle Exporters, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## The one step that must happen before the first receipt

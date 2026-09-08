@@ -1,16 +1,16 @@
 # SAIC MAXUS Xintu V80: 中国市場ディーゼル大型バン/ミニバス輸出参考
-## ツイート メタデータ
-- **SEOのタイトル**: ASIC MAXUS V80 (Xintu) ディーゼル ヴァン&ミニバスの輸出仕様ガイド
-- **メタ 記述**: SAIC MAXUS Xintu V80 PRO大型バン/ミニバスの中国市場参照:2.0Tディーゼル、マニュアル/AMT、長さおよび座席の変形、およびGVW/ペイロードは輸出バイヤーを得なければなりません。
-- H1 **: サイクマックスXintu V80: 中国市場ディーゼル大型バン/ミニバス輸出参照**
-- **主なキーワード**: SAIC MAXUS V80のバン輸出仕様
-- **二次検索条件**:MAXUS V80ディーゼルバン;Xintu V80 PRO 2.0T;V80ミニバスシート;MAXUS大型バン貨物;中国パネルバン輸出
-- **Suggested URL**: /vehicles/saic-maxus-v80/
-- **Search Intent**: 面向海外 B 端买家介绍新途 V80 中国市场版本身份、车身矩阵 / 座位 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- **イメージ提案**:側面図に示すSAIC MAXUS V80の大きいパネルのバンは貨物ボディ長さを表示するために示しました
-- アルト 提案**: 長い貨物ボディを示すSAIC MAXUS Xintu V80の大きいバンの側面のプロフィール**
-- **Schema Scope**: Article + Vehicle
+## SEOメタデータ
+- **SEOタイトル**: SAIC MAXUS V80 (Xintu) ディーゼル ヴァン及びMinibusの輸出仕様ガイド
+- **メタディスクリプション**: SAIC MAXUSの中国市場参照 Xintu V80 PRO 大型バン/ミニバス: 2.0T ディーゼル、マニュアル/ AMT、長さおよび座席の変形、GVW /ペイロード 輸出バイヤーは入手しなければなりません。
+- **H1**: SAIC MAXUS シンチュ V80: 中国市場ディーゼル大型バン/ミニバス輸出参照
+- **主要キーワード**: SAIC MAXUS V80 のバンの輸出仕様
+- **関連検索語**: MAXUS V80ディーゼル バン; Xintu V80 PRO 2.0T; V80ミニバス シート; MAXUS大型バン貨物; 中国パネル バン輸出
+- **推奨URL**: /vehicles/saic-maxus-v80/
+- **検索意図**: SAIC MAXUS Xintu V80を理解する:中国市場ディーゼル大型バン/ミニバス輸出参照:車両/部品輸出業者が確認、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- **画像候補**: SAIC MAXUS V80の側面図で示される大きいパネルのバンは貨物ボディ長さを表示するために示しました
+- **ALTテキスト**: SAIC MAXUSの側面のプロフィール Xintu V80の大きいバンは長い貨物ボディを示します
+- **スキーマ範囲**: Article + Vehicle
 
 シンチュ(「ニュールート」)V80は、SAIC MAXUSの大型バン(ビッグバン)ファミリーで、乗務員のミニバス、乗務員のバン、複数の体長を横断したパネル/カーゴのバンとして販売されています。 商用買い手は貨物の容積、座席およびGVWのためにそれを選びます、従ってこのページはボディ マトリックスおよびペイロードを証明する文書のまわりで整理されます。 2.0Tディーゼル**で** 2025 V80 PROをカバーします。 古い2.5Tは、レガシーのパワートレインで、この参照に運ばれません。
 
@@ -58,7 +58,7 @@
 
 **身体の長さは? アパート**
 
-Roughly 4950/5490/5700 mm with 3100/3640/3850 mm wheelbases by version (single-source matrix to confirm).
+ほぼ4950/5490/ 5700 mm、3100/3640/ 3850 mm ホイールベースバージョン(単一ソースの行列が確認)
 
 **そのペイロードとは? アパート**
 
@@ -71,15 +71,15 @@ Payload/GVW はここで引用されていません。特定のシャシの MIIT
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 新途 V80 多 トリム 参数 (2.0T、6MT/6AMT、车长 4950/5490/5700、WB3100/3640/3850) | 懂车帝车型参数 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力、变速箱、尺寸矩阵  |
+| 新途 V80 多 トリム 参数 (2.0T 、 6MT/6AMT 、 车长 4950/5490/5700 、 WB3100/3640/3850) | 懂车帝车型参数 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力 、 变速箱 、 尺寸矩阵 |
 | V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T 动力、座位、尺寸  |
 | V80 厢式 / 客车版本与尺寸 / 税 税 税 税 税 税 税 税 税 税 税 税  税 税 税 税 税 税  税  税   税   税   税  税   税       税               税       税       分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 | 新浪汽车车型库 | 日 時 分 | T3 | シングル_ソース | https://db.auto.sina.cn/1354/ | 车身形式、尺寸  |
 | サイクマックス グローバル公式企業 | サイクマックス 営業拠点 | エクスポーター | T1 | 検証済み | https://en.saicmaxus.com/ | アイデンティティ — OEM のグローバル; 輸出 V80 は中国 新途 V80 と異なります |
 | 上汽大通 マックスス 中国官方 | サイクマックス 中国の中国 | CN の | T1 | 検証済み | https://www.maxusmall.com/ | アイデンティティ — 中国市場公式モデルライン |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | 本人確認 — GVW/seat/cargo の変種をアナウンスで検証 |
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | 本人確認 ～  GVW  / 座席 / cargo の変種をアナウンスで検証 スタッフ
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参照の市場**:中国(2025 PRO 2.0T;老 2.5T 不入本篇;额定载质量/总质量须公告)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

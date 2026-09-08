@@ -1,16 +1,16 @@
 # FAW Jiefang J7 Tractor: Một tài liệu tham khảo Trung Quốc về các vấn đề nặng nề, giữ cho thế hệ Trung Quốc- 5 và Trung Quốc- 6 khác biệt
-## SAO Siêu dữ liệu
-- **SEAO Titry**: FAW Jiefang J7 Bộ xem và xuất bản kiểm tra tự động lưu trữ
-- **Meta Mô tả**: Tham khảo thị trường Trung Quốc cho máy kéo nặng J7 FAW: the historical China-5 CA6DM3 550 PS line kept separate from the current China-6 CA6SX1 up-to-600 PS line, Bố trí 6x4  and  xuất khẩu séc.
-- ** H1 **: FAW Jiefang J7 Tractor: một _Tát nặng Trung Quốc giữ cho Trung Quốc- 5 và Trung Quốc- 6 thế hệ khác nhau
-- ** Từ khoá bí mật **: FAW Jiefang J7 export specs
-- **Secondary Search Words**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Máy kéo Jiefang J7 6x4; Xuất khẩu xe tải nặng của Trung Quốc; China-6 J7 600 PS
-- ** URL đã được đánh dấu**: /vehicles/faw-jiefang- j7-tractor/
-- **Tìm kiếm ý định**: 面向海外买家介绍解放J7中国市场身份，严格区分国五历史款CA6DM3与国六现售CA6SX1两代动力
-- **I nội bộ Link gợi ý**: /vehcles/qiglo-isu- kv100/, /vehicles/zoomlin- ztc250h-truck-crane/, /guides/child-export-lice /
-- **Image surries**: A FAW Jiefang J7 cao của 6x4 đơn vị máy kéo được hiển thị từ phía ba phần tư
-- **LT Đề nghị**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: FAW Jiefang J7 Bộ xem và xuất bản kiểm tra tự động lưu trữ
+- **Meta mô tả**: Tham khảo thị trường Trung Quốc cho FAW Máy kéo nặng Jiefang J7: the historical China-5  CA6DM3  550  PS  line kept separate from the current China-6  CA6SX1  up-to-600  PS  line, Bố trí 6x4  and  xuất khẩu séc.
+- **H1**: FAW Jiefang J7 Tractor: một sky-Market Heavy-Truck tham khảo giữ các thế hệ Trung Quốc- 5 và Trung Quốc 6
+- **Từ khóa chính**: FAW  Jiefang J7 export specs
+- **Cụm tìm kiếm phụ**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 máy kéo; Xuất khẩu xe tải nặng Trung Quốc, Trung Quốc 6 J7 600 PS
+- **URL đề xuất**: /vehicles/faw-jiefang-j7-tractor/
+- **Ý định tìm kiếm**: Hiểu FAW Jiefang J7 Tractor: một tài liệu Trung Quốc-Market Heavy-Truck tham khảo giữ cho thế hệ Trung Quốc- 5 và Trung Quốc- 6 khác nhau: những gì một xe/một phần phải kiểm chứng, tài liệu và quyết định trước khi cam kết với một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **Gợi ý hình ảnh**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
+- **Văn bản ALT**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 Chiếc FAW Jiefang J7 là chiếc máy kéo bán tải nặng của tàu chở hàng từ hãng xe tải nặng nhất Trung Quốc, chủ yếu bán được giá 6x4 đô cho công việc làm việc đường dây dài. Quy luật đặc trưng cho người mua xuất khẩu là **Thế hệ**: J7 đã được cung cấp với một động cơ Trung Quốc 5 (tiếng Việt quốc gia) từ thời 2018 và một mới hơn Trung Quốc 6 (tiếng Việt) và kết hợp số lớn nhất từ mỗi số điện thoại thành một " J7 đặc trưng" chính xác là lỗi mà trang này ngăn chặn. Đây là một tài liệu tham khảo của ** Trung Quốc, được đo từ dầu diesel; LNG và J7 biến thể điện thuần túy và bất kỳ nước ngoài J7 đều nằm ngoài trang này, và đầu ra một nguồn được đánh dấu để xác nhận.
 

@@ -1,20 +1,22 @@
-# Chery Fulwin T9 (风云 T9): a C-DM Plug-in Hybrid Mid-Size SUV — China Specs for Export
+# Chery Fulwin T9 (): T9): )أ( C-DM Plug-in Hybrid Mid-Size SUV - China Specs for Export
 
-## SEO Metadata
-- ** عنوان المنظمة**: Chery Fulwin T9 C-DM PHEV Specs " Export Guide (China Reference)
-- ** وصف البيانات**: السوق الصينية Chery Fulwin T9 C-DM plug-in hybrid SUV — 1.5T dedicated motor, 150 kW محرك أمامي 32.66 kWh بطارية  120–220 km CLTC, 5/7 مقعد  and  -مصدرة
-- ** URL المقتطع**: /المركبات/الزفاف - الكسب - t9/
-- ** H1 **** Chery Fulwin T9 C-DM: Chinese-Market PHEV SUV Specs and Export Verification
-- ** كلمة رئيسية**: chery fulwin t9 specs export
-- ** شروط البحث الثانية**: (فولوين) T9 سي دي إم)  风云T9 plug-in hybrid, الشيشان T9 32.66kWh (فولوين) T9، 7-seat، تصدير مركبات الدفع الرباعي من طراز PHEV الصينية
-- ** Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/;guides/export-vehicle-document-package/
-- ** اقتراحات تتعلق بالنص**: Fulwin T9 three-quarter; - شحن الموانئ؛ 5 مقابل 7 مقعد في نظام تخطيط المقاعد؛ 1.5T شارة من طراز C-DM؛ منطقة الشحن
-- ** الاقتراحات**: "الكريم فولوين T9 سي دي إم plug-in hybrid SUV" "Fulwin T9 32.66kWh battery CLTC range"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Chery Fulwin T9 C- DM PHEV دليل التصدير (مراجع الصين)
+- **وصف Meta**: السوق الصينية Chery Fulwin T9 C- DM plug-in hybrid SUV — 1.5T dedicated motor, 150 kW محرك أمامي 32.66 kWh بطارية  120–220 km  CLTC , 5/7 مقعد  and  -مصدرة
+- **H1**: Chery Fulwin T9 C- DM: Chinese-Market PHEV SUV Specs and Export Verification
+- **الكلمة المفتاحية الرئيسية**: chery fulwin t9 specs export
+- **مصطلحات بحث ثانوية**: Fulwin T9 C- DM,  风云T9 plug-in hybrid, الشيشان T9 32.66kWh (فولوين) T9، 7-seat،  Chinese  PHEV   SUV  export
+- **URL المقترح**: /vehicles/chery-fulwin-t9/
+- **نية البحث**: Chery Fulwin T9 C- DM: Chinese-Market PHEV SUV التحقق من سبل التصدير والتحقق منها: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **اقتراح الصورة**: Fulwin T9 three-quarter
+- **نص ALT**: Chery Fulwin T9 C- DM plug-in hybrid SUV
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## مشتري (كونتسيكست) سيارة إسعاف عائلية ذات صورة طويلة
 الـ (فولوين) T9 هو سيارة (شيري) ذات الحجم المتوسط للسيارات المهجينة، التي عرضت في خمسة و سبعة استمارات ويهيمن خطأان في الطلب على هذا النموذج: خلط بين T9 مع T9L ** الممتد، واقتباس النطاق الكهربائي دون تسمية البطارية. وتوثّق هذه الصفحة ** الفولوين العادي T9 (REFERENCE MARKET: CHINA)**؛ أما الـ T9L أطول (حوالي 4870 mm/ 2920 mm قاعدة متحركة) فهي هيئة مختلفة وتُستبعد عمدا. وقد استُخدمت صفحة لتشكيل مكتب تنظيم المشاريع لهذا النموذج، وهو ما يعزز قاعدة المواصفات.
 
-## PHEV Powertrain: Dedicated Engine + Motor + single-Speed DHT
+# PHEV Powertrain: مهندس مكرس + موتورب + محرك واحد سريع
 | البند | Fulwin T9 C-DM (China reference) |
 |---|---|
 | المهندس | 1.5 T البنزين الهجين المكرس (115 kW/ 220 N·m محرك فقط؛ الصين 6b) |
@@ -85,18 +87,18 @@
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | GB 38031 traction-battery safety requirement (national standard) | إدارة المعايير | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | خط الأساس للسلامة في إطار مكافحة الركاز ذي الصلة بحزمة الترميم ذات الصبغة العالية |
-| GB 18352.6-2016/XG1-2026 عجلات خفيفة (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | إطار الانبعاث الحالي للصين - 6 للمحرك المخصص البالغ 1.5T (مراجع من الصين إلى 6b) |
+| GB 18352.6-2016/XG1-2026 (الصين) (6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk01/202604/t20260430_t20260430_1150676.html | 2026-09-05 | |RE É É É É État - 6 Institut 1.5T (ene des 6b) ?
 | Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | مثقفة | البطارية، الأبعاد، المقاعد، الشحن، النسخ |
 | T9 فرد من الأفراد النموذجي) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | صرخات | الأبعاد، والحدود على أساس السنة النموذجية |
-| Fulwin T9 120 بطول المدى | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | صرخات | 32.66 kWh، النطاق الكهربائي، المحرك |
-| Fulwin T9 bat " EV-range analysis " | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE OURCE | البطارية، وسلسلة مراكز الاتصال المعنية بالحملات، وزمن الشحن |
+| Fulwin T9 120ен | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | | | صرخ 32.66 KWh, and, and,
+| Fulwin T9 bat "EV-range analysis " | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 ، 2026-09-04 ، SINGLE OURCE ،, and − ?
 | أبعاد إطلاق الفولوين T9 | قاعدة بيانات سوهو | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | صرخات | حجم السيارة ذات العجلات المتوسطة الحجم، السعر المحلي |
 | 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | مفقود | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
 * ملاحظة: موقع تركيبة OEM (مذيع مدمج)؛ - أوقات الشحن وحجم الشحنات مصدر واحد؛ النطاق المشترك هو مطالبة شركة تصنيع. Standard T9 only — T9L excluded.*
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، معيار فولوين T9 جيم - الإدارة (المرجع المتعلق بالسوق الصينية؛ وعلامة مركز التجارة التجارة العالمية؛ وليس مواصفات عالمية)
 - ** طريقة التأجيل**: يُثبت عظمة الأوسمة؛ ويُعَدّ المعيار ضدّ قاعدة طويلة؛ وتُعزى مطالبات المصنع إلى

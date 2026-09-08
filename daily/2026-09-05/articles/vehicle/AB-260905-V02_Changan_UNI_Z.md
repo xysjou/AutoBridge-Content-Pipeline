@@ -7,8 +7,10 @@
 - **Primary Keyword**: Changan / 长安 UNI-Z specs export
 - **Secondary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese plug-in hybrid SUV; V2L export; CLTC range
 - **Suggested URL**: /vehicles/changan-uni-z/
-- **Search Intent**: 了解 Changan / 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Veri, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context and model identity

@@ -1,16 +1,16 @@
 # China Zoll IPR Aufzeichnung: Wie Marken, Patente und Urheberrechte an der Exportgrenze geschützt werden
-## SEO Metadaten
-- **SEO Titel**: China Zoll IPR Recording für Fahrzeug- und Teileexporteure | AutoBridge
-- **Meta Description**: Wie China Customs registrierte Marken, Patente und Urheberrechte an der Grenze schützt, den Unterschied zwischen ex-officio und on-request-Inhaftierung und was ein Exporteur vor dem Versand einreichen muss.
-- ** H1 **: China Zoll IPR Aufzeichnung: Wie Marken, Patente und Urheberrechte an der Exportgrenze geschützt werden
-- ** Primäres Keyword**: China Customs ipr Recording Export Protection
-- **Secondary Search Terms**: Zoll-Ipr-Schutz-Verordnung; GACC-Aufzeichnung von geistigem Eigentum; ex-officio Zollhaft; Warenzeichen-Aufzeichnung Export; Patent-Grenzschutz China
+## SEO-Metadaten
+- **SEO-Titel**: China Zoll IPR Aufzeichnung für Fahrzeug- und Teileexporteure | AutoBridge
+- **Meta-Beschreibung**: Wie der chinesische Zoll registrierte Marken, Patente und Urheberrechte an der Grenze schützt, den Unterschied zwischen ex-officio und auf Antrag Inhaftierung und was ein Exporteur vor dem Versand einreichen muss.
+- **H1**: China Zoll IPR Aufzeichnung: Wie Marken, Patente und Urheberrechte an der Exportgrenze geschützt werden
+- **Haupt-Keyword**: Ausfuhrschutz für China Zoll ipr Aufzeichnung
+- **Sekundäre Suchbegriffe**: Zoll ipr Schutzverordnung; GACC geistiges Eigentum Aufzeichnung; ex-officio Zollhaft; Markeneintragung Export; Patent Grenzschutz China
 - **Vorgeschlagene URL**: /guides/ipr-customs-recordation-export-protection/
-- **Search Intent**: 出口企业如何通过海关知识产权备案, 在进出口环节获得商标 / 专利 / 著作权边境保护, 依职权与依申请两条路径有何区别
-- **Interne Linkvorschläge**: /guides/export-license-dual-use-items-catalogue- 2026/, /guides/Customs-voluntary-disclosure-audit-tolerance/, /guides/china-e-port-enrollment-ic-card-operator/
-- **Bildvorschlag**: Ein Zollbeamter, der eine Aufzeichnungsdatei über geistiges Eigentum neben versiegelten Exportkartons überprüft, die mit einem Markenlogo gekennzeichnet sind
-- **ALT Vorschlag**: Offener Ordner für die IPR-Aufzeichnung auf einem Schreibtisch mit versiegelten Exportkartons im Hintergrund
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **Suchabsicht**: China Zoll IPR verstehen Aufzeichnung: Wie Marken, Patente und Urheberrechte an der Exportgrenze geschützt sind: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-license-dual-use-items-catalogue-2026/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/china-e-port-enrollment-ic-card-operator/
+- **Bildvorschlag**: Ein Zollbeamter, der eine Akte zur Aufzeichnung geistiger Eigentumsrechte neben versiegelten Exportkartons, die mit einem Markenlogo gekennzeichnet sind, überprüft
+- **ALT-Text**: Öffnen Sie IPR-Aufzeichnungsordner auf einem Schreibtisch mit versiegelten Exportkartons im Hintergrund
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Wenn ein in China hergestelltes Fahrzeug oder ein Container mit Ersatzteilen einen Markennamen, ein Logo, einen patentierten Mechanismus oder lizenziertes Designmaterial trägt, räumen die Waren die Grenze nicht in einem Vakuum des geistigen Eigentums. China betreibt ein spezielles Grenzschutzregime gemäß den Verordnungen zum Zollschutz der Rechte des geistigen Eigentums und ihren Durchführungsbestimmungen (General Administration of Customs of China Order No. 183). Das entscheidende Instrument für einen Rechteinhaber ist die Zollaufzeichnung: Sobald eine Marke, ein Patent oder ein Urheberrecht bei GACC registriert ist, ist der Zoll in der Lage, auf der Import- und Exportstufe zu handeln. Dieser Leitfaden trennt, was das Regime zuverlässig tut, die beiden Routen in Schutz und die Punkte, die ein Exporteur oder Markeninhaber von Fall zu Fall überprüfen muss - ohne Gebühren oder Anleihebeträge festzulegen, die nach Materie beurteilt werden und sich im Laufe der Zeit ändern.
 

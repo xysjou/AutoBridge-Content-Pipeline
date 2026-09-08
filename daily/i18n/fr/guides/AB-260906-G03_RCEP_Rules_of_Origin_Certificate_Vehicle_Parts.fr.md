@@ -1,16 +1,16 @@
 # RCEP Règles d'origine et certificats: Préférence des véhicules et des pièces d'automobile
-## OEuvre Métadonnées
-- **Référencement Titre**: Règles d'origine du RCEP pour les véhicules et les pièces automobiles: Guide de certificat
-- **Description détaillée**: Comment les exportateurs chinois de véhicules complets et de pièces d'automobiles satisfont aux critères d'origine du RCEP, utilisent le cumul et choisissent un certificat d'origine ou une déclaration d'exportateur agréé pour demander une préférence tarifaire.
-- ** H1 **: Règles d'origine et certificats du RCEP: Comment les véhicules et les pièces d'automobiles demandent-ils la préférence?
-- **Mot-clé principal**: règles d'origine du RCEP
-- **Conditions de recherche secondaires**: certificat d'origine du RCEP; cumul régional du RCEP; déclaration d'exportateur approuvée RCEP; certificat de retour en arrière; préférences tarifaires du RCEP pièces auto
-- **Suggested URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
-- **Intention de la recherche**: 出口 RCEP 成员国的整车 零部件如何满足原产地规则 -申领原产地证书或经核准出口商声明以享关税优惠
-- **Internal Link Suggestions**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Suggestion d'image**: Un certificat d'origine en cours de préparation aux côtés de pièces d'automobile emballées pour une destination du RCEP
-- ** Suggestion ALT**: Les mains préparent un certificat d'origine du RCEP à côté des cartons auto-partis étiquetés
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: RCEP Règles d'origine pour les véhicules et pièces automobiles: Guide de certificat
+- **Description meta**: Comment les exportateurs chinois de véhicules complets et de pièces automobiles satisfont aux critères d'origine RCEP, utilisent le cumul et choisissent un certificat d'origine ou une déclaration d'exportateur agréé pour demander une préférence tarifaire.
+- **H1**: RCEP Règles d'origine et certificats: Préférence des véhicules et des pièces d'automobile
+- **Mot-clé principal**: RCEP règles d'origine certificat pièces de véhicule
+- **Termes de recherche secondaires**: RCEP certificat d'origine; RCEP cumul régional; déclaration d'exportateur approuvée RCEP; certificat de retour à la suite; RCEP pièces d'automobiles à préférences tarifaires
+- **URL suggérée**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
+- **Intention de recherche**: Comprendre RCEP Règles d'origine et certificats: Comment les véhicules et les pièces d'automobiles demandent-ils la préférence: ce qu'un exportateur de véhicules ou pièces d'automobiles doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Suggestion d'image**: Un certificat d'origine en préparation avec des pièces d'automobile emballées pour une destination RCEP
+- **Texte ALT**: Mains préparant un certificat d'origine RCEP à côté des cartons auto-particules étiquetés
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Un véhicule ou un conteneur de pièces d'automobile ne reçoit un tarif préférentiel du RCEP à la destination que s'il ** est qualifié de originaire** et est ** documenté d'une manière que la douane importatrice accepte**. Être expédié de Chine ne suffit pas, et une facture commerciale disant « made in China » n'est pas une preuve d'origine. Cette page passe par les tests d'origine du RCEP, le rôle du cumul régional, les trois itinéraires de preuve et le mécanisme de retour qui importe lorsque les marchandises passent par un tiers du RCEP.
 

@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation): China-Market Compact SUV Referência de exportação
-## SEO Meta- dados
-- ** Título SEO**: Geely Boyue L Exportar Especificações: 1.5T/2.0T Guia de Compra de SUV compacto
-- ** Descrição do Meta**: Referência do mercado chinês para o Geely Boyue L SUV compacto: dimensões e carga, 1.5T e 2.0T variantes separadas, o Starray nome de exportação, e VIN-nível de verificação comprador.
-- ** H1 **: Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV Referência de exportação
-- **Chave Primária**: Geely Boyue L Especificações de exportação
-- ** Termos de pesquisa secundários**: Geely Boyue Dimensões L; Boyue L 1.5T 7DCT; Geely Starray exportação; China compacto SUV; Boyue Espaço de carga L
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍 Boyue L 中国市场版本身份, 尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- * Sugestão de imagem**: Um menino geely L SUV compacto em perfil mostrando seu telhado e revestimento de arco de roda**
-- **ALT Sugestão**: Perfil lateral de um menino geely L compacto SUV em um plano de fundo simples
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: Geely Boyue L Exportar Especificações: 1.5T/2.0T Compact SUV Guia do Comprador
+- **Meta descrição**: Referência do mercado chinês para o Geely Boyue L compacto SUV: dimensões e carga, 1.5T e 2.0T variantes separadas, a Starray nome de exportação resguarda, e VIN - nível de verificação comprador.
+- **H1**: Geely Boyue L (4th-Generation): Compacto China-Mercado SUV Referência de exportação
+- **Palavra-chave principal**: Geely Boyue L Especificações de exportação
+- **Termos de busca secundários**: Geely Boyue Dimensões L; Boyue L 1.5T 7DCT; Geely Starray exportação; compacto chinês SUV; Boyue Espaço de carga L
+- **URL sugerida**: /vehicles/geely-boyue-l/
+- **Intenção de busca**: Compreenda Geely Boyue L (4th-Generation Boyue): China-Compacto de Mercado SUV Referência de exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Sugestão de imagem**: Um menino geely L compacto SUV em perfil mostrando seu telhado e revestimento de arco de roda
+- **Texto ALT**: Perfil lateral de um menino geely L compacto SUV em um plano de fundo plano
+- **Escopo do schema**: Artigo + Veículo
 
 O Boyue L é a evolução de quarta geração do compacto SUV de Boyue (Língua Atlas/Proton X70-family) de Geely, um cruzamento de cinco portas, cinco lugares, tração dianteira e direção voltada para o coração do segmento família-SUV. Atravessando-o para exportação é principalmente uma questão de escolher o trem de força certo e não confundir o carro chinês com o mercado de exportação diferente especificado Starray. Esta página documenta apenas a referência ** do mercado chinês.**
 

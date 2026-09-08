@@ -1,16 +1,16 @@
 # Roewe iMAX8: 中国市場セブンシートMPV 輸出入バイヤーの参照
-## ツイート メタデータ
+## SEOメタデータ
 - **SEOタイトル**: Roewe iMAX8 MPV 輸出仕様: 座席、寸法、2.0T バイヤーガイド
-- **メタ 記述**: Roewe iMAX8 7-seat MPVの中国市場参照:2+2+3座席およびスペース、次元、モデル年独立2.0T口径測定は分けられ、そして輸出確認のステップを輸出します。
-- H1 ホテル **: Roewe iMAX8: 中国市場セブンシートMPV 輸出入バイヤーの参照**
-- **主なキーワード**: Roewe iMAX8輸出仕様
-- **二次検索条件**: Roewe iMAX8 MPV; iMAX8 7座席 2+2+3; iMAX8 次元のホイールベース; SAIC MPVの輸出; iMAX8 2.0T エイシン 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- **Search Intent**: 面向海外 B 端买家介绍 iMAX8 中国市场版本身份、座椅空间/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **イメージ提案**: ホイールベースと後ドアをスライドさせるロエヴェiMAX8 MPVの側面図
-- アルト 提案**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  ロングホイールベース**
-- **Schema Scope**: Article + Vehicle
+- **メタディスクリプション**: Roewe iMAX8 7-seat MPVの中国市場参照:2+2+3座席およびスペース、次元、モデル年によって独立した2.0T口径測定は分け、および輸出確認のステップを保たれました。
+- **H1**: Roewe iMAX8: 中国市場セブンシート MPV 輸出入バイヤーの参照
+- **主要キーワード**: Roewe iMAX8 輸出仕様
+- **関連検索語**: Roewe iMAX8 MPV;iMAX8 7座席2+2+3;iMAX8次元のホイールベース;SAIC MPVの輸出;iMAX8 2.0Tのアイシン8AT
+- **推奨URL**: /vehicles/roewe-imax8/
+- **検索意図**: ルーウィを理解する iMAX8: 中国の市場セブンシートMPV 輸出のためのバイヤーの参照: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **画像候補**: ホイールベースと後ドアをスライドさせる、Roewe iMAX8 MPVのサイドビュー
+- **ALTテキスト**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  ロングホイールベース
+- **スキーマ範囲**: Article + Vehicle
 
 The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door, セブンシート(2+2+3) 正面ホイールドライブ MPV ご家族向け  and  役員のシャトルの使用。 輸出のため、 座席にMPVが購入  and  スペース ファースト  and  its horsepower second, そこで、このページはキャビンアーキテクチャーでリードしています。 ** petrol iMAX8 のみ** をカバーします。 どのハイブリッドか電気iMAX8の変形も異なったプロダクトであり、意図的に混合されません。
 
@@ -78,15 +78,15 @@ RHDバージョンは、ここで使用されている中国市場ソースに�
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 荣威 iMAX8 官方车型页 (车型官方身份;官网动态渲染尺寸未取到、尺寸以数据库为准) | 荣威汽车官网 | 日 時 分 | T1 | 検証済み | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+| 荣威 iMAX8 官方车型页 (车型官方身份); 官网动态渲染尺寸未取到 、 尺寸以数据库为准) | 荣威汽车官网 | 日 時 分 | T1 | 検証済み | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份 |
 | iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
 | iMAX8 尺寸 / 座位 (5016 × 1909 × 1788、WB3000、7 座) | 58汽车 | 日 時 分 | T3 | シングル_ソース | https://car.58.com/x/4112/ | 尺寸、座位  |
 | iMAX8 20A4E 发动机 (234Ps) 与配置 | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
 | サイク モータ公式(ローエフブランドオーナー) | サイク モーター | CN の | T1 | 検証済み | https://www.saicmotor.com/e/ | アイデンティティ — OEM の親企業; Roewe は SAIC のブランドです |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 発表による同質な中国変異と座席数を検証 |
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 発表による同質な中国変異と座席数を検証 |
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参考市場**:中国(本篇锁燃油版;混动/纯电 iMAX8 不混入;动力年款标定分列)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

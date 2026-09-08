@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Boyue L 수출 Specs: 1.5T/2.0T 조밀한 SUV 구매자 가이드
-- **마타 기술 **: Geely Boyue에 대한 중국 시장 참조 L 콤팩트 SUV: 차원과 화물, 1.5T 및 2.0T는 분리된, Starray 수출 이름 caveat 및 VIN 수준 구매자 체크를 변형했습니다.
-- ** H1 **: 게릴리 Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
-- ** 출원 키워드**: Geely Boyue, 그리스 L 수출 specs
-- **세컨드 검색 이용 약관**: Geely Boyue L 차원; Boyue L 1.5T 7DCT; Geely Starray 수출; 중국 조밀한 SUV; Boyue L 화물 공간
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- ** 수색 **: 面向海外 B 端买家介绍 Boyue L 中国市场版本身份, 尺寸 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- ** 이미지 제안 **: Geely Boyue L 조밀 한 SUV 프로파일에 지붕 및 휠 아치 클래딩을 보여주는
-- ** ALT suggestion**: Geely Boyue의 측면 프로파일 일반 배경에 L 컴팩트 SUV
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: 간장 L 수출 Specs: 1.5T/2.0T 콤팩트 SUV 회사소개
+- **메타 설명**: Geely Boyue에 대한 중국 시장 참조 L 콤팩트 SUV: 치수 및화물, 1.5T 및 2.0T 변형 분리, 스타 레이 수출 이름의 동굴, VIN - 레벨 구매자 검사.
+- **H1**: 게릴리 Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
+- **주요 키워드**: Geely Boyue, 그리스 L 수출 specs
+- **보조 검색어**: Geely Boyue, 그리스 L 차원; Boyue L 1.5T 7DCT; Geely Starray 수출; 중국 소형 SUV; Boyue의 L 화물 공간
+- **추천 URL**: /vehicles/geely-boyue-l/
+- **검색 의도**: Geely Boyue L (4th-Generation Boyue)의 이해: 중국 시장 컴팩트 SUV 수출 참고: 차량 / 부품 수출자는 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **이미지 제안**: A Geely Boyue, 그리스 L 콤팩트 SUV 프로파일에서 지붕 및 휠 아치 클래딩을 보여주는
+- **ALT 텍스트**: 옆의 프로필 Geely Boyue L 컴팩트 SUV 일반 배경
+- **스키마 범위**: 제+차량
 
 The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (Atlas/Proton X70-family lineage) compact SUV — a five-door,  five-seat, 앞바퀴 드라이브 크로스오버는 가족-SUV 세그먼트의 심장에 겨냥합니다. 수출을 위해 그것을 저장하는 것은 주로 적당한 powertrain를 선택의 질문이고 다른 지정된 수출 시장 Starray를 가진 중국 차를 혼란하지 않습니다. 이 문서는 **중국 시장 참고 ** 만.
 
@@ -20,7 +20,7 @@ The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (At
 |---|---|---|---|
 | 외부 차원 | 4730 × 1910 × 1710 mm | 중국 · 크로스 검사 | CROSS_체크 |
 | 휠베이스 | 2785 mm | 중국 · 크로스 검사 | CROSS_체크 |
-| 수화물 양 | 650 L seats-up, up to 1610 L with rear seats folded | 중국 · 크로스 검사 | CROSS_체크 |
+| 양자외 | 650 L 석, 1610 L까지 접힌 리어 시트|중국 · 크로스 검사 | CROSS_체크 |
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 5-door/5-seat 컴팩트 SUV, FWD | 담당자: Mr. Li | CROSS_체크 |
 
 ## Two petrol powertrains, 다른 증거 힘
@@ -79,15 +79,15 @@ RHD 없음 중국 시장 버전은 여기에 증거; RHD 목적지에 대해 별
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | 담당자: Mr. Li | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱,  燃油标号  |
-| 2025 款博越 L 尺寸/轴距/后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸,  后备厢  |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱,  燃油标号  |
+| 2025 款博越 L 尺寸/轴距/后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸,  后备厢  |
 | 博越 L 1.5T 配置表 (133kW/181Ps/290N·m, 7DCT, 92 #) | 车主之家 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱, 动力, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 动力, 动力, 变速箱, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 变速箱, 动力, 变速箱, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 变速箱, 动力, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱  |
-| Geely 새로운 Boyue L 사양 테이블 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec 테이블; 시장 빌드 확인 |
-| Geely Starray 브로셔 (Qatar) - 수출 시장 참조 | 굿 Qatar | - 연혁 | T1 | CROSS_체크 | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray는 수출 명찰입니다; 중국 Boyue L에 동등한 수출 수 없습니다 |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 중국 변종을 균질화하는 검증 |
+| Geely 새로운 Boyue L 사양 테이블 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec 테이블; 빌드
+(주)지리 스타레이스(주) - 수출시장 진출자 안내 | 굿 카타르 | - 연혁 | T1 | CROSS_체크 | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | 정체성 - 세이프스(주)지리 씨 중국 Boyue  L 에 에 에 에  L  L  L 에  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 중국 변종을 균질화하는 검증 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (中国市场参考; Starray 为出口名但参数不与中国版等同)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

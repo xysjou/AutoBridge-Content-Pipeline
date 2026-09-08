@@ -1,15 +1,17 @@
 # Wuling Bingo (缤果): a Small Chinese Electric Hatchback - Specs dan Exporter Checks
 
-## SEO Metadata
-- ** Judul SEO **: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- ** Meta Description **: Cina, pasar Wuling Bingo, BeV kecil - Baterai LFP,  203/333/410 km CLTC steps,  30/50 kW motors, DC cepat pengisian, dimensi,  and  Apa yang penting harus memverifikasi per trim.
-- ** Sugested URL **: kendaraan wuling-bingo
--   H1 **: Wuling Bingo: Cinese- Pasar Kecil EV Specs dan Ekspor Verifikasi
-- ** Primary Keyword **: wuling bingo ev ekspor spesifikasi
-- ** Akhir Pencarian Second **: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, ekspor EV kecil Cina, 五菱缤果 spesifikasi
-- ** Internal Link Sugestions **: guide ev- shippping- un3556-imdg-compliance/; guide roislecle- pd-pre- pengiriman-handover kendaraan byd-qin-l dm-i
-- ** Saran Gambar **: lima pintu samping Bingo; 203 vs 333/410 lencana; kargo belakang dengan kursi dilipat; port pengisian; empat kursi kabin
-- "Wuling Bingo" "Mengiup sedikit hatchback listrik China spec"; "Wuling Bingo CLTC kisaran 203 333 410 km"
+## Metadata SEO
+- **Judul SEO**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **Deskripsi Meta**: Cina, Bursa Wuling Bingo, baterai kecil BEV - LFP,  203/333/410 km  CLTC  steps,  30/50 kW motors, DC cepat pengisian, dimensi,  and  Apa yang penting harus memverifikasi per trim.
+- **H1**: Weling Bingo: Pasar Cinese- Kecil EV Specs dan Verifikasi Ekspor
+- **Kata kunci utama**: wuling bingo ev spection export
+- **Istilah pencarian sekunder**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Cina kecil EV ekspor, 五菱缤果 spesifikasi
+- **URL yang disarankan**: /vehicles/wuling-bingo/
+- **Maksud pencarian**: Memahami Weling Bingo: Pasar Cinese- Kecil EV Specs dan Verifikasi Ekspor: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **Saran gambar**: lima - pintu Sisi Bingo
+- **Teks ALT**: Wuling Bingo listrik kecil hatchback China spec
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: sebuah Kota BeV Terjual dalam Langkah Tiga Range
 Bingo adalah pintu lima Wuling kecil hatchback listrik, ditujukan pada perkotaan dan cahaya pribadi komersial. Untuk sebuah eksportir variabel yang menentukan adalah ** langkah jangkauan **, karena daya motor, baterai dan kecepatan atas semua perubahan dengan itu. Lembar ini mencakup ** Cinese- baris pasar 2024 (REFERENCE MARKET: CHINA) *; tanpa halaman OEM di luar negeri, tokoh-tokoh Cina adalah referensi, bukan spesifikasi global.

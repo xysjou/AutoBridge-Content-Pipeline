@@ -1,15 +1,17 @@
 # Leer una calificación de carga de océano para la exportación de vehículos: estructura de carga sin números inventados
 
-## SEO Metadatos
-- **SEO Título**: Ocean Freight Charge Structure for Vehicle Export — O/F, THC, DOC, BAF Explained
-- **Meta Descripción**: Comprender los cargos de O/F, THC, DOC/SEAL/VGM, BAF y recargos, origin vs destino, y por qué los gastos de manifiesto de AMS/ACI/ENS son específicos para la ruta, una guía de estructura que deliberadamente no establece cantidades fijas.
-- ** URL agregada**: /guides/oceano-freight-charge-structure-vehicle-export
-- ** H1 **: Decodificar una cita de carga de vehículos-deporte: Que cargas existen, quién los carga, y qué verificar
-- **Primary Keyword**: estructura de carga de carga de mar de exportación de vehículos THC DOC BAF
-- **Segundary Search Terms**: O/F ocean flete, terminal handling charge, DOC document fee, SEAL VGM fee, BAF EBS recharge, AMS ACI ENS manifest fee, origin vs destination charges
-- **Sugerencias de enlace interno**: /guides/vehicle-export-bill-of-lading-types/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/vehicle-export-hs-code-classification/
-- **Sugerencias de imagen**: origen de la cascada imputable→oceano→destinación; taxonomía de sobrecargo; hoja de auditoría de línea de cotización
-- **Sugerencias de ALT**: "La estructura de carga de petróleo dividida por origen, océano y destino"
+## Metadatos SEO
+- **Título SEO**: Estructura de carga de carga de mar para la exportación de vehículos — O/F, THC, DOC, BAF Explicado
+- **Meta descripción**: Comprender O/F, THC, DOC/SEAL/VGM, BAF y recargos, origin vs destino carga, y por qué AMS/ACI/ENS tasas de manifiesto son específicas para la ruta - una guía de estructura que declara deliberadamente no cantidades fijas.
+- **H1**: Decodificando un código de carga de vehículos-deporte: Que cargas existentes, quién los carga, y qué verificar
+- **Palabra clave principal**: ocean freight charge structure vehicle export  THC   DOC   BAF
+- **Términos de búsqueda secundarios**: O/F carga marítima, carga por manipulación terminal, DOC cuota de documento, SEAL VGM tarifa, BAF EBS recargo, AMS ACI ENS cuota de manifiesto, origin vs destino carga
+- **URL sugerida**: /guides/ocean-freight-charge-structure-vehicle-export
+- **Intención de búsqueda**: Comprender Decodificar un código de carga de vehículos-deporte: Que cargas existentes, quién los carga y qué verificar: qué debe verificar un exportador de vehículos/partes, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Sugerencia de imagen**: cobra origen cascada→oceano→destinación
+- **Texto ALT**: Estructura de carga de carga de mar dividida por origen, océano y destino
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## ¿Por qué una cita estructurada importa más que un número bajo
 Una tarifa de flete de titular gana reservas y pierde dinero en destino. Los exportadores de vehículos no se ven atrapados por el flete oceánico base, sino por la pila de recargos y tasas de destino que se adjuntan a él. Esta guía explica **lo que es cada carga, lo que se factura y donde surge**, y — porque cada tarifa se mueve con carril, capacidad y temporada— ** no establece cantidades fijas**. Úsalo para auditar una línea de cotización por línea, no para estimar un costo aterrizado.

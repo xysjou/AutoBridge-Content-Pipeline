@@ -1,15 +1,17 @@
 # Transport International Road for China Exporters - Carnet, Vehicle Approval, 2026 Aturan
 
-## SEO Metadata
-- ** Judul SEO ** Transportasi Jalan TIR dari China ke Asia Tengah Eropa: Carnet, Pendekatan Kendaraan dan 2026 Ekspansi
-- ** Meta Description **: Cara kerja angkutan jalan internasional TIR untuk eksportir kendaraan suku cadang Cina: Carnet TIR, sertifikat persetujuan kendaraan, kompartemen tertutup beban, Garis waktu Cina  and  2026 lingkup ekspansi.
--   H1 **: TIR International Road Transport untuk China Exporters - Carnet, Vehicle Approval, 2026 Aturan
-- ** Primary Keyword **: tir jalan transportasi China pusat asia
-- ** TerminalSecondary Search Terms **: TIR carnet; Pusat China Asia truk; sertifikat persetujuan kendaraan; segel bea cukai; transit jalan
-- ** Sugested URL **: panduan tir-jalan-transport -china-central-asia
-- ** Cari Intent **: 对中亚 欧洲卡航出口 如何适用 TIR 公约 办理 TIR 证与海关加封车辆批准证明 2026 新规变化
-- ** Internal Link Sugestions **: guide tir-roadtransport -china- central-asia guide mourle exoct -hs-code- history guide china -expression-ubahan-proclarationtionation -single-window
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: TIR Transportasi dari China ke Asia Tengah / Eropa: Carnet, Pendekatan Kendaraan dan 2026 Ekspansi
+- **Deskripsi Meta**: Bagaimana TIR angkutan jalan internasional bekerja untuk kendaraan / suku cadang Cina: Carnet TIR, sertifikat persetujuan kendaraan, kompartemen tertutup beban, Garis waktu Cina  and  2026 lingkup ekspansi.
+- **H1**: TIR International Road Transport for China Exporters - Carnet, Vehicle Approval, 2026 Aturan
+- **Kata kunci utama**: tir jalan transportasi Cina asia pusat
+- **Istilah pencarian sekunder**: TIR carnet; Pusat China Asia truk; sertifikat persetujuan kendaraan; segel bea cukai; transit jalan
+- **URL yang disarankan**: /guides/tir-road-transport-china-central-asia/
+- **Maksud pencarian**: Mengerti TIR International Road Transport for China Exporters - Carnet, Vehicle Approval, 2026 Aturan: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan TIR International Road Transport untuk China Exporters - Carnet, Kendaraan Pendekatan, 2026 Aturan, tidak ada pemeriksaan pentas atau orang-orang mengklaim.
+- **Teks ALT**: Dekat, pandangan alami dari bahan dan subjek yang terkait dengan TIR International Road Transport untuk China Exporters - Carnet, kendaraan Pendekatan, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Apa perubahan TIR untuk sebuah ekspor overland
 TIR adalah sistem transit bea cukai internasional yang membiarkan kendaraan jalan tertutup atau kontainer bergerak melintasi pihak-pihak yang berkontraksi dengan satu ** TIR carnet **, barang-barang biasanya tetap disegel dan tugas pajak dijamin sepanjang rantai. Untuk eksportir China kendaraan pengiriman atau bagian darat ke Asia Tengah dan seterusnya ke Eropa, hal itu mengurangi pemeriksaan dan jaminan perbatasan berulang. Ini adalah konvensi kerangka kerja; detail operasional diimplementasikan oleh setiap partai kontraktor kebiasaan.
@@ -41,7 +43,6 @@ Mengapa menyegel begitu penting? Kompartemen tersegel mendasari jaminan transit;
 ** Apakah TIR menggantikan deklarasi ekspor? ** Tidak - ia bekerja bersama deklarasi ekspor Cina.
 Does it cover sea barang? Ini adalah jalan (dan jalan intermodal) sistem transit; konfirmasi lingkup modal untuk rute.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Does it cover sea barang? Ini adalah jalan (dan jalan intermodal) sistem transit
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH **: tepat TIR International Road Transport untuk China Exporters
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact TIR International Road Transport for China Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
   - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
   - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Does it cover sea barang? Ini adalah jalan (dan jalan intermodal) sistem transit
   - **ID**: TIR road transport, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: TIR road transport, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: TIR road transport, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TIR #RoadFreight

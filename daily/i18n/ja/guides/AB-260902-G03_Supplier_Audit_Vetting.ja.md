@@ -1,15 +1,17 @@
 # 中国の車の輸出サプライヤーを支払いの前に確認する方法:デューデリジェンスチェックリスト
 
-## ツイート メタデータ
-- **SEOタイトル**:中国カー輸出サプライヤーを検証:デューデリジェンスチェックリスト
-- **メタ 記述**: 中国の車両輸出業者を賭けるための決済段階のデューデリジェンスフレームワーク — MIITアナウンス/CCC資格、ビジネスライセンスチェック、輸出認可チェーン、AEO、銀行口座マッチング、ビデオ監査基準。
-- **混雑したURL**: /guides/verify-china-car-export-supplier/
-- H1 ホテル **: 中国の車の輸出業者をVetting: 初回決済前に確認するべきこと
-- **主なキーワード**:中国の車の輸出の製造者のデューデリジェンス免許証を確かめて下さい
-- **二次検索条件**:中国車輸出資格、MIIT車メーカーの発表、CCC証明書輸出業者、gsxtビジネスライセンスチェック、中国車輸出承認チェーン、AEO通関信用
-- **内部リンク提案**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/used-chinese-ev-inspection/; /guides/commercial-truck-fleet-procurement-china/
-- **画像提案**: デューデリジェンス層状ピラミッド; gsxtビジネスライセンスチェックフィールド; 承認チェーン図; 銀行口座一致警告
-- **ALTの提案**:「中国の車の輸出業者のデューデリジェンス検証層」;「全国企業信用情報システムライセンス分野」;「工場承認チェーンへのサプライヤー」
+## SEOメタデータ
+- **SEOタイトル**: 中国の車の輸出サプライヤーを検証:デューデリジェンスチェックリスト
+- **メタディスクリプション**: 中国の車両輸出業者を賭けるための支払い段階のデューデリジェンスフレームワーク - MIITの発表/ CCCの資格、ビジネスライセンスチェック、輸出承認チェーン、AEO、銀行口座マッチング、ビデオ監査基準。
+- **H1**: 中国の車の輸出業者を包みます: 初回決済前に確認するべきこと
+- **主要キーワード**: 中国の車の輸出製造者のデューデリジェンス免許証を確かめて下さい
+- **関連検索語**: 中国車輸出資格、MIIT車メーカーの発表、CCC証明書輸出業者、gsxtビジネスライセンスチェック、中国車輸出承認チェーン、AEO税関クレジット
+- **推奨URL**: /guides/verify-china-car-export-supplier/
+- **検索意図**: 中国の車の輸出国にベッティングするのを理解する: 確認するべきこと 初回決済前:車両/パートの輸出業者が確認、文書化、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **画像候補**: デューデリジェンス層状ピラミッド
+- **ALTテキスト**: 中国の車の輸出業者のデューデリジェンス検証層
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## この問題は解決します
 
@@ -90,18 +92,18 @@
 **製造者が実際に輸出することを証明するものか。** 最近(≈ 3-month)輸出宣言とライン、株式、QCおよびロードドックのライブ監査、クレームに対してクロスチェック。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf
@@ -121,7 +123,7 @@
 |---|---|---|---|---|---|---|
 | 自動車・モーターサイクルの輸出注文をさらに調整する | MOFCOM ら. (ファイブミニストリーズ、公式T1) | CN の | 以下は、 https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 検証済み | MIIT発表+CCC輸出資格ベース |
 | 2024 Announcement No. 6(中古車輸出企業条件) | MOFCOM(公式T1) | CN の | 以下は、 https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 検証済み | 中古車輸出業者 |
-| 中国サプライヤーのビジネスライセンス認証を確認する方法 | グッドカン取引(業界、gsxt.gov.cnへのポイント) | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | gsxt 検証フィールド | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/
+| 中国サプライヤーのビジネスライセンス認証を確認する方法 | グッドカン取引 (業界 、gsxt.gov.cn へのポイント) |  CN  の | 以下は 、 | 2026-09-02 |  CROSS  |  CHECKED  (クロス) | gsxt 検証フィールド | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/
 | 中国工場の認証方法は正当化 | プルトニアグローバル・ロジスティクス | CN/グローバル | 以下は、 https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED(クロス) | 口座名一貫性、工場監査 |
 | 中国自動車輸出サプライヤーを確認する8-stepガイド | huajiame (工業) | CN の | 以下は、 https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED(クロス) | レイヤ監査フレームワーク、AEO |
 | 車両輸出調達ノート | (顺企网の企業) | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | ライブビデオ監査最小限、宣言クロスチェック | https://m.11467.com/blog/d18906274.htm 11467

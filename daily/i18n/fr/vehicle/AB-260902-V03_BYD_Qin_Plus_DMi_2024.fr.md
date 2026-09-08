@@ -1,14 +1,17 @@
 # BYD Qin Plus DM-i — Architecture PHEV, deux versions de batterie et contrôles d'exportation
-## OEuvre Métadonnées
-- ** Titre du référencement**: BYD Qin Plus DM-i PHEV: Deux versions de batterie et le guide d'exportation
-- **Description détaillée**: BYD Qin Plus DM-i a expliqué aux importateurs — comment le moteur 1.5L, moteur électrique,  8.32/18.32 kWh battery, E-CVT  and  les modes de fonctionnement se combinent,  and  pourquoi 55 vs 120 doit être fixé par le VIN.
-- **URL suggérée**: /véhicules/byd-qin-plus-dmi/
-- ** H1 **: BYD Qin Plus DM-i: Groupe motopropulseur PHEV, différences de version et ce que les importateurs doivent confirmer
-- **Mot-clé principal**: BYD Qin Plus DM-i spécifications exportation
-- ** Termes de recherche secondaires**: Qin Plus DM-i 55 vs 120, hybride rechargeable DM-i BYD, Qin Plus 18.32 kWh, Qin Plus DM-i marché outre-mer/Bahreïn, gamme PHEV NEDC WLTC, Chinese PHEV berline export
-- **Suggestions de lien interne**: /véhicules/byd-yuan-plus/; /guides/chinese-ev-charge-norme-compatibilité/; /guides/commercial-tuck-fleet-procurement-china/
-- **Suggestions d'image**: berline de profil latéral; 55 vs 120 version carte; DM-i moteur+moteur+E-CVT disposition; port de charge; espace de siège arrière
-- ** Suggestions ALT**: "BYD Qin Plus DM-i plug-in hybride berline"; " 55km contre 120km comparaison de batterie"; "BYD DM-i series-hybrid Powertrain layout"
+## Métadonnées SEO
+- **Titre SEO**: BYD Qin Plus DM -i PHEV: Deux versions de batterie et guide d'exportation
+- **Description meta**: BYD Qin Plus DM -i expliqué pour les importateurs — comment le moteur 1.5L, moteur électrique,  8.32/18.32 kWh battery, E- CVT   and  les modes de fonctionnement se combinent,  and  why 55 vs 120 must be fixed by  VIN .
+- **H1**: BYD Qin Plus DM -i: PHEV Groupe motopropulseur, différences de version et ce que les importateurs doivent confirmer
+- **Mot-clé principal**: BYD Qin Plus DM -i exportations de spécifications
+- **Termes de recherche secondaires**: Qin Plus DM -i 55 vs 120, BYD DM -i hybride rechargeable, Qin Plus 18.32 kWh, Qin Plus DM -i Overseas/Bahreïn market, PHEV NEDC WLTC range, Chinese PHEV berline export
+- **URL suggérée**: /vehicles/byd-qin-plus-dmi/
+- **Intention de recherche**: Comprendre BYD Qin Plus DM -i: PHEV Groupe motopropulseur, différences de version et ce que les importateurs doivent confirmer: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Suggestion d'image**: profil latéral il y a une
+- **Texte ALT**: BYD Qin Plus DM -i berline hybride rechargeable
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
+
 ## Pourquoi un DM-i doit être spécifié comme système
 La Qin Plus DM-i est une berline compacte hybride **plug-in (PHEV)**, ni une voiture électrique pure ni une voiture à essence conventionnelle. Le DM-i de BYD est un système de série parallèle: un petit moteur à aspiration naturelle ** 1.5L, un moteur électrique**, une batterie à pales LFP et un E-CVT** fonctionnent de manière à ce que la voiture fonctionne avec l'électricité lorsque c'est possible et utilise le moteur principalement pour une production efficace et une assistance à grande vitesse. Pour cette raison, une commande doit fixer ** quatre choses ensemble — la taille de la batterie, version électrique seulement, sortie du moteur et comportement de fonctionnement**; « un Qin Plus DM-i » sans la désignation 55/120 est ambigu. Cette page persistante couvre la construction chinoise ** 2024 Glory Edition (荣耀版) (Marché de la REVERENCE: CHINE)**. BYD présente également un **Qin Plus DM-i** sur des pages sélectionnées du marché outre-mer; ces spécifications officielles régionales régissent ces voitures. **Règle d'identité du modèle:** un modèle BYD PHEV nommé différemment est traité comme un modèle *lié*, pas le même modèle, sauf si BYD indique explicitement l'alias — plate-forme partagée, groupe motopropulseur ou apparence n'est pas une preuve de SAME_ - C'est un modèle.
 ## Les deux versions côte à côte
@@ -45,30 +48,30 @@ Aucun prix à l'exportation statique n'est publié; le RMB 79, 800–125, 800 Ch
 **Est-ce que 1245 km est électrique?** Non — c'est un chiffre combiné fuel+batterie chinois; électrique seulement est au plus 120 km NEDC.
 **Est-ce qu'il est vendu à l'étranger?** BYD présente un Qin Plus DM-i sur des pages de marché à l'étranger sélectionnées; utilisez la fiche officielle de destination. Toute plaque nominative d'exportation différente nécessite une confirmation BYD explicite — un BYD PHEV apparenté n'est pas supposé être le même modèle.
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

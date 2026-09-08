@@ -1,14 +1,17 @@
 # Digunakan EV Cina Pre- Ekspor Inspection: Baterai SOH Selesai dengan tepat, Plus Kecelakaan, Banjir dan Odometer Cek
-## SEO Metadata
-- ** Judul SEO **: Digunakan Inspeksi EV Cina: Baterai SOH, Banjir & Odometer Cek
-- ** Meta Description **: Cara memeriksa EV Cina yang digunakan sebelum ekspor - apa SOH sebenarnya berarti di bawah standar baterai, tes medis, pembacaan keseimbangan sel, pencitraan kecelakaan banjir dan odometer-siklus pemeriksaan, tanpa batas hukum ditemukan.
-- ** Sugested URL **: guide used-chinese- even- inspeksi
--   H1 **: Mencurigai EV Cina Digunakan Sebelum Ekspor: Apa Nomor Baterai Artinya dan Apa yang harus Tolak
-- ** Primary Keyword **: menggunakan baterai inspeksi EV Cina SOH checklist
-- ** Akhir Pencarian Second **: EV baterai standar QC T 743, GB T siklus kehidupan, menggunakan EV tegangan sel ketidakseimbangan, EV banjir kerusakan inspeksi, odometer rollback siklus baterai menghitung 31484
-- ** Internal Link Sugestions **: guide verify-chino- charports-exports guide chinese- v- charging-compatibility guiders important -chinese- ever- ke -russia- eactc
-- *** Sugesti Gambar **: Didiagnosa -alat SOH dan pembacaan tegangan seluler; metered 20–80% charge worksheet; titik pemeriksaan undertrate baterai; contoh rekaman layanan klaim
-- "Laporan diagnosa independen menunjukkan SOH dan perbedaan tegangan sel maksimum"; "metered charge- energy test loads"; "EV batre pack undertrate inspeccing points"
+## Metadata SEO
+- **Judul SEO**: Digunakan Cina EV Inspeksi: Baterai SOH, Banjir & Odometer Cek
+- **Deskripsi Meta**: Bagaimana memeriksa penggunaan Cina EV sebelum ekspor - apa SOH sebenarnya berarti di bawah standar baterai, tes tenaga medis, catatan keseimbangan sel, pencitraan kecelakaan / banjir dan odometer-siklus pemeriksaan, tanpa batas hukum ditemukan.
+- **H1**: Mempelajari Digunakan Cina EV Sebelum Ekspor: Apa arti Nomor Baterai dan Apa yang harus Tolak
+- **Kata kunci utama**: menggunakan baterai inspeksi EV Cina SOH
+- **Istilah pencarian sekunder**: EV baterai SOH standar QC/T 743, GB/T 31484 siklus kehidupan, digunakan EV ketidakseimbangan tegangan sel, EV kerusakan inspeksi, odometer rollback siklus baterai menghitung
+- **URL yang disarankan**: /guides/used-chinese-ev-inspection/
+- **Maksud pencarian**: Memahami Meninspeksi Dipakai Cina EV Sebelum Ekspor: Apa arti Angka Baterai dan Apa yang harus Tolak: apa yang ekspor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu perintah.
+- **Saran tautan internal**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Saran gambar**: diagnosa -tool SOH dan pembacaan tegangan sel
+- **Teks ALT**: Laporan diagnostik independen menunjukkan SOH dan perbedaan tegangan sel maksimum
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## Scope: sebuah Manual Inspeksi, Bukan New- vs- Dipakai Debate
 Keputusan untuk membeli *** yang dipakai seperti yang diberikan; halaman ini mencakup ** inspeksi teknis sebelum ekspor **. Ekonomi EV yang digunakan didominasi oleh baterai tegangan tinggi: tubuh bersih dengan pak usang dapat bernilai lebih sedikit dari biaya pengganti setelah pengiriman, sehingga urutan inspeksi operasi berbeda dari mobil ICE. Tujuan utama adalah untuk lebih tepat tentang apa "SOH 80%" sebenarnya adalah - referensi teknik, bukan garis bea cukai universal.
 ## Apa SOH Apakah - dan Apa 80% Gambar Sebenarnya Berarti
@@ -58,18 +61,18 @@ Mengapa orang mengutip 80% kalau begitu? Ini berasal dari standar baterai dan pr
 Mengapa kerusakan banjir terutama berbahaya dalam EV? Hal ini dapat menurunkan paket dan korosi harness tersembunyi konektor, menyebabkan keselamatan dan ketergantungan kegagalan setelah ekspor.
 ** Bagaimana penipuan odometer terlihat pada EV? ** Bandingkan jarak tempuh dengan jumlah siklus baterai dan pakaian fisik; rendah odometer dengan siklus tinggi adalah peringatan.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,16 +1,16 @@
 # FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Reference
-## SEO Metadatos
-- **SEO Título**: FAW Jiefang J6F Light Truck Export Specs: Engine, Chassis, Payload Guide
-- **Meta Descripción**: Referencia del mercado chino para el camión ligero de placas azules FAW Jiefang J6F: N2 categoría, opción diesel de serie Deutz, chasis/cargo, y los documentos de homologación deben obtener compradores de exportación.
-- ** H1 **: FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Reference
-- **Primary Keyword**: FAW Jiefang J6F light truck export specs
-- **Segundary Search Terms**: Jiefang J6F light truck; J6F blue plate N2; CA4DB1 diesel 130; FAW cab over truck export; Chinese light cargo truck
-- **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- **Búsqueda Intent**: 面向海外 B 端买家介绍 J6F 中国市场版本身份, 底盘 动力 货箱与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- **Sugerencia de imagen**: Un camión de carga ligera de la FAW Jiefang J6F con un cuerpo de caja en un patio
-- **Sugerencia de la TALT**: La PADRE de la CAB Jiefang J6F camión ligero con un cuerpo de carga de caja estacionado en un patio logístico
-- **Schema Scope**: Article + Vehicle
+## Metadatos SEO
+- **Título SEO**: FAW Jiefang J6F Light Truck Export Specs: Engine, Chassis, Payload Guide
+- **Meta descripción**: Referencia del mercado chino para el FAW Jiefang J6F cabina sobre el camión de luz azul-plate: N2 categoría, Deutz-series opción diesel, chasis/cargo cuerpo, y los documentos de homologación que los compradores exportadores deben obtener.
+- **H1**: FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Reference
+- **Palabra clave principal**: FAW Jiefang J6F light truck export specs
+- **Términos de búsqueda secundarios**: Camión ligero Jiefang J6F; J6F placa azul N2; CA4DB1 diesel 130; FAW cabina sobre la exportación de camiones; camión de carga ligera chino
+- **URL sugerida**: /vehicles/faw-jiefang-j6f/
+- **Intención de búsqueda**: Comprensión FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Referencia: qué debe verificar, documentar y decidir un vehículo/partes exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- **Sugerencia de imagen**: Un camión de carga ligera blanco FAW Jiefang J6F con un cuerpo de caja en un patio
+- **Texto ALT**: Cab-over FAW Jiefang J6F camión ligero con un cuerpo de carga de caja estacionado en un patio logístico
+- **Alcance del esquema**: Artículo + Vehículo
 
 El Jiefang J6F es el camión de servicio ligero de la FAW en el segmento chino 'blue-plate' N2 — peso bruto del vehículo bajo 4.5 toneladas, el caballo de trabajo de la distribución urbana. Las decisiones de exportación de la cubierta ligera se toman en motor, caja de cambios, eje, GVW/payload, chasis y cuerpo de carga, por lo que esta página sigue esa lógica comercial-vehículo en lugar de un diseño de automóviles de pasajeros. La identidad (línea modelo FW Jiefang, camión ligero de más de N2 cabinas) está establecida por OEM; las masas detalladas requieren papel de homologación.
 

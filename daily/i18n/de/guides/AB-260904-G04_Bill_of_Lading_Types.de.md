@@ -1,15 +1,17 @@
 # MBL, HBL, Telex Release oder Sea Waybill? Die Wahl der Freigabemethode eines Fahrzeugs unter dem 2025 Maritime Code
 
-## SEO Metadaten
-- **SEO Titel**: Vehicle Export Bill of Lading Guide — MBL/HBL/Telex/SWB + Maritime Code Art. 80/81/87
-- **Meta Description**: Wie sich Stammrechnungen, Hausrechnungen, Telexfreigabe und Seefrachtbriefe unterscheiden, die Übertragbarkeits- Lieferregeln in Chinas überarbeitetem Seegesetzbuch (in Kraft 2026-05-01, Arts. 80/81/87) und die Abgleichmethode für die Freigabe zu den Zahlungsbedingungen.
+## SEO-Metadaten
+- **SEO-Titel**: Fahrzeugexportbrief des Konnossements - MBL/HBL /Telex / SWB + Maritime Code Arts. 80/81/87
+- **Meta-Beschreibung**: Wie sich Stammrechnungen, Hausrechnungen, Telexfreigabe und Seefrachtbriefe unterscheiden, die Übertragbarkeits- / Lieferregeln in Chinas überarbeitetem Seegesetzbuch (in Kraft 2026-05-01, Arts. 80/81/87) und die Abgleichmethode für die Freigabe zu den Zahlungsbedingungen.
+- **H1**: Auswahl einer Bill-of-Lading-Freigabemethode für ein exportiertes Fahrzeug - Geschäftspraxis verankert im überarbeiteten Seecode
+- **Haupt-Keyword**: Fahrzeugexportbrief mbl hbl telex release seawaybill
+- **Sekundäre Suchbegriffe**: Maritime Code 2025 Revision, Artikel 80 Frachtbrief, Artikel 81 sonstiges Beförderungsdokument, Artikel 87 Lieferung, NVOCC HBL, Bestellbrief-Telex
 - **Vorgeschlagene URL**: /guides/vehicle-export-bill-of-lading-types
-- ** H1 **: Auswählen einer Bill-of-Lading-Freigabemethode für ein exportiertes Fahrzeug - Geschäftspraxis verankert im überarbeiteten Seecode
-- **Hauptschlüsselwort**: Fahrzeugexportbrief mbl hbl telex release seawaybill
-- **Secondary Search Terms**: Maritime Code 2025 revision, Article 80 bill of conding transfer, Article 81 other transport document, Article 87 delivery, NVOCC HBL, order bill telex
-- **Interne Linkvorschläge**: /guides/ocean-freight-charge-structure-vehicle-export/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/
-- **Bildvorschläge**: Vier-Methoden-Vergleich; Verhandlungsleiter vs. Zahlung; MBL HBL-Kette; Art. 80/81/87 Lieferfluss
-- **ALT Vorschläge **: "MBL HBL telex sea waybill verhandelbarkeit unter revidierte Maritime Code"
+- **Suchabsicht**: Verstehen Sie die Auswahl einer Bill-of-Lading-Freigabemethode für ein exportiertes Fahrzeug - Geschäftspraxis, die im überarbeiteten Seecode verankert ist: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Bildvorschlag**: Vier-Methoden-Vergleich
+- **ALT-Text**: MBL HBL Telex-Seefrachtbriefhandelbarkeit gemäß überarbeitetem Seecode
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Das Beschaffungsproblem ist die Frachtkontrolle, nicht der Papierkram
 Exporteure behandeln die Bill-of-Lade-Entscheidung als Dokumentation. Es ist eine **Zahlungsrisikoentscheidung**: In dem Moment, in dem Sie von einer ursprünglichen verhandelbaren Rechnung zur Telexfreigabe oder einem Seefrachtbrief übergehen, ändern Sie sich, wenn Sie das Fahrzeug am Bestimmungsort nicht mehr kontrollieren. Dieser Leitfaden verbindet das Geschäftsverhalten der vier Instrumente mit dem **aktuellen chinesischen gesetzlichen Rückgrat ** - dem *Maritime Code of the PRC *, ** überarbeitet am 2025-10-28 durch die 18th Sitzung des 14th NPC Ständigen Ausschusses (Presidential Order No. 58), in Kraft von 2026-05-01 (16 Kapitel, 310 Artikel) ** - und dann die Methode mit den Zahlungsbedingungen abgleicht. Carrier/port-spezifische Telexregeln und -gebühren bleiben reisespezifisch und werden nicht als feste Werte angegeben.

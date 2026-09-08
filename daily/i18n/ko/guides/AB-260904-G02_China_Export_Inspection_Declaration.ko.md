@@ -1,15 +1,17 @@
 # 수출하기 전에 차량 필요 Statutory 검사? 중국 측, HS-by-HS 결정 가이드
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 차량 수출 statutory 검사 및 선언 가이드 (HS-by-HS)
-- **마타 기술 **: 담요 없음 예 없음 - 정확한 10-digit HS 코드를 결정하고 현재 통계 카탈로그를 확인하고 그 코드의 세관 감독 조건 및 구매자 PSI 및 BEV 수출 면허에서 별도의 법령 검사를 확인합니다.
-- **Suggested URL**: /guides/china-export-statutory-inspection-declaration
-- ** H1 **: 수출된 차량을 위한 statutory 검사 및 관례 선언: 일반화에 의해 10-Digit HS에 의해 결정
-- ** 출원 키워드 **: 중국 수출 관세 검사 세관 신고 차량
-- **세컨드리뷰 이용**: 法定检验 出口 目录, GACC 주문 277 선언, 수출 상품 검사 카탈로그, BEV 수출 면허 2026, PSI 대 통계 검사
-- ** 내부 링크 제안**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-certificate-of-origin/
-- ** 이미지 제안**: HS→catalogue→supervision 상황 결정 교류; statutory vs PSI vs export-licence three-track diagram; 관습 실
-- ** ALT 제안**: “중국 수출 관세 검사는 10-digit HS와 현재 카탈로그에 의해 결정했습니다”
+## SEO 메타데이터
+- **SEO 제목**: 중국 차량 수출 statutory 검사 & 선언 가이드 (HS - HS에 의하여)
+- **메타 설명**: 담요 없음 예 / 없음 - 정확한 10-digit HS 코드를 결정하고, 현재의 법령 카탈로그를 확인하고 그 코드의 세관 감독 조건 및 구매자 PSI 및 BEV 수출 면허에서 별도의 법령 검사를 확인합니다.
+- **H1**: 수출된 차량을 위한 statutory 검사 및 관례 선언: 의 특징 그것은 10-Digit HS의 종합에 의해 아닙니다
+- **주요 키워드**: 중국 수출 관세 검사 세관 신고 차량
+- **보조 검색어**: 法定检验 出口 目录의 GACC 순서 277 선언, 수출 필수 검사 카탈로그, BEV 수출 면허 2026의 통계 검사를 위한 PSI
+- **추천 URL**: /guides/china-export-statutory-inspection-declaration
+- **검색 의도**: 수출된 차량을 위한 statutory 검사 그리고 관례 선언의 밑에: 결정 그것은 10-Digit HS에 의해, 일반화에 의해 아닙니다: 차량/부분 수출업자가 확인해야 하고, 문서는 순서에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
+- **이미지 제안**: HS →catalogue→supervision 상태 결정 교류
+- **ALT 텍스트**: 중국 수출 관세 검사는 10-digit HS와 현재 카탈로그에 의해 결정했습니다
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 질문은 아무도 없습니다. 예 답변 없음
 "중국 차량은 수출하기 전에 검사를 필요로합니까?" 담요 "모든 자동차는 반드시"또는 "자동차는 필요"는 잘못된 대답입니다. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, *현재 * 수입의 대화에 대해 읽으십시오  and  수출 상품 Statutory Inspection에 따라 대상***  and  그 코드 **고객 감독 조건 검사 및 물집 범주**. 이 페이지는 중국 수출 측 기구 및 결정 방법을 놓습니다; 그것은 코드에 대한 카탈로그 outcome를 주장하지 않습니다. 그것은 라이브를 검사하지 않았습니다. 결과는 ** 조건부 증거**: 법적 프레임 워크는 확인되지만 각 차량 카탈로그 상태는 선언 시간에 코드 당 확인해야합니다.
@@ -18,7 +20,7 @@
 *Import 및 Export Commodity Inspection Law* 및 그 구현 규정에 따라, statutory-inspection 카탈로그에 배치된 수출 상품** 검사를 위해 제출되어야 하며, 검사를 하지 않은 상품 - 또는 고장 검사 - **를 수출하지 않는 상품. 수출 상품의 검사는 원칙적으로, 세관이 다른 위치를 지정하지 않는 한, 생산 **의 **에 수행 **. Statutory 검사는 카탈로그 ** 및 다른 검사될 것을 상품에서 목록으로 만들어진 상품을 포함합니다. 카탈로그 밖에서 필수품 ** 랜덤 검사 (抽查检验) **; 2024 GACC Notice No. 163는 ** 수출 목록 만 아이들의 장난감 **를 위해 **의 무작위 선택 범위를 설정한다.
 
 ## 결정 방법 (HS-first, 그 후 카탈로그)
-1. **Fix the exact ten-digit HS code** for the vehicle (87.01/87.02/87.03/87.04/87.05 as applicable — see the classification guide).
+1. 명세 ** 차량에 대한 정확한 10자리 HS 코드**를Fix (87.01/87.02/87.03/87.04/87.05 적용 가능한 한 - 분류 가이드를 참조하십시오.
 2. **current** statutory-inspection 카탈로그에서 코드를 보고 ** 수출 감독 조건** (export statutory 검사는 수출 상품 인 종 범주에 해당합니다).
 3. 나열된 경우 필요 → 생산 (또는 지정된 위치)의 장소에 검사를 정렬 **** 선언.
 4. 나열되지 않은 경우 다른 법적 근거가 적용되지 않습니다 → 그것은 임의 검사에서 처리됩니다, 자동 통계 검사.
@@ -32,7 +34,7 @@
 |---|---|---|
 | **차례 검사** | 코드는 현재 카탈로그 법에 따라야 합니다. | - - - |
 | **Buyer's third-party PSI** | 계약/L/C/ 구매자 요구 | 아니 - PSI는 결코 법령에 정립 의무를 만족하지 않습니다 |
-| ** BEV 수출 면허 ***************************************************************************************************************************************************************************************************************************************************************** | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | 없음 - 면허 및 관 검사는 평행한 체계이고 결코 각 다른 사람을 위해 대체하지 않습니다 |
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * | 배터리-전기 승용차(기본 코드 8703801090) **2026-01-01**(4-ministry notice) | 없음 - 정산 검사는 별도의 시스템에서 설치되지 않습니다. |
 
 바이어 등급 PSI는 중국 지위가 아닌 상업 검사입니다. BEV 수출 면허는 무역 관리 계기, 필수 검사입니다.
 
@@ -77,7 +79,7 @@
 |---|---|---|---|---|---|---|
 | 법률 기반 지수 - 수입 수출 필수 검사 법 및 규정 | 중국 세관의 일반 관리 (GACC) | 담당자: Mr. wang | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html 대한 자세한 정보 | 2026-09-05 | VERIFIED (기본; 브라우저에서 열리고, 자동화된 fetch 차단) | 현재 검사법(2021 개정)을 지명하고, 구조 통계 검사를 실행하는 규칙; 정확한 통계 카탈로그 입력은 10-digit HS 당 아직도 검사됩니다 |
 | 수출 상품의 선언에 대한 세관 규정 (GACC 주문 번호 277, 힘 2025-05-01) | 중국 세관의 일반 관리 (GACC), 통해 | 담당자: Mr. wang | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 대한 자세한 정보 | 2026-09-05 | 인증 (기본) | 수출 선언을 위한 현재 법적인 구조; 특정한 10-digit HS 선이 statutorily 검열되는지 여부는 아직도 HS-by-HS를 검사합니다 |
-| 인터넷+맞춤 서비스 안내(보관 검사 = 상품) | 디아블로그 | 담당자: Mr. wang | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | 인증 (기본) | 카탈로그절차 규칙 |
+디아블로그 | 디아블로그 담당자: Mr. 광 | https://online.custom.gov.cn/static/page/guides/000629010001/000629010001.html | 2026-09-04 | 인증현황 | 카탈로그절차 |
 | GACC Notice 2024 No. 163 (전도 무작위 검사; 수출 = 어린이 장난감) | 디아블로그 | 담당자: Mr. wang | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf 요청합니다. | 2026-09-04 | 인증 (기본) | 무작위 검사 범위 |
 | GACC 주문 번호 277, 선언 조항 | 주위원회 가젯 | 담당자: Mr. wang | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | docs, 서명 책임 |
 | Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, 2026-01-01에서) | MOFCOM의 특징 | 담당자: Mr. wang | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html 대한 자세한 정보 | 2026-09-04 | TIME_SENSITIVE (기본) | Licence 대 검사 구별 |

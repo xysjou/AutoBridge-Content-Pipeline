@@ -1,15 +1,17 @@
 # Foton Toano Tuyano (2026) — Xe tải lớn của Trung Quốc (Chuyến xe buýt lớn) Spec và xuất bản
 
-## SAO Siêu dữ liệu
-- **SEO Title**: Foton Toano (Tauyano) Big Van: China-Market Spect & Elier Guide
-- **Meta Mô tả**: Thị trường trung Quốc Foton Toano ánh sáng xe buýt nhẹ/lớn: xe tải ngắn và bánh xe dài, mô-men xoắn động cơ, phạm vi ngồi rộng, và tại sao việc chuyển đổi trong tủ lạnh được đánh giá riêng biệt.
-- ** H1 **: Foton Toano Tuyano (2026) — Hàng lớn xe tải Trung Quốc (Light Bus) Spects và Xuất Kiểm tra
-- ** Từ khoá bí mật **: Foton 福田 Toano 图雅诺 大 VN(轻客)
-- **Secondary Search termss**: Foton Toano xuất khẩu; Tuyano van nhẹ xe buýt hành khách; xe tải chở hàng; chuyển đổi xe tải chở hàng
-- ** URL đã được đánh dấu**: /vehicles/foton-toano
-- **Tìm kiếm Intent**: 了解 Foton 福田 Toano 图雅诺 大 VN(轻客) 中国版规格 配置与出口适配性 (车型参数页).
-- **I nội bộ Link gợi ý**: /vehcles/foton-toano /guides/ckd-ked-kew-kit-edect-seng-seng-seng-seng-seng-seng-seng-seng-, /guides/tir-port-chir-china-chira- cental-a-a-a--asia
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Foton Toano (Tuyano) Big Van:
+- **Meta mô tả**: Thị trường trung Quốc Foton Toano ánh sáng xe buýt nhẹ/lớn: xe tải ngắn và bánh xe dài, mô-men xoắn động cơ, phạm vi ngồi rộng, và tại sao việc chuyển đổi trong tủ lạnh được đánh giá riêng biệt.
+- **H1**: Foton Toano / Tuyano (2026) — Xe tải lớn của Trung Quốc (Chuyến xe buýt lớn) Spec và xuất bản
+- **Từ khóa chính**: Foton / 福田 Toano / 图雅诺 大 VN(轻客)
+- **Cụm tìm kiếm phụ**: Foton Toano xuất khẩu; Tuyano van; xe buýt nhẹ của Trung Quốc; xe chở hành khách; xe tải chở hàng chuyển đổi
+- **URL đề xuất**: /vehicles/foton-toano/
+- **Ý định tìm kiếm**: Hiểu được Foton Toano / Tuyano (2026) — China- Market Large Van (Light Bus) Specs and Elibe Checks: những gì một xe/parts xuất khẩu phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych-tập trung minh họa Foton Toano / Tuyano (2026) — xe tải lớn (Light Bus) Spects và Elice Checks, không có kiểm tra dàn khoan hay người nhận.
+- **Văn bản ALT**: Gần, nhìn tự nhiên về vật liệu và chủ đề liên quan đến Foton Toano / Tuyano (2026) — xe tải lớn (xe buýt lớn) của Trung Quốc (Light Bus) Spects và Exp, nền tảng trung lập, không có người hoặc hành động thanh tra được trình bày.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh: một chiếc xe buýt ánh sáng có thể cấu hình được, không phải một cái bóng đã cố định
 **Foton Toano (图雅诺, 2026) là một xe buýt lớn bằng xe tải nhẹ của Trung Quốc cung cấp thông qua nhiều bánh xe và chỗ ngồi. Vì ma trận biến dạng là rộng, trang này được viết xung quanh cấu hình xác định ** thay vì chỉ là một bóng hiệu "Toano". Thị trường tham khảo là **Trung Quốc**.
@@ -49,7 +51,6 @@ Chiếc xe đông lạnh này là mẫu nhà máy Nó là một sự chuyển đ
 **What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
 GVW con số ở đâu? Không bị bắt một cách đáng tin cậy; nhận được từ sự đồng tính.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -68,30 +69,29 @@ GVW con số ở đâu? Không bị bắt một cách đáng tin cậy; nhận �
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác là Foton Toano van
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
-  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
-  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
-
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Foton Toano van
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
+  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
+  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

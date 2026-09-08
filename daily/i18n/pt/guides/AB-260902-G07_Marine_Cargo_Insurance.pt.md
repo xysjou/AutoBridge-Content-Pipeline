@@ -1,14 +1,17 @@
 # Seguro de carga marítima para veículos chineses expedidos: ICC (A)/(B)/(C), Valor Seguro e Trilha de Reclamações
-## SEO Meta- dados
-- ** Título SEO**: Seguro marítimo para carros chineses importados: ICC Cláusulas e reivindicações
-- ** Descrição do Meta**: Assegure corretamente um veículo chinês em trânsito marítimo – o Instituto Oficial de Carga (A)/(B)/(C), por que os carros precisam de All-Risks, o CIF/CIP Incoterms 2020 obrigações de seguro, convenção de valor segurado e comprovação de sinistros.
-- ** URL sugerido**: /guides/marine-cargo-seguro-carro-importação/
-- ** H1 **: Segurando veículos chineses em trânsito marítimo: Nível de cláusula, soma segura e como uma reivindicação é realmente paga
-- **Chave Primária**: seguro de carga marítima importado veículo chinês ICC A B C
-- ** Termos de pesquisa secundários**: Cláusulas de carga do Instituto A todos os riscos, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C mínimo, Hague-Visby SDR porta-aviões, RoRo seguro de veículos, EV bateria fogo marinho cobertura
-- **As sugestões de ligação interna**: /guias/veículo-importação-pagamento-tt-vs-lc/; /guias/comercial-caminhão-fleet-procurement-china/; /guias/usado-chinese-ev-inspecção/
-- **Image Suggestions**: ICC A/B/C pirâmide de cobertura; risco-transferência/seguro-dever por Incoterm; pré-envio de condição de foto conjunto; portador-cap vs veículo-valor gap
-- **ALT Sugestões**: "Institute Cargo Clauses A B C cobertura níveis"; "CIF versus CIP vendedor obrigação de seguro sob Incoterms 2020 "; "pré-expedição de veículo condição registro para um crédito"
+## Metadados SEO
+- **Título SEO**: Seguro marítimo para carros chineses importados: ICC cláusulas e reivindicações
+- **Meta descrição**: Assegure corretamente um veículo chinês em trânsito marítimo – o Instituto Oficial de Carga Clauses (A)/(B)/(C), por que os carros precisam All-Risks, as CIF/CIP Incoterms 2020 obrigações de seguro, convenção de valor segurado e comprovações de sinistros.
+- **H1**: Segurando veículos chineses em trânsito marítimo: Nível de cláusula, soma segura e como uma reivindicação é realmente paga
+- **Palavra-chave principal**: Seguro de carga marítima importada Veículo chinês ICC A B C
+- **Termos de busca secundários**: Instituto Carga Cláusulas A todos os riscos, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C mínimo, Hague-Visby SDR tampa transportadora, RoRo veículo seguro, EV bateria fogo cobertura marinha
+- **URL sugerida**: /guides/marine-cargo-insurance-car-import/
+- **Intenção de busca**: Compreenda Veículos Chineses em Transito Oceânico: Nível de Cláusula, Sum Seguro e Como uma Reclamação É Na verdade Pago: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **Sugestão de imagem**: ICC pirâmide de cobertura A/B/C
+- **Texto ALT**: Cláusulas de Carga do Instituto A B Nível de cobertura C
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
+
 ## O equívoco que custa dinheiro aos importadores
 Os compradores assumem que sob FOB ou CIF a linha de **shipping compensa totalmente** um veículo arranhado, esmagado, roubado ou danificado por água. Não faz: a responsabilidade do transportador é limitada por convenção internacional muito abaixo do valor de um carro, e a cláusula de carga que você escolher decide se os danos comuns de trânsito são cobertos em tudo. Esta página abrange **seguro de carga marítimo para veículos expedidos da China** (rotas oceânicas globais) — cláusulas e reivindicações, distintas dos preços de Incoterm e da escolha do RoRo-vs-container.
 ## Os Três Níveis de Cláusula — Ancorados ao Verbo Oficial
@@ -52,18 +55,18 @@ Os corretores vendem uma camada; raramente a ligam ao contrato de compra. O mét
 **CIF ou CIP — qual o valor por omissão mais forte?** No âmbito da Incoterms 2020 CIP, é necessário pelo menos ICC (A); os incumprimentos CIF para ICC (C), assim como para a procura CIF (A) por escrito.
 ** Um incêndio de bateria EV é coberto por todos os riscos?** Depende da redação — declarar o EV e obter confirmação por escrito.
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,14 +1,16 @@
 # Hợp đồng bán hàng: Những ông già Noel thực sự kiểm soát chi tiêu, giao hàng và sự bất lợi
-## SAO Siêu dữ liệu
-- **SEAO Tittry**: xe hơi Xuất khẩu Salles Cocoup Clauses & risk Guide
-- **Meta Mô tả**: Hợp đồng xuất khẩu xe cộ phải bao gồm những gì — thiết yếu về luật dân sự PRC 596, nội bộ chuyển nhượng rủi ro, tính toán lại tiêu đề, lỗ hổng/ cửa sổ nhận dạng, độ phân giải tranh chấp và sự tiết lộ về phương tiện điều khiển.
-- ** URL đã được đề cập**: /guides/vehic-export-sales-contract-cluses/
-- ** H1 **: Key Clauses trong một hợp đồng bán hàng xuất bản xe hơi: Lương, Tựa đề, rủi ro và thất vọng
-- ** Từ khoá bí mật**: xe xuất khẩu các điều khoản quan trọng về rủi ro
-- **Secondary Search Wordss**: recition of title port ports, Incoterms locport loctport canvece, xuất khẩu các hình phạt vi phạm hợp đồng, thương mại giao thông lưu thông, kiện tài liệu nước ngoài, điều kiện xe cộ tiết lộ
-- **I nội bộ Link gợi ý**: /guides/ overseseles-parts-warty-network/; /guides/vech-consci-conspope-pies-psi/; /guides/
-- **Image gợi ý**: bản đồ có thể rủi ro; mạo hiểm/ tựa thời gian truyền tải; biểu đồ hiệu ứng thanh công cụ-vs-vs
-- **LT gợi ý**: "sự rủi ro hợp đồng xuất khẩu và chuyển đổi dòng thời gian; "tiểu thức bán hàng chìa khóa"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Hướng dẫn rủi ro và lý lịch
+- **Meta mô tả**: Hợp đồng xuất khẩu xe hơi phải gồm PRC Mã dân sự Nghệ thuật 596 thiết yếu, định nghĩa sự chuyển giao rủi ro, sự chú ý lại tiêu đề, lỗ hổng/ cửa sổ, sự phân giải tranh chấp và sự tiết lộ của các Sứ Giả, cộng với sự tiết lộ điều kiện xe hơi.
+- **H1**: Ông già Noel trong một hợp đồng bán hàng bán xe hơi: Trả tiền, tựa đề, rủi ro và thất vọng
+- **Từ khóa chính**: Xe xuất khẩu các điều khoản quan trọng về mức độ rủi ro
+- **Cụm tìm kiếm phụ**: Tái lập lại hợp đồng xuất khẩu, định kỳ rủi ro vận chuyển phương tiện, xuất khẩu hình phạt trái phép, ICC thương mại xe cộ, tài liệu nước ngoài, tình trạng phương tiện được tiết lộ.
+- **URL đề xuất**: /guides/vehicle-export-sales-contract-clauses/
+- **Ý định tìm kiếm**: Hiểu Key Clauses trong hợp đồng sản xuất xe hơi: Trả tiền, Tựa đề, rủi ro và thất vọng: những gì một người xuất khẩu xe/một phần phải xác nhận, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Gợi ý hình ảnh**: Sơ đồ điều kiện để rủi ro
+- **Văn bản ALT**: xuất khẩu mạo hiểm hợp đồng và chuyển đổi dòng thời gian
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Điều này dành cho ai
 Một người xuất khẩu xe lần đầu thường ký một thỏa thuận về giá cả và số lượng, sau đó khám phá ra rằng hợp đồng không bao giờ cố định ** khi rủi ro được thông qua, người giữ tiêu đề trước khi thanh toán đầy đủ, hoặc nơi người ta nghe thấy một cuộc tranh chấp** Hướng dẫn này vẽ bản đồ các điều khoản kiểm soát những kết quả. Bộ luật dân sự PRC Nghệ thuật 596 được mô tả ở đây thông qua **ssecondary cổng pháp lý (Tìm Law etc.), mà nắp ở CROSS_ Kiểm tra xem có phải là công ty không, VERIEIED sẽ yêu cầu văn bản chính thức của mã dân sự từ một nguồn chính phủ. Phần còn lại là sự tổng hợp hợp hợp pháp. ** Mẫu giấy tờ không phải là lời khuyên pháp lý — hãy nhờ luật sư hội đủ điều kiện xem xét lại hợp đồng xử tử theo luật pháp được chọn. **
@@ -56,18 +58,18 @@ Trả tiền trễ thì sao? Một tỷ lệ thanh toán hàng ngày cộng vớ
 **Các tài liệu nước ngoài có cần hợp pháp hóa không? Thường thì một Sứ Giả (tiếng cười) hoặc sự hợp pháp của lãnh sự lãnh sự là cần thiết; trách nhiệm của bang trong hợp đồng và xác nhận vị trí của đích đến.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf

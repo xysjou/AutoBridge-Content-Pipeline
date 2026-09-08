@@ -1,14 +1,17 @@
 # 散装商机车组从中国采购: 值班-循环工程,2026 出口-居住规则和接受
-## 道德操守办公室 元数据
-- ** 标准标准标题**:购买散装中国卡车车队:货品、许可证和接受
-- ** 金属说明**: 工程与散装产品 中国重型/吊车/专用货车——值班周期规格,轴/车身/车体,中国官方2026型车辆出口许可制度,招标等级验收及文件链.
-- ** 建议的URL**:/指南/商用卡车/拖车/采购-钦那/
-- ** H1 资源需求。 **:从中国购买商用卡车:关税周期、出口许可证和接受
-- ** 基本关键词**:批量商业卡车车队采购 中国规格出口许可证
-- ** 二级搜索术语**:中国倾卸货车6x4 8x4出口,2026车辆出口许可证MOFCOM,纯EV旅客出口许可证HS 8703801090,强化轴架,车队招标验收,商用车辆出口文件
-- ** 内部链接建议**:车辆/沙克曼-x3000-dump-truck/;车辆/辛诺特鲁克-豪沃-t7h-tractor/;车辆/福通-aumar-冷藏-卡车/;指南/核查-钦纳-汽车-出口-供应商/
-- ** 图像建议**:值值值周期/值值值表;强化框架/值值值;投标验收;出口文件链
-- **ALT建议**:"机车机队值班周期规格工作表";"双层机架和加固驱动轴";"工厂的机车招标验收".
+## SEO元数据
+- **SEO标题**: 购买中国散货卡车车队:货品、许可证和验收
+- **Meta描述**: 工程与散装产品 中国重型/吊车/专用货车——值班周期规格,轴/车身/车体,中国官方2026型车辆出口许可制度,招标等级验收及文件链.
+- **H1**: 从中国采购商用卡车:关税周期、出口许可证和接受
+- **核心关键词**: 批量商业货车采购 中国规格出口许可证
+- **次级搜索词**: China dump truck 6x4 8x4 export, 2026号车辆出口许可证 MOFCOM号, 纯- EV 旅客出口许可证 HS 8703801090, 强化轴架, 车队投标验收, 商业车辆出口单据
+- **建议URL**: /guides/commercial-truck-fleet-procurement-china/
+- **搜索意图**: 了解从中国购买商用卡车:关税周期、出口许可证和接受:车辆/部件出口商在承诺下达命令之前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **图片建议**: 任务周期与特定工作表
+- **ALT文本**: 卡车车队值勤周期规格工作单
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 舰队已经完工,没有被摘下
 6×4型采矿小提单机,8×4型高速公路倾卸机,长途拖拉机和冷藏机或油轮要求不同的动力列车,车架,轴和车体选择,批量订单必须额外满足中国**当前(2026)出口许可制度**,紧凑的文件链和招标式验收. 该指南为车队购买者、承包商和CV进口商提供了一条可重复的道路。 它不引用折扣、最低报酬或准备时间——这些是每个项目谈判的,没有权威的公众人物。
 ## 第1步——在价格之前界定工作周期
@@ -58,18 +61,18 @@
 ** 价格或当地零件支助? ** 对于工作车队,当地服务/零配件的覆盖往往设定拥有权的总成本——在选择价格之前先核实OEM网络.
 ** 散装折扣/流动商数是否公布? ** 否-它们为每个项目的商业条件;谈判时采用严格指定的技术附件。
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf

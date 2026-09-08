@@ -1,14 +1,17 @@
 # Compras de frotas de caminhões comerciais em massa da China: Engenharia de Ciclos de Duty, 2026 Regras de Licenciatura de Exportação e Aceitação
-## SEO Meta- dados
-- ** Título SEO**: Comprando uma frota de caminhões chineses em massa: Spec, Licença & Aceitação
-- ** Descrição do Meta**: Engenheiro e grosso de veículos pesados/dump/pick-ups especializados chineses — especificação do ciclo de serviço, eixos/quadro/corpo, regime oficial de licença de exportação de veículos da China 2026, aceitação do grau de concurso e cadeia de documentos.
-- ** URL sugerido**: /guides/commercial-truck-fleet-procurement-china/
-- ** H1 **: Procura de uma frota de caminhões comerciais da China: Ciclo de trabalho, licença de exportação e aceitação
-- **Primary Keyword**: aquisição de frota de caminhões comerciais a granel licença de exportação especificação China
-- ** Termos de pesquisa secundários**: China caminhão de descarga 6x4 8x4 exportação,  2026 vehicle export licence MOFCOM, licença de exportação de passageiros puro-EV HS 8703801090, quadro reforçado de eixo, aceitação do concurso da frota, Documentos de exportação de veículos comerciais
-- **As sugestões de ligação interna**: /veículos/shacman- x3000-dump-truck/; /veículos/sinotruk-howo- t7h-tractor/; /veículos/fotão-aumark-refrigerado-caminhão/; /guias/verify-china-carro-exportador/
-- **Image Suggestions**: ficha de trabalho do ciclo de trabalho para o espectro; quadro/eixo reforçado; inspecção da aceitação do concurso; cadeia de documentos de exportação
-- ** ALT Sugestões**: "Track frota de trabalho de especificação ciclo de trabalho"; "quadro de dupla camada e eixo de acionamento reforçado"; "aceitação de concurso de frota na fábrica"
+## Metadados SEO
+- **Título SEO**: Comprando uma frota de caminhões chineses em massa: Especificações, Licença e Aceitação
+- **Meta descrição**: Engenheiro e grosso de veículos pesados/dump/pick-ups especializados chineses — especificação do ciclo de serviço, eixos/quadro/corpo, regime oficial de licença de exportação de veículos da China 2026, aceitação do grau de concurso e cadeia de documentos.
+- **H1**: Procurando uma frota de caminhões comerciais da China: Ciclo de trabalho, licença de exportador e aceitação
+- **Palavra-chave principal**: A granel frota comercial de caminhões aquisição licença de exportação especificação China
+- **Termos de busca secundários**: China caminhão de descarga 6x4 8x4 exportação, 2026 licença de exportação de veículos MOFCOM,  pure- EV  passenger export licence  HS  8703801090, estrutura reforçada de eixo, aceitação do concurso da frota, Documentos de exportação de veículos comerciais
+- **URL sugerida**: /guides/commercial-truck-fleet-procurement-china/
+- **Intenção de busca**: Compreenda a procura de uma frota comercial de caminhão da China: Ciclo de dever, licença de exportador e aceitação: o que um exportador de veículo / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **Sugestão de imagem**: folha de trabalho do ciclo de trabalho a ciclo de trabalho
+- **Texto ALT**: Ficha de trabalho da especificação do ciclo de serviço da frota de camiões
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
+
 ## Uma frota é projetada para encomendar, não retirada de uma prateleira
 Um divisor de mineração 6 × 4, um despejo de estrada 8 × 4, um trator de longo curso e um caminhão de pesca ou tanque exigem diferentes tipos de trem, quadro, eixos e escolhas de corpo, e ordens a granel devem satisfazer adicionalmente o regime de licença de exportação ** atual (2026) da China, uma cadeia de documentos apertada e aceitação de estilo de concurso. Este guia dá aos compradores, contratantes e importadores CV uma rota repetitiva. Não cita descontos, MOQs ou prazos de entrega — são negociados por projeto e não existem figuras públicas autorizadas.
 ## Passo 1 — Definir o ciclo de direitos antes do preço
@@ -58,18 +61,18 @@ Pin contratualmente: preço unitário vs nível de especificação, peças sobre
 ** Suporte a peças locais ou de preço?** Para uma frota de trabalho, a cobertura de serviços/partes locais muitas vezes define o custo total de propriedade — verificar a rede OEM antes de escolher o preço.
 ** Os descontos a granel/MOQs são publicados? Não — são termos comerciais por projecto; negoceiam contra um anexo técnico bem especificado.
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf

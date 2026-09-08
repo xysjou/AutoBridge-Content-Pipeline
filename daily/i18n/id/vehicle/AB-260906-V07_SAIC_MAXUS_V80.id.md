@@ -1,16 +1,16 @@
 # SAIC MAXUS Xatu V80: China- Market Diesel Large Van Minibus Expor Referensi
-## SEO Metadata
-- ** SeO Judul **: SAIC MAXUS V80 (Xinta) Diesel Van & Minibus Ekspor Panduan Specs
-- ** Meta Description **: Referensi pasar Cina untuk SAIC MAXUS Xintu V80 PRO besar van minibus: 2.0T diesel, manual AMT, panjang dan tempat duduk varians, dan dokumen GVW payload yang didokumentasikan pembeli ekspor harus diperoleh.
-- ** H1 **: SAIC MAXUS Xintu V80: China- Market Diesel Besar Van Minibus Ekspor Referensi
-- ** Primer Keyword **: SAIC MAXUS V80 van expor spesifikasi
-- ** Akhir Pencarian Second **: MAXUS V80 decairvan; Xinta V80 PRO 2.0T; V80 minibus kursi; MaXUS kargo van besar; ekspor panel van Cina
-- **Suggested URL**: /vehicles/saic-maxus-v80/
-- ** Cari Intent **: 面向海外 B 端买家介绍新途 V80 中国市场版本身份: 车身矩阵 座位 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- ** Sugesti Gambar **: Sebuah MAXUS SAIC V80 besar panel van ditampilkan di profil samping untuk menampilkan panjang tubuh kargo nya
-- ** ALT Saran **: Sisi profil dari MAXUS Xinta V80 besar van menunjukkan tubuh kargo panjang
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: SAIC MAXUS V80 (Xintu) Diesel Van & Minibus Ekspor Panduan Specs
+- **Deskripsi Meta**: Referensi pasar untuk SAIC MAXUS Xintu V80 PRO besar van / minibus: 2.0T diesel, manual / AMT, panjang dan tempat duduk varians, dan GVW / payload dokumen yang didokumentasikan pembeli ekspor harus diperoleh.
+- **H1**: SAIC MAXUS Xinta V80: China- Market Diesel Besar Van / Minibus Ekspor Referensi
+- **Kata kunci utama**: SAIC MAXUS V80 van ekspor spesifikasi
+- **Istilah pencarian sekunder**: MAXUS V80 van diesel; Xinta V80 PRO 2.0T; V80 minibus kursi; MAXUS kargo van besar; ekspor van panel Cina
+- **URL yang disarankan**: /vehicles/saic-maxus-v80/
+- **Maksud pencarian**: Memahami SAIC MAXUS Xinta V80: China- Pasar Diesel Besar Van / Minibus Referensi Ekspor: apa kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- **Saran gambar**: Sebuah SAIC MAXUS V80 besar panel van ditampilkan di profil samping untuk menampilkan panjang tubuh kargo nya
+- **Teks ALT**: Profil samping SAIC MAXUS Xinta V80 besar van menunjukkan tubuh kargo panjang
+- **Cakupan skema**: Artikel + Kendaraan
 
 Xinta ('Rute Baru') V80 adalah van SAIC MAXUS yang besar (besar - VAN) - dijual sebagai minibus penumpang, van awak kapal dan van kargo panel di beberapa panjang tubuh. Pembeli komersial memilihnya untuk volume kargo, tempat duduk dan GVW, jadi halaman ini diselenggarakan di sekitar matriks tubuh dan dokumen yang membuktikan muatan. Ini mencakup ** 2025 V80 PRO dengan 2.0T diesel **; yang lebih tua 2.5T adalah sebuah powertrain warisan dan tidak dibawa ke dalam referensi ini.
 

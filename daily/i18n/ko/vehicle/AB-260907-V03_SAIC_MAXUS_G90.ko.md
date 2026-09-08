@@ -1,16 +1,16 @@
 # SAIC MAXUS G90: 중국 시장 대형 휘발유 MPV 좌석 배치의 주위에 내장
-## ▼ 한국어 메타데이터
-- **SEO 제목**: SAIC MAXUS G90 중국 시장 MPV 검찰 및 수출입 검사 | AutoBridge
-- **마타 기술 **: SAIC MAXUS G90 큰 MPV를 위한 중국 시장 참고: 크기, 2.0T+8AT 가솔린 선은 어떤 electrified 변형에서 분리,  six- vs seven-seat layouts,  and  수출 검증 단계.
-- ** H1 **: SAIC MAXUS G90: 중국 시장 큰 휘발유 MPV 좌석 배치의 주위에 내장
-- ** 출원 키워드 **: SAIC MAXUS G90 수출 사양
-- **세컨드리뷰 이용 약관**: 上汽大通 G90; MAXUS G90 차원; G90 2.0T 8AT; six seven seat MPV; 중국 MPV 수출 중국 spec
-- **수입 URL**: /vehicles/saic-maxus- g90/
-- ** 수색 **: 面向海外买家介绍上汽大通 MAXUS G90 中国市场身份, 尺寸, 2.0T+8AT 燃油线与 6/7 座布局边界
-- ** 내부 링크 제안**: /vehicles/jmc-ford-transit- t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
-- ** 이미지 제안**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
-- ** ALT 제안**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: SAIC MAXUS G90년 중국 시장 MPV 검찰 및 수출입 검사|AutoBridge
+- **메타 설명**: SAIC MAXUS G90 큰 MPV를 위한 중국 시장 참고: 크기, 2.0T+8AT 가솔린 라인은 어떤 electrified 변형에서 분리 유지,  six- vs seven-seat layouts,  and  수출 검증 단계.
+- **H1**: SAIC MAXUS G90: 중국 시장 대형 휘발유 MPV 좌석 배치의 주위에 내장
+- **주요 키워드**: SAIC MAXUS G90 수출 specs
+- **보조 검색어**: 上汽大通 G90; MAXUS G90 차원; G90 2.0T 8AT; six seven seat  MPV ; 중국 MPV 수출 중국 spec
+- **추천 URL**: /vehicles/saic-maxus-g90/
+- **검색 의도**: SAIC MAXUS G90를 견딜 수 있습니다: 중국 시장 대형 휘발유 MPV 좌석 배치의 주위에 내장 된 참조: 차량 / 부품 수출자는 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
+- **ALT 텍스트**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 SAIC MAXUS G90은 SAIC Maxus의 대형 (upper-mid) 인민 운송, 가족 및 함대 사용을 목표로합니다. 수출 구매자에게 정의 질문은 스포티 성능이 아니라 ** 구성 **: the G90 is a very long MPV offered in six-  and  seven-seat layouts with dual sliding doors,  and  이 페이지는 중국 시장 ** 필트럭 2.0T + 8AT 앞 휠 드라이브** 라인에 고정 또는 해외 변종에 혼합하는 것보다. 이것은 ** 중국 시장 참고 **, 글로벌 사양; 직행 드라이브 및 수출 빌드는 별도의 OEM 증거를 요구하고 단일 소스 출력은 VIN-level 확인을 위해 파쇄됩니다.
 
@@ -68,7 +68,7 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 
 참조 치수는 5280 × 1998 × 1845 mm 3200 mm 휠베이스 - 진짜 대형 MPV입니다.
 
-**Does it come in six and seven seats?**
+**6,7 석에 올 수 있습니까? 의 모든 것
 
 예,  in 2+2+2 six-seat  and  2+2+3 seven-seat layouts; 정확한 레이아웃과 계약 및 균질화 용지 작업에 트림을 수정합니다.
 

@@ -1,16 +1,16 @@
 # Chine Modes de commerce douanier pour l'exportation de véhicules: commerce général (0110), marchés publics (1039) et surveillance cautionnée
-## OEuvre Métadonnées
-- ** Titre du référencement**: Chine Exporter les modes douaniers 0110 vs 1039 vs cautionnés pour les véhicules
-- **Description détaillée**: Comment un exportateur de véhicules chinois choisit entre le commerce général (0110), le commerce des marchés publics (1039) et la surveillance cautionnée, y compris les différences entre factures, remboursements d'impôt et réceptions.
-- ** H1 **: Modes de commerce douanier chinois pour l'exportation de véhicules: commerce général (0110), marchés publics (1039) et surveillance cautionnée
-- **Mot-clé principal**: méthode de surveillance douanière en Chine 0110 1039
-- ** Termes de recherche secondaire**: commerce général 0110 exportation; marché de marché 1039; zone d'exportation cautionnée; mode de remboursement de la taxe à l'exportation; code de contrôle douanier
-- **Suggested URL**: /guides/china-customs-supervision-method-0110-1039/
-- **Intention de la recherche**: 汽车出口应如何选择海关监管贸易方式, 一般贸易, 市场采购 (1039), 保税监管各自适用条件与税务 收汇差异
-- **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+## Métadonnées SEO
+- **Titre SEO**: Chine Exporter les modes douaniers 0110 vs 1039 vs Bonded pour les véhicules
+- **Description meta**: Comment un exportateur de véhicules chinois choisit entre le commerce général (0110), le commerce des marchés publics (1039) et la surveillance cautionnée, y compris les différences entre factures, remboursements d'impôt et réceptions.
+- **H1**: Chine Modes de commerce douanier pour l'exportation de véhicules: commerce général (0110), marchés publics (1039) et surveillance cautionnée
+- **Mot-clé principal**: Méthode de surveillance douanière de la Chine 0110 1039
+- **Termes de recherche secondaires**: commerce général 0110 exportation; marchés publics 1039; zone d'exportation cautionnée; mode de restitution de la taxe à l'exportation; code de contrôle douanier
+- **URL suggérée**: /guides/china-customs-supervision-method-0110-1039/
+- **Intention de recherche**: Comprendre les modes de commerce douanier chinois pour l'exportation de véhicules: commerce général (0110), marchés publics (1039) et surveillance cautionnée: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Suggestion d'image**: Déclaration en douane comparant les codes du commerce général et des marchés publics à côté des véhicules d'exportation
-- **ALT Suggestion**: Formulaire de déclaration douanière avec codes de contrôle et véhicules d ' exportation à une porte située au-delà
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **Texte ALT**: Formulaire de déclaration en douane avec codes de contrôle et véhicules d'exportation à une porte au-delà
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 La méthode de contrôle douanier (trade) imprimée sur la déclaration d'exportation n'est pas une formalité — elle détermine la manière dont les marchandises sont déclarées, si la TVA en amont soutient une restitution à l'exportation, comment les devises sont reçues et quelles marchandises sont même éligibles. Les exportateurs de véhicules rencontrent le plus souvent le commerce général, mais ils se voient parfois offrir des marchés publics (1039) ou des routes bondées comme «simpler». Cette page explique chacun d'eux et explique pourquoi un véhicule complet ne peut pas automatiquement bénéficier du mode simplifié.
 

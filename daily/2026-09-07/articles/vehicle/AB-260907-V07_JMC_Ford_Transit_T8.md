@@ -6,7 +6,7 @@
 - **Primary Keyword**: JMC Ford Transit T8 export specs
 - **Secondary Search Terms**: 江铃福特全顺T8; Transit T8 dimensions; T8 cargo volume; 2.3T diesel 8AT van; Chinese large van export; Quanshun T8
 - **Suggested URL**: /vehicles/jmc-ford-transit-t8/
-- **Search Intent**: 面向海外买家介绍江铃福特全顺T8中国市场身份、三轴距/中高顶、两套柴油动力与货厢容积，并守住与全球Transit的身份边界
+- **Search Intent**: Understand JMC Ford Transit T8 (Quanshun T8): A China-Market Large Van Reference Built Around Wheelbase, Roof and Cargo Volume: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
 - **Image Suggestion**: A JMC Ford Transit T8 high-roof cargo van shown from side profile to display its length
 - **ALT Suggestion**: Side profile of a high-roof JMC Ford Transit T8 van on neutral ground

@@ -1,16 +1,16 @@
 # Chery Fulwin A8 (Fengyun A8): China-Market PHV Tham khảo Xuất Sedan
-## SAO Siêu dữ liệu
-- **SEAO Titry: Chery Filwin A8 PHV Xuất các hình thức: hai phạm vi dòng, pin và chế độ**
-- **Meta Mô tả**: tham khảo thị trường Trung Quốc cho các máy tính xách tay của Chery Fulwin/Fengyun A8 bổ sung lai: 70 km và 145 km dòng giữ riêng biệt, hệ thống lai C-DM, sạc và xuất khẩu PHV.
-- ** H1 **: Chery Fulwin A8 (Fengyun A8): China-Market PHV Tham khảo Xuất Sedan
-- **Cumpary Keyword**: Chery Filwin A8 Fengyun A8 giả thuyết xuất khẩu
-- **Secondary Search termss**: Filwin A8 C-DM PHV; Fengyun A8 ipTC irc itude pulwin A8 145 km; Kory phần bổ sung xuất khẩu lai; Fulwin A8 chiều
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍风云 A8 中国市场版本身份  插混系统 纯电续航 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Image surng thị**: khung cảnh bên của một sty Fulwin A8 slate lai với cổng sạc nhìn thấy
-- **LT Gợi ý**: hồ sơ bên của chiếc xe sedan Chery Fulwin A8 PHV với cái cánh sạc hiển thị
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Chery Fulwin A8 PHEV Xuất các hình thức: hai phạm vi dòng, pin và chế độ
+- **Meta mô tả**: Tham khảo thị trường Trung Quốc cho sedan lai Chery Fulwin vàFengyun A8: 70 km và 145 km đường được giữ riêng, hệ thống lai C- DM, sạc và PHEV - ngân phiếu xuất khẩu đặc biệt.
+- **H1**: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Tham khảo Xuất Sedan
+- **Từ khóa chính**: Chery Fulwin A8 Fengyun A8 export specs
+- **Cụm tìm kiếm phụ**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC phạm vi điện; Fulwin A8 145 km; Kory phần bổ sung xuất khẩu lai; Folwin A8 chiều
+- **URL đề xuất**: /vehicles/chery-fulwin-a8/
+- **Ý định tìm kiếm**: Hiểu Tuyết Nhi A8 (Fengyun A8): China-Market PHEV Xuất Sedan Tham khảo: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Gợi ý hình ảnh**: Bên xem của một chiếc xe sedan lai Chery Fulwin A8 với việc nhìn thấy cổng sạc
+- **Văn bản ALT**: Bên hồ sơ của một chiếc xe sedan Chery Fulwin A8 PHEV với cánh sạc của nó nhìn thấy
+- **Phạm vi schema**: Điều và Xe hơi
 
 Chiếc Fulwin A8 (Speyun A8) là chiếc sedan phụ đan gọn gàng của Chery được xây dựng trên hệ thống lai C-DM của Kunpeng C-DM — một chiếc xe đạp năm bánh trước, có bánh xe gắn liền với động cơ xăng với một động cơ điện và một bộ ắc quy kéo. Các chất liệu thưởng cho việc đọc cẩn thận bởi vì hai "dòng tầm nhìn" với các loại pin và đầu ra khác nhau nằm dưới một cái tên mẫu, cùng với A8L cơ thể dài hơn. Đây là một tài liệu tham khảo của **Người Trung Quốc** giữ những đường thẳng đó riêng biệt.
 

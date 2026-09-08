@@ -1,15 +1,17 @@
 # GAC Trumpchi E8 (传祺E8): um PHEV MPV de sete lugares – Especificações da China e verificações de exportação
 
-## SEO Meta- dados
-- ** Título SEO**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, China)
-- ** Descrição do Meta**: Mercado chinês Trumpchi E8 nova energia PHEV MPV — 2.0ATK motor, 134 kW motor, 25.57 kWh bateria, 150 km CLTC, 2+2+3 assentos, e como ele difere do não-carregando Glory HEV.
-- ** URL sugerida**: /veículos/gac-trumpchi- e8/
-- ** H1 **: GAC Trumpchi E8 PHEV: Especificações de MPV de sete lugares de mercado chinês e notas de exportação
-- **Chave principal**: gac trumpchi e8 phev specs export
-- ** Termos de pesquisa secundários**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 Glória diferença HEV, Trumpchi E8 7-seat, chinês Exportação de MPV PHEV
-- ** Sugestões de ligação interna**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/export-veículo-document-pacote/; /veículos/cery-fulwin- t9/
-- **Image Suggestions**: E8 perfil lateral MPV; 2+2+3 layout do assento; porta de carregamento vs HEV sem porta; terceira linha; V2L saída
-- **ALT Sugestões**: "GAC Trumpchi E8 PHEV sete assentos MPV China spec"; "Trumpchi E8 2+2+3 lugares sentados e carga"
+## Metadados SEO
+- **Título SEO**: GAC Trumpchi E8 PHEV MPV Especificações e Guia de Exportação (7-Seat, China)
+- **Meta descrição**: China-mercado Trumpchi E8 nova-energia PHEV MPV — 2.0ATK motor, 134 kW motor, 25.57 kWh bateria, 150 km CLTC, 2+2+3 assentos, e como difere da Glory HEV não-carregando.
+- **H1**: GAC Trumpchi E8 PHEV: Seven-Seat de Mercado Chinês MPV Especificações e Notas de Exportação
+- **Palavra-chave principal**: exportação de especificações de phev de gac Trumpchi e8
+- **Termos de busca secundários**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 Glória HEV diferença, Trumpchi E8 7-seat, China PHEV MPV exportação
+- **URL sugerida**: /vehicles/gac-trumpchi-e8/
+- **Intenção de busca**: Compreenda GAC Trumpchi E8 PHEV: Chinês-Market Seven-Seat MPV Especificações e Notas de Exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **Sugestão de imagem**: Perfil lateral de E8 MPV
+- **Texto ALT**: GAC Trumpchi E8 PHEV seven-seat MPV China spec
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: uma compra do MPV é decidida por assento e pela divisão do PHEV/HEV
 Para um exportador de MPV as perguntas são geometria de cabine e arquitetura de assentos primeiro, powertrain segundo. Na E8 há uma armadilha de nome: a ** E8 New Energy é um híbrido plug-in com uma porta de carregamento**, enquanto a ** E8 Glory (荣耀) é um HEV sem porta de carregamento**. São tipos de energia diferentes e devem ser citados em linhas separadas. Esta folha documenta o PHEV ** do mercado chinês (REFERÊNCIA MERCADO: CHINA)**; uma página de configuração OEM foi capturada.

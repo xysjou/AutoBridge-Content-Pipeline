@@ -1,14 +1,16 @@
 # Importar un vehículo en los Emiratos Árabes Unidos: Secuencia de limpieza a registro y lo que debe volver a verificar
-## SEO Metadatos
-- **SEO Título**: UAE Vehicle Import " RTA Registration Documents Guide
-- **Meta Descripción**: Secuencia de una importación de vehículos UAE correctamente — documentos de despacho de aduanas, conformidad GCC/GSO, luego registro RTA (Mulkiya). Las cifras de derechos notificados/IVAs están marcadas para la confirmación oficial de los Emiratos Árabes Unidos en lugar de ser declaradas fijas.
-- ** URL agregada**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: Importación de vehículos de la EAU: Desde la limpieza portuaria hasta el registro de la RTA - Documentos y verificación
-- **Primary Keyword**: documentos de registro de importación de vehículos uae rta process
-- **Segundary Search Terms**: Dubai customs vehicle import, UAE Mulkiya registration, GCC GSO vehicle conformity, UAE car import duty VAT, MoIAT vehicle import
-- **Sugerencias de Enlace Interno**: /guides/vehicle-coc-type-approval-dossier/; /guides/china-vehicle-export-license-customs-documents/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Sugerencias de imagen**: autorización→ diagrama de secuencia de RTA; lista de verificación de documentos UAE; mapa de autoridad emirato/federal
-- **Sugerencias de ALT**: "UAE aduaneras a la secuencia de registro RTA"; "UAE vehicle import document checklist"
+## Metadatos SEO
+- **Título SEO**: UAE Importación del vehículo " RTA Guía de documentos de registro
+- **Meta descripción**: Secuencia de una importación de un vehículo UAE correctamente — documentos de aduanas, GCC/GSO conformidad, luego RTA registro (Mulkiya). Las cifras correspondientes a la confirmación oficial UAE son insignias de derechos/ VAT en lugar de fijarlas.
+- **H1**: UAE Importación del vehículo: Desde la limpieza del puerto hasta RTA Registro — Documentos y verificación
+- **Palabra clave principal**: uae vehicle import registration documents rta process
+- **Términos de búsqueda secundarios**: Importación de vehículos aduaneros en Dubai, UAE Registro de Mulkiya, GCC GSO conformidad de los vehículos, UAE derechos de importación de automóviles VAT, importación de vehículos MoIAT
+- **URL sugerida**: /guides/uae-vehicle-import-registration-documents/
+- **Intención de búsqueda**: Comprensión UAE Importación del vehículo: Desde la limpieza del puerto hasta RTA Registro — Documentos y verificación: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Sugerencia de imagen**: desminado→ RTA diagrama de secuencia
+- **Texto ALT**: UAE aduaneras a RTA secuencia de registro
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Alcance y prueba de los resultados (leer primero)
 Esta guía utiliza el **UAE como ejemplo de trabajo**; la secuencia de transferencias lógicas a otros mercados del CCG, pero cada emirato y cada estado del CCG aplica sus propias formas y tarifas. **No se captó en este paquete ningún átomo federal de los Emiratos Árabes Unidos o página principal de RTA.** En consecuencia, las cifras de derechos/IVA/comida concretas que figuran a continuación son **denominadas por guías de carga y son artículos de verificación TIEMPO-SENSITIVO, no hechos fijos** — obtener los valores actuales de la autoridad aduanera federal de los Emiratos Árabes Unidos y el ACR correspondiente antes de cometer un modelo de costo fijo.
@@ -54,18 +56,18 @@ Después de la liberación de aduanas, el comprador aplica al ACR con (reportado
 **¿Esta guía también se aplica a Arabia Saudita/Qatar?** La secuencia transfiere conceptualmente, pero las formas, tarifas y autoridades difieren del Estado del CCG — verifiquen cada país por separado.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

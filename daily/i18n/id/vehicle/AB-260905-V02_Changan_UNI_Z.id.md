@@ -1,15 +1,17 @@
 # Changan UNI-Z (2026, New Blue Whale PHEV) - Cine- Specs Pasar dan Verifikasi Expor
 
-## SEO Metadata
-- *** Judul SEO **: Changan UNIZ PHIEV 2026: Petunjuk Specs Pasar & Ekspor Pembeli
-- ** Meta Description **: Dimensi Blue Whale PHIV baru, garis 18.4 kWh LFP, jangkauan listrik CLPO 130 km CLTC, DC V2L, dan VIN-level cek untuk para importir.
-- ** H1 **: Chanka UNI-Z (2026, New Blue Whale PHIV) - Chinice-Market Specs dan Ekspor Verifikasi
-- ** Primary Keyword **: Changan 长安 Unil-Z ekspor spesifikasi
-- ** Akhir Pencarian Second **: SANG ekspor UNI-Z; spesifikasi UNI-Z PHIV; Cina plugly-in hybrida SUV; V2L ekspor; CLTC jangkauan
-- ** Sugested URL **: kendaraan changan -uni- z
-- ** Cari Intent **: 了解 Changan 长安 UNIZ 中国版规格: 配置与出口适配性 车型参数页
-- ** Internal Link Sugestions **: wirates changan-uniz guign china- export -commissions -single-window guide ccc-certification- exports excepts
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Changangan UNI-Z PHEV 2026: Panduan Specs Pasar & Ekspor Pembeli
+- **Deskripsi Meta**: Cina - pasar Changan UNI-Z baru Paus Biru PHEV: dimensi, 18.4 kWh LFP baris, 130 km CLTC jangkauan listrik, DC/V2L, dan VIN tingkat cek untuk penting.
+- **H1**: Changan UNI-Z (2026, New Blue Whale PHEV) - Cine- Specs Pasar dan Verifikasi Expor
+- **Kata kunci utama**: Ekspor spesifikasi Changan / 长安 UNI-Z
+- **Istilah pencarian sekunder**: Changan UNI-Z ekspor; UNI-Z PHEV spesifikasi; Cina hibrida - dalam SUV; V2L ekspor; CLTC jangkauan
+- **URL yang disarankan**: /vehicles/changan-uni-z/
+- **Maksud pencarian**: Memahami Changan UNI-Z (2026, New Blue Whale PHEV) - Cine- Market Specs dan Expor Verifikasi: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk sebuah perintah.
+- **Saran tautan internal**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Changan UNI-Z (2026, New Blue Whale PHEV) - Chinice-Market Specs dan Expor Verifikasi, tidak ada pemeriksaan pentas atau orang-orang yang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang berhubungan dengan Changan UNI-Z (2026, New Blue Whale PHEV) - Cine- Market Specs dan Ekspor Veri, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Identitas konteks dan model pembeli
 ** Changan UNI-Z (2026) ** Tertutupi di sini adalah Cinese- pasar ** Paus Biru baru (Xin Lan Jing) * Hybrid- * SUV kompak. Ini adalah baris yang berbeda dari setiap bensin murni UNIZ dan dari ekspor-plat nama pasar Chanangan dapat menggunakan tempat lain; tidak ada ekuivalen nama overseas- diklaim tanpa pernyataan OEM. Referensi pasar adalah ** China **.
@@ -55,7 +57,6 @@ Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfi
 ** Apakah 130 km jangkauan WLTP? ** Tidak, ini CLTC.
 ** Dimana harga ekspor? ** Permintaan kutipan saat ini; halaman ini tidak menerbitkan apapun.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfi
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: tepat Chanangan UNI-Z 2026
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfi
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

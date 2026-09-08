@@ -1,14 +1,16 @@
 # SAIC Maxus ซินทู V90 Diesel Van: การปรับแต่ง- Matrix Light prograp, ไม่ใช่แบบเดียว
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: SAIC Maxus V90 คู่มือปรับแต่งการส่งออกของ Diesel Van Specs
-- ""คําอธิบาย" Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT (พ.ศ. RWD กับล้อหลังคู่ สองล้อล้อ 9–15 ที่นั่งโดยพระราชบัญญัติการรักไทย (พ.ศ.
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกนิก/ซานิก-แมกซ์ซัส- v90-specs/ ~
-- ** H1 **: SAIC Maxus Xintu V90 (Chinese-Magnet): การปรับแต่ง Diesel Light Van และ ส่งออก checks
-- ~คําสําคัญในคอลัมน์ ~: segic Maxus v90 DVDC สเปก
-- ~การค้นหาโดยย่อ ~: Maxus V90 ล้อล้อ V90 ZF 8AT, Maxus รถบัสไฟ 9-15 ที่นั่ง, รถตู้กว้างดีเซล รถตู้ พ่วงท้ายคู่ รถตู้คู่
-- ~ ลิงก์ภายใน ข้อเสนอ: / vehines/faw-jifang- j6p-tractor-specs/; / vehines/farison-xingang- v6e-specs/; / guides/Visicic-cic-type-opvol-doc-dosier/
-- ข้อเสนอแนะ: โพรไฟล์ด้านบนของล้อยาว เพลาหลังสองล้อ ศพผู้โดยสารที่ส่งของ ZF 8AT เลือก; โกดังสินค้า
-- "SIC Maxus V90 รถตู้หลังคายาว". "เครื่องยนต์ดีเซล V90 และตัวเลือกหลังเพลา".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: SAIC แมกนัส V90 คู่มือปรับแต่งการส่งออกของ Diesel Van Specs
+- **คำอธิบาย Meta**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW),  6AT/ ZF  8AT, RWD โดยมีล้อหลังคู่คู่แทน สองล้อล้อ 9–15 ที่นั่งโดยพระราชบัญญัติการรักไทย (พ.ศ.
+- **H1**: SAIC Maxus Xintu V90 (Chinese-Magnet): การปรับแต่ง Diesel Light Van และ ส่งออก checks
+- **คีย์เวิร์ดหลัก**: Sag atus v90 DVD สเปก
+- **คำค้นหารอง**: Maxus V90 ล้อล้อ  V90  ZF  8AT, Maxus ไลท์บัส 9-15 ที่นั่ง ส่งออกรถตู้แบบกว้างดีเซล รถแวนล้อหลังคู่
+- **URL ที่แนะนำ**: /vehicles/saic-maxus-v90-specs/
+- **เจตนาการค้นหา**: เข้าใจ SAIC Maxus Xintu V90 (Chinese-Magnet): Checknown configure value และ ส่งออกค่าต่าง ๆ: จําเป็นต้องตรวจสอบว่าโปรแกรมส่งออกรถ/ parts ต้องตรวจสอบอะไร, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **คำแนะนำรูปภาพ**: โพรไฟล์สีบน- เบส-สูง
+- **ข้อความ ALT**: SAIC Maxus V90 รถแวนยาวล้อสูงหลังคา
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของตัวซื้อ: สั่งซื้อรหัสการปรับแต่ง, ไม่ใช่ชื่อ
 The Xintu V90 is a **wide-body light commercial platform** sold as passenger minibus, รถตู้พาเนล/ คาร์โก  and  เสื้อคลุมเปล่า และ (เราได้ทําให้) บรรดาชนรุ่นหลัง ๆ เขานั้นมีสถานะดีกว่า (เช่น อิบลิส) เพดานสูง จํานวนที่นั่ง  and  ล้อหลังแบบเดียวหรือหลัง ไม่มี " V90 สเปก" สักตัว งานของผู้ส่งออกคือแก้ไขรหัสรุ่นที่ดัดแปลงได้ (公告型号) และจับคู่กับเครื่องยนต์, เกียร์, ขวาน, ร่าง, และที่นั่งให้ เพราะกําหนดปลายทางนั้นเป็นไปตามการปรับแต่งที่ระบุไว้ เรอ เนสต์ มาร์ เกตต์: # CHINA~
@@ -56,18 +58,18 @@ The Xintu V90 is a **wide-body light commercial platform** sold as passenger min
 ~ทําไมฉันต้องอ้างรหัสต้นแบบด้วย~ เครื่องขับ ดาดฟ้า ที่นั่ง ขวาน และจีวีดับเบิลยู แตกต่างกันในรูปแบบการเกี้ยวพาราสี V90 การตั้งค่า; เพียงรหัสแก้ไขข้อกําหนด
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
   - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
   - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
@@ -89,7 +91,7 @@ The Xintu V90 is a **wide-body light commercial platform** sold as passenger min
 | V90 2025 130 kW / 420 N·m | 16888 อัตโนมัติ | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | ROOS_ CHCKED | 130 kW/ 420 N·m, ZF 8AT ที่นั่ง 9–15 ที่นั่ง (กินซิงเกิล-ซอร์ส) |
 | Xintu V90 2024 พารามิเตอร์ | ฐานข้อมูลของ Syna Auto | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | ROOS_ CHCKED | 5498/2062/2545, ล้อ ลัด 3366/3760 |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 | GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
 

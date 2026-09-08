@@ -1,15 +1,17 @@
 # Leitura de uma cotação de carga para exportação de veículos: estrutura de carga sem números de invenção
 
-## SEO Meta- dados
-- ** Título SEO**: Estrutura de carga marítima para exportação de veículos — O/F, THC, DOC, BAF explicado
-- ** Descrição do Meta**: Compreender O/F, THC, DOC/SEAL/VGM, BAF e sobretaxas, origem vs taxas de destino, e porque as taxas de manifesto AMS/ACI/ENS são específicas de rota – um guia de estrutura que deliberadamente não declara valores fixos.
-- ** URL sugerido**: /guides/ocean-freight-carga-estrutura-veículo-exportação
-- ** H1 **: Decodificação de uma Quota de Transporte de Veículos: Que Cobra Existe, Quem Cobra deles, e O que Verificar
-- **Primary Keyword**: ocean carry estrutura veículo exportação THC DOC BAF
-- ** Termos de pesquisa secundários**: frete O/F oceano, taxa de manipulação de terminal, taxa de documento DOC, taxa SEAL VGM, sobretaxa BAF EBS, taxa de manifesto AMS ACI ENS, origem vs taxas de destino
-- ** Sugestões de ligação interna**: /guias/veículo-exportação-bill-of-lading-types/; /guias/veículo-exportação-pdi-pré-navio-manufação/; /guias/veículo-exportação-hs-código-classificação/
-- **Imagem Sugestões**: origem da cascata de carga→ocean→destination; taxation surcharge; cote-line audit sheet
-- **ALT Sugestões**: "Estrutura de carga de carga oceânica dividida por origem, oceano e destino"
+## Metadados SEO
+- **Título SEO**: Estrutura de tarifação de transporte marítimo para a exportação de veículos — O/F, THC, DOC, BAF Explicado
+- **Meta descrição**: Compreender O/F, THC, DOC/SEAL/VGM, BAF   and  sobretaxas, origem vs destino,  and  Por que razão as taxas de pagamento de AMS/ACI/ENS manifestos são específicas da rota — um guia de estrutura que deliberadamente não indica montantes fixos.
+- **H1**: Decodificar uma citação de transporte de veículos-exportar: que cobra existe, que cobra deles, e o que verificar
+- **Palavra-chave principal**: ocean freight charge structure vehicle export  THC   DOC   BAF
+- **Termos de busca secundários**: O/F frete marítimo, taxa de manipulação terminal, taxa de documento DOC, taxa SEAL VGM, sobretaxa BAF EBS, taxa de manifesto AMS ACI ENS, origem vs taxas de destino
+- **URL sugerida**: /guides/ocean-freight-charge-structure-vehicle-export
+- **Intenção de busca**: Compreenda a decodificação de uma cotação de transporte de veículos/exportações: que cargas existem, quem cobra e o que verificar: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Sugestão de imagem**: cobrada origem da cachoeira→ocean→destination
+- **Texto ALT**: Estrutura da carga marítima dividida por origem, oceano e destino
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Por que uma citação estruturada é mais importante do que um número baixo
 Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exportadores de veículos não são apanhados pela base de frete marítimo, mas pela pilha de sobretaxas e taxas de destino anexados a ele. Este guia explica **o que cada carga é, o que é cobrado, e onde surge**, e — porque cada taxa se move com faixa, capacidade e estação — ele ** declara que não há quantidades fixas**. Use-o para auditar uma linha de cotação por linha, não para estimar um custo de desembarque.

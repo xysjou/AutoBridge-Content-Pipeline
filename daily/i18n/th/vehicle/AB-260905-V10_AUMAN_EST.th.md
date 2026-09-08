@@ -1,15 +1,17 @@
 # โฟตอนดามเลอร์ AUMANEST (จีน-V/VI) — China-Mague Franchrent TV Curder Specs และ eplect Check
 
-## เชา ข้อมูลกํากับภาพ
-- "Foton Dimler" AUMAN STDODOR: คู่มือจัดการแฟ้ม ANIX- Magnet Specs & ส่งออก
-- ~Meta language ~: จีน-มาร์เก็ต โฟตัน ไดมเลอร์ ANMAN อย่างหนักหัวรถแทรกเตอร์: จีน-V ISG และจีน-VI X13 บรรทัด ZF/Fast Backes ~ 40 t GCW ห้องเรียนเก็บ BEV เป็นสายแยก
-- ~ H1 ~: โฟตัน ดามิมเลอร์~ AUMANEST (จีน-V/VI) — China-Mague Franchrent TV Curder Specs และ eplect Check
-- ~คําสําคัญในจดหมาย ~: โฟตัน ไดมเมอร์ อาเมนนา 福田戴姆勒欧曼 欧曼 ST 重型牵引车 (Tractor Taily Taily) สเป็ก ส่งออกไป
-- ** สืบค้นเมื่อเดือนกันยายน ~: AUMAN STST ส่งออกไป; Foton Dimler head; รถบรรทุกหนักจีน; X13 เครื่องยนต์; รถแทรกเตอร์ 6x4
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/โฟตัน-โอมาน-สเตคเตอร์ที่ยิ่งใหญ่ที่สุด/
-- สืบค้นเมื่อ 了解 Foton Dammaner AUMAN 福田戴姆勒欧曼 欧曼 ST 重型牵引车 (Tractor Taily) 中国版规格 、 配置与出口适配性 (车型参数页).
-- ** ลิงก์ภายใน **. สืบค้นเมื่อ: viohles/foton-auman-est-tratctor/, guides/Tird-Trest-Transport-Tina-sentral-asia///////guides/ of-liting-history/
-- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: โฟ ตัน ไดม เลอ ร์ AUMAN EST ผู้ติดตาม: ส่งออกเป็น EXIF & Magnet Specs ทิศทาง:
+- **คำอธิบาย Meta**: จีน-มาร์เก็ต โฟตัน ดามเลอร์ AUMAN EST หัวรถแทรกเตอร์หนัก: จีน-V ISG   and  China- VI  X13 lines, ZF กล่องเกียร์ที่มากที่สุด ~ 40 t GCW ชั้น (พ.ศ. BEV เก็บเป็นเส้นแยก
+- **H1**: Foton Daimler  AUMAN   EST  (China-V/ VI ) — Chinese-Market Heavy Tractor Truck Specs  and  Check ของส่งออก
+- **คีย์เวิร์ดหลัก**: โฟทัน ไดมเลอร์ AUMAN 福田戴姆勒欧曼 欧曼 ST 重型牵引车 (รถราง) สเปค เอ็กซ์เพรส
+- **คำค้นหารอง**: AUMAN EST ส่งออกเสียง; โฟตัน ดามเลอร์ เฮด; รถแทรกเตอร์หนักรถจี๊ปจีน X13 เครื่องยนต์; รถแทรกเตอร์ 6x4 คัน
+- **URL ที่แนะนำ**: /vehicles/foton-auman-est-tractor/
+- **เจตนาการค้นหา**: Understand Foton Daimler  AUMAN   EST  (China-V/ VI ) — Chinese-Market Heavy Tractor Truck Specs  and  Check ของแฟ้มส่งออก: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **คำแนะนำรูปภาพ**: ภาพที่สมจริง, เอกสาร/ภาพโฟกัสของกล้อง ไอสตรา โฟตัน ไดมเลอร์ AUMAN EST (จีน-V/VI) — เว็บฟลายเจอร์ฟลายเจอร์ เทอร์โบ สเปค และส่งออก ไม่มีการจัดฉากการตรวจสอบหรือคนอ้างว่า
+- **ข้อความ ALT**: ปิดมุมมองตามธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับโฟทัน Dayler AUMAN EST (จีน-V/ VI) — จีน-Musicre Froador Dobor Specs, ภูมิหลังที่เป็นกลาง, ไม่มีประชาชนหรือการตรวจสอบดําเนินการ
+- **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## บริบท: หัว รถ แทรกเตอร์ ที่ มี การ ระบาย น้ํา ออก และ สาย พลัง งาน แยก ต่าง หาก
 The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวหน้ารถแทรกเตอร์หนักของจีน จีน-V EST510 และจีน-VI X13 เป็นรุ่นที่แยกออกมาต่างกัน และรถรางไฟฟ้าแบบบาทิเทอรี่เป็นสายแยกต่างหาก ตลาดอ้างอิงคือ.... จีน
@@ -47,15 +49,14 @@ The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวห�
 ** ~ ZF 12TX AMT หรือเร็ว 16-speed โดยการสร้าง (พ.ศ.
 **X13 output?** 12.9 L, 412 kW/ 560 hp (พ.ศ. 2600 N·m บนสายจีน-วี
 
-
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | 欧曼 ST 车型文章. | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力, AMT |
 | 欧曼 ST-A 配置 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
+| 欧曼 合作动力 | 汽车之家车家号 汽车之家车家号 汽车之家车家号 | CN | T3   โรออส_ CHCKEE |/schejiaho.m.auto home.com. cn/parner/yidian/artics/3450841. | 潍柴 法士特配置 | | | | |
 | 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
-| 欧曼纯电 LNG 牵引车申报 | 新浪财经 | CN | T3 | ROOS_ CHCKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) พ.ศ. |
+| 欧曼纯电 LNG 牵引车申报 | 新浪财经 | CN | T3 | ROOS_ CHCKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) พ.ศ. ○
 | โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
 | กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
 | กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
@@ -67,18 +68,18 @@ The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวห�
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
 ## บันทึกรูปภาพ
-- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
-- ~~~~~ไม่ถูกจับ~
-- ~ประกาศจับ~: ไม่ถูกจับ
-- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
-- ~ห้ามยืนยัน~
-- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
-- ~CKND_DATE ~ 2026-09-06
-- ~FRELLTOIC_MATCH~: ฟอนตัน dimler เป๊ะๆ รถ แทรกเตอร์ AUMAE
-- MEDIAN_SCPE_NOTE: โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
-- หม่อมเจ้า หม่อมเจ้า
-- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
-- ~ALT (12 ภาษา) ~:
+-"ประกาศผล" ไม่มีความปลอดภัยในคลังเก็บ
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ~ฝนที่ตก~ ไม่ใช้ — ไม่มีส่วนแฟ้มสําหรับเลือกใช้สื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- **RIGHTS_HOLDER**: unconfirmed
+-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ไม่ มี ใคร ปลอด ภัย — การ มี หน้า ปก ของ เว็บเพจ โอ อี เอ็ม ไม่ ใช่ ใบ รับรอง การ ทํา ซ้ํา ใหม่ ทาง การ ค้า
+- **CHECKED_DATE**: 2026-09-06
+-"CRL/TOICC_MATCH*: ฟอนตัน ไดม์เลอร์เป๊ะ รถ แทรกเตอร์ AUMAE
+-"ห้ามเข้า" ภาพต้องตรงกับครอบครัว/ TOP ต้นแบบที่แน่นอนเท่านั้น ต้องไม่ได้หมายถึงการตัดแต่งแบบ โมเดล ปีจริง การตรวจสอบภายใน หรือการทําธุรกรรมจริง
+- **IMAGE_RIGHTS_STATUS**: FAIL
+-"Bock_REASON: ไม่สามารถเข้ารหัสภาพได้: Wikited Commors/Flickr ไม่สามารถติดต่อได้จากสภาพแวดล้อมการวิจัย, ห้องสมุดหลักต้องการสิทธิ์ API/licence และภาพจากเว็บเพจของ OEM ก็ไม่ใช่การให้ใช้ร่วมกันแบบพาณิชย์ ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
   - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
@@ -91,6 +92,5 @@ The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวห�
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

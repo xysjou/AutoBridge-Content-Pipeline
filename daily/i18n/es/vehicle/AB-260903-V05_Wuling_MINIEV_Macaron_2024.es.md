@@ -1,14 +1,16 @@
 # Wuling Hongguang MINIEV Macaron (3rd Gen) 2024: a Micro-EV Los compradores deben tamaño correcto
-## SEO Metadatos
-- **SEO Título**: Wuling Hongguang MINIEV Macaron 2024 Specs & Export Notes
-- **Meta Descripción**: China-mercado 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, Motor 20 kW,  170/215 km CLTC, Batería LFP, principalmente la carga lenta, 100 km/h velocidad máxima, lógica de elección de grado  and  Controles de exportadores.
-- ** URL agregada**: /vehicles/wuling-hongguang-miniev/ (página modelo verde; año modelo mantenido en H1/body, no la URL)
-- ** H1 **: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro-EV Especies y cheques de exportación
-- **Primary Keyword**: wuling hongguang miniev macaron 2024 specs
-- ** Términos de búsqueda de segundo orden**: MINIEV Rango de Macaron, exportación de micro EV de Wuling, MINIEV 20kW, 170 215 coche de la ciudad CLTC, Batería pequeña de Wuling LFP
-- **Sugerencias de enlace interno**: /vehicles/byd-dolphin/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/container-vehicle-loading-lashing/
-- **Sugerencias de imagen**: 3-door cuerpo con puertas abiertas; 4-seat micro cabina; puerto de carga (de baja carga); comparación de tamaño en una bahía de estacionamiento
-- **ALT Sugerencias**: "Cambio de micro EV MINIEV Macaron"; "Campamento de MIEV Macaron 170 215 CLTC"
+## Metadatos SEO
+- **Título SEO**: Wuling Hongguang MINIEV Macaron 2024 Specs & Export Notes
+- **Meta descripción**: China-mercado 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, Motor 20 kW,  170/215 km  CLTC , batería LFP, principalmente la carga lenta, 100 km/h velocidad máxima, lógica de elección de grado  and  Controles de exportadores.
+- **H1**: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Espectros y cheques de exportación
+- **Palabra clave principal**: torto hongguang miniev macaron 2024 specs
+- **Términos de búsqueda secundarios**: MINIEV Macaron range, Wuling micro EV export, MINIEV 20kW, 170 215 CLTC coche de la ciudad, Profundizar LFP batería pequeña
+- **URL sugerida**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **Intención de búsqueda**: Comprende Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Espectros y cheques de exportación: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **Sugerencia de imagen**: 3-door cuerpo con puertas abiertas
+- **Texto ALT**: Proyectado MINIEV Macaron micro EV dimensiones
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: Coincide con el producto en el caso de uso
 El Hongguang MINIEV Macaron es un coche eléctrico urbano **micro**, no un VE compacto. A ** 3064 mm largo  and  777 kg kerb**, se sienta una clase completa debajo de una pequeña hatchback — para escala,  el Delfín de BYD en este mismo catálogo está alrededor **4125 mm long** with 420/520 km CLTC grades. Esa brecha es la decisión de compra completa: el valor de Macaron es la movilidad de la ciudad de corta distancia en un punto de precio chino muy bajo; sus limitaciones son la velocidad máxima (** 100 km/h **),  range (**170/215 km CLTC**), velocidad de carga  and  tamaño de la cabaña. Un exportador que lo posiciona contra EVs de EB creará problemas de retorno; uno que lo vende como un producto urbano/último-milla definido no lo hará. Esta página cubre el ** 3rd-generation Macaron, año modelo 2024 (REFERENCE MARKET: CHINA)**.
@@ -62,18 +64,18 @@ No se publica ningún precio de exportación estático. El RMB 41, 800 / 46, 800
 **¿Es un competidor para un EV compacto normal?** No — junto a un ~ 4.1 m, 420+ km Dolphin es una clase más pequeña; posicionarlo como un conmutador urbano ultracompacto, no una familia de carreteras EV.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug

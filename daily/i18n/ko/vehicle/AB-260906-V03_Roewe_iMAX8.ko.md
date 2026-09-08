@@ -1,16 +1,16 @@
 # Roewe iMAX8: 중국 시장 세븐 좌석 MPV 수출에 대한 구매자 참조
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 로우 iMAX8 MPV 수출 Specs: 좌석, 차원, 2.0T 회사소개
-- **마타 기술 **: Roewe iMAX8 7-seat MPV의 중국 시장 참조: 2+2+3 좌석 및 공간, 치수, 모델 - 년 의존 2.0T 교정 분리 유지, 수출 검증 단계.
-- ** H1 **: 로에우 iMAX8: 중국 시장 세븐 좌석 MPV 수출에 대한 구매자 참조
-- ** 출원 키워드 **: Roewe iMAX8 수출 사양
-- **세컨드 검색 조건 **: 로에우 iMAX8 MPV; iMAX8 7 좌석 2+2+3; iMAX8 차원 축거; SAIC MPV 수출; iMAX8 2.0T 아신 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- ** 수색 **: 面向海外 B 端买家介绍 iMAX8 中国市场版本身份, 座椅空间 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- ** 이미지 제안 **: Roewe iMAX8 MPV 측면 뷰는 긴 축축 및 슬라이딩 후면 문을 강조
-- ** ALT 제안**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  긴 축축
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: Roewe iMAX8 MPV 수출 사양: 좌석, 치수, 2.0T 회사소개
+- **메타 설명**: Roewe iMAX8 7-seat MPV의 중국 시장 참고: 2+2+3 좌석 및 공간, 치수, 모델 - 년 의존 2.0T 교정 분리 및 수출 검증 단계.
+- **H1**: 로에우 iMAX8: 중국 시장 세븐 좌석 MPV 수출에 대한 구매자 참조
+- **주요 키워드**: Roewe iMAX8 수출 specs
+- **보조 검색어**: Roewe iMAX8 MPV; iMAX8 7 좌석 2+2+3; iMAX8 차원 축거; SAIC MPV 수출; iMAX8 2.0T Aisin 8AT
+- **추천 URL**: /vehicles/roewe-imax8/
+- **검색 의도**: Roewe iMAX8: 중국 시장 세븐 좌석 MPV 수출입자 등록: 차량/부품 수출업체가 확인, 문서 및 주문에 투입하기 전에 결정해야 하는지.
+- **내부 링크 제안**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **이미지 제안**: Roewe iMAX8 MPV 측면 뷰는 긴 축축 및 슬라이딩 후면 문을 강조
+- **ALT 텍스트**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  긴 축축
+- **스키마 범위**: 제+차량
 
 로우 iMAX8은 SAIC의 중간 / 큰 사람들 - 자동차 - 다섯 문,  seven-seat (2+2+3) front-wheel-drive MPV aimed at family  and  의약철강 수출을 위해 MPV는 좌석과 공간에 먼저 구입하고 마력 두 번째, 그래서이 페이지는 캐빈 아키텍처로 이동합니다. ** 필트럭 iMAX8 만 **를 다룹니다. 어떤 잡종 또는 전기 iMAX8 변종은 다른 제품이며, deliberately 혼합되지 않습니다.
 
@@ -78,15 +78,15 @@ RHD 버전은 여기에 사용되는 중국 시장 소스에 의해 증거가 �
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 荣威 iMAX8 官方车型页 (车型官方身份; 官网动态渲染尺寸未取到, 尺寸以数据库为准) | 荣威汽车官网 | 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+  iMAX8 官  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i  i    到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到     到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到 到   到 到 到 到     到 到         到 到 到 到 到                                 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
 | iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
 | iMAX8 尺寸 / 座位 (5016 × 1909 × 1788, WB3000, 7 座) | 58汽车 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://car.58.com/x/4112/ | 尺寸,  座位  |
 | iMAX8 20A4E 发动机 (234Ps) 与配置 | 太平洋汽车百科 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
 | 의정부 모터 공식 (Roewe 상표 소유자) | SAIC 모터 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.saicmotor.com/e/ | 신분증 - OEM 모회사; Roewe는 SAIC 브랜드입니다 |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 균질화 중국 변종 및 좌석 수 확인 발표 |
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 균질화 중국 변종 및 좌석 수 확인 발표 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (本篇锁燃油版; 混动/纯电 iMAX8 不混入; 动力年款标定分列)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

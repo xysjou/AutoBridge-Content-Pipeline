@@ -1,14 +1,17 @@
 # GWM Poer(Pao Ute) — ドライブトレイン、ベッド、シャーシ、ピクルスアップインポーターのVer.Map
-## ツイート メタデータ
-- **SEOタイトル**:GWM Poer Ute Pickup:ドライブトレイン、ベッド&エクスポートバージョンガイド
-- **Meta Description**: GWM Poer(中国炮 GWM Ute)は、ピックアップ購入者のために説明 — ガソリン対ディーゼル、8AT/9AT進化、オンデマンド4WD、標準対ロングベッド、ペイロード検証、および正確な輸出ビルドを修正する方法。
-- **混雑したURL**: /vehicles/great-wall-poer/
-- ** H1 **: GWM Poer (Pao): ピックアップを注文する前に、ドライブトレイン、ベッド、シャーシを修正
-- **主なキーワード**: ギム 貧しいピックアップ仕様の輸出
-- **二次検索条件**:GWM 貧しいディーゼル2.4TのGWM ウートの輸出、GW4C20Bガソリン、GW4D24ディーゼル480 Nmの偉大な人 壁二重タクシーのピックアップ、貧しい4x4貨物ベッド
-- **内部リンクの提案**: /guides/right-hand-drive-chinese-cars/; /guides/import-chinese-truck-saudi-saso/; /guides/commercial-truck-fleet-procurement-china/
-- **イメージ提案**:ベッド付きダブルキャブ;ガソリン対ディーゼルカード;4WDセレクター;ベッド測定;梯子フレームシャーシ
-- アルト 提案**: 「GWM Poer ダブルキャブピックアップ」; 「荷役のベッド次元」; "Poer four-wheel-drive selector  and  トランスファーケース"
+## SEOメタデータ
+- **SEOタイトル**: GWM 貧しい/腸の積み込み: ドライブトレイン、ベッド及び輸出版ガイド
+- **メタディスクリプション**: GWM Poer(中国炮 / GWM Ute)は、ピックアップバイヤーのために説明 - ガソリン対ディーゼル、 8AT/9AT 進化, オンデマンド 4WD、 標準的な対の長いベッド, ペイロード検証  and  正確なエクスポートビルドを修正する方法。
+- **H1**: GWM 貧しい(Pao): ピックアップを注文する前にドライブトレイン、ベッド、シャーシを修正
+- **主要キーワード**: GWM  Poer pickup specifications export
+- **関連検索語**: GWM  Poer diesel 2.4T,   GWM  Ute export, GW4C20Bガソリン, GW4D24ディーゼル480 Nm、 大きい壁の二重タクシーの積み込み, ポーア4x4貨物ベッド
+- **推奨URL**: /vehicles/great-wall-poer/
+- **検索意図**: GWM Poer(Pao): ドライブトレイン、ベッド、シャーシを固定する ピックアップを注文する前に:車両/パーツの輸出者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /guides/right-hand-drive-chinese-cars/ ; /guides/import-chinese-truck-saudi-saso/ ; /guides/commercial-truck-fleet-procurement-china/
+- **画像候補**: ベッド付きダブルキャブ
+- **ALTテキスト**: 電圧: GWM ポーアダブルキャブピックアップ
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## GWMラインアップのPoer Sitsの所在地
 GWM Poer(中国名炮 Pao、一部の輸出市場GWM Ute)は、中東、ANZ、ラテンアメリカで販売され、ステアリングレイアウトと燃料の両方でRHD市場を選択したグレートウォールのコアボディオンフレームピックアッププラットフォームです。 名前は、**passenger(乘用版)、商用(商用版)、オフロード(越野版)**をカバーします。 シャーシ、ベッド、サスペンション、トランスミッションが異なるので、バージョンは任意の比較の前に固定する必要があります。 これは、常緑モデルのページです。中国** 2024旅客ビルド**は、現在のGWM-officialデータ(9ATに進化し、出力を改定した)が2024図を上書きするのではなく、別々に示されています。
 ## ドライブトレイン:ガソリン対ディーゼル — とモデル年変化のレスペクト
@@ -48,39 +51,39 @@ GWM Poer(中国名炮 Pao、一部の輸出市場GWM Ute)は、中東、ANZ、�
 検証済みの事実ベースから欠損していたため、ここには述べていません。 正確なバージョンの公式シートからそれを取ります。
 **RHDで利用可能か?** GWMは、多くの市場を横断するレイアウトでPoer/Uteを販売しています。RHDの特定のエンジン/バージョンがあなたの国のために確認されています。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Poer, Verbrenner (chinesischer Markt) Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Poer, vehículo de combustión (mercado chino) camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — GWM Poer, veículo a combustão (mercado chinês) picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Poer, 中国市場仕様 内燃機関車 ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Poer, 중국 시장 내연기관 차량 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Poer, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Poer, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Poer, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 皮卡
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle / pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) / pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Poer, Verbrenner (chinesischer Markt) / Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Poer, vehículo de combustión (mercado chino) / camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Poer, veículo a combustão (mercado chinês) / picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Poer, 中国市場仕様 内燃機関車 / ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Poer, 중국 시장 내연기관 차량 / 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Poer, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Poer, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Poer, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | GWMの積み込みの公式の構成テーブル(GW4C20B/GW4D24、8AT/9ATの純力/トルク) | GWM (**メーカー公式**) | CN の | 以下は、 https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 の | 2026-09-03 | **検証済み** | 現在の公式の純出力160 kW/380 N·mガソリン、135 kW/480 N·mディーゼル、8AT/9AT |
-| GWMのPOER 2.4の輸出(181 hp/480 N·m/9ATのボディ・オン フレーム4WD) | GWM ヨルダン (**メーカー公式**) | 輸出/JO | 以下は、 | 2026-09-03 | **検証済み** | 2.4 ディーゼル出力、9AT、4WD ボディオン フレームを輸出して下さい | https://www.gwmjordan.com/en/poer/poer?v=440
+|  GWM  の  POER  2.4 の輸出 (181 hp / 480 N·m / 9AT のボディ・オン フレーム 4WD) |  GWM  ヨルダン (** メーカー公式 ** | 輸出 /  JO  | 以下は 、 | 2026-09-03 | 検証済み ** | 2.4 ディーゼル出力 、 9AT 、 4WD ボディオン フレームを輸出して下さい | https://www.gwmjordan.com/en/poer/poer?v=440
 | GWM UK POER300 の進水(2.4 ディーゼル 183 PS/480 N·m、9AT、フルタイム 4 の × 4 の低範囲) | ギム 英国車(**メーカー公式**) | | 以下は、 https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **検証済み** | 輸出ディーゼル評価、9AT、4の× 4低範囲 |
-| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN の | 以下は、 https://price.pcauto.com.cn/m128673/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | 2024乗客140 kW/360ガソリン、135 kW/480ディーゼル、ZF 8AT |
-| Pao | オートホーム | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | 3230/3470 | https://product.360che.com/m792/198189_param.html 360che
+| 2024年|京都・京都・京都・京都・京都・京都・祇園・京都・祇園・祇園・祇園・京都・祇園・祇園・祇園・祇園・小松・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・ CP(中国旅客参照) | PCauto(太平洋汽車) | CN の | 以下は、https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED(クロス)の仕様 | 2024 旅客用 140 kW / 360 接近 、135kW / 480 接種 、 ZF 8AT | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全・安心・安全・安全・安全・安心・安全・安全・安全・安全・安心・安全・安心・安全・安全・安全・安心・安心・安心・安全・安全・安心・安全・安全・安全・安全・安全・安心・安心・安全・安全・安全・安心・安全・安全・安心・安心・安全・安全・安全・安全・安全・安全・安全・安心・安心・安全・安全・安心・安心・安心・安心・安全・安心・安心・安全・安全・安全・安全・安心・安心・安全・安全・安心・安心・安全・安全・安全
+| パオ | オートホーム | CN の | 以下は | 2026-09-02 | CROSS | CHECKED | 3230/3470 | https://product.360che.com/m792/198189_param.html 360che
 | 汽车之家 问答 (炮动力) | 汽车之家 | CN の | 以下は、 https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | シングル_ソース | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
 | 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN の | 以下は、 https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | シングル_ソース | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
 | 网上车市 炮乘用皮卡参数 | 网上车市 | CN の | 以下は、 https://a.cheshi.com/bseries_4361/param.html の | 2026-09-02 | シングル_ソース | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |

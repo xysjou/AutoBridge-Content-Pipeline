@@ -1,15 +1,17 @@
 # انتقاء Incoterms 2020 في تصدير المركبات الصينية - المخاطر وتكاليف المخصصات
 
-## SEO Metadata
-- ** عنوان الحلقة**: Incoterms 2020 Selection Guide for Vehicle Export: FOB, CIF, FCA, CIP, DDP and More
-- ** وصف البيانات**: (ب) اختيار القاعدة الصحيحة البالغة 2020 لشحن المركبات: حيث تُحدّد المخاطر ونقل التكاليف، والمصطلحات البحرية فقط مقابل تعدد الوسائط، والتأمين بموجب اتفاقية الدولية لحماية جميع الأشخاص من الاختفاء القسري، ولماذا يضاعف عبء البائع من عبء الديون.
-- ** H1 **** اختيار Incoterms 2020 في تصدير المركبات الصينية - المخاطر وتكاليف المخصصات
-- ** كلمة رئيسية**: incoterms 2020 selection guide
-- ** مصطلحات البحث الثانية**: المواد المخصصة للاختبارات الإلكترونية 2020؛ وFOB ضد FCA؛ و CIF ضد CIP؛ وخطر الأشخاص ذوي الإعاقة؛ ومصطلح متعدد الوسائط؛ ونقل المخاطر
-- ** اقتراح الاتحاد الأوروبي المعني بمكافحة العنف الجنسي: المحددة - 2020-selection-guide/
-- ** الحلقة الدراسية**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语 ku 明确风险转移点与费用 保险责任
-- ** Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-insurance-history/, /guides/china-export-customs-declaration-single-window/
-- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Incoterms 2020 Selection Guide for Vehicle Export: FOB, CIF, FCA, CIP, DDP and More
+- **وصف Meta**: (ب) اختيار القاعدة الصحيحة البالغة 2020 لشحن المركبات: حيث تكون المخاطر ونقل التكاليف، والمصطلحات البحرية فقط مقابل تعدد الوسائط، والتأمين تحت البند CIF/CIP، وسبب DDP زيادة عبء البائع.
+- **H1**: انتقاء Incoterms 2020 في تصدير المركبات الصينية - المخاطر وتكاليف المخصصات
+- **الكلمة المفتاحية الرئيسية**: incoterms 2020 selection guide
+- **مصطلحات بحث ثانوية**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risk; multimodal term; risk transfer
+- **URL المقترح**: /guides/incoterms-2020-selection-guide/
+- **نية البحث**: Understand Choosing Incoterms 2020 in Chinese Vehicle Export — Risk  and  التكلفة المخصصة: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating Choosing Incoterms 2020 in Chinese Vehicle Export - Risk and Cost Allocation, no staged inspection or people claimed.
+- **نص ALT**: :: نظرة دقيقة وطبيعية للمواد والموضوع المتصل باختيار المواد الإلكترونية 2020 في تصدير المركبات الصينية - المخاطر والتكلفة، والخلفية المحايدة، ولا يظهر أي أشخاص أو إجراء تفتيش.
+- **نطاق المخطط**: المادة (لا المنتجات/القابلية/الاستعراض)
 
 ## بدءاً من طريقة النقل، وليس عادة
 وتتضمن المواد المحددة في العقد 2020 ** قواعد مقسمة إلى قواعد لأي وسيلة نقل أو قواعد تقليدية للنقل - المجرى. وفي تصدير المركبات، يتمثل الخيار الأول في ما إذا كان الانتقال هو المحيط المتنقل إلى الميناء أو متعدد الوسائط (الشاحنات إلى البحر، المشتركة بين شاحنات آسيا الوسطى). إن اختيار فترة بحرية فقط للتحرك المتعدد الوسائط يخلق فجوة في المكان الذي يمر فيه الخطر.
@@ -36,36 +38,35 @@
 ** لماذا خطر التشرد الداخلي على مصدِّر صيني؟** وهو يجعل البائع مسؤولا عن تصاريح الاستيراد والرسوم والضرائب في المقصد.
 ** كم عدد القواعد المحددة المدة البالغ 2020؟** أحد عشر، في مجموعتين للنقل
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | مفقود | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
 | 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | مفقود | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
 | 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | صرخات | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Incoterms 2020 rules (ICC) | غرفة التجارة الدولية | CN | T1 | مفقود | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
-| الأدوات والأدوات الأصلية للمنظمة العالمية للجمارك | منظمة الجمارك العالمية | CN | T1 | مفقود | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | إطار وقواعد المنشأ والصكوك التي تحتفظ بها المنظمة العالمية للجمارك |
-| ICC Rules (Incoterms 2020 rule owner — dedicated page) | غرفة التجارة الدولية | INT | T1/T2 | مفقود | https://iccwbo.org/business-solutions/icc-rules/ | مؤشر قواعد المحكمة الجنائية الدولية الصلاحية الذي يؤكد أن المادة 2020 من القانون الدولي هي المصطلح الحالي الذي يُمنح حقوقاً في النسخ، وأن تُبقي عليها المحكمة الجنائية الدولية |
+| Incoterms 2020 rules (ICC) |法) CN | T1 | مفقود | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/  of ناشر موثوق في Incoterms 2020 |
+| Prevent the Global |CN | | T1 |  مفقود  مفقود  مفقود  مفقود https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx .frames. ?
+| Conduct duito (InternationalGGE INTERNATIONAL FOR PROTEUR 2020 - LI)RE INT T1/T2 | https://iccwbo.org/business-solutions/icc-rules/ | Resito, − CR, LIMITED, LIMITED I, paras. 2020، الفقرات من الإعلان
 | FIATA -شحن البضائع في إطار Incoterms | الاتحاد الدولي لرابطات مشرفي الشحن | INT | T1/T2 | مفقود | https://www.fiata.org/ | التفسير المباشر لنقطة التسليم، والتزامات نقل المخاطر والنقل بموجب Incoterms |
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: INT(国际商会规则框架)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** exact Choosing Incoterms 2020 in Chinese Vehicle Export
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** إختيار Incoterms 2020 في تصدير المركبات الصينية
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
@@ -79,6 +80,5 @@
   - **ID**: Incoterms selection, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Incoterms selection, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Incoterms selection, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #Incoterms #TradeTerms

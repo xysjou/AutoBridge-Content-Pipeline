@@ -1,14 +1,16 @@
 # Changan CS75 PLUS (3rd-Gen Champion) 2024: Dua Turbo Engines dan Batas 4th-Gen
-## SEO Metadata
-- ** Judul SEO **: Changa CS75 PLUS 2024 (3rd Gen) Specs & Expor Buyer Notes
-- ** Meta Description **: Cine- pasar 3rd-gen Chopan CS75 PLUS 2024 - 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensi, L2 driver aids, dan 4th-generation eksportir perbedaan harus tetap lurus.
-- ** Sugested URL **: kendaraan changan - cs75-plus/
-- ** H1 **: Changan CS75 PLUS 2024 (3rd-Generation Champion): Cinese- Specs Pasar untuk Exploters
-- ** Primary Keyword **: changan cs75 ditambah 2024 spesifikasi 1.5t 2.0t
-- ** Secondary Search Terms **: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, ekspor SUV Changan, generasi ketiga CS75 dimensi PLUS, mesin paus Biru
-- ** Inside Link Sugestions **: wiraceers geely-emgrand coceices li-auto- l6/; guiders ourcle-coc- typec- approquval- dosier
-- *** Sugestions Gambar **: 1.5T vs 2.0T perbandingan; Aisin 8AT badge; 540 ° tampilan kamera; profil samping menampilkan 4710 mm panjang
-- "Changan CS75 PLUS generasi ketiga 2024"; CS75 PLUS 1.5T melawan 2.0T mesin "
+## Metadata SEO
+- **Judul SEO**: Changan CS75 PLUS 2024 (3rd Gen) Catatan Specs & Ekspor Buyer
+- **Deskripsi Meta**: Chinese- pasar 3rd-gen Changangan CS75 PLUS Champion 2024 - 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensi, L2 driver aids, dan 4th-generation eksportir perbedaan harus tetap lurus.
+- **H1**: Changangan CS75 PLUS 2024 (3rd-Generation champion): Cine- Market Specs for Exploters
+- **Kata kunci utama**: changan cs75 ditambah 2024 spesifikasi 1.5t 2.0t
+- **Istilah pencarian sekunder**: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, Cangan SUV ekspor, tiga generasi CS75 PLUS dimensi, Mesin biru paus
+- **URL yang disarankan**: /vehicles/changan-cs75-plus/
+- **Maksud pencarian**: Memahami Chopan CS75 PLUS 2024 (3rd-Generation juara): Chines-Market Specs untuk Exporters: apa yang eksportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk perintah.
+- **Saran tautan internal**: /vehicles/geely-emgrand/ ; /vehicles/li-auto-l6/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Saran gambar**: 1.5T vs 2.0T perbandingan
+- **Teks ALT**: Changan CS75 PLUS generasi ketiga 2024
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Pembeli Konteks: Pisahkan 3rd-Gen Champion Dari Generasi 4th
 CS75 PLUS adalah inti keluarga setengah setengah SUV milik Changan. Halaman ini mencakup baris juara ** 3rd-generation, model tahun 2024 (REFERENCE MARKET: CHINA) *. A ** 4th generasi memasuki pasar Cina dari September 2024 ** dengan tubuh dan pangkalan roda yang lebih panjang dan sebuah lagu 1.5T direvisi. Karena kedua generasi diperdagangkan di bawah CS75 PLUS nama dalam tumpang tindih bulan, catatan perintah yang mengatakan hanya "CS75 PLUS 2024" adalah ambigu - generasi kunci, mesin dan gearbox terhadap VIN.
@@ -55,30 +57,30 @@ Apakah 2024 CS75 PLUS sama dengan 4th-generation mobil? Tidak - generasi 4th dil
 ** Apakah paket L2 identik pada setiap kelas? ** Perlakukan sebagai grade-spesifik; verifikasi ACC lane 540 ° konten kamera pada VIN tepat.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 SUV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |

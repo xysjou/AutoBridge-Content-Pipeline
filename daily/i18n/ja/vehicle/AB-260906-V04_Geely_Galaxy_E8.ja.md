@@ -1,16 +1,16 @@
 # GeelyギャラクシーE8(Yinhe E8):中国市場輸出のための電気セダンの参照
-## ツイート メタデータ
-- **SEOタイトル**: ゲーリーギャラクシーE8(Yinhe E8) 輸出仕様:電池、範囲、充満ガイド
-- **メタ 記述**: 中国の市場参照SEAベースのGeelyギャラクシー/Yinhe E8電気セダン:モータの変種、CLTCの範囲とバッテリーオプションは、トリム固有の、800V充電洞窟、EVエクスポートチェックを保持しました。
-- H1 **: ジーリーギャラクシーE8 (Yinhe E8)): 輸出のための中国市場電気セダンの参照**
-- **主なキーワード**: ジーリーギャラクシーE8 Yinhe E8 輸出仕様
-- **二次検索条件**:ギャラクシーE8 SEAアーキテクチャ; Yinhe E8 CLTC範囲;ギャラクシーE8 800V充電; ジーリー電気セダンの輸出;E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Search Intent**: 面向海外 B 端买家介绍银河 E8 中国市场版本身份、三电 / 续航 / 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- **イメージ提案**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
-- アルト 提案**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  ファーストバックの屋根ライン**
-- **Schema Scope**: Article + Vehicle
+## SEOメタデータ
+- **SEOタイトル**: GeelyギャラクシーE8 (Yinhe E8) 輸出仕様:電池、範囲、充満ガイド
+- **メタディスクリプション**: SEA - ベースのGeely Galaxy / Yinhe E8電気セダンのための中国市場参照:モータの変種、CLTC範囲とバッテリーオプションは、トリム固有の、800V充電洞窟、EV輸出チェックを保持しました。
+- **H1**: GeelyギャラクシーE8(Yinhe E8):中国市場輸出のための電気セダンの参照
+- **主要キーワード**: ゲーリーギャラクシーE8 ジンヘ E8 輸出仕様
+- **関連検索語**: ギャラクシーE8 SEAアーキテクチャ; Yinhe E8 CLTC範囲; ギャラクシーE8 800V充電; ジーリー電気セダンの輸出;E8 475 kW AWD
+- **推奨URL**: /vehicles/geely-galaxy-e8/
+- **検索意図**: ジーリーギャラクシーE8(Yinhe E8)を理解する:輸出のための中国市場電気セダン参照:車両/部品輸出業者が確認しなければならないもの、文書と注文をコミットする前に決定する必要があります。
+- **内部リンク候補**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **画像候補**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
+- **ALTテキスト**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  ファーストバックの屋根ライン
+- **スキーマ範囲**: Article + Vehicle
 
 ギャラクシーE8(Yinhe E8)は、Geelyの海(持続可能な経験アーキテクチャ)の主力電気的高速船です。 単動リアドライブで提供される低ドラッグ(0.199 Cd付近)電池式車  and  デュアルモーターオールホイール駆動方式 EVだから、購入決定はバッテリー、テストサイクル、充電アーキテクチャ、ソフトウェアで、単一の見出し電力番号ではなく、電源をオンにします。 以下は、**中国市場(CLTC)参照です。** エクスポートバージョンと充電基準は、別々のOEM証拠を必要とします。
 
@@ -74,16 +74,16 @@ Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  a
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量、整备质量、续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸、续航、电机功率、驱动  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机、电池供应商、平台  |
-| Geely Yinhe/Galaxy E8 車両ページ (OEM) | ジーリーオート | CN/EXPORT(エキポート) | T1 | 検証済み | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | アイデンティティ — OEM のアイデンティティ: 海の基づいた旗艦の電気セダン |
-| ジンヘE8(Jan 2024 OEMリリース)の納入を開始 | ジーリーオート | CN の | T1 | 検証済み | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | アイデンティティ — 起動タイミングとSEAアーキテクチャ; トリム仕様はSKUごとに静止 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | モーター_power — 発表によるバッテリー/ドライブのバリアントを検証 |
-| Geely Galaxy E8 独立した仕様の概要 | リンカーズ | CN の | T3 | CROSS_CHECKED(クロス) | https://www.lynkcars.com/geely-galaxy-e8/ | Motor_power — 独立したデータベースのクロスチェック; OEM から確認 |
+| 银河 E8 参数 （ 电池 62/67.8/ 76kWh 、 能量密度 、 整备质量 、 续航版本 ） | 懂车帝车型参数页 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量 、 整备质量 、 续航 |
+| 银河 E8 多 トリム 对比 (5010 × 1920 × 1465 、 WB2925; インフォメーション 575/610/620/700; 后驱 200/ 250kW 、 四驱 475kW) | 懂车帝车型对比 | 日 時 分 | T2 |  CROSS | CHECKED (クロス) | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸 、 续航 、 电机功率 、 驱动 |
+| 银河 E8 610km 版 （ 250kW / 373N·m 、 5.49s 、 宁德时代 67.8kWh 、 800V ） | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机 、 电池供应商 、 平台 |
+ゲリー・インヘ / 銀河 E8 車ページ(OEM) | ジーリーオート | CN/EXPORT(エキポート) | T1 | 試用版 | https://www.geely.com/ja/corporate-fleet-sales/galaxy-e8 | OEM の メーリング メーリング メーリング メーリング メーリング オブ オブ ワールド オブ オブ ワールド オブ オブ ワールド オブ ワールド オブ ワールド オブ オブ オブ ワールド オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ  スタッフ
+| ジンヘ E8 (Jan 2024  OEM  リリース) の納入を開始 | ジーリーオート |  CN  の | T1 | 検証済み | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | アイデンティティ | 起動タイミングと  SEA  アーキテクチャ トリム仕様は  SKU  ごとに静止 |
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | モーター | 力 | 発表によるバッテリー | ドライブのバリアントを検証 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 |
+| 銀河 E8 の特長 | リンカーズ | CN の | T3 | CROSS | CHECKED(クロス) | https://www.lynkcar.com/geely-galaxy-e8/ | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参考市場**:中国(中国市场 CLTC;电池 / 续航按 トリム、快充峰值缺官方禁写死; 出口版另证)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

@@ -7,8 +7,10 @@
 - **Primary Keyword**: Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） specs export
 - **Secondary Search Terms**: Geely Xingyuan export; Galaxy Xingyuan specs; Geely Starwish; Chinese small electric hatchback; CLTC city EV
 - **Suggested URL**: /vehicles/geely-xingyuan/
-- **Search Intent**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verific, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Expo, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context and model identity

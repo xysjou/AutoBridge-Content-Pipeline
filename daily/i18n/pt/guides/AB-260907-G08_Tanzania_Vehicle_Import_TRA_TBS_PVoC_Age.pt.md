@@ -1,16 +1,16 @@
 # Importação de Veículos para a Tanzânia: A Track Alfândega TRA e a TCE PVoC/CoC Track
-## SEO Meta- dados
-- ** Título SEO**: Tanzânia Importação de Veículos: Alfândega TRA e TBS PVoC/CoC Explicado □ AutoBridge
-- ** Descrição do Meta**: Como a importação de veículos para a Tanzânia divide entre o desalfandegamento TRA sob a conformidade EACCMA/TANCIS e TBS pré-transmissão PVoC (com uma categoria de veículos usados), e o que deve ser verificado para idade e dever.
-- ** H1 **: Importação de Veículos para a Tanzânia: A Track Alfândega TRA e a TCE PVoC/CoC Track
-- **Chave principal**: tanzania vehicle import tra tbs pvoc age
-- ** Termos de pesquisa secundários**: TBS PVOC usado veículos a motor; Tanzânia CoC pré-expedição; importação TRA TÁNCIA; importação de veículos EACCMA 2004; Tanzânia usado limite de idade do carro; CCIC PVOC China
-- ** URL sugerido**: /guides/tanzania-veículo-importação-tra-tbs-pvoc-age/
-- **Intenção de pesquisa**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责.PVoC/CoC 机制与二手车专门类别, 以及车龄 / 税率需向谁核验
-- **As sugestões de ligação interna**: /guias/africa-used-car-age-limits/, /guias/marine-cargo-seguro-icc-incoterms/, /guias/veículo-pré-navio-inspecção-pdi/
-- ** Sugestão de Imagem**: Veículo utilizado a ser inspeccionado num estaleiro de exportação enquanto se prepara um documento de conformidade
-- **ALT Sugestão**: Veículo sob inspeção pré-expedição ao lado de um certificado de conformidade em uma área de transferência
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: Importação de Veículos da Tanzânia: TRA Alfândegas e TBS PVoC/CdC Explicados □ AutoBridge
+- **Meta descrição**: Como a importação de veículos para a Tanzânia divide entre TRA desembaraços aduaneiros abaixo de EACCMA/TANCIS e TBS conformidade PVOC pré-expedição (com uma categoria de veículo usado-de-veículo específico), e o que deve ser verificado para idade e dever.
+- **H1**: Importação de Veículos para a Tanzânia: A via aduaneira TRA e a via TBS PVoC/CoC
+- **Palavra-chave principal**: tanzania veículo importação tbs idade pvoc
+- **Termos de busca secundários**: TBS PVOC utilizavam veículos a motor; Tanzânia CdC pré-expedição; TRA TANCIS importação; EACCMA 2004 importação de veículos; Tanzânia usou limite de idade do carro; CCIC PVoC China
+- **URL sugerida**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **Intenção de busca**: Compreender a importação de veículos para a Tanzânia: A via aduaneira TRA e a rota TBS PVoC/CdC Faixa: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+- **Sugestão de imagem**: Veículo utilizado a ser inspeccionado num estaleiro de exportação enquanto se prepara um documento de conformidade
+- **Texto ALT**: Veículo sob inspeção pré-expedição ao lado de um certificado de conformidade em uma área de transferência
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 A Tanzânia é um mercado único com um sistema de importação deliberadamente bivial, e um exportador de veículos que o trata como um processo perde tempo no porto. Uma via pertence à **Tanzania Revenue Authority (TRA)** — declaração aduaneira, avaliação dos direitos e apuramento ao abrigo da Lei de Gestão Aduaneira da Comunidade da África Oriental. O outro pertence ao **Tanzania Bureau of Standards (TBS)** — avaliação de conformidade pré-expedição que decide se uma remessa regulamentada, veículos a motor usados incluídos, é mesmo permitida. Este guia é específico para a Tanzânia (não é uma declaração em todo o Oriente-África) e é construído sobre as páginas primárias atuais TBS e TRA. Explica ambas as faixas de forma autorizada e, onde os documentos oficiais primários para a idade do automóvel usado e as taxas de serviço dos veículos não foram recuperáveis na revisão, afirma os que são itens para verificar em vez de inventar números.
 

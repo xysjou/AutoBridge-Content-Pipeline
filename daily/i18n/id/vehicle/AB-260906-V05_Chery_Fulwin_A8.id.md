@@ -1,16 +1,16 @@
 # Chey Fulwin A8 (Fengyun A8): Cina - Pasar PHIV Referensi Ekspor Sedan
-## SEO Metadata
-- ** SeO Judul **: Chey Fulwin A8 PHEV Ekspor Specs: Dua Garis Jangkauan, Baterai dan Mode
-- ** Meta Description **: Korese- referensi pasar Cherid Fulwin Fengyun A8 di sedan hybrid: 70 km dan 145 km baris tetap terpisah, C-DM hibrida sistem, pengisian dan cek ekspor khusus PHEV-tertentu.
--   H1 Chery Fulwin A8 (Fengyun A8): China- Market PHEV Referensi Ekspor Sedan
-- ** Primary Keyword **: Chey Fulwin A8 Fengyun A8 ekspor spesifikasi
-- ** Akhir Pencarian Second **: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC jangkauan listrik; Fulwin A8 145 km; Chey plush- dalam ekspor hybrid; Fulwin A8 dimensi
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- ** Cari Intent **: 面向海外 B 端买家介绍风云 A8 中国市场版本身份: 插混系统 纯电续航 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** * Sugesti Gambar **: Sisi pandangan dari Chey Fulwin A8 disedan hybrida dengan port pengisian terlihat
-- ** ALT Saran **: Profil sisi dari Fulwin Chey A8 sedan PHEV dengan lipatan pengisian yang terlihat
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: Chey Fulwin A8 PHEV Ekspor Specs: Dua Garis Jangkauan, Baterai dan Mode
+- **Deskripsi Meta**: Referensi pasar Cina untuk Chey Fulwin / Fengyun A8 di sedan hybrid: 70 km dan 145 km baris tetap terpisah, sistem hybrid C- DM, pengisian dan PHEV khususnya ekspor cek.
+- **H1**: Chey Fulwin A8 (Fengyun A8): China- Market PHEV Referensi Ekspor Sedan
+- **Kata kunci utama**: Chey Fulwin A8 Fengyun A8 ekspor spesifikasi
+- **Istilah pencarian sekunder**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC jangkauan listrik; Fulwin A8 145 km; Chey plush- dalam ekspor hybrid; Fulwin A8 dimensi
+- **URL yang disarankan**: /vehicles/chery-fulwin-a8/
+- **Maksud pencarian**: Memahami Chey Fulwin A8 (Fengyun A8): China- Market PHEV Ekspor Sedan Referensi: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Saran gambar**: Pandangan samping dari Chey Fulwin A8 derajat di sedan hybrid dengan port yang terlihat
+- **Teks ALT**: Profil samping dari Chey Fulwin A8 PHEV sedan dengan yang pengisian flap terlihat
+- **Cakupan skema**: Artikel + Kendaraan
 
 Fulwin A8 (China Fengyun A8) adalah kapal selam Chey 's di sedan hybrid yang dibangun di sistem gabungan Kunpeng C-DM - sebuah kursi lima, depan mengendarai PHIV yang memasang mesin bensin dengan motor listrik dan baterai traksi. PHIVs hadiah dengan hati-hati membaca karena dua' jangkauan baris 'dengan baterai yang berbeda dan output duduk di bawah satu nama model, bersama lebih lama A8L tubuh. Ini adalah ** Referensi pasar ** yang membuat garis-garis terpisah.
 

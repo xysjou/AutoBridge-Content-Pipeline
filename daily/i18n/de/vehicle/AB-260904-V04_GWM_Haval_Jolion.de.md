@@ -1,15 +1,17 @@
 # GWM Haval Jolion: Ein Namensschild, marktspezifische Antriebsstränge, die ein Käufer nicht mischen darf
 
-## SEO Metadaten
-- **SEO Titel**: Haval Jolion Haval Chulian Identity & Market-Specific Specs — Export Guide
-- **Meta Description**: Die eigene Geschichte von GWM bestätigt, dass der chinesische Haval Chulian (哈弗初恋) im Ausland verkauft wird, da der Haval Jolion auf Basismodellebene verkauft wird - aber die chinesischen 1.5T und die HEV-Antriebe in Übersee unterscheiden sich und sind nach Märkten gelistet, nie zusammengeführt.
-- **Vorgeschlagene URL**: /Fahrzeuge/haval-jolion/
-- ** H1 **: GWM Haval Jolion: OEM-bestätigte Namensidentität, mit chinesischen und ausländischen Antriebssträngen getrennt gehalten
-- ** Primäres Keyword**: Haval jolion china specs export
-- **Secondary Search Terms**: Haval Chulian Jolion gleiches Modell, Jolion 1.5T, Jolion HEV in Übersee, GWM Geschichte Jolion Südafrika Saudi, Jolion Dimensionen
-- **Interne Linkvorschläge**: /Guides/vin-nameplate-verification-chinese-vehicles/; /Guides/emission-fuel-compatibility-china-vehicles/; /Vehicles/chery-fulwin- t9/
-- **Bildvorschläge**: Jolion vorderes Dreiviertel; 1.5T vs. HEV-Plakettenvergleich; Heckfracht; GWM-Historienseite Ausweispapier
-- **ALT Vorschläge **: "Haval Jolion Chinese 1.5T Kompakt-SUV mit HEV in Übersee getrennt gehalten"
+## SEO-Metadaten
+- **SEO-Titel**: Haval Jolion/Haval Chulian Identity & Market-Specific Specs — Export Guide
+- **Meta-Beschreibung**: GWM eigene Geschichte bestätigt die chinesische Haval Chulian (哈弗初恋) wird im Ausland als Haval Jolion auf Basismodell-Ebene verkauft - aber chinesische 1.5T und überseeische HEV Antriebsstränge unterscheiden sich und sind nach Markt aufgeführt, nie zusammengeführt.
+- **H1**: GWM Haval Jolion: OEM -Bestätigte Namensidentität, mit chinesischen und ausländischen Antriebssträngen getrennt gehalten
+- **Haupt-Keyword**: Haval jolion china specs export
+- **Sekundäre Suchbegriffe**: Haval Chulian Jolion dasselbe Modell, Jolion 1.5T, Jolion HEV in Übersee, GWM Geschichte Jolion Südafrika Saudi, Jolion Dimensionen
+- **Vorgeschlagene URL**: /vehicles/haval-jolion/
+- **Suchabsicht**: GWM verstehen Haval Jolion: OEM Bestätigte Namensidentität mit Chinese und Overseas Powertrains: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/chery-fulwin-t9/
+- **Bildvorschlag**: Jolion vordere Dreiviertel
+- **ALT-Text**: Haval Jolion Chinese 1.5T Compact SUV mit HEV im Ausland getrennt gehalten
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Identität zuerst: OEM bestätigt den Namen, kein globales Datenblatt
 "Jolion" ist der **überseeische Marktname ** für das chinesische Kompakt-SUV, das zu Hause als **Haval Chulian (哈弗初恋)** verkauft wird. Im Gegensatz zu einem Alias, der aus Looks oder Plattformen abgeleitet wird, wird diese Namensidentität von der GWM-eigenen Unternehmenshistorie bestätigt **, die die Überseeversion des Haval Chulian, den **JOLION **, aufzeichnet, die in ** Südafrika und Saudi-Arabien ** (mit JOLION HEV in Thailand) eingeführt wird. MUSTER_ALIAS_REQUIRES_OEM_PROOF Die **base model identity ist daher gleich_ MUSTER**. Die entscheidende Grenze: OEM-Bestätigung des *Namens * macht **nicht ** jeden Markts *Antriebsstrang und trimmen * identisch. Die chinesischen 1.5T, die australische 1.5T und die ausländischen HEV sind unten ** nach Markt ** aufgeführt, und es wird keine "globale Spezifikation" behauptet.

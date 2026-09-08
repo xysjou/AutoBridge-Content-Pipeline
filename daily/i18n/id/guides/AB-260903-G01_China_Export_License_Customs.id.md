@@ -1,14 +1,16 @@
 # China- Sisi Kendaraan Ekspor Licence dan Bea Cukai Dokumen: Orde Exporter Harus Ikuti
-## SEO Metadata
-- ** Judul SEO **: Cina Mobil Ekspor Hak Asasi & Bea Cukai Petunjuk Dokumen (2026)
-- ** Meta Description **: Cara Chinese- sisi kendaraan ekspor kerja - tahunan mofcom pengajuan lisensi, BEV passenger- mobil lisensi, penggunaan -car 180-day aturan, dan ekspor penuh rantai dokumen sebelum deklarasi bea cukai.
-- ** Sugesti URL **: panduan china-kendaraan-export-licence -custocustom-documents
--   H1 **: China- Side Kendaraan Ekspor Keliatan, Kualifikasi dan Bea Cukai Dokumen Chain
-- ** Primer Keyword **: porselen export lisensi dokumen deklarasi bea cukai
-- ** Akhir Pencarian Second **: Cina menggunakan lisensi ekspor mobil, lisensi ekspor BEV Cina, MOFCOM ekspor kendaraan pengajuan, kendaraan ekspor rantai dokumen, 180 hari digunakan aturan ekspor mobil
-- ** Internal Link Sugestions **: guide mococ-type- coctyll- approvaIer guiders ev-shipppping- un3171-imdg-compliance/; guide oalleccle- extraffor- contrauses - clauses
-- *** Saran Gambar **: lisensi dokumen pabean yang dijalankan oleh pabean yang mengikuti diagram; dokumentasi-chain checklist; catatan waktu tahunan
-- ** Saran ALT **: "Pinjaman kendaraan Cina untuk aliran bea cukai"; "ekspor kendaraan dokumen daftar kartu rantai"
+## Metadata SEO
+- **Judul SEO**: Cina Mobil Ekspor Hak Asasi & Bea Cukai Petunjuk Dokumen (2026)
+- **Deskripsi Meta**: Cara Chinese- sisi kendaraan ekspor kerja - tahunan MOFCOM lisensi, BEV passenger- mobil lisensi, penggunaan -mobil 180-day aturan, dan ekspor penuh rantai dokumen sebelum deklarasi bea cukai.
+- **H1**: Cina - Sisi Kendaraan Ekspor Keliatan, Kualifikasi dan Bea Cukai Dokumen Rantai
+- **Kata kunci utama**: ekspor kendaraan Cina lisensi dokumen deklarasi bea cukai
+- **Istilah pencarian sekunder**: Cina menggunakan lisensi ekspor mobil, BEV lisensi ekspor Cina, MOFCOM expor arsip kendaraan, rantai dokumen ekspor kendaraan, 180 hari digunakan aturan ekspor mobil
+- **URL yang disarankan**: /guides/china-vehicle-export-license-customs-documents/
+- **Maksud pencarian**: Memahami China- Side Kendaraan Ekspor Licence, Qualifikasi dan Bea Cukai Dokumen Chain: apa yang eksportir kendaraan / bagian harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu urutan.
+- **Saran tautan internal**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **Saran gambar**: Dokumen lisensi (Lf) pabean diagram flow
+- **Teks ALT**: Cina ekspor lisensi ke arus bea cukai
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Mengapa Halaman Ini Ada
 Kebanyakan gagal pengiriman pertama gagal di ** China sisi **, bukan tujuan: eksportir tidak memiliki kategori kualifikasi yang tepat, lisensi tidak mencakup produk, atau rantai dokumen tidak konsisten pada deklarasi. Pemandu ini mengatur perintah untuk mengikuti. Ini didasarkan dalam dokumen pemerintah Cina (MOFCOM, perpustakaan kebijakan Dewan Negara, MIIT); di mana aturan direvisi setiap tahun atau waktu-sensitif, ditandai daripada diperlakukan sebagai permanen.
@@ -57,18 +59,18 @@ Mengapa masalah penerimaan produsen kepada pedagang? MIIT Pesan 50 membagi kenda
 ** Dari mana kode HS berasal? ** Konfirmasi kondisi kode dan regulasi yang tepat terhadap jadwal tariff saat ini dan pemberitahuan MOFCOM terbaru - tidak membawa lebih dari kode lama.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf

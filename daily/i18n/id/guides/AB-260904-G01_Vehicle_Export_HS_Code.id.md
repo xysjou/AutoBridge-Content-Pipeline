@@ -1,15 +1,17 @@
 # Mengklasifikasi Kendaraan untuk Ekspor: Memilih 87.01–87.05 dan 8716 Trailers Di bawah 2026 Tariff
 
-## SEO Metadata
-- ** Seo Judul **: Kendaraan Ekspor HS Kode Panduan Klasifikasi - 8701/8702/8703/8704/8705/8716
-- ** Meta Description **: Bagaimana eksportir Cina menetapkan HS yang benar menuju traktor, mobil penumpang, bus, kendaraan barang, kendaraan khusus dan trailer di bawah 2026 Impor dan Expor Tariff sebelum membahas tugas atau sertifikasi.
-- ** Sugested URL **: guide kendaraan -export -hs-code- klasifikasi
--   H1 HS Heading yang mana kendaraanku? Sebuah Paduan Rahasia Sisi Dibangun pada 2026 Tariff
-- ** Primary Keyword **: ekspor kendaraan kode klasifikasi 8702 8703 8704 8705
-- ** Penelusuran Second Terms **: 8701 traktor HS, 8703 kendaraan penumpang HS, 8704 kendaraan barang, 8705 kendaraan tujuan khusus, 8716 trailer HS, 2026 China impor tarif bab 87
-- ** Internal Link Sugestions **: guide china -export -certicate-of -of-native kendaraan dongfeng--tianlong- kl kendaraan dongfeng--tianjin-kr
-- *** Saran Gambar **: HS judul pohon keputusan; mobil vs truk vs traktor vs ikon trailer set; daerah deklarasi bea cukai
-- ** ALT Saran **: "Kendaraan HS menuju pohon keputusan 8701 8702 8703 8704 8705 8716"
+## Metadata SEO
+- **Judul SEO**: Expor Kode HS KB Klasifikasi Panduan - 8701/8702/8703/8704/8705/8716
+- **Deskripsi Meta**: Bagaimana eksportir Cina menetapkan HS yang benar menuju traktor, mobil penumpang, bus, kendaraan barang, kendaraan khusus dan trailer di bawah 2026 Impor dan Expor Tariff sebelum membahas tugas atau sertifikasi.
+- **H1**: Yang HS Heading Apakah Kendaraan saya? Sebuah Paduan Rahasia Sisi Dibangun pada 2026 Tariff
+- **Kata kunci utama**: ekspor kendaraan kode klasifikasi 8702 8703 8704 8705
+- **Istilah pencarian sekunder**: 8701 traktor HS, 8703 kendaraan penumpang HS, 8704 kendaraan barang, 8705 kendaraan tujuan khusus, 8716 trailer HS, 2026 Cina impor ekspor tarif bab 87
+- **URL yang disarankan**: /guides/vehicle-export-hs-code-classification
+- **Maksud pencarian**: Memahami mana HS Heading Apakah Kendaraan saya? Sebuah Panduan Klasifikasi Sisi Dibangun pada Tariff 2026: apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Saran gambar**: HS menuju pohon keputusan
+- **Teks ALT**: Kendaraan HS menuju pohon keputusan 8701 8702 8703 8704 8705 8716
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Mengapa Heading Comes Sebelum Segala sesuatu yang lain
 Tariff, sertifikasi, inspeksi dan dokumentasi semua menggantung kode HS - namun eksportir sering mulai dengan kutipan pengiriman dan mengklasifikasikan kendaraan hampir sebagai setelah pikir. Untuk kendaraan komersial dan khusus-tujuan yang urutan terbalik: kepala traktor, truk kargo, truk khusus-fungsi dan trailer tidak berbagi satu prosedur, dan mengasumsikan "itu semua 87.04" adalah bagaimana pengiriman mendapatkan kembali diklasifikasikan di bea cukai. Aturan kerja pada halaman ini adalah ** HS-first *: pin judul yang tepat dan subheading nasional pertama, kemudian pindah ke tariff dan konformitas. Dasar saat ini adalah * 2026 edisi * Impor dan Expor Tarff dari Republik Rakyat Cina *** (dikompile oleh Komisi Bea Cukai Tariff Dewan Negara) dan *** Pengumuman GACC menerapkan program penyesuaian tariff 2026 *. Empat digit enam digit heading relatif stabil; kepala kepala kapal selam nasional tendigit dan tingkat interim berubah dengan setiap tariff tahunan dan harus dikutip oleh edisi.

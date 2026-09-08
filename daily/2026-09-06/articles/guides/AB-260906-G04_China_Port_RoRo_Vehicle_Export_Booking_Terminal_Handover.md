@@ -6,7 +6,7 @@
 - **Primary Keyword**: china port roro vehicle export booking terminal handover
 - **Secondary Search Terms**: RoRo vehicle export China; roll-on roll-off booking; vehicle terminal handover; RoRo dock receipt; car carrier booking China
 - **Suggested URL**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Search Intent**: 出口车辆如何向滚装船公司/代理订舱、按码头要求送车交接并装船，各环节责任与单据
+- **Search Intent**: Understand Exporting Vehicles by RoRo from Chinese Ports: Booking and Terminal Handover Flow: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
 - **Image Suggestion**: New export vehicles lined up on a Chinese RoRo terminal apron beside a car carrier ramp
 - **ALT Suggestion**: Rows of new vehicles waiting on a RoRo terminal beside an open car-carrier stern ramp

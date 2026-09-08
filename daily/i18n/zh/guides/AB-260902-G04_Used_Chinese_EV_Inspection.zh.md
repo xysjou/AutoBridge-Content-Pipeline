@@ -1,14 +1,17 @@
 # 使用中国EV出口前检查:电池SOH正确完成,加意外,洪水和排泄量计检查
-## 道德操守办公室 元数据
-- ** 标准电子数据**:使用过的中国电子数据检查:电池SOH、洪水和测光仪 检查
-- ** 金属说明**: 如何在出口前检查用过的中国EV——SOH在电池标准下的实际含义,一个Memecuring测试,细胞平衡读数,事故/浮力筛选和气温计-vs-循环交叉检查,没有发明的法律门槛.
-- ** 提议URL**:/指南/已使用-chinese-ev-incountion/
-- ** H1 资源需求。 **:在导出前检查已使用的中国EV:电池数字的平均值和拒绝值
-- ** 基本关键词**:中国EV检查电池SOH核对表
-- ** 二级搜索术语**:EV电池 SOH标准QC/T 743,GB/T 31484循环寿命,使用EV电池电压不平衡,EV洪水损坏检查,气压计回滚电池循环计数.
-- ** 内部链接建议**: 指南/核实-钦那-汽车-出口-供应商/;/ 指南/钦那-耶夫-充电-标准兼容性/;/ 指南/进口-钦那-耶夫-到鲁西亚-埃阿克-奥特克/
-- ** 图像建议**: 诊断工具SOH和细胞电压读取; metered 20–80% charge worksheet; 电池底盘检查点;
-- **ALT建议**:“显示SOH和最大细胞电压差的独立的诊断报告”;“计量电荷测试表”;“EV电池包底盘检查点”。
+## SEO元数据
+- **SEO标题**: 使用中文 EV 检查:电池SOH,洪水和氧气计 检查
+- **Meta描述**: 如何在出口前检查一个用过的EV中国人——SOH实际上是指电池标准,一个计量吸入器测试,细胞平衡读数,事故/浮力检查和气压计-vs-循环交叉检查,没有发明的法律门槛.
+- **H1**: 检查使用过的中文 EV 导出前: 电池数字平均值和拒绝值
+- **核心关键词**: 使用中国EV型检查电池SOH核对表
+- **次级搜索词**: EV  battery  SOH  standard  QC/T  743, GB/T 31484 周期寿命, 使用了EV个电池电压不平衡, EV次洪水破坏检查, 气温计回滚电池周期计数
+- **建议URL**: /guides/used-chinese-ev-inspection/
+- **搜索意图**: 了解检查用过的中文EV 在出口前:电池号码是多少,拒绝什么:车辆/部件出口商在承诺订购之前必须核实、记录和决定什么。
+- **内链建议**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **图片建议**: 诊断工具SOH和细胞电压读取
+- **ALT文本**: 显示SOH和最大细胞电压差异的独立诊断报告
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 范围:检查手册,不是新式辩论
 购买**用**的决定按规定作出;本页涵盖**出口前的技术检查**。 旧EV的经济原理以高压电池为主:一个磨损的包体清洁体比起运输后的更换成本可能价值较低,因此,运行的检查顺序与ICE车不同. 一个中心目标是准确的说出"SOH 80%"实际是什么——工程参考,而不是通用的海关线.
 ## 什麽SOH ——和80%图实际上意味着:
@@ -58,18 +61,18 @@
 ** 为何在紧急救援中洪水破坏特别危险? **
 ** 电磁脉冲仪上如何发现气温计欺诈? ** 将显示的里程与电池循环计数和物理磨损相比较;低气压计与高循环是警告.
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf

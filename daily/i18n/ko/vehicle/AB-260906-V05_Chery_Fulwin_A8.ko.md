@@ -1,16 +1,16 @@
 # Chery Fulwin A8 (Fengyun A8): 중국 시장 PHEV Sedan 수출 참고
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Chery Fulwin A8 PHEV의 수출 Specs: Two Range Lines, 배터리  and  모드
-- ** Meta Description**: Chery Fulwin/Fengyun A8 플러그 인 하이브리드 세단에 대한 중국 시장 참조: 70 km 및 145 km 라인 분리, C-DM 하이브리드 시스템, 충전 및 PHEV-특수 수출 검사를 유지.
-- ** H1 **: Chery Fulwin A8 (Fengyun A8): 중국 시장 PHEV Sedan 수출 참고
-- ** 출원 키워드**: Chery Fulwin A8 Fengyun A8 수출 사양
-- **세컨드 검색 조건**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC 전기 범위; Fulwin A8 145 km; Chery 플러그 접속식 잡종 수출; Fulwin A8 차원
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- ** 수색 **: 面向海外 B 端买家介绍风云 A8 中国市场版本身份, 插混系统 / 纯电续航 / 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** 이미지 제안 **: 충전 포트가 표시된 Chery Fulwin A8 플러그 인 하이브리드 세단의 측면보기
-- ** ALT 제안**: Chery Fulwin A8 PHEV 세단의 측면 프로파일은 충전 플랩이 눈에 띄는
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: 체리 Fulwin A8 PHEV 수출 Specs: Two Range Lines, 배터리  and  모드
+- **메타 설명**: Chery Fulwin/Fengyun A8 플러그 인 하이브리드 세단 용 중국 시장 참조: 70 km 및 145 km 라인은 별도, C- DM 하이브리드 시스템, 충전 및 PHEV - 특정 수출 검사를 보관했습니다.
+- **H1**: Chery Fulwin A8 (Fengyun A8): 중국 시장 PHEV Sedan 수출 참고
+- **주요 키워드**: Chery Fulwin A8 Fengyun A8 수출 specs
+- **보조 검색어**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC 전기 범위; Fulwin A8 145 km; Chery 플러그 접속식 잡종 수출; Fulwin A8 차원
+- **추천 URL**: /vehicles/chery-fulwin-a8/
+- **검색 의도**: Chery Fulwin A8 (Fengyun A8)를 이해하십시오: 중국 시장 PHEV 세단 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **이미지 제안**: 충전 포트가 표시된 Chery Fulwin A8 플러그 인 하이브리드 세단의 측면보기
+- **ALT 텍스트**: Chery Fulwin A8 PHEV 세단의 측면 프로파일은 충전 플랩이 눈에 띄는
+- **스키마 범위**: 제+차량
 
 Fulwin A8 (중국 Fengyun A8)는 Kunpeng C-DM 하이브리드 시스템에 내장 된 Chery의 컴팩트 플러그 인 하이브리드 세단입니다. 다섯 좌석, 앞 바퀴 드라이브 PHEV 전기 모터와 가솔린 엔진을 쌍  and  견인 배터리. PHEVs는 다른 배터리로 두 개의 'range line'으로 주의깊게 독서를 보상합니다.  and  outputs sit under one model name, A8L 몸과 함께. 이것은 ** 중국 시장 참조 ** 그 줄을 분리 유지.
 
@@ -86,16 +86,16 @@ The 145 line is quoted at ≈19 minutes for 30–80% (single-source, 확인); �
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 风云 A8 2025 款 70km 标准型 (1.5L 102Ps, CLTC 纯电 70, 4780 × 1843 × 1487) | 搜狐汽车车型库 | 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_178074 | 70 线动力, 尺寸, 纯电续航  |
-| 2025 款风云 A8 空间尺寸 (4780 × 1843 × 1487, WB2790, 后排 907mm) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸,  轴距  |
+| 风云 A8 2025 款 70km 标准型 (1.5L 102Ps, CLTC 纯电 70, 4780 × 1843 × 1487) | 搜狐汽车车型库 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_178074 | 70 线动力, 尺寸, 纯电续航  |
+| 2025 款风云 A8 空间尺寸 (4780 × 1843 × 1487, WB2790, 后排 907mm) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | ☸ | |
 | 风云 A8 145km 豪华型 (1.5T 156Ps, 1 挡 DHT, 系统 265kW/530N·m) | 车主之家 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://m.16888.com/news/2026/0814/24847862.html | 145 线系统功率의 DHT  |
 | 风云 A8 C-DM (145km, 快充 30% - 80% 约 19 分钟, 热效率 44.5%) | 太平洋汽车百科 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率,  纯电续航  |
 | 奇瑞汽车官方网站 (风云系列년) | Chery 자동차 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.chery.cn/m | ID - OEM 공식; Fulwin (Fengyun) PHEV 선 정체성 |
-| Chery Fulwin A8 2025 트림 및 사양 (무지정 DB) | 차뉴스중국 (주) | 담당자: Mr. wang | T2 | CROSS_체크 | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 - 독립적 인 영어 데이터베이스; 치수 / 토크 크로스 체크 |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — PHEV 변형 및 배터리를 공지합니다. |
+| Chery Fulwin A8 2025 트림 및 사양 (무지정 DB) | 차뉴스중국 (주) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | T2 | CROSS_체크 | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 - 韓国語 타임즈 타임즈 타임즈 카 렌탈 토크 크로스 체크 |
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — PHEV 변형 및 배터리를 공지합니다. 의논문
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (70 线/145 线分列; 电池供应商는 不写를 UNVERIFIED; 出口命名另证)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

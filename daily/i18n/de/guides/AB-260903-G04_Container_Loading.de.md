@@ -1,14 +1,16 @@
 # Loading Cars Into a 40HQ Container: Zählt, die von einem Ladeplan abhängen, und Verzierungen, die auf See halten
-## SEO Metadaten
-- **SEO Titel**: Wie viele Fahrzeuge Passt es in eine 40HQ? Containerlade- und Vertäuungsführer
-- **Meta Description**: Eine praktische 40HQ Fahrzeug-Ladeführung - typische 2-SUV No-Rack-Ladesysteme vs 4-vehicle Doppel-Rack-Systeme, ~ 8 Gurte pro Auto auf Reifen, Ladesequenz und eine Fünf-Punkt-Staukontrolle vor dem Versiegeln.
+## SEO-Metadaten
+- **SEO-Titel**: Wie viele Autos Passt es in eine 40HQ? Containerlade- und Vertäuungsführer
+- **Meta-Beschreibung**: Eine praktische 40HQ Fahrzeug-Ladeführung - typische 2- SUV No-Rack-Ladesysteme vs 4-vehicle Doppel-Rack-Systeme, ~ 8 Gurte pro Auto auf Reifen, Ladesequenz und eine Fünf-Punkt-Staukontrolle vor dem Versiegeln.
+- **H1**: Containerfahrzeug-Beladung und -Verriegelung: Zählungen, Regale, Sequenz und Pre-Seal-Checks
+- **Haupt-Keyword**: Wie viele Autos passen 40hq Containerverladezurr
+- **Sekundäre Suchbegriffe**: 40HQ zwei SUV, Doppelstock-Wagenträgercontainer, Fahrzeugzurrgurte Radabbinden, RoRo-zu-Container-Umbau, Container-Wagenladesequenz
 - **Vorgeschlagene URL**: /guides/container-vehicle-loading-lashing/
-- ** H1 **: Containerfahrzeug-Beladung und -Verriegelung: Zählungen, Regale, Sequenz und Vorsiegelkontrollen
-- ** Primäres Keyword**: Wie viele Autos passen 40hq Containerverladezurr
-- **Secondary Search Terms**: 40HQ zwei SUV, Doppeldeck Auto Regal Container, Fahrzeugzurrgurte Radbindung, RoRo zu Container Umbau, Container Auto Ladesequenz
-- **Interne Linkvorschläge**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
-- **Bildvorschläge**: Verstauungsdiagramm der Seitenansicht; Radzurrpunkte; ausziehbares Doppelgestell; Ladereihenfolge von oben + unten
-- **ALT Vorschläge**: "40HQ zwei SUV Seitenstauung"; "Radreifen zurengende acht Riemen"
+- **Suchabsicht**: Verstehen Container Fahrzeug Beladen und Verschmieren: Zählen, Regale, Sequenz und Pre-Seal Checks: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Bildvorschlag**: Stauplan für die Seitenansicht
+- **ALT-Text**: 40HQ zwei SUV Seitenstauungen
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Die Frage, die sich alle zuerst stellen
 "Wie viele Autos in einem 40HQ?" hat keine universelle Antwort - es ist eine Funktion von Fahrzeugabmessungen, Spiegelfaltung, Regalsystem und dem vom Träger genehmigten Stauplan **. Dieser Leitfaden gibt realistische Bänder und die Methode; es verspricht absichtlich keine feste Zählung. Bestätigen Sie jede Sendung mit einem tatsächlichen gemessenen Ladeplan.
@@ -60,18 +62,18 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 **Was wird vor dem Verschließen der Türen überprüft?** Übereinstimmung von Waren/Liste, Bestellung, Schwerpunkt und Freigabe, vollständige Sicherung und Türrand — mit Fotos.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

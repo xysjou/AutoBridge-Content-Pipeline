@@ -1,15 +1,17 @@
 # 车辆出口前发货PDI和交接:载货规则与AutoBridge推荐的核对清单
 
-## 道德操守办公室 元数据
-- ** 安全监督处名称**:车辆出口PDI和装运前 交接指南——命名为承运人规则
-- ** 金属说明**: 将命名为RoRo的载体政策(Wallenius Wilhelmsen,Höegh Autolins)——燃料,电池,SOC和操作性——从AutoBridge推荐的装运前检查清单中分离出来;没有通用的固定值.
-- ** 建议的URL**:/指南/车辆-出口-装运前移交
-- ** H1 资源需求。 **:准备一辆用于RoRo或集装箱出口的车辆:命名的承运人需要什么和我们的建议
-- ** 基本关键词**:车辆出口装运前检验
-- ** 二级搜索术语**: 瓦莱尼厄斯·威廉森燃料四分卫  Hoegh BEV SOC 50 percent,  Roro 可用车辆, 断开12V个用过的车厢 装运前照片记录
-- ** 内部链接建议**: /指南/车辆-出口-车辆-货单-型号/;/指南/前期装运-un3556-imdg-compliance/;/指南/排放-燃料兼容性-钦那车辆/
-- ** 图像建议**:PDI清单表;RoRo自驾坡道;命名-载体与编辑-建议分图
-- ** ALT建议**:“RoRo承运人要求相对于建议装运前清单的名称”
+## SEO元数据
+- **SEO标题**: 出口PDI辆和装运前车辆 交接指南——命名的承运人规则
+- **Meta描述**: 从AutoBridge推荐的装运前检查清单中分离出命名为RoRo的载体政策(Wallenius Wilhelmsen,Höegh Autolliners)——燃料,电池,SOC和操作性;没有通用的固定值.
+- **H1**: 为RoRo或集装箱出口准备车辆:命名的承运人需要什么,我们的建议是什么
+- **核心关键词**: 车辆出口装运前检查 PDI次移交
+- **次级搜索词**: 瓦莱尼厄斯·威廉森燃料四分卫油箱  Hoegh  BEV   SOC  50 percent,  Roro 可用车辆, 断开12V个用过的车厢 装运前照片记录
+- **建议URL**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **搜索意图**: 理解为RoRo或集装箱出口准备车辆:命名的承运人需要什么,以及我们的建议:在承诺订购之前,车辆/部件出口商必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **图片建议**: PDI份核对表
+- **ALT文本**: 命名为RoRo运输商要求与建议装运前清单
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 不可合并的两层
 目的地的损坏争端几乎总是追溯到一个问题:车辆的状况、燃料/电池状态和可操作性**交接**? 为了清晰地回答这个问题,本指南将两层分开:
@@ -19,7 +21,7 @@
 ## 命名的-承运人政策(CARRIER_Specific-按名称引用承运人)
 | 专题 | 瓦莱尼乌斯·威廉森(英语:Wallenius Wilhelmsen). | 自动起降机 | 性质 |
 |---|---|---|---|
-| ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | 承运人政策;只检查这两条有名的行——不是通用规则 |
+| | | | | | | | | | | | | | | | | | | | | | | | ** ** ** | ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** | ** | | ** | | | | | | | | | | | | | | | | | | | | 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 承运人政策 承运人政策 承运人政策 承运人政策 承运人政策 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 只检查这两条有名的行——不是通用规则 |
 | ** 使用过的ICE电池** | 对于使用过的单位**没有电池的杀关**,在拉线后断开12/24V(WW指令中的例外) | - —— 说吧 | WW 特有; 单源载体规则 |
 | ** BEV 高压SOC** | - —— 说吧 | ** 不超过50%**,同时保留足够的装载/卸载/储存电荷; 赫维: + SOC 制导 | 特定höegh;**不** 全球SOC上限 |
 | ** 可操作性** 报告迟交是因为需要翻译。 | RoRo单元必须安全地开/开(移动/刹车/调车);故障或漏油单元可拒绝 | 相同的自驾要求 | 运算器接收这两条命名线的规则 |
@@ -69,17 +71,17 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Pre-shipment PDI and handover for RoRo/container, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Pre-shipment PDI and handover for RoRo/container, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Pre-shipment PDI and handover for RoRo/container, guia de compras para exportação de veículos
+- ** ** 自动桥出口-买方参考——装运前PDI和RoRo/集装箱的移交,车辆-出口采购指南
+- **法国**: 出口汽车汽车运输公司——预装PDI和交接RoRo/集装箱,汽车出口指南
+- DE**: 国家 自动桥-Referenz für Exportkäufer——装运前PDI和RoRo/集装箱的移交,Leitfaden für Fahrzeugexport-Einkauf
+- **ES**: 出口代理商——装运前PDI和移交RoRo/Contaner,出口代理商
+-  **: 出口控制中心(Referência AutoBridge para exportação) 装运前PDI和移交RoRo/Contaner,出口控制中心
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Pre-shipment PDI and handover for RoRo/container, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Pre-shipment PDI and handover for RoRo/container, 자동차 수출 조달 가이드
+- 科罗拉多州: 自动桥 + + + 预装 PDI 并交接 RoRo/ container, + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Pre-shipment PDI and handover for RoRo/container, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Pre-shipment PDI and handover for RoRo/container, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Pre-shipment PDI and handover for RoRo/container, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
+- ** ** ** เอกสารอ้างอิง 自动桥 —— 装运前PDI和RoRo/集装箱的移交, _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- 身份证**: 运输前PDI和移交RoRo/集装箱、Panduan pengadaan ekspor kendaraan
+- AR**: 国家 – 预装PDI和RoRo/集装箱的交接, – مشتريات تصدير المركبات المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
 ## 源码验证(V)

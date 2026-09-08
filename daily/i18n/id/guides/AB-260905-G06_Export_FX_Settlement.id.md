@@ -1,15 +1,17 @@
 # Ekspor FX Settlement dan Administrasi Trade- FX untuk Exploters Kendaraan
 
-## SEO Metadata
-- ** Judul SEO **: Cina Ekspor FX Settlement: Trade- FX Registrasi, Conversion dan Agregate Check
-- ** Meta Description **: Bagaimana seorang eksportir kendaraan Cina menangani penerimaan ekspor: pendaftaran direktori di bank sebelum transaksi pertama, penyelesaian konversi, dan verifikasi agregasi SAFE dari good-flow dibandingkan funds- flow.
--   H1 **: Ekspor FX Settlement dan Trade- FX Administrasi untuk Pengekspos Kendaraan
-- ** Primary Keyword **: export fx settingmen trades fx registory
-- ** Akhir Pencarian Second **: ekspor pemukiman FX; pertukaran asing; pendaftaran SAFE; barang aliran dana; platform ASOne
-- ** Sugesti URL **: guide exports-fx-setlement -trade-fx-registory
-- ** Cari Intent **: 出口企业如何办理贸易外汇收支企业名录登记: 收汇结汇并满足货物流 - 资金流匹配核查
-- ** Internal Link Sugestions **: guide exports page -methog -t-tlc -risk guiders china-export -BAR -val- refund-process guiders china- expression -ustoms -single -window
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Cina Ekspor FX Penyelesaian: Trade- FX Registrasi, Konversi dan Aggorgate Check
+- **Deskripsi Meta**: Bagaimana eksportir kendaraan Cina menangani penerimaan ekspor: pendaftaran direktori di bank sebelum transaksi pertama, penyelesaian / konversi, dan verifikasi SAFE dari good-flow dibandingkan funds- flow.
+- **H1**: Ekspor FX Penyelesaian  and  Trade- FX Administrasi untuk Exploters Kendaraan
+- **Kata kunci utama**: expor fx setsution trade fx registory
+- **Istilah pencarian sekunder**: ekspor pemukiman FX; pertukaran asing; SAFE registrasi; barang aliran dana; platform ASOne
+- **URL yang disarankan**: /guides/export-fx-settlement-trade-fx-registration/
+- **Maksud pencarian**: Mengerti Ekspor FX Penyelesaian dan Perdagangan - FX Administrasi untuk Pengekspor Kendaraan: apa yang kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan ekspor FX Settlement dan Trade- FX Administrasi untuk Kendaraan Exporters, tidak ada pemeriksaan terencana atau orang-orang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang terkait dengan Ekspor FX Settlement dan Trade- FX Administrasi untuk Kendaraan Exporters, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Satu langkah yang harus terjadi sebelum tanda terima pertama
 Sebelum eksportir Cina dapat menerima pembayaran ekspor pertamanya, itu harus pada prakiraan ** trade - pertukaran direktori perusahaan **. Di bawah kerangka kini langkah persetujuan SAFE sebelumnya dihapus: pendaftaran direktori perusahaan pada bank domestik tersebut setelah memperoleh hak operasi sebelumnya, dan pendaftaran tersebut mendahului penerimaan pembayaran pertama. Sebuah perusahaan yang menandatangani ekspor kendaraan pertama tanpa langkah ini akan menemukan masalah saat uang tiba.
@@ -37,7 +39,6 @@ Apa aku perlu persetujuan SAFE sebelum setiap tanda terima? Tidak - model saat i
 ** Apakah cabang SAFE lokal memisahkan regulator? ** Tidak - satu otoritas; percabangan menerapkan aturan yang sama.
 Apakah ini bisa menutupi aturan negara pembeli? Tidak - hanya sisi China.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Apakah ini bisa menutupi aturan negara pembeli? Tidak - hanya sisi China.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH **: exact Ekspor FX Settlement and Trade- FX Administration for Vehicle Exploters
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Export FX Settlement and Trade-FX Administration for Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export
   - **DE**: export FX settlement, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Apakah ini bisa menutupi aturan negara pembeli? Tidak - hanya sisi China.
   - **ID**: export FX settlement, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export FX settlement, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export FX settlement, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TradeFX #SAFE

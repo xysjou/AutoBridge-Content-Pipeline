@@ -1,15 +1,17 @@
 # Dongfeng の投薬の Youting (2025/2026) — 中国市場 MPV 仕様、ICE/PHEVラインおよび輸出チェック
 
-## ツイート メタデータ
-- ** SEO タイトル**: 青春のユートイング MPV: 中国の市場 ICE と PHEV ライン, 仕様と輸出ガイド
-- **メタ 説明**:中国市場東風フォースイッティング(游艇)MPV:ICEとPHEVラインを別々に保ちます。寸法、7-seatキャビン、PHEVパワートレイン、輸出検証ポイント。
-- H1 ホテル **: Dongfeng の造る Youting (2025/2026) — 中国の市場 MPV 仕様、ICE/PHEVラインおよび輸出チェック
-- **主なキーワード**: Dongfeng Youting 风行游艇 仕様 輸出（东风风行）
-- **二次検索条件**: 予報エクスポート; 游艇 MPV仕様; 中国 7-seat MPV; MPV PHEV; 旅客バンインポート
-- **混雑URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng 中国版规格、配置与出口适配性 (车型参数页)（东风风行）（风行游艇）
-- **内部リンク提案**: /vehicles/forthing-youting/、/guides/ckd-skd-knockdown-kit-export-assembly/、/guides/export-document-package-history/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: フォースイング・ユッティング MPV: チャイニーズ・マーケット ICE & PHEV ライン、仕様、輸出ガイド
+- **メタディスクリプション**: 中国の市場 Dongfeng の造る Youting (游艇) MPV: ICE および PHEV ラインを分けて下さい; 次元、7-seat の小屋、PHEV 力の訓練および輸出確認ポイント。
+- **H1**: Dongfeng の造る Youting (2025/2026) — 中国の市場 MPV のSpecs、ICE/PHEV ラインおよび輸出点検
+- **主要キーワード**: Dongfeng のフォースイング/东风风行 Youting / 风行游艇 仕様 輸出
+- **関連検索語**: 青年輸出;游艇 MPVの指定;中国7-seat MPV;MPV PHEV;乗客のバンの輸入
+- **推奨URL**: /vehicles/forthing-youting/
+- **検索意図**: Dongfeng の鍛造材の青年(2025/2026) - 中国の市場 MPV のSpecs、ICE/PHEV に耐えて下さい ラインとエクスポートチェック:車両/部品輸出業者が確認しなければならないもの、文書を文書化し、注文にコミットする前に決定する必要があります。
+- **内部リンク候補**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **画像候補**: リアルで、文書/車両に焦点を当てたシーンは、東風フォースティンティング(2025/2026)をイラスト化 - 中国の市場MPVの仕様、ICE/PHEVラインとエキスポ、段階的な検査や人は一切主張しません。
+- **ALTテキスト**: クローズ、素材の自然な眺めとドンフ・フォースイング・ユース(2025/2026)に関連する主題 - 中国の市場MPVの仕様、ICE/PHEV 線、中立背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキスト: one MPV nameplate, two energy lines
 **東風フォースイング・ユッティング(游艇)**は、別々に引用しなければならない**ICEとPHEVラインで提供されている中規模の中国市場MPVです。 2900 mmのホイールベースと7-seat、ヒンジドアのキャビンを共有していますが、高さとパワートレインが異なります。 参照の市場は**中国**です;輸出ライン指定は主張しません。
@@ -54,12 +56,11 @@ MPV ICE または PHEV であるかどうかです。 PHEV **電池容量  and  
 **154、900のRMB輸出価格ですか。** いいえ。中国国内の参考文献のみ。
 **シャトル/救急車に変換できますか?** 適格性として、ベースMPVとは別に評価します。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
 | 风行游艇 车型百科 | 太平洋汽车百科 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://m.pcauto.com.cn/baike/1542347/2562358/ の | 尺寸、轴距、座椅、车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 ?is=pc から | PHEV 动力、快充、价格 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc
+| 风行游艇 车型信息 | 汽车之家车家号 |  CN  の | T3 |  CROSS |  CHECKED (クロス) | 以下は 、 ?is=pc から |  PHEV  动力 、 快充 、 价格 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc
 | 风行游艇 参数配置 | 搜狐汽车车型库 | CN の | T2 | CROSS_CHECKED(クロス) | 以下は、 https://db.auto.sohu.com/model_6769/config の | 尺寸、座位、动力 |
 | 风行游艇 新车资讯 | 车主之家 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 | パワーフ 上市信息 | https://m.16888.com/news/2026/0807/24830307.html
 | 東風フォースイング公式サイト | Dongfeng Liuzhouモーター/Forthing 东风风行 (OEM) | CN の | T1 | 検証済み | 以下は、 https://www.forthingmotor.com/ 外部リンク | ブランド/モデルラインアイデンティティとOEMの権限 |
@@ -73,18 +74,18 @@ MPV ICE または PHEV であるかどうかです。 PHEV **電池容量  and  
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**:正確なDongfengの強制的なYouting
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 正確な Dongfeng のフォース ピーチ
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ MPV ICE または PHEV であるかどうかです。 PHEV **電池容量  and  
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

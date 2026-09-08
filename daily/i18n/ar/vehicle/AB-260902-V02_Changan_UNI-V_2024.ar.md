@@ -1,15 +1,17 @@
 # شركة تشانغان للشحنات الجوية من طراز UNI-V 2024 - China-Market Fastback Sedan: Engines, Trims and Export Notes
 
-## SEO Metadata
-- ** عنوان المنظمة**: " تشانغان UNI-V 2024 " Specs: 1.5T/2.0T Fastback Sedan Export Guide
-- ** وصف البيانات**: 2024 Changan UNI-V China reference specs — Blue Whale 1.5T (138 kW)  and  2.0T (171 kW), 7DCT/8AT استخدام وقود شركة WLTC، الأبعاد  and  نقاط تحقق للمستوردين
-- ** URL المقترض**: /مركبات/شانغان - ي - ي - ت
-- ** H1 **: Changan UNI-V 2024 (China): المحركات، الفرق الترامية وما هي المستوردين
-- ** كلمة رئيسية رمزية**: مواصفات تصديرية من طراز UNI-V 2024
-- ** شروط البحث الثانية**: Changan UNI-V 1.5T Blue Whale, UNI-V 2.0T 8AT, UNI-V WLTC fuel consumption, Changan fastback sedan export China
-- ** Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/;/guides/verify-china-export-supplier/; /vehicles/byd-qin-plus-dmi/
-- ** اقتراحات تتعلق بالصور الجانبية**: عرض جانبي لسطح السقف السريع؛ محرك 1.5T؛ 1.5T مقابل 2.0T بطاقة مطياف؛ تفاعلي؛ لوحة كوخية
-- ** الاقتراحات**: "2024 تشانغان يون في مقطع سريع مقطع الجانب " "Changan Blue Whale NE 1.5T engine bay"; "UNI-V 1.5T versus 2.0T specification table"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Changan UNI-V 2024 Specs: 1.5T/2.0T Fastback Sedan Export Guide
+- **وصف Meta**: 2024 Changan  UNI-V  China reference specs — Blue Whale 1.5T (138 kW)  and  2.0T (171 kW), 7DCT/8AT WLTC استخدام الوقود الأبعاد  and  نقاط تحقق للمستوردين
+- **H1**: Changan  UNI-V  2024 (China): المحركات، الفرق الترامية وما هي المستوردين
+- **الكلمة المفتاحية الرئيسية**: Changan  UNI-V  2024 specifications export
+- **مصطلحات بحث ثانوية**: Changan UNI-V 1.5T الحوت الأزرق UNI-V 2.0T 8AT   UNI-V   WLTC  fuel consumption, تصدير سيارة ركاب تشانغان للصين
+- **URL المقترح**: /vehicles/changan-uni-v/
+- **نية البحث**: Understand Changan  UNI-V  2024 (China): Engines, Trim Differences and What Importers should Verify: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
+- **اقتراح الصورة**: جانبي مظهره مظهر سقف سريع
+- **نص ALT**: 2024 Sdan side profile, China spec
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## ما هذه السيارة
 
@@ -38,7 +40,7 @@
 | Wheelbase | 2750 mm (جميع الترام، التي تؤكد رسميا) |
 | تعليق | جبهة ماك فيرسون ذات وصلات متعددة |
 | الهيئة | 5-door 5-seat fastback, احتكار |
-| وزن العنب | ~1415 kg for the 1.5T 尊享型 (single-source: Autohome - confirm on VIN plate) |
+|:1415 كغم من أجل الـ 1.5T : (المصدر الوحيد: (أوهومي) - تأكد من لوحة (في إن)
 
 وتمتد قاعدة العجلات الثابتة والمستقلة التي تبلغ مساحتها 2750 mm من المؤخرات عبر النطاق؛ ولا تختلف سوى تفاصيل من الجسم والطول. لأن وزن الرصيف يعتمد حالياً على مصدر واحد، يعامل 1415 kg كإشاري حتى يطابق لوحة امتثال السيارة.
 
@@ -78,30 +80,30 @@
 هل يمكنني أن أفترض أن سيارة الصين تقابل معيار إنبعاث بلدي؟ لا - يجب التحقق من الامتثال للانبعاثات ودرجة الوقود ودرجة الضمان بالنسبة لسوق المقصد قبل طلب ذلك.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 轿车
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
 ## المصدر: التحقق
 
@@ -112,7 +114,7 @@
 | 2024 1.5T 尊贵型 configuration | أوتومهومي (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | صرخات | 1.5T ناتج، 4720 mm طول، 6.37 |
 | 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | صرخات | 2.0T 171 kW/ 390 N·m, 8AT, fuel use, domestic price |
 | UNI-V spec Page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE OURCE | وزن العنب (مصدر غنائي) |
-| تقرير إطلاق جديد من مبادرة الأمم المتحدة للمراقبة الدولية للمخدرات | لوينغ أوتو (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | صرخات | MacPherson/multi-link suspension, drivetrain |
+| Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? https://auto.ifeng.com/c/8Y79qxCFD3L, 2026-09-02 |? )في//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 * مذكرة مصدّقة (معيار (أوتوبريدج: تمّ فرز الطاقتين الـ1.5T و2750 mm قاعدة عجلات في Changan صفحة خاصة (مسؤول مصنع). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is SINGLE يجب أن تكون متطابقة مع لوحة الإمتثال ♪
 

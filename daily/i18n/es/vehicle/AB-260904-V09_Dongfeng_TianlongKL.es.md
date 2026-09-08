@@ -1,15 +1,17 @@
 # Tractor pesado de Dongfeng Tianlong KL (天龙 KL): Motor, Gearbox, Axle y GCW para la exportación
 
-## SEO Metadatos
-- **SEO Título**: Dongfeng Tianlong KL Tractor Specs " Export Guide (DDi11 465, GCW 40t)
-- **Meta Descripción**: Cabeza tractor Dongfeng Tianlong KL 6x4 de mercado chino — Longqing DDi11 10.8 L diesel 343 kW 2240 N·m, 14-speed (opción AMT), 40 t GCW, además de los controles de potencia y variante que necesitan los exportadores.
-- ** URL agregada**: /vehicles/dongfeng-tianlong-kl/
-- ** H1 **: Cabeza de tractor pesado de Dongfeng Tianlong KL: Powertrain de mercado chino y Especies de Chasis
-- **Primary Keyword**: Dongfeng tianlong kl tractor specs export
-- **Segundary Search Terms**: Tianlong KL 465, DDi11E465, Dongfeng 14-speed caja de cambios, chino 6x4 cabeza de tractor, 40t GCW camión export
-- **Sugerencias de enlace interno**: /guides/vehicle-export-hs-code-classification/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/jmc-shunda/
-- **Sugerencias de imagen**: cabezal de tractor KL 6x4; Motor DDi11; 14-speed cambiador/AMT; interior de cabina; chasis marco y quinta rueda
-- **ALT Sugerencias**: "Dongfeng Tianlong KL 465 cabeza de tractor pesado"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t "
+## Metadatos SEO
+- **Título SEO**: Dongfeng Tianlong KL Tractor Specs " Export Guide (DDi11 465, GCW 40t)
+- **Meta descripción**: Cabeza tractor Dongfeng Tianlong KL 6x4 de mercado chino — Longqing DDi11 10.8 L diesel 343 kW / 2240 N·m, 14-speed (AMT opción), 40 t GCW, además de los controles de potencia y variante que necesitan los exportadores.
+- **H1**: Dongfeng Tianlong KL Tractor Pesado Head: Chinese-Market Powertrain and Chassis Specs
+- **Palabra clave principal**: rogadores de tractores de tianlong kl exportan
+- **Términos de búsqueda secundarios**: Tianlong KL 465, DDi11E465, Dongfeng 14-speed caja de cambios, cabeza de tractor chino 6x4, 40t GCW exportación de camiones
+- **URL sugerida**: /vehicles/dongfeng-tianlong-kl/
+- **Intención de búsqueda**: Comprensión Dongfeng Tianlong KL Tractor pesado Cabeza: Chino-Marca Powertrain y Chassis Specs: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **Sugerencia de imagen**: KL cabeza tractor 6x4
+- **Texto ALT**: Dongfeng Tianlong KL 465 pesado cabeza del tractor
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: un cabezal de tractor es especificado por la cadena de Powertrain y la pesa de tren
 Los compradores de filo pesado no compran listas de equipos — especifican una cadena **engine–gearbox–axle que coincide con un peso combinado bruto**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. El error recurrente en este modelo es confuso la potencia **rada con la figura net power**,  or blending the 465 PS tractor with the 430/520/560 PS  and  Variantes de gas. Esta página documenta el tractor **Chino-mercado DDi11E465-60 (REFERENCIA MARKET: CHINA)**; no se captó ningún folleto primario OEM, por lo que los valores comerciales cruzados deben confirmarse contra el anuncio MIIT.

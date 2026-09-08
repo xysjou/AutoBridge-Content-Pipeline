@@ -1,16 +1,16 @@
 # China E-Port Registrierung: Die Legal-Person-Karte und Operator-Card-Hierarchie erklärt
-## SEO Metadaten
-- **SEO Titel**: China E-Port Registrierung: Legal-Person IC Card vs. Operator Card | AutoBridge
-- **Meta Description**: Wie China Electronic Das Port Onboarding folgt nun automatisch aus der Zollregistrierung nach der Ankündigung 2023 von fünf Abteilungen Nr. 164, die Rollen des Personenausweises  and  Bedienungskarten,  and  die Kartenautorisierungshierarchie.
-- ** H1 **: China E-Port Registrierung: Die Legal-Person-Karte und Operator-Card-Hierarchie erklärt
-- **Hauptschlüsselwort**: chinesischer E-Port-Einschreibungs-IC-Kartenbetreiber juristische Person
-- **Secondary Search Terms**: 中国电子口岸入网; 法人卡; 操作员卡; e-Port IC-Karte; Zollregistrierung e-Port Onboarding; Ausgabe von Chinaport-Karten
+## SEO-Metadaten
+- **SEO-Titel**: China E-Port Registrierung: Juristische Person IC Karte vs. Betreiberkarte | AutoBridge
+- **Meta-Beschreibung**: Wie China Electronic Das Port Onboarding folgt nun automatisch aus der Zollregistrierung gemäß der Ankündigung 2023 von fünf Abteilungen Nr. 164, die Rollen des Personenausweises  and  Bedienungskarten,  and  die Kartenautorisierungshierarchie.
+- **H1**: China E-Port Registrierung: Die Legal-Person-Karte und Operator-Card-Hierarchie erklärt
+- **Haupt-Keyword**: China e-port enrollation ic card betreiber juristische person.
+- **Sekundäre Suchbegriffe**: 中国电子口岸入网; 法人卡; 操作员卡; e-Port IC Karte; Zollregistrierung e-Port Onboarding; Ausgabe von Chinaport-Karten
 - **Vorgeschlagene URL**: /guides/china-e-port-enrollment-ic-card-operator/
-- **Search Intent**: 电子口岸入网如何随海关注册同步完成 法人卡与操作员卡的层级关系与数量 / 授权规则
-- **Interne Linkvorschläge**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/Customs-voluntary-disclosure-audit-tolerance/
-- **Bildvorschlag**: Ein Unternehmensadministrator, der einen elektronischen Port-IC-Kartenleser einfügt, während er die Bedienerberechtigungen auf dem Bildschirm verwaltet
-- **ALT Vorschlag**: IC-Karte in einem Lesegerät neben einem elektronischen Port-Rechtsverwaltungsbildschirm
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **Suchabsicht**: Verstehen Sie die China E-Port-Registrierung: Die Legal-Person-Karte und die Operator-Card-Hierarchie Erklärt: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Bildvorschlag**: Ein Unternehmensadministrator, der einen elektronischen IC-Kartenleser einfügt, während er die Bedienerberechtigungen auf dem Bildschirm verwaltet
+- **ALT-Text**: IC Karte in einem Lesegerät neben einem elektronischen Port-Rechtsverwaltungsbildschirm
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Der China Electronic Port (中国电子口岸) ist das gemeinsame digitale Gateway, über das ein Unternehmen Zoll- und damit verbundene grenzüberschreitende Erklärungen abgibt, und der Zugang zu ihm wird durch IC-Karten mit digitalen Signaturen kontrolliert. Neue Exporteure gehen oft davon aus, dass das Onboarding eine separate, langwierige Anwendung ist; im derzeitigen Rahmen ist es weitgehend mit der Zollregistrierung synchronisiert, und das Kartensystem selbst läuft auf einer strengen zweistufigen Hierarchie zwischen einer juristischen Person und einer Betreiberkarte. Diese Hierarchie falsch zu machen, ist eine häufige Ursache für "wir haben uns registriert, aber niemand kann es erklären". In diesem Leitfaden wird erläutert, wie das Onboarding nun an die Registrierung angehängt wird, was jeder Kartentyp tun kann und was nicht, und die Regeln für Kartennummern und Autorisierung. Lokale Outlet-Listen, Bearbeitungszeitpläne, Gebühren und Fehlerbehandlung werden bewusst der aktuellen offiziellen Anleitung überlassen, da sie variieren und sich ändern.
 

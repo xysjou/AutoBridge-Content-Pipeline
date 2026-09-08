@@ -1,16 +1,16 @@
 # Marchandises exportées retournées en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois
-## OEuvre Métadonnées
-- **Référencement au titre**: Exemption des droits sur les marchandises exportées retournées en Chine (règles d'un an et du CCCB) - AutoBridge
-- **Description détaillée**: Lorsque les marchandises chinoises sont retournées dans un délai d'un an pour des raisons de qualité ou de spécification, elles sont réintroduites en franchise de droits en vertu de l'ordonnance 272 du GACC, de la règle distincte du commerce électronique transfrontalier de six mois et de l'exigence de l'État d'origine.
-- ** H1 **: Produits exportés retournés en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois
-- ** Mot-clé principal**: le règlement d'exemption des droits de douane pour les marchandises retournées à l'exportation Chine
-- ** Termes de recherche secondaire**: 退运货物免税; GACC Ordonnance 272 article 49; retour des marchandises d'exportation un an; retour des marchandises de commerce électronique transfrontalier six mois; réimportation initiale par l'État
-- **URL suggérée**: /guides/export-returned-goods-ty-exemption-réglementation/
-- **Intention de la recherche**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别 -原状认定与已退税补缴
-- **Suggestions de lien interne**: /guides/commerce transfrontalier- b2b-export-9710-9810/, /guides/douanes-divulgation-volontaire-tolérance-audit/, /guides/zone-vat-refonds-export-conjoints-compréhensif/
+## Métadonnées SEO
+- **Titre SEO**: Exemption des droits sur les marchandises exportées retournées en Chine (règles d'un an et CBEC)
+- **Description meta**: Lorsque les marchandises chinoises exportées sont retournées dans l'année pour des raisons de qualité ou de spécification, elles sont réintégrées en franchise de droits en vertu de la norme GACC Ordonnance 272, règle distincte de six mois sur le commerce électronique transfrontalier, et «l'état d'origine».
+- **H1**: Marchandises exportées retournées en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois
+- **Mot-clé principal**: exportations retour marchandises exemption de droits de la Chine
+- **Termes de recherche secondaires**: 退运货物免税; GACC Ordonnance 272 article 49; marchandises exportées retournées un an; marchandises de commerce électronique transfrontière retournées six mois; réimportation originale par l'État
+- **URL suggérée**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Intention de recherche**: Comprendre les marchandises exportées retournées en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
 - **Suggestion d'image**: Une partie du véhicule d ' exportation retournée est inspectée en fonction de sa documentation d ' exportation originale
-- **Suggestion d'ALT**: Fret retourné sous inspection à côté de la déclaration d'exportation originale
-- **Schema Portée**: Article (aucun produit/offre/prix/réexamen/cotisation)
+- **Texte ALT**: Cargo retourné sous inspection à côté de la déclaration d'exportation originale
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Lorsque les marchandises exportées reviennent en Chine — un lot de pièces rejeté, un véhicule qui a échoué à l'acceptation de la destination, un stock de commerce électronique invendu — l'hypothèse par défaut est que la réimportation est un événement imposable. Les règles douanières chinoises prévoient une exemption spécifique, mais elles sont étroitement subordonnées aux raisons pour lesquelles les marchandises sont retournées, à la durée de leur séjour à l'étranger et à leur retour dans leur état d'origine. Les exportateurs qui ne sont pas soumis à une condition quelconque paient des droits d'importation et des taxes sur les produits fabriqués à l'origine en Chine. Ce guide sépare la règle générale d'un an de la voie distincte du commerce électronique transfrontalier de six mois, explique « l'état original » et les drapeaux où un remboursement déjà demandé doit être remboursé.
 

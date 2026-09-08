@@ -1,14 +1,16 @@
 # 중국 측 차량 수출 면허 및 세관 문서: 수출업자는 따르야 합니다
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: 중국 차량 수출 면허 및 세관 문서 가이드 (2026)
-- **마타 기술 **: 중국 측 차량 수출 자격은 어떻게 작동합니까 — 연례 MOFCOM 면허 서류, BEV 여객 차 수출 면허, 사용한 차 180-day 규칙 및 세관 신고의 앞에 가득 차있는 수출 문서 사슬.
-- **Suggested URL**: /guides/china-vehicle-export-license-customs-documents/
-- ** H1 **: 중국 측 차량 수출 면허, 자격 및 세관 문서 사슬
-- ** 출원 키워드 **: 중국 차량 수출 라이센스 세관 신고서
-- **세컨드리뷰 약관**: 중국 자동차 수출 면허, BEV 수출 면허 중국, MOFCOM 차량 수출 서류, 차량 수출 문서 사슬, 180 일 사용되는 차 수출 규칙
-- ** 내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
-- ** 이미지 제안 **: licence→document→customs 교류 도표; 문서 사슬 체크리스트; 연례 서류 처리 시간
-- **ALT 제안**: "중국 차량 수출 면허는 세관 교류에"; "차량 수출 문서 사슬 검사 명부"
+- **메타 설명**: 중국 측 차량 수출 자격은 어떻게 작동합니까 — 연례 MOFCOM 면허 서류, BEV 여객 차 수출 면허, 사용한 차 180-day 규칙 및 세관 신고의 앞에 가득 차있는 수출 문서 사슬.
+- **H1**: 중국 측 차량 수출 면허, 자격 및 세관 문서 사슬
+- **주요 키워드**: 중국 차량 수출 면허 세관 신고서
+- **보조 검색어**: 중국은 차 수출 면허, BEV 수출 면허 중국, MOFCOM 차량 수출 서류, 180 일 사용된 차 수출 규칙을 수출했습니다
+- **추천 URL**: /guides/china-vehicle-export-license-customs-documents/
+- **검색 의도**: 중국 측 차량 수출 면허, 자격 및 세관 문서 사슬을 이해하십시오: 차량/부분 수출업자가 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **이미지 제안**: licence→document→customs 교류 도표
+- **ALT 텍스트**: 중국 차량 수출 통관
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 왜 이 페이지는
 대부분의 첫 번째 배송은 ** 중국 측에 실패 **, 대상이 아닙니다: 수출자는 올바른 자격 범주를 부족, 라이센스는 제품을 포함하지 않습니다, 또는 문서 체인은 선언에 의도. 이 가이드는 순서를 따라 놓습니다. 중국 정부 문서 (MOFCOM, State Council Policy library, MIIT); 규칙이 매년 또는 시간 감지되지 않은 곳에는 영구적으로 처리되지 않고 떨어졌다.
@@ -57,18 +59,18 @@ MIIT 주문 번호 50은 도로 모터 차량 제조업체 및 제품을 ** six 
 ** HS 코드가 제공합니까? ** 현재 관세 일정과 최신 MOFCOM 공지에 대한 정확한 코드 및 규제 조건을 확인합니다. 오래된 코드를 수행하지 마십시오.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,14 +87,14 @@ MIIT 주문 번호 50은 도로 모터 차량 제조업체 및 제품을 ** six 
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 2026 Automobile & Motorcycle Export Licence Filing Notice | 상업부 (MOFCOM) | CN (수출 측) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html 대한 자세한 정보 | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 연간 회계; 성능 증거를 향상 |
-| 중고차 수출 관리 강화에 대한 알림 | State Council policy library (four ministries) | CN (수출 측) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중고차 면허증; 180-day 규칙에서 2026-01-01 규칙 |
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | 상업부 (MOFCOM) | CN (수출 측) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html 대한 자세한 정보 | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 연간 회계; 제품 정보
+| 중고차 수출 관리 강화에 대한 알림 | State Council policy library (four ministries) | CN (수출 측) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중고차 면허증; 180일에서 2026-01-01 규칙의논문
 | BEV 승용차 수출 면허 관리 | 전국 비즈니스 매일 토우티아오 | CN (수출 측) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE(주) | BEV 면허 궤도, 참고 HS |
 | MIIT 주문 번호 50 - 제조업체 및 제품 입학 | 산업 및 IT의 | CN (수출 측) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html 대한 자세한 정보 | 2026-09-03 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Six admission categories; 문서 체인 기반 |
 *Scope 참고: 공식 소스는 여기에서 중국 수출 측을 단지 덮습니다. 정확한 HS 코드, 시스템 운영 세부 사항 및 모든 연간 개정은 현재 관세 및 MOFCOM 공지에 대해 확인해야합니다. 대상 측면 규칙은 범위가 있습니다. ****************************************************************************************************************************************************************************************************************************************************************
 
 | 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理, 2026-01-01 施行; 参考 HS 8703801090) | Commerce (MOFCOM) 공식 발표 | 담당자: Mr. wang | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html 대한 자세한 정보 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 “乘用车”) | MOFCOM 외국인 무역 부서 (wms) | 담당자: Mr. wang | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 “乘用车”) | MOFCOM 외국인 무역 부서 (wms) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |  |
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

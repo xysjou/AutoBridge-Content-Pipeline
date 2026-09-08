@@ -1,14 +1,16 @@
 # SaDIC Maxus Xentu V90 Xe tải của người máy tạo cấu hình, một xe tải chiếu sáng đèn, không phải một mô hình đơn lẻ
-## SAO Siêu dữ liệu
-- **SEO Titry**: SIC Maxus V90 Hướng dẫn cấu hình Van Specs & Xuất
-- **Meta Mô tả**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT,  RWD with optional dual rear wheels,  two wheelbases, 9–15 ghế bằng cách đồng tính.
-- ** URL đã gợi ý**: /vehicles/sic-maxus- v90-specs/
-- ** H1 **: SIC Maxus Xentu V90 (Trung Quốc - Market): Cấu hình xe tải ánh sáng và xuất kiểm tra
-- ** Từ khoá bí mật **: saic ma trận tối đa v90 van diesel
-- **Secondary Search Wordss**: Maxus V90 bánh xe, V90 ZF 8AT, xe buýt nhẹ 9-15 ghế, xe tải rộng bằng dầu diesel, hai bánh sau xe tải
-- **I nội bộ Link gợi ý**: /vehcles/faw-jiefang- j6p-tractor-specs/; /vehles/farizon-xiang- v6e-specs/; /guides/vehle-coc-pproval-dister/
-- **Image gợi ý**: đường vòng dài cơ sở cao cấp của hồ sơ bên; hai bánh xe sau; hành khách chống lại cơ thể hàng hóa; ZF 8AT bộ chọn nội thất của hàng hóa
-- **LT gợi ý**: "SAC Maxus V90 bánh xe dài cơ sở cao mái nhà; " V90 động cơ diesel và các lựa chọn trục sau"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: SAIC Maxus V90 Hướng dẫn cấu hình Van Specs & Xuất
+- **Meta mô tả**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT,   RWD  with optional dual rear wheels,  two wheelbases, 9–15 ghế bằng cách đồng tính.
+- **H1**: SAIC Maxus Xentu V90 (Trung Quốc-Market): Cấu hình xe tải ánh sáng và xuất kiểm tra
+- **Từ khóa chính**: Kính lục phân sac ma trận v90 van dầu diesel
+- **Cụm tìm kiếm phụ**: Maxus V90 wheelbase, V90 ZF 8AT, Xe buýt nhẹ nhất 9-15, Xuất khẩu xe tải rộng bằng dầu diesel, Xe hai bánh sau
+- **URL đề xuất**: /vehicles/saic-maxus-v90-specs/
+- **Ý định tìm kiếm**: Hiểu SAIC Maxus Xentu V90 (Trung Quốc-Market): Cấu hình xe tải ánh sáng và Kiểm tra Xuất khẩu: những gì một người xuất khẩu xe/ phần phải xác minh, tài liệu và quyết định trước khi cam kết một lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Gợi ý hình ảnh**: Name
+- **Văn bản ALT**: SIC Maxus V90 bánh xe dài cơ sở mái nhà cao
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Người mua bối cảnh: Hãy đặt một mã cấu hình, không phải tên
 Xe Xintu V90 là một nền tảng thương mại rộng trên cơ thể được bán như xe buýt hành khách, xe tải bảng điều khiển/cargo và mái vòm trần, qua nhiều bánh xe, độ cao mái nhà, số lượng ghế ngồi và bánh sau đơn. Không có " V90 quang số". Công việc của người xuất khẩu là sửa lại chính xác mã đồng nhất (公告型号) và sau đó khớp với động cơ, hộp số, trục, cơ thể và ghế — bởi vì điểm đến được thực hiện trên cấu hình cụ thể đó. Chloe.
@@ -56,30 +58,30 @@ Có phải là lái xe sau không? Vâng. kỹ thuật trước RWD, có hai bá
 Sao tôi phải trích dẫn một quy tắc? Cơ sở quay xe, mái nhà, ghế, trục và GVW khác nhau qua V90 cấu hình đồng nhất; chỉ có mã số sửa chữa chi tiết.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

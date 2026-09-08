@@ -1,14 +1,17 @@
 # Reserva de un vehículo electrificado para la exportación de océano: el papeleo peligroso-bienes un transportista realmente cheques
-## SEO Metadatos
-- **SEO Título**: EV Export Booking Documents Under IMDG 42-24: UN3556 Paperwork " Carrier Checks
-- **Meta Descripción**: Cómo se clasifican los vehículos de litio-batería para fletes oceánicos en virtud de la actual Enmienda IMDG 42-24 (UN3556/3557/3558; la transición heredada UN3171 finalizó), las SP961/SP962 rutas, los papeles UN38.3 y SDS y las condiciones de reserva específicas para el transportista.
-- ** URL agregada**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 **: Vehículos Electrificados de Transporte por Mar: Clasificación actual de los bienes peligrosos, el Conjunto de documentos de reserva y líneas rojas
-- **Primary Keyword**: transporte marítimo eléctrico del vehículo un3556 imdg 42-24 documentos
-- **Secondary Search Terms**: UN3556 vehículo de batería de iones de litio, UN3557 vehículos de metal de litio, UN3558 vehículos de ion de sodio, UN3171 de herencia, SP961 SP962 vehículo, etiqueta 9 9A, UN38.3 resumen de la prueba, SDS de transporte eléctrico, EV SOC portador del requisito
-- **Sugerencias de Enlace Interno**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-vehicle-export-license-customs-documents/; /guides/container-vehicle-loading-lashing/; /guides/vehicle-pre-shipment-inspection-psi/; /vehicles/byd-dolphin/
-- **Sugerencias de imagen**: diagrama de etiqueta número/clase de la ONU; flujo de decisión SP961-vs-SP962; cadena de documentos de reserva; Cádula 9 etiqueta 9A cartel
-- **ALT Sugerencias**: " UN3556 IMDG 42-24 Clase 9 transporte eléctrico de vehículos"; "EV cadena de documentos de reserva"
+## Metadatos SEO
+- **Título SEO**: EV Exportar documentos de reserva menos de IMDG 42-24: UN3556 documentación " Carrier Checks
+- **Meta descripción**: Cómo los vehículos de litio-batería se clasifican para el flete oceánico en virtud de la actual Enmienda IMDG 42-24 (UN3556/3557/3558; la transición heredada UN3171 finalizó), las rutas SP961/SP962, los papeles UN38.3 y SDS, y las condiciones de reserva específicas para el transportista.
+- **H1**: Vehículos Electrificados de Envío por mar: Clasificación actual de los bienes peligrosos, el Conjunto de documentos de reserva y líneas rojas
+- **Palabra clave principal**: vehículos eléctricos oceánicos un3556 imdg 42-24 documentos
+- **Términos de búsqueda secundarios**: UN3556 vehículo de batería de iones de litio, UN3557 vehículos de metal de litio, UN3558 vehículos de ion de sodio, UN3171 de herencia, SP961 SP962 vehículo, etiqueta 9 9A, UN38.3 sumario de prueba, SDS transporte eléctrico de automóviles, EV SOC portador de requisitos
+- **URL sugerida**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Intención de búsqueda**: Comprenda los vehículos electrificados de envío por mar: Clasificación actual de los productos peligrosos, el conjunto de documentos de reserva y líneas rojas: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **Sugerencia de imagen**: UN número/clase de etiqueta
+- **Texto ALT**: UN3556 IMDG 42-24 Clase 9 transporte eléctrico vehículo
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+
 ## Comience aquí: un VE entera es mercancías peligrosas, y la entrada cambió en 42-24
 Un vehículo electrificado intacto construido en fábrica sigue siendo peligroso para el transporte marítimo. Según **IMDG Code Amendment 42-24 (2024 Edition), obligatorio a partir de 1 enero 2026 **, los vehículos a batería se dividen en entradas dedicadas en lugar de caer bajo un número de manta:
 - ** UN3556 — Vehículo, de litio-ion-battery-powered** (el caso de un BEV o un PHEV/EREV cuya batería de tracción es de iones de litio);

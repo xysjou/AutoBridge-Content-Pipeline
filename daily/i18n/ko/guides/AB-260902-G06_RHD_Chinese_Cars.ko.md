@@ -1,15 +1,17 @@
 # 공장 직행 드라이브 (RHD) 중국 자동차: 브랜드 가용성 및 검증
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 어떤 중국 자동차가 오른쪽 드라이브에 오나요? 관련 기사
-- **마타 기술 **: 영국, 호주, 태국, 말레이시아, 남아프리카 및 그 이상의 RHD 중국 차량에 소스 공장 RHD를 설치하는 방법, VIN 당 확인하는 방법, 왜 LHD-to-RHD 변환 위험.
-- **Suggested URL**: /guides/right-hand-drive-chinese-cars/
-- ** H1 **: 중국 차 구매: 왜 공장 RHD 빌드해야 하는가?
-- ** 출원 키워드**: 중국 자동차 오른쪽 손 드라이브 RHD 모델 수출
-- **세컨드리뷰 이용**: 공장 RHD 중국 EV, BYD 직행 손 드라이브, MG RHD 모델, GWM Haval RHD, RHD 태국 중국 자동차, LHD에서 RHD 변환 위험
-- ** 내부 링크 제안**: /guides/chinese-ev-charging-standard-compatibility/; /guides/verify-china-car-export-supplier/; /vehicles/hongqi-e- hs9-2024/
-- ** 이미지 제안 **: RHD 조종사 (맞은에 감) 대 LHD; 세계 RHD 시장 지도; 공장 RHD 생산 라인; 변환risk 경고
-- **ALT 제안**: "공장 직행 드라이브 중국 자동차 조종"; "Global right-hand-drive 시장지도"; "LHD로 RHD 변환 구성 요소 경고"
+## SEO 메타데이터
+- **SEO 제목**: 어떤 중국 자동차가 오른쪽 드라이브에 와서 (RHD)? 관련 기사
+- **메타 설명**: UK, 호주, 태국, 말레이시아, 남아프리카 및 그 이상의 RHD 중국 차량을 공급하는 방법 - 브랜드 RHD, VIN 당 확인하는 방법, 왜 LHD - 투 - RHD 변환 위험합니다.
+- **H1**: 중국 자동차 구입: 왜 공장 RHD 빌드해야
+- **주요 키워드**: 중국 자동차 오른쪽 손 드라이브 RHD 모델 수출
+- **보조 검색어**: 공장 RHD 중국 EV의 BYD 적당한 손 드라이브, MG RHD 모형, GWM Haval RHD, RHD 태국 중국 자동차, LHD에서 RHD 변환 위험
+- **추천 URL**: /guides/right-hand-drive-chinese-cars/
+- **검색 의도**: 오른쪽 드라이브 중국 자동차 구입에 대한 이해: 왜 공장 RHD 빌드가되어야합니다: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **이미지 제안**: RHD 조종실 (맞추기) 대 LHD
+- **ALT 텍스트**: 공장 직각 드라이브 중국 자동차 cockpit
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## RHD 비디오 제조 문제, 수리 상점 문제 아닙니다
 
@@ -27,7 +29,7 @@
 | Geely Zeekr, 그리스 | Geely EX5는 개발에서 평행한 LHD/RHD 선으로 설계한 것으로 보고했습니다; 몇몇 Geely/Zeekr 모형 RHD | 영국, 아일랜드, 호주, 뉴질랜드, 말레이시아, 홍콩 | 산업 소스 — 검증 |
 | ღ♥ღ | RHD 새로운 에너지는 2026를 통해서 밀어냅니다; Hong Kong experience centre reported from July 2026 | 영국, 호주, 뉴질랜드, 싱가포르, 태국, 말레이시아, 인도네시아 | — 검증 |
 | Dongfeng 포밍 | ** 공식 확인**: 태국에 입력 2026 RHD NEV SUV "FRIDAY"와 V9 RHD 시장을 위해 내장 | 담당자: Mr. wang | **공식 (Dongfeng)***************************************************************************************************************************************************************************************************************************************************************** |
-| 장안 Qiyuan (NEVO로) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | 담당자: Mr. wang | 미디어 - 검증 |
+| 장안 Qiyuan (NEVO로) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr.
 
 모델 ** 이름은 중국과 수출 시장과 다를 수 있음** (예: Yuan Plus → Atto 3); 중국 시장 이름에 의해 아닌 platform/VIN에 의해 일치합니다. 글로벌 차량 판매의 35%은 업계 추정당 RHD 시장**에 있습니다. - 상황에 따라 수치가 아닌 특정 모델에 대한 수요 예측이 아닙니다.
 
@@ -63,18 +65,18 @@ LHD 중국 자동차 변환의 법적성과 수출의 가능성은 **이 연구�
 **VIN에 의해 확인?** 마케팅 자료는 "RHD available"라고 말할 수 있습니다. 할당 된 주식은 LHD입니다. VIN 빌드 시트는 신뢰할 수있는 증거입니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf
@@ -92,9 +94,9 @@ LHD 중국 자동차 변환의 법적성과 수출의 가능성은 **이 연구�
 
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| RHD 중국 자동차 시장 가이드 | StarVia Auto (수출 서비스) | RHD 시장 | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_체크 | MG/GWM RHD 라인업 및 시장 (산업; 확인) |
-| 어떤 중국 차량 소송 RHD 구매자 | StarVia Auto (수출 서비스) | RHD 시장 | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_체크 | BYD Atto 3/Dolphin/Seal RHD (산업; 확인) |
-| RHD-ready Geely/Zeekr 모델 | FOBEV (수출 서비스) | RHD 시장 | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_체크 | Geely EX5 평행한 LHD/RHD, Zeekr RHD (산업; 확인) |
+중국 자동차 시장 가이드 | 스타비아 자동차(수출 서비스) | RHD 시장 | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-market-guide | 2026-09-02 | CROSS_체크 | MG/GWM RHD 라인업 및 시장(산업; 의논하기
+중국 차량 관련 문의처 _ 스타비디아 자동차(수출 서비스) | RHD 시장 | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_체크 | BYD Atto 3/Dolphin/Seal RHD (산업; 의논하기
+| RHD-ready Geely/Zeekr 모델 | FOBEV (수출 서비스) | RHD 시장 | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_체크 | Geely EX5 평행한 LHD/RHD, Zeekr RHD (산업; 의논하기
 | Dongfeng Forthing는 태국을 들어갑니다 (공식) | Dongfeng 모터 그룹 (공식) | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | March-2026 Thailand entry, RHD FRIDAY V9 (수입) |
 | 장안 NEVO Q05 방콕 쇼 데뷔 | Autohome 车家号 (미디어) | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 대체하십시오 | 2026-09-02 | CROSS_체크 | NEVO Q05, 미국 타이어 RHD 전망 (미디어; 확인) |
 | Hongqi RHD 전략 RHD 시장 상황 | smzdm (집합); AutoReport (산업) | RHD 시장 | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | Hongqi RHD 푸시; ~ RHD 시장에서 35% 글로벌 판매 |

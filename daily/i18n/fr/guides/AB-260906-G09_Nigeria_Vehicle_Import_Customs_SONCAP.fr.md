@@ -1,16 +1,16 @@
 # Importation de véhicules et de marchandises automobiles au Nigéria: NCS Customs et SONCAP
-## OEuvre Métadonnées
-- **Référencement au titre**: Importation de véhicules au Nigéria: Guide de conformité du NCS Customs et de SONCAP
-- **Description détaillée**: Guide national d'importation de véhicules et de marchandises réglementées au Nigéria: la route de conformité de la SONCAP, le lien M/PAAR avec les douanes nigérianes et ce qui doit être vérifié avant l'expédition.
-- ** H1 **: Importation de véhicules et de marchandises automobiles au Nigéria: NCS Customs et SONCAP
-- **Mot-clé principal**: Douanes d'importation de véhicules du Nigéria SONCAP
-- **Conditions de recherche secondaires**: certificat SONCAP Nigeria; Nigeria Importation de véhicules douaniers; Formulaire M PAAR; Certificat SON de conformité; produits réglementés Importation de Nigeria
-- **Suggested URL**: /guides/nigeria-vehicle-import-customs-soncap/
-- **Intention de la recherche**: 向尼日利亚出口车辆需经过哪些海关清关计税 -SONCAP 强制合格评定及车龄 口岸要求
-- **Internal Link Suggestions**: /guides/kenya-vehicle-import-kra-kebs-pvoc/, /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Suggestion d'image**: documentation d'importation de véhicules Lagos avec certificat SONCAP et formulaire douanier
-- **ALT Suggestion**: Certificat SONCAP et documents douaniers nigérians sur un bureau près d'un port
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: Importation de véhicules au Nigéria: NCS Douanes et SONCAP Guide de conformité
+- **Description meta**: Un guide national pour l'importation de véhicules et de marchandises réglementées au Nigéria: la route de conformité SONCAP, le formulaire M/ PAAR et les douanes nigérianes, et ce qui doit être vérifié avant l'expédition.
+- **H1**: Importation de véhicules et de marchandises automobiles au Nigéria: NCS Douanes et SONCAP
+- **Mot-clé principal**: Nigeria véhicules importation douane SONCAP
+- **Termes de recherche secondaires**: SONCAP certificat Nigeria; Nigeria Importation de véhicules douaniers; Formulaire M PAAR; SON Certificat de conformité; produits réglementés Importation de Nigéria
+- **URL suggérée**: /guides/nigeria-vehicle-import-customs-soncap/
+- **Intention de recherche**: Comprendre l'importation de véhicules et de marchandises automobiles au Nigéria: NCS Douanes et SONCAP: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/kenya-vehicle-import-kra-kebs-pvoc/, /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Suggestion d'image**: Documents d'importation de véhicules Lagos avec certificat SONCAP et formulaire douanier
+- **Texte ALT**: SONCAP certificat et documents douaniers nigérians sur un bureau près d'un port
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Le Nigéria associe le dédouanement avec un régime de conformité obligatoire avant expédition, et pour un exportateur chinois, le volet conformité est largement terminé **avant** les marchandises quittent la Chine. Le **Nigérian Customs Service (NCS)** s'occupe de l'entrée, de l'évaluation et des droits; l'Organisation des normes du Nigéria (SON)** gère le SONCAP pour les produits réglementés. Il s'agit d'un guide spécifique au Nigéria; il sépare soigneusement ce que le SONCAP couvre des questions auxquelles seul le SNC peut répondre.**
 

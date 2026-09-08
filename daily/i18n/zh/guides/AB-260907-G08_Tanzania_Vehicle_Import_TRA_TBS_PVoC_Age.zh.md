@@ -1,16 +1,16 @@
 # 向坦桑尼亚进口车辆: TRA海关轨道和TBS PVoC/CoC轨道
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 坦桑尼亚车辆进口:TRA海关和TBS PVoC/CoC解释 QQ汽车舱
-- ** 金属说明**: 向坦桑尼亚进口的车辆如何在《货物、弹药、弹药、弹药、弹药、弹药和弹药管制条例》规定的贸易法结关和TBS装运前的PVoC符合规定(具有专用的废旧机动车辆类别)之间划分,以及必须核实哪些车辆的年龄和值班。
-- ** H1 资源需求。 ** 向坦桑尼亚进口车辆: TRA海关轨道和TBS PVoC/CoC轨道
-- ** 基本关键词**:坦扎尼亚车辆进口车龄
-- ** 二级搜索术语**:TBS PVoC型机动车使用;坦桑尼亚可可公司装运前;TRA TANCIS进口;EACMA 2004型车辆进口;坦桑尼亚使用汽车年限限制;CCIC PVoC中国
-- ** 建议的URL**: 指南/坦桑尼亚车辆进口/准/
-- ** 搜索意向**:向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责 PVoC/CoC 机制与二手车专门类别、以及车龄/税率需向谁核验
-- ** 内部链接建议**: /指南/非洲使用的车辆年限/、/指南/海运-货物-保险-ic-incocterms/、/指南/车辆-装运前检查-pdi/
-- ** 图像建议**: 在出口场检查一废旧车辆,同时编写符合规定文件
-- ** ALT(美国) 建议**:在剪贴板上附有合格证书的装运前检验车辆
-- ** 范围**:第(无产品/产出/价格/审查/定时)条
+## SEO元数据
+- **SEO标题**: 坦桑尼亚车辆进口:TRA辆海关和TBS辆PVoC/CoC
+- **Meta描述**: 向坦桑尼亚进口的车辆如何在EACCMA/TANCIS至TBS年装运前的聚氯乙烯合格度(具有专用的废旧机动车辆类别)之间划分TRA个结关,以及必须核实哪些车辆的年限和值班。
+- **H1**: 向坦桑尼亚进口车辆: TRA 海关轨道和 TBS PVoC/CoC轨道
+- **核心关键词**: 坦扎尼亚车辆进口车龄
+- **次级搜索词**: TBS PVoC 使用机动车;坦桑尼亚CoC 预装;TRA TANCIS 进口;EACCMA 2004 车辆进口;坦桑尼亚使用汽车年限限制;CCIC PVoC 中国
+- **建议URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **搜索意图**: 了解向坦桑尼亚进口车辆的情况: TRA 海关轨道和 TBS PVoC/CoC 追踪:车辆/部件出口商在承诺下达命令之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+- **图片建议**: 在出口场检查一废旧车辆,同时编写符合规定文件
+- **ALT文本**: 装运前检查的车辆,以及剪贴板上的合格证书
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 坦桑尼亚是一个单一国家市场,有意采用双轨进口制度,而将它视为单一工艺的车辆出口商则在港口失去时间。 一条轨道属于** 坦桑尼亚税务局**——根据《东非共同体海关管理法》申报、关税评估和结关。 另一批属于**坦桑尼亚标准局**——装运前合格评估,该评估决定是否允许受管制的运输,包括废旧机动车辆。 本指南针对坦桑尼亚(并非整个东非的声明),以目前的TBS和TRA主页为基础。 它以权威方式解释了这两个方面,如果审查时无法检索废车年龄和车辆值班率的正式原始文件,它就将这些文件作为核查而不是发明数字的物品。
 
@@ -61,22 +61,22 @@ TBS处理装运前符合规定(PVoC/CoC);TRA处理报关、关税评估和结关
 
 对 根据TBS PVoC,受管制的托运货物——旧机动车是专用类别——在装运前必须持有CoC;抵达时没有一种拒绝或处罚手段,目的地检查路线成本较高。
 
-**Who performs the pre-shipment inspection in China?**
+** 谁是中国进行装运前检查的? 页:1
 
 TBS授权的PVoC供应商包括CCIC(有中国名单),Intertek,SGS和TüV Rheinland;使用相关区域的合同供应商.
 
-**What is the maximum age of a used car Tanzania accepts?**
+** 坦桑尼亚接受的废旧汽车最高年龄是多少? 页:1
 
 本指南没有说明数字:专用废车辆程序文件经审查后无法检索——在装运前确认目前的年龄限制及其与TBS/TRA的计算依据。
 
-**How much import tax will a specific vehicle pay?**
+** 特定车辆将缴纳多少进口税? 页:1
 
 这里没有给出固定费率;对准确的HS代码进行分类,并使用当前TRA关税线/机动车辆计算器来计算实际车辆.
 
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| TBS 进出口管制——聚氯乙烯方案,CoC,D1型废旧机动车辆类别,定名伙伴 | 坦桑尼亚标准局(TBS) | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据, CoC 装船前, 二手车单列类别, 检验机构, D1 风景名胜区 |
+TBS , CoC, D1 , |(TBS) , TZ , T1 ,  http , VEIFIED https://www.tbs.go.tz/services/imports-and-export-control |, PV PV, 二手车单列类别, 二手车单列类别, 检验机构, D1 |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |
 | 贸易法进口程序——EACMA 2004, 持证的非洲金融共同体、坦奇、 ≥ 7-day 住宿、 许可证机构之间的TBS | 坦桑尼亚税务局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACMA, TANCIS, TBS 许可 数据 |
 | TRA 机动车辆登记(登记/所有权变更方面) | 坦桑尼亚税务局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 维基月球 |
 | 货代 聚氯乙烯/e-COC 介绍(仅线索、不作事实依据) | 顺企网 维基月球 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC 线索 导弹 |

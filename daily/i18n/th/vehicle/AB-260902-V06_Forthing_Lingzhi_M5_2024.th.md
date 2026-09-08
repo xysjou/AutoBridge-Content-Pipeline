@@ -1,15 +1,17 @@
 # สําหรับ สิ่ง ที่ ลิง ซิ มี M5 2024 — ฟอน ฟอน เฟ รด การค้า MPV: ผังนั่ง, แผ่นพาวเวอร์เทรน และเช็คส่งออก
 
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: ไม่ว่าอะไรที่หลิงซีฮี M5 2024 แวน สเปค คู่มือการเก็บค่าข้อมูล & CNG/ Pertrol
-- ""คําอธิบาย" 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat ผังผังผังอาคาร (พ.ศ. สองล้อล้อ  1.5T petrol 6MT  and  1.6L CNG 5MT (พ.ศ. ขนาด  and  มาตราฐานการพาณิชย์
-- ~ที่อยู่ URL ที่ถูกย่อ: ไม่ว่าอะไร-lingshi- m5/ ~
-- ** H1 ~: สําหรับทุกอย่าง Lingzi M5 M5L 2024 (จีน: Unitural Tap A Unitural Van Spec for Francers
-- ~คําสําคัญ~ สําหรับสิ่งที่ Lingzi M5 รถตู้กําหนดการส่งออก
-- ~การค้นหาตามวาระที่: ~ ดงฟง หลิงซี M5L 9-seat  Forthing M5 CNG 1.6, พาณิชย์จีน ส่งออกเป็นรถตู้ MPV Lingzhi M5 ล้อล้อ รถตู้ผู้โดยสารดงฟัน
-- ~ ลิงก์ภายใน vehinecs/tamchi- m8/; guides/commercial-raft-raft-scraped-china/;///dogide-frip-ching-chinse-cars/
-- ** คําแนะนําการนําเข้า **: โพรไฟล์ M5L ร่างยาว 9-seat ผังภายใน; 1.5T vs 1.6 CNG; สไลด์ประตูด้านข้าง
-- ~~~~~~~~~ คําแนะนํา: "2024 Forthing Lingzhi M5L nine-seat commercial van, สเปกของจีน; "Lingzhi M5 5/7/9 seat layout options"; "Lingzi M5 1.5T เครื่องต่อเรือชน 1.6 CNG"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: ฟอร์ทูฟ ลิงซี M5 2024 แวน สเปคส์ ซีริง & CNG คู่มือส่งออกเป็น Pettrol
+- **คำอธิบาย Meta**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat ผังผังผังอาคาร (พ.ศ. สองล้อล้อ  1.5T petrol 6MT  and  1.6L  CNG  5MT, ขนาด  and  มาตราฐานการพาณิชย์
+- **H1**: Forthing Lingzhi M5 / M5L 2024 (China): แผนที่ ของ ผู้ ซื้อ สินค้า
+- **คีย์เวิร์ดหลัก**: สําหรับสิ่งที่ Lingzi M5 รถตู้กําหนดการส่งออก
+- **คำค้นหารอง**: ดงฟง หลิงซี M5L 9-seat  Forthing M5  CNG  1.6, พาณิชย์จีน MPV รถตู้ส่งออก Lingzhi M5 ล้อล้อ รถตู้ผู้โดยสารดงฟัน
+- **URL ที่แนะนำ**: /vehicles/forthing-lingzhi-m5/
+- **เจตนาการค้นหา**: เข้าใจสิ่งที่ Lingzi M5 / M5L 2024 (จีน): แผนที่ของบริษัทโฆษณา สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
+- **คำแนะนำรูปภาพ**: โพรไฟล์ด้านที่ยาว M5L ศพ
+- **ข้อความ ALT**: 2024 Forthing Lingzhi M5L nine-seat commercial van, สเปกตรัมของจีน
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## บทบาทของพาหนะ
 
@@ -75,43 +77,43 @@ AutoBridge อ้างถึงคําร้องขอ แทนที่�
 มันขายในไดรฟ์ขวามือ สําหรับสินค้าอื่น ๆ ในบางตลาด RHD แต่ RHD Lingshi M5 ต้องได้รับการยืนยันสําหรับปลายทางที่แน่นอนกว่าคาด
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 MPV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| พารามิเตอร์อย่างเป็นทางการของ Lingzhi | ดงเฟน ฟอร์ไรท์ (พ.ศ. | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | เปิดใช้งาน | เบส 2800/3000 ที่นั่ง 5/7/9, โครงร่างชาซิส |
-| M5L 1.5T 9-seat model | ดองแมดติ (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | ROOS_ CHCKED | 1.5T 140 kW 300 N·m, 3000 mm WB, ล็อก 1700 kg. |
-| ตารางพารามิเตอร์ Lingzhi | PCauto (太平洋汽车). | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | ROOS_ CHCKED | ขนาด, เครื่องกําเนิดไฟฟ้าของ CNG, WLTC 8.4 ราคาการรับประกัน |
+| พ พ พ ร ร ร ร ร ร ร า ga las en loadia data languy อ ง Lingzhi | ด ด ด ด ง ง ง ง ง ง ง ง ง ง ง ง ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ น น ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ( | | ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ | ศ | | ศ ศ ศ ศ ศ ศ ศ ศ ศ | | | |  | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | เปิดใช้งาน | เบส 2800/3000 ที่นั่ง 5/7/9, โครงร่างชาซิส |
+| M5L 1.5T 9-seat model | ดองแมดติ (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | ROOS_ CHCKED | 1.5T 140 kW 300 N·m, 3000 mm WB, ล็อก 1700 kg. ○
+| ต ต ต ต ต ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ์ ์ ์ ์ ์ ์ ์ | | | | | | | | | | | | | | | | | | | | | | | | | | | | ) ) ) | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | ROOS_ CHCKED | ขนาด, เครื่องกําเนิดไฟฟ้าของ CNG, WLTC 8.4 ราคาการรับประกัน |
 | Lingzhi M5 บทความ | ยีเช (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | ROOS_ CHCKED | ขนาด, ผังล้อ, 7/9-seat แบบ |
 
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
 *ข้อความการหาร (มาตรฐานอัตโนมัติของ OCLBridge): มิติ/ล้อล้อเบส/สวามีถูกปรับให้เป็นไปตามรูปแบบพารามิเตอร์อย่างเป็นทางการของ ForIFE หน้าพารามิเตอร์ของสิ่ง; 1.5T/CNG เครื่องยนต์ คือ CROSS_CHCKEKE (SEP); น้ําหนักตามควบคุมคือ Single (S) ของหวาน Cargo ไม่ได้อยู่ในฐานข้อเท็จจริง และเหลือสําหรับแผ่นอย่างเป็นทางการ; ชนิดของข้อมูล RHD *

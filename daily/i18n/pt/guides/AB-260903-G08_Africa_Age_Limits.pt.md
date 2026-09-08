@@ -1,14 +1,17 @@
 # Limites de idade da importação de carros usados em África: uma matriz de verificação país-a-país
-## SEO Meta- dados
-- ** Título SEO**: África Limites de idade de importação de carros usados por país: Quênia e Nigéria Verificado
-- ** Descrição do Meta**: Os limites de idade dos automóveis usados africanos, por país, e as portas de controlo — Quénia (8 anos desde o primeiro registo) e Nigéria (15 da indústria transformadora) agora ancorados em fontes primárias, outros mercados marcados para verificação oficial.
-- ** URL sugerido**: /guides/africa-used-car-import-age-limits/
-- ** H1 **: Limites da idade do carro usado em mercados africanos: uma matriz construída para ser verificada, não memorizada
-- **Primary Keyword**: África usado limite de idade de importação de carros por matriz de país
-- ** Termos de pesquisa secundários**: Kenya usado limite de idade do carro 8 anos primeiro registro, Nigéria importação de carros 15 anos de fabricação, Etiópia usado proibição de carro, Gana importação OBD, Moçambique idade do veículo, Sudão limite de idade do carro, Costa do Marfim CoC, KEBS DKS 1515
-- **As sugestões de ligação interna**: /guias/veículo-pré-navio-inspecção-psi/; /guias/veículo-coc-tipo-aprovação-dossier/; /guias/china-veículo-exportação-licença-documentos-costumes/
-- **Image Suggestions**: tabela matriz país; fabricação-ano vs primeira matrícula-ano; diagrama oficial de rota de verificação
-- ** ALT Sugestões**: "African usou a matriz de verificação de idade limite de carro"; "ano de fabricação versus primeiro ano de registro"
+## Metadados SEO
+- **Título SEO**: África Uso-Carro Importação Limites de Idade por País: Quênia e Nigéria Verificado
+- **Meta descrição**: Os limites de idade dos automóveis usados africanos, por país, e as portas de controlo — Quénia (8 anos desde o primeiro registo) e Nigéria (15 da indústria transformadora) agora ancorados em fontes primárias, outros mercados marcados para verificação oficial.
+- **H1**: Limites da idade do carro usado em mercados africanos: uma matriz construída para ser verificada, não memorizada
+- **Palavra-chave principal**: África usou limite de idade de importação de automóveis por matriz de país
+- **Termos de busca secundários**: Quênia usou limite de idade do carro 8 anos primeiro registro, Nigéria importação de automóveis 15 anos de fabricação, Etiópia usado proibição de carro, Gana OBD importação, Moçambique idade do veículo, Sudão limite de idade do carro, Costa do Marfim CoC, KEBS DKS 1515
+- **URL sugerida**: /guides/africa-used-car-import-age-limits/
+- **Intenção de busca**: Compreender os limites da idade do carro usado em todo o mercado africano: uma matriz construída para ser verificada, não memorizada: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Sugestão de imagem**: tabela de matriz do país
+- **Texto ALT**: matriz de verificação de limite de idade do carro usado africano
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
+
 ## Leia o teto de evidência antes da tabela
 Os limites de idade mudam, são aplicados de forma diferente pelo porto e são frequentemente mal citados em resumos de transporte de mercadorias. Esta página separa **dois níveis de evidência**. * Kenya e Nigéria estão agora ancoradas em fontes primárias de destino** (uma autoridade de receita/customs e um organismo de normas) e sua base de idade é indicada abaixo. **Toda a linha de outros países continua a ser um valor reportado do material de encaminhamento/media** e é sinalizada para verificação oficial — não é declarado como fato resolvido. Não existe uma única regra regional "África": cada país estabelece a sua própria base etária, regra de direção e portão de inspeção, e um único título "X years" sem essa base é inseguro.
 ## Primeiro momento: saber qual a idade que está sendo medida

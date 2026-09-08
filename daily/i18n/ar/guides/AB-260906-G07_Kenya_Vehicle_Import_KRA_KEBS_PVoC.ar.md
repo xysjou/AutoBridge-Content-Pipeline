@@ -1,20 +1,25 @@
 # مركبات استيراد إلى كينيا: جمارك جمهورية كوريا، وشركة KEBS لمركبات النفط المتعددة الكلور، وشركة المعايير
-## SEO Metadata
-- ** عنوان الحلقة**: استيراد المركبات في كينيا: واجبات الجمارك في جمهورية كوريا ودليل شركة KEBS PVoC
-- ** وصف البيانات**: A country-specific guide to importing vehicles into Kenya: KRA customs procedure and taxes, the KEBS pre-export verification of conformity (PVoC), and how the rolling vehicle-age rule is published.
-- ** H1 **** مركبات استيراد إلى كينيا: جمارك جمهورية كوريا، وشركة KEBS لمركبات النفط المتعددة الكلور، وطريق المعايير**
-- ** كلمة رئيسية رمزية**: استيراد المركبات الكينية
-- ** مصطلحات البحث الثانية**: كينيا رسوم استيراد مركبات KRA؛ مركبة محركة من طراز KEBS؛ علامة على توحيد الواردات في كينيا؛ استخدمت كينيا قاعدة عمر السيارات؛ إعلان الاستيراد في كينيا
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Search Intent**: 向肯尼亚出口车辆需经过哪些海关计税 装船前合格评定与标准 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+## بيانات SEO الوصفية
+- **عنوان SEO**: استيراد المركبات في كينيا: KRA من واجبات الجمارك و KEBS من دليل المركبات
+- **وصف Meta**: دليل خاص ببلدان معينة لاستيراد المركبات إلى كينيا: KRA إجراء وضرائب جمركية، والتحقق من المطابقة قبل التصدير البالغ KEBS، وكيفية نشر قاعدة عمر المركبات المتداولة.
+- **H1**: مركبات استيراد إلى كينيا: KRA جمارك، و KEBS من طراز PVoC، وطريق المعايير
+- **الكلمة المفتاحية الرئيسية**: Kenya vehicle import  KRA   KEBS  PVoC
+- **مصطلحات بحث ثانوية**: كينيا KRA من واجب استيراد المركبات؛ KEBS من المركبات الآلية؛ علامة توحيد الواردات في كينيا؛ استخدمت كينيا قاعدة عصر السيارات؛ إعلان الاستيراد في كينيا
+- **URL المقترح**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **نية البحث**: فهم مركبات الاستيراد إلى كينيا: KRA من الجمارك، و KEBS من طراز PVoC، وطريق المعايير: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **اقتراح الصورة**: مومباسا لاستيراد مركبات ميناء مومباسا مع KEBS و KRA وثيقة
+- **نص ALT**: ملف استيراد المركبات بـ KEBS و KRA ورقة ومساحة ميناء في الخلفية
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
+
+** مقترحات داخلية بشأن الروابط**: /guides/south-africa-vecle-import-itac-sars-nrcs/, /guides/nigeria-vecle-import-customs-soncap/, /guides/china-port-ro-vehicle-export--exporting-terminal-handover/
 - ** اقتراح**: مناولة استيراد مركبات مومباسا من ميناء مومباسا مع وثائق مجلس الأمن الوطني ومؤسسة كوسوفو العربية
 - ** اقتراح**: ملف استيراد المركبات مع شركة KEBS وشركة KRA الورقية وفندق ميناء في الخلفية
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- ** نطاق الشيمة**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 وتقسم كينيا استيراد المركبات بين السلطة الضريبية وهيئة المعايير، وتتحقق خطوة المعايير إلى حد كبير ** قبل أن تغادر السيارة البلد الأصلي**. وتعالج هيئة الإيرادات ** Kenya Revenue Authority (KRA)** التقييم الجمركي والواجبات والتطهير؛ ويدير مكتب المعايير **Kenya برنامج التحقق قبل التصدير من التقارب، الذي يقرر ما إذا كان الاستيراد المنظم يفي بمعايير كينيا. وهذا دليل خاص بكينيا؛ فالأرقام والقوائم المعنية حساسة من حيث الوقت ويجب قراءتها من المصادر الحالية للرابطة.**
 
-## KEBS PVoC: conformity verified before export
+# KEBS PVoC: التحقق من الامتثال قبل التصدير
 
 وشركة النفط المتعددة الكلور هي برنامج لتقييم المطابقة يطبق في البلد المصدر: إذ تقوم شركات التفتيش المعينة بالتحقق من أن المنتجات - بما في ذلك المركبات الآلية والمعدات المتنقلة وقطع الغيار المستخدمة، المشمولة بقسم مخصص من دليل عمليات شركة KEBS PVoC - تستوفي المعايير الكينيـة الواجبة التطبيق قبل الشحن. ومن وثائق التطهير التي يتوقع أن تصدرها هيئة مراجعة الحسابات للمنتجات الخاضعة للتنظيم شهادة التوحيد من وكيل شركة PVoC المعينة؛ وعندما تطبق طرق البرامج، يصدر علامة لتوحيد الواردات وفقا للمبادئ التوجيهية لمجلس إدارة عمليات حفظ السلام. ويسمي الدليل الحالي لمركبات ثنائي الفينيل متعدد الكلور (التحويل 14) البلدان والعناصر المعينة لتفتيش المركبات، ولذلك ينبغي للمصدر أن يؤكد أي عامل يغطي الصين للشحنة الفعلية.
 
@@ -23,7 +28,7 @@
 - مطابقة لتفاصيل مجلس التعاون القطري والفواتير وشبكة المعلومات وتعقد الأخطاء عملية تطهير وكالة الأنباء الكويتية.
 - (ج) اتباع مسار الإدارة المتكاملة، الذي يرد وصفه في المبادئ التوجيهية لعلامة قياس الواردات في نظام إدارة عمليات حفظ السلام.
 
-## KRA: customs procedure and the tax stack
+# KRA: الإجراءات الجمركية والضرائب
 
 وتقول وكالة مراجعة الحسابات الكويتية إن واردات المركبات لا تخضع لواجب استيراد واحد بل لحزمة تتفاوت مع تصنيف الخدمة المدنية - واجب الاستيراد زائداً رسوم الإنتاج، ورسوم الاستيراد، ورسومات الشحن، ورسوم تطوير السكك الحديدية، بالمعدلات المقررة، وكلها مستحقة الدفع قبل الإفراج. وتقيم هيئة تقييم المخاطر في كوسوفو المركبات باستخدام إطارها التقييمي الخاص بها (قاعدة بيانات أسعار البيع بالتجزئة الحالية للمركبات المستعملة)، التي يمكن أن تتجاوز سعر المعاملات. ويصدر وكيل مرخص له في مجال المقاصة الجمركية الإعلان، الذي تدعمه لجنة التنسيق بين الوكالات المعنية بالإجراءات المالية، عند الاقتضاء، والفواتير وغيرها من وثائق الاستيراد.
 
@@ -83,15 +88,15 @@ The Import Standardization (ج) مارك صادر بموجب المبادئ ال
 | KRA 官网 (海关税收征管机构身份; 具体进口税页未取到稳定子页) | هيئة الإيرادات في كينيا | KE | T1 | مفقود | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
 | KRA 对二手机动车启用新 CRSP 现行零售价表 (2025-07-01, T4 仅线索, 须 KRA 官方核) | 顺企网(T4) | KE | T4 | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP 估值线索  |
 | '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | T3 | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
-| استيراد المركبات (قاعدة المعرفة) | هيئة الإيرادات في كينيا | KE | T1 | مفقود | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis - duty components vary by HS; taxes time-sensitive, confirm current rates |
-| إجراءات استيراد المركبات | هيئة الإيرادات في كينيا | KE | T1 | الوقت - | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis - import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| استيراد المركبات (قاعدة المعرفة) | هيئة الإيرادات في كينيا | KE | T1 | مفقود | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis - duty components vary by HS; في الوقت الذي نشير فيه إلى أن العمل على تعزيز التعاون
+| opttime |about | KE | T1 ; - | https://www.kra.go.ke/individual/importing/l--importation/procedures-for-motor-vehicle ; kebs_qis - import procedure and tax categories; قاعدة سنة تصنيع متجددة نشرها KRA |
 | دليل عمليات برنامج فولطية (PVoC) v14 (9 Nov 2025) | مكتب المعايير في كينيا | KE | T1 | مفقود | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis - motor vehicle/mobile equipment PVoC and appointed inspection agents |
-| توحيد معايير الواردات مبادئ توجيهية بشأن العلامات | مكتب المعايير في كينيا | KE | T1 | مفقود | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis - ISM issuance for PVoC-licensed/regulated imports |
-| دليل عمليات البرامج (بوابة كينيا لتبادل المعلومات) | InfoTrade Kenya (government trade gate) | KE | T1 | صرخات | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis - used vehicles assessed under KS standards; confirm current version |
+| |− 第3 بشأن المواد الكيميائية؛ Office about Office in theTOR, | T1 | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDATION_MARK_GUIDELINES.pdf . kebs_qis - ISM issuance for PVoC-licensed/reg
+| دليل عمليات البرامج (بوابة كينيا لتبادل المعلومات) | InfoTrade Kenya (government trade gate) | KE | T1 | صرخات | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis - used vehicles assessed under KS standards; التطورات
 | وكالة شبكة التجارة في كينيا (كين تراد) | وكالة شبكة التجارة في كينيا | KE | T1 | صرخات | https://www.kentrade.go.ke/ | kebs_qis - national single-window trade facilitation body |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: KE(肯尼亚单国,COUNTRY_SPECIFIC; 税率 /CRSP/ 车龄 费用为时点数据)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

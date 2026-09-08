@@ -1,15 +1,17 @@
 # 福通通G9 大江军G9(2025)——中马拾货标本和出口检查.
 
-## 道德操守办公室 元数据
-- **SEO标题**:福通通用G9 拾取2025 中马柴油机/Petrol Specs & Export Guide.
-- **Meta Directoration**:中市福通通用G9(大将军 G9)皮卡:2.0T型柴油机和汽油线,6MT/8AT型,RWD/4WD型,床和轮基尺寸,以及相冲突的柴油机车悬挂的柴油机车.
-- ** H1 资源需求。 **:福通通用G9 大江军G9(2025)——中马拾货标本及出口检查.
-- ** 基本关键词**:Foton 福田 General G9 大将军 G9 皮卡 规格出口
-- ** 二级搜索术语**:Foton General G9出口;Dajiangjun G9皮卡;中国柴油皮卡;4WD皮卡;双层出租车
-- ** 建议的URL**:车辆/一般装置-g9/
-- ** 搜索内特**:了解 Foton 福田 General G9 大将军 G9 皮卡 中国版规格 配置与出口适配性 (车型参数页)) 存档副本.
-- ** 内部链接建议**:车辆/一般装置-g9/、指南/车辆-出口-hs-code-history/、指南/排放-燃料-兼容-history/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: Foton General G9 Pickup 2025:中马柴油机/Petrol Specs & Export Guide 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机车 中马机 中马机 中马机车 中马机车 中马机车 中马机车 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中马机 中 中马机 中 中
+- **Meta描述**: 中国市场福通通用G9(大将军 G9)皮卡:2.0T型柴油机和汽油线,6MT/8AT型,RWD/4WD型,床和轮基尺寸,以及相互冲突的柴油机车悬挂的牵引力.
+- **H1**: 福通通G9 / 大江军G9(2025)——中马拾货标本及出口检查.
+- **核心关键词**: Foton / 福田 General G9 / 大将军 G9 皮卡 规格出口
+- **次级搜索词**: Foton General G9出口;大江军G9皮卡;中国柴油皮卡;4WD皮卡;双层出租车
+- **建议URL**: /vehicles/foton-general-g9/
+- **搜索意图**: 了解福通通用G9 / 大江君G9(2025)——中马货拾货标本和出口检查:车辆/零件出口商在承诺订购前必须核实,记录和决定什么.
+- **内链建议**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **图片建议**: 现实的,文件/车辆重点的场景,说明福通通用G9 / 大江军G9(2025)——中马拾货标本和出口检查,没有进行阶段检查或有人声称.
+- **ALT文本**: 近,自然看材料和与福通通用G9 / 大江君G9(2025)有关的主题——中马拾货标本与出口,中性背景,没有显示人或检查行动.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 购买者背景:两条燃料线的皮卡
 **Foton General G9(大将军 G9,2025)**是中国市场上的车身装车,在**柴油和汽油线路**销售,车身装有手动/自动变速箱,后轮或四轮驱动. 对于出口购买者来说,决定性的方面是床位、轮基、驱动火车和准确的发动机——而不是一个 " G9 " 规格。 参考市场为**中国**.
@@ -54,7 +56,6 @@
 ** 长床尺寸? ** 单源在此; 点货前交叉检查 。
 ** 柴油用哪一种燃料? ** 中六,0#柴油机;验证目的地燃料兼容性.
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -74,18 +75,18 @@
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
-- ** 模件_TOPIC_MATCH**:准确的福顿通用G9皮卡
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Foton General G9 pickup
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
   - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer
@@ -98,6 +99,5 @@
   - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup

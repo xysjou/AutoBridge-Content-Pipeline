@@ -1,15 +1,17 @@
 # 冲洗厂右手驱动(RHD) 中国车:品牌可用性和验证
 
-## 道德操守办公室 元数据
-- **SEO标题**:哪辆中国车来右手驱动(RHD)?. 测试指南
-- ** 金属说明**: 如何为英国,澳大利亚,泰国,马来西亚,南非等地制造RHD中国车辆源头——品牌打造RHD,如何确认每架VIN,为何LHD对RHD的转换风险很大.
-- ** 推荐的URL**: 指南/右手驱动-chinese-cars/
-- ** H1 资源需求。 **:购买右手驱动的中国车:为什么它必须是工厂RHD Building
-- ** 关键词**: 中国汽车右手驱动 RHD 型号导出
-- ** 二级搜索术语**:工厂放射性能 中国EV,BYD右手驱动,MG RHD型号,GWM Haval RHD,RHD 泰国中国车,LHD改为RHD转换风险
-- ** 内部链接建议**: /指南/chinese-ev-充电-标准兼容性/;/指南/核实-china-car-export-suplier/;/车辆/hongqi-e-hs9-2024/
-- **图像建议**:RHD驾驶舱(右侧)对LHD;世界RHD市场图;工厂RHD生产线;转换风险警告
-- **ALT建议**:"Factory右手驱动中国汽车驾驶舱";"全球右手驱动市场图";"LHD到RHD转换组件警告".
+## SEO元数据
+- **SEO标题**: 右手车道中哪辆中国车来(RHD). 测试指南
+- **Meta描述**: 如何为UK型,澳洲,泰国,马来西亚,南非等地的RHD型中国车辆提供货源——品牌建设RHD型,每VIN型如何确认,为何LHD型至RHD型的转换风险很大.
+- **H1**: 购买右手驱动的中国车:为什么它必须是工厂RHD Building
+- **核心关键词**: 中国汽车右手驱动 RHD型出口
+- **次级搜索词**: 工厂RHD 中国EV,BYD 右手驱动,MG RHD型,GWM 哈瓦尔RHD,RHD 泰国中国车LHD至RHD转换风险
+- **建议URL**: /guides/right-hand-drive-chinese-cars/
+- **搜索意图**: 了解购买右手驱动中国汽车:为什么它必须是工厂RHD 建造:车辆/部件出口商在承诺订购前必须核实、记录和决定。
+- **内链建议**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **图片建议**: RHD驾驶舱(右侧)对LHD
+- **ALT文本**: 工厂右推车 中国汽车驾驶舱
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 红外线 制造问题,不是修理问题
 
@@ -27,7 +29,7 @@
 | | 据报,有EX5条开发线与LHD/RHD平行设计; | 英国、爱尔兰、澳大利亚、新西兰、马来西亚、香港 | 工业来源——核查 |
 | 红琪 | 放射性能新能量通过2026; Hong Kong experience centre reported from July 2026 | 联合王国、澳大利亚、新西兰、新加坡、泰国、马来西亚、印度尼西亚 | |
 | 东风福 | ** 官方确认**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  V9 建造供生殖健康市场使用 | 泰国 | ** 官员(东风)** 报告迟交是因为需要翻译。 |
-| 长安i(原NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | 泰国 | 媒体——核查 |
+QQ05在2026年3月曼谷动车组选秀(泰语RHD前景)上以NEVO Q05显示.
 
 注意型号**中国与出口市场名称不同**(如袁加 _Atto 3);按平台/VIN进行配对,不按中国市场名称进行配对. 大约** 35%辆全球车辆销售额在公路运输市场**按行业估计——一个背景数字,而不是对任何具体模型的需求预测。
 
@@ -63,18 +65,18 @@
 ** 为何由VIN核实? ** 营销材料可能称"RHD 可用",而分配的股票是LHD;VIN的建设表是可靠的证明.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf

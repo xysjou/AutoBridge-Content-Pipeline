@@ -7,8 +7,10 @@
 - **Primary Keyword**: export compliance sanctions screening end user
 - **Secondary Search Terms**: export control; sanctions screening; end-user statement; denied party; dual-use; restricted list
 - **Suggested URL**: /guides/export-compliance-sanctions-screening-end-user/
-- **Search Intent**: 汽车出口如何做最终用户/最终用途尽调、管控/关注名单与境外制裁名单筛查，规避出口管制与制裁风险
+- **Search Intent**: Understand Export Compliance and Sanctions Screening for Chinese Vehicle Exporters: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Export Compliance and Sanctions Screening for Chinese Vehicle Exporters, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Export Compliance and Sanctions Screening for Chinese Vehicle Exporters, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Compliance is a transaction gate, not paperwork at the end

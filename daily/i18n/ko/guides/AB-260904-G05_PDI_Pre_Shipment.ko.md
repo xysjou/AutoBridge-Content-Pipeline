@@ -1,17 +1,19 @@
 # 차량 수출을 위한 전 선적 PDI 및 Handover: AutoBridge의 추천된 검사표 대 운반대 규칙
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 차량 수출 PDI 및 사전 판매 Handover Guide - 이름 캐리어 규칙
-- **마타 기술 **: RoRo 캐리어 정책 (Wallenius Wilhelmsen, Höegh Autoliners) - 연료, 배터리, SOC 및 operability - AutoBridge의 권장 선행 검사 검사 목록에서; 보편적 인 고정 값 없음.
-- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
-- ** H1 **: RoRo 또는 Container 수출용 차량 준비: 어떤 Named 캐리어 요구와 우리가 추천하는 것
-- ** 출원 키워드 **: 차량 수출 전 선적 검사 PDI 수로 RoRo
-- **세컨드리뷰 이용 약관**: Wallenius Wilhelmsen 연료 분무 탱크,  Hoegh BEV SOC 50 percent, RoRo operable 차량, 12V 배터리 사용 자동차, 사전 선적 사진 기록
-- ** 내부 링크 제안**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- ** 이미지 제안 **: PDI 체크리스트 시트; RoRo 자체 건조 램프; 이름 - 자동차 대 편집 분할 다이어그램
-- **ALT 제안**: "Named RoRo 캐리어 요구 사항 versus 권장 선행 검사 목록"
+## SEO 메타데이터
+- **SEO 제목**: 차량 수출 PDI & 전 선적 Handover Guide - 이름 캐리어 규칙
+- **메타 설명**: RoRo 캐리어 정책 (Wallenius Wilhelmsen, Höegh Autoliners) - 연료, 배터리, SOC 및 조작성 - AutoBridge의 권장 선행 검사 검사 목록에서; 보편적 인 고정 값 없음.
+- **H1**: RoRo 또는 Container Export용 차량 준비: 이름 캐리어 요구 사항 및 우리가 추천하는 것
+- **주요 키워드**: 차량 수출 전 선적 검사 PDI 수로 RoRo
+- **보조 검색어**: Wallenius Wilhelmsen 연료 분무 탱크,  Hoegh  BEV   SOC  50 percent, RoRo operable 차량, 12V 배터리 사용 자동차, 사전 선적 사진 기록
+- **추천 URL**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **검색 의도**: RoRo 또는 Container Export용 차량 준비를 이해하십시오. 이름 캐리어 요구 사항 및 우리가 무엇을 추천하는지: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **이미지 제안**: PDI 체크리스트 시트
+- **ALT 텍스트**: Named RoRo 캐리어 요구 사항 versus 권장 사전 선적 체크리스트
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
-## Two Layers That Must Not Be Merged
+## 2개의 층은 Merged가 아닙니다
 대상에서 손상은 거의 항상 한 가지 질문에 다시 추적: 차량의 상태, 연료 배터리 상태 및 운전성 ** 핸드 오버 **는 무엇입니까? 깨끗하게 답변하려면이 가이드는 두 개의 레이어를 분리합니다.
 1. **Named-carrier requirements (CARRIER_SPECIFIC)** - 특정 RoRo 캐리어의 서면 정책, 여기 **Wallenius Wilhelmsen (WW)** 및 **Höegh Autoliners (Höegh)**. 이들은 ** 자동차 정책, 국제 규정**, 그들은 모든 선박 라인에 걸쳐 보편적이지 않습니다, 그리고 책 캐리어의 서면 지침은 항상 지배.
 2. **AutoBridge 권장 사전 선적 검사 목록 (EDITORIAL_RECOMMENDATION) ** -이 가이드는 증거를 권장합니다. ****not** 산업 필수 절차는 표시되지 않습니다.
@@ -19,7 +21,7 @@
 ## Named-Carrier Policies (CARRIER_SPECIFIC - 이름에 의해 캐리어를 인용)
 | 팟캐스트 | 월터스 윌헬름 | Höegh 오토라이너 | 의 특징 |
 |---|---|---|---|
-| ** 연료 가스 레벨 ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | 캐리어 정책;이 두 개의 이름을 줄에 대 한 교차 검사 — 보편적인 규칙 |
+ホーム > 제품정보 > 가스 레벨
 | **사용된 얼음 배터리 ** | 중고 단위 ** 배터리 킬 스위치 없음 **, 멸균 후 12/24V을 분리 (WW 지시 당 출구) | - - - | WW-specific; 단일 소스 캐리어 규칙 |
 | ** BEV 고전압 SOC ** | - - - | **SOC는 50% 이상 **, 적재/내부/저장에 충분한 책임을 유지하면서; 공급 능력: ≤¼ fuel plus SOC guidance | Höegh-specific; ** 글로벌 SOC 천장 |
 | **영업 시간***************************************************************************************************************************************************************************************************************************************************************** | RoRo 단위는 안전하게 (move/brake/steer); 결함 또는 새는 단위가 거부될지도 모릅니다 | 동일한 각자 건조 필요조건 | 이 두 개의 명 줄에 대한 캐리어 수신 규칙 |

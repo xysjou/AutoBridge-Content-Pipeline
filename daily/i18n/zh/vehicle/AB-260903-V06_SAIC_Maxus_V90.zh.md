@@ -1,14 +1,16 @@
 # SAIC 马克斯辛图 V90 柴油机车:一种配置-Matrix轻商号,而非单一型号
-## 道德操守办公室 元数据
-- ** 标准标准标题**:最高审计机关V90 柴油机范斯佩克和导出配置指南
-- ** 金属说明**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT, (英语). 具有可选双后轮的RWD, 两个轮盘, 9–15个座位通过同音.
-- ** 建议的URL**:车辆/激光-麦克斯-v90-specs/
-- ** H1 **:SAIC Maxus Xintu V90 (中文(中国大陆)). 柴油机轻型车厢配置和导出检查
-- ** 基本关键词**: 最大口径v90型柴油机车规格
-- ** 二级搜索术语**: Maxus V90轮式基地 V90 ZF 8AT, Maxus轻型客车 9-15个座位,柴油宽体货车出口,双后轮货车
-- ** 内部链接建议**:车辆/车辆/船-江-j6p-tractor-specs/;车辆/法里宗-兴iang-v6e-specs/;车辆/车辆-coc-型核准-车辆-车/
-- ** 图像建议**:长轮基高架侧面图;双后轮轴;客车对货运车体;ZF 8AT型选用机;内装货物
-- **ALT建议**:"SAIC Maxus V90长轮基高顶货车";"V90型柴油机车和后轴选择".
+## SEO元数据
+- **SEO标题**: SAIC 最大号 V90 柴油机范斯佩克和导出配置指南
+- **Meta描述**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT (英语). RWD 带有可选的双后轮, 两个轮盘, 9–15个座位通过同音.
+- **H1**: SAIC 马克斯·辛图 V90 (中文(中国大陆)). 柴油机轻型车厢配置和导出检查
+- **核心关键词**: 最大口径v90型柴油机车
+- **次级搜索词**: Maxus V90 轮式基地 V90 ZF 8AT 马克斯轻型客车 9-15 座椅 柴油宽体货车出口 双后轮货车
+- **建议URL**: /vehicles/saic-maxus-v90-specs/
+- **搜索意图**: 了解SAIC Maxus Xintu V90(中国市场): 柴油轻车配置和出口检查:车辆/零件出口商在承诺订购之前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **图片建议**: 长轮基高屋顶侧面图
+- **ALT文本**: SAIC Maxus V90 长轮基高顶面包车
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者上下文: 命令配置代码, 不是名称
 X图V90型机车是**宽体轻型商业平台**,作为客运小客车,面板/货车和赤底盘-cab出售,跨越多个轮座,车顶高度,座椅计数和单/双后轮. 没有单曲"V90 spec". 出口商的任务是固定**精确的同型号代码(公告型号)**,然后将引擎、变速箱、轴、机身和座椅配对——因为目的地认证是在这种特定配置上进行的。 参考市场:**中国**.
@@ -56,30 +58,30 @@ ZF 8AT是更高层次的传输;不要假设每个等级都有它.
 *为什么我必须引用一个模型代码* 轮基,屋顶,座椅,轴和GVW在同位化的V90配置上有所不同;只有代码可以固定规格.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

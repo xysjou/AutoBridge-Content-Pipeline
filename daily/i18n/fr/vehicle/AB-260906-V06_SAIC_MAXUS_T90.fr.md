@@ -1,16 +1,16 @@
 # MAXUS SAIC Interstellar T90: Référence du ramassage diesel sur le marché chinois
-## OEuvre Métadonnées
-- ** Titre du référencement**: SAIC MAXUS T90 (Interstellaire) Spécifications d'exportation de ramassage diesel et chèques d'achat
-- **Description détaillée**: Référence du marché chinois pour le ramassage diesel SAIC MAXUS Interstellar T90: châssis corps sur châssis, lits standard/longs, diesel 2.0T biturbo, options de transmission et mise en garde contre le nom d'exportation.
-- ** H1 **: SAIC MAXUS Interstellar T90: Référence des exportations de ramassage diesel sur le marché chinois
-- **Mot-clé principal**: spécifications SAIC MAXUS T90 pour l'exportation de pickup
-- ** Termes de recherche secondaires**: MAXUS T90 ramassage diesel; Interstellar T90 2.0T twin turbo; T90 8AT quatre roues motrices; dimensions du lit de ramassage MAXUS; exportation de ramassage chinois
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Intention de la recherche**: 面向海外 B 端买家介绍星际 T90 中国市场版本身份 - 货箱 四驱 底盘 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Suggestion d'image**: une prise d'air diesel à double cabine SAIC MAXUS T90 à l'avant, à trois quarts d'angle sur sol accidenté
-- **ALT Suggestion**: Devant trois quarts d'une prise de vue SAIC MAXUS T90 à double cabine sur une surface non pavée
-- **Schema Scope**: Article + Vehicle
+## Métadonnées SEO
+- **Titre SEO**: SAIC MAXUS T90 (Interstellar) Spécifications d'exportation de ramassage diesel et chèques d'achat
+- **Description meta**: Référence du marché chinois pour le SAIC MAXUS Prise en charge diesel interstellaire T90: châssis corps sur châssis, lits standard/longue, diesel biturbo 2.0T, options de motorisation et mise en garde contre le nom d'exportation.
+- **H1**: SAIC MAXUS Interstellar T90: Référence des exportations de ramassage diesel sur le marché chinois
+- **Mot-clé principal**: SAIC MAXUS T90 spécifications d'exportation de pick-up
+- **Termes de recherche secondaires**: MAXUS T90 ramassage diesel; Interstellar T90 2.0T turbo jumeaux; T90 8AT quatre roues motrices; MAXUS dimensions du lit de ramassage; exportation de ramassage chinois
+- **URL suggérée**: /vehicles/saic-maxus-t90/
+- **Intention de recherche**: Comprendre SAIC MAXUS Interstellar T90: Chine-Marché Diesel Pickup Export Référence: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Suggestion d'image**: A SAIC MAXUS T90 prise diesel double cabine à l'avant, trois quarts d'angle sur sol brut
+- **Texte ALT**: Avant trois quarts d'une prise de SAIC MAXUS T90 à double cabine sur une surface non pavée
+- **Portée du schéma**: Article + Véhicule
 
 L'Interstellar T90 (Xingji T90, anciennement le MAXUS T90 en Chine) est le moyen de taille de SAIC MAXUS, ** le corps sur cadre** le ramassage double-cabine — le type de véhicule acheté à l'étranger pour le chargement, la route rugueuse et la flotte, plutôt que le raffinement passager. Un achat de ramassage est décidé sur lit, charge utile, entraînement et châssis, donc ceux-ci mènent cette page. Il ne couvre que le ** diesel du marché chinois**; le T90 électrique séparé est exclu.
 

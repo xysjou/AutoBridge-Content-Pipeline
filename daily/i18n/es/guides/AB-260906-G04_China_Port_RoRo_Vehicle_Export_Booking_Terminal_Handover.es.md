@@ -1,16 +1,16 @@
 # Vehículos de exportación de RoRo desde Puertos Chinos: Reserva y Terminal Handover Flow
-## SEO Metadatos
-- **SEO Title**: China Port RoRo Vehículos Exportación: Guía de Reservas & Terminal Handover
-- **Meta Descripción**: Cómo reservar espacio RoRo para vehículos de exportación de China, preparar documentos, entregar unidades a la terminal, y gestionar la entrega y carga de responsabilidad sin asumir reglas específicas para el transportista.
-- ** H1 **: Vehículos exportadores de RoRo desde Puertos Chinos: Reserva y Terminal Handover Flow
-- **Primary Keyword**: porcelana puerto roro vehículo exportación cambio de página terminal de reserva
-- **Segundary Search Terms**: RoRo vehicle export China; roll-on-off booking; terminal de vehículos de la entrega; RoRo Dock receipt; car transportista reserva China
-- **Suggested URL**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Intent de búsqueda**: 出口车辆如何向滚装船公司 代理订舱, 按码头要求送车交接并装船, 各环节责任与单据
-- **Internal Link Suggestions**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
+## Metadatos SEO
+- **Título SEO**: China Port RoRo Vehículos Exportación: Guía de Reservas & Terminal Handover
+- **Meta descripción**: Cómo reservar espacio RoRo para vehículos de exportación de China, preparar documentos, entregar unidades a la terminal, y gestionar la entrega y carga de responsabilidad sin asumir reglas específicas para el transportista.
+- **H1**: Vehículos de exportación de RoRo desde Puertos Chinos: Reserva y Terminal Handover Flow
+- **Palabra clave principal**: puerto de China vehículo de exportación de exportación de la reserva terminal
+- **Términos de búsqueda secundarios**: RoRo vehículo export China; pago de la reserva de la entrega de la carga; cambio de terminal de vehículos; RoRo puerto de recepción; reserva de vehículos China
+- **URL sugerida**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Intención de búsqueda**: Comprender los vehículos exportadores de RoRo desde Puertos Chinos: Reserva y Terminal Handover Flow: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
 - **Sugerencia de imagen**: Nuevos vehículos de exportación alineados en un delantal terminal RoRo chino junto a una rampa de transporte de automóviles
-- **ALT Sugerencia**: Remos de nuevos vehículos esperando en una terminal RoRo junto a una rampa abierta de carruaje
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **Texto ALT**: Remos de nuevos vehículos esperando en una terminal RoRo junto a una rampa abierta de carruaje
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Roll-on/roll-off (RoRo) permite que un vehículo drivable se mueva bajo su propio poder en y fuera de un transportista de automóviles, evitando el levantamiento de grúa. Es el modo natural para lotes de coches nuevos o usados, camionetas y anuncios de luz que pueden ser conducidos de forma segura. El riesgo en RoRo no es el concepto sino la entrega: entre su depósito, el terminal, el transportista y el buque hay varios puntos donde la condición, los documentos y la responsabilidad cambian. Esta página mapas que secuencia para un puerto de exportación chino y banderas lo que debe ser confirmado por viaje en lugar de asumir.
 

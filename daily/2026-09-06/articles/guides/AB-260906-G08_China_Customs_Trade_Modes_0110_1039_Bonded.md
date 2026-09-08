@@ -6,7 +6,7 @@
 - **Primary Keyword**: China customs supervision method 0110 1039 bonded vehicle export
 - **Secondary Search Terms**: general trade 0110 export; market procurement trade 1039; bonded export zone; export tax refund mode; customs supervision code
 - **Suggested URL**: /guides/china-customs-supervision-method-0110-1039/
-- **Search Intent**: 汽车出口应如何选择海关监管贸易方式，一般贸易、市场采购(1039)、保税监管各自适用条件与税务/收汇差异
+- **Search Intent**: Understand China Customs Trade Modes for Vehicle Export: General Trade (0110), Market Procurement (1039) and Bonded Supervision: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Image Suggestion**: A customs declaration comparing general-trade and market-procurement codes beside export vehicles
 - **ALT Suggestion**: Customs declaration form with supervision codes and export vehicles at a gate beyond

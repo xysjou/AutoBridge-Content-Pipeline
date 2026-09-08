@@ -6,7 +6,7 @@
 - **Primary Keyword**: china export credit insurance sinosure
 - **Secondary Search Terms**: short-term export credit insurance; SINOSURE buyer risk; political risk cover export; export credit insurance application; open account insurance China
 - **Suggested URL**: /guides/china-export-credit-insurance-sinosure/
-- **Search Intent**: 汽车出口商如何用中国出口信用保险（中信保短期险）覆盖买方商业/政治风险、通过什么渠道投保
+- **Search Intent**: Understand China Export Credit Insurance (SINOSURE Short-Term Cover): What Vehicle Exporters Are Actually Buying: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Image Suggestion**: An exporter reviewing a buyer credit-limit file next to a finished-vehicle yard
 - **ALT Suggestion**: Desk with an export credit insurance buyer-limit document and a row of export vehicles in the background

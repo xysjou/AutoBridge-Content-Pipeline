@@ -1,16 +1,16 @@
 # JMC Ford Transit T8 (Quanshun T8): A China-Market Large Van Reference Built Around Wheelbase, Roof and Cargo Volume
-## SEO Metadata
-- ** عنوان المنظمة**: JMC Ford Transit T8 الصين - ماركت فان سبيكس وتحقق من الصادرات | AutoBridge
-- ** وصف البيانات**: China-market reference for the JMC Ford Transit T8 large van: three wheelbases, medium/high roofs, two diesel lines kept separate, cargo volume, and why it is not assumed similar to the global Ford Transit.
-- **H1**: JMC Ford Transit T8 (Quanshun T8): A China-Market Large Van Reference Built Around Wheelbase, Roof and Cargo Volume
-- ** كلمة رئيسية**: JMC Ford Transit T8 export specs
-- ** شروط البحث الثانية**: 江铃福特全顺T8; (أ) أبعاد النقل العابر البالغ عددها T8؛ T8 بضائع؛ 2.3T شاحنة ديزل 8AT شاحنة؛ صيني كبير جداً من الصادرات؛ Quanshun T8
-- ** URL المقتطع**: /المركبات/jmc-ford-transit- t8/
-- ** الحلقة الدراسية**: 面向海外买家介绍江铃福特全顺T8中国市场身份、三轴距/中高顶、两套柴油动力与货厢容积，并守住与全球Transit的身份边界
-- ** الوصلات الداخلية** : vehicles/saic -ماكسوس - g90/ , /vehicles/qingling-isuzu- kv100/ , / guides/verify - تاريخ مضاعف السيارات الصينية/
-- ** اقتراح مقدم من: A JMC Ford Transit T8 high-roof cargo van shown from side profile to display its length
-- ** اقتراح**: بيان جانبي عن شاحنة نقل جوي من طراز JMC Ford Transit T8 شاحنة على أرض محايدة
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسع/استعراض/إعادة النظر)
+## بيانات SEO الوصفية
+- **عنوان SEO**: JMC  Ford Transit T8 China-Market Van Specs  and  Export checks s AutoBridge
+- **وصف Meta**: Chinese-market reference for the  JMC  Ford Transit T8 large van: ثلاثة قاعات متحركة، سقف متوسطة/عالية، خطان ديزل ظلا منفصلين، حجم البضائع، ولماذا لا يفترض أن يكون مطابقاً لمرور فورد العالمي.
+- **H1**: JMC فورد ترفيه T8 (كوانشون T8): بنية مرجعية من الصين - ماركت لارج فان حول ويلباس، رووف، وكارغو فولومي
+- **الكلمة المفتاحية الرئيسية**: JMC  Ford Transit T8 export specs
+- **مصطلحات بحث ثانوية**: 江铃福特全顺T8; (أ) أبعاد النقل العابر البالغ عددها T8؛ T8 بضائع؛ 2.3T شاحنة ديزل 8AT شاحنة؛ صيني كبير جداً من الصادرات؛ Quanshun T8
+- **URL المقترح**: /vehicles/jmc-ford-transit-t8/
+- **نية البحث**: Understand  JMC  Ford Transit T8 (Quanshun T8): A China-Market Large Van Reference Built Around Wheelbase, Roof and Cargo Volume: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **اقتراح الصورة**: A JMC Ford Transit T8 high-roof cargo van shown from side profile to display its length
+- **نص ALT**: Side profile of a high-roof JMC Ford Transit T8 van on neutral ground
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 The JMC Ford Transit T8 (江铃福特全顺 T8) is the large-van/large-bus platform built by Jiangling Motors in China, sold in passenger and cargo forms across multiple wheelbases and roof altitudes, with rear-wheel drive and four-wheel-drive formations. بالنسبة لمشتر تجاري، المنطق المطلّب هو الهندسة: ** و "العجلة الـ "×" طول السطح، و أسلوب الجسم ×" يحدد السيارة، و "الطائرة T8" بدون تلك المواصفات غير محددة. هذه الصفحة هي علامة تجارية**. ويبقي خطي الديزل منفصلين - بشكل حاسم - لا يساوي** خط البناء المشترك بين لجنة التنسيق المشتركة وشركة كوانشون T8 مع النقل العابر العالمي للفورد: وبدون بيان من نفس النموذج الذي يُصدره مكتب مراقبة الأسلحة الكيميائية، فهي ذات صلة، غير متطابقة.
 
@@ -30,7 +30,7 @@ The JMC Ford Transit T8 (江铃福特全顺 T8) is the large-van/large-bus platf
 | الخط | المراجع المتعلقة بالسوق الصينية | Gearbox | الثقة |
 |---|---|---|---|
 | 2.3T ديزل (2025) | 128 kW (174 PS) / 430 N·m | 8-speed تلقائي (8AT) | SINGLE_SOURCE — SOURCE - confirm by VIN/OEM|
-| 2.0T من الديزل | خط ديزل منفصل، منخفض النتوء | 6-speed دليل (6MT) | SINGLE_SOURCE — SOURCE - separate line|
+| 2.0T fromнит | By ،,номت 6speed ) 6MT ) SINGLE_SOURCE — SOURCE - separate line
 
 The 2.3T 8AT and the 2.0T 6MT are distinct powertrains aimed at different duty cycles; لا يجب أن يُعرّضوا أو يُعرضوا كمحرك واحد "T8" والحركة الخلفية هي مخطط القاعدة، حيث عرض 4WD على تشكيلات مختارة - أي تسمية القرص الصلب صراحة. وترتكز النواتج الفعلية حاليا على مصادر مستقلة واحدة وينبغي إغلاقها ضد المواصفات الرسمية للجنة المشتركة أو دخولها إلى محرقة الطائرات الآلية قبل التعاقد؛ (أ) يجب أيضاً فحص الديزل الصيني من أجل تحديد درجة وقود المقصد وقبول مرحلة الانبعاثات.
 

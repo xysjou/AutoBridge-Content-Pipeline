@@ -1,16 +1,16 @@
 # SAIC MAXUS G90: Ein chinesisches Großöl MPV Referenz um Sitzplatz Layout gebaut
-## SEO Metadaten
-- **SEO Titel**: SAIC MAXUS G90 China-Markt MPV Specs und Export Käufer Schecks | AutoBridge
-- **Meta Description**: Chinesische Marktreferenz für den SAIC MAXUS G90 große MPV: Abmessungen, 2.0T+8AT Benzinleitung getrennt von jeder elektrifizierten Variante, sechs-gegen-sieben-Sitz-Layouts und Export-Verifizierungsschritte.
-- ** H1 **: SAIC MAXUS G90: Ein chinesisches Großöl MPV Referenz um Sitzplatz Layout gebaut
-- **Hauptschlüsselwort**: SAIC MAXUS G90 Exportspezifikationen
-- **Secondary Search Terms**: 上汽大通 G90; MAXUS G90 Dimensionen; G90 2.0T 8AT; sechs Siebensitzige MPV; Chinesische MPV Export China spec
-- **Vorgeschlagene URL**: /Fahrzeuge/saic-maxus-g90/
-- **Search Intent**: 面向海外买家介绍上汽大通MAXUS G90中国市场身份、尺寸、2.0T+8AT燃油线与6/7座布局边界
-- **Interne Linkvorschläge**: /Fahrzeuge/jmc-ford-transit- t8/, /Fahrzeuge/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
-- **Bildvorschlag**: Ein SAIC MAXUS G90 großes MPV mit zwei Schiebetüren von der Seite drei Viertel dargestellt
-- **ALT Vorschlag**: Seitendreiviertelansicht eines SAIC MAXUS G90 MPV mit Schiebetüren auf neutralem Hintergrund
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Bewertung / Bewertung)
+## SEO-Metadaten
+- **SEO-Titel**: SAIC MAXUS G90 China-Markt MPV Specs und Export Käufer Schecks | AutoBridge
+- **Meta-Beschreibung**: Chinesische Marktreferenz für die SAIC MAXUS G90 große MPV: Abmessungen, 2.0T+8AT Benzinleitung getrennt von jeder elektrifizierten Variante, sechs-gegen-sieben-Sitz-Layouts und Export-Verifizierungsschritte.
+- **H1**: SAIC MAXUS G90: Ein chinesisches Großöl MPV Referenz um Sitzplatz Layout gebaut
+- **Haupt-Keyword**: SAIC MAXUS G90 Exportspezifikationen
+- **Sekundäre Suchbegriffe**: 上汽大通 G90; MAXUS G90 Dimensionen; G90 2.0T 8AT; sechs sieben Sitze MPV; Chinesisch MPV Export China spec
+- **Vorgeschlagene URL**: /vehicles/saic-maxus-g90/
+- **Suchabsicht**: SAIC MAXUS G90: Ein chinesisches Großöl MPV Referenz Built Around Seating Layout: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
+- **Bildvorschlag**: A SAIC MAXUS G90 große MPV mit Doppel-Schiebetüren von der Seite drei Viertel dargestellt
+- **ALT-Text**: Seitendreiviertelansicht eines SAIC MAXUS G90 MPV mit Schiebetüren auf neutralem Hintergrund
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Die SAIC MAXUS G90 ist die große (obere Mitte) Personentransporter von SAIC Maxus, die sich an Executive Shuttle, Familie und Flottennutzung richtet. Für einen Exportkäufer ist die entscheidende Frage nicht sportliche Leistung, sondern **Konfiguration **: Der G90 ist ein sehr langer MPV, der in sechs- und siebensitzigen Layouts mit doppelten Schiebetüren angeboten wird, und diese Seite sperrt den chinesischen Markt ** Benzin 2.0T + 8AT Frontantrieb ** ab, anstatt sich in elektrifizierten oder ausländischen Varianten zu vermischen. Dies ist eine ** chinesische Marktreferenz**, keine globale Spezifikation; Rechtslenker- und Export-Builds erfordern separate OEM-Beweise, und Single-Source-Ausgaben werden für die Bestätigung auf VIN-Ebene gekennzeichnet.
 

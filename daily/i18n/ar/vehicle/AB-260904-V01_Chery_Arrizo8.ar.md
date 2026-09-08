@@ -1,17 +1,19 @@
 # Chery Arrizo 8 (艾瑞泽 8): a Chinese-Market 1.6T Saloon Spec Sheet for Export Buyers
 
-## SEO Metadata
-- ** عنوان المنظمة**: Chery Arrizo 8 Specs " Export Buyer Guide (1.6TGDI, China Reference)
-- ** وصف البيانات**: السوق الصينية Chery Arrizo 8 — 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
-- ** URL المقترض**: /مركبات/أريزو- 8/
-- ** H1 **** Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
-- ** كلمة رئيسية تصوّرية**: تصدير الكريسماس 8 عينة
-- ** شروط البحث الثانية**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽 8 export, Kunpeng SQRF4J16, Chinese compact sedan export
-- ** مقترحات داخلية بشأن الربط**: توجيهية/مفردات/مواقع ذات اسم ملغى - صينية/أفرقة/أفرقة/أفرقة/ألوحة/أفرقة/أدوات/أمتعة وثائق/تركيزات/تركيزات/توجيات/تات
-- ** اقتراحات رمزية**: مقدمة من ثلاثة أرباع آريزو 8؛ وخط محرك 1.6TGDI شارة؛ وغرفة مدخل خلفية؛ و7DCT مختار
-- ** اقتراحات بشأن: "الكريس آريزو 8 1.6TGDI سيارة "السوق الصينية" "(أريزو 8)" "أبعد 4780mm قاعدة متحركة 2790mm"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Chery Arrizo 8 Specs " Export Buyer Guide (1.6TGDI, China Reference)
+- **وصف Meta**: السوق الصينية Chery Arrizo 8 — 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
+- **H1**: Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
+- **الكلمة المفتاحية الرئيسية**: تصدير 8 عينة من طراز chery arrizo
+- **مصطلحات بحث ثانوية**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽 8 export, Kunpeng SQRF4J16, Chinese compact sedan export
+- **URL المقترح**: /vehicles/chery-arrizo-8/
+- **نية البحث**: (أ) فهم الشيري آريزو 8: المواصفات الصينية - ماركت ومذكرات التحقق من الصادرات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **اقتراح الصورة**: أمام ثلاثة أرباع آريزو 8
+- **نص ALT**: Chery Arrizo 8 1.6TGDI سيارة ركاب من السوق الصينية
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Conyer Context: a Near-B-Segment Saloon Sits Above the Small-Car Field
+# Conyer Context: (أ) أماكن صالون قريبة من طراز B-Segment فوق منطقة القارات الصغيرة
 "الـ "آريزو 8" هي صالة "شيري" المتدرجة، مُنَعّمة بين حقول التعابير التقليدية و "بي سيمنت" و مُربّية في المشترين الذين يريدون مساحةً خلفية أكثر من سيارة دخول. وبالنسبة للمصدر، فإن السؤال الافتتاحي ليس السعر ولكنه ** الذي يُستشهد به خط السلطنة**: فالمجموعة الصينية تُبنى على نحو 1.6-litre توربو، وتوثّق هذه الصفحة سيارة السوق الصينية البالغ عددها 1.6TGDI ** (REFERENCE MARKET: CHINA)**. وكل رقم أدنى هو مواصفات مرجعية للسوق الصينية**، وليس مواصفات عالمية - تون الوجهة، وهرمونات الانبعاثات، والمعدات التي تحددها السوق المحلية، ولم تُسجل في مجموعة البحوث أي صحيفة مواصفات من طراز OEM فيما وراء البحار.
 
 ## خط (تركيز نظام المعلومات الإدارية: محرك، صندوق معدات، وقود، انبعاث)
@@ -83,18 +85,18 @@
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Arrizo 8 2024 1.6T DCT Excellence parameter page | قاعدة بيانات ZOL | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | صرخات | الطلقات، قاعدة العجلات، المحرك، صندوق التروس، الهيكل |
-| Arrizo 8 1.6T DCT معايير التفوق | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | صرخات | السلطة، وقسم السلامة، والأبعاد، والأسعار المحلية المرجعية |
+| Arrizo 8 2024 1.6T DCT Excellence parameter page | Data ZOL | CN | https://detail.zol.com.cn/car/2030152.shtml | 2026-09-04 | ات − −ments |国ات, Biologicalindexments, and, and the ?
+: Arrizo 8 1.6T DCT: | PRO PROATED CN | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | | صرخ صرخ − 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 أو، -،؟
 | Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | صرخات | 145 kW/197 PS/290 N·m/7DCT |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
 * ملاحظة المصداقية: لم تُسجَّل أي ورقة أولية من طراز OEM؛ أما الأرقام فهي قيم قاعدة بيانات صينية منظمة. الأبواب، تخطيط القيادة و السرعة القصوى مصدر واحد والسعر المحلي حساس من حيث الوقت ولا يشكل أبدا اقتباسا من الصادرات. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، 2024/2025 آريزو 8 1.6TGDI (مواصفات مرجعية في السوق الصينية)؛ ليس مشهدا عالميا
 - ** طريقة الفرز**: فحص قاعدة بيانات من قاعدة إلى أخرى؛ والبنود ذات الموارد الوحيدة التي أُشير إليها؛ ولا توجد مقصد للاستقراء

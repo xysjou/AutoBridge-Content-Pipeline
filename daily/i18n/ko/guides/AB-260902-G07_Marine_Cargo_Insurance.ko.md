@@ -1,14 +1,17 @@
 # 중국 차량 선박용 해상 화물 보험: ICC(A)/(B)/(C), 보험가 및 클레임스 트레일
-## ▼ 한국어 메타데이터
-- **SEO Title**: 중국 차 수입을 위한 해양 보험: ICC 의약 & 의약
-- **마타 기술 **: 바다 교통에서 중국 차량이 올바르게 유지 - 공식 연구소화물 표지 (A) (B) (C), 왜 자동차가 모든 강석을 필요로하는지, CIF CIP Incoterms 2020 보험 의무, 보험 가치 협약 및 청구 증거.
-- **Suggested URL**: /guides/marine-cargo-insurance-car-import/
-- ** H1 **: Ocean Transit의 중국 차량 중 선택: 의제 단계, 스미 인sured 및 방법 의제는 실제로 지불
-- ** 출원 키워드 **: 해상화물 보험 수입 중국 차량 ICC A B C
-- **세컨드 검색 이용 약관**: 연구소 화물 클레즈 모든 위험, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C 최소, Hague-Visby SDR 캐리어 캡, RoRo 차량 보험, EV 배터리 화재 바다 커버
-- ** 내부 링크 제안**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/commercial-truck-fleet-procurement-china/; /guides/used-chinese-ev-inspection/
-- ** 이미지 제안 **: ICC A/B/C 적용 피라미드; Incoterm에 의하여 위험 의무 시간선; 전 선적 상태 사진 세트; 차량 가치 간격을 위한 운반대 모자
-- **ALT 제안**: "화물은 B C 적용 계층을 주장"; "CIF는 Incoterms 2020 "; "신용 차량 상태 기록 청구"의 밑에 CIP 판매인 보험 의무를 주장합니다.
+## SEO 메타데이터
+- **SEO 제목**: 수입 중국 자동차의 해양 보험: ICC 찰흙 및 클레임
+- **메타 설명**: 바다 교통에서 중국 차량이 올바르게 유지 - 공식 연구소화물 표지 (A) / (B) / (C), 왜 자동차가 모든 강석을 필요로하는 이유, CIF/CIP Incoterms 2020 보험 의무, 보험 가치 협약 및 청구.
+- **H1**: 오션 트랜지션의 중국 차량 중: 찰스 티어, 스텝 인어 및 클레임이 실제로 지불되는 방법
+- **주요 키워드**: marine cargo insurance imported Chinese vehicle  ICC  A B C
+- **보조 검색어**: 학회 화물은 모든 위험을, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC 돕습니다 C 최소, Hague-Visby SDR 캐리어 캡, RoRo 차량 보험, EV 배터리 화재 바다 커버
+- **추천 URL**: /guides/marine-cargo-insurance-car-import/
+- **검색 의도**: Ocean Transit의 중국 차량 중의 이해: Clause Tier, Sum Insured 및 Claim이 실제로 유료하는 방법: 차량/부품 수출자가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **이미지 제안**: ICC A/B/C 적용 피라미드
+- **ALT 텍스트**: 연구소 화물은 B를 덮습니다 C 적용 층
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## Misconception 그 비용 수입자 돈
 구매자는 FOB 또는 CIF의 밑에 ** 선을 완전히 보상하는 ** 긁힌, 분쇄해, 도난당한 또는 물 손상된 차량이라고 가정합니다. 그것은 아닙니다: 캐리어 책임은 차의 가치의 밑에 멀리 국제 경기에 의해 모자를 씌우고, 당신이 선택하는 화물은 당신이 보통 교통 손상이 전부에 덮는지 결정합니다. 이 페이지는 ** 중국에서 배송 차량에 대한 마린화물 보험 ** (세계 바다 노선) - 조항 및 주장, Incoterm 가격과 RoRo-vs-container 선택에서 구별.
 ## 세 개의 항목 계층 — 공식 단어에 고정
@@ -52,18 +55,18 @@ ICC (A)는 넓지 않습니다, 절대: 그것은 기계적인 전기 고장, �
 **CIF 또는 CIP - 기본은 더 강하다? ** Incoterms 2020 CIP의 밑에 적어도 ICC (A); CIF는 ICC (C)에, 그래서 쓰기에 CIF 수요 (A)에 과태를 요구합니다.
 **모든 위험에 의해 덮은 EV 배터리 화재가 있습니까? ** 그것은 단어에 따라 달라집니다 — EV 선언하고 서면 확인을 얻었다.
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,9 +83,9 @@ ICC (A)는 넓지 않습니다, 절대: 그것은 기계적인 전기 고장, �
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 연구소 화물 클레즈 (A) 1/1/09 공식 단어 (CL382) | Lloyd's Market Association (**market/standards body 공식**) | - 연혁 | https: | 2026-09-03 | ** 인증** | ICC (A) "모든 위험"범위 및 제외; 공식 항목 단어 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf
-| Incoterms 2010 대 2020 (CIP는 ICC (C)에서 ICC (A)로 이동 | 국제 상공 회의소 (**표준 신체 공식**) | - 연혁 | https: | 2026-09-03 | ** 인증** | CIP 최소 ICC로 상승 (A); CIF는 ICC (C)를 유지합니다 | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm
-| Incoterms 2020 - CPT 또는 CIP (판매업자 보험 의무) | ICC 아카데미 (**ICC 공식**) | - 연혁 | https: | 2026-09-03 | ** 인증** | CIP 판매자 계약 유료 보험은 장소 이름을 지정 | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/
+| 연구소 화물 클레즈(A) 1/1/09 공식 상품권(CL382) | Lloyd's Market Association(**market/standards body**) | | 2026-09-03 | ** 인증** | ICC (A) "모든 위험"범위 및 제외; 공식 항목 단어 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf
+| Incoterms 2010 대 2020 (CIP는 ICC (C)에서 ICC (A)로 이동 | 국제 상공 회의소 (**표준 신체 공식**) | - 연혁 | https: | 2026-09-03 | ** 인증** | CIP 최소 ICC로 상승 (A); ... ...에서 ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm
+| Incoterms 2020 - CPT 또는 CIP (판매업자 보험 의무) | ICC 아카데미 (**ICC 공식**) | - 연혁 | https: | 2026-09-03 |** 인증** | CIP 판매자 계약은 ◇ 後 | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/
 | 학회소개 의제 날짜 & RoRo 차량 덮개 | Voyage Cover (특별자치도, LMA/IUA, Hague-Visby) | - 연혁 | https://voyagecover.com/guides/institute-cargo-clauses 사용 | 2026-09-03 | CROSS_체크 | CL382/383/384 번호, 1 Jan SDR 캡 컨텍스트 | 2009
 | 110% 인수가치 컨벤션 속도 가변성 | Portlogics & PLANETCARS (산업) | - 연혁 | https://www.portlogics.com/insights/marine-cargo-insurance 통해 | 2026-09-03 | CROSS_체크 | 운영 110% 컨벤션 및 per-shipment 비율; Incoterms 대 UCP 기지는 몸에서 구별 |
 | 한국용 자동차 마린 보험 클레임(ICC A/B/C 对比) | SH GLOBAL(주) | - 연혁 | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE(싱글) | ICC (A/B/C) 覆盖范围년 |

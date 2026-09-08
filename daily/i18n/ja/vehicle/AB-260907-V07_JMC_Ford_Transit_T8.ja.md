@@ -1,16 +1,16 @@
 # JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られる中国市場大きいヴァンの参照
-## ツイート メタデータ
-- **SEOタイトル**:JMCフォードトランジットT8 中国市場バンスペックスと輸出チェック | オートブリッジ
-- **メタ 記述**: JMCの中国市場参照 フォード・トランジットT8の大きいバン: three wheelbases, 中/高屋根,  two diesel lines kept separate, 貨物容積,  and  なぜ、グローバルフォードトランジットと同一と仮定されていないのですか?
-- H1 **: JMCフォードトランジットT8(Quanshun T8):ホイールベース、屋根、貨物の容積の周りに構築された中国市場大型バンリファレンス
-- **主なキーワード**: JMC フォード・トランジットT8の輸出仕様
-- **二次検索条件**:江铃福特全顺 T8; トランジットT8寸法; T8貨物量; 2.3Tディーゼル8ATバン; 中国大型バン輸出; Quanshun T8
-- **混雑したURL**: /vehicles/jmc-ford-transit- t8/
-- **Search Intent**: 面向海外买家介绍江铃福特全顺 T8 中国市场身份、三轴距 / 中高顶、两套柴油动力与货厢容积、并守住与全球 Transit 的身份边界
-- **内部リンクの提案**: /vehicles/saic-maxus- g90/、 /vehicles/qingling-isuzu- kv100/、/guides/verify-chinese-car-export-supplier-history/
-- **イメージ提案**:側面図から示すJMCフォード・トランジットT8の高屋根の貨物バンは長さを表示するために
-- アルト 提案**:中立地面のハイルーフJMCフォード・トランジットT8のバンの側面のプロフィール
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: JMC  Ford Transit T8 China-Market Van Specs  and  輸出チェック | オートブリッジ
+- **メタディスクリプション**: JMCの中国市場参照 フォード・トランジットT8の大きいバン: three wheelbases, 中/高屋根,  two diesel lines kept separate, 貨物容積,  and  なぜ、グローバルフォードトランジットと同一と仮定されていないのですか?
+- **H1**: JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られる中国市場大きいヴァンの参照
+- **主要キーワード**: JMC  Ford Transit T8 export specs
+- **関連検索語**: 江铃福特全顺 T8; トランジットT8寸法; T8貨物量; 2.3Tディーゼル8ATバン; 中国大型バン輸出; Quanshun T8
+- **推奨URL**: /vehicles/jmc-ford-transit-t8/
+- **検索意図**: JMCフォード・トランジットT8 (Quanshun T8)に耐えて下さい:Wheebase、屋根および貨物容積のまわりで造られる中国市場大きいヴァン参照:車/部品輸出者が順序に託す前に確認し、文書をし、決定しなければならないか。
+- **内部リンク候補**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **画像候補**: JMC フォード・トランジット T8 の側面のプロフィールから示される高い屋根の貨物バンは長さを表示するために
+- **ALTテキスト**: 中立地面の高屋根JMCフォード・トランジットT8のバンの側面のプロフィール
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 JMCフォード・トランジットT8 (江铃福特全顺 T8)は中国のJianglingモーターによって造られる大型バン/大バス プラットホームです、 乗客で販売  and  複数のホイールベースに貨物フォーム  and  屋根の高さ, リアホイール駆動で  and  four-wheel-drive configurations. 市販の買い手にとって、注文ロジックは幾何学的です。 **ホイールベース×ルーフ高さ×ボディスタイル×エンジン**は、車両を定義し、その修飾子なしで「Transit T8」が不足しています。 このページは**中国語市場の参考**です。 It keeps the two diesel lines separate  and  — 重要なのは、** は、グローバル・フォード・トランジットで JMC ビルド・クアンスン T8 を装備していません。 同じモデルのOEMステートメントが関連しているのではなく、同一証明されていない。
 

@@ -1,14 +1,16 @@
 # Construction d'un réseau de pièces et de garantie après-vente à l'étranger depuis un départ permanent
-## OEuvre Métadonnées
-- ** Titre du référencement**: Guide de configuration du réseau après-vente, pièces et garantie outre-mer
-- **Description détaillée**: Comment un exportateur de véhicules construit une après-vente à l'étranger viable - modèles de réseau assortis à la base installée, stock de pièces régionales, promesses de garantie assortis à la capacité de service réelle, et la politique chinoise attendue derrière elle.
+## Métadonnées SEO
+- **Titre SEO**: Après-vente outre-mer, pièces et garantie Guide de configuration du réseau
+- **Description meta**: Comment un exportateur de véhicules construit une après-vente à l'étranger viable - modèles de réseau assortis à la base installée, stock de pièces régionales, promesses de garantie assortis à la capacité de service réelle, et la politique chinoise attendue derrière elle.
+- **H1**: Construction de pièces de rechange et de capacités de garantie pour les véhicules exportés
+- **Mot-clé principal**: Export de la garantie de sécurité de pièces après-vente
+- **Termes de recherche secondaires**: URSS, politique de l'aide, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à la production, aide à
 - **URL suggérée**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: Construction de pièces de rechange, de capacités de garantie et de matériel après-vente outre-mer pour les véhicules exportés
-- **Mot-clé principal**: Exportateur de configuration réseau de pièces après-vente
-- **Conditions de recherche secondaires**: réseau de services à l'exportateur outre-mer, entrepôt régional de pièces, politique de garantie des véhicules outre-mer, réseau de réparation multimarques indépendant, support après-vente de concessionnaires
-- **Suggestions de lien interne**: /guides/véhicule-exportation-vente-contrat-clauses/; /guides/chine-véhicule-exportation-licence-douane-documents/; /guides/outre-mer-après-vente-parties-réseau-garantie/
-- **Suggestions d'image**: arbre de décision de la base installable→modèle réseau; niveaux de stock de pièces; boucle de garantie-capacité
-- ** Suggestions ALT**: "modèle de réseau après-vente par base installée"; "niveaux de stock de pièces régionaux"
+- **Intention de recherche**: Comprendre la capacité de garantie des véhicules exportés à l'étranger après la vente: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **Suggestion d'image**: installated-base→arborescence de décision du modèle de réseau
+- **Texte ALT**: Modèle de réseau après-vente par base installée
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Portée: Il s'agit de service d'exploitation, ne pas acheter de pièces de rechange
 Ce guide couvre **la vente après-vente, la fourniture de pièces et l'exécution de la garantie** dans un marché de destination. Il est délibérément distinct du thème distinct de *procurer* pièces de rechange en Chine (un cluster de contenu de rechange existant) — les composants d'approvisionnement sont une entrée; cette page est sur la capacité d'exploitation **** qui transforme ces pièces en temps de disponibilité du client.
@@ -52,18 +54,18 @@ Une garantie n'est crédible que dans la mesure où le réseau peut l'honorer:
 **En quoi est-ce différent d'un guide "achat de pièces détachées"?** Cela couvre les pièces d'approvisionnement en Chine; cela couvre l'exploitation de la capacité de service/parties/garantie sur le marché de destination.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf

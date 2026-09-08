@@ -7,8 +7,10 @@
 - **Primary Keyword**: export payment methods t t lc risk
 - **Secondary Search Terms**: export payment terms; irrevocable L/C; T/T deposit; documentary collection; open account risk; UCP600
 - **Suggested URL**: /guides/export-payment-methods-t-t-lc-risk/
-- **Search Intent**: 出口商如何在汽车订单中选择并安全使用电汇/信用证等结算方式、识别软条款与银行风险
+- **Search Intent**: Understand Payment Methods in Chinese Vehicle Export — T/T, L/C, D/P, D/A, O/A Risk Controls: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/incoterms-2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Payment Methods in Chinese Vehicle Export — T/T, L/C, D/P, D/A, O/A Risk Controls, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Payment Methods in Chinese Vehicle Export — T/T, L/C, D/P, D/A, O/A Risk Control, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Why payment structure decides whether a vehicle deal is safe

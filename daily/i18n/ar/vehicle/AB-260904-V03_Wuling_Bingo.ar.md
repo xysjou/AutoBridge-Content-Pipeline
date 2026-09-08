@@ -1,15 +1,17 @@
-# Wuling Bingo (缤果): a Small Chinese Electric Hatchback — Specs and Exporter checks
+# Wuling Bingo ():) )أ( شاحنات كهربائية صينية صغيرة - فحوصات خاصة بالشركات والمصدرين
 
-## SEO Metadata
-- ** عنوان الحلقة**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- ** وصف البيانات**: بطارية "اللونج بينغو" الصغيرة  203/333/410 km CLTC steps,  30/50 kW motors, العاصمة تشحن بسرعة الأبعاد  and  ما يجب على المستوردين التحقق منه
-- ** URL المقترض**: /مركبات/مركبة
-- ** H1 **** Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
-- ** كلمة رئيسية رمزية**: مواصفات تصدير ثنائية في المواصفات
-- ** شروط البحث الثانية**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
-- ** Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/vehicle-export-pdi-preshipment-handover/; /vehicles/byd-qin-l-dm-i/
-- ** اقتراحات مجازية**: جانب البنغو من خمسة أبواب؛ 203 مقابل 333/410 شارة؛ حمولة خلفية مع مقاعد محشوة؛ ميناء الشحن؛ مقصورة من أربع طوابق
-- ** الاقتراحات**: "العملة الصخرية الصغيرة للكهرباء الصينية" "Wuling Bingo CLTC range 203 333 410 km"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **وصف Meta**: Chinese-market Wuling Bingo small  BEV  —  LFP  battery,  203/333/410 km  CLTC  steps,  30/50 kW motors, DC شحن سريع الأبعاد  and  ما يجب على المستوردين التحقق منه كل تريم
+- **H1**: Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
+- **الكلمة المفتاحية الرئيسية**: تصدير مواصفات بنغو
+- **مصطلحات بحث ثانوية**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 spec
+- **URL المقترح**: /vehicles/wuling-bingo/
+- **نية البحث**: Understand Wuling Bingo: Chinese-Market Small EV Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **اقتراح الصورة**: خمسة أبواب جانبي
+- **نص ALT**: مطياف كهربائي صغير
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## مشتري الكونت: مركب بي في المدينة بيع في ثلاث خطوات رنجية
 البنغو هو وولينغ خمسة باب من فتحات الكهرباء الصغيرة، موجهة إلى المناطق الحضرية  and  استخدام شخصي في التجارة الخفيفة بالنسبة للمصدر، المتغير الحاسم هو الخطوة**، لأن الطاقة النارية والبطارية والسرعة القصوى تتغير معها. هذه الورقة تغطي خط السوق الصيني البالغ 2024 ** (الإنذار: الصين**؛ ومن دون صفحة من طراز OEM في الخارج، تعد الأرقام الصينية مرجعا، وليس مواصفات عالمية.
@@ -85,20 +87,20 @@
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | صرخات | 17.3 kWh, 30 kW 85 N·m, range, top speed |
-| Bingo 2024 203km parameters | قاعدة بيانات سوهو | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | صرخات | الطلقات، قاعدة العجلات، البطارية، المقاعد |
-| 2024 مجموعة من المعلومات المستكملة السريعة | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | صرخات | خطوات الرنج، 50 kW، دقائق الشحنات في العاصمة، مركز مكافحة الإرهاب |
+| Bingo 2024 203km parameters | PRO | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | − voments المعقودة حسب المقرر الخاص المعني بالعمالة في الخارج،
+| 2024 مجموعة من المعلومات عن طريق | Autohome | Autohome | CN. https://chejiahao.m.autohome.com.cn/info/24300800 ، 2026-09-04 | ات −ments |но ،м،. 50 كيلوواط، مؤثرات في المناطق، وارتباطات
 | بُعداً مُعدّةً لمقعد الجلوس | سيارة | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE OURCE | 2+2 مقعد | 16888
-| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | صرخات | محرك مدي |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Wuling Bingo 2025 full-line config - PCauto config CN | https://car.pcauto.com.cn/360/m133517/config.html - 2026-09-04 | صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ 
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 
 * ملاحظة الملاءمة: تم فحص بطارية الدخول/قوة الدخول؛ وتكسير السيارات، وحجم الشحنات، وحسابات المقاعد، ودقائق الشحن، من مصدر واحد وعلامة. No OEM overseas page - Chinese-market reference only. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، 2024 Wuling Bingo (Chinese-market reference; CLTC stated; not a global spec)
 - ** طريقة التأجيل**: فحص شامل لقاعدة البيانات المتعددة؛ وفحص بين الطراز الواحد؛ وأصناف ذات مصدر واحد مثبتة

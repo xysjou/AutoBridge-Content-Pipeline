@@ -6,7 +6,7 @@
 - **Primary Keyword**: china e-port enrollment ic card operator legal person
 - **Secondary Search Terms**: 中国电子口岸入网; 法人卡; 操作员卡; e-port IC card; customs registration e-port onboarding; chinaport card issuance
 - **Suggested URL**: /guides/china-e-port-enrollment-ic-card-operator/
-- **Search Intent**: 电子口岸入网如何随海关注册同步完成、法人卡与操作员卡的层级关系与数量/授权规则
+- **Search Intent**: Understand China E-Port Enrollment: The Legal-Person Card and Operator-Card Hierarchy Explained: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
 - **Image Suggestion**: A company administrator inserting an electronic-port IC card reader while managing operator permissions on screen
 - **ALT Suggestion**: IC card in a reader beside an electronic-port permission management screen

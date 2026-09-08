@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide
 - **Meta Description**: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, Weichai engine, Fast 12-speed, 31 t GVW, 7.6 m rear-tip body, axles and export emission choices for fleet buyers.
-- **Suggested URL**: /vehicles/shacman-x3000-dump-truck/
 - **H1**: Shacman Delong X3000 Dump Truck: Chassis, Tipping Body and Export Build Choices
 - **Primary Keyword**: Shacman X3000 dump truck specifications export
 - **Secondary Search Terms**: Shacman X3000 8x4 tipper, Delong 430 dump truck, Weichai WP12 430, Fast 12-speed tipper, Chinese 31t dump truck export, Shacman 6x4 dump
+- **Suggested URL**: /vehicles/shacman-x3000-dump-truck/
+- **Search Intent**: Understand Shacman Delong X3000 Dump Truck: Chassis, Tipping Body and Export Build Choices: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
-- **Image Suggestions**: 8x4 tipper side view; 7.6 m rear-tip body raised; MAN-type axles and suspension; Weichai WP12 engine; chassis frame detail
-- **ALT Suggestions**: "Shacman Delong X3000 8x4 dump truck, China reference build"; "X3000 7.6 metre rear-tipping body raised"; "Shacman X3000 tandem reduction axles"
+- **Image Suggestion**: 8x4 tipper side view; 7.6 m rear-tip body raised; MAN-type axles and suspension; Weichai WP12 engine; chassis frame detail
+- **ALT Suggestion**: Shacman Delong X3000 8x4 dump truck, China reference build
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Role and Line-up
 

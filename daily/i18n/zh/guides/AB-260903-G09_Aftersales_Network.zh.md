@@ -1,14 +1,16 @@
 # 从一个固定的起点开始,建立一个海外售后、零部件和保证网络
-## 道德操守办公室 元数据
-- ** SIO标题**:海外售后、零部件和准证网络设置指南
-- ** 金属说明**: 汽车出口商如何在国外建立可行的售后市场——网络模型与安装的基地、区域零部件库存、与实际服务能力匹配的保修承诺以及背后的中国政策期望。
-- ** 推荐的URL**: 指南/海外-售后-部分-保税-网络/
-- ** H1 资源需求。 ** 建设出口车辆的海外售后零部件和保证能力
-- ** 基本关键词**:海外售后零部件保修网的建立出口商
-- ** 二级搜索术语**:海外出口商服务网络、区域零件仓库、海外车辆保修政策、独立的多品牌维修网络、经销商售后支助
-- ** 内部链接建议**: /指南/车辆-出口-销售-合同-申报/;/指南/钦那-车辆-出口-许可证-海关-文件/;/指南/海外-后售-部分-保税-网络/
-- ** 图像建议**:安装-基数+网络-模型决策树;零件库存级;保修能力匹配循环
-- **ALT建议**: "按安装基座划分的售后网络模型"; "区域零件库存级"
+## SEO元数据
+- **SEO标题**: 海外售后、零部件和保证 网络设置指南
+- **Meta描述**: 汽车出口商如何在国外建立可行的售后市场——网络模型与安装的基地、区域零部件库存、与实际服务能力匹配的保修承诺以及背后的中国政策期望。
+- **H1**: 建设出口车辆的海外售后、备件和保证能力
+- **核心关键词**: 海外售后零部件保修网络的建立出口商
+- **次级搜索词**: 海外出口商服务网络、区域零部件仓库、海外车辆保修政策、独立的多品牌维修网络、经销商售后支助
+- **建议URL**: /guides/overseas-aftersales-parts-warranty-network/
+- **搜索意图**: 了解“制造出口车辆的海外售后、备件和保证能力:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定的内容”。
+- **内链建议**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **图片建议**: 已安装的基数 + 网络模型决策树
+- **ALT文本**: 已安装的售后网络模型
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 范围: 这是关于操作服务, 不是购买备件
 本指南涵盖目的地市场** 的售后、零部件供应和保修完成情况。 它与中国境内*采购*备件(现有备件_部件内容集群)这个单独专题有意不同——采购组件是一种投入;本页是关于将这些部件变为客户正常时间的**业务能力**。
@@ -52,18 +54,18 @@
 ** 这与“购买备件”指南有何不同? ** 这包括在中国采购部件;这包括经营目的地市场的服务/部件/保税能力。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf

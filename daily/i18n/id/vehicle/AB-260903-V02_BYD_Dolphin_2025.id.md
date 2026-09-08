@@ -1,14 +1,16 @@
 # BYD Dolphin 2025 (China): Baterai, CLTC Range dan Dua Kelas Motor untuk Importers
-## SEO Metadata
-- ** Seo Judul ** BYD Dolphin 2025 Cina Specs: Baterai, Rentang & Ekspor Cek
-- ** Meta Description **: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grade,  420/520 km CLTC, DiPilot, dengan China- vs- overseas- spec disiplin untuk pembeli.
-- ** Sugested URL **: kendaraan byd- lumba-lumba
--   H1 ** BYD Dolphin 2025 (Cinese- Market): Variants, Battery, Range Cycle dan Expor Verifikasi
-- ** Primary Keyword **: byd lumba-lumba 2025 jangkauan spesifikasi baterai
-- ** Akhir Pencarian Second **: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD kecil EV export, Dolphin DiPilot, China EV GB T pengisian
-- ** Internal Link Sugestions **: kendaraan byd-yuanplus kendaraan farizon -xingxiang- v6e-specs/; guide chinese-change- charging- kompabilitas giler ev vingxiang- un3171-imdg-compliance/
-- *** Saran Gambar **: standar vs perbandingan kelas Knight; nada Blade Battery; port GB T charge; berputar infotainment layar; tempat duduk belakang
-- ** Saran ALT **: "BYD Dolphin 2025 dua nilai baterai"; "Dolphin CLTC range versus siklus luar negeri"
+## Metadata SEO
+- **Judul SEO**: BYD Dolphin 2025 Cina Specs: Baterai, Rentang & Ekspor Cek
+- **Deskripsi Meta**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grade,  420/520 km  CLTC , DiPilot, dengan China- vs- overseas- spec disiplin untuk pembeli.
+- **H1**: BYD Dolphin 2025 (Cinese- Market): Variants, Battery, Range Cycle dan Expor Verifikasi
+- **Kata kunci utama**: byd lumba-lumba 2025 jangkauan spesifikasi baterai
+- **Istilah pencarian sekunder**: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD kecil EV ekspor, Dolphin DiPilot, China EV GB/T pengisian
+- **URL yang disarankan**: /vehicles/byd-dolphin/
+- **Maksud pencarian**: Memahami BYD Dolphin 2025 (Cinese- Market): Varians, Battery, Range Cycle dan Expor Verifikasi: apa yang sebuah kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum melakukan sebuah urutan.
+- **Saran tautan internal**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Saran gambar**: perbandingan standar vs Knight
+- **Teks ALT**: BYD Dolphin 2025 dua kelas baterai
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Keputusan EV Dimulai Dengan Baterai dan Siklus
 Dolphin adalah hatchback baterai kompak BYD pada e- platform 3.0 dengan LFP Blade Battery. Untuk EV, pesanan adalah baterai yang dipakai untuk siklus ** motor ** SD McGuercharging software, bukan nomor judul tunggal. Halaman ini mencakup ** 2025 Cinese- baris pasar (REFERENCE MARKET: CHINA) *. BYD juga menjual mobil "Dolphin" di pasar luar negeri; itu namanya kelanjutan, ** tidak * a 1: 1 cocok dengan ukuran baterai luar negeri, siklus jangkauan bersertifikat (WLTP NEDC) dan peralatan berbeda dan harus dibaca dari lembar tujuan, tidak pernah dianjurkan dari nomor-nomor Cina.
@@ -56,18 +58,18 @@ Tidak ada harga ekspor statis diterbitkan. RMB 99,800 angka awal Cinaadalah ** d
 ** Apakah Dolphin Cina biaya luar negeri tanpa modifikasi? ** Verifikasi proses masukan GB T terhadap infrastruktur tujuan di VIN; adaptor saja mungkin tidak menyelesaikan perbedaan protokol.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug

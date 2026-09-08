@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan: 중국 시장 CMP Compact Sedan Reference, 현재 라인 대 이전 Mach 버전
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Dongfeng Aeolus Yixuan China-Market Specs and Export Buyer Check | 오토브리지
-- **마타 기술 **: Dongfeng Aeolus Yixuan CMP 세단을 위한 중국 시장 참고: 차원, 현재 2025 1.5L 선은 오래된 Mach 1.5T를 분리하고, 수출 구매자를 위한 VIN 수준 체크를 지킵니다.
-- ** H1 **: Dongfeng Aeolus Yixuan: 중국 시장 CMP Compact Sedan Reference, 현재 라인 대 이전 Mach 버전
-- ** 출원 키워드**: Dongfeng Aeolus Yixuan 수출 specs
-- ** 보조 검색 조건 **: 东风风神奕炫; Aeolus Yixuan 차원; Yixuan 1.5L WLTC; Mach 1.5T 세단; 중국 CMP 세단 수출
-- **Suggested URL**: /vehicles/dongfeng-aeolus-yixuan/
-- ** 수색 **: 面向海外买家介绍风神奕炫中国市场身份、 尺寸、 当前 1.5L 与较早马赫版 1.5T 的版本边界
-- ** 내부 링크 제안**: /vehicles/jetour-dashing/, /vehicles/saic-maxus- g90/, /guides/verifynese-chi-car-export-supplier-history/
-- ** 이미지 제안**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
-- ** ALT 제안**: 동풍 아에올루스 이완 세단의 앞 세쿼터 뷰
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: Dongfeng Aeolus Yixuan 중국 시장 Specs 및 수출 구매자 검사 | AutoBridge
+- **메타 설명**: Dongfeng Aeolus Yixuan CMP 세단을 위한 중국 시장 참고: 차원, 현재 2025 1.5L 선은 오래된 Mach 1.5T를 분리하고, VIN - 수출 구매자를 위한 수준 체크를 지킵니다.
+- **H1**: Dongfeng Aeolus Yixuan: 중국 시장 CMP Compact Sedan Reference, 현재 라인 대 이전 Mach 버전
+- **주요 키워드**: Dongfeng Aeolus Yixuan 수출 specs
+- **보조 검색어**: 东风风神奕炫; Aeolus Yixuan 차원; Yixuan 1.5L WLTC; Mach 1.5T 세단; 중국 CMP 세단 수출
+- **추천 URL**: /vehicles/dongfeng-aeolus-yixuan/
+- **검색 의도**: Dongfeng Aeolus Yixuan를 이해하십시오: 중국 시장 CMP Compact Sedan Reference, 현재 라인 대 이전 Mach Version: 차량/부품 수출업체가 확인해야 하는지, 문서와 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
+- **ALT 텍스트**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 The Dongfeng Aeolus Yixuan (风神奕炫) is the compact three-box/fastback sedan built on the CMP platform  and  Dongfeng의 Aeolus (Fengshen) 여객 차량 상표의 밑에 중국에서 판매되는. 이 모형에 있는 구매자risk는 구조상 보다는 오히려 임시입니다: 현재 2025 온 판매 선은 자연적으로 평가된 1.5-litre 차, 더 높은 산출 “Mach” (马赫) 1.5T가 이전 2022/2023 powertrain 파에 속합니다. 현재의 세단이 가장 일반적인 버전 오류인 경우 이전 터보 출력을 할당합니다. 이 페이지는 ** 중국 시장 참고 **, 글로벌 사양 시트; 수출 시장 버전은 분리된 OEM 증거를 필요로 하고, 단 하나 근원 산출은 확인을 위해 뜹니다.
 

@@ -1,15 +1,17 @@
 # Foton General G9 Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  輸出チェック
 
-## ツイート メタデータ
-- **SEOタイトル**: Foton General G9ピックアップ2025:中国市場ディーゼル/ペトロール仕様&エクスポートガイド
-- **メタ 説明**:中国市場 Foton の一般 G9 (大将军 G9) ピックアップ: 2.0T ディーゼルおよびガソリン ライン、6MT/8AT、RWD/ 4WD、ベッドおよびホイールベース寸法、および競合するディーゼル トルクは、フラグが付けられます。
-- H1 ホテル **: Foton General G9 Dajiangjun G9 (2025) — 中国市場ピックアップ仕様と輸出チェック
-- **主なキーワード**: Foton 福田 General G9 大将军G9 皮卡 specs export
-- **二次検索条件**: Foton General G9輸出; Dajiangjun G9ピックアップ; 中国ディーゼルピックアップ; 4WDピックアップ; ダブルキャブ
-- **混雑URL**: /vehicles/foton-general- g9/
-- **Search Intent**: 了解 Foton 福田 General G9 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
-- **内部リンクの提案**: /vehicles/foton-general- g9/、/guides/vehicle-export-hs-code-history/、/guides/emission-fuel-compatibility-history/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: Fotonの一般G9の積み込み2025:中国市場ディーゼル/PetrolのSpecs及び輸出ガイド
+- **メタディスクリプション**: 中国の市場 Foton の一般 G9 (大将军 G9) ピックアップ: 2.0T ディーゼルおよびガソリン ライン、6MT/8AT、RWD/4WD、ベッドおよびホイールベース次元、および衝突するディーゼル トルクは旗付けました。
+- **H1**: Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  輸出チェック
+- **主要キーワード**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
+- **関連検索語**: Fotonの一般G9の輸出;Dajiangjun G9の積み込み;中国のディーゼル ピックアップ;4WDの積み込み;二重タクシー
+- **推奨URL**: /vehicles/foton-general-g9/
+- **検索意図**: 平均価格の基準 G9 / Dajiangjun G9 (2025) - 中国市場ピックアップ仕様と輸出チェック: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **画像候補**: リアルで、文書/車両に焦点を当てたシーンをイラスト化 Foton General G9 / Dajiangjun G9 (2025) — 中国市場ピックアップ仕様と輸出チェック、段階的な検査や要求の人々。
+- **ALTテキスト**: クローズ、材料の自然な眺めおよびFotonの一般G9/Dajiangjun G9 (2025) - 中国市場ピックアップ仕様と輸出、中立背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキスト: a work pickup with two fuel lines
 ** フォトン・ジェネラル G9 (大将军 G9), 2025**は**のディーゼルで販売される中国市場のボディ・オン フレームの積み込みです  and  ガソリン ライン**,  and  rear- or four-wheel drive. 輸出バイヤーのために決定的な分野は、ベッドのサイズ、ホイールベース、ドライブトレイン、そして正確なエンジンです。単一の「G9」スペックではありません。 参照の市場は**中国**です。
@@ -54,7 +56,6 @@
 **長期寸法?** シングルソースはこちら; 注文する前にクロスチェック.
 **ディーゼル燃料は?** 中国VI、0 #ディーゼル; 目的地の燃料の互換性を確認します。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
@@ -74,18 +75,18 @@
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確な Foton の一般 G9 ピックアップ
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 正確な Foton の一般 G9 の積み込み
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
   - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer
@@ -98,6 +99,5 @@
   - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup

@@ -1,16 +1,16 @@
 # Geely Preface (Xingrui): Ein China-Markt CMA Sedan Käufer Referenz für Export
-## SEO Metadaten
-- **SEO Titel**: Geely Preface (Xingrui) Export Specs, Trims und Käufer-Checks
-- **Meta-Beschreibung**: Chinesische Marktreferenz für die Geely Preface Xingrui CMA Limousine: Körper und Abmessungen, 1.5T und 2.0T Varianten getrennt gehalten, und was ein ausländischer Käufer von VIN überprüfen muss.
-- ** H1 **: Geely Preface (Xingrui): Ein China-Markt CMA Sedan Käufer Referenz für Export
-- **Hauptschlüsselwort**: Geely Vorwort Xingrui Export Specs
-- **Secondary Search Terms**: Geely Preface CMA Limousine; Xingrui Dimensionen; Geely Vorwort 2.0T 8AT; Chinesische Limousine Export China spec; Vorwort trim Unterschiede
-- **Suggested URL**: /vehicles/geely-preface/
-- **Search Intent**: 面向海外B端买家介绍Preface（星瑞）中国市场版本身份、尺寸/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- **Bild-Vorschlag **: Eine weiße Geely Preface CMA-Limousine von vorne drei Viertel in einem sauberen Studio-Einstellung gezeigt
-- **ALT Vorschlag **: Front drei Viertel Ansicht einer Geely Preface Limousine auf einem neutralen Hintergrund
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: Geely Preface (Xingrui) Export Specs, Trims und Käufer-Checks
+- **Meta-Beschreibung**: Chinesische Marktreferenz für die Geely Preface / Xingrui CMA Limousine: Körper und Abmessungen, 1.5T und 2.0T Varianten getrennt gehalten, und was ein ausländischer Käufer von VIN überprüfen muss.
+- **H1**: Geely Preface (Xingrui): Ein China-Markt CMA Sedan Käufer Referenz für Export
+- **Haupt-Keyword**: Geely Vorwort Xingrui Export Specs
+- **Sekundäre Suchbegriffe**: Geely Preface CMA Limousine; Xingrui-Dimensionen; Geely Vorwort 2.0T 8AT; Chinesische Limousine Export China spec; Vorwort trim Unterschiede
+- **Vorgeschlagene URL**: /vehicles/geely-preface/
+- **Suchabsicht**: Verstehen Geely Vorwort (Xingrui): Ein China-Markt CMA Sedan Käufer Referenz für Export: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **Bildvorschlag**: Eine weiße Geely Preface CMA Limousine von vorne drei Viertel in einem sauberen Studio-Einstellung gezeigt
+- **ALT-Text**: Front Dreiviertelansicht einer Geely Preface Limousine auf einem neutralen Hintergrund
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Die Geely Preface (chinesischer Name Xingrui) ist die kompakte mittelgroße viertürige Limousine Geely, die auf der CMA (Compact Modular Architecture) entwickelt wurde und mit breiteren Produkten der Geely-Gruppe geteilt wird. Für einen Käufer aus China ist die Schlüsseldisziplin die Versionskontrolle: Die Linie wurde über mehrere Modelljahre mit 1.5-litre und 2.0-litre Turbo-Benzin-Antriebssträngen verkauft, und die angegebenen Leistungszahlen unterscheiden sich zwischen älteren und neueren Verkleidungen. Diese Seite ist eine ** chinesische Marktreferenz**; es ist kein globales Spezifikationsblatt, und jedes Exportmarktvorwort muss separat belegt werden.
 

@@ -1,15 +1,17 @@
 # Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط  and  ضوابط التصدير
 
-## SEO Metadata
-- ** عنوان المنظمة**: " تينغ م. م. م. ": خطا المريخ الصيني - الصيني - PHEV " ، و " Specs " و " دليل التصدير "
-- ** وصف البيانات**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: (أ) إبقاء خطوط ICE و PHEV منفصلة؛ أبعاد، 7-seat كوخ، ومحطة PHEV لتوليد الطاقة، ونقاط التحقق من الصادرات.
-- ** H1 **: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط  and  ضوابط التصدير
-- ** كلمة مفتاحية رمزية**: دونغفنغ 东风风行 تصدير 风行游艇
-- ** شروط البحث الثانية**: تصدير يوتنغ؛ 游艇 ميغاواط؛ 7-seat ميغاواط؛ ميغاواط صيني؛ ميغافولت؛ ميغابايت ميغافول؛ ميغابايت؛ مركب فان
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /المركبات/لكل شيء
-- ** الحلقة الدراسية**: 了解 Dongfeng Forthing 东风风行 Youting 风行游艇 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/forthing-youting/, /guides/ckd-knockd-kit-export-assembly/, /guides/export-document-package-history/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Forthing Youting MPV: Chinese-Market ICE ' PHEV الخطّ والخطّ والدليل التصديري
+- **وصف Meta**: Chinese-market Dongfeng Forthing Youting (游艇)  MPV : (ب) أن تفصل بين خطي الـ ICE وPHEV؛ الأبعاد، 7-seat كوخ، PHEV نقطة للتنقيب عن الطاقة الكهربائية والصادرات.
+- **H1**: Dongfeng Forthing Youting (2025/2026) — Chinese-Market  MPV  Specs, ICE/PHEV خطوط  and  ضوابط التصدير
+- **الكلمة المفتاحية الرئيسية**: دونغفنغ للشيء 东风风行 تصدير اليوتنغ/ 风行游艇
+- **مصطلحات بحث ثانوية**: - تصدير يوتينج؛ 游艇  MPV  specs; Chinese 7-seat  MPV ; MPV   PHEV ; شاحنة لنقل الركاب
+- **URL المقترح**: /vehicles/forthing-youting/
+- **نية البحث**: Understand Dongfeng Forthing Youting (2025/2026) — Chinese-Market  MPV  Specs, ICE/PHEV خطوط  and  ضوابط التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **اقتراح الصورة**: واقعي  document/vehicle-focused scene illustrating Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط  and  مستكشف لم يُدّعى أيّ تفتيش أو أشخاص.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء: نموذج واحد من طراز MPV، وخطين للطاقة
 The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في السوق الصينية **ICE and PHEV lines that must bequoted separately**. ويتقاسمون 2900 mm قاعدة عجلة و 7-seat، وكوخ مشرق، ولكنهم يختلفون في المرتفعات والقوة. وتُدعى الصين** إلى وجود سوق مرجعية؛ ولا يُطالب بمواصفات التصدير.
@@ -54,7 +56,6 @@ The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في ال�
 ** هل هو 154، 900 RMB سعر التصدير؟** لا - المرجع المحلي الصيني فقط.
 ** هل يمكن تحويله إلى كمكافأة؛ تقييم منفصل عن قاعدة م.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
@@ -63,27 +64,27 @@ The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في ال�
 | 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
 | 风行游艇 新车资讯 | 车主之家 | CN | T3 | صرخات | https://m.16888.com/news/2026/0807/24830307.html | PHEV 上市信息 |
 | دونغ فينغ لموقع عالمي رسمي | دونغفنغ ليوزو يبلغ 东风风行 (OEM) | CN | T1 | مفقود | https://www.forthingmotor.com/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المواصفات المرجعية للسوق الصينية؛ وليس مواصفات عالمية)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ترجمة:
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** على وجه الدقة دونغفنغ لشئ يلوح
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
@@ -97,6 +98,5 @@ The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في ال�
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

@@ -1,16 +1,16 @@
 # FAW Jiefang J7 트랙터: 중국 - 시장 중장비 참조 중국 - 5 및 중국 - 6 세대 아파트
-## ▼ 한국어 메타데이터
-- **SEO 제목**: FAW 지팡 J7 중국-시장 트랙터 사양 및 수출 수표|AutoBridge
-- **마타 기술 **: FAW Jiefang J7 무거운 트랙터를 위한 중국 시장 참고: 역사적인 중국 - 5 CA6DM3 550 PS 라인은 현재 중국 - 6 CA6SX1까지 600 PS 선에서 분리 유지, 6x4 레이아웃  and  수출 검사.
-- ** H1 **: FAW Jiefang J7 트랙터: 중국 - 시장 무거운 트럭 참조 - 5 및 중국 - 6 세대 아파트
-- ** 일기 키워드 **: FAW Jiefang J7 수출 specs
-- ** 보조 검색 조건 **: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 트랙터; 중국 무거운 트럭 수출; 중국 - 6 J7 600 PS
-- **수입 URL**: /vehicles/faw-jiefang- j7-tractor/
-- ** 수색 **: 面向海外买家介绍解放 J7 中国市场身份, 严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- ** 내부 링크 제안**: /vehicles/qingling-isuzu- kv100/, /vehicles/zoomlion- ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
-- ** 이미지 제안**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
-- ** ALT 제안**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: FAW  Jiefang J7 China-Market Tractor Specs  and  수출입구|AutoBridge
+- **메타 설명**: FAW 중국 시장 참조 Jiefang J7 무거운 트랙터: 중국 역사 5 CA6DM3 550 PS 선은 현재 중국 6 CA6SX1까지 600 PS 선에서 분리해, 6x4 레이아웃  and  수출 검사.
+- **H1**: FAW  Jiefang J7 Tractor: 중국 시장 중장비 참조 - 5 및 중국 - 6 세대 아파트
+- **주요 키워드**: FAW  Jiefang J7 export specs
+- **보조 검색어**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 트랙터; 중국 무거운 트럭 수출; 중국 6 J7 600 PS
+- **추천 URL**: /vehicles/faw-jiefang-j7-tractor/
+- **검색 의도**: FAW Jiefang J7 트랙터를 이해하십시오: 중국 - 5 및 중국 - 6 세대에 보관하는 중국 시장 중장비 참조: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **이미지 제안**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
+- **ALT 텍스트**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 FAW Jiefang J7는 중국의 가장 큰 무거운 트럭 제조 업체에서 일곱 번째 세대 주력 무거운 반 트레일러 트랙터, 주로 긴 운반 라인 운반 작업에 대 한 높은-로프 택시 오버 6x4로 판매. 수출 구매자의 결정적인 명세 분야는 ** 세대 **입니다: J7은 2018의 발사 시대와 새로운 중국 6 (국가 VI) 엔진 가족에서 중국 5 (국가 V) 엔진을 제공하고, 각에서 하나의 "J7 사양"으로 최대 번호를 결합하면이 페이지가 정확하게 방지됩니다. 이것은 ** 중국 시장 참고 **, 디젤에 범위; LNG 및 순전 J7 변종 및 해외 J7는이 페이지 밖에 있으며 단일 소스 출력은 확인을 위해 끌고 있습니다.
 

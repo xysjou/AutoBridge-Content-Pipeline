@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: GWM Poer / Ute Pickup: Drivetrain, Bed & Export Version Guide
 - **Meta Description**: GWM Poer (China 炮 / GWM Ute) explained for pickup buyers — petrol vs diesel, 8AT/9AT evolution, on-demand 4WD, standard vs long bed, payload verification and how to fix the exact export build.
-- **Suggested URL**: /vehicles/great-wall-poer/
 - **H1**: GWM Poer (Pao): Fixing Drivetrain, Bed and Chassis Before You Order a Pickup
 - **Primary Keyword**: GWM Poer pickup specifications export
 - **Secondary Search Terms**: GWM Poer diesel 2.4T, GWM Ute export, GW4C20B petrol, GW4D24 diesel 480 Nm, Great Wall double cab pickup, Poer 4x4 cargo bed
+- **Suggested URL**: /vehicles/great-wall-poer/
+- **Search Intent**: Understand GWM Poer (Pao): Fixing Drivetrain, Bed and Chassis Before You Order a Pickup: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/import-chinese-truck-saudi-saso/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: double-cab with bed; petrol vs diesel card; 4WD selector; bed measurements; ladder-frame chassis
-- **ALT Suggestions**: "GWM Poer double-cab pickup"; "Poer cargo bed dimensions"; "Poer four-wheel-drive selector and transfer case"
+- **Image Suggestion**: double-cab with bed; petrol vs diesel card; 4WD selector; bed measurements; ladder-frame chassis
+- **ALT Suggestion**: GWM Poer double-cab pickup
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## Where the Poer Sits in the GWM Line-up
 The GWM Poer (China name 炮 / Pao; some export markets GWM Ute) is Great Wall's core body-on-frame pickup platform, sold in the Middle East, ANZ, Latin America and selected RHD markets in both steering layouts and both fuels. The name covers **passenger (乘用版), commercial (商用版) and off-road (越野版)** builds whose chassis, bed, suspension and transmissions differ — so the version must be fixed before any comparison. This is an evergreen model page: the China **2024 passenger build** is the named reference (REFERENCE MARKET: CHINA), while current GWM-official data (which has evolved to 9AT and revised outputs) is shown separately rather than silently overwriting the 2024 figures.
 ## Drivetrain: Petrol vs Diesel — and a Model-Year Evolution to Respect

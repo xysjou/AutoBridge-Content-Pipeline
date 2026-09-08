@@ -1,14 +1,16 @@
 # SAIC Maxus Xintu V90 Van Diesel: une configuration-Matrix léger commercial, pas un modèle unique
-## OEuvre Métadonnées
-- **Référencement**: SAIC Maxus V90 Spécifications pour fourgon diesel et guide de configuration d'exportation
-- **Description détaillée**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT, RWD avec roues arrière doubles en option, deux empattements, 9–15 sièges par homologation.
-- **URL suggérée**: /véhicules/saïque-maxus- v90-specs/
-- ** H1 **: SAIC Maxus Xintu V90 (Marché chinois): Configuration des fourgonnettes diesel et contrôles d'exportation
+## Métadonnées SEO
+- **Titre SEO**: SAIC Maxus V90 Spécifications pour fourgon diesel et guide de configuration d'exportation
+- **Description meta**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT, RWD avec roues arrière doubles en option, deux empattements, 9–15 sièges par homologation.
+- **H1**: SAIC Maxus Xintu V90 (Marché chinois): Configuration des fourgonnettes diesel et contrôles d'exportation
 - **Mot-clé principal**: saic maxus v90 spécifications de fourgon diesel
-- **Conditions de recherche secondaires**: empattement Maxus V90, V90 ZF 8AT, bus léger Maxus 9-15 sièges, diesel large caisse d'exportation de van, bi-roue arrière
-- **Suggestions de lien interne**: /véhicules/faw-jiefang- j6p-tractor-specs/; /véhicules/farizon-xingxiang- v6e-specs/; /guides/véhicule-coc-type-reception-dossier/
-- **Suggestions d'image**: profil latéral haut de toit à long culot; essieu arrière à deux roues arrière; corps de passagers et de cargaison; sélecteur ZF 8AT; intérieur de la cargaison
-- ** Suggestions ALT**: "SAIC Maxus V90 long empattement haut toit van"; " V90 options de moteur diesel et d'essieu arrière"
+- **Termes de recherche secondaires**: Empattement maxus V90, V90 ZF 8AT, Autobus léger Maxus 9-15 sièges, exportation de fourgons diesel à large corps, fourgon à deux roues arrière
+- **URL suggérée**: /vehicles/saic-maxus-v90-specs/
+- **Intention de recherche**: Comprendre SAIC Maxus Xintu V90 (Marché chinois): Configuration du fourgon diesel et contrôles d'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Suggestion d'image**: profilé latéral à toit haut à longe roue
+- **Texte ALT**: SAIC Fourgonnette à empattement long Maxus V90
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte acheteur: Commandez un code de configuration, pas un nom
 Le Xintu V90 est une plateforme commerciale à large corps** vendue en minibus passager, fourgonnette et châssis-cabine nue, sur plusieurs empattements, hauteurs du toit, nombre de sièges et roues arrière simples/doubles. Il n'y a pas de " V90 spec ". L'exportateur a pour tâche de fixer le code de modèle ** exact homologué (公告型号)**, puis de lui faire correspondre le moteur, la boîte de vitesses, l'essieu, la carrosserie et les sièges, car la certification de destination est effectuée sur cette configuration spécifique. MARCHÉ DE RÉFÉRENCE: **CHINE**.
@@ -56,30 +58,30 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été saisis da
 **Pourquoi dois-je citer un code modèle?** L'empattement, le toit, les sièges, l'essieu et le GVW diffèrent selon les configurations homologuées V90; seul le code fixe les spécifications.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

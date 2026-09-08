@@ -1,16 +1,16 @@
 # 中国 E ポートの登録: 法的パーソンカードとオペレータカード階層の説明
-## ツイート メタデータ
-- **SEOのタイトル**: 中国 E ポート エンゲージメント: 法的パーソン IC カード と オペレータ カード | AutoBridge
-- **メタ 記述**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, 法定人カードの役割  and  オペレータ カード,  and  カード承認階層。
-- H1 ホテル **: 中国 E ポート 入学: 法的パーソンカードとオペレータカード階層の説明
-- **主なキーワード**:中国電子ポートの登録icカード事業者の法的人
-- **二次検索条件**:中国电子口岸入网;法人卡;操作员卡;電子ポートICカード;税関登録eポートのオンボーディング;中国パスポートカード発行
-- **混雑したURL**: /guides/china-e-port-enrollment-ic-card-operator/
-- **Search Intent**: 电子口岸入网如何随海关注册同步完成、法人卡与操作员卡的层级关系与数量/授权规则
-- **内部リンクの提案**: /guides/cross-border-ecommerce- b2b-export-9710-9810/、/guides/china-vehicle-export-licence/、/guides/customs-voluntary-disclosure-audit-tolerance/
-- **イメージ提案**: 画面上のオペレータの権限を管理するときに電子ポートICカードリーダーを差し込む会社管理者
-- アルト 提案**:電子ポート許可管理画面の横にあるリーダーのICカード
-- **シュマスコープ**: 記事(商品・料金・レビュー・料金なし)
+## SEOメタデータ
+- **SEOタイトル**: 中国 E ポート 入学: 法的パーソン IC カードとオペレーターカード | オートブリッジ
+- **メタディスクリプション**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, 法定人カードの役割  and  オペレータ カード,  and  カード承認階層。
+- **H1**: 中国 E ポートの登録: 法的パーソンカードとオペレータカード階層の説明
+- **主要キーワード**: 中国のeポートの登録icカード オペレータ法的人
+- **関連検索語**: 中国电子口岸入网;法人卡;操作员卡;eポートICカード;税関登録eポートのオンボーディング;chinaportカード発行
+- **推奨URL**: /guides/china-e-port-enrollment-ic-card-operator/
+- **検索意図**: 中国 E ポートの登録を知って下さい: 法的パーソンカードとオペレータカード階層 説明: 車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **画像候補**: 画面上のオペレータの権限を管理するときに電子ポートICカードリーダーを差し込む会社管理者
+- **ALTテキスト**: 電子ポート許可管理画面の横にあるリーダーのICカード
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 中国の電子港(中国电子口岸)は企業が習慣および関連の横断面の宣言をし、それにアクセスする共通のデジタル ゲートウェイはデジタル署名を運ぶICカードによって制御されます。 多くの場合、新しい輸出業者は、オンボーディングは、別の、長いアプリケーションであると仮定します。 現在のフレームワークの下には、税関登録と大きく同期しています。  and  the card system itself runs on a strict two-tier hierarchy between a legal-person card  and  オペレータ カード。 階層が間違っているのは、「登録したが、誰も宣言できない」という頻繁な原因です。 搭乗手続きの手順や、カードの種類やできないもの、カード番号や認証に関するルールなどについて説明しています。 ローカルアウトレットリスト、処理のタイムライン、手数料および障害物は、変更および変更以来、現在の公式ガイダンスに意図的に残されます。
 
@@ -81,10 +81,10 @@ One legal-person card in principle; 複数のオペレータカードが許可�
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 电子口岸接入指引 (注册即入网、业务说明) | 中国电子口岸数据中心 | CN | T1 | VERIFIED | https://www.chinaport.gov.cn/pages/service/service.html?service=423 | 接入指引、注册即入网 |
-| 法人卡 / 操作员卡数量与授权规则问答 /  | 中国电子口岸数据中心 | CN | T1 | VERIFIED | https://www.chinaport.gov.cn/pages/customer/problem-detail.html?id=16150 | 法人卡、操作员卡、数量规则 |
-| 新入网制发卡办理路径 (海关分署指引) | 海关总署广东分署 | CN | T1 | VERIFIED | http://gdfs.customs.gov.cn/nanjing_customs/2024-05/24/article_2026070902403998036.html | 新入网、制发卡、办理路径 |
-| 电子口岸入网问答 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?msgDataId=9ba4182feb9f410e94cd77b5cdc7e405&pageId=374112 | 入网问答 |
+| 电子口岸接入指引(注册即入网、业务说明) | 中国电子口岸数据中心 | CN | T1 | VERIFIED | https://www.chinaport.gov.cn/pages/service/service.html?service=423 | 接入指引、注册即入网 | 税制・税制・税制・税制・税制・税制・税制・税制・税制・サービス料・税・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料
+| 法人卡 | 操作员卡数量与授权规则问答 | 中国电子口岸数据中心 |  CN  | T1 |  VERIFIED  | https://www.chinaport.gov.cn/pages/customer/problem-detail.html?id=16150 | 法人卡 | 操作员卡 | 数量规则 | 紀元前 | 分子量
+| 新入网制发卡办理路径(海关分署指引) | 海关总署广东分署 | CN | T1 | VERIFIED | http://gdfs.customs.gov.cn/nanjing_customs/2024-05/24/article_2026070902403998036.html | 新入网、 制发卡、 办理路径 | 紀伊國市
+| 电子口岸入网问答 | 中华人民共和国海关总署 |  CN  | T1 |  VERIFIED  | http://www.customs.gov.cn/eportal/ui?msgDataId=9ba4182feb9f410e94cd77b5cdc7e405&pageId=374112 | 入网问答 |
 | 市场监管总局 (五部门 164 号联合发文单位之一) | 国家市场监督管理总局(SAMR) | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | 市场主体登记 |
 | 中国国际贸易单一窗口 (入网后业务主通道) | 中国国际贸易单一窗口 | CN | T1 | VERIFIED | https://www.singlewindow.cn/ | 单一窗口业务通道 |
 

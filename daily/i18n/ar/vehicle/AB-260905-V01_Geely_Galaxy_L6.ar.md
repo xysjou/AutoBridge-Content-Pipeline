@@ -1,15 +1,17 @@
 # Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification
 
-## SEO Metadata
-- ** عنوان المنظمة**: Geely Galaxy L6 EM-i PHEV 2025: Chinese-Market Specs " Export Buyer Guide
-- ** وصف البيانات**: شركة جيلي غالاكسي الصينية L6 EM-i plug-in hybrid: تم التحقق من الأبعاد، EM-i powertrain، خطين وما يجب على المستورد أن يؤكده مركز فيينا الدولي.
-- ** H1 **: غيلي غالاكسي L6 EM-i (2025) - شركة سبيكات الصينية - ماركت والتحقق من الصادرات
-- ** كلمة رئيسية**: Geely 吉利银河 Galaxy L6 银河L6 specs export
-- ** شروط البحث الثانية**: Geely Galaxy L6 export; Galaxy L6 EM-i عينات من طراز PHEV؛ استيراد سيارة ركاب صينية؛ EM-i single-speed DHT; CLTC vs WLTP range
-- ** URL المقترض**: /مركبات/غالاً-جياً - l6/
-- ** الحلقة الدراسية**: 了解 Geely 吉利银河 Galaxy L6 银河L6 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-lc-risk/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Geely Galaxy L6 EM -i PHEV 2025: Chinese-Market Specs ' Export Buyer Guide
+- **وصف Meta**: السوق الصينية Geely Galaxy L6 EM -أنا أُقرّبُ في الهجينة أبعاد متحقق منها EM -أنا (فوترين) خطين للبطارية/البراعة  and  ما يجب على المستورد أن يؤكده بـVIN
+- **H1**: Geely Galaxy L6 EM -i (2025) — Chinese-Market Specs and Export Verification
+- **الكلمة المفتاحية الرئيسية**: Geely / 吉利银河 Galaxy L6 / 银河L6 specs export
+- **مصطلحات بحث ثانوية**: Geely Galaxy L6 export; Galaxy L6 EM -i PHEV specs; Chinese PHEV sedan import; EM -i single-speed DHT; CLTC vs WLTP range
+- **URL المقترح**: /vehicles/geely-galaxy-l6/
+- **نية البحث**: Understand Geely Galaxy L6  EM -i (2025) — Chinese-Market Specs  and  التحقق من الصادرات: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating Geely Galaxy L6 EM -i (2025) — Chinese-Market Specs and Export Verification, no staged inspection or people claimed.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs  and  التحقق من الصادرات خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء والهوية النموذجية
 The Geely Galaxy L6 EM-i (2025) is a سيارة مهجورة بنيت للصينيين السوق وتستخدم هذه الصفحة خط الرفع الوجهي البالغ 2025 من طراز EM-i فقط؛ والنسخ القديمة من طراز Thor/8848 ثلاثي السرعة DHT هي توليد طاقة مختلف ويجب ألا تكون مختلطة بالسيارات ذات السرعة الواحدة الموصوفة هنا. والسوق المرجعية هي الصين، وكل رقم يرد أدناه هو المواصفات المرجعية للسوق الصينية، وليس قيمة عالمية أو قيمة متجانسة للصادرات.
@@ -65,7 +67,6 @@ The Geely Galaxy L6 EM-i (2025) is a سيارة مهجورة بنيت للصين
 ** من يصنع خلايا البطارية** ليس من المؤكد أن هناك مصادر مأخوذة من مكتب مكافحة المخدرات، لذا هذه الصفحة لا تسمّي المورّد.
 ** هل تنشر شركة أوت بريدج سعر تصدير**؟ لا - طلب اقتباساً حالياً مع المقصد والكمية وخط الترم، وDHD/RHD، والموانئ، والإنكور.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
@@ -73,27 +74,27 @@ The Geely Galaxy L6 EM-i (2025) is a سيارة مهجورة بنيت للصين
 | 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
 | 银河L6 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
 | الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المواصفات المرجعية للسوق الصينية؛ وليس مواصفات عالمية)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** مودييل توبيتش**: بالضبط جيلي غالاكسي L6 EM-i 2025
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Galaxy L6 EM-i 2025
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
@@ -107,6 +108,5 @@ The Geely Galaxy L6 EM-i (2025) is a سيارة مهجورة بنيت للصين
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

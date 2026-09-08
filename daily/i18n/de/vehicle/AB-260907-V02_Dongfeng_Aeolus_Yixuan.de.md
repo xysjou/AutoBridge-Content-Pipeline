@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan: Ein China-Markt-CMP Compact Sedan Referenz, Current Line vs Old Mach Version
-## SEO Metadaten
-- **SEO Titel**: Dongfeng Aeolus Yixuan China-Market Specs und Export Käufer Schecks | AutoBridge
-- **Meta Description**: Chinesische Marktreferenz für die Dongfeng Aeolus Yixuan CMP Limousine: Abmessungen, die aktuelle 2025 1.5L Linie im Vergleich zum älteren Mach 1.5T getrennt gehalten, und VIN-Level-Checks für Exportkäufer.
-- ** H1 **: Dongfeng Aeolus Yixuan: Ein China-Markt-CMP Compact Sedan Referenz, Current Line vs Old Mach Version
-- **Hauptschlüsselwort**: Dongfeng Aeolus Yixuan Export Specs
-- **Secondary Search Terms**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T Limousine; chinesische CMP Limousine Export
-- **Vorgeschlagene URL**: /Fahrzeuge/dongfeng-aeolus-yixuan/
-- **Search Intent**: 面向海外买家介绍风神奕炫中国市场身份 尺寸 当前 1.5L 与较早马赫版 1.5T 的版本边界
-- **Interne Linkvorschläge**: /Fahrzeuge/Jet-dashing/, /Fahrzeuge/saic-maxus- g90/, /guides/verify-chinese-car-export-supplier-history/
+## SEO-Metadaten
+- **SEO-Titel**: Dongfeng Aeolus Yixuan China-Market Specs und Export Käufer Schecks | AutoBridge
+- **Meta-Beschreibung**: Chinesische Marktreferenz für die Dongfeng Aeolus Yixuan CMP Limousine: Abmessungen, die aktuelle 2025 1.5L Linie gegenüber dem älteren Mach 1.5T getrennt gehalten,  and   VIN -level checks for export buyers.
+- **H1**: Dongfeng Aeolus Yixuan: Ein China-Markt CMP Compact Sedan Referenz, Current Line vs Old Mach Version
+- **Haupt-Keyword**: Dongfeng Aeolus Yixuan Export Specs
+- **Sekundäre Suchbegriffe**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T Limousine; chinesischer CMP Limousineexport
+- **Vorgeschlagene URL**: /vehicles/dongfeng-aeolus-yixuan/
+- **Suchabsicht**: Dongfeng Aeolus Yixuan: Ein China-Markt CMP Compact Limousine Referenz, Current Line vs Older Mach Version: Was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
 - **Bildvorschlag**: Eine Dongfeng Aeolus Yixuan Fastback-Limousine von vorne drei Viertel auf einem neutralen Hintergrund gezeigt
-- **ALT Vorschlag**: Vordere Dreiviertelansicht einer Dongfeng Aeolus Yixuan Limousine auf einem neutralen Studiohintergrund
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Bewertung / Bewertung)
+- **ALT-Text**: Front Dreiviertelansicht einer Dongfeng Aeolus Yixuan Limousine auf einem neutralen Studiohintergrund
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Die Dongfeng Aeolus Yixuan (风神奕炫) ist die kompakte Drei-Boxen-/Fastback-Limousine, die auf der CMP-Plattform gebaut und in China unter der Marke Aeolus (Fengshen) verkauft wird. Das Käufer-Risiko in diesem Modell ist zeitlicher als struktureller Natur: Die aktuelle 2025 On-Sale-Linie ist ein natürlich angesaugtes 1.5-litre Auto, während die höhere Leistung "Mach" (马赫) 1.5T zu einer früheren 2022/2023 Antriebsstrangwelle gehört. Die ältere Turboleistung zu zitieren, als wäre es die aktuelle Limousine, ist der häufigste Versionsfehler. Diese Seite ist eine ** chinesische Marktreferenz**, kein globales Spec Sheet; Exportmarktversionen benötigen separate OEM-Beweise, und Single-Source-Outputs werden zur Bestätigung gekennzeichnet.
 

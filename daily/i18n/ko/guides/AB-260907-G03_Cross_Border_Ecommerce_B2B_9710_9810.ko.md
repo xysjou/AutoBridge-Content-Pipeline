@@ -1,16 +1,16 @@
 # 사용자 정의 코드 9710 및 9810: 중국 크로스 - 국경 B2B 수출 Regimes 실제로 Differ
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 국경 B2B 수출 9710 대 9810 해외 창고 | AutoBridge
-- **마타 기술 **: 9710과 9810의 관세 코드는, 어떻게 직접 B2B 수출은 해외 창고 수출, 등록 및 서류 필요와 어떤 차량 수출든지 국부적으로 세관으로 확인해야 하는지, 무슨 세관 감독 부호가, 의미합니다.
-- ** H1 **: 주문 코드 9710 및 9810: 중국 국경 B2B 수출 Regimes 실제로 Differ
-- ** 출원 키워드**: 교차 국경 전자 상거래 b2b 수출 9710 9810
-- **세컨드리뷰 이용**: 9710 세관 코드; 9810 해외 창고 수출; 중국 B2B 국경 전자 상거래; 해외 창고 서류; 국경 전자 상거래 세관 등록
-- **Suggested URL**: /guides/cross-border-ecommerce- b2b-export-9710-9810/
-- ** 수색 **: 9710 与 9810 两种跨境电商 B2B 出口监管方式的区别, 海外仓模式的时点分离与备案, 企业需要哪些资质
-- ** 내부 링크 제안**: /guides/export-returned-goods-duty-emption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
-- ** 이미지 제안**: 물류 조정기와 일치하여 해외 창고의 통로를 화면에 가로지르는 선언
-- ** ALT 제안**: 해외 창고의 통로와 모니터에 크로스 국경 세관 신고
-- **Schema Scope**: 기사 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 중국 크로스-Border B2B 수출 9710 대 9810 해외 창고 | AutoBridge
+- **메타 설명**: 9710과 9810의 관세 코드는, 어떻게 직접 B2B 수출은 해외 창고 수출, 등록 및 서류 필요와 어떤 차량 수출든지 국부적으로 세관으로 확인해야 하는지, 무슨 세관 감독 부호가, 의미합니다.
+- **H1**: 사용자 정의 코드 9710 및 9810: 중국 크로스 - 국경 B2B 수출 Regimes 실제로 Differ
+- **주요 키워드**: 교차 국경 전자 상거래 b2b 수출 9710 9810
+- **보조 검색어**: 9710 세관 코드; 9810 해외 창고 수출; 중국 B2B 크로스 - 국경 전자 상거래; 해외 창고 서류; 국경 전자 상거래 세관 등록
+- **추천 URL**: /guides/cross-border-ecommerce-b2b-export-9710-9810/
+- **검색 의도**: 사용자 정의 코드 9710 및 9810 이해: 중국 크로스 - 국경 B2B 수출 Regimes 실제로 Differ: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **이미지 제안**: 물류 조정기와 일치하여 해외 창고의 통로를 화면에 가로지르는 선언
+- **ALT 텍스트**: 해외 창고를 갖춘 책상과 모니터에 크로스 국경 세관 신고
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 China added two dedicated customs supervision codes for business-to-business cross-border e-commerce exports after pilot programmes proved the model: ** 9710 ** 국경 전자 상거래 B2B 직판 및 ** 9810 ** 해외 창고에 크로스 국경 전자 상거래 수출을위한 **. 숫자는 교환 가능하지만, 그들은 다른 상업적인 타임 라인을 설명하고, 판매가 인식 될 때 잘못된 한 변경을 선택, 물품이 선언 된 방법, 그리고 어떤 서류가 앞쪽에 있어야. 이 가이드는 각 부호, 의혹적인 체제를 설명합니다. 그리고 질문은 차량 또는 부속 수출상은 assumption에 의해 대답 보다는 오히려 국부적으로 감독 세관에 끼워넣어야 합니다.
 

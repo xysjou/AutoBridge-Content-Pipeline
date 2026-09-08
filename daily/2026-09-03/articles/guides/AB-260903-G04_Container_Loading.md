@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: How Many Cars Fit in a 40HQ? Container Loading & Lashing Guide
 - **Meta Description**: A practical 40HQ vehicle-loading guide — typical 2-SUV no-rack loading vs 4-vehicle double-rack systems, ~8 straps per car on tyres, loading sequence and a five-point stowage check before seal.
-- **Suggested URL**: /guides/container-vehicle-loading-lashing/
 - **H1**: Container Vehicle Loading and Lashing: Counts, Racks, Sequence and Pre-Seal Checks
 - **Primary Keyword**: how many cars fit 40hq container loading lashing
 - **Secondary Search Terms**: 40HQ two SUV, double deck car rack container, vehicle lashing straps wheel tie down, RoRo to container conversion, container car loading sequence
+- **Suggested URL**: /guides/container-vehicle-loading-lashing/
+- **Search Intent**: Understand Container Vehicle Loading and Lashing: Counts, Racks, Sequence and Pre-Seal Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
-- **Image Suggestions**: side-view stowage diagram; wheel lashing points; pull-out double rack; top+bottom loading order
-- **ALT Suggestions**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
+- **Image Suggestion**: side-view stowage diagram; wheel lashing points; pull-out double rack; top+bottom loading order
+- **ALT Suggestion**: 40HQ two SUV side stowage
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Question Everyone Asks First
 "How many cars in a 40HQ?" has no universal answer — it is a function of **vehicle dimensions, mirror-folding, rack system and the carrier's approved stowage plan**. This guide gives realistic bands and the method; it deliberately does not promise a fixed count. Confirm every shipment against an actual measured load plan.

@@ -1,16 +1,16 @@
 # 간략한 얼굴 (Xingrui): 중국 시장 CMA 수출에 대한 세단 구매자 참조
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Preface (Xingrui) 수출 Specs, 트림 및 구매자 검사
-- ** Meta Description**: Geely Preface/Xingrui CMA sedan에 대한 중국 시장 참조: 신체 및 치수, 1.5T 및 2.0T 변형 분리 유지, 그리고 해외 구매자는 VIN에 의해 확인 해야 합니다.
-- ** H1 **: 간략한 얼굴 (Xingrui): 중국 시장 CMA 수출에 대한 세단 구매자 참조
-- ** 출원 키워드**: Geely Preface Xingrui 수출 specs
-- **세컨드리뷰 이용**: Geely Preface CMA 세단; Xingrui 차원; 지리 얼굴 2.0T 8AT; 중국 sedan 수출 중국 spec; 얼굴 손질 다름
-- **Suggested URL**: /vehicles/geely-preface/
-- ** 수색 **: 面向海外 B 端买家介绍 Preface(星瑞) 中国市场版本身份 、 尺寸 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- ** 이미지 제안**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
-- ** ALT 제안**: Front three-quarter view of a Geely Preface sedan on a neutral background
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+## SEO 메타데이터
+- **SEO 제목**: Geely Preface (Xingrui) 수출 사양, 트림 및 구매자 확인
+- **메타 설명**: Geely Preface/Xingrui CMA 세단의 중국 시장 참고: 신체 및 치수, 1.5T 및 2.0T 변형은 분리되어 있으며 해외 구매자가 VIN에 의해 확인해야합니다.
+- **H1**: 간략한 얼굴 (Xingrui): 중국 시장 CMA 수출에 대한 세단 구매자 참조
+- **주요 키워드**: Geely Preface Xingrui 수출 specs
+- **보조 검색어**: 글리 Preface CMA 세단; Xingrui 차원; 지리 얼굴 2.0T 8AT; 중국 sedan 수출 중국 spec; 얼굴 손질 다름
+- **추천 URL**: /vehicles/geely-preface/
+- **검색 의도**: Geely Preface (Xingrui)에 대한 이해: 중국 시장 CMA 수출의 세단 구매자 참조: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
+- **ALT 텍스트**: Front three-quarter view of a Geely Preface sedan on a neutral background
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-drive four-door sedan Geely developed on the CMA (Compact Modular Architecture) shared with wider Geely-group products. 중국에서 해외 구매자 sourcing를 위해 핵심 분야는 버전 통제입니다: 라인은 1.5-litre과 2.0-litre 터보 가솔린 파워 트레인과 함께 몇 가지 모델 년 동안 판매되었으며, 구형 및 더 새로운 트림과 다른 인용 된 파워 수치가 있습니다. 이 페이지는 ** 중국 시장 참고 **; 글로벌 사양 시트가 아니며, 모든 수출 시장의 Preface는 별도로 증명해야합니다.
 
@@ -80,16 +80,16 @@ No - 중국 가이드 가격은 시간 과민한 국내 참고입니다; Incoter
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵 (2.0T 175kW/238Ps/350N·m 今朝版、 8AT、 WLTC 油耗 7.15) | 搜狐汽车车型库 | 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT년  |
-| 星瑞 1.5T+2.0T 动力矩阵 (1.5T 133kW/290N·m 7DCT; 新款 2.0T 200kW/400N·m) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T의 DCT  |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
+| (2.0T 175kW/238Ps/350N·m·8AT、WLTC W 7.15) | : | : 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT년  |
+ | 1.5T+2.0T T (1.5T 133kW/290N·m 7DCT; 新工 2.0T 200kW/400N·m) | 知之家·李俊億 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T의 DCT  |
 | 吉利星瑞官方车型页 (CMA 架构、 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) | 吉利汽车官网 | 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://preface.geely.com/ | 车型官方身份, CMA,  悬架  |
-| 星瑞尺寸 / 轴距 (4785 × 1869 × 1469, 轴距 2800) | 懂车帝车型参数页 | 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸,  轴距  |
-| Geely Preface 해외 데뷔 (사우디 아라비아) - OEM 뉴스 | Geely 자동차 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; 중동 powertrain는 중국 트림과 다릅니다. |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — VIN/announcement에 의해 정확한 중국 균질화 모형/variant를 확인하십시오 |
+| 星瑞尺寸 / 轴距 (4785 × 1869 × 1469, 轴距 2800) | 懂车帝车型参数页 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸,  轴距  |
+| Geely Preface 해외 데뷔 (사우디 아라비아) - OEM 뉴스 | Geely 자동차 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; 중국과 중국
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — VIN/announcement에 의해 정확한 중국 균질화 모형/variant를 확인하십시오 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (中国市场参考规格; 出口/右舵版本无 OEM 证据, 须另证)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

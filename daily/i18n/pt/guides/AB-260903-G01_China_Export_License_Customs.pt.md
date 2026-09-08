@@ -1,14 +1,16 @@
 # Licença de exportação de veículos e documentos aduaneiros da China-Side: a ordem que um exportador deve seguir
-## SEO Meta- dados
-- ** Título SEO**: China Guia de Licenças de Exportação de Veículos e Documentos Aduaneiros (2026)
-- ** Descrição do Meta**: Como funciona a qualificação de exportação de veículos do lado chinês — arquivamento anual de licenças MOFCOM, licenciamento de exportação de passageiros-carros BEV, a regra do carro usado 180-day, e a cadeia de documentos de exportação completa antes da declaração aduaneira.
-- ** URL sugerido**: /guides/china-veículo-exportação-licença-documentos-customs/
-- ** H1 **: Licença de exportação de veículos do lado da China, qualificação e cadeia de documentos aduaneiros
-- **Primary Keyword**: China veículo exportação documentos de declaração aduaneira de licença
-- ** Termos de pesquisa secundários**: China usou licença de exportação de carro, licença de exportação de BEV China, MOFCOM veículo exportação arquivo, veículo exportação documento cadeia, 180 dia usado regra de exportação de carro
-- **As sugestões de ligação interna**: /guias/veículo-coc-tipo-aprovação-dossier/; /guias/ev-navio-un3171-imdg-compliance/; /guias/veículo-exportação-contrato-cláusulas/
-- **Image Suggestions**: license→document→customs flow diagram; document-chain checklist; anual arquivando timeline
-- **ALT Sugestões**: "Certificação de exportação de veículos para fluxo aduaneiro" "checklist da cadeia de documentos de exportação de veículos"
+## Metadados SEO
+- **Título SEO**: China Guia de Licenças de Exportação de Veículos e Documentos Aduaneiros (2026)
+- **Meta descrição**: Como funciona a qualificação de exportação de veículos do lado chinês — depósito anual de MOFCOM licenças, licença de exportação de BEV passageiros-carros, a regra do carro usado 180-day e a cadeia de documentos de exportação completa antes da declaração aduaneira.
+- **H1**: Licença de exportação de veículos da China-Side, qualificação e cadeia de documentos aduaneiros
+- **Palavra-chave principal**: China veículo exportação licença documentos de declaração aduaneira
+- **Termos de busca secundários**: A China utilizou a licença de exportação de automóveis, BEV licença de exportação China, MOFCOM depósito de exportação de veículos, cadeia de documentos de exportação de veículos, Regra de exportação de automóveis usados de 180 dias
+- **URL sugerida**: /guides/china-vehicle-export-license-customs-documents/
+- **Intenção de busca**: Entender a licença de exportação de veículos China-Side, Qualificação e Cadeia de Documentos Aduaneiros: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **Sugestão de imagem**: licença→documento→dimensão de fluxos alfandegários
+- **Texto ALT**: Licença de exportação de veículos da China para o fluxo aduaneiro
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Por que esta página existe
 A maioria das primeiras remessas falha no lado **China, não no destino: o exportador não tem a categoria de qualificação certa, a licença não cobre o produto, ou a cadeia de documentos é inconsistente na declaração. Este guia define a ordem a seguir. É baseado em documentos do governo chinês (MOFCOM, a biblioteca de políticas do Conselho de Estado, MIIT); onde uma regra é revista anualmente ou sensível ao tempo, é sinalizada em vez de tratada como permanente.
@@ -57,18 +59,18 @@ O MIIT No. 50 divide fabricantes de veículos rodoviários e de veículos autom�
 ** De onde vêm os códigos SH? Confirme o código exato e a condição regulatória em relação ao atual horário de tarifas e ao último aviso MOFCOM – não transfira um código antigo.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf

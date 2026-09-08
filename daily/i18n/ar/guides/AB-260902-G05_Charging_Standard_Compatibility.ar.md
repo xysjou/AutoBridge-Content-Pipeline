@@ -1,15 +1,17 @@
 # الصينية المعايير التعريفية في الخارج: GB/T vs CCS2 vs CHAdeMO vs NACS Compatibility
 
-## SEO Metadata
-- ** عنوان المنظمة**: GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compibility
-- ** وصف البيانات**: هل سيكلف شركة "إي في" في السوق الصينية في أوروبا أو "اليابان" أو "أمريكا الشمالية"؟ وشرحت الوثيقة GB/T 20234.3/27930 خريطة الموصل حسب المنطقة، وخطوط تحويل الصادرات، ومكيفات، وتوجه تشاو جي.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/مطابقة معالم الدين
-- ** H1 ** هل سيشحن "إي في" صيني في الخارج؟ GB/T, CCS2, CHAdeMO and NACS Compatibility Explained
-- ** كلمة رئيسية رمزية**: GB/T CCS2 CHAdeMO تحمل تطابقاً معيارياً للصادرات
-- ** شروط البحث الثانية**: مكيف التصدير الصيني من طراز EV، وشحنة سريعة من طراز GB/T 20234.3 DC، وبروتوكول GB/T 27930، وCCS2 نسخة تصديرية من طراز EV، ومقياس تشاوجاي
-- ** مقترحات داخلية للربط**: /حلقات/حلقات دراسية/مزيدة/؛ مبادئ صينية مباشرة/سيارات/أغويل/مفتشية/مستعملة من الصين
-- ** اقتراحات بشأن الشكل**: خريطة عالمية معيارية للربط؛ مقارنات بين GB/T و CCS2 من الحرف؛ مدخل تحويل الصادرات في المصنع؛ تحذير بشأن الامتثال
-- ** اقتراحات بشأن " خريطة عالمية لمعايير الربط السريع في العاصمة " ؛ و " GB/T و CCS2 شحنة من الجانحين " ؛ و " Chinese EV export-version CCS2 inlet "
+## بيانات SEO الوصفية
+- **عنوان SEO**: GB/T ضد CCS2 ضد CHAdeMO vs NACS: Chinese EV Export Compibility
+- **وصف Meta**: هل سيكلف السوق الصينية EV في أوروبا، اليابان أو أمريكا الشمالية؟ GB/T  20234.3/27930 explained, خريطة الموصل حسب المنطقة مداخل تحويل الصادرات المكيفون  and  "إتجاه "تشو جي
+- **H1**: هل سيشحن صيني من EV إلى الخارج؟ GB/T، CCS2، شاديمو، NACS تفسير للاختراق
+- **الكلمة المفتاحية الرئيسية**: GB/T CCS2 CHAdeMO فرض تطابق موحد في الصادرات
+- **مصطلحات بحث ثانوية**: صيني EV مكيف لصادرات   GB/T  20234.3  DC  fast charge,   GB/T  27930 protocol, CCS2 نسخة تصدير EV، معيار تشاو جي
+- **URL المقترح**: /guides/chinese-ev-charging-standard-compatibility/
+- **نية البحث**: Understand Will a Chinese  EV  Charge Overseas? GB/T و CCS2 و CHAdeMO و NACS موضح: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **اقتراح الصورة**: خريطة عالمية لمستوى الاتصال
+- **نص ALT**: خريطة عالمية تبلغ DC من معايير الاتصال السريع
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## لماذا يقرر المُدير ما إذا كانت السيارة صالحة للاستعمال
 
@@ -71,17 +73,17 @@
 ** هل تُدعى "شاو" جي) تجعل جميع الموصلات متوافقة الآن؟) وتشاو جي هو اتجاه مصمم لتحقيق التوافق في المستقبل؛ ولا تزال سيارات الإنتاج الحالية بحاجة إلى تأكيدات في النموذج الواحد.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
@@ -101,11 +103,11 @@
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | عرض معياري لـ تشاو جي (رسمي) | رابطة السامو (هيئة المعايير) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | مفقود | صُممت (شاو جي) متوافقة مع GB/T/CHAdeMO/CCS |
-| مسارات التصديق على المستوى المعياري | اختبار هويو (هيئة التصديق) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | صرخات | النشر الإقليمي الاستشاري للشؤون الاقتصادية والاجتماعية، الفروق في التصديق |
+|تكمرات على مستوى المناطق الجغرافية، ومثالية (معتمدة) | على الصعيد العالمي http://www.huayutest.com/zixun/87747.html | 2026-09-02 | 09 09وكالات |.
 | معايير الربط | سيهوم (وسائط الصناعة) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | صرخات | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
 | GB/T, CCS2, Type 2, NACS, CHAdeMO compared | (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | صرخات | GB/T/ CCS2تطلب مكيّفا؛ مصفوفة التوافق |
 | دليل المعايير العالمية لشحنات الغلاف الجوي | مارويكل)الصناعة( | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | صرخات | موصل بين مقصد تحويل الصادرات وثنائي الفينيل العشاري ضد مقصد تحويل الصادرات |
-| GB/T-to-CHAdeMO adapter B2B guide | كهرباء صين (صناعات) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | صرخات | ازاء اختناقات التوافق في الصادرات |
+| GB/T-to-CHAdeMO adapter B2B guide | كهرب (S) ) Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-chademo-adapters-for-exported-chines/ | 2026-09-02 02 02?
 
 * مذكرة مصداقية (معيار أوتوبريدج): الحقائق القياسية هي: الرابطة هي هيئة معايير. ولم يُقبض على موصلات التصدير في مرحلة ما بعد النموذج، وتوقيت بدء عملية التكييف حسب البلد، وتوقيت بدء التنفيذ في إطار نظام مراقبة الصادرات الوطنية، ويجب تأكيدها في الـ VIN وسلطة المقصد. ♪
 

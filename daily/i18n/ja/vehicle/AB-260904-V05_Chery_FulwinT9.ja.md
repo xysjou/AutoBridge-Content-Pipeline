@@ -1,15 +1,17 @@
 # Chery Fulwin T9 (风云 T9)): C-DM のプラグインの雑種の中間サイズの SUV — 輸出のための中国Specs
 
-## ツイート メタデータ
-- **SEOのタイトル**:Chery Fulwin T9 C-DM PHEVの仕様と輸出ガイド(中国参考)
-- **メタ 記述**: 中国語市場 Chery Fulwin T9 C-DM のプラグインの雑種 SUV — 1.5T の熱心なエンジン、 150 kW フロント モーター, 32.66 kWh電池,  120–220 km CLTC, 5/7席、  and  輸出業者の点検。
-- **混雑URL**: /vehicles/chery-fulwin- t9/
-- H1 ホテル **: チェリー フルウィン T9 C-DM: 中国の市場 PHEV SUV のSpecs および輸出確認
-- **主なキーワード**: チェリーフルウィンt9スペックのエクスポート
-- **二次検索条件**: フーウィンT9 C-DM、风云 T9 プラグインハイブリッド、 チェリーT9 32.66kWh、フルウィンT9 7-seat、中国 PHEV SUVの輸出
-- **内部リンクの提案**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/; /guides/export-vehicle-document-package/
-- **イメージ提案**: Fulwin T9 three-quarter; 充満港; 5対7シートレイアウト; 1.5T C-DM バッジ; 貨物エリア
-- **ALTの提案**:「Chery Fulwin T9 C-DMのプラグインの雑種SUV」;「Fulwin T9 32.66kWh電池CLTCの範囲」
+## SEOメタデータ
+- **SEOタイトル**: チェリー フーウィン T9 C DM PHEV 仕様&輸出ガイド(中国参考)
+- **メタディスクリプション**: 中国語市場 チェリー・フルウィンT9 C- DMのプラグインの雑種SUV — 1.5Tの熱心なエンジン、 150 kW フロント モーター, 32.66 kWh電池,  120–220 km  CLTC , 5/7席、  and  輸出業者の点検。
+- **H1**: チェリー・フルウィンT9 C-DM: 中国の市場PHEV SUV仕様と輸出検証
+- **主要キーワード**: チェリーフルウィンt9仕様のエクスポート
+- **関連検索語**: 大画像: Fulwin T9 C- DM、风云 T9 のプラグインの雑種、 チェリーT9 32.66kWh、Fulwin T9 7-seat、中国PHEV SUVの輸出
+- **推奨URL**: /vehicles/chery-fulwin-t9/
+- **検索意図**: チェリー・フルウィン T9 C- DM に耐える: 中国の市場 PHEV SUV 仕様とエクスポート検証:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **画像候補**: Fulwin T9 three-quarter
+- **ALTテキスト**: チェリー フーウィン T9 C- DM プラグインハイブリッド SUV
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: PHEV 家族の SUV と 長電池バージョン
 フーウィンT9はChery's C-DMの中型のプラグインの雑種SUVです、  offered in five-  and  seven-seat forms. Two order errors dominate this model: ** T9 を伸ばした T9L ** と混合して下さい、  and  電池を命名することなく電気範囲を引用します。 このページの文書は、標準のフルウィンT9のみ(参考市場)です。 中国の**; T9L(4870 mm/2920 mmのホイールベース)は、異なるボディで、意図的に除外されます。 仕様ベースを強化するモデルをOEM設定ページとして捉えました。
@@ -22,7 +24,7 @@
 | 結合されたシステム出力 | およそ265 kW/530 N·m |
 | ハイブリッドトランスミッション | シングルスピード DHT |
 | ロングレンジバッテリー | 32.66 kWh ** |
-| 電気範囲 | **120–220 km CLTC** (version-dependent; a WLTC figure of about 160 km is also cited for one version) |
+| 電気範囲 | 120– 220 km CLTC 認証取得 a  WLTC  figure of about 160 km is also cited for one version) |
 | 組み合わせた範囲 | 1400 km * WLTC、メーカーが要求する** - 工場のクレームとしてラベル、測定されない |
 | 充電 | DC about 20 min for 30–80%; AC は 3 h について充満を遅らせます(単一ソース; OEMによって確認して下さい) |
 
@@ -85,7 +87,7 @@ PHEV 用 輸出業者は、**エンジン、モーター、バッテリー、充
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | GB 38031 の牽引電池の安全条件(国民の標準) | SAMR/標準化管理 | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | C-DMの高圧パックに関連するトラクションバッテリー安全ベースライン |
-| GB 18352.6-2016/XG1-2026の軽車排出の限界(中国6) | エコロジー・環境省 | CN の | 以下は、 の | 2026-09-05 | 検証済み | 現在の中国- 1.5T 専用エンジン(中国- 6b 参照)のための 6 の放出フレーム | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+|  GB  18352.6-2016/XG1-2026 の軽車排出の限界 (中国 6) | エコロジー・環境省 |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 現在の中国 - 1.5T 専用エンジン (中国 - 6b 参照) のための 6 の放出フレーム | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 | フォルウィンT9公式設定テーブル | チェリー フーウィン (OEM) | CN の | 以下は、 https://fulwin.chery.cn/vehicles/t9/config/ の一覧 | 2026-09-04 | 検証済み(OEM) | 電池、次元、座席、充満、版 |
 | ファーウィンT9 ハンドオン | ドンケディ | CN の | 以下は、 https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED(クロス) | 寸法、モデル年境界 |
 | フォルウィンT9 120 ロングレンジフラッグシップ config | Autohome 設定 | CN の | 以下は、 https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED(クロス) | 32.66 kWhの電気範囲、モーター |

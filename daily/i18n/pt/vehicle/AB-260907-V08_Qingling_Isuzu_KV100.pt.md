@@ -1,16 +1,16 @@
 # Qingling Isuzu KV100: Uma China-mercado azul-plate luz caminhão referência construído em torno GVW, motor e linhas de modelo adjacentes
-## SEO Meta- dados
-- ** Título SEO**: Qingling Isuzu KV100 Especificações do caminhão leve do mercado de China e verificações de exportação.
-- ** Descrição do Meta**: Chinese-market reference for the Qingling Isuzu KV100 N2 blue-plate light truck: o 4KH1CN6LB China- 6 diesel, gama de leito de carga, linha adjacente 100P mantida separada, e verificação de exportação.
-- ** H1 **: Qingling Isuzu KV100: Uma China-Market Blue-Plate Light Truck Referência Construído em torno de GVW, motor e linhas de modelo adjacentes
-- **Chave principal**: Qingling Isuzu KV100 especificações de exportação
-- ** Termos de pesquisa secundários**: 庆铃 KV100; KV100 4KH1CN6LB; Isuzu caminhão leve China; caminhão de placa azul; China N2 caminhão exportação; MSB 5MT
-- ** URL sugerido**: /veículos/qingling-isuzu- kv100/
-- ** Intenção de pesquisa**: 面向海外买家介绍庆铃KV100中国市场身份、4KH1国六柴油、货箱长度区间，并区分相邻100P车型线与全球ELF
-- ** Sugestões de ligação interna**: /veículos/changan-kaicene- f70/, /veículos/jmc-ford-transit- t8/, /veículos/faw-jiefang- j7-tractor/
-- ** Sugestão de Imagem**: Um caminhão de carga leve Qingling Isuzu KV100 de cabo-over mostrado a partir do lado três-quarto
-- **ALT Sugestão**: Vista lateral de três quartos de um camião leve Qingling Isuzu KV100 em terra neutra
-- **Espécie de âmbito**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+## Metadados SEO
+- **Título SEO**: Qingling Isuzu  KV100  China-Market Light Truck Specs  and  Verificação de Exportação.
+- **Meta descrição**: Chinese-market reference for the Qingling Isuzu  KV100  N2 blue-plate light truck: o 4KH1CN6LB China- 6 diesel, gama de leito de carga, linha adjacente 100P mantida separada, e verificação de exportação.
+- **H1**: Qingling Isuzu KV100: Uma China-Market Blue-Plate Light Truck Referência Construído em torno de GVW, Linhas de modelos adjacentes e motor
+- **Palavra-chave principal**: Qingling Isuzu KV100 especificações de exportação
+- **Termos de busca secundários**: 庆铃 KV100; KV100 4KH1CN6LB; Isuzu caminhão leve China; caminhão de placa azul; China N2 caminhão exportação; MSB 5MT
+- **URL sugerida**: /vehicles/qingling-isuzu-kv100/
+- **Intenção de busca**: Compreenda Qingling Isuzu KV100: Um China-Market Blue-Plate Light Truck Referência Construído em torno de GVW, Linhas de Modelos adjacentes e motores: o que um exportador de veículos / peças deve verificar, documento e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/changan-kaicene-f70/, /vehicles/jmc-ford-transit-t8/, /vehicles/faw-jiefang-j7-tractor/
+- **Sugestão de imagem**: Um caminhão de carga leve Qingling Isuzu KV100 de cabo-over mostrado a partir do lado três-quarto
+- **Texto ALT**: Vista lateral de três quartos de um camião leve Qingling Isuzu KV100 em terra neutra
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 O Qingling Isuzu KV100 é um camião ligeiro de cabina (face plana) construído pela Qingling Motors na China para a categoria doméstica "placa azul" N2 — veículos com uma massa bruta de veículo a menos de 4.5 t que podem ser conduzidos sob uma licença normal de veículo ligeiro na China. Para um comprador de exportação as disciplinas-chave são disciplina regulatória e modelo-linha: fixar o sufixo exato do motor e seu China- 6 fase de emissão, manter o KV100 separado de Qingling / linhas de Isuzu adjacentes, como o mais novo 100P, e não tratar os dados de carga útil classificados para caminhão usado como dados de fábrica. Esta página é uma referência de mercado ** chinês-** e não iguala o Qingling-built KV100 com a gama global Isuzu N/ELF sem uma instrução OEM do mesmo modelo.
 

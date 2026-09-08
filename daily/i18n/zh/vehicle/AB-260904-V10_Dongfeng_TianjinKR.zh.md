@@ -1,15 +1,17 @@
 # 东风天津KR(天锦KR) 冷藏车:Cassis、超结构及出口用GVW
 
-## 道德操守办公室 元数据
-- **SEO标题**:东风天津KR冷藏机车样板及出口指南(18t).
-- ** 金属说明**: Chinese-market Dongfeng Tianjin KR 6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, 快8-speed号, 达纳轴, 18 t GVW, 电磁波 MIIT模型代码,  and  底盘与冷藏的上层结构有何不同.
-- ** 提议URL**:车辆/东风-天津-kr/
-- ** H1 资源需求。 **:天津东风KR 冷藏车: 底盘+出口购买者的超结构光谱
-- ** 基本关键词**:Dongfeng tianjin kr冷藏卡车出口规格
-- ** 二级搜索术语**: Tianjin KR DFH5180XLC, 东风 康明斯 B6.2, 6.8m辆冷藏车, 中国冷藏卡车出口, 18t GVW 底盘
-- ** 内部链接建议**: /指南/车辆-出口-hs-code-classation/;/指南/出口-车辆-文件包装/;/车辆/jmc-shunda/
-- ** 图像建议**:KR 暗箱侧6.8m箱;底盘框架;Cummins B6.2发动机;冷藏装置;后门和内部
-- ** ALT(美国) 建议**: "Dongfeng Tianjin KR 6.8m refrigerated truck 18t"; "天津KR底盘对礁石上层建筑".
+## SEO元数据
+- **SEO标题**: 东风天津KR冷藏车样和出口指南(18t).
+- **Meta描述**: Chinese-market Dongfeng Tianjin  KR  6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, 快8-speed号, 达纳轴, 18 t GVW 号, MIIT型号代码,  and  底盘与冷藏的上层结构有何不同.
+- **H1**: 东风天津KR 冷藏车: 底盘+出口购买者的超结构光谱
+- **核心关键词**: 冷藏卡车出口
+- **次级搜索词**: Tianjin  KR   DFH5180XLC , 东风 康明斯 B6.2, 6.8m辆冷藏车, 中国冷藏卡车出口, 18t GVW 底盘
+- **建议URL**: /vehicles/dongfeng-tianjin-kr/
+- **搜索意图**: Understand Dongfeng Tianjin  KR  Refrigerated Truck: 底盘+出口购买者的超结构光谱: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **图片建议**: KR 暗箱侧6.8m 盒
+- **ALT文本**: 东风天津KR6.8m冷藏车18t
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买方背景:一种特殊车辆是两种产品——底盘和超级结构
 冷藏车不是单一的工厂规格. ** 轮机**(发动机、变速箱、轴、GVW、轮机基地)由卡车制造者建造; 由机体建造者安装的**隔热箱、冷藏装置、温度区和绝缘厚度**。 将冷藏机作为固定工厂的装配设备处理——或将6.8米KR与更大的KR Plus合并——是这里的主要采购错误. 本页记录 **Chinese-market Tianjin KR 18 t-class reefer chassis (REFERENCE MARKET: (一) 中国**; 模版代码出现在MIIT的公告中,该公告以法律规格为主.
@@ -71,16 +73,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) caminhão refrigerado
+- ** ** 自动桥出口-买方参考——东风天津KR,汽油/柴油中国市场车辆冷藏车
+- **法国**: 出口运动员汽车(Référence AutoBridge)——天津KR东风,中国文化博物馆(marché chingorifique)
+- DE**: 国家 自动桥-Referenz für Exportkäufer — 东风天津 KR, Verbrenner (chinesischer Markt) 互联网档案馆的存檔,存档日期2013-12-21. 库尔-卢
+- **ES**: 出口竞争管理咨询公司——天津KR东丰公司, ehículo de buxustion (mercado chino) camión frigorifico
+-  **: 出口控制中心-天津KR, eículo a buccustão (mercado chinês) caminhão 冷冻机
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+- 身份证**: 裁判员 自动布里奇 untuk pembeli ekspor——东风天津 KR, kendaraan mesin pembakaran (pasar Tiongkok) truk 贝平因
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 

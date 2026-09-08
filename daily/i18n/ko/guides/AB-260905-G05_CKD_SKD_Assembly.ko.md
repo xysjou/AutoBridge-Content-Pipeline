@@ -1,15 +1,17 @@
 # CKD/SKD의 특징 Knockdown 수출 및 해외 조립 - 모델, 분류 및 규정 준수
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: CKD/SKD Knockdown 장비 수출과 해외 회의: 분류와 수락
-- **마타 기술 **: CKD/SKD 차량 키트 수출 작업: Harmonized System에 내장된 분류, 왜 대상 방수 지역 조립 처리는 국가 별이며, 중국 수출 업체가 운송 키트 전에 확인해야 하는지.
-- ** H1 **: CKD/SKD Knockdown 수출 및 해외 회의 — 모형, 분류 및 수락
-- ** 출원 키워드**: ckd skd 녹아웃 장비 수출 집합
-- **세컨드 검색 조건**: CKD SKD 수출; 녹아웃 키트; 해외 조립; GRI 2 (a) 분해; 로컬 조립 관세
-- **Suggested URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- ** 수색 **: 区分 CBU/CKD/SKD 模式, 理解散件出口归类, 原产地与目的国组装的关键合规问题
+## SEO 메타데이터
+- **SEO 제목**: CKD/SKD  Knockdown Kit Export  and  해외 회의: 분류 및 규정
+- **메타 설명**: CKD/SKD 차량 키트 수출 작업: 해몬 시스템에서 내장 된 분류, 왜 목적지 관세 / 지역 조립 처리는 국가 별이며, 중국 수출 업체가 운송 키트 전에 확인해야합니다.
+- **H1**: CKD/SKD  Knockdown Export  and  해외 회의 - 모델, 학회소개  and  인증 및 인증
+- **주요 키워드**: ckd skd 녹아웃 장비 수출 집합
+- **보조 검색어**: CKD SKD 수출; 녹아웃 장비; 해외 집합; GRI 2 (a) unassembled; 국부적으로 집합 관세
+- **추천 URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
+- **검색 의도**: CKD/SKD Knockdown 수출 및 해외 어셈블리를 이해하십시오. 모델, 분류 및 규정 준수: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
 - **내부 링크 제안**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- **Schema Scope**: 기사 (제품/오프러/리뷰 없음)
+- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 CKD/SKD Knockdown 수출 및 해외 회의 — 모형, 분류 및 수락, 단계 검사 또는 사람들은 주장하지 않는.
+- **ALT 텍스트**: 가까운, 자연적 재료와 CKD/SKD Knockdown 수출 및 해외 회의와 관련된 주제 - 모델, 분류 및 Compl, 중립적 배경, 사람들이 또는 검사 활동 표시되지.
+- **스키마 범위**: 기사 (제품/오프러/리뷰 없음)
 
 ## CKD와 SKD가 sourcing 결정에 대해
 A **SKD (semi-knocked-down)** 키트는 일부 조립 모듈을 발송합니다. **CKD (completely-knocked-down)** 키트는 로컬 어셈블리에 대한 구성 요소의 전체 세트를 발송합니다. 두는 부분 및 조립 모델과 함께 완성 된 차량 수출을 대체, 일반적으로 목적지 로컬 조립 정책을 충족. 상업적인 매력은 진짜이지만, 법적 관세는 **의 정의 관세 기관에 의해 결정된다**, 중국 수출업자가 위탁 "CKD"를 레테르를 붙이지 않는.
@@ -37,17 +39,16 @@ A **SKD (semi-knocked-down)** 키트는 일부 조립 모듈을 발송합니다.
 ** 모든 시장에서 하나의 키트 디자인 작업 할 수 있습니까? ** No — 분류 및 집합 조건은 국가 별입니다.
 **BOM은 무엇을해야합니까?** 분류하기 전에 모든 구성품에 HS 선, 근원 및 가치 할당.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm 대한 자세한 정보 | 归类以协调制度 进出口税则为基础,  归类裁定与决定 |
 | 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | 담당자: Mr. wang | T4 | 한국어 | https: | 成套散件清单 /HS 逐项整理流程线索 HS 成套散件清单 HS 成套散件清单 HS 逐项整理流程线索 HS 成套散件清单 HS 逐项整理流程线索 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 逐项整理流程线索 HS 成套散件清单 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 成套散件清单 HS 逐项整理流程线索 HS 成套散件清单 HS 成套散件清单 HS 成套散件清单 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 成套散件清单 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 成套散件清单 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 HS 逐项整理流程线索 | https://m.11467.com/product/d53830031.htm
 | 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | 담당자: Mr. wang | T4 | 한국어 | https: | 成套散件申报要素线索 | https://m.11467.com/product/d14729353.htm
-| 갑상선 시스템 Nomenclature (WCO) | 세계관람기구 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: | HS nomenclature는 WCO에 의해 유지된 분류 기초입니다 | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx
+세계관람기구 | 세계관람기구 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: HS nomenclature는 WCO에 고정된 판매 후입니다.|https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx
 | WCO Origin 장비 및 도구 | 세계관람기구 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx 통해 | WCO에 의해 유지되는 규칙의 논리 구조 및 계기 |
 | Customs Valuation에 대한 WTO 계약 | 세계 무역기구 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm 의 경우 | 사용자 정의 valuation 프레임 워크는 녹아웃 키트와 조립 된 유닛이 서로 값이 잡을 때 관련; 자체 설정 대상 어셈블리 관세 |
-| WCO의 특징 HS Nomenclature - 분류 계기 (GRI) | 세계관람기구 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | 일반 해석 규칙 (GRI 2 (a) 포함) 노크다운 상품의 분류; 깊은 페이지 |
+| WCO의 특징 HS Nomenclature - 분류 계기 (GRI) | 세계관람기구 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | 일반 해석 규칙 (GRI 2 (a) 포함) 노크다운 상품의 분류; 전체보기
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05
@@ -56,18 +57,18 @@ A **SKD (semi-knocked-down)** 키트는 일부 조립 모듈을 발송합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 CKD/SKD Knockdown 수출 및 해외 조립
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 CKD/SKD Knockdown 수출과 해외 회의
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -80,6 +81,5 @@ A **SKD (semi-knocked-down)** 키트는 일부 조립 모듈을 발송합니다.
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

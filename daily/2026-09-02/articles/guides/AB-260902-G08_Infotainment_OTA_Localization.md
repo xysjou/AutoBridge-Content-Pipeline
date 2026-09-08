@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Chinese-Car Infotainment & OTA Abroad: a Per-VIN Check Guide
 - **Meta Description**: Will a China-spec head unit work in your market? Verify UI language, local maps, phone mirroring, app/server reachability and OTA on the actual VIN — with brand-specific facts kept separate from industry examples.
-- **Suggested URL**: /guides/chinese-car-infotainment-ota-localization/
 - **H1**: Making a Chinese Car's Software Work in Your Market: What to Test on the Actual Car
 - **Primary Keyword**: Chinese car infotainment English OTA overseas localization per VIN
 - **Secondary Search Terms**: China-spec head unit English UI, BYD DiLink overseas, Chinese EV maps abroad, CarPlay Android Auto Chinese car, OTA server region, Arabic RTL HMI, export-version software build
+- **Suggested URL**: /guides/chinese-car-infotainment-ota-localization/
+- **Search Intent**: Understand Making a Chinese Car's Software Work in Your Market: What to Test on the Actual Car: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: Chinese-only vs English HMI; five software checks; domestic vs export software stack; OTA server-region diagram
-- **ALT Suggestions**: "China-spec head unit language settings"; "five infotainment localization checks"; "domestic versus export software stack"
+- **Image Suggestion**: Chinese-only vs English HMI; five software checks; domestic vs export software stack; OTA server-region diagram
+- **ALT Suggestion**: China-spec head unit language settings
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## The Evidence Discipline This Guide Follows
 Software behaviour is **brand- and VIN-specific**, so this page deliberately separates two kinds of statement:
 - **Brand/model-specific facts** — these can only be settled on the exact VIN via the brand's overseas channel or a live test; they are never inferred from another model.

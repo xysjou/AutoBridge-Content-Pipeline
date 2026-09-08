@@ -1,14 +1,16 @@
 # Construyendo una red de ventas después de las ventas, piezas y garantía de ultramar desde un inicio permanente
-## SEO Metadatos
-- **SEO Título**: Overseas After-Sales, Parts & Garantía Red Guía de configuración
-- **Meta Descripción**: Cómo un exportador de vehículos construye una red de ventas después de la venta en el extranjero, los modelos de red se ajustan a la base instalada, las acciones regionales, las promesas de garantía coinciden con la capacidad de servicio real, y la expectativa de política de China detrás de ella.
-- ** URL agregada**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: Construcción de vehículos exportados después de las ventas, repuestos y garantía de la capacidad de los vehículos exportados
-- **Primary Keyword**: extranjero postventa repuestos garantía red de configuración exportador
-- **Segundary Search Terms**: red de servicios de exportadores en el extranjero, almacén de piezas regionales, política de garantía de vehículos en el extranjero, red independiente de reparación de múltiples marcas, soporte de postventa
-- **Sugerencias internas**: /guides/vehicle-export-sales-contract-clauses/; /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/
-- **Sugerencias de imagen**: árbol de decisión de modelo de red instalado; tigres de repuesto; bucle de garantía-capacidad de combinación
-- **Sugerencias de ALT**: "modelo de red postventa por base instalada"; "tapas de repuestos regionales"
+## Metadatos SEO
+- **Título SEO**: Garantía de venta después de las ventas, piezas " Guía de configuración de redes
+- **Meta descripción**: Cómo un exportador de vehículos construye una red de ventas después de la venta en el extranjero, los modelos de red se igualaron a la base instalada, las acciones regionales, las promesas de garantía coinciden con la capacidad de servicio real, y la expectativa de política de China detrás de ella.
+- **H1**: Construcción de vehículos exportados en el extranjero después de ventas, piezas de repuesto y capacidad de garantía
+- **Palabra clave principal**: exportador de red de garantía de repuestos de ultramar
+- **Términos de búsqueda secundarios**: red de servicios de exportación en el extranjero, almacén de piezas regionales, política de garantía de vehículos en el extranjero, red independiente de reparación de múltiples marcas, soporte de ventas
+- **URL sugerida**: /guides/overseas-aftersales-parts-warranty-network/
+- **Intención de búsqueda**: Comprender la capacidad de construcción de vehículos exportados después de las ventas, repuestos y garantía para vehículos exportados: qué debe verificar, documentar y decidir un exportador de vehículos o partes antes de comprometerse a realizar un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **Sugerencia de imagen**: árbol de decisión de modelo de red instalado
+- **Texto ALT**: modelo de red postventa por base instalada
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Ámbito: Esto es sobre el servicio operativo, no comprar piezas de repuesto
 Esta guía cubre **superior de ventas, suministro de piezas y cumplimiento de garantía** en un mercado de destino. Es deliberadamente distinto del tema separado de *procuración* recambios en China (un grupo de contenido de repuestos_partes existentes) — los componentes de la fuente son una entrada; esta página es sobre la capacidad de operación ** que convierte esas piezas en tiempo de actualización del cliente.
@@ -52,18 +54,18 @@ Una garantía es sólo creíble en la medida en que la red pueda honrarla:
 **¿Cómo es diferente de una guía de "comprar piezas de repuesto"?** Esto cubre la contratación de partes en China; esto cubre la capacidad de servicio/partes/warranty en el mercado de destino.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf

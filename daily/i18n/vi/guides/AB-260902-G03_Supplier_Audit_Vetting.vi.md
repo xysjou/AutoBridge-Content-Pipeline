@@ -1,15 +1,17 @@
 # Làm thế nào để kiểm tra một xe xuất bản Supplier trước khi thanh toán:
 
-## SAO Siêu dữ liệu
-- **SEAO Title**: Kiểm tra một xe xuất khẩu Trung Quốc: Due-Diliglist
-- **Meta Mô tả**: Một khuôn khổ tiền thưởng cho việc kiểm duyệt xuất khẩu xe Trung Quốc - kiểm tra thông báo cá nhân/CCC, kiểm tra kinh doanh, xuất khẩu chuỗi cho phép, AEO, tiêu chuẩn tính toán số lượng và tiêu chuẩn quảng cáo.
-- ** URL đã gợi ý**: /guides/verification-china-car-explier-Supplier/
-- ** H1 Bác bỏ một công ty xuất khẩu xe cộ Trung Quốc: Điều gì cần kiểm tra trước khi người đầu tiên được trả tiền?
-- ** Từ khoá khóa bí mật**: kiểm tra xuất khẩu xe hơi Trung Quốc đúng mức giấy phép
-- **Scondary Search Wordss**: xe xuất khẩu chuẩn, nhà sản xuất xe MIIT thông báo, CCC chứng nhận xuất khẩu chứng nhận, kiểm tra doanh nghiệp gsxt, công ty xuất khẩu xe, công ty luật AEO
-- **I nội bộ Link gợi ý: sử dụng-chinese-vice-pection/;guides/commeral-cracover-cccate-cuffa-china
-- **Image gợi ý**: thời hạn kim tự tháp lớp; trường kiểm tra công nghệ gsxt; cho phép-chain biểu đồ; cảnh báo đếm số đối xứng ngân hàng
-- **LT gợi ý**: "Người xuất xe hơi Trung Quốc cần phải kiểm tra các lớp; "Các trường thông tin hệ thống tín dụng của Enterprise," "Tặng cho chuỗi cho phép nhà máy"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Kiểm tra một danh sách kiểm tra tính chính xác của xe hơi Trung Quốc
+- **Meta mô tả**: Một khung tiền thưởng cho việc kiểm tra xuất khẩu xe Trung Quốc - MIIT thông báo/ CCC, ngân phiếu kinh doanh, xuất khẩu chuỗi cho phép, AEO, tiêu chuẩn tương ứng và quảng cáo video.
+- **H1**: Bác bỏ một nhà xuất bản xe cộ Trung Quốc: Điều gì cần kiểm tra trước khi thanh toán tiền trước?
+- **Từ khóa chính**: Kiểm tra nhà cung cấp xe hơi Trung Quốc xuất khẩu với bằng cấp đầy đủ
+- **Cụm tìm kiếm phụ**: Trung Quốc xuất khẩu các khả năng xuất khẩu xe, MIIT nhà sản xuất xe, CCC chứng nhận xuất khẩu chứng nhận, kiểm tra giấy phép kinh doanh gsxt, công ty xuất khẩu xe hơi, AEO trang web
+- **URL đề xuất**: /guides/verify-china-car-export-supplier/
+- **Ý định tìm kiếm**: Hiểu rằng, một nhà xuất bản xe cộ Trung Quốc là: Cần phải kiểm tra điều gì? Trước khi thanh toán đầu tiên: một người xuất khẩu xe/một phần phải xác nhận điều gì, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Gợi ý hình ảnh**: kim tự tháp đã được phân cấp theo thời hạn
+- **Văn bản ALT**: Xuất khẩu xe hơi Trung Quốc với sự cần thiết để xác thực lớp
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Vấn đề được giải quyết
 
@@ -90,18 +92,18 @@ Làm sao để kiểm tra giấy phép của công ty Trung Quốc? Truy vấn g
 Cái gì chứng minh một nhà cung cấp xuất khẩu? (Tiếng 3-month) xuất khẩu các bản tuyên bố cộng với việc kiểm toán đường dây trực tiếp, cổ phần, QC  and  Đang tải bến tàu. Kiểm tra chéo các yêu cầu.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf

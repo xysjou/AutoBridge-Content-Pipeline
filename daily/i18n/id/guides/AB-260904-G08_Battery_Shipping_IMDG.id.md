@@ -1,15 +1,17 @@
 # Pengiriman Kendaraan Listrik oleh Sea Under IMDG 42-24: UN3556, UN3171 dan Distinksi Baterai Spare-
 
-## SEO Metadata
-- ** SeO Judul ** EV Laut Freight Di bawah IMDG 42-24 - UN3556/3557/3558 vs UN3480/3481
-- ** Meta Description **: Dari 2026, kendaraan lithium-ion yang dipasang dengan pesawat baterai sebagai UN3556 (lithium-metal UN3557, sodium-ion UN3558) di bawah Amandemen IMDG 42-24; UN3171 adalah sempit dan lemah penggunaan baterai UN3480/3481 dengan UN38.3.
-- ** Sugested URL **: guide ev- shippping- un3556-imdg-compliance
--   H1 Klasifikasi Batter menerkam Kendaraan untuk Laut Freight Di bawah CurDG Code saat ini (Amandemen 42-24)
-- ** Primary Keyword **: UN3556 lithium ion kendaraan IMDG 42-24 pengiriman
-- ** Secondary Search Terms **: UN3557 lithium metal kendaraan, UN3558 natrium ion kendaraan, P912 packing instruksi, SP405 mark, UN3171 sempit, UN3480 UN3481, UN38.3 manual tes rev8
-- ** Inside Link Sugestions **: guide kendaraan export -p- pre-shipts -handover guide export- documents paket kendaraan weluring-bingo
-- ** Saran Gambar **: whole-kendaraan vs lose- baterai nomor UN split; Class 9 platard; P912/SP405 menandai diagram
-- ** ALT Saran **: "UN3556 terpasang - kendaraan baterai versus UN3480 baterai longgar di bawah IMDG 42-24"
+## Metadata SEO
+- **Judul SEO**: EV Laut Freight Dibawah IMDG 42-24 - UN3556/3557/3558 vs UN3480/3481
+- **Deskripsi Meta**: Dari 2026, kendaraan lithium-ion yang dipasang dengan pesawat baterai sebagai UN3556 (lithium-metal UN3557, sodium-ion UN3558) di bawah IMDG Amandemen 42-24; UN3171 dipersempit  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: Klasifikasi Battery- Berbubuk Kendaraan untuk Laut Freight Di bawah Kode IMDG Saat ini (Amandemen 42-24)
+- **Kata kunci utama**: UN3556 lithium ion kendaraan IMDG 42-24 pengiriman
+- **Istilah pencarian sekunder**: UN3557 kendaraan logam lithium, UN3558 kendaraan ion natrium, P912 packing instruksi, SP405 tanda, UN3171 dipersempit, UN3480 UN3481, UN38.3 manual tes rev8
+- **URL yang disarankan**: /guides/ev-shipping-un3556-imdg-compliance
+- **Maksud pencarian**: Memahami Rahasia Battery- Bertenaga Kendaraan untuk Laut Freight Bawah Kode IMDG Saat ini (Amandemen 42-24): apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Saran gambar**: whole- kendaraan vs loose - baterai nomor UN split
+- **Teks ALT**: UN3556 installed-battery kendaraan versus UN3480 baterai longgar di bawah IMDG 42-24
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## The Classification Diubah - Lama UN3171 Habits Apakah Sekarang Salah
 Sebuah praktek umum sebelum 2026 adalah untuk buku setiap battery- didorong kendaraan di bawah ** UN3171 **. Berdasarkan Kode IMDG saat ini, Amandemen 42-24 (diadopsi oleh IMO Resolusi ** MSC. 556 (108) ***** wajib di Cina dari 2026-01-01 ** per resmi Administrasi Keselamatan Maritim Cina), itu tidak lagi benar untuk kendaraan lithium utama. Menggunakan nomor lama pada deklarasi 2026 adalah klasifikasi kesalahan yang berhenti berbahaya - barang dokumen di pemesanan.

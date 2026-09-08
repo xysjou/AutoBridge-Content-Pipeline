@@ -1,15 +1,17 @@
 # 出口车辆的分类:将87.01–87.05和8716拖车按2026关税分类
 
-## 道德操守办公室 元数据
-- ** 标准电子标准标题**:车辆出口HS编码分类指南——8701/8702/8703/8704/8705/8716
-- ** 金属说明**: 中国出口商如何在讨论关税或认证之前,根据2026进出口关税法,将正确的HS方向分配给拖拉机、客车、客车、货车、特殊用途车辆和拖车。
-- ** 提议URL**: 指南/车辆出口-hs编码分类
-- ** H1 资源需求。 **:哪辆HS车是我的车? 以2026关税制为基础的出口-出口-出口分类指南
-- ** 关键词**: 车辆出口hs代码分类8702 8703 8704 8705
-- ** 二级搜索术语**:8701拖拉机 HS,8703型客车 HS,8704型货车,8705型专用车,8716拖车 HS,2026 中国进口出口关税章87
-- ** 内部链接建议**: /指南/钦那-出口-原产地证书/;/车辆/东风-天长-kl/;/车辆/东风-天长-kr/
-- ** 图像建议**:HS 向决策树;汽车对卡车对拖拉机对拖车图标集;海关申报表栏
-- ** ALT(美国) 建议**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
+## SEO元数据
+- **SEO标题**: 车辆出口HS代码分类 指南 - 8701/8702/8703/8704/8705/8716
+- **Meta描述**: 中国出口商如何在讨论关税或认证之前,根据2026进出口关税,将正确的HS号航向分配给拖拉机,客车,货车,特殊用途车辆和拖车.
+- **H1**: 哪个HS号是"我的车"? 以2026关税制为基础的出口-出口-出口分类指南
+- **核心关键词**: 车辆出口hs代码分类8702 8703 8704 8705
+- **次级搜索词**: 8701拖拉机HS,8703型客车HS,8704型货车8705型专用车8716拖车HS,2026 中国进口出口关税一章 87
+- **建议URL**: /guides/vehicle-export-hs-code-classification
+- **搜索意图**: 懂我那辆HS号车吗? 以2026关税制为基础的出口系统分类指南:车辆/部件出口商在承诺订购之前必须核实、记录和决定什么。
+- **内链建议**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **图片建议**: HS 标题决定树
+- **ALT文本**: HS号车开往决定树8701 8702 8703 8704 8705 8716
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 为何在一切之前就出现了
 关税、认证、检查和单证都与《统一制度》编码无关——然而,出口商往往首先引用运输报价,将车辆归类为几乎是事后考虑。 对于顺序倒置的商用和特殊用途车辆:牵引头,货车,特殊功能卡车和拖车不采用一种程序,假定"全部87.04"是货运在海关重新分类的方式. 本页的工作规则是**HS-first**:先将确切的标题和国家小标题钉上,然后转向关税和符合性。 本表为**2026版"中华人民共和国进出口关税"***(由国务院关税委编),**GACC关于实施2026关税调整方案的公告**. 四位数/六位数标题相对稳定;十位数国家小标题和临时税率随每一年度关税而变化,必须逐版引用.
@@ -68,16 +70,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Classifying vehicles HS 87.01-87.05, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Classifying vehicles HS 87.01-87.05, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Classifying vehicles HS 87.01-87.05, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Classifying vehicles HS 87.01-87.05, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Classifying vehicles HS 87.01-87.05, guia de compras para exportação de veículos
+- ** ** 自动桥出口-买方参考——车辆分类 HS 87.01-87.05,车辆-出口采购指南
+- **法国**: 汽车出口汽车-车辆分类 HS 87.01-87.05,汽车出口指南
+- DE**: 国家 自动桥-Referenz für Exportkäufer——分类车辆 HS 87.01-87.05, Leitfaden für Fahrzeugexport-Einkauf
+- **ES**: 出口品自动保险公司——车辆分类 HS 87.01-87.05,出口品自动保险公司
+-  **: 出口控制中心——车辆分类,HS 87.01-87.05,出口控制中心
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Classifying vehicles HS 87.01-87.05, 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Classifying vehicles HS 87.01-87.05, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Classifying vehicles HS 87.01-87.05, hướng dẫn thu mua xuất khẩu xe
+- **VI**: 汽车桥(Tài liệu khảo AutoBridge) cho người mua xuất khẩu – 分类车辆 HS 87.01-87.05, hướng dẫn tuhuu mua xuất khẩu xe
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Classifying vehicles HS 87.01-87.05, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Classifying vehicles HS 87.01-87.05, panduan pengadaan ekspor kendaraan
+- 身份证**: 车辆分类——HS 87.01-87.05, 番uan 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番uan 番uan 番uan 番uan 番an 番an 番uan 番uan 番uan 番uan 番uan 番uan 番uan 番uan 番uan 番an 番uan 番uan 番an 番uan 番uan 番uan 番an 番an 番an 番an 番an 番an 番an 番uan 番uan 番uan 番uan 番uan 番uan 番an 番uan 番uan 番uan 番an 番an 番an 番uan 番uan 番uan 番an 番uan 番uan 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an 番an
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 

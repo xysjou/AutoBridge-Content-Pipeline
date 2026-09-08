@@ -6,7 +6,7 @@
 - **Primary Keyword**: Kenya vehicle import KRA KEBS PVoC
 - **Secondary Search Terms**: Kenya KRA vehicle import duty; KEBS PVoC motor vehicle; import standardization mark Kenya; Kenya used car age rule; Kenya import declaration
 - **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Search Intent**: 向肯尼亚出口车辆需经过哪些海关计税、装船前合格评定与标准/车龄要求，分别由哪些机构负责
+- **Search Intent**: Understand Importing Vehicles into Kenya: KRA Customs, KEBS PVoC and the Standards Path: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: Mombasa port vehicle import handling with KEBS and KRA documents
 - **ALT Suggestion**: Vehicle import file with KEBS and KRA paperwork and a port yard in the background

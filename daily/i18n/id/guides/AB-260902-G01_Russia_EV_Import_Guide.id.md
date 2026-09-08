@@ -1,14 +1,17 @@
 # Mengimpor EV Cina ke Rusia EEU: Tipe Pendekatan, ERA- GlonasS dan Dokumen Yang Harus Setuju
-## SEO Metadata
-- ** Judul SEO **: Impor EV Cina ke Rusia: Persetujuan Tipe EEEU & Bea Cukai
-- ** Meta Description **: Rusia EEEU rute konformitas untuk EV Cina - TR CU 018/2011 OTTC vs SBKTS, ERA- GLONASS di bawah regulasi, EPTS, China 2026 aturan ekspor, dan apa yang harus dikonfirmasi sebelum membayar.
-- ** Sugested URL **: guide import- chinese- even- eaotc
--   H1 Bagaimana kendaraan listrik Cina membersihkan Rusia EEEU: sesuai rute dan surat kabar Bea Cukai
-- ** Primary Keyword **: impor EV Cina ke Rusia UKURAN EEEU OTTC SBKTS
-- ** Akhir Pencarian Second **: TR CU 018/2011 kendaraan beroda, tipe persetujuan kendaraan EEU, sertifikat kendaraan tunggal SBKTS, ERA- GLONASS persyaratan, paspor elektronik EPTS, ekspor Cina EV lisensi 2026
-- ** Internal Link Sugestions **: guide kendaraan import- tugas -tt-vs-lc guide marine-cargo-asuransi -import guide verify-china -carexports -pemasok
-- ** Saran Gambar **: OTTC-versus- SBKTS diagram rute; tanda konformitas EAC; ERA- GLONASS terminal dan tombol SOS; dokumentasi-nama konsisten flow
-- ** Saran ALT **: "EEU OTTC melawan rute sertifikasi kendaraan SBKTS"; "Tanda konformitas EAC"; "dokumen yang harus menyebutkan importir yang sama dan VIN".
+## Metadata SEO
+- **Judul SEO**: Impor Cina EV ke Rusia: EAEU Tipe Pendekatan & Bea Cukai Path
+- **Deskripsi Meta**: Rusia / EAEU rute konformitas untuk sebuah Cina EV - TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS di bawah regulasi, EPTS, Cina 2026 ekspor - aturan lisensi, dan persis apa yang harus dikonfirmasi sebelum membayar.
+- **H1**: Bagaimana kendaraan listrik Cina membersihkan Rusia / the EAEU: konformitas Route dan Bea Cukai Papers Papers
+- **Kata kunci utama**: impor Cina EV ke Rusia EAEU OTTC SBKTS bea cukai
+- **Istilah pencarian sekunder**: TR CU 018/2011 kendaraan beroda, EAEU tipe persetujuan kendaraan, SBKTS tunggal sertifikat kendaraan, ERA-GLONASS persyaratan, EPTS paspor elektronik, China EV ekspor lisensi 2026
+- **URL yang disarankan**: /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Maksud pencarian**: Memahami bagaimana sebuah kendaraan listrik Cina membersihkan Rusia / the EAEU: Konformitas Route and Bea Cukai Papers: apa yang harus diverifikasi kendaraan / suku cadang, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /guides/verify-china-car-export-supplier/
+- **Saran gambar**: OTTC-versus- diagram rute SBKTS
+- **Teks ALT**: EAEU OTTC melawan SBKTS rute sertifikasi kendaraan
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## Masalah sebenarnya bagi seorang importir B2B
 EV Cina mencapai pembeli hanya setelah tiga hal berbaris: sebuah ** dokumen kesesuaian EAEU yang valid **, sebuah * penyediaan darurat yang diterima untuk pendaftaran **, dan paket undang-undang dokumen yang memiliki arti hukum didamaikan di seluruh sertifikat konformitas, importir catatan dan faktur **. Dalam praktek, pengiriman paling sering mengalami kesulitan ketika dokumen nama pihak yang berbeda, atau ketika sertifikat per- unit diharapkan berperilaku seperti persetujuan batch tipe. Ini disajikan sebagai langkah kontrol pemicu, yang tepat untuk persyaratan legall-entitas untuk rute yang diberikan harus dikonfirmasi dengan tubuh terakreditasi dan broker bea cukai. Panduan ini khusus untuk ** Rusia dalam Uni Ekonomi Eurasia (EAEU) **; ini bukan pernyataan "CIS" yang umum, dan secara sengaja memisahkan regulasi yang diselesaikan dari titik-titik biaya proses yang berubah dan harus dikonfirmasi langsung.
 ## TR CU 018/2011
@@ -53,30 +56,30 @@ Panduan generik mengutip akronim yang sama tanpa menyelesaikan kesepakatan. Fram
 Apa yang berubah di sisi China tahun 2026? Dari 1 Januari 2026 kendaraan penumpang listrik berada di bawah ekspor-rezim lisensi (gabungan Pengumuman No 54), dan eksportir harus memenuhi syarat dibawah 2026 MOFCOM proses daftar aplikasi daftar.
 Mengapa mendamaikan nama importir di dokumen? Sebagai masalah pengendalian risk-, menyelaraskan pemegang OTTC SBKTS, importir bea cukai dan faktur consignee menghindari sengketa izin registrasi; di mana mereka tidak dapat identik, memperoleh panduan tertulis dari broker tertulis atau pabean sesuai dengan pengaturan.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Russia EAEU EV import approval, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Russia EAEU EV import approval, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Russia EAEU EV import approval, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Russia EAEU EV import approval, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia EAEU EV import approval, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia EAEU EV import approval, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia EAEU EV import approval, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia EAEU EV import approval, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Russia EAEU EV import approval, 汽车出口采购指南
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Russia / EAEU EV import approval, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Russia / EAEU EV import approval, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia / EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Russia / EAEU EV import approval, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Russia / EAEU EV import approval, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia / EAEU EV import approval, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia / EAEU EV import approval, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia / EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia / EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia / EAEU EV import approval, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |

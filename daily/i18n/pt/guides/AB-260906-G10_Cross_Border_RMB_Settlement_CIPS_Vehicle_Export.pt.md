@@ -1,16 +1,16 @@
 # Exportações de veículos chineses em RMB: RMB Cross-Border Resolução e papel da CIPS
-## SEO Meta- dados
-- **SEO Title**: RMB Liquidação & CIPS para os exportadores de veículos chineses
-- ** Descrição do Meta**: Se e como um exportador de veículos chinês pode faturar e receber pagamento em RMB, como funciona a liquidação transfronteiriça RMB, a posição de reembolso de impostos e o que o CIPS realmente faz.
-- ** H1 **: Ajustando as exportações de veículos chineses em RMB: RMB Cross-Border Resolução e papel da CIPS
-- **Chave principal**: liquidação transfronteiras de RMB exportação de veículos CIPS
-- ** Termos de pesquisa secundários**: liquidação comercial RMB; pagamento interbancário transfronteiriço CIPS; recibo de exportação renminbi; reembolso fiscal transfronteiriço RMB; exportador de faturamento RMB
-- **Suggested URL**: /guides/cross-border-rmb-settlement-cips/
-- ** Intenção de pesquisa**: 汽车出口企业能否用人民币结算收汇、如何办理跨境人民币结算、CIPS在其中起什么作用
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
-- ** Sugestão de Imagem**: Um exportador que compara as rotas de liquidação RMB no ecrã com um contrato de veículo e o diagrama CIPS
-- **ALT Sugestão**: Tela que mostra rotas de liquidação de RMB transfronteiriças ao lado de um contrato de exportação de veículos
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadados SEO
+- **Título SEO**: RMB Liquidação e CIPS para os exportadores de veículos chineses
+- **Meta descrição**: Se e como um exportador de veículos chinês pode facturar e receber pagamento em RMB, como funciona a liquidação transfronteiras RMB, a posição de reembolso fiscal e o que CIPS realmente faz.
+- **H1**: Exportações de veículos chineses em RMB: Cross-Border RMB Resolução e papel de CIPS
+- **Palavra-chave principal**: Transfronteiras RMB liquidação CIPS exportação de veículos
+- **Termos de busca secundários**: RMB liquidação comercial; CIPS pagamento transfronteiras interbancário; recibo de exportação renminbi; reembolso fiscal transfronteiras RMB; RMB exportador de facturação
+- **URL sugerida**: /guides/cross-border-rmb-settlement-cips/
+- **Intenção de busca**: Compreenda a fixação de exportações de veículos chineses em RMB: Cross-Border RMB Liquidação e Papel de CIPS: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
+- **Sugestão de imagem**: Um exportador comparando RMB rotas de liquidação no ecrã com um contrato de veículo e um diagrama de CIPS
+- **Texto ALT**: Tela que mostra as rotas de liquidação transfronteiriças RMB ao lado de um contrato de exportação de veículos
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 A facturação de uma exportação de veículos em renminbi em vez de dólares americanos elimina uma camada de risco de troca para o vendedor chinês — mas apenas se o acordo for estruturado legalmente, o comprador pode realmente obter e pagar RMB, e o canal bancário apoia-o. Esta página explica a base política para a liquidação transfronteiras de RMB, como um exportador de veículos recebe RMB, a posição de reembolso fiscal de exportação e, precisamente, o que o Sistema de Pagamentos Interbancários Cross-Border (CIPS) faz e não faz.
 

@@ -1,16 +1,16 @@
 # Kembalikan Ekspor Barang-barang di Cina: The One- Year Duty Exemption  and  Trek Terpisah Enam Bulan E- Iklan
-## SEO Metadata
-- ** Judul SEO **: China Returned Export Goods Duty Exemption (One-Year & CBEC Rules) | AutoBridge
-- ** Meta Description **: Ketika barang ekspor Cina dikembalikan dalam waktu satu tahun untuk alasan kualitas atau spesifikasi masukkan kembali perangkat-bebas di bawah perintah GACC 272, perbedaan perbatasan e- perdagangan enam-bulan, dan apa 'negara asli' dibutuhkan.
-- ** H1 **: Kembalikan Ekspor Barang-barang di Cina: The One- Year Duty Exemption  and  Trek Terpisah Enam Bulan E- Iklan
-- ** Primary Keyword **: export mengembalikan barang tugas pembebasan peraturan Cina
-- ** Secondary Search Terms **: 退运货物免税; GACC Pesan 272 artikel 49; mengembalikan barang ekspor satu tahun; lintas perbatasan ekommerce mengembalikan barang enam bulan; import asli negara
-- ** Sugesti URL **: / panduan / ekspor -returned-goods- duty-exception / regulation /
-- ** Cari Intent **: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别 = 原状认定与已退税补缴
-- ** InhernLink Sugestions **: / guide / cross-border- ecommerce- b2b-export-9710-9810/, / guidance / custom -commerustary -discoure- advention /, / guarding / concesive- bonde-zone -vat- refund- export /
-- ** Imagesticalypse **: Bagian ekspor yang dikembalikan sedang diperiksa terhadap dokumentasi ekspor aslinya
-- ** AlT Sugesti **: Mengembalikan kargo di bawah inspeksi di samping dokumen deklarasi ekspor asli
-- ** Skema Scope **: Artikel (tidak ada Produk / Offer / Harga / Review / Rating)
+## Metadata SEO
+- **Judul SEO**: China Returned Export Goods Duty Exemption (One-Year &  CBEC  Rules) | AutoBridge
+- **Deskripsi Meta**: Ketika barang ekspor Cina dikembalikan dalam waktu satu tahun untuk kualitas atau alasan spesifikasi masukkan kembali kotak-bebas dibawah GACC Pesan 272, perbedaan persimpangan perbatasan e- aturan perdagangan enam bulan, dan apa 'negara asli' dibutuhkan.
+- **H1**: Kembalikan Ekspor Barang-barang di Cina: The One- Year Duty Exemption  and  Trek Terpisah Enam Bulan E- Iklan
+- **Kata kunci utama**: ekspor barang mengembalikan tugas pembebasan peraturan Cina
+- **Istilah pencarian sekunder**: 退运货物免税; GACC Pesan 272 artikel 49; barang ekspor dikembalikan satu tahun; perbatasan persimpangan ekommerce mengembalikan barang enam bulan; asli re- impor
+- **URL yang disarankan**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Maksud pencarian**: Memahami KembalikanEkspor Barang di Cina: Exemption Tugas Satu dan Terpisah Enam Bulan E- Commerce Track: apa yang eksportir kendaraan / bagian harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Saran gambar**: Bagian ekspor yang dikembalikan sedang diperiksa terhadap dokumentasi ekspor aslinya
+- **Teks ALT**: Mengembalikan kargo di bawah inspeksi di samping dokumen deklarasi ekspor asli
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Ketika barang diekspor kembali ke Cina - batch ditolak bagian, kendaraan yang gagal tujuan penerimaan, saham e- perdagangan yang tidak terjual - asumsi baku adalah bahwa reimport adalah peristiwa yang dapat ditanggung pajak. Aturan adat Cina menyediakan pengecualian tertentu, namun bersyarat ketat mengapa barang kembali, berapa lama mereka berada di luar negeri, dan apakah mereka kembali dalam keadaan asli mereka. Para pendukung yang melewatkan setiap kondisi membayar tugas impor dan penting-tahap pajak pada barang mereka awalnya dibuat di Cina. This guide separates the general one-year rule from the distinct cross-border e-commerce six-month track, Menjelaskan "keadaan asli",  and  tanda dimana surat pernyataan telah diklaim harus dibayar kembali.
 

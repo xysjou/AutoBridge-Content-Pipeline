@@ -7,8 +7,10 @@
 - **Primary Keyword**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
 - **Secondary Search Terms**: Foton General G9 export; Dajiangjun G9 pickup; Chinese diesel pickup; 4WD pickup; double cab
 - **Suggested URL**: /vehicles/foton-general-g9/
-- **Search Intent**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context: a work pickup with two fuel lines

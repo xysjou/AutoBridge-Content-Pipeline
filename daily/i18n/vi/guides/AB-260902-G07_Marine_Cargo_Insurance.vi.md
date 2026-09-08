@@ -1,14 +1,17 @@
 # Bảo hiểm xe cộ Trung Quốc có tải: ICC (A)/ b)/ (C), giá trị bảo đảm và đường mòn xác nhận
-## SAO Siêu dữ liệu
-- **SEAO Tittry**: Bảo hiểm biển cho các xe nhập khẩu Trung Quốc: ICC Bản quyền
-- **Meta Mô tả**: Đảm bảo rằng một phương tiện vận chuyển của Trung Quốc trong đại dương đúng như vậy — Viện chính thức Cargo Clauses (A)/ (B)/ (C), Tại sao xe lại cần tất cả các-Riss,  the CIF/CIP Incoterms 2020 insurance obligations, Hội nghị giá trị bảo hiểm  and  khẳng định bằng chứng.
-- ** URL đã gợi ý**: /guides/marine-carsego-Inscief-car-port/
-- ** H1 **: Du hành xe cộ Trung Quốc ở Ocean Transit: Clause Tier, Sum Insbing và một lời tuyên bố là thật sự được trả
-- **Cumpary Keyword**: bảo hiểm hàng hóa biển nhập khẩu xe Trung Quốc ICC A B C
-- **Secondary Search Words**: Viện Cargo Clauses Tất cả những rủi ro, LMA CL382, Ký hiệu CIP 2020 ICC A, ICC Tối thiểu C, Trung tâm vận chuyển hàng của nhà SDR, Bảo hiểm phương tiện RoRo, ắc quy bắn ra từ biển bao gồm
-- **I nội bộ Link gợi ý: /guides/commercal-crac-coveral-coverment-china /guides/fides-chin-chin-ev-pist-ev-inction/
-- **Image gợi ý**: Tháp kim tự tháp A/B/C ICC; rủi ro-difer/inscation- Percation bởi Inctern; tình trạng tàu đã được đặt; các máy tính-cap chống lại khoảng cách giá trị phương tiện
-- **LT gợi ý**: "Thợ sửa xe C.A.C; "T.F.A.T.I.T.V.V.T.O.I.T.O.D.O.D., nghĩa vụ bảo hiểm bán hàng theo định kỳ 2020, "điều kiện phương tiện làm việc trước khi thành lập"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Bảo hiểm biển cho xe nhập khẩu Trung Hoa: ICC Clauses & xác nhận
+- **Meta mô tả**: Đảm bảo rằng một phương tiện vận chuyển của Trung Quốc trong đại dương đúng như vậy — Viện chính thức Cargo Clauses (A)/B)/(C), tại sao xe cần tất cả các xe, CIF/CIP Dự trữ bảo hiểm 2020 nghĩa vụ bảo hiểm, hội nghị bảo hiểm giá trị và xác nhận bằng chứng.
+- **H1**: Du hành xe cộ Trung Quốc ở Ocean Transit: Clause Tier, Sum Insbing và một lời tuyên bố được trả lương
+- **Từ khóa chính**: Bảo hiểm hàng hóa biển nhập khẩu Xe của Trung Quốc ICC A B C
+- **Cụm tìm kiếm phụ**: Viện Cargo Clauses Tất cả những rủi ro, LMA CL382,   CIP  Incoterms 2020  ICC  A, CIF ICC Tối thiểu C, Trung tâm vận chuyển Hague-Visby SDR, Bảo hiểm phương tiện RoRo, EV ắc quy bắn biển bao phủ
+- **URL đề xuất**: /guides/marine-cargo-insurance-car-import/
+- **Ý định tìm kiếm**: Hiểu được sự bao gồm của xe cộ Trung Quốc ở Ocean Transit: Clause Tier, Sum Insed và làm thế nào một tuyên bố là thực sự trả tiền: những gì một người xuất khẩu xe/ phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **Gợi ý hình ảnh**: Name
+- **Văn bản ALT**: Viện Cargo Clauses A B Dây buộc bao gồm C
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Quan điểm sai lầm khiến người ta phải trả giá bằng tiền
 Người mua giả định rằng dưới FOB hoặc COR dòng ** Tàu vận chuyển ** bồi thường đầy đủ một chiếc xe bị trầy xước, bị đánh cắp, bị đánh cắp hoặc bị mất nước. Nó không phải là: trách nhiệm hàng hóa bị bao phủ bởi hội nghị quốc tế dưới giá trị của một chiếc xe, và các điều khoản hàng hóa bạn chọn quyết định liệu thiệt hại vận chuyển có bao gồm tất cả. Trang này bao gồm **Mariine bảo hiểm vận chuyển xe cộ từ đường biển Trung Quốc** (toàn bộ) — các điều khoản và yêu cầu khác biệt với giá trị trong nước và từ sự lựa chọn của RoRo-vs-container.
 ## Ba người ông già Nô - en — Được lệnh phải thi hành nhiệm vụ
@@ -52,18 +55,18 @@ Kẻ phá sản bán một cái giá phải trả; hiếm khi nào họ liên k�
 **CIF hay CAP — mặc định nào mạnh hơn? Theo định giới hạn 2020 CNP đòi hỏi ít nhất ICC (A); mặc định là ICC (C), vì vậy trên yêu cầu CNIF (A) trong văn bản.
 **Có phải pin điện từ-náp được bao phủ bởi All risks? Nó tùy thuộc vào cách viết — công bố EV và xác nhận bằng văn bản.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf

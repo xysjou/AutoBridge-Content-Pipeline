@@ -1,16 +1,18 @@
 # SAIC Maxus Xintu V90 ديزل فان: مؤتمر تجاري لامع، ليس نموذجاً واحداً
-## SEO Metadata
-- ** عنوان المنظمة**: SAIC Maxus V90 ديزل فان سبيكس دليل مصادرة الصادرات
-- ** وصف البيانات**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT RWD مع عجلات مزدوجة الركبة، قاعدتان متحركتان 9–15 مقعداً بالهجوم
-- ** URL المقترض**: /مركبات/سيك -ماكسوس - v90-specs/
-- ** H1 **: SAIC Maxus Xintu V90 (Chinese-Market): ديزل لايت فان نقابة وتحقق من الصادرات
-- ** كلمة مفتاحية رمزية**: مواصفات سيك ماكسوس v90 شاحنة ديزل
-- ** شروط البحث الثانية**: Maxus V90 wheelbase, V90 ZF 8AT, حافلة (ماكسوس) الخفيفة 9-15 مقعد تصدير الديزل من مجموعة كبيرة شاحنة ذات عجلات خلفية مزدوجة
-- ** Internal Link Suggestions**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/vehicle-coc-typeapproval-dossier/
-- ** اقتراحات تتعلق بالنص**: - طول العجلات العالية جداً؛ - أكسل ذي فتحتين ذي فتحتين ذي فتحتين؛ راكب ضد جثة شحن؛ ZF 8AT selector; الشحنات الداخلية
-- ** اقتراحات بشأن: "سي سي سي سي سي سي ماكسوس V90 شاحنة طويلة من طراز عجلات السقف، "V90 محرك ديزل وخيارات أكسل الخلفية
+## بيانات SEO الوصفية
+- **عنوان SEO**: SAIC ماكسوس V90 ديزل فان سبيكس دليل مصادرة الصادرات
+- **وصف Meta**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT RWD مع عجلات مزدوجة قاعدتان متحركتان 9–15 مقعداً بالهجوم
+- **H1**: SAIC ماكسوس شينتو V90 (مريخ الصين): ديزل لايت فان نقابة وتحقق من الصادرات
+- **الكلمة المفتاحية الرئيسية**: saic maxus v90 diesel van specs
+- **مصطلحات بحث ثانوية**: Maxus V90 wheelbase, V90 ZF 8AT حافلة (ماكسوس) الخفيفة 9-15 مقعد تصدير الديزل من مجموعة كبيرة شاحنة ذات عجلات خلفية مزدوجة
+- **URL المقترح**: /vehicles/saic-maxus-v90-specs/
+- **نية البحث**: (أ) أن تفهم SAIC ماكسوس شينتو V90 (مريخ الصين): Diesel Light Van Configuration and Export checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **اقتراح الصورة**: طول العجلات العالية
+- **نص ALT**: شاحنة متحركة طويلة من طراز Maxus V90
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Buyer Context: Order a Configuration Code, not a Name
+# Buyer Context: الأمر بمدونة الإتحاد، وليس اسم
 The Xintu V90 is a **wide-wide-body light commercial platform** sold as passenger minibus, panel/cargo van and bare chassis-cab, across multiple wheelbases, roof altitudes, seat counts and single/dual rear wheels. لا يوجد واحد "V90 مطيّب". وظيفة المصدر هي إصلاح الرمز النموذجي المتجانس (公告型号)** ثم تطابق المحرك، وجهاز التروس، ورف، والجسم والمقاعد إليه - لأن شهادة المقصد تُؤدّى على تلك التشكيلة المحددة. REFERENCE MARKET: **CHINA**.
 
 ## المحرك والخط (التركيز التجاري على الديزل)
@@ -56,40 +58,40 @@ The Xintu V90 is a **wide-wide-body light commercial platform** sold as passenge
 ** لماذا يجب أن أقتبس من رمز نموذجي**؟ ويختلف العجلات والسقف والمقاعد والمحور والشبكة العالمية المعنية بالمركبات بين V90 تشكيلة ملغومة؛ ولا يحدد سوى الرمز المواصفات.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| تشكيلة قدرها V90 شينتو (5498 جثة) | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | صرخات | الدرجة، أبعاد الجسم |
+| Protecting V90ito (5498) | PRO PRONA | | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1selectedTrimId=173112 - 2026-09-03 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / الممتنعون عن التصويت
 | SAIC MIS 2.0T خط طاقة الديزل | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | صرخات | 110/130 kW, 375 N·m RWD، عجلة ذات خلفية مزدوجة |
 | V90 2025 130 kW 420 N·m | Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | صرخات | 130 kW 420 N·m، و 8AT فرنك، و 9–15 مقعد (مجلس واحد المصدر) | 16888
 | Xintu V90 2024 parameters | قاعدة بيانات سينا أوتو | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | صرخات | 5498/2062/2545، قاعدة عجلات 3366/3760 |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 

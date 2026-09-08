@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: UAE Vehicle Import & RTA Registration Documents Guide
 - **Meta Description**: Sequence a UAE vehicle import correctly — customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). Reported duty/VAT figures are flagged for official UAE confirmation rather than stated as fixed.
-- **Suggested URL**: /guides/uae-vehicle-import-registration-documents/
 - **H1**: UAE Vehicle Import: From Port Clearance to RTA Registration — Documents and Verification
 - **Primary Keyword**: uae vehicle import registration documents rta process
 - **Secondary Search Terms**: Dubai customs vehicle import, UAE Mulkiya registration, GCC GSO vehicle conformity, UAE car import duty VAT, MoIAT vehicle import
+- **Suggested URL**: /guides/uae-vehicle-import-registration-documents/
+- **Search Intent**: Understand UAE Vehicle Import: From Port Clearance to RTA Registration — Documents and Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: clearance→RTA sequence diagram; UAE document checklist; emirate/federal authority map
-- **ALT Suggestions**: "UAE customs to RTA registration sequence"; "UAE vehicle import document checklist"
+- **Image Suggestion**: clearance→RTA sequence diagram; UAE document checklist; emirate/federal authority map
+- **ALT Suggestion**: UAE customs to RTA registration sequence
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Scope and Evidence Boundary (read first)
 This guide uses the **UAE as the worked example**; the sequencing logic transfers to other GCC markets, but each emirate and each GCC state applies its own forms and fees. **No UAE federal-customs or RTA primary page was captured in this package.** Accordingly, concrete duty/VAT/fee figures below are **reported by freight-forwarder guides and are TIME-SENSITIVE verification items, not fixed facts** — obtain the current values from the UAE federal customs authority and the relevant emirate's RTA before committing a landed-cost model.

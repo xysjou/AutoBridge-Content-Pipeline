@@ -6,7 +6,7 @@
 - **Primary Keyword**: Qingling Isuzu KV100 export specs
 - **Secondary Search Terms**: 庆铃KV100; KV100 4KH1CN6LB; Isuzu light truck China; blue plate truck; Chinese N2 truck export; MSB 5MT
 - **Suggested URL**: /vehicles/qingling-isuzu-kv100/
-- **Search Intent**: 面向海外买家介绍庆铃KV100中国市场身份、4KH1国六柴油、货箱长度区间，并区分相邻100P车型线与全球ELF
+- **Search Intent**: Understand Qingling Isuzu KV100: A China-Market Blue-Plate Light Truck Reference Built Around GVW, Engine and Adjacent Model Lines: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/changan-kaicene-f70/, /vehicles/jmc-ford-transit-t8/, /vehicles/faw-jiefang-j7-tractor/
 - **Image Suggestion**: A Qingling Isuzu KV100 cab-over light cargo truck shown from side three-quarter
 - **ALT Suggestion**: Side three-quarter view of a Qingling Isuzu KV100 cab-over light truck on neutral ground

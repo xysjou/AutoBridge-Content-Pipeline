@@ -1,16 +1,16 @@
 # Assurance-crédit à l'exportation de la Chine (SINOSURE Couverture à court terme): Quels sont les exportateurs de véhicules en fait acheter
-## OEuvre Métadonnées
-- **Référencement Titre**: Assurance crédit à l'exportation à court terme pour les exportateurs de véhicules
-- **Description détaillée**: Comment un exportateur de véhicules chinois utilise l'assurance-crédit à l'exportation à court terme de SINOSURE pour couvrir le risque commercial et politique de l'acheteur, qui peut appliquer, et ce que la police ne garantit jamais.
-- ** H1 **: Assurance crédit à l'exportation de la Chine (SINOSURE): ce que les exportateurs de véhicules achètent réellement
-- **Mot-clé principal**: assurance crédit à l'exportation de Chine sinosure
-- **Conditions de recherche secondaires**: assurance crédit à l'exportation à court terme; risque d'acheteur de SINOSURE; couverture risque politique à l'exportation; demande d'assurance crédit à l'exportation; assurance compte ouvert Chine
-- **Suggested URL**: /guides/china-export-credit-insurance-sinosure/
-- **Intention de la recherche**: 汽车出口商如何用中国出口信用保险 (中信保短期险) 覆盖买方商业 政治风险 -通过什么渠道投保
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+## Métadonnées SEO
+- **Titre SEO**: SINOSURE Assurance crédit à l'exportation à court terme pour les exportateurs de véhicules - AutoBridge
+- **Description meta**: Comment un exportateur de véhicules chinois utilise SINOSURE assurance crédit à l'exportation à court terme pour couvrir les risques commerciaux et politiques de l'acheteur, qui peut appliquer, et ce que la police ne garantit jamais.
+- **H1**: Assurance-crédit à l'exportation de la Chine (SINOSURE Couverture à court terme): ce que les exportateurs de véhicules achètent réellement
+- **Mot-clé principal**: Chine crédit à l'exportation assurance sinosure
+- **Termes de recherche secondaires**: assurance crédit à l'exportation à court terme; SINOSURE risque pour l'acheteur; couverture risque politique à l'exportation; demande d'assurance crédit à l'exportation; assurance compte ouvert Chine
+- **URL suggérée**: /guides/china-export-credit-insurance-sinosure/
+- **Intention de recherche**: Comprendre l'assurance-crédit à l'exportation de la Chine (SINOSURE Couverture à court terme): Ce que les exportateurs de véhicules achètent réellement: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Suggestion d'image**: Un exportateur qui examine un dossier de limite de crédit à côté d'un chantier de véhicules fini
-- **ALT Suggestion**: Bureau avec un document de limite d'achat d'assurance crédit à l'exportation et une rangée de véhicules d'exportation en arrière-plan
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **Texte ALT**: Bureau avec un document de limite d'achat d'assurance crédit à l'exportation et une rangée de véhicules d'exportation en arrière-plan
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Un ordre de véhicule n'est que aussi sûr que la créance qui l'accompagne. Lorsqu'un exportateur chinois accepte d'expédier en compte ouvert, contre une lettre de crédit d'utilisation ou avec paiement après l'arrivée, l'écart entre la remise d'un actif de grande valeur et la réception de fonds dédouanés est porté par l'exportateur, à moins que quelque chose ne transfère ce risque. L'assureur chinois de crédit à l'exportation, la China Export & Credit Insurance Corporation (SINOSURE), est l'institution nationale qui a été créée pour combler une partie de cette lacune. Cette page explique ce que son produit à court terme couvre en fait, où les limites sont présentes, et comment un exportateur de véhicules s'applique — sans citer les taux ou les pourcentages d'indemnité, qui sont établis au cas par cas et changent au fil du temps.
 

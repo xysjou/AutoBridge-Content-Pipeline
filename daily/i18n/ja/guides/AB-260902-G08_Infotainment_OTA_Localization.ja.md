@@ -1,14 +1,17 @@
 # 中国の車情報、アプリ、OTA 海外: パービンのローカリゼーション検証ガイド
-## ツイート メタデータ
-- **SEOタイトル**:中国車情報とOTAの海外: パービン チェックガイド
-- **メタ 記述**: 中国-spec 実際のVINでUI言語、ローカルマップ、電話ミラーリング、アプリ/サーバーのリーダビリティ、OTAを検証します。ブランド固有の事実は業界例とは別々に保たれています。
-- **混雑URL**: /guides/chinese-car-infotainment-ota-localization/
-- H1 ホテル **: 中国の車のソフトウェアをあなたの市場で動作させる: 実際の車のテストに何を
-- **主なキーワード**: 中国の車の情報化英語OTAの海外ローカリゼーション/VIN
-- **二次検索条件**:中国-specヘッドユニット英語UI、BYD DiLink海外、中国EVマップ海外、CarPlay Android Auto中国車、OTAサーバー領域、アラビア語RTL HMI、エクスポートバージョンソフトウェアビルド
-- **内部リンクの提案**: /guides/chinese-ev-charging-standard-compatibility/; /guides/right-hand-drive-chinese-cars/; /guides/verify-china-car-export-supplier/
-- **イメージ提案**: 中国語のみと英語 HMI 対。 five software checks; 家庭用対輸出ソフトウェアスタック; OTAサーバ・レギュレーション図
-- アルト 提案**: 「中国-spec ヘッドユニット言語設定」 "five infotainment localization checks"; 「国内対輸出ソフトウェアスタック」
+## SEOメタデータ
+- **SEOタイトル**: 中国の車情報とOTA 留学: パー- VIN チェックガイド
+- **メタディスクリプション**: 中国・中小企業のヘッドユニットは、市場で動作しますか? UI言語、ローカルマップ、電話ミラーリング、アプリ/サーバーのリーダビリティ、OTAを実際のVINで確認します。ブランド固有の事実は業界例とは別々に保たれています。
+- **H1**: 中国の車のソフトウェアをあなたの市場で動作させる:実際の車のテスト
+- **主要キーワード**: 中国の車情報 英 OTA 外国ローカリゼーション/VIN
+- **関連検索語**: 中国spec の頭部の単位の英語 UI、BYD 海外のDiLink、中国EVの地図海外、CarPlayの人間の特徴をもつ自動車中国車、OTAサーバー区域、アラビア語RTL HMIの輸出版ソフトウェア造り
+- **推奨URL**: /guides/chinese-car-infotainment-ota-localization/
+- **検索意図**: 中国の車のソフトウェアをあなたの市場で動作させるのに理解: 実際の車でテストする:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **画像候補**: 中国語のみ対英語 HMI
+- **ALTテキスト**: 中国-spec ヘッドユニット言語設定
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## 証拠の規律 このガイドは従います
 ソフトウェアの動作は、**ブランドです。  and  VIN 固有の**、  so this page deliberately separates two kinds of statement:
 - — これらは、ブランド海外チャネルまたはライブテストを介して、VIN を正確に解決できるだけ。彼らは別のモデルから決して劣らない。
@@ -55,18 +58,18 @@
 不正な点滅は、保証を無効化し、コンプライアンスの問題を上げることができます。工場の輸出ビルドやブランド支援のルートを好む。
 **英語UIはアラビア語で読みますか?** いいえ。アラビア語は翻訳を介したRTLレイアウトと適切なローカリゼーションを必要とします。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf
@@ -83,13 +86,13 @@
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 中国語ブランドソフトウェアの章(自己開発コックピット、中国語デフォルトレイヤー) | 電気自動車中国(産業) | CN→グローバル | 以下は、 の特長 | 2026-09-02 | シングル_ソース | 業界**pattern/exampleのみ**、一般化されていません | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/
-| BYDシーライオン07 ウクライナのローカリゼーションケース | NEV Fix(ローカライズサービス) | CN→マルチ | 以下は、 の一覧 | 2026-09-02 | シングル_ソース | **ブランド固有の例**:中国唯一の問題; BYDアカウントの英語スイッチ(モデルごとに再確認) | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html
+| 中国語ブランドソフトウェアの章 (自己開発コックピット 、 中国語デフォルトレイヤー) | 電気自動車中国 (産業) |  CN  → グローバル | 以下は 、 の特長 | 2026-09-02 | シングル _ ソース | 業界 **pattern/example のみ **、 一般化されていません | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/
+|  BYD  シーライオン 07 ウクライナのローカリゼーションケース |  NEV  Fix(ローカライズサービス) |  CN  → マルチ | 以下は 、 の一覧 | 2026-09-02 | シングル _ ソース | ** ブランド固有の例 **: 中国人参問題; このページは、http://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html のドキュメントを閲覧できます。
 | Denza Z 欧州 Google/Gemini対国内コックピット | Xueqiu (引用リリース) | CN→EU(CN→EU) | 以下は、 https://xueqiu.com/9837237227/399831947 の | 2026-09-02 | シングル_ソース | **輸出対国内スタック(ユニバーサルなし)の例** |
-| 検証チェックリストのPer-VINソフトウェア | StarVia Auto(輸出サービス) | CN→グローバル | 以下は、 | 2026-09-02 | シングル_ソース | Five-check acceptance method | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally
+| 検証チェックリストの Per-  VIN  ソフトウェア | StarVia Auto(輸出サービス) |  CN  → グローバル | 以下は 、 | 2026-09-02 | シングル _ ソース | Five-check acceptance method | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally
 | 多言語/RTL の輸出標準 | CCID 赛迪 ノイソフトワンコア 取材(業界メディア) | 営業拠点 | 担当: http://www.ccidnet.com/hlw/93237.jhtml のファイル | 2026-09-02 | シングル_ソース | RTL/アラビアレイアウトの検討 |
-| 中国の車OSの英語版B2Bの輸出ガイド | 電気自動車中国 | CN の | 以下は、 の特長 | 2026-09-02 | シングル_ソース | 英文 HMI、刷机成本 (行业口径、待官方核验) | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/
-| 中国汽车出海，智能化为何"水土不服" | 汽车之家・车家号 | CN の | 以下は、 ?is=pc から | 2026-09-02 | シングル_ソース | 海外用户 UI 翻译 手机互联问题 | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc
+| 中国の車  OS  の英語版 B2B の輸出ガイド | 電気自動車中国 |  CN  の | 以下は 、 の特長 | 2026-09-02 | シングル _ ソース | 英文  HMI  、 刷机成本 (行业口径 、 待官方核验) | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/
+| 中国汽车出海 ， 智能化为何 " 水土不服 " | 汽车之家・车家号 |  CN  の | 以下は 、 ?is=pc から | 2026-09-02 | シングル _ ソース | 海外用户  UI  翻译 手机互联问题 | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc
 
 ※本書:すべての引用素材は業界/サービス/メディアであり、パターンや単体ブランドケースのイラストとして使われています。中国全車が行動を分かち合うという証拠として使われません。 ブランドの輸出言語リスト、OTAサーバー規制ポリシー、および「必須英語HMI」の検査クレームは、第一次規制当局によって確認されず、特定のVINのブランドの海外チャネルで解決する必要があります。 ふりがな
 ## 編集レビュー

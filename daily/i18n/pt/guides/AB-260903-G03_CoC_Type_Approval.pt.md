@@ -1,14 +1,16 @@
 # Certificado de conformidade vs Homologação: um exportador de mapas dos Dossiê Continue a errar
-## SEO Meta- dados
-- ** Título SEO**: Guia do comprador do veículo CdC vs Homologação (WVTA, OTTS, E-mark)
-- ** Descrição do Meta**: Desembaraçar o certificado de conformidade nacional da China do mercado de destino CoC e da UE WVTA, EAEU OTTS/EAC e sistemas de marca eletrónica/E-mark — de modo que o dossiê certo chega ao balcão de registo.
-- ** URL sugerido**: /guides/veículo-coc-tipo-aprovação-dossier/
-- ** H1 **: Veículo CdC e homologação de veículo inteiro: Combinando o documento certo com o mercado certo
-- **Chave principal**: certificado de conformidade do veículo vs. homologação wvta otts emark
-- ** Termos de pesquisa secundários**: China CoC export, UE homologação de todo o tipo de veículo, EAEU OTTS EAC, e-mark vs E-mark, UNECE 1958 homologação de tipo, processo de registro de veículo
-- ** Sugestões de ligação interna**: /guias/china-veículo-exportação-licença-documentos-customs-documentos/; /guias/uae-veículo-importação-registro-documentos/; /veículos/sáic-máxus- v90-specs/
-- **Imagem Sugestões**: diagrama de hierarquia de documentos (aprovação de tipo → CoC); mapa de certificado de mercado→; comparação de CoC de China vs destino CoC de CdC de China
-- ** ALT Sugestões**: "aprovação do tipo para certificado de hierarquia de conformidade"; "WVTA OTTS E-mark market map"
+## Metadados SEO
+- **Título SEO**: Veículo CoC vs Homologação (WVTA, OTTS, E-mark) Guia do comprador
+- **Meta descrição**: Desembaraçar o certificado de conformidade nacional da China com o mercado de destino CoC, e EU WVTA, EAEU OTTS/EAC e sistemas de marca eletrónica/marca E – assim o dossiê certo chega ao balcão de registro.
+- **H1**: Tipo de veículo CdC e veículo inteiro: Combinando o documento certo com o mercado certo
+- **Palavra-chave principal**: Certificado de conformidade do veículo vs. homologação wvta otts emark
+- **Termos de busca secundários**: China CoC exportação, EU homologação de veículo inteiro, EAEU OTTS EAC, marca eletrónica vs E-mark, UNECE 1958 homologação, processo de registro de veículo
+- **URL sugerida**: /guides/vehicle-coc-type-approval-dossier/
+- **Intenção de busca**: Compreender o tipo de veículo CdC e o tipo de veículo inteiro: Coincidir o documento certo com o mercado certo: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
+- **Sugestão de imagem**: diagrama de hierarquia (aprovação do tipo → CoC)
+- **Texto ALT**: homologação de tipo ao certificado de hierarquia de conformidade
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## A Confusão Principal
 Os exportadores tratam repetidamente ** um documento como se fosse outro**: apresentam um chinês doméstico 合格证 CoC como acesso ao mercado no exterior, ou assumem que um componente E-mark certifica todo o veículo. A homologação e um certificado de conformidade situam-se a níveis diferentes — e não se pode entender que tal erro seja uma razão comum para rejeitar o registo. Este guia mapeia os sistemas. ** Nota de prova:** o quadro do lado da China está fundamentado em materiais MIIT; descrições dos instrumentos UE/UEA/UNECE abaixo são provenientes de fornecedores de serviços de certificação (secundário), e os textos de regulamentação propriamente ditos devem ser retirados da Comissão EUR-Lex UNECE da UEA antes de uma decisão de conformidade — não são citados aqui como estatuto primário.
@@ -51,18 +53,18 @@ Um saco de componentes marcados com E não é ** igual a um veículo inteiro WVT
 **Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf

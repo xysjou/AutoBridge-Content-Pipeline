@@ -1,14 +1,17 @@
 # Blak Commercial- Truk Pemotoran Armada dari Cina: Duty- Teknik Siklus, 2026 Exports-Aturan Licence dan Penerimaan
-## SEO Metadata
-- ** Seo Judul ** Membeli sebuah Armada Truk Cina di Bulk:
-- ** Meta Description **: Insinyur dan pembobolan menemukan truk berat sampah khusus Cina - spesifikasi siklus ganda, poros kerangka tubuh, ekspor kendaraan resmi 2026 Cina, ijin penerimaan tendergrade dan rantai dokumen.
-- ** Sugested URL **: guide komersial-truk-truk-song- procuredment -china
--   H1 Mendapatkan Armada Truk Commercial- dari China:
-- ** Primary Keyword **: jumlah besar armada truk komersial yang diolah dengan lisensi ekspor spesifikasi Cina
-- ** Akhir Pencarian Second **: China membuang truk 6x4 8x4 ekspor, 2026 ekspor lisensi kendaraan MOFCOM, pure- EV expor lisensi penumpang HS 8703801090, diperkuat dengan frame aktil, armada penerimaan tender, dokumen ekspor kendaraan komersial
-- ** Internal Link Sugestions **: kendaraan shacman - x3000-dump-truck/; kendaraan sinotruk- holo- t7h-tractor/; kendaraan foton -aumarks-truk guide verify-chink-export-
-- *** Saran Gambar **: duty-cycle-spec lembar kerja; frame axle; pemeriksaan penerimaan tender; ekspor dokumen rantai
-- ** Saran ALT **: "Armada truk yang mampu menjalankan spesifikasi siklus lembar kerja"; "lapis ganda bingkai dan percepat penggerak"; "armada penerimaan lembut di pabrik"
+## Metadata SEO
+- **Judul SEO**: Membeli sebuah Armada Truk Cina di Bulk: Spec, Licence & Penerimaan
+- **Deskripsi Meta**: Insinyur dan pembobolan menemukan truk berat / sampah / khusus Cina - spesifikasi siklus ganda, poros / kerangka / tubuh, ekspor kendaraan resmi 2026 Cina, ijin penerimaan tendergrade dan rantai dokumen.
+- **H1**: Menyewa Armada Truk Commercial- Dari Cina:
+- **Kata kunci utama**: besar-besaran komersial armada truk promosi Cina spesifikasi ekspor lisensi
+- **Istilah pencarian sekunder**: Truk pembuangan Cina 6x4 8x4 ekspor, 2026 ekspor kendaraan lisensi MOFCOM, pure- EV penumpang ekspor lisensi HS 8703801090, diperkuat poros, armada tender penerimaan, kendaraan komersial ekspor dokumen
+- **URL yang disarankan**: /guides/commercial-truck-fleet-procurement-china/
+- **Maksud pencarian**: Memahami Penerimaan Kendaraan / suku cadang harus memverifikasi dokumen dan memutuskan sebelum berkomitmen untuk sebuah perintah.
+- **Saran tautan internal**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **Saran gambar**: duty-cycle- to- spec lembar kerja
+- **Teks ALT**: Armada truk duty- siklus spesifikasi lembar kerja
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## Armada adalah insinyur Order, tidak Diambil dari Shelf
 6 x 4 pemberi tip tambang, sebuah 8 × 4 on- jalan raya dump, traktor panjang-haul  and  Sebuah reefer atau tanker permintaan kuat berbeda, bingkai, axles  and  pilihan tubuh,  and  perintah besar harus tambahan memuaskan China *** saat ini (2026) export- lisensi rezim **, sebuah rantai dokumen yang ketat  and  Tender- gaya penerimaan. Pemandu ini memberi pembeli armada, kontraktor dan CV importir jalan berulang. Ini mengutip tidak ada perbedaan, movi atau kali timbal - mereka dinegosiasikan per proyek dan tidak ada tokoh-tokoh publik otoriter ada.
 ## Langkah 1 - Tentukan Siklus Tugas Sebelum Harga
@@ -58,18 +61,18 @@ Bagaimana cara menghentikan baja as lemah yang digantikan? Tulis kriteria yang t
 ** Harga atau dukungan suku cadang lokal? ** Untuk armada yang bekerja, liputan layanan suku cadang lokal sering menetapkan total biaya kepemilikan - memverifikasi jaringan OEM sebelum memilih harga.
 ** Apakah diskon besar MOQ diterbitkan? ** Tidak - mereka adalah istilah komersial yang harus dilakukan; bernegosiasi dengan annex teknis yang sangat jelas.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf

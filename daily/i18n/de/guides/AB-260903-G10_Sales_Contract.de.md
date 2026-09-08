@@ -1,14 +1,16 @@
 # Autoexport-Verkaufsverträge: die Klauseln, die tatsächlich die Zahlung, Lieferung und Streitigkeiten kontrollieren
-## SEO Metadaten
-- **SEO Titel **: Fahrzeug Export Sales Contract Clauses & Risk Guide
-- **Meta Description**: Was ein Fahrzeug-Ausfuhrkaufvertrag enthalten muss — VR China Civil Code Art 596 Essentials, Incoterms Risikoübertragung, Eigentumsvorbehalt, Verletzung Reklamation Fenster, Streitbeilegung und Apostille, plus Fahrzeugzustand Offenlegung.
+## SEO-Metadaten
+- **SEO-Titel**: Fahrzeug Export Kaufvertrag Klauseln & Risiko Guide
+- **Meta-Beschreibung**: Was ein Fahrzeug Export Kaufvertrag enthalten muss - PRC Zivilgesetz Art. 596 Essentials, Incoterms Risikoübertragung, Eigentumsvorbehalt, Verletzung / Reklamationsfenster, Streitbeilegung und Apostille, plus Fahrzeugzustands-Offenlegung.
+- **H1**: Schlüsselklauseln in einem Fahrzeugexport-Verkaufsvertrag: Zahlung, Titel, Risiko und Streitigkeiten
+- **Haupt-Keyword**: Risikogewichtete Positionsbeträge
+- **Sekundäre Suchbegriffe**: Eigentumsvorbehalt Exportvertrag, Incoterms Risikoübertragung Fahrzeug, Exportvertrag Verletzung Strafe, ICC Schieds Fahrzeughandel, Apostille Übersee Dokumente, Fahrzeug Zustand Offenlegung
 - **Vorgeschlagene URL**: /guides/vehicle-export-sales-contract-clauses/
-- ** H1 **: Schlüsselklauseln in einem Fahrzeugexport-Verkaufsvertrag: Zahlung, Titel, Risiko und Streitigkeiten
-- ** Primäres Keyword**: Schlüsselklauseln für den Fahrzeugexportkaufvertrag
-- **Secondary Search Terms**: Beibehaltung des Titelexportvertrags, Incoterms Risk Transfer Vehicle, Vertragsverletzungsstrafe für Exportverträge, ICC-Schiedsfahrzeughandel, Apostille-Überseedokumente, Offenlegung des Fahrzeugzustands
-- **Interne Linkvorschläge**: /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Bildvorschläge**: Clause-to-Risk-Karte; Risiko-/Titeltransfer-Zeitleiste; Payment-vs-Delivery-Meilenstein-Chart
-- **ALT-Vorschläge**: "Exportvertragsrisiko und Titelübertragungszeitplan"; "Fahrzeugkaufvertragsschlüsselklauseln"
+- **Suchabsicht**: Verstehen Sie die wichtigsten Klauseln in einem Fahrzeugexport-Verkaufsvertrag: Zahlung, Titel, Risiko und Streitigkeiten: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Bildvorschlag**: Abschnitt-Risiko-Karte
+- **ALT-Text**: Risiko von Exportverträgen und Titelübertragungszeitplan
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Für wen das ist
 Ein erstmaliger Fahrzeugexporteur unterzeichnet oft einen Vertrag über Preis und Menge, dann entdeckt er den Vertrag, der nie festgelegt wurde ** wenn das Risiko besteht, wer vor der vollständigen Zahlung den Titel innehat oder wo ein Streitfall gehört wird **. Dieser Leitfaden zeigt die Klauseln, die diese Ergebnisse steuern. VR China Civil Code Art. 596 wird hier durch **Sekundär-Rechtsportale (FindLaw etc.) beschrieben, die sich auf CROSS_ beschränken CHECKED/SINGLE_SOURCE**; VERIFIED würde den offiziellen Zivilgesetzbuchtext von einer NPC/Regierungsquelle erfordern. Der Rest ist die Synthese von Rechtspraxis. ** Eine Vorlage ist keine Rechtsberatung - lassen Sie einen qualifizierten Anwalt den ausgeführten Vertrag nach dem gewählten Recht überprüfen. **
@@ -56,18 +58,18 @@ Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Soft
 **Müssen ausländische Dokumente legalisiert werden?** Oft ist eine Apostille (Haage) oder konsularische Legalisierung erforderlich; staatliche Verantwortung im Vertrag und Überprüfung des Zielstatus.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf

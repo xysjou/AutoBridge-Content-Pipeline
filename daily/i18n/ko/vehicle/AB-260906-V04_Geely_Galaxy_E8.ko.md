@@ -1,16 +1,16 @@
 # Geely Galaxy E8 (Yinhe E8): 중국 시장 전기 세단 수출
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Galaxy E8 (Yinhe E8) 수출 Specs: 건전지, 범위, 위탁 가이드
-- **마타 기술 **: SEA 기반 Geely Galaxy / Yinhe E8 전기 세단 용 중국 시장 참조: 모터 변형, CLTC 범위 및 배터리 옵션은 트림 별을 유지, 800V 충전 동굴, EV 수출 체크.
-- ** H1 **: Geely Galaxy E8 (Yinhe E8): 중국 시장 전기 세단 참조 수출
-- ** 출원 키워드**: Geely 갤럭시 E8 Yinhe E8 수출 specs
-- **세컨드 수색 조건 **: 갤럭시 E8 SEA 아키텍처; Yinhe E8 CLTC 범위; 갤럭시 E8 800V 충전; 간장 전기 세단 수출; E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- ** 수색 **: 面向海外 B 端买家介绍银河 E8 中国市场版本身份, 三电 / 续航 / 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** 이미지 제안**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
-- ** ALT 제안**: Geely Galaxy E8 전기 세단의 전면 세단 뷰는 가벼운 막대기와 fastback Roofline를 보여주는
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: Geely 은하 E8 (Yinhe E8) 수출 Specs: 건전지, 범위, 위탁 가이드
+- **메타 설명**: SEA의 중국 시장 참고 - 기반 Geely Galaxy / Yinhe E8 전기 세단: 모터 변종, CLTC 범위 및 배터리 옵션은 트림 별을 유지, 800V 충전 동굴, EV 수출 체크.
+- **H1**: Geely Galaxy E8 (Yinhe E8): 중국 시장 전기 세단 수출
+- **주요 키워드**: 지리 갤럭시 E8 Yinhe E8, 중국 수출 specs
+- **보조 검색어**: 은하 E8 SEA 건축술; Yinhe E8 CLTC 범위; 은하 E8 800V 위탁; 간장 전기 세단 수출; E8 475 kW AWD
+- **추천 URL**: /vehicles/geely-galaxy-e8/
+- **검색 의도**: Geely Galaxy E8 (Yinhe E8)에 따라: 중국 시장 전기 세단 참조 수출: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **이미지 제안**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
+- **ALT 텍스트**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  빠른 백 지붕
+- **스키마 범위**: 제+차량
 
 The Galaxy E8 (Yinhe E8) is Geely's flagship electric fastback sedan on the SEA (Sustainable Experience Architecture) — a five-seat, 저 끌기 (약 0.199 Cd) 단 하나 모터 후방 드라이브에서 제안되는 건전지 전기 차  and  듀얼 모터 all-wheel-drive 형태. EV이기 때문에, 구매 결정은 건전지, 시험 주기, 위탁 건축술 및 소프트웨어에, 단 하나 헤드 라인 전원 번호에 아닙니다 전환합니다. 아래 모든 것은 ** 중국 시장 (CLTC) 참조 **; 수출 버전과 그들의 위탁 기준은 분리된 OEM 증거를 요구합니다.
 
@@ -74,16 +74,16 @@ Higher 버전은 800V 플랫폼을 사용합니다. 정확한 SKU를 확인하�
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | 담당자: Mr. Li | T2 | CROSS_체크 | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量,  续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率,  驱动  |
-| 银河 E8 610km 版 (250kW/373N·m、 5.49s、 宁德时代 67.8kWh、 800V) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机, 电池供应商, 平台  |
-| Geely Yinhe/Galaxy E8 함대 페이지 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA 기반 주력 전기 세단 |
-| 글리쉬는 Yinhe E8 (Jan 2024 OEM 방출)의 납품을 시작합니다 | Geely 자동차 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — 발사 타이밍과 바다 건축; SKU 당 손질 specs 아직도 |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — 공지 사항으로 배터리/드라이브 변형을 확인합니다. |
-| Geely Galaxy E8 독립적 인 사양 개요 | 린크카 | 담당자: Mr. wang | T3 | CROSS_체크 | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power - 독립적 인 데이터베이스 크로스 체크; OEM에 대해 확인 |
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量,  续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率,  驱动  |
+| 银河 E8 610km 版 (250kW/373N·m、 5.49s、 宁德时代 67.8kWh、 800V) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 함대 페이지 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: 용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용
+글리쉬는 Yinhe E8 (Jan 2024 OEMending)의 부품을 판매합니다. 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — 발사 타이밍과 바다 건축; SKU : # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 :
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — 공지 사항으로 배터리/드라이브 변형을 확인합니다. 의논문
+| Geely Galaxy E8 독립적 인 사양 개요 | 린크카 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | T3 | CROSS_체크 | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power - ENT 인 타임즈 체크; 의논하기
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (中国市场 CLTC; 电池 / 续航按 트림, 快充峰值缺官方禁写死; 出口版另证)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

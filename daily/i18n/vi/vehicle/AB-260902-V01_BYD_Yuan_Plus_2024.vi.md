@@ -1,14 +1,17 @@
 # DOD Yuan Plus (tiểu số đến 3) — Pin, khoảng vòng quay, nạp và xuất khẩu ghi chú
-## SAO Siêu dữ liệu
-- **SEAO Title**: ByD Yuan Plus Ato 3: ắc quy, Phạm vi & Xuất Nguồn Hướng dẫn
-- **Meta Mô tả**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, Sao lại là Trung Quốc? CLTC phải được giữ riêng biệt với con số WLP/NEEC của một điểm đến, GB/T tương ứng với việc sạc cục bộ,  and  những gì để xác minh bởi VA.
-- ** URL đã được đánh dấu**: /vehicles/byd-yan-plus/
-- ** H1 **: ByD Yuan Plus (tên xuất khẩu Atto 3): pin, Range Cccle, sạc và phần mềm cho Importers
-- ** Từ khoá bí mật **: BYD Yuan Plus Atto 3 specifications export
-- **Secondary Search Words**: DOD Atto 3 ắc quy 60.48 kWh, Viên Liệt, CLTC, DOD Súng định vị,  Atto 3 CCS2 charging, Viên Liệt, Đại Dương, Xuất EV gọn gàng SUV Hoa
-- **I nội bộ Link gợi ý*: tương thích-c; /guides/hand-chin-chinese-cars/; /guides/chin-chin-ev-pies/
-- **Image gợi ý**: phía trước ba phần tư studio xem; 430/510 tương ứng biến thể WLP; sạc cổng đóng; ghế sau và khởi động; xoay màn hình DiLik
-- **LT gợi ý**: "BYD Yuan Plus Atto 3 điện xe SUV," "Yuan Plus CLC so với số lượng Atto 3; "Blade ắc quy sạc cổng GB/T inlet"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: BYD Yuan Plus / Ato 3: pin, Phạm vi & Xuất bản Hướng dẫn
+- **Meta mô tả**: Chinese-market  BYD  Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, Tại sao Trung Quốc CLTC phải được tách biệt khỏi địa điểm WLTP/NEDC con số, GB/T đấu với các cuộc tấn công địa phương,  and  what to verify by  VIN .
+- **H1**: BYD Viên Liệt Cộng (tên xuất khẩu Ato 3): ắc quy, Phạm vi cycc, sạc và Phần mềm cho người nhập khẩu
+- **Từ khóa chính**: BYD  Yuan Plus Atto 3 specifications export
+- **Cụm tìm kiếm phụ**: BYD Tại 3 ắc quy 60.48 kWh,  Yuan Plus  CLTC  vs  WLTP  range,   BYD  Blade Battery  LFP ,  Atto 3  CCS2  charging, Viên Liệt, Đại Yên,  Chinese  EV  compact  SUV  export
+- **URL đề xuất**: /vehicles/byd-yuan-plus/
+- **Ý định tìm kiếm**: Hiểu BYD quan Plus (tên xuất khẩu Atto 3): ắc quy, Phạm vi Cycle, sạc và Phần mềm cho người nhập khẩu: điều gì một người xuất khẩu xe/một phần phải kiểm tra, tài liệu và quyết định trước khi quyết định.
+- **Gợi ý liên kết nội bộ**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Gợi ý hình ảnh**: trước _ hoang dã
+- **Văn bản ALT**: DOD Yuan Plus / Atto 3 nhỏ gọn SUV điện
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
+
 ## Văn cảnh: Một xe hơi, hai ngôn ngữ cụ thể
 BOD Yuan Plus (元 PLUS) là một chiếc SUV điện gọn gàng trên D của  nghiêng 3.0 với một chiếc máy định vị LFP Blade; bên ngoài Trung Quốc được bán như thị trường **BYDATE 3 ** khắp Âu Châu, Đông Nam Á, Châu Mỹ La - tinh và Dương Dương, trong đó có thị trường RHD như Thái Lan và Úc. Dòng ở Trung Quốc được bao phủ ở đây là bản in danh hiệu ** 2024 (荣耀版). Thói quen duy nhất quan trọng nhất là phải tách riêng hai ngôn ngữ đặc biệt: ** Dữ liệu xây dựng Trung Hoa sử dụng LTC phạm vi và một GB/T sạc vào, trong khi các tờ đặc trưng xuất khẩu của AD sử dụng dải WLPS/NEEC và các liên kết khu vực**. Đây là một trang mô hình màu xanh lá cây (không có năm trong URL): Nền tảng có thể trải qua nhiều năm mô hình, và những con số cụ thể ở dưới được đánh dấu bởi thị trường và chu kỳ hơn là một "sự bóng loáng".
 ## Pin và đa biến (Quyết định EV bắt đầu ở đây)
@@ -49,30 +52,30 @@ Tại sao cùng một loại pin cho thấy một phạm vi ở Trung Quốc lâ
 **Có thể nạp điện xe vào CCS2 không?** Chỉ với một số thông tin chính xác về việc nhập cư/tự do, xác nhận là có luật pháp và bắt tay; điểm đến là 3 đơn vị thường được xây dựng theo tiêu chuẩn địa phương — theo thứ tự.
 **Có phải Trung Quốc đòi hỏi một câu nói của FOB? Không, nó là một tài liệu tham khảo nội bộ. Yêu cầu một đoạn trích dẫn xuất khẩu có mục.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus Atto 3, battery-electric vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus Atto 3, véhicule 100 % électrique SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus Atto 3, batterieelektrisches Fahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus Atto 3, vehículo 100 % eléctrico SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus Atto 3, veículo 100 % elétrico SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus Atto 3, 純電気自動車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus Atto 3, 순수 전기차 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus Atto 3, xe thuần điện SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus Atto 3, รถยนต์ไฟฟ้า 100% รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus Atto 3, kendaraan listrik murni SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus Atto 3, مركبة كهربائية بالبطارية سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus Atto 3, 纯电动车 SUV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus / Atto 3, vehículo 100 % eléctrico / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus / Atto 3, veículo 100 % elétrico / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus / Atto 3, 純電気自動車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus / Atto 3, 순수 전기차 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus / Atto 3, xe thuần điện / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus / Atto 3, รถยนต์ไฟฟ้า 100% / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus / Atto 3, kendaraan listrik murni / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

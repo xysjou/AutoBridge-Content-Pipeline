@@ -1,15 +1,29 @@
 # Chery Fulwin T9 (风云 T9): un VUS hybride de taille moyenne rechargeable C-DM — Spécifications de la Chine pour l'exportation
+## Métadonnées SEO
+- **Titre SEO**: Chery Fulwin T9 C- DM PHEV Spécifications et Guide d'exportation (Référence Chine)
+- **Description meta**: Marché chinois Chery Fulwin T9 C- DM hybride rechargeable SUV — 1.5T moteur dédié, 150 kW moteur avant, Batterie 32.66 kWh,  120–220 km  CLTC , 5/7 sièges,  and  les contrôles auprès des exportateurs.
+- **H1**: Chery Fulwin T9 C- DM: Chinese-Market PHEV SUV Spécifications et vérification des exportations
+- **Mot-clé principal**: rie fulwin t9 spécifications exportation
+- **Termes de recherche secondaires**: Fulwin T9 C- DM, 风云 T9 hybride rechargeable, Chery T9 32.66kWh, Fulwin T9 7-seat, Chine PHEV SUV exportation
+- **URL suggérée**: /vehicles/chery-fulwin-t9/
+- **Intention de recherche**: Comprendre Chery Fulwin T9 C- DM: Marché Chinois PHEV SUV Spécifications et vérification de l'exportation: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Suggestion d'image**: Fulwin T9 trois quarts
+- **Texte ALT**: Chery Fulwin T9 C- DM hybride rechargeable SUV
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: Chery Fulwin T9 C-DM PHEV Spécifications et Guide d'exportation (Référence Chine)
-- **Description détaillée**: Marché chinois Chery Fulwin T9 SUV hybride rechargeable C-DM — moteur dédié 1.5T, 150 kW moteur avant, Batterie 32.66 kWh,  120–220 km CLTC, 5/7 sièges,  and  les contrôles auprès des exportateurs.
-- **URL suggérée**: /véhicules/cherie-fulwin- t9/
-- ** H1 **: Chery Fulwin T9 C-DM: Spécifications des VUS PHEV marché chinois et vérification des exportations
-- **Mot-clé principal**: exportation de specs fulwin t9
-- ** Termes de recherche secondaires**: Fulwin T9 C-DM, 风云 T9 hybride rechargeable, Chery T9 32.66kWh, Fulwin T9 7-seat, chinois Exportation de VUS PHEV
-- **Suggestions de liens internes**: /guides/ev-shipping- un3556-imdg-compliance/; /véhicules/byd-qin-l-dm-i/; /guides/export-véhicule-document-package/
-- **Suggestions d'image**: Fulwin T9 trois-quarts; port de chargement; 5 vs 7 sise; badge 1.5T C-DM; zone de chargement
-- ** Suggestions ALT**: "Chery Fulwin T9 hybride rechargeable C-DM"; "Fulwin T9 32.66kWh batterie CLTC"
+Métadonnées SEO
+- **Titre SEO**: Chery Fulwin T9 C-DM PHEV Specs & Export Guide (Référence Chine)
+- **Description meta**: Marché chinois Chery Fulwin T9 SUV hybride rechargeable C-DM — moteur dédié 1.5T, 150 kW moteur avant, Batterie 32.66 kWh,  120–220 km CLTC, 5/7 sièges,  and  les contrôles auprès des exportateurs.
+- **H1**: Chery Fulwin T9 C-DM: Spécifications du VUS PHEV marché chinois et vérification des exportations
+- **Mot-clé principal**: rie fulwin t9 spécifications exportation
+- **Termes de recherche secondaires**: Fulwin T9 C-DM, hybride rechargeable 风云 T9, Chery T9 32.66kWh, Fulwin T9 7-seat, chinois Exportation de VUS PHEV
+- **URL suggérée**: /vehicles/chery-fulwin-t9/
+- **Intention de recherche**: Comprendre le chéry fulwin t9 c-dm: spécifications du marché chinois et vérification des exportations: ce qu'un exportateur de véhicules/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Suggestion d'image**: Fulwin T9 trois-quarts; port de chargement; 5 vs 7 strapontins; 1.5T badge C-DM; zone de chargement
+- **Texte ALT**: VUS hybride rechargeable Chery Fulwin T9 C-DM
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte acheteur: un VUS de la famille PHEV avec une version longue batterie
 Le Fulwin T9 est le VUS hybride rechargeable C-DM de Chery, offert en cinq et sept places. Deux erreurs de commande dominent ce modèle: mélanger la norme T9 avec la norme T9L ** étirée, et citer la portée électrique sans nommer la batterie. Cette page documente **seulement la norme Fulwin T9 (Marché de la REFERENCE: CHINE)**; la plus longue T9L (environ 4870 mm 2920 mm) est une autre caisse et est délibérément exclue. Une page de configuration OEM a été capturée pour ce modèle, ce qui renforce la base de spécifications.

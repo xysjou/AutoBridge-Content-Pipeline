@@ -1,15 +1,17 @@
 # كيفية التحقق من مورد صيني لصادرات السيارات قبل الدفع: قائمة مرجعية للديون الواجبة
 
-## SEO Metadata
-- ** عنوان المنظمة**: التحقق من مورد تصدير للسيارات الصينية: قائمة مرجعية لضبط الأصول
-- ** وصف البيانات**: إطار للاستحقاقات في مرحلة الدفع لفحص المصدرين الصينيين للمركبات - إعلانات شركة MIIT/CCC مؤهلات، وفحوصات الترخيص للأعمال التجارية، وسلسلة الإذن بالتصدير، وشركة AEO، وحسابات المصارف، ومعايير السمع بالفيديو.
-- ** المبلغ المشترَك في إطار جولة أوروغواي**: /إرشاد/مورد المكشوفة
-- ** H1 **** فحص مصدِّر للمركبات الصينية: ما الذي سيصدق عليه قبل الدفع الأول
-- ** كلمة رئيسية رمزية**: التحقق من ترخيص اليقظة الواجبة لمورِّدين تصدير السيارات الصينية
-- ** شروط البحث الثانية**: المؤهلات الصينية لتصدير المركبات، وإعلان شركة تصنيع المركبات التابعة لشركة MIIT، ومصدر شهادات شركة CCC، وفحص تراخيص شركة Gsxt، وسلسلة تراخيص تصدير السيارات الصينية، وشركة AEO لإقراض الجمارك
-- ** مقترحات داخلية بشأن الروابط**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/used-chinese-ev-inspection/; /guides/commercial-truck-fleet-procurement-china/
-- ** اقتراحات تتعلق بالاعتلالات**: هرم مطبق على أساس الإكراه؛ حقول الشيكات ذات الترخيص التجاري؛ رسم بياني لسلسلة الترخيص؛ تطابق الحسابات المصرفية مع الإنذار
-- ** اقتراحات بشأن: " طبقات التحقق من العناية الواجبة في تصدير السيارات الصينية " ؛ " حقول الترخيص لنظام المعلومات الائتمانية الوطني للمشاريع " ؛ " مورد لسلسلة ترخيص المصنع "
+## بيانات SEO الوصفية
+- **عنوان SEO**: التحقق من مورد تصدير للسيارات الصينية: قائمة مرجعية لضبط الأصول
+- **وصف Meta**: إطار للاستحقاقات في مرحلة الدفع لفحص المصدرين الصينيين للمركبات - MIIT إعلان/ CCC مؤهل، وفحص الترخيص للأعمال التجارية، وسلسلة الإذن بالتصدير، و AEO، ومعايير مطابقة الحسابات المصرفية، ومعايير السمع بالفيديو.
+- **H1**: فحص مصدّر مركبات صينية: ما الذي سيصدق عليه قبل الدفع الأول
+- **الكلمة المفتاحية الرئيسية**: التحقق من ترخيص اليقظة الواجبة لمورِّدين السيارات الصينية
+- **مصطلحات بحث ثانوية**: أهلية تصدير المركبات الصينية، وإعلان MIIT من مصانع المركبات، و CCC من مصدِّري الشهادات، وفحص تراخيص تجارية من طراز Gsxt، وسلسلة تراخيص تصدير السيارات الصينية، و AEO من الائتمانات الجمركية
+- **URL المقترح**: /guides/verify-china-car-export-supplier/
+- **نية البحث**: يُفهمون فحص مُصدِّر للمركبات الصينية: ما الذي سيصدق عليه قبل الدفع الأول: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **اقتراح الصورة**: الإلزام المطبق على طبقات
+- **نص ALT**: طبقات التحقق من العناية الواجبة التي توفرها أجهزة التصدير الصينية
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## المشكلة التي حلت
 
@@ -20,7 +22,7 @@
 وتُعرِّف وثيقتان صينيتان رسميتان العمود الفقري للتأهيل (المصادر الحكومية الرئيسية على السواء):
 
 - إشعار بخمسة عشر وزارة بشأن تنظيم أمر تصدير السيارات  and  دراجات نارية** (MOFCOM et al.)، يجب أن يُدرج في قائمة المصانع التي تعلن عن تصدير مركبات في نظام " فيهيكل مانوكسور "  and  Products Announcement" (车辆生产企业及产品公告)**  and  تصديق جبري مقبول**.
-- Per **MOFCOM et al. 2024 Announcement No. 6 ** on used-car export enterprises, a used-car exporter must be a domestically registered independent legal person meeting stated conditions (manufacturers must be in the MIIT announcement; traders must meet the published criteria).
+- بير **MFCOM وآخرون. 2024 الإعلان رقم 6 ** في مؤسسات تصدير السيارات المستعملة، يجب أن يكون مصدر السيارات المستخدم شخصاً قانونياً مستقلاً مسجلاً محلياً يستوفى الشروط المعلن عنها (يجب أن يكون المصانع في إعلان المبادرة الدولية؛ ويجب على التجار استيفاء المعايير المنشورة.
 
 المثال بالنسبة للمشترين: إسألوا أي كيان قانوني هو مصدر التسجيل وتأكيده في قائمة أهلية التصدير للسنة الحالية التي نشرها MOFCOM (تتم تحديث القائمة ديناميا - استخدام النسخة الحالية للسنة؛ وهذا الدليل لا يعدد أسماء الشركات). شركة لا تستطيع وضع نفسها على تلك السلسلة هي إشارة توقف
 
@@ -90,17 +92,17 @@
 ** ما الذي يثبت أن مورداً يصادر فعلاً**؟ (الإعلانات الصادرة مؤخراً (الإعلانات المتعلقة بالصادرات (المعدلة 3-month) بالإضافة إلى مراجعة حية لحسابات خطوط ومخزونات ومركبات الكربون الكلورية فلورية ورفوف التحميل، التي تم التحقق منها في المطالبات.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
@@ -119,11 +121,11 @@
 
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| إشعار بشأن تنظيم طلب تصدير | MOFCOM et al. (خمس وزارات)  official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | مفقود | إعلانات الاستثمار الأجنبي المباشر + قاعدة الأهلية التصديرية |
-| 2024 إعلان رقم 6 (شروط تصدير السيارات المستعملة) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | مفقود | شروط القانونية |
+. MOFCOM et al. (خمس وزارات)  official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | مفقود | إعلانات الاستثمار الأجنبي المباشر + قاعدة الأهلية التصديرية |
+| 2024 درجة مئوية رقم 6 (مماطلة) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | ?
 | كيفية التحقق من صحة المورد الصيني | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | صرخات | حقول التحقق من المادة |
-| كيف يمكن التحقق من مصنع صيني مشروع | السوقيات العالمية | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | صرخات | الاتساق في اسم الحساب، مراجعة حسابات المصنع |
-| 8-step دليل للتحقق من الموردين الصينيين للصادرات الآلية | هواجيم (الصناعة) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | صرخات | إطار مراجعة الحسابات المدفوع، مكتب المراجعة الداخلية للحسابات |
+ .  . CN/Global. https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate. 2026-09-02 .− − − − − − − Institutments and agents in the., the. الممتنعون عن التصويت
+8 خطوات: مُراقب في مجال (مُراقب) CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier . 2026-09-02 .-OPO-O-IWO-IWO-IWO-I.I. ؟
 | مذكرات شراء تصدير المركبات | (顺企网، الصناعة) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | صرخات | الحد الأدنى للتسجيلات الفيديوية الحية، الإعلان | 11467
 | إجراءات تصدير الشاحنات المحلية | Guangzhou Pujiang Trade | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | صرخات | الصادرات عن طريق الكيان المؤهل، سلسلة الترخيص | 11467
 

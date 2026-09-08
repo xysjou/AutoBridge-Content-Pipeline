@@ -1,16 +1,16 @@
 # Zoomlion ZTC250H Guindaste do caminhão: uma referência do mercado China-nível de identidade e porque nenhum gráfico de carga emprestado pertence aqui
-## SEO Meta- dados
-- ** Título SEO**: Zoomlion ZTC250H 25t Referência do guindaste do caminhão e verificação de exportação.
-- ** Descrição do Meta**: Chinese-market identity reference for the Zoomlion ZTC250H 25-tonne truck crane as chassis-plus-superstructure special equipment, Por que razão não podem ser tomadas emprestadas 25t especificações de grua adjacentes,  and  os dados do modelo exato para obter antes de comprar.
-- ** H1 **: Zoomlion ZTC250H Guindaste do caminhão: uma referência do mercado China-nível de identidade e porque nenhum gráfico de carga emprestado pertence aqui
-- **Chave principal**: Zoomlion ZTC250H specs export
-- ** Termos de pesquisa secundários**: 中联重科 ZTC250H; Zoomlion Guindaste de caminhão de 25 toneladas; guindaste série ZTC; gráfico de carga de guindaste de caminhão; exportação de guindaste chinês; QY25 vs ZTC250
-- ** URL sugerido**: /veículos/zoomlion- ztc250h-truck-crane/
-- **Intenção de pesquisa**: 面向海外买家介绍中联 ZTC250H 身份 (25t 级汽车吊 = 底盘 + 起重上装), 并说明为何不能套用相邻 25t 吊性能表
-- **As sugestões de ligação interna**: /veículos/faw-jiefang- j7-tractor/, /veículos/qingling-isuzu- kv100/, /guias/verify-chinese-carro-exportação-fornecimento-história/
-- **Image Suggestion**: Um guindaste de caminhão da série ZTC da Zoomlion 25-tonne-class com boom parcialmente levantado em solo neutro
-- **ALT Sugestão**: Um guindaste de caminhão 25-tonne-class com seu boom telescópico parcialmente levantado em solo neutro
-- **Espécie de âmbito**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+## Metadados SEO
+- **Título SEO**: Zoomlion ZTC250H 25t Referência do guindaste do caminhão e verificação de exportação.
+- **Meta descrição**: Chinese-market identity reference for the Zoomlion  ZTC250H  25-tonne truck crane as chassis-plus-superstructure special equipment, Por que razão não podem ser tomadas emprestadas 25t especificações de grua adjacentes,  and  os dados do modelo exato para obter antes de comprar.
+- **H1**: Zoomlion ZTC250H Guindaste do caminhão: uma referência do mercado China-nível de identidade e porque nenhum gráfico de carga emprestado pertence aqui
+- **Palavra-chave principal**: Zoomlion ZTC250H especificações de exportação
+- **Termos de busca secundários**: 中联重科 ZTC250H; Zoomlion 25 toneladas guindaste caminhão; guindaste série ZTC; gráfico de carga guindaste caminhão; exportação de guindaste chinês; QY25 vs ZTC250
+- **URL sugerida**: /vehicles/zoomlion-ztc250h-truck-crane/
+- **Intenção de busca**: Compreender Zoomlion ZTC250H Truck Crane: Uma referência de China-Market de Identidade-Nível e Por Que Nenhum Gráfico de Carga Emprestada Pertence Aqui: o que um exportador de veículo / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/faw-jiefang-j7-tractor/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugestão de imagem**: Um guindaste de caminhão Zoomlion ZTC -série 25-tonne-class com boom parcialmente levantado em solo neutro
+- **Texto ALT**: Um guindaste de caminhão 25-tonne-class com seu boom telescópico parcialmente levantado em solo neutro
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 Um guindaste de caminhão não é um caminhão com um guincho aparafusado: é um veículo **com um chassi de transporte com uma superestrutura de elevação projetada**, e seu valor e segurança são definidos quase que inteiramente pelo gráfico de carga nominal dessa superestrutura. O Zoomlion ZTC250H é o 25-tonne-class membro da linha ZTC de camionetas. Esta página fornece deliberadamente uma referência de nível de identidade** China-mercado: ele fixa o que o modelo é e como a família de produtos funciona, mas não ** print boom length, lifting height, motor power, dimensions or a load-rating table, porque nenhuma tabela de carga OEM modelo exato ZTC250H foi capturada - e pegar esses números de uma grua adjacente 25-tonne seria um erro grave, potencialmente inseguro.
 

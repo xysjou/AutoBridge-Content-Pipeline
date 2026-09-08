@@ -1,14 +1,17 @@
 # 중국에서 대량 상업적-트럭 Fleet 조달: 의무-공동 공학, 2026 수출 면허 규칙 및 합격
-## ▼ 한국어 메타데이터
-- **SEO Title**: 중국 트럭 함대를 대량으로 구매: Spec, Licence & Acceptance
-- **마타 기술 **: 엔지니어 및 대량 조달 중국 중장비 특수 트럭 - 의무 사이클 사양, 차축 프레임 바디, 공식 2026 중국 차량 수출 면허 요법, 입찰 등급 합격 및 문서 체인.
-- **Suggested URL**: /guides/commercial-truck-fleet-procurement-china/
-- ** H1 **: 중국에서 상업적 트랙 함침: 의무 주기, 수출상 면허 및 합격
-- ** 물류 키워드 **: 대량 상업 트럭 함대 조달 중국 사양 수출 면허
-- ** 보조 검색 조건 **: 중국 덤프 트럭 6x4 8x4 수출, 2026 차량 수출 면허 MOFCOM, 순수 EVA 여객 수출 면허 HS 8703801090, 강화 차축 프레임, 함대 입찰 합격, 상용 차량 수출 서류
-- ** 내부 링크 제안**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /vehicles/foton-aumark-refrigerated-truck/; /guides/verify-china-car-export-supplier/
-- **Image 제안**: 의무 주기에 spec worksheet; 강화된 단단한 합격 검사; 수출 문서 사슬
-- **ALT 제안**: "트럭 함대 의무 주기 명세 worksheet"; "두 배 층 구조와 강화된 드라이브 차축"; "공장에 깃털 부드러운 합격"
+## SEO 메타데이터
+- **SEO 제목**: 대량의 중국 트럭 함대 구입: Spec, Licence & Acceptance
+- **메타 설명**: 엔지니어 및 대량 조달 중국 중장비 / 특수 트럭 - 의무 사이클 사양, 차축 / 프레임 / 바디, 공식 2026 중국 차량 수출 면허 요법, 입찰 등급 합격 및 문서 체인.
+- **H1**: 중국: 의무 주기, 수출상 면허 및 합격에서 상업적 트럭 함대를 조달
+- **주요 키워드**: 대량 상업 트럭 함대 조달 중국 사양 수출 면허
+- **보조 검색어**: 중국 덤프 트럭 6x4 8x4 수출, 2026 차량 수출 면허 MOFCOM의 순수한 EV 여객 수출 면허 HS 8703801090의 강화된 차축 구조, 함대 단단한 합격, 상업적인 차량 수출 문서
+- **추천 URL**: /guides/commercial-truck-fleet-procurement-china/
+- **검색 의도**: 중국: 의무 주기, 수출상 면허 및 합격: 차량/parts 수출상이 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정해야 하는지 이해하십시오.
+- **내부 링크 제안**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **이미지 제안**: 부품 - TO-spec 작업 시트
+- **ALT 텍스트**: 트럭 함대 의무 주기 명세 worksheet
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## Fleet는 주문 설계, 선반에서 선택되지 않음
 6 × 4 광산 팁 주는 사람, 8 × 4 고속도로 덤프, 장거리 트랙터 및 암초 또는 유조선 수요 다른 파워 트레인, 프레임, 차축 및 신체 선택, 대량 주문은 중국 ** 현재 (2026) 수출 면허증**, 단단한 문서 체인 및 부드러운 스타일 수용을 충족해야합니다. 이 가이드는 함대 구매자, 계약자 및 CV 수입업자에게 반복적인 경로를 줍니다. 그것은 할인, MOQ 또는 리드 타임을 인용합니다. 프로젝트 당 협상되며 권한이없는 공공 인물이 존재합니다.
 ## 단계 1 - 가격 전에 의무주기 정의
@@ -58,18 +61,18 @@ Pin 수축가능: 단위 가격 대 명세 수준, 예비 장비, 기술 이정�
 ** 가격 또는 지역 부품 지원?** 작업대의 경우, 로컬 부품 적용은 종종 소유권의 총 비용을 설정 — 가격 선택하기 전에 OEM 네트워크를 확인.
 ** 대량 할인 MOQ가 게시됩니까? ** No - 그들은 프로젝트 상업적인 기간입니다; 단단히 지정된 기술적인 별개를 협상하십시오.
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf
@@ -86,10 +89,10 @@ Pin 수축가능: 단위 가격 대 명세 수준, 예비 장비, 기술 이정�
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 2026 사이클 수출 면허 신청 고시 (商办贸函 〔 2025 〕 408 号) | MOFCOM (**정부 공식**) | 담당자: Mr. wang | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** 인증** | 온라인 신청 시스템, 현지 검토, 자격있는 목록 과정 |
-| 2026-01-01에서 licensing 순수한 EVA 여객 수출 (발표 아니오 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**정부 공식**) | 담당자: Mr. wang | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** 인증** | 2026 NEV-passenger 수출 면허 |
-| 2026 인증 수출 면허 기업 목록 | MOFCOM 외국인 무역 부 (**government Official**) | 담당자: Mr. wang | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** 인증** | 현재 년 자격있는 기업 |
-| 중고차 수출 관리 강화 (Nov 2025) | MOFCOM/MIIT/MPS/GAC (**government 공식**) | 담당자: Mr. wang | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** 인증** | 중고차 수출 면허 증명 견실함 |
+| 2026 사이클 수출 면허 신청 고시 (商办贸函 〔 2025 〕 408 号) | MOFCOM (**정부 공식**) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** 인증** | 온라인 신청 시스템, 현지 검토, 자격있는 목록 과정 |
+| 2026-01-01에서 licensing 순수한 EVA 여객 수출 (발표 아니오 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR(**체크인**) 소개: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 |** 인증 | 2026 NEV-passenger 수출입금 |
+| 2026 인증 수출 면허 기업 목록 | MOFCOM 외국인 무역 부 (**government Official**) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광명 | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 중고차 수출 관리 강화 (Nov 2025) | MOFCOM/MIIT/MPS/GAC (**government 공식**) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 |** 인증 획득
 | 15-unit 덤프 트럭 입찰 (기술 지표) | 후난도로 & 브리지 그룹 (실내 입찰) | CN→중앙 아시아 | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** 인증** | ≥15 m³, T700 강철, 층 ≥ 10 mm, 측 ≥ 8 mm, 리프트 타입 |
 | 의무 지도 (두 배 층 구조, 의무 정격 차축) | CV 제조업체 (Chary/FAW 안내; Chengli 12-step 흐름) | CN→글로벌 | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 지도 |
 *Confidence 참고: 2026 수출 면허권 및 입찰 합격 지시자는 종료 근원에 VERIFIEDEDED입니다. 엔지니어링 공정 지침은 제조업체 산업 (CROSS_CHECKED); 현재 년 목록, OEM 해외 네트워크 및 모든 상업 용어 (discount MOQ 리드 타임)는 라이브를 얻고 결코 예상되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************

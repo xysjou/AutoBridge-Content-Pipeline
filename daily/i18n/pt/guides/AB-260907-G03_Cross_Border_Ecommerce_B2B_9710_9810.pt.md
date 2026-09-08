@@ -1,16 +1,16 @@
 # Códigos aduaneiros 9710 e 9810: Como China de fronteira B2B Regimes de exportação realmente diferentes
-## SEO Meta- dados
-- ** Título SEO**: China Cross-Border B2B Exportar 9710 vs 9810 Armazém Ultramarino.
-- ** Descrição do Meta**: O que significam os códigos de fiscalização aduaneira 9710 e 9810, como a exportação direta B2B difere da exportação de armazém no exterior, o registro e o depósito necessários, e o que um exportador de veículos deve confirmar com as alfândegas locais.
-- ** H1 **: Códigos aduaneiros 9710 e 9810: Como China de fronteira B2B Regimes de exportação realmente divergentes
-- **Chave Primária**: comércio electrónico transfronteiras b2b exportação 9710 9810
-- ** Termos de pesquisa secundários**: 9710 código aduaneiro; 9810 exportação de armazém ultramarino; China B2B comércio eletrônico transfronteiriço; depósito de armazém ultramarino; registro aduaneiro de comércio eletrônico transfronteiriço
-- ** URL sugerida**: /guides/cross-border-ecommerce- b2b-export-9710-9810/
-- ** Intenção de pesquisa**: 9710与9810两种跨境电商B2B出口监管方式的区别、海外仓模式的时点分离与备案、企业需要哪些资质
-- **As sugestões de ligação interna**: /guias/operador de cartões de exportação/ /guias/regulamentação de isenção de direitos de exportação/, /guias/controlos/controlos/operador de cartões de registo de porta-e-porta-e-porta/, /guias/exportação de zona-vat-reembolso-completo/
-- ** Sugestão de Imagem**: Um coordenador logístico que corresponda a uma carta de condução de uma instalação de armazenagem no estrangeiro a uma declaração transfronteiriça no ecrã
-- **ALT Sugestão**: Secretária com um boletim de informações sobre a alfândega no estrangeiro e uma declaração aduaneira transfronteiras num monitor
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Cross-Border B2B Exportação 9710 vs 9810 Armazém Ultramar.
+- **Meta descrição**: O que significam os códigos de fiscalização aduaneira 9710 e 9810, como a exportação direta B2B difere da exportação de armazém no exterior, o registro e o depósito necessários, e o que um exportador de veículos deve confirmar com as alfândegas locais.
+- **H1**: Códigos aduaneiros 9710 e 9810: Como China de fronteira B2B Regimes de exportação realmente diferentes
+- **Palavra-chave principal**: comércio electrónico transfronteiras b2b exportação 9710 9810
+- **Termos de busca secundários**: 9710 código aduaneiro; 9810 exportação de entrepostos ultramarinos; China B2B comércio electrónico transfronteiras; depósito de entrepostos ultramarinos; registo aduaneiro de comércio electrónico transfronteiras
+- **URL sugerida**: /guides/cross-border-ecommerce-b2b-export-9710-9810/
+- **Intenção de busca**: Compreender os códigos aduaneiros 9710 e 9810: Como a China de fronteira cruzada B2B Exportar Regimes Na verdade Differ: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Sugestão de imagem**: Um coordenador logístico que corresponda a uma carta de condução de uma instalação de armazenagem no estrangeiro a uma declaração transfronteiriça no ecrã
+- **Texto ALT**: Escrivaninha com uma carta de porte de mercadorias no exterior e uma declaração aduaneira transfronteiriça num monitor
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 A China acrescentou dois códigos de supervisão aduaneira específicos para as exportações de comércio electrónico transfronteiras entre empresas após programas-piloto terem provado o modelo: ** 9710 ** para as exportações de comércio electrónico transfronteiras B2B directamente e ** 9810 ** para as exportações de comércio electrónico transfronteiras para entrepostos ultramarinos. Os números parecem intercambiáveis, mas descrevem diferentes linhas de tempo comerciais, e escolher o errado muda quando uma venda é reconhecida, como os bens são declarados, e que arquivamentos devem existir antes. Este guia explica cada código, o ajuste de elegibilidade que precede ou, e as perguntas que um veículo ou exportador de peças devem colocar às alfândegas supervisoras locais, em vez de responder por suposição.
 

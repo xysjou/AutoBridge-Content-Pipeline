@@ -1,17 +1,19 @@
 # 車両輸出のための前面のPDIと手持ち: キャリアルールとAutoBridgeの推奨チェックリスト
 
-## ツイート メタデータ
-- **SEOタイトル**:車両輸出PDI&プリシップ ハンドオーバーガイド — 名付けられたキャリアルール
-- **メタ 記述**: 別々にRoRoRoキャリアポリシー(Wallenius Wilhelmsen、Höegh Autoliners) - AutoBridgeの推奨出荷検査チェックリストから燃料、バッテリー、SOC、操作性 - ユニバーサル固定値なし。
-- **混雑URL**: /ガイド/車両輸出-pdi-pre-shipment-handover
-- H1 ホテル **: RoRo またはコンテナのエクスポートのための車の準備: ネームキャリアが要求し、私たちが推奨するもの
-- **主なキーワード**:車両輸出前出荷検査PDIハンドオーバーRoRoRo
-- **二次検索条件**: 壁状ウィルヘルムセン燃料四半期タンク、ホエッブSOC 50パーセント、 RoRoの操作可能な車、切断12V電池は車、沈殿物のフォト・レコードを使用しました
-- **内部リンクの提案**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- **画像提案**:PDIチェックリストシート;RoRo RoRo自己主導ランプ; 名前付きキャリア対編集推奨分割図
-- **ALTの提案**:「ロロの指定キャリアの条件対推奨の事前出荷チェックリスト」
+## SEOメタデータ
+- **SEOタイトル**: 車両輸出 PDI&前処理 ハンドオーバーガイド — 名付けられたキャリアルール
+- **メタディスクリプション**: 別々にRoRoRoキャリアポリシー(Wallenius Wilhelmsen、Höegh Autoliners) - AutoBridgeの推奨出荷検査チェックリストから燃料、バッテリー、SOC、操作性 - ユニバーサル固定値なし。
+- **H1**: RoRo またはコンテナのエクスポートのための車両の準備: 指定されたキャリアが要求し、私たちが推奨するもの
+- **主要キーワード**: 車の輸出前郵送物の点検PDIのハンドオーバーRoRoRoRoRo
+- **関連検索語**: ワレニウス・ウィルヘルムセン燃料の四半期タンク、ホエッヒBEV SOC 50パーセント、 RoRoの操作可能な車、切断12V電池は車、前郵送物の写真の記録を使用しました
+- **推奨URL**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **検索意図**: RoRoまたはコンテナ輸出のための車両の準備を理解する: 指定されたキャリアが要求し、私たちが推奨するもの: どのような車両/部品輸出者が確認しなければならない, 文書と注文をコミットする前に決定.
+- **内部リンク候補**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **画像候補**: PDIチェックリストシート
+- **ALTテキスト**: 名前付きRoRoキャリア要件対推奨事前出荷チェックリスト
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
-## Two Layers That Must Not Be Merged
+## 合併してはならない2つの層
 Damage disputes at destination almost always trace back to one question: 車両の状態、燃料/電池の状態、操作性が変わっていました**? 清潔に答える  this guide keeps two layers separate:
 1. **名前付きキャリア要件(CARRIER_SPECIFIC)** — 特定のRoRoRoキャリアのポリシーを記述する**Wallenius Wilhelmsen (WW)**と**Höegh Autoliners(Höegh)**。 これらは、国際規制ではない**の運送業者ポリシーであり、すべての配送ラインに普遍的ではなく、常に書面による指示を規定しています。
 2. **AutoBridgeは、事前の出荷チェックリスト(EDITORIAL_RECOMMENDATION)**を推薦しました。このガイドは、証拠を推薦する検査/記録保管方法。 業界管理の手順ではなく、一つとして提示されていない**です。
@@ -19,10 +21,10 @@ Damage disputes at destination almost always trace back to one question: 車両�
 ## 名称付きキャリアポリシー(CARRIER_SPECIFIC — キャリアを名前で表す)
 | トピック | ワレニアス・ウィルヘルムセン | ホーグオートライナー | 自然と自然 |
 |---|---|---|---|
-| | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | キャリアポリシー cross-checked for these two named lines only — not a universal rule |
+| | | タンクについて | タンクについて | キャリアは、ユニバーサルルールではなく、これら2つの名前の線だけをチェック | キャリアについて | タンクについて | タンクについて | キャリアは、ユニバーサルルール |
 | **使用済みアイス電池** | 使用される単位のために**電池のキルスイッチなしで**、突出の後で12/24Vを切断して下さい(WWの指示ごとのexceptions) | と | WW 固有の単一ソースキャリアルール |
 | **BEV 高圧 SOC** | と | **SOC 50% ** 以上, ローディング/アンロード/ストレージの十分な充電を保持している間; HEV: ≤¼ fuel plus SOC guidance | Höegh 固有の;**グローバル SOC 天井ではない |
-| **動作性* ふりがな | RoRoユニットは、安全オン/オフ(移動/ブレーキ/ステア)を自発的に駆動しなければなりません。 故障または漏れユニットは拒否される場合があります | 同じ自己運転の条件 | Carrier receiving rule for these two named lines |
+| 動作性 * ふりがなの | ロロ ユニットは、安全オン / オフ(移動 / ブレーキ / ステア) を自発的に駆動しなければなりません 。 故障または漏れユニットは拒否される場合があります | 同じ自己運転の条件 | 航空会社の受入ルール |
 
 これらの要件は、航空会社の名前を正確に引用します。なぜなら、彼らはラインと航海によって**varyによって**:中国RoRoRo キャリアを命名し、現在のガイドをチェックすることなく「キャリアはX」を要求しないでください。
 
@@ -85,8 +87,8 @@ Damage disputes at destination almost always trace back to one question: 車両�
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | ワレニウス・ウィルヘルムセン(RoRoRoキャリア) | サインイン | 以下は、 カルゴハンドリング指示.walleniuswilhelmsen.com/pdfファイル/WWW-CHI- | 2026-09-04 | CROSS_CHECKED(プライマリキャリア) | 燃料レベル、操作性 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf
-| ワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワ 中古ユニットの受け取り(キルスイッチなしで12/24Vを切断) | ワレニアス・ウィルヘルムセン | サインイン | 以下は、 | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 中古ICEバッテリーの切断 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft
+|  WW  Cargo Handling Instructions (fuel ≤¼) | ワレニウス・ウィルヘルムセン (RoRoRo キャリア) | サインイン | 以下は 、 カルゴハンドリング指示.walleniuswilhelmsen.com/pdf ファイル /  WWW-CHI  - | 2026-09-04 | CROSS_CHECKED(プライマリキャリア) | 燃料レベル 、 操作性 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf
+| ワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワ 中古ユニットの受け取り (キルスイッチなしで 12/24V を切断) | ワレニアス・ウィルヘルムセン | サインイン | 以下は 、 | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 中古  ICE  バッテリーの切断 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft
 | Höegh Automotive shipping (≤¼ fuel; ビーブ・ソック; 操作性) | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | BEV ≤ 50% SOC、燃料、操作性 |
 | ヒエッグトラック/バス/トレーラーの船積み | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 商用ユニット受入 |
 | 事前の出荷検査と手渡練習 | | CN の | 以下は、 | 2026-09-04 | SINGLE_SOURCE(編集) | おすすめのチェックリスト/写真/手書き | https://m.11467.com/product/d55278360.htm 11467

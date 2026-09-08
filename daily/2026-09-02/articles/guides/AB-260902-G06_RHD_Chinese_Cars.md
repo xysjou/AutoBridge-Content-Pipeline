@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Which Chinese Cars Come in Right-Hand Drive (RHD)? Sourcing Guide
 - **Meta Description**: How to source factory RHD Chinese vehicles for the UK, Australia, Thailand, Malaysia, South Africa and beyond — which brands build RHD, how to confirm per VIN, and why LHD-to-RHD conversion is risky.
-- **Suggested URL**: /guides/right-hand-drive-chinese-cars/
 - **H1**: Buying Right-Hand-Drive Chinese Cars: Why It Must Be a Factory RHD Build
 - **Primary Keyword**: Chinese cars right hand drive RHD models export
 - **Secondary Search Terms**: factory RHD Chinese EV, BYD right hand drive, MG RHD models, GWM Haval RHD, RHD Thailand Chinese car, LHD to RHD conversion risk
+- **Suggested URL**: /guides/right-hand-drive-chinese-cars/
+- **Search Intent**: Understand Buying Right-Hand-Drive Chinese Cars: Why It Must Be a Factory RHD Build: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
-- **Image Suggestions**: RHD cockpit (steering on right) vs LHD; world RHD-market map; factory RHD production line; conversion-risk warning
-- **ALT Suggestions**: "Factory right-hand-drive Chinese car cockpit"; "Global right-hand-drive markets map"; "LHD to RHD conversion components warning"
+- **Image Suggestion**: RHD cockpit (steering on right) vs LHD; world RHD-market map; factory RHD production line; conversion-risk warning
+- **ALT Suggestion**: Factory right-hand-drive Chinese car cockpit
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## RHD Is a Manufacturing Question, Not a Repair-Shop Question
 

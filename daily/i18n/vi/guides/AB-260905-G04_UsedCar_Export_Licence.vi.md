@@ -1,15 +1,17 @@
 # Xuất khẩu thẻ Trung Quốc — Khả năng điều khiển, tính dễ dàng và giải phóng
 
-## SAO Siêu dữ liệu
-- **SEO title**: Trẻ Xuất khẩu- thiếp: điều kiện công cụ, Xuất Licence và Clearance (2026 quy tắc)
-- **Meta Mô tả**: Làm thế nào một doanh nghiệp Trung Quốc xuất khẩu sử dụng xe hơi: Chuyên môn về khu vực phi công, Giấy phép xuất khẩu, Ngoại lệ đối lập dự án, thông tin nhất quán  and  Luật 2026 nhất quán.
-- ** H1 **: Trung Quốc sử dụng-Car Xuất — Khả năng điều khiển phi công, tính dễ dàng và tiến trình xử lý giải phóng
-- **Cumpary Keyword**: tiến trình xuất khẩu xe hơi đã dùng
-- **Secondary Search termss**: sử dụng xe xuất khẩu Trung Quốc; sử dụng giấy phép xuất khẩu xe hơi; khu vực thí điểm; xuất khẩu xe cũ; MOFCOM bằng lái
-- ** URL đã gợi ý**: /guides/china-car-export-license-liense-squix-quible-squid-squible-squix/
-- **Tìm kiếm Intent**: 企业如何取得二手车出口资质  办理转让登记 申领出口许可证并完成通关 (含 2026 年新规).
-- **I nội bộ Link gợi ý**: /guides/ use-chin-ev-pies-hiction-hise /guides/verify-chin-cuff-ex-plier-hilier- tầng /guides/
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Trung Quốc sử dụng-Car Xuất khẩu: Phi công đủ điều kiện, Xuất Licence và Clearance (2026 quy tắc)
+- **Meta mô tả**: Làm thế nào một doanh nghiệp Trung Quốc xuất khẩu sử dụng xe hơi: Chuyên môn về khu vực phi công, Giấy phép xuất khẩu, Ngoại lệ đối lập dự án, thông tin nhất quán  and  Luật 2026 nhất quán.
+- **H1**: Xuất khẩu thẻ Trung Quốc — Khả năng điều khiển, tính dễ dàng và giải phóng
+- **Từ khóa chính**: Name
+- **Cụm tìm kiếm phụ**: sử dụng xe xuất khẩu Trung Quốc; sử dụng giấy phép xuất khẩu xe hơi; khu vực thí điểm; xuất khẩu xe cũ; MOFCOM bằng lái
+- **URL đề xuất**: /guides/china-used-car-export-license-process/
+- **Ý định tìm kiếm**: Hiểu được sự xuất khẩu xe hơi và tài liệu — Phi công điều kiện hóa, tiến trình xử lý tính năng và đảm bảo: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết với một đơn đặt hàng.
+- **Gợi ý liên kết nội bộ**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu tập trung, hình ảnh được tập trung bởi thẻ tín dụng Hoa - xuất khẩu - điều kiện phi công, xử lý tính dễ dàng và rõ ràng, không có kiểm tra dàn dựng hoặc người tuyên bố.
+- **Văn bản ALT**: Gần, nhìn tự nhiên về vật liệu và đối tượng liên quan đến Xuất khẩu thẻ tín dụng Trung Quốc - điều kiện phi công, xử lý tính dễ dàng và giải quyết, nền tảng trung lập, không có người hay hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Xuất khẩu xe hơi cũ là một doanh nghiệp có bằng lái, có bằng lái
 Không giống như xuất khẩu xe hơi bình thường, xuất khẩu xe hơi từ Trung Quốc bị hạn chế trong các lĩnh vực được chấp thuận của phi công** được chọn qua cơ chế thí điểm, và nó hoạt động dưới một chế độ xuất khẩu **. Một doanh nghiệp không thể xuất khẩu xe hơi chỉ vì nó có quyền thương mại chung. Danh sách các phi công mở rộng theo thời gian và phải được đọc từ thông báo MOFCOM/ Chính phủ hiện thời thay vì một danh sách cố định.
@@ -40,7 +42,6 @@ Có ngoại lệ cho các dự án nước ngoài không? Đúng vậy, một co
 * Danh sách phi công đâu? Trong thông báo mới nhất của MOFCOM/Chính phủ — không dựa vào danh sách tĩnh.
 Điều này bao gồm các quy tắc nhập khẩu đích đến? Không, đó là những thứ riêng biệt và cụ thể.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Có ngoại lệ cho các dự án nước ngoài không? Đúng vậy, một co
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác là xuất xe điện từ Trung Quốc
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Chinese Used-Car Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Có ngoại lệ cho các dự án nước ngoài không? Đúng vậy, một co
   - **ID**: used car export licence, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: used car export licence, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: used car export licence, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #UsedCarExport #ExportLicence

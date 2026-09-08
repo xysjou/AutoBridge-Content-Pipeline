@@ -1,16 +1,18 @@
-# ByD Dolphin 2025 (China): Battery, CLTC Range and Two Motor Grades for Importers
-## SEO Metadata
-- ** عنوان الحلقة**: من قبل دولفين 2025 الصين سبيك: البطارية، وفحص الصادرات
-- ** وصف البيانات**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 ضد 150 kW درجة  420/520 km CLTC, ديبلوت مع انضباط الصين من أجل المشترين
-- ** URL المقتطع**: /مركبات/دلافين من البياض/الدلافين/اللحم المبتذلة
-- ** H1 **** ByD Dolphin 2025 (Chinese-Market): Variants, Battery, Range Cycle and Export Verification
-- ** كلمة مفتاحية برية**: مطياف بطاريات بدرفين بدرفين 2025
-- ** شروط البحث الثانية**: ByD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD small EV export, Dolphin DiPilot, China EV GB/T charging
-- ** مقترحات داخلية بشأن الروابط**: /حلقات/حلقات/بضائع من نوع /حلقات/عناصر تغنيكسيانغ - v6e-specs/؛ بين المستوى الصيني تصل إلى un3171-imdg-compliance/
-- ** اقتراحات تتعلق بالصور**: مقارنة قياسية برتب الفرسان؛ ومذكرة بود باتري؛ وموانئ الشحن GB/T؛ وشاشة وشاشة الجلوس الخلفية
-- ** اقتراحات بشأن: "BYD Dolphin 2025 درجتين من البطاريات، "مجموعة دولفين من كلوريد الكربون مقابل دورة ما وراء البحار"
+# ByD Dolphin 2025 (China): البطارية، ورشة CLTC، واثنين من طراز Motor Grades for Importers
+## بيانات SEO الوصفية
+- **عنوان SEO**: BYD دولفين 2025 الصين سبيك: البطارية، وشركة رانج للصادرات
+- **وصف Meta**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 ضد 150 kW درجة  420/520 km  CLTC , ديبلوت مع انضباط الصين من أجل المشترين
+- **H1**: BYD دولفين 2025 (المريخ الصيني): الفاريات والبطاريات وراكينغ سيكل والتحقق من الصادرات
+- **الكلمة المفتاحية الرئيسية**: byd dolphin 2025 range battery specs
+- **مصطلحات بحث ثانوية**: BYD دولفين 44.9 kWh دولفين 60.48 kWh فارس  Dolphin  CLTC  420 520,   BYD  small  EV  export, (دولفين ديبلوت)  China  EV   GB/T  charging
+- **URL المقترح**: /vehicles/byd-dolphin/
+- **نية البحث**: تفهم BYD دولفين 2025 (المريخ الصيني): Variants, Battery, Range Cycle and Export Verification: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **اقتراح الصورة**: مقارنة درجة فارس
+- **نص ALT**: BYD دولفين 2025 درجتين من البطاريات
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Buyer Context: an EV Decision Starts with Battery and Cycle
+# Buyer Context: (أ) يبدأ قرار EV مع البطارية والكل
 الدلافين هو مضرب بواسطه بطاريه مدمجه على المزيج الإلكتروني 3.0 مع كتيبة ل. بالنسبة لـ "إي في" ، الأمر هو "الدرّاجة ** الدراجة ** حرف ** حرف محرك برمجة، وليس رقماً واحداً من خطّات الرأس. وتغطي هذه الصفحة خط السوق الصيني البالغ 2025 ** (REFERENCE MARKET: **. و أيضاً يبيع (بي دي) شارة " دولفين " في الأسواق الخارجية هذا هو استمرارية الاسم  **not** a 1: مطابقـة مقاسـيـة مـن الـ 1 مـن المواصفات - أحجام البطاريـات الخارجية دورات النطاق المصدق عليها (WLTP/NEDC)  and  المعدات تختلف  and  يجب أن يقرأ من صحيفة الوجهة لم يُستدل من أرقام الصين هذه
 
 ## موتورز غراديس، بطاريتان (مراجعة الصين)
@@ -40,7 +42,7 @@ The 420/520 km figures are **China CLTC**. دائماً ما يقتبس من ا�
 - الميثاق الخامس - الباب الخلفي، 2700 mm قاعدة عجلة؛ - طول قياسي قدره 4125 mm نايت 4150 mm؛ width/height 1770/1570 mm. ودائرة تحول ضيقة صغيرة تلائم الأساطيل الحضرية، ولكن ينبغي أن تُحدَّد من هذه الأبعاد كوخة وتوقعات الشحن الخلفية، وليس من جانب أكبر في الخارج.
 
 ## ما يجب على المستوردين أن يتأكدوا منه قبل الدفع
-1. ** Grade + bat + motor as one locked combination** (70 kW 44.928 kWh vs 150 kW 60.48 kWh).
+1 ** الدرجة + الخفافيش + المحرك كمجموعة مغلقة** (70 كيلوواط واط/44.928 كيلوواط مقابل 150 كيلوواط و60.48 كيلوواط).
 2. ** الدورة الرانغية**، التي تحمل علامة لجنة مكافحة الإرهاب؛ والمقصد WLTP/NEDC، الذي لم يُستأصل إلا من صحيفة الوجهة.
 3. ** موصل بين GB/T مقصد**، حكم لجنة التنسيق وأي مشروعية مكيفة.
 4. ** قائمة خاصة بالحزب الديمقراطي** للصف المحدد؛ **** تم اختبار على شبكة الإنترنت.
@@ -56,17 +58,17 @@ The 420/520 km figures are **China CLTC**. دائماً ما يقتبس من ا�
 ** هل تُفرض على دولفين صيني في الخارج دون تعديل؟** التحقق من مدخل GB/T ضد البنية التحتية للمقصد في شبكة المعلومات الشخصية؛ وقد لا يُحل المكيّف وحده خلافات البروتوكول.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
@@ -88,17 +90,17 @@ The 420/520 km figures are **China CLTC**. دائماً ما يقتبس من ا�
 | سعة الدلافين/البطارية/البراعة | PCauto encyclopedia | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | صرخات | 60.48 kWh، 150 kW/ 310 N·m، 520 CLTC |
 | دولفين 1 000 000th وحدة (أبعاد) | NetEase Auto | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | صرخات | 4125/4150 × 1770 × 1570  wheelbase 2700 |
 | 2025 دولفين ديبلوت | Xincheping Toutiao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE OURCE | وصف خاص للجنة التنسيق الدول المستقلة |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
-| 2025 صفحة نموذجية رسمية من طراز دولفين (شبكة المحيطات) | موظف فني (**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/2025haitun | 2026-09-05 | مصدق عليه (نطاق الهوية)؛ | مركبه الأومى لـ 2025 من نموذج دولفين الصينى بطاريه بريد ليف بي و مضاعفه إلكترونيه 3.0 |
-| Dolphin 智驾版 (DiPilot) official model page | موظف فني (**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | مصدق عليه (نطاق الهوية)؛ | هوية عضو منظمة أوم للفصل الذكي (DiPilot) وتعليقها الخلفي المستقل ذي الوصلات الأربع |
-| 2025 درجة المقسم | قاعدة بيانات نموذجية لنموذج أوتوما | CN | https://www.autohome.com.cn/ask/24636224.html | 2026-09-05 | SINGLE_SOURCE (supporting only) | AI-aggregated QA page — supporting context only, not used as a decisive cross- check leg per source-quality rule |
-| 2025 الجدول الخاص بتشكيل البارامترات | 太平洋汽车 PCauto config | CN | https://price.pcauto.com.cn/s48492/config.html | 2026-09-05 | صرخات | جدول مستقل للثقة بالصين (ممكن الوصول إليه): خطّ من طراز CLTC 420/520،  44.9/60.48 kWh,  grade matrix — decisive cross-check leg #1 |
-| 海豚 参数配置 (2025 款) | 汽车之家 سلسلة الأوتوماتيوم للثقة | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | صرخات | جدول مواصفات مناسبة (ليس صفحة من صفحة AI QA)، يمكن الوصول إليه: 2025 درجة/بطانة/مصفوفة مركز التجارة الدولية - قدم حاسم شامل للفحص رقم 2 |
-| BYD Dolphin 2025 official brochure | أستراليا (موظف مسؤول عن إدارة شؤون | الاتحاد الأفريقي | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | VERIFIED (OEM; export-market scope) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  (أ) الأبعاد؛ NEDC 410/490  and  : مبلغ 340/427 من دولارات الولايات المتحدة هو أرقام دورة الصادرات  and  are NOT used as China CLTC 420/520 |
+| 2025 مكرر من قبل أعضاء من المحكمة (مصدر خارجي) معتمد (مصدر خارجي) (ملحق) محرر (ملحق) من: https://www.byd.com/cn/ocean-home/models/haitun 2025haitun ) 2026-09-05 صدقsubs (ملحق )؛) Institut Institute Institute Institute 2025. 3.0 |
+| Dolphin . (DiPilot) official model page .第XVII (**) . . . . CN. https://www.byd.com/cn/ocean-home/models/haitun-zhijia - 2026-09-05 حالات الطوارئ (DiP.I. RT. ظبط ظبط
+| 2025 ملحقاً بالشركة المحدودة للشبكة أو المتعهد بها (الشبكة الوحيدة) https://www.autohome.com.cn/ask/24636224.html | 2026-09-05 - SINGLE_SOURCE (دعم فقط) . AI-aggregated QA page — supporting context only, not used as a decisive cross- check leg per source-quality rule quality
+ . 2025 IDPs concerning interparcos and the ex initiated. -الوث PCauto config | CN | https://price.pcauto.com.cn/s48492/config.html | 2026-09-05 | ): ): ): ): | consulteers (Wesupres): خطّ من طراز CLTC 420/520،  44.9/60.48 kWh,  grade matrix — decisive cross-check leg #1 |
+| 海豚 参数配置 (2025 款) | 汽车之家 سلسلة الأوتوماتيوم للثقة | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | صرخات | جدول مواصفات مناسبة (ليس صفحة من صفحة AI QA)، يمكن الوصول إليه: 2025 / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 2 |
+| byD Dolphin 2025 Official Handbook | (L.RS,UDINGUDREATION TOEA第第第XVIII); | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf ; 2026-09-05؛ ; ; VERIFIED (OEM; نطاق سوق التصدير)١( Blade LFP 44.9/60.48 kWh and 70/150 kW motor lines and (a) NEDC 410/490 and : 340/427 من الولايات المتحدة الأمريكية هي من يُستخدم في الصين ولا تستخدم كمركز تنسيقي قطري 420/520 |
 
 * ملاحظة منظار الدليل: BYD's official China pages (linked above) anchor the 2025 Dolphin's model identity, بطارية " لوفل "  and  "النسخة الإلكترونية 3.0"  and the official byD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, (أ) أبقيت منفصلة عن الأرقام الصينية. قيم الصف الصيني — 70 kW/44.928 kWh/420 km CLTC  and  150 kW/60.48 kWh/520 km CLTC — يرتكز على فحص حقيقي بنفس الطريقة بواسطة طاولات مستقلة من البارامترات الصينية يمكن التحقق منها 2026-09-05 (PCauto config  and  سلسلة الأوتومايوم 6139 كوريج (أ) مدعومة بموسوعة دار تكنولوجيا The Autohome * Page is AI-aggregated and is deliberately not used as a decisive leg. مشروع سابق اسمه "Xcar" بدون URL - الذي لم يُدعم الاستشهاد به تم إزالته (لم يتم القبض على صفحة Xcar التي يمكن الوصول إليها). ربطت الصف بالضبط إلى مدونتي المعلومات و شبكة المعلومات قبل أن تطلب ولا تعد لجنة التجارة الدولية دورة الصين إلا ولا تعادل أبداً ما وراء البحار من دبليو إل بي نفس الاسم في الخارج الدلافين هي مبانٍ سوقية مميزة Writing-AI controlled patch 2026-09-05: وتُقيّم خطوط التي تدعمها الآن منظمة أوم إي إم (نشرة الاتحاد الأفريقي، نطاق الصادرات) وقيم لجنة التجارة الدولية الصينية ذات الأثر المُعدّل بواسطة جدولين مستقلين للثقة، مما يُنقل الصفحة من النظام الإلكتروني الجديد للتنمية في البلدان النامية. RESEARCH (China CLTC confidence CROSS_CHECKED, not OEM-VERIFIED).  s48492
 

@@ -1,15 +1,17 @@
 # Chuyển một xe điện qua biển dưới IMDG 42-24: UN3556, UN3171 và sự phân tách giữa các hố phân chia
 
-## SAO Siêu dữ liệu
-- **SEEO Titry**: EV Sea Freight Under ImDG 42-24 — UN3556/3557/3558 so với UN3480/3481
-- **Meta Mô tả**: Từ 2026, xe tăng liti được lắp đặt với tàu ắc quy UN3556 (lithium-táp UN3557), Natri UN3558) theo tu chính án IMDG 42-24; UN3171 được thu hẹp và lỏng sử dụng UN3480/3481 với UN38.3.
-- ** URL đã gợi ý**: /guides/ev-shipping- un3556-imdg-compliance
-- ** H1 **: phân loại một xe ngựa pin cho Ocean Freight theo bộ mã IMDG hiện tại (Amend 42-24)
-- **Criumary Keyword**: UN3556 liclic lic liel IMDG 42-24 vận chuyển
-- **Secondary Search Words**: UN3557 xe kim loại li-ti, UN3558 xe chở Natri, P912 hướng dẫn đóng gói, SP405 đánh dấu, UN3171 thu hẹp, UN3480 UN3481, Sổ tay UN38.3 của rev8 thử nghiệm
-- **I nội bộ Link gợi ý: saver /guides/export-vehic-docuch- wrap/; /vehles/wuling-bingo/
-- **Image gợi ý**: nguyên khung chống lại số lượng lớn chất thải LHQ chia; lớp 9 bảng thẻ; P912/SP405 đánh dấu sơ đồ
-- **LT " UN3556 xe đã lắp đặt máy bay chiến đấu với UN3480 pin lỏng dưới IMDG 42-24"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: EV  Sea Freight Under  IMDG  42-24 —  UN3556/3557/3558  vs  UN3480/3481
+- **Meta mô tả**: Từ 2026, xe tăng áp với tàu ắc quy UN3556 (lithium-ttan UN3557), Natri UN3558) dưới IMDG Hiến pháp 42-24; UN3171 đã thu hẹp  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: Phân loại một chiếc xe chở pin cho Ocean Freight theo bộ luật IMDG hiện tại (Amend 42-24)
+- **Từ khóa chính**: UN3556 xe bọc thép IMDG 42-24
+- **Cụm tìm kiếm phụ**: UN3557 xe kim loại li-ti, UN3558 xe chở Natri, P912 hướng dẫn đóng gói, SP405 đánh dấu, UN3171 thu hẹp, UN3480 UN3481, Sổ tay UN38.3 của rev8 thử nghiệm
+- **URL đề xuất**: /guides/ev-shipping-un3556-imdg-compliance
+- **Ý định tìm kiếm**: Hiểu rằng phân loại một chiếc xe hơi chở pin cho Ocean Freight dưới bộ luật IMDG hiện tại (Amend 42-24): một người xuất khẩu xe hơi/một phần phải kiểm tra tài liệu và quyết định trước khi thực hiện một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Gợi ý hình ảnh**: Toàn bộ các lá thư chống lại các vụ kiện lỏng lẻo của Liên hợp quốc chia số
+- **Văn bản ALT**: UN3556 chiếc xe đang chạy tự động đấu với UN3480 pin bị tháo dỡ dưới IMDG 42-24
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Sự thay đổi giai cấp — UN3171 thói quen hiện nay đã sai
 Một thực hành phổ biến trước 2026 để đặt bất kỳ Xe chạy bằng pin dưới ** UN3171 **. Dưới sự bắt buộc của ** IMDG Mã. Sửa đổi 42-24 ** (bị truy tố bởi Độ phân giải IMM **MSC. 556 (108) và **mandatory in China from 2026-01-01 ** mỗi Trung Quốc Viên chức quản lý an toàn hải quân văn bản) Đó không còn là đúng cho Li- tu- a- ni Xe. Dùng số cũ trên khai báo 2026 là lỗi phân loại mà ngăn chặn những giấy tờ nguy hiểm lúc đặt phòng.

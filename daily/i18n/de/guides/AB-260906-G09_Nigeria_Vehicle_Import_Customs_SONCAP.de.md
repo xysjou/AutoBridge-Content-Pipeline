@@ -1,16 +1,16 @@
 # Import von Fahrzeugen und Autowaren nach Nigeria: NCS Customs und SONCAP
-## SEO Metadaten
-- **SEO Titel**: Nigeria Fahrzeugimport: NCS Customs und SONCAP Compliance Guide
-- **Meta Description**: Ein länderspezifischer Leitfaden für den Import von Fahrzeugen und regulierten Autogütern nach Nigeria: die SONCAP-Konformitätsroute, Form M PAAR-Verbindung mit dem nigerianischen Zoll und was vor dem Versand überprüft werden muss.
-- ** H1 **: Import von Fahrzeugen und Autowaren nach Nigeria: NCS Customs und SONCAP
-- **Hauptschlüsselwort**: Nigeria Fahrzeugimportzoll SONCAP
-- **Secondary Search Terms**: SONCAP Zertifikat Nigeria; Nigeria Zollfahrzeugimport; Form M PAAR; SON Konformitätsbescheinigung; regulierte Produkte Nigeria Import
-- **Suggested URL**: /guides/nigeria-vehicle-import-customs-soncap/
-- **Search Intent**: 向尼日利亚出口车辆需经过哪些海关清关计税、SONCAP强制合格评定及车龄/口岸要求
-- **Internal Link Suggestions**: /guides/kenya-vehicle-import-kra-kebs-pvoc/, /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Bildvorschlag**: Lagos Fahrzeugimportdokumentation mit SONCAP-Zertifikat und Zollformular
-- **ALT Vorschlag**: SONCAP-Zertifikat und nigerianische Zolldokumentation auf einem Schreibtisch in der Nähe eines Hafenhofs
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: Nigeria Fahrzeugimport: NCS Zoll und SONCAP Compliance Guide
+- **Meta-Beschreibung**: Ein länderspezifischer Leitfaden für den Import von Fahrzeugen und regulierten Autogütern nach Nigeria: die Konformitätsstrecke SONCAP; Form M/PAAR linkage mit Nigeria Customs,  and  was vor dem Versand überprüft werden muss.
+- **H1**: Import von Fahrzeugen und Autowaren nach Nigeria: NCS Zoll und SONCAP
+- **Haupt-Keyword**: Nigeria Fahrzeug Einfuhrzoll SONCAP
+- **Sekundäre Suchbegriffe**: SONCAP Bescheinigung Nigeria; Nigeria Zollfahrzeugimport; Formblatt M PAAR; SON Konformitätsbescheinigung; regulierte Produkte Nigeria importieren
+- **Vorgeschlagene URL**: /guides/nigeria-vehicle-import-customs-soncap/
+- **Suchabsicht**: Verstehen Import von Fahrzeugen und Autowaren nach Nigeria: NCS Zoll und SONCAP: Was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/kenya-vehicle-import-kra-kebs-pvoc/, /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Bildvorschlag**: Lagos Fahrzeugimportdokumentation mit SONCAP Zertifikat und Zollformular
+- **ALT-Text**: SONCAP-Zertifikat und nigerianische Zolldokumentation auf einem Schreibtisch in der Nähe einer Hafenwerft
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Nigeria verbindet Zollabfertigung mit einem obligatorischen Vorversand-Konformitätsregime, und für einen chinesischen Exporteur ist die Konformitätsseite weitgehend abgeschlossen ** bevor ** die Waren China verlassen. Der **Nigerian Customs Service (NCS)** übernimmt die Einreise, Bewertung und Zoll; die **Standards Organisation of Nigeria (SON)** betreibt SONCAP für regulierte Produkte. Dies ist ein Nigeria-spezifischer Leitfaden; Es trennt sorgfältig, was SONCAP von den Fragen abdeckt, die nur NCS beantworten kann.
 

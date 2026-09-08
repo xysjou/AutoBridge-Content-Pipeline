@@ -1,16 +1,16 @@
 # Mengimpor Kendaraan ke Tanzania: Trek Bea Cukai TRA dan Trek TBS PVoC / CoC
-## SEO Metadata
-- ** Judul SEO **: Impor Kendaraan Tanzania: Bea Cukai TRA  and  TBS PVoC/CoC Explained | AutoBridge
-- ** Meta Description **: Bagaimana kendaraan impor ke Tanzania split antara TRA Cukai clearance bawah EAKMA / TANCIS dan TBS prepengiriman PVoC konformitas (dengan berguna khusus kategori kendaraan-motor), dan apa yang harus diverifikasi untuk usia dan tugas.
-- ♪ ♪ H1 Mengimpor Kendaraan ke Tanzania: Trek Bea Cukai TRA dan Trek TBS PVoC / CoC
-- ** Primary Keyword **: tanzania impor kendaraan tra tbs pleage
-- ** Akhir Pencarian Second **: TBS PVoC menggunakan kendaraan motor; Tanzania CoC sebelum pengiriman; TRA TANCIS impor; EACCMA 2004 impor kendaraan; Tanzania menggunakan batas usia mobil; CCIC PVoC Cina
-- ** Sugested URL **: / guide / tanzania-kendaraan -import- tra- tbs-pvoc-age /
-- ♪ Search Intent ♪: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责 AffPVoC / CoC 机制与二手车专门类别 以及车龄 / 税率需向谁核验
-- ** * Internal Link Sugestions -icc-inpoterms /, guide / africa- card- care- limit /, / pandu / marine- cargo -icc-incoterms /, / guide / ourcle- pre- cipment -pdi /
-- ** Imagesticalypse **: Kendaraan yang digunakan sedang diperiksa di halaman ekspor sementara dokumen konformitas disiapkan
-- ** ALT Saransinestines **: Kendaraan di bawah pemeriksaan sebelum pengiriman di samping sertifikat konformitas pada papan klip
-- ** Skema Scope **: Artikel (tidak ada Produk / Offer / Harga / Review / Rating)
+## Metadata SEO
+- **Judul SEO**: Impor Kendaraan Tanzania: TRA Bea Cukai  and   TBS  PVoC/CoC Explained | AutoBridge
+- **Deskripsi Meta**: Bagaimana kendaraan impor ke Tanzania split antara TRA izin bea cukai bawah EACCMA/TANCIS dan TBS sebelum pengiriman PVoC sesuai (dengan berguna khusus kategori kendaraan-motor), dan apa yang harus diverifikasi untuk usia dan tugas.
+- **H1**: Mengimpor Kendaraan ke Tanzania: Trek Bea Cukai TRA dan Trek TBS PVoC / CoC
+- **Kata kunci utama**: kendaraan tanzania impor tra tbs pleage
+- **Istilah pencarian sekunder**: TBS PVoC menggunakan kendaraan bermotor; Tanzania CoC sebelum pengiriman; TRA TANCIS impor; EACCMA 2004 impor kendaraan; Tanzania menggunakan batas usia mobil; CCIC PVoC Cina
+- **URL yang disarankan**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **Maksud pencarian**: Memahami Imporsi Kendaraan ke Tanzania: Jalur Bea Cukai TRA dan TBS PVoC / CoC Trek: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+- **Saran gambar**: Kendaraan yang digunakan sedang diperiksa di halaman ekspor sementara dokumen konformitas disiapkan
+- **Teks ALT**: Kendaraan di bawah pemeriksaan sebelum pengiriman di samping sertifikat sesuai pada papan klip
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Tanzania adalah pasar tunggal negara dengan sistem impor jalur sengaja, dan eksportir kendaraan yang memperlakukannya sebagai salah satu proses kehilangan waktu di pelabuhan. Satu trek milik ** Tanzania Authority Requue (TRA) * - deklarasi bea cukai, penilaian tugas dan izin bawah Afrika Timur Konsumen Manajemen Bea Cukai. Yang lainnya milik ** Tanzania Bureau of Standards (TBS) * - sebelum-pengiriman penilaian konformitas yang memutuskan apakah pengiriman diatur, digunakan kendaraan termasuk, bahkan diperbolehkan masuk Panduan ini khusus untuk Tanzania (itu bukan pernyataan Timur-Afrika-lebar) dan dibangun pada TBS dan TRA saat ini halaman primer. Ini menjelaskan baik trek berwenang dan, di mana dokumen-dokumen resmi utama untuk usia mobil dan tingkat tugas kendaraan tidak diambil di review, menyatakan mereka sebagai item untuk memverifikasi bukan menciptakan nomor.
 

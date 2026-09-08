@@ -1,14 +1,17 @@
 # Đặt một chiếc xe chở hàng được bầu chọn cho Ocean E xuất: giấy tờ nguy hiểm-hàng hóa một Carrier kiểm tra
-## SAO Siêu dữ liệu
-- **SEEO Title**: EV Xuất Các tài liệu dưới IMDG 42-24: UN3556 giấy in và Carrier Kiểm tra
-- **Meta Mô tả**: Xe li-ti-batry được phân loại như thế nào cho hàng hóa đại dương theo tu chính án IMDG 42-24 (UN3556/3557/3558; Di sản UN3171 kết thúc) SP961/SP962 con đường, UN38.3 và SDS, và điều kiện đặt phòng hàng cụ thể.
-- ** URL đã gợi ý**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 Gửi các xe cộ sang biển: loại hàng hóa nguy hiểm hiện nay, tài liệu đặt và Đường kẻ Đỏ
-- **Criumary Keyword**: phương tiện điện đại dương vận chuyển un3556 di chuyển 42-24 tài liệu
-- **Secondary Search termss**: UN3556 ắc quy lic tính, UN3557 xe kim loại, UN3558 phương tiện truyền tải Natri, di sản UN3171, SP961 SP962 xe, loại 9 nhãn 9A, UN38.3 tóm tắt, vận chuyển xe điện SDS, mẫu thông tin yêu cầu EV SOC
-- **I nội bộ Link gợi ý**: /guides/ev-Fing- un3556-imdg-compliance/, /guides/china-vehicle-export-license-license-Dent-docunts/; /guides/contaner-vehing-lang-lang/; /guides/ndes/nyce-nych-new-cuff-pies-pis-pis/i/; /vyhleshles/by-dolphinn
-- **Image gợi ý**: UN số/ class label biểu đồ; SP961-vs-SP962 quyết định lưu thông; đặt chuỗi tài liệu; class 9 label 9A slacard
-- **LT Gợi ý**: " UN3556 IMDG 42-24 Hạng 9 xe điện vận chuyển; "V vận chuyển đặt hàng các tài liệu dây chuyền"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: EV Xuất các tài liệu đặt sách dưới IMDG 42-24: UN3556 giấy và bộ truyền Kiểm tra
+- **Meta mô tả**: Xe tải chở chất li-ti-ba được phân loại như thế nào dưới  IMDG tu chính án 42-24 (UN3556/3557/3558; Di sản UN3171 kết thúc) SP961/SP962 con đường, UN38.3 và SDS giấy tờ, và điều kiện đặt đặt phòng cụ thể.
+- **H1**: Tàu vận chuyển được bầu chọn bởi biển: hiện tại hàng hóa nguy hiểm, đặt ra tài liệu và đường kẻ đỏ
+- **Từ khóa chính**: Phương tiện điện đại dương vận chuyển un3556 tài liệu chứa 42-24
+- **Cụm tìm kiếm phụ**: UN3556 xe ắc quy điện tăng áp li ti, UN3557 xe kim loại li-ti, UN3558 xe chở Natri, Quá trình chuyển đổi UN3171 di sản, SP961 SP962 xe, Hạng 9 nhãn 9A,   UN38.3  test summary, SDS xe điện, EV SOC yêu cầu chở
+- **URL đề xuất**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Ý định tìm kiếm**: Hiểu được việc vận chuyển các xe vận chuyển bằng đường biển: phân loại hàng hóa nguy hiểm hiện nay, tài liệu lập và đường dây đỏ: điều mà một người xuất khẩu xe/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **Gợi ý hình ảnh**: Biểu đồ nhãn kiểu số/ hạng LHQ
+- **Văn bản ALT**: UN3556 IMDG 42-24 Tàu chở xe điện cấp 9
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Bắt đầu từ đây: nguyên một hàng hóa nguy hiểm, và mục nhập đã thay đổi vào năm 42-24
 Một phương tiện điện nguyên vẹn được xây dựng ở nhà máy vẫn là những thứ nguy hiểm cho việc vận chuyển biển. Dưới thời **MIMG Code 42-24 (2024 Edition),  mandatory from 1 January 2026**, Xe có năng lượng pin được chia thành mục nhập dành riêng chứ không phải rơi theo một số chăn:
 - ** UN3556 — xe hơi, xe tăng li-ti-on-bastry** (ca cho một chiếc xe điện hay một chiếc xe PHV/EV);

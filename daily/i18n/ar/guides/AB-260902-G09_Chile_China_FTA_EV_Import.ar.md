@@ -1,14 +1,17 @@
 # استيراد المركبات الصينية إلى شيلي: الأفضلية، ودرجة التلويث 3CV
-## SEO Metadata
-- ** عنوان الحلقة**: Import Chinese EVs to Chile: FTA Preference, IVA " 3CV Guide
-- ** وصف البيانات**: كيف يعمل تفضيل شركة الصين - شيلي للمركبات التي تبنتها الصين  the Chilean Customs 6% general duty  and  19% IVA confirmed officially, لماذا شهادة المنشأ هي الشرط  and  كم يلائم الـ3CV مُتطوّر
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشاد/مستوردة للشركة
-- ** H1 **** المركبات الصينية في شيلي: استخدام أفضلية التجارة الحرة دون حساب التكاليف البرية المخفضة
-- ** كلمة رئيسية**: شيلي رسوم استيراد مركبات طراز FTA
-- ** شروط البحث الثانية**: شيلي 6% أرانسل، شيلي 19% استيراد، شيلي، شيلي، شهادة منشأ من الرابطة الصينية للتجارة الحرة، شيلي 3CV مجاعة، سيرتيفيادو أوريغين تي سي الصين شيلي، شيلي
-- ** Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/;guides/marine-cargo-insurance-car-import/; /vehicles/byd-yuan-plus/
-- ** اقتراحات تتعلق بالرسوم**: شلالات الحزمة الضريبية في شيلي؛ وشهادة التدفق الأصلي في منطقة التجارة الحرة؛ و3CV خطوة في مجال الحرق
-- ** الاقتراحات**: "الحزمة من تكاليف استيراد شيلي: - الواجب مقابل الـ (إيه إيه) "شهادة أصل من الدرجة الأولى" "Chile 3CV homologation process"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Import Chinese EVs to Chile: FTA Preference, IVA ' 3CV الدليل
+- **وصف Meta**: How the China–Chile  FTA  preference works for Chinese-built vehicles,  the Chilean Customs 6% general duty  and  تم تأكيد 19% IVA رسمياً لماذا شهادة المنشأ هي الشرط  and  كم يلائم الـ3CV مُتطوّر
+- **H1**: المركبات الصينية Into Chile: Using the FTA Preference without Miscalculating Landed Cost
+- **الكلمة المفتاحية الرئيسية**: Chile China  FTA  vehicle import duty  IVA  homologation
+- **مصطلحات بحث ثانوية**: شيلي Aduana 6% arancel,  Chile  IVA  19% import,  China Chile  FTA  certificate of origin, شيلـي 3CV هوموجا certificado origen TLC شيلي، الصين EV استيراد شيلي
+- **URL المقترح**: /guides/import-chinese-ev-chile-fta/
+- **نية البحث**: مركبة صينية في شيلي: استخدام الأفضلية البالغ عددها FTA دون سوء حساب التكلفة المسقطة: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **اقتراح الصورة**: شلالات الحزمة الضريبية في شيلي
+- **نص ALT**: مجموعة تكاليف الواردات في شيلي: الواجب مقابل IVA
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
+
 ## الفرص والضائقة المتكررة
 وتبرم شيلي اتفاقات للتجارة الحرة مع شركائها الرئيسيين ** بما في ذلك الصين**. يمكن للسيارة الصينية الممتثلة أن تستخدم الأفضلية لـ (إم تي) (إضافة إلى الديموقراطية (0% **)، بينما واجب شيلي العام المخصص هو 6% من القيمة الجمركية للمؤسسة** بالنسبة لغير المرجع، كلاهما مثبتان الآن على المصادر الرسمية (أصبحا منخفضين). خطأ المشتري المتكرر هو قراءة "العمل 0%" كـ 0% تكلفة استيراد ولا ينطبق هذا التقرير: ** لا يزال هناك 19% من قانون العقوبات الدولي، ويعتمد مبلغ 0% على إثبات المنشأ، والهجوم هو مسار عمل منفصل**. وهذا الدليل محدد لـ ** شيلي**.
 ## مجموعة الضرائب، خط حسب الخط (معاقبة رسميا)
@@ -25,7 +28,7 @@
 ولا ينطبق تفضيل اتفاق التجارة الحرة إلا على السلع المبتغاة** التي تفي بقاعدة المنشأ الخاصة بالمنتجات وتحمل شهادة المنشأ الصحيحة** الصادرة عن الهيئة المرخص لها، بما يتسق مع الفواتير وقائمة التعبئة B/L و VIN. من الناحية التشغيلية:
 - تأكد من أن السيارة مُشفرة بالسيارة وقاعدة مُنشأها (أتحقق من النص الحالي لـ (إف تي إم تي
 - الحصول على شهادة اتفاق التجارة الحرة التي تسمّي نفس إليه وتفاصيل المركبات التي تُسمّى بها الوثائق التجارية.
-- A broken or missing origin chain defaults the shipment to the ** 6% ** general duty.
+- سلسلة من الأصول المكسورة أو المفقودة تعطل الشحنة إلى 6% ** الواجب العام.
 ## 3CV هو إنفصال عن الجمارك
 وتحتاج المركبات المتجهة إلى السوق الشيلية إلى 3CV ** متجانس** (إجراء التصديق على الذي تشرف عليه سلطات على المركبات) قبل التسجيل. هذا هو الامتثال**، لا رسوم ثابتة، ولا رسوم رسمية موثوقة لكل وحدة، لذا لا يوجد رقم (مثلاً، مبلغ 600 دولار من دولارات الولايات المتحدة) مُثبت** - الحصول على اقتباسات المُصدّق وفترة القيادة الحالية، وبدءها مبكراً لأنها تُفتح أبواب التسجيل أولاً، وليس على الإطلاقات الجمركية.
 ## النقاط التي تترك عمداً دون تأكيد
@@ -41,7 +44,7 @@
 5. إعادة فحص اقتراح الوكالة الوطنية للملاحة الجوية وأي ضريبة على الموجات في تاريخ الشحن؛ واستبعاد المقترحات من الاقتباس.
 6. غير مشروعة وضم ساق المحيط (انظر الأدلة ذات الصلة).
 ## قبل الدفع - قائمة التصديق
-- HS code + FTA rule of origin; FTA certificate arranged and VIN-consistent.
+- رمز HS + قاعدة منشأ FTA؛ تم ترتيب شهادة نقابة المحامين الاتحادية وموافقة فين.
 - Tax stack calculated on the aduana.gob.cl basis (6% general 0% preference; 19% من الفئة الرابعة ألف بشأن الإطار المتكامل المعزز للعمل التطوعي.
 - أيّة ضرائب تم التحقق منها مع مصدر ضريبي شيلي، لم يفترض.
 - 3CV طريق، ورسوم وخط زمني مقتبس من المصدِّق (لم يعاد استخدام رقم قياسي).
@@ -53,17 +56,17 @@
 ** ما هو 3CV وما تكلفة ذلك؟** عملية حرق السيارات في شيلي، و تسجيل البوابات التأجير يجب أن يقتبس من المصدّق - هذه المادة لا تؤكد رقماً ثابتاً
 ** هل تم تخفيض رسوم السفر بالطائرة في الأناك؟ ** لا - إنه اقتراح يتعلق بـ 2026 جمعية، وليس قانوناً مسناً؛ وإعادة التحقق عند الشحن.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
@@ -81,8 +84,8 @@
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| "هل يُمكن أن يكون هناك "الـ6% سي آي + 19% رابعاً في "المؤسسة العالمية للطبيعة | سيرفيسيو الوطني لرابطات الأدوانا (** جمارك شيلي، مسؤول حكومي**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ** مصدق عليه** | General 6% ad-valorem on CIF; قاعدة الـ 19% |
-| "الخدمة في البيوت" (الواجبات المتحركة 6% + IVA 19%) | سيرفيو الوطني (** مسؤول حكومي**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ** مصدق عليه** | بيان البيانية الخاصة بالمركبات؛ والتمييز في أسعار الخدمات |
+| "هل يُمكن أن يكون هناك "الـ6% سي آي + 19% رابعاً في "المؤسسة العالمية للطبيعة | سيرفيسيو الوطني لرابطات الأدوانا (** جمارك شيلي، مسؤول حكومي**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ** مصدق عليه** | General 6% ad-valorem on CIF; 19 في المائة
+| "الخدمة في الحفظ" (الواجبات المؤثرة) 6 في المائة + 19 في المائة من المستودعات (**و] CL.  http  http  http https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ** كما ورد في**،  البيان، وكان من المقرر أن يُحدث في الفترة المشمولة بالتقرير الخاص ?
 | China–Chile FTA preference (0% for qualifying origin), أساس الشهادة | MOFCOM البعثة الصينية في شيلي (هيئة تجارية غير رسمية**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ** مصدق عليه** | قناة تفضيلية تبلغ 0% فرنكاً سويسرياً؛ حالة شهادة المنشأ |
 | التدابير الستة التي اتخذتها الوكالة الوطنية لمكافحة الفساد لجعل ضحايا العنف المنزلي أرخص (مقترح وليس قانوناً) | أوتوغويا (وسائط الإعلام الشيلية) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE OURCE | حالة المقترحات فقط - لم يتم سنها صراحة |
 | Los Contadores — 智利 2026 关税 | Los Contadores(智利本地财税) | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE OURCE | 2026 普通关税 6%、自贸国 0%、IVA 19% |

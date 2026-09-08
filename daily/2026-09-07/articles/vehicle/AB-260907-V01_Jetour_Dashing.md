@@ -6,7 +6,7 @@
 - **Primary Keyword**: Jetour Dashing Dasheng export specs
 - **Secondary Search Terms**: Jetour Dashing dimensions; 捷途大圣; Jetour Dashing 1.6T 7DCT; Chinese compact SUV export; Dasheng 2025 1.5TD
 - **Suggested URL**: /vehicles/jetour-dashing/
-- **Search Intent**: 面向海外B端买家介绍捷途大圣中国市场身份、2024/2025尺寸与三套动力的版本边界及采购核验
+- **Search Intent**: Understand Jetour Dashing (Dasheng): A China-Market Compact SUV Reference with Its Three Powertrains Kept Apart: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/changan-kaicene-f70/, /guides/verify-chinese-car-export-supplier-history/, /vehicles/dongfeng-aeolus-yixuan/
 - **Image Suggestion**: A Jetour Dashing compact SUV shown from front three-quarter on a neutral background
 - **ALT Suggestion**: Front three-quarter view of a Jetour Dashing compact SUV on a neutral studio background

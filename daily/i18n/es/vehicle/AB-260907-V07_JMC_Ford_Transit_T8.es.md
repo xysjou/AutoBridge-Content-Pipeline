@@ -1,16 +1,16 @@
 # JMC Ford Transit T8 (Quanshun T8): Una referencia China-Market de gran Van construida alrededor de la base de rueda, techo y volumen de carga
-## SEO Metadatos
-- **SEO Título**: JMC Ford Transit T8 China-Market Van Specs y controles de exportación TENIDO AutoBridge
-- **Meta Descripción**: Referencia del mercado chino para el JMC Ford Transit T8 gran furgoneta: tres ruedas, techos medianos/altos, dos líneas diesel se mantenían separadas, volumen de carga, y por qué no se asume idéntica al Ford Transit global.
-- ** H1 **: JMC Ford Transit T8 (Quanshun T8): Una referencia China-Market de gran Van construida alrededor de la base de rueda, techo y volumen de carga
-- **Primary Keyword**: JMC Ford Transit T8 productos de exportación
-- **Segundary Search Terms**: 江铃福特全顺 T8; Transit T8 dimensions; T8 load volume; 2.3T diesel 8AT van; China large van export; Quanshun T8
-- ** URL agregada**: /vehicles/jmc-ford-transit- t8/
-- **Búsqueda Intent**: 面向海外买家介绍江铃福特全顺 T8 中国市场身份, 三轴距 / 中高顶, 两套柴油动力与货厢容积, 并守住与全球 Tránsito 的身份边界
-- **Sugerencias de Enlace Interno**: /vehicles/saic-maxus- g90/, /vehicles/qingling-isuzu- kv100/, /guides/verify-chinese-car-export-supplier-history/
-- **Sugerencia de imagen**: Una camioneta de carga de alto rendimiento JMC Ford Transit T8 mostrada de perfil lateral para mostrar su longitud
-- **ALT Sugerencia**: Perfil lateral de una camioneta JMC Ford Transit T8 de alto rango en tierra neutral
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
+## Metadatos SEO
+- **Título SEO**: JMC Ford Transit T8 China-Market Van Specs y controles de exportación TENIDO AutoBridge
+- **Meta descripción**: Referencia del mercado chino para el JMC Ford Transit T8 gran camioneta: tres ruedas, techos medianos/altos, dos líneas diesel se mantenían separadas, volumen de carga, y por qué no se asume idéntica al Ford Transit global.
+- **H1**: JMC Ford Transit T8 (Quanshun T8): Una referencia China-Market de gran furgoneta construida alrededor de la base de rueda, techo y volumen de carga
+- **Palabra clave principal**: JMC Ford Transit T8 productos de exportación
+- **Términos de búsqueda secundarios**: 江铃福特全顺 T8; Transit T8 dimensiones; T8 volumen de carga; 2.3T diesel 8AT van; China gran exportación de furgonetas; Quanshun T8
+- **URL sugerida**: /vehicles/jmc-ford-transit-t8/
+- **Intención de búsqueda**: Comprender JMC Ford Transit T8 (Quanshun T8): Una referencia China-Market de gran vara construida alrededor de la base de rueda, la azotea y el volumen de carga: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugerencia de imagen**: Una camioneta de carga de alto rendimiento de JMC Ford Transit T8 se muestra desde el perfil lateral para mostrar su longitud
+- **Texto ALT**: Perfil lateral de un JMC de alto rendimiento Ford Transit T8 van en tierra neutral
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 El JMC Ford Transit T8 (江铃福特全顺 T8) es la plataforma de autobuses grandes y grandes construidos por Jiangling Motors en China, se vende en formas de pasajeros y carga a través de múltiples ruedas y alturas de techo, con tracción trasera y configuraciones de cuatro ruedas. Para un comprador comercial la lógica de pedido es geométrica: **wheelbase × altura del techo × estilo corporal × motor** define el vehículo, y un "Transit T8 " sin esos calificativos está infraespejado. Esta página es una referencia **Chino-mercado**. Mantiene las dos líneas diésel separadas y — críticamente— no * equipara el Quanshun T8 construido por JMC con el Tránsito Ford global: sin una declaración de la misma modelo OEM que están relacionados, no se han demostrado idénticas.
 

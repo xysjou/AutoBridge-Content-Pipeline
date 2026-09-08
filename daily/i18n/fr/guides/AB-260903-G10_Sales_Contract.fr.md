@@ -1,14 +1,16 @@
 # Contrats de vente d'exportation de véhicules: les clauses qui contrôlent réellement le paiement, la livraison et les différends
-## OEuvre Métadonnées
-- ** Titre du SEO**: Clauses et guide des risques des contrats de vente d'exportation de véhicules
-- **Description détaillée**: Ce que doit contenir un contrat de vente à l'exportation de véhicules — Code civil de la RPC Art 596 essentials, Transfert de risque Incoterms, réserve de propriété, fenêtres de rupture/demande, règlement des différends et Apostille, plus divulgation des conditions du véhicule.
-- **URL suggérée**: /guides/véhicule-exportation-vente-clauses/
-- ** H1 **: Clauses clés d'un contrat de vente à l'exportation de véhicules: paiement, titre, risque et différends
-- ** Mot-clé principal**: contrat de vente de véhicules
-- **Conditions de recherche secondaires**: réserve de propriété contrat d'exportation, Incoterms risque transfert véhicule, peine de rupture de contrat d'exportation, commerce de véhicules d'arbitrage de la CCI, Apostille documents outre-mer, divulgation de l'état du véhicule
-- **Suggestions de lien interne**: /guides/chine-véhicule-exportation-licence-douane-documents/; /guides/outre-mer-après-vente-parties-garantie-réseau/; /guides/véhicule-préexpédition-inspection-psi/
-- **Suggestions d'image**: carte de la clause au risque; calendrier de transfert des risques/titres; diagramme des étapes de la livraison du paiement-vers
-- ** Suggestions concernant les accords de vente de véhicules**: "risque de contrat d'exportation et calendrier de transfert de titres"; "clauses clés du contrat de vente de véhicules"
+## Métadonnées SEO
+- **Titre SEO**: Clauses du contrat de vente d'exportation de véhicules et guide sur les risques
+- **Description meta**: Ce que doit contenir un contrat de vente d'exportation de véhicules — PRC Code civil Art 596 essentiel, transfert de risque Incoterms, réserve de propriété, fenêtres de réclamation, règlement des différends et apostille, plus divulgation des conditions du véhicule.
+- **H1**: Clauses clés d'un contrat de vente à l'exportation de véhicules: paiement, titre, risque et différends
+- **Mot-clé principal**: contrat de vente de véhicules clauses clés titre du risque
+- **Termes de recherche secondaires**: Véhicule de transfert de risque Incoterms, peine de rupture de contrat d'exportation, ICC commerce de véhicules d'arbitrage, documents Apostille outre-mer, divulgation de l'état du véhicule
+- **URL suggérée**: /guides/vehicle-export-sales-contract-clauses/
+- **Intention de recherche**: Comprendre les principales clauses d'un contrat de vente à l'exportation de véhicules: paiement, titre, risque et différends: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Suggestion d'image**: carte de clause à risque
+- **Texte ALT**: risque de contrat d'exportation et calendrier de transfert de propriété
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pour qui ça sert
 Un premier exportateur de véhicules signe souvent un marché sur le prix et la quantité seulement, puis découvre le contrat jamais fixé **lorsque le risque passe, qui détient le titre avant le paiement intégral, ou où un différend est entendu**. Ce guide présente les clauses qui contrôlent ces résultats. Code civil de la RPC L'article 596 est décrit ici par **portails juridiques secondaires (FindLaw, etc.), qui plafonnent à CROSS_ VOIR/SINGLE_SOURCE**; VÉRIFIÉ exigerait le texte officiel du Code civil d'une source NPC/gouvernement. Le reste est la synthèse des pratiques juridiques. **Un modèle n'est pas un avis juridique — faire examiner par un avocat qualifié le contrat exécuté en vertu de la loi applicable choisie. **
@@ -56,18 +58,18 @@ Divulguer les faits importants de façon véridique: **version/configuration, ve
 **Les documents étrangers doivent-ils être légalisations?** Souvent, une apostille (hague) ou une légalisation consulaire est requise; la responsabilité de l'État dans le contrat et vérifier le statut de la destination.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf

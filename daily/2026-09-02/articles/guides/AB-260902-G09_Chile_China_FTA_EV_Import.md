@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Import Chinese EVs to Chile: FTA Preference, IVA & 3CV Guide
 - **Meta Description**: How the China–Chile FTA preference works for Chinese-built vehicles, the Chilean Customs 6% general duty and 19% IVA confirmed officially, why a certificate of origin is the condition, and how 3CV homologation fits.
-- **Suggested URL**: /guides/import-chinese-ev-chile-fta/
 - **H1**: Chinese Vehicles Into Chile: Using the FTA Preference Without Miscalculating Landed Cost
 - **Primary Keyword**: Chile China FTA vehicle import duty IVA homologation
 - **Secondary Search Terms**: Chile aduana 6% arancel, Chile IVA 19% import, China Chile FTA certificate of origin, Chile 3CV homologation, certificado origen TLC China Chile, EV import Chile
+- **Suggested URL**: /guides/import-chinese-ev-chile-fta/
+- **Search Intent**: Understand Chinese Vehicles Into Chile: Using the FTA Preference Without Miscalculating Landed Cost: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
-- **Image Suggestions**: Chile tax-stack waterfall; FTA certificate-of-origin flow; 3CV homologation steps
-- **ALT Suggestions**: "Chile import cost stack: duty versus IVA"; "FTA certificate of origin requirement"; "Chile 3CV homologation process"
+- **Image Suggestion**: Chile tax-stack waterfall; FTA certificate-of-origin flow; 3CV homologation steps
+- **ALT Suggestion**: Chile import cost stack: duty versus IVA
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## The Opportunity and the Recurring Miscalculation
 Chile operates free-trade agreements with its major partners, **including China**. A compliant Chinese-origin vehicle can use the FTA preference (ad-valorem **duty 0%**), while Chile's **general ad-valorem duty is 6% of CIF customs value** for non-preference origin — both now anchored to official sources (below). The recurring buyer error is reading "FTA 0% duty" as "0% cost to import." It is not: **19% IVA still applies, the 0% depends on proving origin, and homologation is a separate workstream.** This guide is specific to **Chile**.
 ## The Tax Stack, Line by Line (officially grounded)

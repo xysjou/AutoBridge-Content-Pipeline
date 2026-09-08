@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: BYD Dolphin 2025 China Specs: Battery, Range & Export Checks
 - **Meta Description**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grades, 420/520 km CLTC, DiPilot, with China-vs-overseas-spec discipline for buyers.
-- **Suggested URL**: /vehicles/byd-dolphin/
 - **H1**: BYD Dolphin 2025 (Chinese-Market): Variants, Battery, Range Cycle and Export Verification
 - **Primary Keyword**: byd dolphin 2025 range battery specs
 - **Secondary Search Terms**: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD small EV export, Dolphin DiPilot, China EV GB/T charging
+- **Suggested URL**: /vehicles/byd-dolphin/
+- **Search Intent**: Understand BYD Dolphin 2025 (Chinese-Market): Variants, Battery, Range Cycle and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
-- **Image Suggestions**: standard vs Knight grade comparison; Blade Battery pack note; GB/T charge port; rotating/infotainment screen; rear seating
-- **ALT Suggestions**: "BYD Dolphin 2025 two battery grades"; "Dolphin CLTC range versus overseas cycle"
+- **Image Suggestion**: standard vs Knight grade comparison; Blade Battery pack note; GB/T charge port; rotating/infotainment screen; rear seating
+- **ALT Suggestion**: BYD Dolphin 2025 two battery grades
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: an EV Decision Starts With Battery and Cycle
 The Dolphin is BYD's compact battery hatchback on the e-platform 3.0 with an LFP Blade Battery. For an EV, the order is battery → range **cycle** → motor grade → charging/software, not a single headline number. This page covers the **2025 Chinese-market line (REFERENCE MARKET: CHINA)**. BYD also sells a car badged "Dolphin" in overseas markets; that is name continuity, **not** a 1:1 spec match — overseas battery sizes, certified range cycles (WLTP/NEDC) and equipment differ and must be read from the destination sheet, never inferred from these China numbers.

@@ -1,15 +1,17 @@
 # Foton Toano Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  ضوابط التصدير
 
-## SEO Metadata
-- ** عنوان المنظمة**: فوتون توانو (طويانو) لارجي فان: مريخيت سبيكيس " دليل شراء الصادرات "
-- ** وصف البيانات**: خفيفة في السوق الصينية: قاعات متحركة قصيرة وطويلة، وعجلات ديزل، وحجم المقاعد الواسعة، ولماذا يجري تقييم عمليات التحويل المبردة بصورة منفصلة.
-- ** H1 **: Foton Toano Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  ضوابط التصدير
-- ** كلمة رئيسية**: Foton 福田 Toano 图雅诺 大VAN（轻客） specs export
-- ** شروط البحث الثانية**: تصدير فولون توان؛ شاحنة توينو؛ حافلة خفيفة صينية؛ شاحنة لنقل البضائع
-- ** URL المقتطع**: /مركبات/فولتون -
-- ** الحلقة الدراسية**: 了解 Foton 福田 Toano 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/foton-toano/, /guides/ckd-knockd-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: فوتون توانو (طويانو) لارغي فان: دليل شراء الصادرات الصيني - المريخي
+- **وصف Meta**: حافلة/شاحنة خفيفة في السوق الصينية: قاعات متحركة قصيرة وطويلة، وعجلات ديزل، وحجم المقاعد الواسعة، ولماذا يجري تقييم عمليات التحويل المبردة بصورة منفصلة.
+- **H1**: Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  ضوابط التصدير
+- **الكلمة المفتاحية الرئيسية**: Foton / 福田 Toano / 图雅诺 大VAN（轻客） specs export
+- **مصطلحات بحث ثانوية**: تصدير فولتون توانو؛ شاحنة تويانو؛ حافلة خفيفة صينية؛ شاحنة لنقل البضائع
+- **URL المقترح**: /vehicles/foton-toano/
+- **نية البحث**: Understand Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  ضوابط التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **اقتراح الصورة**: واقعي  document/vehicle-focused scene illustrating Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  عمليات مراقبة الصادرات لم يُدّعى أيّ تفتيش أو أشخاص.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs  and  اشرح خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء: حافلة خفيفة قابلة للتشكيل، وليس مطياف ثابت واحد
 The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light bus offered across many wheelbases and seat counts. لأن مصفوفة البديل واسعة، هذه الصفحة مكتوبة حول ** تشكيلات محددة فقط** بدلا من مشهد واحد ضمني "توانو". السوق المرجعية** الصين**.
@@ -46,9 +48,8 @@ The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light
 ** كم عدد المقاعد؟** وهي تتراوح بين النسختين (3–17)؛ وتحدد البناء الدقيق.
 ** لماذا لا توجد قائمة كاملة بالطاقة ISF2.8؟** مصفوفة المتغيرة تحتاج إلى قفل OEM؛ وهي محجوبة.
 ** هل الشاحنة المبردة نموذج مصنع؟ ** إنه على فوضى (توانو)
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+** ما هي قاعدة العجلات لباص صغير؟** اختر من 3070/3510/3750 ملم بالتصميم.
 ** أين أرقام GVW؟** لم يُقبض عليه بشكل موثوق، بل يُحصل على الحرق.
-
 
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
@@ -58,40 +59,39 @@ The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light
 | 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | صرخات | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
 | 图雅诺 冷藏改装 (上装) | 大众网机械 | CN | T3 | صرخات | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装، 非原厂 VAN 参数 |
 | موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** فوتون توان فان
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** "في شاحنة "فولتون توانو
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
-  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
-  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
-
+  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
+  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

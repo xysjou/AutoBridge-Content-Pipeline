@@ -1,15 +1,17 @@
 # Changan CS55 PLUS (3rd 世代、2024) - 中国市場ガソリン SUV スペックとエクスポートチェック
 
-## ツイート メタデータ
-- **SEOタイトル**: Changan CS55 PLUS (3rd Gen) 2024: 中国の市場 ICE 仕様と輸出ガイド
-- **メタ 記述**: Chinese-market third-generation Changan CS55 PLUS petrol SUV: 青い鯨NE 1.5T、7DCT、次元、WLTCの燃料の使用および雑種のが別のラインである理由。
-- H1 **: Changan CS55 PLUS (3rd 世代、2024) — 中国の市場ガソリン SUV 仕様と輸出チェック
-- **主なキーワード**: Changan/长安 CS55 PLUS (第三代)の仕様の輸出
-- **二次検索条件**: Changan CS55 PLUS輸出;第三世代 CS55;青い鯨1.5T;中国のガソリンSUV;7DCT
-- **混雑URL**: /vehicles/changan- cs55-plus/
-- **Search Intent**: 了解 Changan/长安 CS55 PLUS(第三代) 中国版规格、配置与出口适配性 (车型参数页));
-- **内部リンクの提案**: /vehicles/changan- cs55-plus/、/guides/emission-fuel-compatibility-history/、/guides/china-used-car-export-license-process/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: 長安 CS55 PLUS (3rd Gen) 2024: 中国の市場 ICE 仕様と輸出ガイド
+- **メタディスクリプション**: Chinese-market third-generation Changan  CS55   PLUS  petrol  SUV : 青い鯨NE 1.5T、7DCT、次元、WLTC燃料の使用および雑種のが別のラインである理由。
+- **H1**: Changan CS55 PLUS (3rd 世代、2024) - 中国市場ガソリン SUV 仕様と輸出チェック
+- **主要キーワード**: Changan/长安 CS55 PLUS (第三代)の仕様の輸出
+- **関連検索語**: Changan CS55 PLUS 輸出; 第三世代 CS55; 青い鯨 1.5T; 中国のガソリンSUV; 7DCT
+- **推奨URL**: /vehicles/changan-cs55-plus/
+- **検索意図**: Changan CS55 PLUS(3rd世代、2024) - 中国市場ガソリンSUV仕様と輸出チェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **画像候補**: リアルで、文書/車両に焦点を当てたシーンを照らしChangan CS55 (3rd世代、2024) - 中国市場ガソリン SUV 仕様と輸出チェック、段階的な検査や要求の人々。
+- **ALTテキスト**: チャンガンCS55 PLUS(3rd世代、2024)に関連する材料のクローズ、自然的視野 - 中国市場ガソリンSUVスペックとE、中立的な背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキストと生成境界
 このページは、このページのみをカバー **third-generation Changan CS55 PLUS (2024) ガソリンで (ICE) powertrain**. **スーパーハイブリッドバージョンは別々のライン**で、異なるボディとパワートレインの数字で、ここでマージされていません。 参照の市場は**中国**です。
@@ -53,11 +55,10 @@
 **99、900のRMB輸出価格ですか。** いいえ — 国産発売参照。
 7-speedウェットデュアルクラッチ(7DCT)をキャプチャラインに。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置の特長 | 搜狐汽车车型库 | CN の | T2 | CROSS_CHECKED(クロス) | 以下は、 と 選択されたトリムID= | 尺寸、轴距、动力、变速箱、油耗、行李厢 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241
+| CS55  PLUS  参数配置の特長 | 搜狐汽车车型库 |  CN  の | T2 |  CROSS | CHECKED (クロス) | 以下は 、 と 選択されたトリム  ID  = | 尺寸 、 轴距 、 动力 、 变速箱 、 油耗 、 行李厢 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241
 | 第三代CS55PLUS上市 | 人民网重庆 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市、价格区间 |
 | CS55 PLUS 超擎混动参数の特長 | 搜狐汽车 | CN の | T2 | CROSS_CHECKED(クロス) | 担当: http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 の | 混动版区分 (不得混入燃油) |
 | チャンガン 自動車公式グローバルサイト | 長安自動車 长安汽车 (OEM) | CN の | T1 | 検証済み | 以下は、 https://www.globalchangan.com/ は、 | ブランド/モデルラインアイデンティティとOEMの権限 |
@@ -71,18 +72,18 @@
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確な長春 CS55 PLUS Gen3
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: チャンガン CS55 PLUS Gen3
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
   - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
   - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
@@ -95,6 +96,5 @@
   - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE

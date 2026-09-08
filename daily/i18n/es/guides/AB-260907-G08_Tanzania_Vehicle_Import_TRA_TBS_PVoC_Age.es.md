@@ -1,16 +1,16 @@
 # Importar vehículos en Tanzania: El TRA Customs Track y el TBS PVoC/CoC Track
-## SEO Metadatos
-- **SEO Title**: Tanzania Vehículo Importación: Aduana de TRA y TBS PVoC/CoC Explicado TENIDO AutoBridge
-- **Meta Descripción**: Cómo la importación de vehículos a Tanzania se divide entre la autorización de aduanas de TRA bajo EACCMA/TANCIS y TBS previa al envío PVoC de conformidad (con una categoría dedicada a motores-vehículos usados), y lo que debe verificarse para la edad y el deber.
-- ** H1 **: Importar vehículos a Tanzania: El TRA Customs Track y el TBS PVoC/CoC Track
-- **Primary Keyword**: tanzania vehículos importadores tbs pvoc age
-- **Segundary Search Terms**: TBS PVoC utiliza vehículos de motor; Tanzania CoC pre-shipment; TRA TANCIS import; EACCMA 2004 importación de vehículos; Tanzania usó el límite de edad del coche; CCIC PVoC China
-- ** URL agregada**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
-- **Búsqueda Intent**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责,PVoC/CoC 机制与二手车专门类别, 以及车龄 / 税率需向谁核验
-- **Sugerencias de Enlace Interno**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+## Metadatos SEO
+- **Título SEO**: Tanzania Vehículo Importación: TRA Aduanas y TBS PVoC/CoC Explicado TENIDO AutoBridge
+- **Meta descripción**: La forma en que la importación de vehículos a Tanzania se divide entre TRA aduanas de acuerdo con EACCMA/TANCIS y TBS pre-bordo PVoC (con una categoría dedicada a motores-vehículos usados), y lo que debe verificarse para edad y deber.
+- **H1**: Importar vehículos a Tanzania: La pista de aduanas TRA y la pista de TBS PVoC/CoC
+- **Palabra clave principal**: tanzania vehículos importadores tbs pvoc age
+- **Términos de búsqueda secundarios**: TBS PVoC utiliza vehículos de motor; Tanzania CoC pre-shipment; TRA TANCIS importación; EACCMA 2004 importación de vehículos; Tanzania usó el límite de edad del coche; CCIC PVoC China
+- **URL sugerida**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **Intención de búsqueda**: Comprender la importación de vehículos en Tanzania: La pista de aduanas TRA y la TBS PVoC/CoC Pista: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
 - **Sugerencia de imagen**: Un vehículo usado que se inspecciona en un patio de exportación mientras se prepara un documento de conformidad
-- **ALT Sugerencia**: Vehículo bajo inspección previa al envío junto con un certificado de conformidad en un portapapeles
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Vehículo bajo inspección previa al envío junto con un certificado de conformidad en un portapapeles
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Tanzania es un mercado de un solo país con un sistema deliberadamente de importación de dos vías, y un exportador de vehículos que lo trata como un proceso pierde tiempo en el puerto. Una vía pertenece a la Autoridad de Impuestos de la Comunidad de África Oriental** (TRA)** — declaración aduanera, evaluación de derechos y autorización de aduanas en virtud de la Ley de gestión de aduanas de la Comunidad de África Oriental. La otra pertenece a la Oficina de Normas **Tanzania** — evaluación previa de la conformidad del envío que decide si se permite incluso el envío regulado, vehículos de motor usados incluidos. Esta guía es específica para Tanzania (no es una declaración de África Oriental) y se basa en las páginas primarias actuales de TBS y TRA. Explica ambas vías autorizadamente y, cuando los documentos oficiales primarios para la edad de los automóviles usados y las tasas de aranceles para vehículos no eran retráctiles al revisar, establece que esos documentos son artículos para verificar en lugar de inventar números.
 

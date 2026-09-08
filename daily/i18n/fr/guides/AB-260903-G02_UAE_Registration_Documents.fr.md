@@ -1,14 +1,16 @@
 # Importation d'un véhicule aux Émirats arabes unis: séquence d'autorisation d'immatriculation et ce que vous devez vérifier à nouveau
-## OEuvre Métadonnées
-- **Référencement**: Guide des documents d'immatriculation des EAU pour les véhicules et les ATR
-- **Description détaillée**: Séquence d'une importation de véhicule des EAU correctement — documents de dédouanement, conformité GCC/GSO, puis enregistrement RTA (Mulkiya). Les chiffres déclarés des droits et de la TVA sont indiqués pour la confirmation officielle des Émirats arabes unis plutôt que comme étant fixés.
-- **URL suggérée**: /guides/uae-véhicule-import-registration-documents/
-- ** H1 **: Importation de véhicules des EAU: Du dédouanement du port à l'enregistrement de la RTA — Documents et vérification
-- **Mot-clé principal**: documents d'immatriculation d'un véhicule uae
-- **Conditions de recherche secondaires**: importation de véhicules douaniers à Dubaï, immatriculation des EAU Mulkiya, conformité des véhicules GSC GSO, droits de TVA sur les véhicules EAU, importation de véhicules du Ministère de l'intérieur
-- **Suggestions de lien interne**: /guides/véhicule-coc-type-accept-dossier/; /guides/chine-véhicule-exportation-licence-douane-documents/; /guides/véhicule-préexpédition-inspection-psi/
-- **Suggestions d'image**: habilitation→ Diagramme de séquence de l'ATR; liste de contrôle des documents des EAU; carte des émirates/autorités fédérales
-- ** Suggestions concernant l'ALT**: "Séquence d'enregistrement des douanes des Émirats arabes unis à la RTA"; "Contrôle des documents d'importation des véhicules des Émirats arabes unis"
+## Métadonnées SEO
+- **Titre SEO**: UAE Guide sur l'importation de véhicules et RTA documents d'immatriculation
+- **Description meta**: Séquence d'importation de UAE véhicules correctement — documents de dédouanement, conformité GCC/GSO, puis immatriculation RTA (Mulkiya). Les chiffres du droit déclaré/ VAT sont indiqués pour la confirmation officielle UAE plutôt que comme étant fixés.
+- **H1**: UAE Importation de véhicules: Du dédouanement au RTA Enregistrement — Documents et vérification
+- **Mot-clé principal**: Les documents d'immatriculation des véhicules d'un véhicule d'un type différent
+- **Termes de recherche secondaires**: Importation de véhicules de Dubai, UAE immatriculation Mulkiya, GCC GSO conformité de véhicules, UAE droit d'importation de voitures VAT, importation de véhicules du Ministère de l'intérieur
+- **URL suggérée**: /guides/uae-vehicle-import-registration-documents/
+- **Intention de recherche**: Comprendre UAE Importation de véhicule: De la Dédouanement du port à RTA Enregistrement — Documents et vérification: ce qu'un exportateur de véhicule ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Suggestion d'image**: rainure→ Diagramme de séquence RTA
+- **Texte ALT**: UAE douane à RTA séquence d'enregistrement
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Portée et limites des preuves (première lecture)
 Ce guide utilise les EAU comme exemple de travail**; le séquençage des transferts logiques vers d'autres marchés du CCG, mais chaque émirate et chaque état du CCG applique ses propres formulaires et frais. **Aucune page principale des douanes fédérales des EAU ou de la RTA n'a été saisie dans ce paquet.** Par conséquent, les chiffres des droits, des taxes et des taxes réels ci-dessous sont ** déclarés par les guides de transitaires et sont des éléments de vérification TEMPS-ENSITIF, et non des faits fixes** — obtenir les valeurs actuelles de l'autorité douanière fédérale des EAU et de la RTA de l'émirat concerné avant de s'engager dans un modèle de coût au débarquement.
@@ -54,18 +56,18 @@ Après la mainlevée en douane, l'acheteur s'applique à la RTA avec (déclarée
 **Ce guide s'applique-t-il aussi à l'Arabie saoudite/Qatar?** La séquence transfère conceptuellement, mais les formulaires, les frais et les autorités diffèrent selon les États du CCG — vérifier chaque pays séparément.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,15 +1,17 @@
 # JMC Shunda (顺达) caminhão leve: GVW, carga útil, motor e corpo de carga para exportação compradores
 
-## SEO Meta- dados
-- ** Título SEO**: JMC Shunda Light Truck Specs & Guia de exportação (GVW 4.27t, China- 6)
-- ** Descrição do Meta**: Mercado chinês JMC Shunda azul-placa caminhão leve - JX493 diesel 90 kW, GVW 4.27 t, 3700 mm dropside cama, distância entre eixos e girando círculo, além da carga útil e motor-versão verifica os exportadores precisam.
-- ** URL sugerido**: /veículos/jmc-shunda/
-- ** H1 **: JMC Shunda: Chinese-Market Light-Truck Chassis, GVW e Especificações de Carga para Exportação
-- **Primary Keyword**: jmc shuda light truck specs export
-- ** Termos de pesquisa secundários**: JMC Shunda JX493, 顺达小卡, caminhão leve chinês GVW, JMC dropside carga útil, China- 6 diesel caminhão exportação
-- ** Sugestões de ligação interna**: /guias/veículo-exportação-hs-código-classificação/; /guias/combustível-combinação-combustível-combinação-veículos/; /veículos/dongfeng-tianjin-kr/
-- ** Sugestões de imagem**: Shunda lado dropside; cama de carga; motor JX493; quadro de chassi; cabine
-- **ALT Sugestões**: "JMC Shunda placa azul leve caminhão dropside"; "Shunda 3700mm cama de carga GVW 4.27t"
+## Metadados SEO
+- **Título SEO**: JMC Shunda leves caminhão especificações e Guia de exportação (GVW 4.27t, China- 6)
+- **Meta descrição**: Mercado chinês JMC Shunda caminhão de luz placa azul - JX493 diesel 90 kW, GVW 4.27 t, 3700 mm dropside cama, distância entre eixos e girando círculo, além da carga útil e motor-versão verifica os exportadores precisam.
+- **H1**: JMC Shunda: Chinese-Market Light-Truck Chassis, GVW e Especificações de Carga para Exportação
+- **Palavra-chave principal**: jmc shuda especificações de caminhão leve exportação
+- **Termos de busca secundários**: JMC Shunda JX493, 顺达小卡, caminhão leve chinês GVW, JMC dropside carga útil, China- 6 diesel caminhão exportação
+- **URL sugerida**: /vehicles/jmc-shunda/
+- **Intenção de busca**: Understand  JMC  Shunda: Chassis de troco leve de mercado chinês, GVW e Especificações de carga para exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
+- **Sugestão de imagem**: Shunda lado da gota
+- **Texto ALT**: JMC Shunda azul-placa leve caminhão dropside
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: uma página de veículos comerciais é construída em torno de GVW e carga útil
 Para um caminhão leve, o comprador não está comparando níveis de corte - eles estão combinando **GVW, carga útil nominal, versão do motor e corpo de carga** para um trabalho operacional. The Shunda (顺达) is JMC's China-6 blue-plate light truck line. O principal risco de ordem é a mistura motor-versão: o motor de caminhão pequeno documentado é o ** JX493ZLQ6D 2.499 L **, enquanto que a gama Shunda mais ampla também usa um ** 2.8 L 493 ** com saídas diferentes. Esta página documenta a referência **Chinese-mercado de pequeno camião (REFERÊNCIA MERCADO: CHINA)**; nenhuma folha primária OEM foi capturada, por isso os valores são valores cruzados de base de dados de comércio para confirmar contra o anúncio MIIT e o certificado de veículo.

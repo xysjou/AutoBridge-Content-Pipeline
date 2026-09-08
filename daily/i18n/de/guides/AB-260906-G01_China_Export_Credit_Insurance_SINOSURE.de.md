@@ -1,16 +1,16 @@
 # China Export Credit Insurance (SINOSURE Short-Term Cover): Welche Fahrzeugexporteure kaufen tatsächlich
-## SEO Metadaten
-- **SEO Titel**: SINOSURE Kurzfristige Exportkreditversicherung für Fahrzeugexporteure | AutoBridge
-- **Meta Description**: Wie ein chinesischer Fahrzeugexporteur die kurzfristige Exportkreditversicherung von SINOSURE nutzt, um das wirtschaftliche und politische Risiko des Käufers zu decken, wer sich bewerben kann und was die Police niemals garantiert.
-- ** H1 **: China Export Credit Insurance (SINOSURE Short-Term Cover): Welche Fahrzeugexporteure kaufen tatsächlich?
-- **Hauptschlüsselwort**: Sinosure für Exportkreditversicherungen in China
-- **Secondary Search Terms**: kurzfristige Exportkreditversicherung; SINOSURE Käuferrisiko; politische Risikodeckung Export; Exportkreditversicherung Anwendung; Open Account Versicherung China
-- **Suggested URL**: /guides/china-export-credit-insurance-sinosure/
-- **Search Intent**:（政治风险）（汽车出口商如何用中国出口信用保险）（通过什么渠道投保）（中信保短期险）（覆盖买方商业）
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
-- **Bildvorschlag**: Ein Ausführer, der eine Akte über das Käufer-Kreditlimit neben einer fertigen Fahrzeugwerft überprüft
-- **ALT Vorschlag**: Schreibtisch mit einem Käuferlimit-Dokument für Exportkreditversicherungen und einer Reihe von Exportfahrzeugen im Hintergrund
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: SINOSURE Kurzfristige Exportkreditversicherung für Fahrzeugexporteure | AutoBridge
+- **Meta-Beschreibung**: Wie ein chinesischer Fahrzeugexporteur SINOSURE kurzfristige Exportkreditversicherungen nutzt, um das kommerzielle und politische Risiko des Käufers zu decken, wer sich bewerben kann und was die Police niemals garantiert.
+- **H1**: China Export Credit Insurance (SINOSURE Kurzfristige Deckung): Welche Fahrzeugexporteure kaufen tatsächlich
+- **Haupt-Keyword**: China Exportkreditversicherung Sinosure
+- **Sekundäre Suchbegriffe**: kurzfristige Exportkreditversicherung; SINOSURE Käuferrisiko; politische Risikodeckung Export; Exportkreditversicherung Anwendung; Open Account Versicherung China
+- **Vorgeschlagene URL**: /guides/china-export-credit-insurance-sinosure/
+- **Suchabsicht**: China Export Credit Insurance (SINOSURE Kurzfristige Deckung): Was Fahrzeugexporteure tatsächlich kaufen: Was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+- **Bildvorschlag**: Ein Ausführer, der eine Kreditlimit-Datei des Käufers neben einer Fertigfahrzeugwerft überprüft
+- **ALT-Text**: Schreibtisch mit einem Käuferlimit für Exportkreditversicherungen und einer Reihe von Exportfahrzeugen im Hintergrund
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Eine Fahrzeugbestellung ist nur so sicher wie die Forderung dahinter. Wenn ein chinesischer Exporteur zustimmt, auf offenem Konto, gegen ein Usance-Akkreditiv oder mit Zahlung nach der Ankunft zu versenden, wird die Lücke zwischen der Übergabe eines hochwertigen Vermögenswertes und dem Erhalt von freigegebenen Geldern vom Exporteur getragen, es sei denn, etwas überträgt dieses Risiko. Chinas Versicherungsgesellschaft für Exportkredite, die China Export & Credit Insurance Corporation (SINOSURE), ist die inländische Institution, die gebaut wurde, um einen Teil dieser Lücke zu tragen. Auf dieser Seite wird erläutert, was sein kurzfristiges Produkt tatsächlich abdeckt, wo die Grenzen liegen und wie ein Fahrzeugexporteur anwendet - ohne Sätze oder Entschädigungsprozentsätze anzugeben, die von Fall zu Fall festgelegt werden und sich im Laufe der Zeit ändern.
 

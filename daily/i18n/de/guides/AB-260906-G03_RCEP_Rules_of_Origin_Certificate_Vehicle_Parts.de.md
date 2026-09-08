@@ -1,16 +1,16 @@
 # RCEP Ursprungsregeln und Zertifikate: Wie Fahrzeuge und Autoteile Präferenz beanspruchen
-## SEO Metadaten
-- **SEO Titel**: RCEP Ursprungsregeln für Fahrzeuge & Autoteile: Zertifikatsführer
-- **Meta Description**: Wie chinesische Exporteure von vollständigen Fahrzeugen und Autoteilen die RCEP-Ursprungskriterien erfüllen, die Kumulierung verwenden und eine Ursprungsbescheinigung oder eine Erklärung eines zugelassenen Ausführers auswählen, um eine Zollpräferenz zu beantragen.
-- ** H1 **: RCEP-Ursprungsregeln und Zertifikate: Wie Fahrzeuge und Autoteile die Präferenz beanspruchen
-- ** Primäres Keyword**: RCEP-Ursprungsbescheinigungs-Fahrzeugteile
-- **Secondary Search Terms**: RCEP-Ursprungsbescheinigung; RCEP Regionale Kumulierung; Erklärung des ermächtigten Ausführers RCEP; Back-to-Back-Zertifikat; RCEP Zollpräferenz Autoteile
-- **Suggested URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
-- **Search Intent**: 出口RCEP成员国的整车/零部件如何满足原产地规则、申领原产地证书或经核准出口商声明以享关税优惠
-- **Internal Link Suggestions**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+## SEO-Metadaten
+- **SEO-Titel**: RCEP Ursprungsregeln für Fahrzeuge & Autoteile: Zertifikatsführer
+- **Meta-Beschreibung**: Wie chinesische Exporteure von vollständigen Fahrzeugen und Autoteilen RCEP Ursprungskriterien erfüllen, die Kumulierung verwenden und eine Ursprungsbescheinigung oder eine Erklärung eines zugelassenen Ausführers auswählen, um eine Zollpräferenz zu beantragen.
+- **H1**: RCEP Ursprungsregeln und Zertifikate: Wie Fahrzeuge und Autoteile Präferenz beanspruchen
+- **Haupt-Keyword**: RCEP Ursprungsregeln für Fahrzeugteile
+- **Sekundäre Suchbegriffe**: RCEP Ursprungszeugnis; RCEP regionale Kumulierung; Erklärung des ermächtigten Ausführers RCEP; Back-to-Back-Bescheinigung; RCEP Zollpräferenzautoteile
+- **Vorgeschlagene URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
+- **Suchabsicht**: RCEP verstehen Ursprungsregeln und Zertifikate: Wie Fahrzeuge und Autoteile Anspruch Präferenz: was ein Fahrzeug / Teile Exporteur muss überprüfen, dokumentieren und entscheiden, bevor sie zu einer Bestellung verpflichten.
+- **Interne Link-Vorschläge**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Bildvorschlag**: Ein Herkunftszertifikat wird neben verpackten Autoteilen für einen RCEP-Zielort vorbereitet
-- **ALT Suggestion**: Hände bereiten ein RCEP-Ursprungszertifikat neben gekennzeichneten Autoteilekartons vor
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **ALT-Text**: Hände, die ein RCEP-Ursprungszertifikat neben etikettierten Autoteilekartons vorbereiten
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Ein Fahrzeug oder ein Container mit Autoteilen erhält am Bestimmungsort nur dann einen RCEP-Präferenztarif, wenn es ** als Ursprungsland ** gilt und ** in einer Weise dokumentiert ist, die der Einfuhrzoll akzeptiert **. Aus China versendet zu werden, reicht nicht aus, und eine Handelsrechnung mit der Aufschrift "Made in China" ist kein Herkunftsnachweis. Diese Seite führt durch die RCEP-Ursprungstests, die Rolle der regionalen Kumulierung, die drei Beweisrouten und den Back-to-Back-Mechanismus, der wichtig ist, wenn Waren durch eine dritte RCEP-Partei bewegt werden.
 

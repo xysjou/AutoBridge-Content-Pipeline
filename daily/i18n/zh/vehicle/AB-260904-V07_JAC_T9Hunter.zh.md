@@ -1,15 +1,17 @@
 # JAC T9 Hunter(悍途):一个柴油中尺寸拾单机——床、有效载荷、驱动列车和出口检查
 
-## 道德操守办公室 元数据
-- ** 标准电子数据标题**:JAC T9 猎人柴油拾货和出口指南(Bed,4WD)
-- **Meta Director**:JAC T9猎人/汉图柴油小卡车——标准及长床,2.0T型柴油机配属ZF 8AT型,博格瓦尔纳兼职4WD型,出口3500 kg拖车对中国标定的1000 kg有效载荷保持市场专用,并有出口者核查.
-- ** 建议的URL**:车辆/木炭-t9-hunter/
-- ** H1 **:JAC T9 猎人:出口买方柴油拾货机样(床、有效载荷、驱动火车、底盘)
-- ** 初等关键词**:jac t9 猎人皮卡出口
-- ** 二级搜索术语**:JAC T9 猎人柴油,JAC 汉图皮卡,T9 8AT 4x4,JAC皮卡载荷拖拉机,中国柴油皮卡出口
-- ** 内部链接建议**: /指南/车辆-出口-hs-code-分类/;/指南/vin-nameplape-核查-chinese-车辆/;/指南/排放-燃料兼容性-china-车辆/
-- ** 图像建议**:T9 猎人侧带床;货床尺寸;4WD 选择器 2H/4H/4L;后 Diff锁;底盘框架
-- ** ALT建议**: "JAC T9 猎人柴油4x4型皮卡";"T9" 猎人标准对长床尺寸"
+## SEO元数据
+- **SEO标题**: JAC T9 猎人柴油拾货和出口指南(Bed, 4WD)
+- **Meta描述**: JAC T9 猎人/汉图柴油小卡车——标准  and  长床,  2.0T diesel with  ZF  8AT, 博格沃纳兼职4WD, 出口3500 kg拖动对中国的1000 kg有效载荷保持市场特性, 与出口商核查。
+- **H1**: JAC T9 (单位:千美元) 猎人:供出口买方使用的柴油拾货机样(床、有效载荷、驱动火车、底盘)
+- **核心关键词**: jac t9 猎人皮卡出口
+- **次级搜索词**: JAC T9 (单位:千美元) 猎人柴油 JAC 维基月球 汉图皮卡, T9 8AT 4x4 (英语). JAC 载荷拖动, 中国柴油皮卡出口
+- **建议URL**: /vehicles/jac-t9-hunter/
+- **搜索意图**: 了解JAC T9 Hunter:出口买方的柴油拾单(床、有效载荷、驱动列车、底盘):车辆/零件出口商在承诺订购前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **图片建议**: T9 维基月球 猎人一边和床
+- **ALT文本**: JAC T9 (中文(简体)). 猎人柴油4x4型皮卡
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景:从床底和驱动火车开始作出接力决定
 出口商的第一个问题是床位长度、有效载荷、四轮驱动布局和底盘——而不是娱乐。 T9猎人号是JAC的中型柴油小卡车;在中国,它作为**汉图(悍途)**的车型上市. 身份由**两个JAC拥有的官方网站**——出口网站(jacen,名称为 " T9 ")和中国小货车网站(pickup.jac,名称为 "悍途/Hantu")——确定,这些网站满足了要求。 MODEL_ALIAS_REQUIRES_OEM_PROOF:**最终身份确定是产品家族的SAME_MODEL**. 身份和每个市场的配置都是独立判断的,所以下面的每个数字仍然带有其市场和信心的标签.
@@ -75,16 +77,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) picape
+- ** ** AutoBridge出口-买方参考——JAC T9 Hunter,汽油/柴油中国市场汽车皮卡
+- **法国**: Référence AutoBridge 出口——JAC T9 Hunter, véhicule thermique (中国毛泽东) 拾取器
+- DE**: 国家 自动Bridge-Referenz für Exportkäufer — JAC T9 猎人,韦尔布伦纳(chinesicher Markt) 拾取器
+- **ES**: 出口控制中心——JAC T9 Hunter, vehículo de buxustion (mercado chino) camioneta 接货公司
+-  **: 出口控制中心(Referência AutoBridge para exportação)——JAC T9猎人, viículo a bunstão (mercado chinês) picape
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 ピックアップトラック
   - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
+- **VI**: i liệu khảo AutoBridge cho người mua xuất khẩu – JAC T9 猎人,xe ng cơt trong (thịtường Trung Quốc) xe bán tải
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
+- 身份证**: 参考文献 自动布里奇 untuk pembeli ekspor — JAC T9 猎人, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 

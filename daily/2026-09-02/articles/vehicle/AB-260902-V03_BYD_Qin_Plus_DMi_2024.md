@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: BYD Qin Plus DM-i PHEV: Two Battery Versions & Export Guide
 - **Meta Description**: BYD Qin Plus DM-i explained for importers — how the 1.5L engine, electric motor, 8.32/18.32 kWh battery, E-CVT and operating modes combine, and why 55 vs 120 must be fixed by VIN.
-- **Suggested URL**: /vehicles/byd-qin-plus-dmi/
 - **H1**: BYD Qin Plus DM-i: PHEV Powertrain, Version Differences and What Importers Must Confirm
 - **Primary Keyword**: BYD Qin Plus DM-i specifications export
 - **Secondary Search Terms**: Qin Plus DM-i 55 vs 120, BYD DM-i plug-in hybrid, Qin Plus 18.32 kWh, Qin Plus DM-i overseas/Bahrain market, PHEV NEDC WLTC range, Chinese PHEV sedan export
+- **Suggested URL**: /vehicles/byd-qin-plus-dmi/
+- **Search Intent**: Understand BYD Qin Plus DM-i: PHEV Powertrain, Version Differences and What Importers Must Confirm: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: side profile sedan; 55 vs 120 version card; DM-i engine+motor+E-CVT layout; charging port; rear seat space
-- **ALT Suggestions**: "BYD Qin Plus DM-i plug-in hybrid sedan"; "55km versus 120km battery comparison"; "BYD DM-i series-hybrid powertrain layout"
+- **Image Suggestion**: side profile sedan; 55 vs 120 version card; DM-i engine+motor+E-CVT layout; charging port; rear seat space
+- **ALT Suggestion**: BYD Qin Plus DM-i plug-in hybrid sedan
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## Why a DM-i Has to Be Specified as a System
 The Qin Plus DM-i is a **plug-in hybrid (PHEV) compact sedan**, neither a pure EV nor a conventional petrol car. BYD's DM-i is a series-parallel system: a small, efficiency-tuned **1.5L naturally aspirated engine**, a drive **electric motor**, an LFP Blade Battery and an **E-CVT** work so the car runs on electricity where possible and uses the engine mainly for efficient generation and high-speed assist. Because of that, an order must fix **four things together — battery size, electric-only version, motor output and operating behaviour**; "a Qin Plus DM-i" without the 55/120 designation is ambiguous. This evergreen page covers the **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: CHINA)**. BYD also presents a **Qin Plus DM-i** on selected overseas market pages; those regional official specs govern those cars. **Model-identity rule:** a differently named BYD PHEV is treated as a *related* model, not the same model, unless BYD explicitly states the alias — shared platform, powertrain or appearance is not proof of SAME_MODEL.
 ## The Two Versions Side by Side

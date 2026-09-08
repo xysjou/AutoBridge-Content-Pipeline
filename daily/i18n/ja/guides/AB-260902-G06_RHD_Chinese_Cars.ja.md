@@ -1,15 +1,17 @@
 # 調達工場 右手ドライブ(RHD)中国車:ブランド在庫と検証
 
-## ツイート メタデータ
-- **SEOタイトル**:中国車が右手ドライブ(RHD)に来るか? 調達ガイド
-- **メタ 記述**: 工場を調達する方法 RHD 英国、オーストラリア、タイ、マレーシア、南アフリカ、そしてそれを超える中国車 - どのブランドが RHD をビルドする、VIN ごとに確認する方法、および LHD-to-RHD 変換が危険である理由。
-- **混雑URL**: /guides/right-hand-drive-chinese-cars/
-- H1 ホテル **: 右手ドライブ中国車を購入: なぜそれは工場 RHD ビルドする必要があります
-- **主なキーワード**: 中国の車は右ドライブRHDモデル輸出を運転します
-- **二次検索条件**:工場RHD 中国のEV、BYDの右ドライブ、MG RHDモデル、GWMの馬力RHD、RHD タイの中国車、LHDからRHD変換リスク
-- **内部リンクの提案**: /guides/chinese-ev-charging-standard-compatibility/; /guides/verify-china-car-export-supplier/; /vehicles/hongqi-e- hs9-2024/
-- **画像提案**:RHDコックピット(右上のステーリング)とLHD; 世界RHDマーケットマップ; 工場RHD生産ライン; 変換リスク警告
-- **ALT提案**:「工場右手ドライブ中国車コックピット」;「グローバル右手ドライブ市場マップ」;「LHDからRHD変換コンポーネント警告」
+## SEOメタデータ
+- **SEOタイトル**: どの中国車が右手ドライブ(RHD)で来ているか? 調達ガイド
+- **メタディスクリプション**: UK、オーストラリア、タイ、マレーシア、南アフリカ、そしてそれを超える工場RHD中国車を調達する方法。ブランドはRHD、VINごとに確認する方法、LHD〜RHD変換が危険である理由を挙げる。
+- **H1**: 右手ドライブ中国車を購入: なぜそれは工場RHDビルドである必要があります
+- **主要キーワード**: 中国の車は右ドライブRHDモデル輸出を運転します
+- **関連検索語**: 工場RHD中国EV、BYD右手ドライブ、MG RHDモデル、GWM馬力RHD、RHD タイ中国車 LHD〜RHD 変換リスク
+- **推奨URL**: /guides/right-hand-drive-chinese-cars/
+- **検索意図**: 右手ドライブ中国車を購入を理解する: なぜそれは工場RHDビルドでなければなりません:車/部品輸出業者が確認しなければならないもの、ドキュメント、注文にコミットする前に決定する必要があります。
+- **内部リンク候補**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **画像候補**: RHD コックピット (右側のステアリング) 対 LHD
+- **ALTテキスト**: 工場の右手ドライブ 中国車コックピット
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## リリース 製造の質問は、修理店の質問ではなく、
 
@@ -27,7 +29,7 @@
 | ジーリー ゼクサー | Geely EX5は開発から並列LHD RHDラインと設計されていると報告しました。 いくつかのGeely ZeekrモデルRHD | 英国、アイルランド、オーストラリア、ニュージーランド、マレーシア、香港 | 業界ソース — 確認 |
 | ホンクイ | RHDの新エネルギーは2026を通した押します; Hong Kong experience centre reported from July 2026 | オーストラリア、ニュージーランド、シンガポール、タイ、マレーシア、インドネシア | — 確認 |
 | Dongfeng のフォース | **公式に確認**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  RHD市場向けにV9ビルド | ダイバーシティ | **公式(東風)* ふりがな |
-| 長安Qiyuan(NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | ダイバーシティ | メディア — 確認 |
+| 長安 気元 (NEVO) | Q05 shown as  NEVO  Q05 at the March 2026 Bangkok motor show (Thai  RHD  prospect) | ダイバーシティ | メディア - 確認 の |
 
 中国の市場と輸出市場の違いは、モデル**(例えば、ユアンプラス→3にアット)。中国市場名ではなくプラットフォーム/VINで一致します。 ほぼ**グローバル車両販売の35%は、業界見積りごとにRHDマーケット**です。 コンテキスト図は、特定のモデルの需要予測ではありません。
 
@@ -63,18 +65,18 @@ LHD中国車をRHDに変換する法的性と輸出の可能性は、**この研
 **VINで検証するのはなぜですか?** 市販の素材は「RHD対応」といっても、割り当てられた在庫はLHDです。VINビルドシートは、信頼できる証拠です。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf
@@ -92,8 +94,8 @@ LHD中国車をRHDに変換する法的性と輸出の可能性は、**この研
 
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| RHD中国車市場ガイド | StarVia Auto(輸出サービス) | RHD市場 | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | MG/GWM RHDラインアップと市場(業界;検証) | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide
-| 中国の車はRHDバイヤーに適する | StarVia Auto(輸出サービス) | RHD市場 | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | BYD Atto 3/Dolphin/Seal RHD(業界;検証) | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive
+| RHD中国車市場ガイド | 出発点から出発点まで | RHD市場 | 以下は | 2026-09-02 | CROSS | CHECKED | MG/GWM RHD ラインアップ・マーケット(業界) の調査 | https://www.starviaauto.com/ja/blog/right-hand-drive-chinese-car-markets-guide
+| 中国の車は  RHD  バイヤーに適する | スタービアオート (輸出サービス) |  RHD  市場 | 以下は | 2026-09-02 |  CROSS  |  CHECKED  (クロス) |  BYD  に 3/Dolphin/Seal  RHD  (業界 まで) 検証) | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive
 | RHD対応Geely/Zeekrモデル | FOBEV(輸出サービス) | RHD市場 | 以下は、 https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED(クロス) | Geely EX5並列LHD RHD、Zeekr RHD(産業;確認) |
 | 東風フォースイングがタイに入る(公式) | 東風モーターグループ(公式) | ツイート | 以下は、 https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | 検証済み | March-2026 Thailand entry, RHDの祭日/ V9 (検証済み) |
 | チャンガン NEVO Q05 バンコクショーデビュー | オートホーム 车家号 (メディア) | ツイート | 以下は、 https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED(クロス) | NEVO Q05の特長 タイのRHDの見通し(メディア; 確認) |

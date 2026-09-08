@@ -1,14 +1,16 @@
 # 符合性证书 vs 类型批准: dossier 映射输出人 继续获取错误
-## 道德操守办公室 元数据
-- ** SIO标题**:车辆CoC vs 类型批准(WVTA,OTTS,电子商标) 买方指南
-- ** 金属说明**: 将中国国内的达标证书从目的地市场CoC,欧盟WVTA,EAEU OTTS/EAC以及电子标记/E标记系统解析开来——因此正确的档案材料到达注册台.
-- ** 建议的URL**: 指南/车辆-coc-型核准书/
-- ** H1 资源需求。 **: 车辆CoC和整车型批准: 将右文档匹配到右市场
-- ** 基本关键词**:车辆合格证书与类型批准wvta otts emark
-- ** 二级搜索术语**:中国CoC出口、欧盟整车型核准、EAEU OTTS EAC、电子标记对E-标记、欧洲经委会1958型核准、车辆登记档案
-- ** 内部链接建议**: /指南/钦那车辆-出口-许可证-海关-文件/;/指南/uae车辆-进口-登记-文件/;/车辆/saic-maxus-v90-specs/
-- ** 图像建议**:文档等级图(类型批准_CoC);市场_证书地图;中国CoC与目的地CoC比较
-- **ALT建议**: "批准符合性等级证书的类型"; "WVTA OTTS E-mark 市场图"
+## SEO元数据
+- **SEO标题**: 车辆CoC vs 类型批准(WVTA,OTTS,E-mark) 买方指南
+- **Meta描述**: 将中国国内的 目的地市场CoC 合格证书解开  and   EU WVTA 号, EAEU OTTS/EAC (单位:千美元)   and  电子标记/电子标记系统——因此,正确的档案材料到达登记台。
+- **H1**: 车辆CoC和整车型批准: 将右文档匹配到右市场
+- **核心关键词**: 车辆合格证书与类型批准wvta otts emark
+- **次级搜索词**: 中国可可出口, EU辆整车型批准, EAEU OTTS EAC (英语). 电子标记对电子标记, UNECE 1958 类型批准, 车辆登记档案
+- **建议URL**: /guides/vehicle-coc-type-approval-dossier/
+- **搜索意图**: 了解车辆CoC和整车型号批准: 将 " 正确文件 " 与 " 正确市场 " 匹配:车辆/部件出口商在承诺下达命令之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
+- **图片建议**: 文件等级图(类型批准) – CoC
+- **ALT文本**: 符合性等级证书的类别批准
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 核心困惑
 出口商一再将**一份单证视为另一份单证**:它们将中国国内的合格证/CoC视为海外市场准入,或承担部分E标记认证整车。 批准类型和符合性证书在不同级别上——如果弄错了,就是一个常见的理由,登记被拒绝。 这个指南描绘了系统。 ** 证据说明:** 中国方面的框架以多边投资协定材料为基础;下文对欧盟/欧经联/欧洲经委会文书的说明来自认证服务供应商(二级),在作出遵约决定之前,应先从欧经联/欧洲经委会/欧经联委员会中提取条例案文,此处不援引这些案文作为主要规约。
@@ -48,21 +50,21 @@
 ** ** 车辆管制局核准欧盟各地的车辆类型;一个事故管制局核证每个单位与核准的类型相符。
 ** e-mark和E-mark是否相同? ** 否-矩e与欧盟的整车/欧共体批准挂钩;通知E是缔约方之间欧洲经委会1958组件/系统批准。
 ** 零件上的E标记是否批准整车? ** 否;组件标记支持,但绝不取代整车型核准。
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+** 是否需要一名当地代表来批准欧经联盟的手续? 页:1 OTTS/EAC安排一般要求联盟内有一名授权代表——确认目前的TR CU 018文本.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf

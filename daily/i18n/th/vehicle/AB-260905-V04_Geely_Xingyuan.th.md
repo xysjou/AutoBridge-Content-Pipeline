@@ -1,15 +1,17 @@
 # จี ตี้ ชิง หยวน กาแล็กซี่ ชิง หยวน (2025/2026) — จีน-มาเก็ท บีวี สเปกตรัม  and  ส่งออกการตรวจสอบ
 
-## เชา ข้อมูลกํากับภาพ
-- จิงยั่น (Galaxy Xing Yuan) BEV: คู่มือนําเข้าแฟ้มแบบ Median- Magnet Specs & ส่งออก
-- ""คําอธิบาย" จีน-มาร์เก็ตจีลี่ สถาปัตยกรรม GEA อาร์ดับเบิลยูดี  58/85 kW motors,  310/410 km CLTC, 40.16 kWh บรรทัด  and  เช็คผู้ซื้อส่งออก
-- ** H1 ~: Geey Sing Yuan กัลกัตตาน ซิงจ็อง (2025/2026) — ภาษาจีน-Magnet BEV Specs and eptember Recordation
-- ~คําสําคัญในประกาศ ~: Geely 吉利 Xing Yan 吉利星愿 (Galaxy 星愿) สเปค ส่งออก
-- ~ การค้นหาโดยย่อ~: Geely Xinguan Express; Galica Xing Yaan seport; Geely Starvolph; ขนาดเล็กเพื่อฟักตัวด้วยไฟฟ้า; CLTC City EV
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/จีดี-เอ็กซ์ซิงจ็อง
-- ~ การค้นหาที่เชื่อมโยง~: 了解 Geely 吉利 ชิงหยวน 吉利星愿 (Galaxy 星愿) 中国版规格 、配置与出口适配性 (车型参数页) (พ.ศ.
-- ** เคล็ดลับการเชื่อมโยงภายใน **: Viohless/Geeply-xing Yuan///// guides/ parcess- un3556-imdg-compliance-history/ guides/export-compliance-sing-sing-end-user
-- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Geey Xing Yuan (Galaxy Xing Yan) BEV: ภาษาจีน- Magnet Spects & ส่งออกคู่มือ
+- **คำอธิบาย Meta**: จีน-มาร์เก็ต จีตี้ ชิงย็อง/สตาร์วิช เล็ก EV: GEA สถาปัตยกรรม พ.ศ. RWD (พ.ศ.  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh บรรทัด  and  เช็คผู้ซื้อส่งออก
+- **H1**: Geey Sing Yuan / กัลลาส ชิงหยวน (2025/2026) — จีน-มาร์เก็ต BEV Spects and Exccescial Recordation
+- **คีย์เวิร์ดหลัก**: Geey / 吉利 ชิงหยวน 吉利星愿 (Galaxy 星愿) สเปกตรัมส่งออก
+- **คำค้นหารอง**: Geely Xinguan Explish; กัลแกลซ ชิงย็อง; Geely Starvil; จีนขนาดเล็กฟักกลับ; CLTC เมือง EV
+- **URL ที่แนะนำ**: /vehicles/geely-xingyuan/
+- **เจตนาการค้นหา**: Understand Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market  BEV  Specs  and  การตรวจสอบสิทธิ์สําหรับส่งออก: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **คำแนะนำรูปภาพ**: ความเป็นจริง เอกสาร/ เลนส์ ภาพประกอบภาพ จี ตี้ ชิง หยวน / กาแล็กซี่ ชิง หยวน (2025/2026) — จีน-มาเก็ท บีวี สเปกตรัม  and  ส่งออกเป็น Verific ไม่มีการตรวจสอบหรือคนอ้างว่า
+- **ข้อความ ALT**: ใกล้เคียง ทัศนะ ตาม ธรรมชาติ ของ วัสดุ  and  the subject related to Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  เอ็กซ์โป ภูมิหลังที่เป็นกลาง ไม่มีใครหรือการตรวจสอบ ปฏิบัติ
+- **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## แก้ไขโครงการหลัก...
 The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งออกบางภายใต้ชื่อภาษาอังกฤษ) ~ เป็น แบตเตอรี่ A0 ประตู เครื่องยนต์ห้าประตู ประตู ประตูฟักกลับบน Geely's สถาปัตยกรรม EV กับ morr-re-v-vor-vor-vor ไดรฟ์ ~. หน้านี้หมายถึง "รายการตลาด"; ชื่อแบบต่างประเทศไม่ได้ถูกใช้ให้เหมือนกันโดยไม่มีคําแถลง
@@ -53,11 +55,10 @@ The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งอ
 ~ 410 km WLTP หรือเปล่า~ ไม่ — ซี.
 ~เรือเป็นไงบ้าง ~ เป็นแบตเตอรี่ลิเธียน-อีวีที่เสียหายภายใต้รุ่น IMDG ปัจจุบัน (UN3556); ยืนยันด้วยผู้ดําเนินการ
 
-
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸 电机 电机 电池 续航 (พ.ศ. |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸 电机 电机 电池 续航 (พ.ศ. ○
 | 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
 | 星愿 上市报道 | 腾讯新闻 | CN | T3 | ROOS_ CHCKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
 | เว็บไซต์อย่างเป็นทางการทั่วโลก | Geey Auto Group 吉利 (OEM) | CN | T1 | เปิดใช้งาน | https://global.geely.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
@@ -71,18 +72,18 @@ The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งอ
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
 ## บันทึกรูปภาพ
-- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
-- ~~~~~ไม่ถูกจับ~
-- ~ประกาศจับ~: ไม่ถูกจับ
-- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
-- ~ห้ามยืนยัน~
-- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
-- ~CKND_DATE ~ 2026-09-06
-- ~Ferc_topic_mATCH~: ตรงกับ Geely Xing Yan
-- MEDIAN_SCPE_NOTE: โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
-- หม่อมเจ้า หม่อมเจ้า
-- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
-- ~ALT (12 ภาษา) ~:
+-"ประกาศผล" ไม่มีความปลอดภัยในคลังเก็บ
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ~ฝนที่ตก~ ไม่ใช้ — ไม่มีส่วนแฟ้มสําหรับเลือกใช้สื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- **RIGHTS_HOLDER**: unconfirmed
+-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ไม่ มี ใคร ปลอด ภัย — การ มี หน้า ปก ของ เว็บเพจ โอ อี เอ็ม ไม่ ใช่ ใบ รับรอง การ ทํา ซ้ํา ใหม่ ทาง การ ค้า
+- **CHECKED_DATE**: 2026-09-06
+-"CRL/TOICC_MATCH*: แน่นอนจีเอะ ชิงย็อง
+-"ห้ามเข้า" ภาพต้องตรงกับครอบครัว/ TOP ต้นแบบที่แน่นอนเท่านั้น ต้องไม่ได้หมายถึงการตัดแต่งแบบ โมเดล ปีจริง การตรวจสอบภายใน หรือการทําธุรกรรมจริง
+- **IMAGE_RIGHTS_STATUS**: FAIL
+-"Bock_REASON: ไม่สามารถเข้ารหัสภาพได้: Wikited Commors/Flickr ไม่สามารถติดต่อได้จากสภาพแวดล้อมการวิจัย, ห้องสมุดหลักต้องการสิทธิ์ API/licence และภาพจากเว็บเพจของ OEM ก็ไม่ใช่การให้ใช้ร่วมกันแบบพาณิชย์ ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
@@ -95,6 +96,5 @@ The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งอ
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

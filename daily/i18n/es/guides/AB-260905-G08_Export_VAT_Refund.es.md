@@ -1,15 +1,17 @@
 # China Exportar el IVA Reembolso — Métodos, Orden de llenado y Consulta de tarifas
 
-## SEO Metadatos
-- ** Título de la SEO**: China Exportar IVA Reembolso para vehículos: Exención-Credit-Refund vs Exemption-Refund Process
-- **Meta Descripción**: Cómo los exportadores chinos reclaman el tratamiento del IVA exportador: los dos métodos (reembolso de crédito de exención para las empresas de producción, reembolso de exención para los comerciantes), pedido de presentación y por qué la tasa de reembolso es específica para el SGA.
-- ** H1 **: China Exportar el IVA Reembolso - Métodos, Orden de llenado y Consulta de tarifas
-- **Primary Keyword**: proceso de devolución de la vata de exportación de China
-- **Segundary Search Terms**: Exportar el reembolso del IVA; reembolso de crédito de exención; rebate de impuestos de exportación; tasa de reembolso; impuesto de China
-- ** URL agregada**: /guides/china-export-vat-refundprocess/
-- **Intent de búsqueda**: 生产企业与外贸企业如何办理出口货物增值税退 (免) 税, 申报流程, 计算逻辑与退税率查询
-- **Sugerencias internas**: /guides/china-export-costos-declaración-ventana-single-ventana/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
-- **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
+## Metadatos SEO
+- **Título SEO**: China Export VAT Reembolso para vehículos: Exención-Credit-Refund vs Exemption-Refund Process
+- **Meta descripción**: Cómo los exportadores chinos reclaman el tratamiento de exportación VAT: los dos métodos (reembolso de crédito de exención para las empresas de producción, reembolso de exención para los comerciantes), pedido de presentación y por qué la tasa de reembolso es HS -específica.
+- **H1**: China Export VAT Reembolso — Métodos, Orden de llenado y búsqueda de tarifas
+- **Palabra clave principal**: proceso de devolución de vatios de exportación de China
+- **Términos de búsqueda secundarios**: Exportación VAT reembolso; reembolso de crédito de exención; rebate de impuestos de exportación; tasa de reembolso; impuesto de China
+- **URL sugerida**: /guides/china-export-vat-refund-process/
+- **Intención de búsqueda**: Comprender China Export VAT Reembolso — Métodos, Revisión de Pedidos y Tarifas: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
+- **Sugerencia de imagen**: Un escenario realista, centrado en documentos/vehículos que ilustra la exportación de China VAT Reembolso — Métodos, Revisión de pedidos y tarifas, no inspección en estadio ni personas reclamadas.
+- **Texto ALT**: Vista natural de materiales y el tema relacionado con China Export VAT Reembolso — Métodos, Revisión de pedidos y tarifas, fondo neutro, ninguna gente o acción de inspección mostrada.
+- **Alcance del esquema**: Artículo (no Producto/Offer/Review)
 
 ## Dos métodos, que se ajustan al tipo de empresa
 Los arreglos de exportación de China utilizan dos métodos principales. Una empresa **productora/manufactura** aplica **exención–crédito–reembolso (免抵退)**: salida de exportación IVA está exenta, el IVA de entrada se acredita contra el IVA de salida nacional y el residual se reembolsa. Una empresa **extrado extranjero/comercial** que compra y revender para exportación generalmente aplica **exención–reembolso (免退)**: la venta de exportación está exenta y se reembolsa el IVA correspondiente. Utilizar el método incorrecto para el tipo de entidad es un error de archivo básico.
@@ -40,7 +42,6 @@ No se proporcionan tarifas, plazos como números fijos o cantidades específicas
 **¿Cuándo archivo?** Después de la declaración de exportación con documentos coincidentes, dentro del período prescrito actual.
 **¿Por qué debe FX y coincidencia aduanera?** El reembolso se basa en la consistencia de flujo de bienes/reembolsos.
 
-
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ No se proporcionan tarifas, plazos como números fijos o cantidades específicas
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
 ## Grabación de imagen
-- **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
-- **ORIGINAL_IMAGE_URL**: no capturado
-- **SOURCE_PAGE**: no capturado
-- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
-- RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
-- **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exacta China Exportar IVA Reembolso
-- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
-- IMAGE_RIGHTS_STATUS #
-- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
-- **ALT (12 idiomas)**:
+- **MODEL_TOPIC_MATCH**: exact China Export VAT Refund
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export
   - **DE**: export VAT refund, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ No se proporcionan tarifas, plazos como números fijos o cantidades específicas
   - **ID**: export VAT refund, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export VAT refund, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export VAT refund, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #VATRefund #ExportTax

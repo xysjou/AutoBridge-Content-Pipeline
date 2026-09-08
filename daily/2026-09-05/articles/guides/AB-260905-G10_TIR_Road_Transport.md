@@ -7,8 +7,10 @@
 - **Primary Keyword**: tir road transport china central asia
 - **Secondary Search Terms**: TIR carnet; China Central Asia trucking; vehicle approval certificate; customs seal; road transit
 - **Suggested URL**: /guides/tir-road-transport-china-central-asia/
-- **Search Intent**: 对中亚/欧洲卡航出口，如何适用TIR公约、办理TIR证与海关加封车辆批准证明、2026新规变化
+- **Search Intent**: Understand TIR International Road Transport for China Exporters — Carnet, Vehicle Approval, 2026 Rules: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating TIR International Road Transport for China Exporters — Carnet, Vehicle Approval, 2026 Rule, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to TIR International Road Transport for China Exporters — Carnet, Vehicle Approval,, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## What TIR changes for an overland exporter

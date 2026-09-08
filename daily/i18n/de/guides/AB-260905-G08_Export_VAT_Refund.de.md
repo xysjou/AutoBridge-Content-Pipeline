@@ -1,15 +1,17 @@
 # China Export Mehrwertsteuer-Rückerstattung — Methoden, Einreichung von Bestellung und Rate Lookup
 
-## SEO Metadaten
-- **SEO Titel**: China Export VAT Rückerstattung für Fahrzeuge: Freistellung-Kredit-Rückerstattung vs Freistellung-Rückerstattungsprozess
-- **Meta Description**: Wie chinesische Fahrzeugexporteure die Mehrwertsteuerbehandlung bei Ausfuhren beantragen: die beiden Methoden (Freistellung-Gutschrift-Rückerstattung für Produktionsunternehmen, Freistellung-Rückerstattung für Händler), die Auftragserteilung und warum der Erstattungssatz HS-spezifisch ist.
-- ** H1 **: China Export VAT Refund — Methoden, Einreichung von Bestellung und Rate Lookup
-- ** Primäres Keyword**: China Export VAT Erstattungsprozess
-- **Secondary Search Terms**: Ausfuhr-Mehrwertsteuererstattung; Befreiungs-Gutschrifterstattung; Ausfuhr-Steuerrabatt; Erstattungssatz; China-Steuer
+## SEO-Metadaten
+- **SEO-Titel**: Ausfuhren aus China VAT Rückerstattung für Fahrzeuge: Freistellung-Kredit-Rückerstattung vs Freistellung-Rückerstattungsprozess
+- **Meta-Beschreibung**: Wie chinesische Fahrzeugexporteure die Ausfuhr von VAT Behandlungen beantragen: die beiden Methoden (Freistellungs-Kredit-Rückerstattung für Produktionsunternehmen, Freistellungs-Rückerstattung für Händler), die Auftragserteilung und warum der Erstattungssatz HS spezifisch ist.
+- **H1**: China Export VAT Rückerstattung - Methoden, Einreichung von Bestellungen und Rate Lookup
+- **Haupt-Keyword**: Ausfuhrzollstelle für China
+- **Sekundäre Suchbegriffe**: Ausfuhrerstattung VAT; Erstattung von Befreiungskrediten; Ausfuhrabgabenrabatt; Erstattungssatz; Steuer auf China
 - **Vorgeschlagene URL**: /guides/china-export-vat-refund-process/
-- **Search Intent**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
-- **Interne Linkvorschläge**: /guides/china-export-zoll-erklärung-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
+- **Suchabsicht**: China Export VAT Rückerstattung verstehen - Methoden, Ablageauftrag und Rate Lookup: Was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
+- **Bildvorschlag**: Eine realistische, dokumenten- / fahrzeugorientierte Szene, die die Rückerstattung von China Export VAT illustriert - Methoden, Einreichungsauftrag und Rate Lookup, keine inszenierte Inspektion oder Personen, die behauptet wurden.
+- **ALT-Text**: Enge, natürliche Sicht auf Materialien und das Thema China Export VAT Rückerstattung - Methoden, Einreichung von Bestellung und Rate Lookup, neutraler Hintergrund, keine Personen oder Inspektionsmaßnahme gezeigt.
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Review)
 
 ## Zwei Methoden, abgestimmt auf den Unternehmenstyp
 Chinas Ausfuhr-Mehrwertsteuerregelungen verwenden zwei Hauptmethoden. Ein **Produktions-/Herstellungsunternehmen** wendet **Befreiung–Kredit–Rückerstattung (免抵退)** an: Die Ausfuhrleistungs-Mehrwertsteuer ist befreit, die Vorsteuer wird mit der inländischen Produktionsleistungs-Mehrwertsteuer gutgeschrieben und der Restbetrag wird erstattet. Ein **ausländisches/gewerbliches Unternehmen**, das für den Export kauft und weiterverkauft, gilt in der Regel **Ausnahme–Rückerstattung (免退)**: Der Exportverkauf ist steuerbefreit und die entsprechende Vorsteuer wird erstattet. Die Verwendung der falschen Methode für den Entity-Typ ist ein grundlegender Dateifehler.
@@ -40,7 +42,6 @@ Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge
 **Wann archiviere ich?** Nach der Ausfuhranmeldung mit übereinstimmenden Unterlagen innerhalb der geltenden vorgeschriebenen Frist.
 **Warum müssen FX und Zoll übereinstimmen? ** Die Erstattung beruht auf der Konsistenz von Warenfluss und Geldfluss.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: genaue Ausfuhr-MWST Chinas Erstattung
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact China Export VAT Refund
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export
   - **DE**: export VAT refund, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge
   - **ID**: export VAT refund, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export VAT refund, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export VAT refund, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #VATRefund #ExportTax

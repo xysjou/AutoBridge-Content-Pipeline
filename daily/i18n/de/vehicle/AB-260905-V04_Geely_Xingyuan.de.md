@@ -1,15 +1,17 @@
 # Geely Xingyuan Galaxy Xingyuan (2025/2026) — BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
 
-## SEO Metadaten
-- **SEO Titel**: Geely Xingyuan (Galaxy Xingyuan) BEV: Chinesisch-Markt Specs & Export Guide
-- **Meta Description**: Chinesischer Markt Geely Xingyuan Starwish Small EV: GEA-Architektur, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh-Linie  and  Exportkäuferkontrollen.
-- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) - BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
-- ** Primäres Keyword**: Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) Specs Export
-- **Secondary Search Terms**: Geely Xingyuan Export; Galaxy Xingyuan Specs; Geely Starwish; Chinesische kleine elektrische Heckklappe; CLTC Stadt EV
-- **Vorgeschlagene URL**: /Fahrzeuge/geely-xingyuan/
-- **Search Intent**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
-- **Interne Linkvorschläge**: /Fahrzeuge/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
+## SEO-Metadaten
+- **SEO-Titel**: Geely Xingyuan (Galaxy Xingyuan) BEV: Chinesisch-Markt Specs & Export Guide
+- **Meta-Beschreibung**: Chinesischer Markt Geely Xingyuan/Starwish small EV: GEA Architektur, RWD;  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh-Linie  and  Exportkäuferkontrollen.
+- **H1**: Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinesisch-Markt BEV Spezifikationen und Export-Verifizierung
+- **Haupt-Keyword**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) Specs Export
+- **Sekundäre Suchbegriffe**: Geely Xingyuan Export; Galaxy Xingyuan Specs; Geely Starwish; Chinesische Kleine Elektroheckklappe; CLTC Stadt EV
+- **Vorgeschlagene URL**: /vehicles/geely-xingyuan/
+- **Suchabsicht**: Verstehen Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinesisch-Markt BEV Specs and Export Verification: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Bildvorschlag**: Eine realistische, dokumenten- / fahrzeugorientierte Szene, die Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinesisch-Markt BEV Specs und Export Verific, keine inszenierte Inspektion oder Personen beansprucht.
+- **ALT-Text**: Nahe, natürliche Sicht auf Materialien und das Thema im Zusammenhang mit Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinesisch-Markt BEV Specs und Expo, neutraler Hintergrund, keine Personen oder Inspektionshandlung gezeigt.
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Überprüfung)
 
 ## Käuferkontext und Modellidentität
 Der **Geely Xingyuan (Galaxy Xingyuan, in einigen Exportmärkten unter einem eigenen englischen Namen vermarktet) ** ist eine A0 fünftürige batterieelektrische Heckklappe auf Geelys **GEA ** EV-Architektur mit ** Hinterradantrieb **. Diese Seite ist die **Chinesische Markt** Referenz; ein ausländischer Modellname wird ohne OEM-Erklärung nicht als identisch behandelt.
@@ -53,7 +55,6 @@ Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer 
 **Ist 410 km WLTP?** Nr. — CLTC.
 **Wie wird es Schiff?** Als intakte Lithium-Ionen-Batterie EV unter der aktuellen IMDG-Klasse (UN3556); bestätigen Sie mit dem Carrier.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@ Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer 
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exakt Geely Xingyuan
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact Geely Xingyuan
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
@@ -95,6 +96,5 @@ Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer 
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

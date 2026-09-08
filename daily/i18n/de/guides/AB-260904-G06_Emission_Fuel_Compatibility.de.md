@@ -1,15 +1,17 @@
 # China-VI Fahrzeuge Übersee: Emissionsnormen, 2026 Änderung  and  Kraftstoffkompatibilität Käufer müssen überprüfen
 
-## SEO Metadaten
-- **SEO Titel **: China VI Emissionen & Überseekraftstoff Kompatibilität Guide — GB18352.6 GB17691
-- **Meta Beschreibung **: Trennen Sie leichte GB18352.6-2016 (XG1-2026 Änderung) von schweren GB17691-2018, China-VI Diesel Schwefel Grenzwerte und DPF SCR Risiko, und warum China VI nie automatisch Euro oder EPA Genehmigung gleich.
-- **Vorgeschlagene URL**: /guides/emission fuel-compatibility-china-vehicles
-- ** H1 **: Ein China-VI-Fahrzeug ins Ausland nehmen: Welcher Emissionsstandard gilt und wird der lokale Kraftstoff ihm zustehen?
-- **Hauptschlüsselwort**: China 6 Emissionsstandard Überseekraftstoff Kompatibilität GB18352.6 GB17691
-- **Secondary Search Terms**: GB18352.6-2016 XG1-2026, GB17691-2018 Heavy Duty China 6, GB19147 Diesel Schwefel 10ppm, DPF SCR hochschwefelhaltiger Kraftstoff, China VI vs Euro Äquivalenz
-- **Interne Linkvorschläge**: /guides/vehicle-export-pdi-pre-shipment-handover/; /vehicles/jmc-shunda/; /vehicles/dongfeng-tianlong-kl/
-- **Bildvorschläge**: leichtes gegenüber schwerem Standardsplit; DPF/SCR-Nachbehandlungsdiagramm; Schwefelgehaltsmessgerät; Bestimmungs-Verifikationsschleife
-- ** Alt-Vorschläge: "Leichtlast GB18352.6 und Schwerlast GB17691 getrennt mit Kraftstoffverträglichkeitsprüfungen"
+## SEO-Metadaten
+- **SEO-Titel**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
+- **Meta-Beschreibung**: Trennen Sie den leichten GB18352.6-2016 (XG1-2026 Änderung) von den schweren GB17691-2018, China-VI Diesel-Schwefelgrenzen und DPF/SCR Risiko, und warum China VI nie automatisch Euro oder EPA Zulassung gleicht.
+- **H1**: Ein China-VI Fahrzeug im Ausland: Welcher Emissionsstandard gilt und wird der lokale Kraftstoff ihn anziehen?
+- **Haupt-Keyword**: China 6 Emissionsnorm für Überseekraftstoff Kompatibilität GB18352.6 GB17691
+- **Sekundäre Suchbegriffe**: GB18352.6-2016 XG1-2026, GB17691-2018 schweres China 6, GB19147 Dieselschwefel 10ppm, DPF SCR hochschwefeliger Kraftstoff, China VI vs Euro Äquivalenz
+- **Vorgeschlagene URL**: /guides/emission-fuel-compatibility-china-vehicles
+- **Suchabsicht**: Verstehen Sie, wie Sie ein China-VI nehmen Fahrzeug im Ausland: Welcher Emissionsstandard gilt, und wird der lokale Kraftstoff ihn anziehen?: was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Bildvorschlag**: Leichtes vs. schweres Standard-Split
+- **ALT-Text**: Leichtlast GB18352.6 und schwere Last GB17691 getrennt mit Prüfungen der Kraftstoffverträglichkeit
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum "China VI" nicht eine Zahl ist
 Käufer lesen oft "China VI 国六" als einen einzigen Standard. Es ist nicht: ** leichte und schwere Nutzfahrzeuge unterliegen unterschiedlichen chinesischen Normen **, und eine Emissionsnorm unterscheidet sich auch von ** Kraftstoffverträglichkeit ** und von ** Bestimmungsortgenehmigung **. Dieser Leitfaden trennt alle drei und gibt genau an, wo Chinas offizielle Standards enden und die Bestimmungsüberprüfung beginnt.

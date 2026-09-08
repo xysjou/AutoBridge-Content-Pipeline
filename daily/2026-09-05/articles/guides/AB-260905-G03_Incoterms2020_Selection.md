@@ -7,8 +7,10 @@
 - **Primary Keyword**: incoterms 2020 selection guide
 - **Secondary Search Terms**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risk; multimodal term; risk transfer
 - **Suggested URL**: /guides/incoterms-2020-selection-guide/
-- **Search Intent**: 汽车出口合同如何按运输方式选择Incoterms 2020术语、明确风险转移点与费用/保险责任
+- **Search Intent**: Understand Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Start from transport mode, not habit

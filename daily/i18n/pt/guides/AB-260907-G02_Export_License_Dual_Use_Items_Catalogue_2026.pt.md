@@ -1,16 +1,16 @@
 # China's 2026 Dual-Use Items Catalogue: Quando uma exportação de veículo precisa de uma licença antes da declaração
-## SEO Meta- dados
-- ** Título SEO**: China Licença de exportação de dupla utilização e catálogo 2026 para exportadores de veículos.
-- ** Descrição do Meta**: Como funciona o catálogo de licenças de importação/exportação de 2026 produtos e tecnologias de dupla utilização da China, quando o anúncio 2025 n.o 91 entrou em vigor, e como um exportador confirma se uma parte ou tecnologia está listada.
-- ** H1 **: China's 2026 Dual-Use Items Catalogue: Quando uma exportação de veículo precisa de uma licença antes da declaração
-- **Primary Keyword**: China dual use items exportar catálogo de licença 2026
-- ** Termos de pesquisa secundários**: licença de exportação de itens de uso duplo China; MOFCOM anúncio GACC 2025 No. 91; lei de controlo das exportações China; declaração de utilização final do utilizador final; declaração aduaneira de produtos controlados
-- ** URL sugerido**: /guides/export-licença-dual-use-items-catalogue- 2026/
-- **Intenção de pesquisa**: 两用物项和技术 2026 目录如何适用, 列入目录为何须先取证再报关, 出口经营者的最终用户 / 最终用途责任
-- **As sugestões de ligação interna**: /guias/ipra-customs-registration-export-protection/, /guias/transfront-ecommerce- b2b-export-9710-9810/, /guias/china-veículo-export-licence/
-- ** Sugestão de Imagem**: Um responsável pela conformidade com as exportações comparando uma lista de peças com um catálogo oficial de licenças num ecrã
-- **ALT Sugestão**: Pessoa que compara uma lista de peças impressas com um catálogo de licenças apresentado num monitor
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Licença de exportação de dupla utilização e catálogo 2026 para exportadores de veículos.
+- **Meta descrição**: Como funciona o catálogo de licenças de importação/exportação de 2026 produtos e tecnologias de dupla utilização da China, quando o anúncio 2025 n.o 91 entrou em vigor, e como um exportador confirma se uma parte ou tecnologia está listada.
+- **H1**: China's 2026 Dual-Use Items Catalogue: Quando uma exportação de veículo precisa de uma licença antes da declaração
+- **Palavra-chave principal**: China dual use itens catálogo de licença de exportação 2026
+- **Termos de busca secundários**: Licença de exportação de itens de uso duplo China; MOFCOM GACC anúncio 2025 No. 91; lei de controlo das exportações China; declaração de utilização final do utilizador final; declaração aduaneira de produtos controlados
+- **URL sugerida**: /guides/export-license-dual-use-items-catalogue-2026/
+- **Intenção de busca**: Compreenda o 2026 da China Catálogo de Itens de Dupla Utilização: Quando um veículo Exportar necessita de uma licença Antes da declaração: o que um veículo / parte exportador deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
+- **Sugestão de imagem**: Um responsável pela conformidade com as exportações comparando uma lista de peças com um catálogo oficial de licenças num ecrã
+- **Texto ALT**: Pessoa que compara uma lista de peças impressas com um catálogo de licenças apresentado num monitor
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 A maioria dos veículos de passageiros acabados são mercadorias comerciais comuns, mas o negócio de veículos também move itens que se sentam em uma pista legal diferente: itens de dupla utilização e tecnologias que podem servir tanto civis e militares ou de uso sensível à proliferação. Alguns componentes electrónicos, de navegação ou de detecção a bordo, materiais especializados, tecnologia de produção e alguns equipamentos adjacentes a veículos podem ser incluídos num catálogo controlado. Para essas mercadorias A China não permite a declaração e esclarecimentos posteriores: o operador deve possuir a licença correta antes da declaração aduaneira. Este guia explica a hierarquia jurídica, a forma como o catálogo actual é publicado e entrado em vigor e a responsabilidade permanente do exportador pelo utilizador final e pela utilização final — deixando a classificação rubrica a rubrica ao catálogo oficial e às autoridades competentes.
 

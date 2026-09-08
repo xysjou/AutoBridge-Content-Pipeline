@@ -1,15 +1,29 @@
 # Quel certificat d'origine un véhicule doit-il exporter? Douanes vs CCPI, préférentiels vs non préférentiels
+## Métadonnées SEO
+- **Titre SEO**: Certificat d'origine de la Chine pour les exportations de véhicules — CO Types et émetteurs
+- **Description meta**: Les trois types de certificats d'origine chinois, pour lesquels il faut demander, qu'il s'agisse d'utiliser les douanes ou CCPIT, lorsqu'un FTA préférentiel CO s'applique, et ce que l'exportateur ne doit pas promettre au sujet des droits de destination.
+- **H1**: Choisir le bon certificat d'origine pour une exportation de véhicules chinois
+- **Mot-clé principal**: certificat d'exportation de Chine d'origine douanier ccpit
+- **Termes de recherche secondaires**: non préférentiel CO, GSP certificat d'origine, FTA préférentiel CO, GACC commande 270, CCPIT origine du certificat, les documents d'exportation des véhicules
+- **URL suggérée**: /guides/china-export-certificate-of-origin
+- **Intention de recherche**: Comprendre le choix du bon certificat d'origine pour une exportation de véhicules en Chine: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Suggestion d'image**: comparaison de trois CO types
+- **Texte ALT**: Certificat d'origine de la Chine trois types Douanes CCPIT
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: Certificat d'origine de la Chine pour les exportations de véhicules — Types de CO et émetteurs
-- **Description détaillée**: Les trois types de certificats d'origine chinois, pour lesquels il faut demander, qu'il s'agisse d'utiliser les douanes ou le CCPIT, lorsqu'un CO préférentiel de l'ALE s'applique, et ce que l'exportateur ne doit pas promettre au sujet des droits de destination.
-- **URL suggérée**: /guides/china-export-certificat d'origine
-- ** H1 **: Choix du bon certificat d'origine pour une exportation de véhicules chinois
-- ** Mot-clé principal**: certificat d'exportation de Chine
-- ** Termes de recherche secondaire**: non préférentiel CO, certificat d'origine SPG, CO préférentiel ALE, ordonnance du GACC 270, certificat d'origine CCPI, documents d'exportation de véhicules
-- **Suggestions de lien interne**: /guides/véhicule-export-hs-code-classification/; /guides/exportation-véhicule-document-package/; /guides/chine-export-inspection-déclaration statutaire/
-- **Suggestions d'image**: comparaison de trois types de CO; Diagramme des émetteurs des douanes et des CCPIT; flux de préférences en matière d'ALE
-- ** Suggestions d'ALT**: "Certificat d'origine chinois de trois types de CCPIT douanier"
+Métadonnées SEO
+- **Titre SEO**: Certificat d'origine de la Chine pour les exportations de véhicules — Types de CO et émetteurs
+- **Description meta**: Les trois types de certificats d'origine chinois, pour lesquels il faut demander, qu'il s'agisse d'utiliser les douanes ou le CCPIT, lorsqu'un CO préférentiel de l'ALE s'applique, et ce que l'exportateur ne doit pas promettre au sujet des droits de destination.
+- **H1**: Choisir le bon certificat d'origine pour une exportation de véhicules chinois
+- **Mot-clé principal**: certificat d'exportation de Chine d'origine douanier ccpit
+- **Termes de recherche secondaires**: non préférentiel CO, certificat d'origine SPG, CO préférentiel ALE, ordonnance du GACC 270, certificat d'origine CCPI, documents d'exportation de véhicules
+- **URL suggérée**: /guides/china-export-certificate-of-origin
+- **Intention de recherche**: Comprendre le choix du bon certificat d'origine pour une exportation de véhicule chinois: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Suggestion d'image**: trois types de CO comparés; Diagramme des émetteurs des douanes et des CCPIT; flux de préférences en matière d'ALE
+- **Texte ALT**: Certificat d'origine de la Chine CCPIT douanier
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## La décision cachée dans un document courant
 Les importateurs demandent systématiquement « le CO » comme s'il s'agissait d'un seul papier. Ce n'est pas le cas. La Chine délivre **trois familles** de certificat d'origine, et choisir la mauvaise signifie que l'acheteur ne peut pas établir de préférence ou reçoit un document dont son autorité ne s'attend pas. La règle actuelle est **L'arrêté no 270 du GACC, *Mesures administratives relatives aux certificats d'origine des marchandises d'exportation*, publié en 2024-07-30 et en vigueur à partir de 2024-09-01 **. Cette page couvre le côté émetteur de la Chine**; si une destination spécifique accorde une préférence, c'est la décision de ce pays.

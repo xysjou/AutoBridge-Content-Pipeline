@@ -1,14 +1,17 @@
 # Nhập xe tải thương mại Trung Quốc vào Ả Rập Saudi: một hướng dẫn sử dụng hệ thống mật mã của HS-S đầu tiên, SASO và ZATCA Roting
-## SAO Siêu dữ liệu
-- **SEEO Titry**: Nhập xe tải Trung Quốc tới Ả Rập Saudi: HS-BER & ZATCA Guide
-- **Meta Mô tả**: Lên một chiếc xe tải thương mại Trung Quốc vào Ả Rập Saudi theo thứ tự chính xác — mã HS (87.01/87.04/87.05/8716), quy định kỹ thuật của SaBER áp dụng cho mã đó, loại chứng nhận mà nó yêu cầu, sau đó là hải quan Fasah; cộng với sự phân biệt xe tải nhẹ của ZATCA chống lại sự phân biệt xe tải.
-- ** URL đã gợi ý**: /guides/import-chinese-saudid-so/
-- ** H1 Bộ xử lý thương mại Trung Quốc và Ả Rập: bắt đầu từ bộ mã HS, không phải từ một tiến trình chung
-- **Cumpary Keyword**: nhập vào xe tải thương mại Trung Quốc Saudi Arabia code SaBER ZATCA
-- **Secondary Search Words**: Điều luật kỹ thuật của SS, Chứng nhận SASO loại 8701 8704 8705, Xe thương mại của Saudi ZATCA, Phong tục Fasah Saudi, Xác nhận xe tải GCC LHD, Xe hơi của SABER PCoC SCoC
-- **I nội bộ Link gợi ý**: /vehcman/shacman- x3000-dump-truck/; /vehccles/sinotruk- howo- t7h-tractor/; /guides/commerical-crial-coverment-china
-- **Image gợi ý**: biểu đồ định tuyến mã-để-tiểu đồ định tuyến; cây quyết định kiểu chứng nhận SABER; đặt tài liệu phù hợp với nhau; ZATCA ánh sáng-vehcle-vs-dic
-- **LT gợi ý**: "HS mã cho điều luật kỹ thuật của SABER để xác nhận truy cập; " Quyết định kiểu ký tự cho nhập xe tải Saudi"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Nhập xe tải Trung Quốc tới Ả Rập Saudi: HS - SABER & ZATCA Hướng dẫn
+- **Meta mô tả**: Lên đường một chiếc xe tải thương mại Trung Quốc tới Ả Rập Saudi theo đúng thứ tự — chính xác HS mã (87.01/87.04/87.05/8716), SABER quy tắc kỹ thuật áp dụng cho mã đó, Kiểu chứng nhận cần thiết, sau đó Fasah phong tục; cộng với ZATCA ánh sáng-vehic với sự phân biệt xe tải.
+- **H1**: Dọn dẹp một xe tải thương mại Trung Quốc vào Ả Rập Xê út: bắt đầu từ mã HS, không phải từ một tiến trình chung
+- **Từ khóa chính**: Name Ả Rập Xê út HS Mã SABER ZATCA
+- **Cụm tìm kiếm phụ**: SABER quy tắc kỹ thuật của HS, SASO chứng nhận loại xe 8701 8704 8705 Saudi ZATCA xe thương mại thuế má, Phong tục Fasah Saudi, GCC LHD xe tải xác nhận,   SABER  PCoC SCoC vehicle
+- **URL đề xuất**: /guides/import-chinese-truck-saudi-saso/
+- **Ý định tìm kiếm**: Hiểu rõ việc dọn dẹp một xe tải thương mại Trung Quốc vào Ả Rập Saudi: bắt đầu từ điều luật HS, không phải từ một tiến trình chung: một người xuất khẩu xe hơi/một phần phải kiểm tra tài liệu và quyết định trước khi thực hiện một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Gợi ý hình ảnh**: HS - sơ đồ định tuyến mã đến chứng nhận
+- **Văn bản ALT**: Mã nguồn của mã lệnh kỹ thuật SABER để định tuyến chứng nhận
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Tại sao "Một quá trình quốc gia" lại là sai lầm khi bắt đầu một chiếc xe tải
 Tài liệu về xe hơi và xe nhẹ được viết trên các xe tải chở khách và sau đó được sao chép trên các xe tải thương mại nặng. Đối với một máy kéo, xe tải chở hàng, phương tiện đặc biệt hoặc xe moóc có mục đích không an toàn: **Các quy định kỹ thuật thích hợp, loại chứng nhận cần thiết và thậm chí dòng thuế tất cả phụ thuộc vào chính xác mã hệ thống hệ thống của hệ thống hệ thống hệ thống hệ thống h**, và chúng không giống nhau trên các đầu đề. Do đó, hướng dẫn này được xây dựng **HS- first**, và nó đặc biệt là cho **Saudi Arabia**, không phải là một tuyên bố chung "Middle East". Một sự phân biệt được duy trì trong suốt: luật lệ được ghi nhận một cách chính thức, bền vững, như thế, trong khi những tuyên bố chưa được xác nhận là 2026 chỉ xuất hiện trong danh sách theo dõi.
 ## Bước 1 — Hãy ấn mã HS chính xác trước
@@ -65,18 +68,18 @@ Một chiếc xe tải thương mại phải trả bao nhiêu nhiệm vụ và V
 **Có phải Saudi đã ngừng chấp nhận CE/ECE cho xe tải nặng trong 2026 không? Người mua xác nhận xung đột về ngày tháng và thiếu nguồn chính của SASO; xác nhận chính thức cho HS trước khi dựa vào.
 ** Thất bại giải quyết vấn đề thông thường nhất là gì? VIN/Crificate/invoice sai; một danh sách chủ VIN trên tất cả các tài liệu ngăn chặn nó.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Saudi commercial-truck import (SABER/ZATCA), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Saudi commercial-truck import (SABER/ZATCA), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Saudi commercial-truck import (SABER/ZATCA), Leitfaden für Fahrzeugexport-Einkauf

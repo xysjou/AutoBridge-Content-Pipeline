@@ -1,13 +1,18 @@
 # XPeng MONA M03: A China-Market Compact Electric Sedan Reference Built Around the Battery-Range-Motor Matrix
-## SEO Metadata
-- ** عنوان الحلقة**: XPeng MONA M03 China-Market EV شيكات شراء وصادرات  Auto AutoBridge
-- ** وصف البيانات**: Chinese-market reference for the XPeng MONA M03 electric sedan: 51.8/62.2 kWh LFP batteries, مستويات نطاق لجنة التجارة الدولية  and  140/160 kW motors kept mapped by SKU, بالإضافة إلى خطوات التحقق من الصادرات.
-- **H1**: XPeng MONA M03: A China-Market Compact Electric Sedan Reference Built Around the Battery–Range–Motor Matrix
-- ** كلمة رئيسية رمزية**: XPeng MONA M03 مواصفات تصدير
-- ** شروط البحث الثانية**: 小鹏 من طراز MONA M03؛ - نطاق لجنة مكافحة الإرهاب البالغ M03 من دولارات الولايات المتحدة؛ MONA M03 62.2 kWh; XPeng M03 160 kW; تصدير الرواسب الكهربائية الصينية؛ Cd 0.194
-- ** URL المقترض**: /مركبات/أسطوانات - m03/
-- ** الحلقة الدراسية**: 面向海外买家介绍小鹏MONA M03中国市场身份、电池/CLTC续航/电机的SKU对应关系与版本边界
-- **Internal Link Suggestions**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+## بيانات SEO الوصفية
+- **عنوان SEO**: XPeng  MONA  M03 China-Market  EV  Specs  and  شيكات شراء التصدير
+- **وصف Meta**: Chinese-market reference for the XPeng  MONA  M03 electric sedan: 51.8/62.2 kWh  LFP  batteries, CLTC من مستويات النطاق  and  140/160 kW motors kept mapped by  SKU , بالإضافة إلى خطوات التحقق من الصادرات.
+- **H1**: XPeng MONA M03: A China-Market Compact Electric Sedan Reference Built Around the Battery-Range-Motor Matrix
+- **الكلمة المفتاحية الرئيسية**: XPeng MONA M03 عينات التصدير
+- **مصطلحات بحث ثانوية**: 小鹏 من طراز MONA M03؛ MONA  M03  CLTC  range; MONA  M03 62.2 kWh; XPeng M03 160 kW; تصدير الرواسب الكهربائية الصينية؛ Cd 0.194
+- **URL المقترح**: /vehicles/xpeng-mona-m03/
+- **نية البحث**: إكتشفْ XPeng MONA M03: A China-Market Compact Electric Sedan Reference Built Around the Battery-Range-Motor Matrix: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **اقتراح الصورة**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
+- **نص ALT**: رؤية ثلاث أرباع سيارة ركاب كهربائية من طراز XPeng MONA M03 من طراز إكس بيغ على خلفية استوديو محايدة
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
+
+** مقترحات داخلية بشأن الروابط**: /مركبات/مركبات/أعمدة 05//، /مركبات/دونغ فنغ - إيكسوان/، /مبادئ توجيهية/رفع مستوى الامتثال/3556-imdg
 - ** اقتراح مقدم**: سيارة ركاب طراز XPeng MONA M03 من طراز كهرباء سرعة السطو تظهر من أمام ثلاثة أرباع على خلفية محايدة
 - ** اقتراح**: نظرة ثلاثية أرباع لسيارات اكس بنغ مونا M03 من السائل الكهربائي على خلفية استوديو محايدة
 - ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسع/استعراض/إعادة النظر)
@@ -24,7 +29,7 @@
 
 | العنصر | القيم المرجعية للسوق الصينية | الثقة/الملاحظة |
 |---|---|---|
-| قدرة البطاريات | LFP packs of **51.8 kWh**  and  ** 62.2 kWh ** | SINGLE_SOURCE — type claims) varies by batch — confirm with XPeng, do not assert a fixed suppliers|
+| تتفاوت مجموعات  pack FP التي تبلغ ***51.8 كيلوواط** و ** 62.2 كيلوواط - | SINGLE - SOURCE -  type claims) بالدفعة - تؤكد مع XPeng، لا تؤكد وجود موردين ثابتين():
 | نطاق لجنة التجارة الدولية | ** 515 / 502 / 620 / 600 km ** كل منها مرتبط ببطارية محددة + مزيج من المحرك | SINGLE_SOURCE — never equat to WLTP/EPA|
 | Motor (front PMSM) | **140 kW (190 PS) / 225 N·m** and **160 kW (218 PS) / 250 N·m** | SINGLE_SOURCE |
 | Claimed 0–100 km/h | ** 7.8 s/ 7.4 s** لمستويات السيارات الخاصة بكل منها | SINGLE_SOURCE — SOURCE, official-claimed|

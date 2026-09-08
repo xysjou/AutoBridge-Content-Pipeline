@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan: CMP Pasar Cina Referensi Sedan Kompak, Baris Kini vs Versi Mach Lebih Lama
-## SEO Metadata
-- ** Judul SEO **: Dongfeng Aeolus Yixuan China- Pasar Specs  and  Export Buyer Checks | AutoBridge
-- ** Meta Description **: Referensi pasar Cina untuk sedan pos CMP Dongfeng Aeolus Yixuan: dimensi, baris berbanding 2025 1.5L saat ini dibandingkan Mach 1.5T yang lebih tua tetap terpisah, dan VIN-level cek untuk pembeli ekspor.
-- ♪ ♪ H1 Sebuah CMP Pasar Cina Referensi Sedan Kompak, Baris Kini vs Versi Mach Lebih Lama
-- ** Primary Keyword **: Spesifikasi ekspor Dongfeng Aeolus Yixuan
-- ** Akhir Pencarian Second **: 东风风神奕炫; dimensi Aeolus Yixuan; ekspor SEDAN Yixuan 1.5L; Mach 1.5T; ekspor CMP Cina
-- ** Sugesti URL **: / kendaraan / dongfeng-aeolus- yixuan /
-- ** Cari Intent **: 面向海外买家介绍风神奕炫中国市场身份 = 尺寸 = 当前 1.5L 与较早马赫版 1.5T 的版本边界 = =
-- ** Internal Link Sugestions **: / kendaraan / jeju-gagah /, / kendaraan / saic-maxus - g90/, / guide / verify- chine- ekspor-ekspor-supplier-history /
-- ** Sugesti Gambar **: Sebuah Auolus Dongfeng Yixuan sedan cepat menunjukkan dari depan tiga perempat pada latar belakang netral
-- ** ALT Sarankan **: Tampilan tiga perempat depan dari sebuah pemandangan Dongfeng Aeolus Yixuan sedan pada latar belakang studio netral
-- ** Skema Scope **: Pasal + Kendaraan (tidak ada Produk / Offer / Harga / Review / Rating)
+## Metadata SEO
+- **Judul SEO**: Dongfeng Aeolus Yixuan China- Pasar Specs  and  Export Buyer Checks | AutoBridge
+- **Deskripsi Meta**: Referensi pasar Cina untuk Dongfeng Aeolus Yixuan CMP sedan: dimensi, sekarang 2025 1.5L baris versus Mach 1.5T tua terus terpisah, dan VIN -level cek untuk pembeli ekspor.
+- **H1**: Dongfeng Aeolus Yixuan: Sebuah Cina - Pasar CMP Referensi Sedan Kompak, Baris Kini vs Versi Mach Lebih Lama
+- **Kata kunci utama**: Spesifikasi ekspor Dongfeng Aeolus Yixuan
+- **Istilah pencarian sekunder**: 东风风神奕炫; dimensi Aeolus Yixuan; Yipuan 1.5L WLTC; Mach 1.5T sedan; Cina CMP sedan ekspor
+- **URL yang disarankan**: /vehicles/dongfeng-aeolus-yixuan/
+- **Maksud pencarian**: Memahami Dongfeng Aeolus Yixuan: Sebuah Cina - Pasar CMP Referensi Sedan yang kompak, Baris Sekarang vs Versi Mach Lama: apa yang harus diverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu perintah.
+- **Saran tautan internal**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **Saran gambar**: Sebuah sedan cepat Dongfeng Aeolus Yixuan ditampilkan dari depan tiga perempat pada latar belakang netral
+- **Teks ALT**: Tigapuluh depan dari pandangan ke tiga sudut pandang dari sebuah sedan Aefeng Yixuan pada latar belakang studio netral
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 Dongfeng Aeolus Yixuan (风神奕炫) adalah kotak tiga kotak / sedan cepat yang dibangun di platform CMP  and  dijual di Cina di bawah Dongfeng Aeolus (Fengshen) merek kendaraan penumpang. Pembeli risiko dalam model ini adalah sementara daripada struktural: Jalur penjualan 2025 sekarang adalah alami - diaspirasi 1.5-litre mobil,  while the higher-output "Mach" (马赫) 1.5T belongs to an earlier 2022/2023 powertrain wave. Mengkueri keluaran Turbo yang lebih tua seolah-olah itu adalah sedan saat ini adalah versi yang paling umum kesalahan. Halaman ini adalah ** Referensi pasar Cinese- **, bukan lembar spesifikasi global; versi pasar ekspor perlu terpisah bukti OEM, dan keluaran sumber tunggal ditandai untuk konfirmasi.
 

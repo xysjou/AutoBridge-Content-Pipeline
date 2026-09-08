@@ -1,15 +1,17 @@
 # Xuất khẩu tính tương thích và Sanctions che giấu các máy xuất khẩu xe cộ Trung Quốc
 
-## SAO Siêu dữ liệu
-- **SEAO title**: Xuất bản Compliance & Sanctions Đang hiển thị hình ảnh cho các xuất khẩu xe cộ: Người dùng kết thúc, danh sách được dùng Dual- useed và giới hạn
-- **Meta Mô tả**: Một đường cơ sở cho xe xuất nhập khẩu của Trung Quốc: Điều khiển kết thúc người dùng/ cuối sử dụng, Kiểm tra hai lần, Danh sách hạn chế/đã xác định của Đảng,  the five-year record duty,  and  Tại sao không được phục vụ các bên bị hạn chế.
-- ** H1 **: Xuất khẩu các phép tính và Sanctions che giấu các máy xuất khẩu xe cộ Trung Quốc
-- ** Từ khoá mật khẩu hoa/ xuất khẩu tuân thủ biện pháp duyệt kết thúc người dùng
-- **Secondary Search termss**: kiểm soát xuất khẩu; phê chuẩn duyệt; tuyên bố hết-user; bị từ chối bên; hai lần dùng; bị hạn chế danh sách
-- ** URL đã gợi ý**: /guides/export-pliance-Sctions-Send-user/
-- **Tìm kiếm Intent**: 汽车出口如何做最终用户 最终用途尽调  dám 管控 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
-- **I nội bộ Link gợi ý*: /guides/export-cities-Send-Covers/,
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Xuất khẩu tính & Sanction Đang hiển thị hình ảnh cho các xuất khẩu xe cộ: Người dùng kết thúc, danh sách được dùng Dual- useed và giới hạn
+- **Meta mô tả**: Một đường cơ sở cho xe xuất nhập khẩu của Trung Quốc: Điều khiển kết thúc người dùng/ cuối sử dụng, Kiểm tra hai lần, Danh sách hạn chế/đã xác định của Đảng,  the five-year record duty,  and  Tại sao không được phục vụ các bên bị hạn chế.
+- **H1**: Xuất khẩu tính tương thích và Sanctions che giấu các máy xuất khẩu xe cộ Trung Quốc
+- **Từ khóa chính**: xuất khẩu sự chấp nhận việc duyệt kết thúc người dùng
+- **Cụm tìm kiếm phụ**: kiểm soát xuất khẩu; phê chuẩn duyệt; khai báo hết người dùng; bị từ chối bên; sử dụng kép; bị hạn chế danh sách
+- **URL đề xuất**: /guides/export-compliance-sanctions-screening-end-user/
+- **Ý định tìm kiếm**: Hiểu sự tương thích với Xuất khẩu và Sanctions Screening for China Eporters: những gì một xe hơi/parts xuất khẩu phải kiểm tra, tài liệu và quyết định trước khi cam kết với một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/export-payment-methods-t-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu tập trung, hình ảnh hóa chương trình Eliance và Sanctions Screening cho các công ty xuất khẩu xe cộ Trung Quốc, không có kiểm tra dàn cảnh hoặc người tuyên bố.
+- **Văn bản ALT**: Gần như có quan điểm tự nhiên về vật liệu và chủ đề liên quan đến Xuất khẩu Hiệp ước và Sanctions Screens Screens cho các nhà xuất khẩu xe cộ Trung Quốc, nền tảng trung lập, không có người hoặc hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Thỏa thuận là cổng giao dịch, không phải là giấy tờ ở cuối.
 Những người xuất khẩu xe cộ phải đối mặt với cả chế độ kiểm soát xuất khẩu của Trung Quốc và các khuôn khổ trừng phạt quốc tế. Nguyên tắc kiểm soát là **end-user và quản lý kết thúc trong toàn bộ giao dịch**: một người xuất khẩu phải biết ai sẽ nhận hàng hóa và họ sẽ được sử dụng cho cái gì, và phải màn hình chống lại các danh sách hạn chế/ bị hạn chế trước khi thực hiện. Việc này không thể được cung cấp nhiều hơn cho người chuyển hàng hoặc sửa sau khi chuyển hàng.
@@ -41,7 +43,6 @@ Hướng dẫn này không liệt kê các thực thể có thẩm quyền (họ
 Tôi phải theo dõi ai đây? Người mua, người ký hợp đồng và những người khác có liên quan, tại chỗ nhận hàng và một lần nữa trước khi chuyển hàng.
 Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; một bên bị từ chối không được phục vụ.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -61,18 +62,18 @@ Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; m�
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_MASP**: chính xác là xuất bản các bản tính và các bản sao của bản in cho người xuất xe cộ Trung Quốc
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export
   - **DE**: export compliance screening, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -85,6 +86,5 @@ Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; m�
   - **ID**: export compliance screening, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export compliance screening, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export compliance screening, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ExportControl #Sanctions

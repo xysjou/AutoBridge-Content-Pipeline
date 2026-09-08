@@ -1,16 +1,16 @@
 # China Seguro de crédito à exportação (SINOSURE curto prazo cobertura): O que os exportadores de veículos estão realmente comprando
-## SEO Meta- dados
-- **SEO Título**: Seguro de crédito à exportação de curto prazo para exportadores de veículos. AutoBridge
-- ** Descrição do Meta**: Como um exportador de veículos chinês usa o seguro de crédito à exportação de curto prazo SINOSURE para cobrir o risco comercial e político do comprador, que pode aplicar, e o que a política nunca garante.
-- ** H1 **: China Seguro de crédito à exportação (SINOSURE curto prazo cobertura): O que os exportadores de veículos estão realmente comprando
-- **Primary Keyword**: China exportação seguro de crédito sinosure
-- ** Termos de pesquisa secundários**: seguro de crédito à exportação de curto prazo; risco de comprador de SINOSURE; exportação de cobertura de risco político; pedido de seguro de crédito à exportação; seguro de conta aberta China
-- **Suggested URL**: /guides/china-export-credit-insurance-sinosure/
-- **Intenção de pesquisa**: 汽车出口商如何用中国出口信用保险 (中信保短期险) 覆盖买方商业 政治风险, 通过什么渠道投保
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
-- ** Sugestão de Imagem**: Um exportador que revise um ficheiro de limite de crédito do comprador junto de um estaleiro de veículos acabados
-- **ALT Sugestão**: Secretária com documento de seguro de crédito à exportação, com um limite de compra e uma linha de veículos de exportação em segundo plano
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadados SEO
+- **Título SEO**: SINOSURE Seguro de crédito à exportação de curto prazo para os exportadores de veículos.
+- **Meta descrição**: Como um exportador de veículos chinês usa SINOSURE seguros de crédito à exportação de curto prazo para cobrir o risco comercial e político do comprador, que pode aplicar, e o que a política nunca garante.
+- **H1**: China Seguro de crédito à exportação (SINOSURE cobertura de curto prazo): O que os exportadores de veículos estão realmente comprando
+- **Palavra-chave principal**: China exportação crédito seguro sinosure
+- **Termos de busca secundários**: Seguro de crédito à exportação de curto prazo; SINOSURE risco de compra; A exportação de cobertura de risco política; Pedido de seguro de crédito à exportação; seguro de conta aberta China
+- **URL sugerida**: /guides/china-export-credit-insurance-sinosure/
+- **Intenção de busca**: Compreenda China Seguro de Crédito à Exportação (SINOSURE): O que os exportadores de veículos estão realmente comprando: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+- **Sugestão de imagem**: Um exportador que revise um ficheiro de limite de crédito do comprador junto de um estaleiro de veículos acabados
+- **Texto ALT**: Mesa com um documento de seguro de crédito à exportação, o documento de compra-limite e uma linha de veículos de exportação no fundo
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Uma ordem de veículo só é tão segura como o crédito por trás dela. Quando um exportador chinês concorda em enviar em conta aberta, contra uma carta de crédito de utilização ou com pagamento após a chegada, o intervalo entre a entrega de um ativo de alto valor e a recepção de fundos compensados é transportado pelo exportador, a menos que algo transfira esse risco. A política da China de seguradora de crédito à exportação, a China Export & Credit Insurance Corporation (SINOSURE), é a instituição nacional construída para transportar parte dessa lacuna. Esta página explica o que o seu produto de curto prazo cobre, onde os limites se encontram, e como um exportador de veículos se aplica — sem citar taxas ou percentagens de indemnização, que são determinadas caso a caso e mudam ao longo do tempo.
 

@@ -1,14 +1,17 @@
 # BYD Yuan Plus (Atto 3) — Batterie, Range Cycle, Aufladen und Export Käuferanweisungen
-## SEO Metadaten
-- **SEO Titel **: BYD Yuan Plus Atto 3: Batterie, Reichweite & Export Käuferführer
-- **Meta Description**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, Warum China CLTC muss von der WLTP/NEFZ-Zahl eines Zielorts getrennt gehalten werden; GB/T vs. lokaler Ladeanschluss,  and  Was ist von VIN zu überprüfen.
-- **Vorgeschlagene URL**: /Fahrzeuge/byd-yuan-plus/
-- ** H1 **: BYD Yuan Plus (Exportname Atto 3): Batterie, Reichweitenzyklus, Aufladung und Software für Importeure
-- **Hauptschlüsselwort**: Yuan Plus Atto 3 Spezifikationen Export
-- **Secondary Search Terms**: BYD Atto 3 Batterie 60.48 kWh Yuan Plus CLTC vs. WLTP-Bereich, BYD Blade Battery LFP,  Atto 3 CCS2 charging, Yuan Plus DiLink im Ausland, Chinesischer EV-Kompakt-SUV-Export
-- **Interne Linkvorschläge**: /guides/chinese-ev-charging-standard-compatibility/; /guides/right-hand-drive-chinese-cars/; /guides/used-chinese-ev-inspection/
-- **Bildvorschläge**: vordere dreiviertel Studioansicht; 430/510 vs. WLTP-Variantenvergleich; Ladeanschluss nahauf; Rücksitz und Boot; rotierender DiLink-Bildschirm
-- **ALT-Vorschläge**: "BYD Yuan Plus Atto 3 Kompakt-Elektro-SUV"; "Yuan Plus CLTC versus Atto 3 WLTP Range Vergleich"; "Blade Battery Ladeanschluss GB/T Eingang"
+## SEO-Metadaten
+- **SEO-Titel**: BYD Yuan Plus / Atto 3: Batterie, Reichweite & Export Käuferführer
+- **Meta-Beschreibung**: Chinese-market  BYD  Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery,  why China  CLTC  must be kept separate from a destination's  WLTP/NEDC  figure, GB/T vs. lokaler Ladeeingang,  and  was durch VIN zu überprüfen ist.
+- **H1**: BYD Yuan Plus (Exportname Atto 3): Batterie, Reichweitenzyklus, Aufladung und Software für Importeure
+- **Haupt-Keyword**: BYD Yuan Plus Atto 3 Spezifikationen Export
+- **Sekundäre Suchbegriffe**: BYD Atto 3 Batterie 60.48 kWh, Yuan Plus CLTC vs WLTP Reichweite, BYD Blade Battery LFP, Atto 3 CCS2 Aufladung, Yuan Plus DiLink in Übersee, Chinesisch EV Compact SUV Export
+- **Vorgeschlagene URL**: /vehicles/byd-yuan-plus/
+- **Suchabsicht**: BYD Yuan Plus (Exportname Atto 3): Batterie, Reichweitenzyklus, Aufladung und Software für Importeure: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Bildvorschlag**: Front Dreiviertel Studioansicht
+- **ALT-Text**: BYD Yuan Plus / Atto 3 Compact Electric SUV
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
+
 ## Käuferkontext: Ein Auto, zwei Spezifikationssprachen
 Der BYD Yuan Plus (元 PLUS) ist ein kompaktes vollelektrisches SUV auf der BYD E-Plattform 3.0 mit einer LFP Blade Battery; außerhalb Chinas wird er als **BYD Atto 3 ** in Europa, Südostasien, Lateinamerika und Ozeanien verkauft, einschließlich RHD-Märkten wie Thailand und Australien. Die hier behandelte China-Linie ist die ** 2024 Glory Edition (荣耀版) **. Die wichtigste Sourcing-Gewohnheit ist es, zwei Spezifikationssprachen voneinander zu trennen: **Chinesische Build-Daten verwenden CLTC-Bereich und einen GB/T-Ladeeingang, während die eigenen Exportspezifikationsblätter von BYD WLTP/NEDC-Bereich und regionale Steckverbinder verwenden. Dies ist eine immergrüne Modellseite (kein Jahr in der URL): Die Plattform trägt über Modelljahre hinweg, und die versionspezifischen Zahlen unten werden nach Markt und Zyklus gekennzeichnet und nicht als eine "globale Spezifikation" dargestellt.
 ## Batterie und Varianten (die EV-Entscheidung beginnt hier)
@@ -49,30 +52,30 @@ Es wird kein fester Ausfuhrpreis veröffentlicht. Der chinesische Inlandsführer
 **Kann ein GB T-Auto auf CCS2 aufladen? ** Nur mit dem richtigen Einlass Adapter bestätigt für Legalität und Handschlag; Ziel Atto 3 Einheiten sind in der Regel nach dem lokalen Standard gebaut - bei der Bestellung angeben.
 **Ist der China-Preis ein FOB-Zitat?** Nein, es ist eine nationale Referenz. Fordern Sie eine nach Einzelangaben aufgeschlüsselte Ausfuhrnotierung an.
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus Atto 3, battery-electric vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus Atto 3, véhicule 100 % électrique SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus Atto 3, batterieelektrisches Fahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus Atto 3, vehículo 100 % eléctrico SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus Atto 3, veículo 100 % elétrico SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus Atto 3, 純電気自動車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus Atto 3, 순수 전기차 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus Atto 3, xe thuần điện SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus Atto 3, รถยนต์ไฟฟ้า 100% รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus Atto 3, kendaraan listrik murni SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus Atto 3, مركبة كهربائية بالبطارية سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus Atto 3, 纯电动车 SUV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus / Atto 3, vehículo 100 % eléctrico / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus / Atto 3, veículo 100 % elétrico / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus / Atto 3, 純電気自動車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus / Atto 3, 순수 전기차 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus / Atto 3, xe thuần điện / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus / Atto 3, รถยนต์ไฟฟ้า 100% / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus / Atto 3, kendaraan listrik murni / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |

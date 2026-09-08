@@ -1,16 +1,16 @@
 # Chery Fulwin A8 (Fengyun A8): China-Markt PHEV Ausfuhrnummer des Unternehmens
-## SEO Metadaten
-- **SEO Titel**: Chery Fulwin A8 PHEV Export Specs: Zwei Range Lines, Batterie und Modi
-- **Meta-Beschreibung**: Chinesische Marktreferenz für die Plug-in-Hybrid-Limousine Chery Fulwin/Fengyun A8: Die Linien 70 km und 145 km wurden getrennt, C-DM-Hybridsystem, Lade- und PHEV-spezifische Exportkontrollen durchgeführt.
-- ** H1 **: Chery Fulwin A8 (Fengyun A8): China-Markt PHEV Ausfuhrnummer des Unternehmens
-- **Hauptschlüsselwort**: Chery Fulwin A8 Fengyun A8 Exportspezifikationen
-- **Secondary Search Terms**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC electric range; Fulwin A8 145 km; Chery Plug-in-Hybridexport; Fulwin A8 Dimensionen
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Search Intent**: 面向海外 B 端买家介绍风云 A8 中国市场版本身份 插混系统 纯电续航 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Bildvorschlag**: Seitenansicht einer Chery Fulwin A8 Plug-in-Hybridlimousine mit Ladeanschluss sichtbar
-- **ALT Vorschlag**: Seitenprofil einer Chery Fulwin A8 PHEV Limousine mit sichtbarer Ladeklappe
-- **Schema Scope**: Article + Vehicle
+## SEO-Metadaten
+- **SEO-Titel**: Chery Fulwin A8 PHEV Export Specs: Zwei Range Lines, Batterie und Modi
+- **Meta-Beschreibung**: Chinesische Marktreferenz für die Plug-in-Hybrid-Limousine Chery Fulwin/Fengyun A8: Die Linien 70 km und 145 km wurden getrennt, C-DM Hybridsystem, Aufladung und PHEV -spezifische Exportkontrollen gehalten.
+- **H1**: Chery Fulwin A8 (Fengyun A8): China-Markt PHEV Ausfuhrnummer des Unternehmens
+- **Haupt-Keyword**: Chery Fulwin A8 Fengyun A8 Exportspezifikationen
+- **Sekundäre Suchbegriffe**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC elektrische Reichweite; Fulwin A8 145 km; Chery Plug-in-Hybridexport; Fulwin A8 Dimensionen
+- **Vorgeschlagene URL**: /vehicles/chery-fulwin-a8/
+- **Suchabsicht**: Chery Fulwin A8 (Fengyun A8): China-Markt PHEV Sedan Export Referenz: Was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Bildvorschlag**: Seitenansicht einer Chery Fulwin A8 Plug-in-Hybridlimousine mit sichtbarem Ladeanschluss
+- **ALT-Text**: Seitenprofil einer Chery Fulwin A8 PHEV Limousine mit sichtbarer Ladeklappe
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Der Fulwin A8 (chinesischer Fengyun A8) ist Cherys kompakte Plug-in-Hybrid-Limousine, die auf dem Kunpeng C-DM-Hybridsystem aufgebaut ist - ein fünfsitziges, frontgetriebenes PHEV, das einen Benzinmotor mit einem Elektromotor und einer Traktionsbatterie verbindet. PHEVs belohnen sorgfältiges Lesen, weil zwei "Range-Linien" mit verschiedenen Batterien  and  Outputs unter einem Modellnamen, Neben einem längeren A8L Körper. Dies ist eine ** chinesische Marktreferenz **, die diese Zeilen getrennt hält.
 

@@ -1,16 +1,16 @@
 # XPeng MONA M03: 중국 시장 컴팩트 전기 세단 참조 배터리 주변을 내장–범위–모터 매트릭스
-## ▼ 한국어 메타데이터
-- **SEO 제목**: XPeng MONA M03 중국 시장 EV 검찰 및 수출입 검사 | AutoBridge
-- **마타 기술 **: XPeng MONA M03 전기 세단을 위한 중국 시장 참고: 51.8/62.2 kWh LFP batteries, CLTC 범위 수준  and  140/160 kW motors kept mapped by SKU, 수출 검증 단계.
-- ** H1 **: XPeng의 모나 M03: 중국 시장 컴팩트 전기 세단 참조 배터리 주변을 내장–범위–모터 매트릭스
-- ** 출원 키워드 **: XPeng MONA M03 수출 사양
-- ** 보조 검색 조건 **: 小鹏 MONA M03; MONA M03 CLTC 범위; MONA M03 62.2 kWh; XPeng M03 160 kW; 중국 전기 세단 수출; Cd 0.194
-- **수입 URL**: /vehicles/xpeng-mona- m03/
-- ** 수색 **: 面向海外买家介绍小鹏 MONA M03 中国市场身份, 电池 /CLTC 续航 / 电机的 SKU 对应关系与版本边界
-- ** 내부 링크 제안**: /vehicles/deepal- s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping- un3556-imdg-compliance/
-- ** 이미지 제안**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
-- ** ALT 제안**: XPeng MONA M03 전기 세단의 앞 세단형 스튜디오 배경
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: XPeng  MONA  M03 China-Market  EV  Specs  and  수출입구 확인 | AutoBridge
+- **메타 설명**: XPeng MONA M03 전기 세단을 위한 중국 시장 참고: 51.8/62.2 kWh  LFP  batteries, CLTC 범위 수준  and  140/160 kW motors kept mapped by  SKU , 수출 검증 단계.
+- **H1**: XPeng MONA M03: 중국 시장 컴팩트 전기 세단 참조 배터리 주변을 내장–범위–모터 매트릭스
+- **주요 키워드**: XPeng  MONA  M03 export specs
+- **보조 검색어**: 小鹏 MONA M03; MONA M03 CLTC 범위; MONA M03 62.2 kWh; XPeng M03 160 kW; 중국 전기 세단 수출; Cd 0.194
+- **추천 URL**: /vehicles/xpeng-mona-m03/
+- **검색 의도**: XPeng MONA M03: 중국 시장 컴팩트 전기 세단 참조 배터리 주변을 내장–모터 Matrix: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **이미지 제안**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
+- **ALT 텍스트**: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launched in China in August 2024 on a front single-motor, 프론트 휠 드라이브 레이아웃은 예외적으로 낮은 드래그 계수입니다. 해외 EV 구매자를 위해 분야는 얼음 차에서 다릅니다: 주문은 ** 배터리 용량, 테스트 사이클 범위 및 모터를 하나의 일치 SKU**로 잠금해야하며 M03은 혼합하기 쉬운 여러 조합에서 판매되기 때문에. 이 페이지는 ** 중국 시장 참고 **; 모든 범위는 ** CLTC**이며 WLTP/NEDC 숫자와 비교할 수 없으며 배터리 공급자는 asserted가 아니며 수출 시장 충전 표준은 별도의 증거가 필요합니다.
 

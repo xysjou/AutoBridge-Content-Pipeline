@@ -1,14 +1,16 @@
 # FAW Jiefang J6P Tracteur lourd: Moteur, boîte de vitesses, essieu et GCW Lire comme une décision de tracteur-spécifique
-## OEuvre Métadonnées
-- ** Titre du référencement**: FAW Jiefang J6P Tracteur Caractéristiques: Moteur, GCW & Notes d'exportation
-- **Description détaillée**: Marché chinois Jiefang J6P tracteur lourd — Xichai CA6DM2 460 PS 2300 N·m Diesel China-VI, 4 × 2/6 × 4/8 × 4 mises en page, 10–16-speed boîtes de vitesses, ~ 40 t GCW classe, et les acheteurs de contrôles d'exportation ont besoin.
-- **URL suggérée**: /véhicules/faw-jiefang- j6p-tractor-specs/
-- ** H1 **: FAW Jiefang J6P (Marché chinois): Groupe motopropulseur, châssis et vérification des exportations
+## Métadonnées SEO
+- **Titre SEO**: FAW Jiefang J6P Tracteur Specs: Moteur, GCW & Notes d'exportation
+- **Description meta**: Marché chinois FAW Jiefang J6P tracteur lourd — Xichai CA6DM2 460 PS/2300 N.m. Chine- VI diesel, 4 × 2/6 × 4/8 × 4 mises en page, 10–16-speed boîtes de vitesses, ~ 40 t GCW classe,  and  les contrôles à l'exportation dont les acheteurs ont besoin.
+- **H1**: FAW Jiefang J6P (Marché chinois): Groupe motopropulseur, châssis et vérification des exportations
 - **Mot-clé principal**: spécifications du tracteur faw jiefang j6p
-- ** Termes de recherche secondaires**: Jiefang J6P 460, CA6DM2 moteur, J6P 6x4 tracteur GCW, Chine VI camion lourd exportation, J6P boîte de vitesses AMT, Xichai 11 litre diesel
-- **Suggestions de lien interne**: /véhicules/yutong-zk6122-coach-specs/; /véhicules/sanitaire-concrete-mixer-camion-specs/; /guides/chine-véhicule-exportation-licence-douane-documents/
-- **Suggestions d'image**: côté tracteur 6 × 4; moteur Xichai CA6DM2; boîte de vitesses 12-speed; essieu d'entraînement en tandem; intérieur de la cabine
-- ** Suggestions d'ALT**: "Tracteurs lourds FAW Jiefang J6P 6x4"; "J6P Xichai CA6DM2 diesel"
+- **Termes de recherche secondaires**: Jiefang J6P 460, CA6DM2 moteur, J6P 6x4 tracteur GCW, Chine VI camion lourd exportation, J6P AMT boîte de vitesses, Xichai 11 litre diesel
+- **URL suggérée**: /vehicles/faw-jiefang-j6p-tractor-specs/
+- **Intention de recherche**: Comprendre FAW Jiefang J6P (Marché chinois): Groupe motopropulseur lourd, châssis et vérification à l'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/yutong-zk6122-coach-specs/ ; /vehicles/sany-concrete-mixer-truck-specs/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Suggestion d'image**: 6 × 4 côté tracteur
+- **Texte ALT**: FAW Jiefang J6P 6x4 tracteur lourd
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte acheteur: Specifier un tracteur par Driveline et GCW, pas par insigne
 Pour un tracteur à transport lourd, les champs décisifs sont **déplacement et couple du moteur, boîte de vitesses, essieux d'entraînement, classe GCW, cabine et châssis** — non pas l'équipement de réglage. La J6P est la série de tracteurs lourds de longue durée de la FAW Jiefang, offerte en ** 4 × 2, 6 × 4 et 8 × 4 ** schémas d'entraînement. Cette page est une référence du marché chinois (MARCHÉ DE LA RÉFÉRENCE: CHINE)**; chaque tracteur est configuré en un code de modèle homologué, et les rapports d'émission/essieu d'exportation sont spécifiques à la commande.
@@ -53,30 +55,30 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 **Un tracteur Chine-VI peut-il fonctionner sur un diesel?** Il a besoin de diesel à très faible teneur en soufre plus DEF et de conditions de DPF appropriées; vérifier l'acceptation du carburant de destination et des émissions avant de commander.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 重型牵引车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

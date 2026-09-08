@@ -1,14 +1,16 @@
 # 车辆出口销售合同:实际控制付款、交付和纠纷的条款
-## 道德操守办公室 元数据
-- ** 标准电子标准标题**:车辆出口销售合同条款和风险指南
-- ** 金属说明**: 车辆出口销售合同必须包含哪些内容——中华人民共和国民法典第596条基本内容,《国际贸易术语解释通则》风险转让、产权保留、违约/索赔窗口、纠纷解决和加注,以及车辆条件披露。
-- ** 提议URL**: 指南/车辆-出口-销售-合同-说明/
-- ** H1 资源需求。 **:车辆出口销售合同的关键条款:付款、所有权、风险和纠纷
-- ** 关键词**:车辆出口销售合同关键条款风险标题
-- ** 二级搜索术语**:保留所有权出口合同、国际贸易术语解释通则风险转让车辆、出口合同违约处罚、国际商会仲裁车辆贸易、《注解》海外文件、车辆状况披露
-- ** 内部链接建议**: /指南/钦那车辆-出口-许可-海关-文件/;/指南/海外-售后-部分-保税-网络/;/指南/车辆-装运前-检查-psi/
-- ** 图像建议**:条款至风险图;风险/产权转移时间表;支付-vs-交付里程碑图
-- ** ALT建议**:“出口合同风险和所有权转让时间表”;“车辆销售合同关键条款”
+## SEO元数据
+- **SEO标题**: 车辆出口销售合同条款和风险指南
+- **Meta描述**: 车辆出口销售合同必须包含什么——PRC 民法 第596条基本内容、《国际贸易术语解释通则》风险转让、保留所有权、违约/索赔窗口、争议解决和加注,以及车辆条件披露。
+- **H1**: 车辆出口销售合同的关键条款:付款、所有权、风险和纠纷
+- **核心关键词**: 车辆出口销售合同关键条款风险标题
+- **次级搜索词**: 保留产权出口合同、《国际贸易术语解释通则》风险转让车辆、出口合同违约处罚、ICC 仲裁车辆交易、《海外标注》、车辆状况披露
+- **建议URL**: /guides/vehicle-export-sales-contract-clauses/
+- **搜索意图**: 理解车辆出口销售合同的关键条款:付款、所有权、风险和纠纷:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **图片建议**: 句式至风险映射
+- **ALT文本**: 出口合同风险和产权转让时间表
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 这是谁的
 首次的车辆出口商往往只就价格和数量签署一项交易,然后发现合同从未定好** 风险过时,在全额付款前持有所有权,或审理纠纷**。 本指南描绘了控制这些结果的条款。 《中华人民共和国民法典》 第596条通过**二级法律门户(《法律法》等)加以说明,该门户的上限为: 其余的则是法律实践综合. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
@@ -56,18 +58,18 @@
 ** 海外文件是否需要合法化? ** 通常需要加注(海牙)或领事合法化;合同中规定国家责任,并核实目的地的地位。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf

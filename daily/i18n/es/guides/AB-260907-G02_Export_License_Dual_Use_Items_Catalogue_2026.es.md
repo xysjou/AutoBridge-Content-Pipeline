@@ -1,16 +1,16 @@
 # China 2026 Catálogo de artículos de doble uso: Cuando una exportación de vehículos necesita una licencia antes de la Declaración
-## SEO Metadatos
-- **SEO Title**: China Licencia de exportación de doble uso & 2026 Catálogo para exportadores de vehículos ← AutoBridge
-- **Meta Descripción**: Cómo China tiene 2026 artículos de doble uso  and  tecnologías importadoras/exportadoras de licencias de catálogo de obras, cuando el anuncio No 91 de 2025 entró en vigor,  and  cómo un exportador confirma si una parte o tecnología está listada.
-- ** H1 **: China 2026 artículos de doble uso Catálogo: Cuando una exportación de vehículos necesita una licencia antes de la Declaración
-- **Primary Keyword**: China dual use items export license Catalog 2026
-- **Secondary Search Terms**: Licencia de exportación de artículos de doble uso China; MOFCOM GACC anuncio 2025 No 91; ley de control de exportaciones China; declaración de uso final de usuarios; declaración de aduanas de artículos controlados
-- ** URL agregada**: /guides/export-license-dual-use-items-catalogue- 2026/
-- **Búsqueda Intent**: 两用物项和技术 2026 目录如何适用, 列入目录为何须先取证再报关, 出口经营者的最终用户 / 最终用途责任
-- **Sugerencias de Enlace Interno**: /guides/ipr-costos-recordación-exportación-protección/, /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
+## Metadatos SEO
+- **Título SEO**: China Licencia de exportación de doble uso & 2026 Catálogo para exportadores de vehículos ← AutoBridge
+- **Meta descripción**: Cómo China es 2026 artículos de doble uso  and  tecnologías importadoras/exportadoras de licencias de catálogo de obras, cuando el anuncio No 91 de 2025 entró en vigor,  and  cómo un exportador confirma si una parte o tecnología está listada.
+- **H1**: China 2026 Catálogo de artículos de doble uso: Cuando una exportación de vehículos necesita una licencia antes de la Declaración
+- **Palabra clave principal**: China dual artículos de uso catálogo de licencias de exportación 2026
+- **Términos de búsqueda secundarios**: Licencia de exportación de artículos de doble uso China; MOFCOM GACC anuncio 2025 No 91; ley de control de exportaciones China; declaración de uso final de los usuarios; declaración de aduanas de artículos controlados
+- **URL sugerida**: /guides/export-license-dual-use-items-catalogue-2026/
+- **Intención de búsqueda**: Comprender el 2026 de China Catálogo de artículos de doble uso: Cuando una Exportación de Vehículos necesita una Licencia Antes Declaración: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
 - **Sugerencia de imagen**: Un oficial encargado de la exportación que compara una lista de partes con un catálogo oficial de licencias en una pantalla
-- **ALT Sugerencia**: Persona que compara una lista de partes impresas con un catálogo de licencias que aparece en un monitor
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Persona que compara una lista de partes impresas con un catálogo de licencias que aparece en un monitor
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 La mayoría de los vehículos de pasajeros terminados son mercancías comerciales ordinarias, pero el negocio de vehículos también mueve artículos que se sientan en una vía legal diferente: artículos de doble uso y tecnologías que pueden servir tanto a usos civiles como militares o sensibles a la proliferación. Ciertos componentes de electrónica, navegación o detección a bordo, materiales especializados, tecnología de producción y algunos equipos de transporte pueden caer dentro de un catálogo controlado. Para esos bienes China no permite la declaración primero y la aclaración más adelante: el operador debe tener la licencia correcta antes de la declaración de aduanas. Esta guía explica la jerarquía jurídica, cómo se publica y pone en vigor el catálogo actual, y la responsabilidad continua del exportador por el usuario final y el uso final, dejando la clasificación de los artículos por tema al catálogo oficial y a las autoridades competentes.
 

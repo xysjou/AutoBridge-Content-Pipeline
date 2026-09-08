@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: SAIC Maxus V90 Diesel Van Specs & Export Configuration Guide
 - **Meta Description**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT, RWD with optional dual rear wheels, two wheelbases, 9–15 seats by homologation.
-- **Suggested URL**: /vehicles/saic-maxus-v90-specs/
 - **H1**: SAIC Maxus Xintu V90 (Chinese-Market): Diesel Light Van Configuration and Export Checks
 - **Primary Keyword**: saic maxus v90 diesel van specs
 - **Secondary Search Terms**: Maxus V90 wheelbase, V90 ZF 8AT, Maxus light bus 9-15 seats, diesel wide-body van export, dual rear wheel van
+- **Suggested URL**: /vehicles/saic-maxus-v90-specs/
+- **Search Intent**: Understand SAIC Maxus Xintu V90 (Chinese-Market): Diesel Light Van Configuration and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
-- **Image Suggestions**: long-wheelbase high-roof side profile; dual-rear-wheel rear axle; passenger vs cargo body; ZF 8AT selector; cargo interior
-- **ALT Suggestions**: "SAIC Maxus V90 long wheelbase high roof van"; "V90 diesel engine and rear axle options"
+- **Image Suggestion**: long-wheelbase high-roof side profile; dual-rear-wheel rear axle; passenger vs cargo body; ZF 8AT selector; cargo interior
+- **ALT Suggestion**: SAIC Maxus V90 long wheelbase high roof van
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Order a Configuration Code, Not a Name
 The Xintu V90 is a **wide-body light commercial platform** sold as passenger minibus, panel/cargo van and bare chassis-cab, across multiple wheelbases, roof heights, seat counts and single/dual rear wheels. There is no single "V90 spec". The exporter's job is to fix the **exact homologated model code (公告型号)** and then match engine, gearbox, axle, body and seats to it — because destination certification is performed on that specific configuration. REFERENCE MARKET: **CHINA**.

@@ -7,8 +7,10 @@
 - **Primary Keyword**: china used car export license process
 - **Secondary Search Terms**: used car export China; used vehicle export licence; pilot zone; second-hand car export; MOFCOM licence
 - **Suggested URL**: /guides/china-used-car-export-license-process/
-- **Search Intent**: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关（含2026年新规）
+- **Search Intent**: Understand Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Used-car export is a licensed, pilot-based business

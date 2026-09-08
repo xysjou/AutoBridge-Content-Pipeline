@@ -1,15 +1,17 @@
 # CSD SKD Knockdown Ekspor dan Majelis Luar Negeri - Model, Klasifikasi dan Komplemen
 
-## SEO Metadata
-- ** SeO Judul **: CCAD SKD Knockdown Kit Ekspor dan Majelis Luar Negeri: Klasifikasi dan Komplemen
-- ** Meta Description **: Cara kerja ekspor kit kendaraan CKD SKD: klasifikasi yang dibangun di Sistem Harmonized, mengapa pengaturan tujuan perawatan perakitan lokal adalah negara - spesifik, dan apa seorang eksportir Cina harus memverifikasi sebelum pengiriman kit.
-- ** H1 **: CCCD SKD Knockdown Ekspor dan Assembly Luar Negeri - Model, Klasifikasi dan Komplemen
-- ** Primary Keyword **: cdd skd knockodown kit export assembly
-- ** Akhir Pencarian Second **: SKD ekspor; KNOWUD kit; perakitan luar negeri; GRI 2 (a) unrakned; tariff perakitan lokal
-- ** Sugested URL **: guide ckd-skd-knocked down -kit-export-perakitan
-- ** Cari Intent **: 区分 CBU CCD SKD 模式: 理解散件出口归类: 原产地与目的国组装的关键合规问题
-- *** Internal Link Sugestions **: guide mocoolled-scode-history guarding certicate-of -original- history guide exports-documents-history
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: CKD/SKD Knockdown Kit Ekspor dan Majelis Luar Negeri: Klasifikasi dan Komplemen
+- **Deskripsi Meta**: Cara kerja ekspor kit kendaraan CKD/SKD: klasifikasi yang dibangun di Harmonized System, mengapa tujuan tariff / local- perawatan perakitan adalah negara - spesifik, dan apa eksportir Cina harus memverifikasi sebelum pengiriman kit.
+- **H1**: CKD/SKD Knockdown Ekspor dan Majelis Luar Negeri - Model, Klasifikasi dan Komplemen
+- **Kata kunci utama**: cdd skd knockodown kit export assembly
+- **Istilah pencarian sekunder**: CKD SKD ekspor; peralatan knockdown; perakitan luar negeri; GRI 2 (a) unrakned; tariff perakitan lokal
+- **URL yang disarankan**: /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Maksud pencarian**: Memahami CKD/SKD Knockdown Ekspor dan Majelis Luar Negeri - Model, Clasifikasi dan Komplain: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan CKD/SKD Knockdown Export and Overseas Assembly - Model, Clasfication dan Compliance, tidak ada pemeriksaan pentas atau orang-orang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang terkait dengan CKD/SKD Knockdown Ekspor dan Assembly Luar Negeri - Model, Clasfication dan Compl, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditampilkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Apa arti dari CSD dan SKD dalam keputusan sumber daya
 Sebuah ** SKD (semi-knowed -down) * kapal kit sebagian dirakit modul; sebuah ** CKD (completely- knowed -down) ** kit mengirimkan satu set komponen untuk perakitan lokal. Keduanya mengganti ekspor kendaraan yang selesai dengan model parti dan perakitan, biasanya untuk memenuhi tujuan lokal-perakitan kebijakan. Banding komersial itu nyata, tapi hasil hukum tariff diputuskan oleh otoritas adat ** tujuan **, bukan oleh eksportir Cina yang memberi label konsinyasi "CSD".
@@ -37,7 +39,6 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD SKD, sebuah keunt
 ** Bisakah satu kit desain bekerja di setiap pasar? ** Tidak - klasifikasi dan kondisi perakitan negara - spesifik.
 ** Apa yang harus dilakukan BOM? ** Tugaskan sebuah baris HS, asal dan nilai ke setiap komponen sebelum klasifikasi.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -56,18 +57,18 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD SKD, sebuah keunt
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH **: tepat CSD SKD Knockdown Ekspor dan Majelis Luar Negeri
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact CKD/SKD Knockdown Export and Overseas Assembly
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -80,6 +81,5 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD SKD, sebuah keunt
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

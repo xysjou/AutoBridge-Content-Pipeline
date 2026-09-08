@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Marine Insurance for Imported Chinese Cars: ICC Clauses & Claims
 - **Meta Description**: Insure a Chinese vehicle in ocean transit correctly — the official Institute Cargo Clauses (A)/(B)/(C), why cars need All-Risks, the CIF/CIP Incoterms 2020 insurance obligations, insured-value convention and claims evidence.
-- **Suggested URL**: /guides/marine-cargo-insurance-car-import/
 - **H1**: Insuring Chinese Vehicles in Ocean Transit: Clause Tier, Sum Insured and How a Claim Is Actually Paid
 - **Primary Keyword**: marine cargo insurance imported Chinese vehicle ICC A B C
 - **Secondary Search Terms**: Institute Cargo Clauses A all risks, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C minimum, Hague-Visby SDR carrier cap, RoRo vehicle insurance, EV battery fire marine cover
+- **Suggested URL**: /guides/marine-cargo-insurance-car-import/
+- **Search Intent**: Understand Insuring Chinese Vehicles in Ocean Transit: Clause Tier, Sum Insured and How a Claim Is Actually Paid: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
-- **Image Suggestions**: ICC A/B/C coverage pyramid; risk-transfer/insurance-duty timeline by Incoterm; pre-shipment condition photo set; carrier-cap vs vehicle-value gap
-- **ALT Suggestions**: "Institute Cargo Clauses A B C coverage tiers"; "CIF versus CIP seller insurance obligation under Incoterms 2020"; "pre-shipment vehicle condition record for a claim"
+- **Image Suggestion**: ICC A/B/C coverage pyramid; risk-transfer/insurance-duty timeline by Incoterm; pre-shipment condition photo set; carrier-cap vs vehicle-value gap
+- **ALT Suggestion**: Institute Cargo Clauses A B C coverage tiers
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## The Misconception That Costs Importers Money
 Buyers assume that under FOB or CIF the **shipping line fully compensates** a scratched, crushed, stolen or water-damaged vehicle. It does not: carrier liability is capped by international convention far below a car's value, and the cargo clause you choose decides whether ordinary transit damage is covered at all. This page covers **marine cargo insurance for vehicles shipped from China** (global ocean routes) — clauses and claims, distinct from Incoterm pricing and from RoRo-vs-container choice.
 ## The Three Clause Tiers — Anchored to the Official Wording

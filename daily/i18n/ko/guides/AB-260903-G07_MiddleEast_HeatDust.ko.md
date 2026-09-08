@@ -1,14 +1,16 @@
 # 걸프 열 및 먼지에 대한 차량 지정: OEM 또는 업퍼터로 배출하는 포인트
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중동/GCC Heat & Dust Vehicle Adaptation 구매자 가이드
-- **마타 기술 **: 중국 사양 차량을 걸프 열 및 먼지로 보내기 전에 OEM 수리를 평가하는 것은 무엇입니까 - ICE 냉각 충전 AC 및 배선 후보자, EV 열 관리 옵션 및 별도의 GCC GSO 적합 트랙.
-- **Suggested URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
-- ** H1 **: 걸프 열 및 먼지에 대한 중국 사양 차량 적응: 평가 포인트 (ICE, EV, 규정 준수)
-- ** 일기 키워드 **: 중동 gcc 열 먼지 차량 적응 spec
-- **세컨드리뷰 사용**: GCC 고온 차량 사양, 사막 먼지 밀봉 자동차, EV 배터리 열 관리 뜨거운 기후, 중동 AC 냉각 업그레이드, GSO 차량 적합 열
-- ** 내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/; /guides/uae-vehicle-import-regration-documents/; /vehicles/li-auto- l6/
-- ** 이미지 제안 **: 열 짐 체계 도표 (ES vs EV); 먼지 저항하는 점; 방열기/AC 콘덴서; 건전지 열 관리 반복
-- **ALT 제안**: "ICE versus EV 열 적응 평가 포인트"; "황 먼지 진입 보호 포인트"
+## SEO 메타데이터
+- **SEO 제목**: 중동 GCC 열 & 먼지 차량 적응 구매자 가이드
+- **메타 설명**: OEM /upfitter를 평가하는 것은 걸프 열 및 먼지로 중국 사양 차량을 전송하기 전에 - ICE 냉각 / 충전 / AC 및 배선 후보자, EV 열 관리 옵션 및 별도 GCC/GSO 적합 트랙.
+- **H1**: 걸프 열 및 먼지에 대한 중국 사양 차량 적응: 평가 포인트 (ICE, EV, 준수)
+- **주요 키워드**: 중앙 동쪽 gcc 열 먼지 차량 적응 spec
+- **보조 검색어**: GCC 고열 차량 spec의 사막 먼지 바다표범 어업 차, EV 건전지 열 관리 뜨거운 기후, 중동 AC 냉각 향상, GSO 차량 적합 열
+- **추천 URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **검색 의도**: 걸프 열 및 먼지를위한 중국 사양 차량에 적응: 평가 포인트 (ICE, EV, 규정 준수): 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
+- **이미지 제안**: 열 부하 시스템 다이어그램 (ICE 대 EV)
+- **ALT 텍스트**: ICE versus EV 열 적응 평가 포인트
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## Evidence 경계
 두 개의 증거 층은 분리되어 있습니다. The **conformity track now rests on primary sources** — the GCC Standardization Organization (GSO) framework, SASO/SABER를 통해 사우디 아라비아에 의해 전국적으로 적용 and UAE에서 MoIAT (ECAS)를 통해 — and 소스에 인용. ** 엔지니어링 적응 항목** 아래 (냉각, 충전, AC, 씰링 및 EV 열 후보자) 여전히 단일 업핏 엔지니어링 또는 산업 소스에 각각 나머지는 SINGLE_ 남아 SOURCE 평가 포인트, Gulf 법적 요구 사항. 단 하나 획일한 "황 spec": 모델 및 운영 봉투에 대한 OEM 감독과 모든 항목을 확인하고 ** 종료 국가 자체에 대한 ** GSO 텍스트의 응용 프로그램 (사우디와 UAE 경로는 다른 아래에 별도로 표시됩니다).
@@ -52,37 +54,37 @@ electrified 차량에 대 한 배터리는 열 과민한 시스템입니다. 한
 ** 정확한 GSO 열 AC 표준을 찾을 수 있습니까? ** GSO 기술 규제 목록에서 시작하면 ** 종료 국가 ** 국가 경로 - 사우디 아라비아 SASO SABER, UAE의 MoIAT를 엽니 다. GSO 텍스트가 전국적으로 적용되기 때문에. 이 가이드는 특정한 열/AC 표준 수를 직접 확인할 수 없었습니다 일치합니다; 기술설계 후보자는 여기에서 아직도 OEM/upfitter 확인을 요구합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
- - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
- - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
- - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
- - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
- - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
- - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
- - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
- - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
- - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
- - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
- - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
- - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | GCC 높 임시 차량 적응 upfit | 공급자 | 뚱 베어 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | 기후 범위; ICE 후보 적응점 (원원) | https://m.11467.com/product/d15654879.htm
 | 모든 climate NEV (고 임시 액체 임시 직원 각자 가열) | 중국/Toutiao 공학 | - 연혁 | http://m.toutiao.com/group/6868212100762698247/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | 액체 대 공기 열 관리 토론 (원 소스) |
-| 배터리 온도 성능 (- 30 ~ 55 대상) | D1EV 토우티아노 | 담당자: Mr. wang | http://m.toutiao.com/group/6396788247036428802/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | −30 to 55 °C policy design target (one source) |
+| 배터리 온도 성능 (- 30 ~ 55 대상) | D1EV 토우티아노 | 담당자: 담당자: Mr. 광 | http://m.toutiao.com/group/6396788247036428802/ if | 2026-09-03 | SINGLE_SOURCE(싱글) | −30~55 °C 정책 디자인 대상(원) |
 | 2026 Jeddah auto-parts fair (heat/dust parts, BMS(주) | 뚱 베어 | 담당자: Mr. s. | https://m.sohu.com/a/1056965136_122956666/ 대한 자세한 정보 | 2026-09-03 | SINGLE_SOURCE(싱글) | 저항하는 성분; GCC 수락 주 (원본) |
 *Evidence 천장: 모든 적응 사실은 단일 소스에 휴식 (모든 SINGLE_SOURCE); no GSO primary standard or OEM engineering spec was captured. 품목은 OEM/upfitter를 위한 평가점으로, 보편적인 걸프 필요조건 아닙니다 짜맞춰집니다; 법적 임계 값 또는 필수 구성은 asserted. ****************************************************************************************************************************************************************************************************************************************************************
 

@@ -1,15 +1,17 @@
 # Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification
 
-## SEO Metadatos
-- **SEO Título**: Changan UNI-Z PHEV 2026: Chinese-Market Specs & Export Buyer Guide
-- **Meta Descripción**: Nueva gama de luz de la ballena azul Changan UNI-Z: dimensiones, línea 18.4 kWh LFP, rango eléctrico 130 km CLTC, DC/ V2L y controles de nivel VIN para importadores.
-- ** H1 **: Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification
-- **Primary Keyword**: Changan 长安 UNI-Z specs export
-- **Segundary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; SUV híbrido enchufable chino; V2L export; CLTC range
-- ** URL agregada**: /vehicles/changan-uni-z/
-- **Intent de búsqueda**: 了解 Changan 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
-- **Sugerencias de Enlace Interno**: /vehicles/changan-uni-z/, /guides/china-export-costos-declaración-ventana-single/, /guides/ccc-certification-export-exemption/
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
+## Metadatos SEO
+- **Título SEO**: Changan UNI-Z PHEV 2026: China-Market Specs & Export Buyer Guide
+- **Meta descripción**: Changan UNI-Z nuevo Blue Whale PHEV: dimensiones, 18.4 kWh línea LFP, 130 km CLTC gama eléctrica, DC/V2L y VIN - cheques de nivel para importadores.
+- **H1**: Changan UNI-Z (2026, Nueva Ballena Azul PHEV) — Chino-Marcos Especies y Verificación de Exportaciones
+- **Palabra clave principal**: Changan / 长安 UNI-Z espectros exportación
+- **Términos de búsqueda secundarios**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese plug-in híbrido SUV; V2L export; CLTC range
+- **URL sugerida**: /vehicles/changan-uni-z/
+- **Intención de búsqueda**: Comprender Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **Sugerencias de enlaces internos**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **Sugerencia de imagen**: Una escena realista, centrada en documentos/vehículos que ilustra a Changan UNI-Z (2026, Nueva Ball Azul PHEV) — Chino-Marcos Específicos y Verificación de Exportaciones, ninguna inspección escénica o las personas reclamadas.
+- **Texto ALT**: Vista natural de materiales y el tema relacionado con Changan UNI-Z (2026, Nueva Ball Azul PHEV) — Chino-Marcos Especies y Export Veri, fondo neutro, no se muestran personas ni medidas de inspección.
+- **Alcance del esquema**: Artículo + Vehículo (sin Producto/Offer/Revisión)
 
 ## Contexto del comprador e identidad modelo
 El **Changan UNI-Z (2026)** cubierto aquí es el mercado chino **nuevo Blue Whale (Xin Lan Jing) híbrido plug-in** SUV compacto. Es una línea distinta de cualquier UNI-Z de pura peluquería y de las placas de nombre de mercado de exportación que Changan puede utilizar en otros lugares; no se reclama equivalencia de nombre de ultramar sin una declaración de OEM. El mercado de referencia es **China**.
@@ -55,7 +57,6 @@ Las órdenes UNI-Z son fáciles de especificar porque la misma placa cubre difer
 **¿Es 130 km un rango WLTP?** No, es CLTC.
 **¿Dónde está el precio de exportación?** Solicitar una cita actual; esta página no publica ninguna.
 
-
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ Las órdenes UNI-Z son fáciles de especificar porque la misma placa cubre difer
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
 ## Grabación de imagen
-- **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
-- **ORIGINAL_IMAGE_URL**: no capturado
-- **SOURCE_PAGE**: no capturado
-- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
-- RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
-- **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exactamente Changan UNI-Z 2026
-- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
-- IMAGE_RIGHTS_STATUS #
-- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
-- **ALT (12 idiomas)**:
+- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ Las órdenes UNI-Z son fáciles de especificar porque la misma placa cubre difer
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

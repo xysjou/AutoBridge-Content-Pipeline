@@ -1,15 +1,17 @@
 # Dongfeng Menggapai Youting (2025/2026) - Cinses-Market MPV Specs, ICE PHEV Lines dan Ekspor Cek
 
-## SEO Metadata
-- ** Judul SEO **: Memalsukan Anda MPV: Cinese- Pasar ICE & PHIEV Lines, Specs dan Ekspor Panduan
-- ** Meta Description **: Cine- Pasar Dongfeng Menghibur Anda (游艇) MPV: Menjaga garis ICE dan PHIV terpisah; dimensi, 7-seat kabin, PHIV powertrain dan titik-titik ekspor.
--   H1 Dongfeng Forthing Youting (2025/2026) - Chinice-Market MPV Specs, ICE PHEV Lines dan Ekspor Cek
-- ** Primary Keyword **: Dongfeng Forthing 东风风行 Mengekspor spesifikasi 风行游艇
-- ** Akhir Pencarian Second **: Memalsukan ekspor Youting; 游艇 spesifikasi MPV; Cina 7-seat MPV; MPV; penumpang van import
-- ** Sugested URL **: kendaraan untuk sesuatu - youting
-- ** Cari Intent **: 了解 Dongfeng Forthing 东风风行 Youting 风行游艇 中国版规格 配置与出口适配性 车型参数页
-- ** Internal Link Sugestions **: wirasons forthing-youting guide ckd-skd-knocked -kit-exports-assembly guide export- documents-history
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Untuk Youting MPV: Cinses-Market ICE & PHEV Baris, Specs dan Ekspor Panduan
+- **Deskripsi Meta**: Chinese- pasar Dongfeng Menggalang Youting (游艇) MPV: menjaga titik verifikasi ICE dan PHEV baris terpisah; dimensi, 7-seat kabin, PHEV daya dan titik ekspor.
+- **H1**: Dongfeng Forthing Youting (2025/2026) - Cinses-Pasar MPV Specs, ICE/PHEV Lines dan Ekspor Cek
+- **Kata kunci utama**: Dongfeng Forthing / 东风风行 Mengekspor spesifikasi / 风行游艇
+- **Istilah pencarian sekunder**: Bagi ekspor Youting; 游艇 MPV spesifikasi; Cina 7-seat MPV; MPV PHEV; penumpang van impor
+- **URL yang disarankan**: /vehicles/forthing-youting/
+- **Maksud pencarian**: Memahami Dongfeng Forthing Youting (2025/2026) - Cinses - Pasar MPV Specs, ICE/PHEV Baris dan Cek Ekspor: exportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu urutan.
+- **Saran tautan internal**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Dongfeng Forthing Youting (2025/2026) - Cinese- Market MPV Specs, ICE/PHEV Lines dan Expor, tidak ada pemeriksaan pentas atau orang-orang yang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang terkait dengan Dongfeng Forthing Youting (2025/2026) - Cinese- Market MPV Specs, ICE/PHEV Garis, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Konteks pembeli: satu plat nama MPV, dua garis energi
 The ** Dongfeng Forthing Youting (游艇) ** adalah ukuran tengah Chinese- pasar MPV ditawarkan dalam ** ICE dan PHIV baris yang harus dikutip secara terpisah **. Mereka berbagi 2900 mm pangkalan roda dan 7-seat, menahan kabin pintu tapi berbeda dalam tinggi dan kuat kereta api. Referensi pasar adalah ** China **; tidak ada spesifikasi export- baris yang diklaim.
@@ -54,7 +56,6 @@ Untuk MPV yang mendesak bidang perintah-kritis adalah hitungan konfigurasi kursi
 ** Apakah 154, 900 RMB harga ekspor? ** Tidak - Cina referensi domestik saja.
 ** Bisakah itu dikonversi ke shuttle ambulans? ** Sebagai upfit; menilai secara terpisah dari MPV dasar.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ Untuk MPV yang mendesak bidang perintah-kritis adalah hitungan konfigurasi kursi
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: Dongfeng tepat Mengkibarkan
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ Untuk MPV yang mendesak bidang perintah-kritis adalah hitungan konfigurasi kursi
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

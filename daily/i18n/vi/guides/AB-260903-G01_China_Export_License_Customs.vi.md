@@ -1,14 +1,16 @@
 # Các tài liệu và tùy biến của Trung Quốc xuất khẩu đường dây:
-## SAO Siêu dữ liệu
-- **SEO title**: Tài liệu hướng dẫn cho máy in Trung Quốc Xuất dạng Giấy Phép và Phong tục (2026)
-- **Meta Mô tả**: Việc xuất khẩu xe bên cạnh Trung Quốc như thế nào — giấy phép sử dụng xe hơi hàng năm, xuất khẩu xe chở khách, luật sử dụng xe 180-day, và toàn bộ tài liệu xuất khẩu trước khi tuyên bố hải quan.
-- ** URL đã gợi ý**: /guides/china-vehic-export-liense-customs-docunts/
-- ** H1 **: xe cộ Trung Quốc xuất đường, điều kiện và Phong tục Chain
-- ** Từ khoá bí mật hoa **: tài liệu tuyên bố hải quan Trung Quốc
-- **Secondary Search termss**: Trung Quốc sử dụng giấy phép xuất khẩu xe hơi, giấy phép xuất khẩu BOV, Bộ xuất khẩu xe hơi, xuất khẩu tài liệu, 180 ngày sử dụng quy tắc xuất khẩu xe
-- **I nội bộ Link gợi ý**: /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehle-exc-sales-contrac-cuses/
-- **Image gợi ý**: chứng nhận sơ đồ lưu trữ của Hội thảo giao thức; kiểm tra tài liệu; dòng thời gian lưu trữ hàng năm
-- **LT gợi ý**: "Cina port road to clean stream," "vehicce eng ice ice ice ice ice ice ice ice"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Tài liệu hướng dẫn cho máy in Trung Quốc Xuất dạng Giấy Phép và Phong tục (2026)
+- **Meta mô tả**: Việc xuất khẩu xe bên cạnh Trung Quốc như thế nào -- hàng năm MOFCOM giấy phép lái xe, BEV giấy phép xuất khẩu xe, quy định sử dụng xe 180-day, và toàn bộ tài liệu xuất khẩu trước khi tuyên bố hải quan.
+- **H1**: Xe cộ Trung Quốc xuất luật sư, đủ điều kiện và Phong tục xích tài liệu
+- **Từ khóa chính**: Name
+- **Cụm tìm kiếm phụ**: Trung Quốc sử dụng giấy phép xuất khẩu xe hơi, BEV giấy phép xuất khẩu xe Trung Quốc, MOFCOM giấy phép xuất khẩu xe, xuất khẩu tài liệu, 180 ngày sử dụng luật xuất khẩu xe hơi
+- **URL đề xuất**: /guides/china-vehicle-export-license-customs-documents/
+- **Ý định tìm kiếm**: Hiểu được sự xuất khẩu xe cộ Trung Quốc, điều kiện hóa và Hải quan Chain: điều gì một người xuất khẩu xe/một phần phải xác nhận, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **Gợi ý hình ảnh**: Biểu đồ lưu trữ bằng lái
+- **Văn bản ALT**: Xe xuất khẩu bằng lái đến hải quan
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Tại sao trang này đã có
 Hầu hết các chuyến hàng đầu tiên thất bại ở phía **Trung Quốc**, không phải đích đến: người xuất khẩu thiếu loại có thẩm quyền đúng, bằng lái không bao gồm sản phẩm, hoặc chuỗi tài liệu không tương thích với việc tuyên bố. Hướng dẫn viên này đưa ra mệnh lệnh phải làm theo. Nó được dựa trên tài liệu chính phủ Trung Quốc (MOFCOM, thư viện chính sách của Hội đồng Liên bang, MIIT); nơi mà một quy tắc được chỉnh sửa hàng năm hoặc nhạy cảm về thời gian, nó được đánh dấu thay vì được xem là vĩnh viễn.
@@ -57,18 +59,18 @@ Có phải mọi người xuất khẩu xe đều cần giấy phép tương t�
 Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã và điều kiện điều chỉnh đối với lịch thuế hiện tại và thông báo MOFCOM mới nhất - đừng mang theo mã cũ.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf

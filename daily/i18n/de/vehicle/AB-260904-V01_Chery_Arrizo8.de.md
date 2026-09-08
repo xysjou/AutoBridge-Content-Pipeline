@@ -1,15 +1,17 @@
 # Chery Arrizo 8 (艾瑞泽 8): ein chinesischer Markt 1.6T Saloon Spec Sheet für Exportkäufer
 
-## SEO Metadaten
-- **SEO Titel**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, China Reference)
-- **Meta Description**: Chinesischer Markt Chery Arrizo 8 - 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm Körper, die trim Unterscheidungen, die wichtig sind, und was Importeure vor der Bestellung überprüfen.
-- **Vorgeschlagene URL**: /Fahrzeuge/ Chery-arrizo- 8/
-- ** H1 **: Chery Arrizo 8: Chinesische Marktspezifikationen und Export Verification Notes
-- ** Primäres Keyword**: chery arrizo 8 specs export
-- **Secondary Search Terms**: Arrizo 8 1.6TGDI, Chery Arrizo 8 Dimensionen, 艾瑞泽 8 Export, Kunpeng SQRF4J16, chinesischer Kompaktlimousine Export
-- **Interne Linkvorschläge**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/; /guides/export-vehicle-document-package/
-- **Bildvorschläge **: vorderes Dreiviertel von Arrizo 8; Motorabdeckung 1.6TGDI Abzeichen; hintere Kabine Beinfreiheit; 7DCT Selektor
-- **ALT Vorschläge**: "Chery Arrizo 8 1.6TGDI" Chinesische Marktlimousine"; "Arrizo 8 Abmessungen 4780mm Radstand 2790mm
+## SEO-Metadaten
+- **SEO-Titel**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, China Reference)
+- **Meta-Beschreibung**: Chinesischer Markt Chery Arrizo 8 - 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm Körper, die trim Unterscheidungen, die wichtig sind, und was Importeure vor der Bestellung überprüfen.
+- **H1**: Chery Arrizo 8: Chinesische Marktspezifikationen und Export Verification Notes
+- **Haupt-Keyword**: Kirsch-Arrizo 8 Specs Export
+- **Sekundäre Suchbegriffe**: Arrizo 8 1.6TGDI, Chery Arrizo 8 Dimensionen, 艾瑞泽 8 Export, Kunpeng SQRF4J16, chinesische Kompaktlimousine Export
+- **Vorgeschlagene URL**: /vehicles/chery-arrizo-8/
+- **Suchabsicht**: Chery Arrizo 8: Chinesische Marktspezifikationen und Exportverifizierungshinweise: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Bildvorschlag**: vordere Dreiviertel von Arrizo 8
+- **ALT-Text**: Chery Arrizo 8 1.6TGDI Chinesische Limousine
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Eine Nahe-B-Segment-Limousine sitzt über dem Kleinwagenfeld
 Der Arrizo 8 ist Chery Stufenlimousine, zwischen den traditionellen Kompakt- und B-Segmentfelder und bei Käufern Wer mehr Rückwärts will Raum als ein Eintrag Limousine. Für einen Exporteur Die Eröffnungsfrage ist nicht Preis aber **welcher Antriebsstrang Zeile wird zitiert**: Der chinesische Bereich ist Gebaut um eine 1.6-litre Turbo, und diese Seite Dokumente ** 1.6TGDI DCT Chinesischer Markt Fahrzeug (REFERENZMARKT): CHINA**. Jede Zahl unten ist a **Referenzspezifikation des chinesischen Marktes**, Keine globale Spec — Bestimmungsort, Emissionshomologation und -ausrüstung werden durch die lokaler Markt, und Nr. OEM in Übersee Spezifikationsblatt wurde erfasst Für dieses Modell in Das Forschungspaket.

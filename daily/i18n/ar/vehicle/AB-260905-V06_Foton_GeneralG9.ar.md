@@ -1,15 +1,17 @@
 # Foton General G9 Dajiangjun G9 (2025) — Chinese-Market pickup Specs and Export checks
 
-## SEO Metadata
-- ** عنوان الحلقة**: Foton General G9 Pickup 2025: تصدير سبيك الدليل
-- ** Meta Description**: Chinese-market Foton General G9 (大将军 G9) pickup: 2.0T diesel and petrol lines, 6MT/8AT, RWD/ 4WD, bed and wheelbase dimensions, and the conflicting diesel torque flagged.
-- ** H1 **** Foton General G9 Dajiangjun G9 (2025) — Chinese-Marketلتقطpes and Export checks
-- ** كلمة رئيسية**: Foton 福田 General G9 大将军G9 皮卡 specs export
-- ** شروط البحث الثانية**: تصدير الفوتون العام G9؛ وجيب داجيانغجون G9؛ وشحن الديزل الصيني؛ و4WD مركب؛ وسيارة أجرة مزدوجة
-- ** URL المقترض**: /مركبات/فوتو - عام - g9/
-- ** الحلقة الدراسية**: 了解 Foton 福田 General G9 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
-- ** مقترحات داخلية بشأن الروابط**: /حلقات/فطن عام - g9/، و/أوجديات/مركبات تصدير - هس - كود - مبادئ تطابق الوقود/الاستجابة/التوجيهات/الاستجابة إلى جانب الوقود/التاريخ/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Foton General G9 Pickup 2025: تصدير ديزل/بيترول سبيك الدليل
+- **وصف Meta**: Chinese-market Foton General G9 (大将军G9) pickup: 2.0T خط ديزل و البنزين، 6MT/8AT، RWD/4WD، وبُعدي الأسرة وقاعدة العجلات، وخط الديزل المتضارب قد أُشير إليه.
+- **H1**: Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market pickup Specs and Export checks
+- **الكلمة المفتاحية الرئيسية**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
+- **مصطلحات بحث ثانوية**: تصدير الفوتون العام G9؛ وجيب داجيانغجون G9؛ وجيب الديزل الصيني؛ و4WD مركب؛ وسيارة أجرة مزدوجة
+- **URL المقترح**: /vehicles/foton-general-g9/
+- **نية البحث**: Understand Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  ضوابط التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating Foton General G9 / Dajiangjun G9 (2025) — Chinese-Marketلتقطup Specs and Export checks, no staged inspection or people claimed.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  التصدير، خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء: مركب عمل مع خطين من خطوط الوقود
 The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سواتل السوق الصينية على الحاسوب يباع في زهرة **  and  خطوط البنزين** مع صندوق معدات  and  أو رباعي أو رباعي بالنسبة لمشتري التصدير الحقول الحاسمة هي حجم السرير، قاعدة العجلات، والقرصنة والمحرك الدقيق - ليس واحد "G9" العينة. السوق المرجعية** الصين**.
@@ -54,7 +56,6 @@ The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سو�
 ** الأبعاد ذات الأبعاد الطويلة** مصدر واحد هنا، فحص قبل طلب.
 ** أي وقود للديزل؟ ** China-VI, 0 # diesel; verify destination fuel compatibility.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
@@ -64,27 +65,27 @@ The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سو�
 | 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | صرخات | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
 | 大将军G9 配置库 | 买车网 | CN | T3 | صرخات | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
 | موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** بالضبط "فون" العام G9"
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** بالضبط "فون" العام "جي 9"
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
@@ -98,6 +99,5 @@ The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سو�
   - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup

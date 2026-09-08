@@ -1,15 +1,17 @@
 # Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIV เส้น  and  Check ของส่งออก
 
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: ฟอร์ตใด ๆ ที่ Yourting MPV: ภาษาจีน- image ICE & PhEVLLS, Specs และคู่มือส่งออก
-- ""คําอธิบาย" Chinese-market Dongfeng Forthing Youting (游艇) MPV: เก็บ ICE และสาย PhEV แยก; ขนาด กระท่อม 7-seat กระท่อม โรงไฟฟ้า และจุดตรวจการส่งออก
-- **H1**: Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIV เส้น  and  Check ของส่งออก
-- ดงฟัน ฟอร์ทูธ 东风风行 ส่วนขยายของคุณ 风行游艇 สเปกตรัมส่งออก
-- ~การค้นหาตามวาระที่: ~ สําหรับสิ่งที่คุณส่งออก 游艇 สเปกตรัม MPV; ภาษาจีน 7-seat MPV; DEFLE (MPV); นําเข้ารถตู้ผู้โดยสาร
-- ~ที่อยู่ URL ที่ถูกย่อ: สําหรับทุกอย่าง-คุณ/
-- สืบค้นเมื่อ 了解 ดงเฟ็ง สําหรับทุกอย่าง 东风风行 ซิงเกิล 风行游艇 中国版规格 、 配置与出口适配性 (车型参数页)
-- ** ลิงก์ภายใน ข้อเสนอ: guides/skd-skd-chockd-chown-kit-export-asplib////// guides/ docort-documn-History/
-- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Forthing Youting MPV: จีน-มาร์เก็ต ICE & PHEV ขอบเขตสี, สเปกตรัมและส่งออก
+- **คำอธิบาย Meta**: Chinese-market Dongfeng Forthing Youting (游艇)  MPV : รักษาสาย ICE กับ PHEV แยกกัน ขนาดห้องโดยสาร 7-seat, PHEV เครื่องส่งไฟฟ้า และจุดตรวจการส่งออก
+- **H1**: Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV Spects, ICE/PHEV บรรทัดและการส่งออกเช็ค
+- **คีย์เวิร์ดหลัก**: ดงเฟน ฟอร์ไรท์ / 东风风行 ส่วนขยายของคุณ / 风行游艇 สเปกตรัมส่งออก
+- **คำค้นหารอง**: Forthing Youing Express; 游艇 MPV สเปก; จีน 7-seat MPV; MPV PHEV; ผู้โดยสารนําเข้ารถตู้
+- **URL ที่แนะนำ**: /vehicles/forthing-youting/
+- **เจตนาการค้นหา**: เข้าใจ ดง เฟ็ง Forthing Youing (2025/2026) — จีน-Maget MPV Specs ICE/PHEV การตรวจสอบและส่งออกของบรรทัด: ตัวส่งออกรถ/ parts ต้องตรวจสอบหรือตรวจสอบเอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **คำแนะนำรูปภาพ**: ความเป็นจริง เอกสาร/ ภาพที่โฟกัสของกล้อง Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIVE เส้น  and  เอ็กซ์โปเวอร์ ไม่มีการตรวจสอบหรือคนอ้างว่า
+- **ข้อความ ALT**: ปิดวิวธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับดงเฟ็ง Forthing Youting (2025/2026) — จีน-market MPV Specs, ICE/PHEV เส้นพื้นพื้นพื้นบ้านที่เป็นกลาง ไม่มีบุคคลหรือการตรวจสอบดําเนินการแสดง
+- **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## บริบทของตัวซื้อ: ป้ายชื่อ MPV หนึ่งตัว, สายพลังงานสองสาย
 The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE  and  ppel ที่จะต้องอ้างถึงกัน! พวกเขาใช้ล้อล้อร่วมกัน 2900 mm คัน  and  7-seat (พ.ศ. Hinged - ประตูกระท่อม แต่แตกต่างกันในความสูง  and  เครื่องยนต์ ตลาดอ้างอิงคือ.... ประเทศจีน ไม่มีส่วนกําหนดของบรรทัดส่งออก
@@ -54,12 +56,11 @@ The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offe
 ~ 154, 900 RMB ราคาส่งออก? ~ ไม่ — เฉพาะ แต่ การ อ้างอิง ใน ประเทศ จีน เท่า นั้น.
 เป็น upfit; ประเมินแยกจากเบส MPV
 
-
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸 轴距 轴距 座椅 车门形式 (พ.ศ. |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PhEV 动力 快充 价格 (พ.ศ. |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PhEV 动力 快充 价格 (พ.ศ. ○
 | 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
 | 风行游艇 新车资讯 | 车主之家 | CN | T3 | ROOS_ CHCKED | https://m.16888.com/news/2026/0807/24830307.html | PhEV 上市信息 |
 | ดงเฟ็ง ดินแดนใด ๆ อย่างเป็นทางการ | Dongfang Tuxoo Motor Forthing 东风风行 (OEM) | CN | T1 | เปิดใช้งาน | https://www.forthingmotor.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
@@ -73,18 +74,18 @@ The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offe
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
 ## บันทึกรูปภาพ
-- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
-- ~~~~~ไม่ถูกจับ~
-- ~ประกาศจับ~: ไม่ถูกจับ
-- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
-- ~ห้ามยืนยัน~
-- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
-- ~CKND_DATE ~ 2026-09-06
-- ~FTL_TOPIC_MATCH~: แน่นอนดงเฟนสําหรับสิ่งที่คุณ
-- MEDIAN_SCPE_NOTE: โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
-- หม่อมเจ้า หม่อมเจ้า
-- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
-- ~ALT (12 ภาษา) ~:
+-"ประกาศผล" ไม่มีความปลอดภัยในคลังเก็บ
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ~ฝนที่ตก~ ไม่ใช้ — ไม่มีส่วนแฟ้มสําหรับเลือกใช้สื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- **RIGHTS_HOLDER**: unconfirmed
+-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ไม่ มี ใคร ปลอด ภัย — การ มี หน้า ปก ของ เว็บเพจ โอ อี เอ็ม ไม่ ใช่ ใบ รับรอง การ ทํา ซ้ํา ใหม่ ทาง การ ค้า
+- **CHECKED_DATE**: 2026-09-06
+-"CRL/TOICC_MATCH*: ดงเฟ็ง ชัวร์เลย
+-"ห้ามเข้า" ภาพต้องตรงกับครอบครัว/ TOP ต้นแบบที่แน่นอนเท่านั้น ต้องไม่ได้หมายถึงการตัดแต่งแบบ โมเดล ปีจริง การตรวจสอบภายใน หรือการทําธุรกรรมจริง
+- **IMAGE_RIGHTS_STATUS**: FAIL
+-"Bock_REASON: ไม่สามารถเข้ารหัสภาพได้: Wikited Commors/Flickr ไม่สามารถติดต่อได้จากสภาพแวดล้อมการวิจัย, ห้องสมุดหลักต้องการสิทธิ์ API/licence และภาพจากเว็บเพจของ OEM ก็ไม่ใช่การให้ใช้ร่วมกันแบบพาณิชย์ ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offe
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

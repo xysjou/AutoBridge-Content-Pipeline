@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: SANY Concrete Mixer Truck Specs: Drum Capacity, Chassis & Export
 - **Meta Description**: Chinese-market SANY SY-series mixer trucks — 6–10 m³ drums, SY310C-8S(V) 10 m³ with 400 L water tank, Hino/Yuchai/Weichai/Sany Power engines, integrated frame, and an 8×4 BEV option.
-- **Suggested URL**: /vehicles/sany-concrete-mixer-truck-specs/
 - **H1**: SANY SY-Series Concrete Mixer Truck (Chinese-Market): Superstructure, Chassis and Export Checks
 - **Primary Keyword**: sany concrete mixer truck specifications
 - **Secondary Search Terms**: SANY SY310C mixer, 10m3 mixer truck, concrete mixer chassis superstructure, Sany Power D09C5, electric mixer truck 8x4, mixer drum capacity
+- **Suggested URL**: /vehicles/sany-concrete-mixer-truck-specs/
+- **Search Intent**: Understand SANY SY-Series Concrete Mixer Truck (Chinese-Market): Superstructure, Chassis and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/yutong-zk6122-coach-specs/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: mixer drum and chute; chassis + superstructure side; integrated frame; water tank; 8×4 electric mixer
-- **ALT Suggestions**: "SANY SY310C ten cubic metre mixer truck"; "mixer truck chassis and drum superstructure"
+- **Image Suggestion**: mixer drum and chute; chassis + superstructure side; integrated frame; water tank; 8×4 electric mixer
+- **ALT Suggestion**: SANY SY310C ten cubic metre mixer truck
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a Special Vehicle Is Two Products Bolted Together
 A mixer truck is a **special-purpose vehicle**: a truck **chassis** plus a rotating-drum **superstructure** with its own hydraulic drive, water system and discharge equipment. Spec it by **drum capacity → chassis/engine → GVW/axles → superstructure equipment**, and confirm the whole combination against a homologated model code. This page covers SANY's **Chinese-market SY series (REFERENCE MARKET: CHINA)**; SANY product-line and model pages are the OEM source, while the electric variant is reported via trade media.

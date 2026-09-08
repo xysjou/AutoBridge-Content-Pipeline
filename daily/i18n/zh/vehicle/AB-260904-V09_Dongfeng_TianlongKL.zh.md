@@ -1,15 +1,17 @@
 # 东风天龙KL(天龙 KL)重型拖拉机:发动机、Gearbox、轴式和用于导出的GCW
 
-## 道德操守办公室 元数据
-- ** SEO标题**:东风天龙KL拖拉机光谱和导出指南(DDi11 465,GCW 40t)
-- ** 金属说明**: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed(AMT选项), 40 t GCW,(英语:General W, 加上电量  and  需要变种检查出口商。
-- ** 提议URL**:车辆/东风-天长kl/
-- **H1 **:东风天龙KL重轨车长:中马动力列车与盘丝样车
-- ** 基本关键词**:Dongfeng tianlong kl 拖拉机规格导出
-- ** 二级搜索术语**: Tianlong KL 465,  DDi11E465, 东风14-speed变速箱, 中国6x4拖拉机头, 40t GCW卡车出口
-- ** 内部链接建议**: /指南/车辆-出口-hs-code-分类/;/指南/排放-燃料兼容性-钦那-车辆/;/车辆/jmc-shunda/
-- ** 图像建议**:KL拖拉机头6x4;DDi11发动机;14-speed转盘/AMT;驾驶室内部;底盘框架和第五轮
-- ** ALT(美国) 建议**: "Dongfeng Tianlong KL 465 heavy tractor head"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+## SEO元数据
+- **SEO标题**: 东风天龙KL 拖拉机光谱与导出指南(DDi11 465,),.   GCW  40t)
+- **Meta描述**: Chinese-market Dongfeng Tianlong  KL  6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed(AMT选项), 40 t GCW 号, 加上电量  and  需要变种检查出口商。
+- **H1**: 东风天龙KL 重型拖拉机 头目:中马动力列车与底盘样板
+- **核心关键词**: 东风天龙kl 拖拉机规格导出
+- **次级搜索词**: Tianlong  KL  465,  DDi11E465, 东风14-speed变速箱, 中国6x4拖拉机头, 40t GCW辆卡车出口
+- **建议URL**: /vehicles/dongfeng-tianlong-kl/
+- **搜索意图**: Understand Dongfeng Tianlong  KL  Heavy Tractor Head: 中马电动列车与盘丝样车: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **图片建议**: KL 拖拉机头 6x4
+- **ALT文本**: 东风天龙 KL 465 重型拖拉机头
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者上下文: 拖拉机头由电源链和列车重量指定
 重型卡车购买者不购买设备清单——它们指定了与总组合重量匹配的**发动机-齿轮轴链**。 天龙KL是东风的中国-6重型半导体. 这种模型上反复出现的错误使**标功率与净功率**数字混淆,或者将465 PS拖拉机与430/520/560 PS和气变体混合. 本页记录**中国市场DDi11E465-60拖拉机(REFERENCE MARKET: CHINA)**;没有捕获OEM主小册子,因此对照MIIT公告,交叉核对的贸易值应当确认.
@@ -65,16 +67,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+- ** ** 自动桥出口-买方参考——东风天龙KL,汽油/柴油中国市场车辆重型拖拉机车
+- **法国**: 出口的Référence汽车(AutoBridge)——东丰天龙KL, réhicule thermique (中国马赛) raneur rotier loord
+- DE**: 国家 自动桥-Referenz für Exportkäufer — 东风天龙 KL, Verbrenner (chinesischer Markt) schwre Sattelzugmaschine (中文) 互联网档案馆的存檔,存档日期2013-03-02.
+- **ES**: 出口控制中心——东丰天龙KL, oheículo de buxustion (mercado chino) 拖拉机 Pesada
+-  **: 出口控制中心——东丰天龙KL, viículo a covalo mecânico pesado(中文)
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+- 身份证**: 维基月球在线解说-东风天龙 KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat 维基月球在线解说-东风天龙 KL, kendaraan mesin pembakaran (Pasar Tiongkok) traktor berat
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 

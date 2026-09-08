@@ -1,15 +1,17 @@
 # Changan CS55 PLUS (3rd thế hệ, 2024) — American-Market Petrol SUV Spects và Xuất Kiểm tra
 
-## SAO Siêu dữ liệu
-- **SEO Tit**: Changan CS55 PLUS (3rd Gen) 2024: China-Market CE Hướng dẫn Hình thể và Xuất
-- **Meta Mô tả**: Thị trường trung Quốc thế hệ thứ ba Changan CS55 PLUS xăng SUV: Blue whale 1.5T, 7DCT chiều, kích thước, sử dụng nhiên liệu WLTC, và tại sao lai là một đường riêng biệt.
-- ** H1 **: Changan CS55 PLUS (3rd thế hệ, 2024) — China-Market Petrol SUV Spects and Elive Checks
-- **Cumpary Keyword**: Changan 长安 CS55 PLUS (第三代) ra đời
-- **Secondary Search termss**: Changan CS55 Xuất khẩu PLUS; thế hệ thứ ba CS55; Blue whale 1.5T; xe hơi Trung Quốc SUV; 7DCT
-- ** URL đã gợi ý**: /vehicles/changan- cs55-plus/
-- **Tìm kiếm ý định**: 了解 Changan 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: cs55-plus/, /guides/eation-fuel-clitude-hi Story/, /guides/china-car-exense-liense-trux-t tiến trình/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Changan  CS55   PLUS  (3rd Gen) 2024: Hoa - Market ICE Hướng dẫn Hình thể và Xuất
+- **Meta mô tả**: Chinese-market third-generation Changan  CS55   PLUS  petrol  SUV : Cá voi xanh NE 1.5T, 7DCT chiều, WLTC nhiên liệu, và tại sao con lai là một đường riêng biệt.
+- **H1**: Changan  CS55   PLUS  (3rd Generation, 2024) — Tàu chở dầu kiểu Hoa SUV Specs  and  Xuất danh sách kiểm tra
+- **Từ khóa chính**: Changan / 长安  CS55   PLUS （第三代） specs export
+- **Cụm tìm kiếm phụ**: Changan  CS55   PLUS  export; Thế hệ thứ ba CS55; Cá voi xanh 1.5T; Dầu khí Trung Quốc SUV; 7DCT
+- **URL đề xuất**: /vehicles/changan-cs55-plus/
+- **Ý định tìm kiếm**: Hiểu Changan CS55 PLUS (3rd thế hệ, 2024), tên máy bay Petrot SUV Scis và Xuất Kiểm tra: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych-tập trung minh họa Changan CS55 PLUS (3rd thế hệ, 2024) — xe SUV kiểu Hoa-Market Petrol và Xuất khẩu Chec, không có kiểm tra dàn dựng hay người tuyên bố.
+- **Văn bản ALT**: Đóng, nhìn tự nhiên về vật liệu và chủ đề liên quan đến Changan CS55 PLUS (3rd thế hệ, 2024). — China-Market Petrol SUV Speck và E, nền tảng trung lập, không có người hoặc hành động thanh tra.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh và ranh giới thế hệ
 Trang này chỉ có trong thế hệ thứ ba Changan CS55 PLUS (2024) với nguồn năng lượng (ICE) powertrain**. Phiên bản ** Siêu pha loãng là một đường riêng biệt** với các hình vẽ và trình độ khác nhau và không được trộn lẫn ở đây. Thị trường tham khảo là **Trung Quốc**.
@@ -53,7 +55,6 @@ Tiêu chuẩn tiết ra bao nhiêu? Xác nhận Trung Quốc 6 chống lại quy
 **Có phải 99, 900 RMB là giá xuất khẩu?** Không, đó là tham khảo về việc phóng tàu trong nước.
 **Which transmission?** 7-speed wet dual-clutch (7DCT) on the captured line.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@ Tiêu chuẩn tiết ra bao nhiêu? Xác nhận Trung Quốc 6 chống lại quy
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LEPRE**: chính xác là Changan CS55 PLUS Gen3
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan CS55 PLUS Gen3
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
   - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
   - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
@@ -95,6 +96,5 @@ Tiêu chuẩn tiết ra bao nhiêu? Xác nhận Trung Quốc 6 chống lại quy
   - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE

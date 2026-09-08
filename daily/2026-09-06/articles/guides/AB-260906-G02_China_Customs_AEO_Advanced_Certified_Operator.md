@@ -6,7 +6,7 @@
 - **Primary Keyword**: china customs aeo advanced certified operator
 - **Secondary Search Terms**: AEO certification China; customs credit management; authorized economic operator China; AEO mutual recognition; certified enterprise customs facilitation
 - **Suggested URL**: /guides/china-customs-aeo-certified-operator-export/
-- **Search Intent**: 出口企业如何理解海关注册备案企业信用管理、申请AEO高级认证并获得通关便利与国际互认
+- **Search Intent**: Understand China Customs AEO (Advanced Certified Enterprise): Credit Tiers, Standards and Export Facilitation: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-customs-supervision-method-0110-1039/, /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: A customs authorized-operator certificate concept with a cargo gate and export vehicles
 - **ALT Suggestion**: Customs clearance gate with queued export vehicles and an authorized-operator document on a clipboard

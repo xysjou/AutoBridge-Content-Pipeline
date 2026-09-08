@@ -1,16 +1,16 @@
 # Hàng hóa xuất khẩu trả về ở Trung Quốc: Trách nhiệm một năm trước đây  and  the Separate Six-Month E-Commerce Track
-## SAO Siêu dữ liệu
-- **SEO title**: Trung Quốc trả lại hàng hóa đã được xuất ra (luật một năm và CBEC)  vội engBridge
-- **Meta Mô tả**: Khi hàng xuất khẩu Trung Quốc được trả lại trong vòng một năm vì chất lượng hoặc đặc biệt lý do tại sao không có nhiệm vụ theo thứ tự GACC 272,  the separate cross-border e-commerce six-month rule,  and  yêu cầu gì?
-- ** H1 **: Hàng hóa xuất khẩu trả về ở Trung Quốc: Trách nhiệm một năm trước đây  and  the Separate Six-Month E-Commerce Track
-- ** Từ khoá bí mật **: xuất khẩu hàng hóa trả về nghĩa vụ miễn trừ quy định Trung Quốc
-- **Secondary Search termss**: 退运货物免税; GACC Thứ tự 272 bài 49; hàng xuất khẩu trở lại một năm; hàng hóa xuyên biên giới trả lại hàng hóa sáu tháng; tình trạng gốc của nhà nước tái nhập khẩu
-- ** URL đã gợi ý**: /guides/export-re back- goods-offoverion-recoverion-regiction-regation/
-- **Tìm kiếm Intent**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别  dám 原状认定与已退税补缴
-- **I nội bộ Link gợi ý*: //guides/cross-ecommerce- b2b-export-9710-9810/, //guides/customs-voluncuncy-auction-auction-aulung-tage-tage-tage /, /guides/comed-boned-zone-vat-refued-export/
-- **Image pretry**: Một phần phương tiện xuất khẩu trở lại đang được kiểm tra ngược lại tài liệu xuất khẩu ban đầu của nó
-- ♪ Đề nghị**: đã trở lại hàng hóa dưới sự kiểm tra bên cạnh giấy tờ xuất khẩu gốc
-- **Schema Scope**: Điều khoản (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Trung Quốc trả lại hàng hóa đã được xuất ra (Một- năm hai- CBEC Quy tắc) tự động lưu trữ
+- **Meta mô tả**: Khi hàng xuất khẩu Trung Quốc được trả lại trong vòng một năm vì chất lượng hoặc đặc biệt lý do tại sao không có nhiệm vụ dưới GACC Thứ tự 272,  the separate cross-border e-commerce six-month rule,  and  yêu cầu gì?
+- **H1**: Hàng hóa xuất khẩu trả về ở Trung Quốc: Trách nhiệm một năm trước đây  and  the Separate Six-Month E-Commerce Track
+- **Từ khóa chính**: xuất khẩu hàng hóa trả lại nhiệm vụ miễn thuế Trung Quốc
+- **Cụm tìm kiếm phụ**: 退运货物免税; GACC Thứ tự 272 điều 49; hàng xuất khẩu trở lại một năm; hàng hóa xuyên biên giới trả lại hàng hóa sáu tháng; tình trạng gốc của nhà nước tái nhập khẩu
+- **URL đề xuất**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Ý định tìm kiếm**: Hiểu được rằng hàng hóa được trả lại ở Trung Quốc: Trách nhiệm một năm trước đây  and  Đường ray E-Comece chia cắt: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Gợi ý hình ảnh**: Một phần phương tiện xuất khẩu trở lại đang được kiểm tra ngược lại tài liệu xuất khẩu ban đầu của nó
+- **Văn bản ALT**: Đã trả lại hàng hóa dưới sự kiểm tra bên cạnh giấy tờ xuất khẩu gốc
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Khi hàng xuất khẩu trở lại Trung Quốc — một nhóm các bộ phận bị từ chối, một phương tiện không được chấp nhận đích đến, cổ phiếu e-commerce chưa cũ — giả định mặc định là việc tái nhập khẩu là một sự kiện có thể được tính thuế. Các quy tắc của hải quan Trung Quốc cho phép miễn dịch cụ thể, nhưng nó được điều chỉnh chặt chẽ dựa trên lý do tại sao hàng hóa được trả lại, bao lâu họ đã ở nước ngoài, và liệu họ có trở lại trong tình trạng ban đầu của họ hay không. Những người xuất viện bỏ lỡ bất kỳ điều kiện nào trả thuế nhập khẩu và thuế nhập khẩu trên sân khấu những hàng hóa họ làm ở Trung Quốc. This guide separates the general one-year rule from the distinct cross-border e-commerce six-month track, Giải thích "Tình trạng cổ điển",  and  Cờ hiệu nơi mà một người từ chức đã tuyên bố phải được trả lại.
 

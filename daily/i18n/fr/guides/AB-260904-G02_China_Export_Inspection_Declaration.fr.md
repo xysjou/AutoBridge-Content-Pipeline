@@ -1,15 +1,29 @@
 # Un véhicule doit-il faire l'objet d'une inspection légale avant d'être exporté? Guide de décision du SH-par-HS à l'échelle de la Chine
+## Métadonnées SEO
+- **Titre SEO**: Guide d'inspection et de déclaration statutaires pour l'exportation de véhicules en Chine (HS - par HS)
+- **Description meta**: Il n'y a pas de couverture oui/non — déterminer le code exact 10-digit HS, vérifier le catalogue actuel de l'inspection statutaire  and  la condition de surveillance douanière de ce code,  and  inspection réglementaire séparée de l'acheteur PSI   and  the  BEV  export licence.
+- **H1**: Inspection légale et déclaration douanière pour un véhicule exporté: Décider Elle est de 10-Digit HS, pas par généralisation
+- **Mot-clé principal**: Chine exportation contrôle légal véhicules de déclaration en douane
+- **Termes de recherche secondaires**: 法定检验 出口 目录, GACC ordonnance 277 déclaration, catalogue d'inspection des produits d'exportation, BEV licence d'exportation 2026, PSI vs inspection légale
+- **URL suggérée**: /guides/china-export-statutory-inspection-declaration
+- **Intention de recherche**: Comprendre l'inspection légale et la déclaration douanière pour un véhicule exporté: décider Elle est par 10-Digit HS, non par généralisation: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
+- **Suggestion d'image**: HS →catalogue→flux de décision de la condition de surveillance
+- **Texte ALT**: Chine exportation inspection légale décidé par 10-digit HS et catalogue actuel
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Référencement au titre**: Guide d'inspection et de déclaration statutaires pour l'exportation de véhicules en Chine (HS-par-HS)
-- **Description détaillée**: Il n'y a pas de couverture oui/non — déterminer le code SH exact 10-digit, vérifier le catalogue d'inspections réglementaires actuel et la condition de surveillance douanière de ce code, et séparer l'inspection légale de l'ISP acheteur et de la licence d'exportation BEV.
-- **URL suggérée**: /guides/chine-export-statutory-inspection-déclaration
-- ** H1 **: Inspection légale et déclaration douanière pour un véhicule exporté: décidez-le par 10-Digit SH, non par généralisation
-- **Mot-clé principal**: véhicule de déclaration en douane d'exportation de Chine
-- **Conditions de recherche secondaires**: 法定检验 出口 目录, GACC commande 277, catalogue d'inspection des marchandises d'exportation, licence d'exportation de VEB 2026, PSI vs inspection légale
-- **Suggestions de lien interne**: /guides/véhicule-export-hs-code-classification/; /guides/exportation-véhicule-document-package/; /guides/chine-export-certificat-d'origine/
-- **Suggestions d'image**: HS→catalogue→déroulement des décisions relatives aux conditions de surveillance; schéma à trois voies entre l'ISP et l'exportation; sceau douanier
-- ** Suggestions d'ALT**: "Le contrôle légal des exportations de la Chine décidé par 10-digit HS et le catalogue actuel"
+Métadonnées SEO
+- **Titre SEO**: Guide d'inspection et de déclaration statutaires pour l'exportation de véhicules en Chine (HS-par-HS)
+- **Description meta**: Il n'y a pas de couverture oui/non — déterminer le code SH exact 10-digit, vérifier le catalogue d'inspections réglementaires actuel et la condition de surveillance douanière de ce code, et séparer l'inspection légale de l'ISP acheteur et de la licence d'exportation BEV.
+- **H1**: Inspection légale et déclaration douanière pour un véhicule exporté: le décider par 10-Digit HS, non par généralisation
+- **Mot-clé principal**: Chine exportation contrôle légal véhicules de déclaration en douane
+- **Termes de recherche secondaires**: 法定检验 出口 目录, GACC commande 277, catalogue d'inspection des produits d'exportation, licence d'exportation de VEB 2026, PSI vs inspection légale
+- **URL suggérée**: /guides/china-export-statutory-inspection-declaration
+- **Intention de recherche**: Comprendre le contrôle légal et la déclaration en douane d'un véhicule exporté: décider d'ici 10-digit hs, et non de la généralisation: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
+- **Suggestion d'image**: HS→catalogue→déroulement des décisions relatives aux conditions de surveillance; schéma à trois voies entre les normes légales et les normes PSI et les licences d'exportation; sceau douanier
+- **Texte ALT**: Chine exportation inspection légale décidé par 10-digit HS et catalogue actuel
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## La question n'a pas de réponse unique Oui/Non
 "Les véhicules chinois ont-ils besoin d'un contrôle légal avant d'exporter?" Une couverture « toutes les voitures doivent » ou « aucune voiture n'en a besoin » est la mauvaise réponse. La question de savoir si un envoi donné est soumis à une inspection réglementaire **export** est déterminée par **son code SH à dix chiffres exact**, lu en regard du **catalogue actuel des produits d'importation et d'exportation soumis à une inspection réglementaire*** et de la catégorie **condition de surveillance douanière/inspection-et-quarantine** de ce code. Cette page présente le cadre d'exportation de la Chine et la méthode de décision; elle n'affirme pas un résultat de catalogue pour un code qu'elle n'a pas vérifié en direct. Le résultat est donc **preuve conditionnelle**: le cadre juridique est vérifié, mais le statut de catalogue de chaque véhicule doit être confirmé par code au moment de la déclaration.

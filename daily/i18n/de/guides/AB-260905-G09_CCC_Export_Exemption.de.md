@@ -1,15 +1,17 @@
 # CCC Vorgeschriebene Zulassung und ausgeführte Fahrzeuge — Anwendungsbereich und Freistellung
 
-## SEO Metadaten
-- **SEO-Titel**: CCC-Zertifizierung und Fahrzeugexport: Braucht ein exportiertes Auto China CCC und wann die Freistellung gilt
-- **Meta Description**: Ob die China CCC-Zeugnispflicht für Fahrzeuge gilt: CCC-Anwendungsbereich und Einreiseverifizierung, warum Produkte, die ausschließlich für den Export hergestellt werden, außerhalb der inländischen Marktregelung liegen, und die Kategorien der Freistellungsscheine.
-- ** H1 **: CCC Obligatorische Zertifizierung und Exportierte Fahrzeuge — Anwendungsbereich und Freistellung
-- **Hauptschlüsselwort**: ccc-Zertifizierung Exportbefreiung
-- **Secondary Search Terms**: CCC-Zertifizierung; 3C Bescheinigung; Ausfuhrbefreiung; obligatorische Produktzertifizierung; CCC-Befreiungsschreiben
+## SEO-Metadaten
+- **SEO-Titel**: CCC Zertifizierung und Fahrzeugexport: Braucht ein exportiertes Auto China CCC und wann die Freistellung gilt
+- **Meta-Beschreibung**: Ob die obligatorische Zertifizierung nach China CCC für Fahrzeuge gilt: CCC Überprüfung des Geltungsbereichs und des Eingangs, warum Produkte, die ausschließlich für den Export hergestellt werden, außerhalb der Regelung für den Inlandsmarkt liegen, und die Kategorien der Freistellungsscheine.
+- **H1**: CCC Vorgeschriebene Zulassung und ausgeführte Fahrzeuge — Anwendungsbereich und Freistellung
+- **Haupt-Keyword**: ccc-Zertifizierung Ausfuhrbefreiung
+- **Sekundäre Suchbegriffe**: CCC Zertifizierung; 3C Bescheinigung; Ausfuhrbefreiung; obligatorische Produktzertifizierung; CCC Befreiungsschreiben
 - **Vorgeschlagene URL**: /guides/ccc-certification-export-exemption/
-- **Search Intent**: 厘清 CCC 适用范围 (出厂 销售 进口 经营使用), 纯出口产品与免办证明的边界与办理
-- **Interne Linkvorschläge**: /guides/china-export-zoll-deklaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
+- **Suchabsicht**: CCC verstehen Obligatorische Zertifizierung und Exportfahrzeuge - Geltungsbereich und Freistellung: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Bildvorschlag**: Eine realistische, dokumenten-/fahrzeugorientierte Szene, die CCC obligatorische Zertifizierung und exportierte Fahrzeuge illustriert - Geltungsbereich und Befreiung, keine inszenierte Inspektion oder Personen, die beansprucht werden.
+- **ALT-Text**: Enge, natürliche Sicht auf Materialien und das Thema im Zusammenhang mit CCC obligatorische Zertifizierung und Exportierte Fahrzeuge - Anwendungsbereich und Befreiung, neutraler Hintergrund, keine Personen oder Inspektionsmaßnahmen gezeigt.
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Review)
 
 ## Trennung des chinesischen Inlandsmarkts vom Ausfuhrgeschäft
 CCC (China Compulsory Certification) ist Chinas **Inlandsmarkt** obligatorisches Produktzertifizierungsregime: Gelistete Produkte müssen zertifiziert werden, bevor sie die Fabrik zum inländischen Verkauf verlassen, nach China importiert oder auf dem chinesischen Markt verkauft verwendet werden, und Importe werden einer Eingangsüberprüfung unterzogen. Die wichtigste Exportfrage ist daher nicht "ist ein Auto CCC-gelistet", sondern **"ist diese spezifische Einheit auf den chinesischen Markt gekommen oder wird sie aus dem chinesischen Markt exportiert?"**
@@ -37,7 +39,6 @@ Der CCC-Katalog und die Ausnahmekategorien werden aktualisiert; verwenden Sie de
 **Wer verwaltet CCC?** SAMR setzt das Regime; CNCA verwaltet Zertifizierungen und Ausnahmen.
 **Sind importierte Teile für den Wiederexport abgedeckt?** Sie können für eine Ausnahmekategorie in Frage kommen — sie beantragen und dokumentieren.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Der CCC-Katalog und die Ausnahmekategorien werden aktualisiert; verwenden Sie de
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exakter CCC Vorgeschriebene Zertifizierung und Exportfahrzeuge
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact CCC Mandatory Certification and Exported Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Der CCC-Katalog und die Ausnahmekategorien werden aktualisiert; verwenden Sie de
   - **ID**: CCC certification export, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CCC certification export, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CCC certification export, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CCC #Certification

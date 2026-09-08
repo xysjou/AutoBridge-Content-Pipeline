@@ -1,14 +1,16 @@
 # Chứng nhận của sự hợp nhất chống lại kiểu chấp thuận: một bộ xuất bản bản Doser Tiếp tục làm điều sai trái
-## SAO Siêu dữ liệu
-- **SEO Tittry**:  carc Cos vs Type Approval (WVTA, OTTS, E-mark) Guides
-- **Meta Mô tả**: Chứng nhận nội địa của Trung Quốc unang là sự phù hợp từ điểm đến CoC, và EU WVTA, EAEU OTTS/EAC và hệ thống e-mark/E-mark - vì vậy hồ sơ bên phải đến bàn đăng ký.
-- ** URL đã gợi ý**: /guides/vehic-coc-pproval-dlister/
-- ** H1 Xe hơi CoC và Whole-Vehic Type Approval: Khớp tài liệu thích hợp với thị trường đúng
-- **Crimaary Keyword**: giấy chứng nhận phương tiện của sự phù hợp với kiểu chấp thuận wvta ots emark
-- **Secondary Search termss**: China CoC xuất khẩu, EU toàn bộ loại xe được chấp thuận, EAEU OTTS EACAC, e-mark va e-mark, UNECE 1958 loại giấy phép đăng ký xe, giấy đăng ký xe
-- **I nội bộ Link gợi ý*: /guides/uue-vehic-dic-digic-digic-docust /vehcles/sac-maxus- v90-specs/
-- **Image gợi ý**: sơ đồ tài liệu- lẻn đi (kiểu chấp thuận C); thị trường phân loại bản đồ; Trung Quốc CoC tương ứng với đích CoC
-- **LT gợi ý**: "được chấp thuận kiểu như chứng nhận của hàng ngũ phù hợp" "WVTA DateS E-mark bản đồ thị trường"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Cỗ xe tương ứng với Type Approval (WVTA, OTTS dấu E) Hướng dẫn mua hàng
+- **Meta mô tả**: Chứng chỉ nội địa Trung Quốc của Ulangle là phù hợp từ điểm trung tâm thương mại đích đến, và EU WVTA, EAEU OTTS/EAC và hệ thống e-mark/E-mark — do đó, hồ sơ đúng đắn đạt đến bàn đăng ký.
+- **H1**: Xe hơi CC và Toàn bộ băng nhóm Khớp tài liệu thích hợp với thị trường đúng
+- **Từ khóa chính**: Chứng nhận phương tiện của sự phù hợp với kiểu chấp thuận wvta ots emark
+- **Cụm tìm kiếm phụ**: Xuất khẩu ở Trung Quốc, EU loại xe được chấp thuận, EAEU OTTS EAC, E-mark đấu với E-mark, UNECE 1958 loại chấp thuận, Hồ sơ đăng ký xe
+- **URL đề xuất**: /guides/vehicle-coc-type-approval-dossier/
+- **Ý định tìm kiếm**: Hiểu được công ty xe hơi CC và Cả bộ phận điều khiển máy tính: Khớp Tài liệu phải với Thị trường Bên phải: một người xuất khẩu xe/một phần phải xác minh điều gì, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
+- **Gợi ý hình ảnh**: sơ đồ tài liệu phân cấp (kiểu chấp thuận _C)
+- **Văn bản ALT**: Loại chấp thuận để chứng nhận phân cấp tuân thủ
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Sự lộn xộn ở giữa
 Bên xuất nhập khẩu liên tục điều trị **one tài liệu như thể là một**: họ trình bày một trang web nội địa Trung Quốc 合格证 /CoC như là truy cập thị trường nước ngoài, hoặc giả sử một thành phần E-mark certinif toàn bộ phương tiện. Việc nhập khẩu và chứng nhận tuân thủ theo nhiều cấp độ khác nhau — và việc làm sai là một lý do thông thường mà việc đăng ký bị từ chối. Điều này hướng dẫn bản đồ các hệ thống. ** Thư tình nguyện:** khung bên Trung Quốc được dựa trên vật liệu MIIT; mô tả của các dụng cụ EU/EU/UNECE bên dưới đến từ các nhà cung cấp dịch vụ certification (thư mục thứ hai), và các văn bản quy định nên được trích ra từ EUR-Lex UNECE EAU iU trước khi có một quyết định nhất định — chúng không được trích dẫn ở đây như là luật chính.
@@ -51,18 +53,18 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
 **Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf

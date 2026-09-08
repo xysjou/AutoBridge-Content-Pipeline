@@ -1,14 +1,16 @@
 # Importieren eines Fahrzeugs in die VAE: Clearance-to-Registrierungssequenz und was Sie erneut überprüfen müssen
-## SEO Metadaten
-- **SEO Titel **: UAE Vehicle Import & RTA Registration Documents Guide
-- **Meta Description**: Sequenzieren Sie einen Fahrzeugimport der VAE korrekt - Zollabfertigungsdokumente, GCC GSO-Konformität, dann RTA-Registrierung (Mulkiya). Die gemeldeten Zoll- Mehrwertsteuerzahlen werden für die offizielle Bestätigung der VAE gekennzeichnet und nicht als fest angegeben.
+## SEO-Metadaten
+- **SEO-Titel**: UAE Fahrzeugimport & RTA Registration Documents Guide
+- **Meta-Beschreibung**: Sequence a  UAE  vehicle import correctly — customs clearance documents, GCC/GSO Konformität, dann RTA Registrierung (Mulkiya). Reported duty/ VAT  figures are flagged for official  UAE  confirmation rather than stated as fixed.
+- **H1**: UAE Fahrzeugimport: From Port Clearance to  RTA  Registration — Documents  and  Überprüfung
+- **Haupt-Keyword**: uae Fahrzeugimportregistrierungsdokumente rta process
+- **Sekundäre Suchbegriffe**: Dubai Zoll Fahrzeugimport, UAE Mulkiya Registrierung, GCC GSO Fahrzeugkonformität, UAE Autoimportzoll VAT, MoIAT Fahrzeugimport
 - **Vorgeschlagene URL**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: VAE Fahrzeugimport: Von der Hafenfreigabe bis zur RTA-Registrierung - Dokumente und Überprüfung
-- ** Primäres Keyword**: uae Fahrzeugimportregistrierungsdokumente rta process
-- **Secondary Search Terms**: Dubai Zoll Fahrzeugimport, UAE Mulkiya Registrierung, GCC GSO Fahrzeugkonformität, UAE Autoimportzoll Mehrwertsteuer, MoIAT Fahrzeugimport
-- **Interne Linkvorschläge**: /guides/vehicle-coc-type Approval-dossier/; /guides/china-vehicle-export-license-Customs-documents/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Bildvorschläge**: Freigabe → RTA-Sequenzdiagramm; VAE-Dokument-Checkliste; Emirat Bundesbehörde Karte
-- **ALT Vorschläge **: "UAE Zoll RTA Registrierungssequenz"; "UAE Fahrzeug Importdokument Checkliste"
+- **Suchabsicht**: UAE verstehen Fahrzeugimport: From Port Clearance to  RTA  Registration — Documents  and  Prüfung: was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Bildvorschlag**: Clearance → RTA-Sequenzdiagramm
+- **ALT-Text**: UAE Zoll bis RTA Registrierungssequenz
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Umfang und Evidenzgrenze (zuerst lesen)
 Dieser Leitfaden verwendet die **UAE als Arbeitsbeispiel **; Die Sequenzierungslogik wird auf andere GCC-Märkte übertragen, aber jedes Emirat und jeder GCC-Staat wendet seine eigenen Formulare und Gebühren an. ** Keine UAE Bundes-Zoll oder RTA primäre Seite wurde in diesem Paket erfasst. ** Dementsprechend werden die unten aufgeführten konkreten Zoll-/MwSt.-/Gebührenzahlen von Speditionsführern ** gemeldet und sind zeitkritische Verifizierungselemente, keine festen Fakten ** - erhalten Sie die aktuellen Werte von der Bundeszollbehörde der VAE und der RTA des betreffenden Emirats, bevor Sie ein Landpreismodell festlegen.
@@ -54,18 +56,18 @@ Nach der Zollfreigabe beantragt der Käufer die RTA mit (gemeldet): gültige **V
 ** Gilt dieser Leitfaden auch für Saudi/Katar?** Die Sequenz überträgt sich konzeptionell, aber Formulare, Gebühren und Behörden unterscheiden sich je nach GCC-Staat - überprüfen Sie jedes Land separat.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf

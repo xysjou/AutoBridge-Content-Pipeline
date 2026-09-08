@@ -7,8 +7,10 @@
 - **Primary Keyword**: ccc certification export exemption
 - **Secondary Search Terms**: CCC certification; 3C certificate; export exemption; mandatory product certification; CCC exemption letter
 - **Suggested URL**: /guides/ccc-certification-export-exemption/
-- **Search Intent**: 厘清CCC适用范围（出厂/销售/进口/经营使用），纯出口产品与免办证明的边界与办理
+- **Search Intent**: Understand CCC Mandatory Certification and Exported Vehicles — Scope and Exemption: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating CCC Mandatory Certification and Exported Vehicles — Scope and Exemption, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to CCC Mandatory Certification and Exported Vehicles — Scope and Exemption, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Separate the Chinese domestic market from the export transaction

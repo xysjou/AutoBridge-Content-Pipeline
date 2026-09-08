@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide
 - **Meta Description**: 2024 GAC Trumpchi M8 China reference specs: Master/Grandmaster vs Lingxiu series, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, and overseas buyer verification points.
-- **Suggested URL**: /vehicles/gac-trumpchi-m8/
 - **H1**: GAC Trumpchi M8 2024 (China): MPV Series, Seating and Specification Map for Importers
 - **Primary Keyword**: GAC Trumpchi M8 2024 specifications export
 - **Secondary Search Terms**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, Chinese luxury MPV export, GAC M8 Middle East
+- **Suggested URL**: /vehicles/gac-trumpchi-m8/
+- **Search Intent**: Understand GAC Trumpchi M8 2024 (China): MPV Series, Seating and Specification Map for Importers: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/ ; /vehicles/forthing-lingzhi-m5/
-- **Image Suggestions**: side profile showing 3070 mm wheelbase; second-row captain seats; three-series comparison; sliding door and aisle; driver cockpit
-- **ALT Suggestions**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, China spec"; "Trumpchi M8 second-row captain seats and aisle"; "M8 Master vs Grandmaster vs Lingxiu series comparison"
+- **Image Suggestion**: side profile showing 3070 mm wheelbase; second-row captain seats; three-series comparison; sliding door and aisle; driver cockpit
+- **ALT Suggestion**: 2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Why Buyers Look at the M8
 

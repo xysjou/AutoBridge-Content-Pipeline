@@ -1,15 +1,17 @@
 # Changan UNI-Z (2026, New Blue Fish PHV) — Hình ảnh Trung Quốc và Xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEEO Titt**: Changan UNI-Z PHV 2026: China-Market Speck & Elier Guide
-- **Meta Mô tả**: Thị trường chợ Trung Quốc Changan UNI-Z mới, cá voi xanh PHV: kích thước, 18.4 kWh đường LFP, 130 km LTC, DC/ V2L, và kiểm tra mức độ VIN cho người nhập cư.
-- ** H1 **: Changan UNI-Z (2026, New Blue whale PHV) — Trung Quốc-Market Spes và Xuất khẩu Verification
-- **Cumpary Keyword**: Changan 长安 Thống kê UNI-Z xuất khẩu
-- **Secondary Search termss**: Changan UNI-Z xuất khẩu; UNI-Z MV MV; harpists Trung Quốc bổ sung SUV; V2L xuất khẩu; LTC itude
-- ** URL đã được đánh dấu**: /vehicles/changan-uni-z/
-- **Tìm kiếm ý định**: 了解 Changan 长安 UNI-Z 中国版规格 配置与出口适配性 (车型参数页)
-- **I nội bộ Link gợi ý**: /guides/china-export-customs-decclaration-ssingle-window/, /guides/cccccccc-expation-expion/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Changan  UNI-Z   PHEV  2026: & Xuất kính & dấu chấm Trung Quốc Hướng dẫn mua
+- **Meta mô tả**: Trung Quốc-tiệm Changan UNI-Z mới xanh da trời cá voi PHEV: Kích thước, 18.4 kWh LFP đường, 130 km CLTC dải điện, DC/V2L và VIN mức độ kiểm tra cho những người nhập khẩu.
+- **H1**: Changan UNI-Z (2026, New Blue whale PHEV) — Hình Hoa - Market và Xuất khẩu
+- **Từ khóa chính**: Trương Thiên / 长安 UNI-Z quang phổ xuất
+- **Cụm tìm kiếm phụ**: Changan UNI-Z xuất khẩu; UNI-Z PHEV quang phổ; bộ cắm Trung Quốc  SUV; V2L xuất khẩu; CLTC dải đạn
+- **URL đề xuất**: /vehicles/changan-uni-z/
+- **Ý định tìm kiếm**: Hiểu Changan UNI-Z (2026), New Blue whale PHEV). — China-Market Specs và Xuất khẩu: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **Gợi ý hình ảnh**: Một hiện trường thực tế, tài liệu/vych-tạp chiếu ảnh Changan UNI-Z (2026, New Blue Fisher PHV) — American-Market Spects và Xuất khẩu Verification, không có kiểm tra dàn dựng hoặc người tuyên bố.
+- **Văn bản ALT**: Đóng, nhìn tự nhiên về vật liệu và chủ đề liên quan đến Changan UNI-Z (2026, New Blue whale PHV) — Trung Quốc-Market Specs và Xuất khẩu Veri, nền tảng trung lập, không có người hoặc hành động thanh tra được hiển thị.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Nhận diện người mua và mô hình ngữ cảnh
 **Chahangan UNI-Z (2026) được bảo vệ ở đây là cá voi xanh mới (Xin Lan Jing) plug-in mib** nhỏ SUV. Nó là một dòng khác biệt từ bất kỳ danh sách nguyên chất UNI-Z và từ các bảng tên thị trường xuất khẩu Changan có thể sử dụng ở nơi khác; không có sự công bằng tên nước ngoài được tuyên bố mà không có một tuyên bố OEM. Thị trường tham khảo là **Trung Quốc**.
@@ -55,7 +57,6 @@ V2L có làm việc ở chợ của tôi không? Con số 3.3 kW là một thôn
 **Có 130 km là một phạm vi WLP không? Không, đó là CLTC.
 Giá xuất khẩu ở đâu? Yêu cầu một câu trích dẫn hiện thời; trang này không xuất bản.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ Giá xuất khẩu ở đâu? Yêu cầu một câu trích dẫn hiện thời; 
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LEPRE**: chính xác là Changan UNI-Z 2026
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ Giá xuất khẩu ở đâu? Yêu cầu một câu trích dẫn hiện thời; 
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

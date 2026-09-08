@@ -1,16 +1,16 @@
 # China Zollhandelsmodi für den Fahrzeugexport: General Trade (0110), Market Procurement (1039) und Bonded Supervision
-## SEO Metadaten
-- **SEO Titel **: China Export Customs Modes 0110 vs 1039 vs Bonded für Fahrzeuge
-- **Meta Description**: Wie ein chinesischer Fahrzeugexporteur zwischen allgemeinem Handel (0110), Marktbeschaffungshandel (1039) und gebundener Aufsicht, einschließlich Rechnungs-, Steuerrückerstattungs- und Quittungsunterschieden, wählt.
-- ** H1 **: China Customs Trade Modi für den Fahrzeugexport: General Trade (0110), Market Procurement (1039) und Bonded Supervision
-- ** Primäres Keyword**: China Zollaufsichtsmethode 0110 1039 Zollfahrzeugexport
-- **Secondary Search Terms**: General Trade 0110 Export; Market Procurement Trade 1039; Bonded Export Zone; Export Tax Refund Mode; Zollaufsicht Code
-- **Suggested URL**: /guides/china-customs-supervision-method-0110-1039/
-- **Search Intent**: 汽车出口应如何选择海关监管贸易方式，一般贸易、市场采购(1039)、保税监管各自适用条件与税务/收汇差异
-- **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+## SEO-Metadaten
+- **SEO-Titel**: China Export Zoll Modi 0110 vs 1039 vs Bonded für Fahrzeuge
+- **Meta-Beschreibung**: Wie ein chinesischer Fahrzeugexporteur zwischen allgemeinem Handel (0110), Marktbeschaffungshandel (1039) und gebundener Aufsicht, einschließlich Rechnungs-, Steuerrückerstattungs- und Quittungsunterschieden, wählt.
+- **H1**: China Zollhandelsmodi für den Fahrzeugexport: General Trade (0110), Market Procurement (1039) und Bonded Supervision
+- **Haupt-Keyword**: China Zollaufsicht Methode 0110 1039 gebundene Fahrzeugexport
+- **Sekundäre Suchbegriffe**: Allgemeine Handels 0110 Export; Marktbeschaffung Handel 1039; Zollpflichtige Ausfuhrzone; Ausfuhrsteuerrückerstattungsart; Zollaufsichtscode
+- **Vorgeschlagene URL**: /guides/china-customs-supervision-method-0110-1039/
+- **Suchabsicht**: Verstehen Sie die chinesischen Zollhandelsmodi für den Fahrzeugexport: General Trade (0110), Market Procurement (1039) und Bonded Supervision: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Bildvorschlag**: Eine Zollanmeldung zum Vergleich der Codes für den allgemeinen Handel und die Marktbeschaffung neben Ausfuhrfahrzeugen
-- **ALT Vorschlag**: Zollanmeldungsformular mit Überwachungscodes und Exportfahrzeugen an einem Gate dahinter
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **ALT-Text**: Zollanmeldungsformular mit Überwachungscodes und Exportfahrzeugen an einem Gate dahinter
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Die auf der Ausfuhranmeldung gedruckte Methode der Zollaufsicht (Handel) ist keine Formalität – sie bestimmt, wie die Waren angemeldet werden, ob die Vorsteuer eine Ausfuhrerstattung unterstützt, wie Devisen erhalten werden und welche Waren sogar förderfähig sind. Fahrzeugexporteure treffen am häufigsten auf den allgemeinen Handel, werden aber manchmal als "einfacher" Marktbeschaffung (1039) oder gebundene Routen angeboten. Auf dieser Seite wird jeder erläutert und warum ein komplettes Fahrzeug nicht automatisch für den vereinfachten Modus qualifiziert ist.
 

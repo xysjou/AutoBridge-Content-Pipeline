@@ -1,15 +1,17 @@
 # MBL, HBL, Telex Rilis atau Sea Waybill? Memilih Metode Pembebasan Kendaraan Dibawah Kode Maritim 2025
 
-## SEO Metadata
-- ** Judul SEO **: Kendaraan Ekspor Bill of Lading Guide - MBL HBL Telex SWB + Maritim Kode. 80/81/87
-- ** Meta Description **: Bagaimana cara induk tagihan, tagihan rumah, telex rilis dan jalan laut berbeda, peraturan transferabilitas pengiriman di Cina kode Maritim direvisi (dalam gaya 2026-05-01, Seni. 80/81/87), dan cocok dengan metode rilis untuk syarat pembayaran.
-- ** Sugesti URL **: panduan kendaraan -export -bill -of -lading- tipe
--   H1 "Memilih Metode Pembebasan Lading" untuk "Kendaraan Tereksport" - "Praktek Bisnis" dalam Kode Maritim Bangkit
-- ** Primary Keyword **: ekspor kendaraan tagihan dari lading mbl hbl telex rilis seawaybill
-- ** Akhir Pencarian Second *: Maritim Code 2025 revisi, artikel 80 tagihan penelusuran lading, artikel 81 dokumen transportasi lainnya, artikel 87 pengiriman, NVOCC HBL, urutan Bill telex
-- ** Internal Link Sugestions **: guide ocean-freightt- charge- struktur -ourcle- export guide drivecle- export -p.p- pre- shipment -handover guide export- - dokumen
-- *** Saran Gambar **: perbandingan metode keempat; negosiasi tangga vs pembayaran; MBL HBL rantai; Seni. 80/81/87 aliran pengiriman
-- "MBL HBL telex laut waybill negosiable under direvisi Kode Maritim"
+## Metadata SEO
+- **Judul SEO**: Kendaraan Expor Bill of Lading Guide - MBL/HBL / Telex / SWB + Maritim Code. 80/81/87
+- **Deskripsi Meta**: Bagaimana cara induk tagihan, tagihan rumah, telex rilis dan jalan laut berbeda, peraturan transferabilitas / pengiriman di Cina kode Maritim direvisi (dalam gaya 2026-05-01, Seni. 80/81/87), dan cocok dengan metode rilis untuk syarat pembayaran.
+- **H1**: Memilih Metode Pelepasan Lading untuk Kendaraan Terasing - Praktek Bisnis Terantoran dalam Kode Maritim Bangkit
+- **Kata kunci utama**: ekspor kendaraan tagihan dari lading mbl hbl telex rilis seawaybill
+- **Istilah pencarian sekunder**: Maritim Code 2025 revisi, artikel 80 bill lading transfer, artikel 81 dokumen transportasi lainnya, artikel 87 pengiriman, NVOCC HBL, order Bill telex
+- **URL yang disarankan**: /guides/vehicle-export-bill-of-lading-types
+- **Maksud pencarian**: Memahami Memilih Metode Pelepasan Bill-Lading untuk Kendaraan Tereksport - Praktek Bisnis Diansemen dalam Kode Maritim Revised: apa exportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk sebuah urutan.
+- **Saran tautan internal**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Saran gambar**: perbandingan empat-metode
+- **Teks ALT**: MBL HBL telex laut waybill negosibility di bawah direvisi Kode Maritim
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Masalah pengadaan adalah Cargo Control, bukan pekerjaan kertas
 Pengharapkan memperlakukan bill-of-lading pilihan sebagai dokumentasi. Ini adalah ** payment -risk Keputusan saat Anda bergerak dari negosiasi asli RUU untuk rilis telex atau laut yang berlayar dengan mudah. Anda berubah ketika Anda berhenti mengendalikan kendaraan di tujuan. Panduan ini berpasangan empat instrumen 'perilaku bisnis dengan ** saat ini Cina dasar tulang punggung ** - * Kode Maritim PRC *, ** direvisi pada 2025-10-28 oleh sesi 18th dari 14th NPC Berdiri Komite (Presiden Order No. 58), dalam kekuatan dari 2026-05-01 (16 bab, 310 artikel) * - dan maka cocokkan metode ke istilah pembayaran. Carrier / port-specific telex rules and biaya tetap berjalan - spesifik dan tidak dinyatakan sebagai nilai tetap.

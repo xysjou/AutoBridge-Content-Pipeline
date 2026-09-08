@@ -6,7 +6,7 @@
 - **Primary Keyword**: export returned goods duty exemption regulation china
 - **Secondary Search Terms**: 退运货物免税; GACC Order 272 article 49; returned export goods one year; cross-border ecommerce returned goods six months; original state re-import
 - **Suggested URL**: /guides/export-returned-goods-duty-exemption-regulation/
-- **Search Intent**: 出口退运货物一年内原状复运进境免税规则与跨境电商6个月退运的区别、原状认定与已退税补缴
+- **Search Intent**: Understand Returned Export Goods in China: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
 - **Image Suggestion**: A returned export vehicle part being inspected against its original export documentation
 - **ALT Suggestion**: Returned cargo under inspection beside the original export declaration paperwork

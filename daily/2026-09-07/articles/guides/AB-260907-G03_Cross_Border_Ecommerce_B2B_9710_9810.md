@@ -6,7 +6,7 @@
 - **Primary Keyword**: cross border ecommerce b2b export 9710 9810
 - **Secondary Search Terms**: 9710 customs code; 9810 overseas warehouse export; China B2B cross-border e-commerce; overseas warehouse filing; cross-border e-commerce customs registration
 - **Suggested URL**: /guides/cross-border-ecommerce-b2b-export-9710-9810/
-- **Search Intent**: 9710与9810两种跨境电商B2B出口监管方式的区别、海外仓模式的时点分离与备案、企业需要哪些资质
+- **Search Intent**: Understand Customs Codes 9710 and 9810: How China's Cross-Border B2B Export Regimes Actually Differ: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
 - **Image Suggestion**: A logistics coordinator matching an overseas-warehouse waybill to a cross-border declaration on screen
 - **ALT Suggestion**: Desk with an overseas-warehouse waybill and a cross-border customs declaration on a monitor

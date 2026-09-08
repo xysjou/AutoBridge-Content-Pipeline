@@ -1,16 +1,16 @@
 # Um certificado de Majeure da força do CCPIT é um fato, não um veredito: evidência e uso de disputas em contratos de exportação
-## SEO Meta- dados
-- ** Título SEO**: Certificado de Majeure da força de CCPIT e Rota CIETAC para os exportadores. AutoBridge
-- ** Descrição do Meta**: O que um certificado factual de força-majeuro da Câmara de Comércio da CCPIT/China realmente prova, as provas necessárias para obter um, por que não é em si uma isenção legal, e como a mediação ou arbitragem da CCPIT se aplica então.
-- ** H1 **: Um certificado de Majeure da força do CCPIT é um fato, não um veredito: evidência e uso de disputa em contratos de exportação
-- **Chave principal**: certificado de força maior ccpit cietac arbitragem
-- ** Termos de pesquisa secundários**: Certificado de força maior do CCPIT; 不可抗力事实性证明; China Câmara de Comércio certificação; rzccpit plataforma; força maior exportação de provas; Cláusula de arbitragem CIETAC
-- ** URL sugerido**: /guides/force-majeure-certificate-ccpit-cietac-arbitration/
-- ** Intenção de pesquisa**: 贸促会不可抗力事实性证明证明什么. o 需要哪些佐证, o 为何不等于法定免责, o 以及后续调解 / 仲裁路径
-- **As sugestões de ligação interna**: /guias/china-exportação-crédito-seguro-seguro-seguro/, /guias/exportações-contrato-venda-china-código civil/, /guias/ipra-personagens-registro-exportação-proteção/
-- ** Sugestão de Imagem**: Um exportador que reúne um ficheiro de provas de força-majeure com avisos do governo e documentos de expedição
-- **ALT Sugestão**: Desk com um arquivo de provas de força-majeure, avisos do governo e um documento de reserva
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: CCPIT Forçar o Certificado Majeure e a Rota CIETAC para os Exportadores □ AutoBridge
+- **Meta descrição**: O que um certificado factual de força-majeure da Câmara de Comércio CCPIT /China realmente prova, as provas necessárias para obter um, por que não é em si uma isenção legal, e como CCPIT mediação ou CIETAC arbitragem, então, se aplica.
+- **H1**: Um certificado de força de CCPIT Majeure é um fato, não um veredito: evidência e uso de disputa em contratos de exportação
+- **Palavra-chave principal**: certificado de força maior ccpit cietac arbitragem
+- **Termos de busca secundários**: CCPIT certificado de força maior; 不可抗力事实性证明; China Câmara de Comércio certificação; rzccpit plataforma; força maior exportação de provas; CIETAC cláusula de arbitragem
+- **URL sugerida**: /guides/force-majeure-certificate-ccpit-cietac-arbitration/
+- **Intenção de busca**: Compreender A CCPIT Força Certificado Majeure É um Fato, Não um Veredito: Evidência e Disputa Uso em Contratos de Exportação: o que um exportador de veículo / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/china-export-credit-insurance-sinosure/, /guides/export-sales-contract-china-civil-code/, /guides/ipr-customs-recordation-export-protection/
+- **Sugestão de imagem**: Um exportador que reúne um ficheiro de provas de força-majeure com avisos do governo e documentos de expedição
+- **Texto ALT**: Mesa com um arquivo de provas de força-majeure, avisos do governo e um documento de reserva
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Quando um bloqueio epidêmico, um fechamento de portos, uma restrição de exportação ou um desastre natural impede um fornecedor chinês de realizar, compradores estrangeiros muitas vezes pedem "um certificado de força maior". Na China, o documento mais comumente produzido é o certificado factual **forcemous (不可抗力事实性证明)** emitido pelo ** Conselho de Promoção do Comércio Internacional (CCPIT) / Câmara de Comércio Internacional da China** sob sua carta. A única coisa mais importante que um exportador e comprador devem entender é que este certificado prova um conjunto de fatos objetivos; não **, por si só, regra que a parte é legalmente dispensado do contrato. Este guia explica o que é o certificado, as provas necessárias para o obter, a fronteira entre a prova factual e a força maior legal, e as rotas de mediação CCPIT a jusante ou de arbitragem CIETAC.
 

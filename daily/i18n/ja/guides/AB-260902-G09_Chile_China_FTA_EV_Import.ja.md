@@ -1,14 +1,17 @@
 # チリに中国車を輸入:FTA 好み、IVAおよび3CVのHomologationのステップ
-## ツイート メタデータ
-- **SEOタイトル**: チリに中国EVを輸入: FTA 好み、IVA及び3CV ガイド
-- **メタ 記述**: 中国-チリFTAの好みは中国製の車、チリ税関6%の一般的な義務と19% IVAが正式に確認した理由は、起源の証明書が条件であり、3CVの均質化がどのように適合するか。
-- **混雑URL**: /guides/import-chinese-ev-chile-fta/
-- H1 ホテル **: チリ国内の中国車: 土地利用コストを計算しない FTA の環境を使用する
-- **主なキーワード**: チリ中国 FTA車の輸入の義務IVAの均質化
-- **二次検索条件**:チリのアドゥアナ6%のアンセレン、チリのイバー19%の輸入、中国チリのFTAの原産地証明書、チリ3CVの均質化、証明書のオリゲンTLC中国チリ、EVの輸入
-- **内部リンクの提案**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/marine-cargo-insurance-car-import/; /vehicles/byd-yuan-plus/
-- **画像提案**:チリの税制の滝;FTAの証明書起源の流れ;3CVの均質なステップ
-- **ALT 提案**:「チリ輸入コストスタック:デューティーバース IVA」;「FTA 原産地要件証明書」;「チリ 3CV 均質化プロセス」
+## SEOメタデータ
+- **SEOタイトル**: チリに中国EVを輸入:FTA環境、IVAおよび3CV ガイド
+- **メタディスクリプション**: 中国-チリFTAの好みは中国製の車、チリ税関6%の一般的な義務と19% IVAが正式に確認された方法、起源の証明書が条件であり、3CVの均質化がどのように適合するか。
+- **H1**: 中国の車 チリへ: 土地利用コストを計算せずにFTA環境を使用する
+- **主要キーワード**: チリ中国FTA車の輸入の義務IVAの均質化
+- **関連検索語**: チリのアダナ6%のアンセレン、チリIVA 19%の輸入、中国チリFTAの原産地証明書、チリ3CVの均質化、証明書原織原TLC中国チリ、EVの輸入チリ
+- **推奨URL**: /guides/import-chinese-ev-chile-fta/
+- **検索意図**: チリに中国車を理解する: 計算なしでFTA環境を使用する 固定コスト:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **画像候補**: チリの税制の滝
+- **ALTテキスト**: チリの輸入のコスト スタック: デューティー versus IVA
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## 業績・業績ハイライト
 チリは、主要なパートナーとの無料トレード契約を運営しています。**中国を含む**。 チリの**本質的なアドバレームデューティは、非環境起源の CIF の税関値の 6% である一方で、迎合的な中国起源車は FTA の好み(アド・バレーム **デューティ 0% **)を使用できます。現在、公式のソース(下)に固定されています。 買い手の誤りは「FTA 0% デューティ」を「0% コストを輸入」として読み上げています。 ありません:** 19% IVAはまだ適用されます、0%は、起源の証明に依存し、均質化は別の作業ストリームです。** ガイドは**Chile**に特異的です。
 ## 税務スタック、ライン別(公式に接地)
@@ -53,18 +56,18 @@ FTA の設定は、製品固有の原点規則を満たし、認証機関が発�
 **3CVとそれの費用は何ですか?** - この記事では、固定番号を主張しません。
 **力でANAC EV-dutyカット?** いいえ — 法律を制定していない2026の協会提案です。 出荷時に再確認します。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,7 +88,7 @@ FTA の設定は、製品固有の原点規則を満たし、認証機関が発�
 | 「イムポートシオン・デ・ヴェヒカルロス」(車両デューティー6% + IVA 19%) | セルビシオ・ナクオン・デ・アドアナナス(**governmentofficial**) | フリガナ | 以下は、 https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html の | 2026-09-03 | **検証済み** | 車両固有の義務/IVAステートメント; サービスフィードの区別 |
 | 中国–チリFTAの好み(質化の起源のための0%)、証明書基礎 | モーフコム チリの中国ミッション (**公式の貿易機関**) | ディスク/CN | 担当: http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **検証済み** | FTA 0% 好みチャネル; 起源証明書の状態 |
 | ANAC six measures to make EVs cheaper (proposal, 法律ではない) | AUTOGUA(チリオートメディア) | フリガナ | 以下は、 https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html の | 2026-09-02 | シングル_ソース | 提案状況のみ — 明示的には制定されていない |
-| ロス・コンタドールズ — 智利 2026 关税 | ロス・コンタドールズ(智利本地财税) | フリガナ | 以下は、 | 2026-09-02 | シングル_ソース | 2026 普通关税 6%、自贸国 0%、IVA 19% | https://loscontadores.cl/arancel-aduanero-en-chile/
+| ロス・コンタドールズ — 智利 2026 关税 | ロス・コンタドールズ (智利本地财税) | フリガナ | 以下は 、 | 2026-09-02 | シングル _ ソース | 2026 普通关税 6% 、 自贸国 0% 、  IVA  19% | https://loscontadores.cl/arancel-aduanero-en-chile/
 | 神遊オート — 中国车进口智利指南 | 神遊自動車(行业站) | フリガナ | 以下は、 https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | シングル_ソース | 中智 FTA 0% 关税通道 |
 | huajiame — 全球汽车进口关税指南 | huajiame(行业站) | フリガナ | 以下は、 https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | シングル_ソース | 智利关税 6% (FTA 0%)、VAT 19%、奢侈品税 15% (>~$ 35k) |
 

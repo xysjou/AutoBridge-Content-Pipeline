@@ -1,16 +1,16 @@
 # Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference
-## SEO Meta- dados
-- ** Título SEO**: Sinotruk HOWO TX Dump Truck Export Specs: Driveline, Eixos, Guia de Chassis
-- ** Descrição do Meta**: Referência do mercado chinês para o tipper pesado de HOWO TX de Sinotruk: 6x4/8x4 layouts, uma amostra Weichai/HW driveline mantida como amostra, eixo e chassi foco, e os documentos de homologação de exportação compradores precisam.
-- ** H1 **: Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference
-- **Primary Keyword**: Sinotruk HOWO TX caminhão de exportação especificações
-- ** Termos de pesquisa secundários**: HOWO TX tipper; Sinotruk 8x4 dump truck; WP10H 400; HW19712 caixa de velocidades; China pesado tipper exportação
-- **Suggested URL**: /vehicles/sinotruk-howo-tx-dump/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍豪沃 TX 自卸车中国市场版本身份, 驱动 动力链 底盘与版本边界
-- **Internal Link Suggestions**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
-- ** Sugestão de Imagem**: Um Sinotruque 8x4 HOWO TX caminhão de descarga com cama de gorjeta levantada em um pátio de construção
-- ** ALT Sugestão**: Sinotruk HOWO TX 8x4 dump truck com seu corpo de ponta parcialmente levantada em um local de construção
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: Sinotruk  HOWO   TX  Dump Truck Export Specs: Linha de transmissão, eixos, guia de chassis
+- **Meta descrição**: Referência do mercado chinês para o Sinotruk HOWO TX pesado tipper: 6x4/8x4 layouts, uma amostra Weichai/ HW driveline mantido como uma amostra, eixo e chassi foco, e os documentos de homologação de exportação compradores precisam.
+- **H1**: Sinotruk  HOWO   TX  Tipper: Referência de exportação de dumping pesado de mercado da China
+- **Palavra-chave principal**: Sinotruk HOWO TX especificações de exportação de caminhão de descarga
+- **Termos de busca secundários**: HOWO TX tipper; Sinotruk 8x4 dump truck; WP10H 400; HW19712 caixa de velocidades; China pesada tipper exportação
+- **URL sugerida**: /vehicles/sinotruk-howo-tx-dump/
+- **Intenção de busca**: Understand Sinotruk  HOWO   TX  Tipper: Referência de exportação de dumping pesado de mercado da China: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
+- **Sugestão de imagem**: Um Sinotruque 8x4 HOWO TX caminhão de descarga com cama de gorjeta levantada em um pátio de construção
+- **Texto ALT**: Sinotruk HOWO TX 8x4 caminhão de descarga com seu corpo basculante parcialmente levantada em um local de construção
+- **Escopo do schema**: Artigo + Veículo
 
 O HOWO TX é Sinotruk China National Heavy Duty Truck Group principal pesado tipper (caminhão de mergulho) para construção e muck-hauling, vendido em 6 × 4 e 8 × 4 layouts de unidade. A compra de camiões pesados é sobre a linha de transmissão, eixos, peso bruto combinado, cabina e chassis e sobre o reconhecimento de que uma especificação de amostra não representa toda a matriz do modelo. O status da HOWO como marca de caminhão pesado principal do Sinotruk é confirmado pelas divulgações oficiais da empresa; os números de trabalho detalhados vêm do papel de homologação.
 

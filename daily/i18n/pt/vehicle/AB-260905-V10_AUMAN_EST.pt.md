@@ -1,15 +1,17 @@
 # Foton Daimler AUMAN EST (China-V/VI) — Especificações do camião pesado de comércio chinês e verificações de exportação
 
-## SEO Meta- dados
-- ** Título SEO**: Foton Daimler AUMAN EST Tractor: Especificações de Mercado Chinês e Guia de Exportação
-- ** Descrição do Meta**: Foton Daimler Cabeça de tractor pesada AUMAN EST: China-V ISG e China-VI X13 linhas, ZF caixas de velocidades rápidas, classe ~ 40 t GCW, com o BEV mantido como uma linha separada.
-- ** H1 **: Foton Daimler AUMAN EST (China-V/VI) — Especificações do camião pesado de comércio chinês e verificações de exportação
-- **Chave Primária**: Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Tractor Truck) especificações de exportação
-- ** Termos de pesquisa secundários**: Exportação AUMAN EST; Cabeça de trator Foton Daimler; Tractor chinês de caminhão pesado; motor X13; trator 6x4
-- ** URL sugerida**: /veículos/foton-auman-est-tractor/
-- **Intenção de pesquisa**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Tractor Truck) 中国版规格, 配置与出口适配性 (车型参数页)
-- **As sugestões de ligação interna**: /veículos/foton-auman-est-tractor/, /guias/caminho-estrada-transporte-china-central-asia/, /guias/bill-of-lading-types-history/
-- **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: Foton Daimler AUMAN EST Tractor: Especificações de mercado chinês e Guia de exportação
+- **Meta descrição**: China-mercado Foton Daimler AUMAN EST cabeça de trator pesado: China-V ISG e China- VI X13 linhas, ZF /Caixas de velocidades rápidas, classe ~ 40 t GCW, com o BEV mantido como uma linha separada.
+- **H1**: Foton Daimler AUMAN EST (China- V/ VI) — Especificações do camião pesado do mercado chinês e verificações da exportação
+- **Palavra-chave principal**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Tractor Truck) especificações de exportação
+- **Termos de busca secundários**: AUMAN EST exportação; Cabeça de trator de Foton Daimler; Tractor de caminhão pesado chinês; Motor X13; Tractor 6x4
+- **URL sugerida**: /vehicles/foton-auman-est-tractor/
+- **Intenção de busca**: Understand Foton Daimler  AUMAN   EST  (China-V/ VI ) — Chinese-Market Heavy Tractor Truck Specs  and  Verificação de Exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **Sugestão de imagem**: Uma cena realista, documento/veículo focado ilustrando Foton Daimler AUMAN EST (China-V/ VI) — Chinese-Market Heavy Tractor Truck Specs e Export, nenhuma inspeção encenada ou as pessoas alegaram.
+- **Texto ALT**: Fechar, visão natural dos materiais e do assunto relacionado com Foton Daimler AUMAN EST (China-V/ VI) — Chinese-Market pesados caminhão Especificações, fundo neutro, nenhuma pessoa ou ação de inspeção mostrado.
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/revisão)
 
 ## Contexto do comprador: uma cabeça de trator com linhas de emissão e energia separadas
 O **Foton Daimler AUMAN EST (欧曼 EST)** é uma cabeça de trator pesada do mercado chinês. O China-V EST510 e o China-VI X13 são gerações de emissão diferentes, e um trator **battery-elétrico é uma linha separada** — eles nunca devem ser fundidos em uma especificação. O mercado de referência é **China**.
@@ -47,7 +49,6 @@ Sempre indicar se a unidade é China-V (histórica) ou atual China-VI; não apre
 ** Que caixa de velocidades?** ZF 12TX AMT ou Fast 16-speed, por construção.
 ** X13 saída?** 12.9 L, 412 kW 560 hp, 2600 N·m na linha China-VI.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -67,18 +68,18 @@ Sempre indicar se a unidade é China-V (histórica) ou atual China-VI; não apre
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- ** MODEL_TOPIC_ MATCH**: exato Foton Daimler Tractor AUMAN EST
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
+- **MODEL_TOPIC_MATCH**: exact Foton Daimler AUMAN EST tractor
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
   - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
@@ -91,6 +92,5 @@ Sempre indicar se a unidade é China-V (histórica) ou atual China-VI; não apre
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

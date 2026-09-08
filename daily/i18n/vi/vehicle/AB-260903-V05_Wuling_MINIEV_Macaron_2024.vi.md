@@ -1,14 +1,16 @@
 # Võ Đang Hồng Kinh M Nê- bu- lu- vi- a (3rd gen) 2024: vi-V Người mua nên có kích thước đúng
-## SAO Siêu dữ liệu
-- **SEEO Titry**: Wuling Hongguang MIIV Macaron 2024 Spec & Xuất Ghi chú
-- **Meta Mô tả**: Trung Quốc thị trường 3rd-gen Wuling MIIEV Macaron — 3-door 4-seat EV, 20 kW động cơ,  170/215 km CLTC, Pin LFP, Chủ yếu là sạc chậm, Tốc độ tối đa 100 km/h. lô- gi- ri phân cấp  and  Kiểm tra xuất khẩu.
-- **Sudeest URL**: /vehcles/wuling-Hongguang-minev (Người mẫu xanh lá cây trang; năm giữ trong H1/body, không phải URL)
-- ** H1 **: Wuling Hongguang MIIV Macaron 2024 (Trung Quốc - Market): Micro-V Spects và Xuất Kiểm tra
-- ** Từ khoá tiểu học **: hongguang miniev macaron 2024 es
-- **Secondary Search Words**: MIIV Phạm vi Macaron, Xuất khẩu EV vi tính, MENV 20kW, 170 215 xe thành phố CLTC, Name
-- **I nội bộ Link gợi ý**: /vehcles/byd-dolbin/; /vehicles/farizon-xiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/contaner-vehile-lang-lang/hling// /guides/guides/contather/contaner-vechle-lang-lang/
-- **Image gợi ý**: 3-door cơ thể với cửa mở; 4-seat cabin vi tính; cổng sạc (lắp điện); kích cỡ so sánh trong một vịnh đậu xe
-- **LT Những gợi ý**: "Lấp lánh MIIV Kích thước EV cực nhỏ Macaron; "MINIV Macaron 170 215 CLTC"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Wuling Hongguang  MINIEV  Macaron 2024 Specs & Export Notes
+- **Meta mô tả**: Trung Quốc thị trường 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, 20 kW động cơ,  170/215 km  CLTC , LFP ắc quy, Chủ yếu là sạc chậm, Tốc độ tối đa 100 km/h. lô- gi- ri phân cấp  and  Kiểm tra xuất khẩu.
+- **H1**: Wuling Hongguang MINIEV Macaron 2024 (Trung Hoa): Micro- EV Spec và Xuất Kiểm tra
+- **Từ khóa chính**: Giá mà nó có thể đạt được tới 2024 lần
+- **Cụm tìm kiếm phụ**: MINIEV Phạm vi Macaron, Xuất khẩu đấu vật tiểu thuyết EV, MINIEV 20kW, 170 215 CLTC xe thành phố,  Wuling  LFP  small battery
+- **URL đề xuất**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **Ý định tìm kiếm**: Hiểu Wuling Hongguang MINIEV Macaron 2024 (Trung Quốc): Micro- EV Specs và Elic Checks: một xe xuất khẩu xe/ phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **Gợi ý hình ảnh**: 3-door cơ thể mở cửa
+- **Văn bản ALT**: Võ thuật của MIIV Kích cỡ EV cực nhỏ Macaron
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Văn cảnh người mua: Khớp sản phẩm với trường hợp sử dụng
 Hồng diệp Phi Macaron là một chiếc xe điện thành thị **, không phải là một chiếc EV nhỏ gọn. Ở ** 3064 mm long  and  777 kg kerb**, nó ngồi dưới một cái cửa sau nhỏ để đo,  DOD Dolphin trên cùng danh mục này là xung quanh **4125 mm long** with 420/520 km CLTC grades. Khoảng cách đó là toàn bộ quyết định mua sắm: Giá trị của Macaron là sự di chuyển ngắn của thành phố với giá rất thấp của Trung Quốc; giới hạn của nó là tốc độ cao nhất (** 100 km/h **,  range (**170/215 km CLTC**), Tốc độ sạc  and  Cỡ cabin. Một người xuất khẩu đặt nó vào vị trí chống lại những người bị trục trặc EV sẽ tạo ra những vấn đề về lợi nhuận; Một người bán nó như một sản phẩm được định nghĩa thành thị/ dặm cuối cùng sẽ không. Trang này có trang ** 3rd-generation Macaron, mô hình năm 2024 (REFERCE MORETET: Chloe.
@@ -62,18 +64,18 @@ Bao nhiêu ghế? Bốn ghế trong một cơ thể 3-door, 3064 mm micro; phía
 **Is it a competitor to a normal compact EV?** No — next to a ~4.1 m, 420+ km Dolphin, nó nhỏ hơn một lớp; vị trí của nó là một thành phố siêu tương tác, không phải một gia đình EV.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug

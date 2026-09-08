@@ -1,15 +1,17 @@
 # Penggerak Pabrik Sumber (RHD) Mobil Cina: Ketersediaan dan Verifikasi Merk
 
-## SEO Metadata
-- ** Judul SEO **: Mobil Cina mana yang datang dari kanan-Kandar Tangan (RHD)? Panduan Pengarah
-- ** Meta Description **: Cara untuk membuat pabrik RHD kendaraan Cina untuk Inggris, Australia, Thailand, Malaysia, Afrika Selatan dan seterusnya - yang merek membangun RHD, bagaimana mengkonfirmasi per VIN, dan mengapa konversi LHD-ke-RHD berisiko.
-- ** Sugested URL **: guide right-hand-drill -cinese- mobil
--   H1 Mengapa harus menjadi Pembangunan RHD Pabrik Pabrik
-- ** Primary Keyword **: Mobil-mobil Cina dengan tangan kanan, drive RHD model ekspor
-- ** Akhir Pencarian Second **: pabrik RHD EV Cina, hand drive BYD, model MG RHD, GWM Haval RHD, RHD Thailand mobil Cina, LHD ke RHD konversi risiko
-- *** Informan Link Internal Sugestions **: guide cinese- even- charging-standard- compatibility guide verify-china -car- pemasok kendaraan hongview-e- hs9-2024/
-- *** Saran Gambar **: kokpit RHD (kemudi di kanan) vs LHD; peta pasar RHD-dunia; baris RHD pabrik; konversion- peringatan risiko
-- "Factory to RHD converse componters warning"
+## Metadata SEO
+- **Judul SEO**: Mobil Cina mana yang masuk ke kanan (RHD)? Panduan Pengarah
+- **Deskripsi Meta**: Bagaimana cara membuat RHD kendaraan Cina untuk UK, Australia, Thailand, Malaysia, Afrika Selatan  and  di luar - yang merek membuat RHD, Bagaimana mengkonfirmasi VIN,  and  Mengapa LHD - ke RHD konversi berisiko.
+- **H1**: Membeli Kanan-Tangan-Drive Mobil Cina: Mengapa Ini harus menjadi Pembangun Factory RHD
+- **Kata kunci utama**: Mobil-mobil Cina kanan drive RHD model ekspor
+- **Istilah pencarian sekunder**: Pabrik RHD Cina EV, BYD hand drive kanan, MG RHD model, GWM Haval RHD, RHD Thailand mobil Cina, LHD sampai RHD risiko konversi
+- **URL yang disarankan**: /guides/right-hand-drive-chinese-cars/
+- **Maksud pencarian**: Memahami Pemasok Hak Buying - Drive Mobil Cina: Mengapa Ini Harus menjadi Pemasok Pabrik Pabrik Pabrik Pabrik Pabrik RHD: apa yang harus diverifikasi oleh kendaraan / suku cadang, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **Saran gambar**: RHD kokpit (kemudi di kanan) vs LHD
+- **Teks ALT**: Pabrik yang benar - drive-hand- Kokpit mobil Cina
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## RHD Apakah Pertanyaan Manufaktur, Bukan Repair- Toko Pertanyaan
 
@@ -63,18 +65,18 @@ Apakah BYD Atto 3 sama dengan Yuan Plus? Atto 3 adalah nama pasar ekspor untuk p
 Kenapa harus memverifikasi VIN? Bahan pemasaran boleh mengatakan "RHD tersedia" sementara stok dialokasikan adalah LHD; lembar membangun VIN adalah bukti yang terpercaya.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf

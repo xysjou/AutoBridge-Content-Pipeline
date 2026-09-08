@@ -1,14 +1,16 @@
 # 칭홍궁 MINIEV Macaron (3rd Gen) 2024: 마이크로 EV 구매자는 크기가 정확한 것이어야 합니다
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: Wuling Hongguang MINIEV Macaron 2024 Specs & 수출 주
-- **마타 기술 **: 중국 시장 3rd-gen Wuling MINIEV Macaron - 3-door 4-seat 마이크로 EV, 20 kW 모터,  170/215 km CLTC, LFP 건전지, 주로 느린 위탁, 100 km/h 최고 속도, 급료 선택 논리  and  수출입 검사.
-- **Suggested URL**: /vehicles/wuling-hongguang-miniev/ (녹색 모델 페이지; 모델 년은 H1/body에 유지, URL이 아닌)
-- ** H1 **: Wuling Hongguang MINIEV Macaron 2024 (중국 시장): Micro-EV Specs 및 수출 검사
-- ** 일기 키워드 **: 우링 충당 미니 ev macaron 2024 사양
-- **세컨드 검색 이용 약관**: MINIEV Macaron 범위, Wuling 마이크로 EV 수출, MINIEV 20kW, 170 215 CLTC 도시 차, Wuling LFP 작은 건전지
-- ** 내부 링크 제안**: /vehicles/byd-dolphin/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/container-vehicle-loading-lashing/
-- ** 이미지 제안 **: 3-door 몸은 문을 엽니다; 4-seat 마이크로 오두막; 책임 항구 (저 책임); 주차 만에 있는 크기 비교
-- ** ALT 제안**: "미니EV Macaron 마이크로 EV 치수를 재는"; "MINIEV Macaron 170 215 CLTC 범위"
+- **메타 설명**: 중국 시장 3rd-gen Wuling MINIEV Macaron - 3-door 4-seat 마이크로 EV, 20 kW 모터,  170/215 km  CLTC , LFP 배터리, 주로 느린 위탁, 100 km/h 최고 속도, 급료 선택 논리  and  수출입 검사.
+- **H1**: Wuling Hongguang MINIEV Macaron 2024 (중국 시장): 마이크로 - EV 사양 및 수출 검사
+- **주요 키워드**: 우링 충당 미니브 macaron 2024 사양
+- **보조 검색어**: MINIEV  Macaron range, Wuling 마이크로 EV 수출, MINIEV 20kW, 170 215 CLTC 도시 차, Wuling LFP 작은 건전지
+- **추천 URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **검색 의도**: Wuling Hongguang MINIEV Macaron 2024 (중국 시장)를 이해하십시오: 마이크로 EV Specs와 수출 검사: 차량/부품 수출업자가 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **이미지 제안**: 3-door 몸은 문을 엽니다
+- **ALT 텍스트**: Wuling MINIEV Macaron 마이크로 EV 차원
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 Context: 사용 사례에 제품을 일치
 홍구앙 미니EV Macaron은 ** 소형 EV가 아닌 마이크로 도시 전기 자동차 **입니다. ** 3064 mm 긴  and  777 kg kerb**, 작은 hatchback 아래 전체 클래스에 앉아 - 스케일에 대한,  이 같은 카탈로그의 BYD 돌고래는 주변 **4125 mm long** with 420/520 km CLTC grades. 그 격차는 전체적인 구매 결정입니다: Macaron의 값은 매우 낮은 중국 가격 지점에서 짧은 여행 도시 이동성입니다; 그것의 제한은 최고 속도 (** 100 km/h **),  range (**170/215 km CLTC**), 충전 속도  and  캐빈 크기. B-segment EV에 대해 위치를 차지하는 수출자는 반환 문제를 만들 것입니다. 정의된 마일 제품으로 판매하는 사람은 아닙니다. 이 페이지는 ** 3rd-generation Macaron, 모델 년 2024 (REFERENCE MARKET: 중국)**.
@@ -62,18 +64,18 @@ Micro-EV 라인 변경 조합 자주, 그래서 ** 특정 VIN 빌드 시트에 �
 **Is it a competitor to a normal compact EV?** No — next to a ~4.1 m, 420+ km 돌고래는 클래스가 작습니다. 초소형 도시 통근로 자리 잡고 고속도로 가족 EV가 아닌 위치.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug
@@ -90,15 +92,15 @@ Micro-EV 라인 변경 조합 자주, 그래서 ** 특정 VIN 빌드 시트에 �
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Macaron은 170 km 20 kW을 추가합니다. | 자동 집 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_체크 | 20 kW, 170 km의 국내 가격 (TIME_SENSITIVE) |
-| MINIEV 2025 매개 변수 가격 | Dongchedi 데이터베이스 | 담당자: Mr. wang | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_체크 | 모형 년, 범위 급료, 국내 MSRP (TIME_SENSITIVE) |
-| 2024 마카리온 215 (디멘션 kerb) | NetEase 자동 데이터베이스 | 담당자: Mr. wang | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | 3064/1493/1629, 2010 mm, 777 kg (미디어 DB, OEM 아닙니다) | https://product.auto.163.com/product/000CQEGG.html
+| Macaron은 170 km 20 kW을 추가합니다. 공급 능력: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_체크 | 20kW, 170km의 국내선(TIME_SENSITIVE) |
+| MINIEV 2025 매개 변수 가격 | Dongchedi 데이터베이스 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_체크 | 모형 년, 범위 급료, 국내 MSRP (TIME_SENSITIVE) |
+| 2024 마카리온 215 (디멘션 kerb) | NetEase 자동 데이터베이스 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: 〒 2026-09-03 | 싱글_스쿨(싱글) | 3064/1493/1629, 2010 mm, 777 kg(미디어DB, OEM) | https://product.auto.163.com/product/000CQEGG.html
 | Macaron 배터리 느린 충전 | PCauto 백과 사전 | 담당자: Mr. wang | http://m.pcauto.com.cn/baike/941480/1848425/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | ≈ 13.4 kWh의 위탁 방법 |
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 38031 견인 건전지 안전 필요조건 (GB 38031-2025; 2026-07-01에서 필수 새로운 유형 신청) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 필수 견인 배터리 안전 요구 사항 electrified powertrain |
-| GB 18384 전기 차량 안전 필요조건 (GB 18384-2025) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 전기 차량 안전 필요조건 기초 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+GB 38031 견인 건전지 안전 명세 (GB 38031-2025; 2026-07-01에서 필수 새로운 유형 신청) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 필수 견인 배터리 안전 요구 사항 electrified powertrain |
+| GB 18384 전기 차량 안전 필요조건 (GB 18384-2025) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 전기 차량 안전 필요조건 기초 |
 
 *Confidence 참고: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; 미디어 데이터베이스는 VERIFIED가 아닙니다. 범위 가격은 kerb 무게, 최고 속도 및 kWh는 단일 소스입니다 동안 크로스 체크됩니다. CLTC는 중국 사이클 만입니다. 충전 규정은 정확한 VIN에 확인해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
 

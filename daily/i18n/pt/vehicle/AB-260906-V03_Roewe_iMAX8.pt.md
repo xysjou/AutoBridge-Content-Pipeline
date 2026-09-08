@@ -1,16 +1,16 @@
 # Roewe iMAX8: Um MPV China-Mercado de Sete Sedes Referência do comprador para exportação
-## SEO Meta- dados
-- ** Título SEO**: Roewe iMAX8 MPV Especificações de exportação: Assentos, Dimensões, 2.0T Guia do Comprador
-- ** Descrição do Meta**: Referência do mercado chinês para o Roewe iMAX8 7-seat MPV: 2+2+3 lugares e espaço, dimensões, calibrações modelo-ano-dependentes 2.0T mantidas separadas, e etapas de verificação de exportação.
-- ** H1 **: Roewe iMAX8: Um mercado chinês de sete lugares MPV Referência do comprador para exportação
-- **Chave principal**: Roewe iMAX8 expread specs
-- ** Termos de pesquisa secundários**: Roewe iMAX8 MPV; iMAX8 7 assento 2+2+3; iMAX8 dimensões distância entre eixos; SAIC MPV exportação; iMAX8 2.0T Aisin 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍 iMAX8 中国市场版本身份, 座椅空间 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image Suggestion**: Uma vista lateral Roewe iMAX8 MPV destacando sua longa distância entre eixos e portas traseiras deslizantes
-- **ALT Sugestão**: Vista lateral de um Roewe iMAX8 MPV de sete lugares mostrando portas deslizantes e longa distância entre eixos
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: Roewe iMAX8 MPV Especificações de exportação: Assentos, Dimensões, 2.0T Guia do Comprador
+- **Meta descrição**: Referência do mercado chinês para o Roewe iMAX8 7-seat MPV: 2+2+3 lugares e espaço, dimensões, calibrações modelo-ano-dependentes 2.0T mantidos separados, e etapas de verificação de exportação.
+- **H1**: Roewe iMAX8: Um mercado chinês de sete lugares MPV Referência do comprador para exportação
+- **Palavra-chave principal**: Roewe iMAX8 especificações de exportação
+- **Termos de busca secundários**: Roewe iMAX8 MPV; iMAX8 7 assento 2+2+3; iMAX8 dimensões distância entre eixos; SAIC MPV exportação; iMAX8 2.0T aisin 8AT
+- **URL sugerida**: /vehicles/roewe-imax8/
+- **Intenção de busca**: Compreender Roewe iMAX8: Um mercado chinês de sete lugares MPV Referência do comprador para exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Sugestão de imagem**: Uma vista lateral Roewe iMAX8 MPV destacando sua longa distância entre eixos e portas traseiras deslizantes
+- **Texto ALT**: Vista lateral de um Roewe iMAX8 sete lugares MPV mostrando portas de correr e longa distância entre eixos
+- **Escopo do schema**: Artigo + Veículo
 
 The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door,  seven-seat (2+2+3) front-wheel-drive MPV aimed at family  and  utilização de barricadas executivas. Para exportação, um MPV é comprado para o seu assento e espaço primeiro e sua potência em segundo lugar, então esta página leva com arquitetura de cabine. Abrange apenas o **petrol iMAX8**; qualquer variante híbrida ou elétrica iMAX8 é um produto diferente e não é deliberadamente misturado.
 

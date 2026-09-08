@@ -1,16 +1,16 @@
 # 장안 Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
-## ▼ 한국어 메타데이터
-- **SEO 제목 **: 장안 카리엔 F70 중국-시장 픽업 Specs 및 수출 수표|AutoBridge
-- **마타 기술 **: 장안 Kaicene F70 픽업을위한 중국 시장 참조: 표준 대 긴 휠베이스 침대, 본체 -에 프레임 섀시 및 2WD/4WD 레이아웃, 비버 인 견인 / 페이로드 수치가 deliberately 개최.
-- ** H1 **: 장탄 카리엔 F70: 중국 시장 Body-on-Frame 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
-- ** 출원 키워드 **: 장안 카리엔 F70 수출 사양
-- ** 보조 검색 조건 **: 长安凯程 F70; Kaicene F70 치수; F70 긴 침대; JE4D25 디젤 픽업; 중국 픽업 수출; 블루 Whale 긴 침대
-- **수입 URL**: /vehicles/changan-kaicene- f70/
-- ** 수색 **: 面向海外买家介绍长安凯程 F70 中国市场身份, 标轴 / 长轴货箱, 非承载底盘与四驱, 未核实拖拽 / 承载保持待证
-- ** 내부 링크 제안**: /vehicles/qingling-isuzu- kv100/, /vehicles/jmc-ford-transit- t8/, /guides/verify-chinese-car-export-supplier-history/
-- ** 이미지 제안 **: 창안 Kaicene F70 더블 캐비 픽업 사이드 프로파일에서 화물 침대 표시
-- ** ALT 제안**: 두 배 차창 카니엔 F70 픽업의 측면 프로파일은 중립적인 배경에 화물 침대를 보여주는
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 장안 카리엔 F70 중국-시장 픽업 Specs 및 수출 수표|AutoBridge
+- **메타 설명**: 장안 Kaicene F70 픽업을위한 중국 시장 참조: 표준 대 긴 휠베이스 침대, 본체 -에 프레임 섀시 및 2WD/4WD 레이아웃, 비버 인 견인 / 페이로드 수치가 deliberately 개최.
+- **H1**: 장안 Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
+- **주요 키워드**: 장탄 Kaicene F70 수출 specs
+- **보조 검색어**: 长安凯程 F70; Kaicene F70 차원; F70 긴 침대; JE4D25 디젤 픽업; 중국 픽업 수출; 파란 Whale 긴 침대
+- **추천 URL**: /vehicles/changan-kaicene-f70/
+- **검색 의도**: Changan Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: 창안 Kaicene F70 더블 캐브 픽업 사이드 프로파일에서 표시된화물 침대 표시
+- **ALT 텍스트**: 두 배 차창 카니엔 F70 픽업의 측면 프로파일은 중립적인 배경에화물 침대를 표시합니다.
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 The Changan Kaicene F70 is a body-on-frame (non-load-bearing) mid-size pickup offered as a double cab in two-  and  four-wheel drive, 표준  and  긴베드 "블루 Whale" 변형을 포함한 긴 축 / 침대 버전. 픽업 구매자의 경우 결정은 화장품보다는 물리적입니다. ** 침대 길이, 휠베이스, 드라이브 트레인 및 섀시 **, 트럭이 일을 결정하는 로드 / 견인 번호. 이 페이지는 **중국 시장 참조 **입니다. 그것은 단 하나 근원 산출을 피하지 않고, 엔진 가족을 지명하고, deliberately ** withholds**와 더불어 교차 검사한 차원을 고칠하고, OEM 동일한 trim 장 또는 균질화 게시판이 그들을 지원하기 위하여 붙잡기 위하여 붙였습니다.
 

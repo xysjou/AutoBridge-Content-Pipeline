@@ -1,15 +1,17 @@
 # Geely Xingyuan 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV Specs 및 수출 검증
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Xingyuan (갤럭시 싱위안) BEV: 중국 시장 Specs & 수출 가이드
-- **마타 기술 **: 중국 시장 간략한 Xingyuan/Starwish 작은 EV: GEA 건축, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh 라인  and  수출 구매자 체크.
-- ** H1 **: Geely Xingyuan 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV Specs 및 수출 검증
-- ** 출원 키워드**: Geely 吉利 Xingyuan 吉利星愿 (갤럭시 星愿) specs 수출
-- **세컨드리 검색 조건**: 게리 싱위안 수출; 갤럭시 싱위안 사양; 게리 스타워시; 중국 작은 전기 해치백; CLTC 도시 EV
-- **Suggested URL**: /vehicles/geely-xingyuan/
-- ** 수색 **: 了解 게릴리 吉利 싱위안 吉利星愿 (갤럭시 星愿) 中国版规格 、 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: Geely Xingyuan (Galaxy Xingyuan) BEV: 중국 시장 사양 및 수출 가이드
+- **메타 설명**: 중국 시장 간장 Xingyuan/Starwish 작은 EV: GEA 건축, RWD,  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh 라인  and  수출 구매자 체크.
+- **H1**: Geely Xingyuan / 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV 사양 및 수출 검증
+- **주요 키워드**: Geely/吉利 Xingyuan/吉利星愿 (Galaxy 星愿) specs 수출
+- **보조 검색어**: Geely Xingyuan 수출; 은하 Xingyuan specs; Geely Starwish; 중국 작은 전기 hatchback; CLTC 도시 EV
+- **추천 URL**: /vehicles/geely-xingyuan/
+- **검색 의도**: Geely Xingyuan / 갤럭시 싱위 (2025/2026) - 중국 시장 BEV Specs and Export Verification: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 Geely Xingyuan / Galaxy Xingyuan (2025/2026)를 설명합니다 - 중국 시장 BEV Specs 및 수출 Verific, 무대 검사 또는 사람들이 주장.
+- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Geely Xingyuan / Galaxy Xingyuan (2025/2026)와 관련된 주제 - 중국 시장 BEV Specs 및 Expo, 중립 배경, 사람들이 또는 검사 행동이 표시되지 않습니다.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트 및 모델 ID
 **Geely Xingyuan (갤럭시 싱위안,  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, **rear-motor/rear-wheel 드라이브**. 이 페이지는 ** 중국 시장 ** 참고; 해외 모델명은 OEM 문과 동일하지 않습니다.
@@ -53,7 +55,6 @@
 ** 410 km WLTP가 있습니까? ** CLTC 없음.
 **선은 어떻게 되나요?** 현재 IMDG 클래스 (UN3556); 아래 intact 리튬 이온 배터리 EV는 캐리어로 확인합니다.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 진리 싱위
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 진리 Xingyuan
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
@@ -95,6 +96,5 @@
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

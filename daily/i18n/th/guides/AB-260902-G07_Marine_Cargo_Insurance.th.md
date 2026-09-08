@@ -1,14 +1,17 @@
 # ประกันภัยรถโดยสารของ การขนส่งรถโดยสารของจีน: IC (A)/B/(C)), ค่าประกัน และเส้นทางอ้างอิง
-## เชา ข้อมูลกํากับภาพ
-- ประกันภัยนาวิกโยธินสําหรับการนําเข้ารถจีน: ICC คลาสและคําอ้าง
-- ""คําอธิบาย" เพื่อให้แน่ใจว่ารถจีนในทะเลได้อย่างถูกต้อง กรมขนส่งทางทะเล — กรมการันตีคาโกคลอสอย่างเป็นทางการ (A)/(B)/C) ทําไมรถต้องใช้รถออล-ริสก์, กรมควบคุมการคมนาคม CIF/CIP Inctotes 2020 กรมประกัน, การจัดการและเรียกร้องหลักฐาน
-- ~ที่อยู่ URL ที่ถูกรบกวน ~: Guides/Marine-cargo-insuncence-car-import/
-- ** H1 ~: ระดมรถจีนในสมุทร transit: Clase tie, Sum Insized and วิธีเรียกร้องจ่ายจริง
-- ~คําสําคัญในประกาศ ~: ประกันสินค้าทางทะเลนําเข้ารถจีน ICC A BC
-- ~การค้นหาตามวาระ: Institute Cargo Colasts ~ ความเสี่ยงทั้งหมด LMA CL382 CIP Incteries 2020 ICA, CICC ต่ําสุด Hague-Visby cap SDR ประกันภัยรถโรโรโรโร จรวด คุ้มกัน นาวิกโยธิน ไฟไหม้ สิ่งแวดล้อม แบตเตอรี, เชื้อเพลิง EV
-- ** เชื่อมโยงภายใน **: guides/Viide-Ince-Imortment-tt-lc/;///guides/commercial-raft-rangecation-china/;/// guide/chinishe-v-insect-insected position/
-- เคล็ดลับการจําแนกภาพ: ICC ATE ATH/BC capeation Profile; enter- Transfer/insuncence-datety Times by Incceptember; pre-firmed images character seed; part parue vs ช่องว่างรถที่มีค่าพอเหมาะ
-- ข้อเสนอแนะ: "CIFIF กับบริษัทขายประกันของ CIP ภายใต้ Inctotes 2020"; "เงื่อนไขการจําหน่ายรถก่อนการขึ้นทะเบียน".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: ประกันภัยทางทะเลสําหรับนําเข้ารถจีน: ICC กก. และอ้างอิง
+- **คำอธิบาย Meta**: ยืนยันรถจีนในการขนส่งทะเลอย่างถูกต้อง อย่างเป็นทางการของสถาบันคาร์โกคลอส (A)/(B)/(C) ทําไมรถต้องใช้รถออล-ริสก์, CIF/CIP Incoters หนี้สิน 2020, การประชุมรับรองค่าและหลักฐานอ้างอิง
+- **H1**: ค้ําจุนการขนส่งจีนในสมุทร: คลอสเทียร์, ซัมอินซิวัล และวิธีการที่การเรียกร้องได้จ่ายจริง
+- **คีย์เวิร์ดหลัก**: การ ประกัน สินค้า ทาง ทะเล รถจีน ICC เอ บี ซี
+- **คำค้นหารอง**: คอลลิสของสถาบันคาร์โก ความเสี่ยงทั้งหมด LMA CL382 (พ.ศ. CIP อินโคเลเตอร์ 2020 ICC เอ CIF ICC น้อยที่สุด C Hague-Visby SDR แคปพาหะ, ประกันรถโรโรว EV แบตเตอรี่ครอบคลุมนาวิกโยธินดับเพลิง
+- **URL ที่แนะนำ**: /guides/marine-cargo-insurance-car-import/
+- **เจตนาการค้นหา**: เข้าใจการกระตุ้นให้รถจีนในระบบขนส่งมหาสมุทร: คลอส เทียร์, ซัม อินซิซิวัล และวิธีการเรียกร้องเงินที่จ่ายจริง: สิ่งที่นักส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **คำแนะนำรูปภาพ**: ICC ปิรามิด A/B/ C
+- **ข้อความ ALT**: เกา ล์ เกา ล์ พื้นผิว
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
+
 ## การ หลอก ลวง ที่ ทํา ให้ เงิน เสีย ไป
 คนซื้อสันนิษฐานว่า ภายใต้เอฟโอบี หรือ CIF เครือข่ายการให้บริการ ชดเชยทั้งหมด มันไม่ได้ใช้: หนี้สินของการขนส่งนั้นครอบคลุมโดย การชุมนุมระหว่างประเทศ ที่อยู่ต่ํากว่ามูลค่ารถ และสัญญาสินค้าที่คุณเลือก หน้านี้ครอบคลุมการประกันสินค้าสําหรับการขนส่งจากประเทศจีน (เส้นทางมหาสมุทรโลก) — มาตราและคํากล่าวอ้าง แตกต่างจากราคาอินโคเลต และจากตัวเลือกโรโร-vs-v.
 ## ต้น สน สาม ต้น กก สาม ต้น ซึ่ง เป็น ที่ รู้ จัก กัน ดี ใน เรื่อง คํา ศัพท์ ทาง การ
@@ -52,18 +55,18 @@ ICC (A) กว้าง ไม่สมบูรณ์: ปกติการส
 ~ CAIF หรือ CIP — การยกเลิกไหนจะแข็งแกร่งกว่ากัน? ~ ภายใต้ Inceptes 2020 CIP ต้องการอย่างน้อย ICC (A); ค่าปริยาย CIF ไปเป็น ICC (C) เป็นต้น (A) ในการเขียนเมื่อ CIF เรียกค่าที่ต้องการ (A).
 "มีแบตเตอร์รี่อีวีปกคลุมไปด้วยความเสี่ยงทั้งหมดหรือเปล่า" การ ทํา เช่น นี้ ขึ้น อยู่ กับ คํา ที่ ใช้ — จง ประกาศ เรื่อง อี วี และ ได้ รับ การ ยืน ยัน จาก หนังสือ.
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,14 +83,14 @@ ICC (A) กว้าง ไม่สมบูรณ์: ปกติการส
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | สมาคมการตลาดของลอยด์ | สากล | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | ~"ผ่านเข้ามา" | ICC (A) ขอบเขตและห้ามใช้ขอบเขตและความเสี่ยงทั้งหมด; ข้อกําหนดอย่างเป็นทางการการออกเสียง |
-| Inctotes 2010 vs 2020 (CIP) ย้ายจาก ICC (C) ไปยัง ICC (A) | อินเตอร์เนชันแนลแชมเบอร์แห่งการค้า (*อย่างเป็นทางการขององค์กร) | สากล | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | ~"ผ่านเข้ามา" | CIP ถูกยกให้ ICC น้อย (AIF); CIF ยังคงเก็บ ICC (C) |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | สมาคมการตลาดของลอยด์ | สากล | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | ~"ผ่านเข้ามา" | ICC (A) ขอบเขตและห้ามใช้ขอบเขตและความเสี่ยงทั้งหมด; สืบค้นเมื่อ 28 July 20 July 2014. สืบค้นเมื่อ 28 July 2015. สืบค้นเมื่อ 28 January 2015.
+| Inctotes 2010 vs 2020 (CIP) ย้ายจาก ICC (C) ไปยัง ICC (A) | อินเตอร์เนชันแนลแชมเบอร์แห่งการค้า (*อย่างเป็นทางการขององค์กร) | สากล | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | ~"ผ่านเข้ามา" | CIP ถูกยกให้ ICC น้อย (AIF); SIF YG38282828 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – กรมเกษญรณศักดิ์ พ.
 | Incoternation 2020 — CPT หรือ CIP (หน้าที่ประกันผู้ขาย) | ICC Academy (* ICC อย่างเป็นทางการ) | สากล | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | ~"ผ่านเข้ามา" | จ่าย เงิน ของ CIP ไปยังสถานที่ |
 | สถาบันคาร์โก จํานวนวันที่และวันที่และรถโรโร | Voyage cover (นักละเมิดลิขสิทธิ์พิเศษ, อ้างถึง LMA/IUA, Hague-Visby) | สากล | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | ROOS_ CHCKED | CL382/383/384 ตัวเลข 1 Lan 2009 เว็บไซต์ SDR Cup |
-| 110% สัมพันธภาพที่ประกันค่าได้ อัตราความผันผวน | พอร์ตล็อก และ planetcars (ฝุ่น) | สากล | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | ROOS_ CHCKED | Offeral 110% การประชุมและอัตราต่อเรือ; Incoters vs UCP เบสโดดเด่นในร่างกาย |
-| Korea ใช้ car Frienda access access (ICC A/B/C 对比) | ซัม บา | กอลบอล | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | ผู้โดยสาร_ปลายทาง | ICC(A/ B/ C) 覆盖范围 |
+| 110% สัมพันธภาพที่ประกันค่าได้ อัตราความผันผวน | พอร์ตล็อก และ planetcars (ฝุ่น) | สากล | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | ROOS_ CHCKED | Offeral 110% การประชุมและอัตราต่อเรือ; Incoters vs UCP – – – –65656rias mothismigi068 20 พ ฤ ฤ ฤ ฤ,10100000007 –1010. พ. – – อ282838 – – – – – – – – – – – – ก – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – ธิยาภ ภ ภรณ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์
+| เกาหลี ใ ล ล ล ล ล ล ล ล ล ล ล ล อ | | | | | | | | :// :// :// :// :// :// :// :// :// :// :/// sh/ b/ blog/Caian-Car-Carin-Crain-claim 2026 2026-09 02 02 02 ส ส ส ส ส ส ส ส าย าย าย าย าย าย าย าย าย าย | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | คู่มือการส่งออกการบริการ February Media | ซัม บา | กอลบอล | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 车辆推荐 ICC(A) |
-| ซื้อ รถ เมล์ ประกัน: ประกัน ภัย สัม, อัตรา และ การ อ้าง สิทธิ์ | 老金出海 ลาโอจินจูฮา | กอลบอล | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | ผู้โดยสาร_ปลายทาง | CIP 2020 升至 ICC(A) CAIF 最低 ICC (C) |
+| ซ ซ ซ ื ื อ อ อ อ อ ร อ ร อ อ อ อ อ อ ร ร ร ร                   ม ม ม ม ม ม ม ม ม ม น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ประกัน ภัย สัม, อัตรา และ การ อ้าง สิทธิ์ | 老金出海 ลาโอจินจูฮา | กอลบอล | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | ผู้โดยสาร_ปลายทาง | CIP 2020 升至 ICC(A) CAIF 最低 ICC (C) |
 | พาหนะ ที่ กําลัง ค้ําจุน โรโร เว เซลส์ | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | กอลบอล | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | ผู้โดยสาร_ปลายทาง | Hague-Visby 承运人责任上限 、 固有缺陷除外 |
 | ประกันรถโดยสาร | การส่งข้อมูลแอสโคป | กอลบอล | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 一切险 、 战争 罢工附加险 |
 | 中古車輸出の海上保険 (保额公式). | รถ วาง แผน | กอลบอล | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 保险金额 = CAIFx 110% 、 保费公式 |

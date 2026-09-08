@@ -6,7 +6,7 @@
 - **Primary Keyword**: XCMG QY25K5C truck crane export specs
 - **Secondary Search Terms**: XCMG QY25K5C truck crane; 25 ton mobile crane; truck crane chassis superstructure; XCMG lifting load chart; Chinese truck crane export
 - **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Search Intent**: 面向海外B端买家介绍QY25K5C中国市场版本身份、底盘+上装结构/监管类别与版本边界
+- **Search Intent**: Understand XCMG QY25K5C Truck Crane (25-t Class): China-Market Special-Vehicle Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
 - **Image Suggestion**: An XCMG 25-tonne-class truck crane with telescopic boom extended on a worksite
 - **ALT Suggestion**: XCMG QY25K5C-class truck crane with its telescopic boom raised at an outdoor worksite

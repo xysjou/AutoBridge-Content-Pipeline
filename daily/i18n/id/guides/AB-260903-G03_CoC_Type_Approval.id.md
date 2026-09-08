@@ -1,14 +1,16 @@
 # Sertifikat Konformitas vs Tipe Pendekatan: Suatu Penekspos Peta Dokuser Terus Mendapatkan Salah
-## SEO Metadata
-- ** Seo Judul **: Kendaraan CoC vs Tipe Pendekatan (WVTA, OTTS, E-mark) Panduan Pembeli
-- ** Meta Description **: Sertifikat lokal Cina yang tidak terganggu dari destination- CoC, dan EU WVTA, OTTS EEEU EAC dan sistem tanda E-mark - jadi dokumen yang tepat mencapai meja pendaftaran.
-- ** URL yang Disarankan **: guide kendaraan coc -type-approces- berkas-berkas
--   H1 Kendaraan CoC dan Whole- Pendekatan Tipe Kendaraan: Cocok dengan Dokumen Kanan ke Pasar Kanan
-- ** Primer Keyword **: sertifikat kendaraan dari konformitas vs tipe persetujuan wvta otts emark
-- ** Akhir Pencarian Second **: ekspor Cina CoC, EU seluruh tipe kendaraan persetujuan, EEEU OTES EAC, e- tandai vs E-mark, UNECE 1958 tipe persetujuan, pendaftaran dokumen kendaraan
-- ** Informan Link Inserved **: guider chino-excellect -execution-applicuses-customs guide ua- mourcle- registration- dokumen kendaraan saic- maxus - v90-specs/
-- *** Saran Gambar **: diagram dokumentasi-hirarki (tipe persetujuan £CoC); peta sertifikat pasar; perbandingan China CoC vs tujuan CoC
-- ** ALT Sugesti **: "tipe persetujuan untuk sertifikat hirarki konformitas"; "WVTA OTTS E- tandai peta pasar"
+## Metadata SEO
+- **Judul SEO**: Kendaraan CoC vs Tipe Pendekatan (WVTA, OTTS, E- mark) Panduan Pembeli
+- **Deskripsi Meta**: Untangle Cina sertifikat konformitas domestik dari destination- pasar CoC, dan EU WVTA, EAEU OTTS/EAC dan e-mark sistem - jadi dokumen kanan mencapai meja pendaftaran.
+- **H1**: Kendaraan CoC dan Whole- Tipe Persetujuan: Cocok dengan Dokumen Kanan ke Pasar Kanan
+- **Kata kunci utama**: sertifikat konformitas vs tipe persetujuan wvta otts ditandai
+- **Istilah pencarian sekunder**: CINA SPU, EU keseluruhan tipe persetujuan kendaraan, EAEU OTTS EAC, e- mark vs E-mark, UNECE 1958 tipe persetujuan, kendaraan pendaftaran berkas
+- **URL yang disarankan**: /guides/vehicle-coc-type-approval-dossier/
+- **Maksud pencarian**: Memahami Kendaraan CoC dan Whole- Kendaraan Tipe Persetujuan: Cocok dengan Dokumen Kanan ke Pasar Kanan: ekspor bagian-bagian kendaraan harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu urutan.
+- **Saran tautan internal**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
+- **Saran gambar**: document-hierarchy diagram (type approval → CoC)
+- **Teks ALT**: tipe persetujuan ke sertifikat dari artifik konformitas
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Komfusi Inti
 Para peserta berulang kali memperlakukan satu dokumen seolah-olah dokumen itu lain: mereka menyajikan sebuah domestik Cina 合格证 CoC sebagai akses pasar di luar negeri, atau mengasumsikan komponen E-mark sertifikat seluruh kendaraan. Tipe persetujuan dan sertifikat konformitas duduk di tingkat yang berbeda - dan mendapatkan ini salah adalah alasan umum pendaftaran ditolak. Pemandu ini memetakan sistem. ** Catatan Bukti: * Kerangka sisi Cina didasarkan dalam bahan MIIT; deskripsi dari EU EEEU UNECE di bawah ini berasal dari sertifika- penyedia layanan (sekunder), dan teks regulasi sendiri harus ditarik dari EUR- Lex UNECE komisi EAEU sebelum keputusan componan- mereka tidak dikutip di sini sebagai undang-undang utama.
@@ -51,18 +53,18 @@ Apa bedanya WVTA dan CoC? WVTA menyetujui jenis kendaraan di seluruh Uni Eropa; 
 Apa aku butuh perwakilan lokal untuk persetujuan EAEU? ** Pengaturan OTTS EAC umumnya memerlukan perwakilan resmi dalam Uni - mengkonfirmasi teks TR CU 018 saat ini.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf

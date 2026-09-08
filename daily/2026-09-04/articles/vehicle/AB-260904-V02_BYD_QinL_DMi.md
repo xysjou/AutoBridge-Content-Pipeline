@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: BYD Qin L DM-i PHEV Specs & Export Guide (5th-Gen DM, CLTC)
 - **Meta Description**: Chinese-market BYD Qin L DM-i fifth-gen plug-in hybrid — 1.5L dedicated engine, LFP Blade battery 10.08/15.87 kWh, 80/120 km CLTC electric range, and exporter checks.
-- **Suggested URL**: /vehicles/byd-qin-l-dm-i/
 - **H1**: BYD Qin L DM-i (Fifth-Generation DM): Chinese-Market PHEV Specs and Export Notes
 - **Primary Keyword**: byd qin l dm-i specs export
 - **Secondary Search Terms**: Qin L DM-i 120km, fifth generation DM, BYD Blade battery PHEV, Qin L CLTC range, 秦L DM-i export
+- **Suggested URL**: /vehicles/byd-qin-l-dm-i/
+- **Search Intent**: Understand BYD Qin L DM-i (Fifth-Generation DM): Chinese-Market PHEV Specs and Export Notes: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: side profile Qin L DM-i; charging port; Blade battery underfloor diagram; 120km badge; rear cabin
-- **ALT Suggestions**: "BYD Qin L DM-i fifth generation PHEV sedan"; "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
+- **Image Suggestion**: side profile Qin L DM-i; charging port; Blade battery underfloor diagram; 120km badge; rear cabin
+- **ALT Suggestion**: BYD Qin L DM-i fifth generation PHEV sedan
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Read It as a PHEV, Not an EV and Not a Conventional Hybrid
 The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-generation DM** architecture. Exporters most often mis-handle this car in one way: treating the two battery versions as interchangeable. They are not — the 80 km and 120 km electric-range cars carry different battery capacities and different use cases. This page documents the **Chinese-market line (REFERENCE MARKET: CHINA)**; no BYD overseas specification page was captured, so nothing here should be presented as a global or destination spec.

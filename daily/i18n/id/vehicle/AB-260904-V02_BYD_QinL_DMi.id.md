@@ -1,15 +1,17 @@
 # BYD Qin L DM-i (秦 L DM-i): Fifty-Generation PHIV Saloon - China Specs for Explanters
 
-## SEO Metadata
-- ** Judul SEO **: BYD Qin L DM-i PHEV Specs & Ekspor Panduan (5th-Gen DM, CLTC)
-- ** Meta Description **: - Cina - BYD pasar Qin L DM-i fifty-gen-in hybrid - 1.5L berdedikasi mesin,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  cek eksportir.
-- ** Sugested URL **: kendaraan byd-qin-l-dm-i
-- ** H1 ** BYD Qin L DM-i (Lima Generasi DM): Cinese- Pasar PHIV Specs dan Ekspor Catatan
-- ** Primary Keyword **: byd qin l dm-i ekspor spesifikasi
-- ** Akhir Pencarian Second **: Qin L DM-i 120km, generasi kelima DM, BYD Blade baterai PHIV, jangkauan Qin L CLTC, 秦 L DM-i ekspor
-- ** Internal Link Sugestions **: guide evpping- un3556-imdg-compliance/; guide emision- fuel-fueld- compatibily- kendaraan guide export-excel.excutment-package
-- *** Sugestions Gambar **: profil samping Qin L DM-i; pengisian port; Bait Blade diagram di bawah lantai; lencana 120km; kabin belakang
-- ** Sugesti ALT **: "BYD Qin L -i generasi kelima PHEV sedan"; "Qin L DM-i 15.87kWh Blade batre 120km CLTC" "
+## Metadata SEO
+- **Judul SEO**: BYD Qin L DM -i PHEV Specs & Ekspor Panduan (5th-Gen DM, CLTC)
+- **Deskripsi Meta**: Chinese- pasar BYD Qin L DM -i lima- gen hibrida - 1.5L berdedikasi mesin,   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  cek eksportir.
+- **H1**: BYD Qin L DM -i (Lima Generasi DM): Cinese- Market PHEV Specs dan Ekspor Catatan
+- **Kata kunci utama**: byd qin l dm-i ekspor spesifikasi
+- **Istilah pencarian sekunder**: Qin L DM -i 120km, generasi kelima DM, BYD Baterainya PHEV, jangkauan Qin L CLTC, 秦 L DM -i ekspor
+- **URL yang disarankan**: /vehicles/byd-qin-l-dm-i/
+- **Maksud pencarian**: Memahami BYD Qin L DM -i (Lima Generasi DM): Chinice-Market PHEV Specs dan Ekspor Catatan: apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu urutan.
+- **Saran tautan internal**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Saran gambar**: profil samping Qin L DM -i
+- **Teks ALT**: BYD Qin L DM -i generasi kelima PHEV sedan
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Baca Ini sebagai PHIV, bukan EV dan Bukan Hibrida Konvensional
 Qin L DM-i adalah ukuran tengah di bar hybrid dibangun di ** generasi lima DM ** arsitektur. Pengunjung yang paling sering salah-menangani mobil ini dalam satu cara: memperlakukan dua versi baterai sebagai dapat diubah-ubah. Mereka tidak - 80 km dan 120 km mobil elektrik membawa kapasitas baterai yang berbeda dan kasus penggunaan yang berbeda. Halaman ini mendokumentasikan baris pasar ** Cinese- (PENERJEMAH MARKET: CHINA) *; tidak ada halaman spesifikasi BYD yang ditangkap, jadi tidak ada di sini yang harus disajikan sebagai spesifikasi global atau tujuan.

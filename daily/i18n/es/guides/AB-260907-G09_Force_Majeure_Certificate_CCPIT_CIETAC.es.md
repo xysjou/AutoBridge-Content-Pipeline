@@ -1,16 +1,16 @@
 # Un certificado de Majeure de Fuerza CCPIT es un hecho, no un veredicto: Prueba y uso de controversias en contratos de exportación
-## SEO Metadatos
-- **SEO Título**: CCPIT Force Majeure Certificate & CIETAC Route for Exporters TEN AutoBridge
-- **Meta Descripción**: Lo que demuestra un certificado fáctico de fuerza mayor de fuerza de la Cámara de Comercio de China y CCPIT, las pruebas necesarias para obtener una, por qué no es en sí misma una exención legal, y cómo se aplica la mediación de CCPIT o el arbitraje CIETAC.
-- ** H1 **: Un certificado de Majeure de la Fuerza CCPIT es un hecho, no un veredicto: Prueba y uso de controversias en contratos de exportación
-- **Primary Keyword**: certificado de fuerza mayor ccpit cietac arbitration
-- **Segundary Search Terms**: CCPIT force majeure certificate; 不可抗力事实性证明; certificación de la Cámara de Comercio de China; plataforma rzccpit; exportación de pruebas de fuerza mayor; cláusula de arbitraje de CIETAC
-- ** URL agregada**: /guides/force-majeure-certificate-ccpit-cietac-arbitration/
-- **Intent de búsqueda**: 贸促会不可抗力事实性证明证明什么, 需要哪些佐证, 为何不等于法定免责, 以及后续调解 / 仲裁路径
-- **Sugerencias internas**: /guides/china-export-credit-insurance-sinosure/, /guides/export-sales-contract-china-civil-code/, /guides/ipr-customs-recordation-export-protection/
+## Metadatos SEO
+- **Título SEO**: CCPIT Certificado de Majeure de Fuerza & CIETAC Ruta para los exportadores Silencio AutoBridge
+- **Meta descripción**: Lo que demuestra un certificado fáctico de fuerza mayor de la Cámara de Comercio de CCPIT / China, las pruebas necesarias para obtener una, por qué no es en sí misma una exención legal, y cómo se aplica CCPIT mediación o CIETAC arbitraje.
+- **H1**: Un certificado de majeure de fuerza de CCPIT es un hecho, no un veredicto: Prueba y uso de controversias en contratos de exportación
+- **Palabra clave principal**: fuerza mayor certificado ccpit cietac arbitration
+- **Términos de búsqueda secundarios**: CCPIT certificado de fuerza mayor; 不可抗力事实性证明; certificación de la Cámara de Comercio de China; plataforma rzccpit; exportación de pruebas de fuerza mayor; cláusula de arbitraje CIETAC
+- **URL sugerida**: /guides/force-majeure-certificate-ccpit-cietac-arbitration/
+- **Intención de búsqueda**: Comprender un certificado de majeure de la fuerza CCPIT es un hecho, no un veredicto: Evidencia y uso de controversias en contratos de exportación: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-export-credit-insurance-sinosure/, /guides/export-sales-contract-china-civil-code/, /guides/ipr-customs-recordation-export-protection/
 - **Sugerencia de imagen**: Un exportador que asemeja un archivo de pruebas de fuerza mayor con avisos gubernamentales y documentos de envío
-- **ALT Sugerencia**: Escritorio con un archivo de pruebas de fuerza mayor, avisos del gobierno y un documento de reserva
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Escritorio con un archivo de evidencia de fuerza mayor, avisos del gobierno y un documento de reserva
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Cuando una reducción epidémica, un cierre portuario, una restricción de exportación o un desastre natural detiene a un proveedor chino de realizar, los compradores extranjeros a menudo piden "un certificado de fuerza mayor". En China el documento más producido es el certificado fáctico **force majesure (不可抗力事实性证明)** emitido por el **Consejo de China para la Promoción del Comercio Internacional (CCPIT) / Cámara de Comercio Internacional de China** bajo su carta. Lo único más importante que debe entender un exportador y comprador es que este certificado prueba un conjunto de hechos objetivos; no **, por sí mismo, dicta que la parte está legalmente excusada del contrato. Esta guía explica lo que es el certificado, las pruebas necesarias para obtenerlo, el límite entre la prueba fáctica y la fuerza legal mayor, y la corriente descendente de la mediación CCPIT o las rutas de arbitraje CIETAC.
 

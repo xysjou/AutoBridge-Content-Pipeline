@@ -1,15 +1,17 @@
 # Phân loại một xe cộ cho xuất khẩu: Sắp xếp 87.01–87.05 và 8716 xe mòn dưới 2026 Tariff
 
-## SAO Siêu dữ liệu
-- **SEO Title**: xe cộ xuất mã hóa hạng mục HS — 8701/8702/8703/8704/8705/8716
-- **Meta Mô tả**: Làm thế nào mà người xuất khẩu hàng xuất khẩu hàng hải Trung Quốc đã giao cho máy kéo, xe chở khách, xe buýt, xe cộ, xe cộ và xe móc đặc biệt dưới  2026 Import và Xuất khẩu Tariff trước khi bàn về nhiệm vụ hoặc chứng thực.
-- **Sudeest URL**: /guides/vehic-export-hs-de-tode
-- ** H1 Xe nào của tôi? Một hướng dẫn xuất khẩu được xây dựng trên 2026 Tariff
-- ** Từ khoá bí mật **: vehicle export hs code classification 8702 8703 8704 8705
-- **Secondary Search termss**: 8701 máy kéo HS, 8703 xe chở khách HS, 8704 xe chở hàng, 8705 phương tiện đặc biệt có mục đích, 8716 xe moóc HS, 2026 xe xuất khẩu thuế xuất khẩu ở Trung Quốc, chương 87
-- **I nội bộ Link gợi ý**: /guides/china-export-criate-of-origin /vehicles/dong Phong Phong-tanlong-kl /vehicles/dong Phong-tang-tonjin-kr/
-- **Image gợi ý**: _HS đang đi về cây quyết định; xe tải chống máy kéo chống lại biểu tượng xe moóc được thiết lập; việc tuyên bố tập hợp tập tin hải quan
-- **LT Những gợi ý**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Xe xuất HS mã hóa Hướng dẫn — 8701/8702/8703/8704/8705/8716
+- **Meta mô tả**: Làm thế nào mà người xuất khẩu hàng xuất khẩu hàng hóa Trung Quốc đã chỉ định đúng HS hướng tới máy kéo, xe chở khách, xe buýt, xe cộ, xe cộ và xe móc dưới 2026 thông hành và xuất khẩu Tariff trước khi bàn luận về nhiệm vụ hoặc chứng thực.
+- **H1**: HS xe nào đang hướng về tôi? Một hướng dẫn xuất khẩu được xây dựng trên 2026 Tariff
+- **Từ khóa chính**: vehicle export hs code classification 8702 8703 8704 8705
+- **Cụm tìm kiếm phụ**: 8701 máy kéo HS, 8703 xe chở khách HS, 8704 xe chở hàng, 8705 phương tiện đặc biệt, 8716 xe moóc HS, 2026 Xuất khẩu thuế xuất khẩu từ Trung Quốc chương 87
+- **URL đề xuất**: /guides/vehicle-export-hs-code-classification
+- **Ý định tìm kiếm**: Hiểu HS hướng đi của tôi không? Một hướng dẫn xuất khẩu được xây dựng trên 2026 Tariff: một nhà xuất khẩu xe hơi/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Gợi ý hình ảnh**: Cây quyết định HS
+- **Văn bản ALT**: Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Tại sao mọi sự đều có thể xảy ra trước hết?
 Những người xuất khẩu thường bắt đầu bằng một câu Kinh Thánh và phân loại xe hơi như một ý tưởng khác. Đối với xe thương mại và đặc biệt có mục đích mà chuỗi là ngược lại: một cái đầu máy kéo, một chiếc xe tải chở hàng, một chiếc xe tải chở hàng đặc biệt và một toa xe không chia sẻ một thủ tục, và giả sử "đó là tất cả 87.04 "là cách mà hàng được phân loại lại tại hải quan. Quy tắc làm việc trên trang này là **HS- first**: Đóng đinh chính xác hướng và đầu tư quốc gia trước, rồi chuyển sang thuế và phù hợp. Cơ sở hiện tại là phiên bản ** 2026 của tờ báo *Import và Eliff của Cộng hòa Nhân dân Trung Quốc** (được Ủy ban hải quan Tariff của Hội đồng Nhà nước) và phát hành **GACC thông báo thực hiện chương trình điều chỉnh 2026 thuế má**. Four-digit/six-digit headings are comparatively stable; tiểu đề quốc gia mười số  and  Tỷ lệ tạm thời thay đổi với mỗi lần thuế  and  Phải được đưa ra bằng ấn bản.

@@ -1,15 +1,17 @@
 # China- VI Kendaraan Luar Negeri: Standar Emisi, Amandemen 2026 dan Pembeli Kompatibilitas Bahan Bakar Harus Verify
 
-## SEO Metadata
-- ** Judul SEO **: China VI Emisi & Luar Laut Kompatibilitas Bahan Bakar Panduan - GB18352.6 GB17691
-- ** Meta Deskripsi **: Pisahkan lampu-tugas GB18352.6-2016 (XG1-2026 amandemen) dari tugas-GB17691-2018, Cina-VI diesel batas sulphur dan risiko DPF SCR, dan mengapa Cina VI tidak pernah otomatis sama dengan Euro atau persetujuan EPA.
-- ** Sugesti URL **: panduan emilm-fuel-kompabilitas -china- kendaraan
--   H1 Yang mana Aplikasi Standar Emisi, dan Akan pakaian bahan bakar lokal?
-- ** Primary Keyword **: china 6 emisi standar bahan bakar luar negeri kompatibilitas GB18352.6 GB17691
-- ** Secondary Search Terms **: GB18352.6-2016 XG1-2026, GB17691-2018 tugas berat Cina 6, GB19147 diesel sulfur 10ppm, DPF SCR tinggi bahan bakar sulfur, China VI vs Euro equvalence
-- ** Inside Link Sugestions **: guide moidor export -pd-pre- shipts -handover comess jmc-shunda kendaraan dongfeng-tianlong-kl
-- *** Saran Gambar **: light vs split standar berat; diagram pasca-perawatan DPF SCR; sulphur-content gauge; loop verifikasi tujuan
-- "Light- duty GB18352.6 and impliy- duty GB17691 dipisah dengan pemeriksaan kompatibilitas bahan bakar"
+## Metadata SEO
+- **Judul SEO**: Cina VI Emisi & Ketepatan Bahan Bakar Luar Laut Panduan - GB18352.6 / GB17691
+- **Deskripsi Meta**: Dipisahkan lampu GB18352.6-2016 (XG1-2026 amandemen) dari tugas-berat GB17691-2018, Cina - VI diesel sulphur batas dan risiko DPF/SCR, dan mengapa Cina VI tidak pernah otomatis sama dengan Euro atau EPA persetujuan.
+- **H1**: Mengambil Cina - VI Yang mana Aplikasi Standar Emisi, dan Apakah Pakaian Bahan Bakar Lokal itu?
+- **Kata kunci utama**: Cina 6 emisi standar bahan bakar luar negeri kompatibilitas GB18352.6 GB17691
+- **Istilah pencarian sekunder**: GB18352.6-2016 XG1-2026, GB17691-2018 tugas berat Cina 6, GB19147 diesel sulfur 10ppm, DPF SCR tinggi belerang bahan bakar, China VI vs Euro equvalence
+- **URL yang disarankan**: /guides/emission-fuel-compatibility-china-vehicles
+- **Maksud pencarian**: Memahami Mengambil Cina - VI Mobil yang mana yang Emisi Standard Applies, dan akan pakaian bahan bakar lokal? Apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu urutan.
+- **Saran tautan internal**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Saran gambar**: ukuran pecahan standar v berat
+- **Teks ALT**: Light- tugas GB18352.6 dan tugas-berat GB17691 dipisahkan dengan pemeriksaan kompatibilitas bahan bakar
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Mengapa "China VI" Bukan Satu Nomor
 Pembeli sering membaca "China VI 国六" sebagai standar tunggal. Ini bukan: ** tugas-lampu dan kendaraan tugas-duduk di bawah standar Cina berbeda **, dan standar emisi juga berbeda dari ** kompatibilitas bahan bakar ** dan dari * tipe persetujuan tujuan **. Pemandu ini memisahkan ketiga dan menyatakan persis di mana standar akhir resmi Cina dan tujuan verifikasi dimulai.

@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Farizon V6E Electric Cargo Van Specs & Export Buyer Notes
 - **Meta Description**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor, 6 m³ cargo volume, 35.2 kWh/260 km base vs newer 51 kWh build, 90 km/h limit, and a recorded EU-spec Türkiye shipment.
-- **Suggested URL**: /vehicles/farizon-xingxiang-v6e-specs/
 - **H1**: Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs and Export Verification
 - **Primary Keyword**: farizon v6e electric cargo van specs
 - **Secondary Search Terms**: Xingxiang V6E range, Farizon electric delivery van, 6m3 electric van, V6E 35.2 kWh, Farizon Türkiye export, electric city logistics van
+- **Suggested URL**: /vehicles/farizon-xingxiang-v6e-specs/
+- **Search Intent**: Understand Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
-- **Image Suggestions**: cargo bay with dimensions; side loading door; motor/battery layout; leaf-spring rear axle; EU-spec export batch
-- **ALT Suggestions**: "Farizon V6E six cubic metre electric cargo van"; "V6E battery grades and range"
+- **Image Suggestion**: cargo bay with dimensions; side loading door; motor/battery layout; leaf-spring rear axle; EU-spec export batch
+- **ALT Suggestion**: Farizon V6E six cubic metre electric cargo van
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Lock the Battery Year Before Anything Else
 The Xingxiang V6E is Farizon's (Geely's commercial-vehicle brand) **battery-electric urban delivery van**. The single biggest spec risk is model year: the base build uses a **35.2 kWh** pack while a **newer build uses about 51 kWh**, and range changes accordingly. A purchase order that says only "V6E" can be filled with either. This page covers the **Chinese-market V6E (REFERENCE MARKET: CHINA)** and keeps the base and newer builds separate.

@@ -6,7 +6,7 @@
 - **Primary Keyword**: RCEP rules of origin certificate vehicle parts
 - **Secondary Search Terms**: RCEP certificate of origin; RCEP regional cumulation; approved exporter declaration RCEP; back-to-back certificate; RCEP tariff preference auto parts
 - **Suggested URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
-- **Search Intent**: 出口RCEP成员国的整车/零部件如何满足原产地规则、申领原产地证书或经核准出口商声明以享关税优惠
+- **Search Intent**: Understand RCEP Rules of Origin and Certificates: How Vehicles and Auto Parts Claim Preference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: A certificate of origin being prepared alongside packed auto parts for an RCEP destination
 - **ALT Suggestion**: Hands preparing an RCEP certificate of origin next to labelled auto-parts cartons

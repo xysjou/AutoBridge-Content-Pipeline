@@ -1,16 +1,16 @@
 # Bienes de exportación devueltos en China: La Exención de un año de trabajo y la Pista de seis meses de duración
-## SEO Metadatos
-- **SEO Title**: China Regresó la exención de derechos de exportación (Reglas de un año de duración) ← AutoBridge
-- **Meta Descripción**: Cuando los productos de exportación chinos regresaron dentro de un año por razones de calidad o especificación volver a entrar sin derechos en virtud del Decreto 272 del GACC, la regla de comercio electrónico transfronteriza independiente de seis meses, y lo que 'estado original' requiere.
-- ** H1 **: Bienes de exportación devueltos en China: La Exención de un año de trabajo y la Pista de seis meses de duración
-- **Primary Keyword**: exportación de bienes devueltos reglamento de exención de derechos de China
-- ** Términos de búsqueda de la segunda reunión**: 退运货物免税; GACC Orden 272 artículo 49; bienes de exportación devueltos un año; comercio electrónico transfronterizo devolvió mercancías seis meses; reimportación del estado original
-- ** URL agregada**: /guides/export-returned-goods-duty-exemption-regulation/
-- **Intent de búsqueda**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别 y 原状认定与已退税补缴
-- **Sugerencias de Enlace Interno**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+## Metadatos SEO
+- **Título SEO**: China Regresó la exención de derechos de exportación (Reglas de un año & CBEC) TENIDO AutoBridge
+- **Meta descripción**: Cuando los productos de exportación chinos regresaron dentro de un año por razones de calidad o especificación volver a entrar sin derechos en GACC Orden 272, la regla de seis meses de comercio electrónico transfronterizo independiente, y lo que 'estado original' requiere.
+- **H1**: Bienes de exportación devueltos en China: La Exención de un año de trabajo y la Pista de seis meses de duración
+- **Palabra clave principal**: exportación de bienes devueltos reglamento de exención de derechos de mercancías por China
+- **Términos de búsqueda secundarios**: 退运货物免税; GACC Orden 272 artículo 49; bienes de exportación devueltos un año; comercio electrónico transfronterizo devolvió mercancías seis meses; reimportación del estado original
+- **URL sugerida**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Intención de búsqueda**: Comprender los bienes de exportación devueltos en China: La Exención de un año de servicio y la Separación de seis meses de duración de la prueba electrónica: qué un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a una orden.
+- **Sugerencias de enlaces internos**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
 - **Sugerencia de imagen**: Se inspecciona una parte de los vehículos de exportación devueltos contra su documentación original de exportación
-- **Sugerencia de ALT**: Carga devuelta bajo inspección al lado del papeleo original de declaración de exportación
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Cargo devuelto bajo inspección al lado del papeleo original de declaración de exportación
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Cuando los bienes exportados regresan a China —una porción rechazada de partes, un vehículo que no aceptó el destino, un stock de comercio electrónico no vendido—, la suposición predeterminada es que el reimportamiento es un evento imponible. Las normas aduaneras chinas proporcionan una exención específica, pero está condicionada firmemente a por qué las mercancías regresan, cuánto tiempo estuvieron en el extranjero, y si regresan en su estado original. Los exportadores que no tienen condiciones pagan impuestos sobre las importaciones y sobre las mercancías que hicieron originalmente en China. Esta guía separa la regla general de un año de la distinta vía transfronteriza de comercio electrónico de seis meses, explica "Estado original", y las banderas donde una rebate ya reclamada debe ser pagada.
 

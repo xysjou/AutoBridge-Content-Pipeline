@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Middle East/GCC Heat & Dust Vehicle Adaptation Buyer Guide
 - **Meta Description**: What to evaluate with the OEM/upfitter before sending a China-spec vehicle into Gulf heat and dust — ICE cooling/charging/AC and wiring candidates, EV thermal-management options, and the separate GCC/GSO conformity track.
-- **Suggested URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
 - **H1**: Adapting China-Spec Vehicles for Gulf Heat and Dust: Evaluation Points (ICE, EV, Compliance)
 - **Primary Keyword**: middle east gcc heat dust vehicle adaptation spec
 - **Secondary Search Terms**: GCC high temperature vehicle spec, desert dust sealing car, EV battery thermal management hot climate, Middle East AC cooling upgrade, GSO vehicle conformity heat
+- **Suggested URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **Search Intent**: Understand Adapting China-Spec Vehicles for Gulf Heat and Dust: Evaluation Points (ICE, EV, Compliance): what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
-- **Image Suggestions**: heat-load systems diagram (ICE vs EV); dust-ingress points; radiator/AC condenser; battery thermal-management loop
-- **ALT Suggestions**: "ICE versus EV heat adaptation evaluation points"; "Gulf dust ingress protection points"
+- **Image Suggestion**: heat-load systems diagram (ICE vs EV); dust-ingress points; radiator/AC condenser; battery thermal-management loop
+- **ALT Suggestion**: ICE versus EV heat adaptation evaluation points
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Evidence Boundary
 Two evidence layers are kept separate. The **conformity track now rests on primary sources** — the GCC Standardization Organization (GSO) framework, applied nationally by Saudi Arabia through SASO/SABER and by the UAE through MoIAT (ECAS) — and is cited in Sources. The **engineering adaptation items** below (cooling, charging, AC, sealing and EV thermal candidates) still each rest on a single upfit/engineering or industry source and remain SINGLE_SOURCE evaluation points, not Gulf legal requirements. There is no single uniform "Gulf spec": confirm every item with the OEM/upfitter for the model and operating envelope, and against the **destination country's own** application of the GSO text (Saudi and UAE routes differ and are shown separately below).

@@ -1,16 +1,16 @@
 # Dongfang Aiolus yxuan: ประเทศจีน-Maget CMP รุ่นของ SeckSeptember, รุ่นของบรรทัดปัจจุบัน (ปัจจุบัน)
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: Dongfang Aiolus yxuan จีน-Maget Spects และส่งออก Checker Checks | AutoBridge
-- ""คําอธิบาย" อ้างอิงตลาดจีนของดงเฟ็ง อาโอลุส ยีซ็อง ซีดาน CMP: ขนาด 2025 1.5L ในปัจจุบัน เทียบกับแมช 1.5T เก่า แยกกัน และตรวจเช็คระดับ VIN สําหรับผู้ซื้อส่งออก
-- ** H1 ดงฟง อาโอลัส ยิซซัน: ประเทศจีน-มาเก็ต CMP รุ่นของ SeckSeptember, รุ่นของบรรทัดปัจจุบัน (ปัจจุบัน)
-- ~คําสําคัญ~ สุ่มฟรัง อาโอลุส ยิซัว สเปกตรัมส่งออก
-- ~ การค้นหาโดยย่อ ~: 东风风神奕炫; Aeolus yxan dis; yxuan 1.5L WLTC; mach 1.5T ZUV; เครื่องส่งออกซีดานจีน CMUM
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/ ดองเฟ็ง-เอโอลุส-เยจิอัน/
-- สืบค้นเมื่อ 面向海外买家介绍风神奕炫中国市场身份 、 尺寸 、 当前 1.5L 与较早马赫版 1.5T 的版本边界
-- ** เชื่อมโยงภายใน **: / สืบค้น/ สืบค้นข้อมูล/ สืบค้นเมื่อ/////// สืบค้นข้อมูล/ เอกสารอ้างอิง/ เอกสารอ้างอิง – g90/ / guides/vinish-chinish-char-export-sup-supple-history//
-- เคล็ดลับ: รถเก๋ง ดงเฟ็ง อองลัส ยีซัว ซี่ซีดาน ด้านหน้ารถซีดาน
-- ~~~~~~~~~ ข้อเสนอ: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
-- ~Schema Scop~: มาตรา + carb (ไม่มี Prodult/Offer/Price/Review/Ring)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Dongfang Aiolus yxuan จีน-Maget Spects และส่งออก Checker Checks | AutoBridge
+- **คำอธิบาย Meta**: อ้างอิงตลาดจีนของรถเก๋ง อองลัส ยีซ็อง CMP ซีดาน: ขนาด, 2025 1.5L เส้นปัจจุบัน เทียบกับแมช 1.5T เก่าที่แยก และ VIN - เช็คสําหรับผู้ซื้อส่งออก
+- **H1**: Dongfang Aiolus yxuan: ประเทศจีน-Maget CMP รุ่นของ SeckSeptember, รุ่นของบรรทัดปัจจุบัน (ปัจจุบัน)
+- **คีย์เวิร์ดหลัก**: สุ่มฟรัง อาโอลุส ยิซัว สเปกตรัมส่งออก
+- **คำค้นหารอง**: 东风风神奕炫; Aiolus yxuan dis; yxuan 1.5L WLTC;; Mach 1.5T ซีดาน; จีน CMP การส่งออกซีดาน
+- **URL ที่แนะนำ**: /vehicles/dongfeng-aeolus-yixuan/
+- **เจตนาการค้นหา**: เข้าใจ ดง เฟ็ง อาโอลุส ยีซัว: ประเทศจีน-มาเกะ CMP Facter Sedan Resourcess, line vs Mach รุ่นปัจจุบัน: สิ่งที่ผู้ส่งออกรถ/ parts ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนที่จะทําการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **คำแนะนำรูปภาพ**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
+- **ข้อความ ALT**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 The Dongfeng Aeolus Yixuan (风神奕炫) is the compact three-box/fastback sedan built on the CMP platform  and  ขายในประเทศจีนภายใต้อาโอลูสของดงเฟ็ง (เฟนเชน) แบรนด์ผู้โดยสาร-Veecle (ฝรั่งเศส) ความเสี่ยงของผู้ซื้อในโมเดลนี้ เป็นช่วงเวลาชั่วคราว มากกว่าโครงสร้าง 2025 ปัจจุบัน ทางลาดคือรถที่วัดได้ 1.5-litre คัน  while the higher-output "Mach" (马赫) 1.5T belongs to an earlier 2022/2023 powertrain wave. การอ้างถึงผลลัพธ์ของโปรเทอร์โบที่เก่ากว่า ราวกับว่าเป็นซีดานปัจจุบัน เป็นข้อผิดพลาดของรุ่นที่นิยมมาก หน้านี้มีชื่อเกี่ยวกับ ~Chinese-มาร์เก็ต~ ไม่ใช่แผ่นสเปกตรัมทั่วไป รุ่นของส่งออก-ตลาดต้องการหลักฐาน OEM แยกกัน และแหล่งส่งออกซิงเกิลจะถูกตรวจจับเพื่อยืนยัน
 

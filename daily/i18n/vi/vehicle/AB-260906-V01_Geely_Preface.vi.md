@@ -1,16 +1,16 @@
 # Mặt tiền đáng kinh ngạc (Xingrui): A China-Market CMA Tham khảo bộ mua hàng Sedan để xuất khẩu
-## SAO Siêu dữ liệu
-- **SEEO Titry**: Geely Preface (Xingrui) Xuất tinh, Trims and Buys checks
-- **Meta Mô tả**: sự tham khảo thị trường Trung Quốc cho chiếc sedan Prely/Xingrui CMA: cơ thể và kích thước, 1.5T và 2.0T biến thể được giữ riêng biệt, và những gì một người mua ở nước ngoài phải xác nhận bởi VA.
-- ** H1 **: Geely Preface (Xingrui): A China-Market CMA Tham khảo bộ mua hàng Sedan để xuất khẩu
-- ** Từ khoá bí mật **: Những thông số kỹ thuật xuất bản của Xingrui thật đáng kinh ngạc
-- **Secondary Search termss**: Geely Preface CMA sedan; các chiều Xingrui; Mặt trước kỳ diệu 2.0T 8AT; xe sedan Trung Quốc xuất khẩu ma trận; trước khi đi cắt tỉa sự khác biệt
-- **Suggested URL**: /vehicles/geely-preface/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍 Preface(星瑞) 中国市场版本身份  尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- **Image surngs**: một sedan trắng của giáo phái tiền nhiệm CNMA hiển thị từ phía trước ba phần tư trong một phòng thu sạch
-- **LT Gợi ý**: trước xem ba phần tư của một chiếc xe sedan mặt Geely trên nền trung lập
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Hình mẫu lạ lùng (Xingrui) Xuất tinh, Trims và Tracker checks
+- **Meta mô tả**: Chinese-market reference for the Geely Preface/Xingrui  CMA  sedan: thân  and  Kích thước, 1.5T  and  2.0T biến thể tách biệt,  and  what an overseas buyer must verify by  VIN .
+- **H1**: Mặt tiền đáng kinh ngạc (Xingrui): A China-Market CMA Tham khảo bộ mua hàng Sedan để xuất khẩu
+- **Từ khóa chính**: Những thông số kỹ thuật xuất bản của Xingrui thật đáng kinh ngạc
+- **Cụm tìm kiếm phụ**: Tuyệt vời Preface CMA sedan; các chiều Xingrui; Mặt trước kỳ diệu 2.0T 8AT; xe sedan Trung Quốc xuất khẩu ma trận; trước khi đi cắt tỉa sự khác biệt
+- **URL đề xuất**: /vehicles/geely-preface/
+- **Ý định tìm kiếm**: Hiểu được định kiến của người Trung Quốc: A China-Market CMA Người mua sách tham khảo cho xuất khẩu: người xuất khẩu xe/một phần phải xác minh điều gì, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **Gợi ý hình ảnh**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
+- **Văn bản ALT**: Cảnh trước ba phần tư là chiếc sedan mặt trước của người Geely ở nền trung lập
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 The Geely Preface (Tên tiếng Trung Hoa là Xe ngựa bốn cửa, xe ngựa bốn bánh, được phát triển trên CMA (Actat Modular Adrui) chia sẻ với các sản phẩm của nhóm Geely. Đối với một người mua hàng từ Trung Quốc, quy luật chủ yếu là kiểm soát phiên bản: đường dây đã được bán trong nhiều năm với 1.5-litre và 2.0-litre xe tăng tốc, và những con số quyền lực khác nhau được trích dẫn giữa việc cắt tỉa cũ và mới hơn. Trang này là một tham chiếu thị trường Trung Hoa **; nó không phải là một tờ đặc tả toàn cầu, và bất kỳ thị trường xuất khẩu nào phải được chứng minh riêng lẻ.**
 

@@ -1,16 +1,21 @@
-# Geely Preface (Xingrui): A China-Market CMA Sedan Buyer Reference for Export
-## SEO Metadata
-- ** عنوان المنظمة**: جيلي بريفيس (Xingrui) تصدير سبيكس، تريمز، شيكات شراء
-- ** وصف البيانات**: مرجع السوق الصينية لسيارات جيلي بريفيس/Xingrui CMA: الجسم والأبعاد، و1.5T و2.0T متبخرين ظلوا منفصلين، وما يجب على المشتري في الخارج أن يتحقق من خلال شبكة المعلومات الشخصية.
-- ** H1 **** جيلي بريفيس (Xingrui): A China-Market CMA Sedan Buyer Reference for Export**
-- ** كلمة رئيسية**: مواصفات تصدير جييلي بريفيس إكينغروي
-- ** مصطلحات البحث الثانية**: السيد جيلي بريفيس سي إم سيدان؛ أبعاد شنغروي؛ Geely Preface 2.0T 8AT؛ الصينية الصينية المشهد الصيني؛ الاختلافات في الترايم قبل الترس
-- **Suggested URL**: /vehicles/geely-preface/
-- ** الحلقة الدراسية**: 面向海外 B 端买家介绍 Preface(星瑞) 中国市场版本身份 bu尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+# جيلي بريفيس (Xingrui): A China-Market CMA Sedan Buyer Reference for Export
+## بيانات SEO الوصفية
+- **عنوان SEO**: Geely Preface (Xingrui) Export Specs, Trims and Buyer checks
+- **وصف Meta**: إشارة السوق الصينية إلى سيارة جيلي بريفيس/Xingrui CMA الجسم  and  الأبعاد 1.5T  and  2.0T متبديلاً ظلوا منفصلين  and  ما يجب على المشتري في الخارج أن يتحقق منه بـ VIN
+- **H1**: جيلي بريفيس (Xingrui): A China-Market CMA Sedan Buyer Reference for Export
+- **الكلمة المفتاحية الرئيسية**: مواصفات تصدير جييلي بريفيس إكينغروي
+- **مصطلحات بحث ثانوية**: Geely Preface CMA sedan; Xingrui dimensions; Geely Preface 2.0T 8AT؛ الصينية الصينية المطياف للصين؛ الفروق في الترايم قبل الترس
+- **URL المقترح**: /vehicles/geely-preface/
+- **نية البحث**: (أ) صين - مريخ CMA Sedan Buyer Reference for Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **اقتراح الصورة**: سيارة ركاب بيضاء من طراز جيلي برايس CMA تظهر من أمام ثلاثة أرباع في استوديو نظيف
+- **نص ALT**: رؤية ثلاث أرباع سيارة (جيلي بريفيس) على خلفية محايدة
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
+
+** مقترحات داخلية بشأن الروابط**: /مركبات/فتيات /جيلي - بويو -ل/عوامل/غالية - جي - إي/8/، و/أو أضواء/تحقيق - تاريخ مستورد/سيارات صينية/سيارات
 - ** اقتراح مقدم**: سيارة ركاب بيضاء من طراز Geely Preface CMA مبيّنة من أمام ثلاثة أرباع في استوديو نظيف
 - ** اقتراح**: نظرة ثلاثية أرباع لسيارات جيلي بريفيس على خلفية محايدة
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-drive four-door sedan Geely developed on the CMA (Compact Modular Architecture) shared with wider Geely-group products. وبالنسبة لمشتري خارجي يستعينون من الصين، فإن الانضباط الرئيسي هو مراقبة النسخ: فقد بيع الخط عبر عدة سنوات نموذجية مع ما يتراوح بين 1.5-litre و 2.0-litre من مضيق تروبو للكهرباء، وتختلف أرقام الطاقة المستعارة بين ثلاثيات كبار السن والأحدث. هذه الصفحة هي مرجع تجاري مسموع**؛ وليست ورقة عالمية للمواصفات، ويجب أن يُدل على كل مكان على حدة.**
 
@@ -18,7 +23,7 @@ The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-dri
 
 - الجثة: أربعة أبواب، خمسة مقاعد، سيدان، محرك رأس، على منصة CMA.
 - الأبعاد المرجعية (السوق الصينية، خط دونغفانغياو - era الحالي): 4785 × 1869 × 1469 mm مع 2800 mm قاعدة عجلة؛ وتشير قائمة خط أقدم إلى وجود 4825 mm طول بالنسبة لهيئة مختلفة في السنة النموذجية، بحيث تضاهي طولها للسنة المحددة.
-- Suspension: MacPherson strut at the front and multi-link independent rear, consistent with the CMA layout.
+- تعليق: (ماكفيرسون) تشق طريقه في الجبهة و عدة وصلات مستقلة، بما يتفق مع مخططات (كامي)
 
 ## متغيرات الطاقة - إبقاؤها منفصلة، لا متوسط
 
@@ -89,7 +94,7 @@ The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-dri
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق بدقة من الذي يُعدّه في الصين |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA(中国市场参考规格; 出口 右舵版本无 OEM 证据, 须另证)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

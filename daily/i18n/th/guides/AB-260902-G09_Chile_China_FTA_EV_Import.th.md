@@ -1,14 +1,17 @@
 # นําเข้ารถจีนเข้าไปในชิลี: FTA ข้อเสนอ IVA และ 3CV ขั้นการเลียนแบบ
-## เชา ข้อมูลกํากับภาพ
-- <EEO ชื่อเพลง: นําเข้า EVs จีนไปยังชิลี: FTA Pettection, IVA & 3CV ทิศทาง:
-- ""คําอธิบาย" วิธีการที่จีน-จีน-จีนใช้แทนรถที่ผลิตมาจากจีน ศุลกากรชิลี 6% หน้าที่ทั่วไป และ IVA 19% ยืนยันอย่างเป็นทางการว่า ทําไมใบประกาศกําเนิดจึงเป็นสภาวะ และวิธีการที่ 3CV ตรงกับความเหมาะสมของ การรักร่วมเพศ
-- ~ที่อยู่ URL ที่ถูกย่อ: guides/import-chinse-v-chle-fa/
-- ** H1 ~: รถจีนเข้าชิลี: การใช้เอฟทีเอเอที่อ้างอิงโดยไม่มีค่าใช้จ่ายที่คํานวณได้
-- ~คําสําคัญ~ ชิลี การขนส่งรถ ATA หน้าที่ IVA เลียนแบบ
-- ~การค้นหาตามวาระที่: ~ ชิลี อะดูนา 6% อเรเลนซ์ ชิลี IVA 19%. กรมทะเบียนประเทศจีนแห่งประเทศชิลี แหล่งที่มา, ชิลี 3CV โฮโมโลเลชั่น, เซอร์ติกาโด หรือจีนิก เทอร์ติกาโด หรือ ธีแอลซี จีนชิลี, อีวีนําเข้าชิลี
-- ~ เชื่อมโยงภายใน~: Guides/Vielic-import-tt-lc/; Guides/marins-cargo-incure-incure-car-imsport/;//// visics/by-ian-+/
-- ** ข้อเสนอแนะของ UNIME*: น้ําตกภาษีของชิลี; ใบรับรอง ATA-Origin การไหล; 3CV ขั้นการรักร่วมเพศ
-- ~จดหมายแนะนํา: "ค่าธรรมเนียมการนําเข้าของจีน: หน้าหน้าที่ ปะทะ IVA""FA ใบรับรองของความต้องการต้นกําเนิด". "Chel 3CV โพรเซสการรักประเวณี".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: นําเข้า EVs จีนไปยังชิลี: FTA Pettiple, IVA & 3CV ทิศทาง:
+- **คำอธิบาย Meta**: วิธีที่จีน-จีน-จีน FTA ทํางานกับรถที่ผลิตในจีน ศุลกากรชิลี 6% หน้าที่ทั่วไป และ 19% IVA ยืนยันอย่างเป็นทางการว่า ทําไมใบประกาศกําเนิดจึงเป็นเงื่อนไข และวิธีการที่ 3CV ตรงกับการแบ่งเพศของพระบรมวงศ์ (พ.ศ.
+- **H1**: รถ พาหนะ จีน ชิลี: ใช้ เงิน FTA บาท โดย ไม่ ต้อง คํานวณ ราคา ที่ ต้อง จ่าย
+- **คีย์เวิร์ดหลัก**: ชิลี ประเทศจีน FTA พาหนะนําเข้าที่ IVA เปิดตัว
+- **คำค้นหารอง**: ชิลี อะดูนา 6% อนิเมะเรชั่น, ชิลี IVA 19% นําเข้า, จีนไนจีเรีย FTA ใบชื่อเดิม, ชิลี 3CV กรมธรรม์, เซอติลิกาโด หรือเยอนิเมเนีย TLC จีนชิลี, EV นําเข้าชิลี
+- **URL ที่แนะนำ**: /guides/import-chinese-ev-chile-fta/
+- **เจตนาการค้นหา**: เข้าใจ รถ พาหนะ จีน สู่ ชิลี: ใช้ รถ ที่ มี ความ สําคัญ FTA คัน โดย ไม่ มี การ คํานวณ ผิด ค่าใช้ต่าง ๆ ที่นํามาขึ้นเครื่อง: ตัวส่งออกรถ/ parts ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **คำแนะนำรูปภาพ**: ที่อยู่เว็บไซต์นี้ จะทําการลดขนาดการเก็บภาษีลงต่ํา
+- **ข้อความ ALT**: ค่าใช้จ่ายนําเข้าจากที่อยู่อีเ_มล: pread positions from IVA
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
+
 ## โอกาส และ การ คํานวณ ผิด พลาด ที่ เกิด ขึ้น
 ชิลีดําเนินการจัดการข้อตกลงเสรีกับหุ้นส่วนหลัก รวมทั้งประเทศจีนด้วย รถที่รวมเข้ากับภาษาจีนใช้แทนได้ โดยใช้รุ่น FTA (ad-valorem 0%) ในขณะที่บริการ ad-footeral ad-volorm ของชิลีคือ 6% ของ ศุลกากร ศุภรณ์ CAF * สําหรับแหล่งกําเนิดที่ไม่อ้างอิงของสารานุกรม ปัจจุบันถูกจําแนกไปยังแหล่งกําเนิดอย่างเป็นทางการ (ล่าง). ข้อผิดพลาดที่เกิดขึ้นซ้ําการอ่าน "FTA 0% หน้า" เป็น "ค่าใช้จ่าย 0%". มันไม่ใช่... 19% IVA ยังคงใช้อยู่ 0% ขึ้นอยู่กับที่มาของการพิสูจน์ และโฮโมโลเลชันเป็นสายน้ําแยกที่ทํางาน ไกด์นี้เจาะจงถึง... ไชล
 ## สแต็กภาษีเส้นเส้น (การวางตัวแบบไม่เป็นทางการ)
@@ -53,18 +56,18 @@ FTA ชอบใช้เฉพาะที่ <i> เก็บข้อมู�
 ~ 3CV ได้เท่าไหร่ และค่าใช้จ่ายคืออะไร~ โพรเซสการแบ่งประเภทรถของชิลี; มันทําการลงทะเบียนเกตและเวลาค่าธรรมเนียมของมัน จะต้องอ้างถึงโดยช่างทํายา -- บทความนี้ไม่สามารถยืนยันหมายเลขคงที่ได้
 "การตัดเอเน็ค อีวี-ดูตี้ในกําลังหรือเปล่า" ไม่ — เป็นข้อเสนอของสมาคม 2026 ไม่ใช่ออกกฎหมาย ตรวจดูการจัดส่งสินค้าอีกครั้ง
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf
@@ -81,9 +84,9 @@ FTA ชอบใช้เฉพาะที่ <i> เก็บข้อมู�
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| "Shelp Cuale ลูกชาย los mpustos que debo laga al praear?" (6% CIF+ 19% IVA on CIF+daty, example) | ศุลกากร nacial de Aduanas (*ศุลกากรจีน กรมศุลกากรรัฐบาล) | สี | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ~"ผ่านเข้ามา" | พลเอก 6% ad-valorem on CIFF; 19% IVA ฐาน |
-| "Iracyon de veiculos" (หน้าที่ลูกวัว 6% + IVA 19%). | เซอซิโอ นาซิโอ เดอ อาดูนาส (*เจ้าหน้าที่รัฐบาล) | สี | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ~"ผ่านเข้ามา" | ISA แจ้งว่า ความแตกต่างระหว่างบริการ-firue |
-| ไชน่า – ไชลล์ เอฟทีเอ (0% สําหรับที่มาของคุณสมบัติ), ฐานใบรับรอง | OMFCOM ภาระกิจจีนในชิลี (* การค้าเชิงพาณิชย์*) | CL/ CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ~"ผ่านเข้ามา" | FTA 0% ช่องโปรด; เงื่อนไขกําเนิด |
+| "Shelp Cuale ลูกชาย los mpustos que debo laga al praear?" (6% CIF+ 19% IVA on CIF+daty, example) | ศุลกากร nacial de Aduanas (*ศุลกากรจีน กรมศุลกากรรัฐบาล) | สี | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ~"ผ่านเข้ามา" | พลเอก 6% ad-valorem on CIFF; 19% IVA ManGS.
+| "Iracyon de veiculos" (bases/696/7383838". สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. 6% + IVA 19%). | เซอซิโอ นาซิโอ เดอ อาดูนาส (*เจ้าหน้าที่รัฐบาล) | สี | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ~"ผ่านเข้ามา" | ISA แจ้งว่า ความแตกต่างระหว่างบริการ-firue |
+| ไชน่า – ไชลล์ เอฟทีเอ (0% สําหรับที่มาของคุณสมบัติ), ฐานใบรับรอง | OMFCOM ภาระกิจจีนในชิลี (* การค้าเชิงพาณิชย์*) | CL/ CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ~"ผ่านเข้ามา" | FTA 0% ช่องโปรด; ○ ○ ○
 | เอเอ็นเอซีหกมาตรการที่จะทําให้อีวีถูกกว่า (แต่ไม่ใช่กฎหมาย) | AUTOGUA (สื่อรถยนต์ของจีน) | สี | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | สถานะ การ เสนอ — ไม่ ได้ ทํา ขึ้น อย่าง ชัดเจน |
 | ลอส คอน ตา โดส์ — 智利 2026 关税 | Los Controdoes (智利本地财税) | สี | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 2026 普通关税 6%、自贸国 0%、IVA 19% |
 | จิน ยู ออ โต โตส — 中国车进口智利指南 | จินยูออโต้ (行业站) | สี | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 中智 FTA 0% 关税通道 |

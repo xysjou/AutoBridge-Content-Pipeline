@@ -1,15 +1,17 @@
 # Benötigt ein Fahrzeug eine gesetzliche Inspektion vor dem Export? Ein China-Seite, HS-by-HS Decision Guide
 
-## SEO Metadaten
-- **SEO Titel**: China Vehicle Export Gesetzliche Inspektion & Erklärung Guide (HS-by-HS)
-- **Meta Description**: Es gibt keine pauschale ja/nein — den genauen 10-digit HS-Code bestimmen; den aktuellen gesetzlichen Kontrollkatalog überprüfen  and  die zollamtliche Überwachung dieses Codes,  and  separate gesetzliche Kontrolle vom Käufer PSI  and  die BEV-Ausfuhrlizenz.
-- **Vorgeschlagene URL**: /guides/china-export-statutory-inspection-deklaration
-- ** H1 **: Gesetzliche Inspektions- und Zollerklärung für ein exportiertes Fahrzeug: Entscheiden Sie es durch 10-Digit HS, nicht durch Verallgemeinerung
-- ** Primäres Schlüsselwort**: China Export gesetzlich vorgeschriebene Zollanmeldung Fahrzeuge
-- **Secondary Search Terms**: 法定检验 出口 目录, GACC Order 277 Deklaration, Export Ware Inspektion Katalog, BEV Exportlizenz 2026, PSI vs gesetzliche Inspektion
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-certificate-of origin/
-- **Bildvorschläge**: HS→Katalog→Beaufsichtigungsbedingung Entscheidungsfluss; Gesetzliches vs PSI vs Exportlizenz Dreispurdiagramm; Zollversiegelung
-- **ALT Vorschläge **: "China Export gesetzliche Inspektion von 10-digit HS und aktuellen Katalog beschlossen"
+## SEO-Metadaten
+- **SEO-Titel**: China Vehicle Export Gesetzliche Inspektion & Erklärung Guide (HS -by- HS)
+- **Meta-Beschreibung**: There is no blanket yes/no — determine the exact 10-digit  HS  code, den aktuellen gesetzlichen Kontrollkatalog überprüfen  and  die zollamtliche Überwachung dieses Codes,  and  separate gesetzliche Kontrolle vom Käufer PSI   and  the  BEV  export licence.
+- **H1**: Gesetzliche Inspektion und Zollerklärung für ein exportiertes Fahrzeug: Entscheidung Es von 10-Digit HS, nicht durch Verallgemeinerung
+- **Haupt-Keyword**: China Ausfuhr gesetzlich vorgeschriebene Zollanmeldung Fahrzeuge
+- **Sekundäre Suchbegriffe**: 法定检验 出口 目录, GACC Bestell-277 Erklärung, Exportwarenkontrollkatalog, BEV Ausfuhrlizenz 2026, PSI vs. gesetzliche Kontrolle
+- **Vorgeschlagene URL**: /guides/china-export-statutory-inspection-declaration
+- **Suchabsicht**: Verstehen Sie die gesetzliche Inspektions- und Zollerklärung für ein exportiertes Fahrzeug: Entscheiden Sie Es von 10-Digit HS, Nicht durch Verallgemeinerung: was ein Fahrzeug / Teile Exporteur muss überprüfen, dokumentieren und entscheiden, bevor sie zu einer Bestellung verpflichten.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
+- **Bildvorschlag**: HS →Katalog →Beaufsichtigungs-Entscheidungsfluss
+- **ALT-Text**: China Export gesetzliche Inspektion beschlossen von 10-digit HS und aktuellen Katalog
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Die Frage hat keine einzige Ja/Nein-Antwort
 "Müssen chinesische Fahrzeuge vor dem Export gesetzliche Inspektionen durchführen?" Eine Decke "alle Autos müssen" oder "keine Autos brauchen es" ist die falsche Antwort. Ob eine bestimmte Sendung **ausfuhrgesetzlich kontrolliert wird **ihr exakter zehnstelliger HS-Code **, gelesen mit dem **aktuellen *Katalog der **Einfuhr- und Ausfuhrwaren, die der gesetzlichen Kontrolle unterliegen ** und der **Zollüberwachungsbedingung der Kategorie Inspektion und Quarantäne ** dieses Codes. Diese Seite beschreibt den Rahmen für die Exportseite Chinas und die Entscheidungsmethode; sie behauptet kein Katalogergebnis für einen Code, den sie nicht live überprüft hat. Das Ergebnis ist daher **bedingter Nachweis**: Der rechtliche Rahmen wird überprüft, aber der Katalogstatus jedes Fahrzeugs muss zum Zeitpunkt der Erklärung pro Code bestätigt werden.

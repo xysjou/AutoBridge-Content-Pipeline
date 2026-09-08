@@ -1,14 +1,16 @@
 # Geely Emgrand (4th Gen) 2024: une fiche de spécifications pour les exportateurs sur les berlines d'entrée sur le marché chinois
-## OEuvre Métadonnées
-- ** Titre du référencement**: Geely Emgrand 2024 (4th Gen) Spécifications et Guide à l'acheteur à l'exportation
-- **Description de la Meta**: marché chinois 4th-generation Geely Emgrand 2024 — 1.5L 93 kW, moteur 5MT/CVT, dimensions, la distinction 4th-gen vs tout nouveau 5th-gen, et ce que les importateurs doivent vérifier avant de commander.
-- **URL suggérée**: /véhicules/geely-emgrand/
-- ** H1 **: Geely Emgrand 2024 (4th Génération): Spécifications du marché chinois et contrôles à l'exportation
-- **Mot-clé principal**: exportation de spécifications Geely emgrand 2024
-- ** Termes de recherche secondaires**: Geely Emgrand 1.5L CVT, 4th génération Emgrand dimensions, Chinese entry berline export, Geely Emgrand 93kW, Emgrand modèle année différence
-- **Suggestions de lien interne**: /véhicules/changan-cs75-plus/; /guides/véhicule-coc-type-reception-dossier/; /guides/conteneur-véhicule-chargement-retirement/
-- **Suggestions d'image**: avant trois-quarts de 4th-gen Emgrand; 5MT vs CVT drivetrain note; place arrière et espace de démarrage; blaireau du compartiment moteur 1.5L
-- ** Suggestions ALT**: "Geely Emgrand quatrième génération 1.5L berline"; "Emgrand 2024 dimensions et empattement"
+## Métadonnées SEO
+- **Titre SEO**: Geely Emgrand 2024 (4th Gen) Spécifications et Guide à l'acheteur d'exportation
+- **Description meta**: Marché chinois 4th-generation Geely Emgrand 2024 — 1.5L 93 kW, 5MT/ CVT, dimensions, la distinction 4th-gen vs tout nouveau 5th-gen, et ce que les importateurs doivent vérifier avant de commander.
+- **H1**: Geely Emgrand 2024 (4th Génération): Spécifications du marché chinois et contrôles à l'exportation
+- **Mot-clé principal**: exportations de specs emery emgrand 2024
+- **Termes de recherche secondaires**: Geely Emgrand 1.5L CVT, 4th génération Emgrand dimensions, Chinese entry berline export, Geely Emgrand 93kW, Emgrand modèle année différence
+- **URL suggérée**: /vehicles/geely-emgrand/
+- **Intention de recherche**: Comprendre Geely Emgrand 2024 (4th Génération): Spécifications du marché chinois et contrôles à l'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **Suggestion d'image**: avant trois-quarts de 4th-gen Emgrand
+- **Texte ALT**: Geely Emgrand fourth generation 1.5L sedan
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte acheteur: Pin the Generation avant que vous épinglez le prix
 L'Emgrand est le saloon compact de Geely et un candidat naturel pour les marchés d'entrée sensibles aux prix. Le piège d'un importateur est générationnel: cette page couvre la voiture de marché chinois ** 4th-generation 2024 (MARCHANDISE DE LA RÉFÉRENCE: CHINE)**, tandis qu'une nouvelle génération de 5th lancée en Chine en novembre 2025 ** avec un corps plus long, un empattement plus long et un prix de départ plus bas. Citer une unité 2024 par rapport aux dimensions 5th-gen — ou vice versa — est l'erreur de commande la plus courante sur cette plaque. Traiter chaque chiffre ci-dessous comme une spécification de référence du marché chinois**; la configuration, le stade d'émission et l'équipement du marché de destination sont régis par l'homologation locale, et non par cette feuille.
@@ -54,30 +56,30 @@ Aucun prix à l'exportation statique n'est publié. Le RMB 69 environ, 900 Le ch
 **Le moteur 1.5L est-il puissant?** 93 kW (environ 127 PS) avec 127 N·m sur la feuille de référence chinoise; vérifier la garniture exacte.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

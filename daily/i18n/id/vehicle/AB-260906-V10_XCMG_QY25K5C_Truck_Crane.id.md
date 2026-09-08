@@ -1,16 +1,16 @@
 # XCMG QY25K5C Truk Crane (25-t Kelas): Special- Pasar Cina - Kendaraan Expor Referensi
-## SEO Metadata
-- **SEO Title**: XCMG QY25K5C 25t Truk Crane Ekspor Referensi: Chassis & Superstruktur Panduan
-- ** Meta Description **: Referensi pasar Cina untuk truk derek XCMG QY25K5C 25-tonne-class: bagaimana derek truk bergerak terbagi menjadi chassis pembawa dan mengangkat suprastruktur, status regulasi di Cina, dan pembeli dokumen load- bagan harus mendapatkan.
-- ** H1 **: XCMG QY25K5C Truk Crane (25-t Kelas): Special- Pasar Cina - Referensi Expor
-- ** Primer Keyword **: XCMG QY25K5C spesifikasi ekspor truk derek
-- ** Akhir Pencarian Second *: XCMG QY25K5C derek truk; 25 ton crane mobile; crane crans truk chassis superstruktur; XCMG mengangkat grafik; ekspor truk Cina**
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- ** Cari Intent **: 面向海外 B 端买家介绍 QY25K5C 中国市场版本身份: 底盘 + 上装结构 监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
-- Sebuah XCMG 25-tonne-class derek truk dengan bom telescopic diperpanjang di situs kerja
-- ** ALT Saran **: XCMG QY25K5C-class crane truk dengan boom teleskopik yang terangkat di situs kerja luar
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: XCMG QY25K5C 25t Truk Crane Expor Referensi: Chassis & Superstruktur Panduan
+- **Deskripsi Meta**: Referensi pasar Cina untuk derek truk XCMG QY25K5C 25-tonne-class: bagaimana derek truk bergerak terbagi menjadi chassis pembawa dan mengangkat superstruktur, status regulasi di Cina, dan pembeli dokumen load- bagan harus mendapatkan.
+- **H1**: XCMG QY25K5C Truk Crane (25-t Class): Specience Pasar Cina - Kendaraan Ekspor Referensi
+- **Kata kunci utama**: Spesifikasi ekspor truk XCMG QY25K5C
+- **Istilah pencarian sekunder**: XCMG QY25K5C crane truk; 25 ton crane mobile; derek truk chassis superstruktur; XCMG chart angkat; ekspor crane truk Cina
+- **URL yang disarankan**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Maksud pencarian**: Memahami XCMG QY25K5C Crane Truk (25-t Kelas): Special- Spesialis Pasar Cina - Referensi Expor Kendaraan: apa yang kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+- **Saran gambar**: Sebuah truk crane XCMG 25-tonne-class dengan bom teleskopik diperpanjang di situs kerja
+- **Teks ALT**: XCMG QY25K5C- kelas crane truk dengan boom teleskopik yang terangkat di situs kerja luar
+- **Cakupan skema**: Artikel + Kendaraan
 
 Sebuah crane truk seperti XCMG QY25K5C adalah kendaraan khusus ** menggabungkan sebuah angkutan truk (chassis) dengan superstruktur angkat berputar. Pembiayaan satu tidak seperti membeli truk: dokumen yang menentukan adalah bagan beban OEM, konfigurasi boom dan pembagian antara persetujuan operator dan derek. Halaman ini mengidentifikasi QY25K5C sebagai XCMG mesin 25-tonne-class dan menjelaskan apa yang harus diperoleh dari material XCMG resmi - itu sengaja tidak meminjam spesifikasi dari model QY25E/QY25K-II yang lebih tua.**
 

@@ -1,15 +1,17 @@
 # Foton Daimler AUMAN EST (China- V VI) - Cinese- Pasar Traktor Truk Specs dan Ekspor Cek
 
-## SEO Metadata
-- ** Judul SEO **: Foton Daimler Tractor TERBAIK AUR: Petunjuk Chinese- Pasar Specs & Ekspor
-- ** Meta Description **: Cinese- pasar Foton Daimler AUMAN EST kepala traktor berat: Cina - V ISG dan Cina - VI X13 baris, ZF Gearboxes Cepat, ~ Kelas GCW 40 t, dengan BEV tetap sebagai baris terpisah.
-- ** H1 **: Foton Daimler AUMAN EST (China- V VI) - Cinese- Pasar Traktor Truk Specs dan Ekspor Cek
-- ** Primer Keyword **: Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 Tractor Truck SKls export
-- ** Akhir Pencarian Second **: ekspor EST AUMAN; Foton Daimler traktor kepala; traktor truk Cina berat; X13 mesin; 6x4 traktor
-- ** Sugested URL **: kendaraan foton -auman-est- traktor
-- ** Cari Intent **: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 Truck ASAtor 中国版规格 配置与出口适配性 配置与出口适配性 车型参数页 配置与出口适配性
-- ** Internal Link Sugestions **: kendaraan foton -umn-umn-tractor panduan tir- transports -tir- chinal- centrala- asia pemandu bill- dari -lading- types- sejarah
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Foton Daimler AUMAN EST Tractor: Chinese- Market Specs & Ekspor Panduan
+- **Deskripsi Meta**: Cinese- pasar Foton Daimler AUMAN EST kepala traktor berat: Cina - V ISG dan Cina - VI X13 baris, ZF / Gearboxes cepat, ~ 40 t GCW kelas, dengan BEV tetap sebagai baris terpisah.
+- **H1**: Foton Daimler AUMAN EST (China-V / VI) - Chinese- Market Heavy Tractor Truck Specs dan Ekspor Cek
+- **Kata kunci utama**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车 Tractor Truck Screcics export
+- **Istilah pencarian sekunder**: AUMAN EST ekspor; Foton Daimler traktor kepala; Cina traktor truk berat; X13 mesin; 6x4 traktor
+- **URL yang disarankan**: /vehicles/foton-auman-est-tractor/
+- **Maksud pencarian**: Memahami Foton Daimler AUMAN EST (China-V / VI) - Chinese- Market Heavy Tractor Truck Specs dan Ekspor Cek: apa yang eksportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Foton Daimler AUMAN EST (China-V / VI) - Chinese- Pasar Tractor Truck Specs dan Ekspor, tidak ada pemeriksaan terencana atau orang-orang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang terkait dengan Foton Daimler AUMAN EST (China-V / VI) - Chinese- Pasar Tractor Truk Spector berat, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditampilkan.
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Konteks Pembeli: kepala traktor dengan emisi terpisah dan garis energi
 ** Foton Daimler AUMAN EST (欧曼 EST) ** adalah kepala traktor berat di pasar kayu. Cina-V EST510 dan Cina-VI X13 adalah generasi emisi yang berbeda, dan ** battery- listrik traktor adalah baris terpisah ** - mereka tidak harus bergabung ke dalam satu spesifikasi. Referensi pasar adalah ** China **.
@@ -47,7 +49,6 @@ Apa ada listrik? Sebuah terpisah 2026 BEV pengajuan ada - jangan merge dengan sp
 ZF 12TX AMT atau Fast 16-speed, dengan membangun.
 X13 output? 12.9 L, 412 kW 560 hp, 2600 N·m di garis Cina-VI.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -67,18 +68,18 @@ X13 output? 12.9 L, 412 kW 560 hp, 2600 N·m di garis Cina-VI.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: tepat Foton Daimler Traktor AUMAN EST
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Foton Daimler AUMAN EST tractor
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
   - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
@@ -91,6 +92,5 @@ X13 output? 12.9 L, 412 kW 560 hp, 2600 N·m di garis Cina-VI.
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

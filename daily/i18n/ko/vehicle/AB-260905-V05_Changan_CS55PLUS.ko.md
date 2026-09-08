@@ -1,15 +1,17 @@
 # Changan CS55 PLUS (3rd 세대, 2024) - 중국 시장 휘발유 SUV Specs 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 창안 CS55 PLUS (3rd Gen) 2024: 중국 시장 얼음 Specs & 수출 가이드
-- **마타 기술 **: 중국 시장 세 번째 세대 창간 CS55 PLUS 가솔린 SUV: 블루 Whale NE 1.5T, 7DCT, 치수, WLTC 연료 사용, 하이브리드가 분리 된 라인 이유.
-- ** H1 **: 창안 CS55 PLUS (3rd 세대, 2024) - 중국 시장 휘발유 SUV Specs 및 수출 검사
-- ** 출원 키워드**: 창간 长安 CS55 PLUS(第三代) specs 수출
-- **세컨드 검색 이용 약관**: 창안 CS55 PLUS 수출; 세 번째 세대 CS55; 파란 Whale 1.5T; 중국 휘발유 SUV; 7DCT
-- **수입 URL**: /vehicles/changan- cs55-plus/
-- ** 수색 **: 了解 장안 长安 CS55 PLUS (第三代) 中国版规格 、 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/changan- cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: 창간 CS55 PLUS (3rd Gen) 2024: 중국 시장 ICE Specs & 수출 가이드
+- **메타 설명**: 중국 시장 세 번째 세대 Changan CS55 PLUS 가솔린 SUV: 블루 Whale NE 1.5T, 7DCT, 치수, WLTC 연료 사용, 하이브리드가 분리 된 라인 이유.
+- **H1**: 창간 CS55 PLUS (3rd 세대, 2024) - 중국 시장 휘발유 SUV 사양 및 수출 검사
+- **주요 키워드**: 장안/长安 CS55 PLUS (第三代) specs 수출
+- **보조 검색어**: 장안 CS55 PLUS 수출; third generation  CS55 ; 파란 Whale 1.5T; 중국 휘발유 SUV; 7DCT
+- **추천 URL**: /vehicles/changan-cs55-plus/
+- **검색 의도**: Changan CS55 PLUS (3rd 세대, 2024) - 중국 시장 휘발유 SUV 사양 및 수출 검사: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- **이미지 제안**: 창안 CS55 PLUS (3rd 세대, 2024) - 중국 시장 휘발유 SUV 사양 및 수출 체, 무대 검사 또는 사람들이 주장하는 현실적, 문서 / 차량 중심 장면.
+- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Changan CS55 PLUS (3rd 세대, 2024)와 관련된 주제 - 중국 시장 휘발유 SUV Specs 및 E, 중립 배경, 사람 또는 검사 행동 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트 및 세대 경계
 이 페이지는 Petrol (ICE) powertrain**를 가진 **세대 Changan CS55 PLUS (2024)만 포함합니다. ** 슈퍼 하이브리드 버전은 별도의 라인** 다른 몸과 파워 트레인 수치와 결합되지 않습니다. 참조 시장은 ** 중국**입니다.
@@ -53,11 +55,10 @@
 ** 99, 900 RMB의 수출 가격? ** No — 국내 발사 참고.
 ** 어느 ** 7-speed 젖은 듀얼 클러치 (7DCT) 캡처 라인.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置년 | 搜狐汽车车型库 | 담당자: Mr. wang | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+주식회사 CS55 PLUS |: 담당자: Mr. wang | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
 | 第三代 CS55PLUS 上市년 | 人民网重庆 | 담당자: Mr. wang | T3 | CROSS_체크 | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市,  价格区间 |
 | CS55 PLUS 超擎混动参数년 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 경우 | 混动版区分 (不得混入燃油년) |
 | 칭다오 자동차 공식 글로벌 사이트 | 장안 자동차 长安汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.globalchangan.com/ 를 통해 | 선 ID와 OEM 권위 |
@@ -71,18 +72,18 @@
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: 정확한 장안 CS55 PLUS Gen3
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
   - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
   - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
@@ -95,6 +96,5 @@
   - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE

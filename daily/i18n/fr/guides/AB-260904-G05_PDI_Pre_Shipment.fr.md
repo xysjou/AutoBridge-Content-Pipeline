@@ -1,15 +1,29 @@
 # PDI et remise avant expédition pour l'exportation de véhicules: règles du transporteur vs liste de contrôle recommandée d'AutoBridge
+## Métadonnées SEO
+- **Titre SEO**: Exportation de véhicules PDI & Préexpédition Guide de remise — Règles du transporteur désigné
+- **Description meta**: Les politiques de porte-avions RoRo distinctes (Wallenius Wilhelmsen, Höegh Autoliners) — carburant, batterie, SOC et opérabilité — de la liste de contrôle recommandée par AutoBridge pour les inspections avant expédition; aucune valeur fixe universelle.
+- **H1**: Préparation d'un véhicule pour l'exportation de RoRo ou de Container: ce que les transporteurs désignés exigent et ce que nous recommandons
+- **Mot-clé principal**: inspection avant expédition des véhicules d'exportation PDI transfert RoRo
+- **Termes de recherche secondaires**: Réservoir de quartier carburant de Wallenius Wilhelmsen, Hoegh BEV SOC 50 pour cent, RoRo véhicule opérationnel, débrancher 12V batterie voiture d'occasion, pré-expédition photo record
+- **URL suggérée**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Intention de recherche**: Comprendre la préparation d'un véhicule pour l'exportation de RoRo ou de Container: Ce que les transporteurs désignés exigent et ce que nous recommandons: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Suggestion d'image**: PDI feuille de liste de contrôle
+- **Texte ALT**: Exigences du transporteur RoRo désignées par rapport à la liste de contrôle recommandée avant expédition
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: IDP et préexpédition pour l'exportation de véhicules Guide de remise — Règles du transporteur désigné
-- **Description détaillée**: Les politiques de porte-avions RoRo distinctes (Wallenius Wilhelmsen, Höegh Autoliners) — carburant, batterie, SOC et opérabilité — de la liste de contrôle recommandée par AutoBridge pour les inspections avant expédition; aucune valeur fixe universelle.
-- **URL suggérée**: /guides/véhicule-export-pdi-préexpédition-transmission
-- ** H1 **: Préparation d'un véhicule pour l'exportation de RoRo ou de Container: Ce que les transporteurs désignés exigent et ce que nous recommandons
-- **Mot-clé principal**: inspection avant expédition des véhicules
-- ** Termes de recherche secondaires**: réservoir de quartier carburant de Wallenius Wilhelmsen, Hoegh BEV SOC 50 pour cent, Voiture roRo, déconnexion 12V batterie voiture d'occasion, enregistrement photo avant expédition
-- **Suggestions de lien interne**: /guides/véhicule-exportation-type de lettre de transport/; /guides/ev-shipping-un3556-imdg-compliance/; /guides/émissions-compatibilité-carburant-véhicules-chine/
-- **Suggestions d'image**: feuille de liste de contrôle PDI; rampe d'autoconduite RoRo; diagramme de division du transporteur nommé vs de la recommandation éditoriale
-- ** Suggestions concernant les ALT**: « Exigences du transporteur RoRo par rapport à la liste de contrôle recommandée avant expédition »
+Métadonnées SEO
+- **Titre SEO**: PDI et préexpédition d'exportation de véhicules Guide de remise — Règles du transporteur désigné
+- **Description meta**: Les politiques de porte-avions RoRo distinctes (Wallenius Wilhelmsen, Höegh Autoliners) — carburant, batterie, SOC et opérabilité — de la liste de contrôle recommandée par AutoBridge pour les inspections avant expédition; aucune valeur fixe universelle.
+- **H1**: Préparation d'un véhicule pour l'exportation de RoRo ou de Container: ce que les transporteurs désignés exigent et ce que nous recommandons
+- **Mot-clé principal**: contrôle avant expédition des véhicules
+- **Termes de recherche secondaires**: Le réservoir de quartier de carburant de Wallenius Wilhelmsen, Hoegh BEV SOC 50 pour cent, Voiture roRo, déconnexion 12V batterie voiture d'occasion, enregistrement photo avant expédition
+- **URL suggérée**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Intention de recherche**: Comprendre la préparation d'un véhicule pour l'exportation de roro ou de conteneur: ce que les transporteurs désignés exigent et ce que nous recommandons: ce qu'un exportateur de véhicule ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Suggestion d'image**: Feuille de vérification de l'IDP; rampe d'autoconduite RoRo; diagramme de division du transporteur nommé et de la recommandation éditoriale
+- **Texte ALT**: Exigences du transporteur RoRo désignées par rapport à la liste de contrôle recommandée avant expédition
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Deux couches qui ne doivent pas être fusionnées
 Les litiges de dommages à destination remontent presque toujours à une question: quel était l'état du véhicule, l'état du carburant/batterie et sa facilité d'exploitation **à la remise**? Pour y répondre proprement, ce guide maintient deux couches séparées:

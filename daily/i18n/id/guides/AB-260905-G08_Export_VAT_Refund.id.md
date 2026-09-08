@@ -1,15 +1,17 @@
 # Cina Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup
 
-## SEO Metadata
-- ** Judul SEO **: China Ekspor VAT Kembalikan untuk Kendaraan: Exemption- Credit- Refunt vs Exemption- Refunt Proses
-- ** Meta Description **: Bagaimana pengekspor kendaraan Cina mengklaim ekspor pengobatan VAT: dua metode (pengecualian - kredit - pengembalian dana untuk perusahaan produksi, pengecualian - pengembalian untuk pedagang), urutan arsip, dan mengapa tingkat pengembalian adalah HS-spesifik.
--   H1 **: China Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup
-- ** Primary Keyword **: china export vat proses pengembalian dana
-- ** Akhir Pencarian Second **: ekspor VAT pengembalian; Kembalikan kredit; ekspor pajak rebate; laju pengembalian; pajak Cina
-- ** Sugesti URL **: panduan china -export -vatt -refund- proses
-- ** Cari Intent **: 生产企业与外贸企业如何办理出口货物增值税退 = 免 = 税 = 申报流程 = 计算逻辑与退税率查询 = =
-- ** Inside Link Sugestions **: guide chino-export -execution -single-window guide export export- fx-setting -fx-registrasi guiler cocoolor -hs-code- history
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Cina Ekspor VAT Kembalikan untuk Kendaraan: Exemption- Credit- Refunt vs Exemption- Pengembalian Proses
+- **Deskripsi Meta**: Bagaimana eksportir kendaraan Cina mengklaim ekspor VAT pengobatan: dua metode (pengecualian - kredit - pengembalian dana untuk perusahaan produksi, pengecualian - pengembalian untuk pedagang), urutan arsip, dan mengapa tingkat pengembalian adalah HS -spesifik.
+- **H1**: Cina Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup
+- **Kata kunci utama**: proses ekspor china vat pengembalian dana
+- **Istilah pencarian sekunder**: ekspor VAT pengembalian uang; Hak Cipta pengembalian kredit; ekspor pajak rebate; tingkat pengembalian uang; pajak Cina
+- **URL yang disarankan**: /guides/china-export-vat-refund-process/
+- **Maksud pencarian**: Memahami Cina Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan China Ekspor VAT Refund - Metode, Ordo Filing dan Rate Lookup, tidak ada pemeriksaan terencana atau orang-orang mengklaim.
+- **Teks ALT**: Dekat, pandangan alami dari bahan dan subjek yang terkait dengan Cina Ekspor VAT Refund - Metode, Filing Order dan Rate Lookup, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Dua metode, cocok dengan tipe perusahaan
 ekspor China VAT pengaturan menggunakan dua metode utama. Sebuah perusahaan produksi / manufaktur berlaku pengecualian - redunt (免抵退): ekspor keluaran VAT dibebaskan, input VAT dikreditkan terhadap keluaran domestik VAT dan residu didanai kembali. Sebuah perusahaan perdagangan / komersial yang membeli dan mirip dengan ekspor umumnya berlaku pengecualian - pengembalian (免退): penjualan ekspor dibebaskan dan input yang sesuai VAT didanai kembali. Menggunakan metode yang salah untuk tipe entitas adalah kesalahan pencatatan dasar.
@@ -40,7 +42,6 @@ Yang mana perusahaan perdagangan menggunakannya? Contoh umum - pengembalian (免
 ** Kapan aku mengajukan? ** Setelah deklarasi ekspor dengan dokumen yang cocok, dalam periode yang ditentukan saat ini.
 ** Mengapa harus FX dan cukai cocok? ** Pengembalian dana bergantung pada konsistensi aliran aliran baik.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Yang mana perusahaan perdagangan menggunakannya? Contoh umum - pengembalian (免
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: actIy China Ekspor VAT Kembalikan
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact China Export VAT Refund
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export
   - **DE**: export VAT refund, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Yang mana perusahaan perdagangan menggunakannya? Contoh umum - pengembalian (免
   - **ID**: export VAT refund, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export VAT refund, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export VAT refund, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #VATRefund #ExportTax

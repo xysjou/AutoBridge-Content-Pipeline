@@ -1,15 +1,17 @@
 # TIR Internationaler Straßentransport für chinesische Exporteure — Carnet, Fahrzeugzulassung, 2026 Regeln
 
-## SEO Metadaten
-- **SEO Titel**: TIR Straßentransport von China nach Zentralasien/Europa: Carnet, Fahrzeugzulassung und 2026 Erweiterung
-- **Meta Description**: Wie TIR International Road Freight für chinesische Fahrzeug-/Teileexporteure funktioniert: Carnet TIR, den Fahrzeuggenehmigungsbogen, versiegelter Laderaum, China Timeline  and  the 2026 scope expansion.
-- ** H1 **: TIR Internationaler Straßentransport für China-Exporteure — Carnet, Fahrzeugzulassung, 2026 Vorschriften
-- **Hauptschlüsselwort**: tir Straßentransport China Zentralasien
-- **Secondary Search Terms**: Carnet TIR; China Zentral LKW in Asien; Fahrzeugzulassungsbescheinigung; Zollverschluss; Straßentransport
+## SEO-Metadaten
+- **SEO-Titel**: TIR Straßentransport von China nach Zentralasien/Europa: Carnet, Fahrzeugzulassung und 2026 Erweiterung
+- **Meta-Beschreibung**: Wie TIR internationale Straßenfracht für chinesische Fahrzeug-/Teileexporteure funktioniert: das Carnet TIR; den Fahrzeuggenehmigungsbogen, versiegelter Laderaum, China Timeline  and  the 2026 scope expansion.
+- **H1**: TIR Internationaler Straßentransport für chinesische Exporteure — Carnet, Fahrzeugzulassung, 2026 Vorschriften
+- **Haupt-Keyword**: Straßentransport Chinas in Zentralasien
+- **Sekundäre Suchbegriffe**: TIR Carnet; China Zentral LKW in Asien; Fahrzeugzulassungsbescheinigung; Zollverschluss; Straßentransport
 - **Vorgeschlagene URL**: /guides/tir-road-transport-china-central-asia/
-- **Search Intent**: 对中亚/欧洲卡航出口，如何适用TIR公约、办理TIR证与海关加封车辆批准证明、2026新规变化
-- **Interne Linkvorschläge**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-zollerklärung-single-window/
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
+- **Suchabsicht**: TIR verstehen Internationaler Straßentransport für chinesische Exporteure — Carnet, Fahrzeugzulassung, 2026 Regeln: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Bildvorschlag**: Eine realistische, dokumenten-/fahrzeugorientierte Szene, die TIR internationalen Straßentransport für chinesische Exporteure illustriert - Carnet, Fahrzeugzulassung, 2026 Regel, keine inszenierte Inspektion oder Personen, die behauptet werden.
+- **ALT-Text**: Enge, natürliche Sicht auf Materialien und das Thema im Zusammenhang mit TIR International Road Transport für China Exporteure - Carnet, Fahrzeugzulassung, neutraler Hintergrund, keine Personen oder Inspektionsmaßnahmen gezeigt.
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Review)
 
 ## Was TIR für einen Überlandexporteur ändert
 TIR ist ein internationales Zolltransitsystem, das es einem versiegelten Straßenfahrzeug oder Container ermöglicht, sich mit einem einzigen Carnet **TIR ** über Vertragsparteien zu bewegen, wobei die Waren im Allgemeinen versiegelt bleiben und Zölle Steuern entlang der Kette garantiert sind. Für chinesische Exporteure, die Fahrzeuge oder Teile über Land nach Zentralasien und weiter nach Europa versenden, reduziert dies die wiederholten Grenzkontrollen und Garantien. Es ist ein Rahmenabkommen; die operativen Details werden von den Gepflogenheiten jeder Vertragspartei umgesetzt.
@@ -41,7 +43,6 @@ Dieser Leitfaden listet nicht jede Vertragspartei, Garantiekettengebühr oder 20
 **Ersetzt TIR die Ausfuhranmeldung?** Nein – es funktioniert neben der chinesischen Exporterklärung.
 **Bezieht es sich auf Seefracht?** Es ist ein Straßentransitsystem (und Straßen-intermodales Transitsystem); bestätigen Sie den modalen Anwendungsbereich für die Strecke.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Dieser Leitfaden listet nicht jede Vertragspartei, Garantiekettengebühr oder 20
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exakter TIR Internationaler Straßentransport für China-Exporteure
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact TIR International Road Transport for China Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
   - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
   - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Dieser Leitfaden listet nicht jede Vertragspartei, Garantiekettengebühr oder 20
   - **ID**: TIR road transport, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: TIR road transport, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: TIR road transport, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TIR #RoadFreight

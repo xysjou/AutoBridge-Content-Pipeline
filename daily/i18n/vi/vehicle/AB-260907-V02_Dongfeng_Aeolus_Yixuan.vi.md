@@ -1,16 +1,16 @@
 # Đông Phong An, Yixuan, một người Trung Quốc, người Mỹ So sánh Sedan  i To tham khảo, Dòng Hiện đại tương ứng với Phiên bản Mach cũ
-## SAO Siêu dữ liệu
-- **SEEO Tit**: Dong Phong Aelus Yixuan-Cuet và Elier checks  vội exBridge
-- **Meta Mô tả**: Sở hữu chợ Tàu của Đông Phong Aeolus Yixuan Xe sedan CMP: Kích thước, 2025 1.5L hiện tại so với mẫu Mach 1.5T cũ được tách biệt, và kiểm tra mức độ VIN cho người mua xuất khẩu.
-- ** H1 Đông Phong Aeolus Yixuan: một Trung Quốc-CMP So sánh Sedan  i To tham khảo, Dòng Hiện đại tương ứng với Phiên bản Mach cũ
-- ** Từ khoá bí mật **: Phong Aeolus Yixuan xuất khẩu thông số kỹ thuật
-- **Secondary Search termss**: 东风风神奕炫; Aeolus Yixuan kích thước; Yixuan 1.5L WLTC; Mach 1.5T sedan; xuất sedan CMP
-- ** URL đã được đánh dấu**: /vehcles/dong Phong-aulus-yixuan/
-- **Tìm kiếm ý định**: 面向海外买家介绍风神奕炫中国市场身份、尺寸、当前1.5L与较早马赫版1.5T的版本边界
-- **I nội bộ Link gợi ý**: /vehcles/jetour-dash/, /vehicles/sac-maxus- g90/, /guides/veriification-car-explier-hilier- tầng/
-- **Image preseng**: A Dong Phong Aeolus Yixuan engback sedan trình diễn nhanh từ phía trước ba phần tư nền trung lập
-- **LT Đề nghị**: phía trước ba phần tư xem xe ngựa Dong Phong Aeolus Yixuan trên nền phòng thu trung lập
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Đông Phong Aeolus Yixuan Trung Quốc-Market Specs và Elier checks  vội exBridge
+- **Meta mô tả**: Giới thiệu về Dong Phong Aeolus Yixuan CMP sedan: Không gian, 2025 1.5L đường thẳng hiện tại so với đường Mach 1.5T cũ được tách biệt, và VIN mức độ kiểm tra cho người mua xuất khẩu.
+- **H1**: Đông Phong Aeolus Yixuan: một Trung Hoa-Sát CMP So sánh Sedan  i To tham khảo, Dòng Hiện đại tương ứng với Phiên bản Mach cũ
+- **Từ khóa chính**: Phong Aeolus Yixuan xuất khẩu thông số kỹ thuật
+- **Cụm tìm kiếm phụ**: 东风风神奕炫; Aeolus Yixuan kích thước; Yixuan 1.5L WLTC; Mach 1.5T sedan; Xuất khẩu xe sedan Trung Quốc CMP
+- **URL đề xuất**: /vehicles/dongfeng-aeolus-yixuan/
+- **Ý định tìm kiếm**: Hiểu cho Phong Aeolus Yixuan: A China-Market  CMP  Compact Sedan Reference, Dòng hiện thời tương ứng với phiên bản Mach cũ: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **Gợi ý hình ảnh**: Một chiếc xe sedan của Đông Phong Aeolus Yixuan chạy nhanh được trưng bày từ phía trước của con ngựa ba phần tư theo nền trung lập
+- **Văn bản ALT**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 Phong Phong Aeolus Yixuan (风神奕炫) là chiếc xe ba hộp/xe sedan ba hộp nhỏ được xây dựng trên nền tảng CMP và bán ở Trung Quốc dưới biển Đông Phong Phong (Fengshen-vehcle). Người mua mạo hiểm trong mô hình này là thời gian hơn là cấu trúc: 2025 đường trên đường kính hiện tại là một chiếc xe 1.5-litre tự nhiên,  while the higher-output "Mach" (马赫) 1.5T belongs to an earlier 2022/2023 powertrain wave. Trích dẫn đầu ra của máy gia tốc cũ như thể nó là chiếc sedan hiện tại là lỗi phiên bản phổ biến nhất. Trang này là một tài liệu tham khảo của **Người Trung Quốc, không phải một tờ thông minh toàn cầu; phiên bản thị trường xuất khẩu cần có bằng chứng riêng biệt, và kết quả xuất khẩu đơn được đánh dấu để xác nhận.
 

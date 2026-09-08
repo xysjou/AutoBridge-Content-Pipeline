@@ -1,16 +1,16 @@
 # Prefácio Geely (Xingrui): Um CMA de mercado chinês Referência do Comprador Sedan para Exportação
-## SEO Meta- dados
-- ** Título SEO**: Geely Preface (Xingrui) Exportar Especificações, Aparas e Verificações do Comprador
-- ** Descrição do Meta**: Referência do mercado chinês para o Geely Preface/Xingrui CMA sedan: corpo e dimensões, 1.5T e 2.0T variantes mantidas separadas, e o que um comprador estrangeiro deve verificar por VIN.
-- ** H1 **: Geely Preface (Xingrui): Um CMA de mercado da China Referência do Comprador Sedan para Exportação
-- **Chave Primária**: Especificações de exportação do Geely Preface Xingrui
-- ** Termos de pesquisa secundários**: Geely Prefácio CMA sedan; Dimensões Xingrui; Geely Prefácio 2.0T 8AT; Sedan chinês exportar China spec; Diferenças de aparar prefácios
-- **Suggested URL**: /vehicles/geely-preface/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍 Prefácio(星瑞) 中国市场版本身份, 尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- *Image Suggestion**: Um sedan branco Geely Preface CMA exibido da frente de três quartos em um estúdio limpo**
-- **ALT Sugestão**: Vista frontal de três quartos de um sedan Geely Preface em um fundo neutro
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+## Metadados SEO
+- **Título SEO**: Prefácio Geely (Xingrui) Exportar Especificações, Aparas e Verificações do Comprador
+- **Meta descrição**: Referência do mercado chinês para o Geely Preface/Xingrui CMA sedan: corpo  and  dimensões, 1.5T  and  2.0T variantes mantidas separadas,  and  what an overseas buyer must verify by  VIN .
+- **H1**: Prefácio Geely (Xingrui): Um mercado chinês CMA Referência do Comprador Sedan para Exportação
+- **Palavra-chave principal**: Especificações de exportação do Geely Preface Xingrui
+- **Termos de busca secundários**: Geely Prefácio CMA sedan; Xingrui dimensions; Prefácio Geely 2.0T 8AT; China sedan export China spec; Preface aparar diferenças
+- **URL sugerida**: /vehicles/geely-preface/
+- **Intenção de busca**: Compreenda o Prefácio Geely (Xingrui): Um Mercado China-CMA Sedan Buyer Referência para exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugestão de imagem**: Um sedan Geely Preface CMA branco mostrado da frente três quartos em um estúdio limpo
+- **Texto ALT**: Vista frontal de três quartos de um sedan Geely Preface em um fundo neutro
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 O Geely Preface (nome chinês Xingrui) é o sedan de quatro portas de tração dianteira compacto/meio-size Geely desenvolvido no CMA (Arquitectura Modular Compact) compartilhado com produtos de grupo Geely mais amplos. Para um comprador estrangeiro fornecedor da China, a disciplina chave é o controle de versão: a linha foi vendida durante vários anos modelo com 1.5-litre e 2.0-litre turbo gasolina de trem, e números de potência citados diferem entre mais velhos e mais novos acabamentos. Esta página é uma referência de mercado ** Chinese-market**; não é uma folha de especificação global, e qualquer Prefácio de mercado de exportação deve ser evidenciado separadamente.
 

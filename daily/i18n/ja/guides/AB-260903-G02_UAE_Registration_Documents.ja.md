@@ -1,14 +1,16 @@
 # UAEに車を輸入:クリアランス・ツー・レジストレーションシーケンスと再検証しなければならないもの
-## ツイート メタデータ
-- **SEOタイトル**:UAE車輸入&RTA登録書類ガイド
-- **メタ 記述**: UAEの車両輸入を正しくシーケンス — 通関書類、GCC/GSO適合、その後、RTA登録(Mulkiya)。 報告義務/VAT図は、固定されたものではなく、公式のUAEの承認のためにフラグを立てています。
-- **混雑URL**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: UAE 車両の輸入: 港のクリアランスからRTAへの登録 — 文書と検証
-- **主なキーワード**: uae車両の輸入登録文書のrtaプロセス
-- **二次検索条件**:ドバイの税関車両輸入、UAEのムルチア登録、GCC GSO車両適合、UAEの自動車輸入関税VAT、MOIAT車両輸入
-- **内部リンクの提案**: /guides/vehicle-coc-type-approval-dosier/; /guides/china-vehicle-export-license-customs-documents/; /guides/vehicle-pre-shipment-inspection-psi/
-- **画像の提案**:クリアランス→ RTAシーケンス図;UAE文書チェックリスト;エミレート/連邦当局のマップ
-- **ALT提案**:「RTA登録シーケンスへのUAEの税関」;「UAEの車両輸入文書チェックリスト」
+## SEOメタデータ
+- **SEOタイトル**: UAE  Vehicle Import &  RTA  Registration Documents Guide
+- **メタディスクリプション**: UAE車両の輸入が正しく機能します。通関書類、GCC/GSO適合、RTA登録(Mulkiya)。 報告義務/VAT 数字は、固定されたものではなく、公式UAE 確認のためにフラグを立てられます。
+- **H1**: UAE  Vehicle Import: ポートクリアランスからRTAへの登録まで — ドキュメントと検証
+- **主要キーワード**: uae車両のインポート登録文書 rta プロセス
+- **関連検索語**: ドバイの習慣車の輸入、UAE Mulkiyaの登録、GCC GSO車適合、UAE車の輸入の義務VATのMoIAT車の輸入
+- **推奨URL**: /guides/uae-vehicle-import-registration-documents/
+- **検索意図**: を理解する UAE 車両のインポート: ポートクリアランスからRTAへの登録 — 文書と検証: 車両/部品輸出業者が確認しなければならないもの、ドキュメント、注文をコミットする前に決定する必要があります。
+- **内部リンク候補**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **画像候補**: クリアランス→RTAシーケンス図
+- **ALTテキスト**: UAE税関からRTA登録シーケンス
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## スコープと証拠境界 (最初に読みます)
 このガイドでは、**UAEが機能する例として使用しています。他のGCC市場へのロジック転送のシーケンシングが行われますが、各エミレーションと各GCC状態は、独自のフォームと手数料が適用されます。 **UAE連邦共和国またはRTAの第一次ページがこのパッケージにキャプチャされていない** したがって、具体的な義務/VAT/フィーの下の図は、貨物フォワーダーガイドによって報告され、固定事実ではない時間感度検証項目です** — UAE連邦の税関当局に現在の値を取得すると、着陸したコストモデルをコミットする前に関連するエミレーツのRTAを取得します。
@@ -54,18 +56,18 @@
 **このガイドは、サウジアラビア/カタールにも適用されますか?** 順序は概念的に移りますが、形、料金および当局はGCCの状態によって異なり、各国は別々に確認します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf
@@ -88,10 +90,10 @@
 *証拠天井: ソースはフォワードガイド(T3)と中国メディアです。UAE連邦/RTAの第一次ページはキャプチャされていません。 デューティー/バット/フィーとEVインセンティブは、UAE連邦税関とエントリーエミレーツRTAで確認されるように、報告され、時間感度として提示されます。 固定レートは主張しません。 ふりがな
 
 | 個人的な影響のクリアランス(新車/中古車の重要性;必要書類;評価された蒸気の5%税関デュース | ドバイ税関(ドバイの政府) | ドブバイ | 以下は、 https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx の一覧を表示 | 2026-09-04 | 検証済み | 5% 税関評価値の義務; 元の請求書/梱包リスト/ ID コピー; 検査&評価 |
-| 旅客貨物の価値を決定する仕組み(年別) PDF | ドバイ税関 | ドブバイ | 以下は、 | 2026-09-04 | 検証済み | デューティーの前に年ベースの非推奨スケジュールによって評価される使用された車 | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf
+| 旅客貨物の価値を決定する仕組み (年別)  PDF  | ドバイ税関 | ドブバイ | 以下は 、 | 2026-09-04 | 検証済み | デューティーの前に年ベースの非推奨スケジュールによって評価される使用された車 | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf
 | E-コマースVATガイド(VATGEC1)§3.5.1 — 輸入VAT 5% 税関値に含まれています。 貨物、保険、通関手数料、 | UAE連邦税務局(FTA) | UAE UAE | 以下は、 の | 2026-09-04 | 検証済み | 輸入VAT 5%;VATベース = 通関値(CIF) + 義務 | https://tax.gov.ae/
 | 車両登録(税関証明書または転送/輸出/出産証明書;エミレーツID;パスポート/居住 | UAE連邦政府ポータル(u.ae) | UAE UAE | 以下は、 https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles の一覧 | 2026-09-04 | 検証済み | 登録番号: 通関手続きから登録までの橋 |
-| UAEは、技術的な規制(ECAS、ESMAへの成功者)の対象製品に対する適合性証明書を発行します。 | 業界・先端技術省(Mo) | UAE UAE | 以下は、 の一覧 | 2026-09-04 | 検証済み | モイアは、規制製品向けのUAEコーCを発行しています。 吸収 ESMA | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+|  UAE  は 、 技術的な規制 (ECAS  、  ESMA  への成功者) の対象製品に対する適合性証明書を発行します 。 | 業界・先端技術省 (Mo) |  UAE   UAE  | 以下は 、 の一覧 | 2026-09-04 | 検証済み | モイアは 、 規制製品向けの  UAE  コー C を発行しています 。 吸収  ESMA  | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
 | 車両用GSO技術規則(MY2027-D3)の一覧、これに準ずる UAEユーロ- 6bタイムライン | GCC標準化機構(GSO) | ギクシー | 以下は、 https://www.gso.org.sa/ は、 | 2026-09-04 | シングル_ソース | UAEの新タイプのユーロ6bから2026-01-01;2027-07-01からのすべての輸入 |
 
 ## 編集レビュー

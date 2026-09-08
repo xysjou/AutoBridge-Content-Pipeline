@@ -1,15 +1,17 @@
 # GAC Thumpchi E8 (传祺 E8): Một kiểm tra xuất và dạng PHV
 
-## SAO Siêu dữ liệu
-- **SEO Timpchi E8 PHV MP Spec & Xuất Guide (7-Seat), Trung Quốc)
-- **Meta Mô tả**: Thị trường Trung Quốc Tiruchi E8 năng lượng mới PHV - 2.0ATK động cơ, 134 kW động cơ, 25.57 kWh, 150 km ắc quy CLTC, 2+2+3 ghế, và nó khác với hào quang không có đường cong như thế nào.
-- ** URL đã đánh dấu**: /vehicles/gac-truchi- e8/
-- ** H1 **: GAC Trumpchi E8 - Không. MPV - Trung Quốc Comment
-- ** Từ khoá nguyên tử**: gacmatchchi e8 macev xuất khẩu
-- **Secondary Search Words**: Thumpchi E8 MPV, 传祺 E8 - Ohh, E8 Sự khác biệt vinh quang HV, Thumpchi E8 7-seat, Xuất khẩu MPV kiểu Hoa
-- **I nội bộ Link gợi ý*: un3556-imdg-compliance/; /guides/export-vehicle-docucht- wrapt/; /vehcles/chery-fulwin- t9/
-- **Image gợi ý**: E8 hồ sơ bên MPV; 2+2+3 bố trí chỗ ngồi; cổng sạc chống lại không có dịch vụ HV; hàng thứ ba; V2L lượt ra
-- **LT Những gợi ý**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 chỗ ngồi và hàng hóa"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: GAC Thumpchi E8 PHEV MPV Hướng dẫn Hình thể và Xuất (7-Seat, Trung Quốc)
+- **Meta mô tả**: Thị trường Trung Quốc Tiruchi E8 năng lượng mới PHEV MPV — 2.0ATK động cơ, 134 kW động cơ, 25.57 kWh ắc quy, 150 km CLTC, 2+2+3 chỗ ngồi,  and  Nó khác với vinh quang HEV như thế nào.
+- **H1**: GAC Thumpchi E8 PHEV: Chinese-Market Seven-Seat  MPV  Specs  and  Xuất các ghi chú
+- **Từ khóa chính**: gac trumpchi e8 phev specs export
+- **Cụm tìm kiếm phụ**: Thumpchi E8 MPV, 传祺 E8 PHEV,  E8 Glory  HEV  difference, Thumpchi E8 7-seat,  Chinese  PHEV   MPV  export
+- **URL đề xuất**: /vehicles/gac-trumpchi-e8/
+- **Ý định tìm kiếm**: Hiểu GAC Thumpchi E8 PHEV: Chinese-Market Seven-Seat  MPV  Specs  and  Xuất các ghi chú: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **Gợi ý hình ảnh**: MPV hồ sơ bên E8
+- **Văn bản ALT**: GAC Trumpchi E8 PHEV seven-seat MPV China spec
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Văn cảnh mua: Một máy bán hàng MPV được quyết định bằng cách đi biển và chia cắt PHV/HV
 Đối với một người xuất khẩu MPV, câu hỏi là những hình học và kiến trúc ghế đầu tiên, là những người cấp tốc thứ hai. Trên chiếc E8 có một cái bẫy đặt tên: ** E8 năng lượng mới là một con gà kết hợp với một cổng sạc**, trong khi cái huy chương ** E8) là một  荣耀 mà không có cổng sạc**. Chúng là những loại năng lượng khác nhau và phải được trích dẫn trên những đường riêng biệt. Tờ này ghi lại các thị trường Trung Hoa ** (REFERCEET: Chloe)**; một trang cấu hình OEM đã bị bắt.

@@ -1,14 +1,17 @@
 # Asuransi Cargo Laut untuk Kendaraan Cina Shipped: ICC (A) (B) (C), Nilai Dijamin dan CLAim Trail
-## SEO Metadata
-- ** Seo Judul ** Asuransi Marinir untuk Mobil Impor Cina: ICC Klausul & Klaim
-- ** Meta Description **: Pastikan kendaraan Cina dalam transit laut dengan benar - Institut Cargo Clauses resmi (A) (B) (C), mengapa mobil perlu All- Risks, CIF CIP Incocerms wajib asuransi 2020, Konvensi nilai rahasia dan mengklaim bukti.
-- ** Sugesti URL **: panduan marine-cargo-asuransi-mobil-impor
--   H1 **: memastikan kendaraan Cina di Ocean Transit: Clause Tier, Sum Insured dan How a Claim Is Sebenarnya Dibayar
-- ** Primary Keyword **: marine cargo insurance diimpor ICC A B C
-- ** Akhir Pencarian Second **: Institute Klausul Cargo Sebuah risiko, LMA CL382, CIP Incooterms 2020 ICC A, ClC minimum, Hague- Visby SDR operator cap, RoRo asuransi kendaraan, EV baterai penutup laut kebakaran
-- ** Internal Link Sugestions **: guide kendaraan import- payment -tt-vs-lc guiders commercial- truck- sleet- procuredances -china guide use- china -chinese- ev-excicicicicience
-- *** Saran Gambar **: ICC A B C cakupan piramida; risk- transfer asuransi-timeline tugas oleh lncoterm; pre-pengiriman kondisi foto set; carriercap vs pencurian-nilai gap
-- "Institute Cargo Clauses A B C cakupan tiers"; "CIF versus CIP aller destrict under Incooterms 2020"; "pre- pengiriman kondisi kendaraan catatan untuk klaim"
+## Metadata SEO
+- **Judul SEO**: Asuransi Laut untuk Mobil Cina Impor: ICC Klausul & Klaim
+- **Deskripsi Meta**: Pastikan kendaraan Cina dalam transit lautan dengan benar - resmi Institute Cargo Clauses (A) / (B) / (C), mengapa mobil membutuhkan All- Risks, CIF/CIP Incocracems wajib asuransi 2020, Konvensi nilai yang terisolasi dan mengklaim bukti.
+- **H1**: Memastikan kendaraan Cina di Ocean Transit: Clause Tier, Sum Insured dan How a Claim Is Sebenarnya Dibayar
+- **Kata kunci utama**: asuransi kargo laut diimpor Kendaraan Cina ICC A B C
+- **Istilah pencarian sekunder**: Institute Cargo Clauses A semua risiko, LMA CL382, CIP Incotalerms 2020 ICC A, CIF ICC C minimum, Hague- Visby SDR carrier cap, RoRo kendaraan asuransi, EV baterai penutup laut kebakaran
+- **URL yang disarankan**: /guides/marine-cargo-insurance-car-import/
+- **Maksud pencarian**: Memahami kepercayaan kendaraan Cina di Ocean Transit: Klase Tier, Sum Insured dan How a Claim Sebenarnya Dibayar: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **Saran gambar**: Piramida cakupan ICC A / B / C
+- **Teks ALT**: Institute Cargo Clauses A B Penyangga cakupan C
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## The Misception That Costs Importers Money
 Pembeli berasumsi bahwa di bawah FOB atau CIF..... Jalur pengiriman sepenuhnya kompensasi.... Yang tergores, hancur, dicuri atau air rusak kendaraan. Tidak: kewajiban pembawa ditutup oleh konvensi internasional jauh di bawah nilai mobil, dan klausa kargo yang Anda pilih memutuskan apakah kerusakan transit biasa tertutup sama sekali. Halaman ini mencakup ** asuransi kargo laut untuk kendaraan yang dikirim dari Cina ** (rute laut global) - clauses dan klaim, berbeda dari harga lncoterm dan dari pilihan RoRo-vs- kontainer.
 ## Tiga Pengikat Klausul - Disalurkan ke Wording Resmi
@@ -52,18 +55,18 @@ Dari mana 110% berasal? Dua aturan yang terpisah: Incoterms 2020 set sampul penj
 ** CIF atau CIP - yang baku lebih kuat? ** Berdasarkan Incoterms 2020 CIP memerlukan setidaknya ICC (A); CIF default ke ICC (C), sehingga pada permintaan CIF (A) secara tertulis.
 ** Apakah api baterai EV ditutupi oleh All Risks? ** Tergantung pada kata - menyatakan EV dan mendapatkan konfirmasi tertulis.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf

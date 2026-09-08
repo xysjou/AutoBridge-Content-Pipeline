@@ -1,14 +1,16 @@
 # SANY Betonmischer-Truck (SY-Serie): Lesen Es als Chassis + Suprastruktur + Trommelkapazität
-## SEO Metadaten
-- **SEO Titel**: SANY Betonmischer Truck Specs: Trommelkapazität, Fahrwerk & Export
-- **Meta Description**: Chinese-market SANY SY-series mixer trucks — 6–10 m³ drums,  SY310C-8S(V) 10 m³ with 400 L water tank, Hino/Yuchai/Weichai/Sany Antriebsmotoren, integrierter Rahmen,  and  eine Option 8 × 4 BEV.
-- **Vorgeschlagene URL**: /Fahrzeuge/sany-concrete-mixer-truck-specs/
-- ** H1 **: SANY SY-Serie Betonmischer LKW (Chinesischer Markt): Aufbau, Fahrwerk und Exportkontrollen
-- ** Primäres Keyword**: Sany Beton Mixer Truck Spezifikationen
-- **Secondary Search Terms**: SANY SY310C Mixer, 10m3 Mixer Truck, Beton Mixer Chassis Suprastruktur, Sany Power D09C5, Elektro Mixer Truck 8x4, Mischertrommelkapazität
-- **Interne Linkvorschläge**: /Fahrzeuge/faw-jiefang- j6p-tractor-specs/; /Fahrzeuge/yutong- zk6122-coach-specs/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Bildvorschläge**: Mischertrommel und -rutsche; Fahrgestell + Aufbauseite; integrierter Rahmen; Wassertank; elektrischer Mischer 8 × 4
-- **ALT Vorschläge**: "SANY SY310C zehn Kubikmeter Mischwagen"; "Mischerwagenfahrwerk und Trommelaufbau"
+## SEO-Metadaten
+- **SEO-Titel**: SANY Spezifikationen für Betonmischer-Trucks: Trommelkapazität, Fahrwerk und Export
+- **Meta-Beschreibung**: Chinese-market  SANY   SY -series mixer trucks — 6–10 m³ drums,   SY310C-8S (V) 10 m³ with 400 L water tank, Hino/Yuchai/Weichai/Sany Antriebsmotoren, integrierter Rahmen,  and  an 8×4  BEV  option.
+- **H1**: SANY SY -Serie Betonmischer-Lkw (Chinesischer Markt): Aufbau, Fahrwerk und Exportkontrollen
+- **Haupt-Keyword**: Sane Beton Mixer Truck Spezifikationen
+- **Sekundäre Suchbegriffe**: SANY SY310C Mischer, 10m3 Mischer LKW, Betonmischer Chassisaufbau, Sany Power D09C5, Elektromischer LKW 8x4, Mischertrommelkapazität
+- **Vorgeschlagene URL**: /vehicles/sany-concrete-mixer-truck-specs/
+- **Suchabsicht**: SANY SY -Serie Concrete Mixer Truck (Chinesischer Markt): Überbau-, Fahrwerks- und Exportkontrollen: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/yutong-zk6122-coach-specs/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Bildvorschlag**: Mischtrommel und Rutsche
+- **ALT-Text**: SANY SY310C Zehn-Kubikmeter-Mischerwagen
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Ein Spezialfahrzeug ist zwei Produkte, die zusammengeschraubt sind
 Ein Mischwagen ist ein **Sonderfahrzeug **: ein LKW ** Chassis ** plus eine rotierende Trommel ** Aufbau ** mit eigenem hydraulischen Antrieb, Wassersystem und Austragsanlagen. Geben Sie es nach ** Trommelkapazität → Fahrwerk Motor → GVW Achsen → Aufbauausrüstung** an und bestätigen Sie die gesamte Kombination mit einem homologierten Modellcode. Diese Seite deckt SANYs **Chinesische Markt-SY-Serie (REFERENCE MARKET: CHINA)** ab; SANY Produktlinie und Modellseiten sind die OEM-Quelle, während die elektrische Variante über Handelsmedien berichtet wird.
@@ -47,30 +49,30 @@ Es wurden keine statischen Ausfuhrpreise und kein chinesischer MEP erfasst. Nich
 **Bedeutet eine größere Trommel immer mehr Nutzlast?** Nein — die gesetzliche Zuladung wird durch die GVW- und Zielachslastregeln festgelegt, nicht nur das Trommelvolumen.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle concrete mixer truck
-  - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) camion malaxeur à béton
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) Betonmisch-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — SANY SY-series, vehículo de combustión (mercado chino) camión hormigonera
-  - **PT**: Referência AutoBridge para compradores de exportação — SANY SY-series, veículo a combustão (mercado chinês) caminhão betoneira
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SANY SY-series, 中国市場仕様 内燃機関車 コンクリートミキサー車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SANY SY-series, 중국 시장 내연기관 차량 콘크리트 믹서 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SANY SY-series, xe động cơ đốt trong (thị trường Trung Quốc) xe trộn bê tông
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SANY SY-series, รถเครื่องยนต์สันดาป (ตลาดจีน) รถโม่ปูน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SANY SY-series, kendaraan mesin pembakaran (pasar Tiongkok) truk molen beton
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) شاحنة خلط خرسانة
-  - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 混凝土搅拌车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle / concrete mixer truck
+  - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) / camion malaxeur à béton
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) / Betonmisch-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — SANY SY-series, vehículo de combustión (mercado chino) / camión hormigonera
+  - **PT**: Referência AutoBridge para compradores de exportação — SANY SY-series, veículo a combustão (mercado chinês) / caminhão betoneira
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SANY SY-series, 中国市場仕様 内燃機関車 / コンクリートミキサー車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SANY SY-series, 중국 시장 내연기관 차량 / 콘크리트 믹서 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SANY SY-series, xe động cơ đốt trong (thị trường Trung Quốc) / xe trộn bê tông
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SANY SY-series, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถโม่ปูน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SANY SY-series, kendaraan mesin pembakaran (pasar Tiongkok) / truk molen beton
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
+  - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |

@@ -1,14 +1,16 @@
 # 40HQコンテナに車を積む:積荷計画に応じてカウントし、海で保持するラッシング
-## ツイート メタデータ
-- **SEOのタイトル**: 数え方 レンタカー 40HQ で適合しますか? コンテナの読み込みとラッシングガイド
-- **メタ 記述**: 実用的な40HQ車両ロードガイド - 典型的な2-SUVのノルックローディング対4-vehicleのダブルラックシステム、 ~ タイヤの車ごとの8の革紐、 ローディングの順序  and  a five-point stowage check before seal.
-- **混雑したURL**:/guides/container-vehicle-loading-lashing/
-- H1 ホテル **: コンテナ車ローディングとラッシング: カウント、ラック、シーケンス、事前シールチェック
-- **主なキーワード**: どの車が40hqコンテナの積み込みのlashingに合うか
-- **二次検索条件**: 40HQ two SUV, 二重デッキ車の棚の容器, 車のlashing の革紐の車輪はタイを下で結びます、 コンテナ変換にRoRoRoRo、 コンテナ車積載シーケンス
-- **内部リンク提案**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
-- **イメージ提案**:サイドビューの固定図;ホイールのlashingポイント;プルアウトダブルラック;トップ+ボトムローディングオーダー
-- アルト 提案**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
+## SEOメタデータ
+- **SEOタイトル**: 車の数 40HQ で適合しますか? コンテナの読み込みとラッシングガイド
+- **メタディスクリプション**: 実用的な40HQ車両ロードガイド - 典型的な2- SUVノラックロード対4-vehicleダブルラックシステム、 ~ タイヤの車ごとの8の革紐、 ローディングの順序  and  a five-point stowage check before seal.
+- **H1**: コンテナ車ローディングとラッシング:カウント、ラック、シーケンス、プレシールチェック
+- **主要キーワード**: どのくらいの車が40hqコンテナの積荷のlashingに合うか
+- **関連検索語**: 40HQ two  SUV , 二重デッキ車の棚の容器, 車のlashing の革紐の車輪はタイを下で結びます、 コンテナ変換にRoRoRoRo、 コンテナ車積載シーケンス
+- **推奨URL**: /guides/container-vehicle-loading-lashing/
+- **検索意図**: コンテナ車ローディングとラッシングを把握:カウント、ラック、シーケンス、プレシール チェック: 車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないこと。
+- **内部リンク候補**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **画像候補**: サイドビューのステージ図
+- **ALTテキスト**: 40HQ two SUV side stowage
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 質問 みんなが最初に尋ねる
 「40HQの車はいくつ?」という普遍的な答えがない。それは**車両寸法、鏡面折り、ラックシステム、キャリアの承認された汚泥計画の機能です**。 このガイドは、現実的なバンドとメソッドを与えます。それは意図的に固定されたカウントを約束しません。 実際の測定荷重プランから全ての出荷確認を行います。
@@ -54,24 +56,24 @@
 
 ## よくある質問
 **Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack  and  承認された計画; conventional no-rack loading of mid/large SUVs is typically two.
-**Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
+**ストラップは取り付ける必要がありますか?** タイヤ/ホイールのタイダウンポイントへ — 体力やサスペンションにならない、車1台あたり約8分のポイント。
 **セダンはどのように異なっていますか?** セイドウ  and  China-Europe rail loads commonly achieve three per box; 寸法は依然として決定します。
 **ラックトップファーストをロードするのはなぜですか?** 上部の車両は、下部のブロックラックアクセスの前に配置する必要があります。 フォークリフトの援助は、安全にそれらを配置します。
 **ドアを密封する前にチェックしたのは?** - 写真付き。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf
@@ -90,8 +92,8 @@
 |---|---|---|---|---|---|---|
 | 車両の固定面ビュー (2/box、8ストラップ) | 貨物用材料 | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | 2-SUV ノルク; ~ 8 ストラップ; wheel method (one source) | https://m.11467.com/product/d42473652.htm
 | ヤンタイ港初の4-SUV「ロトコンテーナー」試用 | 気功の夕方のニュース/Toutiao | CN の | 担当: http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | シングル_ソース | Upper2+lower2ラック; ローディングシーケンス(報告された試験) |
-| 中国ヨーロッパ鉄道車ローディング(3/box) | | CN の | 担当: http://m.toutiao.com/group/6748371578787987979/ の | 2026-09-03 | シングル_ソース | Three-per-box sedan/rail reference (one source) |
-| Export container five-step loading method | ネットエイズ | 営業拠点 | 以下は、 https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | シングル_ソース | Five-point stowage check (one source) |
+| 中国ヨーロッパ鉄道車ローディング (3/box) | |  CN  の | 担当 http://m.toutiao.com/group/6748371578787987979/ の の | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | ネットエイズ | 営業拠点 | 以下は 、 https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | Five-point stowage check (one source) |
 *Scopeのノート: それぞれの積込み図は、ひとつから来る、  distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, そのため、 CROSS_CHECKED はラベル付けされていません。 カウントは文書化された実践的な参照であり、保証された固定ではありません。 ふりがな
 
 | IMO/ILO/UNECE 貨物輸送ユニット(CTUコード)の実用化 | 国際海事機関(IMO) | インフォメーション | 以下は、 https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | コンテナを含むCTUの貨物分布、消し、そして確保の原則 |

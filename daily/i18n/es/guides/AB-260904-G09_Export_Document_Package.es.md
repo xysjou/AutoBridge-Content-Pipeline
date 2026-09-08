@@ -1,15 +1,17 @@
 # El paquete de documentos de exportación de vehículos: Estándar de certificado actual vs el estándar obligatorio Todavía en el proyecto
 
-## SEO Metadatos
-- **SEO Title**: China Guía del paquete de documentos de exportación de vehículos — GB/T 21085-2020
-- **Meta Descripción**: Construir el documento de exportación que se establece en torno al certificado de fábrica GB/T 21085-2020 actual, distinguirlo de la norma obligatoria 20260041-Q-339 que aún se está elaborando y tratar los artículos NEV/traducción como recomendaciones.
-- ** URL agregada**: /guides/export-vehicle-document-package
-- ** H1 **: Cómo montar un paquete de documentos de exportación de vehículos chinos — Lo que es actual, lo que sigue siendo un borrador, lo que le recomendamos
-- **Primary Keyword**: certificado de fábrica de paquetes de documentos de exportación de vehículos GB/ T21085
-- **Segundary Search Terms**: 机动车出厂合格证, GB/ T21085-2020 current, 20260041-Q-339 draft, certificate of conformity export, NEV export documents UN38.3
-- **Sugerencias de enlace interno**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-export-certificate-of-origin/
-- **Sugerencias de imagen**: distribución de documentos; línea de tiempo estándar actual de vs; división de archivos de exportación nacional vs
-- **Sugerencias de ALT**: "Current GB/ T21085-2020 certificado versus obligatorio 20260041-Q-339 borrador"
+## Metadatos SEO
+- **Título SEO**: China Guía del paquete de documentos de exportación de vehículos — GB/T 21085-2020 Estándares actuales
+- **Meta descripción**: Construir el documento de exportación que se establece en torno al certificado de fábrica actual de GB/T 21085-2020, distinguirlo de la norma obligatoria 20260041-Q-339 que aún se está desarrollando, y tratar los artículos NEV / traducción como recomendaciones.
+- **H1**: Cómo montar un paquete de documentos de exportación de vehículos chinos — Lo que es actual, lo que sigue siendo un borrador, lo que recomendamos
+- **Palabra clave principal**: certificado de fábrica de documentos de exportación de vehículos GB/T21085
+- **Términos de búsqueda secundarios**: 机动车出厂合格证, GB/T21085-2020 actual, 20260041-Q-339 borrador, certificado de exportación de conformidad, NEV documentos de exportación UN38.3
+- **URL sugerida**: /guides/export-vehicle-document-package
+- **Intención de búsqueda**: Entender Cómo montar un paquete de documentos de exportación de vehículos chinos — Lo que es actual, Lo que es todavía un borrador, Lo que Recomendamos: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Sugerencia de imagen**: documento conjunto
+- **Texto ALT**: Certificado actual GB / T21085-2020 contra el borrador obligatorio 20260041-Q-339
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## El Trampa: Tratando un Borrador de Estándar como Actual
 Los guías de empaquetado de documentos suelen citar un estándar obligatorio de certificados como si ya estuviera en vigor. Eso crea expectativas de papeleo que ninguna regla actual soporta. Esta página dibuja una línea dura: el estándar **current** para el certificado de fábrica de vehículos motorizados es **GB/T 21085-2020 **; un reemplazo obligatorio (plan ** 20260041-Q-339 **) es **en desarrollo y no publicado ni en vigor**, y no debe ser presentado como un requisito actual.

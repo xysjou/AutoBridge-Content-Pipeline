@@ -6,7 +6,7 @@
 - **Primary Keyword**: FAW Jiefang J7 export specs
 - **Secondary Search Terms**: 解放J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 tractor; Chinese heavy truck export; China-6 J7 600 PS
 - **Suggested URL**: /vehicles/faw-jiefang-j7-tractor/
-- **Search Intent**: 面向海外买家介绍解放J7中国市场身份，严格区分国五历史款CA6DM3与国六现售CA6SX1两代动力
+- **Search Intent**: Understand FAW Jiefang J7 Tractor: A China-Market Heavy-Truck Reference That Keeps the China-5 and China-6 Generations Apart: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
 - **Image Suggestion**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
 - **ALT Suggestion**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground

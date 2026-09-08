@@ -1,16 +1,16 @@
 # Chery Fulwin A8 (Fengyun A8): VÉHICULE DU MARCHÉ DE LA SINÉ Référence des exportations de berlines
-## OEuvre Métadonnées
-- **Référencement**: Chery Fulwin A8 PHEV Spécifications d'exportation: Deux lignes de gamme, batterie et modes
-- **Meta Description**: Référence du marché chinois pour la berline hybride rechargeable Chery Fulwin/Fengyun A8: les lignes 70 km et 145 km ont conservé un système hybride C-DM séparé, la charge et les contrôles d'exportation spécifiques à PHEV.
-- ** H1 **: Chery Fulwin A8 (Fengyun A8): VÉHICULE SUR LE MARCHÉ DE LA China Référence des exportations de berlines
+## Métadonnées SEO
+- **Titre SEO**: Chery Fulwin A8 PHEV Spécifications d'exportation: Deux lignes de gamme, batterie et modes
+- **Description meta**: Référence du marché chinois pour la berline hybride rechargeable Chery Fulwin/Fengyun A8: le 70 km  and  145 km lignes séparées, C- système hybride DM, Chargement  and   PHEV - contrôles spécifiques à l'exportation.
+- **H1**: Chery Fulwin A8 (Fengyun A8): marché chinois PHEV Référence des exportations de berlines
 - **Mot-clé principal**: Chery Fulwin A8 Fengyun A8 spécifications d'exportation
-- ** Termes de recherche secondaires**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC; Fulwin A8 145 km; Exportation hybride rechargeable Chery; Fulwin A8 dimensions
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Intention de la recherche**: 面向海外B端买家介绍风云A8中国市场版本身份、插混系统/纯电续航/版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Suggestion d'image**: Vue latérale d'une berline hybride rechargeable Chery Fulwin A8 avec port de recharge visible
-- **ALT Suggestion**: Profil latéral d'une berline Chery Fulwin A8 PHEV avec son rabat de charge visible
-- **Schema Scope**: Article + Vehicle
+- **Termes de recherche secondaires**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC portée électrique; Fulwin A8 145 km; Exportation hybride rechargeable Chery; Dimensions Fulwin A8
+- **URL suggérée**: /vehicles/chery-fulwin-a8/
+- **Intention de recherche**: Comprendre Chery Fulwin A8 (Fengyun A8): Chine-Marché PHEV Exportation de berline Référence: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Suggestion d'image**: Vue latérale d'une berline hybride rechargeable Chery Fulwin A8 avec port de charge visible
+- **Texte ALT**: Profilé latéral d'une berline Chery Fulwin A8 PHEV avec son rabat de charge visible
+- **Portée du schéma**: Article + Véhicule
 
 La Fulwin A8 (Fengyun chinois A8) est la berline hybride rechargeable compacte de Chery, construite sur le système hybride Kunpeng C-DM, une VPH à cinq places à propulsion avant qui combine un moteur à essence avec un moteur électrique et une batterie de traction. Les VPH récompensent la lecture attentive car deux 'lignes de gamme' avec des batteries différentes  and  les sorties sont placées sous un seul nom de modèle,  alongside a longer A8L body. C'est une référence ** du marché chinois** qui maintient ces lignes séparées.
 

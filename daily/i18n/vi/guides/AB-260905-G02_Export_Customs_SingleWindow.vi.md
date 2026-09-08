@@ -1,15 +1,17 @@
 # Bản Tuyên Ngôn Phong Ấn và Tiến trình Cửa sổ Hàng Không cho Xe cộ Hàng Nhật
 
-## SAO Siêu dữ liệu
-- **SEAO Title Rain Tuyên Ngôn & Đơn cho các giao thông
-- **Meta Mô tả**: Làm thế nào một người xuất khẩu phương tiện vận chuyển xe Trung Quốc đăng xuất thông qua Cửa sổ Hàng Không Thương mại Quốc tế: kênh tuyên bố, kèm theo tài liệu, nghĩa vụ chân thật và phục tùng sau khi bị từ chối.
-- ** H1 **: Bản Tuyên Ngôn Hải Quan Trung Quốc Xuất khẩu và Tiến trình Cửa sổ đơn cho Xe cộ
-- ** Từ khoá mật khẩu hoa/ xuất khẩu tập tin tuyên bố đơn cửa sổ
-- **Secondary Search termss**: Trung Quốc tuyên bố xuất khẩu; một cửa sổ; dạng khai báo hải quan; kèm theo tài liệu; giải phóng xuất khẩu
-- ** URL đã gợi ý**: /guides/china-port-customs-declaration-single-window/
-- **Tìm kiếm Intent**: 出口车辆如何通过中国国际贸易单一窗口填制出口货物报关单 _ 随附单证与申报流程
-- **I nội bộ Link gợi ý: Story/, /guides/export-docuent-child-history /guides/china-car-export-liense-liense- chacition/,
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Báo cáo & đơn của tập tin xuất Trung Quốc cho các giao thông
+- **Meta mô tả**: Làm thế nào một người xuất khẩu phương tiện vận chuyển xe Trung Quốc đăng xuất thông qua Cửa sổ Hàng Không Thương mại Quốc tế: kênh tuyên bố, kèm theo tài liệu, nghĩa vụ chân thật và phục tùng sau khi bị từ chối.
+- **H1**: Bản Tuyên Ngôn Phong Ấn và Tiến trình Cửa sổ Hàng Không cho Xe cộ Hàng Nhật
+- **Từ khóa chính**: Name
+- **Cụm tìm kiếm phụ**: Bản tuyên bố xuất khẩu Trung Quốc; một cửa sổ; dạng khai báo phong tục; kèm theo tài liệu; quyền xuất khẩu
+- **URL đề xuất**: /guides/china-export-customs-declaration-single-window/
+- **Ý định tìm kiếm**: Hiểu được Tuyên Ngôn Xuất Trung Quốc và Tiến Trình Cửa sổ Độc Lập cho Xe cộ: Một người xuất khẩu xe cộ và một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- **Gợi ý hình ảnh**: Một hiện trường thực tế, tài liệu tập trung, hình ảnh của bản Tuyên Ngôn Xuất Hàng Hải Trung Quốc và Tiến trình Cửa sổ độc lập cho xe hơi, không có kiểm tra dàn cảnh hoặc người dân tuyên bố.
+- **Văn bản ALT**: Gần như có cái nhìn tự nhiên về vật liệu và đề tài liên quan đến Tuyên Ngôn Hải Quan Trung Quốc và Tiến trình Cửa sổ độc lập cho xe hơi, nền tảng trung lập, không có người hoặc hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Điều gì thực sự xảy ra tại tuyên bố xuất khẩu
 Bên Trung Quốc, một hàng xuất khẩu các phương tiện giao thông được tuyên bố cho hải quan điện tử thông qua Cửa sổ đơn quốc gia **, sử dụng giấy ủy nhiệm điện tử (C card/USBKey). Người biện giải — người đồng ký tên hay người môi giới hải quan — chịu trách nhiệm về tính chân thật, chính xác và đầy đủ của lời tuyên bố. Hướng dẫn này bao gồm các tiến trình xuất khẩu bên Trung Quốc; việc nhập khẩu đích đến là một vấn đề riêng biệt, cụ thể quốc gia.
@@ -40,7 +42,6 @@ Nó không cung cấp một mã hoặc điều kiện giám sát cụ thể (nh�
 **Nếu lời tuyên bố bị từ chối thì sao? Sửa chữa các trường đánh dấu và phục hồi với các tài liệu nhất quán.
 **Có phải phí môi giới đã được sửa chưa? Không, chúng khác nhau và không được trích dẫn ở đây.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Nó không cung cấp một mã hoặc điều kiện giám sát cụ thể (nh�
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_ C suplues**: chính xác là bản tuyên ngôn của Trung Quốc Xuất khẩu Các Phong tục và Tiến trình Cửa sổ lẻ cho xe cộ
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact China Export Customs Declaration and the Single Window Process for Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
   - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export
   - **DE**: single window declaration, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Nó không cung cấp một mã hoặc điều kiện giám sát cụ thể (nh�
   - **ID**: single window declaration, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: single window declaration, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: single window declaration, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CustomsClearance #SingleWindow

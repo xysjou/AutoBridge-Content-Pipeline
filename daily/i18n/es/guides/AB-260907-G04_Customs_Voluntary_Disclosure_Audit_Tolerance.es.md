@@ -1,16 +1,16 @@
 # Revelación voluntaria de aduanas en China: Convertir un error de auto-función en un resultado de tolerancia
-## SEO Metadatos
-- **SEO Título**: China Customs Voluntary Disclosure & Audit Tolerance for Exporters TEN AutoBridge
-- **Meta Descripción**: Cómo funciona la divulgación voluntaria de China, la actual ventana de política al 30 de junio de 2027, cuando se pueden renunciar o reducir las sanciones administrativas, y qué debe documentar un exportador.
-- ** H1 **: Divulgación voluntaria de aduanas en China: Convertir un error de auto-función en un resultado de tolerancia
-- **Primary Keyword**: China aduana tolerancia de la auditoría voluntaria de la divulgación
-- **Segundary Search Terms**: Aduanas, declaración voluntaria China; 主动披露; no administrativa; regulación de la auditoría aduanera artículo 27; reducción de los recargos de pago tardío
-- ** URL agregada**: /guides/costos-voluntarias-disclosure-audit-tolerance/
-- **Intent de búsqueda**: 海关主动披露是什么, 符合条件为何可不予 / 减轻行政处罚, 现行政策窗口与办理要点
-- **Sugerencias internas**: /guides/ipr-costos-recordación-exportación-protección/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
+## Metadatos SEO
+- **Título SEO**: China Revelación voluntaria de datos de aduanas " tolerancia de auditoría para los exportadores ¦ AutoBridge
+- **Meta descripción**: Cómo funciona la divulgación voluntaria de China, la actual ventana de política al 30 de junio de 2027, cuando se pueden renunciar o reducir las sanciones administrativas, y qué debe documentar un exportador.
+- **H1**: Revelación voluntaria de aduanas en China: Convertir un error de auto-función en un resultado de tolerancia
+- **Palabra clave principal**: China tolerancia de la auditoría de la divulgación voluntaria de la información
+- **Términos de búsqueda secundarios**: Aduanas de información voluntaria China; 主动披露; no aduanas de sanción administrativa; artículo 27 de la reglamentación de auditorías aduaneras; reducción de los recargos de pago tardío
+- **URL sugerida**: /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Intención de búsqueda**: Comprender la divulgación voluntaria de aduanas en China: Convertir un error de auto-función en un resultado de tolerancia: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
 - **Sugerencia de imagen**: Un oficial financiero que prepara un informe de divulgación voluntaria por escrito con un archivo de auditoría aduanera abierto
-- **Sugerencia de ALT**: Manos preparando una carta de divulgación voluntaria junto a una carpeta de auditoría de aduanas abierta
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Manos preparando una carta de divulgación voluntaria junto a una carpeta de auditoría de aduanas abierta
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Hay una diferencia significativa, en la aplicación de las costumbres chinas, entre un error que la autoridad encuentra durante una auditoría y un error que una empresa encuentra e informa a sí misma. El mecanismo de divulgación voluntaria (主动披露) se construye alrededor de esa diferencia: una empresa que lo descubre desgravada o incumplida un requisito aduanero mediante su propio cheque interno puede presentar un informe escrito y aceptar la manipulación, y —donde se cumplen las condiciones legales— recibe un tratamiento más tolerante de lo que sería si el mismo problema fuera detectado por las aduanas. Esta guía establece la base jurídica, la actual ventana de tolerancia de duración limitada, la forma en que funciona el mecanismo y los límites que determinan si un caso determinado es el que se califica.
 

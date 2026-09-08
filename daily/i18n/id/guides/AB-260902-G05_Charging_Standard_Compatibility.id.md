@@ -1,15 +1,17 @@
 # EV Cina Charging Standars Abroad: GB T vs CCS2 vs CHAMO vs NaCS Compatibility
 
-## SEO Metadata
-- ** Judul SEO **: GB T vs CCS2 vs CHAMO vs NaCS: EV Cina Ekspor Kompatibilitas
-- ** Meta Description **: Akankah pasar EV di Eropa, Jepang atau Amerika Utara? GB T 20234.3/27930 menjelaskan, peta konektor oleh daerah, ekspor - versi inlet, adaptor dan arah ChaoJi.
-- ** Sugesti URL **: guide cinese- e- charging-standard- compatibility
--   H1 Apa EV Cina akan menyerang luar negeri? GB T, CCS2, CHAMO dan NaCS Compatibility Explained
-- ** Primer Keyword **: GB T CCS2 CHAMO pengisian kompatibilitas ekspor standar
-- ** Akhir Pencarian Second **: Ekpor EV Cina pengisian adaptor, GB T 20234.3 DC cepat biaya, protokol GB T 27930, versi CCS2 ekspor EV, standar ChaoJi
-- *** Internal Link Sugestions **: kendaraan byd-yuanplus guide right-hand- drive -chinese- mobil-mobil guide uid- chinese- excicident
-- *** Saran Gambar **: menghubungkan dunia -peta standar; GB T vs CCS2 perbandingan inlet; ekspor pabrik - inlet versi; adaptor peringatan keabliaan
-- ** Saran ALT **: "Peta dunia dari DC cepat mengisi standar konektor"; "GB T dan CCS2 pengisian inlet berdampingan"; "ekspor EV Cina - versi CCS2 inlet"
+## Metadata SEO
+- **Judul SEO**: GB/T vs CCS2 vs CHAMO vs NACS: Cina EV Expor Compatibility
+- **Deskripsi Meta**: Akankah sebuah Cinese- pasar EV biaya di Eropa, Jepang atau Amerika Utara? GB/T 20234.3/27930 menjelaskan, peta konektor oleh daerah, ekspor - versi inlet, adaptor dan arah ChaoJi.
+- **H1**: Apakah sebuah Cina EV Mengisi Luar Negeri? GB/T, CCS2, CHAMO dan NACS Kompatibilitas Dieksplained
+- **Kata kunci utama**: GB/T CCS2 CHAMO pengisian kompatibilitas ekspor standar
+- **Istilah pencarian sekunder**: Apastor ekspor EV Cina, GB/T 20234.3 DC dengan cepat, protokol GB/T 27930, CCS2 ekspor versi EV, standar ChaoJi
+- **URL yang disarankan**: /guides/chinese-ev-charging-standard-compatibility/
+- **Maksud pencarian**: Apakah sebuah Cina EV Mengisi Luar Negeri? GB/T, CCS2, CHAMO dan NACS Kompatibilitas Menjelaskan: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Saran gambar**: dunia menghubungkan peta standar
+- **Teks ALT**: Peta dunia DC cepat-pengisian standar konektor
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Mengapa Konektor memutuskan Apakah Mobil Dipakai
 
@@ -71,18 +73,18 @@ Untuk setiap model trim ekspor Anda, rekam dalam lembaran:
 ** Does Chao Ji membuat semua konektor cocok sekarang? ChaoJi adalah tujuan yang cocok untuk masa depan; mobil produksi saat ini masih perlu konfirmasi permodel.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, Leitfaden für Fahrzeugexport-Einkauf

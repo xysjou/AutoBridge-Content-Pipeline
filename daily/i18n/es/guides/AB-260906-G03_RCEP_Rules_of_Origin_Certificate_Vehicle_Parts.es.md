@@ -1,16 +1,16 @@
 # RCEP Reglas de Origen y Certificados: Cómo los vehículos y partes automáticas reclaman preferencia
-## SEO Metadatos
-- **SEO Título**: RCEP Reglas de Origen para Vehículos " Piezas Automáticas: Guía de Certificados
-- **Meta Descripción**: Cómo los exportadores chinos de vehículos completos y piezas de automóviles cumplen los criterios de origen del RCEP, utilizan la acumulación y eligen un certificado de origen o una declaración aprobada del exportador para reclamar preferencia arancelaria.
-- ** H1 **: Reglas de Origen y Certificados del RCEP: Cómo los vehículos y piezas automáticas reclaman preferencia
-- **Primary Keyword**: RCEP reglas de las partes de los vehículos certificados de origen
-- **Segundary Search Terms**: certificado de origen RCEP; acumulación regional RCEP; declaración de exportadores aprobada RCEP; certificado de respaldo a retroceso; partes auto preferencia arancelarias RCEP
-- **Suggested URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
-- **Intent de búsqueda**: 出口 RCEP 成员国的整车 零部件如何满足原产地规则, 申领原产地证书或经核准出口商声明以享关税优惠
-- **Internal Link Suggestions**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Sugerencia de imagen**: Un certificado de origen que se prepara junto con piezas de auto envasadas para un destino RCEP
-- **Sugerencia de ALT**: Manos preparando un certificado de origen RCEP junto a cartóns de autopartes etiquetados
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadatos SEO
+- **Título SEO**: RCEP Reglas de Origen para Vehículos " Piezas Automáticas: Guía de Certificados
+- **Meta descripción**: Cómo los exportadores chinos de vehículos completos y piezas de automóviles cumplen RCEP criterios de origen, utilizan la acumulación y eligen un certificado de origen o una declaración aprobada-exportador para reclamar preferencia arancelaria.
+- **H1**: RCEP Reglas de Origen y Certificados: Cómo los vehículos y partes automáticas reclaman preferencia
+- **Palabra clave principal**: RCEP reglas de las piezas de vehículos certificados de origen
+- **Términos de búsqueda secundarios**: RCEP certificado de origen; RCEP acumulación regional; declaración de exportador aprobada RCEP; certificado de respaldo; RCEP partes de auto preferencia arancelaria
+- **URL sugerida**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
+- **Intención de búsqueda**: Comprensión RCEP Reglas de Origen y Certificados: Cómo Preferencias de Reclamación de Vehículos y Piezas Automáticas: qué debe verificar, documentar y decidir un vehículo/partes antes de comprometerse a una orden.
+- **Sugerencias de enlaces internos**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Sugerencia de imagen**: Un certificado de origen que se prepara junto con piezas de automóviles empaquetadas para un destino RCEP
+- **Texto ALT**: Manos preparando un certificado de origen RCEP junto a los cartóns autopartidos etiquetados
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Un vehículo o un contenedor de piezas de automóviles sólo recibe un arancel preferencial RCEP en el destino si ** califica como originario** y es ** documentado de una manera que las aduanas importadoras acepta**. Ser enviado de China no es suficiente, y una factura comercial que dice "hecho en China" no es una prueba de origen. Esta página recorre las pruebas de origen del RCEP, el papel de la acumulación regional, las tres rutas de prueba y el mecanismo de retroceso que importa cuando las mercancías se mueven a través de un tercer partido del RCEP.
 

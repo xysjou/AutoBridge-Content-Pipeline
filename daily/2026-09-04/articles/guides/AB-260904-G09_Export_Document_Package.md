@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: China Vehicle Export Document Package Guide — GB/T 21085-2020 Current Standard
 - **Meta Description**: Build the export document set around the current GB/T 21085-2020 factory certificate, distinguish it from the mandatory 20260041-Q-339 standard still under development, and treat NEV/translation items as recommendations.
-- **Suggested URL**: /guides/export-vehicle-document-package
 - **H1**: Assembling a Chinese Vehicle's Export Document Package — What Is Current, What Is Still a Draft, What We Recommend
 - **Primary Keyword**: vehicle export document package factory certificate GB/T21085
 - **Secondary Search Terms**: 机动车出厂合格证, GB/T21085-2020 current, 20260041-Q-339 draft, certificate of conformity export, NEV export documents UN38.3
+- **Suggested URL**: /guides/export-vehicle-document-package
+- **Search Intent**: Understand Assembling a Chinese Vehicle's Export Document Package — What Is Current, What Is Still a Draft, What We Recommend: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
-- **Image Suggestions**: document bundle layout; current-vs-draft standard timeline; domestic vs export file split
-- **ALT Suggestions**: "Current GB/T21085-2020 certificate versus mandatory 20260041-Q-339 draft"
+- **Image Suggestion**: document bundle layout; current-vs-draft standard timeline; domestic vs export file split
+- **ALT Suggestion**: Current GB/T21085-2020 certificate versus mandatory 20260041-Q-339 draft
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Trap: Treating a Draft Standard as Current
 Document-package guides often cite a forthcoming mandatory certificate standard as if it were already in force. That creates paperwork expectations no current rule supports. This page draws a hard line: the **current** standard for the motor-vehicle factory certificate is **GB/T 21085-2020**; a mandatory replacement (plan **20260041-Q-339**) is **under development and neither published nor in force**, and must not be presented as a current requirement.

@@ -1,16 +1,16 @@
 # SAIC MAXUS G90: 中国市场大型汽油MPV 围绕座位布局构建的参考
-## 道德操守办公室 元数据
-- ** 标准名称**:最高当局G90 中国市场MPV 光谱和导出购买器检查 QQ 自动包
-- ** 金属说明**: SAIC MAXUS G90大型MPV的中国市场参考文献: PV 尺寸,2.0T+8AT条汽油线与任何电气化变体分开,六对七座位布局,出口核查步骤。
-- ** H1 **:SAIC MAXUS G90:中国市场大型汽油MPV 围绕座位布局构建的参考
-- ** 基本关键词**:SAIC MAXUS G90出口规格
-- ** 二级搜索术语**:上汽大通 G90;MAXUS G90尺寸;G90 2.0T 8AT;六座七座MPV;中国MPV出口中国光谱
-- ** 建议的URL**:车辆/激光-麦克斯-g90/
-- ** 搜索意向**:面向海外买家介绍上汽大通 MAXUS G90 中国市场身份 、 尺寸 、 2.0T+8AT 燃油线与 6/7 座布局边界
-- ** 内部链接建议**:车辆/jmc-ford-transit-t8/、车辆/dongfeng-aeolus-yixuan/、指南/核查-chinese-car-export-supliker-history/
-- ** 图像建议**:一个SAIC MAXUS G90型大型MPV,从侧面显示双滑门,每四分之三
-- ** ALT(美国) 建议**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
-- ** 计划范围**:第+条车辆(无产品/产出/价格/审查/定时)
+## SEO元数据
+- **SEO标题**: SAIC MAXUS G90 (中文(简体)). 中国市场MPV 光谱和导出购买器检查 {{{}自动包件}
+- **Meta描述**: Chinese-market reference for the  SAIC   MAXUS  G90 large  MPV : 尺寸,2.0T+8AT条汽油线与任何电气化变体分开,六对七座位布局,出口核查步骤。
+- **H1**: SAIC MAXUS G90: 中国市场大型汽油 MPV 围绕座位布局构建的参考
+- **核心关键词**: SAIC MAXUS G90 出口规格
+- **次级搜索词**: 上汽大通 G90; MAXUS G90 维度; G90 2.0T 8AT; 六七座 MPV; 中国 MPV 出口 中国光谱
+- **建议URL**: /vehicles/saic-maxus-g90/
+- **搜索意图**: 理解SAIC,MAXUS,G90: 中国市场大型汽油MPV 围绕座位布局构建的参考文献: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
+- **图片建议**: SAIC MAXUS G90 个大MPV 双侧滑动门
+- **ALT文本**: 侧面四分之三的视野 SAIC MAXUS G90 MPV 显示其滑动门在中立背景
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 SAIC MAXUS G90是SAIC Maxus的大型(上中)载人车,旨在执行穿梭,家庭和舰队使用. 对于出口买方来说,其定义问题不是运动性表现,而是**配置**: G90是六小时的MPV  and  seven-seat layouts with dual sliding doors,  and  this page locks to the Chinese-market **petrol 2.0T + 8AT front-wheel-drive** line rather than blending in electrified or overseas variants. 这是**中国市场参考**,不是全球规格; 右手驱动和导出架构需要单独的OEM证据,单源输出被标出,以便VIN级确认.
 
@@ -68,11 +68,11 @@ G90号机车采用**六座(2+2+2)**和**七座(2+2+3)**的配置,选择既改变
 
 参考尺寸为5280×1998×1845 mm,有一个3200 mm个轮基——一个真正的大MPV.
 
-**Does it come in six and seven seats?**
+6、7个座位? 页:1
 
 是的,在2+2+2个六座和2+2+3个七座布局中;在合同和同位化文书中固定确切布局及其修饰.
 
-**What engine does this page cover?**
+** 此页面覆盖的引擎是哪个? 页:1
 
 中国市场2.0T汽油在172 kW/360 N·m的参考价位上,带有8AT和前轮驱动;混合/EV衍生产品是分开的,在此不覆盖.
 

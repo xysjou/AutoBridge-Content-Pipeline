@@ -1,15 +1,17 @@
 # 中国EV 国外充电标准:GB/T vs CCS2 vs CHAdeMO vs NACS 兼容性
 
-## 道德操守办公室 元数据
-- **SEO标题**:GB/T vs CCS2 CHAdeMO vs NACS:中国EV出口兼容性
-- ** 金属说明**: 一家中国市场EV会在欧洲,日本或北美收费吗?. GB/T 20234.3/27930 解说,按区域划分的连接器图,导出-版本的输入,适配器和ChaoJi方向.
-- ** 建议的URL**:/指南/chinese-ev-充电-标准兼容性/
-- ** H1 资源需求。 **:中国EV海外充电会吗? GB/T, CCS2,CHAdeMO和NAACS兼容性
-- ** 基本关键词**:GB/T CCS2 CHAdeMO充电标准出口兼容性
-- ** 二级搜索术语**: 中国EV出口充电适配器, GB/T 20234.3 DC快速充电, GB/T 27930 协议, CCS2 导出版本 EV, ChaoJi标准
-- ** 内部链接建议**:车辆/byd-yuan-plus/;指南/右手驱动车/;指南/使用/chinese-ev-inconsion/
-- ** 图像建议**:世界连接器-标准地图;GB/T vs CCS2 输入比较;厂家输出-版本输入;适配器遵守警告
-- **ALT建议**:"DC快充电连接器标准世界地图";"GB/T和CCS2充电内置并排";"中国EV出口-版本CCS2内置".
+## SEO元数据
+- **SEO标题**: GB/T vs CCS2 vs CHAdeMO vs NACS: 中国EV 出口兼容性
+- **Meta描述**: 中市EV会在欧洲,日本或北美收费?. GB/T 20234.3/27930 解释,按区域划分的连接器地图,导出-版本输入器,适配器和ChaoJi方向.
+- **H1**: 华人EV海外充电吗 GB/T、CCS2、CHADEMO和NACS兼容性
+- **核心关键词**: GB/T CCS2 CHAdeMO 充电标准出口兼容性
+- **次级搜索词**: 中国EV出口充电适配器, GB/T 20234.3 DC快速充电, GB/T 27930 协议, CCS2 导出版本EV,, ChaoJi标准
+- **建议URL**: /guides/chinese-ev-charging-standard-compatibility/
+- **搜索意图**: 了解中国EV海外充电吗?GB/T,CCS2,CHAdeMO和NACS兼容性 解释:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **图片建议**: 世界连接器标准地图
+- **ALT文本**: DC快充连接器标准世界地图
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 为什么连接器决定汽车是否可用
 
@@ -71,18 +73,18 @@
 ** 车 池让所有连接器都兼容了吗? ** ChaoJi是设计为兼容性的未来方向;目前的生产车型仍然需要按型号进行确认.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, Leitfaden für Fahrzeugexport-Einkauf

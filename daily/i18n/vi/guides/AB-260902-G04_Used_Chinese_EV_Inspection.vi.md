@@ -1,14 +1,17 @@
 # Dùng EV pre-Exportrationrationion: Pin SOH đã làm đúng, cộng với tai nạn, lũ lụt và kiểm tra Odthth
-## SAO Siêu dữ liệu
-- **SEEO Titry**: sử dụng EV considerion: ắc quy SOH, Flood & Odthth Kiểm tra
-- **Meta Mô tả**: Làm thế nào để kiểm tra một eV tiếng Hoa đã sử dụng trước khi xuất khẩu — điều mà SOH thực sự có nghĩa là dưới tiêu chuẩn pin, một bài kiểm tra điện tử, đọc tế bào cân bằng, tai nạn/tạp quét và kiểm tra tốc độ chéo xe đạp, mà không có ngưỡng pháp lý.
-- ** URL đã gợi ý**: /guides/được sử dụng-chinese-ev-pruction/
-- ** H1 **: Xem xét một eV tiếng Hoa đã dùng trước khi xuất: Số lượng pin là gì và nên từ chối điều gì
-- ** Từ khoá mật khẩu hoa: dùng kiểm tra pin của người Hoa xưa S.S.H
-- **Secondary Search termss**: EV ắc quy SOH chuẩn của QC/T 743, GB/T vòng đời, sử dụng điện áp điện áp điện áp điện, kiểm tra hạn hán hư hại, số lượng pin quay vòng quay lại 31484
-- **I nội bộ Link gợi ý*: /guides/chinese-char-ev-c tương thích tiêu chuẩn /guides/imdes/import-chinese-o-rus-rusac-tt//
-- **Image gợi ý**: Công cụ chuẩn đoán hệ thống tiêu hóa SOH và hệ thống đọc ra tế bào; metered 20–80% charge worksheet; Kiểm tra pin dưới tia X; Dịch vụ/ Nhận mẫu thu âm
-- **LT gợi ý**: "Trong báo cáo chẩn đoán phụ thuộc cho thấy sự khác biệt tối đa của tế bào; "tiểu thức thử điện năng đo điện năng bằng kính," "Bộ pin o ắc quy dưới tia hiv kiểm tra"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Dùng tiếng Hoa EV Xem xét: Pin SOH, thủy triều và đo lường Kiểm tra
+- **Meta mô tả**: Làm thế nào để kiểm tra một Trung Quốc đã sử dụng EV trước khi xuất khẩu — SOH thực sự có nghĩa là dưới tiêu chuẩn pin, một bài kiểm tra điện tử, đọc tế bào cân bằng, tai nạn/tạp quét gia tốc và kiểm tra chéo xe đạp, mà không có một ngưỡng pháp lý nào.
+- **H1**: Xem xét một chiếc tàu EV của Trung Quốc Trước khi xuất: Số lượng pin có nghĩa gì và phải từ chối điều gì
+- **Từ khóa chính**: used Chinese  EV  inspection battery  SOH  checklist
+- **Cụm tìm kiếm phụ**: EV ắc quy SOH tiêu chuẩn QC/T 743, GB/T 31484 chu kỳ cuộc sống, sử dụng EV điện áp mất cân bằng, EV thiệt hại kiểm tra, đo lường kính hiển vi vòng quay vòng quay của pin
+- **URL đề xuất**: /guides/used-chinese-ev-inspection/
+- **Ý định tìm kiếm**: Understand Inspecting a Used Chinese  EV  Before Export: Những con số dùng ắc - quy có nghĩa gì và nên bác bỏ điều gì: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Gợi ý hình ảnh**: Công cụ chuẩn đoán SOH và việc đọc tập tin tế bào
+- **Văn bản ALT**: Báo cáo chẩn đoán độc lập cho thấy sự khác biệt lớn nhất giữa các tế bào và nhau
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Phạm vi: Sổ tay điều tra, không phải tranh luận mới-vs- lợi dụng
 Quyết định mua ** được dùng** như đã đưa ra; trang này bao gồm việc kiểm tra công nghệ trước khi xuất khẩu**. Kinh tế của một chiếc EV đã sử dụng được thống trị bởi một bộ ắc quy có quy có quy hiệu quả cao: một cơ thể sạch với một túi đồ cũ có thể giá trị ít hơn chi phí thay thế sau khi vận chuyển, do đó, việc kiểm tra quy trình hoạt động khác với một chiếc xe ICE. Mục tiêu trung tâm là phải chính xác về "SOH 80%" thực sự là gì - một tham khảo kỹ thuật, không phải một đường biên giới toàn cầu.
 ## SOH Là — và 80% thật sự có nghĩa gì
@@ -58,18 +61,18 @@ Làm sao để chứng minh cho SOH? Một báo cáo độc lập cho thấy SOH
 **Tại sao sự thiệt hại của lũ đặc biệt nguy hiểm trong hệ thống EV? Nó có thể làm giảm thiểu các bộ phận và các bộ phận bị ẩn, gây ra sự an toàn và thất bại đáng tin cậy sau khi xuất khẩu.
 Làm sao mà có thể phát hiện được sự lừa đảo trên máy đo điện tử? So sánh số lượng máy bay có số lượng điện thoại và số lượng điện thoại trong vòng khung và số lượng quần áo; số lượng đo thấp với chu kỳ cao là một lời cảnh báo.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,15 +1,17 @@
 # CCC Sertifikasi Wajib dan Kendaraan Exported - Ekstrak dan Eksemption
 
-## SEO Metadata
-- *** Judul SEO **: Sertifikat CCC dan Ekspor Kendaraan: Apakah sebuah Exported Car Need China CCC, dan Ketika Exemption Applies
-- ** Meta Description **: Apakah sertifikasi wajib China CCC berlaku untuk kendaraan: scope dan entri verifikasi, mengapa produk dibuat hanya untuk ekspor berada di luar rezim pasar rumah tangga, dan kategori pengecualian - huruf.
-- ** H1 **: Stentification Mandation dan Exported Vehicles - Scope dan Exemption
-- ** Primer Keyword **: ccc sertifikasi export Exception
-- ** Akhir Pencarian Second **: Sertifikasi CCC; 3C sertifikat; ekspor Export; sertifikasi produk wajib; surat pembebasan CCC
-- ** Sugested URL **: guide ccc-certications -exception
-- ** Cari Intent **: 厘清CCC适用范围（出厂/销售/进口/经营使用），纯出口产品与免办证明的边界与办理
-- ** Inside Link Sugestions **: guide china -export -compocusion -single-window guide certicate- -of -conformity -typing-acception-history pemandu ckd-skd-knockdown -kit-export- perakitan
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: CCC Certificale and Vehicle Exported Car Need China CCC, and When Exemption Applies
+- **Deskripsi Meta**: Apakah sertifikasi wajib Cina CCC diterapkan pada kendaraan: CCC scope dan verifikasi entri, mengapa produk dibuat semata-mata untuk ekspor berada di luar rezim pasar-rumah, dan kategori-kategori contoh - huruf.
+- **H1**: CCC Sertifikasi Wajib dan Kendaraan Exported - Ekstrak dan Eksemption
+- **Kata kunci utama**: ccc sertifikasi export Exception
+- **Istilah pencarian sekunder**: Sertifikasi CCC; 3C sertifikat; ekspor pembebasan; sertifikasi produk wajib; CCC surat pembebasan
+- **URL yang disarankan**: /guides/ccc-certification-export-exemption/
+- **Maksud pencarian**: Mengerti CCC Sertifikasi Mandat dan Kendaraan Exported - Scope dan Exemption: apa yang harus diverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Sertifikasi Mandat CCC dan Kendaraan Exported - Scope dan Exemption, tidak ada pemeriksaan pentas atau orang-orang mengklaim.
+- **Teks ALT**: Dekat, pandangan alami dari bahan dan subjek yang berhubungan dengan Sertifikasi Mandat CCC dan Kendaraan Exported - Ekmption dan Exemption, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Pisahkan pasar domestik Cina dari transaksi ekspor
 CCC (Perjanjian Kompulsif China) adalah ketentuan untuk produk-produk pasar di Cina: produk yang terdaftar harus disahkan sebelum mereka meninggalkan pabrik untuk penjualan domestik, diimpor ke Cina, atau dijual / digunakan di pasar Cina, dan impor menjalani verifikasi entri. Pertanyaan ekspor kuncinya adalah bukan "adalah mobil CCC -terdaftar" tapi "apakah unit khusus ini memasuki pasar Cina atau diekspor dari sana?"
@@ -37,7 +39,6 @@ Katalog dan kategori pengecualian CCC telah diperbarui; gunakan teks SAMR CNCA s
 Siapa yang mengelola CCC? SAMR mengatur rezim; SDM CNCA memberikan sertifikasi dan pengecualian.
 ** Apakah bagian yang diimpor untuk ekspor-ulang tertutup? ** Mereka mungkin memenuhi syarat untuk kategori pengecualian - ajukan dan mendokumentasikan itu.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Siapa yang mengelola CCC? SAMR mengatur rezim; SDM CNCA memberikan sertifikasi d
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: tepat CCC Sertifikasi Wajib dan Kendaraan Exported
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact CCC Mandatory Certification and Exported Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Siapa yang mengelola CCC? SAMR mengatur rezim; SDM CNCA memberikan sertifikasi d
   - **ID**: CCC certification export, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CCC certification export, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CCC certification export, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CCC #Certification

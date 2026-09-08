@@ -1,16 +1,16 @@
 # SAIC MAXUS G90: A China-Market Large Petrol MPV المبنى المرجعي حول البحر
-## SEO Metadata
-- ** عنوان الحلقة**: SAIC MAXUS G90 الصين - شركة مريخ م. شيكات شراء وصادرات  Auto AutoBridge
-- ** وصف البيانات**: China-market reference for the SAIC MAXUS G90 large MPV: dimensions, 2.0T+8AT petrol line kept separate from any electrified variant, six- vs seven-seat layouts, and export verification steps.
-- ** H1 **: SAIC MAXUS G90: A China-Market Large Petrol MPV المبنى المرجعي حول البحر
-- ** كلمة رئيسية رمزية**: SAIC MAXUS G90 من مواصفات التصدير
-- ** شروط البحث الثانية**: 上汽大通G90; MAXUS G90 dimensions; G90 2.0T 8AT؛ ستة مقاعد من طراز MPV؛ الصين
-- ** URL المقترض**: /مركبات/سيك -ماكسوس - g90/
-- ** الحلقة الدراسية**: 面向海外买家介绍上汽大通MAXUS G90中国市场身份、尺寸、2.0T+8AT燃油线与6/7座布局边界
-- ** الوصلات الداخلية** : /vehicles/jmc-ford-transit- t8/ , /vehicles/dongfeng-aeolus-yixuan/ , /guides/verify-chinese-car-export-supplier-history/
-- ** اقتراح مقدم**: مبلغ كبير قدره G90 مليون ماركوس سعودي ميغاواط مع أبواب مزدوجة الارتحال موضحة من ثلاثة أرباع
-- ** اقتراح**: نظرة جانبية من ثلاثة أرباع لجهاز SAIC MAXUS G90 MPV تبين أبوابها المنهارة على خلفية محايدة
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسع/استعراض/إعادة النظر)
+## بيانات SEO الوصفية
+- **عنوان SEO**: SAIC   MAXUS  G90 China-Market  MPV  Specs  and  شيكات شراء التصدير
+- **وصف Meta**: Chinese-market reference for the  SAIC   MAXUS  G90 large  MPV : الأبعاد 2.0T+8AT خط البنزين أبقى منفصلا عن أي متغير مكهرب ستة مقابل سبع طبقات  and  خطوات التحقق من الصادرات.
+- **H1**: SAIC   MAXUS  G90: A China-Market Large Petrol MPV المبنى المرجعي حول البحر
+- **الكلمة المفتاحية الرئيسية**: SAIC   MAXUS  G90 export specs
+- **مصطلحات بحث ثانوية**: 上汽大通G90; MAXUS  G90 dimensions; G90 2.0T 8AT; six seven seat  MPV ; Chinese  MPV  export China spec
+- **URL المقترح**: /vehicles/saic-maxus-g90/
+- **نية البحث**: Understand  SAIC   MAXUS  G90: A China-Market Large Petrol MPV المبنى المرجعي حول عرض البحر ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/jmc-ford-transit-t8/, /vehicles/dongfeng-aeolus-yixuan/, /guides/verify-chinese-car-export-supplier-history/
+- **اقتراح الصورة**: A SAIC MAXUS G90 large MPV with dual sliding doors shown from side three-quarter
+- **نص ALT**: Side three-quarter view of a SAIC MAXUS G90 MPV showing its sliding doors on a neutral background
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 "الـ "إس آي أي ماكسوس G90 هو "سآيك ماكسوس" كبير (ممتاز) و مُهدف إلى مكوك تنفيذي، وإستعمال عائلي وأسطولي وبالنسبة لمشتري التصدير، فإن السؤال المحدد ليس أداء رياضي ولكنه ** التداول**: إن G90 هو مدفع مستنفد طويل جداً يعرض في مواضع من ست إلى سبع طوابق ذات أبواب مزدوجة، وهذه الصفحة تغلق على خط العجلات الصينية + 2.0T + 8AT من الدفع الأمامي** بدلاً من الخلط بين الناقل الكهربي أو المتغيرات الخارجية. وهذا مرجع تجاري**، وليس مواصفات عالمية؛ وتستلزم عمليات بناء اليد اليمنى والتصدير أدلة منفصلة من نوع منظمة أوم، وتُعَلَّم النواتج ذات المصدر الواحد من أجل تأكيد مستوى فيينا.
 
@@ -66,7 +66,7 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 ## FAQ
 ** كم يبلغ حجم ماكسوس G90؟ **
 
-Reference dimensions are 5280 × 1998 × 1845 mm with a 3200 mm wheelbase — a genuinely large MPV.
+والأبعاد المرجعية هي: × 5280 × 1998 × 1845 ملم مع قاعدة متحركة عيار 3200 ملم - وهي مدفعية مدفعية متوسطة الحجم كبيرة حقا.
 
 ** هل يأتى فى ستة وسبعة مقاعد؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
 

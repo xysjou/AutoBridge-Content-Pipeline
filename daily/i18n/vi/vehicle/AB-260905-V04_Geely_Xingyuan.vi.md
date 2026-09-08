@@ -1,15 +1,17 @@
 # Geely Xenguan Thiên hà Xengyan (2025/2026) — Trung Quốc-Market BOV Spec và Xuất khẩu các hình thức
 
-## SAO Siêu dữ liệu
-- **SEO Title**: Geely Xinguan (Galaxy Xenguan) BEV: Hướng dẫn xuất và quang cảnh Trung Quốc
-- **Meta Mô tả**: Thị trường Trung Quốc Geely Xenguan/Starwish nhỏ EV: Kiến trúc GEA, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh dòng  and  xuất khẩu séc mua hàng.
-- ** H1 **: Geely Xengyan Thiên hà Xenguan (2025/2026) — China-Market BOV Spec và Xuất khẩu
-- **Cuxy 星愿_: Geely 吉利 Xenguan 吉利星愿 (Galaxy 星愿) ra đời
-- **Secondary Search termss**: Geely Xengyan xuất khẩu; Thiên hà Xengyan MMMM; Geely Starwish; Trung Quốc nhỏ sunpopback; CLTC thành phố EV
-- **Sudeest URL**: /vehicles/geely-xinguan
-- **Tìm kiếm ý định**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: /vehcles/geely-xinguan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/portport-clictions-Send-user/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Geely Xinguan (Galaxy Xinguan) BEV: China-Market Spect & Eng Guide
+- **Meta mô tả**: Thị trường Trung Quốc Geely Xengyan/Starwish nhỏ EV: GEA kiến trúc, RWD,  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh dòng  and  xuất khẩu séc mua hàng.
+- **H1**: Geely Xenguan / Thiên hà Xenguan (2025/2026) — China-Market BEV Specification và Xuất khẩu
+- **Từ khóa chính**: Geely / 吉利 Xengyan / 吉利星愿 (Galaxy 星愿) ra đời
+- **Cụm tìm kiếm phụ**: Tuyệt vời Xenguan xuất khẩu; Thiên hà Xengyan MMM; Geely Starwish; cửa sau điện nhỏ Trung Quốc; CLTC thành phố EV
+- **URL đề xuất**: /vehicles/geely-xingyuan/
+- **Ý định tìm kiếm**: Hiểu Geely Xenguan / Thiên hà Xenguan (2025/2026) — China-Market BEV Hình ảnh và Xuất khẩu chứng nhận: cái mà một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych-tạp chiếu bóng cho Geely Xenguan / Thiên hà Xenguan (2025/2026) — China-Market OV Specs và Elive Verify, không có kiểm tra dàn dựng hoặc người tuyên bố.
+- **Văn bản ALT**: Gần, nhìn tự nhiên về vật liệu và chủ đề liên quan đến Geely Xenguan / Thiên hà Xingyan (2025/2026) — Trung Quốc-Market OV Spec và Expo, nền tảng trung lập, không có người hoặc hành động thanh tra được trình bày.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Nhận diện người mua và mô hình ngữ cảnh
 **Geely Xenguan (Galaxy Xenguan, được bán ở một số thị trường xuất khẩu dưới một tên tiếng Anh riêng biệt)** là một ắc quy ắc quy A0 cửa trên trang web **GEEEA** kiến trúc EV, với **rear-motor/rear-ccar-ccar**. Trang này là đề cập đến thị trường Trung Hoa **; một tên mô hình nước ngoài không được đối xử giống hệt nhau nếu không có một tuyên bố OEM.
@@ -53,7 +55,6 @@ Sao không có hình ảnh năng lượng? Nó không được lấy từ đâu 
 410 km WLPP hả? Không.
 Làm sao nó có thể vận chuyển được? Như một ắc quy li-li-on nguyên vẹn dưới lớp IMDG hiện nay (UN3556); xác nhận với nhà sản xuất.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -71,18 +72,18 @@ Làm sao nó có thể vận chuyển được? Như một ắc quy li-li-on ngu
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác là Geely Xenguan
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Xingyuan
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
@@ -95,6 +96,5 @@ Làm sao nó có thể vận chuyển được? Như một ắc quy li-li-on ngu
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

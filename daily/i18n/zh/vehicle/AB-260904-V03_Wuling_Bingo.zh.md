@@ -1,15 +1,17 @@
 # 武林宾果(缤果):中国小电车"回扣"——光谱和出口商检查
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- ** 金属说明**: 中国市场武林宾果小BEV——LFP电池,  203/333/410 km CLTC steps,  30/50 kW motors, DC快速充电, 维度,  and  进口商必须每修剪一次才能核实的。
-- ** 提议URL**:车辆/摇摆-宾戈/
-- ** H1 资源需求。 **:武林宾果:中马小EV标本与出口验证
-- ** 初键词**: 粗略的 bingo ev 规格导出
-- 第二次搜索**:武灵宾果203km,武灵宾果333km,武灵宾果410km,中国小EV出口,五菱缤果规格
-- ** 内部链接建议**: /指南/前发货-un3556-imdg-compliance/;/指南/车辆-出口-pdi-装运前交接/;/车辆/byd-qin-l-dm-i/
-- ** 图像建议**:五门双边;203对333/410徽章;后方货物,座位折叠;充值端口;四座舱
-- **ALT建议**: "Wuling Binding小电源舱背面中国谱"; "Wuling Binding CLTC范围203 333 410 km"
+## SEO元数据
+- **SEO标题**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **Meta描述**: 中市的武林宾果 小型BEV -LFP电池  203/333/410 km  CLTC  steps,  30/50 kW motors, DC快速充电, 维度,  and  进口商必须每修剪一次才能核实。
+- **H1**: 武林宾果:中马小EV谱与出口核查
+- **核心关键词**: 正在运行 bingo ev 光谱导出
+- **次级搜索词**: 武林 宾果 203km 武林 宾果 333km 武林 宾果 410km 中国小EV出口 五菱缤果规格
+- **建议URL**: /vehicles/wuling-bingo/
+- **搜索意图**: 了解Wuling Bin果:中国-市场小EV号标本和出口核查:车辆/零件出口商在承诺下订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **图片建议**: 五门 右转
+- **ALT文本**: 武林宾果小电源孵化器 中国光谱
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者背景: 三步步出售的城市BEV
 "宾果"是武灵的五门小电舱背面,旨在城市和轻商家个人使用. 对于出口商来说,决定性变量是**距离步**,因为运动动力、电池和最高速度随它而变化。 本表涵盖**中国市场2024线(REFERENCE MANKET: CHINA)**;没有OEM海外页面,中国数字是参考,而不是全球规格.
@@ -68,16 +70,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Wuling Bingo, battery-electric vehicle
-  - **FR**: Référence AutoBridge pour acheteurs export — Wuling Bingo, véhicule 100 % électrique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Bingo, batterieelektrisches Fahrzeug
-  - **ES**: Referencia AutoBridge para compradores de exportación — Wuling Bingo, vehículo 100 % eléctrico
-  - **PT**: Referência AutoBridge para compradores de exportação — Wuling Bingo, veículo 100 % elétrico
+- ** ** 自动桥出口-买方参考——Wuling Bin果,电池-电力车辆
+- **法国**: 出口汽车汽车公司——Wuling Bin果,100%电子化
+- DE**: 国家 自动桥-Referenz für Exportkäufer — Wuling Bincod, Bashielektrisches (英语). 法尔泽格
+- **ES**: 出口控制中心——Wuling Bin果, 100% 精选
+-  **: 出口控制中心——Wuling Bin果, viículo 100% elétrico
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Wuling Bingo, 純電気自動車
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Wuling Bingo, 순수 전기차
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Wuling Bingo, xe thuần điện
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Wuling Bingo, รถยนต์ไฟฟ้า 100%
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Wuling Bingo, kendaraan listrik murni
+- 身份证**: 维基月球在线解说-维基百科中的相关条目: 维基语录链接:名人名言 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 语 - 谚语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 性 - 性 - 语 - 语 - 语 - 语 - 性 - 语 - 语 - 性 - 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 

@@ -1,15 +1,17 @@
 # 장안 UNI-Z (2026, 새로운 블루 와일 PHEV) - 중국 시장 사양 및 수출 검증
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 창안 UNI-Z PHEV 2026: 중국 시장 사양 및 수출 구매자 가이드
-- **마타 기술 **: 중국 시장 Changan UNI-Z 새로운 블루 와일 PHEV: 치수, 18.4 kWh LFP 라인, 130 km CLTC 전기 범위, DC V2L 및 수입 업체를위한 VIN 레벨 검사.
-- ** H1 **: 창안 UNI-Z (2026, 새로운 블루 와일 PHEV) - 중국 시장 사양 및 수출 검증
-- ** 출원 키워드**: 창간 长安 UNI-Z 사양 수출
-- **세컨드리뷰 이용**: 창안 UNI-Z 수출; UNI-Z PHEV 사양; 중국 플러그 인 하이브리드 SUV; V2L 수출; CLTC 범위
-- **Suggested URL**: /vehicles/changan-uni-z/
-- ** 수색 **: 了解 장안 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: 창간 UNI-Z PHEV 2026: 중국 시장 사양 및 수출 구매자 가이드
+- **메타 설명**: 중국 시장 Changan UNI-Z 새로운 파란 Whale PHEV: 차원, 18.4 kWh LFP 선, 130 km CLTC 전기 범위, DC/V2L 및 VIN - 수입업자를 위한 수준 체크.
+- **H1**: 장안 UNI-Z (2026, 새로운 파란 Whale PHEV) - 중국 시장 Specs 및 수출 검증
+- **주요 키워드**: 장안/长安 UNI-Z specs 수출
+- **보조 검색어**: Changan UNI-Z 수출; UNI-Z PHEV specs; 중국 마개에서 잡종 SUV; V2L 수출; CLTC 범위
+- **추천 URL**: /vehicles/changan-uni-z/
+- **검색 의도**: Changan UNI-Z (2026, New Blue Whale PHEV) - 중국 시장 사양 및 수출 검증: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **이미지 제안**: 창안 UNI-Z (2026, New Blue Whale PHEV) - 중국 시장 사양 및 수출 검증, 단계 검사 또는 사람들이 주장하는 현실적이고 문서 / 차량 중심 장면.
+- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Changan UNI-Z (2026, New Blue Whale PHEV)와 관련된 주제 - 중국 시장 Specs 및 Export Veri, 중립 배경, 사람 또는 검사 행동 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트 및 모델 ID
 **Changan UNI-Z (2026) ** 덮여있는 것은 중국 시장 ** 새로운 블루 와일 (Xin Lan Jing) 플러그 인 하이브리드 ** 컴팩트 SUV입니다. 순수 - 필트 택트 UNI-Z와 수출 시장 명찰 창간에서 구분된 라인은 다른 곳에서 사용할 수 있습니다. 해외 이름의 주식은 OEM 문없이 주장되지 않습니다. 참조 시장은 ** 중국**입니다.
@@ -55,11 +57,10 @@ UNI-Z 주문은 동일한 배지가 다른 선택 수준을 다루기 때문에 
 **WLTP 범위는 130 km입니까? ** 아니다 — CLTC입니다.
 ** 수출 가격은 어디에 있습니까? ** 현재 인용을 요청하십시오; 이 페이지는 아무도 출판합니다.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | 담당자: Mr. wang | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | ☸ ☸ 电机, 屏幕, 屏幕, 屏幕, 屏幕, 屏幕 |
 | 단위 Z 配置信息 | 汽车之家车家号 | 담당자: Mr. wang | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 대체하십시오 | 快充,  外放电 |
 | 长安 UNI-Z 参数,长安,长安,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 경우 | 尺寸, 轴距, 后备厢,  动力 |
 | 칭다오 자동차 공식 글로벌 사이트 | 장안 자동차 长安汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.globalchangan.com/ 를 통해 | 선 ID와 OEM 권위 |
@@ -73,18 +74,18 @@ UNI-Z 주문은 동일한 배지가 다른 선택 수준을 다루기 때문에 
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 장안 UNI-Z 2026
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 장난 UNI-Z 2026년
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ UNI-Z 주문은 동일한 배지가 다른 선택 수준을 다루기 때문에 
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

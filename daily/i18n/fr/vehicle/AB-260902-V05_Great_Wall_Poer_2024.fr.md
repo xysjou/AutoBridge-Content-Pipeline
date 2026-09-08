@@ -1,14 +1,17 @@
 # GWM Poer (Pao Ute) — Train d'entraînement, lit, châssis et la carte de version pour les importateurs de ramassage
-## OEuvre Métadonnées
-- **Référencement Titre**: Guide de version pour le poer Ute de GWM:
-- **Meta Description**: GWM Poer (Chine 炮 GWM Ute) expliqué pour les acheteurs de ramassage — essence vs diesel, évolution 8AT/9AT, sur demande 4WD, lit standard vs long, vérification de la charge utile et comment fixer la construction exacte d'exportation.
-- **URL suggérée**: /véhicules/grand mur-poer/
-- ** H1 **: Poer GWM (Pao): Fixation du train d'entraînement, du lit et du châssis avant de commander un ramassage
+## Métadonnées SEO
+- **Titre SEO**: GWM Poer / Ute Pickup: Guide de version de la chaîne motrice, lit et exportation
+- **Description meta**: GWM Poer (Chine 炮 / GWM Ute) expliqué pour les acheteurs de ramassage - essence vs diesel, évolution 8AT/9AT, sur demande 4WD, lit standard vs long, vérification de la charge utile et comment fixer la construction exacte d'exportation.
+- **H1**: GWM Poer (Pao): Fixation du train d'entraînement, du lit et du châssis avant de commander un ramassage
 - **Mot-clé principal**: GWM Poer pickup spécifications exportation
-- ** Termes de recherche secondaire**: GWM Poer diesel 2.4T, GWM Exportation d'Ute, GW4C20B essence, GW4D24 diesel 480 Nm, Grande Double cabine de ramassage mural, Poer 4x4 cargo
-- **Suggestions de lien interne**: /guides/drive-droite-chinois-cars/; /guides/import-chinois-tuck-saudi-saso/; /guides/commercial-tuck-fleet-procurement-china/
-- **Suggestions d'image**: double-cabine avec lit; carte essence vs diesel; sélecteur 4WD; mesures du lit; châssis à cadre d'échelle
-- ** Suggestions d'ALT**: "Pick-up double cabine GWM Poer"; "Dimensions du lit de chargement de la poche"; "Sélecteur de quatre roues motrices et boîtier de transfert de la poche"
+- **Termes de recherche secondaires**: GWM Poer diesel 2.4T, GWM Ute export, GW4C20B essence, GW4D24 diesel 480 Nm, Grand Prise en charge murale double cabine, Poer 4x4 cargo
+- **URL suggérée**: /vehicles/great-wall-poer/
+- **Intention de recherche**: Comprendre GWM Poer (Pao): Fixation du train d'entraînement, du lit et du châssis avant de commander un ramassage: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/right-hand-drive-chinese-cars/ ; /guides/import-chinese-truck-saudi-saso/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Suggestion d'image**: double-cabine avec lit
+- **Texte ALT**: GWM Poer double-cabine ramasse
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
+
 ## Où le Poer est assis dans la ligne GWM
 Le GWM Poer (Chine) nom 炮 / Pao; certains marchés d'exportation GWM Ute) est la Grande Muraille centrale body-on-frame pickup plate-forme, vendu au Moyen Est, ANZ, Amérique latine et sélection RHD marchés dans les deux plans de direction et les deux les carburants. Le nom couvre **passager (乘用版), commercial (商用版) et hors route (越野版)** construit dont le châssis, lit, suspension et transmissions différentes — donc la version doivent être fixés avant toute comparaison. C'est un sempergreen page du modèle: la Chine ** 2024 passager build** est le nom Référence (MARCHÉ DE RÉFÉRENCE: CHINE), alors que le GWM actuel -données officielles (qui a évolué 9AT et produits révisés) est montré séparément plutôt que d'écraser silencieusement 2024 chiffres.
 ## Groupe motopropulseur: essence par rapport au diesel — et évolution de l'année modèle à respecter
@@ -48,30 +51,30 @@ Aucun prix à l'exportation statique n'est publié; les références RMB de la C
 **Qu'est-ce que la charge utile?** Non mentionné ici parce qu'il était absent de la base de faits vérifiée; prendre à partir de la feuille officielle de la version exacte.
 **Est-il disponible en RHD?** GWM vend Poer/Ute dans les deux versions sur de nombreux marchés — confirmez la version spécifique du moteur/version en RHD pour votre pays.
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Poer, Verbrenner (chinesischer Markt) Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Poer, vehículo de combustión (mercado chino) camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — GWM Poer, veículo a combustão (mercado chinês) picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Poer, 中国市場仕様 内燃機関車 ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Poer, 중국 시장 내연기관 차량 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Poer, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Poer, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Poer, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 皮卡
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle / pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) / pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Poer, Verbrenner (chinesischer Markt) / Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Poer, vehículo de combustión (mercado chino) / camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Poer, veículo a combustão (mercado chinês) / picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Poer, 中国市場仕様 内燃機関車 / ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Poer, 중국 시장 내연기관 차량 / 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Poer, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Poer, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Poer, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

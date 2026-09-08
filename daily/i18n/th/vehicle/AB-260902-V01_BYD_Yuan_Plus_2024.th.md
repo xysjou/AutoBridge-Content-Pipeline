@@ -1,14 +1,17 @@
 # ไบดีหยวน บวก (Atto 3) — แบตเตอรี, เรนจ์ ไซโคลน, ชาร์จและส่งออก โน้ต
-## เชา ข้อมูลกํากับภาพ
-- <EO ชื่อเพลง ~: ByD Lung Plus Atto 3: แบตเตอรี, เรนจ์ & ส่งออกคู่มือผู้ซื้อ
-- ""คําอธิบาย" Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, ทําไมจีน CLTC ต้องแยกออกจากรูป WLTP/NEDC ของจุดหมายปลายทาง GB/T vs ชาร์จท้องถิ่น  and  จะตรวจสอบอะไรโดย VIN
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/ไบด์-ยูอัน
-- ** H1 ~: ByD Yang Plus (เพิ่มชื่อรายการ ATTO 3): แบตเตอรี, Sport Cycle, haring and Software for servers (in)
-- ~คําสําคัญ~ BD Yang Plus atto 3 identics Express
-- ~การค้นหาตามวาระที่: ~ BD Atto 3 แบตเตอรี่ 60.48 kWh หยวน บวก ซีทีซี vs WLTP ช่วง ขนาดไบต์ แบตเตอรี่เบลด LFP  Atto 3 CCS2 charging, หยวน บวก ดิลิง ต่างประเทศ ส่งออกไปยัง SUV แบบใช้หน่วยเป็น EV แบบจุลภาคของจีน
-- ** ลิงก์ภายใน **: guides/chinishs-ev-chitching-compacting-compact/; guides/ right-dwived-chinish-cars/;/// guides/chinishes-v-Insect posivation/
-- ข้อเสนอแนะ: front three-quarter studio view; 430/510 vs WLTP เปรียบเทียบ; พอร์ตที่สั่งปิด นั่งและบูตด้านหลัง หมุนหน้าจอ DiLink
-- ~~~~~~~~~ คําแนะนํา: "Boyd Joan Plus Atto 3 amazy SUV". "Yuan Plus CLTC" กับ Atto 3 WLTP เปรียบเทียบ". "Blade แบตเตอรีพอร์ต GB/T inlet"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: BYD Joan Plus / Atto 3: แบตเตอรี, เรนจ์ & ส่งออกคู่มือการซื้อ
+- **คำอธิบาย Meta**: Chinese-market  BYD  Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, ทําไมจีน CLTC จึงต้องแยกจากตัวเลข WLTP/NEDC ของปลายทาง GB/T vs ชาร์จท้องถิ่นในท้องถิ่น,  and  สิ่งใดทดสอบด้วย VIN
+- **H1**: BYD Joan Plus (ชื่อพอร์ต atto 3): แบตเตอรี, Sport Cycle, haring และซอฟท์แวร์สําหรับผู้นําเข้า
+- **คีย์เวิร์ดหลัก**: BYD Joan Plus Atto 3 ข้อกําหนดส่งออก
+- **คำค้นหารอง**: BYD แบตเตอรี 3 แบตเตอรี 60.48 kWh หยวน บวก CLTC vs WLTP ช่วง BYD เบลดแบตเตอรี LFP ATTO 3 CCS2 ชาร์จ หยวน บวก ดิลิง ต่างประเทศ ส่งออกเป็นกล้อง Schine EV actum SUV
+- **URL ที่แนะนำ**: /vehicles/byd-yuan-plus/
+- **เจตนาการค้นหา**: เข้าใจ BYD หยวน บวก (เพิ่มชื่อพอร์ต แอตโต 3): แบตเตอรี, เรนจ์ ไซโคลน, ชาร์ปและซอฟต์แวร์สําหรับผู้นําเข้า: สิ่งที่นักส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **คำแนะนำรูปภาพ**: front three-quarter studio view
+- **ข้อความ ALT**: BYD หยวน บวก / แอทโต 3 คอมเพล็กซ์ไฟฟ้า SUV
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
+
 ## คอนเท็กซ์: รถ คัน หนึ่ง ภาษา เฉพาะ สอง ภาษา
 BID Joan+ (元 PLUS) เป็นรถ SUV อัตโนมัติ บนเครื่องอี-แพลตฟอร์ม 3.0 ด้วยแบตเตอร์รี่แอลเอฟพี ข้างนอก จีนมีขายเป็น ATTOD 3 ทั่วทวีปยุโรป เอเชียตะวันออกเฉียงใต้ ลาเมี่ยนอเมริกาและมหาสมุทรเอเชีย รวมถึงตลาดอาร์เอชดี เช่น ไทยและออสเตรเลีย The China Line line ครอบคลุมที่นี่ คือ The 2024 Fultation (荣耀版) ~. นิสัยการพูดที่เผ็ดร้อนที่สุด คือ การแยกภาษาเฉพาะสองภาษาออกจากกัน: ** ข้อมูลการสร้างของจีน ใช้ช่วงของ CLTC และอินเทอร์เทนเมนต์ GB/TC ส่วนตารางกําหนดการส่งออกของไบดี ใช้ WLTP/NEDC และตัวเชื่อมต่อส่วนภูมิภาค ** นี่เป็นหน้าต้นแบบแบบเวอร์เขียว (ไม่มีอยู่ในที่อยู่ URL ปี): เวทีนี้ดําเนินการตลอดปีโมเดล และตัวเลขที่ระบุรุ่นด้านล่างนี้ ถูกระบุโดยตลาดและวัฏจักร แทนที่จะนําเสนอเป็น "สเปกตรัม" ครั้งเดียว
 ## แบตเตอรี่และวาริแอนต์ (การตัดสินใจ EV เริ่มต้นที่นี่)
@@ -49,43 +52,43 @@ BID Joan+ (元 PLUS) เป็นรถ SUV อัตโนมัติ บน�
 ~รถจีบีทีชาร์จได้ CCS2 คันไหม ~ เฉพาะเมื่อมีการแก้ไขข้อมูลและแก้ไขที่ถูกต้อง สําหรับกฎหมายและการจับมือ; ปลายทาง ATto 3 หน่วยปกติจะสร้างตามมาตรฐานท้องถิ่น -- ระบุตามลําดับ
 "ราคาจีนเป็นคําพูดของ FOB หรือเปล่า" ไม่ มันเป็นงานอ้างอิงภายในประเทศ ต้องการอ้างอิงการส่งออกแบบรายการ
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus Atto 3, battery-electric vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus Atto 3, véhicule 100 % électrique SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus Atto 3, batterieelektrisches Fahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus Atto 3, vehículo 100 % eléctrico SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus Atto 3, veículo 100 % elétrico SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus Atto 3, 純電気自動車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus Atto 3, 순수 전기차 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus Atto 3, xe thuần điện SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus Atto 3, รถยนต์ไฟฟ้า 100% รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus Atto 3, kendaraan listrik murni SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus Atto 3, مركبة كهربائية بالبطارية سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus Atto 3, 纯电动车 SUV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus / Atto 3, vehículo 100 % eléctrico / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus / Atto 3, veículo 100 % elétrico / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus / Atto 3, 純電気自動車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus / Atto 3, 순수 전기차 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus / Atto 3, xe thuần điện / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus / Atto 3, รถยนต์ไฟฟ้า 100% / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus / Atto 3, kendaraan listrik murni / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| หยวนบวกศูนย์โมเดลจีนอย่างเป็นทางการ (เครือข่ายดีนาสตี้) | ไบต์ออโต้ (ประกาศการ *ผู้จัดการ ~) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | ISWIIID (OEM; ขอบเขตแบบ Model-line/ รุ่น) | สมอเรือโออีเอ็ม สําหรับเส้นแบบอ้วน บวก หมายเหตุ: หน้าจีนปัจจุบันของไบดี แสดงรุ่นที่ขับหลังใหม่กว่า; ใช้ผูกอัตลักษณ์รุ่นและรุ่นและไม่ใช่แหล่งกําเนิดของเกียรติ 2024 (FWD, 430/510 CLTC) ครอบคลุมที่นี่ |
+| หยวนบวกศูนย์โมเดลจีนอย่างเป็นทางการ (เครือข่ายดีนาสตี้) | ไบต์ออโต้ (ประกาศการ *ผู้จัดการ ~) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | ISWIIID (OEM; สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. ห น96969696จ น น น น น น น น น น น น ด ด ด ด ด ด ด ด ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี ี (พ.ศ. 2554 ส/i.8 กลาโกโส พงษ์ เ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค น น น น น น น น น น น น น น ่อ ่อ ่อ น ่อ ่อ น ่อ ่อ ่อ น น น น น น น น ่อ น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ   ่อ ่อ         ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  25 มิถุนายน ร ร ร ร ร ร ร ร ร ุ ุ ุ ุ ุ ุ ร ร ร ร ร ร ร ร ร า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ใช้ผูกอัตลักษณ์รุ่นและรุ่นและไม่ใช่แหล่งกําเนิดของเกียรติ 2024 (FWD, 430/510 CLTC) ครอบคลุมที่นี่ |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — การ สอบ ถาม ของ สาธารณชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ยืนยันการออกเสียงและการเปลี่ยนกลุ่มโมเดลและการออกเสียงตามแบบที่อนุญาตโดย VIN/anculation ก่อนการเรียงลําดับ |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | SAMR มาตรฐานมาตรฐาน (มาตรฐานสากล) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | การกลับหน้า ที่ใช้ในการล็อคเกรดของจีนที่แน่นอน และหลีกเลี่ยงการแทนที่การตัดแต่ง |
 | หยวนบวก 2024 ตารางพารามิเตอร์ | ปูมบันทึกของ ZOL ออโต้ | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | ROOS_ CHCKED | ขนาดจีน, พลังงานชาร์จ, ADAS/ เนื้อหา |
-| บทความแบบอ้วนบวก | ดองแมดติ (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | ROOS_ CHCKED | 150 kW/ 310 N·m (พ.ศ. 60.48 kWh (พ.ศ. CLTC 510 (ค.ศ. 7.3 วินาที |
-| Pages, สืบค้นเมื่อ: | ออโต้โฮม (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | ROOS_ CHCKED | มอเตอร์, แบตเตอรี่ แบตเตอรีเปิดตัวบริบท |
+| บทความแบบอ้วนบวก | ดองแมดติ (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | ROOS_ CHCKED | 150 kW/ 310 N·m (พ.ศ. 60.48 kWh (พ.ศ. CLTC 510 (ค.ศ. 7.3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+○ 2549 หน้า (พ.ศ. | ออโต้โฮม (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | ROOS_ CHCKED | มอเตอร์, แบตเตอรี่ แบตเตอรีเปิดตัวบริบท |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 电机马力 204Ps 、 快充 80% |
-| 汽车之家 (车家号) 荣耀版上市新闻 (พ.ศ. | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 上市时间 2024-03 、 指导价 11.98-14.78 万 、 全系降价 1.6 万 |
-| 元 PLUS 2024 款荣耀版 参数配置表 | 太平洋汽车 ปิโกโต (พ.ศ. | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | ROOS_ CHCKED | 2024 ตารางค่าความจุ: 49.92/60.48 kWh, CLTC 430/510 (ค.ศ.  five Glory grades (independent DB #1, ตรวจสอบถึง) |
+| (车家号 车家号 车家号 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 荣耀版上市新闻 ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  (  (  (  (  (  (  (  (  (  (  (  (  (  (  ( | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 上市时间 2024-03 、 指导价 11.98-14.78 万 、 全系降价 1.6 万 |
+| 元 PLUS 2024 款荣耀版 参数配置表 | 太平洋汽车 ปิโกโต (พ.ศ. | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | ROOS_ CHCKED | 2024 ตารางค่าความจุ: 49.92/60.48 kWh, CLTC 430/510 (ค.ศ. 5 เกรดพระเกียรติ (ในข้อที่อิสระ DB # 1, PS(102) ว จ ส อ/อ81838ง) ○
 | 元 PLUS 2024 款荣耀版 430KM 配置表 | 爱卡汽车 เอ็กซ์คาร์ | CN | https://newcar.xcar.com.cn/m72729/config.htm | 2026-09-05 | ROOS_ CHCKED | 2024 Telection, FWD Planguage and 430 km Legion DB (in Confect DB # 2, ได้รับการยืนยันถึงตําแหน่ง URL Xcar จริง) |
 | 元 PLUS 参数配置 (2024 款) พ.ศ. | 汽车之家 ชุดของการปรับแต่งบ้านอัตโนมัติ | CN | https://car.autohome.com.cn/config/series/6298-21793.html | 2026-09-05 | ROOS_ CHCKED | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, ตารางพารามิเตอร์ — ไม่ใช่หน้า Q&A ที่เรียบเรียงแล้ว) |
 

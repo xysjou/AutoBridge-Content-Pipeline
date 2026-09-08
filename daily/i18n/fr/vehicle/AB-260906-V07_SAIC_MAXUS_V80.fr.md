@@ -1,16 +1,16 @@
 # SAIC MAXUS Xintu V80: Référence à l'exportation de diesel diesel de grande capacité minibus
-## OEuvre Métadonnées
-- **Référencement**: SAIC MAXUS V80 (Xintu) Guide des spécifications d'exportation pour les véhicules à moteur diesel et les minibus
-- **Description détaillée**: Référence du marché chinois pour le SAIC MAXUS Xintu V80 PRO grand van/minibus: 2.0T diesel, manuel/AMT, longueur et sièges variantes, et les documents GVW/charge utile qu'un acheteur d'exportation doit obtenir.
-- ** H1 **: SAIC MAXUS Xintu V80: Référence à l'exportation de diesel diesel de grande capacité sur le marché chinois
-- **Mot-clé principal**: spécifications SAIC MAXUS V80 van export
-- **Conditions de recherche secondaires**: MAXUS V80 fourgon diesel; Xintu V80 PRO 2.0T; V80 sièges minibus; MAXUS grande fourgonnette; Chine panel van export
-- **Suggested URL**: /vehicles/saic-maxus-v80/
-- **Intention de la recherche**: 面向海外B端买家介绍新途V80中国市场版本身份、车身矩阵/座位/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- **Suggestion d'image**: Une grande camionnette SAIC MAXUS V80 montrée sur le profil latéral pour afficher sa longueur de caisse
-- **ALT Suggestion**: Profil latéral d'une grande camionnette SAIC MAXUS Xintu V80 montrant la cargo longue
-- **Schema Scope**: Article + Vehicle
+## Métadonnées SEO
+- **Titre SEO**: SAIC MAXUS V80 (Xintu) Guide des spécifications d'exportation pour les fourgonnettes diesel et minibus
+- **Description meta**: Référence du marché chinois pour le SAIC MAXUS Xintu V80 PRO grand van/minibus: 2.0T diesel, manuel/ AMT, variantes de longueur et de siège, et les documents de GVW / charge utile qu'un acheteur d'exportation doit obtenir.
+- **H1**: SAIC MAXUS Xintu V80: Référence à l'exportation de diesel diesel de grande capacité sur le marché chinois
+- **Mot-clé principal**: SAIC MAXUS V80 spécifications d'exportation de fourgonnette
+- **Termes de recherche secondaires**: MAXUS V80 fourgonnette diesel; Xintu V80 PRO 2.0T; V80 sièges minibus; MAXUS gros fourgonnette; exportation de fourgonnettes à panneaux chinois
+- **URL suggérée**: /vehicles/saic-maxus-v80/
+- **Intention de recherche**: Comprendre SAIC MAXUS Xintu V80: Chine-Marché Diesel Grand Van / Minibus Export Référence: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- **Suggestion d'image**: A SAIC MAXUS V80 grande fourgonnette de panneau montrée dans le profil latéral pour afficher sa longueur de caisse de cargaison
+- **Texte ALT**: Profil latéral d'une grande camionnette SAIC MAXUS Xintu V80 montrant la longue caisse de chargement
+- **Portée du schéma**: Article + Véhicule
 
 La Xintu ('New Route') V80 est la grande camionnette de SAIC MAXUS (Big-VAN) vendue en minibus passager, en fourgonnette et en fourgonnette sur plusieurs longueurs de carrosserie. Les acheteurs commerciaux le choisissent pour le volume de chargement, les sièges et GVW, donc cette page est organisée autour de la matrice du corps et les documents qui prouvent charge utile. Il couvre le ** 2025 V80 PRO avec le 2.0T diesel**; le 2.5T plus ancien est un groupe motopropulseur et n'est pas transporté dans cette référence.
 

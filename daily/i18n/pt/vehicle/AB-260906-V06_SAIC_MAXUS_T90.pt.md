@@ -1,16 +1,16 @@
 # SAIC MAXUS Interstellar T90: Referência de exportação de diesel do mercado da China
-## SEO Meta- dados
-- ** Título SEO**: SAIC MAXUS T90 (Interestelar) Especificações de exportação e verificações de compra de diesel
-- ** Descrição do Meta**: Referência do mercado chinês para o captador diesel SAIC MAXUS Interestelar T90: chassis de corpo-em-quadro, camas standard/long, diesel duplo-turbo 2.0T, opções de drivetrain e o nome de exportação.
-- ** H1 **: SAIC MAXUS Interestelar T90: China-market Diesel Pickup Referência de exportação
-- **Chave Primária**: SAIC MAXUS T90 captador especificações de exportação
-- ** Termos de pesquisa secundários**: MAXUS T90 diesel captador; Interestelar T90 2.0T twin turbo; T90 8AT quatro rodas de tração; MAXUS captador de dimensões da cama; China captador exportação
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍星际 T90 中国市场版本身份, 货箱 四驱 底盘 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- * Sugestão de imagem**: Um captador de diesel SAIC MAXUS T90 de dois cabos de um ângulo de três quartos na frente em terreno áspero**
-- **ALT Sugestão**: Frente de três quartos de um SAIC MAXUS T90 captador de dois cabos em uma superfície não pavimentada
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: SAIC MAXUS T90 (Interestelar) Diesel Pickup Export Specs & Buyer Checks
+- **Meta descrição**: Referência do mercado chinês para o SAIC MAXUS Interestelar T90 captador diesel: chassis corpo-em-quadro, camas padrão / longos, 2.0T duplo-turbo diesel, opções de drivetrain, ea ressalva nome exportação.
+- **H1**: SAIC MAXUS Interestelar T90: China-market Diesel Pickup Export Reference
+- **Palavra-chave principal**: SAIC MAXUS T90 captadores de especificações de exportação
+- **Termos de busca secundários**: MAXUS T90 diesel captador; Interestelar T90 2.0T twin turbo; T90 8AT quatro rodas de tração; MAXUS dimensões de cama captador; China captador exportação
+- **URL sugerida**: /vehicles/saic-maxus-t90/
+- **Intenção de busca**: Understand  SAIC   MAXUS  Interstellar T90: China-market Diesel Pickup Referência de exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Sugestão de imagem**: Um captador a diesel SAIC MAXUS T90 de dois cabos de um ângulo frontal de três quartos em terreno áspero
+- **Texto ALT**: Frente três quartos de um SAIC MAXUS T90 captador de dois táxis em uma superfície não pavimentada
+- **Escopo do schema**: Artigo + Veículo
 
 O Interestelar T90 (Xingji T90, anteriormente o MAXUS T90 na China) é o tamanho médio da SAIC MAXUS, ** corpo-em-frame** captador de dois táxis — o tipo de veículo comprado no exterior para carga-carregamento, estrada-rugosa e frota de uso em vez de refinamento de passageiros. Uma compra captador é decidido na cama, carga útil, drivetrain e chassis, então aqueles levar esta página. Abrange apenas o diesel ** do mercado chinês; o T90 elétrico separado está excluído.**
 

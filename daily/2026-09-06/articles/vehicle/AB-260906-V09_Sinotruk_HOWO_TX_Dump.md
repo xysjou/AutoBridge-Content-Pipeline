@@ -6,7 +6,7 @@
 - **Primary Keyword**: Sinotruk HOWO TX dump truck export specs
 - **Secondary Search Terms**: HOWO TX tipper; Sinotruk 8x4 dump truck; WP10H 400; HW19712 gearbox; Chinese heavy tipper export
 - **Suggested URL**: /vehicles/sinotruk-howo-tx-dump/
-- **Search Intent**: 面向海外B端买家介绍豪沃TX自卸车中国市场版本身份、驱动/动力链/底盘与版本边界
+- **Search Intent**: Understand Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
 - **Image Suggestion**: An 8x4 Sinotruk HOWO TX dump truck with raised tipper bed at a construction yard
 - **ALT Suggestion**: Sinotruk HOWO TX 8x4 dump truck with its tipper body partially raised on a construction site

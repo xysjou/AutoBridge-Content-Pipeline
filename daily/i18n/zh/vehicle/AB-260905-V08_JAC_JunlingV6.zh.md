@@ -1,15 +1,17 @@
 # JAC Junling V6 (2024/2025)——中马轻车标本和出口检查.
 
-## 道德操守办公室 元数据
-- **SEO标题**:JAC Junling V6轻型卡车:中马标本和出口买方指南
-- ** 金属说明**: 中国市场JAC 连接V6辆蓝板轻型货车: 云内D25型柴油机,安康160线,货箱,GVW/载荷,单源质量警示.
-- ** H1 **:JAC Junling V6(2024/2025) — 中国-Market轻型卡车样板和出口检查
-- ** 基本关键词**:JAC 江淮 骏铃 V6 轻卡 (轻型卡车)
-- ** 二级搜索术语**:JAC Junling V6出口;江淮轻车;中国货车;蓝板卡车;云内D25
-- ** 建议的URL**:车辆/夹板-v6/
-- ** 搜索内特**:了解 JAC 江淮 骏铃 V6 轻卡 (轻型卡车) 中国版规格 配置与出口适配性 (车型参数页)
-- ** 内部链接建议**:车辆/贾克-中继-v6/, 指南/车辆-出口-hs-code-history/, 指南/china-export-custom-dreament-single-window/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: JAC 顺宁V6 轻型货车:中马货架样板与出口购买者指南
+- **Meta描述**: 中国市场JAC 连接V6辆蓝板轻型货车: 云内D25型柴油机 安康160线, 货物箱,   GVW /payload,  and  单源质量警告。
+- **H1**: JAC 顺灵V6(2024/2025)——中马轻车标本和出口检定.
+- **核心关键词**: JAC  / 江淮 骏铃V6 轻卡（Light Truck） specs export
+- **次级搜索词**: JAC 维基月球  Jun宁V6出口;江淮轻车;中国货车;蓝板货车;云内D25
+- **建议URL**: /vehicles/jac-junling-v6/
+- **搜索意图**: 了解JAC Junling V6(2024/2025)——中马轻车标本和出口检查:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **图片建议**: 现实的,文件/车辆重点的场景,说明JAC Junling V6(2024/2025)——中马轻车标本和出口检查,不进行阶段检查或有人声称.
+- **ALT文本**: 近,自然看材料和主体有关JAC Junling V6(2024/2025)——中马轻车标本与出口检查,中立背景,没有人员或检查行动显示.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 买家背景:一辆蓝牌城市配送卡车
 日军司令部V6号(骏铃 V6号)  2024/2025)** 是中国市场上的轻型货车4.5 t 用于城市/区域分布的蓝牌类. 商用车辆购买者应在驾驶室修剪前将车辆停放在全球车辆维修、有效载荷和货物箱上。 参考市场为**中国**; 质量要求同位素确认。
@@ -50,7 +52,6 @@
 **Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp/400 N·m 被俘线上.
 **轮胎/轴线详情在哪里? ** 未抓取; 请求 OEM 构建工作表 。
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -69,18 +70,18 @@
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
-- ** MIDEL_TOPIC_MATCH**: 准确的JAC 调和V6轻型卡车
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

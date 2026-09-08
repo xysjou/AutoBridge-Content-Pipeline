@@ -1,14 +1,16 @@
 # ウーリング香港 MINIEV マカロン (3rd Gen) 2024: マイクロEV 買い手はサイズを正しく直してべきです
-## ツイート メタデータ
-- **SEOのタイトル**: 呉服洪光ミニイブマカロン2024仕様&エクスポートノート
-- **メタ 記述**: 中国の市場3rd-genのWuling MINIEVのマカロン- 3-door 4-seatマイクロEV、 20 kWモーター,  170/215 km CLTC, LFP電池, 主に充満を遅らせます、 100 km/h の最高速度、 等級選択論理  and  輸出業者の点検。
-- **混雑URL**: /vehicles/wuling-hongguang-miniev/(各緑色モデルページ;モデル年は、URLではなくH1/bodyに保管)
-- H1 ホテル **: ウーリングHongguang MINIEVのマカロン2024 (中国市場): マイクロEVのSpecsおよび輸出点検
-- **主なキーワード**: ウルイング ホングアン ミニエフ macaron 2024 仕様
-- **二次検索条件**: MINIEV マカロンの範囲、WulingのマイクロEVの輸出、MINIEV 20kW、170 215 CLTC都市車、 武装 LFP の小さい電池
-- **内部リンクの提案**: /vehicles/byd-dolphin/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/container-vehicle-loading-lashing/
-- **イメージ提案**:3-doorのボディはドアを開けます;4-seatマイクロ キャビン;充満港(充満を遅らせて下さい);駐車湾のサイズの比較
-- アルト 提案**:「MINIEVマカロンマイクロEV寸法をWuling」; 「MINIEVマカロン170 215 CLTC範囲」
+## SEOメタデータ
+- **SEOタイトル**: ウーリングHongguang MINIEVのマカロン2024のSpecs及び輸出ノート
+- **メタディスクリプション**: 中国の市場3rd-genの無水ケイリングMINIEVのマカロン- 3-door 4-seatマイクロEV、 20 kWモーター,  170/215 km  CLTC , LFP電池, 主に充満を遅らせます、 100 km/h の最高速度、 等級選択論理  and  輸出業者の点検。
+- **H1**: ウーリングHongguang MINIEVマカロン2024 (中国市場):マイクロEVのSpecsおよび輸出点検
+- **主要キーワード**: wuling hongguang miniev macaron 2024 仕様
+- **関連検索語**: MINIEV  Macaron range, ウーリング マイクロEVの輸出、 MINIEV 20kWの、 170 215 CLTC 都市車, 武装LFP小型電池
+- **推奨URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **検索意図**: ウーリングHongguang MINIEVマカロン2024(中国市場):マイクロEV仕様とエクスポートチェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **画像候補**: 開いたドアが付いている3-doorボディ
+- **ALTテキスト**: 呉服 MINIEV マカロン マイクロ EV 次元
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 製品のご使用事例にマッチする
 ホングアン・ミニヴィ マカロンは、コンパクトなEVではなく、**マイクロ都市電気自動車です。 ** 3064 mm ロング  and  777 kg の kerb**, 小規模なハッチバックの下にフルクラスを座る — スケールで、  BYD Dolphin と同じカタログは **4125 mm long** with 420/520 km CLTC grades. そのギャップは、全体の購入の決定です: マカロンの値は、中国価格の非常に低い場所での短いトリップ都市のモビリティです。 制限は最高速度(** 100 km/h **)です。  range (**170/215 km CLTC**), 充満速度  and  小屋のサイズ。 BセグメントEVに反する輸出業者は、リターンの問題を作成します。 定義された都市/Last-mile製品として販売する者は、その製品が未だに販売する。 このページでは、** 3rd-generationマカロン、モデル年2024(REFERENCE MARKET)をカバーしています。 中国語**
@@ -62,18 +64,18 @@ The two headline numbers buyers confuse are the **range grades (170 vs 215 km CL
 **通常のコンパクトEVに競合他社ですか?** いいえ。 - 4.1 m、420+ kmドルフィンの横はクラスが小さく、超小型の都市通勤者として位置し、高速道路の家族EVではありません。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug
@@ -92,11 +94,11 @@ The two headline numbers buyers confuse are the **range grades (170 vs 215 km CL
 |---|---|---|---|---|---|---|
 | マカロンは170 km 20 kWを追加します | オートホーム | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED(クロス) | 20 kW、170 km、国内価格(TIME_SENSITIVE) |
 | MINIEV 2025パラメータ/価格 | 東ケディデータベース | CN の | 以下は、 https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED(クロス) | 年式、範囲グレード、国内MSRP(TIME_SENSITIVE) |
-| 2024 マカロン 215 | NetEase 自動データベース | CN の | 以下は、 の | 2026-09-03 | シングル_ソース | 3064/1493/1629、2010 mm、777 kg (OEMではなく媒体DB) | https://product.auto.163.com/product/000CQEGG.html
+| 2024 マカロン 215 | ネットエイズ 自動データベース | CN の | 以下は | の | 2026-09-03 | シングル | ソース | 3064/1493/1629、2010 mm、777 kg (OEM ではなく媒体 DB) | https://product.auto.163.com/product/000CQEGG.html
 | | PCauto 百科事典 | CN の | 担当: http://m.pcauto.com.cn/baike/941480/1848425/ の | 2026-09-03 | シングル_ソース | ≈ 13.4 kWhの充満方法 |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
 | GB 38031の牽引電池の安全条件(GB 38031-2025;2026-07-01から必須新しいタイプ塗布) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | 電動パワートレインのための必須のトラクション電池の安全要件ベース |
 | GB 18384電気車両の安全要件(GB 18384-2025) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 検証済み | |
 

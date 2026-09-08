@@ -1,15 +1,17 @@
 # Chey Fulwin T9 (风云 T9): C-DM Plug -dalam Hybrid Mid- Ukuran SUV - China Specs untuk Ekspor
 
-## SEO Metadata
-- *** Judul SEO **: Chey Fulwin T9 C-DM PHEV Specs & Ekspor Panduan (China Referensi)
-- ** Meta Description **: Pasar-Cina Chey Fulwin T9 C-DM dalam mobil hibrida SUV - 1.5T berdedikasi mesin, 150 kW motor depan, Baterai 32.66 kWh,  120–220 km CLTC, 5/7 kursi,  and  cek eksportir.
-- ** Sugested URL **: kendaraan chery-fulwin- t9/
--   H1 **: Chey Fulwin T9 C-DM: Cinese- Pasar PHEV SUV Specs dan Ekspor Verifikasi
-- ** Primary Keyword **: chey fulwin t9 ekspor spesifikasi
-- Fulwin T9 C-DM, 风云 T9 GROM, Chey T9 32.66kWh, Fulwin T9 7-seat, Cina ekspor PHIV SUV
-- ** Internal Link Sugestions **: guide evshippping- un3556-imdg-compliance/; kendaraan byd-qin -l -dm-i guide export- excel.-containing-documents
-- ** Saran Gambar **: Fulwin T9 trie- kuartal; port pengisian; 5 vs 7 tata letak kursi; 1.5T C- DM badge; area kargo
-- ** AlT Suggestions **: "Chey Fulwin T9 C-DM di SUV"; "Fulwin T9 32.66kWh baterai CLTC kisaran"
+## Metadata SEO
+- **Judul SEO**: Chey Fulwin T9 C- DM PHEV Panduan Specs & Ekspor (Referensi Cina)
+- **Deskripsi Meta**: Pasar-Cina Chey Fulwin T9 C- DM dalam hibrida SUV - 1.5T berdedikasi mesin, 150 kW motor depan, Baterai 32.66 kWh,  120–220 km  CLTC , 5/7 kursi,  and  cek eksportir.
+- **H1**: Chey Fulwin T9 C- DM: Cinese- Pasar PHEV SUV Specs dan Expor Verifikasi
+- **Kata kunci utama**: EXPport spesifikasi t9 "chaery fulwin
+- **Istilah pencarian sekunder**: Fulwin T9 C- DM, 风云 T9 tahun hibrida, Chey T9 32.66kWh, Fulwin T9 7-seat, Cina PHEV SUV ekspor
+- **URL yang disarankan**: /vehicles/chery-fulwin-t9/
+- **Maksud pencarian**: Memahami Chey Fulwin T9 C- DM: Chinese- Pasar PHEV SUV Specs dan Ekspor Verifikasi: expor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu urutan.
+- **Saran tautan internal**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Saran gambar**: Fulwin T9 tiga perempat
+- **Teks ALT**: Chey Fulwin T9 C- DM bey- hibrida SUV
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: SUV keluarga PHEV dengan Versi Baterai-Long-
 Fulwin T9 adalah C-DM ukuran pertengahan C-dalam SUV hibrida, ditawarkan dalam lima - dan tujuh bentuk kursi. Dua kesalahan urutan mendominasi model ini: mencampur standar ** T9 dengan membentang T9L **, dan mengutip jangkauan listrik tanpa menyebutkan baterai. Dokumen halaman ini ** hanya standar Fulwin T9 (REFERENCE MARKET: CHINA) *; lebih lama T9L (kurang lebih 4870 mm 2920 mm roda) adalah tubuh yang berbeda dan sengaja dikecualikan. Sebuah halaman konfigurasi OEM ditangkap untuk model ini, yang memperkuat basis spesifikasi.

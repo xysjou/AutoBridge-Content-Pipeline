@@ -1,16 +1,16 @@
 # Jetour Dashing (Dasheng): une référence de VUS compacts marché chinois avec ses trois motorisations maintenues à part
-## OEuvre Métadonnées
-- ** Titre du référencement**: Jetour Dashing (Dasheng) Chine-Marché Spécifications et chèques d'achat à l'exportation
-- **Meta Description**: Référence du marché chinois pour le VUS compact Jetour Dashing (Dasheng): 2024 contre 2025, les motorisations 1.5T, 1.6T et 1.5TD, et les contrôles de niveau VIN pour les acheteurs étrangers.
-- ** H1 **: Jetour Dashing (Dasheng): une référence de VUS compacts marché chinois avec ses trois motorisations maintenues à part
+## Métadonnées SEO
+- **Titre SEO**: Jetour Dashing (Dasheng) Chine-Marché Spécifications et chèques d'acheteur à l'exportation
+- **Description meta**: Référence marché chinois pour le Jetour Dashing (Dasheng) compact SUV: 2024 contre 2025, les motorisations 1.5T, 1.6T et 1.5TD sont séparées et les contrôles de niveau VIN pour les acheteurs étrangers.
+- **H1**: Jetour Dashing (Dasheng): une référence de Chine-Marché Compact SUV avec ses trois motorisations maintenues à part
 - **Mot-clé principal**: Jetour Dashing Dasheng spécifications d'exportation
-- ** Termes de recherche secondaires**: Jetour Dashing dimensions; 捷途大圣; Jetour Dashing 1.6T 7DCT; Chinen compact SUV export; Dasheng 2025 1.5TD
-- **URL suggérée**: /véhicules/jetour-dashing/
-- **Intention de la recherche**: 面向海外 B 端买家介绍捷途大圣中国市场身份 -2024/2025 尺寸与三套动力的版本边界及采购核验
-- **Suggestions de lien interne**: /véhicules/changan-kaicène- f70/, /guides/vérify-chinois-car-export-fournisseur-histoire/, /véhicules/dongfeng-aeolus-yixuan/
-- **Suggestion d'image**: Un VUS compact Jetour Dashing montré à partir du devant trois quarts sur un fond neutre
-- **ALT Suggestion**: Vue de face d'un VUS compact Jetour Dashing sur un fond de studio neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+- **Termes de recherche secondaires**: Jetour Dashing dimensions; 捷途大圣; Jetour Dashing 1.6T 7DCT; Chine compact SUV exportation; Dasheng 2025 1.5TD
+- **URL suggérée**: /vehicles/jetour-dashing/
+- **Intention de recherche**: Comprendre Jetour Dashing (Dasheng): Une référence China-Market Compact SUV avec ses trois motorisations maintenues à part: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/changan-kaicene-f70/, /guides/verify-chinese-car-export-supplier-history/, /vehicles/dongfeng-aeolus-yixuan/
+- **Suggestion d'image**: Un Jetour Dashing compact SUV montré à partir du devant trois quarts sur un fond neutre
+- **Texte ALT**: Vue sur un Jetour Dashing compact SUV sur un fond de studio neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 Le Jetour Dashing, vendu en Chine sous le nom de Dasheng (大圣), est la marque Jetour, un VUS compact de cinq places, positionnée autour d'un style crossover audacieux. Pour un acheteur d'outre-mer qui se procure de Chine, la discipline centrale est le contrôle de version: la ligne s'étend sur les 2024 et 2025 années modèles avec des dimensions de corps subtilement différentes et trois motorisations essence distinctes, et une citation qui dit simplement "un Dashing" sans année et moteur est ambigu. Cette page est une référence ** du marché chinois** — ce n'est pas une fiche de spécifications globale, et tout Dashing du marché d'exportation doit être mis en évidence séparément. Lorsqu'un chiffre repose sur une seule source indépendante plutôt que sur une feuille de calcul exacte d'OEM, il est signalé pour la confirmation du niveau VIN plutôt que présenté comme étant réglé.
 

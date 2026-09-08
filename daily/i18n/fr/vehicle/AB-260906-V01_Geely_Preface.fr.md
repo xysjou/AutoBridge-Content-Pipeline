@@ -1,16 +1,16 @@
 # Préface Geely (Xingrui): une RMR marché chinois Référence de l'acheteur de berline pour l'exportation
-## OEuvre Métadonnées
-- ** Titre du référencement**: Préface Geely (Xingrui) Spécifications, grilles et chèques d'achat
-- **Meta Description**: Référence marché chinois pour la berline Geely Preface/Xingrui CMA: corps et dimensions, 1.5T et 2.0T variantes gardées séparées, et ce qu'un acheteur étranger doit vérifier par VIN.
-- ** H1 **: Préface Geely (Xingrui): une RMR marché chinois Référence de l'acheteur de berline pour l'exportation
+## Métadonnées SEO
+- **Titre SEO**: Préface Geely (Xingrui) Spécifications, bords et chèques d'achat
+- **Description meta**: Référence du marché chinois pour la berline Geely Preface/Xingrui CMA: corps  and  dimensions, 1.5T  and  2.0T variantes gardées séparées,  and  what an overseas buyer must verify by  VIN .
+- **H1**: Préface Geely (Xingrui): Un marché chinois CMA Référence de l'acheteur de berline pour l'exportation
 - **Mot-clé principal**: Préface Geely Xingrui spécifications d'exportation
-- ** Termes de recherche secondaire**: berline Geely Preface CMA; dimensions Xingrui; Préface de Geely 2.0T 8AT; Chinese berline export Chine spec; Différences de garnitures de préface
-- **Suggested URL**: /vehicles/geely-preface/
-- **Intentité de la recherche**: 面向海外 B 端买家介绍 Préface(星瑞) 中国市场版本身份 -尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- **Suggestion d'image**: Une berline blanche Geely Preface CMA montrée de l'avant trois-quart dans un décor de studio propre
-- **ALT Suggestion**: Vue d'ensemble d'une berline Geely Preface sur un fond neutre
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+- **Termes de recherche secondaires**: Il y a CMA berline Geely Preface; dimensions Xingrui; Préface Geely 2.0T 8AT; Chinese berline export Chine spec; Différences de garnitures de préface
+- **URL suggérée**: /vehicles/geely-preface/
+- **Intention de recherche**: Comprendre la préface de Geely (Xingrui): Un marché chinois CMA Référence à l'exportation pour l'acheteur de berline: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **Suggestion d'image**: Une berline blanche Geely Preface CMA montrée de devant trois quarts dans un studio propre
+- **Texte ALT**: Vue sur une berline Geely Preface sur fond neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 La préface Geely (nom chinois Xingrui) est la berline compacte/mi-dimensionnelle à quatre portes Geely développée sur la CMA (Compact Modular Architecture) partagée avec des produits Geely plus larges. Pour un acheteur d'outre-mer en provenance de Chine, la discipline clé est le contrôle de version: la ligne a été vendue pendant plusieurs années modèles avec des motorisations 1.5-litre et 2.0-litre turbo essence, et les chiffres de puissance cités diffèrent entre les plus anciennes et les plus récentes. Cette page est une référence ** du marché chinois**; elle n'est pas une fiche de spécifications globale, et toute préface du marché d'exportation doit être mise en évidence séparément.
 

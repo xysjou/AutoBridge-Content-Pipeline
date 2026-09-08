@@ -6,7 +6,7 @@
 - **Primary Keyword**: SAIC MAXUS T90 pickup export specs
 - **Secondary Search Terms**: MAXUS T90 diesel pickup; Interstellar T90 2.0T twin turbo; T90 8AT four wheel drive; MAXUS pickup bed dimensions; Chinese pickup export
 - **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Search Intent**: 面向海外B端买家介绍星际T90中国市场版本身份、货箱/四驱/底盘/动力与版本边界
+- **Search Intent**: Understand SAIC MAXUS Interstellar T90: China-Market Diesel Pickup Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
 - **ALT Suggestion**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface

@@ -1,15 +1,17 @@
 # CCC Certificação obrigatória e veículos exportados — Âmbito de aplicação e isenção
 
-## SEO Meta- dados
-- ** Título SEO**: Certificação CCC e Exportação de Veículos: Um carro exportado precisa da China CCC, e quando a isenção é aplicável
-- ** Descrição do Meta**: Se a certificação obrigatória CCC da China se aplica aos veículos: âmbito de aplicação e verificação de entrada CCC, porque os produtos fabricados exclusivamente para exportação não são abrangidos pelo regime do mercado interno e pelas categorias de letras de isenção.
-- ** H1 **: Certificação Obrigatória CCC e Veículos Exportados — Âmbito de aplicação e isenção
-- **Chave Primária**: isenção de exportação de certificação ccc
-- ** Termos de pesquisa secundários**: Certificação CCC; certificado 3C; isenção de exportação; certificação obrigatória de produto; carta de isenção CCC
-- ** URL sugerido**: /guides/ccc-certificação-exportação-isenção/
-- **Intenção de pesquisa**: 厘清 CCC 适用范围 (出厂 销售 进口 经营使用), 纯出口产品与免办证明的边界与办理
-- **As sugestões de ligação interna**: /guias/china-exportação-customs-declaração-única-janela/, /guias/certificado-de-conformidade-tipo-aprovação-história/, /guias/ckd-skd-knockdown-kit-export-assembly/
-- **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: CCC Certificação e exportação de veículos: um carro exportado precisa China CCC, e quando a isenção se aplica
+- **Meta descrição**: Se a China CCC certificação obrigatória se aplica aos veículos: CCC âmbito e verificação de entrada, por que os produtos fabricados exclusivamente para exportação são fora do regime do mercado interno, e as categorias de letras de isenção.
+- **H1**: CCC Certificação obrigatória e veículos exportados — Âmbito de aplicação e isenção
+- **Palavra-chave principal**: ccc certificação isenção de exportação
+- **Termos de busca secundários**: CCC certificação; 3C certificado; isenção de exportação; certificação obrigatória do produto; CCC carta de isenção
+- **URL sugerida**: /guides/ccc-certification-export-exemption/
+- **Intenção de busca**: Understand  CCC  Mandatory Certification  and  Veículos exportados — Âmbito de aplicação  and  Isenção: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Sugestão de imagem**: Uma cena realista, centrada em documentos/veículos, que ilustra CCC Veículos Obrigatórios e Exportados — Âmbito e isenção, nenhuma inspecção encenada ou pessoas reclamadas.
+- **Texto ALT**: Close, visão natural dos materiais e do assunto relacionado com CCC Certificação Obrigatória e Veículos Exportados — Escopo e Isenção, fundo neutro, nenhuma pessoa ou ação de inspeção mostrada.
+- **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Separar o mercado interno chinês da operação de exportação
 CCC (Certificação obrigatória da China) é o regime de certificação obrigatória do mercado doméstico** da China: os produtos listados devem ser certificados antes de deixarem a fábrica para venda nacional, serem importados para a China, ou serem vendidos/usados no mercado chinês, e as importações são sujeitas a verificação de entrada. A questão-chave da exportação não é, portanto, "um carro listado CCC", mas **"Esta unidade específica está a entrar no mercado chinês ou a ser exportada para fora dele?"**
@@ -37,7 +39,6 @@ As categorias de catálogo e isenção CCC são atualizadas; use o texto atual d
 ** Quem administra CCC?** A SAMR estabelece o regime; a CNCA administra certificação e isenções.
 **As peças importadas para reexportação são cobertas? Podem beneficiar de uma categoria de isenção — aplicar e documentar.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ As categorias de catálogo e isenção CCC são atualizadas; use o texto atual d
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- ** MODEL_TOPIC_ MAtch**: CCC exato Certificação obrigatória e veículos exportados
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
+- **MODEL_TOPIC_MATCH**: exact CCC Mandatory Certification and Exported Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ As categorias de catálogo e isenção CCC são atualizadas; use o texto atual d
   - **ID**: CCC certification export, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CCC certification export, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CCC certification export, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CCC #Certification

@@ -1,14 +1,16 @@
 # UAE에 차량 수입: 정리 - 투 - 등록 절차 및 재확인해야 할 사항
-## ▼ 한국어 메타데이터
-- **SEO Title**: UAE 차량 수입 및 RTA 등록 문서 가이드
-- **마타 기술 **: UAE 차량 수입을 올바르게 수행 - 통관 서류, GCC GSO 준수, 그 다음 RTA 등록 (Mulkiya). 보고된 의무/VAT 숫자는 고정되는 것과 같이 명시된 공식적인 UAE 확인을 위해 뜹니다.
-- **자유 URL**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: UAE 차량 수입: 포트 정리에서 RTA 등록 — 문서 및 검증
-- **Primary Keyword**: 차량 수입 등록 서류 rta 프로세스
-- **세컨드 검색 이용 약관**: 두바이 세관 차량 수입, UAE Mulkiya 등록, GCC GSO 차량 적합, UAE 자동차 수입 의무 VAT, MoIAT 차량 수입
-- ** 내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/; /guides/china-vehicle-export-license-customs-documents/; /guides/vehicle-pre-shipment-inspection-psi/
-- ** 이미지 제안 **: 정리→ RTA 순서도; UAE 문서 검사표; emirate/federal 권위 지도
-- **ALT 제안**: "UAE 세관에서 RTA 등록 순서"; "UAE 차량 수입 문서 검사 목록"
+## SEO 메타데이터
+- **SEO 제목**: UAE  Vehicle Import &  RTA  Registration Documents Guide
+- **메타 설명**: UAE 차량 수입을 올바르게 수행 - 통관 문서, GCC/GSO 준수, 그 후 RTA 등록 (Mulkiya). 보고된 의무 VAT 숫자는 고정되는 것과 같이 명시된대로 공식 UAE 확인을 위해 끌고 있습니다.
+- **H1**: UAE  Vehicle Import: 포트 정리에서 RTA 등록 — 문서 및 검증
+- **주요 키워드**: uae 차량 수입 등록 문서 rta 과정
+- **보조 검색어**: 두바이 세관 차량 수입품, UAE Mulkiya 등록, GCC GSO 차량 적합, UAE 차 수입품 의무 VAT의 MoIAT 차량 수입품
+- **추천 URL**: /guides/uae-vehicle-import-registration-documents/
+- **검색 의도**: UAE의 이해 차량 수입: 포트 정리에서 RTA 등록 — 문서 및 검증: 차량/부품 수출자가 확인해야 하고, 문서 및 순서에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **이미지 제안**: 정리→ RTA 순서도
+- **ALT 텍스트**: UAE 세관 RTA 등록 순서
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 범위와 증거 경계 (첫 번째 읽기)
 이 가이드는 **UAE를 작업 예**로 사용합니다. 다른 GCC 시장에 대한 sequencing 논리 전송, 그러나 각 emirate 및 각 GCC 상태는 자체 양식과 수수료가 적용됩니다. ** UAE 연방 고객 또는 RTA 기본 페이지는이 패키지에 캡처되었습니다. ** 따라서 콘크리트 의무/VAT/fee 수치는 아래 **화물 운송 가이드에 의해 허용되고 고정 된 사실이 아닌 TIME-SENSITIVE 검증 항목이 있습니다 ** - UAE 연방 세관 당국 및 토지 모델에 투입하기 전에 관련 emirate의 RTA의 현재 값을 얻을.
@@ -54,18 +56,18 @@
 **이 가이드는 Saudi/Qatar에 적용합니까?** 순서는 개념적으로 이동, 그러나 모양, 요금 및 당국은 GCC 국가와 다릅니다 — 각 국가를 따로따로 확인합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — UAE vehicle clearance and registration, Leitfaden für Fahrzeugexport-Einkauf
@@ -88,7 +90,7 @@
 *Evidence 천장: 소스는 운송업자 가이드 (T3) 및 중국 미디어 - UAE 연방 고객 RTA 기본 페이지가 캡처되지 않았습니다. 의무/VAT/fees와 EV 인센티브는 그러므로 보고되고 시간 과민한으로, UAE 연방 세관과 입장 emirate의 RTA로 확인되기 위하여 선물됩니다. 고정 속도는 asserted. ****************************************************************************************************************************************************************************************************************************************************************
 
 | 개인 효과의 정리 (새로운 중고 차량의 이동; 필수 문서; 5% 평가 된 va에 관세 | 두바이 세관(Dubai Customs) | 뚱 베어 | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx 대한 자세한 정보 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 세관에 의하여 세세된 가치에 5% 의무; 본래 또는 에미리트 ID 사본; 검사 & 투표 |
-| 승객화물의 가치를 결정하는 메커니즘 (년별 공시) PDF | 두바이 세관 | 뚱 베어 | https: | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | used vehicles valued by year-based depreciation schedule before duty | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf
+日本 가치를的 가치를(일별 공시) PDF | 두바이 세금 | 뚱 베어 | https: | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | used vehicles valued by year-based depreciation schedule before duty | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf
 | E-Commerce VAT Guide (VATGEC1) § 3.5.1 - 세관 가치에 VAT 5% 가져 오기 운임, 보험, 세관 요금, | UAE 연방세청(FTA) | 주요 특징 | https://tax.gov.ae/ 대해 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VAT 5%; VAT 기본 = 세관 값 (CIF) + 의무 |
 | 등록 차량 (고객 증명서 또는 송금 수출 보관 인증서; Emirates ID; 여권 등록 | UAE 연방 정부 포털 (u.ae) | 주요 특징 | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles 대하여 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 등록 문서 집합; 세관 증명서는 통관에서 등록에 교량입니다 |
 | 기술 규정에 따라 제품 적합성(ECAS; Successor to ESMA) | 산업 및 첨단 기술부 (Motor | 주요 특징 | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products 대한 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MoIAT는 규제 제품 incl에 대한 UAE CoC를 문제. ESMA 흡수 |

@@ -1,23 +1,25 @@
 # (بحسب الـ (كين ل دي إم آي (秦 ل DM-i): صالون مهرجان الجيل الخامس - الصين
 
-## SEO Metadata
-- ** عنوان الحلقة**: دليل التصدير المقدم من شركة Qin L DM-i PHEV Specs (5th-Gen DM, CLTC)
-- ** وصف البيانات**: السوق الصينية حسب Qin L DM-i fifth-gen plug-in hybrid — 1.5L محرك مكرس،  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  -مصدرة
-- ** URL المقتطع**: /مركبات/قنبلة
-- ** H1 ** حسب رتبة كين ل. دي. إي (Fifth-Generation DM): الصينية - Market PHEV مذكرات سبيس وصادرات
-- ** كلمة رئيسية**: تصدير بواسطة قين l dm-i
-- ** مصطلحات البحث الثانية**: Qin L DM-i 120km، الجيل الخامس من إدارة الشؤون الإدارية، بطارية بضائع الصدر، نطاق Qin L CLTC، 秦 L DM-i export
-- ** مقترحات داخلية بشأن الربط**: مستوى الشحن إلى un3556-imdg-compliance/؛ متوافقة مع الوقود/المركبات/؛ وثائق
-- ** اقتراحات تتعلق بالصور الجانبية: Qin L DM-i؛ وشحن الموانئ؛ ورسوم البطارية البلاستيكية تحت سطح الأرض؛ و120km شارة؛ وكوخ خلفية
-- ** اقتراحات**: "BYD Qin L DM-i الجيل الخامس من PHEV sedan، "Qin L DM-i 15.87kWh بطارية بليد 120km CLTC
+## بيانات SEO الوصفية
+- **عنوان SEO**: BYD Qin L DM -i PHEV Specs " Export Guide (5th-Gen DM, CLTC)
+- **وصف Meta**: Chinese-market  BYD  Qin L  DM -i fifth-gen plug-in hybrid — 1.5L dedicated engine,   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  -مصدرة
+- **H1**: BYD Qin L DM -i (Fifth-Generation DM): Chinese-Market PHEV مذكرات سبيس وصادرات
+- **الكلمة المفتاحية الرئيسية**: تصدير بواسطة قين l dm-i
+- **مصطلحات بحث ثانوية**: Qin L DM -i 120km, الجيل الخامس DM   BYD  Blade battery  PHEV , "كين L CLTC" 秦 L DM - التصدير
+- **URL المقترح**: /vehicles/byd-qin-l-dm-i/
+- **نية البحث**: Understand  BYD  Qin L  DM -i (Fifth-Generation  DM ): Chinese-Market  PHEV  Specs  and  مذكرات التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **اقتراح الصورة**: جانبي من النبذة
+- **نص ALT**: BYD Qin L DM - الجيل الخامس PHEV سيدان
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## Buyer Context: اقرأ "إنه "بي في إي في" وليس "إي في" و ليس "هجينة تقليدية
 The Qin L DM-i هو متوسط الحجم صالون هجين مبني على BYD's ** الجيل الخامس DM** هندسة المصدرون في معظم الأحيان هذه السيارة الطريق: معالجة البطارية نسخ قابلة للتبادل إنها ليست كذلك 80 km و 120 km سيارة كهربية بطاقات بطارية مختلفة وحالات استخدام مختلفة. هذه الصفحة توثق ** خط السوق الصيني: شيلي**؛ No BYD overseas specification تم القبض على الصفحة لذا لا شيء هنا يجب أن يُعرض بوصفه العالم أو المقصد
 
-## PHEV Powertrain: Engine + Motor + Operating Mode
+# PHEV Powertrain: المحرك + المحركات + أسلوب التشغيل
 | البند | Qin L DM-i (China reference) |
 |---|---|
-| نوع الطاقة | Plug-in hybrid (PHEV), fifth-gen DM |
+| |  نوع  نوع Plug-in hybrid (PHEV), fifth-gen DM
 | المهندس | 1.5 L محرك هجين مكرس للوقود |
 | التحويل | E-CVT (Single-speed DHT, DM super-hybrid) |
 | البطارية | LFP ** بطارية البليد** |
@@ -31,7 +33,7 @@ The Qin L DM-i هو متوسط الحجم صالون هجين مبني على BY
 يحتاج مشترٍ من طراز PHEV إلى أربعة أجوبة من أجل: ** محرك، محرك، بطارية، شحن/عمل**. وهنا يولد المحركات المكرّسة البالغ عددها 1.5L في المقام الذين يحركون خلال جهاز درائي واحد السرعة؛ ويبدل السائق بين العتاد الكهربائي والمهجن بدلا من نقل المعدات. طباعة البطارية المتطابقة إلى المدى الكهربائي على كل خط طلب
 
 ## مطالبة الرنج - إبقاء المصانع المتحركة
-- The 80/120 km figures are **CLTC** electric range.
+- الأرقام التي تبلغ 80/120 كيلومترا هي **CLTC**، النطاق الكهربائي.
 - ويظهر في التغطية الصينية رقماً مدمجاً يبلغ نحو 2100 km ** على دبابة كاملة وشحنة كاملة** كمنتج مسموع**. ويجب أن يُسمّى بمطالبة مصنع، لا تقدم أبداً كنتيجة مقاسية، ولا يمكن مقارنة ذلك برقم دورة الوجهة.
 
 ## الجسم والكابين
@@ -45,7 +47,7 @@ The Qin L DM-i هو متوسط الحجم صالون هجين مبني على BY
 - ولا توجد معدات خطية صينية دليل على معدات سوق التصدير دون صفحة من طراز OEM في الخارج.
 
 ## التحقق من صحة المشترين قبل الدفع
-- The DM-i transaxle position determines the driven wheels — verify the layout on the VIN build sheet/certificate instead of treating front drive as implied by the hybrid system.
+- يحدد موقع جهاز ادارة السيارات - I عجلات الدفع - التحقق من التصميم على صحيفة/شهادة البناء في الشبكة بدلا من معالجة القيادة الأمامية كما هو ضمني من النظام الهجين.
 1. ** نسخة مطبوعة على متن شبكة فيينا الدولية (10.08 ضد 15.87 kWh) وقدرتها على ذلك**؛ ولا تقبل رقماً من مجموعة المواد وحدها.
 2. ** دورة الاختبار** - إبقاء لجنة التجارة الحرة لأمريكا اللاتينية ومنطقة البحر الكاريبي على علم؛ وطلب رقم دورة المقصد على حدة إذا كانت السوق تنشر واحدا.
 3. ** إقامة موصلات وأجهزة اتصال متصلة بالمعيار AC/DC** - لا تضاهي رسوم الشحن الصينية من نوع GB/T ربطا تلقائيا موصل الوجهة؛ وتؤكد قبل أن تبشر بالتوافق في رسوم السفر المنزلية.
@@ -91,12 +93,12 @@ The Qin L DM-i هو متوسط الحجم صالون هجين مبني على BY
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | مطاول مظلة قين LM | قاعدة بيانات دونغشيدي | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | صرخات | الطلقات، قاعدة العجلات، البطارية، الـ دي.إتش تي، الوزن، الدبابة |
-| تشكيلة إدارة الجودة | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | صرخات | الأبعاد، نطاق لجنة مكافحة الإرهاب |
-| Qin L DM-i 2024 120km الترميز | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | صرخات | 120 km من دولارات الولايات المتحدة، المرجع المحلي للأسعار |
-| تحليل استخدام الوقود في إطار النطاق الخامس - الجيل الخامس من نظام إدارة مخاطر الكوارث | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SINGLE OURCE | محرك مخصص، وقت الشحن السريع، مطالَب به بحجم مشترك |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+ Provide Provide accommodation. مُعدّة CN. https://db.m.auto.sohu.com/model_7361/config?sliding=1selectedTrimId=176155 - 2026-09-04 mentsments.ped.mination-. الممتنعون عن التصويت
+| Qin L DM-i 2024 120kmто | Mutual Re بيانات Net http CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | | ات −ments 120 km from mandates, the ?
+? الإفراط في الإفراط في التخريب من النظام؟ Autohome ? Autohome ? Autohome CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 SINGLE OURCE ,UP, FORATED by: ?؟
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
@@ -104,7 +106,7 @@ The Qin L DM-i هو متوسط الحجم صالون هجين مبني على BY
 * ملاحظة الملاءمة: يتم فحص الأبعاد وخطوات النطاق عبر قاعدتي بيانات؛ وتفاصيل المحركات، والوقت السريع للشحن، والمطالبة البالغ عددها 2100 km، من مصدر واحد/مطالبة فعلية. No OEM overseas page captured — Chinese-market reference only. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، 2024 شين ل م-ي من الفئة الخامسة (المرجع المتعلق بالسوق الصينية؛ ذكرت لجنة التجارة الحرة لأمريكا اللاتينية ومنطقة البحر الكاريبي؛ وليس مواصفات عالمية)
 - ** طريقة الفرز**: فحص قاعدة بيانات متطابقة؛ ونسخ البطاريات منفصلة؛ ومطالبات الصانع التي تحمل بطاقات تعريفية

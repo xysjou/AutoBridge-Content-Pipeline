@@ -1,14 +1,16 @@
 # Nạp xe vào thùng chứa 40HQ: Số lượng tùy thuộc vào kế hoạch nạp đạn, và leeling giữ ở biển
-## SAO Siêu dữ liệu
-- **SEO title**: Bao nhiêu Xe Hợp với 40HQ? Hướng dẫn nạp và tạo thư mục ngăn kéo
-- **Meta Mô tả**: Một hướng dẫn viên thực tế 40HQ tải xe — điển hình 2-SUV hệ thống tải dữ liệu không dây chống 4-vehicle hệ thống nổ đôi, - 8 vòng trên mỗi chiếc xe, Đang nạp chuỗi  and  a five-point stowage check before seal.
-- ** URL đã gợi ý**: /guides/contaner-vehic-loading-lash/
-- ** H1 **: Xe cộ đang tải và ợ: Counts, Racks, chuỗi chuỗi và check Pre-sals
-- **Criumary Keyword**: bao nhiêu chiếc xe vừa với 40hq thùng chứa hàng
-- **Secondary Search Words**: 40HQ two SUV, Hai boong xe container, Xe bị trói chặt, buộc chặt tay lái. RoRo gọi container chuyển đổi, Comment
-- **I nội bộ Link gợi ý*: repection-psi /guides/ev-shipping- un3171-imdg-compliance/; /vehles/changan- cs75-plus/
-- **Image gợi ý**: biểu đồ sóng âm bên; điểm đánh dấu bánh xe; giá đỡ hai lần kéo; thứ tự nạp trên+Cấp cao
-- **LT Những gợi ý**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Bao nhiêu xe Hợp với 40HQ? Hướng dẫn nạp và tạo thư mục ngăn kéo
+- **Meta mô tả**: Một hướng dẫn viên thực tế 40HQ xe tải đang nạp đầy — điển hình 2- SUV hệ thống không nạp đạn với 4-vehicle hệ thống nổ đôi, - 8 vòng trên mỗi chiếc xe, Đang nạp chuỗi  and  a five-point stowage check before seal.
+- **H1**: Bộ chứa xe tải nạp và ợ: bá tước, kẻ ăn xin, kế toán và kiểm tra trước hải cẩu
+- **Từ khóa chính**: Bao nhiêu xe vừa với 40hq container chất lên xe
+- **Cụm tìm kiếm phụ**: 40HQ two  SUV , Hai boong xe container, Xe bị trói chặt, buộc chặt tay lái. RoRo gọi container chuyển đổi, Comment
+- **URL đề xuất**: /guides/container-vehicle-loading-lashing/
+- **Ý định tìm kiếm**: Hiểu ngăn cản xe tải nạp và piding: bá tước, Racks, chuỗi chuỗi và pre-sac Kiểm tra: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Gợi ý hình ảnh**: Sơ đồ swage-view
+- **Văn bản ALT**: 40HQ two SUV side stowage
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Câu hỏi mà mọi người đều hỏi trước
 "Có bao nhiêu chiếc xe trong 40HQ chiếc không có câu trả lời phổ quát - đó là chức năng của **vehcle kích thước, gương gấp, hệ thống giá treo và kế hoạch của nhà sản xuất và các nhà sản xuất được chấp thuận**. Sách hướng dẫn này đưa ra những ban nhạc và phương pháp thực tế; nó không cố ý ghi lại số lượng. Xác nhận mọi chuyến hàng chống lại một kế hoạch tải đo lường thực tế.
@@ -60,18 +62,18 @@ Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe 
 ** Kiểm tra gì trước khi đóng cửa? Khớp hàng hóa/danh sách, thứ tự, trung tâm trọng lực và sự cho phép, đảm bảo đầy đủ và lề cửa — với ảnh.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

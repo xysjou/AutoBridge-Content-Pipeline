@@ -1,14 +1,17 @@
 # 中国からのバルク商業トラック艦隊の調達: デューティーサイクル工学、2026 輸出ライセンス規則と受諾
-## ツイート メタデータ
-- **SEOタイトル**: バルクで中国トラック艦隊を購入: 仕様, ライセンス & アクセシビリティ
-- **メタ 記述**: エンジニアとバルク調達中国重/ダンプ/専門トラック — デューティサイクルスペック、車軸/フレーム/ボディ、公式2026中国車両輸出ライセンス体制、入札受諾、文書チェーン。
-- **混雑したURL**: /guides/commercial-truck-fleet-procurement-china/
-- H1 ホテル **: 中国の商業トラック艦隊を調達:義務サイクル、輸出業者の免許証および受諾
-- **第一次キーワード**:バルク商業トラック艦隊の調達中国仕様輸出ライセンス
-- **二次検索条件**:中国ダンプトラック6x4 8x4輸出、2026車両輸出ライセンスMOFCOM、純粋なEV旅客輸出ライセンスHS 8703801090、強化車軸フレーム、艦隊入札受諾、商用車輸出文書
-- **内部リンク提案**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /vehicles/foton-aumark-refrigerated-truck/; /guides/verify-china-car-export-supplier/
-- **イメージ提案**:義務--スペックワークシート;強化されたフレーム/車軸;入札受入検査;輸出文書チェーン
-- **ALTの提案**:「トラックの艦隊の義務周期の指定ワークシート」;「二重層フレームおよび補強されたドライブ車軸」;「工場の艦隊の入札受け入れ」
+## SEOメタデータ
+- **SEOタイトル**: バルクで中国トラック艦隊を購入:仕様、ライセンスと受諾
+- **メタディスクリプション**: エンジニアとバルク調達中国重/ダンプ/専門トラック — デューティサイクルスペック、車軸/フレーム/ボディ、公式2026中国車両輸出ライセンス体制、入札受諾、文書チェーン。
+- **H1**: 中国からの商業トラック艦隊を調達:デューティーサイクル、輸出業者のライセンスと受諾
+- **主要キーワード**: バルク商業トラックの艦隊の調達の中国仕様の輸出免許証
+- **関連検索語**: 中国ダンプ トラック6x4 8x4の輸出、2026車の輸出免許証MOFCOMの純粋なEV乗客の輸出免許証HS 8703801090の補強された車軸フレーム、艦隊の入札の受け入れ、商用車輸出文書
+- **推奨URL**: /guides/commercial-truck-fleet-procurement-china/
+- **検索意図**: 中国の商用トラック艦隊の調達を理解:デューティーサイクル、輸出業者のライセンスと受諾:車両/部品輸出業者が確認しなければならないもの、文書化し、注文をコミットする前に決定する必要があります。
+- **内部リンク候補**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
+- **画像候補**: デューティーサイクルツースペックワークシート
+- **ALTテキスト**: トラック 車両 デューティ サイクル仕様 ワークシート
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## フレッツは注文をするように設計されている、棚を離れてピックされていない
 6×4鉱山のダンプカー、8×4のオンハイウェイダンプ、長距離トラクターおよびリーファーまたはタンカーの要求の異なるパワートレイン、フレーム、車軸およびボディの選択肢、およびバルク注文は、中国**現在の(2026)輸出ライセンス体制**、堅い文書チェーンおよび入札様式の受け入れをさらに満たさなければなりません。 車両購入者、請負業者、CV輸入業者に、繰り返し可能なパスを提供します。 割引、MOQ、またはリードタイムは引用しません。プロジェクトごとに交渉され、権限のある公開数字は存在しません。
 ## ステップ1 — 価格の前にデューティサイクルを定義する
@@ -58,18 +61,18 @@ CV 固有の勤勉:
 **価格やローカル部品のサポート?**
 **バルク割引/MOQは公表されていますか?** いいえ。それらはプロジェクトごとに商用用語です。厳密に指定された技術的なアネックスに対して交渉します。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf

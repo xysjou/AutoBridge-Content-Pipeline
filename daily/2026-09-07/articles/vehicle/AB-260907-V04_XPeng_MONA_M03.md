@@ -6,7 +6,7 @@
 - **Primary Keyword**: XPeng MONA M03 export specs
 - **Secondary Search Terms**: 小鹏MONA M03; MONA M03 CLTC range; MONA M03 62.2 kWh; XPeng M03 160 kW; Chinese electric sedan export; Cd 0.194
 - **Suggested URL**: /vehicles/xpeng-mona-m03/
-- **Search Intent**: 面向海外买家介绍小鹏MONA M03中国市场身份、电池/CLTC续航/电机的SKU对应关系与版本边界
+- **Search Intent**: Understand XPeng MONA M03: A China-Market Compact Electric Sedan Reference Built Around the Battery–Range–Motor Matrix: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
 - **Image Suggestion**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
 - **ALT Suggestion**: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background

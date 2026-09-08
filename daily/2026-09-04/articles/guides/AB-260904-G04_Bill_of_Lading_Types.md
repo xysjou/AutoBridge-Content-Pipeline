@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Vehicle Export Bill of Lading Guide — MBL/HBL/Telex/SWB + Maritime Code Arts. 80/81/87
 - **Meta Description**: How master bills, house bills, telex release and sea waybills differ, the transferability/delivery rules in China's revised Maritime Code (in force 2026-05-01, Arts. 80/81/87), and matching release method to payment terms.
-- **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
 - **H1**: Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code
 - **Primary Keyword**: vehicle export bill of lading mbl hbl telex release seawaybill
 - **Secondary Search Terms**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
+- **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
+- **Search Intent**: Understand Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: four-method comparison; negotiability ladder vs payment; MBL/HBL chain; Arts.80/81/87 delivery flow
-- **ALT Suggestions**: "MBL HBL telex sea waybill negotiability under revised Maritime Code"
+- **Image Suggestion**: four-method comparison; negotiability ladder vs payment; MBL/HBL chain; Arts.80/81/87 delivery flow
+- **ALT Suggestion**: MBL HBL telex sea waybill negotiability under revised Maritime Code
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Procurement Problem Is Cargo Control, Not Paperwork
 Exporters treat the bill-of-lading choice as documentation. It is a **payment-risk decision**: the moment you move from an original negotiable bill to telex release or a sea waybill, you change when you stop controlling the vehicle at destination. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), in force from 2026-05-01 (16 chapters, 310 articles)** — and then matches method to payment terms. Carrier/port-specific telex rules and fees remain voyage-specific and are not stated as fixed values.

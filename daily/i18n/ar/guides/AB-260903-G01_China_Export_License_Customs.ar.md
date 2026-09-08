@@ -1,14 +1,16 @@
-# China-Side Vehicle Export Licence and Customs Documents: the Order an Exporter must follow
-## SEO Metadata
-- ** عنوان الحلقة**: دليل الوثائق الجمركية (2026)
-- ** وصف البيانات**: كيفية عمل مؤهلات تصدير المركبات من الجانب الصيني - تقديم رخص سنوية من اللجنة المالية لشمال أفريقيا، ومنح تراخيص تصدير مركبات المركبات من طراز BEV، وقاعدة السيارة المستعملة 180-day، وسلسلة وثائق التصدير الكاملة قبل الإعلان الجمركي.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/اتحاد الأطراف - وثائق - وثائق - ذرات -
-- ** H1 **** رخصة تصدير المركبات من الصين إلى الجانب الجنوبي، المؤهلات، ووثيقة الجمارك
-- ** كلمة رئيسية**: وثائق إعلانات تصدير مركبات الصين الصينية
-- ** شروط البحث الثانية**: استخدمت الصين ترخيص تصدير السيارات، ورخصة تصدير المركبات، والصين، ورخصة تصدير المركبات، مرفوعة من طراز MOFCOM للتصدير، سلسلة وثائق تصدير المركبات، 180 يوم من قواعد تصدير السيارات
-- ** Internal Link Suggestions**: /guides/vehicle-coc-approval-dosssier/;guides/ev-shipping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
-- ** اقتراحات بشأن إصدار التراخيص**: رسم بياني لتدفقات الرخصة؛ قائمة مرجعية لسلسلة الوثائق؛ الجدول الزمني السنوي للإحالة
-- ** اقتراحات بشأن: " رخصة تصدير السيارات الصينية إلى التدفق الجمركي " ؛ قائمة مرجعية لسلسلة وثائق التصدير المتحركة
+# China-Side Vehicle Export Licence and Customs Documents: يجب على المصدر أن يتبع الأمر
+## بيانات SEO الوصفية
+- **عنوان SEO**: دليل الوثائق الجمركية (2026)
+- **وصف Meta**: كيفية عمل مؤهلات تصدير المركبات من الجانب الصيني - تقديم التراخيص السنوية البالغ عددها MOFCOM، و BEV ترخيص لتصدير سيارات الركاب، وقاعدة الشحنة المستعملة 180-day، وسلسلة وثائق التصدير الكاملة قبل الإعلان الجمركي.
+- **H1**: الصين - سلسلة وثائق تصدير المركبات وتحديدها ووثيقة الجمارك
+- **الكلمة المفتاحية الرئيسية**: وثائق إعلانات الجمارك المتعلقة برخص تصدير المركبات
+- **مصطلحات بحث ثانوية**: استخدمت الصين رخصة تصدير السيارات، وBEV ترخيص تصدير، وMOFCOM من ملفات تصدير المركبات، وسلسلة وثائق تصدير المركبات، و180 يوماً من قواعد تصدير السيارات
+- **URL المقترح**: /guides/china-vehicle-export-license-customs-documents/
+- **نية البحث**: فهم الترخيص للصين - الجانب الصيني لتصدير المركبات، والتأهيل، ووثيقة الجمارك: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من ذلك ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **اقتراح الصورة**: رخصـة اثبات الـتـرجـمـة
+- **نص ALT**: ترخيص تصدير المركبات الصينية إلى التدفق الجمركي
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## لماذا هذه الصفحة
 وتفشل معظم الشحنات الأولى المفقودة في الجانب الصيني**، وليس في الوجهة: فالمصدر يفتقر إلى فئة المؤهلات الصحيحة، ولا يغطي الترخيص المنتج، أو أن سلسلة الوثائق لا تتمشى مع الإعلان. ويعرض هذا الدليل الأمر الذي ينبغي اتباعه. وهي قائمة على وثائق الحكومة الصينية (المنظمة البحرية الدولية، ومكتبة مجلس الدولة المعنية بالسياسات، وشركة MIIT)؛ وفي الحالات التي يجري فيها تنقيح قاعدة ما سنويا أو على نحو يراعي الوقت، تكون هذه القاعدة مثبتة بدلا من اعتبارها دائمة.
@@ -28,7 +30,7 @@
 - وهذا هو جانب الصين، وهو شرط مؤرخ - اقتبس منه التاريخ، وأعاد التحقق من الإشعار قبل الاعتماد عليه.
 - يجب أن تكون معلومات الترخيص متسقة مع شهادة تسجيل السيارة؛ إصدارات غير دقيقة
 
-## Step 4 — Build the Export Document Chain in a Consistent Order
+الخطوة 4 - بناء سلسلة وثائق التصدير في أمر متماسك
 ويرتكز الإعلان النظيف على وثائق متسقة فيما بينها:
 1. ** رخصة التصدير** التي تغطي الصحية على وجه الدقة؛
 2. ** استمارة إعلان التصدير الخاص بالذرات**؛
@@ -57,17 +59,17 @@
 ** من أين تأتي رموز HS؟** تأكدي من الرمز الدقيق والشرط التنظيمي على الجدول التعريفي الحالي وآخر إشعار من وزارة المالية لا تحملي رمز قديم
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile

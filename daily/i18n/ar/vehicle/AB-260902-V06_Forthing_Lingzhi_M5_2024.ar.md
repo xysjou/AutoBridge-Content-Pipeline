@@ -1,15 +1,17 @@
-# Forthing Lingzhi M5 2024 - Work Van Commercial MPV: Seating Layouts, Powertrains and Export checks
+"لِهِم لِينغزي م 5 2024" "عمل فان التجاري" م ح: سفن الصيد، والكهرباء، وضوابط التصدير
 
-## SEO Metadata
-- ** عنوان المنظمة**: Forthing Lingzhi M5 2024 Van Specs, Seating " CNG/Petrol Export Guide
-- ** وصف البيانات**: 2024 دونغفنغ لينغزي M5 (M5L) الصين تُلمّح: 5/7/9-seat مخطط، وقاعدة عجلتين، و 1.5T البنزين 6MT و 1.6L CNG 5MT، والأبعاد، ونقاط التحقق من المشترين التجاريين.
-- ** URL المقتطع**: /المركبات/لينغزي - m5/
-- ** H1 **: بالنسبة لـ (لينغيزي) M5 M5L 2024 (الصين): خريطة فان سبيك للمشتريات التجارية
-- ** كلمة رئيسية**: Forthing Lingzhi M5 van specifications export
-- ** شروط البحث الثانية**: دونغفنغ لينغزي M5L 9-seat، لحوالي M5 من طراز CNG 1.6 - تصدير شاحنة مدفعية مدفعية مدفعية مدفعية تجارية صينية، قاعدة متحركة من طراز Lingzhi M5، شاحنة ركاب من طراز Dongfeng
-- ** Internal Link Suggestions**: /vehicles/gac-trumpchi- m8/; /guides/commercial-truck-fleet-procurement-china/;guides/right-drive-chinese-cars/
-- ** اقتراحات تتعلق بالنص**: - جانبي للجسد M5L؛ 9-seat تخطيط داخلي؛ 1.5T ضد 1.6 بطاقة النفثالينات؛ - ثني الباب الجانبي المُنزلق
-- ** الاقتراحات**: "2024 Forthing Lingzhi M5L nine-seat commercial van, مطياف الصين "Lingzhi M5 5/7/9 seat layout options"; "Lingzhi M5 1.5T البنزين مقابل 1.6 CNG"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Forthing Lingzhi M5 2024 Van Specs, Seating " CNG دليل الصادرات
+- **وصف Meta**: 2024 دونغفنغ لينغزي M5 (M5L) الصين تُلمّح: 5/7/9-seat مخطط قاعدتان متحركتان 1.5T البنزين 6MT  and  1.6L CNG 5MT الأبعاد  and  نقاط التحقق من المشترين التجاريين.
+- **H1**: Forthing Lingzhi M5 / M5L 2024 (China): A Utilitarian Van Spec Map for Commercial Buyers
+- **الكلمة المفتاحية الرئيسية**: Forthing Lingzhi M5 van specifications export
+- **مصطلحات بحث ثانوية**: دونغفنغ لينغزي M5L 9-seat  Forthing M5  CNG  1.6,  Chinese commercial  MPV  van export, قاعدة متحركة لينغزي M5 شاحنة ركاب دونغفينغ
+- **URL المقترح**: /vehicles/forthing-lingzhi-m5/
+- **نية البحث**: Understand Forthing Lingzhi M5 / M5L 2024 (China): خريطة فان سبيك للمشتريات التجارية: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
+- **اقتراح الصورة**: side profile M5L long body
+- **نص ALT**: 2024 Forthing Lingzhi M5L nine-seat commercial van, الصين
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## دور المركبات
 
@@ -25,7 +27,7 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
 
 المذكرات، وقواعد العجلات، ومخططات المقاعد هي ** مصدقة** على صفحة مقياس فورث الرسمية ومطابقة بقواعد البيانات. الطويل  near-vertical body (1970 mm height) is a deliberate cargo/people box — useful interior volume is the design goal. تأكد من عدد المقاعد بالضبط، لأن نفس "M5L" علامة تغطي كل من 7- و9-seat بنواة.
 
-## Powertrains - Petrol Turbo vs Naturally Aspirated CNG
+باورترانز - بترول توربو ضد شركة نفطية طبيعية
 
 | بــاء - الطاقة | المهندس | | التحويل |
 |---|---|---|---|
@@ -75,30 +77,30 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
 ** محرك اليد اليمنى؟ منتجات أخرى في بعض RHD الأسواق، لكن RHD Lingzhi يجب تأكيد M5 للمقصد المحدد بدلا من الافتراض.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 MPV
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
 ## المصدر: التحقق
 

@@ -1,16 +1,16 @@
 # XCMG QY25K5C Grue de camion (classe 25-t): Référence à l'exportation de véhicules spéciaux sur le marché chinois
-## OEuvre Métadonnées
-- ** Titre du référencement**: XCMG QY25K5C 25t Référence d'exportation de grues de camion: Châssis et superstructure Guide
-- **Description détaillée**: Référence du marché chinois pour la grue de camion XCMG QY25K5C 25-tonne-class: comment une grue de camion mobile se divise en châssis de transporteur et superstructure de levage, son statut réglementaire en Chine, et les documents de la carte de chargement doivent obtenir.
-- ** H1 **: XCMG QY25K5C Grue de camion (classe 25-t): Chine-Marché de référence pour les exportations de véhicules spéciaux
-- **Mot-clé principal**: spécifications d'exportation de grues de camion XCMG QY25K5C
-- **Termes de recherche secondaires**: XCMG QY25K5C grue de camion; 25 tonnes grue mobile; superstructure de châssis de grue de camion; XCMG chart load chart; Chinese cargo export
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Intention de la recherche**: 面向海外B端买家介绍QY25K5C中国市场版本身份、底盘+上装结构/监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
-- **Suggestion d'image**: Une grue de camion XCMG 25-tonne-class avec boom télescopique étendu sur un chantier
-- **ALT Suggestion**: grue de camion XCMG QY25K5C-class avec sa flèche télescopique levée sur un chantier extérieur
-- **Schema Scope**: Article + Vehicle
+## Métadonnées SEO
+- **Titre SEO**: XCMG QY25K5C 25t Camion Référence d'exportation de grue: Châssis et superstructure Guide
+- **Description meta**: Référence du marché chinois pour la grue de camion XCMG QY25K5C 25-tonne-class: comment une grue de camion mobile se divise en châssis de porte-avions et superstructure de levage, son statut réglementaire en Chine, et les documents de la carte de chargement doivent obtenir.
+- **H1**: XCMG QY25K5C Grue de camion (classe 25-t): Référence à l'exportation de véhicules spéciaux sur le marché chinois
+- **Mot-clé principal**: XCMG QY25K5C grue camion spécifications d'exportation
+- **Termes de recherche secondaires**: XCMG QY25K5C grue de camion; 25 tonnes grue mobile; superstructure de châssis de grue de camion; XCMG carte de charge de levage; exportation de grue de camion chinois
+- **URL suggérée**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Intention de recherche**: Comprendre XCMG QY25K5C Grue de camion (classe 25-t): Exportation de véhicules spéciaux sur le marché chinois Référence: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+- **Suggestion d'image**: Une grue de camion XCMG 25-tonne-class avec boom télescopique s'étend sur un chantier
+- **Texte ALT**: XCMG Grue de camion de classe QY25K5C- avec sa flèche télescopique soulevée sur un chantier extérieur
+- **Portée du schéma**: Article + Véhicule
 
 Une grue de camion telle comme le XCMG QY25K5C est un véhicule à usage spécial** combinant un camion routier porteur (chassis) avec superstructure de levage tournante. L'approvisionnement est différent acheter un camion: les documents décisifs sont le diagramme de charge OEM, la configuration de boom et la répartition entre les transporteurs et l'agrément des grues. Cette page identifie QY25K5C comme 25-tonne-class de XCMG machine et explique quoi doit être obtenu auprès de matériel officiel XCMG — délibérément ne emprunter les spécifications de l'ancien QY25E/QY25K-II modèles.
 

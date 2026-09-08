@@ -1,14 +1,17 @@
 # 中国船舶海运货物保险:ICC(A)/(B)/(C),保值和索赔拖车
-## 道德操守办公室 元数据
-- ** SIO标题**:中国进口汽车的海运保险:ICC 条款和索赔
-- ** 金属说明**: 确保中国在海上过境的车辆正确——官方的"协会货物条款"(A)/(B)/(C),汽车为何需要全瑞克,CIF/CIP Incoterms 2020保险义务,保值惯例和索赔证据.
-- ** 建议的URL**:/指南/海运-货物-保险-汽车-进口/
-- ** H1 资源需求。 **:为中国的远洋车辆提供保险:条款等级、金额、担保金额以及索赔实际支付情况
-- ** 基本关键词**:进口的中国国际集装箱运输公司A B C海运货物保险
-- ** 二级搜索术语**: 货物条款 所有风险,LMA CL382、CIP Incotermins 2020 ICC A、CIF ICC C最低限额、海牙-维斯比特别提款权承运人上限、RoRo车辆保险、EV电池火力海保
-- ** 内部链接建议**: /指南/车辆-进口-付款-tt-vs-lc/;/指南/商业-卡车-放行-采购-china/;/指南/使用-chinese-ev-incountions/
-- ** 图像建议**:国际商会A/B/C保险金字塔;风险转让/保险-责任时间表,按《国际贸易术语解释通则》;装运前条件照片集;载体盖与车辆价值差距
-- ** ALT建议**:“货物代理条款A B C保险等级”;“货物代理合同与《国际商业交易规则》第2020条规定的CIP卖方保险义务”;“索赔的装运前车辆条件记录”。
+## SEO元数据
+- **SEO标题**: 中国进口汽车的海运保险:ICC条条款和索赔
+- **Meta描述**: 正确保证中国在海上过境的车辆——官方的"协会货物条款"(A)/(B)/(C),汽车为何需要全瑞克,CIF/CIP Incoterms 2020保险义务,保值惯例和索赔证据.
+- **H1**: 保证中国车辆在海上过境:条款等级、金额和索赔实际支付情况
+- **核心关键词**: 进口海运货物保险 中国车辆 ICC A B C 导弹发射管线
+- **次级搜索词**: 货物条款A的所有风险,LMA CL382、CIP 国际贸易术语解释通则 2020 ICC A、CIF ICC C 最低,海牙-维斯比SDR号运载机上限,罗罗车辆保险,EV电池火力海保
+- **建议URL**: /guides/marine-cargo-insurance-car-import/
+- **搜索意图**: 了解中国车辆海上运输的保险:条款等级、金额和索赔实际支付情况:车辆/部件出口商在承诺订购之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **图片建议**: ICC A/B/C 覆盖金字塔
+- **ALT文本**: 货物条款A B C级覆盖
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 使进口商付出金钱代价的误解
 买方假定,在离岸价格或岸线下,** 装运线完全补偿** 一辆被刮伤、压碎、被盗或水毁的车辆。 其不适用:承运人的赔偿责任受国际公约的上限,远低于汽车的价值,由你选择的货物条款决定是否涵盖普通的过境损害。 本页涵盖从中国**(全球海洋航线)发运的车辆的海上货物保险——条款和索赔,不同于《国际贸易术语解释通则》定价和《RoRo-vs-集装箱》的选择。
 ## 三条款的层次——被束缚在正式的文字中
@@ -52,18 +55,18 @@
 ** 国债或国债指数——哪一种违约更严重? ** 在Incoterms 2020 CIP中,至少需要ICC(A);CIF默认为ICC(C),因此需要CIF书面要求(A).
 ** 电磁波电池火力是否为所有风险所覆盖? ** 它取决于措辞——宣布EV并获得书面确认.
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf

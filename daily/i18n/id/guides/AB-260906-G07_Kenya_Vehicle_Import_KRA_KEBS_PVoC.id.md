@@ -1,16 +1,16 @@
 # Mengimpor Kendaraan ke Kenya: Bea Cukai KRA, KEBS PVoC dan Jalan Standards
-## SEO Metadata
-- ** Judul SEO **: Kenya Kendaraan Impor: Cukai KRA Duties dan Panduan KEBS PVoC
-- ** Meta Description **: Panduan khusus negara untuk mengimpor kendaraan ke Kenya: prosedur adat KRA dan pajak, verifikasi ekspor KeBS atas konformitas (PVoC), dan bagaimana aturan peralihan mobil-umur diterbitkan.
--   H1 **: Mengimpor Kendaraan ke Kenya: Bea Cukai KRA, KEBS PVoC dan Jalan Standards**
-- ** Primary Keyword **: Kenya kendaraan impor KRA KEBS PVoC
-- ** Akhir Pencarian Second **: Kenya Kendaraan impor KRA; KEBS PVoC kendaraan motor; impor standardisasi mark Kenya; Kenya menggunakan aturan usia mobil; Kenya impor deklarasi
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- ** Cari Intent **: 向肯尼亚出口车辆需经过哪些海关计税 = 装船前合格评定与标准 车龄要求 = 分别由哪些机构负责 = = 分别由哪些机构负责 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- ** * Saran Gambar **: MObasa port kendaraan impor penanganan dengan dokumen KEBS dan KRA
-- ** ALT Sarankan **: file impor kendaraan dengan dokumen KEBS dan KRA dan halaman port di latar belakang
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadata SEO
+- **Judul SEO**: Kenya Kendaraan Impor: KRA Cukai Duties dan KEBS PVoC Guide
+- **Deskripsi Meta**: Panduan khusus negara untuk mengimpor kendaraan ke Kenya: KRA prosedur bea cukai dan pajak, verifikasi KEBS sebelum-ekspor dari konformitas (PVoC), dan bagaimana aturan kendaraan beroda diterbitkan.
+- **H1**: Mengimpor Kendaraan ke Kenya: KRA Bea Cukai, KEBS PVoC dan Jalan Standards
+- **Kata kunci utama**: Kenya vehicle import  KRA   KEBS  PVoC
+- **Istilah pencarian sekunder**: Kenya KRA kendaraan impor tugas; KEBS kendaraan motor PVoC; impor standardisasi mark Kenya; Kenya menggunakan aturan umur mobil; Kenya impor deklarasi
+- **URL yang disarankan**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Maksud pencarian**: Memahami impor Kendaraan ke Kenya: KRA Bea Cukai, KEBS PVoC dan Jalan Standar: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Saran gambar**: Kendaraan port Mombasa impor penanganan dengan KEBS dan KRA dokumen
+- **Teks ALT**: Berkas impor kendaraan dengan KEBS dan KRA dokumen dan halaman port di latar belakang
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Kenya membagi impor kendaraan antara otoritas pajak dan badan standar, dan langkah standar terjadi sebagian besar ** sebelum kendaraan meninggalkan negara asal **. ** Kenya Authority Revenue (KRA) ** menangani penilaian bea cukai, tugas dan izin; * Kenya Biro Standar (KBS) ** * Menjalankan Pre- Ekspor Verifikasi Konformitas (PVoC) program yang memutuskan apakah impor diatur memenuhi standar Kenya. Ini adalah panduan Kenya-spesifik; angka dan daftar yang terlibat adalah waktu - sensitif dan harus dibaca dari sumber KRA KEBS saat ini.**
 

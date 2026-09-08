@@ -1,14 +1,16 @@
 # 长安CS75 PLUS(3rd-Gen冠军)2024:两台涡轮发动机与4th-Gen边界
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 长安CS75 PLUS 2024(3rd Gen) 标本和出口购买者说明
-- **Meta Director**:中国市场3rd-gen 长安CS75 PLUS冠军2024 —1.5T 138 kW vs 2.0T 171 kW,艾辛8AT,维度L2 驱动辅助,4th-generation区分出口商必须直达.
-- ** 建议的URL**:车辆/吊车-cs75-plus/
-- ** H1 **:长安CS75 PLUS 2024(3rd-Generation冠军):中国-市场出口品谱
-- ** 关键词**: changan cs75 plus 2024 specs 1.5t 2.0t
-- **二级搜索术语**:CS75 PLUS JL473ZQ7,CS75 PLUS 2.0T Aisin 8AT,长安SUV出口,第三代CS75 PLUS尺寸,蓝鲸引擎
-- ** 内部链接建议**:车辆/大面积;车辆/自动/l6/;车辆/车辆-coc型核准-多塞/
-- ** 图像建议**:1.5T与2.0T的比较; Aisin 8AT徽章; 540 ° 相机显示; 侧面剖面显示 4710 mm 长度
-- **ALT建议**: "Chanan CS75 PLUS第三代2024"; "CS75 PLUS 1.5T对2.0T发动机"
+## SEO元数据
+- **SEO标题**: 长安CS75 PLUS 2024(3rd Gen) 标本与出口购买者说明
+- **Meta描述**: Chinese-market 3rd-gen Changan  CS75   PLUS  Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, 艾辛8AT号 维度, L2个司机辅助器  and  4th-generation个区别出口商必须坚持直截了当。
+- **H1**: Changan  CS75   PLUS  2024 (3rd-Generation Champion): 供出口商使用的中式市场样板
+- **核心关键词**: changan cs75 plus 2024 specs 1.5t 2.0t
+- **次级搜索词**: CS75 PLUS JL473ZQ7 CS75 PLUS 2.0T 艾辛 8AT 长安 SUV出口 第三代CS75 PLUS维,蓝鲸发动机
+- **建议URL**: /vehicles/changan-cs75-plus/
+- **搜索意图**: Understand Changan  CS75   PLUS  2024 (3rd-Generation Champion): 出口商的中马标本: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/geely-emgrand/ ; /vehicles/li-auto-l6/ ; /guides/vehicle-coc-type-approval-dossier/
+- **图片建议**: 1.5T比2.0T比较
+- **ALT文本**: 长安CS75PLUS 第三代2024
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景:将3rd-Gen冠军从4th世代中分离出来
 CS75 PLUS是长安市核心中超SUV家族. 本页面涵盖**3rd-generation冠军赛线,型号为2024年(REFERENCE MARKET: 中国)**. A **4th generation entered the China market from September 2024** with a longer body  and  轮式基座  and  订正1.5T调。 由于两代人都是在CS75 PLUS名称下交易的,在重叠的几个月内,只说"CS75 PLUS 2024"的订单说明是模糊不清的——锁生成,发动机和变速箱与VIN对齐.
@@ -55,30 +57,30 @@ The 4th-generation car is larger (reported 4770 1910 mm, 2800 mm 轮基). 将两
 ** 每个年级L2套套装是否相同? ** 视其等级而定;核实准确的VIN上的ACC/Lane/540°摄像头内容。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 SUV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

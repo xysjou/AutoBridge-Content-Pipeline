@@ -1,14 +1,16 @@
 # 海外アフターセールス、部品、保証ネットワークの構築
-## ツイート メタデータ
-- ** SEO のタイトル**:海外アフターセールス、部品及び保証ネットワークのセットアップ ガイド
-- **メタ 記述**: 車両輸出業者が海外のアフターセールスを可能とする方法 — インストールされたベース、地域部品在庫、保証に一致するネットワークモデルが実際のサービス容量とそれの背後にある中国の政策の期待に一致した約束。
-- **混雑したURL**: /guides/overseas-aftersales-parts-warranty-network/
-- H1 ホテル **: 輸出された車のための海外アフターセールス、予備品および保証の機能を造って下さい
-- ** プライマリー キーワード**:海外アフターセールス部分の保証ネットワークのセットアップの輸出業者
-- **二次検索条件**:輸出業者サービスネットワーク海外、地方自治体、車両保証方針海外、独立系マルチブランド修理ネットワーク、ディーラーアフターサポート
-- **内部リンクの提案**: /guides/vehicle-export-sales-contract-clauses/; /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/
-- **画像提案**:インストールベース→ネットワークモデル決定ツリー;部品ストック層;保証機能マッチングループ
-- **ALTの提案**:「取付けられた基盤によるアフター・ネットワーク モデル」;「地域部品は層を貯蔵します
+## SEOメタデータ
+- **SEOタイトル**: 海外アフターセールス、部品及び保証 ネットワークセットアップガイド
+- **メタディスクリプション**: 車両輸出業者が海外のアフターセールスを可能とする方法 — インストールされたベース、地域部品在庫、保証に一致するネットワークモデルが実際のサービス容量とそれの背後にある中国の政策の期待に一致した約束。
+- **H1**: 海外アフターセールス、スペアパーツ、輸出車両の保証機能の構築
+- **主要キーワード**: 海外アフターセールスパーツ保証ネットワークセットアップ輸出
+- **関連検索語**: 海外輸出業者サービスネットワーク、地方自治体倉庫、海外車両保証方針、独立したマルチブランド修理ネットワーク、ディーラーアフターサポート
+- **推奨URL**: /guides/overseas-aftersales-parts-warranty-network/
+- **検索意図**: 海外アフターセールス、スペアパーツ、および輸出車両の保証能力を把握:車両/パーツの輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **画像候補**: インストールベース→network-model決定ツリー
+- **ALTテキスト**: 設置済み基盤によるアフターセールスネットワークモデル
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 規模: これは、スペアパーツを購入しない、運用サービスについてです
 ガイドは、アフターセールス、部品供給、保証のフルフィルメントを、目的地市場でのカバーします。 中国の*procuring*スペアパーツ(既存のsper_partsコンテンツクラスター)の別トピックとは、意図的に区別されます。スワースコンポーネントは入力です。このページは、顧客稼働時間にそれらの部品を回す**の動作能力についてです。
@@ -52,18 +54,18 @@ China's four-ministry used-car export notice (item on improving the export suppo
 **「バイイングスペアパーツ」ガイドとは、この違いは?** 中国の調達部品をカバーしています。これは、目的地市場でのサービス/部品/保証機能を実行します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf
@@ -83,7 +85,7 @@ China's four-ministry used-car export notice (item on improving the export suppo
 | 四分の一中古車輸出通知(項目6:サポートシステム) | 州議会政策ライブラリ | CN グローバル | 以下は、 https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 検証済み | ジョイントアフターセールス/パート/技術サポートの方針の期待 |
 | 同じお知らせ(サポートシステム) | 商務省 商務省 | CN グローバル | 担当: http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | 検証済み | MOFCOM はテキストを対向する |
 | 中国の自動車メーカーが海外のアフターセールスギャップを閉じる方法 | シエナ・ファイナンス | 営業拠点 | 以下は、 https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml の | 2026-09-03 | シングル_ソース | マルチブランドネットワークパス;メルボルン部品例;7-yr保証例 |
-| グローバルな部品は、システム化する必要があります | 北京ニュース | 営業拠点 | 以下は、 の | 2026-09-03 | CROSS_CHECKED(クロス) | 「ヘビーセールス、ライトサービス」の弱み、委任リスク | https://m.bjnews.com.cn/detail/1779683581168283.html
+| グローバルな部品は 、 システム化する必要があります | 北京ニュース | 営業拠点 | 以下は 、 の | 2026-09-03 | CROSS_CHECKED(クロス) | 「 ヘビーセールス 、 ライトサービス 」 の弱み 、 委任リスク | https://m.bjnews.com.cn/detail/1779683581168283.html
 ※スコープノート: ガイドは、サービス運用を担っており、スペアパーツ調達クラスターとは異なる状態に保ちます。 ふりがな
 
 | 家庭用自動車製品の修理・交換・返品に関する責任(SAMR注文番号43) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | 検証済み | 国内保証(San-bao)海外アフターサービス規約が区別しなければならないベースライン |

@@ -1,15 +1,17 @@
 # Métodos de pagamento na exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A Controlos de risco
 
-## SEO Meta- dados
-- ** Título SEO**: Métodos de pagamento de exportação para chinês Carros: T/T, L/C, D/P, D/A, Guia de Risco O/A
-- ** Descrição do Meta**: Como um exportador de veículos chinês deve escolher e usar com segurança T/T, L/C irrevogável, D/P, D/A e conta aberta, cláusulas leves à vista e risco de banco de controle e documento.
-- ** H1 **: Métodos de pagamento na exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A Controlos de Risco
-- **Chave principal**: métodos de pagamento de exportação t t lc risco
-- ** Termos de pesquisa secundários**: condições de pagamento de exportação; L/C irrevogável; depósito T/T; coleção documental; risco de conta aberta; UCP600
-- ** URL sugerido**: /guides/export-payment-methods-t-t-t-lc-risk/
-- **Intenção de pesquisa**: 识别软条款与银行风险（信用证等结算方式）（出口商如何在汽车订单中选择并安全使用电汇）
-- **As sugestões de ligação interna**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
-- **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: Métodos de pagamento de exportação para chinês Carros: T/T, L/C, D/P, D/A, Guia de Risco O/A
+- **Meta descrição**: Como um exportador de veículos chinês deve escolher e usar com segurança T/T, L/C irrevogável, D/P, D/A e conta aberta, cláusulas leves à vista e risco de banco de controle e documento.
+- **H1**: Métodos de pagamento na exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A Controlos de risco
+- **Palavra-chave principal**: Métodos de pagamento de exportação t t lc risco
+- **Termos de busca secundários**: condições de pagamento de exportação; L/C irrevogável; depósito T/T; recolha documental; risco de conta aberta; UCP600
+- **URL sugerida**: /guides/export-payment-methods-t-t-lc-risk/
+- **Intenção de busca**: Entender os métodos de pagamento na exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A Controlos de Risco: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/incoterms-2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
+- **Sugestão de imagem**: Uma cena realista, focada em documentos/veículos, que ilustra os métodos de pagamento na exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A, controlos de risco, nenhuma inspecção encenada ou pessoas alegadas.
+- **Texto ALT**: Close, visão natural dos materiais e do assunto relacionado com os métodos de pagamento em exportação de veículos chineses — T/T, L/C, D/P, D/A, O/A Controle de Risco, fundo neutro, nenhuma pessoa ou ação de inspeção mostrada.
+- **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Por que a estrutura de pagamento decide se um veículo é seguro
 Para um exportador de veículos chinês, o método de pagamento é uma ferramenta de atribuição de risco, não um pormenor administrativo. Os veículos são de alto valor, muitas vezes construídos para encomendar, e podem precisar de homologação ou conversão antes da expedição, então o intervalo entre produção, carregamento e pagamento é onde as perdas acontecem. Este guia explica as cinco rotas de liquidação comuns e os controlos que pertencem antes, não depois, à assinatura do contrato. Trata-se de um quadro internacional de liquidação, não da regra bancária de um único país.
@@ -40,7 +42,6 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
 ** Devo aceitar O/A para um primeiro comprador?** Geralmente não sem seguro de crédito, segurança ou uma relação estabelecida.
 ** O UCP600 anula o meu contrato?** Não — UCP600 rege o crédito quando incorporado; o contrato de venda e Incoterm ainda fixam o negócio.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_ MATCH**: Métodos de pagamento exatos na exportação de veículos chineses
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
+- **MODEL_TOPIC_MATCH**: exact Payment Methods in Chinese Vehicle Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export payment methods, Chinese-market procurement guide export buyer reference
   - **FR**: export payment methods, procurement guide du marché chinois, référence acheteur export
   - **DE**: export payment methods, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
   - **ID**: export payment methods, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export payment methods, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export payment methods, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TradeFinance #ExportPayment

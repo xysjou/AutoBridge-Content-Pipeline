@@ -1,14 +1,16 @@
 # Changan CS75 PLUS (3rd-Gen Champion) 2024: Dos motores Turbo y el 4th-Gen Boundary
-## SEO Metadatos
-- **SEO Título**: Changan CS75 PLUS 2024 (3rd Gen) Specs " Export Buyer Notes
-- **Meta Descripción**: China-mercado 3rd-gen Changan CS75 PLUS Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensiones, L2 controladores de ayudas, y los 4th-generation exportadores de distinción deben mantener la recta.
-- ** URL agregada**: /vehicles/changan- cs75-plus/
-- ** H1 **: Changan CS75 PLUS 2024 (3rd-Generation Champion): Chinese-Market Specs for Exporters
-- **Primary Keyword**: changan cs75 más 2024 specs 1.5t 2.0t
-- **Segundary Search Terms**: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, Changan SUV export, tercera generación CS75 PLUS dimensiones, Blue Whale engine
-- **Sugerencias de Enlace Interno**: /vehicles/geely-emgrand/; /vehicles/li-auto- l6/; /guides/vehicle-coc-type-approval-dossier/
-- **Sugerencias de imagen**: comparación 1.5T vs 2.0T; Aisin 8AT placa; 540 ° pantalla de cámara; perfil lateral que muestra 4710 mm longitud
-- **Sugerencias de ALT**: "Changan CS75 PLUS tercera generación 2024 "; " CS75 PLUS 1.5T versus 2.0T motor"
+## Metadatos SEO
+- **Título SEO**: Changan CS75 PLUS 2024 (3rd Gen) Especies & Export Buyer Notes
+- **Meta descripción**: China-mercado 3rd-gen Changan CS75 PLUS Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensiones, L2 ayudas de conductor, y los 4th-generation exportadores de distinción deben mantener recto.
+- **H1**: Changan CS75 PLUS 2024 (3rd-Generation Champion): Chino-Marcos Específicos para Exportadores
+- **Palabra clave principal**: changan cs75 más 2024 espectros 1.5t 2.0t
+- **Términos de búsqueda secundarios**: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, Changan SUV exportación, tercera generación CS75 PLUS dimensiones, Blue Whale engine
+- **URL sugerida**: /vehicles/changan-cs75-plus/
+- **Intención de búsqueda**: Comprender Changan CS75 PLUS 2024 (3rd-Generation Champion): Especies chinas de marca para exportadores: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/geely-emgrand/ ; /vehicles/li-auto-l6/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Sugerencia de imagen**: Comparación entre 1.5T y 2.0T
+- **Texto ALT**: Changan CS75 PLUS tercera generación 2024
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: Separar el campeón de 3rd-Gen de la generación 4th
 CS75 PLUS es la familia de SUV de tamaño medio de Changan. Esta página cubre la línea ** 3rd-generation Champion, modelo año 2024 (REFERENCE MARKET: CHINA)**. Una generación ** 4th entró en el mercado de China desde septiembre 2024 ** con un cuerpo más largo  and  Base de ruedas  and  a revised 1.5T tune. Debido a que ambas generaciones se cotizaron bajo el nombre de CS75 PLUS en meses superpuestos, una nota de pedido que dice sólo " CS75 PLUS 2024 " es ambiguo — generación de cerraduras, motor y caja de cambios contra el VIN.
@@ -55,30 +57,30 @@ No se publica ningún precio de exportación estático. La cifra inicial de 900 
 **¿El paquete L2 es idéntico en cada grado?** Trátelo como grado específico; verifique el contenido de cámara ACC/lane/ 540 ° en el VIN exacto.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 SUV
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

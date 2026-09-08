@@ -1,16 +1,16 @@
 # FAWS Jiepang J6F: China- Pasar Blue- Plate Truk Cahaya Referensi
-## SEO Metadata
-- ** SeO Judul ** FAW Jiefang J6F Truk Cahaya Ekspor Specs: Mesin, Chassis, Payload Guide
-- ** Meta Description **: Referensi pasar untuk taksi J6F lebih dari truk lampu biru: N2 kategori, pilihan diesel seri Deutz, tubuh sasis kargo, dan dokumen homologasi pembeli ekspor harus memperoleh.
-- ** H1 **: FAW Jiefang J6F: China- Market Blue- Plate Truck Light Export Referensi
-- ** Primary Keyword **: FAW Spesifikasi ekspor truk ringan Jiefang J6F
-- Jiefang J6F truk ringan; J6F piring biru N2; CA4DB1 diesel 130; FAW taksi atas ekspor truk; truk kargo cahaya Cina
-- **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- ** Cari Intent **: 面向海外 B 端买家介绍 J6F 中国市场版本身份: 底盘 动力 货箱与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- Sebuah Jiefang FAW putih J6F taksi-atas truk kargo ringan dengan kotak tubuh di halaman
-- Cab-over FAW Jiepang J6F truk ringan dengan kotak kargo tubuh diparkir di halaman logistik
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: FAW Jiepang J6F Light Truck Expor Specs: mesin, Chassis, Payload Guide
+- **Deskripsi Meta**: Referensi pasar untuk FAW Jiepang J6F taksi-lebih blue-plate truk ringan: N2 kategori, Deutz seri pilihan diesel, chassis / kargo tubuh, dan dokumen homologasi pembeli ekspor harus mendapatkan.
+- **H1**: FAW Jiepang J6F: China- Pasar Blue- Plate Truck Export Referensi
+- **Kata kunci utama**: FAW Spesifikasi ekspor truk ringan Jiefang J6F
+- **Istilah pencarian sekunder**: Jiefang J6F truk ringan; J6F piring biru N2; CA4DB1 diesel 130; FAW taksi atas ekspor truk; truk kargo ringan Cina
+- **URL yang disarankan**: /vehicles/faw-jiefang-j6f/
+- **Maksud pencarian**: Mengerti FAW Jiepang J6F: China- Pasar Blue- Plate Truck Expor Light Referensi: exportir kendaraan / suku cadang apa yang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- **Saran gambar**: Sebuah putih FAW Jiefang J6F taksi-atas kargo ringan truk dengan kotak tubuh di halaman
+- **Teks ALT**: Cab-lebih dari FAW Jiepang J6F truk ringan dengan kotak kargo tubuh diparkir di halaman logistik
+- **Cakupan skema**: Artikel + Kendaraan
 
 Jiepang J6F adalah taksi FAW di atas truk tugas di 'blue-plate' Cina seri N2 segmen - berat kendaraan kotor di bawah 4.5 ton, kerja kuda dari distribusi kota. Keputusan ekspor truk-Light- dibuat pada mesin, gearbox, axle, GVW payload, chassis dan tubuh kargo, sehingga halaman ini berikut logika kendaraan komersial-daripada tata letak passeng- mobil. Identitas (Garis Model FAW Jiepang, taksi-lebih dari N2 truk ringan) adalah OEM-didirikan; massa rinci membutuhkan kertas homologasi.
 

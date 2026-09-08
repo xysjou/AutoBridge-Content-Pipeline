@@ -1,14 +1,16 @@
 # FAW Jiefang J6P重いトラクター:エンジン、ギアボックス、車軸およびGCWはトラクター仕様の決定として読む
-## ツイート メタデータ
-- ** SEO タイトル**: FAW Jiefang J6P トラクター仕様: エンジン、GCW およびエクスポートノート
-- **メタ 記述**: 中国の市場 FAW ジファング J6P 重いトラクター — Xichai CA6DM2 460 PS 2300 N·m 中国VI ディーゼル、4 の × 2/6 の × 4/8 の × 4 のレイアウト、10–16-speed の変速機、~ 40 t の GCW のクラスおよび輸出点検はバイヤーの必要性を点検します。
-- **混雑URL**: /vehicles/faw-jiefang- j6p-tractor-specs/
-- H1 **: FAW Jiefang J6P (中国市場): 重いトラクターのパワートレイン、シャーシおよび輸出確認
-- **主なキーワード**:faw jiefang j6pトラクター仕様
-- **二次検索条件**:Jeefang J6P 460、CA6DM2エンジン、J6P 6x4トラクターGCW、中国VI大型トラック輸出、J6P AMTギアボックス、Xichai 11リットルディーゼル
-- **内部リンク提案**: /vehicles/yutong- zk6122-coach-specs/; /vehicles/sany-concrete-mixer-truck-specs/; /guides/china-vehicle-export-license-customs-documents/
-- **画像提案**:6×4トラクター側;Xichai CA6DM2エンジン;12-speedギアボックス;タンデムドライブ車軸;タクシーインテリア
-- **ALTの提案**:「FAW Jiefang J6P 6x4の重トラクター」;「J6P Xichai CA6DM2のディーゼル機関」
+## SEOメタデータ
+- **SEOタイトル**: FAW  Jiefang J6P Tractor Specs: エンジン、GCW及び輸出ノート
+- **メタディスクリプション**: 中国の市場 FAW Jiefang J6P重いトラクター — Xichai CA6DM2 460 PS/2300 N・m 中国 - VIディーゼル、4 × 2/6 × 4/8 × 4のレイアウト、10–16-speedギアボックス、〜40 t GCWクラス、輸出チェックバイヤーが必要です。
+- **H1**: FAW  Jiefang J6P (Chinese-Market): 重いトラクターのパワートレイン、シャーシおよび輸出確認
+- **主要キーワード**: faw jiefang j6p トラクターの指定
+- **関連検索語**: Jiefang J6P 460、CA6DM2エンジン、J6P 6x4トラクターGCW、中国VI大型トラック輸出、J6P AMTギアボックス、Xichai 11リットルディーゼル
+- **推奨URL**: /vehicles/faw-jiefang-j6p-tractor-specs/
+- **検索意図**: FAW Jiefang J6P(中国市場):重いトラクターのパワートレイン、シャーシおよび輸出検証:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/yutong-zk6122-coach-specs/ ; /vehicles/sany-concrete-mixer-truck-specs/ ; /guides/china-vehicle-export-license-customs-documents/
+- **画像候補**: 6×4 トラクター側
+- **ALTテキスト**: FAW Jiefang J6P 6x4 重いトラクター
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: ドライブラインとGCWによるトラクターをスペックします。, バッジではなく
 重い運搬船トラクターのために、決定的な分野は**エンジンの変位とトルク、ギアボックス、ドライブ車軸、GCWクラス、タクシーおよびシャーシ**です。トリムレベルの機器ではありません。 J6PはFAW Jiefangの長期走行式大型トラクタシリーズで、4 × 2、6 × 4、8 × 4 ** ドライブレイアウト。 このページは**中国市場参照(REFERENCE MARKET: CHINA)**です。すべてのトラクターは、均質なモデルコードに構成され、排出/車軸比率は注文固有のものです。
@@ -53,30 +55,30 @@ AMTは10–16-speedマニュアルとオプションです。 正確なギアボ
 **中国-VI トラクターはディーゼルで動くことができますか。** 超低硫黄ディーゼルとDEFと適切なDPF条件が必要です。注文する前に、目的地の燃料と排出受け入れを確認します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 重型牵引车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
@@ -85,10 +87,10 @@ AMTは10–16-speedマニュアルとオプションです。 正確なギアボ
 | J6P 比較 (CA6DM2-46E61, 341 kW) | トラック ホーム トゥーティーアオ | CN の | 担当: http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED(クロス) | 338–341 kW cross-check, ドライブレイアウト |
 | J6P 3.0 (CA6DM3 13 L 560 PS) | トラック ホーム トゥーティーアオ | CN の | 担当: http://m.toutiao.com/group/6919343124628374029/ の | 2026-09-03 | シングル_ソース | 13 L 560 PSの長距離の間隔 |
 | Jiefang J6モデル/ドライブ/パワー系統 | ドイイン 百科事典 | CN の | 以下は、 https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | シングル_ソース | 背景 |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国のVI | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+|  GB  17691-2018 の頑丈なディーゼル車の汚染物質の放出 (中国  VI) | エコロジー・環境省 (MEE) |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 中国の  VI  | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
 | GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 *Confidence Note: FAW のプライマリスペックシートがキャプチャされていない。 460 エンジン/トルクは、クロスチェック(CROSS_CHECKED)であり、13 L 560 PS と 40 t GCW は、単一ソースであり、同等なモデルコードにバインドされている。 中国-VI ふりがな

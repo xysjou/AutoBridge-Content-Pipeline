@@ -1,15 +1,17 @@
 # Chery Arrizo 8 (艾瑞泽 8): 중국 시장 1.6T 수출 구매자를 위한 Saloon Spec 장
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, 중국 참조)
-- ** Meta Description**: 중국 시장 Chery Arrizo 8 - 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm 몸, 그 사정에 대한 트림 구분, 그리고 주문하기 전에 어떤 수입업자가 검증.
-- **수입 URL**: /vehicles/chery-arrizo- 8/
-- ** H1 **: Chery Arrizo 8: 중국 시장 사양 및 수출 검증 노트
-- ** 출원 키워드 **: chery arrizo 8 specs 수출
-- **세컨드 검색 조건 **: Arrizo 8 1.6TGDI, Chery Arrizo 8 치수, 艾瑞泽 8 수출, Kunpeng SQRF4J16, 중국 소형 세단 수출
-- ** 내부 링크 제안**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/; /guides/export-vehicle-document-package/
-- ** 이미지 제안**: front three-quarter of Arrizo 8; 엔진 덮개 1.6TGDI 배지; 뒷 오두막 Legroom; 7DCT 선별기
-- **ALT 제안**: "Chery Arrizo 8 1.6TGDI 중국 시장 세단 "; "Arrizo 8 치수 4780mm 휠베이스 2790mm "
+## SEO 메타데이터
+- **SEO 제목**: Chery Arrizo 8 Specs & 수출 구매자 가이드 (1.6TGDI, 중국 참조)
+- **메타 설명**: 중국 시장 Chery Arrizo 8 - 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm 몸, 그 사정에 대한 트림 구분, 그리고 주문하기 전에 어떤 수입업자가 확인.
+- **H1**: Chery Arrizo 8: 중국 시장 사양 및 수출 검증 노트
+- **주요 키워드**: chery arrizo 8 specs 수출
+- **보조 검색어**: Arrizo 8 1.6TGDI의 Chery Arrizo 8 차원, 艾瑞泽 8 수출, Kunpeng SQRF4J16의 중국 조밀한 세단 수출
+- **추천 URL**: /vehicles/chery-arrizo-8/
+- **검색 의도**: Chery Arrizo 8: 중국 시장 사양 및 수출 검증 노트: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **이미지 제안**: front three-quarter of Arrizo 8
+- **ALT 텍스트**: 체리 아르리조 8 1.6TGDI 중국 시장 세단
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 컨텍스트: 작은 차 분야의 이상 B 세그먼트 술집 Sits
 Arrizo 8은 전통적인 콤팩트와 B 세그먼트 분야 사이에서 크기 Chery의 단계 업 술집이며, 진입 세단보다 더 후방 공간을 원하는 구매자에 투구됩니다. 수출업자의 경우 오프닝 질문은 가격 그러나 ** 어느 파워 트레인 라인이 인용되는 ** 아닙니다: 중국 범위는 1.6-litre 터보의 주위에 건축되고, 이 페이지 문서 ** 1.6TGDI DCT 중국 시장 차 (지역 시장: 중국) **. 아래 모든 수는 ** 중국 시장 참조 사양 **, 글로벌 사양 - 대상 튜닝, 배출 균질 및 장비는 로컬 시장에서 설정, 그리고 OEM 해외 사양 시트는 연구 팩에이 모델에 대 한 캡처 되지 않았습니다.
@@ -17,7 +19,7 @@ Arrizo 8은 전통적인 콤팩트와 B 세그먼트 분야 사이에서 크기 
 ## Driveline (ICE 초점: 엔진, 기어 박스, 연료, 배출)
 | 제품 정보 | 1.6TGDI DCT의 특징 (중국 기준) |
 |---|---|
-| 의 특징 | 1.6 T Kunpeng turbocharged inline-4 (SQRF4J16 family) |
+| 의 특징 | 1.6 T Kunpeng 터보로 충전 인라인-4 (SQRF4J16 제품군) |
 | 최대 힘 | 145 kW (≈197 PS) |
 | 최대 토크 | 290 N·m |
 | 의논하기 | 7-speed 젖은 이중 클러치 (7DCT) |
@@ -85,11 +87,11 @@ ICE saloon의 경우 조달 결정은 ** 엔진 코드, 기어 박스 유형 및
 |---|---|---|---|---|---|---|
 | 아르리조 8 2024 1.6T DCT Excellence 매개 변수 페이지 | ZOL 자동차 데이터베이스 | 담당자: Mr. wang | https://detail.zol.com.cn/car/index2030152.shtml 대한 자세한 정보 | 2026-09-04 | CROSS_체크 | 차원, 축축, 엔진, 기어 박스, 구조 |
 | 아르리조 8 1.6T DCT 우수한 모수 | Sohu 자동차 데이터베이스 | 담당자: Mr. wang | https://db.m.auto.sohu.com/trim_171975 경우 | 2026-09-04 | CROSS_체크 | 힘, PS의 차원, 국내 가격 참고 |
-| Chery Arrizo 8 1.6T 동력 분석 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_체크 | 145 kW/197 PS/290 N·m/7DCT |
+| Chery Arrizo 8 1.6T 동력 분석 | 오토홈·장자오 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_체크 | 145 kW/197 PS/290 N·m/7DCT의논문
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
 
 *Confidence 참고: no OEM primary spec sheet was captured; 그림은 중국 구조화 된 데이터베이스 값 십자가 검사. 문, 드라이브 레이아웃 및 최고 속도는 단일 소스입니다. 국내 가격은 적시 과민하 결코 수출 인용입니다. ****************************************************************************************************************************************************************************************************************************************************************
 

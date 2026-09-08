@@ -1,16 +1,16 @@
 # Inscrição no E-Port China: A hierarquia do cartão jurídico e do cartão de operador explicado
-## SEO Meta- dados
-- ** Título SEO**: China E-Port Inrollment: Cartão IC de pessoa legal vs cartão de operador. AutoBridge
-- ** Descrição do Meta**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, os papéis do cartão de pessoa coletiva  and  cartões de operador,  and  A hierarquia de autorização de cartões.
-- ** H1 **: Inscrição na China no porto eletrônico: A hierarquia do cartão jurídico e do cartão de operador explicado
-- **Primary Keyword**: China e-port registram ic operador de cartão pessoa legal
-- ** Termos de pesquisa secundários**: 中国电子口岸入网; 法人卡; 操作员卡; cartão IC de porta eletrónica; registro aduaneiro e-port onboarding; emissão de cartão chinaport
-- ** URL sugerido**: /guides/china-e-port-enrollment-ic-card-operator/
-- **Intenção de pesquisa**: 电子口岸入网如何随海关注册同步完成, 法人卡与操作员卡的层级关系与数量 / 授权规则
-- **As sugestões de ligação interna**: /guias/comércio transfronteiras- b2b-export-9710-9810/, /guias/china-veículo-exportação-licença/, /guias/customs-voluntário-divulgação-auditoria-tolerância/
-- ** Sugestão de Imagem**: Um administrador da empresa insere um leitor de cartões IC de porta eletrônica enquanto gerencia as permissões do operador na tela
-- **ALT Sugestão**: Cartão IC em um leitor ao lado de uma tela de gerenciamento de permissão de porta eletrônica
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: Inscrição no E-Port da China: Pessoa Jurídica IC Cartão contra Cartão de Operador.
+- **Meta descrição**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, os papéis do cartão de pessoa jurídica  and  cartões de operador,  and  A hierarquia de autorização de cartões.
+- **H1**: Inscrição no E-Port China: A hierarquia do cartão jurídico e do cartão de operador explicado
+- **Palavra-chave principal**: China e-port matrícula i operador de cartão pessoa coletiva
+- **Termos de busca secundários**: 中国电子口岸入网; 法人卡; 操作员卡; cartão de e-porto IC; registo aduaneiro de e-porto a bordo; emissão de cartão de chinaport
+- **URL sugerida**: /guides/china-e-port-enrollment-ic-card-operator/
+- **Intenção de busca**: Compreenda a inscrição na China no E-Port: A Hierarquia do Cartão Jurídico-Pessoal e do Cartão de Operador Explicado: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Sugestão de imagem**: Um administrador da empresa inserindo um leitor de cartão IC porta eletrônica enquanto gerencia as permissões do operador na tela
+- **Texto ALT**: IC cartão em um leitor ao lado de uma tela de gerenciamento de permissão de porta eletrônica
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 O Porto Eletrônico da China (中国电子口岸) é a porta de entrada digital comum através da qual uma empresa faz declarações aduaneiras e afins transfronteiriças, e o acesso a ele é controlado por cartões IC que carregam assinaturas digitais. Os novos exportadores assumem frequentemente que a integração é uma aplicação separada e longa; no quadro actual, é largamente sincronizada com o registo aduaneiro, e o sistema de cartões em si funciona numa hierarquia estrita de duas camadas entre um cartão de pessoa colectiva e um cartão de operador. Fazer essa hierarquia errada é uma causa frequente de "nós registramos, mas ninguém pode declarar". Este guia explica como a integração agora se aplica ao registo, o que cada tipo de cartão pode ou não fazer, e as regras relativas aos números de cartão e à autorização. Listas de saída locais, timelines de processamento, taxas e tratamento de falhas são deliberadamente deixados para as orientações oficiais atuais, uma vez que variam e mudam.
 

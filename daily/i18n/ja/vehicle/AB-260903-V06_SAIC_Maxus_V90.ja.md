@@ -1,14 +1,16 @@
 # サイクマックスXintu V90 ディーゼル ヴァン:構成Matrixライトコマーシャル、単一モデルではなく
-## ツイート メタデータ
-- **SEO タイトル**: サイク Maxus V90 ディーゼル ヴァンのSpecs及び輸出構成ガイド
-- **メタ 記述**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8ATの 任意二重後部車輪が付いているRWD、  two wheelbases, 均質な9–15席
-- **混雑URL**: /vehicles/saic-maxus- v90-specs/
-- H1 **: サイク・マキシス・シントゥ V90 (中国市場): ディーゼル ライト ヴァン構成および輸出点検
-- **主なキーワード**: saic maxus v90ディーゼル バンの仕様
-- **二次検索条件**:Maxus V90ホイールベース、V90 ZF 8AT、Maxusライトバス9-15シート、ディーゼルワイドボディバン輸出、デュアルリアホイールバン
-- **内部リンクの提案**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/vehicle-coc-type-approval-dosier/
-- **画像提案**: ロングホイールベース高ルーフの側面プロファイル; デュアルリアホイールリア車軸; 乗客対貨物ボディ; ZF 8ATセレクター; 貨物インテリア
-- **ALTの提案**:「SAIC Maxus V90の長いホイールベースの高い屋根のバン」;「V90ディーゼル機関および後部車軸の選択」
+## SEOメタデータ
+- **SEOタイトル**: SAIC Maxus V90の特長 ディーゼル ヴァンのSpecs及び輸出構成ガイド
+- **メタディスクリプション**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT、 任意二重後部車輪が付いているRWD、  two wheelbases, 均質な9–15席
+- **H1**: SAIC Maxus Xintu V90 (中国市場): ディーゼル ライト ヴァン構成および輸出点検
+- **主要キーワード**: saic maxus v90ディーゼル バンの指定
+- **関連検索語**: Maxus V90のホイールベース、V90 ZF 8ATのMaxusの軽バス9-15の座席、ディーゼル広いボディ バンの輸出、二重後部車輪のバン
+- **推奨URL**: /vehicles/saic-maxus-v90-specs/
+- **検索意図**: 理解 SAIC Maxus Xintu V90 (中国市場): ディーゼル光バン構成とエクスポートチェック:車両/部品輸出業者が確認しなければならないもの、ドキュメント、注文にコミットする前に決定します。
+- **内部リンク候補**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **画像候補**: ロングホイールベース高ルーフサイドプロファイル
+- **ALTテキスト**: SAIC Maxus V90の長いホイールベースの高い屋根のバン
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 設定コードを注文します。, 名ではなく
 Xintu V90は、旅客ミニバス、パネル/カーゴバン、複数のホイールベース、屋根の高さ、座席数、および単一/デュアルリアホイールを横断して、シャーシキャブとして販売されている**ワイドボディライト商用プラットフォームです。 シングル「V90スペック」はありません。 輸出業者の仕事は、**exact の均質なモデルコード(公告型号)** を固定し、エンジン、ギアボックス、車軸、体、シートを合わせることです。その特定の構成で、宛先認証が実行されるためです。 再燃の市場:**中国**。
@@ -50,47 +52,47 @@ ZF 8ATは、より高い層の伝達です。すべてのグレードがそれ�
 
 ## よくある質問
 **V90席はいくつですか?** 同梱のモデルコードにより、乗用版は9–15席の範囲です。 コードなしでは、ひとつの答えはありません。
-**What engine does it use?** A SAIC π 2.0 L turbo-diesel in 110 kW (150 PS) or 130 kW (177 PS) grades, with 375 or 400–420 N·m.
+**エンジンはどのようなエンジンを使うのか?** 110kW(150PS)または130kW(177PS)のSAIC π 2.0 Lターボディーゼル、375または400-420 N・m
 はい、フロントエンジン RWD は、デュアルリアホイールを適切に設定できます。
 グレードに応じて、6-speed自動またはZF 8-speed自動。
 ホイールベース、屋根、シート、車軸、GVWは、均質なV90構成で異なります。コードのみが仕様を固定します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| シンチュV90 構成(5498 ボディ) | Sohu Autoデータベース | CN の | 以下は、 と selectTrimId= | 2026-09-03 | CROSS_CHECKED(クロス) | クラス、ボディ次元 | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112
+| シンチュ V90 構成 (5498 ボディ) | ソーホーオート データベース |  CN  の | 以下は 、 と セレクトトリムアイド = | 2026-09-03 |  CROSS  |  CHECKED  (クロス) | クラス 、 ボディ次元 | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112
 | SAIC π 2.0Tディーゼル電力系統 | PCauto 百科事典 | CN の | 担当: http://m.pcauto.com.cn/baike/806544/1579332/ の | 2026-09-03 | CROSS_CHECKED(クロス) | 110/130 kW, 375 N·mの RWD, ロードバンド デュアルリアホイール |
 | V90 2025 130 kW 420 N·m | Auto | CN の | 以下は、 | 2026-09-03 | CROSS_CHECKED(クロス) | 130 kW 420 N·m、ZF 8AT、9–15席(単品座席) | https://m.16888.com/news/2026/0728/24803230.html 16888
 | Xintu V90 2024 パラメータ | シエナオートデータベース | CN の | 担当: http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED(クロス) | 5498/2062/2545のホイールベース3366/3760 |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 | GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 *Confidence Note: SAIC Maxus のプライマリスペックシートがキャプチャされていない。 値が交差チェックされた中国データベースであり、シートカウントは単一ソースであり、均質化されたモデルコードにバインドされる。 価格は利用できません。 宛先承認は、設定固有のものです。 ふりがな

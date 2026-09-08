@@ -1,16 +1,16 @@
 # XCMG QY25K5C Truck Crane (25-t Klasse): China-Market Special Vehicle Export Referenz
-## SEO Metadaten
-- **SEO Titel**: XCMG QY25K5C 25t Referenz für den Export von LKW-Kranen: Fahrwerk und Aufbau Führung
-- **Meta Description**: Chinesische Marktreferenz für den XCMG QY25K5C 25-tonne-class LKW-Kran: Wie sich ein mobiler LKW-Kran in Trägerfahrwerk und Hebeaufbau aufteilt, wie es in China regulativ ist und wie die Ladekartendokumente, die Käufer erhalten müssen, aussehen.
-- ** H1 **: XCMG QY25K5C LKW-Kran (25-t Klasse): China-Markt Spezialfahrzeug Export Referenz
-- **Hauptschlüsselwort**: XCMG QY25K5C LKW-Kran Export Spezifikationen
-- **Secondary Search Terms**: XCMG QY25K5C LKW-Kran; 25 Tonnen Mobilkran; LKW-Kran Chassis-Aufbau; XCMG Hebeladekarte; chinesischer LKW-Kran Export
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Search Intent**: 面向海外 B 端买家介绍 QY25K5C 中国市场版本身份 底盘 + 上装结构 监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+## SEO-Metadaten
+- **SEO-Titel**: XCMG QY25K5C 25t Lastwagen Crane Export Referenz: Chassis & Suprastruktur Führung
+- **Meta-Beschreibung**: Chinesische Marktreferenz für den XCMG QY25K5C 25-tonne-class LKW-Kran: Wie sich ein mobiler LKW-Kran in Trägerfahrwerk und Hebeaufbau aufteilt, wie es in China regulativ ist und welche Ladekarten die Käufer erhalten müssen.
+- **H1**: XCMG QY25K5C LKW-Kran (25-t Klasse): China-Markt Spezialfahrzeug Export Referenz
+- **Haupt-Keyword**: XCMG QY25K5C LKW-Kran Export Spezifikationen
+- **Sekundäre Suchbegriffe**: XCMG QY25K5C LKW-Kran; 25 Tonnen Mobilkran; LKW-Kran-Chassisaufbau; XCMG Hebelastdiagramm; chinesischer LKW-Kran-Export
+- **Vorgeschlagene URL**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Suchabsicht**: XCMG QY25K5C LKW-Kran (25-t Klasse): China-Market Special-Vehicle Export Referenz: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
 - **Bildvorschlag**: Ein XCMG 25-tonne-class LKW-Kran mit Teleskopausleger auf einem Bauplatz erweitert
-- **ALT Vorschlag**: LKW-Kran XCMG QY25K5C-class mit Teleskopausleger angehoben auf einem Außengelände
-- **Schema Scope**: Article + Vehicle
+- **ALT-Text**: LKW-Kran der Klasse XCMG QY25K5C- mit Teleskopausleger, der auf einem Außengelände angehoben wurde
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Ein LKW-Kran wie der XCMG QY25K5C ist ein **Spezialfahrzeug**, das einen Straßentransporter (Chassis) mit einem rotierenden Hebeaufbau kombiniert. Sourcing ist anders als der Kauf eines LKW: Die entscheidenden Dokumente sind das OEM-Lastdiagramm, die Auslegerkonfiguration und die Aufteilung zwischen Carrier- und Kranzulassungen. Diese Seite identifiziert den QY25K5C als XCMG 25-tonne-class Maschine und erklärt, was aus dem offiziellen XCMG Material zu erhalten ist - es leiht absichtlich keine Spezifikationen von älteren QY25E/QY25K-II Modellen.
 

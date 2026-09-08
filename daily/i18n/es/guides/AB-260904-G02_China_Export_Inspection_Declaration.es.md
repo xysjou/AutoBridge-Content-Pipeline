@@ -1,15 +1,17 @@
 # ¿Necesita un vehículo inspección estatutaria antes de exportar? Guía de decisiones de China-Side, HS-by-HS
 
-## SEO Metadatos
-- **SEO Title**: China Guía de la inspección de la situación de las exportaciones de vehículos (HS-by-HS)
-- **Meta Descripción**: No hay manta sí/no: determinar el código exacto 10-digit HS, comprobar el catálogo de inspección legal vigente y la condición de supervisión aduanera del código, y la inspección legal separada del comprador PSI y la licencia de exportación BEV.
-- ** URL agregada**: /guides/china-export-statutory-inspection-declaration
-- ** H1 **: Declaración de Inspección y Aduanas Estatutarias para un vehículo exportado: Decidirlo por 10-Digit HS, No por la generalización
-- **Primary Keyword**: vehículos de declaración de aduanas de la exportación de China
-- **Segundary Search Terms**: 法定检验 出口 目录, declaración del GACC orden 277, catálogo de inspección de productos básicos de exportación, licencia de exportación BEV 2026, PSI vs inspección estatutaria
-- **Sugerencias de enlace interno**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-certificate-of-origin/
-- **Sugerencias de imagen**: HS→catalo→ flujo de decisión de supervisión-condición; estándar vs PSI vs diagrama de tres vías de exportación-licencia; sello aduanero
-- **Sugerencias de ALT**: "Inspección legal de exportación de China decidida por 10-digit HS y catálogo actual"
+## Metadatos SEO
+- **Título SEO**: China Guía de la inspección de la Declaración de las exportaciones de vehículos (HS -por HS)
+- **Meta descripción**: No hay manta sí/no - determinar el código exacto 10-digit HS, comprobar el catálogo de la inspección legal vigente  and  la condición de supervisión aduanera de ese código,  and  inspección legal independiente del comprador PSI   and  the  BEV  export licence.
+- **H1**: Declaración de inspección y aduanas estatutarias para un vehículo exportado: Decidir Es para 10-Digit HS, No por la generalización
+- **Palabra clave principal**: vehículos de declaración de aduanas de la exportación de China
+- **Términos de búsqueda secundarios**: 法定检验 出口 目录, GACC orden 277 declaración, catálogo de inspección de productos básicos de exportación, BEV licencias de exportación 2026, PSI vs inspección estatutaria
+- **URL sugerida**: /guides/china-export-statutory-inspection-declaration
+- **Intención de búsqueda**: Comprender la inspección estatutaria y la Declaración de Aduanas para un vehículo exportado: Decide Es para 10-Digit HS, No por Generalización: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
+- **Sugerencia de imagen**: HS →catalogue→ flujo de decisión de supervisión-condición
+- **Texto ALT**: Inspección legal de exportación de China, decidida por 10-digit HS y catálogo actual
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## La pregunta no tiene un solo sí/no respuesta
 "¿Los vehículos chinos necesitan inspección legal antes de exportar?" Una manta "todos los coches deben" o "ningún coche lo necesita" es la respuesta equivocada. Si un envío específico está sujeto a **Inspección legal de exportación** está determinado por **su código HS exacto de diez dígitos**, leído contra el *Catalogo de Importación y Exportación de Productos Sujeto a la Inspección Estatutaria*** y ese código ** Condiciones de supervisión de los átomos categoría de inspección y cuarentena**. Esta página establece el marco de exportación de China y el método de decisión; no establece un resultado de catálogo para un código que no ha comprobado en directo. El resultado es, por tanto, **prueba condicional**: se verifica el marco legal, pero el estado del catálogo de cada vehículo debe ser confirmado por código en el momento de la declaración.

@@ -6,7 +6,7 @@
 - **Primary Keyword**: Nigeria vehicle import customs SONCAP
 - **Secondary Search Terms**: SONCAP certificate Nigeria; Nigeria Customs vehicle import; Form M PAAR; SON Certificate of Conformity; regulated products Nigeria import
 - **Suggested URL**: /guides/nigeria-vehicle-import-customs-soncap/
-- **Search Intent**: 向尼日利亚出口车辆需经过哪些海关清关计税、SONCAP强制合格评定及车龄/口岸要求
+- **Search Intent**: Understand Importing Vehicles and Auto Goods into Nigeria: NCS Customs and SONCAP: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/kenya-vehicle-import-kra-kebs-pvoc/, /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: Lagos vehicle import documentation with SONCAP certificate and customs form
 - **ALT Suggestion**: SONCAP certificate and Nigerian customs documentation on a desk near a port yard

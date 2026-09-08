@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Buying a Chinese Truck Fleet in Bulk: Spec, Licence & Acceptance
 - **Meta Description**: Engineer and bulk-procure Chinese heavy/dump/specialised trucks — duty-cycle spec, axles/frame/body, the official 2026 China vehicle export-licence regime, tender-grade acceptance and the document chain.
-- **Suggested URL**: /guides/commercial-truck-fleet-procurement-china/
 - **H1**: Procuring a Commercial-Truck Fleet From China: Duty Cycle, Exporter Licence and Acceptance
 - **Primary Keyword**: bulk commercial truck fleet procurement China specification export licence
 - **Secondary Search Terms**: China dump truck 6x4 8x4 export, 2026 vehicle export licence MOFCOM, pure-EV passenger export licence HS 8703801090, reinforced axle frame, fleet tender acceptance, commercial vehicle export documents
+- **Suggested URL**: /guides/commercial-truck-fleet-procurement-china/
+- **Search Intent**: Understand Procuring a Commercial-Truck Fleet From China: Duty Cycle, Exporter Licence and Acceptance: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: duty-cycle-to-spec worksheet; reinforced frame/axle; tender acceptance inspection; export document chain
-- **ALT Suggestions**: "Truck fleet duty-cycle specification worksheet"; "double-layer frame and reinforced drive axle"; "fleet tender acceptance at factory"
+- **Image Suggestion**: duty-cycle-to-spec worksheet; reinforced frame/axle; tender acceptance inspection; export document chain
+- **ALT Suggestion**: Truck fleet duty-cycle specification worksheet
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## A Fleet Is Engineered to Order, Not Picked Off a Shelf
 A 6×4 mining tipper, an 8×4 on-highway dump, a long-haul tractor and a reefer or tanker demand different powertrain, frame, axles and body choices, and bulk orders must additionally satisfy China's **current (2026) export-licence regime**, a tight document chain and tender-style acceptance. This guide gives fleet buyers, contractors and CV importers a repeatable path. It quotes no discounts, MOQs or lead times — those are negotiated per project and no authoritative public figures exist.
 ## Step 1 — Define the Duty Cycle Before Price

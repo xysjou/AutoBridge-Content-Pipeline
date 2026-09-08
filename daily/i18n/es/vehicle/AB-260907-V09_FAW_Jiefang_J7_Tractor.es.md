@@ -1,16 +1,16 @@
 # FAW Jiefang J7 Tractor: Una referencia China-Market Heavy-Truck que mantiene el China- 5 y China- 6 Generations Apart
-## SEO Metadatos
-- **SEO Title**: FAW Jiefang J7 China-Market Tractor Especies y controles de exportación TENIDO AutoBridge
-- **Meta Descripción**: Referencia del mercado chino para el tractor pesado FAW Jiefang J7: la línea histórica China- 5 CA6DM3 550 PS se mantuvo separada de la línea China- 6 CA6SX1 actual, hasta 600 PS, 6x4 diseño y controles de exportación.
-- ** H1 **: FAW Jiefang J7 Tractor: Un China-Market Heavy-Truck Referencia que mantiene el China- 5 y China- 6 Generations Apart
-- **Primary Keyword**: FAW Jiefang J7 productos de exportación
-- **Segundary Search Terms**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 tractor; China exportadora de camiones pesados; China- 6 J7 600 PS
-- ** URL suggested**: /vehicles/faw-jiefang- j7-tractor/
-- **Intent de búsqueda**: 面向海外买家介绍解放 J7 中国市场身份, 严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- **Sugerencias de enlace interno**: /vehicles/qingling-isuzu- kv100/, /vehicles/zoomlion- ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+## Metadatos SEO
+- **Título SEO**: FAW Jiefang J7 China-Market Tractor Especies y controles de exportación TENIDO AutoBridge
+- **Meta descripción**: Referencia del mercado chino para el tractor pesado de FAW Jiefang J7: la línea histórica China- 5 CA6DM3 550 PS se mantuvo separada de la línea China- 6 CA6SX1 actual hasta 600 PS, 6x4 diseño y controles de exportación.
+- **H1**: FAW Jiefang J7 Tractor: Un China-Market de referencia de cuello pesado que mantiene el China- 5 y China- 6 Generations Apart
+- **Palabra clave principal**: FAW Jiefang J7 specs export
+- **Términos de búsqueda secundarios**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 tractor; China exportadora de camiones pesados; China- 6 J7 600 PS
+- **URL sugerida**: /vehicles/faw-jiefang-j7-tractor/
+- **Intención de búsqueda**: Comprender FAW Jiefang J7 Tractor: Una referencia China-Market Heavy-Truck que mantiene al China- 5 y China- 6 Generations Apart: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
 - **Sugerencia de imagen**: Una unidad de tractor de alta velocidad de 6x4 de alta altura de la FAW Jiefang J7 se muestra desde el lado tres cuarto
-- **ALT Sugerencia**: Vista lateral de tres cuartos de una unidad de tractor de alta altura de FAW Jiefang J7 6x4 en tierra neutral
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
+- **Texto ALT**: Vista lateral de tres cuartos de un tractor de alta altura FAW Jiefang J7 6x4 en tierra neutral
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 El FAW Jiefang J7 es el tractor semi-trailer pesado de séptima generación de la mayor máquina de acoplamiento pesado de China, vendido principalmente como un alto-roof de la cabina 6x4 para el trabajo de larga distancia. La disciplina de especificación decisiva para un comprador de exportación es **generacional**: el J7 se ha ofrecido con un motor China- 5 (National V) de su era de lanzamiento 2018 y una nueva familia de motores China- 6 (Naciones Unidas VI), y combinando el mayor número de cada una en una "especificación J7" es precisamente el error que esta página previene. Esta es una referencia **Chino-mercado**, abarcada al diesel; GNL y variantes pura-eléctricas J7 y cualquier extranjero J7 están fuera de esta página, y las salidas de un solo proveedor se marcan para confirmación.
 

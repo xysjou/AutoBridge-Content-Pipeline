@@ -1,16 +1,16 @@
 # Các tập quán tự nguyện quản lý kỷ luật ở Trung Quốc: biến một lỗi tự gây ra thành một kết quả đau đớn
-## SAO Siêu dữ liệu
-- **SEAO Tiet**: China Do not translate the less less & Audit Toport for Eviers  vội evibers  vội
-- **Meta Mô tả**: Làm thế nào các phong tục Trung Quốc tự nguyện công khai hoạt động,  the current policy window to 30 June 2027, Khi mà hình phạt hành chính có thể được miễn hoặc giảm,  and  Thật là một tài liệu đáng để xuất khẩu.
-- ** H1 Tập tục tự nguyện quản lý kỷ luật ở Trung Quốc: biến một lỗi tự gây ra thành một kết quả tàn phá
-- **Cumpary Keyword**: Các phong tục Trung Quốc tự nguyện tiết lộ tính khoan dung của kiểm toán
-- **Secondary Search termss**: phong tục tự nguyện tiết lộ Trung Quốc; 主动披露; không có hải quan hành chính; luật kiểm tra hải quan điều khoản 27; giảm giá thanh toán muộn
-- ** URL đã gợi ý**: /guides/customs-Noctary-tuy-tuy-tuy-aurt-tear-tportly /
-- **Tìm kiếm Intent**: 海关主动披露是什么  dám 符合条件为何可不予 / 减轻行政处罚 现行政策窗口与办理要点
-- **I nội bộ Link gợi ý: //guides/ipler-recoveration-export-eport-eviction /, /guides/export-re re goods-fuls- refecifecation-excation-empation-regingation /, /guides/lechies/e-e-e-encover-cuff-c-cor/
-- **Image pretry**: Một nhân viên tài chính đang chuẩn bị một báo cáo bí mật viết tự nguyện với một tập tin kiểm tra hải quan mở
-- **LT gợi ý**: hãy chuẩn bị một lá thư tự nguyện tiết lộ bên cạnh một thư mục kiểm tra mở của hải quan
-- **Schema Scope**: Điều khoản (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Các tập tục Trung Quốc tự nguyện lưu trữ và phát âm cho các máy tính Eliber  vội
+- **Meta mô tả**: Làm thế nào các phong tục Trung Quốc tự nguyện công khai hoạt động,  the current policy window to 30 June 2027, Khi mà hình phạt hành chính có thể được miễn hoặc giảm,  and  Thật là một tài liệu đáng để xuất khẩu.
+- **H1**: Các tập quán tự nguyện quản lý kỷ luật ở Trung Quốc: biến một lỗi tự gây ra thành một kết quả đau đớn
+- **Từ khóa chính**: Các phong tục Trung Hoa tự nguyện tiết lộ tính khoan dung của kiểm toán
+- **Cụm tìm kiếm phụ**: Những phong tục tự nguyện tiết lộ Trung Quốc; 主动披露; Không có hải quan hình phạt; customs audit regulation article 27; chậm trả tiền
+- **URL đề xuất**: /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Ý định tìm kiếm**: Hiểu được sự tự nguyện từ chối của các tập đoàn ở Trung Quốc: biến một lỗi tự gây ra thành một dự án về sức khỏe: một người xuất khẩu xe hơi/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
+- **Gợi ý hình ảnh**: Một nhân viên tài chính đang chuẩn bị một báo cáo bí mật viết tự nguyện với một tập tin kiểm tra hải quan mở
+- **Văn bản ALT**: Tay chuẩn bị một lá thư tự nguyện tiết lộ bên cạnh một tập tài liệu kiểm toán mở rộng của hải quan
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Có một sự khác biệt có ý nghĩa, trong thực thi hải quan Trung Quốc, giữa một lỗi lầm mà chính nhà cầm quyền tìm thấy trong một cuộc kiểm toán và một sai lầm một doanh nghiệp tìm thấy và bản thân báo cáo. Cơ chế tự nguyện tiết lộ (主动披露) được xây dựng chung quanh sự khác biệt đó: một doanh nghiệp khám phá ra nó không lương hoặc vi phạm một điều kiện của phong tục qua việc kiểm tra nội bộ của nó có thể gửi một báo cáo và chấp nhận xử lý, và — nơi mà các điều kiện về phương pháp điều trị theo luật được đáp ứng — sẽ được điều trị dễ dàng hơn nếu các phong tục phát hiện vấn đề đó. Hướng dẫn này đặt ra cơ sở pháp lý, cửa sổ thời gian hạn chế hiện tại, cách cơ chế thực sự hoạt động, và giới hạn quyết định xem một trường hợp nhất định có đủ tiêu chuẩn hay không.
 

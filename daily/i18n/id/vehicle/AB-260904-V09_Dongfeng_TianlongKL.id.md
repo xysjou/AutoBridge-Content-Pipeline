@@ -1,15 +1,17 @@
 # Dongfeng Tianlong KL (天龙 KL) Heavy Tractor: Mesin, Gearbox, Axle dan GCW untuk Ekspor
 
-## SEO Metadata
-- ** Judul SEO **: Dongfeng Tianlong KL Tractor Spectors & Ekspor Panduan (DDi11 465, GCW 40t)
-- ** Meta Description **: Cina - pasar Dongfeng Tianlong KL 6x4 traktor head - Longqing DDi11 10.8 L diesel 343 kW 2240 N·m, 14-speed (pilihan AMT), 40 t GCGW, ditambah daya-rating dan variant cek eksportir perlu.
-- ** Sugested URL **: kendaraan dongfeng-tianlong- kl
-- ** H1 **: Dongfeng Tianlong KL Heavy Tractor Head: Cine- Market Powertrain dan Chassis Specs
-- ** Primary Keyword **: dongfeng tianlong kl spesifikasi ekspor
-- ** Akhir Pencarian Second **: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, kepala traktor Cina 6x4, 40t GCW ekspor truk
-- ** Internal Link Sugestions **: guide moolcle-exports -hs- codefication guide emision- fueld- compatibilizy- kendaraan kendaraan jmc-shunda
-- ** Sugestions Gambar **: KL traktor kepala 6x4; DDi11 mesin; 14-speed shifter AMT; interior taksi; frame chassis dan roda kelima
-- ** ALT Saran: "Dongfeng Tianlong KL 465 kepala traktor berat"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+## Metadata SEO
+- **Judul SEO**: Dongfeng Tianlong KL Tractor Specs & Expor Guide (DDi11 465, GCW 40t)
+- **Deskripsi Meta**: Cina - pasar Dongfeng Tianlong KL 6x4 traktor kepala - Longqing DDi11 10.8 L diesel 343 kW / 2240 N·m, 14-speed (AMT pilihan), 40 t GCW, plus power-rating  and  pemeriksaan variant exporters perlu.
+- **H1**: Dongfeng Tianlong KL Heavy Tractor Head: Chinice-Market Powertrain dan Chassis Specs
+- **Kata kunci utama**: ekspor spesifikasi traktor dongfeng tianlong kl
+- **Istilah pencarian sekunder**: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, kepala traktor Cina 6x4, 40t GCW ekspor truk
+- **URL yang disarankan**: /vehicles/dongfeng-tianlong-kl/
+- **Maksud pencarian**: Mengerti Dongfeng Tianlong KL Traktor Lebatpart-type Head: Cinese- Market Powertrain dan Chassis Specs: apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **Saran gambar**: KL traktor kepala 6x4
+- **Teks ALT**: Dongfeng Tianlong KL 465 kepala traktor berat
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Kepala Traktor Dispesifikasikan oleh Powertrain Chain dan Kereta Berat
 Pembeli truk tidak menjual daftar peralatan - mereka menentukan sebuah ** gearbox- gearbox- rantai axle cocok dengan berat kombinasi kotor **. Tianlong KL adalah Cina Dongfeng - 6 berat semi - traktor. Kesalahan berulang pada model ini membingungkan daya dengan angka ** bersih,  or blending the 465 PS tractor with the 430/520/560 PS  and  Gas varians. Halaman ini mendokumentasikan traktor ** Cinese- pasar DDi11E465-60 (REFERENCE MARKET: CHINA) *; tidak ada brosur utama OEM ditangkap, sehingga nilai perdagangan yang dicentang harus dikonfirmasi terhadap pengumuman MIIT.

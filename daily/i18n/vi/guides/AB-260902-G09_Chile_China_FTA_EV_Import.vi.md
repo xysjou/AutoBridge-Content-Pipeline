@@ -1,14 +1,17 @@
 # Nhập các xe cộ Trung Quốc vào Chile: FTA Tham khảo, IVA và bước đồng nhất 3CV
-## SAO Siêu dữ liệu
-- **SEAO title**: Nhập EVs Trung Quốc vào Chile: FTA Tham khảo, IVA & 3CV Hướng dẫn
-- **Meta Mô tả**: Cách China–Chale FTA có hiệu quả với xe cộ của Trung Quốc, Hải quan Chile 6% nhiệm vụ chung và 19% IVA chính thức xác nhận, tại sao một chứng chỉ gốc lại là điều kiện, và 3CV người đồng tính luyến ái phù hợp như thế nào.
-- ** URL đã gợi ý**: /guides/import-chinese-ev-chile-fta/
-- ** H1 **: Xe cộ Trung Quốc vào Chile: dùng các tham khảo FTA mà không tính sai phí
-- ** Từ khoá bí mật **: Trẻ Xe nhập khẩu FTA
-- **Secondary Search termss**: Chile aduana 6% arancel, Chile IVA 19% nhập khẩu, Chile FTA, Chile 3CV, Certeifado origen TLC Chile, EV nhập khẩu
-- **I nội bộ Link gợi ý: /guides/marine-crin-car-curance-car-port/; /vehicles/byd-yan-plus/.
-- **Image gợi ý**: Chile-stack thác nước; FTA chứng nhận-of-origin; 3CV bước đồng nhất
-- **LT gợi ý**: "Bộ nhập khẩu hàng loạt: nhiệm vụ so với IVA; "FTA chứng nhận yêu cầu nguồn gốc," "Lấp lộ 3CV quá trình đồng nhất"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Nhập EVs Trung Quốc vào Chile: FTA tham khảo, IVA & 3CV Hướng dẫn
+- **Meta mô tả**: Làm thế nào mà sự ưu tiên của Trung Quốc FTA xe cộ được chế tạo bởi Trung Quốc, Hải quan Chi-lê 6% nhiệm vụ chung và 19% IVA được xác nhận chính thức, tại sao một chứng chỉ gốc lại là điều kiện, và 3CV người đồng tính luyến ái lại khớp như thế nào.
+- **H1**: Xe cộ Trung Quốc Vào thư mục: Dùng FTA tham khảo mà không tính sai phí
+- **Từ khóa chính**: Chile China  FTA  vehicle import duty  IVA  homologation
+- **Cụm tìm kiếm phụ**: _Aduana 6% arancel, Chi-lê IVA 19% nhập khẩu,  China Chile  FTA  certificate of origin, Thư điện tử 3CV người đồng tính, certificado origen TLC Trung Quốc Chile, _ EV nhập khẩu
+- **URL đề xuất**: /guides/import-chinese-ev-chile-fta/
+- **Ý định tìm kiếm**: Hiểu được các xe cộ Trung Quốc vào Chile: Dùng FTA tham khảo mà không cần tính sai Chi phí đất: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **Gợi ý hình ảnh**: thác nước thuế _Avac
+- **Văn bản ALT**: Chi phí nhập địa chỉ Mạng: _ Trách nhiệm so với IVA
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Cơ hội và việc khắc phục sự sai lầm
 Chile thực hiện các thỏa thuận miễn phí với các đối tác lớn, ** bao gồm cả Trung Quốc**. Một phương tiện truyền thông Trung Quốc có thể sử dụng tùy thích FTA (ad-valoem ** rect 0% **, trong khi nhiệm vụ của Chile là 6% của hải quan CF có giá trị** cho nguồn tham chiếu không phải là phụ thuộc lẫn nhau — giờ cả hai đều được đặt vào nguồn chính thức (blow). Lỗi thường xuyên của người mua là "FTA 0%" với chi phí " 0% nhập khẩu." Không phải. ** 19% IVA vẫn còn áp dụng, 0% phụ thuộc vào nguồn gốc chứng minh, và sự đồng nhất là một dòng tác riêng biệt.** Hướng dẫn này đặc biệt dành cho **Cile**.
 ## Xếp thuế, xếp hàng (chính thức bị cấm)
@@ -53,18 +56,18 @@ Có phải nhiệm vụ của họ là 0% cho một chiếc xe Trung Quốc ở 
 ** 3CV là bao nhiêu và nó phải trả giá bao nhiêu? Quá trình đồng hóa phương tiện của Chile; nó phải được trích dẫn bởi hệ thống phân loại xe và số tiền đăng ký và phí thời gian của nó - bài báo này không xác nhận một số cố định.
 Có phải đơn vị ATAC bị cắt giảm trong lực lượng? Không, đây là đề xuất của 2026 hiệp hội, không phải luật ban hành; kiểm tra lại chuyến hàng.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf

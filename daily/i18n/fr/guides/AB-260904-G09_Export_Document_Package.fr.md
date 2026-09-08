@@ -1,15 +1,29 @@
 # Le dossier d'exportation de véhicule: norme de certificat actuelle par rapport à la norme obligatoire toujours en cours d'ébauche
+## Métadonnées SEO
+- **Titre SEO**: Guide sur les documents d'exportation de véhicules en Chine — GB/T 21085-2020 Norme actuelle
+- **Description meta**: Construisez le document d'exportation défini autour du certificat d'usine GB/T 21085-2020, la distinguer de la norme obligatoire 20260041-Q-339 encore en cours d'élaboration,  and  traiter les articles NEV / traduction comme des recommandations.
+- **H1**: Assembler un ensemble de documents d'exportation de véhicule chinois — Ce qui est actuel, Ce qui est encore un projet, Ce que nous recommandons
+- **Mot-clé principal**: document d'exportation de véhicule emballage certificat d'usine GB/T21085
+- **Termes de recherche secondaires**: 机动车出厂合格证, GB/T21085-2020 à jour, 20260041-Q-339 projet, certificat d'exportation de conformité, NEV documents d'exportation UN38.3
+- **URL suggérée**: /guides/export-vehicle-document-package
+- **Intention de recherche**: Comprendre l'assemblage d'un ensemble de documents d'exportation de véhicule chinois — Ce qui est actuel, Ce qui est encore un projet, Ce que nous recommandons: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Suggestion d'image**: présentation du document
+- **Texte ALT**: Certificat GB / T21085-2020 actuel par rapport à l'ébauche obligatoire 20260041-Q-339
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Référencement au titre**: Guide de l'emballage des documents d'exportation de véhicules de la Chine — GB/T 21085-2020 Norme actuelle
-- **Description détaillée**: Construisez le document d'exportation qui se trouve autour du certificat d'usine GB/T 21085-2020, faites la distinction entre le document d'exportation actuel et la norme obligatoire 20260041-Q-339 en cours d'élaboration et traitez les articles de VAN/traduction comme des recommandations.
-- **URL suggérée**: /guides/export-véhicule-document-package
-- ** H1 **: Monter un ensemble de documents d'exportation de véhicules chinois — Ce qui est actuel, Ce qui est encore un projet, Ce que nous recommandons
-- **Mot-clé principal**: certificat d'usine d'emballage de document d'exportation de véhicule GB/ T21085
-- ** Termes de recherche secondaires**: 机动车出厂合格证, GB/ T21085-2020 à jour, 20260041-Q-339 ébauche, certificat d'exportation de conformité, documents d'exportation de VNE UN38.3
-- **Suggestions de lien interne**: /guides/vin-nameplate-vérification-véhicules-chinois/; /guides/ev-shipping-un3556-imdg-compliance/; /guides/china-export-certificat-d'origine/
-- **Suggestions d'image**: mise en page du paquet de documents; calendrier standard actuel-vs-projet; division des fichiers nationaux et des fichiers d'exportation
-- ** Suggestions d'ALT**: "Crédit actuel GB/ T21085-2020 par rapport à un projet obligatoire de 20260041-Q-339"
+Métadonnées SEO
+- **Titre SEO**: Guide de l'emballage des documents d'exportation de véhicules de la Chine — GB/T 21085-2020 Norme actuelle
+- **Description meta**: Construisez le document d'exportation qui se trouve autour du certificat d'usine GB/T 21085-2020, faites la distinction entre le document d'exportation actuel et la norme obligatoire 20260041-Q-339 en cours d'élaboration et traitez les articles de VAN/traduction comme des recommandations.
+- **H1**: Assembler un ensemble de documents d'exportation de véhicule chinois — Ce qui est actuel, Ce qui est encore un projet, Ce que nous recommandons
+- **Mot-clé principal**: document d'exportation de véhicule emballage certificat d'usine GB/ T21085
+- **Termes de recherche secondaires**: 机动车出厂合格证, GB/ T21085-2020 courant, 20260041-Q-339 projet, certificat d'exportation de conformité, documents d'exportation de VAN UN38.3
+- **URL suggérée**: /guides/export-vehicle-document-package
+- **Intention de recherche**: Comprendre l'assemblage du paquet de documents d'exportation d'un véhicule chinois — ce qui est actuel, ce qui est encore un projet, ce que nous recommandons: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Suggestion d'image**: la mise en page du groupe de documents; le calendrier standard actuel-vs-ébauche; le partage des fichiers nationaux et des fichiers d'exportation
+- **Texte ALT**: Certificat GB/ T21085-2020 actuel par rapport à l'ébauche obligatoire 20260041-Q-339
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Le piège: traiter un projet de norme comme étant actuel
 Les guides de documentation citent souvent une norme de certificat obligatoire comme s'il était déjà en vigueur. Cela crée des attentes de paperasserie aucune règle actuelle ne soutient. Cette page dessine une ligne rigide: la norme **current** pour le certificat d'usine de véhicules automobiles est **GB/T 21085-2020 **; un remplacement obligatoire (plan ** 20260041-Q-339 **) est **en cours d'élaboration et ne sera ni publié ni en vigueur**, et ne doit pas être présenté comme une exigence actuelle.

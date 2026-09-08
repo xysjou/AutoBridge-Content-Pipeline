@@ -1,16 +1,16 @@
 # Import von Fahrzeugen nach Tansania: Der TRA Customs Track und der TBS PVoC/CoC Track
-## SEO Metadaten
-- **SEO Titel**: Tansania Fahrzeugimport: TRA Zoll und TBS PVoC / CoC erklärt | AutoBridge
-- **Meta Description**: Wie sich der Fahrzeugimport nach Tansania aufteilt zwischen der TRA-Verzollung nach EACCMA/TANCIS und der TBS-Vorversand-PVoC-Konformität (mit einer speziellen Gebrauchtfahrzeugkategorie) und was für Alter und Zoll überprüft werden muss.
-- ** H1 **: Import von Fahrzeugen nach Tansania: Der TRA Customs Track und der TBS PVoC/CoC Track
-- ** Primäres Keyword**: tansania Fahrzeugimport tra tbs pvoc Alter
-- **Secondary Search Terms**: TBS PVoC gebrauchte Kraftfahrzeuge; Tanzania CoC Pre-Shipping; TRA TANCIS Import; EACCMA 2004 Fahrzeugimport; Tansania Gebrauchtwagen Altersgrenze; CCIC PVoC China
-- **Vorgeschlagene URL**: /guides/tansania-vehicle-import-tra-tbs-pvoc-age/
-- **Search Intent**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责、PVoC/CoC机制与二手车专门类别，以及车龄/税率需向谁核验
-- **Interne Linkvorschläge**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-incoterms-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+## SEO-Metadaten
+- **SEO-Titel**: Tansania Fahrzeugimport: TRA Zoll und TBS PVoC / CoC erklärt | AutoBridge
+- **Meta-Beschreibung**: Wie sich der Fahrzeugimport nach Tansania zwischen TRA Zollabfertigungen unter EACCMA/TANCIS und TBS PVoC-Konformität vor dem Versand (mit einer speziellen Gebrauchtfahrzeugkategorie) aufteilt und was für Alter und Zoll überprüft werden muss.
+- **H1**: Import von Fahrzeugen nach Tansania: Der TRA Customs Track und der TBS PVoC/CoC Track
+- **Haupt-Keyword**: Tansania Fahrzeug Import tra tbs Pvoc Alter
+- **Sekundäre Suchbegriffe**: TBS PVoC gebrauchte Kraftfahrzeuge; Tansania CoC Vorversand; TRA TANCIS Import; EACCMA 2004 Fahrzeugimport; Tansania Gebrauchtwagen Altersgrenze; CCIC PVoC China
+- **Vorgeschlagene URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **Suchabsicht**: Verstehen Sie den Import von Fahrzeugen nach Tansania: Der TRA Customs Track und der TBS PVoC/CoC Track: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
 - **Bildvorschlag**: Ein Gebrauchtfahrzeug, das auf einer Ausfuhrstätte überprüft wird, während ein Konformitätsdokument erstellt wird
-- **ALT Vorschlag**: Fahrzeug vor dem Versand neben einer Konformitätsbescheinigung an einer Zwischenablage
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **ALT-Text**: Fahrzeug vor dem Versand neben einer Konformitätsbescheinigung auf einer Zwischenablage
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Tansania ist ein Binnenmarkt mit einem bewusst zweigleisigen Importsystem, und ein Fahrzeugexporteur, der es als einen Prozess behandelt, verliert Zeit im Hafen. Ein Track gehört zur **Tansania Revenue Authority (TRA)** - Zollerklärung, Zollbeurteilung und Zollabfertigung nach dem East African Community Customs Management Act. Der andere gehört zum **Tansania Bureau of Standards (TBS)** - Konformitätsbewertung vor dem Versand, die entscheidet, ob eine regulierte Sendung, einschließlich gebrauchter Kraftfahrzeuge, überhaupt zugelassen ist. Dieser Leitfaden ist spezifisch für Tansania (es ist keine ostafrikaweite Erklärung) und basiert auf den aktuellen TBS- und TRA-Primärseiten. Es erklärt beide Spuren autoritativ und, wo die offiziellen Primärdokumente für Gebrauchtwagenalter und Fahrzeugsteuersätze bei der Überprüfung nicht abrufbar waren, gibt es diese als Elemente an, um Zahlen zu überprüfen, anstatt sie zu erfinden.
 

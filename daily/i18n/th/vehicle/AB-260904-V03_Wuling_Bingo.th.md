@@ -1,15 +1,17 @@
 # นก นาง นวล (缤果): นก แฮต เซิล จีน ขนาด เล็ก — ตัว ยง และ ตัว ส่ง ออก
 
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- ""คําอธิบาย" ร้านขายจีน-ไวกิ้ง บิงโก ขนาดเล็ก แบตเตอรี่แอลเอฟพี  203/333/410 km CLTC steps,  30/50 kW motors, ชาร์จเร็วดีดีซี ขนาด  and  สิ่งที่นําเข้าจะต้องตรวจสอบการตัดแต่ง
-- ~ที่อยู่ URL ที่ถูกย่อ: wuling-bubto/
-- ** H1 ~: วูลิงบิง: จีน-มาร์เก็ต มินิเอวีสเปก และส่งออกการรับรอง
-- ~ คําสําคัญต่าง ๆ ~: wuling plack sports placking plack
-- ~การค้นหาโดยย่อ ~: Wooling Sublie 203km, Wooling Sublies 333km, Wooling Dangle 410km, ส่งออก ขนาดเล็ก EV, 五菱缤果 สเปก
-- ** เชื่อมโยงภายใน **. guides/vive-sing- un3556-imdg-compliance/; guides/ViPort-pdi-pril-pandover//////// visicles/by-kind-l-dm-i/
-- ข้อเสนอแนะ: ห้าประตู ด้านของบิงโก 203 vs 333/410 ตรา; พ.ศ. สัมภาระด้านหลังมีที่นั่งพับ พอร์ตชาร์จ กระท่อมสี่ชิ้น
-- "WallTASTSTEST September". "Wolling Ding Toky Plack China Speck". "Wuling TLTC. สืบค้นเมื่อ 203 333 410 km".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **คำอธิบาย Meta**: Schine-Marketwing Dang ขนาดเล็ก BEV — LFP แบตเตอรี่,  203/333/410 km  CLTC  steps,  30/50 kW motors, DC ชาร์จเร็ว ขนาด  and  สิ่งที่นําเข้าจะต้องตรวจสอบการตัดแต่ง
+- **H1**: Wooling ding Ding: Chish-market Smislt EV Spects and eptember rescordation
+- **คีย์เวิร์ดหลัก**: การส่งออกค่า pknkpkpkpkpk
+- **คำค้นหารอง**: Wooling Dublug 203km, Wooling Subtitle 333km, Wooling Dangle 410km, ส่งออกเล็ก EV, 五菱缤果 Specs
+- **URL ที่แนะนำ**: /vehicles/wuling-bingo/
+- **เจตนาการค้นหา**: เข้าใจการวาด Wooling din: ภาษาจีน-Maget Smilt EV Spects และส่งออก ใบรับรอง: สิ่งที่นักส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะดําเนินการ
+- **คำแนะนำลิงก์ภายใน**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **คำแนะนำรูปภาพ**: ห้าประตู ด้านการวาด
+- **ข้อความ ALT**: นก นางแอ่น เห่า ตัวเล็ก ๆ ฟักไข่ จีน
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: ซิตี้ บีวี ยอดขายในสามระยะ
 บิงโกเป็นประตูเล็กเล็ก ๆ ของวูลิง มุ่งไปที่เมือง  and  การใช้งานส่วนตัวแบบอ่อน สําหรับผู้ส่งออก ตัวแปรที่เด็ดเดี่ยวก็คือ ก้าวที่ห่างไป เพราะแรงมอเตอร์ แบตเตอรี่ และความเร็วสูงสุด ทุกอย่างเปลี่ยนไป แผ่นนี้ครอบคลุม ~จีน-ตลาด 2024 บรรทัด (REFEREST Market: หอบ) ~ ถ้าไม่มีหน้าโออีเอ็มต่างประเทศ ตัวเลขจีนเป็นหนังสืออ้างอิง ไม่ใช่ข้อกําหนดระดับโลก
@@ -52,7 +54,7 @@
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 **How many range versions are there?** Three documented CLTC steps — 203, 333  and  410 km — ด้วยมอเตอร์ที่แตกต่างกัน  and  แบตเตอรี่กําหนด
 ทุกที่เลยไหม 50 kW # ไม่  203 km รถคันเข้าใช้มอเตอร์ 30 kW คัน ในขณะที่ 333/410 รุ่นใช้ 50 kW.
-**How many seats?** The documented entry layout is four seats (2+2); confirm whether the chosen version seats five.
+~มีที่นั่งกี่ที่นั่ง ~ ผังรายการที่บันทึกไว้คือ 4 ที่นั่ง (2+2); ยืนยันว่าที่นั่งรุ่นที่ 5 ถูกเลือกหรือไม่
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, ตามข่าวที่กล่าวมา ต้องตรวจสอบชนิดของการเชื่อมต่อในต่างประเทศ
 
 ## บันทึกรูปภาพ
@@ -68,16 +70,16 @@
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Wuling Bingo, battery-electric vehicle
-  - **FR**: Référence AutoBridge pour acheteurs export — Wuling Bingo, véhicule 100 % électrique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Bingo, batterieelektrisches Fahrzeug
-  - **ES**: Referencia AutoBridge para compradores de exportación — Wuling Bingo, vehículo 100 % eléctrico
+- ~~~: อ้างอิงการส่งออกของ AutoBridge- Buyer — Wooling Dink, ยานพาหนะพลังงานแบตเตอรี่
+- ~FR~: Réfénc AutoBridge ส่งออก acheterers — Wooling Dink, vehigule 100% etterrique
+- - - - - - - - - AutoBridge-Referenz fur Excufer — Wooling Dob, Cruyelkrischess ฟรุซ
+- ~! ~: เร เฟ รน เซีย ออ โต ริดจ์ พา ไพ รัส ตอร์ รา โดเรส เด เอ สกา ร์ ซี ยง — วูลิง บิงโก, วี เฮ คูลู 100% เอ เลก ทริก โก
   - **PT**: Referência AutoBridge para compradores de exportação — Wuling Bingo, veículo 100 % elétrico
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Wuling Bingo, 純電気自動車
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Wuling Bingo, 순수 전기차
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Wuling Bingo, xe thuần điện
+- ~วูฟ~: Tai liju Thomkhoo Auto Bridge jo ng i i gua xuhhu — Wooling Dang, xe Tujin đn đn
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Wuling Bingo, รถยนต์ไฟฟ้า 100%
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Wuling Bingo, kendaraan listrik murni
+- ~-~~: เรฟินี ออโตไบร์ด อุมเบลี เอคสปอร์ — วูลิง บิงโก, เคนเดราอัน ลิสต์ พิก เม อร์นี
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
@@ -91,7 +93,7 @@
 | ปรับแต่งการเติมเสียงแบบเต็มสาย Swling Sdugust 2025 | ปรับแต่ง PCauto | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | ROOS_ CHCKED | สูง ช่วง |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 

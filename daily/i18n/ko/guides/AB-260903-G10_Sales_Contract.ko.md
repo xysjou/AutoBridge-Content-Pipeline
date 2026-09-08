@@ -1,14 +1,16 @@
 # 차량 수출 판매 계약: 실제로 통제 지불, 납품 및 분쟁한 것의 찰상
-## ▼ 한국어 메타데이터
-- **SEO Title**: 차량 수출 판매 계약 조항 & 위험 가이드
-- **마타 기술 **: 차량 수출 판매 계약은 포함해야 합니다 — PRC 민법 예술 596 필수, Incoterms 위험 이동, 제목의 유지, breach/claim 창, 분쟁 해결 및 Apostille, 플러스 차량 상태 공개.
-- **Suggested URL**: /guides/vehicle-export-sales-contract-clauses/
-- ** H1 **: 차량 수출 판매 계약에 있는 중요한 찰흙: 지불, 제목, 위험 및 분쟁
-- ** 출원 키워드 **: 차량 수출 판매 계약 키 항목 위험 제목
-- **세컨드리뷰 약관**: 제목 수출 계약의 유지, Incoterms 위험 이동 차량, 수출 계약 위반, ICC 중재 차량 거래, Apostille 해외 문서, 차량 상태 공개
-- ** 내부 링크 제안**: /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/; /guides/vehicle-pre-shipment-inspection-psi/
-- ** 이미지 제안 **: 항목에 -risk 지도; 이동 시간; 지불 vs 납품 이정표 도표
-- **ALT 제안**: "export 계약 위험 및 제목 전송 타임 라인"; "차량 판매 계약 키 항목"
+## SEO 메타데이터
+- **SEO 제목**: 차량 수출 판매 계약 조항 & 위험 가이드
+- **메타 설명**: 차량 수출 판매 계약은 포함해야 — PRC 민법 아트 596 에센셜, 인코텀즈 위험 이동, 제목 유지, breach/claim 창, 분쟁 해결 및 Apostille, 플러스 차량 상태 공개.
+- **H1**: 차량 수출 판매 계약에 중요한 조항: 지불, 제목, 위험 및 분쟁
+- **주요 키워드**: 차량 수출 판매 계약 키 항목 위험 제목
+- **보조 검색어**: 제목 수출 계약의 유지, Incoterms 위험 이동 차량, 수출 계약 위반, ICC 중재 자동차 무역, Apostille 해외 문서, 차량 상태 공개
+- **추천 URL**: /guides/vehicle-export-sales-contract-clauses/
+- **검색 의도**: 차량 수출 판매 계약에 대한 주요 주장: 지불, 제목, 위험 및 분쟁: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정.
+- **내부 링크 제안**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **이미지 제안**: 제이콥 맵
+- **ALT 텍스트**: 수출 계약 위험 및 제목 전송 타임 라인
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 누구에게나
 첫 번째 시간 차량 수출은 종종 가격과 수량에 대한 거래를 표시하고, 그 다음 계약이 고정되지 않습니다 ** 위험이 패스를 발견, 전체 지불 전에 제목을 보유하거나 분쟁이 들어있는 경우**. 이 가이드는 그 결과를 통제하는 절을 맵니다. PRC 민법 예술 596은 CROSS_에서 캡을 하는 ** 두 번째 법률 포털 (FindLaw 등)을 통해 여기에 설명됩니다. CHECKED/SINGLE_SOURCE**; VERIFIED는 NPC/government 소스의 공식 민법 텍스트가 필요합니다. 나머지는 법적 전술 종합입니다. ** 템플릿은 법적 조언이 아닙니다. - 선택한 준거법에 따라 수행 된 계약에 대한 자격을 갖춘 변호사가 있습니다. 의 모든 것
@@ -52,22 +54,22 @@
 **차 판매 계약은 중국 법에 따라 포함해야 합니까?** PRC 소개 민법 예술 596 목록 이름, 양, 질, 가격, 성과 시간/장소/메들, 포장, 검사 결산 및 언어 효과 — 매 차량 거래에 지도.
 **구매자가 위험할 때?** 동의한 Incoterms 기간 (국가 버전 및 장소); 계약 없이, 일반적으로 구매자 또는 그것의 명명한 운반대에 납품.
 **완전 결제할 때까지 소유권을 유지할 수 있습니까?** 예, 보존의 권리, 주지 종료 법에 따라 인정을 받음.
-**How should late payment be handled?** A per-day liquidated-damages rate plus a maximum overdue period that allows termination.
+**환불은 어떻게 처리되어야 합니까?** 1일 액화 손상률과 최대 과다한 기간으로 종료를 할 수 있습니다.
 **국내 문서가 법적인 필요?** Apostille (Hague) 또는 헌법법은 요구됩니다. 계약의 상태 책임과 대상 상태를 확인합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,7 +87,7 @@
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | PRC 소개 민법 예술 596 판매 계약 기간 | FindLaw (사설 포털) | 담당자: Mr. wang | https://www.findlaw.cn/wenda/q_60484893.html 대한 자세한 정보 | 2026-09-03 | CROSS_체크 (차단 법률 포털을 통해 인용 된 기사; 공식 NPC 소스) | 필수 계약 내용 |
-| 수출 차량 판매 계약 모형 (risk/title 보유) | 법률 | - 연혁 | https: | 2026-09-03 | CROSS_체크 | 위험 이동; 제목의 보유; 상태 공개 | https://m.110ask.com/fanben/601005122281423969.html 110ask
+| 수출입업체 > 대리점 | 2026-09-03 | CROSS_체크 | 위험 이동; 제품 소개 공개 | https://m.110ask.com/fanben/601005122281423969.html 110asks, 영국
 | 구매 계약 핵심 항목 (breach/title/config list) | 66Law | 담당자: Mr. wang | https: | 2026-09-03 | CROSS_체크 | LD, 클레임 창, 구성 annex | https://m.66law.cn/question/56427049.aspx
 | 수출계약 Incoterms/disputes/아포릴 | 화물 운송업자 물자 | - 연혁 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | Incoterms 판결, ICC 중재, Apostille | https://m.11467.com/product/d43019461.htm
 *Scope 참고: 아트 596 콘텐츠는 CROSS_ 이차 법률 포털을 통해 확인 - VERIFIED는 공식 PRC 민법 (NPC 정부) 텍스트를 필요로하지 않은 캡처; 그것을 VERIFIED 레이블하지 마십시오. 제목 예약의 시행, 중재 및 Apostille은 선택한 준거법 및 목적지에 따라 달라지고 자격이 된 상담에 의해 확인해야합니다. 계약 모델은 구조적 참조 만입니다. ****************************************************************************************************************************************************************************************************************************************************************

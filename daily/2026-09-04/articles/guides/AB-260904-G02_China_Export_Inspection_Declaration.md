@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: China Vehicle Export Statutory Inspection & Declaration Guide (HS-by-HS)
 - **Meta Description**: There is no blanket yes/no — determine the exact 10-digit HS code, check the current statutory-inspection catalogue and that code's customs supervision condition, and separate statutory inspection from buyer PSI and the BEV export licence.
-- **Suggested URL**: /guides/china-export-statutory-inspection-declaration
 - **H1**: Statutory Inspection and Customs Declaration for an Exported Vehicle: Decide It by 10-Digit HS, Not by Generalisation
 - **Primary Keyword**: china export statutory inspection customs declaration vehicles
 - **Secondary Search Terms**: 法定检验 出口 目录, GACC order 277 declaration, export commodity inspection catalogue, BEV export licence 2026, PSI vs statutory inspection
+- **Suggested URL**: /guides/china-export-statutory-inspection-declaration
+- **Search Intent**: Understand Statutory Inspection and Customs Declaration for an Exported Vehicle: Decide It by 10-Digit HS, Not by Generalisation: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-certificate-of-origin/
-- **Image Suggestions**: HS→catalogue→supervision-condition decision flow; statutory vs PSI vs export-licence three-track diagram; customs seal
-- **ALT Suggestions**: "China export statutory inspection decided by 10-digit HS and current catalogue"
+- **Image Suggestion**: HS→catalogue→supervision-condition decision flow; statutory vs PSI vs export-licence three-track diagram; customs seal
+- **ALT Suggestion**: China export statutory inspection decided by 10-digit HS and current catalogue
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Question Has No Single Yes/No Answer
 "Do Chinese vehicles need statutory inspection before export?" A blanket "all cars must" or "no cars need it" is the wrong answer. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, read against the **current *Catalogue of Import and Export Commodities Subject to Statutory Inspection*** and that code's **customs supervision condition / inspection-and-quarantine category**. This page sets out the China export-side framework and the decision method; it does not assert a catalogue outcome for a code it has not checked live. The result is therefore **conditional evidence**: the legal framework is verified, but each vehicle's catalogue status must be confirmed per code at declaration time.

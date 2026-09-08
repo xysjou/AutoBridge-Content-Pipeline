@@ -1,16 +1,16 @@
 # PASM - 15 Wood Packaging for Vehicle Export: Treatment and the IPC Mark
-## SEO Metadata
-- ** Judul SEO **: asm- 15 Wood Packaging dalam Expor Kendaraan: Treatment & Mark Guide
-- ** Meta Description **: Bagaimana peti kayu, palet, dan Dunnage digunakan untuk mengekspor kendaraan dan suku cadang harus diobati dan ditandai di bawah pengawasan -- 15 untuk menghindari penolakan, dan bagaimana pendaftaran keluar Cina-sisi bekerja.
-- ** H1 **: SLM - 15 Wood Packaging for Vehicle Export: Treatment and the IPC Mark
-- ** Kata Kunci Primer **: ISPM 15 pengangkatan kayu untuk melakukan pembuktian ekspor
-- ** Akhir Pencarian Second **: ISPM 15 mark; IPC kayu kemasan; panas yang diobati ekspor pallet; paket kayu fumigasi MB; pengurusan pengurusan kayu Cina pengurusan pajak
-- **Suggested URL**: /guides/ippc-ispm15-wood-packaging-export/
--  Search Intent  车辆出口所用木箱 木托盘 垫木如何按 IPC num- 15 完成除害处理并加施标识 避免目的国退运
-- **Internal Link Suggestions**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
-- ** * IPC Sugestables **: Sebuah peti ekspor yang telah diobati dengan IPC Despm- 15 mark, memegang sebuah kenderaan knocked-down
-- ** AlT Sugesti **: Ekspor peti kayu menunjukkan tanda perawatan IPC di samping komponen kendaraan yang dikemas
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadata SEO
+- **Judul SEO**: ISPM-15 Wood Packaging dalam Expor Kendaraan: Treatment & Mark Guide
+- **Deskripsi Meta**: Bagaimana peti kayu, palet, dan tempat pembuangan digunakan untuk mengekspor kendaraan dan suku cadang harus diobati dan ditandai di bawah ISPM-15 untuk menghindari penolakan, dan bagaimana pendaftaran keluar Cina-sisi bekerja.
+- **H1**: ISPM-15 Wood Packaging untuk Expor Kendaraan: Treatment dan IPPC Mark
+- **Kata kunci utama**: ISPM 15 kayu pengepakan tanda pengangkatan ekspor
+- **Istilah pencarian sekunder**: ISPM 15 menandai; IPPC kayu kemasan; panas yang diobati ekspor pallet; MB fumigasi paket kayu; kayu kemasan registrasi Cina pabean
+- **URL yang disarankan**: /guides/ippc-ispm15-wood-packaging-export/
+- **Maksud pencarian**: Mengerti ISPM-15 Wood Packaging untuk Expor Kendaraan: Perawatan dan IPPC Mark: apa yang diekspor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
+- **Saran gambar**: Sebuah peti ekspor yang telah diobati dengan IPPC ISPM - 15 tanda, memegang bagian kenderaan jatuh
+- **Teks ALT**: Ekspor peti kayu dengan tanda IPPC di samping komponen kendaraan yang dikemas
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Selesai kendaraan dikirim oleh RoRo mungkin membawa kayu kecil, tapi knowed -down unit, suku cadang, KSD SKD kit dan kendaraan diperkaya mengandalkan peti, palet, chocks dan dunnage - dan hampir setiap negara mengatur bahwa kayu di bawah IPPC 's IPC - 15. Hilang atau tidak sah adalah salah satu penyebab yang paling dapat dihindari dari ekspor ulang, fumigation-on-kedatangan atau penundaan. Halaman ini menjelaskan apa yang diperlukan oleh SIM- 15, bagaimana tanda itu dibuat, dan bagaimana perawatan sisi Cina dan pendaftaran keluar bekerja.
 

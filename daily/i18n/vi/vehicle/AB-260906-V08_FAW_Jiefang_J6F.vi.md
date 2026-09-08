@@ -1,16 +1,16 @@
 # FAW Jiefang J6F: China-Market Blue-Plate Light garture purive
-## SAO Siêu dữ liệu
-- **SEAO Titry**: FAW Jiefang J6F Light ireage Spy: cles: động cơ, Chassis, Payload Guide
-- **Meta Mô tả**: Tham khảo thị trường Trung Quốc cho chiếc xe tải nhẹ màu xanh dương chạy trên chiếc xe tải FAW Jiefang J6F: N2 loại, tùy chọn dầu diesel Phục vụ, cơ thể khung gầm/caro, và tài liệu về xuất khẩu người mua phải được nhập khẩu.
-- ** H1 **: FAW Jiefang J6F: China-Market Blue-Plate Light igage Evition
-- **Cumpary Keyword**: FAW Jiefang J6F đèn xe tải xuất khẩu thông số
-- **Secondary Search Wordss**: Jiefang J6F xe tải nhẹ J6F đĩa xanh N2; CA4DB1 diesel 130; FAW taxi qua xuất khẩu xe tải nhẹ; xe tải chở hàng của Trung Quốc
-- **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍 J6F 中国市场版本身份  底盘 动力 货箱与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- **Image pretry**: A white FAW Jiefang J6F cab-over light cargo truck with a box body in a yard
-- **LT gợi ý**: Cab-over FAW Jiefang J6F xe tải nhẹ với một cái thùng đựng hàng đậu trong một sân hậu cần
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: FAW Jiefang J6F Xe tải ánh sáng Xuất Tinh: Máy, Chassis, Biểu đồ định vị trả tiền
+- **Meta mô tả**: Tham khảo thị trường Trung Quốc cho FAW Jiefang J6F xe tải nhẹ màu xanh dương trên xe tải: N2 loại, tùy chọn dầu diesel Phụcz, cơ thể khung gầm/cagon, và các tài liệu về xuất khẩu các loại người mua.
+- **H1**: FAW Jiefang J6F: China-Market Blue-Plate Light garture purive
+- **Từ khóa chính**: FAW Jiefang J6F thông số xe tải nhẹ
+- **Cụm tìm kiếm phụ**: Jiefang J6F xe tải nhẹ; J6F biển số xanh N2; CA4DB1 diesel 130; FAW taxi qua xuất khẩu xe tải; Xe tải chở hàng bằng ánh sáng Trung Quốc
+- **URL đề xuất**: /vehicles/faw-jiefang-j6f/
+- **Ý định tìm kiếm**: Hiểu FAW Jiefang J6F: Trung Quốc- Market Blue-Plate Light garse E xuất Tham khảo: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- **Gợi ý hình ảnh**: A white FAW Jiefang J6F cab-over light cargo truck with a box body in a yard
+- **Văn bản ALT**: Cab-over FAW Jiefang J6F xe tải nhẹ với một cái thùng đựng hàng đậu trong một sân hậu cần
+- **Phạm vi schema**: Điều và Xe hơi
 
 Chiếc Jiefang J6F là chiếc xe tải chở ánh sáng của FAW trong khu vực N2 bảng Trung Quốc — trọng lượng xe hơi nặng dưới 4.5 tấn, là con ngựa của sự phân phối đô thị. Các quyết định xuất khẩu xe tải nhẹ được thực hiện trên động cơ, hộp số, trục, GVW/tải, khung gầm và hàng hóa, vì vậy trang này theo logic quảng cáo đó hơn là một bố trí xe chở khách. Nhân dạng (dòng kiểu củaFAW Jiefang, xe tải nhẹ vượt N2) là OEM- tái lập; khối lượng chi tiết đòi hỏi giấy luận đồng nhất.
 

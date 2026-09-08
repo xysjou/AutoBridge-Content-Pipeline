@@ -1,15 +1,17 @@
 # Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
 
-## SEO Metadatos
-- **SEO Título**: Export Compliance " Sanctions Proyección para exportadores de vehículos: Listas de uso final, de doble uso y restringidas
-- **Meta Descripción**: Una base de referencia para el cumplimiento de la exportación de vehículos chinos: controles de uso final/definido, detección de doble uso, listas de partes restringidas/denegadas, el deber de registro de cinco años y por qué no se deben cumplir partes restringidas.
-- ** H1 **: Control de Cumplimiento de Exportaciones y Sanciones para Exportadores de Vehículos Chinos
-- **Primary Keyword**: usuario final de control de las sanciones de cumplimiento de las exportaciones
-- ** Términos de búsqueda de datos secundarios**: control de las exportaciones; examen de las sanciones; declaración de usuario final; parte negada; lista restringida de doble uso;
-- ** URL agregada**: /guides/export-cumplimiento-sanctions-screening-end-user/
-- **Búsqueda Intent**: 汽车出口如何做最终用户 最终用途尽调, 管控 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
-- **Sugerencias internas**: /guides/export-pago-métodos-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-cumpli-de-de cumplimiento-sanctions-screening-end-user/
-- **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
+## Metadatos SEO
+- **Título SEO**: Export Compliance " Sanctions Proyección para exportadores de vehículos: Listas de uso final, de doble uso y restringidas
+- **Meta descripción**: Una base de referencia para el cumplimiento de la exportación de vehículos chinos: controles de uso final/definido, detección de doble uso, listas de partes restringidas/denegadas, el deber de registro de cinco años y por qué no se deben cumplir partes restringidas.
+- **H1**: Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+- **Palabra clave principal**: Usuario final de la inspección de las sanciones de cumplimiento de las exportaciones
+- **Términos de búsqueda secundarios**: control de las exportaciones; control de las sanciones; declaración de usuario final; parte negada; doble uso; lista restringida
+- **URL sugerida**: /guides/export-compliance-sanctions-screening-end-user/
+- **Intención de búsqueda**: Comprender el cumplimiento de las exportaciones y las sanciones Screening para los exportadores de vehículos chinos: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/export-payment-methods-t-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Sugerencia de imagen**: Un escenario realista, centrado en documentos y vehículos que ilustra el cumplimiento de las exportaciones y las sanciones que se examinan para los exportadores de vehículos chinos, ninguna inspección escalonada o las personas reclamadas.
+- **Texto ALT**: Vistas cercanas, naturales de materiales y el tema relacionado con el Cumplimiento de Exportaciones y Sanciones Proyección para los Exportadores de Vehículos Chinos, antecedentes neutros, no se muestran personas ni medidas de inspección.
+- **Alcance del esquema**: Artículo (no Producto/Offer/Review)
 
 ## El cumplimiento es una puerta de transacción, no papeleo al final
 Los exportadores de vehículos se enfrentan tanto al régimen de control de exportaciones de China como a los marcos de sanciones internacionales. El principio de control es la gestión de usuarios finales y usuarios finales en toda la transacción**: un exportador debe saber quién recibirá los bienes y qué serán utilizados, y debe analizar contra listas restringidas/denegadas antes de cometerlos. Esto no puede ser subcontratado al transportista de carga o fijado después del envío.
@@ -41,7 +43,6 @@ Esta guía no incluye a las entidades sancionadas (cambian) ni da conclusiones e
 ¿Quién es la pantalla? Comprador, destinatario y otras partes pertinentes, al momento de la ingesta y nuevamente antes del envío.
 ¿Y si hay un éxito? Escalar y no proceder; no se debe servir a una parte denegada.
 
-
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
@@ -61,18 +62,18 @@ Esta guía no incluye a las entidades sancionadas (cambian) ni da conclusiones e
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
 ## Grabación de imagen
-- **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
-- **ORIGINAL_IMAGE_URL**: no capturado
-- **SOURCE_PAGE**: no capturado
-- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
-- RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
-- **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: Cumplimiento exacto de las exportaciones y las sanciones
-- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
-- IMAGE_RIGHTS_STATUS #
-- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
-- **ALT (12 idiomas)**:
+- **MODEL_TOPIC_MATCH**: exact Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export
   - **DE**: export compliance screening, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -85,6 +86,5 @@ Esta guía no incluye a las entidades sancionadas (cambian) ni da conclusiones e
   - **ID**: export compliance screening, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export compliance screening, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export compliance screening, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ExportControl #Sanctions

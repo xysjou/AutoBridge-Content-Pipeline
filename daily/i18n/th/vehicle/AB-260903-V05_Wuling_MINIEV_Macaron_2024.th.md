@@ -1,14 +1,16 @@
 # วูลิง ฮงก็อง Mimielv Macaron (3rd Gen) 2024: Micro-v ผู้ซื้อควรจะปรับขนาดให้ถูกต้อง
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: Wooling Honggang Miniv Macaron 2024 Spects & prilations
-- ""คําอธิบาย" จีน-มาร์เก็ต 3rd-gen วูลิงมินเนฟ มาเกรอน - 3-door 4-seat ไมโคร EV, 20 kW มอเตอร์ (พ.ศ.  170/215 km CLTC, แบตเตอรี่แอลเอฟพี ส่วนใหญ่จะคิดเงินช้า 100 km/h ความเร็วสูงสุด ตรรกะการคัดเลือกระดับชั้น  and  เช็คผู้ส่งออก
-- ~ URL ที่ถูกย่อหาย *: viohles/ wuling-hongguang-mineviv (หน้าจําลองสีเขียว); รุ่นปีที่เก็บไว้ใน H1/body ไม่ใช่ที่อยู่ URL)
-- ** H1 ~: วูลิง ฮองกังมินยาวีฟ มาโครมอน 2024 (Chinese-Market): ไมโครวีฟสเปกและเครื่องตรวจการส่งออก
-- ~คําสําคัญในจดหมาย: woling haung sunnive มาการัน 2024 spects
-- ~การค้นหาตามวาระที่: ~ Mimiel Macaron เรนจ์, ไมโคร ไมโคร EV, Miniv 20kW รถ, 170 215 CLTC City, แบตเตอรีเล็ก ๆ ของ Wooling
-- ~ ลิงก์ภายในที่แนะนํา~: viides/ bid-dolphin /;/farios/farison-xing- v6e-specs/; guides/vipping- un3171-imdg-compliance/;// guideer-Ver-Velcycyling-slopping-lacking/
-- ~คําแนะนําการอพยพ ~: 3-door ศพพร้อมประตูเปิด; 4-seat ไมโครเคบิน; พอร์ตชาร์จ (ค่าใช้จ่ายต่ํา; ขนาดเมื่อเทียบกับอ่าวที่จอดรถ
-- ~~~~~~~~~ คําแนะนํา: "Wailing Miniv ขนาดของเมกะรอน "MinIIVE Macaron 170 215 CLTC เรนจ์"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Wooling Honggang MINIEV Macaron 2024 Spects & Explation Notes
+- **คำอธิบาย Meta**: จีน-มาร์เก็ต 3rd-gen วูลิง MINIEV มาคารอน 3-door 4-seat ไมโคร EV, 20 kW มอเตอร์ (พ.ศ.  170/215 km  CLTC , LFP แบตเตอรี่ ส่วนใหญ่จะคิดเงินช้า 100 km/h ความเร็วสูงสุด ตรรกะการคัดเลือกระดับชั้น  and  เช็คผู้ส่งออก
+- **H1**: Wooling Honggang MINIEV Macaron 2024 (Chinese-Maget): Micro- EV Specs and ept cecks
+- **คีย์เวิร์ดหลัก**: WULLOLNG Yansuff Macaron 2024 สเปก
+- **คำค้นหารอง**: MINIEV Macaron Internation, Wowling Microsited EV ส่งออก MINIEV 20kW, 170 215 CLTC ซิตี้ ซิตี้ ซิตี้ ซิตี้ จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัด จังหวัดนครนครสุรินทร์ จังหวัด จังหวัดนครนครสุนทรวง (พ.ศ. Wooling LFP แบตเตอรี่ขนาดเล็ก
+- **URL ที่แนะนำ**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **เจตนาการค้นหา**: เข้าใจ Wooling Honggang MINIEV Macaron 2024 (Chinese-Maget): Micro- EV Spects และ eptecks: สิ่งที่นักส่งออกรถยนต์/พาร์ทเนอร์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **คำแนะนำรูปภาพ**: 3-door ร่างที่เปิดประตู
+- **ข้อความ ALT**: Wooling MINIEV Macaron Microsift EV มิติ
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของตัวซื้อ: ตรงกับตัวพิมพ์ใหญ่กับตัวพิมพ์เล็ก
 ฮ่องกง มาการรอนเป็นรถไฟฟ้าในเมือง มิโคร ไม่ใช่รถระเบิด ที่ 3064 mm ยาว  and  777 kg เคร์บ! มันอยู่ชั้นเต็มใต้หลังฟักเล็ก ๆ — สําหรับขนาด  ดอลฟินไบดีในแคตตาล็อกเดียวกันนี้ **4125 mm long** with 420/520 km CLTC grades. ช่องว่างที่ตัดสินใจซื้อทั้งหมด มูลค่าของมาคารอนคือ การเคลื่อนตัวของเมืองระยะสั้น ในจุดขายที่ราคาถูกมากของจีน ข้อจํากัดของมันคือความเร็วสูงสุด (* 100 km/h)  range (**170/215 km CLTC**), ความเร็วในการชาร์จ  and  ขนาดห้องโดยสาร ผู้ส่งออกที่จัดตําแหน่งให้เข้ากับ EV ของ B จะก่อให้เกิดปัญหาในการส่งกลับ หน้านี้ครอบคลุม 3rd-generation มาคารอน  model year 2024 (REFERENCE MARKET: คราง) ~
@@ -62,18 +64,18 @@
 "มันเป็นคู่แข่งของคอมเพล็กซ์ปกติหรือเปล่า" ไม่ -- ถัดจาก UN 4.1 m, 420+ km ดอลฟินเป็นรุ่นที่เล็กกว่า ตําแหน่งเป็นการเดินทางของเมืองขนาดใหญ่ ไม่ใช่ครอบครัวทางหลวง EV
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug
@@ -96,7 +98,7 @@
 | แบตเตอรีแมคคารอน แบตเตอรีแบบช้า | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ○ 13.4 kWh วิธีชาร์จ |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 

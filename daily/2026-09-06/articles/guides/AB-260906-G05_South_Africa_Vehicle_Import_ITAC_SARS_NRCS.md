@@ -6,7 +6,7 @@
 - **Primary Keyword**: south africa vehicle import ITAC SARS NRCS LOA
 - **Secondary Search Terms**: ITAC import permit South Africa; NRCS letter of authority vehicle; SARS customs vehicle import; import used car South Africa; LOA motor vehicle
 - **Suggested URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Search Intent**: 向南非出口车辆需要哪些进口管制许可、海关税务与强制合规（LOA），分别由哪些机构负责
+- **Search Intent**: Understand Importing Vehicles into South Africa: ITAC Permit, SARS Customs and NRCS LOA: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
 - **Image Suggestion**: South African port vehicle processing with permit and customs documents on a desk
 - **ALT Suggestion**: Vehicle import permit and customs paperwork on a desk with a South African port yard beyond

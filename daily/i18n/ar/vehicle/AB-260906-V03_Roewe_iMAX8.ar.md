@@ -1,13 +1,18 @@
 # Roewe iMAX8: A China-Market Seven-Seat MPV الجهة المشترية
-## SEO Metadata
-- ** عنوان المنظمة**: رويوي iMAX8 ميغافول الصادرات: البحار، الأبعاد، 2.0T دليل الشراء
-- ** وصف البيانات**: Chinese-market reference for the Roewe iMAX8 7-seat MPV: 2+2+3 مقعد  and  الفضاء الأبعاد ظلّت معايرة معتمدة على النموذج 2.0T منفصلاً،  and  خطوات التحقق من الصادرات.
-- ** H1 **** رويوي iMAX8: A China-Market Seven-Seat MPV الجهة المشترية**
-- ** كلمة أساسية رمزية**: رويوي iMAX8 مواصفات تصدير
-- ** شروط البحث الثانية**: Roewe iMAX8 MPV; iMAX8 7 seat 2+2+3; iMAX8 قاعدة متحركة للأبعاد؛ SAIC MPV export; iMAX8 2.0T Aisin 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- ** الحلقة الدراسية**: 面向海外B端买家介绍iMAX8中国市场版本身份、座椅空间/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+## بيانات SEO الوصفية
+- **عنوان SEO**: Roewe iMAX8 MPV Export Specs: Seating, Dimensions, 2.0T دليل الشراء
+- **وصف Meta**: Chinese-market reference for the Roewe iMAX8 7-seat  MPV : 2+2+3 مقعد  and  الفضاء الأبعاد ظلّت معايرة معتمدة على النموذج 2.0T منفصلاً  and  خطوات التحقق من الصادرات.
+- **H1**: Roewe iMAX8: A China-Market Seven-Seat MPV الجهة المشترية
+- **الكلمة المفتاحية الرئيسية**: Roewe iMAX8 export specs
+- **مصطلحات بحث ثانوية**: Roewe iMAX8 MPV; iMAX8 7 seat 2+2+3; iMAX8 dimensions wheelbase; SAIC MPV export; iMAX8 2.0T Aisin 8AT
+- **URL المقترح**: /vehicles/roewe-imax8/
+- **نية البحث**: تفهم روي iMAX8: A China-Market Seven-Seat MPV:: المرجع المشترى للصادرات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **اقتراح الصورة**: وجهة نظر جانبية من رويوي iMAX8 تسلط الضوء على قاعدة العجلات الطويلة والأبواب الخلفية المتدفقة
+- **نص ALT**: مشهد جانبي لطائرة من طراز Roewe iMAX8 من طراز MPV يظهر أبواباً متحركة وقاعدة طويلة من المحركات
+- **نطاق المخطط**: المادة + المركبات
+
+** مقترحات داخلية بشأن الروابط**: /مركبات/سيك - ماكسوس - v80/، /مركبات/سيك -ماكسوس - /90/، /guides/china-port-ro-vehicle-exporting-exportinal-handover/
 - ** اقتراح رمزي**: وجهة نظر جانبية من طراز Roewe iMAX8 MPV تسلط الضوء على قاعدة العجلات الطويلة وأبوابها الخلفية المنهارة
 - ** اقتراح**: نظرة جانبية على طائرة من طراز Roewe iMAX8 من طراز MPV تظهر أبوابا مائلة وعجلات طويلة
 - **Schema Scope**: Article + Vehicle
@@ -25,7 +30,7 @@
 
 أما الترتيب الذي يبلغ 3000 mm قاعدة متحركة و 2+2+3، فهو ما يجعل من المفيد استخدام iMAX8 كمكوك أو مركبة كبيرة للأسرة: من خلال الدخول إلى الصف الثالث والمقاعد المتوسطة المستقلة. وينبغي للمشتريات أن يؤكدوا ما إذا كان الهدف يستخدم كراسي كابتن أو مقعد وما إذا كان الكوخ الخلفي يشمل ملامح السكك نظراً لأن معدات الفلول المتعدد الكلور تتفاوت مادياً من قبل وحدة الاستخبارات الخاصة.
 
-## Powertrain: one motor family, several year calibrations
+# Powertrain: أسرة واحدة، معايرة لمدة عدة سنوات
 
 The petrol iMAX8 uses a 2.0-litre turbo (20A4E family) paired with an Aisin 8-speed automatic. المصادر المستقلة تقتبس من نواتج مختلفة في مختلف السنوات النموذجية - حوالي 172 kW/ 360 N·m في معايرة واحدة  and  231 PS 370 N·m في أخرى. هذه هي إختلافات معادلة سنة نموذجية، وليس تناقضاً**، والمقال لا يختار رقماً واحداً لـ"الحقيقة". ويتمثل الإجراء الصحيح في ربط الناتج بالنموذج المحدد لوحدة تبادل المعلومات الخاصة بالسنتين على ورقة مكتب الشؤون المقيمين.**
 
@@ -65,7 +70,7 @@ This page is limited to the petrol iMAX8. Hybrid  and  pure-electric iMAX8 deriv
 
 ** أي محرك وجهاز تروس؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
 
-A 2.0T petrol (20A4E family) with an Aisin 8AT; quoted power differs by model year and must be bound to the SKU.
+A 2.0T petrol (20A4E family) with an Aisin 8AT; وتختلف السلطة المستعارة عن السنة النموذجية ويجب أن تكون ملزمة بوحدة الاستخبارات الخاصة.
 
 ** هل تغطي هذه الصفحة iMAX8؟**
 
@@ -86,7 +91,7 @@ A 2.0T petrol (20A4E family) with an Aisin 8AT; quoted power differs by model ye
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق من المتغير الصيني الملغى وحساب المقاعد بالإعلان |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA（本篇锁燃油版；混动/纯电iMAX8不混入；动力年款标定分列）
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

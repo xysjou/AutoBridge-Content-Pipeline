@@ -1,14 +1,16 @@
 # تحديد المركبات لبطاقة وغطاء الخليج: نقاط لتقييم حركة أو مُعلّق
-## SEO Metadata
-- ** عنوان الحلقة**: الشرق التنسيق دليل شراء معدات التكيّف مع المركبات
-- ** وصف البيانات**: ما ينبغي تقييمه مع منظمة المركبات قبل إرسال مركبة من نوع الصين إلى حرارة وغبار الخليج - أي التبريد/الشحن/الاستعراض والمرشحين للأسلاك، وخيارات الإدارة الحرارية للشبكة، وتتبع التوافق بين مجلس التعاون رصد الأرض.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشاد/إحداثيات متوسطة - شرقية - مجرى
-- ** H1 **** تكييف مركبات الصين - الصوتية لخليج الهات والدغب: نقاط التقييم (المكتب، التقييم، الامتثال)
-- ** كلمة رئيسية**: مطياف تطويع مركبات التراب الحراري في الشرق الأوسط
-- ** محطات البحث الثانية**: مطياف درجة حرارة عالية لدى مجلس التعاون الخليجي، سيارة ختم الغبار الصحراوي، ومناخ ساخن للإدارة الحرارية للبطارية، ورفع مستوى التبريد في الشرق الأوسط، ودرجة تطابق المركبات مع النظام العالمي لتحديد المواقع
-- ** Internal Link Suggestions**: /guides/vehicle-coc-approval-dosssier/;guides/uae-vehicle-imcle-import-registration-documents/; /vehicles/li-auto- l6/
-- ** اقتراحات تتعلق بالأشعة**: مخطط نظم الحمولة الحرارية؛ نقاط أشعة الغبار؛ حلقة إدارة البطاريات الحرارية
-- ** اقتراحات بشأن: "الأفضل مقابل نقاط تقييم التكيف مع الحرارة في الغلاف الجوي، و"غبار الغولف في نقاط الحماية"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Middle East/ GCC  Heat & Dust Vehicle Adaptation Buyer Guide
+- **وصف Meta**: What to evaluate with the  OEM /upfitter before sending a China-spec vehicle into Gulf heat  and  dust —  ICE  cooling/charging/ AC   and  -أستقبال المرشحين EV خيار الإدارة الحرارية  and  مسار المطابقة المنفصل GCC/GSO
+- **H1**: Adapting China-Spec Vehicles for Gulf Heat and Dust: Evaluation Points (ICE, EV, Compliance)
+- **الكلمة المفتاحية الرئيسية**: مطياف حرارة التراب في منتصف شرق جبال
+- **مصطلحات بحث ثانوية**: GCC من مواصفات المركبات ذات الحرارة العالية، وسيارة إغلاق الغبار الصحراوي، و EV من المناخ الساخن للإدارة الحرارية للبطارية، و AC من عمليات التبريد، و GSO من حرارة مطابقة المركبات
+- **URL المقترح**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **نية البحث**: Understand Adapting China-Spec Vehicles for Gulf Heat and Dust: Evaluation Points (ICE, EV, Compliance): What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
+- **اقتراح الصورة**: مخطط نظم التحميل الحراري (ICE vs EV)
+- **نص ALT**: ICE مقابل EV نقطة تقييم للتكيف مع الحرارة
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## أدلة
 الطبقة الادلة منفصلة ويرتكز مسار المطابقة الآن على المصادر الرئيسية** - إطار منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي، الذي تطبقه المملكة العربية السعودية على الصعيد الوطني من خلال منظمة جنوب تنسيق الموارد الطبيعية، ومن خلال وزارة التجارة والبيئة والتنمية (وزارة التجارة الدولية) - ويستشهد به في المصادر. (أ) لا تزال بنود التكيف المُحرّكة** أدناه (التعريف، والشحن، والشحن، والاختتام، والمرشحين الحراريين للمركبات) قائمة على مصدر وحيد من مصادر أو الصناعة، ولا تزال قائمة على الـ (SingLE_). نقاط تقييم الموارد، وليس المتطلبات القانونية في الخليج. لا يوجد زي واحد "مطياف الكبريت" يؤكد كل شيء مع "أوم إيه" و "أوم بي آي" لنموذج و ظرف التشغيل و ضد تطبيق البلد المُقدّم** الخاص بنص "جي إس إس إس" (طريقي "سودي" و "يو أي" يختلف ويظهر بشكل منفصل أدناه
@@ -30,7 +32,7 @@
 - ** يُطلب إلى مكتب مراقبة الأوزون الحصول على بيانات حرارية** مقارنة نهجه في التبريد مع المظروف المستهدف؛ ** إن التبريد السائل هو أحد الخيارات لتقييمه - ولا يرفض التبريد الجوي بشكل قاطع، ولا يفترض أن التبريد السائل إلزامي**، دون وجود أساس معياري من نوع OEM/engineering لهذا النموذج.
 - مناقشة ** استراتيجية عالية التمرين** - حدود التفرغ، التحذيرات الحرارية.
 - تقييم: ** هوت - كليميت DC fast-charge behaviour, cabin pre-cooling**, and connector/onboard-charger tolerance of hot, dusty operation.
-- A Chinese policy reference cites a bat-environment **target of − 30 °C to 55 °C ** (single-source) - a design target only, not a Gulf legal threshold.
+- تشير إشارة إلى السياسة الصينية إلى هدف " خفاش - البيئة " - وهو هدف يتراوح بين 30 درجة مئوية و 55 درجة مئوية ** (مصدر غنائي) - وهو هدف تصميمي فقط، وليس عتبة قانونية في الخليج.
 
 ## عمليات الامتثال في المبارايل مع الهندسة
 ولا يحل التكيف محل الوصول إلى الأسواق: فالمركبات وأي مكونات متغيرة (الغرائب، والمجسات، ووحدات الـ دياس**) لا تزال بحاجة إلى الوفاء** بتطابق الوثيقة GSOC/GSO**، وينبغي أن تحمل الأجزاء المتغيرة التصديق المناسب. ويجب أن يلتقي التقييم الهندسي والتنويم على نفس - وهو جزء مستوفى يبطل المطابقة هو خسارة صافية.
@@ -52,30 +54,30 @@
 ** أين أجد معايير حرارة بالضبط؟** ابدأ من قائمة القواعد التقنية للشركة ثم افتح طريق البلد المُقدّم** ولا يشير هذا الدليل إلى رقم قياسي محدد الأولى لا يمكنه التحقق منه مباشرة؛ ولا يزال المرشحون الهندسيون هنا بحاجة إلى تأكيد من جانب منظمة خدمات.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
- - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
- - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
- - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
- - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
- - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
- - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
- - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
- - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
- - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
- - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
- - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
- - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
@@ -87,7 +89,7 @@
 * حد أقصى للأدلة: تستند كل عملية تكيف إلى مصدر واحد (جميع مصادر الطاقة)؛ ولم يسجل أي معيار أساسي للبدلات العامة أو OEM عينة هندسية. وتوضع البنود بوصفها نقاط تقييم للمربّي البالغ عددهم OEM/مبتدئ، وليس متطلبات الخليج العالمية؛ ولا توجد حدود قانونية أو تشكيلة إلزامية. ♪
 
 | قائمة الأنظمة التقنية الخاصة بالمركبات | منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي | GCC | https://www.gso.org.sa/ | 2026-09-05 | مفقود | النظام التقني للمركبات على نطاق مجلس التعاون الخليجي، بما في ذلك الجداول الزمنية (يختلف تطبيق البلد) |
-| المعايير والتطابق السعودي (SASO Saleem) | المعايير السعودية، المقاييس والجودة | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | مفقود | المعايير السعودية الخاصة ونطاق المطابقة |
+| and the Curjiye (SASO Saleem) |, and RECOMMENDATIONS  ال以氯化碳的.的.的.的。 https://www.saso.gov.sa/en/Pages/default.aspx . 2026-09-05  مفقود |》第号建议的。 ?
 | إصدار شهادات مطابقة للمنتجات الخاضعة للتنظيم (بما في ذلك | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | مفقود | طريق المطابقة الخاص بالجامعة؛ المواد التي تم تأكيدها في كل سوق، لم تفترض أن النظام الموحد للسوق |
 
 ## استعراض التحرير

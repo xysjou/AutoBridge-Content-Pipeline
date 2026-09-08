@@ -1,16 +1,16 @@
 # XPengモノナM03:電池–ランゲ-モーター マトリックスのまわりで造られる中国市場の密集した電気セダンの参照
-## ツイート メタデータ
-- **SEOタイトル**: モンアXPeng M03 中国市場EV スペック・輸出買主チェック | オートブリッジ
-- **メタ 記述**: XPeng MONA M03電気セダンのための中国市場参照: 51.8/62.2 kWh LFP batteries, CLTC の範囲レベル  and  140/160 kW motors kept mapped by SKU, 輸出確認のステップ。
-- H1 ホテル **: XPeng MONA M03:電池–ランゲ-モーター マトリックスのまわりで造られる中国市場の密集した電気セダンの参照
-- **主なキーワード**: XPeng MONA M03輸出仕様
-- **二次検索条件**:小鹏MONA M03;MONA M03 CLTCの範囲;MONA M03 62.2 kWh; XPeng M03 160 kW;中国の電気セダンの輸出;Cd 0.194
-- **混雑URL**: /vehicles/xpeng-mona- m03/
-- **Search Intent**: 面向海外买家介绍小鹏 モノ M03 中国市场身份、电池 /CLTC 续航 / 电机的 SKU 对应关系与版本边界
-- **内部リンクの提案**: /vehicles/deepal- s05/、 /vehicles/dongfeng-aeolus-yixuan/、/guides/ev-shipping- un3556-imdg-compliance/
-- **イメージ提案**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
-- アルト 提案**: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: プンゲン MONA M03 中国市場 EV スペックと輸出バイヤーチェック | オートブリッジ
+- **メタディスクリプション**: XPeng MONA M03電気セダンのための中国市場参照: 51.8/62.2 kWh  LFP  batteries, CLTC の範囲レベル  and  140/160 kW motors kept mapped by  SKU , 輸出確認のステップ。
+- **H1**: XPeng MONA M03:電池–Range-Motorのマトリックスのまわりで造られる中国市場の密集した電気セダンの参照
+- **主要キーワード**: プンゲン MONA M03 輸出仕様
+- **関連検索語**: 小鹏 モノラル M03; MONA M03 CLTC 範囲; MONA M03 62.2 kWh; XPeng M03 160 kW; 中国の電気セダンの輸出; Cd 0.194
+- **推奨URL**: /vehicles/xpeng-mona-m03/
+- **検索意図**: XPeng MONA M03を理解する:電池–ランゲ–モーターの周りに構築された中国市場コンパクト電気セダンの参照 マトリックス: 車両/部品輸出業者が、注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **画像候補**: An XPeng MONA M03 electric fastback sedan shown from front three-quarter on a neutral background
+- **ALTテキスト**: Front three-quarter view of an XPeng MONA M03 electric sedan on a neutral studio background
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launched in China in August 2024 on a front single-motor, 従来の低ドラッグ係数でフロントホイール駆動レイアウト。 海外EVバイヤーにとって、規律はICE車と異なっています。 注文は**バッター容量を締めなければなりません、 試験サイクル範囲  and  モータは、一試合SKU**として、 M03は、混合しやすい組み合わせで販売されているため。 このページは**中国語市場の参照です。 すべての範囲は**CLTC**であり、WLTP / NEDC番号と比較してはならず、バッテリーサプライヤーはアサートされず、輸出市場充電基準は別々の証拠を必要とします。
 

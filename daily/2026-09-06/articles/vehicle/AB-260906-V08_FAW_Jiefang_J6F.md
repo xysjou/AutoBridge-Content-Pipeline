@@ -6,7 +6,7 @@
 - **Primary Keyword**: FAW Jiefang J6F light truck export specs
 - **Secondary Search Terms**: Jiefang J6F light truck; J6F blue plate N2; CA4DB1 diesel 130; FAW cab over truck export; Chinese light cargo truck
 - **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- **Search Intent**: 面向海外B端买家介绍J6F中国市场版本身份、底盘/动力/货箱与版本边界
+- **Search Intent**: Understand FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
 - **Image Suggestion**: A white FAW Jiefang J6F cab-over light cargo truck with a box body in a yard
 - **ALT Suggestion**: Cab-over FAW Jiefang J6F light truck with a box cargo body parked in a logistics yard

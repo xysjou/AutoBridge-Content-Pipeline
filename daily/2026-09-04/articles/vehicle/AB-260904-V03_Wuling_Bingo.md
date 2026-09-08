@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
 - **Meta Description**: Chinese-market Wuling Bingo small BEV — LFP battery, 203/333/410 km CLTC steps, 30/50 kW motors, DC fast charging, dimensions, and what importers must verify per trim.
-- **Suggested URL**: /vehicles/wuling-bingo/
 - **H1**: Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
 - **Primary Keyword**: wuling bingo ev specs export
 - **Secondary Search Terms**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
+- **Suggested URL**: /vehicles/wuling-bingo/
+- **Search Intent**: Understand Wuling Bingo: Chinese-Market Small EV Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
-- **Image Suggestions**: five-door Bingo side; 203 vs 333/410 badge; rear cargo with seats folded; charge port; four-seat cabin
-- **ALT Suggestions**: "Wuling Bingo small electric hatchback China spec"; "Wuling Bingo CLTC range 203 333 410 km"
+- **Image Suggestion**: five-door Bingo side; 203 vs 333/410 badge; rear cargo with seats folded; charge port; four-seat cabin
+- **ALT Suggestion**: Wuling Bingo small electric hatchback China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a City BEV Sold in Three Range Steps
 The Bingo is Wuling's five-door small electric hatchback, aimed at urban and light-commercial personal use. For an exporter the decisive variable is **range step**, because motor power, battery and top speed all change with it. This sheet covers the **Chinese-market 2024 line (REFERENCE MARKET: CHINA)**; without an OEM overseas page, the Chinese figures are a reference, not a global specification.

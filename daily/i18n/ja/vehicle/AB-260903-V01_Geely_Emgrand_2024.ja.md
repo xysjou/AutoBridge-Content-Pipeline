@@ -1,14 +1,16 @@
 # ジーリー・エングランド(4th Gen)2024: 輸出業者向け中国市場参入セダン仕様シート
-## ツイート メタデータ
-- **SEOタイトル**: ジーリー・エングレード2024(4th Gen)仕様&輸出バイヤーガイド
-- **メタ 説明**: 中国の市場 4th-generation ジーリー・エングランド2024 — 1.5L 93 kWエンジン、5MT/CVT、寸法、4th-gen対全く新しい5th-genの区別、および輸入業者は注文する前に確認しなければなりません。
-- **混雑したURL**: /vehicles/geely-emgrand/
-- H1 **: ジーリー・エングレード 2024 (4th 世代): 中国の市場仕様と輸出チェック
-- **主なキーワード**: ジーリー・エマグランド2024の仕様の輸出
-- **二次検索条件**: ジーリー・エングレード1.5L CVT、4th世代 刻まれた次元、中国の記入項目の輸出、Geely Emgrand 93kWのEmgrandモデル年相違
-- **内部リンク提案**: /vehicles/changan- cs75-plus/; /guides/vehicle-coc-type-approval-dosier/; /guides/container-vehicle-loading-lashing/
-- **イメージ提案**: front three-quarter of 4th-gen Emgrand; 5MT対CVTドライブトレントノート; 後部座席およびブーツ スペース; エンジンベイ 1.5L バッジ
-- アルト 提案**: "Geely Emgrand fourth generation 1.5L sedan"; 「Emgrand 2024の寸法とホイールベース」
+## SEOメタデータ
+- **SEOタイトル**: ジーリー・エングランド 2024 (4th Gen) 仕様 & 輸出バイヤーガイド
+- **メタディスクリプション**: 中国の市場 4th-generation ジーリー・エングランド2024 — 1.5L 93 kWエンジン、5MT/ CVT、寸法、4th-gen対全く新しい5th-genの区別、および輸入業者は注文する前に確認しなければなりません。
+- **H1**: ジーリー・エングランド2024(4th世代):中国市場仕様と輸出チェック
+- **主要キーワード**: geely emgrand 2024 仕様のエクスポート
+- **関連検索語**: ジーリー・エングランド1.5L CVT、4th世代の刻印次元、中国の記入項目の輸出、ジーリー・エングランド93kWの刻印モデル年の相違
+- **推奨URL**: /vehicles/geely-emgrand/
+- **検索意図**: ジーリー・エングランド2024(4th世代):中国市場仕様と輸出チェック:車両/部品輸出業者が確認、文書化、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **画像候補**: front three-quarter of 4th-gen Emgrand
+- **ALTテキスト**: Geely Emgrand fourth generation 1.5L sedan
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 値にピンする前に生成をピン留め
 エムグレインは、高ボリュームのコンパクトサロンと価格感度エントリーカー市場のための自然な候補です。 輸入業者のトラップは世代別です。 このページは** 4th-generation 2024中国市場車(REFERENCE MARKET)をカバーしています。 中国の**、  while an **all-new 5th generation launched in China in November 2025** with a longer body, ホイールベース  and  より低い開始価格。 Quoting a 2024 unit against 5th-gen dimensions — or vice versa — is the single most common order error on this nameplate. ※中国市場参照仕様の下の図を扱います** 市場エンジンのチューン、排出段階および装置はこのシートによって、ローカルの均質化によって、管理されます。
@@ -54,42 +56,42 @@ ICE車の場合、輸出業者の質問は、**エンジンコード/チュー�
 **1.5Lエンジンは、どのように強力ですか?** 93 kW(約127 PS)は、中国基準シートに127 N·m、正確なトリムを確認します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Autoデータベース | CN の | 以下は、 https://db.m.auto.sohu.com/trim_173890 の | 2026-09-03 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、シート、価格参照 |
+| 4th-gen 彫刻 1.5L CVT トリム シート | ソーフオート データベース |  CN  の | 以下は、https://db.m.auto.sohu.com/trim_173890 の | 2026-09-03 | CROSS_CHECKED(クロス) の仕様 | 寸法、ホイールベース、シート、価格参照 |
 | 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar トゥーティアオメディア | CN の | 担当: http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED(クロス) | 1.5L 93 kWの伝達 |
 | 複数のバージョンパラメータの比較を Emgrand | 東ケディデータベース | CN の | 以下は、 https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED(クロス) | ホイールベース、バージョン、国内 MSRP(タイム・センシブ) |
-| 5th-generation Emgrand launch (generational boundary) | 中国経済 ネット(公式メディア) | CN の | 担当: http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml の | 2026-09-03 | タイム _ センシブ | 5th-genサイズ/ホイールベース/価格; 世代を区別します |
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| 5th-generation Emgrand launch (generational boundary) | 中国経済 ネット (公式メディア) |  CN  の | 担当 http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml の の | 2026-09-03 | タイム _ センシブ _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | 5th-gen サイズ / ホイールベース / 価格; ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 
 ※本モデルではOEMのプライマリスペックシートがキャプチャされていないため、図は中国データベース/メディアのクロスチェック値です。 127 N·mトルクは単元です。 国内価格と5th-generationの発売は時間感度が向上します。 宛先の均質化とエクスポート仕様は、VIN の仕様を確認する必要があります。 ふりがな
 

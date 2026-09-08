@@ -1,15 +1,17 @@
 # 중국 EV 충전 표준 해외: GB T 대 CCS2 대 CHAdeMO 대 NACS 호환성
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: GB/T 대 CCS2 대 CHAdeMO 대 NACS: 중국 EV 수출 겸용성
-- **마타 기술 **: 유럽, 일본 또는 북미에서 중국 시장 EV 충전? GB/T 20234.3/27930는, 지역, 수출 버전 인레트, 접합기 및 ChaoJi 방향에 의하여 연결관 지도 설명했습니다.
-- **Suggested URL**: /guides/chinese-ev-charging-standard-compatibility/
-- ** H1 **: 중국 EV 충전 해외? GB/T, CCS2의 CHAdeMO 및 NACS 겸용성 설명하는
-- ** 일기 키워드 **: GB/T CCS2 CHAdeMO 위탁 표준 수출 겸용성
-- ** 보조 검색 조건 **: 중국 EV 수출 충전 어댑터, GB T 20234.3 DC 빠른 충전, GB T 27930 프로토콜, CCS2 수출 버전 EV, ChaoJi 표준
-- ** 내부 링크 제안**: /vehicles/byd-yuan-plus/; /guides/right-hand-drive-chinese-cars/; /guides/used-chinese-ev-inspection/
-- ** 이미지 제안 **: 세계 연결관 표준 지도; GB/T 대 CCS2 인레트 비교; 공장 수출 버전 인레트; 접합기 수락 경고
-- **ALT 제안**: "DC 빠른 충전 커넥터 표준의 세계지도"; "GB T 및 CCS2 충전 흡입 측"; "중국 EV 수출 버전 CCS2 인레트"
+## SEO 메타데이터
+- **SEO 제목**: GB/T 대 CCS2 대 CHAdeMO 대 NACS: 중국 EV 수출 호환성
+- **메타 설명**: 중국 시장 EV 유럽, 일본 또는 북미에서 충전 할 수 있습니까? GB/T 20234.3/27930는 지역, 수출 버전 인레트, 접합기 및 ChaoJi 방향에 의하여, 연결관 지도 설명했습니다.
+- **H1**: 중국 EV 충전 해외? GB/T, CCS2, CHAdeMO 및 NACS 호환성 설명
+- **주요 키워드**: GB/T CCS2 CHAdeMO 위탁 표준 수출 겸용성
+- **보조 검색어**: 중국 EV 수출 위탁 접합기, GB/T 20234.3 DC 빠른 책임, GB/T 27930 의정서, CCS2 수출 버전 EV, ChaoJi 기준
+- **추천 URL**: /guides/chinese-ev-charging-standard-compatibility/
+- **검색 의도**: 중국 EV 충전 해외? GB/T, CCS2, CHAdeMO 및 NACS 호환성 설명: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **이미지 제안**: 세계 연결관 표준 지도
+- **ALT 텍스트**: DC의 세계지도 빠르 위탁 연결관 기준
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 왜 연결관은 왜 쓸모 있는 차가 있는지 결정합니다
 
@@ -71,18 +73,18 @@
 **Does Chao, 중국 Ji는 이제 호환되는 모든 커넥터를 만들 수 있습니까?** ChaoJi는 설계 호환성 미래 방향입니다; 현재 생산 차는 아직도 모형 확인 당 필요로 합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, Leitfaden für Fahrzeugexport-Einkauf
@@ -103,8 +105,8 @@
 | ChaoJi 표준 발표 (공식) | CHAdeMO 협회 (표준 신체) | CN/JP/글로벌 | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | ChaoJi는 GB/T/CHAdeMO/CCS와 호환이 되는 |
 | 충전 표준 인증 경로 | Huayu 테스트 (인증 몸) | - 연혁 | http://www.huayutest.com/zixun/87747.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | CHAdeMO/CCS 지역 배포, 인증 차이 |
 | 충전 커넥터 표준 | cehome (산업 미디어) | 담당자: Mr. wang | https://m.cehome.com/news/20260809/389612.shtml 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | GB/T 20234.3-2023 1500V/800A, GB/T 27930, 차오 지 |
-| GB/T, CCS2의 유형 2, NACS의 비교되는 CHAdeMO | (산업) | - 연혁 | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_체크 | GB/T↔ CCS2는 접합기를 요구합니다; 겸용성 모체 |
-| 글로벌 EV 충전 표준 가이드 | MARUIKEL (산업) | - 연혁 | https: | 2026-09-02 | CROSS_체크 | 국내 GB/T 대 수출 버전 대상 커넥터 | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html
+의 GSM/T, CCS2의 2, NACS의 비교된 차드모 | (산업) | - 회사정보 | https://www.evse-chargers.com/news/understanding-ev-charging-standard-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_체크 | GB/T↔ CCS2는 어댑터를 사용하도록 합니다. 의성모체
+주식회사 MARUIKEL | 대표:김승호 | 주소: | 2026-09-02 | CROSS_체크 | 국내 GB/T 대 수출형용 커넥터 | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standard-type-1-type-2-ccs-chademo-gbt.html
 | GB/T-to-CHAdeMO 접합기 B2B 가이드 | 전기 자동차 중국 (산업) | - 연혁 | https: 대 한 | 2026-09-02 | CROSS_체크 | 수출 겸용성 Bottleneck | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/
 
 *Confidence 참고 (AutoBridge 표준): 표준 수준의 사실은 VERIFIED CROSS_CHECKED (CHAdeMO)입니다. 협회는 표준 몸입니다). Per-model 수출 연결관, 국가 및 NACS rollout 타이밍에 의하여 접합기 적법은 붙잡지 않으며 VIN 당 확인되어야 하고 목적지 권위 당. ****************************************************************************************************************************************************************************************************************************************************************

@@ -1,15 +1,17 @@
 # 中国のEV 充電規格 概要:GB/T対CCS2対CHAdeMO対NACSの両立性
 
-## ツイート メタデータ
-- **SEOのタイトル**:GB T対CCS2対CHAdeMO対NACS:中国EVの輸出互換性
-- **メタ 記述**: 欧州、日本、北米で中国市場EV充電できますか? GB/T 20234.3/27930は、地域、輸出バージョンの入口、アダプター、ChaoJi方向によるコネクタマップについて説明しました。
-- **混雑したURL**: /guides/chinese-ev-charging-standard-compatibility/
-- H1 ホテル **:中国EV充電は海外ですか? GB/T、CCS2、CHAdeMOおよびNACSの両立性は説明しました
-- **主なキーワード**:GB/T CCS2 CHAdeMOの充満標準的な輸出両立性
-- **二次検索条件**:中国EV輸出充電アダプター、GB T 20234.3 DC高速充電、GB T 27930プロトコル、CCS2エクスポートバージョンEV、ChaoJi標準
-- **内部リンクの提案**: /vehicles/byd-yuan-plus/; /guides/right-hand-drive-chinese-cars/; /guides/used-chinese-ev-inspection/
-- **イメージ提案**:世界コネクタ標準マップ;GB T対CCS2入口比較;工場輸出バージョン入口;アダプタのコンプライアンス警告
-- **ALTの提案**:「DCの速い充満コネクターの標準の世界の地図」;側面によって側面を充電するGB/TおよびCCS2;「中国のEVの輸出版CCS2の入口」
+## SEOメタデータ
+- **SEOタイトル**: GB/T対CCS2対CHAdeMO対NACS:中国EV輸出互換性
+- **メタディスクリプション**: 欧州、日本、北米で中国市場EVの料金を請求しますか? GB/T 20234.3/27930は、地域別コネクタマップ、輸出バージョンの入口、アダプタ、ChaoJi方向を説明しました。
+- **H1**: 中国のEVは海外に満たしますか。GB/T、CCS2、CHAdeMOおよびNACS両立性は説明しました
+- **主要キーワード**: GB/T CCS2 CHAdeMOの充満標準的な輸出両立性
+- **関連検索語**: 中国のEVの輸出充満アダプター、GB/T 20234.3 DCの速い充満、GB/T 27930の議定書、CCS2の輸出版EVのChaoJiの標準
+- **推奨URL**: /guides/chinese-ev-charging-standard-compatibility/
+- **検索意図**: 理解中国EV充満海外か。GB/T、CCS2、CHAdeMOおよびNACS両立性 説明: 車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **画像候補**: 世界コネクタ標準地図
+- **ALTテキスト**: DC高速充電コネクタ規格の世界地図
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## コネクタが車が使用可能なかどうかを判断する理由
 
@@ -45,8 +47,6 @@
 基準チャートは、GB/T が CCS2 と異なることを伝えます。 *this VIN* が充電されるかどうかは、通知しません。 推奨方法は、VIN-bound Note** として**物理インレット、ハンドシェイクプロトコル、およびオンボードチャーレーティングを録音し、プロトコルゲートウェイ(GB/T 27930ハンドシェイク)から**ハードウェアアダプター(機械のみ)を区別し、購入ファイルで** を入金する前に、** の** を 確認します。
 ## 車両検証マトリックス
 
-
-
 - 国内入口:GB/T DC + AC入口のタイプ
 - 利用できる工場輸出入口: CCS2 CHAdeMO NACS CCS1 VIN
 - 通信プロトコルとエクスポートファームウェアが宛先ハンカケをサポートしているかどうか
@@ -71,18 +71,18 @@
 Does Chao, キプロス ジは、すべてのコネクタを今互換性がありますか?** ChaoJiは、設計の互換性のある未来の方向です。現在の製造車は、モデルごとの確認が必要です。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, Leitfaden für Fahrzeugexport-Einkauf
@@ -104,8 +104,8 @@ Does Chao, キプロス ジは、すべてのコネクタを今互換性があ�
 | 充電標準認証パス | 華湯試験(認証ボディ) | 営業拠点 | 担当: http://www.huayutest.com/zixun/87747.html の | 2026-09-02 | CROSS_CHECKED(クロス) | CHAdeMO/CCS 地域展開、認証の違い |
 | 充満コネクターの標準 | cehome(産業媒体) | CN の | 以下は、 https://m.cehome.com/news/20260809/389612.shtml の | 2026-09-02 | CROSS_CHECKED(クロス) | GB/T 20234.3-2023 1500V/800A、GB/T 27930のChaoJi |
 | GB/T、CCS2のタイプ2のNACS、CHAdeMOは比較しました | | 営業拠点 | 以下は、 https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED(クロス) | GB/T↔ CCS2 はアダプターを要求します; 両立性行列 |
-| 世界的なEV充電基準ガイド | マルイクラー(産業) | 営業拠点 | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | 国内GB/T対輸出バージョンの宛先コネクタ | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html
-| GB/T-to-CHAdeMO アダプター B2B ガイド | 電気自動車中国(産業) | 営業拠点 | 以下は、 の特長 | 2026-09-02 | CROSS_CHECKED(クロス) | 輸出互換性ボトルネック | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/
+| 世界的な  EV  充電基準ガイド | マルイクラー (産業) | 営業拠点 | 以下は 、 | 2026-09-02 | CROSS_CHECKED(クロス) | 国内  GB/T  対輸出バージョンの宛先コネクタ | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html
+|  GB/T  -to-CHAdeMO アダプター B2B ガイド | 電気自動車中国 (産業) | 営業拠点 | 以下は 、 の特長 | 2026-09-02 | CROSS_CHECKED(クロス) | 輸出互換性ボトルネック | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/
 
 *Confidence Note(AutoBridge標準):標準レベルの事実はVERIFIED/CROSS_CHECKED(CHAdeMO)です 協会は、規格の体です。 機種ごとの輸出コネクタ、国別アダプターの合法性、NACSのロールアウトタイミングがキャプチャされず、VINと宛先ごとの確認が必要であった。 ふりがな
 

@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Sinotruk HOWO T7H 6x4 Tractor Specs, Engines & Export Guide
 - **Meta Description**: HOWO T7H tractor head: Weichai 460 PS China build vs MAN-technology MC11/MC13 export engines, 12-speed AMT, 40 t GCW, axles, Euro V/VI options and buyer verification points.
-- **Suggested URL**: /vehicles/sinotruk-howo-t7h-tractor/
 - **H1**: Sinotruk HOWO T7H Tractor: Choosing Engine, Driveline and Export Emission Correctly
 - **Primary Keyword**: Sinotruk HOWO T7H tractor truck specifications export
 - **Secondary Search Terms**: HOWO T7H 6x4 460, Sinotruk MC13 540 tractor, Weichai WP10.5H truck, China heavy tractor export, HOWO Euro V tractor head, LNG tractor truck
+- **Suggested URL**: /vehicles/sinotruk-howo-t7h-tractor/
+- **Search Intent**: Understand Sinotruk HOWO T7H Tractor: Choosing Engine, Driveline and Export Emission Correctly: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/shacman-x3000-dump-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
-- **Image Suggestions**: 6x4 tractor head side view; Weichai vs MC engine comparison; fifth wheel and tandem axles; high-roof sleeper cab; 12-speed AMT selector
-- **ALT Suggestions**: "Sinotruk HOWO T7H 6x4 tractor head, China/export configuration"; "HOWO T7H tandem drive axles and fifth wheel"; "MC13 540 MAN-technology diesel engine"
+- **Image Suggestion**: 6x4 tractor head side view; Weichai vs MC engine comparison; fifth wheel and tandem axles; high-roof sleeper cab; 12-speed AMT selector
+- **ALT Suggestion**: Sinotruk HOWO T7H 6x4 tractor head, China/export configuration
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## What the T7H Is
 

@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: BYD Yuan Plus / Atto 3: Battery, Range & Export Buyer Guide
 - **Meta Description**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, why China CLTC must be kept separate from a destination's WLTP/NEDC figure, GB/T vs local charging inlet, and what to verify by VIN.
-- **Suggested URL**: /vehicles/byd-yuan-plus/
 - **H1**: BYD Yuan Plus (export name Atto 3): Battery, Range Cycle, Charging and Software for Importers
 - **Primary Keyword**: BYD Yuan Plus Atto 3 specifications export
 - **Secondary Search Terms**: BYD Atto 3 battery 60.48 kWh, Yuan Plus CLTC vs WLTP range, BYD Blade Battery LFP, Atto 3 CCS2 charging, Yuan Plus DiLink overseas, Chinese EV compact SUV export
+- **Suggested URL**: /vehicles/byd-yuan-plus/
+- **Search Intent**: Understand BYD Yuan Plus (export name Atto 3): Battery, Range Cycle, Charging and Software for Importers: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
-- **Image Suggestions**: front three-quarter studio view; 430/510 vs WLTP variant comparison; charging port close-up; rear seating and boot; rotating DiLink screen
-- **ALT Suggestions**: "BYD Yuan Plus / Atto 3 compact electric SUV"; "Yuan Plus CLTC versus Atto 3 WLTP range comparison"; "Blade Battery charging port GB/T inlet"
+- **Image Suggestion**: front three-quarter studio view; 430/510 vs WLTP variant comparison; charging port close-up; rear seating and boot; rotating DiLink screen
+- **ALT Suggestion**: BYD Yuan Plus / Atto 3 compact electric SUV
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## Buyer Context: One Car, Two Specification Languages
 The BYD Yuan Plus (元PLUS) is a compact all-electric SUV on BYD's e-platform 3.0 with an LFP Blade Battery; outside China it is sold as the **BYD Atto 3** across Europe, Southeast Asia, Latin America and Oceania, including RHD markets such as Thailand and Australia. The China line covered here is the **2024 Glory Edition (荣耀版)**. The single most important sourcing habit is to keep two specification languages apart: **Chinese-build data uses CLTC range and a GB/T charging inlet, while BYD's own export specification sheets use WLTP/NEDC range and regional connectors**. This is an evergreen model page (no year in the URL): the platform carries across model years, and the version-specific numbers below are labelled by market and cycle rather than presented as one "global spec".
 ## Battery and Variants (the EV decision starts here)

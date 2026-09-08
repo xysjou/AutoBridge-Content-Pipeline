@@ -1,14 +1,16 @@
 # 指定海湾热尘车辆:用 OEM 或 Upfitor 评估的点
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 中东/GCC 热尘车辆适应采购指南
-- ** 金属说明**: 向海湾热尘输送中国规格车辆之前,应如何与OEM/upfitter评估——ICE冷却/充电/AC和线线性候选物,EV热管理选项,以及单独的GCC/GSO兼容轨迹.
-- ** 提议URL**:/指南/中东热-灰尘-车辆适应/
-- ** H1 资源需求。 **: 改造用于海湾热尘的中国专用车辆:评价点(ICE、EV、合规)
-- ** 初等关键词**:中东gcc热尘车适应谱
-- ** 二级搜索术语**:海合会高温车辆谱、沙漠尘封车、EV电池热管理热气候、中东空调冷却升级、全球地面服务组织车辆符合性热
-- ** 内部链接建议**: /指南/车辆-coc-type-核准-dosier/;/指南/uae-车辆-进口-登记-文件/;/车辆/li-auto-l6/
-- ** 图像建议**:热负荷系统图(ICE vs EV);尘埃-吸尘点;散热器/AC凝固器;电池热管理环
-- **ALT建议**: "ICE与EV热适应评价点"; "海湾尘埃入侵防护点"
+## SEO元数据
+- **SEO标题**: 中东/GCC热尘车辆适应采购指南
+- **Meta描述**: What to evaluate with the  OEM /upfitter before sending a China-spec vehicle into Gulf heat  and  粉尘 -- -- ICE冷却/充电/AC   and  接线候选人, EV 热管理办法,  and  单轨GCC/GSO
+- **H1**: 改造中原车辆用于海湾热尘: 评价点(ICE、EV、遵守)
+- **核心关键词**: 中东gcc热尘车适应谱
+- **次级搜索词**: GCC高温车辆规格 沙漠尘封车 EV电池热管理热气候 中东AC冷却升级 GSO车辆符合热量
+- **建议URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **搜索意图**: 了解适应中国-特定车辆的海湾热尘:评价点(ICE,EV,合规):车辆/部件出口商在承诺执行订单前必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
+- **图片建议**: 热负荷系统图(ICE vs EV)
+- **ALT文本**: ICE对EV个热适应评价点
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 证据边界
 两个证据层是分开的。 符合程度轨道目前依靠主要来源** —— 沙特阿拉伯通过沙特阿拉伯国家标准化组织/沙特阿拉伯国家标准化组织(SASO/SABER)和阿联酋通过内政部(ICAS)在全国适用的海湾合作委员会标准化组织(GSO)框架,来源中引用了这一轨道。 下述**工程改造项目(冷却、充电、空调、密封和EV热能)仍然以单一的上位/工程或工业来源为主,仍然是SINGLE_ 资源资源评价点,而非海湾法律要求. 没有任何单一的统一的"海湾谱":用OEM/upfitter确认每个项目用于模型和操作信封,并对照**目的地国家**对GSO文本的自身应用(沙特和阿联酋的路线不同,单独列示如下).
@@ -52,30 +54,30 @@
 ** 我在哪里找到准确的地球同步轨道热/空控标准? ** 从全球地面观测组织技术规章清单开始,然后开放**目的地国家的**国道——沙特阿拉伯的SASO/SABER,阿联酋的MOIAT——因为全球地面观测组织文本是在全国适用的。 本指南没有列出它无法直接核实的具体热/AC标准编号;这里的工程候选人仍然需要OEM/upfitor确认。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
- - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
- - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
- - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
- - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
- - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
- - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
- - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
- - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
- - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
- - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
- - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
- - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

@@ -1,16 +1,16 @@
 # Nhập xe cộ vào Nam Phi: TTAC cho phép, Hải quan SARS và NRS LOA
-## SAO Siêu dữ liệu
-- **SEEO Titry**: xe cộ ở Nam Phi nhập khẩu: ITAC, SARS và NRCS LOA giải thích
-- **Meta Mô tả**: Một hướng dẫn đặc biệt về việc nhập xe vào Nam Phi: giấy phép nhập khẩu ITAC, Thư của Chính quyền Liên bang Xô Viết, và quá trình hải quan của các cơ quan và các bước.
-- ** H1 **: nhập khẩu xe cộ vào Nam Phi: ITAC cho phép, SARS WORS và NRCS LOA
-- **Cumpary Keyword**: Nam afirica port TIẾNG TIẾNG NRAS LRA
-- **Secondary Search termss**: ITAC nhập khẩu cho phép Nam Phi; NRCS chữ cái của xe có thẩm quyền; phương tiện hải quan SARS nhập khẩu; nhập khẩu xe hơi Nam Phi; phương tiện giao thông LOA
-- **Suggested URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Tìm kiếm Intent**: 向南非出口车辆需要哪些进口管制许可 _ 海关税务与强制合规 (LOA), 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
-- **Image khuyên**: xử lý phương tiện di chuyển ở Nam Phi với giấy phép và giấy phép hải quan trên bàn làm việc
-- **LT Gợi ý**: giấy phép nhập khẩu xe cộ và giấy tờ hải quan trên bàn với một sân cảng Nam Phi ở phía bên kia
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Xe cộ ở Nam Phi Nhập khẩu: ITAC, SARS và NRCS LOA Giải thích
+- **Meta mô tả**: Một hướng dẫn đặc biệt về việc nhập khẩu xe cộ vào Nam Phi: giấy phép nhập khẩu ITAC, NRCS Thư của Chính quyền, và SARS phong tục, với các cơ quan và các bước.
+- **H1**: Xe nhập khẩu vào Nam Phi: ITAC giấy phép, SARS hải quan và NRCS LOA
+- **Từ khóa chính**: south africa vehicle import  ITAC   SARS   NRCS   LOA
+- **Cụm tìm kiếm phụ**: ITAC nhập khẩu được phép ở Nam Phi; NRCS lá thư của xe có thẩm quyền; SARS phương tiện hải quan nhập khẩu; xe hơi nhập khẩu Nam Phi; LOA phương tiện vận động
+- **URL đề xuất**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Ý định tìm kiếm**: Hiểu được các xe nhập cảnh tới Nam Phi: ITAC giấy phép, SARS Các tập tục và NRCS LOA: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
+- **Gợi ý hình ảnh**: Xử lý phương tiện vận chuyển ở Nam Phi với giấy phép và giấy phép hải quan trên bàn làm việc
+- **Văn bản ALT**: Giấy phép nhập khẩu xe cộ và giấy tờ hải quan trên bàn làm việc với một sân cảng Nam Phi phía bên kia
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Nam Phi điều hành xe nhập khẩu thông qua ba chính quyền khác nhau,  and  Khó hiểu là lý do thông thường nhất để một quầy hàng. Ủy ban quản lý thương mại quốc tế ** (ITAC)** kiểm soát xem chiếc xe có thể nhập khẩu được không; ** Bộ quy chế quốc gia cho các chi tiết thẩm quyền (NRCS)** kiểm soát xem nó có đáp ứng được các đặc điểm an toàn bắt buộc thông qua một lá thư của uy quyền không; và dịch vụ bán trái phép Châu Phi **South Africa (SARS)** đánh giá và thu thuế tại các nhiệm vụ hải quan và miễn thuế. Đây là một hướng dẫn viên đặc biệt ở Nam Phi - nó không phải là quy tắc khu vực cho các nước láng giềng.
 

@@ -1,16 +1,16 @@
 # Zollkodex 9710 und 9810: How China's Cross-Border B2B Export Regimes Actually Differ
-## SEO Metadaten
-- **SEO Titel **: China Cross-Border B2B Export 9710 vs 9810 Overseas Warehouse | AutoBridge
-- **Meta Description**: Was bedeuten die Zollkontrollcodes 9710 und 9810, wie sich die direkte Ausfuhr von B2B von der Ausfuhr in Überseelager unterscheidet, die erforderliche Registrierung und Einreichung und was ein Fahrzeugexporteur beim örtlichen Zoll bestätigen muss.
-- ** H1 **: Zollkodex 9710 und 9810: Wie Chinas grenzüberschreitende B2B Exportregimes sich tatsächlich unterscheiden
-- **Hauptschlüsselwort**: grenzüberschreitender E-Commerce b2b Export 9710 9810
-- **Secondary Search Terms**: 9710 Zollcode; 9810 Überseelagerexport; China B2B grenzüberschreitender E-Commerce; Überseelagerablage; grenzüberschreitende E-Commerce-Zollregistrierung
-- **Vorgeschlagene URL**: /guides/cross-border-ecommerce- b2b-export-9710-9810/
-- **Search Intent**: 9710与9810两种跨境电商B2B出口监管方式的区别、海外仓模式的时点分离与备案、企业需要哪些资质
-- **Interne Linkvorschläge**: /guides/export-returned-goods-duty-freemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
+## SEO-Metadaten
+- **SEO-Titel**: China Cross-Border B2B Export 9710 vs 9810 Übersee-Warehouse | AutoBridge
+- **Meta-Beschreibung**: Was bedeuten die Zollkontrollcodes 9710 und 9810, wie sich die direkte Ausfuhr von B2B von der Ausfuhr in Überseelager unterscheidet, die Registrierung und Einreichung erforderlich ist und was ein Fahrzeugexporteur mit dem örtlichen Zoll bestätigen muss.
+- **H1**: Zollkodex 9710 und 9810: How China's Cross-Border B2B Export Regimes Actually Differ
+- **Haupt-Keyword**: grenzüberschreitender E-Commerce b2b Export 9710 9810
+- **Sekundäre Suchbegriffe**: 9710 Zollcode; 9810 Export von Überseelagern; China B2B grenzüberschreitender E-Commerce; Überseelagerablage; grenzüberschreitende E-Commerce-Zollregistrierung
+- **Vorgeschlagene URL**: /guides/cross-border-ecommerce-b2b-export-9710-9810/
+- **Suchabsicht**: Zollkodex 9710 und 9810 verstehen: Wie Chinas grenzüberschreitende B2B Ausfuhrregelungen Eigentlich unterscheiden: Was ein Fahrzeug / Teile-Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/, /guides/comprehensive-bonded-zone-vat-refund-export/
 - **Bildvorschlag**: Ein Logistikkoordinator, der einen Übersee-Lagerfrachtbrief mit einer grenzüberschreitenden Erklärung auf dem Bildschirm abgleicht
-- **ALT Vorschlag**: Schreibtisch mit einem Übersee-Lagerfrachtbrief und einer grenzüberschreitenden Zollerklärung auf einem Monitor
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **ALT-Text**: Schreibtisch mit einem Übersee-Lagerfrachtbrief und einer grenzüberschreitenden Zollanmeldung auf einem Monitor
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 China hat zwei spezielle Zollkontrollcodes für grenzüberschreitende E-Commerce-Exporte zwischen Unternehmen hinzugefügt, nachdem Pilotprogramme das Modell bewiesen haben: ** 9710 ** für den grenzüberschreitenden E-Commerce B2B Direktexport und ** 9810 ** für den grenzüberschreitenden E-Commerce-Export in Überseelager. Die Zahlen sehen austauschbar aus, aber sie beschreiben verschiedene kommerzielle Zeitlinien, und die Wahl der falschen ändert sich, wenn ein Verkauf erkannt wird, wie Waren deklariert werden und welche Einreichungen vorher vorliegen müssen. In diesem Leitfaden werden jeder Code, die vorangestellte Berechtigungseinstellung und die Fragen erläutert, die ein Fahrzeug- oder Teileexporteur dem örtlichen Überwachungszoll stellen muss, anstatt durch Annahme zu antworten.
 

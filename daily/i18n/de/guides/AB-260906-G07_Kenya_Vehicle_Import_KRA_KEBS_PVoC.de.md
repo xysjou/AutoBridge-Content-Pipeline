@@ -1,16 +1,16 @@
 # Import von Fahrzeugen nach Kenia: KRA Customs, KEBS PVoC und der Standards Path
-## SEO Metadaten
-- **SEO Titel**: Kenia Fahrzeugimport: KRA Zollabgaben und KEBS PVoC Guide
-- **Meta Description**: Ein länderspezifischer Leitfaden für den Import von Fahrzeugen nach Kenia: KRA Zollverfahren und Steuern, die KEBS-Vorausfuhr-Konformitätsüberprüfung (PVoC) und wie die Regel für das rollende Fahrzeugalter veröffentlicht wird.
-- ** H1 **: Import von Fahrzeugen nach Kenia: KRA Customs, KEBS PVoC und der Standards Path
-- **Hauptschlüsselwort**: Kenia Fahrzeugimport KRA KEBS PVoC
-- **Secondary Search Terms**: Kenia KRA Fahrzeug Einfuhrzoll; KEBS PVoC Kraftfahrzeug; Import Standard Marke Kenia; Kenia Gebrauchtwagen Alter Regel; Kenia Einfuhrerklärung
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Search Intent**: 向肯尼亚出口车辆需经过哪些海关计税 装船前合格评定与标准 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+## SEO-Metadaten
+- **SEO-Titel**: Kenia Fahrzeugimport: KRA Zollabgaben und KEBS PVoC Guide
+- **Meta-Beschreibung**: Ein länderspezifischer Leitfaden für den Import von Fahrzeugen nach Kenia: KRA Zollverfahren und Steuern, die KEBS Vor-Export-Konformitätsüberprüfung (PVoC) und wie die Rolling Vehicle-Altersregel veröffentlicht wird.
+- **H1**: Import von Fahrzeugen nach Kenia: KRA Zoll, KEBS PVoC und der Standardpfad
+- **Haupt-Keyword**: Kenia Fahrzeugimport KRA KEBS PVoC
+- **Sekundäre Suchbegriffe**: Kenia KRA Fahrzeugimportzoll; KEBS PVoC Kraftfahrzeug; Import-Normierungszeichen Kenia; Kenia Gebrauchtwagenaltersregel; Kenia Importerklärung
+- **Vorgeschlagene URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Suchabsicht**: Importieren von Fahrzeugen nach Kenia: KRA Zoll, KEBS PVoC und der Standardpfad: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Bildvorschlag**: Mombasa Hafenfahrzeug-Importabwicklung mit KEBS und KRA Dokumenten
-- **ALT Vorschlag**: Fahrzeugimportdatei mit KEBS und KRA-Dokumenten und einem Hafenhof im Hintergrund
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **ALT-Text**: Fahrzeugimportdatei mit KEBS und KRA Papierkram und einer Hafenwerft im Hintergrund
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Kenia teilt einen Fahrzeugimport zwischen der Steuerbehörde und der Normungsorganisation auf, und der Normungsschritt erfolgt weitgehend ** bevor das Fahrzeug das Ursprungsland verlässt **. Die kenia revenue authority (kra) ** übernimmt die zollbewertung, zölle und die abfertigung; das kenia bureau of standards (kebs) ** führt das pre-export-überprüfungs-programm (pcoc) durch, das entscheidet, ob ein regulierter import kenia-standards entspricht. Dies ist ein keniaspezifischer Leitfaden; die Zahlen und Listen sind zeitsensibel und müssen aus den aktuellen KRA KEBS-Quellen gelesen werden.
 

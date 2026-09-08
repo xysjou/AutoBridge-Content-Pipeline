@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Import Chinese Trucks to Saudi Arabia: HS-First SABER & ZATCA Guide
 - **Meta Description**: Route a Chinese commercial truck into Saudi Arabia the correct order — exact HS code (87.01/87.04/87.05/8716), the SABER technical regulation that applies to that code, the certificate type it requires, then Fasah customs; plus the ZATCA light-vehicle vs truck distinction.
-- **Suggested URL**: /guides/import-chinese-truck-saudi-saso/
 - **H1**: Clearing a Chinese Commercial Truck Into Saudi Arabia: Start From the HS Code, Not From a Generic Process
 - **Primary Keyword**: import Chinese commercial truck Saudi Arabia HS code SABER ZATCA
 - **Secondary Search Terms**: SABER technical regulation by HS, SASO certificate type truck 8701 8704 8705, Saudi ZATCA tariff commercial vehicle, Fasah customs Saudi, GCC LHD truck certification, SABER PCoC SCoC vehicle
+- **Suggested URL**: /guides/import-chinese-truck-saudi-saso/
+- **Search Intent**: Understand Clearing a Chinese Commercial Truck Into Saudi Arabia: Start From the HS Code, Not From a Generic Process: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: HS-code-to-certificate routing diagram; SABER certificate-type decision tree; VIN-matched document set; ZATCA light-vehicle-vs-truck scope diagram
-- **ALT Suggestions**: "HS code to SABER technical regulation to certificate routing"; "certificate-type decision for Saudi truck import"
+- **Image Suggestion**: HS-code-to-certificate routing diagram; SABER certificate-type decision tree; VIN-matched document set; ZATCA light-vehicle-vs-truck scope diagram
+- **ALT Suggestion**: HS code to SABER technical regulation to certificate routing
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## Why "One National Process" Is the Wrong Starting Point for a Truck
 Saudi market-access material is often written for passenger cars and light vehicles and then copied onto heavy commercial trucks. For a tractor, cargo truck, special-purpose vehicle or trailer that shortcut is unsafe: **the applicable technical regulation, the required certificate type and even the tariff line all depend on the exact HS code**, and they are not identical across headings. This guide is therefore built **HS-first**, and it is specific to **Saudi Arabia**, not a generic "Middle East" statement. A separate distinction is maintained throughout: durable, officially documented rules are stated as such, while unconfirmed 2026 dealer claims appear only on a watchlist.
 ## Step 1 — Pin the Exact HS Code First

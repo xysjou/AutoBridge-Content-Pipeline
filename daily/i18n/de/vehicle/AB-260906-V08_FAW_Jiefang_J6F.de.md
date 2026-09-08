@@ -1,16 +1,16 @@
 # FW Jiefang J6F: China-Market Blue-Plate Light Truck Export Referenz
-## SEO Metadaten
-- **SEO Titel **: FAW Jiefang J6F Light Truck Export Specs: Motor, Fahrwerk, Nutzlast Guide
-- **Meta Description**: Chinesische Marktreferenz für den FAW Jiefang J6F Cab-over-Blue-Plate-Light-Truck: N2 Kategorie, Deutz-Serie Diesel-Option, Chassis Cargo-Karosserie und die Homologationsdokumente Exportkäufer müssen erhalten.
-- ** H1 **: FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Referenz
-- **Hauptschlüsselwort**: FAW Jiefang J6F Light Truck Export Spezifikationen
-- **Secondary Search Terms**: Jiefang J6F Light Truck; J6F Blue Plate N2; CA4DB1 Diesel 130; FAW Taxi Over Truck Export; Chinesischer Light Cargo Truck
-- **Suggested URL**: /vehicles/faw-jiefang-j6f/
-- **Search Intent**: 面向海外 B 端买家介绍 J6F 中国市场版本身份 底盘 动力 货箱与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- **Bildvorschlag**: Ein weißer FAW Jiefang J6F Taxi-leichter Lastwagen mit einer Kastenkarosserie in einem Yard
-- **ALT Suggestion**: Cab-Over FAW Jiefang J6F Leichtlastwagen mit einer Box-Ladung auf einem Logistikhof geparkt
-- **Schema Scope**: Article + Vehicle
+## SEO-Metadaten
+- **SEO-Titel**: FAW Jiefang J6F Light Truck Export Specs: Motor, Fahrwerk, Nutzlast Guide
+- **Meta-Beschreibung**: Chinesische Marktreferenz für den FAW Jiefang J6F Cab-over-Blue-Plate-Lkw: N2 Kategorie, Deutz-Serie Diesel-Option, Chassis / Cargo-Karosserie und die Homologation Dokumente Exportkäufer müssen erhalten.
+- **H1**: FAW Jiefang J6F: China-Market Blue-Plate Light Truck Export Referenz
+- **Haupt-Keyword**: FAW Jiefang J6F Light Truck Export Spezifikationen
+- **Sekundäre Suchbegriffe**: Jiefang J6F Light Truck; J6F Blue Platte N2; CA4DB1 Diesel 130; FAW Taxi über LKW Export; Chinesischer Leichtlastwagen
+- **Vorgeschlagene URL**: /vehicles/faw-jiefang-j6f/
+- **Suchabsicht**: FAW verstehen Jiefang J6F: China-Markt Blue-Plate Light Truck Export Referenz: Was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- **Bildvorschlag**: Ein weißer FAW Jiefang J6F Taxi-leichter Lastwagen mit einem Kastenkörper in einem Yard
+- **ALT-Text**: Cab-over FAW Jiefang J6F Leichtlastwagen mit einer Box-Ladung auf einem Logistikhof geparkt
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Der Jiefang J6F ist FAWs Taxi-over-Lkw im chinesischen Segment "Blue-Plate" N2 - Bruttogewicht unter 4.5 Tonnen, das Arbeitspferd der städtischen Verteilung. Leichtlast-Exportentscheidungen werden auf Motor, Getriebe, Achse, GVW Nutzlast, Chassis und Frachtkörper gemacht, so dass diese Seite folgt, dass Nutzfahrzeug-Logik eher als ein Pkw-Layout. Die Identität (FAW Jiefang Modelllinie, Cab-over N2 Light Truck) ist OEM-gegründet; die detaillierten Massen erfordern Homologationspapier.
 

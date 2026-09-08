@@ -1,15 +1,17 @@
 # Chery Arrizo 8 (艾瑞泽 8): a Chinese-Market 1.6T Saloon Spec Sheet for Export Buyers
 
-## SEO Meta- dados
-- ** Título SEO**: Chery Arrizo 8 Especificações e Guia de Comprador de Exportação (1.6TGDI, Referência China)
-- ** Descrição do Meta**: Mercado chinês Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm corpo, as distinções de corte que importa, e que os importadores verificar antes de encomendar.
-- ** URL sugerido**: /veículos/cereja-arrizo- 8/
-- ** H1 **: Chery Arrizo 8: Especificações de Mercado Chinês e Notas de Verificação de Exportação
-- **Chave-chave primária**: chery arrizo 8 specs export
-- ** Termos de pesquisa secundários**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensões, 艾瑞泽 8 exportação, Kunpeng SQRF4J16, exportação compacta chinesa sedan
-- ** Sugestões de ligação interna**: /guias/vínculo-chapéu-verificação-veículos-chinês/; /guias/combustível-combinação-combustível-combinação-veículos-china/; /guias/exportação-veículo-documento-pacote/
-- **Image Suggestions**: frente três quartos de Arrizo 8; capa do motor 1.6TGDI emblema; cabine traseira legroom; 7DCT selector
-- **ALT Sugestões**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensões 4780mm distância entre eixos 2790mm"
+## Metadados SEO
+- **Título SEO**: Chery Arrizo 8 Especificações e Guia de Comprador de Exportação (1.6TGDI, Referência China)
+- **Meta descrição**: Mercado chinês Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm corpo, as distinções de corte que importa, e que os importadores verificar antes de encomendar.
+- **H1**: Chery Arrizo 8: Especificações de mercado chinês e Notas de verificação de exportação
+- **Palavra-chave principal**: chery arrizo 8 especificações de exportação
+- **Termos de busca secundários**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensões, 艾瑞泽 8 exportação, Kunpeng SQRF4J16, exportação chinesa compacta sedan
+- **URL sugerida**: /vehicles/chery-arrizo-8/
+- **Intenção de busca**: Compreenda Chery Arrizo 8: Especificações de Mercado Chinês e Notas de Verificação de Exportação: o que um exportador de veículo / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Sugestão de imagem**: front three-quarter of Arrizo 8
+- **Texto ALT**: Chery Arrizo 8 1.6TGDI Sedan do mercado chinês
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: um salão próximo ao segmento B fica acima do campo de pequenos carros
 O Arrizo 8 é o salão de step-up de Chery, dimensionado entre os campos compactos tradicionais e B-segmento e arremessado em compradores que querem mais espaço traseiro do que um sedan de entrada. Para um exportador, a questão de abertura não é o preço, mas ** que linha de trem de potência está sendo citada**: a gama chinesa é construída em torno de um turbo 1.6-litre, e esta página documenta o carro de mercado chinês ** 1.6TGDI DCT (mercado de referência: CHINA)**. Cada número abaixo é uma especificação de referência do mercado chinês**, não uma especificação global — melodia de destino, homologação de emissões e equipamentos são definidos pelo mercado local, e nenhuma folha de especificação OEM no exterior foi capturada para este modelo no pacote de pesquisa.

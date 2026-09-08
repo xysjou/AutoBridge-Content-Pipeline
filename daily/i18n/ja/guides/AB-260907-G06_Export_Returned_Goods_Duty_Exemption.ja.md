@@ -1,16 +1,16 @@
 # 中国で返品された輸出物: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
-## ツイート メタデータ
-- **SEOのタイトル**: China Returned Export Goods Duty Exemption (One-Year & CBEC Rules) | AutoBridge
-- **メタ 記述**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under GACC Order 272,  the separate cross-border e-commerce six-month rule,  and  '元の状態' が要求するもの。
-- H1 **: 中国で返品された輸出物: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
-- **主なキーワード**:輸出返された商品デューティー免除規制中国
-- **二次検索条件**: 退运货物免税; GACC 順序 272 の記事 49; returned export goods one year; cross-border ecommerce returned goods six months; 元の状態のreimport
-- **混雑URL**: /ガイド/輸出入-商品-デューティ-免除-規制/
-- **Search Intent**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别、原状认定与已退税补缴
-- **内部リンクの提案**: /guides/cross-border-ecommerce- b2b-export-9710-9810/、/guides/customs-voluntary-disclosure-audit-tolerance/、/guides/comprehensive-bonded-zone-vat-refund-export/
-- **イメージ提案**: 元の輸出文書に対して検査される返された輸出車の部品
-- **ALTの提案**:元の輸出宣言の製紙品の横の点検の下の貨物を戻しました
-- **シュマスコープ**: 記事(商品・料金・レビュー・料金なし)
+## SEOメタデータ
+- **SEOタイトル**: 中国 輸出入 輸出入 関税免除(一年・CBEC規則) | オートブリッジ
+- **メタディスクリプション**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under  GACC  Order 272,  the separate cross-border e-commerce six-month rule,  and  '元の状態' が要求するもの。
+- **H1**: 中国で返品された輸出物: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
+- **主要キーワード**: 輸出は商品デューティー免除規制中国を返しました
+- **関連検索語**: 退运货物免税; GACC  Order 272 article 49; returned export goods one year; cross-border ecommerce returned goods six months; 元の状態のreimport
+- **推奨URL**: /guides/export-returned-goods-duty-exemption-regulation/
+- **検索意図**: 中国の返品された輸出品を把握: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **画像候補**: 元の輸出文書に対して検査される返された輸出車の部品
+- **ALTテキスト**: 原物輸出宣言書の横に点検の下の貨物を返済
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 輸出された商品が中国に戻ってくるとき — 部品の拒否されたバッチ, 目的地の受諾を失敗した車両, 未売の電子商取引株式 — デフォルトの仮定は、再インポートは、課税可能なイベントであるということです. 中国の税関ルールは特定の免除を提供しますが、商品を返品する理由、海外のどのくらいの期間、元の状態に戻ってくるかどうかは、しっかりと調整されています。 輸出業者は、中国で作られた商品に輸入関税と輸入段階の税金を払う任意の条件を逃します。 This guide separates the general one-year rule from the distinct cross-border e-commerce six-month track, 「元の状態」を説明します。  and  既に主張したリベートが支払われるべきフラグ。
 
@@ -18,10 +18,10 @@
 
 レイビーの行政措置の下  and  注文の義務のコレクション(中国順序の習慣の総管理No. 272)、 ** 芸術的 49 **,  goods that are re-imported **within one year** of export, **品質や仕様上の理由**,  and  自分の**元の状態**で、 輸入通関義務なしで持ち帰ることができる  and  再入国時の輸入段階税。 The current measures took effect on **1 December 2024**.
 
-Three conditions are conjunctive — all three must hold:
+3つの条件は包括的です。3つすべては保持しなければなりません。
 
 - **理由** 返品は、商業的心や普通の転売ルーティングの変更ではなく、品質や仕様の問題に帰属します。
-- **Time.** Re-entry occurs within one year from the date of export.
+-**時間。** 再入国は輸出の日付から1年以内に発生します。
 - ステータス** 商品は未処理で、未処理で、輸出された状態を保持しています。
 
 これは、毛布ではありません "中国は家無料"ルールです。販売、使用、組み立て、または海外で変更された委託は、元の状態に会いません。
@@ -65,7 +65,7 @@ GACC の発注のいいえ 272 記事 49 の下の、  when they return within o
 
 **電子商取引のトラックはどのように異なっていますか? ふりがな ふりがな
 
-Goods under codes 1210/9610/9710/9810 returning in original state within six months qualify under a special CBEC arrangement running 1 January 2026 to 31 December 2027.
+コードの下商品 1210/9610/9710/9810 元の状態に戻って 6 ヶ月以内に修飾します。 特別な CBEC アレンジを実行 1 1 1 1 1 1 1 1月 2026 に 31 12月 2027.
 
 **「元の状態」の商品がどの状態にあるかは、誰が決めるのか? ふりがな ふりがな
 
@@ -75,7 +75,7 @@ Goods under codes 1210/9610/9710/9810 returning in original state within six mon
 
 いいえ。 既に返品された商品に請求された輸出VATリベートは、税務手順で返済/逆転しなければなりません。
 
-**Can ordinary commercial unsold stock use the one-year rule?**
+**普通の商用非売品は1年制で使用できますか? アパート
 
 一般的なルールは品質や仕様の理由を必要とします。通常の再販売のルーティングは、それ自体が修飾されていない - 税関で事実を確認します。
 

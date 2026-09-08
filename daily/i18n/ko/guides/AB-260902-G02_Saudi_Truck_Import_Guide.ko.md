@@ -1,14 +1,17 @@
 # 사우디 아라비아에 중국 상업 트럭 수입: HS-First SABER, SASO 및 ZATCA Routing Guide
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 사우디 아라비아로 중국 트럭을 가져 오기: HS-First SABER & ZATCA 가이드
-- **마타 기술 **: 사우디 아라비아로 중국 상업 트럭을 루트 올바른 순서 — 정확한 HS 코드 (87.01/87.04/87.05/8716), 그 코드에 적용 된 SABER 기술 규정, 인증서 유형이 필요합니다, 다음 Fasah 세관; 플러스 ZATCA 빛 차량 대 트럭 구분.
-- **Suggested URL**: /guides/import-chinese-truck-saudi-saso/
-- ** H1 **: 사우디 아라비아에서 중국 상업 트럭을 정리: HS 코드에서 시작, 일반적인 프로세스에서 아닙니다
-- **Primary 키워드 **: 중국 상업 트럭 사우디 아라비아 HS 코드 SABER ZATCA 가져 오기
-- **세컨드리뷰 이용**: HS, SASO 인증형 트럭 8701 8704 8705, 사우디 ZATCA 관세 상업 차량, Fasah 세관에 의한 SABER 기술 규정 사우디, GCC LHD 트럭 인증, SABER PCoC SCoC 차량
-- ** 내부 링크 제안**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /guides/commercial-truck-fleet-procurement-china/
-- ** 이미지 제안**: HS 부호에 증명하는 격자판; SABER 증명서 유형 결정 나무; VIN 일치한 문서 세트; ZATCA 빛 차량 vs 트럭 범위 도표
-- **ALT 제안**: “SABER 기술 규정에 대한 HS 코드는 인증서 라우팅"; "사우미 트럭 수입에 대한 인증 유형 결정"
+## SEO 메타데이터
+- **SEO 제목**: 사우디 아라비아에 중국 트럭을 수입하십시오: HS - 첫번째 SABER & ZATCA 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
+- **메타 설명**: 사우디 아라비아로 중국 상업 트럭을 루트 올바른 순서 - 정확한 HS 코드 (87.01/87.04/87.05/8716), SABER 기술 규정이 해당 코드에 적용, 인증서 유형이 필요, 다음 Fasah 세관; 플러스 ZATCA 빛 차량 대 트럭 구분.
+- **H1**: 사우디 아라비아에서 중국 상업 트럭을 정리: 일반 프로세스에서 HS 코드에서 시작
+- **주요 키워드**: 중국 상용 트럭 사우디 아라비아 HS 코드 SABER ZATCA
+- **보조 검색어**: HS의 SASO의 증명서 유형 트럭 8701 8704 8705의 사우디 ZATCA 관세 상업적인 차량, Fasah 세관 사우디, GCC LHD 트럭 증명서, SABER PCoC SCoC 차량에 의하여 SABER 기술적인 규칙
+- **추천 URL**: /guides/import-chinese-truck-saudi-saso/
+- **검색 의도**: 중국 상업 트럭 Into 사우디 아라비아를 지우는 이해: 일반 절차에서 HS 코드에서 시작: 차량/부품 수출자가 확인해야 하는, 문서 및 주문에 투입하기 전에 결정.
+- **내부 링크 제안**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/
+- **이미지 제안**: HS -code-to-certificate 여정 도표
+- **ALT 텍스트**: HS 코드 SABER 인증 라우팅에 기술 규정
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## 왜 "하나의 국가 프로세스"는 트럭에 대한 잘못된 시작점입니다
 사우디 시장 접근 물자는 종종 여객 자동차와 빛 차량에 대 한 작성 하 고 무거운 상업 트럭에 대 한 복사. 트랙터,화물 트럭, 특수 목적 차량 또는 트레일러에 대한 단축은 안전하지 않습니다: ** 적용 가능한 기술 규정, 필요한 인증서 유형 및 관세 선은 모든 정확한 HS 코드에 따라 달라집니다 **, 그들은 두목에 걸쳐 동일하지 않습니다. 이 가이드는 이렇게 내장 **HS-first**, 그리고 **Saudi Arabia**, 일반적인 "Middle East"문이 아닌 특정입니다. 별도의 구분은 유지됩니다. 내구성이 뛰어나서 공식적으로 문서화 된 규칙은 2026 딜러가 시계 목록에만 표시되지 않는 반면에 명시됩니다.
 ## 단계 1 - 정확한 HS 코드 핀 먼저
@@ -65,18 +68,18 @@ Dealer 노트는 승용차 과정을 혼합, 내구성 규칙  and  한 "사우�
 **Did 사우디 정지는 2026의 대형 트럭에 대한 CE ECE를 받아 들입니까? ** 딜러는 날짜에 충돌을 주장하고 SASO 초원 부족; 그들에 의존하기 전에 HS 헤드에 대한 공식적으로 확인.
 ** 가장 일반적인 정리 실패는 무엇입니까? ** VIN/certificate/invoice mismatch; 모든 문서의 한 VIN 마스터 목록은 그것을 방지합니다.
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Saudi commercial-truck import (SABER/ZATCA), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Saudi commercial-truck import (SABER/ZATCA), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Saudi commercial-truck import (SABER/ZATCA), Leitfaden für Fahrzeugexport-Einkauf

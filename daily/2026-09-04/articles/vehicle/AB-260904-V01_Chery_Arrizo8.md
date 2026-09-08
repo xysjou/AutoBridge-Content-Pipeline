@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, China Reference)
 - **Meta Description**: Chinese-market Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
-- **Suggested URL**: /vehicles/chery-arrizo-8/
 - **H1**: Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
 - **Primary Keyword**: chery arrizo 8 specs export
 - **Secondary Search Terms**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽8 export, Kunpeng SQRF4J16, Chinese compact sedan export
+- **Suggested URL**: /vehicles/chery-arrizo-8/
+- **Search Intent**: Understand Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: front three-quarter of Arrizo 8; engine cover 1.6TGDI badge; rear cabin legroom; 7DCT selector
-- **ALT Suggestions**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensions 4780mm wheelbase 2790mm"
+- **Image Suggestion**: front three-quarter of Arrizo 8; engine cover 1.6TGDI badge; rear cabin legroom; 7DCT selector
+- **ALT Suggestion**: Chery Arrizo 8 1.6TGDI Chinese-market sedan
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a Near-B-Segment Saloon Sits Above the Small-Car Field
 The Arrizo 8 is Chery's step-up saloon, sized between the traditional compact and B-segment fields and pitched at buyers who want more rear space than an entry sedan. For an exporter the opening question is not price but **which powertrain line is being quoted**: the Chinese range is built around a 1.6-litre turbo, and this page documents the **1.6TGDI DCT Chinese-market car (REFERENCE MARKET: CHINA)**. Every number below is a **Chinese-market reference specification**, not a global spec — destination tune, emission homologation and equipment are set by the local market, and no OEM overseas specification sheet was captured for this model in the research pack.

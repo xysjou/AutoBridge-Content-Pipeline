@@ -1,15 +1,17 @@
 # Geely Galaxy L6 EM-i (2025) - 중국 시장 사양 및 수출 검증
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Galaxy L6 EM-i PHEV 2025: 중국 시장 사양 및 수출 구매자 가이드
-- **마타 기술 **: 중국 시장 Geely 갤럭시 L6 EM-i 플러그 인 하이브리드: 검증 된 크기, EM-i 파워 트레인, 두 개의 배터리 범위 라인, 그리고 수입자가 VIN에 의해 확인해야하는지.
-- ** H1 **: Geely Galaxy L6 EM-i (2025) - 중국 시장 사양 및 수출 검증
-- ** 출원 키워드 **: Geely 吉利银河 갤럭시 L6 银河 L6 사양 수출
-- **세컨드 검색 조건**: Geely Galaxy L6 수출; Galaxy L6 EM-i PHEV specs; 중국 PHEV 세단 수입품; EM-i 단 하나 속도 DHT; WLTP 범위를 가진 CLTC 대
-- **Suggested URL**: /vehicles/geely-galaxy- l6/
-- ** 수색 **: 了解 게릴리 吉利银河 갤럭시 L6 银河 L6 中国版规格, 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-lc-risk/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: Geely Galaxy L6 EM -i PHEV 2025: 중국 시장 사양 및 수출 구매자 가이드
+- **메타 설명**: 중국 시장 지리 갤럭시 L6 EM -i 플러그 인 하이브리드: 검증 된 치수, EM -i 파워 트레인, 두 개의 배터리 / 범위 라인, 그리고 수입자가 VIN에 의해 확인해야하는지.
+- **H1**: Geely Galaxy L6 EM -i (2025) - 중국 시장 사양 및 수출 검증
+- **주요 키워드**: 글리 / 吉利银河 갤럭시 L6 / 银河 L6 사양 수출
+- **보조 검색어**: Geely 은하 L6 수출; 은하 L6 EM - I PHEV specs; 중국 PHEV 세단 수입품; EM - I 단 하나 속도 DHT; CLTC 대 WLTP 범위
+- **추천 URL**: /vehicles/geely-galaxy-l6/
+- **검색 의도**: Geely Galaxy L6 EM -i (2025) - 중국 시장 사양 및 수출 검증: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 Geely Galaxy L6 EM -i (2025)를 설명합니다 - 중국 시장 Specs 및 수출 검증, 단계별 검사 또는 사람들은 주장하지 않습니다.
+- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Geely Galaxy L6 EM -i (2025)와 관련된 주제 - 중국 시장 사양 및 수출 검증, 중립 배경, 사람들이 또는 검사 행동 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트 및 모델 ID
 **Geely Galaxy L6 EM-i (2025) **는 중국 시장을 위해 건설된 소형 플러그 인 하이브리드 세단입니다. 이 페이지는 ** 2025 EM-i facelift line 만 **; 이전 Thor/8848 세 속도 DHT 버전은 다른 동력 발전이며 여기에 설명 된 EM-i 단일 속도 자동차와 혼합되지 않아야합니다. 참고 시장은 ** 중국**이며, 아래 모든 숫자는 ** 중국 시장 참조 사양**, 글로벌 또는 수출 균질 값이 아닙니다.
@@ -65,7 +67,6 @@ EM-i 라인은 전면 휠 드라이브이며 1.5 L 명을 단일 프론트 모�
 **호는 배터리 셀을 만들 수 있습니까?** 캡처 된 소스에서 OEM 확인되지 않기 때문에이 페이지는 공급자를 지명하지 않습니다.
 **Does AutoBridge는 수출 가격을 발행합니까?** 아니 — 목적지, 수량, 트림 라인, LHD RHD, 포트 및 Incoterm와 현재 인용을 요청합니다.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
@@ -83,18 +84,18 @@ EM-i 라인은 전면 휠 드라이브이며 1.5 L 명을 단일 프론트 모�
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 지리 갤럭시 L6 EM-i 2025
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 거릴라전 L6 EM-i 2025
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer
@@ -107,6 +108,5 @@ EM-i 라인은 전면 휠 드라이브이며 1.5 L 명을 단일 프론트 모�
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

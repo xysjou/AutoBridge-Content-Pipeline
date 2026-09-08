@@ -1,15 +1,17 @@
 # Shacman Delong X3000 Dump Truck — 8×4 Tipper Specs  and  مذكرات الاتحاد التصديري
 
-## SEO Metadata
-- ** عنوان المنظمة**: شاكمان X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide
-- ** وصف البيانات**: Shacman Delong X3000 tipper: 430 PS,8x4 reference build, Weichai motor, Fast 12-speed, 31 t GVW, 7.6 m rear-tip body, axles and export emission choices for fleet buyers.
-- ** URL المقتطع**: /مركبات/شخمان - x3000-dump-truck/
-- ** H1 **** شاكمان ديلونغ X3000 شاحنة مقطوعة: قسيس، وجهاز تصاميم، وخيارات بناء الصادرات
-- ** كلمة رئيسية**: Shacman X3000 dump truck specifications export
-- ** شروط البحث الثانية**: Shacman X3000 8x4 tipper, Delong 430 dump truck, Weichai WP12 430, Fast 12-speed tipper, Chinese 31t dump truck export, Shacman 6x4 dump truck,
-- ** Internal Link Suggestions**: /vehicles/sinotruk-howo- t7h-tractor/; /guides/commercial-truck-fleet-procurement-china/;guides/import-chinese-truck-saudi-saso/
-- ** اقتراحات مقدمة**: 8x4 من وجهة نظر الجانبية؛ و 7.6 متر من جسم العينة الخلفية؛ وألفاكس من نوع الإنسان وتعليقه؛ ويكيشي WP12 محرك؛ وإطار التجميل
-- ** الاقتراحات**: "Shacman Delong X3000 8x4 dump truck, (أ) بناء الإشارة الصينية؛ "X3000 7.6 metre rear-tipping body raised"; "Shacman X3000 tandem reduction axles"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide
+- **وصف Meta**: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, Weichai motor, Fast 12-speed, 31 t GVW, 7.6 m rear-tip body, axles and export emission choices for fleet buyers.
+- **H1**: Shacman Delong X3000 شاحنة مقطوعة: قسيس، وجهاز تصاميم، وخيارات بناء الصادرات
+- **الكلمة المفتاحية الرئيسية**: Shacman X3000 dump truck specifications export
+- **مصطلحات بحث ثانوية**: Shacman X3000 8x4 tipper, Delong 430 dump truck, Weichai WP12 430, Fast 12-speed tipper, Chinese 31t dump truck export, Shacman 6x4 dump truck,
+- **URL المقترح**: /vehicles/shacman-x3000-dump-truck/
+- **نية البحث**: أفهم "شاكمان ديلونج X3000 شاحنة مقطوعة: سلاسل، وهيئة تصاميم، وخيارات بناء الصادرات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من ذلك وأن يوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
+- **اقتراح الصورة**: 8x4 من وجهة نظر الجانبية
+- **نص ALT**: Shacman Delong X3000 8x4 dump truck, China reference build
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## الدور والمواءمة
 
@@ -49,8 +51,8 @@ X3000 عبوة مُعمدة في جميع أنحاء** الصين الخامسة
 - ** Axles and final drive**: the reference uses MAN-type double-reduction axles at 5.262 — suited to loaded/grade work; نسبة التأكيد على حجم الطريق والإطارات (12.00R20، 12 إطار عمل على 8 × 4)
 - ** ثماني مرات**: إعادة تأكيد 31 t من طراز GVW و 15.37 t من الحمولات المقومة على قواعد تحميل الأكسيد المرفئية وحمولة زائدة؛ تغيرات الجسمية في الوزن الرطب.
 - ** مخططات السحب**: اختيار 6 × 4 ضد 8 × 4 من الحمولة القانونية وشروط الطرق؛ وتوزيع 8 × 4 عبوة على أربعة أكاذيب.
-- ** Gearbox**: reference is a manual Fast 12-speed (13-speed on some China VI) - confirm transmission model and clutch spec; AMT/automatic is not assumed.
-- Confirm LHD/RHD, cab/sleeper, tank size and spare-parts chain for Weichai + Fast + MAN-type axles (a common, well-supported combination in many export markets).
+- Gearbox**: المرجع هو دليل على سرعة 12 سرعة (13 سرعة على بعض الصين السادسة) - تأكيد نموذج النقل ومطياف الوصل؛ AMT/automatic is not assumed.
+- تأكيد LHD/RHD، وسيارة أجرة/ميسرة، وحجم الدبابات، وسلسلة قطع الغيار لـ Weichai + Fast + MAN-type axles (وهي مزيج مشترك ومدعم جيدا في العديد من أسواق التصدير).
 
 ## طلب تخصيص موارد التصدير الحالية
 
@@ -65,30 +67,30 @@ X3000 عبوة مُعمدة في جميع أنحاء** الصين الخامسة
 ** مانونال أو تلقائيون** ويستخدم البناء المأخوذ به الإرسال اليدوي السريع (12/13-speed)؛ ويؤكد بدلا من افتراض التلقائي.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle dump/tipper truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) camion benne
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) Kipper
-  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) camión volqueta
-  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) caminhão basculante
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 ダンプカー
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 덤프트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) xe ben
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) รถดั๊มพ์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) truk dump
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) شاحنة قلابة
-  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 自卸车
+  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
+  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) / camión volqueta
+  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) / caminhão basculante
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 / ダンプカー
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 / 덤프트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) / xe ben
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถดั๊มพ์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) / truk dump
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
+  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
 ## المصدر: التحقق
 
@@ -97,12 +99,12 @@ X3000 عبوة مُعمدة في جميع أنحاء** الصين الخامسة
 | X3000 430 8 x 4 بارامترات | (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | صرخات | إعلان، WP12.430، صندوق التروس، الأوزان، الجسم، الأكسس، الإطارات | 360che
 | X3000 6 x 4 مقلب رسمي | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | مفقود | 11.6 L 400 PS 294 kW 2000 N·m, China VI |
 | X3000 من التحويل المتعدد مقارنة | (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | صرخات | 375–550 PS versions, الصين V/VI torque | 360che
-| X3000 دولي | منظمة شاكمان الدولية (رسمية) | الصادرات | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | مفقود | 80 km/h من السرعة القصوى، قاعدة العجلات، 385/400/430 خيار |
+| X3000 < | Organisationانت < رسم < https://www.shacmaninternational.cn/product-38.html . 2026-09-02 | | 80 km/h from the, Redsssss, 385/400/430 ?
 
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
 * مذكرة مصداقية (معيار أوتو بريدج): (أ) محرك التصدير البالغ 400 PS معتمد على قنوات شاكمان الرسمية؛ the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). السعر غير مكتمل و مغفل تأكدي من البناء النهائي على صحيفة (شاكمان) الدولية 

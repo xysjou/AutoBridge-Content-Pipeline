@@ -1,15 +1,17 @@
 # Leitura  and  Verificação do VIN de um veículo chinês  and  Nameplate Under GB 16735-2019
 
-## SEO Meta- dados
-- ** Título SEO**: VIN & Nameplate Verification for Chinese Vehicle Imports — GB 16735-2019
-- ** Descrição do Meta**: Como um VIN 17-character divide-se em WMI/VDS/VIS sob GB 16735-2019, por que VIN carimbado, placa de identificação, certificado e documentos de envio devem corresponder, e o que um importador deve verificar antes do pagamento.
-- ** URL sugerido**: /guides/vin-name-plate-verification-chinese-veículos
-- ** H1 **: VIN e verificação de placa de identificação para um veículo chinês: Estrutura, padrão e o jogo de quatro lugares
-- **Primary Keyword**: VIN verificação placa de identificação GB16735 veículo chinês
-- ** Termos de pesquisa secundários**: WMI VDS VIS estrutura, GB16735-2019 VIN, VIN posição do dígito de verificação 9, VIN consistência do certificado de placa de identificação, adulteração de VIN carimbado
-- **As sugestões de ligação interna**: /guias/exportações-veículo-documento-pacote/; /guias/exportações-estatuto-inspecção-declaração/; /veículos/jac- t9-hunter/
-- **Image Suggestions**: diagrama de segmento de 17-char VIN; checklist de quatro lugares; close-up de VIN carimbado
-- **ALT Sugestões**: " 17 caracteres VIN dividido em WMI VDS VIS abaixo de GB16735-2019 "
+## Metadados SEO
+- **Título SEO**: VIN & Verificação da placa de identificação para as importações de veículos chineses — GB 16735-2019
+- **Meta descrição**: Como um 17-character VIN divide em WMI/VDS/VIS abaixo de GB 16735-2019, por que carimbado VIN, placa de identificação, certificado e documentos de transporte deve corresponder, e o que um importador deve verificar antes do pagamento.
+- **H1**: VIN e verificação de placa de identificação para um veículo chinês: Estrutura, padrão e o jogo de quatro lugares
+- **Palavra-chave principal**: VIN verificação placa GB16735 veículo chinês
+- **Termos de busca secundários**: WMI VDS VIS estrutura, GB16735-2019 VIN, VIN posição do dígito de verificação 9, VIN consistência do certificado da placa de identificação, adulteração carimbada VIN
+- **URL sugerida**: /guides/vin-nameplate-verification-chinese-vehicles
+- **Intenção de busca**: Compreenda VIN e Verificação de Placa de Nome para um Veículo Chinês: Estrutura, Padrão e o Match de Quatro Lugares: o que um exportador de veículo/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- **Sugestão de imagem**: Diagrama de segmento de VIN 17-char
+- **Texto ALT**: 17 caracteres VIN divididos em WMI VDS VIS em GB16735-2019
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Por que a verificação do VIN está antes do pagamento
 Um descompasso do VIN é um dos poucos defeitos que bloqueia o registro **depois** o veículo já foi pago e enviado. A correção é barata no balcão de compras e caro no porto de destino. Este guia explica a estrutura do VIN chinês sob o padrão atual e dá uma verificação de consistência de quatro lugares os compradores podem executar antes de liberar o pagamento do saldo.

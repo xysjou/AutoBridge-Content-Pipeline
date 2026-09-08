@@ -1,14 +1,16 @@
 # 적재 차 40HQ 컨테이너에: 로드 계획에 따라 계산, 그리고 바다에 잡아
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 의 장점 자동차 40HQ에 적합? 컨테이너 적재 및 래싱 가이드
-- **마타 기술 **: 실제 40HQ 차량 탑재 가이드 - 전형적인 2-SUV의 랙로드 대 4-vehicle 이중 랙 시스템, ~ 8개의 스트랩, 로딩  and  a five-point stowage check before seal.
-- **Suggested URL**: /guides/container-vehicle-loading-lashing/
-- ** H1 **: 콘테이너 차량 선적과 채찍질: 계산, 선반, Sequence 및 사전 물개 체크
-- ** 일기 키워드 **: 많은 자동차가 40hq 컨테이너 적재 래싱에 어떻게 맞습니까
-- ** 보조 검색 조건 **: 40HQ 두 SUV, 더블 데크 자동차 랙 컨테이너, 차량 래싱 스트랩 휠 타이 다운, 컨테이너 변환, 컨테이너 자동차 로딩 시퀀스
-- ** 내부 링크 제안**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
-- ** 이미지 제안 **: 측 전망 stowage 도표; 바퀴 끈끈한 점; 당겨지는 두 배 선반; top+bottom 선적 순서
-- ** ALT 제안**: "40HQ 두 SUV 측면 스토우지"; "wheel tyre lashing eight straps"
+## SEO 메타데이터
+- **SEO 제목**: 몇 대의 자동차 40HQ에 적합? 컨테이너 적재 및 래싱 가이드
+- **메타 설명**: 실용적인 40HQ 차량 탑재 가이드 - 전형적인 2- SUV의 랙 로딩 대 4-vehicle 이중 선반 시스템, ~ 8개의 스트랩, 로딩  and  a five-point stowage check before seal.
+- **H1**: 컨테이너 차량 선적 및 래싱: 계산, 선반, Sequence 및 Pre-Seal 체크
+- **주요 키워드**: 얼마나 많은 자동차가 40hq 컨테이너 적재 래싱에 적합
+- **보조 검색어**: 40HQ two  SUV , 두 배 갑판 차 선반 콘테이너, 차량 끈끈함 바퀴 동점 아래로, RoRo to container 변환, 컨테이너 자동차 적재 시퀀스
+- **추천 URL**: /guides/container-vehicle-loading-lashing/
+- **검색 의도**: 콘테이너 차량 선적과 채찍질의 밑에: 조사, 선반, Sequence 및 전 물개 확인: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 대한 커밋하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **이미지 제안**: 측면 뷰 stowage 다이어그램
+- **ALT 텍스트**: 40HQ 두 SUV 측 stowage
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 질문 모두 먼저 물어보세요
 "40HQ에서 많은 자동차가?"는 보편적 인 대답이 없습니다. ** 차량 치수, 미러  폴딩, 랙 시스템 및 캐리어의 승인 된 도난 계획 **의 기능입니다. 이 가이드는 현실적인 밴드 및 방법을 줍니다; 그것은 deliberately 조정 조사를 약속하지 않습니다. 실제 측정된 부하 계획에 대한 모든 선적을 확인합니다.
@@ -54,24 +56,24 @@ Sequence 오류 (저차를 먼저로드  and  blocking rack access) are the most
 
 ## 자주 묻는 질문
 **Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack  and  승인 된 계획; SUV의 기존의 노랙 로딩은 일반적으로 두 개의 것입니다.
-**Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
+** 스트랩 부착은 어떨까요? ** 타이어 / 휠 타이 다운 포인트에 - 자동차 당 약 8 - 체스 또는 서스펜션에 아닙니다.
 **식사는 어떻게 다르나요?** Sedans 및 China-Europe Rail로드는 일반적으로 상자 당 세 가지를 달성합니다. 치수는 여전히 결정합니다.
 **왜 선반 상단을로드합니까?** 위 차량은 더 낮은 구획 선반 접근의 앞에 위치해야 합니다; 포크리프트 원조는 그(것)들을 안전하게 재개합니다.
 **문을 밀봉하기 전에 검사 된 것은 무엇입니까? ** 매치, 주문, 중력 및 정리 센터, 전체 고정 및 문 마진 - 사진.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf
@@ -90,8 +92,8 @@ Sequence 오류 (저차를 먼저로드  and  blocking rack access) are the most
 |---|---|---|---|---|---|---|
 | 차량 도난 측면 뷰 (2/box, 8 스트랩) | 화물 운송업자 물자 | - 연혁 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | 2-SUV의 균열; ~ 8 스트랩; 휠 방법 (원본) | https://m.11467.com/product/d42473652.htm
 | Yantai 항구 첫번째 4-SUV "Ro-to 콘테이너" 예심 | Qilu 저녁 뉴스 Toutiao | 담당자: Mr. wang | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE(싱글) | Upper2+lower2 선반; 선적 순서 (하나 보고된 예심) |
-| 중국 유럽 철도 자동차 선적 (3/box) | 하얼빈 철도 Toutiao | 담당자: Mr. wang | http://m.toutiao.com/group/6748371578787987979/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | Three-per-box sedan/rail reference (one source) |
-| Export container five-step loading method | 의논하기 | - 연혁 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | Five-point stowage check (one source) | https://www.163.com/dy/article/L42056IP05568MR2.html
+중국 철도 자동차 선적 (3 / 상자) | 하얼빈 철도 토우티아노 | 담당자: Mr. 광 | http://m.toutiao.com/group/6748371578787987979/if | 2026-09-03 | SINGLE_SOURCE(싱글) | 세박스 세단/레일 참조(원) |
+의논문 수출 컨테이너 5단계 적재 방법 | 의논 | - 연혁 | https: | 2026-09-03 | 싱글_스위스(싱글) | 5점 도수체 검사(원) | https://www.163.com/dy/article/L42056IP05568MR2.html
 *스코프 노트: 각 로딩 그림은 단일, 구별 된 소스 (모든 SINGLE_SOURCE)에서 온다 - 사실은 두 개의 독립적 인 소스에 의해 손상되지 않습니다, 그래서 아무도는 CROSS_를 라벨을 붙입니다... 계산은 문서화 된 문서 참조, 보장 된 도난; 정확한 번호는 항상 측정 된 치수와 승인 된 부하 계획 및 캐리어 터미널 규칙에 따라 예약 확인해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
 
 | IMO/ILO/UNECE 포장 화물 운송 단위 (CTU 부호)를 위한 연습의 부호 | 국제 해상기구 (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 화물 배포, 컨테이너를 포함한 CTU에 대한 채찍 및 고정 원칙 |

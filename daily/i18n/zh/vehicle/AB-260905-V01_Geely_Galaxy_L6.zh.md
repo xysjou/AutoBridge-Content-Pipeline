@@ -1,15 +1,17 @@
 # Geely Galaxy L6 EM-i (2025)——中马机样和出口核查
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: Geely Galaxy L6 EM-i PHEV 2025: 高尔夫球: 中国市场标本和导出 买方指南
-- ** 金属说明**: 中市Geelly Galaxy L6 EM-i插座混合:经验证的维度,EM-i电动列车,两条电池/测距线,进口商必须确认的是什么.
-- ** H1 **: Geely Galaxy L6 EM-i (2025) — 中国市场标本与出口核查.
-- ** 关键词**: Geely 吉利银河 Galaxy L6 银河 L6 光谱出口
-- ** 二级搜索术语**:Geely Galaxy L6出口;Galaxy L6 EM-i PHEV 规格; 中国 PHEV 轿车导入; EM-i 单速 DHT; CLTC vs WLTP 范围
-- ** 建议的URL**:车辆/大黄道-l6/
-- ** 搜索意向**:了解 Geely 吉利银河 Galaxy L6 银河 L6 中国版规格 配置与出口适配性 (车型参数页))
-- ** 内部链接建议**:车辆/大湖-银河-l6/、指南/国际贸易术语解释-2020-selection-guide/、指南/出口-付款-方法-t-t-lc-risk/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: Geely Galaxy L6  EM -i  PHEV  2025: 中国市场标本和导出 买方指南
+- **Meta描述**: 中国市场 Geely Galaxy L6 EM (英语). -i 插件混合式: 电源列车EM -i,两条电池/电程线,以及进口商必须证实的VIN。
+- **H1**: Geely Galaxy L6 EM -i (2025) — 中国市场标本与出口核查
+- **核心关键词**: Geely / 吉利银河 Galaxy L6 / 银河 L6 光谱出口
+- **次级搜索词**: Geely Galaxy L6出口;Galaxy L6 EM -i PHEV规格;中国PHEV轿车进口;EM -i单速DHT;CLTC vs WLTP范围
+- **建议URL**: /vehicles/geely-galaxy-l6/
+- **搜索意图**: 了解Geely Galaxy L6 EM -i(2025)——中国市场样本和出口核查:车辆/部件出口商在承诺下达订单前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **图片建议**: 现实的,文件/车辆的焦点场景,说明Geely Galaxy L6 EM -i(2025)——中马标本和出口核查,没有进行阶段检查或声称有人.
+- **ALT文本**: 近,自然看材料和与吉利银河号有关的课题L6EM-i(2025)——中马标本与出口核查,中立背景,没有显示人员或检查行动.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 买家上下文和模式身份
 **Geely Galaxy L6 EM-i(2025)**是紧凑型插座混合型轿车,为中国市场制造. 本页仅使用**2025 EM-i 面部提升线**; 较老的Thor/8848三速DHT版本是不同的动力列车发电,决不能与本文描述的EM-i单速车混合. 参考市场为**中国**,下图均为**中国市场参考规格**,不为全球或出口同位素值.
@@ -65,7 +67,6 @@ EM -i线是前轮驱动  and  pairs a 1.5 L naturally aspirated petrol engine wi
 电池是谁制造的? 所获取的源中未确认OEM, 因此本页没有列出供应商名称 。
 ** AutoBridge 是否公布出口价格? ** 否-请提供当前报价,其中包含目的地、数量、线条、LHD/RHD、端口和Incoterm。
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -83,18 +84,18 @@ EM -i线是前轮驱动  and  pairs a 1.5 L naturally aspirated petrol engine wi
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
-- ** MODEL_TOPIC_MATCH**: 准确的Geely Galaxy L6 EM-i 2025 数据格式化为原始文本
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Galaxy L6 EM-i 2025
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer
@@ -107,6 +108,5 @@ EM -i线是前轮驱动  and  pairs a 1.5 L naturally aspirated petrol engine wi
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

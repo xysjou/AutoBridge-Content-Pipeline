@@ -1,14 +1,17 @@
 # Importation de véhicules chinois au Chili: ALE Préférence, IVA et étape d'homologation 3CV
-## OEuvre Métadonnées
-- ** Titre du SEO**: Importation de véhicules électriques chinois au Chili: ALE Préférence, IVA et 3CV Guide
-- **Description détaillée**: Comment fonctionne la préférence ALE Chine-Chili pour les véhicules de construction chinoise, les douanes chiliennes 6% et 19% IVA confirmés officiellement, pourquoi un certificat d'origine est la condition, et comment 3CV l'homologation convient.
-- **URL suggérée**: /guides/import-chine-ev-chile-fta/
-- ** H1 **: Véhicules chinois au Chili: utiliser la préférence de l'ALE sans fausse calcul des coûts débarqués
-- **Mot-clé principal**: Chili Droit d'importation des véhicules de l'ALE Homologation IVA
-- **Conditions de recherche secondaires**: Chili aduana 6% arancel, Chili IVA 19% import, Chine Chili FTA certificat d'origine, Chili 3CV homologation, certificat origen TLC Chine Chili, EV import Chili
-- **Liens internes Suggestions**: /guides/véhicule-importation-paiement-tt-vs-lc/; /guides/marine-cargo-assurance-automobile-importation/; /véhicules/byd-yuan-plus/
-- **Suggestions d'image**: cascade de cheminées au Chili; flux de certificats d'origine de l'ALE; 3CV étapes d'homologation
-- ** Suggestions concernant les ALT**: "Temple de coûts d'importation du Chili: droits par rapport à l'IVA"; "exigence relative au certificat d'origine de l'ALE"; "Processus d'homologation du Chili 3CV"
+## Métadonnées SEO
+- **Titre SEO**: Importation de véhicules électriques chinois au Chili: FTA préférence, IVA & 3CV Guide
+- **Description meta**: Comment fonctionne la préférence Chine-Chili FTA pour les véhicules de construction chinoise, les douanes chiliennes 6% et 19% IVA confirmés officiellement, pourquoi un certificat d'origine est la condition, et comment 3CV l'homologation s'adapte.
+- **H1**: Véhicules chinois Au Chili: utiliser la préférence FTA sans fausser le calcul des coûts d'atterrissage
+- **Mot-clé principal**: Chili Chine FTA droit d'importation de véhicules IVA homologation
+- **Termes de recherche secondaires**: Chili aduana 6% arancel, Chili IVA 19% importation, Chine Chili FTA certificat d'origine, Chili 3CV homologation, certificat d'origine TLC Chine Chili, EV importation Chili
+- **URL suggérée**: /guides/import-chinese-ev-chile-fta/
+- **Intention de recherche**: Comprendre les véhicules chinois au Chili: utiliser la préférence FTA sans faire de mauvais calculs Coût d'atterrissage: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
+- **Suggestion d'image**: cascade de chute d'impôts au Chili
+- **Texte ALT**: Pile de coût des importations du Chili: droits contre IVA
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
 ## L'opportunité et l'erreur de calcul récurrente
 Le Chili applique des accords de libre-échange avec ses principaux partenaires, y compris la Chine**. Un véhicule d'origine chinoise conforme peut utiliser la préférence de l'ALE (ad-valorem **dust 0% **), tandis que le droit ad-valorem général du Chili est de 6% de la valeur en douane du CAF** pour l'origine non préférentielle — les deux étant maintenant ancrés dans des sources officielles (ci-dessous). L'erreur récurrente de l'acheteur est la lecture de «droit FTA 0%» comme «coût 0% à l'importation». Il n'est pas: ** 19% IVA s'applique toujours, le 0% dépend de l'origine prouvant, et l'homologation est un flux de travail séparé.** Ce guide est spécifique au **Chili**.
 ## La Tax Stack, Ligne par Ligne (officiellement fondée)
@@ -53,18 +56,18 @@ Guides génériques mélangent les règles de de-minimis de messagerie, les prop
 **Qu'est-ce que 3CV et qu'est-ce que ça coûte?** Le processus d'homologation des véhicules au Chili, qui permet l'immatriculation et la tarification/date, doit être cité par le certificateur — cet article n'affirme pas un numéro fixe.
 **Le droit d'utilisation de l'ANAC est-il réduit?** Non — il s'agit d'une proposition d'association 2026, non d'une loi promulguée; revérifier à l'expédition.
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf

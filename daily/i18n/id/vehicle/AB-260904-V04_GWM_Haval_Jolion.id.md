@@ -1,15 +1,17 @@
 # GWM Haval Jolion: One Nameplate, Market- Specific Powertrains a Buyer Must Not Blend
 
-## SEO Metadata
-- ** Judul SEO **: Haval Jolion Haval Chulian Identity & Market- Spects Specific - Ekspor Panduan
-- ** Meta Description **: Sejarah GWM sendiri menegaskan Haval Chulian (哈弗初恋) dijual di luar negeri sebagai Haval Jolion di tingkat bawah - tapi Cina 1.5T dan luar negeri HEV powertrains berbeda dan terdaftar oleh pasar, tidak pernah bergabung.
-- ** Sugested URL **: kendaraan haval- jolion
-- ** H1 **: GWM Haval Jolion: Nama Identitas Dikonfirmasi, dengan Cina dan Luar Laut Powertrains TERJAUH
-- ** Primary Keyword **: haval jolion china specs export
-- Haval Chulian Model yang sama, Jolion 1.5T, Jolion HEV di luar negeri, sejarah GWM Jolion Afrika Selatan Saudi, dimensi Jolion
-- ** InfornLink Sugestions **: guide vin-plate- verification- chinese- kendaraan guide emision- furibility -chini- kendaraan kendaraan chery-fulwin- t9/
-- *** Saran Gambar **: Jolion depan tiga perempat; 1.5T vs perbandingan lencana HEV; kargo belakang; GWM catatan identitas halaman-halaman
-- "Haval Jolion Cina 1.5T kompak SUV dengan HEV luar negeri tetap terpisah"
+## Metadata SEO
+- **Judul SEO**: Haval Jolion / Haval Chulian Identity & Market-Specs Specific - Ekspor Guide
+- **Deskripsi Meta**: Sejarah GWM menegaskan bahwa Haval Chulian (哈弗初恋) dijual di luar negeri sebagai Haval Jolion di tingkat bawah - namun 1.5T dan di luar negeri HEV tenaga kuda berbeda dan terdaftar oleh pasar, tidak pernah bergabung.
+- **H1**: GWM Haval Jolion: OEM -Dikonfirmasi Identitas Nama, dengan Cina dan Luar Laut Powertrains Disimpan Selain
+- **Kata kunci utama**: ekspor spesifikasi joval china
+- **Istilah pencarian sekunder**: Haval Chulian Jolion model yang sama, Jolion 1.5T, Jolion HEV luar negeri, GWM sejarah Jolion Afrika Selatan Saudi, dimensi Jolion
+- **URL yang disarankan**: /vehicles/haval-jolion/
+- **Maksud pencarian**: Mengerti GWM Haval Jolion: OEM -Dikonfirmasi Nama Identitas, dengan Cina dan Luar Negeri Powertrains Disimpan Selain: apa kendaraan / bagian eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/chery-fulwin-t9/
+- **Saran gambar**: Jolion depan tiga perempat
+- **Teks ALT**: Haval Jolion China 1.5T compact SUV dengan luar negeri HEV terus terpisah
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Identitas Pertama: OEM Mengkonfirmasi Nama, Bukan Sebuah Lembar Data Global
 "Jolion" adalah nama pasar yang berlebihan untuk SUV compact Cina yang dijual di rumah sebagai Haval Chulian (哈弗初恋). Tidak seperti alias yang digambar dari tampilan atau platform, identitas nama ini ** dikonfirmasi oleh halaman sejarah perusahaan sendiri **, yang merekam versi luar negeri Haval Chulian, * JOLION ** JOLION *, yang diluncurkan di * Afrika Selatan dan Arab Saudi ** (dengan JOLION HEV di Thailand). Berdasarkan MODEL _ ALIAS _ REQUIREIREES _ OEM _ PROOF identitas dasar ** adalah SAME _ MODEL **. Batas penting: konfirmasi OEM dari nama ** tidak ** membuat setiap pasar * powertrain dan trim * identik. Cina 1.5T, Australia 1.5T dan luar negeri HEV terdaftar di bawah ** oleh pasar **, dan tidak ada "spesifikasi global" yang diucapkan.

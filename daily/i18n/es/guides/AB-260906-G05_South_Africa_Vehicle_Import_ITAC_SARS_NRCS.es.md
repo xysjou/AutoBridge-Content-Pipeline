@@ -1,16 +1,16 @@
 # Importar vehículos a Sudáfrica: permiso ITAC, aduanas SARS y LOA NRCS
-## SEO Metadatos
-- **SEO Título**: South Africa Vehicle Import: ITAC, SARS and NRCS LOA Explained
-- **Meta Descripción**: Guía específica para la importación de vehículos a Sudáfrica: permiso de importación del CAC, carta de autoridad del NRCS y proceso aduanero del SRAS, con los organismos y el orden de pasos.
-- ** H1 **: Importación de vehículos en Sudáfrica: permiso ITAC, aduanas SARS y LOA NRCS
-- **Primary Keyword**: importación de vehículos de Sudáfrica ITAC SARS NRCS LOA
-- **Segundary Search Terms**: ITAC import permit South Africa; NRCS letter of authority vehicle; SARS customs vehicle import; import used car South Africa; LOA motor vehicle
-- **Suggested URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Intent de búsqueda**: 向南非出口车辆需要哪些进口管制许可, 海关税务与强制合规 (LOA), 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
-- **Sugerencia de imagen**: procesamiento de vehículos portuarios de Sudáfrica con permiso y documentos aduaneros en un escritorio
-- **ALT Sugerencia**: permiso de importación de vehículos y papeleo aduanero en un escritorio con un patio de puerto sudafricano más allá
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadatos SEO
+- **Título SEO**: Importación de vehículos de Sudáfrica: ITAC, SARS y NRCS LOA Explicado
+- **Meta descripción**: Guía específica para la importación de vehículos a Sudáfrica: el permiso de importación de ITAC, NRCS Carta de Autoridad y SARS procesos aduaneros, con los organismos y el orden de pasos.
+- **H1**: Importar vehículos a Sudáfrica: ITAC Permiso, SARS aduanas y NRCS LOA
+- **Palabra clave principal**: Sudáfrica importación de vehículos ITAC SARS NRCS LOA
+- **Términos de búsqueda secundarios**: ITAC permiso de importación Sudáfrica; NRCS cartas de autoridad vehículo; SARS importaciones de vehículos aduaneros; importación de vehículos usados Sudáfrica; LOA vehículos de motor
+- **URL sugerida**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Intención de búsqueda**: Comprender la importación de vehículos a Sudáfrica: ITAC Permiso, SARS Aduanas y NRCS LOA: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
+- **Sugerencia de imagen**: Transporte portuario sudafricano con permiso y documentos aduaneros en un escritorio
+- **Texto ALT**: Permiso de importación de vehículos y papeleo aduanero en un escritorio con un patio de puerto sudafricano más allá
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Sudáfrica gestiona las importaciones de vehículos a través de tres autoridades distintas, y confundirlas es la razón más común de un puesto de carga. La Comisión de Administración de Comercio Internacional (ITAC)** controla si el vehículo puede ser importado en absoluto; el Regulador Nacional de especificaciones obligatorias (NRCS)** controla si cumple con las especificaciones de seguridad obligatorias mediante una Carta de Autoridad; y el ** Servicio de Impuestos de Sudáfrica** evalúa y recoge los derechos de aduana y los impuestos de limpieza. Esta es una guía específica para África del Sur, no es una norma regional para los países vecinos.
 

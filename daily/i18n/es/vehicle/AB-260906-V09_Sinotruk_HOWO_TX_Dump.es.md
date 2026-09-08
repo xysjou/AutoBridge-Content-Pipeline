@@ -1,16 +1,16 @@
 # Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference
-## SEO Metadatos
-- **SEO Título**: Sinotruk HOWO TX Dump Truck Export Specs: Driveline, Axles, Chassis Guide
-- **Meta Descripción**: Referencia del mercado chino para el tinte pesado de Sinotruk HOWO TX: 6x4/8x4 diseños, una línea de tracción Weichai/HW mantenida como muestra, eje y enfoque de chasis, y los documentos de homologación que necesitan los compradores exportadores.
-- ** H1 **: Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference
-- **Primary Keyword**: Sinotruk HOWO TX camión de exportación especificaciones
-- **Segundary Search Terms**: Cena TX de HOWO; camión de volcado Sinotruk 8x4; WP10H 400; caja de cambios HW19712; exportación de cobre pesado chino
-- **Suggested URL**: /vehicles/sinotruk-howo-tx-dump/
-- **Búsqueda Intent**: 面向海外 B 端买家介绍豪沃 TX 自卸车中国市场版本身份, 驱动 动力链 底盘与版本边界
-- **Internal Link Suggestions**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
+## Metadatos SEO
+- **Título SEO**: Sinotruk HOWO TX Especificaciones de exportación de camión de bombas: Conducción, ejes, guía de chasis
+- **Meta descripción**: Referencia del mercado chino para el sinotruk HOWO TX de cobre pesado: 6x4/8x4 diseños, una muestra Weichai / HW de línea de transmisión mantenido como una muestra, eje y enfoque de chasis, y los documentos de homologación de exportación necesidad compradores.
+- **H1**: Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Reference
+- **Palabra clave principal**: Sinotruk HOWO TX productos de exportación de camiones de vertedero
+- **Términos de búsqueda secundarios**: HOWO TX tipper; camión de volcado Sinotruk 8x4; WP10H 400; HW19712 caja de cambios; exportación de tipa pesada china
+- **URL sugerida**: /vehicles/sinotruk-howo-tx-dump/
+- **Intención de búsqueda**: Comprender Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Referencia: qué debe verificar, documentar y decidir un vehículo/partes exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
 - **Sugerencia de imagen**: Un Sinotruk 8x4 Camión de volcado TX con cama de cobre levantada en un patio de construcción
-- **Sugerencia de ALT**: camión de descarga de Sinotruk HOWO TX 8x4 con su cuerpo de cobre parcialmente elevado en un sitio de construcción
-- **Schema Scope**: Article + Vehicle
+- **Texto ALT**: Sinotruk HOWO TX 8x4 camión de volcado con su cuerpo de cobre parcialmente elevado en un sitio de construcción
+- **Alcance del esquema**: Artículo + Vehículo
 
 El HOWO TX es el camión pesado de Sinotruk China National Heavy Duty Truck Group (camión de bomba) para la construcción y el transporte de mucacas, vendido en 6 × 4 y 8 × 4 tracción. La compra de material pesado es sobre la línea de tracción, ejes, peso combinado bruto, taxi y chasis, y sobre reconocer que una especificación de muestra no representa toda la matriz modelo. El estado de HOWO como la marca de disco pesado núcleo de Sinotruk se confirma por las revelaciones oficiales de la empresa; las cifras detalladas de trabajo provienen del papel de homologación.
 

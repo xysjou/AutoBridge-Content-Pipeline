@@ -1,15 +1,17 @@
 # Versand eines Elektrofahrzeugs auf dem Seeweg unter IMDG 42-24: UN3556, UN3171 und die Ersatzbatterie-Distinktion
 
-## SEO Metadaten
-- **SEO Titel**: EV Seefracht unter IMDG 42-24 - UN3556/3557/3558 vs UN3480/3481
-- **Meta Description**: Von 2026 Lithium-Ionen-Fahrzeuge mit Batterieschiff als UN3556 (Lithium-Metall UN3557, Natrium-Ion UN3558) unter IMDG Änderung 42-24 installiert; UN3171 ist verengt und lose Batterien verwenden UN3480/3481 mit UN38.3.
-- **Vorgeschlagene URL**: /guides/ev-shipping- un3556-imdg-compliance
-- ** H1 **: Klassifizierung eines batteriebetriebenen Fahrzeugs für die Seefracht nach dem aktuellen IMDG-Code (Änderung 42-24)
-- ** Primäres Keyword**: UN3556 Lithium-Ionen-Fahrzeug IMDG 42-24 Versand
-- **Secondary Search Terms**: UN3557 Lithium-Metall-Fahrzeug, UN3558 Natrium-Ionen-Fahrzeug, P912 Packanweisung, SP405 Markierung, UN3171 verengt, UN3480 UN3481, UN38.3 Handbuch der Tests rev8
-- **Interne Linkvorschläge**: /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/; /vehicles/wuling-bingo/
-- **Bildvorschläge**: Aufteilung der Gesamtfahrzeug-/Loserbatterie-Nr. der UN; Schild der Klasse 9; Kennzeichnungsschema P912/SP405
-- **ALT Vorschläge**: " UN3556 eingebautes Batteriefahrzeug gegenüber UN3480 loser Batterie unter IMDG 42-24 "
+## SEO-Metadaten
+- **SEO-Titel**: EV Seefracht unter IMDG 42-24 — UN3556/3557/3558 vs. UN3480/3481
+- **Meta-Beschreibung**: Von 2026 Lithium-Ionen-Fahrzeuge mit Batterieschiff als UN3556 (Lithium-Metall UN3557, Natrium-Ionen UN3558) unter IMDG Änderung 42-24 installiert; UN3171 wird eingeengt  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current  IMDG  Code (Amendment 42-24)
+- **Haupt-Keyword**: UN3556 Lithium-Ionen-Fahrzeug IMDG 42-24 Versand
+- **Sekundäre Suchbegriffe**: UN3557 Lithiummetallfahrzeug, UN3558 Natriumionenfahrzeug, P912 Packungsanweisung, SP405 Markierung, UN3171 verengt, UN3480 UN3481, UN38.3 Prüfhandbuch rev8
+- **Vorgeschlagene URL**: /guides/ev-shipping-un3556-imdg-compliance
+- **Suchabsicht**: Understand Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current  IMDG  Code (Amendment 42-24): was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Bildvorschlag**: Ganzfahrzeug vs. Lose-Batterie UN Nummer geteilt
+- **ALT-Text**: UN3556 eingebautes Batteriefahrzeug im Vergleich zu UN3480 loser Batterie unter IMDG 42-24
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## The Classification Changed — Old UN3171 Habits Are Now Wrong
 Eine gängige Praxis vor 2026 war es, jedes batteriebetriebene Fahrzeug unter ** UN3171 ** zu buchen. Unter dem **aktuellen verbindlichen IMDG-Code, Änderung 42-24 ** (angenommen durch IMO-Entschließung **MSC. 556 (108) ** und **obligatorisch in China von 2026-01-01 ** gemäß dem offiziellen Text der China Maritime Safety Administration), ist das für Mainstream-Lithiumfahrzeuge nicht mehr korrekt. Verwenden Sie die alte Nummer auf einem 2026 Erklärung ist ein Klassifizierungsfehler, der den Papierkram bei der Buchung von gefährlichen Gütern stoppt.

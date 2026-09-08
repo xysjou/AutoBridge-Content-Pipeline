@@ -1,16 +1,16 @@
 # Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Referencia para la Exportación
-## SEO Metadatos
-- **SEO Título**: Geely Galaxy E8 (Yinhe E8) Especies de exportación: batería, rango, guía de carga
-- **Meta Descripción**: Referencia del mercado chino para el SEA basado en Geely Galaxy/Yinhe E8 sedán eléctrico: variantes de motor, rango CLTC y opciones de batería mantuvieron caveats de carga de 800V y controles de exportación EV.
-- ** H1 **: Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export
-- **Primary Keyword**: Geely Galaxy E8 Yinhe E8 especciones de exportación
-- **Segundary Search Terms**: Galaxy E8 SEA architecture; Yinhe E8 CLTC range; Galaxy E8 800V charge; Exportación de sedán eléctrico geely; E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Búsqueda Intent**: 面向海外 B 端买家介绍银河 E8 中国市场版本身份, 三电 续航 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Sugerencia de imagen**: Frente de tres cuartos de un Geely Galaxy E8 sedán eléctrico de retroceso completo con su firma de luz de ancho completo
-- **ALT Sugerencia**: Vista frontal de tres cuartos de un Geely Galaxy E8 sedán eléctrico que muestra la barra de luz y la línea de techo de retroceso
-- **Schema Scope**: Article + Vehicle
+## Metadatos SEO
+- **Título SEO**: Geely Galaxy E8 (Yinhe E8) Exportar Especies: Batería, Distancia, Guía de carga
+- **Meta descripción**: Referencia del mercado chino para el SEA -basado Geely Galaxy/Yinhe E8 sedán eléctrico: variantes de motor, CLTC opciones de batería y rango mantuvieron caveats de carga trim-specific, 800V y EV controles de exportación.
+- **H1**: Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Referencia para la Exportación
+- **Palabra clave principal**: Geely Galaxy E8 Yinhe E8 especciones de exportación
+- **Términos de búsqueda secundarios**: Galaxy E8 SEA arquitectura; Yinhe E8 CLTC gama; Galaxy E8 800V carga; Exportación de sedán eléctrico geely; E8 475 kW AWD
+- **URL sugerida**: /vehicles/geely-galaxy-e8/
+- **Intención de búsqueda**: Comprender Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Referencia para la exportación: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Sugerencia de imagen**: Frente de tres cuartos de un Geely Galaxy E8 sedán eléctrico de retroceso con su firma de luz de ancho completo
+- **Texto ALT**: Vista frontal de tres cuartos de un Geely Galaxy E8 sedán eléctrico que muestra la barra de luz y la línea de techo de respaldo rápido
+- **Alcance del esquema**: Artículo + Vehículo
 
 El Galaxy E8 (Yinhe E8) es el sedán eléctrico de rápidas de Geely en el SEA (Sustainable Experience Architecture) — un coche eléctrico de batería de cinco asientos y bajo tracción (unos 0.199 Cd) ofrecido en formas de tracción trasera y de doble motor de todo el volante. Debido a que es un EV, la decisión de compra se convierte en batería, ciclo de prueba, arquitectura de carga y software, no en un solo número de potencia de encabezado. Todo a continuación es una referencia **Chino-mercado (CLTC)**; las versiones de exportación y sus estándares de carga requieren pruebas OEM separadas.
 

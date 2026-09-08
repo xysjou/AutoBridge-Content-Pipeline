@@ -1,15 +1,17 @@
 # 지불하기 전에 중국 자동차 수출 공급 업체를 검증하는 방법: Due-Diligence Checklist
 
-## ▼ 한국어 메타데이터
-- **SEO Title**: 중국 자동차 수출 공급 업체 검증: Due-Diligence Checklist
-- **마타 기술 **: 중국 차량 수출 업체를 vetting 지불 단계 결산 프레임 워크 - MIIT 발표 CCC 자격, 비즈니스 라이센스 검사, 수출 승인 체인, AEO, 은행 계정 일치 및 비디오 - 승인 표준.
-- **Suggested URL**: /guides/verify-china-car-export-supplier/
-- ** H1 **: 중국 차량 수출업자를 Vetting: Verify에 대한 정보 첫 지불액의 앞에
-- ** 출원 키워드**: 중국 자동차 수출 공급 업체 확인 diligence license
-- **세컨드리뷰 이용 약관**: 중국 차량 수출 자격, MIIT 차량 제조 업체 발표, CCC 인증서 수출, gsxt 비즈니스 라이센스 확인, 중국 자동차 수출 승인 체인, AEO 세관 신용
-- ** 내부 링크 제안**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/used-nese-ev-inspection/; /guides/commercial-truck-fleet-procurement-china/
-- ** 이미지 제안 **: 불균형 층계 피라미드; gsxt 사업 면허 검사 분야; 허가 사슬 도표; 은행 계정 경기 경고
-- **ALT 제안**: "중국 자동차 수출 업체가 diligence 검증 층"; "국가 기업 신용 정보 시스템 라이센스 필드"; "공장 승인 체인에 공급"
+## SEO 메타데이터
+- **SEO 제목**: 중국 자동차 수출 공급 업체 검증: Due-Diligence Checklist
+- **메타 설명**: 중국 차량 수출 업체를 vetting 지불 단계 결산 프레임 워크 - MIIT 발표 / CCC 자격, 비즈니스 라이센스 검사, 수출 승인 체인, AEO, 은행 계정 일치 및 비디오 거래 표준.
+- **H1**: 중국 차량 수출업자를 Vetting: 첫 지불액의 앞에 Verify에 관하여
+- **주요 키워드**: 중국 자동차 수출 업체를 diligence license 인증 획득
+- **보조 검색어**: 중국 차량 수출 자격, MIIT 차량 제조 업체 발표, CCC 인증서 수출, gsxt 비즈니스 라이센스 검사, 중국 자동차 수출 승인 체인, AEO 세관 신용
+- **추천 URL**: /guides/verify-china-car-export-supplier/
+- **검색 의도**: 중국 차량 수출업자를 Vetting 이해하십시오: Verify에 대한 정보 첫 지불액의 앞에: 차량/부품 수출자는 확인해야 하고, 문서는 순서에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **이미지 제안**: 불면증 층 pyramid
+- **ALT 텍스트**: 중국 자동차 수출 업체의 diligence 검증 층
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 문제 이 해결
 
@@ -90,18 +92,18 @@
 ** 실제로 수출은 어떤 보증? ** 최근 (≈ 3-month) 수출 신고와 라인, 주식, QC 및 로드 독의 라이브 감사, 주장에 대한 크로스 검사.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf
@@ -119,13 +121,13 @@
 
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 더 규제 수출 순서에 대한 공지 | MOFCOM 외. (기본사장, 공식 T1) | 담당자: Mr. wang | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MIIT 발표 + CCC 수출 본부 |
-| 2024 Announcement No. 6 (사용 차 수출 기업 상태) | MOFCOM (공식 T1) | 담당자: Mr. wang | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중고차 수출업체 조건 |
-| 중국 공급자 사업 면허를 검사하는 방법 | Goodcan 거래 (산업, gsxt.gov.cn에 포인트) | 담당자: Mr. wang | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_체크 | gsxt 인증 필드 |
+더 많은 거래가 가능한 상품 (기본사장, 공식 T1) | 담당자: 담당자: Mr. wang | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MIIT 발표 + CCC 수출 본부 |
+| 2024년 공지 6 (사용 차 수출 기업 상태) | MOFCOM (공식 T1) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중고차 수출업체 조건 |
+굿캐시 거래는 고객님의 개인 정보를 보호하고 있습니다. 담당자: Mr. 광 | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_체크 | gsxt 인증 필드 |
 | 중국 공장을 확인하는 방법 합법적 인 | Plutonia 글로벌 물류 | CN/글로벌 | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_체크 | 계정 이름 일관성, 공장 감사 |
 | 8-step 중국 자동 수출 공급 업체를 확인하는 가이드 | huajiame (산업) | 담당자: Mr. wang | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier 통해 구매 | 2026-09-02 | CROSS_체크 | 계층 감사 프레임 워크, AEO |
 | 차량 수출 조달 노트 | (顺企网의 기업) | 담당자: Mr. wang | https: | 2026-09-02 | CROSS_체크 | 라이브 비디오-오직 최소, 선언 크로스 체크 | https://m.11467.com/blog/d18906274.htm 11467
-| 국내 트럭 수출 절차 | 광저우 푸장 무역 | 담당자: Mr. wang | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_체크 | 공인 기관, 인증 기관을 통해 수출 | 11467
+광저우 푸장주택 주소: 담당자: Mr. 광 | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_체크 | 인증기관 | 11467
 
 *Confidence 참고 (AutoBridge 표준): 2026 응용 프로그램 통지 (商办贸函 〔 2025 〕 408 号) 및 공동 공지 사항 No. 54 순수 EVA 여객 수출 라이센스를 포함한 주요 MOFCOM MIIT 소스 (VERIFIED)에 대한 자격 규칙을 복원합니다. 현재 년 자격있는 목록과 AEO 쿼리는 동적이며, 실시간 검사 목록 항목은 업계에 자원 및 공식 시스템에 다시 포인트입니다. ****************************************************************************************************************************************************************************************************************************************************************
 

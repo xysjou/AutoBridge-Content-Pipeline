@@ -1,14 +1,17 @@
 # Importação de um EV chinês para a Rússia a EAEU: Aprovação de Tipo, ERA-GLONASS e os Documentos que devem concordar
-## SEO Meta- dados
-- ** Título SEO**: Importar um EV chinês para a Rússia: Homologação da EAEU e Caminho Aduaneiro
-- ** Descrição do Meta**: The Russia/EAEU conformity route for a Chinese EV — TR CU 018/2011 OTTC vs SBKTS, ERA- GLONASS nos termos do regulamento, EPTS, a regra relativa às licenças de exportação da China 2026,  and  exactamente o que confirmar antes de pagar.
-- ** URL sugerido**: /guides/import-chinese-ev-to-russia-eac-ottc/
-- ** H1 **: Como um veículo elétrico chinês limpa a Rússia a EAEU: Rota de Conformidade e Papelada Aduaneira
-- **Chave principal**: importar EV chinês para a Rússia Alfândegas da CEEA
-- ** Termos de pesquisa secundários**: TR CU 018/2011 veículos de rodas, aprovação de tipo de veículo da EAEU, certificado de veículo único SBKTS, exigência ERA-GLONASS, passaporte eletrônico EPTS, licença de exportação EV China 2026
-- **As sugestões de ligação interna**: /guias/veículo-importação-pagamento-tt-vs-lc/; /guias/carga-seguro-carro-importação/; /guias/verify-china-carro-fornecedor/
-- **Image Suggestions**: OTTC-versus SBKTS route diagram; EAC conformity mark; ERA-GLONASS terminal and SOS button; documento-nome consistência fluxo
-- **ALT Sugestões**: "Rotas de certificação de veículos da UEOOTTC versus SBKTS"; "Marca de conformidade EAC"; "documentos que devem nomear o mesmo importador e VIN"
+## Metadados SEO
+- **Título SEO**: Importar um chinês EV para a Rússia: EAEU Tipo de homologação e caminho aduaneiro
+- **Meta descrição**: A rota de conformidade Rússia/ EAEU para uma China EV - TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS ao abrigo do regulamento, EPTS, a China 2026 regra de licença de exportação, e exatamente o que confirmar antes de pagar.
+- **H1**: Como um veículo elétrico chinês limpa a Rússia / o EAEU: Rota de Conformidade e Papelada Alfândega
+- **Palavra-chave principal**: Importação de produtos chineses EV para a Rússia EAEU OTTC SBKTS alfândegas
+- **Termos de busca secundários**: TR CU 018/2011 veículos de rodas, EAEU homologação de veículo, SBKTS certificado de veículo único, ERA-GLONASS requisito, EPTS passaporte eletrônico, China EV licença de exportação 2026
+- **URL sugerida**: /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Intenção de busca**: Entenda como um veículo elétrico chinês limpa Rússia / o EAEU: Rota de Conformidade e Papelada Alfândega: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /guides/verify-china-car-export-supplier/
+- **Sugestão de imagem**: OTTC - contra SBKTS diagrama de rota
+- **Texto ALT**: EAEU OTTC versus SBKTS rotas de certificação de veículos
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
+
 ## O problema real para um importador B2B
 Um EV chinês chega a um comprador russo apenas após três coisas se alinharem: a **valid EAEU conformity document**, uma **emergência-chamada de disposição aceita para registro**, e um **customs/document package cujas entidades jurídicas são reconciliadas através do certificado de conformidade, o importador de registro e a fatura**. Na prática, as transferências mais frequentemente se deparam com problemas quando esses documentos nomeiam diferentes partes, ou quando se espera que um certificado por unidade se comporte como uma aprovação de tipo de lote. Esta é apresentada como uma etapa de controlo de riscos de aquisição; os requisitos precisos de legalidade para uma determinada rota devem ser confirmados com o organismo acreditado e um corretor aduaneiro. Este guia é específico para **Rússia dentro da União Económica Eurasiática (UEA)**; não é uma declaração genérica "CIS", e deliberadamente separa a regulação que é resolvida de pontos de custo processo que mudam e devem ser confirmados ao vivo.
 ## A espinha dorsal resolvida: TR CU 018/2011
@@ -53,30 +56,30 @@ Guias genéricos citam os mesmos acrônimos sem resolver o negócio. O nosso qua
 ** O que mudou no lado chinês em 2026 ?** A partir de 1 de janeiro de 2026 veículos de passageiros puros e elétricos estão sob um regime de licença de exportação (joint Announcement n.o 54), e os exportadores devem se qualificar ao abrigo do processo de aplicação/lista 2026 MOFCOM.
 ** Por que reconciliar o nome do importador entre documentos?** Como matéria de controlo de risco, o alinhamento do titular do OTTC/SBKTS, do importador aduaneiro de registos e do destinatário da factura evita litígios de apuramento/registo; quando não puderem ser idênticos, obtenha orientações escritas do organismo acreditado ou do corretor aduaneiro sobre o acordo aceitável.
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — Russia EAEU EV import approval, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Russia EAEU EV import approval, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Russia EAEU EV import approval, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Russia EAEU EV import approval, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia EAEU EV import approval, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia EAEU EV import approval, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia EAEU EV import approval, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia EAEU EV import approval, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Russia EAEU EV import approval, 汽车出口采购指南
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Russia / EAEU EV import approval, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Russia / EAEU EV import approval, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia / EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Russia / EAEU EV import approval, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Russia / EAEU EV import approval, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia / EAEU EV import approval, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia / EAEU EV import approval, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia / EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia / EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia / EAEU EV import approval, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |

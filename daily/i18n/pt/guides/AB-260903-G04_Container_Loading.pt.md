@@ -1,14 +1,16 @@
 # Carregar carros em um recipiente de 40HQ: Conta que depende de um plano de carga, e Estiva que se mantém no mar
-## SEO Meta- dados
-- ** Título SEO**: Quantos são? Carros Caber num 40HQ? Guia de carregamento e enxurrada de contentores
-- ** Descrição do Meta**: Um guia prático de carga de veículos 40HQ – típico 2-SUV sem carga de rack vs 4-vehicle sistemas de dupla rack, ~ 8 tiras por carro em pneus, sequência de carga e uma verificação de estiva de cinco pontos antes do selo.
-- ** URL sugerido**: /guides/container-veículo-carregando-lagar/
-- ** H1 **: Carregamento e Esmagamento de Veículos Container: Contagens, Racks, Sequência e Verificação Pré-Seal
-- **Primary Keyword**: quantos carros cabem 40hq container carregando amarração
-- ** Termos de pesquisa secundários**: 40HQ dois SUV, recipiente de rack de carro de convés duplo, amarrar o veículo amarrar as tiras da roda amarrar, RoRo conversão de recipiente, seqüência de carga do carro de recipiente
-- ** Sugestões de ligação interna**: /guias/veículo-pré-navio-inspecção-psi/; /guias/ev-navio- un3171-imdg-compliance/; /veículos/changan- cs75-plus/
-- **Image Suggestions**: diagrama de estiva lateral; pontos de amarração da roda; rack duplo pull-out; ordem de carregamento superior + inferior
-- **ALT Sugestões**: " 40HQ dois SUV slowage lateral"; "roda pneu amarrando oito tiras"
+## Metadados SEO
+- **Título SEO**: Quantos carros Caber num 40HQ? Guia de carregamento e enxurrada de contentores
+- **Meta descrição**: Um guia prático de carga de veículos 40HQ – típico 2- SUV sem carga de rack vs 4-vehicle sistemas de rack duplo, ~ 8 tiras por carro em pneus, sequência de carga e uma verificação de estiva de cinco pontos antes do selo.
+- **H1**: Carregamento e Esmagamento de Veículos Container: Contagens, Racks, Sequência e Verificação Pré-Seal
+- **Palavra-chave principal**: quantos carros cabem 40hq container de carga amarração
+- **Termos de busca secundários**: 40HQ two  SUV , recipiente de prateleira de carro de dois andares, amarrar a roda das alças de amarração do veículo, Conversão RoRo para recipiente, sequência de carga do carro do contentor
+- **URL sugerida**: /guides/container-vehicle-loading-lashing/
+- **Intenção de busca**: Compreender o carregamento e o corte de veículos de contentores: Condes, Racks, Sequência e Pré-Seal Controlos: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Sugestão de imagem**: diagrama de estiva lateral
+- **Texto ALT**: 40HQ dois SUV estiva lateral
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## A pergunta que todos fazem primeiro
 "Quantos carros em um 40HQ ?" não tem resposta universal — é uma função de ** dimensões do veículo, espelho-dobramento, sistema de rack e plano de estofamento aprovado do transportador**. Este guia dá bandas realistas e o método; deliberadamente não promete uma contagem fixa. Confirme cada remessa contra um plano de carga medido.
@@ -60,18 +62,18 @@ Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: si
 ** O que é verificado antes de selar as portas?** Mercadorias/lista de correspondência, ordem, centro de gravidade e folga, segurança total e margem da porta – com fotos.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

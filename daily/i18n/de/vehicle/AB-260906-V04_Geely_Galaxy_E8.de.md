@@ -1,16 +1,16 @@
 # Geely Galaxy E8 (Yinhe E8): China-Market Electric Limousine Referenz für den Export
-## SEO Metadaten
-- **SEO Titel**: Geely Galaxy E8 (Yinhe E8) Export Specs: Batterie, Reichweite, Ladeführer
-- **Meta Description**: Chinesische Marktreferenz für die SEA-basierte Geely Galaxy Yinhe E8 Elektrolimousine: Motorvarianten, CLTC-Bereich und Batterieoptionen gehalten trimm-spezifisch, 800V Ladeverhinderungen und EV-Export-Checks.
-- ** H1 **: Geely Galaxy E8 (Yinhe E8): China-Market Electric Limousine Referenz für den Export
-- **Hauptschlüsselwort**: Geely Galaxy E8 Yinhe E8 Exportspezifikationen
-- **Secondary Search Terms**: Galaxy E8 SEA Architektur; Yinhe E8 CLTC-Reihe; Galaxy E8 800V Aufladung; Export von Elektrolimousinen; E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Search Intent**: 面向海外 B 端买家介绍银河 E8 中国市场版本身份 三电 续航 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Bildvorschlag **: Vordere drei Viertel einer Geely Galaxy E8 Fastback-Elektrolimousine mit ihrer vollen Lichtsignatur
-- **ALT Vorschlag **: Vordere Dreiviertelansicht einer Geely Galaxy E8 Elektrolimousine mit der Lichtleiste und der Fastback-Dachlinie
-- **Schema Scope**: Article + Vehicle
+## SEO-Metadaten
+- **SEO-Titel**: Geely Galaxy E8 (Yinhe E8) Export Specs: Batterie, Reichweite, Ladeführer
+- **Meta-Beschreibung**: Chinese-market reference for the  SEA -based Geely Galaxy/Yinhe E8 electric sedan: Motorvarianten, CLTC Reihen- und Batterieoptionen, die trimmspezifisch gehalten werden, 800V Ladeverhinderungen und EV Exportkontrollen.
+- **H1**: Geely Galaxy E8 (Yinhe E8): China-Market Electric Limousine Referenz für den Export
+- **Haupt-Keyword**: Geely Galaxy E8 Yinhe E8 Exportspezifikationen
+- **Sekundäre Suchbegriffe**: Galaxy E8 SEA Architektur; Yinhe E8 CLTC Reichweite; Galaxy E8 800V Aufladung; Export von Elektrolimousinen von Geely; E8 475 kW AWD
+- **Vorgeschlagene URL**: /vehicles/geely-galaxy-e8/
+- **Suchabsicht**: Verstehen Geely Galaxy E8 (Yinhe E8): China-Market Electric Limousine Referenz für den Export: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Bildvorschlag**: Front drei Viertel einer Geely Galaxy E8 Fastback-Elektrolimousine mit seiner vollen Breite Lichtsignatur
+- **ALT-Text**: Front Dreiviertelansicht einer Geely Galaxy E8 elektrische Limousine zeigt die Lichtleiste und Fastback Dachlinie
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Das Galaxy E8 (Yinhe E8) ist Geelys Flaggschiff-Elektro-Fastback-Limousine auf der SEA (Sustainable Experience Architecture) - ein fünfsitziges, batterieelektrisches Auto mit niedrigem Zug (rund 0.199 Cd), das in einmotorigen Hinterradantriebs- und Zweimotor-Allradantriebsformen angeboten wird. Da es sich um ein EV handelt, werden Batterie, Testzyklus, Ladearchitektur und Software aktiviert, nicht eine einzige Headline-Power-Nummer. Alles unten ist eine ** chinesische Markt (CLTC) Referenz **; Exportversionen und ihre Ladestandards erfordern separate OEM-Beweise.
 

@@ -1,15 +1,17 @@
 # JAC T9 Hunter (悍途): Diesel Mittelklasse Pickup — Bett, Nutzlast, Antriebsstrang und Exportkontrollen
 
-## SEO Metadaten
-- **SEO Titel **: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
-- **Metabeschreibung**: JAC T9 Hunter Hantu Diesel Pickup - Standard- und Langbetten, 2.0T Diesel mit ZF 8AT, BorgWarner Teilzeit 4WD, Export 3500 kg Schleppen vs China-Rating 1000 kg Nutzlast marktspezifisch gehalten, mit Exporteur Überprüfung.
-- **Vorgeschlagene URL**: /Fahrzeuge/jac- t9-hunter/
-- ** H1 **: JAC T9 Hunter: Diesel Pickup Specs (Bett, Nutzlast, Antriebsstrang, Fahrwerk) für Exportkäufer
-- ** Primäres Keyword**: jac t9 hunter pickup specs export
-- **Secondary Search Terms**: JAC T9 Hunter Diesel, JAC Hantu Pickup, T9 8AT 4x4, JAC Pickup Nutzlastschlepper, chinesischer Diesel Pickup Export
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/
-- **Bildvorschläge**: T9 Jägerseite mit Bett; Frachtbettabmessungen; 4WD Selektor 2H/4H/4L; Heckverschluss; Fahrgestellrahmen
-- **ALT Vorschläge**: "JAC T9" Hunter Diesel 4x4 Pickup"; "T9 Hunter Standard vs Langbett Dimensionen
+## SEO-Metadaten
+- **SEO-Titel**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
+- **Meta-Beschreibung**: JAC T9 Hunter / Hantu Diesel Pickup - Standard- und Langbetten, 2.0T Diesel mit ZF 8AT, BorgWarner Teilzeit 4WD, Export 3500 kg Schleppen vs China-Rating 1000 kg Nutzlast marktspezifisch gehalten, mit Exporteur Überprüfung.
+- **H1**: JAC T9 Hunter: Diesel Pickup Specs (Bett, Nutzlast, Antriebsstrang, Fahrwerk) für Exportkäufer
+- **Haupt-Keyword**: jac t9 hunter pickup specs export
+- **Sekundäre Suchbegriffe**: JAC T9 Hunter Diesel, JAC Hantu Pickup, T9 8AT 4x4, JAC Pickup Nutzlastschlepper, chinesischer Diesel Pickup Export
+- **Vorgeschlagene URL**: /vehicles/jac-t9-hunter/
+- **Suchabsicht**: Verstehen JAC T9 Hunter: Diesel Pickup Specs (Bett, Nutzlast, Antriebsstrang, Fahrwerk) für Exportkäufer: was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Bildvorschlag**: T9 Hunter Seite mit Bett
+- **ALT-Text**: JAC T9 Hunter Diesel 4x4 Pickup
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Pickup-Entscheidungen beginnen mit dem Bett und dem Antriebsstrang
 Für eine Pickup des Exporteurs erste Fragen sind Bettlänge, Nutzlast, Allradantrieb Layout und Chassis - nicht Infotainment. Der T9 Hunter ist der mittelgroße Diesel-Pickup von JAC; in China wird er als **Hantu (悍途)** vermarktet. Die Identität wird von ** zwei JAC-eigenen offiziellen Websites * festgelegt - der Exportseite (jacen, Name "T9") und der chinesischen Pickup-Site (pickup.jac, Name "悍途 /Hantu") - die MODEL_ALIAS_REQUIRES_OEM_PROOF: die **endgültige Identitätsbestimmung ist SAME_MODEL** für die Produktfamilie. Identität und Marktkonfiguration werden unabhängig beurteilt, so dass jede Figur unten immer noch ihr Markt- und Vertrauenslabel trägt.

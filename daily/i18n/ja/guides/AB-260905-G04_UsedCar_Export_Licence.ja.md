@@ -1,15 +1,17 @@
 # 中国の中古車輸出 — パイロット資格、ライセンス、クリアランスプロセス
 
-## ツイート メタデータ
-- **SEOのタイトル**: 中国の中国 中古車輸出:パイロット資格、輸出ライセンスとクリアランス(2026規則)
-- **メタ 記述**: 中国の企業輸出中古車:パイロットゾーンの資格、輸出ライセンス、プロジェクト契約例外、情報一貫性、2026登録一貫性規則。
-- H1 ホテル **: 中国の中古車輸出 — パイロット資格、ライセンスとクリアランスプロセス
-- **主なキーワード**:中国中古車輸出ライセンスプロセス
-- **二次検索条件**:中古車輸出中国;中古車輸出ライセンス;パイロットゾーン;中古車輸出;MOFCOMライセンス
-- **混雑したURL**: /guides/china-used-car-export-license-process/
-- **Search Intent**: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关 (含 2026 年新规)
-- **内部リンク提案**: /guides/china-export-customs-declaration-single-window/guides/used-chinese-ev-inspection-history/、/guides/verify-chinese-car-export-supplier-history/
-- **シュマスコープ**: 記事(製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: 中国中古車輸出:パイロット資格、輸出ライセンスとクリアランス(2026規則)
+- **メタディスクリプション**: 中国の企業輸出中古車:パイロットゾーンの資格、輸出ライセンス、プロジェクト契約例外、情報一貫性、2026登録一貫性規則。
+- **H1**: 中国の中古車輸出 — パイロット資格、ライセンス、クリアランスプロセス
+- **主要キーワード**: 陶磁器は車の輸出免許証プロセスを使用しました
+- **関連検索語**: 使用された車の輸出中国;使用された車の輸出免許証;試験区域;中古車の輸出;MOFCOM免許証
+- **推奨URL**: /guides/china-used-car-export-license-process/
+- **検索意図**: 中国の中古車輸出を理解する — パイロット資格、ライセンスおよびクリアランスプロセス:車両/部品輸出業者が確認、文書化、注文にコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **画像候補**: 中国語の中古車輸出をイラスト化した、現実的で文書/車両に焦点を当てたシーン — パイロット資格、ライセンスとクリアランスプロセス、段階的な検査や要求の人々。
+- **ALTテキスト**: クローズ、中国中古車輸出に関連する材料の自然な眺め - パイロット資格、ライセンスとクリアランスプロセス、中立背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: 記事(商品・オファー・レビューなし)
 
 ## 中古車輸出は、ライセンス済みで、パイロットベースのビジネスです。
 通常の新車輸出とは異なり、中国からの中古車輸出は、承認されたパイロットエリアで**修飾された企業に制限されています**パイロット機構によって選択され、それは**輸出ライセンス**政権の下で動作します。 一般的な取引権を持っているため、企業が中古車を輸出を開始することはできません。 パイロットエリアリストは、時間とともに拡大し、固定リストではなく、現在のMOFCOM/government通知から読み込まれる必要があります。
@@ -40,7 +42,6 @@ Because used units are unique (one VIN each), 最後の出荷をコピーする�
 **パイロットシティリストは?** 最新MOFCOM/government通知では、静的リストに依存しません。
 **このカバー先物輸入ルールは?** いいえ。これらは別々で、国固有のものです。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Because used units are unique (one VIN each), 最後の出荷をコピーする�
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確な中国中古車輸出
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 中国の中古車輸出
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Because used units are unique (one VIN each), 最後の出荷をコピーする�
   - **ID**: used car export licence, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: used car export licence, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: used car export licence, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #UsedCarExport #ExportLicence

@@ -1,15 +1,17 @@
 # โฟทัน โตโน ตูยาโนะ (2026) — ฟอนใหญ่จีน-มาร์เก็ต (รถไลท์บัส) สเปคส์ และ เอ็กซ์เพรสเช็ค
 
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: โฟตัน โตโน่ (Tuyoo) รถตู้ใหญ่: ประเทศจีน- Market Specs & ส่งออกคู่มือผู้ซื้อ
-- ""คําอธิบาย" รถแวนขนาดใหญ่: รถล้อสั้นและยาว กังหันดีเซล, ที่จอดรถกว้าง และทําไมการเปลี่ยนแปลงแช่แข็งถูกประเมินแยก
-- ** H1 ~: โฟทัน โทโนะ ตูยาโนะ (2026) — ประเทศจีน-มาร์เก็ต ฟอน (รถเบา) สเปคส์ และเครื่องตรวจการส่งออก
-- ~คําสําคัญในจดหมาย *: 福田 Tono 图雅诺 大 VAN (轻客) สเปค เอ็กซ์เพรส
-- ~การค้นหาตามชื่อเดิม~: โฟตัน โทโนะ ส่งออกเสียง; รถตู้ทูยาโนะ; รถโดยสารจีน; รถโดยสาร; รถแวนสินค้า
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/โฟตัน-โทโนะ/
-- ~ การค้นหาที่เชื่อมโยง~: 了解 福田 โตนาโน 图雅诺 大 VAN (轻客) 中国版规格 、配置与出口适配性 (车型参数页).
-- ~ ลิงก์ภายในแนะนํา~ Vichales/foton-too/////guides/skd-known-known-kit-export-asselped-assiby///////////turd-tir-trosport-toan-sentral-asia/
-- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: โฟทัน โตโน่ (Tuyoo) รถตู้ขนาดใหญ่: ประเทศจีน- Magnet Spects & ส่งออกคู่มือของ Buyer
+- **คำอธิบาย Meta**: รถแวนขนาดใหญ่: รถล้อสั้นและยาว กังหันดีเซล, ที่จอดรถกว้าง และทําไมการเปลี่ยนแปลงแช่แข็งถูกประเมินแยก
+- **H1**: โฟทัน โตโน / ตูยาโนะ (2026) — ฟอนใหญ่จีน-มาร์เก็ต (รถไลท์บัส) สเปคส์ และ เอ็กซ์เพรสเช็ค
+- **คีย์เวิร์ดหลัก**: โฟตัน / 福田 โตโนโทโน / 图雅诺 大 VAN(轻客) สเปกตรัม สเปก
+- **คำค้นหารอง**: Foton Tooo Express; Tuyoo รถตู้; รถโดยสารจีน; รถโดยสาร; รถแวนสินค้า การแปลง
+- **URL ที่แนะนำ**: /vehicles/foton-toano/
+- **เจตนาการค้นหา**: เข้าใจ โฟตัน โตโน ตูยาโนะ (2026) — จีน-มาร์เก็ต ฟอน (รถด่วน) สเปคส์ และ เอ็กซ์โปลิต เช็ค: ช่างส่งภาพรถ/ส่วนบริการส่งออกต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **คำแนะนำรูปภาพ**: ภาพจริง, เอกสาร/ภาพจากกล้อง ICKCE Foton Tonoo / Tainao (2026) — ประเทศจีน-Market ฟอน (รถด่วน) สเปคส์ และ เอ็กซ์เพรส เช็ค ไม่มีการตรวจสอบหรือผู้เข้าแข่งขัน
+- **ข้อความ ALT**: ปิดมุมมองตามธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับ โฟตัน โตโนะ / ตูยาโนะ (2026) — จีน-มาร์เก็ตแวน (รถด่วน) สเปคส์และ เอ็กพี ภูมิหลังที่เป็นกลาง ไม่มีบุคคลหรือการตรวจสอบใดๆ แสดงออกมา
+- **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## บริบท: รถ โดยสาร ไฟฟ้า ที่ ปรับ ตัว ได้ ไม่ ใช่ แบบ ที่ กระชับ
 The Foton Tonoo (图雅诺, 2026) ~ เป็นรถขายดีเซลขนาดใหญ่ของจีน เสนอผ่านรถล้อและที่นั่งหลายคัน เพราะเมทริกซ์ไม่แน่นอนกว้างมาก หน้านี้จึงเขียนได้รอบ ๆ ~การปรับแต่งที่ปรากฏเท่านั้น~ แทนที่จะเขียนเฉพาะเฉพาะ สเปก "โทโนะ" ตลาดอ้างอิงคือ.... จีน
@@ -46,17 +48,16 @@ The Foton Tonoo (图雅诺, 2026) ~ เป็นรถขายดีเซล�
 **How many seats?** It ranges across versions (3–17); ระบุการสร้างที่แน่นอน
 ~ทําไมไม่มีรายการพลังงาน ISF2.8 เต็มเลย~ เมทริกซ์ที่แยกไม่ได้ต้องการล็อคโออีเอ็ม มันถูกระงับ
 "รถแวนทําความเย็น เป็นโมเดลโรงงานรึเปล่า" upfit บน Toanochasis
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+♪ กงล้อสําหรับมินิบัสคืออะไร ♪ เลือกจาก 3070/3510/3750 มม. โดยผัง
 แล้วตัวเลข GVW หายไปไหน # ไม่น่าจะถูกจับได้ รับจากพวกนอกรีต
-
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) พ.ศ. | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力 扭矩 扭矩 座位 (พ.ศ. |
-| 图雅诺 冷藏改装 (上装) พ.ศ. | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装 非原厂, 非原厂 VAN 参数 |
+| 图雅诺 车型对比 | 搜狐汽车 搜狐汽车 搜狐汽车 搜狐汽车 CN | T2 | ROOS_ CHCKE |/skid.auto.com/compare-list? สืบค้นเมื่อ 1/0.3.tricid=156097,166576,166576. | 短轴 长轴尺寸 轴距 轴距 | |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力 扭矩 扭矩 座位 (พ.ศ. ○
+| 图雅诺 图雅诺 冷藏改装 冷藏改装 (上装) พ ศ ศ ศ ศ ศ 冷藏改装 上装 (上装) พ ศ ศ ศ ศ ศ ศ 上装 上装 上装 ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ พ พ พ ศ พ พ ศ ศ ศ พ ศ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装 非原厂, 非原厂 VAN 参数 |
 | โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
 | กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
 | กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
@@ -68,30 +69,29 @@ The Foton Tonoo (图雅诺, 2026) ~ เป็นรถขายดีเซล�
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
 ## บันทึกรูปภาพ
-- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
-- ~~~~~ไม่ถูกจับ~
-- ~ประกาศจับ~: ไม่ถูกจับ
-- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
-- ~ห้ามยืนยัน~
-- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
-- ~CKND_DATE ~ 2026-09-06
-- ~DPLNIVER/TOPICN_MATCH~: รถตู้โฟตัน โตโน
-- MEDIAN_SCPE_NOTE: โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
-- หม่อมเจ้า หม่อมเจ้า
-- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
-- ~ALT (12 ภาษา) ~:
-  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
-  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
-
+-"ประกาศผล" ไม่มีความปลอดภัยในคลังเก็บ
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ~ฝนที่ตก~ ไม่ใช้ — ไม่มีส่วนแฟ้มสําหรับเลือกใช้สื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- **RIGHTS_HOLDER**: unconfirmed
+-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ไม่ มี ใคร ปลอด ภัย — การ มี หน้า ปก ของ เว็บเพจ โอ อี เอ็ม ไม่ ใช่ ใบ รับรอง การ ทํา ซ้ํา ใหม่ ทาง การ ค้า
+- **CHECKED_DATE**: 2026-09-06
+-"CRL/TOICC_MATCH*: รถตู้โฟตันโทโนะ
+-"ห้ามเข้า" ภาพต้องตรงกับครอบครัว/ TOP ต้นแบบที่แน่นอนเท่านั้น ต้องไม่ได้หมายถึงการตัดแต่งแบบ โมเดล ปีจริง การตรวจสอบภายใน หรือการทําธุรกรรมจริง
+- **IMAGE_RIGHTS_STATUS**: FAIL
+-"Bock_REASON: ไม่สามารถเข้ารหัสภาพได้: Wikited Commors/Flickr ไม่สามารถติดต่อได้จากสภาพแวดล้อมการวิจัย, ห้องสมุดหลักต้องการสิทธิ์ API/licence และภาพจากเว็บเพจของ OEM ก็ไม่ใช่การให้ใช้ร่วมกันแบบพาณิชย์ ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- **ALT (12 languages)**:
+  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
+  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

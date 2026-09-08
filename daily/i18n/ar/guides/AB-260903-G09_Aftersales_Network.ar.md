@@ -1,14 +1,16 @@
 # بناء شبكة ما وراء البحار بعد انتهاء العمر، وأجزاء وحرب من البداية الدائمة
-## SEO Metadata
-- ** عنوان المنظمة**: ما وراء البحار بعد البيع، دليل إنشاء شبكة الإنذار
-- ** وصف البيانات**: فكيفية بناء مصدِّر للمركبات قابل للتطبيق في الخارج - تطابق نماذج الشبكة مع القاعدة المركبة، ومخزون الأجزاء الإقليمية، والوعود الضمانية مع القدرة الحقيقية على تقديم الخدمات، وتوقعات السياسة العامة في الصين خلفها.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/إصلاحيات بعد انتهاء الدورة
-- ** H1 **** بناء قدرات ما وراء البحار فيما بعد البحار والأجزاء المارة والحرب على المركبات المصدرة
-- ** كلمة رئيسية رمزية**: الأجزاء اللاحقة للبيع في الخارج التي تُضمن إقامة شبكة مصدِّرة
-- ** شروط البحث الثانية**: شبكة خدمات المصدرين في الخارج، ومستودعات القطع الإقليمية، وسياسة تأمين المركبات في الخارج، وشبكة مستقلة متعددة الفروع للإصلاح، ودعم المتاجرين بعد البيع
-- ** Internal Link Suggestions**: /guides/vehicle-export-sales-contract-clauses/;guides/china-vecle-export-license-customs/;/guides/overseas-aftersales-warranty-network/
-- ** اقتراحات مقدمة**: شجرة قرار مزودة بشبكة قاعات مركبتين؛ وأجهزة مخزون قطع؛ وثبات لإمكانية ضمانية مطابقة لثوابت
-- ** اقتراحات بشأن: "نموذج شبكة بعد البيع بواسطة قاعدة مركبه، "أجزاء المنطقة من عجلات الأسهم
+## بيانات SEO الوصفية
+- **عنوان SEO**: فيما وراء البحار، الجزء " الحرب " دليل إنشاء الشبكات
+- **وصف Meta**: فكيفية بناء مصدِّر للمركبات قابل للتطبيق في الخارج - تطابق نماذج الشبكة مع القاعدة المركبة، ومخزون الأجزاء الإقليمية، ووعود الضمان مع القدرة الحقيقية على تقديم الخدمات، وتوقعات السياسة العامة في الصين خلفها.
+- **H1**: بناء قدرات المركبات بعد انتهاء الخدمة في الخارج، والأطراف المارة، والحرب على المركبات المصدرة
+- **الكلمة المفتاحية الرئيسية**: إنشاء شبكة للمصدرين فيما وراء البحار
+- **مصطلحات بحث ثانوية**: شبكة خدمات التصدير في الخارج، مستودعات الأجزاء الإقليمية، سياسة تأمين المركبات في الخارج، شبكة مستقلة متعددة الفروع، دعم التاجر
+- **URL المقترح**: /guides/overseas-aftersales-parts-warranty-network/
+- **نية البحث**: (ب) فهم بناء قدرات المركبات المصدرة فيما وراء البحار بعد انتهاء المبيعات والأجزاء المارة والحرب: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من ذلك وأن يوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **اقتراح الصورة**: شجرة القرار المزودة بشبكة شبكـة
+- **نص ALT**: نموذج شبكة بعد البيع بالقاعدة
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## النطاق: هذا يتعلق بخدمة التشغيل، لا شراء قطع الغيار
 ويشمل هذا الدليل ** تأخر توريد القطع وتوريدها بشكل آمن** في سوق مقصد. وهو مُختلف عن الموضوع المنفصل لـ * قطع غيار مشترية* في الصين (مجموعة من المواد الخارجية - الأجزاء الموجودة) - وهي عناصر للاستعانة بمصادر خارجية هي مدخل؛ وهذه الصفحة تتعلق بالقدرة على التشغيل** التي تحول هذه القطع إلى وقت عمل إضافي.
@@ -35,10 +37,10 @@
 ولا يمكن أن يُحترم هذا الضمان إلا بقدر ما يمكن للشبكة أن تفي به:
 - ماتش ** الضبط والاستبعاد** إلى ما يمكن أن تُخدمه حلقات العمل المحلية فعلاً، ويمكن أن تصل الأجزاء بالفعل.
 - مثال على الصناعة (المصدر الرئيسي، التوضيح): a **7-year/unlimited-km OEM warranty** offered in Australia — credible only because a parts  and  شبكة الخدمات تدعمها؛ عرض شروط مماثلة بدون تلك الشبكة يخلق المسؤولية لا يمكنك الوفاء بها
-- Define the **claim work flow, who pays cargo/labour, goodwill boundaries**, and how bat/EV-specific claims (which need specialized capability) are handled.
+- تحديد تدفق العمل الذي يُطلب فيه الإعلان، الذي يدفع البضائع/العمل، والحدود المتعلقة بالنوايا الحسنة**، وكيف يتم التعامل مع المطالبات الخاصة بالمضرب/المركبات (التي تحتاج إلى قدرات متخصصة).
 
 ## ما يوصي به هذا الدليل أن تضعه في مكانه
-1. A written **installed-base). network-model** decision per market (in dependent/multi-brand first, authorised later).
+1 قاعدة مكتوبة مطلية على المحك قرار نموذجي** للشبكة لكل سوق (في مركز الإعالة/الأول، مأذون به لاحقا).
 2. A ** الأجزاء الإقليمية خطة** مع A/B/C لإطارات المخزون، ونشرت أوقاتاً رائدة.
 3. A **warranty policy matched to service capacity**, with a claim and cost-allocation work flow.
 4. ** التمكين التقني** - الأدلة والتشخيص والتدريب - لحلقات العمل التي تمثلك.
@@ -52,17 +54,17 @@
 ** كيف يختلف هذا عن دليل "قطع غيار بزيارتها؟"** ويشمل ذلك قطعا من مصادر في الصين؛ ويشمل ذلك تشغيل القدرة على الخدمات/الأجزاء/الضرورة في سوق المقصد.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
@@ -80,10 +82,10 @@
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| إشعار بتصدير السيارات من أربعة أعلام (البند 6: نظام الدعم) | مكتبة السياسات العامة لمجلس الدولة | CN/ Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | مفقود | توقع السياسات العامة على الدعم المشترك لما بعد البيع/الجزأين/التقنيين |
+. . . . SR, paras. 10 و 6: نظام الدعم المقدم إلى مكتب السياسات العامة | CN/ Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 ? Policies on Together supportate and /visa/The-/The-?
 | نفس الإشعار (نظام الدعم) | Ministry of Commerce | CN/ Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | مفقود | النص النظير للبعثة |
 | كيف يمكن لصانعي السيارات الصينيين أن يغلقوا الفجوة فيما وراء البحار | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE OURCE | مسار الشبكة المتعددة الفروع؛ ومثال على ذلك أجزاء الميلبورن؛ ومثال على ذلك 7-yr ضمان |
-| يجب أن تكون الأجزاء التي تسير على الصعيد العالمي منظمة | أخبار بيجين | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | صرخات | "المبيعات الثقيلة، الخدمة الخفيفة" ضعف، خطر الوفد |
+| That que que que que que que que se en el endicación en el | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | | | | | " resssss,  الخفيفة " , | |.
 * ملاحظة: توقعات السياسة العامة رسمية؛ والنماذج الشبكية وأصناف المستودعات/الاحتياطات في أستراليا هي أمثلة لصناعة واحدة مصحوبة برفقة واحدة تستخدم على سبيل التوضيح، ولا تقدم كمقاييس عالمية. ويعالج هذا الدليل عملية الخدمات ويظل متميزا عن مجموعة المشتريات من قطع الغيار. ♪
 
 | أحكام بشأن المسؤولية عن إصلاح/استبدال/إعادة إنتاج السيارات المملوكة للأسر المعيشية (أمر الرابطة رقم 43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | مفقود | خط الأساس (سان - باو) للضمانات المحلية الذي يجب التمييز بين شروط ما بعد البيع |

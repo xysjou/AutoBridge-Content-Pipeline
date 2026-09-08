@@ -1,16 +1,16 @@
 # サイクマックス インターステラT90:中国市場ディーゼルピックアップ輸出参照
-## ツイート メタデータ
-- **SEOタイトル**: サイクマックスT90(インターステラー) ディーゼルピックアップ輸出仕様&バイヤーチェック
-- **メタ 記述**: SAIC MAXUSインターステラーT90ディーゼルピックアップのための中国市場参照:ボディオンフレームのシャーシ、標準/ロングベッド、2.0Tツインターボディーゼル、ドライブトレインオプション、および輸出の名前の洞窟。
-- H1 **: シック マックス インターステラT90:中国市場ディーゼルピックアップ輸出参照**
-- **主なキーワード**: SAIC MAXUS T90ピックアップ輸出仕様
-- **二次検索条件**: MAXUS T90ディーゼルピックアップ。 インターステラー T90 2.0T ツイン ターボ; T90 8AT four wheel drive; MAXUSピックアップベッド寸法; 中国の積み込みの輸出
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Search Intent**: 面向海外 B 端买家介绍星际 T90 中国市场版本身份、货箱 / 四驱 / 底盘 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **イメージ提案**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
-- アルト 提案**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface**
-- **Schema Scope**: Article + Vehicle
+## SEOメタデータ
+- **SEOタイトル**: SAIC MAXUS T90 (Interstellar) ディーゼル ピックアップ 輸出仕様 & バイヤー チェック
+- **メタディスクリプション**: SAIC MAXUSの中国市場参照 インターステラーT90ディーゼルピックアップ:ボディオンフレームシャーシ、標準/ロングベッド、2.0Tツインターボディーゼル、ドライブトレインオプション、輸出の名前の洞窟。
+- **H1**: SAIC   MAXUS  Interstellar T90: 中国市場ディーゼルピックアップ輸出参照
+- **主要キーワード**: SAIC MAXUS T90 ピックアップ 輸出仕様
+- **関連検索語**: MAXUS T90ディーゼル ピックアップ; インターステラー T90 2.0T ツイン ターボ; T90 8AT four wheel drive; MAXUSピックアップベッド寸法; 中国の積み込みの輸出
+- **推奨URL**: /vehicles/saic-maxus-t90/
+- **検索意図**: SAIC MAXUSインターステラーT90を理解する:中国市場ディーゼルピックアップ輸出基準:車両/部品輸出業者が確認、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **画像候補**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
+- **ALTテキスト**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface
+- **スキーマ範囲**: Article + Vehicle
 
 インターステラーT90(Xingji T90、旧中国MAXUS T90)は、SAIC MAXUSの中規模、**ボディオンフレーム**ダブルキャブピックアップです。 荷積み運送、荒陸および旅客の洗練ではなく、車両の使用のために海外で購入した車両の種類。 ピックアップ購入はベッド、ペイロード、ドライブトレイン、シャーシで決定されるので、このページをリードします。 ※中国市場ディーゼルのみカバー、別途電気T90は除く
 
@@ -71,16 +71,16 @@ Two-wheel drive, パートタイム 4WD  and  オンデマンドの理性的な4
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力、8AT、拖拽  |
-| 星际 T90 标 / 长轴尺寸(标轴 5365×1960×1845 WB3155 货箱 1485; 长轴 5680 WB3470 货箱 1800 | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸、货箱、轴距  |
+| 星际 T90 柴油 （ 上汽 π 双涡轮 2.0T 160kW / 500N·m 、 采埃孚 8AT 、 拖拽 3.5t ） | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力 、 8AT 、 拖拽 |
+| 星际 T90 标 / 长轴尺寸 (标轴 5365 × 1960 × 1845 WB3155 货箱 1485); 长轴 5680 WB3470 货箱 1800 | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸 、 货箱 、 轴距 |
 | 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
 | T90 车身结构 (非承载、接近角/离去角) | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身、通过角  |
-| マックスス T90 グローバル公式(ディール160kW/500Nm、 towing — エクスポートスコープ | サイクマックス 営業拠点 | エクスポーター | T1 | 検証済み | https://en.saicmaxus.com/car/t90.shtml | アイデンティティ — グローバル/エクスポート スペック;中国市場 星际 T90 値と同等にならない |
-| 上汽大通 MAXUS T90 中国官方 (配置 / 价格) の | サイクマックス 中国の中国 | CN の | T1 | 検証済み | https://www.maxusmall.com/T90.shtml | engine_diesel — 中国市場公式設定と国内参考価格 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — 同梱されている検証 中国ピックアップのバリエーション |
+| マックスス T90 グローバル公式 ディール 160kW / 500Nm 、 牽引 — エクスポートスコープ | サイクマックス 営業拠点 | エクスポーター | T1 | 検証済み | https://en.saicmaxus.com/car/t90.shtml | アイデンティティ | グローバル / エクスポート スペック 中国市場 星际 T90 値と同等にならない |
+| 上汽大通  MAXUS  T90 中国官方 (配置 / 价格) の | サイクマックス 中国の中国 |  CN  の | T1 | 検証済み | https://www.maxusmall.com/T90.shtml | engine_diesel — 中国市場公式設定と国内参考価格 |
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — 同梱されている検証 中国ピックアップのバリエーション |
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参考市場**:中国(本篇锁柴油、不含 EV;国内星际 T90 与出口 MAXUS T90 仅 定格 不证同一)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

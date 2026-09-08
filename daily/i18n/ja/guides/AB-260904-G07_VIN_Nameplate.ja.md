@@ -1,15 +1,17 @@
 # 中国の車VINおよびGB 16735-2019のネームプレートを読み、確認して下さい
 
-## ツイート メタデータ
-- ** SEO タイトル**:中国車輸入のための VIN 及びネームプレート検証 — GB 16735-2019
-- **メタ 記述**: 17-character VINがWMI VDS /VISに分割する方法 GB 16735-2019の下で、なぜVINをスタンピング、ネームプレート、証明書、および出荷文書が一致し、輸入業者が支払いの前に検証しなければならない。
-- **混雑URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- H1 ホテル **: 中国の車のためのVINおよびネームプレートの検証:構造、標準および四位のマッチ
-- **主なキーワード**:VINネームプレート検証GB16735中国車
-- **二次検索条件**:WMI VDS VIS構造、GB16735-2019 VIN、VINチェックデジット位置9、VINネームプレート証明書の一貫性、スタンプ付きVINタンパリング
-- **内部リンク提案**: /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-declaration/; /vehicles/jac- t9-hunter/
-- **イメージ提案**: 17-char VINセグメント図; four-place match checklist; スタンプ付きVINクローズアップ
-- アルト 提案**:「17 キャラの VIN が GB16735-2019 未満の WMI VDS VIS に分割」
+## SEOメタデータ
+- **SEOタイトル**: VIN および中国車輸入のためのネームプレート検証 — GB 16735-2019
+- **メタディスクリプション**: 17-character VINはGB 16735-2019の下でWMI/VDS/VISに分割する方法、なぜスタンピングVIN、ネームプレート、証明書、出荷文書が一致しなければならず、輸入業者は支払いの前に確認する必要があります。
+- **H1**: VIN と中国車のためのネームプレート検証: 構造、標準と四位マッチ
+- **主要キーワード**: VIN ネームプレート検証 GB16735 中国車
+- **関連検索語**: WMI VDS VIS構造、GB16735-2019 VIN、VINチェックデジット位置9、VINネームプレート証明書の一貫性、スタンピングVINタンパリング
+- **推奨URL**: /guides/vin-nameplate-verification-chinese-vehicles
+- **検索意図**: 中国の車のためのVINおよびネームプレートの確認を理解して下さい: 構造、標準および四位のマッチ: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- **画像候補**: 17-char VINセグメント図
+- **ALTテキスト**: 17 文字 VIN を WMI VDS VIS に GB16735-2019 に分割
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 支払い前にVIN検証がなぜVIN認証をSitsするのか
 A VIN mismatch is one of the few defects that blocks registration **after** the vehicle has already been paid for  and  出荷。 固定は、調達デスクで安く、目的地のポートで高価です。 中国語のVIN構造を標準規格で説明しています。  and  gives a four-place consistency check buyers can run before releasing balance payment.
@@ -25,7 +27,7 @@ A VIN mismatch is one of the few defects that blocks registration **after** the 
 ## 意図的に最初の文字から推測しないもの
 WMI は、認定されたボディによって最初の文字が割り当てられます。 このガイドは、**非** 正規の原点テストとして、L(H)で始まる中国語車両のような毛布ルールを主張します。この主張は、現在の研究の信頼できる基準に確認されなかったため、**非検証**として扱われます。 原産メーカーは、初期の手紙から推測されていない**認可されたWMI割当から読み込まれなければならない。特定のWMIプレフィックス・ツー・メーカーのルックアップは、割当テーブルを必要とし、ここで複製されていない。 宛先指定国VINの形式ルールは国別で、別途チェックされます。
 
-## The Four-Place Match Before Balance Payment
+## バランス決済前の4位マッチ
 Compare the same 17 characters across four locations  and  砥石がなければ、 再試着またはオーバースプレー:
 1. **ボディ**(シャーシ)に刻印/刻印されたVIN。
 2. **ネームプレートにVIN**.

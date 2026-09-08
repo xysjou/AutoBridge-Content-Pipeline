@@ -1,16 +1,16 @@
 # Mercadorias de exportação devolvidas na China: A isenção de direitos de um ano e a via separada de comércio electrónico de seis meses
-## SEO Meta- dados
-- ** Título SEO**: Isenção do direito de exportação de mercadorias devolvido à China (regras de um ano e CBEC)
-- ** Descrição do Meta**: Quando os produtos de exportação chineses retornaram no prazo de um ano por razões de qualidade ou especificação, reentrar com isenção de direitos ao abrigo da Ordem GACC 272, a regra separada de seis meses de comércio eletrônico transfronteiriço e o que "estado original" requer.
-- ** H1 **: Mercadorias de exportação devolvidas na China: A isenção de direitos de um ano e a via separada de comércio electrónico de seis meses
-- **Primary Keyword**: exportação de mercadorias devolvidas isenção de direitos regulamento china
-- ** Termos de pesquisa secundários**: 退运货物免税; GACC Ordem 272 artigo 49; mercadorias de exportação devolvidas um ano; bens devolvidos por e-commerce transfronteiriço seis meses; reimportação estatal original
-- ** URL sugerido**: /guides/export-return-goods-tyl-isemption-regulation/
-- **Intenção de pesquisa**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别, 原状认定与已退税补缴
-- **As sugestões de ligação interna**: /guias/ comércio transfronteiras- b2b-export-9710-9810/, /guias/customs-voluntário-divulgação-auditoria-tolerância/, /guias/zona de ligação-vat-reembolso-exportação/
-- ** Sugestão de Imagem**: Uma parte do veículo de exportação devolvida a ser inspecionada com base na sua documentação original de exportação
-- ** ALT Sugestão**: Carga devolvida sob inspeção ao lado da declaração de exportação original
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Returned Export Goods Duty Isention (Um Ano e CBEC).
+- **Meta descrição**: Quando os produtos de exportação chineses devolvidos no prazo de um ano por razões de qualidade ou especificação reentram com isenção de direitos de importação em GACC Ordem 272, a regra separada de seis meses de comércio electrónico transfronteiras e o que "estado original" exige.
+- **H1**: Mercadorias de exportação devolvidas na China: A isenção de direitos de um ano e a via separada de comércio electrónico de seis meses
+- **Palavra-chave principal**: exportação mercadorias devolvidas isenção de direitos regulamento china
+- **Termos de busca secundários**: 退运货物免税; GACC Ordem 272 artigo 49; mercadorias de exportação devolvidas um ano; bens devolvidos por e-commerce transfronteiriço seis meses; reimportação estatal original
+- **URL sugerida**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Intenção de busca**: Compreenda mercadorias de exportação devolvidas na China: A isenção de direitos de um ano e a via separada de comércio eletrónico de seis meses: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Sugestão de imagem**: Uma parte do veículo de exportação devolvida a ser inspecionada com base na sua documentação original de exportação
+- **Texto ALT**: Carga devolvida sob inspeção, ao lado do documento original da declaração de exportação
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Quando os produtos exportados retornam à China — um lote rejeitado de peças, um veículo que não aceitou o destino, estoque de comércio eletrônico não vendido — o pressuposto padrão é que a reimportação é um evento tributável. As regras aduaneiras chinesas fornecem uma isenção específica, mas está fortemente condicionada ao porquê do regresso das mercadorias, ao tempo que estiveram no estrangeiro e ao facto de regressarem ao seu estado original. Exportadores que não têm condições de pagar impostos sobre as importações e impostos em estádio de importação sobre os bens que originalmente fabricavam na China. Este guia separa a regra geral de um ano da distinta via de seis meses de comércio electrónico transfronteiriço, explica o "Estado original" e indica os casos em que um desconto já reclamado deve ser reembolsado.
 

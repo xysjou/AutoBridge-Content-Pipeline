@@ -1,16 +1,16 @@
 # Geely Sexle E8 (Yinhe E8): จีน-มาร์เก็ตไฟฟ้าเซดาน อ้างอิงการส่งออก
-## เชา ข้อมูลกํากับภาพ
-- "SEO THEO THELE": GYLY LAST E8 (YINE E8)). ส่งออกเป็น perbolic, sport, softing
-- ""คําอธิบาย" การอ้างอิงตลาดจีนสําหรับ Geely Gaily Gaily/Yinhe E8 รถเก๋งไฟฟ้า: มอเตอร์, CLTC เรนจ์ และตัวเลือกแบตเตอรี่เก็บค่าเฉพาะ, 800V ค่าชาร์จเสียง capeats และ EV serv.
-- ** H1 **: Giety glegies E8 (Yinhe E8): จีน-มาร์เก็ตไฟฟ้าเซดานอ้างอิงการส่งออก (PDF)
-- ~คําสําคัญ~ Geely กัลป์ E8 Yinhe E8 สเปกตรัมส่งออก
-- ~การค้นหาตามวาระที่: ~ สถาปัตยกรรมของกาแล็กซี่ E8 สถาปัตยกรรมทะเล Yinhe E8 CLTC ช่วง; Galaxy E8 800V charging; ส่งซีดานไฟฟ้า; E8 475 kW เอดับเบิลยูดี พ.ศ.
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- สืบค้นเมื่อ 面向海外 B 端买家介绍银河 E8 中国市场版本身份 、 三电 续航 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- เคล็ดลับที่: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
-- ~~~~~~~~~ ข้อเสนอ: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  สายกํากับการวางหลังแบบเร็ว
-- **Schema Scope**: Article + Vehicle
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Giely USV E8 (Yinhe E8) ส่งออกสเปกชัน: แบตเตอรี, Sport, aming guide
+- **คำอธิบาย Meta**: Chinese-market reference for the  SEA -based Geely Galaxy/Yinhe E8 electric sedan: มอเตอร์ไดเรกชั่น CLTC เรนจ์ และแบตเตอรี เก็บเงินได้ 800V ค่า ค่าปรับ ค่าไนลอน และเช็คส่งออก EV
+- **H1**: Geely Sexle E8 (Yinhe E8): จีน-มาร์เก็ตไฟฟ้าเซดาน อ้างอิงการส่งออก
+- **คีย์เวิร์ดหลัก**: กาฬโรค ขนาด E8 Yinhe E8 สเปกตรัมส่งออก
+- **คำค้นหารอง**: SACKS E8 SEA สถาปัตยกรรม; หยินเฮ E8 CLTC ช่วง; กาแล็กซี E8 800V ชาร์จ; พ.ศ. Expression แบบ จีลี อิเล็กทรอนิกส์; E8 475 kW AWD
+- **URL ที่แนะนำ**: /vehicles/geely-galaxy-e8/
+- **เจตนาการค้นหา**: เข้าใจ Geely Gascles E8 (Yinhe E8): จีน-มาร์เก็ตไฟฟ้าเซดาน อ้างอิงการส่งออก: สิ่งที่นักส่งออกรถยนต์/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **คำแนะนำรูปภาพ**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
+- **ข้อความ ALT**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  สายกํากับการวางหลังแบบเร็ว
+- **ขอบเขต Schema**: บทความ + พาหนะ
 
 กาแลคซี E8 (Yinhe E8) เป็นรถซีดานของจีลี ธงธงไฟด้านหลังทะเลทะเลทะเล (Swest rofile) — ห้าตัว Drag ต่ํา (ประมาณ 0.199 Cd) รถไฟฟ้าเดี่ยวที่เสนอ  and  แบบฟอร์มขับเคลื่อนรถสองล้อ เพราะเป็นอีวี การตัดสินใจซื้อของเปิดกิจการแบตเตอรี่ วงจรการทดสอบ ค่าใช้จ่ายสถาปัตยกรรมและซอฟต์แวร์ ทุกอย่างข้างล่างเป็น "Chinese-มาร์เก็ต" (CLTC) อ้างอิงถึง"~; รุ่นส่งออกและมาตรฐานค่าใช้จ่ายของพวกเขา ต้องการแยกหลักฐานโออีเอ็ม
 
@@ -75,15 +75,15 @@ Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  a
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | จีน | T2 | ROOS_ CHCKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | จีน | T2 | ROOS_ CHCKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸 续航 续航 电机功率 驱动 (พ.ศ.  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家 – 车家号 พ.ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机 电池供应商 电池供应商 平台 (พ.ศ.  |
-| Geely Yinhe/ Galaxy E8 หน้ากองเรือ (OEM) | จี้ออโต้ | CN/ ExPORT | T1 | เปิดใช้งาน | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | เอกลักษณ์ — อัตลักษณ์ของโออีเอ็ม: รถซีดานไฟฟ้าที่อยู่บนเรือซีดาน |
-| Geely เริ่มส่งมอบของ Yinhe E8 (Jan 2024 OEM) | จี้ออโต้ | CN | T1 | เปิดใช้งาน | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | เอกลักษณ์ — การ กําหนด เวลา และ สถาปัตยกรรม ของ ทะเล ทราย; สเปกตรัม ยัง คง เป็น แบบ เอสKU |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | จีน | T2 | ROOS_ CHCKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸 续航 续航 电机功率 驱动 (พ.ศ. ○
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家 – 车家号 พ.ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机 电池供应商 电池供应商 平台 (พ.ศ. ○
+| Geely Yinhe/ Galaxy E8 หน้ากองเรือ (OEM) | จี้ออโต้ | CN/ ExPORT | T1 | เปิดใช้งาน | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | เอกลักษณ์ — อัตลักษณ์ของโออีเอ็ม: ร199797. สืบค้นเมื่อ พ.ศ. 2013/ii.8kriasmo lotimegigeg พ ศ. ศ. 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lopigeg พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ k k k k k k k eg eg ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ก ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ศ ศ ศ ศ ศ ษ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ 2060 สืบค้นเมื่อ 20 พฤษภาคม 2060 สืบค้นเมื่อ 20 พฤษภาคม 2056 ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ   ศ ศ     ศ ศ ศ ศ ศ ศ ศ ศ ศ   ( 
+| Geely เริ่มส่งมอบของ Yinhe E8 (Jan 2024 OEM) | จี้ออโต้ | CN | T1 | เปิดใช้งาน | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | เอกลักษณ์ — การ กําหนด เวลา และ สถาปัตยกรรม ของ ทะเล ทราย; 2556 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –
 | 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | พลัง งาน — ทดสอบ ขับเคลื่อน โดย ประกาศ |
-| ภาพ สเปกตรัม แบบ GYL E8 | ลังรถลินค์คาร์ | CN | T3 | ROOS_ CHCKED | https://www.lynkcars.com/geely-galaxy-e8/ | มอเตอร์_กําลัง — ฐานข้อมูลอิสระ ตรวจหา; ยืนยันการต่อกร OEM |
+| ภาพ สเปกตรัม แบบ GYL E8 | ลังรถลินค์คาร์ | CN | T3 | ROOS_ CHCKED | https://www.lynkcars.com/geely-galaxy-e8/ | มอเตอร์_กําลัง — ฐานข้อมูลอิสระ ตรวจหา; ล ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง                         (พ.ศ.
 
 ## การทบทวนแก้ไข
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.
 - ~ถูกตรวจสอบแล้ว~: 2026-09-06
 - ~ตลาดแห่งความเสมอภาค ~: CHINA（中国市场CLTC；电池/续航按trim、快充峰值缺官方禁写死；出口版另证）
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา รายการที่ต้องใช้เวลา (เรต ค่าธรรมเนียม รายชื่อ ค่าปรับ ค่าอ้างอิงในประเทศ) จะต้องยืนยันอีกครั้ง ในหน้าปัจจุบันอย่างเป็นทางการ ก่อนที่จะทําการข้ามแดน

@@ -1,14 +1,16 @@
 # حاوية من 40HQ: يُحسب ذلك على خطة لؤم، و "لشينغ" التي تُمسك في البحر
-## SEO Metadata
-- ** عنوان الحلقة**: كم عدد السيارات مُمتلئة بـ40HQ؟ دليل لبيع الحاويات
-- ** وصف البيانات**: A practical 40HQ vehicle-loading guide — typical 2-SUV no-rack loading vs 4-vehicle double-rack systems, -8 سلالة لكل سيارة على الإطارات تسلسل التحميل  and  فحص بخمس نقاط قبل الختم
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/إبرام شاحنات تحميل
-- ** H1 **** تحميل المركبات بالحاويات وشحنها: الكونتات والراكز والحياكة والفحوصات المسبقة عن علم
-- ** كلمة مفتاحية برية**: كم عدد السيارات التي تضبط 40hq حاوية تحميل مشتعلة
-- ** شروط البحث الثانية**: 40HQ two SUV, حاوية رف سيارات مزدوجة عجلات مُقطرة مُتدلّة بالسيارة، رورو إلى تحويل الحاويات سلسلة تحميل المركبات
-- ** مقترحات داخلية بشأن " لينك "**: /إرشادات/تفتيش قبل الشحن/فحص/بساطة؛ /إرشادات/رفع مستوى الشحن إلى un3171-imdg-compliance/؛ /عوامل/شانجان - cs75-plus/
-- ** اقتراحات مقدمة**: رسم بياني للموازين الجانبية؛ نقاط سطو العجلات؛ السحب المزدوج؛ الترتيب الخاص بالتحميل من القمة إلى القاعدة
-- ** الاقتراحات**: "40HQ two SUV side stowage"; "إطارات العجلات تُشْربُ ثمانية شرائحِ"
+## بيانات SEO الوصفية
+- **عنوان SEO**: كم عدد السيارات مُمتلئة بـ40HQ؟ دليل لوض الحاويات
+- **وصف Meta**: A practical 40HQ vehicle-loading guide — typical 2- SUV  no-rack loading vs 4-vehicle double-rack systems, -8 سلالة لكل سيارة على الإطارات تسلسل التحميل  and  فحص بخمس نقاط قبل الختم
+- **H1**: نقل المركبات وغسلها: العد، والتجمعات، والهدوء، والفحوصات المسبقة عن علم
+- **الكلمة المفتاحية الرئيسية**: عدد السيارات التي تجهز 40hq حاوية
+- **مصطلحات بحث ثانوية**: 40HQ two  SUV , حاوية رف سيارات مزدوجة عجلات مُقَطَعَة مُتَرَقَة رورو إلى تحويل الحاويات سلسلة تحميل المركبات
+- **URL المقترح**: /guides/container-vehicle-loading-lashing/
+- **نية البحث**: مفهوم تحميل المركبات الحاوية وشحنها: الكونتات والراكز والعزلة وما قبل البيع الشيكات: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **اقتراح الصورة**: رسم بياني للموازين الجانبية
+- **نص ALT**: 40HQ two SUV side stowage
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## السؤال الذي يسأله الجميع أولاً
 "كم عدد السيارات في 40HQ؟" ليس لديها إجابة عالمية، إنها مهمة من أبعاد المحركات، المرآة، نظام الرف، خطة الوصل المعتمدة للناقل**. ويعطي هذا الدليل نطاقات واقعية وطريقة؛ وهو لا يعد عمداً بإحصاء ثابت. تأكد كل شحنة من خطة تحميل حقيقية
@@ -33,7 +35,7 @@
 3. تأمين كل وحدة تدريجيا - لا تترك مركبة بدون تأمين بينما تناورة بعد ذلك.
 وتشكل الأخطاء التي تُرتكب في فترات التعاقب (تحميل السيارة السفلى أولاً وتمنع الوصول إلى المسار) أكبر تأخير يمكن تجنبه في حمولات السيارات الأربعة.
 
-## The Five-Point Pre-Seal Stowage check
+# The Five-Point Pre-Seal فحص المواقد
 مقتبس من طريقة تحميل الحاويات الموثقة:
 1. ** قائمة السلع مقابل التعبئة** - الناموسيات والكميات والشرط المطابقة؛ وقد استكملت المبادرة بالفعل)انظر دليل التفتيش الموقعي(.
 2. ** ترتيب مضاف** - توزيع الوزن ومواقع الرف لكل خطة.
@@ -49,7 +51,7 @@
 - ** معدات مصدق عليها** وخطة معتمدة لأربع سيارات إذا استخدمت طابقين.
 - ** تم الاتفاق على طريقة عد سلاسل السيارات وربطها بالعجلات** مع مستودع التحميل.
 - ** دليل الصور** على القذف والضرب قبل الفقمة، المرتبط بالفينيين.
-- ** EEV dangerous-goods paperwork** and carrier SOC rules where relevant.
+- ** الأوراق الإلكترونية الخطرة** وقواعد النقل البحري، حسب الاقتضاء.
 - ** قبول بطاريات وطرق وناقلات وقبول طرفي مكتوب**: اسم الميناء والمحطات الطرفية** (المحاكمة الموثقة أعلاه هي إشارات إلى ميناء الصين، مثل يانتاي، وليس معيارا عالميا)، وناقل المحيط الهندي، ومشغل الحاويات**، وما إذا كانت تلك المحطة تقبل برفوف السيارات المتحركة الدوبلدة، والضرب بالطرق السريعة** على الإبحار المُحجز. شروط القبول وأي تغيير فعال يختلف عن الطرفية والناقل لذا سجلوا المستجدات التي تم تأكيدها** ضد قانون وحدة مكافحة الإرهاب
 
 ## الأسئلة المتكررة
@@ -60,17 +62,17 @@
 ** ما الذي تم فحصه قبل إغلاق الأبواب؟** تطابق النظام، مركز الجاذبية والتخليص، تأمين كامل، وهامش الباب - مع الصور.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile

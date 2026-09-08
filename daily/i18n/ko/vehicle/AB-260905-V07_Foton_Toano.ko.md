@@ -1,15 +1,17 @@
 # Foton Toano Tuyano (2026) - 중국 시장 대반 (빛 버스) 사양 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Foton Toano (Tuyano) 대형 밴: 중국 시장 사양 및 수출 구매자 가이드
-- **마타 기술 **: 중국 시장 Foton Toano 빛 밴: 짧고 긴 축축, 디젤 토크, 넓은 좌석 범위, 그리고 왜 냉장한 변환은 따로따로 평가됩니다.
-- ** H1 **: Foton Toano Tuyano (2026) - 중국 시장 대반 (빛 버스) 사양 및 수출 검사
-- ** 출원 키워드**: Foton 福田 토노 图雅诺 大 VAN(轻客) 사양 수출
-- **세컨드 검색 이용 약관**: Foton Toano 수출; Tuyano van; 중국 광 버스; 여객 반;화물 반 변환
-- **Suggested URL**: /vehicles/foton-toano/
-- ** 수색 **: 了解 Foton 福田 Toano 图雅诺 大 VAN (轻客) 中国版规格 、 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: Foton Toano (Tuyano) 큰 밴: 중국 시장 사양 및 수출 구매자 가이드
+- **메타 설명**: 중국 시장 Foton Toano 빛 버스/큰 밴: 짧고 긴 축축, 디젤 토크, 넓은 좌석 범위, 그리고 왜 냉장한 변환은 따로따로 평가됩니다.
+- **H1**: Foton Toano / Tuyano (2026) - 중국 시장 대반 (빛 버스) 사양 및 수출 검사
+- **주요 키워드**: Foton/福田 토노/图雅诺 大 VAN (轻客) specs 수출
+- **보조 검색어**: Foton Toano 수출; Tuyano 밴; 중국 가벼운 버스; 여객 밴; 화물 밴 변환
+- **추천 URL**: /vehicles/foton-toano/
+- **검색 의도**: Foton Toano / Tuyano (2026) - 중국 시장 대반 (Light Bus) Specs 및 Export Checks: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 Foton Toano/Tyano (2026)를 설명합니다 — 중국 시장 큰 밴 (Light Bus) Specs 및 수출 검사, 단계 검사 또는 사람들은 주장했습니다.
+- **ALT 텍스트**: 재료의 자연적인 전망 및 Foton Toano/Touano (2026)와 관련있는 주제 - 중국 시장 큰 밴 (Light Bus) Specs 및 Exp, 중립 배경, 사람들 또는 검사 활동은 보였습니다.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## Buyer context: 구성 가능한 빛 버스, 한 고정 사양
 **Foton Toano (图雅诺, 2026) **는 많은 휠베이스와 좌석 수를 통해 제공되는 중국 시장 디젤 대형 밴 라이트 버스입니다. 변형 매트릭스가 넓기 때문에, 이 페이지는 단 하나가 "Toano" spec보다 ** IDentified configurations only**에 쓰여져 있습니다. 참조 시장은 ** 중국**입니다.
@@ -46,15 +48,14 @@
 **석은 몇 ** 그것은 버전 (3–17);에 걸쳐 범위가 정확한 빌드를 지정합니다.
 **왜 전체 ISF2.8 파워 목록이 ** 변종 모체는 OEM 자물쇠를 필요로 합니다; 그것은 withheld입니다.
 ** 냉장 밴 공장 ** 그것은 Toano 포좌에 변환/upfit입니다.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+**미니버스의 휠베이스는 무엇입니까?** 레이아웃으로 3070/3510/3750 mm에서 선택하십시오.
 **GVW 수치는 어디에 ** 믿을 수 없을 정도로 캡처; 균질화에서 얻을.
-
 
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | 담당자: Mr. wang | T4 | CROSS_체크 | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | https: | 短轴 长轴尺寸,  轴距 | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576
+| : 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 유형:: 유형:: 유형:: 담당자: Mr. 광 | T2 | CROSS_체크 | https: | 短轴 长轴尺寸,  轴距 | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576
 | 图雅诺 吉象流动服务车 | 大众网机械 | 담당자: Mr. wang | T3 | CROSS_체크 | http://www.dzwww.com/jixie/f25184ea8b1340967.html 대한 자세한 정보 | 2.5T 动力, 扭矩, 座位 |
 | 图雅诺 冷藏改装 (上装) | 大众网机械 | 담당자: Mr. wang | T3 | CROSS_체크 | http://www.dzwww.com/jixie/e79925a2501247453.html 대한 자세한 정보 | F2.8NS6B177L 改装上装, 非原厂 VAN 参数 |
 | Foton Motor 공식 사이트 | Beiqi Foton 모터 福田汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: 이메일: sales@foton.com | 선 ID와 OEM 권위 | https://www.foton.com.cn/
@@ -68,30 +69,29 @@
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 Foton 토노 반
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
-  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
-  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
-
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 Foton Toano 밴
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
+  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
+  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

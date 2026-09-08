@@ -1,16 +1,16 @@
 # Geely Galaxy E8 (Yinhe E8): Référence de la berline électrique du marché chinois pour l'exportation
-## OEuvre Métadonnées
-- **Référencement**: Geely Galaxy E8 (Yinhe E8) Spécifications d'exportation: Batterie, Gamme, Guide de charge
-- **Description détaillée**: Référence du marché chinois pour la berline électrique Geely Galaxy/Yinhe E8 basée sur SEA: variantes de moteurs, gamme CLTC et options de batteries ont maintenu des caractéristiques spécifiques de la garniture, 800V mises en garde de charge et contrôles d'exportation EV.
-- ** H1 **: Geely Galaxy E8 (Yinhe E8): Référence de berline électrique sur le marché chinois pour l'exportation
-- **Mot-clé principal**: Galaxie de Dieu E8 Yinhe E8 Spécifications d'exportation
-- ** Termes de recherche secondaire**: Architecture Galaxy E8 SEA; Yinhe E8 gamme CLTC; Chargement Galaxy E8 800V; b) Exportation de berlines électriques; E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Intention de la recherche**: 面向海外B端买家介绍银河E8中国市场版本身份、三电/续航/充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+## Métadonnées SEO
+- **Titre SEO**: Geely Galaxy E8 (Yinhe E8) Spécifications d'exportation: Batterie, Gamme, Guide de charge
+- **Description meta**: Référence du marché chinois pour la berline électrique Geely Galaxy/Yinhe E8 - basée sur SEA: les variantes de moteurs, la gamme CLTC et les options de batterie ont maintenu les parures spécifiques, 800V mises en garde de charge et EV contrôles d'exportation.
+- **H1**: Geely Galaxy E8 (Yinhe E8): Référence de la berline électrique du marché chinois pour l'exportation
+- **Mot-clé principal**: La galaxie de Dieu E8 Yinhe E8 Spécifications d'exportation
+- **Termes de recherche secondaires**: Galaxy E8 SEA architecture; Yinhe E8 CLTC gamme; Galaxy E8 800V charge; berline électrique de Geely export; E8 475 kW AWD
+- **URL suggérée**: /vehicles/geely-galaxy-e8/
+- **Intention de recherche**: Comprendre Geely Galaxy E8 (Yinhe E8): Référence de la berline électrique de marché chinois pour l'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
 - **Suggestion d'image**: Avant trois-quart d'une berline électrique Geely Galaxy E8 avec sa signature de lumière pleine largeur
-- **ALT Suggestion**: Vue sur une berline électrique Geely Galaxy E8 montrant la barre lumineuse et la ligne de toit à dos rapide
-- **Schema Scope**: Article + Vehicle
+- **Texte ALT**: Vue sur une berline électrique Geely Galaxy E8 montrant la barre lumineuse et la ligne de toit à dos rapide
+- **Portée du schéma**: Article + Véhicule
 
 La Galaxy E8 (Yinhe E8) est la berline électrique de Geely sur la SEA (Sustainable Experience Architecture) – une voiture électrique à batterie à faible adhérence (environ 0.199 Cd) de cinq places, offerte en monomoteur à moteur à moteur à moteur à moteur à moteur à roue intégrale. Parce qu'il s'agit d'un EV, la décision d'achat est prise sur la batterie, le cycle de test, l'architecture de charge et le logiciel, et non sur un seul numéro de puissance. Tout ce qui suit est une référence ** du marché chinois (CLTC)**; les versions d'exportation et leurs normes de tarification exigent des preuves distinctes des OEM.
 
@@ -88,4 +88,3 @@ Environ 5010 × 1920 × 1465 mm avec un empattement 2925 mm (référence du marc
 - **Marché de référence**: CHINE(中国市场 CLTC; 电池 续航按 parures, 快充峰值缺官方禁写死; 出口版另证)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les articles sensibles au temps (taux, frais, listes, gammes de produits, prix de référence nationaux) doivent être confirmés à nouveau sur la page courante officielle avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.
-

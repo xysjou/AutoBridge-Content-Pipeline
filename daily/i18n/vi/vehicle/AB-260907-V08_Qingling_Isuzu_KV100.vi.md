@@ -1,16 +1,16 @@
 # Thanh tra Isuzu KV100: Một xe tải nhỏ màu xanh nước biển có tham chiếu được xây dựng chung quanh GVW, máy và đường dây mẫu quảng cáo
-## SAO Siêu dữ liệu
-- **SEAO Title**: Qing Isuzu KV100 Name
-- **Meta Mô tả**: Chinese-market reference for the Qingling Isuzu KV100 N2 blue-plate light truck: 4KH1CN6LB Động cơ diesel Trung Quốc 6, khu vực chứa hàng, gần 100P đường thẳng được tách ra, và xuất khẩu xác thực.
-- ** H1 Qingling Isuzu KV100: một xe tải xe tải nhỏ màu xanh Trung Quốc có tham khảo được xây dựng quanh GVW, máy móc và đường dây Mô hình Adjacent
-- **Cuning Keyword**: Qing Isuzu KV100 eract
-- **Secondary Search Words**: 庆铃 KV100; KV100 4KH1CN6LB; Izu, xe tải nhẹ, Trung Quốc. xe tải đĩa xanh; Xuất khẩu xe tải Trung Quốc N2; MB 5MT
-- **Suggest URL**: /vehcles/qiging-isu- kv100/
-- **Tìm kiếm ý định**: 面向海外买家介绍庆铃KV100中国市场身份、4KH1国六柴油、货箱长度区间，并区分相邻100P车型线与全球ELF
-- **I nội bộ Link gợi ý*: /vehicles/chan-kaicene- f70/, /vehicles/jmc-ford- t8/, /vehicles/faw-jieng- j7-tractor/
-- **Image pretry**: A Qingling Isuzu KV100 cab-over light cargo truck shown from side three-quarter
-- **LT Đề nghị**: Side three-quarter view of a Qingling Isuzu KV100 cab-over light truck on neutral ground
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Thanh Thanh Vân KV100 Name
+- **Meta mô tả**: Chinese-market reference for the Qingling Isuzu  KV100  N2 blue-plate light truck: 4KH1CN6LB Động cơ diesel Trung Quốc 6, khu vực chứa hàng, gần 100P đường thẳng được tách ra, và xuất khẩu xác thực.
+- **H1**: Thanh tra Isuzu KV100: Một xe tải nhỏ màu xanh biển Trung Quốc có tham chiếu được xây dựng khoảng GVW, động cơ và đường dây mẫu quảng cáo
+- **Từ khóa chính**: Thống kê xuất khẩu Thanh Thanh Trừng KV100
+- **Cụm tìm kiếm phụ**: 庆铃 KV100; KV100 4KH1CN6LB; Izu, xe tải nhẹ, Trung Quốc. xe tải đĩa xanh; Xuất khẩu xe tải Trung Quốc N2; MSB 5MT
+- **URL đề xuất**: /vehicles/qingling-isuzu-kv100/
+- **Ý định tìm kiếm**: Hiểu Thanh tra Isuzu KV100: một chiếc xe tải xe tải màu xanh Trung Quốc có tham khảo được xây dựng khoảng GVW, động cơ và đường dây Mô hình Adjacent: cái gì một chiếc xe/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/changan-kaicene-f70/, /vehicles/jmc-ford-transit-t8/, /vehicles/faw-jiefang-j7-tractor/
+- **Gợi ý hình ảnh**: A Qingling Isuzu KV100 cab-over light cargo truck shown from side three-quarter
+- **Văn bản ALT**: Side three-quarter view of a Qingling Isuzu KV100 cab-over light truck on neutral ground
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling Motors in China for the domestic "blue-plate" N2 category — vehicles with a gross vehicle mass at or below 4.5 t that can be driven under an ordinary light-vehicle licence in China. Đối với người mua xuất khẩu, quy tắc chủ chốt là quy tắc điều chỉnh và quy tắc dòng mô hình: Hãy gắn kết các hậu tố chính xác của động cơ và giai đoạn phun ra của Trung Quốc 6, giữ cho KV100 các đường thẳng gần nhà máy Thanh và Isuzu như 100P, và không coi những con số tuyệt mật được sử dụng như dữ liệu nhà máy. Trang này là một tham chiếu thị trường Trung Hoa ** và không đồng nhất với bản Thanh tra xây dựng KV100 với dãy Isuzu N/ELF toàn cầu mà không có một tuyên bố giống hệt OEM.
 

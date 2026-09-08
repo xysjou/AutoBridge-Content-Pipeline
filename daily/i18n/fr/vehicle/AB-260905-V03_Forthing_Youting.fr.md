@@ -1,15 +1,29 @@
 # Dongfeng Forthing Youting (2025/2026) — Marché chinois MPV Spécifications, lignes ICE/PHEV et contrôles d'exportation
+## Métadonnées SEO
+- **Titre SEO**: Fantômes MPV: Marché Chinois ICE & PHEV Lignes, spécifications et guide d'exportation
+- **Description meta**: Dongfeng Forthing Youting (游艇) MPV: séparer les ICE et PHEV lignes; dimensions, 7-seat, cabine, PHEV points de vérification de la motorisation et des exportations.
+- **H1**: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV lignes et contrôles à l'exportation
+- **Mot-clé principal**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
+- **Termes de recherche secondaires**: Exportation de produits de la fraiche; 游艇 MPV specs; chinois 7-seat MPV; MPV PHEV; importation de fourgonnettes
+- **URL suggérée**: /vehicles/forthing-youting/
+- **Intention de recherche**: Comprendre Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Contrôles des lignes et des exportations: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Suggestion d'image**: Une scène réaliste, centrée sur le document/véhicule, illustrant Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines et Expor, aucune inspection par étapes ni les personnes réclamées.
+- **Texte ALT**: Vue de la nature et des matériaux et du sujet de Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lignes, fond neutre, personne n'a été montrée ou aucune action d'inspection.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: Forthing Youting MPV: Chinese-Market Lignes ICE & PHEV, spécifications et guide d'exportation
-- **Meta Description**: Dongfeng Forthing Youting marché chinois (游艇) MPV: gardez les lignes ICE et PHEV séparées; dimensions, 7-seat cabine, groupe motopropulseur PHEV et points de vérification d'exportation.
-- ** H1 **: Dongfeng Forthing Youting (2025/2026) — MPV marché chinois Spécifications, lignes ICE/PHEV et contrôles d'exportation
-- **Mot-clé principal**: Dongfeng Forthing 东风风行 Déchirage 风行游艇 spécifications export
-- **Termes de recherche secondaires**: Forthing Youting export; 游艇 spécifications MPV; chinois 7-seat MPV; MPV PHEV; importation de fourgons de passagers
-- **URL suggérée**: /véhicules/de la création de la marchandise/
-- **Intention de la recherche**: 了解 Dongfeng Forthing 东风风行 Thing 风行游艇 中国版规格 -配置与出口适配性 (车型参数页)
-- **Suggestions de lien interne**: /véhicules/de-foyer/, /guides/ckd-skd-knockdown-kit-export-assemblement/, /guides/export-document-package-history/
-- **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: De la destruction MPV: Lignes, spécifications et guide d'exportation ICE & PHEV marché chinois
+- **Description meta**: Dongfeng Forthing Youting (游艇), marché chinois, MPV: gardez les lignes ICE et PHEV séparées; dimensions, 7-seat, motorisation et points de vérification d'exportation.
+- **H1**: Dongfeng Forthing Youting (2025/2026) — Marché chinois MPV Spécifications, lignes ICE/PHEV et contrôles d'exportation
+- **Mot-clé principal**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
+- **Termes de recherche secondaires**: Exportation de produits de la floriculture; 游艇 spécifications du MPV; 7-seat MPV chinois; VPHV MPV; importation de fourgonnettes
+- **URL suggérée**: /vehicles/forthing-youting/
+- **Intention de recherche**: Comprendre les dongfengs (2025/2026) — spécifications du marché chinois, lignes de glace/veuve et contrôles à l'exportation: ce qu'un exportateur de véhicules/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Suggestion d'image**: Une scène réaliste, centrée sur les documents et les véhicules, illustrant Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Spécifications, lignes ICE/PHEV et Expor, aucune inspection par étapes ou les personnes réclamées.
+- **Texte ALT**: Vue de près et naturelle des matériaux et du sujet lié à Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Spécifications, CIE/VPH Lignes, fond neutre, personne n'a été montrée ou aucune action d'inspection n'a été montrée.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
 ## Contexte d'achat: une plaque nominative MPV, deux lignes énergétiques
 Le **Donggeng Forthing Youting (游艇)** est un MPV de taille moyenne offert sur le marché chinois en lignes **ICE et PHEV qui doit être cité séparément**. Ils partagent une empattement 2900 mm et une cabine à portes à charnières 7-seat, mais diffèrent en hauteur et en motorisation. Le marché de référence est **Chine**; aucune spécification de ligne d'exportation n'est revendiquée.
@@ -54,7 +68,6 @@ Pour les importateurs de VPM, les champs critiques pour la commande sont le nomb
 **Le prix à l'exportation est-il de 154 à 900 RMB?** Non — référence intérieure chinoise seulement.
 **Peut-il être converti en navette/ambulance?** Comme un bon ajustement; évaluer séparément du VPM de base.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -73,18 +86,18 @@ Pour les importateurs de VPM, les champs critiques pour la commande sont le nomb
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: Dongfeng exact pour la destruction de la substance
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +110,5 @@ Pour les importateurs de VPM, les champs critiques pour la commande sont le nomb
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

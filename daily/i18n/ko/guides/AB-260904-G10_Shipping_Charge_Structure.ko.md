@@ -1,15 +1,17 @@
 # 차량 수출을 위한 대양 운임 인용을 읽으십시오: 재고가 없는 책임 구조
 
-## ▼ 한국어 메타데이터
-- **SEO Title**: 차량 수출용 해상 화물 운송 구조 — O/F, THC, DOC, BAF 설명
-- **마타 기술 **: O/F, THC, DOC/SEAL/VGM, BAF 및 surcharge, Origin vs Destination Charge, 왜 AMS/ACI/ENS가 경로를 지정하는 구조 가이드는 고정 금액이 아닌 고정된 상태입니다.
-- **Suggested URL**: /guides/ocean-freight-charge-structure-vehicle-export
-- ** H1 **: 차량 수출 화물 지수를 디코딩: 어떤 책임도, 누가 그들을 충전, 그리고 확인 하는 것
-- ** 운송 키워드 **: 해상화물 운송 구조 차량 수출 THC DOC BAF의 특징
-- **세컨드리뷰 이용**: O/F 해상 화물, 터미널 처리료, DOC 문서 수수료, SEAL VGM 수수료, BAF EBS surcharge, AMS ACI ENS 표제 요금, 기원 대 대상 요금
-- ** 내부 링크 제안**: /guides/vehicle-export-bill-of-lading-types/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/vehicle-export-hs-code-classification/
-- ** 이미지 제안 **: 충전 폭포 기원→ocean→destination; surcharge taxonomy; 견적 감사 장
-- **ALT 제안**: "오션, 바다 및 목적지로 나뉘어지는 화물 요금 구조"
+## SEO 메타데이터
+- **SEO 제목**: 차량 수출을 위한 대양 운임 책임 구조 — O/F, THC, DOC, BAF 의논하기
+- **메타 설명**: O/F, THC, DOC/SEAL/VGM, BAF 및 surcharges, Origin vs Destination Charge를 견딜 수 있으며 AMS/ACI/ENS의 표시 수수료가 경로를 따라 달라집니다.
+- **H1**: 차량 수출화물 지수를 해독: 어떤 책임도 존재, 누가 그들을 충전, 그리고 Verify에 대한
+- **주요 키워드**: 대양 운임 구조 차량 수출 THC DOC BAF
+- **보조 검색어**: O/F 해상 화물, 터미널 취급 요금, DOC 문서 요금, SEAL VGM 요금, BAF EBS surcharge, AMS ACI ENS 표 요금, 목적지 요금의 기원
+- **추천 URL**: /guides/ocean-freight-charge-structure-vehicle-export
+- **검색 의도**: 차량 수출화물 지수를 해독하는 데는 다음과 같습니다. Exist는 누구가 Them를 청구하고 Verify에 대한 것입니다. 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **이미지 제안**: 책임 폭포 근원→ocean→destination
+- **ALT 텍스트**: 해상 화물 책임 구조는 근원, 바다 및 목적지에 의해 분할합니다
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 왜 구조가 많은 따옴표가 왜 더 낮은 수
 헤드 라인화물은 예약을 승리하고 목적지에서 돈을 잃습니다. 차량 수출은 기본 바다화물에 의해 잡히지 만, 그에 붙어있는 surcharges 및 목적지 요금의 더미에 의해. 이 가이드는 ** 어떤 각 책임인지 설명합니다. 청구 된 것은 무엇이며, 발생시 **, 그리고 - 모든 비율이 차선, 용량 및 시즌과 이동하기 때문에 - ** 고정 금액이 없습니다 **. 견적을 요청하지 않는 라인에 의해 견적을 감사 합니다.
@@ -77,7 +79,7 @@
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| FCL 수출 대류 고장 | 의논하기 | INTL의 | https: | 2026-09-04 | CROSS_체크 | O/F, THC, DOC, BAF, 감사 방법 | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html
+| FCL 수출 대류 씰 | 의논 | INTL의 | https://www. | 2026-09-04 | CROSS_체크 | O/F, THC, DOC, BAF, 감사 방법 | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html
 | THC 정의 | 뚱 베어 금융 배송 | INTL의 | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md 경우 | 2026-09-04 | CROSS_체크 | 터미널 취급 |
 | lane에 의한 해상 수출 책임 부품 | 뚱 베어 | INTL의 | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_체크 | 수비 세토, AMS/ACI/ENS 경로 논리 |
 | 일반적인 FOB 책임 (THC/booking/trucking) | | 담당자: Mr. wang | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | 책임 naming | https://m.11467.com/product/d24491409.htm 11467

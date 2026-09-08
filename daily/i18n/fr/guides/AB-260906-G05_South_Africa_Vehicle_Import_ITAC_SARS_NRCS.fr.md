@@ -1,16 +1,16 @@
 # Importation de véhicules en Afrique du Sud: permis de l'ITAC, douanes du SRAS et LOA du CNRC
-## OEuvre Métadonnées
-- **Titre du SEO**: Importation de véhicules en Afrique du Sud: ATAC, SRAS et LOA du CNRC
-- **Description détaillée**: Guide national d'importation de véhicules en Afrique du Sud: permis d'importation de l'ITAC, lettre d'autorisation du CNRC et processus douanier du SRAS, avec les organismes et ordre d'étape.
-- ** H1 **: Importation de véhicules en Afrique du Sud: permis de l'ITAC, douanes du SRAS et LOA du CNRC
-- **Mot-clé principal**: importation de véhicules en Afrique du Sud SRAS DE L'ITAC
-- **Termes de recherche secondaires**: permis d'importation de l'ITAC en Afrique du Sud; véhicule de la lettre d'autorisation du CNRC; véhicule douanier pour le SRAS; voiture d'occasion en Afrique du Sud; véhicule à moteur de la LOA
-- **Suggested URL**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Intention de la recherche**: 向南非出口车辆需要哪些进口管制许可 -海关税务与强制合规 (LOA), 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
-- **Suggestion d'image**: traitement des véhicules portuaires sud-africains avec permis et documents douaniers sur un bureau
-- **ALT Suggestion**: Permis d'importation de véhicules et documents douaniers sur un bureau avec un port sud-africain au-delà
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: Importation de véhicules en Afrique du Sud: ITAC, SARS et NRCS LOA Expliquée
+- **Description meta**: Guide national d'importation de véhicules en Afrique du Sud: le permis d'importation ITAC, la lettre d'autorisation NRCS et le processus douanier SARS, avec les agences et l'ordre des étapes.
+- **H1**: Importation de véhicules en Afrique du Sud: ITAC Permis, SARS Douanes et NRCS LOA
+- **Mot-clé principal**: Afrique du Sud importation de véhicules ITAC SARS NRCS LOA
+- **Termes de recherche secondaires**: ITAC permis d'importation Afrique du Sud; NRCS véhicule de la lettre d'autorisation; SARS véhicule douanier importation; importation de voiture d'occasion Afrique du Sud; LOA véhicule automobile
+- **URL suggérée**: /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Intention de recherche**: Comprendre l'importation de véhicules en Afrique du Sud: ITAC Permis, SARS Douanes et NRCS LOA: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/verify-chinese-car-export-supplier-history/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/export-sales-contract-china-vehicle/
+- **Suggestion d'image**: Traitement des véhicules portuaires sud-africains avec permis et documents douaniers sur un bureau
+- **Texte ALT**: Permis d'importation de véhicules et documents douaniers sur un bureau avec un port sud-africain au-delà
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 L'Afrique du Sud fait passer les importations de véhicules par trois autorités distinctes, et les confondre est la raison la plus courante d'un décrochage de marchandises. La **Commission de l'administration du commerce international (CITC)** contrôle si le véhicule peut être importé du tout; la **Régulatrice nationale des spécifications obligatoires (NRCS)** contrôle si elle satisfait aux spécifications de sécurité obligatoires par l'intermédiaire d'une lettre d'autorisation; et le **South African Revenue Service (SRAS)** évalue et perçoit les droits de douane et la taxe au dédouanement. Il s'agit d'un guide spécifique à l'Afrique du Sud, qui n'est pas une règle régionale pour les pays voisins.
 

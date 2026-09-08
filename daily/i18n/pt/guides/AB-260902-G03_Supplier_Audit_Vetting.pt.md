@@ -1,15 +1,17 @@
 # Como verificar um fornecedor chinês de exportação de carro antes do pagamento: Due-Diligence Checklist
 
-## SEO Meta- dados
-- ** Título SEO**: Verificar um chinês carro exportador Fornecedor: Due-Diligence Checklist
-- ** Descrição do Meta**: Um quadro de liquidação em fase de pagamento para verificar os exportadores de veículos chineses — qualificação MIIT anuncio/CCC, verificações de licenciamento comercial, cadeia de autorização de exportação, AEO, correspondência de contas bancárias e normas de videoauditoria.
-- ** URL sugerido**: /guides/verify-china-car-export-supplier/
-- ** H1 **: Vetting um exportador de veículos chinês: O que verificar antes do primeiro pagamento
-- **Primary Keyword**: verificar a licença de due diligence do fornecedor de carro chinês
-- ** Termos de pesquisa secundários**: China qualificação de exportação de veículos, anúncio do fabricante de veículos MIIT, exportador de certificado CCC, verificação de licença de negócio gsxt, cadeia de autorização de exportação de automóveis da China, crédito aduaneiro AEO
-- **As sugestões de ligação interna**: /guias/veículo-importação-pagamento-tt-vs-lc/; /guias/inspecção-ev-usada-chinês/; /guias/comercial-caminhão-fleete-procurement-china/
-- **Image Suggestions**: due-diligence layered piramid; gsxt business-licence check fields; authority-chain diagram; bank-account match warning
-- **ALT Sugestões**: "Diploma chinês de exportação de automóveis due diligence verification layers"; "National Enterprise Credit Information system licence fields"; "Fornecedor para cadeia de autorização de fábrica"
+## Metadados SEO
+- **Título SEO**: Verifique um chinês carro exportador Fornecedor: Due-Diligence Checklist
+- **Meta descrição**: Um quadro de pagamento em fase de vencimento para verificar os exportadores de veículos chineses — MIIT anúncios/ CCC qualificação, controlos de licença comercial, cadeia de autorização de exportação, AEO, correspondência de contas bancárias e padrões de videoauditoria.
+- **H1**: Vetting um exportador de veículos chinês: O que verificar antes do primeiro pagamento
+- **Palavra-chave principal**: verificar a licença de exportação de carro chinês fornecedor due diligence
+- **Termos de busca secundários**: China qualificação de exportação de veículos, MIIT anúncio do fabricante de veículos, CCC exportador de certificados, verificação da licença de negócio do gsxt, China carro cadeia de autorização de exportação, AEO crédito aduaneiro
+- **URL sugerida**: /guides/verify-china-car-export-supplier/
+- **Intenção de busca**: Entender Vetting um exportador de veículos chinês: O que verificar Antes do Primeiro Pagamento: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Sugestão de imagem**: pirâmide em camadas de diligencia devida
+- **Texto ALT**: Exportador de automóveis chineses devido diligência verificação camadas
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## O Problema Isso Resolve
 
@@ -90,18 +92,18 @@ Uma verificação de licença prova que uma empresa existe, não que ela possa e
 ** O que prova que um fornecedor exporta realmente?** Declarações de exportação recentes (em 3-month), mais uma auditoria em directo da linha, estoque, QC e doca de carga, cruzados contra reclamações.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,15 +1,17 @@
 # 중국 차량 VIN 및 명찰을 GB 16735-2019의 밑에 읽고 검증하십시오
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 차량 수입에 대한 VIN & Nameplate 검증 — GB 16735-2019
-- **마타 기술 **: 17-character VIN은 GB 16735-2019의 밑에 WMI/VDS/VIS로 분할하는 방법, 왜 각인된 VIN, 명찰, 증명서 및 선박 문서는 일치해야 하고, 수입업자는 지불의 앞에 확인해야 합니다.
-- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- ** H1 **: 중국 차량에 대한 VIN 및 Nameplate 검증: 구조, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  the Four-Place Match
-- ** 출원 키워드 **: VIN 명찰 검증 GB16735 중국 자동차
-- **세컨드리뷰 이용**: WMI VDS VIS 구조, GB16735-2019 VIN, VIN 체크인 자리 9, VIN 명찰 인증서 일관성, 스탬프 VIN 타당성
-- ** 내부 링크 제안**: /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-declaration/; /vehicles/jac- t9-hunter/
-- ** 이미지 제안**: 17-char VIN 세그먼트 도표; four-place match checklist; 스탬프 VIN 닫기
-- ** ALT 제안**: GB16735-2019"의 밑에 WMI VDS VIS로 분할되는 " 17 특성 VIN
+## SEO 메타데이터
+- **SEO 제목**: VIN & 중국 차량 수입용 명찰 검증 - GB 16735-2019
+- **메타 설명**: 17-character VIN는 GB 16735-2019의 밑에 WMI/VDS/VIS로 분할하는 방법, 왜 각인된 VIN의 명찰, 증명서 및 선박 문서는 일치해야 하고, 수입업자는 지불의 앞에 확인해야 합니다.
+- **H1**: 중국 차량 VIN 및 명찰 검증: 구조, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  the Four-Place Match
+- **주요 키워드**: VIN 명찰 검증 GB16735 중국 자동차
+- **보조 검색어**: WMI VDS VIS 구조, GB16735-2019 VIN의 VIN의 체크 손가락 위치 9의 VIN 명찰 증명서 견실함, 각인된 VIN 탬퍼
+- **추천 URL**: /guides/vin-nameplate-verification-chinese-vehicles
+- **검색 의도**: 중국 차량에 대한 VIN 및 명찰 검증을 견딜 수 있습니다. 구조, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  the Four-Place Match: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- **이미지 제안**: 17-char VIN 세그먼트 도표
+- **ALT 텍스트**: 17 문자 VIN 분할 WMI VDS VIS GB16735-2019 아래
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 왜 VIN 검증 Sits 지불하기 전에
 VIN 잡화는 등록 ** 이후 차단 몇 가지 결함 중 하나입니다 ** 차량은 이미 지불되고 배송되었습니다. 수정은 sourcing 책상에 싸고 목적지 포트에 비쌉니다. 이 가이드는 현재 표준의 중국 VIN 구조에 대해 설명합니다.  and  gives a four-place consistency check buyers can run before releasing balance payment.
@@ -25,7 +27,7 @@ VIN 잡화는 등록 ** 이후 차단 몇 가지 결함 중 하나입니다 ** �
 ## 우리가 Deliberately는 첫 번째 문자에서 Infer하지 않습니다.
 WMI 첫 번째 문자는 공인 된 몸에 의해 할당됩니다. 이 가이드는 ****는 정의 기원 테스트로서 L (H)와 같은 담요 규칙을 주장합니다. 그 주장은 현재 연구에서 신뢰할 수있는 표준에 확인되지 않았으며 ** 인증 된대로 처리됩니다. 원산지 및 제조업체는 ** 공인 WMI 할당**에서 처음 문자로 추측하지 않아야합니다. 특정 WMI-prefix-to-manufacturer lookup은 할당 테이블을 필요로하며 여기에 재현되지 않습니다. 대상 국가 VIN 형식 규칙은 국가 별이며 별도로 확인됩니다.
 
-## The Four-Place Match Before Balance Payment
+## 균형 지불의 앞에 4 장소 일치
 Compare the same 17 characters across four locations  and  연삭이 없으면 재감상 또는 과 살포:
 1. ** 몸에 스탬프 치셀 VIN ** (카시스).
 2. **명판에 있는 VIN **.

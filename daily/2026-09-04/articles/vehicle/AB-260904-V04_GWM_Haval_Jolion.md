@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Haval Jolion / Haval Chulian Identity & Market-Specific Specs — Export Guide
 - **Meta Description**: GWM's own history confirms the Chinese Haval Chulian (哈弗初恋) is sold overseas as the Haval Jolion at base-model level — but Chinese 1.5T and overseas HEV powertrains differ and are listed by market, never merged.
-- **Suggested URL**: /vehicles/haval-jolion/
 - **H1**: GWM Haval Jolion: OEM-Confirmed Name Identity, with Chinese and Overseas Powertrains Kept Apart
 - **Primary Keyword**: haval jolion china specs export
 - **Secondary Search Terms**: Haval Chulian Jolion same model, Jolion 1.5T, Jolion HEV overseas, GWM history Jolion South Africa Saudi, Jolion dimensions
+- **Suggested URL**: /vehicles/haval-jolion/
+- **Search Intent**: Understand GWM Haval Jolion: OEM-Confirmed Name Identity, with Chinese and Overseas Powertrains Kept Apart: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/chery-fulwin-t9/
-- **Image Suggestions**: Jolion front three-quarter; 1.5T vs HEV badge comparison; rear cargo; GWM history-page identity note
-- **ALT Suggestions**: "Haval Jolion Chinese 1.5T compact SUV with overseas HEV kept separate"
+- **Image Suggestion**: Jolion front three-quarter; 1.5T vs HEV badge comparison; rear cargo; GWM history-page identity note
+- **ALT Suggestion**: Haval Jolion Chinese 1.5T compact SUV with overseas HEV kept separate
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Identity First: OEM Confirms the Name, Not a Global Datasheet
 "Jolion" is the **overseas-market name** for the Chinese compact SUV sold at home as the **Haval Chulian (哈弗初恋)**. Unlike an alias inferred from looks or platform, this name identity is **confirmed by GWM's own corporate history page**, which records the Haval Chulian's overseas version, the **JOLION**, being launched in **South Africa and Saudi Arabia** (with JOLION HEV in Thailand). Under MODEL_ALIAS_REQUIRES_OEM_PROOF the **base model identity is therefore SAME_MODEL**. The crucial limit: OEM confirmation of the *name* does **not** make every market's *powertrain and trim* identical. The Chinese 1.5T, the Australian 1.5T and the overseas HEV are listed below **by market**, and no "global spec" is asserted.

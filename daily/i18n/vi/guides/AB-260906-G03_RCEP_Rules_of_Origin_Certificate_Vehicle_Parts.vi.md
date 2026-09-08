@@ -1,16 +1,16 @@
 # RCEP Quy tắc nguồn gốc và chứng nhận: Cách mà xe cộ và các phần tự động xác nhận tham khảo
-## SAO Siêu dữ liệu
-- **SEAO title**: RCEP quy tắc Nguồn gốc cho các xe cộ & tự động: less Guide
-- **Meta Mô tả**: Làm thế nào người Trung Quốc xuất khẩu đầy đủ xe cộ và các bộ phận ô tô đáp ứng tiêu chuẩn gốc RCEP, sử dụng phân loại, và chọn một chứng chỉ xuất khẩu nguồn gốc hoặc được phê duyệt để yêu cầu ưu tiên thuế má.
-- ** H1 **: Luật pháp của Nguồn gốc và Chứng nhận RCEP: Cách xe cộ và các phần tự động xác nhận tham khảo
-- **Cumpary Keyword**: luật lệ RCEP của các bộ phận nhận diện phương tiện gốc
-- **Secondary Search termss**: giấy chứng nhận khai thác nguồn gốc RCEP; phân khu vực RCEP; được chấp thuận xuất khẩu RCEP; chứng nhận ngược lại đến ngược; các phần tự động sở thích RCEP
-- **Suggested URL**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
-- **Tìm kiếm Intent**: 出口 RCEP 成员国的整车 零部件如何满足原产地规则 申领原产地证书或经核准出口商声明以享关税优惠
-- **Internal Link Suggestions**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image pretry**: Một chứng nhận về nguồn gốc được chuẩn bị cùng với các bộ phận ô tô đóng gói cho một đích RCEP
-- **LT gợi ý**: sẵn sàng một chứng nhận RCEP gốc kế bên các hộp tự động
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: RCEP Quy tắc nguồn gốc cho xe cộ và phần tự động: Hướng dẫn chứng nhận
+- **Meta mô tả**: Làm thế nào mà những người xuất khẩu xe cộ và phụ tùng xe hơi đáp ứng được RCEP tiêu chuẩn gốc, sử dụng phân phối, và chọn một chứng chỉ xuất khẩu nguồn gốc hoặc được phê duyệt để yêu cầu sở thích thuế má.
+- **H1**: RCEP Quy tắc nguồn gốc và chứng nhận: Cách mà xe cộ và các phần tự động xác nhận tham khảo
+- **Từ khóa chính**: RCEP quy tắc của các bộ phận chứng nhận nguồn gốc
+- **Cụm tìm kiếm phụ**: RCEP chứng nhận về nguồn gốc; RCEP  regional cumulation; approved exporter declaration  RCEP ; Chứng nhận ngược về sau; RCEP  tariff preference auto parts
+- **URL đề xuất**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/
+- **Ý định tìm kiếm**: Hiểu RCEP Luật về Nguồn gốc và Chứng nhận: Cách mà các xe cộ và các phần tự động xác nhận tham khảo: điều gì mà người xuất khẩu xe/ phần phải kiểm chứng, tài liệu và quyết định trước khi đưa ra một lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/china-customs-aeo-certified-operator-export/, /guides/ippc-ispm15-wood-packaging-export/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Gợi ý hình ảnh**: Một chứng nhận về nguồn gốc được chuẩn bị kèm theo các bộ phận ô tô đóng gói cho một đích RCEP
+- **Văn bản ALT**: Tay chuẩn bị một chứng nhận RCEP gốc kế bên các hộp tự động
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Một chiếc xe hoặc một thùng chứa các bộ phận ô tô chỉ nhận được một lệnh thuế ưu tiên tại điểm đến nếu nó **qualiification là khởi nguồn** và được ** bao gồm theo cách mà các tập tục nhập khẩu chấp nhận**. Được vận chuyển từ Trung Quốc không đủ, và một hóa đơn thương mại nói rằng "làm ở Trung Quốc" không phải là bằng chứng của nguồn gốc. Trang này đi qua các bài kiểm tra gốc RCEP, vai trò của việc phân khu vực, ba tuyến đường chứng minh, và cơ chế hậu cần quan trọng khi hàng hóa chuyển qua một bên thứ ba của RCEP.
 

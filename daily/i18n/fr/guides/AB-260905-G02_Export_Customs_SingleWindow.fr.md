@@ -1,15 +1,29 @@
 # Déclaration douanière d ' exportation de la Chine et processus de guichet unique pour les véhicules
+## Métadonnées SEO
+- **Titre SEO**: Déclaration douanière d'exportation de la Chine et guichet unique pour les expéditions de véhicules
+- **Description meta**: Comment un exportateur de véhicules chinois dépose la déclaration en douane d'exportation par le biais du guichet unique du commerce international: voie de déclaration, documents d'accompagnement, droit de véracité et présentation de nouveau après rejet.
+- **H1**: Déclaration douanière d ' exportation de la Chine et processus de guichet unique pour les véhicules
+- **Mot-clé principal**: déclaration en douane d'exportation de Chine guichet unique
+- **Termes de recherche secondaires**: Déclaration d'exportation de la Chine; guichet unique; formulaire de déclaration en douane; documents d'accompagnement; dédouanement à l'exportation
+- **URL suggérée**: /guides/china-export-customs-declaration-single-window/
+- **Intention de recherche**: Comprendre la déclaration douanière d'exportation de la Chine et le processus de guichet unique pour les véhicules: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant la Déclaration douanière d'exportation de la Chine et le processus de guichet unique pour les véhicules, aucune inspection par étapes ni aucune personne n'a été déclarée.
+- **Texte ALT**: Vue étroite et naturelle des matériaux et du sujet lié à la Déclaration douanière d'exportation de la Chine et au processus de guichet unique pour les véhicules, arrière-plan neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
-## OEuvre Métadonnées
-- ** Titre du SEO**: Déclaration douanière d'exportation de la Chine et guichet unique pour les expéditions de véhicules
-- **Description détaillée**: Comment un exportateur de véhicules chinois dépose la déclaration en douane d'exportation par le biais du guichet unique du commerce international: voie de déclaration, documents d'accompagnement, droit de véracité et présentation de nouveau après rejet.
-- ** H1 **: Déclaration douanière d ' exportation de la Chine et processus d ' établissement d ' un guichet unique pour les véhicules
-- **Mot-clé principal**: guichet unique de la déclaration en douane d'exportation de Chine
-- **Conditions de recherche secondaires**: déclaration d'exportation de la Chine; guichet unique; formulaire de déclaration en douane; documents d'accompagnement; dédouanement à l'exportation
-- **URL suggérée**: /guides/chine-export-customs-declaration-simple-fenêtre/
-- **Intention de la recherche**: 出口车辆如何通过中国国际贸易单一窗口填制出口货物报关单 -随附单证与申报流程
-- **Suggestions de lien interne**: /guides/véhicule-export-hs-code-history/, /guides/export-document-package-history/, /guides/chine-utilisé-voiture-export-licence-processus/
-- **Schema Champ d'application**: article (pas de produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: Déclaration douanière d'exportation de la Chine et guichet unique pour les expéditions de véhicules
+- **Description meta**: Comment un exportateur de véhicules chinois dépose la déclaration en douane d'exportation par le biais du guichet unique du commerce international: voie de déclaration, documents d'accompagnement, droit de véracité et présentation de nouveau après rejet.
+- **H1**: Déclaration douanière d ' exportation de la Chine et processus de guichet unique pour les véhicules
+- **Mot-clé principal**: déclaration en douane de Chine à l'exportation guichet unique
+- **Termes de recherche secondaires**: Déclaration d'exportation de la Chine; guichet unique; formulaire de déclaration en douane; documents d'accompagnement; dédouanement à l'exportation
+- **URL suggérée**: /guides/china-export-customs-declaration-single-window/
+- **Intention de recherche**: Comprendre la déclaration en douane d'exportation de porcelaine et le processus de guichet unique pour les véhicules: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant la Déclaration douanière d'exportation de la Chine et le processus du guichet unique pour les véhicules, aucune inspection par étapes ni aucune déclaration de la population.
+- **Texte ALT**: Vue étroite et naturelle des matériaux et du sujet lié à la Déclaration douanière d'exportation de la Chine et au processus de guichet unique pour les véhicules, arrière-plan neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
 ## Ce qui se passe réellement à la déclaration d'exportation
 Du côté chinois, un envoi de véhicules à l'exportation est déclaré électroniquement aux douanes par l'intermédiaire du **Fenêtre unique pour le commerce international**, en utilisant les identifiants électroniques de l'entreprise (carte IC/USBKey). Le déclarant, l'expéditeur ou son courtier en douane, est responsable de la véracité, de l'exactitude et de l'exhaustivité de la déclaration. Ce guide ne porte que sur le processus chinois d'exportation; le dédouanement des importations de destination est une question distincte propre à chaque pays.
@@ -40,7 +54,6 @@ Il ne fournit pas de code SH spécifique ou de condition de surveillance (celles
 **Et si la déclaration est rejetée?** Corriger les champs marqués et soumettre à nouveau avec des documents cohérents.
 **Les frais de courtage sont-ils fixes?** Non, ils varient et ne sont pas cités ici.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -58,18 +71,18 @@ Il ne fournit pas de code SH spécifique ou de condition de surveillance (celles
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: déclaration douanière exacte de la Chine à l'exportation et processus de guichet unique pour les véhicules
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact China Export Customs Declaration and the Single Window Process for Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
   - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export
   - **DE**: single window declaration, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +95,5 @@ Il ne fournit pas de code SH spécifique ou de condition de surveillance (celles
   - **ID**: single window declaration, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: single window declaration, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: single window declaration, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CustomsClearance #SingleWindow

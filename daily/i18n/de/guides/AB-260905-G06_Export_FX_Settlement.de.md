@@ -1,15 +1,17 @@
 # Export FX Settlement und Trade-FX Administration für Fahrzeugexporteure
 
-## SEO Metadaten
-- **SEO Titel **: China Export FX Settlement: Trade-FX Registrierung, Umwandlung und Aggregation Check
-- **Meta Description**: Wie ein chinesischer Fahrzeugexporteur Exportbelege verarbeitet: Registrierung von Verzeichnissen bei einer Bank vor der ersten Transaktion, Abwicklung/Umwandlung und SAFE-Aggregationsprüfung von Warenfluss und Geldfluss.
-- ** H1 **: Export FX Settlement und Trade-FX Administration für Fahrzeugexporteure
-- ** Primäres Keyword**: export fx settlement trade fx Registration
-- **Secondary Search Terms**: Export FX settlement; Handel Devisen; SAFE Registrierung; Warenflussfonds fließen; ASOne Plattform
+## SEO-Metadaten
+- **SEO-Titel**: Ausfuhren aus China FX Abwicklung: Trade- FX Registrierung, Umwandlung und Aggregate Check
+- **Meta-Beschreibung**: Wie ein chinesischer Fahrzeugexporteur Exportbelege verarbeitet: Registrierung von Verzeichnissen bei einer Bank vor der ersten Transaktion, Abwicklung/Umwandlung und SAFE aggregierte Überprüfung des Warenflusses im Vergleich zum Geldfluss.
+- **H1**: Export FX Settlement und Trade- FX Verwaltung für Fahrzeugexporteure
+- **Haupt-Keyword**: Export fx settlement trade fx Registration
+- **Sekundäre Suchbegriffe**: FX Siedlungen exportieren; Devisenhandel, SAFE Registrierung; Warenflussfondsfluss; ASOne Plattform
 - **Vorgeschlagene URL**: /guides/export-fx-settlement-trade-fx-registration/
-- **Search Intent**: 出口企业如何办理贸易外汇收支企业名录登记 收汇结汇并满足货物流 - 资金流匹配核查
-- **Interne Linkvorschläge**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-zollerklärung-single-window/
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
+- **Suchabsicht**: Export FX verstehen Abwicklung und Handel- FX Verwaltung für Fahrzeugexporteure: Was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
+- **Bildvorschlag**: Eine realistische, Dokument / Fahrzeug-fokussierte Szene, die Export FX Settlement und Trade- FX Administration für Fahrzeugexporteure illustriert, keine inszenierte Inspektion oder Personen beansprucht.
+- **ALT-Text**: Nahe, natürliche Sicht auf Materialien und das Thema Export FX Settlement und Trade- FX Verwaltung für Fahrzeugexporteure, neutraler Hintergrund, keine Personen oder Inspektionshandlung gezeigt.
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Review)
 
 ## Der eine Schritt, der vor dem ersten Empfang erfolgen muss
 Bevor ein chinesischer Exporteur seine erste Exportzahlung erhalten kann, muss er sich im **Handels-Devisen-Unternehmensverzeichnis** befinden. Im aktuellen Rahmen wurde der vorherige SAFE-Genehmigungsschritt aufgehoben: Das Unternehmen schließt die Registrierung des **Verzeichnisses bei seiner inländischen Bank** nach Erhalt der Außenhandels-Betriebsrechte ab, und diese Registrierung geht dem ersten Erhalt der ersten Zahlung voraus. Ein Unternehmen, das seinen ersten Fahrzeugexport ohne diesen Schritt unterschreibt, wird das Problem in dem Moment entdecken, in dem Geld ankommen sollte.
@@ -37,7 +39,6 @@ Spezifische Kontoprodukte, Bankgebühren und aktuelle Betriebsbildschirme sind z
 **Sind lokale SAFE-Zweigstellen separate Regulierungsbehörden?** Nein - eine Behörde; Zweige implementieren die gleichen Regeln.
 **Berücksichtigt dies die Country FX-Regeln des Käufers? ** Nein, nur die chinesische Seite.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Spezifische Kontoprodukte, Bankgebühren und aktuelle Betriebsbildschirme sind z
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exakte Export FX Settlement und Trade-FX Administration für Fahrzeugexporteure
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact Export FX Settlement and Trade-FX Administration for Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export
   - **DE**: export FX settlement, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Spezifische Kontoprodukte, Bankgebühren und aktuelle Betriebsbildschirme sind z
   - **ID**: export FX settlement, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export FX settlement, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export FX settlement, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TradeFX #SAFE

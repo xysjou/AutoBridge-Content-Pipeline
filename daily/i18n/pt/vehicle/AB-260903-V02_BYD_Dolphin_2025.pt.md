@@ -1,14 +1,16 @@
 # BYD Golfinho 2025 (China): Bateria, faixa CLTC e duas classes de motor para importadores
-## SEO Meta- dados
-- ** Título SEO**: BYD Golfinho 2025 Especificações da China: Bateria, Gama e Exportar Verificações
-- ** Descrição do Meta**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW graus,  420/520 km CLTC, DiPilot, com a disciplina China-vs-overseas-spec para compradores.
-- ** URL sugerida**: /veículos/byd-dolphin/
-- ** H1 **: BYD Dolphin 2025 (Mercado Chinês): Variantes, Bateria, Ciclo de Gama e Verificação de Exportação
-- **Chave principal**: byd golfinho 2025 especificações de bateria
-- ** Termos de pesquisa secundários**: BYD Golfinho 44.9 kWh, Golfinho 60.48 kWh Cavaleiro, Golfinho CLTC 420 520, BYD exportação EV pequena, Golfinho DiPilot, China EV GB T carregamento
-- ** Sugestões de ligação interna**: /veículos/byd-yuan-plus/; /veículos/farizon-xingxiang- v6e-specs/; /guias/chinese-ev-carregando-padrão-compatibilidade/; /guias/ev-shipping- un3171-imdg-compliance/
-- **Image Suggestions**: comparação padrão vs Knight; Blade Battery pack note; GB/T porta de carga; rotativa/tela de infotainment; assentos traseiros
-- * Sugestões do ALT**: "BYD Golfinho 2025 duas classes da bateria"; "Campo CLTC do Golfinho contra ciclo no exterior"
+## Metadados SEO
+- **Título SEO**: BYD Golfinhos 2025 Especificações da China: Bateria, Gama e Exportar Verificações
+- **Meta descrição**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW graus,  420/520 km  CLTC , DiPilot, com a disciplina China-vs-overseas-spec para compradores.
+- **H1**: BYD Golfinhos 2025 (Mercado Chinês): Variantes, Bateria, Ciclo de Gama e Verificação de Exportação
+- **Palavra-chave principal**: byd golfinho 2025 especificações de bateria da gama
+- **Termos de busca secundários**: BYD Golfinhos 44.9 kWh, Golfinho 60.48 kWh Cavaleiro,  Dolphin  CLTC  420 520, BYD pequenas EV exportações, Dolphin DiPilot, China EV GB/T carga
+- **URL sugerida**: /vehicles/byd-dolphin/
+- **Intenção de busca**: Compreenda BYD Golfinhos 2025 (Mercado Chinês): Variantes, Bateria, Ciclo de Gama e Verificação de Exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Sugestão de imagem**: comparação padrão vs Knight grau
+- **Texto ALT**: BYD Golfinho 2025 duas classes de bateria
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: uma decisão do EV começa com bateria e ciclo
 O Golfinho é o hatchback compacto da bateria da BYD na plataforma eletrônica 3.0 com uma bateria LFP Blade. Para um EV, a ordem é bateria → intervalo ** ciclo → motor de grau → carregamento software, não um único número de título. Esta página abrange a linha ** 2025 do mercado chinês (MERCADO DE REFERÊNCIA: CHINA)**. BYD também vende um carro marcado "Dolphin" em mercados ultramarinos; ou seja, continuidade de nome, **not** um jogo de 1: 1 spec - tamanhos de bateria no exterior, ciclos de alcance certificados (WLTP/NEDC) e equipamentos diferem e devem ser lidos da folha de destino, nunca inferidos a partir destes números da China.
@@ -56,18 +58,18 @@ Nenhum preço de exportação estático é publicado. O RMB 99, 800 chinês é u
 ** Um golfinho chinês cobra no exterior sem modificação?** Verifique a entrada GB/T contra a infraestrutura de destino no VIN; um adaptador sozinho pode não resolver as diferenças de protocolo.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug

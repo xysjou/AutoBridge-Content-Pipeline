@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Forthing Lingzhi M5 2024 Van Specs, Seating & CNG/Petrol Export Guide
 - **Meta Description**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat layouts, two wheelbases, 1.5T petrol 6MT and 1.6L CNG 5MT, dimensions, and commercial-buyer verification points.
-- **Suggested URL**: /vehicles/forthing-lingzhi-m5/
 - **H1**: Forthing Lingzhi M5 / M5L 2024 (China): A Utilitarian Van Spec Map for Commercial Buyers
 - **Primary Keyword**: Forthing Lingzhi M5 van specifications export
 - **Secondary Search Terms**: Dongfeng Lingzhi M5L 9-seat, Forthing M5 CNG 1.6, Chinese commercial MPV van export, Lingzhi M5 wheelbase, Dongfeng passenger van
+- **Suggested URL**: /vehicles/forthing-lingzhi-m5/
+- **Search Intent**: Understand Forthing Lingzhi M5 / M5L 2024 (China): A Utilitarian Van Spec Map for Commercial Buyers: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
-- **Image Suggestions**: side profile M5L long body; 9-seat interior layout; 1.5T vs 1.6 CNG card; cargo/seat folding; sliding side door
-- **ALT Suggestions**: "2024 Forthing Lingzhi M5L nine-seat commercial van, China spec"; "Lingzhi M5 5/7/9 seat layout options"; "Lingzhi M5 1.5T petrol versus 1.6 CNG"
+- **Image Suggestion**: side profile M5L long body; 9-seat interior layout; 1.5T vs 1.6 CNG card; cargo/seat folding; sliding side door
+- **ALT Suggestion**: 2024 Forthing Lingzhi M5L nine-seat commercial van, China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Vehicle Role
 

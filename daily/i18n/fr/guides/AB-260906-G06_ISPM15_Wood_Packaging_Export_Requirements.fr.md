@@ -1,16 +1,16 @@
 # ISPM- 15 Emballage en bois pour l'exportation de véhicules: traitement et marque IPPC
-## OEuvre Métadonnées
-- **Référencement Titre**: ISPM- 15 Emballage en bois dans l'exportation de véhicules: Guide de traitement et de marquage
-- **Description détaillée**: La façon dont les caisses, palettes et dunnages en bois utilisés pour exporter des véhicules et des pièces doivent être traités et marqués sous le NIMP- 15 pour éviter le rejet et le fonctionnement de l'enregistrement de sortie côté Chine.
-- ** H1 **: ISPM- 15 Emballage en bois pour l'exportation de véhicules: traitement et marque IPPC
-- **Mot-clé principal**: marque de traitement d'exportation d'emballage en bois ISPM 15
-- **Conditions de recherche secondaires**: marque ISPM 15; emballage en bois IPPC; exportation de palettes traitées thermiquement; emballage en bois de fumigation MB; enregistrement des emballages en bois Douanes chinoises
-- **Suggested URL**: /guides/ippc-ispm15-wood-packaging-export/
-- **Intention de la recherche**: 车辆出口所用木箱 木托盘 垫木如何按 IPPC ISPM- 15 完成除害处理并加施标识, 避免目的国退运
-- **Internal Link Suggestions**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
-- **Suggestion d'image**: Une caisse d'exportation traitée thermiquement avec la marque IPPC ISPM- 15, tenant une pièce de véhicule en panne
-- ** Suggestion d'ALT**: Exporter la caisse en bois montrant la marque de traitement IPPC à côté d'un composant de véhicule emballé
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: ISPM-15 Emballage en bois dans l'exportation de véhicules: Guide de traitement et de marquage
+- **Description meta**: La façon dont les caisses, palettes et dunnages en bois utilisés pour exporter des véhicules et des pièces doivent être traités et marqués sous ISPM-15 pour éviter le rejet et le fonctionnement de l'enregistrement de sortie côté Chine.
+- **H1**: ISPM-15 Emballage en bois pour l'exportation de véhicules: traitement et marque IPPC
+- **Mot-clé principal**: ISPM 15 marque de traitement d'exportation d'emballages en bois
+- **Termes de recherche secondaires**: ISPM 15 marque; IPPC emballage en bois; exportation de palettes traitées thermiquement; MB emballage en bois de fumigation; enregistrement des emballages en bois Douanes chinoises
+- **URL suggérée**: /guides/ippc-ispm15-wood-packaging-export/
+- **Intention de recherche**: Comprendre ISPM-15 Emballage en bois pour l'exportation de véhicules: Traitement et marque IPPC: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
+- **Suggestion d'image**: Une caisse d'exportation traitée thermiquement avec la marque IPPC ISPM - 15, tenant une pièce de véhicule en panne
+- **Texte ALT**: Exporter la caisse en bois montrant la marque de traitement IPPC à côté d'un composant de véhicule emballé
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Les véhicules finis expédiés par RoRo peuvent transporter peu de bois, mais les unités en panne, les pièces de rechange, les kits CKD/SKD et les véhicules conteneurisés dépendent de caisses, palettes, chaussons et dunnages — et presque tous les pays réglementent le bois sous l'IPPC ISPM- 15. Une marque manquante ou non valide est l'une des causes les plus évitables de réexportation, de fumigation à l'arrivée ou de retard. Cette page explique ce que l'ISPM- 15 exige, comment la marque est construite, et comment fonctionne le traitement côté Chine et l'enregistrement de sortie.
 

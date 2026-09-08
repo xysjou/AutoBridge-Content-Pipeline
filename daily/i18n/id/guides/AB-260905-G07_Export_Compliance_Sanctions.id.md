@@ -1,15 +1,17 @@
 # Ekspor Komplemen dan Pembatasan Sanctions untuk Pengeksponen Kendaraan Cina
 
-## SEO Metadata
-- ** Judul SEO **: Ekspor Komplemen & Sanctions Screening for Vehicle Exporters: End- Pengguna, Dual- Gunakan dan Terbatas Lists
-- ** Meta Description **: Sebuah ekspor ekspor China baseline: kendali end-end end, dual- use pemutaran, daftar pihak terbatas denied-, tugas rekaman lima tahun, dan mengapa pihak yang terbatas tidak boleh dilayani.
--   H1 **: Ekspor Komplemen dan Sanctions Screening untuk Pengeksponen Kendaraan Cina
-- ** Primer Keyword **: export compliance sanctions skrining end user
-- ** Akhir Pencarian Second **: kontrol ekspor; pemutaran sanksi; pernyataan pengguna; dilarang partai; dual- gunakan; daftar terbatas
-- ** Sugesti URL **: panduan ekspor-compligence -sanctions-screening -end-user
--  Search Intent : 汽车出口如何做最终用户 最终用途尽调  管控 关注名单与境外制裁名单筛查 规避出口管制与制裁风险
-- *** Internal Link Sugestions **: guide exports exports-paid-methog-t-lc -risk guide verify-chinese- chinese- exports-history pandu exports -exports -encisions -end-user user
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Ekspor Komplemen & Sanksi Screening for Vehicle Exporters: End- Pengguna, Dual- Gunakan dan Terbatas Lists
+- **Deskripsi Meta**: Sebuah ekspor ekspor China baseline: kendali end-end / end, dual- use pemutaran, daftar pihak terbatas / denied-, tugas rekaman lima tahun, dan mengapa pihak yang terbatas tidak boleh dilayani.
+- **H1**: Ekspor Komplemen dan Pembatasan Sanctions untuk Pengeksponen Kendaraan Cina
+- **Kata kunci utama**: ekspor penayangan akhir penayangan sanksi pelengkapan pengguna
+- **Istilah pencarian sekunder**: kontrol ekspor; pemutaran sanksi; pernyataan pengguna akhir; dilarang pihak; dual- gunakan; daftar terbatas;
+- **URL yang disarankan**: /guides/export-compliance-sanctions-screening-end-user/
+- **Maksud pencarian**: Memahami Komplain Ekspor dan Pembatas Sanctions untuk Pengekspor Kendaraan Cina: apa yang harus diverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/export-payment-methods-t-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Explicity Expliance dan Sanctions Screening untuk Pengekspos Kendaraan Cina, tidak ada pemeriksaan terencana atau orang-orang mengklaim.
+- **Teks ALT**: Pandangan alami terhadap material dan subjek yang terkait dengan ekspor compliance dan Sanctions Screening untuk Pengekspos Kendaraan Cina, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Komplemen adalah gerbang transaksi, bukan dokumen di akhir
 Exporters kendaraan menghadapi baik Cina apos; s ekspor kontrol rezim dan internasional sanksi frameworks. Prinsip pengendali adalah ** pengguna dan manajemen penggunaan-akhir di seluruh transaksi **: seorang eksportir harus tahu siapa yang akan menerima barang dan apa yang akan mereka gunakan, dan harus layar terhadap daftar terbatas ditolak sebelum berkomitmen. Ini tidak dapat outsourced ke forwarder barang atau tetap setelah pengiriman.
@@ -41,7 +43,6 @@ Berapa lama catatan yang disimpan? Lima tahun untuk catatan akhir yang relevan.
 ** Siapa yang harus ku layarnya? Pembeli, consignee dan pihak-pihak lainnya yang relevan, di asupan dan lagi sebelum pengiriman.
 ** Bagaimana jika ada hit? ** (Dan jika mereka ditimpa kesusahan) kekeringan dan musibah bencana (mereka tidak menghadapinya) tidak pernah melakukan salat dan lainnya (sedangkan apabila Kami letakkan mereka di tempat kediaman mereka itu) di tempat yang kalian tempati di tempat-tempat tersebut (maka ambillah hal itu sebagai perbuatan yang sebaik-baiknya) yaitu dengan cara memasukinya.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -61,18 +62,18 @@ Berapa lama catatan yang disimpan? Lima tahun untuk catatan akhir yang relevan.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: exact Explitance and Sanctions Screening for Chinese Vehicle Exporters
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export
   - **DE**: export compliance screening, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -85,6 +86,5 @@ Berapa lama catatan yang disimpan? Lima tahun untuk catatan akhir yang relevan.
   - **ID**: export compliance screening, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: export compliance screening, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: export compliance screening, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ExportControl #Sanctions

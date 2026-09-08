@@ -1,15 +1,29 @@
 # Expédition d'un véhicule électrique par mer sous IMDG 42-24: UN3556, UN3171 et la Distinction de la batterie de rechange
+## Métadonnées SEO
+- **Titre SEO**: EV Fret maritime inférieur à IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
+- **Description meta**: À partir de 2026, les véhicules au lithium-ion installés avec un navire-batterie sous le numéro UN3556 (lithium-métal UN3557, sodium-ion UN3558) sous le numéro IMDG Amendement 42-24; UN3171 est réduit  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: Classification d'un véhicule alimenté par batterie pour le fret maritime selon le code IMDG actuel (amendement 42-24)
+- **Mot-clé principal**: UN3556 véhicule au lithium ionique IMDG 42-24
+- **Termes de recherche secondaires**: UN3557 véhicule au lithium métal, UN3558 véhicule au sodium ionique, P912 instruction d'emballage, SP405 marquage, UN3171 rétréci, UN3480 UN3481, UN38.3 manuel d'essais rev8
+- **URL suggérée**: /guides/ev-shipping-un3556-imdg-compliance
+- **Intention de recherche**: Comprendre la classification d'un véhicule alimenté par batterie pour le fret océanique en vertu du code IMDG actuel (amendement 42-24): ce qu'un exportateur de véhicule ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Suggestion d'image**: véhicule entier vs batterie libre UN nombre divisé
+- **Texte ALT**: UN3556 véhicule à batterie installée contre UN3480 batterie non équipée inférieure à IMDG 42-24
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: Fret maritime EV en vertu de la directive IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
-- **Description détaillée**: À partir de 2026, les véhicules au lithium-ion installés avec un navire-batterie sous forme de UN3556 (lithium-métal UN3557, sodium-ion UN3558) en vertu de l'amendement 42-24 de la directive IMDG; UN3171 est réduit et les batteries en vrac utilisent UN3480/3481 avec UN38.3.
-- **URL suggérée**: /guides/ev-shipping- un3556-imdg-compliance
-- ** H1 **: Classification d'un véhicule alimenté par batterie pour le fret maritime en vertu du code IMDG actuel (amendement 42-24)
-- **Mot-clé principal**: UN3556 véhicule au lithium ionique IMDG 42-24 expédition
-- ** Termes de recherche secondaires**: UN3557 véhicule au lithium métal, UN3558 véhicule à ion sodium, P912 instruction d'emballage, SP405 marquage, UN3171 rétréci, UN3480 UN3481, UN38.3 manuel d'essais rev8
-- **Suggestions de lien interne**: /guides/véhicule-export-pdi-préexpédition-transmission/; /guides/exportation-véhicule-document-emballage/; /véhicules/wuling-bingo/
-- **Suggestions d'image**: fractionnement du numéro ONU pour véhicule entier et pour véhicule en vrac; plaquette de classe 9; diagramme de marquage P912/SP405
-- **ALT Suggestions**: " UN3556 véhicule à batterie installée contre UN3480 batterie non équipée au titre de la directive IMDG 42-24 "
+Métadonnées SEO
+- **Titre SEO**: Fret maritime EV en vertu de la directive IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
+- **Description meta**: À partir de 2026, les véhicules au lithium-ion installés avec un navire-batterie sous forme de UN3556 (lithium-métal UN3557, sodium-ion UN3558) en vertu de l'amendement 42-24 de la directive IMDG; UN3171 est réduit et les batteries en vrac utilisent UN3480/3481 avec UN38.3.
+- **H1**: Classer un véhicule alimenté par batterie pour le fret maritime en vertu du code IMDG actuel (amendement 42-24)
+- **Mot-clé principal**: UN3556 véhicule au lithium ionique IMDG 42-24 transport maritime
+- **Termes de recherche secondaires**: UN3557 véhicule au lithium métal, UN3558 véhicule à l'ion sodium, P912 instruction d'emballage, SP405 marquage, UN3171 rétréci, UN3480 UN3481, UN38.3 manuel d'essais rev8
+- **URL suggérée**: /guides/ev-shipping-un3556-imdg-compliance
+- **Intention de recherche**: Comprendre la classification d'un véhicule à batterie pour le fret maritime selon le code courant d'imdg (amendement 42-24): ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Suggestion d'image**: division du numéro ONU pour le véhicule entier par rapport au numéro ONU pour le véhicule en vrac; Plaquette de la classe 9; Diagramme de marquage P912/SP405
+- **Texte ALT**: UN3556 véhicule à batterie installée contre UN3480 batterie non équipée au titre de la directive IMDG 42-24
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## La classification a changé — les vieilles habitudes UN3171 sont maintenant erronées
 Une pratique courante avant 2026 consistait à réserver tout véhicule à batterie sous ** UN3171 **. En vertu du **actuel code IMDG obligatoire, amendement 42-24 ** (adopté par la résolution de l'OMI **MSC. 556 (108)** et **obligatoire en Chine à partir de 2026-01-01 ** par le texte officiel de l'Administration chinoise de la sécurité maritime), cela n'est plus correct pour les véhicules au lithium. L'utilisation de l'ancien numéro sur une déclaration de 2026 est une erreur de classification qui arrête les documents dangereux-marchandises lors de la réservation.

@@ -1,15 +1,17 @@
 # PDI und Übergabe für den Fahrzeugexport: Carrier Rules vs AutoBridge empfohlene Checkliste
 
-## SEO Metadaten
-- **SEO Titel**: Fahrzeugexport PDI & Pre-Shipment Handover Guide - Named Carrier Rules
-- **Meta Description**: Getrennte RoRo-Beförderungsrichtlinien (Wallenius Wilhelmsen, Höegh Autoliners) — Kraftstoff, Batterie, SOC und Bedienbarkeit — von der von AutoBridge empfohlenen Checkliste für die Vorversandkontrolle; keine universellen festen Werte.
+## SEO-Metadaten
+- **SEO-Titel**: Fahrzeugexport PDI & Pre-Ship Handover Guide – Named Carrier Rules
+- **Meta-Beschreibung**: Getrennte RoRo-Trägerrichtlinien (Wallenius Wilhelmsen, Höegh Autoliners) — Kraftstoff, Batterie, SOC und Bedienbarkeit — von der von AutoBridge empfohlenen Checkliste für die Vorversandkontrolle; keine universellen festen Werte.
+- **H1**: Vorbereitung eines Fahrzeugs für RoRo oder Containerexport: Was die benannten Carrier benötigen und was wir empfehlen
+- **Haupt-Keyword**: Fahrzeugexportvorversandinspektion PDI Übergabe RoRo
+- **Sekundäre Suchbegriffe**: Wallenius Wilhelmsen Kraftstoffvierteltank, Hoegh BEV SOC 50 Prozent RoRo-betriebenes Fahrzeug, trennen Sie 12V Batterie Gebrauchtwagen, Vorversand Fotoaufzeichnung
 - **Vorgeschlagene URL**: /guides/vehicle-export-pdi-pre-shipment-handover
-- ** H1 **: Vorbereitung eines Fahrzeugs für RoRo oder Containerexport: Was die benannten Carrier benötigen und was wir empfehlen
-- **Hauptschlüsselwort**: PDI-Übergabe von PDI für die Vorversandprüfung von Fahrzeugen RoRo
-- **Secondary Search Terms**: Wallenius Wilhelmsen Kraftstoffvierteltank, Hoegh BEV SOC 50 Prozent, RoRo-betriebenes Fahrzeug, trennen Sie 12V Batterie Gebrauchtwagen, Vorversand Fotoaufzeichnung
-- **Interne Linkvorschläge**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- **Bildvorschläge**: PDI-Checklistenblatt; RoRo selbstfahrende Rampe; Named Carrier vs Editorial-Recommendation Split Diagramm
-- **ALT-Vorschläge**: "Nannte RoRo-Trägeranforderungen im Vergleich zur empfohlenen Checkliste vor dem Versand"
+- **Suchabsicht**: Verstehen Sie die Vorbereitung eines Fahrzeugs für den RoRo- oder Containerexport: Was die benannten Transportunternehmen benötigen und was wir empfehlen: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Bildvorschlag**: PDI Checklistenblatt
+- **ALT-Text**: Named RoRo Carrier Anforderungen versus empfohlene Checkliste vor dem Versand
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Zwei Schichten, die nicht zusammengeführt werden dürfen
 Schadensstreitigkeiten am Bestimmungsort gehen fast immer auf eine Frage zurück: Wie war der Zustand des Fahrzeugs, der Kraftstoff- Batteriezustand und die Funktionsfähigkeit ** bei der Übergabe **? Um es sauber zu beantworten, hält diese Anleitung zwei Schichten getrennt:

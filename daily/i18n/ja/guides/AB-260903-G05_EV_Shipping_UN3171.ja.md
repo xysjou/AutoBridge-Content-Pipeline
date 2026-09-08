@@ -1,14 +1,17 @@
 # オーシャンエクスポート用の電動車両を予約する:危険物書類は、実際にチェックをします
-## ツイート メタデータ
-- **SEOタイトル**: EVは、IMDG 42-24に基づく予約書類をエクスポート: UN3556 書類とキャリア チェック
-- **メタ 記述**: リチウム電池車は、現在のIMDG Amendment 42-24(UN3556/3557/3558、レガシーUN3171移行終了)、SP961/SP962パス、UN38.3およびSDS書類の海底貨物、およびキャリア固有の予約条件に分類される方法。
-- **混雑したURL**: /guides/ev-shipping- un3171-imdg-compliance/
-- H1 ホテル **: 海によって電気化された車を出荷: 現在の危険物分類、予約文書セットおよび赤いライン
-- **主なキーワード**:電気自動車の海運un3556 imdg 42-24文書
-- **二次検索条件**:UN3556リチウムイオン電池車、UN3557リチウム金属車両、UN3558ナトリウムイオン車、レガシーUN3171トランジション、SP961 SP962車両、クラス9ラベル9A、UN38.3テスト要約、SDS電気自動車輸送、EV SOC要件キャリア
-- **内部リンク提案**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-vehicle-export-license-customs-documents/; /guides/container-vehicle-loading-lashing/; /guides/vehicle-pre-shipment-inspection-psi/; /vehicles/byd-dolphin/
-- **画像提案**: UN番号/クラスラベル図; SP961-vs-SP962決定フロー; 文書チェーンの予約; クラス9 /ラベル9A盗まれた
-- アルト 提案**:「UN3556 IMDG 42-24」 クラス9電気自動車の船積み」;「EVの船積みの予約の文書の鎖」
+## SEOメタデータ
+- **SEOタイトル**: EV  Export Booking Documents Under  IMDG  42-24: UN3556  Paperwork & Carrier Checks
+- **メタディスクリプション**: リチウム電池車が現在のIMDG Amendment 42-24(UN3556/3557/3558;レガシーUN3171移行終了)、SP961/SP962パス、UN38.3およびSDS書類の海貨物に分類される方法、およびキャリア固有の予約条件。
+- **H1**: 海で車を出荷: 現在の危険物分類、予約文書セットと赤いライン
+- **主要キーワード**: 電気自動車の海運 un3556 imdg 42-24 文書
+- **関連検索語**: UN3556リチウムイオン電池車、UN3557のリチウム金属車、UN3558ナトリウムイオン車、遺産UN3171の転移、SP961 SP962車、クラス9ラベル9A、UN38.3テスト要約、SDS電気自動車の船積み、EV SOCの条件のキャリア
+- **推奨URL**: /guides/ev-shipping-un3171-imdg-compliance/
+- **検索意図**: 海による配送電荷車を理解する: 現在の危険物分類、予約文書セットとレッドライン:車両/部品輸出者が注文をコミットする前に確認、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **画像候補**: UN 番号/クラス ラベル図
+- **ALTテキスト**: UN3556 IMDG 42-24 Class 9 electric vehicle shipping
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## ここからスタート:全EVは危険な商品であり、42-24で変更されたエントリー
 工場で作られた電気車両は、海運に危険物です。 アンダー **IMDGコード改正 42-24 (2024版),  mandatory from 1 January 2026**, バッテリー駆動車は、専用のエントリに分割されます。
 - ** UN3556 — 車、リチウムイオン電池搭載**(BEVまたはPHEV/EREVの場合)
@@ -77,9 +80,9 @@
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 発行元:IMDGコード(2024版、改正42-24版)、公正な公開ページ | 国際海事機関(IMO) | 営業拠点 | 以下は、 の一覧 | 2026-09-05 | 検証済み | 現行のエディション/ミーティングと必須の日付から。クラス9フレームワーク | https://www.imo.org/en/publications/pages/imdg%20code.aspx
+| 発行元: IMDG  コード (2024 版 、 改正 42-24 版)、 公正な公開ページ | 国際海事機関 (IMO) | 営業拠点 | 以下は 、 の一覧 | 2026-09-05 | 検証済み | 現行のエディション / ミーティングと必須の日付から 。 クラス 9 フレームワーク | https://www.imo.org/en/publications/pages/imdg%20code.aspx
 | 顧客アドバイザリー — 規制変更、IMDG コード修正 42-24 | メイサーク(海運会社名) | 営業拠点 | 以下は、 https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_CHECKED(クロス) | キャリア固有の: 2026-01-01 からのアプリケータビリティ; UN3556 エントリ; SP962 |
-| 指導 — UN3556 (ADR/RID 2025、IMDG Amdt 42-24): 分類、SP388/666/961/962、UN38.3 | シェケメット Rådgivarna(DG安全アドバイザー) | 営業拠点 | 以下は、 | 2026-09-05 | CROSS_CHECKED(クロス) | UN3556 Class 9/label 9A; UN3171 海の移行 2025-12-31; SP961 自己主導対 SP962 コンテナパス | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg
+| 指導 — UN3556 (ADR/RID  2025 、 IMDG  Amdt 42-24): 分類 、 SP388/666/961/962 、 UN38.3 | シェケメット Rådgivarna(DG  安全アドバイザー) | 営業拠点 | 以下は 、 | 2026-09-05 | CROSS_CHECKED(クロス) | UN3556 Class 9/label 9A; UN3171 海の移行 2025-12-31; SP961 自己主導対 SP962 コンテナパス _ https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg
 | IMDGの改正42-24の下の船積み車(電子ブック):UN3556/3557/3558対の遺産UN3171 | コンプライアンスセンター/Shashi Kallada | 営業拠点 | 以下は、 https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf の動画をアップしました。 | 2026-09-05 | CROSS_CHECKED(クロス) | UN3557 リチウム金属および UN3558 ナトリウムイオンの記入項目; UN3171 からの区別 |
 | 中国-UAEの危険物 路線図 2026: IMDG予約チェックリスト | シンセンのトップ ウェイのインターナショナル フォワード | CN-UAE ルート | 以下は、 https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | シングル_ソース | キャリア固有のSOC |
 | リチウム電池輸出文書(UN38.3/SDS/packaging証明書) | ディンチョウニュース | CN の | 以下は、 https://www.dzxww.cn/article/293251787800392.shtml の仕様 | 2026-09-03 | シングル_ソース | UN38.3セル+パック、SDS、緩電池の証明書のコンテキスト |

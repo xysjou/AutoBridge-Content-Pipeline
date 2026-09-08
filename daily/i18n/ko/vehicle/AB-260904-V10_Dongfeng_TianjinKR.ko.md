@@ -1,15 +1,17 @@
 # 둥동 천진 KR (天锦 KR) 냉장된 트럭: 포좌, Superstructure 및 수출을 위한 GVW
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Dongfeng Tianjin KR 냉장 트럭 사양 및 수출 가이드 (18t)
-- ** Meta Description**: 중국 시장 Dongfeng 천진 KR 6.8 m 암초제 - Cummins B6.2 180 kW 1000 N·m, 빠른 8-speed, Dana 차축, 18 t GVW, MIIT 모델 코드, 그리고 어떻게 섀시는 냉장 된 superstructure에서 다릅니다.
-- **Suggested URL**: /vehicles/dongfeng-tianjin-kr/
-- ** H1 **: Dongfeng 톈진 KR 냉장된 트럭: 포좌 + 수출 구매자를 위한 Superstructure Specs
-- ** 공압 키워드 **: dongfeng tianjin kr 냉장 트럭 사양 수출
-- ** 보조 검색 조건 **: 천진 KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m 냉동 트럭, 중국 냉장 트럭 수출, 18t GVW 섀시
-- ** 내부 링크 제안**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /vehicles/jmc-shunda/
-- ** 이미지 제안 **: KR 냉동고 측 6.8m 상자; 포좌 구조; Cummins B6.2 엔진; 냉각 장치; 후방 문 및 실내
-- **ALT 제안**: "Dongfeng Tianjin KR 6.8m 냉장 트럭 18t "; "Tianjin KR 섀시 대 화초 지형"
+## SEO 메타데이터
+- **SEO 제목**: Dongfeng Tianjin KR 냉장 트럭 Specs & 수출 가이드 (18t)
+- **메타 설명**: 중국 시장 Dongfeng 톈진 KR 6.8 m 냉동고 - Cummins B6.2 180 kW / 1000 N·m, 빠른 8-speed, 다나 차축, 18 t GVW, MIIT 모델 코드 및 섀시는 냉장 된 과태에서 다릅니다.
+- **H1**: Dongfeng 톈진 KR 냉장된 트럭: 포좌 + 수출 구매자를 위한 Superstructure Specs
+- **주요 키워드**: dongfeng tianjin kr 냉장된 트럭 specs 수출
+- **보조 검색어**: 톈진 KR DFH5180XLC의 Dongfeng Cummins B6.2의 6.8m 리프터 트럭, 중국 냉장한 트럭 수출, 18t GVW 포좌
+- **추천 URL**: /vehicles/dongfeng-tianjin-kr/
+- **검색 의도**: 동풍 천진 KR 냉장된 트럭: 섀시 + Superstructure Specs for Export Buyers: 차량/부품 수출업체가 확인해야 하고, 문서와 주문에 투입하기 전에 결정해야 합니다.
+- **내부 링크 제안**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **이미지 제안**: KR 암초 측 6.8m 상자
+- **ALT 텍스트**: Dongfeng 톈진 KR 6.8m 냉장된 트럭 18t
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 컨텍스트: 특수 차량은 두 가지 제품 — 포좌 및 Superstructure
 냉장된 트럭은 단 하나 공장 명세 아닙니다. ** 차시스 ** (엔진, 기어 박스, 차축, GVW, 휠베이스)는 트럭 메이커에 의해 구축; ** 절연 상자, 냉장 장치, 온도 영역 및 절연 두께는 몸 빌더에 의해 설치 ** 업핏 **입니다. 고정 공장 피팅으로 냉동 장치 단위를 치료하거나 더 큰 KR Plus와 6.8 m KR를 merging - 주요 조달 오류입니다. 이 문서는 ** 중국 시장 천진 KR 18 t - 클래스 리프터 섀시 (REFERENCE MARKET: CHINA)**; 모델 코드는 MIIT 공개 발표에 나타납니다, 이는 법적 사양을 정박.
@@ -90,10 +92,10 @@
 | 천진 KR 6.8m 냉동 B6.2 파워 트레인 기어 박스 | 360che (토피아노) | 담당자: Mr. wang | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | CROSS_체크 | B6.2 245PS의 빠른 8-speed의 다나 차축 |
 | Nine 6.8m 화물 트럭: KR 구성 | 360che (토피아노) | 담당자: Mr. wang | http://m.toutiao.com/group/6961327956664779271/ 경우 | 2026-09-04 | CROSS_체크 | 6.8m의 축축, 축 비율 |
 | 천진 KR 6.8m 휠베이스 및화물 상자 | 360che (토피아노) | 담당자: Mr. wang | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_체크 | 5000 WB, 내부 폭, GVW 소개 |
-| DFH5180XLCG4 마리화나 - MIIT 배치 410 | Sina Finance (미트 인용) | 담당자: Mr. wang | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_체크 | 새로운 서류, 속도 제한기 |
+모델명 : DFH5180XLCG4 마리화나 - MIIT포털 410 | 시나 금융(미트) |: 담당자: Mr. wang | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_체크 |
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고: MIIT 배치-410 보고에 닻된 모형 부호; 암초 단위/zones/insulation는 의도적으로 몸 건축업자 (고속한 가치 없음); KR로 떠났습니다 더하기 제외. 중국 시장 참고; 발표 인증서에 대한 법적 평가를 확인합니다. ****************************************************************************************************************************************************************************************************************************************************************

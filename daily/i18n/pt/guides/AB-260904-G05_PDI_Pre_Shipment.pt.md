@@ -1,15 +1,17 @@
 # PDI pré-navio e entrega para exportação de veículos: Regras do transportador vs Lista de verificação recomendada da AutoBridge
 
-## SEO Meta- dados
-- ** Título SEO**: Exportação de veículos PDI e pré-navio Guia de entrega — Regras de transporte nomeadas
-- ** Descrição do Meta**: As políticas de transporte RoRo (Wallenius Wilhelmsen, Höegh Autoliners) — combustível, bateria, SOC e operabilidade — da lista de verificação de inspeção pré-expedição recomendada pela AutoBridge; não existem valores fixos universais.
-- ** URL sugerido**: /guides/veículo-exportação-pdi-pré-navio-manda-manda-manda-manda-madeira
-- ** H1 **: Preparando um veículo para RoRo ou Container Export: O que os Portadores Nomeados Requerem e O que Nós Recomendo
-- **Primary Keyword**: veículo exportação pré-envio inspeção PDI entrega RoRo
-- ** Termos de pesquisa secundários**: tanque de combustível Wallenius Wilhelmsen, Hoegh BEV SOC 50 por cento, RoRo veículo operable, desligar 12V bateria usado carro, pré-envio registro de fotos
-- ** Sugestões de ligação interna**: /guias/veículo-exportação-bill-of-lading-types/; /guias/ev-shipping- un3556-imdg-compliance/; /guias/emissão-combustível-compatibilidade-china-veículos/
-- **Image Suggestions**: Lista de verificação PDI; RoRo auto-dirige rampa; chamado-carrier vs editorial-recomendação diagrama dividido
-- ** Sugestões ALT**: "Nomeado RoRo exigências de transporte versus lista de verificação pré-expedição recomendada"
+## Metadados SEO
+- **Título SEO**: Vehicle Export  PDI  & Pre-Shipment Handover Guide — Named Carrier Rules
+- **Meta descrição**: Políticas de transporte RoRo separadas (Wallenius Wilhelmsen, Höegh Autoliners) — combustível, bateria, SOC e operabilidade — da lista de verificação de inspeção pré-expedição recomendada pela AutoBridge; não há valores fixos universais.
+- **H1**: Preparação de um veículo para a exportação de RoRo ou container: O que os transportadores nomeados exigem e o que recomendamos
+- **Palavra-chave principal**: veículo exportação pré-expedição inspeção PDI entrega RoRo
+- **Termos de busca secundários**: - O tanque de combustível Wallenius Wilhelmsen. Hoegh BEV SOC 50 por cento, Veículos de operação RoRo, desligar o carro usado da bateria 12V, registo de fotos pré-expedição
+- **URL sugerida**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Intenção de busca**: Compreenda Preparar um Veículo para Exportação de RoRo ou Container: O que os Portadores Nomeados Requerem e O que Nós Recomendo: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Sugestão de imagem**: Lista de verificação PDI
+- **Texto ALT**: Nomeado RoRo porta-aviões versus lista de verificação recomendada antes da expedição
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Duas Camadas Que Não Devem Ser Mescladas
 As disputas de danos no destino quase sempre remontam a uma pergunta: qual era a condição do veículo, estado combustível/bateria e operabilidade **em entrega**? Para responder de forma limpa, este guia mantém duas camadas separadas:

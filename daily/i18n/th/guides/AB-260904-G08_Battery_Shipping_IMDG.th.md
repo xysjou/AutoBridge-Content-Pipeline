@@ -1,15 +1,17 @@
 # การขนส่งรถไฟฟ้าโดยทะเลภายใต้ IMDG 42-24: UN3556, UN3171 และเครื่องใน par-Borty distrieved
 
-## เชา ข้อมูลกํากับภาพ
-- "EEEO THE": EV Sea Freight ภายใต้ IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
-- ""คําอธิบาย" 2026 พาหนะลิเทียม-ไอออนติดตั้งด้วยยานแบตเตอรี่เป็น UN3556 (ลิเธียม-เมทัล UN3557 โซเดียม-ไอออน UN3558) ใต้เครื่อง IMDG 42-24; UN3171 เป็นพลังงานที่แคบและหลวมใช้น้ํามัน UN3480/3481 กับ UN38.3.
-- ~ที่อยู่ URL ที่ถูกย่อ: guides/ev-sing- un3556-imdg-compliance ~
-- ** H1 **: จัดหมวดหมู่ แบตเตอรี-พอสเบนซ์ สําหรับมหาสมุทรฟรีฟ ภายใต้รหัส IMDG ปัจจุบัน (Esendment 42-24).
-- ~คีย์เวิร์ดของกลุ่มพิมพ์: UN3556 Tiberium ไอออน ยานพาหนะ IMDG 42-24 ~
-- ~การค้นหาตามวาระที่: ~ UN3557 รถโลหะลิเทียม (Monteine Model) UN3558 รถโซเดียมไอออน (Sidium ion) P912 แพ็คคําสั่ง SP405 เครื่องหมาย (พ.ศ. UN3171 แคบลง UN3480 UN3481 (พ.ศ. UN38.3 คู่มือทดสอบ rev8
-- ~ เชื่อมโยงภายในที่แนะนํา~: guides/ wehinecy-export-pdi-prinsion-pandover/; guides/ exporticicic-document/;//// viohics/wuling-bing-bing///
-- ** คําแนะนําการจําแนกพันธุ์ **: ผังสัญลักษณ์การทําเครื่องหมาย 9; P912/SP405
-- ~~~~~~~~~ ข้อเสนอแนะ: " UN3556 พาหนะติดตั้งเครื่องเรือน เทียบ UN3480 แบตเตอรี่หลวมภายใต้ IMDG 42-24".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: EV น้ํา ทะเล ภาย ใต้ ความ ลึก IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
+- **คำอธิบาย Meta**: 2026 พาหนะลิเทียม-ไอออนติดตั้งด้วยยานแบตเตอรี่เป็น UN3556 (ลิเทียม-เมทัล UN3557 โซเดียม-ไอออน UN3558) ใต้กฎหมาย IMDG มาตรา 42-24; พ.ศ. UN3171 มีวงแคบ  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: จําแนกแบตเตอรี-พอชคอม สําหรับมหาสมุทร Freight ภายใต้รหัส IMDG ปัจจุบัน (Esendment 42-24).
+- **คีย์เวิร์ดหลัก**: UN3556 ไอออนลิเทียม พาหนะ IMDG 42-24 ขนส่ง
+- **คำค้นหารอง**: UN3557 รถโลหะลิเทียม (Monteine Model) UN3558 รถโซเดียมไอออน (Sidium ion) P912 แพ็คคําสั่ง SP405 เครื่องหมาย (พ.ศ. UN3171 แคบลง UN3480 UN3481 (พ.ศ. UN38.3 คู่มือทดสอบ rev8
+- **URL ที่แนะนำ**: /guides/ev-shipping-un3556-imdg-compliance
+- **เจตนาการค้นหา**: เข้าใจการจําแนกแบตเตอรี่-Posad carft สําหรับมหาสมุทร Freight ภายใต้รหัส IMDG ปัจจุบัน (Esendment 42-24): สิ่งที่รถ/ส่วนต้องตรวจสอบเอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **คำแนะนำรูปภาพ**: สี่เหลี่ยมทั้งหมด vs หลวมไม้ UN ความแตกต่าง
+- **ข้อความ ALT**: UN3556 พาหนะติดตั้งเครื่องเรือนเมื่อ UN3480 แบตเตอรี่หลวมภายใต้ IMDG 42-24
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
 ## การ แบ่ง ชั้น เปลี่ยน ไป — นิสัย เก่า UN3171 แบบ ผิด แล้ว
 A common pre-2026 practice was to book any battery-driven vehicle under **UN3171**. ภายใต้คําสั่ง ISDG code, มาตรา 42-24 (ถูกบันทึกโดย IMO Deccess) 556 (108) และ* การจัดจําหน่ายในประเทศจีนจาก 2026-01-01* ต่อข้อความระบบรักษาความปลอดภัยของจีนมาริไทม์) ซึ่งไม่ถูกต้องต่อการขนส่งของตูนิเชียหลัก การใช้หมายเลขเก่าในประกาศ 2026 เป็นข้อผิดพลาดแบบแบ่งประเภท ที่หยุดเอกสารที่อันตรายในการจอง
@@ -65,24 +67,24 @@ A common pre-2026 practice was to book any battery-driven vehicle under **UN3171
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — EV shipping under IMDG 42-24 UN3556, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — EV shipping under IMDG 42-24 UN3556, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — EV shipping under IMDG 42-24 UN3556, guia de compras para exportação de veículos
+- ~~~: AutoBridge อ้างอิงการส่งออกของเครื่องบริการแบบ Bayer — การขนส่ง EV ภายใต้ IMDG 42-24 University3556, คู่มือการจัดหารถ
+- ~FR~: Réfénc Autobridge ส่งออกสารกระตุ้นการหลั่ง อิเล็กทรอนิกส์ การขนส่งสินค้าทางอิเล็กทรอนิกส์ทางบก กรมขนส่ง ICG 42-24 UN3556 นําทางรถสินค้า อนุสรณ์ I.export
+- - - - - - - - - AutoBridge-Referenz fur Excuffer — EV จัดส่งภายใต้ IMDG 42-24 University3556, Leitfend furer Fhrazegaxes Port-EMDGuf
+- ~! ~: Referentia AutoBridge Proadar Proadorres de Explagarcion — EV ขนส่งภายใต้ IMDG 42-24 University3556, Guia de Companys Pabrararacon de veculos
+-~PT~: Referénia AutoBridge panyradores de Explamasauau — EV การขนส่งภายใต้ IMDG 42-24 University3556, Guia de Companyras Paraaaaaaaa de eveculos
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜EV shipping under IMDG 42-24 UN3556, 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜EV shipping under IMDG 42-24 UN3556, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — EV shipping under IMDG 42-24 UN3556, hướng dẫn thu mua xuất khẩu xe
+- ~วูฟ~: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — EV shipping under IMDG 42-24 UN3556, hướng dẫn thu mua xuất khẩu xe
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — EV shipping under IMDG 42-24 UN3556, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — EV shipping under IMDG 42-24 UN3556, panduan pengadaan ekspor kendaraan
+- ~-~~: Referenti AutoBridge imbei sekorpor — EV ขนส่งภายใต้ IMDG 42-24 University3556, Panduran Pennagadan kepor Kendaraan
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| เข้ารหัส ISDG 42-24 อย่างเป็นทางการ PDF | ประเทศจีนมาริไทม์ กรมรักษาความปลอดภัย | INTL/ CN CUCT | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | ISIFIE (เมษายน) | 42-24 MSC 556 (108) 2026-01-01, UN3556-3558, P912, รุ่น 9 (พ.ศ. |
-| UN Fuld of Test and Cristia (Rev. 8 + excult 1), มาตรา 38.3 (SCETG- 66 InF. 30). | UNIE UNCMIME-UNCIMEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII บทความ บทความ บทความ | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | ISIFIE (เมษายน) | Rev.8+Amd.1,  UN38.3 T.1–T.8, โซเดียม- ไอออน |
+| เข้ารหัส ISDG 42-24 อย่างเป็นทางการ PDF | ประเทศจีนมาริไทม์ กรมรักษาความปลอดภัย | INTL/ CN CUCT | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | ISIFIE (เมษายน) | 42-24 MSC 556 (108) 2026-01-01, UN3556-3558, P912, รุ่น 9 (พ.ศ. ○
+○ ยู เอ็น ฟอร์ ลด์ ออฟ เคส ชัน แอนด์ ค ริ สติ อา (อังกฤษ) (อังกฤษ) (อังกฤษ) ค.ศ. 8 + excult 1), มาตรา 38.3 (SCETG- 66 InF. 30). | UNIE UNCMIME-UNCIMEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII บทความ บทความ บทความ | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | ISIFIE (เมษายน) | Rev.8+Amd.1,  UN38.3 T.1–T.8, โซเดียม- ไอออน |
 | UN/SCETG- 64 INF 29 บัตรประจําตัวของลิเทียม-บาตินา 38.3 มาตราฐานแก้ไข | UNIE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | ISIFIE (เมษายน) | 38.3 การทําเครื่องหมายแก้ไข |
 | US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US Govinfo (CFR) | ขนาด US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | ISIFIE (เมษายน) | UN3480/3481 (พ.ศ. อ้างอิงแบบ statuate UN38.3 |
 | IMDG 42-24 การตีความ (MSC 556 (108) วันที่มีผล) | จีนมาริไทม์ (restep) | INTL/ CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | ROOS_ CHCKED (สนับสนุน) | การแปลผลการแปลผล |

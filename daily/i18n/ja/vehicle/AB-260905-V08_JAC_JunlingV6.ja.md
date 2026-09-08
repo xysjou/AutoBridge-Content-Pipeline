@@ -1,15 +1,17 @@
 # JACのJunling V6 (2024/2025) — 中国市場軽トラックのSpecsおよび輸出点検
 
-## ツイート メタデータ
-- **SEOタイトル**: JAC Junling V6軽トラック:中国市場仕様&輸出バイヤーガイド
-- **メタ 記述**: 中国の市場JAC ジャンリングV6の青版ライト貨物トラック: ユンネイD25ディーゼル、アンカン160ライン、貨物箱、GVW/ペイロード、および単元質量洞窟。
-- H1 **: JAC Junling V6 (2024/2025) - 中国市場軽トラック仕様と輸出チェック
-- **主なキーワード**: JAC 江淮 骏铃 V6 轻卡 (ライトトラック) スペックの輸出
-- **二次検索条件**:JACジャンリングV6輸出;江華光トラック;中国貨物トラック;青板トラック;Yunei D25
-- **混雑URL**: /vehicles/jac-junling- v6/
-- **Search Intent**: 了解 JAC 江淮 骏铃 V6 轻卡 (Light Truck) 中国版规格、配置与出口适配性 (车型参数页)
-- **内部リンクの提案**: /vehicles/jac-junling- v6/、/guides/vehicle-export-hs-code-history/、/guides/china-export-customs-declaration-single-window/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: JAC ジャンリング V6 ライトトラック:中国市場仕様と輸出バイヤーガイド
+- **メタディスクリプション**: 中国の市場 JAC ジャンリングV6の青版ライト貨物トラック: ユンネイD25ディーゼル、アンカン160ライン、貨物箱、GVW /ペイロード、および単液の大量生産の洞窟。
+- **H1**: JAC 純純正 V6 (2024/2025) - 中国市場軽トラック仕様と輸出チェック
+- **主要キーワード**: JAC  / 江淮 骏铃V6 轻卡（Light Truck） specs export
+- **関連検索語**: JAC  Junling V6 export; 江華井の軽トラック; 中国の貨物トラック; 青い版のトラック; ユンネイ D25
+- **推奨URL**: /vehicles/jac-junling-v6/
+- **検索意図**: JAC ジャンリング V6 (2024/2025) - 中国市場ライトトラック仕様とエクスポートチェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **画像候補**: リアルで、文書/車両に焦点を当てたシーンを照らし出します JAC ジュンリング V6 (2024/2025) — 中国市場軽トラック仕様と輸出チェック、段階的な検査や要求の人々。
+- **ALTテキスト**: クローズ、天然素材の見解、およびJAC Junling V6(2024/2025)に関連する対象 - 中国市場ライトトラック仕様と輸出チェック、中立背景、人や検査の動作が示されていない。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキスト:青版都市分布トラック
 ** JAC ジュンリング V6 (骏铃 V6の)、 2024/2025)** 中国市場 ディーゼル ライト貨物トラック サブ- 4.5 t 青版のクラスは、 都市/地域分布。 商用車買い手はアンカーする必要があります に GVW, ペイロードおよび貨物箱 キャベツのトリムの前に。 参照の市場は**中国**です; 質量は、均質な確認が必要です。
@@ -37,7 +39,7 @@
 市配給業者は、最も頻繁に紛争を引き起こす秩序構成点を買います**これは、目的地の市場における法的ローディングを支配している。 中国の青版の評価、 工場のペイロード  and  a destination axle-load limit are three different numbers; the truck must be specified against the binding destination rule rather than the most generous of the three. ホイールベースと貨物箱の長さも回転サークルとローカルの長さ制限と相互作用するので、ボリュームを最大化するために選ばれたボックスは、狭い都市ルートに厄介な車を作成することができます。 GVW を、確認して下さい kerb の固まり, ペイロード, ホイールベース  and  box dimensions as one matched set on the pro forma,  and  沈殿物の前に各固まり図をソースに結びます製造者を要求して下さい。
 
 ## 支払の前に海外バイヤーの証明
-1. Confirm GVW 4.495 t payload 1.735 t against the MIIT announcement or JAC OEM sheet.
+1. . GVW 4.495 t ペイロード 1.735 t を MIIT 発表または JAC OEM シートから確認します。
 2. 貨物箱の内部次元を意図したボディに一致して下さい。
 3. Confirm engine (Yunnei D25 Ankang 160), ギアボックス  and  部品サポートのための後部車軸。
 4. ディーゼル排出ステージと目的地GVW/ライセンスクラスを確認します。
@@ -49,7 +51,6 @@
 **青版のクラスとは?** 中国のサブ4.5 t GVW都市トラック; 目的地のライセンスは異なります。
 エンジニア ユンネイ D25TCIF1 2.5 L ディーゼル、150 hp/400 N·m を捕獲されたラインで。
 **タイヤ/車軸の詳細は?** キャプチャされていない;OEMビルドシートを要求します。
-
 
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
@@ -69,18 +70,18 @@
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確なJAC ジュンリングV6軽トラック
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 正確なJAC ジャンリングV6ライトトラック
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

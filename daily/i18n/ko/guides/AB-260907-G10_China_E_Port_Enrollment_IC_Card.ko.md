@@ -1,16 +1,16 @@
 # 중국 E 항구 Enrollment: 법적인 가족 카드 및 운영자 카드 Hierarchy 설명
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 E-Port Enrollment: 법적인 Person IC 카드 대 통신수 카드 | AutoBridge
-- **마타 기술 **: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, 법정 카드의 역할  and  통신 카드,  and  카드 사용 계층.
-- ** H1 **: 중국 E 항구 Enrollment: 법적인 가족 카드 및 운영자 카드 Hierarchy 설명
-- ** 출원 키워드 **: 중국 e-port 등록 IC 카드 사업자 법적인 사람
-- **세컨드리 검색 조건 **: 中国电子口岸入网; 法人卡; 操作员卡; e-포트 IC 카드; 세관 등록 e-포트 온보딩; chinaport 카드 발급
-- **Suggested URL**: /guides/china-e-port-enrollment-ic-card-operator/
-- ** 수색 **: 电子口岸入网如何随海关注册同步完成 、 法人卡与操作员卡的层级关系与数量 / 授权规则
-- ** 내부 링크 제안**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
-- ** 이미지 제안**: 전자 포트 IC 카드 리더를 삽입하는 회사 관리자는 스크린에 운영자 권한을 관리하면서
-- ** ALT 제안**: 전자포트 권한 관리 화면 옆에 독자의 IC 카드
-- **Schema Scope**: 기사 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 중국 E 항구 계획: 법적인 - Person IC 카드 대 연산자 카드 | AutoBridge
+- **메타 설명**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, 법정 카드의 역할  and  통신 카드,  and  카드 사용 계층.
+- **H1**: 중국 E 항구 Enrollment: 법적인 가족 카드 및 운영자 카드 Hierarchy 설명
+- **주요 키워드**: 중국 e-port 등록 IC 카드 통신 사업자 법적인 사람
+- **보조 검색어**: 中国电子口岸入网; 法人卡; 操作员卡; e 항구 IC 카드; 세관 등록 e 항구 onboarding; chinaport 카드 발급
+- **추천 URL**: /guides/china-e-port-enrollment-ic-card-operator/
+- **검색 의도**: 중국 E 항구 Enrollment의 밑에: 법률 - Person 카드 및 운영자 카드 Hierarchy 설명: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **이미지 제안**: 전자 포트 IC 카드 리더를 삽입하는 회사 관리자는 스크린에 운영자 권한을 관리하면서
+- **ALT 텍스트**: 전자 포트 권한 관리 화면 옆에 독자의 IC 카드
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 중국 전자 포트 (中国电子口岸)는 기업이 세관 및 관련 국경 선언을 만들고 IC 카드에 의해 디지털 서명을 운반하는에 의해 통제되는 IC 카드에 접근하는 일반적인 디지털 게이트웨이입니다. 새로운 수출은 종종 내장 된 별도의 길이 응용 프로그램입니다; 현재 프레임 워크의 밑에 세관 등록과 크게 동기화되고 카드 시스템은 자체는 법적인 사람 카드와 운영자 카드 사이에 엄격한 두 에 실행됩니다. 잘못되었는지 확인하는 것은 "우리는 등록하지만 아무도 선언 할 수 없습니다"의 빈번한 원인입니다. 이 가이드는 이제 등록에 첨부 된 방법을 설명합니다. 각 카드 유형이 할 수 없으며 카드 번호 및 권한에 규칙을 할 수 없습니다. 현지 출구 목록, 처리 시간, 수수료 및 결함 처리는 현재 공식 지도로 좌우됩니다. 그들은 변화하고 있기 때문에.
 

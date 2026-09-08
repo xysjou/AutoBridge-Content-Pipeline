@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Vehicle Export PDI & Pre-Shipment Handover Guide — Named Carrier Rules
 - **Meta Description**: Separate named RoRo carrier policies (Wallenius Wilhelmsen, Höegh Autoliners) — fuel, battery, SOC and operability — from AutoBridge's recommended pre-shipment inspection checklist; no universal fixed values.
-- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
 - **H1**: Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend
 - **Primary Keyword**: vehicle export pre-shipment inspection PDI handover RoRo
 - **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
+- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Search Intent**: Understand Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
-- **Image Suggestions**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
-- **ALT Suggestions**: "Named RoRo carrier requirements versus recommended pre-shipment checklist"
+- **Image Suggestion**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
+- **ALT Suggestion**: Named RoRo carrier requirements versus recommended pre-shipment checklist
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Two Layers That Must Not Be Merged
 Damage disputes at destination almost always trace back to one question: what was the vehicle's condition, fuel/battery state and operability **at handover**? To answer it cleanly, this guide keeps two layers separate:

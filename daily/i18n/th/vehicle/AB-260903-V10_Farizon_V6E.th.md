@@ -1,14 +1,16 @@
 # ฟาริซอน ชิง แซง V6E รถตู้ไฟฟ้า: ล็อคแบตเตอรี  6 m³ Load Bay  and  ส่งออกเป็นเอกสาร
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: ฟา ริ ซอน V6E โน้ตสําหรับ About
-- ""คําอธิบาย" Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh/ 260 km ฐาน vs Newner 51 kWh สร้าง, 90 km/h จํากัด  and  บันทึกการจัดส่งของเยอรกีเย่
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกนิกส์/ฟาริซอน-เอ็กซ์ซิงซิงเซียง- v6e-specs/ ~
-- ** H1 **: ฟาริซอน ซิงจง V6E (จีน-มาร์เก็ต): คาร์โก แวน สเปค และส่งออกการรับรอง
-- ~คําสําคัญ~ ฟาดิซอน v6e สเปกตรัมรถบรรทุกสินค้า
-- ~การค้นหาโดยระบบย่อยของ SEEcondary value~: Xingxang V6E ช่วง, รถตู้ส่งไฟฟ้าฟาริซอน 6m3 รถตู้ไฟฟ้า V6E 35.2 kWh Farizon Turkiye Explation, รถตู้ไฟฟ้า
-- ~ เชื่อมโยงภายใน~: viohic/sacic-maxus- v90-specs/; visic/ bid-dolphin/; guides/v-five-s- un3171-imdg-compliance/
-- ~คําแนะนําของ Impriage parase: อ่าวสินค้าที่มีมิติ ประตูรับสินค้า; bataly; เพลาหลังดอก; semisted search
-- ~~~~~~~~~ คําแนะนํา: "Farazon V6E หกลูกบาศก์รถรางไฟฟ้า". " V6E เกรดแบตเตอรีและช่วง"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: ฟา ริ ซอน V6E โน้ตสําหรับ About
+- **คำอธิบาย Meta**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh/ 260 km ฐาน vs Newner 51 kWh สร้าง, 90 km/h จํากัด  and  EU บันทึก การจัดส่งของ Turkey.
+- **H1**: Farizon Xingxang V6E (Chinese-Maget): Kargo Van Spects และส่งออกการตรวจสอบ
+- **คีย์เวิร์ดหลัก**: ฟาดิซอน v6e สเปกตรัมแวนสินค้าไฟฟ้า
+- **คำค้นหารอง**: Xingxang V6E ช่วงนําไฟฟ้า Farizon รถตู้ไฟฟ้า 6m3 รถตู้ไฟฟ้า V6E 35.2 kWh ฟาริซอน (พ.ศ. Turkiye Explation, รถตู้ไฟฟ้า
+- **URL ที่แนะนำ**: /vehicles/farizon-xingxiang-v6e-specs/
+- **เจตนาการค้นหา**: เข้าใจ Farizon Xingxang V6E (Chinese-Maget): Kargo Van Specess และส่งออกใบรับรอง: สิ่งที่นักส่งออกรถ/พาร์ทเนอร์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **คำแนะนำรูปภาพ**: อ่าว สินค้า ที่ มี ขนาด
+- **ข้อความ ALT**: ฟาริซอน V6E หกลูกบาศก์เมตรรถบรรทุกสินค้าไฟฟ้า
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: ล็อคแบตเตอรีก่อนสิ่งอื่น
 The Xingsiang V6E เป็นรถแวนของฟาริซอน (Geely) ยี่ห้อขายแบตเตอรีไฟฟ้าในเมือง ความเสี่ยงของสเปกตรัมที่มากที่สุด คือปีตัวอย่าง: โครงสร้างฐานใช้แพ็ค 35.2 kWh ในขณะที่อาคารใหม่ใช้ประมาณ 51 kWh และช่วงการเปลี่ยนแปลงตาม คําสั่งสั่งซื้อบอกว่า " V6E" ก็สามารถเติมได้เหมือนกัน หน้านี้ครอบคลุมตลาดจีน V6E (REFEST Magnet: GAHE) และรักษาฐานและผู้สร้างใหม่ไว้
@@ -52,40 +54,40 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 มอเตอร์ถาวร โวล็อง-ซีเอฟ TZ185XS022 มอเตอร์ เครือข่าย 60 kW 220 N·m.
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | V6E เปิด เผย 0–50/speed) | บ้าน ของ รถ ตู อา โย | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | ROOS_ CHCKED | 60 kW 220 N·m จํากัด 90 km/h เพลาใบ |
-| V6E EU-spec export to Türkiye (6 m³) | ขนส่งผ่านประเทศจีน ข่าว (ข่าวที่สกปรก) | สื่อของ CN (บันทึกการนําเข้า: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | ROOS_ CHCKED | Feb- 2024 EU-scort Turkiye gency,  6 m³ (news record, ไม่ใช่ OEM/ February ไม่ ISFIIIIIIIE) |
+| V6E EU-sign Explect to Turkiye (6 m3) | | | ข ข น น น น น น น น น น น น น น น น น น น น น น น น น น น N N ่ ่ ่ ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ่ น น น น น ท ท เ ท เ เ เ เ เ เ เ ก เ ก เ เ ก เ เ เ เ ก ก เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ  TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | ROOS_ CHCKED | Feb- 2024 EU-scort Turkiye gency,  6 m³ (news record, ไม่ใช่ OEM/ February ไม่ ISFIIIIIIIE) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | ซอยโซออโต้ | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | ROOS_ CHCKED | ค่าราศน์, ปริมาตรสินค้า |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 

@@ -1,14 +1,17 @@
 # DOHHHHHHHHHHHHHHHHHHHHHHHHHH, Hai phiên bản pin  and  Xuất danh sách kiểm tra
-## SAO Siêu dữ liệu
-- **SEAO Title**: BOD Tần Plus DM-i Ảnh: Hai phiên bản pin và Ảnh hướng dẫn xuất
-- **Meta Mô tả**: DOHHHHHHHH+ DM-I giải thích cho người nhập cảng như thế nào - 1.5L động cơ, Động cơ điện,  8.32/18.32 kWh battery, E-CVT  and  Chế độ hoạt động kết hợp,  and  Tại sao 55 đấu 120 phải được sửa chữa bởiIN.
-- **Sudeest URL**: /vehicles/byd-qin-demi
-- ** H1 **: By Tần Plus DM-i: PHV Powertrain, Version Dislies and What Importers must recited
-- ** Từ khoá bí mật **: BOD Tần Cộng với đặc điểm DM-I xuất khẩu
-- **Secondary Search Words**: Tần Dực vào DM-i 55 đấu với 120, bởi DM-i plug-in, Tần cộng 18.32 kWh, Tần Cộng DM-i ngoại quốc/Bahrain, bán kính PHEV NEEC WLTC, xe sedan của Trung Quốc
-- **I nội bộ Link gợi ý**: /guides/chinese-char-ev-c tương thích tiêu chuẩn /guides/commercial-cial-cuff-china
-- **Image sumpions**: hồ sơ sedan; 55 tương ứng với 120 phiên bản thẻ; động cơ DM-i+motor+E-CT bố trí; nạp cổng; phía sau không gian ngồi
-- **LT gợi ý**: "BYD Tần Tần Dựa vào các xe sedan lai; " 55km so sánh với 120km ắc quy; "BYD D D D-I cha trí năng lượng đa năng"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: BYD Tần cộng DM - PHEV: Hướng dẫn Xuất hai phiên bản và Độ sâu
+- **Meta mô tả**: BYD Tần cộng DM -i giải thích cho những người nhập cảng — 1.5L động cơ như thế nào, Động cơ điện,  8.32/18.32 kWh battery, E- CVT   and  Chế độ hoạt động kết hợp,  and  why 55 vs 120 must be fixed by  VIN .
+- **H1**: BYD Tần cộng DM -i: PHEV Powertrain, phiên bản khác biệt và những gì greers phải xác nhận
+- **Từ khóa chính**: BYD Tần Cộng DM -i Đặc tả xuất khẩu
+- **Cụm tìm kiếm phụ**: Tần cộng DM - 55 đấu 120, BYD DM - Tôi là người lai, Tần cộng 18.32 kWh Tần cộng DM -Tôi nước ngoài/Bahrain market, PHEV NEDC WLTC, Xuất khẩu xe sedan Trung Quốc PHEV
+- **URL đề xuất**: /vehicles/byd-qin-plus-dmi/
+- **Ý định tìm kiếm**: Hiểu BYD Tần cộng DM -i: PHEV Powertrain, Phiên bản khác biệt và Những người xuất khẩu cần xác nhận: Điều mà người xuất khẩu xe/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Gợi ý hình ảnh**: sedan hồ sơ bên
+- **Văn bản ALT**: DO Tần Plus DM-i cắm xe hơi lai
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
+
 ## Tại sao một DM-i phải được xác định là một hệ thống
 Chiếc xe ngựa nhỏ nhỏ của Tần Plus DM-i là một chiếc xe hơi nhỏ gọn của **(PHV), không phải là xe hơi điện tử tinh khiết hay xe xăng thông thường. D's DM-i là một hệ thống phân loại dãy: một con nhỏ, Hệ thống đánh dấu hiệu suất ** 1.5L tự nhiên được kích hoạt động cơ**, một ổ đĩa ** Động cơ điện**, LFP Comment  and  một **E-CVT** làm việc vậy xe chạy bằng điện khi có thể  and  sử dụng chủ yếu máy tính cho thế hệ hiệu quả  and  Cứu trợ tốc độ cao. Vì thế,  Một mệnh lệnh phải sửa chữa **four things together — battery size, Phiên bản chỉ điện, kết xuất động cơ  and  Ứng xử hoạt động**; "Một người Tần Plus DM-i" mà không có tên 55/120 thì không rõ ràng. Trang màu xanh lá cây này bao phủ **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: Chloe. BORD cũng có mặt ở đây **Qin Plus DM-i** trên các trang thị trường nước ngoài được chọn; Những thông số chính thức vùng này chi phối những chiếc xe đó. ** Luật phân loại:** một quy tắc khác tên là BD PHV được coi như một mô hình liên quan*, không phải cùng một mô hình, trừ khi DOD rõ ràng ghi rõ bí danh — chia sẻ nền tảng, đào tạo năng lượng hoặc xuất hiện không phải là bằng chứng của sự tương đồng MODEL.
 ## Hai phiên bản theo từng bên
@@ -45,30 +48,30 @@ Có phải 1.5L là đơn vị chính không? Trong DM-i nó chủ yếu là má
 1245 km là phạm vi điện à? Không, nó là một con số tổng hợp nhiên liệu+battony Trung Quốc; chỉ có điện là 120 km NEEC.
 Nó có bán ở nước ngoài không? Theo trình tự, trên các trang thị trường được chọn, sử dụng bảng điểm đến. Bất kỳ bảng tên xuất khẩu nào đòi hỏi xác nhận bằng chứng rõ ràng — một hệ thống y tế AD không được cho là cùng một mô hình.
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

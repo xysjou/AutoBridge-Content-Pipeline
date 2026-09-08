@@ -1,15 +1,18 @@
 # BYD Yuan Plus (Atto 3) — Battery, (رانج سايكل) الشحن  and  مصاريف التصدير
-## SEO Metadata
-- ** عنوان المنظمة**: من جانب شركة Yuan Plus Atto 3: Battery, Range " Export Buyer Guide
-- ** وصف البيانات**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, لماذا الصين يجب أن تبقى لجنة مكافحة الإرهاب منفصلة عن مقصدها GB/T vs local charging inlet,  and  ما الذي يجب التحقق منه من قبل في إن
-- ** URL المقتطع**: /مركبات/بضائع
-- ** H1 **** من جانب يوان زائد (اسم التصدير: Atto 3): البطارية، وراكنغ سيكل، وشحن وبرمجيات للمستوردين
-- ** كلمة رئيسية**: تصدير مواصفات من جانب شركة Yuan Plus Atto 3
-- ** شروط البحث الثانية**: BYD Atto 3 battery 60.48 kWh, يوان زائد CLTC ضد WLTP المدى، حسب (بلايد باتري لوف بي)  Atto 3 CCS2 charging, يوان زائد ديلينك في الخارج تصدير مركبات دفع ربية الدفع من طراز EV الصينية
-- ** مقترحات داخلية بشأن الروابط**: بين المستوى الصيني والمستوى مبادئ صينية ذات يد مباشرة/مفتشية/مستعملة الصينية
-- ** اقتراحات تتعلق بالنص**: - عرض الاستوديو على ثلاثة أرباع؛ 430/510 مقابل مقارنة متغيرة للأفضليات التجارية العالمية؛ - شحنة قريبة من الميناء؛ - الجلوس والأحذية الخلفية؛ شاشه الديلينك المتناوبه
-- ** اقتراحات بشأن: "BYD Yuan Plus Atto 3 مركب كهربائي مدمج، "يوان زائد CLTC مقابل 3 من مقارنات النطاق WLTP"
-## Buyer Context: One Car, Two Specification Languages
+## بيانات SEO الوصفية
+- **عنوان SEO**: BYD Yuan Plus / Atto 3: Battery, Range & Export Buyer Guide
+- **وصف Meta**: Chinese-market  BYD  Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, لماذا يجب أن تبقى الصين CLTC منفصلة عن الرقم WLTP/NEDC في الوجهة GB/T ضد شحن محلي  and  ما الذي يجب التحقق منه بـ VIN
+- **H1**: BYD يوان زائد (اسمية التصدير: Atto 3): البطارية، وراكنج سيكل، وشحن وبرمجة الواردات
+- **الكلمة المفتاحية الرئيسية**: BYD  Yuan Plus Atto 3 specifications export
+- **مصطلحات بحث ثانوية**: BYD Atto 3 bat 60.48 kWh, Yuan Plus CLTC vs WLTP range, BYD Blade Battery LFP, Atto 3 CCS2 charging, Yuan Plus DiLink overseas, Chinese EV compact SUV export
+- **URL المقترح**: /vehicles/byd-yuan-plus/
+- **نية البحث**: (أ) فهم BYD يوان زائد (اسم التصدير: Atto 3): البطارية، وراكنج سيكل، وشحن وبرمجيات المستوردين: ما يجب على المصدر للمركبات/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر.
+- **اقتراحات الروابط الداخلية**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **اقتراح الصورة**: مشهد الاستوديو الأمامي من ثلاثة أرباع
+- **نص ALT**: من قبل يوان زائد/ Atto 3
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
+
+# Buyer Context: سيارة واحدة، لغتان مخصوصتان
 The BYD Yuan Plus (元 PLUS) هو اتفاق شامل للكهرباء SUV على's e-platform 3.0 مع كتيبة شرطة لوس أنجلوس; خارج الصين تباع كما **BYD Atto 3 ** across Europe, Southeast Asia, Latin America and Oceania, بما في ذلك RHD أسواق مثل تايلند وأستراليا. خط الصين المشمول هنا هو مقياس غلوري البالغ 2024 ** (荣耀版)**. وتتمثل أهم عادة منفردة في الاستعانة بمصادر خارجية في إبقاء لغتين محددتين منفصلتين: ** تستخدم البيانات المُبنية من الصين نطاق مركز التجارة الدولية وشبكة GB/T لشحن البضائع، بينما تستخدم صحائف التصدير الخاصة التابعة لوزارة الدفاع مجموعة النطاق العالمي للأفضليات الوطني للتبادل الالكتروني للبيانات ووصلات الاتصال الإقليمية**. هذه صفحة نموذجية مُتدرجة (لا سنة في القانون النموذجي للإنشاء والتعمير): إنّ المنصة تُحمل عبر السنوات النموذجية، والأعداد الخاصة بالنسخة أدناه تُسمّى بالسوق والدورة بدلاً من أن تُعرض على أنها مُطيّفة عالمية واحدة.
 ## البطارية والفارين (يبدأ قرار EV هنا)
 السيارات الصينية تقسم بالبطارية و نطاق حركتها و محرك أمامي واحد على الخط
@@ -35,9 +38,9 @@ The BYD Yuan Plus (元 PLUS) هو اتفاق شامل للكهرباء SUV عل�
 ## التحقق من صحة المشترين قبل الدفع
 - ** اسم الصين يوان زائداً مقابل الوجهة إلى 3 **؛ وسجل السنة النموذجية ودرجة الصف الصيني بالضبط.
 - ماتش فين إلى البطارية (49.92/60.48) الدراجة*  and  -الطاقة المحملة -لا توجد بطاقة مبيعات وحدها
-- Confirm **LHD/RHD** and whether the unit is factory RHD or a China LHD car.
-- Confirm charging inlet (GB/T vs CCS2/other), onboard charger and adapter limits.
-- Confirm infotainment language, maps, app store and OTA support outside mainland China.
+- تأكيد**HD/RHD** وما إذا كانت الوحدة مصنعاً للدواء الرئوي أو سيارة صينية للدماء العالي الارتحال.
+- تأكيد الشحنات (GB/T vs CCS2/other)، على متن الشحنات والحدود المفروضة على المكيفين.
+- لغة الحفـظ، والخرائط، ومخزن التطبيقات، ودعم مكتب خدمات المشاريع خارج الصين القارية.
 - الحصول على طريق مُوجة الوجهة؛ وورقة عينة صينية ليست موافقة من نوعها.
 - تصاريح سرية لوحدة صينية موازية ضد موظف في أتو 3.
 ## طلب تخصيص موارد التصدير الحالية
@@ -49,40 +52,40 @@ The BYD Yuan Plus (元 PLUS) هو اتفاق شامل للكهرباء SUV عل�
 أيمكن لـ GB/T شحنة سيارة على CCS2؟ ولا يُبنى عادة على المعيار المحلي سوى مع المداخل/المشفى الصحيح المثبت للشرعية والمصافحة؛ ويُحدَّد حسب ترتيب المقصد 3 وحدة.
 ** هل سعر الصين هو اقتباس من الـ "إف أو بي"؟ لا، إنها مرجع محلي. نطلب اقتباساً مصنفاً من التصدير.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus Atto 3, battery-electric vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus Atto 3, véhicule 100 % électrique SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus Atto 3, batterieelektrisches Fahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus Atto 3, vehículo 100 % eléctrico SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus Atto 3, veículo 100 % elétrico SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus Atto 3, 純電気自動車 SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus Atto 3, 순수 전기차 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus Atto 3, xe thuần điện SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus Atto 3, รถยนต์ไฟฟ้า 100% รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus Atto 3, kendaraan listrik murni SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus Atto 3, مركبة كهربائية بالبطارية سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus Atto 3, 纯电动车 SUV
+  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus / Atto 3, vehículo 100 % eléctrico / SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus / Atto 3, veículo 100 % elétrico / SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus / Atto 3, 純電気自動車 / SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus / Atto 3, 순수 전기차 / SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus / Atto 3, xe thuần điện / SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus / Atto 3, รถยนต์ไฟฟ้า 100% / รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus / Atto 3, kendaraan listrik murni / SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| مركز يوان زائد النموذج الصيني الرسمي (شبكة الديناميات) | موظف فني (**) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | (OEM; model-line/generation scope) | مذيع الأومـام لـ خط يوان زائد النموذجي ملاحظة: صفحة الصين الحالية للـ (بي دي) تظهر جيل جديد من المحركات الخلفية، إنها تستخدم للربط بين الهوية والأجيال النموذجية، وليست مصدرا لقيم غلوري البالغ عددها 2024 (FWD، 430/510 CLTC) المشمولة هنا |
-| مصممو السيارات على الطرق - كتالوج - استفسار عام | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | تأكيد المعتمد ودخول شبكة المعلومات قبل إصدار الأمر |
+? يرجى من الجهة التي تستخدم الاستحقاق (الصندوق) أن تستخدمه؛ | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus; 2026-09-05 | (OEM)؛ النموذج/الجيل)( ▪ تحسين الظروف (الخدمة) لضبط المعسكرات، والربط بين الأطراف الفاعلة والحركات، والتدخل في عمليات حفظ السلام، والتدخل في عمليات حفظ السلام، وتاريخ 2024 (FWD، و 430/510 CLTC)
+ . Annex on the upon roads - Comprit - تمدد "ميتر" CN. https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | - ... ○ التأشيرات
 | GB 16735-2019 مركبات طريق - رقم تحديد المركبات)VIN( | إدارة المعايير (المستوى الوطني) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | نظام التحقق من في الشبكة يستخدم لقفل الصف الصيني بدقة وتجنب استبدال ثلاثيات |
 | منضدة يوان زائد 2024 | ZOL Auto | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | صرخات | الأبعاد الصينية، وشحن الطاقة، ووكالة التنمية |
-| مادة يوان زائداً | دونغشيدي (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | صرخات | 150 kW 310 N·m, 60.48 kWh, CLTC 510, 7.3 S |
-| Yuan Plus QA/ model page | أوتومهومي (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | صرخات | موتورز، متغيرات البطاريات، سياق الإطلاق |
+:: | مؤيدان مؤيدان )ايضا( | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | | | | 150 kW 310 N·m, 60.48 kWh, CLTC 510, 7.3 S )صرخ09-02 |
+يوان زائد QA/ model page. (أ) أن تخطو (استخدام برمجيات تأهبية) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02ions ? ? helicopters, and tests and the journalments, and ?
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | SINGLE OURCE | 电机马力 204Ps ھ 快充 80% |
 | 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | SINGLE OURCE | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
 | 元PLUS 2024款荣耀版 参数配置表 | 太平洋汽车 PCauto | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | صرخات | 2024 جدول خاص بالمجد: 49.92/60.48 kWh, CLTC 430/510, خمس درجات غلوري (معتمدة على DB # 1) يمكن التحقق من إمكانية الوصول إليها) |

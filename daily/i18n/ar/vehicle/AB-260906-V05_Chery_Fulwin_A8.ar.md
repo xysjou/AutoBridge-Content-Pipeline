@@ -1,13 +1,18 @@
-# Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference
-## SEO Metadata
-- ** عنوان الحلقة**: Chery Fulwin A8 PHEV Export Specs: Two Range Lines, Battery and Modes
-- ** بيان ميغايتا**: مرجع السوق الصينية للشاري A8 plug-in hybrid sedan: حافظت خطتا 70 km و145 km على انفصال، ونظام هجين من طراز C-DM، وشحن وفحص تصديري محدد من نوع PHEV.
-- ** H1 **** Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference**
-- ** كلمة رئيسية رمزية**: Chery Fulwin A8 Fengyun A8 من المواصفات التصديرية
-- ** محطات البحث الثانية**: Fulwin A8 C-DM PHEV؛ Fengyun A8 CLTCكهرباء؛ Fulwin A8 145 km؛ تصدير الشيري المزروع؛ A8 فولوين
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- ** الحلقة الدراسية**: 面向海外B端买家介绍风云A8中国市场版本身份、插混系统/纯电续航/版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+# Chery Fulwin A8 (Fengyun A8): الصين - مريخ PHEV Sedan Export Reference
+## بيانات SEO الوصفية
+- **عنوان SEO**: Chery Fulwin A8 PHEV Export Specs: Two Range Lines, Battery and Modes
+- **وصف Meta**: إشارة السوق الصينية إلى الشيري فولوين/فنغيون A8 بوغل في سيارة هجينة: وظل الخطان الـ 70 km و 145 km منفصلين، ونظام هجين من طراز C- DM، وشحن الصادرات و PHEV شيكات تصديرية محددة.
+- **H1**: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference
+- **الكلمة المفتاحية الرئيسية**: Chery Fulwin A8 Fengyun A8 export specs
+- **مصطلحات بحث ثانوية**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC electric range; Fulwin A8 145 km؛ تصدير الشيري المزروع؛ A8 فولوين
+- **URL المقترح**: /vehicles/chery-fulwin-a8/
+- **نية البحث**: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export المرجع: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **اقتراح الصورة**: Side view of a Chery Fulwin A8 plug-in hybrid sedan with charging port visible
+- **نص ALT**: Side profile of a Chery Fulwin A8 PHEV sedan with its charging flap visible
+- **نطاق المخطط**: المادة + المركبات
+
+** مقترحات داخلية بشأن الروابط**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
 - ** اقتراح مقدم**: نظرة جانبية لسيارات الشيري فولوين A8 من الشاحنات المهجورة مع شحن ميناء مرئي
 - ** اقتراح**: لمحة جانبية عن سيارة ركاب من طراز Chery Fulwin A8 PHEV Sdan مع شاحنتها المرئية
 - **Schema Scope**: Article + Vehicle
@@ -31,7 +36,7 @@
 - 1.5T محرك (156 PS؛ محرك 115 kW/220 N·m) زائداً محرك كهربائي؛
 - Battery ≈18.0–18.67 kWh; (ج) النطاق الشامل للكهرباء في لجنة مكافحة الإرهاب 145 km؛
 - (أ) النظام الموحد الذي يُستخدم فيه 265 kW/530 N·m؛ النطاق المشترك الذي يُستخدم فيه 1400 km (المطالبة القائمة على أساس لجنة التجارة الدولية)؛
-- DC fast-charging 30%). 80% in about 19 minutes (single-source — confirm).
+- DC fast-charging 30%. 80 في المائة في حوالي 19 دقيقة (يؤكد المصدر الوحيد).
 
 ### 70 km line (single-source — confirm before contracting)
 
@@ -56,7 +61,7 @@
 3. تأكيد شحن المعدات (الوصل، و AC/DC) على البنية التحتية للمقصد.
 4. تحقق من معايرة المحرك بين الصين و 6، ودرجة الوقود، التعبئة في الوجهة.
 5. تحقق من لغة الكوكب و الملامح المرابطة، السوق الصينية هي LHD مع عدم وجود دليل على وجود قاذفة صواريخ RHD هنا.
-6. Match VIN across contract, CoC, invoice and B/L; use the correct bat UN classification for shipping.
+6 Match VIN across contract, CoC, invoice and B/L; استخدم تصنيف الضارب الصحيح لشحن السفن
 
 ## ملاحظة الأسعار
 
@@ -91,11 +96,11 @@ The 145 line is quoted at ≈19 minutes for 30–80% (single-source, (أ) تأك
 | 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | CHINA | T3 | SINGLE OURCE | https://m.16888.com/news/2026/0814/24847862.html | 145 线系统功率، DHT  |
 | 风云A8 C-DM（145km、快充30%-80%约19分钟、热效率44.5%） | 太平洋汽车百科 | CHINA | T3 | SINGLE OURCE | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率, 纯电续航  |
 | 奇瑞汽车官方网站（风云系列） | Chery Automobile | CN | T1 | مفقود | https://www.chery.cn/m | الهوية - موظف في منظمة أوم؛ وفولوين (فنغيون) |
-| Chery Fulwin A8 2025 trims " specs (in dependent DB) | كار نيوز الصين البيانات | CN | T2 | صرخات | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — independent English database; الشامل لعدة مرات |
+| Chery Fulwin A8 2025 trims " specs (in dependent DB) |cate réses ; | CN | T2 | | | | | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 ; line_145 — independent English database; ○ تنبيه
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق من المتغير والبطارية في الفيف |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA(70 线 145 线分列; 电池供应商 UNVERIFIED 不写; 出口命名另证)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

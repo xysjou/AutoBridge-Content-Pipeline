@@ -1,15 +1,17 @@
 # Dongfeng Tianlong KL (天龙 KL) 무거운 트랙터: 수출을 위한 엔진, 변속기, 차축 및 GCW
 
-## ▼ 한국어 메타데이터
-- **SEO 제목 **: Dongfeng Tianlong KL 트랙터 Specs & 수출 가이드 (DDi11 465, GCW 40t)
-- **마타 기술 **: 중국 시장 Dongfeng Tianlong KL 6x4 트랙터 머리 — Longqing DDi11 10.8 L 디젤 343 kW/2240 N·m, 14-speed (AMT 선택권), 40 t GCW, 더하여 힘 rating 및 변종 체크 수출상 필요.
-- **Suggested URL**: /vehicles/dongfeng-tianlong-kl/
-- ** H1 **: Dongfeng Tianlong KL 무거운 트랙터 머리: 중국 시장 powertrain 및 포좌 Specs
-- ** 출원 키워드 **: dongfeng tianlong kl 트랙터 specs 수출
-- ** 보조 검색 조건 **: Tianlong KL 465, DDi11E465, Dongfeng 14-speed 기어 박스, 중국 6x4 트랙터 헤드, 40t GCW 트럭 수출
-- ** 내부 링크 제안**: /guides/vehicle-export-hs-code-classification/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/jmc-shunda/
-- ** 이미지 제안 **: KL 트랙터 머리 6x4; DDi11 엔진; 14-speed 교대/AMT; 택시 실내; 포좌 구조와 다섯번째 바퀴
-- ** ALT 제안**: "Dongfeng Tianlong KL 465 무거운 트랙터 머리"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t "
+## SEO 메타데이터
+- **SEO 제목**: Dongfeng Tianlong KL 트랙터 Specs & 수출 가이드 (DDi11 465, GCW 40t)
+- **메타 설명**: 중국 시장 Dongfeng Tianlong KL 6x4 트랙터 머리 — Longqing DDi11 10.8 L 디젤 343 kW/2240 N·m, 14-speed (AMT 선택권), 40 t GCW, 더하기 힘 rating 및 변종 체크 수출상 필요.
+- **H1**: Dongfeng Tianlong KL 무거운 트랙터 머리: 중국 시장 powertrain와 포좌 Specs
+- **주요 키워드**: dongfeng tianlong kl 트랙터 specs 수출
+- **보조 검색어**: Tianlong KL 465, DDi11E465의 Dongfeng 14-speed 변속기, 중국 6x4 트랙터 머리, 40t GCW 트럭 수출
+- **추천 URL**: /vehicles/dongfeng-tianlong-kl/
+- **검색 의도**: Dongfeng Tianlong KL를 저항하십시오 무거운 트랙터 헤드: 중국 시장의 동력 및 섀시 사양: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **이미지 제안**: KL 트랙터 머리 6x4
+- **ALT 텍스트**: Dongfeng Tianlong KL 465 무거운 트랙터 머리
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 Context: 트랙터 머리는 Powertrain 사슬과 기차 무게에 의해 지정됩니다
 무거운 트럭 구매자는 장비 목록을 상점하지 않습니다. 그들은 총 조합 무게**에 일치 **engine-gearbox-axle 체인을 지정합니다. Tianlong KL는 Dongfeng의 중국 6 무거운 반 트랙터입니다. 이 모델의 반복 오류는 net power** Figure와 **rated power를 혼란시켜줍니다.  or blending the 465 PS tractor with the 430/520/560 PS  and  가스 변종. 이 문서는 ** 중국 시장 DDi11E465-60 트랙터 (REFERENCE MARKET: 중국)**; no OEM primary brochure was captured, 그래서 크로스 검사 거래 값은 MIIT 발표에 대해 확인해야합니다.
@@ -81,13 +83,13 @@
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Tianlong KL465년 Longqing powertrain & 질 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_체크 | DDi11의 14-speed |
+| 천롱 KL465년  Long  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토  오토 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_체크 | DDi11의 14 속도 |
 | Tianlong KL 465 AMT 모수 | Tencent 뉴스 | 담당자: Mr. wang | http://news.qq.com/rain/a/20231120A0697W00 을 | 2026-09-04 | SINGLE_SOURCE(싱글) | AMT 옵션, 토크 밴드 |
 | Tianlong KL 465 포좌 & 변속기 | 360che (토피아노) | 담당자: Mr. wang | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_체크 | DT1422, GVWR의 커브, GCW |
 | Dongfeng Tianlong 힘 (자전거를 교차하는 도둑질) | PCauto 백과 사전 | 담당자: Mr. wang | http://m.pcauto.com.cn/baike/1124005/2143996/ 경우 | 2026-09-04 | SINGLE_SOURCE(싱글) | 힘 배합 십자가 체크 |
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고: no OEM primary brochure; 거래 크로스 체크. 정격/net 힘 둘 다 레테르를 붙였습니다; 다른 힘 및 가스 버전 제외. 중국 시장 참고; MIIT 발표에 대해 확인. ****************************************************************************************************************************************************************************************************************************************************************

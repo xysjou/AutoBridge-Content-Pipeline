@@ -6,7 +6,7 @@
 - **Primary Keyword**: force majeure certificate ccpit cietac arbitration
 - **Secondary Search Terms**: CCPIT force majeure certificate; 不可抗力事实性证明; China Chamber of Commerce certification; rzccpit platform; force majeure evidence export; CIETAC arbitration clause
 - **Suggested URL**: /guides/force-majeure-certificate-ccpit-cietac-arbitration/
-- **Search Intent**: 贸促会不可抗力事实性证明证明什么、需要哪些佐证、为何不等于法定免责、以及后续调解/仲裁路径
+- **Search Intent**: Understand A CCPIT Force Majeure Certificate Is a Fact, Not a Verdict: Evidence and Dispute Use in Export Contracts: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/export-sales-contract-china-civil-code/, /guides/ipr-customs-recordation-export-protection/
 - **Image Suggestion**: An exporter assembling a force-majeure evidence file with government notices and shipping documents
 - **ALT Suggestion**: Desk with a force-majeure evidence file, government notices and a booking document

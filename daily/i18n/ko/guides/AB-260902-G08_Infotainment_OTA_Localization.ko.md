@@ -1,14 +1,17 @@
 # 중국 자동차 정보, 앱 및 OTA 해외: Per-VIN Localization Verification Guide
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 자동차 정보 및 OTA 해외: Per-VIN 자주 묻는 질문
-- **마타 기술 **: 중국 사양 헤드 유닛은 시장에서 UI 언어, 로컬지도, 전화 미러링, 가용성 및 OTA를 실제 VIN에 검증합니다.
-- **Suggested URL**: /guides/chinese-car-infotainment-ota-localization/
-- ** H1 **: 중국 자동차의 소프트웨어 작업 만들기: 실제 자동차에 테스트하는 것
-- ** 출원 키워드**: 중국 자동차 정보국 VIN 당 영어 OTA 해외 현지화
-- **세컨드 검색 조건**: 중국 사양 헤드 단위 영어 UI, BYD DiLink 해외, 중국 EV지도 해외, CarPlay 안드로이드 자동 중국 자동차, OTA 서버 지역, 아랍 RTL HMI, 수출 버전 소프트웨어 빌드
-- ** 내부 링크 제안**: /guides/chinese-ev-charging-standard-compatibility/; /guides/right-hand-drive-nesechi-cars/; /guides/verify-china-car-export-supplier/
-- ** 이미지 제안**: 중국어 전용 vs 영어 HMI; five software checks; 국내 대 수출 소프트웨어 더미; OTA 서버 반전 도표
-- **ALT 제안**: "중국 사양 헤드 단위 언어 설정"; "five infotainment localization check"; "domestic versus export software stack"
+## SEO 메타데이터
+- **SEO 제목**: 중국 자동차 정보 및 OTA 해외: a Per- VIN  Check Guide
+- **메타 설명**: 중국 사양 헤드 유닛은 시장에서 작동합니까? UI 언어, 현지지도, 전화 미러링, 앱/서버 턴 가능성 및 OTA를 실제 VIN에 검증합니다. 브랜드별 사실은 업계 예에서 분리되어 있습니다.
+- **H1**: 중국 자동차의 소프트웨어 작업 만들기: 실제 자동차에 테스트하는 것
+- **주요 키워드**: Chinese car infotainment English  OTA  overseas localization per  VIN
+- **보조 검색어**: 중국 spec 맨 위 단위 영어 UI, BYD DiLink 해외, 중국 EV 지도 해외, CarPlay 안드로이드 자동 중국 차, OTA 서버 지역, 아랍 RTL HMI, 수출 버전 소프트웨어 빌드
+- **추천 URL**: /guides/chinese-car-infotainment-ota-localization/
+- **검색 의도**: 중국 자동차의 소프트웨어 작업 만들기에 대한 이해: 실제 자동차 테스트 방법: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **이미지 제안**: 중국어 전용 대 영어 HMI
+- **ALT 텍스트**: China-spec 헤드 단위 언어 설정
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## Evidence Discipline 이 가이드는 따릅니다
 소프트웨어 행동은 ** 브랜드 및 VIN-specific**이므로, 이 페이지는 두 가지 종류의 문에 분리합니다.
 - **Brand/model-specific facts** — 이 브랜드의 해외 채널 또는 라이브 테스트를 통해 정확한 VIN에 정착 할 수 있습니다; 그들은 다른 모델에서 결코 잘못되지 않습니다.
@@ -55,18 +58,18 @@ Localisation 공급 업체는 모든 문제를 해결하는 것이 바람직합�
 **안전하게 비난된 번쩍이는 것은 보장을 void 및 절상 수락 문제점을 할 수 있습니다; 공장 수출 건축 또는 상표 지원한 노선을 선호하십시오.
 **영어 UI는 아랍어를 만들 수 No — Arabic는 RTL 레이아웃과 번역을 넘어 적절한 현지화가 필요합니다.
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf
@@ -83,13 +86,13 @@ Localisation 공급 업체는 모든 문제를 해결하는 것이 바람직합�
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 중국 브랜드 소프트웨어 장 (각자 개발된 조종석, 중국과 층) | 전기 자동차 중국 (산업) | CN→글로벌 | https: 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | Industry**pattern/example만**, 일반화되지 않음 | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/
-| BYD 바다 사자 07 Ukraine 현지화 케이스 | NEV Fix (국립 서비스) | CN→멀티 | https: | 2026-09-02 | SINGLE_SOURCE(싱글) | **Brand-specific 예제**: 중국 전용 문제; BYD 계정 영어 스위치 (모델당 재확인) | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html
+중국 제조 업체, 공급 업체, 공장, 도매-제품-항 주 센스 (주) 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | Industry**pattern/example만**, 일반화되지 않음 | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/
+| BYD 바다 사자 07 Ukraine 현지화 케이스 | NEV Fix (국립 서비스) | CN→멀티 | https: | 2026-09-02 | 싱글|SOURCE(싱글) | **Brand-specific 이름 * 중국 문제 BYD 계정 영어 스위치 (모델당 재확인) | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html
 | Denza Z 유럽 Google/Gemini 대 국내 조종사 | Xueqiu (보석 해제) | CN→EU의 | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE(싱글) | **Example** 국내 쌓기 수출의 (Un Universal) |
 | Per-VIN 소프트웨어 검증 체크리스트 | StarVia Auto (수출 서비스) | CN→글로벌 | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE(싱글) | Five-check acceptance method |
 | 다국어/RTL 수출 표준 | CCID 赛迪 노이 소프트 원코어 Go 적용 (산업용 미디어) | - 연혁 | http://www.ccidnet.com/hlw/93237.jhtml 이동 | 2026-09-02 | SINGLE_SOURCE(싱글) | RTL/Arabic 배치 고려 |
-| 중국 자동차 OS 영어 버전 B2B 수출 가이드 | 전기 자동차 중국 | 담당자: Mr. wang | https: 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | 英文 HMI, 刷机成本 (行业口径, 待官方核验) | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/
-| 中国汽车出海, 智能化为何 "水土不服" | 汽车之家·车家号 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE(싱글) | 海外用户 UI 翻译 手机互联问题 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 翻译 手机互联问题 翻译 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 |
+| 중국 자동차 OS 영어 버전 B2B 수출 가이드 | 전기 자동차 중국 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | 英文 HMI, 刷机成本 (行业口径, 待官方核验) | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/
+中 中 中 中 水 水 水 汽车 汽车 家 家 家 家 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE(싱글) | 海外用户 UI 翻译 手机互联问题 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 翻译 手机互联问题 翻译 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 |
 
 *Confidence 참고: 모든 인용 재료는 산업 서비스 미디어이며 패턴 또는 단일 브랜드 케이스의 일러스트로 사용됩니다. 모든 중국 차량이 행동을 공유하는 증거로 결코. Per-brand 수출 언어 명부, OTA 서버 관련 정책  and  the "mandatory English HMI" inspection claim were not confirmed by a primary regulator  and  특정 VIN의 해외 채널에 정착해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
 ## 편집 리뷰

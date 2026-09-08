@@ -6,7 +6,7 @@
 - **Primary Keyword**: Geely Boyue L export specs
 - **Secondary Search Terms**: Geely Boyue L dimensions; Boyue L 1.5T 7DCT; Geely Starray export; Chinese compact SUV; Boyue L cargo space
 - **Suggested URL**: /vehicles/geely-boyue-l/
-- **Search Intent**: 面向海外B端买家介绍Boyue L中国市场版本身份、尺寸/动力与版本边界
+- **Search Intent**: Understand Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
 - **Image Suggestion**: A Geely Boyue L compact SUV in profile showing its roofline and wheel arch cladding
 - **ALT Suggestion**: Side profile of a Geely Boyue L compact SUV on a plain background

@@ -1,15 +1,17 @@
 # Foton Toano Tuyano (2026) — Especificações do mercado chinês de furgão grande (autocarro leve) e verificações de exportação
 
-## SEO Meta- dados
-- ** Título SEO**: Foton Toano (Tuyano) Grande Van: Especificações de Mercado Chinês e Guia de Comprador de Exportação
-- ** Descrição do Meta**: China-mercado Foton Toano ônibus leve van grande: distâncias curtas e longas, torque diesel, ampla faixa de assentos, e por que as conversões refrigeradas são avaliadas separadamente.
-- ** H1 **: Foton Toano Tuyano (2026) — Especificações de comércio chinês de furgão grande (autocarro leve) e verificações de exportação
-- **Chave-chave primária**: Foton 福田 Toano 图雅诺 大 VAN(轻客) especificações de exportação
-- ** Termos de pesquisa secundários**: Exportação de Foton Toano; Tuyano van; ônibus leve chinês; van de passageiros; conversão de van de carga
-- ** URL sugerida**: /veículos/foton-toano/
-- ** Intenção de pesquisa**: 了解 Foton 福田 Toano 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
-- **As sugestões de ligação interna**: /veículos/fotão-toano/, /guias/ckd-skd-knockdown-kit-export-assembly/, /guias/tir-road-transport-china-central-asia/
-- **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: Foton Toano (Tuyano) Grande Van: Especificações de Mercado Chinês e Guia de Comprador de Exportação
+- **Meta descrição**: China-mercado Foton Toano ônibus leve / van grande: distâncias curtas e longas, torque diesel, ampla faixa de assentos, e por que as conversões refrigeradas são avaliadas separadamente.
+- **H1**: Foton Toano / Tuyano (2026) — Especificações do mercado chinês de furgão grande (autocarro leve) e verificações de exportação
+- **Palavra-chave principal**: Foton / 福田 Toano / 图雅诺 大 VAN(轻客) especificações de exportação
+- **Termos de busca secundários**: Foton Toano exportação; Tuyano van; ônibus leve chinês; van de passageiros; conversão de van de carga
+- **URL sugerida**: /vehicles/foton-toano/
+- **Intenção de busca**: Compreenda Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Especificações e verificações de exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **Sugestão de imagem**: Uma cena realista, documento/veículo-focused ilustrando Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Especificações e verificações de exportação, nenhuma inspeção encenada ou as pessoas alegaram.
+- **Texto ALT**: Fechar, visão natural dos materiais e do assunto relacionado com Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Especificações e Exp, fundo neutro, nenhuma pessoa ou ação de inspeção mostrado.
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/revisão)
 
 ## Contexto do comprador: um barramento de luz configurável, sem uma especificação fixa
 O **Foton Toano (, 图雅诺, 2026) é um grande van/ônibus de grande porte do mercado chinês. Como a matriz variante é ampla, esta página é escrita em torno de **configurações identificadas apenas** ao invés de uma única especificação implícita de "Toano". O mercado de referência é **China**.
@@ -49,7 +51,6 @@ Os compradores de furgão devem fixar distância entre eixos, altura do telhado,
 **What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
 ** Onde estão os números da GVW?** Não é de forma fiável; obter a partir de homologação.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -68,30 +69,29 @@ Os compradores de furgão devem fixar distância entre eixos, altura do telhado,
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- ** MODEL_TOPIC_ MATCH**: furgão de Toano de Foton
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
-  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
-  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
-
+- **MODEL_TOPIC_MATCH**: exact Foton Toano van
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
+  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
+  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

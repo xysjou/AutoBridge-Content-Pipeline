@@ -1,14 +1,16 @@
 # 適合性と種類承認の証明書: ドシエマップの輸出者 間違った取得を保って下さい
-## ツイート メタデータ
-- **SEOタイトル**:車両CoC対タイプ承認(WVTA、OTTS、Eマーク)バイヤーガイド
-- **メタ 記述**: 中国の国内認証を、先物市場CoC、EU WVTA、EAEU OTTS/EAC、e-mark/E-markシステムから非調整可能で、登録デスクに適している。
-- **混雑URL**: /ガイド/車両-コイル式-approval-dosier/
-- H1 ホテル **: 車CoCおよび全車のタイプ承認: 適切な市場への適切な文書の一致
-- **主なキーワード**:適合と型式承認の車両証明書wvta otts emark
-- **二次検索条件**:中国COC輸出、EU全車両タイプ承認、EAEU OTTS EAC、Eマーク対Eマーク、UNECE 1958タイプ承認、車両登録は、より
-- **内部リンクの提案**: /guides/china-vehicle-export-license-customs-documents/; /guides/uae-vehicle-import-registration-documents/; /vehicles/saic-maxus- v90-specs/
-- **画像提案**:文書階層図(タイプ承認→CoC);市場→証明書マップ;中国CoC対先CoC比較
-- **ALT 提案**:「適合階層の証明書への型式承認」;「WVTA OTTS E マーク市場マップ」
+## SEOメタデータ
+- **SEOタイトル**: 車両のCoC対タイプ承認(WVTA、OTTS、Eマーク)バイヤーガイド
+- **メタディスクリプション**: 目的地の市場CoC、EU WVTA、EAEU OTTS/EAC、Eマークシステムからの適合の中国国内証明書を解き放つと、適切なdosierは登録デスクに到達します。
+- **H1**: 車両のCoCおよび全車のタイプ承認: 適切な市場への適切な文書の一致
+- **主要キーワード**: 適合性対タイプの承認の車輌証明書 wvta のotts のマーク
+- **関連検索語**: 中国CoCの輸出、EU全車のタイプ承認、EAEU OTTS EAC、E印対Emark、UNECE 1958のタイプ承認、車登録のdossier
+- **推奨URL**: /guides/vehicle-coc-type-approval-dossier/
+- **検索意図**: 車両のCoCおよび全車のタイプ承認を知って下さい: 右市場への右文書の一致:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
+- **画像候補**: 文書階層図(型承認→CoC)
+- **ALTテキスト**: 適合階層の証明書への型式承認
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## コアコンフュージョン
 輸出業者は、外国市場アクセスとして中国国内の合格证 / CoCを提示するか、部品E-markが車両全体を認証すると仮定します。 タイプ承認と適合証明書は異なるレベルに座っています。この誤ったことは、一般的な理由の登録を拒否されます。 このガイドは、システムをマップします。 証拠ノート:中国側のフレームワークは、MIIT材料に基づいています。 EU / EAEU / UNECE 機器の説明は、認証サービスプロバイダ(二次)から来ており、規制テキスト自体は、コンプライアンスの決定の前に、EUR-Lex / UNECE / EAEU 手数料から引き抜かれるべきである - 彼らはプライマリスタットとしてここに引用されていません。
@@ -51,18 +53,18 @@ E のマークされたコンポーネントのバッグは、** が全車両 WV
 ** EAEUの承認のために現地の代表者が必要ですか? アパート OTTS/EAC のアレンジは、一般に、ユニオン内で認可された代表者が必要です。現在の TR CU 018 のテキストを確認します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,12 +87,12 @@ E のマークされたコンポーネントのバッグは、** が全車両 WV
 | e-mark と E-mark の解説 | 認証サービスプロバイダ | グローバル/EU | 以下は、 | 2026-09-03 | シングル_ソース | e/E マークの区別(二次) | https://m.11467.com/product/d55481671.htm
 *証拠天井:EU/EAEU/UNECEの機器は、二次認証サービスソースから記述されています。安定したEUR-Lex/UNECE/EAEUの第一次テキストは取得されません。 規制の日付と範囲は、コンプライアンス使用前に第一次テキストに対して検証する必要があります。 中国側フレームワークは、公式の裏返された部分だけである。 ふりがな
 
-| 規制(EU) 2018/858(連結2021-09-26) モータ車両の型式承認 - WVTA; 全車両対 | EUR-Lex(EU公式法的データベース) | CN の | 以下は、 | 2026-09-04 | 検証済み |  | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926
-| 規制(EU) 2018/858(原本)、第VI/第36章 — 各車両のコックを発行するメーカー | ユーロレックス | CN の | 以下は、 | 2026-09-04 | 検証済み |  | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858
+| 業務用車種別型式別型式別型式別型式別型式表示(EU)2018/858(連結2021-09-26) 全車両対 |  EUR  -Lex(EU  公式法的データベース) |  CN  の | 以下は 、 | 2026-09-04 | 検証済み | | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926
+| 規制 (EU) 2018/858 (原本)、 第  VI  / 第 36 章 — 各車両のコックを発行するメーカー | ユーロレックス |  CN  の | 以下は 、 | 2026-09-04 | 検証済み | | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858
 | 第VI章(CoC)公式再生 | (英国公認法データ) | CN の | 以下は、 https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf の | 2026-09-04 | 検証済み |  | 2018/858
 | 1958 合意(改訂。3)、E/ECE/TRANS/505 — コンポーネント/システム/STUのUN規制タイプの承認のためのフレームワーク | UNECE(国連) | CN の | 以下は、 https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf のファイル | 2026-09-04 | 検証済み |  |
 | GRRF- 84-18(承認マーク/番号構造、E +国番号) | UNECE WP. 29 GRRF の特長 | CN の | 以下は、 https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf のファイル | 2026-09-04 | 検証済み |  |
-| 1958協定の状況と国連規制の附属 | ユーネクテ | CN の | 以下は、 の一覧 | 2026-09-04 | 検証済み |  | https://unece.org/status-1958-agreement-and-annexed-regulations
+| 1958 協定の状況と国連規制の附属 | ユーネクテ |  CN  の | 以下は 、 の一覧 | 2026-09-04 | 検証済み | | https://unece.org/status-1958-agreement-and-annexed-regulations
 | 税関連合委員会の決定 No. 877 (09.12.2011) 技術的な規則TR CU 018/2011を採用 "オン  | adilet.zan.kz — M の公式法的データベース | CN の | 以下は、 https://adilet.zan.kz/rus/docs/H11T0000877 のファイル | 2026-09-04 | 検証済み |  |
 | イージー ボード決定書 232 (09.12.2014) OTTS OTSH フォームのコンパイルのためのルール | Alta-Soft 法的な参照 (T3; EEC de を再現する) | CN の | 以下は、 https://www.alta.ru/tamdoc/14kr0232/ の | 2026-09-04 | シングル_ソース |  |
 

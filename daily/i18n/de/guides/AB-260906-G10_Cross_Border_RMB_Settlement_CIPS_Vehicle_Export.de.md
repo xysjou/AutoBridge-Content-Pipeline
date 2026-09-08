@@ -1,16 +1,16 @@
 # Abwicklung chinesischer Fahrzeugexporte in RMB: Grenzüberschreitender RMB Abwicklung und die Rolle des CIPS
-## SEO Metadaten
-- **SEO Titel**: RMB Settlement & CIPS für chinesische Fahrzeugexporteure
-- **Meta Description**: Ob und wie ein chinesischer Fahrzeugexporteur die Zahlung in RMB in Rechnung stellen und erhalten kann, wie die grenzüberschreitende RMB-Abwicklung funktioniert, die Steuerrückerstattungsposition und was CIPS tatsächlich tut.
-- ** H1 **: Abwicklung chinesischer Fahrzeugexporte in RMB: Grenzüberschreitender RMB Abwicklung und die Rolle des CIPS
-- **Hauptschlüsselwort**: grenzüberschreitender RMB-Abwicklungs-CIPS-Fahrzeugexport
-- **Secondary Search Terms**: RMB Trade Settlement; CIPS Cross-Border Interbank Payment; Renminbi Export Receipt; Cross-Border RMB Tax Refund; RMB Invoicing Exporteur
-- **Suggested URL**: /guides/cross-border-rmb-settlement-cips/
-- **Search Intent**: 汽车出口企业能否用人民币结算收汇、如何办理跨境人民币结算、CIPS在其中起什么作用
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
-- **Bildvorschlag**: Ein Exporteur vergleicht RMB-Abwicklungsrouten auf dem Bildschirm mit einem Fahrzeugvertrag und einem CIPS-Diagramm
-- **ALT Suggestion**: Bildschirm mit grenzüberschreitenden RMB-Abwicklungsrouten neben einem Fahrzeugexportvertrag
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: RMB Siedlung & CIPS für chinesische Fahrzeugexporteure
+- **Meta-Beschreibung**: ob  and  Wie ein chinesischer Fahrzeugexporteur Rechnungen stellen kann  and  Zahlung in RMB erhalten,  how cross-border  RMB  settlement works, die Steuerrückerstattungsposition,  and  Was CIPS eigentlich macht.
+- **H1**: Chinesische Fahrzeugexporte in RMB: Grenzüberschreitend RMB Siedlung und die Rolle von CIPS
+- **Haupt-Keyword**: grenzüberschreitende RMB Siedlung CIPS Fahrzeugexport
+- **Sekundäre Suchbegriffe**: RMB Handelsabwicklung; CIPS grenzüberschreitende Interbankzahlung; Renminbi-Ausfuhrbeleg; grenzüberschreitende Steuererstattung RMB; RMB Rechnungsausführer
+- **Vorgeschlagene URL**: /guides/cross-border-rmb-settlement-cips/
+- **Suchabsicht**: Verstehen Sie die Abwicklung chinesischer Fahrzeugexporte in RMB: Cross-Border RMB Abwicklung und die Rolle von CIPS: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
+- **Bildvorschlag**: Ein Exporteur vergleicht RMB Abwicklungsrouten auf dem Bildschirm mit einem Fahrzeugvertrag und einem CIPS-Diagramm
+- **ALT-Text**: Bildschirm mit grenzüberschreitenden RMB Abwicklungsrouten neben einem Fahrzeug-Ausfuhrvertrag
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Die Rechnungsstellung eines Fahrzeugexports in Renminbi anstelle von US-Dollar beseitigt eine Wechselkursrisikoschicht für den chinesischen Verkäufer - aber nur wenn die Abrechnung rechtlich strukturiert ist, kann der Käufer RMB tatsächlich erhalten und bezahlen, und der Bankenkanal unterstützt es. Diese Seite erklärt die Politikgrundlage für die grenzüberschreitende RMB-Abwicklung, wie ein Fahrzeugexporteur RMB erhält, die Exportsteuer-Rückerstattungsposition und genau, was das Cross-Border Interbank Payment System (CIPS) tut und was nicht.
 

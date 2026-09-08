@@ -1,13 +1,18 @@
-# SAIC MAXUS Interstellar T90: China-Market Diesel pickup Export
-## SEO Metadata
-- ** عنوان المنظمة**: SAIC MAXUS T90 (Interstellar) أجهزة تسجيل أجهزة الديزل
-- ** وصف البيانات**: China-market reference for the SAIC MAXUS Interstellar T90 diesel pickup: body-on-frame chassis, standard/long beds, 2.0T twin-turbo diesel, drivetrain options, and the export-name huat.
-- ** H1 **: SAIC MAXUS Interstellar T90: China-Market Diesel pickup Export
-- ** كلمة رئيسية رمزية**: مطياف تصدير SAIC MAXUS T90 مطياف للشحن
-- ** شروط البحث الثانية**: MAXUS T90 diesel pickup; Interstellar T90 2.0T twin turbo; T90 8AT four wheel drive; (أ) أبعاد سرير ماكسوس؛ الصادرات الصينية من السلع
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- ** الحلقة الدراسية**: 面向海外B端买家介绍星际T90中国市场版本身份、货箱/四驱/底盘/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+# SAIC MAXUS Interstellar T90: الصين - مريخ ديزل الصادرات
+## بيانات SEO الوصفية
+- **عنوان SEO**: SAIC   MAXUS  T90 (Interstellar) Diesel Pickup Export Specs & Buyer Checks
+- **وصف Meta**: Chinese-market reference for the  SAIC   MAXUS  Interstellar T90 diesel pickup: داء الفص الجثوي على الحاسوب، والأسرة القياسية/الممتدة، و2.0T من الديزل التوأم، وخيارات السحب، واسم التصدير كهف.
+- **H1**: SAIC MAXUS Interstellar T90: China-Market DieselIP Export
+- **الكلمة المفتاحية الرئيسية**: SAIC   MAXUS  T90 pickup export specs
+- **مصطلحات بحث ثانوية**: MAXUS  T90 diesel pickup; Interstellar T90 2.0T twin turbo; T90 8AT four wheel drive; MAXUS من أبعاد سرير التقاط المركبات؛ الصادرات الصينية من السلع
+- **URL المقترح**: /vehicles/saic-maxus-t90/
+- **نية البحث**: تفهم SAIC MAXUS Interstellar T90: China-Market Diesel Compup Export Reference: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **اقتراح الصورة**: A SAIC MAXUS T90 مزدوجة الكبض من زاوية ثلاث أرباع أمامية على أرض قاسية
+- **نص ALT**: جبهة ثلاثة أرباع سيارة إس آي ماكسوس T90 من المركب المزدوج على سطح غير مثبت
+- **نطاق المخطط**: المادة + المركبات
+
+** مقترحات داخلية بشأن الروابط**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - ** اقتراح مقدم**: A SAIC MAXUS T90 مزدوجة الأجرة من مركب ديزل من ثلاث أرباع أمامي على أرض تقريبية
 - ** اقتراح**: أمام ثلاثة أرباع مجموعة من أجهزة الاتصال اللاسلكية SAIC MAXUS T90 من المركب المزدوج على سطح غير مثبت
 - **Schema Scope**: Article + Vehicle
@@ -30,7 +35,7 @@ The Interstellar T90 (Xingji T90,سابقاً T90 MAXUS في الصين,سيار
 - ** خيارات التدريب**: دفعة مزدوجة، وقرص دفع رباعي غير متفرغ، وقرص أذكى في الدفع الرباعي - يحدد ما إذا كان محتوى النقل والمحتوى المتباين مختلفا.
 - ** تطويق**: يظهر في وسائط الإعلام وفي المواد العالمية " ماكسوس " عدد أقصى قدره 3.5 t شخص، ولكن قيمة السوق الصينية هي مصدر واحد، والرقم العالمي هو نموذج سوق التصدير - يؤكد عدد بناء السوق الفعلي بدلا من معاملتها كمنصب.
 
-## Domestic T90 versus export MAXUS T90 — identity caveat
+T90 المحلية مقابل التصدير T90 - هويات كهف
 
 لقد تغير الاسم الصيني من T90 إلى سلسلة "إنترتيلر" بينما يبيع (ماسوس) سوق التصدير T90 (و المتغيرات ذات الاسم الإقليمي مثل (تورنادو وتورد صفحة ماكسوس العالمية ناتجها الخاص بالديزل و3.5-tonne مواصفات مصممة على أساس 1-tonne-payload للبناء**. وفي إطار ضوابط تحديد الهوية النموذجية، لا يثبت نفس اللقب نقطة واحدة حسب نقطة النموذج: فالحمولة والتنقيب والتدفئة والتوجية الصينية تُبقي منفصلة عن السوق إلى أن تُعادل وثيقة من وثائق منظمة أوم.**
 
@@ -39,7 +44,7 @@ The Interstellar T90 (Xingji T90,سابقاً T90 MAXUS في الصين,سيار
 1. اختيار المعيار أو السرير الطويل والحصول على أبعاد OEM/CoC والتحميل المصنف (يحتاج الحمولة/الGVW إلى ورقة الحرق، وليس كتيب).
 2. Select 2WD part-time 4WD on-demand 4WD  and  تأكيد حالة النقل معدات  and  أي أقفال مختلفة للتضاريس
 3. تأكيد مرحلة انبعاثات الديزل من قواعد المقصد ونوعية الوقود (مسائل التسامح الكبريت في بعض الأسواق).
-4. Resolveteering: Chinese market is LHD; RHD export builds (where they exist) are documented separately.
+4 :: إيجاد الحلول: (أ) السوق الصينية هي وزارة الصحة؛ وتُوثق عمليات بناء الصادرات من البيوتادايين السداسي الكلور (حيثما توجد) بصورة منفصلة.
 5. )أ(أن تفصل بين تصنيف EV T90 كليا - تصنيف البطاريات والسيارات والشحن يختلف، ولا يشمل هذه الصفحة.
 6. Match VIN and bed/drivetrain code across contract, CoC and shipping docs.
 
@@ -80,7 +85,7 @@ A SAIC π 2.0T twin-turbo diesel at 160 kW/500 N·m with a ZF 8AT (cross-checked
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | محرك - ديزل - التحقق من المسخ متغير الصين |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA（本篇锁柴油，不含EV；国内星际T90与出口MAXUS T90仅RELATED不证同一）
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

@@ -1,15 +1,17 @@
 # BYD Qin L DM-i (秦 L DM-i): PHEV-Limousine der fünften Generation — China Specs für Exporteure
 
-## SEO Metadaten
-- **SEO Titel**: BYD Qin L DM-i PHEV Specs & Export Guide (5th-Gen DM, CLTC)
-- **Meta Description**: Chinesischer Markt BYD Qin L DM-i Plug-in-Hybrid der fünften Generation — 1.5L spezieller Motor,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  Exportkontrollen.
-- **Vorgeschlagene URL**: /Fahrzeuge/byd-qin-l-dm-i/
-- ** H1 **: BYD Qin L DM-i (Fünfte Generation DM): chinesischer Markt PHEV Specs und Export Notes
-- **Hauptschlüsselwort**: byd qin l dm-i specs export
-- **Secondary Search Terms**: Qin L DM-i 120km DM der fünften Generation, BYD Blattbatterie PHEV, Qin L CLTC-Bereich, 秦 L DM-i Export
-- **Interne Linkvorschläge**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission fuel-compatibility-china-vehicles/; /guides/export-vehicle-document-package/
-- **Bildvorschläge**: Seitenprofil Qin L DM-i; Ladeanschluss; Blade-Batterie-Unterbodendiagramm; 120km Abzeichen; Heckkabine
-- **ALT-Vorschläge**: "BYD Qin L DM-i PHEV-Limousine der fünften Generation"; "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
+## SEO-Metadaten
+- **SEO-Titel**: BYD Qin L DM -i PHEV Specs & Export Guide (5th-Gen DM, CLTC)
+- **Meta-Beschreibung**: Chinesischer Markt BYD Qin L DM -i Plug-in-Hybrid der fünften Generation — 1.5L dedizierter Motor,   LFP  Blade battery 10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  Exportkontrollen.
+- **H1**: BYD Qin L DM -i (Fünfte Generation DM): Chinesisch-Markt PHEV Specs und Export Notes
+- **Haupt-Keyword**: byd qin l dm-i specs export
+- **Sekundäre Suchbegriffe**: Qin L  DM -i 120km, fünfte Generation DM; BYD Klingenbatterie PHEV, Baureihe Qin L CLTC 秦 L DM -i Export
+- **Vorgeschlagene URL**: /vehicles/byd-qin-l-dm-i/
+- **Suchabsicht**: BYD Qin L DM -i (Fünfte Generation DM) verstehen: Chinesischer Markt PHEV Spezifikationen und Exporthinweise: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Bildvorschlag**: Seitenprofil Qin L DM-i
+- **ALT-Text**: BYD Qin L DM -i fünfte Generation PHEV Limousine
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Lesen Es als PHEV, kein EV und kein konventioneller Hybrid
 Der Qin L DM-i ist eine mittelgroße Plug-in-Hybridlimousine, die auf der **fünften Generation der DM**-Architektur von BYD basiert. Exporteure behandeln dieses Auto am häufigsten auf eine Weise falsch: Sie behandeln die beiden Batterieversionen als austauschbar. Sie sind nicht - die 80 km und 120 km Elektroautos tragen unterschiedliche Batteriekapazitäten und unterschiedliche Anwendungsfälle. Diese Seite dokumentiert die **Chinesische Marktlinie (REFERENCE MARKET: CHINA)**; keine BYD-Spezifikationsseite in Übersee wurde erfasst, daher sollte hier nichts als globale oder Zielspezifikation dargestellt werden.

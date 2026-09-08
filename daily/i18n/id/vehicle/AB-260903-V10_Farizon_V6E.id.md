@@ -1,14 +1,16 @@
 # Farizon Xingxiang V6E Kunci Tahun Battery-, 6 m Load Bay dan Documented Türkiye Export
-## SEO Metadata
-- ** SEO Judul **: Farizon V6E Cargo listrik Van Specs & Ekspor Catatan Pembeli
-- ** Meta Deskripsi **: Cinese- pasar Farizon (Geely) Xingxiang V6E kargo listrik van - 60 kW 220 N·m motor, volume kargo 6 m, 35.2 kWh 260 km dasar vs baru 51 kWh membangun, batas 90 km/h, dan rekaman EU-spec Türkiye pengiriman.
-- ** Sugesti URL **: kendaraan farizon -xingxiang- v6e-specs/
-- ** H1 **: Farizon Xingxiang V6E (Cinese- Market): Cargo Electric Van Specs dan Verifikasi Ekspor
-- ** Primary Keyword **: farizon v6e electric cargo van specics
-- Xingxiang V6E, Farizon pengiriman van listrik 6m3, V6E 35.2 kWh, Farizon Ekpor Türkiye, Kota Elektrik logistik van
-- ** Internal Link Sugestions **: wiraceers saic- maxus-v90-specs/; circle byd-dolphs guide ev- shippping- un3171-imdg-compliance/
-- *** Sugestions Gambar **: teluk kargo dengan dimensi; pintu memuat sisi; motor baterai; poros belakang leaf- musim semi; batch ekspor EU- spec
-- ** ALT Saran **: "Farizon V6E enam meter kubik kargo listrik van"; "V6E kelas baterai dan jangkauan"
+## Metadata SEO
+- **Judul SEO**: Farizon V6E Cargo listrik Van Specs & Ekspor Catatan Pembeli
+- **Deskripsi Meta**: Chinese- pasar Farizon (Geely) Xingxiang V6E muatan listrik van - 60 kW / 220 N·m motor, 6 m kargo volume, 35.2 kWh / 260 km dasar vs lebih baru 51 kWh membangun, batas 90 km/h, dan dicatat EU -spec Türkiye pengiriman.
+- **H1**: Farizon Xingxiang V6E (Cinese- Market): Electric Cargo Van Specs dan Ekspor Verifikasi
+- **Kata kunci utama**: ferizon v6e electric cargo van spesifikasi
+- **Istilah pencarian sekunder**: Xingxiang V6E, Farizon pengiriman listrik van, 6m3 listrik van, V6E 35.2 kWh, Farizon Ekpor Türkiye, Kota Elektrik logistik van
+- **URL yang disarankan**: /vehicles/farizon-xingxiang-v6e-specs/
+- **Maksud pencarian**: Memahami Farizon Xingxiang V6E (Cinese- Market): Electric Cargo Van Specs dan Expor Verifikasi: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Saran gambar**: teluk kargo dengan dimensi
+- **Teks ALT**: Farizon V6E enam meter kubik kargo listrik van
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Penjual Konteks: Kunci Tahun Baterai Sebelum Apapun Lainnya
 Xingxiang V6E adalah milik Farizon (merek kendaraan elektronik Geely) ** van pengiriman listrik perkotaan *. Risiko spesifikasi terbesar tunggal adalah tahun model: build dasar menggunakan ** 35.2 kWh ** pack sementara ** membangun baru menggunakan sekitar 51 kWh **, dan jangkauan perubahan sesuai. Sebuah pesanan pembelian yang mengatakan hanya "V6E" dapat diisi dengan baik. Halaman ini mencakup ** Cinese- pasar V6E (REFERENCE MARKET: CHINA) ** dan menjaga basis dan membangun lebih baru terpisah.
@@ -52,30 +54,30 @@ Tidak ada harga ekspor statis dan tidak ada MSRP Cina yang ditangkap; tidak ada 
 Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW 220 N·m.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |

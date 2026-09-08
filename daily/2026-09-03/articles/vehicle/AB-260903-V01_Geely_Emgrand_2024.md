@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide
 - **Meta Description**: Chinese-market 4th-generation Geely Emgrand 2024 — 1.5L 93 kW engine, 5MT/CVT, dimensions, the 4th-gen vs all-new 5th-gen distinction, and what importers must verify before ordering.
-- **Suggested URL**: /vehicles/geely-emgrand/
 - **H1**: Geely Emgrand 2024 (4th Generation): Chinese-Market Specs and Export Checks
 - **Primary Keyword**: geely emgrand 2024 specs export
 - **Secondary Search Terms**: Geely Emgrand 1.5L CVT, 4th generation Emgrand dimensions, Chinese entry sedan export, Geely Emgrand 93kW, Emgrand model year difference
+- **Suggested URL**: /vehicles/geely-emgrand/
+- **Search Intent**: Understand Geely Emgrand 2024 (4th Generation): Chinese-Market Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
-- **Image Suggestions**: front three-quarter of 4th-gen Emgrand; 5MT vs CVT drivetrain note; rear-seat and boot space; engine bay 1.5L badge
-- **ALT Suggestions**: "Geely Emgrand fourth generation 1.5L sedan"; "Emgrand 2024 dimensions and wheelbase"
+- **Image Suggestion**: front three-quarter of 4th-gen Emgrand; 5MT vs CVT drivetrain note; rear-seat and boot space; engine bay 1.5L badge
+- **ALT Suggestion**: Geely Emgrand fourth generation 1.5L sedan
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Pin the Generation Before You Pin the Price
 The Emgrand is Geely's high-volume compact saloon and a natural candidate for price-sensitive entry-car markets. The trap for an importer is generational: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: CHINA)**, while an **all-new 5th generation launched in China in November 2025** with a longer body, longer wheelbase and a lower starting price. Quoting a 2024 unit against 5th-gen dimensions — or vice versa — is the single most common order error on this nameplate. Treat every figure below as a **Chinese-market reference specification**; destination-market engine tune, emission stage and equipment are governed by the local homologation, not by this sheet.

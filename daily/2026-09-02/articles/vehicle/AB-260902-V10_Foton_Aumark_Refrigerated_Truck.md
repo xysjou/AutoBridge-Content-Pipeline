@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide
 - **Meta Description**: Foton Aumark (Ollin) reefer: 150 PS Jieyun chassis, 4.085 m insulated body, GVW 4.495 t, Thermo King/domestic unit options, and how to specify a refrigerated truck for export.
-- **Suggested URL**: /vehicles/foton-aumark-refrigerated-truck/
 - **H1**: Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit
 - **Primary Keyword**: Foton Aumark refrigerated truck specifications export
 - **Secondary Search Terms**: Ollin reefer truck China, Foton Cummins 2.8 refrigerated, Thermo King T880 Pro truck, 4.5t reefer truck export, Chinese cold chain truck
+- **Suggested URL**: /vehicles/foton-aumark-refrigerated-truck/
+- **Search Intent**: Understand Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
-- **Image Suggestions**: side view reefer body; refrigeration unit on cab roof; insulated box interior with meat hooks; chassis plate; temperature controller
-- **ALT Suggestions**: "Foton Aumark 4x4 refrigerated truck with insulated box, China spec"; "Truck-mounted Thermo King refrigeration unit"; "Reefer box interior and meat-rail"
+- **Image Suggestion**: side view reefer body; refrigeration unit on cab roof; insulated box interior with meat hooks; chassis plate; temperature controller
+- **ALT Suggestion**: Foton Aumark 4x4 refrigerated truck with insulated box, China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## How to Spec a Refrigerated Truck
 

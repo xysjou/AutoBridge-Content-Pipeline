@@ -1,16 +1,16 @@
 # Rewe iMAX8: Một chiếc máy MPV Trung Quốc bảy-Sat Bộ mua tham khảo cho Xuất
-## SAO Siêu dữ liệu
-- **SEO Titry**: Roewe iMAX8 MPV Xuất tinh: biển, biển, 2.0T Hướng dẫn mua
-- **Meta Mô tả**: Chinese-market reference for the Roewe iMAX8 7-seat MPV: 2+2+3 chỗ ngồi và không gian, chiều không gian, 2.0T ước lượng dựa trên mô hình được giữ riêng, và xuất các bước xác thực.
-- ** H1 **: Roewe iMAX8: A China-Market Seven-Seat MPV Buyer Reference for Export
-- **Cumpary Keyword**: Roewe iMAX8 eractage
-- **Secondary Search termss**: Roewe iMAX8 MPV; iMAX8 7 sit 2+2+3; iMAX8 Kích thước bánh xe cơ sở; Xuất MPV SIC; iMAX8 2.0T Aisin 8AT
-- **Suggested URL**: /vehicles/roewe-imax8/
-- **Tìm kiếm ý định**: 面向海外B端买家介绍iMAX8中国市场版本身份、座椅空间/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image suws**: A Roewe iMAX8  MPV xem tô sáng cơ sở bánh xe dài và trượt cửa sau
-- **LT Đề nghị**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  bánh xe dài
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Roewe iMAX8 MPV Xuất dạng: biển, biển thủ, 2.0T Hướng dẫn mua
+- **Meta mô tả**: Chinese-market reference for the Roewe iMAX8 7-seat  MPV : 2+2+3 chỗ ngồi và không gian, chiều không gian, 2.0T ước lượng dựa trên mô hình được giữ riêng, và xuất các bước xác thực.
+- **H1**: Roewe iMAX8: A China-Market Seven-Seat  MPV  Buyer Reference for Export
+- **Từ khóa chính**: Roewe iMAX8 export specs
+- **Cụm tìm kiếm phụ**: Roewe iMAX8 MPV; iMAX8 7 ghế 2+2+3; iMAX8 chiều bánh xe; SAIC MPV xuất khẩu; iMAX8 2.0T Aisin 8AT
+- **URL đề xuất**: /vehicles/roewe-imax8/
+- **Ý định tìm kiếm**: Hãy hiểu Roewe iMAX8: A China-Market Seven-Seat  MPV  Buyer Reference for Export: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Gợi ý hình ảnh**: Một góc nhìn phía Roewe iMAX8
+- **Văn bản ALT**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  bánh xe dài
+- **Phạm vi schema**: Điều và Xe hơi
 
 The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door,  seven-seat (2+2+3) front-wheel-drive MPV aimed at family  and  Dùng tàu ngầm điều hành. Để xuất khẩu, một MPV được mua cho chỗ ngồi và không gian đầu tiên và mã lực của nó thứ hai, vì vậy trang này dẫn tới kiến trúc cabin. Nó bao gồm iMAX8 người; Bất kỳ loại lai hay điện iMAX8 nào cũng là một sản phẩm khác và được cố tình không trộn lẫn vào.
 

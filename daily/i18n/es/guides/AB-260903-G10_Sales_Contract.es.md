@@ -1,14 +1,16 @@
 # Contratos de ventas de vehículos exportados: las cláusulas que controlan realmente el pago, la entrega y los litigios
-## SEO Metadatos
-- **SEO Título**: Guía de riesgo de las cláusulas de contrato de venta de vehículos
-- **Meta Descripción**: Lo que debe contener un contrato de venta de vehículos de exportación — PRC Código Civil Art 596 esencial, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
-- ** URL agregada**: /guides/vehicle-export-sales-contract-clauses/
-- ** H1 **: Cláusulas clave en un contrato de venta de vehículos: Pago, Título, Riesgo y Controversias
-- **Primary Keyword**: contrato de venta de vehículos cláusulas clave de riesgo
-- ** Términos de búsqueda de segundo orden**: retención de contrato de exportación de títulos, vehículo de transferencia de riesgos de los incoterms, multa de incumplimiento de contrato de exportación, comercio de vehículos de arbitraje de la CPI, documentos de Apostille en el extranjero, declaración de la condición de vehículo
-- **Sugerencias internas**: /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Sugerencias de imagen**: mapa de cláusula a riesgo; cronograma de transferencia de riesgo/tituloto; gráfico de hito de pago-vs-entrega
-- **Sugerencias de ALT**: "Cláusulas clave de riesgo de exportación y transferencia de títulos"; "Cláusulas clave de contrato de ventas de vehículos"
+## Metadatos SEO
+- **Título SEO**: Cláusulas de contrato de venta de vehículos " Guía de riesgo
+- **Meta descripción**: Lo que debe contener un contrato de venta de vehículos de exportación — PRC Código Civil Art 596 esenciales, transferencia de riesgos Incoterms, retención de título, ventanas de incumplimiento/reclamación, resolución de disputas y Apostille, más declaración de condiciones de vehículo.
+- **H1**: Cláusulas clave en un contrato de venta de vehículos: Pago, Título, Riesgo y Controversias
+- **Palabra clave principal**: contrato de venta de vehículos cláusulas clave de riesgo
+- **Términos de búsqueda secundarios**: retención de título contrato de exportación, vehículo de transferencia de riesgos Incoterms, multa por incumplimiento de contratos de exportación, comercio de vehículos de arbitraje de ICC, documentos de Apostille en el extranjero, declaración de la condición de vehículo
+- **URL sugerida**: /guides/vehicle-export-sales-contract-clauses/
+- **Intención de búsqueda**: Comprender las Cláusulas Clave en un Contrato de Ventas de Exportación de Vehículos: Pago, Título, Riesgo y Controversias: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **Sugerencia de imagen**: c) Cláusula a mapa de riesgo
+- **Texto ALT**: plazo de transferencia de los contratos de exportación y de los títulos
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## ¿Quién es?
 Un exportador de vehículos de primera vez a menudo firma un acuerdo sobre precio y cantidad solo, luego descubre el contrato nunca fijo **cuando el riesgo pasa, que tiene título antes del pago completo, o donde se escucha una disputa**. Esta guía mapea las cláusulas que controlan esos resultados. Código Civil de la República Popular Democrática de Corea El artículo 596 se describe aquí a través de ** portales legales secundarios (FindLaw, etc.), que capten en CROSS_ CHECKED/SINGLE_SOURCE**; VERIFIED requeriría el texto oficial del Código Civil de una fuente NPC/gobierno. El resto es una síntesis de práctica legal. **Una plantilla no es un asesoramiento jurídico: tener un abogado calificado revisa el contrato ejecutado en virtud de su ley rector elegida. ################################################################################################################################################################################################################################################################
@@ -56,18 +58,18 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
 **¿Necesitan legalización los documentos extranjeros?** A menudo se requiere una Apostille (Hague) o legalización consular; responsabilidad del Estado en el contrato y verificar el estado del destino.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf

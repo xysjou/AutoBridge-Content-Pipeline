@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: China Certificate of Origin for Vehicle Exports — CO Types & Issuers
 - **Meta Description**: The three Chinese certificate-of-origin types, which to apply for, whether to use Customs or CCPIT, when an FTA preferential CO applies, and what an exporter must not promise about destination duty.
-- **Suggested URL**: /guides/china-export-certificate-of-origin
 - **H1**: Choosing the Right Certificate of Origin for a Chinese Vehicle Export
 - **Primary Keyword**: china export certificate of origin ccpit customs
 - **Secondary Search Terms**: non-preferential CO, GSP certificate of origin, FTA preferential CO, GACC order 270, CCPIT certificate origin, vehicle export documents
+- **Suggested URL**: /guides/china-export-certificate-of-origin
+- **Search Intent**: Understand Choosing the Right Certificate of Origin for a Chinese Vehicle Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
-- **Image Suggestions**: three CO types comparison; Customs vs CCPIT issuer diagram; FTA preference flow
-- **ALT Suggestions**: "China certificate of origin three types Customs CCPIT"
+- **Image Suggestion**: three CO types comparison; Customs vs CCPIT issuer diagram; FTA preference flow
+- **ALT Suggestion**: China certificate of origin three types Customs CCPIT
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Decision Hidden in a Routine Document
 Importers routinely ask for "the CO" as if it were one paper. It is not. China issues **three families** of certificate of origin, and choosing the wrong one means the buyer either cannot clear preference or receives a document its authority does not expect. The current governing rule is **GACC Order No.270, *Administrative Measures for Certificates of Origin for Export Goods*, published 2024-07-30 and in force from 2024-09-01**. This page covers the **China issuing side**; whether a specific destination grants a preference is that country's decision.

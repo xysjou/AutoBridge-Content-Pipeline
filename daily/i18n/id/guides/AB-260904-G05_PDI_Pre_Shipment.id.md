@@ -1,15 +1,17 @@
 # Pre- Pengiriman PDI dan Handover untuk Ekspor Kendaraan: Aturan Carrier vs AutoBridge 's Rekomendated Checklist
 
-## SEO Metadata
-- ** Judul SEO **: Export kendaraan PDI & Pre- Shillets Panduan Handover-Nama Aturan Carrier
-- ** Meta Description **: Pisahkan kebijakan pembawa RoRo (Wallenius Wilhelmsen, Höegh Autoliners) - bahan bakar, baterai, SOC dan operasional - dari AutoBridge direkomendasikan sebelum pengiriman daftar pemeriksaan; tidak ada nilai tetap universal.
-- ** Sugested URL **: guide kendaraan-export -p- pre- pengiriman -handover
--   H1 **: Menyiapkan kendaraan untuk RoRo atau Cita Ekspor Wadah: Apa Nama Pengantar Mobil Perlu dan Apa Kami Sarankan
-- ** Primary Keyword **: export kendaraan sebelum pengiriman inspeksi PDI handover RoRo
-- Wallenius Wilhelmsen tangki bahan bakar, Hoegh BEV SOC 50 persen, RoRo kendaraan yang dapat dioperasi, memutus 12V baterai digunakan mobil, pra-pengiriman rekaman foto
-- ** Internal Link Sugestions **: guide kendaraan-ekspor -of -lading- tipe-tipe guide ev- shippping-un3556-imdg-compliance/; guide emises -fuel--compatibilize -chinocates kendaraan
-- *** Saran Gambar **: Lembar daftar PDI; RoRo diri-drive ramp; name- operator vs editorial - rekomendasi diagram split
-- ** AlT Sugestions **: "Nama RoRo pembawa kebutuhan dibandingkan pre- pengiriman checklist"
+## Metadata SEO
+- **Judul SEO**: Expor PDI & Pre- Shitment Panduan Handover-Nama Aturan Carrier
+- **Deskripsi Meta**: Pisahkan kebijakan pembawa RoRo (Wallenius Wilhelmsen, Höegh Autoliners) - bahan bakar, baterai, SOC dan operasional - dari AutoBridge direkomendasikan sebelum pengiriman checklist; tidak ada nilai tetap universal.
+- **H1**: Mempersiapkan Kendaraan untuk Ekspor RoRo atau Kontainer: Apa yang Dinamai Karriers Perlu dan Apa Kami Sarankan
+- **Kata kunci utama**: ekspor kendaraan sebelum pengiriman pemeriksaan PDI tangan RoRo
+- **Istilah pencarian sekunder**: Wallenius Wilhelmsen tangki bahan bakar, Hoegh BEV SOC 50 persen, RoRo kendaraan yang dapat dioperasi, memutus 12V baterai digunakan mobil, pra-pengiriman rekaman foto
+- **URL yang disarankan**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **Maksud pencarian**: Memahami Siapkan Kendaraan untuk Ekspor RoRo atau Kontainer: Apa yang diperlukan Pembalap Nama dan Apa Kami Rekomendasikan: apa yang kendaraan / suku ekspor harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Saran gambar**: PDI lembar checklist
+- **Teks ALT**: Nama persyaratan pembawa RoRo versus direkomendasikan daftar pemeriksaan sebelum pengiriman
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Dua Lapisan Yang Tidak Harus Digabung
 Gangguan pada tujuan hampir selalu melacak kembali ke satu pertanyaan: apa kondisi kendaraan, kondisi bahan bakar baterai dan kemampuan operasi ** di handover **? Untuk menjawabnya dengan bersih, panduan ini terus dua lapisan terpisah:

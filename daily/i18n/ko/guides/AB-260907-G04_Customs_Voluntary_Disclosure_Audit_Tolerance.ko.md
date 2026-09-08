@@ -1,16 +1,16 @@
 # 사용자 정의 배운 공개 중국: 자기 부상 오류 Into the Tolerance Outcome
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 수출업자를위한 자발적 인 공감 및 감사 허용 | AutoBridge
-- **마타 기술 **: 중국 관세 배란은 어떻게 작동합니까?  the current policy window to 30 June 2027, 관리 처벌은 수증되거나 감소 될 수 있습니다.  and  수출업자가 문서에 있어야 합니다.
-- ** H1 **: 중국의 관할권: 자기 부상 오류를 공차 결과
-- ** 출원 키워드 **: 중국 관세 배운 공시 감사 공차
-- **세컨드리뷰 약관**: 관세 배분 공개 중국; 主动披露; 관리 형벌 관세 없음; 관세 감사 규정 기사 27; 늦은 지불 대금 감소
-- **Suggested URL**: /guides/customs-voluntary-disclosure-audit-tolerance/
-- ** 수색 **: 海关主动披露是什么、 符合条件为何可不予 / 减轻行政处罚、 现行政策窗口与办理要点
-- ** 내부 링크 제안**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
-- ** 이미지 제안**: 관세 감사 파일이 열린 서면 배운 보고서를 준비하는 금융 책임자
-- **ALT 제안**: 개방된 세관 감사 폴더 옆에 배운 공개적 공개 편지를 준비하는 손
-- **Schema Scope**: 기사 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 중국 수출입자에 대한 관세 및 감사의 공차 | AutoBridge
+- **메타 설명**: 중국 관세 배란은 어떻게 작동합니까?  the current policy window to 30 June 2027, 관리 처벌은 수증되거나 감소 될 수 있습니다.  and  수출업자가 문서에 있어야 합니다.
+- **H1**: 사용자 정의 배운 공개 중국: 자기 부상 오류 Into the Tolerance Outcome
+- **주요 키워드**: 중국 관세 배차 공개 감사 포용력
+- **보조 검색어**: 관할권 중국; 主动披露; 관리 형 세관 없음; 세관 감사 규칙 기사 27; 늦은 지불 surcharge 감소
+- **추천 URL**: /guides/customs-voluntary-disclosure-audit-tolerance/
+- **검색 의도**: 중국에서의 사용자 정의 배운 공개: 자동 경계 오류 Into 허용 오차 결과: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정해야합니다.
+- **내부 링크 제안**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
+- **이미지 제안**: 관세 감사 파일이 열린 서면 배운 보고서를 준비하는 금융 책임자
+- **ALT 텍스트**: 개방적인 세관 감사 폴더 옆에 자발적 인 공개 편지를 준비하는 손
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 중국 관세 법칙에 따라 관세청이 감사와 오류가 발견되고 그 자체를 보고하는 것이 의미있는 차이가 있습니다. 자발적 인 공개 (主动披露) 메커니즘은 그 차이를 기반으로합니다. 그 자체 내부 체크인을 통해 관세 요구 사항을 발견하거나 위반 한 기업은 서면 보고서를 제출하고 취급을 수락 할 수 있으며, - 법령 조건이 충족되는 곳 - 세관에 의해 감지 된 경우보다 더 관용적 치료를받을 수 있습니다. 이 가이드는 법적 근거를 놓고, 현재 시간 제한적인 포용력 창, 기계장치가 실제로 실행하는 방법, 그리고 주어진 케이스가 할당할지 결정하는 한계를 놓습니다.
 
@@ -46,7 +46,7 @@ Three boundaries matter. 우선, 배운 공개는 규칙에 따라 자격이되�
 | 발견 증거 | 문제의 기록은 같은 문제에 관세 행동의 앞에 내부 검토에 의해 발견되었다. |
 | 자주 묻는 질문 | 기간, 선적, HS 부호/값은, 뿌리 원인 및 자격이 된 의무/세금 충격을 포함했습니다. |
 | 좋은 읽음 | 펀드 및 항목은 의무 및 세금을 지불 할 준비가되어 있습니다. 정착 능력없이 공개하지 마십시오. |
-| 창 체크 | Confirm submission falls within the current 11 Oct 2025 – 30 Jun 2027 window of the operative announcement. |
+| 창구 체크 | 접수는 현재 11 Oct 2025 - 30 Jun 2027 창의 운영 공지입니다. 의논문
 | 상태 매핑 | 일반적으로 asserting leniency 보다는 오히려 비 penalty/reduced 처리를 위한 각 statutory 상태에 사실 지도하십시오. |
 | 공정 보정 | 아래 프로세스를 수정하기 때문에 같은 오류가 나중에 선언을 재발하지 않습니다. |
 

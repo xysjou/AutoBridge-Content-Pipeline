@@ -1,21 +1,23 @@
 # Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
 
-## SEO Metadata
-- ** عنوان المنظمة**: غيلي زانغيوان (غالاكسي زانغيوان) دليل التصدير الصيني - المريخ
-- ** وصف البيانات**: شركة جيلي الصغيرة (جي أي) RWD،  58/85 kW motors,  310/410 km CLTC, 40.16 kWh خط  and  -مشتري التصدير
-- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
-- ** كلمة رئيسية رمزية**: 吉利 Xingyuan 吉利星愿 (Galaxy 星愿)
-- **Secondary search Terms**: Geely Xingyuan export; Galaxy Xingyuan specs; Geely Starwish; Chinese small electric hatchback; CLTC city EV
-- ** URL المقتطع**: /مركبات/جيغالين/غين/
-- ** الحلقة الدراسية**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Geely Xingyuan (Galaxy Xingyuan) BEV: Chinese-Market Specs " Export Guide
+- **وصف Meta**: Chinese-market Geely Xingyuan/Starwish small  EV : GEA هيكل RWD  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh خط  and  -مشتري التصدير
+- **H1**: Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market  BEV  Specs  and  التحقق من الصادرات
+- **الكلمة المفتاحية الرئيسية**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) specs export
+- **مصطلحات بحث ثانوية**: Geely Xingyuan export; Galaxy Xingyuan specs; Geely Starwish; Chinese small electric hatchback; CLTC city EV
+- **URL المقترح**: /vehicles/geely-xingyuan/
+- **نية البحث**: Understand Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market  BEV  Specs  and  التحقق من الصادرات: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinese-Market BEV Specs and Export Verific, no staged inspection or people claimed.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  (إكسبو) خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء والهوية النموذجية
 "الـ "إكسينجي إكينغيون  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, مع سيارة عجلات متحركة**. وهذه الصفحة هي المرجع** - السوق الصينية**؛ ولا يُعامل اسم نموذجي في الخارج على أنه متطابق دون بيان صادر عن منظمة أوم.
 
 ## كهرباء وخطوط النطاق
-- ** Body**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5 门 5 座; 后置后驱).
+- الهيئة**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5 门 5 座; 后 后.
 - ** المحركات**: 58 85 kW options.
 - ** باتيري**: 磷酸铁锂؛ خط القدرة المأخوذ به هو 40.16 kWh للسيارة البعيدة المدى. ولا يظهر مورد خلايا محدد إلا في حسابات وهو ** ليس مؤكّداً من منظمة أوم إي إم**، ولذلك فهو معلق.
 - ** رانج**: 310 410 km CLTC (cross-checked) — a Chinese test cycle, ليس دبليو إل بي.
@@ -53,35 +55,34 @@
 ** هل هو 410 km دبليو إل بي أي**؟ لا - لجنة مكافحة الإرهاب.
 ** كيف تشحن؟** كبطارية لبطارية الليثيوم - الأيون غير الصحيحة تحت فئة IMDG الحالية (UN3556)؛ تأكد مع الناقل.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | صرخات | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | صرخات | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | صرخات | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| | 吉 | | CN | | | CN CN CN T2 第ات | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 尺寸, 尺寸, 电国电电电电电电电 航电电电电续第,号建议, |,,,,,,,,,,,,,,,,。
+| 吉 吉 吉 吉 | | | CN | T2 | | صرخ صرخ صرخ صرخ صرخ http://db.auto.sohu.com/model_7477/config ,, 轴距, 轴距, |, |.
+| | | |报报报 |新 | | CN |3 | | | | صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ http://news.q.com/rain/a/20260329A04ZLQ00 | 航 架к ,, |.
 | الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المواصفات المرجعية للسوق الصينية؛ وليس مواصفات عالمية)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** بالضبط غيلي شينغيان
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- ** (جيلي زانغيان)
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
@@ -95,6 +96,5 @@
   - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV

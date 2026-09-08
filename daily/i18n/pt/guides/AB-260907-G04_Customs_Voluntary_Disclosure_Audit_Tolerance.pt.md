@@ -1,16 +1,16 @@
 # Divulgação voluntária aduaneira na China: Transformando um erro auto-encontrado em um resultado de tolerância
-## SEO Meta- dados
-- ** Título SEO**: China Divulgação voluntária e tolerância de auditoria para exportadores. AutoBridge
-- ** Descrição do Meta**: Como funciona a divulgação voluntária aduaneira da China, a atual janela política para 30 junho 2027, quando as sanções administrativas podem ser dispensadas ou reduzidas, e o que um exportador deve documentar.
-- ** H1 **: Divulgação voluntária aduaneira na China: Transformando um erro auto-encontrado em um resultado de tolerância
-- **Primary Keyword**: China alfândegas tolerância de auditoria voluntária de divulgação
-- ** Termos de pesquisa secundários**: divulgação voluntária aduaneira China; 主动披露; nenhuma sanção administrativa aduaneira; regulamento de auditoria aduaneira artigo 27; redução da sobretaxa de pagamento tardio
-- ** URL sugerido**: /guides/customs-voluntário-divulgação-auditoria-tolerância/
-- **Intenção de pesquisa**: 海关主动披露是什么, 符合条件为何可不予 / 减轻行政处罚, 现行政策窗口与办理要点
-- **As sugestões de ligação interna**: /guides/ipr-customs-registration-export-protection/, /guides/export-return-goods-duty-export-export-freement-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
-- ** Sugestão de Imagem**: Um agente financeiro que prepara um relatório de divulgação voluntária escrito com um ficheiro de auditoria aduaneira aberto
-- **ALT Sugestão**: Mãos preparando uma carta de divulgação voluntária ao lado de uma pasta de auditoria aduaneira aberta
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Alfândega Divulgação voluntária e tolerância de auditoria para exportadores.
+- **Meta descrição**: Como funciona a divulgação voluntária aduaneira da China, a atual janela política para 30 junho 2027, quando as sanções administrativas podem ser dispensadas ou reduzidas, e o que um exportador deve documentar.
+- **H1**: Divulgação voluntária aduaneira na China: Transformando um erro auto-encontrado em um resultado de tolerância
+- **Palavra-chave principal**: China alfândegas tolerância voluntária de auditoria de divulgação
+- **Termos de busca secundários**: divulgação voluntária aduaneira China; 主动披露; sem sanções administrativas; regulamentação aduaneira de auditoria artigo 27; redução da sobretaxa de pagamento em atraso
+- **URL sugerida**: /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Intenção de busca**: Compreenda a Divulgação Voluntária da Alfândega na China: Transformando um Erro Auto-Encontrado em um Resultado de Tolerância: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
+- **Sugestão de imagem**: Um agente financeiro que prepara um relatório de divulgação voluntária escrito com um ficheiro de auditoria aduaneira aberto
+- **Texto ALT**: Mãos que preparam uma carta de divulgação voluntária ao lado de uma pasta de auditoria aduaneira aberta
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Existe uma diferença significativa, na aplicação da legislação aduaneira chinesa, entre um erro que a autoridade deteta durante uma auditoria e um erro que uma empresa encontra e reporta. O mecanismo de divulgação voluntária (主动披露) é construído em torno dessa diferença: uma empresa que descubra que o direito de pagamento é inferior ou que violou uma exigência aduaneira através do seu próprio controlo interno pode apresentar um relatório escrito e aceitar o tratamento, e — quando as condições legais são cumpridas — receber um tratamento mais tolerante do que se o mesmo problema fosse detectado pela alfândega. Este guia estabelece a base jurídica, a actual janela de tolerância limitada pelo tempo, a forma como o mecanismo funciona de facto e os limites que decidem se um determinado caso é elegível.
 

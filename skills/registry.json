@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "updated_at": "2026-09-07",
+ "updated_at": "2026-09-08",
  "governance_path": "skills/README.md",
  "github_is_source_of_truth": true,
  "mandatory_startup": [
@@ -28,7 +28,7 @@
  },
  "writing": {
   "path": "skills/autobridge-writing/SKILL.md",
-  "version": "1.1",
+  "version": "1.2",
   "blob_sha_at_registry_update": "bee3f20f69854b169d44976443f16edcf5b771da"
  },
  "completion_fields_required": [

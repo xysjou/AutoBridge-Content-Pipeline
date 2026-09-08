@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Chery Fulwin T9 C-DM PHEV Specs & Export Guide (China Reference)
 - **Meta Description**: Chinese-market Chery Fulwin T9 C-DM plug-in hybrid SUV — 1.5T dedicated engine, 150 kW front motor, 32.66 kWh battery, 120–220 km CLTC, 5/7 seats, and exporter checks.
-- **Suggested URL**: /vehicles/chery-fulwin-t9/
 - **H1**: Chery Fulwin T9 C-DM: Chinese-Market PHEV SUV Specs and Export Verification
 - **Primary Keyword**: chery fulwin t9 specs export
 - **Secondary Search Terms**: Fulwin T9 C-DM, 风云T9 plug-in hybrid, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinese PHEV SUV export
+- **Suggested URL**: /vehicles/chery-fulwin-t9/
+- **Search Intent**: Understand Chery Fulwin T9 C-DM: Chinese-Market PHEV SUV Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: Fulwin T9 three-quarter; charging port; 5 vs 7 seat layout; 1.5T C-DM badge; cargo area
-- **ALT Suggestions**: "Chery Fulwin T9 C-DM plug-in hybrid SUV"; "Fulwin T9 32.66kWh battery CLTC range"
+- **Image Suggestion**: Fulwin T9 three-quarter; charging port; 5 vs 7 seat layout; 1.5T C-DM badge; cargo area
+- **ALT Suggestion**: Chery Fulwin T9 C-DM plug-in hybrid SUV
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a PHEV Family SUV With a Long-Battery Version
 The Fulwin T9 is Chery's C-DM mid-size plug-in hybrid SUV, offered in five- and seven-seat forms. Two order errors dominate this model: mixing the **standard T9 with the stretched T9L**, and quoting electric range without naming the battery. This page documents **only the standard Fulwin T9 (REFERENCE MARKET: CHINA)**; the longer T9L (roughly 4870 mm / 2920 mm wheelbase) is a different body and is deliberately excluded. An OEM configuration page was captured for this model, which strengthens the spec base.

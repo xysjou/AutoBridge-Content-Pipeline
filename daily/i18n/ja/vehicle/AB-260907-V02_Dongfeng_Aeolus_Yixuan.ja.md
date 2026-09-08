@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan:中国市場CMP コンパクトセダン参照、現在のライン対旧Machバージョン
-## ツイート メタデータ
-- **SEOタイトル**: Dongfeng Aeolus Yixuan中国市場仕様と輸出バイヤーチェック_ AutoBridge
-- **メタ 記述**: Dongfeng Aeolus Yixuan CMPセダンの中国市場参照:寸法、現在の2025 1.5Lラインは、古いMach 1.5Tを分離し、輸出バイヤーのためのVINレベルのチェックを保ちました。
-- H1 ホテル **: Dongfeng Aeolus Yixuan:中国市場CMP コンパクトセダン参照、現在のライン対旧Machバージョン
-- **主なキーワード**: Dongfeng Aeolus Yixuanの輸出仕様
-- **二次検索条件**:东风风神奕炫;Aeolus Yixuan寸法;Yixuan 1.5L WLTC;Mach 1.5Tセダン;中国CMPセダン輸出
-- **混雑したURL**: /vehicles/dongfeng-aeolus-yixuan/
-- **Search Intent**: 面向海外买家介绍风神奕炫中国市场身份、尺寸、当前 1.5L 与较早马赫版 1.5T 的版本边界
-- **内部リンク提案**: /vehicles/jetour-dashing/、 /vehicles/saic-maxus- g90/、 /guides/verify-chinese-car-export-supplier-history/
-- **イメージ提案**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
-- アルト 提案**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: Dongfeng Aeolus Yixuan中国市場仕様と輸出バイヤーチェック | AutoBridge
+- **メタディスクリプション**: Dongfeng Aeolus Yixuan CMPセダンの中国市場参照:寸法、現在の2025 1.5Lラインは、古いMach 1.5Tは別々に保たれ、VIN - 輸出バイヤーのためのレベルチェック。
+- **H1**: Dongfeng Aeolus Yixuan:中国市場CMP コンパクトセダン参照、現在のライン対旧Machバージョン
+- **主要キーワード**: Dongfeng Aeolus Yixuanの輸出仕様
+- **関連検索語**: 东风风神奕炫; Aeolus Yixuanの次元;Yixuan 1.5L WLTC;Mach 1.5Tセダン;中国CMPセダンの輸出
+- **推奨URL**: /vehicles/dongfeng-aeolus-yixuan/
+- **検索意図**: 理解 Dongfeng Aeolus Yixuan:中国市場CMP コンパクトセダンリファレンス、現在のライン対古いMachバージョン:車両/パーツの輸出業者が確認し、文書化し、注文にコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **画像候補**: A Dongfeng Aeolus Yixuan fastback sedan shown from front three-quarter on a neutral background
+- **ALTテキスト**: Front three-quarter view of a Dongfeng Aeolus Yixuan sedan on a neutral studio background
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 The Dongfeng Aeolus Yixuan (风神奕炫) is the compact three-box/fastback sedan built on the CMP platform  and  DongfengのAeolus (Fengshen)の乗客車のブランドの下で中国で販売されて。 このモデルの買い手リスクは、構造ではなく一時的なものである: 現行2025の発売ラインは、自然に気をつけた1.5-litre車で、ハイアウトプット「マッハ」(马赫)1.5Tは、前回2022/2023のパワートレイン波に属しています。 現在のセダンだった場合、古いターボ出力を引用することは、最も一般的なバージョンエラーです。 このページは、**中国市場参照**で、グローバルスペックシートではありません。 輸出市場バージョンは、OEMの証拠を分離し、単元出力は確認のためにフラグを立てる必要があります。
 

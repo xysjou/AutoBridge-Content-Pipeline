@@ -1,16 +1,16 @@
 # SAIC MAXUS Interstellar T90: Diesel-Pickup-Exportreferenz für China
-## SEO Metadaten
-- **SEO Titel**: SAIC MAXUS T90 (Interstellar) Diesel Pickup Export Specs & Käufer-Checks
-- **Meta Description**: Chinesische Marktreferenz für den SAIC MAXUS Interstellar T90 Diesel Pickup: Karosserie-on-Frame-Chassis, Standard Langbetten, 2.0T Twin-Turbo-Diesel, Antriebsstrangoptionen und der Export-Namen-Hinweis.
-- ** H1 **: SAIC MAXUS Interstellar T90: Diesel-Abholungs-Exportreferenz für China
-- ** Primäres Keyword**: SAIC MAXUS T90 Pickup Exportspezifikationen
-- **Secondary Search Terms**: MAXUS T90 Diesel Pickup; Intertellar T90 2.0T Twin Turbo; T90 8AT Vierradantrieb; MAXUS Pickup Bettmaße; Chinesischer Pickup Export
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Search Intent**: 面向海外 B 端买家介绍星际 T90 中国市场版本身份 货箱 四驱 底盘 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Bildvorschlag**: Ein SAIC MAXUS T90 Doppel-Cab-Diesel-Pickup aus einem vorderen Dreiviertelwinkel auf unebenem Boden
-- **ALT Vorschlag**: Vordere drei Viertel eines SAIC MAXUS T90 Doppelkabinen-Pickups auf unbefestigter Oberfläche
-- **Schema Scope**: Article + Vehicle
+## SEO-Metadaten
+- **SEO-Titel**: SAIC MAXUS T90 (Interstellar) Diesel Pickup Export Specs & Käufer-Checks
+- **Meta-Beschreibung**: Chinesische Marktreferenz für den SAIC MAXUS Interstellar T90 Diesel Pickup: Karosserie-on-Frame-Chassis, Standard / Langbetten, 2.0T Twin-Turbo-Diesel, Antriebsstrangoptionen und der Export-Namen Vorbehalt.
+- **H1**: SAIC MAXUS Interstellar T90: China-Markt Diesel Pickup Export Referenz
+- **Haupt-Keyword**: SAIC MAXUS T90 Pickup Export Spezifikationen
+- **Sekundäre Suchbegriffe**: MAXUS T90 Diesel-Pickup; Intertellar T90 2.0T Twin Turbo; T90 8AT Vierradantrieb; MAXUS Pickup-Bettabmessungen; chinesischer Pickup-Export
+- **Vorgeschlagene URL**: /vehicles/saic-maxus-t90/
+- **Suchabsicht**: Verstehen SAIC MAXUS Interstellar T90: China-Markt Diesel Pickup Export Referenz: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Bildvorschlag**: Ein SAIC MAXUS T90 Doppel-Cab-Diesel Pickup aus einem vorderen Dreiviertelwinkel auf unebenem Boden
+- **ALT-Text**: Front Dreiviertel eines SAIC MAXUS T90 Doppel-Cab-Pickup auf einer unbefestigten Oberfläche
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Der Interstellar T90 (Xingji T90, früher MAXUS T90 in China) ist der mittelgroße, ** Body-on-Frame** Doppel-Cab-Pickup von SAIC MAXUS - die Art von Fahrzeug, das im Ausland für Lastenträger, Straßen- und Flottennutzung und nicht für die Passagierverfeinerung gekauft wurde. Ein Pickup-Kauf wird auf Bett, Nutzlast, Antriebsstrang und Chassis entschieden, so dass diese diese Seite führen. Es deckt nur den ** chinesischen Dieselkraftstoff** ab; der separate elektrische T90 ist ausgeschlossen.
 

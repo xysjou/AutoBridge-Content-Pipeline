@@ -1,15 +1,29 @@
 # VE chinois Normes de charge à l'étranger: GB/T vs CCS2 vs CHAdeMO vs NACS Compatibilité
+## Métadonnées SEO
+- **Titre SEO**: GB/T vs CCS2 vs CHAdeMO vs NACS: Chinen EV Compatibilité des exportations
+- **Description meta**: Une facture de marché chinois EV en Europe, au Japon ou en Amérique du Nord? GB/T 20234.3/27930 expliqué, la carte de connecteur par région, les entrées de version export, les adaptateurs et la direction ChaoJi.
+- **H1**: Une taxe chinoise de EV outre-mer? GB/T, CCS2, CHAdeMO et NACS Compatibilité expliquée
+- **Mot-clé principal**: GB/T CCS2 Compatibilité à l'exportation standard CHAdeMO
+- **Termes de recherche secondaires**: Adaptateur de charge à l'exportation chinois EV, GB/T 20234.3 DC charge rapide, GB/T 27930 protocole, CCS2 export version EV, ChaoJi standard
+- **URL suggérée**: /guides/chinese-ev-charging-standard-compatibility/
+- **Intention de recherche**: Comprendre Est-ce qu'un Chinois EV Charge outre-mer? GB/T, CCS2, CHAdeMO et NACS Compatibilité Expliquer: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Suggestion d'image**: carte standard du connecteur mondial
+- **Texte ALT**: Carte mondiale de DC normes de connecteurs de recharge rapide
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: GB/T vs CCS2 vs CHAdeMO vs NACS: Compatibilité des exportations de véhicules électriques chinois
-- **Description détaillée**: Une charge d'EV du marché chinois en Europe, au Japon ou en Amérique du Nord? GB/T 20234.3/27930 expliqué, la carte de connecteur par région, les entrées de version export, les adaptateurs et la direction ChaoJi.
-- **URL suggérée**: /guides/chinese-ev-chargement-norme-compatibilité/
-- ** H1 **: Un VE chinois facturera-t-il outre-mer? GB/T, CCS2, CHAdeMO et NACS Compatibilité expliquée
-- **Mot-clé principal**: GB/T CCS2 Compatibilité standard de charge CHAdeMO à l'exportation
-- **Conditions de recherche secondaires**: adaptateur de charge pour EV chinois, GB/T 20234.3 DC, protocole GB/T 27930, CCS2 version d'exportation EV, ChaoJi standard
-- **Suggestions de lien interne**: /véhicules/byd-yuan-plus/; /guides/drive-droite-chinois-cars/; /guides/utilisé-chinois-ev-inspection/
-- **Suggestions d'image**: carte standard du connecteur mondial; comparaison GB/T vs CCS2 entrée; entrée export-version en usine; avertissement de conformité de l'adaptateur
-- ** Suggestions d'ALT**: "Carte mondiale des normes de connecteurs à recharge rapide en courant continu"; "Inlets de recharge en gaz naturel et en gaz naturel et CCS2 côte à côte"; "Inlet d'exportation en EV chinois CCS2"
+Métadonnées SEO
+- **Titre SEO**: GB/T vs CCS2 vs CHAdeMO vs NACS: Compatibilité des exportations de véhicules électriques chinois
+- **Description meta**: Une charge d'EV du marché chinois en Europe, au Japon ou en Amérique du Nord? GB/T 20234.3/27930 expliqué, la carte de connecteur par région, les entrées de version export, les adaptateurs et la direction ChaoJi.
+- **H1**: Une charge de VE chinoise outre-mer? GB/T, CCS2, CHAdeMO et NACS expliqués
+- **Mot-clé principal**: GB/T CCS2 Compatibilité standard de la charge CHAdeMO à l'exportation
+- **Termes de recherche secondaires**: Adaptateur de charge pour l'exportation de VE chinois, GB/T 20234.3 DC, protocole GB/T 27930, version d'exportation CCS2, norme ChaoJi
+- **URL suggérée**: /guides/chinese-ev-charging-standard-compatibility/
+- **Intention de recherche**: Comprendre un ev chinois va-t-il facturer outre-mer ? gb/t, ccs2, la compatibilité cademo et nacs expliqué: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Suggestion d'image**: carte standard du connecteur mondial; comparaison GB/T vs CCS2 entrée; entrée export-version en usine; avertissement de conformité de l'adaptateur
+- **Texte ALT**: Carte mondiale des normes de connecteurs à recharge rapide DC
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pourquoi le connecteur décide si la voiture est utilisable
 
@@ -71,18 +85,18 @@ Pour chaque modèle/trim que vous exportez, enregistrez-le dans une feuille:
 **Est-ce que Chao Ji rend tous les connecteurs compatibles maintenant?** ChaoJi est une direction future conçue pour la compatibilité; les voitures de production actuelles ont encore besoin de confirmation par modèle.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, Leitfaden für Fahrzeugexport-Einkauf

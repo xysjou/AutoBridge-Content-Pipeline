@@ -1,15 +1,17 @@
 # Xe cộ Trung Quốc trên biển: tiêu chuẩn tiết kiệm nhiên liệu, 2026 tu chính án và người mua tương thích nhiên liệu phải kiểm tra
 
-## SAO Siêu dữ liệu
-- **SEAO Titry**: China VI Ects & Overseas Clingel Coution Hướng dẫn — GB18352.6 GB17691
-- **Meta Mô tả**: Phân biệt GB18352.6-2016 (XG1-2026 tu chính án) từ GB17691-2018 trường đại học, giới hạn dầu diesel của Trung Quốc và rủi ro DPF/SCR, và tại sao Trung Quốc VI không bao giờ tự động làm việc với Euro hay EPA.
-- ** URL đã gợi ý**: /guides/eation-fuel-c tương thích-china-vehicles
-- ** H1 Đi đường giao thông Trung Quốc: chương trình nào cho phép sử dụng tiêu chuẩn tiêu chuẩn, và nhiên liệu địa phương có phù hợp với nó không?
-- ** Từ khoá bí mật **: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
-- **Secondary Search Words**: GB18352.6-2016 XG1-2026, GB17691-2018 nhiệm vụ nặng nề của Trung Hoa 6, GB19147 lưu huỳnh dầu diesel 10ppm, Nhiên liệu lưu huỳnh cao DPF Trung Quốc VI đấu với Euro equalice
-- **I nội bộ Link gợi ý**: saver /vehcles/jmc-shunda /vehcles/dong Phong-tangngng-kl/
-- **Image gợi ý**: ánh sáng chống lại sự tách chuẩn nặng; DPF/SCR sau khi xử lý sơ đồ; đo độ tương phản lưu huỳnh; vòng lặp xác thực đích
-- **LT Những gợi ý**: "Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Trung Quốc VI Ects & Overseas nhiên liệu tương thích — GB18352.6 / GB17691
+- **Meta mô tả**: Phân biệt GB18352.6-2016 (XG1-2026 tu chính án) từ GB17691-2018 nhiệm vụ nặng nề, Giới hạn lưu huỳnh dầu diesel Trung Quốc VI  and   DPF/SCR rủi ro,  and  Tại sao Trung Quốc VI không bao giờ tự động-tự nhiên-thô-la Euro hoặc EPA chấp thuận.
+- **H1**: Lấy một chiếc China VI Xe cộ ở ngoài đường: Loại nào được dùng chuẩn, và nhiên liệu địa phương có phù hợp với nó không?
+- **Từ khóa chính**: china 6 emission standard overseas fuel compatibility  GB18352.6   GB17691
+- **Cụm tìm kiếm phụ**: GB18352.6-2016 XG1-2026, GB17691-2018 nhiệm vụ nặng nề của Trung Hoa 6, GB19147 lưu huỳnh dầu diesel 10ppm, DPF SCR nhiên liệu lưu huỳnh cao, Trung Quốc VI tương đương với Euro equalice
+- **URL đề xuất**: /guides/emission-fuel-compatibility-china-vehicles
+- **Ý định tìm kiếm**: Hiểu việc lấy một chiếc Trung Quốc VI Xe cộ ở ngoài đường: Loại nào được dùng chuẩn, và nhiên liệu địa phương có phù hợp với nó không? là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Gợi ý hình ảnh**: ánh sáng chống lại sự tách chuẩn nặng
+- **Văn bản ALT**: Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Tại sao "Trung Quốc VI" không phải là một số
 Người mua thường đọc "Trung sĩ VI 国六" như một tiêu chuẩn đơn. Không phải: **Chuyến xe nhẹ và nhiều xe nặng nề ngồi dưới những tiêu chuẩn khác nhau của Trung Quốc**, và một tiêu chuẩn tiết ra cũng khác với **fuel clition** và từ loại số mệnh chấp thuận**. Hướng dẫn này phân chia cả ba và các bang chính xác nơi mà tiêu chuẩn chính thức của Trung Quốc kết thúc và xác nhận đích đến bắt đầu.

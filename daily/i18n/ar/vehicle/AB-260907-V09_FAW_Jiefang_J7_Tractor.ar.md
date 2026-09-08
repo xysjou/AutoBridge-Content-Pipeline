@@ -1,16 +1,16 @@
-# FAW Jiefang J7 Tractor: A China-Market Heavy-Truck Reference that Keeps the China- 5 and China- 6 Generation Apart
-## SEO Metadata
-- ** عنوان المنظمة**: FAW Jiefang J7 China-Market Tractor Specs and Export checks s AutoBridge
-- ** وصف البيانات**: إشارة السوق الصينية إلى جرار ثقيل من طراز FAW Jiefang J7: وظل الخط التاريخي للصين CA6DM3 550 PS 5 منفصلا عن الخط الحالي للصين - CA6SX1 6 خط حتى 600 PS، و 6x4 عملية تخطيط وفحص للصادرات.
-- ** H1 **: مرصد الفاو، J7 مركب: مرصد الصين - مريخي - منطقة البحر الأبيض المتوسط، الذي يبقي الصين - 5، و 6 جيل منعزلة عن الصين.
-- ** كلمة رئيسية**: FAW جيفانج J7 مطياف تصدير
-- ** شروط البحث الثانية**: 解放J7; J7 CA6SX1; J7 CA6DM3 550؛ Jiefang J7 6x4 tractor; تصدير شاحنة ثقيلة صينية؛ China-6 J7 600 PS
-- ** URL المقترض**: /حلقات/فاو-جيفانغ - j7-tractor/
-- ** الحلقة الدراسية**: 面向海外买家介绍解放J7中国市场身份，严格区分国五历史款CA6DM3与国六现售CA6SX1两代动力
-- ** الوصلات الداخلية** : /vehicles/qingling-isuzu- kv100/ , /vehicles/zoomlion- ztc250h-truck-crane/ , / guides/china - تصدير/
-- ** اقتراح مقدم**: وحدة جرار عالية من طراز FAW Jiefang J7، من طراز 6x4، موضحة من جانب ثلاثة أرباع
-- ** اقتراح**: نظرة جانبية من ثلاثة أرباع لجهاز جرار من طراز FAW Jiefang J7 6x4 على أرض محايدة
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسع/استعراض/إعادة النظر)
+# FAW جيفانج جي 7 تراكتور: A China-Market Heavy-Truck Reference that Keeps the China- 5 and China- 6 Generation Apart
+## بيانات SEO الوصفية
+- **عنوان SEO**: FAW Jiefang J7 China-Market Tractor Specs and Export checks s AutoBridge
+- **وصف Meta**: Chinese-market reference for the  FAW  Jiefang J7 heavy tractor: the historical China-5  CA6DM3  550  PS  line kept separate from the current China-6  CA6SX1  up-to-600  PS  line, 6x4 تخطيط  and  -مراجعات التصدير
+- **H1**: FAW جيفانج J7 تراكتور: مرجع مركب ثقيل من الصين - مريخ يحفظ الصين - 5 والصين - 6 جيل من الفصل العنصري
+- **الكلمة المفتاحية الرئيسية**: FAW جيفانج J7 رأس من مواصفات التصدير
+- **مصطلحات بحث ثانوية**: 解放J7; J7  CA6SX1 ; J7  CA6DM3  550; Jiefang J7 6x4 tractor; تصدير شاحنة ثقيلة صينية؛ China-6 J7 600  PS
+- **URL المقترح**: /vehicles/faw-jiefang-j7-tractor/
+- **نية البحث**: افهم FAW جيفانج J7 تراكتور: A China-Market Heavy-Truck Reference that keepss the China- 5 and China- 6 Generations Apart: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **اقتراح الصورة**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
+- **نص ALT**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 "الـ "جيفانج J7 هو الجيل السابع من جرار نصف مُتجر من أكبر صانعي شاحنة ثقيلة في الصين باعت أساساً كسيارة أجرة عالية الـ6x4 للعمل الطويل المدى إن الانضباط الحاسم في تحديد المواصفات لمشتري التصدير هو ** جيل**: تم عرض J7 بمحرك صيني - 5 (محرك وطني خامسا) من حقبة الإطلاق التي يبلغ عددها 2018  and  (أ) أسرة محركات جديدة من الصين إلى 6 (وطنية سادسا)  and  الجمع بين أكبر عدد من كل واحد إلى واحد "J7 مواصفات" هو بالضبط الخطأ الذي تمنعه هذه الصفحة. (أ) هذه إشارة إلى السوق الصينية**، وهي قابلة للتداول بالديزل؛ LNG  and  pure-electric J7 variants  and  أيّ ما وراء البحار J7 خارج هذه الصفحة،  and  وتُدرج النواتج ذات الموارد الواحدة لتأكيدها.
 
@@ -72,7 +72,7 @@
 
 هل الـ550 PS شاحنة التي تعمل في النموذج الحالي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
 
-No — 550 PS belongs to the China-5 2018-era historical variant; the current line is China-6.
+No — 550 PS belongs to the China-5 2018-era historical variant; الخط الحالي هو الصين-6
 
 ما هو الحد الأقصى للطاقة الـJ7؟ ♪ ♪
 

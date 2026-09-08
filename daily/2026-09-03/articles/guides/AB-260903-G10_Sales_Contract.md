@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Vehicle Export Sales Contract Clauses & Risk Guide
 - **Meta Description**: What a vehicle export sales contract must contain — PRC Civil Code Art 596 essentials, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
-- **Suggested URL**: /guides/vehicle-export-sales-contract-clauses/
 - **H1**: Key Clauses in a Vehicle Export Sales Contract: Payment, Title, Risk and Disputes
 - **Primary Keyword**: vehicle export sales contract key clauses risk title
 - **Secondary Search Terms**: retention of title export contract, Incoterms risk transfer vehicle, export contract breach penalty, ICC arbitration vehicle trade, Apostille overseas documents, vehicle condition disclosure
+- **Suggested URL**: /guides/vehicle-export-sales-contract-clauses/
+- **Search Intent**: Understand Key Clauses in a Vehicle Export Sales Contract: Payment, Title, Risk and Disputes: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: clause-to-risk map; risk/title transfer timeline; payment-vs-delivery milestone chart
-- **ALT Suggestions**: "export contract risk and title transfer timeline"; "vehicle sales contract key clauses"
+- **Image Suggestion**: clause-to-risk map; risk/title transfer timeline; payment-vs-delivery milestone chart
+- **ALT Suggestion**: export contract risk and title transfer timeline
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Who This Is For
 A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/SINGLE_SOURCE**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**

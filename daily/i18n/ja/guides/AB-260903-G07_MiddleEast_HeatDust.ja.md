@@ -1,14 +1,16 @@
 # 硫化物熱・防塵用車両の指定:OEM・乳液による評価ポイント
-## ツイート メタデータ
-- **SEOのタイトル**: 中東/GCC 熱・集塵車両適応バイヤーガイド
-- **メタ 記述**: 中国のスペック車を湾岸熱とほこりに送る前にOEM/upfitterと評価するべきこと — ICE冷却/充電/ACおよび配線候補、EV熱管理オプション、および別々のGCC/GSO適合トラック。
-- **混雑URL**: /ガイド/ミドルイーストヒートファーダプテーション/
-- H1 ホテル **: 湾岸熱および塵のための中国指定車に適応させる:評価ポイント(ICE、EV、承諾)
-- **第一次キーワード**:中間の東gcc熱塵車の適応の指定
-- **二次検索条件**:GCC高温車両スペック、砂漠の塵のシーリング車、EV電池熱管理熱風、中東AC冷却アップグレード、GSO車適合熱
-- **内部リンクの提案**: /guides/vehicle-coc-type-approval-dosier/; /guides/uae-vehicle-import-registration-documents/; /vehicles/li-auto- l6/
-- **イメージ提案**:熱負荷システム図(ICE対EV)、防塵ポイント、ラジエーター/ACコンデンサー、バッテリー熱管理ループ
-- **ALT 提案**:「ICE versus EV の熱適応評価ポイント」;「ガルフ ほこりの侵入の保護ポイント」
+## SEOメタデータ
+- **SEOタイトル**: 中東/ GCC 熱・ダスト車適応バイヤーガイド
+- **メタディスクリプション**: 湾岸熱とほこりに中国-spec車両を送信する前にOEM /upfitterと評価するべきこと - ICE冷却/充電/ ACおよび配線候補、EV熱管理オプション、および別々のGCC/GSO適合トラック。
+- **H1**: 湾の熱および塵のための適応の中国指定車:評価ポイント(ICE、EV、承諾)
+- **主要キーワード**: 中間の東のgcc熱塵車の適応の指定
+- **関連検索語**: GCC高温車スペック、砂漠の塵のシーリング車、EV電池の熱管理の熱風、中東ACの冷却のアップグレード、GSO車適合熱
+- **推奨URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **検索意図**: 湾岸熱および塵のための適応中国-Spec 車両:評価ポイント(ICE、EV、コンプライアンス):どのような車両/部品輸出業者が確認し、文書化し、注文にコミットする前に決定しなければならない。
+- **内部リンク候補**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
+- **画像候補**: 熱負荷システム図(ICE対EV)
+- **ALTテキスト**: ICE 対 EV 熱適応評価ポイント
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 証拠境界
 Two evidence layers are kept separate. **適合性トラックは、プライマリソース** — GCC標準化機構(GSO)フレームワークで、サウジアラビアがSASO/SABERを通じて適用され、UAEがMoIAT(ECAS)を介して、供給される。 ** 設計適応項目** 以下 (冷却、充電、AC、シール、EV熱的候補) は、それぞれ単一のアップフィット/エンジニアリングまたは業界ソースに残り、SINGLE_ のまま ガルフ法的な要件ではなく、SOURCE評価ポイント。 シングルユニフォーム「ガルフ仕様」はありません。 モデルと動作封筒のOEM/upfitterですべての項目を確認し、GSOテキスト(SaudiとUAEのルートが異なる)の**目的地の国の**アプリケーションに対して、それぞれ異なると表示されていることを確認します。
@@ -52,30 +54,30 @@ Two evidence layers are kept separate. **適合性トラックは、プライマ
 **GSOの熱/ ACの基準は、どこで確認できますか?** GSOの技術的な規制リストから始めて、**国**の国別ルート - サウジアラビア、UAEのMoIATのSASO SABER - GSOのテキストが全国的に適用されるため。 AC 規格番号を引用しません。エンジニアリングの候補者は、OEM/upfitter の確認を要求します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
- - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
- - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
- - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
- - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
- - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
- - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
- - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
- - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
- - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
- - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
- - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
- - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
@@ -83,12 +85,12 @@ Two evidence layers are kept separate. **適合性トラックは、プライマ
 | GCCハイテン/業界車適応アップフィット | | ガルフ | 以下は、 | 2026-09-03 | シングル_ソース | 気候範囲; ICE candidate adaptation points (one source) | https://m.11467.com/product/d15654879.htm
 | 全クライメートNEV(高一時液体冷却/低一時自熱) | 中国/中国/Toutiao の工学 | 営業拠点 | 担当: http://m.toutiao.com/group/6868212100762698247/ の | 2026-09-03 | シングル_ソース | 液体対空気熱管理ディスカッション(ソース) |
 | バッテリー高/低温性能(−30〜55対象) | D1EV トゥーティアオ | CN の | 担当: http://m.toutiao.com/group/6396788247036428802/ の | 2026-09-03 | シングル_ソース | − 30〜55 °C 政策設計目標(一元) |
-| 2026 Jeddah auto-parts fair (heat/dust parts, ビーエムス) | ソーフ | サイゴン | 以下は、 https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | シングル_ソース | GCC compliance note (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, ビーエムス) | ソーフ | サイゴン | 以下は 、 https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ |  GCC  compliance note (one source) |
 *証拠の天井:すべての適応事実は、単一のソース(すべてのSINGLE_SOURCE)に残ります。 GSO第一次標準またはOEMエンジニアリング仕様はキャプチャされていません。 アイテムは、OEM/upfitterの評価ポイントとしてフレーム化され、ユニバーサル湾岸要件ではありません。法的しきい値や必須構成は主張されていません。 ふりがな
 
 | GCCモーター車載技術規則リスト | GCC標準化機構(GSO) | ギクシー | 以下は、 https://www.gso.org.sa/ は、 | 2026-09-05 | 検証済み | GCC-wide車両技術規則、気候・排出時間を含む(国別適用) |
 | サウジアラビア規格および適合性(SASO/Saleem) | サウジアラビア規格、メトロロジー、品質 Org(SASO) | スタッフ | 以下は、 https://www.saso.gov.sa/en/Pages/default.aspx のファイル | 2026-09-05 | 検証済み | サウジアラビア固有の基準と適合範囲 |
-| 規制製品(車・部品を含む)の発行適合証明書 | UAE産業技術省(MoIAT) | UAE UAE | 以下は、 の一覧 | 2026-09-05 | 検証済み | UAE固有の適合ルート; GCC-uniform | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+| 規制製品(車・部品を含む) | の発行適合証明書 | UAE 産業技術省(MoIAT) | UAE UAE | 以下は | の一覧 | 2026-09-05 | 検証済み | UAE 固有の適合ルート GCC | ユニフォーム | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

@@ -1,15 +1,17 @@
 # Chứng nhận nào là cần thiết để xuất khẩu xe cộ? Các tập tin khác nhau
 
-## SAO Siêu dữ liệu
-- **SEAO Tittry**: Chứng nhận Trung Quốc về Nguồn gốc các xe cộ xuất khẩu — CO Types & Priers
-- **Meta Mô tả**: Ba loại chứng nhận Trung Quốc, mà để áp dụng cho, cho dù để sử dụng các phong tục hoặc CCPIT, khi một CO FTA ưu tiên áp dụng, và những gì một xuất khẩu không phải hứa hẹn về nhiệm vụ đích.
-- ** URL đã gợi ý**: /guides/china-export-crigin
-- ** H1 Chọn chứng chỉ đúng của Nguồn gốc cho một xe cộ Trung Quốc xuất khẩu
-- ** Từ khoá mật khẩu hoa/ xuất khẩu từ Trung Quốc
-- **Secondary Search termss**: không phải là tiền ngữ CO, chứng nhận GP từ nguồn gốc, CO ưu tiên FTA, GACC thứ tự 270, CCPIT gốc, tài liệu xuất khẩu xe
-- **I nội bộ Link gợi ý: /guides/export-vehicle-docucht- wrapt- wrap/; /guides/childa-port-statuary-inpoction-decation/
-- **Image gợi ý**: ba loại CO; Tuỳ biến v. sơ đồ phát hành C.P.I.; FTA thích dòng chảy
-- **LT gợi ý**: " chứng nhận Trung Quốc có ba loại tập tục CCPIT"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Chứng nhận Trung Quốc về Xuất khẩu xe cộ — CO loại & Số
+- **Meta mô tả**: Ba loại chứng chỉ của người Trung Quốc, Mà để áp dụng cho, Cho dù có dùng các phong tục hay CCPIT, Khi FTA ưu tiên CO được áp dụng,  and  Thật là một người xuất khẩu không nên hứa hẹn về nhiệm vụ đích đến.
+- **H1**: Chọn chứng chỉ đúng của nguồn gốc cho một xe cộ Trung Quốc xuất khẩu
+- **Từ khóa chính**: Chứng nhận xuất khẩu Trung Quốc của phong tục cct gốc
+- **Cụm tìm kiếm phụ**: non-preferential  CO , GSP chứng nhận gốc, FTA ưu tiên CO, GACC lệnh 270, Nguồn gốc của CCPIT chứng nhận, Name
+- **URL đề xuất**: /guides/china-export-certificate-of-origin
+- **Ý định tìm kiếm**: Hãy hiểu rằng việc chọn chứng chỉ đúng của Nguồn gốc cho một công ty xe cộ Trung Quốc xuất khẩu: một nhà xuất khẩu xe cộ/một phần phải kiểm tra, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Gợi ý hình ảnh**: & So sánh loại CO
+- **Văn bản ALT**: Chứng nhận gốc Trung Quốc ba loại Tuỳ biến CCPIT
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Quyết định ẩn giấu trong tài liệu
 Người nhập khẩu thường yêu cầu "con CO" như thể nó là một tờ giấy. Không phải. China issues **three families** chứng nhận gốc,  and  Chọn sai người mua có nghĩa là người mua không thể thích hoặc nhận được giấy tờ nào đó không đòi hỏi. Quy tắc quản trị hiện tại là **GACC Order số 270, *Quản trị cho ít người sinh ra cho hàng hóa Eputy*, xuất bản 2024-07-30 và có hiệu lực từ 2024-09-01 **. Trang này bao gồm phía **Trung Quốc phát hành**; Cho dù một điểm đến cụ thể cung cấp cho một ưu tiên là quyết định của quốc gia đó.

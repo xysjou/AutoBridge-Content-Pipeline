@@ -1,14 +1,17 @@
 # 使用された中国のEVの事前輸出点検:電池SOHは、事故、洪水および走行距離計の点検と、適切に寄付します
-## ツイート メタデータ
-- ** SEO のタイトル**: 使用される中国のEVの点検: 電池のSOH、洪水及び走行距離計 チェック
-- **メタ 記述**: 輸出前に使用した中国EVを検査する方法 — SOHは、実際にバッテリー規格、メーターで計られた充電テスト、セルバランス読み取り、事故/洪水スクリーニングおよび走行距離計-vsサイクルクロスチェック、発明された法的しきい値なしを意味します。
-- **混雑URL**: /guides/used-chinese-ev-inspection/
-- H1 ホテル **: 輸出前に使用される中国のEVを点検すること:電池数が意味し、取り除くこと
-- **主なキーワード**:使用中国EV検査電池SOHチェックリスト
-- **二次検索条件**:EV電池SOH標準QC T 743、GB T 31484サイクル寿命、EVセル電圧不均衡、EV洪水被害検査、走行距離計ロールバックバッテリーサイクルカウントを使用
-- **内部リンクの提案**: /guides/verify-china-car-export-supplier/; /guides/chinese-ev-charging-standard-compatibility/; /guides/import-chinese-ev-to-russia-eac-ottc/
-- **イメージ提案**: 診断ツールSOHおよび細胞電圧の読み出し; metered 20–80% charge worksheet; 電池のundertrayの点検ポイント;
-- **ALT提案**:「SOHと最大セル電圧差を示す独立した診断レポート」;「メーターチャージエネルギー試験ワークシート」; 「EVバッテリーパックの裏面検査ポイント」
+## SEOメタデータ
+- **SEOタイトル**: 使用された中国 EV 点検: 電池 SOH、洪水及び走行距離計 チェック
+- **メタディスクリプション**: 輸出前に使用した中国EVを検査する方法 — SOHは、実際にバッテリー規格、メーターで計られた充電テスト、セルバランス読み取り、事故/洪水スクリーニングおよび走行距離計-vsサイクルクロスチェック、発明された法的しきい値なしを意味します。
+- **H1**: 使用される中国 EV の点検 輸出前:電池数が何を意味するかおよび拒絶するべきか
+- **主要キーワード**: 使用された中国EV点検電池SOHのチェックリスト
+- **関連検索語**: EV電池SOH標準的なQC/T 743、GB/T 31484周期の生命、使用済みEV細胞の電圧不均衡、EV洪水の損傷の点検、odometerのロールバック電池の周期の計算
+- **推奨URL**: /guides/used-chinese-ev-inspection/
+- **検索意図**: 使用される中国EVの点検に抗して下さい エクスポート前: バッテリー番号が意味するものと拒否する: 車両/部品輸出業者が確認しなければならないもの、ドキュメント、注文にコミットする前に決定します。
+- **内部リンク候補**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **画像候補**: 診断ツール SOH および細胞電圧のreadout
+- **ALTテキスト**: SOHおよび最高の細胞電圧相違を示す独立した診断レポート
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## スコープ: 検査マニュアル、新しいvs の使用分数の議論ではなく
 **注記**を購入する決定は、所定の通りに行われます。このページは、輸出前に**技術検査をカバーしています。 中古EVの経済は、高電圧バッテリーで支配される: 着用したパックが付いているきれいなボディは、出荷後の交換費用よりも価値が低いため、作業の検査注文はICE車と異なっています。 中央の目的は、ユニバーサルの税関ラインではなく、実際に「SOH 80%」が、エンジニアリングのリファレンスであるのかを正確に把握することです。
 ## ソーイング つまり、80%図が実際に意味しているのは、
@@ -58,18 +61,18 @@
 **EVでは、特に洪水被害が危険なのはなぜですか?**
 **EVにスポット化されたオドメーターの不正はどのようになっていますか?** バッテリーサイクルカウントと物理的な摩耗で表示されたマイレージを比較します。高いサイクルで低い走行距離は警告です。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
@@ -89,7 +92,7 @@
 | GB/T | 中国の国家規格(**標準ボディ**) | CN の | 以下は、 https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | **検証済み** | | 31484
 | IEC 62660-1/2リチウムイオン電池の性能/生命テスト | IEC(国際的**標準ボディ**) | 営業拠点 | https://www.iec.ch/ (IEC 62660シリーズ) | 2026-09-03 | **検証済み** | SOH |
 | 基板上段のGB/T 46991.1-2025 SOH/SOC表示精度と耐久性(MIIT/SAC) | 中国語 推奨国家規格(**標準体**) | CN の | 規格のカバレッジで報告;SAC/MIITチャンネルの主流 | 2026-09-03 | CROSS_CHECKED(クロス) | 機内健康表示精度は別々に標準化されます(法的輸入線ではありません) |
-| SOH処方とQC/T 743 80%終生の慣習 | レンタサイクル 電池の技術的な説明者(工業) | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | 容量ベースのSOHの方式;業界終生の参照として80% | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/
+|  SOH  処方と  QC/T  743 80% 終生の慣習 | レンタサイクル 電池の技術的な説明者 (工業) | 営業拠点 | 以下は 、 | 2026-09-03 | シングル _ ソース | 容量ベースの  SOH  の方式; 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 業界 の 80% の リファレンス 80% の 業界 業界 業界 の 業界 業界 の 人 の 人 の 人 人 の 人 の 人 の 人 の 人 の 人 の 人 人 の 人 人 人 の 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人 人
 | 中古NEV・チャージテスト・スクリーニング方法のご購入のポイント | イーチェ、ドンケディ(オートメディア、メソッドリファレンス) | CN の | 以下は、 https://hao.m.yiche.com/wenzhang/107776270/ の | 2026-09-03 | シングル_ソース | 検査方法、充電試験、事故・故障・走行距離計の練習 |
 | 懂车帝 二手车电池检测内容 | 懂车帝 (字节跳动) | CN の | 以下は、 https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | シングル_ソース | 20%-80% 充电验证衰减方法 |
 | 懂车帝 二手电车三招排除事故 泡水 调表 | 懂车帝 (视频) | CN の | 以下は、 https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | シングル_ソース | 事故 泡水 调表排查方法、电池包护板拆装痕迹 |

@@ -1,16 +1,16 @@
 # Thiên hà E8 (Yinhe E8): China-Market arrow Sedan tham khảo cho Xuất khẩu
-## SAO Siêu dữ liệu
-- **SEEO Titry**:Floly Dải thiên hà E8 (Yinhe E8) Xuất bản các tính năng: Pin, Phạm vi, Hướng dẫn sạc
-- **Meta Mô tả**: Giới thiệu thị trường Trung Quốc cho các thiên hà dựa trên lòng đất, thiên hà/Yinhe E8 sedan điện: biến thể vận động, phạm vi CLTC và các lựa chọn pin đã giữ cho 800V điện tích điện tích, và kiểm tra xuất khẩu EV.
-- ** H1 **: Geely Thiên hà E8 (Yinhe E8): China-Market interic Sedan tham khảo cho Xuất khẩu
-- ** Từ khoá bí mật **: Thiên hà E8 Yinhe E8 xuất khẩu các thông số
-- **Secondary Search termss**: Thiên hà E8 kiến trúc ith; Yinhe E8 pulTC ic; Thiên hà E8 800V sạc; Xuất khẩu xe sedan điện kỳ diệu; E8 475 kW AWD
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍银河 E8 中国市场版本身份  三电 续航 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Image gợi ý**: mặt trận ba phần tư của thiên hà Geely E8 xe điện tốc độ nhanh với dấu hiệu ánh sáng thứ mười
-- **LT Đề nghị**: Cảnh ba phần tư phía trước của một chiếc xe sedan điện Geely E8 cho thấy thanh ánh sáng và mái nhà nhanh
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Thiên hà E8 (Yinhe E8) Xuất Spec: pin, Phạm vi, Hướng dẫn sạc
+- **Meta mô tả**: Giới thiệu thị trường Trung Quốc cho SEA thiên hà theo kiểu Geely/Yinhe E8 sedan điện: biến thể vận động, CLTC số lượng và các lựa chọn pin đã giữ cho 800V điện tích điện từ và EV kiểm tra xuất khẩu.
+- **H1**: Thiên hà E8 (Yinhe E8): China-Market arrow Sedan tham khảo cho Xuất khẩu
+- **Từ khóa chính**: Thiên hà E8 Yinhe E8 xuất khẩu các thông số
+- **Cụm tìm kiếm phụ**: Thiên hà E8 SEA kiến trúc; Yinhe E8 CLTC dải; Thiên hà E8 800V sạc; Xuất khẩu xe sedan điện kỳ diệu; E8 475 kW AWD
+- **URL đề xuất**: /vehicles/geely-galaxy-e8/
+- **Ý định tìm kiếm**: Hiểu rõ Thiên hà Geely E8 (Yinhe E8): China-Market interic Sedan fold for Eparts bound: những gì một xe hơi/parts xuất khẩu phải xác nhận, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Gợi ý hình ảnh**: Front three-quarter of a Geely Galaxy E8 fastback electric sedan with its full-width light signature
+- **Văn bản ALT**: Cảnh ba phần tư phía trước của một chiếc xe sedan điện Geely E8 cho thấy thanh ánh sáng và mái nhà nhanh
+- **Phạm vi schema**: Điều và Xe hơi
 
 The Galaxy E8 (Yinhe E8) is Geely's flagship electric fastback sedan on the SEA (Sustainable Experience Architecture) — a five-seat, Vách thấp (khoảng 0.199 CN) ắc quy điện cung cấp trong một động cơ đẩy sau  and  Mẫu xe hai bánh. Bởi vì nó là một chiếc EV, quyết định mua hàng bật trên ắc quy, chu kỳ thử nghiệm, sạc kiến trúc và phần mềm, không phải trên một số điện tiêu đề. Mọi thứ bên dưới đều là một tài liệu tham khảo **-CLTC; xuất bản các bản dịch và các tiêu chuẩn sạc của chúng đòi hỏi phải có bằng chứng riêng biệt.**
 

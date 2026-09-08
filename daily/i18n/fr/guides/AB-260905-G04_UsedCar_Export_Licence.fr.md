@@ -1,15 +1,29 @@
 # Exportation de voitures usagées en Chine — Processus pilote de qualification, de licence et d'autorisation
+## Métadonnées SEO
+- **Titre SEO**: Exportation de voitures d'occasion en Chine: qualification pilote, licence d'exportation et dédouanement (règles 2026)
+- **Description meta**: Comment une entreprise chinoise exporte des voitures d'occasion: qualification de zone pilote, le certificat d'exportation, l'exception relative à la passation de marchés de projets, cohérence des informations  and  the 2026 registration-consistency rule.
+- **H1**: Exportation de voitures usagées en Chine — Processus pilote de qualification, de délivrance de permis et d'autorisation
+- **Mot-clé principal**: Chine utilisé processus de licence d'exportation de voiture
+- **Termes de recherche secondaires**: exportation de voitures d'occasion en Chine; permis d'exportation de véhicules d'occasion; zone pilote; exportation de voitures d'occasion; permis MOFCOM
+- **URL suggérée**: /guides/china-used-car-export-license-process/
+- **Intention de recherche**: Comprendre l'exportation chinoise de voitures usagées — Processus pilote de qualification, de délivrance de permis et d'autorisation: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant l'exportation chinoise de voitures d'occasion — Processus de qualification, de délivrance de permis et d'autorisation de pilote, aucune inspection par étapes ni aucune personne réclamée.
+- **Texte ALT**: Vue étroite et naturelle des matériaux et du sujet lié à l'exportation de voitures usagées en Chine — Processus pilote de qualification, de délivrance de permis et d'autorisation, fond neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
-## OEuvre Métadonnées
-- **Référencement au titre**: Chine Exportation de voitures usagées: qualification pilote, licence d'exportation et dédouanement (règles 2026)
-- **Description détaillée**: Comment une entreprise chinoise exporte des voitures d'occasion: qualification de zone pilote, le certificat d'exportation, l'exception relative à la passation de marchés de projets, cohérence des informations  and  the 2026 registration-consistency rule.
-- ** H1 **: Exportation de voitures usagées en Chine — Processus pilote de qualification, de licence et d'autorisation
-- **Mot-clé principal**: processus de licence d'exportation de voiture d'occasion en Chine
-- ** Termes de recherche secondaires**: exportation de voitures d'occasion en Chine; permis d'exportation de véhicules d'occasion; zone pilote; exportation de voitures d'occasion; permis MOFCOM
-- **URL suggérée**: /guides/chine-utilisé-car-export-licence-processus/
-- **Intentité de la recherche**: 企业如何取得二手车出口资质, 办理转让登记, 申领出口许可证并完成通关 (含 2026 年新规)
-- **Suggestions de lien interne**: /guides/chine-export-customs-declaration-single-window/, /guides/utilisé-chine-ev-inspection-histoire/, /guides/vérify-chine-car-export-fournisseur-histoire/
-- **Schema Champ d'application**: article (pas de produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: Exportation de voitures d'occasion en Chine: qualification pilote, licence d'exportation et dédouanement (règles 2026)
+- **Description meta**: Comment une entreprise chinoise exporte des voitures d'occasion: qualification de zone pilote, le certificat d'exportation, l'exception relative à la passation de marchés de projets, cohérence des informations  and  the 2026 registration-consistency rule.
+- **H1**: Exportation de voitures usagées en Chine — Processus pilote de qualification, de licence et d'autorisation
+- **Mot-clé principal**: Chine utilisé processus de licence d'exportation de voiture
+- **Termes de recherche secondaires**: exportation de voitures d'occasion en Chine; permis d'exportation de véhicules d'occasion; zone pilote; exportation de voitures d'occasion; permis MOFCOM
+- **URL suggérée**: /guides/china-used-car-export-license-process/
+- **Intention de recherche**: Comprendre l'exportation chinoise de voitures usagées — qualification, permis et processus d'autorisation du pilote: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant l'exportation chinoise de voitures d'occasion — Processus de qualification, de licence et d'autorisation du pilote, aucune inspection par étapes ni aucune personne n'a été réclamée.
+- **Texte ALT**: Vue étroite et naturelle des matériaux et du sujet lié à l'exportation chinoise de voitures usagées — Processus pilote de qualification, de licence et d'autorisation, fond neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article (aucun produit/offre/réexamen)
 
 ## Exportation de voitures d'occasion est une entreprise autorisée, basée sur le pilote
 Contrairement aux exportations ordinaires de voitures neuves, les exportations de véhicules usagés en provenance de Chine sont limitées à ** entreprises qualifiées dans des zones pilotes approuvées** sélectionnées par le biais du mécanisme pilote, et elles sont soumises à un régime de ** licence d'exportation**. Une entreprise ne peut pas commencer à exporter des voitures d'occasion simplement parce qu'elle a des droits de commerce généraux. La liste des zones pilotes s'étend au fil du temps et doit être lue à partir de l'avis du MOFCOM/gouvernement actuel plutôt qu'à partir d'une liste fixe.
@@ -40,7 +54,6 @@ La liste des villes pilotes et les écrans système exacts sont actuels et ne so
 **Où est la liste des villes pilotes?** Dans la dernière notification du MOFCOM/gouvernement, ne vous fiez pas à une liste statique.
 **Ceci couvre-t-il les règles d'importation de destination?** Non, ces deux éléments sont distincts et spécifiques à chaque pays.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -59,18 +72,18 @@ La liste des villes pilotes et les écrans système exacts sont actuels et ne so
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exportation de voitures usagées en Chine
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Chinese Used-Car Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +96,5 @@ La liste des villes pilotes et les écrans système exacts sont actuels et ne so
   - **ID**: used car export licence, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: used car export licence, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: used car export licence, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #UsedCarExport #ExportLicence

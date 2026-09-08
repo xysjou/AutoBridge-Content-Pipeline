@@ -1,15 +1,17 @@
 # Foton Aumark (奥铃) Xe tải được từ chối — Chasis, Refer body và máy làm mát-Unit Buy Guide
 
-## SAO Siêu dữ liệu
-- **SEEO Titt**: Foton Aumark verciated icers & Reefer Xây dựng Hướng dẫn Xuất
-- **Meta Mô tả**: Foton Aumark (Ollin) staper: 150 PS A Kiệtyun, 4.085 m cơ thể cách nhiệt, GVW 4.495 t, các lựa chọn của đơn vị Thermo King/doestic, và làm thế nào để xác định một xe tải đông lạnh để xuất khẩu.
-- ** URL đã gợi ý**: /vehicles/foton-aumark-regraled-car/
-- ** H1 **: Foton Aumark vercizerated carrecated: Tách rời Chasis, tổ hợp cơ thể và máy khử mùi
-- **Cumpary Keywomark porters porters ported
-- **Secondary Search Words**: Xe tải chở bán đá ngầm Ollin. Fington Cemmins 2.8 suncritorated,  Thermo King T880 Pro truck, 4.5t xuất khẩu xe tải bán san hô, Xe tải xích Trung Quốc
-- **I nội bộ Link gợi ý**: /vehc/jac-kagle-cag-cag/; /guides/commercial-cial-criet-crique-china /;guides/marine-car-cance/
-- **Image gợi ý**: nhìn bên ngoài xem cơ thể đá ngầm; bộ phận đông lạnh trên mái xe taxi; bộ phận cách nhiệt bên trong hộp với móc thịt; bộ khung khung; bộ điều khiển nhiệt độ
-- **LT gợi ý**: "Foton Aumark 4x4 xe tải đông lạnh với hộp cách nhiệt, Trung Quốc ma trận," "Truck-mounted Thermo King erriteration Unit; "Refer hộp bên trong và xương heo"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Mục lục ảnh mẫu được dùng để chuyển đổi ảnh
+- **Meta mô tả**: Foton Aumark (Ollin) Máy hút đá: 150 PS A Kiệt Thiên Tứ,  4.085 m insulated body, GVW 4.495 t, Các lựa chọn của Thermo King/dodosteric,  and  Làm thế nào để xác định một xe tải đông lạnh để xuất khẩu.
+- **H1**: Fton Aumark verciated carrivection: Tách rời Chasis, cách ly cơ thể và bộ phận chống đông
+- **Từ khóa chính**: Số hiệu xuất khẩu đặc trưng cho xe tải đông lạnh Foton Aumark
+- **Cụm tìm kiếm phụ**: Xe tải chở bán đá ngầm Ollin. Fington Cemmins 2.8 suncritorated,  Thermo King T880 Pro truck, 4.5t xuất khẩu xe tải bán san hô, Xe tải xích Trung Quốc
+- **URL đề xuất**: /vehicles/foton-aumark-refrigerated-truck/
+- **Ý định tìm kiếm**: Hiểu được sự kiểm tra của Foton Aumark: Tách rời Chasis, tổ chức Cơ quan Quản lý và Hệ thống Bảo vệ: Một người xuất khẩu xe/một phần phải kiểm tra tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
+- **Gợi ý hình ảnh**: khung cảnh đá ngầm
+- **Văn bản ALT**: Foton Aumark 4x4 xe đông lạnh với hộp cách nhiệt, khẩu hiệu Trung Quốc
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Làm sao để xem một xe tải được giữ kín?
 
@@ -71,30 +73,30 @@ Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều h
 **Tại sao không có cái giá nào? Giá của Refer phụ thuộc rất nhiều vào hộp và đơn vị làm mát; không có 2026-09-02 đáng tin cậy nào được thu, và người ta sẽ không ước lượng được giá đó.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
 ## Nguồn và Định dạng
 

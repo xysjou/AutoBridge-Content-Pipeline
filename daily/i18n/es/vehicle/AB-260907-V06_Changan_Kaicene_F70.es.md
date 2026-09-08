@@ -1,16 +1,16 @@
 # Changan Kaicene F70: Una China-Market Body-on-Frame Pickup Referencia construida alrededor de la cama, la base de rueda y el tren de propulsión
-## SEO Metadatos
-- **SEO Título**: Changan Kaicene F70 China-Market Pickup Specs and Export Checks TENER AutoBridge
-- **Meta Descripción**: Referencia del mercado chino para la camioneta Changan Kaicene F70: estándar vs camas de larga duración, chasis corporal en marco y distribución 2WD/4WD, con figuras de remolque / carga sinverificadas deliberadamente sostenidas.
-- ** H1 **: Changan Kaicene F70: Una China-Market Body-on-Frame Pickup Referencia construida alrededor de la cama, la base de rueda y el tren de propulsión
-- **Primary Keyword**: Changan Kaicene F70 specs export
-- **Segundary Search Terms**: 长安凯程 F70; Kaicene F70 dimensiones; F70 cama larga; JE4D25 recogida diesel; exportación de recogida china; cama larga de Blue Whale
-- ** URL agregada**: /vehicles/changan-kaicene- f70/
-- **Búsqueda Intent**: 面向海外买家介绍长安凯程 F70 中国市场身份, 标轴 / 长轴货箱, 非承载底盘与四驱, 未核实拖拽 / 承载保持待证
-- **Sugerencias de Enlace Interno**: /vehicles/qingling-isuzu- kv100/, /vehicles/jmc-ford-transit- t8/, /guides/verify-chinese-car-export-supplier-history/
-- **Sugerencia de imagen**: Una camioneta de doble costra Changan Kaicene F70 mostrada de perfil lateral para mostrar su cama de carga
-- **ALT Sugerencia**: Perfil lateral de una camioneta Changan Kaicene F70 de doble costra que muestra la cama de carga en tierra neutral
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
+## Metadatos SEO
+- **Título SEO**: Changan Kaicene F70 China-Market Pickup Specs and Export Checks TENER AutoBridge
+- **Meta descripción**: Referencia del mercado chino para la camioneta Changan Kaicene F70: estándar vs camas de larga duración, chasis corporal en marco y distribución 2WD/4WD, con figuras de remolque / carga sinverificadas deliberadamente sostenidas.
+- **H1**: Changan Kaicene F70: Una China-Market Body-on-Frame Pickup Referencia construida alrededor de la cama, la base de rueda y el tren de conducir
+- **Palabra clave principal**: Changan Kaicene F70 productos de exportación
+- **Términos de búsqueda secundarios**: 长安凯程 F70; Kaicene F70 dimensiones; F70 cama larga; JE4D25 recogida diesel; exportación de recogida china; cama larga de Blue Whale
+- **URL sugerida**: /vehicles/changan-kaicene-f70/
+- **Intención de búsqueda**: Comprende Changan Kaicene F70: Una China-Market Body-on-Frame Pickup Referencia Construida alrededor de Bed, Wheelbase y Drivetrain: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugerencia de imagen**: Una camioneta de doble costra Changan Kaicene F70 que se muestra desde el perfil lateral para mostrar su cama de carga
+- **Texto ALT**: Perfil lateral de una camioneta Changan Kaicene F70 de doble costra que muestra la cama de carga en terreno neutral
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 El Changan Kaicene F70 es una camioneta de tamaño medio con cuerpo en cuerpo (no carga) que ofrece como cabina doble en dos y cuatro ruedas, con versiones estándar y de largo peso/cama incluyendo una variante de "Blue Whale" de cama larga. Para un comprador de recogida las decisiones son físicas en lugar de cosméticas: ** longitud de la cama, distancia de la rueda, transmisión y chasis**, y los números de carga/towing que deciden si el camión hace el trabajo. Esta página es una referencia **Chino-mercado**. Arregla las dimensiones que se controlan cruzadamente, nombra a las familias del motor sin marcar salidas de un solo recurso, y deliberadamente **contiene** las cifras de remolque y carga de pago ampliamente circuladas porque no se captó ninguna hoja de la misma tribuna o homologación de OEM para apoyarlas.
 

@@ -1,16 +1,16 @@
 # XCMG QY25K5C Camión Grulla (25-t Clase): China-Marco Especial-Vehículo Referencia de Exportación
-## SEO Metadatos
-- **SEO Título**: XCMG QY25K5C 25t Camión Crane Exportación Referencia: Chasis & Superestructura Guía
-- **Meta Descripción**: Referencia del mercado chino para la grúa de camión XCMG QY25K5C 25-tonne-class: cómo una grúa de camión móvil se divide en chasis de portaaviones y superestructura de elevación, su estado regulatorio en China, y los compradores de documentos de carga deben obtener.
-- ** H1 **: XCMG QY25K5C Truck Crane (25-t Class): China-Market Special-Vehicle Export Reference
-- **Primary Keyword**: XCMG QY25K5C camiones grúa export specs
-- **Segundary Search Terms**: grúa de camión XCMG QY25K5C; grúa móvil de 25 toneladas; superestructura de chasis de grúa de camiones; gráfico de carga de elevación XCMG; exportación de grúas de camiones chinos
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Intent de búsqueda**: 面向海外 B 端买家介绍 QY25K5C 中国市场版本身份, 底盘 + 上装结构 监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+## Metadatos SEO
+- **Título SEO**: XCMG QY25K5C 25t Camión Referencia de exportación de grúa: Superestructura de chasis Guía
+- **Meta descripción**: Referencia del mercado chino para la grúa de camión de XCMG QY25K5C 25-tonne-class: cómo una grúa de camión móvil se divide en chasis de portaaviones y superestructura de elevación, su estado regulatorio en China, y los compradores de documentos de carga deben obtener.
+- **H1**: XCMG QY25K5C grúas de camión (25-t clase): China-Market especial-vehículo Referencia de exportación
+- **Palabra clave principal**: XCMG QY25K5C grúas de exportación
+- **Términos de búsqueda secundarios**: XCMG QY25K5C grúa de camión; grúa móvil de 25 toneladas; superestructura de chasis de grúa de camiones; gráfico de carga de elevación XCMG; exportación de grúas de camiones chinos
+- **URL sugerida**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Intención de búsqueda**: Comprender XCMG QY25K5C Camión Grulla (25-t Clase): China-Market Especial-Vehículo Exportar Referencia: qué un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
 - **Sugerencia de imagen**: Una grúa de camión XCMG 25-tonne-class con boom telescópico extendido en un sitio de trabajo
-- **ALT Sugerencia**: grúa de camión XCMG QY25K5C-class con su boom telescópico elevado en un sitio de trabajo al aire libre
-- **Schema Scope**: Article + Vehicle
+- **Texto ALT**: XCMG QY25K5C- grúa de camión de clase con su boom telescópico elevado en un sitio de trabajo al aire libre
+- **Alcance del esquema**: Artículo + Vehículo
 
 Una grúa de camión así como XCMG QY25K5C es un vehículo con fines especiales** combinando un camión de carretera transportista (chassis) con un superestructura de elevación giratoria. Sourcing uno es diferente comprar un camión: los documentos decisivos el gráfico de carga OEM, la configuración de boom y la división entre portador y aprobaciones de grúa. Esta página identifica el QY25K5C como 25-tonne-class de XCMG máquina y explica qué debe obtenerse material oficial de XCMG deliberadamente no especificaciones de préstamo de más edad QY25E/QY25K-II modelos.
 

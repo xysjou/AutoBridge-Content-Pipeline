@@ -1,14 +1,16 @@
 # 車両輸出販売契約:実際に支払い、配送、紛争を管理する条項
-## ツイート メタデータ
-- **SEOタイトル**:車両輸出販売契約条項とリスクガイド
-- **メタ 記述**: 車両輸出販売契約には、PRC民法596の本質、インコタームズリスク移転、タイトルの保持、侵害/免責窓、紛争解決、およびアポティーユ、車両条件の開示が含まれます。
-- **混雑したURL**: /guides/vehicle-export-sales-contract-clauses/
-- H1 ホテル **: 車両輸出販売契約における主要条項: 支払い、タイトル、リスクおよび紛争
-- **主なキーワード**:車両輸出販売契約キー条項リスクタイトル
-- **二次検索条件**:タイトル輸出契約の保持、インコタームリスク譲渡車両、輸出契約違反ペナルティ、ICC仲裁車取引、アポティーユ海外文書、車両条件開示
-- **内部リンクの提案**: /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/; /guides/vehicle-pre-shipment-inspection-psi/
-- **画像提案**: 条項にリスクマップ、リスク/タイトル転送タイムライン、支払い-vs-deliveryマイルストーンチャート
-- **ALT 提案**:「輸出契約リスクとタイトル転送タイムライン」;「車両販売契約キー条項」
+## SEOメタデータ
+- **SEOタイトル**: 車両輸出販売契約条項とリスクガイド
+- **メタディスクリプション**: 車両輸出販売契約が含まれているもの - PRC 民法の規範 アール596の本質、インコタームズのリスク移転、タイトルの保持、侵害/クレームのウィンドウ、紛争解決、およびアポスティユ、プラス車載条件の開示。
+- **H1**: 車両輸出販売契約における主要条項:支払い、タイトル、リスクおよび紛争
+- **主要キーワード**: 車両輸出販売契約キー条項リスクタイトル
+- **関連検索語**: タイトル輸出契約の保持、インコタームズリスク譲渡車両、輸出契約違反ペナルティ、ICC仲裁車両取引、アポスティユ海外文書、車両条件開示
+- **推奨URL**: /guides/vehicle-export-sales-contract-clauses/
+- **検索意図**: 車両輸出販売契約におけるキークロースを理解します: 支払い、タイトル、リスクおよび紛争:車両/部品輸出業者が注文をコミットする前に確認、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **画像候補**: clause-to-riskのマップ
+- **ALTテキスト**: 輸出契約リスクとタイトル転送タイムライン
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 誰がこのために
 初めての車両輸出業者は、価格と数量だけに取引を署名し、その後、契約が完全に支払いの前にタイトルを保持する*しかし、または紛争が聞かれる場所を固定しない*henリスクパスを発見します**。 このガイドでは、これらの結果を制御する句をマップします。 PRC 民法 アール596は、CROSS_ にキャップする**秒単位の法的ポータル(FindLawなど)を通じて、ここに記述されています。 CHECKED/SINGLE_SOURCE**; VERIFIEDは、NPC/governmentソースから公式の民法テキストを必要とする。 残りは法的に実践的な統合です。 **テンプレートは法的助言ではありません。資格のある弁護士は、選択した準拠法に基づく実行契約を見直しています。 アパート
@@ -56,18 +58,18 @@ PRC民法**の**の**Article 596の下で、販売契約はカバーする必要
 **海外の書類は合法化が必要ですか?** 多くの場合、アポジユ(ハグ)または領事の合法化が必要です。契約の責任を負い、目的地のステータスを確認します。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,7 +87,7 @@ PRC民法**の**の**Article 596の下で、販売契約はカバーする必要
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | プロモーション 民法の規範 アール596 セールス契約条件 | FindLaw (法的ポータル) | CN の | 以下は、 https://www.findlaw.cn/wenda/q_60484893.html の仕様 | 2026-09-03 | CROSS_CHECKED(クロス) (二次法ポータルで引用された統計記事;NPC公式ソースではない) | 必須の契約内容 |
-| | 法的 | 営業拠点 | 以下は、 | 2026-09-03 | CROSS_CHECKED(クロス) | リスク移転、タイトル保持、条件開示 | https://m.110ask.com/fanben/601005122281423969.html 110ask
+| 法的 | 営業拠点 | 以下は | 2026-09-03 | 曇り | 曇り | CHECKED (クロス) | リスク移転 、 タイトル保持 、 条件開示 | https://m.110ask.com/fanben/601005122281423969.html 110ask
 | 購入契約コア句(breach/title/configリスト) | 66Law | CN の | 以下は、 | 2026-09-03 | CROSS_CHECKED(クロス) | LD、クレームウィンドウ、コンフィグ | https://m.66law.cn/question/56427049.aspx
 | 輸出契約 不coterms/disputes/Apostille | 貨物用材料 | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | ICC仲裁, 使徒 | https://m.11467.com/product/d43019461.htm
 * スコープノート: アール596 内容が CROSS_ 二次リーガルポータルでチェック — VERIFIED は、キャプチャされていない公式 PRC 民法 (NPC/政府) テキストを要求します。 それを検証しないでください。 タイトル予約、仲裁および使徒の執行可能性は、選択された準拠法および宛先に依存し、資格のある弁護士によって確認する必要があります。 契約モデルは構造的参照のみです。 ふりがな

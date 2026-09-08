@@ -1,14 +1,16 @@
 # 中国-西德车辆出口许可证和海关单证:出口者必须遵循的命令
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 中国车辆出口许可证和海关单证指南(2026).
-- ** 金属说明**: 中国侧式车辆出口资质认证如何运作——年度MOFCOM许可证备案,BEV客车出口许可证,废车180-day规则,报关前出口文件全链.
-- ** 提议URL**: 指南/钦那车辆-出口-许可证-海关-文件/
-- ** H1 资源需求。 **:中国-西德车辆出口许可证、资格和海关证件链
-- ** 基本关键词**:中国车辆出口许可证海关申报文件
-- ** 二级搜索术语**:中国使用汽车出口许可证,BEV出口许可证 中国, MOFCOM车辆出口备案,车辆出口文件链,180天用车出口规则
-- ** 内部链接建议**: /指南/车辆-coc-type-核准-dosier/;/指南/ev-shiping-un3171-imdg-compliance/;/指南/车辆-出口-销售-合同-说明/
-- ** 图像建议**:许可证-文件-海关流程图;文件链清单;年度申报时间表
-- ** ALT建议**: "中国车辆出口许可证通关"; "车辆出口文件链清单"
+## SEO元数据
+- **SEO标题**: 中国车辆出口许可证和海关单证指南(2026).
+- **Meta描述**: 中国侧式车辆出口资质认证如何运作——年MOFCOM号牌照备案,BEV号客车出口许可证,废车180-day规则,报关前出口文件全链.
+- **H1**: 中国-西德车辆出口许可证、合格证和海关单证链
+- **核心关键词**: 中国车辆出口许可证 报关文件
+- **次级搜索词**: 中国使用汽车出口许可证 BEV出口许可证 中国MOFCOM汽车出口备案 车辆出口文件链 180天使用汽车出口规则
+- **建议URL**: /guides/china-vehicle-export-license-customs-documents/
+- **搜索意图**: 了解中西车辆出口许可证,合格证和海关单证链:车辆/部件出口商在承诺下达订单前必须核实、记录和决定的内容.
+- **内链建议**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **图片建议**: 许可证/文件/海关流程图
+- **ALT文本**: 中国车辆出口许可证通关流程.
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 为什么此页面已存在
 大部分未完成的第一批货物在**中国方面**,而不是目的地:出口商缺乏正确的资格类别,许可证没有涵盖产品,或者文件链在申报时不一致。 本指南规定了要遵循的顺序. 其依据是中国政府文件(MOFCOM,国务院政策图书馆,MIIT);如果一项规则每年修订或具有时间敏感性,则标注而非视为永久.
@@ -57,18 +59,18 @@ MIIT 命令号 50 道路机动车辆制造商的分离  and  products into **six
 ** 安全码从何而来? ** 对照现行关税表和MOFCOM最新通知确认确切的代码和监管条件——不要结转旧代码.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf

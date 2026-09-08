@@ -1,14 +1,16 @@
 # عقود بيع تصدير المركبات: المواد التي تخضع للضوابط الفعلية للمدفوعات والتسليم والمنازعات
-## SEO Metadata
-- ** عنوان المنظمة**: " عقود بيع تصدير المركبات "
-- ** وصف البيانات**: What a vehicle export sales contract must contain — PRC Civil Code Art 596 essentials, Incoterms risk transfer, الاحتفاظ بحق الملكية، النوافذ تسوية المنازعات  and  (أبوستيل) بالإضافة إلى كشف تسليم السيارات
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/أحكام/مفردات/مقتطفات/مقتطفات
-- ** H1 **** البنود الرئيسية في عقد بيع لصادرات المركبات: المدفوعات، والسند، والمخاطر، والمنازعات
-- ** كلمة أساسية رمزية**: بنود رئيسية تتعلق بعقود بيع السيارات
-- ** شروط البحث الثانية**: الاحتفاظ بعقد تصدير سندات الملكية، ومركبات نقل المخاطر في سياق العقد، وعقوبة انتهاك عقود التصدير، وتجارة مركبات التحكيم التابعة للمحكمة الجنائية الدولية، ووثائق " أبوسيل " في الخارج، والإفصاح عن حالة المركبات
-- ** Internal Link Suggestions**: /guides/china-vecle-export-customs-documents/;guides/overseas-aftersales-parts-warranty-network/;/guides/vehicle-exporting-customs-documents/; /guides/vehicle-preshipment-inspection-psi/
-- ** اقتراحات بشأن: خريطة من بند إلى خطر؛ والجدول الزمني لنقل ورسم خريطة مرحلة الدفع
-- ** اقتراحات بشأن: " خط زمني لإحالة عقود التصدير وإحالة الملكية " ؛ " شروط رئيسية لعقد بيع المركبات "
+## بيانات SEO الوصفية
+- **عنوان SEO**: جيم - دليل المخاطر
+- **وصف Meta**: What a vehicle export sales contract must contain —  PRC  Civil Code Art 596 essentials, Incoterms risk transfer, الاحتفاظ بحق الملكية، خرق/إدعاء النوافذ تسوية المنازعات  and  (أبوستيل) بالإضافة إلى كشف تسليم السيارات
+- **H1**: (أ) المقتطفات الرئيسية في عقد بيع لصادرات المركبات: المدفوعات، والسند، والمخاطر، والمنازعات
+- **الكلمة المفتاحية الرئيسية**: شروط رئيسية تتعلق بمسألة سندات بيع المركبات
+- **مصطلحات بحث ثانوية**: الاحتفاظ بعقد تصدير سندات الملكية، ومركبات نقل المخاطر في Incoterms، وعقوبة انتهاك عقود التصدير، وICC من تجارة مركبات التحكيم، ووثائق شركة Apostille فيما وراء البحار، والإفصاح عن حالة المركبات
+- **URL المقترح**: /guides/vehicle-export-sales-contract-clauses/
+- **نية البحث**: فهم القواعد الرئيسية في عقد بيع لصادرات المركبات: المدفوعات، والسند، والمخاطر، والمنازعات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- **اقتراح الصورة**: خريطة من بند إلى خطر
+- **نص ALT**: الجدول الزمني لمخاطر عقد التصدير ونقل الملكية
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## من هذا؟
 وكثيرا ما يوقع مصدر مركبة لأول مرة اتفاقا على السعر والكم وحده، ثم يكتشف أن العقد لم يصلح أبدا عندما يمر الخطر، أو الذي يحمل سند الملكية قبل الدفع الكامل، أو عندما يُسمع النزاع. ويرسم هذا الدليل الشروط التي تحكم تلك النتائج. The PRC Civil Code ويرد هنا وصف للمادة 596 من خلال بوابات قانونية ثانوية (FindLaw etc.)، التي تقع في كروس - CHECKED/SINGLE_SOURCE؛ وسيتطلب نظام "VERIFIED " النص الرسمي للقانون المدني من مصدر تابع للحزب الديمقراطي الوطني/الحكومة. والباقي عبارة عن توليف قانوني - عملي. فالنموذج ليس مشورة قانونية - وله محام مؤهل أن يستعرض عقد التنفيذ بموجب قانونه الحاكم المختار.
@@ -20,7 +22,7 @@
 - ** للمرور العابر للمحيطات وطريقة
 - ** نسختان ملغتان**، وهى النص الذي يسود إذا كان ثنائي اللغة.
 
-## Clause Block 2 - Risk Transfer: Let Incoterms Decide it
+# Clause Block 2 - Risk Transfer: دع (إنكوي) يقرر
 - ويمر خطر ضرر وفقاً للمصطلح التجاري المهجور (يذكر نص Incoterms بشكل صريح، مثل Incoterms 2020)** - FOB, CIF/CIP, DAP, etc. Each set a different transfer point.
 - وفي حالة عدم الموافقة على مدة، ينتقل الخطر عموما إلى المشتري (أو حامله المرشح)**.
 أكتب المصطلح والنسخة على وجه التحديد: " CIF " بدون ميناء مسمّى، أو سنة غير محددة، وتدعو إلى القتال على من يتحمل الضرر العابر - التنسيق مع أدلة التأمين البحري والتحميل.
@@ -31,7 +33,7 @@
 ## كتلة القفل 4 - الإصطدام الأداء المتأخر  and  المطالبة
 - ** المبلغ في التسليم**: معدل للرسوم المصفَّاة في اليوم (يُعبر عنه في كثير من الأحيان في كل ميل، ثيل، في اليوم) مع فترة متأخرة جداً يمكن بعدها إنهاء العقد**.
 - ** مطالبات تتعلق بالملكية:** تحدد فترة التفتيش ** ونافذة المطالبة** بعد الوصول؛ وبدون نزاع متأخر يصبح هو الشخص الذي ذكره/المقدم. ربط النافذة بجهاز الاستخبارات الأمنية وكشف واقعي عن المرور العابر ضد الضرر الذي كان قائماً من قبل.
-- Define **remedy hierarchy** (rectify. replace. refund) and who bears return/shipping cost in each case.
+- تحديد التسلسل الهرمي للتمريض** (التحقق). ابدلي ويتحمل تكاليف العودة/الشحن في كل حالة.
 
 ## Clause Block 5 — Vehicle-Condition Disclosure (fraud prevention)
 Disclose material facts truthly: **version/configuration, software version, and any accident/flood history, odometer adjustment, or encumbrance/mortgage**. وعدم الكشف عن هذه المطالبات هو مصدر متواتر للمطالبات المتعلقة بالغش - وهو يتفاعل مع مبادرة الأمن والتعاون في أوروبا، التي ينبغي أن تثبت الشرط المفصح عنه. بالنسبة للسيارات الإلكترونية، يكشف عن معلومات عن درجة التثبيت التي يعرفها البائع.
@@ -56,17 +58,17 @@ Disclose material facts truthly: **version/configuration, software version, and 
 ** هل تحتاج وثائق ما وراء البحار إلى إضفاء الشرعية؟** غالباً ما يكون هناك طلب قانوني أو قنصلي، مسؤولية الدولة في العقد والتحقق من وضع المقصد
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
@@ -85,7 +87,7 @@ Disclose material facts truthly: **version/configuration, software version, and 
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | PRC Civil Code Art 596 sales-contract terms | FindLaw (legal gate) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | صرخات (المادة الكاملة التي استشهد بها عن طريق بوابة قانونية ثانوية؛ وليس مصدرا رسميا للناقلات النووية) | محتويات العقد الأساسي |
-| نموذج عقد بيع المركبات التصديرية (احتفاظ | قانوني | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | صرخات | نقل المخاطر؛ الاحتفاظ بحق الملكية؛ الكشف عن الشروط | 110ask
+|ки прими | | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | | | اتки  الكشفми  الكشفми  الشروط110ask.
 | الشروط الأساسية لعقد الشراء (قائمة الاتصال/الملكية/الملكية) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | صرخات | LDs, claim window, form annex |
 | عقد التصدير Incoterms/disputes/Apostille | المواد المستعجلة | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE OURCE | Incoterm versioning, ICC arbitration, Apostille |
 * ملاحظة: محتوى المادة 596 هو "كروس" ويقتضي " CHECKED " ، عن طريق بوابة قانونية ثانوية فقط، النص الرسمي للقانون المدني لحزب العمال التقدمي (NPC/government) الذي لم يُقبض عليه؛ ولا يُصنفه على أنه " متكرر ". وتتوقف إمكانية إنفاذ التحفظ على الملكية والتحكيم والسجن على القانون الحاكم المختار والمقصد، ويجب أن يؤكدها محام مؤهل. ونماذج العقود هي إشارات هيكلية فقط. ♪

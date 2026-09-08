@@ -1,15 +1,17 @@
 # Changan UNI-V 2024 — ไชน่า-มาร์เก็ต สปีดแบค ซีดาน: เครื่องยนต์, ทริมส์ และ เอ็กซ์โปลิส โน้ตเสียง
 
-## เชา ข้อมูลกํากับภาพ
-- <EO ชื่อเพลง ~: Changan-VI- 2024 Spects: 1.5T/2.0T Friad back Sedan ไกด์ส่งออก
-- ""คําอธิบาย" 2024 Changan UNI-V China reference specs — Blue Whale 1.5T (138 kW)  and  2.0T (171 kW) พ.ศ. 7DCT/8AT (พ.ศ. เชื้อเพลิง WLTC ขนาด  and  ผู้ซื้อชี้ตัวผู้นําเข้า
-- ~ที่อยู่ URL ที่ถูกย่อ: ชาแกน-อูนี-วี/
-- **H1**: เชียง UNI-V 2024 (จีน:):):):):):):):):):):):):):):):):):): (พ.ศ. เครื่องยนต์ ความแตกต่างของทรอม และสิ่งที่ผู้นําเข้าควรตรวจสอบ
-- ~คําสําคัญต่าง ๆ ~: เชียง UNI-V 2024 ข้อกําหนดการส่งออก
-- ~การค้นหาโดยย่อ~: เชียงอิน-ยูเอ็นไอ-V 1.5T ปลาวาฬสีน้ําเงิน, ยูเอ็นไอ-V 2.0T 8AT, ยูเอ็นไอ-V เชื้อเพลิง WLTC, เชียงอัน สปีดแบ็คซีซีส่งออกประเทศจีน~
-- ~ ลิงก์ภายในที่แนะนํา~: Guides/ right-dwives-chin-cars guides/vin-chides/vin-chin-dmidmio.
-- ** เคล็ดลับ ~: โพรไฟล์ด้านหลัง แสดงผลแนวหลังแบบเร่งความเร็ว; เครื่องยนต์ 1.5T; 1.5T vs 2.0T สเปกตรัม; ด้านหลังเครื่องทําลาย; กระท่อม
-- ~~~~~~~~~ ข้อเสนอแนะ: " 2024" Changan UNI-V accessed accessed CUV โพรไฟล์ด้านซีดาน สเปก;"Changan Blue Vale NE 1.5T เครื่องยนต์"UNI-V 1.5T กับ 2.0T ตารางเฉพาะ"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Changan UNI-V 2024 Specs: 1.5T/2.0T Friadback Sedan Explish
+- **คำอธิบาย Meta**: 2024 Changan  UNI-V  China reference specs — Blue Whale 1.5T (138 kW)  and  2.0T (171 kW) พ.ศ. 7DCT/8AT (พ.ศ. WLTC เชื้อเพลิงที่ใช้ ขนาด  and  ผู้ซื้อชี้ตัวผู้นําเข้า
+- **H1**: เชียง UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของทริม และสิ่งที่ผู้นําเข้าควรตรวจสอบ
+- **คีย์เวิร์ดหลัก**: แชงอัน UNI-V 2024 ข้อกําหนดส่งออก
+- **คำค้นหารอง**: เชียง UNI-V 1.5T ปลาวาฬสีน้ําเงิน UNI-V 2.0T 8AT, UNI-V WLTC การบริโภคเชื้อเพลิง, เชียงอันส่งส่งออกรถซีดานกลับอย่างรวดเร็วประเทศจีน
+- **URL ที่แนะนำ**: /vehicles/changan-uni-v/
+- **เจตนาการค้นหา**: เข้าใจ changan UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของไทรม และสิ่งที่ผู้นําเข้าควรตรวจสอบ: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
+- **คำแนะนำรูปภาพ**: โพรไฟล์ด้านที่แสดงแนวแถวหลังแบบเร็ว
+- **ข้อความ ALT**: 2024 Changan UNI-V คอมแพ็กซีดานแบบเร่งความเร็วด้าน สเปกจีน
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## รถ คัน นี้ คือ อะไร?
 
@@ -21,7 +23,7 @@
 
 | แพลนโทรล | กลไก | พลัง แรงบิด | การส่ง | ความเร็วสูงสุด | WLTC ผนวกเชื้อเพลิง |
 |---|---|---|---|---|---|
-| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); พ.ศ. 6.2 (高能版) (พ.ศ. |
+| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 6.2 (高能版) (พ.ศ. ○
 | 2.0T | เทอร์โบ L4 เครื่องสูบน้ํา | 171 kW (233 PS) 390 N·m | 8-speed กังหันลม-เครื่องหมุนอัตโนมัติ (8AT). | 215 km/h | 6.9 L/100 km |
 
 สีฟ้า 1.5T ตัวเลขปลาวาฬและ 7DCT เปิดใช้งาน ร่วมกับเว็บไซต์ของเชียง และตรงกับฐานข้อมูลรถ 2.0T ผลผลิต 8AT และเชื้อเพลิงของสารนี้ คือ CROSS_CHECEEED ไปทั่ว PCUTO และ Auto Home. หมายเหตุที่แยกชุดเกียร์: 1.5T ใช้คู่น้ําเปียก ในขณะที่ 2.0T ใช้แบบทั่วไป 8-speed อัตโนมัติ — ความแตกต่างที่มีความหมายสําหรับผู้ซื้อเรือโดยสารที่ชอบความยืดหยุ่นแบบหมุนตัวแบบหมุน และบางอย่างที่จะระบุอย่างชัดเจนในลําดับการสั่งซื้อแทนการสมมุติ "อัตโนมัติหมายถึง เกียร์เดียวกัน".
@@ -78,30 +80,30 @@
 ~ฉันพอจะเดาได้ว่ารถจีนนี่ตรงกับมาตรฐานการปล่อยก๊าซของประเทศของฉันได้ไหม~ ไม่ — การ ถ่าย เลือด, ระดับ เชื้อ เพลิง และ รับประกัน ต้อง มี การ ตรวจ สอบ สําหรับ ตลาด แห่ง หนึ่ง ก่อน จะ สั่ง.
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 
@@ -110,7 +112,7 @@
 | UNI-V 高能版 หน้าอย่างเป็นทางการ | รถอัตโนมัติเชียง (ใช้ได้) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | เปิดใช้งาน | ช่วงของขนาด, 2750 mm ล้อล้อ, แทร็ก |
 | UNI-V 2nd-gen หน้าอย่างเป็นทางการ | รถอัตโนมัติเชียง (ใช้ได้) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | เปิดใช้งาน | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
 | 2024 1.5T 尊贵型 configuration | ออโต้โฮม (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | ROOS_ CHCKED | 1.5T การแสดงผล, 4720 mm ความยาว, WLTC 6.37 |
-| 2024 ตารางการปรับแต่ง UNI-V | PCauto (太平洋汽车). | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ROOS_ CHCKED | 2.0T 171 kW 390 N·m (พ.ศ. 8AT (พ.ศ. การใช้เชื้อเพลิง ราคาในประเทศ |
+| 2024 ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ิ ก ก ก ก ิ ิ ิ ิ ิ ิ ิ ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ROOS_ CHCKED | 2.0T 171 kW 390 N·m (พ.ศ. 8AT (พ.ศ. ก | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | หน้าสเปกตรัมของ UNI-V | ปรับแต่งค่าบ้านอัตโนมัติ | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | น้ําหนักของเส้นโค้ง (แหล่งกําเนิด) |
 | รายงานการเปิดตัวใหม่ของ UNI-V | ไอโอเชิน ออโต้ (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | ROOS_ CHCKED | หยุดชั่วคราว MacPherson/Multi-link, ไดรฟ์เทรน |
 

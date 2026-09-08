@@ -1,14 +1,17 @@
 # BD Qin บวก DM-I สถาปัตยกรรม PhEVE แบตเตอรีสองรุ่น  and  Check ของส่งออก
-## เชา ข้อมูลกํากับภาพ
-- "The SEO THEO" (in) "DGI+ DM-I" (PDF). PEV: คู่มือสําหรับผู้ใช้สองรุ่น & ส่งออก
-- ""คําอธิบาย" BYD Qin Plus DM-i explained for importers — how the 1.5L engine, มอเตอร์ไฟฟ้า  8.32/18.32 kWh battery, อักขระ E- CVT  and  โหมดปฏิบัติการรวมกัน  and  ทําไม 55 vs 120 จึงต้องแก้ไขโดย VIN
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/ไบ๊ด-ชิน-เอ็สบวก-ดีมี/
-- **H1**: ขนาดไบต์ บวกอิน ดีเอ็ม-ไอ: PEVE Powerrenter, ความแตกต่าง รุ่นและสิ่งที่ผู้นําเข้าต้องยืนยัน
-- ~คําสําคัญ~ ไบต์ Qin บวก DM- i ถูกกําหนดให้ส่งออก
-- ~การค้นหาโดยย่อ ~: จิน บวก DM-i 55 vs 120, ByD DM-I ไมโครลูกผสม (in) QI+ 18.32 kWh, QI+ DM-i PhEV NEDC WLTC, ส่งออก SOCKS ของจีน PHEV
-- ** เชื่อมโยงภายใน **: vehines/byd-uan-+/;////guides/chinishs-chines-chinishing-compatition/;/////guides/commercial-rangecation-china/
-- ** เคล็ดลับการนําเข้า ~: โพรไฟล์สีซีดาน; 55 vs 120 รุ่นใหม่; DM-i เครื่องยนต์ + motor+E-CVT planguage; พอร์ตชาร์จ; ที่นั่งหลัง
-- เคล็ดลับ: "BAD Qin บวก DM-i เสียบปลั๊กซีดานลูกผสม" " 55km กับ 120km แบตเตอรี่เปรียบเทียบ". "BED DM-Hri secy-Hi powerraft partraft".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: BYD  Qin Plus  DM -i  PHEV : คู่มือการส่งออกของแบตเตอรีสองรุ่น
+- **คำอธิบาย Meta**: BYD ซิน บวก DM - i อธิบายว่าผู้นําเข้า คือเครื่องยนต์ 1.5L มอเตอร์ไฟฟ้า  8.32/18.32 kWh battery, E- CVT   and  โหมดปฏิบัติการรวมกัน  and  why 55 vs 120 must be fixed by  VIN .
+- **H1**: BYD Qin บวก DM - ผม: PHEV กรมพาวเวอร์เทรนต์ รุ่นที่แตกต่าง และสิ่งที่ผู้นําเข้าต้องยืนยัน
+- **คีย์เวิร์ดหลัก**: BYD Qin บวก DM ส่งออกไปยังบริการ ICC
+- **คำค้นหารอง**: Qin Plus  DM -i 55 vs 120, BYD DM -ฉันเสียบลูกผสม จินบวก 18.32 kWh Qin บวก DM - ผมต่างประเทศ/ตลาดบาเรน   PHEV   NEDC   WLTC  range, ส่งออกเป็น PNG แบบ September PHEV ภาษาจีน
+- **URL ที่แนะนำ**: /vehicles/byd-qin-plus-dmi/
+- **เจตนาการค้นหา**: เข้าใจ BYD Qin บวก DM - ผม: PHEV Powerrentrence, รุ่นที่แตกต่าง และสิ่งที่นําเข้าต้องยืนยัน: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
+- **คำแนะนำรูปภาพ**: โพรไฟล์สีซีดาน
+- **ข้อความ ALT**: BYD ชิน บวก DM - รถซีดานลูกผสมเสียบ
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
+
 ## ทําไม ดีเอ็ม ไอ ต้องได้รับการกําหนดเป็นระบบ
 Kin บวก DM-i เป็นรถลูกผสมแบบติดอันดับ (POEV) ทั้งรถอีวีทั้งรถน้ํามันทั่วไป DM-i ของไบดี เป็นระบบอนุกรม-พาราอัล: เครื่องยนต์ที่ปรับให้มีประสิทธิภาพน้อย ** 1.5L ตามธรรมชาติ ** มอเตอร์ขับเคลื่อน ** แบตเตอรี่ไฟฟ้า เครื่องยนต์ไฟฟ้า LFP และ ATF-CVT ** รถวิ่งบนไฟฟ้าที่ทําได้ และใช้เครื่องยนต์ส่วนใหญ่สําหรับรุ่นที่มีประสิทธิภาพ และความช่วยเหลือความเร็วสูง เพราะอย่างนั้น สั่งซื้อต้องแก้ไขสี่สิ่งด้วยกัน — ขนาดแบตเตอรี่ รุ่นไฟฟ้าเท่านั้น การแสดงผลของมอเตอร์  and  พฤติกรรมของปฏิบัติการ "A Qin Plus DM-i" โดยไม่มี 55/120 ชื่อไม่ชัดเจน หน้านี้สีเขียวครอบคลุม **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: คราง) ~ BD ยังนําเสนอ AN-//////////N บวก DM-i-ในหน้าตลาดต่างประเทศ สเป็กส์ของทางราชการส่วนนั้น ควบคุมรถพวกนั้น กฎของผู้ใช้: ~ ตัวแปรต่าง ๆ มีชื่อว่า BD PhEV ถูกปฏิบัติเป็นแบบจําลองที่เกี่ยวกับ * ไม่เหมือนกัน เว้นแต่ BD จะระบุชื่อ นามแฝงออกมาอย่างชัดเจน เช่น แชร์, พลังอํานาจ หรือ การปรากฏตัวไม่ใช่ข้อพิสูจน์ของเดียวกัน_ ฟิล์ม MDL
 ## สอง ฉบับ ข้าง ๆ
@@ -45,39 +48,39 @@ Parter เว็บไซต์รายการ 55 และ 120 แถว แ
 **Is 1245 km electric range?** No — it is a combined fuel+battery Chinese figure; กระแสไฟฟ้าอย่างเดียวคือ 120 km NEDC
 ~ขายไปต่างประเทศหรือเปล่า~ BD นําเสนอ Qin บวก DM-i ในหน้าตลาดต่างประเทศที่เลือกไว้ ใช้แผ่นประกาศปลายทางอย่างเป็นทางการ แผ่นชื่อใด ๆ ที่มีการส่งออกต้องยืนยันแบบไบดีโดยตรง — ภาพถ่ายแบบ BD ที่มีลักษณะคล้ายคลึงกัน ไม่ได้ถูกสันนิษฐานกันว่าเป็นแบบเดียวกัน
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| ByD QN PLUS DM-i หน้าอย่างเป็นทางการของภูมิภาค (N-bh=เว็บไซต์ประเทศบาเรน) | BD (ประกาศการ) | ส่งออก ~ บาห์เรน (หน้าซ้ํา; ไม่ใช่ UAE) ~ | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ~ ISFIIIE (scope: this name Cin บวก DMi เท่านั้น] ~ * | 18.3 kWh ฝูง เพิ่มขึ้น 197 hp 145 kW 7.3 เอส สําหรับชื่อ Qin บวก DM-i |
-| การปรับแต่งเกียรตินิยม 55/120 ฉบับ | ออโต้โฮม (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ROOS_ CHCKED | ขนาด 1.5L 81 kW (พ.ศ. 132 kW มอเตอร์ (พ.ศ. E-CVT ช่วง |
-| เปิดตัวครั้งแรก รายละเอียด | บ้าน เช จิ อา อู | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ROOS_ CHCKED | 145 kW 325 N·m 18.32 kWh ยกมาอ้างอิงรวม (พ.ศ. |
+○ ไบดีคิวเอ็น ฟิวส์ ดีเอ็ม-ไอ ห ้า ้า/้า/อ/อ/บ/บ ย ย น น รข รข อ อ อ อ อ อ/ม/ภ/ภ/ภ/b เ  ~  ~  ~ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ  ~  ~  ~  ~  ~  ~ บ บ บ บ บ บ บ บ บ า บ า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ไม่ใช่ UAE) ~ | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ~ ISFIIIE (scope: this name Cin บวก DMi เท่านั้น] ~ * | 18.3 kWh ฝูง เพิ่มขึ้น 197 hp 145 kW 7.3 เอส สําหรับชื่อ Qin บวก DM-i |
+| การปรับแต่งเกียรตินิยม 55/120 ฉบับ | ออโต้โฮม (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ROOS_ CHCKED | ขนาด 1.5L 81 kW (พ.ศ. 132 วัตต์ (PDF) จึงมีดอกบัว 10100 ร38, (พ.ศ. E-CVT ช | | | | | | |
+| เปิดตัวครั้งแรก รายละเอียด | บ้าน เช จิ อา อู | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ROOS_ CHCKED | 145 kW 325 N·m 18.32 kWh ยกมาอ้างอิงรวม (พ.ศ. ○
 | ปรับแต่งค่า QIn+ | เอ็กซ์คาร์ (爱卡) พีสโญโต กัวซิ | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | ROOS_ CHCKED | น้ําหนักเส้นโค้ง, เบสล้อ, NEDC/WLTC, แบตเตอรี่ |
-| 汽车之家 (车家号) 秦 พลโท DM-i 荣耀版上市 (พ.ศ. | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 汽车之家 (车家号 ) 秦 พ พ พ ล โ โ โ โ โ ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท 荣耀版上市 荣耀版上市 荣耀版上市 ท ท 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
 | 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 轴距 2718mm、油耗、0-100 加速 |
 

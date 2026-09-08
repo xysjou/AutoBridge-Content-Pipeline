@@ -1,15 +1,17 @@
 # CKD/SKD Zusammenbau von Knockdown Export und Übersee — Modell, Klassifizierung und Einhaltung
 
-## SEO Metadaten
-- **SEO Titel**: CKD/SKD Knockdown Kit Export und Overseas Assembly: Klassifizierung und Compliance
-- **Meta Description**: Wie CKD SKD Fahrzeug-Kit-Export funktioniert: Klassifizierung auf der Grundlage des Harmonisierten Systems, warum Bestimmungszoll lokale Montage Behandlung ist länderspezifisch, und was ein chinesischer Exporteur vor dem Versand Kits überprüfen muss.
-- ** H1 **: CKD/SKD Knockdown Export and Overseas Assembly — Modell, Klassifizierung und Konformität
-- **Hauptschlüsselwort**: ckd skd knockdown kit export-montage
-- **Secondary Search Terms**: CKD SKD Export; Knockdown Kit; Übersee Montage; GRI 2 (a) nicht montiert; lokaler Montagetarif
+## SEO-Metadaten
+- **SEO-Titel**: CKD/SKD Knockdown Kit Export und Overseas Assembly: Klassifizierung und Compliance
+- **Meta-Beschreibung**: Wie der Export von CKD/SKD Fahrzeugbausätzen funktioniert: Klassifizierung auf der Grundlage des Harmonisierten Systems, warum die Behandlung von Bestimmungstarifen / lokaler Montage länderspezifisch ist und was ein chinesischer Exporteur vor dem Versand von Bausätzen überprüfen muss.
+- **H1**: CKD/SKD Zusammenbau von Knockdown Export und Übersee — Modell, Klassifizierung und Einhaltung
+- **Haupt-Keyword**: ckd skd knockdown kit export assembly
+- **Sekundäre Suchbegriffe**: CKD SKD Ausfuhr; Knockdown-Kit; Montage im Ausland; GRI 2 a nicht montiert; örtlicher Montagetarif
 - **Vorgeschlagene URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Search Intent**: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
+- **Suchabsicht**: Verstehen CKD/SKD Knockdown Export und Übersee Montage - Modell, Klassifizierung und Konformität: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **Bildvorschlag**: Eine realistische, dokumenten- / fahrzeugorientierte Szene, die CKD/SKD Knockdown Export and Overseas Assembly - Modell, Klassifizierung und Konformität, keine inszenierte Inspektion oder Personen beansprucht.
+- **ALT-Text**: Nahe, natürliche Sicht auf Materialien und das Thema im Zusammenhang mit CKD/SKD Knockdown Export und Übersee Montage - Modell, Klassifizierung und Komplett, neutraler Hintergrund, keine Personen oder Inspektionsmaßnahme gezeigt.
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Review)
 
 ## Was CKD und SKD in einer Sourcing-Entscheidung bedeuten
 Ein **SKD (halbgeknocked down)**-Kit versendet teilweise zusammengebaute Module; ein **CKD (komplett geknocked down)**-Kit versendet einen volleren Satz von Komponenten für die lokale Montage. Beide ersetzen einen Export eines Fertigfahrzeugs durch ein Modell für Teile und Montage, in der Regel, um die örtlichen Montagerichtlinien zu erfüllen. Die kommerzielle Berufung ist real, aber das rechtliche tarifäre Ergebnis wird von der **Zielzollbehörde** entschieden, nicht vom chinesischen Exporteur, der eine Sendung mit der Aufschrift "CKD" kennzeichnet.
@@ -37,7 +39,6 @@ Diese Seite behauptet absichtlich **nicht ** eine universelle CKD/SKD-Definition
 **Kann ein Kit-Design in jedem Markt funktionieren? ** Nein — die Einstufungs- und Montagebedingungen sind länderspezifisch.
 **Was soll die Stückliste tun?** Weisen Sie jedem Bauteil vor der Klassifizierung eine HS-Linie, einen Ursprung und einen Wert zu.
 
-
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
@@ -56,18 +57,18 @@ Diese Seite behauptet absichtlich **nicht ** eine universelle CKD/SKD-Definition
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
 ## Bildaufzeichnung
-- **IMAGE_ASSET_PATH**: keine gesicherte im Repository
-- **ORIGINAL_IMAGE_URL**: nicht erfasst
-- **SOURCE_PAGE**: nicht erfasst
-- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- **RIGHTS_HOLDER**: nicht bestätigt
-- **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exakte CKD/SKD Knockdown Export and Overseas Assembly
-- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
+- **MODEL_TOPIC_MATCH**: exact CKD/SKD Knockdown Export and Overseas Assembly
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
-- **ALT (12 Sprachen)**:
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -80,6 +81,5 @@ Diese Seite behauptet absichtlich **nicht ** eine universelle CKD/SKD-Definition
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

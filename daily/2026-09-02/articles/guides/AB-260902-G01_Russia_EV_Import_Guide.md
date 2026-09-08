@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Import a Chinese EV to Russia: EAEU Type Approval & Customs Path
 - **Meta Description**: The Russia/EAEU conformity route for a Chinese EV — TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS under the regulation, EPTS, the China 2026 export-licence rule, and exactly what to confirm before paying.
-- **Suggested URL**: /guides/import-chinese-ev-to-russia-eac-ottc/
 - **H1**: How a Chinese Electric Vehicle Clears Russia / the EAEU: Conformity Route and Customs Paperwork
 - **Primary Keyword**: import Chinese EV to Russia EAEU OTTC SBKTS customs
 - **Secondary Search Terms**: TR CU 018/2011 wheeled vehicles, EAEU vehicle type approval, SBKTS single vehicle certificate, ERA-GLONASS requirement, EPTS electronic passport, China EV export license 2026
+- **Suggested URL**: /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Search Intent**: Understand How a Chinese Electric Vehicle Clears Russia / the EAEU: Conformity Route and Customs Paperwork: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: OTTC-versus-SBKTS route diagram; EAC conformity mark; ERA-GLONASS terminal and SOS button; document-name consistency flow
-- **ALT Suggestions**: "EAEU OTTC versus SBKTS vehicle certification routes"; "EAC conformity mark"; "documents that must name the same importer and VIN"
+- **Image Suggestion**: OTTC-versus-SBKTS route diagram; EAC conformity mark; ERA-GLONASS terminal and SOS button; document-name consistency flow
+- **ALT Suggestion**: EAEU OTTC versus SBKTS vehicle certification routes
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## The Actual Problem for a B2B Importer
 A Chinese EV reaches a Russian buyer only after three things line up: a **valid EAEU conformity document**, an **emergency-call provision accepted for registration**, and a **customs/document package whose legal entities are reconciled across the conformity certificate, the importer of record and the invoice**. In practice, shipments most often run into trouble when those documents name different parties, or when a per-unit certificate is expected to behave like a batch type approval. This is presented as a procurement risk-control step; the precise legal-entity requirements for a given route should be confirmed with the accredited body and a customs broker. This guide is specific to **Russia within the Eurasian Economic Union (EAEU)**; it is not a generic "CIS" statement, and it deliberately separates regulation that is settled from cost/process points that change and must be confirmed live.
 ## The Settled Backbone: TR CU 018/2011

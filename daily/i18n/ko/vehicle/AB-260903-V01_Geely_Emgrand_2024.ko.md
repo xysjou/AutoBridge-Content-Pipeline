@@ -1,14 +1,16 @@
 # Geely Emgrand (4th Gen) 2024: 수출용 중국 시장 진입 세단 사양 시트
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide
-- **마타 기술 **: 중국 시장 4th-generation Geely Emgrand 2024 - 1.5L 93 kW 엔진, 5MT/CVT, 치수, 4th-gen 대 새로운 5th-gen 구별, 그리고 어떤 수입자는 주문하기 전에 확인해야합니다.
-- **Suggested URL**: /vehicles/geely-emgrand/
-- ** H1 **: 게리 에그드 2024 (4th 세대): 중국 시장 사양 및 수출 검사
-- ** 출원 키워드 **: geely emgrand 2024 specs 수출
-- **세컨드 검색 조건**: Geely Emgrand 1.5L CVT, 4th 세대 Emgrand 차원, 중국 입장 세단 수출, Geely Emgrand 93kW의 Emgrand 모형 년 다름
-- ** 내부 링크 제안**: /vehicles/changan- cs75-plus/; /guides/vehicle-coc-type-approval-dosier/; /guides/container-vehicle-loading-lashing/
-- ** 이미지 제안**: front three-quarter of 4th-gen Emgrand; 5MT 대 CVT 구동 주; 후방 좌석 및 시동 공간; 엔진 베이 1.5L 배지
-- **ALT 제안**: "Geely Emgrand 네 번째 세대 1.5L 세단"; "Emgrand 2024 치수 및 휠베이스"
+## SEO 메타데이터
+- **SEO 제목**: Geely Emgrand 2024 (4th Gen) 사양 및 수출 구매자 가이드
+- **메타 설명**: 중국 시장 4th-generation Geely Emgrand 2024 - 1.5L 93 kW 엔진, 5MT/ CVT, 치수, 4th-gen 대 새로운 5th-gen 구별, 그리고 어떤 수입자는 주문하기 전에 확인해야합니다.
+- **H1**: Geely Emgrand 2024 (4th 세대): 중국 시장 사양 및 수출 검사
+- **주요 키워드**: geely emgrand 2024 specs 수출
+- **보조 검색어**: Geely Emgrand 1.5L CVT, 4th 세대 Emgrand 차원, 중국 입장 세단 수출, Geely Emgrand 93kW의 Emgrand 모형 년 다름
+- **추천 URL**: /vehicles/geely-emgrand/
+- **검색 의도**: Geely Emgrand 2024 (4th 세대): 중국 시장 사양 및 수출 검사: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **이미지 제안**: front three-quarter of 4th-gen Emgrand
+- **ALT 텍스트**: Geely Emgrand fourth generation 1.5L sedan
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## Buyer Context: 핀 세대를 핀 가격
 Emgrand는 Geely의 고량 컴팩트한 술집과 가격 감지 된 엔트리카 시장을 위한 자연 후보입니다. importer의 함정은 세대입니다: 이 페이지는 ** 4th-generation 2024 중국 시장 자동차 (지역 시장: 중국)**,  while an **all-new 5th generation launched in China in November 2025** with a longer body, 더 긴 축축  and  낮은 시작 가격. 5th-gen 차원에 대한 2024 단위 할당 - 또는 부버 -이 명찰에 단일 가장 일반적인 순서 오류입니다. ** 중국 시장 참조 사양**로 각 숫자를 치료하십시오. 대상 시장 엔진 조정, 배출 단계 및 장비는이 시트에 의해하지 않는 지역 균질화에 의해 지배된다.
@@ -54,42 +56,42 @@ ICE 자동차용 수출업체의 질문에 집중 **엔진 기어 박스 선택,
 ** 강력한 1.5L ** 93 kW (약 127 PS) 중국 참조 시트에 127 N·m; 정확한 트림을 확인합니다.
 
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu 자동차 데이터베이스 | 담당자: Mr. wang | https://db.m.auto.sohu.com/trim_173890 경우 | 2026-09-03 | CROSS_체크 | 차원, 축거, 좌석, 가격 참고 |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu 자동차 데이터베이스 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_체크 | 차원, 축거, 좌석, 가격 |
 | 2024 Emgrand core config (93 kW, 5MT/CVT) 의 | Xcar 토우티아오 미디어 | 담당자: Mr. wang | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_체크 | 1.5L 93 kW의 전송 |
-| Emgrand 멀티 버전 매개 변수 비교 | Dongchedi 데이터베이스 | 담당자: Mr. wang | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_체크 | 축거, 버전, 국내 MSRP (TIME_SENSITIVE) (주) |
-| 5th-generation Emgrand launch (generational boundary) | 중국 경제 Net (공식 미디어) | 담당자: Mr. wang | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml 자동 | 2026-09-03 | TIME_SENSITIVE(주) | 5th-gen 크기 휠베이스 가격; 세대를 구별 |
+의논문 ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENGINEER ENG ENG ENGINEER ENG ENG ENG ENGINEER ENGINEER ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG ENG 담당자: Mr. 광 | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_체크 | 시가, 버전, 국내 MSRP (TIME_SENSITIVE) |
+| 5세대 중국 경제망(주) | 중국 경제망(주) 담당자: Mr. wang | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml 자동| 2026-09-03 | TIME_SENSITIVE(주) | 5위(주) 으로
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
 
 *Confidence 참고: no OEM primary spec sheet was captured for this model; 그림은 중국 데이터베이스 중계 값을 가로 질러 봅니다. 127 N·m 토크는 단일 소스입니다. 국내 가격과 5th-generation 출시는 시간 감지입니다. 목적지 균질화 및 수출 specs는 VIN를 위해 확인되어야 합니다. ****************************************************************************************************************************************************************************************************************************************************************
 

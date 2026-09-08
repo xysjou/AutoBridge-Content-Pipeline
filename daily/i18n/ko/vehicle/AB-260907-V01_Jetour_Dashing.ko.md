@@ -1,16 +1,16 @@
 # Jetour 대시 (Dasheng): 중국 시장 컴팩트 SUV 참조 세 개의 파워 트레인 Kept Apart
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: Jetour Dashing (Dasheng) 중국 시장 사양 및 수출 구매자 확인 | AutoBridge
-- ** Meta Description**: Jetour Dashing (Dasheng) 컴팩트 SUV 용 중국 시장 참조: 2024 대 2025 치수, 1.5T, 1.6T 및 1.5TD 파워 트레인 분리 유지, 해외 구매자를위한 VIN 레벨 체크.
-- ** H1 **: Jetour 대시 (Dasheng): 중국 시장 컴팩트 SUV 참조 세 개의 파워 트레인 Kept Apart
-- ** 출원 키워드**: Jetour Dashing Dasheng 수출 specs
-- ** 보조 검색 조건 **: Jetour Dashing 차원; 捷途大圣; Jetour Dashing 1.6T 7DCT; 중국 소형 SUV 수출; Dasheng 2025 1.5TD
-- **Suggested URL**: /vehicles/jetour-dashing/
-- ** 수색 **: 面向海外 B 端买家介绍捷途大圣中国市场身份, 2024/2025 尺寸与三套动力的版本边界及采购核验
-- ** 내부 링크 제안**: /vehicles/changan-kaicene- f70/, /guides/verify-chinese-car-export-supplier-history/, /차량/동풍-에올루스-유잔/
-- ** 이미지 제안**: A Jetour Dashing compact SUV shown from front three-quarter on a neutral background
-- ** ALT 제안**: Front three-quarter view of a Jetour Dashing compact SUV on a neutral studio background
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+- **메타 설명**: Jetour Dashing (Dasheng) 컴팩트 SUV: 2024 대 2025 크기, 1.5T, 1.6T 및 1.5TD 파워 트레인 분리 유지, VIN - 해외 구매자를위한 레벨 체크.
+- **H1**: Jetour 대시 (Dasheng): 중국 시장 컴팩트 SUV 참조 그 세 파워 트레인 Kept Apart
+- **주요 키워드**: Jetour Dashing Dasheng 수출 specs
+- **보조 검색어**: Jetour 돌진 차원; 捷途大圣; Jetour 돌진 1.6T 7DCT; 중국 소형 SUV 수출; Dasheng 2025 1.5TD
+- **추천 URL**: /vehicles/jetour-dashing/
+- **검색 의도**: Jetour Dashing (Dasheng)에 대한 이해: 중국 시장 콤팩트 SUV 참조 그 세 파워 트레인 Kept Apart: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/changan-kaicene-f70/, /guides/verify-chinese-car-export-supplier-history/, /vehicles/dongfeng-aeolus-yixuan/
+- **이미지 제안**: A Jetour Dashing compact SUV shown from front three-quarter on a neutral background
+- **ALT 텍스트**: Front three-quarter view of a Jetour Dashing compact SUV on a neutral studio background
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 Jetour Dashing, Dasheng (大圣)로 중국에서 판매하는,  is the compact five-seat SUV Chery's Jetour brand positioned around bold crossover styling. 중국에서 해외 구매자 sourcing를 위해 중앙 훈련은 버전 통제입니다: 선은 2024 및 2025 모델 년을 경작하여 다른 신체 치수와 세 가지 독특한 휘발유 파워 트레인을 갖는다. 그리고 년과 엔진없이 "대시"라고 말하는 인용은 주변입니다. 이 페이지는 ** 중국 시장 참고 ** - 그것은 글로벌 사양 시트가 아니며, 모든 수출 시장 대시는 별도로 증거해야합니다. 그림은 OEM 정확한 심판보다 오히려 단일 독립 소스에 나머지, 그것은 정착 된 것처럼 표시된 것보다 VIN 수준의 확인을 위해 조각된다.
 
@@ -22,7 +22,7 @@ Jetour Dashing, Dasheng (大圣)로 중국에서 판매하는,  is the compact f
 
 Wheelbase는 일정하지만 길이와 높이는 몇 년 사이에 약간 이동한다. 컨테이너-fit, Accessory 호환성 및 균질화 종이 작업이 모든 정확한 모델 년 몸에 참조하기 때문에 수출을위한 작은 변화가 중요합니다. 한 번의 블렌딩 번호를 사용하는 것보다 적합성의 인증서에 대한 선언 된 차원을 일치합니다.
 
-## Three petrol powertrains — do not merge them
+################################################################################################################################################################################################################################################################ 3 가솔린 파워 트레인 - 그들을 병합하지 마십시오
 
 | 힘 train | 중국 시장 참고 | 기어박스 | 모형 년 | 의논하기 |
 |---|---|---|---|---|

@@ -1,15 +1,29 @@
 # Véhicules China-VI outre-mer: normes d'émission, la modification 2026 et compatibilité du carburant Les acheteurs doivent vérifier
-
-## OEuvre Métadonnées
-- ** Titre du référencement**: Chine VI Émissions et compatibilité des carburants à l'étranger Guide — GB18352.6 GB17691
-- **Meta Description**: Léger et léger séparé GB18352.6-2016 (modification XG1-2026) de poids lourds GB17691-2018, de limites de soufre diesel Chine-VI et de risque DPF/SCR, et pourquoi China VI n'est jamais auto-égale à l'approbation Euro ou EPA.
-- **URL suggérée**: /guides/véhicules-compatibilité-carburant-émissions
-- ** H1 **: Prendre un véhicule Chine-VI à l'étranger: Quelle norme d'émission s'applique, et le carburant local le convient-il?
+## Métadonnées SEO
+- **Titre SEO**: Chine VI Guide sur les émissions et la compatibilité des combustibles à l'étranger — GB18352.6 / GB17691
+- **Description meta**: Véhicules légers distincts GB18352.6-2016 (XG1-2026 amendements) et poids lourds GB17691-2018, Chine- VI limites de soufre diesel  and   DPF/SCR risque,  and  pourquoi la Chine VI n'est jamais auto-égale Euro ou EPA approbation.
+- **H1**: Prendre une Chine- VI Véhicule à l'étranger: Quelle norme d'émission s'applique et le carburant local sera-t-il adapté?
 - **Mot-clé principal**: Chine 6 norme d'émission compatible avec les carburants à l'étranger GB18352.6 GB17691
-- ** Termes de recherche secondaires**: GB18352.6-2016 XG1-2026, GB17691-2018 Chine lourde 6, GB19147 soufre diesel 10ppm, DPF SCR carburant à haute teneur en soufre, Chine VI vs Euro équivalence
-- **Suggestions de lien interne**: /guides/véhicule-export-pdi-préexpédition-transmission/; /véhicules/jmc-shunda/; /véhicules/dongfeng-tianlong-kl/
-- **Suggestions d'image**: fractionnement standard léger ou lourd; diagramme de traitement aval DPF/SCR; jauge de teneur en soufre; boucle de vérification de destination
-- ** Suggestions concernant les ALT**: "Légères GB18352.6 et lourdes GB17691 séparées par des contrôles de compatibilité avec le carburant"
+- **Termes de recherche secondaires**: GB18352.6-2016 XG1-2026, GB17691-2018 Chine lourde 6, GB19147 soufre diesel 10ppm, DPF SCR carburant à haute teneur en soufre, Chine VI vs Euro équivalence
+- **URL suggérée**: /guides/emission-fuel-compatibility-china-vehicles
+- **Intention de recherche**: Comprendre prendre une Chine- VI Véhicule à l'étranger: Quelle norme d'émission s'applique et le carburant local sera-t-il adapté? ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Suggestion d'image**: léger ou lourd standard scindé
+- **Texte ALT**: Léger GB18352.6 et lourd GB17691 séparés par des contrôles de compatibilité avec le carburant
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
+Métadonnées SEO
+- **Titre SEO**: Chine VI Émissions et compatibilité des carburants à l'étranger Guide — GB18352.6 / GB17691
+- **Description meta**: Un véhicule léger distinct GB18352.6-2016 (modification de XG1-2026) de GB17691-2018 poids lourds, des limites de soufre diesel VI en Chine et du risque DPF/SCR, et pourquoi China VI n'est jamais auto-égale à l'approbation Euro ou EPA.
+- **H1**: Prendre un véhicule Chine-VI à l'étranger: Quelle norme d'émission s'applique, et le carburant local le convient-il?
+- **Mot-clé principal**: Chine 6 norme d'émission compatible avec les carburants à l'étranger GB18352.6 GB17691
+- **Termes de recherche secondaires**: GB18352.6-2016 XG1-2026, GB17691-2018 Chine lourde 6, GB19147 soufre diesel 10ppm, DPF SCR carburant à haute teneur en soufre, Chine VI vs Euro équivalence
+- **URL suggérée**: /guides/emission-fuel-compatibility-china-vehicles
+- **Intention de recherche**: Comprendre la prise d'un véhicule à l'étranger: quelle norme d'émission s'applique et le carburant local conviendra-t-il?: ce qu'un exportateur de véhicule/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Suggestion d'image**: fractionnement standard léger ou lourd; diagramme de traitement aval DPF/SCR; jauge de teneur en soufre; boucle de vérification de destination
+- **Texte ALT**: Léger GB18352.6 et lourd GB17691 séparés par des contrôles de compatibilité avec le carburant
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pourquoi "Chine VI" n'est pas un seul nombre
 Les acheteurs lisent souvent "Chine VI 国六 " comme une norme unique. Il ne s'agit pas de: ** les véhicules légers et lourds sont soumis à différentes normes chinoises**, et une norme d'émission est également distincte de ** la compatibilité des carburants** et de **l'homologation de type de destination**. Ce guide sépare les trois et indique exactement où les normes officielles de la Chine fin et la vérification de destination commence.

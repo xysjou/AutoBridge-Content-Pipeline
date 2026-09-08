@@ -1,14 +1,16 @@
 # Farizon Xingxiang V6E Vagões de carga elétricos: Bloqueio do Ano da Bateria,  6 m³ Load Bay  and  uma exportação documentada de Türkiye
-## SEO Meta- dados
-- ** Título SEO**: Farizon V6E Especificações de Van de Carga Elétricas e Exportar Notas do Comprador
-- ** Descrição do Meta**: Farizon (Geely) do mercado chinês Xingxiang V6E furgão de carga elétrica — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh/260 km base vs. mais recente 51 kWh build, Limite de 90 km/h,  and  Uma remessa registada da UE em Türkiye.
-- ** URL sugerido**: /veículos/farizon-xingxiang- v6e-specs/
-- ** H1 **: Farizon Xingxiang V6E (Mercado Chinês): Especificações de Van de Carga Elétricas e Verificação de Exportação
-- **Chave principal**: farizon v6e especificações de van de carga elétrica
-- ** Termos de pesquisa secundários**: Xingxiang V6E range, Farizon entrega elétrica van, 6m3 elétrico van, V6E 35.2 kWh, Farizon Türkiye exportação, van de logística da cidade elétrica
-- ** Sugestões de ligação interna**: /veículos/sáic-maxus- v90-specs/; /veículos/byd-dolphin/; /guias/ev-shipping- un3171-imdg-compliance/
-- ** Sugestões de imagens**: compartimento de carga com dimensões; porta de carga lateral; disposição do motor/bateria; eixo traseiro da mola da folha; lote de exportação UE-spec
-- ** Sugestões do ALT**: "Farizon V6E furgão de carga elétrica de seis metros cúbicos"; " V6E graus de bateria e alcance"
+## Metadados SEO
+- **Título SEO**: Farizon V6E Electric Cargo Van Specs & Export Buyer Notes
+- **Meta descrição**: Farizon (Geely) do mercado chinês Xingxiang V6E furgão de carga elétrica — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh/260 km base vs. mais recente 51 kWh build, Limite de 90 km/h,  and  a recorded  EU -spec Türkiye shipment.
+- **H1**: Farizon Xingxiang V6E (Chinese-Market): Especificações de Van de Carga Elétrica e Verificação de Exportação
+- **Palavra-chave principal**: Farizon v6e especificações de vans de carga elétrica
+- **Termos de busca secundários**: Xingxiang V6E gama, Farizon entrega elétrica van, 6m3 elétrico van, V6E 35.2 kWh, Farizon Türkiye exportação, van de logística da cidade elétrica
+- **URL sugerida**: /vehicles/farizon-xingxiang-v6e-specs/
+- **Intenção de busca**: Compreenda Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs e Verificação de Exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Sugestão de imagem**: compartimento de carga com dimensões
+- **Texto ALT**: Farizon V6E furgão de carga elétrica de seis metros cúbicos
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: Bloquear a bateria ano antes de qualquer outra coisa
 O Xingxiang V6E é uma van de entrega urbana elétrica de bateria da marca comercial de Farizon. O maior risco de especificação é o ano modelo: a base build usa um pacote ** 35.2 kWh ** enquanto que uma nova compilação usa cerca de 51 kWh **, e as variações de intervalo são adequadas. Uma ordem de compra que diz apenas " V6E " pode ser preenchido com qualquer um. Esta página cobre o mercado chinês V6E (REFERÊNCIA MERCADO: CHINA)** e mantém a base e as construções mais novas separadas.
@@ -52,30 +54,30 @@ Nenhum preço de exportação estático e nenhum MSRP da China foram capturados;
 ** Que motor usa?** Um motor de ímã permanente Wolong-ZF TZ185XS022, 60 kW/220 N·m.
 
 ## Gravação de Imagens
-- IMAGEM_ASSET_PATH: nenhum protegido no repositório
-- ORIGINAL_ IMAGE_ URL: não capturado
-- ORIGINAL_PAGE: não capturado
-- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
-- DIREITOS_OLDER: não confirmado
-- LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-06
-- MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
-- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
-- IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
-- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
-- ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |

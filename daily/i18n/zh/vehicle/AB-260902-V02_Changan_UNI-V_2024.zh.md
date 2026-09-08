@@ -1,15 +1,17 @@
 # 长安UNI-V 2024 — 中国市场快车:引擎,调图和出口说明
 
-## 道德操守办公室 元数据
-- **SEO标题**:长安UNI-V 2024 光谱:1.5T/2.0T 快车出口指南
-- **Meta Directoration**:2024 长安UNI-V 中国参考规格——蓝鲸1.5T(138 kW)和2.0T(171 kW),7DCT/8AT,WLTC燃料使用量,尺寸,以及进口商的购买者验证点.
-- ** 建议的URL**:车辆/changan-uni-v/
-- ** H1 **:长安UNI-V 2024(中国):发动机、Trim Differsions和进口商应核查的是什么
-- ** 基本关键词**:长安UNI-V 2024规格出口
-- ** 第二次搜索术语**:长安UNI-V 1.5T 蓝鲸,UNI-V 2.0T 8AT,UNI-V WLTC燃料消耗,长安快车出口中国
-- ** 内部链接建议**: /指南/右手驱动-chinese-cars/;/指南/核实-china-car-export-suplier/;/车辆/byd-qin-plus-dmi/
-- **图像建议**:侧面图显示快回屋顶线;发动机舱1.5T;1.5T对2.0T光谱卡;后扩散器/活动破坏器;机舱仪表板
-- ** ALT(美国) 建议**: "2024 长安 UNI-V紧凑的快速回车侧面剖面, 中国谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱. "Changan Blue Whale NE 1.5T engine bay"; "UNI-V 1.5T对2.0T规格表".
+## SEO元数据
+- **SEO标题**: Changan  UNI-V  2024 Specs: 1.5T/2.0T 维基月球 快车导出指南
+- **Meta描述**: 2024 (中文(简体)). 长安UNI-V 中国参考规格——蓝鲸1.5T(138 kW)和2.0T(171 kW),7DCT/8AT,WLTC燃料使用量,尺寸,以及进口商的购买者核查点.
+- **H1**: Changan  UNI-V  2024 (China): 引擎、 调制差异和导入者应验证的
+- **核心关键词**: Changan  UNI-V  2024 specifications export
+- **次级搜索词**: Changan  UNI-V  1.5T Blue Whale, UNI-V 2.0T 8AT (英语). 燃料消耗UNI-V WLTC, 长安快车出口中国.
+- **建议URL**: /vehicles/changan-uni-v/
+- **搜索意图**: Understand Changan  UNI-V  2024 (China): 引擎、 调试差异和导入者应验证的: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
+- **图片建议**: 显示快回顶线的侧面配置文件
+- **ALT文本**: 2024 维基月球 长安UNI-V紧凑快车侧面简介 中国谱
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 这车是什么
 
@@ -78,30 +80,30 @@ UNI-V是长安的紧凑型快车——五门五座,单科汽油车型,车顶采�
 ** 我能假设中国的汽车符合我国的排放标准吗? ** 否 ——在订购前,必须先对目的地市场进行排放合规性、燃料等级和保修。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
 ## 源码验证(V)
 

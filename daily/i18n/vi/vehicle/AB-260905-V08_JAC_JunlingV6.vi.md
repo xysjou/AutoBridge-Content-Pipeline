@@ -1,15 +1,17 @@
 # JAC Junling V6 (2024/2025) — Bộ kiểm tra và xe tải nhẹ của Trung Quốc và Xuất
 
-## SAO Siêu dữ liệu
-- **SEEO Titry**: JAC Junling V6 Xe tải nhẹ: China-Market Spect & Elier Guide
-- **Meta Mô tả**: Giê - ru - sa - lem Xe tải chở hàng màu xanh lục V6: Yunnei D25, Ankang 160 dòng, hộp hàng hóa, nạp đạn GVW/coppload, và các hang động lớn một nguồn.
-- ** H1 **: JAC Junling V6 (2024/2025) — Trung Quốc-Market Light Spects và Xuất Kiểm tra
-- ** Từ khoá bí mật **: JAC 江淮 骏铃 V6 轻卡 (Tiếng xe tải) Thông số kỹ thuật xuất khẩu
-- **Secondary Search Wordss**: JAC Junling V6 xuất khẩu; Gianghuhuani xe tải nhẹ; xe tải chở hàng Trung Quốc; xe tải xanh; Yunnei D25
-- ** URL đã được đánh dấu**: /vehicles/jac-junling- v6/
-- **Tìm kiếm ý định**: 了解 JAC 江淮 骏铃V6 轻卡（Light Truck） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: /vehc/jac-junling- v6/, /guides/vehic-export-hs-hise-hi story/, /guides/childa-export-customs-dengleow/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: JAC Junling V6 Xe tải nhẹ: Bộ xem và xuất bản của Trung Quốc
+- **Meta mô tả**: Trung Quốc mua JAC Xe tải chở hàng màu xanh dương V6: Yunnei D25 diesel, Ankang 160 dòng, hộp hàng hóa, GVW / chi trả, và các hang động lớn một nguồn.
+- **H1**: JAC Junling V6 (2024/2025) — Hàng Trung Quốc- Market Light Spects và Xuất Kiểm tra
+- **Từ khóa chính**: JAC / 江淮 骏铃 V6 轻卡 (Tiếng xe tải) Thông số kỹ thuật xuất khẩu
+- **Cụm tìm kiếm phụ**: JAC Xuất khẩu ra V6 người; xe tải nhẹ Giang Hoa; xe tải chở hàng Trung Quốc; xe tải xanh; xe tải Yunnei D25
+- **URL đề xuất**: /vehicles/jac-junling-v6/
+- **Ý định tìm kiếm**: Hiểu JAC Junling V6 (2024/2025) — Trung Quốc-Market Light Spects và Xuất Kiểm tra: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Gợi ý hình ảnh**: Một thực tế,  document/vehicle-focused scene illustrating JAC Junling V6 (2024/2025) — Chinese-Market Light Truck Specs  and  Xuất khẩu kiểm tra, không kiểm tra dàn cảnh hay người ta nói vậy.
+- **Văn bản ALT**: Gần đúng, Quan điểm tự nhiên về vật liệu  and  the subject related to JAC Junling V6 (2024/2025) — Chinese-Market Light Truck Specs  and  Xuất khẩu kiểm tra, Nền trung lập, Không có người hay kiểm tra hành động.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Người mua bối cảnh: một xe tải phân phối đô thị xanh dương
 ** JAC Junling V6 (骏铃 V6, 2024/2025)** là một thị trường Trung Quốc Xe tải chở hàng nhẹ dầu diesel trong tiểu đề 4.5 t lớp bảng màu xanh da trời dùng cho Phân phối thành phố/ địa phương. Người mua nên thả neo vào GVW, Name Trước khi đi xe taxi. Thị trường tham khảo là **Trung Quốc**; Nhiều người cần xác nhận sự đồng nhất.
@@ -50,7 +52,6 @@ Lớp học bảng màu xanh là gì? Xe tải thành phố dưới 4.5 t ở Tr
 **Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m trên đường dây bị bắt.
 Những chi tiết về lốp xe đâu? Không bị bắt, yêu cầu bản thiết kế OEM.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -69,18 +70,18 @@ Những chi tiết về lốp xe đâu? Không bị bắt, yêu cầu bản thi�
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác JAC Xe tải nhẹ V6
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@ Những chi tiết về lốp xe đâu? Không bị bắt, yêu cầu bản thi�
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

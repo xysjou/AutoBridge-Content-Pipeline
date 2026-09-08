@@ -1,15 +1,17 @@
 # Chọn định giới từ 2020 trong ngành lưu hành xe cộ Trung Quốc — rủi ro và chi phí
 
-## SAO Siêu dữ liệu
-- **SEEO Tittry**: Incoctations 2020 cho sự lựa chọn xuất xe cộ: FOB, CFFA, FCA, CAP, DDP và nhiều hơn
-- **Meta Mô tả**: Chọn đúng định luật 2020 cho một chuyến hàng chở xe: nơi rủi ro và chi phí chuyển giao, chỉ biển so với đa phương tiện, bảo hiểm dưới CF/CIP, và tại sao DDP lại là gánh nặng bán hàng.
-- ** H1 **: Chọn định giới 2020 trong Xuất khẩu xe cộ Trung Quốc — Nguy hiểm và chi phí định vị
-- ** Từ khoá mở rộng**: định giới 2020 hướng dẫn chọn
-- **Secondary Search termss**: Incoctes 2020; FOB chống lại FCA; CAIP chống lại CIP; DDP nguy hiểm; đa phân tử; chuyển giao rủi ro
-- ** URL đã gợi ý**: /guides/incocations- 2020-selection-guide/
-- **Tìm kiếm Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语  明确风险转移点与费用 保险责任
-- **I nội bộ Link gợi ý*: /guides/marine-crin-curance-hince /guides/childs/cexport-t-dec-dec-sc-sating-windo/, /guides/lews/, /guides/chies/chies/chiles-ex-decage-decage-decle-le-window/
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: In xen kẽ 2020 Hướng dẫn Chọn cho Xuất khẩu xe cộ: FOB, CIF, FCA, CIP, DDP   and  Thêm nữa
+- **Meta mô tả**: Chọn đúng quy tắc 2020 cho một chuyến hàng giao thông: nơi mà rủi ro và chi phí chuyển giao, chỉ có các điều khoản biển so với đa phương tiện, bảo hiểm dưới CIF/CIP, và tại sao DDP là gánh nặng bán hàng.
+- **H1**: Chọn định giới từ 2020 trong ngành lưu hành xe cộ Trung Quốc — rủi ro và chi phí
+- **Từ khóa chính**: incoterms 2020 selection guide
+- **Cụm tìm kiếm phụ**: Nội dung 2020; FOB kiện FCA; CIF đấu với CIP; DDP rủi ro; đa phương thức vận chuyển rủi ro
+- **URL đề xuất**: /guides/incoterms-2020-selection-guide/
+- **Ý định tìm kiếm**: Hiểu rằng việc chọn mục lục 2020 trong Xuất khẩu xe cộ của Trung Quốc — nguy hiểm và chi phí: điều mà người xuất khẩu xe/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **Gợi ý hình ảnh**: Một thực tế, Cảnh tiêu điểm tài liệu/vyhic Chọn định giới hạn 2020 trong việc xuất khẩu xe cộ Trung Quốc — Nguy hiểm  and  Chi phí phân bổ chi phí, không kiểm tra dàn cảnh hay người ta nói vậy.
+- **Văn bản ALT**: Gần gũi, quan điểm tự nhiên về vật liệu và đề tài liên quan đến việc chọn lọc 2020 bản dịch tiếng Hoa — nguy hiểm và chi phí phân bổ, nền tảng trung lập, không có người hoặc hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Bắt đầu từ chế độ vận chuyển, không phải thói quen
 Nội dung 2020 chứa **el even** quy tắc chia làm những quy tắc để vận chuyển và những quy tắc truyền thống cho việc vận chuyển biển/trong nước. Trong xuất khẩu xe, lựa chọn đầu tiên là việc di chuyển là biển cảng đối cảng (Roro/contaner) hay đa mô-tơ (trong đất liền xe tải/đường sắt cộng với biển, thông thường cho xe tải trung-Asia). Chọn một thuật ngữ chỉ biển cho một nước đa động tạo ra một khoảng trống trong khi rủi ro đi qua.
@@ -36,7 +38,6 @@ Dưới sự quản lý của người bán, bảo hiểm biển được bảo 
 **Tại sao DDP lại nguy hiểm đối với người xuất khẩu ở Trung Quốc? Nó khiến người bán chịu trách nhiệm về việc nhập khẩu quyền hạn, nhiệm vụ và thuế.
 ** Bao nhiêu bản định kỳ 2020 quy tắc? Mười một, trong hai nhóm vận chuyển.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -55,18 +56,18 @@ Dưới sự quản lý của người bán, bảo hiểm biển được bảo 
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_MASPEP**: exact Choosing Incoterms 2020 in Chinese Vehicle Export
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Choosing Incoterms 2020 in Chinese Vehicle Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -79,6 +80,5 @@ Dưới sự quản lý của người bán, bảo hiểm biển được bảo 
   - **ID**: Incoterms selection, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Incoterms selection, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Incoterms selection, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #Incoterms #TradeTerms

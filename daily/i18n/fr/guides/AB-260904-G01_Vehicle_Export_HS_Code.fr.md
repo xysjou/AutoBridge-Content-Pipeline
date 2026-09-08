@@ -1,15 +1,29 @@
 # Classer un véhicule pour exportation: trier 87.01–87.05 et 8716 Remorques en vertu du tarif 2026
-
-## OEuvre Métadonnées
-- **Référencement Titre**: Guide de classement du code SH pour l'exportation de véhicules — 8701/8702/8703/8704/8705/8716
-- **Description détaillée**: Comment les exportateurs chinois attribuent la position du SH correcte aux tracteurs, voitures particulières, autobus, véhicules de marchandises, véhicules spéciaux et remorques en vertu du tarif d'importation et d'exportation de 2026 avant de discuter des droits ou de la certification.
-- **URL suggérée**: /guides/véhicule-export-hs-code-classification
-- ** H1 **: Quelle position SH est mon véhicule? Guide de classification à l'exportation fondé sur le tarif 2026
+## Métadonnées SEO
+- **Titre SEO**: Exportation de véhicules HS Classification des codes Guide — 8701/8702/8703/8704/8705/8716
+- **Description meta**: Comment les exportateurs chinois attribuent la bonne position HS aux tracteurs, voitures particulières, autobus, véhicules de marchandises, véhicules à usage spécial et remorques en vertu du 2026 Tarif des importations et des exportations avant de discuter des droits ou de la certification.
+- **H1**: Quelle est la position HS de mon véhicule? Guide de classement à l'exportation fondé sur le tarif 2026
 - **Mot-clé principal**: vehicle export hs code classification 8702 8703 8704 8705
-- ** Termes de recherche secondaire**: 8701 tracteur HS, 8703 véhicule de tourisme HS, 8704 véhicule de marchandises, 8705 véhicule à usage spécial, 8716 remorque HS, 2026 Chine importation tarifaire chapitre 87
-- **Suggestions de lien interne**: /guides/china-export-certificat d'origine/; /véhicules/dongfeng-tianlong-kl/; /véhicules/dongfeng-tianjin-kr/
-- **Suggestions d'image**: arbre de décision du cap du SH; ensemble d'icônes auto-camion vs camion vs tracteur vs remorque; champ de déclaration en douane
-- **ALT Suggestions**: "Arbre de décision du véhicule SH 8701 8702 8703 8704 8705 8716 "
+- **Termes de recherche secondaires**: 8701 tracteur HS, 8703 véhicule de tourisme HS, 8704 véhicule de transport de marchandises, 8705 véhicule à usage spécial, 8716 remorque HS, 2026 Chine importation tarifaire d'exportation chapitre 87
+- **URL suggérée**: /guides/vehicle-export-hs-code-classification
+- **Intention de recherche**: Comprendre quelle rubrique HS est mon véhicule? Guide de classification à l'échelle de l'exportation Construit sur le tarif 2026: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Suggestion d'image**: HS arbre de décision en tête
+- **Texte ALT**: Véhicule HS arbre de décision de cap 8701 8702 8703 8704 8705 8716
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
+Métadonnées SEO
+- **Titre SEO**: Guide de classification du code SH pour l'exportation de véhicules — 8701/8702/8703/8704/8705/8716
+- **Description meta**: Comment les exportateurs chinois attribuent la position du SH correcte aux tracteurs, voitures particulières, autobus, véhicules de marchandises, véhicules spéciaux et remorques en vertu du tarif d'importation et d'exportation de 2026 avant de discuter des droits ou de la certification.
+- **H1**: Quelle est la position de mon véhicule? Guide de classification à l'échelle de l'exportation, fondé sur le tarif 2026
+- **Mot-clé principal**: vehicle export hs code classification 8702 8703 8704 8705
+- **Termes de recherche secondaires**: 8701 tracteur SH, 8703 véhicule de tourisme SH, 8704 véhicule de marchandises, 8705 véhicule à usage spécial, 8716 remorque SH, 2026 Chine importation chapitre 87
+- **URL suggérée**: /guides/vehicle-export-hs-code-classification
+- **Intention de recherche**: Comprendre quel hs cap est mon véhicule? un guide de classification côté exportation, construit sur le tarif 2026, qui doit permettre à un exportateur de vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Suggestion d'image**: Arbre de décision du titre du SH; ensemble d'icônes auto-camion-camion-traducteur-remorque; champ de déclaration en douane
+- **Texte ALT**: Arbre de décision du classement du véhicule SH 8701 8702 8703 8704 8705 8716
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pourquoi la direction se présente avant tout
 Les tarifs, la certification, l'inspection et la documentation sont tous suspendus au code SH — pourtant, les exportateurs commencent souvent par une soumission d'expédition et classent le véhicule presque comme un post-pensée. Pour les véhicules commerciaux et spéciaux qui se succèdent: une tête de tracteur, un camion-cargo, un camion-cargo et une remorque ne partagent pas une seule procédure, et en supposant que "c'est tout 87.04 " est la façon dont les expéditions sont reclassées aux douanes. La règle de travail sur cette page est **HS-first**: pin la position exacte et la sous-position nationale d'abord, puis passer à tarif et de conformité. La base actuelle est ici l'édition ** 2026 du *Tarif d'importation et d'exportation de la République populaire de Chine*** (compilée par la Commission du Tarif des douanes du Conseil d'État) et l'annonce **GACC mettant en œuvre le programme d'ajustement tarifaire 2026**. Les positions à quatre chiffres/six chiffres sont relativement stables; la sous-position nationale à dix chiffres et les taux provisoires changent avec chaque tarif annuel et doivent être cités par édition.

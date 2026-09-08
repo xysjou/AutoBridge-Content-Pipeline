@@ -1,15 +1,17 @@
 # 根据《国际千年发展宣言》第42-24条,海运一辆电动车辆:UN3556、UN3171和备件-电池区分
 
-## 道德操守办公室 元数据
-- ** 标准标准名称**:根据《国际海运准则》第42-24条,EV海运 -- -- UN3556/3557/3558对UN3480/3481条
-- ** 金属说明**: 根据IMD修正案42-24,从2026起,电池船装配的锂离子车辆为UN3556(锂金属UN3557,钠离子UN3558); UN3171 缩小,松散电池使用 UN3480/3481 与 UN38.3. 。
-- ** 建议的URL**:/指南/前发货-un3556-imdg-compliance
-- ** H1 资源需求。 ** 根据现行《国际船舶和港口设施管理准则》(第42-24号修正案)对一艘用于海上货运的电池动力车进行分类。
-- ** 关键词**: UN3556 lithium ion vehicle IMDG 42-24 shipping
-- ** 二级搜索术语**:UN3557锂金属车、UN3558钠离子车、P912包装规范、SP405标记、UN3171缩小、UN3480 UN3481、UN38.3试验手册rev8
-- ** 内部链接建议**: /指南/车辆-出口-装运前移交/;/指南/出口-车辆-文件包装/;/车辆/车辆/拖动-宾戈/
-- ** 图像建议**:整车对散装电池 联合国编号拆分;第9类牌照;P912/SP405号标记图
-- ** ALT(美国) 建议**: " UN3556辆装电池车,而根据IMD 42-24,UN3480辆松散电池 "
+## SEO元数据
+- **SEO标题**: EV 维基月球 IMDG 42-24 - UN3556/3557/3558对UN3480/3481
+- **Meta描述**: 从2026起,锂离子车辆,电池船安装为UN3556(锂金属UN3557,钠离子UN3558),根据IMDG修正案42-24; UN3171号被缩小了  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: 根据现行IMDG年《法典》(第42-24号修正案)对一艘用于海上货运的电池动力车进行分类
+- **核心关键词**: UN3556锂离子车 IMDG 42-24 货运
+- **次级搜索词**: UN3557锂金属车辆, UN3558 钠离子车, P912 包装规范, SP405 标记, UN3171 缩小, UN3480 UN3481 号, UN38.3 试验手册 rev8
+- **建议URL**: /guides/ev-shipping-un3556-imdg-compliance
+- **搜索意图**: 理解根据现行IMDG年《规则》(第42-24号修正案)对用于海运的电池动力车辆进行分类:车辆/部件出口商在承诺订购前必须核实、记录和决定哪些物品。
+- **内链建议**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **图片建议**: 整车对散装电池 UN 个号码拆分
+- **ALT文本**: IMD 42-24项下UN3556辆装电池,UN3480辆是松散电池
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 分类改变——旧UN3171 Habits现在错了
 2026型前的一种常见做法是将任何电池驱动车辆订在** UN3171**下。 根据**现行强制性《国际船舶和港口运输准则》第42-24号修正案**(经海事组织第**MSC.556(108)号决议通过)**和**中国的强制性规定,从中国海事安全局官方文本2026-01-01**起),这对主流锂车辆不再正确。 在2026申报上使用旧号是一个分类错误,在预订时停止危险品的文具工作.
@@ -65,16 +67,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — EV shipping under IMDG 42-24 UN3556, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — EV shipping under IMDG 42-24 UN3556, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — EV shipping under IMDG 42-24 UN3556, guia de compras para exportação de veículos
+- ** ** 自动桥出口-买方参考——根据IMDG 42-24 UN3556号《车辆-出口采购指南》进行的EV运输
+- **法国**: 出口汽车运输公司——根据《国际公路运输准则》第42-24号《联合国3556号协定》进行EV航运,汽车出口指南
+- DE**: 国家 自动桥-Referenz für Exportkäufer——根据IMDG 42-24 UN3556号《国际船舶和港口运输准则》进行的EV航运
+- **ES**: 出口信贷代理公司——根据IMDG 42-24 UN3556号合同进行出口信贷代理公司
+-  **: 出口控制中心——根据IMDG 42-24 UN3556号《国际船舶和港口运输准则》进行的EV航运
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜EV shipping under IMDG 42-24 UN3556, 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜EV shipping under IMDG 42-24 UN3556, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — EV shipping under IMDG 42-24 UN3556, hướng dẫn thu mua xuất khẩu xe
+- **VI**: i liệu tham khảo AutoBridge cho người mua xuót khẩu – EV 航运 IMD 42-24 UN3556, hướng dẫn tu mua xuấu xe 互联网档案馆的存檔,存档日期2013-09-02.
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — EV shipping under IMDG 42-24 UN3556, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — EV shipping under IMDG 42-24 UN3556, panduan pengadaan ekspor kendaraan
+- 身份证**: Referensi AutoBridge untuk pembeli ekspor — EV shipping under IMDG 42-24 UN3556, panduan pengadaan ekspor kendaraan
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 

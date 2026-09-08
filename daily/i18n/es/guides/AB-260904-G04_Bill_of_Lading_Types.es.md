@@ -1,15 +1,17 @@
 # MBL, HBL, Telex Release o Sea Waybill? Elegir el método de liberación de un vehículo bajo el código marítimo 2025
 
-## SEO Metadatos
-- **SEO Título**: Proyecto de ley de embarque de vehículos - MBL/HBL/Telex/SWB + Maritime Code Arts. 80/81/87
-- **Meta Descripción**: Cómo difieren las facturas, las facturas de la casa, la liberación de télex y los waybills marinos, las reglas de transferibilidad/entrega en el Código Marítimo revisado de China (en vigor 2026-05-01, Arts. 80/81/87), y el método de liberación de coincidencia a los términos de pago.
-- ** URL agregada**: /guides/vehicle-export-bill-of-lading-types
-- ** H1 **: Elegir un método de liberación de la ley para un vehículo exportado - Práctica comercial Acogida en el Código Marítimo Revisado
-- **Primary Keyword**: factura de exportación de vehículos de mbl mbl bl telex liberación sawaybill
-- **Segundary Search Terms**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
-- **Sugerencias de Enlace Interno**: /guides/oceánica-carga-estructura-vehículo-exportación/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/
-- **Sugerencias de imagen**: comparación de cuatro metodos; escalera de negotiabilidad vs pago; cadena MBL/HBL; Arts. 80/81/87 flujo de entrega
-- **Sugerencias de ALT**: "MBL HBL telex sea waybill negotiability under revised Maritime Code"
+## Metadatos SEO
+- **Título SEO**: Proyecto de ley de exportación de vehículos de la guía de embarque: MBL/HBL /Telex/ SWB + Código Marítimo Artes. 80/81/87
+- **Meta descripción**: Cómo difieren las facturas, las facturas de la casa, la liberación de télex y los waybills marinos, las reglas de transferibilidad/entrega en el Código Marítimo revisado de China (en vigor 2026-05-01, Arts. 80/81/87), y el método de liberación de coincidencia a los términos de pago.
+- **H1**: Elegir un método de liberación de la ley para un vehículo exportado — Práctica comercial acatada en el Código Marítimo revisado
+- **Palabra clave principal**: factura de exportación de vehículos de mbl mbl bl telex liberación sawaybill
+- **Términos de búsqueda secundarios**: Código Marítimo 2025 revisión, artículo 80 ley de transferencia de embarque, artículo 81 otro documento de transporte, artículo 87 entrega, NVOCC HBL, orden de factura telex
+- **URL sugerida**: /guides/vehicle-export-bill-of-lading-types
+- **Intención de búsqueda**: Comprender el uso de un método de liberación de embarque para un vehículo exportado — Práctica comercial Aclarecida en el Código Marítimo Revisado: qué debe verificar, documentar y decidir un vehículo/partes exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Sugerencia de imagen**: comparación de cuatro meses
+- **Texto ALT**: MBL HBL telex mar waybill negotiability under revised Maritime Code
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## El problema de la adquisición es el control de carga, no el papeleo
 Los exportadores tratan la elección de factura de embarque como documentación. Es una decisión **de riesgo de pago**: el momento en que se mueve de una factura negociable original a la liberación de teléx o un bifurcación marina, cambia cuando dejas de controlar el vehículo en el destino. Esta guía combina el comportamiento empresarial de los cuatro instrumentos con la columna vertebral escrita de China ** —el *Código de Maritime de la PRC*, ** revisado en 2025-10-28 por la sesión 18th del Comité Permanente de la NPC 14th (Orden presidencial No 58), en vigor desde 2026-05-01 (16 capítulos, 310 artículos)** — y luego coincide con el método para los términos de pago. Las reglas y tarifas de telecomunicaciones específicas para el transporte/puerto siguen siendo específicas para el viaje y no se declaran como valores fijos.

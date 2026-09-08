@@ -1,16 +1,16 @@
 # SAIC MAXUS Interstarter T90: China- Market Diesel Pickup Expor Referensi
-## SEO Metadata
-- ** Seo Judul **: SAIC MAXUS T90 (Interstarter) Diesel Pickup Ekspor Cek Pembeli & Specs
-- ** Meta Description **: Referensi pasar untuk Interstarter Sailus T90 diesel: body- sassis frame, standar long tempat tidur, 2.0T twin-turbo diesel, pilihan kereta api, dan expor-nama caveat.
-- ** H1 **: SAIC MAXUS Interstarter T90: China- Pasar Diesel Pickup Ekspor Referensi
-- ** Primer Keyword **: SAIC MAXUS T90 ekspor spesifikasi
-- ** Pencarian Second Terms **: MAXUS T90 pickup diesel; Interstarter T90 2.0T turbo kembar; T90 8AT roda drive; dimensi pickup MAXUS; ekspor pickup Cina
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- 面向海外 B 端买家介绍星际 T90 中国市场版本身份 货箱 四驱 底盘 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- Sebuah MAXUS SAIC T90 double-cab pickup dari tiga depan-kuartal sudut di tanah kasar
-- ** ALT Saringan **: Tiga seperempat depan dari MAXUS SAIC T90 double-pickup di permukaan yang tidak diaspal
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: SAIC MAXUS T90 (Interstar) Diesel Pickup Ekspor Specs & Buyer Checks
+- **Deskripsi Meta**: Referensi pasar untuk SAIC MAXUS Antar bintang T90 diesel: body- on- frame chassis, standar / tempat tidur panjang, 2.0T twit- turbo diesel, pilihan kereta api driver, dan expor-nama caveat.
+- **H1**: SAIC MAXUS Interstarter T90: China- Market Diesel Pickup Expor Referensi
+- **Kata kunci utama**: SAIC MAXUS T90 spesifikasi pickup
+- **Istilah pencarian sekunder**: MAXUS T90 pickup diesel; Interstars T90 2.0T kembar turbo; T90 8AT drive roda, MAXUS pickup dimensi tempat tidur; ekspor pickup Cina
+- **URL yang disarankan**: /vehicles/saic-maxus-t90/
+- **Maksud pencarian**: Memahami SAIC MAXUS Interstarter T90: China- Market Diesel Pickup Expor Referensi: apa yang sebuah kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Saran gambar**: Sebuah SAIC MAXUS T90 double-taxi diesel pickup dari tiga depan -quarter sudut di tanah kasar
+- **Teks ALT**: Tiga / seperempat depan SAIC MAXUS T90 double-pickup di permukaan yang tidak digadaikan
+- **Cakupan skema**: Artikel + Kendaraan
 
 The Interstarter T90 (Xingji T90, sebelumnya MAXUS T90 di Cina) adalah ukuran pertengahan SAIC MAXUS, ** body-on-frame ** double- cab pickup - jenis kendaraan dibeli di luar negeri untuk kemiringan-membawa, kasar jalan dan armada menggunakan alih-alih perbaikan penumpang. Pembelian pickup diputuskan di tempat tidur, muatan, kereta dorong dan sasis, sehingga mereka memimpin halaman ini. Ini mencakup ** Cinese- pasar diesel ** saja; listrik terpisah T90 tidak termasuk.
 

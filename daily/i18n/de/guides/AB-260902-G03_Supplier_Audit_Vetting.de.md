@@ -1,15 +1,17 @@
 # So überprüfen Sie einen chinesischen Autoexportanbieter vor der Zahlung: Due Diligence Checkliste
 
-## SEO Metadaten
-- **SEO Titel **: Überprüfen Sie einen chinesischen Autoexport-Lieferanten: Due Diligence Checkliste
-- **Meta Description**: Ein Rahmen für die Due-Diligence-Prüfung in der Zahlungsphase für die Überprüfung chinesischer Fahrzeugexporteure — MIIT-Ankündigung/CCC-Qualifikation, Prüfung von Geschäftslizenzen, Ausfuhrgenehmigungskette, AEO, Abgleich von Bankkonten und Video-Audit-Standards.
+## SEO-Metadaten
+- **SEO-Titel**: Überprüfen Sie einen chinesischen Autoexportanbieter: Due-Diligence-Checkliste
+- **Meta-Beschreibung**: Ein Due-Diligence-Rahmen für die Zahlungsphase für die Überprüfung chinesischer Fahrzeugexporteure — MIIT Ankündigung/CCC Qualifikation, Prüfung von Geschäftslizenzen, Ausfuhrgenehmigungskette, AEO, Bankkontoabgleich und Video-Audit-Standards.
+- **H1**: Überprüfung eines chinesischen Fahrzeugexporteurs: Was Sie vor der ersten Zahlung überprüfen sollten
+- **Haupt-Keyword**: Überprüfung der Due-Diligence-Lizenz für chinesische Autoexporteure
+- **Sekundäre Suchbegriffe**: China Fahrzeugexport Qualifikation, MIIT Fahrzeughersteller Ankündigung, CCC Zertifikat Exporteur, gsxt Business Lizenz Prüfung, China Auto Export Genehmigungskette, AEO Zollgutschrift
 - **Vorgeschlagene URL**: /guides/verify-china-car-export-supplier/
-- ** H1 **: Überprüfung eines chinesischen Fahrzeugexporteurs: Was Sie vor der ersten Zahlung überprüfen sollten
-- ** Primäres Keyword**: Überprüfung der Due-Diligence-Lizenz für chinesische Autoexportlieferanten
-- **Secondary Search Terms**: China Vehicle Export Qualification, MIIT Vehicle Manufacturer Announcement, CCC Certificate Exporteur, gsxt Business License Check, China Car Export Authorization Chain, AEO Customs Credit
-- **Interne Linkvorschläge**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/used-chinese-ev-inspection/; /guides/commercial-truck-fleet-procurement-china/
-- **Bildvorschläge**: geschichtete Pyramide mit Due-Diligence-Pyramide; gsxt-Prüffelder für Geschäftslizenzen; Autorisierungskettendiagramm; Warnung vor Übereinstimmung mit Bankkonten
-- **ALT-Vorschläge**: "Chinesischer Autoexporteur Due Diligence Verifizierungsschichten"; "National Enterprise Credit Information System Lizenzfelder"; "Lieferant zur Fabrik Autorisierungskette"
+- **Suchabsicht**: Verstehen Sie die Überprüfung eines chinesischen Fahrzeugexporteurs: Was zu überprüfen ist Vor der ersten Zahlung: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Bildvorschlag**: Due-Diligence-Schichtpyramide
+- **ALT-Text**: Prüfung der Sorgfaltspflichten chinesischer Automobilexporteure
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Das Problem, das das löst
 
@@ -90,18 +92,18 @@ Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fa
 **Was beweist, dass ein Lieferant tatsächlich exportiert?** Jüngste (≈ 3-month) Ausfuhranmeldungen sowie eine Live-Audit von Linie, Lager, QC und Ladedock, abgeglichen mit Forderungen.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf

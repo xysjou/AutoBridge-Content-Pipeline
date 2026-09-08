@@ -1,15 +1,17 @@
 # GAC Trumpchi E8(传祺 E8):一个七席PHEV MPV——中国光谱与出口检查
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat,). 中国)
-- ** 金属说明**: 中国市场特朗普奇E8新能源PHEV MPV — 2.0ATK引擎,134 kW引擎,25.57 kWh电池,150 kmCLTC,2+2+3座,与无充电光荣HEV有何区别.
-- ** 建议的URL**:/车辆/gac-trumpchi-e8/
-- ** H1 **: GAC Trumpchi E8 (英语). 菲夫: 中国市场七席MPV 光谱和导出注释
-- ** 基本关键词**:gac cruewchi e8 phev 光谱导出
-- ** 二级搜索术语**: 特朗普奇 E8 MPV 传祺 E8 电磁波 平时,E8 荣耀HEV差异 Trumpchi E8 7-seat,中文 PHEV MPV 导出
-- ** 内部链接建议**: 指南/前期装运-un3556-imdg-compliance/; 指南/出口-车辆-文件包装/; 车辆/切里-富尔温-t9/
-- **图像建议**:E8个侧面图 MPV;2+2+3个座位布局;充电端口对无端口HEV;第三行;V2L出口
-- ** ALT(美国) 建议**: "GAC特朗普奇E8 PHEV七座MPV" 中国谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分 "Trumpchi E8 2+2+3 seating  and  货物"
+## SEO元数据
+- **SEO标题**: GAC 川普奇 E8 PHEV MPV 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特尔特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特朗普奇号 特尔特朗普奇号 特朗普奇号 特朗普奇号 特尔特·特尔特斯 特·特 特朗普奇号 特朗普奇号 特朗普奇号 特·特朗普奇号  斯佩斯和出口指南(中国7-Seat)
+- **Meta描述**: Chinese-market Trumpchi E8 new-energy  PHEV   MPV  — 2.0ATK engine, 134 kW型发动机, 25.57 kWh个电池, 150 km CLTC 号, 2+2+3个座位,  and  与无充电荣耀HEV有何不同.
+- **H1**: GAC 川普奇 E8 PHEV: 中国-市场七大海豹 MPV: 光谱和导出注释
+- **核心关键词**: gac cruischi e8 光谱导出
+- **次级搜索词**: Trumpchi E8  MPV , 传祺 E8 PHEV (英语). E8 维基月球 荣耀HEV的区别,  Trumpchi E8 7-seat, 中国PHEV MPV出口
+- **建议URL**: /vehicles/gac-trumpchi-e8/
+- **搜索意图**: 了解GAC 川普奇 E8 PHEV:中国市场七面板MPV 样品和出口说明:车辆/部件出口商在承诺发出订单之前必须核实、记录和决定什么。
+- **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **图片建议**: E8 侧面剖面图 MPV
+- **ALT文本**: GAC 川普奇 E8 PHEV 七座MPV号 中国谱
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买方背景:由座席和PHEV/HEV Split决定的MPV采购
 对于一个MPV出口商来说,问题首先是舱位几何和座椅结构,其次是动力列车。 E8号上有一个命名陷阱:**E8新能源是带有充电端口的插件混合体**,而**E8光荣号(荣耀)是无充电端口**的HEV. 它们属于不同的能量类型,必须单独引用。 本表记录了**中国市场PHEV(REFERENCE MANKET:CHINA)**;一个OEM配置页面被捕获.
@@ -71,16 +73,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+- ** ** 自动桥出口-买方参考——GAC Trumpchi E8,插件混合动力车 MPV
+- **法国**: Référence AutoBridge 出口切除器——GAC Trumpchi E8,可充电的MPV
+- DE**: 国家 AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, 插件内置Hybridfahrzeug Van(MPV) 互联网档案馆的存檔,存档日期2013-12-22.
+- **ES**: 出口控制中心(GAC Trumpchi E8),可装入单体
+-  **: 出口控制中心(Referência AutoBridge para exportação)——GAC Trumpchi E8, veículo híbrido 插座小面包车
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
   - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+- 身份证**: 参考文献 自动布里奇 untuk pembeli ekspor — GAC Trumpchi E8, kendaraan 混合插件 MPV
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 

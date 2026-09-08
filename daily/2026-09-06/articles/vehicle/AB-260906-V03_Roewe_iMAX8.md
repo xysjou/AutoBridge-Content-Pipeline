@@ -6,7 +6,7 @@
 - **Primary Keyword**: Roewe iMAX8 export specs
 - **Secondary Search Terms**: Roewe iMAX8 MPV; iMAX8 7 seat 2+2+3; iMAX8 dimensions wheelbase; SAIC MPV export; iMAX8 2.0T Aisin 8AT
 - **Suggested URL**: /vehicles/roewe-imax8/
-- **Search Intent**: 面向海外B端买家介绍iMAX8中国市场版本身份、座椅空间/动力与版本边界
+- **Search Intent**: Understand Roewe iMAX8: A China-Market Seven-Seat MPV Buyer Reference for Export: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **Image Suggestion**: A Roewe iMAX8 MPV side view highlighting its long wheelbase and sliding rear doors
 - **ALT Suggestion**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors and long wheelbase

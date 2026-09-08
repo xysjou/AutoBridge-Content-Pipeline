@@ -1,14 +1,16 @@
 # Vehículos de Especificación para el Calor y el Dust del Golfo: Puntos para valorar con el OEM o el Upfitter
-## SEO Metadatos
-- **SEO Title**: Oriente Medio/CCG Guía de los compradores de adaptación de vehículos pesados
-- **Meta Descripción**: Qué evaluar con el OEM/upfitter antes de enviar un vehículo de China-spec al calor y polvo del Golfo — ICE enfriamiento/carga CA y candidatos de cableado, opciones de gestión térmica EV, y la vía de conformidad GCC/GSO separada.
-- ** URL agregada**: /guides/middle-east-heat-dust-vehicle-adaptation/
-- ** H1 **: Adaptación de vehículos de China-Spec para el calor y el polvo del Golfo: Puntos de evaluación (ICE, EV, Cumplimiento)
-- **Primary Keyword**: medio este gcc calor polvo vehículo adaptación espectro
-- **Secondary Search Terms**: GCC alta temperatura vehículo de espectro, coche de sellado de polvo desértico, batería EV calor calor, actualización de refrigeración de Medio Oriente AC, GSO conformidad del calor del vehículo
-- **Sugerencias de Enlace Interno**: /guides/vehicle-coc-type-approval-dossier/; /guides/uae-vehicle-import-registration-documents/; /vehicles/li-auto- l6/
-- **Sugerencias de imagen**: diagrama de sistemas de carga térmica (ICE vs EV); puntos de presión de polvo; condensador de radiador/AC; circuito de gestión térmica de batería
-- **Sugerencias de ALT**: "Puntos de evaluación de la adaptación al calor del EV"; "Puntos de protección del polvo del lobo"
+## Metadatos SEO
+- **Título SEO**: Medio Oriente/ GCC Guía de compradores de adaptación de vehículos de calor
+- **Meta descripción**: Qué evaluar con el OEM /upfitter antes de enviar un vehículo de China-spec al calor y polvo del Golfo — ICE refrigeración/carga / AC y candidatos de cableado, EV opciones de gestión térmica, y la pista de conformidad GCC/GSO separada.
+- **H1**: Adaptación de vehículos de China-Spec para el calor y el polvo del Golfo: Puntos de evaluación (ICE, EV, Cumplimiento)
+- **Palabra clave principal**: media este gcc calor polvo vehículo adaptación espectro
+- **Términos de búsqueda secundarios**: GCC alta temperatura vehículo de inspección, coche de sellado de polvo desértico, EV batería de calor de gestión térmica, Medio Oriente AC actualización de refrigeración, GSO de conformidad del vehículo
+- **URL sugerida**: /guides/middle-east-heat-dust-vehicle-adaptation/
+- **Intención de búsqueda**: Comprender Adaptar vehículos de China-Spec para el calor y el polvo del Golfo: Puntos de evaluación (ICE, EV, Cumplimiento): qué un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/li-auto-l6/
+- **Sugerencia de imagen**: diagrama de sistemas de carga térmica (ICE vs EV)
+- **Texto ALT**: ICE versus EV puntos de evaluación de la adaptación térmica
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Evidencia Boundary
 Dos capas de evidencia se mantienen separadas. El tema **conformidad ahora descansa en fuentes primarias** —el marco de la Organización de Normalización del CCG (OMG), aplicado a nivel nacional por Arabia Saudita a través de SASO/SABER y por la UAE a través del Ministerio de Comercio (ECAS)— y se cita en Fuentes. Los artículos de adaptación **ingenierantes** abajo (cooling, charge, AC, sellling y EV térmicas candidatas) siguen descansando en una sola fuente de upfit/ingeniería o industria y permanecen SINGLE_ Puntos de evaluación de la CORRECCIÓN, no requisitos legales del Golfo. No hay un único uniforme "Espección de golf": confirmar cada artículo con el OEM/upfitter para el modelo y el sobre operativo, y contra la aplicación del texto de la GSO del país ** (Las rutas de Saudi y UAE difieren y se muestran por separado a continuación).
@@ -52,30 +54,30 @@ La adaptación no sustituye el acceso al mercado: el vehículo y cualquier compo
 **¿Dónde encuentro exactamente los estándares de calor/AC de GSO?** Comience de la lista de regulaciones técnicas de la OSG, a continuación, abra la ruta nacional ** del país de la descriminación** — SASO/SABER para Arabia Saudita, MoIAT para los EAU — porque el texto de la OSG se aplica a nivel nacional. Esta guía no cita ningún número específico de calor/AC estándar que no podía verificar directamente; los candidatos de ingeniería aquí todavía requieren confirmación de OEM/upfitter.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
- - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
- - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
- - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
- - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
- - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
- - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
- - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
- - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
- - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
- - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
- - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
- - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

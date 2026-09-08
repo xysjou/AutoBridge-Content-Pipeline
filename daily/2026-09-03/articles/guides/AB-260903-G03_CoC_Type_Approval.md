@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide
 - **Meta Description**: Untangle China's domestic certificate of conformity from destination-market CoC, and EU WVTA, EAEU OTTS/EAC and e-mark/E-mark systems — so the right dossier reaches the registration desk.
-- **Suggested URL**: /guides/vehicle-coc-type-approval-dossier/
 - **H1**: Vehicle CoC and Whole-Vehicle Type Approval: Matching the Right Document to the Right Market
 - **Primary Keyword**: vehicle certificate of conformity vs type approval wvta otts emark
 - **Secondary Search Terms**: China CoC export, EU whole vehicle type approval, EAEU OTTS EAC, e-mark vs E-mark, UNECE 1958 type approval, vehicle registration dossier
+- **Suggested URL**: /guides/vehicle-coc-type-approval-dossier/
+- **Search Intent**: Understand Vehicle CoC and Whole-Vehicle Type Approval: Matching the Right Document to the Right Market: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
-- **Image Suggestions**: document-hierarchy diagram (type approval → CoC); market→certificate map; China CoC vs destination CoC comparison
-- **ALT Suggestions**: "type approval to certificate of conformity hierarchy"; "WVTA OTTS E-mark market map"
+- **Image Suggestion**: document-hierarchy diagram (type approval → CoC); market→certificate map; China CoC vs destination CoC comparison
+- **ALT Suggestion**: type approval to certificate of conformity hierarchy
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Core Confusion
 Exporters repeatedly treat **one document as if it were another**: they present a Chinese domestic 合格证/CoC as overseas market access, or assume a component E-mark certifies the whole vehicle. Type approval and a certificate of conformity sit at different levels — and getting this wrong is a common reason registration is rejected. This guide maps the systems. **Evidence note:** the China-side framework is grounded in MIIT materials; descriptions of EU/EAEU/UNECE instruments below come from certification-service providers (secondary), and the regulation texts themselves should be pulled from EUR-Lex / UNECE / the EAEU commission before a compliance decision — they are not quoted here as primary statute.

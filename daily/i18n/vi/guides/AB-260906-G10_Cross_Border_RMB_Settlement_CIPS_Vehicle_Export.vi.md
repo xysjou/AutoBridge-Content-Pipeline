@@ -1,16 +1,16 @@
 # Đặt lại xe cộ Trung Quốc xuất khẩu trong RMB: Sự ổn định và vai trò của CIPS
-## SAO Siêu dữ liệu
-- **SEO Title**: RMB  Textment & CPS cho các nhà xuất bản xe cộ Trung Quốc
-- **Meta Mô tả**: Cho dù và làm thế nào một người xuất khẩu xe cộ Trung Quốc có thể được gửi tiền và nhận được tiền trong RMB, làm thế nào để giải quyết RMB, vị trí thuế và những gì CNPS thực sự làm.
-- ** H1 **: Đặt xe cộ Trung Quốc xuất khẩu trong RMB: Sự ổn định và vai trò của CIPS
-- **Cumpary Keyword**: vượt biên giới RMB con xe xuất khẩu
-- **Secondary Search termss**: RMB llation; CiPS-trat qua ngân hàng; renminbi enport; cross-bi entry RMB lessb; RMB invoicer
-- **Suggested URL**: /guides/cross-border-rmb-settlement-cips/
-- **Tìm kiếm Intent**: 汽车出口企业能否用人民币结算收汇  dám 如何办理跨境人民币结算 _CIPS 在其中起什么作用
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
-- **Image pretry**: Một người xuất khẩu so sánh tuyến định cư RMB trên màn hình với một giao thức giao thông và sơ đồ CISPS
-- **LT gợi ý**: màn hình hiển thị các tuyến đường định cư RMB chéo nhau bên cạnh một hợp đồng xuất khẩu xe
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: RMB Xây dựng và CIPS cho các công cụ xuất khẩu xe cộ Trung Quốc
+- **Meta mô tả**: Cho dù và làm thế nào một người xuất khẩu xe cộ có thể được xuất khẩu và nhận tiền trong RMB, làm thế nào đối chiếu RMB khu định cư, vị trí đóng thuế, và CIPS thực sự làm gì.
+- **H1**: Chuẩn bị xe cộ Trung Quốc xuất khẩu vào năm RMB: Thứ tự chéo RMB Khu định cư và vai trò của CIPS
+- **Từ khóa chính**: Vượt biên giới RMB khu dân cư CIPS xe xuất khẩu
+- **Cụm tìm kiếm phụ**: RMB thương mại định cư; CIPS chi trả qua ngân hàng; biên lai reminbi; cross-b thứ tự RMB thuế hoàn lại; RMB invoicer xuất khẩu
+- **URL đề xuất**: /guides/cross-border-rmb-settlement-cips/
+- **Ý định tìm kiếm**: Hiểu việc thiết lập xe cộ Trung Quốc xuất khẩu trong RMB thứ tự RMB Việc định cư và vai trò của CIPS: những gì một người xuất khẩu xe hơi/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-credit-insurance-sinosure/, /guides/china-customs-supervision-method-0110-1039/
+- **Gợi ý hình ảnh**: Một người xuất khẩu so sánh tuyến định cư RMB trên màn hình với một giao thức giao thông và sơ đồ CISPS
+- **Văn bản ALT**: Màn hình hiển thị vượt qua RMB lộ trình định cư bên cạnh một hợp đồng xuất khẩu xe
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 Việc cho xuất khẩu xe ở Reminbi thay vì Mỹ trả một lớp đô la cho người bán hàng Trung Quốc — nhưng chỉ khi nào có cấu trúc hợp pháp, người mua mới có thể mua và trả tiền cho RMB, và kênh ngân hàng hỗ trợ. Trang này giải thích về cơ sở chính sách để giải quyết RMB chéo, làm thế nào một người xuất khẩu xe nhận được RMB, vị trí xuất khẩu thuế được thỏa mãn, và chính xác những gì Hệ thống trả tiền Cross-B thứ tự Interbank (CPS) làm và không làm.
 

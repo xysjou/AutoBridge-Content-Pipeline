@@ -1,15 +1,17 @@
 # リンジ M5 2024 - 作業バン/商用MPV: 座席レイアウト、パワートレイン、輸出チェック
 
-## ツイート メタデータ
-- ** SEO タイトル**: フォーシング Lingzhi M5 2024 バンスペック, 座席 & CNG/Petrol 輸出ガイド
-- **メタ 記述**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat レイアウト,  two wheelbases, 1.5Tガソリン6MT  and  1.6L CNG 5MTの 寸法,  and  商用ビュイアー検証ポイント
-- **混雑URL**: /vehicles/forthing-lingzhi- m5/
-- H1 ホテル **: フォースティン・リンジ M5 M5L 2024 (中国): 商業バイヤーのための自家主義的なヴァンのSpecの地図
-- **主なキーワード**: Lingzhi M5のバンの指定の輸出を造る
-- **二次検索条件**:Dongfeng Lingzhi M5L 9-seat、Forthing M5 CNG 1.6の中国の商業MPVのバンの輸出、Lingzhi M5のホイールベース、Dongfengの乗客のバン
-- **内部リンクの提案**: /vehicles/gac-trumpchi- m8/; /guides/commercial-truck-fleet-procurement-china/; /guides/right-hand-drive-chinese-cars/
-- **イメージ提案**:側面図M5Lの長いボディ;9-seat内部レイアウト;1.5T対1.6 CNGカード;貨物/座席折りたたみ;側面のドアを滑らせて下さい
-- アルト 提案**: "2024 Forthing Lingzhi M5L nine-seat commercial van, 中国仕様"; 「リンジ M5 5/7/9 シートレイアウトオプション」; 「リンジ M5 1.5T ガソリン対 1.6 CNG」
+## SEOメタデータ
+- **SEOタイトル**: 造るLingzhi M5 2024のバンSpecs、座席及びCNG /Petrol輸出ガイド
+- **メタディスクリプション**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat レイアウト,  two wheelbases, 1.5Tガソリン6MT  and  1.6L CNG 5MT、 寸法,  and  商用ビュイアー検証ポイント
+- **H1**: Lingzhi M5 / M5L 2024(中国):商用バイヤーのためのユーティリティバンスペックマップ
+- **主要キーワード**: Lingzhi M5のバンの指定の輸出を造る
+- **関連検索語**: Dongfeng Lingzhi M5L 9-seatのForthing M5 CNG 1.6の中国の商業MPVのバンの輸出、Lingzhi M5のホイールベース、Dongfengの乗客のバン
+- **推奨URL**: /vehicles/forthing-lingzhi-m5/
+- **検索意図**: Lingzhi M5 / M5L 2024(中国):商用バイヤーのためのユーティリティバンスペックマップ:車両/部品輸出業者が何を検証し、文書化し、注文をコミットする前に決定しなければならない。
+- **内部リンク候補**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
+- **画像候補**: 側面のプロフィール M5L の長いボディ
+- **ALTテキスト**: 2024 Forthing Lingzhi M5L nine-seat commercial van, 中国仕様
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## 車両の役割
 
@@ -35,8 +37,6 @@ Lingzhi M5は、高級感ではなく、人移動や光のマルチユースデ�
 Two procurement points stand out. まず、** 行はマニュアル** — キャプチャされた2024範囲で自動はありません。そのため、自動/AMTを必要とするバイヤーは、他の場所を見て、特定のエクスポートビルドを確認する必要があります。 第二、 **CNG版は実質的に低電力** (75 kW)  and  天然ガス給油所だけに関連している  and  CNG登録対応 ガスインフラ市場向けにランニングコストを削減できるが、1.5T.の代替品ではない 1.5T は 8.4 L/100 km および 160 km/h の上の速度のまわりで WLTC の結合された図を記録します。 M5L 1.5T 9-seaterの車両重量は〜1700 kg(単一ソース、Dongchedi — コンプライアンスプレートで確認)です。
 
 ## 座席および使用構成
-
-
 
 - **旅客シャトル**:9-seat M5Lの最高運賃を支払う能力 — 車両のカテゴリが9の乗員とライセンスクラスを運ぶことができるローカルルールを確認します。
 - **クルー+貨物/コンバーチブル使用**:座席がリムーバブル/折りたたむか、目的地が乗客または商業としてユニットを登録するかどうかを確認します(これは、課税と検査に影響を与えます)。
@@ -75,44 +75,44 @@ M5Lは7席または9席、M5席のショートテーブル席、5/7/8席のシ�
 フォードはRHD市場で他の製品を販売していますが、RHD Lingzhi M5は想定されるよりも特定の目的地で確認する必要があります。
 
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 MPV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
 ## ソースと検証
 
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | Lingzhi公式パラメータ | 東風フォースイング(公式) | CN の | 以下は、 https://www.fxauto.com.cn/index.php/car/parameter?cid=37 の | 2026-09-02 | 検証済み | ホイールベース2800/3000、5/7/9の座席、シャーシのフレームワーク |
-| M5L 1.5T 9-seatモデル | ドネッディ (懂车帝) | CN の | 以下は、 の | 2026-09-02 | CROSS_CHECKED(クロス) | 1.5T 140 kW 300 N·m、3000 mm WB、カーブ1700 kg | https://www-hl.dongchedi.com/auto/series/445/model-92416
+| M5L 1.5T 9シートモデル | ドネディ(以下、CN)の | CNの | CNの | CNの | CNの | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | 1.5T 140 kW 300 N・m、3000 mm WB、 動作1700 kg | https://www.hl.dongchedi.com/auto/series/445/model-92416
 | Lingzhiパラメータテーブル | PCauto (太平洋汽车) | CN の | 以下は、 https://car.pcauto.com.cn/360/m124835/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | 次元、CNG のパワートレイン、WLTC 8.4、保証、価格 |
 | Lingzhi M5 記事 | イーチェ (易车) | CN の | 以下は、 https://m.yiche.com/zhai/261903/ の | 2026-09-02 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、7/9-seatレイアウト |
 
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 
 *Confidence Note(AutoBridge標準): 寸法/ホイールベース/シートレイアウトは、Forthingの公式パラメータページでVERIFIEDです。 1.5T/CNGのパワートレインは、クロス_CHECKEDです。 カール重量はSINGLE_ コース RHDの仕様は、主張されていません。 ふりがな
 

@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, China)
 - **Meta Description**: Chinese-market Trumpchi E8 new-energy PHEV MPV — 2.0ATK engine, 134 kW motor, 25.57 kWh battery, 150 km CLTC, 2+2+3 seating, and how it differs from the non-charging Glory HEV.
-- **Suggested URL**: /vehicles/gac-trumpchi-e8/
 - **H1**: GAC Trumpchi E8 PHEV: Chinese-Market Seven-Seat MPV Specs and Export Notes
 - **Primary Keyword**: gac trumpchi e8 phev specs export
 - **Secondary Search Terms**: Trumpchi E8 MPV, 传祺E8 PHEV, E8 Glory HEV difference, Trumpchi E8 7-seat, Chinese PHEV MPV export
+- **Suggested URL**: /vehicles/gac-trumpchi-e8/
+- **Search Intent**: Understand GAC Trumpchi E8 PHEV: Chinese-Market Seven-Seat MPV Specs and Export Notes: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
-- **Image Suggestions**: E8 side profile MPV; 2+2+3 seat layout; charging port vs no-port HEV; third row; V2L outlet
-- **ALT Suggestions**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 seating and cargo"
+- **Image Suggestion**: E8 side profile MPV; 2+2+3 seat layout; charging port vs no-port HEV; third row; V2L outlet
+- **ALT Suggestion**: GAC Trumpchi E8 PHEV seven-seat MPV China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: an MPV Purchase Is Decided by Seating and by the PHEV/HEV Split
 For an MPV exporter the questions are cabin geometry and seat architecture first, powertrain second. On the E8 there is a naming trap: the **E8 New Energy is a plug-in hybrid with a charging port**, while the **E8 Glory (荣耀) is an HEV with no charging port**. They are different energy types and must be quoted on separate lines. This sheet documents the **Chinese-market PHEV (REFERENCE MARKET: CHINA)**; an OEM configuration page was captured.

@@ -1,14 +1,16 @@
 # Membangun Overseas After- Sales, Parts and Warranty Network Dari Stand Start
-## SEO Metadata
-- *** Judul SEO **: Bagian luar laut Setelah Penjualan, Bagian & Warranty Network Setup Panduan
-- ** Meta Description **: Bagaimana eksportir kendaraan membangun kerja di luar negeri setelah penjualan - model jaringan yang cocok dengan dasar, saham suku cadang regional, jaminan yang cocok dengan kapasitas layanan nyata, dan harapan kebijakan Cina di belakangnya.
-- ** Sugesti URL **: guide overseas -aftersales -parts rance- warighty- network
--   H1 Gedung Luar Negeri Setelah Penjualan, Bagian-Bagian dan Kapasiti Warranty Untuk Kendaraan Terekspor
-- ** Primer Keyword **: diluar negeri bagian jaminan jaringan eksportir garansi
-- ** Akhir Pencarian Second **: eksportir jaringan layanan luar negeri, gudang bagian daerah, jaminan kendaraan kebijakan luar negeri, independen multi- merek jaringan perbaikan, dealer dukungan setelah penjualan
-- *** Internal Link Sugestions **: guide kendaraan-export-salesman-contraces-clauses guide china-mocoolle -licents -custom-documents guarders overseas -parts-forforforforforest- network
-- *** Saran Gambar **: memasang -base GNU network- model pohon keputusan; partai-saham tiers; prarty- kapabilitas yang cocok loop
-- ** Saran ALT **: "model jaringan penjualan setelah dipasang"; "Tiers suku cadang regional"
+## Metadata SEO
+- **Judul SEO**: Overseas After- Sales, Parts & Warranty Panduan Penyiapan Jaringan
+- **Deskripsi Meta**: Bagaimana eksportir kendaraan membangun kerja di luar negeri setelah penjualan - model jaringan yang cocok dengan dasar, saham suku cadang regional, jaminan yang cocok dengan kapasitas layanan nyata, dan harapan kebijakan Cina di belakangnya.
+- **H1**: Membangun Overseas After- Sales, Spare - Bagian dan Kapasity Warranty untuk Exported Vehicles
+- **Kata kunci utama**: bagian luar negeri setelah penjualan garansi ekspor jaringan setup
+- **Istilah pencarian sekunder**: ekspor jaringan layanan luar negeri, gudang bagian daerah, jaminan kendaraan kebijakan luar negeri, independen multi- merek jaringan perbaikan, dealer dukungan setelah penjualan
+- **URL yang disarankan**: /guides/overseas-aftersales-parts-warranty-network/
+- **Maksud pencarian**: Memahami Pemasok Bangunan Luar Negeri Setelah-Penjualan, Spare-Bagian dan Kapasitas Warranty untuk Kendaraan Tereksport: apa kendaraan / bagian eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
+- **Saran gambar**: installed- base GNU network-model keputusan tree
+- **Teks ALT**: model jaringan aftersales oleh dasar terpasang
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Scope: ini tentang layanan operasi, bukan membeli bagian cadangan
 Pemandu ini akan melindungi setelah penjualan, persediaan suku cadang dan pemenuhan jaminan di pasar tujuan. Hal ini sengaja berbeda dari topik terpisah dari * memperoleh * suku cadang di Cina (ada gugus konten suku cadang _ bagian) - sourcing komponen adalah masukan; halaman ini adalah tentang ** kemampuan operasi ** yang mengubah bagian-bagian menjadi pelanggan uptime.
@@ -52,18 +54,18 @@ garansi hanya dapat dipercaya sampai batas jaringan dapat menghormati itu:
 Bagaimana ini berbeda dari panduan "membeli suku cadang"? Itu mencakup bagian sumber daya di Cina; ini meliputi mengoperasikan kemampuan layanan / bagian / garansi di pasar tujuan.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf

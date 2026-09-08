@@ -1,14 +1,16 @@
 # (هونغوجانغ) MIEV Macaron (3rd Gen) 2024: a Micro-EV يجب أن يُصَمّدَ بشكل صحيح
-## SEO Metadata
-- ** عنوان المنظمة**: Wuling Hongguang MINIEV Macaron 2024 Specs " Export Notes
-- ** وصف البيانات**: Chinese-market 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, 20 kW محرك  170/215 km CLTC, بطارية "اللو إف بي" بطيئة في المقام الأول سرعة قصوى 100 km/h منطق اختيار الرتبة  and  -مصدرة
-- ** اقتراح مقدم من الاتحاد الأوروبي المعني بمكافحة العنف الجنسي**: /حلقات/حلقات من طراز hongguang-miniev/ (صفحة نموذجية من نوع كل عام؛ وحافظ على سنة نموذجية في H1/body، وليس في النص العربي)
-- ** H1 **** Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro-EV Specs and Export checks
-- ** كلمة مفتاحية رمزية**: مدفع هونغغوانغ مينيف مكرون 2024 مطياف
-- ** شروط البحث الثانية**: MINIEV ماكارون "وتصدير "إف في الدقيقة "مينييف 20kW"  170 215 CLTC city car, بطارية صغيرة من طراز LFP
-- ** Internal Link Suggestions**: /vehicles/byd-dolphin/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/container-vehiloading-lashing/
-- ** اقتراحات تتعلق بالنص**: 3-door جثة مع أبواب مفتوحة؛ 4-seat كوخ صغير؛ - ميناء الشحن (شحنة متدنية)؛ مقارنة حجم السيارة
-- ** الاقتراحات**: "الذى يُطلق النار" (أ) أبعاد الأشعة السينية الدقيقة في ماكارون؛ "MIEV Macaron 170 215 CLTC range"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Wuling Hongguang MINIEV Macaron 2024 Specs Export Notes
+- **وصف Meta**: Chinese-market 3rd-gen Wuling  MINIEV  Macaron — 3-door 4-seat micro  EV , 20 kW محرك  170/215 km  CLTC , LFP بطارية بطيئة في المقام الأول سرعة قصوى 100 km/h منطق اختيار الرتبة  and  -مصدرة
+- **H1**: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks
+- **الكلمة المفتاحية الرئيسية**: wuling hongguang miniev macaron 2024 specs
+- **مصطلحات بحث ثانوية**: MINIEV ماكارون  Wuling micro  EV  export, MINIEV 20kW،  170 215  CLTC  city car,  Wuling  LFP  small battery
+- **URL المقترح**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **نية البحث**: Understand Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **اقتراح الصورة**: 3-door جثة مع أبواب مفتوحة
+- **نص ALT**: MINIEV من أبعاد ماكرون البالغة الصغر EV
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## Buyer Context: مطابقة المنتج لقضية الاستخدام
 "الـ "هونغوجانغ مييف ماكارون سيارة كهربائية حضرية ** وليس سيارة إي في مدمجة. At **3064 mm long  and  777 kg kerb**, إنه يجلس في صف كامل تحت قفزة صغيرة - على نطاق واسع  الدلافين على نفس الفهرس **4125 mm long** with 420/520 km CLTC grades. وهذه الفجوة هي قرار الشراء بأكمله: قيمة ماكارون هي حركة المدينة القصيرة المدى في نقطة سعر صينية منخفضة جداً (**) القيود المفروضة عليها هي السرعة القصوى (** 100 km/h **)،  range (**170/215 km CLTC**), السرعة  and  حجم الكوخ (أ) أن يقوم المصدر الذي يوضعه ضد المركبات الإلكترونية من القطاع باء بخلق مشاكل في العائدات؛ الشخص الذي يبيعه كمنتج مُحدد في لن يفعل وتغطي هذه الصفحة ماكارون البالغ عددها 3rd-generation **، وهو العام النموذجي 2024 (الإنعاش في ماركيزت: **.
@@ -18,7 +20,7 @@
 |---|---|
 | | 3-door, 4-seat hatchback |
 | محرك مركب مركب | 20 kW (170 km grade) |
-| كيميائي البطارية | LFP; the 215 km grade carries about 13.4 kWh (single-source) |
+| كيميائي FP; ويبلغ طول درجة الـ 215 كيلومترا نحو 13.4 كيلوواط (مصدر خارجي) |
 | درجات النطاق في لجنة التجارة الدولية | 170 km 215 km |
 | السرعة القصوى | 100 km/h (مصدر خارجي) |
 | وزن الكرنب | 777 kg (مصدر خارجي) |
@@ -62,17 +64,17 @@
 ** هل هو منافس لـ "إي في" عادي؟ لا - بجانب 4.1 متر، 420+ كيلومتر من الدلافين، فهي أصغر درجة؛ وهي تضعها كبديل للمدينة فوق القطع، وليس كعائلة للطرق السريعة.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
@@ -92,11 +94,11 @@
 |---|---|---|---|---|---|---|
 | ماكارون يضيف 170 km 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | صرخات | 20 kW، 170 km، السعر المحلي (الوقت - النسيج) |
 | MINIEV 2025 | قاعدة بيانات دونغشيدي | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | صرخات | السنة النموذجية، درجات النطاق، مشروع تجديد نظم الإدارة المحلية (TIME_SENSITIVE) |
-| 2024 ماكارون 215 | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE OURCE | 3064/1493/1629، 2010 mm، 777 kg (وسائط DB، وليس OEM) |
+2024 ماثيوبي 215 Auto database | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE OURCE ) 3064/1493/1629, 2010 mm, 777 kg (DB, OEM) |
 | بطارية الشحن | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE OURCE | ≈13.4 kWh, طريقة تحميل الرسوم |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 

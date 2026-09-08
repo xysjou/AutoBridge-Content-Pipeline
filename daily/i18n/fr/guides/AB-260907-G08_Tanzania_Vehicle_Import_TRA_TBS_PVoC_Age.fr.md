@@ -1,16 +1,16 @@
 # Importation de véhicules en Tanzanie: La voie des douanes EMR et la voie du CCP/CdC du SCT
-## OEuvre Métadonnées
-- **Référencement au titre**: Importation de véhicules en Tanzanie: Douanes des EMR et SCT PVC/CoC expliqués
-- **Description détaillée**: Comment l'importation de véhicules en Tanzanie se divise entre le dédouanement des EMR sous EACCMA/TANCIS et la conformité des VCP avant expédition du SCT (avec une catégorie de véhicules automobiles d'occasion) et ce qui doit être vérifié pour l'âge et les droits.
-- ** H1 **: Importation de véhicules en Tanzanie: La voie des douanes EMR et la voie du CCP/CdC du SCT
-- ** Mot-clé principal**: tanzanie véhicule importation tra tbs pvoc âge
-- **Termes de recherche secondaires**: TBS PVoC véhicules automobiles usagés; Tanzania CDC préexpédition; importations de TANCIS TRA; EACCMA 2004 véhicules importés; Tanzania voiture usagée limite d'âge; CCCI PVoC Chine
-- **URL suggérée**: /guides/tanzanie-véhicule-import-tra-tbs-pvoc-age/
-- **Intentité à la recherche**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责 -PVoC/CoC 机制与二手车专门类别, 以及车龄 / 税率需向谁核验
-- **Suggestions de lien interne**: /guides/auto-auto-âge-utilisé-, /guides/assurance-cargo-marine-icc-incoterms/, /guides/véhicule-pré-expédition-inspection-pdi/
+## Métadonnées SEO
+- **Titre SEO**: Importation de véhicules en Tanzanie: TRA Douanes et TBS PVC/CoC expliqués
+- **Description meta**: La façon dont l'importation en Tanzanie se divise entre TRA dédouanements sous EACCMA/TANCIS et TBS préexpéditions, la conformité au VCP (avec une catégorie de véhicules automobiles d'occasion) et ce qui doit être vérifié pour l'âge et les droits.
+- **H1**: Importation de véhicules en Tanzanie: La voie douanière TRA et la voie TBS PVC/CoC
+- **Mot-clé principal**: tanzanie véhicule importation tra tbs pvoc âge
+- **Termes de recherche secondaires**: TBS véhicules automobiles d ' occasion du PVOC; Préexpédition du CoC en Tanzanie; TRA TANCIS importations; EACCMA 2004 importation de véhicules; Tanzanie a utilisé la limite d'âge pour les voitures; CCIC PVC Chine
+- **URL suggérée**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **Intention de recherche**: Comprendre l'importation de véhicules en Tanzanie: La voie douanière TRA et le TBS PVC/CoC Suivi: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
 - **Suggestion d'image**: Un véhicule d ' occasion inspecté dans un chantier d ' exportation pendant qu ' un document de conformité est préparé
-- **ALT Suggestion**: Véhicule soumis à une inspection avant expédition, à côté d ' un certificat de conformité sur un presse-papiers
-- **Schema Portée**: Article (aucun produit/offre/prix/réexamen/cotisation)
+- **Texte ALT**: Véhicule soumis à une inspection préalable à l'expédition, à côté d'un certificat de conformité sur un presse-papiers
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 La Tanzanie est un marché à un seul pays, avec un système d'importation à deux voies, et un exportateur de véhicules qui le considère comme un processus perd du temps au port. Une piste appartient à la **Tanzania Revenue Authority (TRA)** - déclaration en douane, cotisation des droits et dédouanement en vertu de la loi sur la gestion des douanes de la Communauté de l'Afrique de l'Est. L'autre appartient au **Tanzania Bureau of Standards (TBS)** — évaluation de la conformité avant expédition qui décide si un envoi réglementé, véhicules automobiles usagés inclus, est même autorisé. Ce guide est propre à la Tanzanie (il ne s'agit pas d'un énoncé à l'échelle de l'Afrique de l'Est) et s'appuie sur les pages primaires actuelles du SCT et des EMR. Il explique les deux voies de façon autorisée et, lorsque les documents primaires officiels relatifs à l'âge des voitures d'occasion et aux taux de droits de douane sur les véhicules n'ont pas pu être récupérés à l'étape de l'examen, il indique que ces documents sont des éléments à vérifier plutôt que d'inventer des chiffres.
 

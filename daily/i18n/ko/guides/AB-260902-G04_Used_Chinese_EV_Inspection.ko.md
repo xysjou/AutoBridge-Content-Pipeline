@@ -1,14 +1,17 @@
 # 중국 EV Pre-Export 검사를 사용하는: 건전지 SOH Done Properly, 더하기 사고, 홍수 및 거리계 체크
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 EV 검사: 배터리 SOH, 홍수 및 거리계 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
-- **마타 기술 **: 수출하기 전에 사용되는 중국 EV를 검사하는 방법 - SOH는 실제로 배터리 표준, 미터 충전 시험, 셀 균형 독서, 사고 flood 심사 및 odometer-vs 사이클 크로스 체크를 의미하는 것은 법적 임계값을 발명하지 않고.
-- **Suggested URL**: /guides/used-chinese-ev-inspection/
-- ** H1 **: 수출의 앞에 사용된 중국 EV 검열: 배터리 번호가 의미하고 거부하는 것
-- ** 일기 키워드 **: 중국 EV 검사 배터리 SOH 검사표 사용
-- ** 보조 검색 조건 **: EV 배터리 SOH 표준 QC T 743, GB T 사이클 수명, EV 셀 전압 불균형, EV 홍수 손상 검사, 거리계 롤백 배터리 사이클 카운트 사용 31484
-- ** 내부 링크 제안**: /guides/verify-china-car-export-supplier/; /guides/chinese-ev-charging-standard-compatibility/; /guides/import-chinese-ev-to-russia-eac-ottc/
-- ** 이미지 제안**: 진단 의자 SOH와 세포 전압 해독; metered 20–80% charge worksheet; 배터리 undertray 검사 포인트; 기록 표본
-- **ALT 제안**: "SOH 및 최대 셀 전압 차이를 보여주는 독립 진단 보고서"; "미터 충전 에너지 테스트 워크 시트"; "EV 배터리 팩 언더테이 레이 검사 포인트"
+## SEO 메타데이터
+- **SEO 제목**: 중국 EV 검사: 건전지 SOH의 홍수 & 거리계 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
+- **메타 설명**: 수출하기 전에 사용되는 중국 EV을 검사하는 방법 - SOH는 실제로 배터리 표준, 미터 충전 시험, 셀 균형 독서, 사고 / 홍수 스크린 및 odometer-vs 사이클 크로스 체크, 발명 된 법적 임계 값이없는.
+- **H1**: 중국 EV 검사 수출의 앞에: 건전지 수는 의미하고 거절하는 무엇
+- **주요 키워드**: 중국 EV 검사 건전지 SOH 검사표
+- **보조 검색어**: EV 건전지 SOH 기준 QC/T 743의 GB/T 31484 주기 생활, 사용된 EV 세포 전압 불균형, EV 홍수 손상 검사, 거리계 rollback 건전지 주기 조사
+- **추천 URL**: /guides/used-chinese-ev-inspection/
+- **검색 의도**: 중고 중국 EV 검사를 견딜 수 있습니다. 수출하기 전에: 건전지 수 평균과 거부하는 무엇: 차량/부품 수출업자가 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정.
+- **내부 링크 제안**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **이미지 제안**: 진단 기구 SOH와 세포 전압 readout
+- **ALT 텍스트**: SOH 및 최대 셀 전압 차이를 보여주는 독립적 인 진단 보고서
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## 범위: 검사 설명서, 새로운 vs 사용 된 토론 아닙니다
 **사용**를 구입하는 결정은 주어진대로 촬영됩니다. 이 페이지는 ** 수출 전에 기술 검사를 다룹니다.**. 사용되는 EV의 경제는 고전압 배터리에 의해 지배됩니다. 착용한 팩을 가진 청결한 몸은 선박 후에 보충 비용 보다는 더 적은이 있을 수 있습니다, 그래서 가동의 검사 순서는 얼음 차에서 다릅니다. 중앙 목표는 "SOH 80%"이 실제로 "공학 참조, 보편적 인 세관 라인이 아닌에 대해 정확해야합니다.
 ## SOH 소개 - 그리고 80% 그림이 실제로 의미
@@ -58,18 +61,18 @@
 **왜 홍수 손상은 특히 EV에서 위험합니까?** 그것은 팩과 corrode 숨겨지은 degrade 할 수 있고, 수출 후에 안전과 신뢰성 실패를 일으키는 원인이 되었습니다.
 ** EV에 odometer 사기가 있습니까? ** 배터리 사이클 카운트 및 물리적 마모와 표시된 주행거리 비교; 높은 사이클을 가진 낮은 odometer는 경고입니다.
 ## 이미지 기록
-- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
-- ORIGINAL_IMAGE_URL: 캡처되지 않음
-- SOURCE_PAGE: 캡처되지 않음
-- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
-- permission_HOLDER: 확인되지 않은
-- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
-- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
-- BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
-- 언어 별 ALT:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
@@ -89,10 +92,10 @@
 | GB/T 견인 건전지 주기 생활 방법 | 중국 국가 표준 (**표준체**) | 담당자: Mr. wang | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 대한 자세한 정보 | 2026-09-03 | ** 인증** | Capacity/cycle-life 시험 기구; 처음 수용량 필요조건 | 31484
 | IEC 62660-1/2 리튬 이온 세포 테스트 | IEC (국제적 ** 표준 신체 **) | - 연혁 | https://www.iec.ch/ (IEC 62660 시리즈) | 2026-09-03 | ** 인증** | SOH를 위한 표준화된 세포 시험 기초 |
 | GB/T 46991.1-2025 내장 SOH/SOC 디스플레이 정확도 및 내구성 (MIIT/SAC) | 중국 권장 국가 표준 (**표준체**) | 담당자: Mr. wang | 표준 적용을 통해 보고; SAC/MIIT 채널의 기본 | 2026-09-03 | CROSS_체크 | 내장된 건강 디스플레이 정확도는 별도의 표준(법적 수입 라인 없음) |
-| SOH 정립 및 QC/T 743 80%의 끝 생활 규칙 | LNC의 배터리 기술 설명자 (산업) | - 연혁 | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE_SOURCE(싱글) | 수용량 근거한 SOH 공식; 기업 end-of-life 참고로 80% |
+| SOH 정립 및 QC/T 743 80%의 끝 생활 규칙 | LNC의 배터리 기술 설명자 (산업) | - 연혁 | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE_SOURCE(싱글) | 수용량 근거한 SOH 공식; 기업가 정신 80% |
 | NEVs 충전 테스트 및 심사 방법을 구입하는 핵심 포인트 | Yiche, Dongchedi (자동 매체; 방법 참고) | 담당자: Mr. wang | https://hao.m.yiche.com/wenzhang/107776270/ 경우 | 2026-09-03 | SINGLE_SOURCE(싱글) | 검사 방법, 책임 시험, 사고/flood/odometer 연습 |
-| 懂车帝 二手车电池检测内容 | 懂车帝 (字节跳动년) | 담당자: Mr. wang | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE_SOURCE(싱글) | 20% - 80% 充电验证衰减方法년 |
-| 懂车帝 二手电车三招排除事故 泡水 调表 调表 泡水 调表 泡水 调表 泡水 调表 调表 调表 调表 调表 调表 调表 泡水 调表 泡水 调表 泡水 调表 泡水 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 泡水 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 调表 | 懂车帝 (视频년) | 담당자: Mr. wang | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE_SOURCE(싱글) | 事故 泡水 调表排查方法, 电池包护板拆装痕迹 调表排查方法 泡水 调表排查方法 泡水 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 调表排查方法 电池包护板拆装痕迹 泡水 调表排查方法 泡水 调表排查方法 泡水 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 电池包护板拆装痕迹 |
+            ) ) ) ) ) ) )   ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 담당자: Mr. 광 | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE_SOURCE(싱글) | 20% - 80%  方法人 |
+三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 水 水 水 水 水 水 水 水 水 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 三 담당자: Mr. wang | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE_SOURCE(싱글) | 事故 泡水 调表排查方法, 电池包护板拆装痕迹 调表排查方法 泡水 调表排查方法 泡水 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 调表排查方法 电池包护板拆装痕迹 泡水 调表排查方法 泡水 调表排查方法 泡水 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 调表排查方法 电池包护板拆装痕迹 调表排查方法 电池包护板拆装痕迹 电池包护板拆装痕迹 |
 | Jingsuncar - 2026 二手新能源出口指南, 중국 | Jingsuncar (行业站년) | 담당자: Mr. wang | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html 으로 문의하세요. | 2026-09-02 | SINGLE_SOURCE(싱글) | 出口 SOH≥ 80% 认证门槛 (EU/东盟) |
 
 *Confidence 참고: 배터리 표준 정의 (SOH 측정, 사이클 테스트, 80% 엔지니어링 컨벤션)는 표준 기관에 대해 VERIFIED CROSS_CHECKED입니다. 이전 "SOH ≥ 80%는 EU ASEAN 인증"지정에 필요한 공식 소스가 없으며 제거되지 않았습니다: 범용 법적 SOH 가져 오기 임계 값이 없으며, 대상 기관의 규칙은 국가 당 얻어야합니다. 검사-method 영상은 방법 참고로만 사용됩니다. ****************************************************************************************************************************************************************************************************************************************************************

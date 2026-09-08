@@ -1,16 +1,16 @@
 # チェリー・フルウィンA8 (Fengyun A8): 中国市場 PHEV セイダン輸出参照
-## ツイート メタデータ
-- **SEOのタイトル**: チェリー フォルウィン A8 PHEV 輸出仕様: Two Range Lines, バッテリー  and  モード
-- **メタ 説明**: チェリー・フルウィン/Fengyun A8 プラグインハイブリッドセダンの中国市場参照: 70 km と 145 km ラインは、別々に保たれ、C-DM ハイブリッド システム、充電および PHEV 固有のエクスポートチェック。
-- H1 ホテル **: チェリー フルウィン A8 (Fengyun A8): 中国市場 PHEV セイダン輸出参照**
-- **主なキーワード**:Chery Fulwin A8 Fengyun A8輸出仕様
-- **二次検索条件**: フルウィンA8 C-DM PHEV; 風雲A8 CLTC電気範囲; 風速A8 145 km;Cheryのプラグインの雑種の輸出;Fulwin A8次元
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Search Intent**: 面向海外 B 端买家介绍风云 A8 中国市场版本身份、插混系统 / 纯电续航 / 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **イメージ提案**: 充電ポートが見えるChery Fulwin A8プラグインハイブリッドセダンの側面図
-- アルト 提案**: 充電折り返しの可視性のChery Fulwin A8 PHEVのセダンの側面のプロフィール**
-- **Schema Scope**: Article + Vehicle
+## SEOメタデータ
+- **SEOタイトル**: チェリー フーウィン A8 PHEV 輸出仕様: Two Range Lines, バッテリー  and  モード
+- **メタディスクリプション**: チェリー・フルウィン/Fengyun A8 プラグインハイブリッドセダンの中国市場参照: 70 km と 145 km ラインは別々に保たれ、C- DM ハイブリッド システム、充電および PHEV - 特定の輸出チェック。
+- **H1**: チェリー・フルウィンA8 (Fengyun A8)): 中国市場PHEV セイダン輸出参照
+- **主要キーワード**: Chery Fulwin A8 Fengyun A8の輸出仕様
+- **関連検索語**: フーウィンA8 C- DM PHEV;Fengyun A8 CLTC電気範囲;Fulwin A8 145 km;Cheryのプラグインの雑種の輸出;Fulwin A8次元
+- **推奨URL**: /vehicles/chery-fulwin-a8/
+- **検索意図**: 耐圧防爆破船A8 (Fengyun A8): 中国市場PHEV セダン輸出 参照: 車両/部品輸出業者が確認しなければならないか、文書を文書化し、注文をコミットする前に決定する。
+- **内部リンク候補**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **画像候補**: 充電ポートが見えるChery Fulwin A8プラグインハイブリッドセダンの側面図
+- **ALTテキスト**: チェリー・フルウィンA8 PHEVのsedanの側面のプロフィールは可視する折り返しを満たします
+- **スキーマ範囲**: Article + Vehicle
 
 フーウィンA8(中国風水雲A8)は、クンペンC-DMハイブリッドシステムに構築されたチェリーのコンパクトなプラグインハイブリッドセダンです。 フロントホイール駆動 電動モーターとガソリンエンジンを組み合わせるPHEV  and  牽引電池。 PHEVs reward careful reading because two 'range lines' with different batteries  and  outputs sit under one model name, ボディはA8L体以上。 これらは別々の行を保つ**中国語市場の参照です。**
 
@@ -86,16 +86,16 @@ The 145 line is quoted at ≈19 minutes for 30–80% (single-source, 確認し�
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 风云 A8 2025 款 70km 标准型 (1.5L 102Ps、CLTC 纯电 70、4780 × 1843 × 1487) | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | http://db.m.auto.sohu.com/trim_178074 | 70 线动力、尺寸、纯电续航  |
-| 2025 款风云 A8 空间尺寸 (4780 × 1843 × 1487、WB2790、后排 907mm) | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸、轴距  |
+| 风云 A8 2025 款 70km 标准型 (1.5L 102Ps 、  CLTC  纯电 70 、 4780 × 1843 × 1487) | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | http://db.m.auto.sohu.com/trim_178074 | 70 线动力 、 尺寸 、 纯电续航 |
+| 2025 款风云 A8 空间尺寸 (4780 × 1843 × 1487 、 WB2790 、 后排 907mm) | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸 、 轴距 |
 | 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | 日 時 分 | T3 | シングル_ソース | https://m.16888.com/news/2026/0814/24847862.html | 145 线系统功率のDHT  |
 | 风云 A8 C-DM (145km、快充 30% - 80% 约 19 分钟、热效率 44.5%) | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充、热效率、纯电续航  |
 | 奇瑞汽车官方网站 (风云系列) | チェリー自動車 | CN の | T1 | 検証済み | https://www.chery.cn/m | アイデンティティ — OEM の公式; フォルウィン (Fengyun) PHEV ライン アイデンティティ |
-| Chery Fulwin A8 2025 トリム & スペック (独立した DB) | カルニュース中国 コンテンツ | CN の | T2 | CROSS_CHECKED(クロス) | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — 独立した英語データベース。寸法/トルクのクロスチェック |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — PHEV の変種とバッテリーをアナウンスで確認 |
+| チェリー・フルウィン A8 2025 トリム & スペック (独立した  DB) | カルニュース中国 コンテンツ |  CN  の | T2 |  CROSS | CHECKED (クロス) | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — 独立した英語データベース | 寸法 / トルクのクロスチェック |
+| 道路机动车辆生产企业及产品公告(查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ ～ PHEV の変種とバッテリーをアナウンスで確認 スタッフ
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参照の市場**:中国(70 线/145 线分列;电池供应商 UNVERIFIED 不写;出口命名另证)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

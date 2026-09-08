@@ -1,15 +1,17 @@
 # 车辆出口文件包:当前证书标准与仍在起草中的强制性标准
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 中国车辆出口文件包指南——GB/T 21085-2020 现行标准
-- ** 金属说明**: 围绕现行GB/T 21085-2020工厂证书构建出口文件,将其与仍在开发的强制性20260041-Q-339标准区分开来,并将NEV/译码项目作为建议处理.
-- ** 建议的URL**: 指南/出口-车辆-文件包
-- ** H1 资源需求。 **: 编集中国车辆出口文件包——什么是当前,什么仍然是草案,什么是我们的建议
-- ** 基本关键词**:车辆出口文件包工厂证书 GB/T21085
-- ** 二级搜索术语**:机动车出厂合格证,GB/T21085-2020 现值,20260041-Q-339 草案,合格出口证明,NEV出口文件UN38.3
-- ** 内部链接建议**: /指南/vin-名牌核查-钦那车辆/;/指南/前发货-un3556-imdg-compliance/;/指南/钦那-出口-原产地证书/证书
-- ** 图像建议**:文档捆绑布局;当前-vs-草案标准时间表;国内对导文件分割
-- ** ALT建议**:“当前GB/T21085-2020证书与强制性20260041-Q-339草案”
+## SEO元数据
+- **SEO标题**: China Vehicle Export Document Package Guide —  GB/T  21085-2020 Current Standard
+- **Meta描述**: 围绕目前的GB/T 21085-2020工厂证书建立出口文件, 将其与仍在拟订的20260041-Q-339号强制性标准区分开来;  and  treat  NEV /translation items as recommendations.
+- **H1**: 编集中国车辆出口文件包——什么是当前,什么仍然是草案,什么是我们的建议
+- **核心关键词**: 车辆出口文件包工厂证书 GB/T21085
+- **次级搜索词**: 机动车出厂合格证,GB/T21085-2020 现,20260041-Q-339 草案,合格出口证明,NEV 出口文件 UN38.3
+- **建议URL**: /guides/export-vehicle-document-package
+- **搜索意图**: 理解中国车辆出口文件包——什么是当前文件,什么仍然是草案,什么是我们的建议:车辆/部件出口商在承诺发布命令之前必须核实、记录和决定什么。
+- **内链建议**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **图片建议**: 文档捆绑布局
+- **ALT文本**: 现有GB/T21085-2020证书与强制性20260041-Q-339草案
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 陷阱:将标准草案视为当前
 文档包装指南常常引用即将出台的强制性证书标准,似乎该标准已经生效。 这就产生了目前规则所支持的对文书工作的期待。 本页绘制硬线:**当前**机动车厂证书标准为**GB/T 21085-2020**;强制更换(计划** 20260041-Q-339**)正在开发中,既不公布也不生效**,不得作为现行要求提出.
@@ -19,7 +21,6 @@
 - ** * 车辆工厂证书*,计划编号20260041-Q-339**——打算取代GB/T 21085-2020,指定2026-01-27为16-month周期,目前正在核准中; MIIT"GB 21085 QQ"文本是**协商草案**. 合同**未公布,无效,绝不能在买方开具的文件中标注现行或强制性**。
 
 ## 移交文件集(交叉检查)
-
 
 ## 不完整车辆 规则:在目前的基础上撤回
 早先的草案描述了从进口的不完整车辆或通过多阶段制造完成的车辆将如何只发给整车工厂证书。 该规则**仅来源是一份协商草案**;目前GB/T 21085-2020案文或任何现行条例**均未确认,因此此处没有**作为现行要求**。 在非草案基础存在之前,逐个处理任何此类安排。
@@ -60,16 +61,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Vehicle export document package, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export document package, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export document package, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Vehicle export document package, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Vehicle export document package, guia de compras para exportação de veículos
+- ** ** AutoBridge出口-买方参考——车辆出口文件包、车辆-出口采购指南
+- **法国**: 汽车出口汽车-汽车出口文件包,汽车出口指南
+- DE**: 国家 AutoBridge-Referenz für Exportkäufer——车辆出口文件包,莱特法登 für Fahrzeugexport-Einkauf
+- **ES**: 出口商品自动保险总公司——车辆出口文件包,出口商品总公司
+-  **: 出口商品自动批发公司——车辆出口文件包,出口商品出口商品的进口商品
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Vehicle export document package, 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Vehicle export document package, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Vehicle export document package, hướng dẫn thu mua xuất khẩu xe
+- **VI**: 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Vehicle export document package, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Vehicle export document package, panduan pengadaan ekspor kendaraan
+- 身份证**: 车辆出口文件包,潘都安 engadaan ekspor kendaraan
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 

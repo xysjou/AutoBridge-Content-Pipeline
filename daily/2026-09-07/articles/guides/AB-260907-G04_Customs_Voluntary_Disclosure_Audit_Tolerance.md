@@ -6,7 +6,7 @@
 - **Primary Keyword**: china customs voluntary disclosure audit tolerance
 - **Secondary Search Terms**: customs voluntary disclosure China;主动披露; no administrative penalty customs; customs audit regulation article 27; late payment surcharge reduction
 - **Suggested URL**: /guides/customs-voluntary-disclosure-audit-tolerance/
-- **Search Intent**: 海关主动披露是什么、符合条件为何可不予/减轻行政处罚、现行政策窗口与办理要点
+- **Search Intent**: Understand Customs Voluntary Disclosure in China: Turning a Self-Found Error Into a Tolerance Outcome: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
 - **Image Suggestion**: A finance officer preparing a written voluntary-disclosure report with a customs audit file open
 - **ALT Suggestion**: Hands preparing a voluntary disclosure letter beside an open customs audit folder

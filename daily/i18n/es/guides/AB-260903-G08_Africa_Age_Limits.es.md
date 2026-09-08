@@ -1,14 +1,17 @@
 # Límites de edad de importación de coches usados africanos: una matriz de verificación de país por país
-## SEO Metadatos
-- **SEO Título**: Africa Used-Car Import Age Limits by Country: Kenya & Nigeria Verificado
-- **Meta Descripción**: Los límites de edad de los automóviles africanos, los de dirección y las puertas de inspección — Kenya (8 años desde el primer registro) y Nigeria (15 de fabricación) ahora están anclados a fuentes primarias, otros mercados marcados para la verificación oficial.
-- ** URL agregada**: /guides/africa-used-car-import-age-limits/
-- ** H1 **: Límites de edad de auto usados en los mercados africanos: una matriz construida para ser verificada, no memorizada
-- **Primary Keyword**: Africa usó el límite de edad de importación de automóviles por matriz de país
-- **Segundary Search Terms**: Kenia usó el límite de edad del coche 8 años primer registro, Nigeria importador de automóviles 15 años fabricación, Etiopía usó la prohibición del coche, importación de Ghana OBD, Mozambique edad del vehículo, Sudán límite de edad, Côte d'Ivoire CoC, KEBS DKS 1515
-- **Sugerencias de Enlace Interno**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/vehicle-coc-type-approval-dossier/; /guides/china-vehicle-export-license-customs-documents/
-- **Sugerencias de imagen**: cuadro de matriz de país; cronograma de la fabricación y el primer año de inscripción; diagrama de ruta oficial de verificación
-- **Sugerencias de ALT**: "Matricia de verificación de la edad de los automóviles usados africanos"; "año de fabricación versus primer año de registro"
+## Metadatos SEO
+- **Título SEO**: Africa Used-Car Import Age Limits by Country: Kenya & Nigeria Verificado
+- **Meta descripción**: Los límites de edad de los automóviles africanos, los de dirección y las puertas de inspección — Kenya (8 años desde el primer registro) y Nigeria (15 de fabricación) ahora se anclan a fuentes primarias, otros mercados marcados para la verificación oficial.
+- **H1**: Límites de edad de auto usados en los mercados africanos: una matriz construida para ser verificada, no memorizada
+- **Palabra clave principal**: África usó límite de edad de importación de automóviles por matriz de país
+- **Términos de búsqueda secundarios**: Kenya utilizó el límite de edad del coche 8 años primer registro, Nigeria importador de automóviles 15 años fabricación, Etiopía uso de la prohibición del coche, Ghana OBD importación, Mozambique edad del vehículo, Sudán límite de edad, Côte d'Ivoire CoC, KEBS DKS 1515
+- **URL sugerida**: /guides/africa-used-car-import-age-limits/
+- **Intención de búsqueda**: Comprender los límites de edad de auto usados en los mercados africanos: una matriz construida para ser verificada, no memorizada: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Sugerencia de imagen**: cuadro de matriz de países
+- **Texto ALT**: matriz de verificación de la edad límite de los automóviles utilizados en África
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+
 ## Lea el techo de evidencia antes de la tabla
 Los límites de edad cambian, se aplican de manera diferente por puerto, y con frecuencia se citan erróneamente en resúmenes de flete. Esta página separa **dos niveles de evidencia**. **Kenya y Nigeria están ahora anclados a las fuentes primarias de destino** (una autoridad de ingresos/personal y un órgano de normas) y su base de edad se indica a continuación. **Cada otra fila de países sigue siendo un valor reportado de material de reenvío/media** y está marcado por la verificación oficial, no se declara como hecho resuelto. No existe una sola regla regional "África": cada país establece su propia base de edad, dirección de reglas e inspección, y un solo titular "años X" sin esa base es inseguro.
 ## Primero: saber qué "Age" es estar asegurado

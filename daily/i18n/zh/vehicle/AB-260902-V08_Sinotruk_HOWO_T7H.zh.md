@@ -1,15 +1,17 @@
 # Sinotruk HOO T7H拖拉机车——6×4 重型高压光谱和出口配置指南
 
-## 道德操守办公室 元数据
-- ** SIO标题**:Sinotruk HOO T7H 6x4 拖拉机光谱、发动机和导出指南
-- ** 金属说明**: HOWO T7H tractor head: 威海460 PS号 中国制造了MAN技术MC11/MC13型出口发动机 12-speed AMT,(美国) 40 t GCW,(英语:General W, 轴 欧元V/VI选项  and  买方核查点。
-- ** 提议URL**:车辆/新车-豪沃-t7h-tractor/
-- ** H1 资源需求。 **:Sinotruk HOO T7H 拖拉机:选择发动机、驱动线和出口正确排放
-- ** 基本关键词**:Sinotruk HOO T7H拖拉机卡车规格出口
-- ** 二级搜索术语**: 榴弹炮 T7H 6x4 460, 辛诺特鲁克 MC13 540拖拉机, 威海WP10.5H卡车 中国重型拖拉机出口, 何奥欧元 V型拖拉机头, LNG 拖拉机车
-- ** 内部链接建议**:车辆/沙克曼-x3000-dump-truck/;指南/商业-卡车-卡车-飞机-采购-钦纳/;指南/进口-钦纳-卡车-萨乌迪-萨索/
-- ** 图像建议**: 6x4 拖拉机头侧视图; 威海与MC引擎比较; 第五轮和轴线; 高屋顶卧铺出租车; 12-speed AMT 选择器
-- **ALT建议**: "中华/出口配置Sinotruk HOO T7H 6x4拖拉机头"; "HOWO T7H 并联驱动轴和第五轮"; "MC13 540 MAN-技术柴油机"
+## SEO元数据
+- **SEO标题**: 辛诺特鲁克 HOWO T7H 6x4 拖拉机光谱、引擎和导出指南
+- **Meta描述**: HOWO T7H台拖拉机头: 威海 460 PS (中文(简体)). 中国制造对MAN - 技术MC11/MC13出口发动机, 12-speed AMT 号, 40 t GCW 号, 轴 V欧元/VI欧元选项  and  买方核查点。
+- **H1**: Sinotruk HOWO T7H 拖拉机:选择引擎、驱动线和出口排放正确
+- **核心关键词**: Sinotruk HOWO T7H 拖拉机卡车规格出口
+- **次级搜索词**: HOWO T7H 6x4 460 锡诺特鲁克 MC13 540 拖拉机 威海 WP10.5H 卡车 中国重型拖拉机出口 HOWO欧元 牵引车头,LNG
+- **建议URL**: /vehicles/sinotruk-howo-t7h-tractor/
+- **搜索意图**: 了解Sinotruk HOWO T7H 拖拉机:选择引擎、驱动线和导出排放 正确:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定的内容。
+- **内链建议**: /vehicles/shacman-x3000-dump-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
+- **图片建议**: 6x4 拖拉机头侧视图
+- **ALT文本**: Sinotruk HOO T7H 6x4 牵引头,中国/出口配置
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## T7H号是什么
 
@@ -67,30 +69,30 @@ Sinotruk提供出口T7H building,其等级为**欧元V和欧元VI**(和LNG气版
 ** ** 详细中国公告数据来自360che;引擎家庭及出口选项由Sinotruk官方频道确认. 最后文件前交叉核对。
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 重型牵引车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Sinotruk HOWO T7H, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Sinotruk HOWO T7H, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Sinotruk HOWO T7H, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Sinotruk HOWO T7H, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Sinotruk HOWO T7H, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Sinotruk HOWO T7H, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Sinotruk HOWO T7H, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Sinotruk HOWO T7H, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
 ## 源码验证(V)
 

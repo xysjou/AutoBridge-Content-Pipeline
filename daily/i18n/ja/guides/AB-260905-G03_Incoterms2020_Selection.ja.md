@@ -1,15 +1,17 @@
 # 中国の車両輸出におけるインコターム2020を選ぶ — リスクとコスト配分
 
-## ツイート メタデータ
-- **SEOタイトル**: 車輸出のためのIncoterms 2020の選択ガイド: FOB、CIF、FCA、CIP、DDPおよび多く
-- **メタ 記述**: 車両出荷時、保険のリスクとコストの転送、海上のみ対多条件、CIF/CIP の保険、DDP が売り手の負担を最大にする適切な Incoterms 2020 ルールを選択します。
-- H1 ホテル **:中国車輸出におけるインコターム2020を選ぶ — リスクとコスト配分
-- **主なキーワード**:インコターム 2020 選択ガイド
-- **二次検索条件**:インコターム2020; FOB対FCA; CIF対CIP; DDPリスク; 多項式; リスク転送
-- **混雑URL**: /ガイド/インコターム- 2020-selection-guide/
-- **Search Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020（保险责任）（明确风险转移点与费用）（术语）
-- **内部リンクの提案**: /guides/export-payment-methods-t-lc-risk/、/guides/marine-cargo-insurance-history/、/guides/china-export-customs-declaration-single-window/
-- **シュマスコープ**: 記事(製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: 車輸出のためのIncoterms 2020の選択ガイド:FOB、CIF、FCA、CIP、DDPおよび多く
+- **メタディスクリプション**: 車両出荷時、保険のリスクとコストの転送、海だけの対物多商品条件、CIF/CIP未満の保険、およびDDPの最大の利益率の適切なインコターム2020規則を選択してください。
+- **H1**: 中国の車両輸出におけるインコターム2020を選ぶ — リスクとコスト配分
+- **主要キーワード**: incoterms 2020 selection guide
+- **関連検索語**: 初期値 2020; FOB 対 FCA; CIF 対 CIP; DDP 危険; 多項式; リスク転送
+- **推奨URL**: /guides/incoterms-2020-selection-guide/
+- **検索意図**: 中国の車両輸出におけるインコターム2020の選択を把握 — リスクとコスト配分:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **画像候補**: 中国の車両輸出におけるインコターム2020を選ぶ現実的で文書/車両に焦点を当てたシーンをイラスト化 — リスクとコスト配分、段階的な検査や要求の人々。
+- **ALTテキスト**: 中国の車両輸出におけるインコターム2020の選択に関する資料のクローズ、自然的視野 - リスクとコスト配分、中立的な背景、人や検査の行動は示されていません。
+- **スキーマ範囲**: 記事(商品・オファー・レビューなし)
 
 ## 輸送モードから始めて、習慣ではなく
 Incoterms 2020には、輸送のあらゆるモードと海/陸水路輸送の伝統的に分けられた**eleven**ルールが含まれています。 車両輸出では、最初の選択肢は、移動が港から港まで海(RoRoRo/container)またはマルチモーダル(内陸トラック/レールプラス海、中央アジアトラックに共通)であるかどうかです。 多動移動の海だけを模索することで、リスクが通過するギャップを生成します。
@@ -34,8 +36,7 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 ** CIF は、売主が目的地に危険を及ぼすという意味ですか?**
 **CIF 対 CIP カバーか。** CIP は、合意の対象となる CIF よりも高い保険レベルにデフォルトで設定します。
 **中国輸出業者のDDPリスクはなぜですか?** 目的地の輸入通関、関税、税金を担当する売り手になります。
-**How many Incoterms 2020 rules?** Eleven, in two transport-mode groups.
-
+**2020年の規約はいくつですか?** イーブン、2つのトランスポートモードグループ。
 
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
@@ -45,7 +46,7 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 | 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf の | 风险转移、象征性交货 |
 | 規約 2020 規則 (ICC) | 国際商取引の商工会議所 | CN の | T1 | 検証済み | 以下は、 https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Incoterms 2020の認証発行者 |
 | WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
-| ICC規則(Incoterms 2020規則所有者 — 専用ページ) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は、 | ICC規則は、現在の著作権条件のセットおよびICCによるメンテナンスとして、Incoterms 2020を確認するインデックス | https://iccwbo.org/business-solutions/icc-rules/
+|  ICC  規則 (Incoterms 2020 規則所有者 — 専用ページ) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は 、 |  ICC  規則は 、 現在の著作権条件のセットおよび  ICC  によるメンテナンスとして 、Incoterms 2020 を確認するインデックス | https://iccwbo.org/business-solutions/icc-rules/
 | FIATA — 投資家がインコタームで練習する | 公益財団法人 貨物運送協会(FIATA) | エントリー | T1/T2 | 検証済み | 以下は、 担当: 藤田 宏 | 配送ポイントのフォワーダー・サイド・解釈、リスク・トランスファー、インコタームに基づく輸送義務 | https://www.fiata.org/
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
@@ -55,18 +56,18 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**:中国車輸出におけるインコターム2020の正確な選択
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 中国の車両輸出におけるインコタームの2020を選ぶ
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -79,6 +80,5 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
   - **ID**: Incoterms selection, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Incoterms selection, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Incoterms selection, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #Incoterms #TradeTerms

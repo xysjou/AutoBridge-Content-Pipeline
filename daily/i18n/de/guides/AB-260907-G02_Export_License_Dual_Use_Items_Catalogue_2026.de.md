@@ -1,16 +1,16 @@
 # Chinas 2026 Katalog für Güter mit doppeltem Verwendungszweck: Wenn ein Fahrzeugexport eine Lizenz vor der Erklärung benötigt
-## SEO Metadaten
-- **SEO Titel**: China Dual-Use Export License & 2026 Katalog für Fahrzeugexporteure | AutoBridge
-- **Meta Description**: Wie funktioniert Chinas 2026 Dual-Use-Artikel und Technologien Import / Export-Lizenzkatalog, als die 2025 No. 91 Ankündigung in Kraft trat, und wie ein Exporteur bestätigt, ob ein Teil oder eine Technologie aufgeführt ist.
-- ** H1 **: Chinas 2026 Dual-Use-Artikelkatalog: Wenn ein Fahrzeugexport eine Lizenz vor der Erklärung benötigt
-- ** Primäres Keyword**: China Dual Use Items Exportlizenzkatalog 2026
-- **Secondary Search Terms**: Exportlizenz für Dual-Use-Artikel China; MOFCOM GACC Ankündigung 2025 Nr. 91; Ausfuhrkontrollgesetz China; Endverwender Endverwendung Erklärung; kontrollierte Artikel Zollerklärung
-- **Vorgeschlagene URL**: /guides/export-license-dual-use-items-catalogue- 2026/
-- **Search Intent**: 两用物项和技术 2026 目录如何适用, 列入目录为何须先取证再报关, 出口经营者的最终用户 / 最终用途责任
-- **Interne Linkvorschläge**: /guides/ipr-customation-recordation-export-protection/, /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
+## SEO-Metadaten
+- **SEO-Titel**: China Dual-Use Export License & 2026 Katalog für Fahrzeugexporteure | AutoBridge
+- **Meta-Beschreibung**: Wie funktioniert Chinas 2026 Dual-Use-Artikel und Technologien Import / Export-Lizenzkatalog, als die 2025 No. 91 Ankündigung in Kraft trat, und wie ein Exporteur bestätigt, ob ein Teil oder eine Technologie aufgeführt ist.
+- **H1**: Chinas 2026 Katalog für Güter mit doppeltem Verwendungszweck: Wenn ein Fahrzeugexport eine Lizenz vor der Erklärung benötigt
+- **Haupt-Keyword**: China, Zweizweckartikel Exportlizenzkatalog 2026
+- **Sekundäre Suchbegriffe**: Ausfuhrlizenz für Güter mit doppeltem Verwendungszweck China; MOFCOM GACC Ankündigung 2025 Nr. 91; Ausfuhrkontrollgesetz China; Endverwender-Endverwendungserklärung; Zollanmeldung für kontrollierte Artikel
+- **Vorgeschlagene URL**: /guides/export-license-dual-use-items-catalogue-2026/
+- **Suchabsicht**: Chinas 2026 verstehen Katalog für Güter mit doppeltem Verwendungszweck: Wenn ein Fahrzeugexport eine Lizenz vor der Erklärung benötigt: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
 - **Bildvorschlag**: Ein Export Compliance Officer vergleicht eine Teileliste mit einem offiziellen Lizenzkatalog auf einem Bildschirm
-- **ALT Vorschlag**: Person, die eine Liste gedruckter Teile mit einem Lizenzkatalog vergleicht, der auf einem Monitor angezeigt wird
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+- **ALT-Text**: Person, die eine Liste gedruckter Teile mit einem Lizenzkatalog vergleicht, der auf einem Monitor angezeigt wird
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Die meisten fertigen Personenkraftwagen sind gewöhnliche gewerbliche Güter, aber das Fahrzeuggeschäft bewegt auch Gegenstände, die auf einer anderen rechtlichen Spur stehen: Dual-Use-Artikel und Technologien, die sowohl zivilen als auch militärischen oder proliferationsrelevanten Anwendungen dienen können. Bestimmte Bordelektronik, Navigations- oder Sensorkomponenten, spezielle Materialien, Produktionstechnologie und einige fahrzeugseitige Geräte können in einen kontrollierten Katalog fallen. Für diese Waren China erlaubt keine Erklärung zuerst und spätere Klarstellung: Der Betreiber muss vor der Zollanmeldung die korrekte Lizenz besitzen. In diesem Leitfaden werden die rechtliche Hierarchie, die Art und Weise, wie der aktuelle Katalog herausgegeben und in Kraft gesetzt wird, und die anhaltende Verantwortung des Ausführers für Endverwender und Endverwendung erläutert, wobei die Einzelpostenklassifizierung dem offiziellen Katalog und den zuständigen Behörden überlassen bleibt.
 

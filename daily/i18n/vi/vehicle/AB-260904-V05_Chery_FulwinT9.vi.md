@@ -1,15 +1,17 @@
 # Chery Fulwin T9 (风云 T9): một máy bổ sung C-DM lai giữa kích cỡ S. — China Specs để xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEAO Title**: Chery Folwin T9 C-DM PHV Spec & Xuất Hướng dẫn (Trung tâm tham khảo)
-- **Meta Mô tả**: Trung Quốc Chery Fulwin T9 C-DM plug-in irip SUV - 1.5T động cơ dành riêng cho người dùng, 150 kW động cơ trước, 32.66 kWh ắc quy,  120–220 km CLTC, 5/7 ghế.  and  Kiểm tra xuất khẩu.
-- ** URL đã gợi ý**: /vehicles/chery-fulwin- t9/
-- ** H1 **: Chery Fulwin T9 C-DM: Trung Quốc-Market PHV kính hiển vi và xuất dạng Verification
-- **Cupemary Keyword**: cherry fulwin t9 mase erace
-- **Secondary Search Words**: Fulwin T9 C-DM, 风云 T9 plug-in lai, Chery T9 32.66kWh, Fulwin T9 7-seat, Xuất khẩu SUV kiểu Hoa
-- **I nội bộ Link gợi ý*: un3556-imdg-compliance/; /vehcles/byd-qin-l-dm-i; /guides/port-vecle-docilt- wrap/
-- **Image gợi ý**: Folwin T9 ba phần tư; cổng sạc; 5 chống lại bố trí chỗ 7; 1.5T C-DM phù hiệu; khu vực hàng hóa
-- **LT Những gợi ý**: "Trung tâm xử lý T9 C-DM cắm SUV lai." "Fulwin T9 32.66kWh battery CLTC range"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Chery Fulwin T9 C- DM PHEV Hướng dẫn Xuất và Hình ưa thích (Trung Quốc tham chiếu)
+- **Meta mô tả**: Trung Quốc Chery Fulwin T9 C- DM plug in fold SUV — 1.5T động cơ dành riêng cho người dân, 150 kW động cơ trước, 32.66 kWh ắc quy,  120–220 km  CLTC , 5/7 ghế.  and  Kiểm tra xuất khẩu.
+- **H1**: Chery Fulwin T9 C- DM: China-Market PHEV SUV Specification và Xuất khẩu Vulification
+- **Từ khóa chính**: Chery fulwin t9 phổ xuất
+- **Cụm tìm kiếm phụ**: Fulwin T9 C- DM, 风云 T9 plug-in irison, Chery T9 32.66kWh, Fulwin T9 7-seat, xuất khẩu Trung Quốc PHEV SUV
+- **URL đề xuất**: /vehicles/chery-fulwin-t9/
+- **Ý định tìm kiếm**: Hiểu rõ Tuyết Nhi T9 C- DM: Hoa - Market PHEV SUV Specs  and  Xuất khẩu mục lục: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Gợi ý hình ảnh**: Fulwin T9 three-quarter
+- **Văn bản ALT**: Trò chơi nhập vai Chery Fulwin T9 C-DM
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Văn cảnh mua: một chiếc SUV hộ gia đình PHV với một phiên bản dài
 Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra trong năm-  and  seven-seat forms. Hai lỗi thứ tự chi phối mô hình này: Pha trộn mức T9 với T9L **, và trích dẫn phạm vi điện mà không đặt tên cho pin. Trang này có tài liệu **Chỉ có tiêu chuẩn Fulwin T9 (REFERCE MỘT CÒI: Chloe; dài hơn T9L (khoảng 4870 mm 2920 mm bánh xe) là một cơ thể khác và cố tình bị loại trừ. Một trang cấu hình OEM đã được ghi lại cho mô hình này, để củng cố cơ sở thông minh.

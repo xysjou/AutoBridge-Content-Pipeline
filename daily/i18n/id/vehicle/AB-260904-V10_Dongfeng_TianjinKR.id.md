@@ -1,15 +1,17 @@
 # Dongfeng Tianjin KR (天锦 KR) Truk Recoasted: Chassis, Superstructurch dan GVW untuk Ekspor
 
-## SEO Metadata
-- ** Judul SEO **: Dongfeng Tianjin KR Recompected Truck Specs & Ekspor Panduan (18t)
-- ** Deskripsi Meta **: Dinese- Pasar Dong Tianjin KR 6.8 m reefer - Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana aksele, 18 t GVW, MIIT model kode, dan bagaimana chassis differs dari superstruktur pendingin.
-- ** Sugested URL **: kendaraan dongfeng-tianjin-kr
--   H1 **: Dongfeng Tianjin KR Truk redundansi: Specs Superstruktur Chassis + untuk Ekspor Buyers
-- ** Primary Keyword **: dongfeng tianjin krar pendingin ekspor spesifikasi truk
-- ** Second Second Search Terms **: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truk, ekspor truk pendingin Cina, chassis GVW 18t
-- ** Internal Link Sugestions **: guide moolcle-exports -hs- codefication guide export-oolc-package kendaraan jmc-shunda
-- *** Sugestions Gambar **: KR reefer sisi 6.8m kotak; frame chassis; mesin Cummins B6.2; unit pendingin; pintu belakang dan interior
-- "Dongfeng Tianjin KR 6.8m truk pendingin 18t"; "Samsat Tianjin KR vs superstruktur reefer"
+## Metadata SEO
+- **Judul SEO**: Dongfeng Tianjin KR Refrigerated Truck Specs & Ekspor Panduan (18t)
+- **Deskripsi Meta**: Pasar Cina Dongfeng Tianjin KR kaki 6.8 meter di atas kaki - Cummins B6.2 180 kW / 1000 N·m, Fast 8-speed, Dana Axle, 18 t GVW, MIIT model kode, dan bagaimana chassis berbeda dari superstruktur pendingin.
+- **H1**: Dongfeng Tianjin KR Truk redundansi: Specs Superstruktur Chassis + untuk Ekspor Buyers
+- **Kata kunci utama**: Dongfeng tianjin krr pendingin ekspor spesifikasi truk
+- **Istilah pencarian sekunder**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truk, ekspor truk pendingin Cina, 18t GVW chassis
+- **URL yang disarankan**: /vehicles/dongfeng-tianjin-kr/
+- **Maksud pencarian**: Mengerti Dongfeng Tianjin KR Truk redundansi: Chassis + Superstructure Specs untuk Ekspor Buyers: exportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Saran gambar**: KR reefer sisi 6.8m kotak
+- **Teks ALT**: Dongfeng Tianjin KR 6.8m truk pendingin 18t
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Kendaraan Khusus Adalah Dua Produk - Chassis dan Superstruktur
 Truk pendingin bukan spesifikasi pabrik tunggal. ** chassis ** (mesin, gearbox, axle, GVW, roda, roda) dibangun oleh pembuat truk; ** isolasi kotak, unit pendingin, zona suhu dan ketebalan adalah upfit ** yang dipasang oleh pembangun tubuh. Memperlakukan unit reefer sebagai fitmen pabrik tetap - atau menggabungkan 6.8 m KR dengan KR Plus yang lebih besar - adalah kesalahan pengadaan utama di sini. Halaman ini mendokumentasikan chassis reefer ** Cinese- pasar Tianjin KR 18 t -class reefer (REFERENCE MARKET: CHINA) *; kode model muncul dalam pengumuman publik MIIT, yang menentukan spesifikasi hukum.

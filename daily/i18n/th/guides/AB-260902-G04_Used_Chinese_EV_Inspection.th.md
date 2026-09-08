@@ -1,14 +1,17 @@
 # ใช้ EV ล่วงหน้า-เอ็กซ์พอต การเลือกตั้ง: แบตเตอรี SOH ทําอย่างถูกต้อง บวกกับอุบัติเหตุ, น้ํา ท่วมและอุกอาจเช็ค
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: การเลือกตั้งด้วย EV ของจีน: แบตเตอรี SOH, น้ําท่วมและวัดโอดมิเตอร์ Check
-- ""คําอธิบาย" วิธีตรวจสอบ อีวี ที่ใช้กันในจีน ก่อนการส่งออก SOH หมายถึงอะไร ภายใต้มาตรฐานแบตเตอรี่ การตรวจค่าชาร์จแบบเมตร การอ่านค่าเซล ความบังเอิญ การตรวจสอบและ OCD-V จักรยานข้ามล้อ โดยไม่มีการประดิษฐ์ระบบกฎหมาย
-- ~ที่อยู่ URL ที่ถูกย่อ: guides/chinish-v-inspect/
-- ** H1 **: พิจารณาค่า EV ของภาษาจีนที่ถูกใช้ก่อนส่งออก: ตัวเลขแบตเตอรีมีความหมายอย่างไร และปฏิเสธอะไร
-- ~คีย์เวิร์ดของกลุ่มวิชาต่าง ๆ ~: ใช้แบตเตอรี SOH ของจีน
-- ** การค้นหาโดยระบบย่อย **: EV แบตเตอรี SOH มาตรฐาน QC/T 743 วงจรชีวิต (GB/T ใช้ความไม่สมดุลของเซลล์ EV การตรวจสอบความเสียหายของ EV น้ําท่วม, นับแบตเตอรีหมุนกลับวัด 31484
-- ** เชื่อมโยงภายใน **: guides/ version-china-car-support-supplier/; guides/chines-v-chiniing-compactition/;///guides/import-chinishe-to-sia-ac-ac-acotc/
-- ข้อเสนอแนะ: โปรแกรมวิเคราะห์-เครื่องมือ SOH และระบบควบคุมการทํางาน metered 20–80% charge worksheet; แบตเตอรี่กําลังตรวจสอบจุด EXC
-- ข้อสังเกต: "รายงานการตรวจสอบความพึ่งพาใน SOH และค่าเซลล์ที่มากที่สุด ความแตกต่าง". "ค่าชาร์จไฟค่าธรรมเนียมค่าธรรมเนียมค่าไฟฟ้า". "ค่าแบตเตอรีสํารองสํารองระดับชั้นชั้นใต้".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: ใช้ภาษาจีน EV การติดเชื้อ: แบตเตอรี SOH, น้ําท่วมและวัดโอด Check
+- **คำอธิบาย Meta**: วิธีตรวจสอบชาวจีน EV ก่อนการส่งออก - ความหมายจริง SOH ภายใต้มาตรฐานแบตเตอรี่, การทดสอบการชาร์จแบบเมตร, การอ่านค่าเซลเซล, อุบัติเหตุ/การตรวจวัดและ OCD-VCycle cross, โดยไม่มีการประดิษฐ์ระบบกฎหมาย
+- **H1**: ใน การ สํารวจ ชาว จีน EV ที่ ใช้ กัน ก่อน จะ ออก หาก: หมาย ถึง อะไร และ จะ ปฏิเสธ อะไร
+- **คีย์เวิร์ดหลัก**: used Chinese  EV  inspection battery  SOH  checklist
+- **คำค้นหารอง**: EV แบตเตอรี่ SOH มาตรฐาน QC/T 743 GB/T 31484 วงจรชีวิต ใช้ความไม่สมดุลของไฟฟ้าของเซลล์ EV เครื่อง EV การตรวจสอบความเสียหายน้ําท่วม การ นับ วัฏจักร ของ แบตเตอรี่
+- **URL ที่แนะนำ**: /guides/used-chinese-ev-inspection/
+- **เจตนาการค้นหา**: จง เข้าใจ การ ตรวจ สอบ ความ หมาย ของ จีน EV ที่ ใช้ กัน ก่อนการส่งออก: เหตุการณ์ที่ตัวเลขของแบตเตอรีมีความหมายและสิ่งใดที่จะปฏิเสธ: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ, เอกสารและตัดสินใจก่อนทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **คำแนะนำรูปภาพ**: เครื่องวินิจฉัย โรค SOH และอ่านค่าเซลล์-โวลตาจออก
+- **ข้อความ ALT**: รายงานการตรวจสอบอิสระแสดงความแตกต่างของเซลล์ SOH และสูงสุดของเซลล์
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
+
 ## ขอบเขต: คู่มือการฉีดเลือด ไม่ใช่การชําระหนี้ใหม่
 การตัดสินใจซื้อ~ ถูกใช้ไป~ โดยมีหน้านี้ครอบคลุมการตรวจสอบทางเทคโนโลยี ~ ก่อนการส่งออก~ เศรษฐศาสตร์ของ EV ที่ใช้แล้วถูกควบคุมด้วยแบตเตอรี่ที่เพิ่มขึ้นสูง ร่างกายที่สะอาดที่มีแพ็คที่สวมใส่สามารถมีมูลค่าน้อยกว่าค่าใช้จ่ายที่ทดแทนหลังจากการขนส่ง ดังนั้นลําดับการตรวจสอบของการดําเนินการ จึงแตกต่างจากรถไอซีเอ เป้าหมายหลักคือต้องแม่นยําว่า "SOH 80%" คืออะไร จริง ๆ แล้วคือ การอ้างอิงทางวิศวกรรม ไม่ใช่เส้นศุลกากรสากล
 ## อะไร Soh คือ — และ ที่ ว่า 80% ตัวเลข หมาย ความ ว่า อย่าง ไร จริง ๆ
@@ -58,18 +61,18 @@
 ทําไม ความ เสีย หาย จาก น้ํา ท่วม จึง มี อันตราย เป็น พิเศษ ใน อีวี? มันสามารถลดความอ้วนของแพ็คและคอโรดที่ซ่อนอยู่ควบคุมหรือการเชื่อมต่อ ก่อให้เกิดความล้มเหลวในความปลอดภัยและความน่าเชื่อถือหลังการส่งออก
 ~ ตรวจพบการทุจริตใน OCD ได้อย่างไร ~ เมื่อ เทียบ ระยะ ทาง ที่ แสดง ว่า มี การ แสดง ไว้ กับ ระยะ นับ วัฏจักร ของ แบตเตอรี่ และ การ ใส่ วงจร การ ใช้ งาน ต่ํา ซึ่ง มี วัฏจักร สูง เป็น การ เตือน.
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
@@ -86,14 +89,14 @@
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| GB/ T structry- Batry วิธีทดสอบ (T) | มาตรฐานชาติจีน (*) | CN | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | ~"ผ่านเข้ามา" | โครงสร้างการทดสอบแบบ Cacacity/ Cycle- Life; พื้นฐานการจัดการ | 31484
+| GB/ T structry- Batry วิธีทดสอบ (T) | มาตรฐานชาติจีน (*) | CN | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | ~"ผ่านเข้ามา" | โครงสร้างการทดสอบแบบ Cacacity/ Cycle- Life; 05 31484. สืบค้นเมื่อ พ.ศ. 2013/ii.8kriasmo lotimegigeg พ ศ. ศ. 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.870 – PSM. 2013/i.870 MS. 2013/i.870 MS. 2013/i.870 MS. 2013/i.870 MS. 2013/i.870 MS. - – 2013/i.870 กม. – – – . สืบค้นเมื่อ 31484. สืบค้นเมื่อ 6 พฤษภาคม พ.ศ.
 | IEC 62660-1/2 ซิลิคอน-การดําเนินงานเซลล์/ชีวิต | IEC (internation= percenter) | สากล | https://www.iec.ch/ (EEC 62660) | 2026-09-03 | ~"ผ่านเข้ามา" | SOH |
 | GB/T 46991.1-2025 บนกระดาน SOH/SOC แสดงความละเอียดและความจุได้ (MIT/SAC) | จีนแนะนํามาตรฐานแห่งชาติ (*) | CN | รายงานผ่านทาง rablegory; พื้นฐานบนช่อง SAC/MIIT | 2026-09-03 | ROOS_ CHCKED | ความแม่นยําของสุขภาพบนกระดาน ถูกแยกต่างหาก (ไม่ใช่เส้นนําเข้าทางกฎหมาย) |
-| SSOH สูตรและการประชุม QC/T 743 80% ตอนจบของชีวิต | ซีดีซี แบตเตอรี่อธิบายเทคนิค (inguture) | สากล | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | Cacacity- sSOH สูตร; 80% เป็นแหล่งอ้างอิงอุตสาหกรรม-จบชีวิต |
-| ขอบเขตสําหรับซื้ออุปกรณ์ NEV วิธีตรวจสอบและตรวจสอบการใช้แบต | ยีเช, ดองทาเด (สื่ออัตโนมัติ; วิธี อ้างอิง) | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | วิธีการฉีดวัคซีน, การตรวจประจุ, การทําโอโดมิเตอร์ |
-| 懂车帝 二手车电池检测内容 | 懂车帝 (字节跳动). | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 20%-80% 充电验证衰减方法 |
-| 懂车帝 二手电车三招排除事故 泡水 调表 | 懂车帝 (视频). | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 事故 泡水 调表排查方法 、 电池包护板拆装痕迹 |
-| ชิง ซุน คาร์ — 2026 二手新能源出口指南 | Jingsuncar (行业站). | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 出口 SOHHE 80% 认证门槛 (EU/ 东盟) พ.ศ. |
+| SSOH สูตรและการประชุม QC/T 743 80% ตอนจบของชีวิต | ซีดีซี แบตเตอรี่อธิบายเทคนิค (inguture) | สากล | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | Cacacity- sSOH สูตร; 80% – – – – – – – – – – – – – – – – ล – | | | | | | | ต ต า | | | | | | | ร ร ร ร ร ช ช ช ช ร ช ช ช ร ช ช ช ช | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| ข ข ข อ อ อ อ อ อ อ อ อ อ อ อ บ บ บ อ บ เ เ เ เ เ เ เ เ เ เ เ เ ต ต ต ต ต ต ต ต EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV EV ร EV EV ร ร ร ร ร ร ร ร 2557). 2013/i.870kias lotmeigrigegegeg (22 พ ฤ, p.ep.65383870 ม พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ. เอ็กซ์ เอ็กซ์ วิธี อ้างอิง) | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | วิธีการฉีดวัคซีน, การตรวจประจุ, การทําโอโดมิเตอร์ |
+| 懂车帝 二手车电池检测内容 | | 懂车帝 懂车帝 懂车帝 懂车帝 懂车帝 懂车帝 (字节跳动). | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 20%-80% 充电验证衰减方法 |
+| 懂车帝 二手电车 招排除事故 泡水 调表 调表 调表 调表 调表 懂车帝 (视频). | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 事故 泡水 调表排查方法 、 电池包护板拆装痕迹 |
+| ชิง ซุน คาร์ — 2026 二手新能源出口指南 | Jingsuncar (行业站). | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 出口 SOHHE 80% 认证门槛 (EU/ 东盟) พ.ศ. ○
 
 * การ วัด ความ ถี่: มาตรฐาน ของ แบตเตอรี่ นิยาม ไว้ อย่าง ไร (การ วัด ของ SOH, การ วัด วัฏจักร, การ ประชุม ทาง วิศวกรรม 80% ครั้ง) คือ การ จัด การ สัมฤ ทธิ ผล (WEIFIIEDD/CROSS_CHECCKEEEEEEEEEEIFFEEISTFEEISTEEEEIIEEEEIIISTCCCCIIIIEEEEEEEEEEEEEIIIIIIIIIIIIIIIIIIIIIIIIIIIEEEEEEEEEEIFS_SAEEISTFESTFESTAESTA ICEEEEE ICEESTAE ONDEE OND). ก่อนหน้านี้ "SOH SOH  80% จําเป็นต้องเคลียร์การอ้างสิทธิ์ในการเลือกตั้งของ EU/ASAASASASAN" ไม่มีข้อมูลอย่างเป็นทางการและถูกถอดออกไป: ไม่มีข้อจํากัดการนําเข้า SSOH ตามกฎหมายสากลอยู่ และการปกครองของหน่วยงานปลายทางจะต้องได้รับต่อประเทศ วิดีโอเกี่ยวกับการออกเสียง- method ถูกใช้เป็นวิธีการเท่านั้น *
 ## การทบทวนแก้ไข

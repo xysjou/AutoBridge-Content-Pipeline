@@ -1,15 +1,17 @@
 # เชอรีย์ ฟยุวิน T9 (风云 T9): C-DM เสียบปลั๊กไฟอิน ไฮบริด กรุ๊ป SUV ขนาดกลาง — ประเทศจีนสเปกสําหรับส่งออก
 
-## เชา ข้อมูลกํากับภาพ
-- < ESEO ชื่อเพลง ~: Chery Fulwin T9 C-DM Spects & ไกด์ส่งออก (อ้างอิงจีน)
-- ""คําอธิบาย" ร้านขายภาษาจีน เชอรีย์ ฟูลวิน T9 C-DM ปลั๊ก SUV ไฮบริดผสม (SUV) — 1.5T เครื่องที่อุทิศให้กับเครื่อง, 150 kW มอเตอร์ด้านหน้า 32.66 kWh แบตเตอรี่  120–220 km CLTC, 5/7 ที่นั่ง  and  เช็คผู้ส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/เชอรี-ฟลอวิน- ~ t9/
-- ** H1 ~: เชอรีย์ ฟูลวิน T9 C-DM: สแกน SUV แบบจีน-MCE PEV และส่งออกการตรวจสอบ
-- ~คีย์เวิร์ดของคณะรัฐมนตรี ~: Crey valy fluin t9 sports
-- ~การค้นหาตามวาระที่: ~ Fulwin T9 C-DM, 风云 T9 เสียบลูกผสม Chery T9 32.66kWh, Fulwin T9 7-seat, จีน (พ.ศ. ส่งออกไปยัง SUV แบบ PEV DE
-- ** เชื่อมโยงภายใน **. guides/v. ppining- un3556-imdg-compliance/; viohles/ bid-l-dm-i/;//guides/ exportics-Vocycument-publication/
-- ข้อเสนอแนะ: Fulwin T9 three-quarter; พอร์ตชาร์จ; 5 vs 7 ผังที่นั่ง; พ.ศ. 1.5T ตรา C-DM; พ.ศ. พื้นที่สินค้า
-- ~~~~~~~~~ คําแนะนํา: "CDM Cery Fulwin T9 ปลั๊ก SUV พันธุ์ผสม". "Fulwin T9 32.66kWh แบตเตอรี่ CLTC เรนจ์"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: เชอรีย์ ฟลวิน T9 C- DM PHEV คู่มือการส่งออกแบบ  Specs & Explation (อ้างอิงของจีน)
+- **คำอธิบาย Meta**: ร้านขายภาษาจีน เชอรีย์ ฟยุลวิน T9 C- DM เสียบลูกผสมใน SUV — 1.5T เครื่องที่อุทิศให้กับเครื่อง 150 kW มอเตอร์ด้านหน้า 32.66 kWh แบตเตอรี่  120–220 km  CLTC , 5/7 ที่นั่ง  and  เช็คผู้ส่งออก
+- **H1**: เชอรีย์ ฟยุลวิน T9 C- DM: จีน-Maget PHEV SUV Specs และส่งออกการรับรอง
+- **คีย์เวิร์ดหลัก**: Crey fluin t9 สเปกชันส่งออก
+- **คำค้นหารอง**: Fulwin T9 C- DM (พ.ศ. 风云 T9 เสียบลูกผสมใน เชอรีย์ T9 32.66kWh  Fulwin T9 7-seat, ส่งออกไปยังเครื่อง RAGN PHEV SUV
+- **URL ที่แนะนำ**: /vehicles/chery-fulwin-t9/
+- **เจตนาการค้นหา**: เข้าใจ เชอรีย์ ฟลวิน T9 C- DM: จีน-มาร์เก็ต PHEV SUV การปรับแต่งการส่งออกและส่งออก: สิ่งที่ผู้ส่งออกรถ/ parts ต้องตรวจสอบ, เอกสารและตัดสินใจก่อนที่จะทําการทําลําดับ
+- **คำแนะนำลิงก์ภายใน**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **คำแนะนำรูปภาพ**: Fulwin T9 three-quarter
+- **ข้อความ ALT**: เชอ ร์ รี ฟูล วิน T9 C- DM เสียบลูกผสม SUV
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: รถ SUV FE ร่วมกับรุ่นยาว
 Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไฮบริด เสนอในห้า  and  แบบฟอร์มอาหารเจ็ดชิ้น ความผิดพลาดสองลําดับควบคุมโมเดลนี้: ผสาน UND T9 กับ ความกว้าง T9L ~  and  ยกมาช่วงไฟฟ้า โดยไม่ตั้งชื่อแบตเตอรี เอกสารหน้านี้ ** เฉพาะมาตรฐาน Fulwin T9 (REFEST Market: หอบ) ~ T9L ยาว (ราว 4870 mm/ 2920 mm ล้อล้อล้อ) เป็นอีกร่างหนึ่ง  and  จงใจกีดกัน หน้าการปรับแต่งของโออีเอ็มถูกบันทึกสําหรับรุ่นนี้ ซึ่งช่วยเสริมสร้างความแข็งแรงให้กับฐาน
@@ -68,14 +70,14 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in SUV
+- ~~~: อ้างอิงการส่งออกของ AutoBridge- Buyer — Chery Fulwin T9, เสียบรถ SUV ไฮบริด
+- ~FR~: Réfénc Autobridge ส่งออก Acheterers — Chery Fulwin T9, vehichule softterable SUV
+- - - - - - - - - AutoBridge-Referenz furer Excufer — Chery Fulwin T9, ปลั๊ก-Hybridfhrurezoug SUV
+- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ สกา รา ซิ ยง — เชอ รี ฟูล วิน ที 9, วี อี คูลู ฮิ บริ โด อิช จู ฟฟฟฟฟฟลาย
+-~PT~: Referénia AutoBridge panyradores de Expressaau — Cherie Fulwin T9, veiculo hibrodo เสียบ SUV
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài SUV
+- ~วูฟ~: Tai liju Thomkhoo Auto Bridge jo ng ng i i i i gua xuht khu — Chery Fulwin T9, xe imum Skk ngowai SUV
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด รถเอสยูวี
   - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in SUV
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي

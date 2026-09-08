@@ -1,15 +1,17 @@
 # Thiên hà L6 EM-i (2025) — Hình Hoa - Market Spec và Xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEEO Titt**: Geely Thiên hà L6 EM-i PHV 2025: China-Market Spects & Elier Guide
-- **Meta Mô tả**: Ngân hà Trung Quốc L6 EM-i lai kết hợp: các chiều không gian xác nhận, EM-i powertrain, hai ắc quy/h, và một người nhập khẩu phải xác nhận điều gì bởi Vic.
-- ** H1 **: Geely Thiên hà L6 EM-i (2025) — China-Market Spects and Enge Verification
-- **Cumpary Keyword**: Geely 吉利银河 Thiên hà L6 银河 L6 quang phổ xuất khẩu
-- **Secondary Search termss**: Geely Dải Ngân Hà L6 xuất khẩu; Thiên hà L6 EM-i Kính lục thể PHV; nhập khẩu xe sedan của Trung Quốc; EM-i tốc độ một chiều DHT; CLTC vs WLPV
-- **Sudeest URL**: /vehicles/geely-gaxey- l6/
-- **Tìm kiếm Intent**: 了解 Geely 吉利银河 Thiên hà L6 银河 L6 中国版规格 配置与出口适配性 (车型参数页).
-- **I nội bộ Link gợi ý**: /vehcles/geely-leaxy- l6/, /guides/incoions- 2020-selection-guide/, /guides/exc-t-t-t-lc-n huyết áp/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Geely Thiên hà L6 EM -i PHEV 2025: China-Market Spect & Eliper Guide
+- **Meta mô tả**: Trung Quốc Thiên hà L6 EM - Tôi cắm trong người lai: Kích thước đã xác nhận, EM -...của người có năng lượng,  two battery/range lines,  and  what an importer must confirm by  VIN .
+- **H1**: Thiên hà L6 EM -i (2025) — Hình dáng Trung Quốc và Xuất khẩu
+- **Từ khóa chính**: Geely / 吉利银河 Thiên hà L6 / 银河 L6 số lượng ra
+- **Cụm tìm kiếm phụ**: Xuất khẩu thiên hà L6; Thiên hà L6 EM - PHEV quang phổ; Chinese  PHEV  sedan import; EM - Tôi tốc độ DHT; CLTC chống WLTP phạm vi
+- **URL đề xuất**: /vehicles/geely-galaxy-l6/
+- **Ý định tìm kiếm**: Hiểu rõ thiên hà Geely L6 EM -i (2025) — American-Market Spets và Enge Verification: những gì một xe xuất khẩu/một phần phải kiểm tra, tài liệu và quyết định trước khi tiến hành một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych tập trung vào thiên hà L6 EM -i (2025) — kính lục địa Trung Quốc và Xuất khẩu Verification, không có kiểm tra dàn cảnh hoặc người tuyên bố.
+- **Văn bản ALT**: Gần, nhìn tự nhiên về vật liệu và đối tượng liên quan đến thiên hà Geely L6 -i (2025) — Trung Quốc-Market Specs và Xuất khẩu Verification, nền tảng trung lập, không có người hoặc hành động thanh tra nào được hiển thị.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Nhận diện người mua và mô hình ngữ cảnh
 Bộ thiên hà **Geely L6 EM-i (2025) là một chiếc sedan phụ kết hợp với nhau được xây dựng cho thị trường Trung Quốc. Trang này dùng đường biểu diễn 2025 EM-i chỉ**; phiên bản DHT ba tốc độ Thor/ 8848 là một thế hệ HT khác nhau  and  Không được trộn lẫn với xe điện EM-i được mô tả ở đây. Thị trường tham khảo là **Trung Quốc**, và mỗi hình dưới là một đặc điểm tham khảo của ** thị trường Trung Hoa**, không phải là một giá trị đồng nhất toàn cầu hay xuất khẩu.
@@ -65,7 +67,6 @@ Tại sao có hai trường điện được trích dẫn? Chúng vẽ bản đ�
 ** Ai tạo ra pin thế? Không xác nhận được trong các nguồn tin bị bắt, nên trang này không đặt tên cho người cung cấp.
 ** AutoBridge có xuất bản giá xuất khẩu không? Không — yêu cầu một câu trích dẫn hiện thời với mục đích, số lượng, dòng cắt, đường LHD/RHD, cổng và Incoctern.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -83,18 +84,18 @@ Tại sao có hai trường điện được trích dẫn? Chúng vẽ bản đ�
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS} chính xác là Thiên hà L6 EM-i 2025
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Galaxy L6 EM-i 2025
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer
@@ -107,6 +108,5 @@ Tại sao có hai trường điện được trích dẫn? Chúng vẽ bản đ�
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

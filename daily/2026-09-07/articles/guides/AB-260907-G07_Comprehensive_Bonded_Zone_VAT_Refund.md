@@ -6,7 +6,7 @@
 - **Primary Keyword**: comprehensive bonded zone vat refund export china
 - **Secondary Search Terms**: 综合保税区入区退税; first line second line customs; VAT general taxpayer pilot bonded zone; selective tariff domestic sale; bonded zone self-use equipment exemption
 - **Suggested URL**: /guides/comprehensive-bonded-zone-vat-refund-export/
-- **Search Intent**: 综合保税区一线/二线通关逻辑、境内货物入区视同出口退税、增值税一般纳税人试点、自用设备免税与选择性征税
+- **Search Intent**: Understand Comprehensive Bonded Zones in China: VAT Refund on Entry, the General-Taxpayer Pilot and Selective Tariffs: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-europe-railway-express-fast-customs-transit/
 - **Image Suggestion**: A bonded-zone warehouse with inbound containers and a VAT refund process on a nearby screen
 - **ALT Suggestion**: Stacked containers inside a bonded warehouse with a tax procedure on a monitor

@@ -1,15 +1,17 @@
-# JAC T9 Hunter (悍途): a Diesel Mid-Size pickup — Bed, Payload, Drivetrain and Export checks
+# JAC T9 هنتر ():): )أ( معدات الديزل من الحجم المتوسط - البذور، الحمولة، الدراجات، الصادرات
 
-## SEO Metadata
-- ** عنوان المنظمة**: JAC T9 Hunter DieselIPup Specs " Export Guide (Bed, 4WD)
-- ** وصف البيانات**: JAC T9 Hunter Hantu diesel pickup - standard and long beds, 2.0T diesel with ZF 8AT, BorgWarner part-time 4WD, export 3500 kg towing vs China-rated 1000 kg pay kept market-specific, with exporter verification.
-- ** URL المقتطع**: /مركبات/جج- t9-hunter/
-- ** H1 ** صياد JAC T9: ديزل بيكب سبيكس (Bed, Payload, Drivetrain, Chassis) لشراء مشتريات التصدير
-- ** كلمة مفتاحية رمزية**: جك t9 مطياف صياد ملتقطة
-- ** شروط البحث الثانية**: JAC T9 (هانتر ديزل) JAC هانتو بيكب T9 8AT 4x4 حمولة "جى سي" للشحن تصدير الديزل الصيني
-- ** مقترحات داخلية للربط**: رموز/تصنيفات؛/مبادئ متعددة - توجيهية/توجيهات/أجهزة لتجميع
-- ** اقتراحات مقدمة**: T9 جانب الصيادين مع السرير؛ وبُعدا سرير البضائع؛ و4WD منتقاة 2H/4H/4L؛ وقفل منفذ؛ وإطار للفوضى؛
-- ** الاقتراحات**: "JAC T9" - ديزل هنتر 4x4 بيكب "T9 صياد قياسي ضد أبعاد السرير الطويلة"
+## بيانات SEO الوصفية
+- **عنوان SEO**: JAC  T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
+- **وصف Meta**: JAC  T9 Hunter / Hantu diesel pickup — standard  and  الأسرة الطويلة،  2.0T diesel with  ZF  8AT, (بورجوارنر) بدوام جزئي 4WD  export 3500 kg towing vs China-rated 1000 kg payload kept market-specific, مع التحقق من المصدرين.
+- **H1**: JAC T9 صياد: ديزل بيكب سبيكس (Bed, Payload, Drivetrain, Chassis) لشراء البوايين
+- **الكلمة المفتاحية الرئيسية**: جك t9 صياد مواصفات التصدير
+- **مصطلحات بحث ثانوية**: JAC T9 (هانتر ديزل) JAC هانتو بيكب T9 8AT 4x4 JAC حمولة شحن تصدير الديزل الصيني
+- **URL المقترح**: /vehicles/jac-t9-hunter/
+- **نية البحث**: Understand  JAC  T9 Hunter: ديزل بيكب سبيكس (Bed, Payload, Drivetrain, Chassis) لشراء التصدير: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **اقتراح الصورة**: T9 جانب الصيادين مع السرير
+- **نص ALT**: JAC T9 Hunter diesel 4x4 pickup
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## المشتري كونتكس: قرارات التعبئة تبدأ مع السرير والسائق
 من أجل الحصول على أول أسئلة المصدر هي طول السرير، حمولة، وأربعة عجلات من تصميم وفوضى - وليس منافقة. "الـT9 هنتر" هو "جى سي" في منتصف الحجم في الصين تُسوَّق كـ "هنتو" (悍途)**. وتتم تسوية الهوية بموقعين رسميين مملوكين للجنة المشتركة المعنية بالتنفيذ في مجال مكافحة الإرهاب** - موقع التصدير)جيسن( "اسمه "T9  and  موقع التقاط الصيني (بيكوب.جاك) اسم "悍途 /Hantu" - الذي يرضي MODEL_ALIAS_REQUIRES_OEM_PROOF: تحديد الهوية النهائي هو SAME_MODEL** لأسرة المنتج. ويُحكم على الهوية والتشكيلات القائمة على أساس السوق بشكل مستقل، ولذلك فإن كل رقم يقل عن ذلك يحمل بطاقة السوق والثقة.
@@ -29,7 +31,7 @@
 | المهندس | 2.0T inline- 4 turbo diesel |
 | | **125 kW 410 N·m** |
 | Gearbox | ** طائرة من طراز ZF 8-speed آلية (8AT)** |
-| 4WD | **BorgWarner part-time 4WD (2H/4H/4L) + rear differential lock** |
+| 4WD - **BorgWarner parttime 4WD (2H/4H/4L) + القفل القفل الخلفي**
 | مطالبة استهلاك الوقود | 7.6 L 100 km - ** مصانع مطالبة**، وليس نتيجة مقيسة |
 
 هذه المواد الصلبة في السوق الصينية تعتمد حاليا على مصدر إعلامي صيني واحد (以厂商配置单终核) إلى جانب موقع التصدير OEM؛ وبالنسبة للسوق الصينية ولا يؤدي وجود قيمة تصديرية - OEM إلى رفع مستوى ثقة السوق الصينية. الوقود/البعثة:الديزل;(أ) تأكيد التسامح إزاء الكبريت وطريق الانبعاث (لا تكون المعايرة الصينية - السادسة هي نفسها موافقة فيما وراء البحار).
@@ -41,7 +43,7 @@
 - ويظهر توافر البيوتادايين السداسي الكلور في قوائم التصدير، ولكن مصفوفة الإمداد بالهرموز الرجعية يجب تأكيدها من خلال قناة رسمية تابعة للجنة المساعدة القانونية المشتركة، غير المفترضة.
 
 ## نقاط التصويب والتحكم
-1. ** standard (3110 mm) vs long (3400 mm) — bed length decides the line.
+1 ** المعيار (3110 ملم) ضد طويل (3400 ملم) - يحدد طول السرير الخط.
 2. **Drivetrain**: 4x4 مع 2H/4H/4L وقفل مركب مقابل أي 4x2 نسخة؛ وتذكر صراحة.
 3. ** بطاقة ماركت على القدرة**: 3500 kg طن مطروح بيانات مصنع مبيدات الآفات؛ 1000 kg حمولة مصنف في الصين؛ مطابقة لكل من تقدير المقصد.
 4. ** ثقة السُلطة الصينية**: 125 kW/410 N·m/ZF 8AT/4WD are single-source for China — finalise against the manufacturer sheet.
@@ -91,21 +93,21 @@
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| مواصفات رسمية من البند T9 من اتفاقية المساعدة المؤقتة | موقع تصدير محركات شركة JAC | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | مثقفة | SAME_MODEL identity; ** 3500 kg towing (EXPORT)**؛ الأبعاد الثابتة |
-| تشكيلة منتجات هانتو الجديدة | JAC مسؤول عن التعبئة | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | مثقفة | SAME -MODEL identity; ** 1000 kg الحمولة (CHINA)*  |
-| أبعاد معيار طولي | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | صرخات | 5330/5620، قاعدة عجلات، سرير |
+| Obss du Item T9 de Convention ad |会 موقع会议的;的;的国的; https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 ; amounts ; SAME_MODEL identity; ** 3500 كغم من الطين (الإنتاج)**؛
+| PROANTS | JAC concerned تعبئة CN | https://pickup.jac.com.cn/qxht/index.html ; 2026-09-04 ;نفس الشيء ; SAME -MODEL identity; ** 1000 kg الحمولة (CHINA)*  |
+| Autohome | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | | 5330/5620, PRO  قاعدةIES, |.
 | : رصد T9 بعد لتقديم الطلبات (سرير طويل) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | صرخات | الدعم الطويل الأجل |
 | هانتو (overseas T9) توليد الطاقة | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE OURCE (الصين) | 2.0T/125/410/ZF8AT/4WD، 7.6 مطالبة |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
 * ملاحظة المصداقية: هوية SAME_MODEL عن طريق ازدواجية JAC OEM موقعا؛ قياس/طوال فوضوية متداخلة؛ والقوة الصينية هي SINGLE_SOURCE (الانتهاء من صحيفة الصانع)؛ و3500 kg طن متري فقط ولا قيمة صينية للهواء؛ و1000 kg حمولة صينية محمولة. RHD مصفوفة وثمن تصدير لم يذكر. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الهوية الصينية + المكسيك؛ وسحب الموارد الخارجية؛ وحمولة الميزانيا؛ وسلطة الصين ذات المصدر الواحد
 - ** طريقة التأشير**: الهوية المزدوجة العضوية للمنظمة العالمية للأرصاد الجوية؛ وعلامات الثقة في السوق؛ وأرقام التصدير غير المحسنة إلى المتجانسات الصينية

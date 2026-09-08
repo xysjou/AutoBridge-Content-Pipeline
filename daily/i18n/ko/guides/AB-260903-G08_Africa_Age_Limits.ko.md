@@ -1,14 +1,17 @@
 # 아프리카 중고차 수입 연령 제한: 국가 별 국가 검증 매트릭스
-## ▼ 한국어 메타데이터
-- **SEO Title**: 아프리카 중고차 수입 연령 제한 국가: 케냐 & 나이지리아 인증: CE
-- **마타 기술 **: 국가 별 아프리카 중고차 연령 제한, 조타 측면 및 검사 게이트 - 케냐 (첫 번째 등록에서 8 년) 및 나이지리아 (15 제조에서) 이제 기본 소스로 고정, 다른 시장은 공식 검증을 위해 끌었다.
-- **Suggested URL**: /guides/africa-used-car-import-age-limits/
-- ** H1 **: 중고차 연령 제한 아프리카 시장: 확인 된 Matrix 내장, Memorised
-- **Primary Keyword**: africa는 국가 매트릭스에 의해 차 수입 연령 제한을 사용
-- **차별 검색 조건**: 케냐는 자동차 연령 제한 8 년 첫 번째 등록, 나이지리아 자동차 수입 15 년 제조, 에티오피아 사용 자동차 금지, 가나 OBD 수입, 모잠비크 차량 연령, 수단 자동차 연령 제한, Côte d'Ivoire CoC, KEBS DKS 1515
-- ** 내부 링크 제안**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/vehicle-coc-type-approval-dosier/; /guides/china-vehicle-export-license-customs-documents/
-- **Image 제안**: 국가 매트릭스 테이블; 제조 년 대 첫 번째 등록 시간; 공식 검증 경로 다이어그램
-- ** ALT 제안**: "African는 차 연령 제한 검증 매트릭스를 사용했습니다." "manufacture year versus first registration year"
+## SEO 메타데이터
+- **SEO 제목**: 아프리카 중고차 수입 연령 제한 국가: 케냐 & 나이지리아 인증: CE
+- **메타 설명**: 국가 별 아프리카 중고차 연령 제한, 조타 측면 및 검사 게이트 - 케냐 (첫 번째 등록에서 8 년) 및 나이지리아 (15 제조에서) 이제 기본 소스에 고정, 다른 시장은 공식 검증을 위해 끌었다.
+- **H1**: 중고차 연령 제한 아프리카 시장: 매트릭스가 검증되지 않음, 모조화되지 않음
+- **주요 키워드**: africa는 자동차 수입 연령 제한을 국가 matrix에 의해 사용
+- **보조 검색어**: 케냐는 자동차 연령 제한 8 년 최초의 등록, 나이지리아 자동차 수입 15 년 제조, 에티오피아 사용 자동차 금지, 가나 OBD 수입, 모잠비크 차량 연령, 수단 자동차 연령 제한, Côte d'Ivoire CoC, KEBS DKS 1515
+- **추천 URL**: /guides/africa-used-car-import-age-limits/
+- **검색 의도**: 중고차 연령 제한 Across Africa Markets: Matrix 내장은 검증되지 않음, 미모가 아닙니다: 차량/부품 수출업체가 확인해야 하고, 문서 및 주문에 투입하기 전에 결정해야 합니다.
+- **내부 링크 제안**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **이미지 제안**: 국가 매트릭스 테이블
+- **ALT 텍스트**: 아프리카의 중고차 연령 제한 검증 matrix
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## 테이블의 앞에 Evidence 천장을 읽으십시오
 연령 제한 변화, 포트에 의해 다르게 시행, 그리고 자주 운임 운송업자 summaries에서 잘못 인용. This page separates **two evidence tiers**. **Kenya와 나이지리아는 이제 목적지 기본 소스에 고정 ** (수익 고객 기관 및 표준 신체) 및 그들의 연령 기준은 아래에 명시되어 있습니다. **모든 국가 행은 자료에서 보고된 값이 남아 있습니다 ** 공식 검증을 위해 뽑아서는 안 됩니다. 이는 정착된 사실로 명시되지 않습니다. 단일 지역 "Africa" 규칙이 없습니다. 각 국가는 자체 연령대, 스티어링 규칙 및 검사 게이트를 설정하고, 그 기반이 안전하지 않고 단일 헤드 라인 "X 년"을 설정합니다.
 ## 첫째: "Age"가 측정 된 것을 알고

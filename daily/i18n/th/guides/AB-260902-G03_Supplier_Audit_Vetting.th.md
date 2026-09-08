@@ -1,15 +1,17 @@
 # วิธีตรวจสอบรถจีนส่งออก Supppier ก่อนชําระเงิน: การตรวจสอบค่าชดเชย
 
-## เชา ข้อมูลกํากับภาพ
-- < ESO ชื่อเพลง ~: ตรวจสอบรถจีนส่งออก Suppebee: value-Diligence checklist
-- ""คําอธิบาย" กรอบการจ่ายเงินตามขั้นตอน การส่งผู้ส่งสินค้าในประเทศจีน — ประกาศ  MIIT/C scailed, การตรวจสอบธุรกิจ การส่งออก ห่วงโซ่การออกเสียง, AEO, ธนาคารจํานวนที่เข้าคู่กับวิดีโอมาตรฐาน
-- ~ที่อยู่ URL ที่ถูกย่อ: guides/vinized-china-car-super-uppublier/
-- ** H1 ** กําลังดาวน์โหลดผู้ส่งออกรถสินค้าจีน: จะ ตรวจ สอบ อะไร ก่อน จะ มี การ จ่าย เงิน ก้อน แรก
-- ~คําสําคัญในคอลัมน์ ~: ตรวจสอบว่าผู้ส่งออกรถชาวจีน มีสิทธิ์ใช้อย่างขยันขันแข็ง~
-- ** สืบค้นเมื่อ December Profile ~: การส่งออกรถจีน การประกาศจําหน่ายรถยนต์ MIT, การส่งออกใบอนุญาต CCCC, การตรวจสอบใบอนุญาตธุรกิจ gsxt, การส่งออกรถจีน ห่วงโซ่การส่งออก ศุลกากร กรมศุภรณ์ กรมศุภรณ์ กรมศุภรณ์ (PDF)
-- ** เชื่อมโยงภายใน **: guides/Viides-Imortment-tt-lc/;///guides/chinishes-v-ins-insigraph/;//////comcycul-rangecation-china access-china access-Tina access-
-- ~คําแนะนําของ Imprigins~: พีระมิดแบบมีขอบเขตที่เพิ่มขึ้น; gsxt score (help); ผังย่อยการอนุมัติ-จีน; ตรงกับค่าของธนาคาร
-- ~จดหมายแนะนําทางบริษัท~: "ผู้ส่งออกรถจีนเนื่องจากมีระดับความขยันขันแข็งชั้น ๆ" "National Enterprise access Induccessy system". "Supplieve to Prototo Inctober Proid".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: ตรวจสอบรถจีนส่งออก Supppeble: Checkitle value-Diligence
+- **คำอธิบาย Meta**: โครงสร้างการจ่ายเงินตามขั้นตอน การส่งผู้ส่งสินค้าจากจีน — MIIT ประกาศ/ CCC การตรวจสอบการชําระหนี้ธุรกิจ การส่งออกห่วงโซ่การออกเสียง, AEO ธนาคารที่ตรงกับมาตรฐานวิดีโอ-ออดิเอเตอร์ (PDF)
+- **H1**: กําลังปรับปรุงตัวส่งออกรถสินค้าจีน: จะ ตรวจ สอบ อะไร ก่อน จะ มี การ จ่าย เงิน ก้อน แรก
+- **คีย์เวิร์ดหลัก**: ตรวจสอบว่าผู้จําหน่ายรถจีน มีสิทธิ์ส่งจําหน่ายหรือไม่
+- **คำค้นหารอง**: การส่งออกรถจีน MIIT ประกาศผู้ผลิตรถยนต์ พ.ศ.   CCC  certificate exporter, เช็คใบขับขี่ธุรกิจ gsxt ห่วงโซ่การส่งรถจีน AEO เครดิตศุลกากร
+- **URL ที่แนะนำ**: /guides/verify-china-car-export-supplier/
+- **เจตนาการค้นหา**: เข้าใจการไล่ผีผู้ส่งออกรถจี่: จะตรวจสอบอะไร ก่อนการจ่ายเงินครั้งแรก: สิ่งที่ผู้ส่งออกรถ/ parts ต้องตรวจสอบ, เอกสารและตัดสินใจก่อนทําการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **คำแนะนำรูปภาพ**: พีระมิดแบบมีหน่วยเป็นชั้น
+- **ข้อความ ALT**: เครื่องมือส่งออกรถจีน เนื่องจากมีระดับความขยัน
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
 ## ปัญหา นี้ แก้ ได้
 
@@ -17,7 +19,7 @@
 
 ## เส้น ทาง กฎหมาย: ใคร ได้ รับ อนุญาต ให้ ส่ง ออก
 
-Two official Chinese documents define the qualification backbone (both primary government sources):
+เอกสารจีนอย่างเป็นทางการสองฉบับ นิยามกระดูกสันหลังของภาครัฐ (ทั้ง 2 แหล่งที่มาหลักของรัฐบาล):
 
 - ตามช่วงพัก (Unknown) ของโปรแกรม Offication เกี่ยวกับการตั้งค่ารถส่งออก  and  มอเตอร์ไซค์! (MOFCOM AL) ผู้ผลิตที่ประกาศพาหนะสําหรับการส่งออก จะต้องอยู่ในรายการของ #MIT "Weholeic Manutures  and  Produts ประกาศ" (车辆生产企业及产品公告)  and  ค้างไว้ได้ ~CClass recorder recorder ~.
 - Per---MOFMOM et al 2024 Announcement No. 6** on used-car export enterprises, ผู้ส่งออกรถใช้ต้องเป็นผู้ตรวจการบัญชี ตามกฎหมายที่อิสระตามประเทศระบุไว้ (ผู้จําหน่ายต้องอยู่ในการประกาศของ MIT) พวกพ่อค้าต้องทําตามเกณฑ์ที่ตีพิมพ์ไป
@@ -90,18 +92,18 @@ Two official Chinese documents define the qualification backbone (both primary g
 **What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, หุ้น QC  and  ท่าเรือ เปรียบเทียบการร้องเรียน
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf
@@ -119,7 +121,7 @@ Two official Chinese documents define the qualification backbone (both primary g
 
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| มอเตอร์ไซค์ของโมโต | MOFCOM et al. (five ministries, อย่างเป็นทางการ T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | เปิดใช้งาน | ประกาศ MIT + ฐานการส่งออกของ ICC |
+| ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม | ม | | | | | | | | | | | | ม อ อ ม อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ (five ministries, อย่างเป็นทางการ T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | เปิดใช้งาน | ประกาศ MIT + ฐานการส่งออกของ ICC |
 | 2024 สํานักพิมพ์หมายเลข 6 (เงื่อนไขการส่งออกรถใช้แล้วใช้) | MOFCOM (ประกาศ T1). | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | เปิดใช้งาน | ข้อกําหนดการส่งออกรถที่ใช้ไป |
 | วิธีตรวจสอบความเชื่อถือในธุรกิจของจีน | การเทรดที่ดี (inguture, ชี้ไปที่ gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | ROOS_ CHCKED | ช่องข้อมูลตรวจสอบสิทธิ์ของ gsxt |
 | วิธีตรวจสอบโรงงานจีนนั้นถูกต้องตามกฎหมาย | พลูโต เนีย | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | ROOS_ CHCKED | ความสอดคล้องของชื่อบัญชีผู้ใช้, การตรวจสอบโรงงาน |

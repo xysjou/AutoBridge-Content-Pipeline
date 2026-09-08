@@ -1,15 +1,29 @@
 # Lecture d'une citation de fret océanique pour l'exportation de véhicules: Structure des frais sans nombres inventés
+## Métadonnées SEO
+- **Titre SEO**: Structure des frais de transport maritime pour l'exportation de véhicules — O/F, THC, DOC, BAF Expliquée
+- **Description meta**: Comprendre les frais O/F, THC, DOC/SEAL/VGM et BAF et les suppléments, l'origine et les frais de destination, et pourquoi les frais de manifeste AMS/ACI/ENS sont spécifiques à chaque itinéraire, un guide de structure qui ne précise pas délibérément les montants fixes.
+- **H1**: Décoder un devis de fret véhicule-exportation: qui facture existe, qui les facture et quoi vérifier
+- **Mot-clé principal**: ocean freight charge structure vehicle export  THC   DOC   BAF
+- **Termes de recherche secondaires**: Fret maritime O/F, frais de manutention des terminaux, frais de documents DOC, frais SEAL VGM, frais BAF EBS, frais supplémentaires AMS ACI ENS, frais de manifeste, frais d'origine et de destination
+- **URL suggérée**: /guides/ocean-freight-charge-structure-vehicle-export
+- **Intention de recherche**: Comprendre le décodage d'un véhicule-Exporter Citation de fret: Qui facture existe, qui les facture, et quoi vérifier: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Suggestion d'image**: charge l'origine des chutes d'eau→océan→destination
+- **Texte ALT**: Structure des frais de transport maritime ventilée par origine, océan et destination
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Titre du point de référence**: Structure des frais de transport maritime pour l'exportation de véhicules — O/F, THC, DOC, BAF expliqué
-- **Description détaillée**: Comprendre les frais O/F, THC, DOC/SEAL/VGM, BAF et les suppléments, l'origine et les frais de destination, et pourquoi les frais manifestes AMS/ACI/ENS sont spécifiques à la route — un guide de structure qui ne précise délibérément aucun montant fixe.
-- **URL suggérée**: /guides/fret océanique-charge-structure-véhicule-exportation
-- ** H1 **: Décodage d'un devis de fret véhicule-exportation: qui facture existe, qui les facture, et quoi vérifier
-- **Mot-clé principal**: structure de la charge de fret maritime THC DOC BAF
-- **Conditions de recherche secondaires**: fret maritime O/F, frais de manutention des terminaux, frais de document DOC, frais de VGM SEAL, supplément BAF EBS, frais manifeste AMS ACI ENS, frais d'origine et de destination
-- **Suggestions de lien interne**: /guides/véhicule-exportation-lettre de chargement-types/; /guides/véhicule-exportation-pdi-préexpédition-transmission/; /guides/véhicule-exportation-hs-code-classification/
-- **Suggestions d'image**: origine de la cascade de charge→océan→destination; taxonomie de supplément; feuille d'audit de la ligne de cotation
-- ** Suggestions d'ALT**: « Structure des frais de transport en mer divisée par origine, océan et destination »
+Métadonnées SEO
+- **Titre SEO**: Structure des frais de transport maritime pour l'exportation de véhicules — O/F, THC, DOC, BAF expliqué
+- **Description meta**: Comprendre les frais O/F, THC, DOC/SEAL/VGM, BAF et les suppléments, l'origine et les frais de destination, et pourquoi les frais manifestes AMS/ACI/ENS sont spécifiques à la route — un guide de structure qui ne précise délibérément aucun montant fixe.
+- **H1**: Décoder un devis de fret véhicule-exportation: qui facture existe, qui les facture et quoi vérifier
+- **Mot-clé principal**: structure de la redevance de fret maritime THC DOC BAF
+- **Termes de recherche secondaires**: Fret maritime O/F, frais de manutention des terminaux, frais de document DOC, frais de VGM SEAL, supplément BAF EBS, frais manifeste AMS ACI ENS, frais d'origine et de destination
+- **URL suggérée**: /guides/ocean-freight-charge-structure-vehicle-export
+- **Intention de recherche**: Comprendre le décodage d'un devis véhicule-exportation: quels frais existent, qui les facture, et quoi vérifier: ce qu'un exportateur de véhicule/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Suggestion d'image**: charge l'origine des cascades→océan→destination; taxonomie de supplément; feuille d'audit de la ligne de cotation
+- **Texte ALT**: Structure des frais de transport maritime ventilée par origine, océan et destination
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pourquoi une citation structurée compte plus qu'un nombre faible
 Un prix de fret global gagne les réservations et perd de l'argent à destination. Les exportateurs de véhicules ne sont pas pris par le fret maritime de base, mais par la pile de suppléments et les frais de destination qui lui sont attachés. Ce guide explique ** ce que chaque redevance est, ce qu'elle est facturée et où elle se présente**, et — parce que chaque tarif se déplace avec voie, capacité et saison — il ** ne précise pas de montants fixes**. Utilisez-le pour vérifier une ligne de soumission par ligne, et non pour estimer un coût au débarquement.

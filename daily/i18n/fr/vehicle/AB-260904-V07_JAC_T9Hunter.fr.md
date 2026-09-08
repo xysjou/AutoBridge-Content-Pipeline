@@ -1,15 +1,29 @@
 # JAC T9 Hunter (悍途): un ramassage à mi-dimension diesel — lits, charges utiles, entraînement et contrôles à l'exportation
+## Métadonnées SEO
+- **Titre SEO**: JAC T9 Spécifications de ramassage diesel de chasseurs et guide d'exportation (Bed, 4WD)
+- **Description meta**: JAC T9 Chasseur / Hantu diesel pickup — lits standard et longs, 2.0T diesel avec ZF 8AT, BorgWarner à temps partiel 4WD, exportation 3500 kg remorquage vs Chine-évaluation 1000 kg charge utile gardé spécifique au marché, avec vérification des exportateurs.
+- **H1**: JAC T9 Hunter: Spécifications de ramassage diesel (Bed, charge utile, entraînement, châssis) pour les acheteurs d'exportation
+- **Mot-clé principal**: jac t9 chasse-pick-up spécifications exportation
+- **Termes de recherche secondaires**: JAC T9 Chasseur diesel, JAC Hantu ramassage, T9 8AT 4x4, JAC ramassage de la charge utile, Chinese ramassage diesel exportation
+- **URL suggérée**: /vehicles/jac-t9-hunter/
+- **Intention de recherche**: Comprendre JAC T9 Chasseur: Spécifications de ramassage diesel (Bed, Charge utile, Drivetrain, Châssis) pour les acheteurs d'exportation: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Suggestion d'image**: T9 Côté chasseur avec lit
+- **Texte ALT**: JAC T9 Chasseur diesel 4x4 ramassage
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: JAC T9 Spécifications de ramassage diesel de chasse et guide d'exportation (Bed, 4WD)
-- **Meta Description**: JAC T9 Hunter Hantu diesel pickup — lits standard et longs, 2.0T diesel avec ZF 8AT, BorgWarner temps partiel 4WD, exportation 3500 kg remorque vs Chine-tarté 1000 kg charge utile gardé spécifique au marché, avec vérification exportateur.
-- **URL suggérée**: /véhicules/jac- t9-hunter/
-- ** H1 **: JAC T9 Hunter: Spécifications de ramassage diesel (Bed, charge utile, entraînement, châssis) pour les acheteurs à l'exportation
-- **Mot-clé principal**: jac t9 spécifications de cueillette de chasseur exportation
-- ** Termes de recherche secondaire**: JAC T9 Chasseur diesel, JAC Ramassage Hantu, T9 8AT 4x4, Remorquage de la charge utile de la camionnette JAC, Exportation de la camionnette diesel chinoise
-- **Suggestions de lien interne**: /guides/véhicule-export-hs-code-classification/; /guides/vin-nameplate-vérification-véhicules-chinois/; /guides/émission-compatibilité-carburant-véhicules-china-véhicules/
-- **Suggestions d'image**: T9 Côté chasseur avec lit; dimensions du lit de chargement; sélecteur 4WD 2H/4H/4L; verrouillage de diff arrière; châssis
-- ** Suggestions concernant les ALT**: "JAC T9 Chasseur diesel 4x4 ramassage; " T9 Hunter standard vs dimensions de lit long"
+Métadonnées SEO
+- **Titre SEO**: JAC T9 Spécifications de ramassage diesel Hunter et Guide d'exportation (Bed, 4WD)
+- **Description meta**: JAC T9 Chasseur / ramassage diesel Hantu — lits standard et longs, 2.0T diesel avec ZF 8AT, BorgWarner temps partiel 4WD, exportation 3500 kg remorquage vs Chine-évaluation 1000 kg charge utile gardé spécifique au marché, avec vérification exportateur.
+- **H1**: JAC T9 Hunter: Spécifications de ramassage diesel (Bed, charge utile, entraînement, châssis) pour les acheteurs à l'exportation
+- **Mot-clé principal**: jac t9 chasse-pick-up spécifications exportation
+- **Termes de recherche secondaires**: JAC T9 Chasseur diesel, JAC Ramassage Hantu, T9 8AT 4x4, Remorquage de la charge utile de la camionnette JAC, Exportation de la camionnette diesel chinoise
+- **URL suggérée**: /vehicles/jac-t9-hunter/
+- **Intention de recherche**: Comprendre le chasseur jac t9: spécifications de ramassage diesel (lit, charge utile, entraînement, châssis) pour les acheteurs d'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager sur une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Suggestion d'image**: T9 Côté chasseur avec lit; dimensions du lit de chargement; sélecteur 4WD 2H/4H/4L; verrouillage de diff arrière; châssis
+- **Texte ALT**: JAC T9 Chasseur diesel 4x4 ramassage
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte de l'acheteur: Les décisions de ramassage commencent par le lit et le train d'entraînement
 Pour un ramassage, les premières questions de l'exportateur sont la longueur du lit, la charge utile, la disposition du quatre roues motrices et le châssis — et non l'infodivertissement. Le T9 Hunter est le ramassage diesel de taille moyenne de JAC; en Chine, il est commercialisé sous le nom de **Hantu (悍途)**. L'identité est établie par **deux sites officiels appartenant à la JAC** — le site d'exportation (jacen, nom " T9 ") et le site de collecte chinois (pickup.jac, nom " 悍途 /Hantu") — qui satisfont MODEL_ALIAS_REQUIRES_OEM_PROOF: la détermination finale de l'identité est SAME_MODEL** pour la famille de produits. L'identité et la configuration par marché sont jugées indépendamment, de sorte que chaque chiffre ci-dessous porte toujours son label de marché et de confiance.

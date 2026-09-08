@@ -1,14 +1,17 @@
 # Réservation d'un véhicule électrifié pour l'exportation de l'océan: le papier dangereux-biens un transporteur vérifie réellement
-## OEuvre Métadonnées
-- ** Titre du référencement**: Documents de réservation d'exportation d'EV en vertu de la directive IMDG 42-24: UN3556 Papeterie et Transporteur Contrôles
-- **Description détaillée**: Comment les véhicules au lithium-batterie sont classés pour le fret maritime en vertu de l'amendement 42-24 actuel de la directive IMDG (UN3556/3557/3558; transition du UN3171 en place), les SP961/SP962 voies, UN38.3 et documents SDS, et les conditions de réservation spécifiques au transporteur.
-- **URL suggérée**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 **: Expédition par mer des véhicules électrifiés: Classification actuelle des marchandises dangereuses, l'ensemble de documents de réservation et lignes rouges
-- **Mot-clé principal**: transport maritime par véhicule électrique un3556 imdg 42-24 documents
-- **Conditions de recherche secondaires**: UN3556 véhicule à batterie au lithium ionique, UN3557 véhicule au lithium métal, UN3558 véhicule au sodium ionique, transition du UN3171, SP961 véhicule SP962, étiquette de classe 9, 9A, UN38.3 résumé d'essai, transport de voitures électriques SDS, transporteur d'exigences pour le véhicule électrique SOC
-- **Suggestions de lien interne**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-véhicule-exportation-licence-douane-documents/; /guides/container-véhicule-chargement-slashing/; /guides/véhicule-pré-expédition-inspection-psi/; /véhicules/byd-dolphin/
-- **Suggestions d'image**: schéma d'étiquette ONU/classe; SP961-vs-SP962 flux de décision; chaîne de documents de réservation; classe 9 étiquette 9A plaquette
-- **ALT Suggestions**: " UN3556 IMDG 42-24 Class 9 transport de véhicules électriques; "chaîne de documents de réservation d'expédition"
+## Métadonnées SEO
+- **Titre SEO**: EV Documents de réservation à l'exportation Moins de IMDG 42-24: UN3556 Papeterie et Transporteur Contrôles
+- **Description meta**: How lithium-battery vehicles are classified for ocean freight under current  IMDG  Amendment 42-24 ( UN3556/3557/3558 ; l'héritage de la transition UN3171, les SP961/SP962 chemins, UN38.3 et SDS documents, et les conditions de réservation spécifiques au transporteur.
+- **H1**: Véhicules électrifiés par mer: Classification actuelle des marchandises dangereuses, ensemble de documents de réservation et lignes rouges
+- **Mot-clé principal**: véhicule électrique maritime un3556 imdg 42-24 documents
+- **Termes de recherche secondaires**: UN3556 véhicule à batterie au lithium ionique, UN3557 véhicule au lithium métal, UN3558 véhicule à ion sodium, ancien UN3171 transition, SP961 véhicule à SP962, étiquette de la classe 9 9A, UN38.3 résumé d'essai, SDS transport de voitures électriques, EV SOC transporteur d'exigence
+- **URL suggérée**: /guides/ev-shipping-un3171-imdg-compliance/
+- **Intention de recherche**: Comprendre les véhicules électrifiés par mer: Classification actuelle des marchandises dangereuses, ensemble de documents de réservation et lignes rouges: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **Suggestion d'image**: UN numéro/classe schéma d'étiquette
+- **Texte ALT**: UN3556 IMDG 42-24 Véhicule électrique de classe 9
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
 ## Commencer ici: un VE entier est des marchandises dangereuses, et l'entrée changée en 42-24
 Un véhicule électrifié intact construit en usine est encore une marchandise dangereuse pour le transport maritime. En vertu de l'amendement 42-24 (2024 Edition) du Code IMDG, obligatoire à partir de 1 janvier 2026 **, les véhicules à batterie sont divisés en rubriques spécifiques plutôt que de tomber sous un numéro général:
 - ** UN3556 — Véhicule alimenté au lithium-ion-batterie** (le cas d'une VEB ou d'une VÉHI/EVRE dont la batterie de traction est au lithium-ion);

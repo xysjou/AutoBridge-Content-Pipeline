@@ -1,15 +1,29 @@
 # Dongfeng Tianjin KR (天锦 KR) Camion réfrigéré: Châssis, Superstructure et GVW pour l'exportation
+## Métadonnées SEO
+- **Titre SEO**: Dongfeng Tianjin KR Spécifications pour camions réfrigérés et guide d'exportation (18t)
+- **Description meta**: Marché chinois Dongfeng Tianjin KR 6.8 m de récif — Cummins B6.2 180 kW / 1000 N·m Rapide 8-speed, essieu de Dana, 18 t GVW, MIIT code du modèle,  and  la différence entre le châssis et la superstructure réfrigérée.
+- **H1**: Dongfeng Tianjin KR Camion réfrigéré: Châssis + Superstructure Spécifications pour les acheteurs d'exportation
+- **Mot-clé principal**: dongfeng tianjin kr les spécifications frigorifiques de camion exportation
+- **Termes de recherche secondaires**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m camion de récif, exportation de camion réfrigéré chinois, 18t GVW châssis
+- **URL suggérée**: /vehicles/dongfeng-tianjin-kr/
+- **Intention de recherche**: Comprendre Dongfeng Tianjin KR Camion réfrigéré: Spécifications de châssis + superstructure pour les acheteurs d'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Suggestion d'image**: KR côté récif 6.8m boîte
+- **Texte ALT**: Dongfeng Tianjin KR 6.8m camion réfrigéré 18t
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- **Référencement**: Dongfeng Tianjin KR Spécifications et guide d'exportation pour camions réfrigérés (18t)
-- **Meta Description**: Dongfeng Tianjin KR 6.8 m de récif — Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, essieu Dana, 18 t GVW, code de modèle MIIT, et comment le châssis diffère de la superstructure réfrigérée.
-- **URL suggérée**: /véhicules/dongfeng-tianjin-kr/
-- ** H1 **: Dongfeng Tianjin KR Camion réfrigéré: Châssis + Superstructure Spécifications pour les acheteurs d'exportation
-- **Mot-clé principal**: dongfeng tianjin kr
-- ** Termes de recherche secondaires**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m camion de récif, Chinese frigorifique camion export, 18t châssis GVW
-- **Suggestions de lien interne**: /guides/véhicule-export-hs-code-classification/; /guides/exportation-véhicule-document-package/; /véhicules/jmc-shunda/
-- **Suggestions d'image**: KR reafer side 6.8m box; châssis; moteur Cummins B6.2; groupe frigorifique; portes arrière et intérieur
-- **ALT Suggestions**: "Donggeng Tianjin KR 6.8m camion frigorifique 18t"; "Châssis Tianjin KR vs superstructure de récif"
+Métadonnées SEO
+- **Titre SEO**: Dongfeng Tianjin KR Spécifications et guide d'exportation pour camions réfrigérés (18t)
+- **Description meta**: Marché chinois Dongfeng Tianjin KR 6.8 m récif — Cummins B6.2 180 kW / 1000 N·m, Fast 8-speed, essieu Dana, 18 t GVW, code de modèle MIIT, et comment le châssis diffère de la superstructure réfrigérée.
+- **H1**: Dongfeng Tianjin KR Camion réfrigéré: Châssis + Superstructure Spécifications pour les acheteurs d'exportation
+- **Mot-clé principal**: dongfeng tianjin kr les spécifications frigorifiques de camion exportation
+- **Termes de recherche secondaires**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m camion de récif, exportation de camion réfrigéré chinois, châssis 18t GVW
+- **URL suggérée**: /vehicles/dongfeng-tianjin-kr/
+- **Intention de recherche**: Comprendre dongfeng tianjin kr camion frigorifique: châssis + spécifications de superstructure pour les acheteurs d'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager sur une commande.
+- **Suggestions de liens internes**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Suggestion d'image**: KR reafer side 6.8m box; châssis; moteur Cummins B6.2; groupe frigorifique; portes arrière et intérieur
+- **Texte ALT**: Dongfeng Tianjin KR 6.8m camion frigorifique 18t
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte d'achat: un véhicule spécial est deux produits — Châssis et superstructure
 Un camion réfrigéré n'est pas une seule spécification d'usine. Le châssis **** (moteur, boîte de vitesses, essieu, GVW, empattement) est construit par le camionneur; le boîtier **isolé, le groupe frigorifique, les zones de température et l'épaisseur de l'isolation sont une mise à niveau** installée par un constructeur de carrosserie. Le traitement de l'unité de récif comme un montage d'usine fixe — ou la fusion du 6.8 m KR avec le KR Plus plus grand — est la principale erreur d'approvisionnement ici. Cette page documente le châssis Tianjin KR 18 t du marché chinois (MARCHAGE DE LA RÉFÉRENCE: CHINE)**; le code modèle apparaît dans l'annonce publique MIIT, qui ancre la spécification juridique.

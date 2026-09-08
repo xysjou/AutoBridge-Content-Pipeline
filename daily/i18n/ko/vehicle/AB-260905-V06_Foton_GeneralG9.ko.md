@@ -1,15 +1,17 @@
 # Foton 일반 G9 Dajiangjun G9 (2025) - 중국 시장 픽업 Specs 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Foton 일반 G9 픽업 2025: 중국 시장 디젤 순찰 사양 및 수출 가이드
-- ** Meta Description**: 중국 시장 Foton 일반 G9 (大将军 G9) 픽업: 2.0T 디젤 및 가솔린 라인, 6MT/8AT, RWD 4WD, 침대 및 휠베이스 치수 및 충돌 디젤 토크 조각.
-- ** H1 **: Foton 일반 G9 Dajiangjun G9 (2025) - 중국 시장 픽업 Specs 및 수출 검사
-- ** 출원 키워드 **: Foton 福田 일반 G9 大将军 G9 皮卡 specs 수출
-- ** 보조 검색 조건 **: Foton 일반 G9 수출; Dajiangjun G9 픽업; 중국 디젤 픽업; 4WD 픽업; 더블 택시
-- **수입 URL**: /vehicles/foton-general- g9/
-- ** 수색 **: 了解 Foton 福田 일반 G9 大将军 G9 皮卡 中国版规格 、 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/foton-general- g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: Foton 일반 G9 픽업 2025: 중국 시장 디젤 / 순찰 사양 및 수출 가이드
+- **메타 설명**: 중국 시장 Foton 일반 G9 (大将军 G9) 픽업: 2.0T 디젤 및 가솔린 라인, 6MT/8AT, RWD/4WD, 침대 및 휠베이스 치수 및 충돌 디젤 토크 파그.
+- **H1**: Foton 일반 G9 / Dajiangjun G9 (2025) - 중국 시장 픽업 Specs 및 수출 검사
+- **주요 키워드**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
+- **보조 검색어**: Foton 일반 G9 수출; Dajiangjun G9 픽업; 중국 디젤 픽업; 4WD 픽업; 더블 택시
+- **추천 URL**: /vehicles/foton-general-g9/
+- **검색 의도**: Foton General G9 / Dajiangjun G9 (2025) - 중국 시장 픽업 Specs 및 수출 검사: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- **이미지 제안**: 현실적이고 문서/차량 초점이 있는 장면은 Foton General G9 / Dajiangjun G9 (2025)를 설명합니다 — 중국 시장 픽업 Specs 및 수출 체크, 단계별 검사 또는 사람들은 주장하지 않습니다.
+- **ALT 텍스트**: 소재의 자연과 Foton 일반 G9 / Dajiangjun G9 (2025)과 관련된 주제 - 중국 시장 픽업 Specs 및 수출, 중립 배경, 사람들이 또는 검사 행동을 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## Buyer context: 두 개의 연료 라인과 작업 픽업
 ** Foton 일반 G9 (大将军 G9, 2025)****** 디젤에서 판매 된 중국 시장 바디 -에 프레임 픽업  and  가솔린 라인**, 변속기로  and  rear- or four-wheel drive. 수출 구매자는 결정적인 분야는 침대 크기, 축거, 몬트 및 정확한 엔진입니다 - 단 하나 “G9” spec. 아닙니다. 참조 시장은 ** 중국**입니다.
@@ -54,7 +56,6 @@
 ** 긴 침대 크기? ** 여기에서 단일 소스; 주문하기 전에 십자가 체크.
 ** 디젤 연료? ** 중국-VI, 0 # 디젤; 목적지 연료 호환성을 확인.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
@@ -74,18 +75,18 @@
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 Foton 일반 G9 픽업
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 Foton 일반적인 G9 픽업
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
   - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer
@@ -98,6 +99,5 @@
   - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup

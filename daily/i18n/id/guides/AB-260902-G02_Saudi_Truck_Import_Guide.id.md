@@ -1,14 +1,17 @@
 # Mengimpor Truk Komersial Cina ke Arab Saudi: Panduan Pembersih Pertama HS, SASO dan ZATCA Routing
-## SEO Metadata
-- ** Judul SEO **: Impor Truk Cina ke Arab Saudi: HS-Pertama SABER & ZATCA Guide
-- ** Meta Description **: Rute truk komersial Cina ke Arab Saudi urutan yang benar - kode HS tepat (87.01/87.04/87.05/8716), peraturan teknis SABER yang berlaku pada kode itu, tipe sertifikat yang dibutuhkan, kemudian Fasah pabean; ditambah ZATCA ringan vs perbedaan truk.
-- ** Sugested URL **: guide import- chinese- truck-saudi- saso
--   H1 **: Membersihkan sebuah Truk Komersial Cina ke Arab Saudi: Mulai dari HS Code, Bukan Dari Proses Generik
-- ** Primary Keyword **: impor truk komersial Cina Arab Saudi HS kode SABER ZATCA
-- ** Akhir Pencarian Second **: Peraturan teknis SABER oleh HS, SASO tipe sertifikat truk 8701 8704 8705, Arab ZATCA tariff kendaraan komersial, Fasah bea cukai Saudi, Sertifikasi truk LHD LCC, kendaraan SABER SCoC
-- ** Internal Link Sugestions **: kendaraan shacman - x3000-dump-truck/; kendaraan sinotruk- holo- t7h-tractor/; pemandu komersil-truk -bulu-procuredansi-china
-- *** Saran Gambar **: HS-code-to-sertifikat routing diagram; sertifikat SABER -tipe pohon keputusan; VIN-cocok dokumen set; ZATCA light-oalcle-vs- monitor truk
-- ** AlT Sugestions **: "HS kode untuk peraturan teknis SABER untuk routing sertifikat"; "keputusan sertifcate- tipe untuk impor truk Saudi"
+## Metadata SEO
+- **Judul SEO**: Impor Truk Cina ke Arab Saudi: HS -Pertama SABER & ZATCA Panduan
+- **Deskripsi Meta**: Rute truk komersial Cina ke Arab Saudi urutan yang benar - tepat HS kode (87.01/87.04/87.05/8716), SABER peraturan teknis yang berlaku untuk kode itu, tipe sertifikat yang dibutuhkan, kemudian Fasah pabean; ditambah ZATCA cahaya kendaraan vs perbedaan truk.
+- **H1**: Membersihkan sebuah Truk Komersial Cina ke Arab Saudi: Mulai dari kode HS, Bukan dari proses Generik
+- **Kata kunci utama**: impor truk komersial Cina Arab Saudi HS kode SABER ZATCA
+- **Istilah pencarian sekunder**: SABER teknis regulasi oleh HS, SASO truk tipe sertifikat 8701 8704 8705, Saudi ZATCA kendaraan komersial, Fasah pabean Saudi, GCC LHD truk sertifikasi, SABER PCoC SCoC kendaraan
+- **URL yang disarankan**: /guides/import-chinese-truck-saudi-saso/
+- **Maksud pencarian**: Memahami Membersihkan Truk Komersial Cina ke Arab Saudi: Mulai Dari Kode HS, Bukan Dari Proses Generik: apa yang kendaraan / suku eksportir harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Saran gambar**: HS -code-to -certificate routing diagram
+- **Teks ALT**: HS kode ke SABER teknis regulasi ke routing sertifikat
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## Mengapa "Satu Proses Nasional" Adalah Titik Awal Salah untuk sebuah Truk
 Pasar-akses Saudi sering ditulis untuk mobil penumpang dan kendaraan ringan dan kemudian disalin ke truk komersial berat. Untuk traktor, truk kargo, kendaraan khusus atau trailer yang jalan pintas tidak aman: ** regulasi teknis yang diterapkan, tipe sertifikat yang diperlukan dan bahkan garis tariff semua tergantung pada kode HS yang tepat **, dan mereka tidak identik di seluruh heading. Pemandu ini dibangun dengan demikian ** HS-first **, dan spesifik untuk ** Arab Saudi **, bukan pernyataan umum "Timur Tengah". Perbedaan terpisah dipertahankan seluruh: tahan lama, resmi aturan didokumentasikan dinyatakan seperti itu, sementara belum dikonfirmasi 2026 dealer klaim hanya muncul pada sebuah daftar jam tangan.
 ## Langkah 1 - Pin Kode HS Pertama
@@ -65,18 +68,18 @@ Tugas apa dan VAT membayar truk komersial? Often- dikutip 5% + 15% berasal dari 
 Apa Saudi berhenti menerima CE ECE untuk truk berat di 2026? Dealer mengklaim konflik pada tanggal dan kurangnya sumber utama SASO; verifikasi secara resmi untuk HS menuju sebelum mengandalkan mereka.
 ** Apa yang paling umum clearance kegagalan? ** VIN certificate faktice tidak cocok; satu daftar master VIN di semua dokumen mencegah hal itu.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Saudi commercial-truck import (SABER/ZATCA), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Saudi commercial-truck import (SABER/ZATCA), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Saudi commercial-truck import (SABER/ZATCA), Leitfaden für Fahrzeugexport-Einkauf

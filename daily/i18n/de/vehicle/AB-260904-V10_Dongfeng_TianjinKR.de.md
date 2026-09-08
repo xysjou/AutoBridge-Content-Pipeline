@@ -1,15 +1,17 @@
 # Dongfeng Tianjin KR (天锦 KR) Kühltruck: Fahrwerk, Aufbau und GVW für den Export
 
-## SEO Metadaten
-- **SEO Titel**: Dongfeng Tianjin KR Refrigerated Truck Specs & Export Guide (18t)
-- **Meta Beschreibung **: Chinesischer Markt Dongfeng Tianjin KR 6.8 m Reefer — Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana Achse, 18 t GVW, MIIT Modellcode, und wie sich das Chassis von der gekühlten Aufbaustruktur unterscheidet.
-- **Vorgeschlagene URL**: /Fahrzeuge/dongfeng-tianjin-kr/
-- ** H1 **: Dongfeng Tianjin KR Kühllastwagen: Chassis + Suprastruktur Spezifikationen für Exportkäufer
-- ** Primäres Keyword**: dongfeng tianjin kr Kühlwagen Spezifikationen Export
-- **Secondary Search Terms**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m Kühlwagen, chinesischer Kühlwagenexport, 18t GVW Chassis
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /vehicles/jmc-shunda/
-- **Bildvorschläge**: KR-Reefer-Seite 6.8m Box; Fahrgestellrahmen; Cummins B6.2 Motor; Kühlgerät; Hecktüren und Innenausstattung
-- **ALT-Vorschläge**: "Dongfeng Tianjin KR 6.8m Kühllastwagen 18t"; "Tianjin KR Chassis vs. Reefer-Aufbau"
+## SEO-Metadaten
+- **SEO-Titel**: Dongfeng Tianjin KR Kühltruck Specs & Export Guide (18t)
+- **Meta-Beschreibung**: Chinesischer Markt Dongfeng Tianjin KR 6.8 m Kühler — Cummins B6.2 180 kW / 1000 N·m, Fast 8-speed, Dana Achse, 18 t GVW, MIIT Modellcode, und wie sich das Chassis von der gekühlten Aufbaustruktur unterscheidet.
+- **H1**: Dongfeng Tianjin KR Kühllastwagen: Chassis + Suprastruktur Spezifikationen für Exportkäufer
+- **Haupt-Keyword**: Dongfeng tianjin kr Kühllastwagen Specs Export
+- **Sekundäre Suchbegriffe**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m Kühllastwagen, chinesischer Kühllastwagenexport, 18t GVW Chassis
+- **Vorgeschlagene URL**: /vehicles/dongfeng-tianjin-kr/
+- **Suchabsicht**: Dongfeng Tianjin KR verstehen Kühllastwagen: Chassis + Suprastruktur Spezifikationen für Exportkäufer: Was ein Fahrzeug / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
+- **Bildvorschlag**: KR Kühlerseite 6.8m Box
+- **ALT-Text**: Dongfeng Tianjin KR 6.8m Kühlwagen 18t
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Ein Spezialfahrzeug ist zwei Produkte - Chassis und Aufbau
 Ein Kühlwagen ist keine einzige Fabrikspezifikation. Das **chassis** (Motor, Getriebe, Achse, GVW, Radstand) wird vom LKW-Hersteller gebaut; die **isolierte Box, das Kühlgerät, die Temperaturzonen und die Isolationsdicke sind ein von einem Karosseriebauer installiertes Upfit**. Die Behandlung der Kühleinheit als feste Fabrikausstattung - oder die Zusammenführung der 6.8 m KR mit der größeren KR Plus - ist hier der Hauptbeschaffungsfehler. Diese Seite dokumentiert das **Chinesische Kühler-Chassis der Klasse Tianjin KR 18 t (REFERENCE MARKET: CHINA)**; der Modellcode erscheint in der öffentlichen Mitteilung des MIIT, die die gesetzlichen Spezifikationen verankert.

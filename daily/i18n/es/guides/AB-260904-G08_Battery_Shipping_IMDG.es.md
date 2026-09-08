@@ -1,15 +1,17 @@
 # Envío de un vehículo eléctrico por mar bajo IMDG 42-24: UN3556, UN3171 y la distinción de la basura
 
-## SEO Metadatos
-- **SEO Título**: EV Sea Freight Under IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
-- **Meta Descripción**: Desde 2026, vehículos de iones de litio instalados con buque de batería como UN3556 (lithium-metal UN3557, sodium-ion UN3558) bajo la Enmienda IMDG 42-24; UN3171 es estrechado y las baterías sueltas utilizan UN3480/3481 con UN38.3.
-- ** URL agregada**: /guides/ev-shipping- un3556-imdg-compliance
-- ** H1 **: Clasificación de un vehículo con pilas para el transporte marítimo bajo el código vigente de los objetivos de desarrollo del Milenio (enmienda 42-24)
-- **Primary Keyword**: UN3556 lithium ion vehicle IMDG 42-24 shipping
-- **Segundary Search Terms**: UN3557 litio metal vehicle, UN3558 sodium ion vehicle, P912 packing instruction, SP405 marking, UN3171 narrowed, UN3480 UN3481, UN38.3 manual de pruebas rev8
-- **Sugerencias de Enlace Interno**: /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/; /vehicles/wuling-bingo/
-- **Sugerencias de imagen**: división de números de la ONU de todo el vehículo vs de baja velocidad; cartel de la clase 9; diagrama de marcación P912/SP405
-- **ALT Sugerencias**: "UN3556 vehículo instalado contra UN3480 batería suelta bajo IMDG 42-24 "
+## Metadatos SEO
+- **Título SEO**: EV Carro de mar inferior a IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
+- **Meta descripción**: Desde 2026, vehículos de iones de litio instalados con buque de batería como UN3556 (lithium-metal UN3557, sodium-ion UN3558) bajo IMDG Enmienda 42-24; UN3171 se reduce  and  loose batteries use  UN3480/3481  with  UN38.3 .
+- **H1**: Clasificación de un vehículo con pilas para el transporte marítimo bajo el código actual IMDG (enmienda 42-24)
+- **Palabra clave principal**: UN3556 litio ion vehículo IMDG 42-24 envío
+- **Términos de búsqueda secundarios**: UN3557 vehículo de metal de litio, UN3558 vehículos de ion de sodio, P912 instrucciones de embalaje, SP405 marca, UN3171 estrechado, UN3480 UN3481, UN38.3 manual de pruebas rev8
+- **URL sugerida**: /guides/ev-shipping-un3556-imdg-compliance
+- **Intención de búsqueda**: Comprender clasificar un vehículo con pilas para el transporte marítimo bajo el código actual IMDG (Enmienda 42-24): qué debe verificar, documentar y decidir un vehículo/partes exportador antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- **Sugerencia de imagen**: entero-vehículo vs suelto-batería UN número de división
+- **Texto ALT**: UN3556 vehículo de batería instalado contra UN3480 batería suelta bajo IMDG 42-24
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## La Clasificación cambió — Old UN3171 Habits Are Now Wrong
 Una práctica común antes de 2026 era reservar cualquier vehículo accionado por batería bajo ** UN3171 **. En virtud del Código IMDG obligatorio vigente, Enmienda 42-24 ** (aprobado por la Resolución IMO **MSC. 556 (108)** y **mandatorio en China de 2026-01-01 ** por el texto oficial de la Administración de Seguridad Marítima de China), que ya no es correcto para los vehículos de litio convencionales. Utilizar el antiguo número en una declaración de 2026 es un error de clasificación que detiene papeleo de mercancías peligrosas en la reserva.

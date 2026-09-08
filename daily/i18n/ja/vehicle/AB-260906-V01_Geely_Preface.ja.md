@@ -1,16 +1,16 @@
 # ゲリー・プレファス(Xingrui):中国市場CMA 輸出のためのセダンバイヤーの参照
-## ツイート メタデータ
+## SEOメタデータ
 - **SEOタイトル**: ゲーリー・プレファス(Xingrui) 輸出仕様、トリム、バイヤーチェック
-- **メタ 説明**: ジーリー・プレファス/Xingrui CMAセダンの中国市場参照: ボディと寸法、1.5T と 2.0T のバリエーションは別々に保たれ、海外バイヤーはVINによって検証しなければならないもの。
-- H1 ホテル **: ゲリー・プレファス(Xingrui):中国市場CMA 輸出のためのセダンバイヤーの参照**
-- **主なキーワード**: Geely Preface Xingrui エクスポート仕様
-- **二次検索条件**: ギーリープレファスCMAセダン; シンギ次元; ジーリー・プレファス 2.0T 8AT;中国のセダンの輸出中国仕様;前面のトリムの相違
-- **Suggested URL**: /vehicles/geely-preface/
-- **Search Intent**: 面向海外 B 端买家介绍 Preface(星瑞) 中国市场版本身份、尺寸/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- **イメージ提案**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
-- アルト 提案**: Front three-quarter view of a Geely Preface sedan on a neutral background**
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+- **メタディスクリプション**: ジーリー・プレファス/Xingrui CMAセダンの中国市場参照: ボディおよび次元、1.5Tおよび2.0Tの変形は分けられ、海外バイヤーはVINによって確認しなければなりません。
+- **H1**: ゲリー・プレファス(Xingrui):中国市場CMA 輸出のためのセダンバイヤーの参照
+- **主要キーワード**: Geely Preface Xingrui エクスポート仕様
+- **関連検索語**: ジーリー・プレファス CMA のセダン; Xingrui 次元; ジーリー・プレファス 2.0T 8AT;中国のセダンの輸出中国仕様;前面のトリムの相違
+- **推奨URL**: /vehicles/geely-preface/
+- **検索意図**: ギーリー・プレファス(Xingrui):中国市場CMA 輸出のためのセダンバイヤーの参照:車/部品輸出業者が注文にコミットする前に確認、文書化し、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **画像候補**: クリーンなスタジオ設定で、前面から見える白いGeely Preface CMAセダン
+- **ALTテキスト**: Front three-quarter view of a Geely Preface sedan on a neutral background
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-drive four-door sedan Geely developed on the CMA (Compact Modular Architecture) shared with wider Geely-group products. 中国のキーの規準からの海外バイヤーの調達のためには版制御です: ラインは、1.5-litreと2.0-litreターボガソリンパワートレインの両機種で数年にわたって販売され、古いと新しいトリムと異なる引用したパワーフィギュア。 このページは**中国語市場の参照です。 グローバルな仕様シートではなく、輸出市場プレファスは別々に証拠をしなければなりません。**
 
@@ -80,16 +80,16 @@ RHDバージョンは、中国市場ソースによってここに確立され�
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力、8AT、加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力、油耗、8AT  |
-| 星瑞 1.5T+2.0T 动力矩阵 (1.5T 133kW/290N·m 7DCT;新款 2.0T 200kW/400N·m) | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力、新款 2.0T、DCT  |
+| 2025 款吉利星瑞购车参考 （ 新款 2.0T 200kW / 400N·m 、 爱信 8AT 、 零百 6.5s ） | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力 、 8AT 、 加速 |
+| 星瑞配置矩阵(2.0T 175kW / 238Ps / 350N·m 今朝版、8AT、WLTC 油耗 7.15) | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS | CHECKED (クロス) | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力、油耗、8AT |
+| 星瑞 1.5T+2.0T 动力矩阵 (1.5T 133kW/290N·m 7DCT); 新款 2.0T 200kW / 400N·m) | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力 、 新款 2.0T 、  DCT  |
 | 吉利星瑞官方车型页 (CMA 架构、车型存在性与官方定位;页内含 DHT 混动版本、动力须按版本分列) | 吉利汽车官网 | 日 時 分 | T1 | 検証済み | https://preface.geely.com/ | 车型官方身份、CMA、悬架  |
-| 星瑞尺寸 / 轴距 (4785 × 1869 × 1469、轴距 2800) | 懂车帝车型参数页 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸、轴距  |
-| 海外デビュー(サウジアラビア) — OEMニュース | ジーリー・オート・グローバル | エクスポーター | T1 | 検証済み | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | アイデンティティ — 輸出市場参照のみ; 中東のパワートレインは中国トリムとは異なります |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 中国の同梱モデル/VIN/announcement による検証 |
+| 星瑞尺寸 / 轴距 (4785 × 1869 × 1469 、 轴距 2800) | 懂车帝车型参数页 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸 、 轴距 |
+| ジーリー・オート・グローバル | エクスポーター | T1 | 受託製作実績 | https://global.geely.com/ja/news/2024/geely-preface-debuts-saudi-arabia 輸出市場参照のみ 中国のパワートレインは、中国で開催される「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」の「中国」
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ | 中国の同梱モデル /  VIN  / お知らせ による検証 スタッフ
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参照の市場**:中国(中国市场参考规格;出口/右舵版本无 OEM 证据、须另证)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

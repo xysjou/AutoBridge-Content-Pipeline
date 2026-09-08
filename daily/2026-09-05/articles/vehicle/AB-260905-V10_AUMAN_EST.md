@@ -7,8 +7,10 @@
 - **Primary Keyword**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） specs export
 - **Secondary Search Terms**: AUMAN EST export; Foton Daimler tractor head; Chinese heavy truck tractor; X13 engine; 6x4 tractor
 - **Suggested URL**: /vehicles/foton-auman-est-tractor/
-- **Search Intent**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Foton Daimler AUMAN EST (China-V/VI) — Chinese-Market Heavy Tractor Truck Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Foton Daimler AUMAN EST (China-V/VI) — Chinese-Market Heavy Tractor Truck Specs and Export, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Foton Daimler AUMAN EST (China-V/VI) — Chinese-Market Heavy Tractor Truck Specs , neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context: a tractor head with separate emission and energy lines

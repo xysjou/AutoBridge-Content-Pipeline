@@ -1,16 +1,16 @@
 # Geely Preface (Xingrui): CMA Pasar Cina Referensi Pembeli Sedan untuk Ekspor
-## SEO Metadata
-- **SEO Title**: Geely Preface (Xingrui) Ekspor Specs, Trims dan Buyer Checks
-- ** Meta Description **: Korese- referensi pasar untuk Geely Preface Xingrui CMA sedan: tubuh dan dimensi, 1.5T dan 2.0T variants tetap terpisah, dan apa pembeli luar negeri harus memverifikasi oleh VIN.
--   H1 **: Geely Preface (Xingrui): CMA Pasar Cina Referensi Pembeli Sedan untuk Ekspor**
-- ** Primary Keyword **: Spesifikasi ekspor Geely Preface Xingrui
-- ** Akhir Pencarian Second **: Geely Preface CMA sedan; dimensi Xingrui; Geely Preface 2.0T 8AT; ekspor sedan Cina ekspor; Preface trim perbedaan
-- **Suggested URL**: /vehicles/geely-preface/
-- ** Cari Intent **: 面向海外 B 端买家介绍 Preface 星瑞: 中国市场版本身份 尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- ** * Saran Gambar **: Sebuah sedan CMA putih Geely Prake ditampilkan dari depan tiga perempat dalam pengaturan studio bersih
-- ** ALT Saransinesti **: Tampilan tiga perempat depan dari sedan Geely Preface pada latar belakang netral
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+## Metadata SEO
+- **Judul SEO**: Ekspor Specs, Prims dan Buyer Checks
+- **Deskripsi Meta**: Referensi pasar untuk Geely Preface / Xingrui CMA sedan: tubuh  and  dimensi, 1.5T  and  2.0T varian terus terpisah,  and  what an overseas buyer must verify by  VIN .
+- **H1**: Geely Preface (Xingrui): Sebuah China- Market CMA Referensi Pembeli Sedan untuk Ekspor
+- **Kata kunci utama**: Spesifikasi ekspor Geely Preface Xingrui
+- **Istilah pencarian sekunder**: Geely Preface CMA sedan; dimensi Xingrui; Geely Preface 2.0T 8AT; ekspor sedan Cina ekspor; Preface trim perbedaan
+- **URL yang disarankan**: /vehicles/geely-preface/
+- **Maksud pencarian**: Memahami Geely Preface (Xingrui): Sebuah China- Market CMA Referensi Sedan Buyer untuk Ekspor: ekspor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- **Saran gambar**: Sebuah putih Geely Preface CMA sedan ditampilkan dari depan tiga perempat dalam setelan studio bersih
+- **Teks ALT**: Tampilan tiga-seperempat depan dari sedan Geely Preface pada latar belakang netral
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 Geely Preface (nama Cina Xingrui) adalah roda-depan-tengah-padat-ukuran-depan-roda-drive empat pintu yang dikembangkan oleh Geely di CMA (Compact Modular Architecture) yang dibagikan dengan produk grup Geely yang lebih luas. Untuk pembeli luar negeri dari Cina, yang menjadi sumber kedisiplinan adalah kendali versi: garisnya telah dijual di beberapa model tahun dengan tenaga bensin 1.5-litre dan 2.0-litre turbo, dan angka-angka kekuatan yang berbeda antara trim yang lebih tua dan lebih baru. Halaman ini adalah ** Referensi pasar Cinese- **; ini bukan lembar spesifikasi global, dan Preface pasar apapun harus dibuktikan secara terpisah.
 

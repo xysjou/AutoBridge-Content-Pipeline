@@ -1,14 +1,16 @@
 # China-Seite Fahrzeug Exportlizenz und Zolldokumente: die Reihenfolge, die ein Exporteur folgen muss
-## SEO Metadaten
-- **SEO Titel**: China Vehicle Export Licence & Customs Documents Guide (2026)
-- **Meta Description**: Wie die Exportqualifikation für Fahrzeuge auf chinesischer Seite funktioniert - jährliche MOFCOM-Lizenzanmeldung, BEV-Pkw-Exportlizenz, Gebrauchtwagen-Regel 180-day und die vollständige Exportdokumentenkette vor der Zollanmeldung.
+## SEO-Metadaten
+- **SEO-Titel**: China Vehicle Export Licence & Customs Documents Guide (2026)
+- **Meta-Beschreibung**: How Chinese-side vehicle export qualification works — annual  MOFCOM  licence filing, BEV Ausfuhrlizenzen für Personenkraftwagen,  the used-car 180-day rule,  and  die vollständige Kette der Ausfuhrdokumente vor der Zollanmeldung.
+- **H1**: China-Seite Fahrzeug Exportlizenz, Qualifikation und Zolldokumentenkette
+- **Haupt-Keyword**: Ausfuhrgenehmigung für Chinafahrzeuge Zollanmeldung
+- **Sekundäre Suchbegriffe**: China Gebrauchtwagen-Exportlizenz, BEV Exportlizenz China, MOFCOM Fahrzeug-Export-Anmeldung, Fahrzeug-Exportdokument-Kette, 180 Tage Gebrauchtwagen-Export-Regel
 - **Vorgeschlagene URL**: /guides/china-vehicle-export-license-customs-documents/
-- ** H1 **: China-Seite Fahrzeug Exportlizenz, Qualifikation und Zolldokumentenkette
-- ** Primäres Keyword**: Zollanmeldungsdokumente für China-Fahrzeugexportlizenzen
-- **Secondary Search Terms**: China gebrauchte Auto-Exportlizenz, BEV-Exportlizenz China, MOFCOM Fahrzeugexportanmeldung, Fahrzeugexportdokumentkette, 180 Tage Gebrauchtwagenexportregel
-- **Interne Linkvorschläge**: /guides/vehicle-coc-type Approval-dossier/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
-- **Bildvorschläge**: Lizenz → Dokument → Zollflussdiagramm; Dokumentenketten-Checkliste; jährliche Einreichungszeitleiste
-- **ALT Vorschläge**: "China Vehicle Export License to Customs Flow"; "Vehicle Export Document Chain Checklist"
+- **Suchabsicht**: Verstehen Sie die China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- **Bildvorschlag**: Lizenz → Dokument → Zollflussdiagramm
+- **ALT-Text**: China Fahrzeugexportlizenz zum Zollfluss
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum diese Seite existiert
 Die meisten gescheiterten Erstlieferungen scheitern auf der **China-Seite**, nicht am Bestimmungsort: Dem Exporteur fehlt die richtige Qualifikationskategorie, die Lizenz deckt das Produkt nicht ab oder die Dokumentenkette ist bei der Deklaration inkonsistent. Dieser Leitfaden beschreibt die Reihenfolge. Sie basiert auf chinesischen Regierungsdokumenten (MOFCOM, die Politikbibliothek des Staatsrates, MIIT); wo eine Regel jährlich oder zeitsensibel überarbeitet wird, wird sie gekennzeichnet und nicht als dauerhaft behandelt.
@@ -57,18 +59,18 @@ MIIT Order No. 50 unterteilt Straßenfahrzeughersteller und -produkte in **sechs
 **Woher kommen die HS-Codes?** Bestätigen Sie den genauen Code und die regulatorischen Bedingungen mit dem aktuellen Tarifplan und der neuesten MOFCOM-Benachrichtigung - übertragen Sie keinen alten Code.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf

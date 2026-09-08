@@ -1,16 +1,16 @@
 # Zonas de ligação abrangentes na China: IVA Reembolso na entrada, o piloto geral-empresário e tarifas seletivas
-## SEO Meta- dados
-- ** Título SEO**: China abrangente Bonded Zone IVA reembolso e geral imposto pagor Piloto □ AutoBridge
-- ** Descrição do Meta**: Como as zonas vinculativas abrangentes da China tratam os movimentos de primeira linha/segunda linha, quando os bens domésticos que entram numa zona são tratados como exportações para reembolso do IVA, o piloto geral de contribuintes, alívio de equipamentos e tarifas seletivas.
-- ** H1 **: Zonas de ligação abrangentes na China: IVA Reembolso na entrada, o piloto geral-empresário e tarifas seletivas
-- **Primary Keyword**: comprehensive bonded zone vat refund export china
-- ** Termos de pesquisa secundários**: 综合保税区入区退税; alfândegas de segunda linha de primeira linha; zona de imposto geral sobre o imposto sobre o valor acrescentado; venda nacional selectiva de tarifas; isenção de equipamento de auto-utilização de zona de obrigações
-- ** URL sugerido**: /guides/comprehensivo-ligado-zona-vat-reembolso-exportação/
-- ** Intenção de pesquisa**: 综合保税区一线/二线通关逻辑、境内货物入区视同出口退税、增值税一般纳税人试点、自用设备免税与选择性征税
-- **As sugestões de ligação interna**: /guias/exportações-retornados-mercadorias-dever-exempção-regulamentação/, /guias/ comércio transfronteiras- b2b-export-9710-9810/, /guias/china-europe-ferro-expresso-rápido-costum-trânsito/
-- **Image Suggestion**: Um armazém de zona ligada com contentores de entrada e um processo de reembolso de IVA em uma tela próxima
-- **ALT Sugestão**: Recipientes empilhados dentro de um armazém vinculado com um procedimento fiscal em um monitor
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Comprehensive Bonded Zone  VAT  Refund & General Taxpayer Pilot | AutoBridge
+- **Meta descrição**: Como as zonas de ligação abrangentes da China tratam os movimentos de primeira linha/segunda linha, quando os bens domésticos que entram numa zona são tratados como exportações para o reembolso de VAT, o piloto geral de contribuintes, alívio de equipamentos e tarifas seletivas.
+- **H1**: Zonas abrangentes vinculadas na China: VAT reembolsos na entrada, o piloto geral-empresário e tarifas seletivas
+- **Palavra-chave principal**: abrangentes ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton ton
+- **Termos de busca secundários**: 综合保税区入区退税; alfândegas de segunda linha; VAT zonas-piloto vinculativas do contribuinte geral; venda nacional selectiva de tarifas; isenção de equipamento de autoutilização da zona obrigacionista
+- **URL sugerida**: /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Intenção de busca**: Compreenda as zonas vinculadas abrangentes na China: VAT Reembolso na entrada, o piloto-geral-empregador e tarifas seletivas: o que um exportador de veículo/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/export-returned-goods-duty-exemption-regulation/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-europe-railway-express-fast-customs-transit/
+- **Sugestão de imagem**: Um armazém de zona ligada com contentores de entrada e um processo de reembolso VAT numa tela próxima
+- **Texto ALT**: Recipientes empilhados dentro de um armazém com um procedimento fiscal em um monitor
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Uma zona obrigacionista global (综合保税区) não é simplesmente um entreposto com uma vedação; é uma zona aduaneira-supervisão especial em que o tratamento fiscal das mercadorias se altera de acordo com a qual "linha" elas atravessam e, para empresas qualificadas, se o operador da zona detém o estatuto de contribuinte geral do IVA. Para um exportador automotivo que utiliza uma zona de armazenamento, processamento leve, montagem ou distribuição de knock-down, a diferença financeira entre obter a mecânica certa e errada é substancial. Este guia explica a lógica da primeira linha/segunda linha, por que razão os bens domésticos que entram numa zona podem ser tratados como exportações para reembolso do IVA, o que o piloto geral do contribuinte desbloqueia, a redução de equipamento e as tarifas selectivas — sem indicar quais parques específicos são actualmente pilotados (essa lista é sensível ao tempo) ou computando qualquer carga fiscal para um determinado caso.
 

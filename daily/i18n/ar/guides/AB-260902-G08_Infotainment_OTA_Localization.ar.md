@@ -1,14 +1,17 @@
 # الصين - كار: دليل التحقق من المواقع المحلية
-## SEO Metadata
-- ** عنوان الحلقة**: معلومات باللغة الصينية - القيرانية، منطقة التجارة الحرة في الخارج: نقطة انطلاق الدليل
-- ** وصف البيانات**: هل تعمل وحدة رأس الصين في السوق؟ التحقق من لغة وحدة التفتيش المشتركة، والخرائط المحلية، وعكس الهاتف، وقابلية الوصول إلى ووكالة التجارة الدولية بشأن شبكة المعلومات الفعلية - مع الاحتفاظ بوقائع محددة بعلامات محددة عن أمثلة الصناعة.
-- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/إرشادات صينية - حافلة بالسيارات -
-- ** H1 ** صنع برنامج للسيارات الصينية في سوقك ما الذي سيختبره في السيارة الفعلية
-- ** كلمة رئيسية**: تركيبة السيارات الصينية في الخارج
-- ** شروط البحث الثانية**: وحدة رئيس الصين في الصين، وحدة التفتيش المشتركة، وشركة ديلينك في الخارج، وخرائط التصوير الإلكتروني الصينية في الخارج، وسيارة كاربلاي أندرويد الصينية، ومنطقة خادوم منظمة التجارة الدولية، والشركة العربية لصناعة النقل البحري، وبرمجيات تحويل الصادرات
-- ** Internal Link Suggestions**: /guides/chinese-ev-charging-compatibility/;guides/right-hand-drive-chinese-cars/;/guides/verify-china-export-supplier/
-- ** اقتراحات تتعلق بالنص**: الصينية فقط مقابل اللغة الإنكليزية HMI؛ وخمسة فحوصات برمجية؛ وحزمة برامجيات محلية ضد التصدير؛ ورسم بياني لدائرة إدارة العمليات الانتقالية
-- ** الاقتراحات**: "الوحدة الرئيسية الصينية" "خمسة عمليات تفتيش للتمركز في مجال المعلومات" "مضمار ضد برمجيات التصدير"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Chinese-Car Infotainment &  OTA  Abroad: a Per- VIN  Check Guide
+- **وصف Meta**: هل تعمل وحدة رأس الصين في السوق؟ التحقق من UI لغة، وخرائط محلية، وعكس الهاتف، وقابلية الوصول إلى الشاشة/الخدمة، و OTA لغة في المجموع الفعلي البالغ VIN لغويا، مع الاحتفاظ بوقائع محددة بعلامات محددة عن أمثلة الصناعة.
+- **H1**: صنع برنامج للسيارات الصينية في سوقك ما الذي سيختبره في السيارة الفعلية
+- **الكلمة المفتاحية الرئيسية**: Chinese car infotainment English  OTA  overseas localization per  VIN
+- **مصطلحات بحث ثانوية**: China-spec head unit English  UI , BYD (ديلينك) في الخارج EV الصينية في الخارج سيارة (كاربلا أندرويد) الصينية OTA منطقة خادم،  Arabic  RTL   HMI , بناء برامجيات تحويل الصادرات
+- **URL المقترح**: /guides/chinese-car-infotainment-ota-localization/
+- **نية البحث**: هل تفهم صنع برنامج للسيارات الصينية في سوقك ما الذي يتعين على المصدر أن يختبره في السيارة الفعلية: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **اقتراح الصورة**: الصينية فقط ضد الإنكليزية
+- **نص ALT**: الصين - أماكن لتركيب رئيس الوحدة
+- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
+
 ## تأديب الأدلة هذا الدليل
 السلوك البرمجي هو ** البرمجيات والمناسبات الخاصة**، ولذلك تفصل هذه الصفحة عن عمد نوعين من البيانات:
 - هذه لا يمكن أن تسوي إلا على شبكة الإنترنت الدقيقة عبر قناة العلامة التجارية الخارجية أو اختبار حي، ولا يُستدل منها أبداً من نموذج آخر.
@@ -55,17 +58,17 @@ An industry source suggests 2026 export inspection may require English-HMI scree
 هل يُرددُ آمناً؟ ويمكن أن يؤدي الومض غير المأذون به إلى إبطال الضمانات ورفع قضايا الامتثال؛ ويفضل بناء صادرات المصنع أو طريقاً يدعمه الماركات التجارية.
 ** هل يُعدّ الاتحاد الإنكليزي قراءته العربية**؟ لا - العربية تحتاج إلى مخطط لشبكة RTL وإلى تحديد موقع مناسب يتجاوز الترجمة.
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
@@ -84,12 +87,12 @@ An industry source suggests 2026 export inspection may require English-HMI scree
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | فصل برامجيات صينية (القضبان المتطورة ذاتيا، طبقة التخلف الصيني) | كهرباء صين (صناعات) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | SINGLE OURCE | الصناعة** |
-| BYD Sea Lion 07 Ukraine localisation case | شبكة تلفزيونية (خدمة التصعيد المحلي) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE OURCE | ** مثال محدد تحديدا**: المشاكل التي تواجه الصين وحدها؛ التحول عن حساب حساب التنمية حسب اللغة الانكليزية (إعادة تأكيد كل نموذج) |
+♪ ByD Sea Lion 07 Ukraine localisation case |roid (Supplص the native) | CN)multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE OURCE : **The**: :: العوامل التي تُتخذ في إطارها تدابير محددة؛ ?
 | دنزا ز أوروبية Google/Gemini vs domestic cockpit | شويتشيو (الإعلان) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE OURCE | ** التصدير ضد الحزمة المحلية (غير العالمية) |
-| قائمة مرجعية للتحقق من البرمجيات حسب الشبكة | شركة ستارفيا للتأثير (خدمة التصدير) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE OURCE | طريقة قبول الشيكات الخمس |
+| قائمة بالتدخلات من جانب الحكومة، وتدخل في عمليات التخفيف من آثارها (مما يلي) | الشبكة العالمية | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally يك 2026-09-02 يك SINGLE OURCE يك. الخمس.
 | معايير التصدير المتعددة الاستثنائية | CCID Neusoft OneCore التغطية (وسائط الإعلام الصناعية) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE OURCE | النظر في وضعية RTL/Arabية |（赛迪）
 | Chinese Car OS English Version B2B Export Guide | Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE OURCE | 英文 HMI、刷机成本（行业口径，待官方核验） |
-| 中国汽车出海، 智能化为何، 水土不服 | 汽车之家 · 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE OURCE | 海外用户 UI 翻译 手机互联问题 |
+| | |国،国国,第国国《国,《国,国,国国国国،国国,《《《《8,《8, · · · · · · · · CNTU | | | | https://chejiahao.m.autohome.com.cn/info/26145241?is from=pc ? 2026-09 |02 | Misc《《《《《《《《《《《《《《《《《《第 第 第 《《《《《 第 《《《《 《《 《《 《《外《《《外《外《外《外《外《外《外《第第第第第第第第第第第第《议的《议的《议的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的 外的 外的的的的的的的的的的的的的的的的的的的的的的的的的 外《议的 外的 外的的的的 外的的的的的的 外的 外的 外的 外的 外《议的 外《议的 外的的的的的的的的的的的的 外《议的的的的的的的的的的 外《议的的的的的的的 外《议的 外 翻译《《《《《《《《《《《《《《《《《《《《《《《《《《《《 فيها的 翻译《《《《《《《《《外《外《外的 外《外的的的 外《议的《议的《议的《议的的的《议的《议的的的《议的《议的的《议的《的《议的的《的的的的的的的《议的《议的的的的的的的的的的的的的的《议的的的的的的《议的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的的 翻译《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《《 فيها的 第MISC《《《《《《《《《的《议的《议的《议的《议的《《《《的《的《议的《的《的《的《的《的的的《议的《的《议的的的《议的《议的的的的的的《议的的的《议的《议的的《议的《议的《议的的的的的的的的的的的的的的的的的的的的《议的《议的的的的的的的的的的的的《议的的的的的《议的的的的《议的的的的的的的的的的的的的的的的《议的《议的《议的《议的《议的的的《的的的的的的的的的的的的的《的《的的的的的的的的的的的的的的的的的的
 
 * ملاحظة ملاءمة: جميع المواد المذكورة هي الصناعة/الخدمة/وسائط الإعلام، وهي تستخدم كمثال على الأنماط أو حالات العلامة التجارية الوحيدة - لا كدليل على أن جميع المركبات الصينية تتقاسم السلوك. قوائم اللغة التصديرية في فترة ما بعد الصدارة، و OTA سياسة تنظيم الخواديم، ومطالبة التفتيش الإنجليزي الإلزامي لم تؤكد من قبل هيئة تنظيمية رئيسية، ويجب أن تُسوى على قناة العلامة التجارية الخارجية من أجل الرقم VIN*.
 ## استعراض التحرير

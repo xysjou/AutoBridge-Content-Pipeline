@@ -1,15 +1,17 @@
 # โฟตัน ออมาร์ก (奥铃) รถบรรทุกที่ตกแต่งใหม่ — ฌาสซิส, ร่างไม้เลื้อย และ คู่มือ Cooling-Oit Buyer
 
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: โฟทัน ออมาร์ก รีฟรีเกร์ก เอค เอคเอคส์ แอนด์ รีฟเวอร์ ไมโครซอฟต์
-- ** คําอธิบายของเมตา*: โฟตัน ออมาร์ก (Ollin) ฟอสเตอร์: 150 PS Jiayun Chasis, 4.085 m ประกอบด้วยร่างกาย GVW 4.495 t, Thermo King/Domestic Case และวิธีระบุรถที่อุ่นเครื่องสําหรับส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/โฟตัน-อารีเอค
-- ** H1 ~: โฟตัน ออมาร์ก รีฟรีเกร์กเจอร์ รถบรรทุก: แยกชาซิส, ร่างที่รวมเข้ากับเครื่องปฏิรูปและเครื่องปฏิรูป
-- ~ คําสําคัญในคอลัมน์ ~: Foton Audarmurreted carbooks expression
-- ~การค้นหาตามวาระที่: ~ รถบรรทุกโอลิน รีฟเฟอร์ ประเทศจีน โฟตัน คัมมินส์ 2.8 แช่เย็น เท อร์ โม กษัตริย์ T880 รถPro รถบรรทุก 4.5t รถขนดินส่งออก รถขนขยะจีนเย็น
-- ~ ลิงก์ภายในที่แนะนํา~ viohics/jac-king-light-hach/;////commercial-range - prink-raint-china/ chinishs/main-cargo-inzure-car-morts/
-- ~คําแนะนําของโครงการ ~: มองเห็นร่างกายด้านข้าง; ห้องทําความเย็นบนหลังคารถแท็กซี่; กล่องบรรจุเนื้อภายในด้วยตะขอ; แผ่นชาสซี; ตัวควบคุมอุณหภูมิ
-- "รถบรรทุกแช่แข็งรุ่นฟลายตั้ม 4x4 ที่บรรจุกล่องบรรจุสารจีน" "Truck-mounted Themo King Creririgeration". "Reeffer Facter in in and Teal".
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: คู่มือการส่งออกของ Proups & รีฟเวอร์
+- **คำอธิบาย Meta**: โฟตอน ออ มาร์ ก (Ollin) รีฟเลอร์: 150 PS Jiayun Chasis, 4.085 m ประกอบด้วยร่างกายที่เสริมสร้าง GVW 4.495 t, Thermo King/Domestic Case และวิธีการระบุรถแช่แข็งสําหรับส่งออก
+- **H1**: โฟตอน Aurmark Refrigerate Taily: แยก Chasis, bodysed and Refriger หน่วย
+- **คีย์เวิร์ดหลัก**: ปลั๊กอิน Aurmark ที่ทําความเย็น สําหรับส่งสื่อไปยังรถบรรทุกที่ส่งค่าไป
+- **คำค้นหารอง**: รถบรรทุกโอลิน รีฟเฟอร์จีน โฟตัน คัมมินส์ 2.8 แช่เย็น เท อร์ โม กษัตริย์ T880 รถPro รถบรรทุก 4.5t รถขนดินส่งออก รถขนขยะจีนเย็น
+- **URL ที่แนะนำ**: /vehicles/foton-aumark-refrigerated-truck/
+- **เจตนาการค้นหา**: เข้าใจ Folton Audarus Refrigerate Taily: แยก Chasis, bodysed and Refrigeration หน่วย: สิ่งที่รถ/พาร์ทเนอร์จะต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
+- **คำแนะนำรูปภาพ**: ภาพมุมด้าน
+- **ข้อความ ALT**: โฟตอน Ausem 4x4 รถที่แช่เย็นพร้อมกล่องที่เคลือบด้วยฉนวน สเปกจีน
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## วิธี ตรวจ ดู รถ บรรทุก ที่ ปรับ ตัว ได้
 
@@ -71,43 +73,43 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
 ทําไมราคาไม่ต้องจ่าย ราคา เครื่อง ลาด ตระเวน ขึ้น อยู่ กับ กล่อง และ หน่วย ทํา ความ เย็น อย่าง มาก; ไม่ มี การ จับ จ่าย ราคา ที่ เชื่อ ถือ ได้ 2026-09-02 ดอลลาร์ และ จะ ไม่ มี การ กะ ประมาณ.
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 reefer parameters | (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย | 360che
-| หน้าเครื่องฉายภาพแบบทางการของโอลิน | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | เปิดใช้งาน | ตัวเลือกของเครื่องยนต์ pread-crack, อนุกรมกล่องแบบหนา |
-| เคสของซอยอนฟราเออร์ | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | เปิดใช้งาน | 4.2 เม.ฟรอนเซอร์ (พ.ศ. คัมมิน 2.8  18 m³, 3360 WB |
+○ ออ การ์ กก วร์ก จิ เอ ยอน 150 พ พ พ พ พ พ (พ) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย | 360che
+| ห น น น น น น น น น น น น น น น เ เ เ เ เ เ เ เ น | | | | | ฟ ฟ ฟ ฟ ฟ ฟ ต ต ต ต ต ต อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ น น น น น น น น น น น อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ล ล | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | เปิดใช้งาน | ตัวเลือกของเครื่องยนต์ pread-crack, อนุกรมกล่องแบบหนา |
+| เ เ เ เ ฟ ฟ ฟ ฟ ฟ ค ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ น น น น น น น อ น น อ อ อ อ อ อ อ อ อ อ อ อ ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | เปิดใช้งาน | 4.2 เม.ฟรอนเซอร์ (พ.ศ. คัมมิน 2.8  18 m³, 3360 WB |
 | บทความ ของ โอ ล ลิน ฟ อร์ เทน เซอร์ | ดองแมดติ (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ROOS_ CHCKED | Cummins 150/163 PS, 470 N·m |
 
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 | GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 

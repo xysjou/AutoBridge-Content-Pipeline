@@ -1,15 +1,29 @@
 # GAC Trumpchi M8 2024 — Entreprises MPV: Différences de série, disposition des sièges et notes d'exportation
-
-## OEuvre Métadonnées
-- **Référencement**: GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide
-- **Description détaillée**: 2024 GAC Trumpchi M8 Spécifications de référence de la Chine: série Master/Grandmaster vs Lingxiu, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, et points de vérification des acheteurs outre-mer.
-- **URL suggérée**: /véhicules/gac-trompchi- m8/
-- ** H1 **: GAC Trumpchi M8 2024 (Chine): Carte des séries MPV, des sièges et des spécifications pour les importateurs
+## Métadonnées SEO
+- **Titre SEO**: GAC Trumpchi M8 2024 MPV Spécifications, série et guide d'exportation de sièges
+- **Description meta**: 2024 GAC Trumpchi M8 Spécifications de référence de la Chine: série Master/Grandmaster vs Lingxiu, 2.0TGDI 185 kW, 8AT, 7-seat, dimensions et points de vérification des acheteurs étrangers.
+- **H1**: GAC Trumpchi M8 2024 (Chine): Carte de la série MPV, des sièges et des spécifications pour les importateurs
 - **Mot-clé principal**: GAC Trumpchi M8 2024 spécifications exportation
-- ** Termes de recherche secondaires**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, exportation de MPV de luxe chinois, GAC M8 Moyen-Orient
-- **Suggestions de lien interne**: /guides/drive-droite-chinois-cars/; /guides/commercial-camion-fleet-approvisionnement-china/; /véhicules/forthing-lingzhi- m5/
-- **Suggestions d'image**: profil latéral montrant 3070 mm empattement; sièges de capitaine de deuxième rangée; comparaison de trois séries; porte coulissante et allée; poste de pilotage
-- **ALT Suggestions**: " 2024 GAC Trumpchi M8 Grand maître sept places business MPV, Chine spec; "Trumpchi M8 sièges capitaine de seconde rangée et allée; " M8 Master vs Grandmaster vs Lingxiu série comparaison"
+- **Termes de recherche secondaires**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Série Master, exportation de luxe chinois MPV, GAC M8 Moyen-Orient
+- **URL suggérée**: /vehicles/gac-trumpchi-m8/
+- **Intention de recherche**: Comprendre GAC Trumpchi M8 2024 (Chine): MPV Série, Sièges et Spécifications Carte pour les importateurs: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/ ; /vehicles/forthing-lingzhi-m5/
+- **Suggestion d'image**: profil latéral montrant 3070 mm empattement
+- **Texte ALT**: 2024 GAC Trumpchi M8 Grand maître sept-siège affaires MPV, Chine spec
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
+
+Métadonnées SEO
+- **Titre SEO**: GAC Trumpchi M8 2024 MPV Spécifications, série et guide d'exportation de sièges
+- **Description meta**: 2024 GAC Trumpchi M8 Spécifications de référence de la Chine: série Master/Grandmaster vs Lingxiu, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, et points de vérification des acheteurs outre-mer.
+- **H1**: GAC Trumpchi M8 2024 (Chine): Carte des séries MPV, des sièges et des spécifications pour les importateurs
+- **Mot-clé principal**: GAC Trumpchi M8 2024 spécifications exportation
+- **Termes de recherche secondaires**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, exportation de MPV de luxe chinois, GAC M8 Moyen-Orient
+- **URL suggérée**: /vehicles/gac-trumpchi-m8/
+- **Intention de recherche**: Comprendre le gac trumpchi m8 2024 (china): série mpv, sièges et carte de spécification pour les importateurs: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/ ; /vehicles/forthing-lingzhi-m5/
+- **Suggestion d'image**: profil latéral montrant 3070 mm empattement; sièges de capitaine de deuxième rangée; comparaison de trois séries; porte coulissante et allée; poste de pilotage
+- **Texte ALT**: 2024 GAC Trumpchi M8 Grand maître sept-sièges business MPV, Chine spec
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pourquoi les acheteurs regardent le M8
 
@@ -83,30 +97,30 @@ AutoBridge émet des prix en direct plutôt qu'une liste de prix statique. Les p
 **Le GAC vend-il le M8 outre-mer?** Oui, le Groupe GAC énumère un GAC M8 outre-mer (y compris les marchés du Moyen-Orient); utilisez cette configuration officielle d'exportation et confirmez LHD/RHD pour votre pays.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 MPV
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
 ## Sources et vérification
 

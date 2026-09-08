@@ -1,15 +1,17 @@
 # TIR quốc tế vận chuyển cho người xuất khẩu Trung Quốc — Carnet, xe hơi chấp thuận, 2026 quy tắc
 
-## SAO Siêu dữ liệu
-- **SEEO Titry**: TIR Road Trading from China to Central Asia/Europe: Carnet, xe cộ Approval and 2026 Euder
-- **Meta Mô tả**: Việc hàng hóa đường quốc tế của TIR hoạt động cho các nhà xuất khẩu xe/một phần Trung Quốc: TIR carnet, giấy chứng nhận phương tiện, ngăn tải, dòng thời gian và 2026 mở rộng phạm vi.
-- ** H1 **: TIR Road International Traveers — Carnet, xe hơi Approval, 2026 Quy tắc
-- **Cumpary Keyword**: đường tir giao thông trung tâm asia
-- **Secondary Search Words**: TIR carnet; Trung Quốc Á Châu xe tải; giấy chứng nhận xe hơi; hải quan; giao thông đường phố
-- ** URL đã gợi ý**: /guides/tir-road-port-china- cental-asia/
-- **Tìm kiếm ý định**: 对中亚/欧洲卡航出口，如何适用TIR公约、办理TIR证与海关加封车辆批准证明、2026新规变化
-- **I nội bộ Link gợi ý*: cental-asia/, /guides/vehicle-hs-hise-hise /guides/childa-export-decation-decle-windo/, /guides/chiles-decra-decle-windo/
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: TIR Đường từ Trung Quốc đến Trung Á/Europe: Carnet, xe cộ Approval và 2026 mở rộng
+- **Meta mô tả**: TIR đường quốc tế vận chuyển hoạt động thế nào cho những người xuất khẩu xe/một phần của Trung Quốc: TIR carnet, giấy chứng nhận xe, ngăn tải, dòng thời gian và 2026 ống kính mở rộng.
+- **H1**: TIR Phương tiện vận chuyển quốc tế cho người xuất khẩu Trung Quốc — Carnet, xe cộ chấp thuận, 2026 Quy tắc
+- **Từ khóa chính**: Đường bộ chuyển phát trung tâm asia
+- **Cụm tìm kiếm phụ**: TIR carnet; Trung Quốc Á Châu xe tải; giấy chứng nhận xe hơi; hải quan; giao thông đường phố
+- **URL đề xuất**: /guides/tir-road-transport-china-central-asia/
+- **Ý định tìm kiếm**: Hiểu TIR Phương tiện vận chuyển quốc tế cho người xuất khẩu Trung Quốc — Carnet, xe cộ chấp thuận, 2026 Quy định: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu tập trung/vych minh họa TIR đường quốc tế vận chuyển cho Trung Quốc Eviers — Carnet, xe cộ Approval, 2026 Luật, không có kiểm tra hay người ta tuyên bố.
+- **Văn bản ALT**: Gần gũi, có cái nhìn tự nhiên về vật liệu và đề tài liên quan đến TIR đường quốc tế cho những người xuất khẩu ở Trung Quốc — Carnet, xe cộ Approval, nền tảng trung lập, không có người hoặc hành động thanh tra.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Điều mà TIR thay đổi cho một người xuất khẩu trên đất liền
 TIR là một hệ thống giao thông quốc tế cho phép một phương tiện giao thông kín hoặc container di chuyển qua các bên hợp đồng với một trang web **TIR, hàng hóa thường được đóng dấu và nhiệm vụ/taxes bảo đảm dọc theo chuỗi. Đối với những người xuất khẩu ở Trung Á vận chuyển xe cộ hoặc những bộ phận trên toàn bộ đất liền đến Trung Á và đi đến Âu Châu, nó làm giảm việc kiểm tra biên giới và bảo đảm an toàn. Đó là một quy ước cơ bản; chi tiết hoạt động được thực hiện bởi mỗi tập tục của Đảng hợp đồng.
@@ -41,7 +43,6 @@ Hướng dẫn này không liệt kê tất cả các bên hợp đồng, đảm
 **TIR có thay thế bản tuyên bố xuất khẩu không? Không, nó hoạt động cùng với lời tuyên bố xuất khẩu ở Trung Quốc.
 Nó có che chở hàng hải không? Nó là một đường (và hệ thống giao thông đường sá; xác nhận phạm vi theo phương thức cho đường đi.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -59,18 +60,18 @@ Nó có che chở hàng hải không? Nó là một đường (và hệ thống 
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác là đường quốc tế TIR cho người xuất khẩu Trung Quốc
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact TIR International Road Transport for China Exporters
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
   - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
   - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -83,6 +84,5 @@ Nó có che chở hàng hải không? Nó là một đường (và hệ thống 
   - **ID**: TIR road transport, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: TIR road transport, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: TIR road transport, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #TIR #RoadFreight

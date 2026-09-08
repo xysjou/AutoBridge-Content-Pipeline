@@ -1,14 +1,16 @@
 # Farizon Xingxiang V6E Electric Cargo Van: 电池年锁, 6立方米装弹湾  and  a 已记录的Türkiye导出
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**:法利宗V6E 电货范斯佩克和出口买方说明
-- **Meta Directoration**:中市法利宗(吉利)兴祥V6E型电力货运机车——60 kW/220 N·m型电力机车,6立方米货运量,35.2 kWh/260 km基地对较新51 kWh型制造,90 km/h限额,并有记录的欧盟规格Türkiye货运.
-- ** 提议URL**:车辆/车辆-新香-v6e-specs/
-- ** H1 **:法利宗兴祥V6E (中文(中国大陆)):电货范氏样板与出口核查.
-- ** 基本关键词**:法利宗v6e型电力货运车规格
-- ** 二级搜索术语**: 兴祥V6E范围, 法利宗电动快递车, 6m3型电力机车, V6E 35.2 kWh, (英语). 法里宗·蒂尔基耶出口, 电动城市后勤车
-- ** 内部链接建议**:车辆/西-马克斯-v90-specs/;车辆/边-海豚/;指南/前-装运-un3171-imdg-compliance/
-- **
-- ** ALT(美国) 建议**: "Farizon V6E six cubic metre electric cargo van"; "V6E电池的等级和范围"
+## SEO元数据
+- **SEO标题**: 法利宗 V6E (英语). 电货范斯佩克和出口买方说明
+- **Meta描述**: 中市法利宗(吉利) 兴祥V6E型电力货运机车 — 60 kW/220 N·m motor,, 6立方米,货运量 35.2 kWh/260 km 基地对较新的51 kWh 建造, 90 km/h 限额,  and  记录的EU - 斯皮克·蒂尔基耶(Türkiye)运输。
+- **H1**: 法利宗兴祥V6E (中文(中国大陆)):电货范氏谱与出口核查
+- **核心关键词**: 法利宗 v6e型电力货运车规格
+- **次级搜索词**: 兴祥V6E范围, 法利宗电动快递车, 6m3型电力机车, V6E 35.2 kWh, (英语). 法里宗·蒂尔基耶出口, 电动城市后勤车
+- **建议URL**: /vehicles/farizon-xingxiang-v6e-specs/
+- **搜索意图**: 了解法利宗兴祥V6E(中马):电货范氏标本与出口核查:车辆/零件出口商在承诺下订单前必须核实,记录和决定什么.
+- **内链建议**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **图片建议**: 装有尺寸的货物湾
+- **ALT文本**: Farizon V6E six cubic metre electric cargo van
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者背景: 锁定电池年份之前的任意操作
 兴安V6E是法利宗(吉利的商用车辆品牌)**电池电动城运货车**. 单一最大的光谱风险是模型年:基建使用**35.2 kWh**包,而**新造使用约51 kWh**,范围也相应改变. 只有 " V6E " 的定购单也可以填写。 本页面涵盖**中国市场V6E(reFERENCE MARKET: CHINA)**,并保持基座和较新建筑的分离.
@@ -52,30 +54,30 @@ China Transport News (an industry news outlet) 报告 **February 2024 第一批�
 一台Wolong-ZF TZ185XS022型永久磁铁发动机,60 kW 220 N·m型.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |

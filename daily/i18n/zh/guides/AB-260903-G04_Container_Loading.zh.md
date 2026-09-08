@@ -1,14 +1,16 @@
 # 装车进入40HQ集装箱:根据装车计划计算,并拖动海上
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 有多少人 汽车 适合40HQ号机吗? 容器加载和拉链指南
-- ** 金属说明**: 实用40HQ型机车装载指南——典型的2-SUV型无架装载对4-vehicle型双架系统, ~ 8个轮胎上每辆车的吊带, 装入序列  and  封印前要检查五分的积分
-- ** 建议的URL**: /导线/集装箱-车辆装载-拉线/
-- ** H1 资源需求。 **:集装箱车辆装载和拉链:计数、包装、序列和封条前检查
-- ** 基本关键词**:有多少辆汽车装满40hq个集装箱
-- ** 二级搜索术语**:40HQ辆SUV、双甲板车架集装箱、车辆吊带轮子扣下、RoRo改为集装箱转换、集装箱车装车序列
-- ** 内部链接建议**: /指南/车辆装运前检查////指南/前装运-un3171-imdg-compliance/;/车辆/车/车-cs75-plus/
-- ** 图像建议**:侧视图积图;轮盘拉线点;拉出双架;上下加载顺序
-- ** ALT(美国) 建议**: "40HQ两辆SUV侧式拖车"; "轮式轮胎拉八条带子"
+## SEO元数据
+- **SEO标题**: 车次多少 适合40HQ号机吗? 容器加载和拉链指南
+- **Meta描述**: 实用40HQ型车载指南——典型的2- SUV型无架装车对4-vehicle型双架系统, ~ 8个轮胎上每辆车的吊带, 装入序列  and  封印前要检查五分的积分
+- **H1**: 集装箱车辆装载和拉链:计数、堆放、序列和封口前检查
+- **核心关键词**: 装满40hq个集装箱的汽车数量
+- **次级搜索词**: 40HQ two  SUV , 双甲板车架集装箱, 车轮系紧, 转机到集装箱转换, 集装箱汽车装载序列
+- **建议URL**: /guides/container-vehicle-loading-lashing/
+- **搜索意图**: 了解集装箱车辆装载和拉链:计数、包装、序列和封条前 检查:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **图片建议**: 侧视图积图
+- **ALT文本**: 40HQ,两SUV 侧积水
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 问谁先问
 "40HQ型机车中有多少车型"没有通用的答案——这是**车辆尺寸,镜像叠加,架架子系统和承运人核准的积载计划**的函数. 这个指南给出了现实的波段和方法;它故意不承诺一个固定的计数. 根据实际的载荷计划确认每批货物。
@@ -16,7 +18,7 @@
 ## 现实装入带(来自有文件记载的练习)
 - 没有架子, 常规: ** 40HQ型一般搭载**两辆中/大SUV**(例如引用的为~4.9米级,如ID). 6 距离-漫游 Prado Li L7-scale车辆)(单源转发器图).
 - ** 带有滑动式拉出双层架: ** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
-- ** ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
+- **** ****每箱3辆**出现在中欧铁路/塞达惯例报告(单一来源)中。
 这些是参考点,而不是应享权利:一辆高架面包车、一辆小卡车或一辆长跑车改变了计数,而货架装载需要经过认证的设备和一个经核准的计划。
 
 ## 缝合:修复 穿过轮胎,不是身体
@@ -24,7 +26,6 @@
 - **About eight straps per vehicle**, 主要采用**轮/瓦式捆绑方法**,采用多方向(五方向)负载路径.
 - 拖曳物作用于**太极/轮点**,而不是在车体板上,涂料或悬浮组件——在错误的地方拉伸吊挂或底盘,可能会损坏汽车,仍然在海上运动下移动.
 - 使用**反滑垫/吊垫和木材阻塞**,设置正确的带状张力,并保护任何接触点.
-
 
 ## 装入序列(工作发生错误)
 
@@ -54,24 +55,24 @@
 
 ## 经常被问到的问题
 40HQ型机车能一直开四辆SUV吗? 不,四只需要经过认证的双架拉出  and  一项经核准的计划; 中/大型SUV的常规无架装载一般为两辆。
-**Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
+** 绑在什么地方? ** 轮胎/轮式捆绑点——每辆车约8个——不用于体力劳动或吊挂。
 ** 轿车有何不同? ** 轿车  and  China-Europe rail loads commonly achieve three per box; 维度仍然决定。
 为什么要先装上架子? 上部车辆必须在下部车厢挡架进入前就位;叉车辅助车厢安全地重新定位.
 ** 封门前检查什么? **
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf
@@ -90,7 +91,7 @@
 |---|---|---|---|---|---|---|
 | 车辆积载侧视(2/box、8带) | 货运材料 | 全球 | https://m.11467.com/product/d42473652.htm 维基月球 | 2026-09-03 | 资源 | 2-SUV 无架; ~ 8 带; 轮式方法(一个来源) |
 | 烟台港首4-SUV"罗对集装箱"试运营. | | 氯化萘 | http://m.toutiao.com/group/7443978035637846554/ 维基月球 | 2026-09-03 | 资源 | Upper2+lower2架;装载序列(一次报告试验) |
-| 中欧铁路动车装载量(3/box). | | 氯化萘 | http://m.toutiao.com/group/6748371578787987979/ 维基月球 | 2026-09-03 | 资源 | Three-per-box sedan/rail reference (one source) |
+QQ(3/box). 腾讯网. | 氯化萘 | | | | |  http  http  http  http  http  http  http http://m.toutiao.com/group/6748371578787987979/维基月球 | | 2026-09-03资源 资源 | | | | - - - - - - - - - - - - - - - - - - - - - - | | | |  Three | | | | | | | | | | | | per - | per | per | | | per | per | per per | | per per per 氯化萘 氯化萘 氯化萘 氯化萘 氯化萘 氯化萘 | | | | | | | | | | | | | | | | | | | | | | | | 
 | 出口集装箱五步装载法 | 净值 | 全球 | https://www.163.com/dy/article/L42056IP05568MR2.html 维基月球 | 2026-09-03 | 资源 | 五点堆放检查(一个来源). |
 * 范围说明:每个装载数字来自一个单一的、不同的来源(所有SINGLE_SOURCE)——没有事实得到两个独立来源的证实,因此没有标记为CROSS_. 检查。 计数是记录惯例参考,不能保证积分;具体数字总是取决于测量的尺寸和经批准的载荷计划,在预订时必须确认载体/地铁规则. * 报告迟交是因为需要翻译。
 

@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Dongfeng Tianjin KR Refrigerated Truck Specs & Export Guide (18t)
 - **Meta Description**: Chinese-market Dongfeng Tianjin KR 6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT model code, and how chassis differs from the refrigerated superstructure.
-- **Suggested URL**: /vehicles/dongfeng-tianjin-kr/
 - **H1**: Dongfeng Tianjin KR Refrigerated Truck: Chassis + Superstructure Specs for Export Buyers
 - **Primary Keyword**: dongfeng tianjin kr refrigerated truck specs export
 - **Secondary Search Terms**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truck, Chinese refrigerated truck export, 18t GVW chassis
+- **Suggested URL**: /vehicles/dongfeng-tianjin-kr/
+- **Search Intent**: Understand Dongfeng Tianjin KR Refrigerated Truck: Chassis + Superstructure Specs for Export Buyers: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
-- **Image Suggestions**: KR reefer side 6.8m box; chassis frame; Cummins B6.2 engine; refrigeration unit; rear doors and interior
-- **ALT Suggestions**: "Dongfeng Tianjin KR 6.8m refrigerated truck 18t"; "Tianjin KR chassis vs reefer superstructure"
+- **Image Suggestion**: KR reefer side 6.8m box; chassis frame; Cummins B6.2 engine; refrigeration unit; rear doors and interior
+- **ALT Suggestion**: Dongfeng Tianjin KR 6.8m refrigerated truck 18t
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: a Special Vehicle Is Two Products — Chassis and Superstructure
 A refrigerated truck is not a single factory specification. The **chassis** (engine, gearbox, axle, GVW, wheelbase) is built by the truck maker; the **insulated box, refrigeration unit, temperature zones and insulation thickness are an upfit** installed by a body builder. Treating the reefer unit as a fixed factory fitment — or merging the 6.8 m KR with the larger KR Plus — is the main procurement error here. This page documents the **Chinese-market Tianjin KR 18 t-class reefer chassis (REFERENCE MARKET: CHINA)**; the model code appears in the MIIT public announcement, which anchors the legal specification.

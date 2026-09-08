@@ -1,16 +1,16 @@
 # IPR Alfândega da China Gravação: Como a marca registrada, patente e direitos autorais são protegidos na fronteira de exportação
-## SEO Meta- dados
-- ** Título SEO**: Registro de IPR aduaneiro da China para veículos e peças Exportadores. AutoBridge
-- ** Descrição do Meta**: Como a China Alfândega protege marcas registradas, patentes e direitos autorais na fronteira, a diferença entre ex-officio e detenção no pedido, e o que um exportador deve apresentar antes da expedição.
-- ** H1 **: DPI aduaneiro da China Gravação: Como a marca registrada, patente e direitos autorais são protegidos na fronteira de exportação
-- **Primary Keyword**: China alfândega ipr registo de exportação proteção
-- ** Termos de pesquisa secundários**: regulamento de proteção ipr alfandegária; registro de propriedade intelectual GACC; detenção aduaneira ex-officio; exportação de registro de marca registrada; proteção de fronteira de patentes China
-- ** URL sugerido**: /guides/ipr-customs-gravação-exportação-proteção/
-- ** Intenção de pesquisa**: 出口企业如何通过海关知识产权备案，在进出口环节获得商标/专利/著作权边境保护，依职权与依申请两条路径有何区别
-- **As sugestões de ligação interna**: /guias/exportações-licenças-duais-uso-items-catálogo- 2026/, /guias/customs-voluntário-divulgação-auditoria-tolerância/, /guias/china-e-port-enrollment-ic-card-operador/
-- ** Sugestão de Imagem**: Um funcionário aduaneiro que revise um ficheiro de registo de propriedade intelectual ao lado de caixas de exportação seladas marcadas com um logotipo da marca
-- **ALT Sugestão**: Abra a pasta de registro de IPR em uma mesa com caixas de exportação seladas em segundo plano
-- **Schema Scope** Artigo (sem Produto/Oferta/Preço/Revisão/Ração)
+## Metadados SEO
+- **Título SEO**: China Customs IPR Gravação para veículos e peças Exportadores. AutoBridge
+- **Meta descrição**: Como a China Alfândega protege marcas registradas, patentes e direitos autorais na fronteira, a diferença entre ex-officio e detenção no pedido, e o que um exportador deve apresentar antes da expedição.
+- **H1**: China Customs  IPR  Recordation: Como a Marcas, Patentes e Direitos Autorais são Protegidos na Fronteira de Exportação
+- **Palavra-chave principal**: China alfândegas ipr registro de proteção à exportação
+- **Termos de busca secundários**: regulamento aduaneiro de proteção ipr; GACC registro de propriedade intelectual; detenção aduaneira ex-officio; exportação de registro de marca; proteção de fronteira de patentes China
+- **URL sugerida**: /guides/ipr-customs-recordation-export-protection/
+- **Intenção de busca**: Understand China Customs  IPR  Recordation: Como a Marcas, Patentes e Direitos Autorais são Protegidas na Fronteira de Exportação: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /guides/export-license-dual-use-items-catalogue-2026/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/china-e-port-enrollment-ic-card-operator/
+- **Sugestão de imagem**: Um funcionário aduaneiro que revise um ficheiro de registo de propriedade intelectual ao lado de caixas de exportação seladas marcadas com um logotipo da marca
+- **Texto ALT**: Abra a pasta de gravação IPR em uma mesa com caixas de exportação seladas no fundo
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 Quando um veículo fabricado na China ou um recipiente de peças de reposição carregam uma marca, um logotipo, um mecanismo patenteado ou material de projeto licenciado, os bens não limpam a fronteira em um vácuo de propriedade intelectual. A China gere um regime específico de protecção das fronteiras ao abrigo dos Regulamentos sobre a Protecção Aduaneira dos Direitos de Propriedade Intelectual e respectivas regras de execução (Administração Geral das Alfândegas da China Portaria n.o 183). O instrumento decisivo para um titular de direitos é a registro aduaneiro: uma vez que uma marca registrada, patente ou direitos autorais é registrada com GACC, os costumes são posicionados para agir na etapa de importação e exportação. Este guia separa de forma fiável o regime, as duas rotas em matéria de protecção e os pontos de um exportador ou proprietário de marca devem verificar caso a caso, sem fixar taxas ou montantes de obrigações, que são avaliados por matéria e que se alteram ao longo do tempo.
 

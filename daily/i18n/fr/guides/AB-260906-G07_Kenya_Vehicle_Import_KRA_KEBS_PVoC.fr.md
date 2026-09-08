@@ -1,16 +1,16 @@
 # Importation de véhicules au Kenya: douanes KRA, KEBS PVoC et le Chemin des Normes
-## OEuvre Métadonnées
-- **Référencement au titre**: Kenya Importation de véhicules: droits de douane KRA et guide KEBS PVoC
-- **Description détaillée**: Guide national d'importation de véhicules au Kenya: procédure et taxes douanières de la KRA, vérification préalable à l'exportation de la conformité de la KEBS (PVoC) et publication de la règle relative à l'âge du véhicule roulant.
-- ** H1 **: Importation de véhicules au Kenya: douanes KRA, KEBS PVoC et le Chemin des Normes
-- **Mot-clé principal**: importation de véhicules kényans KRA KEBS PVoC
-- ** Termes de recherche secondaire**: Kenya KRA droit d'importation de véhicules; KEBS PVoC véhicule à moteur; marque de normalisation d'importation Kenya; Kenya règle d'âge de la voiture utilisée; déclaration d'importation du Kenya
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Intention de la recherche**: 向肯尼亚出口车辆需经过哪些海关计税 装船前合格评定与标准 车龄要求 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Suggestion d'image**: Manipulation des importations de véhicules portuaires de Mombasa avec des documents KEBS et KRA
-- **ALT Suggestion**: Dossier d'importation de véhicules avec la paperasse KEBS et KRA et un chantier portuaire en arrière-plan
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: Importation de véhicules au Kenya: KRA Droits de douane et KEBS PVC Guide
+- **Description meta**: Guide national d'importation de véhicules au Kenya: KRA procédures et taxes douanières, KEBS vérifications préalables à l'exportation de conformité (PVoC) et la publication de la règle relative à l'âge du véhicule roulant.
+- **H1**: Importation de véhicules au Kenya: KRA Douanes, KEBS PVC et le Chemin des Normes
+- **Mot-clé principal**: Importation de véhicules kényans KRA KEBS PVC
+- **Termes de recherche secondaires**: Kenya KRA droit sur les véhicules à l'importation; KEBS PVC véhicule à moteur; marque de normalisation d'importation Kenya; règle d'âge des voitures d'occasion au Kenya; déclaration d'importation au Kenya
+- **URL suggérée**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Intention de recherche**: Comprendre l'importation de véhicules au Kenya: KRA Douanes, KEBS PVC et le chemin des normes: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Suggestion d'image**: Manipulation des importations de véhicules portuaires Mombasa avec KEBS et KRA documents
+- **Texte ALT**: Dossier d'importation de véhicule avec KEBS et KRA documents et un chantier portuaire en arrière-plan
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Le Kenya divise l'importation d'un véhicule entre l'autorité fiscale et l'organisme de normalisation, et l'étape de normalisation se produit en grande partie ** avant que le véhicule quitte le pays d'origine**. La **Kenya Revenue Authority (KRA)** s'occupe de l'évaluation, des droits et du dédouanement en douane; le **Kenya Bureau of Standards (KEBS)** gère le programme de vérification de la conformité avant exportation (PVoC) qui décide si une importation réglementée est conforme aux normes kényanes. Il s'agit d'un guide spécifique au Kenya; les numéros et les listes en cause sont sensibles au temps et doivent être lus à partir des sources actuelles de KRA/KEBS.
 

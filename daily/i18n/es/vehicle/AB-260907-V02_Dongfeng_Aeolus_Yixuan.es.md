@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan: A China-Market CMP Referencia compacta del Sedán, versión actual vs más antigua del mechón
-## SEO Metadatos
-- **SEO Título**: Dongfeng Aeolus Yixuan China-Market Specs and Export Buyer Checks ← AutoBridge
-- **Meta Descripción**: Referencia del mercado chino para el sedán Dongfeng Aeolus Yixuan CMP: dimensiones, la línea actual 2025 1.5L frente al Mach 1.5T antiguo se mantuvo separado, y las comprobaciones de nivel VIN para compradores de exportación.
-- ** H1 **: Dongfeng Aeolus Yixuan: A China-Market CMP Referencia compacta del Sedán, versión actual vs más antigua del mechón
-- **Primary Keyword**: Especies de exportación de Dongfeng Aeolus Yixuan
-- **Segundary Search Terms**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T sedan; Chinese CMP sedan export
-- ** URL agregada**: /vehicles/dongfeng-aeolus-yixuan/
-- **Intent de búsqueda**: 面向海外买家介绍风神奕炫中国市场身份, 尺寸, 当前 1.5L 与较早马赫版 1.5T 的版本边界
-- **Sugerencias de enlace interno**: /vehicles/jetour-dashing/, /vehicles/saic-maxus- g90/, /guides/verify-chinese-car-export-supplier-history/
-- **Sugerencia de imagen**: Un sedán de retroceso de Dongfeng Aeolus Yixuan mostrado desde el frente de tres cuartos en un fondo neutro
-- **ALT Sugerencia**: Vista frontal de tres cuartos de un sedán Dongfeng Aeolus Yixuan en un estudio neutral
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
+## Metadatos SEO
+- **Título SEO**: Dongfeng Aeolus Yixuan China-Market Specs and Export Buyer Checks ¦ AutoBridge
+- **Meta descripción**: Referencia del mercado chino para el sedán Dongfeng Aeolus Yixuan CMP: dimensiones, la línea actual 2025 1.5L frente al Mach 1.5T antiguo se mantuvo separado, y VIN - cheques de nivel para los compradores de exportación.
+- **H1**: Dongfeng Aeolus Yixuan: Un China-Market CMP Referencia compacta del Sedán, versión actual vs más antigua del mechón
+- **Palabra clave principal**: Especies de exportación de Dongfeng Aeolus Yixuan
+- **Términos de búsqueda secundarios**: 东风风神奕炫; Aeolus Yixuan dimension; Yixuan 1.5L WLTC; Mach 1.5T sedan; China CMP sedan export
+- **URL sugerida**: /vehicles/dongfeng-aeolus-yixuan/
+- **Intención de búsqueda**: Comprender Dongfeng Aeolus Yixuan: Un China-Market CMP Referencia compacta del Sedán, versión actual vs Older Mach: qué debe verificar, documentar y decidir un vehículo/partes antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
+- **Sugerencia de imagen**: Un sedán de retroceso de Dongfeng Aeolus Yixuan mostrado desde el frente de tres cuartos en un fondo neutral
+- **Texto ALT**: Vista frontal de tres cuartos de un sedán Dongfeng Aeolus Yixuan en un estudio neutro
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 El Dongfeng Aeolus Yixuan (风神奕炫) es el sedán compacto de tres cajas/regreso construido en la plataforma CMP y vendido en China bajo la marca Aeolus (Fengshen) de Dongfeng de pasajeros-vehículo. El riesgo comprador en este modelo es temporal en lugar de estructural: la línea actual 2025 en venta es un coche 1.5-litre naturalmente inspirado, mientras que el mayor rendimiento "Mach" (马赫) 1.5T pertenece a una ola de entrenamiento de potencia 2022/2023 anterior. Cuotar la salida de turbo más antigua como si fuera el sedán actual es el error de versión más común. Esta página es una referencia **Chino-mercado**, no una hoja de espectro global; Las versiones del mercado de exportación necesitan pruebas OEM separadas, y los productos de un solo proveedor están marcados para confirmación.
 

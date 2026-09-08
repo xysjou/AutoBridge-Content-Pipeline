@@ -7,8 +7,10 @@
 - **Primary Keyword**: ckd skd knockdown kit export assembly
 - **Secondary Search Terms**: CKD SKD export; knockdown kit; overseas assembly; GRI 2(a) unassembled; local assembly tariff
 - **Suggested URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Search Intent**: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
+- **Search Intent**: Understand CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compl, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## What CKD and SKD mean in a sourcing decision

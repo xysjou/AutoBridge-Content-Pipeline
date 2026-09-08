@@ -1,15 +1,17 @@
 # Dongfeng Forthing Youting (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: Youting MPV: 중국 시장 얼음 & PHEV 선, Specs 및 수출 가이드
-- ** Meta Description**: 중국 시장 Dongfeng Forthing Youting (游艇) MPV: 얼음과 PHEV 라인을 분리; 크기, 7-seat 캐빈, PHEV 파워 트레인 및 수출 검증 포인트.
-- ** H1 **: Dongfeng Forthing Youting (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인 및 수출 검사
-- ** 일기 키워드 **: Dongfeng Forthing 东风风行 Youting/风行游艇 specs 수출
-- **세컨드리뷰 이용**: 잉어리팅 수출; 游艇 MPV specs; 중국 7-seat MPV; MPV PHEV; 여객 van import
-- **Suggested URL**: /vehicles/forthing-youting/
-- ** 수색 **: 了解 Dongfeng Forthing/东风风行 Youting/风行游艇 中国版规格, 配置与出口适配性 (车型参数页)
-- ** 내부 링크 제안**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
-- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
+## SEO 메타데이터
+- **SEO 제목**: 잉글리쉬 MPV: 중국 시장 ICE 및 PHEV 라인, Specs 및 수출 가이드
+- **메타 설명**: 중국 시장 Dongfeng Forthing Youting (游艇) MPV: 분리되는 ICE와 PHEV 선을 지킵니다; 차원, 7-seat 오두막, PHEV powertrain 및 수출 검증 점.
+- **H1**: Dongfeng Forthing Youting (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 선 및 수출 검사
+- **주요 키워드**: Dongfeng 포밍/东风风行 Youting/风行游艇 specs 수출
+- **보조 검색어**: 수출을 위조; 游艇 MPV specs; 중국 7-seat MPV; MPV PHEV; 여객 밴 수입품
+- **추천 URL**: /vehicles/forthing-youting/
+- **검색 의도**: 동풍 포밍 잉여 (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인 및 수출 검사: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 Dongfeng Forthing Youting (2025/2026)를 설명합니다 — 중국 시장 MPV Specs, ICE/PHEV 선 및 노출기, 단계별 검사 또는 사람들은 주장했습니다.
+- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Dongfeng Forthing Youting과 관련된 주제 (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인, 중립 배경, 사람들이 또는 검사 활동 표시.
+- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트: 한 MPV 명찰, 두 개의 에너지 라인
 **Dongfeng Forthing Youting (游艇)**는 ** 별도의 인용해야 할 ** 얼음과 PHEV 라인에서 제공되는 중형 중국 시장 MPV입니다. 그들은 2900 mm 축거 및 7-seat, 경첩을 단 오두막을 공유하고 그러나 고도와 powertrain에서 다릅니다. 참고 시장은 ** 중국**입니다; 수출 선 명세는 주장되지 않습니다.
@@ -54,12 +56,11 @@ MPV 수입자는 주문 크리티컬 필드는 좌석 개 구성, 도어 타입,
 ** 154, 900 RMB의 수출 가격? ** No — 중국 국내 참고만.
 ** 셔틀 구급차로 변환 할 수 ** upfit로, 기본 MPV에서 별도로 평가합니다.
 
-
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | 风行游艇 车型百科 | 太平洋汽车百科 | 담당자: Mr. wang | T3 | CROSS_체크 | http://m.pcauto.com.cn/baike/1542347/2562358/ 경우 | 尺寸, 轴距, 座椅,  车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | 담당자: Mr. wang | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
+인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인가기관 인 담당자: Mr. 광 | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV ,, ,, ✈ |
 | 风行游艇 参数配置 | 搜狐汽车车型库 | 담당자: Mr. wang | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6769/config 경우 | 尺寸, 座位,  动力 |
 | 风行游艇 新车资讯 | 车主之家 | 담당자: Mr. wang | T3 | CROSS_체크 | https: | PHEV 上市信息의 | https://m.16888.com/news/2026/0807/24830307.html
 | Dongfeng Forthing 공식 글로벌 사이트 | Dongfeng Liuzhou 东风风行 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.forthingmotor.com/ 대한 자세한 정보 | 선 ID와 OEM 권위 |
@@ -73,18 +74,18 @@ MPV 수입자는 주문 크리티컬 필드는 좌석 개 구성, 도어 타입,
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
 ## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
-- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
-- **SOURCE_PAGE**: 캡처되지 않음
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: 확인되지 않음
+- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE **: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 Dongfeng 단조
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
-- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 언어)**:
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 Dongfeng Forthing Youting
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ MPV 수입자는 주문 크리티컬 필드는 좌석 개 구성, 도어 타입,
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

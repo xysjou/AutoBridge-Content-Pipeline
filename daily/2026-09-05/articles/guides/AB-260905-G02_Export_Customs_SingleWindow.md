@@ -7,8 +7,10 @@
 - **Primary Keyword**: china export customs declaration single window
 - **Secondary Search Terms**: China export declaration; single window; customs declaration form; accompanying documents; export clearance
 - **Suggested URL**: /guides/china-export-customs-declaration-single-window/
-- **Search Intent**: 出口车辆如何通过中国国际贸易单一窗口填制出口货物报关单、随附单证与申报流程
+- **Search Intent**: Understand China Export Customs Declaration and the Single Window Process for Vehicles: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating China Export Customs Declaration and the Single Window Process for Vehicles, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to China Export Customs Declaration and the Single Window Process for Vehicles, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## What actually happens at export declaration

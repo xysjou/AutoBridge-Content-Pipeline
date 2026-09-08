@@ -1,14 +1,16 @@
 # Geey Mamaid (4th Guen) 2024: ผลงานแบบจีน-Magnet แท็บ September สําหรับผู้ส่งออก
-## เชา ข้อมูลกํากับภาพ
-- < secontinuation*: Geey Emgraid 2024 (4th Gen) สเปคส์ & ส่งออกคู่มือผู้ซื้อ
-- ~Meta language ~: จีน-มาร์เก็ต 4th-generation Geely Madran 2024 — 1.5L 93 kW เครื่องยนต์ 5MT/CVT, มิติ, 4th-gen vs ใหม่ทั้งหมด 5th-gen ความแตกต่าง และสิ่งที่นําเข้าต้องตรวจสอบก่อนสั่ง
-- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/จีดี-เอ็มแกรนด์/
-- ~ H1 **: Geey Emgraid 2024 (4th ชั่วอายุคน): ภาษาจีน-Magnet Specs และ ส่งออกเช็ค
-- ~คําสําคัญในคอลัมน์ ~: mogramming 2024 sports
-- ~การค้นหาตามวาระที่: ~ Geely Em Grand 1.5L CVT 4th รุ่น Emgrammand มิติ, การส่งออกรถเก๋งนําเข้าจีน, Geely Emgraid 93kW ความแตกต่างของรุ่นปี
-- ~ ลิงก์ภายในที่แนะนํา~ viohicles/ Chaangan- cs75-plus/ guides/Viel-cocic-toproval-dosier/;///// guides/ viser-welcing-sloading-sing-slating/
-- ข้อเสนอแนะ: front three-quarter of 4th-gen Emgrand; 5MT vs CVT ไดรฟ์เทรนช์; ด้านหลังอาหารและพื้นที่บูต ป้ายเครื่องยนต์ 1.5L
-- ~~~~~~~~~ คําแนะนํา: "Geely Emgrand fourth generation 1.5L sedan"; "Emgain 2024 มิติและล้อเบส"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: Geey Maden 2024 (4th Gen) สเปค & ส่งออกคู่มือผู้ซื้อ
+- **คำอธิบาย Meta**: ประเทศจีน- ตลาด 4th-generation Geely Madran 2024 — 1.5L 93 kW เครื่องยนต์ 5MT/ CVT, มิติ, 4th-gen vs ใหม่ทั้งหมด 5th-gen ความแตกต่าง และสิ่งที่นําเข้าต้องตรวจสอบก่อนสั่ง
+- **H1**: Geey Mem Grand 2024 (4th รุ่น): Checket Specs และ ceptember Check
+- **คีย์เวิร์ดหลัก**: พิมพ์ส่งออกเป็นสื่อประเภท August grammion 2024
+- **คำค้นหารอง**: Geely Mamaid 1.5L CVT 4th ขนาด Emgrag, ส่งออกรถเก๋งนําเข้าของจีน, Geely Mamaid 93kW, ความแตกต่างของปีต้นแบบ Emagramming
+- **URL ที่แนะนำ**: /vehicles/geely-emgrand/
+- **เจตนาการค้นหา**: เข้าใจ Geey Maden 2024 (4th รุ่น): สเปคส์จีน-Maget Specs และส่งออก: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนทําการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **คำแนะนำรูปภาพ**: front three-quarter of 4th-gen Emgrand
+- **ข้อความ ALT**: จีลี เอ็ม แกรนด์ รุ่น ที่ สี่ 1.5L ซีดาน
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์เซอร์: ตอกยุคก่อนคุณ จะติดราคา
 Emgrand เป็นรถชลประทานรุ่นดีของ Geely และเป็นผู้สมัครโดยธรรมชาติ สําหรับตลาดรถนําเข้าราคาที่ไวต่อราคา กับดักสําหรับนักนําเข้าเป็นรุ่น: หน้านี้ครอบคลุม 4th-generation 2024 รถจีน-มาร์เก็ต (REFENCE Magnet:  CHINA) ในขณะที่รุ่นใหม่ทั้งหมด 5th เปิดตัวในประเทศจีนในเดือนพฤศจิกายน 2025 ด้วยร่างกายที่ยาวขึ้น ล้อยาวขึ้นและราคาเริ่มต้นต่ํา การ ยก หน่วย 2024 มา ต่อ สู้ 5th-gen มิติ — หรือ ใน ทาง กลับ กัน — เป็น ความ ผิด พลาด ลําดับ แรก ๆ ที่ มี มาก ที่ สุด ใน ชื่อ นี้. ปฏิบัติกับทุกตัวเลขด้านล่าง เป็นข้อกําหนดการอ้างอิงตลาดของจีน; ระบบเครื่องยนต์ตลาดปลายทาง, เวทีการปล่อยก๊าซและอุปกรณ์
@@ -54,30 +56,30 @@ Emgrand เป็นรถชลประทานรุ่นดีของ Ge
 ** เครื่องยนต์ 1.5L ~ 93 kW (ประมาณ 127 PS)] มี 127 N·m คนในเอกสารอ้างอิงจีน; ตรวจสอบการตัดแต่งที่แน่นอน
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
@@ -85,10 +87,10 @@ Emgrand เป็นรถชลประทานรุ่นดีของ Ge
 | 4th-gen Emgrammian 1.5L แผ่นเรียงพิมพ์ CVT | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | ROOS_ CHCKED | ขนาด, เบสล้อ, ที่นั่ง, อ้างอิงราคา |
 | 2024 ต้นแบบค่าปรับแต่งของเอ็มแกรนด์ (93 kW, 5MT/CVT) | Xcar Toutiau Media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | ROOS_ CHCKED | 1.5L 93 kW การสื่อสาร |
 | เปรียบเทียบพารามิเตอร์หลายแบบ | ฐานข้อมูล Dandmedi | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | ROOS_ CHCKED | เบสล้อ รุ่น, ในประเทศ MSRP (เวลา_ ISSITIME) |
-| 5th-generation เปิดตัว Emagramm (ขอบเขตรุ่น) | จีน เน็ต (สื่อออนไลน์) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | เวลา | 5th-gen ล้อ ไพรซ์; แยกแยะรุ่น |
+| 5th-generation เปิดตัว Emagramm (ขอบเขตรุ่น) | จีน เน็ต (สื่อออนไลน์) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | เวลา | 5th-gen ล้อ ไพรซ์; แ ม ม ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป           ป                       ป ป ป ป ป     ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป     ม ม ป
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
 * ใบรับรอง: ไม่มีแผ่น สเปกตรัมหลักของโออีเอ็มที่ถูกบันทึกสําหรับรุ่นนี้ 127 N·m แรงบิดเป็นซิงเกิล-ซอร์ส ราคาบ้านและ 5th-generation เปิดตัว เป็นเวลาที่ไวต่อเวลา ปลายทางของโฮโมล็อก และสเปกต์ส่งออก ต้องได้รับการยืนยันสําหรับ VIN *

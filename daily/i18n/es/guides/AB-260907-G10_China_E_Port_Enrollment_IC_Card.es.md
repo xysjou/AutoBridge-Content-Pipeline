@@ -1,16 +1,16 @@
 # China E-Port Enrollment: La tarjeta legal y la Jerarquía de la tarjeta de operador y de la tarjeta explicada
-## SEO Metadatos
-- **SEO Title**: China E-Port Inscripción: Tarjeta IC de persona jurídica vs Operator Card ← AutoBridge
-- **Meta Descripción**: Cómo China Electrónica El puerto de embarque ahora se debe automáticamente al registro aduanero bajo el anuncio No 164 de cinco departamentos de 2023, los papeles de la tarjeta y tarjetas de operador de la persona jurídica y la jerarquía de la autorización de la tarjeta.
-- ** H1 **: China E-Port Enrollment: La tarjeta legal y la Jerarquía de la tarjeta de operador y de la tarjeta explicada
-- **Primary Keyword**: China e-port enrollment ic card operator legal person
-- **Segundary Search Terms**: 中国电子口岸入网; 法人卡; 操作员卡; tarjeta de e-port IC; registro de aduanas e-porto a bordo; expedición de tarjetas de porte de porcelana
-- ** URL agregada**: /guides/china-e-port-enrollment-ic-card-operator/
-- **Intent de búsqueda**: 电子口岸入网如何随海关注册同步完成, 法人卡与操作员卡的层级关系与数量 / 授权规则
-- **Sugerencias de Enlace Interno**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-tolerance/
-- **Sugerencia de imagen**: Un administrador de la empresa que inserta un lector de tarjetas IC de puerto electrónico mientras administra permisos de operador en pantalla
-- **ALT Sugerencia**: Tarjeta IC en un lector junto a una pantalla de gestión de permisos de puerto electrónico
-- **Esquema de alcance**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
+## Metadatos SEO
+- **Título SEO**: China E-Port Enrollment: Legal-Person IC Tarjeta de tarjeta vs Operador Silencio AutoBridge
+- **Meta descripción**: Cómo China Electrónica El puerto de embarque ahora se ajusta automáticamente a la inscripción aduanera en el anuncio No 164 de cinco departamentos de 2023, los papeles de la tarjeta y tarjetas de operador de la persona jurídica y la jerarquía de la autorización de la tarjeta.
+- **H1**: China E-Port Enrollment: La tarjeta legal y la Jerarquía de la tarjeta de operador y de la tarjeta explicada
+- **Palabra clave principal**: China e-port enrollment ic card operador legal persona
+- **Términos de búsqueda secundarios**: 中国电子口岸入网; 法人卡; 操作员卡; tarjeta de e-port IC; registro de aduanas e-porto a bordo; expedición de tarjetas de porte de porcelana
+- **URL sugerida**: /guides/china-e-port-enrollment-ic-card-operator/
+- **Intención de búsqueda**: Entienda China E-Port Enrollment: La tarjeta legal-personal y la Jerarquía de la tarjeta de operador-card Explicado: qué debe verificar, documentar y decidir un exportador de vehículos/partes antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Sugerencia de imagen**: Un administrador de la empresa que inserta un lector de tarjetas de puerto electrónico IC mientras administra permisos de operador en pantalla
+- **Texto ALT**: IC tarjeta en un lector junto a una pantalla de gestión de permisos de puerto electrónico
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 China Electronic Port (中国电子口岸) es la puerta digital común a través de la cual una empresa hace declaraciones transfronterizas relacionadas con aduanas y su acceso está controlado por tarjetas IC que transportan firmas digitales. Los nuevos exportadores suelen asumir que el a bordo es una aplicación separada y larga; en el marco actual se sincroniza en gran medida con el registro aduanero, y el sistema de tarjetas en sí se ejecuta en una estricta jerarquía de dos niveles entre una tarjeta jurídica y tarjetas de operador. Hacer que esa jerarquía sea errónea es una causa frecuente de "nos registramos pero nadie puede declarar". Esta guía explica cómo el a bordo se adjunta ahora al registro, qué puede y no puede hacer cada tipo de tarjeta, y las reglas sobre los números de tarjeta y la autorización. Las listas locales de salida, los plazos de procesamiento, los honorarios y la gestión de fallos se dejan deliberadamente a la orientación oficial actual, ya que varían y cambian.
 

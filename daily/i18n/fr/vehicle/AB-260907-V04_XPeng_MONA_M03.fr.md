@@ -1,16 +1,16 @@
 # XPeng MONA M03: Une référence compacte de berline électrique pour le marché chinois construite autour de la matrice batterie-plage-motor
-## OEuvre Métadonnées
-- ** Titre du référencement**: XPeng MONA M03 Chine-Marché des véhicules électriques Spécifications et contrôles d'acheteur d'exportation
-- **Description détaillée**: Référence du marché chinois pour la berline électrique XPeng MONA M03: 51.8/62.2 kWh LFP batteries, Niveaux de la plage de CLTC  and  140/160 kW motors kept mapped by SKU, plus les étapes de vérification des exportations.
-- ** H1 **: XPeng MONA M03: Une référence compacte de berline électrique pour le marché chinois construite autour de la matrice batterie–portée–motor
-- **Mot-clé principal**: XPeng MONA M03 spécifications d'exportation
-- ** Termes de recherche secondaire**: 小鹏 MONA M03; La gamme MONA M03 CLTC; MONA M03 62.2 kWh; xxxeng M03 160 kW; l'exportation de berlines électriques chinoises; Cd 0.194
-- **URL suggérée**: /véhicules/xpeng-mona- m03/
-- **Intention de la recherche**: 面向海外买家介绍小鹏 MONA M03 中国市场身份 - 电池 /CLTC 续航 / 电机的 UGS 对应关系与版本边界
-- **Suggestions de liens internes**: /véhicules/deepal- s05/, /véhicules/dongfeng-aeolus-yixuan/, /guides/ev-shipping- un3556-imdg-compliance/
-- **Suggestion d'image**: Une berline électrique à dos rapide XPeng MONA M03 montrée à partir du trois-quart avant sur un fond neutre
-- **ALT Suggestion**: Vue en face d'une berline électrique XPeng MONA M03 sur un fond de studio neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+## Métadonnées SEO
+- **Titre SEO**: XPeng MONA M03 Chine-Marché EV Spécifications et contrôles d'acheteur d'exportation
+- **Description meta**: Référence du marché chinois pour la berline électrique XPeng MONA M03: 51.8/62.2 kWh  LFP  batteries, Niveaux de la plage de CLTC  and  140/160 kW motors kept mapped by  SKU , plus les étapes de vérification des exportations.
+- **H1**: XPeng MONA M03: Une référence compacte de berline électrique pour le marché chinois construite autour de la matrice de batterie–portée–motor
+- **Mot-clé principal**: XPeng MONA M03 Spécifications d'exportation
+- **Termes de recherche secondaires**: 小鹏 MONA M03; MONA M03 CLTC gamme; MONA M03 62.2 kWh; xxxeng M03 160 kW; l'exportation de berlines électriques chinoises; Cd 0.194
+- **URL suggérée**: /vehicles/xpeng-mona-m03/
+- **Intention de recherche**: Comprendre XPeng MONA M03: Une référence compacte de berline électrique pour le marché chinois construite autour de la batterie–portage–moteur Matrice: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/deepal-s05/, /vehicles/dongfeng-aeolus-yixuan/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Suggestion d'image**: Une berline électrique à retour rapide XPeng MONA M03 montrée à partir du trois-quart avant sur un fond neutre
+- **Texte ALT**: Vue sur une berline électrique XPeng MONA M03 sur fond studio neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 La XPeng MONA M03 est la berline électrique à dos rapide compacte de XPeng, lancée en Chine en août 2024 sur une version avant monomoteur à roue avant avec un coefficient de traînée exceptionnellement bas. Pour un acheteur d'EV outre-mer, la discipline est différente d'une voiture ICE: la commande doit verrouiller la capacité **batterie, la gamme de cycles d'essai et le moteur comme un SKU** assorti, car le M03 est vendu en plusieurs combinaisons faciles à mélanger. Cette page est une référence ** du marché chinois**; toutes les gammes sont **CLTC** et ne doivent pas être comparées aux numéros WLTP/NEDC, le fournisseur de batterie n'est pas affirmé, et les normes de tarification du marché d'exportation nécessitent des preuves distinctes.
 

@@ -1,15 +1,17 @@
 # JAC T9 Hunter (悍途): 디젤 중간 크기 픽업 - 침대, 페이로드, 드라이브 트레인 및 수출 검사
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: JAC T9 헌터 디젤 픽업 사양 및 수출 가이드 (Bed, 4WD)
-- **마타 기술 **: JAC T9 헌터 한tu 디젤 픽업 - 표준  and  긴 침대, ZF 8AT를 가진 2.0T 디젤, BorgWarner 파트 타임 4WD, 중국 정격 1000 kg 페이로드 시장 별을 유지 3500 kg 견인, 수출입 검증
-- **수입 URL**: /vehicles/jac- t9-hunter/
-- ** H1 **: JAC T9 사냥꾼: 디젤 픽업 Specs (Bed, Payload, Drivetrain, 포좌) 수출 구매자를 위한
-- ** 일기 키워드 **: jac t9 사냥꾼 픽업 specs 수출
-- **세컨드 검색 이용 약관**: JAC T9 헌터 디젤, JAC Hantu 픽업, T9 8AT 4x4의 JAC 픽업 탑재 견인, 중국 디젤 픽업 수출
-- ** 내부 링크 제안**: /guides/vehicle-export-hs-code-classification/; /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/
-- ** 이미지 제안 **: T9 침대를 가진 사냥꾼 측; 화물 침대 차원; 4WD 선별기 2H/4H/4L; 후방 diff 자물쇠; 포좌 구조
-- **ALT 제안**: "JAC T9 헌터 디젤 4x4 픽업 "; "T9 헌터 표준 대 긴 침대 차원"
+## SEO 메타데이터
+- **SEO 제목**: JAC T9 사냥꾼 디젤 픽업 Specs & 수출 가이드 (침대, 4WD)
+- **메타 설명**: JAC T9년 Hunter / Hantu 디젤 픽업 - 표준 및 긴 침대, 2.0T 디젤 ZF 8AT, BorgWarner 파트 타임 4WD, 수출 3500 kg 견인 대 중국 정격 1000 kg 페이로드 수출 검증과 함께 시장 별을 유지.
+- **H1**: JAC  T9 Hunter: 디젤 픽업 Specs (Bed, Payload, Drivetrain, 포좌) 수출 구매자
+- **주요 키워드**: jac t9 사냥꾼 픽업 specs 수출
+- **보조 검색어**: JAC  T9 Hunter diesel,   JAC  Hantu pickup, T9 8AT 4x4, JAC 픽업 탑재 견인, 중국 디젤 픽업 수출
+- **추천 URL**: /vehicles/jac-t9-hunter/
+- **검색 의도**: JAC T9 Hunter를 이해하십시오: 수출 구매자를 위한 디젤 픽업 Specs (침대, 탑재량, 드라이브 트레인, 포좌): 차량/부품 수출업자가 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정하십시오.
+- **내부 링크 제안**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **이미지 제안**: T9 Hunter side with bed
+- **ALT 텍스트**: JAC T9년 헌터 디젤 4x4 픽업
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## Buyer Context: 픽업 결정은 침대와 스트레인으로 시작
 수출의 첫 번째 질문은 침대 길이입니다, 지불량,  four-wheel-drive layout  and  포좌 — 정보가 아닙니다. T9 사냥꾼은 JAC의 중간 크기 디젤 픽업입니다; 중국에서는 ** 후두 (悍途)**로 시장에 내놓았습니다. 정체성은 **two JAC-owned official sites** — the export site (jacen, 이름 "T9"  and  중국 픽업 사이트 (pickup.jac, 이름 "悍途 /Hantu") - 만족 모델_ALIAS_REQUIRES_OEM_PROOF: **최종 정체성 결심은 SAME_MODEL** 제품 가족에게 있습니다. Identity와 per-market 윤곽은 자주적으로 판단됩니다, 그래서 아직도 밑에 각 숫자는 그것의 시장 및 신뢰 상표를 나릅니다.
@@ -24,7 +26,7 @@
 표준 축축 치수는 JAC 수출 OEM 사이트와 중국 구조 소스 사이에 교차 검사됩니다. 긴 축축 수치는 두 개의 중국 소스를 가로 질러 져 있습니다. 침대 길이는 두 개의 섀시를 알리는 가장 명확한 방법입니다; VIN에 대한 기록 축 및 침대 내부 치수.
 
 ## Powertrain (디젤 초점: 엔진, 기어 박스, 연료, 배출)
-| 제품 정보 | T9 Hunter diesel — Chinese-market reference |
+T9의 제품정보 Hunter 디젤 - 중국 시장 참조 |
 |---|---|
 | 의 특징 | 2.0T 인라인 4 터보 디젤 |
 | | **125 kW 410 N·m** |
@@ -93,13 +95,13 @@
 |---|---|---|---|---|---|---|
 | JAC T9 공식 사양 | JAC 모터 수출 사이트 (OEM) | - 연혁 | https://jacen.jac.com.cn/t9-launch/specs.html 대한 자세한 정보 | 2026-09-04 | 인증 (OEM) | SAME_MODEL identity; ** 3500 kg 견인 (EXPORT) **; std 차원 |
 | 새로운 Hantu 제품 구성 | JAC의 픽업 공식 (OEM) | 담당자: Mr. wang | https://pickup.jac.com.cn/qxht/index.html 대한 자세한 정보 | 2026-09-04 | 인증 (OEM) | SAME_MODEL 정체성; ** 1000 kg 페이로드 (CHINA) ***************************************************************************************************************************************************************************************************************************************************************** |
-| Hantu 표준/long 몸 & 침대 차원 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_체크 | 5330/5620의 축거, 침대 |
+HANDO 표준/긴 몸 & 침대 차원 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_체크 | 5330/5620의 의무 |
 | T9의 발포 치수 (롱베드) | PCauto의 특징 | 담당자: Mr. wang | HTTP: 의 경우 | 2026-09-04 | CROSS_체크 | 긴 침대 corroboration | http://m.pcauto.com.cn/x/2947/29474511.html
 | Hantu (해외 T9) 파워트레인 및 세대 | 소후 자동차 | CN/Export의 장점 | https://www.sohu.com/a/1068531202_122480923 대한 자세한 정보 | 2026-09-04 | SINGLE_SOURCE(싱글) (중국) | 2.0T/125/410/ZF8AT/4WD, 7.6 클레임 |
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
 | GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
+| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고: 이중 JAC OEM 사이트를 통해 ID SAME_MODEL; 표준 긴 섀시 크로스 체크; 중국 파워 트레인은 SINGLE_SOURCE (제조 업체 시트에 대한 Finalise); 3500 kg 견인은 EXPORT 전용이며 중국 균질 값이 없습니다. 1000 kg 페이로드는 중국 VERIFIED입니다. RHD 매트릭스 및 수출 가격 명시되지 않음. ****************************************************************************************************************************************************************************************************************************************************************

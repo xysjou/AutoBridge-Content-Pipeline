@@ -1,16 +1,16 @@
 # 중국에서 수입된 수출 상품: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
-## ▼ 한국어 메타데이터
+## SEO 메타데이터
 - **SEO 제목**: 중국 수출 상품 면세(One-Year & CBEC Rules)|자동배리지
-- **마타 기술 **: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under GACC Order 272,  the separate cross-border e-commerce six-month rule,  and  '원래 상태'가 필요한 것.
-- ** H1 **: 중국에서 수입된 수출 상품: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
-- ** 출원 키워드 **: 수출 반품 상품 의무 면제 규정 중국
-- **세컨드리뷰 이용 약관**: 退运货物免税; GACC 순서 272 기사 49; returned export goods one year; cross-border ecommerce returned goods six months; 원래 상태 re-import
-- **Suggested URL**: /guides/export-returned-goods-duty-emption-regulation/
-- ** 수색 **: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别 、 原状认定与已退税补缴
-- ** 내부 링크 제안**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
-- ** 이미지 제안**: 수입 차량 부품은 기존 수출 문서에 대해 검사되고 있습니다.
-- **ALT 제안**: 원래 수출 선언 용지에 검사 하에서 화물을 반환
-- **Schema Scope**: 기사 (제품/오프러/가격/리뷰/리팅 없음)
+- **메타 설명**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under  GACC  Order 272,  the separate cross-border e-commerce six-month rule,  and  '원래 상태'가 필요한 것.
+- **H1**: 중국에서 수입된 수출 상품: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
+- **주요 키워드**: 수출 반환된 상품 의무 면제 규칙 도자기
+- **보조 검색어**: 退运货物免税; GACC  Order 272 article 49; returned export goods one year; cross-border ecommerce returned goods six months; 원래 상태 re-import
+- **추천 URL**: /guides/export-returned-goods-duty-exemption-regulation/
+- **검색 의도**: 중국의 수입 수출 상품의 이해: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **이미지 제안**: 반품된 수출 차량 부품은 원래 수출 문서에 대해 검사됩니다.
+- **ALT 텍스트**: 원래 수출 선언 용지 이외의 검사에서화물 반환
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 수출 상품이 중국으로 돌아올 때 - 부품의 거부 된 배치, 대상 합격을 실패 차량, 비축 전자 상거래 주식 - 기본 가정은 재 수입이 세금 이벤트입니다. 중국 세관 규칙은 특정 면제를 제공하지만, 그것은 왜 상품 반환에 단단히 조절된다, 얼마나 해외로, 그들은 원래 상태로 돌아 오는지. 어떤 조건을 놓는 수출은 수입 의무를 지불하고 상품에 수입 단계 세금을 원래 중국에서 만들었습니다. This guide separates the general one-year rule from the distinct cross-border e-commerce six-month track, "원래 상태"에 대해  and  이미 주장 된 rebate가 다시 지불해야합니다 플래그.
 
@@ -21,7 +21,7 @@ Levy의 관리 조치  and  세관 의무의 수집 (중국 주문의 세관 제
 세 가지 조건은 혼동입니다. - 세 가지 모두 보유해야합니다.
 
 - **리슨.** 반환은 품질 또는 사양 문제로, 상업적 마음 또는 일반 재판매 여정의 변경에 영향을 미칩니다.
-- **Time.** Re-entry occurs within one year from the date of export.
+- **시간.** 수출일로부터 1년 이내에 재입력
 - **요금.** 상품은 사용되지 않으며, 처리되지 않으며 수출한 국가에 남아 있습니다.
 
 이것은 담요 "어떤 중국은 집 자유" 규칙이 아닙니다. 판매 된 위탁, 사용, 조립 또는 수정 된 해외는 원래 상태 상태에 맞지 않습니다.
@@ -65,7 +65,7 @@ GACC 주문 번호 272 기사 49의 밑에,  when they return within one year fo
 
 ** 전자 상거래 트랙은 어떻게 다른가요?
 
-Goods under codes 1210/9610/9710/9810 returning in original state within six months qualify under a special CBEC arrangement running 1 January 2026 to 31 December 2027.
+코드 아래 상품 1210/9610/9710/9810 원래 상태에 반환 6 개월 동안 특별 CBEC 배열 실행 1 1 월 2026 에 31 12 월 2027.
 
 **Who는 "원래 상태"에 있는지 결정합니까?
 
@@ -75,7 +75,7 @@ Goods under codes 1210/9610/9710/9810 returning in original state within six mon
 
 아니요. 반품된 상품에 대한 모든 수출 VAT 환급은 세금 절차로 반품되어야 합니다.
 
-**Can ordinary commercial unsold stock use the one-year rule?**
+** 일반 상업 비품 재고는 1 년 규칙을 사용할 수 있습니까? 의 모든 것
 
 일반 규칙은 품질 또는 사양 이유가 필요합니다. 일반 재판매 재선은 자체 자격에 의해하지 않습니다. - 세관과의 사실을 확인합니다.
 

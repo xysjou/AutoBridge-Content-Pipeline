@@ -1,16 +1,16 @@
 # Importação de Veículos para o Quênia: Alfândega KRA, KEBS PVoC e o Caminho de Normas
-## SEO Meta- dados
-- ** Título SEO**: Importação de Veículos do Quênia: KRA Customs Duties e KEBS PVoC Guide
-- ** Descrição do Meta**: Guia específico para a importação de veículos no Quénia: o regime aduaneiro e os impostos KRA, a verificação prévia à exportação da conformidade (PVoC) da KEBS e a forma como é publicada a regra relativa à idade do veículo circulante.
-- ** H1 **: Importação de Veículos para o Quênia: Alfândega KRA, KEBS PVoC e o Caminho de Normas
-- **Chave principal**: Importação de veículos do Quênia KRA KEBS PVoC
-- ** Termos de pesquisa secundários**: Quênia KRA direito de importação de veículos; KEBS veículo motor PVOC; marca de normalização de importação Quênia; Quênia usado regra idade do carro; declaração de importação Quênia
-- **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
-- **Intenção de pesquisa**: 向肯尼亚出口车辆需经过哪些海关计税, 装船前合格评定与标准 车龄要求, 分别由哪些机构负责
-- **Internal Link Suggestions**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Imagem Sugestão**: Mombasa porta veículo importação manipulação com documentos KEBS e KRA
-- **ALT Sugestão**: Arquivo de importação de veículos com papelada KEBS e KRA e um pátio de porto em segundo plano
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadados SEO
+- **Título SEO**: Veículo do Quénia Importação: KRA Direitos aduaneiros e Guia PVoC KEBS
+- **Meta descrição**: Guia específico para importação de veículos no Quénia: KRA procedimentos aduaneiros e impostos, KEBS verificação de conformidade pré-exportação (PVoC) e como é publicada a regra da idade do veículo circulante.
+- **H1**: Importação de Veículos para o Quénia: KRA Alfândega, KEBS PVoC e o Caminho de Normas
+- **Palavra-chave principal**: Importação de veículos do Quénia KRA KEBS PVoC
+- **Termos de busca secundários**: Quênia KRA direito de importação de veículos; KEBS veículo motor PVoC; marca de padronização de importação Quênia; Quênia usou a regra da idade do carro; declaração de importação Quênia
+- **URL sugerida**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
+- **Intenção de busca**: Compreenda Importação de Veículos para o Quênia: KRA Alfândega, KEBS PVoC e o Caminho de Normas: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/south-africa-vehicle-import-itac-sars-nrcs/, /guides/nigeria-vehicle-import-customs-soncap/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Sugestão de imagem**: Mombasa transporte de importação de veículos portuários com KEBS e KRA documentos
+- **Texto ALT**: Arquivo de importação de veículos com KEBS e KRA papelada e um pátio de porto no fundo
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 O Quênia divide a importação de um veículo entre a autoridade fiscal e o organismo de normas, e o passo padrão acontece em grande parte ** antes de o veículo deixar o país de origem**. A **Kenya Revenue Authority (KRA)** trata do valor aduaneiro, dos direitos e do desalfandegamento; o **Kenya Bureau of Standards (KEBS)** executa o programa de verificação de conformidade pré-exportação (PVoC) que decide se uma importação regulamentada cumpre as normas do Quénia. Este é um guia específico do Quénia; os números e listas envolvidos são sensíveis ao tempo e devem ser lidos a partir das fontes atuais do KRA/KEBS.
 

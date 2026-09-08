@@ -1,14 +1,16 @@
 # SAIC Maxus Xatu V90 Diesel Van: Configuration - Matrix Komersial Light, Bukan Model Tunggal
-## SEO Metadata
-- SAIC Maxus V90 Diesel Van Specs & Ekspor Panduan Konfigurasi
-- ** Meta Description **: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT, Didukung dengan roda belakang ganda, dua pangkalan roda, 9–15 kursi oleh homologasi.
-- ** Sugested URL **: kendaraan saic- makasi- v90-specs/
-- ** H1 **: SAIC Maxus Xintu V90 (Cinese- Pasar): Diesel Light Van Konfigurasi dan Ekspor Cek
-- ** Primary Keyword **: saic maxus v90 diesel van spesifikasi
-- Maxus V90 wheelbase, V90 ZF 8AT, Maxus light bus 9-15 kursi, diesel wide- tubuh van ekspor, double roda belakang van
-- ** Interior Link Sugestions **: kendaraan faw-jiefang-j6p-tractor-specs/; kendaraan farizon -xingxiang- v6e-specs/; pemandu kendaraan-coc-ketik -peresmisi- berkas
-- *** Sugestions Gambar **: Long-roda tinggi-atap profil sisi; dual- belakang roda poros; penumpang vs tubuh kargo; ZF 8AT pemilih; interior kargo; interior kargo
-- "SAIC Maxus V90 panjang roda atap van"; V90 mesin diesel dan pilihan poros belakang "
+## Metadata SEO
+- **Judul SEO**: SAIC Maxus V90 Diesel Van Specs & Ekspor Panduan Konfigurasi
+- **Deskripsi Meta**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT, RWD dengan roda belakang opsional, dua pangkalan roda, 9–15 kursi oleh homologasi.
+- **H1**: SAIC Maxus Xatu V90 (Cinese- Market): Diesel Light Van Konfigurasi dan Ekspor Cek
+- **Kata kunci utama**: saic maxus v90 diesel van spesifikasi
+- **Istilah pencarian sekunder**: Maxus V90 wheelbase, V90 ZF 8AT, Maxus light bus 9-15 kursi, diesel wide- van export, double roda belakang van
+- **URL yang disarankan**: /vehicles/saic-maxus-v90-specs/
+- **Maksud pencarian**: Memahami SAIC Maxus Xatu V90 (Cinese- Pasar): Diesel Light Van Configure dan Ekspor Cek: ekspor kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /vehicles/faw-jiefang-j6p-tractor-specs/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Saran gambar**: profil sisi atas heelbase panjang
+- **Teks ALT**: SAIC Maxus V90 panjang heelbase atap tinggi van
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Pembeli Konteks: Pesankan Kode Konfigurasi, Bukan Nama
 Xinta V90 adalah platform komersial cahaya ** yang dijual sebagai penumpang minibus, panel kargo van dan taksi telanjang, di beberapa roda, atap tinggi, jumlah kursi dan roda belakang tunggal ganda. Tidak ada "V90 spec" tunggal. Pekerjaan eksportir adalah untuk memperbaiki ** kode model homologasi yang tepat (公告型号) ** dan kemudian cocok mesin, gearbox, axle, tubuh dan kursi untuk itu - karena sertifikasi tujuan dilakukan pada konfigurasi tertentu. REFERENCE MARKET: ** CHINA **.
@@ -56,30 +58,30 @@ Mesin apa yang digunakan? A SAIC PAULLIAN 2.0 L turbo- diesel di 110 kW (150 PS)
 Mengapa harus kukutip kode model? Dasar roda, atap, kursi, poros dan GVW berbeda di konfigurasi homologated V90; hanya kode yang memperbaiki spesifikasi.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |

@@ -1,14 +1,17 @@
 # JC Kangling (康铃) Lingpao L6 รถบรรทุกแสง, ครอบครัวชาซิส, การประกาศสร้างและส่งออกบันทึกการท่องเที่ยว
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: JAC Kangling Lingpao L6 รถบรรทุกแสง: Chasis, GVW & Driveline สําหรับผู้นําเข้า
-- "Meta Date=" (อังกฤษ: JC 1Ka Langpao) L6 รถขนแสงที่อธิบายโดยครอบครัวชาซี — Anhui-Cummins 2.5 December, ขวานหลัง 4T/5T ลํา, ศพประกาศหลายคันใน MIT และวิธีตรึงโครงสร้างการส่งออกที่แน่นอน
-- ~ที่อยู่ URL ที่ถูกย่อ: เวนิกส์/จาค-คาบี้-ไฟ-เบรค/
-- ** H1 **: JC Kangling Lingpao L6: ตรงกับ Chasis, เปิดตัวโมเดลและระบบการส่งออกสําหรับลําดับการส่งออก (PDF)
-- ~คําสําคัญในเอกสาร~ Kangling Lingpao L6 รถบรรทุกแสงกําหนดส่งออก
-- ~การค้นหาตามวาระ: JC Lingpo L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 รถขนแสง ประเทศจีน 4.5t รถจีวีดับเบิลยู ดีเซล, ซีซี 1Ka รถบรรทุกแสง, รถขนแสงคังลิง รถบรรทุกจอดข้างทาง
-- ~ ข้อความเชื่อมโยงภายใน *: Guides/commercial-range-princial-chincation-china/; guides/import-chinish-sudi-saso/;////foton-aunkar-regrited-Rangution
-- ~คําแนะนําของ Imaces ~: มุมมองของทางลาด L6; ทางการ chasis-เฟรมและผังหลัง; เครื่องยนต์อ่าว HFC4DE3 2.5 ดีเซล; เปรียบเทียบของ ลดลง/กล่อง/ ลังจับ; รถแท็กซี่เดี่ยว 1920 mm
-- ~~~~~~~~~ คําแนะนํา: "JAC Lingpao L6 4x2 รถบรรทุกส่งแสงจากดีเซล". "Lingpao L6 180 mm Chasis pople และ axle ด้านหลัง 4T/5T". "Anhui Cummins HFC4DE3 2.5-litre เครื่องยนต์ดีเซล"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: JAC Kangling Lingpao L6 รถบรรทุกแสง: Chasis, GVW & Driveline สําหรับผู้นําเข้า
+- **คำอธิบาย Meta**: JAC 1Ka Lingpao (Kangling) L6 รถไฟฟ้าไฟฟ้าที่อธิบายโดยครอบครัวชาซิส — Anhui-Cummins 2.5 Design 4T/5T เพลาหลัง  multiple  MIIT  announcement bodies,  and  จะปักหมุดการส่งออกที่แน่นอนได้อย่างไร
+- **H1**: JAC คัง ลิง หลิง หลิง ะ โอ L6: จับคู่ Chasis, โมเดลประกาศ และ ระบบการจัดอันดับสําหรับการจัดส่งออก
+- **คีย์เวิร์ดหลัก**: JAC Kangling Lingpao L6 รถบรรทุกแสงกําหนดส่งออก
+- **คำค้นหารอง**: JAC หลิงแพโอ L6 (พ.ศ.   HFC4DE3  Anhui Cummins 2.5, HFC1043 รถส่งแสง  China 4.5t  GVW  diesel truck, JAC 1Ka รถบรรทุกแสง ส่งออกมา รถ บรรทุก ทิ้ง ของ กัง มิง
+- **URL ที่แนะนำ**: /vehicles/jac-kangling-light-truck/
+- **เจตนาการค้นหา**: เข้าใจ JAC Kangling Lingpao L6: ตรงกับ Chasis, เปิดตัวโมเดลและระบบกระจายเสียงสําหรับลําดับส่งออก: สิ่งที่รถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
+- **คำแนะนำรูปภาพ**: ภาพ ด้าน ข้าง ของ ด้าน ข้าง ที่ ลด ลง L6 ด้าน
+- **ข้อความ ALT**: JAC หลิงแพโอ L6 4x2 รถบรรทุกเบา December
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
+
 ## ทําไม จึง มี การ สั่ง ประมวล กฎหมาย ของ ชา ซิส L6 ฉบับ ไม่ ใช่ โดย ชื่อ แบบ
 รถพาณิชย์ไฟจีน ไม่ใช่รถโดยสารที่ซ่อมได้ The United-LingPao L6 (领跑 L6) ยอดขายภายใต้สายไฟ 1Ka ของเจซี 康铃) ~ ครอบครัวชาซิส* ที่เจซีสร้างด้วยเครื่องยนต์หลายเครื่อง สองล้อล้อ  two rear-axle ratings  and  โรงงานหรือโค้ชสร้างศพ (Drapide 栏板) กล่อง 厢式 ลิ่ม 仓栅 แช่เย็น  and  มากขึ้น) ส่วนผสมทางกฎหมายแต่ละอัน มีรุ่นประกาศ (公告型号) และน้ําหนักตามท้องถนนของมัน เรตเตอร์โหลด " L6" จึงไม่พูดอะไรที่แม่นยํา จนกว่าจะมีการประกาศชื่อรุ่น เครื่องยนต์ และร่างกาย หน้านี้แยกสิ่งที่ JC ตีพิมพ์อย่างเป็นทางการเกี่ยวกับแพลตฟอร์ม จากอาคารประกาศเดียวที่ถูกจับในฐานข้อมูล สี่เหลี่ยมทางพาณิชย์ ดังนั้นผู้นําเข้าสามารถสั่งซื้อรถบรรทุกที่นิยามได้ แทนที่จะเป็นชื่อ
 ## Plantiform ต่อตารางการปรับแต่งอย่างเป็นทางการ JC
@@ -52,7 +55,7 @@ DCDC ที่เกี่ยวข้องกับการส่งออก
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
 Abten The ~ JAC แผ่นกําหนดของโรงงาน ใบรับรองประกาศ MIIT สําหรับโมเดลที่แน่นอน โค้ด! HFC1043P21K4C7S) และกลับมาคืนดีกันทุกครั้ง ฐานข้อมูลถึงมัน
 - ยืนยัน ** เครื่องยนต์ → kW/NM ~, โมเดลชุดเกียร์, เรตติ้งหลัง-axle และสัดส่วนการขับสุดท้ายในการเขียน สืบค้นเมื่อ ค.ศ.
-- Confirm **destination emission/fuel acceptance** independently of China VI.
+- ยืนยัน ** การปล่อยก๊าซ/ การยอมรับของจีนที่ 6 * เป็นอิสระ *.
 - Reconcyle #GVW/loadload/Axle punies ~ ด้วยชั้นเรียนการลงทะเบียนและ ระยะเวลาที่ต่อเนื่อง สําหรับคนที่คุณพ่าย.
 - ยืนยันการส่งอุปกรณ์ LHD/RHD และสํารองสําหรับเครื่องยนต์ Anhui-Cummins, เกียร์บ็อกซ์ที่ถูกเลือก และยาง 7.00R16LT
 - ขอ แผ่น กระดาษ สําหรับ การ สร้าง โรง งาน แทน บัตร ที่ ขาย ใหม่.
@@ -65,42 +68,42 @@ Abten The ~ JAC แผ่นกําหนดของโรงงาน ใบ
 ~ อะไรคือ GVW และ passload? ~ ตึกข้างทางที่จับได้ 4.495 t GVW 1.735 t บรรจุกระสุน; กล่องและโครงสร้างไม้หนักขึ้นด้วยภาระที่ต่ํากว่า คืออ่านใบประกอบการของแต่ละร่างกายเอง
 มีอัตโนมัติไหม ดีเซล ที่ จับ ได้ ใช้ คู่มือ เจ ซี 6-speed; เครื่อง มือ ที่ ใช้ ใน การ ทํา ความ ร้อน บาง ชนิด มี 8-speed เครื่อง — ยืน ยัน ว่า เส้น นั้น ถูก ต้อง ไม่ ใช่ การ คาด เดา.
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 轻卡
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | Lingpao L6 ตารางการปรับแต่งอย่างเป็นทางการ | JAC Commercial Vehicle (JAC 江淮1卡, ~เจ้าหน้าที่ผู้จัดรายการ~~] | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | ~"ผ่านเข้ามา" | แท็กซี่ 1920 WB 3365 (พ.ศ. กรอบ 180 × 65 x 4.5 เพลา 2T/4–5T สัดส่วน HFC4DE3 รายการครอบครัวที่มีอํานาจเต็มที่ |
-| L6 HFC5043XY… box/announcement parameters | (卡车之家, DB พาณิชย์) พ.ศ. | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | ROOS_ CHCKED | โมเดลประกาศ ครอบครัว, เครื่องใน, น้ําหนักตัว | 360che
-| L6 ตัวแสดงพารามิเตอร์การปล่อยลง | (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | ROOS_ CHCKED | HFC1043P21K4C7S มิติ, น้ําหนัก, เพลา, กล้ามเนื้อ, ยาง | 360che
+| L6 HFC5043XY... กล่อง/ตัวแปร | (卡车之家, DB พ พ พ า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ณ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ิ ช ช ช ช ช ช ช ช ช ช ช ช ช ช ช ิ ช ช ช ิ ิ | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | ROOS_ CHCKED | โมเดลประกาศ ครอบครัว, เครื่องใน, น้ําหนักตัว | 360che
+| L6 PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS PS ต ต ต ต แ แ แ แ แ แ แ แ (พ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต เอ็กซ์ เอ็กซ์ เอ็กซ์ เอ็กซ์ | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | ROOS_ CHCKED | HFC1043P21K4C7S มิติ, น้ําหนัก, เพลา, กล้ามเนื้อ, ยาง | 360che
 | L6 เส้นด่วน- 8 เส้นการลาก | (卡车之家) (พ.ศ. | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | อุปกรณ์เสริม 8-speed, การกระจายของวัตถุ | 360che
 * ความ ไม่ เสมอ ต้น เสมอ ปลาย ต่อ เรือ อัตโนมัติ มาตรฐาน: ISIFIE ต้องการผู้ผลิต/ รัฐบาล/ มาตรฐาน ร่างกาย JAC โต๊ะของตัวเอง พบกัน บาร์สําหรับชานชาลา ข้อเท็จจริง น้ําหนักต่อออนซ์จาก 360che เป็น CROSS_CHCKE ต่อต้าน พ.ศ. JAC ครอบครัว แต่ ยังต้องตรงกัน ถึงใบรับรองที่แน่นอน ไม่ มี การ กล่าว ถึง ราคา; ราคาในประเทศคือ เวลาจํากัดและไม่เคยใช้ ในฐานะผู้ส่งออก *
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 | GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 

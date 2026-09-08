@@ -1,15 +1,17 @@
 # 东风福兴·尤廷(2025/2026年)——中马MPV. 光谱、 ICE/ PHEV 线和导出检查
 
-## 道德操守办公室 元数据
-- **SEO标题**:Forthing Youting MPV:中马ICE & PHEV线,光谱和出口指南
-- **Meta Dision**:中国市场东风福建青(游艇)MPV:将ICE和PHEV线路分开;尺寸7-seat舱,PHEV电源列车和出口验证点.
-- ** H1 资源需求。 **:东风福兴·尤廷(2025/2026年)——中马MPV. 光谱、 ICE/ PHEV 线和导出检查
-- ** Youting 风行游艇 光谱导出（东风风行）
-- ** 二级搜索术语**: 用于出口Youting;游艇 MPV规格;中国7-seat MPV;MPV PHEV;旅客面包车进口
-- ** 提议URL**:车辆/未来青年/
-- ** 搜索内特**:了解 东风堡 东风风行 Youting 风行游艇 中国版规格 配置与出口适配性(车型参数页)).
-- ** 内部链接建议**:车辆/前期-青年/、指南/ckd-skd-knockdown-kit-export-assembly/、指南/出口-文件包装-历史/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: 福尔丁·尤廷MPV:中马ICE & PHEV 线条、 光谱和导出指南
+- **Meta描述**: 中市东风福建Youting(游艇)MPV号线:将ICE号线和PHEV号线分开;尺寸7-seat舱,PHEV号电机列车和出口核查点.
+- **H1**: 东风福兴尤廷(2025/2026年)——中马MPV谱,ICE/PHEV线及出口检查.
+- **核心关键词**: 东风堡 / 东风风行 Youting / 风行游艇 光谱导出
+- **次级搜索词**: 福尔丁出口;游艇 MPV规格;中国7-seat MPV;MPV PHEV;客车进口
+- **建议URL**: /vehicles/forthing-youting/
+- **搜索意图**: 了解东风福建青春(2025/2026年)——中马MPV种谱系,ICE/PHEV年. 线路和出口检查:车辆/部件出口商在承诺执行订单之前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **图片建议**: 现实的,文件/车辆聚焦的场景,说明东风福兴·尤廷(2025/2026年)——中马MPV号标本,ICE/PHEV号标本和标本,没有进行阶段检查或有人声称.
+- **ALT文本**: 近,天然看材料和与东风福鼎有关的课题(2025/2026)——中马八百一谱,ICE/PHEV 线条,中立背景,没有显示人员或检查行动.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 购买者上下文:一个MPV名牌,两个能量线
 东风福尔丁(游艇)**是中国中超市场MPV在**ICE提供的一种中超产品.  and  必须单独引用的PHEV线**。 他们共用2900 mm个轮式基地和7-seat个, 门锁舱,但高度和动力列车不同。 参考市场为**中国**; 没有声称出口线规格。
@@ -54,7 +56,6 @@
 ** 154、900人民币是出口价格吗? ** 否 ——仅中国国内参考.
 ** 能否转换成穿梭/救护车? ** 以上调形式进行;与基数的MPV分开评估。
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
-- 东风 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青 青春 青春 青春 青春 青春 青春 青 青春 青 青 青春 青 青 青春 青 青春 青春 青 青 青春 青 青 青 青 青 青 青 青 青 青 青 青 青 青 青 
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

@@ -1,15 +1,17 @@
 # MBL, HBL, 텔렉스 릴리스 또는 시 웨이비? 2025 해상 코드의 차량 출시 방법을 선택
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 차량 수출 빌링 가이드 — MBL/HBL/Telex/SWB + 해상 코드 예술. 80/81/87
-- **마타 기술 **: 마스터 빌, 집 청구서, 텔레스 릴리스 및 바다 방법 요금 차이, 중국의 개정 된 해상 코드의 이동성 배달 규칙 (힘 2026-05-01, 예술. 80/81/87), 및 일치 릴리스 방법 지불 조건.
-- **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
-- ** H1 **: 수출 차량용 빌-of-Lading Release Method를 선택 — 개정된 해상 코드에서 고정된 비즈니스 연습
-- ** 출원 키워드**: 차량 수출 요금표 lading mbl hbl telex 릴리스 seawaybill
-- **세컨드리뷰 약관**: 해양코드 2025 개정, 기사 80 예선, 기사 81 기타 운송 문서, 기사 87 배달, NVOCC HBL, 주문서 텔레렉스
-- ** 내부 링크 제안**: /guides/ocean-freight-charge-structure-vehicle-export/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/
-- ** 이미지 제안**: four-method comparison; negotiability 사다리 대 지불; MBL/HBL 사슬; 예술. 80/81/87 배달 교류
-- **ALT 제안**: “MBL HBL 텔레스 해골 선구자는 개정된 해상 부호의 밑에 양도할 수 있습니다”
+## SEO 메타데이터
+- **SEO 제목**: 차량 수출 빌링 가이드 - MBL/HBL / Telex / SWB + 해양 코드 예술. 80/81/87
+- **메타 설명**: 마스터 빌, 집 청구서, 텔레스 릴리스 및 바다 방법 요금 차이, 중국의 개정 된 해상 코드의 이동성 / 배달 규칙 (힘 2026-05-01, 예술. 80/81/87), 및 지불 조건에 일치 릴리스 방법.
+- **H1**: 수출 차량용 빌-of-Lading Release 방법 선택 — 개정된 해상 코드에서 고정된 사업 실습
+- **주요 키워드**: 차량 수출 요금표 lading mbl hbl telex 릴리스 seawaybill
+- **보조 검색어**: 해상 코드 2025 개정, 기사 80 법안의 라딩 전송, 문서 81 다른 수송 문서, 문서 87 배달, NVOCC HBL, 주문 빌 텔레 x
+- **추천 URL**: /guides/vehicle-export-bill-of-lading-types
+- **검색 의도**: 수출 차량용 빌-of-Lading 릴리스 방법을 선택 이해하기 - 개정 된 해상 코드에서 고정 된 비즈니스 연습: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정.
+- **내부 링크 제안**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **이미지 제안**: four-method comparison
+- **ALT 텍스트**: MBL HBL 텔레스 해 웨이 빌 개정 된 해상 코드의 협상
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 조달 문제는 화물 통제, Paperwork 아닙니다
 수출업체는 문서로 청구서의 선택사항을 취급합니다. ** 결제 -risk 결정 **: 원래 양도 청구서에서 텔레스 릴리스 또는 바다 방법 청구로 이동하면 목적지에서 차량을 제어 할 때 변경됩니다. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ** 14th NPC 서 있는위원회 18th 세션에 의해 2025-10-28에 도달 (일반 주문 번호 58), 2026-05-01 장에서 힘 (16 장, 310 기사)** —  and  그 후 결제 조건에 맞는 메소드를 일치합니다. Carrier/port-specific telex 규칙과 수수료는 voyage-specific을 유지하고 고정 값으로 명시되지 않습니다.
@@ -87,10 +89,10 @@
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
 | PRC의 해상 코드 (2025 개정, 대통령 명령 58, 힘 2026-05-01) 전체 텍스트 | NPC 서 있는위원회 | 담당자: Mr. wang | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html 의 경우 | 2026-09-04 | 인증 (기본) | 예술. 80/81/87, 버전 및 효과적인 날짜 |
-| B/L/텔레스/바다 Waybill 설명 | NetEase 사업 위키 | INTL의 | https: | 2026-09-04 | CROSS_체크 | MBL/SWB/telex 정의 | https://www.163.com/dy/article/L0J4JN3F0556HN78.html
+인TL의 인TL의 인TL의 인TL의 인TL의 인TL의 인 텔레스 / 해웨이비드 인 텔링스 사업 | 인TL의 인 텔링스 〒2026-09-04 |금_체크 | MBL/SWB/telex 정의 | https://www.163.com/dy/article/L0J4JN3F0556HN78.html
 | 마스터 빌 대 집 청구서 | Sina 금융 | INTL의 | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml 경우 | 2026-09-04 | CROSS_체크 | MBL/HBL 사슬, 차량 연습 |
 | 릴리스 방법 및 B L 유형 | 산업 지식 | INTL의 | https: | 2026-09-04 | CROSS_체크 | Four-method comparison | https://m.11467.com/product/d15253354.htm 11467
-| Four release methods  and  텔레렉스 위험 (남미 주) | 의논하기 | INTL의 | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | 주문 요금 제한, 항구 합격 | https://www.163.com/dy/article/K17GLBOG0556820S.html
+의논문 4개의 공개 방법 및 텔레렉스 위험(남미 주) | 의논문 | INTL의 | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | 주문 요금 제한, 항구 합격 | https://www.163.com/dy/article/K17GLBOG0556820S.html
 | 상품의 국제 운송 및 모델 법 | UNCITRAL(주) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 운송 문서에 대한 통합 법률 프레임 (Hague-Visby/Hamburg/Rotterdam context) |
 | 표준 선박 문서 및 항목 참조 | BIMCO의 특징 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.bimco.org/ 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 산업 표준 해상 참조 |
 | FIATA 수송 문서 및화물 운송업자 연습 | 국제 화물 운송업자 (FIATA) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://fiata.org/ 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 운송업자 문서 (FBL/FCR)는 운반대 B/Ls를 구별합니다 |

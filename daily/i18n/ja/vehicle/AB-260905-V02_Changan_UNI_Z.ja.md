@@ -1,15 +1,17 @@
 # 長安UNI-Z(2026、新ブルー鯨PHEV) - 中国市場仕様と輸出検証
 
-## ツイート メタデータ
-- **SEOタイトル**:長安UNI-Z PHEV 2026: 中国の市場仕様と輸出バイヤーガイド
-- **メタ 記述**: 中国市場長安UNI-Zの新しい青い鯨のPHEV:次元、18.4 kWh LFPライン、130 km CLTC電気範囲、DC/V2Lおよび輸入者のためのVINレベルの点検。
-- H1 **: 長安UNI-Z (2026、新ブルー鯨のPHEV) — 中国市場仕様と輸出検証
-- **主なキーワード**: Changan/长安 UNI-Zのスペックのエクスポート
-- **二次検索条件**:長安UNI-Z輸出;UNI-Z PHEV仕様;中国プラグインハイブリッドSUV;V2L輸出;CLTC範囲
-- **混雑URL**: /vehicles/changan-uni-z/
-- **Search Intent**: 了解 Changan/长安 UNI-Z 中国版规格、配置与出口适配性 (车型参数页))
-- **内部リンク提案**: /vehicles/changan-uni-z/、/guides/china-export-customs-declaration-single-window/、/guides/ccc-certification-export-免除/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: Changan UNI-Z PHEV 2026: 中国の市場仕様と輸出バイヤーガイド
+- **メタディスクリプション**: 中国の市場Changan UNI-Zの新しい青い鯨PHEV:次元、18.4 kWh LFPライン、130 km CLTC電気範囲、DC/V2LおよびVIN -輸入者のためのレベル点検。
+- **H1**: Changan UNI-Z (2026、新しい青い鯨PHEV) - 中国市場仕様と輸出検証
+- **主要キーワード**: Changan/长安 UNI-Z 仕様の輸出
+- **関連検索語**: Changan UNI-Z輸出;UNI-Z PHEV仕様;中国のプラグインハイブリッドSUV;V2L輸出;CLTC範囲
+- **推奨URL**: /vehicles/changan-uni-z/
+- **検索意図**: Changan UNI-Z(2026、ニューブルー・ハレPHEV) - 中国市場仕様と輸出確認:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **画像候補**: リアルで、文書/車両重視のシーンがチャンガンUNI-Z(2026、ニューブルー・ハレPHEV)を照らし出します。中国市場仕様と輸出確認、段階的な検査や要求の人は一切ありません。
+- **ALTテキスト**: クローズ、材料の自然な眺めおよびチャンガンUNI-Z (2026、新しい青い鯨PHEV)に関連する主題–中国市場Specsおよび輸出Veri、中立背景、人か点検行為は示しません。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキストとモデルのアイデンティティ
 **Changan UNI-Z (2026)** は、中国市場**新しいブルー・ハレ(Xin Lan Jing) プラグインハイブリッド** コンパクトSUVです。 あらゆるピュア・プロトロール・ユニ・Z と輸出市場名板の Changan から異なるラインです。海外の名前の式典は OEM ステートメントなしで主張されていません。 参照の市場は**中国**です。
@@ -55,7 +57,6 @@
 **WLTP 範囲 130 km ですか?** ありません。CLTCです。
 **輸出価格は?** 現在の引用語句を要求して下さい;このページはどれも公開します。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確な長谷UNI-Z 2026
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: チャンガンユニ-Z 2026
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

@@ -1,15 +1,17 @@
 # 长安UNI-Z(2026,新蓝鲸PHEV)——中马货谱与出口核查
 
-## 道德操守办公室 元数据
-- **SEO标题**:长安UNI-Z PHEV 2026:中马标本与出口购买者指南
-- ** 金属说明**: 中国市场长安UNI-Z新蓝鲸PHEV:尺寸18.4 kWhLFP线,130 kmCLTC电机范围DC/V2L,VIN级进口商检查.
-- **H1 **:长安UNI-Z(2026,新蓝鲸PHEV)——中马标本与出口核查.
-- ** UNI-Z型出口（长安）
-- ** 二级搜索术语**:长安UNI-Z出口;UNI-Z PHEV规格;中国插件混合式SUV;V2L出口;CLTC范围
-- ** 建议的URL**:车辆/changan-uni-z/
-- ** 搜索意向**:了解 长安 长安 UNI-Z 中国版规格 配置与出口适配性(车型参数页)
-- ** 内部链接建议**:车辆/changan-uni-z/,指南/钦那-出口-海关-声明-单一窗口/,指南/cc-认证-出口-豁免/
-- ** 范围**:第+条车辆(无产品/产出/审查)
+## SEO元数据
+- **SEO标题**: Changan  UNI-Z   PHEV  2026: 中国市场标本和导出 买方指南
+- **Meta描述**: 中国市场长安UNI-Z新蓝鲸PHEV: 尺寸,18.4 kWh LFP线,130 km CLTC电机范围,DC/V2L,和VIN - 进口商的级别检查。
+- **H1**: 长安UNI-Z(2026,新蓝鲸PHEV)——中马标本与出口核查.
+- **核心关键词**: 长安/长安 UNI-Z 种
+- **次级搜索词**: 长安UNI-Z出口; UNI-Z PHEV个规格; 中国插头混合型SUV; V2L出口; CLTC 范围
+- **建议URL**: /vehicles/changan-uni-z/
+- **搜索意图**: 了解长安UNI-Z(2026,新蓝鲸PHEV)——中马标本与出口核查:车辆/零件出口商在承诺下达订单前必须核实,记录和决定的内容.
+- **内链建议**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **图片建议**: 现实,文件/车辆重点场景,说明长安UNI-Z(2026,新蓝鲸PHEV)——中马标本与出口核查,不设舞台检查或有人声称.
+- **ALT文本**: 近,自然看材料和与长安UNI-Z(2026,新蓝鲸PHEV)有关的主体——中马标本和出口维里,中性背景,没有人员或检查行动.
+- **Schema范围**: 第+条 车辆(无产品/产出/审查)
 
 ## 买家上下文和模式身份
 本文涵盖的**昌安UNI-Z(2026)**为中市**新蓝鲸(新兰晶)插座**紧凑型SUV. 与任何纯净的UNI-Z和出口市场名牌的长安都可以在其他地方使用,这是一条不同的线;没有OEM声明,就不得要求海外名等号。 参考市场为**中国**.
@@ -55,7 +57,6 @@ UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化�
 ** 130 km是WLTP范围吗? ** 不,这是CLTC。
 ** 出口价格在哪里? ** 请输入当前引文;本页面无刊。
 
-
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化�
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
 ## 图像记录
-- **IMAGE_ASST_PATH**:没有在仓库中安全
-- ** ORIGINAL_IMAGE_URL**:未捕获
-- ** 资源:未捕获
-- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
-- 霍德尔:未经证实
-- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
-- ** 日期:2026-09-06
-- ** MODEL_TOPIC_MATCH**:准确的长安UNI-Z 2026
-- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
-- 错误
-- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
-- ** ALT(12种语言)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化�
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

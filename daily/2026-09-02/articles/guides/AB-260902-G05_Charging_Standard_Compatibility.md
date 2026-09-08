@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compatibility
 - **Meta Description**: Will a Chinese-market EV charge in Europe, Japan or North America? GB/T 20234.3/27930 explained, the connector map by region, export-version inlets, adapters and the ChaoJi direction.
-- **Suggested URL**: /guides/chinese-ev-charging-standard-compatibility/
 - **H1**: Will a Chinese EV Charge Overseas? GB/T, CCS2, CHAdeMO and NACS Compatibility Explained
 - **Primary Keyword**: GB/T CCS2 CHAdeMO charging standard export compatibility
 - **Secondary Search Terms**: Chinese EV export charging adapter, GB/T 20234.3 DC fast charge, GB/T 27930 protocol, CCS2 export version EV, ChaoJi standard
+- **Suggested URL**: /guides/chinese-ev-charging-standard-compatibility/
+- **Search Intent**: Understand Will a Chinese EV Charge Overseas? GB/T, CCS2, CHAdeMO and NACS Compatibility Explained: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
-- **Image Suggestions**: world connector-standard map; GB/T vs CCS2 inlet comparison; factory export-version inlet; adapter compliance warning
-- **ALT Suggestions**: "World map of DC fast-charging connector standards"; "GB/T and CCS2 charging inlets side by side"; "Chinese EV export-version CCS2 inlet"
+- **Image Suggestion**: world connector-standard map; GB/T vs CCS2 inlet comparison; factory export-version inlet; adapter compliance warning
+- **ALT Suggestion**: World map of DC fast-charging connector standards
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why the Connector Decides Whether the Car Is Usable
 

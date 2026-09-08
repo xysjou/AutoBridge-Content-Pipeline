@@ -1,16 +1,16 @@
 # China Modos de comércio aduaneiro para exportação de veículos: Comércio Geral (0110), Contratos de Mercado (1039) e Supervisão Obrigatória
-## SEO Meta- dados
-- ** Título SEO**: China Exportar Modos Aduaneiros 0110 vs 1039 vs Ligado para Veículos
-- ** Descrição do Meta**: Como um exportador de veículos chinês escolhe entre comércio geral (0110), comércio de mercado-contrato (1039) e supervisão vinculativa, incluindo fatura, reembolso fiscal e diferenças de recebimento.
-- ** H1 **: China Modos de comércio aduaneiro para exportação de veículos: Comércio Geral (0110), Contratos de Mercado (1039) e Supervisão Obrigatória
-- **Chave Primária**: China método de fiscalização aduaneira 0110 1039 exportação de veículos vinculados
-- ** Termos de pesquisa secundários**: comércio geral 0110 exportação; comércio de contratos de mercado 1039; zona de exportação forçada; modo de reembolso de impostos de exportação; código de supervisão aduaneira
-- **Suggested URL**: /guides/china-customs-supervision-method-0110-1039/
-- **Intenção de pesquisa**: 汽车出口应如何选择海关监管贸易方式, 一般贸易, 市场采购 (1039), 保税监管各自适用条件与税务 收汇差异
-- **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
-- ** Sugestão de Imagem**: Declaração aduaneira que compara os códigos comerciais gerais e os códigos de contratos de mercado ao lado dos veículos de exportação
-- **ALT Sugestão**: Formulário de declaração aduaneira com códigos de controlo e veículos de exportação numa porta para além
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadados SEO
+- **Título SEO**: China Exportar modos aduaneiros 0110 vs 1039 vs Ligado para Veículos
+- **Meta descrição**: Como um exportador de veículos chinês escolhe entre comércio geral (0110), comércio de mercado-contrato (1039) e supervisão vinculativa, incluindo fatura, reembolso fiscal e diferenças de recebimento.
+- **H1**: China Modos de comércio aduaneiro para exportação de veículos: Comércio Geral (0110), Contratos de Mercado (1039) e Supervisão Obrigatória
+- **Palavra-chave principal**: China método de fiscalização aduaneira 0110 1039 exportação de veículos vinculados
+- **Termos de busca secundários**: Comércio geral 0110 exportação; comércio de contratos de mercado 1039; zona de exportação obrigacionista; modo de reembolso do imposto de exportação; código de fiscalização aduaneira
+- **URL sugerida**: /guides/china-customs-supervision-method-0110-1039/
+- **Intenção de busca**: Entender China Modos de Comércio Aduaneiro para a Exportação de Veículos: Comércio Geral (0110), Compras de Mercado (1039) e Supervisão Obrigatória: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+- **Sugestão de imagem**: Declaração aduaneira que compara os códigos comerciais gerais e os códigos de contratos de mercado ao lado dos veículos de exportação
+- **Texto ALT**: Formulário de declaração aduaneira com códigos de controlo e veículos de exportação para além de um portão
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 O método de controlo aduaneiro (comércio) impresso na declaração de exportação não é uma formalidade — determina a forma como as mercadorias são declaradas, se o IVA a montante apoia uma restituição à exportação, como são recebidas divisas e quais as mercadorias que são elegíveis. Os exportadores de veículos, na maioria das vezes, realizam operações comerciais gerais, mas, por vezes, são oferecidos contratos de mercado (1039) ou rotas obrigacionistas como «simplificadores». Esta página explica cada um, e por que um veículo completo não se qualifica automaticamente para o modo simplificado.
 

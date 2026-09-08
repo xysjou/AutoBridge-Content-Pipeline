@@ -1,16 +1,16 @@
 # Inscription au port électronique de la Chine: La Hiérarchie des cartes de la personne juridique et de l'opérateur-carte expliquée
-## OEuvre Métadonnées
-- **Référencement au titre**: Chine E-Port Inscription: Legal-Person IC Card vs Operator Card -AutoBridge
-- **Description détaillée**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, les rôles de la carte de personne morale  and  les cartes d'opérateur,  and  la hiérarchie de l'autorisation de la carte.
-- ** H1 **: Inscription au port électronique en Chine: La Hiérarchie des cartes de la personne juridique et de l'opérateur-carte expliquée
-- **Mot-clé principal**: nom de l'opérateur de carte d'inscription en Chine
-- **Conditions de recherche secondaires**: 中国电子口岸入网; 法人卡; 操作员卡; carte CI de port électronique; port électronique d'enregistrement douanier; délivrance de la carte de port de Chine
-- **URL suggérée**: /guides/chine-e-port-inscription-ic-card-operator/
-- **Intention de la recherche**: 电子口岸入网如何随海关注册同步完成 -法人卡与操作员卡的层级关系与数量 / 授权规则
-- **Suggestions de lien interne**: /guides/commerce transfrontalier- b2b-export-9710-9810/, /guides/chine-véhicule-exportation-licence/, /guides/douanes-divulgation volontaire-tolérance-audit/
-- **Suggestion d'image**: Un administrateur de la compagnie insérant un lecteur de carte IC-port électronique tout en gérant les autorisations de l'opérateur à l'écran
-- **ALT Suggestion**: Carte IC dans un lecteur à côté d'un écran de gestion des autorisations de port électronique
-- **Schema Portée**: Article (aucun produit/offre/prix/réexamen/cotisation)
+## Métadonnées SEO
+- **Titre SEO**: Inscription au port électronique en Chine: personne-juridique IC Carte vs carte opérateur - AutoBridge
+- **Description meta**: How China Electronic Port onboarding now follows automatically from customs registration under the 2023 five-department No.164 announcement, les rôles de la carte de personne morale  and  les cartes d'opérateur,  and  la hiérarchie de l'autorisation de carte.
+- **H1**: Inscription au port électronique de la Chine: La Hiérarchie des cartes de la personne juridique et de l'opérateur-carte expliquée
+- **Mot-clé principal**: Chine e-port inscription opérateur de carte ic personne morale
+- **Termes de recherche secondaires**: 中国电子口岸入网; 法人卡; 操作员卡; e-port IC; enregistrement douanier e-port à bord; émission de la carte de Chine
+- **URL suggérée**: /guides/china-e-port-enrollment-ic-card-operator/
+- **Intention de recherche**: Comprendre l'inscription au port électronique en Chine: La carte juridique-personne et la hiérarchie des cartes d'opérateur Expliquer: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/, /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Suggestion d'image**: Un administrateur de la société insérant un lecteur de carte de port électronique IC tout en gérant les autorisations de l'opérateur à l'écran
+- **Texte ALT**: IC carte dans un lecteur à côté d'un écran de gestion de l'autorisation de port électronique
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 China Electronic Port (中国电子口岸) est la passerelle numérique commune par laquelle une entreprise fait des déclarations douanières et des déclarations transfrontalières connexes, et l'accès à celle-ci est contrôlé par des cartes IC portant des signatures numériques. Les nouveaux exportateurs supposent souvent que l'embarquement est une application séparée et longue; dans le cadre actuel, il est largement synchronisé avec l'enregistrement douanier, et le système de cartes lui-même fonctionne selon une hiérarchie à deux niveaux stricte entre une carte de personne morale et une carte d'opérateur. La mauvaise gestion de cette hiérarchie est une cause fréquente de «nous nous sommes inscrits mais personne ne peut déclarer». Ce guide explique comment l'inscription à bord est désormais liée à l'enregistrement, ce que chaque type de carte peut et ne peut pas faire, et les règles relatives aux numéros de carte et à l'autorisation. Les listes de points de vente locaux, les délais de traitement, les frais et la gestion des erreurs sont délibérément laissés à l'orientation officielle actuelle, car ils varient et changent.
 

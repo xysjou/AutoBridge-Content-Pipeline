@@ -1,16 +1,16 @@
 # ジェットワーダー・デッシング(Dasheng): A China-Market Compact SUV Reference with Its Three Powertrains Kept Apart
-## ツイート メタデータ
-- **SEOタイトル**:Jetour Dashing(Dasheng)中国市場仕様と輸出バイヤーチェック_ AutoBridge
-- **メタ 説明**:Jetour Dashing(Dasheng)コンパクトSUVの中国市場参照:2024対2025寸法、1.5T、1.6Tおよび1.5TDパワートレインは、海外バイヤーのためのVINレベルのチェックを分離し、維持しました。
-- H1 **: ジェットワーダー・デッシング(Dasheng): A China-Market Compact SUV Reference with Its Three Powertrains Kept Apart
-- **主なキーワード**: Jetour Dashing Dasheng エクスポート スペック
-- **二次検索条件**:Jetour Dashing寸法;捷途大圣;Jetour Dashing 1.6T 7DCT;中国のコンパクトSUVエクスポート。Dasheng 2025 1.5TD
-- **混雑URL**: /vehicles/jetour-dashing/
-- **Search Intent**: 面向海外 B 端买家介绍捷途大圣中国市场身份、2024/2025 尺寸与三套动力的版本边界及采购核验
-- **内部リンク提案**: /vehicles/changan-kaicene- f70/、 /guides/verify-chinese-car-export-supplier-history/、 /vehicles/東風エーロスイクアン/
-- **イメージ提案**: A Jetour Dashing compact SUV shown from front three-quarter on a neutral background
-- アルト 提案**: Front three-quarter view of a Jetour Dashing compact SUV on a neutral studio background
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: ジェット機のダッシュ(Dasheng)中国市場仕様と輸出バイヤーチェック | AutoBridge
+- **メタディスクリプション**: ジェット機Dashing(Dasheng)コンパクトSUVのための中国市場参照:2024対2025次元、1.5T、1.6Tおよび1.5TDのパワートレインは分けられ、VIN -海外バイヤーのための水平な点検。
+- **H1**: ジェットワーダー・デッシング(Dasheng): A China-Market Compact  SUV  Reference with Its Three Powertrains Kept Apart
+- **主要キーワード**: Jetour Dashing Dasheng エクスポート スペック
+- **関連検索語**: ジェット機のDashing次元;捷途大圣;JetourのDashing 1.6T 7DCT;中国の密集したSUVの輸出;Dasheng 2025 1.5TD
+- **推奨URL**: /vehicles/jetour-dashing/
+- **検索意図**: ジェット機のダッシュ(Dasheng)を理解して下さい: A China-Market Compact  SUV  Reference with Its Three Powertrains Kept Apart: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/changan-kaicene-f70/, /guides/verify-chinese-car-export-supplier-history/, /vehicles/dongfeng-aeolus-yixuan/
+- **画像候補**: A Jetour Dashing compact SUV shown from front three-quarter on a neutral background
+- **ALTテキスト**: Front three-quarter view of a Jetour Dashing compact SUV on a neutral studio background
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ジェット機のダッシュ, 中国のDasheng (大圣)として販売されて、  is the compact five-seat SUV Chery's Jetour brand positioned around bold crossover styling. 中国から調達する海外バイヤーのために中央規準は版制御です: ラインは2024にスパンします  and  2025 は subtly の別のボディ次元の年を模倣します  and  three distinct petrol powertrains,  and  年になく「ダッシュ」と言わせる引用語句  and  エンジンがあいまいです。 このページは**中国市場参照**です。グローバル仕様書ではなく、輸出市場Dashingは別々に証拠をつけなければなりません。 フィギュアがOEMの厳密なトリムシートではなく、単一の独立したソースに残り、定住として提示されるのではなく、VINレベルの確認のためにフラグが付けられます。
 
@@ -22,7 +22,7 @@
 
 ホイールベースは定数ですが、長さと高さは年々若干動きます。 コンテナフィット、アクセサリーの互換性、および均質化の紙工が、すべての正確なモデル年体を参照しているため、輸出業者にとって小さな変更が重要である。 ブレンドした数字ではなく、適合証明書の年に宣言された寸法を一致させます。
 
-## Three petrol powertrains — do not merge them
+ツイート 3つのガソリンパワートレイン - それらを結合しません
 
 | パワートレイン | 中国の市場参照 | ギアボックス | 年式 年式 | 自信の秘境 |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@
 
 **Dashing Powertrainが最適ですか? アパート
 
-The 1.6T at 145 kW/290 N·m with a 7DCT is cross-checked by two independent sources; the other two lines currently rest on single sources pending OEM exact-trim confirmation.
+145kW/290の1.6T 7DCT の N・m は 2 つの独立した源によって交差検査されます; 現在、他の2行は、OEMの厳格な確認を保留している単一のソースに残ります。
 
 **前輪車・オールホイール駆動ですか? アパート
 

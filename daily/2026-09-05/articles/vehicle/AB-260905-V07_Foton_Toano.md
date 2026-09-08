@@ -7,8 +7,10 @@
 - **Primary Keyword**: Foton / 福田 Toano / 图雅诺 大VAN（轻客） specs export
 - **Secondary Search Terms**: Foton Toano export; Tuyano van; Chinese light bus; passenger van; cargo van conversion
 - **Suggested URL**: /vehicles/foton-toano/
-- **Search Intent**: 了解 Foton / 福田 Toano / 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Exp, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context: a configurable light bus, not one fixed spec

@@ -1,15 +1,17 @@
 # Memilih Incoterms 2020 dalam Ekspor Kendaraan Cina - Resiko dan Biaya Allokasi
 
-## SEO Metadata
-- ** Judul SEO **: Incoterms 2020 Pemilihan Panduan untuk Expor Kendaraan: FOB, CIF, FCA, CIP, DDP dan More
-- ** Meta Description **: Pilih hak Incoterms 2020 aturan untuk pengiriman kendaraan: di mana resiko dan biaya transfer, laut - hanya melawan istilah multimodal, asuransi di bawah CIF CIP, dan mengapa DDP maxastivable seller beban.
--   H1 **: Memilih Incoterms 2020 dalam Canada Expor - Risk and Cost Allocation
-- ** Primary Keyword **: incoterms 2020 selection guiding guide
-- ** Akhir Pencarian Second **: Incoterms 2020; FCA vs FCA; CIF vs CIP; DDP risiko; multimodal istilah; transfer risiko
-- ** Sugested URL **: guide incoterm- 2020-selection-guide/
-- ** Cari Intent **: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语: 明确风险转移点与费用 保险责任
-- *** Internal Link Sugestions **: guide exports page -methog -t-tlc -risk guide marine- cargo asuransi-history guide china -export-traustment -t-s- disitionationship -single-window
-- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: Incoterms 2020 Selection Guide for Vehicle Expor: FOB, CIF, FCA, CIP, DDP dan More
+- **Deskripsi Meta**: Pilih hak Incoterms 2020 aturan untuk pengiriman kendaraan: di mana risiko dan biaya transfer, laut - hanya melawan istilah multimodal, asuransi di bawah CIF/CIP, dan mengapa DDP maximable seller beban.
+- **H1**: Memilih Incoterms 2020 dalam Ekspor Kendaraan Cina - Resiko dan Biaya Allokasi
+- **Kata kunci utama**: incoterms 2020 pilihan panduan
+- **Istilah pencarian sekunder**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risiko; multimodal istilah; transfer resiko
+- **URL yang disarankan**: /guides/incoterms-2020-selection-guide/
+- **Maksud pencarian**: Memahami Pemasok Incoterms 2020 dalam Ekspor Kendaraan Cina - Pengungsian resiko dan Biaya: apa yang harus diperiksa kendaraan / suku cadang, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan Pemotongan Pemarah 2020 di China Mobil Expor - Risk and Cost Allocation, tidak dipentaskan inspeksi atau orang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang terkait dengan Chooting Incocherms 2020 di China Kendaraan Ekspor - Risk dan Cost Allocation, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel (tidak ada Produk / Tagihan / Review)
 
 ## Mulai dari mode transportasi, bukan kebiasaan
 Incoterms 2020 berisi aturan yang dibagi menjadi mereka untuk setiap mode transportasi dan mereka tradisional untuk laut inland-jalur air transportasi. Dalam ekspor kendaraan pilihan pertama adalah oleh karena itu apakah bergerak port-port laut (RoRo kontainer) atau multimodal (truk inland kereta api ditambah laut, umum untuk truk Sentral- Asia). Memilih sebuah istilah laut - hanya untuk bergerak multimodal menciptakan celah di mana risiko berlalu.
@@ -36,7 +38,6 @@ Berdasarkan CIF penjual arrange minimum asuransi laut cover untuk keuntungan pem
 Mengapa DDP berisiko untuk eksportir Cina? Ini membuat penjual bertanggung jawab untuk tujuan izin impor, tugas dan pajak.
 Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -55,18 +56,18 @@ Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: exactIy Choosing Incooterms 2020 dalam Chinese Vehicle Expor
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Choosing Incoterms 2020 in Chinese Vehicle Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -79,6 +80,5 @@ Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
   - **ID**: Incoterms selection, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Incoterms selection, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Incoterms selection, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #Incoterms #TradeTerms

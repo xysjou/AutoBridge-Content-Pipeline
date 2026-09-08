@@ -1,16 +1,16 @@
 # JMC 포드 이동 T8 (Quanshun T8): 중국 시장 큰 밴 참고는 축거, 지붕 및 화물 양의 주위에 건축했습니다
-## ▼ 한국어 메타데이터
-- **SEO 제목**: JMC 포드 이동 T8 중국-시장 반 Specs 및 수출 수표|AutoBridge
-- **마타 기술 **: JMC의 중국 시장 참조 포드 이동 T8 큰 밴: three wheelbases, 중간/높은 지붕, 두 개의 디젤 라인은 분리되어 유지 화물량,  and  왜 글로벌 포드 트랜지와 동일하지 않다.
-- ** H1 **: JMC 포드 이동 T8 (Quanshun T8): 중국 시장 큰 밴 참고는 축거, 지붕 및 화물 양의 주위에 건축했습니다
-- **기본 키워드**: JMC 포드 이동 T8 수출 specs
-- ** 보조 검색 조건 **: 江铃福特全顺 T8; T8 크기; T8화물 볼륨; 2.3T 디젤 8AT 밴; 중국 대형 밴 수출; Quanshun T8
-- **Suggested URL**: /vehicles/jmc-ford-transit- t8/
-- ** 수색 **: 面向海外买家介绍江铃福特全顺 T8 中国市场身份, 三轴距 / 中高顶, 两套柴油动力与货厢容积, 并守住与全球 교통 的身份边界
-- ** 내부 링크 제안**: /vehicles/saic-maxus- g90/, /vehicles/qingling-isuzu- kv100/, /guides/verify-chinese-car-export-supplier-history/
-- ** 이미지 제안 **: JMC Ford Transit T8 높은 ROOF 화물 밴은 측 단면도에서 그것의 길이를 표시하기 위하여 보였습니다
-- ** ALT 제안**: 중립적인 배경에 높은 roof JMC Ford Transit T8 van의 측 단면도
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: JMC  Ford Transit T8 China-Market Van Specs  and  수출입구|AutoBridge
+- **메타 설명**: JMC 중국 시장 참조 포드 이동 T8 큰 밴: three wheelbases, 중간/높은 지붕, 두 개의 디젤 라인은 분리되어 유지 화물량,  and  왜 글로벌 포드 트랜지와 동일하지 않다.
+- **H1**: JMC 포드 이동 T8 (Quanshun T8): 중국 시장 큰 밴 참고는 축거, 지붕 및 화물 양의 주위에 건축했습니다
+- **주요 키워드**: JMC  Ford Transit T8 export specs
+- **보조 검색어**: 江铃福特全顺 T8; 이동 T8 차원; T8 화물 양; 2.3T 디젤 8AT 밴; 중국 큰 밴 수출; Quanshun T8
+- **추천 URL**: /vehicles/jmc-ford-transit-t8/
+- **검색 의도**: JMC 포드 이동 T8 (Quanshun T8)를 이해하십시오: 중국 시장 큰 밴 참고는 축거, 지붕 및 화물 양의 주위에 건축했습니다: 차량/부품 수출자는 확인해야 하고, 문서는 순서에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- **이미지 제안**: A JMC 포드 이동 T8 옆 단면도에서 그것의 길이를 표시하는 높은 지붕 화물 밴
+- **ALT 텍스트**: 중성지에서 JMC Ford Transit T8 van의 고위 JMC의 측 단면도
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 JMC 포드 이동 T8 (江铃福特全顺 T8)는 중국에 있는 Jiangling 모터에 의해 건축된 큰 밴/대 버스 플랫폼, 승용차 판매  and  여러 축의 화물 형태  and  지붕 고도, 후방 바퀴 드라이브  and  four-wheel-drive configurations. 상업 구매자를 위해 주문 논리는 기하학입니다: ** 축거 × 지붕 높이 × 본체 × 엔진**는 차량 정의, 그 정량제가 밑으로 지정되지 않고 "Transit T8". 이 페이지는 **중국 시장 참조 **입니다. 두 개의 디젤 라인이 분리되어 있으며, 중요한 것은 — **** equate the JMC-built Quanshun T8 with global Ford Transit: OEM 동일 모델 문이 없는 것은, 동일하지 않은 것으로 나타났습니다.
 

@@ -1,14 +1,16 @@
 # Chargement des voitures dans un conteneur 40HQ: compte qui dépend d'un plan de chargement, et écrasement qui tient en mer
-## OEuvre Métadonnées
-- **Référencement au titre**: Combien de personnes Voitures Tu es dans un 40HQ ? Guide de chargement et d'arrimage des conteneurs
-- **Description détaillée**: Un guide pratique de chargement 40HQ du véhicule — système typique 2-SUV sans rupture par rapport à 4-vehicle à double rupture, ~ 8 sangles par wagon sur pneus, séquence de chargement et contrôle d'arrimage en cinq points avant scellement.
-- **URL suggérée**: /guides/conteneur-véhicule-chargement-slashing/
-- ** H1 **: Chargement et arrimage du véhicule conteneur: Nombres, racks, séquençage et vérifications avant le scellement
-- **Mot-clé principal**: combien de voitures correspondent 40hq conteneurs chargés
-- **Termes de recherche secondaires**: 40HQ deux VUS, conteneur de rack de voiture à double pont, sangles d'arrimage du véhicule attache de roue vers le bas, RoRo à la conversion de conteneur, conteneur de la séquence de chargement
-- **Liens internes Suggestions**: /guides/véhicule-préexpédition-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /véhicules/changan- cs75-plus/
-- **Suggestions d'image**: schéma d'arrimage de vue latérale; points d'arrimage des roues; double rack de retrait; ordre de chargement du haut + du bas
-- **ALT Suggestions**: " 40HQ deux arrimage côté VUS "; " roue de l'arrimage huit sangles "
+## Métadonnées SEO
+- **Titre SEO**: Combien de voitures Tu es dans un 40HQ ? Guide de chargement et d'arrimage des conteneurs
+- **Description meta**: Guide pratique de chargement du véhicule 40HQ - système de chargement sans rupture 2- SUV contre système à double rupture 4-vehicle, ~ 8 sangles par wagon sur pneus, séquence de chargement et contrôle d'arrimage en cinq points avant scellement.
+- **H1**: Chargement et arrimage du véhicule conteneur: nombres, racks, séquençage et vérifications préalables au scellement
+- **Mot-clé principal**: combien de wagons correspondent 40hq conteneur chargement d'arrimage
+- **Termes de recherche secondaires**: 40HQ deux SUV, conteneur de rack de voiture à deux étages, sangles d'arrimage du véhicule, attache de roue, RoRo en conteneur, séquence de chargement de wagon de conteneur
+- **URL suggérée**: /guides/container-vehicle-loading-lashing/
+- **Intention de recherche**: Comprendre le chargement et le pliage des conteneurs: comtes, racks, séquence et pré-scellement Vérifications: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Suggestion d'image**: diagramme d'arrimage de vue latérale
+- **Texte ALT**: 40HQ deux SUV arrimage latéral
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## La question que tout le monde pose en premier
 « Combien de voitures dans un 40HQ ? » n'a pas de réponse universelle – il est fonction des dimensions du véhicule, du repliement des miroirs, du système de rack et du plan d'arrimage approuvé par le transporteur**. Ce guide donne des bandes réalistes et la méthode; il ne promet délibérément pas un décompte fixe. Confirmer chaque expédition en fonction d'un plan de charge réel mesuré.
@@ -60,18 +62,18 @@ Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de
 **Qu'est-ce qui est vérifié avant de sceller les portes?** Correspondance, commande, centre de gravité et de dégagement, fixation complète et marge de porte — avec photos.
 
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

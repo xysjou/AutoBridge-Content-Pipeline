@@ -1,16 +1,16 @@
 # XCMG QY25K5C van Crane (25-t cấp): China- Market Special-Vehcle Evict fold
-## SAO Siêu dữ liệu
-- **SEO title**: XCMG QY25K5C 25t Tham chiếu về xe tải Crane E.: Thay đổi cỡ cứa & nền Hướng dẫn
-- **Meta Mô tả**: Chinese-market reference for the XCMG QY25K5C 25-tonne-class truck crane: Làm thế nào một chiếc xe tải di động cần cẩu chia thành khung gầm và nâng lên một cơ sở siêu cơ sở, tình trạng điều chỉnh của nó ở Trung Quốc, và những người mua tài liệu nặng cần phải có.
-- ** H1 **: XCMG QY25K5C van Crane (25-t khóa): China-Market Special-Vehcle Evict
-- ** Từ khoá tiểu dụng**: XCMG QY25K5C xe tải cần cẩu xuất khẩu thông số
-- **Secondary Search termss**: XCMG QY25K5C xe tải cần cẩu; 25 bộ khung bảo vệ cơ sở; việc tải đồ tải đồ đạc XCMG; xuất khẩu cần cẩu xe tải Trung Quốc
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Tìm kiếm ý định**: 面向海外B端买家介绍QY25K5C中国市场版本身份、底盘+上装结构/监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
-- **Image khuyên**: một chiếc xe tải cần cẩu XCMG 25-tonne-class với tiếng nổ của máy quay điện tử mở rộng trên một bộ phận làm việc
-- **LT Đề nghị**: XCMG QY25K5C-class xe tải cần cẩu với tiếng nổ từ xa được nâng lên ở một cửa ra vào làm việc
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: XCMG QY25K5C 25t Xe tải Tham khảo chim đại bàng: Chasis & siêu cấu trúc Hướng dẫn
+- **Meta mô tả**: Tham khảo thị trường Trung Quốc XCMG QY25K5C 25-tonne-class cần trục xe tải: Làm thế nào một chiếc xe tải di động cần cẩu chia thành khung gầm và nâng lên một cơ sở siêu cơ sở, tình trạng điều chỉnh của nó ở Trung Quốc, và những người mua tài liệu nặng cần phải có.
+- **H1**: XCMG QY25K5C xe tải Crane (25-t khóa): Trung Quốc- Market Special-Vehlecle Evition
+- **Từ khóa chính**: XCMG QY25K5C thông số của xe tải cần cẩu
+- **Cụm tìm kiếm phụ**: XCMG QY25K5C xe tải cần cẩu; 25 tấn cần cẩu di động; khung gầm xe tải cần cẩu siêu cấu trúc; XCMG u nô tải biểu đồ; Xuất cần cẩu Trung Quốc
+- **URL đề xuất**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Ý định tìm kiếm**: Hiểu XCMG QY25K5C xe tải Crane (25-t khóa học): Trung Quốc-Market Special-Vehcle Evic: những gì một nhà xuất khẩu xe/ phần phải xác nhận, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+- **Gợi ý hình ảnh**: Một chiếc xe tải cần cẩu XCMG 25-tonne-class với tiếng nổ từ xa mở rộng trên một bộ phận làm việc
+- **Văn bản ALT**: XCMG QY25K5C-class xe tải cần cẩu với các điểm bùng nổ từ xa được nâng lên ở một nhà làm việc bên ngoài
+- **Phạm vi schema**: Điều và Xe hơi
 
 Một cần trục xe tải như XCMG QY25K5C là một phương tiện **-có mục đích đặc biệt** kết hợp một xe tải chở hàng (chassis) với một cấu trúc nâng siêu cấp. Việc kiểm tra chiếc xe không giống như mua một chiếc xe tải: các tài liệu quyết định là biểu đồ tải OEM, sự phát triển và sự chia cắt giữa các mẫu hạm và cần cẩu. Trang này xác định QY25K5C là máy XCMG 25-tonne-class và giải thích những gì cần phải có từ vật liệu XCMG chính thức — nó cố tình không mượn các chi tiết từ QY25E/QY25K-II mô hình cũ hơn.
 

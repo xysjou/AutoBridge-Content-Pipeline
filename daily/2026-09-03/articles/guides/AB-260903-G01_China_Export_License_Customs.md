@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: China Vehicle Export Licence & Customs Documents Guide (2026)
 - **Meta Description**: How Chinese-side vehicle export qualification works — annual MOFCOM licence filing, BEV passenger-car export licensing, the used-car 180-day rule, and the full export document chain before customs declaration.
-- **Suggested URL**: /guides/china-vehicle-export-license-customs-documents/
 - **H1**: China-Side Vehicle Export Licence, Qualification and Customs Document Chain
 - **Primary Keyword**: china vehicle export license customs declaration documents
 - **Secondary Search Terms**: China used car export licence, BEV export license China, MOFCOM vehicle export filing, vehicle export document chain, 180 day used car export rule
+- **Suggested URL**: /guides/china-vehicle-export-license-customs-documents/
+- **Search Intent**: Understand China-Side Vehicle Export Licence, Qualification and Customs Document Chain: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
-- **Image Suggestions**: licence→document→customs flow diagram; document-chain checklist; annual filing timeline
-- **ALT Suggestions**: "China vehicle export licence to customs flow"; "vehicle export document chain checklist"
+- **Image Suggestion**: licence→document→customs flow diagram; document-chain checklist; annual filing timeline
+- **ALT Suggestion**: China vehicle export licence to customs flow
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why This Page Exists
 Most failed first shipments fail on the **China side**, not the destination: the exporter lacks the right qualification category, the licence does not cover the product, or the document chain is inconsistent at declaration. This guide sets out the order to follow. It is grounded in Chinese government documents (MOFCOM, the State Council policy library, MIIT); where a rule is revised annually or time-sensitive, it is flagged rather than treated as permanent.

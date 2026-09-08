@@ -1,16 +1,16 @@
 # XCMG QY25K5C Guindaste de caminhão (25-t classe): China-Market Referência de exportação de veículos especiais
-## SEO Meta- dados
-- ** Título SEO**: XCMG QY25K5C 25t Truck Crane Export Reference: Chassis e Superestrutura Guia
-- ** Descrição do Meta**: Chinese-market reference for the XCMG QY25K5C 25-tonne-class truck crane: como um guindaste de caminhão móvel se divide em chassis de transporte e superestrutura de elevação, seu status regulatório na China, e os documentos de carga-carregamento que os compradores devem obter.
-- ** H1 **: XCMG QY25K5C Caminhão Crane (25-t Classe): China-Market Special-Vehicle Export Reference
-- **Chave principal**: XCMG QY25K5C guindastes de caminhão especificações de exportação
-- ** Termos de pesquisa secundários**: XCMG QY25K5C guindaste de caminhão; 25 toneladas guindaste móvel; caminhão guindaste superestrutura; XCMG gráfico de carga de elevação; China guindaste de caminhão exportação
-- **Suggested URL**: /vehicles/xcmg-qy25k5c-truck-crane/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍 QY25K5C 中国市场版本身份, 底盘 + 上装结构 监管类别与版本边界
-- **Internal Link Suggestions**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
-- **Image Suggestion**: Um guindaste de caminhão XCMG 25-tonne-class com boom telescópico estendido em um local de trabalho
-- **ALT Sugestão**: XCMG QY25K5C-class guindaste de caminhão com seu boom telescópico levantado em um local de trabalho ao ar livre
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: XCMG QY25K5C 25t Camião Referência de exportação de guindaste: Chassis & Superestrutura Guia
+- **Meta descrição**: Chinese-market reference for the  XCMG   QY25K5C  25-tonne-class truck crane: como um guindaste de caminhão móvel se divide em chassis de transporte e superestrutura de elevação, seu status regulatório na China, e os documentos de carga-carregamento que os compradores devem obter.
+- **H1**: XCMG QY25K5C Guindaste de caminhão (25-t classe): China-Market Referência de exportação de veículos especiais
+- **Palavra-chave principal**: XCMG QY25K5C guindastes de caminhão especificações de exportação
+- **Termos de busca secundários**: XCMG QY25K5C guindaste de caminhão; 25 toneladas guindaste móvel; caminhão guindaste superestrutura; XCMG gráfico de carga de elevação; China guindaste de caminhão exportação
+- **URL sugerida**: /vehicles/xcmg-qy25k5c-truck-crane/
+- **Intenção de busca**: Compreender XCMG QY25K5C Guindaste de Camião (25-t Classe): Referência de exportação de veículos especiais para o mercado da China: O que um exportador de veículos/partes deve verificar, documentar e decidir antes de proceder a uma encomenda.
+- **Sugestões de links internos**: /vehicles/sinotruk-howo-tx-dump/, /vehicles/faw-jiefang-j6f/, /guides/china-port-container-vs-roro-choice/
+- **Sugestão de imagem**: Um guindaste de caminhão XCMG 25-tonne-class com boom telescópico estendido em um local de trabalho
+- **Texto ALT**: Travessa de caminhão classe XCMG QY25K5C- com seu boom telescópico levantado em um local de trabalho ao ar livre
+- **Escopo do schema**: Artigo + Veículo
 
 Um guindaste de caminhão como o XCMG QY25K5C é um veículo ** especial-purpose** combinando um transportador de caminhão de estrada (chassis) com uma superestrutura de elevação rotativa. A Sourcing é diferente de comprar um caminhão: os documentos decisivos são o gráfico de carga OEM, a configuração de boom e a divisão entre as aprovações transportadora e guindaste. Esta página identifica o QY25K5C como a máquina 25-tonne-class da XCMG e explica o que deve ser obtido a partir de material oficial da XCMG — ele deliberadamente não pede especificações de modelos QY25E/QY25K-II mais antigos.
 

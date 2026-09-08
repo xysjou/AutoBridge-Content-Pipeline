@@ -1,16 +1,16 @@
 # Exportation de véhicules par RoRo des ports chinois: Déplacement de réservation et de terminal
-## OEuvre Métadonnées
-- **Référencement au titre**: Chine Port RoRo Export de véhicules: Guide de réservation et de transfert de terminal
-- **Description détaillée**: Comment réserver de l'espace RoRo pour exporter des véhicules en provenance de Chine, préparer des documents, livrer des unités au terminal, et gérer la passation et le chargement de responsabilité sans assumer les règles spécifiques au transporteur.
-- ** H1 **: Exportation de véhicules par RoRo depuis les ports chinois: Déplacement des réservations et des terminaux
-- **Mot-clé principal**: transfert de terminal de réservation de véhicule roro port de Chine
-- ** Termes de recherche secondaires**: RoRo Véhicule export Chine; réservation de roll-on roll-off; transfert de terminal de véhicule; reçu de quai RoRo; réservation de transporteur de voiture Chine
-- **Suggested URL**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Intention de la recherche**: 出口车辆如何向滚装船公司 代理订舱, 按码头要求送车交接并装船, 各环节责任与单据
-- **Internal Link Suggestions**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
-- **Suggestion d'image**: Nouveaux véhicules d'exportation alignés sur un tablier de l'aérogare RoRo chinois à côté d'une rampe de transport de voitures
-- **ALT Suggestion**: rangées de véhicules neufs qui attendent sur un terminal RoRo à côté d'une rampe de poupe ouverte
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Métadonnées SEO
+- **Titre SEO**: Chine Port RoRo Export de véhicules: Guide de réservation et de remise de terminal
+- **Description meta**: Comment réserver de l'espace RoRo pour exporter des véhicules en provenance de Chine, préparer des documents, livrer des unités au terminal, et gérer la passation et le chargement de responsabilité sans assumer les règles spécifiques au transporteur.
+- **H1**: Exportation de véhicules par RoRo des ports chinois: Déplacement de réservation et de terminal
+- **Mot-clé principal**: Chine port roro véhicule de réservation d'exportation terminal de transfert
+- **Termes de recherche secondaires**: Exportation de véhicules RoRo en Chine; réservation de véhicules roulis; transfert de terminal de véhicules; réception de port RoRo; réservation de véhicules en Chine
+- **URL suggérée**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Intention de recherche**: Comprendre l'exportation de véhicules par RoRo depuis les ports chinois: Déplacement de réservation et de terminal: ce qu'un exportateur de véhicules/parties doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
+- **Suggestion d'image**: Nouveaux véhicules d'exportation alignés sur un tablier de terminal RoRo chinois à côté d'une rampe de transport de voitures
+- **Texte ALT**: Lignes de véhicules neufs en attente sur un terminal RoRo à côté d'une rampe de poupe ouverte
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Roulement/décollage (RoRo) permet à un véhicule de s'installer sous sa propre puissance sur et hors d'un porte-voiture, évitant ainsi le levage de grues. C'est le mode naturel pour les lots de voitures neuves ou d'occasion, les camionnettes et les publicités légères qui peuvent être conduits en toute sécurité. Le risque dans RoRo n'est pas le concept mais le transfert: entre votre dépôt, le terminal, le transporteur et le navire, il y a plusieurs points où l'état, les documents et la responsabilité changent. Cette page cartographie la séquence d'un port d'exportation chinois et indique ce qui doit être confirmé par voyage plutôt que supposé.
 

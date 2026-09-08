@@ -1,16 +1,16 @@
 # Changan Kaicene F70: A China-Market Body-on-Frameلتقطibup Reference Built Around Bed, Wheelbase and Drivetrain
-## SEO Metadata
-- ** عنوان الحلقة**: تشانغان كايسين F70 الصين - ماركت بيكب سبيكات و شيكات التصدير | AutoBridge
-- ** وصف البيانات**: China-market reference for the Changan Kaicene F70 pickup: standard vs long-wheelbase beds, body-on-frame chassis and 2WD/4WD layout, with unverified towing/payload figures deliberately held.
-- ** H1 **** شانغان كايسين F70: A China-Market Body-on-Frameلتقط Compup Reference Built Around Bed, Wheelbase and Drivetrain
-- ** كلمة رئيسية رمزية**: تشانغان كايسين F70 من مواصفات التصدير
-- ** شروط البحث الثانية**: 长安凯程F70; - أبعاد كازين F70؛ F70 سرير طويل؛ JE4D25 من مستلزمات الديزل؛ - تصدير السلع الصينية؛ سرير طويل
-- ** URL المقترض**: /مركبات/شانغان - كايسين - f70/
-- ** الحلقة الدراسية**: 面向海外买家介绍长安凯程F70中国市场身份、标轴/长轴货箱、非承载底盘与四驱，未核实拖拽/承载保持待证
-- ** الوصلات الداخلية** : /vehicles/qingling-isuzu- kv100/ , /vehicles/jmc-ford-transit- t8/ , /guides/verify-chinese-car-export-supplier-history/
-- ** اقتراح مقدم**: سيارة تشانغان كايسين F70 من طراز كاب مجهزة من جانب واحد لعرض سريرها في البضائع
-- ** الاقتراح**: لمحة عن جانبية لسيارة جيب تشانغان كايسين F70 التي تظهر سرير الشحنة على أرض محايدة
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/تسع/استعراض/إعادة النظر)
+## بيانات SEO الوصفية
+- **عنوان SEO**: تشانغان كايسين F70 الصين - ماركت بيكب سبيكس و شيكات التصدير | AutoBridge
+- **وصف Meta**: China-market reference for the Changan Kaicene F70 pickup: standard vs long-wheelbase beds, body-on-frame chassis and 2WD/4WD layout, with unverified towing/payload figures deliberately held.
+- **H1**: Changan Kaicene F70: A China-Market Body-on-Frameلتقطibup Reference Built Around Bed, Wheelbase and Drivetrain
+- **الكلمة المفتاحية الرئيسية**: Changan Kaicene F70 export specs
+- **مصطلحات بحث ثانوية**: 长安凯程F70; - أبعاد كازين F70؛ F70 سرير طويل؛ JE4D25 من مستلزمات الديزل؛ - تصدير السلع الصينية؛ سرير طويل
+- **URL المقترح**: /vehicles/changan-kaicene-f70/
+- **نية البحث**: Understand Changan Kaicene F70: A China-Market Body-on-Frame Compup Reference Built Around Bed, Wheelbase and Drivetrain: What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- **اقتراح الصورة**: A Changan Kaicene F70 مزدوجة الكبض تظهر من جانب واحد لعرض سرير الشحن
+- **نص ALT**: Side profile of a double-cab Changan Kaicene F70 pickup showing the cargo bed on neutral ground
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 إنّ (تشانجان كايسين) F70 هو جهاز مُركب من نوع الجسم (غير مُحمّل) عرض كسيارة أجرة مزدوجة في محرك ذي عجلتين وأربعة، مع نسخ قياسية وطويلة الأجل من العجلات/البقايا، بما في ذلك مُستبدلة من "العجلة الزرقاء" طويلة الأمد. أما بالنسبة لمشتري التقاط، فإن القرارات مادية لا متقنة: طولها **، وقاعدة عجلات، وقودها، وفوضىها**، وأرقام الشحن/الطوائف التي تقرر ما إذا كانت الشاحنة تؤدي وظيفتها. هذه الصفحة هي علامة تجارية**. ويحدد الأبعاد التي يتم التحقق منها، ويسمي أسرة المحرك دون تحديد النواتج ذات المصدر الواحد، ويتعمد ** معقل** أرقام الشحن والتحميل التي تدور على نطاق واسع، لأنه لم يتم تسجيل أي صحيفة أو نشرة تطويق ذاتية تابعة لمنظمة أو إي إم لدعمها.
 

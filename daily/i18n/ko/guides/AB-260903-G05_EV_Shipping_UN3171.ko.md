@@ -1,14 +1,17 @@
 # Ocean Export의 Electrified Vehicle 예약: 위험성 좋은 종이로 캐리어를 실제로 확인
-## ▼ 한국어 메타데이터
-- **SEO 제목**: IMDG 42-24의 EV 수출 예약 문서: UN3556 용지 및 캐리어 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
-- **마타 기술 **: 리튬 배터리 차량은 현재 IMDG 개정 42-24 (UN3556/3557/3558; 유산 UN3171 전환 종료), SP961/SP962 경로, UN38.3 및 SDS 용지 워크 및 캐리어 특정 예약 조건 하에서 바다화물에 대 한 분류 됩니다.
-- **문자 URL**: /guides/ev-shipping- un3171-imdg-compliance/
-- ** H1 **: 바다에 의하여 발송에 의하여 전산화된 차량: 현재 위험성 좋은 분류, 예약 문서 설정 및 빨간색 선
-- ** 운송 키워드 **: 전기 자동차 바다 운송 un3556 imdg 42-24 문서
-- ** 보조 검색 조건 **: UN3556 리튬 이온 배터리 차량, UN3557 리튬 금속 차량, UN3558 나트륨 이온 차량, 유산 UN3171 전환, SP961 SP962 차량, 클래스 9 레이블 9A, UN38.3 테스트 요약, SDS 전기 자동차 배송, EV SOC 요구 캐리어
-- ** 내부 링크 제안**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-vehicle-export-license-customs-documents/; /guides/container-vehicle-loading-lashing/; /guides/vehicle-pre-shipment-inspection-psi/; /vehicles/byd-dolphin/
-- ** 이미지 제안**: UN 번호 클래스 라벨 다이어그램; SP961-vs-SP962 결정 교류; 문서 체인 예약; Class 9 label 9A placard
-- ** ALT 제안**: " UN3556 IMDG 42-24 Class 9 전기 자동차 배송"; "EV 배송 예약 문서 체인"
+## SEO 메타데이터
+- **SEO 제목**: EV  Export Booking Documents Under  IMDG  42-24: UN3556  Paperwork & Carrier Checks
+- **메타 설명**: 리튬 배터리 차량은 현재 IMDG 개정 42-24 (UN3556/3557/3558; 유산 UN3171 전환 종료), SP961/SP962 경로, UN38.3 및 SDS 용지 워크 및 캐리어 특정 예약 조건 하에서 바다화물에 대 한 분류 됩니다.
+- **H1**: 바다로 운송 차량: 현재 위험한 상품 분류, 예약 문서 세트 및 빨간색 선
+- **주요 키워드**: 전기 자동차 바다 선박 un3556 imdg 42-24 문서
+- **보조 검색어**: UN3556 리튬 이온 건전지 차량, UN3557 리튬 금속 차량, UN3558 나트륨 이온 차량, 유산 UN3171 전환, SP961 SP962 차량, 종류 9 상표 9A의 UN38.3 시험 요약, SDS 전기 자동차 선박, EV SOC 필요조건 운반대
+- **추천 URL**: /guides/ev-shipping-un3171-imdg-compliance/
+- **검색 의도**: 바다로 배송이 전개된 차량에 대해: 현재 위험성 좋은 분류, 예약 문서 설정 및 레드 라인: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
+- **이미지 제안**: UN 번호/종류 상표 도표
+- **ALT 텍스트**: UN3556 IMDG 42-24년 종류 9 전기 차량 선박
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
+
 ## 여기 시작: 전체 EV는 위험한 상품이며, 42-24 년에 개입 된 항목
 intact, 공장 건설된 electrified 차량은 아직도 바다 수송을 위한 위험한 상품입니다. **IMDG 코드 개정 42-24 (2024 판),  mandatory from 1 January 2026**, 배터리 전원 차량은 한 개의 담요 번호 아래 떨어지는 전용 항목으로 나뉩니다.
 - ** UN3556 - 차량, 리튬 이온 배터리 전원** (BV 또는 PHEV/EREV에 대한 경우 견인 배터리 리튬 이온);
@@ -77,11 +80,11 @@ Named 캐리어는 자신의 42-24 자문을 출판합니다. 예를 들어 ** A
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| IMDG 코드 (2024 Edition incl. 개정 42-24), 공식 출판 페이지 | 국제 해상기구 (IMO) | - 연혁 | https: | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 현재 개정 및 의무에서 날짜; 종류 9 기구 | https://www.imo.org/en/publications/pages/imdg%20code.aspx
-| 고객 자문 - 규제 변화, IMDG 코드 개정 42-24 | Maersk (명칭 해양 캐리어) | - 연혁 | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_체크 | 운반대 별: 2026-01-01에서 적용 가능한; UN3556 입장; SP962 placard/label 변화 |
-| Guidance - UN3556 (ADR/RID 2025, IMDG Amdt 42-24): 분류, SP388/666/961/962, UN38.3 | 스와키 Rådgivarna (DG 안전 조언자) | - 연혁 | https: 제외한다. | 2026-09-05 | CROSS_체크 | UN3556 Class 9/label 9A; UN3171 바다 전이 2025-12-31; SP961 자체 구동 대 SP962 컨테이너 경로 | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg
-| IMDG Amendment 42-24 (ebook)의 밑에 발송 차량: 유산 UN3171 대 UN3556/3557/3558 | IMDG 코드 준수 센터 Shashi Kallada | - 연혁 | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | CROSS_체크 | UN3557 리튬 금속 및 UN3558 나트륨 이온 항목; UN3171의 구별 |
-| 중국의 위험한 상품–UAE 마쓰야마 2026: IMDG 예약 체크리스트 | 심천 최고 방법 국제 의논하기 | CN–UAE 노선 | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | SINGLE_SOURCE(싱글) | 예약 단계 신청; 캐리어 별 SOC/documentation (실행, 보편적인) |
+IMDG 코드 (2024 Edition) 개정판 42-24, 국제기구 (IMO)|-제품소개 | https://www.myMDG.com/ | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 현재 개정 및 의무에서 날짜; 종류 9 기구 | https://www.imo.org/en/publications/pages/imdg%20code.aspx
+| 고객 자문 - 규제 변화, IMDG 코드 개정 42-24 | Maersk (명칭 해양 캐리어) | - 연혁 | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_체크 | 운반대 별: 2026-01-01-01의 적용 가능한; UN3556 회원의 SP962 카드/표현 변경 |
+인포메이션 - UN3556 (ADR/RID 2025, IMDG Amdt 42-24) : 분류, SP388/666/961/962, UN38.3 | 스와키 Rådgivarna (DG 안전 조언자) | - 연혁 | https: ... | 2026-09-05 | 크로스_체크 | UN3556 클래스 9/label 9A; UN3171 바다 전이 2025-12-31; SP961 자체 운전 대 SP962 컨테이너 경로 | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg
+IMDG Amendment 42-24 (ebook)의 회원님의 체험 유산 UN3171 대 UN3556/3557/3558 | IMDG 코드 준수 센터 Shashi Kallada | - 연혁 | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | CROSS_체크 | UN3557 리튬 금속 및 UN3558 나트륨 이온 항목; UN3171의 개요
+| 중국 무용 상품–UAE 마쓰야마 2026: IMDG 예약 체크리스트 | 심천 최고 방법 국제 의논하기 | CN–UAE 노선 | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | SINGLE_SOURCE(싱글) | 예약 단계 신청; (실행, )|
 | 리튬 배터리 수출 문서 (UN38.3/SDS/packaging cert) | Dingzhou 뉴스 | 담당자: Mr. wang | https://www.dzxww.cn/article/293251787800392.shtml 대한 자세한 정보 | 2026-09-03 | SINGLE_SOURCE(싱글) | UN38.3 cell+pack, SDS의 느슨한 건전지 증명서 상황 |
 | 신 에너지 수출 세관 위험 (중국 2025 리튬 규칙) | Sohu 규정 준수 분석 | 담당자: Mr. wang | https://m.sohu.com/a/1025837015_100159475/ 대한 자세한 정보 | 2026-09-03 | SINGLE_SOURCE(싱글) | 중국 측 리튬 수송 필요조건 (단 하나 근원; 공식적인 원본을 확인하십시오) |
 *스코프 참고: 현재 개정, UN3556/3557/3558 분할 및 SP961/SP962 구조는 IMO 출판 및 42-24 캐리어 DG-adviser 자료에 고정됩니다. 캐리어 SOC 레벨, 터미널 수용 및 중국 측 규칙 응용 프로그램은 캐리어 루트 별 및 시간 감지 - 모든 예약에 대한 이름 캐리어의 현재 조건 및 공식 텍스트를 확인합니다. ****************************************************************************************************************************************************************************************************************************************************************

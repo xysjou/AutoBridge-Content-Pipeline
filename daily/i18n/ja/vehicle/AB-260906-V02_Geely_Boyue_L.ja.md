@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation Boyue): 中国市場コンパクトSUV 輸出参照
-## ツイート メタデータ
-- **SEOのタイトル**: ジーリー・ボーイイ・Lの輸出仕様:1.5T/2.0Tの密集したSUVのバイヤー ガイド
-- **メタ 記述**: ジーリー・ボーイウの中国市場参照 LコンパクトSUV:寸法と貨物、1.5Tおよび2.0Tの変種、Starray輸出名洞窟、VINレベルのバイヤーチェック。
-- H1 ホテル **: ジーリー・ボーイイ・L (4th-Generation Boyue): 中国市場コンパクトSUV 輸出参照**
-- **主なキーワード**: ゲーリー・ボーイ L の輸出仕様
-- **二次検索条件**: ギーリー・ボーイ L 次元; Boyue L 1.5T 7DCT; Geely Starray の輸出; 中国の密集した SUV; Boyue L貨物スペース
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- **Search Intent**: 面向海外 B 端买家介绍 Boyue L 中国市场版本身份、尺寸/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **画像提案**: ジーリー・ボーイ L のコンパクト SUV プロフィールの提示の屋根線および車輪のアーチのクラッディング
-- アルト 提案**: ジーリー・ボーイの側面のプロフィール L のコンパクトな SUV のプレーンな背景**
-- **Schema Scope**: Article + Vehicle
+## SEOメタデータ
+- **SEOタイトル**: ジーリー・ボーイイ・Lの輸出仕様:1.5T/2.0TコンパクトSUV バイヤーガイド
+- **メタディスクリプション**: ジーリー・ボーイウの中国市場参照 LコンパクトSUV:寸法と貨物、1.5Tおよび2.0Tの変種、Starray輸出名ケーパット、VIN - レベルの買い手チェック。
+- **H1**: ジーリー・ボーイイ・L (4th-Generation Boyue): 中国市場コンパクトSUV 輸出参照
+- **主要キーワード**: ゲーリー・ボーイ L の輸出仕様
+- **関連検索語**: ゲーリー・ボーイ L 次元; Boyue L 1.5T 7DCT; Geely Starray の輸出; 中国のコンパクト SUV; ボーイ L貨物スペース
+- **推奨URL**: /vehicles/geely-boyue-l/
+- **検索意図**: ジーリー・ボーイ・イ・L (4th-Generation Boyue) の理解: 中国市場コンパクト SUV エクスポート参照: 車両/部品輸出業者が確認しなければならないか、ドキュメントと注文をコミットする前に決定します。
+- **内部リンク候補**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **画像候補**: ギーリー・ボーイ L のコンパクト SUV のプロフィールの提示の屋根ラインおよび車輪のアーチのクラッディング
+- **ALTテキスト**: ジーリー・ボーイの側面図 平地背景に、LコンパクトSUV
+- **スキーマ範囲**: Article + Vehicle
 
 The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (Atlas/Proton X70-family lineage) compact SUV — a five-door,  five-seat, 正面のホイール駆動のクロスオーバーは、家族SUVセグメントの心臓部を狙いました。 輸出のためにそれを調達することは、主に、異なる指定された輸出市場スターレイと中国車と混同しない正しいパワートレインを選択し、質問です。 このページでは、**中国語市場の参照のみを文書化しています。**
 
@@ -20,7 +20,7 @@ The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (At
 |---|---|---|---|
 | 外部寸法 | 4730 × 1910 × 1710 mm | 中国・交差チェック | CROSS_CHECKED(クロス) |
 | ホイールベース | 2785 mm | 中国・交差チェック | CROSS_CHECKED(クロス) |
-| 荷物の容積 | 650 L seats-up, up to 1610 L with rear seats folded | 中国・交差チェック | CROSS_CHECKED(クロス) |
+| 荷物の容積 | 650 L席 後部座席が折られる1610 L席まで | 中国・交差チェック | CROSS|CHECKED(クロス席) の仕様 スタッフ
 | レイアウト | 5-door/5-seat コンパクト SUV、FWD | 日 時 分 | CROSS_CHECKED(クロス) |
 
 ## Two petrol powertrains, 異なる証拠強度
@@ -79,15 +79,15 @@ RHD なし 中国の市場バージョンは、ここに実証されています
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://db.auto.sohu.com/model_6881/config | 尺寸、动力、变速箱、燃油标号  |
-| 2025 款博越 L 尺寸 / 轴距 / 后备厢(4730/1910/1710、WB2785、后备厢 650-1610L) | 汽车之家・车家号 | 日 時 分 | T3 | シングル_ソース | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸、后备厢  |
+| 第四代博越 L 参数 （ 4730 × 1910 × 1710 、 轴距 2785 ； 1.5T 133kW / 290N·m ； 2.0T 160kW / 325N·m ； 7DCT ； 92 号 ） | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://db.auto.sohu.com/model_6881/config | 尺寸 、 动力 、 变速箱 、 燃油标号 |
+| 2025 款博越 L 尺寸 / 轴距 / 后备厢 (4730/1910/1710 、 WB2785 、 后备厢 650-1610L) | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸 、 后备厢 |
 | 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | 日 時 分 | T3 | シングル_ソース | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力、变速箱  |
-| Geelyの新しいボーイルの指定のテーブル(OEM) | ジーリー・オート・グローバル | CN/EXPORT(エキポート) | T1 | 検証済み | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | アイデンティティ — OEM の spec のテーブル; 市場ビルドを確認します |
-| Geely Starrayパンフレット(Qatar) — 輸出市場参照 | ジーリー・カタール | エクスポーター | T1 | CROSS_CHECKED(クロス) | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | アイデンティティ — Starray は名前プレートをエクスポートします。中国 Boyue L にエクスポート番号を同等にしないでください。 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 同等にチェックされた中国変種 |
+| ゲリー の新しいボーイルの指定のテーブル (OEM) | ジーリー・オート・グローバル |  CN/EXPORT  (エキポート) | T1 | 検証済み | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | アイデンティティ |  OEM  の 仕様 のテーブル 市場ビルドを確認します |
+| ゲリー・スターレイ パンフレット (カタール) | 輸出市場参照 | ジーリー・カタール | エクスポーター | T1 |  CROSS | CHECKED (クロス) | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | アイデンティティ — 星線 は名前プレートをエクスポートします 。 中国 少年 L にエクスポート番号を同等にしないでください 。 |
+| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 同等にチェックされた中国変種 |
 
 ## 編集レビュー
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-06
 - **参考市場**:中国(中国市场参考;星線为出口名但参数不与中国版等同)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。

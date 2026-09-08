@@ -1,15 +1,17 @@
 # JMC Shunda (顺达) Leichter LKW: GVW, Nutzlast, Motor und Frachtaufbau für Exportkäufer
 
-## SEO Metadaten
-- **SEO Titel**: JMC Shunda Light Truck Specs & Export Guide (GVW 4.27t, China- 6)
-- **Meta Description**: Chinesischer Markt JMC Shunda Blue-Plate Light Truck - JX493 Diesel 90 kW, GVW 4.27 t, 3700 mm Dropside-Bett, Radstand und Wendekreis, plus die Nutzlast und Motorversion Kontrollen Exporteure müssen.
+## SEO-Metadaten
+- **SEO-Titel**: JMC Shunda Light Truck Specs & Export Guide (GVW 4.27t, China- 6)
+- **Meta-Beschreibung**: Chinesischer Markt JMC Shunda Blue-Plate Light Truck - JX493 Diesel 90 kW, GVW 4.27 t, 3700 mm Fallbett, Radstand und Wendekreis, plus die Nutzlast und Motorversion Kontrollen Exporteure müssen.
+- **H1**: JMC Shunda: Chinesisch-Markt leichte LKW Chassis, GVW und Fracht Specs für den Export
+- **Haupt-Keyword**: JMC Shunde Light Truck Specs Export
+- **Sekundäre Suchbegriffe**: JMC Shunda JX493, 顺达小卡, chinesischer Leichtlastwagen GVW, JMC Dropside-Nutzlast, China- 6 Diesellastwagenexport
 - **Vorgeschlagene URL**: /vehicles/jmc-shunda/
-- ** H1 **: JMC Shunda: Chinesisch-Markt leichte LKW-Fahrwerk, GVW und Fracht Specs für den Export
-- ** Primäres Keyword**: jmc shunda light truck specs export
-- **Secondary Search Terms**: JMC Shunda JX493, 顺达小卡, chinesischer Leichtlastwagen GVW, JMC Dropside-Nutzlast, China- 6 Diesel-Lkw Export
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/dongfeng-tianjin-kr/
-- **Bildvorschläge**: Shunda dropside side; Ladefläche; JX493 Motor; Fahrgestellrahmen; Fahrerhaus
-- **ALT Vorschläge**: "JMC Shunda Blue-Plate Light Truck Dropside"; "Shunda 3700mm Frachtbett GVW 4.27t"
+- **Suchabsicht**: JMC verstehen Shunda: Chinesisch-Markt leichte LKW Chassis, GVW und Cargo Specs für den Export: was ein Fahrzeug / Teile Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
+- **Bildvorschlag**: Shunda Dropside Seite
+- **ALT-Text**: JMC Shunda Blue-Plate Light Truck Dropside
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Eine Nutzfahrzeugseite ist rund um GVW und Nutzlast aufgebaut
 Für einen leichten LKW vergleicht der Käufer keine Trimmebenen - sie passen ** GVW, Nennnutzlast, Motorversion und Ladekörper ** zu einem Betriebsauftrag. Der Shunda (顺达) ist die blaue Platte der JMC China-6 leichte LKW-Linie. Das Hauptauftragsrisiko ist die Motor-Versionsmischung: Der dokumentierte Kleinlastwagenmotor ist der ** JX493ZLQ6D 2.499 L **, während die breitere Shunda-Reihe auch einen ** 2.8 L 493 ** mit unterschiedlichen Ausgängen verwendet. Diese Seite dokumentiert die **Chinesische Markt-Kleinlast-Referenz (REFERENCE MARKET: CHINA) **; kein OEM-Primärblatt wurde erfasst, so dass die Zahlen mit den Handelsdatenbankwerten abgeglichen werden, um sie mit der MIIT-Ankündigung und dem Fahrzeugzertifikat zu bestätigen.

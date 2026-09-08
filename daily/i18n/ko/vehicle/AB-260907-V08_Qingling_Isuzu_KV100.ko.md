@@ -1,16 +1,16 @@
 # Qingling Isuzu KV100: GVW의 엔진 및 Adjacent 모형 선의 주위에 건축되는 중국 시장 파란 판 빛 트럭 참고
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 칭링 이스즈 KV100 중국-시장등 트럭 사양 및 수출 수표|AutoBridge
-- **마타 기술 **: 칭링 Isuzu KV100 N2 블루 플레이트 라이트 트럭을위한 중국 시장 참조: 4KH1CN6LB 중국 - 6 디젤,화물 - 침대 범위, 인접한 100P 라인 분리 및 수출 검증을 유지.
-- ** H1 **: 칭링 Isuzu KV100: 중국 시장 블루 플레이트 라이트 트럭 참조 GVW, 엔진 및 Adjacent 모델 라인 주위에 내장
-- ** 출원 키워드 **: 칭링 Isuzu KV100 수출 사양
-- **세컨드 검색 이용 약관**: 庆铃 KV100; KV100 4KH1CN6LB; Isuzu 경트럭 중국; 파란 판 트럭; 중국 N2 트럭 수출; MSB 5MT
-- **수입 URL**: /vehicles/qingling-isuzu- kv100/
-- ** 수색 **: 面向海外买家介绍庆铃 KV100 中国市场身份, 4KH1 国六柴油, 货箱长度区间, 并区分相邻 100P 车型线与全球 ELF
-- ** 내부 링크 제안**: /vehicles/changan-kaicene- f70/, /vehicles/jmc-ford-transit- t8/, /vehicles/faw-jiefang- j7-tractor/
-- ** 이미지 제안**: A Qingling Isuzu KV100 cab-over light cargo truck shown from side three-quarter
-- ** ALT 제안**: Side three-quarter view of a Qingling Isuzu KV100 cab-over light truck on neutral ground
-- **Schema Scope**: 기사 + 차량 (제품/오프러/가격/리뷰/리팅 없음)
+## SEO 메타데이터
+- **SEO 제목**: 칭링 Isuzu KV100 중국-시장등 트럭 사양 및 수출 수표|AutoBridge
+- **메타 설명**: 칭링 Isuzu KV100 N2 블루 플레이트 라이트 트럭을위한 중국 시장 참조: 4KH1CN6LB 중국 - 6 디젤,화물 - 침대 범위, 인접한 100P 라인 분리 및 수출 검증을 유지.
+- **H1**: Qingling Isuzu KV100: 중국 시장 파란 판 빛 트럭 참고는 GVW의 엔진 및 Adjacent 모형 선의 주위에 건설했습니다
+- **주요 키워드**: Qingling Isuzu KV100 수출 specs
+- **보조 검색어**: 庆铃 KV100; KV100 4KH1CN6LB; Isuzu 경트럭 중국; 파란 판 트럭; 중국 N2 트럭 수출; MSB 5MT
+- **추천 URL**: /vehicles/qingling-isuzu-kv100/
+- **검색 의도**: Qingling Isuzu KV100의 밑에: 중국 시장 파란 판 빛 트럭 참고는 GVW의 엔진 및 Adjacent 모형 선의 주위에 건축했습니다: 차량/parts 수출업자가 확인해야 하는 무슨, 문서 및 순서에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /vehicles/changan-kaicene-f70/, /vehicles/jmc-ford-transit-t8/, /vehicles/faw-jiefang-j7-tractor/
+- **이미지 제안**: A Qingling Isuzu KV100 cab-over light cargo truck shown from side three-quarter
+- **ALT 텍스트**: Side three-quarter view of a Qingling Isuzu KV100 cab-over light truck on neutral ground
+- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling Motors in China for the domestic "blue-plate" N2 category — vehicles with a gross vehicle mass at or below 4.5 t that can be driven under an ordinary light-vehicle licence in China. 수출 구매자의 핵심 분야는 규제 및 모델 라인 분야입니다. 정확한 엔진 스프릭스 및 중국 - 6 배출 단계는 KV100에 인접한 Qingling / Isuzu 라인과 같은 새로운 100P을 유지하고, 사용 트럭 분류 된 페이로드 수치를 공장 데이터로 취급하지 않습니다. 이 페이지는 ** 중국 시장 참고 **이며 OEM 동일한 모델 문없이 글로벌 Isuzu N / ELF 범위와 Qingling-built KV100을 적절하지 않습니다.
 

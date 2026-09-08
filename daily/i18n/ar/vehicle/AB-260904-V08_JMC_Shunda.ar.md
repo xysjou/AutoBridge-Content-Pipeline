@@ -1,15 +1,17 @@
 # JMC Shunda (顺达) Light Truck: GVW, Payload, Engine and Cargo Body for Export Buyers
 
-## SEO Metadata
-- ** عنوان المنظمة**: اللجنة المشتركة بين الوكالات المعنية بالمسائل الإدارية Shunda Light Truck Specs " Export Guide (GVW 4.27t, China- 6)
-- ** وصف البيانات**: شركة JMC الصينية شاحنة خفيفة من طراز شوندا - JX493 ديزل 90 kW، و 4.27 t غيغاوات، و 3700 mm سرير قطري، وقاعدة متحركة، ودائرة تحوّل، بالإضافة إلى حاجات مصدّري الحمولة وأجهزة تحويل المحركات.
-- ** URL المقترض**: /حلقتان/ج م -
-- ** H1 **: لجنة التنسيق المشتركة شوندا: الصين - ماركت لايت - تراك تشاسيس، GVW، و Cargo Specs for Export
-- ** كلمة رئيسية رمزية**: مواصفات شاحنة خفيفة من طراز jmc shunda
-- ** شروط البحث الثانية**: لجنة التنسيق المشتركة بين الوكالات Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China- 6 diesel truck export
-- ** مقترحات داخلية بشأن الربط**: متوافقة مع الوقود/المركبات/المركبات؛ /المركبات/الدونغ فنغ - تيانجين -
-- ** اقتراحات رمزية**: جانب قطرة شوندا؛ وسر البضائع؛ وJX493 محرك؛ وإطار للفوضى؛ وسيارة أجرة
-- ** اقتراحات بشأن: "ج.م.م.م.شوندا" مهبط للشاحنات الخفيفة ذات الحزمة الزرقاء، "شوندا 3700mm سرير بضائع GVW 4.27t"
+## بيانات SEO الوصفية
+- **عنوان SEO**: JMC Shunda Light Truck Specs " Export Guide (GVW 4.27t, China- 6)
+- **وصف Meta**: Chinese-market  JMC  Shunda blue-plate light truck —  JX493  diesel 90 kW, GVW 4.27 t، 3700 mm سرير جانبي قاعدة عجلات  and  اديروا الدائرة زائد الحمولة  and  ويحتاج المصدرون إلى فحوص تحويل المحرك.
+- **H1**: JMC شوندا: الصين - ماركت لايت - تراك تشاسيس، GVW وكارغو سبيكس للتصدير
+- **الكلمة المفتاحية الرئيسية**: مواصفات تصدير شاحنة خفيفة من طراز jmc shunda
+- **مصطلحات بحث ثانوية**: JMC Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China- 6 diesel truck export
+- **URL المقترح**: /vehicles/jmc-shunda/
+- **نية البحث**: فهم JMC شوندا: China-Market Light-Truck Chassis, GVW and Cargo Specs for Export: What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
+- **اقتراح الصورة**: شوندا) تسقط رأساً على عقب)
+- **نص ALT**: هبوط شاحنة خفيفة من طراز شوندا ذات السعة الزرقاء
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## شركة شراء: مركبة تجارية
 وبالنسبة لشاحنة خفيفة، لا يقارن المشتري مستويات الترايم - فهي مطابقة لـ **GVW، وحمولة مُعدَّلة، ونسخة محركية، وجسد شحن** إلى وظيفة عاملة. الشوندا (顺达) هي خط شاحنة خفيفة من طراز JMC الصينية 6 مخاطرة النظام الرئيسي هي خليط تحويل المحرك: the documented small-truck engine is the **JX493ZLQ6D 2.499 L**, while the wider Shunda range also uses a **2.8 L 493** with different outputs. وتوثّق هذه الصفحة إشارة البضائع الصغيرة التي تستخدمها السوق الصينية ** (REFERENCE MARKET): الصين**؛ ولم تُسجل أي صحيفة أولية من طراز OEM، لذا فإن الأرقام هي قيم قاعدة بيانات تجارية مدققة للتأكد من صحتها في ضوء إعلان شركة MIIT وشهادة المركبات.
@@ -87,16 +89,16 @@
 | سرير شاحنة صغيرة، وسيارة (غ.ف.و) | 360che (توتوياو) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | صرخات | 3700 سرير، 4.27 t، كبح الوزن |
 | Shunda cargo 3.7m 116PS (in-sale) | شاحنة | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE OURCE | نسخة بديلة قدرها 116 PS نسخة (مستبعدة) | 58.com
 | قاعدة شوندا | 360che (توتوياو) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | صرخات | 2800 mm WB, 5.5 m turn |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
 * ملاحظة بشأن الملاءمة: لا يوجد OEM صحيفة أولية؛ وفحص قاعدة البيانات التجارية. وأرجأت الحمولة المقيدة صراحة إلى MIIT إعلان/شهادة؛ وظلت 2.499 L و 2.8 L محركات منفصلة. إشارة السوق الصينية فقط ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، الصين، شاحنة صغيرة من طراز شوندا JX493ZLQ6D (مراجعة من السوق الصينية؛ حمولة لكل شهادة؛ وليس مواصفات عالمية)
 - ** طريقة التأجيل**: التحقق من قاعدة البيانات التجارية؛ وتركيب نسخ المحركات؛ والتدرج القانوني المؤجل إلى الإعلان الرسمي

@@ -1,15 +1,17 @@
 # JAC Junling V6 (2024/2025) - Cinese- Pasar Cahaya Truk Specs dan Ekspor Cek
 
-## SEO Metadata
-- ** Judul SEO **: JAC Junling V6 Light Truck: Chinice - Market Specs & Ekspor Panduan Pembeli
-- ** Meta Description **: Chinice-market JAC Junling V6 blue- piring truk kargo ringan: Yunnei D25 diesel, Ankang 160 line, kotak kargo, GVW payload, dan single-source mass caveat.
-- ** H1 **: JAC Junling V6 (2024/2025) - Chinice-Market Light Truck Specs dan Ekspor Checks
-- JAC 江淮 骏铃 V6 轻卡 Ekspor spesifikasi Truk Cahaya
-- ** Secondary Search Terms **: JAC Junling V6 export; Jianghuai truk ringan; truk kargo Cina; truk plat biru; Yunnei D25
-- ** Sugested URL **: kendaraan jacket-junling- v6/
-- Cari di dalam-dalam 了解 JAC 江淮 骏铃 V6 轻卡 Truk Cahaya 中国版规格 = 配置与出口适配性 = 车型参数页 =
-- ** Internal Link Sugestions **: wirausaha- jungkir balik - v6/, pemandu execution- hs-code-history guide chinia- export- deklarasi-gustry -single-window
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
+## Metadata SEO
+- **Judul SEO**: JAC Junling V6 Light Truck: Chines - Market Specs & Ekspor Panduan Pembeli
+- **Deskripsi Meta**: Cina - pasar JAC Junling V6 blue- piring truk kargo ringan: Yunnei D25 diesel, Ankang 160 line, kargo box, GVW / payload, dan single-source mass caveat.
+- **H1**: JAC Junling V6 (2024/2025) - Chinese- Pasar Light Truck Specs dan Ekspor Cek
+- **Kata kunci utama**: JAC / 江淮 骏铃 V6 轻卡 Ekspor spesifikasi Truk Cahaya
+- **Istilah pencarian sekunder**: JAC ekspor Junling V6; truk ringan Jianghuai; truk kargo Cina; truk plat biru; Yunnei D25
+- **URL yang disarankan**: /vehicles/jac-junling-v6/
+- **Maksud pencarian**: Memahami JAC Junling V6 (2024/2025) - Chinese- Pasar Light Truck Specs dan Pemeriksa Exportir: apa kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum melakukan perintah.
+- **Saran tautan internal**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Saran gambar**: Sebuah dokumen, dokumen / kendaraan fokus menggambarkan JAC Junling V6 (2024/2025) - Cinese- Market Light Truck Specs dan Ekspor Checks, tidak ada pemeriksaan pentas atau orang-orang yang mengklaim.
+- **Teks ALT**: Tutup, pandangan alami dari bahan dan subjek yang berhubungan dengan JAC Junling V6 (2024/2025) - Cinese- Market Light Truck Specs dan Ekspor Cek, latar belakang netral, tidak ada orang atau tindakan inspeksi yang ditunjukkan.
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Konteks Pembeli: truk distribusi plat biru kota
 JAC Junling V6 (骏铃 V6, 2024/2025) ** adalah sebuah truk kargo ringan dari pasar cinese- diesel di kapal selam - 4.5 t kelas plat biru yang digunakan untuk distribusi kota regional. Pembeli kendaraan harus berlabuh di GVW, muatan dan kotak kargo sebelum pengurusan taksi. Referensi pasar adalah ** China **; massa membutuhkan konfirmasi homologation.
@@ -50,7 +52,6 @@ Bagi pembeli distribusi kota, titik pengaturan yang sering menyebabkan perselisi
 Mesin? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m pada jalur ditangkap.
 ** Dimana rincian ban axle? ** Tidak ditangkap; meminta lembar kerja OEM.
 
-
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
@@ -69,18 +70,18 @@ Mesin? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m pada jalur ditangkap.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
 ## Rekor Gambar
-- ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
-- ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
-- ** SUMBER _ PAGE **: tidak ditangkap
-- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
-- ** RIGHTS _ HOLDER **: belum dikonfirmasi
-- ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- ** CHECTD _ DATE **: 2026-09-06
-- ** MODEL _ TOPIC _ MATCH *: JAC tepat Junling V6 truk ringan
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
-- FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
-- ** ALT (12 bahasa) *:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@ Mesin? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m pada jalur ditangkap.
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

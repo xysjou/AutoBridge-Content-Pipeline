@@ -1,16 +1,16 @@
 # Exporting Vehicles by RoRo from Chinese Ports: Booking and Terminal Handover Flow
-## SEO Metadata
-- ** Judul SEO **: CINA Port RoRo Vehicle Expor: Panduan & Terminal Handover
-- ** Meta Description **: Cara memesan RoRo Space untuk ekspor kendaraan dari Cina, menyiapkan dokumen, mengirim unit ke terminal, dan mengelola penyerahan dan memuat tanggung jawab tanpa mengasumsikan aturan tertentu.
--   H1 **: Exporting Vehicles by RoRo from Chinese Ports: Booking and Terminal Handover Flow**
-- ** Primary Keyword **: pork china roro kendaraan ekspor barang-barang terminal
-- ** Akhir Pencarian Second **: RoRo ekspor kendaraan Cina; rolling -on rolling-off pemesanan; terminal kendaraan handover; RoRo dock penerimaan; pemesanan operator mobil Cina
-- **Suggested URL**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
--  Search Intent : 出口车辆如何向滚装船公司 代理订舱  按码头要求送车交接并装船 各环节责任与单据
-- **Internal Link Suggestions**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
-- ** * Sugesti Gambar **: Kendaraan ekspor baru berbaris di celemek terminal RoRo Cina di samping jalan pembawa mobil
-- ** ALT Saransinestacy **: Menunggangi kendaraan baru menunggu di terminal RoRo di samping jalan buritan pembawa mobil terbuka
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+## Metadata SEO
+- **Judul SEO**: CINA Port RoRo Vehicle Expor: Panduan & Terminal Handover
+- **Deskripsi Meta**: Cara memesan RoRo Space untuk ekspor kendaraan dari Cina, menyiapkan dokumen, mengirim unit ke terminal, dan mengelola penyerahan dan memuat tanggung jawab tanpa mengasumsikan aturan tertentu.
+- **H1**: Exporting Vehicles by RoRo from Chinese Ports: Booking and Terminal Handover Flow
+- **Kata kunci utama**: port china roro kendaraan ekspor pemesanan terminal handover
+- **Istilah pencarian sekunder**: ekspor RoRo kendaraan Cina; roll- on roll- off pemesanan; terminal kendaraan handover; RoRo dock penerimaan; mobil pembawa pemesanan Cina
+- **URL yang disarankan**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Maksud pencarian**: Memahami Exporting Vehicles by RoRo from Chinese Ports: booking and Terminal Handover Flow: apa yang harus diverifikasi oleh kendaraan / suku cadang, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
+- **Saran gambar**: Kendaraan ekspor baru berbaris pada celemek terminal RoRo Cina di samping tangga angkutan mobil
+- **Teks ALT**: Mendayung kendaraan baru menunggu di terminal RoRo di samping jalan buritan pembawa mobil terbuka
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 Roll- on roll- off (RoRo) memungkinkan kendaraan dapat dikendalikan bergerak di bawah daya sendiri dan dari sebuah pembawa mobil, menghindari derek mengangkat. Ini adalah mode alami untuk batch mobil baru atau digunakan, pickup dan iklan ringan yang dapat didorong dengan aman. Risiko di RoRo bukanlah konsepnya tapi penyerahan: antara depot, terminal, pembawa dan kapal ada beberapa titik di mana kondisi, dokumen dan perubahan tanggung jawab. Halaman ini peta yang urutan untuk port ekspor Cina dan bendera apa yang harus dikonfirmasi setiap pelayaran daripada diasumsikan.
 

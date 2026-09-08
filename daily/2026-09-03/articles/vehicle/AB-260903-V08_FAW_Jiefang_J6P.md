@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: FAW Jiefang J6P Tractor Specs: Engine, GCW & Export Notes
 - **Meta Description**: Chinese-market FAW Jiefang J6P heavy tractor — Xichai CA6DM2 460 PS/2300 N·m China-VI diesel, 4×2/6×4/8×4 layouts, 10–16-speed gearboxes, ~40 t GCW class, and the export checks buyers need.
-- **Suggested URL**: /vehicles/faw-jiefang-j6p-tractor-specs/
 - **H1**: FAW Jiefang J6P (Chinese-Market): Heavy Tractor Powertrain, Chassis and Export Verification
 - **Primary Keyword**: faw jiefang j6p tractor specifications
 - **Secondary Search Terms**: Jiefang J6P 460, CA6DM2 engine, J6P 6x4 tractor GCW, China VI heavy truck export, J6P AMT gearbox, Xichai 11 litre diesel
+- **Suggested URL**: /vehicles/faw-jiefang-j6p-tractor-specs/
+- **Search Intent**: Understand FAW Jiefang J6P (Chinese-Market): Heavy Tractor Powertrain, Chassis and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/yutong-zk6122-coach-specs/ ; /vehicles/sany-concrete-mixer-truck-specs/ ; /guides/china-vehicle-export-license-customs-documents/
-- **Image Suggestions**: 6×4 tractor side; Xichai CA6DM2 engine; 12-speed gearbox; tandem drive axle; cab interior
-- **ALT Suggestions**: "FAW Jiefang J6P 6x4 heavy tractor"; "J6P Xichai CA6DM2 diesel engine"
+- **Image Suggestion**: 6×4 tractor side; Xichai CA6DM2 engine; 12-speed gearbox; tandem drive axle; cab interior
+- **ALT Suggestion**: FAW Jiefang J6P 6x4 heavy tractor
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## Buyer Context: Spec a Tractor by Driveline and GCW, Not by Badge
 For a heavy haulage tractor the decisive fields are **engine displacement and torque, gearbox, drive axles, GCW class, cab and chassis** — not trim-level equipment. The J6P is FAW Jiefang's long-running heavy tractor series, offered in **4×2, 6×4 and 8×4** drive layouts. This page is a **Chinese-market reference (REFERENCE MARKET: CHINA)**; every tractor is configured to a homologated model code, and export emission/axle ratios are order-specific.

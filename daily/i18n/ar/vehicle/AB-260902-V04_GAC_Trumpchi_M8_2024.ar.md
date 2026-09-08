@@ -1,15 +1,17 @@
-# GAC Trumpchi M8 2024 - Business MPV: Series Differences, Seating Layout and Export Notes
+# GAC Trumpchi M8 2024 - Business MPV: الاختلافات في السلسلة، العيون المبحرة، ومذكرات التصدير
 
-## SEO Metadata
-- ** عنوان المنظمة**: GAC Trumpchi M8 2024 MPV Specs, Series " Seating Export Guide "
-- ** وصف البيانات**: 2024 GAC Trumpchi M8 المواصفات المرجعية للصين: ضد سلسلة لينغكسيو 2.0TGDI 185 kW، 8AT 7-seat تخطيط الأبعاد  and  نقاط تحقق للمشتريات في الخارج
-- ** URL المقترض**: /مركبات/غاز - ترامبشي - m8/
-- ** H1 **** GAC Trumpchi M8 2024 (الصين): مجموعة MPV Series، خريطة البحار والمواصفات للمستوردين
-- ** كلمة رئيسية**: تصدير مواصفات GAC Trumpchi M8 2024
-- ** شروط البحث الثانية**: M8 7-seat ميغاواط GAC M8 2.0TGDI 8AT, Trumpchi M8 سلسلة الماجستير تصدير مدفعية مصفحة مكسورة صينية GAC M8 الشرق الأوسط
-- ** Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/; /guides/commercial-truck-fleet-procurement-china/; /vehicles/forthing-lingzhi- m5/
-- ** اقتراحات رمزية**: لمحة جانبية تبين 3070 mm قاعدة عجلة؛ ومقاعد من الدرجة الثانية للكابتن؛ ومقارنة ثلاث مجموعات؛ وباب الزلق وممر القيادة؛
-- ** الاقتراحات**: 2024 GAC Trumpchi M8 -مضخة أعمال في الملعب السابع، مطياف الصين "مقاعد فريق "ترامبشي M8  and  ممر "معلمة "M8 ضد الجدة " ضد مسلسل "لينجكسيو
+## بيانات SEO الوصفية
+- **عنوان SEO**: GAC Trumpchi M8 2024 MPV Specs, Series " Seating Export Guide
+- **وصف Meta**: 2024  GAC  Trumpchi M8 China reference specs: ماجستير/جراندماستر ضد سلسلة لينغكسيو 2.0TGDI 185 kW، 8AT 7-seat تخطيط الأبعاد  and  نقاط تحقق للمشتريين في الخارج
+- **H1**: GAC ترامبشي M8 2024 (الصين): MPV سلسلة، خريطة المواصفات والمواصفات للمستوردين
+- **الكلمة المفتاحية الرئيسية**: GAC  Trumpchi M8 2024 specifications export
+- **مصطلحات بحث ثانوية**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 سلسلة الماجستير، تصدير MPV صيني، GAC M8 الشرق الأوسط
+- **URL المقترح**: /vehicles/gac-trumpchi-m8/
+- **نية البحث**: افهم GAC ترامبشي M8 2024 (الصين): MPV من سلسلة المستوردين، خريطة الموازين والمواصفات: ما يجب على المصدر للمركبات/الأجزاء أن يتحقق من ذلك ويوثقه ويقرره قبل الالتزام بأمر.
+- **اقتراحات الروابط الداخلية**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/ ; /vehicles/forthing-lingzhi-m5/
+- **اقتراح الصورة**: جانبي يُظهر 3070 mm قاعدة عجلة
+- **نص ALT**: 2024 GAC Trumpchi M8 م. م. م. م. صين
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## لماذا ينظر المشترين إلى M8
 
@@ -45,14 +47,14 @@ The Trumpchi M8 is a mid-large, monocoque **business/family MPV** whose value si
 - ** عدد المقاعد**: الخط الموحد هو سبعة مقاعد؛ ويوجد متغير من أربع طوابق لاستخدام السائقين/اللونج. تأكيد أي مخطط لاحتياجات السوق بدلا من افتراض أن كل M8s هو 7-seat.
 - ** مواصفات الاقتراض المتناظر**: مهام الرئيس القبطان (التهوية/التدفئة/الصدمات، وراحة القدم، وتجمعات المراكز) التي تنتقل حسب الرتبة - يطلب قائمة ببنود المقاعد.
 - ** أبواب متحركة ودخول**: يؤكد الأبواب المتحركة الجانبية ويُغلق حسب الرتبة.
-- **Length vs parking/garage constraints**: the 5212 mm debate ormaster is longer than the 5089 mm Lingxiu; relevant for tight urban markets.
+- ** لانغث ضد قيود وقوف السيارات/الإقامة**: (أ) أن يكون أوسمة المناقشة 5212 مم أطول من الـ 5089 ملم من طراز Lingxiu؛ ذات صلة بالأسواق الحضرية الضيقة.
 
 ## الصين ضد بناء الصادرات - نقاط التحقق
 
 - وتنشر اللجنة تشكيلة خارجية من مجموعة بلدان أمريكا اللاتينية والكاريبي تبلغ M8؛ ** لا تنسخ الصينية على شكل تصدير فين** - وتطابق الورقة الرسمية للمقصد.
 - التأكيد ** توافر الوثيقة HD/RHD** للبلد المستهدف، وما إذا كانت السلسلة المحددة قد صدرت في مخطط التوجيه هذا.
 - التحقق من قبول معايير الانبعاثات، ودرجة الوقود، ودرجة ملامح الوجهة بالنسبة لبنزين صيني سيك.
-- Confirm infotainment language, navigation and connected services outside mainland China, plus warranty coverage for a parallel-imported unit.
+- لغة المعلومات، والملاحة، والخدمات المرتبطة بها خارج الصين القارية، بالإضافة إلى التغطية التي تكفلها وحدة مستوردة موازية.
 - وإذا كان الزبون يريد بالتحديد الهجين (双擎)**، يطلب مواصفاته الرسمية المستقلة - لا تُدرج هذه الصفحة أرقام الهجينة من سيارة البنزين.
 
 ## ما يضيفه (أوت بريدج) إلى أبعد من (البروشير)
@@ -83,40 +85,40 @@ The Trumpchi M8 is a mid-large, monocoque **business/family MPV** whose value si
 ** هل تبيع شركة GAC M8 في الخارج**؟ نعم، يورد فريق مجموعة بلدان أمريكا اللاتينية والكاريبي M8 من بلدان ما وراء البحار (بما في ذلك أسواق الشرق الأوسط)؛ ويستخدم هذا الشكل الرسمي للصادرات ويؤكّد تنمية الأراضي البشرية في بلدكم.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
 ## المصدر: التحقق
 
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | مفقود | 5212 mm جثة، 3070 mm دبليو بي، 2060 kg، 2.0TGDI |
-| تشكيلة منطقة البحيرات الكبرى M8 | مجموعة مجموعة بلدان أفريقيا والكاريبي (الرسمية) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | مفقود | 185 kW/ 252 PS, 7 seats, suspension |
+| PROLULULUL M8 |  مجموعة  مجموعة CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | 185 kW/ 252 PS, 7 seats, suspension |
 | 2024 M8 宗师 من البنزين الرسمي | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | مفقود | 2.0TGDI + 8AT، 400 N·m، السعر المحلي |
 | Lingxiu 390T config | أوتومهومي (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | صرخات | 5089 mm جثة، 3000 mm دبليو بي، 390 N·m، WLTC 8.85 |
-| M8 بارامتر | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | صرخات | تقسيم العجلات، رسم الخرائط |
+| M8IMRARAUS | PCauto (平 pill)) | CN| https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | |  تقسيمTORments ،FFOURIES, |.
 | Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | صرخات | أبعاد لينغكسيو، السعر المحلي |
 
 * مذكرة مصداقية (معيار أوتو بريدج): مواصفات الأساسية مثبتة على صفحات (جي سي) الخاصة (مسؤولة مصانع) وقيم النسيج هي كلورو إس إس إس إس إس إس إس أي دي في قواعد البيانات المستقلة. ويبقى المعايرة البالغ عددها 400 مقابل 390 N·m مفصّلة عن عمد حسب السلسلة؛ hybrid (双擎) specs are not asserted.*

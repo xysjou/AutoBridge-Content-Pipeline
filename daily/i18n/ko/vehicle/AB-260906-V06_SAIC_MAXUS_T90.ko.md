@@ -1,16 +1,16 @@
 # SAIC MAXUS의 장점 Interstellar T90: 중국 시장 디젤 픽업 수출 참조
-## ▼ 한국어 메타데이터
-- **SEO 제목**: SAIC MAXUS T90 (인터텔라) 디젤 픽업 수출 Specs & 구매자 체크
-- **마타 기술 **: SAIC MAXUS Interstellar T90 디젤 픽업을 위한 중국 시장 참고: 몸에 구조 포좌, 표준/긴 침대, 2.0T 쌍둥이 터보 디젤, 구동차트 선택권 및 수출 이름 caveat.
-- ** H1 **: SAIC MAXUS Interstellar T90: 중국 시장 디젤 픽업 수출 참조
-- ** 출원 키워드 **: SAIC MAXUS T90 픽업 수출 사양
-- **세컨드리뷰 이용 약관**: MAXUS T90 디젤 픽업; Interstellar T90 2.0T 쌍둥이 터보; T90 8AT four wheel drive; MAXUS 픽업 침대 차원; 중국 픽업 수출
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- ** 수색 **: 面向海外 B 端买家介绍星际 T90 中国市场版本身份, 货箱 / 四驱 / 底盘 / 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- ** 이미지 제안**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
-- ** ALT 제안**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface
-- **Schema Scope**: Article + Vehicle
+## SEO 메타데이터
+- **SEO 제목**: SAIC MAXUS T90 (Interstellar) 디젤 픽업 수출 Specs & 구매자 체크
+- **메타 설명**: SAIC MAXUS 중국 시장 참조 Interstellar T90 디젤 픽업: 본체 - 프레임 섀시, 표준 / 긴 침대, 2.0T 트윈 터보 디젤, 드라이브 트레인 옵션 및 수출 이름 동굴.
+- **H1**: SAIC   MAXUS  Interstellar T90: 중국-시장 디젤 픽업 수출 참조
+- **주요 키워드**: SAIC MAXUS T90 픽업 수출 specs
+- **보조 검색어**: MAXUS T90 디젤 픽업; Interstellar T90 2.0T 쌍둥이 터보; T90 8AT four wheel drive; MAXUS 픽업 침대 차원; 중국 픽업 수출
+- **추천 URL**: /vehicles/saic-maxus-t90/
+- **검색 의도**: SAIC MAXUS Interstellar T90: 중국 시장 디젤 픽업 수출 참조: 차량 / 부품 수출자가 주문에 투입하기 전에 확인, 문서 및 결정해야합니다.
+- **내부 링크 제안**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **이미지 제안**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
+- **ALT 텍스트**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface
+- **스키마 범위**: 제+차량
 
 Interstellar T90 (Xingji T90, 중국 MAXUS T90)는 SAIC MAXUS의 중간 크기, ** 몸에 프레임 ** 더블 캐브 픽업 - 차량의 유형은 여객 정제보다 오히려로드 캐리링, 거친 도로 및 함대 사용을 위해 해외로 구입. 픽업 구매는 침대, 페이로드, 드라이브 트레인 및 섀시에서 결정되므로이 페이지를 리드합니다. ** 중국 시장 디젤 ** 만 포함; 별도의 전기 T90은 제외됩니다.
 
@@ -71,16 +71,16 @@ Two-wheel drive, 부품 시간 4WD  and  주문 지적인 4WD, 으로 트림.
 ## 소스 및 검증
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 星际 T90 柴油 (上汽 π 双涡轮 2.0T 160kW/500N·m, 采埃孚 8AT, 拖拽 3.5t) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT,  拖拽  |
-| 星际 T90 标 / 长轴尺寸 (标轴 5365 × 1960 × 1845 WB3155 货箱 1485; 长轴 5680 WB3470 货箱 1800) | 汽车之家·车家号 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱,  轴距  |
+| 星际 T90 柴油 (上汽 π 双涡轮 2.0T 160kW/500N·m, 采埃孚 8AT, 拖拽 3.5t) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT,  拖拽  |
+ T T90 标 /   ( 5 5365 × 1960 × 1845 WB3155   1485; 长轴 5680 WB3470 货箱 1800) | 汽车之家·车家号 | 담당자: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱,  轴距  |
 | 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
 | T90 车身结构 (非承载、 接近角 / 离去角) | 太平洋汽车百科 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身,  通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, towing) - 수출 범위 | SAIC MAXUS의 장점 - 연혁 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; 중국 시장 星际 T90 가치로 equated 아닙니다 |
-| 上汽大通 MAXUS T90 中国官方 (配置/价格) | SAIC MAXUS의 장점 담당자: Mr. Li | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.maxusmall.com/T90.shtml | engine_diesel - 중국 시장 공식 구성 및 국내 기준 가격 |
-| 道路机动车辆生产企业及产品公告 (查询入口년) | 中华人民共和国工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel - 균질화 확인 중국 픽업 변형 |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) - 수출 범위 | SAIC MAXUS의 장점 - 연혁 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; T90의 가치
+上大大通 MAXUS T90 中国方 (鶏/CHAR) | SAIC MAXUS의 장점: 담당자: Mr. 생산 라인 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.maxusmall.com/T90.shtml | engine_diesel - 중국 시장 공식 구성 및 국내 기준 가격 |
+中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel - 균질화 확인 중국 픽업 변형 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
 - **참고 시장 **: 중국 (本篇锁柴油, 不含 EV; 国内星际 T90 与出口 MAXUS T90 仅는 不证同一를 다시 예약했습니다)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.

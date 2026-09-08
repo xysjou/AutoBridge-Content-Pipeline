@@ -1,13 +1,18 @@
 # Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV الصادرات
-## SEO Metadata
-- ** عنوان الحلقة**: Geely Boyue L Export Specs: 1.5T/2.0T Compact SUV Buyer
-- ** وصف البيانات**: إشارة السوق الصينية للبويي الجيلي L compact SUV: dimensions and cargo, 1.5T and 2.0T variants separated, the Starray export-name huat, and VIN-level buyer checks.
-- ** H1 **** غيلي بويي ل (4th-Generation بويوي): شركة الصين - ماركت للسيارات الصادرات**
-- ** كلمة رئيسية**: Geely Boyue L export specs
-- ** شروط البحث الثانية**: غيلي بويو L dimensions; Boyue L 1.5T 7DCT; Geely Starray export; Chinese compact SUV; Boyue مساحة الشحنات
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- ** الحلقة الدراسية**: 面向海外B端买家介绍Boyue L中国市场版本身份、尺寸/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+## بيانات SEO الوصفية
+- **عنوان SEO**: Geely Boyue L Export Specs: 1.5T/2.0T Compact SUV دليل الشراء
+- **وصف Meta**: مرجعيات السوق الصينية للبويي الجيلي L compact SUV: dimensions and cargo, 1.5T and 2.0T variants separated, the Starray export-name huat, and VIN -level buyer checks.
+- **H1**: Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV الصادرات
+- **الكلمة المفتاحية الرئيسية**: Geely Boyue L export specs
+- **مصطلحات بحث ثانوية**: Geely Boyue L dimensions; Boyue L 1.5T 7DCT; Geely Starray export; Chinese compact SUV؛ بويوي مساحة الشحنات
+- **URL المقترح**: /vehicles/geely-boyue-l/
+- **نية البحث**: فهم جيلي بوييي لي (4th-Generation بووي): اتفاق الصين - ماركت SUV المصدر: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **اقتراح الصورة**: جيلي بوي" L compact SUV in profile showing its roofline and wheel aladding
+- **نص ALT**: Side profile of a Geely Boyue L compact SUV on a plain background
+- **نطاق المخطط**: المادة + المركبات
+
+** مقترحات داخلية بشأن الروابط**: /المركبات/الوجه العمري/المركبات/الجنسية - 8، و/أو المبادئ/المركبات - العرضية - الجنوبية -
 - ** اقتراح مقدم**: بوي جيلي مركب مدمج في ملفه يظهر خطه السطحي و شعلة العجلات
 - ** اقتراح**: بيان جانبي لبوي جيلي سيارة إسعاف مدمجة على خلفية واضحة
 - **Schema Scope**: Article + Vehicle
@@ -83,11 +88,11 @@ A cross- checked 1.5T (133 kW 290 N·m, 7DCT, 92-RON) and a 2.0T (160 kW 325 N·
 | 2025 款博越 L 尺寸 轴距 后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家 · 车家号 | CHINA | T3 | SINGLE OURCE | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
 | 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | T3 | SINGLE OURCE | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱  |
 | Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | T1 | مفقود | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | - جدول مواصفات OEM؛ تأكيد بناء الأسواق |
-| جيلي ستاري بروسوري)قطر(- مرجع سوق التصدير | Geely Qatar | EXPORT | T1 | صرخات | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | الهوية - ستاري هو رمز التصدير؛ لا تساوي أرقام الصادرات إلى الصين |
+| Annex I & | & Gely Qatar | EXPORT | T1 | | & | & https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf  ستار —  ستارye and the.
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق من المتغير الصيني الموهوب |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA(中国市场参考; Starray 为出口名但参数不与中国版等同)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.

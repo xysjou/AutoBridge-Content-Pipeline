@@ -1,14 +1,17 @@
 # 中车娱乐,Apps和OTA海外:一款Per-VIN本地化验证指南
-## 道德操守办公室 元数据
-- ** SIO标题**:中国汽车娱乐和海外OTA:一个Per-VIN 检查指南
-- ** 金属说明**: 一个中国的总部单位 校验UI语言,本地地图,电话镜像,应用/服务器可达性以及OTA在实际VIN上——品牌特有事实与行业实例保持隔离.
-- ** 建议的URL**: /指南/chinese-car-infocure-ota-location/ 本地化
-- ** H1 资源需求。 **: 使中国汽车软件在你的市场发挥作用:在实际汽车上测试什么
-- ** 关键词**: 中国汽车娱乐 英国OTA 海外本地化 VIN
-- ** 二级搜索术语**:中国-Spec Head Unit English UI,BYD DiLink海外,中国EV地图海外,CarPlay Android自动中国车,OTA服务器区域,阿拉伯语RTL HMI,输出版本软件建设
-- ** 内部链接建议**: /指南/chinese-ev-充电-标准兼容性/;/指南/右手驱动-chinese-cars/;/指南/核实-china-car-export-supplier/
-- **图像建议**:只中国人对英国HMI;五套软件检查;国内对导软件堆;OTA服务器区域图
-- **ALT建议**:"中国-Spec头单位语言设置";"五家信息娱乐本地化检查";"国内与出口软件堆栈".
+## SEO元数据
+- **SEO标题**: 中车娱乐 & OTA 国外:每VIN人 检查指南
+- **Meta描述**: 一个中国的总部单位 会在你市场工作吗? 校验UI语言,本地地图,电话镜像,应用/服务器可达性,VIN实际OTA——品牌特有事实与行业实例分开.
+- **H1**: 使中国汽车软件在你的市场发挥作用:在实际汽车上测试什么
+- **核心关键词**: 中国汽车娱乐 海外本地化OTA人/VIN人
+- **次级搜索词**: 中国-Spec头单位英语UI, BYD 维基月球 迪林克海外, 海外中国EV张地图 汽车汽车,中国汽车, OTA 服务器区域, 阿拉伯语 RTL HMI, 导出版本软件构建
+- **建议URL**: /guides/chinese-car-infotainment-ota-localization/
+- **搜索意图**: 理解让中国汽车软件在你的市场运作: 实际车厢的检验:车辆/部件出口商在承诺订购前必须核实、记录和决定哪些车辆/部件。
+- **内链建议**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **图片建议**: 仅限中文对英语HMI
+- **ALT文本**: 中文- 光谱头单位语言设置
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 本指南遵循的证据纪律
 软件行为是**brand-和VIN的特异性**,所以本页刻意将两种语句分开:
 - **Brand/型号特定事实**——这些只能通过品牌的海外频道或现场测试在准确的VIN上解决;从其他型号中从未推断出.
@@ -55,18 +58,18 @@
 未经授权的闪烁可以使保修无效,引起合规问题;更喜欢工厂出口建设或品牌支持的路线.
 ** 英语UI是否使阿拉伯语准备就绪? ** 不——阿拉伯语需要RTL布局,翻译之外需要适当的本地化.
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf

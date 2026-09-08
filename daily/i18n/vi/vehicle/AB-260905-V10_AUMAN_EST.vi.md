@@ -1,15 +1,17 @@
 # Foton Daimler AUMAN TE (Trung Quốc - V/VI) — Kính xe tải nặng của Trung Quốc và Kiểm tra Xuất khẩu
 
-## SAO Siêu dữ liệu
-- **SEO Titry**: Foton Daimler Trình thử nghiệm AUMAN: Sổ tay & Xuất của Trung Quốc
-- **Meta Mô tả**: China-mender Đầu máy kéo hạng nặng: Trung Quốc-V ISG và Trung Quốc X13 dòng, ZF/Fast TMboxs, ~ 40 t GCW, với USS giữ như một dòng riêng biệt.
-- ** H1 **: Foton Daimler AUMAN TE (Trung Quốc - V/VI) — Kính xe tải nặng của Trung Quốc và Kiểm tra Xuất khẩu
-- **Cuper Keywomler AUMAN 福田戴姆勒欧曼 欧曼 T 重型牵引车 (Tractor car) ra đời
-- **Secondary Search Wordss**: AUMAN ST epart; Foton Daimler head; máy kéo xe tải nặng Trung Quốc; X13 động cơ; 6x4 máy kéo
-- ** URL đã gợi ý**: /vehicles/foton-auman-trator/
-- **Tìm kiếm ý định**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: /vehcles/foton-auman-tor/, /guides/tir-road-cport-chiral- centa-asia /guides/bill-lading-type-history/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Foton Daimler AUMAN EST Tractor: China- Market Spect & Eli Guide
+- **Meta mô tả**: Chinese-market Foton Daimler  AUMAN   EST  heavy tractor head: Trung Quốc-V ISG   and  Trung Quốc- VI X13 dòng, ZF - Hộp số, - 40 t GCW lớp, với BEV được giữ như một đường riêng biệt.
+- **H1**: Foton Daimler AUMAN EST (Trung Quốc - V/ VI) — Xe tải nặng của Trung Quốc  and  Xuất danh sách kiểm tra
+- **Từ khóa chính**: Foton Daimler  AUMAN  / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） specs export
+- **Cụm tìm kiếm phụ**: AUMAN EST xuất khẩu; đầu máy kéo Foton Daimler; máy kéo xe tải nặng của Trung Quốc; X13 máy kéo; 6x4 máy kéo
+- **URL đề xuất**: /vehicles/foton-auman-est-tractor/
+- **Ý định tìm kiếm**: Hiểu được Foton Daimler AUMAN EST (Trung Quốc-V/ VI) — China-Market Heavy Tractor Spers Spics and Elive Checks: những gì một xe/parts xuất khẩu phải kiểm tra, tài liệu và quyết định trước khi cam kết với một lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych-tập trung minh họa cho Foton Daimler AUMAN STE (Trung Quốc-V/VI) — Market Heavy Tractor Spec và Xuất khẩu, không có kiểm tra dàn dựng hoặc người tuyên bố.
+- **Văn bản ALT**: Gần như, nhìn tự nhiên về vật liệu và đối tượng liên quan đến Foton Daimler AUMAN STE (Trung Quốc - V/VI) — xe tải nặng nề của Trung Quốc, nền tảng trung lập, không có người hay hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh người mua: một đầu máy kéo với các đường phân vùng và đường năng lượng riêng
 **Foton Daimler AUMAN est (欧曼 est)** là một đầu máy kéo hạng nặng của Trung Quốc. Trung Quốc-V EST510 và X13 là những thế hệ khác nhau, và máy kéo điện **battry là một dòng riêng biệt** -- chúng không bao giờ được hợp nhất thành một đặc điểm đặc biệt. Thị trường tham khảo là **Trung Quốc**.
@@ -47,7 +49,6 @@ Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không
 ** Hộp số nào? ** ZF 12TX AMT hay Fast 16-speed, bằng cách xây dựng.
 ** X13 đầu ra? 12.9 L, 412 kW 560 hp, 2600 N·m trên đường dây Trung Quốc-VI.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -67,18 +68,18 @@ Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS**: chính xác là Foton Daimler Máy kéo tốt nhất của UMAN
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Foton Daimler AUMAN EST tractor
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
   - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
@@ -91,6 +92,5 @@ Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

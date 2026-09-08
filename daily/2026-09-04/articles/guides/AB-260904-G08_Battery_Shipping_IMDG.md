@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: EV Sea Freight Under IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
 - **Meta Description**: From 2026, lithium-ion vehicles installed with battery ship as UN3556 (lithium-metal UN3557, sodium-ion UN3558) under IMDG Amendment 42-24; UN3171 is narrowed and loose batteries use UN3480/3481 with UN38.3.
-- **Suggested URL**: /guides/ev-shipping-un3556-imdg-compliance
 - **H1**: Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code (Amendment 42-24)
 - **Primary Keyword**: UN3556 lithium ion vehicle IMDG 42-24 shipping
 - **Secondary Search Terms**: UN3557 lithium metal vehicle, UN3558 sodium ion vehicle, P912 packing instruction, SP405 marking, UN3171 narrowed, UN3480 UN3481, UN38.3 manual of tests rev8
+- **Suggested URL**: /guides/ev-shipping-un3556-imdg-compliance
+- **Search Intent**: Understand Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code (Amendment 42-24): what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
-- **Image Suggestions**: whole-vehicle vs loose-battery UN number split; Class 9 placard; P912/SP405 marking diagram
-- **ALT Suggestions**: "UN3556 installed-battery vehicle versus UN3480 loose battery under IMDG 42-24"
+- **Image Suggestion**: whole-vehicle vs loose-battery UN number split; Class 9 placard; P912/SP405 marking diagram
+- **ALT Suggestion**: UN3556 installed-battery vehicle versus UN3480 loose battery under IMDG 42-24
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## The Classification Changed — Old UN3171 Habits Are Now Wrong
 A common pre-2026 practice was to book any battery-driven vehicle under **UN3171**. Under the **current mandatory IMDG Code, Amendment 42-24** (adopted by IMO Resolution **MSC.556(108)** and **mandatory in China from 2026-01-01** per the China Maritime Safety Administration official text), that is no longer correct for mainstream lithium vehicles. Using the old number on a 2026 declaration is a classification error that stops dangerous-goods paperwork at booking.

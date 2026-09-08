@@ -7,8 +7,10 @@
 - **Primary Keyword**: JAC / 江淮 骏铃V6 轻卡（Light Truck） specs export
 - **Secondary Search Terms**: JAC Junling V6 export; Jianghuai light truck; Chinese cargo truck; blue plate truck; Yunnei D25
 - **Suggested URL**: /vehicles/jac-junling-v6/
-- **Search Intent**: 了解 JAC / 江淮 骏铃V6 轻卡（Light Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand JAC Junling V6 (2024/2025) — Chinese-Market Light Truck Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating JAC Junling V6 (2024/2025) — Chinese-Market Light Truck Specs and Export Checks, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to JAC Junling V6 (2024/2025) — Chinese-Market Light Truck Specs and Export Checks, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context: a blue-plate city distribution truck

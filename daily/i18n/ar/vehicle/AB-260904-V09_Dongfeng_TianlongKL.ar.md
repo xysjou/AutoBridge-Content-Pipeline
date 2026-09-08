@@ -1,17 +1,19 @@
-# Dongfeng Tianlong KL (天龙 KL) Heavy Tractor: Engine, Gearbox, Axle and GCW for Export
+# Dongfeng Tianlong KL (رمز KL) Heavy Tractor: Engine, Gearbox, Axle and GCW for Export
 
-## SEO Metadata
-- ** عنوان الحلقة**: Dongfeng Tianlong KL Tractor Specs " Export Guide (DDi11 465, GCW 40t)
-- ** وصف البيانات**: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (خيار النقل إلى الأسواق) 40 t GCW, بالإضافة إلى تقدير الطاقة  and  ويلزم إجراء عمليات تحقق بديلة للمصدرين.
-- ** URL المقترض**: /حلقتان/مركبتان/دونغ فنغ - تيانونغ -
-- ** H1 **: دونغ فينغ تيانلونغ كلي تراكتور الثقيل الصين - ماركت باوراترين وسيسي سبيك
-- ** كلمة رئيسية رمزية**: دونغ تيانونغ كلور جرار مضارب التصدير
-- ** محطات البحث الثانية**: Tianlong KL 465، DDi11E465، دونغفنغ 14-speed، صينية 6x4 رأس جرارة، 40t شاحنة تابعة للشبكة العالمية للأرصاد الجوية
-- ** مقترحات داخلية بشأن الربط**: موازنة الوقود/الطاقة/المركبات/المركبات/المركبات/ج م ج -
-- ** اقتراحات تتعلق بالرحلات**: رأس جرارة KL 6x4؛ DDi11 محرك؛ 14-speed سيارة أجرة داخلية؛ إطار عمل للتشغيل وعجلة خامسة
-- ** الاقتراحات**: "دونغفنغ تيانلونغ KL 465 رأس جرارة ثقيلة" "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+## بيانات SEO الوصفية
+- **عنوان SEO**: دونغفنغ تيانلونغ KL دليل تصدير المتعقب (DDi11 465، GCW 40t)
+- **وصف Meta**: Chinese-market Dongfeng Tianlong  KL  6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (الخيار AMT) 40 t GCW بالإضافة إلى تقدير الطاقة  and  ويلزم إجراء عمليات تحقق بديلة للمصدرين.
+- **H1**: Dongfeng Tianlong KL Heavy Tractor الرئيس: شركة كهرباء وتشاسي سيك
+- **الكلمة المفتاحية الرئيسية**: صادرات دونغ تيانلونغ كلور
+- **مصطلحات بحث ثانوية**: تيانلونغ KL 465 DDi11E465 دونغفنغ 14-speed صندوق معدات صينية 6x4 رأس جرارة  40t  GCW  truck export
+- **URL المقترح**: /vehicles/dongfeng-tianlong-kl/
+- **نية البحث**: (دونجفنغ تيانلونغ) KL مركبة ثقيلة الرئيس: شركة الطاقة الصينية - ماركت وشركة " تسيس سبيك ": ما يجب على المصدرين من المركبات/الأجزاء أن يتحققوا من أمر ما وأن يوثقوا ويقرروا قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
+- **اقتراح الصورة**: KL tractor head 6x4
+- **نص ALT**: دونغفنغ تيانلونج KL 465 رأس جرارات ثقيلة
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Buyer Context: a Tractor Head is Specified by Powertrain Chain and Train Weight
+# Buyer Context: (أ) رئيس المتعقب مُحدد من قبل محطة تشارين وشبكة القطارات
 ولا يسجل مشترو سيارات ثقيلة قوائم معدات للتسوق - بل يحددون سلسلة من أجهزة التنظيف التي تتطابق مع وزن إجمالي مركب**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. الخطأ المتكرر في هذا النموذج يخلط بين القوة المحسوبة بالرقم الصافي للطاقة**  or blending the 465 PS tractor with the 430/520/560 PS  and  متغيرات الغاز هذه الصفحة توثق الـDDi11E465-60 من السوق الصينية ** الصين**؛ ولم يُسجل أي كتيب أولي من نشرات منظمة أوم، لذا ينبغي تأكيد القيم التجارية التي تم التحقق منها على أساس إعلان المبادرة.
 
 ## مهندس (تركيز السيارات الثقيلة: محرك، علبة معدات، فأس، مركب، سيارة أجرة، فوضوية)
@@ -85,15 +87,15 @@
 | Tianlong KL 465 AMT parameters | الأخبار العاشرة | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | SINGLE OURCE | خيار AMT، فرقة تراك |
 | Tianlong KL 465 chassis ' t gearbox | 360che (توتوياو) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | صرخات | DT1422, GVWR, curb, GCW |
 | دونغفنغ تيانلونج (مراجعة عبر موسوعة الأسكوبيديا) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | SINGLE OURCE | فحص شامل لفرضيات القوة |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
 * ملاحظة بشأن الملاءمة: لا يوجد OEM كتيب أولي؛ وفحص شامل للتجارة. طاقة رُفّت/صافيّة;Other power and gas versions excluded. إشارة إلى السوق الصينية؛ تأكيد على إعلان MIIT. ♪
 
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
+- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين، جرارة تيانلونغ KL DDi11E465-60 (المرجع التجاري الصيني؛ غير مواصفات عالمية)
 - ** طريقة التحقق**: التحقق من قاعدة البيانات التجارية؛ قواعد القوة غير مبهمة؛ خط متغير منفصل

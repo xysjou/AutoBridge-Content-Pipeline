@@ -1,16 +1,16 @@
 # China Customs Trade Modes for Vehicle Export: General Trade (0110), Market Procurement (1039) y Bonded Supervision
-## SEO Metadatos
-- **SEO Título**: China Export Customs Modes 0110 vs 1039 vs Bonded for Vehicles
-- **Meta Descripción**: Cómo un exportador chino elige entre el comercio general (0110), el comercio de bienes de mercado (1039) y la supervisión de bonos, incluyendo factura, reembolso de impuestos y diferencias de recepción.
-- ** H1 **: China Customs Trade Modes for Vehicle Export: General Trade (0110), Market Procurement (1039) y Bonded Supervision
-- **Primary Keyword**: China Custom supervision method 0110 1039 bonded vehicle export
-- ** Términos de búsqueda de la segunda fecha**: comercio general 0110 exportación; comercio de compras de mercado 1039; zona de exportación de bonos; modo de reembolso de impuestos de exportación; código de supervisión aduanera
-- **Suggested URL**: /guides/china-customs-supervision-method-0110-1039/
-- **Intent de búsqueda**: 汽车出口应如何选择海关监管贸易方式, 一般贸易, 市场采购 (1039), 保税监管各自适用条件与税务 收汇差异
-- **Internal Link Suggestions**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+## Metadatos SEO
+- **Título SEO**: China Exportar los modos de aduana 0110 vs 1039 vs Bonded for Vehicles
+- **Meta descripción**: Cómo un exportador chino elige entre el comercio general (0110), el comercio de bienes de mercado (1039) y la supervisión en condiciones de servidumbre, incluyendo factura, reembolso de impuestos y diferencias de recepción.
+- **H1**: China Customs Trade Modes for Vehicle Export: General Trade (0110), Market Procurement (1039) y Bonded Supervision
+- **Palabra clave principal**: China Método de supervisión aduanera 0110 1039 exportación de vehículos
+- **Términos de búsqueda secundarios**: comercio general 0110 exportación; comercio de compras de mercado 1039; zona de exportación de bonos; modo de reembolso de impuestos de exportación; código de supervisión aduanera
+- **URL sugerida**: /guides/china-customs-supervision-method-0110-1039/
+- **Intención de búsqueda**: Comprenda los modos comerciales de China para la exportación de vehículos: Comercio general (0110), Contratación de Mercados (1039) y Supervisión de Bonos: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Sugerencia de imagen**: Declaración aduanera que compara los códigos de comercio general y de mercado al lado de los vehículos de exportación
-- **ALT Sugerencia**: Formulario de declaración de aduanas con códigos de supervisión y vehículos de exportación a una puerta más allá
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **Texto ALT**: Formulario de declaración de aduanas con códigos de supervisión y vehículos de exportación a una puerta más allá
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 El método de supervisión aduanera (trade) impreso en la declaración de exportación no es una formalidad; determina cómo se declaran las mercancías, si el IVA de entrada admite un reembolso de exportación, cómo se recibe el intercambio de divisas y cuáles son incluso los productos elegibles. Los exportadores de vehículos suelen cumplir con el comercio general, pero a veces se ofrecen el mercado de compra (1039) o rutas en condiciones de servidumbre como 'simpler'. Esta página explica cada uno, y por qué un vehículo completo no califica automáticamente para el modo simplificado.
 

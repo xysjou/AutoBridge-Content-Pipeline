@@ -7,8 +7,10 @@
 - **Primary Keyword**: china export vat refund process
 - **Secondary Search Terms**: export VAT refund; exemption credit refund; export tax rebate; refund rate; China tax
 - **Suggested URL**: /guides/china-export-vat-refund-process/
-- **Search Intent**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
+- **Search Intent**: Understand China Export VAT Refund — Methods, Filing Order and Rate Lookup: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating China Export VAT Refund — Methods, Filing Order and Rate Lookup, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to China Export VAT Refund — Methods, Filing Order and Rate Lookup, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article (no Product/Offer/Review)
 
 ## Two methods, matched to enterprise type

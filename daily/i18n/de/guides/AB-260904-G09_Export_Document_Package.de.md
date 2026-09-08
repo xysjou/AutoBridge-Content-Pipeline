@@ -1,15 +1,17 @@
 # Das Fahrzeugexportdokumentpaket: Aktueller Zertifikatsstandard vs. obligatorischer Standard noch im Entwurf
 
-## SEO Metadaten
-- **SEO Titel**: Leitfaden für Ausfuhrdokumente für Fahrzeuge in China — GB/T 21085-2020 Current Standard
-- **Meta Description**: Build the export document set around the current GB/T 21085-2020 factory certificate,  distinguish it from the mandatory 20260041-Q-339 standard still under development,  and  NEV/Übersetzungsgegenstände als Empfehlungen behandeln.
+## SEO-Metadaten
+- **SEO-Titel**: China Vehicle Export Document Package Guide — GB/T 21085-2020 Aktueller Standard
+- **Meta-Beschreibung**: Bauen Sie das Exportdokument auf, das um das aktuelle Fabrikzertifikat GB/T 21085-2020 herum erstellt wird,  distinguish it from the mandatory 20260041-Q-339 standard still under development,  and  Behandeln Sie NEV / Übersetzungselemente als Empfehlungen.
+- **H1**: Zusammenstellung eines chinesischen Fahrzeug-Exportdokument-Paket — Was ist aktuell, was ist noch ein Entwurf, was wir empfehlen
+- **Haupt-Keyword**: Fahrzeugausfuhrdokumentpaket Fabrikbescheinigung GB/T21085
+- **Sekundäre Suchbegriffe**: 机动车出厂合格证, GB/T21085-2020 aktuell, 20260041-Q-339 Entwurf, Konformitätsbescheinigung Export, NEV Exportdokumente UN38.3
 - **Vorgeschlagene URL**: /guides/export-vehicle-document-package
-- ** H1 **: Zusammenstellung eines chinesischen Fahrzeug-Exportdokument-Paket — Was ist aktuell, was ist noch ein Entwurf, was wir empfehlen
-- **Hauptschlüsselwort**: Fahrzeugexportdokumentpaket Fabrikzertifikat GB/T21085
-- **Secondary Search Terms**: 机动车出厂合格证, GB/ T21085-2020 aktuell, 20260041-Q-339 Entwurf, Konformitätsbescheinigung Export, NEV Exportdokumente UN38.3
-- **Interne Linkvorschläge**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/china-export-certificate-of-origine/
-- **Bildvorschläge**: Layout des Dokumentbündels; Zeitleiste des aktuellen vs. Entwurfs; Dateisplit inländische vs. Exportdatei
-- **ALT Suggestions**: "Aktuelle GB/ T21085-2020 Zertifikate im Vergleich zum obligatorischen 20260041-Q-339 Entwurf"
+- **Suchabsicht**: Verstehen Sie die Zusammenstellung eines chinesischen Fahrzeugexportdokumentpakets - Was aktuell ist, was noch ein Entwurf ist, was wir empfehlen: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Bildvorschlag**: Dokumentbündellayout
+- **ALT-Text**: Aktuelles GB/T21085-2020-Zertifikat versus obligatorischer 20260041-Q-339-Entwurf
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Die Falle: Behandlung eines Standardentwurfs als aktuell
 Dokumentenpaketführer zitieren oft einen bevorstehenden obligatorischen Zertifikatsstandard, als ob er bereits in Kraft wäre. Das schafft Papierkram Erwartungen keine aktuelle Regel unterstützt. Diese Seite zieht eine harte Linie: Der **aktuelle** Standard für das Werkszertifikat des Kraftfahrzeugs ist **GB/T 21085-2020 **; ein obligatorischer Ersatz (Plan ** 20260041-Q-339 **) befindet sich **in Entwicklung und ist weder veröffentlicht noch in Kraft ** und darf nicht als aktuelle Anforderung präsentiert werden.

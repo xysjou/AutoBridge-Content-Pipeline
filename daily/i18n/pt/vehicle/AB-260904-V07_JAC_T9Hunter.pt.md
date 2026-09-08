@@ -1,15 +1,17 @@
 # JAC T9 Hunter (悍途): uma Pickup Diesel de Tamanho Médio — Cama, Carga, Drivetrain e Checks de Exportação
 
-## SEO Meta- dados
-- ** Título SEO**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
-- ** Descrição do Meta**: JAC T9 Hunter Hantu diesel captador — padrão e camas longas, 2.0T diesel com ZF 8AT, BorgWarner meio-período 4WD, exportação 3500 kg reboque vs China-rated 1000 kg carga útil mantida mercado específico, com verificação exportador.
-- ** URL sugerida**: /veículos/jac- t9-hunter/
-- ** H1 **: JAC T9 Hunter: Diesel Pickup Specs (cama, carga útil, trem, chassi) para compradores de exportação
-- **Chave principal**: jac t9 castelhano captador especificações exportação
-- ** Termos de pesquisa secundários**: JAC T9 Hunter diesel, JAC Hantu, apanhada. T9 8AT 4x4, Rebocador de carga da JAC, China diesel captador exportação
-- ** Sugestões de ligação interna**: /guias/veículo-exportação-hs-código-classificação/; /guias/vínculo-chapéu-verificação-veículos-chinês/; /guias/combustível-combinação-veículos-china/
-- ** Sugestões de imagens**: T9 Lado Hunter com cama; dimensões do leito de carga; selector 4WD 2H/4H/4L; fechadura traseira diff; quadro do chassi
-- ** Sugestões do ALT**: "JAC T9 Hunter diesel 4x4 captador"; " T9 Padrão Hunter vs dimensões de cama longa"
+## Metadados SEO
+- **Título SEO**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
+- **Meta descrição**: JAC T9 Hunter / Hantu diesel captador — camas padrão e longas, 2.0T diesel com ZF 8AT, BorgWarner em part-time 4WD, exportação 3500 kg reboque vs China-classificado 1000 kg carga útil mantida mercado específico, com verificação exportador.
+- **H1**: JAC T9 Caçador: Diesel Pickup Specs (cama, carga útil, trem, chassi) para compradores de exportação
+- **Palavra-chave principal**: jac t9 caçador captador especificações exportação
+- **Termos de busca secundários**: JAC T9 Hunter diesel, JAC Hantu captador, T9 8AT 4x4, JAC captador reboque de carga útil, China diesel captador exportação
+- **URL sugerida**: /vehicles/jac-t9-hunter/
+- **Intenção de busca**: Compreenda JAC T9 Hunter: Diesel Pickup Specs (cama, carga útil, Drivetrain, Chassis) para Exportar Compradores: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Sugestão de imagem**: T9 Lado caçador com cama
+- **Texto ALT**: JAC T9 Caçador diesel 4x4 captador
+- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: Decisões de coleta Começar com a cama e o Drivetrain
 Para uma recolha as primeiras perguntas do exportador são comprimento da cama, carga útil, disposição de tração de quatro rodas e chassis — não infotainment. O T9 Hunter é o captador diesel de tamanho médio da JAC; na China é comercializado como o **Hantu (悍途)**. A identidade é estabelecida por **dois sites oficiais da JAC** — o site de exportação (jacen, nome " T9 ") e o site de coleta chinês (pickup.jac, nome " 悍途 Hantu") — que satisfazem MODELO_ALIAS_REQUIRES_OEM_PROOF: a determinação de identidade final é SAME_MODEL** para a família de produtos. Identidade e configuração por mercado são julgadas de forma independente, então cada figura abaixo ainda carrega seu rótulo de mercado e confiança.

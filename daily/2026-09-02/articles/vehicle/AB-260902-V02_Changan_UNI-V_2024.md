@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Changan UNI-V 2024 Specs: 1.5T/2.0T Fastback Sedan Export Guide
 - **Meta Description**: 2024 Changan UNI-V China reference specs — Blue Whale 1.5T (138 kW) and 2.0T (171 kW), 7DCT/8AT, WLTC fuel use, dimensions, and buyer verification points for importers.
-- **Suggested URL**: /vehicles/changan-uni-v/
 - **H1**: Changan UNI-V 2024 (China): Engines, Trim Differences and What Importers Should Verify
 - **Primary Keyword**: Changan UNI-V 2024 specifications export
 - **Secondary Search Terms**: Changan UNI-V 1.5T Blue Whale, UNI-V 2.0T 8AT, UNI-V WLTC fuel consumption, Changan fastback sedan export China
+- **Suggested URL**: /vehicles/changan-uni-v/
+- **Search Intent**: Understand Changan UNI-V 2024 (China): Engines, Trim Differences and What Importers Should Verify: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
-- **Image Suggestions**: side profile showing fastback roofline; engine bay 1.5T; 1.5T vs 2.0T spec card; rear diffuser/active spoiler; cabin dashboard
-- **ALT Suggestions**: "2024 Changan UNI-V compact fastback sedan side profile, China spec"; "Changan Blue Whale NE 1.5T engine bay"; "UNI-V 1.5T versus 2.0T specification table"
+- **Image Suggestion**: side profile showing fastback roofline; engine bay 1.5T; 1.5T vs 2.0T spec card; rear diffuser/active spoiler; cabin dashboard
+- **ALT Suggestion**: 2024 Changan UNI-V compact fastback sedan side profile, China spec
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## What This Car Is
 

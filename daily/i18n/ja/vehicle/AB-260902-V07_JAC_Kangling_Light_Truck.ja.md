@@ -1,14 +1,17 @@
 # JACのカーンリング(康铃)リンパオL6ライトトラック - シャーシファミリー、通知ビルドとエクスポートソーシングノート
-## ツイート メタデータ
-- ** SEO タイトル**: ジンパオ L6 ライトトラックをぶら下がる JAC の: シャーシ、GVW 及び輸入者のための運転線
-- **メタ説明**: JAC 1Ka Lingpao(カンジリング) L6 軽トラックは、シャシファミリーによって説明 — アンホイ ・ キンス 2.5 ディーゼル電力ステップ、4T/5T リアアクスル、複数のMIIT アナウンス ボディ、および正確な輸出ビルドをピン留めする方法。
-- **混雑URL**: /vehicles/jac-kangling-light-truck/
-- H1 **: JAC のカーングリング Lingpao L6: 貿易注文のためのチャッシス、通知モデルおよびSuperstructorの一致
-- **主なキーワード**: JAC Kangling Lingpao L6 light truck specifications export
-- **二次検索条件**:JAC Lingpao L6、HFC4DE3 Anhui Cummins 2.5のHFC1043の軽トラック、中国4.5t GVWのディーゼル トラック、JAC 1Kaの軽トラックの輸出、Kanglingの低下のトラック
-- **内部リンク提案**: /guides/commercial-truck-fleet-procurement-china/; /guides/import-chinese-truck-saudi-saso/; /vehicles/foton-aumark-refrigerated-truck/
-- **イメージ提案**:L6のドロップサイドビュー; 正式なシャシフレームとリアアコールレイアウト; HFC4DE3 2.5ディーゼルエンジンベイ; ドロップシド/ボックス/ステークボディの比較; シングルロー1920 mmキャブ
-- **ALTの提案**:「JAC Lingpao L6 4x2のディーゼル軽い低下のトラック」;「Lingpao L6 180 mmのシャーシ フレームおよび4T/5T後部車軸」;「アンホイCummins HFC4DE3 2.5-litreのディーゼル機関」
+## SEOメタデータ
+- **SEOタイトル**: JAC  Kangling Lingpao L6 Light Truck: 輸入車のためのシャーシ、GVW及びドライブライン
+- **メタディスクリプション**: JAC  1Ka Lingpao (Kangling) L6 light truck explained by chassis family — Anhui-Cummins 2.5 diesel power steps, 4T/5Tリア車軸、 複数のMIIT発表機関,  and  正確なエクスポートビルドをピン留めする方法。
+- **H1**: JAC  Kangling Lingpao L6: 輸出注文のためのChassis、通知モデルおよびSuperstructの一致
+- **主要キーワード**: JAC  Kangling Lingpao L6 light truck specifications export
+- **関連検索語**: JAC リンパオ L6、HFC4DE3 Anhui Cummins 2.5のHFC1043ライト トラック、中国4.5t GVWディーゼル トラック、JAC 1Kaの軽い輸出、Kanglingの低下のトラック
+- **推奨URL**: /vehicles/jac-kangling-light-truck/
+- **検索意図**: を理解する JAC リンパオ L6: 輸出注文のためのChassis、通知モデルとSuperstructをマッチング:車両/パーツの輸出業者が確認しなければならないもの、ドキュメント、注文にコミットする前に決定する必要があります。
+- **内部リンク候補**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
+- **画像候補**: L6のドロップサイドの側面図
+- **ALTテキスト**: JAC Lingpao L6 4x2ディーゼル軽い低下のトラック
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## チャシコードがL6注文される理由、モデル名ではなく
 中国のライト 商用トラックは固定乗客車指定ではないです: **Lingpao L6 (领跑 L6 の)、  sold under JAC's 1Ka 康铃 light-truck line)** is a *chassis family* that JAC builds with several engines,  two wheelbases,  two rear-axle ratings  and  多くの工場かコーチビル ボディ(低下栏板、 箱 厢式の stake 仓栅の 冷蔵冷凍  and  詳しくはこちら 各法的組み合わせは、独自の**MIITアナウンスモデル(公告型号)**と独自の曲線重量/定格ペイロードを運ぶ。 「L6」では、発表モデル、エンジンサフィックス、ボディが名前付けられるまで、何も正確でないと述べています。 このページでは、JACが商用車データベースでキャプチャされた単一の発表ビルドからプラットフォームについて公式に公開しているものを分離しています。そのため、輸入業者は名前ではなく、定義されたトラックを注文することができます。
 ## JACの公式設定表ごとのプラットホーム
@@ -65,43 +68,43 @@ Public parameter sites list one configuration at a time  and  数字が*差分�
 **GVWとは  and  payload?** The captured dropside build is 4.495 t GVW 1.735 t payload; 箱とステークビルドは、下ペイロードで重く、各体の証明書を読み取ります。
 捕捉されたディーゼルは、JAC 6-speed マニュアルを使用しており、特定の変種に高速 8-speed が表示されます。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 轻卡
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | Lingpao L6 公式設定テーブル | JAC商用車(JAC 江淮 1 卡、**メーカー公式**) | CN の | 以下は、 https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | **検証済み** | タクシー 1920、 WB 3365の フレーム 180の× 65の× 4.5の アクスル 2T/4–5T、 比率, HFC4DE3 パワーファミリー一覧 |
-| L6 HFC5043XY… box/announcement parameters | (卡车之家、商業DB) | CN の | 担当: | 2026-09-02 | CROSS_CHECKED(クロス) | 発表モデル | http://product.m.360che.com/m815/203872_param.html 360che
-| L6代表的なドロップサイドパラメータ | (卡车之家) | CN の | 担当: | 2026-09-02 | CROSS_CHECKED(クロス) | HFC1043P21K4C7S 次元、重量、車軸、ボディ、タイヤ | http://product.m.360che.com/m815/203878_param.html 360che
-| L6 Fast-8 variant line | (卡车之家) | CN の | 以下は、 | 2026-09-03 | シングル_ソース | 代わりとなる8-speed変速機、変形スプレッド | https://product.360che.com/m772/193093_index.html 360che
+| L6 HFC5043XYの特長 | 事例 | (外)事例 | CNの事例 | 担当 | 2026-09-02 | CROSS | 発表モデル | http://product.m.360che.com/m815/203872_param.html 360che
+| L6代表 辺田 徹 代表 兼 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: 担当: | 2026-09-02 | CROSS | CHECKED(クロス) | HFC1043P21K4C7S 寸法 、 最小、 車両軸 、 本体 、 タイヤ | http://product.m.360che.com/m815/203878_param.html 360che
+| L6 絶食 8 変種ライン | (株) CN の | CN の | 以下 | 2026-09-03 | ソース | | | | | | | 受注生産 8 速変速機 | 変形 | https://product.360che.com/m772/193093_index.html 360che
 *AutoBridge標準による適合: VERIFIED はメーカー/政府/規格ボディを要求します; JAC の自身のテーブルはプラットホームの事実のための棒を満たします。 360che からの詳細な非発音重量は CROSS_CHECKED から JAC 家族が、まだ正確な証明書と一致する必要があります。 価格は記載されていません。国内のリスト価格は時間感度であり、輸出図として使用されていません。 * 必須
-| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 | GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 ## 編集レビュー

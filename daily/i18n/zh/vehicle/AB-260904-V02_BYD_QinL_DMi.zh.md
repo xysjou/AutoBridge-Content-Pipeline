@@ -1,15 +1,17 @@
 # BYD 秦L DM-i(秦 L DM-i):第五代PHEV 沙隆——中国出口商品标本
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: BYD Qin L DM-i PHEV Specs & Export Guide (5th-Gen DM, ) 中华民国时期的"中国大陆"(CLTC).
-- ** 金属说明**: 中国市场BYD秦LDM-i 五原插座混合动力——1.5L专用发动机 LFP 刀锋电池10.08/15.87 kWh,80/120 km CLTC电机范围,出口商检查.
-- ** 建议的URL**:车辆/bid-qin-l-dm-i/
-- ** H1 **: BYD 秦L DM-i(第五代) 德:中马PHEV 光谱和导出注释
-- ** 关键词**: byd qin l dm- i 光谱导出
-- ** 二级搜索术语**:秦L DM-i 120km,第五代DM,BYD刀锋电池PHEV,秦L CLTC范围,秦L DM-i出口
-- ** 内部链接建议**: 指南/前期装运-un3556-imdg-compliance/; 指南/排放-燃料兼容性-钦那车辆/; 指南/出口-车辆-文件包装/
-- **图像建议**:侧面图 秦L DM-i;充电端口;刀形电池底板图;120km徽章;后舱
-- **ALT建议**:"BYD秦LDM-i第五代PHEV轿车";"秦LDM-i 15.87kWh刀锋电池120km CLTC".
+## SEO元数据
+- **SEO标题**: BYD 秦L DM - i PHEV 谱谱与出口指南(5th-Gen DM,),                                                                                                                           in in in in in   in i in in in in i in in in in in in in in i in in in in in in in in in in in in in in in in in in in in in in in i in in in in in in in    CLTC )
+- **Meta描述**: Chinese-market  BYD  Qin L  DM -i fifth-gen plug-in hybrid — 1.5L dedicated engine, LFP 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 刀锋电池10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  出口者检查。
+- **H1**: BYD  Qin L  DM -i (Fifth-Generation  DM ): 中国市场PHEV 光谱和导出注释
+- **核心关键词**: byd qin l dm- i 光谱导出
+- **次级搜索词**: Qin L  DM -i 120km, 第五代DM号 BYD 维基月球 刀锋电池PHEV,  Qin L  CLTC  range, 秦 L DM (单位:千美元) -i 导出
+- **建议URL**: /vehicles/byd-qin-l-dm-i/
+- **搜索意图**: Understand  BYD  Qin L  DM -i (Fifth-Generation  DM ): 中国市场PHEV 光谱和导出注释: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
+- **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **图片建议**: 侧面图 秦 L DM-i
+- **ALT文本**: BYD 秦L DM 秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  -我第五代PHEV轿车
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景: 读取 以PHEV,不是EV和常规混合体
 秦LDM-i型是中式插座混合型沙龙,以BYD**第五代DM**建筑为基础. 输出者最常以一种方式误处理这款车:将两种电池版本视为可互换. 这两辆80 km型和120 km型电动车的电池容量不同,使用量也不同。 本页面记录**中国市场线(REFERENCE MAKET: CHINA)**;没有BYD海外规格页面被捕获,因此这里的任何内容都不应该作为全球或目的地的规格来显示.
@@ -31,7 +33,7 @@
 一个PHEV购买者需要四个答案,顺序是:**发动机,驱动电动机,电池,充电/操作模式**. 在此,专用1.5L发动机主要通过单速DHT生成/辅助驱动;驱动器在电动模式和混合模式之间切换,而不是转向架. 在每个命令行上将电池版本匹配到电场.
 
 ## 范围要求——保持制造商标签附着
-- The 80/120 km figures are **CLTC** electric range.
+- 80/120公里的数字是**CLTC**电距。
 - 头条数字加起来大约**2100 km,装满坦克和满载**,在中国的覆盖中作为**制造商声称**号出现. 它必须贴上工厂索赔的标签,绝不作为衡量结果提出,它与目的周期数字不相上下。
 
 ## 身体和小屋
@@ -74,16 +76,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+- ** ** 自动桥出口-买方参考——BYD 秦L DM-i,插座混合动力车轿车
+- **法国**: 出口切除器自动桥-BYD 秦L DM-i,可补给泊车
+- DE**: 国家 自动桥-Referenz für Exportkäufer — BYD 秦L DM-i,插座-Hybridfahrzeug 利摩斯语
+- **ES**: 出口控制中心(BYD Qin L DM-i, vehículo híbrido enchuflina)
+-  **: 出口控制中心(BYD Qin L DM-i, veículo híbrido 插件塞达)
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
   - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+- 身份证**: 参考文献 自动桥 untuk pembeli ekspor — BYD 秦L DM-i, kendaraan 混合插座轿车
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 

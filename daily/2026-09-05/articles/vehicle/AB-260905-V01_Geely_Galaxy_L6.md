@@ -7,8 +7,10 @@
 - **Primary Keyword**: Geely / 吉利银河 Galaxy L6 / 银河L6 specs export
 - **Secondary Search Terms**: Geely Galaxy L6 export; Galaxy L6 EM-i PHEV specs; Chinese PHEV sedan import; EM-i single-speed DHT; CLTC vs WLTP range
 - **Suggested URL**: /vehicles/geely-galaxy-l6/
-- **Search Intent**: 了解 Geely / 吉利银河 Galaxy L6 / 银河L6 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: Understand Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification, no staged inspection or people claimed.
+- **ALT Suggestion**: Close, natural view of materials and the subject related to Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification, neutral background, no people or inspection action shown.
 - **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
 
 ## Buyer context and model identity

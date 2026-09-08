@@ -1,16 +1,16 @@
 # Exportgüter in China zurück: Die Ein-Jahres-Duty-Befreiung und der separate sechsmonatige E-Commerce-Track
-## SEO Metadaten
-- **SEO Titel**: China gab Exportwaren Zollbefreiung zurück (Einjahres- und CBEC-Regeln)
-- **Meta Description**: Wenn chinesische Exportwaren innerhalb eines Jahres aus Qualitäts- oder Spezifikationsgründen wieder zollfrei nach GACC Order 272 zurückgegeben werden, ist die separate grenzüberschreitende E-Commerce-Sechsmonatsregel und der "Originalstaat" erforderlich.
-- ** H1 **: Exportgüter in China zurückgeben: Die Ein-Jahres-Duty-Befreiung und der separate sechsmonatige E-Commerce-Track
-- ** Primäres Keyword**: Export Returned Goods Tax Libertaire Regulation China
-- **Secondary Search Terms**: 退运货物免税; GACC Bestellung 272 Artikel 49; Exportgüter ein Jahr zurückgegeben; grenzüberschreitender E-Commerce zurückgegebene Waren sechs Monate; Originalstaats-Reimport
-- **Vorgeschlagene URL**: /guides/export-returned-goods-duty-freety-regulation/
-- **Search Intent**: 出口退运货物一年内原状复运进境免税规则与跨境电商6个月退运的区别、原状认定与已退税补缴
-- **Interne Linkvorschläge**: /guides/cross-border-ecommerce- b2b-export-9710-9810/, /guides/Customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
-- **Bildvorschlag**: Ein zurückgegebenes Ausfuhrfahrzeugteil wird mit seinen Original-Ausfuhrunterlagen inspiziert
-- **ALT Suggestion**: Rücksendung von Fracht unter Kontrolle neben dem Original-Ausfuhrerklärungspapier
-- **Schema-Scope**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+## SEO-Metadaten
+- **SEO-Titel**: China Returned Export Goods Duty Exemption (One-Year &  CBEC  Rules) | AutoBridge
+- **Meta-Beschreibung**: Wenn chinesische Ausfuhrwaren innerhalb eines Jahres aus Qualitäts- oder Spezifikationsgründen wieder zollfrei unter GACC eingeführt werden Order 272, die separate grenzüberschreitende E-Commerce-Sechsmonatsregel und was "Originalstaat" verlangt.
+- **H1**: Exportgüter in China zurück: Die Ein-Jahres-Duty-Befreiung und der separate sechsmonatige E-Commerce-Track
+- **Haupt-Keyword**: Ausfuhrrückwaren Befreiungsverordnung China
+- **Sekundäre Suchbegriffe**: 退运货物免税; GACC Order 272 Artikel 49; ein Jahr lang zurückgegebene Ausfuhrwaren; grenzüberschreitende E-Commerce-Rücksendungen von Waren sechs Monate; Originalstaat Wiedereinfuhr
+- **Vorgeschlagene URL**: /guides/export-returned-goods-duty-exemption-regulation/
+- **Suchabsicht**: Verstehen Sie zurückgegebene Exportgüter in China: Die Ein-Jahres-Steuerbefreiung und der separate sechsmonatige E-Commerce-Track: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
+- **Bildvorschlag**: Ein zurückgegebenes Ausfuhrfahrzeugteil wird anhand seiner Originalausfuhrunterlagen überprüft
+- **ALT-Text**: Rücksendung von Fracht unter Kontrolle neben dem Original der Ausfuhranmeldung Papierkram
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 Wenn exportierte Waren nach China zurückkehren - eine abgelehnte Charge von Teilen, ein Fahrzeug, das die Zielannahme nicht bestanden hat, unverkaufte E-Commerce-Aktien - ist die Standardannahme, dass Reimport ein steuerpflichtiges Ereignis ist. Chinesische Zollvorschriften bieten eine spezifische Ausnahme, aber es ist eng davon abhängig, warum die Waren zurücksenden, wie lange sie im Ausland waren und ob sie in ihrem ursprünglichen Zustand zurückkehren. Exporteure, die keine Bedingungen erfüllen, zahlen Einfuhrzölle und Steuern auf Waren, die sie ursprünglich in China hergestellt haben. Dieser Leitfaden trennt die allgemeine Ein-Jahres-Regel von der eindeutigen grenzüberschreitenden E-Commerce-Sechs-Monats-Track, erklärt "Originalstaat" und Flaggen, wo ein Rabatt bereits geltend gemacht werden muss zurückgezahlt werden.
 

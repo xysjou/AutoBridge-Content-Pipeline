@@ -6,7 +6,7 @@
 - **Primary Keyword**: ISPM 15 wood packaging export treatment mark
 - **Secondary Search Terms**: ISPM 15 mark; IPPC wood packaging; heat treated pallet export; MB fumigation wood packaging; wood packaging registration China customs
 - **Suggested URL**: /guides/ippc-ispm15-wood-packaging-export/
-- **Search Intent**: 车辆出口所用木箱/木托盘/垫木如何按IPPC ISPM-15完成除害处理并加施标识，避免目的国退运
+- **Search Intent**: Understand ISPM-15 Wood Packaging for Vehicle Export: Treatment and the IPPC Mark: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
 - **Image Suggestion**: A heat-treated export crate with the IPPC ISPM-15 mark, holding a knocked-down vehicle part
 - **ALT Suggestion**: Export wooden crate showing the IPPC treatment mark beside a packed vehicle component

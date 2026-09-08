@@ -1,14 +1,17 @@
 # Giới hạn Nhập chứng nhận Phi Châu: Một ma trận nhập khẩu quốc gia theo định dạng
-## SAO Siêu dữ liệu
-- **SEO Title**: Africa-Car Import Ages by National: Kenya & Nigeria Đã tạo
-- **Meta Mô tả**: Châu Phi từng quốc gia một sử dụng xe hơi, lái và kiểm tra cổng — Kenya (8 năm từ lần đăng ký đầu tiên) và Nigeria (15 năm từ sản xuất) giờ đã được đặt trước các nguồn chính, các thị trường khác được đánh dấu để xác thực chính thức.
-- ** URL đã gợi ý**: /guides/africa-car-import-age-bounds/
-- ** H1 **: Thời đại xe hơi sử dụng giới hạn qua các thị trường Châu Phi: ma trận được xây dựng để được sinh ra, không phải ghi nhớ
-- **Cumpary Keyword**: africa sử dụng độ tuổi nhập khẩu xe hơi giới hạn bởi quốc gia ma trận
-- **Secondary Search Wordss**: Kenya sử dụng tuổi xe hơi giới hạn 8 năm đầu tiên đăng ký xe hơi, nhập khẩu xe hơi 15 năm, Ethiopia sử dụng lệnh cấm xe hơi, nhập khẩu Ghana, tuổi lái xe, hạn chế xe cộ Sudan, Côte d'C, KEBS DKS 1515
-- **I nội bộ Link gợi ý: /guides/vehle-coc-approval-Bilter /guides/childa-ecle-ex-ex-cense-cis-Dient-doc-doc-dotttttt/ /guides/
-- **Image gợi ý**: bàn ma trận quốc gia; sản xuất năm chống lại dòng thời gian đầu tiên của năm; biểu đồ đường chính thức xác
-- **LT gợi ý**: "Arican sử dụng tuổi xe giới hạn ma trận xác thực," "năm kiến trúc so với năm đăng ký đầu tiên"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Phi Châu dùng-Car Import lesss by National: Kenya & Nigeria Đã tạo
+- **Meta mô tả**: Châu Phi từng quốc gia một sử dụng xe hơi, lái và kiểm tra cổng — Kenya (8 năm từ lần đăng ký đầu tiên) và Nigeria (15 năm từ sản xuất) giờ đã được đặt trước các nguồn chính, các thị trường khác được đánh dấu để xác thực chính thức.
+- **H1**: Thời đại xe cộ bị hạn chế qua các thị trường Châu Phi: một ma trận được xây dựng để được làm đẹp, chứ không phải để nhớ
+- **Từ khóa chính**: africa sử dụng thời gian nhập khẩu xe giới hạn bởi quốc gia ma trận
+- **Cụm tìm kiếm phụ**: Kenya sử dụng tuổi xe hơi giới hạn 8 năm đăng ký lần đầu tiên, Xe hơi nhập khẩu 15 năm, Ethiopia đã sử dụng lệnh cấm xe, Hàng nhập khẩu Ghana OBD, Thời kỳ lái xe ở Mozambique, Giới hạn tuổi sử dụng xe hơi Sudan, CoC của CoC, KEBS DKS 1515
+- **URL đề xuất**: /guides/africa-used-car-import-age-limits/
+- **Ý định tìm kiếm**: Hiểu được hạn chế sử dụng-Clid Ages qua các thị trường Châu Phi: một ma trận được xây dựng để được làm đẹp, không phải thuật toán: những gì một người xuất khẩu xe/ phần phải xác nhận, tài liệu và quyết định trước khi thực hiện một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Gợi ý hình ảnh**: bảng ma trận quốc gia
+- **Văn bản ALT**: Phi Châu dùng thời đại xe hơi giới hạn ma trận xác thực
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
+
 ## Đọc bằng chứng được khắc trên bảng
 Giới hạn tuổi tác thay đổi, được thực hiện khác nhau bởi các cảng, và thường xuyên bị trích dẫn sai trong các bản tóm tắt chuyển hàng. This page separates **two evidence tiers**. **Kenya và Nigeria giờ đây được thả neo để đến nguồn chính** (một cơ quan có thẩm quyền/ năm năm năm và một cơ quan tiêu chuẩn) và các tiêu chuẩn khác được ghi dưới đây. ** Mỗi hàng xóm nước khác vẫn còn là một báo cáo có giá trị từ tài liệu tiền tuyến/ y tế** và được đánh dấu để xác thực chính thức — nó không được ghi nhận như là sự thật đã được giải quyết. Không có quy tắc nào của vùng "Africa" đơn giản: Mỗi quốc gia đặt ra một nền tảng về tuổi tác, điều khiển và kiểm tra cổng, và một tiêu đề "X năm" mà không có cơ sở đó thì không an toàn.
 ## Thứ nhất: biết "Age" là gì không?

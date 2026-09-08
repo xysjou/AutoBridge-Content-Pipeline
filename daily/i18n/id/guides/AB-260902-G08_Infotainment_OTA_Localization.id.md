@@ -1,14 +1,17 @@
 # Cine- Mobil Infotainment, Apps dan OTA Luar Negeri: Panduan Lokalisasi Per- VIN
-## SEO Metadata
-- ** Judul SEO **: Cinese- Infotainment Mobil & OTA Di Luar Negeri: Per- VIN Periksa Panduan
-- ** Meta Description **: Apakah unit kepala China-spec bekerja di pasar Anda? Verifikasi bahasa UI, peta lokal, pantulan telepon, aplikasi server dan OTA pada VIN yang sebenarnya - dengan fakta-fakta yang spesifik tetap terpisah dari contoh-contoh industri.
-- ** Sugested URL **: guide cinese- car-infotainment -ota- lokalisasi
--   H1 **: Membuat sebuah Perangkat Lunak Mobil Cina di Pasar Anda: Apa yang harus Diuji pada Mobil Actual
-- ** Primary Keyword **: Mobil Cina infotainment bahasa Inggris OTA lokalisasi luar negeri per VIN
-- ** Akhir Pencarian Second **: China-spec kepala unit bahasa Inggris UI, BYD DiLink luar negeri, peta EV Cina di luar negeri, CarPlay Android Auto CINA, Daerah server OTA, Arab RTL HMI, ekspor-versi perangkat lunak membangun
-- *** Internal Link Sugestions **: guide cinese- v- charging-standard- compatibility guiders right- hands-drives -chinese-cars guide verify-china -charports-suppliers
-- *** Saran Gambar **: Cinese- hanya vs Inggris HMI; lima cek perangkat lunak; Domestik vs ekspor stack perangkat lunak; diagram daerah-OTA server-
-- ** AlT Sugestions **: "China- spec unit kepala bahasa"; "lima pemeriksaan lokalisasi infotainment"; "Domestik versus ekspor perangkat lunak stack"
+## Metadata SEO
+- **Judul SEO**: Cina - Infotainment Mobil & OTA Abroad: a Per- VIN Periksa Panduan
+- **Deskripsi Meta**: Apakah unit kepala China-spec bekerja di pasar Anda? Verifikasi UI bahasa, peta lokal, pantulan telepon, aplikasi / server reachability dan OTA pada VIN aktual - dengan brand-spesifik fakta tetap terpisah dari contoh industri.
+- **H1**: Membuat sebuah Mobil Cina Perangkat Lunak Work di Pasar Anda: Apa yang harus Diuji pada Mobil Actual
+- **Kata kunci utama**: Mobil Cina infotainment Inggris OTA lokalisasi luar negeri per VIN
+- **Istilah pencarian sekunder**: China- Spec unit kepala Inggris UI, BYD DiLink luar negeri, peta Cina EV luar negeri, CarPlay Android Auto CINA, OTA daerah server, Arab RTL HMI, pembuatan perangkat lunak versi
+- **URL yang disarankan**: /guides/chinese-car-infotainment-ota-localization/
+- **Maksud pencarian**: Memahami Membuat Mobil Cina Perangkat Lunak Bekerja di Pasar Anda: Apa yang harus Diuji pada Mobil Actual: apa yang eksportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- **Saran gambar**: Chines-hanya vs Inggris HMI
+- **Teks ALT**: Pengaturan kepala unit bahasa Cina-spec
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
+
 ## Disiplin Bukti Panduan ini Mengikuti
 Perilaku perangkat lunak adalah ** brdan- dan VIN-specific **, sehingga halaman ini sengaja memisahkan dua jenis pernyataan:
 - ** Merek model-fakta spesifik ** - ini hanya dapat diselesaikan pada VIN tepat melalui saluran luar negeri merek atau tes langsung; mereka tidak pernah dianjurkan dari model lain.
@@ -55,18 +58,18 @@ vendor Lokalisasi memiliki insentif untuk mengatakan setiap masalah dapat diperb
 ** Apakah reflashing aman? ** Pencitraan tidak sah dapat membatalkan garansi dan meningkatkan masalah kepatuhan; lebih suka membangun ekspor pabrik atau rute yang didukung brand-.
 ** Apakah UI Inggris membuatnya arabic-siap? ** Tidak - Arab membutuhkan tata letak RTL dan lokalisasi yang tepat di luar terjemahan.
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,14 +1,16 @@
 # Farizon Xingxiang V6E شاحنة نقل كهربائية (باتري-يال) 6 متر مكعب من طراز Load Bay  and  (أ) تصدير توركيي
-## SEO Metadata
-- ** عنوان الحلقة**: Farizon V6E شاحنات التصدير الخاصة بفان سبيك
-- ** وصف البيانات**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh 260 km قاعدة مقابل بناء أكثر من 51 kWh حدّه 90 km/h  and  (أ) شحنة مسجلة من الاتحاد الأوروبي - سبيك توركيي.
-- ** URL المقترض**: /مركبات/farizon-xingxiang- v6e-specs/
-- ** H1 **: فاريزون شينغكسيانغ V6E (مريخ الصين): كهرباء شاحنة نفاثة والتحقق من الصادرات
-- ** كلمة رئيسية**: farizon v6e electric cargo van specs
-- ** محطات البحث الثانية**: مسافات مركب Xingxiang V6E، شاحنة توصيل كهربائية فيريزون، 6m3 شاحنة كهربائية، V6E 35.2 kWh، فاريزون تصدير توركيي، شاحنة لوجستيات المدن الكهربائية
-- ** Internal Link Suggestions**: /vehicles/saic-maxus- v90-specs/; /vehicles/byd-dolphin/;guides/ev-shipping- un3171-imdg-compliance/
-- ** اقتراحات تتعلق بالشحن**: خليج الشحنات ذات الأبعاد؛ وباب التحميل الجانبي؛ وتركيب ورف مركب الورق؛ ودفعة التصدير المشتركة بين الاتحاد الأوروبي والاتحاد الأوروبي
-- ** الاقتراحات**: "Farizon V6E six cubic metre electric cargo van"; "V6E درجة بطارية ودرجة"
+## بيانات SEO الوصفية
+- **عنوان SEO**: Farizon V6E شاحنات التصدير الخاصة بفان سبيك
+- **وصف Meta**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh / 260 km قاعدة مقابل بناء أكثر من 51 kWh حدّه 90 km/h  and  (أ) شحنة مسجلة تبلغ EU - سبيك توركيي.
+- **H1**: Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs and Export Verification
+- **الكلمة المفتاحية الرئيسية**: farizon v6e electric cargo van specs
+- **مصطلحات بحث ثانوية**: Xingxiang V6E range, Farizon electric delivery van, 6m3 electric van, V6E 35.2 kWh, Farizon تصدير توركيي، شاحنة لوجستيات المدن الكهربائية
+- **URL المقترح**: /vehicles/farizon-xingxiang-v6e-specs/
+- **نية البحث**: (أ) أن تفهم فاريزون شينغكسيانغ V6E (المريخ الصيني): كهرباء Cargo Van Specs والتحقق من الصادرات: ما يجب على مصدر المركبات/الأجزاء أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **اقتراح الصورة**: بضائع ذات أبعاد
+- **نص ALT**: Farizon V6E six cubic metre electric cargo van
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
 ## "أغلقوا "السنة البطارية قبل أي شيء
 "الـ "إكسينج سيغ V6E" هي "فاريزون" (مركبة (جيلي) التجارية" والأكبر مخاطرة في المواصفات هي السنة النموذجية: فالبناء الأساسي يستخدم مجموعة من الـ 35.2 kWh ** بينما يستخدم المتجدد حوالي 51 kWh **، ويتغير النطاق تبعا لذلك. طلب شراء يقول فقط "V6E" يمكن ملئه أيضاً وتغطي هذه الصفحة السوق الصينية رقم V6E ** (REFERENCE MARKET: CHINA)** وتبقي القاعدة والأحدث مبنيين منفصلين.
@@ -52,40 +54,40 @@
 ** أي محرك يستخدمه؟ ** محرك ثابت من طراز Wolong-ZF TZ185XS022، 60 kW 220 N·m.
 
 ## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | كشف V6E (حد أقصى قدره 0–50/speed) | دار | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | صرخات | 60 kW 220 N·m, 90 km/h limit, leaf-spring axle |
-| V6E EU-spec export to Türkiye (6 m³) | الصين أخبار (وسائط إخبارية صناعية) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | صرخات | Feb- 2024 EU-spec Türkiye batch, 6 متر مكعب (سجل الأخبار، (أ) ليس مكتب الشؤون لا يُصدّقُ |
+| V6E EU-spec export to Türkiye (6 m3)) optim (Mosres) CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | صرخات | Feb- 2024 EU-spec Türkiye batch, 6 متر مكعب (سجل الأخبار، (أ) ليس مكتب الشؤون لا يُصدّقُ |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | صرخات | قاعدة، حجم البضائع |
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
+| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 

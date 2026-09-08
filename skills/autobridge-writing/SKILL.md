@@ -1,6 +1,6 @@
 ---
 name: autobridge-writing
-version: 1.1
+version: 1.2
 role: AutoBridge Export Writing & Localization AI
 description: >
   根据 AutoBridge Research Fact Sheet / Source Log 完成采购型汽车文章、12语完整正文、
@@ -553,9 +553,11 @@ TITLE_META_H1_GATE
 ALT_GATE
 INTERNAL_LINK_GATE
 PUBLIC_WORKFLOW_TEXT_GATE
+SEMANTIC_LOCALIZATION_QUALITY_GATE
+PUBLIC_FIELD_VALUE_ONLY_GATE
 ```
 
-机器检查只证明机器规则，不等于 Human Reviewed。
+机器检查只证明机器规则，不等于 Human Reviewed，也不等于语言自然（见 §24A：`MACHINE_LOCALE_QA_PASS ≠ LANGUAGE_QUALITY_PASS`）。URL slug 必须逐字保留英文规范路径，禁止翻译。
 
 ---
 
@@ -601,6 +603,50 @@ AR
 常见风险：双标点、英语术语残留、机器语序、数字断裂、过度压缩、模板段、RTL 标点问题。
 
 不得只依赖机器 PASS。
+
+---
+
+## 24A. 语义本地化与公共字段纯净（Review-confirmed 永久规则 v1.2）
+
+独立 Review 已确认：deterministic / Argos 机器 Locale QA 存在**假阴性**——机器规则 PASS（目标文字比例、数字一致、URL 一致、行数对齐）并不代表语言自然、字段纯净。因此新增三个永久 Gate。
+
+### SEMANTIC_LOCALIZATION_QUALITY_GATE
+
+```text
+MACHINE_LOCALE_QA_PASS ≠ LANGUAGE_QUALITY_PASS
+```
+
+机器门只校验结构与原子事实；语义门必须逐页真实阅读并清除：
+
+- 非目标语言整句残留（中文 Search Intent 留在 FR/DE/…、英文整段留在 JA/KO/TH/AR/ZH）。
+- 字段名被一起翻译、Markdown `**` / `~` / `""` 进入字段值。
+- 错误词义、机器直译语序、不自然 FAQ、中英目标语混杂。
+- 纯大写法规/车型缩写被机翻改形（EAEU→UEA、OTTC→OTT）：全大写缩写与型号代码必须逐字保留。
+- 目标语言 ALT/Meta/H1/Title 必须是自然目标语，除品牌/型号/技术缩写（VIN、EV、PHEV、CLTC、HS、UN3556 等）外不得混入不必要英文。
+
+语义修订后最多记录 `AI_LANGUAGE_QA=PASS`；不得写 `PROFESSIONAL_LOCALIZATION=PASS`，`HUMAN_REVIEWED` 保持 false。
+
+### PUBLIC_FIELD_VALUE_ONLY_GATE
+
+面向公共渲染的字段值只保存“真正的值”，不得携带生产字段标签或 Markdown 包裹：
+
+适用字段：`ALT / Caption / Meta Description / Card Summary / H1 / Title`。
+
+```text
+错误: **ALT Suggestion**: Open IPR recordation folder ...
+错误: ** ALT建议 **: ...
+错误: アルト 提案**: ...
+正确: Open IPR recordation folder ...（纯值，无标签、无 **、无 ~、无引号串）
+```
+
+- 任何目标语言都不得把 `ALT Suggestion / Meta Description / Search Intent / Schema Scope / Image Suggestion` 等生产字段标签翻译进公共值。
+- ALT/Caption 只描述图片真实可见内容，单句、自然，不虚构地点/检测/经验/年款；多候选（分号或多组引号）收敛为一句。
+- `Suggested URL` 与 `Internal Link Suggestions` 的 slug 必须逐字保留英文规范路径，**禁止机器翻译 slug**（如 `/guides/vérifier-...`、slug 内空格/断词一律判 FAIL）。
+- 公共字段值里出现字段标签、Markdown 符号、被翻译的 URL slug，即 `PUBLIC_FIELD_VALUE_ONLY_FAIL`，机器 100 分不能覆盖。
+
+### MACHINE_QA_NON_AUTHORITATIVE_FOR_LANGUAGE
+
+任何基于 target-script ratio、数字一致、URL 一致、行数对齐的自动 PASS，都不能作为最终语言质量结论。语义门未逐页过，不得声明语言完成。元数据（Title/Meta/H1/ALT）QA 不等于全文 QA，两者都必须过语义门。
 
 ---
 
@@ -783,6 +829,9 @@ NUMERIC_FORMAT_FAIL=0
 CARD_SUMMARY_DUPLICATION_FAIL=0
 CONTROLLED_PATCH_CLOSURE_FAIL=0
 OFFICIAL_SOURCE_COUNT_ERRORS=0
+SEMANTIC_LANGUAGE_QA_FAIL=0
+PUBLIC_FIELD_VALUE_ONLY_FAIL=0
+TRANSLATED_SLUG_FAIL=0
 ```
 
 其中 `OFFICIAL_SOURCE_COUNT_ERRORS` 统计把非 T1（或 T1 但 scope 不匹配）来源误计入 official 的条数；`CONTROLLED_PATCH_CLOSURE_FAIL` 统计“补源后未闭环回写 / BLOCKED 事实被写成确定结论”的篇数。任一真实失败不得伪装成 0。

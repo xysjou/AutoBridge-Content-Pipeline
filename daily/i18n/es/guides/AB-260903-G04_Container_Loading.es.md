@@ -1,14 +1,16 @@
 # Carga Carros En un Contenedor de 40HQ: Cuentas que Dependen de un Plan de carga, y Lashing que sostiene en el mar
-## SEO Metadatos
-- **SEO Title**: ¿Cuántos? Coches ¿Encaja en un 40HQ? Carga de contenedores " Guía de lavado "
-- **Meta Descripción**: Una guía práctica de carga de vehículos 40HQ — típica 2-SUV sistemas de carga sin cubierta vs 4-vehicle de doble cubierta, ~ 8 tirantes por coche en neumáticos, secuencia de carga y un control de estiba de cinco puntos antes del sello.
-- ** URL agregada**: /guides/container-vehicle-loading-lashing/
-- ** H1 **: Carga y encogimiento del vehículo de contenedores: Condes, Racks, Secuencia y Pre-Seal Checks
-- **Primary Keyword**: cuántos coches caben 40hq contenedores cargando lavado
-- **Secondary Search Terms**: 40HQ dos SUV, contenedor de doble cubierta de carril, tirantes de cierre de vehículos de rueda de sujeción, RoRo a conversión de contenedores, secuencia de carga de contenedores
-- **Sugerencias de Enlace Interno**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
-- **Sugerencias de imagen**: diagrama de estiba de visión lateral; puntos de lavado de ruedas; doble bastidor de salida; arriba + pedido de carga de átomo
-- **ALT Sugerencias**: "40HQ dos estuche lateral SUV"; "la rueda de ruedas laring ocho correas"
+## Metadatos SEO
+- **Título SEO**: ¿Cuántos coches ¿Encaja en un 40HQ? Carga de contenedores " Guía de lavado "
+- **Meta descripción**: Guía práctica de carga de vehículos 40HQ — típica 2- SUV sistemas de carga sin cubierta vs 4-vehicle de doble barra, ~ 8 tiras por coche en neumáticos, secuencia de carga y un control de estiba de cinco puntos antes del sello.
+- **H1**: Carga y encogimiento de vehículos de contenedores: Condes, Racks, Secuencia y Pre-Seal Checks
+- **Palabra clave principal**: cuántos coches caben 40hq contenedores cargando lavado
+- **Términos de búsqueda secundarios**: 40HQ dos SUV, doble contenedor de cubierta de carcasa, tirantes de cierre de vehículos de la rueda atar, RoRo a conversión de contenedores, secuencia de carga de coche contenedor
+- **URL sugerida**: /guides/container-vehicle-loading-lashing/
+- **Intención de búsqueda**: Comprender el vehículo de contenedores carga y lavado: Condes, Racks, Secuencia y Pre-Seal Checks: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
+- **Sugerencia de imagen**: diagrama de estiba lateral
+- **Texto ALT**: 40HQ dos SUV puntos laterales
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## La pregunta que todos hacen primero
 "¿Cuántos coches en un 40HQ?" no tiene respuesta universal — es una función de ** dimensiones de vehículos, espejo de desplazamiento, sistema de rack y el plan de estiba aprobado por el transportista**. Esta guía da bandas realistas y el método; deliberadamente no promete un recuento fijo. Confirme cada envío contra un plan de carga medido real.
@@ -60,18 +62,18 @@ Un EV/hibrid dentro de un contenedor todavía lleva una batería de tracción: s
 **¿Qué se revisa antes de sellar las puertas?** Mercancías/listas, orden, centro de gravedad y limpieza, aseguramiento completo y margen de puerta, con fotos.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf

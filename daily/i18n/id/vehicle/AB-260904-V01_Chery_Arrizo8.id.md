@@ -1,15 +1,17 @@
 # Chey Arrizo 8 (艾瑞泽 8): sebuah Cinese- Pasar 1.6T Lembar Spec Saloon untuk Ekspor Pembeli
 
-## SEO Metadata
-- ** Judul SEO **: Chey Arrizo 8 Specs & Ekspor Panduan Pembeli (1.6TGDI, China Referensi)
-- ** Meta Description **: Cinese- pasar Chey Arrizo 8 - 1.6T Kunpena 145 kW 290 N·m, 7DCT, 4780 mm tubuh, perbedaan trim yang penting, dan apa penting memverifikasi sebelum memesan.
-- ** Sugesti URL **: / kendaraan / chery- arrizo- 8/
--   H1 **: Chey Arrizo 8: Cinese- Specifications Market dan Ekspor Catatan Verifikasi
-- ** Primary Keyword **: chey arrizo 8 ekspor spesifikasi
-- "batas akhir pencarian kedua" "Arrizo 8 1.6TGDI, Chey Arrizo 8 dimensi, 艾瑞泽 8 ekspor, Kunpeng SQRF4J16, ekspor sedan Cina
-- ** Internal Link Sugestions **: guide vin-plates -verification -chinese- kendaraan guide emision- fuel-compatibility -chin- kendaraan guide exports -methogments -documents paket
-- ** Sugesti Gambar **: depan tiga perempat Arrizo 8; mesin meliputi 1.6TGDI lencana; belakang kabin ruang kaki; 7DCT selector
-- "Chey Arrizo 8 1.6TGDI" Cina - pasar sedan ";" Arrizo 8 dimensi 4780mm roda 2790mm "
+## Metadata SEO
+- **Judul SEO**: Chey Arrizo 8 Specs & Ekspor Panduan Pembeli (1.6TGDI, China Referensi)
+- **Deskripsi Meta**: Pasar-Cina Chey Arrizo 8 - 1.6T Kunpena 145 kW / 290 N·m, 7DCT, 4780 mm tubuh, perbedaan trim yang penting, dan apa penting memverifikasi sebelum memesan.
+- **H1**: Chey Arrizo 8: Cinese- Specifications Pasar dan Expor Catatan Verifikasi
+- **Kata kunci utama**: chery arrizo 8 ekspor spesifikasi
+- **Istilah pencarian sekunder**: Arrizo 8 1.6TGDI, Chey Arrizo 8 dimensi, 艾瑞泽 8 ekspor, Kunpeng SQRF4J16, Cina compact sedan ekspor
+- **URL yang disarankan**: /vehicles/chery-arrizo-8/
+- **Maksud pencarian**: Memahami Chey Arrizo 8: Spesialisasi Pasar dan Catatan Verifikasi Ekspor: apa yang sebuah eksportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- **Saran tautan internal**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
+- **Saran gambar**: front three-quarter of Arrizo 8
+- **Teks ALT**: Chey Arrizo 8 1.6TGDI Sedan pasar
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Bidang Terdekat di atas Lapangan Mobil
 Arrizo 8 adalah salon Chey, berukuran antara bidang kompak dan B-segmen tradisional dan bernada pada pembeli yang ingin lebih ruang belakang daripada sedan entri. Untuk sebuah exportir, pertanyaan pembuka bukanlah harga tapi ** yang garis powertrain sedang dikutip **: Jangkauan Cina dibangun sekitar sebuah turbo 1.6-litre, dan halaman ini dokumen ** 1.6TGDI Dinese- mobil pasar (REFERENCE MARKET: CHINA) **. Setiap nomor di bawah ini adalah ** Spesifikasi referensi pasar Cinese- *, bukan spesifikasi global - lagu tujuan, homologasi dan peralatan emisi diatur oleh pasar lokal, dan tidak ada lembar spesifikasi OEM luar negeri yang ditangkap untuk model ini dalam paket penelitian.

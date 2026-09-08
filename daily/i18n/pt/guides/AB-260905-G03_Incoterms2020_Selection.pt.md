@@ -1,15 +1,17 @@
 # Escolha dos incotermos 2020 na exportação de veículos chineses — atribuição de riscos e custos
 
-## SEO Meta- dados
-- ** Título SEO**: Incoterms 2020 Guia de Seleção para Exportação de Veículos: FOB, CIF, FCA, CIP, DDP e Mais
-- ** Descrição do Meta**: Escolha a regra certa Incoterms 2020 para uma remessa de veículos: onde o risco e a transferência de custos, somente para o mar versus termos multimodais, seguro sob CIF/CIP, e por que DDP maximiza o fardo do vendedor.
-- ** H1 **: Escolha dos incotermos 2020 na exportação de veículos chineses — Atribuição de risco e custos
-- **Chave Primária**: incoterms 2020 guia de seleção
-- ** Termos de pesquisa secundários**: Incoterms 2020; FOB vs FCA; CIF vs CIP; Risco DDP; Termo multimodal; Transferência de risco
-- ** URL sugerido**: /guides/incoterms- 2020-selection-guide/
-- **Intenção de pesquisa**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语, 明确风险转移点与费用 保险责任
-- ** Ligações internas Sugestões**: /guias/exportações-pagamento-métodos-t-t-t-lc-risco/, /guias/marinho-carga-seguro-história/, /guias/quina-exportação-customs-declaração-única-janela/
-- **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
+## Metadados SEO
+- **Título SEO**: Incoterms 2020 Guia de Seleção para Exportação de Veículos: FOB, CIF, FCA, CIP, DDP e mais
+- **Meta descrição**: Escolha a regra certa Incoterms 2020 para uma transferência de veículos: onde o risco e a transferência de custos, apenas para o mar versus termos multimodais, seguro abaixo de CIF/CIP, e por que DDP maximiza o fardo do vendedor.
+- **H1**: Escolha dos incotermos 2020 na exportação de veículos chineses — atribuição de riscos e custos
+- **Palavra-chave principal**: Incoterms 2020 guia de seleção
+- **Termos de busca secundários**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risco; termo multimodal; transferência de risco
+- **URL sugerida**: /guides/incoterms-2020-selection-guide/
+- **Intenção de busca**: Entender a escolha dos incoterms 2020 na exportação de veículos chineses — Alocação de risco e custo: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **Sugestão de imagem**: Uma cena realista, centrada em documentos/veículos, que ilustra a escolha dos incoterms 2020 na exportação de veículos chineses — atribuição de riscos e custos, nenhuma inspecção encenada ou as pessoas alegadas.
+- **Texto ALT**: Fecha. vista natural dos materiais  and  the subject related to Choosing Incoterms 2020 in Chinese Vehicle Export — Risk  and  Atribuição de custos, fundo neutro, Não foram apresentadas pessoas ou acções de inspecção.
+- **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Iniciar a partir do modo de transporte, não hábito
 Incoterms 2020 contém onze regras divididas em regras para qualquer modo de transporte e as tradicionalmente para o transporte marítimo/fluvial. Na exportação de veículos, a primeira escolha é, portanto, se o movimento é porto-para-porto oceano (RoRo /contentor) ou multimodal (caminhão/carril terrestre mais mar, comum para o caminhão Central-Ásia). Escolher um termo apenas para um movimento multimodal cria uma lacuna em onde o risco passa.
@@ -36,7 +38,6 @@ O vendedor organiza, sob CIF, um seguro marítimo mínimo para o benefício do c
 ** Por que é o DDP arriscado para um exportador chinês?** Torna o vendedor responsável pela liberação de importação de destino, direitos e impostos.
 ** Quantas regras Incoterms 2020?** Onze, em dois grupos de modo de transporte.
 
-
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
@@ -55,18 +56,18 @@ O vendedor organiza, sob CIF, um seguro marítimo mínimo para o benefício do c
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
 ## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: nenhum protegido no repositório
-- ** ORIGINAL_ IMAGE_ URL**: não capturado
-- ** ORIGINAL_ PAGE**: não capturado
-- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
-- **RIGHTS_ HOLDER**: não confirmado
-- **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exato escolhendo Incoterms 2020 na exportação de veículos chineses
-- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
-- **IMAGEM_RIGHTS_STATUS**: FALHA
-- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
-- **ALT (12 línguas)**:
+- **MODEL_TOPIC_MATCH**: exact Choosing Incoterms 2020 in Chinese Vehicle Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -79,6 +80,5 @@ O vendedor organiza, sob CIF, um seguro marítimo mínimo para o benefício do c
   - **ID**: Incoterms selection, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Incoterms selection, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Incoterms selection, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #Incoterms #TradeTerms

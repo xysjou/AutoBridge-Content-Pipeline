@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: Used Chinese EV Inspection: Battery SOH, Flood & Odometer Checks
 - **Meta Description**: How to inspect a used Chinese EV before export — what SOH actually means under battery standards, a metered charge test, cell-balance reading, accident/flood screening and odometer-vs-cycle cross-checks, with no invented legal threshold.
-- **Suggested URL**: /guides/used-chinese-ev-inspection/
 - **H1**: Inspecting a Used Chinese EV Before Export: What the Battery Numbers Mean and What to Reject
 - **Primary Keyword**: used Chinese EV inspection battery SOH checklist
 - **Secondary Search Terms**: EV battery SOH standard QC/T 743, GB/T 31484 cycle life, used EV cell voltage imbalance, EV flood damage inspection, odometer rollback battery cycle count
+- **Suggested URL**: /guides/used-chinese-ev-inspection/
+- **Search Intent**: Understand Inspecting a Used Chinese EV Before Export: What the Battery Numbers Mean and What to Reject: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
-- **Image Suggestions**: diagnostic-tool SOH and cell-voltage readout; metered 20–80% charge worksheet; battery undertray inspection points; service/claims record sample
-- **ALT Suggestions**: "Independent diagnostic report showing SOH and maximum cell-voltage difference"; "metered charge-energy test worksheet"; "EV battery pack undertray inspection points"
+- **Image Suggestion**: diagnostic-tool SOH and cell-voltage readout; metered 20–80% charge worksheet; battery undertray inspection points; service/claims record sample
+- **ALT Suggestion**: Independent diagnostic report showing SOH and maximum cell-voltage difference
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+
 ## Scope: an Inspection Manual, Not a New-vs-Used Debate
 The decision to buy **used** is taken as given; this page covers the **technical inspection before export**. The economics of a used EV are dominated by the high-voltage battery: a clean body with a worn pack can be worth less than the replacement cost after shipping, so the inspection order of operations is different from an ICE car. A central aim is to be precise about what "SOH 80%" actually is — an engineering reference, not a universal customs line.
 ## What SOH Is — and What the 80% Figure Actually Means

@@ -1,15 +1,17 @@
 # Các xe Trung Quốc có hiệu lực và có tính chất tương tác
 
-## SAO Siêu dữ liệu
-- **SEAO Title**: xe nào của Trung Quốc đến ở bên phải-Hand Drive (RHD)? Hướng dẫn Cách điều chỉnh
-- **Meta Mô tả**: Làm thế nào để nguồn gốc của phương tiện RHD Trung Quốc cho Anh, Úc, Thái Lan, Malaysia, Nam Phi và xa hơn nữa — mà thương hiệu xây dựng RHD, làm thế nào để xác nhận trên một băng đảng đông máu, và tại sao việc chuyển đổi LHD sang RHD là nguy hiểm.
-- ** URL đã gợi ý**: /guides/bên phải-tay-tay-cò-cò-ca-ca-ri-cas/
-- ** H1 Mua xe hơi Trung Quốc phải là một công trình xây dựng hệ thống RHD
-- ** Từ khoá bí mật **: Xe hơi Trung Quốc điều khiển các mô hình RHD xuất khẩu
-- **Secondary Search termss**: factory RHD Name Xe Trung Quốc Thái Lan, LHD đến hệ thống chuyển đổi RHD
-- **I nội bộ Link gợi ý*: tương thích-c; /guides/verify-china-car- replier /vehicles/hongqi-e hs9-2024/
-- **Image gợi ý**: buồng lái RHD (đặt bên phải) đấu với LHD; thế giới bản đồ RHD; nhà máy sản xuất dòng sản xuất RHD; cảnh báo rủi ro chuyển đổi
-- **LT gợi ý**: "Bể lái xe Trung Quốc tay phải," "Bản đồ xe cánh tay phải," "LHD chuyển đổi thành phần cảnh báo"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Xe nào của Trung Quốc tới từ bên phải và lái xe RHD)? Hướng dẫn Cách điều chỉnh
+- **Meta mô tả**: Cách để sản xuất RHD phương tiện Trung Quốc cho UK chiếc, Úc, Thái Lan, Malaysia, Nam Phi và xa hơn nữa — những thương hiệu này xây RHD chiếc, làm thế nào để xác nhận trên VIN, và tại sao LHD - RHD sự chuyển đổi là nguy hiểm.
+- **H1**: Mua xe hơi Trung Quốc, tại sao phải là nhà máy xây dựng RHD
+- **Từ khóa chính**: Xe hơi Trung Quốc phải lái RHD mô hình xuất khẩu
+- **Cụm tìm kiếm phụ**: Nhà máy RHD Trung Quốc EV, BYD tay phải, MG RHD mô hình, GWM Haval RHD, RHD Xe Trung Quốc Thái Lan, LHD đến RHD rủi ro chuyển đổi
+- **URL đề xuất**: /guides/right-hand-drive-chinese-cars/
+- **Ý định tìm kiếm**: Tại sao nó phải là nhà máy Xây dựng RHD: một nhà xuất khẩu xe hơi/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **Gợi ý hình ảnh**: buồng lái RHD (ghi nhớ bên phải) so với LHD
+- **Văn bản ALT**: Nhà máy- Nhân- tay phải- lái Name
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## RHD Là một câu hỏi có thể giải quyết được, không phải là một câu hỏi về sửa chữa
 
@@ -63,18 +65,18 @@ Những người bán xác nhận là có thể sử dụng RHD mà không phân
 **Tại sao phải kiểm tra bằng mã số? Vật liệu bán hàng có thể nói "RHD có sẵn" trong khi cổ phiếu phân phối là LHD; tờ xây dựng VIN là bằng chứng đáng tin cậy.
 
 ## Thu ảnh
-- Không có bảo mật trong kho
-- _NHỮNG _I HÌNH: chưa được thu
-- Không được lấy
-- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- Chưa xác nhận
-- LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_ lẫn nhau: 2026-09-06
-- MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
-- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
-- TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
-- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
-- Theo ngôn ngữ:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,15 +1,17 @@
 # 如何核查中国汽车出口供应商付款前:应交验资清单
 
-## 道德操守办公室 元数据
-- **SEO标题**:核查中国汽车出口供应商:正当防卫核对清单
-- ** 金属说明**: 用于审查中国车辆出口商的付款阶段到期支付框架——MIIT公告/CCC资格、商业许可检查、出口授权链、AEO、银行账户匹配和视频审计标准。
-- ** 建议的URL**:/指南/核查-钦那-汽车-出口-供应商/
-- ** H1 资源需求。 **:审查中国车辆出口商: 第一次付款前要核实什么
-- ** 基本关键词**:核实中国汽车出口供应商尽职审查许可证
-- ** 二级搜索条款**:中国车辆出口资格、MIIT车辆制造商公告、CCC证书出口商、gsxt营业执照检查、中国汽车出口授权链、AEO海关信贷
-- ** 内部链接建议**: /指南/车辆-进口-付款-tt-vs-lc/;/指南/使用-chinese-ev-incountriation/;/指南/商业-拖车-拖车-采购-china/
-- ** 图像建议**: 适当减速层金字塔; gsxt 商务许可检查字段; 授权链图; 银行账户匹配警告
-- **ALT建议**:"中国汽车出口商尽职调查核查层";"国家企业信用信息系统许可域";"工厂授权链的供应商".
+## SEO元数据
+- **SEO标题**: 核查中国汽车出口供应商:应尽职责核对清单
+- **Meta描述**: 支付阶段到期日审查中国车辆出口商框架——MIIT公告/CCC资格,营业执照检查,出口授权环节,AEO,银行账户比对和视频审计标准.
+- **H1**: 检讨中国车辆出口商: 第一次付款前要核实什么
+- **核心关键词**: 核查中国汽车出口供应商尽职调查许可证
+- **次级搜索词**: 中国车辆出口资质MIIT车辆制造商公告 CCC证书出口商 gsxt营业执照检查 中国车辆出口授权链 AEO海关信用
+- **建议URL**: /guides/verify-china-car-export-supplier/
+- **搜索意图**: 了解中国车辆出口商的审核情况: 需要验证什么 在第一次付款之前:车辆/部件出口商在承诺发出订单之前必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **图片建议**: 分层的金字塔
+- **ALT文本**: 中国汽车出口商尽职调查核查层
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 解决该问题
 
@@ -90,18 +92,18 @@
 ** 哪些证明供应商实际出口? ** 最近(≈3-month)出口申报单加上对线路,库存,质量控制和装卸码头的现场审计,对照索赔进行交叉核对.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf

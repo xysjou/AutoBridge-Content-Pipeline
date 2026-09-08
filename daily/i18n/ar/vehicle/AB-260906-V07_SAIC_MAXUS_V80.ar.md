@@ -1,13 +1,18 @@
 # SAIC MAXUS Xintu V80: China-Market Diesel Large Van Minibus Export Reference
-## SEO Metadata
-- ** عنوان المنظمة**: SAIC MAXUS V80 (Xintu) Diesel Van ' Minibus Export Specs Guide
-- ** وصف البيانات**:)أ(المرجع الصيني للسوق المشتركة للمنتجات الفضائية SAIC MAXUS Xintu V80 PRO large van/minibus: 2.0T diesel, manual/AMT, length and seating variants, and the GVW/payload documents an export buyer must obtain.
-- ** H1 **: SAIC MAXUS Xintu V80: China-Market Diesel Large Van Minibus Export Reference
-- ** كلمة رئيسية رمزية**: SAIC MAXUS V80 فان تصدير العينات
-- ** محطات البحث الثانية**: مركبة الديزل طراز MAXUS V80؛ وV80 Xintu 2.0T من طراز PRO؛ وV80 من مقاعد الشاحنات الصغيرة؛ وشركة MAXUS للشحنات الكبيرة؛ وشاحنات تصدير تابعة للفريق الصيني
-- **Suggested URL**: /vehicles/saic-maxus-v80/
-- ** الحلقة الدراسية**: 面向海外B端买家介绍新途V80中国市场版本身份、车身矩阵/座位/动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+## بيانات SEO الوصفية
+- **عنوان SEO**: SAIC   MAXUS  V80 (Xintu) Diesel Van & Minibus Export Specs Guide
+- **وصف Meta**: Chinese-market reference for the  SAIC   MAXUS  Xintu V80  PRO  large van/minibus: 2.0T ديزل، يدويا/ AMT، متغيرات طول مقعد، و GVW وثيقة/حمولة، يجب أن يحصل عليها مشتري التصدير.
+- **H1**: SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference
+- **الكلمة المفتاحية الرئيسية**: SAIC   MAXUS  V80 van export specs
+- **مصطلحات بحث ثانوية**: MAXUS  V80 diesel van; Xintu V80 PRO 2.0T; V80 مقعداً من مقاعد الباصات الصغيرة؛ MAXUS شاحنة كبيرة؛ شاحنة تصدير
+- **URL المقترح**: /vehicles/saic-maxus-v80/
+- **نية البحث**: Understand SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- **اقتراح الصورة**: شاحنة كبيرة من طراز SAIC MAXUS V80 ظهر في صورة جانبية لعرض طول جسم الشحن
+- **نص ALT**: Side profile of a SAIC Xintu V80 large van showing the long cargo body
+- **نطاق المخطط**: المادة + المركبات
+
+** مقترحات داخلية بشأن الروابط**: /مركبات/سيك - ماكسوس - ت90/، /مركبات/ف - جيفانغ - ي6و/، /guides/china-customs-supervision-method-0110-1039/
 - ** اقتراح مقدم**: شاحنة كبيرة من طراز SAIC MAXUS V80 من طراز سيك، موضحة في صورة جانبية لعرض طول جسم الشحنة
 - ** اقتراح**: بيان جانبي لشاحنة كبيرة من طراز SAIC MAXUS Xintu V80 يظهر جسم الشحن الطويل
 - **Schema Scope**: Article + Vehicle
@@ -19,7 +24,7 @@
 | البند | القيمة المرجعية للسوق الصينية | | الثقة |
 |---|---|---|---|
 | نوع المركبات | شاحنة صغيرة (بيق فان) أو FWD أو RWD، حسب التشكيل | CHINA · cross- checked | صرخات |
-| خيارات قاعدة | Lengths œplo 4950 5490 5700 mm; wheelbases 3100 3640 3850 mm by version | CHINA · single-source, confirm spec | SINGLE OURCE |
+| Option ;; Lengths œplo 4950 5490 5700 mm; المواصفات: 3100 3640 3850 من طراز CHINA source CHINA · singlesource, spec - SINGLE OURCE -
 | الجلوس | إصدارات حافلة 5–9 وما يصل إلى 15 مقعداً بالنسخة؛ ونسخ الشحنات 2/3 مقعداً | CHINA · single-source, confirm | SINGLE OURCE |
 
 لأن نفس الإسم يغطي حافلات الركاب القصيرة وشاحنات الشحن الطويلة، 'V80 ' ليس مواصفات كاملة. ويجب أن يُسمّى هذا الأمر طول الجسم، وقاعدة العجلات، ودور حافلات المركبات، وحساب المقاعد؛ وحجم الشحنات وإمكانية التنقّل تختلف اختلافا كبيرا عبر المصفوفة.
@@ -79,9 +84,8 @@
 | 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق من متغيرات GVW/seat/cargo بالإعلان |
 
 ## استعراض التحرير
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-06
 - ** سوق الإحالة**: CHINA（2025 PRO 2.0T；老2.5T不入本篇；额定载质量/总质量须公告）
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.
-

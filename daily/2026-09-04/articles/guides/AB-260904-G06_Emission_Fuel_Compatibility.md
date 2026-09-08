@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
 - **Meta Description**: Separate light-duty GB18352.6-2016 (XG1-2026 amendment) from heavy-duty GB17691-2018, China-VI diesel sulphur limits and DPF/SCR risk, and why China VI never auto-equals Euro or EPA approval.
-- **Suggested URL**: /guides/emission-fuel-compatibility-china-vehicles
 - **H1**: Taking a China-VI Vehicle Abroad: Which Emission Standard Applies, and Will the Local Fuel Suit It?
 - **Primary Keyword**: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
 - **Secondary Search Terms**: GB18352.6-2016 XG1-2026, GB17691-2018 heavy duty china 6, GB19147 diesel sulfur 10ppm, DPF SCR high sulfur fuel, China VI vs Euro equivalence
+- **Suggested URL**: /guides/emission-fuel-compatibility-china-vehicles
+- **Search Intent**: Understand Taking a China-VI Vehicle Abroad: Which Emission Standard Applies, and Will the Local Fuel Suit It?: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
-- **Image Suggestions**: light vs heavy standard split; DPF/SCR aftertreatment diagram; sulphur-content gauge; destination verification loop
-- **ALT Suggestions**: "Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks"
+- **Image Suggestion**: light vs heavy standard split; DPF/SCR aftertreatment diagram; sulphur-content gauge; destination verification loop
+- **ALT Suggestion**: Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why "China VI" Is Not One Number
 Buyers often read "China VI / 国六" as a single standard. It is not: **light-duty and heavy-duty vehicles sit under different Chinese standards**, and an emission standard is also distinct from **fuel compatibility** and from **destination type approval**. This guide separates all three and states exactly where China's official standards end and destination verification begins.

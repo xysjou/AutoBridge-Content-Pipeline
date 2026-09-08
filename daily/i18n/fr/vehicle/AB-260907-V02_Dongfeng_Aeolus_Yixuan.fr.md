@@ -1,16 +1,16 @@
 # Dongfeng Aeolus Yixuan: un CMP marché chinois Référence compacte de berline, ligne actuelle vs version Mach plus ancienne
-## OEuvre Métadonnées
-- ** Titre du référencement**: Dongfeng Aeolus Yixuan Chine-Specs du marché et chèques d'achat à l'exportation
-- **Description détaillée**: Référence marché chinois pour la berline Dongfeng Aeolus Yixuan CMP: dimensions, la ligne actuelle 2025 1.5L contre l'ancienne Mach 1.5T gardée séparée, et VIN-niveau de contrôles pour les acheteurs d'exportation.
-- ** H1 **: Dongfeng Aeolus Yixuan: un CMP marché chinois Référence compacte de berline, ligne actuelle vs version Mach plus ancienne
+## Métadonnées SEO
+- **Titre SEO**: Dongfeng Aeolus Yixuan Chine-Specs du marché et chèques d'achat à l'exportation
+- **Description meta**: Référence marché chinois pour la berline Dongfeng Aeolus Yixuan CMP: dimensions, la ligne actuelle 2025 1.5L par rapport à l'ancienne Mach 1.5T se tenait séparée, et VIN -niveau de contrôle pour les acheteurs d'exportation.
+- **H1**: Dongfeng Aeolus Yixuan: un marché chinois CMP Référence compacte de berline, ligne actuelle vs version Mach plus ancienne
 - **Mot-clé principal**: Spécifications d'exportation de Dongfeng Aeolus Yixuan
-- **Conditions de recherche secondaires**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T berline; Chinese CMP export
-- **URL suggérée**: /véhicules/dongfeng-aeolus-yixuan/
-- **Intention de la recherche**: 面向海外买家介绍风神奕炫中国市场身份, 尺寸, 当前 1.5L 与较早马赫版 1.5T 的版本边界
-- **Suggestions de lien interne**: /véhicules/jetour-dashing/, /véhicules/saïque-maxus- g90/, /guides/vérify-chinese-car-export-fournisseur-histoire/
+- **Termes de recherche secondaires**: 东风风神奕炫; Aeolus Yixuan dimensions; Yixuan 1.5L WLTC; Mach 1.5T berline; Chinese CMP exportation de berline
+- **URL suggérée**: /vehicles/dongfeng-aeolus-yixuan/
+- **Intention de recherche**: Comprendre Dongfeng Aeolus Yixuan: Un marché chinois CMP Référence compacte de berline, ligne actuelle vs ancienne version de Mach: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/jetour-dashing/, /vehicles/saic-maxus-g90/, /guides/verify-chinese-car-export-supplier-history/
 - **Suggestion d'image**: Une berline rapide Dongfeng Aeolus Yixuan montrée de l'avant trois quarts sur un fond neutre
-- **ALT Suggestion**: Vue d'ensemble d'une berline Dongfeng Aeolus Yixuan sur un fond de studio neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+- **Texte ALT**: Vue sur une berline Dongfeng Aeolus Yixuan sur fond studio neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 La berline compacte à trois boîtes/fastback Dongfeng Aeolus Yixuan (风神奕炫) est une berline compacte construite sur la plate-forme CMP et vendue en Chine sous la marque Aeolus (Fengshen) de Dongfeng. Le risque acheteur dans ce modèle est temporel plutôt que structurel: la ligne actuelle 2025 sur la vente est une voiture à aspiration naturelle 1.5-litre, alors que le plus haut débit "Mach" (马赫) 1.5T appartient à une vague de groupe motopropulseur 2022/2023 antérieure. Citation de la sortie turbo plus ancienne comme si c'était la berline actuelle est l'erreur de version la plus courante. Cette page est une référence ** du marché chinois**, pas une fiche technique globale; Les versions du marché d'exportation ont besoin de preuves distinctes des OEM, et les sorties à source unique sont indiquées pour confirmation.
 

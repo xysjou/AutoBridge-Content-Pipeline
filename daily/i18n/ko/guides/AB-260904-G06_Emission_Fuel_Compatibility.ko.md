@@ -1,20 +1,22 @@
 # 중국-VI 차량 해외: 배출 기준, 2026 개정 및 연료 겸용 구매자는 Verify를 해야 합니다
 
-## ▼ 한국어 메타데이터
-- **SEO 제목**: 중국 VI 배출 및 해외 연료 호환성 가이드 - GB18352.6 GB17691
-- ** Meta Description**: 분리 된 빛 듀티 GB18352.6-2016 (XG1-2026 개정) 무거운 의무 GB17691-2018, 중국-VI 디젤 황 한계 및 DPF SCR 위험, 왜 중국 VI 결코 자동 요정 유로 또는 EPA 승인.
-- **시급 URL**: /guides/emission-fuel-compatibility-china-vehicles
-- ** H1 **: 중국-VI 차량 해외로 가지고 가기: 어떤 배출 표준 승인, 그리고 로컬 연료 한 벌을 할
-- ** 출원 키워드 **: 중국 6 배출 표준 해외 연료 호환성 GB18352.6 GB17691
-- ** 보조 검색 조건 **: GB18352.6-2016 XG1-2026, GB17691-2018 중장비 중국 6, GB19147 디젤 황 10ppm, DPF SCR 고 황 연료, 중국 VI 대 유로 equivalence
-- ** 내부 링크 제안**: /guides/vehicle-export-pdi-pre-shipment-handover/; /vehicles/jmc-shunda/; /vehicles/dongfeng-tianlong-kl/
-- ** 이미지 제안 **: 무거운 표준 분할을 위한 빛; DPF/SCR aftertreatment 도표; sulphur-content 계기; 목적지 검증 반복
-- **ALT 제안**: "Light-duty GB18352.6 및 Heavy-duty GB17691 연료 호환성 검사로 분리"
+## SEO 메타데이터
+- **SEO 제목**: 중국 VI 배출 및 해외 연료 호환성 가이드 - GB18352.6 / GB17691
+- **메타 설명**: 중장비 GB17691-2018, 중국 VI 디젤 sulphur 한계 및 DPF/SCR 위험에서 분리 된 조명 의무 GB18352.6-2016 (XG1-2026 개정), 중국 VI 결코 자동 요 유로 또는 EPA 승인.
+- **H1**: 중국-VI 복용 차량: 어떤 배출 표준 승인, 그리고 로컬 연료 한 벌을 될 것인가?
+- **주요 키워드**: 중국 6 배출 표준 해외 연료 겸용 GB18352.6 GB17691
+- **보조 검색어**: GB18352.6-2016 XG1-2026의 GB17691-2018의 중국 6의 GB19147 디젤유 10ppm의 DPF SCR 높은 황 연료, 중국 VI 대 유로 equivalence
+- **추천 URL**: /guides/emission-fuel-compatibility-china-vehicles
+- **검색 의도**: 중국-VI을 복용하는 이해 차량 해외: 어떤 배출 표준 승인, 그리고 로컬 연료 소송을 할 것인가?: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **내부 링크 제안**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **이미지 제안**: 빛 대 무거운 표준 분할
+- **ALT 텍스트**: 연사 GB18352.6 및 연료 호환성 검사로 분리되는 GB17691
+- **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## Why "China VI" Is Not One Number
 구매자는 종종 "중국 VI 国六 "싱글 표준으로 읽었습니다. 그것은 아닙니다: ** 조명 및 중장비 차량은 중국 표준**에 따라 앉으며, 배출 표준은 ** 연료 호환성**과 **** 종료 유형 승인**과 동일합니다. 이 가이드는 세 가지를 분리  and  중국의 공식 표준 끝이 정확히 상태  and  대상 검증이 시작됩니다.
 
-## Light Duty vs Heavy Duty — Two Current Standards
+## 가벼운 의무 대 - 두 개의 현재 표준
 | 의논하기 | 현재 중국 기준 | 상태 날짜 |
 |---|---|---|
 | **Light-duty ** (M1/M2/N1 가솔린 & 디젤) | ** GB 18352.6-2016 ** (중국 6) | **출발 번호 1, GB18352.6-2016/XG1-2026 **, **Ministry of Ecology가 발행했습니다.  and  환경 (MEE)  and  2026-04의 SAMR  and  2026-05-01 ** (HV 유형 승인 연장 부분 ** 2026-07-01 **) |
@@ -77,10 +79,10 @@
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| MEE 발표는 GB18352.6-2016 개정 번호 1 (2026-04, eff. 2026-05-01) | 환경 및 환경 | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | 인증 (기본) | XG1-2026 |
-| GB18352.6-2016 Amendment No.1 official PDF | ᄋᄋᄋ | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | 인증 (기본) | 빛 의무 개정 |
-| SAMR 표준 플랫폼 · GB18352.6-2016 XG1 | 의논하기 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | 인증 (기본) | 표준 |
-| GB17691-2018 중국 6 무거운 의무에 대한 MEE 발표 | ᄋᄋᄋ | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | 인증 (기본) | 중장비 |
+MEE는 GB18352.6-2016 개정 번호 1 (2026-04, eff. 2026-05-01) | 환경 및 환경 | 담당자: 담당자: Mr. 광 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | 인증(기본) | XG1-2026 |
+| GB18352.6-2016 Amendment No.1 official PDF | ᄋᄋᄋ | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | 인증(기본) | 인증현황 | 인증
+| SAMR 표준 플랫폼 · GB18352.6-2016 XG1 | 의논하기 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | 인증 | 표준 |
+| GB17691-2018 중국 6 무거운 의무에 대한 MEE 발표 | ᄋᄋᄋ | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | 인증기관 | 중장비 |
 | GB17691-2018 공식 PDF | ᄋᄋᄋ | 담당자: Mr. wang | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | 중장비 범위 |
 | GB19147-2016 도로 디젤 (현재, XG1-2018와) | SAMR 오픈 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-04 | 인증 (기본) | 황 ≤ 10 mg/kg |
 | DPF/SCR 열처리 위험 후 | 테스트 몸 | 담당자: Mr. wang | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | Qualitative 후처리 위험 | https://m.11467.com/product/d51123633.htm 11467

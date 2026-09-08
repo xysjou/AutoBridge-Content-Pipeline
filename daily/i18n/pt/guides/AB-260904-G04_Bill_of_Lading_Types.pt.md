@@ -1,15 +1,17 @@
 # MBL, HBL, Telex Release ou Sea Waybill? Escolha do método de libertação de um veículo ao abrigo do Código Marítimo 2025
 
-## SEO Meta- dados
-- ** Título SEO**: Lei de exportação de veículos do Guia de Ladagem – MBL/HBL/Telex/SWB + Código Marítimo Arts. 80/81/87
-- ** Descrição do Meta**: Como as contas de mestre, contas de casa, liberação de telex e waybills do mar diferem, as regras de transferibilidade entrega no Código Marítimo revisto da China (em vigor 2026-05-01, Arts. 80/81/87), e método de liberação correspondente às condições de pagamento.
-- ** URL sugerido**: /guides/veículo-exportação-bill-of-lading-types
-- ** H1 **: Escolher um método de liberação de faturas para um veículo exportado — Prática empresarial ancorada no Código Marítimo Revisado
-- **Chave Primária**: documento de exportação de veículos de embarque mbl hbl telex liberação seawaybill
-- ** Termos de pesquisa secundários**: Código Marítimo 2025 revisão, artigo 80 lei de transferência de embarque, artigo 81 outro documento de transporte, artigo 87 entrega, NVOCC HBL, ordem lei telex
-- **As sugestões de ligação interna**: /guias/oceano-carga-estrutura-veículo-exportação/; /guias/veículo-exportação-pdi-pré-transportação-manufação/; /guias/exportação-veículo-documento-pacote/
-- **Image Suggestions**: comparação de quatro métodos; escada de negociabilidade vs pagamento; cadeia MBL/HBL; fluxo de entrega Arts. 80/81/87
-- ** Sugestões ALT**: "BBL HBL telex sea waybill negotiability under revised Maritime Code"
+## Metadados SEO
+- **Título SEO**: Lei de exportação de veículos do Guia de Ladeamento — MBL/HBL /Telex/ SWB + Código Marítimo Arts. 80/81/87
+- **Meta descrição**: Como as contas de mestre, contas de casa, liberação de telex e waybills do mar diferem, as regras de transferibilidade / entrega no Código Marítimo revisto da China (em vigor 2026-05-01, Arts. 80/81/87), e método de liberação correspondente às condições de pagamento.
+- **H1**: Escolha de um método de liberação de faturas para um veículo exportado — Prática empresarial ancorada no Código Marítimo Revisado
+- **Palavra-chave principal**: documento de exportação de veículos de embarque mbl hbl telex liberação seawaybill
+- **Termos de busca secundários**: Código Marítimo 2025 revisão, artigo 80 projeto de lei de transferência de embarque, artigo 81 outro documento de transporte, artigo 87 entrega, NVOCC HBL, ordem de lei telex
+- **URL sugerida**: /guides/vehicle-export-bill-of-lading-types
+- **Intenção de busca**: Entender a escolha de um método de liberação de faturamento para um veículo exportado — Prática comercial Ancorado no Código Marítimo Revisado: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Sugestão de imagem**: comparação de quatro métodos
+- **Texto ALT**: MBL HBL telex de negociabilidade do waybill marítimo ao abrigo do Código Marítimo revisto
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## O problema da aquisição é o controle de carga, não a papelada
 Os exportadores tratam a escolha do projeto de lei como documentação. É uma decisão de **pagamento-risco**: no momento em que você passa de uma fatura negociável original para liberação de telex ou um waybill do mar, você muda quando você parar de controlar o veículo no destino. Este guia compara o comportamento empresarial dos quatro instrumentos com o ** actual sistema jurídico chinês** — o *Código Marítimo da RPC*, ** revisto em 2025-10-28 pela sessão 18th do Comité Permanente do 14th PCN (Portaria Presidencial n.o 58), em vigor desde 2026-05-01 (16 capítulos, 310 artigos)** — e, em seguida, corresponde ao método de pagamento. As regras e taxas do telex específico do transportador/porta continuam específicas da viagem e não são indicadas como valores fixos.

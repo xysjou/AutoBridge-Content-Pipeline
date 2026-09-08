@@ -1,15 +1,29 @@
 # Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations
+## Métadonnées SEO
+- **Titre SEO**: Geely Galaxy L6 EM -i PHEV 2025: Guide d'achat pour les produits et services de marché chinois
+- **Description meta**: Marché chinois Geely Galaxy L6 EM -i hybride rechargeable: dimensions vérifiées, EM -i groupe motopropulseur, deux lignes de batterie/d'autonomie,  and  what an importer must confirm by  VIN .
+- **H1**: Geely Galaxy L6 EM -i (2025) — Spécifications du marché chinois et vérification des exportations
+- **Mot-clé principal**: Geely / 吉利银河 Galaxy L6 / 银河 L6 spécifications export
+- **Termes de recherche secondaires**: Exportation de la gala L6; exportation de la gala L6 EM -i PHEV specs; importation de la berline chinoise PHEV; EM -i à vitesse unique DHT; CLTC vs WLTP
+- **URL suggérée**: /vehicles/geely-galaxy-l6/
+- **Intention de recherche**: Comprendre Geely Galaxy L6 EM -i (2025) — Spécifications du marché chinois et vérification des exportations: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant Geely Galaxy L6 EM -i (2025) — Spécifications du marché chinois et vérification des exportations, aucune inspection par étapes ni les personnes réclamées.
+- **Texte ALT**: Vue de près, naturelle des matériaux et du sujet lié à Geely Galaxy L6 EM -i (2025) — Chinese-Market Specs and Export Verification, fond neutre, aucune personne ni mesure d'inspection montrée.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
-## OEuvre Métadonnées
-- **Référencement Titre**: Geely Galaxy L6 EM-i PHEV 2025: Guide de l'acheteur sur le marché chinois et l'exportation
-- **Description détaillée**: Marché chinois Geely Galaxy L6 hybride rechargeable EM-i: dimensions vérifiées, groupe motopropulseur EM-i, deux lignes de batterie/fourchette, et ce qu'un importateur doit confirmer par VIN.
-- ** H1 **: Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations
-- **Mot-clé principal**: Geely 吉利银河 Galaxy L6 银河 L6 spécifications export
-- ** Termes de recherche secondaires**: Exportation de Geely Galaxy L6; Galaxy L6 EM-i Spécifications du VHV; importations chinoises de berlines du VHV; DHT à une vitesse EM-i; plage CLTC vs WLTP
-- **URL suggérée**: /véhicules/geely-galaxy- l6/
-- **Intention de la recherche**: 了解 Geely 吉利银河 Galaxy L6 银河 L6 中国版规格 -配置与出口适配性 (车型参数页)
-- **Suggestions de lien interne**: /véhicules/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
-- **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
+Métadonnées SEO
+- **Titre SEO**: Geely Galaxy L6 EM-i PHEV 2025: Guide d'achat pour les produits et services de marché chinois
+- **Description meta**: Marché chinois Geely Galaxy L6 hybride rechargeable EM-i: dimensions vérifiées, groupe motopropulseur EM-i, deux lignes de batterie/fourchette, et ce qu'un importateur doit confirmer par VIN.
+- **H1**: Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations
+- **Mot-clé principal**: Geely / 吉利银河 Galaxy L6 / 银河 L6 spécifications export
+- **Termes de recherche secondaires**: Exportation de la Galaxie L6; Galaxy L6 EM-i Spécifications du VHV; importations chinoises de berlines du VHV; DHT à une vitesse EM-i; plage CLTC vs WLTP
+- **URL suggérée**: /vehicles/geely-galaxy-l6/
+- **Intention de recherche**: Comprendre la galaxie geeely l6 em-i (2025) — spécifications du marché chinois et vérification des exportations: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **Suggestion d'image**: Une scène réaliste, axée sur les documents et les véhicules, illustrant Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations, aucune inspection par étapes ni les personnes réclamées.
+- **Texte ALT**: Vue de près et naturelle des matériaux et du sujet lié à Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations, fond neutre, aucune personne ni action d'inspection montrée.
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/examen)
 
 ## Contexte de l'acheteur et identité modèle
 La Galaxy L6 EM-i (2025)** est une berline hybride rechargeable compacte construite pour le marché chinois. Cette page utilise la ligne de levage frontal EM-i ** 2025 seulement**; les anciennes versions DHT à trois vitesses Thor/ 8848 sont une génération différente de motorisation et ne doivent pas être mélangées avec les voitures à une vitesse EM-i décrites ici. Le marché de référence est **Chine**, et chaque chiffre ci-dessous est une spécification de référence **Marché chinois**, pas une valeur d'homologation globale ou d'exportation.
@@ -65,7 +79,6 @@ Les deux lignes de batterie conduisent à la fois la portée électrique et le t
 **Qui fabrique les piles?** Non confirmé par OEM dans les sources capturées, donc cette page ne nomme pas un fournisseur.
 **AutoBridge publie-t-elle un prix à l'exportation?** Non — demander un devis courant avec destination, quantité, ligne de compensation, LHD/RHD, port et Incoterm.
 
-
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
@@ -83,18 +96,18 @@ Les deux lignes de batterie conduisent à la fois la portée électrique et le t
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
 ## Enregistrement d'image
-- **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
-- **ORIGINAL_IMAGE_URL**: non capturé
-- **SOURCE_PAGE**: non capturé
-- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- **RIGHTS_HOLDER**: non confirmé
-- **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: la galaxie de Geely L6 EM-i 2025 exacte
-- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
-- **TEMPS_D'IMAGE**: FOI
-- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
-- **ALT (12 langues)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Geely Galaxy L6 EM-i 2025
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer
@@ -107,6 +120,5 @@ Les deux lignes de batterie conduisent à la fois la portée électrique et le t
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

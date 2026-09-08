@@ -6,7 +6,7 @@
 - **Primary Keyword**: china customs ipr recordation export protection
 - **Secondary Search Terms**: customs ipr protection regulation; GACC intellectual property recordation; ex-officio customs detention; trademark recordation export; patent border protection China
 - **Suggested URL**: /guides/ipr-customs-recordation-export-protection/
-- **Search Intent**: 出口企业如何通过海关知识产权备案，在进出口环节获得商标/专利/著作权边境保护，依职权与依申请两条路径有何区别
+- **Search Intent**: Understand China Customs IPR Recordation: How Trademark, Patent and Copyright Are Protected at the Export Border: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/export-license-dual-use-items-catalogue-2026/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/china-e-port-enrollment-ic-card-operator/
 - **Image Suggestion**: A customs officer reviewing an intellectual-property recordation file beside sealed export cartons marked with a brand logo
 - **ALT Suggestion**: Open IPR recordation folder on a desk with sealed export cartons in the background

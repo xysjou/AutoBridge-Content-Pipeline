@@ -1,15 +1,17 @@
 # Classificando um veículo para exportação: Ordenação 87.01–87.05 e 8716 Reboques sob a tarifa 2026
 
-## SEO Meta- dados
-- **SEO Título**: Guia de Classificação do Código HS de Exportação de Veículos — 8701/8702/8703/8704/8705/8716
-- ** Descrição do Meta**: Como os exportadores chineses atribuem a correta posição HS aos tratores, carros de passageiros, ônibus, veículos de mercadorias, veículos de uso especial e reboques ao abrigo da pauta de importação e exportação 2026, antes de discutirem os direitos ou certificação.
-- ** URL sugerido**: /guides/veículo-exportação-hs-código-classificação
-- ** H1 **: Qual o rumo do HS é o meu veículo? Guia de Classificação do Lado de Exportação Construído sobre a Tarifa 2026
-- **Chave Primária**: código de exportação do veículo: 8702 8703 8704 8705
-- ** Termos de pesquisa secundários**: 8701 trator SH, 8703 veículo de passageiros HS, 8704 veículo de mercadorias, 8705 veículo de finalidade especial, 8716 reboque HS, 2026 China importação pautal de exportação capítulo 87
-- ** Sugestões de ligação interna**: /guias/china-exportação-certificado-de-origem/; /veículos/dongfeng-tianlong-kl/; /veículos/dongfeng-tianjin-kr/
-- **Image Suggestions**: HS heading decision tree; carro vs caminhão vs trator vs reboque ícone conjunto; campo formulário declaração aduaneira
-- **ALT Sugestões**: "Veículo HS árvore de decisão da rubrica 8701 8702 8703 8704 8705 8716"
+## Metadados SEO
+- **Título SEO**: Exportação de veículos HS Classificação de código Guia — 8701/8702/8703/8704/8705/8716
+- **Meta descrição**: Como os exportadores chineses atribuem a correta direção HS a tratores, carros de passageiros, ônibus, veículos de mercadorias, veículos de uso especial e reboques ao abrigo da pauta de importação e exportação 2026 antes de discutir o direito ou certificação.
+- **H1**: Qual é o rumo HS é o meu veículo? Guia de Classificação de Parte de Exportação Construído na Tarifa 2026
+- **Palavra-chave principal**: código de exportação do veículo: 8702 8703 8704 8705
+- **Termos de busca secundários**: 8701 trator HS, 8703 veículo de passageiros HS, 8704 veículo de mercadorias, 8705 veículo de finalidade especial, 8716 reboque HS, 2026 China importação importação pautal capítulo 87
+- **URL sugerida**: /guides/vehicle-export-hs-code-classification
+- **Intenção de busca**: Entender qual o rumo HS é o meu veículo? Guia de Classificação de Parte de Exportação Construído na Tarifa 2026: o que um exportador de veículo/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
+- **Sugestão de imagem**: HS árvore de decisão da rubrica
+- **Texto ALT**: Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## Por que a direção vem antes de tudo o resto
 Tarifa, certificação, inspeção e documentação todos penduram o código HS — mas os exportadores muitas vezes começam com uma citação de transporte e classificam o veículo quase como uma reflexão posterior. Para veículos comerciais e de finalidade especial que a sequência é para trás: uma cabeça de trator, um caminhão de carga, um caminhão de função especial e um reboque não compartilham um procedimento, e assumindo "é tudo 87.04 " é como os embarques são re-classificados na alfândega. A regra de trabalho nesta página é **HS-first**: fixar o cabeçalho exato e subtítulo nacional primeiro, em seguida, passar para a tarifa e conformidade. A base actual é a edição ** 2026 da "Tarifária de Importação e Exportação da República Popular da China***" (compilada pela Comissão da Pauta Aduaneira do Conselho de Estado) e o anúncio **GACC que implementa o programa de ajustamento pautal 2026**. As rubricas de quatro dígitos/seis dígitos são comparativamente estáveis; a subposição nacional de dez dígitos e as taxas provisórias mudam com cada tarifa anual e devem ser citadas por edição.

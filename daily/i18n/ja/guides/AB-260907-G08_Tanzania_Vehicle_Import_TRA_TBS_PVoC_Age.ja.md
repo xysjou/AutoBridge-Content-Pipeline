@@ -1,16 +1,16 @@
 # タンザニアに車を輸入: TRA の習慣はトラックおよび TBS PVoC/CoC のトラックを追跡します
-## ツイート メタデータ
-- **SEOのタイトル**: タンザニア車両輸入:TRA税関とTBS PVoC / COCの説明 | AutoBridge
-- **メタ 記述**: EACCMA/TANCISおよびTBSの事前出荷PVoCの適合(専用の中古モーター車カテゴリと)の下のTRA通関手続きと、年齢と義務のために検証しなければならないものの間で、タンザニアに車を輸入する方法。
-- H1 ホテル **: タンザニアに車を輸入: TRA の習慣はトラックおよび TBS PVoC/CoC のトラックを追跡します
-- **主なキーワード**: タンザニア車輸入トラッツブの年齢
-- **二次検索条件**: TBS PVoCは、モーター車を使用しました; タンザニアのCoC事前出荷; TRA TANCIS輸入; EACCMA 2004車両輸入; タンザニアは、車年齢制限を使用しました; CCIC PVoC中国
-- **混雑URL**: /ガイド/タンザニア車 - トラフィック - tbs - pvoc-age/
-- **Search Intent**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责、PVoC/CoC 机制与二手车专门类别、以及车龄/税率需向谁核验
-- **内部リンクの提案**: /guides/africa-used-car-age-limits/、/guides/marine-cargo-insurance-icc-incoterms/、/guides/vehicle-pre-shipment-inspection-pdi/
-- **イメージ提案**: 適合文書が準備される間、輸出ヤードで点検される使用された車
-- アルト 提案**:クリップボードの適合証明書の横の郵送物の点検の下の車
-- **シュマスコープ**: 記事(商品・料金・レビュー・料金なし)
+## SEOメタデータ
+- **SEOタイトル**: タンザニア車両輸入:TRA税関、TBS PVoC / COCの説明済み | AutoBridge
+- **メタディスクリプション**: EACCMA/TANCISおよびTBSの沈殿物PVoCの適合(熱心な中古モーター車の部門と)の下のタンザニアの輸入はTRA通関手続きと、年齢および義務のために確認されなければならないものを分ける方法。
+- **H1**: タンザニアに車を輸入: TRA 税関トラックと TBS PVoC/CoC トラック
+- **主要キーワード**: タンザニア車輸入トラTBSのポンピング年齢
+- **関連検索語**: TBS PVoCはモーター車を使用しました;タンザニアのCoCの沈殿物;TRA TANCISの輸入;EACCMA 2004車の輸入;タンザニアは車の年齢の限界を使用しました;CCIC PVoC中国
+- **推奨URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
+- **検索意図**: タンザニアへの車両の輸入の理解: TRA 税関トラックと TBS PVoC/CoC 追跡: 車両/パートの輸出業者が、注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
+- **画像候補**: 適合文書が準備される間、輸出ヤードで点検される使用された車
+- **ALTテキスト**: クリップボードの適合証明書の横にある前郵送物の点検の下車
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 Tanzania is a single-country market with a deliberately two-track import system, and a vehicle exporter who treats it as one process loses time at the port. One track belongs to the **Tanzania Revenue Authority (TRA)** — customs declaration, デューティー評価  and  東アジアコミュニティ税関管理法に基づくクリアランス。 他は、規制された出荷、使用済みモーター車が含まれているかどうかを決定する事前の適合性評価である**の**タンザニア標準局(TBS)に属しています。 このガイドはタンザニア(東アフリカの文ではありません)に特異的であり、現在のTBSとTRAのプライマリページ上に構築されています。 中古車年齢や車両のデューティ率の公式プライマリ文書がレビューで取得できなかったり、数字を発明するのではなく、検証する項目としてそれらが記載されているかを、その両方が説明しています。
 
@@ -76,9 +76,9 @@ TBS 認定 PVoC プロバイダーには、CCIC (中国リスト付き)、Intert
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| TBSの輸入および輸出制御 — PVoCプログラム、CoC、使用されたモーター車の部門、D1、名前付きパートナー | タンザニア規格局(TBS) | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据のCoC 装船前、二手车单列类别、检验机构、D1 |
-| TRA の輸入のプロシージャ — EACCMA 2004、CFA のライセンスを与えられた、TANCIS、≥ 7-day の宿泊施設、許可の代理店間の TBS | タンザニアの収入局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架、EACCMA、TANCIS、TBS 许可 |
-| TRAモーター車両登録(登録・変更・搬入) | タンザニアの収入局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
+|  TBS  の輸入および輸出制御 — PVoC プログラム 、CoC、 使用されたモーター車の部門 、 D1 、 名前付きパートナー | タンザニア規格局 (TBS) |  TZ  | T1 |  VERIFIED  | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据の CoC 装船前 、 二手车单列类别 、 检验机构 、 D1 |
+|  TRA  の輸入のプロシージャ —  EACCMA  2004 、  CFA  のライセンスを与えられた 、  TANCIS  、≥ 7-day の宿泊施設 、 許可の代理店間の  TBS  | タンザニアの収入局 (TRA) |  TZ  | T1 |  VERIFIED  | https://www.tra.go.tz/page/import-procedures | 进口框架 、  EACCMA  、  TANCIS  、  TBS  许可 |
+| TRA後期車登録(登録・入港) | 定着車登録(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 有形分岐登亭 | 亭 | 亭 | 台場 | 台場
 | 货代 PVoC/e-COC 介绍 (仅线索、不作事实依据) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC 线索の特長 |
 | 货代 PVoC 流程介绍 (仅线索) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
 | 使馆转述坦桑进口要求 (2015、历史背景) | 今日头条镜像 | TZ | T3 | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |

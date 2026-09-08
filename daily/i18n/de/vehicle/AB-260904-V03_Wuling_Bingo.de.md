@@ -1,15 +1,17 @@
 # Wuling Bingo (缤果): ein kleiner chinesischer Elektroheck — Specs und Exporteurschecks
 
-## SEO Metadaten
-- **SEO Titel**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- **Meta Description**: Chinesischer Markt Wuling Bingo small BEV — LFP-Batterie,  203/333/410 km CLTC steps,  30/50 kW motors, DC-Schnellladung, Abmessungen,  and  welche Importeure je Trimm überprüfen müssen.
-- **Vorgeschlagene URL**: /Fahrzeuge/wuling-bingo/
-- ** H1 **: Wuling Bingo: Chinesisch-Markt Kleine EV-Spezifikationen und Export-Verifizierung
-- ** Primäres Keyword**: Wuling Bingo ev specs export
-- **Secondary Search Terms**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, chinesischer Klein-EV-Export, 五菱缤果 Spezifikationen
-- **Interne Linkvorschläge**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/vehicle-export-pdi-pre-shipment-handover/; /vehicles/byd-qin-l-dm-i/
-- **Bildvorschläge **: fünftürige Bingo-Seite; 203 vs 333/410 Abzeichen; Hinterladung mit gefalteten Sitzen; Ladehafen; viersitzige Kabine
-- **ALT Vorschläge **: "Wuling Bingo small electric hatchback China spec"; "Wuling Bingo CLTC range 203 333 410 km"
+## SEO-Metadaten
+- **SEO-Titel**: Wuling Bingo  EV  Specs & Export Buyer Guide (203/333/410 km  CLTC )
+- **Meta-Beschreibung**: Chinese-market Wuling Bingo small  BEV  —  LFP  battery,  203/333/410 km  CLTC  steps,  30/50 kW motors, DC Schnellladen, Abmessungen,  and  welche Importeure je Trimm überprüfen müssen.
+- **H1**: Wuling Bingo: Chinesisch-Markt kleine EV Specs und Export-Verifizierung
+- **Haupt-Keyword**: Wuling Bingo ev specs export
+- **Sekundäre Suchbegriffe**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, chinesischer kleiner EV Export, 五菱缤果 Specs
+- **Vorgeschlagene URL**: /vehicles/wuling-bingo/
+- **Suchabsicht**: Wuling Bingo: Chinesisch-Markt kleine EV Spezifikationen und Export-Verifizierung: was ein Fahrzeug / Teile-Exporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
+- **Bildvorschlag**: fünftürig Bingo-Seite
+- **ALT-Text**: Wuling Bingo kleine elektrische Heckklappe China spec
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Ein Stadt-BEV in drei Schritten verkauft
 Der Bingo ist Wulings fünftürige kleine elektrische Heckklappe, die auf den städtischen und leichten kommerziellen persönlichen Gebrauch ausgerichtet ist. Für einen Exporteur ist die entscheidende Variable **Range Step**, denn Motorleistung, Batterie und Topspeed ändern sich mit ihr. Dieses Blatt deckt die ** chinesische Markt 2024 Linie (REFERENCE MARKET: CHINA) **; ohne eine OEM-Übersee-Seite sind die chinesischen Zahlen eine Referenz, keine globale Spezifikation.

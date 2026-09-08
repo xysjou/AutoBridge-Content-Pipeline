@@ -1,14 +1,17 @@
 # 非洲废车进口年龄限制:逐国核查矩阵
-## 道德操守办公室 元数据
-- ** 标准电子标准标题**:按国家分列的非洲废车进口年龄限制:肯尼亚和尼日利亚 已验证
-- ** 金属说明**: 非洲国家废车使用年限、驾驶和检查门——肯尼亚(从第一次登记起8年)和尼日利亚(从制造到15年),现在固定在主要来源,其他市场标出,供官方核查。
-- ** 建议的URL**:/指南/非洲使用的汽车/进口年龄限制/
-- ** H1 资源需求。 **:非洲市场使用汽车的年龄限制:一个建立到核实的矩阵,而不是记忆
-- ** 关键词**:按国家矩阵分列的非洲用车进口年龄限制
-- ** 二次搜索术语**:肯尼亚使用车龄限制8年,首次登记,尼日利亚进口车龄限制15年,埃塞俄比亚使用车禁,加纳OBD进口,莫桑比克车辆年龄,苏丹车龄限制,科特迪瓦CoC,KEBS DKS 1515
-- ** 内部链接建议**: /指南/车辆装运前检查/////指南/车辆-coc-型核准/////////china-车辆-出口-许可证-海关-文件//
-- ** 图像建议**:国家汇总表;制造年份与第一年登记时间;正式核查路线图
-- ** ALT建议**:“非洲使用汽车年龄限制核查矩阵”;“制造年份与第一个登记年份”
+## SEO元数据
+- **SEO标题**: 按国家分列的非洲废车进口年龄限制:肯尼亚和尼日利亚 已验证
+- **Meta描述**: 非洲国家废车使用年限、驾驶和检查门——肯尼亚(从第一次登记起8年)和尼日利亚(从制造到15年),现在固定在主要来源,其他市场标出供官方核查。
+- **H1**: 非洲市场使用汽车的年龄限制:建立起来的矩阵,供验证,不记名
+- **核心关键词**: 按国家矩阵分列的非洲使用汽车进口年龄限制
+- **次级搜索词**: 肯尼亚使用车龄限制8年 首次注册 尼日利亚进口车龄15年 制造埃塞俄比亚使用车禁 加纳OBD进口 莫桑比克车辆年龄 苏丹汽车年龄限制 科特迪瓦 CoC KEBS DKS 1515
+- **建议URL**: /guides/africa-used-car-import-age-limits/
+- **搜索意图**: 了解非洲市场的废车年龄限制:一个建立起来的、可以核实的、不记名的矩阵:车辆/部件出口商在承诺下达命令之前必须核实、记录和决定什么。
+- **内链建议**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **图片建议**: 国家汇总表表
+- **ALT文本**: 非洲旧车年限核查矩阵
+- **Schema范围**: 条款(无产品/产出/价格/审查/规定)
+
 ## 阅读表前的证据上限
 年龄限制的变化,港口的强制执行方式不同,在货物转运摘要中常常被错误引用。 本页将**两个证据层次** 分开。 ** ** 报告的价值,并标注在正式核查上——没有说这是已确定的事实。 没有单一的区域"非洲"规则:每个国家设定自己的年龄基础,指导规则和检查门,没有这一基础的单一标题"X年"是不安全的.
 ## 第一:知道哪个"年龄"是被测量的
@@ -58,17 +61,17 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — African used-car import age limits, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — African used-car import age limits, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — African used-car import age limits, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — African used-car import age limits, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — African used-car import age limits, guia de compras para exportação de veículos
+- ** ** AutoBridge 出口-买方参考——非洲废车进口年限、车辆-出口采购指南
+- **法国**: 汽车出口-非洲废车进口年限限制,汽车出口指南
+- DE**: 国家 AutoBridge-Referenz für Exportkäufer——非洲废车进口年龄限制,莱特法登 für Fahrzeugexport-Einkauf
+- **ES**: 出口信贷总公司——非洲废车进口年限,出口信贷总公司
+-  **: 出口自货公司——非洲废车进口年限,出口自货公司
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜African used-car import age limits, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜African used-car import age limits, 자동차 수출 조달 가이드
+- 科罗拉多州: 自动桥 바이어 참고 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 非洲 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료| 자료|
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — African used-car import age limits, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — African used-car import age limits, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — African used-car import age limits, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — African used-car import age limits, دليل مشتريات تصدير المركبات
+- ** ** ** เอกสารอ้างอิง AutoBridge QQ——非洲废车进口年限限制,QQ
+- 身份证**: 进口年限限制,非洲旧车
+- AR**: 国家 汽车桥 – 非洲废车进口年限限制, – مشتريات تصدير المركبات المركبات المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜African used-car import age limits, 汽车出口采购指南
 
 ## 源码验证(V)

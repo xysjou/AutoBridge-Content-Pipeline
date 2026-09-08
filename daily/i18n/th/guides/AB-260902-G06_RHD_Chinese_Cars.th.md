@@ -1,15 +1,17 @@
 # Sururcing facty right-Hand-Dive (RHD) รถจีน: แบรนด์ Avolution and Reccessition
 
-## เชา ข้อมูลกํากับภาพ
-- รถจีนคันไหนมาจอดทางด้านขวา-คัน ไดรฟ์ (RHD)? คู่มือการลากเลื่อน
-- ""คําอธิบาย" วิธีผลิตรถจีนอาร์เอชดี สําหรับอังกฤษ, ออสเตรเลีย, ไทย, มาเลเซีย, แอฟริกาใต้ และที่ไกลกว่านั้น แบรนด์สร้างอาร์เอชดี, วิธียืนยันต่อ VN, และทําไม LHD-THD ถึงเสี่ยง
-- ~ที่อยู่ URL ที่ถูกย่อ: ทางขวา-ไดร์ฟ-ชินีส-คาร์ส
-- ** H1 ~: ซื้อรถจีนคันขวา-ไฮด์ฟลายเจอร์: เหตุใดต้องเป็นงานก่อสร้างโรงงาน RHD
-- ~คําสําคัญ~ ส่งออกเป็นโมเดล RHD รถของจีนแบบถนัดมือขวา
-- ~การค้นหาตามวาระ: โรงงาน RHD EV จีน, BD ไดรฟ์มือขวา, MG RHD รุ่น GWM Haval RHD, RHD รถจีนไทย ความเสี่ยงการเปลี่ยนแปลงของ RHD LHD
-- ** เคล็ดลับการเชื่อมโยงภายใน **: ชินส์-ชอม-ช๊อต-คอมโพสิต-มาตรฐาน verification-china-car-export-suppplele/; ฮ่องกงฉี-อี- hs9-2024/
-- ~คําแนะนําของ RIMD~: ห้องเก็บอาหาร RHD (เข้าทางขวา) vs LHD; โลก RHD-มาร์เก็ต; โรงงานอาร์เอชดี; เตือนเรื่องความเสี่ยงในการผลิต;
-- ~จดหมายแนะนํา: "ห้องโดยสารรถจีนขับขวามือ"" "แผนที่ตลาดขับเคลื่อนด้วยรถยนต์แบบโลกขวา". "LHD ถึง RHD"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: รถจีนคันไหนมาทางขวา-Hand Dive (RHD)? คู่มือการลากเลื่อน
+- **คำอธิบาย Meta**: วิธี ที่ จะ ผลิต รถ จีน RHD คัน สําหรับ รถ UK คัน, ออสเตรเลีย, ไทย, มาเลเซีย, แอฟริกา ใต้ และ อื่น ๆ — ซึ่ง ยี่ห้อ ต่าง ๆ สร้าง RHD คัน, วิธี ยืน ยัน ต่อ VIN คัน, และ เหตุ ผล ที่ มี การ เปลี่ยน แปลง LHD - RHD นั้น เสี่ยง.
+- **H1**: ซื้อรถจีนแบบใช้แล้วทิ้ง: ทําไมมันต้องสร้างโรงงาน RHD
+- **คีย์เวิร์ดหลัก**: ด้านขวารถจีนไดรฟ์ RHD รุ่นส่งออก
+- **คำค้นหารอง**: โรงงาน RHD จีน EV BYD ไดรฟ์ขวามือ MG RHD รุ่น (พ.ศ. GWM ฮาวาล RHD (พ.ศ. RHD รถจีนไทย LHD ถึง RHD ความเสี่ยงการแปลง
+- **URL ที่แนะนำ**: /guides/right-hand-drive-chinese-cars/
+- **เจตนาการค้นหา**: เข้าใจการซื้อรถจีนแบบใช้สิทธิ: ทําไมต้องสร้างโรงงาน RHD: สิ่งที่ผู้ส่งออกรถยนต์/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
+- **คำแนะนำรูปภาพ**: RHD ห้องนักบิน (เข้าทางขวา) vs LHD
+- **ข้อความ ALT**: ไดรฟ์ทางขวาของ แฟคทอรี ห้องรับรถจีน
+- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
 ## อาร์เอชดี เป็นคําถามที่ช่วยเสริมสร้าง ไม่ใช่คําถามเกี่ยวกับซ่อมบํารุง
 
@@ -63,18 +65,18 @@
  ทําไมตรวจสอบโดย VIN  การตลาดวัสดุอาจบอกว่า "อาร์เอชดี" ในขณะที่หุ้นที่รวมแล้วคือ LHD แผ่นพับก่อสร้าง VN เป็นหลักฐานที่เชื่อถือได้
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf
@@ -92,12 +94,12 @@
 
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| ไกด์ตลาดรถจีนอาร์เอชดี | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | ROOS_ CHCKED | MG/GWM RHD Fline-ups และตลาด (inguagery; ตรวจสอบ) |
-| รถจีนตัวไหนเหมาะกับผู้ซื้อ RHD | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | ROOS_ CHCKED | BD Atto 3/Dolphin/Seal RHD (inguagery; ตรวจสอบ) |
+| ไกด์ตลาดรถจีนอาร์เอชดี | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | ROOS_ CHCKED | MG/GWM RHD Fline-ups และตลาด (inguagery; PS( 102). 2013/I.870kias planson planson planson planson pointegeg (เสีย 17 pps พ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ  Ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ○
+| รถจีนตัวไหนเหมาะกับผู้ซื้อ RHD | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | ROOS_ CHCKED | BD Atto 3/Dolphin/Seal RHD (inguagery; PS( 102). 2013/I.870kias planson planson planson planson pointegeg (เสีย 17 pps พ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ ฤ  Ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ep, ○
 | รุ่นของ RHD Zeecger | FOBE (บริการพอร์ต) | ตลาด RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | ROOS_ CHCKED | Geely EX5 ขนาน LHD/RHD, Zeker RHD (inguagery; Check) |
-| ดงเฟนฟอร์ตเข้าประเทศไทย (พ.ศ. | Dongfang Motor Group (แบบออนไลน์) | ธ.ค. | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | เปิดใช้งาน | มีนาคม 2026 การเข้าประเทศไทย RHD FRIEY/ V9 (invied) |
-| เชียงนาง เวียว Q05 แสดงตัวเปิดตัวของกรุงเทพ | Automa house 车家号 (สื่อ) Name | ธ.ค. | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ROOS_ CHCKED | DEO Q05 ความเป็นไปได้ของ RHD ชาวไทย (สื่อ; ตรวจสอบ) |
-| กลยุทธ์ของ Hongqi RHD RIHD Market | smzdm (Guarder; Auto report (ฝุ่น) | ตลาด RHD | http: https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ROOS_ CHCKED | Hongqi RHD ผลักดัน; ~ 35% ยอดขายระดับโลกในตลาด RHD | https://post.m.smzdm.com/p/aqrp0mkp/
+| ด ด ด น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | เปิดใช้งาน | มีนาคม 2026 การเข้าประเทศไทย RHD FRIEY/ V9 (invied) |
+| เชียงนาง เวียว Q05 แสดงตัวเปิดตัวของกรุงเทพ | Automa house 车家号 (สื่อ) Name | ธ.ค. | httpschejiaho. ออโตเมียม.com. cnn/pinan/chejiaho/dailyf/25092921 | 2026-09-02 | ROKS_ DECKE DEO Q05 ค ค ค ค ค ค ค ค ค า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค ค RHD 773838383 (201-78; พ. สืบค้นเมื่อ 7 July 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ PS( 102). สืบค้นเมื่อ 17 พฤษภาคม พ.ศ. ○
+| ก มิวสิก ล ล ล ล ล ท ท ท ท ท ธ ธ ธ ธ ธ ธ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ (ผู้รักษาการ; | | | | | m m m m m m m m (พ.ศ. รายงานอัตโนมัติ (injuugs) | ต ล ล ล ล ล ล ล า า ด ด : | | | | | | | | | | | | | | | | : : : : | | : | | | | : | : : : : | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด | | | | ด | | | | ด | | | | | | | | | | |  https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ROOS_ CHCKED | Hongqi RHD ผลักดัน; ~ 35% SOSEESESDESESESESESEESEESEESEESEESEESESTNMNESTESTESTISTESESTIIIE]. สืบค้นเมื่อ 20 พฤษภาคม 2560. RHD |s/s/s/smzdm.com/p/aqrp0kp/
 
 *จดหมายยืนยัน (มาตรฐานอัตโนมัติของ ดองฟง): เปิดตัวประเทศไทย RHD เท่านั้นคือ ISWIIIID (Manfacter Agency). รายการสินค้าแบรนด์ คือ (Single_SEESE) ที่เปลี่ยนไปบ่อยครั้ง และต้องได้รับการยืนยันทาง ต่อ VIN หลังจากตลาดเปลี่ยนกฎหมายไม่ได้ตรวจสอบ และถูกตั้งให้เสี่ยง *
 

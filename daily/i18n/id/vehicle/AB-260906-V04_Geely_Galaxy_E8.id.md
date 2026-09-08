@@ -1,16 +1,16 @@
 # Geely Galaxy E8 (Yinhe E8): Referensi Sedan Pasar Pasar untuk Ekspor
-## SEO Metadata
-- ** SeO Judul **: Geely Galaxy E8 (Yinhe E8) Ekspor Specs: Baterai, Jangkauan, Panduan Mengisi
-- ** Meta Description **: Referensi pasar untuk SEAT berbasis Geely Galaxy Yinhe E8 sedan: motor variant, CLTC jangkauan dan pilihan baterai tetap tiga spesifik, 800V pengisian caveats, dan EV ekspor cek.
-- ** H1 **: Geely Galaxy E8 (Yinhe E8): China- Market Electric Sedan Referensi untuk Ekspor
-- ** Primary Keyword **: Geely Galaxy E8 Yinhe E8 spesifikasi ekspor
-- ** Akhir Pencarian Second **: Arsitektur Galaxy E8 SEA; Yinhe E8 CLTC range; Galaxy E8 800V charge; Ekpor sedan listrik geely; E8 475 kW Asled
-- **Suggested URL**: /vehicles/geely-galaxy-e8/
-- ** Cari Intent **: 面向海外 B 端买家介绍银河 E8 中国市场版本身份: 三电 续航 充电与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** * Saran Gambar **: Tiga perempat depan Geely Galaxy E8 sedan listrik cepat dengan tanda-tanda cahaya sepanjang-lebar penuh
-- ** ALT Sarankan **: Tampilan tiga perempat depan dari sebuah sedan Geely Galaxy E8 elektrik menunjukkan batang cahaya dan atap cepat
-- **Schema Scope**: Article + Vehicle
+## Metadata SEO
+- **Judul SEO**: Geely Galaxy E8 (Yinhe E8) Ekspor Specs: Baterai, Range, Panduan Mengisi
+- **Deskripsi Meta**: Referensi pasar Cina untuk Geely Galaxy berbasis SEA / Yinhe E8 sedan listrik: motor variant, jangkauan CLTC dan pilihan baterai tetap tiga spesifik, 800V pengisian cavheats, dan EV ekspor cek.
+- **H1**: Geely Galaxy E8 (Yinhe E8): Referensi Sedan Pasar Pasar untuk Ekspor
+- **Kata kunci utama**: Geely Galaxy E8 Yinhe E8 spesifikasi ekspor
+- **Istilah pencarian sekunder**: Arsitektur Galaxy E8 SEA; Yinhe E8 CLTC kisaran; Galaxy E8 800V pengisian; Ekpor sedan listrik geely; E8 475 kW AWD
+- **URL yang disarankan**: /vehicles/geely-galaxy-e8/
+- **Maksud pencarian**: Memahami Geely Galaxy E8 (Yinhe E8): Referensi Sedan Pasar Pasar Electric untuk Ekspor: apa yang harus diverifikasi, dokumen dan memutuskan sebelum melakukan suatu perintah.
+- **Saran tautan internal**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Saran gambar**: Tiga perempat depan dari Geely Galaxy E8 cepat listrik sedan dengan tanda-tanda cahaya fullwidth-width
+- **Teks ALT**: Tampilan depan tiga perempat dari sebuah sedan Geely Galaxy E8 elektrik menunjukkan batang lampu dan atap cepat kembali
+- **Cakupan skema**: Artikel + Kendaraan
 
 Galaksi E8 (Yinhe E8) adalah sedan listrik kilatan Geely pada sedan listrik SEA (Arsitektur Pengalaman Tertahan) - kursi lima, tarik-rendah (sekitar 0.199 Cd) mobil listrik yang ditawarkan dalam tunggangan motor tunggal-drive dan dual- motor-drive formulir drive. Karena ini adalah EV, keputusan pembelian pada baterai, siklus tes, arsitektur dan perangkat lunak yang diisi ulang, bukan pada nomor kekuatan utama tunggal. Segala sesuatu di bawah ini adalah ** Cinese- pasar (CLTC) referensi **; versi ekspor dan standar pengisian mereka memerlukan bukti OEM terpisah.
 

@@ -1,15 +1,17 @@
 # ゲーリーギャラクシーL6 EM-i (2025) - 中国市場仕様と輸出検証
 
-## ツイート メタデータ
-- **SEOタイトル**: ゲーリーギャラクシーL6 EM-i PHEV 2025: 中国の市場仕様と輸出バイヤーガイド
-- **メタ 記述**: 中国の市場GeelyギャラクシーL6 EM-iのプラグインの雑種: 検証された寸法、EM-i VIN によって確認しなければならないもの。
-- H1 **: ゲーリーギャラクシーL6 EM-i (2025) — 中国の市場仕様と輸出検証
-- **主なキーワード**: ギャラクシーL6 银河 L6 スペックのエクスポート（吉利银河）
-- **二次検索条件**:Geely Galaxy L6エクスポート;ギャラクシーL6 EM-i PHEV仕様;中国PHEVセダン輸入;EM-iシングルスピードDHT;CLTC対WLTP範囲
-- **混雑したURL**: /vehicles/geely-galaxy- l6/
-- **Search Intent**: 了解 ジーリー 吉利银河 ギャラクシー L6 银河 L6 中国版规格、配置与出口适配性 (车型参数页)
-- **内部リンクの提案**: /vehicles/geely-galaxy- l6/、 /guides/incoterms- 2020-selection-guide/、/guides/export-payment-methods-t-t-lc-risk/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: ゲーリーギャラクシーL6 EM -i PHEV 2025: 中国の市場仕様と輸出バイヤーガイド
+- **メタディスクリプション**: 中国語市場 ジーリーギャラクシーL6 EM -i のプラグインの雑種: 検証された次元,   EM -i powertrain,  two battery/range lines,  and  輸入業者がVINで確認しなければならないもの
+- **H1**: ゲーリーギャラクシーL6 EM -i (2025) - 中国市場仕様と輸出検証
+- **主要キーワード**: Geely / 吉利银河 Galaxy L6 / 银河L6 specs export
+- **関連検索語**: 銀河L6輸出; ギャラクシーL6 EM -i PHEV仕様; 中国PHEVセダン輸入; EM -i単速DHT; CLTC対WLTP範囲
+- **推奨URL**: /vehicles/geely-galaxy-l6/
+- **検索意図**: ジーリーギャラクシーL6 EM -i(2025) - 中国の市場仕様と輸出検証:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/geely-galaxy-l6/, /guides/incoterms-2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
+- **画像候補**: リアルで、文書/車両に焦点を当てたシーンは、Geely Galaxy L6 EM -i (2025) - 中国市場仕様と輸出確認、段階的な検査や要求の人々をイラスト化しません。
+- **ALTテキスト**: クローズ、天然素材の観点から、Geely Galaxy L6 EM -i (2025) - 中国市場仕様と輸出検証、中立背景、人や検査の動作が示されていない。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキストとモデルのアイデンティティ
 **Geely Galaxy L6 EM-i (2025)**は、中国市場向けに構築されたコンパクトなプラグインハイブリッドセダンです。 このページでは、** 2025 EM-i のファシリフラインのみを使用しています。** the older Thor/8848 three-speed DHT versions are a different powertrain generation  and  EM-iシングルスピード車と混入しないでください。 参照市場は**中国**であり、下のすべての図は**中国市場参照仕様**で、グローバルまたはエクスポートの均質化値ではありません。
@@ -65,7 +67,6 @@ The two battery lines drive both electric-only range  and  充満時間, 従っ�
 **電池は誰ですか?** キャプチャされたソースでOEM対応していないため、このページはサプライヤーに名前を付けません。
 **AutoBridgeは輸出価格を公開しますか?** いいえ — 目的地、数量、トリムライン、LHD RHD、ポート、インコタームで現在の見積依頼をリクエストします。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
@@ -83,18 +84,18 @@ The two battery lines drive both electric-only range  and  充満時間, 従っ�
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確なGeely Galaxy L6 EM-i 2025
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 正確なGeelyギャラクシーL6 EM-i 2025
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer
@@ -107,6 +108,5 @@ The two battery lines drive both electric-only range  and  充満時間, 従っ�
   - **ID**: Geely Galaxy L6 EM-i 2025, PHEV sedan pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Geely Galaxy L6 EM-i 2025, PHEV sedan السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Geely Galaxy L6 EM-i 2025, 中国市场PHEV sedan·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #GeelyGalaxyL6 #PHEV

@@ -1,14 +1,17 @@
 # Inspection pré-exportation chinoise d'occasion: Batterie SOH correctement faite, plus accident, inondation et contrôle des odomètres
-## OEuvre Métadonnées
-- **Titre du référencement**: Inspection de la batterie de véhicules électriques chinois usagés: SOH, Flood & Odomètre Contrôles
-- **Description détaillée**: Comment inspecter un véhicule électrique chinois usagé avant d'exporter — ce que signifie réellement la SOH en vertu des normes de batterie, un test de charge mesuré, la lecture du bilan cellulaire, le dépistage des accidents/inondations et les contrôles croisés des odomomètres-vs-cycle, sans seuil légal inventé.
-- **URL suggérée**: /guides/used-chine-ev-inspection/
-- ** H1 **: Inspection d'un VE chinois usagé avant exportation: ce que signifient les nombres de piles et ce qu'il faut rejeter
-- **Mot-clé principal**: liste de contrôle de la batterie chinoise d'inspection des véhicules électriques
-- **Termes de recherche secondaires**: Batterie EV standard SOH QC/T 743, cycle GB/T déséquilibre de tension des cellules EV utilisées, inspection des dommages causés par les inondations EV, compte du cycle de la batterie en cas de renversement de l'odomètre 31484
-- **Suggestions de lien interne**: /guides/vérify-china-car-export-fournisseur/; /guides/chinese-ev-charge-standard-compatibilité/; /guides/import-chinois-ev-to-russia-eac-ottc/
-- **Suggestions d'image**: lecture de l'outil de diagnostic de la SOH et de la tension cellulaire; metered 20–80% charge worksheet; points d'inspection sous-marins de batterie; échantillon de l'enregistrement de la notification/demandes
-- ** Suggestions de l'ALT**: "Rapport de diagnostic indépendant montrant la différence de SOH et de tension maximale des cellules"; "feuille de travail d'essai de charge-énergie mesurée"; "points d'inspection sous-marins du pack de batteries EV"
+## Métadonnées SEO
+- **Titre SEO**: Chinois usagé EV Inspection: Batterie SOH, Inondation et Odomètre Contrôles
+- **Description meta**: Comment inspecter un EV chinois usagé avant l'exportation — ce que SOH signifie en fait en vertu des normes de batterie, un test de charge mesuré, la lecture de bilan cellulaire, le dépistage des accidents/inondations et les contrôles croisés des odomomètres-vs-cycle, sans seuil juridique inventé.
+- **H1**: Inspecter un Chinois d'occasion EV Avant d'exporter: ce que signifient les numéros de batterie et ce qu'il faut rejeter
+- **Mot-clé principal**: batterie d'inspection chinoise EV utilisée SOH liste de contrôle
+- **Termes de recherche secondaires**: EV batterie SOH standard QC/T 743 GB/T 31484 durée de vie du cycle, le déséquilibre de tension cellulaire EV, EV inspection des dommages causés par les inondations, Compte du cycle de la batterie de retour de l'odomètre
+- **URL suggérée**: /guides/used-chinese-ev-inspection/
+- **Intention de recherche**: Comprendre l'inspection d'un chinois usagé EV Avant exportation: ce que signifient les numéros de batterie et ce qu'il faut rejeter: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- **Suggestion d'image**: outil de diagnostic SOH et lecture de la tension cellulaire
+- **Texte ALT**: Rapport de diagnostic indépendant montrant SOH et différence de tension cellulaire maximale
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
+
 ## Portée: un manuel d'inspection, pas un nouveau débat utilisé
 La décision d'acheter **utilisé** est prise comme indiqué; cette page couvre l'inspection technique ** avant exportation**. L'économie d'un véhicule électrique usagé est dominée par la batterie haute tension: un corps propre avec un paquet usé peut être moins cher que le coût de remplacement après l'expédition, de sorte que l'ordre d'inspection des opérations est différent d'une voiture ICE. L'objectif central est d'être précis sur ce qu'est réellement "SOH 80% ": une référence technique, et non une ligne de douane universelle.
 ## Qu'est-ce que ça peut faire ? Est — et ce que signifie réellement la figure 80%
@@ -58,18 +61,18 @@ Les listes de contrôle publiques répètent « lisez la SOH et rejettez les don
 **Pourquoi les dégâts causés par les inondations sont-ils particulièrement dangereux dans un EV?** Il peut dégrader le pack et corroder les harnais/connecteurs cachés, causant des défaillances de sécurité et de fiabilité après exportation.
 **Comment la fraude au compteur est-elle repérée sur un VE?** Comparez le kilométrage affiché avec le nombre de cycles de batterie et l'usure physique; un odomètre bas avec des cycles élevés est un avertissement.
 ## Enregistrement d'image
-- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
-- ORIGINAL_IMAGE_URL: non capturé
-- SOURCE_PAGE: non capturé
-- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
-- HÔTEL DE DROITS: NON CONfirmÉ
-- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CONTRÔLE: 2026-09-06
-- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
-- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
-- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
-- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
-- ALAT par langue:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf

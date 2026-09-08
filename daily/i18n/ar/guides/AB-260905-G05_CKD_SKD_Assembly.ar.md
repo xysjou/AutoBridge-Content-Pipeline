@@ -1,15 +1,17 @@
 # CKD/SKD جمعية التصدير والخارج - النموذج والتصنيف والامتثال
 
-## SEO Metadata
-- ** عنوان الحلقة**: CKD/SKD جمعية تصدير المواد وما وراء البحار: التصنيف والامتثال
-- ** وصف البيانات**: كيفية عمل مجموعة أدوات تصدير مركبات CKD/SKD: تصنيف مبني على النظام المنسق، ولماذا تكون تعريفات المحلية محددة قطريا، وما يجب على المصدر الصيني أن يتحقق منه قبل مجموعات الشحن.
-- ** H1 **: جمعية تصدير السلع والطرقات الخارجية - نموذج تصنيفها والامتثال لها
-- ** كلمة رئيسية**: مجموعة مواد التصدير
-- ** شروط البحث الثانية**: تصدير أسلحة الدمار الشامل؛ مجموعة مواد الإغراق؛ التجمع في الخارج؛ 2 (أ) غير مجمعة؛ تعريفة التجمع المحلي
-- ** URL المقترض**: /guides/ckd-knockdown-kit-export-assembly/
-- ** الحلقة الدراسية**: 区分 وحدة من وحدات التراكم الديمقراطي الكردي 模式، 理解散件出口归类 بيزو 原产地与目的国组装的关键合规问题
-- ** Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: CKD/SKD دقّة جمعية تصدير المواد وما وراء البحار: التصنيف والامتثال
+- **وصف Meta**: كيفية عمل CKD/SKD من مجموعات المركبات للتصدير: التصنيف القائم على النظام المنسق، وسبب اعتبار تعريفة الوجهة/المعاملة المحلية محددة بالنسبة لبلد معين، وما يجب على المصدر الصيني أن يتحقق منه قبل مجموعات الشحن.
+- **H1**: CKD/SKD جمعية التصدير والخارج - النموذج والتصنيف والامتثال
+- **الكلمة المفتاحية الرئيسية**: مجموعة مواد التصدير
+- **مصطلحات بحث ثانوية**: CKD   SKD  export; - مجموعة مواد للهبوط؛ - التجمع في الخارج؛ GRI 2 (أ) غير مجمع؛ التعريفات الجمركية على التجمعات المحلية
+- **URL المقترح**: /guides/ckd-skd-knockdown-kit-export-assembly/
+- **نية البحث**: فهم CKD/SKD جمعية تصدير وخارج الطرق - نموذج وتصنيف والامتثال: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating CKD/SKD knockdown Export and Overseas Assembly — Model, Classification and Compliance, no staged inspection or people claimed.
+- **نص ALT**: نظرة طبيعية وثيقة على المواد والموضوع المتصل بـ CKD/SKD جمعية تصدير النكات وما وراء البحار - نموذج وتصنيف ومقارنة، خلفية محايدة، لا يوجد أشخاص أو إجراءات تفتيش مبيّنة.
+- **نطاق المخطط**: المادة (لا المنتجات/القابلية/الاستعراض)
 
 ## ما تعنيه شرطة (كي دي) و(سكا دي) في قرار مصادر
 A **SKD (semi-knocked-down)** (أ) ** CKD (إغلاق كامل)** سفن مجموعة مواد مكتملة من المكونات للتجمع المحلي. ويحل كلاهما محل تصدير من المركبات المنتهية بنموذج قطع الغيار والأجزاء، عادة ما يلبي سياسة المقصد المحلية. النداء التجاري حقيقي، لكن النتيجة تقررها هيئة الجمارك**، وليس من قبل المصدر الصيني الذي يسمي شحنة "CKD".
@@ -37,7 +39,6 @@ A **SKD (semi-knocked-down)** (أ) ** CKD (إغلاق كامل)** سفن مجم�
 ** هل يمكن لتصميم مجموعة واحدة أن يعمل في كل سوق**؟ لا - إن شروط التصنيف والتجمع هي شروط خاصة بكل بلد.
 ** ماذا ينبغي أن تفعل المنظمة؟** (ب) أن يُعين خطاً من فئة الخدمة البشرية، ومصدراً وقيمة لكل عنصر قبل التصنيف.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
@@ -56,17 +57,17 @@ A **SKD (semi-knocked-down)** (أ) ** CKD (إغلاق كامل)** سفن مجم�
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** موديل توبيتش**: بالضبط CKD/SKD طرق التصدير وتسويق ما وراء البحار
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact CKD/SKD Knockdown Export and Overseas Assembly
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
@@ -80,6 +81,5 @@ A **SKD (semi-knocked-down)** (أ) ** CKD (إغلاق كامل)** سفن مجم�
   - **ID**: CKD SKD knockdown, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CKD SKD knockdown, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CKD SKD knockdown, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CKD #OverseasAssembly

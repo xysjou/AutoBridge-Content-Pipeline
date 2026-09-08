@@ -2,13 +2,16 @@
 ## SEO Metadata
 - **SEO Title**: JAC Kangling Lingpao L6 Light Truck: Chassis, GVW & Driveline for Importers
 - **Meta Description**: JAC 1Ka Lingpao (Kangling) L6 light truck explained by chassis family — Anhui-Cummins 2.5 diesel power steps, 4T/5T rear axle, multiple MIIT announcement bodies, and how to pin the exact export build.
-- **Suggested URL**: /vehicles/jac-kangling-light-truck/
 - **H1**: JAC Kangling Lingpao L6: Matching Chassis, Announcement Model and Superstructure for an Export Order
 - **Primary Keyword**: JAC Kangling Lingpao L6 light truck specifications export
 - **Secondary Search Terms**: JAC Lingpao L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 light truck, China 4.5t GVW diesel truck, JAC 1Ka light truck export, Kangling dropside truck
+- **Suggested URL**: /vehicles/jac-kangling-light-truck/
+- **Search Intent**: Understand JAC Kangling Lingpao L6: Matching Chassis, Announcement Model and Superstructure for an Export Order: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
-- **Image Suggestions**: side view of an L6 dropside; official chassis-frame and rear-axle layout; engine bay of the HFC4DE3 2.5 diesel; comparison of dropside/box/stake bodies; single-row 1920 mm cab
-- **ALT Suggestions**: "JAC Lingpao L6 4x2 diesel light dropside truck"; "Lingpao L6 180 mm chassis frame and 4T/5T rear axle"; "Anhui Cummins HFC4DE3 2.5-litre diesel engine"
+- **Image Suggestion**: side view of an L6 dropside; official chassis-frame and rear-axle layout; engine bay of the HFC4DE3 2.5 diesel; comparison of dropside/box/stake bodies; single-row 1920 mm cab
+- **ALT Suggestion**: JAC Lingpao L6 4x2 diesel light dropside truck
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+
 ## Why an L6 Is Ordered by Chassis Code, Not by a Model Name
 A Chinese light commercial truck is not a fixed passenger-car specification: the **Lingpao L6 (领跑L6, sold under JAC's 1Ka / 康铃 light-truck line)** is a *chassis family* that JAC builds with several engines, two wheelbases, two rear-axle ratings and many factory or coachbuilt bodies (dropside 栏板, box 厢式, stake 仓栅, refrigerated and more). Each legal combination carries its own **MIIT announcement model (公告型号)** and its own curb weight / rated payload. "An L6" therefore says nothing precise until the announcement model, engine suffix and body are named. This page separates what JAC officially publishes about the platform from the single announcement build captured in the commercial-vehicle database, so an importer can order a defined truck rather than a name.
 ## The Platform, per JAC's Official Configuration Table

@@ -1,15 +1,17 @@
 # Foton Aumark (奥铃) Kühltruck — Fahrwerk, Kühleraufbau und Kühleinheit Buyer Guide
 
-## SEO Metadaten
-- **SEO Titel **: Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide
-- **Meta Description**: Foton Aumark (Ollin) Reefer: 150 PS Jieyun Chassis, 4.085 m isolierte Karosserie, GVW 4.495 t, Thermo King Inland Einheit Optionen, und wie ein Kühlwagen für den Export zu spezifizieren.
-- **Vorgeschlagene URL**: /Fahrzeuge/foton-aumark-refrigerated-truck/
-- ** H1 **: Foton Aumark Kühltruck: Trennen von Fahrwerk, isoliertem Aufbau und Kühleinheit
-- ** Primäres Stichwort**: Foton Aumark Kühlfahrzeug Spezifikationen Export
-- **Secondary Search Terms**: Ollin Reefer Truck China, Foton Cummins 2.8 gekühlt, Thermo King T880 Pro Truck, 4.5t Reefer Truck Export, Chinesischer Kühlketten-Truck
-- **Interne Linkvorschläge**: /Fahrzeuge/Jac-Kangling-Light-Truck/; /Guides/Gewerbe-LKW-Flotte-Beschaffung-china/; /Guides/Marine-Cargo-Versicherung-Auto-Import/
-- **Bildvorschläge**: Kühlkörper in Seitenansicht; Kühlgerät auf Kabinendach; isolierter Kasteninnenraum mit Fleischhaken; Chassisplatte; Temperaturregler
-- **ALT Vorschläge**: "Foton Aumark 4x4 Kühlwagen mit isolierter Box, China spec"; "Truck-mounted Thermo King Kühleinheit"; "Reefer Box Interieur und Fleischschiene"
+## SEO-Metadaten
+- **SEO-Titel**: Foton Aumark Kühltruck Specs & Reefer Build Export Guide
+- **Meta-Beschreibung**: Foton Aumark (Ollin) Kühler: 150 PS Jieyun Chassis, 4.085 m isolierte Karosserie, GVW 4.495 t, Thermo King / Inland Einheit Optionen, und wie ein Kühlwagen für den Export zu spezifizieren.
+- **H1**: Foton Aumark Kühltruck: Trennen von Fahrwerk, isoliertem Aufbau und Kühleinheit
+- **Haupt-Keyword**: Foton Aumark Kühllastwagen Spezifikationen Export
+- **Sekundäre Suchbegriffe**: Ollin Reefer Truck China, Foton Cummins 2.8 gekühlt Thermo King T880 Pro Truck, 4.5t Reefer Truck Export, Chinesischer Kühlketten-Truck
+- **Vorgeschlagene URL**: /vehicles/foton-aumark-refrigerated-truck/
+- **Suchabsicht**: Foton Aumark Kühltruck: Trennung von Fahrwerk, Isolierkörper und Kühleinheit: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
+- **Bildvorschlag**: Seitenansicht Reeferkörper
+- **ALT-Text**: Foton Aumark 4x4 Kühlwagen mit isolierter Box, China spec.
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Wie man einen gekühlten LKW spezifizieren
 
@@ -71,30 +73,30 @@ Es wurde kein maßgeblicher Preis erfasst - die Preisgestaltung für Kühlschrä
 **Warum wird kein Preis angegeben?** Die Kosten für den Kühler hängen stark von der Box und der Kühleinheit ab; no reliable 2026-09-02 price was captured,  and  Eine wird nicht geschätzt.
 
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
 ## Quellen & Verifizierung
 

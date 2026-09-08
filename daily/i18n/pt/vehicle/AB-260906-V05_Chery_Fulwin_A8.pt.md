@@ -1,16 +1,16 @@
 # Chery Fulwin A8 (Fengyun A8): China-Mercado PHEV Referência de exportação do Sedan
-## SEO Meta- dados
-- ** Título SEO**: Chery Fulwin A8 PHEV Exportar Especificações: Duas Linhas de Intervalo, Bateria e Modos
-- ** Descrição do Meta**: Referência do mercado chinês para o sedan híbrido Chery Fulwin/Fengyun A8: as linhas 70 km e 145 km mantidas separadas, sistema híbrido C-DM, carregamento e PHEV-específicos de exportação.
-- ** H1 **: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Referência de exportação do Sedan
-- **Chave principal**: Chery Fulwin A8 Fengyun A8 especificações de exportação
-- ** Termos de pesquisa secundários**: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC; Fulwin A8 145 km; Chery plug-in híbrido exportação; Fulwin A8 dimensões
-- **Suggested URL**: /vehicles/chery-fulwin-a8/
-- **Intenção de pesquisa**: 面向海外 B 端买家介绍风云 A8 中国市场版本身份, 插混系统 纯电续航 版本边界
-- **Internal Link Suggestions**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **Image Suggestion**: Vista lateral de um sedan híbrido Chery Fulwin A8 com porta de carregamento visível
-- **ALT Sugestão**: Perfil lateral de um sedan Chery Fulwin A8 PHEV com sua aba de carregamento visível
-- **Schema Scope**: Article + Vehicle
+## Metadados SEO
+- **Título SEO**: Chery Fulwin A8 PHEV Exportar Especificações: Duas Linhas de Intervalo, Bateria e Modos
+- **Meta descrição**: Referência ao mercado chinês para o sedan híbrido Chery Fulwin/Fengyun A8 plug-in: as linhas 70 km e 145 km mantidas separadas, sistema híbrido C-DM, carregamento e PHEV -controlos de exportação específicos.
+- **H1**: Chery Fulwin A8 (Fengyun A8): China-Mercado PHEV Referência de exportação do Sedan
+- **Palavra-chave principal**: Chery Fulwin A8 Fengyun A8 export specs
+- **Termos de busca secundários**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC gama elétrica; Fulwin A8 145 km; Chery plug-in híbrido exportação; Fulwin A8 dimensões
+- **URL sugerida**: /vehicles/chery-fulwin-a8/
+- **Intenção de busca**: Compreenda Chery Fulwin A8 (Fengyun A8): China-Market PHEV Exportar o Sedan Referência: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma encomenda.
+- **Sugestões de links internos**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- **Sugestão de imagem**: Vista lateral de um sedan híbrido Chery Fulwin A8 com porta de carregamento visível
+- **Texto ALT**: Perfil lateral de um sedan Chery Fulwin A8 PHEV com sua aba de carregamento visível
+- **Escopo do schema**: Artigo + Veículo
 
 O Fulwin A8 (Chinese Fengyun A8) é o sedan híbrido compacto de Chery construído sobre o sistema híbrido C-DM Kunpeng — um PHEV de cinco lugares, motor de tração frontal que emparelha um motor a gasolina com um motor elétrico e uma bateria de tração. PHEVs recompensam leitura cuidadosa porque duas "linhas de alcance" com pilhas diferentes  and  saídas se encontram sob um nome de modelo,  alongside a longer A8L body. Esta é uma referência ** Chinesa-mercado** que mantém essas linhas separadas.
 

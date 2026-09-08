@@ -1,16 +1,16 @@
 # Seguro de crédito de exportación de China (Cubierta de corto plazo de SINOSURE): Lo que los exportadores de vehículos están realmente comprando
-## SEO Metadatos
-- **SEO Título**: SINOSURE Seguro de Crédito de Exportación a corto plazo para los Exportadores de Vehículos TENIDO AutoBridge
-- **Meta Descripción**: Cómo un exportador chino utiliza SINOSURE seguro de crédito a corto plazo para cubrir el riesgo comercial y político del comprador, que puede aplicar, y lo que la política nunca garantiza.
-- ** H1 **: Seguro de crédito de exportación de China (Cubierta a corto plazo de SINOSURE): Lo que los exportadores de vehículos están realmente comprando
-- **Primary Keyword**: seguro de crédito de exportación de China sinosure
-- **Segundary Search Terms**: seguro de crédito a corto plazo de exportación; riesgo de comprador SINOSURE; exportación de cobertura de riesgo político; aplicación de seguro de crédito a exportación; seguro de cuenta abierta China
-- **Suggested URL**: /guides/china-export-credit-insurance-sinosure/
-- **Intent de búsqueda**: 汽车出口商如何用中国出口信用保险 (中信保短期险) 覆盖买方商业 政治风险, 通过什么渠道投保
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+## Metadatos SEO
+- **Título SEO**: SINOSURE Seguro de crédito a corto plazo para exportadores de vehículos TENER AutoBridge
+- **Meta descripción**: Cómo un exportador chino utiliza SINOSURE seguro de crédito a corto plazo para cubrir el riesgo comercial y político del comprador, que puede aplicar, y lo que la política nunca garantiza.
+- **H1**: Seguro de crédito de exportación de China (SINOSURE cobertura a corto plazo): Lo que los exportadores de vehículos están realmente comprando
+- **Palabra clave principal**: seguro de crédito de exportación de China sino seguro
+- **Términos de búsqueda secundarios**: seguro de crédito a corto plazo de exportación; riesgo de comprador de SINOSURE; riesgo político cubre la exportación; aplicación de seguro de crédito a la exportación; seguro de cuenta abierta China
+- **URL sugerida**: /guides/china-export-credit-insurance-sinosure/
+- **Intención de búsqueda**: Comprender el seguro de crédito de exportación de China (SINOSURE Cubierta a corto plazo): Lo que los exportadores de vehículos están comprando realmente: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /guides/export-payment-methods-t-t-lc-risk/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
 - **Sugerencia de imagen**: Un exportador revisando un archivo de límite de crédito comprador junto a un patio de vehículos terminados
-- **ALT Sugerencia**: Escritorio con un documento de límite de límite de un seguro de crédito de exportación y una fila de vehículos de exportación en el fondo
-- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
+- **Texto ALT**: Escritorio con un documento de límite de contrato de seguro de crédito de exportación y una fila de vehículos de exportación en el fondo
+- **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 Una orden de vehículos es tan segura como la deuda que hay detrás de ella. Cuando un exportador chino acepta enviar a cuenta abierta, contra una carta de crédito de usanza o con pago después de la llegada, el exportador cargará la brecha entre entregar un activo de alto valor y recibir fondos de compensación a menos que se transfiera algo que corra ese riesgo. La aseguradora de crédito de exportación de China, la Corporación de Seguros de Crédito de Exportación de China (SINOSURE), es la institución nacional construida para llevar parte de esa brecha. Esta página explica lo que su producto a corto plazo cubre en realidad, donde se encuentran los límites y cómo se aplica un exportador de vehículos, sin citar tasas o porcentajes de indemnización, que se establecen caso por caso y cambio con el tiempo.
 

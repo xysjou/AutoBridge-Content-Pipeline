@@ -1,19 +1,21 @@
 # ไบดีดอล 2025 (จีน:  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin  Dolphin):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):):  Dolphin  Dolphin):):):  Dolphin  Dolphin  Dolphin  Dolphin):):):):):):):):):):):):):):): แบตเตอรี่ CLTC ช่วง  and  มอเตอร์สคูลสําหรับนําเข้า
-## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: ไบดีดอลฟิน 2025 สเปคของจีน: แบตเตอรี, เรนจ์และค่าตรวจสอบ
-- ""คําอธิบาย" 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW เกรด  420/520 km CLTC, ไดพล็อต กับวินัยของจีน-เวียส-เหนือทะเล สําหรับผู้ซื้อ
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ไบด์-ดอลฟิน/
-- ** H1 ~: ไบดีดอลฟิน 2025 (Chinese-Maget): Variants, แบตเตอรี, Sport Cyclee และ ส่งออกการตรวจสอบ
-- ~คําสําคัญในจดหมาย: โลมาขนาด 2025 สเปกตรัม 'Chone's sport sports
-- ~การค้นหาตามวาระที่: ~ ไบดีดอล 44.9 kWh ดอลฟิน 60.48 kWh อัศวิน  Dolphin CLTC 420 520, ส่งออก ESV ขนาดเล็ก ดอลฟิน ดิพิโลท ชาร์จ EV ของจีน GB/T
-- ~ เชื่อมโยงภายใน **: / vehines/byd-uan-+/;//farios/farison-xing- v6e-specs/; / guides/chinish-chinish-chiting-computs/;//// guides/five-s-septing- un3171-imdg-compliance/
-- ** คําแนะนําการขอข้อมูล ~: การเปรียบเทียบเกรดตัววีส ไนท์; กล่องแบตเตอรีเบลด; พอร์ตชาร์จ GB/T; การหมุน/ การรับข้อมูลหน้าจอ; ที่นั่งหลัง
-- ~~~~~~~~~ คําแนะนํา: "BID Dolphin 2025 เกรดแบตเตอรี่สองระดับ". "Dolphin CLTC Sports กับ วงจรต่างประเทศ"
+## ข้อมูลเมตา SEO
+- **ชื่อ SEO**: BYD ดอลฟิน 2025 สเปกของประเทศจีน: แบตเตอรี, ช่วง และค่าตรวจสอบส่งออก
+- **คำอธิบาย Meta**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW เกรด  420/520 km  CLTC , ไดพล็อต กับวินัยของจีน-เวียส-เหนือทะเล สําหรับผู้ซื้อ
+- **H1**: BYD ดอลฟิน 2025 (Chinese-Maget): Variants, แบตเตอรี, Sport Cyclee และส่งออกการตรวจสอบ
+- **คีย์เวิร์ดหลัก**: โลมา ที่ มี ลักษณะ แบบ โลมา 2025 ชนิด ที่ มี เกล็ด แบตเตอรี่ อยู่ ใน ระยะ ประมาณ กัน ว่า มี เกล็ด ไฟฟ้า อยู่ ใน ระยะ ไหน.
+- **คำค้นหารอง**: BYD ดอลฟิน 44.9 kWh (พ.ศ. ดอลฟิน 60.48 kWh อัศวิน  Dolphin  CLTC  420 520, BYD ส่งออกขนาดเล็ก EV ดอลฟิน ดิพิโลท ชาร์จ ประเทศจีน EV GB/T
+- **URL ที่แนะนำ**: /vehicles/byd-dolphin/
+- **เจตนาการค้นหา**: เข้าใจ BYD ดอลฟิน 2025 (Chinese-Maget): Variants, แบตเตอรี, Sport Cycle และส่งออก access: สิ่งที่นักส่งออกรถ/พาร์ทเนอร์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- **คำแนะนำลิงก์ภายใน**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **คำแนะนำรูปภาพ**: เปรียบเทียบมาตรฐานกับเกรดของอัศวิน
+- **ข้อความ ALT**: BYD ดอลฟิน 2025 เกรดแบตเตอรี่สองระดับ
+- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: การตัดสินใจ EV เริ่มต้นด้วยแบตเตอรี่และวงจร
 ดอลฟินเป็นแบตเตอรี bedback ของไบดี บน e-platiform 3.0 ด้วยแบตเตอรี่ LFP สําหรับอีวี ลําดับคือช่วงแบตเตอรี่ มอเตอร์ไซด์  ขณะ → มอเตอร์ชาร์จ/ซอฟแวร์ ไม่ใช่หมายเลขพาดหัว หน้านี้ครอบคลุม. 2025 จีน-มาร์เก็ต (REFEST MCKE:  CHINA) ~. BD ยังขายตรารถ "ดอลฟิน" ในตลาดต่างประเทศด้วย ชื่อต่อเนื่อง ไม่ใช่รุ่น 1 ตรงกับ – 1 สเปกนิก แบตเตอรี่ต่างประเทศ ขนาดที่รับรองได้ วงจรวงจรการรับรอง (WLTP/NEDC) และอุปกรณ์ต่างๆ ที่อ่านจากแผ่นปลายทาง ไม่เคยอ่านจากหมายเลขของจีนเลย
 
-## Two Motor Grades, Two Batteries (China reference)
+2554) มอเตอร์สคูล 2 เบรกทรีส (อ้างอิงจีน) พ.ศ.
 | รายการ | Standard grades (活力/自由/时尚) | เกรดอัศวิน (骑士版) |
 |---|---|---|
 | มอเตอร์ไดรฟ์ | 70 kW / 180 N·m | 150 kW / 310 N·m |
@@ -40,7 +42,7 @@ The 420/520 km figures are **China CLTC**. อ้างถึงวงจรท�
 กระแทกประตูห้าประตู 2700 mm ล้อล้อ; พ.ศ. มาตรา 4125 mm อัศวิน 4150 mm; width/height 1770/1570 mm. รอยเท้าเล็กๆและวงกลมที่หมุนแน่น เหมาะกับเรือในเมือง แต่ห้องโดยสารด้านหลังและสินค้า คาดหวังควรตั้งจากมิติเหล่านี้
 
 ## สิ่ง ที่ ผู้ ส่ง ส่ง เสริม ควร ตรวจ สอบ ก่อน จะ จ่าย
-1. **Grade + battery + motor as one locked combination** (70 kW/44.928 kWh vs 150 kW/60.48 kWh).
+1 ~สัญญา # แบตเตอรี่ + มอเตอร์เป็น 1 รวมกันที่ล็อคไว้~ (70 kW/44.928 kWh vs 150 kW/60.48 kWh).
 2. ~วงจร Range ~ ระบุ CLTC; ปลายทาง WLTP/NEDC นํามาจากแผ่นปลายทางเท่านั้น
 3. ~GB/T vs เชื่อมต่อปลายทาง ~, AC/DC ressociety และการปรับปรุงใด ๆ ที่ถูกกฎหมาย
 4. ** รายการคุณสมบัติของดิพล็อต* สําหรับเกรดที่แน่นอน ** language/OTA ~ ทดสอบในวีเอ็น
@@ -56,18 +58,18 @@ The 420/520 km figures are **China CLTC**. อ้างถึงวงจรท�
 ~ ดอลฟินจีน ชาร์จต่างประเทศโดยไม่ปรับเปลี่ยนหรือเปล่า~ ตรวจสอบโครงสร้างพื้นฐานของ GB/T ที่ใช้กับปลายทางบน VN; ตัวปรับตัวเพียงอย่างเดียว อาจจะยังไม่แก้ไขความขัดแย้งกันในโพรโทคอลได้
 
 ## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug
@@ -90,15 +92,15 @@ The 420/520 km figures are **China CLTC**. อ้างถึงวงจรท�
 | 2025 ดอลฟิน DiPilot | ซินเชปป์ / ทูเทียอาโอ | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | รายละเอียด ACC/ ADB/ LADA |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
 | ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 | 2025 หน้าต้นแบบของดอลฟินอย่างเป็นทางการ (เครือข่ายของออคโตเนียน) | ไบต์ออโต้ (ประกาศการ *ผู้จัดการ ~) | CN | https://www.byd.com/cn/ocean-home/models/haitun/2025haitun | 2026-09-05 | ISFIIIE (OEM; ขอบเขตการแสดงตัว) | OEM สมอสําหรับ โมเดลของดอลฟิน 2025 แบตเตอรี่ LFP และ e-platiform 3.0 หน้าสาธารณะเป็นรูปแบบที่ผันผวน และไม่ได้ตีพิมพ์ตารางสเปกตรัมแบบคงที่ ดังนั้น เกรดด้านล่างจึงดําเนินการโดยการตรวจสอบข้าม |
-| Dolphin 智驾版 (DiPilot) หน้าต้นแบบอย่างเป็นทางการ (Dipilot) พ.ศ. | ไบต์ออโต้ (ประกาศการ *ผู้จัดการ ~) | CN | https://www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | ISFIIIE (OEM; ขอบเขตการแสดงตัว) | การแสดงตัวของ ISM สําหรับ chart-diritering (dipilot) บรรทัดเกรด  and  การระงับการพักเครื่องแบบอิสระจากด้านหลัง |
+| ดอลฟิน 智驾版 (Dipilot) ห ห ห น ห ห ห ห (DiPlot) ห ห ห น น (DiPilot) (Diszzzzzazi) น pilot pilot พ พ อ อ อ อ | ศ ป ป ป ป ป ) ) | | | | ป ป | | | 智驾版 | | | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | ) ) | | | | | | | | | | | 智驾版 | | | | | | | 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 智驾版 | ไบต์ออโต้ (ประกาศการ *ผู้จัดการ ~) | CN | https://www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | ISFIIIE (OEM; สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 20 July 2015.
 | 2025 ดอลฟินเกรด/ แบททีรี/ตารางเอฟเฟ็คต์ | ฐานข้อมูลต้นแบบ Q&A อัตโนมัติ | CN | https://www.autohome.com.cn/ask/24636224.html | 2026-09-05 | ซิงเกิล_จดหมาย (รองรับเท่านั้น) | AI-grited Q&A page — การรองรับเฉพาะบริบทเท่านั้น ที่ไม่ได้ใช้เป็นกฏการข้ามขาต่อสัดส่วนของแหล่งเท่านั้น |
-| 2025 ตารางการปรับแต่งพารามิเตอร์ของดอลฟิน | 太平洋汽车 PCauto configor | CN | https://price.pcauto.com.cn/s48492/config.html | 2026-09-05 | ROOS_ CHCKED | ตารางปรับแต่งค่าจีนอิสระ (ตรวจสอบได้): CLTC 420/520 บรรทัด,  44.9/60.48 kWh, เกรดเมทริกซ์ — การตรวจสอบขาแบบไขว้ # 1 |
+| 2025 ตารางการปรับแต่งพารามิเตอร์ของดอลฟิน | 太平洋汽车 PCauto configor | CN | https://price.pcauto.com.cn/s48492/config.html | 2026-09-05 | ROOS_ CHCKED | ตารางปรับแต่งค่าจีนอิสระ (ตรวจสอบได้): CLTC 420/520-0. สืบค้นเมื่อ 20 พฤษภาคม 2560. สืบค้นเมื่อ 20 พฤษภาคม 2560. "เมื่อ 20 พฤษภาคม 2560". สืบค้นเมื่อ 20 พฤษภาคม 2560. 44.9/60.48 kWh, สืบค้นเมื่อ Declos Mother policy รtenzzzzzzo — eptember ว ว จ อ อ อ อ แ แ แ แ แ แ ไ ไ ไ ไ ไ ไ ว ว ว ว ว ว ว ว ว ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ้ ์ ์ ์ ้ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์  1 ○
 | 海豚 参数配置（2025款） | 汽车之家 ชุดของการปรับแต่งบ้านอัตโนมัติ | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | ROOS_ CHCKED | ตารางพารามิเตอร์ที่เหมาะสม (ไม่ใช่ AI Q&A Page), ยืนยันการเข้าถึงได้: 2025 เกรด/ batry/CLTC matrix — การแยกเครื่องหมายตัดขา # 2 |
-| BD Dolphin 2025 จุลสารอย่างเป็นทางการ | ไบต์ออโตโมทีฟออสเตรเลีย (เจ้าหน้าที่ OEM/Distributor) | AU | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | ISMIFIE (OEM; ขอบเขตการส่งออก- ตลาด) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  ขนาด NEDC 410/490 ของพระนคร พ.ศ.  and  WLTP 340/427 เป็นตัวเลขรถยนต์ส่งออก  and  ไม่ใช้เป็น NGhine CLTC 420/520 |
+| BD Dolphin 2025 จุลสารอย่างเป็นทางการ | ไบต์ออโตโมทีฟออสเตรเลีย (เจ้าหน้าที่ OEM/Distributor) | AU | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | ISMIFIE (OEM; ขอบเขตการส่งออก- ตลาด) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  ขนาด NEDC 410/490 ของพระนคร พ.ศ. and  WLTP 340/427 เป็นตัวเลขรถยนต์ส่งออก  and  ไม่ใช้เป็น NGhine CLTC 420/520 |
 
 *บันทึกการทํางาน- slope: หน้าจีนอย่างเป็นทางการของไบดี (เชื่อมโยงทางด้านบน) เปิดเผยตัวตนของดอลฟิน 2025 แบตเตอรีของเบลด LFP  and  แพลตฟอร์ม 3.0  และ BD ออสเตรเลียอย่างเป็นทางการ 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, แยกตัวจากตัวเลขจีน) ค่า นิยม ของ ระดับ มัธยม จีน — 70 kW / 44.928 kWh / 420 km CLTC  and  150 kW/60.48 kWh/520 km CLTC — พักใน real-fact cross-chek check โดยสองตารางพารามิเตอร์จีนอิสระตรวจสอบถึง 2026-09-05 (PCauto s48492 ปรับแต่งและส่วนของบ้านอัตโนมัติ 6139 search) รองรับโดย สารานุกรม IT/Pauto Auto home * หน้า* AI are-grited และไม่ได้จงใจใช้เป็นขาที่ตัดสิน ตัวร่างก่อนหน้านี้มีชื่อว่า "เอ็กซ์คาร์" ไม่มีที่อยู่ URL — ที่การอ้างอิงไม่รองรับได้ถูกลบออกไป (ไม่มีหน้า Xcar ที่เข้าถึงได้). เชื่อมโยงเกรดที่แน่นอนกับรายการ MIT และ VIN ก่อนสั่ง CLTC เป็นรถจีนเท่านั้น และไม่เคยเทียบเท่า WLTP/NEDC ในต่างประเทศ; ต่างประเทศมีชื่อเดียวกัน โลมาสร้างตลาดแตกต่างกัน สํานักพิมพ์ควบคุมแพทช์ 2026-09-05 แบตเตอรี/ momoorline ปัจจุบัน OEM- รองรับ (โบรชัวร์ AU) ขอบเขตการส่งออก)  and  ประเทศจีน CLTC มีค่าแบบตัดขวางเดียวกัน โดยโต๊ะปรับแต่งอิสระสองโต๊ะ ย้ายหน้าออกต้องการ (จีนCLTC ความมั่นใจ CROSS_CHCKED) ไม่โอเอ็ม-IFIIIIE). *
 

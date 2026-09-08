@@ -1,16 +1,16 @@
 # Changan Kaicene F70: Eine China-Markt Body-on-Frame Pickup Referenz, die um Bett, Radstand und Antriebsstrang gebaut wurde
-## SEO Metadaten
-- **SEO Titel**: Changan Kaicene F70 China-Markt Pickup Specs und Export-Checks | AutoBridge
-- **Meta Description**: Chinesische Marktreferenz für den Changan Kaicene F70 Pickup: Standard vs. Langradbetten, Karosserie-on-Frame-Chassis und 2WD/4WD Layout, mit nicht verifizierten Schlepp- / Nutzlastzahlen absichtlich gehalten.
-- ** H1 **: Changan Kaicene F70: Eine China-Markt Body-on-Frame Pickup Referenz, die um Bett, Radstand und Antriebsstrang gebaut wurde
-- **Hauptschlüsselwort**: Changan Kaicene F70 Exportspezifikationen
-- **Secondary Search Terms**: 长安凯程 F70; Kaicene F70 Dimensionen; F70 Langbett; JE4D25 Diesel Pickup; Chinesischer Pickup Export; Blauwal Langbett
-- **Vorgeschlagene URL**: /Fahrzeuge/changan-kaicene- f70/
-- **Search Intent**: 面向海外买家介绍长安凯程 F70 中国市场身份 标轴 / 长轴货箱 非承载底盘与四驱, 未核实拖拽 / 承载保持待证
-- **Interne Linkvorschläge**: /Fahrzeuge/qingling-isuzu- kv100/, /Fahrzeuge/jmc-ford-transit- t8/, /guides/verify-chinese-car-export-supplier-history/
-- **Bildvorschlag**: Ein Changan Kaicene F70 Doppelkabinen-Pickup, der vom Seitenprofil aus angezeigt wird, um sein Ladebett anzuzeigen
-- **ALT Vorschlag**: Side profile of a double-cab Changan Kaicene F70 pickup showing the cargo bed on neutral ground
-- **Schema-Scope**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Bewertung / Bewertung)
+## SEO-Metadaten
+- **SEO-Titel**: Changan Kaicene F70 China-Markt Pickup Specs und Export-Checks | AutoBridge
+- **Meta-Beschreibung**: Chinesische Marktreferenz für den Changan Kaicene F70 Pickup: Standard vs. Langradbetten, Karosserie-on-Frame-Chassis und 2WD/4WD Layout, mit nicht verifizierten Schlepp- / Nutzlastzahlen absichtlich gehalten.
+- **H1**: Changan Kaicene F70: Eine China-Markt Body-on-Frame Pickup Referenz, die um Bett, Radstand und Antriebsstrang gebaut wurde
+- **Haupt-Keyword**: Changan Kaicene F70 Exportspezifikationen
+- **Sekundäre Suchbegriffe**: 长安凯程 F70; Kaicene F70 Dimensionen; F70 Langbett; JE4D25 Diesel Pickup; Chinesischer Pickup Export; Blauwal Langbett
+- **Vorgeschlagene URL**: /vehicles/changan-kaicene-f70/
+- **Suchabsicht**: Changan Kaicene F70: Eine China-Market Body-on-Frame Pickup Referenz, die um Bett, Radstand und Antriebsstrang gebaut wurde: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- **Bildvorschlag**: Ein Changan Kaicene F70 Doppelkabinenabholer, der vom Seitenprofil aus gezeigt wird, um sein Ladebett anzuzeigen
+- **ALT-Text**: Seitenprofil eines Changan Kaicene F70-Pickups mit Doppelkabine, der die Ladefläche auf neutralem Boden zeigt
+- **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 Der Changan Kaicene F70 ist ein Karosserie-on-Frame (nicht tragende) Mittelklasse-Pickup als Doppelkabine in Zwei- und Allradantrieb, mit Standard- und Langradstand / Bett-Versionen einschließlich einer Langbett-Blue Whale-Variante angeboten. Für einen Pickup-Käufer sind die Entscheidungen eher physisch als kosmetisch: ** Bettlänge, Radstand, Antriebsstrang und Fahrgestell ** und die Lade- / Abschleppnummern, die entscheiden, ob der LKW die Arbeit erledigt. Diese Seite ist eine **Chinesische Marktreferenz**. Es fixiert die Abmessungen, die überprüft werden, benennt die Motorenfamilien ohne Anheften von Single-Source-Ausgaben und hält absichtlich die weit verbreiteten Schlepp- und Nutzlastzahlen zurück, da kein OEM-Blatt oder Homologationsbulletin erfasst wurde, um sie zu unterstützen.
 

@@ -1,15 +1,29 @@
 # GAC Trumpchi E8 (传祺 E8): un VPM PHEV à sept places — Spécifications et contrôles à l'exportation en Chine
+## Métadonnées SEO
+- **Titre SEO**: GAC Trumpchi E8 PHEV MPV Spécifications et guide d'exportation (7-Seat, Chine)
+- **Description meta**: marché chinois Trumpchi E8 nouvelle énergie PHEV MPV — 2.0ATK moteur, Moteur 134 kW, Batterie 25.57 kWh, 150 km CLTC, 2+2+3 places assises,  and  comment il diffère de la Gloire HEV non-chargeuse.
+- **H1**: GAC Trumpchi E8 PHEV: Marché chinois à sept places MPV Spécifications et notes d'exportation
+- **Mot-clé principal**: gac trumpchi e8 spécifications export
+- **Termes de recherche secondaires**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 Gloire différence HEV, Trumpchi E8 7-seat, Chinois PHEV MPV exportation
+- **URL suggérée**: /vehicles/gac-trumpchi-e8/
+- **Intention de recherche**: Comprendre GAC Trumpchi E8 PHEV: Sept-Seat marché chinois MPV Spécifications et notes d'exportation: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **Suggestion d'image**: E8 profilé latéral MPV
+- **Texte ALT**: GAC Trumpchi E8 PHEV sept places MPV Chine
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## OEuvre Métadonnées
-- ** Titre du référencement**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, Chine)
-- **Description détaillée**: marché chinois Trumpchi E8 nouvelle énergie PHEV MPV — moteur 2.0ATK, moteur 134 kW, batterie 25.57 kWh, 150 km CLTC, 2+2+3 places assises, et comment il diffère de la Glory HEV non-chargeuse.
-- **URL suggérée**: /véhicules/gac-trompchi- e8/
-- ** H1 **: GAC Trumpchi E8 PHEV: Spécifications et notes d'exportation de sept sets de marché chinois
-- ** Mot-clé principal**: gac trumpchi e8 phev specs export
-- ** Termes de recherche secondaires**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 Différence de HEV Glory, Trumpchi E8 7-seat, Chinois Exportation de VPM de VPM de VPH
-- **Suggestions de liens internes**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/export-véhicule-document-package/; /véhicules/chery-fulwin- t9/
-- **Suggestions d'image**: E8 profil latéral MPV; 2+2+3 plan de siège; port de charge vs HEV sans port; troisième rangée; V2L sortie
-- **ALT Suggestions**: "GAC Trumpchi E8 PHEV sept places MPV Chine spec"""Trumpchi E8 2+2+3 sièges et cargaison"
+Métadonnées SEO
+- **Titre SEO**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, Chine)
+- **Description meta**: marché chinois Trumpchi E8 nouvelle énergie PHEV MPV — moteur 2.0ATK, moteur 134 kW, batterie 25.57 kWh, 150 km CLTC, 2+2+3 places assises, et comment il diffère de la Glory HEV non-chargeuse.
+- **H1**: GAC Trumpchi E8 PHEV: Spécifications et notes d'exportation de sept sets de marché chinois
+- **Mot-clé principal**: gac trumpchi e8 spécifications export
+- **Termes de recherche secondaires**: Trumpchi E8 MPV, 传祺 E8 ÉCOLE, E8 Différence de HEV Glory, Trumpchi E8 7-seat, Chinois Exportation de VPM de VPM de VPH
+- **URL suggérée**: /vehicles/gac-trumpchi-e8/
+- **Intention de recherche**: Comprendre le gac trumpchi e8 phev: Chinese-market sept-siège mpv spécifications et notes d'exportation: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **Suggestion d'image**: E8 profil latéral MPV; 2+2+3 disposition du siège; port de charge vs HEV sans port; troisième rangée; V2L sortie
+- **Texte ALT**: GAC Trumpchi E8 PHEV sept places MPV Chine
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte d'achat: une achat de VPM est décidée par Siège et par la fraction PHEV/HEV
 Pour un exportateur de MPV, les questions sont la géométrie de la cabine et l'architecture de siège d'abord, la motorisation deuxième. Sur le E8, il y a un piège à noms: le ** E8 New Energy est un hybride rechargeable avec un port de recharge**, tandis que le ** E8 Glory (荣耀) est un HEV sans port de recharge**. Ce sont des types d'énergie différents et doivent être cités sur des lignes distinctes. Cette feuille documente la version ** du PHEV du marché chinois (MARCHÉ DE LA RÉFÉRENCE: CHINE)**; une page de configuration d'OEM a été saisie.

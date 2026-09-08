@@ -1,14 +1,16 @@
 # BYD 海豚2025(中国):电池,CLTC范围及进口商两款汽车等级
-## 道德操守办公室 元数据
-- ** SIO标题**:海豚号2025 中国标本馆:电池,测距和导出检查
-- ** 金属说明**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70对150 kW级,  420/520 km CLTC, 迪皮洛特, 维基百科中的相关条目: 迪皮洛特 与中国VS海外游标学科对买家的规制.
-- ** 建议的URL**:/车辆/海豚/
-- ** H1 资源需求。 **: BYD 海豚2025(中国市场):变体、电池、射程循环和出口核查
-- ** 基本关键词**: byd 海豚 2025 范围电池规格
-- ** 二级搜索术语**: BYD 海豚44.9 kWh,海豚60.48 kWh Knight,海豚CLTC 420 520,BYD小EV出口,海豚DiPilot,中国EV GB/T充电
-- ** 内部链接建议**: /车辆/byd-yuan-plus/;/车辆/farizon-xingxiang-v6e-specs/;/ 指南/chinese-ev-充电-标准兼容性/;/ 指南/ev-shiping-un3171-imdg-compliance/
-- **图像建议**:标准与骑士等级比较;刀锋电池包注释;GB/T充值端口;旋转/信息娱乐屏幕;后座
-- **ALT建议**:"BYD海豚2025 双电池级";"海豚CLTC范围与海外循环".
+## SEO元数据
+- **SEO标题**: BYD 海豚2025 olph. 中国标本馆:电池,测距和导出检查
+- **Meta描述**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70对150 kW级,  420/520 km  CLTC , 迪皮洛特, 维基百科中的相关条目: 迪皮洛特 与中国VS海外游标学科对买家的规制.
+- **H1**: BYD 海豚2025(中马):变体,电池,射程循环和出口核查
+- **核心关键词**: byd 海豚 2025 范围电池谱
+- **次级搜索词**: BYD 海豚44.9 kWh,,, 海豚60.48 kWh号 骑士  Dolphin  CLTC  420 520, BYD 小型EV 出口, 海豚小猪, 中国 EV GB/T 电荷
+- **建议URL**: /vehicles/byd-dolphin/
+- **搜索意图**: 了解BYD 海豚2025(中国市场):变体、电池、射程循环和出口核查:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
+- **内链建议**: /vehicles/byd-yuan-plus/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **图片建议**: 标准比对 Knight 等级比较
+- **ALT文本**: BYD 海豚 2025 两个电池级
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者上下文: 以电池和循环启动 EV 决策
 海豚座是BYD在电子平台3.0上的紧凑电池孵化回放,带有LFP刀锋电池. 对于一台EV,订单是电池 → 范围 **循环** → 运动等级 → 充电/软件,不是单条头条号码. 本页面涵盖**2025中国市场线(ReFERENCE MARKET: CHINA)**. BYD在海外市场也销售一辆标有"海豚"字样的汽车;即名称连续性,**not** a 1:1 spec match——海外电池尺寸,认证范围周期(WLTP/NEDC)和设备不同,必须从目的地表读取,从这些中国数字中从未推断出来.
@@ -56,18 +58,18 @@ The 420/520 km figures are **China CLTC**. 总是引用数字旁边的循环:
 ** ** 对照VIN上的目的地基础设施验证GB/T输入;单凭适配器可能无法解决协议差异.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug

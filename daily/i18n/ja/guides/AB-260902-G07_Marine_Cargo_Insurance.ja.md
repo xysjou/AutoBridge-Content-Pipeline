@@ -1,14 +1,17 @@
 # 船舶用中国車向け海上貨物保険:ICC(A)/(B)/(C)、保険料、保険料
-## ツイート メタデータ
-- **SEOタイトル**:輸入中国車のための海洋保険:ICC クローゼ&クレーム
-- **メタ 記述**: 海上輸送の中国車が正しく保証 — 公立研究所貨物クルーズ(A)/(B)/(C)、車がAll-Risks、CIF/CIP Incoterms 2020の保険義務、保険保証値の規則およびクレームの証拠を必要とする理由。
-- **混雑URL**: /guides/marine-cargo-insurance-car-import/
-- H1 ホテル **: 海上輸送における中国車を保護する: 条項層, 詐欺が保証され、クレームが実際に支払われる方法
-- **主なキーワード**: 海洋貨物保険輸入中国車ICC A B C
-- **二次検索条件**: 研究所貨物クロース すべてのリスク、LMA CL382、CIP Incoterms 2020 ICC A、CIF ICC C 最小限、ハーグバイ SDR キャリア キャップ、RoRo 車両保険、EV バッテリー ファイアー カバー
-- **内部リンク提案**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/commercial-truck-fleet-procurement-china/; /guides/used-chinese-ev-inspection/
-- **画像提案**: ICC A B Cカバレッジピラミッド; 事前出荷条件写真セット; キャリアキャップ対車両値ギャップ
-- **ALT提案**:「貨物クロースB Cカバレッジ層」;「CIF対CIP販売保険のインコタームによる義務 2020 "; "クレームのための前処理車の状態記録"
+## SEOメタデータ
+- **SEOタイトル**: 輸入中国車のための海洋保険:ICCクロース&クレーム
+- **メタディスクリプション**: 海上輸送の中国車が正しく保証 — 公立研究所貨物クルーズ(A)/(B)/(C)、車がAll-Risks、CIF/CIP Incoterms 2020保険義務、保険保証値条約およびクレーム証拠を必要とする理由。
+- **H1**: オーシャントランジットで中国車を運ぶ: 条項の層、SMS の保険とクレームの実際はどのように支払われるか
+- **主要キーワード**: marine cargo insurance imported Chinese vehicle  ICC  A B C
+- **関連検索語**: 研究所貨物クローゼ すべてのリスク、LMA CL382、CIP Incoterms 2020 ICC A、CIF ICC C 最小、ハグバイ SDR キャリア キャップ、ロロ車保険、EV 電池の火の海洋カバー
+- **推奨URL**: /guides/marine-cargo-insurance-car-import/
+- **検索意図**: オーシャン・トランジットの中国車を守備する: 条項の層、暴露およびクレームの実際は支払われる方法:車両/部品輸出者が注文をコミットする前に確認、文書化、決定しなければならないもの。
+- **内部リンク候補**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- **画像候補**: ICC A/B/C の適用範囲のピラミッド
+- **ALTテキスト**: 研究所貨物クローゼA B C の適用範囲の層
+- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
+
 ## 輸入業者のお金のコストの誤解
 バイヤーは、FOB または CIF の下で、** のシップ ラインは完全に補償します** 傷、押しつぶされた、または水損傷した車。 キャリア責任は、自動車の価値のはるかに下にある国際条約によって捕捉され、通常の輸送ダメージがすべてで覆われているかどうかを選択貨物条項。 このページでは、中国から出荷される車両の**海洋貨物保険(グローバルオーシャンルート)- 条項とクレーム、インコターム価格とRoRoRo-vs-container選択とは異なる。
 ## 第三の条項の層 — 正式な言葉に固定
@@ -23,8 +26,8 @@
 ICC独自のインコターム材料(VERIFIED)に現在地を構えています。 **Incoterms 2020 の売り手の *minimum* の保険義務は CIP** の研究所の貨物クローゼ (A) に、一方 ** CIF は低い ICC (C) の最低を維持します** (ICC アカデミーは2010→2020変更とそのプレミアムトレードオフを説明しています。 実用的な結果:
 - **CIF**では、売り手は、車が必要とするにもかかわらず、**(A)**カバーを最小限にしか借りません。** 契約に明示的に**ICC(A)を書いて、信用の任意の手紙**、またはあなた自身のトップアップを購入してください。
 - **CIP**では、買い手の利益のために、デフォルト最小限は**ICC(A)**です。ただし、想定するよりも、証明書の実際の条項が確認されます。
-## Setting the Insured Value — Two Different "110%" Rules (no invented premium)
-The 110% convention appears in **two distinct contexts that must not be merged into one universal formula**:
+## 保険料の設定 — 異なる「110%」の2つのルール(未発明のプレミアム)
+110%の慣行は、**2つの異なるコンテキストで1つの普遍的な式に統合されなければならないと表示されます**:
 - Incoterms® 2020の特長 (売り手の保険義務):** 保険(CIF CIP)を必要とするインコタームが、売り手は、買い手の利益のために少なくとも110%の契約価格**の**のためのカバーを得なければならない場合**。
 - ** UCP(クレジット取引):** クレジットが保険を必要とするが、金額が無くなる場合、保険料は税関またはCIP値の少なくとも110%で、商品の保証額が慣習的に**である。
 So there is no single "insured amount = CIF × 110%" that covers every deal: どのルールが適用されるか(インコターム契約価格ベースまたはLCのCIF CIPベース)、そのベースを使用し、**premium = 保険料×レート**を保証した。 ** は、ルート、季節、層、船舶、貨物リスクで浮き上がっており、出荷ごとに引用されます** — ここには固定パーセンテージはありません。 パーシップメントの引用符を入手し、必要な句のティアとアドオンにマッチすることを確認します。
@@ -52,18 +55,18 @@ ICC(A)は、絶対ではありません:機械的/電気的故障、普通の摩
 **CIF または CIP — デフォルトは強い?** Incoterms 2020 CIP では、少なくとも ICC (A) が必要です。 CIF は ICC (C) にデフォルトで、 CIF の要求 (A) の書き込みで要求します。
 **全てのリスクに覆われたEVバッテリーの火災は?** つまり、EV を宣言し、書面による確認を得る。
 ## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,9 +83,9 @@ ICC(A)は、絶対ではありません:機械的/電気的故障、普通の摩
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 研究所貨物クローゼ(A) 1/1/09 公用語 (CL382) | | 営業拠点 | 以下は、 | 2026-09-03 | **検証済み** | ICC(A) 「リスクのすべて」スコープと除外; 公式句の単語の単語 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf
-| ICC(C)からICC(A)に移行したCIPと2010対2020のインコターム | 国際商取引の部屋 (**標準体公式**) | 営業拠点 | 以下は、 の | 2026-09-03 | **検証済み** | ICC(A)に上げられたCIPの最小値。CIFはICC(C)を保持します | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm
-| 保険料 2020 — CPT または CIP (販売者保険料) | ICCアカデミー(**ICC公式**) | 営業拠点 | 以下は、 の | 2026-09-03 | **検証済み** | CIP販売契約/保険を所定の場所へ支払います | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/
+| 研究所貨物クローゼ (A) 1/1/09 公用語 (CL382) | | 営業拠点 | 以下は 、 | 2026-09-03 | ** 検証済み ** |  ICC  (A) 「 リスクのすべて 」 スコープと除外; 公式句の単語の単語 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf
+| ICC(C) から ICC (A) に移行した CIP と 2010 対 2020 のインコターム | 国際商取引の部屋 (** 標準体公式 **) | 営業拠点 | 以下は 、 の | 2026-09-03 | 検証済み | ICC (A) に上げられた CIP の最小値 。 CIF は ICC (C) を保持します | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm
+| 保険料 2020 —  CPT  または  CIP  (販売者保険料) |  ICC  アカデミー (**  ICC  公式 **) | 営業拠点 | 以下は 、 の | 2026-09-03 | ** 検証済み ** |  CIP  販売契約 / 保険を所定の場所へ支払います | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/
 | 研究所の貨物 クロース番号付け/有効日&ロー車カバー | 航海カバー(専門業者の仲介、Cites LMA/IUA、ハグ・バイス) | 営業拠点 | 以下は、 https://voyagecover.com/guides/institute-cargo-clauses ディレクティブ | 2026-09-03 | CROSS_CHECKED(クロス) | CL382/383/384 番号付け,  1 Jan SDR キャップ コンテキスト | 2009
 | 110% | 港湾・PLAT車(産業) | 営業拠点 | 以下は、 https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED(クロス) | 運用 110% コンベンションとパーシメントレート。インコタームと UCP ベースは、体内で区別 |
 | 韓国中古車 海上保険 クレーム(ICC A/B/C 对比) | SHグローバル | 営業拠点 | 以下は、 https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | シングル_ソース | ICC(A/B/C) 覆盖范围 |

@@ -2,13 +2,15 @@
 ## SEO Metadata
 - **SEO Title**: Overseas After-Sales, Parts & Warranty Network Setup Guide
 - **Meta Description**: How a vehicle exporter builds workable overseas after-sales — network models matched to installed base, regional parts stock, warranty promises matched to real service capacity, and the China policy expectation behind it.
-- **Suggested URL**: /guides/overseas-aftersales-parts-warranty-network/
 - **H1**: Building Overseas After-Sales, Spare-Parts and Warranty Capability for Exported Vehicles
 - **Primary Keyword**: overseas aftersales parts warranty network setup exporter
 - **Secondary Search Terms**: exporter service network overseas, regional parts warehouse, vehicle warranty policy overseas, independent multi-brand repair network, dealer aftersales support
+- **Suggested URL**: /guides/overseas-aftersales-parts-warranty-network/
+- **Search Intent**: Understand Building Overseas After-Sales, Spare-Parts and Warranty Capability for Exported Vehicles: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-sales-contract-clauses/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/
-- **Image Suggestions**: installed-base→network-model decision tree; parts-stock tiers; warranty-capability matching loop
-- **ALT Suggestions**: "aftersales network model by installed base"; "regional parts stock tiers"
+- **Image Suggestion**: installed-base→network-model decision tree; parts-stock tiers; warranty-capability matching loop
+- **ALT Suggestion**: aftersales network model by installed base
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Scope: This Is About Operating Service, Not Buying Spare Parts
 This guide covers **standing up after-sales, parts supply and warranty fulfilment** in a destination market. It is deliberately distinct from the separate topic of *procuring* spare parts in China (an existing spare_parts content cluster) — sourcing components is an input; this page is about the **operating capability** that turns those parts into customer uptime.

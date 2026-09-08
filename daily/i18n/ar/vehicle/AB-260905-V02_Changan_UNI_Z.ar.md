@@ -1,15 +1,17 @@
 # وحدة مكافحة الإرهاب في تشانغان (2026) New Blue Whale PHEV - Chinese-Market Specs  and  التحقق من الصادرات
 
-## SEO Metadata
-- ** عنوان الحلقة**: Changan UNI-Z PHEV 2026: تصدير شركة مريخ الصينية دليل الشراء
-- ** وصف البيانات**: China-market Changan UNI-Z new Blue Whale PHEV: dimensions, 18.4 kWh LFP line, 130 km CLTC electric range, DC/ V2L, and VIN-level checks for importers.
-- ** H1 **: وحدة مكافحة الإرهاب في تشانغان (2026) New Blue Whale PHEV - Chinese-Market Specs  and  التحقق من الصادرات
-- ** كلمة رئيسية رمزية**: شركة 长安 مواصفات الأمم المتحدة - المنطقة المكشوفة
-- ** شروط البحث الثانية**: تصدير شركة تشانغان للشبكة؛ مواصفات للشبكة؛ مركبات ثلاثية الفينيل متعددة البروم صينية من طراز UNI-Z؛ V2L تصدير؛ نطاق لجنة التجارة الدولية
-- ** URL المقترض**: /حلقتان/شانغان -
-- ** الحلقة الدراسية**: 了解 Changan 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
-- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
+## بيانات SEO الوصفية
+- **عنوان SEO**: Changan UNI-Z PHEV 2026: Chinese-Market Specs ' Export Buyer Guide
+- **وصف Meta**: Chinese-market Changan  UNI-Z  new Blue Whale  PHEV : الأبعاد  18.4 kWh  LFP  line,  130 km  CLTC  electric range, DC/V2L  and   VIN - شيكات على مستوى المستوردين.
+- **H1**: Changan UNI-Z (2026), New Blue Whale PHEV - Chinese-Market Specs  and  التحقق من الصادرات
+- **الكلمة المفتاحية الرئيسية**: Changan / 长安  UNI-Z  specs export
+- **مصطلحات بحث ثانوية**: Changan  UNI-Z  export; UNI-Z   PHEV  specs; Chinese plug-in hybrid  SUV ; V2L تصدير؛ CLTC نطاق
+- **URL المقترح**: /vehicles/changan-uni-z/
+- **نية البحث**: (يوجد (تشانغان UNI-Z (2026 New Blue Whale PHEV - Chinese-Market Specs  and  التحقق من الصادرات: ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- **اقتراحات الروابط الداخلية**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
+- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification, no staged inspection or people claimed.
+- **نص ALT**: قريب المنظر الطبيعي للمواد  and  the subject related to Changan UNI-Z (2026, New Blue Whale PHEV - Chinese-Market Specs  and  التصدير فيري خلفيات محايدة لا يوجد أشخاص أو أعمال تفتيش
+- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء والهوية النموذجية
 The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديدة الحوت الأزرق (Xin Lan Jing) hybrid compact SUV. إنه مميز خط من أي خط نقي UNI-Z and قد تستخدم في أماكن أخرى;No overseas-name equivalence is claimed without an OEM statement. السوق المرجعية هي الصين.
@@ -43,7 +45,7 @@ The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديد�
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. تأكيد تشكيلة PHEV وطاقات البطاريات حسب شبكة المعلومات الشخصية؛ فصلها عن اليونيو-ز التابعة لمنظمة الأمن والتعاون في أوروبا.
-2. Reconcile CLTC 130 km against the destination test cycle.
+2 Reconcile CLTC 130 كيلومتراً مقابل دورة اختبار المقصد.
 3. التحقق من موصل الشحنات في وV2L من صلاحية التصدير في سوق المقصد.
 4. Obtain destination PHEV type-approval/emissions documentation rather than inferring from China specs.
 5. طلب اقتباس تصديري حالي)الوجه، الكمية، الترميز، LHD/RHD، الميناء، Incoterm(- لا ينشر هنا أي سعر.
@@ -55,35 +57,34 @@ The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديد�
 ** هل هو 130 km من مجموعة WLTP؟** لا - إنها لجنة مكافحة الإرهاب
 ** أين ثمن التصدير**؟ نطلب اقتباساً حالياً، ولا تنشر هذه الصفحة أي منها.
 
-
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 UNI-Z 参数 | 搜狐汽车 | CN | T2 | صرخات | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| UNI-Z 置но |之《车《家《家《家《家家 | CN  T3 | | صرخ صرخ صرخ > https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo26106686 | | | |.外
+| | | | | CN | T2 | | صرخ صرخно | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 |, 轴距, 轴距, 轴距, |, |.动. ... ...
 | Changan الموقع العالمي الرسمي للسيارات | Changan Automobile 长安汽车 (OEM) | CN | T1 | مفقود | https://www.globalchangan.com/ | الهوية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+ of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
+| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
 ## استعراض التحرير
-- ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
+- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين (المواصفات المرجعية للسوق الصينية؛ وليس مواصفات عالمية)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
 ## سجل الصور
-- ** لم يُكفل أي شيء في مستودع
-- ** غير مسبوقة **
-- ** الموارد: لم يُقبض عليها
-- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
-- ** مسلسل هولدر**: غير مؤكد
-- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
-- ** CHECKED_DATE**: 2026-09-06
-- ** موديل توبيتش**: بالضبط شانغان UNI-Z 2026
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
-- **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** لم يُؤمن أي منها في مستودع
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
+- **RIGHTS_HOLDER**: unconfirmed
+- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
+- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
@@ -97,6 +98,5 @@ The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديد�
   - **ID**: Changan UNI-Z 2026, PHEV SUV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Changan UNI-Z 2026, PHEV SUV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Changan UNI-Z 2026, 中国市场PHEV SUV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ChanganUNIZ #PHEV

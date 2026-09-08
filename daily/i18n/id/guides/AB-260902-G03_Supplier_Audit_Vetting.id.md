@@ -1,15 +1,17 @@
 # Cara Verifikasi Pendukung Ekspor Mobil Cina sebelum Pembayaran: Due- Diligence Checklist
 
-## SEO Metadata
-- ** Judul SEO **: Verifikasi Pendukung Ekspor Mobil Cina: Due- Diligence Checklist
-- ** Meta Description **: Sebuah kerangka kerja dua tingkat untuk memeriksa ekspor kendaraan Cina - pengumuman MIIT CCC kualifikasi, pemeriksaan bisnis, ekspor rantai otorisasi, AEO, pencocokan dan standar audit video.
-- ** Sugested URL **: guide verify-china-char- exports-suppliers
--   H1 Vetting a Chinese Vehicle Exporter: Apa yang harus diverifikasi Sebelum Pembayaran Pertama
-- ** Primary Keyword **: verifikasi pemasok ekspor mobil Cina karena lisensi ketekunan
-- ** Akhir Pencarian Second **: China ekspor kendaraan kualifikasi, MIIT kendaraan pengumuman, produsen sertifikat CCC, cek lisensi bisnis gsxt, Cina rantai otorisasi ekspor mobil, kredit bea cukai AEO
-- ** Internal Link Sugestions **: guide kendaraan import- tugas -tt- vs-lc guide userd-chine- ving-inspeksi panduan truk komersi- truk-penjualan -s- procurement -china
-- *** Saran Gambar **: due-dilgence berlapis piramida; gsxt bidang pemeriksaan bisnis; otorisasi diagram rantai; bank- akun cocok dengan peringatan
-- "Pengekspor mobil Cina untuk lapisan verifikasi ketekunan"; "Sistem Informasi Perusahaan Nasional Enterprise Informasi"; "Suplai untuk rantai otorisasi pabrik"
+## Metadata SEO
+- **Judul SEO**: Verifikasi Pendukung Ekspor Mobil Cina: Due- Diligence Checklist
+- **Deskripsi Meta**: Sebuah rangka kerja keras tahap untuk memeriksa ekspor kendaraan Cina - MIIT pengumuman / CCC kualifikasi, pemeriksaan lisensi, ekspor rantai otorisasi, AEO, pencocokan uang dan standar video-audit.
+- **H1**: Vetting a Chinese Vehicle Exporter: Apa yang harus diverifikasi Sebelum Pembayaran Pertama
+- **Kata kunci utama**: verifikasi pemasok ekspor mobil Cina karena lisensi ketekunan
+- **Istilah pencarian sekunder**: China export kualifikasi kendaraan, MIIT kendaraan pengumuman produsen, CCC eksportir sertifikat, gsxt pemeriksaan bisnis, Cina ekspor mobil rantai otorisasi, AEO kredit pabean
+- **URL yang disarankan**: /guides/verify-china-car-export-supplier/
+- **Maksud pencarian**: Memahami Vetting a Chinese Vehicle Exporter: Apa yang harus diverifikasi Sebelum Pembayaran Pertama: exportir kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen ke suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Saran gambar**: piramida berlapis due- ketegensi
+- **Teks ALT**: Lapisan verifikasi dengan ketekunan mobil Cina
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Masalah yang Ini Memecahkan
 
@@ -90,18 +92,18 @@ Pemindaian lisensi membuktikan perusahaan itu ada, bukan berarti itu bisa mengek
 **What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC  and  dok pemuatan, Diperiksa dengan surat klaim.
 
 ## Rekor Gambar
-- IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
-- _ URL ORIGINAL _ IMAGE: tidak ditangkap
-- SUMBER _ PAGE: tidak ditangkap
-- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
-- RIGHTS _ HOLDER: belum dikonfirmasi
-- LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
-- IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
-- ALT dengan bahasa:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf

@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation Boyue): Máy tính toán bảng tính tiếng Trung Hoa Tham chiếu
-## SAO Siêu dữ liệu
-- **SEO title**: Geely Boyue L E xuất Spec: 1.5T/2.0T Compact SUV bucker Guide
-- **Meta Mô tả**: Giới thiệu về các chàng trai Trung Quốc L nhỏ SUV: kích thước và hàng hóa, 1.5T và 2.0T biến thể tách biệt, các điểm xuất khẩu saoray, và kiểm tra mức độ mua bằng VIN.
-- ** H1 **: Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV Tham chiếu
-- ** Từ khoá bí mật **: Trò chơi trẻ con kỳ diệu Name
-- **Secondary Search Words**: Trò chơi trẻ con kỳ diệu Kích thước L; Boyue L 1.5T 7DCT; Xuất bản phim Starray kỳ diệu; HoaName SUV; Không gian hàng hóa Boyue
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍 Boyue L 中国市场版本身份  尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Image prese**: A Geely Boyue L gọn gàng SUV trong hồ sơ hiển thị mái nhà và bánh xe bao
-- **LT Gợi ý**: hồ sơ bên của một cậu bé Geely L co bóp SUV trên nền đất trống
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Geely Boyue L E xuất Spec: 1.5T/2.0T Compact SUV Hướng dẫn mua
+- **Meta mô tả**: Giới thiệu về các chàng trai Trung Quốc L co hẹp SUV: kích thước và hàng hóa, 1.5T và 2.0T biến thể tách biệt, các xuất khẩu các tên saoray, và VIN - ngân phiếu mua hàng.
+- **H1**: Geely Boyue L (4th-Generation Boyue): Máy tính toán Trung Quốc-Market SUV Tham chiếu
+- **Từ khóa chính**: Trò chơi trẻ con kỳ diệu Name
+- **Cụm tìm kiếm phụ**: Trò chơi trẻ con kỳ diệu Kích thước L; Boyue L 1.5T 7DCT; Xuất bản phim Starray kỳ diệu; Hộp mực Hoa, SUV; Không gian hàng hóa Boyue
+- **URL đề xuất**: /vehicles/geely-boyue-l/
+- **Ý định tìm kiếm**: Hiểu Geely Boyue L (4th-Generation Boyue): Máy tính toán Trung Quốc - Market SUV Xuất khẩu tham chiếu: những gì một người xuất khẩu xe/một phần phải xác minh, tài liệu và quyết định trước khi cam kết một lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Gợi ý hình ảnh**: Một chàng trai đáng thương L gọn gàng SUV trong hồ sơ hiển thị mái nhà và bánh xe bao
+- **Văn bản ALT**: Bên lề của một cậu bé đáng kinh ngạc L co bóp SUV trên nền đất trống
+- **Phạm vi schema**: Điều và Xe hơi
 
 The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (Atlas/Proton X70-family lineage) compact SUV — a five-door,  five-seat, Cú vượt qua vòng xoay đầu nhắm vào trung tâm của phần gia đình-SUV. Để cho xuất khẩu nó chủ yếu là vấn đề chọn đúng tàu và không làm lộn xộn xe Trung Quốc với một loại xe xuất khẩu khác được chỉ định là Starray. Trang này chỉ tài liệu tham khảo **- severt.**
 

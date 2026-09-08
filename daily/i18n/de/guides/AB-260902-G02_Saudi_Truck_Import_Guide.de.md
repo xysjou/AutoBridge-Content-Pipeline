@@ -1,14 +1,17 @@
 # Import chinesischer Nutzfahrzeuge nach Saudi-Arabien: ein HS-First SABER, SASO und ZATCA Routing Guide
-## SEO Metadaten
-- **SEO Titel**: Import chinesischer Lastwagen nach Saudi-Arabien: HS-First SABER & ZATCA Guide
-- **Meta Description**: Routen Sie einen chinesischen Nutzfahrzeuge nach Saudi-Arabien die richtige Reihenfolge - genau HS-Code (87.01/87.04/87.05/8716), die SABER technische Vorschrift, die für diesen Code gilt, die Art des Zertifikats, das erforderlich ist, dann Fasah Zoll; plus die ZATCA Light-Vehicle vs LKW Unterscheidung.
+## SEO-Metadaten
+- **SEO-Titel**: Importieren Sie chinesische Lastwagen nach Saudi-Arabien: HS -Erste SABER & ZATCA Führung
+- **Meta-Beschreibung**: Routen Sie einen chinesischen Nutzfahrzeuge nach Saudi-Arabien in der richtigen Reihenfolge - genau HS Code (87.01/87.04/87.05/8716), die SABER technische Vorschrift, die für diesen Code gilt, die Art des Zertifikats, das erforderlich ist, dann der Zoll von Fasah; plus die ZATCA leichtes Fahrzeug vs LKW Unterscheidung.
+- **H1**: Einen chinesischen Verkehrslastwagen nach Saudi-Arabien bringen: Start From the  HS  Code, Nicht aus einem generischen Prozess
+- **Haupt-Keyword**: Einfuhren chinesischer Nutzfahrzeuge Saudi-Arabien HS Code SABER ZATCA
+- **Sekundäre Suchbegriffe**: SABER technische Regelung von HS, SASO Zertifikat Typ LKW 8701 8704 8705, Saudi ZATCA Tarif Nutzfahrzeug, Fasah Zoll Saudi, GCC LHD LKW-Zertifizierung, SABER PCoC SCoC Fahrzeug
 - **Vorgeschlagene URL**: /guides/import-chinese-truck-saudi-saso/
-- ** H1 **: Clearing eines chinesischen Nutzfahrzeuges nach Saudi-Arabien: Start vom HS-Code, nicht von einem generischen Prozess
-- ** Primäres Keyword**: Import chinesischer Nutzfahrzeug Saudi-Arabien HS-Code SABER ZATCA
-- **Secondary Search Terms**: SABER technische Vorschrift von HS, SASO Zertifikat Typ LKW 8701 8704 8705, Saudi ZATCA Tarif Nutzfahrzeug, Fasah Zoll Saudi, GCC LHD Truck Zertifizierung, SABER PCoC SCoC Fahrzeug
-- **Interne Linkvorschläge**: /Fahrzeuge/Shacman- x3000-dump-truck/; /Fahrzeuge/Sinotruk-howo- t7h-tractor/; /Guides/Commercial-Truck-Flotte-Procurement-china/
-- **Bildvorschläge**: HS-Code-zu-Zertifikat-Routingdiagramm; SABER-Zertifikat-Entscheidungsbaum; VIN-gematchter Dokumentsatz; ZATCA-Gleichgewichtsdiagramm für leichte Fahrzeuge gegenüber LKW
-- ** Alt Suggestions**: "HS-Code nach SABER technische Vorschrift zu Zertifikat Routing"; "Zertifizierungstyp Entscheidung für Saudi LKW Import"
+- **Suchabsicht**: Verstehen Sie die Freigabe eines chinesischen Nutzfahrzeuges nach Saudi-Arabien: Start From the  HS  Code, Nicht aus einem generischen Prozess: was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Bildvorschlag**: HS -Code-zu-Zertifikat-Routing-Diagramm
+- **ALT-Text**: HS Code zu SABER Technische Vorschrift zum Zertifikats-Routing
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+
 ## Warum "One National Process" der falsche Ausgangspunkt für einen LKW ist
 Saudisches Marktzugangsmaterial wird oft für Pkw und leichte Fahrzeuge geschrieben und dann auf schwere Nutzfahrzeuge kopiert. Für einen Traktor, einen Lastkraftwagen, ein Spezialfahrzeug oder einen Anhänger ist diese Abkürzung unsicher: **Die anwendbaren technischen Vorschriften, der erforderliche Zertifikatstyp und sogar die Tariflinie hängen alle vom genauen HS-Code ab** und sind nicht in allen Rubriken identisch. Dieser Leitfaden ist daher **HS-first** gebaut, und es ist spezifisch für ** Saudi-Arabien**, nicht eine generische "Mittlerer Osten" Aussage. Eine separate Unterscheidung wird durchgehend beibehalten: Langlebige, offiziell dokumentierte Regeln werden als solche angegeben, während unbestätigte 2026 Händleransprüche nur auf einer Beobachtungsliste erscheinen.
 ## Schritt 1 — Pinnen Sie zuerst den genauen HS-Code
@@ -65,18 +68,18 @@ Händler-Notizen verschmelzen einen Pkw-Prozess, dauerhafte Regeln und gerüchte
 **Hat Saudi-Arabien die CE/ECE für schwere Lastwagen in 2026 nicht mehr akzeptiert? ** Händler behauptet, dass es zu Datenkonflikten kommt und keine SASO-Primärquelle gibt; überprüfen Sie offiziell die HS-Position, bevor Sie sich auf sie verlassen.
 **Was ist der häufigste Clearance-Fehler?** Fehlanpassung der VIN/Bescheinigung/Rechnung; eine VIN-Masterliste über alle Dokumente hinweg verhindert dies.
 ## Bildaufzeichnung
-- IMAGE_ASSET_PATH: keine gesicherte Datei
-- ORIGINAL_IMAGE_URL: nicht erfasst
-- SOURCE_PAGE: nicht erfasst
-- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
-- RIGHTS_HOLDER: nicht bestätigt
-- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-06
-- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
-- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
-- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
-- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
-- ALT nach Sprache:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Saudi commercial-truck import (SABER/ZATCA), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Saudi commercial-truck import (SABER/ZATCA), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Saudi commercial-truck import (SABER/ZATCA), Leitfaden für Fahrzeugexport-Einkauf

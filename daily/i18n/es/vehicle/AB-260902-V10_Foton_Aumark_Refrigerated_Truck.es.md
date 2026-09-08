@@ -1,15 +1,17 @@
 # Foton Aumark (奥铃) Camión refrigerado — Chasis, Reefer Body and Cooling-Unit Buyer Guide
 
-## SEO Metadatos
-- **SEO Título**: Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide
-- **Meta Descripción**: Foton Aumark (Ollin) reefer: 150 PS Chasis Jieyun, cuerpo aislado de 4.085 m, GVW 4.495 t, Thermo King unidades domésticas opciones, y cómo especificar un camión refrigerado para la exportación.
-- ** URL agregada**: /vehicles/foton-aumark-refrigerated-truck/
-- ** H1 **: Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit
-- **Primary Keyword**: Foton Aumark refrigerado especificaciones de camión exportado
-- **Secondary Search Terms**: Ollin reefer truck China, Foton Cummins 2.8 refrigerado, Thermo King T880 Camión Pro, exportación de camiones de reefer 4.5t, camión de cadena fría chino
-- **Sugerencias internas**: /vehículos/jac-kangling-light-truck/; /guides/commercial-truck-fleet-procurement-china/; /guides/marine-cargo-insurance-car-import/
-- **Sugerencias de imagen**: cuerpo de reefer de vista lateral; unidad de refrigeración en techo de cabina; caja aislada interior con ganchos de carne; placa de chasis; controlador de temperatura
-- **Sugerencias de ALT**: "Foton Aumark 4x4 camión refrigerado con caja aislada, China spec"; "Unidad de refrigeración termo King montada por el cuello"; "Reefer box interior and embalse"
+## Metadatos SEO
+- **Título SEO**: Foton Aumark Refrigerated Truck Specs " Reefer Build Export Guide
+- **Meta descripción**: Foton Aumark (Ollin) reefer: 150 PS Chasis Jieyun, cuerpo aislado de 4.085 m, GVW 4.495 t, Thermo King / unidades domésticas opciones, y cómo especificar un camión refrigerado para la exportación.
+- **H1**: Foton Aumark Camión refrigerado: Chasis separada, Cuerpo aislado y Unidad de Refrigeración
+- **Palabra clave principal**: Foton Aumark refrigerado camión especificaciones exportación
+- **Términos de búsqueda secundarios**: Ollin reefer camión China, Foton Cummins 2.8 refrigerado, Thermo King T880 Camión Pro, exportación de camiones de reefer 4.5t, camión de cadena fría chino
+- **URL sugerida**: /vehicles/foton-aumark-refrigerated-truck/
+- **Intención de búsqueda**: Comprende Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- **Sugerencias de enlaces internos**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
+- **Sugerencia de imagen**: vista lateral del cuerpo de reefer
+- **Texto ALT**: Foton Aumark 4x4 camión refrigerado con caja aislada, China spec
+- **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Cómo Especificar un camión refrigerado
 
@@ -71,30 +73,30 @@ No se captó precio autorizado: el precio de reefer varía ampliamente con la co
 **¿Por qué no se da precio?** El costo de la reefer depende en gran medida de la caja y unidad de refrigeración; no se captó un precio de 2026-09-02 confiable, y no se calculará.
 
 ## Grabación de imagen
-- IMAGE_ASSET_PATH: ninguno asegurado en repositorio
-- ORIGINAL_IMAGE_URL: no capturado
-- SOURCE_PAGE: no capturado
-- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
-- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
-- IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
-- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
-- ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
 ## Fuentes " Verificación "
 

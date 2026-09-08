@@ -1,16 +1,16 @@
 # Geely Boyue L (4th-Generation) Boyue: SUV compact marché chinois Référence des exportations
-## OEuvre Métadonnées
-- **Référencement au titre**: Spécifications d'exportation Geely Boyue L: Guide d'achat compact de VUS 1.5T/2.0T
-- **Description détaillée**: Référence du marché chinois pour la Geely Boyue VUS compact L: dimensions et fret, variantes 1.5T et 2.0T, mise en garde du nom d'exportation de Starray et contrôles de niveau VIN.
-- ** H1 **: Geely Boyue L (4th-Generation Boyue): SUV compact marché chinois Référence des exportations
+## Métadonnées SEO
+- **Titre SEO**: Spécifications d'exportation Geely Boyue L: 1.5T/2.0T Compact SUV Guide de l'acheteur
+- **Description meta**: Référence du marché chinois pour la Geely Boyue L compact SUV: dimensions  and  cargaison, 1.5T  and  2.0T variantes séparées, la mise en garde sur le nom d'exportation de Starray,  and   VIN - les contrôles d'acheteurs.
+- **H1**: Geely Boyue L (4th-Generation) Boyue: Pacte Chine-Marché SUV Référence des exportations
 - **Mot-clé principal**: Geely Boyue L spécifications d'exportation
-- ** Termes de recherche secondaire**: Geely Boyue Dimensions L; Boyue L 1.5T 7DCT; Exportation de Geely Starray; VUS compact chinois; Boyue Espace de chargement L
-- **Suggested URL**: /vehicles/geely-boyue-l/
-- **Intentité de la recherche**: 面向海外 B 端买家介绍 Boyue L 中国市场版本身份 - 尺寸 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **Suggestion d'image**: Un Garou Geely L SUV compact en profil montrant sa ligne de toit et son arc de roue
-- **ALT Suggestion**: Profil latéral d'une Geely Boyue VUS compact L sur fond simple
-- **Schema Scope**: Article + Vehicle
+- **Termes de recherche secondaires**: Geely Boyue Dimensions L; Boyue L 1.5T 7DCT; Exportation de Geely Starray; Compact chinois SUV; Boyue Espace de chargement L
+- **URL suggérée**: /vehicles/geely-boyue-l/
+- **Intention de recherche**: Comprendre Geely Boyue L (4th-Generation) Boyue: China-Market Compact SUV Référence à l'exportation: ce qu'un exportateur de véhicules ou de pièces doit vérifier, documenter et décider avant de s'engager dans une commande.
+- **Suggestions de liens internes**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- **Suggestion d'image**: Une bouille de Dieu L profil compact SUV montrant sa ligne de toit et son arche de roue
+- **Texte ALT**: Profil latéral d'un Geely Boyue L compact SUV sur fond uni
+- **Portée du schéma**: Article + Véhicule
 
 Les Boyue L est la quatrième génération d'évolution du VUS compact Boyue (la lignée Atlas/Proton X70-family) de Geely, un croisé à cinq portes, à cinq places, à roue avant, destiné au cœur du segment famille-SUV. L'approvisionnement en énergie pour l'exportation est principalement une question de choisir la bonne motorisation et de ne pas confondre la voiture chinoise avec le marché d'exportation Starray différent spécifié. Cette page documente la référence ** du marché chinois** seulement.
 

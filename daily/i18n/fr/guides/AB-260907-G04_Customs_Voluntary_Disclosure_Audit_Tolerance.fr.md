@@ -1,16 +1,16 @@
 # Divulgation volontaire des douanes en Chine: transformer une erreur auto-déclarée en résultat de tolérance
-## OEuvre Métadonnées
-- **Titre du référencement**: Douanes de Chine Divulgation volontaire et tolérance à l'audit pour les exportateurs
-- **Description détaillée**: Comment fonctionne la divulgation volontaire des douanes en Chine, la fenêtre de politique actuelle au 30 juin 2027, lorsque les sanctions administratives peuvent être levées ou réduites, et ce que l'exportateur doit documenter.
-- ** H1 **: Divulgation volontaire des douanes en Chine: une erreur auto-déclarée dans un résultat de tolérance
-- **Mot-clé principal**: tolérance à la divulgation volontaire des marchandises en Chine
-- **Conditions de recherche secondaires**: divulgation volontaire des douanes Chine; 主动披露; pas de sanction administrative douanière; règlement de vérification des comptes des douanes article 27; réduction des surtaxes sur les paiements tardifs
-- **URL suggérée**: /guides/customs-volontaire-divulgation-audit-tolérance/
-- **Intention de la recherche**: 海关主动披露是什么, 符合条件为何可不予, 减轻行政处罚, 现行政策窗口与办理要点
-- **Liens internes Suggestions**: /guides/ipr-customs-enregistrement-exportation-protection/, /guides/exportation-remboursés-marchandises-disposition-réglementation/, /guides/chine-e-port-inscription-ic-card-operator/
+## Métadonnées SEO
+- **Titre SEO**: Chine Douanes Divulgation volontaire et tolérance à l'audit pour les exportateurs
+- **Description meta**: Comment fonctionne la divulgation volontaire des douanes en Chine, la fenêtre de politique actuelle au 30 juin 2027, lorsque les sanctions administratives peuvent être levées ou réduites, et ce que l'exportateur doit documenter.
+- **H1**: Divulgation volontaire des douanes en Chine: transformer une erreur auto-déclarée en résultat de tolérance
+- **Mot-clé principal**: Tolérance de vérification volontaire de la divulgation douanière de la Chine
+- **Termes de recherche secondaires**: déclaration volontaire des douanes Chine; 主动披露; pas de sanction administrative douanière; règlement sur les contrôles douaniers article 27; réduction des surtaxes sur les paiements tardifs
+- **URL suggérée**: /guides/customs-voluntary-disclosure-audit-tolerance/
+- **Intention de recherche**: Comprendre la divulgation volontaire des douanes en Chine: transformer une erreur auto-déclarée en résultat de tolérance: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /guides/ipr-customs-recordation-export-protection/, /guides/export-returned-goods-duty-exemption-regulation/, /guides/china-e-port-enrollment-ic-card-operator/
 - **Suggestion d'image**: Un agent des finances prépare un rapport écrit de divulgation volontaire avec un dossier de vérification des douanes ouvert
-- ** Suggestion d'ALT**: Préparation d'une lettre de divulgation volontaire à côté d'un dossier ouvert de vérification des douanes
-- **Schema Portée**: Article (aucun produit/offre/prix/réexamen/cotisation)
+- **Texte ALT**: Préparation d'une lettre de divulgation volontaire à côté d'un dossier de vérification des douanes ouvert
+- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 Il y a une différence significative, dans l'application des douanes chinoises, entre une erreur que l'autorité constate lors d'un audit et une erreur qu'une entreprise trouve et se déclare elle-même. Le mécanisme de divulgation volontaire (主动披露) s'articule autour de cette différence: une entreprise qui découvre qu'elle est sous-payée ou a enfreint une exigence douanière par son propre contrôle interne peut présenter un rapport écrit et accepter la manipulation, et — lorsque les conditions légales sont remplies — reçoit un traitement plus tolérant qu'elle ne le ferait si le même problème était détecté par les douanes. Ce guide définit la base juridique, la fenêtre de tolérance actuelle limitée dans le temps, la façon dont le mécanisme fonctionne réellement et les limites qui déterminent si un cas donné est admissible.
 

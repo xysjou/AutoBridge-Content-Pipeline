@@ -1,16 +1,16 @@
 # FAW Jiefang J7 Tracteur: une référence de camion lourd sur le marché chinois qui maintient la Chine 5 et la Chine 6 générations à part
-## OEuvre Métadonnées
-- ** Titre du référencement**: FAW Jiefang J7 Chine-Marché Tracteur Spécifications et contrôles d'exportation
-- **Description détaillée**: Référence marché chinois pour le tracteur lourd FAW Jiefang J7: la ligne historique Chine- 5 CA6DM3 550 PS maintenue séparée de la ligne actuelle Chine- 6 CA6SX1 jusqu'à 600 PS, la configuration 6x4 et les contrôles d'exportation.
-- ** H1 **: FAW Jiefang J7 Tracteur: une référence de camion lourd sur le marché chinois qui maintient la Chine 5 et la Chine 6 générations à part
+## Métadonnées SEO
+- **Titre SEO**: FAW Jiefang J7 Chine-Marché Tracteur Spécifications et contrôles d'exportation
+- **Description meta**: Référence du marché chinois pour le FAW Jiefang J7 tracteur lourd: la ligne historique Chine- 5 CA6DM3 550 PS gardée séparée de la ligne actuelle Chine- 6 CA6SX1 jusqu'à 600 PS, 6x4 et contrôles de la configuration et des exportations.
+- **H1**: FAW Jiefang J7 Tracteur: une référence de camion lourd sur le marché chinois qui maintient la Chine- 5 et la Chine- 6 générations à part
 - **Mot-clé principal**: FAW Jiefang J7 spécifications d'exportation
-- ** Termes de recherche secondaire**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 tracteur; Exportation de camions lourds chinois; Chine- 6 J7 600 PS
-- **URL suggérée**: /véhicules/faw-jiefang- j7-tractor/
-- **Intention de la recherche**: 面向海外买家介绍解放 J7 中国市场身份, 严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- **Suggestions de lien interne**: /véhicules/qingling-isuzu- kv100/, /véhicules/zoomlion- ztc250h-truck-crane/, /guides/chine-véhicule-exportation-licence/
-- **Suggestion d'image**: une unité de tracteurs FAW Jiefang J7 à toit élevé 6x4 montrée du côté trois quarts
-- **ALT Suggestion**: Vue latérale des trois quarts d'un tracteur à toit élevé Jiefang J7 6x4 sur sol neutre
-- **Schema Champ d'application**: Article + véhicule (aucun produit/offre/prix/réexamen/évaluation)
+- **Termes de recherche secondaires**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 tracteur; Exportation de camions lourds chinois; Chine- 6 J7 600 PS
+- **URL suggérée**: /vehicles/faw-jiefang-j7-tractor/
+- **Intention de recherche**: Comprendre FAW Jiefang J7 Tracteur: une référence de camion lourd sur le marché chinois qui garde la Chine 5 et la Chine 6 Générations à part: ce qu'un exportateur de véhicules/pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- **Suggestions de liens internes**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **Suggestion d'image**: Un tracteur de FAW Jiefang J7 à toit élevé 6x4 montré du côté trois quarts
+- **Texte ALT**: Vue latérale sur trois quarts d'un tracteur à toit élevé FAW Jiefang J7 6x4 sur sol neutre
+- **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 Le Jiefang J7 de la FAW est le tracteur semi-remorque lourd phare de septième génération du plus grand fabricant de camions lourds chinois, vendu principalement comme une cabine de toit de plus de 6x4 pour les travaux long-courriers. La discipline de spécification décisive pour un acheteur d'exportation est **générationnelle**: le J7 a été offert avec un moteur China- 5 (National V) de son ère de lancement 2018 et une nouvelle famille de moteurs China- 6 (National VI), et combiner le plus grand nombre de chaque " J7 spécification " est précisément l'erreur que cette page empêche. Il s'agit d'une référence ** du marché chinois**, qui porte sur le diesel; les variantes GNL et J7 pure-électrique et toutes les versions à l'étranger J7 sont hors de cette page, et les sorties à source unique sont indiquées pour confirmation.
 

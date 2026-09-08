@@ -1,16 +1,16 @@
 # Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Referenz
-## SEO Metadaten
-- **SEO Titel **: Sinotruk HOWO TX Dump Truck Export Specs: Driveline, Axles, Chassis Guide
-- **Meta Description**: Chinesische Marktreferenz für den Sinotruk HOWO TX Heavy Kipper: 6x4/8x4 Layouts, ein Muster Weichai/HW Antriebsstrang als Muster, Achse und Chassis Fokus gehalten, und die Homologation Dokumente Exportkäufer benötigen.
-- ** H1 **: Sinotruk HOWO TX Tipper: China-Market Heavy Dump-Truck Export Referenz
-- ** Primäres Keyword**: Sinotruk HOWO TX Dump Truck Export Specs
-- **Secondary Search Terms**: HOWO TX Kipper; Sinotruk 8x4 Muldenkipper; WP10H 400; HW19712 Getriebe; chinesischer Export schwerer Kipper
-- **Suggested URL**: /vehicles/sinotruk-howo-tx-dump/
-- **Search Intent**: 面向海外 B 端买家介绍豪沃 TX 自卸车中国市场版本身份 驱动 动力链 底盘与版本边界
-- **Internal Link Suggestions**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
+## SEO-Metadaten
+- **SEO-Titel**: Sinotruk HOWO TX Dump Truck Export Specs: Driveline, Axles, Chassis Guide
+- **Meta-Beschreibung**: Chinesische Marktreferenz für den schweren Kipper Sinotruk HOWO TX: 6x4/8x4 Layouts, ein Muster Weichai/ HW Antriebsstrang als Muster, Achse und Fahrwerk Fokus gehalten, und die Homologation Dokumente Exportkäufer benötigen.
+- **H1**: Sinotruk HOWO TX Kipper: Ausfuhrreferenz für schwere Kipplaster in China
+- **Haupt-Keyword**: Sinotruk HOWO TX Dump Truck Export Spezifikationen
+- **Sekundäre Suchbegriffe**: HOWO TX Kipper; Sinotruk 8x4 Kipper; WP10H 400; HW19712 Getriebe; chinesischer Export von schweren Kippern
+- **Vorgeschlagene URL**: /vehicles/sinotruk-howo-tx-dump/
+- **Suchabsicht**: Sinotruk HOWO TX verstehen Kipper: China-Markt Heavy Dump-Truck Export Referenz: Was ein Fahrzeug-/Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
 - **Bildvorschlag**: Ein 8x4 Sinotruk HOWO TX Muldenkipper mit erhöhtem Kippbett auf einem Bauhof
-- **ALT Suggestion**: Sinotruk HOWO TX 8x4 Muldenkipper mit teilweise auf der Baustelle angehobenem Kipperkörper
-- **Schema Scope**: Article + Vehicle
+- **ALT-Text**: Sinotruk HOWO TX 8x4 Muldenkipper mit teilweise auf der Baustelle angehobenem Kipperkörper
+- **Schema-Umfang**: Artikel + Fahrzeug
 
 Der HOWO TX ist der Mainstream-Schwerkipper (Muldenkipper) der Sinotruk China National Heavy Duty Truck Group für Bau und Muck-Hub, der in 6 × 4 und 8 × 4 Antriebslayouts verkauft wird. Beim Einkauf von schweren Lastkraftwagen geht es um Antriebsstrang, Achsen, Bruttokombinationsgewicht, Fahrerhaus und Fahrgestell – und darum, zu erkennen, dass eine Musterspezifikation nicht die gesamte Modellmatrix darstellt. Der Status von HOWO als Sinotruks Kernmarke für schwere Lastwagen wird durch die offiziellen Angaben des Unternehmens bestätigt; die detaillierten Arbeitszahlen stammen aus dem Homologationspapier.
 

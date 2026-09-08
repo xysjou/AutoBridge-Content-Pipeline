@@ -1,15 +1,17 @@
 # フォートンダイムラー AUMAN EST(中国-V/VI) — 中国市場大型トラクタートラック仕様と輸出チェック
 
-## ツイート メタデータ
-- **SEOタイトル**: フォートン・ダイムラー AUMAN EST トラクター: 中国の市場仕様と輸出ガイド
-- **メタ 説明**: 中国の市場 Foton ダイムラー AUMAN ESTの重いトラクターの頭部: 中国V ISGと中国-VI X13ライン、ZF /ファストギアボックス、〜40 t GCWクラス、BEVは別々のラインとして保持しました。
-- H1 **: フォートン ダイムラー AUMAN EST(中国-V/VI) — 中国市場大型トラクタートラック仕様と輸出チェック
-- **主なキーワード**: Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (トラクタートラック) 仕様のエクスポート
-- **二次検索条件**:AUMAN EST輸出; Foton Daimler トラクターヘッド;中国の大型トラックトラクター;X13エンジン;6x4トラクター
-- **混雑URL**: /vehicles/foton-auman-est-tractor/
-- **Search Intent**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (トラクタートラック) 中国版规格、配置与出口适配性 (车型参数页)
-- **内部リンク提案**: /vehicles/foton-auman-est-tractor/、/guides/tir-road-transport-china-central-asia/、/guides/bill-of-lading-types-history/
-- **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
+## SEOメタデータ
+- **SEOタイトル**: Foton Daimler AUMAN EST トラクター:中国市場仕様と輸出ガイド
+- **メタディスクリプション**: 中国の市場 Foton Daimler AUMAN EST 重いトラクターの頭部: 中国V ISGおよび中国- VI X13ライン、ZF /Fastギアボックス、〜40 t GCWクラス、BEVは別のラインとして保持しました。
+- **H1**: Foton Daimler AUMAN EST (中国 V/VI) - 中国市場大型トラクタートラック仕様と輸出チェック
+- **主要キーワード**: Foton Daimler  AUMAN  / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） specs export
+- **関連検索語**: AUMAN EST 輸出; Foton Daimler トラクター ヘッド; 中国重トラック トラクター; X13 エンジン; 6x4 トラクター
+- **推奨URL**: /vehicles/foton-auman-est-tractor/
+- **検索意図**: Foton Daimler AUMAN EST(中国-V/ VI) - 中国市場大型トラクタートラック仕様とエクスポートチェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- **内部リンク候補**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **画像候補**: 実質的、文書/車両に焦点を当てたシーンは、Foton Daimler AUMAN EST(中国-V / VI)を照らし出します - 中国-Marketヘビートラクタートラックスペックとエクスポート、段階的な検査や要求の人々はありません。
+- **ALTテキスト**: クローズ、材料の自然な眺めおよびFoton Daimler AUMAN EST (中国V/ VI)に関連する主題–中国市場重いトラクターのトラックSpecs、中立背景、人か点検行為は示しません。
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキスト: 別の放出およびエネルギー ラインが付いているトラクターの頭部
 **Foton Daimler AUMAN EST (欧曼 EST)**は、中国市場大型トラクターヘッドです。 中国V EST510  and  中国VI X13は、異なる排出生成物です。  そして、 **電池電気トラクターは別のラインです** — ひとつの仕様にマージされることはありません。. 参照の市場は**中国**です。
@@ -47,7 +49,6 @@
 ZF 12TX AMTまたはFast 16-speed、ビルド。
 ** X13 出力か。** 12.9 L、412 kW/560 hp、中国VI ラインの 2600 N·m。
 
-
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
@@ -67,18 +68,18 @@ ZF 12TX AMTまたはFast 16-speed、ビルド。
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 
 ## 映像の記録
-- **IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: キャプチャされていない
-- **SOURCE_PAGE**: キャプチャされていない
-- **SOURCE_FILE_PAGE**:該当なし — 特定候補のメディアファイル(アサートのライセンスなし)
-- **RIGHTS_HOLDER**: 未確認
-- **LICENSE_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**:2026-09-06 ** チェック済み
-- **MODEL_TOPIC_MATCH**: 正確なフォートンダイムラー AUMAN EST トラクター
-- ** IMAGE_SCOPE_NOTE**: 映像は、特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を阻害してはならない
-- **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
-- **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12の言語)**:
+- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
+- **RIGHTS_HOLDER**: unconfirmed
+- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 正確な Foton Daimler AUMAN EST トラクター
+- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
+- **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
   - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
@@ -91,6 +92,5 @@ ZF 12TX AMTまたはFast 16-speed、ビルド。
   - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

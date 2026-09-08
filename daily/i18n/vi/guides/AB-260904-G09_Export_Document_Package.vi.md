@@ -1,15 +1,17 @@
 # Gói xuất Tài liệu Xe hơi: Chứng nhận hiện thời tương ứng tiêu chuẩn điều khiển vẫn còn trong nháp
 
-## SAO Siêu dữ liệu
-- **SEO title**: Hướng dẫn Xuất Tài liệu — GB/T 21085-2020 tiêu chuẩn hiện thời
-- **Meta Mô tả**: Xây dựng tài liệu xuất khẩu được đặt chung quanh chứng nhận nhà máy GB/T 21085-2020 hiện thời, phân biệt nó với tiêu chuẩn bắt buộc 20260041-Q-339 vẫn còn dưới sự phát triển, và coi các mục NV/ Chuyển đổi như lời khuyên.
-- ** URL đã gợi ý**: /guides/export-vehic-docuch-docuint- wrap
-- ** H1 **: Nhờ có một gói tài liệu xuất khẩu của Trung Quốc — Những gì hiện có, vẫn là một cuộc tuyển chọn, những gì chúng tôi đề nghị
-- ** Từ khoá tiểu dụng**: xe xuất khẩu tài liệu chứng nhận nhà máy sản xuất GB/ T21085
-- **Secondary Search termss**: 机动车出厂合格证, GB/ T21085-2020 hiện tại, 20260041-Q-339 bản nháp, chứng chỉ xuất khẩu phù hợp, NV xuất khẩu tài liệu UN38.3
-- **I nội bộ Link gợi ý**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/childa-excport-exifate-of-origin/
-- **Image gợi ý**: bố trí tài liệu gói; thời gian chuẩn hiện tại-vs-draft; tập tin xuất khẩu vs trong nước bị tách
-- **LT gợi ý**: "Hiện tại, giấy chứng nhận GB/ T21085-2020 so với việc bắt buộc 20260041-Q-339"
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: China Vehicle Export Document Package Guide —  GB/T  21085-2020 Current Standard
+- **Meta mô tả**: Build the export document set around the current  GB/T  21085-2020 factory certificate, phân biệt nó với 20260041-Q-339 chuẩn vẫn còn đang được phát triển,  and  Đối xử với NEV vật dụng chuyển hóa như lời khuyên.
+- **H1**: Thu thập một gói xuất bản tài liệu của Trung Quốc — Những gì hiện có, vẫn là một cuộc tuyển chọn, những gì chúng tôi đề nghị
+- **Từ khóa chính**: Chứng nhận xe xuất khẩu tài liệu nhà máy sản xuất GB/T21085
+- **Cụm tìm kiếm phụ**: 机动车出厂合格证, GB/T21085-2020 hiện tại, 20260041-Q-339 bản nháp, chứng chỉ của xuất khẩu phù hợp, NEV tài liệu xuất bản UN38.3
+- **URL đề xuất**: /guides/export-vehicle-document-package
+- **Ý định tìm kiếm**: Hiểu rằng việc phân tích một gói xuất khẩu tài liệu của Trung Quốc — Những gì hiện có, những gì vẫn là một nháp, những gì chúng tôi đề nghị: những gì một xe/một phần xuất khẩu phải kiểm tra, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
+- **Gợi ý hình ảnh**: bố trí gói tài liệu
+- **Văn bản ALT**: Bản nháp GB/ T21085-2020 hiện thời so với bản sao bắt buộc 20260041-Q-339
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Hình: Xử lý chuẩn nháp là tiêu chuẩn hiện thời
 Tài liệu hướng dẫn đóng gói thường trích dẫn một tiêu chuẩn chứng nhận bắt buộc bắt buộc tiếp theo như thể nó đã được trong lực lượng. Điều đó tạo ra những mong đợi giấy tờ không có quy tắc hiện tại ủng hộ. Trang này vẽ một đường cứng: tiêu chuẩn ** hiện thời ** cho chứng nhận nhà máy xe máy-ve-ric là **GB/T 21085-2020 **; một sự thay thế bắt buộc (kế hoạch ** 20260041-Q-339 ** là ** sự phát triển chưa được công bố và không phải bằng lực lượng** và không phải được trình bày như một yêu cầu hiện tại.

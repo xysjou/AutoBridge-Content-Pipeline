@@ -1,14 +1,16 @@
 # 武林洪广 MNIEV Macaron(3rd Gen) 2024:一个微EV 购买者应正确大小
-## 道德操守办公室 元数据
-- ** SIO标题**:武林宏光MINIEV Macaron 2024 光谱和出口说明
-- ** 金属说明**: 中国市场3rd-gen 武林MINIEV 马卡龙 — 3-door 4-seat 微EV, 20 kW型发动机,  170/215 km CLTC, 液化油电池, 主要是慢充电, 100 km/h 最高速度, 等级选择逻辑  and  出口者检查。
-- ** 建议的URL**:/车辆/车辆/wuling-hongguang-miniev/(永远的模型页;模型年份为H1/body年,而不是URL)
-- ** H1 **: 武林宏光MINIEV 马卡龙2024 (中文(中国大陆)). 微电子V 光谱和导出检查
-- ** 初等关键词**:wuling hongguang miniev macaron 2024 谱号
-- ** 二级搜索术语**:MINIEV 马卡龙范围,武灵微EV出口,MINIEV 20kW,170 215 CLTC城市车, 小型电池
-- ** 内部链接建议**: /车辆/副海豚/;/车辆/法里宗-兴iang-v6e-specs/;/指南/前船-un3171-imdg-compliance/;/指南/集装箱-车辆装载-斜拉/
-- ** 图像建议**:3-door具车身,可打开门;4-seat个小舱;充电端口(低收费);停车场大小比较
-- ** ALT(美国) 建议**: "Wuling Miniev Macaron micro EV维度"; "Miniev Macaron 170 215 CLTC 范围"
+## SEO元数据
+- **SEO标题**: 武林洪广MINIEV 麦卡龙2024 光谱和导出说明
+- **Meta描述**: 中国市场3rd-gen 武林MINIEV 马卡龙 — 3-door 4-seat 微EV, 20 kW型发动机,  170/215 km  CLTC , LFP个电池, 主要是慢充电, 100 km/h 最高速度, 等级选择逻辑  and  出口者检查。
+- **H1**: 武林宏广MINIEV 马卡龙2024 (中文(中国大陆)):微-EV 光谱与出口检查
+- **核心关键词**: wuling hongguang miniev macaron 2024 specs
+- **次级搜索词**: MINIEV 维基月球 迈凯龙范围, 微量EV出口, MINIEV 20kW, (英语). 170 215 CLTC辆城市车, 武灵 LFP小型电池
+- **建议URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- **搜索意图**: 了解武林洪广MINIEV 马卡龙2024(中马):微EV 光谱和出口检查:车辆/零件出口商在承诺下订单前必须核实,记录和决定什么.
+- **内链建议**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- **图片建议**: 3-door具尸体,门开着
+- **ALT文本**: 武灵MINIEV 微EV 维度
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景: 将产品匹配到使用大小写
 香港女权运动 马卡龙是一台**微小城市电动车**,而不是紧凑的EV. 在** 3064 mm长  and  777 kg kerb**,(a) 电源 它坐满了舱门 位于小后舱下方 规模 同一目录上的BYD海豚号大约为**4125 mm长**,有420/520 kmCLTC的成绩. 整个买家决定就是这个差距: 马卡龙的数值是短途城市移动,中国价格极低; 其局限性为最高速度(** 100 km/h **),  range (**170/215 km CLTC**), 充电速度  and  舱位大小。 出口者如果将其置于B-部分的EV之外,将造成返回问题; 本页面涵盖**3rd-generation Macaron,型号为2024年(ReFERENCE MARKET: 中国)**.
@@ -62,18 +64,18 @@
 ** 它是普通紧凑型EV的竞争者吗? ** 否-在~4.1米,420+公里的海豚岛旁边,它是一个更小的类别;定位为超合营城市通勤车,而不是高速公路家族EV.
 
 ## 图像记录
-- IMAGE_ASST_PATH: 没有在仓库中安全
-- 原型:未抓获
-- 资源_页:未捕获
-- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
-- 权利:未经证实
-- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
-- 检查日期: 2026-09-06
-- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
-- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
-- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
-- 按语言分列的低价竞标:
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-06
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
+- ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug

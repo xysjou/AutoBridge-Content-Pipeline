@@ -1,15 +1,17 @@
 # 切里·富尔温T9 (风云 T9):一种C-DM插座混合型中速SUV——中国出口标本
 
-## 道德操守办公室 元数据
-- ** 道德操守办公室名称**: 切里·富尔温 T9 C-DM PHEV 光谱与导出指南(中国参考)
-- **Meta Directoral**:中市切里·富尔温T9 C-DM插座混合型SUV——1.5T专用发动机,150 kW前发动机,32.66 kWh电池,120–220 kmCLTC,5/7座座位,出口商品检查.
-- ** 提议URL**:车辆/chery-fulwin-t9/
-- ** H1 资源需求。 **:切里·富尔温 T9 C-DM:中国市场PHEV SUV光谱与出口验证
-- ** 初等关键词**:chery fulwin t9 光谱导出
-- ** 二级搜索术语**:Fulwin T9 C-DM,风云 T9 插件混合式, 切里·T9 32.66kWh 富尔温·T9 7-seat 中文 PHEV SUV 导出
-- ** 内部链接建议**: /指南/前发-un3556-imdg-compliance/;/车辆/byd-qin-l-dm-i/;/指南/出口-车辆-文件包装/
-- ** 图像建议**:Fulwin T9 四分之三;充电端口;5对7座位布局;1.5T C-DM徽章;货区
-- **ALT建议**:"Chery Fulwin T9 C-DM插件混合式SUV";"Fulwin T9 32.66kWh电池CLTC范围".
+## SEO元数据
+- **SEO标题**: 切里·富尔温 T9 C-DM PHEV 斯佩斯和导出指南(中国参考)
+- **Meta描述**: 中国市场 切里·富尔温 T9 C-DM 插座混合型SUV — 1.5T 专用发动机, 150 kW型前置发动机, 32.66 kWh个电池,  120–220 km  CLTC ,  5/7 seats,  and  出口者检查。
+- **H1**: 切里·富尔温 T9 C-DM: 中国市场PHEV SUV 光谱与出口核查
+- **核心关键词**: 切里 Fulwin t9 光谱导出
+- **次级搜索词**: 富尔温T9 C -DM, 风云 T9 插头混合式,  Chery T9 32.66kWh,  Fulwin T9 7-seat, 中国PHEV SUV出口
+- **建议URL**: /vehicles/chery-fulwin-t9/
+- **搜索意图**: 了解切里·富尔温 T9 C-DM:中马PHEV SUV: 证照和出口核查:车辆/部件出口商在承诺执行命令之前必须核实、记录和决定什么。
+- **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **图片建议**: 富尔温 T9 四分之三
+- **ALT文本**: 切里·富尔温 T9 C-DM 插件混合式SUV
+- **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者背景:带有长贝特丽版本的 PHEV 家庭 SUV
 富尔温T9型是切里C-DM型中尺寸插座混合型SUV,以五和七座形式提供. 两种顺序错误主导了这个模型:将**标准T9与拉伸的T9L**混合,并引用电场而不命名电池. 本页文档**仅标准Fulwin T9(REFERENCE MARKET:CHINA)**;长度越长的T9L(约4870 mm/2920 mm轮基)是不同的机体,被故意排除. 为这个模型捕获了一个OEM配置页面,这加强了光谱基础.
@@ -51,7 +53,7 @@
 
 ## 经常被问到的问题
 ** 富尔温号T9与T9L号相同吗? ** 否;T9L型是长轮基车(约4870 mm/2920 mm),不在此标准-T9编目表内.
-**What battery does the long-range T9 use?** A 32.66 kWh pack for the documented long-range versions, with 120–220 km CLTC electric range depending on trim.
+** 远程T9使用什么电池? ** 用于记录的长程版本的32.66千瓦小时包,视剪切情况,可使用120–220公里CLTC电程.
 ** 1400 km ** 这是一个制造商声称的WLTC综合数字;将其列为工厂索赔,而不是试验结果。
 **Five or seven seats?** Both are offered; 指定顺序,并与VIN匹配。
 
@@ -68,16 +70,16 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in SUV
+- ** ** 自动桥出口-买方参考文献——切里·富尔温 T9型,插座混合动力车SUV
+- **法国**: 切里·富尔温T9型可补给SUV型混合动力汽车
+- DE**: 国家 自动桥-Referenz für Exportkäufer — Cherry Fulwin T9, 插件内置 Hybridfahrzeug SUV 自动桥- 引文格式化
+- **ES**: 出口控制中心——切里·富尔温T9型,可装满的SUV
+-  **: 出口控制中心(Referência AutoBridge para exportação)——切里·富尔温 T9, veículo híbrido 插座 SUV
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài SUV
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in SUV
+- 身份证**: 参考文献 自动桥 untuk pembeli ekspor — Cherry Fulwin T9, kendaraan 混合插件 SUV
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 

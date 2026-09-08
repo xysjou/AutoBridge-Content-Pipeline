@@ -1,16 +1,16 @@
 # PRAW Jiefang J7 Traktor: A China- Market Heavy- Referensi Truk yang menjaga Cina - 5 dan Cina - 6 Generasi Selain
-## SEO Metadata
-- ** Judul SEO **: Jiefang J7 FAWS Specs Tractor Pasar Cina  and  Export Checks | AutoBridge
-- ** Meta Description **: Referensi pasar Cina untuk Jiefang FAW J7 traktor berat: china bersejarah - 5 CA6DM3 550 PS baris terus terpisah dari Cina saat ini - 6 CA6SX1 up- ke 600 PS baris, 6x4 tata letak dan ekspor cek.
-- ** H1 ** FAW Jiefang J7 Tractor: Sebuah China- Market Heavy- Truk Referensi Yang membuat Cina - 5 dan Cina - 6 Generations Selain
-- ** Primary Keyword **: FAW Spesifikasi ekspor Jiefang J7
-- 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiepang J7 6x4 traktor; ekspor truk berat Cina, Cina, 6 J7 600 PS
-- ** Sugested URL **: / kendaraan / faw-jiefang - j7-tractor/
-- ** Cari Intent **: 面向海外买家介绍解放 J7 中国市场身份 严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- ** Interior Link Sugestions **: / kendaraan / qingling- isuzu- kv100/, / kendaraan / zoomlion- ztc250h-truck-crane/, / pemandu / china -mobil- export- /
-- ** Sugesti Gambar **: A Jiefang FAW J7 tinggi-atap 6x4 unit traktor ditampilkan dari sisi tiga - seperempat
-- ** ALT Sarankan **: tampilan sisi tiga-kuartal dari Jiefang FAW J7 6x4 traktor di daerah netral
-- ** Skema Scope **: Pasal + Kendaraan (tidak ada Produk / Offer / Harga / Review / Rating)
+## Metadata SEO
+- **Judul SEO**: FAW Jiepang J7 Specs Tractor Pasar Cina  and  Export Checks | AutoBridge
+- **Deskripsi Meta**: Referensi pasar untuk FAW Jiepang J7 traktor berat: Cina sejarah - 5 CA6DM3 550 PS Garis tetap terpisah dari Cina saat ini - 6 CA6SX1 up- ke 600 PS baris, Layout 6x4  and  Cek ekspor.
+- **H1**: FAW Jiepang J7 Tractor: Sebuah China- Market Heavy- Referensi Truk yang menjaga Cina - 5 dan Cina - 6 Generasi Selain
+- **Kata kunci utama**: FAW Spesifikasi ekspor Jiefang J7
+- **Istilah pencarian sekunder**: 解放 J7, J7 CA6SX1, J7 CA6DM3 550; Jiefang J7 6x4 traktor; ekspor truk berat Cina, Cina, 6 J7 600 PS
+- **URL yang disarankan**: /vehicles/faw-jiefang-j7-tractor/
+- **Maksud pencarian**: Memahami FAW Jiepang J7 Tractor: Sebuah China- Market Heavy- Referensi Truk yang menjaga Cina - 5 dan Cina - 6 Generation Selain: apa yang eksportir kendaraan / suku harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk sebuah perintah.
+- **Saran tautan internal**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **Saran gambar**: Sebuah FAW Jiepang J7 tinggi atap 6x4 unit traktor ditampilkan dari sisi tiga - seperempat
+- **Teks ALT**: Sisi tiga - seperempat tampilan dari tinggi atap FAW Jiefang J7 6x4 unit traktor di tanah netral
+- **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor from China's largest heavy-truck maker, dijual terutama sebagai tinggi atap taksi-lebih dari 6x4 untuk panjang jalur-haul pekerjaan. Spesifikasi yang menentukan untuk pembeli ekspor adalah ** generasional **: J7 telah ditawarkan dengan Cina - 5 (National V) mesin dari yang 2018 era peluncuran dan Cina yang lebih baru - 6 (National VI) keluarga mesin, dan menggabungkan nomor terbesar dari masing-masing menjadi satu "J7 spesifikasi" adalah tepat kesalahan halaman ini mencegah kesalahan. Ini adalah ** Referensi pasar Cinese- **, scoped ke diesel; LNG dan pure- listrik J7 varian dan setiap luar negeri J7 berada di luar halaman ini, dan keluaran tunggal-sumber ditandai untuk konfirmasi.
 

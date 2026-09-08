@@ -1,15 +1,17 @@
 # Welches Herkunftszertifikat benötigt ein Fahrzeugexport? Zoll vs CCPIT, Präferenz vs Nichtpräferenz
 
-## SEO Metadaten
-- **SEO Titel**: China Certificate of Origin for Vehicle Exports — CO Types & Issuers
-- **Meta Description**: Die drei chinesischen Ursprungszertifikate, die beantragt werden sollen, ob Zoll oder CCPIT verwendet werden sollen, wenn ein Präferenz-CO-Abkommen für ein Freihandelsabkommen gilt, und was ein Ausführer nicht über den Bestimmungszoll versprechen darf.
-- **Vorgeschlagene URL**: /guides/china-export-certificate-of origin
-- ** H1 **: Auswahl des richtigen Herkunftszertifikats für einen chinesischen Fahrzeugexport
-- ** Primäres Keyword**: China Export Certificate of Origin ccpit customs
-- **Secondary Search Terms**: nicht präferentiell CO, APS-Ursprungsbescheinigung, FTA-Präferenz-CO, GACC-Auftrag 270, CCPIT-Ursprungsbescheinigung, Fahrzeugausfuhrdokumente
-- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-deklaration/
-- **Bildvorschläge**: drei CO-Typen Vergleich; Zoll-/CCPIT-Ausgabediagramm; FTA-Präferenzstrom
-- **ALT Vorschläge**: "China-Ursprungsbescheinigung drei Arten Zoll CCPIT"
+## SEO-Metadaten
+- **SEO-Titel**: China Certificate of Origin for Vehicle Exports — CO Typen und Emittenten
+- **Meta-Beschreibung**: Die drei chinesischen Ursprungszertifikate, die beantragt werden sollen, ob Zoll oder CCPIT verwendet werden, wenn ein FTA Präferenz CO gilt, und was ein Exporteur nicht über den Bestimmungszoll versprechen darf.
+- **H1**: Die Wahl des richtigen Herkunftszertifikats für einen chinesischen Fahrzeugexport
+- **Haupt-Keyword**: Ausfuhrbescheinigung für China ccpit customs
+- **Sekundäre Suchbegriffe**: nicht präferenzielle CO, GSP Ursprungszeugnis, FTA Präferenz CO, GACC Bestellung 270, CCPIT Ursprungszeugnis, Fahrzeugexportdokumente
+- **Vorgeschlagene URL**: /guides/china-export-certificate-of-origin
+- **Suchabsicht**: Verstehen Sie die Wahl des richtigen Ursprungszertifikats für einen chinesischen Fahrzeugexport: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Bildvorschlag**: Drei CO Typen Vergleich
+- **ALT-Text**: China-Ursprungsbescheinigung drei Typen Zoll CCPIT
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Die Entscheidung in einem Routinedokument verborgen
 Importeure verlangen routinemäßig "das CO", als wäre es ein Papier. Das ist nicht der Fall. China stellt ** drei Familien ** mit Herkunftsbescheinigung aus, und die Wahl des falschen bedeutet, dass der Käufer entweder keine klare Präferenz haben kann oder ein Dokument erhält, das seine Autorität nicht erwartet. Die derzeit geltende Regel ist **GACC Order No. 270, *Verwaltungsmaßnahmen für Ursprungszeugnisse für Exportgüter *, veröffentlicht 2024-07-30 und in Kraft ab 2024-09-01 **. Diese Seite deckt die ** China Ausgabeseite** ab; ob ein bestimmtes Ziel eine Präferenz gewährt, ist die Entscheidung dieses Landes.

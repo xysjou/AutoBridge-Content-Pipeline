@@ -6,7 +6,7 @@
 - **Primary Keyword**: tanzania vehicle import tra tbs pvoc age
 - **Secondary Search Terms**: TBS PVoC used motor vehicles; Tanzania CoC pre-shipment; TRA TANCIS import; EACCMA 2004 vehicle import; Tanzania used car age limit; CCIC PVoC China
 - **Suggested URL**: /guides/tanzania-vehicle-import-tra-tbs-pvoc-age/
-- **Search Intent**: 向坦桑出口车辆的清关与装船前符合性分别由哪些机构负责、PVoC/CoC机制与二手车专门类别，以及车龄/税率需向谁核验
+- **Search Intent**: Understand Importing Vehicles into Tanzania: The TRA Customs Track and the TBS PVoC/CoC Track: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/africa-used-car-age-limits/, /guides/marine-cargo-insurance-icc-incoterms/, /guides/vehicle-pre-shipment-inspection-pdi/
 - **Image Suggestion**: A used vehicle being inspected at an export yard while a conformity document is prepared
 - **ALT Suggestion**: Vehicle under pre-shipment inspection beside a conformity certificate on a clipboard

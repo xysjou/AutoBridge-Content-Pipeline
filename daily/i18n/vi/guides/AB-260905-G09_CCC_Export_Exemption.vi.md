@@ -1,15 +1,17 @@
 # CCC Quản lý các vụ kiện và xe cộ — Phạm vi và sự giải cứu
 
-## SAO Siêu dữ liệu
-- **SEAO Tittt**: CCC  Certification and road road Eport: Có cần thiết xe xuất Trung Quốc CCC, và khi Bộ ngoại lệ được chấp thuận
-- **Meta Mô tả**: Cho dù Trung Quốc CCC bắt buộc phải áp dụng cho xe cộ: phạm vi CCC và xác thực mục nhập, tại sao sản phẩm làm chỉ để xuất khẩu là bên ngoài chế độ thị trường trong nước, và các loại miễn dịch thư mục.
-- ** H1 **: Hợp đồng quản lý và xuất khẩu xe cộ — Phạm vi và sự giải cứu
-- ** Từ khoá mật khẩu hoa văn**: cc certification erade
-- **Secondary Search termss**: CCC certification; 3C chứng nhận; xuất ngoại miễn dịch; bắt buộc chứng nhận sản phẩm; CCC Chonation chữ cái miễn dịch
-- ** URL đã gợi ý**: /guides/cccccc-ccccc chứng minh-expion/
-- **Tìm kiếm Intent**: 厘清 CCC 适用范围 (出厂 销售 进口 经营使用), 纯出口产品与免办证明的边界与办理
-- **I nội bộ Link gợi ý*: /guides/certe-of-ocract-ocraval-hipal-hical-hince - Không. - Không.
-- **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: CCC Phân loại và xuất xe cộ: Does an Exported Car Need China  CCC ,  and  Khi được giải cứu
+- **Meta mô tả**: Cho dù Trung Quốc CCC xác nhận bắt buộc áp dụng cho xe cộ: phạm vi CCC và xác thực mục nhập, tại sao sản phẩm chỉ được làm ra cho xuất khẩu nằm ngoài chế độ thị trường trong nước, và các loại miễn dịch.
+- **H1**: CCC Quản lý các vụ kiện và xe cộ — Phạm vi và sự giải cứu
+- **Từ khóa chính**: Ngoại lệ xuất certification
+- **Cụm tìm kiếm phụ**: CCC chứng nhận; 3C chứng nhận; xuất khẩu ngoại lệ; chứng nhận sản phẩm bắt buộc; CCC ký tự miễn dịch
+- **URL đề xuất**: /guides/ccc-certification-export-exemption/
+- **Ý định tìm kiếm**: Hiểu CCC Hợp đồng và các xe cộ — Phạm vi và sự giải phóng: người xuất khẩu xe cộ và phần phải xác nhận điều gì, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu tập trung, hình ảnh hóa CCC điều hành và các xe cộ xuất khẩu — Scope và Expoution, không có kiểm tra dàn dựng hoặc người tuyên bố.
+- **Văn bản ALT**: Gần như có quan điểm tự nhiên về vật liệu và đề tài liên quan đến việc điều hành tòa án CCC và các xe cộ bị xuất khẩu — Phạm vi và sự giải thoát, nền tảng trung lập, không có người hoặc hành động thanh tra nào được trình bày.
+- **Phạm vi schema**: Bài báo (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Tách thị trường nước Trung Quốc ra khỏi các giao dịch xuất khẩu
 CCC (Cina Compulsery Certification) là chế độ chứng thực sản phẩm bắt buộc trong nước của Trung Quốc: liệt kê sản phẩm phải được xác nhận trước khi họ rời nhà máy để bán trong nước, được nhập khẩu vào Trung Quốc, hoặc được bán/được sử dụng ở thị trường Trung Quốc, và nhập khẩu được nhập khẩu nhập khẩu. Do đó câu hỏi xuất khẩu quan trọng không phải là "là xe CCC" mà là "một đơn vị đặc biệt vào thị trường Trung Quốc hoặc được xuất ra khỏi nó?"
@@ -37,7 +39,6 @@ Các loại mục lục và loại ngoại lệ được cập nhật; hãy dùn
 ** Ai quản lý CCC? SAM đặt chế độ; CNCA quản lý chứng thực và miễn dịch.
 ** Có phải các bộ phận nhập khẩu để được bảo vệ? Họ có thể hội đủ điều kiện để được miễn trừ — áp dụng và ghi lại.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -58,18 +59,18 @@ Các loại mục lục và loại ngoại lệ được cập nhật; hãy dùn
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_MASUS**: chính xác CCC Quản lý các vụ kiện và xe cộ được xuất khẩu
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact CCC Mandatory Certification and Exported Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer
@@ -82,6 +83,5 @@ Các loại mục lục và loại ngoại lệ được cập nhật; hãy dùn
   - **ID**: CCC certification export, procurement guide pasar Tiongkok, referensi pembeli ekspor
   - **AR**: CCC certification export, procurement guide السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: CCC certification export, 中国市场procurement guide·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #CCC #Certification

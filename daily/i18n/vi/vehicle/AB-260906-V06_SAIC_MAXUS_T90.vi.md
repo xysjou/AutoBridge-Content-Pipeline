@@ -1,16 +1,16 @@
 # Sa - mu - ên MA - XUS Liên tiếp T90: China-Market purup Evition
-## SAO Siêu dữ liệu
-- **SEO Titry**: SaIC MAXUS T90 (sao) Kiểm tra & mua kính dạng xuất dạng thư viện
-- **Meta Mô tả**: Giới thiệu thị trường Trung Quốc cho các máy giao thông giao thông giữa SIC MAXUS T90: cơ thể khung xe, giường dài tiêu chuẩn, 2.0T máy tính dầu diesel, các tùy chọn lái xe, và các loại động vật xuất khẩu.
-- ** H1 **: SIC MAXUS Liên tiếp T90: China-Market purup Evition
-- **Cracary Keyword**: SIC MAXUS T90 ra khẩu thông số thu nhỏ
-- **Secondary Search Words**: MXUS T90 máy thu dầu khí; Liên sao T90 2.0T cặp song sinh; T90 8AT bánh xe; Kích thước của giường lấy đồ dùng MAXUS; Xuất khẩu thu nhỏ Trung Quốc
-- **Suggested URL**: /vehicles/saic-maxus-t90/
-- **Tìm kiếm ý định**: 面向海外 B 端买家介绍星际 T90 中国市场版本身份 货箱 四驱 底盘 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **Image pretries**: A SIC MAXUS T90 double-cab diesel lấy từ phía trước ba phần tư góc trên mặt đất gồ ghề
-- **LT Đề nghị**: mặt trận ba phần tư của một chiếc SIC MAXUS T90 lần kéo đôi trên một bề mặt chưa được trải nghiệm
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: SAIC MAXUS T90 (sao) Di chuyển thanh công cụ xuất & Sổ tay và người mua
+- **Meta mô tả**: Chinese-market reference for the  SAIC   MAXUS  Interstellar T90 diesel pickup: khung thân hình, giường chuẩn/lâu, 2.0T dầu diesel sinh đôi, lựa chọn khoang lái, và các hang động xuất khẩu.
+- **H1**: SAIC MAXUS Liên tiếp T90: China-Market purup Evition
+- **Từ khóa chính**: SAIC MAXUS T90 số lượng xuất khẩu thu nhỏ
+- **Cụm tìm kiếm phụ**: MAXUS T90 chiếc xe tải dầu diesel; Inter star T90 2.0T cặp song sinh; T90 8AT bánh xe; MAXUS chiều rộng chiếc giường nhỏ; xuất khẩu chiếc xe tải Trung Quốc
+- **URL đề xuất**: /vehicles/saic-maxus-t90/
+- **Ý định tìm kiếm**: Hiểu SAIC MAXUS Inter Star T90: China-Market Pickup Eport tham khảo: những gì một nhà xuất khẩu xe/một phần phải xác nhận, tài liệu và quyết định trước khi cam kết một trật tự.
+- **Gợi ý liên kết nội bộ**: /vehicles/saic-maxus-v80/, /vehicles/faw-jiefang-j6f/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- **Gợi ý hình ảnh**: A SAIC MAXUS T90 double-cab diesel pickup from a front three-quarter angle on rough ground
+- **Văn bản ALT**: Front three-quarter of a SAIC MAXUS T90 double-cab pickup on an unpaved surface
+- **Phạm vi schema**: Điều và Xe hơi
 
 Liên sao T90 (Xingji T90, trước đây là MAXUS T90 ở Trung Quốc) là SAIC MAXUS trung bình, **body-on-up**-ally-cb — loại xe được mua ở nước ngoài cho việc chịu tải, đường và hạm đội hơn là tinh tế hành khách. Một món hàng nhỏ được quyết định trên giường, tải, khoang lái và khung gầm, vậy nên những người dẫn đầu trang này. Nó bao gồm dầu diesel Trung Quốc ** duy nhất; điện riêng biệt T90 bị loại trừ.**
 

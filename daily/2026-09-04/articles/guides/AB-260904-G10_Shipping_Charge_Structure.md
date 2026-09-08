@@ -3,13 +3,15 @@
 ## SEO Metadata
 - **SEO Title**: Ocean Freight Charge Structure for Vehicle Export — O/F, THC, DOC, BAF Explained
 - **Meta Description**: Understand O/F, THC, DOC/SEAL/VGM, BAF and surcharges, origin vs destination charges, and why AMS/ACI/ENS manifest fees are route-specific — a structure guide that deliberately states no fixed amounts.
-- **Suggested URL**: /guides/ocean-freight-charge-structure-vehicle-export
 - **H1**: Decoding a Vehicle-Export Freight Quote: Which Charges Exist, Who Charges Them, and What to Verify
 - **Primary Keyword**: ocean freight charge structure vehicle export THC DOC BAF
 - **Secondary Search Terms**: O/F ocean freight, terminal handling charge, DOC document fee, SEAL VGM fee, BAF EBS surcharge, AMS ACI ENS manifest fee, origin vs destination charges
+- **Suggested URL**: /guides/ocean-freight-charge-structure-vehicle-export
+- **Search Intent**: Understand Decoding a Vehicle-Export Freight Quote: Which Charges Exist, Who Charges Them, and What to Verify: what a vehicle/parts exporter must verify, document and decide before committing to an order.
 - **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
-- **Image Suggestions**: charge waterfall origin→ocean→destination; surcharge taxonomy; quote-line audit sheet
-- **ALT Suggestions**: "Ocean freight charge structure split by origin, ocean and destination"
+- **Image Suggestion**: charge waterfall origin→ocean→destination; surcharge taxonomy; quote-line audit sheet
+- **ALT Suggestion**: Ocean freight charge structure split by origin, ocean and destination
+- **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Why a Structured Quote Matters More Than a Low Number
 A headline freight rate wins bookings and loses money at destination. Vehicle exporters get caught not by the base ocean freight but by the stack of surcharges and destination fees attached to it. This guide explains **what each charge is, what it is billed on, and where it arises**, and — because every rate moves with lane, capacity and season — it **states no fixed amounts**. Use it to audit a quote line by line, not to estimate a landed cost.

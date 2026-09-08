@@ -1,15 +1,17 @@
 # Phong Phong Tài Dân Dân Ngoại (2025/2026) — Trung Quốc-Cut MPV Comment
 
-## SAO Siêu dữ liệu
-- **SEO Title Youing MPV: China-Market & PHV Line, Spec và Elit Guide
-- **Meta Mô tả**: Thị trường Đông Phong Yêu thích Trung Quốc (游艇) MPV: giữ các đường ICE và PHV riêng biệt; kích thước, 7-seat cabin, khóa điện và xuất khẩu các điểm xác thực.
-- ** H1 **: Dong Phong ân Công Dân Mở mang (2025/2026) — MPV-Trung Quốc Comment
-- ** Từ khoá bí mật **: Dong Phong sáng lập 东风风行 Chim sẻ 风行游艇 quang phổ xuất
-- **Secondary Search termss**: Forthing Youeting eport; 游艇 MPV  dùng; Trung Quốc 7-seat MPV; MPV PHV; nhập khẩu xe tải hành khách
-- **Sudeest URL**: /vehicles/ forthing-try- youing/
-- **Tìm kiếm Intent**: 了解 Dong Phong Phong Đồ 东风风行 Youting 风行游艇 中国版规格  配置与出口适配性 (车型参数页).
-- **I nội bộ Link gợi ý*: /vehcles/ for things- youing/, /guides/ckd-kell-kell-kew-kit-sed-sebbly /guides/export-documpt-hizer-hi Story/
-- **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: Thứ có sẵn MPV: China-Market ICE & PHEV Hướng dẫn Xuất, Đường kẻName
+- **Meta mô tả**: Thị trường chợ đen Đông Phong Phong, Bạn đang làm việc (游艇) MPV: giữ cho ICE và PHEV đường riêng biệt; kích thước, 7-seat cabin, PHEV tuyến điện và xuất khẩu các điểm xác thực.
+- **H1**: Phong Phong Tài Nội (2025/2026) — Trung Quốc - Market MPV Spec, ICE/PHEV Đường và Kiểm tra Xuất khẩu
+- **Từ khóa chính**: Phong Phong lương hưu / 东风风行 Chim sẻ / 风行游艇 quang phổ xuất
+- **Cụm tìm kiếm phụ**: Hàng xuất khẩu hàng không; 游艇 MPV thông số; Trung Quốc 7-seat MPV; MPV PHEV; nhập khẩu xe chở khách
+- **URL đề xuất**: /vehicles/forthing-youting/
+- **Ý định tìm kiếm**: Hiểu về mục Phong Phong Phong Nội (2025/2026) — Trung Quốc - Market MPV Specs, ICE/PHEV line và Elive Checks: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Gợi ý hình ảnh**: Một cảnh thực tế, tài liệu/vych-tập trung minh họa cho chương trình Youting Dong Phong (2025/2026) — China-Market MPV Kính, đường kẻ và điện áp, không có kiểm tra dàn cảnh hay người ta nói vậy.
+- **Văn bản ALT**: Nhìn gần, nhìn vật liệu và đề tài liên quan đến công việc của Đông Phong (2025/2026) — MPV- Trung Quốc Kính, băng/ băng Không có người hay người nào kiểm tra.
+- **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh người mua: một bảng tên MPV, hai dòng năng lượng
 **Dong Phong Phong sáng tác (游艇)** là một công ty trung bình Trung Quốc cung cấp ở **ICE  and  Đường nét của PHV phải được trích dẫn riêng lẻ**. Họ có chung một căn cứ 2900 mm bánh xe và 7-seat cabin có mái che nhưng khác nhau về chiều cao và năng lượng. Thị trường tham khảo là **Trung Quốc**; chưa xác nhận đặc điểm dòng xuất khẩu.
@@ -54,7 +56,6 @@ Nó có sạc nhanh không? Một nguồn tin nói không có DC sạc nhanh; x�
 **Có phải 154, 900 RMB là giá xuất khẩu?** Không, chỉ tham khảo trong nước thôi.
 **Có thể chuyển đổi thành tàu con thoi/một xe cứu thương không? Là một sự tăng cường; đánh giá tách khỏi MPV căn cứ.
 
-
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
@@ -73,18 +74,18 @@ Nó có sạc nhanh không? Một nguồn tin nói không có DC sạc nhanh; x�
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
 ## Thu ảnh
-- **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
-- **ORIGINAL_ITH_URL**: chưa được thu hồi
-- **SOURCE_PAGE**: chưa được ghi lại
-- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
-- **Rights_HLLLER**: chưa được xác nhận
-- **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
-- **MMMDEL_TOPIC_LAS} chính xác là Dong Phong For things Youing
-- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
-- **ITHE_RightS_STATUS**: FAIL
-- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
-- **LT (12 ngôn ngữ)**:
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
@@ -97,6 +98,5 @@ Nó có sạc nhanh không? Một nguồn tin nói không có DC sạc nhanh; x�
   - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
   - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV

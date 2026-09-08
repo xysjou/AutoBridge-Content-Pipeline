@@ -1,14 +1,17 @@
 # Afrikanische Import-Altersgrenzen für Gebrauchtwagen: eine länderspezifische Verifizierungsmatrix
-## SEO Metadaten
-- **SEO Titel**: Afrika Gebrauchtwagen Import Altersgrenzen nach Land: Kenia & Nigeria Geprüft
-- **Meta Description**: Land für Land afrikanische Gebrauchtwagen Altersgrenzen, Lenkseite und Inspektion Tore — Kenia (8 Jahre nach der Erstzulassung) und Nigeria (15 aus der Herstellung) jetzt verankert, um primäre Quellen, andere Märkte gekennzeichnet für die offizielle Überprüfung.
+## SEO-Metadaten
+- **SEO-Titel**: Afrika Gebrauchtwagen Import Altersgrenzen nach Land: Kenia & Nigeria Geprüft
+- **Meta-Beschreibung**: Land für Land afrikanische Gebrauchtwagen Altersgrenzen, Lenkseite und Inspektion Tore — Kenia (8 Jahre nach der Erstzulassung) und Nigeria (15 aus der Herstellung) jetzt verankert, um primäre Quellen, andere Märkte gekennzeichnet für die offizielle Überprüfung.
+- **H1**: Gebrauchtwagen-Altersgrenzen in afrikanischen Märkten: Eine Matrix, die gebaut wurde, um verifiziert zu werden, nicht auswendig gelernt
+- **Haupt-Keyword**: Afrika Gebrauchtwagen Import Altersgrenze nach Ländermatrix
+- **Sekundäre Suchbegriffe**: Kenia Gebrauchtwagen Altersgrenze 8 Jahre Erstzulassung, Nigeria Autoimport 15 Jahre Herstellung, Äthiopien Gebrauchtwagenverbot, Ghana OBD Import, Mosambik Fahrzeugalter, Sudan Auto Altersgrenze, Côte d'Ivoire CoC, KEBS DKS 1515
 - **Vorgeschlagene URL**: /guides/africa-used-car-import-age-limits/
-- ** H1 **: Gebrauchtwagen-Altersgrenzen in afrikanischen Märkten: eine Matrix, die gebaut wurde, um verifiziert zu werden, nicht auswendig gelernt
-- ** Primäres Keyword**: Alter für den Import von gebrauchten Autos nach Ländermatrix
-- **Secondary Search Terms**: Kenia Gebrauchtwagen Altersgrenze 8 Jahre Erstzulassung, Nigeria Autoimport 15 Jahre Herstellung, Äthiopien Gebrauchtwagenverbot, Ghana OBD Import, Mosambik Fahrzeugalter, Sudan Auto Altersgrenze, Côte d'Ivoire CoC, KEBS DKS 1515
-- **Interne Linkvorschläge**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/vehicle-coc-type Approval-dossier/; /guides/china-vehicle-export-license-customs-documents/
-- **Bildvorschläge**: Ländermatrixtabelle; Herstellungsjahr vs. Erstregistrierungsjahr Timeline; offizielles Verifizierungsroutendiagramm
-- **ALT Vorschläge**: "African used car age limit verification matrix"; "Herstellungsjahr versus erstes Zulassungsjahr"
+- **Suchabsicht**: Gebrauchtwagen-Altersgrenzen in afrikanischen Märkten verstehen: eine Matrix, die verifiziert und nicht gespeichert werden soll: Was ein Fahrzeug- / Teileexporteur überprüfen, dokumentieren und entscheiden muss, bevor er sich zu einer Bestellung verpflichtet.
+- **Interne Link-Vorschläge**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- **Bildvorschlag**: Ländermatrixtabelle
+- **ALT-Text**: Afrikanische Gebrauchtwagen Alter Grenze Verifizierungsmatrix
+- **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
+
 ## Lesen Sie die Evidenzgrenze vor dem Tisch
 Altersgrenzen ändern sich, werden von den Häfen unterschiedlich durchgesetzt und werden häufig in den Zusammenfassungen der Spediteure falsch zitiert. Diese Seite trennt **zwei Beweisebenen **. ** Kenia und Nigeria sind jetzt an Ziel-Primärquellen** (eine Steuer- Zollbehörde und eine Normungsorganisation) verankert und ihre Altersbasis ist unten angegeben. **Jede andere Länderzeile bleibt ein gemeldeter Wert aus Speditions-/Medienmaterial** und wird zur offiziellen Verifizierung gekennzeichnet – sie wird nicht als feststehende Tatsache angegeben. Es gibt keine einzige regionale "Afrika" -Regel: Jedes Land legt seine eigene Altersbasis, Lenkungsregel und Inspektionstor fest, und eine einzige Schlagzeile "X Jahre" ohne diese Grundlage ist unsicher.
 ## Erstens: Wissen, welches "Alter" gemessen wird

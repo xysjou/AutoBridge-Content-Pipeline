@@ -1,15 +1,17 @@
 # JAC Junling V6 (2024/2025) — Chino-Marcet Light Truck Specs and Export Checks
 
-## SEO Metadatos
-- **SEO Título**: JAC Junling V6 Light Truck: Chinese-Market Specs & Export Buyer Guide
-- **Meta Descripción**: Chinese-market JAC Junling V6 blue-plate light cargo truck: Yunnei D25 diesel, línea Ankang 160, caja de carga, GVW/payload, y la gruta de masa de un solo grupo.
-- ** H1 **: JAC Junling V6 (2024/2025) — Chino-Marco de la luz de las especificaciones y controles de exportación
-- **Primary Keyword**: JAC 江淮 骏铃 V6 轻卡 (Camión de Luz) las especificaciones de exportación
-- **Segundary Search Terms**: JAC Junling V6 export; Camión ligero Jianghuai; camión de carga chino; camión de placa azul; Yunnei D25
-- ** URL agregada**: /vehicles/jac-junling- v6/
-- **Intent de búsqueda**: 了解 JAC 江淮 骏铃 V6 轻卡 (Camión de luz) 中国版规格, 配置与出口适配性 (车型参数页)
-- **Sugerencias de Enlace Interno**: /vehículos/junio de la organización-v6/, /guides/vehículo-export-hs-código-historia/, /guides/china-export-costos-declaración-ventana de la ventana/
-- **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
+## Metadatos SEO
+- **Título SEO**: JAC Junling V6 Light Truck: Chinese-Market Specs & Export Buyer Guide
+- **Meta descripción**: China-mercado JAC Caída de carga ligera de V6 placas azules: Yunnei D25 diesel, línea Ankang 160, caja de carga, GVW /payload, y la gruta de masa de un solo proveedor.
+- **H1**: JAC Junling V6 (2024/2025) — Chino-Marcet Light Truck Specs and Export Checks
+- **Palabra clave principal**: JAC / 江淮 骏铃 V6 轻卡 (Camión de Luz) las especificaciones de exportación
+- **Términos de búsqueda secundarios**: JAC Exportación de V6 de junio; camión ligero Jianghuai; camión de carga chino; camión de placa azul; Yunnei D25
+- **URL sugerida**: /vehicles/jac-junling-v6/
+- **Intención de búsqueda**: Comprender JAC Junling V6 (2024/2025) — Chino-Marca Light Truck Specs and Export Checks: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- **Sugerencias de enlaces internos**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- **Sugerencia de imagen**: Una escena realista, centrada en documentos/vehículos que ilustra JAC Junling V6 (2024/2025) — Chino-Market Light Truck Specs and Export Checks, ninguna inspección escénica o las personas reclamadas.
+- **Texto ALT**: Vista natural de materiales y el tema relacionado con JAC Junling V6 (2024/2025) — Chino-Marcet Light Truck Specs and Export Checks, fondo neutro, ninguna gente o acción de inspección mostrada.
+- **Alcance del esquema**: Artículo + Vehículo (sin Producto/Offer/Revisión)
 
 ## Contexto del comprador: un camión de distribución de la ciudad de placa azul
 El **JAC Junling V6 (骏铃 V6, 2024/2025)** es un camión de carga diesel de mercado chino en la clase de placa azul-plato de 4.5 t que se utiliza para la distribución urbana/regional. Los compradores comerciales-vehículo deben anclar en GVW, la carga útil y la caja de carga antes de la trim de taxi. El mercado de referencia es **China**; las masas requieren confirmación de homologación.
@@ -50,7 +52,6 @@ Para los compradores de distribución de ciudades el punto de configuración de 
 ¿Engine? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m en la línea capturada.
 **¿Dónde están los detalles del neumático/axila?** No capturado; solicite la hoja de construcción OEM.
 
-
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
@@ -69,18 +70,18 @@ Para los compradores de distribución de ciudades el punto de configuración de 
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
 ## Grabación de imagen
-- **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
-- **ORIGINAL_IMAGE_URL**: no capturado
-- **SOURCE_PAGE**: no capturado
-- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
-- RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
-- **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
+- **RIGHTS_HOLDER**: unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
 - **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exactamente JAC Camión ligero de V6
-- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
-- IMAGE_RIGHTS_STATUS #
-- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
-- **ALT (12 idiomas)**:
+- **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
+- **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
@@ -93,6 +94,5 @@ Para los compradores de distribución de ciudades el punto de configuración de 
   - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
   - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
   - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
 
 #AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck

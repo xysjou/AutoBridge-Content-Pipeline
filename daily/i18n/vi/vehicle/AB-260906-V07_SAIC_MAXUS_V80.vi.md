@@ -1,16 +1,16 @@
 # SIC MAXUS Xintu V80: China-Market Dissel Large Van Minibus Xuất có tham khảo
-## SAO Siêu dữ liệu
-- **SSEO Title**: SIC MAXUS V80 (Xtu) Dissel Van & Minibus Evict Guide
-- **Meta Mô tả**: Tài liệu tham khảo của Trung Quốc cho SIC MAXUS Xintu V80 Pro van/minbus: 2.0T diesel, thủ công/AMT, chiều dài và vị trí biến thể, và các tài liệu đăng nhập khẩu mà người mua phải có.
-- ** H1 **: SIC MAXUS Xintu V80: China-Market Diesel Large Van Minibus xuất khẩu có tham khảo
-- ** Từ khoá mật khẩu **: SIC MAXUS V80 erace
-- **Secondary Search Wordss**: MAXUS V80 van diesel; Xe tải Xintu V80 Pro 2.0T; V80 ghế minibus; MAXUS lớn xe tải vận tải; cửa hàng xe tải bảng điều khiển của Trung Quốc xuất khẩu
-- **Suggested URL**: /vehicles/saic-maxus-v80/
-- **Tìm kiếm Intent**: 面向海外 B 端买家介绍新途 V80 中国市场版本身份  车身矩阵 座位 动力与版本边界
-- **Internal Link Suggestions**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- **Image suw điếu **: A SaIC MAXUS V80 bảng điều khiển lớn được hiển thị trong hồ sơ bên để hiển thị chiều dài cơ thể hàng hóa của nó
-- **LT Gợi ý**: Hồ sơ bên của một chiếc xe tải lớn SIC MAXUS Xe hơi V80
-- **Schema Scope**: Article + Vehicle
+## Siêu dữ liệu SEO
+- **Tiêu đề SEO**: SAIC MAXUS V80 (Xintu) Hướng dẫn xuất dạng xe tải & Minibus
+- **Meta mô tả**: Chinese-market reference for the  SAIC   MAXUS  Xintu V80  PRO  large van/minibus: 2.0T dầu diesel, thủ công, AMT chiều dài và chỗ ngồi, và GVW tài liệu đăng nhập mà người mua phải có.
+- **H1**: SAIC MAXUS Xintu V80: China-Market Dissel Large Van / Minibus Euther
+- **Từ khóa chính**: SAIC   MAXUS  V80 van export specs
+- **Cụm tìm kiếm phụ**: MAXUS V80 xe tải dầu diesel; Tântu V80 PRO 2.0T; V80 ghế minibus; MAXUS kiện hàng xe tải lớn; Xuất khẩu xe van bảng Trung Quốc
+- **URL đề xuất**: /vehicles/saic-maxus-v80/
+- **Ý định tìm kiếm**: Hiểu SAIC MAXUS Xentu V80: Xe tải lớn của Trung Quốc, xe tải nhỏ xuất khẩu Minibus, tham khảo: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- **Gợi ý liên kết nội bộ**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- **Gợi ý hình ảnh**: Một xe tải bảng điều khiển lớn SIC MAXUS V80 hiển thị trong hồ sơ bên để hiển thị chiều dài của cơ thể hàng hóa
+- **Văn bản ALT**: Bên cạnh hồ sơ của một chiếc xe tải lớn SIC MAXUS Xe hơi V80 cho thấy cơ thể hàng hóa dài
+- **Phạm vi schema**: Điều và Xe hơi
 
 Gia đình Xentu (New Route) V80 là xe tải lớn của SIC MAXUS (b-ViN) bán như một chiếc xe buýt hành khách, một đoàn thủy thủ và một chiếc xe tải bảng điều khiển/cargo van qua nhiều chiều dài cơ thể. Những người mua thương mại chọn nó để làm khối lượng hàng hóa, chỗ ngồi và GVW, vì vậy trang này được tổ chức xung quanh ma trận xác chết và tài liệu chứng minh việc tải. Nó bao gồm ** 2025 V80 Propro với 2.0T diesel**; 2.5T cũ là một di sản phi vật chất và không được mang vào tham khảo này.
 

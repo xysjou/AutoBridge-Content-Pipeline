@@ -1,15 +1,17 @@
 # Qual certificado de origem um veículo precisa ser exportado? Alfândega vs CCPIT, Preferencial vs Não-Preferencial
 
-## SEO Meta- dados
-- ** Título SEO**: Certificado de Origem da China para Exportação de Veículos — Tipos e Emissores de CO
-- ** Descrição do Meta**: Os três tipos de certificados de origem chineses, que devem ser solicitados, quer se trate da utilização de alfândegas ou de CCPIT, quando se aplica um CO preferencial de ACL, e o que um exportador não deve prometer sobre o direito de destino.
-- ** URL sugerido**: /guides/china-export-certificate-of-origin
-- ** H1 **: Escolher o Certificado de Origem Direito para uma Exportação de Veículos Chineses
-- **Chave principal**: certificado de exportação de origem da China
-- ** Termos de pesquisa secundários**: não preferencial CO, certificado de origem SPG, FTA preferencial CO, GACC encomenda 270, origem do certificado CCPIT, documentos de exportação de veículos
-- **As sugestões de ligação interna**: /guias/veículo-exportação-hs-código-classificação/; /guias/exportação-veículo-documento-pacote/; /guias/china-exportação-estatuto-inspecção-declaração/
-- **Image Suggestions**: comparação de três tipos de CO; Diagrama aduaneiro contra o emitente do CCPIT; fluxo de preferência do ACL
-- **ALT Sugestões**: "Certificado de origem da China de três tipos CCPIT Alfândega"
+## Metadados SEO
+- **Título SEO**: Certificado de origem da China para exportações de veículos — CO tipos e emissores
+- **Meta descrição**: Os três tipos de certificados de origem chineses, que devem ser pedidos, quer para utilização aduaneira, quer para CCPIT, quando se aplica um FTA preferencial CO, e o que um exportador não pode prometer sobre o direito de destino.
+- **H1**: Escolher o certificado de origem certo para uma exportação de veículos chineses
+- **Palavra-chave principal**: China certificado de exportação de origem ccpit alfândegas
+- **Termos de busca secundários**: não preferencialmente CO, GSP certificado de origem, FTA preferenciais CO, GACC encomenda 270, CCPIT origem do certificado, Documentos de exportação de veículos
+- **URL sugerida**: /guides/china-export-certificate-of-origin
+- **Intenção de busca**: Entender a escolha do certificado de origem correto para uma exportação de veículos chineses: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- **Sugestões de links internos**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Sugestão de imagem**: comparação de três tipos CO
+- **Texto ALT**: Certificado de origem da China três tipos Alfândega CCPIT
+- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
 
 ## A decisão escondida num documento de rotina
 Importadores pedem rotineiramente "o CO" como se fosse um papel. Não é. China emite **três famílias** de certificado de origem, e escolher o errado significa que o comprador não pode esclarecer preferência ou recebe um documento que sua autoridade não espera. A regra atual é **GACC Ordem No. 270, *Medidas administrativas para certificados de origem para mercadorias de exportação*, publicado 2024-07-30 e em vigor a partir de 2024-09-01 **. Esta página abrange o lado ** da emissão da China**; se um destino específico concede uma preferência é a decisão desse país.

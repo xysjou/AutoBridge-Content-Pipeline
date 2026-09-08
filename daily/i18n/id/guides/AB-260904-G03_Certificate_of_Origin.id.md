@@ -1,15 +1,17 @@
 # Sertifikat Origin mana yang melakukan Expor Need kendaraan? Bea Cukai vs CCIT, Preferensial vs Non- Preferensial
 
-## SEO Metadata
-- ** Judul SEO **: Sertifikat Cina dari Asal untuk Eksport Kendaraan - CO Types & Issuers
-- ** Meta Description **: Tiga sertifikat Cina - dari - asal, yang untuk diterapkan, apakah untuk menggunakan Bea Cukai atau CCPIT, ketika sebuah CO preferensial FTA berlaku, dan apa yang eksportir tidak harus menjanjikan tentang tugas tujuan.
-- ** Sugested URL **: guide china-export -certicecate- of -nation
--   H1 **: Memilih Sertifikat Hak Asal untuk Ekspor Kendaraan Cina
-- ** Primary Keyword **: porselect sertifikat dari ubean ccpit
-- ** Akhir Pencarian Second **: non-preferensial CO, sertifikat asal GSP, PTA preferensial CO, GACC order 270, asal sertifikat CCPIIT, dokumen ekspor kendaraan
-- ** Internal Link Sugestions **: guide moollect -exports -hs-codefication guiler exportion-expression exportion proclation
-- *** Sugestions Gambar **: tiga tipe perbandingan CO; Bea Cukai vs CCPIT mengeluarkan diagram; aliran preferensi FTA
-- ** AlT Sugestions **: "Sertifikat asal Cina tiga jenis CCPIT Bea Cukai"
+## Metadata SEO
+- **Judul SEO**: Sertifikat asli Cina untuk Exports Kendaraan - CO Types & Issuers
+- **Deskripsi Meta**: Tiga sertifikat Cina - dari -asal, yang berlaku untuk, apakah untuk menggunakan Bea Cukai atau CCPIT, ketika FTA preferensial CO berlaku, dan apa yang eksportir tidak harus menjanjikan tentang tugas tujuan.
+- **H1**: Memilih Sertifikat Hak Asal untuk Ekspor Kendaraan Cina
+- **Kata kunci utama**: Sertifikat ekspor Cina dari adat ccpit asal
+- **Istilah pencarian sekunder**: bukan-preferensial CO, GSP sertifikat asal, FTA preferensial CO, GACC urutan 270, asal sertifikat CCPIT, ekspor kendaraan dokumen
+- **URL yang disarankan**: /guides/china-export-certificate-of-origin
+- **Maksud pencarian**: Pahamilah Sertifikat Hak Origin untuk Ekspor Kendaraan Cina: apa yang harus diverifikasi, dokumen dan putuskan sebelum berkomitmen pada suatu perintah.
+- **Saran tautan internal**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- **Saran gambar**: perbandingan tipe tiga CO
+- **Teks ALT**: Sertifikat asal-usul Cina, tiga tipe Bea Cukai CCPIT.
+- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Keputusan Tersembunyi dalam Dokumen Routine
 Pengimpor secara rutin meminta untuk "CO" seolah-olah itu adalah satu kertas. Tidak. China isu ** tiga keluarga ** sertifikat asal,  and  Memilih yang salah berarti pembeli tidak dapat membersihkan preferensi atau menerima dokumen yang tidak diduga otoritas tersebut. Peraturan pemerintahan saat ini adalah ** GaCC Order No. 270, * Ukuran Administrasi untuk Sertifikat Origin untuk Ekspor Goods *, diterbitkan 2024-07-30 dan dalam gaya dari 2024-09-01 *. Halaman ini mencakup ** China mengeluarkan sisi **; apakah tujuan tertentu memberikan preferensi adalah keputusan negara itu.

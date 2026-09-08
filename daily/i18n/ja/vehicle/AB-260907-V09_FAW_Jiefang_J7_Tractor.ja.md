@@ -1,16 +1,16 @@
 # FAW Jiefang J7 トラクター:中国-5 と中国- 6 世代別を維持する市場ヘビートラックの参照
-## ツイート メタデータ
-- **SEOタイトル**: FAW Jiefang J7 中国市場トラクター仕様と輸出チェック | オートブリッジ
-- **メタ 記述**: FAW Jiefang J7ヘビートラクターのための中国市場参照:歴史中国- 5 CA6DM3 550 PSラインは、現在の中国- 6 CA6SX1 まで600 PSライン、6x4レイアウトと輸出チェックを分離しました。
-- H1 **: FAW Jiefang J7 トラクター: 中国-市場大型トラック参照中国- 5 と中国- 6 世代別
-- **主なキーワード**: FAW Jiefang J7輸出仕様
-- **二次検索条件**:解放 J7;J7 CA6SX1;J7 CA6DM3 550; Jiefang J7 6x4 トラクター; 中国の重いトラックの輸出;中国6 J7 600 PS
-- **混雑URL**: /vehicles/faw-jiefang- j7-tractor/
-- **Search Intent**: 面向海外买家介绍解放 J7 中国市场身份、严格区分国五历史款 CA6DM3 与国六现售 CA6SX1 两代动力
-- **内部リンクの提案**: /vehicles/qingling-isuzu- kv100/、 /vehicles/zoomlion- ztc250h-truck-crane/、/guides/china-vehicle-export-licence/
-- **イメージ提案**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
-- アルト 提案**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
-- **シェマスコープ**: 条 + 車両(商品/オファー/価格/レビュー/評価なし)
+## SEOメタデータ
+- **SEOタイトル**: FAW  Jiefang J7 China-Market Tractor Specs  and  輸出チェック | オートブリッジ
+- **メタディスクリプション**: FAW Jiefang J7重いトラクターのための中国市場参照:歴史中国- 5 CA6DM3 550 PS ラインは現在の中国- 6 CA6SX1 まで- 600 PS ライン、6x4 レイアウトおよび輸出点検から分けられました。
+- **H1**: FAW  Jiefang J7 Tractor: 中国- 市場 重トラック リファレンス中国- 5 と中国- 6 世代別
+- **主要キーワード**: FAW  Jiefang J7 export specs
+- **関連検索語**: 解放 J7; J7 CA6SX1; J7 CA6DM3 550; Jiefang J7 6x4 トラクター; 中国の重いトラックの輸出;中国6 J7 600 PS
+- **推奨URL**: /vehicles/faw-jiefang-j7-tractor/
+- **検索意図**: FAW Jiefang J7 トラクターを理解する:中国-5 と中国- 6 世代別を保つ中国-市場ヘビートラック参照:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- **内部リンク候補**: /vehicles/qingling-isuzu-kv100/, /vehicles/zoomlion-ztc250h-truck-crane/, /guides/china-vehicle-export-licence/
+- **画像候補**: A FAW Jiefang J7 high-roof 6x4 tractor unit shown from side three-quarter
+- **ALTテキスト**: Side three-quarter view of a high-roof FAW Jiefang J7 6x4 tractor unit on neutral ground
+- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor from China's largest heavy-truck maker, 主に、長距離線運搬作業のための高屋根のキャブオーバー6x4として販売。 輸出バイヤーのための決定的な指定規準は**世代別です**: J7は、2018の発売から中国- 5 (国V) エンジンを発売しました  and  新しい中国- 6 (国民VI) エンジン家族、  and  combining the largest number from each into one "J7 specification" is precisely the error this page prevents. これは、ディーゼルにスコープ付けされる**中国市場参照です。 LNGや純電気J7の異種、海外J7はこのページ外にあり、単液出力は確認のために主力化されています。
 
@@ -92,8 +92,8 @@ For a tractor the buyer's decision runs across six dimensions,  and  それぞ�
 | CA6DM3/ 上市 / 国五历史 / | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3、上市、国五历史 |
 | 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps、6x4、国五公告号 |
 | CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩、12 挡、缓速器 |
-| 车型身份 / 底盘选装 /  | 汽车之家・车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份、底盘选装 |
+| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 |  CN  | T3 | 単一 | 単価 | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩 、 12 挡 、 缓速器 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 |
+| 车型身份 | 底盘选装 | 汽车之家・车家号 |  CN  | T3 | 単一 | 単価 | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份 | 底盘选装 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税
 | 一汽解放官方网站 (车型线身份;exact-SKU 以官方/公告终核) | 一汽解放 (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang)) (FAW Jiefang)) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang (FAW))) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## 編集レビュー
