@@ -167,45 +167,63 @@
     },
     {
       "article_id": "AB50_024_Guide_battery_warranty_southeast_asia",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_024_Guide_battery_warranty_southeast_asia_FINAL.docx",
       "sha256": "b406dd8ef8242c0a88a3c0750721735166500212fff62c81649696727032795a",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_025_Guide_best_chinese_suvs_southeast_asia",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_025_Guide_best_chinese_suvs_southeast_asia_FINAL.docx",
       "sha256": "4d529ead97781b94421ef7f72b85147cd26542385c0b42bba0103a85c5d7fe5c",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_026_Guide_fob_cif_quote_check_africa",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_026_Guide_fob_cif_quote_check_africa_FINAL.docx",
       "sha256": "cd21d4714238163680802fb78f43a770a397df497b08d054304a360f4aad7865",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_PASS"
     },
     {
       "article_id": "AB50_027_Guide_fob_cif_quote_check_latin_america",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_027_Guide_fob_cif_quote_check_latin_america_FINAL.docx",
       "sha256": "a55effbab872734fa9229edabfc64f9c7d5d9c0a78e4c23227b19c70a63a357a",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_PASS"
     },
     {
       "article_id": "AB50_028_Guide_fob_cif_quote_check_middle_east",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_028_Guide_fob_cif_quote_check_middle_east_FINAL.docx",
       "sha256": "4d22f0700240350778a139365b694c4278d325f333dd020ca637040781609c70",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_029_Guide_fob_cif_quote_check_southeast_asia",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_029_Guide_fob_cif_quote_check_southeast_asia_FINAL.docx",
       "sha256": "65714894a17ca49c3d64fec5240f2e0fb04c2cbe0d6e9b6883259f85c0580405",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_030_Guide_mpv_procurement_africa",
@@ -237,10 +255,13 @@
     },
     {
       "article_id": "AB50_034_Guide_new_vs_used_ev_middle_east",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_034_Guide_new_vs_used_ev_middle_east_FINAL.docx",
       "sha256": "6366882cdba353bcdffc5296c743e15e55a9e97cb2dbda745e4e662f40dccbcb",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_035_Guide_new_vs_used_ev_southeast_asia",
@@ -293,10 +314,13 @@
     },
     {
       "article_id": "AB50_042_Guide_pickup_export_latin_america",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_042_Guide_pickup_export_latin_america_FINAL.docx",
       "sha256": "f14bd62da05b4bc9640d77ecd49b5cf1b9c49b0c3e31d631beece36d5e6ff536",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_043_Guide_pickup_export_middle_east",
@@ -314,17 +338,23 @@
     },
     {
       "article_id": "AB50_045_Guide_price_verification_africa",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_045_Guide_price_verification_africa_FINAL.docx",
       "sha256": "0ed402c51e88d3942265160d3a3c7ea52b28935e03bb8fb13b7c28d2fa5c983b",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_PASS"
     },
     {
       "article_id": "AB50_046_Guide_roro_container_shipping_latin_america",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_046_Guide_roro_container_shipping_latin_america_FINAL.docx",
       "sha256": "e148dec5a5a75cabd44e2db0469e130cff310ab7d96be2edb6ff886e541d06d8",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     },
     {
       "article_id": "AB50_047_Guide_roro_container_shipping_middle_east_REUSED",
@@ -349,10 +379,13 @@
     },
     {
       "article_id": "AB50_050_Guide_seven_seat_suv_latin_america",
-      "version": "v2",
+      "version": "v3",
       "source_file": "AB50_050_Guide_seven_seat_suv_latin_america_FINAL.docx",
       "sha256": "8de2767950289a283c194c31db3d711cec344636db3c0dde2d7709fa8a254efe",
-      "status": "COMPLETED"
+      "status": "COMPLETED",
+      "writing_skill_version": "1.2",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "research_status": "RESEARCH_CONDITIONAL"
     }
   ],
   "active_version": "v2",
@@ -361,5 +394,6 @@
   "revision_notes": [
     "v1 retained unchanged; v2 applies SEO length, keyword, evidence, FAQ, CTA, and internal-link controls.",
     "JA/KO and any additional locales are not claimed in this repository until equivalent-depth translations are supplied."
-  ]
+  ],
+  "writing_note": "v3: 11 site-pilot articles rewritten onto claim-level fact sheets (2026-09-09 research return) under skills/autobridge-writing v1.2. Versions v1/v2 immutable."
 }

@@ -1,0 +1,413 @@
+{
+  "batch_id": "WRITING-SITE-PILOT-11-2026-09-09",
+  "writing_skill_version_used": "1.2",
+  "writing_start_head_sha": "c129bd57f29d0fd92290f9903c3184e019eebd8e",
+  "research_baseline_sha": "c129bd57f29d0fd92290f9903c3184e019eebd8e",
+  "research_return_file": "reviews/site-pilot-11-20260909/research-return-repair-20260909.json",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_type": "IN_PLACE_REPAIR",
+  "total_articles": 11,
+  "full_locale_expected": 12,
+  "full_locale_complete": 2,
+  "locales_not_produced": [
+    "FR",
+    "DE",
+    "ES",
+    "PT",
+    "JA",
+    "KO",
+    "VI",
+    "TH",
+    "ID",
+    "AR"
+  ],
+  "locales_not_produced_reason": "No translation engine or locale author was available in this run; metadata-only locale packs were deliberately not fabricated.",
+  "self_qa_pass": [
+    "fob-cif-quote-check-africa",
+    "fob-cif-quote-check-latin-america",
+    "price-verification-africa"
+  ],
+  "self_qa_conditional": [
+    "battery-warranty-southeast-asia",
+    "best-chinese-suvs-southeast-asia",
+    "fob-cif-quote-check-middle-east",
+    "fob-cif-quote-check-southeast-asia",
+    "new-vs-used-ev-middle-east",
+    "pickup-export-latin-america",
+    "roro-container-shipping-latin-america",
+    "seven-seat-suv-latin-america"
+  ],
+  "self_qa_fail": [],
+  "needs_research": 0,
+  "similarity_max_by_language": {
+    "EN": 0.0708,
+    "ZH": 0.0929
+  },
+  "similarity_threshold": {
+    "MANUAL_REVIEW_REQUIRED": ">0.50",
+    "SELF_QA_FAIL": ">=0.70"
+  },
+  "qa_counters": {
+    "EMPTY_HEADINGS": 0,
+    "TRUNCATED_SENTENCES": 0,
+    "PUBLIC_WORKFLOW_TEXT_FAIL": 0,
+    "FAKE_FIRST_HAND_FAIL": 0,
+    "AUTHOR_FIELD_FAIL": 0,
+    "PARAM_SCOPE_FAIL": 0,
+    "NUMERIC_FORMAT_FAIL": 0,
+    "CARD_SUMMARY_DUPLICATION_FAIL": 0,
+    "CONTROLLED_PATCH_CLOSURE_FAIL": 0,
+    "OFFICIAL_SOURCE_COUNT_ERRORS": 0,
+    "SEMANTIC_LANGUAGE_QA_FAIL": 0,
+    "PUBLIC_FIELD_VALUE_ONLY_FAIL": 0,
+    "TRANSLATED_SLUG_FAIL": 0
+  },
+  "pipeline_qa_validate_batch": {
+    "batch_id": "batch_20260901_001",
+    "passed": true,
+    "failed_articles": 0
+  },
+  "image_rights": {
+    "PASS": 0,
+    "FAIL": 0,
+    "NOT_APPLICABLE": 11,
+    "note": "No image assets were introduced or licensed in this batch; no image rights status was fabricated."
+  },
+  "articles": [
+    {
+      "article_id": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "slug": "battery-warranty-southeast-asia",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_024_Guide_battery_warranty_southeast_asia/versions/v3.md",
+      "body_hashes": {
+        "EN": "db4e216494ed3927",
+        "ZH": "70655cc186db3513",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 984,
+      "ZH_chars": 1543,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 2,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_025_Guide_best_chinese_suvs_southeast_asia",
+      "slug": "best-chinese-suvs-southeast-asia",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v3.md",
+      "body_hashes": {
+        "EN": "2e9e3b169190449c",
+        "ZH": "5cea34b6f7c25836",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 925,
+      "ZH_chars": 1436,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 1,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_026_Guide_fob_cif_quote_check_africa",
+      "slug": "fob-cif-quote-check-africa",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_026_Guide_fob_cif_quote_check_africa/versions/v3.md",
+      "body_hashes": {
+        "EN": "879cab8044f15558",
+        "ZH": "6e1bf5a71cc54a39",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 1175,
+      "ZH_chars": 1785,
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 5,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_PASS"
+    },
+    {
+      "article_id": "AB50_027_Guide_fob_cif_quote_check_latin_america",
+      "slug": "fob-cif-quote-check-latin-america",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_027_Guide_fob_cif_quote_check_latin_america/versions/v3.md",
+      "body_hashes": {
+        "EN": "862d034cc6f97c3a",
+        "ZH": "9e2b2f0dbc9bb139",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 1035,
+      "ZH_chars": 1578,
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 6,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_PASS"
+    },
+    {
+      "article_id": "AB50_028_Guide_fob_cif_quote_check_middle_east",
+      "slug": "fob-cif-quote-check-middle-east",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_028_Guide_fob_cif_quote_check_middle_east/versions/v3.md",
+      "body_hashes": {
+        "EN": "5236405631e9edd4",
+        "ZH": "04b71e814640f43f",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 967,
+      "ZH_chars": 1454,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 5,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_029_Guide_fob_cif_quote_check_southeast_asia",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_029_Guide_fob_cif_quote_check_southeast_asia/versions/v3.md",
+      "body_hashes": {
+        "EN": "448c20f4eb018e43",
+        "ZH": "3a7ae89ad7d66704",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 923,
+      "ZH_chars": 1412,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 4,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_034_Guide_new_vs_used_ev_middle_east",
+      "slug": "new-vs-used-ev-middle-east",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_034_Guide_new_vs_used_ev_middle_east/versions/v3.md",
+      "body_hashes": {
+        "EN": "64927e45b8eace05",
+        "ZH": "2aa7311c9c7424e7",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 1022,
+      "ZH_chars": 1552,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 3,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_042_Guide_pickup_export_latin_america",
+      "slug": "pickup-export-latin-america",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_042_Guide_pickup_export_latin_america/versions/v3.md",
+      "body_hashes": {
+        "EN": "295c63abe47b3efd",
+        "ZH": "059621678bbf328c",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 935,
+      "ZH_chars": 1413,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 3,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_045_Guide_price_verification_africa",
+      "slug": "price-verification-africa",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_045_Guide_price_verification_africa/versions/v3.md",
+      "body_hashes": {
+        "EN": "76af4641ba2edb67",
+        "ZH": "37357f9c17b466e4",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 954,
+      "ZH_chars": 1434,
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 5,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_PASS"
+    },
+    {
+      "article_id": "AB50_046_Guide_roro_container_shipping_latin_america",
+      "slug": "roro-container-shipping-latin-america",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_046_Guide_roro_container_shipping_latin_america/versions/v3.md",
+      "body_hashes": {
+        "EN": "baf0b77bea1318c0",
+        "ZH": "2fe3d503d5454779",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 1040,
+      "ZH_chars": 1605,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 1,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    },
+    {
+      "article_id": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "slug": "seven-seat-suv-latin-america",
+      "version": "v3",
+      "path": "batches/batch_20260901_001/articles/AB50_050_Guide_seven_seat_suv_latin_america/versions/v3.md",
+      "body_hashes": {
+        "EN": "76f0193e9fc7b40c",
+        "ZH": "27ef5576f6d21a4c",
+        "locales_not_produced": [
+          "FR",
+          "DE",
+          "ES",
+          "PT",
+          "JA",
+          "KO",
+          "VI",
+          "TH",
+          "ID",
+          "AR"
+        ]
+      },
+      "EN_words": 986,
+      "ZH_chars": 1421,
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "2.0-claim-level-20260909",
+      "official_source_count_t1_matched": 3,
+      "locales_complete": 2,
+      "locales_expected": 12,
+      "self_qa": "SELF_QA_CONDITIONAL"
+    }
+  ],
+  "ai_assisted": true,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "waiting_for": "INDEPENDENT_REVIEW_AI"
+}
