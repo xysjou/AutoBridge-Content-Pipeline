@@ -1,0 +1,2048 @@
+{
+ "batch": "WRITING-SEMANTIC-REPAIR-2026-09-09",
+ "hash_algo": "sha256-16",
+ "article_count": 120,
+ "full_locale_count": 1440,
+ "articles": [
+  {
+   "article_id": "AB-260902-G01",
+   "EN": "592b5f10ab9a1b6c",
+   "locales": {
+    "fr": "b306bd2d28925056",
+    "de": "9ec3bf6b99f842db",
+    "es": "36c939cc7a3c77ac",
+    "pt": "854a1158723ebd5e",
+    "ja": "bbbcd927554fabc1",
+    "ko": "43c2c59d822c924d",
+    "vi": "93719e5dfe94bffa",
+    "th": "03ba371cb3e2fdf2",
+    "id": "e60d7cc46a729cf9",
+    "ar": "9826cbfdfd75651e",
+    "zh": "c2ef36b2dfb9a3d1"
+   }
+  },
+  {
+   "article_id": "AB-260902-G02",
+   "EN": "75c4b2e0201e900a",
+   "locales": {
+    "fr": "3471e6517c15f44b",
+    "de": "02d0740255f5812b",
+    "es": "6626c82330df7363",
+    "pt": "8956387a5157a159",
+    "ja": "86e4429f1cab301d",
+    "ko": "a46c0f7d85a3578f",
+    "vi": "f4f359935fe934cb",
+    "th": "aea37b7dee57d850",
+    "id": "28ee6c11583a5c04",
+    "ar": "4106805d0c3c5288",
+    "zh": "7409a8f23868d1d0"
+   }
+  },
+  {
+   "article_id": "AB-260902-G03",
+   "EN": "bbd9eea1767bc558",
+   "locales": {
+    "fr": "6c326373f9db07ca",
+    "de": "3d9f27ad67d11435",
+    "es": "8da2f3142604149d",
+    "pt": "46a51155eeaca865",
+    "ja": "eda6614d7bc43041",
+    "ko": "8d5982cb9b149bdd",
+    "vi": "6a3910f5ed4d0044",
+    "th": "d2c5d78b0b26cd1f",
+    "id": "13c3e68e3fc22667",
+    "ar": "9a026c659ee34b72",
+    "zh": "fb4dce4871fabdf7"
+   }
+  },
+  {
+   "article_id": "AB-260902-G04",
+   "EN": "1e36f74273ef5261",
+   "locales": {
+    "fr": "be5650611a6948e9",
+    "de": "881469b5fa849898",
+    "es": "bb717f700746afa0",
+    "pt": "dc5e483394ed7919",
+    "ja": "1cb7f0e07d0acce4",
+    "ko": "20ed2f69abf4d020",
+    "vi": "393a1aa2c37010da",
+    "th": "60a738426238c0b5",
+    "id": "7f857d0f68b50042",
+    "ar": "3d29f0ba66878d4f",
+    "zh": "34d21d450ffefc01"
+   }
+  },
+  {
+   "article_id": "AB-260902-G05",
+   "EN": "abc033e1c8835224",
+   "locales": {
+    "fr": "ddc2389d57d771d1",
+    "de": "3b1299421cf8e0b5",
+    "es": "a23c455234872b3b",
+    "pt": "eaf44fbc2a8e1716",
+    "ja": "8b83cdf9242ccfcd",
+    "ko": "d867fa2917a0f21a",
+    "vi": "b842667c0b204ec9",
+    "th": "0aead3973495b8c5",
+    "id": "a0316421a4bb44fe",
+    "ar": "3c71259b112574c3",
+    "zh": "2e95908a5edad659"
+   }
+  },
+  {
+   "article_id": "AB-260902-G06",
+   "EN": "f8dfbd439d882da8",
+   "locales": {
+    "fr": "9f325674bb72a698",
+    "de": "88813db43ce12d3c",
+    "es": "4a867b5667a0aaa8",
+    "pt": "09ca1eaf380649bb",
+    "ja": "3f14661d58bc4cda",
+    "ko": "250a992dc9def4ac",
+    "vi": "e43e114bc8133c32",
+    "th": "1bcd843811676028",
+    "id": "47c0394a6de66b2e",
+    "ar": "c645aca91712e767",
+    "zh": "e0a848518c982d50"
+   }
+  },
+  {
+   "article_id": "AB-260902-G07",
+   "EN": "487019bef52c5cb1",
+   "locales": {
+    "fr": "147f7c9d3dfb0d7d",
+    "de": "40f2d9901c8983d3",
+    "es": "9846430074298167",
+    "pt": "3f1889aa330d5812",
+    "ja": "19ad34ddb982dafc",
+    "ko": "829316ef9f3a0139",
+    "vi": "efb3d6e09b1b4c73",
+    "th": "a4946b73147deaf5",
+    "id": "9c00ec8ea99d168b",
+    "ar": "433f08388ac56226",
+    "zh": "e94fc7596e4913cd"
+   }
+  },
+  {
+   "article_id": "AB-260902-G08",
+   "EN": "c72dc24a568161e2",
+   "locales": {
+    "fr": "6da0818620c0e126",
+    "de": "5768e3f98a6892fd",
+    "es": "f68f364212a1485d",
+    "pt": "fcd01ce0c4adecd1",
+    "ja": "addf3458321ccf8c",
+    "ko": "8c2a719765fbe4f1",
+    "vi": "409788a9eac16217",
+    "th": "61c469ae59561561",
+    "id": "a4e2d507316e0f1c",
+    "ar": "f2b95b9a45f043bb",
+    "zh": "8ed8d2513ab5168b"
+   }
+  },
+  {
+   "article_id": "AB-260902-G09",
+   "EN": "7000da32f3b557a0",
+   "locales": {
+    "fr": "4416262fb28bae06",
+    "de": "9d4535d9fd5be1a8",
+    "es": "f634c2337d08c523",
+    "pt": "6ffa38157604cbfd",
+    "ja": "4555bc4aa0e333cd",
+    "ko": "75fa06003754d3ba",
+    "vi": "e489323f6b5e6167",
+    "th": "8d3a3abfcfdc92fc",
+    "id": "ee08a193935bd302",
+    "ar": "7acee698c1f04731",
+    "zh": "8fe275d7f03a3f8e"
+   }
+  },
+  {
+   "article_id": "AB-260902-G10",
+   "EN": "c52f50038378ed15",
+   "locales": {
+    "fr": "6fe11f743c7e5268",
+    "de": "dada5d1b16de7330",
+    "es": "468332dc7d31f7ef",
+    "pt": "ba084b7a14538828",
+    "ja": "e6345c709768e387",
+    "ko": "792f5915599a2cc2",
+    "vi": "64baed69e8dfdca2",
+    "th": "55dc0cc5cb2f88bb",
+    "id": "82fde18e0114a14e",
+    "ar": "ef644b6c08a6f938",
+    "zh": "a70c2f0dd6dcd788"
+   }
+  },
+  {
+   "article_id": "AB-260902-V01",
+   "EN": "521a0e281eb53578",
+   "locales": {
+    "fr": "f2705e2c6ec4c966",
+    "de": "c7dc5a596f69a912",
+    "es": "520a7df814b7c1bd",
+    "pt": "6837a7c8778aa21e",
+    "ja": "449794fc31b7e48a",
+    "ko": "da2b42db6c93823b",
+    "vi": "8ec037ad51ae7e3d",
+    "th": "46c6fda9f7d05d8f",
+    "id": "b97f91faa118c95a",
+    "ar": "bc4cbede65b3064b",
+    "zh": "9bc075c97a94d67c"
+   }
+  },
+  {
+   "article_id": "AB-260902-V02",
+   "EN": "cba53848ce652361",
+   "locales": {
+    "fr": "1935c48c2c4deb83",
+    "de": "4e8f42bbe522900d",
+    "es": "ad453f3857e22e37",
+    "pt": "252095ea141b1e50",
+    "ja": "2d5733b7298bfc19",
+    "ko": "bacbf8998afe7a33",
+    "vi": "bb24975c0e2f426c",
+    "th": "dcae455a7ba0cb76",
+    "id": "b25444a1198ce8ac",
+    "ar": "59609df9bd20b5ca",
+    "zh": "751515134e2332c9"
+   }
+  },
+  {
+   "article_id": "AB-260902-V03",
+   "EN": "acfb384402f8e457",
+   "locales": {
+    "fr": "334d796f12365402",
+    "de": "a5ad58dde778bbef",
+    "es": "a2a7b5f6d0137d2d",
+    "pt": "1edd6baf1b429ee1",
+    "ja": "b9f0f7ecee157324",
+    "ko": "db7d84bea20dcc57",
+    "vi": "c2b8ee2136a473e1",
+    "th": "27cec5143501163f",
+    "id": "cc466b4e33c2a7f3",
+    "ar": "7f46db7418dadbeb",
+    "zh": "e451b2b6096b774f"
+   }
+  },
+  {
+   "article_id": "AB-260902-V04",
+   "EN": "5d6277f988d26a00",
+   "locales": {
+    "fr": "25c88bb0f5d3df95",
+    "de": "27633f70a816f483",
+    "es": "32a7d11bf7ca8e38",
+    "pt": "7794026f730ba2ce",
+    "ja": "7730b540daf3d936",
+    "ko": "323cd6c61ed82d98",
+    "vi": "04a8473b59ab496e",
+    "th": "82e137eb84732bcf",
+    "id": "bb3ee65f7c059f8c",
+    "ar": "5999d33eaeb3477d",
+    "zh": "3f9bc27c2ec11999"
+   }
+  },
+  {
+   "article_id": "AB-260902-V05",
+   "EN": "a28ce8717ae88267",
+   "locales": {
+    "fr": "d27456a36a6be41c",
+    "de": "e266dd183e0c26a7",
+    "es": "1f6f54459c458ffe",
+    "pt": "c024297ccb508479",
+    "ja": "ec3585c705ba166f",
+    "ko": "45bb1a0739f32271",
+    "vi": "9594ff6a7cb9d896",
+    "th": "2a52b362b6156057",
+    "id": "3113b1387b7c8fe1",
+    "ar": "e166b7baa90d6f4a",
+    "zh": "9c03cb2f9922721d"
+   }
+  },
+  {
+   "article_id": "AB-260902-V06",
+   "EN": "56aa67a604f29880",
+   "locales": {
+    "fr": "9f133b2bfb5bed26",
+    "de": "67bed006ada21cf1",
+    "es": "bc18f6d0de86297e",
+    "pt": "944f2b3e30af3bba",
+    "ja": "6b83a2fa79853815",
+    "ko": "12de51b18654fe91",
+    "vi": "2972a5052b5a7fb6",
+    "th": "fcb2cac0c090f8df",
+    "id": "5fd99d891881f7c6",
+    "ar": "085360255d5611f0",
+    "zh": "cc1c1b427921239c"
+   }
+  },
+  {
+   "article_id": "AB-260902-V07",
+   "EN": "077e17a7e7bb76b2",
+   "locales": {
+    "fr": "9822f50f0da2ab28",
+    "de": "17259ca97e76bf12",
+    "es": "be49d9dc1cd82c6c",
+    "pt": "75a91887426f5a66",
+    "ja": "275bfec6cfe099b2",
+    "ko": "1ce7733d21ceb2b8",
+    "vi": "bef64e17d284bf20",
+    "th": "81bbd7b68ff9d8aa",
+    "id": "6cd7695e7cf7d2eb",
+    "ar": "37ebf7ebcfaed118",
+    "zh": "4d53221e41af433e"
+   }
+  },
+  {
+   "article_id": "AB-260902-V08",
+   "EN": "3800def35426a945",
+   "locales": {
+    "fr": "a36b9d8a3e819364",
+    "de": "42b377d906631bff",
+    "es": "254735d914221c4e",
+    "pt": "63b2eb40f2b8bb78",
+    "ja": "dc9de2643e4188ca",
+    "ko": "abfa62674d081dd8",
+    "vi": "6c80d71246c94bf0",
+    "th": "c687a44761428330",
+    "id": "6e72792f6d24d12c",
+    "ar": "886704e088b5bbe2",
+    "zh": "2112fbdf5d33901b"
+   }
+  },
+  {
+   "article_id": "AB-260902-V09",
+   "EN": "baf3808635afd93c",
+   "locales": {
+    "fr": "dead20b25aeaaf05",
+    "de": "29dad0c92af3dbc7",
+    "es": "b4a6242ea5d4e91a",
+    "pt": "0fc44bca830ced53",
+    "ja": "85cd7337e67cc85b",
+    "ko": "0a14ec9a1ed2a075",
+    "vi": "98dbc632e15b851c",
+    "th": "911e634f6817c740",
+    "id": "f64d239084864a0b",
+    "ar": "9d71845327fd35db",
+    "zh": "8587d4c0c1a7ea30"
+   }
+  },
+  {
+   "article_id": "AB-260902-V10",
+   "EN": "e32e2fe1447b27c5",
+   "locales": {
+    "fr": "bcac9b425f22f3c0",
+    "de": "8e77ab4cc244494b",
+    "es": "0b092deea8833b1f",
+    "pt": "94c74dc346064c8f",
+    "ja": "6576c997e68bd0c5",
+    "ko": "974710760a5d20b1",
+    "vi": "a651aa4cdcccc1b5",
+    "th": "ffe268cea8931373",
+    "id": "ccf094b8db64ef67",
+    "ar": "46ab668e93101e24",
+    "zh": "5c2ce939b768c058"
+   }
+  },
+  {
+   "article_id": "AB-260903-G01",
+   "EN": "15642d7e8412711f",
+   "locales": {
+    "fr": "b0de1b1d4493976d",
+    "de": "465b724173a27fc0",
+    "es": "2eae8319f8ea5beb",
+    "pt": "12022203d995d52c",
+    "ja": "0054dffcb29fd375",
+    "ko": "3deb6a838aa44090",
+    "vi": "4da194b6c3fd5587",
+    "th": "d6e7314206d80666",
+    "id": "24a853cdc228352b",
+    "ar": "3429f8dde88cac23",
+    "zh": "8b5cca1a71236daf"
+   }
+  },
+  {
+   "article_id": "AB-260903-G02",
+   "EN": "e8c379c423c8b63d",
+   "locales": {
+    "fr": "1f86d07183dcaf1b",
+    "de": "353cc4259b591642",
+    "es": "20812691b3206a56",
+    "pt": "1db561d68c907a99",
+    "ja": "b8d0c71c607d429b",
+    "ko": "97d0412124cd4f8f",
+    "vi": "f0273865167805e8",
+    "th": "f33824a15cc48f93",
+    "id": "4de4fe7f5d3d26a7",
+    "ar": "f247c5b3903ab29f",
+    "zh": "ea506bd7eeae7e82"
+   }
+  },
+  {
+   "article_id": "AB-260903-G03",
+   "EN": "55b3e3e5ead4a4f7",
+   "locales": {
+    "fr": "cbfe02048a9b9441",
+    "de": "aacebfa0ded48408",
+    "es": "eabbe5f27a00617a",
+    "pt": "d9e14f66ab7ab594",
+    "ja": "2e0d3a52934434d0",
+    "ko": "b0344a5d941a1b79",
+    "vi": "69f69900a94f0d39",
+    "th": "fde60ea9f6a10f24",
+    "id": "dc09a0df5e3a1193",
+    "ar": "5341c9c3fdc9ca91",
+    "zh": "8c8eb78efa5086d8"
+   }
+  },
+  {
+   "article_id": "AB-260903-G04",
+   "EN": "a3c257cf7dccd32d",
+   "locales": {
+    "fr": "ddf86336a06ac09d",
+    "de": "bb03fd76937de2b1",
+    "es": "7c3ac9b72c23ad9f",
+    "pt": "5e89854abd483f81",
+    "ja": "a27519e448d3d914",
+    "ko": "a09ddd63c90f5098",
+    "vi": "88c20a09ab1c17a0",
+    "th": "84531ce008ad7418",
+    "id": "9e127de86a774be8",
+    "ar": "1b8ef7bb8e8ab066",
+    "zh": "61b876f18b76b0dc"
+   }
+  },
+  {
+   "article_id": "AB-260903-G05",
+   "EN": "b71372a85912f0c7",
+   "locales": {
+    "fr": "b10b0e5c4cd37bb2",
+    "de": "2d8d7bad654db009",
+    "es": "78b427208c750089",
+    "pt": "7322ed8872a27980",
+    "ja": "da9424953b1ebcfc",
+    "ko": "a88b0a59c49b50da",
+    "vi": "a6c8509a15dd5ebc",
+    "th": "db236f9acfc594d8",
+    "id": "79c2fb7cc1fa7e14",
+    "ar": "46235ab1a041eef4",
+    "zh": "7fbe940c62ee2dd9"
+   }
+  },
+  {
+   "article_id": "AB-260903-G06",
+   "EN": "7ca4ac98323e6daf",
+   "locales": {
+    "fr": "c4c2614dd020491c",
+    "de": "7cd679c42e1002fb",
+    "es": "e0e2bf068f55a74f",
+    "pt": "869651a790845414",
+    "ja": "c00f44e5e05ecf85",
+    "ko": "e7c5a537a5305fba",
+    "vi": "0e7e19bfa17d84bd",
+    "th": "de86fafd79a9fa29",
+    "id": "fc4f111e2ea3dcb1",
+    "ar": "d359006f0a7c1a7a",
+    "zh": "f933271894535c9a"
+   }
+  },
+  {
+   "article_id": "AB-260903-G07",
+   "EN": "ca15d92a141390ae",
+   "locales": {
+    "fr": "261bfd44172fef8e",
+    "de": "9767684fbd2fce57",
+    "es": "597b7e6feeffc998",
+    "pt": "2b5232db4ea90286",
+    "ja": "fae095d37c0d92a5",
+    "ko": "32c5cc7308e03b50",
+    "vi": "bb3ed63b4f0e6cb3",
+    "th": "19bbe716fe980ef9",
+    "id": "159e87af8f92a173",
+    "ar": "5386afb71239ec61",
+    "zh": "02c916395804ecd0"
+   }
+  },
+  {
+   "article_id": "AB-260903-G08",
+   "EN": "d1704f87afe895e2",
+   "locales": {
+    "fr": "af72ce0ba175738f",
+    "de": "f69377442a23b39d",
+    "es": "60b83812c9c1842b",
+    "pt": "c90f7093f338307f",
+    "ja": "529cb9769503ac57",
+    "ko": "efad9b4e1463f62b",
+    "vi": "96434ac36aaa848f",
+    "th": "af1137232c6e77af",
+    "id": "ddcaf5571a737616",
+    "ar": "9a516a29c15e3bea",
+    "zh": "22b3f26dec4f071c"
+   }
+  },
+  {
+   "article_id": "AB-260903-G09",
+   "EN": "23214f610b1fcb25",
+   "locales": {
+    "fr": "da4f7f5db9bfa56f",
+    "de": "c03f4eebd65c1bbc",
+    "es": "cddbd11c1402d4e7",
+    "pt": "6e0507b67474d3d5",
+    "ja": "e57a22ae9d53cccb",
+    "ko": "712578a8b9c341bc",
+    "vi": "d0062aafe91b7484",
+    "th": "908db95cfd83bfd4",
+    "id": "edb31607c2f23717",
+    "ar": "032ecb8c6c97fccb",
+    "zh": "b56a68cf61e70803"
+   }
+  },
+  {
+   "article_id": "AB-260903-G10",
+   "EN": "5fade83916dfb1ad",
+   "locales": {
+    "fr": "9fab37eeb44341d0",
+    "de": "03168d08ed4cf000",
+    "es": "30a8de264a38d84d",
+    "pt": "c4a33c18b6978db2",
+    "ja": "68f74609975183d0",
+    "ko": "e1acfcbf0bfd4f06",
+    "vi": "fc53143558a55087",
+    "th": "3838c151f1d8c1a1",
+    "id": "d49ca757e6f0e9c9",
+    "ar": "ca21699d9bfa93fe",
+    "zh": "bac90420f44e961b"
+   }
+  },
+  {
+   "article_id": "AB-260903-V01",
+   "EN": "57d4c5adbba63312",
+   "locales": {
+    "fr": "3f91d7a4bffd93bc",
+    "de": "1a5c780b8f09f670",
+    "es": "1b02c46eb9df8fb8",
+    "pt": "cd135a68f865a9ea",
+    "ja": "b27cab2b61528de4",
+    "ko": "9737458922927941",
+    "vi": "443a543b2a3a2c41",
+    "th": "1745b67b63565da4",
+    "id": "536ff27b5146ff7a",
+    "ar": "291601885ac81721",
+    "zh": "b73864c305f3ec6d"
+   }
+  },
+  {
+   "article_id": "AB-260903-V02",
+   "EN": "e52933bbbe9bd54a",
+   "locales": {
+    "fr": "3dfec7edc1dafa8c",
+    "de": "bc73c6c43a963410",
+    "es": "530112de8118c7d0",
+    "pt": "8e701774d7b55068",
+    "ja": "a3793ad9aa823a11",
+    "ko": "0342ae6b7614b1c3",
+    "vi": "0a7c166501714993",
+    "th": "a8e96800094bd056",
+    "id": "6a95efea37000144",
+    "ar": "149a04aa8a08f000",
+    "zh": "f38792701fa6d996"
+   }
+  },
+  {
+   "article_id": "AB-260903-V03",
+   "EN": "2b2f0478ca54095a",
+   "locales": {
+    "fr": "54f8b06269efa5b3",
+    "de": "f34fde30990fe770",
+    "es": "eba09d358bfd6b06",
+    "pt": "35ff8a950133fe56",
+    "ja": "488a4e50f84975b5",
+    "ko": "01d2a50b0c530fa3",
+    "vi": "445ecfff8b2a8a8a",
+    "th": "70a872ace854fdca",
+    "id": "81c97931a0cadd33",
+    "ar": "1cdae439f54d3fcd",
+    "zh": "f4ebd481ba35233a"
+   }
+  },
+  {
+   "article_id": "AB-260903-V04",
+   "EN": "92c2b2ccb635b712",
+   "locales": {
+    "fr": "a6e13bdd3d61b62d",
+    "de": "452ff40266298255",
+    "es": "ec32b8741c11a9f2",
+    "pt": "879136d852ef9fe4",
+    "ja": "3ac20bdc00aab83d",
+    "ko": "53091aa5e8da0f8a",
+    "vi": "d29f959a00a3604a",
+    "th": "a4aa1e5a94cd2a9b",
+    "id": "6181822efdb36d51",
+    "ar": "c6c0129d8dc38297",
+    "zh": "3317b4d1f52da8eb"
+   }
+  },
+  {
+   "article_id": "AB-260903-V05",
+   "EN": "e249b44ce05ba2e1",
+   "locales": {
+    "fr": "d93bffc9df10e626",
+    "de": "be7673a8a41af9ae",
+    "es": "0200ae95fb472e8d",
+    "pt": "fc42f75375b1249f",
+    "ja": "beba1892dea846b6",
+    "ko": "6f1ad362c183096e",
+    "vi": "04f58472ada96900",
+    "th": "e9dd6497f4951ed5",
+    "id": "555bf89323da2f38",
+    "ar": "917ca2667c1fc25e",
+    "zh": "d693141e33540359"
+   }
+  },
+  {
+   "article_id": "AB-260903-V06",
+   "EN": "fe3125e37605e0f0",
+   "locales": {
+    "fr": "62ac56601d5b1883",
+    "de": "55a8ff85ebdcc468",
+    "es": "68712e13a46c01d7",
+    "pt": "d9ec39706776434a",
+    "ja": "62b4261daa1ed851",
+    "ko": "a8e35a9d9a9ec727",
+    "vi": "52c256fd907613f0",
+    "th": "e516bf42f7e4e67a",
+    "id": "cfbd3d70f02c81d9",
+    "ar": "d4f4b05685d001b4",
+    "zh": "a56e789dddf3899d"
+   }
+  },
+  {
+   "article_id": "AB-260903-V07",
+   "EN": "2834a9cad93305c4",
+   "locales": {
+    "fr": "e61c83cfbbb3fe1f",
+    "de": "adadaa0cd737c447",
+    "es": "92cfdadaf52a1458",
+    "pt": "0768df0809c25004",
+    "ja": "666129b4f150b5e0",
+    "ko": "7a97d8b4603c43b8",
+    "vi": "aa2e0d8429461169",
+    "th": "6b11b64ecd09cd7d",
+    "id": "feedf937bdbc2b08",
+    "ar": "4bb8fd66a2de9298",
+    "zh": "6b7e1e6e0dc36d1b"
+   }
+  },
+  {
+   "article_id": "AB-260903-V08",
+   "EN": "22f3b572e0333115",
+   "locales": {
+    "fr": "dd80a7e1df73397e",
+    "de": "4de09e563a10e304",
+    "es": "8585d1f9996d8853",
+    "pt": "eeb22cc52350bfd4",
+    "ja": "f5c47e1a33b49a81",
+    "ko": "8629601ac3bf6b08",
+    "vi": "9ef6ce7ece01f762",
+    "th": "a79a09f8c5ccf8b1",
+    "id": "b2331833e6d20769",
+    "ar": "0ae045393ad8d347",
+    "zh": "b9de2b2d9cbb8e6b"
+   }
+  },
+  {
+   "article_id": "AB-260903-V09",
+   "EN": "6005e0c71fdf794a",
+   "locales": {
+    "fr": "deab1a668fd22acf",
+    "de": "93a79065d313746e",
+    "es": "2e7b29c0296a5c21",
+    "pt": "7abcc7749221fe24",
+    "ja": "36ac8856e9b587cd",
+    "ko": "480d498eced20d6c",
+    "vi": "dbc341b10ccd29c0",
+    "th": "cda3080b0f9f399e",
+    "id": "981aaca3576976c9",
+    "ar": "03341b9de2bd1622",
+    "zh": "865b45b53ee3ae42"
+   }
+  },
+  {
+   "article_id": "AB-260903-V10",
+   "EN": "f77d6fe955e46118",
+   "locales": {
+    "fr": "75a8ccb2455d6233",
+    "de": "24ecea0c293ea76d",
+    "es": "aaf02060bdc6e043",
+    "pt": "43be2e76763ff7c8",
+    "ja": "295d4caf44fecd87",
+    "ko": "fb857d6fbd583417",
+    "vi": "ba977958dd7f1b73",
+    "th": "a1d8c95ed1a491dd",
+    "id": "d9e9d5321a4c510a",
+    "ar": "e11518153bf39cc2",
+    "zh": "bbd78d2b54a08e3c"
+   }
+  },
+  {
+   "article_id": "AB-260904-G01",
+   "EN": "241408d233bb4d0b",
+   "locales": {
+    "fr": "aa4d02752fce8fdd",
+    "de": "326f117b34becc11",
+    "es": "0e3ea813f129d0bf",
+    "pt": "211fd58fdbd515bb",
+    "ja": "76bb48e8a0c36d16",
+    "ko": "79aed6cd5e88e600",
+    "vi": "26cbf7cdd8029f7c",
+    "th": "5bf77f7f5e860fed",
+    "id": "45c0d0818510fe66",
+    "ar": "c2c4f7ad4049b7e8",
+    "zh": "03eb35b30ecf13eb"
+   }
+  },
+  {
+   "article_id": "AB-260904-G02",
+   "EN": "2332429a937d00e2",
+   "locales": {
+    "fr": "0912181d00ae94be",
+    "de": "44f7cd0fba2baaec",
+    "es": "5d7eb77fcd921c94",
+    "pt": "97921354d308fa8d",
+    "ja": "075367389d4591f3",
+    "ko": "06601454e03cec2e",
+    "vi": "86861b4d81ee1bb0",
+    "th": "586e67e4b5e505f8",
+    "id": "e0e3a8b23b74a9b6",
+    "ar": "b3af8b9bf818da88",
+    "zh": "160ede9abf8b180f"
+   }
+  },
+  {
+   "article_id": "AB-260904-G03",
+   "EN": "b0abc2676e44f15c",
+   "locales": {
+    "fr": "3845ce90e69e42a5",
+    "de": "edb075b920b501e0",
+    "es": "7cdea897a203527d",
+    "pt": "5b185040bcc4332e",
+    "ja": "06be8c40f840cf4d",
+    "ko": "5bc5ab9dfdc09b70",
+    "vi": "bf395dc4a4bf3c5e",
+    "th": "a1af5afa0f1c7e88",
+    "id": "89adab159e9bc34a",
+    "ar": "8ddbdae5a29f90bf",
+    "zh": "261ea271d877008d"
+   }
+  },
+  {
+   "article_id": "AB-260904-G04",
+   "EN": "207dacd385fd1ad1",
+   "locales": {
+    "fr": "d45b5698cec4dd5e",
+    "de": "d14e38ab4fba7d56",
+    "es": "ba9ad9e431d8839f",
+    "pt": "6b1d668b372022ed",
+    "ja": "6d8a2023f46e4a9f",
+    "ko": "80ec77466795370e",
+    "vi": "e558987a5bab5542",
+    "th": "b2d0d573095955ae",
+    "id": "12e5fdaa6ed39348",
+    "ar": "4177a0452e2d81ab",
+    "zh": "b81d8ce4fa8a8817"
+   }
+  },
+  {
+   "article_id": "AB-260904-G05",
+   "EN": "7fc924bdbba78f6b",
+   "locales": {
+    "fr": "6fdd134765270f33",
+    "de": "004f20062528795c",
+    "es": "dbd4e64b028e6af1",
+    "pt": "5d9aaa92b53cadcc",
+    "ja": "b2d8c4ed326086d0",
+    "ko": "93144bb86ea42c31",
+    "vi": "3b1681a43dfda999",
+    "th": "955605e9ee827923",
+    "id": "a76da911b6376256",
+    "ar": "018cbc6e8dfa1cc6",
+    "zh": "dd36c0edc84a4690"
+   }
+  },
+  {
+   "article_id": "AB-260904-G06",
+   "EN": "9e40e9ec09d52873",
+   "locales": {
+    "fr": "fadb258117ad190d",
+    "de": "1364b320bc6b1a07",
+    "es": "e98b6e665a2b6600",
+    "pt": "81b33caf3ae4bb3b",
+    "ja": "94dedfeebd69a7dc",
+    "ko": "2c652c1529abaadc",
+    "vi": "2fd6f6fb9f7af6ce",
+    "th": "1b0c3a7d4f592ce7",
+    "id": "e07f28f160b0d9c4",
+    "ar": "6ce8d67b94f6cfa9",
+    "zh": "af1e231cccad1e02"
+   }
+  },
+  {
+   "article_id": "AB-260904-G07",
+   "EN": "2eac061aeda12ba9",
+   "locales": {
+    "fr": "0a81e6bea9dc810b",
+    "de": "2254f629afc0a91d",
+    "es": "69f5463b70c0d9ec",
+    "pt": "ff95e4f04184d9c9",
+    "ja": "681f265eb02790dc",
+    "ko": "57ec709eb739438d",
+    "vi": "9da7e1766b95e714",
+    "th": "668416dbc255477a",
+    "id": "73f58dff661c233b",
+    "ar": "5629cd9d7b27cfb6",
+    "zh": "c30918005900d4d0"
+   }
+  },
+  {
+   "article_id": "AB-260904-G08",
+   "EN": "88ccf5b372ea27ec",
+   "locales": {
+    "fr": "e02d6cd847f9803f",
+    "de": "96fa3717bb1828f6",
+    "es": "cbde2c79a267841f",
+    "pt": "b1adaa651482cfd3",
+    "ja": "ffe43ae123ed6058",
+    "ko": "3521c115afb46cfb",
+    "vi": "6423830661a63a2c",
+    "th": "3087c70fe9a58d71",
+    "id": "6d4ff232ef5640b0",
+    "ar": "d3f729e957d387aa",
+    "zh": "3e20a227324a5045"
+   }
+  },
+  {
+   "article_id": "AB-260904-G09",
+   "EN": "8b427840dc695b4f",
+   "locales": {
+    "fr": "fb1c7a66d05255e2",
+    "de": "411826b3faa5d328",
+    "es": "7feafd561de31913",
+    "pt": "e5c8a67ffa1425c2",
+    "ja": "6b57a60a42753e77",
+    "ko": "93c1f4027a65fe09",
+    "vi": "a06c3173e045efc7",
+    "th": "ff52f4af47c6dff6",
+    "id": "231ca65e598d2e32",
+    "ar": "f3906923afba27dd",
+    "zh": "5394a6ca68885a98"
+   }
+  },
+  {
+   "article_id": "AB-260904-G10",
+   "EN": "698277e7a2a3db33",
+   "locales": {
+    "fr": "d5fa0b01a04aa5ac",
+    "de": "14638747c735db01",
+    "es": "f35de01683770dcc",
+    "pt": "2701c5daab9957da",
+    "ja": "db377b7b27843242",
+    "ko": "0c970b0676d41c6b",
+    "vi": "3a1f5303d3791055",
+    "th": "07b4a8c10325cb5b",
+    "id": "9f302cc272527e61",
+    "ar": "c2565bb5cd63e38b",
+    "zh": "f3e0512705b17af1"
+   }
+  },
+  {
+   "article_id": "AB-260904-V01",
+   "EN": "25a5bc6f5e5e9030",
+   "locales": {
+    "fr": "31c32e81d5cfc5c2",
+    "de": "8172d2340d27338f",
+    "es": "75813cb0b7829878",
+    "pt": "ff3ba85417cd92b5",
+    "ja": "d3d06cc146ee1ad6",
+    "ko": "2940739b407e414a",
+    "vi": "51fb2b21f51e85ba",
+    "th": "e31996870be2a186",
+    "id": "e12ce1ec3ce56e24",
+    "ar": "9ac45341967200af",
+    "zh": "49a7a6133fe58d7d"
+   }
+  },
+  {
+   "article_id": "AB-260904-V02",
+   "EN": "05eee55ea9a10c7e",
+   "locales": {
+    "fr": "3f6e7c8bf8c8e823",
+    "de": "9edf15c6e78e7ff1",
+    "es": "0a35873cec49638c",
+    "pt": "5df9e5bec49aaf7c",
+    "ja": "ddd6c6bfc3383d7a",
+    "ko": "c208ea772706f0fe",
+    "vi": "571cc14c320b18e6",
+    "th": "c9f2df1a8266edb2",
+    "id": "e1d603dcbae11f39",
+    "ar": "efa7be04d195d338",
+    "zh": "7b975f20527cf15a"
+   }
+  },
+  {
+   "article_id": "AB-260904-V03",
+   "EN": "b9fd78fc24105459",
+   "locales": {
+    "fr": "63d331b7c94a527e",
+    "de": "78627dff8df66b62",
+    "es": "f8e63f9265093248",
+    "pt": "6d560babbf47d946",
+    "ja": "dae03d2a2e22f6df",
+    "ko": "bd30db5e246976e5",
+    "vi": "91715971001e83d7",
+    "th": "21c4f5400a9c5031",
+    "id": "b96f0141a22f5ea6",
+    "ar": "29ef370768456a9a",
+    "zh": "76615f7da43ee4a5"
+   }
+  },
+  {
+   "article_id": "AB-260904-V04",
+   "EN": "aea8548a5409bf51",
+   "locales": {
+    "fr": "58d39dbf6663b74b",
+    "de": "49b9640b6e9a910a",
+    "es": "7e74dce1b2f22e46",
+    "pt": "12033711884acf41",
+    "ja": "282e7447364e81f4",
+    "ko": "1b399afdb1706967",
+    "vi": "a7e83e623ba84f8c",
+    "th": "6cd61e5d3bfdd492",
+    "id": "6ee59833e15cf419",
+    "ar": "f9c895262dbbe528",
+    "zh": "572a2feb60d3f9f3"
+   }
+  },
+  {
+   "article_id": "AB-260904-V05",
+   "EN": "44d9ae88c707fa51",
+   "locales": {
+    "fr": "9384e04ebb6d5554",
+    "de": "8c9e2d83de367b0f",
+    "es": "81d67bb097774846",
+    "pt": "9fbfd643a17a3cb1",
+    "ja": "2ad3e449ca6c4b94",
+    "ko": "8f587f3f23cf8592",
+    "vi": "857614fa4dfab56d",
+    "th": "d88e5fc5dc45f481",
+    "id": "5ed7096b2839484b",
+    "ar": "ef81b38b257bd4f8",
+    "zh": "82356102a2422843"
+   }
+  },
+  {
+   "article_id": "AB-260904-V06",
+   "EN": "97fa3da61f5b7f6a",
+   "locales": {
+    "fr": "e7c6ba0a07a93170",
+    "de": "8799cbd2ac09b0dd",
+    "es": "d118950971f3da39",
+    "pt": "9ad91d1fb7b89ab4",
+    "ja": "3a312ef59ab10615",
+    "ko": "93c90d8b869f56f5",
+    "vi": "7f2c2ac08587a12c",
+    "th": "7cee972734e44cd2",
+    "id": "898c1331ca3f428e",
+    "ar": "a0b6393e42b5b47d",
+    "zh": "9210520396ecaa5e"
+   }
+  },
+  {
+   "article_id": "AB-260904-V07",
+   "EN": "115ba7c4f0f855be",
+   "locales": {
+    "fr": "e29d2930b58b1b35",
+    "de": "889df5be4b36f68e",
+    "es": "596a6e241f3f21e7",
+    "pt": "5d403ba7b279650b",
+    "ja": "231e2b8dd0386465",
+    "ko": "8314f25b8382a508",
+    "vi": "afa8efea1536e716",
+    "th": "864dacafa083cd88",
+    "id": "c8e2eec18d40116a",
+    "ar": "efb92d19bb5bb36f",
+    "zh": "9d8c1f86851d4ea3"
+   }
+  },
+  {
+   "article_id": "AB-260904-V08",
+   "EN": "9f87e69f0ae6f877",
+   "locales": {
+    "fr": "cc833ae8498ba1a7",
+    "de": "e96fcb265d37e46c",
+    "es": "af9e15ded4a0af8e",
+    "pt": "8f22b17b0657b4da",
+    "ja": "ea34d834c4a95e7c",
+    "ko": "11579d2a625959e6",
+    "vi": "24d5472fa0b53c25",
+    "th": "9d68572bf2b0192d",
+    "id": "5ebe4f6018a0594f",
+    "ar": "059b8e2a944843f6",
+    "zh": "b336804a1101ac7b"
+   }
+  },
+  {
+   "article_id": "AB-260904-V09",
+   "EN": "79d4778a6df462d9",
+   "locales": {
+    "fr": "1e04beadfbbb768d",
+    "de": "548e558b98fc1850",
+    "es": "ec3bbb40ee672869",
+    "pt": "c16f4571287eacb6",
+    "ja": "5e8a85f42b7f1f7c",
+    "ko": "252764c96c01dd41",
+    "vi": "a32de8d525908e5f",
+    "th": "677ee84b6c2aeafb",
+    "id": "dd77f09412dcc83f",
+    "ar": "7b8391180dd158df",
+    "zh": "c22a8ac4e474ff50"
+   }
+  },
+  {
+   "article_id": "AB-260904-V10",
+   "EN": "3e22c7fbde7542fa",
+   "locales": {
+    "fr": "af7c09bcc408e507",
+    "de": "1fda8e277eabc0c9",
+    "es": "9912140f208406e3",
+    "pt": "b7493f4341e6da4c",
+    "ja": "73de4b634f5553d7",
+    "ko": "cde01c0824fde48b",
+    "vi": "3acc2ed3bd5b989f",
+    "th": "8b15d77a49c01e9d",
+    "id": "7710d1e34722d19f",
+    "ar": "da3b3e028f5b4357",
+    "zh": "032e526075cdaf4b"
+   }
+  },
+  {
+   "article_id": "AB-260905-G01",
+   "EN": "e2defd4677085678",
+   "locales": {
+    "fr": "b7062379fcfceea7",
+    "de": "0c8d77e3339d3871",
+    "es": "35d73b54e71336e8",
+    "pt": "82611ccafcecf3fa",
+    "ja": "a6c40510ca7d2986",
+    "ko": "79cb715a6e22661f",
+    "vi": "221550fe39a44064",
+    "th": "5d94c3ea708d8a07",
+    "id": "a9b90ffc0f10fdbf",
+    "ar": "67adb717a493ec67",
+    "zh": "964c5405238253b8"
+   }
+  },
+  {
+   "article_id": "AB-260905-G02",
+   "EN": "c6c679d17aa0ba93",
+   "locales": {
+    "fr": "1c3d6b25f1473a4e",
+    "de": "659773083e6dce10",
+    "es": "1739f062617be6ef",
+    "pt": "c7ee86a79c74f5ec",
+    "ja": "dc58fb355fd2e24a",
+    "ko": "bcc58d7925326d26",
+    "vi": "467f79ad19e4dea1",
+    "th": "24ceace547b6a228",
+    "id": "c792d6f102f9176a",
+    "ar": "329eb620b1519313",
+    "zh": "4c9f1ea163185b5f"
+   }
+  },
+  {
+   "article_id": "AB-260905-G03",
+   "EN": "dbaf7ad6d025d367",
+   "locales": {
+    "fr": "8b04a5927ee18f6f",
+    "de": "cf207c4e823cef99",
+    "es": "e7253e7e5f53503a",
+    "pt": "627b098bc221662e",
+    "ja": "04c2c8a662f9168f",
+    "ko": "aaef848889238c67",
+    "vi": "eca7b38018df56f8",
+    "th": "8026ad5db1f6253b",
+    "id": "2c271cd254ce3f44",
+    "ar": "516ec4112fd15db5",
+    "zh": "6f094654bfa64dae"
+   }
+  },
+  {
+   "article_id": "AB-260905-G04",
+   "EN": "693b42a06b111c5b",
+   "locales": {
+    "fr": "0be9af5b3ae57765",
+    "de": "6f6d887b5ca35df9",
+    "es": "6202b0ddf5240a04",
+    "pt": "21abd24a156ac1db",
+    "ja": "6e8b74586852e1ef",
+    "ko": "2f776f863c8d3349",
+    "vi": "9288c1ec3614bd4f",
+    "th": "85883d8418bfbdf4",
+    "id": "75f1b098568dd36a",
+    "ar": "86afe6297ded90fd",
+    "zh": "23f109ea1ed23d51"
+   }
+  },
+  {
+   "article_id": "AB-260905-G05",
+   "EN": "8a81445e9b6296f4",
+   "locales": {
+    "fr": "f4dedf747b8b32ff",
+    "de": "3f3c41f7e4f53573",
+    "es": "d38b697312e67790",
+    "pt": "e6c7ec6228dc62b5",
+    "ja": "787f1544bfe61fe4",
+    "ko": "e079188c97db90c4",
+    "vi": "184b223b96c38c4a",
+    "th": "48e7c91118577ac1",
+    "id": "253f7520a6493347",
+    "ar": "abd77b85006c67e9",
+    "zh": "04e34b775913c897"
+   }
+  },
+  {
+   "article_id": "AB-260905-G06",
+   "EN": "0f244538ee8bbd0c",
+   "locales": {
+    "fr": "a74d6b68f777dcc6",
+    "de": "2b1f48fac5d7a95e",
+    "es": "490cd8f80666a9fb",
+    "pt": "0c96dd01f07221a8",
+    "ja": "ba0101a7c52d0dea",
+    "ko": "2861a1cda0128af8",
+    "vi": "325d7126958220a5",
+    "th": "b318bd6340db8328",
+    "id": "bb1dce2905b34c98",
+    "ar": "a335153ff7efb871",
+    "zh": "d65cd14667f0295b"
+   }
+  },
+  {
+   "article_id": "AB-260905-G07",
+   "EN": "68c684eca8dfdc9c",
+   "locales": {
+    "fr": "db52d2f7ba47e07e",
+    "de": "753a7dc332ca6b35",
+    "es": "c11814f56ce3bf37",
+    "pt": "56e1341818519747",
+    "ja": "e799b9631d1baede",
+    "ko": "4d6f766c39b5507d",
+    "vi": "e01a79d51d7c3f2f",
+    "th": "78207c970b214fdc",
+    "id": "a1216834d7df4ce0",
+    "ar": "7dfb4bdceb88d8ac",
+    "zh": "9606f193b71f1145"
+   }
+  },
+  {
+   "article_id": "AB-260905-G08",
+   "EN": "bb9c4164272aa120",
+   "locales": {
+    "fr": "1de3fcac98dd704d",
+    "de": "5b9976f77084f957",
+    "es": "e9585ada507b1425",
+    "pt": "c5d20988a2f14c6a",
+    "ja": "08c416fcc8890fcc",
+    "ko": "3d4875935b6e277b",
+    "vi": "b13fd10172ccc932",
+    "th": "c7fba1a463c7cdea",
+    "id": "08eb2b75cfaebdc8",
+    "ar": "06a53432550cb943",
+    "zh": "f4cf37631e404b8e"
+   }
+  },
+  {
+   "article_id": "AB-260905-G09",
+   "EN": "e620f2c7830feee5",
+   "locales": {
+    "fr": "519b6992386fe765",
+    "de": "f47c374562217a0e",
+    "es": "c8d677b738c6e67a",
+    "pt": "3ed7438fddcee8a2",
+    "ja": "f8d473d7d962b275",
+    "ko": "443eaf3713547e46",
+    "vi": "cc72cd40224c6892",
+    "th": "ef10b04cda677986",
+    "id": "19eaf2a3c698a1b0",
+    "ar": "d923e0747b00ea7a",
+    "zh": "afb6601e93db434f"
+   }
+  },
+  {
+   "article_id": "AB-260905-G10",
+   "EN": "cfb3fe42a7569d48",
+   "locales": {
+    "fr": "63ff9ed9efe2e2e3",
+    "de": "1387dce07553acf0",
+    "es": "a1a9dfb72e719796",
+    "pt": "5ae94cf7a5f825bc",
+    "ja": "79fede4203a65063",
+    "ko": "fb4401b8fde18134",
+    "vi": "d5371a7a65d0c05f",
+    "th": "0cf16126ef97dad5",
+    "id": "d6a352d70b3c03d1",
+    "ar": "15747422bb23db29",
+    "zh": "9425cdcf4ab4c603"
+   }
+  },
+  {
+   "article_id": "AB-260905-V01",
+   "EN": "8201b32501ed1976",
+   "locales": {
+    "fr": "d724986e75ce78a4",
+    "de": "ba95a8600c45ce74",
+    "es": "3f7abe8a20f622cf",
+    "pt": "9be211cf14ddb4d0",
+    "ja": "dc01021e286b69e7",
+    "ko": "6b6575756a1ff6df",
+    "vi": "e14eebd6d33506e5",
+    "th": "8a609e3a79df0e40",
+    "id": "e9a286c14898c853",
+    "ar": "d9b4d2ab8f327e9d",
+    "zh": "76bfeb1494d0a7e2"
+   }
+  },
+  {
+   "article_id": "AB-260905-V02",
+   "EN": "52278f6ce3759175",
+   "locales": {
+    "fr": "8f0201d29ec96919",
+    "de": "6608019f01162857",
+    "es": "9f0aefbf0c1d2d2e",
+    "pt": "21518624314793d6",
+    "ja": "06acc4f84ad06747",
+    "ko": "27173bc35215892c",
+    "vi": "40188b8028fa64f4",
+    "th": "45d18a67760730df",
+    "id": "eca655e9bd28b7a4",
+    "ar": "ebaf940e254d09fb",
+    "zh": "2dfaca3f466c8aa8"
+   }
+  },
+  {
+   "article_id": "AB-260905-V03",
+   "EN": "d170032ac614ced6",
+   "locales": {
+    "fr": "5ecb0002b7cb6a6c",
+    "de": "f2e68e1a04685551",
+    "es": "683936e065dcc029",
+    "pt": "944e82b6648ada52",
+    "ja": "4f4e8827c07882f5",
+    "ko": "dc53a4bd34ac9ca4",
+    "vi": "4ace2734a8954bd5",
+    "th": "f0da9e33b8e33129",
+    "id": "3c551129f68e00a7",
+    "ar": "35d4dbdf5ffc3f0d",
+    "zh": "0ab96e632f18b479"
+   }
+  },
+  {
+   "article_id": "AB-260905-V04",
+   "EN": "1674aabfe88dedcb",
+   "locales": {
+    "fr": "c933fca546fcac60",
+    "de": "1e5165b13fd6358e",
+    "es": "4c98b65cdf286c80",
+    "pt": "49bb80bce0c074ad",
+    "ja": "9b0762a14655780a",
+    "ko": "883b416effcaaaa4",
+    "vi": "36d20ba9a938134b",
+    "th": "571b226e6baf4c6e",
+    "id": "8c5e65feb19341ae",
+    "ar": "c960229c2dabfcd4",
+    "zh": "975979400c0ea2fd"
+   }
+  },
+  {
+   "article_id": "AB-260905-V05",
+   "EN": "1197b623fd88fcbe",
+   "locales": {
+    "fr": "07cdb9a21a89b0d4",
+    "de": "8caa7ba6da6a6875",
+    "es": "543ab5a2671618ad",
+    "pt": "fbb62160c078f3b8",
+    "ja": "773ac2e315c5f00e",
+    "ko": "650a9a4c0564e6bc",
+    "vi": "c22577de7ec34431",
+    "th": "9df78e5f5c0e17f1",
+    "id": "8f0e0b5928cd6ceb",
+    "ar": "d7fcebffe6f771f6",
+    "zh": "bf1f7103bb619d11"
+   }
+  },
+  {
+   "article_id": "AB-260905-V06",
+   "EN": "3827b8c9bf0d95fa",
+   "locales": {
+    "fr": "4aca233d02f89ff3",
+    "de": "5c09a7aff8e31148",
+    "es": "5b462e0d8a5c2838",
+    "pt": "82459cb8cc962de3",
+    "ja": "1724f16ad321e11d",
+    "ko": "a543fe7b6936aa26",
+    "vi": "f4aae7b20406b61b",
+    "th": "cd4675dfa106b611",
+    "id": "dbae5e8382e2f412",
+    "ar": "8831d6c9fd5a6ce8",
+    "zh": "3e86be98103fd995"
+   }
+  },
+  {
+   "article_id": "AB-260905-V07",
+   "EN": "22ab0269eeaddd39",
+   "locales": {
+    "fr": "55267a4f15d2a3b8",
+    "de": "cbc3de126574278e",
+    "es": "17974dc6518fe2ff",
+    "pt": "fe1bbb99c29e4348",
+    "ja": "5b42f262e8b6f666",
+    "ko": "49009bb3fc87704e",
+    "vi": "a1170bef29a24db9",
+    "th": "830c4b1a4a95330b",
+    "id": "e999a26e96195a2f",
+    "ar": "fbb1ebd48b6aec21",
+    "zh": "5e845c6a65002667"
+   }
+  },
+  {
+   "article_id": "AB-260905-V08",
+   "EN": "d8c79bc1543f84f5",
+   "locales": {
+    "fr": "9a74bb471f751700",
+    "de": "21b73a59d7dadcdb",
+    "es": "666eb7bc27f4efc3",
+    "pt": "7bc2f62aa0a7e212",
+    "ja": "3bee909f353c1717",
+    "ko": "a202745e6dffc004",
+    "vi": "0f3727ef3ab31539",
+    "th": "bf0507dd13712f81",
+    "id": "85a70195eec415a3",
+    "ar": "d4bf80335dd10f87",
+    "zh": "5d6f5163273d0af3"
+   }
+  },
+  {
+   "article_id": "AB-260905-V09",
+   "EN": "99ad32e96d9ac6ed",
+   "locales": {
+    "fr": "97234fd402aff979",
+    "de": "1ec3a1238bef82ea",
+    "es": "7e6f5efafa0a012f",
+    "pt": "4694f884931c57a7",
+    "ja": "292b0aed152e6893",
+    "ko": "0bb9beb4f7be381b",
+    "vi": "9c6f029dd36e13b2",
+    "th": "db899d876d162a03",
+    "id": "f705cbd085e9ed86",
+    "ar": "5ef1c75ea701e9b8",
+    "zh": "f4ea9e56b0f54900"
+   }
+  },
+  {
+   "article_id": "AB-260905-V10",
+   "EN": "4965c3d633d1a07e",
+   "locales": {
+    "fr": "48936caa4b1f17a4",
+    "de": "bf79190711c458b7",
+    "es": "a693ed632b995632",
+    "pt": "6a94baad19ff79b4",
+    "ja": "a1678ef9b8962a3c",
+    "ko": "bc74e0bf91a0bd59",
+    "vi": "0a887b4c6299b1c2",
+    "th": "7976781316ba24f4",
+    "id": "75e9eead8c261b50",
+    "ar": "0593039eac313d09",
+    "zh": "9d70b316a6c2deb8"
+   }
+  },
+  {
+   "article_id": "AB-260906-G01",
+   "EN": "6c3d30bff4479710",
+   "locales": {
+    "fr": "dac1ed99858f6373",
+    "de": "566b81b43cda4185",
+    "es": "5d2dfcdb41980527",
+    "pt": "5478721d87bc72d2",
+    "ja": "4db65bf0ef1afbbd",
+    "ko": "6d6f882781b3f593",
+    "vi": "f4c62763003cc794",
+    "th": "1520543cbc96847e",
+    "id": "237bc681aaa78c8e",
+    "ar": "42f047c2380ded92",
+    "zh": "89f788321bcf2211"
+   }
+  },
+  {
+   "article_id": "AB-260906-G02",
+   "EN": "fffed1ab57c9bd63",
+   "locales": {
+    "fr": "a72c5f2942e5e795",
+    "de": "574aa1d8d3ca90d0",
+    "es": "4441b8c68e4b2cc0",
+    "pt": "93157d49224c3aff",
+    "ja": "a480041a004976ef",
+    "ko": "b3d33d668a96977c",
+    "vi": "a4b94478f4b10e72",
+    "th": "c980baafc024c8a4",
+    "id": "197825ebecb70116",
+    "ar": "ecce1cdc423358cc",
+    "zh": "6c286a81dc7d496a"
+   }
+  },
+  {
+   "article_id": "AB-260906-G03",
+   "EN": "92e8bf324a99fe10",
+   "locales": {
+    "fr": "97637d02ff0e1812",
+    "de": "984e8f09a35b7f18",
+    "es": "d5fde60efce8440f",
+    "pt": "90d8bdbdb1fa657f",
+    "ja": "9922a907d108c2e0",
+    "ko": "aa780a8f1180f195",
+    "vi": "e1ef477b1a966ebd",
+    "th": "e3a936589f2b0900",
+    "id": "03abfe509378138d",
+    "ar": "0e0ca7e716988924",
+    "zh": "4c78909d3728da87"
+   }
+  },
+  {
+   "article_id": "AB-260906-G04",
+   "EN": "79d43b55681779c4",
+   "locales": {
+    "fr": "b92e4b8b9a542c76",
+    "de": "2a4dcb29c5898780",
+    "es": "599f0694368abb93",
+    "pt": "9dfe96f8c8a34613",
+    "ja": "227de50c1e251f87",
+    "ko": "8f614f2463f766d8",
+    "vi": "6fa4a8c9d05e0f3e",
+    "th": "bda0e24b30ab8655",
+    "id": "b45ad067c0f18579",
+    "ar": "646ebd087f0e81ba",
+    "zh": "c004a80e9acd125c"
+   }
+  },
+  {
+   "article_id": "AB-260906-G05",
+   "EN": "440757903f1510c0",
+   "locales": {
+    "fr": "4179626aed2b97f4",
+    "de": "b8cd1986c8070664",
+    "es": "3b8ad5ce7f93fd87",
+    "pt": "bce057406a66b0ce",
+    "ja": "f41ff79150ee921d",
+    "ko": "55e6a308798a5acc",
+    "vi": "d44b4babd8ef5ac4",
+    "th": "4e2558a3106eb8a0",
+    "id": "c4cd387018f24ed4",
+    "ar": "79f08795657103f0",
+    "zh": "cf5aacc6d70bfa46"
+   }
+  },
+  {
+   "article_id": "AB-260906-G06",
+   "EN": "a4c5d89d14059ee2",
+   "locales": {
+    "fr": "688b54e925b826fb",
+    "de": "84e8973efeb25cd1",
+    "es": "5fe78dba78ecfe62",
+    "pt": "03624fdd17514bcd",
+    "ja": "ce02103d6177e176",
+    "ko": "8c9931fe3c867278",
+    "vi": "10fd5a8797367a3a",
+    "th": "7569bc5d2d1f2187",
+    "id": "76faec93688181af",
+    "ar": "a359a1cd68f16627",
+    "zh": "fc26e0ae59e5ff5c"
+   }
+  },
+  {
+   "article_id": "AB-260906-G07",
+   "EN": "f24662959133173e",
+   "locales": {
+    "fr": "6c3d98bd397d5f8f",
+    "de": "c7a8f9abf715c35f",
+    "es": "f6a9a6df1254f9cd",
+    "pt": "c05934738ce12fa9",
+    "ja": "5c2667fc2a09070d",
+    "ko": "b055dd7396b78197",
+    "vi": "42090fbf883bc8ce",
+    "th": "3057997c4b339bc0",
+    "id": "d2035f9bac67540b",
+    "ar": "a1bafd750c50aa7c",
+    "zh": "9dec23d9e56bbbf2"
+   }
+  },
+  {
+   "article_id": "AB-260906-G08",
+   "EN": "9bffc0e072d7a645",
+   "locales": {
+    "fr": "7dd07ecf70c716fc",
+    "de": "e2c7df4e29fb9c39",
+    "es": "3c7359bfe525266e",
+    "pt": "b36f1c6be197e75c",
+    "ja": "54f793d99d503145",
+    "ko": "59040e57bd0eb733",
+    "vi": "f735422129891d8c",
+    "th": "b56842bffdf8e5db",
+    "id": "e3735583cd0ea143",
+    "ar": "1c5ba02dc452d958",
+    "zh": "074cdae9edae53fc"
+   }
+  },
+  {
+   "article_id": "AB-260906-G09",
+   "EN": "83778d73e3b66344",
+   "locales": {
+    "fr": "fc40c214e917ed15",
+    "de": "62d3e3b79060fcc8",
+    "es": "22e979f4518468e9",
+    "pt": "78b7b7756eb76d55",
+    "ja": "3b5ac893e9d9e650",
+    "ko": "22f6116d6c24ee3f",
+    "vi": "f7f69d1580a3b8e5",
+    "th": "8b2161bcea4ed7cc",
+    "id": "f1d9be8e347ba967",
+    "ar": "a04560c58999b6c2",
+    "zh": "f409b7d68c427b04"
+   }
+  },
+  {
+   "article_id": "AB-260906-G10",
+   "EN": "4e79af0e329c7ab2",
+   "locales": {
+    "fr": "2c9d48e49d740556",
+    "de": "da775cc1bcf1057e",
+    "es": "61cb7406bd355808",
+    "pt": "22ffb0fa84771144",
+    "ja": "95c1080621772fee",
+    "ko": "261ca27a35b95fce",
+    "vi": "1561357f38edebff",
+    "th": "faa4fd94d1c5f898",
+    "id": "d6c15f664d6b495a",
+    "ar": "381820f394a558fd",
+    "zh": "df541866b335ce73"
+   }
+  },
+  {
+   "article_id": "AB-260906-V01",
+   "EN": "3acd20b2acf43487",
+   "locales": {
+    "fr": "9efddbed1a753c70",
+    "de": "60702c4758652837",
+    "es": "73c09b3d5cc11ae9",
+    "pt": "a5b5ac24f8291850",
+    "ja": "c119d4aad533d4fb",
+    "ko": "ae02a4eb7edb94ce",
+    "vi": "d7e213a2288f62a7",
+    "th": "737891043ffa8729",
+    "id": "f4a54c8f5b1873b7",
+    "ar": "3d26bccfe67ba4ca",
+    "zh": "ecd4ac35f7590e16"
+   }
+  },
+  {
+   "article_id": "AB-260906-V02",
+   "EN": "f102e411312a8847",
+   "locales": {
+    "fr": "72986ccb84d17807",
+    "de": "cfb904677d1a29cb",
+    "es": "a045831a5bea2381",
+    "pt": "55d72b8a5eb28148",
+    "ja": "b03ef890f8661cbc",
+    "ko": "c339066b1bbafcb4",
+    "vi": "39b5ea2a4123252b",
+    "th": "99faf3cf6c078426",
+    "id": "570bb979c4d7d78b",
+    "ar": "0a9e92c219c72579",
+    "zh": "1d52026bf91a487e"
+   }
+  },
+  {
+   "article_id": "AB-260906-V03",
+   "EN": "87936c8f644a121f",
+   "locales": {
+    "fr": "1e1160282d4d832b",
+    "de": "88dc618441801417",
+    "es": "409580373bef6a86",
+    "pt": "64ddd20cabe67929",
+    "ja": "96eb5c7b06235a9a",
+    "ko": "fc52efce2a84719c",
+    "vi": "f85916e624ee26df",
+    "th": "c9e53ba397e72abe",
+    "id": "845b2b0b6d1872f4",
+    "ar": "35d83fa89d4c1097",
+    "zh": "3ac1ba9b52666ae1"
+   }
+  },
+  {
+   "article_id": "AB-260906-V04",
+   "EN": "965683c5650af6a9",
+   "locales": {
+    "fr": "f420f76bb93f2ac6",
+    "de": "fdb3b113c2a52bf4",
+    "es": "1b13bc35fe642ea3",
+    "pt": "fdbe95895f3728bb",
+    "ja": "f8bd0fdf47e481d8",
+    "ko": "1ea7db9a1012909c",
+    "vi": "231a20bccd79ea3a",
+    "th": "7a16f7a8b67e8fb4",
+    "id": "36c540c6997c7491",
+    "ar": "832905c6f58d208d",
+    "zh": "b3b1f29ccded3e77"
+   }
+  },
+  {
+   "article_id": "AB-260906-V05",
+   "EN": "d69e4f93e80195f5",
+   "locales": {
+    "fr": "87aecf35ec75df54",
+    "de": "42130b2084ced7a3",
+    "es": "01f3615bdf6563f7",
+    "pt": "4ed1bf7f529c08e6",
+    "ja": "4fc01dfe637d1a7e",
+    "ko": "fc44137bc6c338a9",
+    "vi": "0a9bea5b5850cff6",
+    "th": "a7c9f3afe9b39662",
+    "id": "6c848aff72548741",
+    "ar": "2d3013401d0cd567",
+    "zh": "fe09432f7040931f"
+   }
+  },
+  {
+   "article_id": "AB-260906-V06",
+   "EN": "870dd3d42caa0a55",
+   "locales": {
+    "fr": "e23d9bd212de0ac0",
+    "de": "f2079dbab02fa78e",
+    "es": "21244b95cb0ec257",
+    "pt": "e5caf55d7154d9c7",
+    "ja": "d48538e014e346c7",
+    "ko": "8108a821a38fc729",
+    "vi": "027b16bf5ed1c247",
+    "th": "c6f04379bf2c8ef7",
+    "id": "aa9db5ab48b87dd3",
+    "ar": "94420043de674080",
+    "zh": "44659975a7e127d5"
+   }
+  },
+  {
+   "article_id": "AB-260906-V07",
+   "EN": "886cf4aec9d3849d",
+   "locales": {
+    "fr": "87c1cb26099971ad",
+    "de": "4b2312b9572a723c",
+    "es": "84c5a9b7d0e99e54",
+    "pt": "9d5ac3b4ece21620",
+    "ja": "14df9d37d1deca1b",
+    "ko": "33880c82ab68a13a",
+    "vi": "6787fbf750329461",
+    "th": "3ef2ae681b91a72e",
+    "id": "b9c5554dc51807f9",
+    "ar": "4205f5854d7a4ff2",
+    "zh": "b9ccb4ee6c689a9e"
+   }
+  },
+  {
+   "article_id": "AB-260906-V08",
+   "EN": "9e9407dc4051ed85",
+   "locales": {
+    "fr": "40ffb7b567798afd",
+    "de": "887db07c7c086607",
+    "es": "3426ba77cc4de0f1",
+    "pt": "1ac2196e8b25d650",
+    "ja": "9ff155b8f68f7810",
+    "ko": "517a04d3bc95fc1c",
+    "vi": "f191553d79af545a",
+    "th": "578a577a79a0bc31",
+    "id": "48fb1c4e57a7f344",
+    "ar": "88019cbb9624b785",
+    "zh": "14f3fb4bf219c582"
+   }
+  },
+  {
+   "article_id": "AB-260906-V09",
+   "EN": "395e46eb87abe0a4",
+   "locales": {
+    "fr": "e76eb0d30495f4f0",
+    "de": "3a8cfa28f2b6d827",
+    "es": "64fed8c57c69e018",
+    "pt": "3a58e343389e3760",
+    "ja": "519f30485c607f05",
+    "ko": "8653908dc1cda2d3",
+    "vi": "c511a18a59bc18a4",
+    "th": "6aa951232b9b25fa",
+    "id": "565b48ccca4444b8",
+    "ar": "db2159df178965fb",
+    "zh": "6fbb355da18651f6"
+   }
+  },
+  {
+   "article_id": "AB-260906-V10",
+   "EN": "5084a523067f7e4e",
+   "locales": {
+    "fr": "1b97923adedb21ee",
+    "de": "aacfa22f2160c8d0",
+    "es": "58bfd0699eb0afd2",
+    "pt": "1f9865ef96143d10",
+    "ja": "6e1611a70ea7e726",
+    "ko": "28ab25aef8865364",
+    "vi": "96778d93da2a5a9e",
+    "th": "261bada7305fa617",
+    "id": "666482ca9d7100ec",
+    "ar": "3c7b7f6ef423ae57",
+    "zh": "13511b115aae7f10"
+   }
+  },
+  {
+   "article_id": "AB-260907-G01",
+   "EN": "331206368b35933d",
+   "locales": {
+    "fr": "a8e062207a6c8ac8",
+    "de": "e1a7e2ff5d2360cf",
+    "es": "e56fb519b90bcc34",
+    "pt": "a8f58edd2cda8c8f",
+    "ja": "a99ef73ef4fa5d10",
+    "ko": "f8357f8a1f4dad3c",
+    "vi": "f4f645817c3a2166",
+    "th": "841f4faa7d362776",
+    "id": "25ab8de9c0b2074f",
+    "ar": "75a0a8109b328a2f",
+    "zh": "315491b77e0e2d6f"
+   }
+  },
+  {
+   "article_id": "AB-260907-G02",
+   "EN": "9e9606cd7c1ec39d",
+   "locales": {
+    "fr": "d62c72dde5d06887",
+    "de": "0d509e91948b3e18",
+    "es": "b61a1a0fadb3daf4",
+    "pt": "2a4536da177fa92f",
+    "ja": "621f76ae68a2cd9b",
+    "ko": "92df7f8b7d0e44c2",
+    "vi": "d38193fe67974738",
+    "th": "9917dce09c27896d",
+    "id": "6fbba582f232ff5b",
+    "ar": "329285e2dcad20f4",
+    "zh": "0b5f7616bb5f7fb9"
+   }
+  },
+  {
+   "article_id": "AB-260907-G03",
+   "EN": "f9d1ac31b8092559",
+   "locales": {
+    "fr": "bce48d311c40732f",
+    "de": "2339fc241c87fed3",
+    "es": "98cf71d65ae36a0e",
+    "pt": "e680f331f1954b8b",
+    "ja": "60a6c92b89340004",
+    "ko": "774d4da0310717bb",
+    "vi": "39ecc2b602b37efd",
+    "th": "41fec19188015eae",
+    "id": "a0d1b801cde201f7",
+    "ar": "f0efba026c20cdb3",
+    "zh": "0b6c6ff76e4c7311"
+   }
+  },
+  {
+   "article_id": "AB-260907-G04",
+   "EN": "003b7737abf02a72",
+   "locales": {
+    "fr": "189dcfbbebe64ba0",
+    "de": "6521053e7ee2df05",
+    "es": "b17c88f36aacafa0",
+    "pt": "b99f0810dcc26605",
+    "ja": "f57ffc651f321957",
+    "ko": "11e042239d3bb3cd",
+    "vi": "9f75204949feab07",
+    "th": "f326534db80d80c9",
+    "id": "a73e5e0ceb417b33",
+    "ar": "d5d68f4ac2a93231",
+    "zh": "15777dcd3d744b61"
+   }
+  },
+  {
+   "article_id": "AB-260907-G05",
+   "EN": "869803ebb0b36356",
+   "locales": {
+    "fr": "aa3525388460c03b",
+    "de": "3022970d80f3aa94",
+    "es": "d7b66ee1e1be5955",
+    "pt": "0551379475b7d087",
+    "ja": "1332f74131727804",
+    "ko": "fd6700f34f272db8",
+    "vi": "57b869a44ebf36bc",
+    "th": "e86b01b092f0b7d6",
+    "id": "d4968e7c4ab9491b",
+    "ar": "06592b5ff1065768",
+    "zh": "c2446a4a91b12c29"
+   }
+  },
+  {
+   "article_id": "AB-260907-G06",
+   "EN": "11d94039aa969574",
+   "locales": {
+    "fr": "52fb25adca762c5c",
+    "de": "b83394ab12786de1",
+    "es": "6d500187b76155f2",
+    "pt": "4485a76939a60e1c",
+    "ja": "07e6ce558c757e74",
+    "ko": "b7fc3f180445f6de",
+    "vi": "441e8b68600ce3ce",
+    "th": "d40ef20c46aa7cee",
+    "id": "ef92d8bbdbbf6824",
+    "ar": "f076772c61b36acf",
+    "zh": "3e902c1750a3b776"
+   }
+  },
+  {
+   "article_id": "AB-260907-G07",
+   "EN": "62d471dae2743918",
+   "locales": {
+    "fr": "eceb08b3c443791a",
+    "de": "a9e8976c731cfba0",
+    "es": "e636ed308992e862",
+    "pt": "5e9c06da48286ed0",
+    "ja": "9163662b669e5cef",
+    "ko": "676c6db589ef641b",
+    "vi": "e4f4c752fa0de575",
+    "th": "54341a684cecd2c9",
+    "id": "f251d8f1608d669c",
+    "ar": "98128f4970465f91",
+    "zh": "9afdda7c1c41306e"
+   }
+  },
+  {
+   "article_id": "AB-260907-G08",
+   "EN": "b49b2ef76a079d5a",
+   "locales": {
+    "fr": "313c6f36ab64ef28",
+    "de": "7829b4e04bc1cb5f",
+    "es": "4bd5f514499afcd5",
+    "pt": "3137e10368e0c02f",
+    "ja": "36c99316e57bbcdf",
+    "ko": "0a4931080199c7fa",
+    "vi": "0f9453ed068634ea",
+    "th": "f7d16a25cc3239b5",
+    "id": "003eff2c48cdaa11",
+    "ar": "0d862243579812c7",
+    "zh": "d2d672a2cfd966b5"
+   }
+  },
+  {
+   "article_id": "AB-260907-G09",
+   "EN": "33d2abdf68155755",
+   "locales": {
+    "fr": "fabf136a7d10d692",
+    "de": "57a58ffa9d092660",
+    "es": "2e088599d6d5f92c",
+    "pt": "3bd2b710be3b1842",
+    "ja": "2695fcf0bbd466ea",
+    "ko": "090c528fbd8ca79d",
+    "vi": "58fa5fc64b47dbae",
+    "th": "606e5eb79ca26d25",
+    "id": "a0be4ee2a83ad6cf",
+    "ar": "a5b752a29b1d2a36",
+    "zh": "fafaa7cd512732a1"
+   }
+  },
+  {
+   "article_id": "AB-260907-G10",
+   "EN": "0e33c47f61c18c09",
+   "locales": {
+    "fr": "f0cbb3f181c0f0e0",
+    "de": "f34e410afbb6e8cc",
+    "es": "89638df231071492",
+    "pt": "fbf6422acfe16077",
+    "ja": "8de06f30fdfab938",
+    "ko": "b42a998b24c67d5b",
+    "vi": "01bcaad6f6f00fba",
+    "th": "f8cc25be9074e696",
+    "id": "0539734d1d7c099f",
+    "ar": "a7d847296a68f970",
+    "zh": "288f0a53ef51f506"
+   }
+  },
+  {
+   "article_id": "AB-260907-V01",
+   "EN": "644d7c0cb82e5e45",
+   "locales": {
+    "fr": "056c1744ad800d5e",
+    "de": "e278af9172e1db4a",
+    "es": "4ceaf69b44f2594d",
+    "pt": "387358e9c08a4d8d",
+    "ja": "3123c46828e57218",
+    "ko": "1b5912aeebcf6022",
+    "vi": "83f036bfce855e3a",
+    "th": "a5d1a06feccd20d3",
+    "id": "9031187fd04e021d",
+    "ar": "0068e056a4a8382a",
+    "zh": "fef505415ddde1c5"
+   }
+  },
+  {
+   "article_id": "AB-260907-V02",
+   "EN": "48e84e5890f836de",
+   "locales": {
+    "fr": "bf19c3e58b616fb7",
+    "de": "7fe1d7c7b0966d95",
+    "es": "d3beb3353b985463",
+    "pt": "24822c06b1917692",
+    "ja": "3eee0389d3ffa53a",
+    "ko": "65fcd721e0be9918",
+    "vi": "0b9f53a7e0d32ebd",
+    "th": "82d971b5fccef171",
+    "id": "363caf002fa23955",
+    "ar": "8164e02bb22c83cd",
+    "zh": "226e217e8f892213"
+   }
+  },
+  {
+   "article_id": "AB-260907-V03",
+   "EN": "0ff7d38a86a8d174",
+   "locales": {
+    "fr": "f3cd09f00feeefff",
+    "de": "b3e7219b9ae7ca3b",
+    "es": "86c56fc49fc6e942",
+    "pt": "fcd79c8014567565",
+    "ja": "ffcccb9926c84b8a",
+    "ko": "4ac996dcc2266048",
+    "vi": "27c5cd3d6e4d30fa",
+    "th": "dc41cf5c74f57081",
+    "id": "8ce8a8c3755fa6db",
+    "ar": "6dab9d60f4375688",
+    "zh": "d4eb19ea1f7c7b70"
+   }
+  },
+  {
+   "article_id": "AB-260907-V04",
+   "EN": "13b0d513492fa629",
+   "locales": {
+    "fr": "5318691aa6468f3f",
+    "de": "51582fe974efb489",
+    "es": "d31a9973baaa5d12",
+    "pt": "daa28ce373cb3d4c",
+    "ja": "5c560155bac18f1a",
+    "ko": "baf1fb577305214a",
+    "vi": "3d9d85985e22ca2d",
+    "th": "5a1baa415bcbdeb3",
+    "id": "72754933f94f1a62",
+    "ar": "1aaa0482879f981d",
+    "zh": "93a6ab6bfd61ce45"
+   }
+  },
+  {
+   "article_id": "AB-260907-V05",
+   "EN": "8b5a2a38290e2cf5",
+   "locales": {
+    "fr": "9041521869b09b59",
+    "de": "a74b774e576ebd80",
+    "es": "06f37a75db0e8267",
+    "pt": "bb528aab78fb661e",
+    "ja": "65f023c792b7a8f1",
+    "ko": "08dd3bc3c36310d2",
+    "vi": "b870044ac6862ce0",
+    "th": "4d436b28d6289cc0",
+    "id": "89299f121ba7dd03",
+    "ar": "d4f0d5d7f64e758a",
+    "zh": "1754c7586e2be1a2"
+   }
+  },
+  {
+   "article_id": "AB-260907-V06",
+   "EN": "2042439f0e60dcd7",
+   "locales": {
+    "fr": "ea01fce3410dad58",
+    "de": "378b6978460b38cb",
+    "es": "d37de0525e9d06ef",
+    "pt": "326a0cf2334ea247",
+    "ja": "ba91de3bad58b3ce",
+    "ko": "91cc7b35b8201b30",
+    "vi": "2dd01a470fe08b7d",
+    "th": "716a4ea619f66112",
+    "id": "cc9af668984ba5e4",
+    "ar": "f27cec06fcd8773d",
+    "zh": "716933b558f3da0b"
+   }
+  },
+  {
+   "article_id": "AB-260907-V07",
+   "EN": "07265121280e71c1",
+   "locales": {
+    "fr": "69ad4edc2f9cb471",
+    "de": "787a564fcb4774a9",
+    "es": "59fa92f0da0d1403",
+    "pt": "f1fb6624017fb118",
+    "ja": "1e096afabd476f5a",
+    "ko": "a4fcf3942b955ca4",
+    "vi": "90de601ad7c8098e",
+    "th": "f5de6d585b3f0551",
+    "id": "016763e0333b1dfd",
+    "ar": "cb53e0ac55582fe3",
+    "zh": "dcc930829b724678"
+   }
+  },
+  {
+   "article_id": "AB-260907-V08",
+   "EN": "d370e6a3a5be4a9d",
+   "locales": {
+    "fr": "ca8f02968987502c",
+    "de": "d82a274c1ec701ea",
+    "es": "03ecff51d85279bd",
+    "pt": "f148e13fe1eee8fe",
+    "ja": "21dda940e0f2cfe6",
+    "ko": "9ccc86f37780c592",
+    "vi": "104bf3bf5d9e0b55",
+    "th": "9e98aaf281610e14",
+    "id": "b471f66694acf44c",
+    "ar": "108dd7f6141b1395",
+    "zh": "6f0d987b29908b7b"
+   }
+  },
+  {
+   "article_id": "AB-260907-V09",
+   "EN": "8d77ad148fff2a8d",
+   "locales": {
+    "fr": "40f1a4a50067301b",
+    "de": "520908128c5b82d2",
+    "es": "bb3d157d3cc7c289",
+    "pt": "90d073811b2837e1",
+    "ja": "86632491a96777b6",
+    "ko": "13de99c786d86b33",
+    "vi": "40dd8eed2f5982f4",
+    "th": "94a244a25e9c4e9a",
+    "id": "798e9447d94d071c",
+    "ar": "68f5152663c32cfb",
+    "zh": "d55484c5aa3ac832"
+   }
+  },
+  {
+   "article_id": "AB-260907-V10",
+   "EN": "11bbd2c091f24926",
+   "locales": {
+    "fr": "e9adcdcd35a20bbe",
+    "de": "e697e505ba1a0bf0",
+    "es": "92b97334a1d8f02e",
+    "pt": "98dcfdb67e1e4627",
+    "ja": "81a87e0222411e0a",
+    "ko": "09f9fe6c9ff38168",
+    "vi": "3a3e8bbc283be65c",
+    "th": "68b18f5639fce23a",
+    "id": "6946b97c4d0a3bfb",
+    "ar": "88e59ea7ce211645",
+    "zh": "bf184d5f6058e8dd"
+   }
+  }
+ ]
+}

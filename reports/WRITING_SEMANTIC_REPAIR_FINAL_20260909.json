@@ -1,0 +1,160 @@
+{
+ "batch": "WRITING-SEMANTIC-REPAIR-2026-09-09",
+ "reviewed_baseline": "4b446ab029f58c0597338438bc0ebc9a585f1241",
+ "remote_research_base_preserved": "4c3cd91f577c082e58c10ec685c203cf31bc1c7e",
+ "TOTAL_ARTICLES": 120,
+ "FULL_LOCALES": "1440/1440",
+ "GATES": {
+  "PUBLIC_FIELD_VALUE_ONLY_FAIL": 0,
+  "P0_WORKFLOW_LEAKAGE_FAIL": 0,
+  "SLUG_MISMATCH": 0,
+  "BULLET_NOT_11": 0,
+  "INTENT_RESIDUE": 0,
+  "ENGLISH_RESIDUE_LINES": 46,
+  "ENGLISH_RESIDUE_BY_LANG": {
+   "ja": 1,
+   "th": 5,
+   "ar": 36,
+   "zh": 4
+  },
+  "NUMERIC_TOKEN_BREAK_FAIL": 0,
+  "BODY_EMPTY_SECTIONS": 0,
+  "NOTE": "46 EN residue lines are digit-integrity-protected factual sentences kept English by weak en->ja/th/ar/zh MT; English **Tags** hashtag lines excluded by design; 1 BROKEN_NUMBER regex hit is a date+space boundary, not a split decimal."
+ },
+ "SOURCE_SCOPE": {
+  "PASS": 106,
+  "CONDITIONAL": 14,
+  "FAIL": 0,
+  "NOTE": "14 conditional are all 2026-09-04 guides; 15 2026-09-07 articles upgraded via remote FS-v3/SL-v3 on 2026-09-08."
+ },
+ "CONTROLLED_PATCH_CLOSURE_FAIL": 0,
+ "IMAGE_RIGHTS": {
+  "records": 120,
+  "PASS": 0,
+  "FAIL": 120,
+  "NOTE": "honest result; no fabricated licenses"
+ },
+ "SIMILARITY_12LANG": {
+  "en": {
+   "max_5gram": 0.2355,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.md"
+   ]
+  },
+  "fr": {
+   "max_5gram": 0.2316,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.fr.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
+   ]
+  },
+  "de": {
+   "max_5gram": 0.2329,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.de.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.de.md"
+   ]
+  },
+  "es": {
+   "max_5gram": 0.2426,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.es.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.es.md"
+   ]
+  },
+  "pt": {
+   "max_5gram": 0.2395,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.pt.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.pt.md"
+   ]
+  },
+  "ja": {
+   "max_5gram": 0.253,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260903-V07_Yutong_ZK6122.ja.md",
+    "AB-260903-V08_FAW_Jiefang_J6P.ja.md"
+   ]
+  },
+  "ko": {
+   "max_5gram": 0.5523,
+   "verdict": "MANUAL_REVIEW",
+   "pair": [
+    "AB-260905-G06_Export_FX_Settlement.ko.md",
+    "AB-260905-G09_CCC_Export_Exemption.ko.md"
+   ]
+  },
+  "vi": {
+   "max_5gram": 0.2473,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.vi.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.vi.md"
+   ]
+  },
+  "th": {
+   "max_5gram": 0.2875,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.th.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.th.md"
+   ]
+  },
+  "id": {
+   "max_5gram": 0.2457,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.id.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.id.md"
+   ]
+  },
+  "ar": {
+   "max_5gram": 0.2236,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260905-V02_Changan_UNI_Z.ar.md",
+    "AB-260905-V05_Changan_CS55PLUS.ar.md"
+   ]
+  },
+  "zh": {
+   "max_5gram": 0.3246,
+   "verdict": "PASS",
+   "pair": [
+    "AB-260905-G02_Export_Customs_SingleWindow.zh.md",
+    "AB-260905-G05_CKD_SKD_Assembly.zh.md"
+   ]
+  }
+ },
+ "SIMILARITY_PASS_LANGUAGES": [
+  "en",
+  "fr",
+  "de",
+  "es",
+  "pt",
+  "ja",
+  "vi",
+  "th",
+  "id",
+  "ar",
+  "zh"
+ ],
+ "SIMILARITY_MANUAL_REVIEW_LANGUAGES": [
+  "ko"
+ ],
+ "SIMILARITY_FAIL_LANGUAGES": [],
+ "WRITING_SKILL_VERSION": "1.2",
+ "SKILL_REGISTRY_SYNC": true,
+ "REVIEW_BASELINE_DRIFT": true,
+ "PUBLISH_APPROVED": false,
+ "HUMAN_REVIEWED": false,
+ "REVIEW_PASS": false,
+ "CODEX_ELIGIBLE": false,
+ "WAITING_FOR": "INDEPENDENT_REVIEW_AI"
+}

@@ -1,0 +1,110 @@
+{
+ "en": {
+  "n": 120,
+  "max_5gram": 0.2355,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.md"
+  ],
+  "verdict": "PASS"
+ },
+ "fr": {
+  "n": 120,
+  "max_5gram": 0.2316,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.fr.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
+  ],
+  "verdict": "PASS"
+ },
+ "de": {
+  "n": 120,
+  "max_5gram": 0.2329,
+  "pair": [
+   "AB-260904-V03_Wuling_Bingo.de.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.de.md"
+  ],
+  "verdict": "PASS"
+ },
+ "es": {
+  "n": 120,
+  "max_5gram": 0.2426,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.es.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.es.md"
+  ],
+  "verdict": "PASS"
+ },
+ "pt": {
+  "n": 120,
+  "max_5gram": 0.2395,
+  "pair": [
+   "AB-260904-V03_Wuling_Bingo.pt.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.pt.md"
+  ],
+  "verdict": "PASS"
+ },
+ "ja": {
+  "n": 120,
+  "max_5gram": 0.253,
+  "pair": [
+   "AB-260903-V07_Yutong_ZK6122.ja.md",
+   "AB-260903-V08_FAW_Jiefang_J6P.ja.md"
+  ],
+  "verdict": "PASS"
+ },
+ "ko": {
+  "n": 120,
+  "max_5gram": 0.5523,
+  "pair": [
+   "AB-260905-G06_Export_FX_Settlement.ko.md",
+   "AB-260905-G09_CCC_Export_Exemption.ko.md"
+  ],
+  "verdict": "MANUAL_REVIEW"
+ },
+ "vi": {
+  "n": 120,
+  "max_5gram": 0.2473,
+  "pair": [
+   "AB-260904-V03_Wuling_Bingo.vi.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.vi.md"
+  ],
+  "verdict": "PASS"
+ },
+ "th": {
+  "n": 120,
+  "max_5gram": 0.2875,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.th.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.th.md"
+  ],
+  "verdict": "PASS"
+ },
+ "id": {
+  "n": 120,
+  "max_5gram": 0.2457,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.id.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.id.md"
+  ],
+  "verdict": "PASS"
+ },
+ "ar": {
+  "n": 120,
+  "max_5gram": 0.2236,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.ar.md",
+   "AB-260905-V05_Changan_CS55PLUS.ar.md"
+  ],
+  "verdict": "PASS"
+ },
+ "zh": {
+  "n": 120,
+  "max_5gram": 0.3246,
+  "pair": [
+   "AB-260905-G02_Export_Customs_SingleWindow.zh.md",
+   "AB-260905-G05_CKD_SKD_Assembly.zh.md"
+  ],
+  "verdict": "PASS"
+ }
+}
