@@ -12,7 +12,7 @@
 - **Teks ALT**: Institute Cargo Clauses A B Penyangga cakupan C
 - **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
-## The Misception That Costs Importers Money
+## Kesalahpahaman yang Merugikan Importir
 Pembeli berasumsi bahwa di bawah FOB atau CIF..... Jalur pengiriman sepenuhnya kompensasi.... Yang tergores, hancur, dicuri atau air rusak kendaraan. Tidak: kewajiban pembawa ditutup oleh konvensi internasional jauh di bawah nilai mobil, dan klausa kargo yang Anda pilih memutuskan apakah kerusakan transit biasa tertutup sama sekali. Halaman ini mencakup ** asuransi kargo laut untuk kendaraan yang dikirim dari Cina ** (rute laut global) - clauses dan klaim, berbeda dari harga lncoterm dan dari pilihan RoRo-vs- kontainer.
 ## Tiga Pengikat Klausul - Disalurkan ke Wording Resmi
 Institut Cargo Klausul diterbitkan oleh ** Lloyd 's Market Association (LMA) dan Asosiasi Internasional (IUA) **; arus (A) (B) (C) kata- clause referensi ** CL382 (A), CL383 (B), CL384 (C) - mengambil efek 1 Januari 2009 * (resmi LMA kata; VERFIED).
@@ -22,7 +22,7 @@ Institut Cargo Klausul diterbitkan oleh ** Lloyd 's Market Association (LMA) dan
 | ** ICC (B) - bahaya bernama (CL383) * | Api ledakan, terdampar tenggelam, tabrakan, masuk air, gempa dll. - hanya disebutkan kejadian | Meninggalkan kerugian kendaraan umum ditemukan |
 | - Korban utama (CL384) | Satu set kecil korban utama | Tidak pantas untuk mobil. |
 Kendaraan umumnya menjamin ** ICC (A) ** karena kerugian terlihat paling pada RoRo dan dalam penanganan pelabuhan - tidak disengaja penanganan kerusakan, pencurian, goresan dan penyok - jatuh di luar lingkup named- bahaya (B) (C); apakah peristiwa tertentu masih tergantung pada pengecualian, titik lampiran dan kata-kata kebijakan. Perang dan penutup pemogokan terpisah dibeli tambahan untuk rute sensitif.
-## Incoterms 2020: the CIP-vs- CIF Pembeli Obligasi Nona
+## Incoterms 2020: Kewajiban pembeli pada CIP dibandingkan CIF
 Ini sekarang didasarkan pada material Incocherms ICC sendiri (terintegrasi): dibawah ** Incoterms 2020 the seller * minimum * assurance telah dinaikkan ke Institute Cargo Clauses (A) untuk CIP **, sedangkan * CIF mempertahankan IC (C) minimum lebih rendah * (ICC Digital Library ICC) Akademi menjelaskan 2010 £2020 perubahan dan perdagangan premium off). Konsekuensi praktis:
 - Pada ** CIF **, penjual mungkin hanya berhutang minimal ** ICC (C) * penutup meskipun sebuah mobil membutuhkan * (A) ** - tulis ** ICC (A) secara eksplisit ke dalam kontrak dan surat kredit **, atau membeli top-up sendiri.
 - Pada ** CIP **, standar minimum adalah ** ICC (A) * untuk keuntungan pembeli - masih mengkonfirmasi klausul aktual pada sertifikat daripada mengasumsikan.

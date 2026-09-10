@@ -26,7 +26,7 @@ Unlike a single-powertrain EV, the UNI-V purchase decision starts with the engin
 | 1.5T (Blue Whale NE) | Turbo L4 petrol | 138 kW (188 PS) / 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L/100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | Turbo L4 petrol | 171 kW (233 PS) / 390 N·m | 8-speed torque-converter automatic (8AT) | 215 km/h | 6.9 L/100 km |
 
-The 1.5T Blue Whale figures and the 7DCT are **VERIFIED** against Changan's official site and matched by the vehicle databases. The 2.0T output, 8AT and its fuel figure are CROSS_CHECKED across PCauto and Autohome. Note the deliberate gearbox difference: the 1.5T uses a wet dual-clutch while the 2.0T uses a conventional 8-speed automatic — a meaningful distinction for fleet buyers who prefer torque-converter durability, and something to state explicitly on the purchase order rather than assuming "automatic means the same gearbox."
+The 1.5T Blue Whale figures and the 7DCT are **confirmed by primary sources** against Changan's official site and matched by the vehicle databases. The 2.0T output, 8AT and its fuel figure are independently cross-checked across PCauto and Autohome. Note the deliberate gearbox difference: the 1.5T uses a wet dual-clutch while the 2.0T uses a conventional 8-speed automatic — a meaningful distinction for fleet buyers who prefer torque-converter durability, and something to state explicitly on the purchase order rather than assuming "automatic means the same gearbox."
 
 Fuel-consumption values above use the **WLTC** cycle as published in Chinese configuration tables; real-world and destination-test figures will differ, so use them for relative comparison between trims, not as a guaranteed in-market number.
 

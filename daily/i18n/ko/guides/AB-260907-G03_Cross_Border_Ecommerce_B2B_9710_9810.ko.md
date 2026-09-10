@@ -28,7 +28,7 @@ China added two dedicated customs supervision codes for business-to-business cro
 
 Neither 코드는 비고가 없는 엔티티티에 사용할 수 있습니다. 기업은 외국 무역 통신 사업자로 표준 세관 등록을 완료해야하며, 교차 국경 전자 상거래 기록을 완료하고 지정된 채널을 통해 선언합니다. 세관 시스템 또는 중국 국제 무역 단일 창. 초기 조종사 후, 모델은 세관 지구에서 더 넓게 구출되었지만 운영 세부 사항, 허용 된 문서 세트 및 facilitation 조치는 세관 지구에 따라 여전히 다를 수 있으므로 로컬 감독 관세는 선언이 어떻게 제기되는지에 대한 운영 기관입니다.
 
-데이터 분야는 캐주얼 소포 흐름보다 엄격합니다. 플랫폼 거래 데이터, 물류 데이터 및 9810, 창고 영수증 및 후속 판매 데이터는 재조합해야 합니다. Building that three-way match before volume grows is far cheaper than reconstructing it during an audit or a rebate review.
+데이터 분야는 캐주얼 소포 흐름보다 엄격합니다. 플랫폼 거래 데이터, 물류 데이터 및 9810, 창고 영수증 및 후속 판매 데이터는 재조합해야 합니다. 물량이 커지기 전에 3자 대사를 구축하는 것이 감사나 환급 심사 때 재구성하는 것보다 훨씬 저렴하다.
 
 ## 차량 질문 - 대답을 가정하지 마십시오
 

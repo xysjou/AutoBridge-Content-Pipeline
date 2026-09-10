@@ -52,8 +52,8 @@ Payloadは、最も頻繁にコンプライアンスの問題を引き起こす�
 
 ## よくある質問
 **旬田のGVWとは  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; MIIT発表/認証の正確なペイロードを特定のボディに確認します。
-**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); 2.8 L 116 PSバージョンは異なるユニットです。
-使用可能なペイロードを設定します  and  ドロップサイド間の変化  and  box-van bodies — do not share one payload across bodies.
+**本ページはどのエンジンを扱うか?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); 2.8 L 116 PSバージョンは異なるユニットです。
+使用可能なペイロードを設定します  and  ドロップサイド間の変化  and  box-van bodies — ボディごとに同一の積載量を流用してはならない.
 **中国- 6 のトラックは私の市場のために承認しましたか。** 自動的に、目的地の排出とタイプ承認は別々です。
 
 ## 映像の記録

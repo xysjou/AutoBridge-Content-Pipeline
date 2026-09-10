@@ -30,11 +30,11 @@ A **SKD (semi-knocked-down)** 키트는 일부 조립 모듈을 발송합니다.
 5. ** 계약 분할 ** - 별도의 상품 공급, 조립 기술 도구 및 판매 후 그래서 범위와 지불은 명확합니다.
 
 ## Evidence 천장 (지불 절약을 촉진하기 전에)
-이 페이지는 의도적으로 **는** 유니버셜 CKD/SKD 정의, 고정 의무 이점, 또는 로컬 콘텐츠 임계값을 주장합니다. Those are blocked pending primary WCO/destination-authority evidence; 그것을 제외하고, 그 품목으로 확인, 사실이 아닙니다.
+이 페이지는 의도적으로 **는** 유니버셜 CKD/SKD 정의, 고정 의무 이점, 또는 로컬 콘텐츠 임계값을 주장합니다. 이들은 1차 WCO 자료가 나올 때까지 차단된다/destination-authority evidence; 그것을 제외하고, 그 품목으로 확인, 사실이 아닙니다.
 
 ## 의논하기
 ** 선적 "CKD"가 자동 저하를 라벨링합니까? ** 없음 - 목적지 세관은 분류 및 치료를 결정합니다.
-**Is GRI 2(a) a guaranteed basis for kit classification?** It must be assessed against the exact goods with a primary ruling; 그것은 여기에 정착 된 것과 같이 주장하지 않습니다.
+**Is GRI 2(a) 킷 분류를 보장하는 근거?** 1차 판정과 함께 정확한 물품을 기준으로 평가해야 한다; 그것은 여기에 정착 된 것과 같이 주장하지 않습니다.
 **WHO는 로컬 콘텐츠 규칙을 설정합니까?** 대상 국가의 당국; 그들은 시장별로 다릅니다.
 ** 모든 시장에서 하나의 키트 디자인 작업 할 수 있습니까? ** No — 분류 및 집합 조건은 국가 별입니다.
 **BOM은 무엇을해야합니까?** 분류하기 전에 모든 구성품에 HS 선, 근원 및 가치 할당.

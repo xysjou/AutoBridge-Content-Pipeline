@@ -31,7 +31,7 @@ Một số chi phí và điểm định tuyến lưu thông trong các phương 
 Xây dựng chi phí hạ cánh như một chồng **FTS xác nhận** — nghĩa vụ + VAT + tiền tiêu dùng + chứng thực + iRA-GLONSS + bảo hiểm công nghệ hậu cần + — không phải là một phần trăm mượn duy nhất.
 ## Phía Trung Quốc: 2026 Luật thanh danh xuất khẩu bây giờ là chính thức
 Không giống như các điểm trên, phía kiểm soát xuất khẩu của Trung Quốc bây giờ được neo trong tài liệu chính (VERIEEED):
-- **MOFCOM General Office Notice on the 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** đặt hệ thống ứng dụng trực tuyến (tinh vi.licence.org.cn), Xem lại sơ bộ máy cục bộ  and  danh sách xuất bản ở trung tâm.
+- **Thông báo của Văn phòng Tổng hợp MOFCOM về 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** đặt hệ thống ứng dụng trực tuyến (tinh vi.licence.org.cn), Xem lại sơ bộ máy cục bộ  and  danh sách xuất bản ở trung tâm.
 - **Joint Thông báo Không. 54 (2025) của MOFCOM, MIT, GAC  and  SAMR** puts **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
 - Danh sách ** 2026 doanh nghiệp đủ tư cách để áp dụng cho việc xuất khẩu xe** đã được xuất bản trên 30 Dec 2025.
 Điều này có nghĩa là bạn phải có khả năng hiển thị một mô hình chính xác: khả năng xuất khẩu hợp lệ một nơi trong danh sách hiện thời, quyền sử dụng thương hiệu và tài liệu hướng dẫn giao thông pin (v. d. UN38.3). Xem hướng dẫn viên bán hàng cho phương pháp cho phép-công ty.

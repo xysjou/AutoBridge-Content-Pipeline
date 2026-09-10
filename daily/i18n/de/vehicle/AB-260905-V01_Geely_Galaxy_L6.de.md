@@ -24,7 +24,7 @@ Die EM-i-Linie ist Frontantrieb und paart einen 1.5 L Saug-Benzinmotor mit einem
 - **Motor**: 160 kW 262 N·m (Motorleistung überprüft; Drehmoment Single-Source).
 - ** Getriebe **: 1 挡 DHT (EM-i 单挡混动专用变速) - ein Single-Speed-DHT, das die EM-i-Funktion im Vergleich zum älteren Multi-Speed-Hybrid darstellt.
 - **Batterielinien **: 8.5 19.09 kWh. Batteriezellenlieferant wird **nicht von Geely** bestätigt und absichtlich nicht angegeben.
-- **Elektrische Reichweite**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; auf WLTC ist die erfasste Referenz 48 115 km. CLTC und WLTC sind unterschiedliche Zyklen — niemals eine CLTC-Nummer als WLTC/NEFZ-Exportzahl angeben.
+- **Elektrische Reichweite**: 60 140（对应8.5/19.09kWh） km CLTC für die beiden Linien jeweils; auf WLTC ist die erfasste Referenz 48 115 km. CLTC und WLTC sind unterschiedliche Zyklen — niemals eine CLTC-Nummer als WLTC/NEFZ-Exportzahl angeben.
 - **Kombiniert/Leistung**: kombinierte CLTC-Bereich bis 最高 2000 km; 0–100 km/h 7.4 s; Höchstgeschwindigkeit 180 km/h; Kraftstoffbehälter 60 L; Widerstandskoeffizient 0.26.
 
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)

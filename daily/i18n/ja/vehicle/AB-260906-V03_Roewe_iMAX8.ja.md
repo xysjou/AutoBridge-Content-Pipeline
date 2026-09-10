@@ -35,7 +35,7 @@ The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door, セブンシ
 - スライドドア構成および気候の地帯;
 - 目的地の道路条件のための懸濁液のチューンと乗車高さ;
 - インテリア素材とカフール/フリートプレゼンテーションのためのインフォテメンション言語。
-- スペアホイール  and  luggage space behind the third row, 空港送迎業務に重要な事項
+- スペアホイール  と3列目後方の荷室スペース, 空港送迎業務に重要な事項
 
 ## 品種のスコープの規準
 
@@ -57,7 +57,7 @@ The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door, セブンシ
 ## よくある質問
 **Roewe iMAX8の座席はいくつありますか? ふりがな ふりがな**
 
-The referenced Chinese model is a seven-seater in a 2+2+3 layout with two second-row captain chairs; 正確なトリムを確認します。
+参照される中国モデルは以下の7人乗りである 2+2+3 layout with two second-row captain chairs; 正確なトリムを確認します。
 
 **ホイールベースはどのくらいの期間ですか? ふりがな ふりがな**
 

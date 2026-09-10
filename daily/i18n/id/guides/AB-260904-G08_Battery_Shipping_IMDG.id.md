@@ -1,4 +1,4 @@
-# Pengiriman Kendaraan Listrik oleh Sea Under IMDG 42-24: UN3556, UN3171 dan Distinksi Baterai Spare-
+# Pengiriman Kendaraan Listrik Lewat Laut di bawah IMDG 42-24: UN3556, UN3171 dan Distinksi Baterai Spare-
 
 ## Metadata SEO
 - **Judul SEO**: EV Laut Freight Dibawah IMDG 42-24 - UN3556/3557/3558 vs UN3480/3481
@@ -26,7 +26,7 @@ Untuk kendaraan ** yang diangkut dengan baterai terpasang **:
 
 ## Cadangan Baterai Lepas Adalah Entri yang Berbeda
 Jangan bingung nomor kendaraan whole dengan sel-sel yang longgar dan paket:
-- **UN3480 — lithium-ion batteries transported on their own** (loose/spare).
+- **UN3480 — baterai litium-ion yang diangkut secara terpisah** (loose/spare).
 - Baterai ion UN3481 dikemas dengan, atau terkandung dalam, peralatan.
 Baterai Sodium-ion longgar membawa mereka sendiri angka yang sesuai. Sebuah paket cadangan oleh karena itu kapal di bawah ** UN3480/3481 ** keluarga - pernah dengan menggunakan kembali kendaraan UN3556.
 

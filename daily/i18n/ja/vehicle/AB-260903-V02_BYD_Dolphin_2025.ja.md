@@ -1,4 +1,4 @@
-# BYD Dolphin 2025(中国): バッテリー, ディスク レンジ  and  Two Motor Grades for Importers
+# BYD Dolphin 2025(中国): バッテリー, ディスク レンジ  と輸入業者向けの二つのエンジングレード
 ## SEOメタデータ
 - **SEOタイトル**: BYDドルフィン 2025 中国仕様:バッテリー、レンジ、輸出チェック
 - **メタディスクリプション**: 2025 Chinese-market  BYD  Dolphin — 44.928/60.48 kWh Blade Battery, 70 対 150 kW の等級、  420/520 km  CLTC , ダイパイロット, バイヤーのための中国-vs-overseas-specの規準を使って。

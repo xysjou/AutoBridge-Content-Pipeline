@@ -33,7 +33,7 @@ Les quatre numéros de gamme ne sont pas interchangeables: chacun appartient à 
 
 ## Pourquoi le «CLTC» importe pour un acheteur d'exportation
 
-Les chiffres chinois utilisent le cycle **CLTC**, qui est plus généreux que WLTP et beaucoup plus généreux que l'EPA. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  demander séparément les données du cycle de destination ou du monde réel. De même, une spécification chinoise M03 utilise la norme/connecteur de charge chinoise; La compatibilité avec le réseau public de la destination et tout connecteur du marché d'exportation doit être vérifiée séparément et n'est pas supposée être prise en compte dans la spécification chinoise.
+Les chiffres chinois utilisent le cycle **CLTC**, qui est plus généreux que WLTP et beaucoup plus généreux que l'EPA. Un acheteur étranger qui convertit ses attentes doit considérer 515–620 km CLTC numbers as China-cycle references  and  demander séparément les données du cycle de destination ou du monde réel. De même, une spécification chinoise M03 utilise la norme/connecteur de charge chinoise; La compatibilité avec le réseau public de la destination et tout connecteur du marché d'exportation doit être vérifiée séparément et n'est pas supposée être prise en compte dans la spécification chinoise.
 
 ## Logiciels, équipements et discipline de coupe
 

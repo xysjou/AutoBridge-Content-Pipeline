@@ -89,7 +89,7 @@ Pemindaian lisensi membuktikan perusahaan itu ada, bukan berarti itu bisa mengek
 ** Bagaimana saya memeriksa lisensi perusahaan Cina? ** Query gsxt.gov.cn secara total menggunakan Unified Credit Code; verifikasi nama, scope, rep hukum dan catatan anomali apapun.
 ** Apakah sertifikat CCC membuktikan hak ekspor? ** CCC adalah sertifikasi produk; kualifikasi ekspor secara otomatis bersandar pada pengumuman MIIT dan daftar ekspor MOFCOM saat ini.
 ** Rekening penerima adalah nama perusahaan yang berbeda - adalah bahwa normal? * Ini adalah salah satu dari sinyal risiko paling jelas; berhenti dan kembali memverifikasi sebelum membayar.
-**What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC  and  dok pemuatan, Diperiksa dengan surat klaim.
+**Apa yang membuktikan pemasok benar-benar mengekspor?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC  and  dok pemuatan, Diperiksa dengan surat klaim.
 
 ## Rekor Gambar
 - IMAGE_ASSET_PATH: none secured in repository

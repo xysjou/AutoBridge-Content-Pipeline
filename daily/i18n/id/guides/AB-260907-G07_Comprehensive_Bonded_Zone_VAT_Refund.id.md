@@ -1,4 +1,4 @@
-# Zones Bonded Comprehensive di Cina: VAT Refunt on Entry, the General- Taxpayer Pilot dan Selektif Tariffs
+# Zones Bonded Comprehensive di Cina: VAT Refunt on Entry, Percontohan Wajib Pajak Umum dan Tarif Selektif
 ## Metadata SEO
 - **Judul SEO**: China Comprehensive Bonded Zone  VAT  Refund & General Taxpayer Pilot | AutoBridge
 - **Deskripsi Meta**: Bagaimana zona komprehensif Cina memperlakukan gerakan baris pertama / baris kedua, ketika barang-barang dalam negeri memasuki zona diperlakukan sebagai ekspor untuk VAT pengembalian, yang umum - pembayar pajak pilot, peralatan lega dan tarif selektif.

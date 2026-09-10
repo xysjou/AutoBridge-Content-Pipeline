@@ -16,13 +16,13 @@ Die Schiene ist eine zunehmend relevante Spur für Fahrzeuge, Knock-Down-Kits un
 
 ## Der Flaschenhals, den der Modus entfernt
 
-Ohne schnellen Transit kann eine Eisenbahnsendung, die inländische Eisenbahnhäfen durchquert, wiederholten Transitformalitätsbehandlungen und papiergestütztem Frachtbriefaustausch ausgesetzt sein, was die Verweilzeit an Grenzschienenknotenpunkten erhöht. Fast Transit organisiert dies um Daten: Der inländische Eisenbahnunternehmen übermittelt die Durchgangsrechnung elektronische Daten, so dass die Versandanmeldung auf einer einmaligen, datengesteuerten Basis gemacht werden kann. Der Modus wurde schrittweise auf Bahnhäfen landesweit von 2021 ausgerollt, fragmentierte Pilot Handling mit einem Standard-Inlandsansatz ersetzen.
+Ohne schnellen Transit kann eine Eisenbahnsendung, die inländische Eisenbahnhäfen durchquert, wiederholten Transitformalitätsbehandlungen und papiergestütztem Frachtbriefaustausch ausgesetzt sein, was die Verweilzeit an Grenzbahnknotenpunkten erhöhtöht. Fast Transit organisiert dies um Daten: Der inländische Eisenbahnunternehmen übermittelt die Durchgangsrechnung elektronische Daten, so dass die Versandanmeldung auf einer einmaligen, datengesteuerten Basis gemacht werden kann. Der Modus wurde schrittweise auf Bahnhäfen landesweit von 2021 ausgerollt, fragmentierte Pilot Handling mit einem Standard-Inlandsansatz ersetzen.
 
 ## Zwei Kanäle, um den Modus aufzurufen
 
 Ein Exporteur oder Spediteur sollte verstehen, dass ein schneller Transit durch einen von zwei Kanälen ausgelöst werden kann:
 
-1. **Eisenbahnunternehmen "Kopf-an-Kopf"-Datenübertragung.** Die Eisenbahnbehörde / der inländische Verkehrsunternehmer übermittelt den Frachtbrief für den kombinierten Verkehr elektronisch an den Zoll auf einer „Unternehmen-zu-Behörde-Basis („总对总), was die am meisten automatisierte Route ist, wenn der gewählte Zugdienst sie unterstützt.
+1. **Eisenbahnunternehmen "Kopf-an-Kopf"-Datenübertragung.** Die Eisenbahnbehörde / der inländische Verkehrsunternehmer übermittelt den Frachtbrief für den kombinierten Verkehr elektronisch an den Zoll auf einer „Unternehmen-zu-Behörde-Basis („总对总), was die am stärksten automatisierte Route ist, wenn der gewählte Zugdienst sie unterstützt.
 2. **Enterprise-Erklärung über das Single Window.** Wird der erste Kanal nicht genutzt, kann das Unternehmen die Versandanmeldung selbst über das China International Trade Single Window abgeben.
 
 Welcher Kanal gilt, hängt vom Zugdienst, dem Abfahrtsbahnhafen und dem ausführenden Träger ab; dies ist ein konkreter Punkt, den man bei der Buchung bestätigen und nicht annehmen sollte.

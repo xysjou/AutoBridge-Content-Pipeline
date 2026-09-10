@@ -54,8 +54,8 @@ Es wird kein Ausfuhrpreis veröffentlicht und hier keiner abgeleitet. Fordern Si
 ## Häufig gestellte Fragen
 **Ist der Jolion das gleiche Auto wie der Haval Chulian? ** Auf Basis-Namensschild-Ebene ja — die eigene Geschichte von GWM zeichnet die Version des Chulian in Übersee als JOLION (in Südafrika/Saudi-Arabien eingeführt) auf, aber marktspezifische Antriebe unterscheiden sich immer noch und sind nicht austauschbar.
 **Kommt der Jolion als Hybrid? ** Übersee-Abdeckung Dokumente eine 1.5L DHT HEV (~ 190 PS 375 N·m); das chinesische Referenzauto hier ist ein 1.5T Turbo - halten Sie sie in separaten Spalten.
-**Was ist das Drehmoment und Getriebe des chinesischen 1.5T? ** Die Macht ist 110 kW; die erfassten 210 N·m und 7DCT sind australische Marktzahlen, so dass sie nicht als bestätigte chinesische Werte angegeben werden, die auf eine zweite chinesische Quelle warten.
-**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; Bestätigen Sie das chinesische Auto separat.
+**Was sind Drehmoment und Getriebe des chinesischen 1.5T? ** Die Macht ist 110 kW; die erfassten 210 N·m und 7DCT sind australische Marktzahlen, so dass sie nicht als bestätigte chinesische Werte angegeben werden, die auf eine zweite chinesische Quelle warten.
+**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L ist der Wert der Auslandsversion; Bestätigen Sie das chinesische Auto separat.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei

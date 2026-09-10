@@ -38,7 +38,7 @@ Contrairement à un EV à une seule motorisation, la décision d'achat d'UNI-V c
 | 1.5T (Blue Whale NE) | Turbo L4 essence | 138 kW (188 PS) 300 N·m | 7-speed double embrayage humide (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | Turbo L4 essence | 171 kW (233 PS) 390 N·m | Convertisseur de couple automatique 8-speed (8AT) | 215 km/h | 6.9 L/100 km |
 
-Le 1.5T Bleu Les chiffres de baleines et les 7DCT sont **VERIFIED** contre le site officiel de Changan et assortis des bases de données des véhicules. La sortie 2.0T, 8AT et son chiffre carburant sont CROSS_CHECKED sur PCauto et Autohome. Notez la différence de boîte de vitesses délibérée: le 1.5T utilise un double embrayage humide tandis que le 2.0T utilise un automatique 8-speed conventionnel — une distinction significative pour les acheteurs de flotte qui préfèrent la durabilité du convertisseur de couple, et quelque chose à indiquer explicitement sur le bon de commande plutôt que de supposer que « la boîte de vitesses automatique signifie la même ».
+Le 1.5T Bleu Les chiffres de baleines et les 7DCT sont **confirmé par une source primaire** contre le site officiel de Changan et assortis des bases de données des véhicules. La sortie 2.0T, 8AT et son chiffre carburant sont vérifié par recoupement indépendant sur PCauto et Autohome. Notez la différence de boîte de vitesses délibérée: le 1.5T utilise un double embrayage humide tandis que le 2.0T utilise un automatique 8-speed conventionnel — une distinction significative pour les acheteurs de flotte qui préfèrent la durabilité du convertisseur de couple, et quelque chose à indiquer explicitement sur le bon de commande plutôt que de supposer que « la boîte de vitesses automatique signifie la même ».
 
 Les valeurs de consommation de carburant ci-dessus utilisent le cycle **WLTC** publié dans les tableaux de configuration chinois; les chiffres des essais sur le monde réel et sur la destination diffèrent, donc utilisez-les pour comparer les garnitures, et non comme un numéro de marché garanti.
 
@@ -83,11 +83,11 @@ Il n'y a pas de prix à l'exportation statique AutoBridge. Le RMB 108,900–139,
 
 **L'UNI-V est-il une voiture électrique ou une voiture à essence?** Le 2024 Chine UNI-V couvert ici est un moteur à essence (ICE) rapide; choisissez entre les 1.5T et 2.0T turbo essence moteurs.
 
-**Les deux moteurs utilisent-ils la même boîte de vitesses?** - Non, c'est pas vrai. Le 1.5T utilise un 7-speed double embrayage humide  and  the 2.0T uses an 8-speed torque-converter automatic.
+**Les deux moteurs utilisent-ils la même boîte de vitesses?** - Non, c'est pas vrai. Le 1.5T utilise un 7-vitesse à double embrayage humide, tandis que la 2.0T uses an 8-speed torque-converter automatic.
 
 **Quelle est la différence entre les deux?** Sur les tables chinoises WLTC,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; l'empattement 2750 mm est constant.
+**Pourquoi la longueur diffère-t-elle selon les sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; l'empattement 2750 mm est constant.
 
 **Puis-je supposer que la voiture chinoise respecte la norme d'émission de mon pays?** Non — la conformité aux émissions, la qualité du carburant et la garantie doivent être vérifiées pour le marché de destination avant la commande.
 

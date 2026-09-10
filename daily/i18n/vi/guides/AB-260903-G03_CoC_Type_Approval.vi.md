@@ -50,7 +50,7 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
 ** Khác biệt giữa WVTA và CoC là gì? WVTA chấp thuận loại xe qua EU; một hệ thống certifites mỗi đơn vị phù hợp với loại được chấp thuận.
 **E-mark và E-mark có giống nhau không? Không — hình chữ nhật e được gắn với toàn bộ sự chấp thuận của EU-vehic/EC; Hình tròn E là UNECE 1958 thành phần/hệ thống chấp thuận giữa các bên hợp đồng.
 **E-mark trên bộ phận có chấp thuận toàn bộ phương tiện không?** Không; hỗ trợ thành phần nhưng không bao giờ thay thế sự chấp thuận kiểu toàn màn hình.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+**Do I need a local representative for EAEU approval?** OTTS/Các cơ chế EAC thường yêu cầu một đại diện được ủy quyền trong Liên minh — confirm the current TR CU 018 text.
 
 ## Thu ảnh
 - IMAGE_ASSET_PATH: none secured in repository

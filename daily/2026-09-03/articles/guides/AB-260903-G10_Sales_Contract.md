@@ -13,7 +13,7 @@
 - **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Who This Is For
-A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/single source**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
+A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at independently cross-checked/single source**; confirmed by primary sources would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
 
 ## Clause Block 1 — The Essential Contents (Civil Code Art 596)
 Under **Article 596 of the PRC Civil Code**, a sales contract should cover: **name, quantity, quality, price, time/place/method of performance, packaging, inspection standards and method, settlement, and the effective-language/text provisions**. Translated for a vehicle deal, the minimum is:

@@ -37,7 +37,7 @@ O G90 é oferecido em **seis lugares (2+2+2)** e **sete lugares (2+2+3)** config
 - Confirmar o conteúdo de segunda fila de capitães-cadeiras versus bancadas para a guarnição escolhida;
 - corresponder a contagem de lugares ao certificado de homologação em vez de uma imagem de marketing.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), ilustrando a quantidade de espaço de bagagem que depende da utilização da terceira linha; Tratar a figura exata como aparar-dependente.
+O volume de carga é indicado em cerca de **1010.5–2179 L** com a terceira fila rebatida (single-source), ilustrando a quantidade de espaço de bagagem que depende da utilização da terceira linha; Tratar a figura exata como aparar-dependente.
 
 ## O que um comprador de grande porte MPV deve verificar
 

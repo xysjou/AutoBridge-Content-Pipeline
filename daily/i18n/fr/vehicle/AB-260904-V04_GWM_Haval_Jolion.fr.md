@@ -67,7 +67,7 @@ Aucun prix à l'exportation n'est publié et aucun n'est déduit ici. Demander u
 **Le Jolion est-il la même voiture que le Haval Chulian?** Au niveau de la plaque de base oui — L'histoire de GWM enregistre la version de la Chulian outre-mer comme JOLION (lancée en Afrique du Sud/Arabie Saoudite); mais les motorisations spécifiques au marché diffèrent encore et ne sont pas interchangeables.
 **Le Jolion est-il un hybride?** La couverture outre-mer est un 1.5L DHT HEV (~ 190 PS 375 N·m); la voiture de référence chinoise ici est un 1.5T turbo — les garder dans des colonnes séparées.
 **Qu'est-ce que le couple et la boîte de vitesses chinois 1.5T?** La puissance est de 110 kW; les 210 N·m et 7DCT capturés sont des chiffres du marché australien, donc ils ne sont pas déclarés comme des valeurs chinoises confirmées en attendant une deuxième source chinoise.
-**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; confirmer la voiture chinoise séparément.
+**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L est la valeur de la version outre-mer; confirmer la voiture chinoise séparément.
 
 ## Enregistrement d'image
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt

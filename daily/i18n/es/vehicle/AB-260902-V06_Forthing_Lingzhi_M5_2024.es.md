@@ -25,7 +25,7 @@ El Lingzhi M5 es una camioneta de carretilla frontal comercial MPV ** utilitario
 | Base de ruedas | 3000 mm | 2800 mm |
 | Diseños de asientos ofrecidos | 7 9 asientos | 5 7 8 asientos |
 
-Dimensiones, bases de ruedas y diseños de asientos son **VERIFIED** contra la página oficial del parámetro Forthing y coinciden con las bases de datos. El cuerpo alto, casi vertical (altura 1970 mm) es una caja de carga deliberada gente — el volumen interior útil es el objetivo de diseño. Confirme el recuento exacto de asientos, porque la misma etiqueta " M5L" cubre tanto 7- como 9-seat construcciones.
+Dimensiones, bases de ruedas y diseños de asientos son **confirmado por una fuente primaria** contra la página oficial del parámetro Forthing y coinciden con las bases de datos. El cuerpo alto, casi vertical (altura 1970 mm) es una caja de carga deliberada gente — el volumen interior útil es el objetivo de diseño. Confirme el recuento exacto de asientos, porque la misma etiqueta " M5L" cubre tanto 7- como 9-seat construcciones.
 
 ## Powertrains — Petrol Turbo vs Naturalmente Aspirado a GNC
 

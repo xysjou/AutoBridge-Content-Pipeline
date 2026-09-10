@@ -68,7 +68,7 @@ Tidak ada harga otoriter yang ditangkap - suku reefer bervariasi secara luas den
 
 Mengapa payload hanya sekitar 1.1 t pada 4.495 t truk? Kotak isolasi dan unit pendingin menambahkan berat trotoar substansial (~ 3.2 t), meninggalkan ~ 1.1 t; selalu menghitung ulang muatan untuk tubuh unit yang tepat.
 ** Apa artinya "berdiri sendiri unit independen" berarti? ** Mesin dan pendingin sendiri dapat digunakan secara mandiri untuk angkutan panjang dan saat diparkir, unit yang didorong lebih murah tapi berhenti mendinginkan mesin.
-Yang mana lebih baik, Yunnei atau kekuatan Cummins? Referensi Jieyun menggunakan sebuah Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  anggaran.
+Yang mana lebih baik, Yunnei atau kekuatan Cummins? Referensi Jieyun menggunakan sebuah Yunnei 2.5 L 150 PS; Suyun menggunakan Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  anggaran.
 *** Apa suhu bisa tahan? ** Sanfeng 590 target yang terdaftar, 18 °C pekerjaan beku; titik yang dicapai tergantung pada unit yang dipilih dan isolasi, jadi spesifikasikan itu.
 Mengapa harga tidak diberikan? Biaya Reefer tergantung pada kotak dan unit pendingin, harga 2026-09-02 yang dapat diandalkan telah diambil, dan satu tidak akan diperkirakan.
 

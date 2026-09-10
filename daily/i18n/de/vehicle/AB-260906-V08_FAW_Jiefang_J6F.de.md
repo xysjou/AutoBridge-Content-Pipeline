@@ -22,7 +22,7 @@ Der Jiefang J6F ist FAWs Taxi-over-Lkw im chinesischen Segment "Blue-Plate" N2 -
 | Mustermotor | Deutz-Serie CA4DB1-13E6, 2.2 L Diesel, 95 kW (130 PS)/ 350 N·m, China-6b | CHINA · Single-Source-Probe, bestätigen | single sourceN |
 | Typischer Frachtkörper | Gemeinsame Pfahl-/Kästenkörper mit einer Länge von rund 4.2 m | CHINA · Single-Source, bestätigen durch Build | single sourceN |
 
-The J6F is offered with several engines across model batches — the CA4DB1 figure is a representative sample, nicht die gesamte Motormatrix. Ein Käufer darf nicht davon ausgehen, dass jeder J6F diesen Motor verwendet; der genaue Antriebsstrang wird aus der Zulassungsbescheinigung für die Fahrgestell-VIN abgelesen.
+The J6F wird über mehrere Modellchargen mit verschiedenen Motoren angeboten — the CA4DB1 figure is a representative sample, nicht die gesamte Motormatrix. Ein Käufer darf nicht davon ausgehen, dass jeder J6F diesen Motor verwendet; der genaue Antriebsstrang wird aus der Zulassungsbescheinigung für die Fahrgestell-VIN abgelesen.
 
 ## Motor, Getriebe, Achse: der Nutzfahrzeugkern
 

@@ -57,7 +57,7 @@ Die Sicherheit oder Bindung, die eine Partei posten muss, und jede Aufzeichnungs
 
 Nein. Das Zertifikat begründet das Recht bei der IP-Behörde; proaktiver ex-officio Zollschutz erfordert zusätzlich das Recht, mit GACC erfasst zu werden.
 
-**Was ist der Unterschied zwischen ex-officio und on-request-Schutz? **
+**Was ist der Unterschied zwischen Ex-officio- und On-Request-Schutz? **
 
 Die von Amts wegen eingeleitete Maßnahme ist vom Zoll initiiert und erfordert eine vorherige Aufzeichnung; der Rechteinhaber stellt für eine bestimmte verdächtige Sendung einen Antrag auf Vorabgenehmigung.
 

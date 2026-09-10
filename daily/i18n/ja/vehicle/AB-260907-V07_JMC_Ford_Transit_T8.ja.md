@@ -16,7 +16,7 @@ JMCフォード・トランジットT8 (江铃福特全顺 T8)は中国のJiangl
 
 ## ホイールベース/ルーフマトリクス
 
-The line is built on three wheelbases — **3000,  3300  and  3750 mm ** — と組み合わせる 媒体  and  高屋根  and  乗用車(バス)と貨物(バン)の車体。 Two worked reference points illustrate the spread (keep each bound to its own configuration):
+当該ラインは三つのホイールベースで構成される — **3000,  3300  and  3750 mm ** — と組み合わせる 媒体  and  高屋根  and  乗用車(バス)と貨物(バン)の車体。 Two worked reference points illustrate the spread (それぞれを自身の構成に紐づけて保つ):
 
 | 設定 | 参照次元 | ホイールベース | 自信の秘境 |
 |---|---|---|---|

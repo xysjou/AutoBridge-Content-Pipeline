@@ -42,7 +42,7 @@ Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nh�
 
 ## Trang này không có quyền hạn
 - **Chuyến bay lao động nhập khẩu**: những người cần thuế của quốc gia nhập khẩu để có tiểu đề chính xác và nằm ngoài phạm vi cho một trang phân loại bên xuất khẩu.
-- **Chính xác là tiểu đề quốc gia mười chữ số và tỷ lệ tạm thời**: họ thay đổi với thuế hàng năm — trích dẫn ấn bản ** 2026  and  the implementing GACC announcement number** on every declaration rather than relying on older 2018/2020 reference tables.
+- **Chính xác là tiểu đề quốc gia mười chữ số và tỷ lệ tạm thời**: họ thay đổi với thuế hàng năm — trích dẫn ấn bản ** 2026  và số thông báo triển khai của GACC** trên từng tờ khai thay vì dựa vào các bản cũ 2018/2020 reference tables.
 
 ## Danh sách kiểm tra trước công việc
 - Hiệu trưởng sử dụng và bảo vệ bản thân.
@@ -55,7 +55,7 @@ Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nh�
 Cái đầu máy kéo bán tải đi đâu rồi? Dưới 87.01 (có nghĩa rõ ràng là bao gồm bán ống kéo), bán ống dẫn kéo là 87.16, một phân loại riêng biệt.
 Xe chở khách vẫn là 87.03 chứ? Đúng vậy, xe điện và xe chở khách chạy bằng điện cho đến chín người ngồi trong vòng 87.03 người; tàu điện thay đổi đầu tàu, chứ không phải hướng đi.
 ** Có sự khác biệt nào giữa 87.04 và 87.05?** 87.04 mang hàng hóa; 87.05 tồn tại để thực hiện một chức năng đặc biệt khi mang hàng hóa là ngẫu nhiên. Hãy quyết định bằng cách sử dụng chính.
-**Which tariff edition should I cite now?** The 2026 *Import  and  Xuất Tariff*  and  Thông báo GACC thực hiện chương trình 2026; Không dùng 2018/2020 bảng như là một phương thức hiện tại.
+**Nên trích dẫn ấn định thuế quan nào bây giờ?** The 2026 *Import  and  Xuất Tariff*  and  Thông báo GACC thực hiện chương trình 2026; Không dùng 2018/2020 bảng như là một phương thức hiện tại.
 
 ## Thu ảnh
 - Không có bảo mật trong kho

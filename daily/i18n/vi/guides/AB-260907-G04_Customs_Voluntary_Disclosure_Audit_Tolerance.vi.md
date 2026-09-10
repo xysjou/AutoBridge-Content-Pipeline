@@ -57,7 +57,7 @@ Three boundaries matter. Thứ nhất, những lời nói tự nguyện tiết l
 
 Cửa sổ khoan dung hiện tại là gì? **
 
-The current operative announcement applies from 11 October 2025 to 30 June 2027; xác nhận chống lại thông báo có hiệu lực trong việc phục tùng, vì sau này không có cách trị liệu nào cả.
+Thông báo đang hiệu lực áp dụng từ 11 October 2025 to 30 June 2027; xác nhận chống lại thông báo có hiệu lực trong việc phục tùng, vì sau này không có cách trị liệu nào cả.
 
 ** Tự nguyện tiết lộ có khước từ trách nhiệm không lương không? **
 

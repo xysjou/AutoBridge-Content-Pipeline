@@ -73,7 +73,7 @@ Sie gilt für regulierte Produkte, einschließlich Automobilartikel wie Reifen, 
 
 Die Konformitätsdokumente unterstützen das Formular M und die PAAR, die der nigerianische Zoll verwendet, um die Waren zu vertreiben.
 
-**Was ist die Einfuhrabgabe oder Altersgrenze? **
+**Was sind Einfuhrabgabe bzw. Altersgrenze? **
 
 Dieser Leitfaden gibt keine festen Zahlen an — aktuelle NCS-Tarif-/Steuerpolitikquellen beziehen; Preise und Alterspolitik sind zeitsensibel.
 

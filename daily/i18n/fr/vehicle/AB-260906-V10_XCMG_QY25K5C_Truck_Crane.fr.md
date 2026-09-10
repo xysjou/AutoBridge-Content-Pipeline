@@ -64,7 +64,7 @@ La grue mobile a été retirée du catalogue des « machines de levage » des é
 
 **Puis-je utiliser QY25K-II ou QY25E spécifications pour les QY25K5C**
 
-Non — ce sont des modèles différents; - Oui. moteur  and  dimensions must come from the official QY25K5C sheet.
+Non — ce sont des modèles différents; - Oui. moteur et les dimensions doivent provenir de la fiche officielle QY25K5C sheet.
 
 **Quels documents l'acheteur doit-il obtenir? **
 

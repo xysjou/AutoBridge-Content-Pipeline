@@ -33,7 +33,7 @@ Für einen ICE SUV ist die Kaufentscheidung Motorcode, Drehmomentband, Getriebe 
 Das 4th-generation Auto ist größer (berichtet 4770 1910 mm, 2800 mm Radstand). Halten Sie die beiden Dimensionssätze auf getrennten Linien; Mischen sie beschädigt sowohl Containerstauung und Kunden-orientierten Spec-Tabellen.
 
 ## Fahrerassistenz und Kabine
-Die 3rd-gen Champion Linie ist mit einem ** L2 Assistenzlevel auf den jeweiligen Klassen** ausgestattet, einschließlich ACC mit voller Geschwindigkeit, Spurhaltung und einem 540 ° Surround-View-Bild. Changan's 2024 annual report frames L2 as standardised across the newer platform; Bestätigen Sie dennoch die genaue Sensor-/Funktionsliste der Klasse - "L2 " ist eine Kategorie, kein garantiert identisches Feature-Set.
+Die 3rd-gen Champion Linie ist mit einem ** L2 Assistenzlevel auf den jeweiligen Klassen** ausgestattet, einschließlich ACC mit voller Geschwindigkeit, Spurhaltung und einem 540 ° Surround-View-Bild. Changan's 2024 annual report frames L2 wie auf der neueren Plattform vereinheitlicht; Bestätigen Sie dennoch die genaue Sensor-/Funktionsliste der Klasse - "L2 " ist eine Kategorie, kein garantiert identisches Feature-Set.
 
 ## Generationsgrenze (Order-Genauigkeit)
 - **Diese Seite: ** 3rd-generation Champion, MY2024 (4710 mm, 2710 mm; 1.5T 138 kW 2.0T 171 kW).
@@ -52,7 +52,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 121, 900
 
 ## Häufig gestellte Fragen
 **Was ist der Unterschied zwischen 1.5T und 2.0T CS75 PLUS?** Der 1.5T produziert 138 kW/300 N·m; der 2.0T produziert 171 kW/390 N·m; beide verwenden einen Aisin 8AT.
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  a revidierte 1.5T; Diese Seite behandelt den 3rd-gen Champion.
+**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4Generation in China ab September eingeführt 2024 mit einer größeren Karosserie und einer überarbeiteten 1.5T; Diese Seite behandelt den 3rd-gen Champion.
 **Hat CS75 PLUS Allradantrieb?** Die China 3rd-gen Linie, auf die hier verwiesen wird, ist Frontantrieb; bestätigen Sie jeden AWD-Anspruch gegen die spezifische Verkleidung.
 **Is the L2 package identical on every grade?** Treat it as grade-specific; Überprüfen Sie den ACC/lane/ 540 ° Kamerainhalt auf der genauen VIN.
 

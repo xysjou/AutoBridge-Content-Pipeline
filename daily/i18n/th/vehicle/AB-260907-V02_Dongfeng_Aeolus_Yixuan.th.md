@@ -40,8 +40,8 @@ CMP ส่งสัญญาณ TORion-beam/transward-dors-dormed adorm adame at
 
 ## ผู้ซื้อข้ามทวีปตรวจสอบสิทธิ์การขอเงินก่อนการฝาก
 
-1. Fix whether the offer is the current 2025 1.5L line or the older Mach 1.5T,  and  บอกเวลามาตรงๆ
-2. ยืนยันผลที่ออกมา กล่องเกียร์  and  WLTC consumption against the OEM sheet/MIIT entry (both are single-source here).
+1. ยืนยันให้ได้ว่าใบเสนอราคาเป็นรุ่นปัจจุบัน 2025 1.5ไลน์ L หรือรุ่นม่าห์ (Mach) เก่ากว่า 1.5T,  and  บอกเวลามาตรงๆ
+2. ยืนยันผลที่ออกมา กล่องเกียร์  และอัตรากินพลังงาน WLTC เทียบกับเอกสารของผู้ผลิต/MIIT entry (both are single-source here).
 3. ตรงกับมิติและคําถามยาว 4660-vs-4670 ที่ตรงกับปีต้นแบบที่แน่นอน
 4. ยืนยัน LHD/RHD และกําหนดปลายทางมาร์เก็ตแยกกับแบรนด์
 5. Reconcyle Vin ฝั่งตรงข้ามสัญญาในใบแจ้งหนี้ B/L และ COC ก่อนจ่ายเงินสุดท้าย

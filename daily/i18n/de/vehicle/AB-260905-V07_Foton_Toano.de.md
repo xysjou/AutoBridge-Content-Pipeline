@@ -21,7 +21,7 @@ Der **Foton Toano (图雅诺, 2026) ** ist ein Diesel-Großbus mit chinesischem 
 - **Langer Radstand**: 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) mm.
 - ** 2.5T Dieseldrehmoment**: 400 N·m; Getriebe 6MT.
 - **Sitzplätze **: 3/5/6/7/9/14/15/17 (随版本).
-- **Umrechnungsnotiz**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, keine Base-Van-Spezifikation.
+- **Umrechnungsnotiz**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — ein Kühlaufbau ist ein nachgerüsteter Aufbau (Upfit), keine Base-Van-Spezifikation.
 
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
@@ -46,7 +46,7 @@ Van-Käufer müssen Radstand, Dachhöhe, Sitzplatzzahl (Passagier) oder Frachtla
 
 ## FAQ
 **Wie viele Sitzplätze?** Es reicht über Versionen (3–17); geben Sie den genauen Build an.
-**Why no full ISF2.8 power The variant matrix needs an OEM lock; Sie wird zurückgehalten.
+**Why no full ISF2.8 Leistung. Die Variantenmatrix braucht eine OEM-Festlegung; Sie wird zurückgehalten.
 **Ist der Kühlwagen ein Fabrikmodell?** Es ist ein Umbau Upgrade auf dem Toano-Chassis.
 **Welcher Radstand für den Minibus?** Je nach Layout 3070/3510/3750 mm wählen.
 **Wo sind die GVW-Zahlen?** Nicht zuverlässig erfasst; erhalten aus Homologation.

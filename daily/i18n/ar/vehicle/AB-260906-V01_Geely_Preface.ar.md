@@ -1,4 +1,4 @@
-# جيلي بريفيس (Xingrui): A China-Market CMA Sedan Buyer Reference for Export
+# جيلي بريفيس (Xingrui): مرجع مشتري سيدان CMA للسوق الصيني للتصدير
 ## بيانات SEO الوصفية
 - **عنوان SEO**: Geely Preface (Xingrui) Export Specs, Trims and Buyer checks
 - **وصف Meta**: إشارة السوق الصينية إلى سيارة جيلي بريفيس/Xingrui CMA الجسم  and  الأبعاد 1.5T  and  2.0T متبديلاً ظلوا منفصلين  and  ما يجب على المشتري في الخارج أن يتحقق منه بـ VIN

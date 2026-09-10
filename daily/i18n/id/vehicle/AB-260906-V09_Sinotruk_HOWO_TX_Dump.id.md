@@ -42,7 +42,7 @@ Kombinasi WP10H400 12-speed MCX16ZG adalah satu perwakilan 8 x 4 build **, bukan
 2. Amankan GVW GCW, beban sumbu, massa kerb dan muatan rasial; ukuran tubuh tipper untuk muatan legal, bukan asumsi.
 3. Konfirmasi PTO, pompa hidrolik dan hoist spec dan yang menyediakan mereka (OEM vs binaragawan).
 4. Periksa Cina - 6 kalibrasi terhadap tujuan diesel sulfur emisi aturan dan ketersediaan suku cadang.
-5. Pasar Cina adalah LHD; ekspor RHD atau daerah HOW builds didokumentasikan secara terpisah dan tidak diasumsikan identik.
+5. Pasar Cina adalah LHD; versi ekspor RHD atau pembangunan regional HOW harus didokumentasikan terpisah dan tidak dianggap identik.
 6. Rencana pengiriman untuk unit berat terlalu besar (RoRo vs flack-rack breakch masses) dan mendamaikan semua nomor chassis.
 
 ## Kuantisasi disiplin

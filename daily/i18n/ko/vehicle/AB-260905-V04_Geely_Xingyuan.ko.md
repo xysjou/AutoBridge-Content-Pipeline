@@ -14,7 +14,7 @@
 - **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
 
 ## 구매자 컨텍스트 및 모델 ID
-**Geely Xingyuan (갤럭시 싱위안,  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, **rear-motor/rear-wheel 드라이브**. 이 페이지는 ** 중국 시장 ** 참고; 해외 모델명은 OEM 문과 동일하지 않습니다.
+**Geely Xingyuan (갤럭시 싱위안,  일부 수출 시장에서 별도의 영문명으로 판매)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, **rear-motor/rear-wheel 드라이브**. 이 페이지는 ** 중국 시장 ** 참고; 해외 모델명은 OEM 문과 동일하지 않습니다.
 
 ## 전력 및 범위 라인
 - ** 바디 **: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR 에디션 4155 mm 긴), 휠베이스 2650 mm, 5 门 5 座; 后置后驱.

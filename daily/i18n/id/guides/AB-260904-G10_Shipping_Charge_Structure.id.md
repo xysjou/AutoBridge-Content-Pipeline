@@ -25,7 +25,7 @@ Tingkat pengiriman utama memenangkan booking dan kehilangan uang di tujuan. Expo
 | ** SEAL VGM ** | Biaya segel dan diverifikasi Gross- massa biaya pemberat - item asal umum | Asal |
 | ** BAF (Penyesuaian bunker; mirip dengan EBS) *  | Biaya penuh yang terkait; bersama Caf (mata uang), PSS (musim puncak), PCS (kemacetan), WRS (risiko perang) | Variabel Ocean |
 
-## Filing Filing Fees Are Route- Specific (editorial guide, bukan muatan universal)
+## Biaya Pengajuan Bergantung pada Jalur (editorial guide, bukan muatan universal)
 ** AMS, ACI, ENS ** dan biaya pengajuan yang sama-sama-manifes umumnya timbul ** hanya ketika routing melewati daerah mandat-filing yang sesuai ** (mise, US Kanada EU progrecececept-manifest regimes). Apakah biaya dikenakan tergantung pada ** jalur dan pembawa **, dan diselesaikan pada bahwa faktur pengiriman. Ini adalah panduan khusus ** route-specific **, bukan jadwal muatan internasional universal: jalur yang tidak pernah menyentuh rezim tersebut seharusnya tidak membawa biaya, dan panduan menegaskan tidak ada tarif tetap untuk itu.
 
 ## Origin vs Tujuan - Dimana Disputes Sembunyikan

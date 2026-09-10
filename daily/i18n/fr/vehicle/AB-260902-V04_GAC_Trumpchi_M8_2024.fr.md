@@ -38,7 +38,7 @@ La Chine divise la série M8 en trois séries qui diffèrent en termes de taille
 | 宗师 Grand maître 大师 Maître | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Puissance de sortie identique à 185 kW, mais les pics de calibration Grandmaster/Master à 400 N·m contre 390 N·m pour le Lingxiu 390T — une petite différence réelle qui ne devrait pas être aplatie en un seul chiffre de " M8 couple ". Les dimensions et l'empattement du Grand Maître/Maître sont **VERIFIED** contre les pages officielles du GAC; Les valeurs de Lingxiu sont recoupées via Autohome/Yiche.
+Puissance de sortie identique à 185 kW, mais les pics de calibration Grandmaster/Master à 400 N·m contre 390 N·m pour le Lingxiu 390T — une petite différence réelle qui ne devrait pas être aplatie en un seul chiffre de " M8 couple ". Les dimensions et l'empattement du Grand Maître/Maître sont **confirmé par une source primaire** contre les pages officielles du GAC; Les valeurs de Lingxiu sont recoupées via Autohome/Yiche.
 
 ## Spécifications mécaniques (Versions de Pétrol)
 

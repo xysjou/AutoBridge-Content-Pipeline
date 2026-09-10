@@ -56,7 +56,7 @@ O certificado também viaja: pode ser apresentado a seguradoras, bancos e alfân
 
 ## Sequência prática para um exportador
 
-1. Preservar a prova do evento no dia em que a perturbação aparecer; avisos oficiais de data-marca.
+1. Preservar a prova do evento no dia em que a perturbaçãoçãoção aparecer; avisos oficiais de data-marca.
 2. Verifique a cláusula de contrato e a lei de governo antes de usar as palavras "força maior" para o comprador.
 3. Indicar à contraparte as tentativas de notificação e de atenuação por escrito.
 4. Aplicar através da plataforma de certificação unificada com um arquivo completo, causalmente ligado.

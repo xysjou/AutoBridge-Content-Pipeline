@@ -18,7 +18,7 @@
 
 上位法是全国人民代表大会常务委员会通过的"中华人民共和国出口管制法",规定了管制物品,许可证和最终用户/最终用户的义务. 该法律规定,必须实行进出口许可证管理,并制订两用物品和技术目录。 目录不是静态理论;而是主管部门修订和重新发布的活性清单。
 
-For 2026, 两用物品的  and  technologies catalogue was published by the Ministry of Commerce together with the General Administration of Customs in the **2025 No.91 Announcement**,  with effect from **1 January 2026**. 计划2026次货运的出口商必须使用目前的目录,而不是旧的年版,因为受控说明和代码在版本之间移动。
+For 2026, 两用物品的  技术目录由商务部会同海关总署于该年发布 **2025 No.91 Announcement**,  with effect from **1 January 2026**. 计划2026次货运的出口商必须使用目前的目录,而不是旧的年版,因为受控说明和代码在版本之间移动。
 
 ## 核心操作原则:列出在申报前获得许可的手段
 
@@ -67,7 +67,7 @@ For 2026, 两用物品的  and  technologies catalogue was published by the Mini
 
 成品民用客车一般为普通货物,但具体部件,技术或软件可以列出——将每个候选项目与目前的目录进行分类,而不是从产品名称中假设.
 
-我先宣布一下,好吗?  and  sort the licence out later?**
+我先宣布一下,好吗?  再补办许可证?**
 
 否. 对于所列物品,必须在报关前取得许可证;货物在报关时必须填写许可证。
 

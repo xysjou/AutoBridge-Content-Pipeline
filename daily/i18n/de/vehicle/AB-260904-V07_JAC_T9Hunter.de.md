@@ -39,7 +39,7 @@ Diese chinesischen Antriebsstrang-Artikel ruhen derzeit auf einer **einzigen chi
 ## Antriebsstrang, Abschleppen und Nutzlast — Marktetiketten sind wichtig
 - **Teilzeit-Vierradantrieb (BorgWarner)** mit ** 2H 4H 4L **  and  eine **hintere Differentialsperre** auf dem dokumentierten 4x4 (einziger chinesischer Markt); Finalisieren gegen das Build Sheet.
 - **Taukapazität 3500 kg ist eine EXPORT-Markt JAC Fabrik Figur (Markt EXPORT) ** aus dem Export OEM-Standort. Es muss **nicht als chinesischer Homologation/Ankündigungswert oder als systemweite Nummer geschrieben werden; die Abschleppkennzahl auf dem Zielhomologation-Dokument ist das, was die Verwendung im Ausland regelt.
-- **Payload 1000 kg ist eine chinesische Marktfigur, VERIFIED** über die offizielle chinesische JAC-Abholseite (mit Export-OEM-Unterstützung).
+- **Payload 1000 kg ist eine chinesische Marktfigur, durch eine Primärquelle bestätigt** über die offizielle chinesische JAC-Abholseite (mit Export-OEM-Unterstützung).
 - Die RHD-Verfügbarkeit erscheint auf Exportlisten, aber die genaue RHD-Versorgungsmatrix muss über einen offiziellen JAC-Kanal bestätigt werden, nicht angenommen.
 
 ## Versions- und Order-Konfigurationspunkte

@@ -21,7 +21,7 @@ O Qin Plus DM-i é um sedan compacto de **plugin (PHEV), nem um EV puro nem um c
 | LFP Bateria de lâmina | 8.32 kWh | 18.32 kWh |
 | Gama exclusivamente eléctrica | 55 km NEDC 46 km WLTC | 120 km NEDC 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-A saída 145 kW/197 PS do carro de bateria maior e seu pacote ~ 18.3 kWh são corroborados em ** Página regional Qin Plus DM-i da BYD para Bahrain (en-bh, VERIFIED, escopo limitado ao modelo nomeado)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) são cruzados entre bancos de dados chineses (CROSS_CHECKED). O 120 é mais rápido e mais pesado (curbo ~ 1620 kg para o 120KM 领先型).
+A saída 145 kW/197 PS do carro de bateria maior e seu pacote ~ 18.3 kWh são corroborados em ** Página regional Qin Plus DM-i da BYD para Bahrain (en-bh, confirmado por fonte primária, escopo limitado ao modelo nomeado)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) são cruzados entre bancos de dados chineses (verificado por confronto independente). O 120 é mais rápido e mais pesado (curbo ~ 1620 kg para o 120KM 领先型).
 ## Motor e modo de funcionamento (as perguntas específicas do PHEV)
 - **Motor**: 1.5L naturalmente aspirado L4, 81 kW (110 PS) 135 N·m; é principalmente um gerador unidade auxiliar em vez do motor principal de acionamento.
 - **Transmissão**: E-CVT unidade elétrica de velocidade única continuamente variável - não há caixa de velocidades multi-step para especificar.
@@ -43,7 +43,7 @@ Parâmetros de sites listam 55 e 120 linhas, mas deixam o importador desembaraç
 Nenhum preço de exportação estático é publicado; o RMB 79, 800–125, 800 China Glory Edition preço de guia é uma referência **doméstico, sensível ao tempo, não uma figura FOB / CIF**. Informe-se com **Destino País · Quantidade · Versão (55/120) & Grau · LHD/RHD · Destino Porto · Incoterm**.
 ## Perguntas Mais Frequentes
 ** O que difere entre os 55 e 120 ?** O 120 tem uma bateria de 18.32 kWh, um motor 145 kW, mais forte, maior alcance elétrico e aceleração mais rápida; o 55 usa 8.32 kWh e 132 kW.
-**Is the 1.5L the main drive unit?** In DM-i it is mainly a generator/assist; o motor elétrico fornece acionamento primário.
+**Is the 1.5L the main drive unit?** No DM-i funciona sobretudo como gerador/assist; o motor elétrico fornece acionamento primário.
 ** Por que dois números de gama elétrica?** A China etiqueta NEDC e WLTC (120 NEDC = 101 WLTC); sempre cite o ciclo.
 ** É o alcance elétrico de 1245 km?** Não — é uma figura chinesa combinada combustível + bateria; apenas elétrico é no máximo 120 km NEDC.
 ** É vendido no estrangeiro?** BYD apresenta um Qin Plus DM-i em páginas de mercado no exterior selecionadas; use a folha oficial de destino. Qualquer placa de exportação diferente requer confirmação explícita do BYD — um BYD PHEV relacionado não é assumido como sendo o mesmo modelo.

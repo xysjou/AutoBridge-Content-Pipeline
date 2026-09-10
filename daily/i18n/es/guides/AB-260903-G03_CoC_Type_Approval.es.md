@@ -50,7 +50,7 @@ Una bolsa de componentes E-marked no ** igual a un WVTA de todo el vehículo, y 
 **¿Cuál es la diferencia entre WVTA y un CoC?** WVTA aprueba el tipo de vehículo en toda la UE; un CoC certifica cada unidad individual de los partidos que aprueban el tipo.
 ** ¿Es e-mark y E-mark la misma?** No — e rectangular está ligada a las aprobaciones de la UE de todo el vehículo/CEE; E circular es la aprobación del componente/sistema de la CEPE 1958 entre las partes contratantes.
 **¿E-mark aprueba todo el vehículo?** No; soporte de las marcas de componentes pero nunca sustituya la aprobación del tipo de vehículo entero.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+**Do I need a local representative for EAEU approval?** OTTS/Los regímenes EAC exigen generalmente un representante autorizado dentro de la Unión — confirm the current TR CU 018 text.
 
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: none secured in repository

@@ -37,7 +37,7 @@
 
 ## FAQ
 ** هل ضمانة دفع لا رجعة فيها؟ وهو مشروع مصرفي مشروط بتقديم عرض ممتثل؛ ولا تزال الشروط غير الملزمة يمكن أن تؤخر الدفع أو تحجبه.
-** ما هو الـ "تي" الآمن؟ ** A production deposit plus balance against shipping evidence; the exact percentages are a commercial decision, not a fixed rule.
+** ما هو الـ "تي" الآمن؟ ** A production deposit plus balance against shipping evidence; النسب الدقيقة قرار تجاري, not a fixed rule.
 **D/P مقابل D/A** ويدفع المشتري، بموجب المادة أ، للحصول على الوثائق؛ وبموجب المادة يقبل ويدفع لاحقا - أي مخاطر أكبر بكثير من المصدرين.
 ** هل لي أن أقبل O/A لمشتري أول؟** وعموماً، ليس بدون تأمين ائتماني أو ضمان أو علاقة ثابتة.
 **Does UCP600 override my contract?** No — UCP600 governs the credit when incorporated; عقد البيع والتصميم لا يزالان يحددان الصفقة.

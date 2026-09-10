@@ -43,10 +43,10 @@
 - 確認します** ステアリング側, 検査プログラムと文書チェーン** 年齢とともに; 正式なポータルのワーディングがあいまいです (ニグエラステアリング), 書かれた税関の回答を得る.
 - PSI期間中のVIN/Registration 紙から**manufacture dateとFirst-registration date**をキャプチャすることで、年齢は正しい基準で計算されます。
 ## よくある質問
-**ケニアの中古車年齢制限とは?** 第一次規格材料(KEBS DKS 1515): 2025 § 4.7.1、  corroborated by KRA) sets passenger vehicles at no more than **eight years from the year of first registration**,  with a one-year cap on the manufacture-to-first-registration gap; 特殊用途の例外は狭い。
+**ケニアの中古車年齢制限とは?** 第一次規格材料(KEBS DKS 1515): 2025 § 4.7.1、  corroborated by KRA) 乗用車を最大でも以下に定める **初度登録年から8年**,  製造から初度登録までの間隔を1年に制限; 特殊用途の例外は狭い。
 **ナイジェリアの中古車年齢制限とは?** ナイジェリアシングルウィンドウトレードポータルは、輸入から15年以上の古い車両を出荷します**、製造年から測定され、NACの上昇で測定されます。税関禁止リストの再生は15-year図で一貫しています。
 **ケニアとナイジェリアは、異なる出発点を使用するのはなぜですか?** ケニアは、**firstregister**、ナイジェリアから*manufacture**から、目的地の独自に常に年齢を計算します。
-**Does one rule cover all of Africa?** No — every country sets its own age basis, ステアリングルール  and  点検ゲート; ケニアとナイジェリアの外で、ここに列が報告され、正式に検証する非プライマリ値が報告されます。
+**一つのルールでアフリカ全体をカバーできるか?** No — every country sets its own age basis, ステアリングルール  and  点検ゲート; ケニアとナイジェリアの外で、ここに列が報告され、正式に検証する非プライマリ値が報告されます。
 **年齢以外に何か?** ステアリング側、製造-vs-registration基礎、車両クラス、および管理された点検/CoCプログラム。
 ## 映像の記録
 - IMAGE_ASSET_PATH:リポジトリで保護されていない

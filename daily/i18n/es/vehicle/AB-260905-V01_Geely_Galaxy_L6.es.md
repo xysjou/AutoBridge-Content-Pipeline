@@ -24,7 +24,7 @@ La línea EM-i es la unidad delantera y combina un motor de gasolina natural 1.5
 - **Motor**: 160 kW 262 N·m (función motora cruzada; torque de un solo recurso).
 - **Transmisión**: 1 挡 DHT (EM-i 单挡混动专用变速) — un DHT de una sola velocidad, que es la característica EM-i que define frente al híbrido de varias velocidades más antiguo.
 - **Líneas de baño**: 8.5 19.09 kWh. El proveedor de baterías es **no confirmado por Geely** y no se declara intencionalmente.
-- **Grupo eléctrico**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; sobre WLTC la referencia capturada es 48 115 km. CLTC y WLTC son ciclos diferentes, nunca citan un número de CLTC como una figura de exportación WLTC/NEDC.
+- **Grupo eléctrico**: 60 140（对应8.5/19.09kWh） km CLTC para las dos líneas respectivamente; sobre WLTC la referencia capturada es 48 115 km. CLTC y WLTC son ciclos diferentes, nunca citan un número de CLTC como una figura de exportación WLTC/NEDC.
 - **Combinado/rendimiento**: rango combinado de CLTC hasta 最高 2000 km; 0–100 km/h 7.4 s; velocidad superior 180 km/h; tanque de combustible 60 L; coeficiente de arrastre 0.26.
 
 ## Tabla de especificación verificada (referencia del mercado chino)

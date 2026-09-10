@@ -23,7 +23,7 @@ A linha é construída em três eixos de distâncias — ** 3000, 3300 e 3750 mm
 | Base média das rodas, cobertura média (exemplo) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
 | Carga de alto teto, de base longa | 5998 × 2164 × 2775 mm; carga interior □ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Longo | single source |
 
-O comprimento de 5998 mm é significativo: em muitos mercados, situa-se na fronteira de lectividade de condução comercial, pelo que um comprador deve confirmar a categoria de licença de destino e a massa bruta do veículo antes de encomendar a versão mais longa. Dimensões interiores da carga  and  the ≈13 m³ volume are single-source  and  deve ser confirmado contra os dados oficiais do construtor de corpo/configuração JMC antes de uma conversão ser projetada em torno deles.
+O comprimento de 5998 mm é significativo: em muitos mercados, situa-se na fronteira de lectividade de condução comercial, pelo que um comprador deve confirmar a categoria de licença de destino e a massa bruta do veículo antes de encomendar a versão mais longa. Dimensõos interiores da carga, e a ≈13 m³ volume provêm de fonte única e devem ser confirmados com os dados oficiais do construtor da carroçaria/configuração JMC antes de uma conversão ser projetada em torno deles.
 
 ## Duas linhas de diesel — não se fundem
 

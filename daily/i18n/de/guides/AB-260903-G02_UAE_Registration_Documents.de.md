@@ -52,7 +52,7 @@ Nach der Zollfreigabe beantragt der Käufer die RTA mit (gemeldet): gültige **V
 ** Registriere ich mich vor oder nach dem Zoll bei RTA?** Danach - klare Bräuche und Konformität zuerst erfüllen, dann gelten für die RTA für die Mulkiya.
 **Ist die UAE-Zollgebühr genau 5% ?** Über 5% auf CIF wird weit berichtet, aber es ist zeit- und klassifikationssensibel; bestätigen Sie die aktuelle Bundestariflinie für Ihren genauen HS-Code, bevor Sie zitieren.
 **Arbeitet ein chinesischer CoC in den VAE?** Nein — ein chinesisches inländisches Zertifikat ist kein GCC/GSO-Marktzugang; vereinbaren Sie den korrekten GCC-Konformitätsweg.
-**Was ist mit der ESMA passiert?** Seine relevanten Funktionen wurden in MoIAT gefaltet; bestätigen Sie die aktuelle Zertifikats-Ausgaberoute.
+**Was ist mit der ESMA geschehen?** Seine relevanten Funktionen wurden in MoIAT gefaltet; bestätigen Sie die aktuelle Zertifikats-Ausgaberoute.
 ** Gilt dieser Leitfaden auch für Saudi/Katar?** Die Sequenz überträgt sich konzeptionell, aber Formulare, Gebühren und Behörden unterscheiden sich je nach GCC-Staat - überprüfen Sie jedes Land separat.
 
 ## Bildaufzeichnung

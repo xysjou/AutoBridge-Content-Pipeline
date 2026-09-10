@@ -31,13 +31,13 @@ O J6F é oferecido com vários motores em lotes de modelos — a figura CA4DB1 �
 - **Axle & drive final**: confirmar a relação eixo-retro contra a operação carregada e terreno.
 - **Chassis**: layout de cab-over maximiza o comprimento da carga dentro de uma pegada compacta; verifique a distância entre eixos contra o corpo de classe 4.2 m pretendido.
 
-## A carga e a GVW devem vir do anúncio
+## A carga e o PBT devem provir doúncio
 
 > Carga útil nominal, massa do banco e GVW exato não são indicados como valores fixos aqui: eles variam com chassis, cabine e upfit e exigem o anúncio MIIT certificado de conformidade. Os cabos de carga de plataforma de segunda mão foram tratados como não verificados e excluídos. Para um caminhão de trabalho, esses números — e não a brochura — determinam o carregamento legal.
 
 ## Disciplina Chassi-para-superestrutura
 
-Muitas das exportações de J6F são um chassis mais um corpo construído localmente (caixa, estaca, refrigerado, tanque). Mantenha duas aprovações separadas: a homologação do chassis do OEM e a conformidade da superestrutura do fisiculturista, ambos no destino. Chassis mismatched-GVW e peso corporal é uma razão comum um caminhão leve falha no registro ou sobrecargas.
+Muitas das exportações de J6F são um chassis mais um corpo construído localmente (caixa, estaca, refrigerado, tanque). Mantenha duas aprovações separadas: a homologaçãdo chassis do OEM e a conformidade da superestrutura do encarroçadorçador, ambos no destino. Chassis mismatched-GVW e peso corporal é uma razão comum um caminhão leve falha no registro ou sobrecargas.
 
 ## Lista de verificação de exportação e pré-pagamento
 

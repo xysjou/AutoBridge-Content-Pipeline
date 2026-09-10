@@ -21,7 +21,7 @@ O **Foton Toano (, 图雅诺, 2026) é um grande van/ônibus de grande porte do 
 - ** Longas distâncias entre eixos**: 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) mm.
 - ** 2.5T torque diesel**: 400 N·m; caixa de velocidades 6MT.
 - **Sets**: 3/5/6/7/9/14/15/17 (随版本).
-- ** Nota de conversão**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, Não é uma especificação de carrinha base.
+- ** Nota de conversão**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — uma caixa frigorífica é um equipamento montado (upfit), Não é uma especificação de carrinha base.
 
 ## Quadro de especificações verificados (referência do mercado chinês)
 | Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |

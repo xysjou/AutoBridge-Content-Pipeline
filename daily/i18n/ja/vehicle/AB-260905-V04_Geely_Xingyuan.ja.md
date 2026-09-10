@@ -14,7 +14,7 @@
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
 
 ## バイヤーのコンテキストとモデルのアイデンティティ
-**Geely Xingyuan (Galaxy Xingyuan, ハンガリー)  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, このページは**中国語(簡体)**の参考文献です。 海外モデル名はOEMの記述なしで同一扱いません。
+**Geely Xingyuan (Galaxy Xingyuan, ハンガリー)  一部輸出市場で別の英名で販売)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, このページは**中国語(簡体)**の参考文献です。 海外モデル名はOEMの記述なしで同一扱いません。
 
 ## 電力系統と範囲線
 - **ボディ**: 4135 1805 1570(スター限定版车长 4155) mm(スターエディション4155 mmロング)、ホイールベース2650 mm、5 门 5 座; 后置后驱.
@@ -39,7 +39,7 @@
 | プラットフォーム | ジーア 纯电架构 |  | 日 時 分 | シングル_ソース | 腾讯新闻 |
 
 ## 小さいEVの輸出論理:電池ライン、周期および船積み
-City EVs are frequently mis-quoted by using one range number for two motor/battery lines. Xingyuanでは、モータ(58または85 kW)と、各オーダーでマッチングバッテリーとCLTC範囲を組み合わせ、リストのテストサイクルに再ラベルCLTCではなく変換します。 リチウムイオン電池EVとして、船舶貨物は、電池駆動車(実車UN3556)の現物IMDG分類に従い、輸送ガイドを参照してください。 電池の製造者およびピークの充満力はOEMデータを保たせました。
+都市型EVは二つのモーターに一つの航続値を流用して誤記されがち/battery lines. Xingyuanでは、モータ(58または85 kW)と、各オーダーでマッチングバッテリーとCLTC範囲を組み合わせ、リストのテストサイクルに再ラベルCLTCではなく変換します。 リチウムイオン電池EVとして、船舶貨物は、電池駆動車(実車UN3556)の現物IMDG分類に従い、輸送ガイドを参照してください。 電池の製造者およびピークの充満力はOEMデータを保たせました。
 
 ## 支払の前に海外バイヤーの証明
 1. バッテリーとCLTC範囲のモータオプションを一致させます。 VINビルドラインを取得します。

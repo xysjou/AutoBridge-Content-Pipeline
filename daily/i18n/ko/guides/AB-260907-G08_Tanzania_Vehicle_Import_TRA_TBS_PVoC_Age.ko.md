@@ -16,7 +16,7 @@ Tanzania is a single-country market with a deliberately two-track import system,
 
 ## 트랙 하나 - TBS: PVoC 및 적합 증명서
 
-TBS operates the Pre-Export Verification of Conformity (**PVoC**) programme under section **4(1)(s) of the Standards Act No.2 of 2009**. 기계장치는 정면 적재됩니다: 모든 PVoC 규제 위탁 위탁은 탄자니아**에 상품이 발송되기 전에 Conformity (CoC)의 ** 증명서가 있어야 합니다. TBS는 CoC가 ** 거절 또는 처벌 **없이 탄자니아 항구에 도착하는 것을 일반적으로 주장한다. 실제 선행 작업 - 물리적 검사, 관련된 실험실 테스트, 문서 검토 및 필요한 곳, 공장 검사 - TBS-authorised 검사 기관에 의해 수행됩니다.
+TBS는 선적전 적합성 검증을 운영한다 (**PVoC**) programme under section **4(1)(s) of the Standards Act No.2 of 2009**. 기계장치는 정면 적재됩니다: 모든 PVoC 규제 위탁 위탁은 탄자니아**에 상품이 발송되기 전에 Conformity (CoC)의 ** 증명서가 있어야 합니다. TBS는 CoC가 ** 거절 또는 처벌 **없이 탄자니아 항구에 도착하는 것을 일반적으로 주장한다. 실제 선행 작업 - 물리적 검사, 관련된 실험실 테스트, 문서 검토 및 필요한 곳, 공장 검사 - TBS-authorised 검사 기관에 의해 수행됩니다.
 
 ### 중고 모터 차량은 전용 PVOC 범주입니다.
 
@@ -29,14 +29,14 @@ TBS operates the Pre-Export Verification of Conformity (**PVoC**) programme unde
 TRA의 공식 수입 절차에 따르면, 수입은 ** 동부 아프리카 커뮤니티 세관 관리 법 (EACCMA) 2004 **에서 명확하게됩니다. 실제 순서는:
 
 1. 수입업자는 ** 라이센스 정리 및 운송 에이전트 (CFA)**를 임명합니다.
-2. 선언은 **Tanzania Customs Integrated System (TANCIS)을 통해 온라인으로 이루어집니다 ** (본토)  and  Zanzibar (아),  and  agents are asked to lodge documents **at least seven days before the goods arrive**.
+2. 선언은 **Tanzania Customs Integrated System (TANCIS)을 통해 온라인으로 이루어집니다 ** (본토)  and  Zanzibar (아),  대리인은 서류를 제출하도록 요청받는다 **화물 도착 최소 7일 전**.
 3. 수입 문서 세트는 최종 청구서, 에이전트의 허가, 운송 문서 (B / L, AWB 또는 도로 위탁 참고), 포장 목록, 면제 문서, 및 - 명시적으로 - ** 다른 정부 기관에서 허용, 그들 중 지명되는 TBS**.
 
 즉, 마지막 점은 두 트랙이 만나는 곳이다: TBS CoC는 옵션 병렬 종이 작업이 아닙니다. 세관 파일이 예상되는 허용 중입니다. TRA는 별도로 실행 ** 모터 차량 등록 ** (소유권 및 관련 등록 문제의 변경), 이는 수입 의무 프로세스 자체보다는 명백하고, 후 명확한 단계입니다.
 
 ## 이 가이드는 deliberately 번호가 아닙니다.
 
-Several commercially important items could not be tied to a retrievable primary document at review  and  인증 작업으로 표시된 것이므로, 사실:
+상업적으로 중요한 일부 항목은 검토 시점에 열람 가능한 1차 문서와 연결되지 못했으며  인증 작업으로 표시된 것이므로, 사실:
 
 - ** 차 연령 제한 및 계산 기초. ** TBS는 전용 중고 모터 차량 절차 문서를 참조하지만, 연결 된 파일은 검토에 (반환되지 않은)을 검색하지 않았습니다. 제조 년 또는 첫 등록에서 실행되는 최대 차량 연령과 여부는 ** TBS / TRA 현재 문서** sourcing 주식 전에 확인해야합니다.
 - **차량용 부가가치세 및 배차 금액.** TRA는 모터 차량 계산기 도구를 제공하지만 고정 속도가 여기에 인용되지 않습니다. 정확한 HS 코드를 분류하고 ** 현재 TRA 관세 선 및 계산기 결과** 특정 차량에 대한.

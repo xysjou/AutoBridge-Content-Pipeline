@@ -34,7 +34,7 @@ El Delong (德龙) X3000 es el volumen de Shacman ** plataforma pesada de dump/t
 
 ## Motor de exportación oficial y otras clasificaciones
 
-- ** Exportación oficial 6 × 4 (VERIFIED)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI** por el sitio del Grupo Shacman; Shacman International lists 385/400/430 PS options  and  una velocidad máxima gobernada 80 km/h.
+- ** Exportación oficial 6 × 4 (confirmado por una fuente primaria)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI** por el sitio del Grupo Shacman; Shacman International lists 385/400/430 PS options  and  una velocidad máxima gobernada 80 km/h.
 - Las calificaciones más altas de China incluyen un 460 PS WP12.460E62 (338 kW 2200 N·m, China VI) y un 480 PS WP13.480E50 (353 kW, 12.54 L) — referencias de bases de datos de un solo proveedor para la comparación solamente.
 
 Al ordenar, equiparar la fuerza de caballo al modelo **motor sufijo y etapa de emisión**: un 430 PS China- El motor V no es el mismo producto certificado como un motor de exportación de 400 PS, aunque las salidas se ven cercanas.

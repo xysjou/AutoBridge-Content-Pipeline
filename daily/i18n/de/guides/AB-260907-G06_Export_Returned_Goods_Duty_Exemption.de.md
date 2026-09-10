@@ -24,7 +24,7 @@ Drei Bedingungen sind konjunktiv - alle drei müssen gelten:
 - **Zeit.** Die Wiedereinfuhr erfolgt innerhalb eines Jahres ab dem Datum der Ausfuhr.
 - ** Staat.** Die Waren sind unbenutzt, unverarbeitet und behalten den Zustand, in dem sie ausgeführt wurden.
 
-Dies ist keine pauschale Regel "Alles, was Chinesen frei nach Hause kommt"; eine Sendung, die im Ausland verkauft, verwendet, montiert oder modifiziert wurde, erfüllt nicht die ursprüngliche Zustandsbedingung.
+Dies ist keine pauschale Regel "Alles, was zollfrei nach China gelangt"; eine Sendung, die im Ausland verkauft, verwendet, montiert oder modifiziert wurde, erfüllt nicht die ursprüngliche Zustandsbedingung.
 
 ## "Originalstaat" ist eine Zollbestimmung, kein Versender-Label
 

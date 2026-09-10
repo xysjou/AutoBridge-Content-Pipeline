@@ -1,4 +1,4 @@
-# FAW جيفانج جي 6ب متعقب ثقيل: Engine, Gearbox, Axle and GCW Read as a Tractor-Spec Decision
+# FAW جيفانج جي 6ب متعقب ثقيل: Engine, Gearbox, المحور والوزن الإجمالي القاطَر كقرار مواصفات قاطرة
 ## بيانات SEO الوصفية
 - **عنوان SEO**: FAW جيفانج J6P تراكتور سبيك: مهندس، GCW " مذكرات التصدير "
 - **وصف Meta**: Chinese-market  FAW  Jiefang J6P heavy tractor — Xichai  CA6DM2  460  PS/2300  N·m China- VI  diesel, 4 × 2/6 × 4/8 × 4 مخططات 10–16-speed صندوق تروس  ~40 t  GCW  class,  and  ويحتاج المشترين إلى عمليات مراقبة التصدير.

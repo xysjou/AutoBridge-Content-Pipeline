@@ -55,7 +55,7 @@ Kein statischer Exportpreis und kein chinesischer MSRP wurden in diesem Forschun
 **Welchen Motor benutzt er?** A SAIC π 2.0 L Turbodiesel in 110 kW (150 PS) oder 130 kW (177 PS) Qualitäten,  with 375 or 400–420 N·m.
 **Ist es Hinterradantrieb?** Ja, RWD mit Vordermotor, mit zwei Hinterrädern in geeigneten Konfigurationen.
 **Welche Getriebe werden angeboten?** A 6-speed Automatik oder ZF 8-speed Automatik, abhängig von der Klasse.
-**Warum muss ich einen Modellcode zitieren?** Radstand, Dach, Sitze, Achse  and  GVW differ across homologated V90 configurations; Nur der Code legt die Spezifikation fest.
+**Warum muss ich einen Modellcode zitieren?** Radstand, Dach, Sitze, Achse und GVW unterscheiden sich über die homologierten V90 configurations; Nur der Code legt die Spezifikation fest.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: none secured in repository

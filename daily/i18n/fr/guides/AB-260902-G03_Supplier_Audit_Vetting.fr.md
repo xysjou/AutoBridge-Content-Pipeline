@@ -101,7 +101,7 @@ Une analyse de licence prouve qu'une entreprise existe, et non qu'elle peut expo
 **Comment puis-je vérifier la licence d'une entreprise chinoise?** Interrogez indépendamment gsxt.gov.cn en utilisant le Code Unified Social Credit; vérifiez le nom, la portée, la représentation légale et tout enregistrement d'anomalie.
 **Un certificat CCC prouve-t-il des droits à l'exportation?** Non. Le CCC est la certification des produits; la qualification à l'exportation repose en outre sur l'annonce du MIIT et sur la liste actuelle de qualification à l'exportation du MOFCOM.
 **Le compte bénéficiaire est un nom différent de la société — est-ce normal?** C'est l'un des signaux de risque les plus clairs; arrêtez et revérifiez avant de payer.
-**What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC  and  le quai de chargement, contre-vérifiés par rapport aux réclamations.
+**Qu'est-ce qui prouve qu'un fournisseur exporte réellement?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC  and  le quai de chargement, contre-vérifiés par rapport aux réclamations.
 
 ## Enregistrement d'image
 - IMAGE_ASSET_PATH: none secured in repository

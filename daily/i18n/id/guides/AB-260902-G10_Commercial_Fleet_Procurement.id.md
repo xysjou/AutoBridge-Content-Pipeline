@@ -29,7 +29,7 @@ Spesifikasikan, secara tertulis, realitas operasi (per komersil-kendaraan pengua
 ## Langkah 3 - Menulis Tender- Grade Penerimaan Kriteria
 Hindari "terlihat sama, membangun lemah" sengketa dengan keras, diukur parameter kontrak. A ** tender Cina nyata ** untuk truk dump (Hunan Road & Bridge, Dushanbe - Tajikistan proyek, 15 unit; Dokumen tender tervertifid) mengikat pemasok ke: Tubuh kargo 15 m **, * T700 memakai baja tahan peluru **, lantai ** £10 mm **, samping * £8 mm **, yang menentukan jumlah gear dan hoist tipe. Terapkan disiplin yang sama: nama mesin gearbox merek axle dan model, kelas baja dan ketebalan piring, volume tubuh, merek ban, standar cat weld, dan metode inspeksi (saksi pabrik, inspeksi ketiga, atau penerimaan kedatangan).
 ## Langkah 4 - Vet Exporter Terhadap ** 2026 ** Kejiwaan Rezim (resmi)
-Peraturan ekspor kendaraan Cina kini berlabuh dalam dokumen primer saat ini (terVERIFIED):
+Peraturan ekspor kendaraan Cina kini berlabuh dalam dokumen primer saat ini (terdikonfirmasi sumber primer):
 - ** MOFCOM General Office Notice pada 2026 ekspor mobil sepeda motor-lisensi (商办贸函 2025: 408 号, 28 Sep 2025) ** moves aplikasi online (ecomp.licence.org.cn), dengan local- review awal perdagangan  and  Daftar kualifikasi yang diterbitkan.
 - ** Pengumuman Gabungan No. 54 (2025, MOFCOM MIIT GAC SAMR) ** Tempat-tempat ** pure-kendaraan penumpang listrik (referensi HS 8703801090) di bawah sebuah exports rezim dari 1 Januari 2026 **.
 - Daftar kualifikasi 2026 perusahaan diterbitkan 30 Dec 2025; pemberitahuan terpisah ** four-deserment (Nov 2025) mengencangkan manajemen ekspor mobil **, membutuhkan area ekspor-lisensi (merek, model, pendaftaran dan transfer- for- ekspor tanggal) untuk mencocokkan sertifikat pendaftaran kendaraan.

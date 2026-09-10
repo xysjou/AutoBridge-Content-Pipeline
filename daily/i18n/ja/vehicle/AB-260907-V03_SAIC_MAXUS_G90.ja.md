@@ -19,7 +19,7 @@ SAIC MAXUS G90は、エグゼクティブシャトル、家族、フリートの
 - ボディ: five-door,  six-/seven-seat large MPV, フロントエンジン/フロントホイール駆動、 **デュアルパワースライドドア**(独立したデータベースを横断的にチェック)。
 - 参照次元:** 5280の× 1998の× 1845 mmのホイールベース3200 mm...
 
-A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition — three usable rows  and  大きい小屋–しかしそれはまた実用的な輸出制約を置きます: 車両の登録ルールを検証します。 ガレージ/フェリー/容器次元,  and  the licence category required to drive a loaded seven-seat version in the target market.
+A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition — three usable rows  and  大きい小屋–しかしそれはまた実用的な輸出制約を置きます: 車両の登録ルールを検証します。 ガレージ/フェリー/容器次元,  と仕向市場で満載7人乗りを運転するのに必要な免許区分.
 
 ## パワートレイン — 固定された1本のガソリンライン
 
@@ -37,7 +37,7 @@ G90は**six-seat(2+2+2)**と**seven-seat(2+2+3)**の構成で提供され、選�
 - 選択したトリムの2列のキャプテン・チェア・バース・ベンチの内容を確認します。
 - マーケティングイメージではなく、同封証明書にシートカウントを合わせます。
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), illustrating how much luggage space depends on whether the third row is in use; トリム依存症として正確な数字を扱います。
+荷室容積はおおよそ以下で示される **1010.5–2179 L** 3列目を格納した状態 (single-source), 3列目使用の有無で荷室が大きく変わることを示す; トリム依存症として正確な数字を扱います。
 
 ## 大型MPV買い手が確認すべきこと
 

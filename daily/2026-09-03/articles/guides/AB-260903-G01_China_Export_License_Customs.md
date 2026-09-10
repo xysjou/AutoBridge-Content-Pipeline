@@ -18,7 +18,7 @@ Most failed first shipments fail on the **China side**, not the destination: the
 ## Step 1 — Confirm Which Licence Regime Your Vehicle Falls Under
 China does not use one blanket "car export permit". Distinguish the tracks:
 - **New-energy / BEV passenger cars:** vehicles propelled solely by a drive motor and carrying a VIN (reference HS 8703801090) are under **export-licence administration** jointly overseen by MOFCOM, MIIT, GAC and SAMR (TIME_SENSITIVE — confirm the current notice and exact HS code against the year's tariff schedule).
-- **Used vehicles:** the State operates an **export-licence regime administered by MOFCOM**, and licence details must match the motor-vehicle registration certificate (VERIFIED, four-ministry notice).
+- **Used vehicles:** the State operates an **export-licence regime administered by MOFCOM**, and licence details must match the motor-vehicle registration certificate (confirmed by primary sources, four-ministry notice).
 - **Conventional new vehicles / motorcycles:** handled through the **annual export-licence filing** described next.
 The exact commodity code and its regulatory condition must be confirmed against the current Import & Export Tariff and the latest MOFCOM announcement — do not reuse last year's HS assumption.
 
@@ -26,7 +26,7 @@ The exact commodity code and its regulatory condition must be confirmed against 
 MOFCOM issues an **annual notice arranging automobile and motorcycle export-licence applications**. Enterprises file for qualification; **modified/upfit vehicles must upload performance evidence such as export customs declarations and chassis purchase invoices**. Practical implication for a trader: qualification is not instant — align the annual filing window with your shipping plan, and keep chassis/upfit paperwork because it is evidence of real export performance.
 
 ## Step 3 — The Used-Car 180-Day Rule (a hard, dated requirement)
-Per the four-ministry notice on strengthening used-car export management (VERIFIED): **from 1 January 2026, where a vehicle being applied for export was registered no more than 180 days earlier, the applicant must supplement the OEM's After-Sales Maintenance Service Confirmation; otherwise the licence will not be issued.**
+Per the four-ministry notice on strengthening used-car export management (confirmed by primary sources): **from 1 January 2026, where a vehicle being applied for export was registered no more than 180 days earlier, the applicant must supplement the OEM's After-Sales Maintenance Service Confirmation; otherwise the licence will not be issued.**
 - This is a China-side, dated requirement — quote it with the date and re-verify the notice before relying on it.
 - The licence information must be consistent with the vehicle's registration certificate; mismatches block issuance.
 

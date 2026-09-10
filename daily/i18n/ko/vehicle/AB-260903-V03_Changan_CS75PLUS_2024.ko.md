@@ -30,7 +30,7 @@ ICE SUV의 구매 결정은 엔진 코드, 토크 밴드, 기어 박스 및 배�
 - 길이 폭 높이: ** 4710 1865 1710 mm **
 - 휠베이스: ** 2710 mm **
 - 좌석: ** 5 **
-4th-generation 자동차는 더 큰 (수송 4770 1910 mm, 2800 mm 휠베이스)입니다. Keep the two dimension sets on separate lines; 그들은 둘 다 콘테이너 stowage 및 고객 직면 spec 테이블을 손상합니다.
+4th-generation 자동차는 더 큰 (수송 4770 1910 mm, 2800 mm 휠베이스)입니다. 두 치수 세트를 별도 줄로 유지하라; 그들은 둘 다 콘테이너 stowage 및 고객 직면 spec 테이블을 손상합니다.
 
 ## 드라이버 지원 및 캐빈
 3rd-gen 챔피언 라인은 적용 가능한 등급에 L2 지원 레벨을 갖추고 있습니다 **, 풀-속도 범위 ACC, 차선 - 유지 및 540 ° 서라운드 뷰 이미지를 포함하여. Changan의 2024 연례 보고서 프레임 L2 새로운 플랫폼에 따라 표준화; 여전히 정확한 등급의 센서 기능 목록 확인 - "L2" 카테고리는 보장 된 동일한 기능 세트가 아닙니다.
@@ -52,7 +52,7 @@ ICE SUV의 구매 결정은 엔진 코드, 토크 밴드, 기어 박스 및 배�
 
 ## 자주 묻는 질문
 **1.5T 및 2.0T CS75 PLUS의 차이점은 ** 1.5T는 138 kW/300 N·m를 일으킵니다; 2.0T는 171 kW/390 N·m를 일으킵니다; 둘 다 Aisin 8AT.를 이용합니다
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  1.5T 개정; 이 페이지는 3rd-gen 챔피언을 다룹니다.
+**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4세대가 해당 연도 9월부터 중국에 출시 2024 with a larger body  and  1.5T 개정; 이 페이지는 3rd-gen 챔피언을 다룹니다.
 ** CS75 PLUS는 모든 휠 드라이브가 ** 중국 3rd-gen 라인 참조는 전면 휠 드라이브입니다. 특정 트림에 대한 AWD 주장을 확인하십시오.
 **모든 등급에 동일한 L2 패키지가 ** 등급 별으로 그것을 대우하십시오; 정확한 VIN에 ACC/lane/540 ° 사진기 내용을 확인하십시오.
 

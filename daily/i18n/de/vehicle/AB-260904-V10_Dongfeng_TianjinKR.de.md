@@ -56,7 +56,7 @@ Es wird kein Ausfuhrpreis veröffentlicht. Erkundigen Sie sich bei **Zielland ·
 
 ## Häufig gestellte Fragen
 **Ist das Kühlgerät Teil des Dongfeng-Chassis?** Nein - das Chassis ist Dongfeng; Die isolierte Box und die Kühleinheit sind ein Bodybuilder-Upfit und benötigen ein eigenes Spezifikationsblatt.
-**Was ist die GVW und Boxlänge?** 18 t GVW mit einem 6.8 m großen Kasten auf einem 5000 mm Radstand für die dokumentierte KR.
+**Was sind GVW und Kastenlängeänge?** 18 t GVW mit einem 6.8 m großen Kasten auf einem 5000 mm Radstand für die dokumentierte KR.
 **Welcher Motor?** Dongfeng Cummins B6.2NS6B245 bei 180 kW (245 PS) 1000 N·m, durch ein Fast 8-speed Getriebe zu einer Dana 416 Achse.
 **Wie unterscheidet sich der KR vom KR Plus?** Der KR Plus ist größer: 330 PS D7.0 Motor, 7.88 m Box, 5800 mm Radstand – halten Sie sie getrennt.
 

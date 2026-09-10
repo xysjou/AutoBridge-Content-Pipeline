@@ -1,4 +1,4 @@
-# MBL, HBL, Telex ปลดปล่อย หรือ Sea Waybill? Choosing a Vehicle's Release Method Under the 2025 Maritime Code
+# MBL, HBL, Telex ปลดปล่อย หรือ Sea Waybill? การเลือกวิธีตรวจปล่อยรถยนต์ภายใต้ 2025 Maritime Code
 
 ## ข้อมูลเมตา SEO
 - **ชื่อ SEO**: Vehicle Export Bill of Lading Guide —  MBL/HBL /Telex/ SWB  + Maritime Code Arts. 80/81/87

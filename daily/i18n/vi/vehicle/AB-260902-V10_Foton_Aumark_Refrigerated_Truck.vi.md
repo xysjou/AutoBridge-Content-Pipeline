@@ -15,7 +15,7 @@
 
 ## Làm sao để xem một xe tải được giữ kín?
 
-Một cái đá ngầm thực sự là ba sản phẩm trong một cái: Một bộ khung, một hộp đựng hàng hóa được cách nhiệt và một bộ phận đông lạnh — thường được làm bởi các nhà sản xuất khác nhau. Comparing "reefer truck prices" without naming all three is misleading. Xe tham khảo là xe **Aumark Jieyun (捷运) 150 PS 4 × 2,  whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton cũng bán Suyun (速运) với quyền lực Foton Cummins. Những con số chi tiết về A Kiệt là mã nguồn riêng Các chi tiết về Cummin Suyun được kiểm tra chéo với tài liệu chính thức của Foton. 360che
+Một cái đá ngầm thực sự là ba sản phẩm trong một cái: Một bộ khung, một hộp đựng hàng hóa được cách nhiệt và một bộ phận đông lạnh — thường được làm bởi các nhà sản xuất khác nhau. Comparing "reefer truck prices" nếu không nêu đủ cả ba sẽ gây hiểu nhầm. Xe tham khảo là xe **Aumark Jieyun (捷运) 150 PS 4 × 2,  whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton cũng bán Suyun (速运) với quyền lực Foton Cummins. Những con số chi tiết về A Kiệt là mã nguồn riêng Các chi tiết về Cummin Suyun được kiểm tra chéo với tài liệu chính thức của Foton. 360che
 
 ## Canh lề và đường
 
@@ -68,7 +68,7 @@ Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều h
 
 **Tại sao cái thùng tải chỉ có 1.1 t trên một chiếc xe 4.495 t? Hộp cách nhiệt và bộ phận làm lạnh tăng cân khá nhiều (~ 3.2 t), để lại ~ 1.1 t; luôn luôn tính lại trọng lượng cho chính xác cơ thể/ đơn vị.
 ** "Patalone/in phụ thuộc" nghĩa là gì? Nó có động cơ riêng và động cơ xe tải làm mát độc lập. Nó hữu dụng cho việc đi lại dài và khi đậu xe; đơn vị điều khiển xe rẻ hơn nhưng ngừng làm mát với động cơ.
-**Điều tốt hơn,  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  ngân sách.
+**Điều tốt hơn,  Yunnei or Cummins power?** bản tham chiếu Jieyun dùng động cơ Yunnei 2.5 L 150 PS; bản Suyun dùng Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  ngân sách.
 **What temperature can it hold?** The listed domestic Sanfeng 590 targets −18 °C frozen work; Điểm đặt được là có thể đạt được, tùy thuộc vào đơn vị đã chọn và cách cách nhiệt, vậy hãy xác định nó.
 **Tại sao không có cái giá nào? Giá của Refer phụ thuộc rất nhiều vào hộp và đơn vị làm mát; không có 2026-09-02 đáng tin cậy nào được thu, và người ta sẽ không ước lượng được giá đó.
 

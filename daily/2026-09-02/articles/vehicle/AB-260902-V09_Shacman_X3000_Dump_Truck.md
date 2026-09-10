@@ -34,7 +34,7 @@ The Delong (德龙) X3000 is Shacman's volume **heavy dump/tipper platform**, ex
 
 ## Official Export Engine and Other Ratings
 
-- **Official export 6×4 (VERIFIED)**: Weichai 11.6 L inline-6, **400 PS (294 kW) / 2000 N·m, China VI** per the Shacman Group site; Shacman International lists 385/400/430 PS options and an 80 km/h governed top speed.
+- **Official export 6×4 (confirmed by primary sources)**: Weichai 11.6 L inline-6, **400 PS (294 kW) / 2000 N·m, China VI** per the Shacman Group site; Shacman International lists 385/400/430 PS options and an 80 km/h governed top speed.
 - Higher China ratings include a 460 PS WP12.460E62 (338 kW/2200 N·m, China VI) and a 480 PS WP13.480E50 (353 kW, 12.54 L) — single-source database references for comparison only.
 
 When ordering, match horsepower to the **engine model suffix and emission stage**: a 430 PS China-V engine is not the same certified product as a 400 PS export engine, even though outputs look close.

@@ -20,7 +20,7 @@ Trước khi một người xuất khẩu ở Trung Quốc có thể nhận đư
 Xuất hóa biên lai được xử lý thông qua kênh ngân hàng; chuyển sang RMB theo quy tắc của tài khoản. SaFE giám sát giao dịch FX thông qua một **ggrilate (总量) thẩm tra** tương ứng với dòng chảy ** (các tuyên bố quen thuộc) với dòng chảy **Sluids** (các bản tóm tắt), thay vì chấp nhận mỗi giao dịch trước. Các tàu Enterprise được phân loại một cách năng động; sự khác biệt giữa những gì được tuyên bố là xuất khẩu và những gì được tiếp thu thu thu hút sự chú ý của người ta.
 
 ## Nơi mà công việc được thực hiện
-Đăng ký theo quy luật  and  Báo cáo được xử lý tại ngân hàng  and  through the digital foreign-exchange platform (ASOne/数字外管); Chi nhánh SAFE cho ra chỉ thị, nhưng tất cả đều có quyền — chi nhánh không phải là điều hành riêng lẻ. Giữ lại giấy khai báo hải quan, biên lai ngân hàng và hóa đơn liên kết để sự hòa giải tổng hợp trong suốt thời gian đó.
+Đăng ký theo quy luật  and  Báo cáo được xử lý tại ngân hàvà thông qua nền tảng ngoại hối số (ASOne/数字外管); Chi nhánh SAFE cho ra chỉ thị, nhưng tất cả đều có quyền — chi nhánh không phải là điều hành riêng lẻ. Giữ lại giấy khai báo hải quan, biên lai ngân hàng và hóa đơn liên kết để sự hòa giải tổng hợp trong suốt thời gian đó.
 
 ## Danh sách thao tác
 1. Bắt giữ quyền ngoại giao, sau đó hoàn thành việc đăng ký thư mục FX tại ngân hàng ** trước khi nhận biên lai đầu tiên**.

@@ -39,7 +39,7 @@ Grafik roda 2930 mm dan 2+2+3 adalah cerita komersil: kursi kapten baris tengah 
 | Jangkauan listrik | 150 km CLTC |
 | Power export | 3.3 kW external debit (V2L) dan 5.5 kW V2V (single-source; konfirmasi per OEM) |
 
-## PHIV vs Glory HEV-Keep the Energy Type Invisible
+## PHEV versus HEV Glory—jaga agar jenis energi tidak tertukar
 - ** E8 Energi Baru (halaman ini): PHIV ** - port pengisian eksternal, 25.57 kWh traksi baterai, kabel CLTC 150 km berjalan.
 - ** E8 Glory (荣耀): HEV * - tidak ada port pengisian; itu sendiri-biaya dan tidak dapat ditancapkan masuk
 - Mengkueri jangkauan listrik PLEV atau pengisian untuk unit HEV Glory (atau harga PHIV terhadap peralatan HEV) adalah yang berulang yang tidak cocok pada plat nama ini. Harga panduan Cina juga berbeda (PHIV dari sekitar RMB 209, 800; Glory HEV dari sekitar RMB 166, 800 - domestik, waktu-sensitif referensi saja).

@@ -1,4 +1,4 @@
-# Sinotruk HOWO T7H Tractor Truck - 6 × 4 Heavy Hauler Specs and Export Configuration Guide
+# Sinotruk HOWO T7H Tractor Truck - 6 × 4 مواصفات القاطرة الثقيلة ودليل تهيئة التصدير
 
 ## بيانات SEO الوصفية
 - **عنوان SEO**: Sinotruk HOWO T7H 6x4 Tractor Specs, Engines ' Export Guide

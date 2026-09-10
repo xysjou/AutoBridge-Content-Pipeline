@@ -27,7 +27,7 @@ El punto de compra importante no es un único número "correcto", pero que **out
 ## Cargo Bed and Payload — Verificar, No Suponga
 Para una recogida de la cama y la carga útil nominal son el núcleo comercial, y son de versión-dependiente:
 - Una referencia de los camas de pasajeros alrededor de 1520 × 1520 mm (interno) se registra en una única fuente de base de datos; confirme la longitud/anchura interna/a la altura en el taxi/cama elegido (estándar vs cambios largos).
-- **Payload, GVW, towing rating, axle ratings and tyre load index were not in the verified fact base and are not invented.** Solicitelos de la hoja oficial/comercial GWM para la versión exacta y el mercado de destino, que varían con suspensión, carpintería y clasificación comercial de pasajeros-vs.
+- **Payload, GVW, towing rating, las capacidades por eje y el índice de carga de los neumáticos no figuraban en la base de hechos verificada y no se inventan.** Solicitelos de la hoja oficial/comercial GWM para la versión exacta y el mercado de destino, que varían con suspensión, carpintería y clasificación comercial de pasajeros-vs.
 ## Mapa de Versión para Ordenar
 | Versión | Cara | Objetivo de orden |
 |---|---|---|

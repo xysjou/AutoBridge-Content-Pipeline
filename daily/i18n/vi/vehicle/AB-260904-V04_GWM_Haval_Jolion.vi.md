@@ -55,7 +55,7 @@ Không có giá xuất khẩu được xuất khẩu và không có gì được
 ** Có phải Jolil cùng chiếc xe với nhà Haval Chulian? Ở cấp độ cơ bản có — lịch sử của GWM phiên bản của Chulian như là JOLION (được khai thác ở Nam Phi/Saular; nhưng các huấn luyện viên năng lượng cụ thể thị trường vẫn khác nhau và không thể trao đổi.
 Jolion có phải là người lai không? Bên ngoài biển có tài liệu chứa 1.5L DHT HOV (~ 190 PS / 375 N·m); xe tham khảo của Trung Quốc ở đây là 1.5T máy gia tốc — giữ chúng trong những cột riêng biệt.
 ** Cái máy quay 1.5T của Trung Quốc là gì? Sức mạnh là 110 kW; 210 N·m và 7DCT là những con số thị trường Úc, vì vậy họ không được xác nhận là giá trị Trung Quốc chờ đợi nguồn thứ hai của Trung Quốc.
-**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; xác nhận riêng xe Trung Quốc.
+**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L là số liệu của phiên bản xuất khẩu; xác nhận riêng xe Trung Quốc.
 
 ## Thu ảnh
 - Không có bảo mật trong kho

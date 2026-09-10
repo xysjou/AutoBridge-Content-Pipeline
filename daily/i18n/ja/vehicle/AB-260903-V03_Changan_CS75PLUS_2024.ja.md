@@ -13,7 +13,7 @@
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 4th 世代から 3rd-Gen のチャンピオンを分けて下さい
-CS75 PLUSはChanganの中型のSUV家族です。 このページでは、** 3rd-generation チャンピオン ライン、モデル 年 2024 (REFERENCE マーケット) をカバーしています。 中国語** A **4th generation entered the China market from September 2024** with a longer body  and  ホイールベース  and  改定された1.5Tの調子。 数か月に渡りCS75 PLUS名で取引された世代の両世代が、注文ノートは「CS75 PLUS 2024」のみがあいまいで、VINに対するロック生成、エンジン、ギアボックスです。
+CS75 PLUSはChanganの中型のSUV家族です。 このページでは、** 3rd-generation チャンピオン ライン、モデル 年 2024 (REFERENCE マーケット) をカバーしています。 中国語** A **4世代が同年9月から中国市場に投入 2024** with a longer body  and  ホイールベース  and  改定された1.5Tの調子。 数か月に渡りCS75 PLUS名で取引された世代の両世代が、注文ノートは「CS75 PLUS 2024」のみがあいまいで、VINに対するロック生成、エンジン、ギアボックスです。
 
 ## パワートレイン:1.5T対2.0T(ICEフォーカス)
 | アイテム | 1.5T (JL473ZQ7の青い鯨) | 2.0T (JL486ZQ5) |
@@ -30,7 +30,7 @@ ICE SUV の購買決定はエンジン コード、トルク バンド、変速�
 - 長さ/幅/高さ:** 4710 1865 1710 mm **
 - ホイールベース: ** 2710 mm **
 - 座席: ** 5 **
-4th-generation車が大きい(4770 1910 mmを報告) 2800 mm ホイールベース Keep the two dimension sets on separate lines; コンテナの保管と顧客対応のスペック表を両方破損させる。
+4th-generation車が大きい(4770 1910 mmを報告) 2800 mm ホイールベース 二つの寸法セットを別行に保つ; コンテナの保管と顧客対応のスペック表を両方破損させる。
 
 ## 運転補助・キャビン
 3rd-gen チャンピオンラインは、フルスピードレンジ ACC、レーンキー、540 ° サラウンドビューイメージを含む、適用グレードの** L2の補助レベルに装備されています。 Changanの2024年年次報告書は、新しいプラットフォーム全体で標準化されたL2をフレーム化しました。 "L2"は、保証された同一の機能セットではなく、カテゴリです。
@@ -52,7 +52,7 @@ ICE SUV の購買決定はエンジン コード、トルク バンド、変速�
 
 ## よくある質問
 **1.5Tと2.0T CS75 PLUSの違いは何ですか?** 1.5T は 138 kW/300 N·m を作り出します; 2.0T は 171 kW/390 N·m を作り出します; 両方とも Aisin 8AT. を使用します
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  改定された1.5T; このページでは、3rd-gen チャンピオンをカバーしています。
+**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4世代が同年9月から中国で発売 2024 with a larger body  and  改定された1.5T; このページでは、3rd-gen チャンピオンをカバーしています。
 **CS75 PLUSはオールホイールドライブがありますか?** ここで参照される中国3rd-genラインは、フロントホイールドライブです。特定のトリムに対してAWDクレームを確認してください。
 **全てのグレードにL2パッケージは同一ですか?** 等級別にそれを扱う;正確なVINのACC/lane/540 °のカメラの内容を確かめて下さい。
 

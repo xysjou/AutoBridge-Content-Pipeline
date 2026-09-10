@@ -61,7 +61,7 @@
 ## 买家 FAQ
 
 **What does the 8×4 430 reference include?** A Weichai 11.596 L 430 PS engine, 快速12-speed手册, 31 t 千兆瓦  and  a 7.6×2.35×1.5米后尖车体, 360che
-**Is there an official export version?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, 中国六国)  and  lists 385/400/430 PS options internationally.
+**是否存在官方出口版本?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, 中国六国)  and  lists 385/400/430 PS options internationally.
 ** ** 市场在燃料硫含量和进口规则上有所不同,因此中国V/VI和较低的欧级校准并存;发动机与目的地匹配.
 ** ** 参考文献8×4(单源)约15.37 t,受目的地轴/GVW规则和最终体积限制.
 ** ** 捕获的建筑使用快速手动传输(12/13-speed);确认而不是假设自动.

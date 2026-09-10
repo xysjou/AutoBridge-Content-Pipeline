@@ -13,7 +13,7 @@
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## バイヤーのコンテキスト: 値にピンする前に生成をピン留め
-エムグレインは、高ボリュームのコンパクトサロンと価格感度エントリーカー市場のための自然な候補です。 輸入業者のトラップは世代別です。 このページは** 4th-generation 2024中国市場車(REFERENCE MARKET)をカバーしています。 中国の**、  while an **all-new 5th generation launched in China in November 2025** with a longer body, ホイールベース  and  より低い開始価格。 Quoting a 2024 unit against 5th-gen dimensions — or vice versa — is the single most common order error on this nameplate. ※中国市場参照仕様の下の図を扱います** 市場エンジンのチューン、排出段階および装置はこのシートによって、ローカルの均質化によって、管理されます。
+エムグレインは、高ボリュームのコンパクトサロンと価格感度エントリーカー市場のための自然な候補です。 輸入業者のトラップは世代別です。 このページは** 4th-generation 2024中国市場車(REFERENCE MARKET)をカバーしています。 中国の**、  while an **all-new 5世代が同年11月に中国で発売 2025** with a longer body, ホイールベース  and  より低い開始価格。 Quoting a 2024 unit against 5th-gen dimensions — or vice versa — この銘柄で最も多い発注ミスである. ※中国市場参照仕様の下の図を扱います** 市場エンジンのチューン、排出段階および装置はこのシートによって、ローカルの均質化によって、管理されます。
 
 ## 中国の市場の変化とドライブライン(ICEフォーカス:エンジン、ギアボックス、燃料、排出)
 | アイテム | 4th-gen Emgrand 2024 (China reference) |
@@ -32,7 +32,7 @@ ICE車の場合、輸出業者の質問は、**エンジンコード/チュー�
 - 長さ/幅/高さ:** 4638 1820 1460 mm **
 - ホイールベース: ** 2650 mm **
 - 座席: ** 5 **
-これらは、4th-gen車のための中国環境の寸法です。 The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — do not blend the two on a spec line or in marketing material.
+これらは、4th-gen車のための中国環境の寸法です。 The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — 仕様行や販促資料で両者を混ぜてはならない.
 
 ## 年式境界(可視)
 - **このページ:** 4th 生成、モデル年 2024.

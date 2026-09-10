@@ -80,7 +80,7 @@ Aucun prix faisant autorité n'a été capturé — le prix des récifaux varie 
 
 **Pourquoi la charge utile est-elle seulement de 1.1 t environ sur un camion 4.495 t?** La caisse isolée et le groupe frigorifique ajoutent un poids de bordure important (~ 3.2 t), laissant ~ 1.1 t; toujours recalculer la charge utile pour la caisse/unité exacte.
 **Que signifie "unité autonome/indépendante"?** Il a son propre moteur et se refroidit indépendamment du moteur de camion — utile pour le transport long et quand stationné; les unités à moteur sont moins chères mais arrêtent le refroidissement avec le moteur.
-**Quelle est la meilleure, Yunnei ou Cummins pouvoir?** La référence Jieyun utilise un Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  budget.
+**Quelle est la meilleure, Yunnei ou Cummins pouvoir?** La référence Jieyun utilise un Yunnei 2.5 L 150 PS; le Suyun reçoit un Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  budget.
 ** Quelle température peut-elle supporter?** Le Sanfeng 590 national inscrit cible - 18 °C travaux congelés; le point de consigne réalisable dépend de l'unité choisie et de l'isolation, ainsi préciser.
 **Pourquoi aucun prix n'est-il donné?** Le coût du rééfert dépend fortement de la boîte et de l'unité de refroidissement; aucun prix fiable de 2026-09-02 n'a été saisi et on ne l'estimera pas.
 

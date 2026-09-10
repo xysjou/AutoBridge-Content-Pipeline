@@ -50,7 +50,7 @@ Thích nghi không thay thế quyền truy cập thị trường: phương tiệ
 Có phải mỗi chiếc xe Trung Quốc cần bộ đồ điều chỉnh vùng Vịnh? Không phải tự động — những đồ vật ở đây là điểm để đánh giá với OEM/upfitter mỗi mô hình; một số Trung Quốc đã xây dựng sẵn phong bì.
 **Không khí làm lạnh không thể chấp nhận được với hệ thống điện từ vùng Vịnh hả? Đừng quyết định bằng cách sử dụng ngón tay cái - hãy yêu cầu OEM dữ liệu nhiệt cho phong bì mục tiêu; làm mát lỏng là một lựa chọn để đánh giá, chứ không phải một yêu cầu phổ biến được ghi nhận.
 ** Có phải kỹ thuật thích nghi giống như là đồng tính không?** Không, sự thích nghi là đánh giá kỹ thuật; sự phù hợp giữa GCC/GSO là một chiều hướng làm việc riêng biệt, bắt buộc và cả hai phải khớp với nhau.
-**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; a Chinese policy reference cites a −30 to 55 °C design target — neither is a Gulf legal limit.
+**Xe cần chịu được nhiệt độ nào?** One source describes ~40–50 °C Gulf summers; a Chinese policy reference cites a −30 to 55 °C design target — không con số nào là giới hạn pháp lý tại vùng Vịnh.
 Tôi tìm thấy tiêu chuẩn chính xác của GSO là ở đâu? Bắt đầu từ danh sách kỹ thuật GSO, sau đó mở đường quốc gia **của nước tiền định — SaSO/SABER cho Ả Rập Saudi, MolaT cho Mô-đun-me-E — bởi vì văn bản GSO được áp dụng trên toàn quốc. Hướng dẫn này trích dẫn không có số hiệu nhiệt/A cụ thể nào không thể xác minh trực tiếp; các ứng dụng kỹ thuật ở đây vẫn cần xác nhận OEM/upfitter.
 
 ## Thu ảnh

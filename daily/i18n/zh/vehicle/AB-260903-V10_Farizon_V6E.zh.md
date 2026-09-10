@@ -50,7 +50,7 @@ China Transport News (an industry news outlet) 报告 **February 2024 第一批�
 ** V6E型货运能力如何? ** 一座6立方米的货舱(长约1.6米参考), 带有负载导向的叶片弹簧后轴.
 参考基数包为35.2 kWh,大约260 km(工作状态);列出一个较大的电池组,但其确切数字必须在目录和VIN上确认,而不是引用。
 ** 90 km/h,电子限制——城市/最后一英里特征。
-**Has the V6E been exported?** Yes — an EU-spec batch was recorded shipped to Türkiye in Feb 2024; 出口建筑与中国货车并不自动相同。
+**Has the V6E been exported?** Yes — 有一批符合欧盟规格的车辆被记录发往ürkiye in Feb 2024; 出口建筑与中国货车并不自动相同。
 一台Wolong-ZF TZ185XS022型永久磁铁发动机,60 kW 220 N·m型.
 
 ## 图像记录

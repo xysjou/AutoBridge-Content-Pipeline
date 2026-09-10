@@ -24,7 +24,7 @@ TIR es un sistema de tránsito aduanero internacional que permite que un vehícu
 Una vez que se sellan los sellos aduaneros, el compartimento de carga debe permanecer sellado en tránsito; cualquier rotura, carga trans o daño debe ser manejado bajo el procedimiento TIR en lugar de informalmente. Por eso, la seguridad de carga y la construcción de compartimentos importan antes de la salida.
 
 ## China cronología y la expansión 2026
-China se adhirió en 2016, movido a la aplicación en todo el país en 2019,  and  the captured 2026 China customs measures **expand the applicable scope** (including additional scenarios such as cross-border e-commerce bonded traffic). Tratar la lista precisa de alcance de 2026 y detalles efectivos como un tiempo sensible y confirmar contra el anuncio actual de GACC.
+China se adhirió en 2016, movido a la aplicación en todo el país en 2019,  and  the captured 2026 China customs measures **expand the applicable scope** (incluidos escenarios adicionales como el tráfico bajo fianza del comercio electrónico transfronterizo). Tratar la lista precisa de alcance de 2026 y detalles efectivos como un tiempo sensible y confirmar contra el anuncio actual de GACC.
 
 ## Lista de verificación de funcionamiento
 1. Confirme la ruta cruza las partes contratantes TIR y elija un operador/asociación autorizado por TIR.

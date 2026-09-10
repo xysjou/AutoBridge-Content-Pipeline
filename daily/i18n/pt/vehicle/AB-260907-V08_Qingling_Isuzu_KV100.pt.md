@@ -40,7 +40,7 @@ Used-vehicle listings (a directory/listing classified source) show sample kerb m
 Duas armadilhas de identidade são importantes:
 
 1. **O mais novo 100P (4KB1) é uma linha de modelo diferente. O seu motor e especificação não se transferem para o KV100; do not blend 100P figures into a KV100 quotation.
-2. **Qingling KV100 ≠ global Isuzu ELF/N-series by default.** Qingling builds under its Isuzu relationship, mas plataforma  and  a parentesco com a marca não estabelece que o chinês KV100 seja idêntico em termos de especificação, homologação, peças ou garantia para um Elfo Isuzu vendido em outro lugar. De acordo com a regra da identidade modelo, **RELACIONADO_MODEL..ME_MODEL** sem uma declaração do OEM explícita; não cite valores globais de potência, torque ou durabilidade de Isuzu para o caminhão chinês.
+2. **Qingling KV100 ≠ global Isuzu ELF/N-series by default.** A Qingling constrói ao abrigo da sua relação com a Isuzu, mas plataforma  and  a parentesco com a marca não estabelece que o chinês KV100 seja idêntico em termos de especificação, homologação, peças ou garantia para um Elfo Isuzu vendido em outro lugar. De acordo com a regra da identidade modelo, **RELACIONADO_MODEL..ME_MODEL** sem uma declaração do OEM explícita; não cite valores globais de potência, torque ou durabilidade de Isuzu para o caminhão chinês.
 
 ## Limite de direção e exportação
 
@@ -76,7 +76,7 @@ Não nesta evidência: é construído por Qingling para a China e é tratado com
 
 ** O mais novo 100P é o mesmo camião? **
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) é uma linha de modelos separada cujos valores não devem ser fundidos numa especificação KV100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

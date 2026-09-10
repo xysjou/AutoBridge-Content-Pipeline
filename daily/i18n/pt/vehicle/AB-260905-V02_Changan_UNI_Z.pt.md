@@ -45,7 +45,7 @@ As ordens UNI-Z são fáceis de especificar porque o mesmo crachá cobre diferen
 
 ## Verificação do comprador no exterior antes do pagamento
 1. Confirme a configuração exata do PHEV e a capacidade da bateria por VIN; separe-a das construções do ICE UNI-Z.
-2. Reconcile CLTC 130 km against the destination test cycle.
+2. Reconcile CLTC 130 km face ao ciclo de ensaio do destino.
 3. Verificar conector/protocolo de carga DC e adequação de exportação de V2L para o mercado de destino.
 4. Obter documentação de homologação/emissões PHEV de destino em vez de inferir das especificações da China.
 5. Solicitar uma cotação de exportação atual (destino, quantidade, corte, LHD/RHD, porto, Incoterm) — nenhum preço é publicado aqui.

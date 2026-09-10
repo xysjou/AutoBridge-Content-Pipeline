@@ -34,7 +34,7 @@ Cái bẫy đặt tên là thật: 2024 ** 1.5T ** và 2025 ** 1.5TD ** là nh�
 
 ## Nền tảng và bố trí cho người mua biết gì
 
-Như một chiếc SUV đơn bánh xe trước, Nhà gạch được nhắm vào đường bộ.  and  urban-fleet use rather than four-wheel-drive off-road work. Những đường cắt cao hơn mang theo màn hình trung tâm lớn, tính năng hỗ trợ lái xe và thiết bị tiện lợi điển hình của phần, nhưng thiết bị chính xác được sắp xếp theo chu kỳ và năm. Xây dựng trật tự chống lại tờ cấu hình cho SKU thực sự; không giả sử một tính năng thấy trên một đơn vị đánh giá top-trim mở rộng đến chiếc xe cơ sở được trích dẫn.
+Như một chiếc SUV đơn bánh xe trước, Nhà gạch được nhắm vào đường bộ.  dùng cho đội xe đô thị thay vì off-road dẫn động bốn bánh. Những đường cắt cao hơn mang theo màn hình trung tâm lớn, tính năng hỗ trợ lái xe và thiết bị tiện lợi điển hình của phần, nhưng thiết bị chính xác được sắp xếp theo chu kỳ và năm. Xây dựng trật tự chống lại tờ cấu hình cho SKU thực sự; không giả sử một tính năng thấy trên một đơn vị đánh giá top-trim mở rộng đến chiếc xe cơ sở được trích dẫn.
 
 ## Giá Trung Quốc chỉ là tham khảo trong nước
 

@@ -55,7 +55,7 @@ Die Exportkreditversicherung deckt definierte Nichtzahlung ab; sie heilt kein HS
 ## Bevor Sie die Bestellung buchen
 
 - Bestätigen Sie die Identität des Käufers und erhalten Sie eine SINOSURE Kreditlimit-Genehmigung, bevor Sie nicht versicherte Open-Account-Bedingungen vereinbaren.
-- Passen Sie die versicherte Zahlungsroute an, was der Kaufvertrag und die Proforma tatsächlich sagen.
+- Passen Sie die versicherte Zahlungsroute an, was der Kaufvertrag und die Proforma tatsächlichächlich sagen.
 - Bestätigen Sie erneut die aktuelle Risikoposition des Ziellandes und die Prämien-/Ausfallklauseln schriftlich — alle sind zeitsensibel.
 - Halten Sie VIN, B L, Inspektions- und Sammelnachweise so organisiert, dass ein zukünftiger Anspruch unterstützt werden kann.
 - Fordern Sie ein aktuelles Exportangebot separat an; Die Versicherung legt niemals den Fahrzeugpreis fest.

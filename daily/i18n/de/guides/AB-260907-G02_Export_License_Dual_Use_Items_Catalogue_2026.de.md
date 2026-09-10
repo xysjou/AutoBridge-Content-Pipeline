@@ -43,7 +43,7 @@ Diese Verantwortung trifft auch auf immaterielle Exporte. Technische Zeichnungen
 4. **Wenn die Klassifizierung wirklich unklar ist **, senden Sie die Frage an die zuständige Handelsbehörde und nicht an die Selbstabfertigung; Bewahren Sie die schriftliche Position in der Transaktionsdatei auf.
 5. **Erstellen Sie die Endbenutzer-/Endbenutzungsdatei** und überprüfen Sie erneut, wenn sich der Käufer, das Ziel oder die angegebene Nutzung ändert.
 
-## Was dieser Leitfaden absichtlich nicht schließt
+## Was dieser Leitfaden bewusst nicht schlussfolgertßt
 
 Die artikelweise kontrollierten Beschreibungen und Codes des aktuellen Katalogs werden hier nicht wiedergegeben: Eine kopierte Liste wird veraltet und ein falscher Code ist schlimmer als eine gekennzeichnete Frage. Dieser Artikel entscheidet auch nicht, ob eine bestimmte Komponente dual-use ist — das ist eine fallspezifische Bestimmung gegen den offiziellen Text. Echtzeitänderungen der kontrollierten Liste und etwaige Lizenzschwellenwerte für eine bestimmte Transaktion müssen vor dem Versand mit dem aktuellen offiziellen Katalog und der Genehmigungsbehörde bestätigt werden.
 
@@ -61,7 +61,7 @@ Die artikelweise kontrollierten Beschreibungen und Codes des aktuellen Katalogs 
 ## FAQ
 **Wann trat der aktuelle Dual-Use-Katalog in Kraft? **
 
-The 2026 catalogue was issued by MOFCOM  and  GACC im 2025 No. 91 Ankündigung  and  took effect on 1 January 2026; immer gegen den aktuellen offiziellen Text bestätigen.
+The 2026 Katalog von MOFCOM herausgegeben wurde, und die GACC im 2025 No. 91 Ankündigung  and  took effect on 1 January 2026; immer gegen den aktuellen offiziellen Text bestätigen.
 
 **Braucht ein gewöhnlicher Personenkraftwagen eine Dual-Use-Lizenz? **
 

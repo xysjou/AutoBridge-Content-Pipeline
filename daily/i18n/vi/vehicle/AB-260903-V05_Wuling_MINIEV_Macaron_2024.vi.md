@@ -36,7 +36,7 @@ Cái bẫy đang đặt hàng 170 Điểm trên giá cho một con đường c�
 ## Các chiều và sự thật thu thập
 - Chiều dài chiều rộng chiều cao: ** 3064 1493 1629 mm **
 - Bánh xe: ** 2010 mm **
-At just over 3 m long, Macarron là một trong những EV nhỏ nhất trên thị trường Trung Quốc. Four seats are present, nhưng phía sau không gian  and  luggage volume are micro-car scale — "4-seat" means occasional four-up urban use,  not four-adult comfort. Dấu chân nhỏ cũng là lợi thế tải lên: nhiều đơn vị trên một container hơn một chiếc xe thông thường, nhưng số lượng chính xác vẫn còn phụ thuộc vào một kế hoạch tải ** và số lượng hàng được chấp thuận của nhà sản xuất** (xem hộp đựng hàng) - không trích dẫn một số cố định từ chiều dài.
+At just over 3 m long, Macarron là một trong những EV nhỏ nhất trên thị trường Trung Quốc. Four seats are present, nhưng phía sau khôvà thể tích khoang hành lý ở mức xe siêu nhỏ — "4-seat" means occasional four-up urban use,  not four-adult comfort. Dấu chân nhỏ cũng là lợi thế tải lên: nhiều đơn vị trên một container hơn một chiếc xe thông thường, nhưng số lượng chính xác vẫn còn phụ thuộc vào một kế hoạch tải ** và số lượng hàng được chấp thuận của nhà sản xuất** (xem hộp đựng hàng) - không trích dẫn một số cố định từ chiều dài.
 
 ## Phần mềm, tính năng và sự an toàn
 - Người Trung Quốc xây dựng sử dụng giao diện **GB/T**; cần kiểm tra sự tương thích nạp ở nước ngoài trên mỗi VIN và đích kết nối.
@@ -61,7 +61,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Đại loại l�
 Nó nhanh cỡ nào? Tốc độ tối đa là 100 km/h — được xây dựng để sử dụng cho thành thị, chứ không phải để đi xe máy.
 Bao nhiêu ghế? Bốn ghế trong một cơ thể 3-door, 3064 mm micro; phía sau không gian được gọn gàng và được xem là tốt nhất thỉnh thoảng.
 ** 170 hay 215 điểm cho một hạm đội nhỏ?** Khớp vòng lặp hàng ngày: vòng lặp trở về cơ sở ngắn phù hợp với 170; vòng lặp dài hơn hoặc giữa ngày cần có số vòng xoay của 215 và bất kỳ tùy chọn DC — xác nhận trên mỗi băng đảng.
-**Is it a competitor to a normal compact EV?** No — next to a ~4.1 m, 420+ km Dolphin, nó nhỏ hơn một lớp; vị trí của nó là một thành phố siêu tương tác, không phải một gia đình EV.
+**Đây có phải đối thủ của một mẫu EV cỡ nhỏ thông thường?** No — next to a ~4.1 m, 420+ km Dolphin, nó nhỏ hơn một lớp; vị trí của nó là một thành phố siêu tương tác, không phải một gia đình EV.
 
 ## Thu ảnh
 - IMAGE_ASSET_PATH: none secured in repository

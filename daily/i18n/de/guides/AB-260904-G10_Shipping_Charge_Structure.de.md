@@ -14,7 +14,7 @@
 - **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Warum ein strukturiertes Zitat wichtiger ist als eine niedrige Zahl
-Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeugexporteure werden nicht von der Basis-Seefracht erwischt, sondern von dem Stapel von Zuschlägen und Zielgebühren, die damit verbunden sind. Dieser Leitfaden erklärt **was jede Ladung ist, was sie in Rechnung gestellt wird und wo sie entsteht ** und - weil sich jede Rate mit Spur, Kapazität und Saison bewegt - gibt es keine festen Beträge ** an. Verwenden Sie es, um ein Angebot Zeile für Zeile zu prüfen, nicht um eine Landekosten zu schätzen.
+Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeugexporteure werden nicht von der Basis-Seefracht erwischt, sondern von dem Stapel von Zuschlägen und Zielgebühren, die damit verbunden sind. Dieser Leitfaden erklärt **was jede Ladung ist, was sie berechnet wird und wo sie anfällt ** und - weil sich jede Rate mit Spur, Kapazität und Saison bewegt - gibt es keine festen Beträge ** an. Verwenden Sie es, um ein Angebot Zeile für Zeile zu prüfen, nicht um eine Landekosten zu schätzen.
 
 ## Die Bausteine
 | Gebühr | Was es abdeckt | In Rechnung gestellt, wo |
@@ -40,7 +40,7 @@ Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeu
 4. Abgleich der Ursprungs- und Bestimmungsspalten; schriftliche Erhebung von Bestimmungsgebühren.
 5. Re-Quote bei der Buchung - alle Preise sind zeitsensibel und das formelle Angebot zu diesem Zeitpunkt gilt.
 
-## Was dieser Guide nicht tun wird
+## Was dieser Leitfaden nicht tun wird
 - **Keine festen Mengen** (keine RMB THC-Bereiche, keine Anmeldegebührennummern): Die vorherigen Zahlen sind veraltet oder marktvariabel und werden nie als aktuell dargestellt.
 - **Es wird keine Landed-Cost- oder Margin-Schätzung** für AutoBridge oder den Käufer abgeleitet; dies erfordert ein offizielles Live-Angebot.
 

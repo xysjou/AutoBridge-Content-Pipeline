@@ -13,7 +13,7 @@
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 购买者背景: 在您先将世代推向价格
-爱姆格朗是吉利公司高容量的紧凑型轿车,也是价格敏感的进车市场的一个自然候选. 进口商的陷阱是世代相传的: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: 中国)**,  while an **all-new 5th generation launched in China in November 2025** with a longer body, 长轮式基座  and  a 起点价格较低。 引用2024单位对5th-gen维度——或反之,是这个名牌上唯一最常见的顺序错误. 将下图作为**中国市场参考规格**; 目的地市场引擎调谐,排放级和设备由当地同调,而不是本表管辖.
+爱姆格朗是吉利公司高容量的紧凑型轿车,也是价格敏感的进车市场的一个自然候选. 进口商的陷阱是世代相传的: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: 中国)**,  while an **all-new 5代于该年11月在中国上市 2025** with a longer body, 长轮式基座  and  a 起点价格较低。 引用2024单位对5th-gen维度——或反之,是这个名牌上唯一最常见的顺序错误. 将下图作为**中国市场参考规格**; 目的地市场引擎调谐,排放级和设备由当地同调,而不是本表管辖.
 
 ## 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,燃料,燃料,排放) 中马变体(CF) 中马变体(CF) 中马变体(CFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFA
 | 项目 | 4th-gen  Engrand 2024(中国参考文献) |

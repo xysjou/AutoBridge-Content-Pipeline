@@ -33,7 +33,7 @@ Los cuatro números de rango no son trims intercambiables: cada uno pertenece a 
 
 ## ¿Por qué "CLTC" importa un comprador de exportación
 
-Las cifras de rango chino utilizan el ciclo **CLTC**, que es más generoso que WLTP y mucho más generoso que EPA. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  solicitar datos de destino o del mundo real por separado. Igualmente, un China-spec M03 utiliza el estándar de carga/conector chino; compatibilidad con la red pública del destino y cualquier conector de mercado de exportación debe ser verificada por separado y no se asume de la especificación china.
+Las cifras de rango chino utilizan el ciclo **CLTC**, que es más generoso que WLTP y mucho más generoso que EPA. El comprador extranjero que convierte sus expectativas debe tratar 515–620 km CLTC numbers as China-cycle references  and  solicitar datos de destino o del mundo real por separado. Igualmente, un China-spec M03 utiliza el estándar de carga/conector chino; compatibilidad con la red pública del destino y cualquier conector de mercado de exportación debe ser verificada por separado y no se asume de la especificación china.
 
 ## Software, equipo y disciplina de la trimidad
 

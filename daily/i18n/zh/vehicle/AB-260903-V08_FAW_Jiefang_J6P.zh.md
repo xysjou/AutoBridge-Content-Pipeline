@@ -48,7 +48,7 @@ J6P为长途汽车与区域工作提供多种出租车变型(日/睡,屋顶高�
 没有固定出口价格和中国管理系统更新项目;没有发明。 查询** 定点国 · 示范代码 · 驱动布局 · · LHD/RHD · 目标港 · 编码**。
 
 ## 经常被问到的问题
-**What engine is in the J6P 460?** The Xichai CA6DM2-46E6,  an 11.05 L inline-6 China-VI diesel at about 460 PS  and  2300 N·m 
+**J系列搭载什么发动机6P 460?** The Xichai CA6DM2-46E6,  an 11.05 L inline-6 China-VI diesel at about 460 PS  and  2300 N·m 
 ** ** 4×2,6×4和8×4;6×4是常见的线路-乘车选择.
 ** ** AMT可选的与10–16-speed手册并列;命名精确的变速箱模型.
 **GCW号是什么??** The 6×4 这是在 ~40 t class, 但评定GCW取决于轴/瓦/悬浮——在证书上确认.

@@ -52,7 +52,7 @@
 
 ## 经常被问到的问题
 圣达的GVW是什么?  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; 证实特定尸体在MIIT公告/证书上的确切有效载荷。
-**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); a 2.8 L/116 PS版本是一个不同的单位。
+**本页涵盖哪款发动机?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); a 2.8 L/116 PS版本是一个不同的单位。
 * 它设定了可用有效载荷和在下水面和箱型车体之间的变化——不具有一个不同机体之间的有效载荷。
 **中国6货车批准我市吗? ** 并非自动;目的地排放和类型批准是分开的。
 

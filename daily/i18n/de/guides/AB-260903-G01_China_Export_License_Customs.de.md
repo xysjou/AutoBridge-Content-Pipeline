@@ -18,7 +18,7 @@ Die meisten gescheiterten Erstlieferungen scheitern auf der **China-Seite**, nic
 ## Schritt 1 - Bestätigen Sie, unter welches Lizenzregime Ihr Fahrzeug fällt
 China verwendet keine pauschale "Autoexportgenehmigung". Unterscheiden Sie die Gleise:
 - **Neue Energie BEV Personenkraftwagen: ** Fahrzeuge, die ausschließlich von einem Antriebsmotor angetrieben werden und eine Fahrgestellnummer (Referenz HS 8703801090) tragen, unterliegen der **Exportlizenzverwaltung**, die gemeinsam von MOFCOM, MIIT, GAC und SAMR überwacht wird (TIME_SENSITIVE — bestätigen Sie die aktuelle Mitteilung und den genauen HS-Code mit dem Jahrestarifplan).
-- ** Gebrauchtfahrzeuge:** Der Staat betreibt eine ** Exportlizenzregelung, die von MOFCOM** verwaltet wird, und die Lizenzdetails müssen mit der Kraftfahrzeug-Zulassungsbescheinigung (VERIFIED, Vier-Minister-Mitteilung) übereinstimmen.
+- ** Gebrauchtfahrzeuge:** Der Staat betreibt eine ** Exportlizenzregelung, die von MOFCOM** verwaltet wird, und die Lizenzdetails müssen mit der Kraftfahrzeug-Zulassungsbescheinigung (durch eine Primärquelle bestätigt, Vier-Minister-Mitteilung) übereinstimmen.
 - ** Konventionelle Neufahrzeuge Motorräder:** durch die **jährliche Exportlizenzanmeldung** behandelt, die als nächstes beschrieben wird.
 Der genaue Warencode und seine regulatorischen Bedingungen müssen gegen den aktuellen Import & Export Tariff und die letzte MOFCOM-Ankündigung bestätigt werden — verwenden Sie die HS-Annahme des letzten Jahres nicht wieder.
 
@@ -26,7 +26,7 @@ Der genaue Warencode und seine regulatorischen Bedingungen müssen gegen den akt
 MOFCOM gibt eine **jährliche Bekanntmachung heraus, in der Exportlizenzanträge für Automobile und Motorrade arrangiert werden**. Unternehmen melden sich zur Qualifizierung an; **modifizierte umgerüstete Fahrzeuge müssen Leistungsnachweise wie Exportzollerklärungen und Rechnungen für den Kauf von Fahrgestellen** hochladen. Praktische Implikation für einen Händler: Qualifizierung ist nicht sofort - richten Sie das jährliche Einreichungsfenster mit Ihrem Versandplan aus und behalten Sie den Chassis den Ausrüstungspapierkram, weil dies ein Beweis für die tatsächliche Exportleistung ist.
 
 ## Schritt 3 - Das Gebrauchtwagen 180-Day Regel (eine harte, datierte Anforderung)
-Gemäß der Vier-Minister-Mitteilung zur Stärkung des Gebrauchtwagen-Exportmanagements (VERIFIED): **Ab 1 Januar 2026, wenn ein Fahrzeug, das für den Export beantragt wurde, nicht mehr als 180 Tage zuvor registriert wurde, muss der Antragsteller die After-Sales-Wartungsservice-Bestätigung des OEM ergänzen; Andernfalls wird die Lizenz nicht ausgestellt. **
+Gemäß der Vier-Minister-Mitteilung zur Stärkung des Gebrauchtwagen-Exportmanagements (durch eine Primärquelle bestätigt): **Ab 1 Januar 2026, wenn ein Fahrzeug, das für den Export beantragt wurde, nicht mehr als 180 Tage zuvor registriert wurde, muss der Antragsteller die After-Sales-Wartungsservice-Bestätigung des OEM ergänzen; Andernfalls wird die Lizenz nicht ausgestellt. **
 - Dies ist eine China-Seite, datierte Anforderung — zitieren Sie es mit dem Datum und überprüfen Sie die Mitteilung, bevor Sie sich darauf verlassen.
 - Die Angaben zur Fahrerlaubnis müssen mit der Zulassungsbescheinigung des Fahrzeugs übereinstimmen; Inkongruenzen werden als Block ausgestellt.
 

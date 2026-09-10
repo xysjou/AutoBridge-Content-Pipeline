@@ -14,7 +14,7 @@
 - **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Người mua văn cảnh: Một thành phố được bán trong ba bước dài
-The Bingo is Wuling's five-door small electric hatchback, Nhắm vào thành phố  and  Sử dụng ánh sáng-công nghệ cá nhân. Đối với một người xuất khẩu biến số quyết định là **range Step**, bởi vì năng lượng động, pin và tốc độ cao nhất tất cả thay đổi với nó. Tờ này bao gồm 2024 đường cao tốc của thị trường Trung Hoa. Chloe; Không có trang OEM ở nước ngoài, các hình ảnh Trung Quốc là một tài liệu tham khảo, chứ không phải là một đặc điểm toàn cầu.
+Bingo là mẫu hatchback điện nhỏ năm cửa của Wuling, Nhắm vào thành phố  and  Sử dụng ánh sáng-công nghệ cá nhân. Đối với một người xuất khẩu biến số quyết định là **range Step**, bởi vì năng lượng động, pin và tốc độ cao nhất tất cả thay đổi với nó. Tờ này bao gồm 2024 đường cao tốc của thị trường Trung Hoa. Chloe; Không có trang OEM ở nước ngoài, các hình ảnh Trung Quốc là một tài liệu tham khảo, chứ không phải là một đặc điểm toàn cầu.
 
 ## Điện não đồ: pin, khoảng cách, nạp
 | Mục | 203 km (vào) | 333 410 km (mid/ high) |

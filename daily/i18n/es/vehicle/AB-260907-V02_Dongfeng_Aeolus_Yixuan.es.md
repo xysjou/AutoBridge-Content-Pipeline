@@ -54,7 +54,7 @@ La línea principal 2025 aquí referenciada es una unidad de inspiración natura
 
 **¿El coche actual es el 197-PS Mach 1.5T? ################################################################################################################################################################################################################################################################
 
-No — el Mach 1.5T (145 kW / 300 N·m, Getrag 6DCT) es una línea de 2022/2023 más vieja  and  should not be presented as the 2025 on-sale sedan.
+No — el Mach 1.5T (145 kW / 300 N·m, Getrag 6DCT) es una línea de 2022/2023 máantigua y no debe presentarse como la 2025 on-sale sedan.
 
 **¿Qué plataforma y diseño de la unidad? **
 

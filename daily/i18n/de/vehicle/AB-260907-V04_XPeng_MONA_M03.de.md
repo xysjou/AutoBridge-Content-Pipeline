@@ -18,7 +18,7 @@ Die XPeng MONA M03 ist die kompakte elektrische Schnellhecklimousine XPeng, die 
 
 - Aufbau: fünftüriger, fünfsitziger kompakter elektrischer Liftback/Fastback, einseitiger Permanentmagnetmotor, Vorderradantrieb (gegenübergestellt).
 - ** 2025 Bezugsmaße:** 4780 × 1896 × 1445 mm, Radstand 2815 mm; Luftwiderstandsbeiwert **Cd 0.194 **.
-- The **2026 model lists a 4785 mm length** — a small year-over-year change to match on the certificate, Keine andere Plattform.
+- The **2026 model lists a 4785 mm length** — eine kleine jahresbezogene Änderung, die mit dem Zertifikat übereinstimmen muss, Keine andere Plattform.
 
 ## Batterie, Reichweite und Motor — halten Sie die Matrix intakt
 
@@ -33,7 +33,7 @@ Die vier Rangenummern sind keine austauschbaren Zierleisten: Jede gehört zu ein
 
 ## Warum "CLTC" für einen Exportkäufer wichtig ist
 
-Chinesische Range-Zahlen verwenden den **CLTC**-Zyklus, der großzügiger als WLTP und weit großzügiger als EPA ist. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  Zielzyklus- oder Real-World-Daten separat anfordern. Ebenso verwendet ein China-Spec M03 den chinesischen Ladestandard / -stecker; Die Kompatibilität mit dem öffentlichen Netz des Bestimmungsorts und etwaigen Exportmarktsteckverbindern muss separat überprüft werden und wird nicht nach den chinesischen Spezifikationen angenommen.
+Chinesische Range-Zahlen verwenden den **CLTC**-Zyklus, der großzügiger als WLTP und weit großzügiger als EPA ist. Ein ausländischer Käufer, der Erwartungen umrechnet, sollte den 515–620 km CLTC numbers as China-cycle references  and  Zielzyklus- oder Real-World-Daten separat anfordern. Ebenso verwendet ein China-Spec M03 den chinesischen Ladestandard / -stecker; Die Kompatibilität mit dem öffentlichen Netz des Bestimmungsorts und etwaigen Exportmarktsteckverbindern muss separat überprüft werden und wird nicht nach den chinesischen Spezifikationen angenommen.
 
 ## Software, Ausrüstung und Trimmdisziplin
 
@@ -65,7 +65,7 @@ CLTC-Bereichsstufen von 515, 502, 620 und 600 km, die jeweils an eine bestimmte 
 
 Ein Front-Permanentmagnet-Motor bei entweder 140 kW/225 N·m oder 160 kW/250 N·m,  with claimed 0–100 km/h of 7.8 s  and  7.4 s.
 
-**Was ist der Luftwiderstandskoeffizient und die Größe? **
+**Was sind der Luftwiderstandsbeiwert und die Größe? **
 
 Cd 0.194; das 2025 Auto ist 4780 mm lang auf einem 2815 mm Radstand, mit einer Länge von 4785 mm für 2026. aufgeführt
 

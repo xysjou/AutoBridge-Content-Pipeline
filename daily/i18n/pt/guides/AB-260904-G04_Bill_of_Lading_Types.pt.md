@@ -56,7 +56,7 @@ O Código Marítimo revisto fornece a arquitectura jurídica subjacente às dife
 ## Perguntas Mais Frequentes
 ** Que Marinheiro Artigos de código regulam a transferência e entrega de B/L?** Art. 80 (transferência: reta/ordem/portador), Art. 81 (outros documentos de transporte, como SWB) e Art. 87 (entrega a destinatário/endereço/detentor).
 ** Método de liberação Safest antes do pagamento?** Manter um original negociável (encomenda/portador) B/L; evitar telex/SWB até o pagamento ser garantido.
-**Is a sea waybill a document of title?** No — under the Art.81 framing it evidences contract  and  Receção mas não negociável; O destinatário designado recolhe a identidade.
+**Será um sea waybill um documento de titularidade?** No — under the Art.81 framing it evidences contract  and  Receção mas não negociável; O destinatário designado recolhe a identidade.
 ** Pode uma conta de encomenda ser liberada por telex?** Geralmente não; sua negociabilidade Art. 80 é o mecanismo de controle.
 
 ## Gravação de Imagens

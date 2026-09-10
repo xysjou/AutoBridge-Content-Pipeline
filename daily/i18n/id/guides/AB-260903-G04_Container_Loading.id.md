@@ -35,7 +35,7 @@ Untuk rak double-deck beban, dokumen praktek port adalah:
 3. Amankan setiap unit secara progresif - jangan pernah meninggalkan kendaraan yang tidak aman sementara manuver berikutnya.
 Kesalahan sekuensi (memuat gerbong bawah pertama dan memblokir akses rak) adalah keterlambatan yang paling dihindari dalam empat- gerbong beban.
 
-## The Five- Point Pre- Seal Storeads Check
+## Pemeriksaan Lima Poin Sebelum Penyegelan
 Diadaptasi dari metode dokumentasi reconsier- loading:
 1. ** Goods vs packing list ** - VINs, jumlah dan kondisi cocok; PSI telah selesai (lihat panduan PSI).
 2. ** Memuat order ** - distribusi berat badan dan posisi rak per rencana.

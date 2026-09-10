@@ -28,7 +28,7 @@ Under the **2023 No.164 joint announcement of five departments** (including the 
 - ** 관리 및 권한** 연산자 카드, 보조 및 권한을 인출;
 - 그것은 법적인 개인 수준이 필요한 작업에 대한 엔터프라이즈 수준의 전자 서명을 수행.
 
-As a rule an enterprise holds **one legal-person card in principle**. 모든 연산자 권한이 궁극적으로 파생되기 때문에, 법적인 개인 카드의 통제는 회사의 e-port 권위의 통제입니다 - 그것은 신뢰할 수 있는, 책임있는 사람에 의해 개최되어야 하고 그 사용은 직원 중 우연히 공유하지 않습니다.
+원칙적으로 기업은 보유한다 **one legal-person card in principle**. 모든 연산자 권한이 궁극적으로 파생되기 때문에, 법적인 개인 카드의 통제는 회사의 e-port 권위의 통제입니다 - 그것은 신뢰할 수 있는, 책임있는 사람에 의해 개최되어야 하고 그 사용은 직원 중 우연히 공유하지 않습니다.
 
 ## 운영자 카드: 법적인 카드의 밑에 일 자격,
 

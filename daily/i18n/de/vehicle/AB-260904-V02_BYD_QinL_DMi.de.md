@@ -30,7 +30,7 @@ Der Qin L DM-i ist eine mittelgroße Plug-in-Hybridlimousine, die auf der **fün
 | Leergewicht (repräsentativ) | 1775 kg |
 | Kraftstoffbehälter | 65 L |
 
-Ein PHEV-Käufer benötigt vier Antworten in der Reihenfolge: **Motor, Antriebsmotor, Batterie, Lade-/Betriebsmodus**. Here the dedicated 1.5L engine primarily generates/assists drive through a single-speed DHT; der Fahrer schaltet zwischen Elektro- und Hybridbetrieb, anstatt den Gang zu schalten. Passen Sie die Batterieversion auf jede Bestelllinie an die elektrische Reichweite an.
+Ein PHEV-Käufer benötigt vier Antworten in der Reihenfolge: **Motor, Antriebsmotor, Batterie, Lade-/Betriebsmodus**. Here the dedicated 1.5L engine primarily generates/unterstützt den Antrieb über ein Ein-Gang-DHT; der Fahrer schaltet zwischen Elektro- und Hybridbetrieb, anstatt den Gang zu schalten. Passen Sie die Batterieversion auf jede Bestelllinie an die elektrische Reichweite an.
 
 ## Die Range Claim - Halten Sie das Herstelleretikett beigefügt
 - Die Werte 80/120 km sind die elektrische **CLTC**-Reichweite.

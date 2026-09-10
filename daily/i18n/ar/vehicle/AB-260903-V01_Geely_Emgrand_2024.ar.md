@@ -1,4 +1,4 @@
-# جيلي إمغراند (4th Gen) 2024: a Chinese-Market Entry Sedan Spec Sheet for Exporters
+# جيلي إمغراند (4th Gen) 2024: صحيفة مواصفات سيدان دخول للسوق الصيني للمصدّرين
 ## بيانات SEO الوصفية
 - **عنوان SEO**: Geely Emgrand 2024 (4th Gen) Specs " Export Buyer Guide
 - **وصف Meta**: Chinese-market 4th-generation Geely Emgrand 2024 — 1.5L 93 kW engine, 5MT/ CVT الأبعاد  the 4th-gen vs all-new 5th-gen distinction,  and  ما يجب على المستوردين التحقق منه قبل طلب ذلك
@@ -32,7 +32,7 @@
 - Length width ** 4638 1820 1460 mm **
 - Wheelbase: ** 2650 mm **
 - المقاعد: ** 5 **
-هذه هي أبعاد مرجعية الصين لسيارة الـ 4 The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — do not blend the two on a spec line or in marketing material.
+هذه هي أبعاد مرجعية الصين لسيارة الـ 4 The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — لا تخلط بين الاثنين في سطر المواصفات أو في المواد التسويقية.
 
 ## مقياس للسن النموذجي (يظهر هذا)
 - ** هذه الصفحة: 4th جيل، السنة النموذجية 2024.

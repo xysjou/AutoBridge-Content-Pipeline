@@ -37,7 +37,7 @@ A reefer is really **three products in one**: ドナーシャシ、絶縁貨物�
 | ジーユン・リーファー・ボックス | 4.085 × 2.10 × 2.30 m |
 | シューユンボックス | 4.08 × 2.10 × 2.10 m, about **18 m³** |
 
-箱の性能は絶縁材の厚さによって決まります  and  パネルプロセス(サンドイッチ パネル、 泡のタイプ  and  密度)、 床の負荷評価, ドアのシール  and  whether a meat-rail/meat-hook interior is fitted — a CIMC meat-hook reefer body is one listed option. エクスポートの場合、: 必須内部温度セットポイント、パネル材料/厚さ、床タイプ(アルミトレッドプレートなど)、サイド/リアドアの配置、肉のホックまたは棚の備品。 These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  かなりの価格。
+箱の性能は絶縁材の厚さによって決まります  and  パネルプロセス(サンドイッチ パネル、 泡のタイプ  and  密度)、 床の負荷評価, ドアのシール  and  whether a meat-rail/meat-hook interior is fitted — CIMCのミートフック冷蔵ボディは掲載された選択肢の一つ. エクスポートの場合、: 必須内部温度セットポイント、パネル材料/厚さ、床タイプ(アルミトレッドプレートなど)、サイド/リアドアの配置、肉のホックまたは棚の備品。 These change payload (the insulated body is heavy — 参考積載量は以下にすぎない点に注意 ~1.1 t at 4.495 t GVW)  and  かなりの価格。
 
 ## 冷凍ユニットオプション
 
@@ -66,9 +66,9 @@ A reefer is really **three products in one**: ドナーシャシ、絶縁貨物�
 
 ## バイヤーFAQ
 
-**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box  and  冷凍の単位は相当な縁の縁の重量を加えます(~ 3.2 t)、 去る~ 1.1 t;
+**なぜ積載量は約 1.1 t on a 4.495 t truck?** The insulated box  and  冷凍の単位は相当な縁の縁の重量を加えます(~ 3.2 t)、 去る~ 1.1 t;
 **「スタンドアロン/独立ユニット」とはどういう意味ですか?** 独自のエンジンを持ち、トラックエンジンの独立して冷却します。長時間の輸送や駐車時に便利です。車両駆動ユニットは安価ですが、エンジンとの冷却を中止します。
-参照JieyunはYunnei 2.5 L 150 PSを使用します; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  予算。
+参照JieyunはYunnei 2.5 L 150 PSを使用します; 速運（Suyun）は福田カミンズを搭載する 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  予算。
 記載された国内三風590ターゲット- 18 °C冷凍作業; 達成可能なセットポイントは、選択したユニットと断熱に依存しているため、指定します。
 リーフワーコストは、箱と冷却ユニットに大きく依存します。信頼できる2026-09-02の価格はキャプチャされず、予想されることはありません。
 

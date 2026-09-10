@@ -70,7 +70,7 @@ Untuk setiap model trim ekspor Anda, rekam dalam lembaran:
 ** Apa itu GB T 27930? ** Ini adalah protokol komunikasi berbasis CAN- yang digunakan bersama dengan penghubung GB T 20234.3 DC di Cina; jabat tangan penting sebanyak bentuk plug.
 ** Apakah adaptor solusi permanen? ** Ini dapat menjembatani kesenjangan, namun bervariasi legalitas adaptor dengan pasar dan kecepatan keandalan harus diuji; ekspor pabrik disukai.
 ** Apakah merek Cina menjual CCS2 versi? ** Banyak membuat varietas ekspor dengan konektor tujuan - konfirmasi per model VIN pada konfigurasi ekspor resmi daripada mengasumsikan.
-** Does Chao Ji membuat semua konektor cocok sekarang? ChaoJi adalah tujuan yang cocok untuk masa depan; mobil produksi saat ini masih perlu konfirmasi permodel.
+** Apakah Chao Ji membuat semua konektor kini kompatibel? ChaoJi adalah tujuan yang cocok untuk masa depan; mobil produksi saat ini masih perlu konfirmasi permodel.
 
 ## Rekor Gambar
 - IMAGE_ASSET_PATH: none secured in repository

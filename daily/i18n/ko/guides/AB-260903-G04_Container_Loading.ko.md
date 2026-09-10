@@ -17,7 +17,7 @@
 
 ## 현실적 로딩 밴드 (문서 연습에서)
 - ** 선반 없음, 일반: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 Range-Rover Prado Li L7-scale vehicles) (single-source forwarder diagram).
-- ** 미끄러지는 당 밖으로 두 배 갑판 선반으로: ** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
+- ** 미끄러지는 당 밖으로 두 배 갑판 선반으로: ** an **"upper 2 + lower 2" = four SUVs** 해당安排은 옌타이항 한 건에서 보고되었다 "RoRo-to-container" trial (single-source).
 - **세안 중국-유럽 철도:**** 박스당 세 차량 ** 중국-유럽 철도 sedan 연습보고 (단일 소스).
 이 참조 포인트, 제목이 아닙니다: 높은 반, 픽업 또는 긴 임원 자동차는 카운트를 변경하고, 선반 로딩은 인증 장비 및 승인 된 계획을 필요로합니다.
 
@@ -33,7 +33,7 @@ in-box securing에 대한 문서 연습:
 1. **가정 주문에서 랙 차량 상단 **, 지게차를 사용하여 푸시 및 위치;
 2. **더블 도어(보일) 컨테이너는 두 개의 끝에서 작동할 수 있습니다** 동시에, 주거를 단축;
 3. 각 단위를 신속하게 확보하십시오. 그 다음을 뚫고있는 동안 차량이 불멸하지 마십시오.
-Sequence 오류 (저차를 먼저로드  and  blocking rack access) are the most avoidable delay in four-car loads.
+Sequence 오류 (저차를 먼저로드  and  blocking rack access) 4대 적재에서 가장 피하기 쉬운 지연 원인이다.
 
 ## Five-Point Pre-Seal Stowage 검사
 문서화된 콘테이너 적재 방법에서 적응시키십시오:
@@ -48,14 +48,14 @@ Sequence 오류 (저차를 먼저로드  and  blocking rack access) are the most
 
 ## 이 가이드는 당신이 예약하기 전에 잠금을 추천
 - 정확한 모델에 대한 ** 측정 된 로드 계획 ** (길이 폭 높이, 접히는 거울),  not a generic "two or four" promise.
-- ** 인증 랙 장비 **  and  an approved four-car plan if using double deck.
+- ** 인증 랙 장비 **  그리고 2단 적재를 쓴다면 승인된 4대 적재 계획.
 - ** PER-car 스트랩 카운트 및 휠 포인트 방법 ** 로딩 창고와 합의.
 - **사진 증거**의 씰 전에 씰을 묶고, VIN에 연결.
 - **EV 위험품 종이 워크 ** 및 관련 캐리어 SOC 규칙.
 - ** 포트, 경로, 캐리어 및 터미널 합격 쓰기: ** 이름 실제 ** 로드 포트 및 터미널 ** (위의 문서 재판은 Yantai와 같은 중국 포트 참조, 보편적 인 표준), ** 대양 캐리어 및 컨테이너 연산자 **, 그리고 그 터미널은 허용 여부 ** 더블 데크 자동차 선반 및 재고 채찍 ** 책 항해에. 수락 조건 및 모든 효과적인 날짜 변경은 터미널과 캐리어에 따라 다릅니다. ** 날짜마다 각 조건이 확인되었으므로, CTU 코드가 하나의 창고 방법 대신 원칙을 확보하는 것은 모든 곳에서 허용됩니다.
 
 ## 자주 묻는 질문
-**Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack  and  승인 된 계획; SUV의 기존의 노랙 로딩은 일반적으로 두 개의 것입니다.
+**Can a 40HQ always take four SUVs?** No — 4대는 인증된 인출식 2단 랙이 필요하며  승인 된 계획; SUV의 기존의 노랙 로딩은 일반적으로 두 개의 것입니다.
 ** 스트랩 부착은 어떨까요? ** 타이어 / 휠 타이 다운 포인트에 - 자동차 당 약 8 - 체스 또는 서스펜션에 아닙니다.
 **식사는 어떻게 다르나요?** Sedans 및 China-Europe Rail로드는 일반적으로 상자 당 세 가지를 달성합니다. 치수는 여전히 결정합니다.
 **왜 선반 상단을로드합니까?** 위 차량은 더 낮은 구획 선반 접근의 앞에 위치해야 합니다; 포크리프트 원조는 그(것)들을 안전하게 재개합니다.

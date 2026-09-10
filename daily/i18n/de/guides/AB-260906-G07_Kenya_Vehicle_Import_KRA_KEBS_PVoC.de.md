@@ -64,7 +64,7 @@ PVoC ist ein Vorexportprogramm, das im Ausfuhrland von einem von KEBS ernannten 
 
 Nein — KRA wendet Steuern zuzüglich Verbrauchsteuern, Mehrwertsteuer, Einfuhrerklärung und Eisenbahnabgaben an, die je nach HS, Motor und Alter variieren; aktuelle KRA-Zahlen verwenden.
 
-**Was ist das maximale Alter eines importierten Gebrauchtwagens? **
+**Was ist das maximale Alter eines eingeführten Gebrauchtwagens? **
 
 Es ist eine rollende Herstellungsjahrregel, die von KRA veröffentlicht wurde; Überprüfen Sie die derzeit zulässigen Jahre bei der Lieferung, anstatt eine feste Nummer zu verwenden.
 

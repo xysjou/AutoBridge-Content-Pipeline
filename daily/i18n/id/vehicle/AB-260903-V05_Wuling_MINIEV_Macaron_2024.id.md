@@ -1,4 +1,4 @@
-# Wuling Hongguang Miniev Macaron (3rd Gen) 2024: a Micro- EV Buyers Should Ukurly Spelling
+# Wuling Hongguang Miniev Macaron (3rd Gen) 2024: yang Harus Diukur Pembeli EV Mikro
 ## Metadata SEO
 - **Judul SEO**: Mengangkat Hongguang MINIEV Macaron 2024 Specs & Ekspor Catatan
 - **Deskripsi Meta**: Cina - pasar 3rd-gen Wuling MINIEV Macaron - 3-door 4-seat mikro EV, 20 kW motor,  170/215 km  CLTC , Baterai LFP, Terutama pengisian lambat, Kecepatan 100 km/h top, logika pemilihan grade  and  cek eksportir.
@@ -13,7 +13,7 @@
 - **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Penawaran / Harga / Peringkat)
 
 ## Konteks Pembeli: Cocokkan Produk ke Kasus Penggunaan
-The Hongguang Mineev Macaron adalah mobil listrik mikro yang tidak berbahan EV. Panjang 3064 mm  and  777 kg kerb **, itu duduk kelas penuh di bawah hatchback kecil - untuk skala,  Dolphin BYD pada katalog yang sama adalah sekitar **4125 mm long** with 420/520 km CLTC grades. Jarak itu adalah seluruh keputusan pembelian: Nilai Macaron adalah mobilitas kota perjalanan pendek pada harga yang sangat rendah; Keterbatasannya adalah kecepatan tertinggi (* 100 km/h **),  range (**170/215 km CLTC**), kecepatan pengisian  and  ukuran kabin. Seorang eksportir yang memposisikan itu melawan B-segment Evs akan menciptakan masalah keuntungan; orang yang menjualnya sebagai didefinisikan perkotaan terakhir produk tidak akan. Halaman ini mencakup ** 3rd-generation Macaron, model tahun 2024 (REFERENCE MARKET: CHINA) **.
+Hongguang Mini EV Macaron adalah mobil listrik mikro. Panjang 3064 mm  and  777 kg kerb **, itu duduk kelas penuh di bawah hatchback kecil - untuk skala,  Dolphin BYD pada katalog yang sama adalah sekitar **4125 mm long** with 420/520 km CLTC grades. Jarak itu adalah seluruh keputusan pembelian: Nilai Macaron adalah mobilitas kota perjalanan pendek pada harga yang sangat rendah; Keterbatasannya adalah kecepatan tertinggi (* 100 km/h **),  range (**170/215 km CLTC**), kecepatan pengisian  and  ukuran kabin. Seorang eksportir yang memposisikan itu melawan B-segment Evs akan menciptakan masalah keuntungan; orang yang menjualnya sebagai didefinisikan perkotaan terakhir produk tidak akan. Halaman ini mencakup ** 3rd-generation Macaron, model tahun 2024 (REFERENCE MARKET: CHINA) **.
 
 ## Driveline dan Battery (micro- EV fokus)
 | Butir | 3rd-gen Macaron 2024 (China referensi) |

@@ -44,7 +44,7 @@ The petrol iMAX8 uses a 2.0-litre turbo (20A4E family) paired with an Aisin 8-sp
 
 ## الانضباط في النطاق على المتغيرات
 
-This page is limited to the petrol iMAX8. Hybrid  and  pure-electric iMAX8 derivatives — where they exist in other model years — carry different batteries, الأوزان  and  الاحتياجات من الخدمات  and  ويجب توثيقها على صفحاتها. وبالمثل، فإن رويوي هي العلامة التجارية المحلية الخاصة بمنظمة الصحة للبلدان الأمريكية؛ ولا يُفترض أن تكون ملغومة مصفحة من طراز MG-badged أو غير ذلك من الأسواق متطابقة دون وجود أدلة واضحة من نوع OEM.
+تقتصر هذه الصفحة على iMAX البنزين8. Hybrid  and  pure-electric iMAX8 derivatives — حيثما وُجدت في سنوات طراز أخرى — carry different batteries, الأوزان  and  الاحتياجات من الخدمات  and  ويجب توثيقها على صفحاتها. وبالمثل، فإن رويوي هي العلامة التجارية المحلية الخاصة بمنظمة الصحة للبلدان الأمريكية؛ ولا يُفترض أن تكون ملغومة مصفحة من طراز MG-badged أو غير ذلك من الأسواق متطابقة دون وجود أدلة واضحة من نوع OEM.
 
 ## السعر الصيني هو سعر محلي فقط
 

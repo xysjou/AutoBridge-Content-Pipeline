@@ -26,7 +26,7 @@ UNI-V는 Changan의 컴팩트 한 빠른 백 세단 - 다섯 개의 문, 다섯 
 | 1.5T (Blue Whale NE) | 터보 L4 가솔린 | 138 kW (188 PS) 300 N·m | 7-speed 젖은 이중 클러치 (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | 터보 L4 가솔린 | 171 kW (233 PS) 390 N·m | 8-speed 토크 변환기 자동 (8AT) | 215 km/h | 6.9 L/100 km |
 
-1.5T 푸른 Whale Figures 및 7DCT는 ** Changan의 공식 사이트와 차량 데이터베이스에 의해 일치 ** 검증됩니다. 2.0T 출력, 8AT 및 연료 수치는 PCauto 및 Autohome에서 CROSS_CHECKED입니다. 1.5T는 습식 이중 클러치를 사용하며 2.0T은 기존 8-speed 자동을 사용하며 토크 변환기 내구성을 선호하는 함대 구매자의 의미있는 구별과 "자동"을 섭취하는 것보다 구매 주문에 명시적으로 명시적으로 명시적으로 언급하는 무언가를 사용합니다.
+1.5T 푸른 Whale Figures 및 7DCT는 ** Changan의 공식 사이트와 차량 데이터베이스에 의해 일치 ** 검증됩니다. 2.0T 출력, 8AT 및 연료 수치는 PCauto 및 Autohome에서 독립 자료로 교차 확인입니다. 1.5T는 습식 이중 클러치를 사용하며 2.0T은 기존 8-speed 자동을 사용하며 토크 변환기 내구성을 선호하는 함대 구매자의 의미있는 구별과 "자동"을 섭취하는 것보다 구매 주문에 명시적으로 명시적으로 명시적으로 언급하는 무언가를 사용합니다.
 
 중국 구성표에 게재된 **WLTC** 사이클을 사용 위의 연료 소비 값; 실제 및 목적지 테스트 수치가 다를 수 있으므로 트림 사이 상대적 비교를 위해 사용하므로 보증 된 재고 번호로 보장됩니다.
 
@@ -75,7 +75,7 @@ Config 테이블 목록 엔진 및 등급은 물론 주문 오류를 발생시�
 
 **그들 사이에 연료 사용은 어떻게?** 중국 WLTC 테이블에,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm 휠베이스는 일정합니다.
+**출처마다 전장이 다른 이유는?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm 휠베이스는 일정합니다.
 
 **중국 자동차가 내 국가 배출 표준을 충족 할 수 있습니까?** - 배출 규정 준수, 연료 등급 및 보증은 주문하기 전에 대상 시장을 위해 확인해야합니다.
 

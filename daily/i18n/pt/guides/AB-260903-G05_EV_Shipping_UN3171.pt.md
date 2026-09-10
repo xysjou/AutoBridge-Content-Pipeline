@@ -28,7 +28,7 @@ O caminho em que você está é decidido por ** como a unidade se move de fato**
 2. **SDS/MSDS (GHS)** que identifica a entrada **correcta da ONU (UN3556 para um veículo de iões de lítio), a classe 9 e o calendário de EMS** — actualiza qualquer documento antigo que ainda anuncie apenas UN3171.
 3. ** Declaração de perigo-bens e formulários de reserva de portador** preenchidos com o padrão ** 42-24 ** (obrigatório no caminho SP962).
 4. ** Decisão de bateria instalada vs decisão de bateria solta/espalha. ** As baterias de lítio sobresselentes ou soltas movem-se sob ** UN3480/UN3481 **, não UN3556, e precisam da sua própria rota de embalagem/documento (incluindo um certificado de embalagem de mercadorias perigosas, se for caso disso). O alívio do veículo inteiro nunca cobre peças sobressalentes embaladas ao lado.
-5. ** As unidades danificadas/defeituosas ou recuperadas** são um caso separado: exigirem ** aprovação explícita do transportador **, muitas vezes não pode mover-se em termos normais,  and  must never be relabelled as a normal UN3556 shipment.
+5. ** As unidades danificadas/defeituosas ou recuperadas** são um caso separado: exigirem ** aprovação explícita do transportador **, muitas vezes não pode mover-se em termos normais,  e nunca deve ser rotulado como um UN normal3556 shipment.
 ## Versão e pontualidade (indicar estes em cada arquivo)
 - ** Emenda atual:** IMDG ** 42-24 (2024 Edition), obrigatória de 2026-01-01 **; indicar a emenda na reserva em vez de assumir o modelo antigo de uma transportadora.
 - ** Revisão de UN38.3:** confirme a revisão que sua linha e destino aceitar (tempo-sensível).

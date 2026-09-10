@@ -64,7 +64,7 @@ La grúa móvil ha sido eliminada del catálogo de "motrices de elevación" de S
 
 **¿Puedo usar QY25K-II o QY25E especificaciones para el QY25K5C**
 
-No, son modelos diferentes; ¡Bum! motor  and  dimensions must come from the official QY25K5C sheet.
+No, son modelos diferentes; ¡Bum! el motor y las dimensiones deben proceder de la ficha oficial QY25K5C sheet.
 
 **¿Qué documentos debe obtener el comprador? ################################################################################################################################################################################################################################################################**
 

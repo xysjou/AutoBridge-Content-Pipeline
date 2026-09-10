@@ -33,7 +33,7 @@ The Xingsiang V6E เป็นรถแวนของฟาริซอน (Gee
 - แพ็คข้อความอ้างถึง kWhh~ และ~ช่วง~ อย่าแนบหมายเลขใหม่ 51 kWh ไปยังฐาน VIN ยืนยันการเตรียมการ AC/DC และชาร์จเวลาต่อการสร้าง
 
 ## เอกสารการส่งออกเป็นอัลบั้ม (ไม่ใช้นามแฝง)
-China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, ที่ถูกอธิบายว่าเป็นทางเข้าแรกของฟาริซอนที่เข้าไปในตลาด  in 6 m³ form. นี่คือบันทึกการส่งของจากสถานี "เอาท์-ส่ง" มันยืนยันว่ามีการส่งอาคารมาตรฐานยุโรป  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  ขอข้อมูล สเปกตรัม
+China Transport News (an industry news outlet) reports that in **February 2024 รถรุ่น V สเปกสหภาพยุโรปล็อตแรก6รถตู้ E ถูกส่งออกไปยัง Türkiye**, ที่ถูกอธิบายว่าเป็นทางเข้าแรกของฟาริซอนที่เข้าไปในตลาด  in 6 m³ form. นี่คือบันทึกการส่งของจากสถานี "เอาท์-ส่ง" มันยืนยันว่ามีการส่งอาคารมาตรฐานยุโรป  but it does **not** make the Tüตุรกี รถตู้สเปก EU ที่เหมือนกับรุ่นจีน 35.2/51 kWh builds — treat export configuration separately  and  ขอข้อมูล สเปกตรัม
 
 ## สิ่ง ที่ ผู้ ส่ง ส่ง เสริม ควร ตรวจ สอบ ก่อน จะ จ่าย
 - ยืนยันการจัดการรถแวนของรถบรรทุกสินค้าแบบใช้ไฟบนใบรับรอง; ข้อมูลอ้างอิงที่จับได้ของจีนไม่แก้ไข ดังนั้น อย่าปริยายที่จะเรียกไดรฟ์หน้าสําหรับ chasis ที่บรรทุกของโหลด
@@ -48,7 +48,7 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 ~ ทรัพย์สิน V6E ของสินค้าคืออะไร ~  6 เมตร ท่าเรือ (ประมาณ 1.6 เมตร) มีเพลาหลังดอกขนใบ
-**How far does it go on a charge?** The reference base pack is 35.2 kWh at about 260 km (working condition); โครงสร้างของไม้ที่มีขนาดใหญ่กว่ารายการ แต่ตัวเลขที่แน่นอนต้องได้รับการยืนยันในแคตตาล็อกและ VIN แทนการอ้างถึง
+**ชาร์จหนึ่งครั้งวิ่งได้ไกลแค่ไหน?** The reference base pack is 35.2 kWh at about 260 km (working condition); โครงสร้างของไม้ที่มีขนาดใหญ่กว่ารายการ แต่ตัวเลขที่แน่นอนต้องได้รับการยืนยันในแคตตาล็อกและ VIN แทนการอ้างถึง
 ** ~ 90 km/h, อิเล็กทรอนิกส์ จํากัด —
 ~ V6E ถูกส่งออกไปหรือยัง~ ใช่ เซต EU-scort play ถูกบันทึกลงที่ Turkiye in Feb 2024 ว่าการส่งออกไม่เทียบเท่ากับรถตู้จีนสเปกต์
 มอเตอร์ถาวร โวล็อง-ซีเอฟ TZ185XS022 มอเตอร์ เครือข่าย 60 kW 220 N·m.

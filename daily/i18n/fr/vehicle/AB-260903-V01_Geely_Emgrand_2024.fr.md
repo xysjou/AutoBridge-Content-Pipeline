@@ -12,7 +12,7 @@
 - **Texte ALT**: Geely Emgrand fourth generation 1.5L sedan
 - **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
-## Contexte acheteur: Pin the Generation avant que vous épinglez le prix
+## Contexte acheteur: Fixez la génération avant de épinglez le prix
 L'Emgrand est le saloon compact de Geely et un candidat naturel pour les marchés d'entrée sensibles aux prix. Le piège d'un importateur est générationnel: cette page couvre la voiture de marché chinois ** 4th-generation 2024 (MARCHANDISE DE LA RÉFÉRENCE: CHINE)**, tandis qu'une nouvelle génération de 5th lancée en Chine en novembre 2025 ** avec un corps plus long, un empattement plus long et un prix de départ plus bas. Citer une unité 2024 par rapport aux dimensions 5th-gen — ou vice versa — est l'erreur de commande la plus courante sur cette plaque. Traiter chaque chiffre ci-dessous comme une spécification de référence du marché chinois**; la configuration, le stade d'émission et l'équipement du marché de destination sont régis par l'homologation locale, et non par cette feuille.
 
 ## Variante du marché chinois et ligne d'entraînement (point focal de l'ICE: moteur, boîte de vitesses, carburant, émissions)

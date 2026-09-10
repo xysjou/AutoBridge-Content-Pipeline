@@ -33,7 +33,7 @@ XPEN MONA M03是XPEN的紧凑型五座电动快车,  launched in China in August
 
 ## 为什么"CLTC"对出口买方很重要
 
-中国范围数字采用**CLTC**周期,比WLTP更慷慨,也远比EPA更慷慨. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  请求目标周期或现实世界数据。 同样,一个中国-Spec M03使用中国充电标准/连接器; 与目的地公共网络和任何出口市场连接器的兼容性必须分别核实,而不是从中文规格中假定。
+中国范围数字采用**CLTC**周期,比WLTP更慷慨,也远比EPA更慷慨. 海外买家在换算预期时应把 515–620 公里CLTC数值视为中国工况参考，且  请求目标周期或现实世界数据。 同样,一个中国-Spec M03使用中国充电标准/连接器; 与目的地公共网络和任何出口市场连接器的兼容性必须分别核实,而不是从中文规格中假定。
 
 ## 软件、设备和修饰纪律
 

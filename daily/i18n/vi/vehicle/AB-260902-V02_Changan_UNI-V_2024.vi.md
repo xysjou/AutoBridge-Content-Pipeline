@@ -15,7 +15,7 @@
 
 ## Xe này là gì?
 
-The UNI-V is Changan's compact fastback sedan — a five-door,  five-seat, Mô hình xăng đơn với một đường mái kiểu máy đảo  and  một người có thể làm hỏng phần sau của lớp. Nó là một chiếc xe **ICE (gasoline)**, nhắm vào những người mua muốn có bóng thể thao hơn là một chiếc SUV hoặc một tàu điện. Trang này tài liệu của dòng thị trường Trung Quốc ** 2024 (REFERCE MORT: Chloe; người tiêu biểu là 1.5T 尊贵型, với số điểm cao hơn 1.5T năng lượng cao/ 尊享 智慧领航  and  2.0T phiên bản. Changan cũng vận chuyển một xuất khẩu UNI-V để chọn thị trường nước ngoài, nhưng các chi tiết xuất khẩu phải được đọc từ tài liệu chính thức thị trường đích đến, chứ không phải từ các tờ Trung Quốc.
+UNI-V là mẫu sedan fastback hạng C của Changan — a five-door,  five-seat, Mô hình xăng đơn với một đường mái kiểu máy đảo  and  một người có thể làm hỏng phần sau của lớp. Nó là một chiếc xe **ICE (gasoline)**, nhắm vào những người mua muốn có bóng thể thao hơn là một chiếc SUV hoặc một tàu điện. Trang này tài liệu của dòng thị trường Trung Quốc ** 2024 (REFERCE MORT: Chloe; người tiêu biểu là 1.5T 尊贵型, với số điểm cao hơn 1.5T năng lượng cao/ 尊享 智慧领航  and  2.0T phiên bản. Changan cũng vận chuyển một xuất khẩu UNI-V để chọn thị trường nước ngoài, nhưng các chi tiết xuất khẩu phải được đọc từ tài liệu chính thức thị trường đích đến, chứ không phải từ các tờ Trung Quốc.
 
 ## Sắp hàng cơ chế  and  the 1.5T vs 2.0T Decision
 
@@ -75,7 +75,7 @@ Có phải LHQ là xe điện hay xe xăng? Ở đây có 2024 máy bay URI-V c�
 
 ** Dùng nhiên liệu khác nhau thế nào? Trên bàn WLTC của Trung Quốc,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm bánh xe là không đổi.
+**Vì sao chiều dài khác nhau giữa các nguồn?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm bánh xe là không đổi.
 
 **Tôi có thể cho rằng xe Trung Quốc đáp ứng tiêu chuẩn của đất nước tôi không? Không, phải kiểm tra việc giảm bớt việc cấp phát nhiên liệu và bảo hành cho thị trường đích đến trước khi đặt hàng.
 

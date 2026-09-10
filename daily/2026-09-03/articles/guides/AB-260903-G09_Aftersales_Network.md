@@ -19,7 +19,7 @@ This guide covers **standing up after-sales, parts supply and warranty fulfilmen
 A documented industry weakness is **"heavy on sales, light on after-sales"**: delegating everything to an agent produces uneven workshops, stock-outs and inconsistent repair quality, and the brand/exporter ultimately pays the reputational cost. For a new exporter the failure mode is predictable — vehicles sell, the first warranty claims arrive, and there is no network or parts to answer them, driving returns, disputes and lost reorders.
 
 ## The Policy Expectation Behind It
-China's four-ministry used-car export notice (item on improving the export support system, VERIFIED) **guides exporters, OEMs and overseas importers to jointly deliver after-sales, secure repair-parts supply and technical support**. MOFCOM carries the same notice. In practice this means after-sales is not optional polish: it is part of compliant, sustainable export operations and increasingly part of how serious buyers vet suppliers.
+China's four-ministry used-car export notice (item on improving the export support system, confirmed by primary sources) **guides exporters, OEMs and overseas importers to jointly deliver after-sales, secure repair-parts supply and technical support**. MOFCOM carries the same notice. In practice this means after-sales is not optional polish: it is part of compliant, sustainable export operations and increasingly part of how serious buyers vet suppliers.
 
 ## Choose a Network Model That Matches Installed Base
 Do not build a proprietary network before volume justifies it. The recommended progression:

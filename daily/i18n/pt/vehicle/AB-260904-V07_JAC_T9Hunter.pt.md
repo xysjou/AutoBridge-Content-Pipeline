@@ -39,7 +39,7 @@ Estes itens de Powertrain do mercado chinês atualmente repousam em uma ** únic
 ## A transmissão, o reboque e a carga útil — As etiquetas de mercado são importantes
 - **Part-time four-wheel drive (BorgWarner)** with **2H 4H 4L** and a **rear differential lock** on the documented 4x4 (Chinese-market single-source; finalizar contra a folha de construção).
 - **Capacidade de reboque 3500 kg é um valor de fábrica JAC do mercado de exportação (mercado EXPORT)** do local OEM de exportação. Deve **não** ser escrito como um valor de homologação/anúncio chinês ou como um número de sistema; a classificação de reboque travado no documento de homologação de destino é o que governa o uso no exterior.
-- **Payload 1000 kg é um valor do mercado CHINA, VERIFIED** através do site oficial de coleta JAC chinês (com suporte de exportação-OEM).
+- **Payload 1000 kg é um valor do mercado CHINA, confirmado por fonte primária** através do site oficial de coleta JAC chinês (com suporte de exportação-OEM).
 - A disponibilidade de RHD aparece nas listas de exportação, mas a matriz de fornecimento de RHD exata deve ser confirmada através de um canal oficial JAC, não assumido.
 
 ## Pontos de Versão e de Configuração de Ordem

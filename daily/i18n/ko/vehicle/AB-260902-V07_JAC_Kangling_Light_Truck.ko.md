@@ -26,8 +26,8 @@
 | 최종 구동 비율 | 4.875 4.33 (선택된 선에 4.11) |
 | 가족 제공 | Zhiwei S25 (Q25A 가솔린 스타일), **Ankang 2.5 (안후이 - 쿠바 HFC4DE3 디젤) **, Ankang 3.0 콜드 체인, YN30 가스 이중 연료, Dekang 160B/C, DHE155 |
 수출과 관련된 디젤은 ** Ankang (安康) 2.5 **, 안후이 - 쿠바 ** HFC4DE3 ** 가족을 사용하여. JAC의 테이블은 세 개의 스프릭스 목록 — ** HFC4DE3-2E5 - 2EA - 2E9 - 111 117 125 kW ** 토크 단계와 더불어 360 및 458 N·m **. 리셀러가 종종 단일 "160 hp 460 N·m "모든 스프릭스와 일치하지 않는 수치를 인용하기 때문에이 문제; 파워 단계 및 토크는 정확한 엔진 스프록 및 발표 인증서를 읽을 수 있어야합니다.
-## One 대표 공지 사항 구축 (database, CROSS_CHECKED(주)
-플랫폼 행이 콘크리트 트럭이되는지 보여주는 것은, 캡처 된 빌드는 ** HFC1043P21K4C7S, 4 × 2 **, 360che/ 卡车之家 발표 데이터와 JAC 가족 크로스 체크 (CROSS_CHECKED; 캡처 2026-09-02, JAC 테이블 2026-09-03에 대한 재 검사:
+## One 대표 공지 사항 구축 (database, 독립 자료로 교차 확인(주)
+플랫폼 행이 콘크리트 트럭이되는지 보여주는 것은, 캡처 된 빌드는 ** HFC1043P21K4C7S, 4 × 2 **, 360che/ 卡车之家 발표 데이터와 JAC 가족 크로스 체크 (독립 자료로 교차 확인; 캡처 2026-09-02, JAC 테이블 2026-09-03에 대한 재 검사:
 | 제품 정보 | HFC1043P21K4C7S dropside (발표 자료당) |
 |---|---|
 | | 4×2 3365 mm |
@@ -64,7 +64,7 @@ public 매개변수 사이트 목록 한 구성 시간에 희소하게 노출 �
 ## 구매자 FAQ
 **Is "Lingpao L6 "하나 고정 ** 아니 — 그것은 몇몇 엔진, 축 축 등급 및 몸과 포좌 가족입니다; 각 조합에는 그것의 자신의 MIIT 발표 모형 및 무게가 있습니다.
 **JAC 공식 테이블은 어떻게 ** 1920 mm 택시, 3365 mm 주요 축거, 180 × 65 × 4.5 프레임,  2 T front 4–5 T rear axles, 4.875/4.33 비율,  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
-**Why do sources quote different horsepower for "the same" L6?** Because the HFC4DE3 has three suffixes with different power/torque, and resellers sometimes quote one label across all of them; 공지 인증서에 suffix와 일치합니다.
+**왜 출처마다 다른 마력을 제시하는가 "the same" L6?** Because the HFC4DE3 has three suffixes with different power/torque, 리셀러는 때로 전체에 하나의 라벨로 표기한다; 공지 인증서에 suffix와 일치합니다.
 **GVW와 페이로드는 ** 캡처 한 드롭사이드 빌드는 4.495 t GVW 1.735 t 페이로드입니다. 상자 및 스테이크 빌드는 낮은 페이로드와 함께 무거운 것입니다. - 각 신체의 자신의 인증서를 읽으십시오.
 **자동이 ** 캡처 된 디젤은 JAC 6-speed 설명서를 사용합니다. 빠른 8-speed은 특정 변형에 나타납니다. 그러나 assuming보다 정확한 줄을 확인합니다.
 ## 이미지 기록

@@ -21,7 +21,7 @@ A homologação certifica que um **tipo/sistema de veículos** satisfaz os requi
 - **EAEU — OTTS EAC:** para a União Económica Eurasiana, os veículos inteiros requerem uma homologação de **OTTS (ou EAC)** em **TR CU 018/2011 "Sobre a segurança dos veículos de rodas",** e um representante autorizado na União** é geralmente exigido. * Confirmar o texto actual da regulamentação técnica e as regras representativas com a Comissão da UEA. *
 A homologação é específica do mercado: um WVTA da UE não concede acesso à UEA e vice-versa.
 
-## Level 2 — Certificate of Conformity (this specific unit matches the approved type)
+## Level 2 — Certificate of Conformity (esta unidade específica corresponde ao tipo homologado)
 Uma vez homologado um modelo, **cada veículo é emitido um CdC certificando que a unidade corresponde ao tipo homologado**; o CdC é o documento que viaja com o carro até ao balcão de registro de destino. Duas armadilhas:
 - O **Chinese é um documento de registo/admissão nacional** (enraizado na Ordem MIIT n.o 50 e regras relacionadas) — não é ** um documento WVTA CoC da UE ou um documento EAEU/EAC.（合格证）（一致性证书）
 - Um CoC de destino só pode ser emitido **contra uma aprovação de destino válida**; você não pode fabricar um CoC UE a partir de papelada chinesa sozinho.
@@ -50,7 +50,7 @@ Um saco de componentes marcados com E não é ** igual a um veículo inteiro WVT
 ** Qual é a diferença entre o WVTA e um CdC?** O WVTA aprova o modelo de veículo em toda a UE; um CdC certifica que cada unidade individual corresponde ao tipo homologado.
 ** São os mesmos os mesmos e-mark? ** Não — rectangular e está ligada às homologações UE veículo inteiro/CE; circular E é UNECE 1958 componente/sistema de homologação entre as partes contratantes.
 ** Marca E em peças aprovam todo o veículo?** Não; as marcas do componente suportam mas nunca substituem a homologação de tipo de veículo inteiro.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+**Do I need a local representative for EAEU approval?** OTTS/Os regimes EAC exigem geralmente um representante autorizado dentro da União — confirm the current TR CU 018 text.
 
 ## Gravação de Imagens
 - IMAGE_ASSET_PATH: none secured in repository

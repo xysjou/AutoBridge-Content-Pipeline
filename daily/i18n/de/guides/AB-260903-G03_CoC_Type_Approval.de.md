@@ -50,7 +50,7 @@ Eine Tasche mit E-markierten Komponenten entspricht **nicht ** einem WVTA des ge
 **Was ist der Unterschied zwischen WVTA und einem CoC?** WVTA genehmigt den Fahrzeugtyp in der gesamten EU; ein CoC zertifiziert jede einzelne Einheit mit diesem genehmigten Typ.
 **Sind E-Mark und E-Mark gleich?** Nr. — Rechteck e ist an EU-Gesamtfahrzeug-/EG-Genehmigungen gebunden; kreisförmig E ist die UNECE 1958 Komponenten-/Systemzulassung unter den Vertragsparteien.
 **Genehmigt E-Mark auf Teilen das gesamte Fahrzeug?** Nein; Bauteilkennzeichnungen unterstützen, ersetzen jedoch niemals die Typgenehmigung für das gesamte Fahrzeug.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+**Do I need a local representative for EAEU approval?** OTTS/EAC-Regelungen erfordern in der Regel einen bevollmächtigten Vertreter innerhalb der Union — confirm the current TR CU 018 text.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: none secured in repository

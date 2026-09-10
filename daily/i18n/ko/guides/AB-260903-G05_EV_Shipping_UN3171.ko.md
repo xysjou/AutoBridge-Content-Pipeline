@@ -17,7 +17,7 @@ intact, 공장 건설된 electrified 차량은 아직도 바다 수송을 위한
 - ** UN3556 - 차량, 리튬 이온 배터리 전원** (BV 또는 PHEV/EREV에 대한 경우 견인 배터리 리튬 이온);
 - ** UN3557 - 차량, 리튬 - 금속 배터리 **;
 - ** UN3558 - 차량, 나트륨 이온 배터리 **.
-**클래스 9 **. The older blanket **UN3171 ("battery-powered vehicle/equipment") sea transition ended on 31 December 2025**; do not build a 2026 booking on UN3171 for a lithium-ion car. 전체 분류 매트릭스 및 느슨한 배터리 항목 (UN3480/UN3481)에 대한 동반자 가이드 [IMDG 42-24 아래 EV를 발송: 분류 모체] (/guides/ev-shipping- un3556-imdg-compliance/); 이 페이지는 **What forwarder/carrier needs at reservation and what make file bookable**에 초점을 맞추고 있습니다.
+**클래스 9 **. The older blanket **UN3171 ("battery-powered vehicle/equipment") sea transition ended on 31 December 2025**; do not build a 2026 booking on UN3171 for a lithium-ion car. 전체 분류 매트릭스 및 느슨한 배터리 항목 (UN3480/UN3481)에 대한 동반자 가이드 [IMDG 42-24 아래 EV를 발송: 분류 모체] (/guides/ev-shipping- un3556-imdg-compliance/); 이 페이지는 **What forwarder/예약 시 해운사에 필요한 사항과 부킹 가능한 서류**에 초점을 맞추고 있습니다.
 ## 두 개의 전체 차량 경로: SP961 대 SP962
 특별 제공은 두 stowage와 paperwork를 구동한다:
 - ** SP961 ** 차량이 **로드, 도난, 처리 및 자체 전원 ** (자체 구동 RoRo-style 경로)에서 언로드되고 명시된 조건을 충족; 그것은 특정 구호를 운반.

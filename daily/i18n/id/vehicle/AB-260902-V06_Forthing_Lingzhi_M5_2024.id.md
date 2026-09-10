@@ -25,7 +25,7 @@ Lingzhi M5 adalah kendaraan yang digunakan untuk mengemudi van komersial MPV unt
 | Dasar Wheelbase | 3000 mm | 2800 mm |
 | Layout kursi ditawarkan | 7 9 kursi | 5 7 8 kursi |
 
-Dimensi, pangkalan roda dan tempat duduk adalah ** VERIFIED ** terhadap halaman parameter resmi Forthing dan cocok dengan database. Tinggi, dekat-vertikal tubuh (1970 mm tinggi) adalah kargo disengaja orang kotak - volume interior berguna adalah tujuan desain. Konfirmasi jumlah kursi yang tepat, karena label "M5L" yang sama mencakup 7- dan 9-seat membangun.
+Dimensi, pangkalan roda dan tempat duduk adalah ** dikonfirmasi sumber primer ** terhadap halaman parameter resmi Forthing dan cocok dengan database. Tinggi, dekat-vertikal tubuh (1970 mm tinggi) adalah kargo disengaja orang kotak - volume interior berguna adalah tujuan desain. Konfirmasi jumlah kursi yang tepat, karena label "M5L" yang sama mencakup 7- dan 9-seat membangun.
 
 ## Powertrains - Bensin Turbo vs Aspirated Aspired CNG
 

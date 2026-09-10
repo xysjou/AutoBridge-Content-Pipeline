@@ -31,7 +31,7 @@ Les sources chinoises décrivent plusieurs batteries au lithium (environ 62 67.8
 
 ## Architecture de charge: 800V est dépendant de la version
 
-Les versions supérieures utilisent une plate-forme 800-volt haute tension qui prend en charge une capacité de recharge rapide DC plus élevée, pendant que la puissance de charge maximale précise  and  10–80% time are not available from an official source here  and  sont donc **non indiqués en valeurs fixes** — les confirmer par par parage. Pour l'exportation, la norme de raccordement physique et de charge (GB/T en Chine par rapport aux normes CCS/autres destinations) est une question distincte et décisive que doit répondre une feuille d'exportation d'OEM.
+Les versions supérieures utilisent une plate-forme 800-volt haute tension qui prend en charge une capacité de recharge rapide DC plus élevée, pendant que la puissance de charge maximale précise  and  10–80% ne sont pas disponibles ici auprès d'une source officielle et sont donc **non indiqués en valeurs fixes** — les confirmer par par parage. Pour l'exportation, la norme de raccordement physique et de charge (GB/T en Chine par rapport aux normes CCS/autres destinations) est une question distincte et décisive que doit répondre une feuille d'exportation d'OEM.
 
 ## Logiciel, OTA et le cockpit
 

@@ -34,7 +34,7 @@ Delong (德龙) X3000 adalah volume Shacman * platform dump tipper berat **, die
 
 ## Mesin Ekspor Resmi dan Rating Lainnya
 
-- ** Export resmi 6 × 4 (VERIFIED) **: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI ** per situs Grup Shacman; Shacman International lists 385/400/430 PS options  and  80 km/h diatur dengan kecepatan tinggi.
+- ** Export resmi 6 × 4 (dikonfirmasi sumber primer) **: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI ** per situs Grup Shacman; Shacman International lists 385/400/430 PS options  and  80 km/h diatur dengan kecepatan tinggi.
 - Tingkat Cina yang lebih tinggi termasuk 460 PS WP12.460E62 (338 kW 2200 N·m, China VI) dan 480 PS WP13.480E50 (353 kW, 12.54 L) - sumber basis data hanya untuk perbandingan.
 
 Ketika memesan, cocok tenaga kuda ke ** model mesin akhiran dan tahap emisi **: sebuah 430 PS Cina - Mesin V bukan produk bersertifikat yang sama dengan 400 PS mesin ekspor, walaupun keluaran terlihat dekat.

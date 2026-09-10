@@ -28,7 +28,7 @@ Vì hàng hóa được vận chuyển trước khi bán xong, nhà kho nước 
 
 Không mã số nào có thể được cấp cho một thực thể chưa đăng ký. Công ty phải hoàn thành việc đăng ký hải quan thông thường như một người điều hành máy móc ngoại quốc, hoàn thành kỷ lục điện tử, và tuyên bố thông qua kênh đã chỉ định - hoặc là hệ thống hải quan hoặc là Cửa sổ thương mại quốc tế. Sau khi các phi công đầu tiên, mô hình được đưa ra rộng rãi hơn trong các khu vực hải quan, nhưng chi tiết hoạt động, nhận các bộ tài liệu và các biện pháp hỗ trợ các khu vực hải quan vẫn có thể khác nhau, vì vậy các phong tục giám sát địa phương là thẩm quyền hoạt động cho việc một tuyên bố được đặt ở đó.
 
-Kỷ luật dữ liệu nghiêm ngặt hơn so với một lưu lượng gói ngẫu nhiên: Dữ liệu giao dịch, dữ liệu hậu cần và, với 9810, hóa đơn kho hàng và sau đó bán dữ liệu nên được hòa giải. Building that three-way match before volume grows is far cheaper than reconstructing it during an audit or a rebate review.
+Kỷ luật dữ liệu nghiêm ngặt hơn so với một lưu lượng gói ngẫu nhiên: Dữ liệu giao dịch, dữ liệu hậu cần và, với 9810, hóa đơn kho hàng và sau đó bán dữ liệu nên được hòa giải. Việc thiết lập đối soát ba chiều trước khi sản lượng tăng sẽ rẻ hơn nhiều so với việc dựng lại khi kiểm toán hoặc khi rà soát hoàn thuế.
 
 ## Câu hỏi về phương tiện xe — đừng cho rằng câu trả lời
 

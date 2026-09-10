@@ -91,7 +91,7 @@ Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên t�
 | GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
+*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is nhạy cảm về thời gian. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

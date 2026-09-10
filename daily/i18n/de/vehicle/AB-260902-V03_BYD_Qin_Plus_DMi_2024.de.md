@@ -21,7 +21,7 @@ Der Qin Plus DM-i ist eine **Plug-in-Hybrid (PHEV) Kompaktlimousine**, weder ein
 | LFP Klingenbatterie | 8.32 kWh | 18.32 kWh |
 | Nur elektrische Reichweite | 55 km NEFZ/46 km WLTC | 120 km NEFZ/101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-Die 145 kW/197 PS-Ausgabe des größeren Batterieautos und sein ~ 18.3 kWh-Pack werden auf der **BYD-eigenen regionalen Qin Plus DM-i-Seite für Bahrain bestätigt (en-bh, VERIFIED, Umfang beschränkt auf das genannte Modell) **; China version figures (8.32/18.32 kWh,  132/145 kW, NEFZ/WLTC) werden in chinesischen Datenbanken überprüft (CROSS_CHECKED). Der 120 ist sowohl schneller als auch schwerer (Burb ~ 1620 kg für den 120KM 领先型).
+Die 145 kW/197 PS-Ausgabe des größeren Batterieautos und sein ~ 18.3 kWh-Pack werden auf der **BYD-eigenen regionalen Qin Plus DM-i-Seite für Bahrain bestätigt (en-bh, durch eine Primärquelle bestätigt, Umfang beschränkt auf das genannte Modell) **; China version figures (8.32/18.32 kWh,  132/145 kW, NEFZ/WLTC) werden in chinesischen Datenbanken überprüft (unabhängig gegengeprüft). Der 120 ist sowohl schneller als auch schwerer (Burb ~ 1620 kg für den 120KM 领先型).
 ## Motor und Betriebsmodus (die PHEV-spezifischen Fragen)
 - **Motor **: 1.5L natürlich angesaugt L4, 81 kW (110 PS) 135 N·m; es ist in erster Linie ein Generator Assistenzeinheit und nicht der Hauptantriebsmotor.
 - **Getriebe **: E-CVT Einstufen-elektrischen stufenlosen Antrieb — es gibt kein mehrstufiges Getriebe zu spezifizieren.
@@ -35,7 +35,7 @@ Ein PHEV trägt **zwei ** Range-Nummern, die Käufer verschmelzen: ** Nur elektr
 Parameter-Standorte listen die Zeilen 55 und 120 auf, lassen den Importeur jedoch die Zyklen und Modi entwirren. Die empfohlene Methode ist eine **VIN-Level-Note, die Motorleistung, Batterie kWh, Elektrobereichszyklus und Ladefähigkeit zusammen *, Markierungsgrade, bei denen DC-Schnellladung fehlt (ein häufiger Ordnungsfehler bei dem Kleinbatterieauto), und die Angabe von Elektro-VS kombinierte Reichweite separat, so dass ein PHEV nie auf seiner kombinierten Nummer beworben wird, als wäre es EV-Reichweite.
 ## Vor Zahlung
 - Legen Sie **55 oder 120** fest, mit passendem Motor (132/145 kW) und passender Batterie (8.32/18.32 kWh) laut VIN-Baubogen.
-- Die elektrische Reichweite **Zyklus** (NEFZ vs. WLTC) aufzeichnen  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- Die elektrische Reichweite **Zyklus** (NEFZ vs. WLTC) aufzeichnen  and  obtain destination-certified PHEV range/CO₂ wo Steuern oder Anreize davon abhängen.
 - Konnektor und AC/DC-Fähigkeit **nach Grad** bestätigen; nehmen Sie keine GB/T-konformen Zielsteckdosen an.
 - Bestätigen Sie die Lenkseite, die Infotainmentsprache/OTA außerhalb Chinas und die Garantie, die den Motor *** und * die Batterie *** und * den Motor abdeckt.
 - Überprüfen Sie die PHEV-Klassifizierung des Zielorts - Hybridanreize/Homologation unterscheiden sich von reinen Elektrofahrzeugen.

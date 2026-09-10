@@ -14,7 +14,7 @@
 - **Schema-Umfang**: Artikel + Fahrzeug (kein Produkt / Angebot / Preis / Überprüfung / Bewertung)
 
 ## Käuferkontext: Eine Nahe-B-Segment-Limousine sitzt über dem Kleinwagenfeld
-Der Arrizo 8 ist Chery Stufenlimousine, zwischen den traditionellen Kompakt- und B-Segmentfelder und bei Käufern Wer mehr Rückwärts will Raum als ein Eintrag Limousine. Für einen Exporteur Die Eröffnungsfrage ist nicht Preis aber **welcher Antriebsstrang Zeile wird zitiert**: Der chinesische Bereich ist Gebaut um eine 1.6-litre Turbo, und diese Seite Dokumente ** 1.6TGDI DCT Chinesischer Markt Fahrzeug (REFERENZMARKT): CHINA**. Jede Zahl unten ist a **Referenzspezifikation des chinesischen Marktes**, Keine globale Spec — Bestimmungsort, Emissionshomologation und -ausrüstung werden durch die lokaler Markt, und Nr. OEM in Übersee Spezifikationsblatt wurde erfasst Für dieses Modell in Das Forschungspaket.
+Der Arrizo 8 ist Chery Stufenlimousine, zwischen den traditionellen Kompakt- und B-Segmentfelder und bei Käufern Wer mehr Rückwärts wird der Raum als eine Limousinen-Eintragung gewollt. Für einen Exporteur Die Eröffnungsfrage ist nicht Preis aber **welcher Antriebsstrang Zeile wird zitiert**: Der chinesische Bereich ist Gebaut um eine 1.6-litre Turbo, und diese Seite Dokumente ** 1.6TGDI DCT Chinesischer Markt Fahrzeug (REFERENZMARKT): CHINA**. Jede Zahl unten ist a **Referenzspezifikation des chinesischen Marktes**, Keine globale Spec — Bestimmungsort, Emissionshomologation und -ausrüstung werden durch die lokaler Markt, und Nr. OEM in Übersee Spezifikationsblatt wurde erfasst Für dieses Modell in Das Forschungspaket.
 
 ## Antriebsstrang (ICE-Fokus: Motor, Getriebe, Kraftstoff, Emission)
 | Position | 1.6TGDI DCT (China-Referenz) |

@@ -53,7 +53,7 @@ Unter Zollverschluss gehaltene Waren (z. B. umfassende Zollbindungszonen) werden
 ## FAQ
 **Was ist Aufsichtscode 0110?**
 
-Es ist allgemeiner Handel,  the standard mode for a normal B2B export  and  den konventionellen Weg für dokumentierte Gesamtfahrzeugexporte.
+Es ist allgemeiner Handel,  der Standardmodus für einen normalen B2B export  and  den konventionellen Weg für dokumentierte Gesamtfahrzeugexporte.
 
 **Was ist 1039 Marktbeschaffungshandel? **
 

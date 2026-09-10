@@ -56,7 +56,7 @@
 
 ## الأسئلة المتكررة
 ** هل وحدة التبريد جزء من فوضوية دونغفنغ**؟ لا - إن الفوضى هي دونغفنغ؛ فالصندوق المزروع ووحدة الشعاب المرجانية هي مجهزة بملف من الجسم وتحتاج إلى ورقة خاصة بها.
-** ما هو GVW  and  box length?** 18 t GVW with a 6.8 m box on a 5000 mm wheelbase for the documented KR.
+** ما هو GVW  and  box length?** 18 t GVW with a 6.8 m box on a 5000 قاعدة عجلات بالملم لطراز KR الموثّق.
 محرك أي محرك؟ Dongfeng Cummins B6.2NS6B245 at 180 kW (245 PS)/ 1000 N·m, through a Fast 8-speed tbox to a Dana 416 axle.
 ** كيف تختلف هيئة التحكيم الكورية عن وكالة الأنباء الكويتية؟** "الكيرو زائد" أكبر 330 PS D7.0 engine, 7.88 متر مربع،  5800 mm wheelbase — keep them separate.
 

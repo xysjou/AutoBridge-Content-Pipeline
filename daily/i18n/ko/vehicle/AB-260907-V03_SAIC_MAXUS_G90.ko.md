@@ -19,7 +19,7 @@ SAIC MAXUS G90은 SAIC Maxus의 대형 (upper-mid) 인민 운송, 가족 및 함
 - 몸: five-door,  six-/seven-seat large MPV, 정면 엔진/정면 바퀴 드라이브, **듀얼 파워 슬라이딩 도어** (독립적 인 데이터베이스를 가로 질러서 체크).
 - 참조 치수: ** 5280 × 1998 × 1845 mm, 휠베이스 3200 mm...
 
-A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition — three usable rows  and  큰 캐빈 -하지만 그것은 또한 실용적인 수출 제약을 설정합니다: 차량에 대한 목적지 등록 규칙을 확인이 길, 차고/ferry/container 차원,  and  the licence category required to drive a loaded seven-seat version in the target market.
+A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition — three usable rows  and  큰 캐빈 -하지만 그것은 또한 실용적인 수출 제약을 설정합니다: 차량에 대한 목적지 등록 규칙을 확인이 길, 차고/ferry/container 차원,  목적 시장에서 만재 7인승을 운전하는 데 필요한 면허 등급.
 
 ## Powertrain - 한 고정 된 휘발유 라인
 
@@ -37,7 +37,7 @@ G90은 ** 좌석 (2+2+2) ** 및 ** 좌석 (2+2+3) ** 구성 및 선택 변경 �
 - 선택된 트림에 대한 두 번째 줄 선장 기둥 versus 벤치 콘텐츠를 확인합니다.
 - 마케팅 이미지보다는 균질화 인증서에 자리 잡는다.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), 세 번째 행이 사용 여부에 따라 얼마나 많은 수하물 공간이 달라집니다. 트리 의존으로 정확한 인물을 치료합니다.
+화물 부피는 대략 다음으로 제시된다 **1010.5–2179 L** 3열을 접었을 때 (single-source), 세 번째 행이 사용 여부에 따라 얼마나 많은 수하물 공간이 달라집니다. 트리 의존으로 정확한 인물을 치료합니다.
 
 ## 대형 MPV 구매자가 확인해야 할 일
 

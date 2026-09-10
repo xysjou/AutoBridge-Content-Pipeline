@@ -85,7 +85,7 @@ Hướng dẫn này không đưa ra một con số cố định nào cả -- l�
 | SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
 | SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
 | SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
-| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees nhạy cảm về thời gian |
 | 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
 | Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 

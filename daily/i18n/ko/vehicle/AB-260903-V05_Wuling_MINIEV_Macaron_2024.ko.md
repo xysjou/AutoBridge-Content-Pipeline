@@ -36,7 +36,7 @@
 ## 차원과 포장 현실
 - 길이 폭 높이: ** 3064 1493 1629 mm **
 - 휠베이스: ** 2010 mm **
-At just over 3 m long, the Macaron is one of the smallest four-seat EVs on the China market. Four seats are present, 하지만 후방 공간  and  luggage volume are micro-car scale — "4-seat" means occasional four-up urban use,  not four-adult comfort. 작은 발자국은 또한 선적 이점입니다: 기존 자동차보다 컨테이너 당 더 많은 단위이지만 정확한 계산은 ** 측정 된로드 계획 및 캐리어의 승인 된 도난 ** (컨테이너 로드 가이드 참조) - 혼자 길이에서 고정 번호를 인용하지 않습니다.
+At just over 3 m long, 마카롱은 중국 시장에서 가장 작은 4석 전기차 중 하나다. Four seats are present, 하지만 후방 공간  및 적재 부피는 초소형차 수준이다 — "4-seat" means occasional four-up urban use,  not four-adult comfort. 작은 발자국은 또한 선적 이점입니다: 기존 자동차보다 컨테이너 당 더 많은 단위이지만 정확한 계산은 ** 측정 된로드 계획 및 캐리어의 승인 된 도난 ** (컨테이너 로드 가이드 참조) - 혼자 길이에서 고정 번호를 인용하지 않습니다.
 
 ## 소프트웨어, 충전 및 안전 현실
 - 중국은 **GB/T** 인터페이스를 사용합니다. 해외 충전 호환성은 VIN 및 대상 커넥터에 따라 확인되어야 합니다.
@@ -61,7 +61,7 @@ Micro-EV 라인 변경 조합 자주, 그래서 ** 특정 VIN 빌드 시트에 �
 보고 최고 속도는 100 km/h입니다 — 그것은 도시 사용을 위해 건축되고, 고속도로 순항하지 않습니다.
 **How many seats?** Four seats in a 3-door, 3064 mm 마이크로 몸; 후방 공간은 복면으로 조밀하고 제일 대우됩니다.
 ** 소형 함대 170 또는 215 ** 일일 루프 일치: 짧은 반환 -베이스 루프는 170에 맞는; 더 이상 또는 중간 사용 루프는 215 's 헤드 웨이 및 모든 DC 옵션을 필요로합니다 - VIN 당 확인.
-**Is it a competitor to a normal compact EV?** No — next to a ~4.1 m, 420+ km 돌고래는 클래스가 작습니다. 초소형 도시 통근로 자리 잡고 고속도로 가족 EV가 아닌 위치.
+**일반 소형 전기차의 경쟁 모델인가?** No — next to a ~4.1 m, 420+ km 돌고래는 클래스가 작습니다. 초소형 도시 통근로 자리 잡고 고속도로 가족 EV가 아닌 위치.
 
 ## 이미지 기록
 - IMAGE_ASSET_PATH: none secured in repository

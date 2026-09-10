@@ -18,7 +18,7 @@ La mayoría de los primeros envíos fallidos en la parte **China**, no el destin
 ## Paso 1 — Confirme qué regimiento de licencia su vehículo cae bajo
 China no utiliza un "permiso de exportación de automóviles". Destinguir las pistas:
 - ** Coches de pasajeros de nueva energía VV:** vehículos propulsados únicamente por un motor de conducción y por un VIN (referencia HS 8703801090) están bajo **Administración de licencias de exportación** supervisados conjuntamente por MOFCOM, MIIT, GAC y SAMR (TIME_SENSITIVE) confirman el aviso actual y el código HS exacto contra el calendario arancelario del año.
-- ** Vehículos usados:** el Estado opera un régimen de exportación ** administrado por MOFCOM**, y los detalles de la licencia deben coincidir con el certificado de registro de vehículos motorizados (VERIFIED, aviso de cuatro entradas).
+- ** Vehículos usados:** el Estado opera un régimen de exportación ** administrado por MOFCOM**, y los detalles de la licencia deben coincidir con el certificado de registro de vehículos motorizados (confirmado por una fuente primaria, aviso de cuatro entradas).
 - ** Nuevos vehículos motocicletas convencionales:** manejados a través de la presentación anual de licencias de exportación** descritos a continuación.
 El código de mercancía exacto y su condición reglamentaria deben confirmarse contra el actual Arancel de Exportación de Importación y el último anuncio de MOFCOM — no reutilizar la suposición de HS del año pasado.
 

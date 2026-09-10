@@ -48,7 +48,7 @@ Những câu trích dẫn thường xuyên của xe tải làm mờ động cơ 
 ## Kiểm tra người mua và người giặt
 
 - **Body và thủy lực**: confirm body length (7.6 m reference), Chiều cao bảng Lớp thép, Phần sau chống lại phần phụ,  and  Hệ thống đẩy nước tự động Thi thể thường được xây dựng để đặt trật tự.
-- **Axles và ổ đĩa cuối cùng**: the reference uses MAN-type double-reduction axles at 5.262 — suited to loaded/grade work; xác nhận tỷ lệ so với đường và lốp xe (12.00R20, 12 lốp xe trên 8 × 4).
+- **Axles và ổ đĩa cuối cùng**: bản tham chiếu dùng cầu giảm tốc kép kiểu MAN tại 5.262 — suited to loaded/grade work; xác nhận tỷ lệ so với đường và lốp xe (12.00R20, 12 lốp xe trên 8 × 4).
 - **Wights**: re-concith 31 t GVW và 15.37 t xếp hạng tải chống lại các quy tắc trục số và quá tải; vật liệu/sự cân bằng cơ thể thay đổi theo khuôn khổ trọng lượng.
 - Bố trí **Diive**: chọn 6 × 4 đấu với 8 × 4 theo quy định pháp lý và điều kiện đường sá; 8 × 4 đang lan rộng trên bốn trục.
 - **Gearbox**: tham khảo là một cuốn hướng dẫn nhanh 12-speed (13-speed trên một số Trung Quốc VI) — xác nhận mô hình truyền tải và số đo bằng tay; không giả định được AMT/automatic.
@@ -61,7 +61,7 @@ Người ta không lấy được giá nào và cũng không ước tính giá n
 ## Người mua FAQ
 
 ** Thư mục tham khảo 8 × 4 430 bao gồm những gì? Động cơ Weichai 11.596 L 430 PS, Nhanh 12-speed hướng dẫn sử dụng. 31 t GVW  and  a 7.6 × 2.35 × 1.5 m rear-tip body, Theo số liệu của thông báo. 360che
-**Is there an official export version?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, China VI)  and  lists 385/400/430 PS options internationally.
+**Có phiên bản xuất khẩu chính thức không?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, China VI)  and  lists 385/400/430 PS options internationally.
 Tại sao phiên bản tiết ra lại khác nhau nhiều đến thế? Thị trường khác nhau về chất đốt và quy tắc nhập khẩu, nên Trung Quốc V/VI và các dự đoán cấp Euro thấp cùng tồn tại; khớp với động cơ đến đích.
 Hàng được xếp hạng bao nhiêu? Khoảng 15.37 t để tham khảo 8 × 4 (tài nguyên), đối tượng đến địa điểm trục số/ GVW quy tắc và cuối cùng cơ thể được xây dựng.
 ** Tự động hay tự động? Những người bị bắt này dùng những phương tiện truyền tải bằng tay nhanh (12/13-speed); xác nhận thay vì giả định một phương pháp tự động.

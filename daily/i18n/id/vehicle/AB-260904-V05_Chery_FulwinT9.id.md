@@ -39,7 +39,7 @@ Untuk PHIV yang perbaikan eksportir ** mesin, motor, baterai dan pengisian ** be
 ## Standar T9 vs Stretched T9L - Jangan Gabung
 - Halaman ini: standar T9, kecepatan 4795 mm 2770 mm.
 - ** Terabaikan: T9L **, sekitar 4870 mm dengan sebuah pangkalan roda 2920 mm. Ini adalah kendaraan pangkalan kemudi yang lebih panjang; pencampuran dimensi atau klaim tempat duduk menjadi standar- T9 urutan adalah kesalahan konfigurasi.
-- Langkah jarak dan tempat duduk bervariasi dengan garis miring; the 120–220 km spread is not a single number for one car.
+- Langkah jarak dan tempat duduk bervariasi dengan garis miring; the 120–220 rentang km ini bukan satu angka tunggal untuk satu mobil.
 
 ## Verifikasi Pembeli Luar Negeri Sebelum Pembayaran
 1. ** Body versi ** - standar T9, tidak pernah diam-diam diganti dengan T9L.

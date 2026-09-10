@@ -24,7 +24,7 @@ Der FAW Jiefang J7 ist der Flaggschiff-Schwerlastzugwagen der siebten Generation
 | Beispiel Homologation | CA4250P77K25T1E5 | single source |
 | Era | 2018 Startstrecke — **HISTORICAL_VARIANT** | CROSS_CHECKED |
 
-Diese Zahlen beschreiben die ** 2018-era China- 5 ** J7. Sie müssen als historische Emissionsstufe gekennzeichnet und dürfen nicht als derzeit verkaufter Lkw dargestellt werden. A China-5 engine also raises a direct export question: Viele Zielmärkte erfordern jetzt eine neuere Emissionsstufe.  so a China-5 unit may not be registerable even where the truck itself is available. Bestätigen Sie die Bestimmungsortemissionserkennung, bevor Sie diese Generation beschaffen.
+Diese Zahlen beschreiben die ** 2018-era China- 5 ** J7. Sie müssen als historische Emissionsstufe gekennzeichnet und dürfen nicht als derzeit verkaufter Lkw dargestellt werden. A China-5 engine also raises a direct export question: Viele Zielmärkte erfordern jetzt eine neuere Emissionsstufe.  so a China-5 Einheit möglicherweise nicht zulassungsfähig, selbst wenn der Lkw selbst verfügbar ist. Bestätigen Sie die Bestimmungsortemissionserkennung, bevor Sie diese Generation beschaffen.
 
 ## Generation two — China-6 (current line)
 
@@ -34,11 +34,11 @@ Diese Zahlen beschreiben die ** 2018-era China- 5 ** J7. Sie müssen als histori
 | Bezugsgröße der Spitzenleistung | Up to 600 PS / 2800 N·m | single source — genaue PS-Schritte von SKU zur Bestätigung|
 | Layout | 6x4 dominant; Luftfederung und hydraulischer Retarder optional in ausgewählten Konfigurationen | single source |
 
-The China-6 family is the current line, aber seine genauen PS / Drehmoment Schritte über SKUs sind hier nicht vollständig belegt - "bis zu 600 PS " ist eine Deckenreferenz, nicht eine einzige feste Bewertung für jeden LKW. An order must name the exact CA6SX1 power rating, Getriebe, Achsübersetzung  and  Sattelkupplung  and  schließen Sie sie mit der offiziellen Jiefang-Spezifikation oder dem genauen MIIT-Homologationseintrag. Elemente wie die genaue Sattellast, Achsübersetzungen, Kraftstofftankkapazität und Leermasse werden **nicht** angegeben, da keine genaue Quelle für SKU erfasst wurde.
+The China-6 family is the current line, aber seine genauen PS / Drehmoment Schritte über SKUs sind hier nicht vollständig belegt - "bis zu 600 PS " ist eine Deckenreferenz, nicht eine einzige feste Bewertung für jeden LKW. Eine Bestellung muss die genaue CA benennen6SX1 power rating, Getriebe, Achsübersetzung  and  Sattelkupplung  and  schließen Sie sie mit der offiziellen Jiefang-Spezifikation oder dem genauen MIIT-Homologationseintrag. Elemente wie die genaue Sattellast, Achsübersetzungen, Kraftstofftankkapazität und Leermasse werden **nicht** angegeben, da keine genaue Quelle für SKU erfasst wurde.
 
 ## Warum "das Maximum von beiden nehmen" falsch ist
 
-Ein Spec Sheet, das " J7" auflistet: 600 PS; 2300 N·m " durch Kirschpicken der China- 6 Pferdestärken  and  the China-5 torque — or that pairs the 2018 homologation number with the newest engine — describes a truck that does not exist. Die richtige Methode ist, die beiden Spalten auseinander zu halten und jede Zahl an ihre Emissionsstufe und SKU zu binden:
+Ein Spec Sheet, das " J7" auflistet: 600 PS; 2300 N·m " durch Kirschpicken der China- 6 Pferdestärken  and  the China-5 torque — or that pairs the 2018 Homologationsnummer mit dem neuesten Motor — beschreibt einen Lkw, den es nicht gibt. Die richtige Methode ist, die beiden Spalten auseinander zu halten und jede Zahl an ihre Emissionsstufe und SKU zu binden:
 
 | Dimension | China- 5 (historisch) | China- 6 (aktuell) |
 |---|---|---|

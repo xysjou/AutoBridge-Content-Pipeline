@@ -62,7 +62,7 @@ The Changan Kaicene F70 is a body-on-frame (non-load-bearing) mid-size pickup of
 
 "มันขับสี่ล้อเหรอ" ~
 
-It is a body-on-frame double-cab pickup offered in both 2WD  and  4WD; (;  ระบุลําดับที่
+เป็นกระบะแค็บคู่แบบแยกแชสซี-ตัวถัง มีจำหน่ายทั้งสองแบบ 2WD  and  4WD; (;  ระบุลําดับที่
 
 ** เครื่องยนต์ส่งออกมาคืออะไร? ~
 

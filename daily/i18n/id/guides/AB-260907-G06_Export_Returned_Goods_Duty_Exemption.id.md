@@ -1,4 +1,4 @@
-# Kembalikan Ekspor Barang-barang di Cina: The One- Year Duty Exemption  and  Trek Terpisah Enam Bulan E- Iklan
+# Kembalikan Ekspor Barang-barang di Cina: Pembebasan Bea Satu Tahun dan Jalur E-Commerce Terpisah Enam Bulan
 ## Metadata SEO
 - **Judul SEO**: China Returned Export Goods Duty Exemption (One-Year &  CBEC  Rules) | AutoBridge
 - **Deskripsi Meta**: Ketika barang ekspor Cina dikembalikan dalam waktu satu tahun untuk kualitas atau alasan spesifikasi masukkan kembali kotak-bebas dibawah GACC Pesan 272, perbedaan persimpangan perbatasan e- aturan perdagangan enam bulan, dan apa 'negara asli' dibutuhkan.
@@ -30,7 +30,7 @@ Ini bukan sebuah aturan "apapun Cina pulang gratis"; pengiriman yang dijual, dig
 
 Apakah barang yang dikembalikan berada dalam keadaan asli dinilai oleh bea cukai terhadap fakta (lintas diperiksa seluruh langkah-langkah dan bimbingan operasional). Sebagai definisi kerja barang tidak boleh digunakan atau diproses di luar negeri dan harus melestarikan ekspor mereka kondisi waktu, memungkinkan untuk penanganan transportasi normal. Paket dapat dibuka untuk pemeriksaan; produk yang mudah dikonsumsi seharusnya tidak dikonsumsi, dipasang menjadi produk lain yang baik, direproduksi atau secara substansial diubah. Karena determinasi adalah penyebab-spesifik, eksportir harus melestarikan deklarasi ekspor asli, B / L, luar negeri penolakan / kualitas bukti dan foto yang menghubungkan barang-barang kembali ke batch ekspor asli.
 
-## The rebate clawback yang mudah untuk kehilangan
+## Penarikan kembali rabat yang mudah terlewat
 
 Jika sebuah ekspor VAT rebate sudah ditarik turun ketika barang-barang meninggalkan Cina, membawa mereka kembali di bawah pembebasan tidak menguntungkan ganda. Rebate disebabkan oleh barang yang dikembalikan harus dibayar kembali dan dibalik sesuai dengan prosedur pajak. Pengunjung harus mengkoordinasikan kembali bea cukai yang mengajukan pajak sehingga pembebasan tugas pada re-entry dan pembalikan rebate konsisten - mengklaim pembebasan masuk ulang saat mempertahankan ekspor rebate adalah kesalahan yang audit target.
 

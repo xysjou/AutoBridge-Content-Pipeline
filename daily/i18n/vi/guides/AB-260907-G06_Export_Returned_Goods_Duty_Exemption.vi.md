@@ -1,4 +1,4 @@
-# Hàng hóa xuất khẩu trả về ở Trung Quốc: Trách nhiệm một năm trước đây  and  the Separate Six-Month E-Commerce Track
+# Hàng hóa xuất khẩu trả về ở Trung Quốc: Trách nhiệm một năm trước đâvà Luồng thương mại điện tử sáu tháng riêng biệt
 ## Siêu dữ liệu SEO
 - **Tiêu đề SEO**: Trung Quốc trả lại hàng hóa đã được xuất ra (Một- năm hai- CBEC Quy tắc) tự động lưu trữ
 - **Meta mô tả**: Khi hàng xuất khẩu Trung Quốc được trả lại trong vòng một năm vì chất lượng hoặc đặc biệt lý do tại sao không có nhiệm vụ dưới GACC Thứ tự 272,  the separate cross-border e-commerce six-month rule,  and  yêu cầu gì?
@@ -16,7 +16,7 @@ Khi hàng xuất khẩu trở lại Trung Quốc — một nhóm các bộ phậ
 
 ## Quy tắc chung: một năm, lý do chất lượng/ cụ thể, trạng thái gốc
 
-Dưới sự quản lý của Levy và Bộ sưu tập các tập đoàn Hải quan (Chính quyền các Phong tục Trung Quốc, 272) **Article 49 **, hàng hóa được gửi lại trong một năm** của xuất khẩu, cho ** những lý do xuất khẩu, hoặc cụ thể**, và trong chính quyền họ ** tiểu bang **, có thể được mang trở lại mà không cần quan hệ với hải quan và thuế trên sân khấu khi vào lại. The current measures took effect on **1 December 2024**.
+Dưới sự quản lý của Levy và Bộ sưu tập các tập đoàn Hải quan (Chính quyền các Phong tục Trung Quốc, 272) **Article 49 **, hàng hóa được gửi lại trong một năm** của xuất khẩu, cho ** những lý do xuất khẩu, hoặc cụ thể**, và trong chính quyền họ ** tiểu bang **, có thể được mang trở lại mà không cần quan hệ với hải quan và thuế trên sân khấu khi vào lại. Các biện pháp hiện hành có hiệu lực từ **1 December 2024**.
 
 Ba điều kiện được phối hợp lại — cả ba đều phải giữ vững:
 
@@ -34,9 +34,9 @@ Cho dù hàng hóa được trả lại ở trạng thái ban đầu của họ 
 
 Nếu một người xuất khẩu từ chối nhập khẩu từ thiện đã bị rút xuống khi hàng hóa rời Trung Quốc, thì việc miễn dịch không đem lại lợi ích gấp đôi. Tiền bồi thường phải được trả lại / đảo ngược** theo thủ tục thuế. Bên xuất nhập cảnh nên phối hợp việc gửi lại tập tin với việc xử lý thuế để miễn thuế và tái thu hồi lại là nhất quán. Cho rằng miễn thuế được miễn thuế trong khi vẫn duy trì việc gửi lại xuất khẩu là sai lầm mà kiểm tra mục tiêu.
 
-## Đường dẫn ngang khác nhau e-commerce: six months, định nghĩa mã giám sát
+## Đường dẫn ngang khác nhau e-commerce: sáu tháng, định nghĩa mã giám sát
 
-Lệnh tái lập lịch trình của họ, và không nên nhầm lẫn với quy tắc một năm. Để hàng hóa xuất khẩu dưới mật mã giám sát qua đường dây điện tử ** 1210, 9610, 9710  and  9810** that return in their original state within **six months**, Một lệnh miễn thuế áp dụng cho việc trở lại. This special arrangement has a defined execution period of **1 January 2026 to 31 December 2027** (time-sensitive — confirm the current operative notice before relying on it). Hãy chú ý sự tương phản: six months rather than one year, Liên quan đến các mã điện tử đặc biệt,  and  Bị ràng buộc bởi một thời gian chính sách rõ ràng.
+Lệnh tái lập lịch trình của họ, và không nên nhầm lẫn với quy tắc một năm. Để hàng hóa xuất khẩu dưới mật mã giám sát qua đường dây điện tử ** 1210, 9610, 9710  and  9810** được hoàn trả ở nguyên trạng trong **sáu tháng**, Một lệnh miễn thuế áp dụng cho việc trở lại. Sắp xếp đặc biệt này có thời gian thực hiện xác định là **1 January 2026 to 31 December 2027** (nhạy cảm về thời gian — xác nhận thông báo đang hiệu lực trước khi dựa vào). Hãy chú ý sự tương phản: sáu tháng thay vì một năm, Liên quan đến các mã điện tử đặc biệt,  and  Bị ràng buộc bởi một thời gian chính sách rõ ràng.
 
 | Kích thước | Tướng quân đã trở về. | Theo dõi chéo hàng e-commerce |
 |---|---|---|

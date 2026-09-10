@@ -57,7 +57,7 @@ Es ist ein Mechanismus, bei dem ein Unternehmen eine Zollverletzung durch Selbst
 
 **Was ist das aktuelle Toleranzfenster? **
 
-The current operative announcement applies from 11 October 2025 to 30 June 2027; gegen die bei der Einreichung geltende Ankündigung zu bestätigen, da eine spätere Behandlung nicht angenommen wird.
+Die aktuell geltende Mitteilung gilt ab 11 October 2025 to 30 June 2027; gegen die bei der Einreichung geltende Ankündigung zu bestätigen, da eine spätere Behandlung nicht angenommen wird.
 
 ** Verzichtet die freiwillige Offenlegung auf die unbezahlte Pflicht? **
 

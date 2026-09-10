@@ -23,7 +23,7 @@ En el lado exportador de China, la clasificación se basa en el arancel **Harmon
 Si un kit califica para un tratamiento arancelario de menor "agrupación local", una relación de contenido local requerida, o un incentivo de inversión es decidido por las autoridades de aduanas, impuestos e inversiones del país **. China exportadoras y páginas web comerciales no pueden establecer ese resultado. Un destino diferente puede alcanzar un resultado diferente para un kit idéntico, y tratar partes no asemejadas como un vehículo entero para el deber (o viceversa) debe ser evidenciado por la autoridad de ese país.
 
 ## Qué montar antes de citar un programa de kits
-1. **Bill of materials by HS line** — list every module/component with its own HS code, origin and value.
+1. **Bill of materials by HS line** — list every module/componente con su propio código HS, origin and value.
 2. **Clasificación de las exportaciones chinas** — aplicar el HS/tariff y obtener una resolución en la que la ambigüedad es material.
 3. **Destinación** — obtener la posición de destino aduanera/tax sobre la clasificación de kits, el deber, el contenido local y las condiciones de montaje antes de comprometer la inversión.
 4. ** Documentación de la plataforma** - determinar si el vehículo montado es el que se clasifica para el origen preferencial (véase la guía de certificado de origen).

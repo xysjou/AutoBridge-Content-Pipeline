@@ -35,7 +35,7 @@ Die 343 kW und 337 kW Figuren sind ** bewertet vs net ** Macht auf verschiedenen
 
 ## Variant Boundary - Mischen Sie das Line-Up nicht
 - **Diese Seite: DDi11E465-60 (465 PS).**
-- The wider KL range also offers **430 520 560 PS** engines  and  **Erdgas (LNG/CNG) Versionen**; Es handelt sich um separate Antriebsstränge mit unterschiedlichen Drehmoment-, Kraftstoffsystem- und Fahrgestellspezifikationen. Quoting a gas-variant figure for the 465 diesel is an error.
+- Die breitere KL-Baureihe bietet zudem **430 520 560 PS** engines  and  **Erdgas (LNG/CNG) Versionen**; Es handelt sich um separate Antriebsstränge mit unterschiedlichen Drehmoment-, Kraftstoffsystem- und Fahrgestellspezifikationen. Einen Wert der Gasvariante für den 465 diesel is an error.
 - Achsenverhältnis, Getriebe (manuell/AMT) und Fahrerhaus (hoch/niedriges Dach, Schwelle) sind auftragsselektiert und ändern die gelieferte Spezifikation.
 
 ## Chassis und Cab Checks für den Export

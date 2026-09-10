@@ -21,7 +21,7 @@ La Qin Plus DM-i est une berline compacte hybride **plug-in (PHEV)**, ni une voi
 | LFP Batterie à lame | 8.32 kWh | 18.32 kWh |
 | Gamme électrique seulement | 55 km NÉDC 46 km WLTC | 120 km NÉDC 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-La sortie 145 kW/197 PS de la voiture à plus grande batterie et son pack ~ 18.3 kWh sont corroborés sur la page régionale Qin Plus DM-i de BYD pour Bahreïn (en-bh, VERIFIED, portée limitée à ce modèle nommé)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) sont recoupés dans les bases de données chinoises (CROSS_CHECKED). Le 120 est à la fois plus rapide et plus lourd (courbe ~ 1620 kg pour le 120KM 领先型).
+La sortie 145 kW/197 PS de la voiture à plus grande batterie et son pack ~ 18.3 kWh sont corroborés sur la page régionale Qin Plus DM-i de BYD pour Bahreïn (en-bh, confirmé par une source primaire, portée limitée à ce modèle nommé)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) sont recoupés dans les bases de données chinoises (vérifié par recoupement indépendant). Le 120 est à la fois plus rapide et plus lourd (courbe ~ 1620 kg pour le 120KM 领先型).
 ## Mode moteur et mode de fonctionnement (questions spécifiques au VÉHI)
 - ** Moteur**: 1.5L aspiré naturellement L4, 81 kW (110 PS) 135 N·m; il s'agit principalement d'un générateur/unité d'aide plutôt que du moteur d'entraînement principal.
 - **Transmission**: E-CVT à une vitesse électrique à entraînement variable en continu — il n'y a pas de boîte de vitesses à plusieurs étapes pour les spécifications.

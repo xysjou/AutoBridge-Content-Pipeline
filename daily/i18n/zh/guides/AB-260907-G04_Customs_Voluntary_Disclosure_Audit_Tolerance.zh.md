@@ -57,7 +57,7 @@
 
 **当前的主动披露容错窗口期是如何规定的？**
 
-The current operative announcement applies from 11 October 2025 to 30 June 2027; 证实反对提交时有效的通知,因为以后的治疗不假定。
+当前生效公告自 11 October 2025 to 30 June 2027; 证实反对提交时有效的通知,因为以后的治疗不假定。
 
 ** 自愿披露是否免除了未支付义务? 页:1
 

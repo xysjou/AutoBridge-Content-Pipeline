@@ -33,7 +33,7 @@
 - 引用パック kWh ** および** 範囲** 範囲 一緒に; 決して新しい 51 kWh 番号をベース VIN に添付しません。 AC/DC 充電の規定とビルドごとの充電時間を確認します。
 
 ## 文書化されたエクスポートレコード(要因、エイリアスではなく)
-China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, Farizonがその市場に参入する最初のエントリとして説明,  in 6 m³ form. これは**輸出配達記録です。 欧州規格のビルドが出荷されたことを確認し、  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  仕様シートをリクエストします。
+China Transport News (an industry news outlet) reports that in **February 2024 EU仕様Vの初期ロット6EバンがTへ輸出されたürkiye**, Farizonがその市場に参入する最初のエントリとして説明,  in 6 m³ form. これは**輸出配達記録です。 欧州規格のビルドが出荷されたことを確認し、  but it does **not** make the Tüトルコ、中国仕様と同一のEU仕様バン 35.2/51 kWh builds — treat export configuration separately  and  仕様シートをリクエストします。
 
 ## 支払い前に輸入業者が確認すべきこと
 - 証明書の電動貨物バンのドライブ車軸配置を確認します。 キャプチャされた中国の参照データはそれを修正しません。したがって、ロード運送シャーシのフロントドライブにデフォルトはありません。
@@ -50,7 +50,7 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 **What is the V6E's cargo capacity?** A 6 m³ cargo bay (about 1.6 m long reference), ロード指向のリーフスプリングリアアクスルで。
 リファレンスベースパックは、約260 km(作業条件)で35.2 kWhです。 より大きなバッテリービルドがリストされていますが、その正確な数字は、引用ではなく、カタログとVINで確認する必要があります。
 90 km/h、電子的に限られる–都市/最後のマイルの特徴。
-**Has the V6E been exported?** Yes — an EU-spec batch was recorded shipped to Türkiye in Feb 2024; 輸出ビルドは、中国・スペク・バンと自動的に同一ではありません。
+**Has the V6E been exported?** Yes — EU仕様の一批がT向けに出荷された記録があるürkiye in Feb 2024; 輸出ビルドは、中国・スペク・バンと自動的に同一ではありません。
 ウーロン-ZF TZ185XS022 の永久的な磁気モーター、60 kW/220 N·m。
 
 ## 映像の記録

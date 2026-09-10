@@ -14,7 +14,7 @@
 - **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
 ## Contexto do comprador: uma cabeça do trator é especificada pela corrente de Powertrain e peso do trem
-Os compradores de camiões pesados não fazem listas de equipamentos de compras — especificam uma cadeia de eixos **motor-gearbox-malha correspondente a um peso bruto combinado**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. O erro recorrente neste modelo está confundindo o poder ** rated com a figura net power**,  or blending the 465 PS tractor with the 430/520/560 PS  and  variantes de gás. Esta página documenta o trator **Chinês-mercado DDi11E465-60 (MERCADO DE REFERÊNCIA: CHINA)**; nenhuma brochura primária OEM foi capturada, por isso os valores comerciais cruzados devem ser confirmados em relação ao anúncio MIIT.
+Os compradores de camiões pesados não fazem listas de equipamentos de compras — especificam uma cadeia de eixos **motor-gearbox-malha correspondente a um peso bruto combinado**. O Tianlong KL é a versão chinesa da Dongfeng6 heavy semi-tractor. O erro recorrente neste modelo está confundindo o poder ** rated com a figura net power**,  or blending the 465 PS tractor with the 430/520/560 PS  and  variantes de gás. Esta página documenta o trator **Chinês-mercado DDi11E465-60 (MERCADO DE REFERÊNCIA: CHINA)**; nenhuma brochura primária OEM foi capturada, por isso os valores comerciais cruzados devem ser confirmados em relação ao anúncio MIIT.
 
 ## Motor (foco pesado do caminhão: motor, caixa de velocidades, eixo, GCW, cabina, chassis)
 | Item | Tianlong KL 465 (China reference) |

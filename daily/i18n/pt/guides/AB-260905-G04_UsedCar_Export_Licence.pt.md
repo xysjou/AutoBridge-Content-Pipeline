@@ -14,7 +14,7 @@
 - **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Exportação de carros usados é uma empresa licenciada, baseada em pilotos
-Ao contrário da exportação normal de automóveis novos, a exportação de veículos usados da China é limitada a ** empresas qualificadas em áreas-piloto aprovadas** seleccionadas através do mecanismo-piloto, e opera ao abrigo de um regime de ** licença de exportação**. Uma empresa não pode começar a exportar carros usados simplesmente porque tem direitos comerciais gerais. A lista de zonas piloto expande-se ao longo do tempo e deve ser lida a partir do actual aviso MOFCOM/governo, em vez de uma lista fixa.
+Ao contrário da exportação normal de automóveis novos, a exportação de veículos usados da China é limitada a ** empresas qualificadas em áreas-piloto aprovadas** seleccionadas através do mecanismo-piloto, e opera ao abrigo de um regime de ** licença de exportação**. Uma empresa não pode começar a exportar carros usados simplesmente porque tem direitos comerciais gerais. A lista de zonas-piloto expande-se ao longo do tempo e deve ser lida a partir do aviso MOFCOM atual/governo, em vez de uma lista fixa.
 
 ## Qualificação e processo de licença
 A rota passa pela seleção piloto-empresa, obtendo a licença de exportação (aplicada através do sistema de licenciamento MOFCOM), em seguida, declaração aduaneira e desembaraço. Existe uma definição de ** excepção de contratação de projectos** para equipamento/veículos utilizados enviados para o estrangeiro no âmbito de projectos contratados no estrangeiro, que segue as suas próprias regras em vez da licença de comércio de automóveis usados normal.

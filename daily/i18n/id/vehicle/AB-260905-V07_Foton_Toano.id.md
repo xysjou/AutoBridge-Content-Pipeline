@@ -21,7 +21,7 @@
 - *** Dasar roda panjang **: 3510 = X5 长轴 = 3750 = 经典长轴 = 车长 5990 = 2000 = mm.
 - ** 2.5T torsi diesel **: 400 N·m; gearbox 6MT.
 - 3/5/6/7/9/14/15/17: 随版本 - Ya.
-- ** Conversion note **: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, bukan spesifikasi base- van.
+- ** Conversion note **: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — bodi berpendingin adalah penambahan (upfit), bukan spesifikasi base- van.
 
 ## Tabel spesifikasi terverifikasi (Referensi pasar Cinese-)
 | Spesifikasi | Nilai | Unit | Pasar | Percaya diri | Catatan sumber |

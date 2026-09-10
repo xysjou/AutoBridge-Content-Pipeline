@@ -1,4 +1,4 @@
-# 중국에서 수입된 수출 상품: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
+# 중국에서 수입된 수출 상품: 1년 면세와 별도의 6개월 전자상거래 트랙
 ## SEO 메타데이터
 - **SEO 제목**: 중국 수출 상품 면세(One-Year & CBEC Rules)|자동배리지
 - **메타 설명**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under  GACC  Order 272,  the separate cross-border e-commerce six-month rule,  and  '원래 상태'가 필요한 것.
@@ -16,7 +16,7 @@
 
 ## 일반 규칙: one year, 품질/특성 이유, 원래 상태
 
-Levy의 관리 조치  and  세관 의무의 수집 (중국 주문의 세관 제 272 호), **Article 49 **,  goods that are re-imported **within one year** of export, ** 품질 또는 사양 이유**,  and  **원래 상태**, 수입 관세 의무 없이 다시 가져올 수 있습니다  and  재입국에 대한 수입 단계 세금. The current measures took effect on **1 December 2024**.
+Levy의 관리 조치  and  세관 의무의 수집 (중국 주문의 세관 제 272 호), **Article 49 **,  goods that are re-imported **within one year** of export, ** 품질 또는 사양 이유**,  and  **원래 상태**, 수입 관세 의무 없이 다시 가져올 수 있습니다  and  재입국에 대한 수입 단계 세금. 현행 조치는 다음 날짜에 시행되었다 **1 December 2024**.
 
 세 가지 조건은 혼동입니다. - 세 가지 모두 보유해야합니다.
 
@@ -36,7 +36,7 @@ Levy의 관리 조치  and  세관 의무의 수집 (중국 주문의 세관 제
 
 ## 별도의 크로스-블레어 전자 상거래 트랙: six months, 정의된 감독 부호
 
-Cross-border e-commerce는 자신의 일정에 따라 실행됩니다.  and  should not be confused with the general one-year rule. 크로스-배틀 전자 상거래 감독 코드에서 수출되는 상품 ** 1210, 9610, 9710 및 9810 ** 그 ** six 개월 내에 원래 상태로 돌아 가기 **, 의무 / 세금 면제에 적용. This special arrangement has a defined execution period of **1 January 2026 to 31 December 2027** (time-sensitive — confirm the current operative notice before relying on it). 대조를 참고하십시오: six months rather than one year, 특정 전자 상거래 코드에 묶여,  and  명시된 정책 기간에 의해 경계.
+Cross-border e-commerce는 자신의 일정에 따라 실행됩니다.  일반적인 1년 규칙과 혼동해서는 안 된다. 크로스-배틀 전자 상거래 감독 코드에서 수출되는 상품 ** 1210, 9610, 9710 및 9810 ** 그 ** six 개월 내에 원래 상태로 돌아 가기 **, 의무 / 세금 면제에 적용. 이 특별安排에는 명확한 집행 기간이 있다 **1 January 2026 to 31 December 2027** (time-sensitive — 의존하기 전에 현재 유효한 통지를 확인할 것). 대조를 참고하십시오: six months rather than one year, 특정 전자 상거래 코드에 묶여,  and  명시된 정책 기간에 의해 경계.
 
 | Dimension | 일반 반품 상품 규칙 | Cross-border 전자 상거래 트랙 |
 |---|---|---|
@@ -51,7 +51,7 @@ Cross-border e-commerce는 자신의 일정에 따라 실행됩니다.  and  sho
 
 1. 원본 수출 (선정 번호, B/L, 상업 문서)에 대한 링크를 보존합니다.
 2. 문서 자격 이유 - 품질 보고서, 구매자 거부, 일반 규칙에 대한 사양 잘못; CBEC 트랙의 전자 상거래 반환 레코드.
-3. Check the clock against the correct rule (one year versus six months)  and  현재 유효 기간.
+3. 올바른 규칙으로 기한을 점검하라 (one year versus six months)  and  현재 유효 기간.
 4. 원래 상태에 기인; untouched로 변경된 상품을 선물하는 것보다 오히려 어떤 사용 또는 처리를 공개하십시오.
 5. 수출은 이미 주장하는 모든 것을 반전, 세금 기관과 단계.
 6. 지원 파일로 반품 신고서를 제출하십시오. 세관은 원래의 상태를 결정합니다.
@@ -61,7 +61,7 @@ Per-case outcomes, CBEC 특별 기간이 끝나는 후 정확한 페이백 금�
 ## 의논하기
 ** 반품 된 수출 상품 재 수입 의무가 없습니다?
 
-GACC 주문 번호 272 기사 49의 밑에,  when they return within one year for quality/specification reasons in original state; 수입 의무 및 수입 단계 세금은 재입국에 고의하지 않습니다.
+GACC 주문 번호 272 기사 49의 밑에,  품질 사유로 1년 이내 반품될 때/specification reasons in original state; 수입 의무 및 수입 단계 세금은 재입국에 고의하지 않습니다.
 
 ** 전자 상거래 트랙은 어떻게 다른가요?
 

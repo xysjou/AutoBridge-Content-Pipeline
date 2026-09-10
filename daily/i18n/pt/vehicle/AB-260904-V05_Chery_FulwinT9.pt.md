@@ -39,7 +39,7 @@ Para um PHEV o exportador fixa **motor, motor, bateria e carregamento** juntos. 
 ## Padrão T9 vs. Alongado T9L — Não Mesclar
 - **Esta página: padrão T9 **, 4795 mm 2770 mm distância entre eixos.
 - **Excluído: T9L **, cerca de 4870 mm com uma distância entre eixos 2920 mm. É um veículo de distância maior; misturar as suas dimensões ou reivindicações de assentos em uma ordem padrão- T9 é um erro de configuração.
-- Os passos e os layouts dos bancos variam de acordo com a guarnição; the 120–220 km spread is not a single number for one car.
+- Os passos e os layouts dos bancos variam de acordo com a guarnição; the 120–220 o intervalo em km não é um número único para um mesmo veículo.
 
 ## Verificação do comprador no exterior antes do pagamento
 1. ** Versão corporal** — padrão T9, nunca substituído silenciosamente por T9L.

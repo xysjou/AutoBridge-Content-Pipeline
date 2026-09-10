@@ -30,7 +30,7 @@ Dua batas menyebabkan sebagian besar perselisihan:
 - ** 87.03 vs 87.04 ** - ditentukan oleh * principal gunakan * (peoples vs barang), bukan bentuk tubuh. Sebuah pickup-taksi dan van tertutup membutuhkan eksplisit prinsip-menggunakan keputusan pada catatan.
 - ** 87.04 vs 87.05 ** - kendaraan barang yang * membawa kargo * adalah 87.04; kendaraan yang dibangun di sekitar * fungsi khusus * (angkat, bor, mesin yang dipasang di mana cargo-membawa adalah inincidental) adalah 87.05. Sebuah truk kotak pendingin masih membawa barang dan diperlakukan sebagai kendaraan barang; apakah superstruktur pendingin ditambahkan bergerak kepala sepuluh digit harus diperiksa baris per baris di 2026 tariff. Kepala traktor (87.01) dan truk semi- trailer (87.16) selalu diklasifikasikan secara terpisah bahkan ketika dikirim sebagai kombinasi.
 
-## The Electric Three- Wheeler Edge Kasus
+## Kasus Khusus Roda Tiga Listrik
 Panduan Bea Cukai membedakan roda listrik dengan penggunaan dan identifikasi: a ** orang-membawa ** tiga roda ** dengan VIN ** jatuh di bawah 8703.8010 baris, ** tanpa VIN * dibawah 8703.8090, sedangkan ** kargo ** tiga roda ** turun ke ** 8704.6000 **. Ini adalah interpretasi tingkat Q & A-kebiasaan lokal (sumber tunggal); kebiasaan pelabuhan lokal dan tarif 2026 saat ini tetap otoriter.
 
 ## HS-Pertama Kerja Kami Rekomendasikan

@@ -15,7 +15,7 @@
 ## O equívoco que custa dinheiro aos importadores
 Os compradores assumem que sob FOB ou CIF a linha de **shipping compensa totalmente** um veículo arranhado, esmagado, roubado ou danificado por água. Não faz: a responsabilidade do transportador é limitada por convenção internacional muito abaixo do valor de um carro, e a cláusula de carga que você escolher decide se os danos comuns de trânsito são cobertos em tudo. Esta página abrange **seguro de carga marítimo para veículos expedidos da China** (rotas oceânicas globais) — cláusulas e reivindicações, distintas dos preços de Incoterm e da escolha do RoRo-vs-container.
 ## Os Três Níveis de Cláusula — Ancorados ao Verbo Oficial
-Cargo do Instituto As cláusulas são publicadas pela **Lloyd's Market Association (LMA) e pela International Underwriting Association of London (IUA)**; as actuais palavras (A)/(B)/(C) - referências às cláusulas **CL382 (A), CL383 (B), CL384 (C) - produziram efeitos 1 Janeiro 2009 ** (texto oficial da LMA; VERIFIED).
+Cargo do Instituto As cláusulas são publicadas pela **Lloyd's Market Association (LMA) e pela International Underwriting Association of London (IUA)**; as actuais palavras (A)/(B)/(C) - referências às cláusulas **CL382 (A), CL383 (B), CL384 (C) - produziram efeitos 1 Janeiro 2009 ** (texto oficial da LMA; confirmado por fonte primária).
 | Nível | Cobertura (de fora) | Adequação para um veículo |
 |---|---|---|
 | **ICC (A) — "Todos os Riscos" (CL382) | Cobertura geral de todos os riscos para perdas físicas acidentais/danos **sujeitas às exclusões da cláusula, à fixação da cobertura e à formulação da política efetiva**; *pode * responder a eventos de trânsito/manutenção acidentais, como roubo ou dano de manipulação, quando a cobertura se aplica e nenhuma exclusão | A linha de base habitual para os veículos |
@@ -51,7 +51,7 @@ Os corretores vendem uma camada; raramente a ligam ao contrato de compra. O mét
 ## Perguntas Mais Frequentes
 ** O ICC (C) é suficiente para um carro enviado?** Normalmente não — abrange apenas as principais vítimas listadas; danos de movimentação acidental e perdas de tipo roubo são a razão pela qual os veículos geralmente usam ICC (A) (CL382), sempre sujeito às suas exclusões e redação.
 ** De onde vem o 110%?** Duas regras distintas: O Incoterms 2020 define a cobertura do vendedor em ≥ 110% do preço do contrato; um crédito documental silencioso requer normalmente ≥ 110% do valor CIF/CIP determinável. Eles não são uma fórmula CIF × 110% universal.
-**Doesn't the shipping line pay for damage?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, Aplicável a um valor mais elevado) — muito abaixo do valor do veículo.
+**A companhia de navegação não paga os danos?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, Aplicável a um valor mais elevado) — muito abaixo do valor do veículo.
 **CIF ou CIP — qual o valor por omissão mais forte?** No âmbito da Incoterms 2020 CIP, é necessário pelo menos ICC (A); os incumprimentos CIF para ICC (C), assim como para a procura CIF (A) por escrito.
 ** Um incêndio de bateria EV é coberto por todos os riscos?** Depende da redação — declarar o EV e obter confirmação por escrito.
 ## Gravação de Imagens

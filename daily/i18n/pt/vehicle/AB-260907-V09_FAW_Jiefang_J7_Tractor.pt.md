@@ -50,7 +50,7 @@ Uma folha de especificações que lista " J7: 600 PS, 2300 N·m " por cereja-esc
 
 ## Cheques de comprador de pesados-caminhão: motor, caixa de velocidades, eixo, GCW, cabine, chassis
 
-Para um tractor, a decisão do comprador tem uma dimensão de seis dimensões, devendo cada uma ser fixada por escrito e não assumida pelo nome do modelo: (1) **motor** fase de emissão e notação exacta; (2) ** caixa de ferramentas** (manual vs. automatizada) e número de velocidades; (3) ** Eixo de tracção** e relação; (4) ** Peso combinado bruto (GCW)** A configuração é aprovada para puxar; (5) **cab** (especificação do sistema de travagem de teto alto)  and  (6) ** opções de cassis**, tais como suspensão de ar  and  the hydraulic retarder referenced for selected China-6 builds. Obter as qualificações de GCW e de carga por eixo do certificado de homologação; não são inferidas da potência do motor.
+Para um tractor, a decisão do comprador tem uma dimensão de seis dimensões, devendo cada uma ser fixada por escrito e não assumida pelo nome do modelo: (1) **motor** fase de emissão e notação exacta; (2) ** caixa de ferramentas** (manual vs. automatizada) e número de velocidades; (3) ** Eixo de tracção** e relação; (4) ** Peso combinado bruto (GCW)** A configuração é aprovada para puxar; (5) **cab** (especificação do sistema de travagem de teto alto)  and  (6) ** opções de cassis**, tais como suspensãde ar e o retardador hidráulico referenciado para determinadas versões chinesas6 builds. Obter as qualificações de GCW e de carga por eixo do certificado de homologação; não são inferidas da potência do motor.
 
 ## Limite de direção, combustível e exportação
 

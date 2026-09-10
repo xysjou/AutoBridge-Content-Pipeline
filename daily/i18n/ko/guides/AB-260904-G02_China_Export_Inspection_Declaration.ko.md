@@ -14,7 +14,7 @@
 - **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 질문은 아무도 없습니다. 예 답변 없음
-"중국 차량은 수출하기 전에 검사를 필요로합니까?" 담요 "모든 자동차는 반드시"또는 "자동차는 필요"는 잘못된 대답입니다. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, *현재 * 수입의 대화에 대해 읽으십시오  and  수출 상품 Statutory Inspection에 따라 대상***  and  그 코드 **고객 감독 조건 검사 및 물집 범주**. 이 페이지는 중국 수출 측 기구 및 결정 방법을 놓습니다; 그것은 코드에 대한 카탈로그 outcome를 주장하지 않습니다. 그것은 라이브를 검사하지 않았습니다. 결과는 ** 조건부 증거**: 법적 프레임 워크는 확인되지만 각 차량 카탈로그 상태는 선언 시간에 코드 당 확인해야합니다.
+"중국 차량은 수출하기 전에 검사를 필요로합니까?" 담요 "모든 자동차는 반드시"또는 "자동차는 필요"는 잘못된 대답입니다. 특정 화물이 해당하는지 여부는 **export statutory inspection** is determined by **its exact ten-digit HS code**, *현재 * 수입의 대화에 대해 읽으십시오  and  수출 상품 Statutory Inspection에 따라 대상***  and  그 코드 **고객 감독 조건 검사 및 물집 범주**. 이 페이지는 중국 수출 측 기구 및 결정 방법을 놓습니다; 그것은 코드에 대한 카탈로그 outcome를 주장하지 않습니다. 그것은 라이브를 검사하지 않았습니다. 결과는 ** 조건부 증거**: 법적 프레임 워크는 확인되지만 각 차량 카탈로그 상태는 선언 시간에 코드 당 확인해야합니다.
 
 ## 법률 프레임 (verified)
 *Import 및 Export Commodity Inspection Law* 및 그 구현 규정에 따라, statutory-inspection 카탈로그에 배치된 수출 상품** 검사를 위해 제출되어야 하며, 검사를 하지 않은 상품 - 또는 고장 검사 - **를 수출하지 않는 상품. 수출 상품의 검사는 원칙적으로, 세관이 다른 위치를 지정하지 않는 한, 생산 **의 **에 수행 **. Statutory 검사는 카탈로그 ** 및 다른 검사될 것을 상품에서 목록으로 만들어진 상품을 포함합니다. 카탈로그 밖에서 필수품 ** 랜덤 검사 (抽查检验) **; 2024 GACC Notice No. 163는 ** 수출 목록 만 아이들의 장난감 **를 위해 **의 무작위 선택 범위를 설정한다.
@@ -40,10 +40,10 @@
 
 ## 이 페이지의 경계
 - Whether **any specific vehicle ten-digit code currently sits inside the catalogue** is **time-sensitive  and  코드 별**: 일괄 처리는 모든 87.02–87.05 코드를 위한 선에 의하여 선 수출 감독 상태를 얻지 않았습니다, 그래서 이 페이지는 방법을, 보편적인 결론 아닙니다 줍니다. **현재 세관 카탈로그와 그 코드의 감독 조건**를 선언하기 전에.
-- Third-party PSI is never described as statutory inspection; BEV 면허는 검사로 결코 묘사되지 않습니다.
+- 제3자 선적전검사는 법정 검사로 표현되지 않는다; BEV 면허는 검사로 결코 묘사되지 않습니다.
 
 ## 자주 묻는 질문
-**Do all exported cars need statutory inspection?** There is no blanket rule — fix the ten-digit HS code  and  현재 카탈로그를 확인  and  그 코드에 대한 그것의 수출 감독 조건.
+**Do all exported cars need statutory inspection?** There is no blanket rule — 10자리 HS 코드를 확정하고  현재 카탈로그를 확인  and  그 코드에 대한 그것의 수출 감독 조건.
 ** 카탈로그에 있지 않은 경우?** 그것은 무작위 검사 (2024 아니오 163의 out-of-catalogue 수출 범위 명부의 밑에 손잡이지주 아이들의 장난감), 자동적인 statutory 검사, 다른 법적인 필요조건을 묶지 않는.
 ** 구매자의 PSI 교체 statutory 검사?** 아니; 그들은 별도의 의무입니다.
 ** BEV 수출은 검사와 동일합니까? ** 2026-01-01 배터리 전기 승용차에서 - 수출 면허 관리, 통계 검사에 평행한 정권의 밑에 있습니다.

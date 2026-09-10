@@ -50,7 +50,7 @@ Sinotruk提供出口T7H building,其等级为**欧元V和欧元VI**(和LNG气版
 ## 付款前重力
 
 - 将**engine家族(威海对MC11/MC13),马力,扭矩和排放级**锁定在正方形上;要求工厂的电曲线/排放证书.
-- Confirm **GCW (here 40 t for the reference build)** against the destination's road-train weight rules  and  第五轮载货; 验证轴负负载是否符合同步波。
+- Confirm **GCW (here 40 t for the reference build)** 对照目的国汽车列车重量规则，并且  第五轮载货; 验证轴负负载是否符合同步波。
 - 确认**gearbox 类型**(参考文献为12-speed AMT;手册和16-speed单元存在)和适合路线的最终驱动/轴比(高速公路对斯级).
 - 确认轮胎尺寸(315/80R22.5),目的地的轮/轮标准。
 - 确认出租车规格(半睡者对高屋顶双层),  tank capacity (750 L reference; 双坦克选项),以及该单元是LHD还是工厂RHD.

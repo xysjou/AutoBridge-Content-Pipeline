@@ -75,7 +75,7 @@ UNI-V是长安的紧凑型快车——五门五座,单科汽油车型,车顶采�
 
 ** 它们之间的燃料使用有何不同? ** 在中国的WLTC表格上,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm轮式基地是恒定的.
+**为什么不同来源的车长不一致?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm轮式基地是恒定的.
 
 ** 我能假设中国的汽车符合我国的排放标准吗? ** 否 ——在订购前,必须先对目的地市场进行排放合规性、燃料等级和保修。
 

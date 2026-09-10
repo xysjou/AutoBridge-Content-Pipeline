@@ -68,7 +68,7 @@ No se captó precio autorizado: el precio de reefer varía ampliamente con la co
 
 **¿Por qué la carga de pago es sólo de 1.1 t en un camión 4.495 t?** La caja aislada y la unidad de refrigeración añaden un peso riguroso sustancial (~ 3.2 t), dejando ~ 1.1 t; siempre recalculado la carga útil para el cuerpo/unidad exacto.
 **¿Qué significa "unidad independiente/independiente"?** Tiene su propio motor y se enfría independientemente del motor de camión — útil para el tránsito largo y cuando está estacionado; unidades de vehículos son más baratas pero dejan de enfriar con el motor.
-¿Cuál es mejor, Yunnei o Cummins?** La referencia Jieyun utiliza un Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  presupuesto.
+¿Cuál es mejor, Yunnei o Cummins?** La referencia Jieyun utiliza un Yunnei 2.5 L 150 PS; el Suyun monta un Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  presupuesto.
 **¿Qué temperatura puede contener?** El objetivo nacional Sanfeng 590 de la lista − 18 °C de trabajo congelado; el punto de ajuste alcanzable depende de la unidad y aislamiento elegido, así que especítelo.
 **¿Por qué no se da precio?** El costo de la reefer depende en gran medida de la caja y unidad de refrigeración; no se captó un precio de 2026-09-02 confiable, y no se calculará.
 

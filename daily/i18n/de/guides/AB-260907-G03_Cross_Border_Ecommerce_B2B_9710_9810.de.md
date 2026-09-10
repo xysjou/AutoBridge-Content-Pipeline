@@ -16,7 +16,7 @@ China hat zwei spezielle Zollkontrollcodes für grenzüberschreitende E-Commerce
 
 ## 9710: B2B Direktausfuhren
 
-Unter ** 9710 **, ein chinesisches Unternehmen über eine grenzüberschreitende E-Commerce-Plattform oder einen grenzüberschreitenden Kanal Waren direkt an einen ausländischen Geschäftskunden ausführt,  with the B2B transaction established at the point of export. In kommerzieller Form ist es einem konventionellen Export am nächsten: die Waren, der ausländische Geschäftskunde  and  die Transaktion in einer Bewegung ausgerichtet ist,  but the declaration uses the cross-border B2B channel  and  kann auf seine vereinfachte, datengesteuerte Freigaberegelungen.
+Unter ** 9710 **, ein chinesisches Unternehmen über eine grenzüberschreitende E-Commerce-Plattform oder einen grenzüberschreitenden Kanal Waren direkt an einen ausländischen Geschäftskunden ausführt,  with the B2B-Transaktion kommt am Ausfuhrort zustande. In kommerzieller Form ist es einem konventionellen Export am nächsten: die Waren, der ausländische Geschäftskunde  and  die Transaktion in einer Bewegung ausgerichtet ist,  aber die Anmeldung den grenzüberschreitenden B2B channel  and  kann auf seine vereinfachte, datengesteuerte Freigaberegelungen.
 
 ## 9810: Export in ein Überseelager - der Zeitpunkt, der zählt
 

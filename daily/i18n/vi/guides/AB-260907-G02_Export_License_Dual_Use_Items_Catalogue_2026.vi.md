@@ -61,7 +61,7 @@ Mục lục hiện tại của mục được điều khiển mô tả và mã k
 ## FAQ
 ** Khi nào thì danh mục hai lần hiện tại có hiệu quả? ♪ ♪
 
-Mục lục 2026 được phát hành bởi MOFCOM  and  GACC in the 2025 No.91 Announcement  and  took effect on 1 January 2026; luôn xác nhận ngược lại với văn bản chính thức hiện thời.
+Mục lục 2026 được phát hành bởbởi MOFCOM cùng GACC vào 2025 No.91 Announcement  and  took effect on 1 January 2026; luôn xác nhận ngược lại với văn bản chính thức hiện thời.
 
 ** Xe chở khách bình thường có cần giấy phép sử dụng đôi không? ♪ ♪
 

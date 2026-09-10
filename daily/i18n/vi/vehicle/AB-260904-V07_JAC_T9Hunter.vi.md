@@ -60,7 +60,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
 
 ## Những câu hỏi thường xuyên
 **Cái gì cơ  and  gearbox does the T9 Hunter use?** A 2.0T diesel (125 kW/410 N·m) with a ZF 8-speed automatic; Thị trường Trung Quốc là những nguồn đơn này nằm trong bản cấu hình nhà máy.
-**Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  một khóa chẩn đoán vi phân được ghi lại 4x4.
+**Có dẫn động bốn bánh số thấp không?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  một khóa chẩn đoán vi phân được ghi lại 4x4.
 ** Standard hay dài giường? Cả hai: 3110 mm bánh xe cơ bản/ 5330 mm hoặc 3400 mm 5620 mm; chiều dài giường khác nhau tùy theo cách.
 **Có phải 3500 kg người đang kéo xe ra giá trị của Trung Quốc?** Không, đó là một con số thương hiệu của hãng hàng không JC; tải 1000 kg là giá trị được đánh giá cao ở Trung Quốc, và tỷ lệ điểm đến phải được xác nhận riêng biệt.
 

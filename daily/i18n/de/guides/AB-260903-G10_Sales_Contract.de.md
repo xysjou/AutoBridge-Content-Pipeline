@@ -13,7 +13,7 @@
 - **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Für wen das ist
-Ein erstmaliger Fahrzeugexporteur unterzeichnet oft einen Vertrag über Preis und Menge, dann entdeckt er den Vertrag, der nie festgelegt wurde ** wenn das Risiko besteht, wer vor der vollständigen Zahlung den Titel innehat oder wo ein Streitfall gehört wird **. Dieser Leitfaden zeigt die Klauseln, die diese Ergebnisse steuern. VR China Civil Code Art. 596 wird hier durch **Sekundär-Rechtsportale (FindLaw etc.) beschrieben, die sich auf CROSS_ beschränken CHECKED/single source**; VERIFIED würde den offiziellen Zivilgesetzbuchtext von einer NPC/Regierungsquelle erfordern. Der Rest ist die Synthese von Rechtspraxis. ** Eine Vorlage ist keine Rechtsberatung - lassen Sie einen qualifizierten Anwalt den ausgeführten Vertrag nach dem gewählten Recht überprüfen. **
+Ein erstmaliger Fahrzeugexporteur unterzeichnet oft einen Vertrag über Preis und Menge, dann entdeckt er den Vertrag, der nie festgelegt wurde ** wenn das Risiko besteht, wer vor der vollständigen Zahlung den Titel innehat oder wo ein Streitfall gehört wird **. Dieser Leitfaden zeigt die Klauseln, die diese Ergebnisse steuern. VR China Civil Code Art. 596 wird hier durch **Sekundär-Rechtsportale (FindLaw etc.) beschrieben, die sich auf CROSS_ beschränken CHECKED/single source**; durch eine Primärquelle bestätigt würde den offiziellen Zivilgesetzbuchtext von einer NPC/Regierungsquelle erfordern. Der Rest ist die Synthese von Rechtspraxis. ** Eine Vorlage ist keine Rechtsberatung - lassen Sie einen qualifizierten Anwalt den ausgeführten Vertrag nach dem gewählten Recht überprüfen. **
 
 ## Klausel Block 1 — Die wesentlichen Inhalte (Zivilgesetzbuch Art. 596)
 Nach Artikel 596 des Zivilgesetzbuches der VR China** sollte ein Kaufvertrag Folgendes umfassen:** Name, Menge, Qualität, Preis, Zeit/Ort/Leistungsmethode, Verpackung, Inspektionsnormen und -methode, Abrechnung und die Bestimmungen in der effektiven Sprache/Text**. Übersetzt für einen Fahrzeug-Deal ist das Minimum:
@@ -36,7 +36,7 @@ Ein Verkäufer kann ** Titel reservieren, bis die vollständige Zahlung erhalten
 - Definieren Sie die **Abhilfehierarchie** (korrigieren → ersetzen → erstatten) und wer in jedem Fall die Rückgabe- Versandkosten trägt.
 
 ## Abschnitt Block 5 — Offenlegung des Fahrzeugzustands (Betrugsverhütung)
-Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Softwareversion und jegliche Unfall- Fluthistorie, Kilometerzähleranpassung oder Belastung Hypothek **. Die Nicht-Offenlegung dieser ist eine häufige Quelle von Betrugsansprüchen - und interagiert mit dem PSI, was den offenbarten Zustand belegen sollte. Bei Elektrofahrzeugen sind dem Verkäufer bekannte Batteriegrad-/SOH-relevante Informationen anzugeben.
+Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Softwareversion und jegliche Unfall- Fluthistorie, Kilometerzähleranpassung oder Belastung Hypothek **. Die Nicht-Offenlegung dieser ist eine häufige Quelle von Betrugsansprüchen - und interagiert mit dem PSI, was den offengelegten Zustand belegen sollte. Bei Elektrofahrzeugen sind dem Verkäufer bekannte Batteriegrad-/SOH-relevante Informationen anzugeben.
 
 ## Klausel Block 6 — Geltendes Recht, Forum und Dokumenten-Legalisierung
 - Wählen Sie das **governierende Gesetz und Forum ** absichtlich; für grenzüberschreitende Geschäfte wird **internationales Schiedsverfahren (z. B. ICC) ** oft für die Vollstreckbarkeit nach dem New Yorker Übereinkommen vor einem ausländischen lokalen Gericht bevorzugt.
@@ -51,7 +51,7 @@ Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Soft
 5. **Regierungsrecht, Schiedsgericht, Apostille Verantwortung ** und vorherrschende Sprache.
 
 ## Häufig gestellte Fragen
-**Was muss ein Fahrzeugkaufvertrag nach chinesischem Recht enthalten?** VR China Zivilgesetz Art. 596 listet Namen, Menge, Qualität, Preis, Leistungszeit/Ort/Methode, Verpackung, Inspektionsstandard/Methode, Abrechnung und Spracheffektivität auf - Karte jedes Fahrzeuggeschäft.
+**Was ein Fahrzeugkaufvertrag nach chinesischem Recht enthalten muss?** VR China Zivilgesetz Art. 596 listet Namen, Menge, Qualität, Preis, Leistungszeit/Ort/Methode, Verpackung, Inspektionsstandard/Methode, Abrechnung und Spracheffektivität auf - Karte jedes Fahrzeuggeschäft.
 **Wann geht das Risiko auf den Käufer über?** Gemäß der vereinbarten Incoterms-Bedingung (Version und Ort angeben); ohne Vereinbarung, in der Regel bei Lieferung an den Käufer oder seinen benannten Spediteur.
 **Kann ich das Eigentum behalten, bis ich voll bezahlt bin? ** Ja, über eine Eigentumsvorbehaltsklausel, vorbehaltlich der Anerkennung nach dem geltenden/Zielgesetz.
 **Wie sollte mit verspäteter Zahlung umgegangen werden?** Eine tagsüber liquidierte schadensquote plus eine maximale überfällige frist, die eine kündigung ermöglicht.

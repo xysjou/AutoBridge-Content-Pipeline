@@ -51,11 +51,11 @@ Divulgue fatos materiais com veracidade: **versão/configuração, versão de so
 5. ** Lei de governo, fórum de arbitragem, responsabilidade Apostosille**, e língua vigente.
 
 ## Perguntas Mais Frequentes
-**What must a vehicle sales contract contain under Chinese law?** PRC Civil Code Art 596 lists name, quantidade, qualidade, preço, tempo de desempenho/lugar/método, embalagem, norma/método de inspecção, liquidação  and  Eficácia da linguagem — mapear cada um para o negócio do veículo.
+**O que deve conter um contrato de venda de veículos ao abrigo da legislação chinesa?** PRC Civil Code Art 596 lists name, quantidade, qualidade, preço, tempo de desempenho/lugar/método, embalagem, norma/método de inspecção, liquidação  and  Eficácia da linguagem — mapear cada um para o negócio do veículo.
 ** Quando o risco passa para o comprador?** Por termo Incoterms acordado (declare a versão e o lugar); sem acordo, geralmente na entrega ao comprador ou sua transportadora nomeada.
 ** Posso manter a propriedade até que eu seja totalmente pago?** Sim, através de uma cláusula de retenção de título, sujeito ao reconhecimento nos termos da lei de destino/governação.
 ** Como deve ser tratado o atraso de pagamento?** Uma taxa de danos liquidados por dia mais um período máximo de atraso que permite a terminação.
-** Os documentos estrangeiros precisam de legalização?** Muitas vezes é necessária uma legalização consular ou apóstilla (Hague); a responsabilidade do Estado no contrato e verificar o estado do destino.
+** Os documentos estrangeiros precisam de legalização?** Muitas vezes é necessária uma legalização consular ou apóstilla (Hague); a responsabilidade do Estado no contrato e verificar a situaçãoção do destino.
 
 ## Gravação de Imagens
 - IMAGE_ASSET_PATH: none secured in repository

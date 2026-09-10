@@ -28,7 +28,7 @@ Tariff, certificación, inspección y documentación colgado del HS código - a�
 
 Dos límites causan la mayoría de las controversias:
 - ** 87.03 vs 87.04 ** — decidido por * uso principal* (personas vs bienes), no forma corporal. Una camioneta de tripulaciones y una camioneta cerrada necesitan una decisión explícita de uso principal en el registro.
-- ** 87.04 vs 87.05 ** — un vehículo de mercancías que *carries cargo* es 87.04; un vehículo construido alrededor de una * función especial* (montaje, perforación, maquinaria montada donde el cargamento es incidental) es 87.05. Un camión de caja refrigerado todavía transporta mercancías y se trata como vehículo de mercancías; whether an added refrigeration superstructure moves the ten-digit subheading must be checked line by line in the 2026 tariff. Un cabezal de tractor (87.01) y su semi-trailer (87.16) siempre se clasifican por separado incluso cuando se envía como una combinación.
+- ** 87.04 vs 87.05 ** — un vehículo de mercancías que *carries cargo* es 87.04; un vehículo construido alrededor de una * función especial* (montaje, perforación, maquinaria montada donde el cargamento es incidental) es 87.05. Un camión de caja refrigerado todavía transporta mercancías y se trata como vehículo de mercancías; si una superestructura de refrigeración añadida cambia la subpartida de diez dígitos debe comprobarse línea por línea en el 2026 tariff. Un cabezal de tractor (87.01) y su semi-trailer (87.16) siempre se clasifican por separado incluso cuando se envía como una combinación.
 
 ## El caso de la unidad eléctrica de tres ruedas
 La guía de aduanas distingue a los tres ruedas eléctricos por uso e identificación: un **carrying persona** de tres ruedas **con un VIN** cae bajo la línea 8703.8010, **sin un VIN** bajo 8703.8090, mientras que un **cargo** de tres ruedas va a ** 8704.6000 ** Esta es una interpretación aduanera de nivel Q анта (fuente individual); las costumbres portuarias locales y el arancel actual 2026 siguen siendo autorizados.
@@ -42,7 +42,7 @@ La guía de aduanas distingue a los tres ruedas eléctricos por uso e identifica
 
 ## Lo que esta página no hace deliberadamente
 - ** Tasas de aranceles de importación de destino**: las que requieren el arancel del país importador para la subpartida exacta y están fuera de alcance para una página de clasificación de la parte de exportación.
-- **El subpartida nacional de diez dígitos y la tasa provisional*: cambian con el arancel anual - citan la edición ** 2026  and  the implementing GACC announcement number** on every declaration rather than relying on older 2018/2020 reference tables.
+- **El subpartida nacional de diez dígitos y la tasa provisional*: cambian con el arancel anual - citan la edición ** 2026  y el número del anuncio de aplicación de la GACC** en cada declaración en lugar de apoyarse en versiones anteriores 2018/2020 reference tables.
 
 ## Lista de verificación previa a la declaración
 - Uso principal escrito y defensible.

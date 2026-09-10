@@ -64,7 +64,7 @@ Der mobile LKW-Kran wurde aus dem SAMR-Spezial-Hubmaschinenkatalog entfernt, obw
 
 **Kann ich QY25K-II oder QY25E Specs für die QY25K5C verwenden? **
 
-Nein — das sind verschiedene Modelle; Ausleger, Motor  and  dimensions must come from the official QY25K5C sheet.
+Nein — das sind verschiedene Modelle; Ausleger, Motor und Abmessungen müssen aus dem offiziellen QY-Datenblatt stammen25K5C sheet.
 
 **Welche Dokumente muss der Käufer erhalten? **
 

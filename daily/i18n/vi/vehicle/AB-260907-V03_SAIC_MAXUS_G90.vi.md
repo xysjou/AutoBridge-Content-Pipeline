@@ -37,7 +37,7 @@ The G90 is offered in **six-seat (2+2+2)**  and  **seven-seat (2+2+3)** configur
 - xác nhận thuyền trưởng hàng hai so với ghế dự bị cho việc cắt tỉa;
 - khớp số ghế với chứng nhận đồng tính chứ không phải hình ảnh tiếp thị.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), Hãy minh họa số lượng hành lý không gian phụ thuộc vào việc hàng thứ ba có được sử dụng hay không; Xem con số chính xác là phụ thuộc vào tỉa.
+Thể tích hàng hóa được nêu ở mức khoảng **1010.5–2179 L** khi hàng ghế thứ ba gập lại (single-source), Hãy minh họa số lượng hành lý không gian phụ thuộc vào việc hàng thứ ba có được sử dụng hay không; Xem con số chính xác là phụ thuộc vào tỉa.
 
 ## Một người mua lớn mà lại phải xác minh
 

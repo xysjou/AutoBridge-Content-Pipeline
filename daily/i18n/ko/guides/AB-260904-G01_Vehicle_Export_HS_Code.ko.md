@@ -28,10 +28,10 @@ Tariff, 인증, 검사 및 문서 모두 HS 코드를 끄 — 아직 수출은 �
 
 두 경계는 대부분의 분쟁을 일으킬:
 - ** 87.03 대 87.04 ** - * 주요 사용 * (인용 대 상품), 신체 모양이 아닙니다. 승무원-카브 픽업 및 닫힌 바는 레코드에 명시된 주 사용 결정을 필요로 합니다.
-- ** 87.04 대 87.05 ** - *carries화물 * 87.04의 상품 차량; * 특수 함수* (lift, Drill, Mount Machinery where Cargo-carrying is damageal)는 87.05.입니다. 냉장된 상자 트럭은 아직도 상품을 나르고 상품 차량으로 대우됩니다; whether an added refrigeration superstructure moves the ten-digit subheading must be checked line by line in the 2026 tariff. 트랙터 머리 (87.01) 및 그 반트레일러 (87.16)는 항상 조합으로 배송 할 때 별도로 분류됩니다.
+- ** 87.04 대 87.05 ** - *carries화물 * 87.04의 상품 차량; * 특수 함수* (lift, Drill, 화물 운반이 부수적인 장비 탑재형)는 87.05.입니다. 냉장된 상자 트럭은 아직도 상품을 나르고 상품 차량으로 대우됩니다; 냉동 상부구조 추가로 10자리 소호가 달라지는지는 해당 세율표에서 한 줄씩 확인해야 한다 2026 tariff. 트랙터 머리 (87.01) 및 그 반트레일러 (87.16)는 항상 조합으로 배송 할 때 별도로 분류됩니다.
 
 ## 전기 3 바퀴 가장자리 케이스
-Customs guidance distinguishes electric three-wheelers by use  and  ID: a **person-carrying** three-wheeler **with a VIN** falls under the 8703.8010 line, ** 8703.8090 미만의 VIN**, **차고 ** 세 휠러가 ** 8704.6000 **로 이동. 이것은 세관 Q&A 수준 해석 (단일 근원); 지역 항구 관례 및 현재 2026 관세는 권위를 남아 있습니다.
+세관 안내는 전기 삼륜차를 용도와 ID로 구분한다: a **person-carrying** three-wheeler **with a VIN** falls under the 8703.8010 line, ** 8703.8090 미만의 VIN**, **차고 ** 세 휠러가 ** 8704.6000 **로 이동. 이것은 세관 Q&A 수준 해석 (단일 근원); 지역 항구 관례 및 현재 2026 관세는 권위를 남아 있습니다.
 
 ## HS-First 절차 우리는 추천한다
 1. **주요 사용** (대량 사람 상품 특수 함수 비 동력 트레일러) - 이것은 heading을 선택합니다.
@@ -42,7 +42,7 @@ Customs guidance distinguishes electric three-wheelers by use  and  ID: a **pers
 
 ## 이 페이지는 Deliberately 상태는 아닙니다
 - **절대 수입 의무 비율 **: 그 정확한 소각을 위한 수입 국가 관세를 요구하고 수출 측 분류 페이지에 대한 범위의 밖으로.
-- **The exact ten-digit national subheading  and  간섭률**: 그들은 연간 관세로 변경 - ** 2026 판과 GACC 발표 번호** 이전 2018/2020 참조 테이블에 의존하는 것보다 모든 선언에.
+- **정확한 국내 10자리 소호와  간섭률**: 그들은 연간 관세로 변경 - ** 2026 판과 GACC 발표 번호** 이전 2018/2020 참조 테이블에 의존하는 것보다 모든 선언에.
 
 ## 사전 선언 체크리스트
 - Principal 사용은 아래로 쓰고 현명한 사용.
@@ -53,7 +53,7 @@ Customs guidance distinguishes electric three-wheelers by use  and  ID: a **pers
 
 ## 자주 묻는 질문
 **세미트레일러 트랙터 헤드가 갈 수 있습니까?** 87.01 (특히 반트레일러 트랙터를 포함); 반트레일러는 87.16, 별도의 분류입니다.
-** 전기 승용차는 여전히 87.03 입니까? ** 예 - 전기  and  hybrid passenger cars for up to nine persons sit within 87.03; 파워트레인은 두드러지게 변함.
+** 전기 승용차는 여전히 87.03 입니까? ** 예 - 전기  그리고 최대 9인승 하이브리드 승용차는 다음에 속한다 87.03; 파워트레인은 두드러지게 변함.
 ** 87.04과 87.05 사이의 차이는 무엇입니까? ** 87.04는 상품을 운반합니다; 87.05는 화물을 운반하는 특별한 기능을 수행 할 수 있습니다. 주요 사용으로 결정합니다.
 **비비티 판은 지금 나타날 수 있습니까?** 2026 * 2026 프로그램을 구현하는 문제 및 수출 관세 * 및 GACC 발표; 현재 기준으로 2018/2020 테이블을 사용하지 마십시오.
 

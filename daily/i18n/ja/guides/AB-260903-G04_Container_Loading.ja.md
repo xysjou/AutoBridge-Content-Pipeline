@@ -17,7 +17,7 @@
 
 ## リアルなローディング・バンド(文書化された練習から)
 - **棚無し, 従来の: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 Range-Rover Prado Li L7-scale vehicles) (single-source forwarder diagram).
-- **滑走の引き抜きの二重デッキの棚を使って: ** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
+- **滑走の引き抜きの二重デッキの棚を使って: ** an **"upper 2 + lower 2" = four SUVs** この取扱いは煙台港の一事例で報告された "RoRo-to-container" trial (single-source).
 - レール: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
 これらは、参照ポイントであり、非資格:ハイルーフバン、ピックアップ、または長いエグゼクティブカーはカウントを変更し、ラックローディングは、認定機器と承認された計画を必要とします。
 
@@ -26,14 +26,14 @@
 - **About eight straps per vehicle**, 主に、マルチ方向(five-direction)ロードパスで**wheel/tyreタイダウンメソッド**。
 - 誤った場所でのサスペンションやシャシにまつわると、車にダメージを与え、海の動きの下で移動することができます。
 -
-目的は、車がシフトできない船舶の転がり下がり、下がり下がることです。  rotate or contact the box wall or the second vehicle.
+目的は、車がシフトできない船舶の転がり下がり、下がり下がることです。  回転したりコンテナ壁や2台目の車両に接触したりする.
 
 ## 積載シーケンス(ラックワークが間違っているところ)
 
 1.
 2. A ** 二重ドア(両端)コンテナは、両端から同時に作業することができます**、ドウェルを短縮します。
 3. ユニットを強力に確保 — 隣の操縦中に車が安全でないままにしないようにします。
-順序の間違い(下車を最初に荷を積む)  and  blocking rack access) are the most avoidable delay in four-car loads.
+順序の間違い(下車を最初に荷を積む)  and  blocking rack access) 4台積みで最も回避しやすい遅延原因である.
 
 ## 五点プレシールのステージチェック
 文書化されたコンテナーローディング方法から適応:
@@ -48,16 +48,16 @@
 
 ## このガイドが予約前にロックをおすすめする
 - A * 測定荷重プラン** 正確なモデル(長さ/幅/高さ)の場合、 ミラーは折られる)、  not a generic "two or four" promise.
-- **認定ラック機器**  and  an approved four-car plan if using double deck.
+- **認定ラック機器**  二段積みを使う場合は承認済みの4台計画.
 - **車軸のカウントとホイールポイント方式** ローディング倉庫と合意
 - **印鑑前に、印鑑とまつげのフォト証拠**、VINにリンク。
 - **EV 危険物書類** および 運送会社SOC 関連の規則。
 - ** ポート、ルート、キャリア、ターミナルの書き込みの受け入れ:** 実際の** ポートとターミナルの名前** (上記の文書化された試験は、Yantai、ユニバーサル標準ではありません)、** オーシャンキャリアとそのコンテナ演算子などの中国ポートの参照です**、およびそのターミナルが受け入れるかどうか** 二重デッキの車のラックと追跡不可** ブックされたセーリング。 受諾条件と、ターミナルとキャリアにより有効な日付変更が異なりますので、CTUコードの規定に従って、倉庫の方法で受け継がれているのではなく、必ず確認した**を必ず記録してください。
 
 ## よくある質問
-**Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack  and  承認された計画; conventional no-rack loading of mid/large SUVs is typically two.
+**Can a 40HQ always take four SUVs?** No — 4台には認定された引き出し式二段ラックが必要で、  承認された計画; conventional no-rack loading of mid/large SUVs is typically two.
 **ストラップは取り付ける必要がありますか?** タイヤ/ホイールのタイダウンポイントへ — 体力やサスペンションにならない、車1台あたり約8分のポイント。
-**セダンはどのように異なっていますか?** セイドウ  and  China-Europe rail loads commonly achieve three per box; 寸法は依然として決定します。
+**セダンはどのように異なっていますか?** セイドウ  中欧班列は1コンテナに3台を積むのが一般的; 寸法は依然として決定します。
 **ラックトップファーストをロードするのはなぜですか?** 上部の車両は、下部のブロックラックアクセスの前に配置する必要があります。 フォークリフトの援助は、安全にそれらを配置します。
 **ドアを密封する前にチェックしたのは?** - 写真付き。
 

@@ -50,7 +50,7 @@
 ## Layer 3 - 운영 현실 (공장, 세관 역사, 신용)
 
 - ** 사용자 정의 크레딧 등급**: **AEO (Authorised Economic Operator)** 상태 신호 높은 세관 신용; 증거를 요구하고 부유 한 중재로 치료하십시오. (중국 세관의 공공 AEO 쿼리 방향을 사용; 정확한 포털 항목 변경, 그래서 공식 세관 사이트를 통해 탐색.)
-- ** 화학 수출 선언 **: request export customs declarations from roughly the last three months (sensitive commercial fields may be redacted)  and  크로스 체크 제품, consignee 패턴  and  공급자의 주장에 대하여 날짜.
+- ** 화학 수출 선언 **: 최근 약 3개월치 수출 통관 신고서를 요청할 것 (민감한 상업 항목은 마스킹될 수 있다)  and  크로스 체크 제품, consignee 패턴  and  공급자의 주장에 대하여 날짜.
 - **Live 비디오 감사 - 최소 표준 **: 실시간 (예를 들어 사전 녹음되지 않음) 워크 - 생산 라인, 차량 주식, QC 스테이션 및 로드 독을 보여주는; 같은 일 시간 큐를 요청하고 요청시 특정 VIN 단위를 참조하십시오.
 - **샘플 또는 작은 예심 순서** 볼륨 전에, 그리고 그 예심 계약에 따라 적합성을 작성합니다.
 

@@ -16,7 +16,7 @@
 ## Contexto do comprador e identidade do modelo
 O ** Geely Galaxy L6 EM-i (2025)** é um sedan híbrido compacto construído para o mercado chinês. Esta página usa apenas a linha facelift ** 2025 EM-i**; as versões mais antigas Thor/ 8848 de três velocidades DHT são uma geração de pottrein diferente e não devem ser misturadas com os carros EM-i de velocidade única descritos aqui. O mercado de referência é **China**, e cada figura abaixo é uma especificação de referência ** Chinese-market**, não um valor global ou de homologação de exportação.
 
-A linha EM-i é de tração dianteira  and  pairs a 1.5 L naturally aspirated petrol engine with a single front motor through a one-speed dedicated hybrid transmission. Duas linhas de bateria/gama são vendidas na China; um importador deve tratá-los como configurações ordeáveis distintas em vez de um " L6" com um único número de faixa.
+A linha EM-i é de tração dianteira  and  pairs a 1.5 motor a gasolina naturalmente aspirado de L com um único motor dianteiro através de uma transmissão híbrida dedicada de uma velocidade. Duas linhas de bateria/gama são vendidas na China; um importador deve tratá-los como configurações ordeáveis distintas em vez de um " L6" com um único número de faixa.
 
 ## Linhas de variante e de auto-estrada (mercado chinês)
 - * Arquitetura**: FF (motor frontal/motor frontal), 4-door 5-seat sedan; corpo 4782 1875 1489 mm, distância entre eixos 2752 mm (verificados de forma cruzada).
@@ -24,7 +24,7 @@ A linha EM-i é de tração dianteira  and  pairs a 1.5 L naturally aspirated pe
 - **Motor**: 160 kW/262 N·m (conferência de potência do motor; torque único).
 - ** Transmissão**: 1 挡 DHT(EM-i 单挡混动专用变速) — um DHT de velocidade única, que é o recurso definidor EM-i versus o híbrido mais antigo multi-velocidade.
 - ** Linhas de bateria**: 8.5 19.09 kWh. O fornecedor de pilhas de bateria é **não confirmado por Geely** e não é intencionalmente declarado.
-- ** Alcance elétrico**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; em WLTC, a referência capturada é 48 115 km. CLTC e WLTC são ciclos diferentes — nunca cite um número CLTC como um valor de exportação WLTC/NEDC.
+- ** Alcance elétrico**: 60 140（对应8.5/19.09kWh） km CLTC para as duas linhas, respetivamente; em WLTC, a referência capturada é 48 115 km. CLTC e WLTC são ciclos diferentes — nunca cite um número CLTC como um valor de exportação WLTC/NEDC.
 - **Combinado/desempenho**: intervalo CLTC combinado até 最高 2000 km; 0–100 km/h 7.4 s; velocidade máxima 180 km/h; tanque de combustível 60 L; coeficiente de arrasto 0.26.
 
 ## Quadro de especificações verificados (referência do mercado chinês)

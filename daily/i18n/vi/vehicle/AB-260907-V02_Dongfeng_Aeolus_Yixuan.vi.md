@@ -16,7 +16,7 @@ Phong Phong Aeolus Yixuan (风神奕炫) là chiếc xe ba hộp/xe sedan ba h�
 
 ## Nhận diện và kích thước
 
-- Thân: four-door,  five-seat compact three-box/fastback sedan on the CMP platform, ổ đĩa chạy trước và trước (đã kiểm tra).
+- Thân: four-door,  five-seat compact three-box/sedan fastback trên nền tảng CMP, ổ đĩa chạy trước và trước (đã kiểm tra).
 - Kích thước tham chiếu: ** 4670 × 1812 × 1490 mm, bánh xe cơ sở 2680 mm **. chú ý chiếc xe khởi động gốc 2019 đã liệt kê 4660 mm chiều dài; sự khác biệt nhỏ hơn năm qua nên được khớp với chính xác chứng nhận năm mô hình thay vì trộn lẫn.
 
 Các tín hiệu nền CMP cho thấy một cha trí thức-beam/xắt ngang nhắm vào khối lượng gọn gàng, chính xác cách đình chỉ và thiết bị cho một SKU được cho trước nên được đọc từ tờ cấu hình của SKU.
@@ -32,7 +32,7 @@ Khoảng cách hiệu suất giữa hai cái này đủ lớn để thay đổi 
 
 ## Trang bị và cắt tỉa kỷ luật
 
-Giống như hầu hết các chiếc sedan nhỏ của Trung Quốc, công nghệ có thể nhìn thấy được — màn hình lớn, người lái, người lái xe, người chiếu đèn và người ngồi — leo lên với sự tỉa tỉa và thay đổi từng năm. A review of a high-spec Mach edition is not evidence that the 2025 1.5L mid-trim carries the same equipment. Hãy xác định tên và kiểu năm và xếp thứ tự với tờ giấy của SKU.
+Giống như hầu hết các chiếc sedan nhỏ của Trung Quốc, công nghệ có thể nhìn thấy được — màn hình lớn, người lái, người lái xe, người chiếu đèn và người ngồi — leo lên với sự tỉa tỉa và thay đổi từng năm. Một bài đánh giá bản Mach cấu hình cao không phải bằng chứng cho thấy 2025 1.5bản trung cấp L mang cùng trang bị. Hãy xác định tên và kiểu năm và xếp thứ tự với tờ giấy của SKU.
 
 ## Giá cả, giới hạn lái và xuất khẩu
 

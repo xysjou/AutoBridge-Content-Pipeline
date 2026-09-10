@@ -40,7 +40,7 @@ Used-vehicle listings (a directory/listing classified source) show sample kerb m
 فخان للهوية مهمان:
 
 1. **The newer 100P (4KB1) is a different model line.** Its engine  and  (ب) ألا تنقل المواصفات إلى KV100؛ do not blend 100P figures into a KV100 quotation.
-2. **Qingling KV100 ≠ global Isuzu ELF/N-series by default.** Qingling builds under its Isuzu relationship, لكن منصة  and  التسميات لا تثبت أن الصينيين الـKV100 متطابقون في المواصفات التشويش، قطع أو ضمان لـ (إسوزو إلف) باعت في مكان آخر بموجب قاعدة تحديد الهوية النموذجية ** مُعلّق بـ [موديل] SAME_MODEL** دون بيان صريح من منظمة أوم؛ لا تقتبس من أرقام القوة أو العذاب أو التحمل للشاحنة الصينية
+2. **Qingling KV100 ≠ global Isuzu ELF/N-series by default.** تبني تشينغلينغ (Qingling) ضمن علاقتها مع إيسوزو (Isuzu), لكن منصة  and  التسميات لا تثبت أن الصينيين الـKV100 متطابقون في المواصفات التشويش، قطع أو ضمان لـ (إسوزو إلف) باعت في مكان آخر بموجب قاعدة تحديد الهوية النموذجية ** مُعلّق بـ [موديل] SAME_MODEL** دون بيان صريح من منظمة أوم؛ لا تقتبس من أرقام القوة أو العذاب أو التحمل للشاحنة الصينية
 
 ## الحدود التوجيهية والصادرة
 

@@ -29,7 +29,7 @@
 | 회전 원형 | **5.5 m** |
 | 의정부 | 중국- 6 디젤 |
 
-Payload는 가장 자주 준수 문제를 일으킬 수 있는 그림입니다. a marketing "about two-tonne" line is not a legal rating. 공인된 급여는 **MIIT 공개 발표 및 적합성의 차량 인증서 **에 하나이며 신체 유형 (드럼버스 박스 밴) 및 커브 무게로 변경됩니다.
+Payload는 가장 자주 준수 문제를 일으킬 수 있는 그림입니다. a marketing "about two-tonne" 줄은 법적 등급이 아니다. 공인된 급여는 **MIIT 공개 발표 및 적합성의 차량 인증서 **에 하나이며 신체 유형 (드럼버스 박스 밴) 및 커브 무게로 변경됩니다.
 
 ## 엔진-Version 경계
 - ** JX493ZLQ6D (이 페이지): 2.499 L, 90 kW 122 PS.**
@@ -53,7 +53,7 @@ Payload는 가장 자주 준수 문제를 일으킬 수 있는 그림입니다. 
 ## 자주 묻는 질문
 ** 슈다의 GVW는  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; 특정 신체에 대한 MIIT 발표 의식에 정확한 페이로드를 확인합니다.
 **이 페이지 커버는 ** JX493ZLQ6D 2.499 L 디젤 90 kW (122 PS); 2.8 L 116 PS 버전은 다른 단위입니다.
-**왜 무게가 그것은 쓸모 있는 payload를 놓습니다  and  dropside의 변화  and  box-van bodies — do not share one payload across bodies.
+**왜 무게가 그것은 쓸모 있는 payload를 놓습니다  and  dropside의 변화  and  box-van bodies — 차체마다 하나의 적재량을 공유하지 마라.
 ** 중국 - 6 트럭은 내 시장을 위해 ** 자동이 아닌; 목적지 방출 및 유형 승인은 분리됩니다.
 
 ## 이미지 기록

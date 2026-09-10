@@ -1,4 +1,4 @@
-# 中国で返品された輸出物: The One-Year Duty Exemption and the Separate Six-Month E-Commerce Track
+# 中国で返品された輸出物: 1年間の免税と別建ての6か月電子商取引トラック
 ## SEOメタデータ
 - **SEOタイトル**: 中国 輸出入 輸出入 関税免除(一年・CBEC規則) | オートブリッジ
 - **メタディスクリプション**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under  GACC  Order 272,  the separate cross-border e-commerce six-month rule,  and  '元の状態' が要求するもの。
@@ -16,7 +16,7 @@
 
 ## 一般的なルール: one year, 品質/特定理由, 元の状態
 
-レイビーの行政措置の下  and  注文の義務のコレクション(中国順序の習慣の総管理No. 272)、 ** 芸術的 49 **,  goods that are re-imported **within one year** of export, **品質や仕様上の理由**,  and  自分の**元の状態**で、 輸入通関義務なしで持ち帰ることができる  and  再入国時の輸入段階税。 The current measures took effect on **1 December 2024**.
+レイビーの行政措置の下  and  注文の義務のコレクション(中国順序の習慣の総管理No. 272)、 ** 芸術的 49 **,  goods that are re-imported **within one year** of export, **品質や仕様上の理由**,  and  自分の**元の状態**で、 輸入通関義務なしで持ち帰ることができる  and  再入国時の輸入段階税。 現行措置は以下の日に施行された **1 December 2024**.
 
 3つの条件は包括的です。3つすべては保持しなければなりません。
 
@@ -36,7 +36,7 @@
 
 ## 別のクロスボーダーのeコマーストラック: six months, 定義された監督コード
 
-クロスボーダーのeコマースが自分のスケジュールで実行される  and  should not be confused with the general one-year rule. 越境EC監護コードで輸出された商品の場合** 1210、9610、9710、9810 **は、納税免除は、正式に適用される**年以内に元の状態に戻ります。 This special arrangement has a defined execution period of **1 January 2026 to 31 December 2027** (time-sensitive — confirm the current operative notice before relying on it). コントラストに注意: six months rather than one year, 特定のeコマースコードに結び付けられて、  and  明示的なポリシー期間に拘束される。
+クロスボーダーのeコマースが自分のスケジュールで実行される  一般的な1年ルールと混同してはならない. 越境EC監護コードで輸出された商品の場合** 1210、9610、9710、9810 **は、納税免除は、正式に適用される**年以内に元の状態に戻ります。 この特別な取扱いには定められた実施期間がある **1 January 2026 to 31 December 2027** (time-sensitive — 依拠する前に現在有効な通知を確認する). コントラストに注意: six months rather than one year, 特定のeコマースコードに結び付けられて、  and  明示的なポリシー期間に拘束される。
 
 | 寸法: | 一般的な返品保証規則 | クロスボーダー電子商取引トラック |
 |---|---|---|
@@ -51,7 +51,7 @@
 
 1. 元の輸出(宣言番号、B/L、商用文書)へのリンクを保存します。
 2. 質疑惑の理由を文書化 — 品質レポート、買い手拒絶、一般的な規則の仕様ミスマッチ; CBECトラックのeコマースリターンレコード。
-3. Check the clock against the correct rule (one year versus six months)  and  現在の有効期間。
+3. 正しいルールで期限を確認する (one year versus six months)  and  現在の有効期間。
 4. 元の状態を実証し、変更された商品を無接触に提示するのではなく、使用または処理を開示します。
 5. 既に主張した輸出リベートを逆転させる, 税務当局とのステップで.
 6. 支持ファイルで返送宣言を提出してください。 税関は元の状態の決定をします。
@@ -61,7 +61,7 @@
 ## よくある質問
 **輸出商品を免税品に再輸入した場合 ふりがな ふりがな
 
-GACC の発注のいいえ 272 記事 49 の下の、  when they return within one year for quality/specification reasons in original state; 輸入税・輸入税は、再入国に関係しない。
+GACC の発注のいいえ 272 記事 49 の下の、  品質事由で1年以内に返送される場合/specification reasons in original state; 輸入税・輸入税は、再入国に関係しない。
 
 **電子商取引のトラックはどのように異なっていますか? ふりがな ふりがな
 

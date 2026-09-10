@@ -39,7 +39,7 @@ Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos
 5. **Reverificar no momento da encomenda e novamente antes da expedição:** regras de idade são sensíveis ao tempo; uma regra válida na citação pode mudar antes de navegar.
 ## O que este guia recomenda antes de pagar
 - Tratar as figuras do Quênia e Nigéria como ****************************************************************************************************************************************************************************************************************************************************** 
-- Do not reuse the old forwarder 7-year (Kenya) or 12-year (Nigeria) figures — they are superseded by the primary instruments cited here.
+- Não reutilize o despachante anterior 7-year (Kenya) or 12-year (Nigeria) figures — são substituídos pelos instrumentos primários aqui citados.
 - Confirmar ** lado de pavimentação, programa de inspeção e cadeia de documentos** ao lado da idade; onde a redação de um portal oficial é ambígua (direção Nigeria), obter a resposta alfandegária escrita.
 - Capturar a data de fabricação e a data de registro** dos documentos de registro/VIN durante o PSI, então a idade é calculada na base correta.
 ## Perguntas Mais Frequentes

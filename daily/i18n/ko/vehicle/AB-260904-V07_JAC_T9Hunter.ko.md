@@ -60,7 +60,7 @@ T9의 제품정보 Hunter 디젤 - 중국 시장 참조 |
 
 ## 자주 묻는 질문
 ** 어떤 엔진과 기어 박스는 T9 Hunter ** 자동 ZF 8-speed를 가진 2.0T 디젤 (125 kW/410 N·m); 중국 시장의 경우, 공장 구성 시트를 종료하는 단일 소스입니다.
-**Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  문서화 된 4x4.의 후방 차폐
+**로우레인지 4륜구동이 있는가?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  문서화 된 4x4.의 후방 차폐
 ** 표준 또는 긴 ** 둘 다: 3110 mm의 축거 5330 mm 전반적인 3400 mm/5620 mm; 침대 길이는 그러므로 다릅니다.
 ** 3500 kg 견인 수치를 중국 인증 ** 아니요 - 수출 시장 JAC 공장 수치입니다. 페이로드 1000 kg는 중국 정격 값이며 목적지 등급은 별도로 확인해야합니다.
 

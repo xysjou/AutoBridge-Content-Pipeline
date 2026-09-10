@@ -37,7 +37,7 @@ Der G90 wird in **six- seat (2+2+2) ** und **seven-seat (2+2+3) ** Konfiguration
 - Bestätigung des Inhalts des Kapitänssitzes in der zweiten Reihe gegenüber dem Sitz der Bank für die gewählte Ausstattung;
 - die Sitzplatzzahl mit der Homologationsurkunde anstelle eines Marketing-Images in Einklang bringen.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), Veranschaulichung, wie viel Gepäckraum davon abhängt, ob die dritte Reihe in Gebrauch ist; Behandeln Sie die genaue Figur als trimmabhängig.
+Das Ladevolumen wird mit etwa angegeben **1010.5–2179 L** bei umgeklappter dritter Reihe (single-source), Veranschaulichung, wie viel Gepäckraum davon abhängt, ob die dritte Reihe in Gebrauch ist; Behandeln Sie die genaue Figur als trimmabhängig.
 
 ## Was ein Large-MPV-Käufer überprüfen sollte
 

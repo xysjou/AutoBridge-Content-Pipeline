@@ -33,7 +33,7 @@ Xingxiang V6E는 Farizon의 (Geely's commercial-vehicle 상표) ** 건전지 전
 - 견적문의 kWh ** 및 ** 범위 ** 및 ** 범위 사이클 조건을 함께; 기본 VIN에 더 새로운 51 kWh 번호를 첨부하지. AC/DC 충전 규정 및 부품별 충전 시간을 확인합니다.
 
 ## 문서화 된 수출 기록 (제조, 별명)
-China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, Farizon의 첫 번째 항목으로 설명,  in 6 m³ form. 이것은 ** 수출 배달 기록 **: 유럽 표준 빌드를 확인했다,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  spec 시트를 요청합니다.
+China Transport News (an industry news outlet) reports that in **February 2024 초기 물량의 EU 사양 V6E 밴이 T로 수출되었다ürkiye**, Farizon의 첫 번째 항목으로 설명,  in 6 m³ form. 이것은 ** 수출 배달 기록 **: 유럽 표준 빌드를 확인했다,  but it does **not** make the Tü튀르키예 EU 사양 밴이 중국판과 동일 35.2/51 kWh builds — treat export configuration separately  and  spec 시트를 요청합니다.
 
 ## 지불의 앞에 Verify해야 하는 어떤 수입업자
 - 인증서에 전기화물 반의 드라이브 차축 배열을 확인; 캡처 한 중국 참조 데이터는 그것을 수정하지 않습니다, 그래서 부하 운송 섀시에 대한 전면 드라이브에 기본적으로하지 않습니다.
@@ -50,7 +50,7 @@ China Transport News (an industry news outlet) reports that in **February 2024 a
 **What is the V6E's cargo capacity?** A 6 m³ cargo bay (about 1.6 m long reference), 로드 지향성 리프 스프링 리어 액슬.
 **요금은 참고 기본 팩은 260 km (작업 상태);에 35.2 kWh입니다. 더 큰 배터리 빌드는 나열되지만 정확한 수치는 견적보다 카탈로그 및 VIN에서 확인해야합니다.
 ** 최고 속도는 ** 90 km/h, 전자적으로 제한 - 도시 마지막 마일 특성.
-**Has the V6E been exported?** Yes — an EU-spec batch was recorded shipped to Türkiye in Feb 2024; 그 수출은 중국 사양의 밴과 동일하지 않다.
+**Has the V6E been exported?** Yes — EU 사양 한 묶음이 T로 선적된 것으로 기록ürkiye in Feb 2024; 그 수출은 중국 사양의 밴과 동일하지 않다.
 ** 어떤 모터가 ** Wolong-ZF TZ185XS022 영구 자석 모터, 60 kW/220 N·m.
 
 ## 이미지 기록

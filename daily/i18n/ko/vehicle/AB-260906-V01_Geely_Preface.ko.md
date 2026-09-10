@@ -28,7 +28,7 @@ The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-dri
 | 2.0T (외부 구경측정) | 175 kW (238 PS)/350 N·m의 자동 8-speed, WLTC는 ≈ 7.15 L/100km를 결합했습니다 | 중국 · 구/Jinchao-era 2.0T · 단일 소스 | single source(싱글) |
 | 2.0T (신뢰) | 200 kW / 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | 중국 · 2025 동팡야오 2.0T · 단일 소스, 확인 | single source(싱글) |
 
-The two 2.0T outputs are not a data conflict to resolve by picking one: 그들은 다른 모형 년 구경측정에 속합니다. 'A Preface 2.0T'라는 이름의 수출 인용  and  정확한 손질은 주위입니다. Geely의 지역 중동 물자는 분리되는 수출 시장 Preface powertrain를 보여줍니다 (예를 들면 2.0TD + 7DCT 지역 건축); 모델에 따라 지역 빌드가 수출 시장 참조로 인용됩니다.  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+The two 2.0T 수치는 하나를 골라 해결할 데이터 충돌이 아니다: 그들은 다른 모형 년 구경측정에 속합니다. 'A Preface 2.0T'라는 이름의 수출 인용  and  정확한 손질은 주위입니다. Geely의 지역 중동 물자는 분리되는 수출 시장 Preface powertrain를 보여줍니다 (예를 들면 2.0TD + 7DCT 지역 건축); 모델에 따라 지역 빌드가 수출 시장 참조로 인용됩니다.  and  is **not** 중국판과 동일하게 취급 175/200 kW trims without OEM confirmation.
 
 ## 포좌, 좌석 및 장비 신호
 

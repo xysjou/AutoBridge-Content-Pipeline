@@ -1,4 +1,4 @@
-# GWM Haval Jolion: One Nameplate, Market- Specific Powertrains a Buyer Must Not Blend
+# GWM Haval Jolion: One Nameplate, Powertrain Khusus Pasar yang Tidak Boleh Dicampur Pembeli
 
 ## Metadata SEO
 - **Judul SEO**: Haval Jolion / Haval Chulian Identity & Market-Specs Specific - Ekspor Guide
@@ -53,9 +53,9 @@ Tidak ada harga ekspor yang diterbitkan dan tidak ada yang dianjurkan di sini. R
 
 ## Pertanyaan Yang Sering Muncul
 Apakah Jolion mobil yang sama dengan Haval Chulian? Pada tingkat bawah nama ya - GWM 's sendiri sejarah catatan versi luar negeri Chulian sebagai JOLION (diluncurkan di Afrika Selatan / Arab Saudi); tetapi pasar-powertrains spesifik masih berbeda dan tidak dapat ditukar.
-Does the Jolion come as a hybrid? Di luar negeri cakupan dokumen-dokumen sebuah HHI 1.5L DHT (~ 190 PS 375 N·m); mobil referensi Cina di sini adalah sebuah turbo 1.5T - tetap mereka dalam kolom terpisah.
+Apakah Jolion tersedia dalam versi hybrid? Di luar negeri cakupan dokumen-dokumen sebuah HHI 1.5L DHT (~ 190 PS 375 N·m); mobil referensi Cina di sini adalah sebuah turbo 1.5T - tetap mereka dalam kolom terpisah.
 ** Apa torque dan gearbox Cina 1.5T? * Kekuasaan 110 kW; yang ditangkap 210 N·m dan 7DCT adalah angka-angka pasar Australia, sehingga mereka tidak dinyatakan sebagai nilai-nilai Cina yang dikonfirmasi tertunda sumber Cina kedua.
-**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; Konfirmasikan mobil Cina secara terpisah.
+**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L adalah angka versi luar negeri; Konfirmasikan mobil Cina secara terpisah.
 
 ## Rekor Gambar
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori

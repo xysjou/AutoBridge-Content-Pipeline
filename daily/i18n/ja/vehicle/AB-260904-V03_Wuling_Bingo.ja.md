@@ -13,8 +13,8 @@
 - **ALTテキスト**: 呉ビンゴ小型電気ハッチバック中国仕様
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
-## バイヤーのコンテキスト: a City BEV Sold in Three Range Steps
-The Bingo is Wuling's five-door small electric hatchback, 都市をめざす  and  軽工業の個人用利用 輸出業者にとって、決定的な変数は**range Step**です。モーター力、電池および最高速度はそれとすべての変更を移します。 こちらのシートは、**中国市場2024ライン(REFERENCE MARKET)をカバーしています。 中国の**; 海外のOEMページがなければ、中国図は、グローバル仕様ではなく、参考文献です。
+## バイヤーのコンテキスト: 三つの航続ステップで販売される都市型BEV
+繽果（Bingo）は五菱の5ドア小型電動ハッチバック, 都市をめざす  and  軽工業の個人用利用 輸出業者にとって、決定的な変数は**range Step**です。モーター力、電池および最高速度はそれとすべての変更を移します。 こちらのシートは、**中国市場2024ライン(REFERENCE MARKET)をカバーしています。 中国の**; 海外のOEMページがなければ、中国図は、グローバル仕様ではなく、参考文献です。
 
 ## EVコア:バッテリー、レンジサイクル、充電
 | アイテム | 203 km (エントリー) | 333 410 km(中/高) |
@@ -52,7 +52,7 @@ The Bingo is Wuling's five-door small electric hatchback, 都市をめざす  an
 静的な輸出価格無し。 中国語2024の開始ガイド価格(RMB 56、800のまわり)はFOB/CIF**ではなく**domestic、時感度参照です。 **目的地の国・数量・レンジステップ/トリム・LHD/RHD・宛先ポート・インコターム**を装備。
 
 ## よくある質問
-**How many range versions are there?** Three documented CLTC steps — 203,  333  and  410 km — 異なるモーターで  and  電池の指定。
+**航続バージョンはいくつあるか?** Three documented CLTC steps — 203,  333  and  410 km — 異なるモーターで  and  電池の指定。
 **ビンゴ50 kWは?** いいえ。203 kmエントリー車は30 kWモーターを使用していますが、333/410バージョンは50 kWを使用しています。
 定員は?** 書類作成のレイアウトは4席(2+2)です。 選択したバージョンのシート5かを確認します。
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, 中国の報道による コネクターのタイプは海外で点検されなければなりません。

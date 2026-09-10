@@ -39,7 +39,7 @@ Die Anpassung ersetzt nicht den Marktzugang: Das Fahrzeug und alle geänderten K
 
 ** Wenden Sie das GSO-Rahmenwerk Land für Land an (COUNTRY_SPECIFIC).** In Saudi-Arabien laufen die Typenzulassung und die Übereinstimmung der Sendung über SASO und die SABER-Plattform (PCoC/SCoC-Logik, exakter Zertifikatstyp nach HS und Fahrzeugkategorie). In den Vereinigten Arabischen Emiraten werden Zertifikate für die Konformität regulierter Produkte von MoIAT (dem ECAS-Nachfolger) ausgestellt, wobei die Registrierung auf Emiratebene abgeschlossen ist. **Die GSO harmonisiert die technischen Vorschriften, aber jeder Mitgliedstaat wendet sie über seine eigene Stelle und Zeitleiste an** – behandeln Sie kein saudisches Zertifikat, eine Emirate-Registrierung oder eine einzige GSO-Liste als austauschbaren Nachweis für Kuwait, Oman, Katar oder Bahrain; überprüfen Sie die aktuelle Route des Ziels separat.
 
-## Was dieser Leitfaden empfiehlt Sie mit dem OEM Upfitter zu erhöhen
+## Was dieser Leitfaden empfiehlt, mit OEM und Aufbauhersteller zu erhebenöhen
 1. Die **Ziel-Betriebshülle** (Peak Ambient, Feuchtigkeit, Staub) für die Route.
 2. **ICE-Kandidaten** — Kühlung, Lichtmaschine/Batterie, Wechselstrom, Gurtbandbewertung, Filterung — als Fragen, die durch die thermischen Daten des Modells unterstützt werden, nicht als Upgrades angenommen.
 3. ** EV** - Fragen Sie nach dem Wärmemanagement-Vergleich und der BMS-Klimastrategie; bewerten Sie den Kühlansatz auf Evidenz anstatt einer Pauschalregel.
@@ -50,7 +50,7 @@ Die Anpassung ersetzt nicht den Marktzugang: Das Fahrzeug und alle geänderten K
 **Braucht jedes China-Fahrzeug ein Golf-Adaptions-Kit? ** Nicht automatisch — die Elemente hier sind Punkte, die mit dem OEM Upfitter pro Modell zu bewerten sind; einige China-Builds decken bereits den Umschlag ab.
 **Ist die Luftkühlung für Gulf EVs inakzeptabel?** Entscheiden Sie sich nicht per Faustregel - fragen Sie den OEM nach thermischen Daten für die Zielhülle; Flüssigkeitskühlung ist eine Option, die bewertet werden muss, keine angegebene universelle Anforderung.
 **Ist die technische Anpassung die gleiche wie die Homologation?** Nein — Adaption ist technische Bewertung; GCC/GSO-Konformität ist ein separater, obligatorischer Arbeitsstrom und beide müssen dem gleichen Build entsprechen.
-**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; a Chinesische Politik Referenz zitiert eine - 30 bis 55 °C Design-Ziel - weder ist eine Golf gesetzliche Grenze.
+**Welche Temperatur muss das Fahrzeug aushalten?** One source describes ~40–50 °C Gulf summers; a Chinesische Politik Referenz zitiert eine - 30 bis 55 °C Design-Ziel - weder ist eine Golf gesetzliche Grenze.
 **Wo finde ich die genauen GSO-Heiz-/AC-Standards?** Beginnen Sie mit der Liste der technischen Vorschriften der GSO und öffnen Sie dann die nationale Route des Ziellandes - SASO SABER für Saudi-Arabien, MoIAT für die VAE -, da der GSO-Text auf nationaler Ebene angewendet wird. In diesem Handbuch wird keine spezifische Heizungs- AC-Standardnummer angegeben, die nicht direkt überprüft werden konnte; Die Engineering-Kandidaten benötigen hier immer noch eine OEM- Upfitter-Bestätigung.
 
 ## Bildaufzeichnung

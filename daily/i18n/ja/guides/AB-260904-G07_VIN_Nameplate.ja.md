@@ -14,7 +14,7 @@
 - **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 支払い前にVIN検証がなぜVIN認証をSitsするのか
-A VIN mismatch is one of the few defects that blocks registration **after** the vehicle has already been paid for  and  出荷。 固定は、調達デスクで安く、目的地のポートで高価です。 中国語のVIN構造を標準規格で説明しています。  and  gives a four-place consistency check buyers can run before releasing balance payment.
+VIN不一致は登録を阻む数少ない欠陥の一つである **after** 車両代金はすでに支払われており、  出荷。 固定は、調達デスクで安く、目的地のポートで高価です。 中国語のVIN構造を標準規格で説明しています。  残金支払い前に買い手が実施できる4項目の整合確認を提供する.
 
 ## GB 16735-2019 の下の 17-Character の構造
 車識別番号は** 17文字です。  divided into three parts:

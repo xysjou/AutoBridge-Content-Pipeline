@@ -15,7 +15,7 @@
 ## The Misconception That Costs Importers Money
 Buyers assume that under FOB or CIF the **shipping line fully compensates** a scratched, crushed, stolen or water-damaged vehicle. It does not: carrier liability is capped by international convention far below a car's value, and the cargo clause you choose decides whether ordinary transit damage is covered at all. This page covers **marine cargo insurance for vehicles shipped from China** (global ocean routes) — clauses and claims, distinct from Incoterm pricing and from RoRo-vs-container choice.
 ## The Three Clause Tiers — Anchored to the Official Wording
-Institute Cargo Clauses are published by the **Lloyd's Market Association (LMA) and the International Underwriting Association of London (IUA)**; the current (A)/(B)/(C) wordings — clause references **CL382 (A), CL383 (B), CL384 (C) — took effect 1 January 2009** (official LMA wording; VERIFIED).
+Institute Cargo Clauses are published by the **Lloyd's Market Association (LMA) and the International Underwriting Association of London (IUA)**; the current (A)/(B)/(C) wordings — clause references **CL382 (A), CL383 (B), CL384 (C) — took effect 1 January 2009** (official LMA wording; confirmed by primary sources).
 | Tier | Cover (outline) | Suitability for a vehicle |
 |---|---|---|
 | **ICC (A) — "All Risks" (CL382)** | Broad all-risks cover for accidental physical loss/damage **subject to the clause's exclusions, attachment of cover and the actual policy wording**; *may* respond to accidental transit/handling events such as theft or handling damage where cover attaches and no exclusion applies | The usual baseline for vehicles |
@@ -23,7 +23,7 @@ Institute Cargo Clauses are published by the **Lloyd's Market Association (LMA) 
 | **ICC (C) — major casualties (CL384)** | A narrow set of major casualties | Inadequate for a car |
 Vehicles generally warrant **ICC (A)** because the losses seen most on RoRo and in port handling — accidental handling damage, theft, scratches and dents — fall outside the named-perils scope of (B)/(C); whether a specific event responds still depends on the exclusions, attachment point and policy wording. **War and strikes cover are separate clauses** purchased additionally for sensitive routes.
 ## Incoterms 2020: the CIP-vs-CIF Obligation Buyers Miss
-This is now grounded in the ICC's own Incoterms materials (VERIFIED): under **Incoterms 2020 the seller's *minimum* insurance duty was raised to Institute Cargo Clauses (A) for CIP**, whereas **CIF retains the lower ICC (C) minimum** (ICC Digital Library / ICC Academy explain the 2010→2020 change and its premium trade-off). Practical consequence:
+This is now grounded in the ICC's own Incoterms materials (confirmed by primary sources): under **Incoterms 2020 the seller's *minimum* insurance duty was raised to Institute Cargo Clauses (A) for CIP**, whereas **CIF retains the lower ICC (C) minimum** (ICC Digital Library / ICC Academy explain the 2010→2020 change and its premium trade-off). Practical consequence:
 - On **CIF**, the seller may only owe minimal **ICC (C)** cover even though a car needs **(A)** — write **ICC (A) explicitly into the contract and any letter of credit**, or buy your own top-up.
 - On **CIP**, the default minimum is **ICC (A)** for the buyer's benefit — still confirm the actual clause on the certificate rather than assuming.
 ## Setting the Insured Value — Two Different "110%" Rules (no invented premium)

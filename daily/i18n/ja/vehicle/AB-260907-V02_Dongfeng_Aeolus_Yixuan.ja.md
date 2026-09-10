@@ -16,7 +16,7 @@ The Dongfeng Aeolus Yixuan (风神奕炫) is the compact three-box/fastback seda
 
 ## 身体の身元と寸法
 
-- ボディ: four-door,  five-seat compact three-box/fastback sedan on the CMP platform, フロントエンジン/フロントホイール駆動(クロスチェック)
+- ボディ: four-door,  five-seat compact three-box/CMPプラットフォームのファストバックセダン, フロントエンジン/フロントホイール駆動(クロスチェック)
 - 参照次元:** 4670の× 1812の× 1490 mmのホイールベース2680 mm **。元の2019進水車は4660 mmの長さをリストしました。小規模な年収差は、ブレンドよりも正確なモデル年証明書に一致する必要があります。
 
 CMPベースは、ボリュームのコンパクトセダンセグメントを目的としたトセッションビーム/横断面ドライブレイアウトを信号します。特定のSKUの正確なサスペンションと機器の細部は、そのSKUの構成シートから読み込む必要があります。
@@ -28,7 +28,7 @@ CMPベースは、ボリュームのコンパクトセダンセグメントを�
 | 1.5L 自然に吸い込まれる (2025) | 92 kW (125 PS)/158 N·m; WLTCは≈ 6.24 L/100 kmを結合しました | 6-speed ウェット デュアル クラッチ | 2025現在の主要なライン | single source — によって確認します。 VIN/OEM|
 | マッハ 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speedウェットデュアルクラッチ | 2022/2023 古いライン、2025メインラインではありません | single source — 歴史の線|
 
-The performance gap between the two is large enough to change a buyer's decision, つまり、その人が「イクワンエンジン」の数字に結合してはならないのはまさにその理由です。 Mach 1.5Tは、** のパワートレインとしてラベル付けされるべきです。 現在利用可能なセダンがラインアップを誤って表示するので、現在入手可能なセダンとして提示する。 両方の出力は、現在、単一の独立したソースに残り、Aeolusの公式設定ページまたは契約前の正確なMIITの均質化エントリに対して閉鎖する必要があります。 ※WLTC**サイクルで燃料消費量を引用し、NEDCやCLTCの数値と他の車と比較してはならない。
+両者の性能差は買い手の判断を変えるほど大きい, つまり、その人が「イクワンエンジン」の数字に結合してはならないのはまさにその理由です。 Mach 1.5Tは、** のパワートレインとしてラベル付けされるべきです。 現在利用可能なセダンがラインアップを誤って表示するので、現在入手可能なセダンとして提示する。 両方の出力は、現在、単一の独立したソースに残り、Aeolusの公式設定ページまたは契約前の正確なMIITの均質化エントリに対して閉鎖する必要があります。 ※WLTC**サイクルで燃料消費量を引用し、NEDCやCLTCの数値と他の車と比較してはならない。
 
 ## 装置およびトリムの規準
 
@@ -50,7 +50,7 @@ The performance gap between the two is large enough to change a buyer's decision
 ## よくある質問
 **Aeolus Yixuan のエンジンはどのようなエンジンを使用しますか? アパート
 
-The 2025 main line referenced here is a 1.5L naturally-aspirated unit quoted at 92 kW/158 N·m with a 6DCT  and  WLTCは6.24 L/100 kmのまわりの燃料の使用を結合しました; 確認はVINで行います。
+The 2025 ここで参照する主ラインは 1.5L naturally-aspirated unit quoted at 92 kW/158 N·m with a 6DCT  and  WLTCは6.24 L/100 kmのまわりの燃料の使用を結合しました; 確認はVINで行います。
 
 **現行車は197-PS Mach 1.5T ですか? アパート
 

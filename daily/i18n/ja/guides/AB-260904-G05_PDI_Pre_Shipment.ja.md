@@ -14,7 +14,7 @@
 - **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 合併してはならない2つの層
-Damage disputes at destination almost always trace back to one question: 車両の状態、燃料/電池の状態、操作性が変わっていました**? 清潔に答える  this guide keeps two layers separate:
+仕向地での損傷紛争はほぼ常に一つの問いに行き着く: 車両の状態、燃料/電池の状態、操作性が変わっていました**? 清潔に答える  本ガイドは二つの層を分けて保つ:
 1. **名前付きキャリア要件(CARRIER_SPECIFIC)** — 特定のRoRoRoキャリアのポリシーを記述する**Wallenius Wilhelmsen (WW)**と**Höegh Autoliners(Höegh)**。 これらは、国際規制ではない**の運送業者ポリシーであり、すべての配送ラインに普遍的ではなく、常に書面による指示を規定しています。
 2. **AutoBridgeは、事前の出荷チェックリスト(EDITORIAL_RECOMMENDATION)**を推薦しました。このガイドは、証拠を推薦する検査/記録保管方法。 業界管理の手順ではなく、一つとして提示されていない**です。
 

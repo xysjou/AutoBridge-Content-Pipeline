@@ -76,7 +76,7 @@ Không phải trên bằng chứng này: nó được xây dựng cho Trung Qu�
 
 Có phải chiếc xe mới 100P là cùng một chiếc không? **
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) là một dòng model riêng có các thông số không được gộp vào một cấu hình KV100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

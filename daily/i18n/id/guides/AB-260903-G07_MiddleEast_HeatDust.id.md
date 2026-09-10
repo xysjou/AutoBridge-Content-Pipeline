@@ -34,7 +34,7 @@ Untuk kendaraan listrik baterai adalah sistem panas-sensitif. Satu sumber teknik
 - Evaluasi ** hot-iklim DC cepat-biaya perilaku, kabin pre- pendinginan **, dan konektor onboard- charger toleransi panas, operasi berdebu.
 - A Chinese policy reference cites a battery-environment **target of −30 °C to 55 °C** (single-source) — a design target only, bukan batas hukum Teluk.
 
-## Compliance Runs in Parallel With Engineering
+## Kepatuhan Berjalan Beriringan dengan Rekayasa
 Adaptasi tidak menggantikan akses pasar: kendaraan dan komponen yang berubah apapun (* harness, sensor, unit AKIS **) masih harus memuaskan ** GCC GSO sesuai **, dan bagian yang berubah harus membawa sertifikasi yang sesuai. Evaluasi teknik dan homologation harus berkumpul pada VIN konfigurasi yang sama - bagian yang terpasang yang void konformitas adalah kehilangan bersih.
 
 ** Terapkan GSO kerangka negara demi negara (NEUNTRY _ SPECIFIC). ** Dalam ** Arab Saudi **, ketik persetujuan dan pengiriman sesuai melalui platform SASO dan platform SABER (logika PCOC SCOC, tipe sertifikat yang tepat oleh kategori HS dan kendaraan). Dalam ** UAE **, diatur - produk sertifikat konformitas dikeluarkan oleh MoiAT (penerus ECAS), dengan pendaftaran selesai di tingkat emirate. ** GSO harmonises peraturan teknis, tetapi setiap negara bagian menerapkan mereka melalui tubuhnya sendiri dan timeline * - jangan memperlakukan sertifikat Saudi, sebuah pendaftaran Emitates, atau sebuah daftar GSO sebagai bukti yang dapat diubah bagi Kuwait, Oman, Qatar atau Bahrain; verifikasi rute tujuan secara terpisah.

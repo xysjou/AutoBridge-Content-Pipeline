@@ -8,7 +8,7 @@
   "en": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.1735,
+    "max": 0.1733,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.md"
@@ -17,7 +17,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.212,
+    "max": 0.2118,
     "pair": [
      "AB-260903-V07_Yutong_ZK6122.md",
      "AB-260903-V08_FAW_Jiefang_J6P.md"
@@ -73,7 +73,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.1997,
+    "max": 0.1998,
     "pair": [
      "AB-260903-V01_Geely_Emgrand_2024.fr.md",
      "AB-260903-V03_Changan_CS75PLUS_2024.fr.md"
@@ -84,7 +84,7 @@
     "n": 20,
     "max": 0.2157,
     "pair": [
-     "AB-260904-V02_BYD_QinL_DMi.fr.md",
+     "AB-260904-V03_Wuling_Bingo.fr.md",
      "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
     ],
     "verdict": "PASS"
@@ -120,7 +120,7 @@
   "de": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.17,
+    "max": 0.1701,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.de.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.de.md"
@@ -129,7 +129,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.2177,
+    "max": 0.2178,
     "pair": [
      "AB-260903-V07_Yutong_ZK6122.de.md",
      "AB-260903-V08_FAW_Jiefang_J6P.de.md"
@@ -176,7 +176,7 @@
   "es": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.1656,
+    "max": 0.1654,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.es.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.es.md"
@@ -194,7 +194,7 @@
    },
    "2026-09-04": {
     "n": 20,
-    "max": 0.2361,
+    "max": 0.2355,
     "pair": [
      "AB-260904-V02_BYD_QinL_DMi.es.md",
      "AB-260904-V06_GAC_Trumpchi_E8.es.md"
@@ -203,7 +203,7 @@
    },
    "2026-09-05": {
     "n": 20,
-    "max": 0.2176,
+    "max": 0.2175,
     "pair": [
      "AB-260905-V07_Foton_Toano.es.md",
      "AB-260905-V10_AUMAN_EST.es.md"
@@ -221,7 +221,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0754,
+    "max": 0.0755,
     "pair": [
      "AB-260907-V02_Dongfeng_Aeolus_Yixuan.es.md",
      "AB-260907-V03_SAIC_MAXUS_G90.es.md"
@@ -259,7 +259,7 @@
    },
    "2026-09-05": {
     "n": 20,
-    "max": 0.2159,
+    "max": 0.2157,
     "pair": [
      "AB-260905-V02_Changan_UNI_Z.pt.md",
      "AB-260905-V05_Changan_CS55PLUS.pt.md"
@@ -288,7 +288,7 @@
   "ja": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.2157,
+    "max": 0.2179,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.ja.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.ja.md"
@@ -306,7 +306,7 @@
    },
    "2026-09-04": {
     "n": 20,
-    "max": 0.2468,
+    "max": 0.2505,
     "pair": [
      "AB-260904-V02_BYD_QinL_DMi.ja.md",
      "AB-260904-V06_GAC_Trumpchi_E8.ja.md"
@@ -315,7 +315,7 @@
    },
    "2026-09-05": {
     "n": 20,
-    "max": 0.2072,
+    "max": 0.2091,
     "pair": [
      "AB-260905-V02_Changan_UNI_Z.ja.md",
      "AB-260905-V05_Changan_CS55PLUS.ja.md"
@@ -324,7 +324,7 @@
    },
    "2026-09-06": {
     "n": 20,
-    "max": 0.1743,
+    "max": 0.1769,
     "pair": [
      "AB-260906-V08_FAW_Jiefang_J6F.ja.md",
      "AB-260906-V09_Sinotruk_HOWO_TX_Dump.ja.md"
@@ -333,7 +333,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0605,
+    "max": 0.0616,
     "pair": [
      "AB-260907-V06_Changan_Kaicene_F70.ja.md",
      "AB-260907-V08_Qingling_Isuzu_KV100.ja.md"
@@ -353,7 +353,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.2181,
+    "max": 0.2179,
     "pair": [
      "AB-260903-V07_Yutong_ZK6122.ko.md",
      "AB-260903-V08_FAW_Jiefang_J6P.ko.md"
@@ -362,7 +362,7 @@
    },
    "2026-09-04": {
     "n": 20,
-    "max": 0.2353,
+    "max": 0.2354,
     "pair": [
      "AB-260904-V02_BYD_QinL_DMi.ko.md",
      "AB-260904-V06_GAC_Trumpchi_E8.ko.md"
@@ -389,7 +389,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0624,
+    "max": 0.0627,
     "pair": [
      "AB-260907-V04_XPeng_MONA_M03.ko.md",
      "AB-260907-V05_Deepal_S05.ko.md"
@@ -400,7 +400,7 @@
   "vi": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.164,
+    "max": 0.1638,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.vi.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.vi.md"
@@ -409,7 +409,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.1961,
+    "max": 0.197,
     "pair": [
      "AB-260903-V01_Geely_Emgrand_2024.vi.md",
      "AB-260903-V03_Changan_CS75PLUS_2024.vi.md"
@@ -427,7 +427,7 @@
    },
    "2026-09-05": {
     "n": 20,
-    "max": 0.221,
+    "max": 0.2206,
     "pair": [
      "AB-260905-V07_Foton_Toano.vi.md",
      "AB-260905-V10_AUMAN_EST.vi.md"
@@ -445,7 +445,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0769,
+    "max": 0.0768,
     "pair": [
      "AB-260907-V04_XPeng_MONA_M03.vi.md",
      "AB-260907-V05_Deepal_S05.vi.md"
@@ -456,7 +456,7 @@
   "th": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.1687,
+    "max": 0.1678,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.th.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.th.md"
@@ -474,7 +474,7 @@
    },
    "2026-09-04": {
     "n": 20,
-    "max": 0.2452,
+    "max": 0.2453,
     "pair": [
      "AB-260904-V02_BYD_QinL_DMi.th.md",
      "AB-260904-V06_GAC_Trumpchi_E8.th.md"
@@ -501,7 +501,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0575,
+    "max": 0.0573,
     "pair": [
      "AB-260907-V02_Dongfeng_Aeolus_Yixuan.th.md",
      "AB-260907-V03_SAIC_MAXUS_G90.th.md"
@@ -512,7 +512,7 @@
   "id": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.172,
+    "max": 0.1719,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.id.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.id.md"
@@ -530,7 +530,7 @@
    },
    "2026-09-04": {
     "n": 20,
-    "max": 0.249,
+    "max": 0.2489,
     "pair": [
      "AB-260904-V03_Wuling_Bingo.id.md",
      "AB-260904-V06_GAC_Trumpchi_E8.id.md"
@@ -548,7 +548,7 @@
    },
    "2026-09-06": {
     "n": 20,
-    "max": 0.0771,
+    "max": 0.077,
     "pair": [
      "AB-260906-V08_FAW_Jiefang_J6F.id.md",
      "AB-260906-V09_Sinotruk_HOWO_TX_Dump.id.md"
@@ -557,7 +557,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0557,
+    "max": 0.0558,
     "pair": [
      "AB-260907-V02_Dongfeng_Aeolus_Yixuan.id.md",
      "AB-260907-V03_SAIC_MAXUS_G90.id.md"
@@ -568,7 +568,7 @@
   "ar": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.169,
+    "max": 0.1688,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.ar.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.ar.md"
@@ -577,7 +577,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.2126,
+    "max": 0.2127,
     "pair": [
      "AB-260903-V07_Yutong_ZK6122.ar.md",
      "AB-260903-V08_FAW_Jiefang_J6P.ar.md"
@@ -595,7 +595,7 @@
    },
    "2026-09-05": {
     "n": 20,
-    "max": 0.2322,
+    "max": 0.2318,
     "pair": [
      "AB-260905-V02_Changan_UNI_Z.ar.md",
      "AB-260905-V05_Changan_CS55PLUS.ar.md"
@@ -604,7 +604,7 @@
    },
    "2026-09-06": {
     "n": 20,
-    "max": 0.0847,
+    "max": 0.0848,
     "pair": [
      "AB-260906-V08_FAW_Jiefang_J6F.ar.md",
      "AB-260906-V09_Sinotruk_HOWO_TX_Dump.ar.md"
@@ -613,7 +613,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.063,
+    "max": 0.0637,
     "pair": [
      "AB-260907-V02_Dongfeng_Aeolus_Yixuan.ar.md",
      "AB-260907-V05_Deepal_S05.ar.md"
@@ -624,7 +624,7 @@
   "zh": {
    "2026-09-02": {
     "n": 20,
-    "max": 0.221,
+    "max": 0.2225,
     "pair": [
      "AB-260902-V08_Sinotruk_HOWO_T7H.zh.md",
      "AB-260902-V09_Shacman_X3000_Dump_Truck.zh.md"
@@ -633,7 +633,7 @@
    },
    "2026-09-03": {
     "n": 20,
-    "max": 0.2853,
+    "max": 0.2863,
     "pair": [
      "AB-260903-V07_Yutong_ZK6122.zh.md",
      "AB-260903-V08_FAW_Jiefang_J6P.zh.md"
@@ -660,7 +660,7 @@
    },
    "2026-09-06": {
     "n": 20,
-    "max": 0.0773,
+    "max": 0.0779,
     "pair": [
      "AB-260906-V08_FAW_Jiefang_J6F.zh.md",
      "AB-260906-V09_Sinotruk_HOWO_TX_Dump.zh.md"
@@ -669,7 +669,7 @@
    },
    "2026-09-07": {
     "n": 20,
-    "max": 0.0596,
+    "max": 0.0607,
     "pair": [
      "AB-260907-V06_Changan_Kaicene_F70.zh.md",
      "AB-260907-V08_Qingling_Isuzu_KV100.zh.md"
@@ -692,7 +692,7 @@
    "n": 120,
    "max": 0.2157,
    "pair": [
-    "AB-260904-V02_BYD_QinL_DMi.fr.md",
+    "AB-260904-V03_Wuling_Bingo.fr.md",
     "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
    ],
    "verdict": "PASS"
@@ -708,7 +708,7 @@
   },
   "es": {
    "n": 120,
-   "max": 0.2361,
+   "max": 0.2355,
    "pair": [
     "AB-260904-V02_BYD_QinL_DMi.es.md",
     "AB-260904-V06_GAC_Trumpchi_E8.es.md"
@@ -735,7 +735,7 @@
   },
   "ko": {
    "n": 120,
-   "max": 0.2353,
+   "max": 0.2354,
    "pair": [
     "AB-260904-V02_BYD_QinL_DMi.ko.md",
     "AB-260904-V06_GAC_Trumpchi_E8.ko.md"
@@ -753,7 +753,7 @@
   },
   "th": {
    "n": 120,
-   "max": 0.2452,
+   "max": 0.2453,
    "pair": [
     "AB-260904-V02_BYD_QinL_DMi.th.md",
     "AB-260904-V06_GAC_Trumpchi_E8.th.md"
@@ -762,7 +762,7 @@
   },
   "id": {
    "n": 120,
-   "max": 0.249,
+   "max": 0.2489,
    "pair": [
     "AB-260904-V03_Wuling_Bingo.id.md",
     "AB-260904-V06_GAC_Trumpchi_E8.id.md"

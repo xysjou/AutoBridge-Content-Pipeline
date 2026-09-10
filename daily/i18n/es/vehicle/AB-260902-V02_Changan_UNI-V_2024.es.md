@@ -26,7 +26,7 @@ A diferencia de un EV de un solo entrenamiento de potencia, la decisión de comp
 | 1.5T (Blue Whale NE) | Gasolina Turbo L4 | 138 kW (188 PS) 300 N·m | 7-speed de doble linterna mojada (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | Gasolina Turbo L4 | 171 kW (233 PS) 390 N·m | 8-speed torque-converter automatic (8AT) | 215 km/h | 6.9 L/100 km |
 
-El azul 1.5T Las cifras de las ballenas y los 7DCT son **VERIFIED** contra el sitio oficial de Changan y coinciden con las bases de datos del vehículo. La salida 2.0T, 8AT y su figura de combustible son CROSS_CHECKED en PCauto y Autohome. Observe la diferencia deliberada de la caja de cambios: el 1.5T utiliza un doble embrague húmedo mientras que el 2.0T utiliza un automático convencional 8-speed — una distinción significativa para los compradores de flota que prefieren la durabilidad del torque-converter, y algo para indicar explícitamente en el orden de compra en lugar de asumir "automática significa la misma caja de cambios".
+El azul 1.5T Las cifras de las ballenas y los 7DCT son **confirmado por una fuente primaria** contra el sitio oficial de Changan y coinciden con las bases de datos del vehículo. La salida 2.0T, 8AT y su figura de combustible son contrastado de forma independiente en PCauto y Autohome. Observe la diferencia deliberada de la caja de cambios: el 1.5T utiliza un doble embrague húmedo mientras que el 2.0T utiliza un automático convencional 8-speed — una distinción significativa para los compradores de flota que prefieren la durabilidad del torque-converter, y algo para indicar explícitamente en el orden de compra en lugar de asumir "automática significa la misma caja de cambios".
 
 Los valores de consumo de combustible de arriba utilizan el ciclo **WLTC** como se publica en tablas de configuración chinas; las cifras de prueba de destino y del mundo real difieren, por lo que utilizarlas para una comparación relativa entre los bordes, no como un número garantizado en el mercado.
 
@@ -75,7 +75,7 @@ No hay precio de exportación de AutoBridge estático. El RMB 108, 900–139, 90
 
 **¿Qué diferencia hay entre ellos?** En las mesas chinas WLTC,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; la base de ruedas 2750 mm es constante.
+**Por qué difiere la longitud entre las fuentes?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; la base de ruedas 2750 mm es constante.
 
 **¿Puedo asumir que el coche de China cumple con el estándar de emisión de mi país?** No: el cumplimiento de las emisiones, el grado de combustible y la garantía deben verificarse para el mercado de destino antes de ordenar.
 

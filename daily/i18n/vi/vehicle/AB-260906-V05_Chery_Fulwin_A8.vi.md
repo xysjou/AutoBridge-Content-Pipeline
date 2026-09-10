@@ -39,7 +39,7 @@ Chiếc Filwin A8 được bán trong hai đường pin/rng riêng biệt chia s
 - WLTC tổng hợp phạm vi 1310 km và nhiên liệu cạn kiệt sử dụng  thể chất  thể thao 4.55 L 100 km;
 - Những con số này hiện đang nằm trên một cơ sở dữ liệu và nên được kiểm tra trên tờ OEM trước khi được viết ra để bán.
 
-Hai đường thẳng là những chiếc xe khác nhau trong pin, động cơ và sản xuất hệ thống. Hợp đồng mua sắm phải đặt tên dòng (70 hoặc 145) và hệ thống SKU chính xác; mixing a 70-line battery with a 145-line system-output claim is a typical PHEV quotation error.
+Hai đường thẳng là những chiếc xe khác nhau trong pin, động cơ và sản xuất hệ thống. Hợp đồng mua sắm phải đặt tên dòng (70 hoặc 145) và hệ thống SKU chính xác; mixing a 70-line battery with a 145-công bố công suất hệ thống theo dòng là lỗi báo giá PHEV điển hình.
 
 ## Làm thế nào mà hệ thống C-DM định hình quyết định mua hàng
 

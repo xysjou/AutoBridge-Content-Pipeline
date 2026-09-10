@@ -50,7 +50,7 @@ Une fiche technique qui énumère " J7: 600 PS, 2300 N·m " en citant le Chine- 
 
 ## Contrôles acheteurs de camions lourds: moteur, boîte de vitesses, essieu, GCW, cabine, châssis
 
-Pour un tracteur, la décision de l'acheteur s'étend sur six dimensions, et chacune d'elles doit être fixée par écrit plutôt que supposée du nom du modèle: (1) **phase d'émission du moteur** et cote exacte; (2) **boîte à gaz** (manuelle ou automatisée) et nombre de vitesses; (3) **essieux moteurs** et rapport; (4) **poids brut combiné (GCW)** la configuration est approuvée pour tirer; (5) **cab** (spécifications de couchette à toit élevé)  and  (6) **chassis** options telles que suspension pneumatique  and  the hydraulic retarder referenced for selected China-6 builds. Obtenir les cotes GCW et la charge par essieu du certificat d'homologation; ils ne sont pas déduits de la puissance du moteur.
+Pour un tracteur, la décision de l'acheteur s'étend sur six dimensions, et chacune d'elles doit être fixée par écrit plutôt que supposée du nom du modèle: (1) **phase d'émission du moteur** et cote exacte; (2) **boîte à gaz** (manuelle ou automatisée) et nombre de vitesses; (3) **essieux moteurs** et rapport; (4) **poids brut combiné (GCW)** la configuration est approuvée pour tirer; (5) **cab** (spécifications de couchette à toit élevé)  and  (6) **chassis** options telles que la suspension pneumatique et le ralentisseur hydraulique mentionné pour certaines versions chinoises6 builds. Obtenir les cotes GCW et la charge par essieu du certificat d'homologation; ils ne sont pas déduits de la puissance du moteur.
 
 ## Limites de direction, de carburant et d'exportation
 

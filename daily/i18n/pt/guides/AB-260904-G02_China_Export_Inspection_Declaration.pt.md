@@ -20,7 +20,7 @@
 Nos termos da Lei de Inspecção de Mercadorias de Importação e Exportação* e dos seus regulamentos de execução, os produtos de exportação colocados no catálogo de inspecção legal ** devem ser apresentados para inspecção**, e as mercadorias não inspeccionadas — ou em caso de inspecção — ** não podem ser exportadas**. A inspecção das mercadorias de exportação é, em princípio, efectuada no ** local de produção**, excepto se as alfândegas designarem outro local. A inspecção legal abrange as mercadorias enumeradas no catálogo **e as mercadorias que outras leis/regulamentos exigem ser inspeccionadas. Os produtos não abrangidos pelo catálogo são abrangidos pela **inspecção aleatória (抽查检验)**; the 2024 GACC Notice No.163 sets the out-of-catalogue random-inspection scope, que para **exportações lista apenas brinquedos para crianças**.
 
 ## Método de decisão (HS-primeiro, depois catálogo)
-1. **Fix the exact ten-digit HS code** for the vehicle (87.01/87.02/87.03/87.04/87.05 as applicable — see the classification guide).
+1. **Fixe o código HS exato de dez dígitos** for the vehicle (87.01/87.02/87.03/87.04/87.05 as applicable — see the classification guide).
 2. Veja esse código no catálogo ** atual** de inspeção legal e leia sua condição ** de supervisão de exportação** (a inspeção legal de exportação corresponde à categoria de inspeção de exportação de mercadorias).
 3. Se listado/requerido → organizar inspeção no local de produção (ou local designado) **antes de** declaração.
 4. Se não estiver listado e não houver outra base jurídica → é tratado sob inspeção aleatória, não inspeção estatutária automática.

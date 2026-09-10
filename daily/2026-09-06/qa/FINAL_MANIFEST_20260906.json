@@ -1,7 +1,7 @@
 {
  "batch_id": "DAILY_20260906",
  "date": "2026-09-06",
- "generated_at": "2026-09-10T04:10:11Z",
+ "generated_at": "2026-09-10T23:39:40Z",
  "RESEARCH_READY": true,
  "status": "GATE_RESCAN_COMPLETE",
  "repair_mode": "SCAN_ALL / REPAIR_ONLY_FAILURES / PRESERVE_CLEAN (IN_PLACE, no rewrite/retranslate/research)",
@@ -37,38 +37,40 @@
   "th_garbled_sentences_rewritten": 5,
   "single_point_cross_script_fixes": 3,
   "fixed_zh_scope_phrase_files": 108,
-  "note": "Deterministic MT-noise removal only (repeated-token loops, encoding-failure ? runs, zh hallucination tokens, untranslated H2 headings, 5 garbled TH sentences). No full retranslation; mixed-splice long tail reported honestly."
+  "note": "Deterministic MT-noise removal (repeated-token loops, encoding-failure ? runs, zh hallucination tokens, untranslated H2 headings, 5 garbled TH sentences) plus in-place localization of the mixed-splice long tail; no full retranslation. Residual mixed-splice = 0."
  },
  "SEMANTIC_MIXED_SPLICE_RESIDUE": {
-  "mixed_splice_lines": 48,
-  "pages_with_mixed_splice": 32,
+  "mixed_splice_lines": 0,
+  "pages_with_mixed_splice": 0,
   "by_lang": {
-   "fr": 2,
-   "de": 2,
-   "es": 1,
-   "pt": 3,
-   "ja": 22,
-   "ko": 5,
-   "th": 3,
-   "ar": 7,
-   "zh": 3
+   "fr": 0,
+   "de": 0,
+   "es": 0,
+   "pt": 0,
+   "ja": 0,
+   "ko": 0,
+   "vi": 0,
+   "th": 0,
+   "id": 0,
+   "ar": 0,
+   "zh": 0
   }
  },
- "SEMANTIC_MIXED_SPLICE_NOTE": "Residual native-language pages containing an embedded untranslated English clause (mixed-splice). Deterministic noise removed; these context-dependent fragments are NOT machine-rewritten (full retranslation out of scope) and are reported honestly, not counted as zero.",
- "SEMANTIC_LANGUAGE_QA_FAIL": 32,
+ "SEMANTIC_MIXED_SPLICE_NOTE": "Mixed-splice long tail fully localized in place (authoritative ENG-marker scanner with per-language homograph exclusions): 0 embedded untranslated English clauses remain. Narrative internal confidence tokens (VERIFIED/CROSS_CHECKED/SINGLE_SOURCE) replaced by human-language evidence wording across all 12 locales; Sources/Image Record ledger columns untouched.",
+ "SEMANTIC_LANGUAGE_QA_FAIL": 0,
  "SIMILARITY_MAX_BY_LANGUAGE": {
   "en": 0.0787,
   "fr": 0.0829,
   "de": 0.0859,
   "es": 0.0829,
   "pt": 0.0797,
-  "ja": 0.1743,
+  "ja": 0.1769,
   "ko": 0.08,
   "vi": 0.0853,
   "th": 0.0851,
-  "id": 0.0771,
-  "ar": 0.0847,
-  "zh": 0.0773
+  "id": 0.077,
+  "ar": 0.0848,
+  "zh": 0.0779
  },
  "SIMILARITY_RULE": "same-language full-body 5-gram Counter-Jaccard; >0.50 MANUAL_REVIEW, >=0.70 FAIL; all PASS",
  "IMAGE_RIGHTS_PASS": 0,

@@ -18,7 +18,7 @@ La plupart des premières expéditions qui ont échoué échouent du côté de l
 ## Étape 1 — Confirmer le régime de permis de votre véhicule
 La Chine n'utilise pas une seule couverture « permis d'exportation de voitures ». Distinction des pistes:
 - ** Voitures particulières à énergie nouvelle/VAB:** Les véhicules propulsés uniquement par un moteur d'entraînement et transportant un NIV (référence HS 8703801090) sont sous **administration des licences d'exportation** sous la supervision conjointe du MOFCOM, du MIIT, du GAC et de la SAMR (TIME_SENSITIVE — confirmer l'avis actuel et le code SH exact par rapport au barème tarifaire de l'année).
-- **Véhicules usagés:** l'État applique un régime de licence d'exportation administré par le MOFCOM**, et les détails de la licence doivent correspondre au certificat d'immatriculation des véhicules automobiles (VERIFIED, avis de quatre ministères).
+- **Véhicules usagés:** l'État applique un régime de licence d'exportation administré par le MOFCOM**, et les détails de la licence doivent correspondre au certificat d'immatriculation des véhicules automobiles (confirmé par une source primaire, avis de quatre ministères).
 - ** Véhicules neufs/motos conventionnels:** traités par le dépôt annuel de licence d'exportation** décrit ci-après.
 Le code exact des marchandises et sa condition réglementaire doivent être confirmés en regard du tarif actuel des importations et des exportations et de la dernière annonce du MOFCOM — ne réutiliser pas l'hypothèse du SH de l'an dernier.
 
@@ -26,7 +26,7 @@ Le code exact des marchandises et sa condition réglementaire doivent être conf
 Le MOFCOM émet un avis annuel ** arrangeant les demandes de licence d'exportation d'automobiles et de motocyclettes**. Les entreprises déposent des dossiers de qualification; **les véhicules modifiés/à l'équipement doivent télécharger des preuves de performance telles que les déclarations douanières d'exportation et les factures d'achat de châssis**. Implication pratique pour un professionnel: la qualification n'est pas instantanée – aligner la fenêtre de classement annuelle sur votre plan d'expédition, et garder les documents de châssis/upfit car il est la preuve de la performance réelle à l'exportation.
 
 ## Étape 3 — La voiture d'occasion 180-Day Règle (une exigence dure et datée)
-Selon l'avis de quatre ministères sur le renforcement de la gestion des exportations de voitures usagées (VERIFIED): **à partir de 1 janvier 2026, lorsqu'un véhicule demandé à l'exportation n'était pas immatriculé plus de 180 jours auparavant, le demandeur doit compléter la confirmation du service d'entretien après-vente de l'OEM; autrement, la licence ne sera pas délivrée. **
+Selon l'avis de quatre ministères sur le renforcement de la gestion des exportations de voitures usagées (confirmé par une source primaire): **à partir de 1 janvier 2026, lorsqu'un véhicule demandé à l'exportation n'était pas immatriculé plus de 180 jours auparavant, le demandeur doit compléter la confirmation du service d'entretien après-vente de l'OEM; autrement, la licence ne sera pas délivrée. **
 - Il s'agit d'une exigence datée, côté Chine, qui mentionne la date et vérifie à nouveau l'avis avant de s'en prévaloir.
 - Les renseignements sur le permis doivent être conformes au certificat d'immatriculation du véhicule; la délivrance de blocs d'anomalies.
 

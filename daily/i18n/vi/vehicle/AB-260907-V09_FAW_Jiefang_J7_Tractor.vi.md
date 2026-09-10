@@ -38,7 +38,7 @@ Gia đình Trung Quốc- 6 là dòng hiện tại, nhưng các bước đi chín
 
 ## Tại sao "lấy tối đa của cả hai" là sai
 
-Một tấm vải bóng loáng liệt kê J7: 600 PS, 2300 N·m "bằng cách chọn mã lực Trung Quốc 6  and  the China-5 torque — or that pairs the 2018 homologation number with the newest engine — describes a truck that does not exist. Phương pháp đúng là giữ hai cột riêng biệt và buộc mọi con số vào giai đoạn xả ra và SKU:
+Một tấm vải bóng loáng liệt kê J7: 600 PS, 2300 N·m "bằng cách chọn mã lực Trung Quốc 6  and  the China-5 torque — or that pairs the 2018 số chứng nhận với động cơ mới nhất — thì đang mô tả một chiếc xe tải không tồn tại. Phương pháp đúng là giữ hai cột riêng biệt và buộc mọi con số vào giai đoạn xả ra và SKU:
 
 | Kích thước | Trung Quốc- 5 (cơ quan) | Trung Quốc- 6 (hiện thời) |
 |---|---|---|
@@ -50,7 +50,7 @@ Một tấm vải bóng loáng liệt kê J7: 600 PS, 2300 N·m "bằng cách ch
 
 ## Kiểm tra xe tải nặng: động cơ, hộp số, trục, GCW, taxi, khung gầm
 
-Đối với một máy kéo quyết định của người mua chạy trên sáu chiều, và mỗi chiếc nên được sửa bằng văn bản thay vì giả định từ tên mô hình: (1) **cơ khí** giai đoạn phát ra và đánh giá chính xác; (2) **gearbox** (manual vs automated)  and  số tốc độ; (3) ** lái trục và tỷ lệ; (4) Tập đoàn kết hợp trọng lượng (GCW)** cấu hình được chấp thuận để kéo; (5) **cab** (rất nhiều thông tin về ngủ)  and  (6) **chasis** tùy chọn như là đình chỉ không khí  and  the hydraulic retarder referenced for selected China-6 builds. Lấy các loại thẻ GCW và đánh giá hàng loạt trục từ chứng nhận đồng tính; Chúng không bị vô hiệu hóa từ năng lượng động cơ.
+Đối với một máy kéo quyết định của người mua chạy trên sáu chiều, và mỗi chiếc nên được sửa bằng văn bản thay vì giả định từ tên mô hình: (1) **cơ khí** giai đoạn phát ra và đánh giá chính xác; (2) **gearbox** (manual vs automated)  and  số tốc độ; (3) ** lái trục và tỷ lệ; (4) Tập đoàn kết hợp trọng lượng (GCW)** cấu hình được chấp thuận để kéo; (5) **cab** (rất nhiều thông tin về ngủ)  and  (6) **chasis** tùy chọn như là đình chỉ không khí  và bộ thủy lực hãm chậm được tham chiếu cho một số phiên bản Trung Quốc6 builds. Lấy các loại thẻ GCW và đánh giá hàng loạt trục từ chứng nhận đồng tính; Chúng không bị vô hiệu hóa từ năng lượng động cơ.
 
 ## Đường dây lái, nhiên liệu và đường biên xuất khẩu
 

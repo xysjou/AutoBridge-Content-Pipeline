@@ -52,9 +52,9 @@
 لا سعر تصدير ثابت. سعر الدليل الصيني البالغ 2024 (حوالي 56، 800) مرجع غير محسوس، لا FOB/CIF**.: إجراء تحقيقات مع البلدان التي تستضيفها**؛ الكمية؛ خط مرفأ قطري الإنساني؛ ميناء الوجهة**.
 
 ## الأسئلة المتكررة
-**How many range versions are there?** Three documented CLTC steps — 203, 333  and  410 km — with different motor  and  مواصفات البطارية
+**كم عدد إصدارات المدى?** Three documented CLTC steps — 203, 333  and  410 km — with different motor  and  مواصفات البطارية
 هل كل بنغو 50 kW؟ رقم 203 km سيارة دخول تستخدم 30 kW محرك، في حين أن 333/410 نسخة تستخدم 50 kW.
-**How many seats?** The documented entry layout is four seats (2+2); تأكدي من أن النسخة المختاره ستقع في خمسة مقاعد
+**How many seats?** تخطيط المقاعد الموثّق لطراز الدخول هو أربعة مقاعد (2+2); تأكدي من أن النسخة المختاره ستقع في خمسة مقاعد
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, (أ) التغطية الصينية؛ يجب فحص نوع الموصل في الخارج
 
 ## سجل الصور

@@ -39,7 +39,7 @@ The HOWO T7H is one of Sinotruk's (CNHTC) flagship **heavy tractor heads (牵引
 - **Weichai-powered China builds** (例、WP10.5H 460 上記)は、国内線で共通しています。 部品とサービスは、Weichaiエコシステムに従います。
 - **Sinotruk MCシリーズ(MANテクノロジー)**は、公式のエクスポートチャネルに焦点を当てたエンジンです。 ** MC11 ** は 10.518 L インラインです- 6 ターボチャージ式インタークーラーユニット ** 440 HP **, ** MC13.54-50 ** に達すると ** 540 HP (397 kW) ユーロ V** で 2500 N·m. MCエンジンはMAN技術を使用し、多くの場合、長距離輸出用車両に好まれています。
 
-Do not mix the two families on a spec sheet: '460 T7H" (Weichai) の  and  '540 T7H" (MC13) はエンジンのアーキテクチャと異なり、 トルク バンド, 部品チェーン  and  排出の口径測定。
+仕様書で二つの系統を混ぜてはならない: '460 T7H" (Weichai) の  and  '540 T7H" (MC13) はエンジンのアーキテクチャと異なり、 トルク バンド, 部品チェーン  and  排出の口径測定。
 
 ## 輸出のための排出および燃料の選択
 
@@ -50,7 +50,7 @@ Sinotrukは、**Euro VとEuro VI**レベルでの輸出T7Hビルド(およびデ
 ## 支払い前の重トラクター検証
 
 - **エンジンファミリー(Weichai vs MC11/MC13)、馬力、トルクおよび排出ステージ**をプロフォーマにロックする。工場の電力カーブ/排出証明書を要求する。
-- Confirm **GCW (here 40 t for the reference build)** against the destination's road-train weight rules and fifth-wheel load; タンデムのボギーのための車軸負荷の承諾を確かめて下さい。
+- Confirm **GCW (here 40 t for the reference build)** 仕向地の連結車両重量ルールと第五輪荷重に照らして; タンデムのボギーのための車軸負荷の承諾を確かめて下さい。
 - ** gearbox type** (参照は12-speed AMT、マニュアル、16-speed単位が存在する)
 - タイヤのサイズ(315/80R22.5)の空室状況とホイール/リムの基準を目的地で確認します。
 - キャベツの仕様(半眠機対高倍率)を確認します。  tank capacity (750 L reference; デュアルタンクオプション)とユニットがLHDまたは工場RHDであるかどうか。

@@ -21,7 +21,7 @@ Qin Plus DM-i adalah sebuah ** dalam hibrida (PHIV) compact sedan **, tidak EV m
 | LFP Baterai Blade | 8.32 kWh | 18.32 kWh |
 | Jarak hanya listrik | 55 km NEDC 46 km WLTC | 120 km NEDC 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-Hasil keluaran 145 kW 197 PS dari mobil baterai besar dan isinya ~ 18.3 kWh telah dikonfirmasikan pada ** BYD sendiri Qin Plus DM-i halaman untuk Bahrain (en-bh, VERIFIED, lingkup terbatas pada model bernama) **; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC WLTC) adalah cross-check di database Cina (CROSS _ CHECWD). 120 adalah baik lebih cepat dan lebih berat (trotoar ~ 1620 kg untuk 120KM 领先型).
+Hasil keluaran 145 kW 197 PS dari mobil baterai besar dan isinya ~ 18.3 kWh telah dikonfirmasikan pada ** BYD sendiri Qin Plus DM-i halaman untuk Bahrain (en-bh, dikonfirmasi sumber primer, lingkup terbatas pada model bernama) **; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC WLTC) adalah cross-check di database Cina (CROSS _ CHECWD). 120 adalah baik lebih cepat dan lebih berat (trotoar ~ 1620 kg untuk 120KM 领先型).
 ## Mode Mesin dan Operatif (pertanyaan PHIEV-spesifik)
 - Mesin: 1.5L alami diaspirasi L4, 81 kW (110 PS) 135 N·m; itu terutama unit generator bantuan daripada motor drive utama.
 - ** Transmission **: E-CVT single-speed electricity continually variable drive - tidak ada gearbox multi- step ke spec.

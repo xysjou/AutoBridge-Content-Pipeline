@@ -22,7 +22,7 @@ El CCPIT, actuando a través de la Cámara de Comercio Internacional de China, e
 
 El instrumento es una prueba de hechos objetivos y relacionados con el comercio**. Puede evidenciar, con material de apoyo, que un evento definido ocurrió en un lugar y período definidos, por ejemplo una medida de control gubernamental, una desprestación, una suspensión de ciertas operaciones o una perturbación del transporte, y hechos sobre su impacto comercial que los documentos presentados establecen. Está deliberadamente enmarcado como certificación fáctica.
 
-It does **not** decide the legal question of whether those facts amount to force majeure that excuses non-performance under the particular contract. Esa conclusión depende de:
+It does **not** resuelve la cuestión jurídica de si esos hechos constituyen fuerza mayor que exima del incumplimiento en el contrato concreto. Esa conclusión depende de:
 
 - * La cláusula de fuerza mayor** en el contrato de ventas (cómo define los acontecimientos desencadenantes, la notificación y la mitigación);
 - * Ley aplicable* (las normas del Código Civil chino sobre fuerza mayor difieren en términos de: la ley inglesa "fuerza mayor" o los conceptos de dificultad de la CCI); y

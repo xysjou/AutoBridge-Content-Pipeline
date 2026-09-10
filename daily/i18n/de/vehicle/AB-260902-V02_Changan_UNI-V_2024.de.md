@@ -26,7 +26,7 @@ Im Gegensatz zu einem Einzelantriebs-EV beginnt die UNI-V-Kaufentscheidung mit d
 | 1.5T (Blauer Wal NE) | Turbo L4 Benzin | 138 kW (188 PS) 300 N·m | 7-speed nasser Doppelkupplungsstutzen (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | Turbo L4 Benzin | 171 kW (233 PS) 390 N·m | 8-speed Drehmomentwandlerautomatik (8AT) | 215 km/h | 6.9 L/100 km |
 
-Der 1.5T Blue Walfiguren und der 7DCT sind **VERIFIZIERT** gegen Changans offizielle Website und werden von den Fahrzeugdatenbanken abgeglichen. The 2.0T output, 8AT  and  seine Kraftstoffzahl ist CROSS_CHECKED über PCauto  and  Autohome. Beachten Sie den bewussten Getriebeunterschied: Der 1.5T verwendet eine nassen Doppelkupplung, während der 2.0T eine herkömmliche 8-speed Automatik verwendet - eine sinnvolle Unterscheidung für Flottenkäufer, die die Haltbarkeit des Drehmomentwandlers bevorzugen, und etwas, das explizit auf der Bestellung angegeben wird, anstatt anzunehmen, dass "Automatik dasselbe Getriebe bedeutet".
+Der 1.5T Blue Walfiguren und der 7DCT sind **VERIFIZIERT** gegen Changans offizielle Website und werden von den Fahrzeugdatenbanken abgeglichen. The 2.0T output, 8AT  and  seine Kraftstoffzahl ist unabhängig gegengeprüft über PCauto  and  Autohome. Beachten Sie den bewussten Getriebeunterschied: Der 1.5T verwendet eine nassen Doppelkupplung, während der 2.0T eine herkömmliche 8-speed Automatik verwendet - eine sinnvolle Unterscheidung für Flottenkäufer, die die Haltbarkeit des Drehmomentwandlers bevorzugen, und etwas, das explizit auf der Bestellung angegeben wird, anstatt anzunehmen, dass "Automatik dasselbe Getriebe bedeutet".
 
 Die oben genannten Kraftstoffverbrauchswerte verwenden den **WLTC**-Zyklus, wie in chinesischen Konfigurationstabellen veröffentlicht; die Zahlen für die Real- und Zielprüfung unterscheiden sich, verwenden Sie sie also für den relativen Vergleich zwischen den Verkleidungen und nicht als garantierte Marktnummer.
 
@@ -75,7 +75,7 @@ Es gibt keinen statischen AutoBridge-Exportpreis. Die RMB 108, 900–139, 900 Ch
 
 **Wie unterschiedlich ist der Kraftstoffverbrauch zwischen ihnen?** Auf den chinesischen WLTC-Tabellen,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; Der Radstand 2750 mm ist konstant.
+**Warum weichen die Längen zwischen den Quellen ab?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; Der Radstand 2750 mm ist konstant.
 
 **Kann ich davon ausgehen, dass das chinesische Auto die Emissionsnorm meines Landes erfüllt? ** Nein — die Einhaltung der Emissionsgrenzwerte, die Kraftstoffqualität und die Garantie müssen vor der Bestellung für den Bestimmungsmarkt überprüft werden.
 

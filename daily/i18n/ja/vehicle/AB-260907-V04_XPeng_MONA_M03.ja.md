@@ -29,11 +29,11 @@ The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launch
 | モーター(フロントPMSM) | 140 kW (190 PS) / 225 N·m ** と** 160 kW (218 PS) / 250 N·m ** | single source |
 | Claimed 0–100 km/h | ** 7.8 s/7.4 s** 各モーター レベルのため | single source|
 
-The four range numbers are not interchangeable trims: それぞれが特定の電池およびモーター ペアリングに属します。 M03、620 km という引用語句は、62.2 kWh パックを命名することなく、マッチングモーターが不完全で、620 km のモーターと 140 kW のモータと組み合わせることは、行列のエラーになります。 Build a three-column line — battery → CLTC range → motor — for the exact SKU  and  XPeng公式設定シートに閉じます。 急速充電ピーク電力と充電時間は、正式な正式な数値がキャプチャされていないため、ここに記載されていない**です。 特定のバージョンのOEMからレビューをコピーするのではなく、それらをOEMから入手してください。
+四つの航続数値は互換のトリムではない: それぞれが特定の電池およびモーター ペアリングに属します。 M03、620 km という引用語句は、62.2 kWh パックを命名することなく、マッチングモーターが不完全で、620 km のモーターと 140 kW のモータと組み合わせることは、行列のエラーになります。 Build a three-column line — battery → CLTC range → motor — 正確なSKUとXPengについて公式設定シートに閉じます。 急速充電ピーク電力と充電時間は、正式な正式な数値がキャプチャされていないため、ここに記載されていない**です。 特定のバージョンのOEMからレビューをコピーするのではなく、それらをOEMから入手してください。
 
 ## 輸出バイヤーの「CLTC」がなぜ重要か
 
-中国語の範囲図は、WLTPよりも寛大で、EPAよりもはるかに寛大である**CLTC**サイクルを使用します。 An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  宛先サイクルや現実世界のデータを別々にリクエストします。 等しく、中国spec M03 は中国の充満標準/コネクターを使用します; 目的地の公共ネットワークと輸出市場コネクターとの互換性は別に検証されなければならないし、中国仕様から想定されていない。
+中国語の範囲図は、WLTPよりも寛大で、EPAよりもはるかに寛大である**CLTC**サイクルを使用します。 期待値を換算する海外買い手は以下として扱うべき 515–620 km CLTC値を中国サイクル参考値として扱い、  宛先サイクルや現実世界のデータを別々にリクエストします。 等しく、中国spec M03 は中国の充満標準/コネクターを使用します; 目的地の公共ネットワークと輸出市場コネクターとの互換性は別に検証されなければならないし、中国仕様から想定されていない。
 
 ## ソフトウェア、機器、およびトリムの規準
 

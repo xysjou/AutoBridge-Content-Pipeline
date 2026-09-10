@@ -39,7 +39,7 @@ Estos artículos de alimentación del mercado chino se encuentran actualmente en
 ## Entrenamiento, remolque y carga de pago — Labeldes de mercado
 - **Accionamiento parcial de cuatro ruedas (BorgWarner)** con ** 2H 4H 4L ** y una cerradura diferencial ** rear** en el documento 4x4 (fuente único del mercado chino; finalizar contra la hoja de construcción).
 - **La capacidad de remolque 3500 kg es una figura de fábrica JAC de mercado EXPORT (mercado EXPORT)** del sitio OEM de exportación. Debe **no** ser escrito como un valor de homologación/anuncio chino o como un número de todo el sistema; calificación de remolque de freno en el documento de homologación de destino es lo que rige el uso en el extranjero.
-- **Payload 1000 kg es una figura de mercado de CHINA, VERIFIED** a través del sitio oficial de recogida de JAC chino (con soporte de exportación-OEM).
+- **Payload 1000 kg es una figura de mercado de CHINA, confirmado por una fuente primaria** a través del sitio oficial de recogida de JAC chino (con soporte de exportación-OEM).
 - La disponibilidad de RHD aparece en las listas de exportación, pero la matriz de suministro exacta de RHD debe confirmarse mediante un canal oficial de JAC, no asumido.
 
 ## Puntos de Versión y Orden-Configuración

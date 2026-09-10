@@ -14,7 +14,7 @@
 - **Phạm vi schema**: Điều thêm xe cộ (không có sản phẩm/ xuất/ xuất/Price/Review/Rating)
 
 ## Văn cảnh người mua: Đọc Nó như là một chiếc PHV, không phải một chiếc EV và không phải một chiếc xe lai của hội nghị
-The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-generation DM** architecture. Người xuất khẩu thường sử dụng sai phương pháp này theo một cách: Hai phiên bản pin này có thể thay đổi. Chúng không phải là - 80 km và 120 km xe có tầm điện mang theo những năng lượng khác nhau và những trường hợp sử dụng khác nhau. Trang này tài liệu của dòng thị trường Trung Hoa ** (REFERCE MORET: Chloe; không có trang đặc trưng nào của AD nước ngoài bị ghi lại, nên không có gì ở đây nên được trình bày như là một thông số toàn cầu hay đích đến.
+Qin L DM-i là mẫu sedan plug-in hybrid hạng trung được xây trên nền tảng DM thế hệ thứ năm của BYD **fifth-generation DM** architecture. Người xuất khẩu thường sử dụng sai phương pháp này theo một cách: Hai phiên bản pin này có thể thay đổi. Chúng không phải là - 80 km và 120 km xe có tầm điện mang theo những năng lượng khác nhau và những trường hợp sử dụng khác nhau. Trang này tài liệu của dòng thị trường Trung Hoa ** (REFERCE MORET: Chloe; không có trang đặc trưng nào của AD nước ngoài bị ghi lại, nên không có gì ở đây nên được trình bày như là một thông số toàn cầu hay đích đến.
 
 ## PHEV Công ty điện năng: Động cơ + Động cơ + Chế độ điều khiển
 | Mục | Tần LM-i (tham chiếu Hoa Kỳ) |
@@ -51,7 +51,7 @@ A PHEV buyer needs four answers in order: **cơ chế, động cơ, pin, chế �
 1. **Batter phiên bản và khả năng** viết chống lại VIN (10.08 so với 15.87 kWh); không chỉ chấp nhận một số dãy số.
 2. **Test chu kỳ** — giữ CLTC được dán nhãn; yêu cầu con số điểm đến riêng nếu thị trường xuất bản một.
 3. **Charing kết nối và phần cứng AC/DC** — sạc GB/T của Trung Quốc không tự động khớp với kết nối đích; xác nhận trước khi hứa hẹn tính tương thích với máy tính nạp điện tại nhà.
-4. **PHV vận chuyển bằng giấy tờ vận chuyển pin** — UN38.3 bản tóm tắt  and  any dangerous-goods documents per the IMDG 42-24 battery-shipping guide.
+4. **PHV vận chuyển bằng giấy tờ vận chuyển pin** — UN38.3 bản tóm tắvà mọi chứng từ hàng nguy hiểm theo IMDG 42-24 battery-shipping guide.
 5. **Ect/fuel type** và port irise class; xác nhận gói tài liệu từ danh sách kiểm tra xuất khẩu.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời

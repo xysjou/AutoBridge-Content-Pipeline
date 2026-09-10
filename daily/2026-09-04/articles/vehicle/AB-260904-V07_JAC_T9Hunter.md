@@ -39,7 +39,7 @@ These Chinese-market powertrain items currently rest on a **single Chinese media
 ## Drivetrain, Towing and Payload — Market Labels Matter
 - **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L** and a **rear differential lock** on the documented 4x4 (Chinese-market single-source; finalise against the build sheet).
 - **Towing capacity 3500 kg is an EXPORT-market JAC factory figure (market = EXPORT)** from the export OEM site. It must **not** be written as a Chinese homologation/announcement value or as a system-wide number; braked-towing rating on the destination homologation document is what governs use abroad.
-- **Payload 1000 kg is a CHINA-market figure, VERIFIED** through the Chinese JAC pickup official site (with export-OEM support).
+- **Payload 1000 kg is a CHINA-market figure, confirmed by primary sources** through the Chinese JAC pickup official site (with export-OEM support).
 - RHD availability appears on export lists, but the exact RHD supply matrix must be confirmed through an official JAC channel, not assumed.
 
 ## Version and Order-Configuration Points

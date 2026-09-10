@@ -38,8 +38,8 @@ Für ein PHEV fixiert der Exporteur **Motor, Motor, Batterie und Ladung ** zusam
 
 ## Standard T9 vs. Stretched T9L — Nicht zusammenführen
 - **Diese Seite: Standard T9 **, 4795 mm 2770 mm Radstand.
-- **Ausgenommen: T9L **, etwa 4870 mm mit einem 2920 mm Radstand. Es ist ein längeres Radstandfahrzeug; mixing its dimensions or seating claims into a standard-T9 order is a configuration error.
-- Range-Stufen und Sitz-Layouts variieren je nach Trimm; the 120–220 km spread is not a single number for one car.
+- **Ausgenommen: T9L **, etwa 4870 mm mit einem 2920 mm Radstand. Es ist ein längeres Radstandfahrzeug; seine Abmessungen oder Sitzangaben mit einem Standard-T zu vermischen9 order is a configuration error.
+- Range-Stufen und Sitz-Layouts variieren je nach Trimm; the 120–220 die km-Spanne ist keine einzelne Zahl für ein Fahrzeug.
 
 ## Übersee-Käufer-Überprüfung vor Zahlung
 1. ** Körperversion** - Standard T9, nie stillschweigend durch T9L. ersetzt
@@ -52,7 +52,7 @@ Für ein PHEV fixiert der Exporteur **Motor, Motor, Batterie und Ladung ** zusam
 Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly RMB 129,900–169; 900 ist ein **Haus, zeitempfindliche Referenz, nicht FOB/CIF**. Erkundigen Sie sich bei **Zielland · Menge · Batterie Sitz Trim · LHD RHD · Zielhafen · Incoterm **.
 
 ## Häufig gestellte Fragen
-**Ist der Fulwin T9 der gleiche wie der T9L? ** Nr.; der T9L ist ein Fahrzeug mit längerem Radstand (ca. 4870 mm 2920 mm)  and  is excluded from this standard-T9 sheet.
+**Ist der Fulwin T9 der gleiche wie der T9L? ** Nr.; der T9L ist ein Fahrzeug mit längerem Radstand (ca. 4870 mm 2920 mm)  und ist von diesem Standard-T ausgeschlossen9 sheet.
 **Welche Batterie verwendet der Long-Range T9?** Ein 32.66 kWh-Pack für die dokumentierten Langstreckenversionen,  with 120–220 km CLTC electric range depending on trim.
 **Ist die 1400 km-Reichweite gemessen?** Es ist eine vom Hersteller beanspruchte WLTC-Kombinationsfigur; präsentieren Sie es als Fabrikanspruch, nicht als Testergebnis.
 ** Fünf oder sieben Sitze?** Beide werden angeboten; geben Sie die Bestellung an und stimmen Sie mit der VIN überein.

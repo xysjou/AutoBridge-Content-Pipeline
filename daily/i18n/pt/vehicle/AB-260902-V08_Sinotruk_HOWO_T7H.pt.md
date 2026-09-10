@@ -36,7 +36,7 @@ O HOWO T7H é um dos principais motores de Sinotruk (CNHTC) **pesos cabeças de 
 
 Esta é a decisão de especificação única mais importante sobre um T7H:
 
-- **Weichai-powered China constrói** (por exemplo,  WP10.5H 460 above) are common in the domestic line; partes e serviços seguem o ecossistema Weichai.
+- **Weichai-powered China constrói** (por exemplo,  WP10.5H 460 above) são comuns na linha doméstica; partes e serviços seguem o ecossistema Weichai.
 - **Sinotruk MC Series (Tecnologia MAN)** são os motores enfatizados em canais oficiais de exportação: the **MC11** is a 10.518 L inline-6 turbo-charged intercooled unit at **440 HP**, enquanto o ** MC13.54-50 ** atinge ** 540 HP (397 kW) 2500 N·m em Euro V** (oficial/exportação confirmada). Motores MC usam tecnologia MAN e são frequentemente preferidos para frotas de exportação de longo curso.
 
 Não misturar as duas famílias numa folha de especificações: a " 460 T7H" (Weichai) e a " 540 T7H" (MC13) diferem na arquitetura do motor, faixa de torque, cadeia de peças e calibração de emissões.

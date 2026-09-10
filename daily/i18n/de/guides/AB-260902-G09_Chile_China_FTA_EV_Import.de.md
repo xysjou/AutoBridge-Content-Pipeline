@@ -51,10 +51,10 @@ Generische Leitfäden mischen Kurier de-minimis Regeln, Vorschläge und erlassen
 - Änderung des Vorschlags/Status zum Versanddatum erneut überprüft.
 ## Häufig gestellte Fragen
 **Ist die Pflicht 0% für ein chinesisches Auto in Chile wirklich?** Für *Ursprungswaren unter dem China-Chile FTA, mit einem gültigen Ursprungszeugnis, ist der Wertzoll 0%; 19% IVA gilt weiterhin.
-**Was ist die Nicht-FTA-Zoll und IVA? ** Der chilenische Zoll legt einen allgemeinen Wertzoll von 6% auf CIF und einen allgemeinen Wertzoll von 19% IVA auf Zollwert plus Zoll fest.
+**Was sind Nicht-FTA-Zoll und IVA? ** Der chilenische Zoll legt einen allgemeinen Wertzoll von 6% auf CIF und einen allgemeinen Wertzoll von 19% IVA auf Zollwert plus Zoll fest.
 **Welches Dokument schaltet die Präferenz frei?** Eine gültige FTA-Ursprungsbescheinigung, die mit der Rechnung und der VIN übereinstimmt; ohne sie gilt die allgemeine Zollpflicht von 6%.
 **Was ist 3CV und was kostet es?** Chiles Fahrzeughomologationsprozess; es ist die Registrierung und seine Gebühr Zeitleiste muss vom Zertifizierer angegeben werden - dieser Artikel gibt keine feste Nummer an.
-**Is the ANAC EV-duty cut in force?** No — it is a 2026 association proposal, nicht erlassenes Recht; erneute Kontrolle bei der Verbringung.
+**Ist die ANAC-Zollsenkung für Elektrofahrzeuge in Kraft?** No — it is a 2026 association proposal, nicht erlassenes Recht; erneute Kontrolle bei der Verbringung.
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: none secured in repository
 - ORIGINAL_IMAGE_URL: not captured

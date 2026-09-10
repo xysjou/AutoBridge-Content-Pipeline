@@ -34,7 +34,7 @@ Como a mesma placa de identificação abrange os autocarros de passageiros curto
 
 > Carga útil nominal, massa do banco e peso bruto do veículo não são afirmados aqui - eles exigem o anúncio MIIT certificado de conformidade para o chassis exato e corpo. Para uma carrinha de carga, estes números são a totalidade da caixa de compra, então obtê-los antes de depósito em vez de estimar a partir do tamanho do corpo.
 
-## How commercial buyers should evaluate the V80
+## Como os compradores comerciais devem avaliar o V80
 
 1. Defina a missão (transporte de passageiros, entrega da cidade, conversão ambulância/camp) e escolher o comprimento do corpo, telhado e assentos em conformidade.
 2. Obter a GVW exata, carga útil e massa de kerb do registro de homologação/CoC para que SKU.

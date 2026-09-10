@@ -16,7 +16,7 @@ The Dongfeng Aeolus Yixuan (风神奕炫) is the compact three-box/fastback seda
 
 ## 몸 정체성 및 치수
 
-- 몸: four-door,  five-seat compact three-box/fastback sedan on the CMP platform, 프론트엔진/프론트휠 드라이브(크로스 체크).
+- 몸: four-door,  five-seat compact three-box/CMP 플랫폼 기반 패스트백 세단, 프론트엔진/프론트휠 드라이브(크로스 체크).
 - 참고 차원: 4670 × 1812 × 1490 mm, 휠베이스 2680 mm... 원래 2019 발사 차가 4660 mm 길이를 나열했습니다. 작은 년 이상의 차이는 혼합보다 정확한 모델 년 인증서와 일치해야합니다.
 
 CMP 기초는 볼륨 컴팩트 한 세단 세그먼트를 목표로하는 염력 빔 / 트랜버스 프론트 드라이브 레이아웃을 신호합니다. 주어진 SKU에 대한 정확한 서스펜션 및 장비 세부 사항은 SKU의 구성 시트에서 여전히 읽을 수 있어야 합니다.

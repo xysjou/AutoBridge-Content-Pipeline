@@ -40,7 +40,7 @@ Zollliche Anleitung unterscheidet elektrische Dreiräder durch Verwendung und Id
 4. **Drill zur aktuellen zehnstelligen nationalen Unterposition** im ** 2026 Tarif** für das Jahr der Anmeldung.
 5. **Erst dann** besprechen Sie Herkunftsbescheinigung, Inspektion und Bestimmungstarif; führen Sie niemals ein "LKW-Verfahren" über 87.01/87.04/87.05/8716. durch
 
-## Was diese Seite absichtlich nicht sagt
+## Was diese Seite bewusst nicht behauptet
 - **Einfuhrzollsätze für das Bestimmungsland**: Diese erfordern den Zollsatz des Einfuhrlandes für die genaue Unterposition und sind für eine exportseitige Klassifikationsseite nicht in den Anwendungsbereich.
 - **Der genaue zehnstellige nationale Untertitel und der vorläufige Satz**: Sie ändern sich mit dem jährlichen Tarif — zitieren Sie die Ausgabe ** 2026 und die Nummer der Durchführung der GACC-Ankündigung** auf jeder Erklärung, anstatt sich auf ältere 2018/2020 Referenztabellen zu verlassen.
 

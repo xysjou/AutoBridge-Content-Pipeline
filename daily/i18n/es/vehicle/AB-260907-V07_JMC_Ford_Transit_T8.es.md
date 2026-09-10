@@ -23,7 +23,7 @@ La línea se construye en tres base de ruedas — ** 3000, 3300 y 3750 mm ** —
 | Tejado medio-pesca, techo medio (ejemplo) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
 | Carga de alta altura, carga de alta velocidad | 5998 × 2164 × 2775 mm; interior de carga ♥ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Largo | single source |
 
-La longitud 5998 mm es significativa: en muchos mercados se encuentra en el límite de la licencia de conducir-licencia ligera-comercial, por lo que un comprador debe confirmar la categoría de licencia de destino y la masa bruta del vehículo antes de ordenar la versión más larga. Cargo interior dimensiones  and  the ≈13 m³ volume are single-source  and  debe confirmarse contra los datos oficiales de JMC-builder/configuration antes de que una conversión se diseñe alrededor de ellos.
+La longitud 5998 mm es significativa: en muchos mercados se encuentra en el límite de la licencia de conducir-licencia ligera-comercial, por lo que un comprador debe confirmar la categoría de licencia de destino y la masa bruta del vehículo antes de ordenar la versión más larga. Cargo interior dimensiones  and  the ≈13 m³ volumen proceden de una sola fuente y deben confirmarse con los datos oficiales del fabricante JMC/configuration antes de que una conversión se diseñe alrededor de ellos.
 
 ## Dos líneas diésel - no se fusionan
 

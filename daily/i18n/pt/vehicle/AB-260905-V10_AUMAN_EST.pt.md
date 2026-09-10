@@ -43,7 +43,7 @@ Sempre indicar se a unidade é China-V (histórica) ou atual China-VI; não apre
 5. Solicitar uma cotação de exportação atual; nenhuma é publicada.
 
 ## Perguntas Frequentes
-**Is EST510 a current model?** It is the China-V line — label it historical where China-VI is current.
+**Is EST510 a current model?** It is the China-V line — assinale como histórico onde China-VI é o atual.
 ** O que é a GCW exata?** Sobre a classe 40 t para 6x4; confirmar por homologação.
 ** Existe um EST elétrico?** Existe um ficheiro BEV 2026 separado — não o misture com especificações a diesel.
 ** Que caixa de velocidades?** ZF 12TX AMT ou Fast 16-speed, por construção.

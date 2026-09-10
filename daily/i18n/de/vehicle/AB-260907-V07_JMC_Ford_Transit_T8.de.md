@@ -23,7 +23,7 @@ Die Linie ist auf drei Radständen gebaut - ** 3000, 3300 und 3750 mm ** - kombi
 | Mittelradstand, mittleres Dach (Beispiel) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
 | Langradstand, Hochdachfracht | 5998 × 2164 × 2775 mm; Frachtinnenraum ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | lang | single source |
 
-Die Länge von 5998 mm ist signifikant: In vielen Märkten liegt es an der Grenze des leichten gewerblichen Führerscheins, so dass ein Käufer die Bestimmungslizenzkategorie und die Bruttomasse des Fahrzeugs bestätigen sollte, bevor er die längste Version bestellt. Abmessungen des Laderaums  and  the ≈13 m³ volume are single-source  and  sollten anhand der offiziellen Body-Builder-/Konfigurationsdaten des JMC bestätigt werden, bevor eine Konvertierung um sie herum entworfen wird.
+Die Länge von 5998 mm ist signifikant: In vielen Märkten liegt es an der Grenze des leichten gewerblichen Führerscheins, so dass ein Käufer die Bestimmungslizenzkategorie und die Bruttomasse des Fahrzeugs bestätigen sollte, bevor er die längste Version bestellt. Abmessungen des Laderaums  and  the ≈13 m³ Volumen stammen aus einer Einzelquelle und sollten anhand der offiziellen Aufbauhersteller-/Konfigurationsdaten des JMC bestätigt werden, bevor eine Konvertierung um sie herum entworfen wird.
 
 ## Zwei Dieselleitungen — nicht zusammengeführt
 
@@ -32,7 +32,7 @@ Die Länge von 5998 mm ist signifikant: In vielen Märkten liegt es an der Grenz
 | 2.3T Diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed Automatik (8AT) | single source — Bestätigung durch VIN/OEM|
 | 2.0T Diesel | Separate Dieselleitung mit geringerem Ausstoß | 6-speed Handbuch (6MT) | single source — gesonderte Zeile|
 
-Der 2.3T 8AT und der 2.0T 6MT sind unterschiedliche Antriebsstränge, die auf unterschiedliche Arbeitszyklen ausgerichtet sind; they must not be averaged or presented as one "T8 engine". Hinterradantrieb ist das Basislayout, mit 4WD auf ausgewählten Konfigurationen angeboten - nennen Sie den Antriebsstrang explizit. Die genauen Outputs beruhen derzeit auf einzelnen unabhängigen Quellen und sollten vor der Auftragsvergabe anhand der offiziellen Spezifikation des Gemeinsamen Ausschusses für die Kontrolle der Zulassung von MIIT geschlossen werden. Ein Dieselkraftstoff chinesischer Spezifikation muss auch auf Bestimmungskraftstoffqualität und Abnahme der Emissionsstufe überprüft werden.
+Der 2.3T 8AT und der 2.0T 6MT sind unterschiedliche Antriebsstränge, die auf unterschiedliche Arbeitszyklen ausgerichtet sind; sie dürfen nicht gemittelt oder als ein einziger Wert dargestellt werden "T8 engine". Hinterradantrieb ist das Basislayout, mit 4WD auf ausgewählten Konfigurationen angeboten - nennen Sie den Antriebsstrang explizit. Die genauen Outputs beruhen derzeit auf einzelnen unabhängigen Quellen und sollten vor der Auftragsvergabe anhand der offiziellen Spezifikation des Gemeinsamen Ausschusses für die Kontrolle der Zulassung von MIIT geschlossen werden. Ein Dieselkraftstoff chinesischer Spezifikation muss auch auf Bestimmungskraftstoffqualität und Abnahme der Emissionsstufe überprüft werden.
 
 ## Identitätsgrenze: JMC Quanshun T8 vs. globaler Ford Transit
 

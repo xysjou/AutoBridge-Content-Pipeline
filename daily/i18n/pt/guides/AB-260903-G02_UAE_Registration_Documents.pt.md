@@ -20,7 +20,7 @@ A ordem correcta é **clear alfândegas primeiro, registo segundo**:
 1. **Declaração de porto/desalfandegamento** — apresentar documentos comerciais e pagar encargos aduaneiros aplicáveis;
 2. ** Conformidade/conformidade** — o veículo deve cumprir os requisitos de normalização GCC/GSO para proceder (nota: as funções anteriores da ESMA foram dobradas em **MoIAT**; confirmar oficialmente a rota de conformidade atual);
 3. ** Registro RTA** — somente após a liberação o comprador se aplica à Autoridade de Transporte e Estradas para o registro eo ** Mulkiya** (cartão de registro do veículo), exigindo seguro, inspeção de veículos e documentos de identidade.
-Não é possível registar-se antes do desalfandegamento; under-preparing conformity documents is what most often stalls step 1→2.
+Não é possível registar-se antes do desalfandegamento; preparar mal os documentos de conformidade é o que mais frequentemente bloqueia a etapa 1→2.
 
 ## O Conjunto de Documentos de Desvio
 Requisitos comunicados (orientação prévia, a confirmar com o emirado de compensação):

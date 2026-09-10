@@ -44,7 +44,7 @@ Viele legitime Verkäufer sind Handelsunternehmen und nicht Fabriken. Das ist no
 
 1. Identifizieren Sie den tatsächlichen Hersteller und bestätigen Sie, dass er in der MIIT-Ankündigung mit gültigem CCC enthalten ist.
 2. Wenn Ihr Verkäufer ein Händler ist, fordern Sie das ** Genehmigungsdokument** an, das den qualifizierten Exporteur/Hersteller mit dem Unternehmen verbindet, mit dem Sie einen Vertrag abschließen.
-3. **Reverse-Verify**: wenn möglich, die Genehmigung dem OEM/qualifizierten Unternehmen zurück zu bestätigen. OEM tier-1/tier-2 authorisation rules are internal  and  unveröffentlicht, So ist ein Papierzertifikat allein nicht ausreichend - bitten Sie darum, es mit der ausstellenden Partei zu überprüfen.
+3. **Reverse-Verify**: wenn möglich, die Genehmigung dem OEM/qualifizierten Unternehmen zurück zu bestätigen. OEM tier-1/tier-2 die Zulassungsregeln sind intern und nicht überprüftöffentlicht, So ist ein Papierzertifikat allein nicht ausreichend - bitten Sie darum, es mit der ausstellenden Partei zu überprüfen.
 4. Ein nicht qualifiziertes Unternehmen kann *über* ein börsennotiertes Qualifikationsunternehmen exportieren; dies ist nur zulässig, wenn die Kooperations-/Genehmigungskette dokumentiert ist und die Stelle in der Ausfuhranmeldung tatsächlich qualifiziert ist.
 
 ## Schicht 3 — Operationelle Realität (Fabrik, Zollgeschichte, Kredit)

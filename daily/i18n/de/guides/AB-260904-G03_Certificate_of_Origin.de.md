@@ -34,7 +34,7 @@ Die beiden autorisierten Ausgabekanäle sind China Customs and CCPIT (China Coun
 ## Anwendung des Frameworks auf eine Fahrzeugsendung
 1. Bestätigen Sie das Ziel und ob eine **FTA-Präferenz** tatsächlich in Anspruch genommen wird; wenn nicht, ist ein nicht-präferentieller CO das übliche Instrument.
 2. Wenn Sie eine Präferenz beantragen, überprüfen Sie, ob das Fahrzeug die produktspezifische Ursprungsregel dieser Vereinbarung erfüllt, bevor Sie sich bewerben - gehen Sie nicht davon aus, dass "Made in China" allein qualifiziert ist.
-3. Matchen Sie den Emittenten an das, was der Importeur Letter of Credit verlangt (offizielle Stelle → Zoll).
+3. Matchen Sie den Emittenten an das, was das Akkreditiv des Importeurs verlangt (offizielle Stelle → Zoll).
 4. Verwenden Sie das **aktuelle ** Formular und den Code unter Order 270 und die entsprechende Vereinbarung; Formulare ändern sich, wenn Vereinbarungen hinzugefügt werden.
 
 ## Was nicht zu versprechen ist
@@ -42,7 +42,7 @@ Die beiden autorisierten Ausgabekanäle sind China Customs and CCPIT (China Coun
 - Ein Ursprungszeugnis garantiert nicht, dass das Bestimmungsland einen ermäßigten Satz gewährt; der Bestimmungszoll trifft diese Bestimmung.
 
 ## Häufig gestellte Fragen
-**Was ist die aktuelle Regel für chinesische Export-COs?** GACC Order No. 270, in Kraft seit 1 September 2024, regelt Export-Ursprungsbescheinigungen.
+**Was ist die aktuelle Regelung fürür chinesische Export-COs?** GACC Order No. 270, in Kraft seit 1 September 2024, regelt Export-Ursprungsbescheinigungen.
 **Gehe ich zum Zoll oder zum CCPIT?** Wenn der Käufer eine offizielle Stelle benötigt, verwenden Sie den Zoll; Andernfalls kann einer der beiden Kanäle ausstellen, und der gewöhnliche CO von CCPIT ist in der Regel kostenlos.
 **Was ist der Unterschied zwischen einer gewöhnlichen und einer FTA CO? ** Das gewöhnliche CO weist den Ursprung für nichtpräferenzielle Zwecke nach; das FTA CO unterstützt einen vereinbarten Präferenzsatz nur, wenn die Waren die Ursprungsregeln dieses Abkommens erfüllen.
 **Garantiet ein FTA CO eine niedrigere Abgabe im Ausland?** Nein — der Zoll des Einfuhrlandes entscheidet, ob die Präferenz gewährt wird.

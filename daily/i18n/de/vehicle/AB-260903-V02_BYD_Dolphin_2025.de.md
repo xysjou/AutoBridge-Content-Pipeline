@@ -52,7 +52,7 @@ Kompaktfünftürige Heckklappe, 2700 mm Radstand; Standardlänge 4125 mm, Knight
 Es wird kein statischer Ausfuhrpreis veröffentlicht. Die chinesische Startzahl RMB 99 und 800 ist eine ** inländische, zeitsensitive Referenz, kein FOB/CIF-Preis**. Erkundigen Sie sich bei **Zielland · Menge · Grad (Batterie/Motor) · LHD/RHD · Zielhafen · Incoterm**.
 
 ## Häufig gestellte Fragen
-**Was ist der Unterschied zwischen den Dolphin-Grads?** Die Standard-Typen verwenden einen 70 kW-Motor mit einem 44.928 kWh-Pack und 420 km CLTC; der Knight verwendet 150 kW mit 60.48 kWh und 520 km CLTC.
+**Was ist der Unterschied zwischen den Dolphin-Ausstattungen?** Die Standard-Typen verwenden einen 70 kW-Motor mit einem 44.928 kWh-Pack und 420 km CLTC; der Knight verwendet 150 kW mit 60.48 kWh und 520 km CLTC.
 **Sind China CLTC-Range-Zahlen vergleichbar mit WLTP?** Nein — CLTC als CLTC angeben; für die Übersee-Palette das WLTP/NEFZ-eigene WLTP-/NEFZ-Blatt des Bestimmungsmarkts verwenden.
 **Ist der Dolphin aus Übersee identisch mit dem chinesischen Auto?** Es teilt den Namen und die Plattformlinie, aber Batterie, zertifizierte Reichweite und Ausrüstung unterscheiden sich je nach Markt; behandeln Sie sie nicht als 1: 1 Äquivalente ohne BYD-Bestätigung.
 **Hat ein chinesischer Delfin im Ausland ohne Änderung Ladung? ** Überprüfen Sie den GB/T-Eingang mit der Zielinfrastruktur auf der VIN; ein Adapter allein löst möglicherweise keine Protokollunterschiede.

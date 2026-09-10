@@ -50,7 +50,7 @@ Una hoja de espectro que lista " J7: 600 PS, 2300 N·m " por la goma de cereza l
 
 ## Comprobación de compradores de filo pesado: motor, caja de cambios, eje, GCW, cabina, chasis
 
-Para un tractor la decisión del comprador se extiende a través de seis dimensiones, y cada uno debe ser fijado por escrito en lugar de asumir el nombre del modelo: (1) **motor** etapa de emisión y calificación exacta; (2) **gearbox** (manual vs automatizado) y número de velocidades; (3) ** eje seco** y ratio; (4) ** peso combinado de grosss (GCW)** la configuración está aprobada para tirar; (5) **cab** (especificación de sueño de alta altura)  and  (6) **chassis** opciones como suspensión de aire  and  the hydraulic retarder referenced for selected China-6 builds. Obtener el GCW y las calificaciones de descarga de ejes del certificado de homologación; no están inferidos de la potencia del motor.
+Para un tractor la decisión del comprador se extiende a través de seis dimensiones, y cada uno debe ser fijado por escrito en lugar de asumir el nombre del modelo: (1) **motor** etapa de emisión y calificación exacta; (2) **gearbox** (manual vs automatizado) y número de velocidades; (3) ** eje seco** y ratio; (4) ** peso combinado de grosss (GCW)** la configuración está aprobada para tirar; (5) **cab** (especificación de sueño de alta altura)  and  (6) **chassis** opciones como suspensióde aire y el ralentizador hidráulico referido para determinadas versiones chinas6 builds. Obtener el GCW y las calificaciones de descarga de ejes del certificado de homologación; no están inferidos de la potencia del motor.
 
 ## Dirección, combustible y límites de exportación
 

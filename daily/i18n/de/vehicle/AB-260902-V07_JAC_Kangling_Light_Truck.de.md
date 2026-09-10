@@ -26,8 +26,8 @@ Die folgenden Fakten auf Plattformebene stammen aus der offiziellen Konfiguratio
 | Übersetzungsverhältnisse für das Endantriebsgetriebe | 4.875 4.33 (4.11 auf ausgewählten Linien) |
 | Angebotene Brennstoff-/Kraftstofffamilien | Zhiwei S25 (Q25A Benzin), **Ankang 2.5 (Anhui-Cummins HFC4DE3 Diesel)** Ankang 3.0 Kühlkette, YN30 Gas Dual-Fuel, Dekang 160B/C, DHE155 |
 Der für den Export relevanteste Diesel ist der **Ankang (安康) 2.5 **, der die Anhui-Cummins ** HFC4DE3 ** Familie verwendet. Die Tabelle des JAC listet drei Suffixe auf - ** HFC4DE3-2E5 - 2EA - 2E9 - bei 111 117 125 kW **, mit Drehmomentschritten von ** 360 und 458 N·m **. Dies ist wichtig, weil Wiederverkäufer oft eine einzelne "160 hp/460 N·m" -Zahl zitieren, die nicht zu jedem Suffix passt; Der Leistungsschritt und das Drehmoment müssen vom genauen Motorsuffix und dem Ankündigungszertifikat abgelesen werden.
-## One Representative Announcement Build (Datenbank, CROSS_CHECKED)
-Um zu zeigen, wie eine Plattformreihe zu einem Beton-Lkw wird, ist der erfasste Build die **Dropside HFC1043P21K4C7S, 4 × 2 **, mit Zahlen aus 360che/ 卡车之家 Ankündigungsdaten und einem JAC-Familien-Cross-Check (CROSS_CHECKED; erfasst 2026-09-02, erneut überprüft mit der JAC-Tabelle 2026-09-03):
+## One Representative Announcement Build (Datenbank, unabhängig gegengeprüft)
+Um zu zeigen, wie eine Plattformreihe zu einem Beton-Lkw wird, ist der erfasste Build die **Dropside HFC1043P21K4C7S, 4 × 2 **, mit Zahlen aus 360che/ 卡车之家 Ankündigungsdaten und einem JAC-Familien-Cross-Check (unabhängig gegengeprüft; erfasst 2026-09-02, erneut überprüft mit der JAC-Tabelle 2026-09-03):
 | Position | HFC1043P21K4C7S Dropside (pro Ankündigungsdaten) |
 |---|---|
 | Antriebs-/Radstand | 4×2 3365 mm |
@@ -43,7 +43,7 @@ Um zu zeigen, wie eine Plattformreihe zu einem Beton-Lkw wird, ist der erfasste 
 | Fallkörper | 4.18 × 2.10 × 0.40 m |
 ### Warum die gleichen "L6" unterschiedliche Gewichte aufweisen können
 Schwester Ankündigung Builds tragen verschiedene Körper und damit verschiedene Massen: das Feld (厢式),  HFC5043XY… series)  and  Beteiligung (仓栅),  HFC5043CCY… series) bodies are heavier,  with curb weight around 2.7–2.8 t  and  Nutzlast in der Nähe von 1.5 t bei der gleichen ~ 4.495 t GVW. Kopieren Sie niemals eine Dropside-Nutzlast-Figur auf eine Box oder einen Reefer-Build - lesen Sie sie erneut aus dem Ankündigungszertifikat dieses Körpers.
-## Motor, Emission und Antriebsstrang: Was man auf dem Proforma anheftet
+## Motor, Emission und Antriebsstrang: Was man auf der Proforma vermerkt
 - **Motorsuffix und Leistungsstufe**: write the full HFC4DE3-2Ex code  and  seine kW/N·m, Nicht nur "Cummins 2.5". Anmerkung China VI (国六) ist ein chinesischer Standard; es ist nicht allein der Nachweis der Annahme der GCC-, UNECE- oder Bestimmungsemissionsroute — die Bestimmungsemissionsroute separat einholen.
 - **Gearbox**: JAC 6-speed Handbuch im Vergleich zu dem Fast 8-speed verwendet, auf einige Varianten, und nicht davon ausgehen, dass eine automatische existiert für die gewählte Stromleitung.
 - **Axle und Ratio **: Wählen Sie 4 T vs 5 T Hinterachse und 4.875 vs 4.33 Endantrieb gegen Route Grade und geladene GVW; Die offizielle Tabelle bestätigt beide Werksoptionen.
@@ -65,8 +65,8 @@ Kein chinesischer Inlandspreis wird auf eine Exportzahl gebracht und keiner wird
 **Ist "Lingpao L6" eine feste Spezifikation?** Nein — es ist eine Chassis-Familie mit mehreren Motoren, Radständen, Achsbewertungen und Karosserien; jede Kombination hat ihre eigenen MIIT Ankündigungsmodell und Gewichte.
 **Was bestätigt die offizielle Tabelle des JAC? ** 1920 mm Taxi, 3365 mm Hauptradstand, 180 × 65 × 4.5 Rahmen,  2 T front 4–5 T rear axles, 4.875/4.33 Verhältnisse,  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
 **Warum zitieren Quellen unterschiedliche Pferdestärken für "gleiche" L6 Da der HFC4DE3 drei Suffixe mit unterschiedlichem Power Drehmoment hat und Wiederverkäufer manchmal ein Etikett über alle von ihnen zitieren; passen Sie das Suffix auf dem Ankündigungszertifikat an.
-**Was ist der GVW und die Nutzlast?** Der erfasste Dropside-Build ist 4.495 t GVW 1.735 t Nutzlast; Box- und Pfahl-Builds sind schwerer mit niedrigerer Nutzlast - lesen Sie das Zertifikat jedes Körpers.
-**Is there an automatic?** The captured diesel uses a JAC 6-speed manual; a Fast 8-speed erscheint bei bestimmten Varianten - bestätigen Sie die genaue Linie, anstatt anzunehmen.
+**Was sind Gesamtgewicht (GVW) und Nutzlast?** Der erfasste Dropside-Build ist 4.495 t GVW 1.735 t Nutzlast; Box- und Pfahl-Builds sind schwerer mit niedrigerer Nutzlast - lesen Sie das Zertifikat jedes Körpers.
+**Is there an automatic?** Der erfasste Diesel verwendet einen JAC 6-speed manual; a Fast 8-speed erscheint bei bestimmten Varianten - bestätigen Sie die genaue Linie, anstatt anzunehmen.
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: none secured in repository
 - ORIGINAL_IMAGE_URL: not captured

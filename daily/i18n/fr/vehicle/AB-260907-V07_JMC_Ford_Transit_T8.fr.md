@@ -32,7 +32,7 @@ La longueur de 5998 mm est significative: Dans de nombreux marchés, il se trouv
 | 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatique (8AT) | single source — Confirmation par VIN/OEM|
 | 2.0T diesel | Ligne diesel séparée à sortie inférieure | Manuel 6-speed (6MT) | single source — ligne séparée|
 
-Les 2.3T 8AT et les 2.0T 6MT sont des groupes motopropulseurs distincts qui ont pour but de réaliser différents cycles de fonctionnement; they must not be averaged or presented as one "T8 engine". La traction arrière est la disposition de base, avec 4WD offerts sur certaines configurations — nommez explicitement le groupe motopropulseur. Les extrants exacts reposent actuellement sur des sources indépendantes uniques et devraient être fermés par rapport à la spécification officielle du JMC ou à la rubrique d'homologation MIIT avant de passer un marché; un diesel de type chinois doit également être vérifié pour la qualité du carburant de destination et l'acceptation des émissions.
+Les 2.3T 8AT et les 2.0T 6MT sont des groupes motopropulseurs distincts qui ont pour but de réaliser différents cycles de fonctionnement; ils ne doivent pas être moyennés ni présentés comme un seul "T8 engine". La traction arrière est la disposition de base, avec 4WD offerts sur certaines configurations — nommez explicitement le groupe motopropulseur. Les extrants exacts reposent actuellement sur des sources indépendantes uniques et devraient être fermés par rapport à la spécification officielle du JMC ou à la rubrique d'homologation MIIT avant de passer un marché; un diesel de type chinois doit également être vérifié pour la qualité du carburant de destination et l'acceptation des émissions.
 
 ## Limite d'identité: JMC Quanshun T8 vs Ford Transit global
 

@@ -24,7 +24,7 @@ Dòng EM-i là động cơ chạy trước và kết hợp với 1.5 L tự nhi�
 - **Motor**: 160 kW 262 N·m (tách điện máy hút chéo; mô-men xoắn một nguồn).
 - **Transation**: 1 挡 DHT(EM-i 单挡混动专用变速) — một tính năng DHT tốc độ duy nhất, mà là định nghĩa EM-i so với con lai đa tốc độ cũ.
 - **Battery dòng**: 8.5 19.09 kWh. Nguồn cung cấp pin là ** chưa được xác nhận bởi Geely** và được cố tình không nói ra.
-- ** lột ra khỏi vỏ: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; trên WLTC, tài liệu tham khảo được ghi nhận là 48 115 km. CLTC và WLTC là hai chu kỳ khác nhau — không bao giờ trích dẫn một con số CLTC như một con số xuất khẩu WLTC/NEEC.
+- ** lột ra khỏi vỏ: 60 140（对应8.5/19.09kWh） km CLTC cho hai dòng tương ứng; trên WLTC, tài liệu tham khảo được ghi nhận là 48 115 km. CLTC và WLTC là hai chu kỳ khác nhau — không bao giờ trích dẫn một con số CLTC như một con số xuất khẩu WLTC/NEEC.
 - **Cribined/performance**: combined CLTC range up to 最高 2000 km; 0–100 km/h 7.4 s; tốc độ cao 180 km/h; thùng nhiên liệu 60 L; Hệ số kéo 0.26.
 
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)

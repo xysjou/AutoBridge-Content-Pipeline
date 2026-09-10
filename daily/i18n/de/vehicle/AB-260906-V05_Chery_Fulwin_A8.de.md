@@ -45,7 +45,7 @@ Die beiden Baureihen sind bei Batterie, Motor und Systemleistung unterschiedlich
 
 Als PHEV arbeitet der Fulwin A8 im rein elektrischen, hybriden und batteriearmen (ladungserhaltenden) Modus. Für eine Überseeflotte sind die relevanten Fragen: echte reine Elektrodistanz unter lokaler Fahrt, der Kraftstoffverbrauch mit erschöpfter Batterie, wenn kein Ladevorgang verfügbar ist, und ob der Zielort über die Stecker-/Ladeinfrastruktur verfügt, um die Batterie überhaupt zu nutzen. Ohne bequemes Aufladen trägt ein Käufer effektiv einen schwereren Hybrid - Größe die Wahl zum Anwendungsfall.
 
-## Batterielieferant und Aufladung: Was ist und was nicht feststeht
+## Batterielieferant und Aufladung: Was feststeht und was nicht
 
 Eine einzelne enzyklopädische Leitung verbindet eine Linie mit einem bestimmten Zellhersteller, aber das ist nicht verifiziert und wird **nicht** als Tatsache angegeben; Batterielieferant muss pro Produktionscharge von Chery bestätigt werden. Die Schnellladezeit trägt ebenfalls ein Single-Source-Flag. Der Steckverbinderstandard des chinesischen Autos ist GB T; die Kompatibilität mit der Zielaufladung erfordert eine OEM-Exportantwort.
 

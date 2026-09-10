@@ -63,7 +63,7 @@ Un acheteur de VÉHI a besoin de quatre réponses dans l'ordre: **moteur, moteur
 1. ** Version et capacité de batterie** écrites en fonction du NIV (10.08 vs 15.87 kWh); ne pas accepter un seul numéro de plage.
 2. ** Cycle d'essai** — Conserver la mention CLTC; demander le chiffre du cycle de destination séparément si le marché en publie un.
 3. ** Connecteur de charge et matériel AC/DC** — La charge chinoise GB/T ne correspond pas automatiquement au connecteur de destination; confirmer avant de promettre la compatibilité de la charge à domicile.
-4. **Documentation d'expédition de la batterie de l'PHEV** — résumé UN38.3  and  any dangerous-goods documents per the IMDG 42-24 battery-shipping guide.
+4. **Documentation d'expédition de la batterie de l'PHEV** — résumé UN38.3  ainsi que tout document de marchandises dangereuses selon l'IMDG 42-24 battery-shipping guide.
 5. **Emission/type de carburant** et classe d'enregistrement hybride de destination; confirmer le dossier de documentation à partir de la liste de contrôle des documents d'exportation.
 
 ## Demande de contingentation à l'exportation actuelle

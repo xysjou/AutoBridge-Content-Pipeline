@@ -28,7 +28,7 @@
 
 - **エンジン**:SAIC π 2.0Tディーゼル、108 kW (147 PS)/375 N·m 2025 PRO (交差チェック)。
 - **トランスミッション**:6-speedマニュアルまたは6-speed AMT(自動マニュアル)、トリム。
-- 2.5T(≈100 kW / 330 N·m)は、レガシーラインです  and  is explicitly excluded so the two are not mixed on a quotation.
+- 2.5T(≈100 kW / 330 N·m)は、レガシーラインです  は明示的に除外され、見積書で両者が混在しないようにする.
 
 ## ペイロードとGVW: 均質化シートに主張
 

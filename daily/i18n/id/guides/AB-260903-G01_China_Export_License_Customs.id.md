@@ -15,10 +15,10 @@
 ## Mengapa Halaman Ini Ada
 Kebanyakan gagal pengiriman pertama gagal di ** China sisi **, bukan tujuan: eksportir tidak memiliki kategori kualifikasi yang tepat, lisensi tidak mencakup produk, atau rantai dokumen tidak konsisten pada deklarasi. Pemandu ini mengatur perintah untuk mengikuti. Ini didasarkan dalam dokumen pemerintah Cina (MOFCOM, perpustakaan kebijakan Dewan Negara, MIIT); di mana aturan direvisi setiap tahun atau waktu-sensitif, ditandai daripada diperlakukan sebagai permanen.
 
-## Langkah 1 - Konfirmasi Yang Licence Rezim Kendaraan Anda Falls Under
+## Langkah 1 - Konfirmasikan Rezim Perizinan yang Berlaku bagi Kendaraan Anda
 Cina tidak menggunakan satu selimut "izin ekspor mobil". Distinuble trek:
 - ** Mobil penumpang baru energi BEV: ** kendaraan didorong hanya oleh motor drive dan membawa VIN (referensi HS 8703801090) berada di bawah ** ekspor-lisensi administrasi ** bersamaan dilihat oleh MOFCOM, MIIT, GAC dan SAMR (TIME _ SESITIF - konfirmasi pemberitahuan saat ini dan kode HS tepat terhadap jadwal tariff tahun itu).
-- ** Kendaraan yang Digunakan: ** Negara beroperasi sebuah ** rezim ekspor-lisensi yang diberikan oleh MOFCOM **, dan rincian lisensi harus cocok dengan surat pendaftaran kendaraan-kendaraan (VERIFIED, empat- kementerian).
+- ** Kendaraan yang Digunakan: ** Negara beroperasi sebuah ** rezim ekspor-lisensi yang diberikan oleh MOFCOM **, dan rincian lisensi harus cocok dengan surat pendaftaran kendaraan-kendaraan (dikonfirmasi sumber primer, empat- kementerian).
 - ** Kendaraan baru yang konvensional sepeda motor: ** ditangani melalui ekspor tahunan ** Mengarsipkan lisensi ** selanjutnya.
 Kode komoditas yang tepat dan kondisi regulatornya harus dikonfirmasi terhadap Impor & Ekspor Taroff saat ini dan pengumuman MOFCOM terbaru - jangan menggunakan ulang asumsi HS tahun lalu.
 
@@ -26,7 +26,7 @@ Kode komoditas yang tepat dan kondisi regulatornya harus dikonfirmasi terhadap I
 MOFCOM mengeluarkan pemberitahuan tahunan mengatur mobil dan ekspor sepeda motor dengan aplikasi lisensi. Berkas perusahaan untuk kualifikasi; ** kendaraan yang dimodifikasi upfit harus mengunggah bukti kinerja seperti deklarasi ekspor bea cukai dan faktur pembelian chassis **. Implikasi praktis bagi seorang trader: kualifikasi tidak instan - menyelaraskan jendela penyaringan tahunan dengan rencana pelayaran Anda, dan menjaga dokumen yang sesuai dengan chassis upfit karena ini adalah bukti kinerja ekspor yang nyata.
 
 ## Step 3 - The Used- Car 180-Day Aturan (yang keras, tanggal persyaratan)
-Sebagai pemberitahuan keempat menteri untuk memperkuat manajemen ekspor mobil (VERIFIED): ** Dari 1 Januari 2026, di mana kendaraan yang sedang diterapkan untuk ekspor didaftarkan tidak lebih dari 180 hari sebelumnya, pelamar harus mendukung konfirmasi Layanan Maintend OEM 's; jika tidak, lisensi tidak akan dikeluarkan. **
+Sebagai pemberitahuan keempat menteri untuk memperkuat manajemen ekspor mobil (dikonfirmasi sumber primer): ** Dari 1 Januari 2026, di mana kendaraan yang sedang diterapkan untuk ekspor didaftarkan tidak lebih dari 180 hari sebelumnya, pelamar harus mendukung konfirmasi Layanan Maintend OEM 's; jika tidak, lisensi tidak akan dikeluarkan. **
 - Ini adalah Cina-side, tanggal persyaratan - kutipan dengan tanggal dan re-memverifikasi pemberitahuan sebelum mengandalkan di atasnya.
 - Informasi lisensi harus konsisten dengan sertifikat pendaftaran kendaraan; tidak cocok dengan penerbitan blok.
 

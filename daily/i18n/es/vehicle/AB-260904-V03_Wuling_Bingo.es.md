@@ -42,7 +42,7 @@ Todas las cifras de rango son **CLTC**. El motor de entrada 30 kW no debe ser ci
 
 ## Verificación del comprador de ultramar antes del pago
 - La posición de motor de un pequeño EV (y por lo tanto su eje impulsado) debe leerse desde el nameplate/certificado; la hoja de referencia fija las calificaciones de potencia y rango, pero no el diseño de la unidad.
-1. **Exact range step and motor** matched to the VIN — 30 kW entry vs 50 kW upper trims are different cars.
+1. **Exact range step and motor** matched to the VIN — 30 kW entry vs 50 las versiones superiores en kW son coches distintos.
 2. **Cuento de asiento** (4 vs posible 5) para la unidad específica.
 3. **Conector de cambio** — Puerto chino GB/T vs el estándar de destino; confirme compatibilidad con el cargador DC.
 4. ** Documentos de envío de batería** — UN38.3 resumen y papeleo DG por guía de batería IMDG 42-24; la clasificación de carros BEV sigue el conjunto de reglas actual.

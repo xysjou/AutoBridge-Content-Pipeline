@@ -15,7 +15,7 @@
 ## Why an L6 Is Ordered by Chassis Code, Not by a Model Name
 A Chinese light commercial truck is not a fixed passenger-car specification: the **Lingpao L6 (领跑L6, sold under JAC's 1Ka / 康铃 light-truck line)** is a *chassis family* that JAC builds with several engines, two wheelbases, two rear-axle ratings and many factory or coachbuilt bodies (dropside 栏板, box 厢式, stake 仓栅, refrigerated and more). Each legal combination carries its own **MIIT announcement model (公告型号)** and its own curb weight / rated payload. "An L6" therefore says nothing precise until the announcement model, engine suffix and body are named. This page separates what JAC officially publishes about the platform from the single announcement build captured in the commercial-vehicle database, so an importer can order a defined truck rather than a name.
 ## The Platform, per JAC's Official Configuration Table
-The following platform-level facts are taken from **JAC Commercial Vehicle's official Lingpao L6 configuration table (cv.jac.com.cn, VERIFIED, checked 2026-09-03)** and are stable across the family:
+The following platform-level facts are taken from **JAC Commercial Vehicle's official Lingpao L6 configuration table (cv.jac.com.cn, confirmed by primary sources, checked 2026-09-03)** and are stable across the family:
 | Platform item | JAC-official value |
 |---|---|
 | Cab width | 1920 mm (standard-width / 33-mid cab), single-row and half-cab |
@@ -26,8 +26,8 @@ The following platform-level facts are taken from **JAC Commercial Vehicle's off
 | Final-drive ratios | 4.875 / 4.33 (4.11 on selected lines) |
 | Fuel/power families offered | Zhiwei S25 (Q25A petrol-style), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 cold-chain, YN30 gas / dual-fuel, Dekang 160B/C, DHE155 |
 The diesel most relevant to export is the **Ankang (安康) 2.5**, using the Anhui-Cummins **HFC4DE3** family. JAC's table lists three suffixes — **HFC4DE3-2E5 / -2EA / -2E9 — at 111 / 117 / 125 kW**, with torque steps of **360 and 458 N·m**. This matters because resellers often quote a single "160 hp / 460 N·m" figure that does not match every suffix; the power step and torque must be read off the exact engine suffix and announcement certificate.
-## One Representative Announcement Build (database, CROSS_CHECKED)
-To show how a platform row becomes a concrete truck, the captured build is the **dropside HFC1043P21K4C7S, 4×2**, with figures from 360che/卡车之家 announcement data and a JAC-family cross-check (CROSS_CHECKED; captured 2026-09-02, re-checked against the JAC table 2026-09-03):
+## One Representative Announcement Build (database, independently cross-checked)
+To show how a platform row becomes a concrete truck, the captured build is the **dropside HFC1043P21K4C7S, 4×2**, with figures from 360che/卡车之家 announcement data and a JAC-family cross-check (independently cross-checked; captured 2026-09-02, re-checked against the JAC table 2026-09-03):
 | Item | HFC1043P21K4C7S dropside (per announcement data) |
 |---|---|
 | Drive / wheelbase | 4×2 / 3365 mm |

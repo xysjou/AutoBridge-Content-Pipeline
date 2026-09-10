@@ -32,7 +32,7 @@ Der Radstand ist konstant, aber Länge und Höhe bewegen sich zwischen den Jahre
 
 Die Namensfalle ist real: Die 2024 ** 1.5T ** und die 2025 ** 1.5TD ** sind unterschiedliche Kalibrierungen mit unterschiedlichen Ausgängen und unterschiedlichen Übertragungen (6DCT versus 7DCT), trotz des ähnlichen Abzeichens. Der ** 1.6T ** ist der stärkste der drei und der am besten von zwei unabhängigen Quellen unterstützte. Ein Auftrag, der "1.5 Dashing" nennt, könnte sich auf eines von zwei Autos auflösen, also schreiben Sie die vollständige Motorbezeichnung, das Jahr und das Getriebe in die Proforma. Die genauen Ausgänge der Single-Source-Linien 1.5T und 1.5TD sollten vor der Einzahlung mit dem offiziellen Konfigurationsblatt von Jetour oder dem genauen MIIT-Homologationseintrag geschlossen werden.
 
-## Was die Plattform und das Layout einem Käufer sagen
+## Was Plattform und Layout einem Käuferäufer sagen
 
 Als ein frontgetriebenes Monocoque-Kompakt-SUV richtet sich das Dashing eher an den Einsatz von Familien- und Stadtflotten als an Offroad-Arbeiten mit Allradantrieb. Höhere Verkleidungen tragen den großen zentralen Bildschirm, Fahrerassistenzfunktionen und Komfortausrüstung, die für das Segment typisch sind, aber das genaue Ausrüstungsset ist trimm- und jahresspezifisch. Bauen Sie die Bestellung gegen das Konfigurationsblatt für die tatsächliche SKU auf; Gehen Sie nicht davon aus, dass sich ein Feature, das auf einer Top-Trim-Überprüfungseinheit zu sehen ist, auf das zitierte Basisauto erstreckt.
 
@@ -42,7 +42,7 @@ Jeder chinesische Herstellerführerpreis ist eine **zeitsensible inländische Re
 
 ## Lenkung und Exportmarktgrenze
 
-Der chinesische Markt Dashing, auf den hier verwiesen wird, ist **linksgesteuert **. Kein OEM-Beweis in dieser Datei stellt ein werkseigenes Rechtslenker-Auto auf dem chinesischen Markt her, so dass RHD-Ziele eine separate Antwort von der Marke erfordern. Ebenso ist  the overseas "Dashing" or any regional Jetour naming is not assumed identical to the Chinese 2024/2025 powertrains; Modellalias und Exportspezifikation erfordern eine OEM-Erklärung, und ohne eine regionale Auto wird als verwandt, nicht die gleiche, zu behandeln.
+Der chinesische Markt Dashing, auf den hier verwiesen wird, ist **linksgesteuert **. Kein OEM-Beweis in dieser Datei stellt ein werkseigenes Rechtslenker-Auto auf dem chinesischen Markt her, so dass RHD-Ziele eine separate Antwort von der Marke erfordern. Ebenso ist  the overseas "Dashing" noch eine regionale Jetour-Bezeichnung wird als identisch mit der chinesischen angenommen 2024/2025 powertrains; Modellalias und Exportspezifikation erfordern eine OEM-Erklärung, und ohne eine regionale Auto wird als verwandt, nicht die gleiche, zu behandeln.
 
 ## Überprüfung des ausländischen Käufers vor der Einzahlung
 

@@ -26,7 +26,7 @@ China splits the M8 into three series that differ in size, wheelbase and torque 
 | 宗师 Grandmaster / 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Power output is identical at 185 kW, but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Grandmaster/Master dimensions and wheelbase are **VERIFIED** against GAC official pages; Lingxiu values are cross-checked via Autohome/Yiche.
+Power output is identical at 185 kW, but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Grandmaster/Master dimensions and wheelbase are **confirmed by primary sources** against GAC official pages; Lingxiu values are cross-checked via Autohome/Yiche.
 
 ## Mechanical Specification (Petrol Versions)
 

@@ -13,7 +13,7 @@
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景:将3rd-Gen冠军从4th世代中分离出来
-CS75 PLUS是长安市核心中超SUV家族. 本页面涵盖**3rd-generation冠军赛线,型号为2024年(REFERENCE MARKET: 中国)**. A **4th generation entered the China market from September 2024** with a longer body  and  轮式基座  and  订正1.5T调。 由于两代人都是在CS75 PLUS名称下交易的,在重叠的几个月内,只说"CS75 PLUS 2024"的订单说明是模糊不清的——锁生成,发动机和变速箱与VIN对齐.
+CS75 PLUS是长安市核心中超SUV家族. 本页面涵盖**3rd-generation冠军赛线,型号为2024年(REFERENCE MARKET: 中国)**. A **4代自该年9月进入中国市场 2024** with a longer body  and  轮式基座  and  订正1.5T调。 由于两代人都是在CS75 PLUS名称下交易的,在重叠的几个月内,只说"CS75 PLUS 2024"的订单说明是模糊不清的——锁生成,发动机和变速箱与VIN对齐.
 
 ## 电源列车: 1.5T对2.0T(重点教育)
 | 项目 | 1.5T(JL473ZQ7,蓝鲸) | 2.0T (JL486ZQ5) |
@@ -52,7 +52,7 @@ The 4th-generation car is larger (reported 4770 1910 mm, 2800 mm 轮基). 将两
 
 ## 经常被问到的问题
 ** 1.5T号有什么区别  and  2.0T CS75 PLUS?** The 1.5T produces 138 kW/300 N·m; 2.0T型飞机生产171 kW/390 N·m型; 两者都使用Aisin 8AT.
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  订正1.5T; 此页面涵盖3rd-gen冠军.
+**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4代自该年9月在中国上市 2024 with a larger body  and  订正1.5T; 此页面涵盖3rd-gen冠军.
 **Does CS75 PLUS have all-wheel drive?** The China 3rd-gen line referenced here is front-wheel drive; 证实任何AWD针对具体修饰提出的索赔。
 ** 每个年级L2套套装是否相同? ** 视其等级而定;核实准确的VIN上的ACC/Lane/540°摄像头内容。
 

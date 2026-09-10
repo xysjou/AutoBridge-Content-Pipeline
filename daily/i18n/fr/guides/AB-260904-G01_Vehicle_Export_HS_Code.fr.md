@@ -40,7 +40,7 @@ Les tarifs, la certification, l'inspection et la documentation sont tous suspend
 
 Deux frontières provoquent la plupart des différends:
 - ** 87.03 vs 87.04 ** — décidé par *usage principal* (personnes vs marchandises), non forme corporelle. Un ramassage de cabines d'équipage et une camionnette fermée doivent être consignés dans le dossier.
-- ** 87.04 vs 87.05 ** — un véhicule de marchandises qui * transporte du fret* est 87.04; un véhicule construit autour d'une fonction spéciale* (ascenseur, perceuse, machine montée où le chargement de cargaison est accessoire) est 87.05. Un camion frigorifique transporte encore des marchandises et est traité comme un véhicule de marchandises; whether an added refrigeration superstructure moves the ten-digit subheading must be checked line by line in the 2026 tariff. Une tête de tracteur (87.01) et sa semi-remorque (87.16) sont toujours classées séparément même lorsqu'elles sont expédiées en combinaison.
+- ** 87.04 vs 87.05 ** — un véhicule de marchandises qui * transporte du fret* est 87.04; un véhicule construit autour d'une fonction spéciale* (ascenseur, perceuse, machine montée où le chargement de cargaison est accessoire) est 87.05. Un camion frigorifique transporte encore des marchandises et est traité comme un véhicule de marchandises; le fait qu'une superstructure frigorifique ajoutée modifie la sous-position à dix chiffres doit être vérifié ligne par ligne dans le 2026 tariff. Une tête de tracteur (87.01) et sa semi-remorque (87.16) sont toujours classées séparément même lorsqu'elles sont expédiées en combinaison.
 
 ## Le boîtier électrique à trois roues
 Les directives douanières distinguent les trois roues électriques par leur utilisation et leur identification: un **porteur-personne**porteur à trois roues **avec un NIV** tombe sous la ligne 8703.8010, **sans NIV** sous 8703.8090, tandis qu'un **cargo**porteur à trois roues passe à ** 8704.6000 **. Il s'agit d'une interprétation des questions et réponses des douanes (source unique); les douanes portuaires locales et le tarif actuel 2026 font toujours autorité.
@@ -54,7 +54,7 @@ Les directives douanières distinguent les trois roues électriques par leur uti
 
 ## Ce que cette page ne dit pas délibérément
 - **Taux de droits à l'importation de destination**: ceux-ci exigent le tarif du pays importateur pour la sous-position exacte et sont hors champ pour une page de classement côté exportation.
-- **La sous-position nationale à dix chiffres exacte et le taux provisoire**: ils changent avec le tarif annuel — citer l'édition ** 2026  and  the implementing GACC announcement number** on every declaration rather than relying on older 2018/2020 reference tables.
+- **La sous-position nationale à dix chiffres exacte et le taux provisoire**: ils changent avec le tarif annuel — citer l'édition ** 2026  et le numéro de l'annonce GACC de mise en œuvre** sur chaque déclaration plutôt que de s'appuyer sur des versions plus anciennes 2018/2020 reference tables.
 
 ## Liste de contrôle préalable à la déclaration
 - Utilisation principale écrite et défendable.

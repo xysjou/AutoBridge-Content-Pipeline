@@ -12,7 +12,7 @@
 - **Teks ALT**: Biaya Chile import stack: tugas versus IVA
 - **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
-## The Oportunity and the Recurring Misconculate
+## Peluang dan Kesalahpahaman yang Berulang
 Chili beroperasi bebas - perdagangan perjanjian dengan mitra utamanya, ** termasuk Cina **. Kendaraan Cina yang lengkap dapat menggunakan preferensi FTA (ad- valorem ** tugas 0% **), sedangkan tugas umum Chile ad-valorem adalah 6% nilai CIF ** untuk asal yang bukan preferensi - keduanya sekarang berlabuh ke sumber resmi (di bawah). Galat yang berulang adalah membaca "FTA 0% duty" sebagai "0% biaya untuk mengimpor". Hal ini tidak: ** 19% IVA masih berlaku, 0% tergantung pada bukti asal, dan homologation adalah workstream terpisah. ** Pemandu ini khusus untuk Chile.
 ## The Tax Stack, Line by Line (secara resmi membumi)
 | Elemen | Pengobatan | Basis keyakinan |
@@ -29,7 +29,7 @@ Pilihan FTA hanya berlaku untuk ** produk yang berasal ** yang memenuhi aturan p
 - Konfirmasi kode ** HS dan aturan FTA asal (periksa teks FTA saat ini SUBREI untuk pos itu - jangan asumsikan setiap kendaraan secara otomatis memenuhi syarat).
 - Mencegah sertifikat FTA menamai eksporter consignee yang sama dan rincian kendaraan sebagai dokumen komersial.
 - Sebuah rantai rusak atau hilang dari jalur utama pengiriman ke tugas umum ** 6% *.
-## 3CV Homologation Is Pisahkan Dari Bea Cukai
+## 3Homologasi Kendaraan Komersial Terpisah dari Kepabeanan
 Kendaraan yang ditempatkan di pasar Chili membutuhkan..... 3CV homologasi (prosedur sertifikasi keselamatan emisi yang diawasi oleh otoritas transportasi kendaraan) sebelum pendaftaran. Ini adalah proses *** yang dapat diterima ** dan alur waktu **, bukan biaya tetap: biaya per- unit yang dapat diandalkan telah ditangkap, jadi *** tidak ada nomor (misalnya, dikutip ~ US $600) adalah menegaskan *** - Dapatkan kutipan sertifikat saat ini dan memimpin waktu, dan mulai lebih awal karena itu gerbang pendaftaran pertama, bukan rilis bea cukai.
 ## Titik Ditinggalkan Terpastikan Kiri
 - *** Setiap "mewah surtax" ambang batas ** (sumber industri mengutip persentase di atas sebuah band nilai): ** tidak dikonfirmasi terhadap otoritas pajak Chili (SII) dan dihapus dari biaya faktual stack ** - verifikasi pelamar untuk model harga dengan sumber pajak Chili sebelum anggaran.

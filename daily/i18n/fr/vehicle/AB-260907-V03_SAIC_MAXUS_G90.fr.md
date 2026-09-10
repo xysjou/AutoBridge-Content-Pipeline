@@ -37,7 +37,7 @@ Le G90 est offert en configurations **six places (2+2+2)** et **sept places (2+2
 - confirmer le contenu de la deuxième rangée de la chaise-capitaine par rapport au banc pour la garniture choisie;
 - correspondre au nombre de sièges au certificat d'homologation plutôt qu'à une image de marketing.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), l'indication de l'espace de bagages dépend de l'utilisation de la troisième rangée; traiter la figure exacte comme dépendant de la taille.
+Le volume de chargement est indiqué à environ **1010.5–2179 L** troisième rangée rabattue (single-source), l'indication de l'espace de bagages dépend de l'utilisation de la troisième rangée; traiter la figure exacte comme dépendant de la taille.
 
 ## Quel est le degré de vérification d'un acheteur de VMP
 

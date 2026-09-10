@@ -64,7 +64,7 @@ Il s'agit d'un camion léger en cabine de plus de N2 plaques bleues avec GVW à 
 
 **Quel moteur utilise-t-il? **
 
-La ligne référencée utilise le 4KH1CN6LB 3.0-litre Chine- 6 diesel cité à 120 PS / 290 N·m avec un MSB 5MT; pin the full suffix because other 4KH1 ratings exist.
+La ligne référencée utilise le 4KH1CN6LB 3.0-litre Chine- 6 diesel cité à 120 PS / 290 N·m avec un MSB 5MT; préciser le suffixe complet car d'autres 4KH1 ratings exist.
 
 **Qu'est-ce que sa charge utile? **
 
@@ -76,7 +76,7 @@ Pas sur cette preuve: il est construit Qingling pour la Chine et est traité com
 
 ** Le nouveau 100P est-il le même camion? **
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) il s'agit d'une ligne de modèles distincte dont les chiffres ne doivent pas être fusionnés dans une fiche KV100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

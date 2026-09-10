@@ -21,7 +21,7 @@ Los compradores extranjeros de vehículos chinos en primera instancia se han con
 
 Dos documentos oficiales chinos definen la columna vertebral de calificación (ambas fuentes principales del gobierno):
 
-- Per the ** Five-ministry notice on further regulating the export order of cars and motocicletas** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
+- Per the ** Aviso de los cinco ministerios para seguir regulando el orden de exportación de automóviles y motocicletas** (MOFCOM et al.), un fabricante que declare vehículos para exportación debe figurar en el **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
 - Per **MOFCOM et al. 2024 Anuncio No. 6 ** sobre empresas exportadoras de automóviles usados, un exportador de automóviles usados debe ser una persona jurídica independiente registrada internamente que reúna condiciones establecidas (los fabricantes deben estar en el anuncio MIIT; los comerciantes deben cumplir los criterios publicados).
 
 Implicación para los compradores: pregunte *que* entidad jurídica es el exportador de registros y confirme que se encuentra en la lista de clasificación de exportación-interanual de ** publicada por MOFCOM** (la lista se actualiza dinámicamente — utilice la versión actual del año; esta guía no enumera los nombres de las empresas). Una empresa que no puede colocarse en esa cadena es una señal de parada.
@@ -62,7 +62,7 @@ Uno de los indicadores más claros del fraude es un nombre de cuenta **payee que
 - Tratar de que el último minuto "utiliza nuestra cuenta de hermana/Hong Kong/overseas" cambie como un evento de alto riesgo que requiere una verificación fresca; nunca redirigir fondos sobre la base de un cambio solo por correo electrónico.
 - Preferir los instrumentos de pago que coincidan con el riesgo (véase la guía T/T vs L/C); evitar el pago completo a una entidad no verificada.
 
-## What AutoBridge Adds Beyond a Business-License Captura de Pantalla
+## Qué aporta AutoBridge más allá de una captura de licencia comercial
 Un escáner de licencia demuestra que existe una empresa, no que puede exportar * su vehículo*. Esta guía recomienda comprobar la contraparte contra la lista calificada de MOFCOM de **ayer-year MOFCOM** (2026 application under 商办贸函  economías 2025 Ø 408 号; Licencia de pasajeros de vehículos puros de 2026-01-01 bajo el anuncio conjunto No. 54), reconstruye la cadena ** de autorización de marca al OEM**, y ejecuta un **contrato/invocación/nombre de cuenta bancaria** antes del depósito — los tres cheques que distinguen a un exportador autorizado de un shell comercial.
 ## Un secuencial práctico de ocho pasos
 

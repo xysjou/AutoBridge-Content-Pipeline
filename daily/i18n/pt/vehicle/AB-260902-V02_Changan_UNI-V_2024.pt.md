@@ -26,7 +26,7 @@ Ao contrário de um EV de um único trem, a decisão de compra do UNI-V começa 
 | 1.5T (Blue Whale NE) | Turbo L4 gasolina | 138 kW (188 PS) 300 N·m | 7-speed embreagem dupla húmida (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
 | 2.0T | Turbo L4 gasolina | 171 kW (233 PS) 390 N·m | 8-speed automática conversor de binário (8AT) | 215 km/h | 6.9 L/100 km |
 
-O 1.5T Azul Os números de baleias e os 7DCT são ** VERIFIED** contra o site oficial de Changan e são combinados pelas bases de dados de veículos. A saída 2.0T, 8AT e sua figura de combustível são CRUSS_CHECKED em PCauto e Autohome. Note a diferença deliberada da caixa de velocidades: o 1.5T usa um duplo-clutch molhado enquanto o 2.0T usa um automático convencional 8-speed – uma distinção significativa para compradores de frota que preferem durabilidade do conversor de torque, e algo para indicar explicitamente na ordem de compra em vez de assumir "automático significa a mesma caixa de velocidades".
+O 1.5T Azul Os números de baleias e os 7DCT são ** confirmado por fonte primária** contra o site oficial de Changan e são combinados pelas bases de dados de veículos. A saída 2.0T, 8AT e sua figura de combustível são CRUSS_CHECKED em PCauto e Autohome. Note a diferença deliberada da caixa de velocidades: o 1.5T usa um duplo-clutch molhado enquanto o 2.0T usa um automático convencional 8-speed – uma distinção significativa para compradores de frota que preferem durabilidade do conversor de torque, e algo para indicar explicitamente na ordem de compra em vez de assumir "automático significa a mesma caixa de velocidades".
 
 Os valores de consumo de combustível acima usam o ciclo **WLTC**, conforme publicado em tabelas de configuração chinesas; os valores reais e de teste de destino serão diferentes, então use-os para comparação relativa entre aparas, não como um número garantido no mercado.
 
@@ -75,7 +75,7 @@ Não há preço de exportação estático AutoBridge. O RMB 108, 900–139, 900 
 
 ** Qual é a diferença entre eles?** Nas tabelas chinesas da WLTC,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; a distância entre eixos de 2750 mm é constante.
+**Porque é que o comprimento difere entre as fontes?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; a distância entre eixos de 2750 mm é constante.
 
 ** Posso assumir que o carro China atende ao padrão de emissão do meu país?** Não — a conformidade com as emissões, o grau de combustível e a garantia devem ser verificados para o mercado de destino antes de encomendar.
 

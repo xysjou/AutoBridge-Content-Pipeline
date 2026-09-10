@@ -25,7 +25,7 @@ O Lingzhi M5 é um utilitário van de tração dianteira / comercial MPV constru
 | Distância entre eixos | 3000 mm | 2800 mm |
 | Disposição dos assentos oferecida | 7 9 lugares | 5 7 8 lugares |
 
-Dimensões, distâncias entre eixos e layouts de assentos são ** VERIFIED** contra a página de parâmetros oficiais Forthing e combinados pelas bases de dados. O corpo alto e quase vertical (1970 mm altura) é uma caixa de carga/pessoas deliberadas — o volume interior útil é o objetivo do projeto. Confirme a contagem exata de assentos, porque o mesmo " M5L " rótulo cobre tanto 7- e 9-seat construções.
+Dimensões, distâncias entre eixos e layouts de assentos são ** confirmado por fonte primária** contra a página de parâmetros oficiais Forthing e combinados pelas bases de dados. O corpo alto e quase vertical (1970 mm altura) é uma caixa de carga/pessoas deliberadas — o volume interior útil é o objetivo do projeto. Confirme a contagem exata de assentos, porque o mesmo " M5L " rótulo cobre tanto 7- e 9-seat construções.
 
 ## Compressores de potência — Turbo a gasolina vs GNC naturalmente aspirado
 

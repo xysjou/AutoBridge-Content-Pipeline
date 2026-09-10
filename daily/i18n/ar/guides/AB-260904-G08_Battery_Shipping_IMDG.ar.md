@@ -1,4 +1,4 @@
-# Shipping an Electric Vehicle by Sea Under IMDG 42-24: UN3556, UN3171 and the Spare-Battery Distinction
+# شحن مركبة كهربائية بحرًا بموجب IMDG 42-24: UN3556, UN3171 and the Spare-Battery Distinction
 
 ## بيانات SEO الوصفية
 - **عنوان SEO**: EV  Sea Freight Under  IMDG  42-24 —  UN3556/3557/3558  vs  UN3480/3481

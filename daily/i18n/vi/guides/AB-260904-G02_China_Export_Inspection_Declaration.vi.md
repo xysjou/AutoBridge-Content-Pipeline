@@ -14,7 +14,7 @@
 - **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 
 ## Câu hỏi không có câu trả lời độc thân
-"Có cần kiểm tra phương tiện của Trung Quốc trước khi xuất khẩu không?" Một cái chăn "tất cả xe đều phải" hay "không cần xe" là câu trả lời sai. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, đọc ngược lại với ** hiện thời *Ctatal of Import  and  Xuất chủ đề xã hội để kiểm tra thông tin.  and  Đó là mật mã của **customs giám sát điều kiện kiểm tra-và-trarantine loại**. Trang này thiết lập khung xuất khẩu bên Trung Quốc và phương pháp quyết định; Nó không xác nhận kết quả danh mục cho một mã mà nó chưa kiểm tra trực tiếp. Kết quả là do đó **bằng chứng điều kiện**: khung hình pháp lý đã được xác nhận, nhưng mỗi xe phải xác nhận danh mục mỗi mã vào thời điểm khai báo.
+"Có cần kiểm tra phương tiện của Trung Quốc trước khi xuất khẩu không?" Một cái chăn "tất cả xe đều phải" hay "không cần xe" là câu trả lời sai. Việc một lô hàng cụ thể có thuộc diện **export statutory inspection** is determined by **its exact ten-digit HS code**, đọc ngược lại với ** hiện thời *Ctatal of Import  and  Xuất chủ đề xã hội để kiểm tra thông tin.  and  Đó là mật mã của **customs giám sát điều kiện kiểm tra-và-trarantine loại**. Trang này thiết lập khung xuất khẩu bên Trung Quốc và phương pháp quyết định; Nó không xác nhận kết quả danh mục cho một mã mà nó chưa kiểm tra trực tiếp. Kết quả là do đó **bằng chứng điều kiện**: khung hình pháp lý đã được xác nhận, nhưng mỗi xe phải xác nhận danh mục mỗi mã vào thời điểm khai báo.
 
 ## Khung hành pháp (đã sửa)
 Dưới Luật kiểm tra và Kiểm tra Cộng đồng * và các quy định thực hiện của nó, xuất khẩu hàng hóa được đặt vào danh mục quy định thông thường **phải được gửi đi để kiểm tra**, và hàng hóa không được kiểm tra — hoặc không kiểm tra — ** có thể không được xuất khẩu** Theo nguyên tắc, việc kiểm tra hàng xuất khẩu là thực hiện tại nơi sản xuất **, trừ khi phong tục chỉ ra một địa điểm khác. Kiểm tra mật khẩu bao gồm hàng hóa được liệt kê trong danh mục **và** hàng hóa mà các luật khác/sự phân loại khác cần phải được kiểm tra. Hàng hóa bên ngoài danh mục rơi dưới 抽查检验)**; 2024 GACC Thông báo Không. 163 đặt phạm vi ngẫu nhiên ngẫu nhiên-trong-tiểu ngữ, mà cho **exports chỉ liệt kê đồ chơi trẻ em**.
@@ -43,7 +43,7 @@ PSI được đánh dấu bởi người mua là một kiểm tra thương mại
 - Bộ phận PSI thứ ba không bao giờ được mô tả là thanh tra quy định; Giấy phép lái xe không bao giờ được miêu tả là thanh tra.
 
 ## Những câu hỏi thường xuyên
-**Do all exported cars need statutory inspection?** There is no blanket rule — fix the ten-digit HS code  and  Kiểm tra mục lục hiện thời  and  Điều kiện giám sát xuất khẩu của mã đó.
+**Do all exported cars need statutory inspection?** There is no blanket rule — xác định mã HS mười số, vàểm tra mục lục hiện thời  and  Điều kiện giám sát xuất khẩu của mã đó.
 Nếu mã không có trong danh mục thì sao? Nó được xử lý một cách ngẫu nhiên (2024 No. 163 vượt ra khỏi danh sách các loại hàng hóa của trẻ em) không tự động kiểm tra tư pháp, và điều đó đòi hỏi một điều kiện pháp lý khác.
 **Người mua có thay thế PSI không? Không, đó là những nghĩa vụ riêng biệt.
 Giấy phép xuất khẩu BV có giống như kiểm tra không? Không, từ 2026-01-01 xe chở điện năng hành khách bị kiểm tra bằng đường truyền, một chế độ song song đến kiểm tra quy luật.

@@ -15,7 +15,7 @@
 
 ## บทบาทและบรรทัดขึ้น
 
-The Delong (德龙) X3000 is Shacman's volume **heavy dump/tipper platform**, ส่งออกไปทั่วแอฟริกา ตะวัน ออก กลาง  and  ตลาดคนพูดรัสเซีย The reference China build is the **430 PS 8×4 with a 7.6 m body, ประกาศ SX33105C406B ** (พ.ศ. the family also spans 6×4/8×4  and  roughly 375–550 PS,  with China V/China VI  and  เบี้ยล่าง (เช่น) ยูโรที่ II-คลาส) สร้างความสามัคคีกัน สําหรับตลาดปลายทางที่แตกต่างกัน อย่างเป็นทางการ). 400 PS 6 – 4 รุ่นที่ส่งออก (PDF) ได้รับการยืนยันโดย Shackman. Detailed China announcement figures come from (single-source where marked); เรตติ้งส่งออกอย่างเป็นทางการ 360che
+The Delong (德龙) X3000 is Shacman's volume **heavy dump/tipper platform**, ส่งออกไปทั่วแอฟริกา ตะวัน ออก กลาง  and  ตลาดคนพูดรัสเซีย รุ่นอ้างอิงที่ผลิตในจีนคือ **430 PS 8×4 with a 7.6 m body, ประกาศ SX33105C406B ** (พ.ศ. the family also spans 6×4/8×4  and  roughly 375–550 PS,  with China V/China VI  and  เบี้ยล่าง (เช่น) ยูโรที่ II-คลาส) สร้างความสามัคคีกัน สําหรับตลาดปลายทางที่แตกต่างกัน อย่างเป็นทางการ). 400 PS 6 – 4 รุ่นที่ส่งออก (PDF) ได้รับการยืนยันโดย Shackman. Detailed China announcement figures come from (single-source where marked); เรตติ้งส่งออกอย่างเป็นทางการ 360che
 
 ## อ้างอิงสร้าง: 430 PS 8 × 4 (จีน)
 
@@ -48,7 +48,7 @@ Unknown-chock มักจะเบลอไปเสมอ เครื่อ�
 ## จิบและชาซิสเช็คสําหรับนักซื้อ
 
 - ~และไฮโดรมิเตอร์~ confirm body length (7.6 m reference), บนกระดาน ระดับเหล็กกล้า ด้านหลังของปลายขา  and  capaccity; ศพมักถูกสร้างมาเพื่อสั่งอาหาร
-- ~และไดรฟ์สุดท้าย~ the reference uses MAN-type double-reduction axles at 5.262 — suited to loaded/grade work; ยืนยันอัตราส่วนกับเส้นทางและขนาดยาง (12.00R20, 12 ยางบน 8 x 4).
+- ~และไดรฟ์สุดท้าย~ รุ่นอ้างอิงใช้เพลาลดรอบสองชั้นแบบ MAN ที่ 5.262 — suited to loaded/grade work; ยืนยันอัตราส่วนกับเส้นทางและขนาดยาง (12.00R20, 12 ยางบน 8 x 4).
 - ** versions ~: re-conserved 31 t GVW และ 15.37 t อัตราการจ่ายที่เพิ่มขึ้นกับ ปลายทาง axle-load และ rule overputation rule; elquippment เปลี่ยนแปลงน้ําหนักตามมาตราฐาน
 - ~ผังผังการวิ่ง~: เลือก 6 × 4 vs 8 x 4 โดยอุปทานตามกฏหมายและสภาพถนน; the 8×4 spreads load over four axles.
 - ~กล่อง~: reference is a manual Fast 12-speed (13-speed on some China VI) — confirm transmission model  and  สเปก AMT/AOTOA - ไม่เชื่อ

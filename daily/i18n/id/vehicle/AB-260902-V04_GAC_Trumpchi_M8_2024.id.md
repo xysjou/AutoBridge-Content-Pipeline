@@ -26,7 +26,7 @@ Cina membagi M8 menjadi tiga seri yang berbeda dalam ukuran, roda dan kalibrasi 
 | 宗师 Grandmaster 大师 Guru | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Daya keluaran identik pada 185 kW, tapi Grandmaster Master kalibrasi puncak di 400 N·m melawan 390 N·m untuk Lingxiu 390T - kecil tapi perbedaan nyata yang tidak boleh diratakan menjadi satu "M8 torque". Dimensi dan roda Grandmaster adalah ** VERIFIED ** terhadap halaman resmi GAC; nilai Lingxu adalah cross- diperiksa melalui Autohome Yiche.
+Daya keluaran identik pada 185 kW, tapi Grandmaster Master kalibrasi puncak di 400 N·m melawan 390 N·m untuk Lingxiu 390T - kecil tapi perbedaan nyata yang tidak boleh diratakan menjadi satu "M8 torque". Dimensi dan roda Grandmaster adalah ** dikonfirmasi sumber primer ** terhadap halaman resmi GAC; nilai Lingxu adalah cross- diperiksa melalui Autohome Yiche.
 
 ## Spesifikasi Mekanik (Versions Petrol)
 

@@ -50,7 +50,7 @@ Un sac de composants marqués E ne correspond pas à un WVTA pour véhicule enti
 **Quelle est la différence entre WVTA et un CdC?** WVTA approuve le type de véhicule dans toute l'UE; un CdC certifie que chaque unité correspond à ce type homologué.
 **Est-ce que e-mark et E-mark sont les mêmes?** Non — Le point e rectangulaire est lié aux homologations UE pour véhicules entiers/CE; la circulaire E est l ' homologation CEE-ONU 1958 des composants/systèmes entre les parties contractantes.
 **Le marquage électronique sur les pièces approuve-t-il l'ensemble du véhicule?** Non; les marques des composants supportent mais ne remplacent jamais l ' homologation de type pour tout véhicule.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+**Do I need a local representative for EAEU approval?** OTTS/Les dispositifs EAC exigent généralement un représentant autorisé au sein de l'Union — confirm the current TR CU 018 text.
 
 ## Enregistrement d'image
 - IMAGE_ASSET_PATH: none secured in repository

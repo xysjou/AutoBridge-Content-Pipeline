@@ -30,7 +30,7 @@ Para um anúncio comercial a diesel, os compradores devem comparar o grau de bin
 ## Chassi, base de roda e matriz corporal
 - Exemplo de corpo padrão L×W×H: **5498 2062 2535–2545 mm**; existem também corpos mais longos.
 - Distância entre eixos: ** 3366 mm/3760 mm **.
-- **Sede da versão do passageiro: 9–15, estritamente de acordo com o modelo homologado (single-source; confirm on the anuncio model code)**.
+- **Sede da versão do passageiro: 9–15, estritamente de acordo com o modelo homologado (single-source; confirmar no anúncio o código do modelo)**.
 - Altura do telhado, disposição da porta deslizante/rear, carga vs interior do passageiro e variantes chassi-cab mudar a categoria de uso e licenciamento da classe GVW.
 
 Como a distância entre eixos, o teto, os bancos e a escolha do eixo traseiro combinam-se em muitos códigos homologados, uma linha específica copiada de um V90 não pode ser aplicada a outro — peça a folha de construção para o código do modelo preciso antes de citar.

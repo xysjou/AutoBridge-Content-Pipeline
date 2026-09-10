@@ -21,7 +21,7 @@
 | LFP 语言 刀锋电池 | 8.32 kWh  | 18.32 kWh  |
 | 仅电范围 | 55 km NEDC 46 km WLTC 电磁器 | 120 km NEDC 101 km WLTC 电磁器 |
 | 0–100 km/h | 7.9 s | 7.3 s |
-大型战车的145 kW/197 PS输出及其~18.3 kWh包在**BYD自己的巴林地区秦加DM-i页面(en-bh, VRIFIED,范围限于该命名型号)上得到证实**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC)在中国数据库(CROSS_CHECKED)中进行交叉检查. 120型机车的车速更快,车速更重(120KM 领先型型机车的车厢~1620 kg).
+大型战车的145 kW/197 PS输出及其~18.3 kWh包在**BYD自己的巴林地区秦加DM-i页面(en-bh, VRIFIED,范围限于该命名型号)上得到证实**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC)在中国数据库(经独立来源交叉核对)中进行交叉检查. 120型机车的车速更快,车速更重(120KM 领先型型机车的车厢~1620 kg).
 ## 引擎和操作模式(PHEV特定问题)
 - ** 工程**: 1.5L 自然呼吸L4, 81 kW(110 PS) 135 N·m 
 - ** Transmission**:E-CVT单速电动连续变速驱动器——没有多步变速箱可调试.
@@ -43,7 +43,7 @@
 不公布静态出口价格;人民币79元,800–125元,800元. 中国荣耀版指南价格是**国内,时间性强的参考,不是FOB/CIF图**. 查询** 目的地港 · 数量 · 版本(55/120)和级别 · LHD/RHD · 目的地港 · Incoterm**。
 ## 经常被问到的问题
 ** 55号与120号有什么不同? ** 120型机车拥有18.32 kWh个电池,较强的145 kW型机车,电距较长,加速更快;55型机车使用8.32 kWh型和132 kW型.
-**Is the 1.5L the main drive unit?** In DM-i it is mainly a generator/assist; 电动机提供主驱动。
+**Is the 1.5L the main drive unit?** 在DM-i系统中它主要充当发电机/assist; 电动机提供主驱动。
 为何有两个电程号码? 中国标注NEDC和WLTC(120 NEDC = 101 WLTC);始终引用周期.
 ** 1245 km 电场? ** 不——是合用燃料+电池的中国数字;电机单机最多120 kmNEDC.
 ** 是在国外出售的? ** BYD在部分海外市场页面上呈现秦国加DM-i;使用目的地官方表. 任何不同的导出名牌都需要明确的BYD确认——一个相关的外观BYD PHEV被假定为不是同一个型号.

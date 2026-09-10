@@ -14,7 +14,7 @@
 - **Alcance del esquema**: Artículo + Vehículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## Contexto del comprador: un cabezal de tractor es especificado por la cadena de Powertrain y la pesa de tren
-Los compradores de filo pesado no compran listas de equipos — especifican una cadena **engine–gearbox–axle que coincide con un peso combinado bruto**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. El error recurrente en este modelo es confuso la potencia **rada con la figura net power**,  or blending the 465 PS tractor with the 430/520/560 PS  and  Variantes de gas. Esta página documenta el tractor **Chino-mercado DDi11E465-60 (REFERENCIA MARKET: CHINA)**; no se captó ningún folleto primario OEM, por lo que los valores comerciales cruzados deben confirmarse contra el anuncio MIIT.
+Los compradores de filo pesado no compran listas de equipos — especifican una cadena **engine–gearbox–axle que coincide con un peso combinado bruto**. El Tianlong KL es la versión para China de Dongfeng6 heavy semi-tractor. El error recurrente en este modelo es confuso la potencia **rada con la figura net power**,  or blending the 465 PS tractor with the 430/520/560 PS  and  Variantes de gas. Esta página documenta el tractor **Chino-mercado DDi11E465-60 (REFERENCIA MARKET: CHINA)**; no se captó ningún folleto primario OEM, por lo que los valores comerciales cruzados deben confirmarse contra el anuncio MIIT.
 
 ## Motor (centro de la cubierta pesada: motor, caja de cambios, eje, GCW, cabina, chasis)
 | Tema | Tianlong KL 465 (Referencia China) |

@@ -27,7 +27,7 @@
 | **CHAdeMO******(アデモ)** | 日本とセレクト市場 | 日本での原産 |
 | ナックス** | 北アメリカ | 北米(2026のロールアウトタイミングが正式に検証されていない)の展開 |
 
-これらのDCコネクタは、**物理的に相互に互換性がない**です。 you cannot plug a GB/T gun into a CCS2 socket. AC(夜遅く)の入口は市場によって同様に異なります  and  must be checked separately — a car may fast-charge on one standard while its AC inlet still needs attention.
+これらのDCコネクタは、**物理的に相互に互換性がない**です。 you cannot plug a GB/T gun into a CCS2 socket. AC(夜遅く)の入口は市場によって同様に異なります  and  must be checked separately — ある規格で急速充電できても、AC充電口の確認は別途必要な場合がある.
 
 ## 実務における「中国市場GB/T」の意味
 

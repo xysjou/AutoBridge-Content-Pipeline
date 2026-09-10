@@ -39,7 +39,7 @@ Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra tron
 ## Chuẩn T9 chống lại T9L — Không trộn
 - ** Trang này: chuẩn T9 **, 4795 mm 2770 mm bánh xe.
 - **Excded: T9L **, khoảng 4870 mm với một chiếc xe 2920 mm bánh. Nó là một phương tiện xe đạp dài hơn; trộn kích thước hoặc chỗ ngồi của nó vào một thứ tự chuẩn T9 là một lỗi cấu hình.
-- Khoảng cách bước và bố trí chỗ ngồi thay đổi theo thứ tự ưu tiên; the 120–220 km spread is not a single number for one car.
+- Khoảng cách bước và bố trí chỗ ngồi thay đổi theo thứ tự ưu tiên; the 120–220 dải km này không phải một con số duy nhất cho một chiếc xe.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
 1. **Body phiên bản** — Tiêu chuẩn T9, không bao giờ âm thầm thay thế với T9L.

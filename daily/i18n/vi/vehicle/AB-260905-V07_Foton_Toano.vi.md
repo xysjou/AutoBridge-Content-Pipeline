@@ -21,7 +21,7 @@
 - ** Bánh xe dài **: 3510（X5长轴）/3750（经典长轴，车长5990×2000） mm.
 - ** 2.5T mô-men xoắn động cơ**: 400 N·m; hộp số 6MT.
 - **Shats**: 3/5/6/7/9/14/15/17 (随版本).
-- **Bản hiệu đảo ngược**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, Không phải đặc điểm của chiếc xe.
+- **Bản hiệu đảo ngược**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — thùng đông lạnh là một trang bị lắp thêm (upfit), Không phải đặc điểm của chiếc xe.
 
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |

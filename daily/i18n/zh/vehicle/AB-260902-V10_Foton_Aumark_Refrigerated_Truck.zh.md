@@ -66,9 +66,9 @@ Reefer经常引用底盘的价格,并留下盒子和冷却单位模糊. 建议�
 
 ## 买家 FAQ
 
-**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box  and  制冷装置增加大量阻塞重量(~3.2 t), 离开~1.1 t;
+**为什么载质量只有约 1.1 t on a 4.495 t truck?** The insulated box  and  制冷装置增加大量阻塞重量(~3.2 t), 离开~1.1 t;
 ** “独立/独立单位”是什么意思? ** 它拥有独立于卡车发动机的自身发动机和冷却器——对于长途运输以及停放时有用;车辆驱动的装置价格较低,但停止与发动机冷却.
-最好还是这样  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  预算。
+最好还是这样  Yunnei or Cummins power?** 参考款捷运搭载云内 2.5 L 150 PS; 速运版搭载福田康明斯 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  预算。
 列出的国内三丰590目标——18 °C个冻结工作;可实现的设定点取决于选定的单元和绝缘,请具体说明。
 ** ** 珊瑚礁的成本严重依赖箱和冷却装置;没有掌握可靠的2026-09-02价格,也不会估计一个价格。
 

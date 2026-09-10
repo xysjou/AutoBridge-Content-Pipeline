@@ -14,7 +14,7 @@
 - **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 조달 문제는 화물 통제, Paperwork 아닙니다
-수출업체는 문서로 청구서의 선택사항을 취급합니다. ** 결제 -risk 결정 **: 원래 양도 청구서에서 텔레스 릴리스 또는 바다 방법 청구로 이동하면 목적지에서 차량을 제어 할 때 변경됩니다. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ** 14th NPC 서 있는위원회 18th 세션에 의해 2025-10-28에 도달 (일반 주문 번호 58), 2026-05-01 장에서 힘 (16 장, 310 기사)** —  and  그 후 결제 조건에 맞는 메소드를 일치합니다. Carrier/port-specific telex 규칙과 수수료는 voyage-specific을 유지하고 고정 값으로 명시되지 않습니다.
+수출업체는 문서로 청구서의 선택사항을 취급합니다. ** 결제 -risk 결정 **: 원래 양도 청구서에서 텔레스 릴리스 또는 바다 방법 청구로 이동하면 목적지에서 차량을 제어 할 때 변경됩니다. 본 가이드는 네 가지 제도의 업무 행태를 다음과 연결한다 **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ** 14th NPC 서 있는위원회 18th 세션에 의해 2025-10-28에 도달 (일반 주문 번호 58), 2026-05-01 장에서 힘 (16 장, 310 기사)** —  and  그 후 결제 조건에 맞는 메소드를 일치합니다. Carrier/port-specific telex 규칙과 수수료는 voyage-specific을 유지하고 고정 값으로 명시되지 않습니다.
 
 ## 4가지 서류 나란히 비교
 | 의 특징 | 누가 문제 | 위탁자가 어떻게 납품을 얻고 | Shipper는 제목의 종이 문서를 보유하고 있습니까? |

@@ -16,7 +16,7 @@ Tanzania is a single-country market with a deliberately two-track import system,
 
 ## TBS:PVoCと適合証明書
 
-TBS operates the Pre-Export Verification of Conformity (**PVoC**) programme under section **4(1)(s) of the Standards Act No.2 of 2009**. 機構は前荷を下す: 商品の発送前に、PVoC で調整された委託は、商品がタンザニアに配送される前に、適合性(CoC)の証明書を取得しなければなりません**。 TBSは、CoCなしでタンザニアの港に到着する規制された商品を公正に述べています**拒否または罰**。 実際の事前出荷作業 — 物理的検査、関連性のある検査、文書審査、必要な場所の検査、工場点検、TBS認証検査機関による検査を実施します。
+TBSは輸出前適合性検証（PVoC）を運用する (**PVoC**) programme under section **4(1)(s) of the Standards Act No.2 of 2009**. 機構は前荷を下す: 商品の発送前に、PVoC で調整された委託は、商品がタンザニアに配送される前に、適合性(CoC)の証明書を取得しなければなりません**。 TBSは、CoCなしでタンザニアの港に到着する規制された商品を公正に述べています**拒否または罰**。 実際の事前出荷作業 — 物理的検査、関連性のある検査、文書審査、必要な場所の検査、工場点検、TBS認証検査機関による検査を実施します。
 
 ### 中古車は専用のPVoCカテゴリです
 
@@ -29,10 +29,10 @@ TBS operates the Pre-Export Verification of Conformity (**PVoC**) programme unde
 TRAの公式輸入手続きのガイダンスによると、輸入は**東アフリカコミュニティ税関管理法(EACCMA)2004でクリアされています。 実用的なシーケンスは:
 
 1. 輸入業者は、**ライセンスされたクリアリングとフォワーディングエージェント(CFA)**を任命します。
-2. ※「タンザニア」税関統合システム(TANCIS)による宣言はオンライン化** (本土)  and  Zanzibarの)、  and  agents are asked to lodge documents **at least seven days before the goods arrive**.
+2. ※「タンザニア」税関統合システム(TANCIS)による宣言はオンライン化** (本土)  and  Zanzibarの)、  代理店は書類を提出するよう求められる **貨物到着の少なくとも7日前**.
 3. インポート文書セットには、最終的な請求書、エージェントの認可、輸送文書(B/L、AWB、道路委託ノート)、梱包リスト、任意の免除文書、および — 明示的に — * これらの間で名前付けされた他の政府機関、TBSから許可します**。
 
-That last point is where the two tracks meet: TBS CoCは任意平行のpaperworkではないです; 税関ファイルが期待する許可の中にあります。 TRAは別々に「自動車登録」**(所有権変更および関連登録事項)を実行します。これは、輸入義務プロセス自体ではなく、明確で後処理ステップです。
+最後の点が二つのトラックの合流箇所である: TBS CoCは任意平行のpaperworkではないです; 税関ファイルが期待する許可の中にあります。 TRAは別々に「自動車登録」**(所有権変更および関連登録事項)を実行します。これは、輸入義務プロセス自体ではなく、明確で後処理ステップです。
 
 ## このガイドが意図的に何であるかは、番号をしない
 

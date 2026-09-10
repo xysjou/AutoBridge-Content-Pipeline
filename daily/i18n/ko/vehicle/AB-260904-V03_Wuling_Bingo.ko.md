@@ -13,8 +13,8 @@
 - **ALT 텍스트**: Wuling Bingo 작은 전기 hatchback 중국 spec
 - **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
-## 구매자 Context: a City BEV Sold in Three Range Steps
-The Bingo is Wuling's five-door small electric hatchback, 도시를 향해  and  light-commercial 개인 사용. 수출상에 대한 결정적인 변수는 **range step**, 때문에 모터 파워, 배터리 및 최고 속도 모두 변경으로. 이 장은 ** 중국 시장 2024 선 (REFERENCE 시장: 중국)**; OEM 해외 페이지 없이, 중국 그림은 기준, 세계적인 명세 아닙니다입니다.
+## 구매자 Context: 세 가지 주행 단계로 판매되는 도시형 BEV
+빙고(Bingo)는 우링의 5도어 소형 전기 해치백이다, 도시를 향해  and  light-commercial 개인 사용. 수출상에 대한 결정적인 변수는 **range step**, 때문에 모터 파워, 배터리 및 최고 속도 모두 변경으로. 이 장은 ** 중국 시장 2024 선 (REFERENCE 시장: 중국)**; OEM 해외 페이지 없이, 중국 그림은 기준, 세계적인 명세 아닙니다입니다.
 
 ## EV 핵심: 건전지, 범위 주기, 위탁
 | 제품 정보 | 203 km (입사) | 333 410 km |
@@ -52,7 +52,7 @@ The Bingo is Wuling's five-door small electric hatchback, 도시를 향해  and 
 정적 수출 가격 없음. 중국 2024 시작 가이드 가격 (RMB 56,800)은 ** 돔, 시간 과민한 참고, FOB/CIF** 아닙니다. ** 목적지 항구 · Incoterm**에 문의하십시오.
 
 ## 자주 묻는 질문
-**How many range versions are there?** Three documented CLTC steps — 203,  333  and  410 km - 다른 모터와  and  배터리 사양.
+**주행 버전은 몇 가지인가?** Three documented CLTC steps — 203,  333  and  410 km - 다른 모터와  and  배터리 사양.
 **모든 빙고 50 kW ** 아니오; 203 km 입장 차는 30 kW 모터를, 333/410 버전 사용 50 kW 사용하면서 사용합니다.
 **석은 몇 개입니까? ** 문서화 된 항목 레이아웃은 4 석 (2+2); 선택된 버전 좌석이 5인인지 확인합니다.
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, 중국 적용 당); 해외 연결관 유형은 검사되어야 합니다.

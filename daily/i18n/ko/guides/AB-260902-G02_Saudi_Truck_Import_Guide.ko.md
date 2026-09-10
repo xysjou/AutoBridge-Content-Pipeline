@@ -31,7 +31,7 @@ The subheading (not just the four-digit heading) matters: 팁퍼, 트랙터 단�
 ## 단계 4 - 선적 및 세관 (Fasah), 한 VIN 마스터 목록
 인증서 경로가 알려지면, 정리는 사우디 세관을 통해 보관됩니다. ** Fasah** 단일 창 및 SABER 규제 위탁 위탁을 위해 선적 증명서는 송장/B/L.에 묶입니다. 인증서가 적용된 교차, 청구서, 포장 목록, B/L, 인증번호  그리고 포좌 판은에서 건축되어야 합니다 **one VIN/chassis-number master list**  and  재검사 전 - 인증된 모델의 잡화  and  배송된 단위는 가장 일반적인 피할 수 있는 파악입니다. 사우디 아라비아 GCC는 ** 왼쪽 드라이브 (LHD) **, 중국 LHD 트럭과 일치하지만 조명, 속도계 단위 및 아랍 라벨링은 여전히 적용 가능한 요구 사항을 충족해야합니다.
 ## ZATCA: 빛 차량 그림은 트럭 관세가 아닙니다.
-사우디 세금 고객 기관 **ZATCA**는 차량 지도와 계산기를 발행합니다. 5% 세관 의무 및 15% VAT (VAT on the Duty-inclusive value)**는 계산기의 ** 승인 가능한 빛 차량 passenger 범위** (ZATCA 공공지도, 2026; CROSS_CHECKED 및 **scope-limited to that light-vehicle category**)를 나타냅니다. 그것은 **** 상업 트럭에 똑바로 수행해야:
+사우디 세금 고객 기관 **ZATCA**는 차량 지도와 계산기를 발행합니다. 5% 세관 의무 및 15% VAT (VAT on the Duty-inclusive value)**는 계산기의 ** 승인 가능한 빛 차량 passenger 범위** (ZATCA 공공지도, 2026; 독립 자료로 교차 확인 및 **scope-limited to that light-vehicle category**)를 나타냅니다. 그것은 **** 상업 트럭에 똑바로 수행해야:
 1. ** 정확한 HS 코드** (Step 1);
 2. 그 하위 헤드에 대한 ** 현재 ZATCA GCC 관세 선을 읽으십시오 ** - 상품 차량, 트랙터 및 특수 목적의 헤드는 모든 승객 요금을 공유하지 않습니다.
 3. 적용 ** 해당 세관에 VAT ** 그 코드에 대한.

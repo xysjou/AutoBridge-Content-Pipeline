@@ -60,7 +60,7 @@ Used-vehicle listings (a directory/listing classified source) show sample kerb m
 ## 财务问题
 **庆铃KV100属于什么车辆类别？**
 
-It is a cab-over N2 blue-plate light truck with GVW at or below 4.5 t, 通常装有约4.2–4.3米的货车。
+It is a cab-over N2 总质量不超过的蓝牌轻卡 4.5 t, 通常装有约4.2–4.3米的货车。
 
 **What engine does it use?**
 

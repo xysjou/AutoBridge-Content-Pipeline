@@ -1,4 +1,4 @@
-# China Export Customs Declaration and the Single Window Process for Vehicles
+# Declaración aduanera de exportación de China y el proceso de ventanilla única para vehículos
 
 ## Metadatos SEO
 - **Título SEO**: China Exportar la declaración de aduanas " Ventana única para los buques de vehículos

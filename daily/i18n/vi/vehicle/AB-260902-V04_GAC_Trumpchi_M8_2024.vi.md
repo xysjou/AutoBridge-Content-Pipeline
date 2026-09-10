@@ -19,7 +19,7 @@ The Thumpchi M8 là một trung bình, đơn giản là doanh nghiệp MPV/gia �
 
 ## Quyết định đầu tiên: Giải nào
 
-China splits the M8 into three series that differ in size, bánh xe cơ sở  and  Độ cân đối mô-men xoắn, Vì vậy, tên loạt phải xuất hiện trên mỗi thứ tự:
+China splits the M8 thành ba dòng khác nhau về kích thước, bánh xe cơ sở  and  Độ cân đối mô-men xoắn, Vì vậy, tên loạt phải xuất hiện trên mỗi thứ tự:
 
 | Series | Chiều dài | Quay | Máy | Torque |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ Với 3070 mm bánh xe (chủ nhân/ Chủ tịch) trong một cơ thể 5.2-met
 - Nếu khách hàng muốn đặc biệt có những con số tổng hợp (双擎) (双擎), yêu cầu đặc điểm riêng biệt của nó — trang này không phân biệt được pin lai/motor từ xe hơi.
 
 ## Tự động Bridge thêm điều gì ngoài cuốn Brochure
-MPV buyers are sold a "luxury seven-seater" label that hides three different series  and  Bố trí chỗ ngồi. Hướng dẫn này khuyên ghi lại các bánh xe đặc trưng **series và mô-men xoắn (400 lần 390 N·m)** trên thứ tự, chuẩn bị một **line- items-row severment list** (đã cắt/trying/massage, chân nghỉ ngơi, cửa có điện năng) vậy tỉa không phải là con bọ phục tùng, và so sánh các tòa nhà Trung Quốc với M8 tờ giấy qua đường biển GAC* trước khi sao chép các chiều hướng của Trung Quốc vào một xuất khẩu VA.
+MPV buyers are sold a "luxury seven-seater" nhãn che giấu ba dòng khác nhau, vàố trí chỗ ngồi. Hướng dẫn này khuyên ghi lại các bánh xe đặc trưng **series và mô-men xoắn (400 lần 390 N·m)** trên thứ tự, chuẩn bị một **line- items-row severment list** (đã cắt/trying/massage, chân nghỉ ngơi, cửa có điện năng) vậy tỉa không phải là con bọ phục tùng, và so sánh các tòa nhà Trung Quốc với M8 tờ giấy qua đường biển GAC* trước khi sao chép các chiều hướng của Trung Quốc vào một xuất khẩu VA.
 ## Danh sách kiểm tra trước
 - Định nghĩa việc định nghĩa MPV này, nhưng cấu hình ổ đĩa vẫn còn quan trọng cho việc đăng ký — đọc các chứng nhận được điều khiển bằng tay ra khỏi giấy đồng tính thay vì giả sử một bố trí từ lớp học kinh doanh-PV.
 

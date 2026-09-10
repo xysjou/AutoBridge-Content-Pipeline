@@ -62,13 +62,13 @@ These figures describe the **2018-era China-5** J7. พวกเขาต้อ�
 2. เชื่อมโยงความแรง CA6SX1 ที่ถูกต้อง/ระดับการวางตัว, เกียร์ และอัตราส่วนแอกเซิลกับ USIT SKU.
 3. ดึง GCW, เพลาๆ เรียกใช้ล้อที่ห้า  and  แมสเคจ จากใบประกาศอิสรภาพ
 4. ยืนยันปลายทาง การจดจําระยะการปล่อยก๊าซ (โดยเฉพาะอย่างยิ่งสําหรับจีน- 5 หน่วย).
-5. ยืนยันการระงับอากาศ/ retrider เนื้อหาและ expect search sections for the cholection.
+5. ยืนยันการระงับอากาศ/ retrider เนื้อหาและ ตรวจสอบหัวข้อที่เกี่ยวข้องให้ครบถ้วน.
 6. Obtain search OEM language for LNG/E, RHD หรือส่งออก J7; ประนีประนอม VIN ผ่านสัญญา, ในใบประกาศ, B/L และ COC ก่อนจ่ายเงินสุดท้าย.
 
 ## ขนาด FAQ
 ** เครื่อง J7 ใช้เครื่องยนต์อะไร? ~
 
-Two generations must be kept apart: 2018-era จีน- 5 CA6DM3-55E52 ที่ 550 PS / ≈ 2300 N·m (ค.ศ.  and  the current China-6 CA6SX1 family at up to 600 PS/≈2800 N·m (exact step by SKU).
+สองเจเนอเรชันต้องแยกจากกัน: 2018-era จีน- 5 CA6DM3-55E52 ที่ 550 PS / ≈ 2300 N·m (ค.ศ.  and  the current China-6 CA6SX1 family at up to 600 PS/≈2800 N·m (exact step by SKU).
 
 "รถ 550 PS คันที่ขับมาในปัจจุบัน" ~
 

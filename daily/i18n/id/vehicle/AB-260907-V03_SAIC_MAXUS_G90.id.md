@@ -37,7 +37,7 @@ G90 ditawarkan dalam konfigurasi **enam kursi (2+2+2)** dan **tujuh kursi (2+2+3
 - konfirmasi kedua-baris kapten-kursi versus konten bangku untuk trim yang dipilih;
 - cocok dengan jumlah kursi ke sertifikat homologasi daripada gambar pemasaran.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), Menggambarkan berapa banyak ruang bagasi tergantung pada apakah baris ketiga sedang digunakan; Perlakukan angka yang tepat sebagai tiga-tergantung.
+Volume kargo dinyatakan sekitar **1010.5–2179 L** saat baris ketiga dilipat (single-source), Menggambarkan berapa banyak ruang bagasi tergantung pada apakah baris ketiga sedang digunakan; Perlakukan angka yang tepat sebagai tiga-tergantung.
 
 ## Pembeli yang besar sekali.
 

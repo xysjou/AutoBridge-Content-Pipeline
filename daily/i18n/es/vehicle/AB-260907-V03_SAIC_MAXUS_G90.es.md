@@ -37,7 +37,7 @@ El G90 se ofrece en configuraciones **six-seat (2+2+2)** y **seven-seat (2+2+3)*
 - confirmar el contenido de capitán de segunda fila contra banco para el borde elegido;
 - empareja el asiento con el certificado de homologación en lugar de una imagen de marketing.
 
-Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded (single-source), ilustre cuánto espacio de equipaje depende de si la tercera fila está en uso; tratar la figura exacta como trim-dependiente.
+El volumen de carga se indica en aproximadamente **1010.5–2179 L** con la tercera fila abatida (single-source), ilustre cuánto espacio de equipaje depende de si la tercera fila está en uso; tratar la figura exacta como trim-dependiente.
 
 ## Qué debe verificar un comprador de gran tamaño
 

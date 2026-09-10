@@ -20,7 +20,7 @@ Registrierte Unternehmen in China in einem Kredithierarchie verwaltet von die al
 
 Differenziertes Management ist der Punkt der Leiter: Unternehmen mit höherem Kredit stehen vor niedrigeren Inspektionsquoten und schnelleren Verfahren, während Unternehmen mit niedrigerem Kredit strengeren Kontrollen ausgesetzt sind. Die genauen Inspektionsprozentsätze und der aktuelle detaillierte Bewertungsstandard sind zeitsensibel und müssen aus dem aktuellen veröffentlichten Standard von GACC gelesen werden, anstatt aus dem Speicher zitiert zu werden.
 
-## Was AEO im Rahmen der WCO SAFE bedeutet
+## Was AEO im Rahmen des WCO-SAFE-Rahmens bedeutet
 
 AEO – Authorized Economic Operator – stammt aus dem im Jahr 2005. verabschiedeten SAFE Framework of Standards der WCO Die WZO definiert einen AEO als eine am internationalen Warenverkehr beteiligte Partei, deren Zollverwaltung ihn als die Einhaltung der Sicherheitsstandards für die Lieferkette eingestuft hat. Chinas Advanced Certified Enterprise ist die inländische Realisierung dieses Konzepts. Dies ist wichtig, weil AEO kein rein chinesisches Label ist: Es ist so konzipiert, dass es grenzüberschreitend anerkannt wird.
 

@@ -33,7 +33,7 @@ Bốn số dãy không phải là loại cắt ngang được: mỗi con thuộc
 
 ## Tại sao "CLTC" lại quan trọng đối với người mua xuất khẩu
 
-Những con số trong phạm vi của Trung Quốc sử dụng chu kỳ **CLTC**, một chu kỳ hào phóng hơn WLPP và hào phóng hơn nhiều so với EPA. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  yêu cầu một vòng lặp đích hoặc dữ liệu thế giới thực riêng biệt. Tương đương với một người Trung Quốc có M03 sử dụng tiêu chuẩn sạc của Trung Quốc/c; Tương thích với mạng công cộng của đích và bất kỳ kết nối thị trường xuất khẩu nào phải được kiểm tra riêng biệt và không được giả định từ đặc điểm đặc trưng của Trung Quốc.
+Những con số trong phạm vi của Trung Quốc sử dụng chu kỳ **CLTC**, một chu kỳ hào phóng hơn WLPP và hào phóng hơn nhiều so với EPA. Người mua ở nước ngoài khi quy đổi kỳ vọng nên coi 515–620 km CLTC numbers as China-cycle references  and  yêu cầu một vòng lặp đích hoặc dữ liệu thế giới thực riêng biệt. Tương đương với một người Trung Quốc có M03 sử dụng tiêu chuẩn sạc của Trung Quốc/c; Tương thích với mạng công cộng của đích và bất kỳ kết nối thị trường xuất khẩu nào phải được kiểm tra riêng biệt và không được giả định từ đặc điểm đặc trưng của Trung Quốc.
 
 ## Phần mềm, thiết bị và kỷ luật cắt tỉa
 

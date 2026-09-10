@@ -15,7 +15,7 @@
 ## Por qué un L6 está ordenado por el Código de Chasis, no por un nombre modelo
 Un camión comercial de luz china no es una especificación fija del coche de pasajeros: el **Lingpao L6 (领跑 L6, vendido bajo la línea de cable de luz 1Ka 康铃 de JAC)** es una familia *chassis* que JAC construye con varios motores, dos base de ruedas, dos clasificaciones de eje trasero y muchos cuerpos de fábrica o de autos (dropside 栏板, caja 厢式, 仓栅 Cada combinación legal lleva su propio **MIIT modelo de anuncio (公告型号)** y su propio peso rizado carga útil nominal. "Un L6 " por lo tanto no dice nada preciso hasta que se nombre el modelo de anuncio, sufijo de motor y cuerpo. Esta página separa lo que JAC publica oficialmente sobre la plataforma del anuncio único construido capturado en la base de datos comercial-vehículo, por lo que un importador puede ordenar un camión definido en lugar de un nombre.
 ## La Plataforma, por Tabla de Configuración Oficial de JAC
-Los siguientes hechos a nivel de plataforma se toman de la tabla oficial de configuración Lingpao L6 del vehículo comercial **JAC (cv.jac.cn, VERIFIED, comprobado 2026-09-03)** y son estables en toda la familia:
+Los siguientes hechos a nivel de plataforma se toman de la tabla oficial de configuración Lingpao L6 del vehículo comercial **JAC (cv.jac.cn, confirmado por una fuente primaria, comprobado 2026-09-03)** y son estables en toda la familia:
 | Tema de la plataforma | Valor oficial del Comité Mixto |
 |---|---|
 | Ancho de cabina | 1920 mm (anchura estándar 33-mid cabina), una sola hoja y mediana costra |
@@ -26,8 +26,8 @@ Los siguientes hechos a nivel de plataforma se toman de la tabla oficial de conf
 | Coeficientes de goteo final | 4.875 4.33 (4.11 en líneas seleccionadas) |
 | Familias de combustible/poder ofrecidas | Zhiwei S25 (Q25A al estilo de gasolina), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 cadena fría, YN30 gas combustible dual, Dekang 160B/C, DHE155 |
 El diesel más relevante para la exportación es el **Ankang (安康) 2.5 **, utilizando la familia Anhui-Cummins ** HFC4DE3 **. La tabla de JAC enumera tres sufijos — ** HFC4DE3-2E5 - 2EA - 2E9 — en 111 117 125 kW **, con pasos de par de ** 360 y 458 N·m **. Esto importa porque los revendedores suelen citar una sola figura " 160 hp 460 N·m" que no coincide con cada sufijo; el paso de potencia y el par debe ser leído del sufijo exacto del motor y certificado de anuncio.
-## Un representante anunció la construcción (database, CROSS_CHECKED)
-Para mostrar cómo una fila de plataforma se convierte en un camión de hormigón, la construcción capturada es el **dropside HFC1043P21K4C7S, 4 × 2 **, con cifras de 360che/ 卡车之家 datos de anuncio y un cheque cruzado de la familia JAC (CROSS_CHECKED; capturado 2026-09-02, re-checked contra la tabla JAC 2026-09-03):
+## Un representante anunció la construcción (database, contrastado de forma independiente)
+Para mostrar cómo una fila de plataforma se convierte en un camión de hormigón, la construcción capturada es el **dropside HFC1043P21K4C7S, 4 × 2 **, con cifras de 360che/ 卡车之家 datos de anuncio y un cheque cruzado de la familia JAC (contrastado de forma independiente; capturado 2026-09-02, re-checked contra la tabla JAC 2026-09-03):
 | Tema | HFC1043P21K4C7S dropside (por datos de anuncio) |
 |---|---|
 | Conducir rueda de la rueda | 4×2 3365 mm |

@@ -57,7 +57,7 @@ Three boundaries matter. 우선, 배운 공개는 규칙에 따라 자격이되�
 
 ** 현재 공차 창은 무엇입니까? 의 모든 것
 
-The current operative announcement applies from 11 October 2025 to 30 June 2027; 제출에 힘에 대한 발표에 대해 확인, 나중에 치료가 가정되지 않았기 때문에.
+현재 유효한 공고는 다음부터 적용된다 11 October 2025 to 30 June 2027; 제출에 힘에 대한 발표에 대해 확인, 나중에 치료가 가정되지 않았기 때문에.
 
 ** 배운 공개는 비금세를 면제합니까? 의 모든 것
 

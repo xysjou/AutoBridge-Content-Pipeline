@@ -51,7 +51,7 @@ Der 2800 mm Radstand und 5.5 m Wendekreisanzug Stadtverteilung. Wenn ein Käufer
 Es wird kein Ausfuhrpreis veröffentlicht. Erkundigen Sie sich bei **Zielland · Menge · Motorversion · Körpertyp · LHD/RHD · Zielhafen · Incoterm**.
 
 ## Häufig gestellte Fragen
-**Was ist die Shunda GVW  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; die genaue Nutzlast auf der MIIT-Ankündigung/-bescheinigung für die betreffende Stelle zu bestätigen.
+**Was sind Shunda-GVW und Nutzlast?** GVW 4.27 t with rated payload around 1.93–2.0 t; die genaue Nutzlast auf der MIIT-Ankündigung/-bescheinigung für die betreffende Stelle zu bestätigen.
 **Welche Engine deckt diese Seite ab?** Der JX493ZLQ6D 2.499 L Diesel bei 90 kW (122 PS); eine 2.8 L/116 PS-Version ist eine andere Einheit.
 **Warum ist das Gewichtsbegrenzungsprinzip wichtig?** Es setzt nutzbare Nutzlast und wechselt zwischen Dropside- und Box-Van-Körpern - teilen Sie keine Nutzlast über Körper hinweg.
 **Ist der China-6 LKW für meinen Markt zugelassen?** Nicht automatisch; Bestimmungsemission und Typgenehmigung sind getrennt.

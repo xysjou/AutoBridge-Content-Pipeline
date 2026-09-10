@@ -29,7 +29,7 @@ The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling
 | Output | 120 PS / 290 N·m | single source — VIN/OEM에 의해 확인|
 | 기어박스 | MSB 5-speed 설명서 (5MT) | single source |
 
-The 4KH1 family exists in more than one suffix with different outputs,  and  두 번째 독립적 인 보고서는 다른 4KH1 스프 딕스 등급을 참조합니다. 그것은 정확히 왜 전체 엔진 코드 - ** 4KH1CN6LB **, 단순히 "4KH1"- MIIT 균질화 항목에 일치 순서로 작성해야합니다. 중국-6 디젤은 중국 연료와 국가 VI 단계에 대한 측정; 대상 연료 등급 및 배출 인식은 가정보다 별도로 확인해야합니다.
+The 4KH1 패밀리에 출력이 다른 접미사가 둘 이상 존재,  and  두 번째 독립적 인 보고서는 다른 4KH1 스프 딕스 등급을 참조합니다. 그것은 정확히 왜 전체 엔진 코드 - ** 4KH1CN6LB **, 단순히 "4KH1"- MIIT 균질화 항목에 일치 순서로 작성해야합니다. 중국-6 디젤은 중국 연료와 국가 VI 단계에 대한 측정; 대상 연료 등급 및 배출 인식은 가정보다 별도로 확인해야합니다.
 
 ## Payload 및 kerb 질량: 분류는 공장 데이터가 아닙니다.
 

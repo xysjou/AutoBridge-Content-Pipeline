@@ -29,7 +29,7 @@
 | Quay vòng | **5.5 m** |
 | Phát ra | Động cơ dầu khí Trung Quốc 6 |
 
-Lương nặng là con số thường gây ra nhiều vấn đề nhất: a marketing "about two-tonne" line is not a legal rating. Hàng được đánh giá cao là một trong những thông báo công khai **MIIT và của phương tiện của phù hợp**, và nó thay đổi với kiểu cơ thể (bắp đặt so với xe tải) và cân nặng lề đường.
+Lương nặng là con số thường gây ra nhiều vấn đề nhất: a marketing "about two-tonne" dòng này không phải xếp hạng pháp lý. Hàng được đánh giá cao là một trong những thông báo công khai **MIIT và của phương tiện của phù hợp**, và nó thay đổi với kiểu cơ thể (bắp đặt so với xe tải) và cân nặng lề đường.
 
 ## Kết nối Máy- hưởng ứng
 - ** JX493ZLQ6D (trang này: 2.499 L, 90 kW 122 PS.**
@@ -52,7 +52,7 @@ Không có giá xuất khẩu được xuất bản. Cần có **Diestination Co
 
 ## Những câu hỏi thường xuyên
 **Những gì của Shunda là GVW  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; xác nhận chính xác số đạn trên thông báo của MIT và ký hiệu cho cơ thể cụ thể.
-**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); Một phiên bản 2.8 L 116 PS là một đơn vị khác.
+**Trang này đề cập động cơ nào?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); Một phiên bản 2.8 L 116 PS là một đơn vị khác.
 **Tại sao việc giảm cân lại quan trọng? Nó đặt trọng tải và thay đổi dễ sử dụng giữa các cơ thể nằm trong hộp - không chia sẻ một vật chất nào trên khắp cơ thể.
 Xe tải Trung Quốc 6 có được chấp thuận cho thị trường của tôi không? Không phải tự động mà là sự phân loại và chấp thuận kiểu đích.
 

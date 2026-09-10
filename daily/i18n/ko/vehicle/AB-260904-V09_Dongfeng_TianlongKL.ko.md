@@ -14,7 +14,7 @@
 - **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
 
 ## 구매자 Context: 트랙터 머리는 Powertrain 사슬과 기차 무게에 의해 지정됩니다
-무거운 트럭 구매자는 장비 목록을 상점하지 않습니다. 그들은 총 조합 무게**에 일치 **engine-gearbox-axle 체인을 지정합니다. Tianlong KL는 Dongfeng의 중국 6 무거운 반 트랙터입니다. 이 모델의 반복 오류는 net power** Figure와 **rated power를 혼란시켜줍니다.  or blending the 465 PS tractor with the 430/520/560 PS  and  가스 변종. 이 문서는 ** 중국 시장 DDi11E465-60 트랙터 (REFERENCE MARKET: 중국)**; no OEM primary brochure was captured, 그래서 크로스 검사 거래 값은 MIIT 발표에 대해 확인해야합니다.
+무거운 트럭 구매자는 장비 목록을 상점하지 않습니다. 그들은 총 조합 무게**에 일치 **engine-gearbox-axle 체인을 지정합니다. Tianlong KL는 Dongfeng의 중국 6 무거운 반 트랙터입니다. 이 모델의 반복 오류는 net power** Figure와 **rated power를 혼란시켜줍니다.  or blending the 465 PS tractor with the 430/520/560 PS  and  가스 변종. 이 문서는 ** 중국 시장 DDi11E465-60 트랙터 (REFERENCE MARKET: 중국)**; 제조사 1차 브로셔는 확보되지 않았다, 그래서 크로스 검사 거래 값은 MIIT 발표에 대해 확인해야합니다.
 
 ## 엔진 (중량 초점: 엔진, 변속기, 차축, GCW, 택시, 포좌)
 | 제품 정보 | Tianlong KL 465 (중국 기준) |

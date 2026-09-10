@@ -27,7 +27,7 @@
 ## 연료 겸용성: 디젤유압 위험
 - 중국-VI 도로 디젤은 ** GB 19147-2016 ** (XG1-2018, 현재), 중국-VI 등급 캡 ** ≤ 10 mg kg (10 ppm) **에 sulphur를 따르는.
 - 중국-VI ** 디젤 차량은 DPF SCR 후처리**를 수행한다. **높은 sulphur 연료에 장기간의 엔진을 실행하면 독과 후처리 시스템을 비활성화 할 수 있습니다 **. 디젤을 발송하기 전에 목적지의 디젤 sulphur 수준과 엔진 제조업체의 연료 요구 사항을 확인하십시오.
-- 휘발유를 위해, 목적지의 옥탄 등급을 확인하십시오; 디젤, cetane 번호 및 소유자 매뉴얼에 대한 sulphur 콘텐츠. This compatibility advice is qualitative — exact EN228/EN590 figures are not asserted without primary CEN/UNECE sources.
+- 휘발유를 위해, 목적지의 옥탄 등급을 확인하십시오; 디젤, cetane 번호 및 소유자 매뉴얼에 대한 sulphur 콘텐츠. This compatibility advice is qualitative — exact EN228/EN590 1차 CEN 없이는 수치를 단정하지 않는다/UNECE sources.
 
 ## Emission 승인 △ Destination Type 승인
 해외 프레임 워크는 주적으로 ** UNECE Euro ** (유럽) 및 ** 미국 EPA ** (미국), 다른 사람. 중국 VI ** 유럽 프레임 워크에 붓고 있지만 해외 정권의 승인을 구성하지 않습니다 ** - 대상 준수는 별도로 처리해야합니다. 이 가이드는 ** "중국 VI는 유로 X" 주장**를 동등합니다. 주식은 여기에 사용할 수없는 공식 상호 인식 문서를 필요로합니다. 정확한 UNECE R83/R49 제한 및 EN 연료 사양은 기본 소스를 구출하는 범위입니다.

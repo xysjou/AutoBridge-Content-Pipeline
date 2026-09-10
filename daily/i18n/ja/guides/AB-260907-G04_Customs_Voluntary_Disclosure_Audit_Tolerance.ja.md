@@ -57,7 +57,7 @@ Three boundaries matter. 第一に、自主的な開示は、ルールの下で�
 
 **現在の許容窓は何ですか。 アパート
 
-The current operative announcement applies from 11 October 2025 to 30 June 2027; 提出時に強制的に通知するかどうか確認します。後処理は想定されていないためです。
+現在有効な公告は以下から適用される 11 October 2025 to 30 June 2027; 提出時に強制的に通知するかどうか確認します。後処理は想定されていないためです。
 
 **自発的な開示は、未払いの義務を放棄するのですか? アパート
 

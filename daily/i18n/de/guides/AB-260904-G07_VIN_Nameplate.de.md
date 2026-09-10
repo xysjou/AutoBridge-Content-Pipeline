@@ -24,7 +24,7 @@ Eine Fahrzeug-Identifizierungsnummer ist ** 17 Zeichen**, unterteilt in drei Tei
 
 **GB 16735-2019 *Straßenfahrzeuge Fahrzeug-Identifizierungsnummer (VIN) *** ist die aktuelle Chinesischer Standard (Ersatz des 2004 Edition) und ist als **Pflicht aufgeführt zitierte Norm in Straßenkraftfahrzeugen Überprüfung des Produktzugangs**. Dieser obligatorische Status ist warum VIN, Typenschild, Bescheinigungen und Lizenzdokumente Sie müssen konsistent.
 
-## Was wir absichtlich nicht aus dem ersten Charakter schließen
+## Was wir bewusst nicht aus dem ersten Eindruck schließenßen
 Das erste Zeichen des WMI wird von einer autorisierten Stelle vergeben. Dieser Leitfaden behauptet **nicht ** eine pauschale Regel wie "Chinesische Fahrzeuge beginnen mit L (einige mit H)" als endgültigen Ursprungstest: Diese Behauptung wurde in der aktuellen Forschung nicht auf einem zuverlässigen Standard bestätigt und wird als **nicht verifiziert ** behandelt. Herkunft und Hersteller müssen aus der ** autorisierten WMI-Zuordnung** gelesen werden, nicht aus einem Anfangsbuchstaben erraten; ein spezifisches WMI-Präfix-zu-Hersteller-Lookup erfordert die Zuordnungstabelle und wird hier nicht wiedergegeben. Die VIN-Formatregeln für das Bestimmungsland sind länderspezifisch und werden separat geprüft.
 
 ## Das Vier-Platz-Match vor der Balance-Zahlung

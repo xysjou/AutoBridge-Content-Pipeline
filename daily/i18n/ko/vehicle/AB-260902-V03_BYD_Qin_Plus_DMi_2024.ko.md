@@ -21,7 +21,7 @@ Qin Plus DM-i는 ** 플러그 인 하이브리드 (PHEV) 소형 세단 **, 순�
 | LFP의 블레이드 배터리 | 8.32 kWh | 18.32 kWh |
 | 전기 전용 범위 | 55 km NEDC 46 km WLTC | 120 km NEDC 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-145 kW 197 PS 대형차의 출력과 18.3 kWh 팩은 **BYD의 자신의 지역 Qin Plus DM-i 페이지에 대한 바레인 (en-bh, VERIFIED, 그 이름 모델에 제한되는 범위)**에 손상됩니다. China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC)는 중국 데이터베이스 (CROSS_CHECKED)를 가로 질러 횡단합니다. 120는 더 빠른 하비어 (120KM 领先型를 위한 커브 ~ 1620 kg)입니다.
+145 kW 197 PS 대형차의 출력과 18.3 kWh 팩은 **BYD의 자신의 지역 Qin Plus DM-i 페이지에 대한 바레인 (en-bh, 1차 자료로 확인됨, 그 이름 모델에 제한되는 범위)**에 손상됩니다. China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC)는 중국 데이터베이스 (독립 자료로 교차 확인)를 가로 질러 횡단합니다. 120는 더 빠른 하비어 (120KM 领先型를 위한 커브 ~ 1620 kg)입니다.
 ## 엔진 및 작동 모드 (PHEV-specific 질문)
 - ** 엔진 **: 1.5L 자연적으로 발음 L4, 81 kW (110 PS) 135 N·m; 그것은 주로 주 구동 모터 보다는 오히려 단위입니다.
 - ** 전송**: E-CVT 단속 전기 연속 가변 드라이브 - spec에 다중 단계 기어 박스가 없습니다.

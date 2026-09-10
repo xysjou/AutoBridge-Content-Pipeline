@@ -26,7 +26,7 @@ Métadonnées SEO
 - **Portée du schéma**: Article + véhicule (aucun produit/offre/prix/réexamen/ratification)
 
 ## Contexte d'achat: une tête de tracteur est spécifiée par chaîne de traction et poids du train
-Les acheteurs de camions lourds ne font pas d'achats de listes d'équipement — ils spécifient une chaîne d'essieu **moteur–boîte à gaz–appariement à un poids combiné brut**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. L'erreur récurrente sur ce modèle confond la puissance ** notée avec la puissance nette**,  or blending the 465 PS tractor with the 430/520/560 PS  and  variantes de gaz. Cette page documente le tracteur **Marché chinois DDi11E465-60 (Marché de la REFERENCE: CHINE)**; Aucune brochure primaire d'OEM n'a été saisie, de sorte que les valeurs commerciales recoupées devraient être confirmées par rapport à l'annonce de MIIT.
+Les acheteurs de camions lourds ne font pas d'achats de listes d'équipement — ils spécifient une chaîne d'essieu **moteur–boîte à gaz–appariement à un poids combiné brut**. Le Tianlong KL est la version chinoise de Dongfeng6 heavy semi-tractor. L'erreur récurrente sur ce modèle confond la puissance ** notée avec la puissance nette**,  or blending the 465 PS tractor with the 430/520/560 PS  and  variantes de gaz. Cette page documente le tracteur **Marché chinois DDi11E465-60 (Marché de la REFERENCE: CHINE)**; Aucune brochure primaire d'OEM n'a été saisie, de sorte que les valeurs commerciales recoupées devraient être confirmées par rapport à l'annonce de MIIT.
 
 ## Moteur (focus lourd sur le camion: moteur, boîte de vitesses, essieu, GCW, cabine, châssis)
 | Point | Tianlong KL 465 (référence de la Chine) |
@@ -54,7 +54,7 @@ Les chiffres 343 kW et 337 kW sont **réalisés par rapport à la puissance nett
 1. **Base de puissance** — enregistrement avec étiquette avec la cote 343 kW et la cote nette 337 kW; correspondre au code moteur 465 PS au NIV.
 2. **Transmission** — 14-speed manuel vs AMT; rapport entre l'essieu arrière et le terrain prévu.
 3. **Calage de la GCC** — remorque et charge utile prévue à l'intérieur de la catégorie 40 t; hauteur des cinquièmes roues et compatibilité kingpin.
-4. **Sulfure de carburant diesel/traitement aval** selon le guide sur les émissions de carburant; China-6 diesel calibration is not itself overseas homologation.
+4. **Sulfure de carburant diesel/traitement aval** selon le guide sur les émissions de carburant; China-6 la calibration diesel ne vaut pas en soi homologation outre-mer.
 5. ** Classification SH** — les tracteurs relèvent de 87.01 (selon le guide du code SH), distincts de 87.04 véhicules utilitaires et de 8716 remorques; la remorque est classée séparément.
 
 ## Demande de contingentation à l'exportation actuelle

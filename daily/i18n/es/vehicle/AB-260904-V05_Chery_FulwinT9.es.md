@@ -39,7 +39,7 @@ Para un PHEV el exportador fija **motor, motor, batería y carga** juntos. El 1.
 ## Estándar T9 vs Estrépido T9L — No se fusionen
 - **Esta página: estándar T9 **, 4795 mm 2770 mm distancia de rueda.
 - **Excluido: T9L **, alrededor de 4870 mm con una base de 2920 mm. Es un vehículo de base de rueda más largo; mezclar sus dimensiones o reclamaciones de asiento en un orden estándar- T9 es un error de configuración.
-- Los pasos de rango y los diseños de asiento varían según el borde; the 120–220 km spread is not a single number for one car.
+- Los pasos de rango y los diseños de asiento varían según el borde; the 120–220 el intervalo en km no es un único número para un mismo coche.
 
 ## Verificación del comprador de ultramar antes del pago
 1. **Versión de la pareja** — estándar T9, nunca sustituida silenciosamente con T9L.

@@ -37,7 +37,7 @@
 | Jieyun 냉동 상자 | 4.085 × 2.10 × 2.30 m |
 | Suyun 상자 | 4.08 × 2.10 × 2.10 m, about **18 m³** |
 
-상자 성과는 절연제 간격에 달려 있습니다  and  패널 공정 (샌드위치 패널, 폼 유형  and  조밀도), 지면 짐 등급, 문 물개  and  육류 고기 후크 내부가 장착 된 여부 - CIMC 고기 후크 리프터 바디는 하나의 목록 옵션입니다. 수출을 위해, 지정하십시오: 요구된 내부 온도 고정점, 패널 지면 유형 (알루미늄 보행 판 등), 문 배열 및 고기 걸이 또는 선반 이음쇠. These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  가격 실질적으로.
+상자 성과는 절연제 간격에 달려 있습니다  and  패널 공정 (샌드위치 패널, 폼 유형  and  조밀도), 지면 짐 등급, 문 물개  and  육류 고기 후크 내부가 장착 된 여부 - CIMC 고기 후크 리프터 바디는 하나의 목록 옵션입니다. 수출을 위해, 지정하십시오: 요구된 내부 온도 고정점, 패널 지면 유형 (알루미늄 보행 판 등), 문 배열 및 고기 걸이 또는 선반 이음쇠. These change payload (the insulated body is heavy — 참고 적재량은 다음에 불과하다는 점 ~1.1 t at 4.495 t GVW)  and  가격 실질적으로.
 
 ## 냉장 단위 선택권
 
@@ -66,9 +66,9 @@ Reefer는 종종 섀시를 가격을 인용하고 상자와 냉각 장치 vague�
 
 ## 구매자 FAQ
 
-**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box  and  냉장 장치 실질적인 curb 무게를 추가하십시오 (~ 3.2 t),  leaving ~1.1 t; 항상 정확한 body/unit를 위한 payload를 re-calculate.
+**왜 적재량은 약 1.1 t on a 4.495 t truck?** The insulated box  and  냉장 장치 실질적인 curb 무게를 추가하십시오 (~ 3.2 t),  leaving ~1.1 t; 항상 정확한 body/unit를 위한 payload를 re-calculate.
 단위는 무엇을 ** 그것은 자체 엔진과 냉각 트럭 엔진의 독립적으로 - 긴 transit 및 주차 할 때 유용합니다; 차량 구동 장치는 더 저렴하지만 엔진과 냉각을 중지합니다.
-**, Yunnei 또는 Cummins 힘은 ** 참고 Jieyun은 Yunnei 2.5 L 150 PS를 사용합니다; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  ...
+**, Yunnei 또는 Cummins 힘은 ** 참고 Jieyun은 Yunnei 2.5 L 150 PS를 사용합니다; 쑤윈(速运) 버전은 포턴 커민스를 탑재한다 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  ...
 ** 어떤 온도가 열 수 ** 목록으로 만들어진 국내 Sanfeng 590 표적 − 18 °C 언 일; 성취할 수 있는 고정점은 선택된 단위 및 절연제에, 이렇게 그것을 지정합니다.
 ** 가격 없음 이름 * Reefer 비용은 달려 있습니다 상자에 크게 냉각 장치; 믿을 수 없는 2026-09-02 가격 캡처되었습니다. 그리고 하나는 하지 않습니다 견적 요청
 

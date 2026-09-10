@@ -73,7 +73,7 @@ Não — é um valor combinado (combustível elétrico +) baseado em CLTC; as fa
 
 ** O Fulwin A8 é o mesmo que o A8L**
 
-No — the A8L is a longer-bodied variant (≈4790 mm) and must not share the A8’s specs.
+No — the A8L is a longer-bodied variant (≈4790 mm) e não devem partilhar o A8’s specs.
 
 ** Quem fornece a bateria? **
 

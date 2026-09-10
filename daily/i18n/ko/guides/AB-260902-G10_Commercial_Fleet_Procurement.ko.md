@@ -27,9 +27,9 @@
 - **Suspension, Brake, Tires** GVW/terrain에 사이즈; 온도.
 - **Superstructure**: Dump/tanker/reefer/sweeper의 경우, 본체는 포좌에서 분리된 기술설계 결정입니다 — 물자, 간격 및 lift/pump 체계를 지정하십시오 (섀시/box/unit 별거를 위한 Foton 화가 페이지를 보십시오).
 ## 단계 3 - Tender-Grade 수용 성 표준을 작성
-"과 같은 것, 내장 된 약점"의 분쟁을 방지, measurable 계약 매개 변수. 덤프 트럭 (한난 도로 & 교량, Dushanbe-Tajikistan 프로젝트, 15 단위를 위한 ** 진짜 중국인 단단한 **; VERIFIED 입찰 문서) 공급 업체를 다음과 같이 바인딩하십시오. cargo body **≥15 m³**, ** T700 고강도 내마모성 스틸**, ** ≥ 10 mm **, ** ≥ 8 mm **, 지정된 기어 카운트  and  호이스트 유형. 동일한 분야를 적용하십시오: 이름 엔진/gearbox/axle 상표  and  모델, 강철 급료  and  판 간격, 몸 양, 타이어 상표, 기준,  and  검사 방법 (공장 증인,  third-party inspection, 또는 도착 합격).
+"과 같은 것, 내장 된 약점"의 분쟁을 방지, measurable 계약 매개 변수. 덤프 트럭 (한난 도로 & 교량, Dushanbe-Tajikistan 프로젝트, 15 단위를 위한 ** 진짜 중국인 단단한 **; 1차 자료로 확인됨 입찰 문서) 공급 업체를 다음과 같이 바인딩하십시오. cargo body **≥15 m³**, ** T700 고강도 내마모성 스틸**, ** ≥ 10 mm **, ** ≥ 8 mm **, 지정된 기어 카운트  and  호이스트 유형. 동일한 분야를 적용하십시오: 이름 엔진/gearbox/axle 상표  and  모델, 강철 급료  and  판 간격, 몸 양, 타이어 상표, 기준,  and  검사 방법 (공장 증인,  third-party inspection, 또는 도착 합격).
 ## 단계 4 - 수출상에 대한 *** 2026 ** 면허 (공식)
-중국의 차량 수출 규칙은 현재 기본 문서 (VERIFIED)에서 닻됩니다:
+중국의 차량 수출 규칙은 현재 기본 문서 (1차 자료로 확인됨)에서 닻됩니다:
 - **MOFCOM 일반 사무실은 2026 자동차 오토바이 수출 면허 응용 프로그램에 대한 통지 (商办贸函 〔 2025 〕 408 号,  28 Sep 2025)** moves applications online (ecomp.licence.org.cn), 현지화 사전 검토  and  등록된 자격있는 기업 목록.
 - **Joint 발표... 54 (2025년,  MOFCOM/MIIT/GAC/SAMR)** places **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
 - ** 2026 인증 기관 목록**는 30 Dec 2025를 출판했습니다. a separate **four-ministry notice (Nov 2025) tightens used-car export management**, 수출 면허 분야 (상표, 모델, 의정부  and  차량 등록 증명서와 일치하기 위해 Transfer-for-export 날짜).
@@ -57,7 +57,7 @@ Pin 수축가능: 단위 가격 대 명세 수준, 예비 장비, 기술 이정�
 ## 자주 묻는 질문
 **2026에 대한 중국의 수출 규칙에서 변경? ** 2026 응용 프로그램 라운드 商办贸函 〔 2025 〕 408 号, 1 월부터 2026 순수 전기 여객 차량 (HS 8703801090)는 합동 발표 No.의 밑에 수출 면허를 요구합니다. 54; 현재 년 자격있는 목록을 사용하십시오.
 대체하는 방법은?** Measurable 표준 (강철 급료, 판 간격, 액슬/gearbox 모형, 몸 양)를 계약으로 씁니다 그리고 그들에 대하여, 진짜 입찰으로 검열하십시오.
-**새로운 대 사용 수출 조건?** 새로운 단위는 OEM 허가 및 종류 면허를 필요로 합니다; used units must meet the Nov-2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
+**새로운 대 사용 수출 조건?** 새로운 단위는 OEM 허가 및 종류 면허를 필요로 합니다; 중고 차량은 11월 기준을 충족해야 한다2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
 ** 가격 또는 지역 부품 지원?** 작업대의 경우, 로컬 부품 적용은 종종 소유권의 총 비용을 설정 — 가격 선택하기 전에 OEM 네트워크를 확인.
 ** 대량 할인 MOQ가 게시됩니까? ** No - 그들은 프로젝트 상업적인 기간입니다; 단단히 지정된 기술적인 별개를 협상하십시오.
 ## 이미지 기록

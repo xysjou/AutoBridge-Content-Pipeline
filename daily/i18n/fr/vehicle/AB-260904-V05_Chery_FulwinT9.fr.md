@@ -51,7 +51,7 @@ Pour un VÉHI, l'exportateur fixe **moteur, moteur, batterie et charge** ensembl
 ## Norme T9 vs Échelle T9L — Ne pas fusionner
 - **Cette page: standard T9 **, 4795 mm 2770 mm empattement.
 - ** À l'exclusion de: T9L **, environ 4870 mm avec un empattement 2920 mm. C'est un véhicule à empattement plus long; mélanger ses dimensions ou les sièges réclamés dans une commande standard- T9 est une erreur de configuration.
-- Les marches et les plans des sièges varient selon les garnitures; the 120–220 km spread is not a single number for one car.
+- Les marches et les plans des sièges varient selon les garnitures; the 120–220 l'intervalle en km n'est pas un chiffre unique pour un même véhicule.
 
 ## Vérification de l'acheteur étranger avant paiement
 1. ** Version corporelle** — standard T9, jamais substitué en silence par T9L.

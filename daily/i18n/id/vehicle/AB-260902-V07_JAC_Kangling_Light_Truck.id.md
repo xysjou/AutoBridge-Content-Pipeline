@@ -15,7 +15,7 @@
 ## Mengapa L6 Diatur oleh Chassis Code, Bukan oleh Model Nama
 Truk komersial Cina bukan lagi sebuah spesifikasi mobil tetap. ** Lingpao L6 (领跑 L6, dijual di bawah peringkat akson 1Ka 康铃) * adalah sebuah keluarga truk ** yang dibangun oleh JAC dengan beberapa mesin, dua roda, peringkat putar-axle dan pabrik atau pabrik-pabrik (dropside 栏板, kotak 厢式, 仓栅, dan lebih pilkas). Setiap kombinasi hukum membawa sendiri ** Model pengumuman MIIT (公告型号) ** dan beban bajakan rated sendiri. "Sebuah L6" Oleh karena itu mengatakan tidak ada yang tepat sampai model pengumuman, mesin akhiran dan tubuh bernama. Halaman ini memisahkan apa yang secara resmi JAC mempublikasikan tentang platform dari bangunan pengumuman tunggal yang ditangkap dalam database kendaraan komersial, sehingga importir dapat memesan truk yang didefinisikan daripada nama.
 ## Platform, per Tabel Konfigurasi Resmi JAC
-Fakta-fakta tingkat platform berikut diambil dari ** JAC Kendaraan Komersial resmi Lingpao L6 tabel konfigurasi VERIFIED, diperiksa 2026-09-03) ** dan stabil di seluruh keluarga:
+Fakta-fakta tingkat platform berikut diambil dari ** JAC Kendaraan Komersial resmi Lingpao L6 tabel konfigurasi dikonfirmasi sumber primer, diperiksa 2026-09-03) ** dan stabil di seluruh keluarga:
 | Butir platform | Nilai resmi JAC- |
 |---|---|
 | Lebar taksi | 1920 mm (standard-width 33-mid taksi), single- row dan half-cab |

@@ -29,7 +29,7 @@ Da leichte LKWs als Fahrgestell-Fahrerhaus und montierte Karosserie verkauft wer
 | Output | 120 PS / 290 N·m | single source — Bestätigung durch VIN/OEM|
 | Getriebe | MSB 5-speed Handbuch (5MT) | single source |
 
-The 4KH1 family exists in more than one suffix with different outputs,  and  ein zweiter unabhängiger Bericht verweist auf eine andere Einstufung als 4KH1 Suffix. Genau deshalb muss der vollständige Motorcode - ** 4KH1CN6LB **, nicht nur "a 4KH1" - in den Auftrag geschrieben und mit dem MIIT-Homologationseintrag abgeglichen werden. A China-6 diesel is calibrated for Chinese fuel  and  die Stufe National VI; Bestimmungskraftstoffgüte und Emissionserkennung sind getrennt zu prüfen und nicht anzunehmen.
+The 4KH1 Die 4KH1-Baureihe existiert in mehr als einem Suffix mit unterschiedlichen Leistungen,  and  ein zweiter unabhängiger Bericht verweist auf eine andere Einstufung als 4KH1 Suffix. Genau deshalb muss der vollständige Motorcode - ** 4KH1CN6LB **, nicht nur "a 4KH1" - in den Auftrag geschrieben und mit dem MIIT-Homologationseintrag abgeglichen werden. A China-6 Diesel ist auf chinesischen Kraftstoff kalibriert, und die Stufe National VI; Bestimmungskraftstoffgüte und Emissionserkennung sind getrennt zu prüfen und nicht anzunehmen.
 
 ## Nutzlast und Leermasse: Kleinanzeigen sind keine Fabrikdaten
 
@@ -76,7 +76,7 @@ Nicht auf diesen Beweisen: Es ist Qingling-gebaut für China und wird als verwan
 
 **Ist der neuere 100P der gleiche LKW? **
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) das ist eine eigene Modellreihe, deren Werte nicht in eine KV-Spezifikation zusammengeführt werden dürfen100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

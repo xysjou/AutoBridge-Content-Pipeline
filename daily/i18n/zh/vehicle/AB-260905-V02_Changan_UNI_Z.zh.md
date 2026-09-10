@@ -53,7 +53,7 @@ UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化�
 ## 财务问题
 ** UNI-Z是否以同名在国外出售? ** 由OEM声明在这些源中未建立;不假定名称或谱等值。
 电池是谁供应的? 两个次要账户冲突,所以供应商没有经过证实。
-**Does V2L work in my market?** The 3.3 kW figure is a Chinese-market spec; 本地确认连接器和网格兼容性。
+**Does V2L work in my market?** The 3.3 kW数值为中国市场规格; 本地确认连接器和网格兼容性。
 ** 130 km是WLTP范围吗? ** 不,这是CLTC。
 ** 出口价格在哪里? ** 请输入当前引文;本页面无刊。
 

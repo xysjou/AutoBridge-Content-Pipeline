@@ -26,7 +26,7 @@ Mã hàng hóa chính xác và điều kiện điều chỉnh của nó phải �
 MOFCOM phát ra một thông báo thông báo thông báo hàng năm về xe hơi và các ứng dụng xuất khẩu xe máy**. Tập tin Enterprises để có khả năng; **cmodified/upfit phải tải lên bằng chứng hiệu suất như xuất khẩu các tuyên bố hải quan và khung cửa mua hóa đơn**. Một cách thực tế cho người buôn bán: Không phải ngay lúc này — sắp xếp cửa sổ hồ sơ hàng năm với kế hoạch vận chuyển của bạn, và giữ giấy tờ lưu trữ/trên khung vì đó là bằng chứng cho thấy hiệu suất xuất khẩu thật sự.
 
 ## Bước 3 — Chiếc xe 180-Day cũ Quy tắc (một đòi hỏi khó, có ngày)
-Per the four-ministry notice on strengthening used-car export management (VERIFIED): **from 1 January 2026, Nơi mà một chiếc xe đang được đăng ký xuất khẩu không được đăng ký trước 180 ngày, Ứng viên phải bổ sung cho Dịch vụ Bảo trì Sau Sales xác nhận; Nếu không thì không có giấy phép. **
+Theo thông báo bốn bộ về tăng cường quản lý xuất khẩu xe đã qua sử dụng (đã được nguồn sơ cấp xác nhận): **from 1 January 2026, Nơi mà một chiếc xe đang được đăng ký xuất khẩu không được đăng ký trước 180 ngày, Ứng viên phải bổ sung cho Dịch vụ Bảo trì Sau Sales xác nhận; Nếu không thì không có giấy phép. **
 - Đây là một yêu cầu được ghi ngày tháng của Trung Quốc - trích dẫn nó với ngày tháng và chỉnh sửa thông báo trước khi dựa vào nó.
 - Thông tin về giấy phép phải phù hợp với chứng chỉ đăng ký xe, khả năng sử dụng không khớp.
 

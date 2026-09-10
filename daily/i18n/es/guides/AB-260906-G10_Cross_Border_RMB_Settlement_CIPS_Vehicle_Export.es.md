@@ -1,4 +1,4 @@
-# Ajustar las exportaciones de vehículos chinos en RMB: Cross-Border RMB Settlement and the Role of CIPS
+# Ajustar las exportaciones de vehículos chinos en RMB: Liquidación transfronteriza en renminbi y el papel del CIPS
 ## Metadatos SEO
 - **Título SEO**: RMB Settlement " CIPS for Chinese Vehicle Exporters
 - **Meta descripción**: Ya sea y cómo un exportador chino puede facturar y recibir el pago en RMB, cómo funciona la liquidación transfronteriza RMB, la posición de reembolso de impuestos, y lo que CIPS realmente hace.

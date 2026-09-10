@@ -19,7 +19,7 @@ Dieser Leitfaden behandelt **Stand nach dem Verkauf, Teilelieferung und Gewährl
 Eine dokumentierte Schwäche der Branche ist ** "schwer auf den Verkauf, Licht auf After-Sales" **: Die Übertragung von allem an einen Agenten führt zu ungleichmäßigen Werkstätten, Lagerbeständen und inkonsistenter Reparaturqualität, und die Marke der Exporteur zahlt letztendlich die Reputationskosten. Für einen neuen Exporteur ist der Fehlermodus vorhersehbar - Fahrzeuge verkaufen, die ersten Garantieansprüche kommen an, und es gibt kein Netzwerk oder Teile, die sie beantworten, was zu Rücksendungen, Streitigkeiten und verlorenen Nachbestellungen führt.
 
 ## Die politischen Erwartungen dahinter
-Chinas vier-Minister-Ausfuhrbekanntmachung für Gebrauchtwagen (Artikel zur Verbesserung des Exportunterstützungssystems, VERIFIED) ** führt Exporteure, OEMs und Importeure aus Übersee an, gemeinsam After-Sales, sichere Reparaturteilelieferung und technischen Support zu liefern **. MOFCOM trägt die gleiche Mitteilung. In der Praxis bedeutet dies, dass After-Sales nicht optional poliert ist: Es ist Teil konformer, nachhaltiger Exportaktivitäten und zunehmend Teil der Art und Weise, wie ernsthafte Käufer Lieferanten überprüfen.
+Chinas vier-Minister-Ausfuhrbekanntmachung für Gebrauchtwagen (Artikel zur Verbesserung des Exportunterstützungssystems, durch eine Primärquelle bestätigt) ** führt Exporteure, OEMs und Importeure aus Übersee an, gemeinsam After-Sales, sichere Reparaturteilelieferung und technischen Support zu liefern **. MOFCOM trägt die gleiche Mitteilung. In der Praxis bedeutet dies, dass After-Sales nicht optional poliert ist: Es ist Teil konformer, nachhaltiger Exportaktivitäten und zunehmend Teil der Art und Weise, wie ernsthafte Käufer Lieferanten überprüfen.
 
 ## Wählen Sie ein Netzwerkmodell, das mit der installierten Basis übereinstimmt
 Bauen Sie kein proprietäres Netzwerk auf, bevor das Volumen es rechtfertigt. Die empfohlene Progression:
@@ -48,7 +48,7 @@ Eine Gewährleistung ist nur glaubwürdig, soweit das Netzwerk sie einhalten kan
 
 ## Häufig gestellte Fragen
 **Sollte ein neuer Exporteur sofort Markenservicezentren eröffnen?** Normalerweise nein - mit einer dünnen installierten Basis, verwenden Sie zuerst lokale Multi-Marken-Workshops und markenübergreifende Anerkennung, dann investieren Sie, wenn das Volumen wächst.
-**Was treibt die Antwortzeit nach dem Verkauf am meisten an? ** Lokale/regionale Teileverfügbarkeit mit Sicherheitsbestand an kritischen Komponenten – mehr als Werkstätten allein zählen.
+**Was die Antwortzeit nach dem Verkauf am stärksten beeinflusst? ** Lokale/regionale Teileverfügbarkeit mit Sicherheitsbestand an kritischen Komponenten – mehr als Werkstätten allein zählen.
 **Kann ich eine lange Garantie anbieten, um Deals zu gewinnen? ** Nur wenn Teile den Markt erreichen und Werkstätten es einhalten können; eine unübertroffene Garantie ist eine ungedeckte Haftung.
 **Ist After-Sales eine Compliance-Angelegenheit in China?** Die Richtlinien weisen Exporteure, OEMs und Importeure an, gemeinsam After-Sales, Teile und technischen Support bereitzustellen.
 **Wie unterscheidet sich das von einem "Kauf von Ersatzteilen" -Guide? ** Dies gilt für die Beschaffung von Teilen in China; dies umfasst den Betrieb der Service- Teile- Garantiefähigkeit auf dem Zielmarkt.

@@ -76,7 +76,7 @@ Tidak pada bukti ini: itu Qingling- dibangun untuk Cina dan diperlakukan sebagai
 
 Apakah truk yang baru 100P sama? **
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) adalah lini model terpisah yang angkanya tidak boleh digabung ke dalam spesifikasi KV100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

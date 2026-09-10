@@ -24,7 +24,7 @@ Bahan baku ini memiliki langit-langit keras di artikel: ** semua sumber pendukun
 - Kasus BYD, Denza dan lokalisasi hanya mendukung sendiri saja, mereka adalah bukti bahwa hasil * dapat ** terjadi, bukan berarti itu terjadi untuk merek model lain.
 - Tidak ada kesimpulan di sini atau menyiratkan bahwa semua (atau kebanyakan) mobil-mobil pasar Cina memiliki Cinese- hanya UI, peta terkunci, tidak dapat dicapai OTA atau rekening diblokir; mereka adalah ** risiko untuk menguji **, per VIN.
 - Nilai artikel adalah ** kerangka tes perVIN **, bukan bukti cacat universal. Jawaban yang menentukan untuk mobil tertentu berasal dari tes langsung dan saluran luar negeri merek itu.
-## Five Failute Points - Test Each on the Actual VIN
+## Five Failute Points - Uji Masing-masing pada VIN yang Sebenarnya
 | Periksa | Apa "bekerja" berarti | Masalah khas Cina - spec | Jenis bukti |
 |---|---|---|---|
 | ** 1. UI bahasa *  | Target bahasa yang dapat stabil di seluruh menu, peringatan, suara | Cinese- hanya atau sebagian terjemahan mesin dengan kesalahan tata letak | Uji per VIN |

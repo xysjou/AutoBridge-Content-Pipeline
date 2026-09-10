@@ -30,7 +30,7 @@ Beberapa biaya dan titik routing beredar dalam media industri bahasa-gala- denga
 - ** "Hanya impor langsung tidak transit melalui Belarus, Kazakhstan, Kyrgyzstan" *: klaim ini muncul dalam panduan industri 2026 tunggal tanpa ada penggubah instruksi dasar yang tertangkap. Perlakukan rute EAEU segitiga sebagai titik untuk mengkonfirmasi dalam menulis dengan nasihat adat **, tidak pernah sebagai larangan menetap atau izin menetap.
 Build mendarat biaya sebagai ** FTS-dikonfirmasi stack ** - tugas + VAT + biaya utilisasi + sertifikasi + ERA- GLONASS fitment + logistics + asuransi - bukan sebagai persentase pinjaman tunggal.
 ## Sisi Cina: 2026 Pameran-Aturan Kelimpahan Sekarang Resmi
-Tidak seperti biaya yang di atas, bagian ekspor-kontrol Cina kini berlabuh di dokumen-dokumen utama (VERIFIED):
+Tidak seperti biaya yang di atas, bagian ekspor-kontrol Cina kini berlabuh di dokumen-dokumen utama (dikonfirmasi sumber primer):
 - ** MOFCOM General Office Notice pada 2026 ekspor mobil sepeda motor-lisensi (商办贸函 2025: 408 号, 28 Sep 2025) ** set the online application system (ecomp.licence.org.cn), pemeriksaan awal perdagangan  and  Daftar kualifikasi yang diterbitkan.
 - ** Pengumuman Gabungan No. 54 (2025) dari MOFCOM, MIIT, GAC dan SAMR ** menempatkan ** pure-kendaraan penumpang listrik (referensi HS 8703801090) di bawah sebuah exports rezim dari 1 Januari 2026 **.
 - 2026 daftar perusahaan yang memenuhi syarat untuk mengajukan permohonan ijin ekspor kendaraan diterbitkan pada 30 Dec 2025.

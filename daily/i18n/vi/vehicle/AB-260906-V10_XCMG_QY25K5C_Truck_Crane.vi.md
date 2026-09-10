@@ -28,7 +28,7 @@ Vấn đề về điều chỉnh: được loại bỏ khỏi loại 'crane 'cra
 
 - **Crier (tiếng la)**: động cơ, truyền tải, trục, taxi, GVW, đồng tính đường và cấu hình du lịch; đối tượng được chấp thuận kiểu phương tiện.
 - ** Quá trình cấu trúc (upper)**: các phần phát thanh phát thanh, giết chết vòng/ quay, thu nhỏ, hệ thống thủy lực và các biểu đồ tính toán/tải; quản lý bằng cách nâng chuẩn nâng lên.
-- Cần cẩu xe tải là đường bộ.  and  lifting-safe through **two separate evidence chains** — approving one does not approve the other.
+- Cần cẩu xe tải là đường bộ.  and  lifting-safe through **two separate evidence chains** — phê duyệt cái này không đồng nghĩa phê duyệt cái kia.
 
 ## Tại sao biểu đồ tải tải, không phải số lớp học, đặt khả năng
 

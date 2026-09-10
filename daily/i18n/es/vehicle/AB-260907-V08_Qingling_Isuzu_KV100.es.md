@@ -76,7 +76,7 @@ No en esta evidencia: está Qingling-construido para China y se trata como un mo
 
 **¿El nuevo 100P es el mismo camión? ################################################################################################################################################################################################################################################################
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+No — the 100P (4KB1) es una línea de modelos separada cuyas cifras no deben fusionarse en una especificación KV100 specification.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

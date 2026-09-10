@@ -69,13 +69,13 @@
 
 ## Buyer FAQ
 
-** هل اليوني آي في سيارة إي في أو البنزين؟ ** The 2024 China UNI-V covered here is a gasoline (ICE) fastback; choose between the 1.5T and 2.0T turbo petrol motors.
+** هل اليوني آي في سيارة إي في أو البنزين؟ ** The 2024 طراز UNI-V الصيني المشمول هنا هو بنزين (ICE) fastback; choose between the 1.5T and 2.0T turbo petrol motors.
 
 ** هل يستخدم كلا المحركين نفس صندوق التروس؟** لا الـ 1.5T يستخدم 7-speed مبللة ذات مركبين مزدوجين  and  الـ2.0T يستعملون جهازاً آلياً من طراز 8-speed
 
 ** ما مدى اختلاف استخدام الوقود بينهما**؟ على طاولات شركة "واي إل تي" الصينية  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; قاعدة العجلات الـ2750 mm ثابتة
+**لماذا يختلف الطول بين المصادر?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; قاعدة العجلات الـ2750 mm ثابتة
 
 هل يمكنني أن أفترض أن سيارة الصين تقابل معيار إنبعاث بلدي؟ لا - يجب التحقق من الامتثال للانبعاثات ودرجة الوقود ودرجة الضمان بالنسبة لسوق المقصد قبل طلب ذلك.
 

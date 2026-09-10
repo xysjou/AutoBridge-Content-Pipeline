@@ -51,7 +51,7 @@ Um comprador de PHEV precisa de quatro respostas em ordem: **motor, motor de aci
 1. ** Versão da bateria e capacidade** escrito contra o VIN (10.08 vs 15.87 kWh); não aceitar um número de intervalo sozinho.
 2. ** Ciclo de teste** — manter a CLTC rotulada; pedir o número do ciclo de destino separadamente se o mercado publicar uma.
 3. ** Conector de carga e hardware AC/DC** — Carregamento chinês de GB/T não corresponde automaticamente ao conector de destino; confirme antes de prometer compatibilidade de carga doméstica.
-4. ** Documento de envio de bateria PHEV** — Resumo UN38.3  and  any dangerous-goods documents per the IMDG 42-24 battery-shipping guide.
+4. ** Documento de envio de bateria PHEV** — Resumo UN38.3  e quaisquer documentos de mercadorias perigosas segundo o IMDG 42-24 battery-shipping guide.
 5. ** Tipo de emissão/combustível** e classe de registo híbrido de destino; confirme o pacote de documentos da lista de verificação do documento de exportação.
 
 ## Solicitar uma Cotação de Exportação Atual

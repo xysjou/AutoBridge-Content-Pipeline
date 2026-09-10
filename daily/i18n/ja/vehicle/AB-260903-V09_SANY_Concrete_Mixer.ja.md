@@ -12,7 +12,7 @@
 - **ALTテキスト**: SANY SY310C ten cubic metre mixer truck
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
-## バイヤーのコンテキスト: a Special Vehicle Is Two Products Bolted Together
+## バイヤーのコンテキスト: 特種車は二つの製品を組み合わせたもの
 ミキサー車は、**専用車**:トラック**シャーシ**と回転ドラム**のスーパー構造**独自の油圧ドライブ、水システム、放電装置。 **ドラム容量→シャーシ/エンジン→GVW/アキル→スーパー構造機器**でそれをスペックし、均質なモデルコードに対する全組み合わせを確認します。 このページでは、SANYの**中国市場SYシリーズ(REFERENCE MARKET: CHINA)**をカバーしています。 SANYの製品ラインとモデルページはOEMのソースであり、電気的変種は取引媒体を介して報告されています。
 
 ## ドラム容量ライン(最初の決定)
@@ -42,7 +42,7 @@ SANY's line spans three drum-size bands: **6–7 m³ 8–9 m³ 10 m³** (OEM pro
 静的な輸出価格無しおよび中国MSRPは捕獲されませんでした; 発明されたものはありません。 Enquire with **Destination Country · Drum m³ · Model Code · Engine Brand/Emission · LHD/RHD · Destination Port · Incoterm**.
 
 ## よくある質問
-**What drum sizes does SANY offer?** Three bands: 6–7の  8–9  and  10 m³; the SY310C-8S(V) is the 10 m³ reference with a 400 L water tank.
+**SANYはどのドラムサイズを提供するか?** Three bands: 6–7の  8–9  and  10 m³; the SY310C-8S(V) is the 10 m³ reference with a 400 L water tank.
 日野、ユチャイ、ウィーチャイ、またはSany Power(SY310C参照はSany Power D09C5-380E3を使用しています)。 注文ごとに確認します。
 それらは、ドラム、油圧および水システムはコンクリート運送の機能を定義する間、シャシはGVW/車軸/力を置きます。
 350 kWピーク/ 215 kW定格モーターを搭載した8×4 BEVが報告されています(単一ソース)。 現在のスペックとEVの出荷文書を確認します。

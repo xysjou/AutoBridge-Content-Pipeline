@@ -32,9 +32,9 @@ Nach den offiziellen Leitlinien für Einfuhrverfahren von TRA werden Einfuhren n
 2. Die Anmeldung erfolgt online über das ** Tansania Customs Integrated System (TANCIS) ** (Mainland und Sansibar), und die Agenten werden gebeten, Dokumente ** mindestens sieben Tage vor Ankunft der Waren ** einzureichen.
 3. Das Importdokument-Set enthält die endgültige Rechnung, die Genehmigung des Agenten, Transportdokumente (B / L, AWB oder Straßenfrachtbrief), Packliste, alle Befreiungsdokumente und - explizit - Importgenehmigungen von anderen Regierungsbehörden, TBS, die unter ihnen genannt werden **.
 
-Der letzte Punkt ist, wo die beiden Spuren treffen: die TBS CoC ist nicht optional parallel Papierkram; es ist unter den Genehmigungen, die die Zollakte erwartet. TRA führt die **Kraftfahrzeugregistrierung** (Eigentumswechsel und damit verbundene Registrierungsangelegenheiten) separat durch, was ein eigener Schritt nach der Freigabe und nicht der Importzollprozess selbst ist.
+Der letzte Punkt ist, wo die beiden Spuren treffen: die TBS CoC ist nicht optional parallel Papierkram; es ist unter den Genehmigungen, die die Zollakte erwartet. TRA führt die **Kraftfahrzeugregistrierung** (Eigentumswechsel und damit verbundene Registrierungsangelegenheiten) separat durch, was ein eigener Schritt nach der Freigabe und nicht der Einfuhrzollprozess selbst ist.
 
-## Was dieser Leitfaden absichtlich nicht zählt
+## Was dieser Leitfaden bewusst nicht ziehtählt
 
 Mehrere kommerziell wichtige Elemente konnten bei der Überprüfung nicht an ein abrufbares Primärdokument gebunden werden und werden daher als Verifizierungsaufgaben und nicht als Fakten dargestellt:
 

@@ -21,7 +21,7 @@ El **Foton Toano (图雅诺, 2026)** es un autobús diesel de gran altura y cami
 - **Base de ruedas largas**: 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) mm.
 - ** 2.5T par diesel**: 400 N·m; caja de cambios 6MT.
 - **Asientos**: 3/5/6/7/9/14/15/17 (随版本)).
-- ** Nota de conversión**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, no una especificación de base-van.
+- ** Nota de conversión**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — una caja frigorífica es un equipamiento añadido, no una especificación de base-van.
 
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |

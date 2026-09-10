@@ -13,20 +13,20 @@
 - **Texto ALT**: 2024 GAC Trumpchi M8 Grandmaster negócio de sete lugares MPV, China spec
 - **Escopo do schema**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
 
-## Why Buyers Look at the M8
+## Porque é que os compradores olham para o M8
 
 O Trumpchi M8 é um monocoque de médio porte **negócio/família MPV** cujo valor se situa no espaço da cabine e na segunda fila de assentos em vez de dinâmica de condução. É principalmente um modelo **ICE (petrol) 2.0T **, com uma versão híbrida (双擎) também oferecida na China, cujos números específicos não são afirmados nesta página. GAC O Grupo também publica uma configuração do GAC M8 ** (incluindo mercados do Oriente Médio, em LHD e, onde for oferecido, RHD); especificações de exportação devem seguir esse material oficial no exterior. Tudo o que se segue é a referência do mercado chinês (REFERÊNCIA MERCADO: CHINA)**, aparar o 2024 宗师 (Grandmaster) 2.0TGDI.
 
 ## A primeira decisão: qual série
 
-China splits the M8 into three series that differ in size, distância entre eixos  and  calibração do binário, assim, o nome da série deve aparecer em cada ordem:
+China splits the M8 em três séries que diferem em tamanho, distância entre eixos  and  calibração do binário, assim, o nome da série deve aparecer em cada ordem:
 
 | Série | Comprimento × Largura × Altura | Distância entre eixos | Motor | Torque |
 |---|---|---|---|---|
 | 宗师 Grande Mestre 大师 Mestre. | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-A potência de saída é idêntica em 185 kW, mas o Grandmaster Master calibra o pico em 400 N·m versus 390 N·m para o Lingxiu 390T - uma pequena diferença mas real que não deve ser achatada em uma única figura de "M8 torque". As dimensões do Grandmaster/Master e a distância entre eixos são ** VERIFIED** contra as páginas oficiais do GAC; os valores de Lingxiu são verificados através do Autohome/Yiche.
+A potência de saída é idêntica em 185 kW, mas o Grandmaster Master calibra o pico em 400 N·m versus 390 N·m para o Lingxiu 390T - uma pequena diferença mas real que não deve ser achatada em uma única figura de "M8 torque". As dimensões do Grandmaster/Master e a distância entre eixos são ** confirmado por fonte primária** contra as páginas oficiais do GAC; os valores de Lingxiu são verificados através do Autohome/Yiche.
 
 ## Especificação Mecânica (Versões de Petrol)
 

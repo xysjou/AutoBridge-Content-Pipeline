@@ -24,7 +24,7 @@ Garis EM-i adalah depan-roda dan pasangan 1.5 L alami mesin bensin diaspirasi de
 - ** Motor **: 160 kW 262 N·m (motor daya lintas-diperiksa; torque single-source).
 - ** Transmission **: 1 挡 DHT syah-i 单挡混动专用变速 aha--a single-speed DHT, yang mendefinisikan fitur EM-i dibandingkan dengan hybrida multi- kecepatan tua.
 - 8.5 19.09 kWh. Pemasok sel baterai tidak dikonfirmasi oleh Geely dan sengaja tidak dinyatakan.
-- *** Jangkauan listrik **: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; pada WLTC referensi ditangkap adalah 48 115 km. CLTC dan WLTC adalah siklus yang berbeda - jangan pernah mengutip nomor CLTC sebagai figur ekspor WLTC NEDC.
+- *** Jangkauan listrik **: 60 140（对应8.5/19.09kWh） km CLTC untuk dua lini secara berturut-turut; pada WLTC referensi ditangkap adalah 48 115 km. CLTC dan WLTC adalah siklus yang berbeda - jangan pernah mengutip nomor CLTC sebagai figur ekspor WLTC NEDC.
 - ** Combined performance **: dikombinasikan CLTC jangkauan hingga 最高 2000 km; 0–100 km/h 7.4 s; kecepatan tertinggi 180 km/h; Tangki bahan bakar 60 L; koefisien seret 0.26.
 
 ## Tabel spesifikasi terverifikasi (Referensi pasar Cinese-)

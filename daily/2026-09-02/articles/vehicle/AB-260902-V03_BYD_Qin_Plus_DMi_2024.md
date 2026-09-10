@@ -21,7 +21,7 @@ The Qin Plus DM-i is a **plug-in hybrid (PHEV) compact sedan**, neither a pure E
 | LFP Blade Battery | 8.32 kWh | 18.32 kWh |
 | Electric-only range | 55 km NEDC / 46 km WLTC | 120 km NEDC / 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-The 145 kW / 197 PS output of the larger-battery car and its ~18.3 kWh pack are corroborated on **BYD's own regional Qin Plus DM-i page for Bahrain (en-bh, VERIFIED, scope limited to that named model)**; China version figures (8.32/18.32 kWh, 132/145 kW, NEDC/WLTC) are cross-checked across Chinese databases (CROSS_CHECKED). The 120 is both quicker and heavier (curb ~1620 kg for the 120KM 领先型).
+The 145 kW / 197 PS output of the larger-battery car and its ~18.3 kWh pack are corroborated on **BYD's own regional Qin Plus DM-i page for Bahrain (en-bh, confirmed by primary sources, scope limited to that named model)**; China version figures (8.32/18.32 kWh, 132/145 kW, NEDC/WLTC) are cross-checked across Chinese databases (independently cross-checked). The 120 is both quicker and heavier (curb ~1620 kg for the 120KM 领先型).
 ## Engine and Operating Mode (the PHEV-specific questions)
 - **Engine**: 1.5L naturally aspirated L4, 81 kW (110 PS) / 135 N·m; it is primarily a generator/assist unit rather than the main drive motor.
 - **Transmission**: E-CVT single-speed electric continuously variable drive — there is no multi-step gearbox to spec.

@@ -68,7 +68,7 @@ Es wurde kein maßgeblicher Preis erfasst - die Preisgestaltung für Kühlschrä
 
 **Warum ist die Nutzlast nur etwa 1.1 t auf einem 4.495 t-LKW?** Die isolierte Box und Kühleinheit fügen erhebliches Bordsteingewicht (~ 3.2 t) hinzu, so dass ~ 1.1 t; immer die Nutzlast für den genauen Körper Einheit neu berechnen.
 **Was bedeutet "Standalone/Independent Unit"?** Es hat seinen eigenen Motor und kühlt unabhängig vom LKW-Motor - nützlich für lange Fahrt und beim Parken; Fahrzeuggetriebene Einheiten sind billiger, aber stoppen Sie die Kühlung mit dem Motor.
-** Was ist besser, Yunnei oder Cummins Power? ** Die Referenz Jieyun verwendet eine Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  Haushalt.
+** Was ist besser, Yunnei oder Cummins Power? ** Die Referenz Jieyun verwendet eine Yunnei 2.5 L 150 PS; der Suyun bietet einen Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  Haushalt.
 **Welche Temperatur kann er halten?** Die aufgeführten inländischen Sanfeng 590 Ziele - 18 °C Tiefkühlarbeit; erreichbarer Sollwert hängt von der gewählten Einheit und Isolierung ab, also geben Sie ihn an.
 **Warum wird kein Preis angegeben?** Die Kosten für den Kühler hängen stark von der Box und der Kühleinheit ab; no reliable 2026-09-02 price was captured,  and  Eine wird nicht geschätzt.
 

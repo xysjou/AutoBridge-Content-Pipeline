@@ -28,7 +28,7 @@
 
 - **Engine**:SAIC π 2.0-litreツインターボディーゼル、160 kW / 500 N·m、ZF 8-speed自動(クロスチェック)に合わせた。
 - **運転方法**: two-wheel drive,  part-time four-wheel drive,  and  intelligent on-demand four-wheel drive — specify which, 転送ケースだから  and  差分の内容は異なります。
-- **牽引**: a ≈3.5 t maximum braked-towing figure appears in media  and  MAXUSのグローバル材料で、 しかし、中国市場価値は単一ソースです  and  the global figure is an export-market spec — confirm the number for the actual market build rather than treating them as one.
+- **牽引**: a ≈3.5 tの最大被けん引（制動付き）値は媒体に現れ、MAXUSはのグローバル材料で、 しかし、中国市場価値は単一ソースです  グローバル値は輸出市場仕様である — 同一視せず、実際の市場仕様の数値を確認する.
 
 ## 国内 T90 対輸出 MAXUS T90 — アイデンティティの洞窟
 

@@ -52,7 +52,7 @@ Konstan 2750 mm roda dan suspensi belakang independen membawa di seluruh jangkau
 
 Sebagai mobil bensin pasar Cina, UNI-V direkayasa dan disertifikasi untuk standar Cina dan bahan bakar pompa Cina. Lembar fakta ini tidak ** tidak ** menegaskan tingkat emisionaris Euro tertentu atau kebutuhan oktane luar negeri, dan importir tidak boleh menyimpulkan satu: mengkonfirmasi standar emisi negara tujuan menerima dan apakah mobil bersertifikat Cina-mobil bertemu dengannya, (b) direkomendasikan vasibility tingkat bahan bakar, dan (c) layanan interval dan suku cadang pasokan untuk mesin Paus Biru dan kedua jenis gearbox sebelum melakukan.
 
-## Apa AutoBridge Adadst Beyond the Configurator
+## Apa yang Ditambahkan AutoBridge di Luas Konfigurator
 Tabel konfigurasi daftar mesin dan nilai tetapi menyembunyikan pasangan yang menyebabkan kesalahan urutan. AutoBridge mengikat mesin dan gearbox sebagai pasangan ** (1.5T = 7DCT, 2.0T = 8AT) pada lembar pembuatan VIN, mencatat panjang tubuh yang spesifik ** Grade-spesifik ** jadi dokumen tidak menyebutkan satu panjang untuk kelas yang berbeda, dan bendera di mana sebuah kalibrasi bensin bersertifikat Cina masih membutuhkan emisi tujuan keputusan sebelum deposit.
 ## Verifikasi Pembayaran dan Pembayaran
 - Konfirmasi layout penggerak-axle pada sertifikat MIIT untuk pemangkas tepat: data referensi yang ditangkap tidak menyatakan konfigurasi kandar, jadi jangan asumsikan penggerak depan hanya dari segmen sportif-sedan.
@@ -75,7 +75,7 @@ Tidak ada harga ekspor AutoBridge statis. RMB 108, 900–139, 900 Harga panduan 
 
 ** Seberapa berbeda adalah bahan bakar menggunakan antara mereka? ** Di meja WLTC Cina,  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
 
-**Why does the length differ between sources?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; Dan tetap pada 2750 mm pangkalan roda.
+**Mengapa panjangnya berbeda antar sumber?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; Dan tetap pada 2750 mm pangkalan roda.
 
 ** Bisakah aku berasumsi mobil China bertemu standar emisi negaraku? * Tidak - emission kepatuhan, kelas bahan bakar dan garansi harus diverifikasi untuk tujuan pasar sebelum memesan.
 

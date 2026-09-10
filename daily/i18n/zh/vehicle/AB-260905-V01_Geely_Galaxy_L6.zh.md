@@ -16,7 +16,7 @@
 ## 买家上下文和模式身份
 **Geely Galaxy L6 EM-i(2025)**是紧凑型插座混合型轿车,为中国市场制造. 本页仅使用**2025 EM-i 面部提升线**; 较老的Thor/8848三速DHT版本是不同的动力列车发电,决不能与本文描述的EM-i单速车混合. 参考市场为**中国**,下图均为**中国市场参考规格**,不为全球或出口同位素值.
 
-EM -i线是前轮驱动  and  pairs a 1.5 L naturally aspirated petrol engine with a single front motor through a one-speed dedicated hybrid transmission. 进口商应将其视为不同的可订购配置,而不是一个单一范围的 " L6 " 。
+EM -i线是前轮驱动  and  pairs a 1.5 L自然吸气汽油发动机，配合单台前电机，经一挡专用混动变速器输出. 进口商应将其视为不同的可订购配置,而不是一个单一范围的 " L6 " 。
 
 ## 变体和动力列车线路(中国市场).
 - ** 建筑**: FF(前引擎/前驱),4-door 5-seat辆轿车; 车体4782 1875 1489 mm,轮基2752 mm(交叉检查).
@@ -24,7 +24,7 @@ EM -i线是前轮驱动  and  pairs a 1.5 L naturally aspirated petrol engine wi
 - **Motor**:160 kW/262 N·m(机动车电源交叉检查;扭矩单源).
 - ** Transmission**:1 挡 DHT(EM-i 单挡混动专用变速)——单速DHT,是定义EM-i特性与较老的多速混合式的特性.
 - ** 电池线路**: 8.5 19.09 kWh  电池供应商**没有吉利**的证实,而且故意没有说明。
-- ** 电学范围**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; on WLTC the captured reference is 48 115 km. CLTC和WLTC是不同的周期——从不引用CLTC的编号作为WLTC/NEDC的出口数字.
+- ** 电学范围**: 60 140（对应8.5/19.09kWh） 公里CLTC续航; 在WLTC工况下，已获取的参考值为 48 115 km. CLTC和WLTC是不同的周期——从不引用CLTC的编号作为WLTC/NEDC的出口数字.
 - ** 综合CLTC范围,可达最高 2000 km; 0–100 km/h 7.4 s; top speed 180 km/h; (a) 燃料箱60 L; 拖动系数 0.26. 
 
 ## 验证规格表(中市参考文献).

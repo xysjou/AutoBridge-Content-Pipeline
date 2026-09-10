@@ -15,7 +15,7 @@
 ## Pourquoi un L6 est commandé par le code de châssis, pas par un nom modèle
 Un camion commercial léger chinois n'est pas une spécification fixe de voiture de tourisme: le **Lingpao L6 (领跑 L6, vendu sous la ligne 1Ka 康铃 de JAC)** est une famille de *chassis* que JAC construit avec plusieurs moteurs, deux empattements, deux cotes d'essieu arrière et de nombreux corps d'usine ou de carburant (dropside 栏板, boîte 厢式, pieu 仓栅, réfrigéré et plus). Chaque combinaison juridique porte son propre modèle d'annonce de MIIT (公告型号)** et son propre poids de bordure charge utile nominale. "Un L6 " ne dit donc rien de précis jusqu'à ce que le modèle d'annonce, le suffixe moteur et le corps soient nommés. Cette page sépare ce que JAC publie officiellement sur la plateforme de la construction d'annonce unique capturée dans la base de données des véhicules commerciaux, de sorte qu'un importateur peut commander un camion défini plutôt qu'un nom.
 ## La plateforme, par tableau de configuration officiel du JAC
-Les faits suivants au niveau de la plateforme sont tirés de **JAC Commercial Vehicle officiel Lingpao L6 tableau de configuration VERIFIED, coché 2026-09-03)** et sont stables dans toute la famille:
+Les faits suivants au niveau de la plateforme sont tirés de **JAC Commercial Vehicle officiel Lingpao L6 tableau de configuration confirmé par une source primaire, coché 2026-09-03)** et sont stables dans toute la famille:
 | Point de la plate-forme | Valeur officielle de la CMI |
 |---|---|
 | Largeur de la cabine | 1920 mm (largeur standard 33-mid cabine), ligne simple et demi-cabine |
@@ -26,8 +26,8 @@ Les faits suivants au niveau de la plateforme sont tirés de **JAC Commercial Ve
 | Taux de transmission finale | 4.875 4.33 (4.11 sur certaines lignes) |
 | Familles de carburants/énergie offertes | Zhiwei S25 (de type essence Q25A), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 chaîne à froid, YN30 gaz bicarburant, Dekang 160B/C, DHE155 |
 Le diesel le plus pertinent pour l'exportation est le **Ankang (安康) 2.5 **, utilisant la famille Anhui-Cummins ** HFC4DE3 **. Le tableau de la JAC énumère trois suffixes — ** HFC4DE3-2E5 - 2EA - 2E9 — à 111 117 125 kW **, avec des paliers de couple de ** 360 et 458 N·m **. Cela est important car les revendeurs citent souvent un seul chiffre " 160 hp 460 N·m " qui ne correspond pas à chaque suffixe; l'étape de puissance et le couple doivent être lus sur le suffixe moteur exact et le certificat d'annonce.
-## Création d'une annonce représentative (base de données, CROSS_CHECKED)
-Pour montrer comment une rangée de plate-forme devient un camion en béton, la construction capturée est le **dropside HFC1043P21K4C7S, 4 × 2 **, avec des chiffres de 360che/ données d'annonce de 卡车之家 et un contre-vérification JAC-famille (CROSS_CHECKED; capturé 2026-09-02, revérifié par le tableau JAC 2026-09-03):
+## Création d'une annonce représentative (base de données, vérifié par recoupement indépendant)
+Pour montrer comment une rangée de plate-forme devient un camion en béton, la construction capturée est le **dropside HFC1043P21K4C7S, 4 × 2 **, avec des chiffres de 360che/ données d'annonce de 卡车之家 et un contre-vérification JAC-famille (vérifié par recoupement indépendant; capturé 2026-09-02, revérifié par le tableau JAC 2026-09-03):
 | Point | HFC1043P21K4C7S côté d'arrêt (par annonce) |
 |---|---|
 | Moteur empattement | 4×2 3365 mm |

@@ -70,7 +70,7 @@ Für jedes Modell Trimm, das Sie exportieren, notieren Sie in einem Blatt:
 **Was ist GB/T 27930?** Es ist das CAN-basierte Kommunikationsprotokoll, das in China neben dem GB/T 20234.3-Gleichstromanschluss verwendet wird; der Kommunikations-Handshake ist ebenso wichtig wie die Steckerform.
 **Ist ein Adapter eine dauerhafte Lösung?** Es kann die Lücke schließen, aber die Legalität des Adapters variiert je nach Markt und Geschwindigkeit Zuverlässigkeit sollte getestet werden; Der Fabrikexporteingang wird bevorzugt.
 **Verkaufen chinesische Marken CCS2 Versionen?** Viele bauen Exportvarianten mit dem Zielstecker - bestätigen Sie pro Modell VIN auf der offiziellen Exportkonfiguration, anstatt anzunehmen.
-**Does Chao Ji macht jetzt alle Steckverbinder kompatibel?** ChaoJi ist eine für Kompatibilität zukünftige Richtung entworfen; aktuelle Serienautos müssen noch pro Modell bestätigt werden.
+**Macht Chao Ji jetzt alle Steckverbinder kompatibel?** ChaoJi ist eine für Kompatibilität zukünftige Richtung entworfen; aktuelle Serienautos müssen noch pro Modell bestätigt werden.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: none secured in repository

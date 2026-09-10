@@ -28,7 +28,7 @@ Under the **2023 No.164 joint announcement of five departments** (including the 
 - **運営者カード、付与、および権限を撤回する**
 - 法的な人格を必要とする行動のために、企業レベルの電子署名を運びます。
 
-As a rule an enterprise holds **one legal-person card in principle**. オペレータの権限が、最終的にそのものとは限りません。法律の人カードの制御は、会社のeポート権限の制御です。それは信頼できる、説明責任のある人によって保持され、スタッフの間で偶然共有されていない使用は、します。
+原則として企業は保有する **one legal-person card in principle**. オペレータの権限が、最終的にそのものとは限りません。法律の人カードの制御は、会社のeポート権限の制御です。それは信頼できる、説明責任のある人によって保持され、スタッフの間で偶然共有されていない使用は、します。
 
 ## オペレータカード: 作業資格情報, 法的な人カードの下で
 
@@ -36,8 +36,8 @@ As a rule an enterprise holds **one legal-person card in principle**. オペレ�
 
 数値ルールは、スプロールと共有の両方を防ぐ:
 
-- an enterprise may hold **multiple operator cards** (the number is not capped at one), 運営が必要なスタッフにマッチングする。
-- but **the same natural person may hold only one operator card** — one person,  one credential, そのため、個人を識別できる行動に帰属します。
+- an enterprise may hold **multiple operator cards** (枚数が1枚に制限されるわけではない), 運営が必要なスタッフにマッチングする。
+- but **同一自然人はオペレーターカードを1枚のみ保有できる** — one person,  one credential, そのため、個人を識別できる行動に帰属します。
 - 人が役割を離れたり変更したりするとき、そのオペレータカードの許可は、法的な人カードを通して調整または撤回する必要があります。
 
 この階層は、プラットフォームの委任機構です。法的な人カードは誰が何をするかを決めます。オペレータカードは、定義されたスコープ内で作業を行います。

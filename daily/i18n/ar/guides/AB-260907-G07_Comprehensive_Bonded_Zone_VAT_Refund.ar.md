@@ -1,4 +1,4 @@
-# المناطق المسندة الشاملة في الصين: Refund on Entry, the General-Taxpayer Pilot and Selective Tariffs
+# المناطق المسندة الشاملة في الصين: Refund on Entry, تجربة دافعي الضرائب العموميين والتعرفات الانتقائية
 ## بيانات SEO الوصفية
 - **عنوان SEO**: China Comprehensive Bonded Zone VAT Refund ' General Taxpayer Pilot  & AutoBridge
 - **وصف Meta**: كيف تعامل المناطق الصينية الشاملة المرابطة مع حركات الخط الأول/الخط الثاني عندما تعامل السلع المحلية التي تدخل المنطقة على أنها صادرات لـ VAT رد، وتجربة الدفع العام، والإغاثة من المعدات والتعريفات الانتقائية.
@@ -67,7 +67,7 @@
 
 ** ماذا يضيف طيار فات العام تاكسباير؟ ♪ ♪
 
-It lets an approved enterprise run both bonded and non-bonded business, transact domestically under normal VATميكانيكيs, and claim export refund/exemption on physical export.
+يتيح لمؤسسة معتمدة ممارسة النشاط الجمركي المربوط وغير المربوط معًا, transact domestically under normal VATميكانيكيs, and claim export refund/exemption on physical export.
 
 هل كل منطقة مترابطه طيار من شركة "الاكسباير" العامة؟ ♪ ♪
 

@@ -20,7 +20,7 @@ Những người xuất khẩu xe cộ phải đối mặt với cả chế đ�
 - **End-user/end-use chứng minh**: lấy tài liệu reend- use nơi có liên quan đến mục hay sử dụng nhạy cảm.
 - ** Cơ sở danh sách ảo ảo**: xác định mục (kể cả công nghệ hai sử dụng) nằm trong danh sách kiểm soát; phương tiện và đặc biệt là một số khung gầm, thiết bị điện tử hoặc hai bộ phận cần một kiểm tra đúng hơn là giả định rằng "ca không bị kiểm soát".
 - **Denied/recated nguyên tắc**: nơi một bên nằm trong danh sách kiểm soát/watch, hoặc sử dụng cuối cùng liên quan đến người dùng quân sự, WMD hoặc khủng bố, giấy phép không được cấp và giao dịch không được thực hiện.
-- **Records**: Người dùng kết thúc thích hợp  and  screening records are retained for **five years**.
+- **Records**: Người dùng kết thúc thích hợvà hồ sơ sàng lọc được lưu trong **five years**.
 - ** Các biện pháp tính toán**: duy trì một bước kiểm tra nội bộ tại các đầu vào (một chương trình điều hành hàng ngày, lời khai cuối sử dụng, tăng tốc cho các lượt truy cập).
 
 ## Làm thế nào để hiển thị mà không sao chép một danh sách bằng tay

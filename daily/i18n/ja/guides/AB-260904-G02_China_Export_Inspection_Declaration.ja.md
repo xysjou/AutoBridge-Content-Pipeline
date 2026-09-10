@@ -43,7 +43,7 @@
 - サードパーティのPSIは、法定検査とは記載されていません。BEVライセンスは、検査として記述されることはありません。
 
 ## よくある質問
-**Do all exported cars need statutory inspection?** There is no blanket rule — fix the ten-digit HS code  and  現在のカタログを調べる  and  そのコードの輸出監督条件。
+**Do all exported cars need statutory inspection?** There is no blanket rule — 10桁HSコードを確定し、  現在のカタログを調べる  and  そのコードの輸出監督条件。
 **カタログにコードがない場合は?** ランダムな検査(2024号163号外注輸出スコープは、子供用おもちゃのみ)で処理され、自動法定検査ではなく、別の法的要件を焼く。
 **買い手PSIは法定検査を交換しますか?** いいえ。彼らは別の義務です。
 **BEV輸出ライセンスは検査と同じですか?** いいえ。2026-01-01の電池式乗用車は輸出免許証の管理、並列規制の下の検査です。

@@ -39,7 +39,7 @@ Benda-benda Cina ini saat ini berada pada sumber media tunggal Cina di samping s
 ## Kereta dorong, Tangisan dan Payload - Masalah Label Pasar
 - ** Pesta waktu keempat-roda drive (Borgwarner) ** dengan ** 2H 4H 4L ** dan * kunci diferensial belakang ** pada dokumen 4x4 (Cina-sumber pasar; finalise terhadap lembar pembangunan).
 - ** Kapasitas berbobot 3500 kg adalah sebuah figur pabrik EXPORT- JAC yang sangat canggih (pasar EXPORT) ** dari situs ekspor OEM. Ini harus ** tidak ** ditulis sebagai nilai homologasi pengumuman Cina atau sebagai nomor sistematis-lebar; peringkat penderek pada dokumen homologasi tujuan adalah apa yang pemerintah gunakan di luar negeri.
-- ** Payload 1000 kg adalah tokoh pasar Cina, VERIFIED ** melalui situs resmi pickup JAC Cina (dengan dukungan ekspor-OEM).
+- ** Payload 1000 kg adalah tokoh pasar Cina, dikonfirmasi sumber primer ** melalui situs resmi pickup JAC Cina (dengan dukungan ekspor-OEM).
 - Ketersediaan RHD muncul di daftar ekspor, tapi matriks pasokan RHD yang tepat harus dikonfirmasi melalui saluran JAC resmi, tidak diasumsikan.
 
 ## Titik Konfigurasi Versi dan Order-

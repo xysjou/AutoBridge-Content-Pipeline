@@ -32,7 +32,7 @@ O intervalo de desempenho entre os dois é grande o suficiente para mudar a deci
 
 ## Equipamento e disciplina de aparamento
 
-Como acontece com a maioria dos sedans compactos chineses, a tecnologia visível — tela grande, driver-assist, iluminação e funções de assento — sobe com aparar e mudar por ano. A review of a high-spec Mach edition is not evidence that the 2025 1.5L mid-trim carries the same equipment. Especifique o nome exato e ano modelo e construa a ordem contra a folha da SKU.
+Como acontece com a maioria dos sedans compactos chineses, a tecnologia visível — tela grande, driver-assist, iluminação e funções de assento — sobe com aparar e mudar por ano. Uma análise a uma edição Mach de alta especificação não é prova de que a 2025 1.5o nível de equipamento L médio traz o mesmo equipamento. Especifique o nome exato e ano modelo e construa a ordem contra a folha da SKU.
 
 ## Preço, direcção e limite de exportação
 
@@ -40,7 +40,7 @@ O preço de orientação chinês é apenas uma referência nacional sensível ao
 
 ## Verificação do comprador no exterior antes do depósito
 
-1. Fix whether the offer is the current 2025 1.5L line or the older Mach 1.5T,  and  Rotule o período honestamente.
+1. Confirme se a oferta é a atual 2025 1.5linha L ou o Mach mais antigo 1.5T,  and  Rotule o período honestamente.
 2. Confirme a saída exata, caixa de velocidades e consumo WLTC contra a entrada de folha OEM / MIIT (ambos são de fonte única aqui).
 3. Dimensões de correspondência e a questão de comprimento de 4660-vs-4670 para o modelo-ano exato CoC.
 4. Confirme LHD/RHD e especificação de mercado de destino separadamente com a marca.

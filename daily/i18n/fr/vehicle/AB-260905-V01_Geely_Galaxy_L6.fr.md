@@ -36,7 +36,7 @@ La ligne EM-i est une traction avant et combine un moteur essence à aspiration 
 - **Motor**: 160 kW 262 N·m (puissance moteur contrôlée par contre; couple à source unique).
 - **Transmission**: 1 挡 DHT(EM-i 单挡混动专用变速) — un DHT à une seule vitesse, qui est la caractéristique EM-i définie par rapport à l'hybride multivitesse plus ancien.
 - **Lignes de batterie**: 8.5 19.09 kWh. Le fournisseur de piles à batterie n'est pas confirmé par Geely** et n'est pas intentionnellement indiqué.
-- **Taie électrique**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; sur WLTC, la référence capturée est 48 115 km. Les CTTC et les CTML sont des cycles différents — ne jamais citer un numéro CLTC comme chiffre d'exportation WLTC/NEDC.
+- **Taie électrique**: 60 140（对应8.5/19.09kWh） km CLTC pour les deux lignes respectivement; sur WLTC, la référence capturée est 48 115 km. Les CTTC et les CTML sont des cycles différents — ne jamais citer un numéro CLTC comme chiffre d'exportation WLTC/NEDC.
 - **Combiné/performance**: gamme combinée CLTC jusqu'à 最高 2000 km; 0–100 km/h 7.4 s; vitesse maximale 180 km/h; réservoir de carburant 60 L; coefficient de traînée 0.26.
 
 ## Tableau des spécifications vérifiées (référence du marché chinois)

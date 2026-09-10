@@ -71,7 +71,7 @@ FOB/CIFの数値は推定されません。 出荷先、数量、シャーシ構
 
 **海外のローカルボディとシャーシは合うことができますか。 アパート**
 
-あり、 しかしOEMのシャーシの均質を維持して下さい  and  the local superstructure compliance as two separate approvals.
+あり、 しかしOEMのシャーシの均質を維持して下さい  と現地架装適合を二つの別個の承認として.
 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |

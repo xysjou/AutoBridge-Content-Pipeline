@@ -43,7 +43,7 @@ Der **Foton General G9 (大将军 G9, 2025) ** ist ein chinesischer Markt Body-o
 Pickup-Aufträge scheitern am häufigsten auf Bettlänge und Antriebsstrang. Wählen Sie einen kurzen oder langen Radstand und passen Sie ihn den Bettabmessungen an; Wählen Sie 4WD nur dort, wo der Build einen Übertragungsfall eine niedrige Reichweite bestätigt. Der Diesel-Peak-Momente-Konflikt (390 vs 415 N·m) ist **vom Hersteller absichtlich ungelöst ** – erhalten Sie das OEM-Konfigurationsblatt für die genaue VIN, anstatt die günstige Nummer auszuwählen. Die Zugmasse wird nicht erfasst und darf nicht geschätzt werden. Bestätigen Sie die Emissionsstufe (China-VI-Diesel, 0 # Kraftstoff) gegenüber den Bestimmungskraftstoffqualitäts- und Zulassungsregeln.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
-1. Wählen Sie Diesel oder Benzin  and  the exact power/torque by VIN (resolve the 390/415 conflict).
+1. Wäwählen Sie Diesel oder Benzin, und die genaue Leistung/torque by VIN (resolve the 390/415 conflict).
 2. Wählen Sie kurzen langen Radstand und passen Sie das Bett; Zustand RWD oder 4WD.
 3. Bestätigen Sie das Getriebe (6MT/8AT) und die Differenzial-/Achsenspezifikation für den Bestimmungsort.
 4. Prüfung der Dieselemission/Kraftstoffverträglichkeit; Abschleppen/Zuglast aus Homologation, nicht Abschätzung.

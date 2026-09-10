@@ -38,7 +38,7 @@
 
 ## 拖动和有效载荷:故意未说明
 
-Circulating media claims of roughly **3.5 t towing**  and  roughly **1 t payload** are **unverified** in this file — there is no homologation bulletin or OEM same-trim source behind them,  and  因此,这些结论** 并未作为事实提出。 对于工作载荷,这些是商业上最重要的数字,因此正确的行动是从精确型号的合格证书/MIIT输入中获取,其中的额定载荷、车辆总质量和任何经核准的拖车数字都正式记录下来。 不要对论坛编号大小拖车或负载 。
+Circulating media claims of roughly **3.5 t towing**  and  roughly **1 t payload** are **unverified** in this file — 其背后没有公告或原厂同配置来源,  and  因此,这些结论** 并未作为事实提出。 对于工作载荷,这些是商业上最重要的数字,因此正确的行动是从精确型号的合格证书/MIIT输入中获取,其中的额定载荷、车辆总质量和任何经核准的拖车数字都正式记录下来。 不要对论坛编号大小拖车或负载 。
 
 ## 指导、燃料和出口边界
 

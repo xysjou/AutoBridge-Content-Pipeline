@@ -33,7 +33,7 @@ Keempat angka tersebut tidak dapat diubah: masing-masing dimiliki oleh sebuah ba
 
 ## Mengapa "CLTC" penting bagi pembeli ekspor
 
-Angka jangkauan Cina menggunakan siklus ** CLTC **, yang lebih murah hati daripada WLTP dan jauh lebih murah hati daripada EPA. An overseas buyer converting expectations should treat the 515–620 km CLTC numbers as China-cycle references  and  Meminta destination- siklus atau data real-world secara terpisah. Sama dengan Cina - Spek M03 menggunakan Cina pengisian standar / konektor; Kompatibilitas dengan jaringan publik tujuan dan koneksi pasar ekspor apapun harus diverifikasi secara terpisah dan tidak diasumsikan dari spesifikasi Cina.
+Angka jangkauan Cina menggunakan siklus ** CLTC **, yang lebih murah hati daripada WLTP dan jauh lebih murah hati daripada EPA. Pembeli luar negeri yang mengonversi ekspektasi harus memperlakukan 515–620 km CLTC numbers as China-cycle references  and  Meminta destination- siklus atau data real-world secara terpisah. Sama dengan Cina - Spek M03 menggunakan Cina pengisian standar / konektor; Kompatibilitas dengan jaringan publik tujuan dan koneksi pasar ekspor apapun harus diverifikasi secara terpisah dan tidak diasumsikan dari spesifikasi Cina.
 
 ## Perangkat lunak, peralatan dan disiplin trim
 

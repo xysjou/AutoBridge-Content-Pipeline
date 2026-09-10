@@ -1,4 +1,4 @@
-# Membaca dan Verifikasi kendaraan China VIN dan Nameplate Under GB 16735-2019
+# Membaca dan Memverifikasi VIN serta Papan Nama Kendaraan Tiongkok di bawah standar GB 16735-2019
 
 ## Metadata SEO
 - **Judul SEO**: VIN & Verifikasi pelat nama untuk impor Kendaraan Cina - GB 16735-2019
@@ -27,7 +27,7 @@ Nomor identifikasi kendaraan adalah 17 karakter dibagi menjadi tiga bagian:
 ## Apa yang Kita Disengaja Jangan Infer Dari Karakter Pertama
 Karakter pertama WMI dialokasikan oleh tubuh yang berwenang. Pemandu ini tidak menyatakan aturan selimut seperti "kendaraan Cina dimulai dengan L (beberapa dengan H)" sebagai tes asal definitif: klaim tersebut tidak dikonfirmasi standar yang dapat diandalkan dalam penelitian saat ini dan diperlakukan sebagai ** belum diverifikasi **. Origin dan produsen harus dibaca dari alokasi ** yang berwenang WMI **, bukan menebak dari huruf awal; pencarian spesifik WMI- prefix- ke-produsen membutuhkan tabel alokasi dan tidak direproduksi di sini. Aturan format VIN negara yang ditentukan adalah negara tertentu dan dicentang secara terpisah.
 
-## The Four- Place Match Before Balance Pacial
+## Pencocokan Empat Titik Sebelum Pelunasan
 Bandingkan 17 karakter yang sama di empat lokasi dan konfirmasi tidak ada grinding, re-stamping atau over- spray:
 1. ** Terstamped dipahat VIN pada tubuh ** (chassis).
 2. ** VIN di papan nama **.

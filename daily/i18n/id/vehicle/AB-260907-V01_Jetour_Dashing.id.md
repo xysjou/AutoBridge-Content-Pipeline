@@ -42,7 +42,7 @@ Setiap produsen harga panduan adalah ** waktu-sensitif referensi domestik **, be
 
 ## Garis pasar dan penyeberangan
 
-The Chinese- pasar Dashing direferensikan di sini adalah ** Kiri- hand drive **. Tidak ada bukti OEM dalam berkas ini yang membangun pabrik dengan benar... drive mobil Cina-pasar, jadi tujuan RHD membutuhkan jawaban terpisah dari merek. Sama dengan di luar negeri "Dashing" atau nama daerah Jetour yang tidak diasumsikan identik dengan kekuatan kereta Cina 2024/2025; spesifikasi model alias dan ekspor memerlukan pernyataan OEM, dan tanpa satu mobil regional diperlakukan sebagai terkait, tidak sama, membangun.
+Dashing pasar Tiongkok yang dirujuk di sini adalah ** Kiri- hand drive **. Tidak ada bukti OEM dalam berkas ini yang membangun pabrik dengan benar... drive mobil Cina-pasar, jadi tujuan RHD membutuhkan jawaban terpisah dari merek. Sama dengan di luar negeri "Dashing" atau nama daerah Jetour yang tidak diasumsikan identik dengan kekuatan kereta Cina 2024/2025; spesifikasi model alias dan ekspor memerlukan pernyataan OEM, dan tanpa satu mobil regional diperlakukan sebagai terkait, tidak sama, membangun.
 
 ## Pembeli luar negeri verifikasi sebelum deposit
 

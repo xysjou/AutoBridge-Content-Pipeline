@@ -25,7 +25,7 @@ The Lingzhi M5 is a **utilitarian front-wheel-drive van / commercial MPV** built
 | Wheelbase | 3000 mm | 2800 mm |
 | Seat layouts offered | 7 / 9 seats | 5 / 7 / 8 seats |
 
-Dimensions, wheelbases and seat layouts are **VERIFIED** against the Forthing official parameter page and matched by the databases. The tall, near-vertical body (1970 mm height) is a deliberate cargo/people box — useful interior volume is the design goal. Confirm the exact seat count, because the same "M5L" label covers both 7- and 9-seat builds.
+Dimensions, wheelbases and seat layouts are **confirmed by primary sources** against the Forthing official parameter page and matched by the databases. The tall, near-vertical body (1970 mm height) is a deliberate cargo/people box — useful interior volume is the design goal. Confirm the exact seat count, because the same "M5L" label covers both 7- and 9-seat builds.
 
 ## Powertrains — Petrol Turbo vs Naturally Aspirated CNG
 

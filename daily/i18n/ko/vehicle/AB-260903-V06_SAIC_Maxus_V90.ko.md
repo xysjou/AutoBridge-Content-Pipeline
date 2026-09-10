@@ -33,7 +33,7 @@ Xintu V90는 ** 전폭적인 몸 가벼운 상업적인 플랫폼 **는 여객 m
 - **Passenger 버전 좌석: 9–15, 균질화 모델 당 엄격 (단일 소스; 발표 모델 코드에 확인)**.
 - 지붕 높이, 슬라이딩 레이 도어 레이아웃,화물 대 여객 인테리어 및 섀시 캐브 변종 GVW 클래스 사용 및 라이센스 범주를 변경합니다.
 
-wheelbase 때문에, 지붕, 의 특징  and  Rear-axle 선택은 많은 균질화 부호로 결합합니다,  a spec line copied from one V90 cannot be applied to another — request the build sheet for the precise model code before quoting.
+wheelbase 때문에, 지붕, 의 특징  and  Rear-axle 선택은 많은 균질화 부호로 결합합니다,  한 V에서 복사한 제원 줄90 cannot be applied to another — 견적 전 정확한 모델 코드의 빌드시트를 요청하라.
 
 ## 단위 당 Reconcile에 상업적인 명세
 1. **Exact model/announcement code** → 엔진 파워, GVW, 좌석, 바디 타입.
