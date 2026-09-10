@@ -25,8 +25,8 @@ CMP ส่งสัญญาณ TORion-beam/transward-dors-dormed adorm adame at
 
 | เส้น | อ้างอิงตลาดจีน | กล่องปรับเลข | ระยะ/ สถานะ | ความมั่นใจ |
 |---|---|---|---|---|
-| 1.5L ตามธรรมชาติที่เพิ่มขึ้น (2025) | 92 kW (125 PS) / 158 N·m; WLTC ผนวก ≈ 6.24 L / 100 km | 6-speed เปียกคู่ | 2025 บรรทัดหลักปัจจุบัน | SINGLE_SOURCE — ได้รับการยืนยันโดย VIN/OEM|
-| มัค 1.5T (马赫版). | 145 kW (197 PS) / 300 N·m | Getraug 6-speed เปียกคู่ | 2022/2023 older line, ไม่ใช่สายหลัก 2025 | SINGLE_SOURCE|
+| 1.5L ตามธรรมชาติที่เพิ่มขึ้น (2025) | 92 kW (125 PS) / 158 N·m; WLTC ผนวก ≈ 6.24 L / 100 km | 6-speed เปียกคู่ | 2025 บรรทัดหลักปัจจุบัน | single source — ได้รับการยืนยันโดย VIN/OEM|
+| มัค 1.5T (马赫版). | 145 kW (197 PS) / 300 N·m | Getraug 6-speed เปียกคู่ | 2022/2023 older line, ไม่ใช่สายหลัก 2025 | single source|
 
 ช่องว่างของการแสดงระหว่างทั้งสองลํานั้น ใหญ่พอที่จะเปลี่ยนแปลงการตัดสินใจของผู้ซื้อ ซึ่งเป็นเหตุผลที่ว่า ทําไมพวกเขาต้องไม่ถูกรวมเป็นหนึ่ง "เครื่องยนต์" แมช 1.5T ควรจะถูกตราหน้าว่าเป็น "พลังงาน" นําเสนอเป็นซีดานที่มีอยู่ในปัจจุบันจะเข้าใจผิด การแสดงผลทั้งสองแบบ อยู่ในช่วงว่างงาน  and  ควรจะปิดหน้าการปรับแต่งอย่างเป็นทางการของเอโอลู หรือรายการการเข้ารับสมัครของ MIT ก่อนสัญญา การบริโภคเชื้อเพลิงถูกอ้างถึงวงจรของยูแอลทีซี และจะต้องไม่เปรียบเทียบกับ NEDC หรือ CLTC จากรถคันอื่น
 
@@ -68,19 +68,19 @@ CMP ส่งสัญญาณ TORion-beam/transward-dors-dormed adorm adame at
 
 ไม่มีโรงงาน RHD ก่อตั้งขึ้นโดยแหล่งตลาดจีนที่นี่ สเปกและส่งออกต้องการหลักฐาน OEM ต่างหาก
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-08
-- ~ตลาดแห่งความไม่สงบ~:  CHINA (中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方/公告按年款 SKU 终核]
+- ~ตลาดแห่งความไม่สงบ~:  CHINA (China-market reference; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方/公告按年款 SKU final confirmation]
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา ผลผลิตจากแหล่งข่าวเดียว, การตัดสาย และราคาอ้างอิงภายในประเทศ ต้องยืนยันค่าเดิมในบันทึกรายการ OEM หรือ MIT ก่อนทําการข้ามประเทศ
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

@@ -37,7 +37,7 @@ Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nh�
 1. **Stet sử dụng** (traction người hàng hóa chức năng đặc biệt không có sức mạnh) — điều này chọn tiêu đề.
 2. **Count sings** cho xe chở khách (Gorm 9 87.03; 10+ 87.02); xác định máy kéo dưới 87.01.
 3. **Separate errater from crime**: một đầu máy kéo 87.01 và một chiếc bán tải 8716 được phân loại độc lập.
-4. **Drill to the current ten-digit national subheading** in the **2026 tariff** for the year of declaration.
+4. **Xác định mã phân nhóm quốc gia mười số hiện hành** trong **biểu thuế 2026** cho năm khai báo.
 5. **Chỉ sau đó** thảo luận chứng nhận gốc, kiểm tra và thuế xuất phát; không bao giờ chạy một " thủ tục xe tải" trên 87.01/87.04/87.05/8716.
 
 ## Trang này không có quyền hạn
@@ -83,17 +83,17 @@ Xe chở khách vẫn là 87.03 chứ? Đúng vậy, xe điện và xe chở kh�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Nhập khẩu và Xuất khẩu Tariff của PRC (2026), Ủy ban Tariff của Hội đồng Nhà nước | Bộ Tài chính (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VEIID (TIẾNG) | 87.01–87.05/8716 tên tiêu đề hiện thời |
-| GCC thông báo về việc thực hiện chương trình điều chỉnh 2026 thuế | Tổng quản trị tập quán Trung Quốc | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VEIID (TIẾNG) | 2026 cơ sở thực thi pháp luật, quy tắc hàng năm |
-| 2026 HS query · Chapter 87 headings | i5a6 Hệ thống truy vấn hệ thống | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | ĐÃ_ ĐÃ | Hướng |
-| Phong tục Q&A cho xe ba bánh điện (8703.80 8704.60) | Tuỳ biến | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
-*Scope: Cơ sở hiện nay là 2026 thuế má và GACC công bố; 2018/2020 bảng cũ không còn được dùng làm căn bản chính nữa. Nhiệm vụ đích đến và chính xác mười chữ số phụ nằm ngoài phạm vi và phải được kiểm tra mỗi quốc gia/năm thuế. *
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VEII | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局) tan | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VEII | 870230/870240 大中型 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

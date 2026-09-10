@@ -80,16 +80,16 @@ Hay là dùng pin dự phòng trong cùng một container? Pin liquit dùng UN34
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Bộ sửa đổi mã IMDG 42-24 văn bản tiếng Hoa chính thức PDF | Chính quyền an toàn hải quân Trung Quốc | Bộ thực thi pháp luật/CN | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VEIID (TIẾNG) | 42-24, MEC. 556 (108), 2026-01-01, UN3556-3558, P912, Hạng 9 |
-| Sổ tay LHQ của các thử nghiệm và Criteria (Rev. 8 +  1), mục 38.3 (SCETDG- 66 INF. 30). | UNECE Sub-Cmittee | I - MI | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VEIID (TIẾNG) | Rev. 8+Amd.1,  UN38.3 T.1–T.8, Natri- eci |
-| Liên Hiệp Quốc/SCETG- 64 IF. 29 ID-battery 38.3 sửa đổi đánh dấu | UNECE | I - MI | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VEIID (TIẾNG) | 38.3 sửa đổi đánh dấu |
-| US 49 CFR  173.185 (kết hợp UN38.3 bởi IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VEIID (TIẾNG) | UN3480/3481, thống kê UN38.3 |
-| IMDG 42-24 phiên dịch (MSC. 556 (108), ngày tháng hiệu quả) | Trung Quốc — Thời kỳ thai nghén (sứ đồ) | INL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | ĐÃ_ ĐÃ (Hỗ trợ) | Trình giải thích ngày tháng hiệu quả |
-| UN3556 SP405 giải thích | Tin Jiupai (ppost) | I - MI | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE (Hỗ trợ) | SP405 đánh dấu |
-*Evidence: Bản phân loại cốt lõi được đặt cho MSA (IMDG 42-24) và UNECE (Sự giao hợp nhân bản, 8+Amd.1 CNR), 49 CFR; các trang truyền thông/indust chỉ hỗ trợ và không phải là bằng chứng chính của số LHQ hoặc UN38.3. Giá trị cố định SOC vẫn bị chặn. *
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

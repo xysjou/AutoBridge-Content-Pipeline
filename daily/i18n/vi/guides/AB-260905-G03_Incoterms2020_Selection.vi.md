@@ -38,16 +38,16 @@ Dưới sự quản lý của người bán, bảo hiểm biển được bảo 
 **Tại sao DDP lại nguy hiểm đối với người xuất khẩu ở Trung Quốc? Nó khiến người bán chịu trách nhiệm về việc nhập khẩu quyền hạn, nhiệm vụ và thuế.
 ** Bao nhiêu bản định kỳ 2020 quy tắc? Mười một, trong hai nhóm vận chuyển.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) | 中国贸促会广西分会 | CN | T1 | VEII | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语. 按运输方式分类. 风险费用划分 |
-| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN | T1 | VEII | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CFR/CFAT, 船舷 装上船 |
-| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN | T3 | ĐÃ_ ĐÃ | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Ký hiệu 2020 quy tắc (ICC) | Phòng thương mại quốc tế | CN | T1 | VEII | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Người công bố có thẩm quyền của Incocations 2020 |
-| Công cụ và công cụ gốc của WCO | Tổ chức phong tục thế giới | CN | T1 | VEII | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | khung và dụng cụ quy tắc cơ bản được WCO duy trì |
-| Luật ICC (Chỉ định 2020 người sở hữu luật lệ — trang tận tụy) | Phòng thương mại quốc tế | I - MI | T1/T2 | VEII | https://iccwbo.org/business-solutions/icc-rules/ | Xác nhận chỉ mục các quy tắc ICC xác nhận định 2020 là từ được lập và bảo trì bởi ICC |
-| FIATA — Thực hành hàng đầu dưới sự điều chỉnh của mục tiêu | Liên bang quốc tế của các hiệp hội tiến bộ Freight (FIATA) | I - MI | T1/T2 | VEII | https://www.fiata.org/ | Giải thích phía trước của điểm giao hàng, rủi ro chuyển giao và giao thông nghĩa vụ theo định nghĩa |
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | primary | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | primary | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/icc-rules/ | Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC |
+| FIATA — freight forwarder practice under Incoterms | International Federation of Freight Forwarders Associations (FIATA) | INT | primary/independent | VERIFIED | https://www.fiata.org/ | Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

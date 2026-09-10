@@ -93,16 +93,16 @@ Händler-Notizen verschmelzen einen Pkw-Prozess, dauerhafte Regeln und gerüchte
   - **AR**: مرجع AutoBridge لمشتري التصدير — Saudi commercial-truck import (SABER/ZATCA), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Saudi commercial-truck import (SABER/ZATCA), 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Unterstützte Fakten (und Umfang) |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts (and scope) |
 |---|---|---|---|---|---|---|
-| Offizielle Konformitätsplattform SABER | SASO Thiqah (** Regierungsplattform offiziell**) | SA | https://saber.sa/ | 2026-09-03 | ** ÜBERPRÜFUNG** | SABER-Architektur; Akkreditierungsstelle; PCoC/SCoC-Modell für regulierte Produkte |
-| Saudi-Arabien - Handelsnormen | US International Trade Administration (** Regierungsbeamter**) | SA/US | https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade | 2026-09-03 | ** ÜBERPRÜFUNG** | SABER verbindet Importeure/akkreditierte Stellen/Zoll |
-| ZATCA Fahrzeugführung/-rechnung (5% + 15%) — nur Fahrzeugbereich** | ZATCA über öffentliche Berichterstattung (primär: zatca.gov.sa) | SA | https://english.ajel.sa/news/f7sn5nj77 | 2026-09-03 | CROSS_CHECKED | 5%/15% für die zutreffende Kategorie des Rechners **Lichtfahrzeug**; NICHT für HS-Positionen von LKW geltend gemacht |
-| HS-Positionen 87.01/87.04/87.05/8716 | Weltzollorganisation (HS-Nomenklatur) (*Standards-Gremium**) | Global | https://www.wcoomd.org/ (HS-Nomenklatur) | 2026-09-03 | ** ÜBERPRÜFUNG** | Commercial-vehicle heading boundaries used for HS-first routing |
-| SASO 2026 — lokale Genehmigungsregel für schwere Nutzfahrzeuge (widersprüchliche Daten) | SHACMAN Global (Händler) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | UNVERFÜHRT | Nur Anspruch; Watchlist, nicht Tatsache |
-| Reported ISO 22513-2/RDI mandate | SinotruckExp (Händler) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERFÜHRT | Nur Anspruch; Watchlist, nicht Tatsache |
-*Vertrauens- und Anwendungsbereichsvermerk (PRIMARY_SOURCE_SCOPE_MUST_MATCH): eine offizielle Quelle deckt nur ihren angegebenen Anwendungsbereich ab. Das PCoC/SCoC-Modell von SABER wird für regulierte Produkte GEPRÜFT, wird jedoch nicht für alle HS-Linien von Nutzfahrzeugen einheitlich angenommen. Der ZATCA 5% 15% ist auf seinen Umfang für leichte Fahrzeuge beschränkt und ist kein chinesischer gewerblicher LKW-Tarif. Die HS→Verordnung→Zertifikats-Zuordnung für einen bestimmten LKW muss von einer akkreditierten saudischen Stelle schriftlich bestätigt werden. 2026 local-approval/RDI/ADAS/fast-track/carbon claims remain UNVERIFIED.*
+| SABER official conformity platform | SASO / Thiqah (**government platform official**) | SA | https://saber.sa/ | 2026-09-03 | **VERIFIED** | SABER architecture; accredited-body issuance; PCoC/SCoC model for regulated products |
+| Saudi Arabia — Standards for Trade | US International Trade Administration (**government official**) | SA/US | https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade | 2026-09-03 | **VERIFIED** | SABER connects importers/accredited bodies/customs |
+| ZATCA vehicle guidance/calculator (5% + 15%) — **light-vehicle scope only** | ZATCA via public reporting (primary: zatca.gov.sa) | SA | https://english.ajel.sa/news/f7sn5nj77 | 2026-09-03 | CROSS_CHECKED | 5%/15% for the calculator's applicable **light-vehicle** category; NOT asserted for truck HS headings |
+| HS headings 87.01/87.04/87.05/8716 | World Customs Organization HS nomenclature (**standards body**) | Global | https://www.wcoomd.org/ (HS Nomenclature) | 2026-09-03 | **VERIFIED** | Commercial-vehicle heading boundaries used for HS-first routing |
+| Reported SASO 2026 heavy-truck local-approval rule (conflicting dates) | SHACMAN Global (dealer) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
+| Reported ISO 22513-2/RDI mandate | SinotruckExp (dealer) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
+*Confidence & scope note (PRIMARY_SOURCE_SCOPE_MUST_MATCH): an official source covers only its stated scope. SABER's PCoC/SCoC model is VERIFIED for regulated products but is not assumed uniform across all commercial-vehicle HS lines; the ZATCA 5%/15% is confined to its light-vehicle scope and is not a Chinese-commercial-truck tariff. The HS→regulation→certificate mapping for a specific truck must be confirmed in writing by an accredited Saudi body. 2026 local-approval/RDI/ADAS/fast-track/carbon claims remain UNVERIFIED.*
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05

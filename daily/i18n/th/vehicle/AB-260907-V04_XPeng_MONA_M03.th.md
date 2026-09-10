@@ -24,10 +24,10 @@ XPhang MONA M03 เป็นรถซีดานอัตโนมัติข�
 
 | อีลีเมนต์ | ค่าอ้างอิงของตลาดจีน | ความมั่นใจ / โน้ต |
 |---|---|---|
-| แบตเตอรี | ซอง LFP ของ < 51.8 kWh*  and  ** 62.2 kWh ** | SINGLE_SOURCE — ประเภท) แตกต่างกันโดยชุด — ยืนยันกับ XPen, อย่ายืนยันการจัดหาที่คงที่|
-| ขอบเขต CLTC | ** 515 / 502 / 620 / 600 km ** แต่ละสายต่อแบตเตอรี่ + มอเตอร์รหัส # | SINGLE_SOURCE — ไม่เคยเทียบเท่า WLTP/EPA|
-| มอเตอร์ (หน้า PMSM) | ** 140 kW (190 PS) / 225 N·m **  and  ** 160 kW (218 PS) / 250 N·m ** | SINGLE_SOURCE |
-| Claimed 0–100 km/h | ~ 7.8 s / 7.4 s* สําหรับระดับมอเตอร์แต่ละเครื่อง | SINGLE_SOURCE|
+| แบตเตอรี | ซอง LFP ของ < 51.8 kWh*  and  ** 62.2 kWh ** | single source — ประเภท) แตกต่างกันโดยชุด — ยืนยันกับ XPen, อย่ายืนยันการจัดหาที่คงที่|
+| ขอบเขต CLTC | ** 515 / 502 / 620 / 600 km ** แต่ละสายต่อแบตเตอรี่ + มอเตอร์รหัส # | single source — ไม่เคยเทียบเท่า WLTP/EPA|
+| มอเตอร์ (หน้า PMSM) | ** 140 kW (190 PS) / 225 N·m **  and  ** 160 kW (218 PS) / 250 N·m ** | single source |
+| Claimed 0–100 km/h | ~ 7.8 s / 7.4 s* สําหรับระดับมอเตอร์แต่ละเครื่อง | single source|
 
 เลขช่วงสี่ตัวนี้ ไม่สามารถสลับได้ แต่ละคนเป็นของคู่แบตเตอรี่และโมโต้ ข้อสังเกตที่บอกว่า "M03, 620 km" "โดยไม่ตั้งชื่อแพ็ค 62.2 kWh และมอเตอร์ที่เข้าคู่กันไม่สมบูรณ์ และจับคู่ 620 km ช่วงด้วยเครื่องลัดวงจร 140 kW จะเป็นความผิดพลาดของเมทริกซ์". สร้าง สาย เคเบิล สาม สาย — แบตเตอรี่  กาล ซี ซี มอเตอร์ — สําหรับ SKU ที่ แน่นอน  and  ปิดกับเอกสารการปรับแต่งอย่างเป็นทางการของ XPeng สูงสุดและเวลาชาร์จไฟไม่ได้ระบุที่นี่ เพราะไม่มีเจ้าหน้าที่คนไหนถูกจับ รับมาจากโออีเอ็ม สําหรับเวอร์ชันเฉพาะ แทนที่จะคัดลอกรีวิว
 
@@ -73,19 +73,19 @@ CLTC ระดับ 515, 502, 620 และ 600 km แต่ละสายเ�
 
 การควบรวมค่าใช้จ่ายตามมาตรฐานของจีน และการก่อสร้าง RHD/เอ็กพอดท์ใดๆ ก็ต้องการแยกหลักฐาน โออีเอ็มออกจากกัน อย่าตั้งมันจากข้อกําหนดของประเทศจีน
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
-| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
-| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
-| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | media/industry | single source | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-08
-- ~ตลาดแห่งความเสมอภาค ~: CHINA（中国市场参考；续航为CLTC，电池-SKU对应/供应商/快充为单一来源须小鹏官方终核）
-- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา แบตเตอรี่แบบ Oneource/ Repender-motor plancess, ชาร์จไฟไฟไฟไฟไฟที่เข้ากันได้ และราคาอ้างอิงภายในประเทศจะต้องยืนยันอีกครั้งบนแผ่น OEM หรือรายการ MIIT ก่อนทําการส่งผ่าน
+- ~ตลาดแห่งความเสมอภาค ~: CHINA（China-market reference；续航为CLTC，电池-SKU对应/供应商/快充为单一来源须小鹏官方final confirmation）
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา แบตเตอรี่แบบ Oneource/ Repender-motor plancess, ชาร์จไฟที่เข้ากันได้ และราคาอ้างอิงภายในประเทศจะต้องยืนยันอีกครั้งบนแผ่น OEM หรือรายการ MIIT ก่อนทําการส่งผ่าน
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

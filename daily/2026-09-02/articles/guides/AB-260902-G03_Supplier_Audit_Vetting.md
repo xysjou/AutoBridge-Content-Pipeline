@@ -121,8 +121,8 @@ A license scan proves a company exists, not that it may export *your* vehicle. T
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
-| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
 | How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
 | How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
 | 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |

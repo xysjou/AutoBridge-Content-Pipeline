@@ -110,22 +110,22 @@ Aucun prix faisant autorité n'a été capturé — le prix des récifaux varie 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## Sources et vérification
+## Sources & Verification
 
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Paramètres de la récifeuse Aumark Jieyun 150 | (卡车之家) | NC | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | _CHECTURE | Annonce, moteur Yunnei, ZF6, poids, boîte, options d'unité | 360che
-| Page officielle de récif Ollin | Foton Ollin (officiel) | NC | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VÉRIFIER | Options de moteur de récif à mi-roue, série de boîtes |
-| Suyun reafer boîte de livraison | Foton Ollin (officiel) | NC | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VÉRIFIER | 4.2 m de récif, Cummins 2.8,  18 m³, 3360 WB |
-| Article de récif Ollin | Dongchedi (懂车帝) | NC | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | _CHECTURE | Cummins 150/163 PS, 470 N·m |
+| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
+| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
+| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
+| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED | Cummins 150/163 PS, 470 N·m |
 
-| Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
-| BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
-| GB 18352.6-2016 avec l'amendement XG1-2026 (Chine-6 émissions polluantes des véhicules légers) | Ministère de l'écologie et de l'environnement (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VÉRIFIER | Chine- 6 phase d'émission des véhicules légers et les dates d'application de l'amendement 2026 |
-| GB 19147 carburant diesel automobile standard national (base à faible teneur en soufre) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VÉRIFIER | Cote de carburant diesel et base de soufre pour correspondre à la conception du moteur/de l'émission outre-mer |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Note de confiance (standard AutoBridge): Les faits Cummins/Suyun sont VÉRIFIÉS sur des documents officiels Foton et recoupés; les chiffres détaillés de l'annonce Jieyun sont SINGLE_SOURCE (360che). Les modèles d'unités de rééferrage et le prix sont dépendants du constructeur et NON VÉRIFIÉS pour le prix; confirmer par écrit. *
+*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are single source (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

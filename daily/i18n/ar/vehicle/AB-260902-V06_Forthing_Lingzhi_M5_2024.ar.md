@@ -41,13 +41,13 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
 ونظراً لأن هذا هو منصة تجارية فإن تحديدها داخلها بعناية كما هو محركها:
 
 - ** مكوك باسينغر**: 9-seat M5L maximises fare-paying capacity — verify local rules on which vehicle categories may carry 9 occupants  and  -الرخصة المطلوبة
-- ** Crew + cargo convertible use**: confirm whether seats are removable/folding and whether the destination registers the unit as passenger or commercial (this affects taxation and inspection).
-- ** Access**: confirm sliding side door count and tailgate type for your operation.
+- **استخدام قابل للتحويل بين الركاب والبضائع**: تأكد ما إذا كانت المقاعد قابلة للإزالة/الطي، وما إذا كان بلد الوجهة يسجّل الوحدة كمركبة ركاب أم تجارية (يؤثر ذلك على الضريبة والفحص).
+- **الوصول**: تأكد من عدد الأبواب الجانبية المنزلقة ونوع الباب الخلفي بما يناسب تشغيلك.
 - ** تكييف الهواء**: ينبغي تأكيد تعيين المصابين بالعدوى المكشوفة من الفئة ألف إلى 9-seat من الخدمة حسب الرتبة.
 
 ولم يتم تسجيل تقديرات الحمولة وحجم البضائع في المرحلة 1، ولا تقدر هنا؛ وطلبها من المواصفات التجارية الرسمية لبناء قاعدة بدقة.
 
-## China Reference vs Export Reality
+## المرجع الصيني مقابل واقع التصدير
 
 -الوحدات الصينية LHD، يدوي، صينية التأكد مما إذا كان المصنع RHD أو M5 Lingzhi للصادرات موجود للمقصد بدلا من افتراض التحويل.
 - التحقق من صحة قواعد المقصد و الوقود و الـ (CNG) و السيارة تحتاج إلى شهادة وقود و مُعترفة بـ (غاز) و معايير إعادة الوقود
@@ -59,9 +59,9 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
 ## التحقق قبل انتهاء الخدمة القائمة
 
 - Pin down M5 vs M5L (2800 vs 3000 mm wheelbase) and exact seat count (5/7/8/9)
-- Pin down powertrain (1.5T petrol 6MT vs 1.6L CNG 5MT); confirm manual is acceptable for the end client.
+- حدّد مجموعة الحركة (1.5T بنزين 6MT مقابل 1.6L CNG 5MT)؛ وتأكد أن ناقل الحركة اليدوي مقبول لدى العميل النهائي.
 - وبالنسبة إلى المجلس الوطني للغاز، التحقق من التصديق على خط البنزين، ودرجة إعادة الوقود، ودرجة التسجيل في المقصد.
-- Confirm LHD/RHD, emission acceptance, rear AC and door formation by grade.
+- تأكد من LHD/RHD، وقبول الانبعاثات، والتكييف الخلفي وتكوين الأبواب حسب الفئة.
 - الحصول على أرقام الرسمية ووزن كبح لوحات شبكة المعلومات الشخصية قبل التسجيل.
 
 ## طلب تخصيص موارد التصدير الحالية
@@ -70,10 +70,10 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
 
 ## Buyer FAQ
 
-**Does the Lingzhi M5 come with an automatic gearbox?** In the captured 2024 China range,  no — the 1.5T is 6-speed manual  and  The 1.6 CNG is 5-speed manual.
+**هل تأتي لينغزهي M5 بناقل حركة أوتوماتيكي؟** في تشكيلة الصين 2024 الموثّقة، لا — طراز 1.5T بناقل يدوي من 6 سرعات، وطراز 1.6 CNG بناقل يدوي من 5 سرعات.
 **How many seats can it have?** The long M5L offers 7 or 9 seats; ويقدم الـ M5 القصير 5/7/8 - يؤكد المخطط الدقيق.
 ** ما هو CNG نسخة؟ انها تعمل على الغاز الطبيعي المضغوط انخفاض تكلفة الوقود الهياكل الأساسية هناك شهادة ولكن في 75 kW هو أقل بكثير أقوى من 140 KW 1.5T.
-**What is the wheelbase difference?** 3000 mm (M5L long) versus 2800 mm (M5 short).
+**ما الفرق في قاعدة العجلات؟** 3000 mm (M5L الطويلة) مقابل 2800 mm (M5 القصيرة).
 ** محرك اليد اليمنى؟ منتجات أخرى في بعض RHD الأسواق، لكن RHD Lingzhi يجب تأكيد M5 للمقصد المحدد بدلا من الافتراض.
 
 ## سجل الصور
@@ -102,21 +102,21 @@ The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## المصدر: التحقق
+## Sources & Verification
 
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| لينجزي البارامترات الرسمية | دونغفنغ لوث (رسمي) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | مفقود | 2800/3000 مقعد، 5/7/9 مقعد، إطار عمل للفوضى |
-| نموذجي قدره 1.5T 9-seat M5L | دونغشيدي (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | صرخات | 1.5T 140 kW 300 N·m, 3000 mm WB, curb 1700 kg |
-| منضدة لينغزي | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | صرخات | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
-| لينجزي M5 مادة | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | صرخات | الطلقات، قاعدة العجلات، 7/9-seat مخطط |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
-| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* ملاحظة مُناسبة (معيار (أوتوبريدج): مُنقَط على صفحة (فورينغ) الرسمية، 1.5T/CNG مُتجرّد طاقة هي (كروس - CHECKED)... بالطبع ولم يكن حجم في قاعدة الوقائع، بل ترك للصحيفة الرسمية؛ ولم يتم تأكيد المواصفات على أساس الصحة الإنجابية. 
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

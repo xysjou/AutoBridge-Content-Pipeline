@@ -5,7 +5,7 @@
 - **Meta描述**: 中国市场JAC 连接V6辆蓝板轻型货车: 云内D25型柴油机 安康160线, 货物箱,   GVW /payload,  and  单源质量警告。
 - **H1**: JAC 顺灵V6(2024/2025)——中马轻车标本和出口检定.
 - **核心关键词**: JAC  / 江淮 骏铃V6 轻卡（Light Truck） specs export
-- **次级搜索词**: JAC 维基月球  Jun宁V6出口;江淮轻车;中国货车;蓝板货车;云内D25
+- **次级搜索词**: JAC   Jun宁V6出口;江淮轻车;中国货车;蓝板货车;云内D25
 - **建议URL**: /vehicles/jac-junling-v6/
 - **搜索意图**: 了解JAC Junling V6(2024/2025)——中马轻车标本和出口检查:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
 - **内链建议**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
@@ -25,13 +25,13 @@
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| 发动机 d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 存档副本. | - 说吧 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 引擎d25转矩 | 400 | 不详 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 电动列车 ankang160 | 安康160 + 6挡全铝变速箱 + AAM后桥 | - 说吧 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 缩放重量 | 2.565 | 计数 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 维基百科中的相关条目: 维基百科中的相关条目: 维基语录链接:名人名言 - 分类 | 4.495 | 计数 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 额定有效载荷 | 1.735 | 计数 | 中国 | 资源 | 卡车之家镜像 维基月球 |
-| 内置货箱 | 约4220×2075×400 | 毫米 | 中国 | 资源 | 卡车之家镜像 维基月球 |
+| 发动机 d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 存档副本. | | 中国 | 资源 | 卡车之家镜像  |
+| 引擎d25转矩 | 400 | 不详 | 中国 | 资源 | 卡车之家镜像  |
+| 电动列车 ankang160 | 安康160 + 6挡全铝变速箱 + AAM后桥 | | 中国 | 资源 | 卡车之家镜像  |
+| 缩放重量 | 2.565 | 计数 | 中国 | 资源 | 卡车之家镜像  |
+| 名人名言 - 分类 | 4.495 | 计数 | 中国 | 资源 | 卡车之家镜像  |
+| 额定有效载荷 | 1.735 | 计数 | 中国 | 资源 | 卡车之家镜像  |
+| 内置货箱 | 约4220×2075×400 | 毫米 | 中国 | 资源 | 卡车之家镜像  |
 
 ## 轻卡车出口检查:大宗需要犬科的源头
 发动机和货箱数据来自一个反光卡车数据库来源,而**GVW/kerb/活载则停留在单一的镜上,必须先在360che条舟页、JAC OEM材料或MIIT公告**上确认,然后再用于装货或同化。 轮胎、后轴比和燃料箱大小没有被捕获。 这里没有确定出口和右推规格。
@@ -52,16 +52,16 @@
 **Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp/400 N·m 被俘线上.
 **轮胎/轴线详情在哪里? ** 未抓取; 请求 OEM 构建工作表 。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) (中文(简体)). | 卡车之家官方号(今日头条镜像) (中文(简体)). | 氯化萘 | T3 | 横跨 | http://m.toutiao.com/group/7281117707461247523/ 维基月球 | 动力链,  后桥,  自重,  总质量, 载质量 维基月球 |
-| 骏铃 V6 配置 (卡车之家镜像) (中文(简体)). | 卡车之家官方号(今日头条镜像) (中文(简体)). | 氯化萘 | T3 | 横跨 | http://m.toutiao.com/group/6889691682774876685/ 维基月球 | 云内 D25 参数,货厢 (中文(简体)). |
-| 骏铃 V6 车型 (卡车之家镜像) (中文(简体)). | 卡车之家官方号(今日头条镜像) (中文(简体)). | 氯化萘 | T3 | 横跨 | http://m.toutiao.com/group/6807685915310293507/ 维基月球 | 安康 160,变速箱 (单位:千美元) |
-| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) (中文(简体)). | 58 同城二手车 (中文(简体)). | 氯化萘 | T4 | 横跨 | https://m.58.com/sz/huochec/59653082843796x.shtml 维基月球 | 市场存在性线索 维基月球 |
-| 联合咨询委员会 汽车官方网站 | 安徽江淮汽车JAC江淮 (OEM) mobile. | 氯化萘 | T1 | 实录 | https://www.jac.com.cn/ 维基月球 | 品牌/模范线路身份和OEM授权 |
-| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
-| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05

@@ -91,7 +91,7 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 129,900�
 | Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
 | Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
 | Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
-| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCE | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
 | Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
 | 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 

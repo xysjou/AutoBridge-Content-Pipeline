@@ -1,16 +1,16 @@
 # 长安UNI-V 2024 — 中国市场快车:引擎,调图和出口说明
 
 ## SEO元数据
-- **SEO标题**: Changan  UNI-V  2024 Specs: 1.5T/2.0T 维基月球 快车导出指南
-- **Meta描述**: 2024 (中文(简体)). 长安UNI-V 中国参考规格——蓝鲸1.5T(138 kW)和2.0T(171 kW),7DCT/8AT,WLTC燃料使用量,尺寸,以及进口商的购买者核查点.
+- **SEO标题**: Changan  UNI-V  2024 Specs: 1.5T/2.0T  快车导出指南
+- **Meta描述**: 2024  长安UNI-V 中国参考规格——蓝鲸1.5T(138 kW)和2.0T(171 kW),7DCT/8AT,WLTC燃料使用量,尺寸,以及进口商的购买者核查点.
 - **H1**: Changan  UNI-V  2024 (China): 引擎、 调制差异和导入者应验证的
 - **核心关键词**: Changan  UNI-V  2024 specifications export
-- **次级搜索词**: Changan  UNI-V  1.5T Blue Whale, UNI-V 2.0T 8AT (英语). 燃料消耗UNI-V WLTC, 长安快车出口中国.
+- **次级搜索词**: Changan  UNI-V  1.5T Blue Whale, UNI-V 2.0T 8AT  燃料消耗UNI-V WLTC, 长安快车出口中国.
 - **建议URL**: /vehicles/changan-uni-v/
 - **搜索意图**: Understand Changan  UNI-V  2024 (China): 引擎、 调试差异和导入者应验证的: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
 - **内链建议**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
 - **图片建议**: 显示快回顶线的侧面配置文件
-- **ALT文本**: 2024 维基月球 长安UNI-V紧凑快车侧面简介 中国谱
+- **ALT文本**: 2024  长安UNI-V紧凑快车侧面简介 中国谱
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 这车是什么
@@ -23,7 +23,7 @@ UNI-V是长安的紧凑型快车——五门五座,单科汽油车型,车顶采�
 
 | 电动火车 | 引擎 | 扭矩 | 传送 | 最高速度 | WLTC 综合燃料 |
 |---|---|---|---|---|---|
-| 1.5T 维基月球 (蓝鲸NE) | 涡轮L4汽油 | 138 kW (188 PS) 300 N·m | 7-speed 湿双脂板 (7DCT) | 205 km/h | 6.37 L/100 km(尊贵型);6.2(高能版) (中文(简体)). |
+| 1.5T  (蓝鲸NE) | 涡轮L4汽油 | 138 kW (188 PS) 300 N·m | 7-speed 湿双脂板 (7DCT) | 205 km/h | 6.37 L/100 km(尊贵型);6.2(高能版)  |
 | 2.0T | 涡轮L4汽油 | 171 kW (233 PS) 390 N·m | 8-speed 转矩自动变压器(8AT) | 215 km/h | 6.9 L/100 km |
 
 1.5T蓝 鲸鱼数字与7DCT号机车**VIFIED**对长安官方网站,车辆数据库配对. 2.0T的输出,8AT及其燃料数字是跨PCauto和Autohome的Cross_CHECKED. 注意故意变速箱的区别:1.5T型机车使用湿的双筒车,2.0T型机车则使用传统的8-speed自动车——对于更喜欢牵引变速器耐久性的机队买家来说,这是有意义的区别,在定购单上可以明确说明的事物,而不是假设"自动表示相同的变速箱".
@@ -105,18 +105,18 @@ UNI-V是长安的紧凑型快车——五门五座,单科汽油车型,车顶采�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| UNI-V 高能版 官方页面 | 长安汽车(官方) | 氯化萘 | https://www.changan.com.cn/car/UNI-V-high/ 维基月球 | 2026-09-02 | 实录 | 尺寸范围,2750 mm轮式基地,轨迹 |
-| UNI-V 2nd-gen 官方页面 | 长安汽车(官方) | 氯化萘 | https://www.changan.com.cn/car/UNI-V-2nd/ 维基月球 | 2026-09-02 | 实录 | 蓝鲸 1.5T 138 kW 300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 (中文(简体)). 配置 | 自动家庭(汽车之家) | 氯化萘 | https://dealer.autohome.com.cn/2173671/spec_66852.html 维基月球 | 2026-09-02 | 横跨 | 1.5T 输出,4720 mm长,WLTC 6.37 |
-| 2024 UNI-V配置表 | PCauto (太平洋汽车) (英语). | 氯化萘 | https://car.pcauto.com.cn/360/m128895/config.html 维基月球 | 2026-09-02 | 横跨 | 2.0T 171 kW/390 N·m,8AT),燃料使用,国内价格 |
-| UNI-V 谱页 | 自动家居配置 | 氯化萘 | https://www.autohome.com.cn/config/spec/66851.html 维基月球 | 2026-09-02 | 资源 | 曲线重量(单一来源) |
-| 新的UNI-V发射报告 | Ifeng Auto(凤凰网汽车) (英语). | 氯化萘 | https://auto.ifeng.com/c/8Y79qxCFD3L 维基月球 | 2026-09-02 | 横跨 | MacPherson/多链接悬浮、驱动列车 |
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-* 信使注(AutoBridge标准):1.5T型电力机车和2750 mm型轮式机车基地在长安自己的页面(制造厂官方)上均使用VIFIED. 2.0T位数字是跨独立数据库的(cross_CHECKED); 控制重量是SINGLE_ 资源,必须与遵守标准相符。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

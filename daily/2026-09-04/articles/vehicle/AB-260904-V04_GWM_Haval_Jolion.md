@@ -87,10 +87,10 @@ No export price is published and none is inferred here. Request a live quotation
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
 | GWM corporate history (Chulian overseas version = JOLION, South Africa/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Brand HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primary) | SAME_MODEL base identity |
-| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | SINGLE_SOURCE | Chinese dimensions, 1.5T, 110 kW, wheelbase |
-| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | SINGLE_SOURCE (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
-| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE (overseas) | Overseas HEV system |
-| Jolion 2025 Vietnam (overseas HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | SINGLE_SOURCE (overseas) | Overseas HEV corroboration |
+| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | single source | Chinese dimensions, 1.5T, 110 kW, wheelbase |
+| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | single source (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
+| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | single source (overseas) | Overseas HEV system |
+| Jolion 2025 Vietnam (overseas HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | single source (overseas) | Overseas HEV corroboration |
 | Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
 | GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |

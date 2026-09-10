@@ -79,18 +79,18 @@ La adaptación no sustituye el acceso al mercado: el vehículo y cualquier compo
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GCC de alta temperatura/inversión de la adaptación industrial | Certificación/proveedor de prestaciones | Golfo | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE_SOURCE | Gama climática; puntos de adaptación de los candidatos ICE (una fuente) |
-| NEV de todo el cliente (enfriamiento líquido de alta temperatura auto-calentado de baja temperatura) | Ingeniería en China Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE_SOURCE | Discusión de gestión térmica y aérea (una fuente) |
-| Rendimiento de batería de alta temperatura/bajo temperatura (− 30 ~ 55 objetivo) | D1EV Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE_SOURCE | −30 to 55 °C policy design target (one source) |
-| 2026 Jeddah feria de autopartes (partes de trigo/polvo, BMS) | Sohu | Saudi Arabia | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE_SOURCE | Componentes resistentes al calor y al polvo; nota de cumplimiento del CCG (una fuente) |
-*Texto de la prueba: cada hecho de adaptación descansa en una sola fuente (todo SINGLE_SOURCE); no se captó ninguna norma primaria de GSO o espectro de ingeniería OEM. Los artículos se enmarcan como puntos de evaluación para el OEM/upfitter, no requisitos universales del Golfo; no se afirma ningún umbral legal o configuración obligatoria. *
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| Lista de normas técnicas de vehículos motorizados GCC | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | Reglamento técnico para vehículos de todo el CCG, incluidos plazos para el clima y la emisión (la aplicación del país varía) |
-| Normas y conformidad sauditas (SASO Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Normas específicas de la Arabia Saudita y alcance de la conformidad |
-| Certificados de conformidad de expedición para productos regulados (incluidos vehículos/partes) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | Ruta de conformidad específica de la UAE; artículos de calor/polvo confirmados por mercado, no asumidos GCC-uniform |
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

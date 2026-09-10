@@ -81,18 +81,18 @@ FTA ชอบใช้เฉพาะที่ <i> เก็บข้อมู�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| "Shelp Cuale ลูกชาย los mpustos que debo laga al praear?" (6% CIF+ 19% IVA on CIF+daty, example) | ศุลกากร nacial de Aduanas (*ศุลกากรจีน กรมศุลกากรรัฐบาล) | สี | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ~"ผ่านเข้ามา" | พลเอก 6% ad-valorem on CIFF; 19% IVA ManGS.
-| "Iracyon de veiculos" (bases/696/7383838". สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. 6% + IVA 19%). | เซอซิโอ นาซิโอ เดอ อาดูนาส (*เจ้าหน้าที่รัฐบาล) | สี | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ~"ผ่านเข้ามา" | ISA แจ้งว่า ความแตกต่างระหว่างบริการ-firue |
-| ไชน่า – ไชลล์ เอฟทีเอ (0% สําหรับที่มาของคุณสมบัติ), ฐานใบรับรอง | OMFCOM ภาระกิจจีนในชิลี (* การค้าเชิงพาณิชย์*) | CL/ CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ~"ผ่านเข้ามา" | FTA 0% ช่องโปรด; ○ ○ ○
-| เอเอ็นเอซีหกมาตรการที่จะทําให้อีวีถูกกว่า (แต่ไม่ใช่กฎหมาย) | AUTOGUA (สื่อรถยนต์ของจีน) | สี | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | สถานะ การ เสนอ — ไม่ ได้ ทํา ขึ้น อย่าง ชัดเจน |
-| ลอส คอน ตา โดส์ — 智利 2026 关税 | Los Controdoes (智利本地财税) | สี | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 2026 普通关税 6%、自贸国 0%、IVA 19% |
-| จิน ยู ออ โต โตส — 中国车进口智利指南 | จินยูออโต้ (行业站) | สี | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 中智 FTA 0% 关税通道 |
-| ฮิว จิ อา เม — 全球汽车进口关税指南 | ฮิวจิเมะ (行业站) | สี | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 智利关税 6% (FTA 0%). VAT 19% 、 奢侈品税15% (~$35k) |
+| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Chilean Customs, government official**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | **VERIFIED** | General 6% ad-valorem on CIF; 19% IVA base |
+| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
+| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
+| ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | single source | Proposal status only — explicitly not enacted |
+| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | single source | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | single source | 中智 FTA 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | single source | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-* หมายเหตุการยอมรับ: 6% หน้าที่ทั่วไปและ 19% IVA มี ISFIIIIID ลงบนศุลกากรชิลี; FTA 0% ชื่นชอบอย่างเป็นทางการ แต่เงื่อนไขเกี่ยวกับต้นกําเนิด The previously included 1%/US$30 courier rule (ไม่สามารถใช้รถได้), ข้อจํากัดด้านความฟุ่มเฟือยที่ไม่สามารถยืนยันได้  and  ค่าธรรมเนียมที่คงที่ 3CV ได้ถูกลบออกจากร่างความจริง กฎของ HS-ระดับของจุดกําเนิด และ surtux ใด ๆ ต้องได้รับการยืนยันจาก ศุลกากรชิลี/SIL/SUBRI *
+*Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

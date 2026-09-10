@@ -46,7 +46,7 @@ T90 المحلية مقابل التصدير T90 - هويات كهف
 3. تأكيد مرحلة انبعاثات الديزل من قواعد المقصد ونوعية الوقود (مسائل التسامح الكبريت في بعض الأسواق).
 4 :: إيجاد الحلول: (أ) السوق الصينية هي وزارة الصحة؛ وتُوثق عمليات بناء الصادرات من البيوتادايين السداسي الكلور (حيثما توجد) بصورة منفصلة.
 5. )أ(أن تفصل بين تصنيف EV T90 كليا - تصنيف البطاريات والسيارات والشحن يختلف، ولا يشمل هذه الصفحة.
-6. Match VIN and bed/drivetrain code across contract, CoC and shipping docs.
+6. طابق VIN ورمز الحوض/مجموعة الحركة عبر العقد وشهادة المطابقة CoC ومستندات الشحن.
 
 ## اعتبارات تصدير شاحنة العمل
 
@@ -57,15 +57,15 @@ T90 المحلية مقابل التصدير T90 - هويات كهف
 
 وهي تتقاسم مجموعة أسماء، ولكن الصينين وبنات التصدير تختلف في الناتج، والتحميل، والشحن، والتوجيه؛ وتعامل على أنها ذات صلة ولكن مقسمة إلى السوق إلى أن تعادل وثائق منظمة الدول الأعضاء في منظمة الدول الأعضاء.
 
-** ما هو المحرك الذي يستخدمه الديزل الصيني T90؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هو المحرك الذي يستخدمه الديزل الصيني T90؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
-A SAIC π 2.0T twin-turbo diesel at 160 kW/500 N·m with a ZF 8AT (cross-checked).
+محرك ديزل SAIC π 2.0T ثنائي التوربو بقوة 160 kW/500 N·m مع ناقل ZF 8AT (موثق بمصدرين متقاطعين).
 
-** ما هي مضيق الأقراص التي تقدم؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هي مضيق الأقراص التي تقدم؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 محرك ذو عجلتين، 4WD بدوام جزئي، و4WD ذكي في الطلب، بالترايم.
 
-** كم من الوقت هو سرير الشحن؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** كم من الوقت هو سرير الشحن؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 : ما يقرب من 1485 mm (مستويات) أو 1800 mm (قاعدة طويلة)؛ وأرقام من مصدر واحد لتأكيدها على صحيفة OEM.
 
@@ -73,16 +73,16 @@ A SAIC π 2.0T twin-turbo diesel at 160 kW/500 N·m with a ZF 8AT (cross-checked
 
 لا - الديزل الصيني فقط؛ والسيارات الإلكترونية منتج منفصل مع مواصفات مختلفة وقواعد شحن مختلفة.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE OURCE | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
-| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE OURCE | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | T3 | SINGLE OURCE | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 (非承载; 接近角 离去角) | 太平洋汽车百科 | CHINA | T3 | SINGLE OURCE | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, - نطاق الصادرات | SAIC MAXUS Global | EXPORT | T1 | مفقود | https://en.saicmaxus.com/car/t90.shtml | الهوية - مواصفات GLOBAL/export؛ NOT to be equated with China-market 星际T90 values |
-| 上汽大通 ماكسو T90 中国官方 价格) | SAIC MAXUS الصين | CN | T1 | مفقود | https://www.maxusmall.com/T90.shtml | محرك - ديزل - المقابر الرسمية للسوق الصينية والأسعار المرجعية المحلية |（配置）
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | محرك - ديزل - التحقق من المسخ متغير الصين |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

@@ -110,18 +110,18 @@ AutoBridge は静的な価格表ではなく、ライブ見積りを発行しま
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## ソースと検証
+## Sources & Verification
 
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 オフィシャルウェブサイト | GAC トランチ(公式) | CN の | 以下は、 https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 検証済み | 5212 mm ボディ、3070 mm WB、2060 kg、2.0TGDI |
-|  GAC  M8 海外設定 |  GAC  グループ (公式) |  CN  / 輸出 | 以下は 、 の | 2026-09-02 | 検証済み | 185 kW 252 PS 、 7 座席 、 懸濁液 | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024
-| 2024 M8 宗师ガソリン 公式 | GAC トランチ(公式) | CN の | 以下は、 https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 検証済み | 2.0TGDI + 8AT、400 N·mの国内価格 |
-| Lingxiu 390T 設定 | オートホーム (汽车之家) | CN の | 以下は、 https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED(クロス) | 5089 mm ボディ、3000 mm WB、390 N·m、WLTC 8.85 |
-| M8 パラメータ | PCauto (太平洋汽车) | CN の | 以下は、 https://price.pcauto.com.cn/m128883/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | ホイールベース分割、シリーズマッピング |
-| Lingxiu の設定 | イーチェ (易车) | CN の | 以下は、 https://car.yiche.com/chuanqigm8/m173683/peizhi/ の | 2026-09-02 | CROSS_CHECKED(クロス) | リンギョウの寸法、国内価格 |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-*Confidence Note(AutoBridge標準):グランドマスター/マスターコアスペックは、GAC独自のページ(メーカー公式)でVERIFIEDです。 Lingxiu値は、独立したデータベース全体でCROSS_CHECKEDです。 400 対 390 N·m 校正は、意図的にシリーズによって分離され続ける; ハイブリッド (双擎) 仕様は主張されていません。 ふりがな
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

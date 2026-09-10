@@ -113,10 +113,10 @@ There is no static AutoBridge export price. The RMB 108,900–139,900 Chinese gu
 | UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
 | 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
 | 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
-| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE_SOURCE | Curb weight (single source) |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
 | New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is SINGLE_SOURCE and must be matched to the compliance plate.*
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

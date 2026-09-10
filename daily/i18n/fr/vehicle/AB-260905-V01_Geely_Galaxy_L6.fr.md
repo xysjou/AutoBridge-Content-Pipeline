@@ -79,15 +79,15 @@ Les deux lignes de batterie conduisent à la fois la portée électrique et le t
 **Qui fabrique les piles?** Non confirmé par OEM dans les sources capturées, donc cette page ne nomme pas un fournisseur.
 **AutoBridge publie-t-elle un prix à l'exportation?** Non — demander un devis courant avec destination, quantité, ligne de compensation, LHD/RHD, port et Incoterm.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河 L6 系列参数 | 中关村在线 ZOL 产品库 | NC | T2 | _CHECTURE | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
-| 吉利银河 L6 参数配置 | 搜狐汽车车型库 | NC | T2 | _CHECTURE | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
-| 银河 L6 车型百科 | 太平洋汽车百科 | NC | T3 | _CHECTURE | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
-| Site officiel de Geely mondial | Groupe Geely Auto 吉利 (OEM) | NC | T1 | VÉRIFIER | https://global.geely.com/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | independent database | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
+| 银河L6 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

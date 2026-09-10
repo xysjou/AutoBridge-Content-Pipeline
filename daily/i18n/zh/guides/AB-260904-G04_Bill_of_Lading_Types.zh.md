@@ -1,7 +1,7 @@
 # 手机、HBL、Telex放行还是海报? 根据《2025年海事法》选择车辆释放方法
 
 ## SEO元数据
-- **SEO标题**: Vehicle Export Bill of Lading Guide —  MBL/HBL /Telex/ SWB  + Maritime Code Arts. 80/81/87 维基月球
+- **SEO标题**: Vehicle Export Bill of Lading Guide —  MBL/HBL /Telex/ SWB  + Maritime Code Arts. 80/81/87 
 - **Meta描述**: 如何区别主账单,房屋账单,电传发布和海邮单,中国修订海事法(现行2026-05-01,第80/81/87条)中的可转让性/交付规则,以及支付条件的匹配发布方法.
 - **H1**: 选择出口车辆的延期释放方法——《订正海事法》中的业务惯例
 - **核心关键词**: 车辆出口提单mbl hbl 电传 释放海路单
@@ -70,7 +70,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——MBL HBL电传发布和海运单,车辆-出口采购指南
 - **法国**: Référence AutoBridge 汽车出口-MBL HBL 电传发布和海运单,汽车出口指南
@@ -78,26 +78,26 @@
 - **ES**: 出口代理商咨询公司——MBL HBL电传发布和海运单,出口代理商咨询公司
 -  **: 出口控制中心(MBL) 出口控制中心(MITENCA) 出口控制中心(MITL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL) 出口控制中心(MBL)
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜MBL HBL telex release and sea waybill, 自動車輸出 調達ガイド
-- 科罗拉多州: 自动桥 QQ QQ MBL 用户电报发布和海邮单 QQ QQ QQ QQ QQ QQ QQ QMBL QMBL QBL QMBL QMBL QQ QQ QQ QQ QQ QQ QMBL QMBL QMBL QMBL QMBL QMBL QMBL QQQQQ QMBL QMBL QQQQMBL QMBL QMBL QMBL QMBL QMBL QQQQ QMBL QMBL QMBL QMBL QMBL QQQQQ QMBL QMBL Q QQQQ QQQMBL Q QQQ Q QQ Q QMBL Q Q QQ Q Q
+- 科罗拉多州: 自动桥 QQ QQ MBL 用户电报发布和海邮单 QQ QMBL QMBL QBL QMBL QMBL QQ QMBL QQQQQ QMBL QMBL QQQQMBL QMBL QMBL QMBL QMBL QMBL QQQQ QMBL QMBL QMBL QMBL QMBL QQQQQ QMBL QMBL Q QQQQ QQQMBL Q QQQ Q QQ Q QMBL Q Q QQ Q Q
 - **VI**: i liệu tham khảo AutoBridge cho người mua xuất khẩu – MBL HBL 电传发布和海运单 hướng dẫn tuhuu mua xuất khẩu xe
 - ** ** ** เอกสารอ้างอิง 自动桥QQ — MBL HBL 电传发布和海运单,QQ
 - 身份证**: 参考文献 自动布里奇 untuk pembeli ekspor — MBL HBL 电传发布和海运单, panduan pengadaan ekspor kendaraan
 - AR**: 国家 – 自动桥 – – MBL HBL 电传发布和海运单, دليل مشتريات تصدير المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海事法(2025年修订,58号总统令,2026-05-01年生效)全文 | NPC 常务委员会 中共党史研究室. | 氯化萘 | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html 维基月球 | 2026-09-04 | 已核实(小学) | 第80/81/87条,版本和生效日期 |
-| 原文B/L/电传/海邮单解释 | 网易业务维基 | INTL 语言 | https://www.163.com/dy/article/L0J4JN3F0556HN78.html 维基月球 | 2026-09-04 | 横跨 | MBL/SWB/telex定义 |
-| 主帐单对房屋帐单 | 新浪财经. | INTL 语言 | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml 维基月球 | 2026-09-04 | 横跨 | MBL/HBL 连锁,车辆操作 |
-| 释放方法和B/L类型 | 行业知识 | INTL 语言 | https://m.11467.com/product/d15253354.htm 维基月球 | 2026-09-04 | 横跨 | 四法比较 | 11467
-| 四种释放方法和电传风险(南美洲说明) | 净值 | INTL 语言 | https://www.163.com/dy/article/K17GLBOG0556820S.html 维基月球 | 2026-09-04 | 资源 | 订单单限制、港口接受 |
-| 国际货物运输公约和示范法 | 贸易法委员会 | INTL (美国英语). | https://uncitral.un.org/en/texts/transportgoods 维基月球 | 2026-09-05 | 实录 | 运输单据的比较法律框架(海牙-维斯比/汉堡/鹿特丹背景) |
-| 标准发运文件和条款参考 | 宾科 | INTL (美国英语). | https://www.bimco.org/ 维基月球 | 2026-09-05 | 实录 | |
-| FIATA 运输单证和货运代理惯例 | 国际货运代理联合会(货运代理联合会) | INTL (美国英语). | https://fiata.org/ 维基月球 | 2026-09-05 | 实录 | 区分承运人B/Ls的转运文件(FBL/FCR)做法 |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-* 说明:通过2025年修订本(现行2026-05-01年)的国家刑法委员会全文,对法定主干线进行核查;对业务定义进行交叉核对;承运人收费/港口验收仍按具体航程而定。 * 报告迟交是因为需要翻译。
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

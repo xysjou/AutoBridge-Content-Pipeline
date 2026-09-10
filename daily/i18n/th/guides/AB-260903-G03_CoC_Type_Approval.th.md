@@ -13,7 +13,7 @@
 - **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
 ## ชนวน ของ แกน หลัก
-Escapers ปฏิบัติต่ออีกครั้ง~ เอกสารหนึ่งราวกับว่ามันเป็นอีก *: พวกเขานําเสนอประเทศจีน 合格证 COC เป็นการเข้าถึงตลาดต่างประเทศ หรือสมมุติว่าองค์ประกอบ E-mark Certification ทั้งหมดรถ การ ยอม รับ แบบ พิมพ์ และ ใบ รับรอง การ ทํา ตาม ที่ ได้ รับ นั้น อยู่ ใน ระดับ ที่ ต่าง กัน — และ การ ทํา ผิด นี้ เป็น เหตุ ผล ที่ ทํา ให้ คน ทั่ว ไป ไม่ ได้ จด ทะเบียน. มัคคุเทศก์คนนี้กําหนดเส้นทางระบบ ข้อสังเกต: ~ กรอบจีนถูกวางรากฐานในวัสดุ MIT; คําอธิบายของเครื่องมือ EU/EUU/UNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESCE ด้านล่างนี้มาจากผู้ให้บริการการรับรอง (ฉบับที่สอง) และข้อความมาตรฐานเองก็ควรดึงออกมาจาก UNEEX UNEX คณะกรรมการบริหารยุโรป ก่อนการตัดสินใจตามคําสั่ง -- จดหมายนี้ไม่ได้รับอ้างอิงว่า เป็นกฎหมายหลัก
+ผู้ส่งออกมักปฏิบัติต่อ**เอกสารหนึ่งราวกับเป็นอีกเอกสารหนึ่ง**อยู่บ่อยครั้ง: นำเสนอ 合格证/CoC ภายในประเทศจีนราวกับเป็นการเปิดตลาดต่างประเทศ หรือสมมติว่า E-mark ของชิ้นส่วนรับรองทั้งคัน การรับรองแบบ (type approval) กับใบรับรองความสอดคล้องอยู่คนละระดับ — และความเข้าใจผิดนี้เป็นสาเหตุทั่วไปที่การจดทะเบียนถูกปฏิเสธ คู่มือนี้จัดทำแผนผังระบบต่างๆ **หมายเหตุหลักฐาน:** กรอบฝั่งจีนอ้างอิงจากเอกสารของ MIIT; คำบรรยายเครื่องมือ EU/EAEU/UNECE ด้านล่างมาจากผู้ให้บริการรับรอง (แหล่งรอง) และควรดึงบทกฎหมายจริงจาก EUR-Lex / UNECE / คณะกรรมาธิการ EAEU ก่อนตัดสินใจด้านการปฏิบัติตาม — ที่นี่ไม่ได้อ้างอิงเป็นกฎหมายปฐมภูมิ
 
 ## ระดับ 1 — ประเภท appotion (โมเดลรถได้รับการอนุมัติ)
 การอนุมัติแบบพิมพ์ ระบุว่า ประเภท a-Vhines/ capillary ตรงกับความต้องการของตลาด มันเกิดขึ้นในระดับแบบจําลอง และเป็นสภาวะก่อนการสร้างเอกสารต่อกระดูก
@@ -23,7 +23,7 @@ Escapers ปฏิบัติต่ออีกครั้ง~ เอกสา
 
 ## ระดับ 2 — ใบรับรองการเทียบเคียง (หน่วยเฉพาะนี้ตรงกับชนิดที่โปรด)
 เมื่อมีการอนุมัติชนิดของรายการ รถแต่ละคันจะถูกออก CC ยืนยันว่าหน่วยตรงกับชนิดที่อนุญาต! COC เป็นเอกสารที่เดินทางด้วยรถไปยังโต๊ะลงทะเบียนปลายทาง กับดักสองที่
-- The Unece 一致性证书 (โดยหลักในระเบียบ MIT No. 50 และ กฎที่เกี่ยวข้อง) — ไม่ได้เป็น* UNWWTA COC หรือเอกสาร EU/EU/EAC（合格证）
+- **合格证/一致性证书 ของจีนเป็นเอกสารการจดทะเบียน/การรับเข้าภายในประเทศ** (มีรากในคำสั่ง MIIT ฉบับที่ 50 และกฎที่เกี่ยวข้อง) — มัน**ไม่ใช่** CoC แบบ WVTA ของ EU หรือเอกสาร EAEU/EAC
 - COC ประสบความสําเร็จเพียง แต่สามารถออกได้! อนุมัติชนิดของปลายทางที่ถูกต้อง! คุณไม่สามารถผลิต EU COC จากเอกสารภาษาจีนเพียงอย่างเดียวได้
 
 ## ระดับ 3 — เครื่องหมายส่วน (e-mark vs E-marks)
@@ -40,7 +40,7 @@ Escapers ปฏิบัติต่ออีกครั้ง~ เอกสา
 5. **. เรียกใช้ข้อกําหนดพื้นฐาน * (EUR-Lex/UNEEEEEEEU) สําหรับความต้องการวันที่; ปฏิบัติกับ ผลรวมการรับรองตัวเป็นการนําร่อง ไม่ใช่อํานาจ (PDF).
 
 ## สิ่ง ที่ คู่มือ นี้ แนะ นํา ก่อน จะ ถวาย เครื่อง มือ หรือ เครื่อง ลด หย่อน
-- เขียนบท "มาร์เก็ตรีจิเมะะะะะะะะะะะะะะะะะะะะะ" สําหรับแต่ละจุดหมาย โดยมีผู้ถือครองการเห็นชอบชื่อ
+- เขียนบท "มาร์เก็ตรีจิเมะ" สําหรับแต่ละจุดหมาย โดยมีผู้ถือครองการเห็นชอบชื่อ
 - ยืนยัน ** ซึ่งองค์กรใดจะขัดข้องจากปลายทางCOF และอ้างอิงไปยังหมายเลขชนิด "อนุมัติ" ที่ใช้งานได้
 - A~ ชิ้นส่วนที่ทําเครื่องหมายไว้* ที่ไม่ได้เข้าใจผิดว่าเป็นที่เห็นชอบของกระดูกสะบ้า
 - Primary-source verification of every **dated regulation**  TR CU 018/2011, 1958 ข้อตกลง) ก่อนลูกค้าถูกริบทรัพย์ 2018/858
@@ -78,23 +78,23 @@ Escapers ปฏิบัติต่ออีกครั้ง~ เอกสา
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| LIT สั่งซื้อหมายเลข 50 — กรอบรับสมัคร |  MIT สภารัฐ | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ROOS_ CHCKED | ภาษาจีนภายใน การจัดรูปแบบ |
-| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | อียู | https://m.11467.com/product/d53638850.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | WVTA/ 2018/858 รายละเอียด; บทบาท CC (วินาที) |
-| OTTS TR CU 018/2011 ตัวอธิบาย | ผู้จัดทําใบรับรอง | อีอายู | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ROOS_ CHCKED | OTTS/EAC, ตัวแทนร่วม (ตัวที่สอง) |
-| ตัวอธิบาย e-mark | ผู้จัดทําใบรับรอง | EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ความแตกต่างระหว่าง e/ E- เครื่องหมาย (วินาที) |
-* เพดานการตรวจจับ: เครื่อง EU/EUU/UNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEI ที่ถูกบรรยายจากแหล่งบริการขั้นที่สอง; ไม่มีการบันทึกข้อมูล ยูโร-LEX/EEEU/EU การปรับวันที่และขอบเขตจะต้องตรวจสอบกับข้อความหลักก่อนจะทําการปฏิบัติตาม กรอบจีน-ไซด์ เป็นส่วนเดียวของทางราชการ *
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| รับ (EU) (อังกฤษ) (อังกฤษ) (อังกฤษ) 2021-09-26) บ น น พ พ พ พ พ/iii/บ/ม/พ/พ/พ พ ม ม ม อ อ อ อ อ อ อ อ อ อ อ อ อ ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ร ร ์ ร ์ ต ต ต ต ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์ ์       ์     ์ ์ ์           ์           ; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ทั้งหมด VHICE VS | EUR-Lex (ฐานข้อมูลอย่างเป็นทางการของ EU) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | เปิดใช้งาน |  | 2018/858
-| Retrieved (EU) (ปกติ)  Chapter VI Article 36 — manufacturer issues a CoC for each vehicle conf | ยูโร-เลก | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | เปิดใช้งาน |  | 2018/858
-| Chapter VI (CoC) official reproduction | (ข้อมูลพระราชบัญญัติของสหราชอาณาจักร) | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | เปิดใช้งาน |  | 2018/858
-| 1958 อ อ อ อ น น น น น น น น น น น น น น น น น ก ก ก ก ก ก ก ก ก ก ก ก ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร  3), E/EEEC/TRAES/ 505 — โครงร่างสําหรับการรับรองประเภทการตั้งโปรแกรมของสหประชาชาติ การรับรองส่วนประกอบ/ระบบ/ระบบต่างๆ | UNEEE (สหประชาชาติ) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | เปิดใช้งาน |  |
-| Graf-84-18 (Dolkzegegi ่อ ง ง ง ง ห ห p p p p ค ค ค ร ร ร ร ร ร ร P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P P | | | P | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |  29 GRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | เปิดใช้งาน |  |
-| สถานะ ของ ข้อ ตก ลง และ การ กําหนด มติ ของ สหประชาชาติ 1958 | UNIE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | เปิดใช้งาน |  |
-| การตัดสินใจของคณะกรรมการศุลกากร หมายเลข 877 (09.12.2011) รับบททดสอบเทคนิค CU 018/2011 "On on  | อะดิ เลต.แซน.ก.ส. — ฐานข้อมูลอย่างเป็นทางการของเอ็ม | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | เปิดใช้งาน |  |
-| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS OTSH forms | อัลตา-ซอฟท์อ้างอิงกฎหมาย (T3; Cruary EEC de) | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

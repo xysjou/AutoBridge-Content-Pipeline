@@ -87,17 +87,17 @@ Sequence 오류 (저차를 먼저로드  and  blocking rack access) are the most
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 차량 도난 측면 뷰 (2/box, 8 스트랩) | 화물 운송업자 물자 | - 연혁 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | 2-SUV의 균열; ~ 8 스트랩; 휠 방법 (원본) | https://m.11467.com/product/d42473652.htm
-| Yantai 항구 첫번째 4-SUV "Ro-to 콘테이너" 예심 | Qilu 저녁 뉴스 Toutiao | 담당자: Mr. wang | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE(싱글) | Upper2+lower2 선반; 선적 순서 (하나 보고된 예심) |
-중국 철도 자동차 선적 (3 / 상자) | 하얼빈 철도 토우티아노 | 담당자: Mr. 광 | http://m.toutiao.com/group/6748371578787987979/if | 2026-09-03 | SINGLE_SOURCE(싱글) | 세박스 세단/레일 참조(원) |
-의논문 수출 컨테이너 5단계 적재 방법 | 의논 | - 연혁 | https: | 2026-09-03 | 싱글_스위스(싱글) | 5점 도수체 검사(원) | https://www.163.com/dy/article/L42056IP05568MR2.html
-*스코프 노트: 각 로딩 그림은 단일, 구별 된 소스 (모든 SINGLE_SOURCE)에서 온다 - 사실은 두 개의 독립적 인 소스에 의해 손상되지 않습니다, 그래서 아무도는 CROSS_를 라벨을 붙입니다... 계산은 문서화 된 문서 참조, 보장 된 도난; 정확한 번호는 항상 측정 된 치수와 승인 된 부하 계획 및 캐리어 터미널 규칙에 따라 예약 확인해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| IMO/ILO/UNECE 포장 화물 운송 단위 (CTU 부호)를 위한 연습의 부호 | 국제 해상기구 (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 화물 배포, 컨테이너를 포함한 CTU에 대한 채찍 및 고정 원칙 |
-| 참고 | 세계 배송위원회 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.worldshipping.org/ 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 표준화물 컨테이너 및 liner-equipment 컨택트 |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

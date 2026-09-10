@@ -17,7 +17,7 @@
 
 นักเดินปะการัง **three products in one**: ผู้ บริจาค ฌาส ซี, กล่อง สินค้า ที่ เคลือบ ไว้, และ ห้อง ทํา ความ เย็น — มัก ทํา โดย ผู้ ผลิต คน ละ คน. Comparing "reefer truck prices" without naming all three is misleading. รถอ้างอิงคือ **Aumark Jieyun (捷运) 150 PS 4×2, ประกาศเรื่องทางรถไฟทั้งลํา BJ5041XLC8JDA-AB1 (chasis BJ1041V9JDA-AB1) ~ด้วยศพแนวปะการัง 4.085 m m; โฟตันยังขายซูยยอน (速运) ด้วยอํานาจโฟตัน คูมมินส์ Detailed Jieyun figures are single-source Cummins Suyun รายละเอียดของการตรวจสอบกับ Folton ข้อมูลอย่างเป็นทางการ 360che
 
-## Chasis and Driveline
+## แชสซีและระบบขับเคลื่อน
 
 | รายการ | Jiayun 150 อ้างอิง (Per | 360che
 |---|---|
@@ -98,22 +98,22 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-○ ออ การ์ กก วร์ก จิ เอ ยอน 150 พ พ พ พ พ พ (พ) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย | 360che
-| ห น น น น น น น น น น น น น น น เ เ เ เ เ เ เ เ น | | | | | ฟ ฟ ฟ ฟ ฟ ฟ ต ต ต ต ต ต อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ น น น น น น น น น น น อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ล ล | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | เปิดใช้งาน | ตัวเลือกของเครื่องยนต์ pread-crack, อนุกรมกล่องแบบหนา |
-| เ เ เ เ ฟ ฟ ฟ ฟ ฟ ค ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ น น น น น น น อ น น อ อ อ อ อ อ อ อ อ อ อ อ ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | เปิดใช้งาน | 4.2 เม.ฟรอนเซอร์ (พ.ศ. คัมมิน 2.8  18 m³, 3360 WB |
-| บทความ ของ โอ ล ลิน ฟ อร์ เทน เซอร์ | ดองแมดติ (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ROOS_ CHCKED | Cummins 150/163 PS, 470 N·m |
+| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
+| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
+| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
+| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED | Cummins 150/163 PS, 470 N·m |
 
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*บันทึกการยอมรับ (มาตรฐานของ ออโตริด): Cummins/Susyun true transact are verviewed on Faton-official file and cross-cossed; รายละเอียดการประกาศของจียอนคือ Single_sEOE (360che). เครื่องสํารวจโมเดลและราคาเป็นการสร้างความพึ่งพา และไม่สามารถดําเนินการได้ด้วยราคา ยืนยันในการเขียน *
+*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are single source (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

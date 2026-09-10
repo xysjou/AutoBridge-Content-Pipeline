@@ -76,19 +76,19 @@ Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeu
   - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Aufschlüsselung nach FCL-Exportzuschlägen | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, Auditmethode |
-| THC-Definition | Sina Finanzschifffahrt | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminalabfertigung |
-| Komponenten der Meeresexportabgabe auf der Spur | Kärnten | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Zusätzliche Taxonomie, AMS/ACI/ENS Routenlogik |
-| Gemeinsame FOB-Gebühren (THC/Buchung/Trucking) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCEN | Gebührenbezeichnung | 11467
-*Beweisumfang: Gebührenstruktur, die von Branchenquellen abgeglichen wurde (keine offizielle Tarifquelle); AMS/ACI/ENS als streckenspezifische redaktionelle Anleitung eingerahmt; alle Beträge bewusst als zeitsensibel ausgeschlossen. *
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| Incoterms 2020 Regeln (wer organisiert bezahlt Transport zu jedem Begriff) | Internationale Handelskammer (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | ÜBERPRÜFUNG | Welche Fracht/Gebühren fallen von Incoterm an Käufer vs. Verkäufer |
-| Gütertransportunternehmen und Gebührenkategorien | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | ÜBERPRÜFUNG | Referenz Speditionskurs/Entgeltstruktur |
-| Linienversand und Zuschlagkontext | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | ÜBERPRÜFUNG | Branchenkontext für Seefracht- und Nebenkosten |
-| China International Speditionsverband | OZF | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | ÜBERPRÜFUNG | China-Seite Speditionsindustrie und Angebotspraxis |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

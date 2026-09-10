@@ -16,7 +16,7 @@
 ## ルーチン文書に隠されている決定
 Importers routinely ask for "the CO" as if it were one paper. です。 中国の問題** 起源の証明書の家族**、および間違ったものを選ぶことは、買い手が優先権をクリアしたり、その権限が期待していない文書を受け取ることができないことを意味します。 準拠法は、GACC 指令 No.270 です。 ※輸出入証明書の事務処理は、2024-07-30 発行、2024-09-01 以降に実施しています。 このページは**中国発行側をカバーします**。 特定の目的地が優先するかどうかは、国の決定です。
 
-## The Three Certificate Families
+## 証明書の3つの系統
 | 仕様 | 目的: | 車両輸出業者が使用するとき |
 |---|---|---|
 | **非必須 ココ** | MFN治療、アンチダンピング/偽造/安全対策ケース、原点マーキング、定量限度、関税調整、政府調達、取引統計 | 貿易協定の優先が主張されていないとき、デフォルトの「普通のCO」中国の起源を証明 |
@@ -73,22 +73,22 @@ Importers routinely ask for "the CO" as if it were one paper. です。 中国�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GACC 注文番号 270、CO の行政措置を輸出(力 2024-09-01 で) | 中国税関の一般管理(公式PDF) | CN の | 担当: http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf の | 2026-09-04 | 検証済み | ルール版,  three types, 発行者 |
-| Export  CO  Administrative Measures (second official  PDF) | ジャック |  CN  の | 担当 http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf の の | 2026-09-04 | 検証済み | 非必須使用 、 three types |
-| 必須のCO概要および発行体 | コンテンツ サイチュアン | CN の | 以下は、 https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | 検証済み | 発行者、非フィード普通のCO |
-* スコープノート: 中国発祥の側だけ; 特定の FTA ルール  and  目的地の優先決定はスコープ外  and  連絡/連絡////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| 原産地証明書に関するPRCの規制(国評議会令第416号) | PRCの国家評議会 | CN の | 以下は、 https://www.gov.cn/gongbao/content/2005/content_64193.htm のファイル | 2026-09-05 | 検証済み | 原産の優先的かつ非必須証明書を発行するための中国法的な根拠 |
-弊社について _ ワールド貿易機関(WTO) ,.wto.org/japanese/tratop_e/roi_e/roi_e.htm/. | 2026-09-05 | 試験依頼受付 多国間ルールのオリジンを統治する | https://www.wto.org/japanese/tratop_e/roi_e/roi_e.htm
-| 原発のトピックの規則 | 世界税関機関(WCO) | インフォメーション | 担当: http://www.wcoomd.org/ は、 | 2026-09-05 | 検証済み | 通関 原点分類および認定基準 |
-| 中国無料貿易エリアサービスネットワーク(FTA関税処理) | モーフコム | CN/INT'Lの | 担当: ................................................................................................................................ | 2026-09-05 | 検証済み | 優先的オリジン/FTA証明書チャネル | http://fta.mofcom.gov.cn/
-| 原産品・外国貿易認定証明書 | 貿易振興会(CCPIT) | CN の | 担当: http://www.ccpit.org/ は、 | 2026-09-05 | 検証済み | 原発チャンネルのCCPIT発行非必須証明書 |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国輸出側の証明書発行(宛先設定を除く)
 - **検証方法**: GACC公式PDF+CCPIT; 個別に非一般化されていない

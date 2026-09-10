@@ -21,7 +21,7 @@ The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (At
 | 외부 차원 | 4730 × 1910 × 1710 mm | 중국 · 크로스 검사 | CROSS_체크 |
 | 휠베이스 | 2785 mm | 중국 · 크로스 검사 | CROSS_체크 |
 | 양자외 | 650 L 석, 1610 L까지 접힌 리어 시트|중국 · 크로스 검사 | CROSS_체크 |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 5-door/5-seat 컴팩트 SUV, FWD | 담당자: Mr. Li | CROSS_체크 |
+| 의 | 5-door/5-seat 컴팩트 SUV, FWD | 담당자: Mr. Li | CROSS_체크 |
 
 ## Two petrol powertrains, 다른 증거 힘
 
@@ -32,7 +32,7 @@ The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (At
 
 ## Starray caveat: 수출 이름, 동일한 사양
 
-Geely는 ** Starray** 이름과 OEM 지역 브로셔의 수출 SUV를 판매합니다. (예: Gulf-market Starray 문서와 2.0T+7DCT 지역 교정). 모델 ID 규칙 당, 수출 명찰은 중국 Boyue L: 지역 길이, 휠베이스 및 전력과 포인트 포인트 포인트 비율을 설정하지 않습니다. 수출 시장 증거로 Starray 물자를 대우하고 중국 수를 그것의 사본 보다는 오히려 정확한 목적지 OEM 장을 요구하십시오.
+Geely는 ** Starray** 이름과 OEM 지역 브로셔의 수출 SUV를 판매합니다. (예: Gulf-market Starray 문서와 2.0T+7DCT 지역 교정). 모델 ID 규칙 당, 수출 명찰은 중국 Boyue L: 지역 길이, 휠베이스 및 전력과 포인트 비율을 설정하지 않습니다. 수출 시장 증거로 Starray 물자를 대우하고 중국 수를 그것의 사본 보다는 오히려 정확한 목적지 OEM 장을 요구하십시오.
 
 ## 인테리어 및 실용 구매자는
 
@@ -76,19 +76,19 @@ Starray는 수출 시장 명찰입니다; 지역 별표는 중국 Boyue L과 다
 
 RHD 없음 중국 시장 버전은 여기에 증거; RHD 목적지에 대해 별도로 확인.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱,  燃油标号  |
-| 2025 款博越 L 尺寸/轴距/后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸,  后备厢  |
-| 博越 L 1.5T 配置表 (133kW/181Ps/290N·m, 7DCT, 92 #) | 车主之家 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱, 动力, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 动力, 动力, 变速箱, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 变速箱, 动力, 变速箱, 动力, 动力, 变速箱, 动力, 变速箱, 动力, 变速箱, 变速箱, 动力, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱, 变速箱  |
-| Geely 새로운 Boyue L 사양 테이블 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec 테이블; 빌드
-(주)지리 스타레이스(주) - 수출시장 진출자 안내 | 굿 카타르 | - 연혁 | T1 | CROSS_체크 | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | 정체성 - 세이프스(주)지리 씨 중국 Boyue  L 에 에 에 에  L  L  L 에  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 중국 변종을 균질화하는 검증 |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
-- **참고 시장 **: 중국 (中国市场参考; Starray 为出口名但参数不与中国版等同)
+- **참고 시장 **: 중국 (China-market reference; Starray 为出口名但参数不与中国版等同)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

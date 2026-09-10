@@ -76,19 +76,19 @@ Trang này có đưa ra tỷ lệ hiện tại không? Không, tỉ lệ chuyể
   - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Comment | NetEase | I - MI | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | ĐÃ_ ĐÃ | O/F, THC, DOC, BAF, phương pháp kiểm tra |
-| Định nghĩa KC | Sina Chuyển giao tài chính | I - MI | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | ĐÃ_ ĐÃ | Thiết bị cuối xử lý việc bảo vệ |
-| Dương xuất các thành phần điện năng theo làn | Baike | I - MI | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | ĐÃ_ ĐÃ | Bộ phân loại, AMS/ARI/ENS |
-| Tội ảo (TC/booking/ccaring) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Đang nạp tên | 11467
-* Phạm vi tính từ: kiểm tra chéo cấu trúc điện tích từ các nguồn công nghiệp (không chính thức là nguồn chính thức chính thức thuế); AMS/AS/ARI/ENS được cài đặt như hướng dẫn phương pháp biên tập cụ thể; tất cả các số lượng được cố tình loại trừ khi thời gian nhạy cảm. *
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| Nội dung 2020 quy tắc (mà sắp xếp/ trả mỗi lần dịch vụ) | Phòng thương mại quốc tế (ICC) | IN'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VEII | Hàng hóa/ sạc nào được bán bởi Incoterm |
-| Thực hành tua lại và phân loại tính toán | FIATA | IN'L | https://fiata.org/ | 2026-09-05 | VEII | Tài liệu tham khảo/ thuật toán tiến trình/ phép tính |
-| Name | Hội đồng vận chuyển thế giới | IN'L | https://www.worldshipping.org/ | 2026-09-05 | VEII | Name |
-| Trung Quốc Quốc Quốc Hội đồng những người tiến bộ đáng kể | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VEII | Bên Trung Quốc phát triển công nghiệp và thực hành trích dẫn |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

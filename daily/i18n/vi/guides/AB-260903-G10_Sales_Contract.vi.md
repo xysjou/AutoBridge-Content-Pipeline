@@ -83,17 +83,17 @@ Trả tiền trễ thì sao? Một tỷ lệ thanh toán hàng ngày cộng vớ
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC Mã dân sự Thuật ngữ doanh số 596 | Tìm Law (cửa vào hình thức) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | ĐÃ_ ĐÃ (Tiếng nguyên quán được trích dẫn qua một cổng pháp lý thứ hai; không phải một nguồn tin chính thức của NPC) | Nội dung hợp đồng thiết yếu |
-| Xuất khẩu mô hình hợp đồng bán hàng phương tiện (ghi nhớ rủi ro/ tựa đề) | Hợp pháp | Toàn cục | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | ĐÃ_ ĐÃ | Sự chuyển giao mạo hiểm; sự chú ý của tiêu đề; điều kiện tiết lộ | 110ask
-| Những điều khoản chính Purchase (danh sách/ tựa đề/config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | ĐÃ_ ĐÃ | LD, Cửa sổ xác nhận, Phụ cấu hình |
-| Xuất hợp đồng Ký hiệu/ Phân cách/ bội số | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Phân loại, định dạng ICC, aposille |
-Lưu ý: Nghệ thuật 596 nội dung là CROSS_ Được kiểm tra thông qua một cổng pháp lý thứ cấp — VERFIEID yêu cầu mã dân sự chính thức (NPC/Chính phủ) mà không bị bắt giữ; đừng gọi nó là VERIFID. Cần có quyền đặt trước tước vị, lệnh bãi bỏ và Sứ Giả tùy thuộc vào luật pháp và đích đến đã được chọn, và phải được phê chuẩn bởi những luật sư có khả năng. Mô hình hợp đồng chỉ là tham khảo cấu trúc. *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Nhà bình dân của Supreme) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VEII |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VEII |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -2,7 +2,7 @@
 
 ## SEO元数据
 - **SEO标题**: 福尔丁·林志 M5 2024 范斯佩斯, 座位 & CNG / 佩特罗尔导出指南
-- **Meta描述**: 2024 维基月球 东风福兴灵芝M5(M5L年). 中国的规格: 5/7/9-seat布局,(图) 两个轮盘, 1.5T 汽油 6MT  and  1.6L CNG 5MT (英语). 维度,  and  商业买方核查点。
+- **Meta描述**: 2024  东风福兴灵芝M5(M5L年). 中国的规格: 5/7/9-seat布局,(图) 两个轮盘, 1.5T 汽油 6MT  and  1.6L CNG 5MT  维度,  and  商业买方核查点。
 - **H1**: Forthing Lingzhi M5 / M5L 2024 (China): 商业买家的乌利特文斯佩克地图
 - **核心关键词**: 用于Lingzhi M5型货车规格出口
 - **次级搜索词**: 东风灵芝 M5L 9-seat  Forthing M5  CNG  1.6, 中国商MPV型货车出口, 灵芝M5号车轮基地 东风客车
@@ -10,7 +10,7 @@
 - **搜索意图**: 了解 Forthing Lingzhi M5 / M5L 2024(中国):商业买方的Utiratian Van Spec地图:车辆/零件出口商在承诺订购之前必须核实、记录和决定的内容。
 - **内链建议**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
 - **图片建议**: 侧面剖面M5L长体
-- **ALT文本**: 2024 维基月球 福建灵芝M5L型九座商用货车 中国谱
+- **ALT文本**: 2024  福建灵芝M5L型九座商用货车 中国谱
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 车辆作用
@@ -66,7 +66,7 @@
 
 ## 请求当前导出提示
 
-AutoBridge根据请求引用,而不是发布固定出口价格. Chinese domestic references — M5L 1.5T around RMB 74,900–96,800维基月球  and  CNG大约67元人民币, 900——为**国内, 时间敏感性参考文献, 不包括出口价格**。 查询** 目的地港 o 数量 o M5/M5L和座椅 汽油/CNG o LHD/RHD o 目的地港 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+AutoBridge根据请求引用,而不是发布固定出口价格. Chinese domestic references — M5L 1.5T around RMB 74,900–96,800  and  CNG大约67元人民币, 900——为**国内, 时间敏感性参考文献, 不包括出口价格**。 查询** 目的地港 o 数量 o M5/M5L和座椅 汽油/CNG o LHD/RHD o 目的地港 o
 
 ## 买家 FAQ
 
@@ -102,21 +102,21 @@ AutoBridge根据请求引用,而不是发布固定出口价格. Chinese domestic
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 凌日官方参数 | 东风福(官方) | 氯化萘 | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 维基月球 | 2026-09-02 | 实录 | 轮式基地2800/3000,5/7/9个座位,底盘框架 |
-| M5L 1.5T 9-seat型号 | 东赫迪(懂车帝) | 氯化萘 | https://www-hl.dongchedi.com/auto/series/445/model-92416 维基月球 | 2026-09-02 | 横跨 | 1.5T 140 kW 300 N·m, 3000 mm WB, 控制1700 kg |
-| 灵芝参数表 | PCauto (太平洋汽车) (英语). | 氯化萘 | https://car.pcauto.com.cn/360/m124835/config.html 维基月球 | 2026-09-02 | 横跨 | 尺寸、CNG电动火车、WLTC 8.4、保修、价格 |
-| 凌志 M5条 |  Yi切(易车). | 氯化萘 | https://m.yiche.com/zhai/261903/ 维基月球 | 2026-09-02 | 横跨 | 尺寸、轮基、7/9-seat布局 |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* 实证说明(AutoBridge标准):尺寸/轮基/座椅布局在福兴的官方参数页上是VIFIED;1.5T/CNG电源为CrosOSS_CHECKED;节制重量为SINGLE_ 资源。 有效载荷/货物量没有计入事实底数,而是留给正式表格处理;没有说明出口/放射性气体放电规格。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

@@ -78,23 +78,23 @@ E のマークされたコンポーネントのバッグは、** が全車両 WV
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| MIIT注文番号50 — 入学枠 | MIIT 国家評議会 | CN の | 以下は、 https://www.gov.cn/gongbao/content/2019/content_5380357.htm のファイル | 2026-09-03 | CROSS_CHECKED(クロス) | 中国の国内 CoC/アドミッションコンテキスト |
-| EU WVTA + FMVSS スキームノート | 第三者認証機関 | 欧州連合 | 以下は、 | 2026-09-03 | シングル_ソース | WVTA/2018/858 説明; CoC の役割(二次) | https://m.11467.com/product/d53638850.htm
-| OTTS/TR CU 018/2011 の 説明 | 認証サービスプロバイダ | エイユー | 以下は、 | 2026-09-03 | CROSS_CHECKED(クロス) | OTTS/EACの  authorised representative (secondary) | https://m.11467.com/product/d21445928.htm
-| e-mark と E-mark の解説 | 認証サービスプロバイダ | グローバル/EU | 以下は、 | 2026-09-03 | シングル_ソース | e/E マークの区別(二次) | https://m.11467.com/product/d55481671.htm
-*証拠天井:EU/EAEU/UNECEの機器は、二次認証サービスソースから記述されています。安定したEUR-Lex/UNECE/EAEUの第一次テキストは取得されません。 規制の日付と範囲は、コンプライアンス使用前に第一次テキストに対して検証する必要があります。 中国側フレームワークは、公式の裏返された部分だけである。 ふりがな
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| 業務用車種別型式別型式別型式別型式別型式表示(EU)2018/858(連結2021-09-26) 全車両対 |  EUR  -Lex(EU  公式法的データベース) |  CN  の | 以下は 、 | 2026-09-04 | 検証済み | | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926
-| 規制 (EU) 2018/858 (原本)、 第  VI  / 第 36 章 — 各車両のコックを発行するメーカー | ユーロレックス |  CN  の | 以下は 、 | 2026-09-04 | 検証済み | | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858
-| 第VI章(CoC)公式再生 | (英国公認法データ) | CN の | 以下は、 https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf の | 2026-09-04 | 検証済み |  | 2018/858
-| 1958 合意(改訂。3)、E/ECE/TRANS/505 — コンポーネント/システム/STUのUN規制タイプの承認のためのフレームワーク | UNECE(国連) | CN の | 以下は、 https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf のファイル | 2026-09-04 | 検証済み |  |
-| GRRF- 84-18(承認マーク/番号構造、E +国番号) | UNECE WP. 29 GRRF の特長 | CN の | 以下は、 https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf のファイル | 2026-09-04 | 検証済み |  |
-| 1958 協定の状況と国連規制の附属 | ユーネクテ |  CN  の | 以下は 、 の一覧 | 2026-09-04 | 検証済み | | https://unece.org/status-1958-agreement-and-annexed-regulations
-| 税関連合委員会の決定 No. 877 (09.12.2011) 技術的な規則TR CU 018/2011を採用 "オン  | adilet.zan.kz — M の公式法的データベース | CN の | 以下は、 https://adilet.zan.kz/rus/docs/H11T0000877 のファイル | 2026-09-04 | 検証済み |  |
-| イージー ボード決定書 232 (09.12.2014) OTTS OTSH フォームのコンパイルのためのルール | Alta-Soft 法的な参照 (T3; EEC de を再現する) | CN の | 以下は、 https://www.alta.ru/tamdoc/14kr0232/ の | 2026-09-04 | シングル_ソース |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

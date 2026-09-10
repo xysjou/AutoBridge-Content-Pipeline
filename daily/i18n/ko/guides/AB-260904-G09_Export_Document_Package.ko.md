@@ -75,17 +75,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020 공장 증명서 (현재) | SAMR 오픈 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB 엽니다. | 2026-09-04 | 인증 (기본) | 현재 기준/status/dates |
-| SAMR 플랫폼 · GB T 21085-2020 세부 사항 | 의논하기 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | 인증(기본) | 문제/효용/검토일 |
-| 필수 표준 계획 20260041-Q-339 (개발 하에서 파열) | 의논하기 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (기본) | 자주 묻는 질문
-| 24 의무 표준 계획 할당 SAMR 공지 | SAMR/SAC(주) | 담당자: Mr. wang | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | 계획 할당 |
-| MIIT GB21085 -XXXX 상담 초안 (현재) | 의 특징 | 담당자: Mr. wang | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf 대한 자세한 정보 | 2026-09-04 | DRAFT (기본) | Draft-only 멀티 스테이지 텍스트 (현재 단어에서 차단) |
-| 모터 차량 등록 작업 규칙 (export-sale 파일) | 시안 천안시 서북구 | 담당자: Mr. wang | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml 의 경우 | 2026-09-04 | 인증 (기본) | 검사 증명서 + 면허 사본 |
-의논하기 공지 사항 보기 담당자: Mr. 광 | https: | 2026-09-04 | CROSS_체크 | 핸 오버, NEV/translation 권고 | https://www.163.com/dy/article/KJSNGPO20556820S.html
-*Draft 문: 다단식 발행 규칙 및 의무적인 보충은 현재 필요조건 문에서 DRAFT/FUTURE 및 제외됩니다; NEV/translation 품목은 편집 권고입니다. ****************************************************************************************************************************************************************************************************************************************************************
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

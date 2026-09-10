@@ -32,10 +32,10 @@ Emgrand เป็นรถชลประทานรุ่นดีของ Ge
 - สูง: ~ 4638 1820 1460 mm ~
 - เบส: ~ 2650 mm~
 - เบาะ: ** 5 **
-นี่เป็นมิติที่อ้างอิงจีน สําหรับรถ 4th-gen คัน 5th-generation รถมีขนาดใหญ่ขึ้น (ส่ง 4815 1885 1480 mm –,                                                                                     port     port port port port port     port port,    2755 mm ล้อ) — ห้ามผสมทั้งสองด้วยเส้นสเปกตรัม หรือในวัสดุการตลาด (พ.ศ.
+นี่เป็นมิติที่อ้างอิงจีน สําหรับรถ 4th-gen คัน 5th-generation รถมีขนาดใหญ่ขึ้น (ส่ง 4815 1885 1480 mm –,                                                                                     port,    2755 mm ล้อ) — ห้ามผสมทั้งสองด้วยเส้นสเปกตรัม หรือในวัสดุการตลาด (พ.ศ.
 
 ## ขอบเขตแบบปีแบบ (คงการมองเห็นได้นี้)
-- ~หน้านี้: ~ 4th รุ่น รุ่น รุ่น ปี 2024.
+- ~หน้านี้: ~ 4th รุ่น ปี 2024.
 - ** New: ~ 5th รุ่น จีนเปิดตัววันที่ 2025 พฤศจิกายน (เวลา) (เวลา) ISHETIVIF; มีความสามารถและสเปกเปลี่ยนแปลงโดยตลาด).
 - ฝึกอบรมแนะนํา: ฤดูกาล------------------------------การผลิต วันที่ทําในพีไอ ตรา "Geely Mamgran" เพียงชื่อเดียว มันคลุมเครือกว่า 2024–2026.
 
@@ -81,19 +81,19 @@ Emgrand เป็นรถชลประทานรุ่นดีของ Ge
   - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrammian 1.5L แผ่นเรียงพิมพ์ CVT | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | ROOS_ CHCKED | ขนาด, เบสล้อ, ที่นั่ง, อ้างอิงราคา |
-| 2024 ต้นแบบค่าปรับแต่งของเอ็มแกรนด์ (93 kW, 5MT/CVT) | Xcar Toutiau Media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | ROOS_ CHCKED | 1.5L 93 kW การสื่อสาร |
-| เปรียบเทียบพารามิเตอร์หลายแบบ | ฐานข้อมูล Dandmedi | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | ROOS_ CHCKED | เบสล้อ รุ่น, ในประเทศ MSRP (เวลา_ ISSITIME) |
-| 5th-generation เปิดตัว Emagramm (ขอบเขตรุ่น) | จีน เน็ต (สื่อออนไลน์) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | เวลา | 5th-gen ล้อ ไพรซ์; แ ม ม ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป           ป                       ป ป ป ป ป     ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป ป     ม ม ป
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensions, wheelbase, seats, price reference |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissions |
+| Emgrand multi-version parameter comparison | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Wheelbase, versions, domestic MSRP (TIME_SENSITIVE) |
+| 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME_SENSITIVE | 5th-gen size/wheelbase/price; distinguishes generations |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* ใบรับรอง: ไม่มีแผ่น สเปกตรัมหลักของโออีเอ็มที่ถูกบันทึกสําหรับรุ่นนี้ 127 N·m แรงบิดเป็นซิงเกิล-ซอร์ส ราคาบ้านและ 5th-generation เปิดตัว เป็นเวลาที่ไวต่อเวลา ปลายทางของโฮโมล็อก และสเปกต์ส่งออก ต้องได้รับการยืนยันสําหรับ VIN *
+*Confidence note: no OEM primary spec sheet was captured for this model; figures are cross-checked Chinese database/media values. The 127 N·m torque is single-source. Domestic price and the 5th-generation launch are time-sensitive. Destination homologation and export specs must be confirmed for the VIN.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

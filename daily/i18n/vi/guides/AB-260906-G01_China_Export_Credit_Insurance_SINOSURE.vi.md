@@ -81,15 +81,15 @@ Vỏ bọc ngắn hạn có thể mở rộng các tuyến đường tài liệu
 
 Không, người ta đánh giá mỗi người mua, quốc gia và hạn chế và thay đổi theo thời gian; họ lấy những hình ảnh hiện tại từ SINOSSSSS trong văn bản.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国出口信用保险公司官网 (政策性保险公司), 短期出口信用保险产品存在性) | 中国出口信用保险公司 | CN | T1 | VEII | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
-| 国际贸易 ' 单一窗口 ' 出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口 (政府门户) | CN | T1 | VEII | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
-| Công cụ xuất chứng nhận ngắn Bảo hiểm — bao gồm các rủi ro thương mại và chính trị | Tập đoàn bảo hiểm tín dụng & xuất & tín dụng Trung Quốc (SINOSTOR) | CN | T1 | VEII | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | nguy _kiểu — Trang chính thức của Anh; loại nguy hiểm chỉ, không tỷ lệ |
-| 短期出口贸易险承保风险 (商业风险 政治风险) | 中国出口信用保险公司 | CN | T1 | VEII | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | mạo _ hiểm — trang sản phẩm chính thức của CN |
-| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | T1 | VEII | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | in conver_role — sách chính sách; khung tín dụng, tỷ lệ vẫn còn |
-| Name | OECD | I - MI | T2 | ĐÃ_ ĐÃ | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | in bảo hiểm_role — Một sự pha trộn độc lập về bối cảnh quốc tế Sinosure ST/MLT |
+| 中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
+| 国际贸易'单一窗口'出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口(政府门户) | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
+| Short-Term Export Credit Insurance — covered commercial & political risks | China Export & Credit Insurance Corporation (SINOSURE) | CN | primary | VERIFIED | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types — English official product page; risk categories only, no rates |
+| 短期出口贸易险承保风险（商业风险/政治风险） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types — official CN product page |
+| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — policy handbook; credit-term framework, rates remain case-by-case |
+| Chinese Export Credit Policies and Programmes | OECD | INT | independent database | CROSS_CHECKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | insurer_role — independent international context on Sinosure ST/MLT mix |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

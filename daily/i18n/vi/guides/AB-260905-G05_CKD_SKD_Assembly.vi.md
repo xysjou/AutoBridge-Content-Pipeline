@@ -39,16 +39,16 @@ Trang này cố ý không** yêu cầu một định nghĩa chung về CND/SKD, 
 **Có thể thiết kế bộ dụng cụ nào cũng làm việc ở mọi chợ không? Không, điều kiện phân loại và lắp ráp là đặc trưng của đất nước.
 **Người BOM nên làm gì? Chỉ định một dòng, nguồn gốc và giá trị cho mọi thành phần trước khi phân loại.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础. 归类裁定与决定 |
-| 汽车 CKD 散件出口原产地证填制 (行业流程), T4 仅线索). | 顺企网 | CN | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d53830031.htm | 成套散件清单 HS 逐项整理流程线索 |
-| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | CN | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Không có đường cong hệ thống hợp nhất (WCO) | Tổ chức phong tục thế giới | CN | T1 | VEII | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Mật khẩu là cơ sở phân loại được duy trì bởi WCO |
-| Công cụ và công cụ gốc của WCO | Tổ chức phong tục thế giới | CN | T1 | VEII | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | khung và dụng cụ quy tắc cơ bản được WCO duy trì |
-| Thỏa thuận về sự thôi thúc của phong tục | Tổ chức thương mại thế giới | I - MI | T1/T2 | VEII | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Các khung đánh giá thích hợp khi gõ xuống bộ dụng cụ và lắp ráp đơn vị được giá trị khác nhau; không tự đặt ra thuế điểm đến |
-| WCO HS Nomencture — Bộ lọc nhạc cụ (gRI) | Tổ chức phong tục thế giới | I - MI | T1/T2 | VEII | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Thông dịch Chung Luật lệ (incl. GRI 2 (a) quản trị phân loại các hàng chưa được lắp ráp/diped. Trang sâu |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

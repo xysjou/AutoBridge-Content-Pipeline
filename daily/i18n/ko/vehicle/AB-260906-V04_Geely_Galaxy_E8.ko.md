@@ -19,7 +19,7 @@ The Galaxy E8 (Yinhe E8) is Geely's flagship electric fastback sedan on the SEA 
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
 |---|---|---|---|
 | 플랫폼/체 | SEA 건축, 5-door/5-seat 중대 전기 빠른 뒤 세단 | 중국 2024/2025 | CROSS_체크 |
-| 의 크기 | 5010 × 1920 × 1465 mm, 축거 2925 mm | 중국 · 단일 소스, 확인 | SINGLE_SOURCE(싱글) |
+| 의 크기 | 5010 × 1920 × 1465 mm, 축거 2925 mm | 중국 · 단일 소스, 확인 | single source(싱글) |
 | 후방 드라이브 모터 | 200 kW 또는 250 kW 단일 모터 (버전) | 중국 · 크로스 검사 | CROSS_체크 |
 | 모든 휠 드라이브 | 듀얼 모터 결합 ≈ 475 kW (기능 버전) | 중국 · 크로스 검사 | CROSS_체크 |
 
@@ -71,16 +71,16 @@ Higher 버전은 800V 플랫폼을 사용합니다. 정확한 SKU를 확인하�
 
 5010 × 1920 × 1465 mm의 주위에 2925 mm 휠베이스 (중국 시장 참조, 트림에 의해 확인).
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量,  续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率,  驱动  |
-| 银河 E8 610km 版 (250kW/373N·m、 5.49s、 宁德时代 67.8kWh、 800V) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机, 电池供应商, 平台  |
-| Geely Yinhe/Galaxy E8 함대 페이지 (OEM) | Geely 자동차 | CN/EXPORT의 특징 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: 용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용용
-글리쉬는 Yinhe E8 (Jan 2024 OEMending)의 부품을 판매합니다. 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — 발사 타이밍과 바다 건축; SKU : # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 :: # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 : # 1 카테고리 :
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — 공지 사항으로 배터리/드라이브 변형을 확인합니다. 의논문
-| Geely Galaxy E8 독립적 인 사양 개요 | 린크카 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | T3 | CROSS_체크 | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power - ENT 인 타임즈 체크; 의논하기
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

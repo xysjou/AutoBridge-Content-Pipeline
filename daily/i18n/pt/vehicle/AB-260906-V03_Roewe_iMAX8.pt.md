@@ -75,15 +75,15 @@ Não — apenas a versão da gasolina; os derivados electrificados são produtos
 
 Nenhuma versão do RHD é evidenciada pelas fontes do mercado chinês utilizadas aqui.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 荣威 iMAX8 官方车型页 (车型官方身份; 官网动态渲染尺寸未取到, 尺寸以数据库为准) | 荣威汽车官网 | CHINA | T1 | VERIFICADO | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
-| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科 (今日头条镜像) | CHINA | T3 | FONTE ÚNICA | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
-| iMAX8 尺寸 座位 (5016 × 1909 × 1788, WB3000, 7 座) | 58汽车 | CHINA | T3 | FONTE ÚNICA | https://car.58.com/x/4112/ | 尺寸, 座位  |
-| iMAX8 20A4E 发动机 (234Ps) 与配置 | 太平洋汽车百科 | CHINA | T3 | FONTE ÚNICA | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
-| SAIC Motor oficial (Roewe proprietário da marca) | Motor SAIC | NC | T1 | VERIFICADO | https://www.saicmotor.com/e/ | Identidade — empresa-mãe OEM; Roewe é marca SAIC |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/datainfo/cpgg/ | identidade — verificar a variante da China homologada e a contagem de lugares por anúncio |
+| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | primary | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
+| iMAX8尺寸/座位（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | media/industry | single source | https://car.58.com/x/4112/ | 尺寸, 座位  |
+| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
+| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | primary | VERIFIED | https://www.saicmotor.com/e/ | identity — OEM parent corporate; Roewe is SAIC brand |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant and seat count by announcement |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

@@ -1,10 +1,10 @@
 # JAC康林(康铃) 灵宝L6轻型卡车——底盘家族,公告式建造和出口索尔金注解
 ## SEO元数据
-- **SEO标题**: JAC 维基月球 康林灵宝L6轻型卡车:Cassis,GVW & 进口商驱动线
+- **SEO标题**: JAC  康林灵宝L6轻型卡车:Cassis,GVW & 进口商驱动线
 - **Meta描述**: JAC 1Ka (单位:千美元) 凌保(江宁)L6轻型货车由底盘家族解释——安徽昆明斯2.5型柴油机动力台阶,4T/5T型后轴,多台MIIT型公告机车,如何将确切的出口建设钉上.
-- **H1**: JAC 维基月球 康林灵宝L6: 匹配底盘, 公告型号和出口命令的超级架构
-- **核心关键词**: JAC 维基月球 康林灵宝L6轻型卡车规格出口
-- **次级搜索词**: JAC 灵宝 L6, HFC4DE3 维基月球 安徽昆明2.5, (中文(简体)). HFC1043辆轻型卡车,  China 4.5t  GVW  diesel truck, JAC 1Ka辆轻型卡车出口, 康林下水卡车
+- **H1**: JAC  康林灵宝L6: 匹配底盘, 公告型号和出口命令的超级架构
+- **核心关键词**: JAC  康林灵宝L6轻型卡车规格出口
+- **次级搜索词**: JAC 灵宝 L6, HFC4DE3  安徽昆明2.5,  HFC1043辆轻型卡车,  China 4.5t  GVW  diesel truck, JAC 1Ka辆轻型卡车出口, 康林下水卡车
 - **建议URL**: /vehicles/jac-kangling-light-truck/
 - **搜索意图**: 懂JAC吗? Kangling Lingpao L6: 匹配Cassis、出口订单的公告模式和超级架构:车辆/部件出口商在承诺下达订单之前必须核实、记录和决定的内容。
 - **内链建议**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
@@ -24,8 +24,8 @@
 | 前轴 | 2 T |
 | 后轴 | 4 T/5 T(加固10,000 N/13,000) /. 某些线路上的N选项) |
 | 最后驱动率 | 4.875 4.33 (4.11 on selected lines) |
-| | Zhiwei S25 (Q25A petrol-style), **安康2.5(安徽-蚌埠HFC4DE3型柴油机车)**, 安康3.0冷链, YN30气/双燃料, 德康160B/C号, DHE155 维基月球 |
-与出口最相关的柴油机车是**安康(安康)2.5号机车,使用安徽-蚌埠号**HFC4DE3号机车**家. JAC的表格列出了三个后缀——**HFC4DE3-2E5 -2EA -2E9 – 111 117 125 kW **, 轮度为** 360  and  458 N·m 维基月球 ** 报告迟交是因为需要更新。 这很重要,因为转售商经常引用一个单的"160 hp/460 N·m"数字,这个数字并不匹配每一个后缀; 电源步骤和扭矩必须从准确的引擎后缀和公告证书中读取。
+| | Zhiwei S25 (Q25A petrol-style), **安康2.5(安徽-蚌埠HFC4DE3型柴油机车)**, 安康3.0冷链, YN30气/双燃料, 德康160B/C号, DHE155  |
+与出口最相关的柴油机车是**安康(安康)2.5号机车,使用安徽-蚌埠号**HFC4DE3号机车**家. JAC的表格列出了三个后缀——**HFC4DE3-2E5 -2EA -2E9 – 111 117 125 kW **, 轮度为** 360  and  458 N·m  ** 报告迟交是因为需要更新。 这很重要,因为转售商经常引用一个单的"160 hp/460 N·m"数字,这个数字并不匹配每一个后缀; 电源步骤和扭矩必须从准确的引擎后缀和公告证书中读取。
 ## 建立代表通告(数据库,跨区域)
 显示平台排如何变成混凝土卡车, 被捕获的建筑是**滴水面HFC1043P21K4C7S,4×2 **, 数字来自360che/卡车之家公告数据以及JAC-family交叉核对(CROSS_CHECKED; closed 2026-09-02, 重比JAC表2026-09-03):
 | 项目 | HFC1043P21K4C7S 跌幅(每份宣布数据) |
@@ -38,7 +38,7 @@
 | 刹车 | 带有弹簧停车制动装置的全空制动装置 |
 | 曲线/额定有效载荷/GVW | 2.565 t 1.735 t **4.495 t** |
 | | 2 T(1600 kg可允许)/4 T(2895 kg组),比率4.875 |
-| 轮胎 | 7.00R16LT 8PR, (英语). 六轮 |
+| 轮胎 | 7.00R16LT 8PR,  六轮 |
 | 叶子泉 | 4 5+6 |
 | 下垂侧体 | 4.18 × 2.10 × 0.40 m |
 ### 为什么同一个"L6"可以显示不同的重量
@@ -93,19 +93,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
   - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 凌波 L6 官方配置表 | JAC商用车辆(JAC 江淮 1 卡,**制造商官员**) | 氯化萘 | https://cv.jac.com.cn/kllpL6/ 维基月球 | 2026-09-03 | ** 已执行** | 驾驶1920, 世行3365, 帧 180×65×4.5, 轴2T/4–5T, 比率, HFC4DE3 完整电力家庭名单 |
-| L6 HFC5043XY… box/announcement parameters | (卡车之家, 商业开发银行) | 氯化萘 | http://product.m.360che.com/m815/203872_param.html 维基月球 | 2026-09-02 | 横跨 | 公告型号 | 360che
-| L6 代表性下降参数 | (卡车之家) (中文(简体)). | 氯化萘 | http://product.m.360che.com/m815/203878_param.html 维基月球 | 2026-09-02 | 横跨 | HFC1043P21K4C7S 尺寸、重量、轴、车身、轮胎 | 360che
-| L6 Fast-8 variant line | (卡车之家) (中文(简体)). | 氯化萘 | https://product.360che.com/m772/193093_index.html 维基月球 | 2026-09-03 | 资源 | 替代8-speed变速箱,变速散射 | 360che
-* 自动包厢标准下是否可靠: 核查机构要求有一个制造商/政府/标准机构;JAC自己的表格符合该栏的平台事实。 360che的详细每封通知权重是Cross_CHECKED,与JAC家族对战,但仍必须匹配到准确的证书. 没有说明价格;国内清单价格是时间性强的,从未作为出口数字使用。 * 报告迟交是因为需要翻译。
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| Lingpao L6 official configuration table | JAC Commercial Vehicle (JAC 江淮1卡, **manufacturer official**) | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | **VERIFIED** | Cab 1920, WB 3365, frame 180×65×4.5, axles 2T/4–5T, ratios, HFC4DE3 power/torque steps, full power-family list |
+| L6 HFC5043XY… box/announcement parameters | 360che (卡车之家, commercial DB) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | CROSS_CHECKED | Announcement model family, engine/gearbox, body weights |
+| L6 representative dropside parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensions, weights, axles, body, tyres |
+| L6 Fast-8 / variant line | 360che (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | single source | Alternative 8-speed gearbox, variant spread |
+*Confidence per the AutoBridge standard: VERIFIED requires a manufacturer/government/standards body; JAC's own table meets that bar for platform facts. Detailed per-announcement weights from 360che are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. No price is stated; domestic list price is time-sensitive and never used as an export figure.*
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
 ## 编辑评论
 - ** 作者/评论员**:[自动桥出口编辑组](作者/) 编辑方法,按我们的[编辑政 (/编辑政策/)

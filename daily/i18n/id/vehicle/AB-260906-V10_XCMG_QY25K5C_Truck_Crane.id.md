@@ -70,15 +70,15 @@ Dokumen apa yang harus dibeli oleh pembeli? ****
 
 OEM QY25K5C spesifikasi dan chart load, ditambah terpisah carrier - chassis homologation dan superstruktur sertifikasi.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团 2025 半年报 徐工品牌与起重机产品线官方披露 | 徐工机械 (深交所披露) | CHINA | T1 | TERBATAI | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌 产品线官方  |
-| 汽车起重机未纳入特种设备目录: 事故调查报告官方表述: 佐证监管分类 | 滁州市政府（事故调查报告PDF） | CHINA | T1 | TERBATAI | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工 QY25K5/QY25E 系列介绍 25t 级 五节臂方向 型号较杂 仅背景 | 抖音百科 (T4) | CHINA | T4 | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t 级背景  |
-| Pejabat global XCMG | Xuchou Konstruksi Machelance Group (XCMG) | CN EXPORT | T1 | TERBATAI | https://en.xcmg.com/ | identitas - OEM resmi; konfirmasi secara tepat model K-series dan bagan load |
-| 道路机动车辆生产企业及产品公告: 查询入口 | 中华人民共和国工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/datainfo/cpgg/ | regulasi _ class - truk-chassis road homologation; superstructure per OEM load chart |
-| Halaman produk anggota crane truk XCMG (CCCME) | Kamar Perdagangan Cina untuk Impor dan Ekspor Machelance | CN | T2 | _ BERDECAT | https://www.cccme.cn/products/detail-8285510.aspx | identitas - anggota ruang daftar; identitas cross- cek saja, bukan lembar spesifikasi |
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

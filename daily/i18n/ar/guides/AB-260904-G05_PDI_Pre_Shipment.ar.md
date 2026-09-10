@@ -45,7 +45,7 @@
 2. ضعوا على مستوى الناقلة المسماة بالكتابة** (WW/Höegh) كما هو أعلاه، وإلا إحصلوا على دليل الناقلة
 3. (ب) قابلية التشغيل (الحركة/الضغط/النقل) وحل التحذيرية.
 4. في المحطة، قم بالتفتيش المشترك ووقع على سجل التسليم (التوصية).
-5. File photos + handover sheet with the B/L so any destination claim has a baseline.
+5. ارفق الصور + محضر التسليم مع سند الشحن B/L ليكون لأي مطالبة في الوجهة مرجع أساسي.
 
 ## حدود هذا الدليل
 - أصناف WW/Höegh هي **CARRIER_SPECIFIC**، لم يتم تعميمها أبداً على "جميع الناقلات" أو على اللائحة.
@@ -84,18 +84,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | والينيوس ويلهلمسن (ناقل رو رو) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | (ناقل أولي) | مستوى الوقود، القابلية للتشغيل |
-WWWESTTRANSLATED (المنطقة الفرعية 12/24V) و/أو النورينتش، INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 SINGLE_SOURCE (primary carrier) −
-; Höegh Automotive shipping (HF) BV SOC; القدرة على التشغيل) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, الوقود القابلية للاشتراك |
-| شاحنة/أعمال/شاحنات شحن | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | الوحدــة التجاريــة |
-| ممارسة التفتيش قبل الشحن | صفحة من صفحات الصناعة | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | القائمة المرجعية الموصى بها/الفوتو/المناولة | 11467
-* نطاق الأدلة: تحقّق من سياسات الناقلات المسماة إلى أدلة رئيسية من WW/Höegh (سياسة الشاحنات، لا القواعد التنظيمية، ولا تعميمها)؛ والقائمة المرجعية هي التوصية التحريرية؛ وقيم الاصطدام/الضغط/التلقيم الثابتة معلّقة في انتظار OEM/وثائق كارييه. ♪
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | single source (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | single source (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | single source (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | single source (editorial basis) | Recommended checklist/photo/handover |
+*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
-? (ب) يُنظِّم الموقع الشبكي - من الورقة ومن الموقع الشبكي INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx. 2026-09-05 .. -بالضبط بـاء - جريمـة اللبس تحسين العمل
-| التأمين على والإحالة إلى المخاطر البحرية | الاتحاد الدولي للتأمين البحري | INTL | https://iumi.com/ | 2026-09-05 | مفقود | لماذا تم توثيق مسائل PDI/handover evidence for cargo-claims handling |
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

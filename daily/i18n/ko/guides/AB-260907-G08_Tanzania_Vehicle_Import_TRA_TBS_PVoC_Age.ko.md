@@ -73,15 +73,15 @@ TBS-authorised PVoC 공급자는 CCIC (중국 명부에), Intertek, SGS 및 TÜV
 
 고정 속도가 여기에 부여되지 않습니다. 정확한 HS 코드를 분류하고 실제 차량의 현재 TRA 관세 선 / 모터 차량 계산기를 사용합니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| TBS 수입 및 수출 관리 - PVoC 프로그램, CoC, 중고 모터 차량 카테고리, D1, 파트너 이름 | 탄자니아 국가 (TBS) | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据, CoC 装船前, 二手车单列类别, 检验机构, D1 |
-TRA는 EACCMA 2004, 라이센스 CFA, TANCIS, ≥ 7 일, 비자 기관 중 TBS | 탄자니아 복수 권위(TRA) | TZ | T1 | 인증 | https://www.tra.go.tz/page/import-procedures | EA, EACCMA, TANCIS, TBS EA |
-| TRA 모터 차량 등록 (등록 / 교환 -의 내면) | 탄자니아 Revenue Authority (TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
-| 货代 PVoC/e-COC 介绍 (仅线索, 不作事实依据) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVOC 线索의 |
-| 货代 PVoC 流程介绍 (仅线索) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
-| 使馆转述坦桑进口要求 (2015, 历史背景) | 今日头条镜像 | TZ | T3 | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
+| TBS Imports and Export Control — PVoC programme, CoC, used-motor-vehicle category, D1, named partners | Tanzania Bureau of Standards (TBS) | TZ | primary | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC法定依据, CoC装船前, 二手车单列类别, 检验机构, D1 |
+| TRA Import Procedures — EACCMA 2004, licensed CFA, TANCIS, ≥7-day lodging, TBS among permit agencies | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS许可 |
+| TRA Motor Vehicle Registration (registration/change-of-ownership side) | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
+| 货代PVoC/e-COC介绍（仅线索，不作事实依据） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC线索 |
+| 货代PVoC流程介绍（仅线索） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
+| 使馆转述坦桑进口要求（2015，历史背景） | 今日头条镜像 | TZ | media/industry | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)

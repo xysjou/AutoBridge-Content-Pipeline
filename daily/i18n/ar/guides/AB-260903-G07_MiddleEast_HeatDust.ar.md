@@ -13,7 +13,7 @@
 - **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## أدلة
-الطبقة الادلة منفصلة ويرتكز مسار المطابقة الآن على المصادر الرئيسية** - إطار منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي، الذي تطبقه المملكة العربية السعودية على الصعيد الوطني من خلال منظمة جنوب تنسيق الموارد الطبيعية، ومن خلال وزارة التجارة والبيئة والتنمية (وزارة التجارة الدولية) - ويستشهد به في المصادر. (أ) لا تزال بنود التكيف المُحرّكة** أدناه (التعريف، والشحن، والشحن، والاختتام، والمرشحين الحراريين للمركبات) قائمة على مصدر وحيد من مصادر أو الصناعة، ولا تزال قائمة على الـ (SingLE_). نقاط تقييم الموارد، وليس المتطلبات القانونية في الخليج. لا يوجد زي واحد "مطياف الكبريت" يؤكد كل شيء مع "أوم إيه" و "أوم بي آي" لنموذج و ظرف التشغيل و ضد تطبيق البلد المُقدّم** الخاص بنص "جي إس إس إس" (طريقي "سودي" و "يو أي" يختلف ويظهر بشكل منفصل أدناه
+الطبقة الادلة منفصلة ويرتكز مسار المطابقة الآن على المصادر الرئيسية** - إطار منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي، الذي تطبقه المملكة العربية السعودية على الصعيد الوطني من خلال منظمة جنوب تنسيق الموارد الطبيعية، ومن خلال وزارة التجارة والبيئة والتنمية (وزارة التجارة الدولية) - ويستشهد به في المصادر. (أ) لا تزال بنود التكيف المُحرّكة** أدناه (التعريف، والشحن، والشحن، والاختتام، والمرشحين الحراريين للمركبات) قائمة على مصدر وحيد من مصادر أو الصناعة، ولا تزال قائمة على الـ (SingLE_). نقاط تقييم الموارد، وليس المتطلبات القانونية في الخليج. لا يوجد زي واحد "مطياف الكبريت" يؤكد كل شيء مع "أوم إيه" و "أوم بي آي" لنموذج و ظرف التشغيل و ضد تطبيق البلد المُقدّم** الخاص بنص "جي إس" (طريقي "سودي" و "يو أي" يختلف ويظهر بشكل منفصل أدناه
 
 ## لماذا سيارة صينية - سبيك ليست ذاتية الخليج
 وتتحمل مركبة مصممة لظروف صينية معتدلة حرارية مختلفة وحمولة غبار في الخليج. One upfit source describes Gulf summer ambient around **40–50 °C**, الشتاء يقترب من 20 °C مع كثرة **دستور and الرطوبة العالية** (المصدر الوحيد). ويمكن للمحيط العالي المطهول أن يزيد درجة الحرارة ويضع تكييف الهواء في الخدمة القريبة من الاستمرار، ويقود الغبار الغرامي إلى مساكن كهربائية ومستشعرة، ويضغط على المظروف الحراري للبطارية. وسواء كان بناء الصين سيك يغطي بالفعل ذلك المغلف هو مسألة هندسية خاصة بنموذج معين، وليس افتراضا.
@@ -27,7 +27,7 @@
 - ** التمويل** - تلفيق وفترات خدمة مختصرة للعمليات الغبارية.
 وهذه النقاط هي ** نقاط التقييم**، وليس التغييرات التلقائية، وليس شرطاً عالمياً للتكيف مع الخليج؛ وقد يكون بناء الصين الذي يُعَدَّد جيداً قد يفي ببعضها بالفعل.
 
-## EV Hybrid: Thermal-Management Options to Evaluate
+## EV/هجين: خيارات الإدارة الحرارية الواجب تقييمها
 بالنسبة للمركبات الكهربية، البطارية هي النظام المُراعي للحرارة. ويناقش أحد المصادر الهندسية إدارة حراريات السائلة ** مع تحقيق التكافؤ في درجات الحرارة الخلوية**، ويلاحظ أن الحزم المكعبة بالهواء يمكن أن تكون أكثر ضعفاً تحت درجة الحرارة العالية المستدامة (المصدر الوحيد). القراءة الصحيحة للمشتريات:
 - ** يُطلب إلى مكتب مراقبة الأوزون الحصول على بيانات حرارية** مقارنة نهجه في التبريد مع المظروف المستهدف؛ ** إن التبريد السائل هو أحد الخيارات لتقييمه - ولا يرفض التبريد الجوي بشكل قاطع، ولا يفترض أن التبريد السائل إلزامي**، دون وجود أساس معياري من نوع OEM/engineering لهذا النموذج.
 - مناقشة ** استراتيجية عالية التمرين** - حدود التفرغ، التحذيرات الحرارية.
@@ -79,18 +79,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| م تكيف | مقدم خدمات | الخليج | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE OURCE | Climate range; ICE candidate adaptation points (one source) |
-| شبكة تلفزيونية شاملة (تبريد سائل عالي ذاتية منخفضة التأقلم) | الهندسة في | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE OURCE | سائل ضد مناقشة إدارة حرارية جوية (مصدر واحد) |
-| أداء البطارية (الهدف 30 - 55) | D1EV Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE OURCE | - 30 إلى 55 °C هدف تصميم السياسات (مصدر واحد) |
-| 2026 معرض الجداة للسيارات (قطع دوارة، BMS) | Sohu | المملكة العربية السعودية | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE OURCE | عناصر مقاومة مذكرة امتثال مجلس التعاون الخليجي (مصدر واحد) |
-* حد أقصى للأدلة: تستند كل عملية تكيف إلى مصدر واحد (جميع مصادر الطاقة)؛ ولم يسجل أي معيار أساسي للبدلات العامة أو OEM عينة هندسية. وتوضع البنود بوصفها نقاط تقييم للمربّي البالغ عددهم OEM/مبتدئ، وليس متطلبات الخليج العالمية؛ ولا توجد حدود قانونية أو تشكيلة إلزامية. ♪
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| قائمة الأنظمة التقنية الخاصة بالمركبات | منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي | GCC | https://www.gso.org.sa/ | 2026-09-05 | مفقود | النظام التقني للمركبات على نطاق مجلس التعاون الخليجي، بما في ذلك الجداول الزمنية (يختلف تطبيق البلد) |
-| and the Curjiye (SASO Saleem) |, and RECOMMENDATIONS  ال以氯化碳的.的.的.的。 https://www.saso.gov.sa/en/Pages/default.aspx . 2026-09-05  مفقود |》第号建议的。 ?
-| إصدار شهادات مطابقة للمنتجات الخاضعة للتنظيم (بما في ذلك | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | مفقود | طريق المطابقة الخاص بالجامعة؛ المواد التي تم تأكيدها في كل سوق، لم تفترض أن النظام الموحد للسوق |
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

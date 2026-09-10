@@ -82,20 +82,20 @@ No se publica precio de exportación. Consulta con **Destinación País · Canti
   - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
   - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Shunda pequeño camión JX493ZLQ6D 122PS compatible con el valor 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Motor, potencia, GVW, carga de framing |
-| Shunda cama de pequeño camión, GVW, peso de la culata | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 cama, 4.27 t, peso en la culata |
-| Shunda cargo 3.7m 116PS (en venta) | camiones | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Versión alterna 116 PS (excluida) | 58.com
-| Shunda rueda de rodaje círculo de giro | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m de giro |
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
-| GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 18352.6-2016 con la enmienda XG1-2026 (Emisiones de contaminantes de la lumínica de China-6) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China- 6 etapa de emisión de vehículos ligeros y 2026 fechas de aplicación de la enmienda |
-| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| Shunda small truck JX493ZLQ6D 122PS compliant 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Engine, power, GVW, payload framing |
+| Shunda small truck bed, GVW, curb weight | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 bed, 4.27 t, curb weight |
+| Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | single source | Alternate 116 PS version (excluded) |
+| Shunda wheelbase / turning circle | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m turning |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confianza: no hay hoja primaria OEM; cheques cruzados de base comercial. Carga de pago ratada se aplaza explícitamente al anuncio/certificado MIIT; 2.499 L y 2.8 L motores se mantienen separados. Referencia del mercado chino sólo. *
+*Confidence note: no OEM primary sheet; trade-database cross-checks. Rated payload explicitly deferred to MIIT announcement/certificate; 2.499 L and 2.8 L engines kept separate. Chinese-market reference only.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

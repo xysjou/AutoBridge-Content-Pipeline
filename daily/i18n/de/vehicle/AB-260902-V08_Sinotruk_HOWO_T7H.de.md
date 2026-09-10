@@ -94,21 +94,21 @@ Kein maßgeblicher Preis wurde für 2026-09-02 erfasst und keiner wird geschätz
   - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
-## Quellen & Verifizierung
+## Sources & Verification
 
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| HOWO T7H 460 6 × 4 | (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Ankündigung, Weichai Motor, Achsen, Reifen, Tank, Fahrerhaus | 360che
-| T7H offizielle Produktseite | Sinotruk Group (CNHTC, offiziell) | KN/Ausfuhr | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | ÜBERPRÜFUNG | MC11 440 HP/10.518 L, Fahrwerk, Getriebe, ZF-Lenkung |
-| HOWO NX/T7H international | SINOTRUK International (offiziell) | Ausfuhren | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | ÜBERPRÜFUNG | Exportmotorverdrängung/HP-Optionen |
-| T7H Exportkonfiguration | SINOTRUK HOWO (offizielles Händlersystem) | Ausfuhren | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | ÜBERPRÜFUNG | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m Euro V |
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 17691-2018 Schadstoffemissionen schwerer Nutzfahrzeuge (China-VI) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | ÜBERPRÜFUNG | Emissionsstufe China-VI (Schwerdiesel) für Lastkraftwagen/Kutschen |
-| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- Emissionsdesign in Übersee |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Vertrauensbeweis (AutoBridge-Standard): MC11/MC13 Exportmotoren und -gewichte werden auf Sinotruk-offiziellen Kanälen VERIFIZIERT; detaillierte Ankündigungszahlen sind SINGLE_ QUELLE. Der Preis ist nicht überprüft und weggelassen. Bestätigen Sie den genauen Exportaufbau auf dem Sinotruk International Blatt. * 360che
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

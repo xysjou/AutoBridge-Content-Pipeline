@@ -70,15 +70,15 @@ Non — ce sont des modèles différents; - Oui. moteur  and  dimensions must co
 
 La carte de spécifications et de charge OEM QY25K5C, ainsi que la certification d'homologation et de superstructure de porte-avions et de châssis.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团 2025 半年报 (徐工品牌与起重机产品线官方披露) | 徐工机械 (深交所披露) | CHINE | T1 | VÉRIFIER | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc |  |
-| 汽车起重机未纳入特种设备目录 (事故调查报告官方表述, 佐证监管分类) | 滁州市政府 (事故调查报告 PDF) | CHINE | T1 | VÉRIFIER | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科 (T4) | CHINE | T4 | NON VÉRIFIS | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t 级背景  |
-| XCMG officiel mondial | Groupe de machines de construction de Xuzhou (XCMG) | CN/EXPORTATION | T1 | VÉRIFIER | https://en.xcmg.com/ | identité — officiel OEM; confirmer le modèle exact de la série K et le diagramme de charge |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/datainfo/cpgg/ | Regulatory_class — homologation routière par camion-chassis; superstructure par carte de charge OEM |
-| Page de produit de la grue de camion XCMG (CCME) | Chambre de commerce de la Chine pour l'importation et l'exportation de machines | NC | T2 | _CHECTURE | https://www.cccme.cn/products/detail-8285510.aspx | identité — liste des membres de chambre; vérification de l'identité uniquement, pas une fiche technique |
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## Révision de la rédaction
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

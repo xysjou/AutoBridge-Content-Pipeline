@@ -80,16 +80,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| IMDG 코드 개정 42-24 공식 중국어 텍스트 PDF | 중국 해상 안전 관리 | INTL/CN 시행 | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | 인증 (기본) | 42-24의 MSC. 556 (108), 2026-01-01-01-01-01-01-01-01-01-01-01-01, UN3556-3558, P912의 9 인|
-| UN 시험 및 기준 설명서 (Rev. 8 + 개정 1), 섹션 38.3 (SCETDG- 66 INF. 30) | UNECE UN 하위 - 컴미트 | INTL의 | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf 입력합니다. | 2026-09-04 | 인증 (기본) | 8+Amd.1,  UN38.3 T.1–T.8, 나트륨 이온 |
-| UN/SCETDG- 64 INF. 29 리튬 건전지 ID/38.3 표하기 개정 | 한국어 | INTL의 | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | 38.3 표하기 개정 |
-| 미국 49 CFR § 173.185 (IBR에 의하여 UN38.3를 전갈로 만드십시오) | 미국 GovInfo (CFR) | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: 으로 | 2026-09-04 | 인증(기본) | UN3480/3481의 의무 UN38.3 | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml
-| IMDG 42-24 해석 (MSC. 556 (108), 효과적인 날짜) | 중국 해상 (repost) | INTL/CN(인트럭) | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_체크 (지원) | 효과적인 해석 |
-| UN3556 SP405 표하기 해석 | Jiupai 뉴스 (레포스트) | INTL의 | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE (지원) | SP405 표하기 |
-*Evidence 참고: MSA (IMDG 42-24) 및 UNECE (수정 목사 8+Amd.1, 49 CFR) 기본 소스에 고정 된 핵심 분류; 미디어 산업 페이지는 UN 번호 또는 UN38.3. 고정 SOC 값에 대한 기본 증거가 차단되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

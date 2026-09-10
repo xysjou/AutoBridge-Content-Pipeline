@@ -53,19 +53,19 @@ Perintah UniZ mudah untuk dilewatkan karena lencana yang sama mencakup tingkat l
 ## PSD
 ** Apakah UNI-Z dijual di luar negeri dengan nama yang sama? ** Tidak didirikan oleh pernyataan OEM dalam sumber-sumber ini; jangan asumsikan nama atau spec equvalence.
 Siapa yang menyediakan baterai? Dua akun sekunder konflik, sehingga pemasok dibiarkan belum dikonfirmasi.
-Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfirmasi konektor dan kompatibilitas grid lokal.
+Apakah V2L berfungsi di pasar saya? Angka 3.3 kW adalah spesifikasi pasar Tiongkok; konfirmasi konektor dan kompatibilitas jaringan lokal.
 ** Apakah 130 km jangkauan WLTP? ** Tidak, ini CLTC.
 ** Dimana harga ekspor? ** Permintaan kutipan saat ini; halaman ini tidak menerbitkan apapun.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | _ BERDECAT | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI- Z 配置信息 | 汽车之家车家号 | CN | T3 | _ BERDECAT | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 UNI-Z 参数 | 搜狐汽车 | CN | T2 | _ BERDECAT | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| ChanganName Situs global resmi otomatis | Changan Autoemone 长安汽车 (OEM) | CN | T1 | TERBATAI | https://www.globalchangan.com/ | merek model-baris identitas dan Otoritas OEM |
-| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN pengumuman |
-| Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

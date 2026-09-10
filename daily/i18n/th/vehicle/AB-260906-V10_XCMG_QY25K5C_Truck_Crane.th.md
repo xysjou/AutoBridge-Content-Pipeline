@@ -70,15 +70,15 @@ The '25-tonne' label is a nominal class. การยกงานได้ทุ
 
 The OEM QY25K5C สเปกและโหลดชาร์ต รวมถึงเครื่องส่งส่งแยกเครื่องส่ง - hompalogy และเครื่องตรวจวัดทางระบบนิเวศ
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械 (深交所披露). | จีน | T1 | เปิดใช้งาน | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌 产品线官方  |
-| 汽车起重机未纳入特种设备目录 (事故调查报告官方表述 佐证监管分类 佐证监管分类 佐证监管分类 佐证监管分类 佐证监管分类 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ ศ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 汽车起重机未纳入特种设备目录 | 滁州市政府 滁州市政府 (事故调查报告  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF ) พ พ พ พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ | จีน | T1 | เปิดใช้งาน | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科 (T4). | จีน | T4 | ไม่ได้รับมอบ | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t 级背景  |
-| อ อ อ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่               uz uh uh uh uh uh เครื่องปรับแต่งเครื่อง (XCMG). | CN/ ExPORT | T1 | เ เ สืบค้นเมื่อ 27 พฤษภาคม 2556. สืบค้นเมื่อ 5 พฤษภาคม พ.ศ. | อ อ อ ต ต ต ต ล ล ล ล ล ล ล ล ล ล ั ั ั ั ั ั ั ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ย-25-60-ัั น น น น น ย ย ย ย ย ย น น ย ย ย ย ย น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ย ย ย ย ย ย ย ย ย น น น ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย น ย ย ย ย ย ย ย ย  K แ ล น | | |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1   | | | | เ เ เ เ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ซูเปอร์ไซเฟอร์ 716996 accessUS10. สืบค้นเมื่อ 27 พฤษภาคม พ.ศ.
-| XCMG Public Kirl Auduccess (CCME). | ราชอาณาจักรจีนเพื่อการพาณิชย์เพื่อนําเข้าและส่งออกเครื่องกล | CN | T2 | ROOS_ CHCKED | https://www.cccme.cn/products/detail-8285510.aspx | การแสดงตัว — รายชื่อสมาชิกในชั้นใน; สืบค้นเมื่อ 20 July 20 July 2015. สืบค้นเมื่อ 28 July 20 July 2015. 77/a/c. _thamromus mothorin ็s-25b. bg_transfidigg. จํานวนมาก โมกาโมโมโมโมโมโมโมโซเมียมมิเมเนียม ชะ... – – อ80. . . . . . . สืบค้นเมื่อ 6 พฤษภาคม พ.ศ.
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

@@ -22,7 +22,7 @@ Geely กาแลคซี L6 EM-i (2025) เป็นรถซีดานล�
 - ~อาชิตาร์~: FF (Frond-Fronic/Frond-ไดรฟ์), 4-door 5-seat ซีดาน; พบศพ 4782 1875 1489 mm  wheelbase 2752 mm (cross-checked).
 - ** –* – BHE15-BFN 1.5 L ตามธรรมชาติ, 1499 mL, 82 (112Ps) kW 136 N·m (ตารางพารามิเตอร์ของไซเกิล) (Single-COL).
 - ** กรมรถไฟ ** 160 kW/ 262 N·m (ตรวจสอบพลังงานรถผ่าน; ขับเคลื่อนซิงเกิล-ซอร์ส).
-- ~ กรมทหาร ~: 1 挡 DHT(EM-i 单挡混动专用变速) — DHT รุ่นเดี่ยว (DHT) ซึ่งเป็นคุณสมบัติของ EM-I กับรุ่นผสมรุ่นรุ่นรุ่นรุ่นรุ่นเก่าที่หลายรุ่น (Multi-smlight).
+- ~ กรมทหาร ~: 1 挡 DHT(EM-i 单挡混动专用变速) — DHT รุ่นเดี่ยว (DHT) ซึ่งเป็นคุณสมบัติของ EM-I กับรุ่นผสมรุ่นเก่าที่หลายรุ่น (Multi-smlight).
 - ~เส้นตรงที่สายน้ําย่อย: ~ 8.5 19.09 kWh. แบตเตอรีที่จัดหามา... ไม่ได้รับการยืนยันโดย Geely ~ และไม่ได้เจตนาระบุไว้
 - ~ช่วงของไฟฟ้า~: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; on WLTC the captured reference is 48 115 km. CLTC และ WLTC เป็นวงจรที่แตกต่างกัน ไม่เคยอ้างถึงหมายเลข CLTC เป็นตัวเลขส่งออกของ WLTC/NEDC
 - ~ ผลงาน ~: เพิ่มช่อง CLTC เพิ่มขึ้นถึง 最高 2000 km 0–100 km/h 7.4 s; ความเร็วสูงสุด 180 km/h; ถังน้ํามัน 60 L; สัมประสิทธิ์การลาก 0.26.
@@ -67,15 +67,15 @@ Geely กาแลคซี L6 EM-i (2025) เป็นรถซีดานล�
 ~ใครสร้างเซลล์แบตเตอรี่? ~ ไม่ได้รับการยืนยันในแหล่งที่ถูกจับ ดังนั้นหน้านี้จึงไม่ได้ตั้งชื่อว่า ผู้จัดหา
 ~ ออโตบิล เผยแพร่ราคาส่งออกหรือไม่ ~ ไม่ — ขอข้อมูลปัจจุบันกับจุดหมายปลายทาง ปริมาณ การตัดแต่ง, LHD/RHD, พอร์ต และ Inccodia.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河L6 系列参数 | 中关村在线 ZOL 产品库. | CN | T2 | ROOS_ CHCKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距 动力, 动力, 电池, 续航 |
-| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/model_7163/config | 尺寸 动力 动力 变速箱 座位 (พ.ศ. ○
-| 银河L6 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻 油箱 油箱 综合续航 加速 (พ.ศ. |
-| เว็บไซต์อย่างเป็นทางการทั่วโลก | Geey Auto Group 吉利 (OEM) | CN | T1 | เปิดใช้งาน | https://global.geely.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | independent database | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
+| 银河L6 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

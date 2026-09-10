@@ -116,7 +116,7 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
 | GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is SINGLE_SOURCE. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

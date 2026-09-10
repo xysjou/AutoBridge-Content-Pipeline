@@ -28,16 +28,16 @@
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
 | Motor diesel | 2.0T 4F20 柴油 | - | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
-| Energía diesel | 120 (163Ps) | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| Energía diesel | 120 (163Ps) | kW | CHINA | single source | 太平洋汽车 |
 | diesel torsión | 390 或 415 (版本差异, 未锁定) | N·m | CHINA | CONFLICTO | 太平洋 vs 懂车帝 2025 款详表 |
-| Motor de gasolina | 175 | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| par de gasolina | 360 | N·m | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| transmisión | 6MT 8AT | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| opciones de transmisión | 后驱 适时四驱 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| Motor de gasolina | 175 | kW | CHINA | single source | 太平洋汽车 |
+| par de gasolina | 360 | N·m | CHINA | single source | 太平洋汽车 |
+| transmisión | 6MT 8AT | - | CHINA | single source | 太平洋汽车 |
+| opciones de transmisión | 后驱 适时四驱 | - | CHINA | single source | 太平洋汽车 |
 |                                                           | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
-| ################################################################################################################################################################################################################################################################ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCE | 太平洋汽车百科 |
-| suspensión | 前双叉臂 后整体桥 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| estándar de emisiones | 国 VI(0 # 柴油) | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| ################################################################################################################################################################################################################################################################ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | single source | 太平洋汽车百科 |
+| suspensión | 前双叉臂 后整体桥 | - | CHINA | single source | 太平洋汽车 |
+| estándar de emisiones | 国 VI(0 # 柴油) | - | CHINA | single source | 太平洋汽车 |
 
 ## Controles de exportación de Pickup: cama, transmisión y el conflicto de par
 Las órdenes de recogida fallan con más frecuencia en la longitud de la cama y el tren de transmisión. Elige una base corta o larga y concuerda con las dimensiones de la cama; elige 4WD solo cuando la construcción confirma un caso de transferencia/bajo rango. El conflicto de la torsión máxima (390 vs 415 N·m) es **izquierda sin resolver a propósito** — obtener la hoja de configuración OEM para el VIN exacto en lugar de elegir el número favorable. La masa de remolque no es capturada y no debe ser estimada. Confirme la etapa de emisión (gasoil China-VI, 0 #) contra la calidad del combustible de destino y las reglas de admisión.
@@ -56,17 +56,17 @@ Las órdenes de recogida fallan con más frecuencia en la longitud de la cama y 
 ** Dimensiones de los lechos?** Un solo recurso aquí; chequeo cruzado antes de ordenar.
 ¿Cuál combustible para diesel?** China-VI, 0 # diesel; verifique la compatibilidad del combustible de destino.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军 G9 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军 G9 配置 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军 G9 车型页 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军 G9 参数 | 新浪汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军 G9 配置库 | 买车网 | CN | T3 | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor sitio oficial | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | marca/model-line identity and OEM authority |
-| Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |
-| Administración Estatal para el Reglamento de Mercados (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | nacionales de normas, certificación y autoridad de regulación del mercado |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

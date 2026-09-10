@@ -51,7 +51,7 @@ Listas de verificação públicas repetem "ler SOH e rejeitar abaixo de 80%." Es
 - Conectores de bateria e HV inspecionados para remoção/corrosão.
 - Serviço + histórico de sinistros de seguro puxado; colisão inundação marcadores de fogo verificados.
 - Odômetro reconciliado com ciclos de carga e desgaste físico.
-- Regra do destino utilizado-V confirmado ** por escrito**  and  distinguished from the engineering 80% line.
+- Regra de veículo usado do destino confirmada **por escrito** e distinguida do patamar técnico de 80%.
 - Compatibilidade de interface de carregamento (GB/T vs destino) verificada.
 ## Perguntas Mais Frequentes
 **Is 80% SOH a legal import requirement?** No. Aproximadamente 80% é uma referência de engenharia/garantia em fim de vida (por exemplo, QC/T 743; Ensaiado por GB/T IEC 62660; não é um limiar de importação de carros usados, não é uma lei de aposentadoria unificada e não é uma linha de garantia de cada fabricante. Não há portão universal de 80% alfândegas, então confirme a regra do destino. 31484
@@ -86,19 +86,22 @@ Listas de verificação públicas repetem "ler SOH e rejeitar abaixo de 80%." Es
   - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T traction-battery cycle-life requirements/test methods | Padrão nacional chinês (** organismo de normas**) | NC | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | ** VERIFIFICADO** | Quadro de ensaio de capacidade/vida útil do ciclo; requisitos de capacidade inicial | 31484
-| IEC 62660-1/2 – Ensaios de desempenho/vida celular de iões de lítio | IEC (organismo internacional ** normas**) | Global | https://www.iec.ch/ (série IEC 62660) | 2026-09-03 | ** VERIFIFICADO** | Base de ensaio de desempenho/vida normalizada para a SOH |
-| GB/T 46991.1-2025 a bordo SOH/SOC display de precisão e durabilidade (MIIT/SAC) | Padrão nacional recomendado chinês (** corpo padrão**) | NC | reportado através de cobertura de normas; primário em canais SAC/MIIT | 2026-09-03 | CROSS_CHECKED | A precisão do dispositivo de saúde a bordo é normalizada separadamente (não uma linha de importação legal) |
-| Formulações SOH e a convenção de fim de vida QC/T 743 80% | LNC Explicador técnico das baterias (indústria) | Global | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | FONTE ÚNICA | Fórmula SOH baseada na capacidade; 80% como referência no fim da vida útil da indústria |
-| Pontos principais para comprar NEVs usados métodos de teste de carga e triagem | Yiche, Dongchedi (referências de métodos de mídia automática) | NC | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | FONTE ÚNICA | Método de inspecção, ensaio de carga, prática de acidente/inundação/odómetro |
-| 懂车帝 二手车电池检测内容 | 懂车帝 (字节跳动) | NC | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | FONTE ÚNICA | 20% - 80% 充电验证衰减方法 |
-| 懂车帝 二手电车三招排除事故 泡水 调表 | 懂车帝 (视频) | NC | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | FONTE ÚNICA | 事故/泡水/调表排查方法、电池包护板拆装痕迹 |
-| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar(行业站) | NC | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | FONTE ÚNICA | 出口 SOH. 80% 认证门槛 (EU/ 东盟) |
+| 商务部等《关于二手车出口有关事项的公告》（2024年第6号） | 中华人民共和国商务部（wms.mofcom 子站，与 www.mofcom 归一为同一母机构） | CN（出口监管） | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2024/art_52f62edf8132411fa206542d851edfc7.html | 2026-09-08 | VERIFIED | 出口前第三方检测报告要求、企业条件、禁出情形 |
+| 商务部等《关于支持在条件成熟地区开展二手车出口业务的通知》 | 中华人民共和国商务部 | CN | https://www.mofcom.gov.cn/zfxxgk/gkml/art/2021/art_29ef062444784bd5af9400546a1ecb75.html | 2026-09-08 | VERIFIED | 第三方检测报告制度源头、报废/抵押车辆禁出 |
+| 商务部等四部门《关于进一步加强二手车出口管理工作的通知》 | 中华人民共和国商务部 | CN | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-08 | VERIFIED / TIME_SENSITIVE | 质量与售后责任、售后维修服务确认书 |
+| 中国政府网政策库收录（加强二手车出口管理） | 中国政府网/国务院 | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-08 | VERIFIED | 发布主体、施行时间交叉印证 |
+| 中国汽车流通协会（CADA）二手车鉴定评估技术资料（引 GB/T 30323-2013） | 中国汽车流通协会 CADA | CN | https://www.cada.cn/Content/ueditor/net/upload/file/20180708/6366665897945162707573052.pdf | 2026-09-08 | CROSS_CHECKED | GB/T 30323-2013 框架、SOH 技术定义、事故/泡水/火烧判别 |
+| 易车 — 二手新能源选购核心要点 | 易车 | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-02 | single source | SOH 概念、检测方法 |
+| 懂车帝/抖音 二手 EV 检测视频（20%-80% 充电验证） | 字节系（懂车帝/抖音，归一为 1 个母机构） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | single source | 充电验证衰减方法 |
+| 懂车帝/抖音 二手电车事故/泡水/调表排查 | 字节系（与 SOURCE 07 同母机构） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | single source | 事故/泡水/调表排查、电池护板 |
+| 抖音 电池老化阈值经验 | 字节系（同母机构） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 铁锂/三元老化经验阈值（非法规） |
+| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | GLOBAL（出口） | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | single source | 行业经验参考线（非法定） |
+| 抖音 磷酸铁锂/三元 SOH 警戒线 | 字节系（同母机构，URL 与 SOURCE 09 同族，保留方法出处） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 经验阈值 |
 
-* Nota de confiança: o que os padrões de bateria definem (medição SOH, teste de ciclo, a convenção de engenharia 80%) é VERIFIED/CROSS_CHECKED contra corpos de normas. A alegação anterior de "SOH ≥ 80% necessária para a certificação UE/ASEAN" não tinha fonte oficial e foi removida: não existe um limiar legal universal de importação SOH, e a regra da autoridade de destino deve ser obtida por país. Os vídeos de métodos de inspeção são usados apenas como referências de método. *
+*Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05

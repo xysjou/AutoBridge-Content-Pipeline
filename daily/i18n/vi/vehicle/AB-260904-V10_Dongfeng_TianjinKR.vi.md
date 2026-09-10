@@ -86,19 +86,19 @@ Bộ phận làm lạnh của Đông Phong có phải là một phần của b�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Thiên Tân KR 6.8m san hô B6.2 powertrain/gearbox | 360che (Toutao) | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ĐÃ_ ĐÃ | B6.2 245PS, Nhanh 8-speed, bậc trục Dana |
-| Nine 6.8m cargo trucks: KR conbig | 360che (Toutao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | ĐÃ_ ĐÃ | 6.8m, bánh xe, tỷ lệ trục |
-| Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | ĐÃ_ ĐÃ | 5000 WB, chiều rộng nội bộ, GVW |
-| DFH5180XLCG4 san hô — MỘT MỘT MỘT MỘT 410 | Tài chính Sina (citing MIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | ĐÃ_ ĐÃ | Mã gõ, giới hạn tốc độ |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
-| GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
+| Tianjin KR 6.8m reefer B6.2 powertrain/gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | CROSS_CHECKED | B6.2 245PS, Fast 8-speed, Dana axle |
+| Nine 6.8m cargo trucks: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | CROSS_CHECKED | 6.8m, wheelbase, axle ratio |
+| Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_CHECKED | 5000 WB, internal width, GVW |
+| DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_CHECKED | New filing code, speed limiter |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*B đồng ý: mật mã mô hình thả xuống MIIT, 410 báo cáo; đơn vị bán san hô / múi giờ/không cố ý để lại cho người xây dựng cơ thể (không có giá trị cứng); KR Cộng với loại trừ. Tham khảo thị trường Trung Quốc; xác nhận đánh giá hợp pháp trên thông báo/số. *
+*Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

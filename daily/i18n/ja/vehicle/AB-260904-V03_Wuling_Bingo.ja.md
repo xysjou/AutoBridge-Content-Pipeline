@@ -83,24 +83,24 @@ The Bingo is Wuling's five-door small electric hatchback, 都市をめざす  an
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 武装ビンゴ203kmコンフィグテーブル | Autohome 設定 | CN の | 以下は、 https://car.m.autohome.com.cn/config/spec/61645.html の | 2026-09-04 | CROSS_CHECKED(クロス) | 17.3 kWh、30 kW/85 N·m、範囲、最高速度 |
-| ビンゴ2024 203kmパラメータ | Sohu Autoデータベース | CN の | 担当: http://db.m.auto.sohu.com/trim_173261 の | 2026-09-04 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、バッテリー、座席 |
-| 2024年|京都・京都・京都・京都・京都・京都・祇園・京都・祇園・祇園・祇園・京都・祇園・祇園・祇園・祇園・小松・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・ ビンゴのレンジと高速充電更新 | オートホーム・ケジアオ | CNの の 以下は、https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED(クロス)の仕様 | 範囲ステップ、50 kWの DC の 充電分、CLTC |
-| ビンゴの寸法と座席のレイアウト | 自動 | CN の | 以下は、 | 2026-09-04 | シングル_ソース | 2+2 席 | https://m.16888.com/news/2025/0708/23852156.html 16888
-| 武装ビンゴ 2025 フルライン構成 | PCauto 設定 | CN の | 以下は、 https://car.pcauto.com.cn/360/m133517/config.html の | 2026-09-04 | CROSS_CHECKED(クロス) | モーター、範囲 |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| GB 38031の牽引電池の安全条件(GB 38031-2025;2026-07-01から必須新しいタイプ塗布) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | 電動パワートレインのための必須のトラクション電池の安全要件ベース |
-| GB 18384電気車両の安全要件(GB 18384-2025) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 検証済み | |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-海外向けOEMページはありません。中国市場のみの参考文献です。 ふりがな
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国、2024 武陵ビンゴ(中国市場参照;CLTCは述べた;グローバルスペックではない)
 - **検証方法**:マルチデータベースクロスチェック; シングルソース項目はフラグが付けられます

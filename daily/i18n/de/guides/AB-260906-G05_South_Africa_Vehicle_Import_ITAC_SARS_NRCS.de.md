@@ -74,16 +74,16 @@ Keine — Gebrauchtfahrzeugeinfuhren sind beschränkt und hängen von der Berech
 
 Nein; die Einhaltung der NRCS-Pflichtspezifikation muss für das spezifische Modell nachgewiesen werden, und die Lenkseite ist eine weitere Überlegung.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | Kommission der Internationalen Handelsverwaltung Südafrikas | ZA | T1 | ÜBERPRÜFUNG | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 - 南非进口管制 |
-| ITAC 官网 (机构身份与进口管制 关税职能) | ITAC Südafrika | ZA | T1 | ÜBERPRÜFUNG | https://www.itac.org.za/ | 主管机构身份 — 机构 |
-| SARS Zoll & Verbrauchsteuern(海关征管; 外籍注册车辆 TMS 申报 2026-06-01 起等当期通告) | Südafrikanische Revenue Service | ZA | T1 | ZEIT_SENSIATION | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
-| NRCS(强制性规范与 Letter of Authority, 含 Automotive 汽车类别) | Nationale Regulierungsbehörde für obligatorische Spezifikationen | ZA | T1 | ÜBERPRÜFUNG | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 — 南非强制合规 |
-| 南非拟调整中印进口车关税 (媒体报道, 仅 TIME_SENSITIVE 背景, 税率须 SARS/ITAC 官方核) | 今日头条 (媒体) | ZA | T3 | ZEIT_SENSIATION | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
-| Importieren eines gebrauchten oder gebrauchten Fahrzeugs (offizieller Leitfaden) | Südafrikanische Regierung | ZA | T1 | ÜBERPRÜFUNG | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC-Genehmigung zuerst, an SARS entrichtete Abgabensätze je Fahrplan |
-| Genehmigungsschreiben für importierte oder umgebaute Kraftfahrzeuge | Südafrikanische Regierung | ZA | T1 | ÜBERPRÜFUNG | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa — NRCS LOA vor Einfuhr/Zulassung für neue und gebrauchte Fahrzeuge erforderlich |
+| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | International Trade Administration Commission of South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 — 南非进口管制 |
+| ITAC官网（机构身份与进口管制/关税职能） | ITAC South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/ | 主管机构身份 — 机构 |
+| SARS Customs & Excise（海关征管；外籍注册车辆TMS申报2026-06-01起等当期通告） | South African Revenue Service | ZA | primary | TIME_SENSITIVE | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
+| NRCS（强制性规范与Letter of Authority，含Automotive汽车类别） | National Regulator for Compulsory Specifications | ZA | primary | VERIFIED | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 — 南非强制合规 |
+| 南非拟调整中印进口车关税（媒体报道，仅TIME_SENSITIVE背景，税率须SARS/ITAC官方核） | 今日头条(媒体) | ZA | media/industry | TIME_SENSITIVE | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
+| Importing a second-hand or used vehicle (official guide) | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC permit first, duty paid to SARS, rates per current schedule |
+| Letter of authority for imported or rebuilt motor vehicle | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa — NRCS LOA required for new and used vehicles before import/registration |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

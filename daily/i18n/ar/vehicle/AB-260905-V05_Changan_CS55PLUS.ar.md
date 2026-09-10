@@ -55,15 +55,15 @@
 ** هل هو 99، 900 RMB سعر التصدير؟** لا - مرجع الإطلاق المحلي.
 ** أي إرسال؟ ** 7-speed مبلل مزدوج (7DCT) على الخط المأجور.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代CS55PLUS上市 | 人民网重庆 | CN | T3 | صرخات | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | T2 | صرخات | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
-| Changan الموقع العالمي الرسمي للسيارات | Changan Automobile 长安汽车 (OEM) | CN | T1 | مفقود | https://www.globalchangan.com/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

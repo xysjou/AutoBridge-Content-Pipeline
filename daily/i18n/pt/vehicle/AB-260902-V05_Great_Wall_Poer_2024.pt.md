@@ -76,19 +76,19 @@ Qual é a distância entre eixos? Cama de passageiros padrão 3230 mm; cama de 3
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM captador tabela de configuração oficial (GW4C20B/GW4D24, 8AT/9AT, potência líquida torque) | GWM (** Oficial do fabricante**) | NC | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | ** VERIFIFICADO** | Saídas líquidas oficiais atuais 160 kW/380 N·m gasolina, 135 kW/480 N·m diesel, 8AT/9AT |
-| GWM POER 2.4 exportação (181 hp/ 480 N·m 9AT, corpo-em-quadro 4WD) | GWM Jordan (**funcionário do fabricante**) | Exportar/Jo | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | ** VERIFIFICADO** | Exportação de 2.4 diesel, 9AT, 4WD body-on-frame |
-| Lançamento da GWM UK POER300 (2.4 diesel 183 PS/480 N·m, 9AT, em tempo integral 4 × 4 de baixo alcance) | GWM Carros UK (** Oficial do fabricante**) | Exportar/Reino Unido | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | ** VERIFIFICADO** | Classificação de diesel de exportação, 9AT, 4 × 4 de baixo alcance |
-| 2024 Configuração Pao (referência de passageiros da China) | PCauto (太平洋汽车) | NC | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passageiros 140 kW/360 gasolina, 135 kW/480 diesel, ZF 8AT |
-| Parâmetros Pao (base/drive por versão) | Autohome | NC | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 distâncias entre eixos, unidade de versão/transmissão | 360che
-| 汽车之家 问答 (炮动力) | 汽车之家 | NC | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | FONTE ÚNICA | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | NC | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | FONTE ÚNICA | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
-| 网上车市 炮乘用皮卡参数 | 网上车市 | NC | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | FONTE ÚNICA | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-* Nota de confiança: as saídas/transmissões correntes são VERIFIED nas páginas oficiais da GWM; the 2024 China passenger values are CROSS_CHECKED on databases  and  são deliberadamente mantidos separados para evitar anos de mistura modelo. A carga útil/GVW/rebocador permanece para a folha oficial e não é estimada. *
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05

@@ -32,22 +32,22 @@ Dòng EM-i là động cơ chạy trước và kết hợp với 1.5 L tự nhi�
 |---|---|---|---|---|---|
 | Chiều dài | 4782 1875 1489 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 搜狐双源一致 |
 | bánh xe cơ sở | 2752 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 搜狐双源一致 |
-| kiểu cơ thể | 4 门 5 座三厢轿车 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| Mô hình động cơ | BHE15-BFN 1.5L 自然吸气 | - | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| Chuyển động cơ | 1499 | mL | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| Nguồn động cơ | 82 (112Ps) | kW | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| Name | 136 | N·m | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
+| kiểu cơ thể | 4 门 5 座三厢轿车 | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| Mô hình động cơ | BHE15-BFN 1.5L 自然吸气 | - | TRUNG QUỐC | single source | ZOL 参数表 |
+| Chuyển động cơ | 1499 | mL | TRUNG QUỐC | single source | ZOL 参数表 |
+| Nguồn động cơ | 82 (112Ps) | kW | TRUNG QUỐC | single source | ZOL 参数表 |
+| Name | 136 | N·m | TRUNG QUỐC | single source | ZOL 参数表 |
 | năng lượng động | 160 | kW | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 太平洋 |
-| mô-men xoắn động cơ | 262 | N·m | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| gửi | 1 挡 DHT(EM-i 单挡混动专用变速) | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| ắc quy chứa các đường | 8.5 19.09 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| ev phạm vi cltc | 60 140（对应8.5/19.09kWh） | km | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| ev phạm vi ltc | 48 115 | km | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| cộng độ sâu | 最高 2000 | km | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| Tốc độ cao nhất | 180 | km/h | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| accel 0 100 | 7.4 | s | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| bình nhiên liệu | 60 | L | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| Hệ số kéo | 0.26 | Cd | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| mô-men xoắn động cơ | 262 | N·m | TRUNG QUỐC | single source | ZOL 参数表 |
+| gửi | 1 挡 DHT(EM-i 单挡混动专用变速) | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| ắc quy chứa các đường | 8.5 19.09 | k Wh | TRUNG QUỐC | single source | ZOL 参数表 |
+| ev phạm vi cltc | 60 140（对应8.5/19.09kWh） | km | TRUNG QUỐC | single source | ZOL 参数表 |
+| ev phạm vi ltc | 48 115 | km | TRUNG QUỐC | single source | 太平洋汽车 |
+| cộng độ sâu | 最高 2000 | km | TRUNG QUỐC | single source | 太平洋汽车 |
+| Tốc độ cao nhất | 180 | km/h | TRUNG QUỐC | single source | ZOL 参数表 |
+| accel 0 100 | 7.4 | s | TRUNG QUỐC | single source | 太平洋汽车 |
+| bình nhiên liệu | 60 | L | TRUNG QUỐC | single source | 太平洋汽车 |
+| Hệ số kéo | 0.26 | Cd | TRUNG QUỐC | single source | 太平洋汽车 |
 
 ## Pin, chu kỳ và logic sạc cho khách hàng
 Hai đường pin tạo ra khoảng cách điện và thời gian sạc, nên một lệnh nên luôn đặt tên cho dung lượng pin, không chỉ là phù hiệu cắt giảm. Báo cáo phạm vi với chu kỳ thử nghiệm **: các số liệu Trung Quốc là CLTC, có thể đọc cao hơn WLP cho cùng một phần cứng. Xuất khẩu năng lượng từ thị trường, hệ thống phân tích pin và ngoài nước không được chứng minh bởi một nguồn xuất khẩu OEM ở đây** và không được công nhận; yêu cầu bảng phân tích thị trường đích thay vì giả sử hệ EM-i được áp dụng ở nước ngoài Không xác nhận thông tin và không có sẵn ở nước ngoài và bị loại ra.
@@ -67,15 +67,15 @@ Tại sao có hai trường điện được trích dẫn? Chúng vẽ bản đ�
 ** Ai tạo ra pin thế? Không xác nhận được trong các nguồn tin bị bắt, nên trang này không đặt tên cho người cung cấp.
 ** AutoBridge có xuất bản giá xuất khẩu không? Không — yêu cầu một câu trích dẫn hiện thời với mục đích, số lượng, dòng cắt, đường LHD/RHD, cổng và Incoctern.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河 L6 系列参数 | 中关村在线 ZOL 产品库 | CN | T2 | ĐÃ_ ĐÃ | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距. 动力. 电池. 续航 |
-| 吉利银河 L6 参数配置 | 搜狐汽车车型库 | CN | T2 | ĐÃ_ ĐÃ | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力. 变速箱. 座位 |
-| 银河 L6 车型百科 | 太平洋汽车百科 | CN | T3 | ĐÃ_ ĐÃ | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱. 综合续航. 加速 |
-| Trang web toàn cầu có quy củ | Nhóm tự động có tin kỳ diệu 吉利 (OEM) | CN | T1 | VEII | https://global.geely.com/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | independent database | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
+| 银河L6 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

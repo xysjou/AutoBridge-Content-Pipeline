@@ -26,9 +26,9 @@ El tramo de 250 mm es esencialmente largo de la cama, y cambia tanto espacio de 
 
 | Familia | Referencia del mercado chino | Transmisión | Confianza |
 |---|---|---|---|
-| 2.5T diesel (JE4D25) | Una de las principales opciones diesel; la potencia exacta / el par de pares varía según el año modelo | 6MT / 6AT | SINGLE_SOURCE — salidas no fijadas aquí|
-| 1.9T diesel | Opción diésel más pequeña | Manual/auto por recortado | SINGLE_SOURCE |
-| 2.4T gasolina | Petrol alternative | Por trim | SINGLE_SOURCE |
+| 2.5T diesel (JE4D25) | Una de las principales opciones diesel; la potencia exacta / el par de pares varía según el año modelo | 6MT / 6AT | single source — salidas no fijadas aquí|
+| 1.9T diesel | Opción diésel más pequeña | Manual/auto por recortado | single source |
+| 2.4T gasolina | Petrol alternative | Por trim | single source |
 
 Debido a que no se captó ninguna especificación oficial de Changan del mismo ritmo, esta guía no imprimirá salidas fijas kW/N·m para estos motores: hacerlo presentaría figuras de medios de un solo recurso como datos establecidos. Coincide con el código de motor exacto, año modelo, potencia y transmisión a la hoja de configuración oficial Kaicene/Changan o entrada de homologación MIIT antes de contraer, y mantenga las líneas diesel y de gasolina claramente separadas.
 
@@ -76,25 +76,25 @@ Estas cifras circulantes no se verifican en este archivo; obtener remolque nomin
 
 El camión chino es LHD; cualquier construcción RHD/export y el nombre de la organización en el extranjero requieren pruebas OEM separadas y no se asumen idénticas.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m510/127652_param.html | engine_variants |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
-| 中国皮卡网 | 中国皮卡网 | CHINA | T3 | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6825893006034338312/ | engines |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6753066743062594051/ | offroad |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m510/127652_param.html | engine_variants |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
+| 中国皮卡网 | 中国皮卡网 | CHINA | media/industry | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6825893006034338312/ | engines |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6753066743062594051/ | offroad |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-08
-- **Mercamiento de referencia**: CHINA(中国市场参考; 动力功率 / 拖拽 / 额定载质量无 OEM 同 tm 或公告来源, 保持待证不写死)
+- **Mercamiento de referencia**: CHINA(China-market reference; 动力功率 / 拖拽 / 额定载质量无 OEM 同 tm 或公告来源, 保持待证不写死)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. La geometría de un solo proveedor y las salidas de motores, y todas las cifras de remolque/pago/GVW, deben ser reconfirmadas en la hoja OEM o entrada de homologación MIIT antes de realizar la operación.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

@@ -75,15 +75,15 @@ EVs có thể chuyển đến RoRo bình thường không?
 
 Đối tượng của các thiết bị điện tử và các lợi ích nguy hiểm và phân loại chính xác UN/MDG; xác nhận trước khi đặt.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 温州首条汽车滚装航线开通 直达东南亚 (2026-09-06), 港口滚装航线现实运行佐证 | 中国网 | CN | T3 | ĐÃ_ ĐÃ | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
-| 中国港口协会汽车滚装分会行业背景 (行业组织) | 中国港口协会 | CN | T2 | SINGLE_SOURCE | http://www.port.org.cn/ | 滚装码头行业背景  |
-| 商品车多式联运滚装操作规程 JT/T 1194 — 2018 | 交通运输部 (行业标准文本) | CN | T1 | VEII | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo đánh đập/tay qua các tiêu chuẩn hoạt động; giá trị hoạt động xác nhận với nhà truyền thông |
-| 港口货物作业规则（交通部令2000年第10号） | 中国政府网 交通运输部 | CN | T1 | VEII | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — hóa đơn hàng hóa/traft and kiện tụng hàng hóa tại thiết bị cuối |
-| COSCO Bộ giao hàng chuyên biệt (chính thức) | 中远海运特种运输股份有限公司 | CN | T1 | ĐÃ_ ĐÃ | http://www.coscoshipping.com/ | roro_method — mẫu hạm; lịch trình/sự chấp nhận mỗi chuyến đi, xác nhận trước khi đặt chỗ |
-| Wallenius Wilhelmsen (Người đưa thư chính thức) | _Cuên- ni- u- ni- a- ni- a- niName | I - MI | T1 | ĐÃ_ ĐÃ | https://www.walleniuswilhelmsen.com/ | roro_method — quốc tế RoRo Mare; chấp nhận các thuật ngữ cụ thể |
+| 温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证） | 中国网 | CN | media/industry | CROSS_CHECKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
+| 中国港口协会汽车滚装分会行业背景（行业组织） | 中国港口协会 | CN | independent database | single source | http://www.port.org.cn/ | 滚装码头行业背景  |
+| 商品车多式联运滚装操作规程 JT/T 1194—2018 | 交通运输部（行业标准文本） | CN | primary | VERIFIED | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover operating procedure standard; operational values confirm with carrier |
+| 港口货物作业规则（交通部令2000年第10号） | 中国政府网/交通运输部 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — cargo receipt/handover and cargo-record liability at terminal |
+| COSCO Shipping Specialized Carriers (official) | 中远海运特种运输股份有限公司 | CN | primary | CROSS_CHECKED | http://www.coscoshipping.com/ | roro_method — carrier; schedules/acceptance per voyage, confirm before booking |
+| Wallenius Wilhelmsen (official RoRo carrier) | Wallenius Wilhelmsen | INT | primary | CROSS_CHECKED | https://www.walleniuswilhelmsen.com/ | roro_method — international RoRo carrier; acceptance terms carrier-specific |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

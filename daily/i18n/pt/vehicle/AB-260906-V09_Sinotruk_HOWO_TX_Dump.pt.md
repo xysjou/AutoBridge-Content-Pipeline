@@ -54,13 +54,13 @@ Os preços dos pesados são dependentes da configuração e do corpo e não são
 
 Geralmente, 6 × 4 e 8 × 4; escolha por condições de carga e localização e confirme o modelo exato.
 
-**Is the 400 PS WP10H engine standard?**
+**O motor WP10H de 400 PS é de série?**
 
 É uma amostra 8 × 4 de construção; a linha TX usa vários motores, incluindo MC-série, então nomeie a linha de transmissão exata.
 
 ** Que caixa de velocidades e eixo usa a amostra? **
 
-The sample lists an HW19712L 12-speed manual  and  MCX16ZG eixos a motor, Mas confirme para o chassis real.
+A amostra lista um manual HW19712L de 12 marchas e eixos motrizes MCX16ZG, mas confirme no chassi real.
 
 ** Quanto pode carregar? **
 
@@ -70,15 +70,15 @@ A carga útil/GVW/GCW não é fixada aqui — obtenha-a a partir do anúncio de 
 
 Não presumido — os edifícios regionais e de exportação necessitam de elementos de prova distintos do OEM.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | FONTE ÚNICA | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
-| 重汽 2025 年半年报 (豪沃 HOWO 品牌与整车产销官方披露) | 中国重汽 (深交所披露) | CHINA | T1 | VERIFICADO | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 产销官方披露  |
-| 中国重汽集团 (豪沃产品系列官方身份) | 经济日报 (中国重汽集团 PDF) | CHINA | T2 | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| SINOTRRUK HOWO oficial global | China Grupo Nacional de Caminhões Pesados (Sinotruk) | EXPORTAÇÃO | T1 | VERIFICADO | https://www.sinotrukchina.com/ | brand_official — Empresa OEM; identidade da marca HOWO; exportação constrói mercado-escoberto |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/datainfo/cpgg/ | Identidade — verificar o quadro, o motor e a GVW de 8x4/6x4 por anúncio |
-| 卡车之家 HOWO 车型库 (独立商用车数据库) | 卡车之家 | NC | T2 | CROSS_CHECKED | http://www.360che.com/ | identidade — verificação cruzada independente da configuração da amostra |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

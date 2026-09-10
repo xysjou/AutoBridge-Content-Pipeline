@@ -43,17 +43,17 @@
 ** من سأشاهده** المشتري والمرسل إليه والأطراف الأخرى ذات الصلة، عند الاستلام، ثم مرة أخرى قبل الشحن.
 ** ماذا لو كان هناك ضربة** تصعيد ولا تمضي قدماً؛ ولا يجب تقديم خدمة إلى الطرف المُنكر.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | مفقود | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可، WMD/ 恐怖主义 军事用途 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/ | السلطة المختصة بإصدار تراخيص التصدير ومراقبة الصادرات |
-| Regulation (EU) — EU dual-use export-control regime | الاتحاد الأوروبي (اليورو - ليكس) | الاتحاد الأوروبي | T1/T2 | مفقود | https://eur-lex.europa.eu/eli/reg/2021/821/oj | مثال لنظام رئيسي لمراقبة الاستخدام المزدوج والضوابط المقيدة على النهائي ذات الصلة بفرز التصميم | 2021/821
-| مشروع قانون بشأن المعلومات المتعلقة بالمعلومات في الولايات المتحدة - على ذلك: مكتب الصناعة والأمن بالولايات المتحدة الأمريكية (BIS) | الولايات المتحدة الأمريكية (T1/T2  ال مفقود مفقود https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list |
-| "أوزك" القائمة - فرز الجزاءات | US Office of Foreign Assets Control (OFAC) | الولايات المتحدة الأمريكية | T1/T2 | مفقود | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | مصممة خصيصا قائمة وطنية كمصدر لبيانات فرز الجزاءات؛ وتحديد الولاية القضائية، وليس قائمة سوداء عالمية |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

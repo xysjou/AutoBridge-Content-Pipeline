@@ -26,9 +26,9 @@ Die 250 mm Radstandsstrecke ist im Wesentlichen Bettlänge, und es ändert sowoh
 
 | Familie | Referenzmarkt China | Übertragung | Vertrauen |
 |---|---|---|---|
-| 2.5T Diesel (JE4D25) | Eine der wichtigsten Dieseloptionen; genaue Leistung / Drehmoment variiert je nach Modelljahr | 6MT / 6AT | SINGLE_SOURCE — Ausgänge, die hier nicht festgelegt sind|
-| 1.9T Diesel | Kleinere Dieseloption | Manuelles/Auto je Trimm | SINGLE_SOURCE |
-| 2.4T Ottokraftstoff | Benzinalternative | je Trimm | SINGLE_SOURCE |
+| 2.5T Diesel (JE4D25) | Eine der wichtigsten Dieseloptionen; genaue Leistung / Drehmoment variiert je nach Modelljahr | 6MT / 6AT | single source — Ausgänge, die hier nicht festgelegt sind|
+| 1.9T Diesel | Kleinere Dieseloption | Manuelles/Auto je Trimm | single source |
+| 2.4T Ottokraftstoff | Benzinalternative | je Trimm | single source |
 
 Da keine offizielle Spezifikation von Changan für den gleichen Trimm erfasst wurde, **nicht** druckt dieses Handbuch feste kW / N · m-Ausgänge für diese Motoren: Dies würde Single-Source-Medienzahlen als feste Daten darstellen. Passen Sie den genauen Motorcode, das Modelljahr, die Leistung und das Getriebe vor dem Vertrag mit dem offiziellen Konfigurationsblatt von Kaicene / Changan oder dem Eintrag zur MIIT-Homologation an und halten Sie Diesel- und Benzinleitungen deutlich voneinander getrennt.
 
@@ -62,7 +62,7 @@ Ein Standard 1600 mm Bett auf einem 3180 mm Radstand und ein langes / Blauwal 18
 
 **Ist es Allradantrieb? **
 
-Es ist ein Body-on-Frame-Doppel-Cab-Pickup, das sowohl in 2WD als auch in 4WD angeboten wird; Geben Sie an, welche auf der Bestellung stehen.
+Es ist ein Leiterrahmen-Doppelkabinen-Pick-up, der sowohl als 2WD als auch 4WD angeboten wird; geben Sie an, welche Variante bestellt wird.
 
 **Was sind die Motorleistungen? **
 
@@ -76,25 +76,25 @@ Diese zirkulierenden zahlen werden in dieser datei nicht verifiziert; benotigtes
 
 Der chinesische LKW ist LHD; jede RHD / Export-Build und Übersee-Namen erfordern separate OEM-Beweise und werden nicht identisch angenommen.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m510/127652_param.html | engine_variants |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
-| 中国皮卡网 | 中国皮卡网 | CHINA | T3 | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6825893006034338312/ | engines |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6753066743062594051/ | offroad |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m510/127652_param.html | engine_variants |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
+| 中国皮卡网 | 中国皮卡网 | CHINA | media/industry | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6825893006034338312/ | engines |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6753066743062594051/ | offroad |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-08
-- **Referenzmarkt**: CHINA(中国市场参考; 动力功率 / 拖拽 / 额定载质量无 OEM 同 trim 或公告来源, 保持待证不写死)
+- **Referenzmarkt**: CHINA(China-market reference; 动力功率 / 拖拽 / 额定载质量无 OEM 同 trim 或公告来源, 保持待证不写死)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Die Geometrie und Motorleistung aus einer Quelle sowie alle Zahlen für Schlepp-/Nutzlast-/GVW-Daten müssen vor der Transaktion auf dem OEM-Blatt oder dem MIIT-Homologationseintrag erneut bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

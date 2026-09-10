@@ -77,15 +77,15 @@ Um certificado reemitido por uma parte intermédia do RCEP com base na prova ori
 
 Não — as concessões são progressivamente escalonadas e diferem por parte e por linha pautal; verificar o calendário actual do destino.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 海关总署公告 2026 年第 74 号 (中国 - 马来西亚原产地电子信息联网交换, 2026-06-01) | 中华人民共和国海关总署 | NC | T1 | TIM_SENSITIVO | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网, 现行公告 — RCEP 实施 |
-| 海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用） | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则, 原产地标准, 享惠 — FTA 实践 |
-| 优惠贸易协定项下进出口货物原产地管理规定 (海关总署令第 265 号) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理, 签证机构 — 部门规章 |
-| 单一窗口原产地证书智能审核 自助打印 | 中国国际贸易单一窗口 | NC | T1 | VERIFICADO | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 |
-| RCEP 原产地证书签证规则 (累积 背对背 原产地声明, 贸促会口径) | 中国贸促会陕西省委员会 | NC | T1 | VERIFICADO | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则, 背对背证明, 经核准出口商 — 签证机构解释 |
-| Portal oficial da Parceria Económica Integral Regional (PCEC) | Secretariado do RCEP ASEAN | RCEP | T1 | VERIFICADO | https://rcepsec.org/ | origin_criteria — texto do tratado e cobertura partidária; o PSR por HS deve ser lido em anexo |
+| 海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01） | 中华人民共和国海关总署 | CN | primary | TIME_SENSITIVE | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网, 现行公告 — RCEP实施 |
+| 海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则, 原产地标准, 享惠 — FTA实践 |
+| 优惠贸易协定项下进出口货物原产地管理规定（海关总署令第265号） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理, 签证机构 — 部门规章 |
+| 单一窗口原产地证书智能审核/自助打印 | 中国国际贸易单一窗口 | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 |
+| RCEP原产地证书签证规则（累积/背对背/原产地声明，贸促会口径） | 中国贸促会陕西省委员会 | CN | primary | VERIFIED | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则, 背对背证明, 经核准出口商 — 签证机构解释 |
+| Regional Comprehensive Economic Partnership (RCEP) official portal | RCEP Secretariat / ASEAN | RCEP | primary | VERIFIED | https://rcepsec.org/ | origin_criteria — treaty text and party coverage; per-HS PSR must be read in annex |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

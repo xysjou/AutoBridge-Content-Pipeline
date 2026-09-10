@@ -24,7 +24,7 @@
 
 ## 관련 상품
 1. 외국 무역권을 취득한 후 은행에서 거래-FX 디렉토리 등록을 완료 ** 첫 번째 영수증을 제출 **.
-2. 관세, 은행 및 FX 레코드를 통한 일관된 엔티티티티 이름 및 번호를 사용합니다.
+2. 관세, 은행 및 FX 레코드를 통한 일관된 엔티 이름 및 번호를 사용합니다.
 3. 재편물 흐름과 자금 흐름은 각 기간마다; 문서와 타이밍 차이 (deposits, staged shippings)를 설명합니다.
 4. 디지털 플랫폼을 통해 파일이 필요한 경우, 인증 쿼리에 신속하게 대응합니다.
 5. 결제 거래와 VAT 환급 프로세스와 동일하게 보고됩니다.
@@ -39,18 +39,18 @@
 **지역 SAFE 지점 별도 규제 기관이 있습니까? ** No — 한 권한을; 분지는 같은 규칙을 실행.
 **이 커버 구매자의 국가 FX 규칙? ** 아니요 - 중국 측만.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理년) | 国家外汇管理局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | http://www.safe.gov.cn/yunnan/2024/0408/1537.html 대한 자세한 정보 | 取消外汇局核准, 境内银行办理名录登记,  首笔收支前登记 |
-名南(名名件) | 国家 理分分外 |: 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理 (非现场总量核查 分类管理) | 国家外汇管理局文告 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf 의 경우 | 总量核查, 货物流资金流匹配,  动态分类 |
-| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf 이동 | 数字外管平台 아스 하나 操作 |
-| 외국거래국(SAFE) | SAFE 国家外汇管理局, 오스트레일리아 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/en/ 를 통해 | trade-FX 등록 및 집계 인증 기관 |
-| 외국거래국(SAFE) | SAFE (일반) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/ 의 경우 | 거래-FX 등록 및 집계 검증을 위한 역량 |
-| 중국은행 (PBOC) — 국경 RMB 결제 프레임 워크 | 중국은행 (中国人民银行 PBOC) | 담당자: Mr. wang | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | http://www.pbc.gov.cn/ 의 경우 | SAFE 외국인 교환 등록과 같은 국경 RMB 결제 및 은행 취급을 위한 중앙은행 프레임워크 |
-| (주)아이치 무역 금융 (forfaiting/URF, L/C 정착) | 국제 상공 회의소 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://iccwbo.org/business-solutions/trade-finance/ | 국제 결제기구 (URF 824, L/C)는 수출 FX 영수증과 상호 작용 |
-| CCPIT - 무역 문서 및 결제 지원 | 중국 국제 무역 촉진위원회 (CCPIT 中国贸促会) | 담당자: Mr. wang | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.ccpit.org/ 대한 자세한 정보 | FX 영수증/verification에서 사용된 증거의 전달을 지원하는 무역 문서 |
+| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | primary | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | primary | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | primary | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
+| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | primary | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
+| People's Bank of China (PBOC) — cross-border RMB settlement framework | People's Bank of China (中国人民银行 PBOC) | CN | primary/independent | VERIFIED | http://www.pbc.gov.cn/ | Central-bank framework for cross-border RMB settlement and bank handling, distinct from SAFE foreign-exchange registration |
+| ICC Trade Finance (forfaiting/URF, L/C settlement) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | International settlement instruments (forfaiting URF 824, L/C) that interact with export FX receipt |
+| CCPIT — trade documentation and settlement support | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | Trade documentation supporting proof-of-transaction used in FX receipt/verification |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

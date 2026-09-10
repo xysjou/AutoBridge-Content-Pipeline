@@ -29,7 +29,7 @@ Setelah satu tipe disetujui, ** Setiap kendaraan mengeluarkan tanda pengenal COC
 ## Tingkat 3 - Komponen Tanda Sistem (e- mark vs E-mark)
 Operasi ini di bawah tingkat kendaraan dan sering dilarutkan:
 - *** Koper kecil persegi "e" tandai: ** terikat ke ** WVTA kerangka ** untuk setiap kendaraan EC persetujuan komponen.
-- ** UPRESE circle "E" mark: ** toIed to the ** UNECE 1958 Agreement ECE regulation ** for component system, with recognion between controlting parties.
+- **Tanda lingkaran "E" UNECE:** terikat pada **regulasi ECE di bawah UNECE 1958 Agreement** untuk sistem/komponen, dengan pengakuan timbal balik antar pihak yang menandatangani.
 Sebuah kantong komponen E-marked tidak *** sama dengan WVTA kendaraan keseluruhan, dan sebuah tanda tunggal pada satu sistem tidak menyetujui seluruh mobil. Bangun berkas komponen dalam paralel dengan - bukan alih-alih - sebarang persetujuan kendaraan.
 
 ## Bagaimana cara mengumpulkan berkas tanpa salah-kecocokan
@@ -78,23 +78,23 @@ Apa aku butuh perwakilan lokal untuk persetujuan EAEU? ** Pengaturan OTTS EAC um
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| MIIT Order No. 50 - kerangka masuk | MIIT State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | _ BERDECAT | Cina domestik konteks coc entry |
-| EU WVTA + FMVSS catatan skema (2018/858) | Tiga puluh pihak sertifikasi tubuh | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE _ SOURCE | Deskripsi WVTA / 2018/858; peran CoC (sekunder) |
-| OTTS TR CU 018/2011 expliiner | penyedia layanan terkenal- | EEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | _ BERDECAT | OTTS EAC, perwakilan yang sah (sekunder) |
-| e- mark vs E- mark expiner | penyedia layanan terkenal- | Global Uni Eropa | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE _ SOURCE | e E-mark difference (sekunder) |
-* Langit-langit bukti: EU / EAEU / UNECE instrumen digambarkan dari sertifikat sekunder-sumber layanan; tidak ada EUR-Lex / UNECE / EAEU utama teks ditangkap. Perbaikan tanggal dan lingkup harus diverifikasi terhadap teks primer sebelum penggunaan kepatuhan. Kerangka sisi Cina adalah satu-satunya bagian resmi yang didukung. ♪
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| Peraturan (EU) (konsolidated 2021-09-26) pada type- persetujuan kendaraan bermotor - WVTA; whole-kendaraan vs | EUR- Lex (Database resmi Uni Eropa) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | TERBATAI |  | 2018/858
-| Peraturan (Uni Eropa) (asli), Bab VI Pasal 36 - produsen mengeluarkan CoC untuk setiap konf kendaraan | EUR- Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | TERBATAI |  | 2018/858
-| Bab VI (CoC) resminya reproduksi | (data resmi undang-undang Inggris | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | TERBATAI |  | 2018/858
-| 1958 Perjanjian (Rev 3), E ECE TRANS 505 - kerangka untuk tipe persetujuan PBB Regulasi dari komponen sistem STU | UNECE (Perserikatan Bangsa-Bangsa) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | TERBATAI |  |
-| GRRF - 84-18 (struktur tanda angka persetujuan, E + nomor negara) | UNECE WP. 29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | TERBATAI |  |
-| Status Perjanjian 1958 dan Peraturan PBB yang dipermukaan | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | TERBATAI |  |
-| Keputusan Komisi Bea Cukai No. 877 (09.12.2011) Mengadakan Regulasi Teknis TR CU 018/2011 "Pada  | adilet.zan.kz - resmi database hukum dari M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | TERBATAI |  |
-| EEC Peraturan Dekrit Papan No. 232 (09.12.2014) untuk menyelesaikan formulir OTTS OTSH | Referensi legal Alta- Soft (T3; menghasilkan kembali EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE _ SOURCE |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

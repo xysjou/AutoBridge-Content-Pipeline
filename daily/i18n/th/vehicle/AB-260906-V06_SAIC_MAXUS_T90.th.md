@@ -80,16 +80,16 @@ Lroad 1485 mm (มาตรฐาน) หรือ 1800 mm (ยาว-ล้อ;
 
 ไม่ — เฉพาะดีเซลขายจีน; อีวี เป็นผลิตภัณฑ์ที่แยกกับชนิดที่แตกต่างกัน และกฏการส่ง
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际T90柴油 (上汽双涡轮2.2.2.2.2.0T 160kW/500NTH 、采埃孚8AT3.5t) | 汽车之家  – 车家号 พ พ พ พ พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
-| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家 – 车家号 พ.ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像). | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 (非承载   接近角 离去角) พ.ศ. | 太平洋汽车百科 | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, การ โบก มือ) — กล้อง ถ่าย รูป ส่ง ออก | ฟิล์ม สากล | ไมโครซอฟต์ | T1 | เปิดใช้งาน | https://en.saicmaxus.com/car/t90.shtml | อัตลักษณ์ — glOBAL/ Export Sport sport sport; ไม่สามารถเทียบได้กับค่าของจีน-ตลาด 星际 T90 |
-| 上汽大通 上汽大通 上汽大通 MAXUS T90 中国官方 (配置 价格 ) พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 上汽大通 ศ ศ ศ ศ 上汽大通 ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 上汽大通 上汽大通 上汽大通 上汽大通 上汽大通 | ฟิล์ม จีน | CN | T1 | เปิดใช้งาน | https://www.maxusmall.com/T90.shtml | เครื่องควบคุม เครื่องยนต์ การปรับแต่งตลาดจีน และราคาอ้างอิงภายในประเทศ |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | | CN | T1 | เ เ เ เ เ เ เ เ เ เ เ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | เ เ เ เ เ ื ่อ ่อ ่อ ่อ ่อ ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย ย น น น อ อ อ อ ต ต ต ต ต ต ต ต ต ต ต ต ต ต อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ย อ ย ย ย ○
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

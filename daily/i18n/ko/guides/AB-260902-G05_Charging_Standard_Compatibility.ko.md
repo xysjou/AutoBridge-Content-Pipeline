@@ -19,7 +19,7 @@
 
 ## 표준 지도 (DC 빠른 위탁)
 
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 특징 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |
+| 의 | 의 특징 | 의 |
 |---|---|---|
 | ** GB/T 20234.3 ** (DC) + ** GB/T 27930 ** (통신 가능) | 중국 (중국 차량) | GB/T 20234.3-2023은 상한을 ** 1500 V/800 A** (크로스 검사한 기업 근원)로 올립니다 |
 | ** CCS2 (콤보 2) ** | 유럽과 많은 수출 시장 | 결합된 AC/DC 인레트; EU에서 지배하는 |
@@ -98,18 +98,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV charging-standard compatibility GB/T CCS CHAdeMO NACS, 汽车出口采购指南
 
-## 소스 및 검증
+## Sources & Verification
 
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ChaoJi 표준 발표 (공식) | CHAdeMO 협회 (표준 신체) | CN/JP/글로벌 | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | ChaoJi는 GB/T/CHAdeMO/CCS와 호환이 되는 |
-| 충전 표준 인증 경로 | Huayu 테스트 (인증 몸) | - 연혁 | http://www.huayutest.com/zixun/87747.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | CHAdeMO/CCS 지역 배포, 인증 차이 |
-| 충전 커넥터 표준 | cehome (산업 미디어) | 담당자: Mr. wang | https://m.cehome.com/news/20260809/389612.shtml 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | GB/T 20234.3-2023 1500V/800A, GB/T 27930, 차오 지 |
-의 GSM/T, CCS2의 2, NACS의 비교된 차드모 | (산업) | - 회사정보 | https://www.evse-chargers.com/news/understanding-ev-charging-standard-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_체크 | GB/T↔ CCS2는 어댑터를 사용하도록 합니다. 의성모체
-주식회사 MARUIKEL | 대표:김승호 | 주소: | 2026-09-02 | CROSS_체크 | 국내 GB/T 대 수출형용 커넥터 | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standard-type-1-type-2-ccs-chademo-gbt.html
-| GB/T-to-CHAdeMO 접합기 B2B 가이드 | 전기 자동차 중국 (산업) | - 연혁 | https: 대 한 | 2026-09-02 | CROSS_체크 | 수출 겸용성 Bottleneck | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/
+| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional rollout, certification differences |
+| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
+| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
+| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
 
-*Confidence 참고 (AutoBridge 표준): 표준 수준의 사실은 VERIFIED CROSS_CHECKED (CHAdeMO)입니다. 협회는 표준 몸입니다). Per-model 수출 연결관, 국가 및 NACS rollout 타이밍에 의하여 접합기 적법은 붙잡지 않으며 VIN 당 확인되어야 하고 목적지 권위 당. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

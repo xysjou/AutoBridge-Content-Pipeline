@@ -19,8 +19,8 @@ Der HOWO TX ist der Mainstream-Schwerkipper (Muldenkipper) der Sinotruk China Na
 | Position | Referenzwert für den chinesischen Markt | Markt MY Trim | Vertrauen |
 |---|---|---|---|
 | Marke/Identität | HOWO (Sinotruk/CNHTC) Mainstream Heavy Dump-Truck Linie | CHINA: Offizielle Offenlegung | ÜBERPRÜFUNG |
-| Gemeinsame Layouts | Kipperkonfigurationen 8 × 4 (vierachsig) und 6 × 4 (dreiachsig) | CHINA · Single-Source, Bestätigung nach Modell | SINGLE_SOURCEN |
-| Muster 8 × 4 Antriebsstrang | Weichai WP10H400E62 ≈ 400 PS (China- 6); HW19712L 12-speed manuell; MCX16ZG Antriebsachse | CHINA · Nur ein Sample Build | SINGLE_SOURCEN |
+| Gemeinsame Layouts | Kipperkonfigurationen 8 × 4 (vierachsig) und 6 × 4 (dreiachsig) | CHINA · Single-Source, Bestätigung nach Modell | single sourceN |
+| Muster 8 × 4 Antriebsstrang | Weichai WP10H400E62 ≈ 400 PS (China- 6); HW19712L 12-speed manuell; MCX16ZG Antriebsachse | CHINA · Nur ein Sample Build | single sourceN |
 
 The WP10H400 12-speed MCX16ZG combination is **one representative 8×4 build**, Nicht der TX-Katalog. HOWO Kipper werden mit mehreren Motoren (einschließlich Sinotruks eigener MC-Serie) und Getrieben angeboten; Der Vertrag muss den genauen Antriebsstrang benennen, anstatt 'ein HOWO TX 400' zu bestellen.
 
@@ -70,15 +70,15 @@ Payload/GVW/GCW sind hier nicht festgelegt — erhalten Sie sie aus der Homologa
 
 Nicht angenommen — Export-/Regionalbauten und Steuerung benötigen separate OEM-Beweise.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | SINGLE_SOURCEN | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
-| 重汽 2025 年半年报 (豪沃 HOWO 品牌与整车产销官方披露) | 中国重汽 (深交所披露) | CHINA | T1 | ÜBERPRÜFUNG | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 产销官方披露  |
-| 中国重汽集团 (豪沃产品系列官方身份) | 经济日报 (中国重汽集团 PDF) | CHINA | T2 | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| SINOTRUK HOWO globaler Offizieller | China National Heavy Duty Truck Group (Sinotruk) | AUSFUHR | T1 | ÜBERPRÜFUNG | https://www.sinotrukchina.com/ | brand_official — OEM-Unternehmen; HOWO Markenidentität; Export baut marktscoped |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | Identität — 8x4/6x4 Chassis, Motor und GVW durch Ankündigung überprüfen |
-| 卡车之家 HOWO 车型库 (独立商用车数据库) | 卡车之家 | CN | T2 | CROSS_CHECKED | http://www.360che.com/ | Identität — unabhängige Gegenprüfung der Stichprobenkonfiguration |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

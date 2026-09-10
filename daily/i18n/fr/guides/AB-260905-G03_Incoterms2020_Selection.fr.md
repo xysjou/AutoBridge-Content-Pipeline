@@ -50,16 +50,16 @@ En vertu du CIF, le vendeur prend des dispositions pour l'assurance maritime min
 **Pourquoi le PDD est-il risqué pour un exportateur chinois?** Il rend le vendeur responsable de la dédouanement, des droits et des taxes à l'importation de destination.
 **Combien de règles Incoterms 2020?** Onze, en deux groupes transport-mode.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) | 中国贸促会广西分会 | NC | T1 | VÉRIFIER | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
-| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | NC | T1 | VÉRIFIER | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
-| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | NC | T3 | _CHECTURE | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Règles de l'Incoterms 2020 (CCI) | Chambre de commerce internationale | NC | T1 | VÉRIFIER | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | éditeur faisant autorité de Incoterms 2020 |
-| Instruments et outils d'origine de l'OMD | Organisation mondiale des douanes | NC | T1 | VÉRIFIER | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Cadre et instruments de réglementation d ' origine maintenus par l ' OMD |
-| Règles de la CCI (Propriétaire de la règle Incoterms 2020 — page dédiée) | Chambre de commerce internationale | ANNEXE | T1/T2 | VÉRIFIER | https://iccwbo.org/business-solutions/icc-rules/ | Index des règles de la CCI autorisant la confirmation Incoterms 2020 comme l'actuel terme protégé par le droit d'auteur et sa mise à jour par la CCI |
-| FIATA — Pratique des transitaires dans le cadre des Incoterms | Fédération internationale des associations de transitaires (FIATA) | ANNEXE | T1/T2 | VÉRIFIER | https://www.fiata.org/ | Interprétation du point de livraison, du transfert de risque et des obligations de transport par l'expéditeur dans le cadre d'Incoterms |
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | primary | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | primary | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/icc-rules/ | Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC |
+| FIATA — freight forwarder practice under Incoterms | International Federation of Freight Forwarders Associations (FIATA) | INT | primary/independent | VERIFIED | https://www.fiata.org/ | Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

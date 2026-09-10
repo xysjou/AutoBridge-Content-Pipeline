@@ -55,15 +55,15 @@ Para um SUV a gasolina, os controlos críticos de ordem são o estágio de emiss
 ** É o preço de exportação de 99, 900 RMB? Não — referência de lançamento nacional.
 ** Qual transmissão?** 7-speed embreagem dupla molhada (7DCT) na linha capturada.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | NC | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代 CS55PLUS 上市 | 人民网重庆 | NC | T3 | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | NC | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分 (不得混入燃油) |
-| Changan Site oficial global do automóvel | Changan Automobile 长安汽车 (OEM) | NC | T1 | VERIFICADO | https://www.globalchangan.com/ | Identidade de marca/modelo-linha e autoridade OEM |
-| Ministério da Indústria e das Tecnologias da Informação (MIIT) | MIIT 工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/ | autoridade de homologação/anunciador; confirmar o modelo, massas e código exatos por VIN/anunciador |
-| Administração do Estado para o Regulamento do Mercado (SAMR) | SARR 国家市场监督管理总局 | NC | T1 | VERIFICADO | https://www.samr.gov.cn/ | Normas nacionais, certificação e autoridade de regulação do mercado |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

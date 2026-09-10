@@ -83,17 +83,17 @@ Divulgue fatos materiais com veracidade: **versão/configuração, versão de so
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC Civil Code Art 596 sales-contract terms | FindLaw (portal legal) | NC | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (artigo citado através de um portal jurídico secundário; não uma fonte oficial do NPC) | Conteúdo essencial do contrato |
-| Modelo de contrato de venda de veículos de exportação (risco/retenção de títulos) | legais | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferência de risco; retenção do título; divulgação da condição | 110ask
-| Cláusulas principais de compra-contrato (lista de violação/título/configuração) | 66Law | NC | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, janela de reivindicação, anexo de configuração |
-| Contrato de exportação Incoterms/disputas/Apostille | Material para transporte de mercadorias | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | FONTE ÚNICA | Incoterms versioning, arbitragem ICC, Apostille |
-* Nota de escopo: O conteúdo do artigo 596 é CRUSS_ VERIFIED requer o texto oficial do Código Civil da RPC (PCN/governo), que não foi capturado; não rotule VERIFIED. A aplicabilidade da reserva de título, arbitragem e Apostolise depende da lei e destino de governo escolhido, e deve ser confirmada por um advogado qualificado. Os modelos de contrato são apenas referências estruturais. *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Procurador Supremo das Pessoas) — fórmico | NC | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFICADO |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFICADO |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

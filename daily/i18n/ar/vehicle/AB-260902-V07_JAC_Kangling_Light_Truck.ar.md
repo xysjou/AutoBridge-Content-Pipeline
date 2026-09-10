@@ -48,7 +48,7 @@
 - Gearbox**: تأكد من أن 6 - كتيب سريع ضد السرعة 8 يستخدم على بعض المتغيرات، ولا يفترض وجود آلي لخط السلطة المختار.
 - ألف - المحور والنسبة**: choose 4 T vs 5 T rear axle and 4.875 vs 4.33 final drive against route grade and loaded GVW; ويؤكد الجدول الرسمي أن الخيارين هما في المصنع.
 - ** مكابح هوائية مع موقف سيارات الربيع  and  7.00R16LT 8PR × 6 على المبنى المأسور - يؤكد توافر الإطارات  and  معايير خدمة الفرامل في المقصد
-## GVW, Body and Superstructure (the core of a light-truck buy)
+## GVW والجسم والبنية الفوقية (جوهر شراء الشاحنة الخفيفة)
 حوالي 4.5 t GVW The L6 sits في الصين الكلاسيكية صف شاحنة خفيفة من أجل أمر تصدير التوفيق بين أربعة أرقام تجمع الأعمال الورقية الصينية: ? الحمولة المقومة GVW والمقصد الحمولة** بعد تركيب الجسم المحلي. يسقط رأساً على عقب vs stake vs reefer, قياس أبعاد الجسم الداخلي والمواد، and state whether the البنية الخارقة مجهزة بالمصنع أو مدرب محلي ثلاجة أو معزولة المركّب مادياً الوزن والقطع الصافي الحمولة - انظر Foton Aumark reefer page لكيفية الفوضى الصندوق ووحدة التبريد حُدد كل على حدة.
 ## ما يضيفه (أوتومبريدج) إلى ما بعد المظلات
 وتدرج مواقع البارامترات العامة تشكيلة واحدة في كل مرة، ونادرا ما تكشف أن الأرقام تنتمي إلى نماذج إعلانات مختلفة*. ويوصي إطارنا التحريري بما يلي: (1) رسم خريطة للشاحنة المقتبسة إلى نموذج إعلانها **MMIIT و بالضبط HFC4DE3 صوفيا**، لذلك لا يُعامل علامة "160 hp" بهدوء على أنها بناءة تبلغ 150 hp؛ (2) preparing a **VIN/announcement/engine-suffix consistency note** before deposit; and (3) re-computing payload for the *actual* body being shipped rather than reusing a dropside figure. That version-identification step is what prevents the most common L6 order error.
@@ -93,19 +93,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
   - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Lingpao L6 من جدول التشكيل الرسمي | مركبة تجارية تابعة للجنة اليابانية المشتركة (JAC 江淮 1 卡، ** عامل تصنيع**) | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | ** مصدق عليه** | Cab 1920, WB 3365, frame 180 × 65 × 4.5, axles 2T/4–5T, ratios, HFC4DE3 power/torque steps, full power-family list |
-| L6 HFC5043XY… box/announcement parameters | (卡车之家، دي بي) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | صرخات | أسرة نموذجية، جيار، وزن الجسم | 360che
-| L6 معيار تمثيلي للتسرب | (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | صرخات | HFC1043P21K4C7S بعد، وزن، أكاسيد، جسم، إطارات | 360che
-| L6 Fast-8 variant line | (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | SINGLE OURCE | كبديل 8-speed جهاز تروس، إنتشار متغير | 360che
-* Confidence per the AutoBridge standard: VERIFIED requires a manufacturer/government/standards body; JAC 's own table meets that bar for platform facts. والوزنات المفصَّلة لكل إعلان من 360che هي CROSS-CHECKED ضد أسرة JAC ولكن لا يزال يتعين مطابقتها مع الشهادة المحددة. ولا يُذكر أي سعر؛ وأسعار القائمة المحلية حساسة من حيث الوقت ولا تستخدم أبدا كرقم تصديري. ♪
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
+| Lingpao L6 official configuration table | JAC Commercial Vehicle (JAC 江淮1卡, **manufacturer official**) | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | **VERIFIED** | Cab 1920, WB 3365, frame 180×65×4.5, axles 2T/4–5T, ratios, HFC4DE3 power/torque steps, full power-family list |
+| L6 HFC5043XY… box/announcement parameters | 360che (卡车之家, commercial DB) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | CROSS_CHECKED | Announcement model family, engine/gearbox, body weights |
+| L6 representative dropside parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensions, weights, axles, body, tyres |
+| L6 Fast-8 / variant line | 360che (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | single source | Alternative 8-speed gearbox, variant spread |
+*Confidence per the AutoBridge standard: VERIFIED requires a manufacturer/government/standards body; JAC's own table meets that bar for platform facts. Detailed per-announcement weights from 360che are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. No price is stated; domestic list price is time-sensitive and never used as an export figure.*
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
 ## استعراض التحرير
 - الجهة التي ستعرضها صاحب البلاغ**: [فريق تحرير الصادرات في أوتو بريدج] (/أو محررين/) - أسلوب تحريري لكل [سياستنا الانتخابية] (/سياسة التحرير/)

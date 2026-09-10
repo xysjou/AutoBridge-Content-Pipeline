@@ -45,7 +45,7 @@
 
 ## حدود هذا الدليل
 - لا توجد نسبة مئوية ثابتة أو حد للكميات دون أساس رسمي.
-- No reuse of UN3171 for lithium vehicles under the current Code.
+- عدم إعادة استخدام UN3171 لمركبات الليثيوم وفق المدونة السارية.
 - وتُعد متطلبات النقل الأكثر صرامة خاصة بشركات النقل الخاصة برحلات محددة.
 
 ## الأسئلة المتكررة
@@ -80,16 +80,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| تعديل قانون إدارة الشؤون الإدارية 42-24 النص الصيني الرسمي PDF | إدارة السلامة البحرية الصينية | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 42-24، MSC. 556 (108) 2026-01-01, and UN3556-3558, and P912, and 9 |
-| دليل الأمم المتحدة للاختبارات والمعايير (التنقيح 8 + التعديل 1) الفرع 38.3 (SCETDG- 66 INF. (30) | UNECE UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04. diverse)XIVSTORST) 8+Amd.1, UN38.3 T.1-T.8, optim-
-. UN/SCETDG- 64 INF. 29 lithium-battery identification 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 38.3 تعديل |
-| US 49 CFR § 173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | الولايات المتحدة الأمريكية | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | مثقفة)بالمرتبة الأولى( | UN3480/3481، المرجع القانوني UN38.3 |
-| الترجمة الشفوية IMDG 42-24 (MSC. 556 (108) ، تاريخ النفاذ) | البحرية (المؤقتة) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | صرخات (الدعم) | التفسير المستكمل |
-| UN3556 SP405 من الترجمة الشفوية | أخبار جيوبي (النشرة) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE -SOURCE (supporting) | SP405 علامة |
-* ملاحظة توضيحية: التصنيف الأساسي الذي يستند إلى نظام تقييم الأداء (42-24 IMDG) ودائرة الأمم المتحدة الاقتصادية لأوروبا (التنقيح مانويل 8+Amd.1 و49 CFR) المصادر الرئيسية؛ ولا تدعم صفحات وسائط الإعلام/الصناعات إلا، وهي ليست الدليل الرئيسي لأرقام الأمم المتحدة أو UN38.3. لا تزال القيم الثابتة SOC مقيدة. ♪
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

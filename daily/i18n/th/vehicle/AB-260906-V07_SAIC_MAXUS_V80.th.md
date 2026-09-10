@@ -58,7 +58,7 @@ Sintu ('New Triet') V80 เป็นรถแวนขนาดใหญ่ข�
 
 ** มีความยาวร่างกายเท่าไร? ~**
 
-Roughly 4950/5490/5700 mm with 3100/3640/3850 mm wheelbases by version (single-source matrix to confirm).
+ความยาวโดยประมาณ 4950/5490/5700 mm พร้อมระยะฐานล้อ 3100/3640/3850 mm แยกตามรุ่น (ตารางจากแหล่งเดียว ต้องยืนยันอีกครั้ง)
 
 ~ อะไรคือภาระของมัน? ~
 
@@ -68,15 +68,15 @@ GVW ไม่ได้อ้างถึงที่นี่ — พวกม�
 
 ประเทศจีน-มาร์เก็ต V80 คือ LHD; โครงสร้าง RHD หรือ การส่งออก ต้องการหลักฐานแยก OEM
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | จีน | T2 | ROOS_ CHCKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T 动力 座位 座位 尺寸 (พ.ศ.  |
-| V80 厢式 客车版本与尺寸 | 新浪汽车车型库 | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| ฟิล์ม บริษัทอย่างเป็นทางการทั่วโลก | ฟิล์ม สากล | ไมโครซอฟต์ | T1 | เปิดใช้งาน | https://en.saicmaxus.com/ | เอกลักษณ์ — โอ อี เอ็ม ทั่ว โลก; การ ส่ง ออก V80 สร้าง ความ แตก ต่าง จาก จีน 新途 V80 |
-| 上汽大通 MAXUS 中国官方 | ฟิล์ม จีน | CN | T1 | เปิดใช้งาน | https://www.maxusmall.com/ | เอกลักษณ์ — เส้น ทาง การ ค้า ขาย จีน |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 中华人民共和国工业和信息化部 CN | T1   เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ | | | | | | | | | | | | | | | | ป ป ป | | | แ แ | | | | | | | | แ | แ แ | | | | แ แ | | | | | | | | | | | | | | | | | | | | | | | ด  —  — | | | | | | | | | | ด ด | | |  —  —  —  —  —  — | | | | | | | | | | | | | | | | | ○
+| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
+| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
+| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

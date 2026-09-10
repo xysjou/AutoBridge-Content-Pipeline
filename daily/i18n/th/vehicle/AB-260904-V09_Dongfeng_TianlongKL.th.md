@@ -74,25 +74,25 @@
 -~PT~: เร เฟ รน เซีย ออ โต เบรก า พา เร โดร รา โดเรส เด เอ สกา ซา นา — ดง เฟ็ง ลัง เค ล, วี กลี คู โร เม อร์ กา โด เชียง เซ โร (เม อร์ คา โด เทน เซ) คา วาโล เม เซ โน เป ซา โด
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
-- ~วูฟ~: Tai liphu thamkhho Auto Bridge jo ng i i i i i a a a a a a a h h h h h h h h h ầ đ đ đ đ đ đ đ đ đ đ đ đ đ đ o o o o o o o o o o o o o o o o o ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ơ
+- ~วูฟ~: Tai liphu thamkhho Auto Bridge jo ng i i i i i a h ầ đ đ đ đ đ đ đ đ đ đ đ đ đ đ o ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ầ ơ
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
 - ~-~~: รีฟเฟนซี ออโตไบร์ริดจ์ อุมเบก เปมเบลี เอคสปอร์ — ดงฟง ตอง ลัง เค แอล, เคนเดรัน เมซาริน เปมบากะราน (Pasar Tiongkok) Truk Trak Brarat
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| เทียนลอง KL465 คุณภาพการใช้พลังงานแบบยาว | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | ROOS_ CHCKED | DDi11, 14-speed |
-| พารามิเตอร์ของ KL 465 MET | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ตัวเลือก AMT, แถบปรับเสียง |
-| Tianong KL 465 Chasis & เกียร์ | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | ROOS_ CHCKED | DT1422, GVWR, out, GCW |
-| ดงเฟ็งไทอันลอง (ตรวจสอบเมื่อไซโคลนพีเดีย) | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | Champ-basis Check cross |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* continuation ข้อสังเกต: ไม่มีโบรชัวร์หลักโออีเอ็ม; การซื้อขายการตรวจสอบ พลังงานและก๊าซรุ่นอื่น ๆ ที่ตัดออก อ้างอิงตลาดจีน ยืนยันในประกาศของ MIT *
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

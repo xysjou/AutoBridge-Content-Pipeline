@@ -34,7 +34,7 @@ PVoCは輸出国で適用される適合保証プログラムです:任命され
 
 KRAは、モータ車両輸入が単一の輸入義務ではなく、HS分類により異なるスタックに含まれていると述べています。輸入関税プラスの有利、VAT、輸入宣言料、および鉄道開発リービーは、所定の料金で、すべての支払いがリリース前に行われます。 KRAは、取引価格を上回ることができる独自の評価フレームワーク(中古車向け現在の小売販売価格データベース)を使用して、車両を値します。 認可された通関業者は、該当するCoC / ISM、請求書、その他の輸入文書によってサポートされている宣言をファイルします。
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? このページは、固定義務、有利、VAT、IDF、RDLの比率、CRSPの公式はありません。 これらはKRAによって変更され、エンジンクラス、年齢、HSコードに依存しています。 輸入者は、KRAの現在の公開率と特定のユニットの評価を使用する必要があります。
+ このページは、固定義務、有利、VAT、IDF、RDLの比率、CRSPの公式はありません。 これらはKRAによって変更され、エンジンクラス、年齢、HSコードに依存しています。 輸入者は、KRAの現在の公開率と特定のユニットの評価を使用する必要があります。
 
 ## 車両年齢規則が転がり、現在のKRA文を読みます
 
@@ -83,19 +83,19 @@ PVoCはKEBS任命された代理店によって輸出国で行われる前輸出
 
 ライセンスのケニアの清算代理店は、通常、レコードの輸入業者の通関手続きを手配します。輸出業者は文書とCoCに準拠しています。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| KEBS 官网 (进口须符合肯尼亚标准、装船前符合性验证 PVOC 与进口标准化标志 ISM 等制度存在性) | ケニア規格局 | ケケ | T1 | 検証済み | https://www.kebs.org/ | VOC、进口标准化标志、标准符合性、肯尼亚标准与合格评定 |
-| KRA 官网 (海关税收征管机构身份;具体进口税页未取到稳定子页) | ケニアの収入権限 | ケケ | T1 | 検証済み | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 の |
-| KRA 对二手机动车启用新 CRSP 现行零售价表 (2025-07-01、T4 仅线索、须 KRA 官方核) | 顺企网 (T4) | ケケ | T4 | 免責事項 | https://m.11467.com/product/d40233025.htm | クループ 估值线索  |
-| ' 肯尼亚只进口车龄 8 年内二手车 ' (人民网/头条媒体口径、非 KEBS/KRA 一手) | 今日头条 (媒体镜像) | ケケ | T3 | 免責事項 | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
-特定商取引法に基づく表記| ケケケケ|T1| 受託申請受付|https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — デューティコンポーネント によって . 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、
-| モーター車の輸入のためのプロシージャ | ケニアの収入権限 | ケケ | T1 | タイム _ センシブ | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — インポート手順と税務カテゴリ; 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。 業務を遂行する。
-| PVoC Programme Operations Manual v14 (9 Nov 2025) | ケニア規格局 | ケケ | T1 | 検証済み | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — モーター車 / モバイル機器 PVoC および指定の点検代理店 |
-| 輸入の標準化 マークガイドライン | ケニア規格局 | ケケ | T1 | 検証済み | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — PVoC ライセンス / 規制のインポートの  ISM  発行 |
-| 太陽光発電 プログラム操作マニュアル(InfoTrade ケニアポータル) | 情報貿易 ケニア(政府貿易ポータル) | ケケ | T1 | CROSS | CHECKED(クロス) | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — KS 規格に基づく中古車の評価 現在のバージョンを確認する | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | kebs | ke kebs | kebs | kebs | kebs | kebs | ke ke ke ke 時計 | 時計 | 時計 | 時計 | 時計 | 時計 | 時計 | 時計 | 時計 | 
-| ケニア貿易ネットワーク庁(KenTrade)公式 | ケニヤ貿易ネットワーク機構 | ケケ | T1 | CROSS_CHECKED(クロス) | https://www.kentrade.go.ke/ | kebs_qis — 全国のシングルウィンドウ取引の促進ボディ |
+| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
+| KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页） | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
+| KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，仅线索，须KRA官方核） | 顺企网(directory/listing) | KE | directory/listing | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP估值线索 |
+| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | media/industry | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
+| Motor Vehicle Importation (knowledge base) | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — duty components vary by HS; taxes time-sensitive, confirm current rates |
+| Procedures for Motor Vehicle Importation | Kenya Revenue Authority | KE | primary | TIME_SENSITIVE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| PVoC Programme Operations Manual v14 (9 Nov 2025) | Kenya Bureau of Standards | KE | primary | VERIFIED | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — motor vehicle/mobile equipment PVoC and appointed inspection agents |
+| Import Standardization Mark Guidelines | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — ISM issuance for PVoC-licensed/regulated imports |
+| PVoC Programme Operations Manual (InfoTrade Kenya portal) | InfoTrade Kenya (government trade portal) | KE | primary | CROSS_CHECKED | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — used vehicles assessed under KS standards; confirm current version |
+| Kenya Trade Network Agency (KenTrade) official | Kenya Trade Network Agency | KE | primary | CROSS_CHECKED | https://www.kentrade.go.ke/ | kebs_qis — national single-window trade facilitation body |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

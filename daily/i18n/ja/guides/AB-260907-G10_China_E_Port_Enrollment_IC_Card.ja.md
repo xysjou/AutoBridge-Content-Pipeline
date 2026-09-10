@@ -78,15 +78,15 @@ One legal-person card in principle; 複数のオペレータカードが許可�
 
 電子ポートカード発行システムとそのローカルサービスポイントを通して、材料、アウトレット、タイムライン、手数料は現在の公式ガイダンスに従い、この記事では固定されていません。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 电子口岸接入指引(注册即入网、业务说明) | 中国电子口岸数据中心 | CN | T1 | VERIFIED | https://www.chinaport.gov.cn/pages/service/service.html?service=423 | 接入指引、注册即入网 | 税制・税制・税制・税制・税制・税制・税制・税制・税制・サービス料・税・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料・サービス料
-| 法人卡 | 操作员卡数量与授权规则问答 | 中国电子口岸数据中心 |  CN  | T1 |  VERIFIED  | https://www.chinaport.gov.cn/pages/customer/problem-detail.html?id=16150 | 法人卡 | 操作员卡 | 数量规则 | 紀元前 | 分子量
-| 新入网制发卡办理路径(海关分署指引) | 海关总署广东分署 | CN | T1 | VERIFIED | http://gdfs.customs.gov.cn/nanjing_customs/2024-05/24/article_2026070902403998036.html | 新入网、 制发卡、 办理路径 | 紀伊國市
-| 电子口岸入网问答 | 中华人民共和国海关总署 |  CN  | T1 |  VERIFIED  | http://www.customs.gov.cn/eportal/ui?msgDataId=9ba4182feb9f410e94cd77b5cdc7e405&pageId=374112 | 入网问答 |
-| 市场监管总局 (五部门 164 号联合发文单位之一) | 国家市场监督管理总局(SAMR) | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | 市场主体登记 |
-| 中国国际贸易单一窗口 (入网后业务主通道) | 中国国际贸易单一窗口 | CN | T1 | VERIFIED | https://www.singlewindow.cn/ | 单一窗口业务通道 |
+| 电子口岸接入指引（注册即入网、业务说明） | 中国电子口岸数据中心 | CN | primary | VERIFIED | https://www.chinaport.gov.cn/pages/service/service.html?service=423 | 接入指引, 注册即入网 |
+| 法人卡/操作员卡数量与授权规则问答 | 中国电子口岸数据中心 | CN | primary | VERIFIED | https://www.chinaport.gov.cn/pages/customer/problem-detail.html?id=16150 | 法人卡, 操作员卡, 数量规则 |
+| 新入网制发卡办理路径（海关分署指引） | 海关总署广东分署 | CN | primary | VERIFIED | http://gdfs.customs.gov.cn/nanjing_customs/2024-05/24/article_2026070902403998036.html | 新入网, 制发卡, 办理路径 |
+| 电子口岸入网问答 | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?msgDataId=9ba4182feb9f410e94cd77b5cdc7e405&pageId=374112 | 入网问答 |
+| 市场监管总局（五部门164号联合发文单位之一） | 国家市场监督管理总局(SAMR) | CN | primary | VERIFIED | https://www.samr.gov.cn/ | 市场主体登记 |
+| 中国国际贸易单一窗口（入网后业务主通道） | 中国国际贸易单一窗口 | CN | primary | VERIFIED | https://www.singlewindow.cn/ | 单一窗口业务通道 |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

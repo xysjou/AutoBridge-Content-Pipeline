@@ -33,7 +33,7 @@
 与上述成本点不同,中国出口管制方面现在主要文件(VRIFIED)中已经定位:
 - **MOFCOM总行关于2026汽车/摩托车出口许可证申请的通知(商办贸函 ][2025]408 号,28 Sep 2025)** 设置在线申请系统(ecomp.licence.org.cn),地方商业初步审查及已公布的合格企业名单.
 - ** 金融、商业和货币部、MIIT、GAC和SAMR的第54(2025)号联合通知** 自2026年1月起,**纯电动客车(参考HS 8703801090)被置于出口许可证制度之下。 ** 报告迟交是因为需要更新。
-- The **2026 list of enterprises qualified to apply for vehicle export licences** was published on 30 Dec 2025.
+- **2026年具备申请汽车出口资质的企业名单**已于2025年12月30日公布。
 操作上,这意味着您的中国对手必须能够为准确的型号显示:有效的出口资格 当前清单上的某个地方,品牌授权,以及电池运输文件(例如UN38.3). 见授权链方法供应商审查指南。
 ## 遵守摘要之后自动包件添加什么
 通用指南引用相同的缩略语而不解决交易. 我们的编辑采购框架建议:(一) 核对符合规定者、记录和发票方海关进口商的单页核对;(二) 在PI签署之前,就每个VIN确定OTTC-或SBKTS, (三) 根据当年MOFCOM许可证清单和2026纯EV旅客许可证规则对中国出口商进行检查——最经常是货物不匹配的点(记录进口商;无许可证的EV出口商)。
@@ -81,16 +81,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| TR CU 018/2011综合条例(索引;海关联盟委员会第877号决定,09.12.2011通过) | 欧亚经济联盟法律登记册(**监管官员**) | 欧欧联 | https://regulation.eaeunion.org/ (搜索 " ТР 018/2011 " 第877号决定) | 2026-09-03 | ** 已执行** | 管制范围(L/M/N/O)、通过决定、生效日期、电子逆向拍卖-全球轨道导航系统框架 |
-| 第877号决定+TR CU 018/2011号决定——直接合并全文(经2026年修订) | GARANT法律数据库(官方决定的直接可审查文件页) | | https://base.garant.ru/483421115/ 维基月球 | 2026-09-03 | 横跨 | 直接的,  article-by-article text of Decision 877 TR CU 018 incl. OTTC 表格附件和修正案 |
-| 2026汽车/摩托车出口许可证申请通知(商办贸函 ][2025] 408 号) | 财政部(**政府官员**) | 氯化萘 | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html 维基月球 | 2026-09-03 | ** 已执行** | 2026 |
-| 纯EV型旅客出口许可证(公告号:54,2025;从2026-01-01,HS 8703801090) | 财政部/MIIT/GAC/SAMR(**政府官员**) | 氯化萘 | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html 维基月球 | 2026-09-03 | ** 已执行** | 2026 出口许可证制度和统一制度参考 |
-| 2026 出口许可证企业合格名单. | MOFCOM 外贸司(**政府官员**) | 氯化萘 | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html 维基月球 | 2026-09-03 | ** 已执行** | 本年度合格企业名单. |
-| EV通关/SBKTS/EPTS进程(背景) | 俄语行业(BATTKA、FindCert;媒体) | 卢比 | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ 维基月球 | 2026-09-03 | 资源 | OTC/SBKTS/EPTS 流程背景;未采用值数(冲突) |
-* 说明: the regulatory backbone (TR CU 018 Decision 877)  and  中国2026出口许可证规则来自监管/政府来源。 具体的电子交易税税率、增值税/使用费号码、个人进口ERA-GLONASS恢复日期和任何不过境规则没有得到一个被捕获的FTS/EEC主要来源的支持,即媒体之间的冲突,被故意留作核查项目,而不是被说成是事实。 * 报告迟交是因为需要翻译。
+| TR CU 018/2011 consolidated regulation (index; adopted by Customs Union Commission Decision No. 877, 09.12.2011) | Eurasian Economic Union legal register (**regulator official**) | EAEU | https://regulation.eaeunion.org/ (search "ТР ТС 018/2011" / Decision 877) | 2026-09-03 | **VERIFIED** | Regulation scope (L/M/N/O), adoption decision, in-force date, ERA-GLONASS framework |
+| Decision No. 877 + TR CU 018/2011 — direct consolidated full text (amended through 2026) | GARANT legal database (direct reviewable document page of the official decision) | EAEU/RU | https://base.garant.ru/483421115/ | 2026-09-03 | CROSS_CHECKED | Direct, article-by-article text of Decision 877 / TR CU 018 incl. OTTC form annexes and amendments |
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | 2026 application system/process, local review, qualified list |
+| Pure-EV passenger export licensing (Announcement No. 54, 2025; from 2026-01-01, HS 8703801090) | MOFCOM / MIIT / GAC / SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 EV export-licence regime and HS reference |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified-enterprise list |
+| EV customs clearance / SBKTS / EPTS process (background) | Russian-language industry outlets (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | single source | OTTC/SBKTS/EPTS process background; duty figures NOT adopted (conflict) |
+*Confidence note: the regulatory backbone (TR CU 018 / Decision 877) and the China 2026 export-licence rule are VERIFIED from regulator/government sources. Specific EV duty percentages, VAT/utilisation-fee numbers, personal-import ERA-GLONASS reinstatement dates and any no-transit rule were NOT supported by a captured FTS/EEC primary source, conflict across media, and are deliberately left as verification items rather than stated as fact.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

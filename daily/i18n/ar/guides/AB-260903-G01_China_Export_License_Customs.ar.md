@@ -22,11 +22,11 @@
 - ** مركبات جديدة دراجة نارية جديدة تداولت عن طريق الملفات السنوية ** التي تقدم كل سنة عن التصدير**، والتي يرد وصفها في وقت لاحق.
 يجب تأكيد رمز السلعة الدقيق وحالته التنظيمية ضد تعريف التصدير الحالي للواردات وآخر إعلان لـ (موفوك) لا يعيد استخدام افتراض العام الماضي
 
-## Step 2 — The Annual Licence Filing (qualification before volume)
+## الخطوة 2 — تقديم الترخيص السنوي (الأهلية قبل الحجم)
 وتصدر اللجنة مذكرة سنوية ** تُنظم تطبيقات تصدير السيارات والدراجات النارية**.: يجب على المركبات تحميل أدلة أداء مثل الإعلانات الجمركية التصديرية وفواتير الشراء التالفة**. الآثار العملية بالنسبة لتاجر: التأهل غير فوري - مواءمة نافذة الملفات السنوية مع خطتك للنقل البحري، والحفاظ على الأوراق لأنها دليل على الأداء الحقيقي للصادرات.
 
 ## الخطوة 3 - قاعدة استخدام القارب 180-Day (صعبة، مطلب مؤرخ)أ(
-بعد إشعار بأربعة أعلام عن تعزيز إدارة تصدير السيارات المستعملة ** من 1 يناير 2026، حيث تم تسجيل مركبة في التصدير قبل أكثر من 180 يوم، يجب على مقدم الطلب أن يكمل تأكيد دائرة الصيانة بعد انتهاء الخدمة التابعة لمنظمة أو إم. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+بعد إشعار بأربعة أعلام عن تعزيز إدارة تصدير السيارات المستعملة ** من 1 يناير 2026، حيث تم تسجيل مركبة في التصدير قبل أكثر من 180 يوم، يجب على مقدم الطلب أن يكمل تأكيد دائرة الصيانة بعد انتهاء الخدمة التابعة لمنظمة أو إم. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 - وهذا هو جانب الصين، وهو شرط مؤرخ - اقتبس منه التاريخ، وأعاد التحقق من الإشعار قبل الاعتماد عليه.
 - يجب أن تكون معلومات الترخيص متسقة مع شهادة تسجيل السيارة؛ إصدارات غير دقيقة
 
@@ -47,7 +47,7 @@
 ## ما يوصي به هذا الدليل لك التحقق قبل الحجز
 - نظام التسلية والرمز الحالي HS** للسيارة بالضبط (BEV/ used conventional special).
 - ** حالة تقديم الإقرارات السنوية**، وإثباتات بالنسبة للارتفاعات.
-- بالنسبة للوحدات التي تستخدم حديثاً، فإن " تأكيد " أو " بعد البيع "** قبل التطبيق هو " 180-day أوم أوم أوم ".
+- بالنسبة للوحدات التي تستخدم حديثاً، فإن " تأكيد " أو " بعد البيع "** قبل التطبيق هو " 180-day أوم ".
 - ** تمرُّر للاتساق عبر الوثائق** (القيمة، القيمة، الخدمة الميدانية، الأطراف) قبل الإعلان.
 - ** وثائق البطاريات الإلكترونية** في وقت مبكر، منذ UN38.3/MSDS مرة حجز البوابة.
 
@@ -84,17 +84,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 دراجة نارية الإشعار بإثبات الترخيص بالتصدير | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | مفقود | تقديم التقارير السنوية؛ أدلة الأداء المستوفية للفوائد |
-| إشعار بشأن مواصلة تعزيز إدارة الصادرات من البلدان المستعملـة | مكتبة سياسات مجلس الدولة (أربع وزارات) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | مفقود | نظام تراخيص السيارات المستعملة؛ 180-day قاعدة من 2026-01-01 |
-| إدارة تصدير المركبات | National Business Daily Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | الوقت - | مسار ترخيص المركبات، المرجع HS |
-| أمر "ميت" رقم 50 - Manufacturer ' Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | مفقود | ست فئات قبول؛ على أساس سلسلة الوثائق |
-* ملاحظة: المصادر الرسمية هنا تغطي الجانب الصيني من الصادرات فقط. ويجب التأكد من الرموز رقم HS وتفاصيل تنفيذ النظام وأي تنقيح سنوي مقابل التعريفة الجمركية الحالية ورقم MOFCOM إشعارات؛ وقواعد الوجهة خارج النطاق. ♪
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
+*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理، 对纯电动乘用车实施出口许可证管理، 施行 2026-01-01، 参考 HS 8703801090) | إعلان رسمي لوزارة التجارة | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | مفقود |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | وزارة التجارة الخارجية | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | مفقود |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

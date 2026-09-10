@@ -25,25 +25,25 @@
 - **Peak 충전 전력은 안정적으로 캡처되지 않으며 명시되지 않습니다. 의 모든 것
 
 ## 인증 사양 표 (중국 시장 참조)
-| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
+| 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
 | 길이 폭 고도 | 4135 1805 1570 (스타 限定版车长 4155) | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 搜狐双页 |
 | 휠베이스 | 2650 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 搜狐 + 腾讯 · |
-| 의 특징 | 5门5座 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 의 특징 | 后置后驱 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 腾讯新闻 |
-| 모터 힘 선택권 | 58 85 | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐汽车 |
-| 배터리 유형 | 磷酸铁锂 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐汽车 |
-| battery capacity 410 | 40.16 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐汽车 |
+| 의 특징 | 5门5座 | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 의 특징 | 后置后驱 | - - - | 담당자: Mr. Li | single source(싱글) | 腾讯新闻 |
+| 모터 힘 선택권 | 58 85 | 램 | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
+| 배터리 유형 | 磷酸铁锂 | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
+| battery capacity 410 | 40.16 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
 | 범위 cltc | 310 410 | km | 담당자: Mr. Li | CROSS_체크 | 搜狐 + 腾讯 · |
-| 화물량 | 375 (前备厢 70, 后排放倒 1320) | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | GEA 纯电架构의 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 腾讯新闻 |
+| 화물량 | 375 (前备厢 70, 后排放倒 1320) | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 의 | GEA 纯电架构의 | - - - | 담당자: Mr. Li | single source(싱글) | 腾讯新闻 |
 
 ## 소형 EV 수출 논리: 건전지 선, 주기 및 선박
 의 도시 EV는 두 개의 모터 배터리 라인에 대한 하나의 범위 번호를 사용하여 자주 잘못 인용됩니다. Xingyuan에서, 각 순서에 그것의 어울리는 건전지 및 CLTC 범위와 모터 (58 또는 85 kW)를 쌍하고, CLTC를 재 상표를 붙이기 보다는 오히려 목적지 시험 주기로 변환하십시오. 리튬 이온 배터리 EV로, 해상화물은 배터리 전원 차량 (UN3556 intact 차량)의 현재 IMDG 분류를 따르며, 선박 가이드를 참조하십시오. 배터리 공급 업체 및 피크 충전 전력은 OEM 데이터를 확립하지 못했습니다.
 
 ## 결제 전 해외 구매자 검증
 1. 배터리 및 CLTC 범위에 매치 모터 옵션; VIN 빌드 라인을 얻을.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. CLTC 310/410 km를 목적지 주행 사이클 값으로 환산한다.
 3. 충전 커넥터 protocol 및 AC DC 기능을 확인하십시오 (여기에 캡처되지 않는 DC를 말하십시오).
 4. EV 균질화, 배터리 문서 및 UN38.3/IMDG 운송 서류를 전달하십시오.
 5. 현재 수출 인용을 요구하십시오; 수출 가격은 간행되지 않습니다.
@@ -55,15 +55,15 @@
 ** 410 km WLTP가 있습니까? ** CLTC 없음.
 **선은 어떻게 되나요?** 현재 IMDG 클래스 (UN3556); 아래 intact 리튬 이온 배터리 EV는 캐리어로 확인합니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 경우 | 尺寸, 电机, 电池,  续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.auto.sohu.com/model_7477/config 경우 | 尺寸, 轴距,  储物 |
-| 星愿 上市报道 | 腾讯新闻 | 담당자: Mr. wang | T3 | CROSS_체크 | http://news.qq.com/rain/a/20260329A04ZLQ00 을 | 续航版本,  架构 |
-| Geely 공식 글로벌 사이트 | 글리 자동차 그룹 吉利 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/ | 선 ID와 OEM 권위 |
-| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/ 를 | 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
-| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

@@ -76,15 +76,15 @@ Starrayは、輸出市場ネームプレートです。 地域Starray仕様は�
 
 RHD なし 中国の市場バージョンは、ここに実証されています。 RHD 宛先ごとに確認します。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越 L 参数 （ 4730 × 1910 × 1710 、 轴距 2785 ； 1.5T 133kW / 290N·m ； 2.0T 160kW / 325N·m ； 7DCT ； 92 号 ） | 搜狐汽车车型库 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://db.auto.sohu.com/model_6881/config | 尺寸 、 动力 、 变速箱 、 燃油标号 |
-| 2025 款博越 L 尺寸 / 轴距 / 后备厢 (4730/1910/1710 、 WB2785 、 后备厢 650-1610L) | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸 、 后备厢 |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | 日 時 分 | T3 | シングル_ソース | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力、变速箱  |
-| ゲリー の新しいボーイルの指定のテーブル (OEM) | ジーリー・オート・グローバル |  CN/EXPORT  (エキポート) | T1 | 検証済み | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | アイデンティティ |  OEM  の 仕様 のテーブル 市場ビルドを確認します |
-| ゲリー・スターレイ パンフレット (カタール) | 輸出市場参照 | ジーリー・カタール | エクスポーター | T1 |  CROSS | CHECKED (クロス) | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | アイデンティティ — 星線 は名前プレートをエクスポートします 。 中国 少年 L にエクスポート番号を同等にしないでください 。 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ — 同等にチェックされた中国変種 |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

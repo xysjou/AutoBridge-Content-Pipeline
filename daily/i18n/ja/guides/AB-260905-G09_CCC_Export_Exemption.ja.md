@@ -39,18 +39,18 @@ CCCカタログおよび免除カテゴリが更新され、現在のSAMR CNCA�
 **CCCの管理者は誰ですか?** SAMRは、政令、CNCAの管理者の認証と免除を設定します。
 **再輸出のための輸入部品は覆われていますか。** 免除カテゴリの資格を付与する—適用し、それを文書化することができる。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN の | T1 | 検証済み | 以下は、 https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围の、 入境验证の  免办情形 |
-| 强制性产品认证管理规定 (认监委) | 国家认证认可监督管理委员会 | CN の | T1 | 検証済み | 以下は、 https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html の | 主管部门、认证后方可出厂销售进口使用 |
-| 企业申请 CCC 免办业务 (条件与系统) | 国家认证认可监督管理委员会 | CN の | T1 | 検証済み | 以下は、 https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件の  cccmb.cnca.cn系统 |
-| 认监委 2005 年第 3 号公告 CCC 条件) の | 国家认证认可监督管理委员会 | CN の | T1 | 検証済み | 以下は、 https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |（无需）
-| 免予办理强制性产品认证证明 (受理条件示例) | 安徽省人民政府 |  CN  の | T1 | 検証済み | 以下は | 以整机全数出口为目的进口的零部件免办等 | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131
-| SAMR(CCC体制) | サーム 国家市场监督管理总局 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | CCC 必須認証体制 | https://www.samr.gov.cn/
-| 認定および認定管理(CNCA) | CNCA 国家认证认可监督管理委员会の特長 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | CCC管理・免除制度 | https://www.cnca.gov.cn/
-特許出願中 _ 貿易関連技術に関するご相談 _ 特許業務法人 世界貿易機構 | 特許業務法人 T1/T2 | 取扱実績 | 下記 ,.wto.org/japanese/tratop_e/tbt_e/tbt_e.htm のアドレスは、CCC の CCC の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の の   https  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 国際電気技術委員会(IEC)規格 | 国際電気技術委員会(IEC) | エントリー | T1/T2 | 検証済み | 以下は、 https://www.iec.ch/home のサイト | 適合性評価で参照される国際規格;CCCは、多くの場合、IECと整列するGB規格を使用しています |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
+| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | primary | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
+| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
+| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
+| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | primary/independent | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

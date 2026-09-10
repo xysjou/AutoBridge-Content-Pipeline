@@ -31,7 +31,7 @@
 ナトリウムイオンのゆるい電池は自身の対応する数を運びます。 そのため、予備サービスパックは、車UN3556.を再利用することで決して** UN3480/3481 **家族の下で出荷します
 
 ## UN38.3 および試験および基準のマニュアル
-輸送の前に、 —  and  今度はナトリウムイオン — 電池はUNのセクション38.3の下の*T. 1–T.8を*テストのマニュアル完了しなければなりません  and  基準* 最新版 **改正8 (2023) 改正1 ** (Rev. 8 は 38.3 内のナトリウムイオン電池を持っていました)、  and  ** チェック バック バック ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド ド  UN3480/3481の下の予備電池のためにそれは直接船積みの条件です。 米国49 CFR §173.185は、法定基準によりUN38.3を組み入れ、セクション38.3テスト要約の広範囲を照らします。
+輸送の前に、 —  and  今度はナトリウムイオン — 電池はUNのセクション38.3の下の*T. 1–T.8を*テストのマニュアル完了しなければなりません  and  基準* 最新版 **改正8 (2023) 改正1 ** (Rev. 8 は 38.3 内のナトリウムイオン電池を持っていました)、  and  ** チェック バック バック ド  UN3480/3481の下の予備電池のためにそれは直接船積みの条件です。 米国49 CFR §173.185は、法定基準によりUN38.3を組み入れ、セクション38.3テスト要約の広範囲を照らします。
 
 ## 充電状態とキャリア層
 固定**状態のパーセンテージ*などの数量/状態の制限は、**IMDGテキストで設定され、各キャリア**によって、その上部に設定されます。 このページは、**公式にないで固定SOCの割合を述べています**。 航海による著書のキャリアの書面によるDG命令航海(キャリアは、IMDGの最小値よりも厳しい条件を課す可能性があります)を取得します。
@@ -80,19 +80,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-|  IMDG  コード改正 42-24 公式中国語テキスト  PDF  | 中国海上安全管理 |  INTL/CN  の執行 | 以下は 、 | 2026-09-04 | 検証済み (プライマリ) | 42-24 、  MSC  。 556 (108)、 2026-01-01 、 UN3556-3558 、 P912 のクラス 9 | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf
-| 試験のUNマニュアル  and  基準(改訂8 +改正1)、 セクション38.3(SCETDG-66 INF. 30) | UNECE/国連委員会 | サインイン | 以下は、 https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf のファイル | 2026-09-04 | 検証済み(プライマリ) | 住 所: 8+Amd.1  UN38.3 T.1–T.8, ナトリウムイオン |
-| UN/SCETDG- 64 INF. 29 リチウム電池の同一証明/38.3 印の修正 | ユーネクテ | サインイン | 以下は、 https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf のファイル | 2026-09-04 | 検証済み(プライマリ) | 38.3 の印の修正 |
-|  US  49  CFR  § 173.185 (IBR  によって UN38.3 を組み込む) | 米国の GovInfo (CFR) | 米米米米 | 以下は 、 の は です 。 | 2026-09-04 | 検証済み (プライマリ) | UN3480/3481 、 法定 UN38.3 参照 | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml
-| IMDG 42-24 通訳(MSC. 556 (108)、有効日) | 中国海事(再ポスト) | インク/CN | 担当: http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED(クロス) (サポート) | 有効な日付解釈 |
-| UN3556 SP405 の印の解釈 | ジウパイニュース(投稿) | サインイン | 担当: http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE(サポート) | SP405 マーキング |
-*証拠ノート:MSA(IMDG 42-24)とUNECE(Manual Rev. 8+Amd.1、49 CFR)の主源に固定されるコア分類。メディア/インダストリーページのみをサポートしており、UN番号またはUN38.3.固定SOC値の主証拠はブロックされています。 ふりがな
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国施行日と国際IMDG (42-24)
 - **検証方法**:MSA + UNECE/UNマニュアル+ 49 CFR の主なソース; 緩い対インストールされた電池を分離; サポートされていない SOC 番号

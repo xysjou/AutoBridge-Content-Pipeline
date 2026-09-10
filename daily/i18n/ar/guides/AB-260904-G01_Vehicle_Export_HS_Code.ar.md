@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 87.01–87.05/8716 اسماً من الأسماء الحالية |
-| إعلان اللجنة بشأن تنفيذ برنامج تسوية التعريفات الجمركية البالغ 2026 | الإدارة العامة للجمارك في الصين | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 2026 أساس الإنفاذ، قاعدة الرؤوس السنوية |
-| 2026 السؤال: 87 عنوان | i5a6 نظام الاستفسارات | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | صرخات | الملاحة الرئيسية |
-| Customs Q&A on electric three-wheelers (8703.80 8704.60) | الإفراج الجمركي (إعادة نشر) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE OURCE | ثلاث عجلات، 8704.6000 |
-* ملاحظة: الأساس الحالي هو تعريفة الـ 2026 وإعلان تنفيذها رقم GACC؛ ولم تعد الجداول القديمة الـ 2018/2020 تستخدم كأساس أولي. ويفتقر واجب تحديد الهوية والرؤوس الفرعية المكونة من عشرة أرقام إلى النطاق المحدد، ويجب فحصها كل بلد/سنة تعريفية. ♪
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | مفقود | 870340等子目官方归类名称/混合动力/排量座位分目 |
-| 海南零关税交通工具清单 (8702 混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | مفقود | 870230/870240大中型/小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

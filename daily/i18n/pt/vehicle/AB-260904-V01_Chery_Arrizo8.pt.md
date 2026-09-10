@@ -82,18 +82,18 @@ Nenhum preço de exportação estático é publicado. O preço de orientação c
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
   - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Arrizo 8 2024 1.6T DCT Página de parâmetro de excelência | Base de dados ZOL Auto | NC | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensões, distância entre eixos, motor, caixa de velocidades, estrutura |
-| Arrizo 8 1.6T DCT Parâmetros de excelência | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Potência, PS, dimensões, referência de preços domésticos |
-| Chery Arrizo 8 1.6T powertrain analysis | Auto- casa·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW 197 PS 290 N·m 7DCT |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| Arrizo 8 2024 1.6T DCT Excellence parameter page | ZOL Auto database | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, engine, gearbox, structure |
+| Arrizo 8 1.6T DCT Excellence parameters | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Power, PS, dimensions, domestic price reference |
+| Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW/197 PS/290 N·m/7DCT |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança: nenhuma folha de especificações primárias do OEM foi capturada; as figuras são valores cruzados de base de dados estruturados chineses. Portas, layout de unidade e velocidade máxima são de fonte única. O preço interno é sensível ao tempo e nunca é uma cotação de exportação. *
+*Confidence note: no OEM primary spec sheet was captured; figures are cross-checked Chinese structured-database values. Doors, drive layout and top speed are single-source. Domestic price is time-sensitive and is never an export quotation.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

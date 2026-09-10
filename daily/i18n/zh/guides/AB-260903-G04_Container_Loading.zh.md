@@ -86,17 +86,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 车辆积载侧视(2/box、8带) | 货运材料 | 全球 | https://m.11467.com/product/d42473652.htm 维基月球 | 2026-09-03 | 资源 | 2-SUV 无架; ~ 8 带; 轮式方法(一个来源) |
-| 烟台港首4-SUV"罗对集装箱"试运营. | | 氯化萘 | http://m.toutiao.com/group/7443978035637846554/ 维基月球 | 2026-09-03 | 资源 | Upper2+lower2架;装载序列(一次报告试验) |
-QQ(3/box). 腾讯网. | 氯化萘 | | | | |  http  http  http  http  http  http  http http://m.toutiao.com/group/6748371578787987979/维基月球 | | 2026-09-03资源 资源 | | | | - - - - - - - - - - - - - - - - - - - - - - | | | |  Three | | | | | | | | | | | | per - | per | per | | | per | per | per per | | per per per 氯化萘 氯化萘 氯化萘 氯化萘 氯化萘 氯化萘 | | | | | | | | | | | | | | | | | | | | | | | | 
-| 出口集装箱五步装载法 | 净值 | 全球 | https://www.163.com/dy/article/L42056IP05568MR2.html 维基月球 | 2026-09-03 | 资源 | 五点堆放检查(一个来源). |
-* 范围说明:每个装载数字来自一个单一的、不同的来源(所有SINGLE_SOURCE)——没有事实得到两个独立来源的证实,因此没有标记为CROSS_. 检查。 计数是记录惯例参考,不能保证积分;具体数字总是取决于测量的尺寸和经批准的载荷计划,在预订时必须确认载体/地铁规则. * 报告迟交是因为需要翻译。
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| 海事组织/劳工组织/欧洲经委会货物包装运输单位业务守则(CTU守则) | 国际海事组织(海事组织) | INTL (美国英语). | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 维基月球 | 2026-09-05 | 实录 | 货物分配、捆绑和包括集装箱在内的集装箱运输工具的安全原则 |
-| | 世界航运理事会 | INTL (美国英语). | https://www.worldshipping.org/ 维基月球 | 2026-09-05 | 实录 | 装货规划标准货运集装箱和班轮设备 |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

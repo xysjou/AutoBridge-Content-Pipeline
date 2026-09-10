@@ -81,19 +81,19 @@ Nenhum preço de exportação estático é publicado. O valor inicial aproximada
   - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrand 1.5L CVT folha de guarnição | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensões, distância entre eixos, bancos, referência de preços |
-| 2024 Configuração do núcleo do Emgrand (93 kW, 5MT/CVT) | Xcar Mídia Toutiao | NC | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissões |
-| Comparação de parâmetros multi-versão do Emgrand | Base de dados dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Rodas, versões, nacionais MSRP (TIME_SENSITIVE) |
-| 5th-generation Lançamento emgrand (limite geracional) | China Economia Rede (media oficial) | NC | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIM_SENSITIVO | 5th-gen dimensão/base de roda/preço; distingue as gerações |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensions, wheelbase, seats, price reference |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissions |
+| Emgrand multi-version parameter comparison | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Wheelbase, versions, domestic MSRP (TIME_SENSITIVE) |
+| 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME_SENSITIVE | 5th-gen size/wheelbase/price; distinguishes generations |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança: nenhuma folha de especificações primárias OEM foi capturada para este modelo; as figuras são valores cruzados de banco de dados mídia chinês. O binário de 127 N·m é de fonte única. O preço doméstico e o lançamento de 5th-generation são sensíveis ao tempo. As especificações de homologação e exportação do destino devem ser confirmadas para o VIN. *
+*Confidence note: no OEM primary spec sheet was captured for this model; figures are cross-checked Chinese database/media values. The 127 N·m torque is single-source. Domestic price and the 5th-generation launch are time-sensitive. Destination homologation and export specs must be confirmed for the VIN.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

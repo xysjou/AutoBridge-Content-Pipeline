@@ -21,7 +21,7 @@ Chiếc JMC Ford Transit T8 (江铃福特全顺 T8) là một nền tảng lớn
 | Cấu hình | Kích cỡ tham chiếu | Quay | Tin tưởng |
 |---|---|---|---|
 | Cơ sở bánh xe vừa, mái nhà trung bình (hứng) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| Xe đạp dài, hàng hóa cao | 5998 × 2164 × 2775 mm; Hàng nội thất  thể loại 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Dài | SINGLE_SOURCE |
+| Xe đạp dài, hàng hóa cao | 5998 × 2164 × 2775 mm; Hàng nội thất  thể loại 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Dài | single source |
 
 Chiều dài 5998 mm là quan trọng: trong nhiều thị trường, nó nằm ở ranh giới lái xe nhẹ-cience, nên người mua nên xác nhận loại giấy phép đích đến và khối lượng lớn của phương tiện trước khi đặt hàng phiên bản dài nhất. Kích thước nội thất ô  and  the ≈13 m³ volume are single-source  and  nên được xác nhận chống lại chính thức xây dựng cơ thể JMC thông tin cấu tạo/sự cấu trúc trước khi một sự chuyển đổi được thiết kế xung quanh họ.
 
@@ -29,8 +29,8 @@ Chiều dài 5998 mm là quan trọng: trong nhiều thị trường, nó nằm 
 
 | Đường | Tham khảo thị trường Trung Quốc | Hộp bánh răng | Tin tưởng |
 |---|---|---|---|
-| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed tự động (8AT) | SINGLE_SOURCE — xác nhận bởi VIN/OEM|
-| 2.0T diesel | Đường dầu diesel giảm dần, tách rời, giảm giá | Sổ tay 6-speed (6MT) | SINGLE_SOURCE — Đường riêng biệt|
+| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed tự động (8AT) | single source — xác nhận bởi VIN/OEM|
+| 2.0T diesel | Đường dầu diesel giảm dần, tách rời, giảm giá | Sổ tay 6-speed (6MT) | single source — Đường riêng biệt|
 
 2.3T 8AT  and  2.0T 6MT là những tàu năng lượng riêng biệt nhắm vào những chu kỳ làm việc khác nhau; chúng không được phép trung bình hoặc được trình bày như là một " T8 động cơ". Ổ quay sau là bố trí cơ sở, với 4WD được cung cấp dựa trên các cấu hình đã chọn — tên rõ ràng của tàu đua. Các kết quả chính thức hiện đang nằm trên các nguồn độc lập và nên được đóng lại chống lại đặc điểm đặc trưng của JMC hoặc mục nhập nhập đồng nhất MIIT trước khi co bóp; Một loại dầu diesel Trung Quốc cũng phải được kiểm tra để có thể đi đến điểm đến và được chấp nhận trên sân khấu.
 
@@ -78,20 +78,20 @@ Không phải trên bằng chứng ở đây: đó là JMC xây dựng cho Trung
 
 Xe tải mua ở Trung Quốc là LHD; các chi tiết về RHD và xuất khẩu cần thiết bằng chứng OEM riêng biệt và không được phép suy ra từ đường dây Trung Quốc.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-08
-- ** chợ hạ giá**: CHINA(中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
+- ** chợ hạ giá**: CHINA(China-market reference; 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Một nguồn xuất, chiều chuyển đổi và giá trị tham khảo trong nước phải được xác nhận lại trên tờ JMC OEM hay mục nhập MIIT, và trạng thái tương tự với Ford Transit toàn cầu yêu cầu một tuyên bố rõ ràng trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

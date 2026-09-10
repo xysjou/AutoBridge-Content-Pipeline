@@ -14,12 +14,12 @@
 - **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 
 ## คอนเท็กซ์ของนักซื้อ: รถ SUV FE ร่วมกับรุ่นยาว
-Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไฮบริด เสนอในห้า  and  แบบฟอร์มอาหารเจ็ดชิ้น ความผิดพลาดสองลําดับควบคุมโมเดลนี้: ผสาน UND T9 กับ ความกว้าง T9L ~  and  ยกมาช่วงไฟฟ้า โดยไม่ตั้งชื่อแบตเตอรี เอกสารหน้านี้ ** เฉพาะมาตรฐาน Fulwin T9 (REFEST Market: หอบ) ~ T9L ยาว (ราว 4870 mm/ 2920 mm ล้อล้อล้อ) เป็นอีกร่างหนึ่ง  and  จงใจกีดกัน หน้าการปรับแต่งของโออีเอ็มถูกบันทึกสําหรับรุ่นนี้ ซึ่งช่วยเสริมสร้างความแข็งแรงให้กับฐาน
+Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไฮบริด เสนอในห้า  and  แบบฟอร์มอาหารเจ็ดชิ้น ความผิดพลาดสองลําดับควบคุมโมเดลนี้: ผสาน UND T9 กับ ความกว้าง T9L ~  and  ยกมาช่วงไฟฟ้า โดยไม่ตั้งชื่อแบตเตอรี เอกสารหน้านี้ ** เฉพาะมาตรฐาน Fulwin T9 (REFEST Market: หอบ) ~ T9L ยาว (ราว 4870 mm/ 2920 mm ล้อ) เป็นอีกร่างหนึ่ง  and  จงใจกีดกัน หน้าการปรับแต่งของโออีเอ็มถูกบันทึกสําหรับรุ่นนี้ ซึ่งช่วยเสริมสร้างความแข็งแรงให้กับฐาน
 
 ## ภาพ Powerrent: เครื่องยนต์ที่เลิกใช้ + มอเตอร์ + DHT แบบเดียว
 | รายการ | Fulwin T9 C-DM (อ้างอิงจีน) |
 |---|---|
-| กลไก | 1.5 T เครื่องพีพีพียูที่อุทิศให้กับลูกผสม (115 kW/ 220 N·m เครื่องเท่านั้น; จีน- 6b) พ.ศ. |
+| กลไก | 1.5 T เครื่องพียูที่อุทิศให้กับลูกผสม (115 kW/ 220 N·m เครื่องเท่านั้น; จีน- 6b) พ.ศ. |
 | มอเตอร์ด้านหน้า | 150 kW 310 N·m |
 | การแสดงผลของระบบแบบรวม | ประมาณ 265 kW 530 N·m |
 | การส่งภาพแบบผสม | DHT แบบเดี่ยว |
@@ -73,7 +73,7 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 - ~~~: อ้างอิงการส่งออกของ AutoBridge- Buyer — Chery Fulwin T9, เสียบรถ SUV ไฮบริด
 - ~FR~: Réfénc Autobridge ส่งออก Acheterers — Chery Fulwin T9, vehichule softterable SUV
 - - - - - - - - - AutoBridge-Referenz furer Excufer — Chery Fulwin T9, ปลั๊ก-Hybridfhrurezoug SUV
-- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ สกา รา ซิ ยง — เชอ รี ฟูล วิน ที 9, วี อี คูลู ฮิ บริ โด อิช จู ฟฟฟฟฟฟลาย
+- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ สกา รา ซิ ยง — เชอ รี ฟูล วิน ที 9, วี อี คูลู ฮิ บริ โด อิช จู ฟลาย
 -~PT~: Referénia AutoBridge panyradores de Expressaau — Cherie Fulwin T9, veiculo hibrodo เสียบ SUV
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
@@ -83,19 +83,19 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 แรงดึงดูด-แบททีรี ความปลอดภัย (มาตรฐานสากล) | SAMR มาตรฐาน | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ฐานความปลอดภัยแบบ Traction-Batry เกี่ยวข้องกับกลุ่มที่ก่อสร้าง C-DM |
-| GB 18352.6-2016/XG1-2026 จํากัดการปล่อยแสงจากกระดูกสะบ้า (จีน 6)) พ.ศ. | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีนในปัจจุบัน- 6 กรอบปล่อยก๊าซสําหรับเครื่องที่อุทิศ 1.5T (อ้างอิง ไชนา- 6b) |
-| Fulwin T9 ตารางการปรับแต่งอย่างเป็นทางการ | เชอรีย์ ฟูลวิน (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ISWIIE (OEM) | แบตเตอรี, มิติ, ที่นั่ง, ชาร์จ, รุ่น |
-| Fulwin T9 มือบน (ize/model ear) | ดองเดกิ | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | ROOS_ CHCKED | ขนาด ขอบเขตปีโมเดล |
-| Fulwin T9 120 long-range flagship config | ปรับแต่งค่าบ้านอัตโนมัติ | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | ROOS_ CHCKED | 32.66 kWh, เรนจ์ไฟฟ้า มอเตอร์ |
-| Fulwin T9 แบตเตอรี่และ EV-range | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | แบตเตอรี, CLTC/WLTC ช่วง, เวลาชาร์จ |
-| Fulwin T9 เปิดตัวและมิติ | ฐานข้อมูลของโซฮูออโต้ | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | ROOS_ CHCKED | ขนาดปานกลาง SUV, ราคาในประเทศ |
-| 风云T9 官方配置表(品牌官网) | 奇瑞风云 (奇瑞官方). | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | เปิดใช้งาน | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-* convidence ข้อสังเกต: หน้าการปรับแต่ง OEM จับภาพได้ (สมอเรือ ViffIEed; ค่าใช้จ่ายและปริมาณสินค้าเป็นซิงเกิล แหล่งที่มา; ผลรวมรวมคือ ทรัพย์สินผู้ผลิต มาตรฐาน T9 เฉพาะ — T9L จํากัด. *
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

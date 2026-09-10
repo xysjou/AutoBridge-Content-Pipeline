@@ -20,23 +20,23 @@
 All sit in **Class 9**. The older blanket **UN3171 ("battery-powered vehicle/equipment") sea transition ended on 31 December 2025**; لا تبني 2026 حجز على UN3171 لسيارة الليثيوم بالنسبة لمصفوفة التصنيف الكاملة  and  "الدخلات الخفية (UN3480/UN3481)" انظر دليل المرافقة [يقطع غطاء تحت IMDG 42-24: (أ) مصفوفة إلى un3556-imdg-compliance/)؛ وتركز هذه الصفحة على ما يحتاجه الطلب في الحجز وما يجعل ملفاً قابلاً للحجز**.
 ## ألعاب الفهد الجامعتين: SP961 ضد SP962
 ويقود هذا الحكم الخاص كلا من الملاجئ والأوراق:
-- ** ينطبق مبلغ SP961 ** على الحالات التي يتم فيها تحميل المركبة أو تطهيرها أو معالجتها أو تفريغها تحت سلطتها** (مسار رو رو رو - سيل الذي تحركه بنفسها) ويفي بالشروط المعلنة؛ ويحمل لإغاثة محددة.
+- ** ينطبق مبلغ SP961 ** على الحالات التي يتم فيها تحميل المركبة أو تطهيرها أو معالجتها أو تفريغها تحت سلطتها** (مسار رو - سيل الذي تحركه بنفسها) ويفي بالشروط المعلنة؛ ويحمل لإغاثة محددة.
 - ** SP962 ** ينطبق على المسار الذي لا يحرك نفسه**، ويعامل على أنه من الفئة الكاملة 9: (أ) إعلان عن السلع الغامضة**، ** فئة الماشية A** الاحتياجات من التدريب  and  the **Class 9 label 9A** marking route apply.
 ويقرر المسار الذي تسيرون عليه بمعرفة ما إذا كانت الوحدة تتحرك فعلا**، وليس بالأفضلية - لا يمكن للسيارة التي يخطط لها تصدير الحاويات أن تطالب بالإغاثة التي تحركها ذاتيا.
-## The Document Set a Booking Rests on
+## مجموعة المستندات التي يستند إليها الحجز
 1. **UN38.3 test summary report** covering **both the cells  and  )أ(حزمة - تقرير خليوي فقط غير كاف للمجموعة؛ لاحظوا التنقيح الحالي الذي يقبله ناقلكم
 2. **S/MSDS (GHS)**، مع تحديد الدخول غير الصحيح للأمم المتحدة (UN3556 لمركبة الليثيوم)، والفئة 9، والجدول الزمني للإم إس** - استكمال أي وثيقة قديمة لا تزال تُسمي سوى UN3171.
 3. ** استمارات إعلان السلع الخطرة وحجز الناقل**، مكتملة إلى معيار 42-24 ** (المطلوبة على الطريق SP962).
 4. ** القرار المُركَّز ضد قرار غير مُتخذ/مُنحَّى*. وتتحرك بطاريات السكك الحديدية أو الليثيوم المطلة تحت ** UN3480/UN3481 **، وليس UN3556، وتحتاج إلى طريقها الخاص (بما في ذلك شهادة تعبئة البضائع الخطرة عند الاقتضاء). الإغاثة الشاملة لم تغطي أبداً قطع الغيار المُحزمة جنباً إلى جنب
 5. ** الوحدات التي تم تدميرها أو تنفيذها أو استشهادها** هي حالة منفصلة: وهي تتطلب ** موافقة ناقلات**، لا يمكن في كثير من الأحيان أن تمضي على شروط عادية، ولا يجب أبدا أن تُعاد صياغتها على أنها شحنة عادية تبلغ UN3556 شحنة.
-## Version and Timeliness (state these on every file)
+## النسخة والتوقيت (اذكرهما في كل ملف)
 - تعديل مُسبق: ** IMDG ** 42-24 (2024 Edition)، إلزامي من 2026-01-01 **، ذكر التعديل على الحجز بدلاً من افتراض نموذج الناقل القديم.
 - ** UN38.3 تنقيح:** يؤكد التنقيح الذي تقبله خطكم ووجهتكم (مع مراعاة الوقت).
 - ** متطلبات النقل من جانب الصين لليثيوم** تؤكد النص الرسمي الحالي وكيف ينطبق على المركبات التي تعمل بالوقود مقابل البطاريات المطلية** بدلا من اقتباس المادة المتعلقة بالامتثال التي تبلغ 2025 كقانون مستقر.
 ## ناقل - سابتشي لاير (الرمز هو الطابق، لا السقف أبدا)
 Named carriers publish their own 42-24 advisories — for example **Maersk's customer advisory on Amendment 42-24** confirms the 2026-01-01 applicability, الـ UN3556  and  تغيير الـSP962 بطاقه فوق القانون، الخطوط العامة، لكل مسافر ومحطة طرفية**:
 - (أ) الحد الأقصى للتكلفة**، والأدلة على حالة نظام السحب البالغ 12؛
-- (أ) ما إذا كانت الوحدة تتحرك ** رو رو رو (محركة ذاتياً) أو في حاوية فقط**، و ** شروط القبول المحددة**؛
+- (أ) ما إذا كانت الوحدة تتحرك ** رو (محركة ذاتياً) أو في حاوية فقط**، و ** شروط القبول المحددة**؛
 - : رصد إطلاق بقطع الأرض، وإلغاء الحظر بالحظر على القتال**.
 هذه هي "الشاحنات" و "الطرق" و "الحساسية" و "الزمن" و "الزمن" و "الإنترنت" و "الجوود" الحالية للناقل" مكتوبة لـ "الزوجين" الدقيقين قبل أن يبشروا بالإبحار
 ## ما يوصي به هذا الدليل لك إعداد قبل الحجز
@@ -77,17 +77,17 @@ Named carriers publish their own 42-24 advisories — for example **Maersk's cus
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shipping an electric vehicle by sea (IMDG), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Shipping an electric vehicle by sea (IMDG), 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-IMDG Code (2024 Edition incl. التعديل 42-24، صفحة رسمية من النشرات: " International International . Global . " https://www.imo.org/en/publications/pages/imdg%20code.aspx . 2026-09-05 | | | | | | | |  الحالي/ " /en/publications/pages/imdg%20code.aspx . 9 |
-| مستشار العملاء - التغييرات التنظيمية  IMDG Code Amendment 42-24 | مارزك (يسمى حاملة المحيط) | Global | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | صرخات | الناقل: قابلية الانطباق من 2026-01-01؛ UN3556 بند؛ SP962 |
-' ' إرشادات - UN3556 (ADR/RID 2025, IMDG Amdt 42-24: التصنيف، SP388/666/961/962، UN38.3 | Säkerhets Rådgivarna (DG safety adviser) | Global | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | صرخات | UN3556 صنف 9/label 9A؛ UN3171 عملية انتقال بحري إلى 2025-12-31؛ SP961 مسارا ذاتيا مقابل SP962 مسار للحاويات |
-| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |  كوريا | |  كوريا | | | | | | | | | |  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا | |  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا  كوريا 第4 第4 第4 第第第第第第4年的委员会议的委员会议的。 RTTUTIONOU 42-24 MIS (Hassque): UN3556/3557/3558 مقابل الإرث UN3171 | IMDG Code Compliance Centre Shashi Kallada | Global | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | صرخات | UN3557 ليثيوم - ميتال و UN3558 من القيدات الصوديومية - أيون؛ التمييز من UN3171 |
-| البضائع الخطرة على الصين الطرق 2026: IMDG booking checklist  . Shenzhen Top Way International. CN-UAE route | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance- من قبل حزب " | 2026-09-05 " استخدام استخدامات استخدام الفضاء الخارجي في الأغراض السلمية على نحو ما
-| وثائق تصدير الليثيوم - البطاريات (UN38.3/SDS/packaging قرطا) | Dingzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | SINGLE OURCE | UN38.3 زنزانة + حقيبة، SDS، غير مثبتة |
-| مخاطر جمركية تصدير الطاقة الجديدة (قاعدة الليثيوم الصينية 2025) | تحليل الامتثال في سوهو | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | SINGLE OURCE | اشتراط نقل الليثيوم من جانب الصين (المصدر الرئيسي؛ تأكيد النص الرسمي) |
-* ملاحظة: يستند التعديل الحالي، و UN3556/3557/3558، و SP961/SP962 هيكل إلى منشور المنظمة البحرية الدولية، و 42-24 ناقل/مستشار، و SOC درجة ناقل، وقبول طرفي، وتطبيق قاعدة جانب الصين، إلى نظام خاص بالناقلات/الحياة ومراعي للوقت - يؤكد الشروط الحالية للناقل المعينة والنص الرسمي لكل حجز. ♪
+| IMDG Code (2024 Edition incl. Amendment 42-24), official publication page | International Maritime Organization (IMO) | Global | https://www.imo.org/en/publications/pages/imdg%20code.aspx | 2026-09-05 | VERIFIED | Current edition/amendment and mandatory-from date; Class 9 framework |
+| Customer Advisory — Regulatory Changes, IMDG Code Amendment 42-24 | Maersk (named ocean carrier) | Global | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_CHECKED | Carrier-specific: applicability from 2026-01-01; UN3556 entry; SP962 placard/label change |
+| Guidance — UN3556 (ADR/RID 2025, IMDG Amdt 42-24): classification, SP388/666/961/962, UN38.3 | SäkerhetsRådgivarna (DG safety adviser) | Global | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | CROSS_CHECKED | UN3556 Class 9/label 9A; UN3171 sea transition to 2025-12-31; SP961 self-driven vs SP962 container paths |
+| Shipping Vehicles Under IMDG Amendment 42-24 (ebook): UN3556/3557/3558 vs legacy UN3171 | IMDG Code Compliance Centre / Shashi Kallada | Global | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | CROSS_CHECKED | UN3557 lithium-metal and UN3558 sodium-ion entries; distinction from UN3171 |
+| Dangerous Goods on China–UAE Routes 2026: IMDG booking checklist | Shenzhen Top Way International Forwarding | CN–UAE route | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | single source | Route/carrier booking-stage application; carrier-specific SOC/documentation (illustrative, not universal) |
+| Lithium-battery export documents (UN38.3/SDS/packaging cert) | Dingzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | single source | UN38.3 cell+pack, SDS, loose-battery certificate context |
+| New-energy export customs risk (China 2025 lithium rule) | Sohu compliance analysis | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | single source | China-side lithium transport requirement (single-source; confirm official text) |
+*Scope note: the current amendment, UN3556/3557/3558 split and SP961/SP962 structure are anchored to the IMO publication and 42-24 carrier/DG-adviser material; carrier SOC levels, terminal acceptance and China-side rule application are carrier-/route-specific and time-sensitive — confirm the named carrier's current terms and the official text for every booking.*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

@@ -102,21 +102,21 @@ AutoBridge cotações a pedido em vez de publicar preços de exportação fixos.
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## Fontes e Verificação
+## Sources & Verification
 
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Parâmetros oficiais de Lingzhi | Dongfeng Forthing (oficial) | NC | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFICADO | Distância entre eixos 2800/3000, 5/7/9 lugares, quadro de chassis |
-| M5L 1.5T 9-seat modelo | Dongchedi (懂车帝) | NC | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW 300 N·m, 3000 mm WB, lider 1700 kg |
-| Tabela de parâmetros Lingzhi | PCauto (太平洋汽车) | NC | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensões, CNG powertrain, WLTC 8.4, garantia, preço |
-| Artigo de Lingzhi M5 | Yiche (易车) | NC | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensões, distância entre eixos, 7/9-seat disposições |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança (padrão AutoBridge): dimensões/base de roda/plano de assento são VERIFIED na página de parâmetro oficial de Forthing; 1.5T/CNG trens de potência são CRUSS_CHECKED; peso de freio é SINGLE_ FONTE. O volume de carga/pau não estava na base dos factos e são deixados para a folha oficial; as especificações de exportação/RHD não são asseveradas. *
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

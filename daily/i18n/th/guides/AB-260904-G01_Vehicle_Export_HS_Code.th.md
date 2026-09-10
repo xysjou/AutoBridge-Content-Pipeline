@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| นําเข้าและส่งออก Tarififf of PRI (2026), Tarff Commission of the States | กระทรวงการเงิน (PDF) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | ISIFIE (เมษายน) | 87.01–87.05/8716 ชื่อหัวเรื่องปัจจุบัน |
-| CAC ที่ประกาศในโปรแกรมการปรับปรุงทาลีด 2026 | กรมศุลกากรจีน | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | ISIFIE (เมษายน) | 2026 กฎบังคับ, กฎการตัดหัวประจําปี พ.ศ. ○
-| 2026 HS query · Chapter 87 headings | i5a6 ระบบสืบค้น HS | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | ROOS_ CHCKED | นําทาง |
-| Customs Q&A on electric three-wheelers (8703.80 8704.60) | แฟ้มที่กําหนดเอง | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | แยกกันสามล้อ 8704.6000 |
-* ข้อ สังเกต ที่ เป็น แบบ โน้ต: พื้น ที่ ปัจจุบัน คือ ผ้า ทา ริฟฟ์ 2026 แผ่น และ คํา ประกาศ ที่ ใช้ ใน การ พิมพ์ แบบ GPC; โต๊ะ ที่ เก่า กว่า 2018/2020 ตาราง ไม่ ได้ ใช้ เป็น พื้น ฐาน หลัก อีก ต่อ ไป. หน้าที่ปลายทางและตําแหน่งหัวเรือใหญ่สิบหลักเป๊ะนั้นอยู่นอกเหนือขอบเขต *
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) พ.ศ. | 中国政府网 (国务院). | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | เปิดใช้งาน | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-| 海南零关税交通工具清单 海南零关税交通工具清单 海南零关税交通工具清单 (8702   混动分目官方名称 混动分目官方名称 混动分目官方名称 混动分目官方名称 混动分目官方名称 พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ (, ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  เอ็กซ์ . . . . . . . . . . . . . . . . . | 国家税务总局 (北京市税务局 ง ง ง ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ (  พ พ พ พ พ พ พ   พ พ     พ พ     พ พ พ พ     พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ -0091056. 2013/i.870kias lotmeiggrigegé11 พ/1010.1038383870 ม. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 20 July 2015. สืบค้นเมื่อ 7 July 20 July 2015. . . . . . . . . . . . . . . | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | เปิดใช้งาน | 870230/870240 大中型 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

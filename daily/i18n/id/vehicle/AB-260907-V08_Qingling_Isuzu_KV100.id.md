@@ -25,15 +25,15 @@ Karena truk cahaya dijual sebagai chassis- taksi ditambah tubuh yang cocok, "KV1
 
 | Butir | Referensi pasar-Cina | Percaya diri |
 |---|---|---|
-| Mesin | 4KH1CN6LB diesel 3.0-litre, China - 6 (National VI) | SINGLE_SOURCE |
-| Keluaran | 120 PS / 290 N·m | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
-| Gearbox | Manual MSB 5-speed (5MT) | SINGLE_SOURCE |
+| Mesin | 4KH1CN6LB diesel 3.0-litre, China - 6 (National VI) | single source |
+| Keluaran | 120 PS / 290 N·m | single source — konfirmasi oleh VIN / OEM|
+| Gearbox | Manual MSB 5-speed (5MT) | single source |
 
 Keluarga 4KH1 ada di lebih dari satu akhiran dengan hasil yang berbeda, dan laporan independen kedua mengacu pada rating 4KH1 akhiran yang berbeda. Itulah mengapa kode mesin penuh - ** 4KH1CN6LB **, bukan hanya "a 4KH1" - harus ditulis ke dalam urutan dan cocok dengan entri homologasi MIIT. Cina - 6 diesel dikalibrasi untuk bahan bakar Cina dan VI nasional panggung; tingkat bahan bakar tujuan dan pengakuan emisi harus diperiksa secara terpisah daripada diasumsikan.
 
 ## Payload dan kerb mass: classifieds bukan data pabrik
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Angka-angka ini ** tidak ** disajikan sebagai spesifikasi: mereka bervariasi dengan tubuh yang cocok, adalah diri-dilaporkan oleh penjual dan tidak dapat digunakan untuk ukuran beban. Muatan berwibawa, massa kerb dan GVW berasal dari ** tepatnya chassis homologation sertifikat / nametation plate *. Menghadang mereka sebelum berkomitmen untuk siklus tugas muatan.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Angka-angka ini ** tidak ** disajikan sebagai spesifikasi: mereka bervariasi dengan tubuh yang cocok, adalah diri-dilaporkan oleh penjual dan tidak dapat digunakan untuk ukuran beban. Muatan berwibawa, massa kerb dan GVW berasal dari ** tepatnya chassis homologation sertifikat / nametation plate *. Menghadang mereka sebelum berkomitmen untuk siklus tugas muatan.
 
 ## Advoir baris dan batas global Isuzu
 
@@ -78,17 +78,17 @@ Apakah truk yang baru 100P sama? **
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor

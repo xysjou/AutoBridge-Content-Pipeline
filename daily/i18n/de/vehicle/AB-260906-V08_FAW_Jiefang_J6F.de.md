@@ -19,8 +19,8 @@ Der Jiefang J6F ist FAWs Taxi-over-Lkw im chinesischen Segment "Blue-Plate" N2 -
 | Position | Referenzwert für den chinesischen Markt | Markt MY Trim | Vertrauen |
 |---|---|---|---|
 | Kategorie | N2 leichte Lastkraftwagen, blaue Platte (Klasse GVW unter 4.5 t), Kabinenhaus (flachflächig) | CHINA · OEM-Identität | CROSS_CHECKED |
-| Mustermotor | Deutz-Serie CA4DB1-13E6, 2.2 L Diesel, 95 kW (130 PS)/ 350 N·m, China-6b | CHINA · Single-Source-Probe, bestätigen | SINGLE_SOURCEN |
-| Typischer Frachtkörper | Gemeinsame Pfahl-/Kästenkörper mit einer Länge von rund 4.2 m | CHINA · Single-Source, bestätigen durch Build | SINGLE_SOURCEN |
+| Mustermotor | Deutz-Serie CA4DB1-13E6, 2.2 L Diesel, 95 kW (130 PS)/ 350 N·m, China-6b | CHINA · Single-Source-Probe, bestätigen | single sourceN |
+| Typischer Frachtkörper | Gemeinsame Pfahl-/Kästenkörper mit einer Länge von rund 4.2 m | CHINA · Single-Source, bestätigen durch Build | single sourceN |
 
 The J6F is offered with several engines across model batches — the CA4DB1 figure is a representative sample, nicht die gesamte Motormatrix. Ein Käufer darf nicht davon ausgehen, dass jeder J6F diesen Motor verwendet; der genaue Antriebsstrang wird aus der Zulassungsbescheinigung für die Fahrgestell-VIN abgelesen.
 
@@ -73,16 +73,16 @@ Payload und GVW sind hier nicht festgelegt — erhalten Sie sie aus der MIIT-Ank
 
 Ja, aber halten Sie die OEM-Chassis-Homologation und die lokale Überbau-Compliance als zwei separate Genehmigungen.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | SINGLE_SOURCEN | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
-| J6F 潍柴 WP2.3N 130Ps 国六配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | SINGLE_SOURCEN | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
-| 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | CHINA | T1 | ÜBERPRÜFUNG | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 在售配置样本 (额定载重区间线索, T4) | 58同城 | CHINA | T4 | UNVERFÜHRT | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | Identität — N2 GVW/Motor/Nutzlast durch genaue Ankündigung überprüfen |
-| 卡车之家 解放 J6F 车型库 (独立商用车数据库) | 卡车之家 | CN | T2 | CROSS_CHECKED | http://www.360che.com/ | Identität — Kreuzung der Nutzfahrzeugdatenbank; Nutzlast noch pro Ankündigung |
-| FW LKW weltweit (Export) | FW Jiefang | AUSFUHR | T1 | CROSS_CHECKED | https://www.fawtrucks.com/ | Identität — Exportmarktreferenz; nicht gleichbedeutend mit China J6F |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

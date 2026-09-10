@@ -51,22 +51,22 @@ Perintah penjemputan sering gagal di tempat tidur dan kereta api. Pilih pendek a
 
 ## PSD
 ** Apakah diesel torque 390 atau 415 N·m? ** Sumber konflik berdasarkan versi; konfirmasi pemangkas yang tepat - halaman ini tidak memilih satu.
-Does it come in 4WD? Terakhir-drive atau on- permintaan 4WD terdaftar; mengkonfirmasi bangunan.
+Apakah tersedia 4WD? Penggerak roda belakang atau 4WD sesuai pesanan tercatat; konfirmasi pada build.
 ** Apa kapasitas penarik? ** Tidak ditangkap; jangan memperkirakan - gunakan data homologasi.
 ** Dimensi Long-bed? ** Sumber tunggal di sini; pemeriksaan silang sebelum memesan.
 ** Bahan bakar mana untuk diesel? ** China- VI, 0 # diesel; verifikasi kompatibilitas bahan bakar tujuan.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军 G9 车型百科 | 太平洋汽车百科 | CN | T3 | _ BERDECAT | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军 G9 配置 | 太平洋汽车 | CN | T3 | _ BERDECAT | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军 G9 车型页 | 太平洋汽车 | CN | T3 | _ BERDECAT | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军 G9 参数 | 新浪汽车车型库 | CN | T2 | _ BERDECAT | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军 G9 配置库 | 买车网 | CN | T3 | _ BERDECAT | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Situs resmi Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | TERBATAI | https://www.foton.com.cn/ | merek model-baris identitas dan Otoritas OEM |
-| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN pengumuman |
-| Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

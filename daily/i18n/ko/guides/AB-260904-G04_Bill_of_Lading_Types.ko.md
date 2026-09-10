@@ -16,7 +16,7 @@
 ## 조달 문제는 화물 통제, Paperwork 아닙니다
 수출업체는 문서로 청구서의 선택사항을 취급합니다. ** 결제 -risk 결정 **: 원래 양도 청구서에서 텔레스 릴리스 또는 바다 방법 청구로 이동하면 목적지에서 차량을 제어 할 때 변경됩니다. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ** 14th NPC 서 있는위원회 18th 세션에 의해 2025-10-28에 도달 (일반 주문 번호 58), 2026-05-01 장에서 힘 (16 장, 310 기사)** —  and  그 후 결제 조건에 맞는 메소드를 일치합니다. Carrier/port-specific telex 규칙과 수수료는 voyage-specific을 유지하고 고정 값으로 명시되지 않습니다.
 
-## The Four Instruments Side by Side
+## 4가지 서류 나란히 비교
 | 의 특징 | 누가 문제 | 위탁자가 어떻게 납품을 얻고 | Shipper는 제목의 종이 문서를 보유하고 있습니까? |
 |---|---|---|---|
 | **Master B/L (MBL)***************************************************************************************************************************************************************************************************************************************************************** | 선박 그것의 대리인 | 원래 MBL (또는 선 절차를 따르십시오) | 예 - 캐리지 계약 + 문서의 기능 |
@@ -85,19 +85,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC의 해상 코드 (2025 개정, 대통령 명령 58, 힘 2026-05-01) 전체 텍스트 | NPC 서 있는위원회 | 담당자: Mr. wang | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html 의 경우 | 2026-09-04 | 인증 (기본) | 예술. 80/81/87, 버전 및 효과적인 날짜 |
-인TL의 인TL의 인TL의 인TL의 인TL의 인TL의 인 텔레스 / 해웨이비드 인 텔링스 사업 | 인TL의 인 텔링스 〒2026-09-04 |금_체크 | MBL/SWB/telex 정의 | https://www.163.com/dy/article/L0J4JN3F0556HN78.html
-| 마스터 빌 대 집 청구서 | Sina 금융 | INTL의 | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml 경우 | 2026-09-04 | CROSS_체크 | MBL/HBL 사슬, 차량 연습 |
-| 릴리스 방법 및 B L 유형 | 산업 지식 | INTL의 | https: | 2026-09-04 | CROSS_체크 | Four-method comparison | https://m.11467.com/product/d15253354.htm 11467
-의논문 4개의 공개 방법 및 텔레렉스 위험(남미 주) | 의논문 | INTL의 | https: | 2026-09-04 | SINGLE_SOURCE(싱글) | 주문 요금 제한, 항구 합격 | https://www.163.com/dy/article/K17GLBOG0556820S.html
-| 상품의 국제 운송 및 모델 법 | UNCITRAL(주) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 운송 문서에 대한 통합 법률 프레임 (Hague-Visby/Hamburg/Rotterdam context) |
-| 표준 선박 문서 및 항목 참조 | BIMCO의 특징 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.bimco.org/ 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 산업 표준 해상 참조 |
-| FIATA 수송 문서 및화물 운송업자 연습 | 국제 화물 운송업자 (FIATA) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://fiata.org/ 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 운송업자 문서 (FBL/FCR)는 운반대 B/Ls를 구별합니다 |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-*Confidence 참고: 2025 개정의 NPC 가득 차있는 원본을 통해 statutory backbone VERIFIED (힘 2026-05-01); 사업 정의 십자가 검사하는; 운반대 합격은 voyage 별 남아 있습니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

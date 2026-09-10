@@ -27,7 +27,7 @@ The Xintu V90 is a **wide-body light commercial platform** sold as passenger min
 
 สําหรับโฆษณาดีเซล ผู้ซื้อควรเปรียบเทียบเกรดบิด และตัวเลือกล้อหลัง (single vs parame) กับภาระที่ตั้งใจ ไม่เพียงแค่อํานาจสูงสุด ZF 8AT เป็นระบบส่งที่สูงขึ้น; อย่าสมมุติว่าทุกเกรดมีมัน
 
-## Chasis, heelbase and body matrix
+## ตารางแชสซี ฐานล้อ และตัวถัง
 - ตัวอย่างการจับต้องวัตถุมาตรฐาน Legwiggh: **5498 / 2062 / 2535–2545 mm**; ศพที่ยาวกว่ายังมีอยู่
 - เบสล้อ: ~ 3366 mm / 3760 mm ~
 - ~ที่นั่งรุ่น Passenger: 9–15 เข้มงวดกับรุ่นที่ดัดแปลง (single-sources; ได้รับการยืนยันในรหัสประกาศ/รูปแบบ) ~
@@ -83,19 +83,19 @@ The Xintu V90 is a **wide-body light commercial platform** sold as passenger min
   - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Xintu V90 configuration (5498 body) | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | ROOS_ CHCKED | คลาส ขนาดตัว |
-| SAIC π 2.0T สายเลือดพลังงานดีเซล | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | ROOS_ CHCKED | 110/130 kW, 375 N·m (พ.ศ. อาร์ดับเบิลยูดี พวงมาลัยหลังคู่ |
-| V90 2025 130 kW / 420 N·m | 16888 อัตโนมัติ | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | ROOS_ CHCKED | 130 kW/ 420 N·m, ZF 8AT ที่นั่ง 9–15 ที่นั่ง (กินซิงเกิล-ซอร์ส) |
-| Xintu V90 2024 พารามิเตอร์ | ฐานข้อมูลของ Syna Auto | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | ROOS_ CHCKED | 5498/2062/2545, ล้อ ลัด 3366/3760 |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| Xintu V90 configuration (5498 body) | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Class, body dimensions |
+| SAIC π 2.0T diesel power lineage | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, dual rear wheel |
+| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 seats (seats single-source) |
+| Xintu V90 2024 parameters | Sina Auto database | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, wheelbases 3366/3760 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* continuence ข้อสังเกต: ไม่มีแผ่น SAIC Maxus ต้นแบบถูกบันทึกค่าเป็นฐานข้อมูลจีนที่ผ่านการตรวจสอบแล้ว จํานวนที่นั่งนับเป็นซิงเกิลและผูกพันกับรหัสรุ่นที่ดัดแปลงมา ไม่มีราคาและไม่มีใครยืนยัน การอนุมัติปลายทางเป็นการระบุค่าปรับแต่ง *
+*Confidence note: no SAIC Maxus primary spec sheet was captured; values are cross-checked Chinese databases, seat count is single-source and bound to the homologated model code. No price was available and none is asserted. Destination approval is configuration-specific.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]

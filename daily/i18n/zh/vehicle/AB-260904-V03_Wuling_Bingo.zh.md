@@ -20,7 +20,7 @@
 | 项目 | 203 km(进入) | 333 410 km |
 |---|---|---|
 | 电池化学 | LFP(磷酸锂) | LFP 语言 |
-| 输入电池 | 17.3 kWh 维基月球 | 较大包(在 OEM 工作表中确认每个版本) |
+| 输入电池 | 17.3 kWh  | 较大包(在 OEM 工作表中确认每个版本) |
 | 汽车动力 | 30 kW | 50 kW(输入为30 kW——不作概括) |
 | 汽车扭矩 | 85 N·m | 125 N·m (单一来源) |
 | CLTC 范围 | 203 km | 333 km 410 km |
@@ -49,7 +49,7 @@
 5. ** 装运时遵循装运前准备指南和承运人申报的收费要求(没有普遍固定百分比)。
 
 ## 请求当前导出提示
-无静态出口价格. 中华2024起步指南价(约56元人民币,800元)是**国内,时间性参考,不采用离岸价格/CIF**. 查询** 目的地国家 数量 目标港 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+无静态出口价格. 中华2024起步指南价(约56元人民币,800元)是**国内,时间性参考,不采用离岸价格/CIF**. 查询** 目的地国家 数量 目标港 o
 
 ## 经常被问到的问题
 ** ** 三个有记载的CLTC步骤——203,333和410 km——具有不同的发动机和电池规格.
@@ -68,36 +68,36 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——Wuling Bin果,电池-电力车辆
 - **法国**: 出口汽车汽车公司——Wuling Bin果,100%电子化
-- DE**: 国家 自动桥-Referenz für Exportkäufer — Wuling Bincod, Bashielektrisches (英语). 法尔泽格
+- DE**: 国家 自动桥-Referenz für Exportkäufer — Wuling Bincod, Bashielektrisches  法尔泽格
 - **ES**: 出口控制中心——Wuling Bin果, 100% 精选
 -  **: 出口控制中心——Wuling Bin果, viículo 100% elétrico
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Wuling Bingo, 純電気自動車
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Wuling Bingo, 순수 전기차
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Wuling Bingo, xe thuần điện
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Wuling Bingo, รถยนต์ไฟฟ้า 100%
-- 身份证**: 维基月球在线解说-维基百科中的相关条目: 维基语录链接:名人名言 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 语 - 谚语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 性 - 性 - 语 - 语 - 语 - 语 - 性 - 语 - 语 - 性 - 
+- 身份证**: 语 - 谚语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 性 - 性 - 语 - 语 - 语 - 语 - 性 - 语 - 语 - 性 - 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 武灵 Bin果 203km 配置表 | 自动家居配置 | 氯化萘 | https://car.m.autohome.com.cn/config/spec/61645.html 维基月球 | 2026-09-04 | 横跨 | 17.3 kWh,30 kW 85 N·m 射程,最高速度 |
-| 宾果 2024 203km 参数 | 索胡汽车数据库 | 氯化萘 | http://db.m.auto.sohu.com/trim_173261 维基月球 | 2026-09-04 | 横跨 | 尺寸、轮基、电池、座位 |
-| 2024 维基月球 快速充电更新中选范围(F) | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/24300800 维基月球 | 2026-09-04 | 横跨 | 距离步数50 kW,DC充电分钟,CLTC |
-| 宾果尺寸和座位布局 | 自动 | 氯化萘 | https://m.16888.com/news/2025/0708/23852156.html 维基月球 | 2026-09-04 | 资源 | 宽度/高,2+2个座位 | 16888
-| 武灵 Bin果 2025 全线配置 | PCauto 配置 | 氯化萘 | https://car.pcauto.com.cn/360/m133517/config.html 维基月球 | 2026-09-04 | 横跨 | |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* 无OEM海外页面——仅限中国市场参考. * 报告迟交是因为需要翻译。
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

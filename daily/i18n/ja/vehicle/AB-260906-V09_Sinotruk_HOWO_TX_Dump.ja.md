@@ -41,7 +41,7 @@ WP10H400 / 12-speed / MCX16ZGの組み合わせは、TXカタログではなく�
 
 ## ダンプカーボディおよび油圧: シャーシから分けて下さい
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? ボディ/ベッドの寸法、ホイスト(油圧リフティング)仕様、GVW、カーブの質量と定格ペイロードは固定値として主張されていません。MIITの発表とボディービルダーの仕様が必要です。 ダンプボディは頻繁に合いましたりまたは別に選ばれます、 従ってシャーシの均衡  and  tipper-body compliance are two documents, 特に輸出のため。
+ ボディ/ベッドの寸法、ホイスト(油圧リフティング)仕様、GVW、カーブの質量と定格ペイロードは固定値として主張されていません。MIITの発表とボディービルダーの仕様が必要です。 ダンプボディは頻繁に合いましたりまたは別に選ばれます、 従ってシャーシの均衡  and  tipper-body compliance are two documents, 特に輸出のため。
 
 ## 輸出入前払いチェックリスト
 
@@ -77,15 +77,15 @@ WP10H400 / 12-speed / MCX16ZGの組み合わせは、TXカタログではなく�
 
 想定されていない — 輸出/地域ビルドとステアリングは、OEM の証拠を分離する必要があります。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃 TX 8x4 渣土自卸 (潍柴 WP10H400E62 400Ps、HW19712L 变速箱、MCX16ZG 后桥) | 卡车之家官方号 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/7587065410998624778/ | 发动机、变速箱、后桥、8x4  |
-| 重汽 2025 年半年报 (豪沃  HOWO  品牌与整车产销官方披露) | 中国重汽 (深交所披露) | 日 時 分 | T1 | 検証済み | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 / 产销官方披露 / 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 |
-| 中国重汽集团(豪沃产品系列官方身份) | 经济日报(中国重汽集团 PDF) データシート | 日 時 分 | T2 | CROSS | CHECKED(クロス) | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景 | 詳細はこちら スタッフ
-| SINOTRUK/HOWOの全体的な公式 | 中国国家ヘビーデューティトラックグループ(Sinotruk) | エクスポーター | T1 | 検証済み | https://www.sinotrukchina.com/ | Brand_official — OEM 企業、HOWO ブランドアイデンティティ、輸出ビルド市場スコープ |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | 本人確認 | 発表により 8x4/6x4 のシャシ 、 エンジン 、  GVW  を検証 | 税制 税 税 税 定 税 定 税 定 税 定 税 定 定 価 定 価 定 価 定 価 定 定 価 定 定 定 定 年 月 日 定 定 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期 期
-| 卡车之家 HOWO 车型库 (独立商用车数据库) | 卡车之家 | CN の | T2 | CROSS_CHECKED(クロス) | http://www.360che.com/ | アイデンティティ — サンプル構成の独立したクロスチェック |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

@@ -1,15 +1,15 @@
 # GWM Poer (Pao Ute) — Drivetrain, Bed, Cassis 和 拾货进口商版本地图
 ## SEO元数据
 - **SEO标题**: GWM Poer / Ute Pickup: 驱动列车, 床和导出版本指南
-- **Meta描述**: GWM 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 Poer(中国炮/GWM Ute)为皮卡买家解释——汽油对柴油,8AT/9AT进化,点播4WD,标准对长床,有效载荷验证以及如何固定确切的出口构件.
+- **Meta描述**: GWM Poer(中国炮/GWM Ute)为皮卡买家解释——汽油对柴油,8AT/9AT进化,点播4WD,标准对长床,有效载荷验证以及如何固定确切的出口构件.
 - **H1**: GWM Poer (Pao): 在你订购皮夹之前修补驱动列车、床和底盘
-- **核心关键词**: GWM 维基月球 Poer皮卡规格出口
-- **次级搜索词**: GWM 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 Poer柴油 2.4T, GWM Ute出口,GW4C20B汽油,GW4D24柴油480 Nm,Great 墙上双人出租车,Poer 4x4货床
+- **核心关键词**: GWM  Poer皮卡规格出口
+- **次级搜索词**: GWM Poer柴油 2.4T, GWM Ute出口,GW4C20B汽油,GW4D24柴油480 Nm,Great 墙上双人出租车,Poer 4x4货床
 - **建议URL**: /vehicles/great-wall-poer/
 - **搜索意图**: 了解GWM Poer(Pao):在订购货单前先修补驱动火车、床和底盘:车辆/零件出口商在承诺订购前必须核实、记录和决定的内容。
 - **内链建议**: /guides/right-hand-drive-chinese-cars/ ; /guides/import-chinese-truck-saudi-saso/ ; /guides/commercial-truck-fleet-procurement-china/
 - **图片建议**: 双层卡布和床
-- **ALT文本**: GWM (中文(简体)). 双层小货车
+- **ALT文本**: GWM  双层小货车
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 诗人坐在GWM的一线
@@ -31,9 +31,9 @@ GWM Poer(中国名称炮 Pao;部分出口市场GWM Ute)是长城的核心车体�
 ## 排序的版本地图
 | 版本 | 字符 | 排序焦点 |
 |---|---|---|
-| 乘用版 维基月球 乘客 | 舒适双层出租车,自动,点播4WD | 汽油/柴油,4×2/4×4,传输年 |
-| 商用版 维基月球 商业 | 面向工作的长床(3470 mm个WB),更广泛的传播选择 | 有效载荷/GVW,床位长度,叶子-泉布置,人工选项 |
-| 越野版 维基月球 越野 | 强化4WD,锁,底盘/轮胎升级 | 低射程、 Diff 锁、轮胎、地面清除、角度 |
+| 乘用版  乘客 | 舒适双层出租车,自动,点播4WD | 汽油/柴油,4×2/4×4,传输年 |
+| 商用版  商业 | 面向工作的长床(3470 mm个WB),更广泛的传播选择 | 有效载荷/GVW,床位长度,叶子-泉布置,人工选项 |
+| 越野版  越野 | 强化4WD,锁,底盘/轮胎升级 | 低射程、 Diff 锁、轮胎、地面清除、角度 |
 ## 手册以外的自动包干
 皮卡上市会模糊型号年限和市场,因此买家会得到一辆"2.4型柴油480 Nm"卡车,可搭载8AT或9AT型,或标准床作为长床出售. 建议的方法是将**引擎编码+传输模型+轮基/床+驱动器类型标注到VIN建材注释**,将2024-reference值与目前的GWM官方输出分开,并拒绝引用有效载荷/拖动官方表没有说明——避免最常见的双动卡令错配.
 ## 收货商的出口核查
@@ -76,19 +76,19 @@ GWM Poer(中国名称炮 Pao;部分出口市场GWM Ute)是长城的核心车体�
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM皮卡官方配置表(GW4C20B/GW4D24,8AT/9AT,净功率/电压) | 妇女保健(**制造商官员**) | 氯化萘 | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 维基月球 | 2026-09-03 | ** 已执行** | 目前官方净产出160 kW/380 N·m汽油、135 kW/480 N·m柴油、8AT/9AT |
-| GWM POER 2.4出口(181 hp/480 N·m/9AT,机身4WD) | 约旦(**制造商官员**) | | https://www.gwmjordan.com/en/poer/poer?v=440 维基月球 | 2026-09-03 | ** 已执行** | 出口2.4台柴油机,9AT台,4WD台机车机身 |
-| GWM UK POER300型柴油机的发射(2.4型183 PS/480 N·m,9AT型,全天4×4低程). | 格温姆 联合王国汽车(**制造商官员**) | | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ 维基月球 | 2026-09-03 | ** 已执行** | 出口柴油评级9AT,4×4低程 |
-| 2024 维基月球 包化(中国旅客参考). | PCauto (太平洋汽车) (英语). | 氯化萘 | https://price.pcauto.com.cn/m128673/config.html 维基月球 | 2026-09-02 | 横跨 | 2024名乘客 140 kW/360汽油, 135 kW/480型柴油机车, 兹罗浮8AT |
-| Poo参数(轮式基地/按版本驱动) | 自动回家 | 氯化萘 | https://product.360che.com/m792/198189_param.html 维基月球 | 2026-09-02 | 横跨 | 3230/3470个轮式基地,版本驱动/传输 | 360che
-| 汽车之家 问答 (炮动力) (中文(简体)). | 汽车之家 维基月球 | 氯化萘 | https://www.autohome.com.cn/ask/7251342.html 维基月球 | 2026-09-02 | 资源 | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 (单位:千美元) | 太平洋汽车网 维基月球 | 氯化萘 | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 维基月球 | 2026-09-02 | 资源 | 尺寸 5416×1947×1886;2.0T 140kW/360N·m;五年或 20 万公里质保 ×: |
-| 网上车市 炮乘用皮卡参数 (单位:千美元) | 网上车市 维基月球 | 氯化萘 | https://a.cheshi.com/bseries_4361/param.html 维基月球 | 2026-09-02 | 资源 | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*注:当前输出/发送在GWM官方网页上是VIFIED;2024中国旅客值在数据库上是Cross_CHECKED,并刻意分开保存,以避免混合模型年. 有效载荷/GVW/拖动仍保留在正式的表上,不作估计. * 报告迟交是因为需要翻译。
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

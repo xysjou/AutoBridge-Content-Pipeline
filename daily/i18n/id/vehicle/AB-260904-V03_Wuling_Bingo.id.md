@@ -43,7 +43,7 @@ Semua angka jangkauan adalah ** CLTC **. Mobil yang masuk 30 kW motor tidak bole
 ## Verifikasi Pembeli Luar Negeri Sebelum Pembayaran
 - Posisi motor EV kecil (dan karena itu akselnya yang didorong) harus dibaca dari pelat nama sertifikat; lembar referensi memperbaiki daya dan kisaran nilai tapi bukan tata letak drive.
 1. ** Langkah jangkauan yang tepat dan motor ** cocok dengan VIN - 30 kW entri vs 50 kW trim atas adalah mobil yang berbeda.
-2. **Seat count** (4 vs possible 5) for the specific unit.
+2. **Jumlah kursi** (4 vs kemungkinan 5) untuk unit spesifik.
 3. ** Penghubung pengisian ** - Pelabuhan GB T Cina vs standar tujuan; konfirmasi kompatibilitas charger DC.
 4. ** Dokumen pengiriman baterai ** - UN38.3 ringkasan dan dokumen DG per panduan IMDG 42-24 baterai; klasifikasi kereta BEV mengikuti set aturan saat ini.
 5. ** PDI dan SOC untuk pengiriman ** - ikuti panduan persiapan sebelum pengiriman dan operator menyatakan persyaratan -of-charge (tidak ada persentase tetap universal).
@@ -83,21 +83,21 @@ Berapa kursi? Tata letak entri terdokumentasi adalah empat kursi (2+2). Konfirma
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Wuling Bingo 203km tabel konfigurasi | Konfig rumah otomatis | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | _ BERDECAT | 17.3 kWh, 30 kW 85 N·m, kisaran, kecepatan tinggi |
-| Parameter Bingo 2024 203km | Basis data Sohu Auto | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | _ BERDECAT | Dimensi, wheelbase, baterai, kursi |
-| 2024 Jangkauan Bingo & pemutakhiran muatan cepat | Rumah otomatis | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | _ BERDECAT | Jarak langkah, 50 kW, DC mengisi menit, CLTC |
-| Dimensi Bingo & tata letak tempat duduk | auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE _ SOURCE | Lebar tinggi, 2+2 tempat duduk | 16888
-| Mengangkat Bingo 2025 penuh baris config | Konfig PCauto | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | _ BERDECAT | Mid high motor, jangkauan |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
-| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* Konfidence mencatat: masukan lonjakan baterai / daya; motor torque, volume kargo, hitungan kursi dan menit muatan adalah tunggal-sumber dan ditandai. Tidak ada OEM halaman luar negeri - hanya referensi pasar Cinese-. ♪
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

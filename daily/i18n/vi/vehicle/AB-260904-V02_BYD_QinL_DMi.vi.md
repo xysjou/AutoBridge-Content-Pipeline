@@ -33,7 +33,7 @@ The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-genera
 A PHEV buyer needs four answers in order: **cơ chế, động cơ, pin, chế độ sạc/hoạt động**. Ở đây động cơ 1.5L được dành riêng cho việc tạo ra các máy/công ty chạy qua một chiếc xe đạp tốc độ duy nhất; người lái xe chuyển giao giữa chế độ điện và chế độ lai thay vì chuyển bánh răng. Khớp phiên bản pin với phạm vi điện trên mọi đường dây.
 
 ## Phạm vi xác nhận — Giữ nhãn hiệu người sản xuất
-- The 80/120 km figures are **CLTC** electric range.
+- Các con số 80/120 km là quãng đường chạy điện theo **CLTC**.
 - Một tiêu đề tổng hợp khoảng 2100 km trên một chiếc xe tăng đầy đủ và sạc đầy nhiên liệu** xuất hiện trong tin tức Trung Quốc như một số người nhận là **manuuuuseer**. Nó phải được gán nhãn hiệu cho một tuyên bố nhà máy, chưa bao giờ được trình bày như một kết quả đo lường, và nó không tương đương với một con số xe đạp đích đến.
 
 ## Comment
@@ -89,21 +89,21 @@ Bộ sạc điện của Trung Quốc có hoạt động ở nước ngoài khô
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tham số LM tham số _DM | Cơ sở dữ liệu Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, bánh xe, pin, DHT, trọng lượng, tăng tốc |
-| Cấu hình Trình nhận dạng LM cho Tần L | Comment | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, phạm vi CLTC |
-| Tần LM-I 2024 120km Chuẩn bị | Comment | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | ĐÃ_ ĐÃ | 120 km CLTC, tham khảo giá nội địa |
-| Phân tích vùng & dùng nhiên liệu dạng gen thứ năm | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SINGLE_SOURCE | Động cơ hiến dâng, thời gian tăng tốc, xác nhận phạm vi kết hợp |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
-| Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
-| GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-Lưu ý: các chiều không gian và các bước phạm vi được kiểm tra chéo nhau qua hai cơ sở dữ liệu; chi tiết động cơ, thời gian nạp nhanh và 2100 km yêu cầu đơn mã hóa. Không có trang nước ngoài OEM được lưu giữ — chỉ được tham khảo ở Trung Quốc. *
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

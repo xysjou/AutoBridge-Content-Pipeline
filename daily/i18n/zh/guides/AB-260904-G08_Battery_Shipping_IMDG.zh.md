@@ -1,7 +1,7 @@
 # 根据《国际千年发展宣言》第42-24条,海运一辆电动车辆:UN3556、UN3171和备件-电池区分
 
 ## SEO元数据
-- **SEO标题**: EV 维基月球 IMDG 42-24 - UN3556/3557/3558对UN3480/3481
+- **SEO标题**: EV  IMDG 42-24 - UN3556/3557/3558对UN3480/3481
 - **Meta描述**: 从2026起,锂离子车辆,电池船安装为UN3556(锂金属UN3557,钠离子UN3558),根据IMDG修正案42-24; UN3171号被缩小了  and  loose batteries use  UN3480/3481  with  UN38.3 .
 - **H1**: 根据现行IMDG年《法典》(第42-24号修正案)对一艘用于海上货运的电池动力车进行分类
 - **核心关键词**: UN3556锂离子车 IMDG 42-24 货运
@@ -65,7 +65,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——根据IMDG 42-24 UN3556号《车辆-出口采购指南》进行的EV运输
 - **法国**: 出口汽车运输公司——根据《国际公路运输准则》第42-24号《联合国3556号协定》进行EV航运,汽车出口指南
@@ -80,16 +80,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| IMD 代码修正案 42-24 中文正式文本 PDF | 中国海事安全局. | ITL/CN执法 | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 42-24, MSC 556(108), 2026-01-01, UN3556-3558, P912, 第9类 |
-| 《联合国检验和标准手册》(第8号订正本+第1号修正案),第38.3节(SCETDG-66 INF.30) | | INTL 语言 | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 订正8+Amd.1,  UN38.3 T.1–T.8, 钠离子 |
-| UN/SCETDG-64 INF.29 锂电池识别/38.3 标记修正 | 欧洲经委会 | INTL 语言 | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 38.3 标记修正 |
-| US 49 CFR § 173.185(由IBR公司合并UN38.3) | 美国政府信息(CFR) | 美国 | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml 维基月球 | 2026-09-04 | 已核实(小学) | UN3480/3481,法定UN38.3参考文献. |
-| IMDG 42-24 解释(MSC 556(108),生效日期) | 中国海洋(员额) | | http://m.toutiao.com/group/7585883173825921546/ 维基月球 | 2026-09-04 | 横跨 (支助) | 有效日期解释 |
-| UN3556 SP405次标记口译 | 朱培新闻(转载). | INTL 语言 | http://m.toutiao.com/group/7598735209990734370/ 维基月球 | 2026-09-04 | 资源(支助) | SP405 标记 |
-* 证据说明:主要来源为管理事务协议(IMDG 42-24)和欧洲经委会(手册8+Amd.1、49 CFR),核心分类;媒体/行业网页仅是佐证,不是联合国数字或UN38.3.固定SOC值的主要证据。 * 报告迟交是因为需要翻译。
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

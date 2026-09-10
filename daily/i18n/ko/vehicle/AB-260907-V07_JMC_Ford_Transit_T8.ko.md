@@ -21,7 +21,7 @@ JMC 포드 이동 T8 (江铃福特全顺 T8)는 중국에 있는 Jiangling 모�
 | 제품 설명 | 관련 상품 | 휠베이스 | 의논하기 |
 |---|---|---|---|
 | 중간 축, 중간 지붕 (example) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| 롱 휠베이스, 고로프화물 | 5998 × 2164 × 2775 mm; 화물 실내 ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | 뚱 베어 | SINGLE_SOURCE |
+| 롱 휠베이스, 고로프화물 | 5998 × 2164 × 2775 mm; 화물 실내 ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | 뚱 베어 | single source |
 
 5998 mm 길이는 뜻깊습니다: 많은 시장에서 그것은 빛 상업 운전 면허 경계에 앉아, 그래서 구매자는 목적지 면허 카테고리를 확인하고 가장 긴 버전 주문하기 전에 차량의 총 질량을 확인해야합니다. 화물 내부 차원  and  the ≈13 m³ volume are single-source  and  변환 전에 JMC 공식 바디 빌더 / 구성 데이터에 대해 확인해야합니다.
 
@@ -29,8 +29,8 @@ JMC 포드 이동 T8 (江铃福特全顺 T8)는 중국에 있는 Jiangling 모�
 
 | Line | 중국 시장 참고 | 기어박스 | 의논하기 |
 |---|---|---|---|
-| 2.3T 디젤 (2025) | 128 kW (174 PS) / 430 N·m | 8-speed 자동 (8AT) | SINGLE_SOURCE — VIN/OEM에 의해 확인|
-| 2.0T 디젤 | 분리, 낮은 산출 디젤 선 | 6-speed 설명서 (6MT) | SINGLE_SOURCE — 별도의 라인|
+| 2.3T 디젤 (2025) | 128 kW (174 PS) / 430 N·m | 8-speed 자동 (8AT) | single source — VIN/OEM에 의해 확인|
+| 2.0T 디젤 | 분리, 낮은 산출 디젤 선 | 6-speed 설명서 (6MT) | single source — 별도의 라인|
 
 2.3T 8AT 및 2.0T 6MT는 다른 의무 주기에 겨냥한 명백한 동력학입니다; 그들은 평균적으로 또는 한 "T8 엔진"으로 제시해야합니다. Rear-wheel 드라이브는 선택된 구성에 제안된 4WD과 더불어 기본 레이아웃입니다 — 명시적으로 차트 트레인을 이름. 정확한 출력은 현재 단일 독립 소스에 나머지를 출력하고 계약하기 전에 JMC 공식 사양 또는 MIIT 균질화 항목에 대해 닫아야한다. 중국 특유의 디젤은 목적지 연료 등급 및 배출 단계 합격을 위해 검사해야합니다.
 
@@ -78,20 +78,20 @@ The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior aro
 
 중국 시장 밴은 LHD입니다; RHD와 수출 명세는 분리된 OEM 증거를 요구하고 중국 선에서 inferred는 안됩니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 포드 이동, 无 OEM 同型证据)
+- **참고 시장 **: 중국 (China-market reference; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 포드 이동, 无 OEM 同型证据)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, 변환 치수 및 국내 참조 가격은 JMC OEM 시트 또는 MIIT 항목에 재확인해야하며 글로벌 포드 운송과 동일한 모델 상태는 transacting하기 전에 OEM 명시적 인 성명이 필요합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

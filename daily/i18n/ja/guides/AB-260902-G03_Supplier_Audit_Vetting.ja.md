@@ -24,7 +24,7 @@
 - 自動車やオートバイの輸出注文をさらに調整する上での**five-ministry通知によって**(MOFCOM ら。)、輸出用車のメーカー宣言は、**MIIT "車両メーカーと製品のお知らせ"(车辆生产企业及产品公告)**にリストされ、有効な**CCC強制認証を保持する必要があります。**
 - によって **MOFCOM ら. 2024 通知番号. 6 ** 中古車輸出企業で, 中古車輸出業者は、国内登録独立法定人会議の記載条件である必要があります (メーカーはMIITの発表にする必要があります; トレーダーは、公表された基準を満たしている必要があります).
 
-買い手へのインプリケーション: *which* 法的エンティティティはレコードの輸出業者であり、 MOFCOM** が公開した**現在の年エクスポート修飾リストに座っていることを確認します(リストは動的に更新されます。年現在のバージョンを使用してください。このガイドは会社名を列挙しません)。 チェーン上に置かない会社が止まり信号です。
+買い手へのインプリケーション: *which* 法的エンティはレコードの輸出業者であり、 MOFCOM** が公開した**現在の年エクスポート修飾リストに座っていることを確認します(リストは動的に更新されます。年現在のバージョンを使用してください。このガイドは会社名を列挙しません)。 チェーン上に置かない会社が止まり信号です。
 
 ## レイヤー1 — 業務ライセンスの確認
 
@@ -44,7 +44,7 @@
 
 1. 実際の**メーカーを識別し、有効なCCCでMIIT発表にあることを確認します。
 2. 売り手がトレーダーである場合,**承認文書** 資格のある輸出業者/メーカーをパートナーにリンクします.
-3. **逆検証**:可能であれば、OEM/修飾されたエンティティティティティティティティティティティに戻って承認を確認します。 OEM tier- 1/tier-2 認可規則は内部で未公開なので、紙の証明書だけでは不十分です。発行するパーティーでそれを確認するように依頼してください。
+3. **逆検証**:可能であれば、OEM/修飾されたエンティに戻って承認を確認します。 OEM tier- 1/tier-2 認可規則は内部で未公開なので、紙の証明書だけでは不十分です。発行するパーティーでそれを確認するように依頼してください。
 4.
 
 ## レイヤー3 — 運用現実(工場、税関履歴、クレジット)
@@ -60,11 +60,11 @@
 
 - 業務ライセンス、契約、形式上の請求書、輸出宣言機関、**銀行受益者名を通した法的名にマッチする。
 - 新しく検証が必要なハイリスクイベントとして、姉妹/香港/海外口座を使用して、直前に「使用して」変更を処理します。メールのみの変更に基づいて資金をリダイレクトすることはありません。
-- リスクに合った支払い機器(T/T対L/Cガイド参照)。未確認のエンティティティティティティティティティティティへの全額前払いを避けてください。
+- リスクに合った支払い機器(T/T対L/Cガイド参照)。未確認のエンティへの全額前払いを避けてください。
 
 ## AutoBridgeがビジネスライセンスのスクリーンショットを超えて追加する
 ライセンススキャンは、*your*車両をエクスポートすることができない企業が存在していることを証明しています。 このガイドは、*current-year MOFCOM 認定リストに対するカウンターパーティーをチェックすることを推奨します** (2026 未満のアプリケーション 商办贸函 〔 2025 〕 408 号; ジョイントの発表番号の2026-01-01からピュアEV旅客ライセンス 54)、 **ブランド認証チェーンをOEM**に再構築し、  and  runs a **contract/invoice/bank-account name match** before deposit — the three checks that distinguish an authorised exporter from a trading shell.
-## A Practical Eight-Step Sequence
+## 実務的な8ステップの手順
 
 1. 独立してgsxtビジネスライセンスレコードを引き出します。
 2. 実際のメーカーのMIIT-announcement + CCCステータスを確認します。
@@ -117,19 +117,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## ソースと検証
+## Sources & Verification
 
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 自動車・モーターサイクルの輸出注文をさらに調整する | MOFCOM ら. (ファイブミニストリーズ、公式T1) | CN の | 以下は、 https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 検証済み | MIIT発表+CCC輸出資格ベース |
-| 2024 Announcement No. 6(中古車輸出企業条件) | MOFCOM(公式T1) | CN の | 以下は、 https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 検証済み | 中古車輸出業者 |
-| 中国サプライヤーのビジネスライセンス認証を確認する方法 | グッドカン取引 (業界 、gsxt.gov.cn へのポイント) |  CN  の | 以下は 、 | 2026-09-02 |  CROSS  |  CHECKED  (クロス) | gsxt 検証フィールド | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/
-| 中国工場の認証方法は正当化 | プルトニアグローバル・ロジスティクス | CN/グローバル | 以下は、 https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED(クロス) | 口座名一貫性、工場監査 |
-| 中国自動車輸出サプライヤーを確認する8-stepガイド | huajiame (工業) | CN の | 以下は、 https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED(クロス) | レイヤ監査フレームワーク、AEO |
-| 車両輸出調達ノート | (顺企网の企業) | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | ライブビデオ監査最小限、宣言クロスチェック | https://m.11467.com/blog/d18906274.htm 11467
-| 国内トラック輸出手順 | 広州Pujiangの貿易(11467) | CN の | 以下は、 https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED(クロス) | 認定機関、認可チェーンによるエクスポート |
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-*Confidenceのノート(AutoBridgeの標準): 資格規則は、現在2026の申請通知(商办贸函 〔 2025 〕 408 号)および共同発表番号を含む主要なMOFCOM MIITソース(検証済み)に残ります。 純粋なEV乗客の輸出ライセンスの54。 現年有効なリストとAEOクエリは動的であり、ライブをチェックアウトする必要があります。 業務チェックリスト項目は業界を調達し、公式システムに戻って位置付けられます。 ふりがな
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

@@ -65,7 +65,7 @@ WMI的首个角色由授权机构分配. 本指南确实********坚持"中国车
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——中国VIN和GB16735下的名牌,车辆-出口采购指南
 - **法国**: Référence AutoBridge pour acheteurs export——中国VIN和GB 16735下的名牌,汽车出口指南
@@ -80,17 +80,17 @@ WMI的首个角色由授权机构分配. 本指南确实********坚持"中国车
 - AR**: 国家 – 自动桥  – 中文VIN和名牌在GB 16735, دليل + + + + + + 下.
   - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 16735-2019 维基百科中的相关条目: 维基百科 公路车辆——维也纳尼,标准文本PDF | SAC/TC114(国家汽车标准化) | 氯化萘 | https://203.83.237.36/upload/202108/10/202108101324047215.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 17-char 结构,标准文本 |
-| GB 16735-2019 标准状态页面 | SAMR 打开 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-04 | 已核实(小学) | 现状,取代2004 |
-| SAMR平台-GB16735-2019 细节 | 萨马 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 维基月球 | 2026-09-04 | 已核实(小学) | 标准状态 |
-| 公路机动车辆产品准入审查要求(强制性引文GB16735) | MIIT 官方PDF 数据 | 氯化萘 | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 强制性地位、一致性要求 |
-| VIN段解释 | 太平洋自动 | 氯化萘 | http://m.pcauto.com.cn/x/5100/51002243.html 维基月球 | 2026-09-04 | 资源 | 职位级解释员 |
-* 封条:"中国WMI开头是L some H"是UNVRIFIED,没有声明为事实;WMI-前置制造商映射和目的地VIN格式已超出范围. * 报告迟交是因为需要翻译。
+| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
+| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
+| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
+| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | single source | Position-level explainer |
+*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
 
-| 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) (中文(简体)). | 百科(国标条文载体) (中文(简体)). | 氯化萘 | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 维基月球 | 2026-09-04 | 资源 | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) 维基百科中的相关条目: 维基语录链接:名人名言 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类 - 分类词 - 分类 - 分类词 - 分类 - 分类词 - 分类词 - 分类词 - 分类 - 分类 - 分类词 - 分类 - 分类词 - 分类 - 分类语 - 分类 - 分类语 - 分类 - 分类 分类 - 分类 - 分类 分类 - 分类 分类 - 分类 - 分类 分类 - 分类 分类 - 分类 |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | single source | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

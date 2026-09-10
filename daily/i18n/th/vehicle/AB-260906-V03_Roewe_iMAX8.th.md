@@ -75,15 +75,15 @@ PAUL iMAX8 ใช้เครื่องเร่งอนุภาค 2.0-litr
 
 ไม่มีเวอร์ชัน RHD มีหลักฐานจากแหล่งตลาดจีนที่ใช้ที่นี่
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 荣威 iMAX8 官方车型页 (车型官方身份; 官网动态渲染尺寸未取到 尺寸以数据库为准  )  )  )  ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | 荣威汽车官网 | จีน | T1 | เปิดใช้งาน | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
-| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科 (今日头条镜像). | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
-| iMAX8 座位 (5016 × 1909 x 1788, WB3000, 7 座) (พ.ศ. | 58汽车 | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://car.58.com/x/4112/ | 尺寸, 座位  |
-| iMAX8 20A4E 发动机 (234Ps) 与配置 (พ.ศ. | 太平洋汽车百科 | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
-| ภาษาซาติกName อย่างเป็นทางการของมอเตอร์ (ผู้ถือแบรนด์ Roewe) | มอเตอร์แบบ SAIC | CN | T1 | เปิดใช้งาน | https://www.saicmotor.com/e/ | เอกลักษณ์ — บิดา มารดา; โรวี เป็น ยี่ห้อ เอส เอ ไอ เอ |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | เอกลักษณ์ — พิสูจน์ ว่า ชาว จีน มี ลักษณะ เหมือน ชาว จีน |
+| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | primary | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
+| iMAX8尺寸/座位（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | media/industry | single source | https://car.58.com/x/4112/ | 尺寸, 座位  |
+| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
+| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | primary | VERIFIED | https://www.saicmotor.com/e/ | identity — OEM parent corporate; Roewe is SAIC brand |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant and seat count by announcement |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

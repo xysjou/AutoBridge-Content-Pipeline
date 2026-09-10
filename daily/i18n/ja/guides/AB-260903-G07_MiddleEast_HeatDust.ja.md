@@ -79,18 +79,18 @@ Two evidence layers are kept separate. **適合性トラックは、プライマ
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GCCハイテン/業界車適応アップフィット | | ガルフ | 以下は、 | 2026-09-03 | シングル_ソース | 気候範囲; ICE candidate adaptation points (one source) | https://m.11467.com/product/d15654879.htm
-| 全クライメートNEV(高一時液体冷却/低一時自熱) | 中国/中国/Toutiao の工学 | 営業拠点 | 担当: http://m.toutiao.com/group/6868212100762698247/ の | 2026-09-03 | シングル_ソース | 液体対空気熱管理ディスカッション(ソース) |
-| バッテリー高/低温性能(−30〜55対象) | D1EV トゥーティアオ | CN の | 担当: http://m.toutiao.com/group/6396788247036428802/ の | 2026-09-03 | シングル_ソース | − 30〜55 °C 政策設計目標(一元) |
-| 2026 Jeddah auto-parts fair (heat/dust parts, ビーエムス) | ソーフ | サイゴン | 以下は 、 https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ |  GCC  compliance note (one source) |
-*証拠の天井:すべての適応事実は、単一のソース(すべてのSINGLE_SOURCE)に残ります。 GSO第一次標準またはOEMエンジニアリング仕様はキャプチャされていません。 アイテムは、OEM/upfitterの評価ポイントとしてフレーム化され、ユニバーサル湾岸要件ではありません。法的しきい値や必須構成は主張されていません。 ふりがな
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| GCCモーター車載技術規則リスト | GCC標準化機構(GSO) | ギクシー | 以下は、 https://www.gso.org.sa/ は、 | 2026-09-05 | 検証済み | GCC-wide車両技術規則、気候・排出時間を含む(国別適用) |
-| サウジアラビア規格および適合性(SASO/Saleem) | サウジアラビア規格、メトロロジー、品質 Org(SASO) | スタッフ | 以下は、 https://www.saso.gov.sa/en/Pages/default.aspx のファイル | 2026-09-05 | 検証済み | サウジアラビア固有の基準と適合範囲 |
-| 規制製品(車・部品を含む) | の発行適合証明書 | UAE 産業技術省(MoIAT) | UAE UAE | 以下は | の一覧 | 2026-09-05 | 検証済み | UAE 固有の適合ルート GCC | ユニフォーム | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

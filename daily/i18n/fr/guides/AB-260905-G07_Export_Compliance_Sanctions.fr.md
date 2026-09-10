@@ -55,17 +55,17 @@ Ce guide ne dresse pas la liste des entités sanctionnées (elles changent) et n
 **Qui est-ce que je passe à l'écran?** Acheteur, destinataire et autres parties concernées, à la réception et à nouveau avant l'expédition.
 **Et s'il y a un succès?** Escalade et ne pas procéder; une partie refusée ne doit pas être signifiée.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | NC | T1 | VÉRIFIER | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可, ADM/ 恐怖主义 军事用途 |
-| Ministère du commerce (MOFCOM) | MOFCOM 商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/ | autorité compétente pour l'octroi des licences d'exportation et le contrôle des exportations |
-| Règlement (UE) — Régime de contrôle des exportations à double usage de l'UE | Union européenne (EUR-Lex) | UE | T1/T2 | VÉRIFIER | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Exemple de régime de contrôle à double usage et de contrôle à l'usage restreint/à l'usage final applicable à la conception du dépistage | 2021/821
-| Liste des entités de la BRI des États-Unis — exemple de contrôle par des parties restreintes | Bureau américain de l'industrie et de la sécurité (BIS) | États-Unis | T1/T2 | VÉRIFIER | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Liste publique des personnes à responsabilité limitée illustrant le dépistage de l'entité refusée avant l'expédition |
-| US OFAC SDN Liste — contrôle des sanctions | Bureau américain du contrôle des avoirs étrangers (OFAC) | États-Unis | T1/T2 | VÉRIFIER | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Spécialement désigné Liste des nationaux comme source de données de contrôle des sanctions; liste noire propre à chaque juridiction et non mondiale |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

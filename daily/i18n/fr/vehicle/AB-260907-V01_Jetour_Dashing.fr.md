@@ -26,9 +26,9 @@ L'empattement est constant, mais la longueur et la hauteur se déplacent légèr
 
 | Groupe motopropulseur | Référence du marché chinois | Boîte de vitesses | Année modèle | Confiance |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed double embrayage humide | 2024 | SINGLE_SOURCE — Confirmation par VIN/OEM|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed double embrayage humide | 2024 | single source — Confirmation par VIN/OEM|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed double embrayage humide | Ligne transcendant | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed double embrayage humide | 2025 | SINGLE_SOURCE — Confirmation par VIN/OEM|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed double embrayage humide | 2025 | single source — Confirmation par VIN/OEM|
 
 Le piège de nommage est réel: les 2024 ** 1.5T ** et les 2025 ** 1.5TD ** sont des calibrations différentes avec différentes sorties et différentes transmissions (6DCT contre 7DCT), malgré le badge similaire. Le ** 1.6T ** est le plus fort des trois et le meilleur soutenu par deux sources indépendantes. Un ordre qui nomme « 1.5 Dashing » pourrait résoudre à l'un ou l'autre des deux wagons, donc écrivez la désignation complète du moteur, l'année et la transmission dans le proforma. Les sorties précises des lignes 1.5T et 1.5TD à source unique doivent être fermées sur la feuille de configuration officielle Jetour ou sur la saisie d'homologation MIIT exacte avant le paiement d'un dépôt.
 
@@ -74,19 +74,19 @@ Les voitures de référence du marché chinois sont à propulsion avant.
 
 Pas de RHD La version du marché chinois est établie ici; l'admissibilité au RHD nécessite des preuves distinctes de l'OEM, et les spécifications d'exportation ne doivent pas être déduites de la ligne chinoise.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-08
-- **Marché de référence**: CHINE(中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 UGS 终核)
+- **Marché de référence**: CHINE(China-market reference; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 UGS final confirmation)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les éléments sensibles au temps (lignes de tri, prix de référence nationaux) et les sorties à source unique doivent être reconfirmés sur la feuille de configuration d'OEM ou sur l'entrée MIIT avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

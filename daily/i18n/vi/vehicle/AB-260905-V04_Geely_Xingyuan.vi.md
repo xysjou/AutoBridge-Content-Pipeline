@@ -29,21 +29,21 @@
 |---|---|---|---|---|---|
 | Chiều dài | 4135 1805 1570 (Lương số 限定版车长 4155) | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐双页 |
 | bánh xe cơ sở | 2650 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐 + 腾讯 |
-| Ghế ngồi | 5门5座 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| bố trí | 后置后驱 | - | TRUNG QUỐC | SINGLE_SOURCE | 腾讯新闻 |
-| Tùy chọn nguồn điện máy | 58 85 | kW | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
-| kiểu ắc quy | 磷酸铁锂 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
-| dung lượng pin 410 | 40.16 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
+| Ghế ngồi | 5门5座 | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| bố trí | 后置后驱 | - | TRUNG QUỐC | single source | 腾讯新闻 |
+| Tùy chọn nguồn điện máy | 58 85 | kW | TRUNG QUỐC | single source | 搜狐汽车 |
+| kiểu ắc quy | 磷酸铁锂 | - | TRUNG QUỐC | single source | 搜狐汽车 |
+| dung lượng pin 410 | 40.16 | k Wh | TRUNG QUỐC | single source | 搜狐汽车 |
 | phạm vi cltc | 310 410 | km | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐 + 腾讯 |
-| khối lượng hàng hóa | 375 (前备厢 70), 后排放倒 1320} | L | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| Nền | GEA 纯电架构 | - | TRUNG QUỐC | SINGLE_SOURCE | 腾讯新闻 |
+| khối lượng hàng hóa | 375 (前备厢 70), 后排放倒 1320} | L | TRUNG QUỐC | single source | 搜狐车型库 |
+| Nền | GEA 纯电架构 | - | TRUNG QUỐC | single source | 腾讯新闻 |
 
 ## logic xuất khẩu nhỏ-EV: ắc quy, chu kỳ và vận chuyển
 Thành phố EV thường bị nhầm lẫn bởi việc sử dụng một số phạm vi cho hai dòng động cơ/battery. Trên hệ thống Xenguan, hai động cơ (58 hoặc 85 kW) với phạm vi khớp với ắc quy và CLTC mỗi thứ tự, và chuyển sang chu kỳ thử nghiệm đích thay vì tái nhãn CLTC. Là một ắc quy li-li-on EV, hàng hóa biển theo sau sự phân loại IMDG hiện nay cho các phương tiện giao thông có điện pin (UN3556 cho phương tiện còn nguyên) - xem hướng dẫn vận chuyển. Nguồn pin và nguồn điện cao nhất vẫn chưa được xác nhận.
 
 ## Cửa hàng ngoài biển xác nhận trước khi thanh toán
 1. Khớp tùy chọn vận động với ắc quy và LTC; lấy đường dây xây dựng VIN.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. Quy đổi 310/410 km CLTC sang chu trình kiểm định của thị trường đích.
 3. Xác nhận nạp kết nối/protocol và Bộ xử lý và AC/DC (không ghi lại được DC).
 4. Xác nhận đồng nhất EV, hồ sơ pin và UN38.3/IMDG giấy tờ chuyển tới cho người chuyển tiếp.
 5. Yêu cầu một lời trích dẫn xuất khẩu hiện thời; không có giá xuất khẩu được xuất bản.
@@ -55,15 +55,15 @@ Sao không có hình ảnh năng lượng? Nó không được lấy từ đâu 
 410 km WLPP hả? Không.
 Làm sao nó có thể vận chuyển được? Như một ắc quy li-li-on nguyên vẹn dưới lớp IMDG hiện nay (UN3556); xác nhận với nhà sản xuất.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ĐÃ_ ĐÃ | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机. 电池. 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | ĐÃ_ ĐÃ | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距. 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | ĐÃ_ ĐÃ | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Trang web toàn cầu có quy củ | Nhóm tự động có tin kỳ diệu 吉利 (OEM) | CN | T1 | VEII | https://global.geely.com/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

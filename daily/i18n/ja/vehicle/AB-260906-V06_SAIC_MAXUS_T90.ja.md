@@ -68,16 +68,16 @@ Two-wheel drive, パートタイム 4WD  and  オンデマンドの理性的な4
 
 いいえ。中国市場ディーゼルのみ。EVは異なる仕様と出荷ルールを持つ別々の製品です。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际 T90 柴油 （ 上汽 π 双涡轮 2.0T 160kW / 500N·m 、 采埃孚 8AT 、 拖拽 3.5t ） | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力 、 8AT 、 拖拽 |
-| 星际 T90 标 / 长轴尺寸 (标轴 5365 × 1960 × 1845 WB3155 货箱 1485); 长轴 5680 WB3470 货箱 1800 | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸 、 货箱 、 轴距 |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 (非承载、接近角/离去角) | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身、通过角  |
-| マックスス T90 グローバル公式 ディール 160kW / 500Nm 、 牽引 — エクスポートスコープ | サイクマックス 営業拠点 | エクスポーター | T1 | 検証済み | https://en.saicmaxus.com/car/t90.shtml | アイデンティティ | グローバル / エクスポート スペック 中国市場 星际 T90 値と同等にならない |
-| 上汽大通  MAXUS  T90 中国官方 (配置 / 价格) の | サイクマックス 中国の中国 |  CN  の | T1 | 検証済み | https://www.maxusmall.com/T90.shtml | engine_diesel — 中国市場公式設定と国内参考価格 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — 同梱されている検証 中国ピックアップのバリエーション |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

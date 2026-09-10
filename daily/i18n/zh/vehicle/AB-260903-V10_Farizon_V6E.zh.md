@@ -1,10 +1,10 @@
 # Farizon Xingxiang V6E Electric Cargo Van: 电池年锁, 6立方米装弹湾  and  a 已记录的Türkiye导出
 ## SEO元数据
-- **SEO标题**: 法利宗 V6E (英语). 电货范斯佩克和出口买方说明
+- **SEO标题**: 法利宗 V6E  电货范斯佩克和出口买方说明
 - **Meta描述**: 中市法利宗(吉利) 兴祥V6E型电力货运机车 — 60 kW/220 N·m motor,, 6立方米,货运量 35.2 kWh/260 km 基地对较新的51 kWh 建造, 90 km/h 限额,  and  记录的EU - 斯皮克·蒂尔基耶(Türkiye)运输。
 - **H1**: 法利宗兴祥V6E (中文(中国大陆)):电货范氏谱与出口核查
 - **核心关键词**: 法利宗 v6e型电力货运车规格
-- **次级搜索词**: 兴祥V6E范围, 法利宗电动快递车, 6m3型电力机车, V6E 35.2 kWh, (英语). 法里宗·蒂尔基耶出口, 电动城市后勤车
+- **次级搜索词**: 兴祥V6E范围, 法利宗电动快递车, 6m3型电力机车, V6E 35.2 kWh,  法里宗·蒂尔基耶出口, 电动城市后勤车
 - **建议URL**: /vehicles/farizon-xingxiang-v6e-specs/
 - **搜索意图**: 了解法利宗兴祥V6E(中马):电货范氏标本与出口核查:车辆/零件出口商在承诺下订单前必须核实,记录和决定什么.
 - **内链建议**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
@@ -16,7 +16,7 @@
 兴安V6E是法利宗(吉利的商用车辆品牌)**电池电动城运货车**. 单一最大的光谱风险是模型年:基建使用**35.2 kWh**包,而**新造使用约51 kWh**,范围也相应改变. 只有 " V6E " 的定购单也可以填写。 本页面涵盖**中国市场V6E(reFERENCE MARKET: CHINA)**,并保持基座和较新建筑的分离.
 
 ## 驱动线和货运(电力车重点)
-| 项目 | V6E 维基月球 中国参考 |
+| 项目 | V6E  中国参考 |
 |---|---|
 | 汽车 | 沃尔贡-ZF ** TZ185XS022 ** 永久磁铁 ** 60 kW 220 N·m ** |
 | 最高速度 | ** 90 km/h(电子限制)** 报告迟交是因为需要翻译。 |
@@ -79,19 +79,19 @@ China Transport News (an industry news outlet) 报告 **February 2024 第一批�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| V6E 0–50/speed 限制) | | 氯化萘 | http://m.toutiao.com/group/7064810099012895240/ 维基月球 | 2026-09-03 | 横跨 | 60 kW 220 N·m,90 km/h 限值,叶子弹簧轴 |
-| V6E 欧盟出口到Türkiye(6立方米) | 中国交通 新闻(工业新闻媒体) | 氯化萘介质(出口记录:TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html 维基月球 | 2026-09-03 | 横跨 | Feb-2024 EU-spec Türkiye batch,  6 m³ (news record, 不可证实) |
-| 轻型商业报告(35.2 kWh/260 km/6立方米) | 苏虎自动 | 氯化萘 | https://m.sohu.com/a/931378694_121823499/ 维基月球 | 2026-09-03 | 横跨 | |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
+| V6E reveal (motor/0–50/speed limit) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW/220 N·m, 90 km/h limit, leaf-spring axle |
+| V6E EU-spec export to Türkiye (6 m³) | China Transport News (industry news media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb-2024 EU-spec Türkiye batch, 6 m³ (news record, not OEM/government; not VERIFIED) |
+| Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Base battery/range, cargo volume |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* 说明:Türkiye出口记录是CROSS_CHECKED工业新闻报道(新闻/工业媒体不是VIFIED——只有OEM/政府/监管者/标准/正式技术文件到达VIFIED);严格地作为交货记录,而不是模型化的证明。 基座马达/距离经过交叉检查;较新的51 kWh型建筑具有时间敏感性. 中国GB/T和欧盟的规格建筑按MODEL 保持独特性_ ALIAS/资源公司规则。 * 报告迟交是因为需要翻译。
+*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

@@ -39,9 +39,9 @@ The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. قاعدة بيانات الاسم (3070/3510/3750) للشحن  and  محرك على النظام
-2. Obtain GVW/kerb mass and the full motormelPOPS from Foton OEM/homologation.
+2. احصل على الكتلة الإجمالية GVW/الكتلة الفارغة ومجموعة معاملات مجموعة الحركة الكاملة من Foton OEM أو ملف الاعتماد.
 3. معالجة عمليات التحويل من المشاريع كمشاريع منفصلة للمنافع.
-4. Confirm diesel emission/fuel and (for road routes to Central Asia) TIR suitability separately.
+4. تأكد من انبعاثات/وقود الديزل، وبالنسبة للطرق البرية نحو آسيا الوسطى، تحقق من ملاءمة TIR بشكل منفصل.
 5. طلب اقتباس التصدير الحالي؛ ولا ينشر أي منها.
 
 ## FAQ
@@ -51,16 +51,16 @@ The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light
 ** ما هي قاعدة العجلات لباص صغير؟** اختر من 3070/3510/3750 ملم بالتصميم.
 ** أين أرقام GVW؟** لم يُقبض عليه بشكل موثوق، بل يُحصل على الحرق.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条（仅线索，T4不作关键事实唯一依据） | 抖音百科 | CN | T4 | صرخات | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | صرخات | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | صرخات | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | CN | T3 | صرخات | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装، 非原厂 VAN 参数 |
-| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

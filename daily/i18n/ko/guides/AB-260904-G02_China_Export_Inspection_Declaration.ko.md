@@ -74,17 +74,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 법률 기반 지수 - 수입 수출 필수 검사 법 및 규정 | 중국 세관의 일반 관리 (GACC) | 담당자: Mr. wang | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html 대한 자세한 정보 | 2026-09-05 | VERIFIED (기본; 브라우저에서 열리고, 자동화된 fetch 차단) | 현재 검사법(2021 개정)을 지명하고, 구조 통계 검사를 실행하는 규칙; 정확한 통계 카탈로그 입력은 10-digit HS 당 아직도 검사됩니다 |
-| 수출 상품의 선언에 대한 세관 규정 (GACC 주문 번호 277, 힘 2025-05-01) | 중국 세관의 일반 관리 (GACC), 통해 | 담당자: Mr. wang | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 대한 자세한 정보 | 2026-09-05 | 인증 (기본) | 수출 선언을 위한 현재 법적인 구조; 특정한 10-digit HS 선이 statutorily 검열되는지 여부는 아직도 HS-by-HS를 검사합니다 |
-디아블로그 | 디아블로그 담당자: Mr. 광 | https://online.custom.gov.cn/static/page/guides/000629010001/000629010001.html | 2026-09-04 | 인증현황 | 카탈로그절차 |
-| GACC Notice 2024 No. 163 (전도 무작위 검사; 수출 = 어린이 장난감) | 디아블로그 | 담당자: Mr. wang | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf 요청합니다. | 2026-09-04 | 인증 (기본) | 무작위 검사 범위 |
-| GACC 주문 번호 277, 선언 조항 | 주위원회 가젯 | 담당자: Mr. wang | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | docs, 서명 책임 |
-| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, 2026-01-01에서) | MOFCOM의 특징 | 담당자: Mr. wang | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html 대한 자세한 정보 | 2026-09-04 | TIME_SENSITIVE (기본) | Licence 대 검사 구별 |
-| GACC 공지 2025호 138호 (선정신청 최적화) | 세관 출시 (repost) | 담당자: Mr. wang | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE(싱글) | Process 최적화 |
-*Evidence 범위: 기본 소스에서 확인 된 프레임 워크; the catalogue result for any specific ten-digit code must be checked live  and  일반화되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

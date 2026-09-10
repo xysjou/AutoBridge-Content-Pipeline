@@ -43,17 +43,17 @@
 ~ฉันตรวจสอบใคร? ~ บายมอร์, จัดส่ง, และปาร์ตี้อื่นๆ ที่เกี่ยวข้อง, ที่ร้าน, ก่อนส่งของ
 ถ้าโดนชนล่ะ หนี และ ไม่ ดําเนิน การ; คน ที่ ไม่ ยอม รับ ต้อง ไม่ รับ ใช้.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例 (792  ) พ ศ ศ ศ ศ ศ ศ 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 号     号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第 国务院令第  เอ็กซ์ | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部 、 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不). | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 管控关注名单不予许可 (พ.ศ. WMD/ 恐怖主义 军事用途 | | | | | | | | | (军事用户)
-| กระทรวงพาณิชย์ (MOFCOM) | MAFOML 商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/ | อํานาจที่มีประสิทธิภาพในการส่งออกการเหาและการควบคุมการส่งออก |
-| Retrieved (EU) — ระบบควบคุมการส่งออกคู่ของ EU | สหภาพยุโรป (EUR-Lex) | อียู | T1/T2 | เปิดใช้งาน | https://eur-lex.europa.eu/eli/reg/2021/821/oj | ตัวอย่างของระบบควบคุมการควบคู่ เกี่ยวข้องกับการออกแบบการคัดกรอง | 2021/821
-| รายการความจุสุข US — ตัวอย่างการคัดเลือกแบบจํากัด | สํานักงานอุตสาหกรรมและความปลอดภัยของสหรัฐ (BIS) | ขนาด US | T1/T2 | เปิดใช้งาน | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | รายการที่ห้ามใช้ร่วมสาธารณะ |
-| สหรัฐอเมริกา รายการ — การ ลง คะแนน เสียง | US Office of Angeles Controlments (OFAC) | ขนาด US | T1/T2 | เปิดใช้งาน | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | ออกแบบพิเศษ รายชื่อชาติเป็นแหล่งข้อมูลการวางจําหน่าย; ขi languages อ อ อ ต เ เ เ เ เ เ ต ต ต ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง 77/97/48/838/30/0.3. 2013/i.870kias lotmesiggegegeg ( 55) 5 พ, p.ep.65383870 ม พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ. – – อ28093856 – – – – – – – – – – – – – – – – – – – – – – – – – – หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม หม่อม อม หม่อม อม หม่อม อม หม่อม อม หม่อม อม หม่อม อม หม่อม อม อม หม่อม อม หม่อม อม อม อม อม อม อม หม่ อม หม่ อม อม อม อม ษ ภิ ษ ษ ษ ษ ษ ษ ษ ษ ภิ ษ ษ ษ ษ ษ ศักดิ์ ษ ภิ ษ ษ ภิ ษ ภิ ษ ภิ ภิ ภิ ษ ภิ ภิ ภิ ษ ษ ภิ ภิ ษ ภิ ภิ ศักดิ์ ศักดิ์ ศักดิ์ ศักดิ์ 
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

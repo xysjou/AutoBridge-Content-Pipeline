@@ -59,7 +59,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Statutory inspection before vehicle export, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Statutory inspection before vehicle export, guide d’achat à l’export automobile
@@ -74,17 +74,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 法律依据指数——进出口商品检验法和执行条例 | 中国海关总署(海关总署) | 氯化萘 | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html 维基月球 | 2026-09-05 | VRIFIED(主页; 在浏览器中打开, 自动获取被封) | 说明现行《检查法》(2021修正案)和实施条例,规定法定检查;仍按10-digit个高低安全标准检查确切的法定检查目录条目 |
-| 《海关进出口货物申报条例》(海关总署第277号令,2025-05-01生效) | | 氯化萘 | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 维基月球 | 2026-09-05 | 已核实(小学) | 出口申报的现行法律框架; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
-| 互联网+客户服务指南(法定检查=目录/法定货物) | 反腐败委员会 | 氯化萘 | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html 维基月球 | 2026-09-04 | 已核实(小学) | 目录决定规则 |
-| GACC 第2024号通知,第163号(目录外随机检查;出口=儿童玩具) | 反腐败委员会 | 氯化萘 | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 随机检查范围 |
-| GACC第277号命令,声明条款 | 国务院公报/gov.cn | 氯化萘 | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 维基月球 | 2026-09-04 | 已核实(小学) | 伴随文件,签名责任 |
-| 关于BEV客车出口许可证的四部委公告(参考8703801090,2026-01-01) | 财政部 | 氯化萘 | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html 维基月球 | 2026-09-04 | 时间(_S) | 许可证与检查区别 |
-| GACC Notice 2025 No.138 (pre-declaration application optimization) | 海关放行(退职) | 氯化萘 | http://m.toutiao.com/group/7520602188638159398/ 维基月球 | 2026-09-04 | 资源 | 进程优化 |
-* 证据范围:框架由主要来源核实;任何具体十位数代码的目录结果必须进行现场检查,而不是通用。 * 报告迟交是因为需要翻译。
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

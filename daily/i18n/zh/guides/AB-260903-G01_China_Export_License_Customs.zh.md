@@ -84,17 +84,17 @@ MIIT 命令号 50 道路机动车辆制造商的分离  and  products into **six
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 维基月球 汽车和摩托车 提交通知的出口许可证 | 商务部(MOFCOM) | 氯化萘(出口方) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html 维基月球 | 2026-09-03 | 实录 | 每年提交;符合要求的业绩证据 |
-| 关于进一步加强废旧汽车出口管理的通知. | 国务院政策图书馆(四个部) | 氯化萘(出口方) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm 维基月球 | 2026-09-03 | 实录 | 废车许可制度;2026-01-01规则180-day |
-| BEV 客车出口许可证管理 | | 氯化萘(出口方) | http://m.toutiao.com/group/7554336546682323496/ 维基月球 | 2026-09-03 | 时间(_S) | BEV 许可证轨迹,参考HS |
-| MIIT 第50号命令——制造商和产品录用 | 工业和信息技术部 | 氯化萘(出口方) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html 维基月球 | 2026-09-03 | 实录 | Six admission categories; 文件链基础 |
-*范围说明:这里的官方来源只涵盖中国出口方. 必须根据现行关税通知和财政部通知,确认明确的统一制度编码、系统操作细节和任何年度修订;目的地-侧规则已超出范围。 * 报告迟交是因为需要翻译。
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
+*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理, 2026-01-01 施行; 参考 HS 8703801090))                               | 商务部官方公告m | 氯化萘 | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html 维基月球 | 2026-09-04 | 实录 |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 “乘用车”) (中文(简体)). | MOFCOM 外贸部(wms) | 氯化萘 | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html 维基月球 | 2026-09-04 | 实录 |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

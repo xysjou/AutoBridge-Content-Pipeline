@@ -24,9 +24,9 @@ El Prefacio Geely (nombre chino Xingrui) es el sedán de cuatro puertas de tama�
 
 | Tema | Valor de referencia del mercado chino | Mercado MI Trim | Confianza |
 |---|---|---|---|
-| 1.5T gasolina | 133 kW (181 PS) 290 N·m, 7-speed de doble embrague húmedo | CHINA · 1.5T trims · single-source, confirmada por VIN | SINGLE_SOURCE |
-| 2.0T (calibración más antigua) | 175 kW (238 PS) 350 N·m, 8-speed automático, WLTC combinado ♥ 7.15 L 100km | CHINA · más viejo/Jinchao-era 2.0T · un solo recurso | SINGLE_SOURCE |
-| 2.0T (calibración de la novedad) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · un solo recurso, confirme | SINGLE_SOURCE |
+| 1.5T gasolina | 133 kW (181 PS) 290 N·m, 7-speed de doble embrague húmedo | CHINA · 1.5T trims · single-source, confirmada por VIN | single source |
+| 2.0T (calibración más antigua) | 175 kW (238 PS) 350 N·m, 8-speed automático, WLTC combinado ♥ 7.15 L 100km | CHINA · más viejo/Jinchao-era 2.0T · un solo recurso | single source |
+| 2.0T (calibración de la novedad) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · un solo recurso, confirme | single source |
 
 Los dos 2.0T productos no son un conflicto de datos para resolver al elegir uno: pertenecen a diferentes calibraciones de modelo-año. Una cita de exportación que nombra 'un Prefacio 2.0T ' sin el año y el borde exacto es ambiguo. Los materiales regionales de Geely en el Oriente Medio muestran un entrenamiento de energía prefabricado de mercado de exportación (por ejemplo, una construcción regional de 2.0TD + 7DCT); bajo la disciplina de identidad modelo que la construcción regional se cita como referencia al mercado de exportación y es **not** tratados como idénticos a los chinos 175/200 kW trims without OEM confirmation.
 
@@ -77,20 +77,20 @@ No RHD versión es establecida por las fuentes del mercado chino aquí; RHD eleg
 
 No — el precio de la guía china es una referencia interna sensible al tiempo; solicite una cotización formal de exportación con Incoterm y destino.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T, DCT  |
-| 吉利星瑞官方车型页 (CMA 架构, 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) | 吉利汽车官网 | CHINA | T1 | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸 轴距 (4785 × 1869 × 1469, 轴距 2800) | 懂车帝车型参数页 | CHINA | T2 | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Preface debut en el extranjero (Arabia Saudita) — Noticias OEM | Geely Auto Global | EXPORT | T1 | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identidad — referencia al mercado de exportación solamente; el tren de energía del Oriente Medio difiere de los recortes de China |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identidad — verificar el modelo/variante exacto de China homologado por VIN/anuncio |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Revisión editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Documento revisado*: 2026-09-06**
-- **Mercamiento de referencia**: CHINA(中国市场参考规格; 出口 右舵版本无 OEM 证据, 须另证)
+- **Mercamiento de referencia**: CHINA(China-market reference specs; 出口 右舵版本无 OEM 证据, verify separately)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. Los artículos sensibles al tiempo (valoraciones, tarifas, listas, re-lineaciones de bordes, precios nacionales de referencia) deben ser reconfirmados en la página oficial actual antes de realizar la transacción.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

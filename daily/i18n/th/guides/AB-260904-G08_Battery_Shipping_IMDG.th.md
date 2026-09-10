@@ -80,16 +80,16 @@ A common pre-2026 practice was to book any battery-driven vehicle under **UN3171
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| เข้ารหัส ISDG 42-24 อย่างเป็นทางการ PDF | ประเทศจีนมาริไทม์ กรมรักษาความปลอดภัย | INTL/ CN CUCT | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | ISIFIE (เมษายน) | 42-24 MSC 556 (108) 2026-01-01, UN3556-3558, P912, รุ่น 9 (พ.ศ. ○
-○ ยู เอ็น ฟอร์ ลด์ ออฟ เคส ชัน แอนด์ ค ริ สติ อา (อังกฤษ) (อังกฤษ) (อังกฤษ) ค.ศ. 8 + excult 1), มาตรา 38.3 (SCETG- 66 InF. 30). | UNIE UNCMIME-UNCIMEIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII บทความ บทความ บทความ | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | ISIFIE (เมษายน) | Rev.8+Amd.1,  UN38.3 T.1–T.8, โซเดียม- ไอออน |
-| UN/SCETG- 64 INF 29 บัตรประจําตัวของลิเทียม-บาตินา 38.3 มาตราฐานแก้ไข | UNIE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | ISIFIE (เมษายน) | 38.3 การทําเครื่องหมายแก้ไข |
-| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US Govinfo (CFR) | ขนาด US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | ISIFIE (เมษายน) | UN3480/3481 (พ.ศ. อ้างอิงแบบ statuate UN38.3 |
-| IMDG 42-24 การตีความ (MSC 556 (108) วันที่มีผล) | จีนมาริไทม์ (restep) | INTL/ CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | ROOS_ CHCKED (สนับสนุน) | การแปลผลการแปลผล |
-| UN3556 SP405 การแปลความหมายแบบย่อ (ค.ศ. | ข่าวของจิปาอิ (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_ UNV (รองรับ) | ทําเครื่องหมาย SP405 ตัว |
-*บันทึกการเปิดเผย: จําแนกประเภทหลัก เชื่อมโยงไปถึง MSA (IMDG 42-24) และยูเอ็นซีเอ (Repal Real March 8+Amd.1, 49 CFR) แหล่งที่มาหลัก; ข้อมูล หน้ากระดาษ รองรับเท่านั้น และไม่ใช่หลักฐานหลักสําหรับหมายเลขสหประชาชาติ หรือ UN38.3. ค่า SOC ที่คงที่ยังคงถูกปิดกั้น *
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

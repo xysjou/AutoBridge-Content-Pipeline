@@ -43,7 +43,7 @@ Thích nghi không thay thế quyền truy cập thị trường: phương tiệ
 1. Phong bì hoạt động ** (vách ngoài trời, độ ẩm, bụi) để đi.
 2. **Người tử tế** — làm mát, máy tạo thay đổi/battery, AC, khai thác đánh giá, lọc — như những câu hỏi được chứng minh bởi dữ liệu nhiệt độ của mô hình, không phải là những nâng cấp giả định.
 3. **V** - yêu cầu sự so sánh nhiệt-điều hành và chiến lược BMS nóng lạnh; đánh giá cách làm mát trên bằng chứng thay vì một quy tắc chăn.
-4. **Dust restave** for communicationers/sens/ADAS and a old- tenence-tenance.
+4. **Bảo dưỡng chống bụi** cho bộ truyền thông/cảm biến/ADAS và chu kỳ bảo dưỡng định kỳ.
 5. **GCC/GSO phù hợp** cho bất cứ kết quả cấu hình nào, trích dẫn văn bản chuẩn GSO thực sự.
 
 ## Những câu hỏi thường xuyên
@@ -79,18 +79,18 @@ Tôi tìm thấy tiêu chuẩn chính xác của GSO là ở đâu? Bắt đầu
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Trình thích nghi cao cấp GCC/dust-vehcle-vehle | Trình cung cấp/pfit phân loại | Vịnh | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE_SOURCE | Phạm vi khí hậu; ứng cử viên ICE chấm (một nguồn) |
-| Tất cả các khí hậu NE (làm mát lỏng cao trong thời gian ngủ ít nóng tự động) | Kỹ sư ở Trung Quốc Tnotao | Toàn cục | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE_SOURCE | Chất lỏng chống lại cuộc thảo luận về nhiệt độ (một nguồn) |
-| Battery high/low-temperature performance (−30~55 target) | D1EV Tnotao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE_SOURCE | _ 30 đến 55 °C mục tiêu thiết kế chính sách (một nguồn) |
-| 2026 Công bằng các phần tự động Jeddah (phần nóng/ thô, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE_SOURCE | Thành phần nhiệt/dust; Ghi chú đồng bộ GCC (một nguồn) |
-Trần nhà: Mọi sự kiện thích nghi đều nằm trên một nguồn duy nhất (tất cả SINGLE_SOURCE); không có thông số kỹ thuật chính nào được ghi lại. Mục được đóng khung như điểm đánh giá cho tổ chức OEM/upfitter, chứ không phải các yêu cầu chung của Vịnh; không có ngưỡng pháp lý hoặc cấu hình bắt buộc. *
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| Danh sách các quy định kỹ thuật về vận động GCC | Tổ chức chuẩn GCC (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VEII | Hệ thống định vị phương tiện GCC quy định kỹ thuật, trongcl. Thời tiết/thời gian phát (các ứng dụng quốc gia khác nhau) |
-| Tiêu chuẩn và sự tuân theo của Xê - út (SASO Saleem) | Tiêu chuẩn Saudi, Hệ thống phân phối và Chất lượng. | Sa | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VEII | Phạm vi chuẩn mực và độ hài hòa của Saudi |
-| Gặp chứng nhận khớp cho sản phẩm đã được điều chỉnh (theo quy định. xe/ phần) | Bộ công nghệ cao và kỹ thuật Mô - thê (MoIT) Name | Mô tả | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VEII | Mô tả lộ trình phù hợp đặc trưng; mục nhiệt/dst xác nhận trên thị trường, không giả định GCC-uniform |
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

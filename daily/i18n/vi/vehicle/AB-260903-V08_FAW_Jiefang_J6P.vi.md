@@ -42,7 +42,7 @@ Các động cơ diesel Trung Quốc sử dụng EGR+DOC+DF+SCR và yêu cầu *
 2. **Dive cha trí và đánh giá GCW** trên chứng nhận, tỷ lệ trục và đình chỉ.
 3. **Gearbox model và AMT/manal**, casps and PTO need.
 4. **Fuel syel BKm/DPF** tương thích và được chấp thuận kiểu đích.
-5. **Fifth-craster/tister, LHD/RHD, ob elec, parts and  service** for Xachai in-tel; PSI of VIN/chine number before sele.
+5. **Bàn kéo/chuyển số, LHD/RHD, tùy chọn điện, phụ tùng và dịch vụ** cho động cơ Xichai; PSI kiểm tra VIN/số khung trước khi giao.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
 Không có giá xuất khẩu tĩnh và không có bệnh xơ rải rác Trung Quốc nào bị bắt; không có cái nào được phát minh ra. Cần có **Destination Country* Code* Drive Bố trí Máy**LHD/RHD* Chuyến bay # Incate**.
@@ -80,20 +80,20 @@ Có thể dùng loại xe máy kéo nào chạy được không? Nó cần dầu
   - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Mới J6P 460 (CA6DM2-46E6 2300 N·m) | Xe tải về nhà Toutao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | ĐÃ_ ĐÃ | Mô hình động cơ, năng lượng/cơ chế, Trung Quốc VI |
-| So sánh J6P (CA6DM2-46E61), 341 kW | Xe tải về nhà Toutao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | ĐÃ_ ĐÃ | 338–341 kW cross-check, bố trí ổ đĩa |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | Xe tải về nhà Toutao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE_SOURCE | 13 L 560 PS khoảng dài |
-| Jiefang J6 mẫu/dải năng lượng | Bách khoa toàn thư Douyin | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCE | Nền |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
-| GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
+| New J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Engine model, power/torque, China VI |
+| J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | single source | 13 L 560 PS, long-drain interval |
+| Jiefang J6 model/drive/power lineage | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | single source | Layout/lineage background |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Ca ngợi: không có ma trận chính FAW Giấy tờ đã bị ghi; Máy 460 là Kiểm tra chéo. trong 13 L 560 PS và ~ 40 t GCW là một nguồn riêng và ràng buộc với Mô hình bị đồng hóa. Tương thích với điều trị sau khi điều trị ở Trung Quốc là Kiểm tra kĩ thuật/ ban công, không giả định. *
+*Confidence note: no FAW primary spec sheet was captured; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI after-treatment compatibility is an engineering/approval check, not assumed.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -45,7 +45,7 @@ A linha 3rd-gen Champion está equipada com um nível de assistência ** L2 nos 
 2. **Transmissão** (Aisin 8AT) e **Disposição de drive** (FWD) para a classe escolhida.
 3. ** Fase de emissão/combustível** e destino **Aprovação de tipo** Caminho – China- 6 não é homologação no exterior.
 4. ** Inventário de características ADAS** para a linguagem exata de corte; cluster/infotainment.
-5. **DHL/RHD, garantia**  and  **container/RoRo** stowage based on the 4710 mm 3rd-gen footprint.
+5. Calcular **LHD/RHD e garantia**, bem como o acondicionamento **contêiner/RoRo**, com base na pegada da 3ª geração (4710 mm).
 
 ## Solicitar uma Cotação de Exportação Atual
 Nenhum preço de exportação estático é publicado. O valor inicial aproximadamente RMB 121, 900 chinês é uma referência **doméstica, sensível ao tempo apenas — não uma citação FOB/CIF**. Informe-se com **Destino País · Quantidade · Trim & Motor · LHD/RHD · Destino Porto · Incoterm**.
@@ -82,19 +82,19 @@ O 2024 CS75 PLUS é o mesmo que o 4th-generation carro? Não – a geração 4th
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2024 CS75 PLUS tabela de parâmetros completos | Base de dados ZOL | NC | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensões, motores, 8AT, equipamento, preço (TIME_SENSITIVE) |
-| 4th-gen CS75 PLUS size/powertrain | PCauto Toutiao | NC | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIM_SENSITIVO | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW Aisin 8AT | Diário das Pessoas (Chongqing) | NC | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFICADO | 2.0T potência, Aisin 8AT (media oficial) |
-| Changan Automobile 2024 Relatório Anual | Changan Sina Finanças | NC | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFICADO | Nova plataforma, L2 (arquivo de empresa) |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
+| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança: motor/gearbox e o limite de 4th-gen são suportados por mídia oficial e relatório anual de Changan (Verified); detalhe da tabela de parâmetros é cruzado. O preço interno e os números da nova geração são sensíveis ao tempo. A homologação do destino continua a ser uma verificação separada. *
+*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

@@ -24,10 +24,10 @@ The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan, launche
 
 | Element | Chinese-market reference values | Confidence / note |
 |---|---|---|
-| Battery capacity | LFP packs of **51.8 kWh** and **62.2 kWh** | SINGLE_SOURCE; supplier attribution (EVE/FinDreams-type claims) varies by batch — confirm with XPeng, do not assert a fixed supplier |
-| CLTC range | **515 / 502 / 620 / 600 km**, each tied to a specific battery + motor combination | SINGLE_SOURCE; CLTC only — never equate to WLTP/EPA |
-| Motor (front PMSM) | **140 kW (190 PS) / 225 N·m** and **160 kW (218 PS) / 250 N·m** | SINGLE_SOURCE |
-| Claimed 0–100 km/h | **7.8 s / 7.4 s** for the respective motor levels | SINGLE_SOURCE, official-claimed |
+| Battery capacity | LFP packs of **51.8 kWh** and **62.2 kWh** | single source; supplier attribution (EVE/FinDreams-type claims) varies by batch — confirm with XPeng, do not assert a fixed supplier |
+| CLTC range | **515 / 502 / 620 / 600 km**, each tied to a specific battery + motor combination | single source; CLTC only — never equate to WLTP/EPA |
+| Motor (front PMSM) | **140 kW (190 PS) / 225 N·m** and **160 kW (218 PS) / 250 N·m** | single source |
+| Claimed 0–100 km/h | **7.8 s / 7.4 s** for the respective motor levels | single source, official-claimed |
 
 The four range numbers are not interchangeable trims: each belongs to a particular battery-and-motor pairing. A quotation that says "M03, 620 km" without naming the 62.2 kWh pack and the matching motor is incomplete, and pairing the 620 km range with the 140 kW motor would be a matrix error. Build a three-column line — battery → CLTC range → motor — for the exact SKU and close it against the XPeng official configuration sheet. Fast-charge peak power and charge time are **not** stated here because no exact-trim official figure was captured; obtain them from the OEM for the specific version rather than copying a review.
 
@@ -76,12 +76,12 @@ Chinese charging-standard compatibility and any RHD/export build require separat
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
-| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
-| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
-| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | media/industry | single source | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

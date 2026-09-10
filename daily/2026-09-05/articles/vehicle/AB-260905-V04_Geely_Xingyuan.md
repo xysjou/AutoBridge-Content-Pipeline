@@ -29,14 +29,14 @@ The **Geely Xingyuan (Galaxy Xingyuan, marketed in some export markets under a s
 |---|---|---|---|---|---|
 | length width height | 4135 / 1805 / 1570（STAR限定版车长4155） | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
 | wheelbase | 2650 | mm | CHINA | CROSS_CHECKED | 搜狐+腾讯 |
-| seats | 5门5座 | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| layout | 后置后驱 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
-| motor power options | 58 / 85 | kW | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| battery type | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| battery capacity 410 | 40.16 | kWh | CHINA | SINGLE_SOURCE | 搜狐汽车 |
+| seats | 5门5座 | - | CHINA | single source | 搜狐车型库 |
+| layout | 后置后驱 | - | CHINA | single source | 腾讯新闻 |
+| motor power options | 58 / 85 | kW | CHINA | single source | 搜狐汽车 |
+| battery type | 磷酸铁锂 | - | CHINA | single source | 搜狐汽车 |
+| battery capacity 410 | 40.16 | kWh | CHINA | single source | 搜狐汽车 |
 | range cltc | 310 / 410 | km | CHINA | CROSS_CHECKED | 搜狐+腾讯 |
-| cargo volume | 375（前备厢70，后排放倒1320） | L | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| platform | GEA 纯电架构 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
+| cargo volume | 375（前备厢70，后排放倒1320） | L | CHINA | single source | 搜狐车型库 |
+| platform | GEA 纯电架构 | - | CHINA | single source | 腾讯新闻 |
 
 ## Small-EV export logic: battery line, cycle and shipping
 City EVs are frequently mis-quoted by using one range number for two motor/battery lines. On the Xingyuan, pair the motor (58 or 85 kW) with its matching battery and CLTC range on every order, and convert to the destination test cycle rather than re-labelling CLTC. As a lithium-ion battery EV, sea freight follows the current IMDG classification for battery-powered vehicles (UN3556 for the intact vehicle) — see the shipping guide. Battery supplier and peak charging power stay unconfirmed pending OEM data.
@@ -59,12 +59,12 @@ City EVs are frequently mis-quoted by using one range number for two motor/batte
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | T1 | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

@@ -73,19 +73,19 @@ Os dois canais autorizados são **Alfândega da China** e **CCPIT (Conselho de P
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Número de ordem GACC 270, Exportar CO Medidas Administrativas (em vigor 2024-09-01) | Administração Geral das Alfândegas da China (PDF oficial) | NC | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFICADO | Versão de regras, três tipos, emitentes |
-| Exportar medidas administrativas de CO (segundo PDF oficial) | GACC | NC | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFICADO | Usos não preferenciais, três tipos |
-| Visão geral do CO não preferencial e organismos emissores | CCPIT Sichuan | NC | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFICADO | Emissores, CO normal sem direitos |
-* Nota de rodapé: China emite apenas lado; regras específicas de ACL e decisões de preferência de destino estão fora de alcance e por acordo/por país. *
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| Regulamentos da RPC relativos aos certificados de origem (Decreto do Conselho de Estado n.o 416) | O Conselho de Estado da RPC | NC | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFICADO | Base jurídica chinesa para a emissão de certificados de origem preferenciais e não preferenciais |
-| Acordo sobre as Regras de Origem | Organização Mundial do Comércio (OMC) | INT' L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFICADO | Regras multilaterais de origem |
-| Tema das regras de origem | Organização Mundial das Alfândegas (OMC) | INT' L | http://www.wcoomd.org/ | 2026-09-05 | VERIFICADO | Referência de classificação e certificação de origem aduaneira |
-| China Free Trade Area service network (tratamento pautal da ACL) | MOFCOM | NC/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFICADO | Origem preferencial/canal de certificado de ACL |
-| Certificado de origem e certificação comercial estrangeira | Conselho da China para a Promoção do Comércio Internacional (CCPIT) | NC | http://www.ccpit.org/ | 2026-09-05 | VERIFICADO | Canal de origem não preferencial emitido pelo CCPIT |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

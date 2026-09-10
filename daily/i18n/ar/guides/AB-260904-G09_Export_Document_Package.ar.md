@@ -75,17 +75,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | مثقفة)بالمرتبة الأولى( | المعيار/الحالات/التاريخات الحالية |
-  SAMR platform ▪ GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0A0ABB25 | 2026-09-04 |WEI) الم // / / / / ?
-| Mandatory standard plan 20260041-Q-339 (future, قيد التنمية) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | الوقت - الظروف)الأساسية( | حالة |
-| |  إشعار − 24 CONGLUSION | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b383027942c083f8d8ff5144fd7f.pdf | 2026-09-04 | Comptach/8232/attach/20261/82b38302792642c082284 الخطة | | | marginal | | | | | | | | | | marginal |
-| MIIT GB21085 - XXXX consultation draft (non-current) | MIIT | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04  فقط draft (Theigui) ) draft (The ?
-| قواعد عمل التسجيل في الوحدات (ملفات بيع الصادرات) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | مثقفة)بالمرتبة الأولى( | شهادة التفتيش + نسخة الترخيص |
-| NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | | ات −ments ،RENCH, on the |.
-* بوابة البرمجيات: قاعدة الإصدار المتعدد المراحل والاستبدال الإلزامي هي مشروع " DRAFT/FUTURE " ويُستثنى من بيانات الاحتياج الحالية؛ والبنود المتعلقة بالإنترنت/الترجمة هي توصيات تحريرية. ♪
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

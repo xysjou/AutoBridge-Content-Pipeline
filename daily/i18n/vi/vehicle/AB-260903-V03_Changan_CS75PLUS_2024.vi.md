@@ -82,19 +82,19 @@ Có phải L2 gói giống hệt nhau ở mỗi lớp? Hãy xem nó như là lo�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2024 CS75 Bảng tham số PLUS đầy đủ | Cơ sở dữ liệu ZOL | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | ĐÃ_ ĐÃ | Kích thước, động cơ, 8AT, thiết bị, giá (TME_SENITIVE) |
-| 4th-gen CS75 PLUS kích thước/sức mạnh | PCauto Toutao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | T_ TIẾNG TÂM | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW Aisin 8AT | Nhật báo Nhân dân (Tiếng cười) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VEII | Năng lượng 2.0T, Aisin 8AT (truyền thông chính thức) |
-| Chương trình & di động Changan 2024 | Trương Thiên Tài chính Sina | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VEII | Nền tảng mới, đã chuẩn L2 (tập tin chung) |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
+| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
+| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*B đồng ý: động cơ/gearbox và ranh giới 4th-gen được hỗ trợ bởi các phương tiện truyền thông chính thức và báo cáo thường niên của Changan (VERFIEED); chi tiết tham số có thể kiểm tra chéo. Giá nhà và số liệu thế hệ mới rất nhạy cảm. Sự đồng nhất về đích vẫn là một sự kiểm tra riêng biệt. *
+*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

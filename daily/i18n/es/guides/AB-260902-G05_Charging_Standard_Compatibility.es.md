@@ -98,18 +98,18 @@ Does Chao ¿Ji hace que todos los conectores sean compatibles ahora?** ChaoJi es
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV charging-standard compatibility GB/T CCS CHAdeMO NACS, 汽车出口采购指南
 
-## Fuentes " Verificación "
+## Sources & Verification
 
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Presentación estándar ChaoJi (oficial) | Asociación de CHAdeMO (órgano de calidad) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi diseñó compatible con GB/T/CHAdeMO/CCS |
-| Carga-carriles de certificación estándar | Huayu Testing (cuerpo de certificación) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | Despliegue regional del CHAdeMO/CCS, diferencias de certificación |
-| Normas de conexión de carga | cehome (medios industriales) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Tipo 2, NACS, CHAdeMO en comparación | (industria) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T Product CCS2 requiere adaptador; matriz de compatibilidad |
-| Guía para estándares globales de carga EV | MARUIKEL (industria) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Conector de destino de exportación de GB/T vs |
-| Adaptador GB/T-to-CHAdeMO B2B guía | Electric Auto China (industria) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Botella de compatibilidad de exportación |
+| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional rollout, certification differences |
+| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
+| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
+| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
 
-* Nota de confianza (estándar AutoBridge): los hechos de nivel estándar son VERIFIED/CROSS_CHECKED (CHAdeMO) Association es un órgano de normas). No se capturaron conectores de exportación per-model, legalidad de adaptadores por país y tiempo de despliegue de NACS y deben ser confirmados por VIN y por autoridad de destino. *
+*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

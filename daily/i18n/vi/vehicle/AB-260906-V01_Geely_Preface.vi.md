@@ -24,9 +24,9 @@ The Geely Preface (Tên tiếng Trung Hoa là Xe ngựa bốn cửa, xe ngựa b
 
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
-| 1.5T xăng | 133 kW (181 PS) 290 N·m, 7-speed wet-crutch đôi | CHINA. 1.5T id·ctlys ·Prime, xác nhận bởiIN | SINGLE_SOURCE |
-| 2.0T (tính tỉ lệ) | 175 kW (238 PS) 350 N·m, 8-speed tự động, WLTC cộng  đáp số 7.15 L 100km | CHINA · older/Jinchao-era 2.0T · single-source | SINGLE_SOURCE |
-| 2.0T (tính lại) | 200 kW 400 N·m Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA. 2025 Dongfagyoo 2.0T · Nguồn riêng, xác nhận | SINGLE_SOURCE |
+| 1.5T xăng | 133 kW (181 PS) 290 N·m, 7-speed wet-crutch đôi | CHINA. 1.5T id·ctlys ·Prime, xác nhận bởiIN | single source |
+| 2.0T (tính tỉ lệ) | 175 kW (238 PS) 350 N·m, 8-speed tự động, WLTC cộng  đáp số 7.15 L 100km | CHINA · older/Jinchao-era 2.0T · single-source | single source |
+| 2.0T (tính lại) | 200 kW 400 N·m Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA. 2025 Dongfagyoo 2.0T · Nguồn riêng, xác nhận | single source |
 
 Hai kết quả của 2.0T không phải là một xung đột dữ liệu để giải quyết bằng cách chọn một: chúng thuộc về những người mẫu khác nhau. Một câu trích dẫn xuất khẩu đặt tên cho 'một khuôn mặt tiền sử 2.0T' mà không có năm và cắt chính xác là mơ hồ. Vật liệu khu vực Trung Đông của Geely cho thấy một tuyến đầu máy điện được xuất khẩu riêng biệt (chẳng hạn như 2.0TD + 7DCT) theo quy tắc mô hình xây dựng khu vực được viện dẫn như một tham chiếu thị trường xuất khẩU và là **not** được đối xử y hệt với Trung Quốc 175/200 kW trims without OEM confirmation.
 
@@ -77,20 +77,20 @@ Không phiên bản RHD nào được thiết lập bởi các nguồn hàng Tru
 
 Không, giá hướng dẫn của Trung Quốc chỉ là một tham chiếu nhạy cảm về thời gian trong nước; yêu cầu xuất khẩu chính thức có thể trích dẫn Incocition và đích đến.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家. 车家号 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力. 油耗. 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家. 车家号 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T, DCT  |
-| 吉利星瑞官方车型页 (CMA 架构 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列). | 吉利汽车官网 | TRUNG QUỐC | T1 | VEII | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Đáng kinh ngạc khi ra mắt nước ngoài (tiếng Ả Rập — Tin tức OEM | Tự động toàn cục đáng kinh ngạc | Comment | T1 | VEII | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | Danh tính — chỉ tham khảo thị trường xuất khẩu; Huấn luyện viên quyền lực Trung Đông khác với Trung Quốc cắt tỉa |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Danh tính — Xác minh chính xác Trung Quốc đồng nhất mô hình/variant bởi VAN/Nonouncement |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last xem lại**: 2026-09-06
-- ** chợ khảo sát**: CHINA(中国市场参考规格; 出口 右舵版本无 OEM 证据, 须另证)
+- ** chợ khảo sát**: CHINA(China-market reference specs; 出口 右舵版本无 OEM 证据, verify separately)
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Những mục nhạy cảm về thời gian (số lượng, phí tổn, danh sách, cắt giảm hàng, giá tham chiếu nội địa) phải được xác nhận lại trên trang hiện thời trước khi chuyển đổi.**
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

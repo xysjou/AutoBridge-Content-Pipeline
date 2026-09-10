@@ -25,15 +25,15 @@ Comme les camions légers sont vendus comme châssis-cabine plus un corps équip
 
 | Point | Référence du marché chinois | Confiance |
 |---|---|---|
-| Moteur | ** 4KH1CN6LB ** 3.0-litre diesel, Chine- 6 (National VI) | SINGLE_SOURCE |
-| Produit | 120 PS / 290 N·m | SINGLE_SOURCE — Confirmation par VIN/OEM|
-| Boîte de vitesses | Manuel MSB 5-speed (5MT) | SINGLE_SOURCE |
+| Moteur | ** 4KH1CN6LB ** 3.0-litre diesel, Chine- 6 (National VI) | single source |
+| Produit | 120 PS / 290 N·m | single source — Confirmation par VIN/OEM|
+| Boîte de vitesses | Manuel MSB 5-speed (5MT) | single source |
 
 La famille 4KH1 existe dans plus d'un suffixe avec des sorties différentes, et un deuxième rapport indépendant fait référence à une notation différente 4KH1 suffixe. C'est précisément pour cette raison que le code complet du moteur — ** 4KH1CN6LB **, et non pas simplement "un 4KH1 " — doit être inscrit dans l'ordre et correspondre à la rubrique d'homologation MIIT. Un diesel Chine-6 est étalonné pour le carburant chinois et l'étape nationale VI; la qualité du carburant de destination et la reconnaissance des émissions doivent être vérifiées séparément plutôt que supposées.
 
 ## Charge utile et masse de la barre: les classes ne sont pas des données d'usine
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Ces chiffres sont **non** présentés comme des spécifications: ils varient avec la caisse adaptée, sont auto-déclarés par les vendeurs et ne peuvent pas être utilisés pour dimensionner une charge. La charge utile nominale, la masse de la barre et le GVW sont des produits du certificat d'homologation **exact du châssis/la plaque nominative**. Obtenir ceux avant de s'engager dans un cycle de charge utile.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Ces chiffres sont **non** présentés comme des spécifications: ils varient avec la caisse adaptée, sont auto-déclarés par les vendeurs et ne peuvent pas être utilisés pour dimensionner une charge. La charge utile nominale, la masse de la barre et le GVW sont des produits du certificat d'homologation **exact du châssis/la plaque nominative**. Obtenir ceux avant de s'engager dans un cycle de charge utile.
 
 ## Lignes adjacentes et frontière mondiale d'Isuzu
 
@@ -78,21 +78,21 @@ Pas sur cette preuve: il est construit Qingling pour la Chine et est traité com
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-08
-- **Marché de référence**: CHINE(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- **Marché de référence**: CHINE(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les sorties de moteurs à source unique et tous les chiffres de charge utile/GVW doivent être reconfirmés sur la feuille d'OEM ou l'entrée d'homologation MIIT, et le même modèle avec Isuzu global nécessite une déclaration OEM explicite avant de transagir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

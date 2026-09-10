@@ -98,18 +98,18 @@ Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấ
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV charging-standard compatibility GB/T CCS CHAdeMO NACS, 汽车出口采购指南
 
-## Nguồn và Định dạng
+## Sources & Verification
 
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Trình diễn chuẩn ChaoJi (chính thức) | Hội CHAdeM (cơ thể chuẩn) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VEII | Hỗ trợ tương thích với ChaoJi được thiết kế với GB/T/CHAdeM/CCS |
-| Các đường xác định chuẩn nạp | Kiểm tra Hoa yu (cơ thể) | Toàn cục | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | ĐÃ_ ĐÃ | Cấu hình mạng/CCS |
-| Đang nạp tiêu chuẩn kết nối | tiểu nhà (truyền thông bất thường) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | ĐÃ_ ĐÃ | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Type 2, NACS, CHAdeM so sánh | evse- replers.com (ndust) | Toàn cục | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | ĐÃ_ ĐÃ | GB/TG CCS2 yêu cầu bộ thích nghi; ma trận tương thích cB/T |
-| Hướng dẫn tới tiêu chuẩn sạc điện toàn cầu | MARUIKEL (công nghiệp) | Toàn cục | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | ĐÃ_ ĐÃ | Kết nối tới nhà GB/Ts với cổng chuyển đổi sang nhà |
-| Hướng dẫn thích nghi GB/T đếnCHAMM B2B | Điện tự động Trung Quốc (thử nghiệm) | Toàn cục | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | ĐÃ_ ĐÃ | Xuất nút cổ chai tương thích |
+| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional rollout, certification differences |
+| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
+| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
+| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
 
-*BIDidce ghi chú (tự động Bridge tiêu chuẩn): sự thật cấp tiêu chuẩn là VERFIED/CROSS_CCKED (CHAdeMO) Sự kết hợp là một cơ quan tiêu chuẩn). Các hệ thống kết nối hàng hóa hàng hóa, hợp pháp hóa bởi quốc gia và thời gian của Hiệp hội Súng Quốc gia không bị bắt và phải được xác nhận trên VIN và mỗi cơ quan có thẩm quyền đích đến. *
+*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -53,7 +53,7 @@ Jeder chinesische Richtpreis ist eine inländische, zeitkritische Referenz und i
 
 ## Warum das für einen SUV-Auftrag wichtig ist
 
-Kompakt-SUVs werden oft in gemischten Zierchargen bestellt. The avoidable error is shipping a 1.5T unit against a 2.0T purchase contract, oder ein Starray-Marktfeature von einem chinesischen Build versprechen. Die Sperrung der SKU und des Marktumfangs vor der Einzahlung beseitigt diesen Streit.
+Kompakt-SUV werden oft in gemischten Ausstattungs-Chargen bestellt. Der vermeidbare Fehler ist, eine 1.5T-Einheit gegen einen 2.0T-Kaufvertrag zu liefern oder ein Starray-Marktmerkmal von einem chinesischen Build zu versprechen. Die Festlegung von SKU und Marktumfang vor der Anzahlung beseitigt diesen Streit.
 
 ## FAQ
 **Ist Boyue L das gleiche wie der Geely Starray? **
@@ -76,19 +76,19 @@ Die referenzierte chinesische Linie ist Frontantrieb.
 
 Keine RHD Chinesisch-Markt-Version ist hier belegt; für RHD-Ziele separat bestätigen.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
-| 2025 款博越 L 尺寸/轴距/后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCEN | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | T3 | SINGLE_SOURCEN | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱  |
-| Geely New Boyue L Spezifikationstabelle (OEM) | Geely Auto Global | KN/EXPORT | T1 | ÜBERPRÜFUNG | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | Identität — OEM-Spezifikationstabelle; bestätigen Sie den Marktaufbau |
-| Geely Starray Brochure (Qatar) — Referenzmarkt | Geely Katar | AUSFUHR | T1 | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | Identität — Starray ist Export-Namensschild; nicht gleichzusetzen Exportnummern nach China Boyue L |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | Identität — homologierte China-Variante überprüfen |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Zuletzt überprüft**: 2026-09-06
-- **Referenzmarkt**: CHINA(中国市场参考; Starray 为出口名但参数不与中国版等同)
+- **Referenzmarkt**: CHINA(China-market reference; Starray 为出口名但参数不与中国版等同)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Zeitkritische Artikel (Tarife, Gebühren, Listen, Trimm-Aufstellung, inländische Referenzpreise) müssen vor der Transaktion auf der offiziellen aktuellen Seite erneut bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

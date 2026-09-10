@@ -56,7 +56,7 @@ Two procurement points stand out. 첫째, **both 라인은 수동 ** - 캡처 20
 
 ## AutoBridge가 Parameter Page를 넘어 추가하는 것
 반 주문은 작은 mismatches에 실패: "9-seater"다른 범주로 등록, 또는 가스 인증을 존재하지 않는 CNG 단위 판매. 이 가이드는 잠금을 권장합니다 ** 휠베이스 (2800/3000), 정확한 좌석 수 및 연료 유형 하나 조합 ** 빌드 노트에, 목적지의 ** 드라이버 라이센스 운영 범주를 확인 9-seater **, 그리고 - CNG에 대한 - 인식 ** 가스 실린더 인증 경로** 가솔린 보정 전송을 추측하기 전에.
-## 사전 결제 검증 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
+## 사전 결제 검증 의
 
 - M5 대 M5L (2800 대 3000 mm 휠베이스) 및 정확한 좌석 카운트 (5/7/8/9).
 - 아래로 힘차트 (1.5T 가솔린 6MT 대 1.6L CNG 5MT); 수동을 확인한 최종 고객에 대 한 허용.
@@ -102,21 +102,21 @@ AutoBridge는 고정 수출 가격을 출판하는 것보다 오히려 요청에
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## 소스 및 검증
+## Sources & Verification
 
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Lingzhi 공식적인 모수 | Dongfeng Forthing (공식) | 담당자: Mr. wang | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 의 경우 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 축거 2800/3000, 5/7/9 좌석, 포좌 기구 |
-| M5L 1.5T 9-seat 모델 | 동요 (懂车帝) | 담당자: Mr. wang | https://www-hl.dongchedi.com/auto/series/445/model-92416 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 1.5T 140 kW 300 N·m, 3000 mm WB, 커브 1700 kg |
-회사 소개 담당자: Mr. wang | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_체크 | 차원, CNG 파워트레인, WLTC 8.4의 상세정보 |
-| Lingzhi M5 기사 | 이체 (易车) | 담당자: Mr. wang | https://m.yiche.com/zhai/261903/ 경우 | 2026-09-02 | CROSS_체크 | 차원, 축거, 7/9-seat의 배치 |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
-| GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) 요구 사항 | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조와 nameplate 자료 분야는 구매자의 VIN/nameplate 검증에서 이용했습니다 |
-| GB 7258 모터 차량 안전 기술 조건 (GB 7258-2017 현재; GB 7258-2026은 2027-07-01에 적용됩니다. | SAMR, 시장 규제에 대한 정보 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
-| GB 18352.6-2016 개정 XG1-2026 (중국 - 6 빛 차량 오염 배출) | 환경부 장관 (MEE) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국- 6 빛 차량 배출 단계 및 2026 개정 실시 날짜 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Confidence 참고 (AutoBridge 표준): 치수 휠베이스 좌석 레이아웃은 Forthing의 공식 매개 변수 페이지에 명시되어 있습니다. 1.5T/CNG 파워 트레인은 CROSS_CHECKED입니다. 커브 무게는 SINGLE_입니다.... Payload/cargo 볼륨은 사실베이스에 없었다, 공식 시트에 왼쪽; export/RHD specs는 asserted. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

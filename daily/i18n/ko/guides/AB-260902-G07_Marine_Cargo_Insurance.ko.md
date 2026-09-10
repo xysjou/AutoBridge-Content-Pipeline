@@ -16,7 +16,7 @@
 구매자는 FOB 또는 CIF의 밑에 ** 선을 완전히 보상하는 ** 긁힌, 분쇄해, 도난당한 또는 물 손상된 차량이라고 가정합니다. 그것은 아닙니다: 캐리어 책임은 차의 가치의 밑에 멀리 국제 경기에 의해 모자를 씌우고, 당신이 선택하는 화물은 당신이 보통 교통 손상이 전부에 덮는지 결정합니다. 이 페이지는 ** 중국에서 배송 차량에 대한 마린화물 보험 ** (세계 바다 노선) - 조항 및 주장, Incoterm 가격과 RoRo-vs-container 선택에서 구별.
 ## 세 개의 항목 계층 — 공식 단어에 고정
 학회소개 Clauses는 **Lloyd's Market Association (LMA) 및 London (IUA)의 국제 이해 협회에 의해 출판됩니다 **; 현재 (A) (B) (C) wordings - 항목 참조 ** CL382 (A), CL383 (B),  CL384 (C) — took effect 1 January 2009** (official LMA wording; 인증).
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 덮개 (선형) | 차량용 스퀴지 |
+| 의 | 덮개 (선형) | 차량용 스퀴지 |
 |---|---|---|
 | **ICC (A) - "모든 위험" (CL382) ** | 사고의 신체 대한 모든 리스크 커버를 넓은 **, 커버의 첨부, 실제 정책 wording**; *may*는 도난 방지와 같은 사고의 transit/handling 이벤트에 응답하거나 커버 첨부 및 제외가 적용되지 않는 손상을 처리 | 차량용 일반 지선 |
 | **ICC (B) - perils (CL383) 이름** | 충돌, 물 진입, 지진 등 - 목록 이벤트 전용 | 일반 차량 손실이 발견되지 않도록 |
@@ -80,22 +80,22 @@ ICC (A)는 넓지 않습니다, 절대: 그것은 기계적인 전기 고장, �
   - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 연구소 화물 클레즈(A) 1/1/09 공식 상품권(CL382) | Lloyd's Market Association(**market/standards body**) | | 2026-09-03 | ** 인증** | ICC (A) "모든 위험"범위 및 제외; 공식 항목 단어 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf
-| Incoterms 2010 대 2020 (CIP는 ICC (C)에서 ICC (A)로 이동 | 국제 상공 회의소 (**표준 신체 공식**) | - 연혁 | https: | 2026-09-03 | ** 인증** | CIP 최소 ICC로 상승 (A); ... ...에서 ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 ... ...에서 | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm
-| Incoterms 2020 - CPT 또는 CIP (판매업자 보험 의무) | ICC 아카데미 (**ICC 공식**) | - 연혁 | https: | 2026-09-03 |** 인증** | CIP 판매자 계약은 ◇ 後 | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/
-| 학회소개 의제 날짜 & RoRo 차량 덮개 | Voyage Cover (특별자치도, LMA/IUA, Hague-Visby) | - 연혁 | https://voyagecover.com/guides/institute-cargo-clauses 사용 | 2026-09-03 | CROSS_체크 | CL382/383/384 번호, 1 Jan SDR 캡 컨텍스트 | 2009
-| 110% 인수가치 컨벤션 속도 가변성 | Portlogics & PLANETCARS (산업) | - 연혁 | https://www.portlogics.com/insights/marine-cargo-insurance 통해 | 2026-09-03 | CROSS_체크 | 운영 110% 컨벤션 및 per-shipment 비율; Incoterms 대 UCP 기지는 몸에서 구별 |
-| 한국용 자동차 마린 보험 클레임(ICC A/B/C 对比) | SH GLOBAL(주) | - 연혁 | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE(싱글) | ICC (A/B/C) 覆盖范围년 |
-| 한국차 수출보험 | SH GLOBAL(주) | - 연혁 | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE(싱글) | 车辆推荐 ICC(아) |
-| 해상 화물 보험: 소보험, 요금 및 청구 | 老金出海 라오진주하이 | - 연혁 | https://www.laojinchuhai.com/en/insights/guide-marine-insurance 통해 | 2026-09-02 | SINGLE_SOURCE(싱글) | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
-| RoRo 선박에 차량 선택 | Voyage Cover(保险经纪 承保专业站, 引 IUA/LMA、Hague-Visby) | - 연혁 | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE(싱글) | 헤이그 바이 承运人责任上限、 固有缺陷除外 |
-| 선박화물 보험 | Ascope 배송 | - 연혁 | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE(싱글) | 一切险、 |（罢工附加险）（战争）
-| 中古車輸出の海上保険 (保额公式년) | 플렉시블카 | - 연혁 | https://planetcars.jp/index.php/ja/insurance 통해 | 2026-09-02 | SINGLE_SOURCE(싱글) | 保险金额 = CIF × 110%, 保费公式 |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
+| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
+| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
+| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | single source | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | single source | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | single source | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | single source | Hague-Visby 承运人责任上限、固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | single source | 一切险、战争/罢工附加险 |
+| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | single source | 保险金额=CIF×110%、保费公式 |
 
-*Confidence 참고: 범위 / 번호 및 Incoterms 보험 의무는 LMA / ICC 기본 자료에 명시되어 있습니다. Hague-Visby SDR 수치는 현재 개정된 금액에 대해 확인하기 위해 조약 규정입니다. 프리미엄 비율은 양도이며 명시되지 않습니다. EV 배터리 화재 커버는 정책 별입니다. * 이름
+*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

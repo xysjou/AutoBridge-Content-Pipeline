@@ -17,7 +17,7 @@
 
 ## Realistische Ladebänder (aus dokumentierter Praxis)
 - **Kein Rack, konventionell:** Ein 40HQ trägt typischerweise **zwei mittlere große SUVs ** (zitierte Beispiele sind ~ 4.9 m Klasse wie ID). 6 Range-Rover Prado Li L7-scale Fahrzeuge) (Single-Source-Weiterleitungsdiagramm).
-- **Mit einem Schiebeauszug Doppeldeck-Rack: ** ein **"oberes 2 + unteres 2 " = vier SUVs ** Anordnung wurde in einem Yantai-Port "RoRo-to-Container" Versuch (Single-Source) gemeldet.
+- **Mit einem ausziehbaren Doppeldeck-Gestell:** Eine Anordnung »oben 2 + unten 2 = vier SUV« wurde in einem »RoRo-to-Container«-Versuch im Hafen Yantai gemeldet (Einzelquelle).
 - **Limousinen China-Europa-Bahn:****drei Fahrzeuge pro Box** erscheint in China-Europa-Bahn Limousine Praxis Berichterstattung (Single-Source).
 Dies sind Bezugspunkte, keine Ansprüche: Ein Hochdachwagen, ein Pickup oder ein langes Executive-Auto ändert die Anzahl, und die Regalladung benötigt zertifizierte Ausrüstung und einen genehmigten Plan.
 
@@ -87,17 +87,17 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Fahrzeugstauung (2/box, 8 Gurte) | Gütertransportgut | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCEN | 2-SUV No-Rack; ~ 8 Riemen; Radmethode (eine Quelle) |
-| Yantai-Hafen erste 4-SUV "RoRo-to-Container"-Test | Qilu Abend News Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCEN | Upper2+lower2 Rack; Ladesequenz (eine berichtete Studie) |
-| China-Europa-Bahnwagenverladung (3/box) | Harbin Railway Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCEN | Drei-pro-Box-Limousine Schiene Referenz (eine Quelle) |
-| Fünfstufiges Beladeverfahren für Exportbehälter | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCEN | Fünf-Punkt-Staukontrolle (eine Quelle) |
-*Scope note: Jede Ladefigur stammt aus einer einzigen, eindeutigen Quelle (alle SINGLE_SOURCE) – keine Tatsache wird durch zwei unabhängige Quellen bestätigt, so dass keine als CROSS_ gekennzeichnet ist. KONTROLLE. Zählungen sind dokumentierte Praxisreferenzen, keine garantierte Stauung; Die genaue Anzahl hängt immer von den gemessenen Abmessungen und einem genehmigten Ladeplan ab, und die Regeln des Spediteurs Terminals müssen bei der Buchung bestätigt werden. *
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| IMO/ILO/UNECE-Verhaltenskodex für die Verpackung von Frachttransporteinheiten (CTU-Code) | Internationale Seeschifffahrtsorganisation (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | ÜBERPRÜFUNG | Grundsätze für die Verteilung, die Verzurrung und die Sicherung von Ladungen für CTUs, einschließlich Containern |
-| Container/Ausrüstungsreferenz | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | ÜBERPRÜFUNG | Standard-Frachtcontainer- und -leinausrüstungskontext für die Ladeplanung |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

@@ -80,20 +80,20 @@ Nenhum preço de exportação estático e nenhum MSRP da China foram capturados;
   - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Novo J6P 460 (CA6DM2-46E6 2300 N·m) | Camião Casa Toutiao | NC | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Modelo do motor, potência/torque, China VI |
-| Comparação J6P (CA6DM2-46E61, 341 kW) | Camião Casa Toutiao | NC | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, disposição da unidade |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | Camião Casa Toutiao | NC | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | FONTE ÚNICA | 13 L 560 PS, intervalo de drenagem longa |
-| Jiefang J6 model/drive/power lineage | Enciclopédia Douyin | NC | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | FONTE ÚNICA | Layout/linhagem de fundo |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 17691-2018 emissões poluentes de veículos diesel pesados (China-VI) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFICADO | China-VI fase de emissão de ignição por compressão (diesel pesado) para caminhões/coaches |
-| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor projeto de emissão no exterior |
+| New J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Engine model, power/torque, China VI |
+| J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | single source | 13 L 560 PS, long-drain interval |
+| Jiefang J6 model/drive/power lineage | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | single source | Layout/lineage background |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confiança: não foi capturada nenhuma folha de especificação primária da FAW; O motor/torque 460 é verificado em conjunto (CROSS_CHECKED), enquanto o 13 L 560 PS e ~ 40 t GCW são de fonte única e estão ligados ao código do modelo homologado. A compatibilidade pós-tratamento China-VI é uma verificação de engenharia/aprovação, não presumida. *
+*Confidence note: no FAW primary spec sheet was captured; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI after-treatment compatibility is an engineering/approval check, not assumed.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

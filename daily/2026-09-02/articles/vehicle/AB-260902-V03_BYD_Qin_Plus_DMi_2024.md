@@ -80,11 +80,11 @@ No static export price is published; the RMB 79,800–125,800 China Glory Editio
 | Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
 | Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
 | Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
-| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE_SOURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE_SOURCE | 轴距 2718mm、油耗、0-100 加速 |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is SINGLE_SOURCE and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

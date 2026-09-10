@@ -19,8 +19,8 @@ Der Xintu ('New Route') V80 ist die große Van-Familie von SAIC MAXUS - verkauft
 | Position | Referenzwert für den chinesischen Markt | Markt MY Trim | Vertrauen |
 |---|---|---|---|
 | Fahrzeugtyp | Light Bus Large Panel Van (Big-VAN), FWD oder RWD nach Konfiguration | CHINA · Gegenübergestellt | CROSS_CHECKED |
-| Längen-/Radstandsoptionen | Längen ≈ 4950 5490 5700 mm; Radstände 3100 3640 3850 mm nach Version | CHINA · Single-Source, bestätigen Matrix | SINGLE_SOURCEN |
-| Sitzplätze | Busversionen 5–9 und bis zu 15 Sitzplätze nach Version; Frachtversionen 2/3 Sitzplätze | CHINA · Single-Source, bestätigen | SINGLE_SOURCEN |
+| Längen-/Radstandsoptionen | Längen ≈ 4950 5490 5700 mm; Radstände 3100 3640 3850 mm nach Version | CHINA · Single-Source, bestätigen Matrix | single sourceN |
+| Sitzplätze | Busversionen 5–9 und bis zu 15 Sitzplätze nach Version; Frachtversionen 2/3 Sitzplätze | CHINA · Single-Source, bestätigen | single sourceN |
 
 Da das gleiche Typenschild kurze Passagierbusse und lange Frachtwagen abdeckt, ist "a V80" keine vollständige Spezifikation. Der Auftrag muss die Körperlänge, den Radstand, die Rolle des Busses gegenüber der Ladung und die Sitzanzahl benennen; das Frachtvolumen und die Fahrbarkeit unterscheiden sich in der Matrix erheblich.
 
@@ -58,7 +58,7 @@ Es hängt von der Version ab: Passagierversionen von 5–9 bis 15 Sitze, Frachtv
 
 **Welche Körperlängen werden angeboten? **
 
-Roughly 4950/5490/5700 mm with 3100/3640/3850 mm wheelbases by version (single-source matrix to confirm).
+Etwa 4950/5490/5700 mm Länge mit Radständen von 3100/3640/3850 mm je Version (Einzelquellen-Matrix, zu bestätigen).
 
 **Was ist seine Nutzlast? **
 
@@ -68,15 +68,15 @@ Payload/GVW werden hier nicht zitiert – sie müssen aus der MIIT-Ankündigung/
 
 Der chinesische Markt V80 ist LHD; ein RHD- oder Export-Build erfordert separate OEM-Beweise.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | T3 | SINGLE_SOURCEN | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T 动力, 座位, 尺寸  |
-| V80 厢式 客车版本与尺寸 | 新浪汽车车型库 | CHINA | T3 | SINGLE_SOURCEN | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| SAIC MAXUS Globales offizielles Unternehmen | SAIC MAXUS Global | AUSFUHR | T1 | ÜBERPRÜFUNG | https://en.saicmaxus.com/ | Identität — OEM global; Export V80 Builds unterscheiden sich von China 新途 V80 |
-| 上汽大通 MAXUS 中国官方 | SAIC MAXUS China | CN | T1 | ÜBERPRÜFUNG | https://www.maxusmall.com/ | Identität — offizielle Modelllinie des chinesischen Marktes |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | Identität — Überprüfung der GVW/Sitz/Ladungsvariante durch Ankündigung |
+| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
+| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
+| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

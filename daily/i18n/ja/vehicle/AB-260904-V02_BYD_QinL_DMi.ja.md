@@ -89,24 +89,24 @@ A PHEV buyer needs four answers in order: **エンジン、ドライブ Here the
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Qin L DM パラメータマスターテーブル | 東ケディデータベース | CN の | 以下は、 https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED(クロス) | 次元、ホイールベース、電池、DHT、重量、タンク |
-キン・エル・DMの設定 | キン・エル・DMの設定 | ソーホー・オート・ナンバー | CNの | CNの | 以下は、 タッチ・アイド = | 2026-09-04 | CROSS|CHECKED(クロス) | 寸法、CLTCの範囲 | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155
-| ジン L DM-i 2024 120km リードトリム | Sohu Autoデータベース | CN の | 以下は、 https://db.m.auto.sohu.com/trim_173018 の | 2026-09-04 | CROSS_CHECKED(クロス) | 120 km CLTC、国内価格の参照 |
-| ファイフス・ゲンDMレンジ・燃料使用解析 | オートホーム・ケジアオ | CN の | 以下は、https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | 専用エンジン 、 高速充電時間 、 要求された結合された範囲 |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| GB 38031の牽引電池の安全条件(GB 38031-2025;2026-07-01から必須新しいタイプ塗布) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | 電動パワートレインのための必須のトラクション電池の安全要件ベース |
-| GB 18384電気車両の安全要件(GB 18384-2025) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 検証済み | |
-| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Confidence Note: 寸法と範囲のステップは、エンジンの細部、高速充電時間、2100 kmの要求は、単一ソース/工場で要求されます。 海外のOEMページがキャプチャされていない - 中国市場参照のみ。 ふりがな
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国、2024 Qin L DM-i の第五世代(中国市場参照;CLTC は述べました;グローバル仕様ではありません)
 - **検証方法**: Two-database cross-check; 電池版は分けました; 製造業者の要求は分類しました

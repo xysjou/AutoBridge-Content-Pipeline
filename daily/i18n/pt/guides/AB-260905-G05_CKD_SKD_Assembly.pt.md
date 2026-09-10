@@ -39,16 +39,16 @@ Esta página **não ** reivindica intencionalmente uma definição universal de 
 ** Pode um kit de design trabalhar em todos os mercados?** Não — as condições de classificação e montagem são específicas do país.
 ** O que deve fazer o BOM? Atribuir uma linha, origem e valor SH a cada componente antes da classificação.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础, 归类裁定与决定 |
-| 汽车 DRC 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单 /HS 逐项整理流程线索 |
-| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Nomenclatura do Sistema Harmonizado (WCO) | Organização Mundial das Alfândegas | NC | T1 | VERIFICADO | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | A nomenclatura SH é a base de classificação mantida pela WCO |
-| WCO Instrumentos e ferramentas de origem | Organização Mundial das Alfândegas | NC | T1 | VERIFICADO | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Regras de origem e instrumentos mantidos pela WCO |
-| Acordo da OMC sobre a Valorização Aduaneira | Organização Mundial do Comércio | INT | T1/T2 | VERIFICADO | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Quadro de avaliação aduaneira relevante quando os kits de demolição e as unidades montadas são avaliados de forma diferente; não define, em si, as tarifas de montagem de destino |
-| WCO Nomenclatura SH — Instrumentos de classificação (GRI) | Organização Mundial das Alfândegas | INT | T1/T2 | VERIFICADO | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Regras gerais de interpretação (incluindo GRI 2 a)) regem a classificação de mercadorias não montadas/desmontadas; página profunda |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

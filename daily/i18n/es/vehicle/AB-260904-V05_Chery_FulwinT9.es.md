@@ -83,19 +83,19 @@ No se publica precio de exportación. El rango de guía chino 2024 (proximadamen
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 Requerimiento de seguridad de la tracción-batería (estándar nacional) | SAMR Administración de Normalización | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Base de referencia de seguridad de la tracción-batería pertinente para el paquete de alto voltaje C-DM |
-| GB 18352.6-2016/XG1-2026 límites de emisión de vehículos ligeros (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China- 6 actual marco de emisión para el motor 1.5T dedicado (China- 6b referencia) |
-| Fulwin T9 mesa de configuración oficial | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | batería, dimensiones, asientos, carga, versiones |
-| Fulwin T9 apretado a mano (dimensión/año modelo) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensiones, límite de modelo-año |
-| Fulwin T9 120 largos config insignia | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, rango eléctrico, motor |
-| Fulwin T9 batería & análisis de gama EV | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCE | batería, rango CLTC/WLTC, tiempos de carga |
-| Fulwin T9 lanzamiento & dimensiones | Base de datos Sohu Auto | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Tamaño de la VV de tamaño mediano, precio nacional |
-| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-* Nota de confianza: página de configuración OEM capturada (anclaje TODOIFIED); tiempos de carga y volumen de carga son de un solo proveedor; rango combinado es una reclamación del fabricante. Estándar T9 solamente — T9L excluidos. *
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

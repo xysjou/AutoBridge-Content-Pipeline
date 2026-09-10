@@ -39,18 +39,18 @@
 ** 地方安全局的分支机构是否是独立的监管机构? ** 没有——一个权力机构;分支机构执行同样的规则。
 ** 这是否涵盖买方所在国的FX规则? ** 不——只有中国方面.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知(名录登记改由银行办理) (中文(简体)). | 国家外汇管理局 维基月球 | 氯化萘 | T1 | 实录 | http://www.safe.gov.cn/yunnan/2024/0408/1537.html 维基月球 | 取消外汇局核准,  境内银行办理名录登记, 首笔收支前登记 维基月球 |
-| 货物贸易外汇业务办事指南(名录登记条件) (中文(简体)). | 国家外汇管理局吉林省分局 维基月球 | 氯化萘 | T1 | 实录 | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf 维基月球 | 取得对外贸易经营权后办名录 维基月球 |
-| (中文(简体)). | 国家外汇管理局文告 维基月球 | 氯化萘 | T1 | 实录 | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf 维基月球 | 总量核查,  货物流资金流匹配, 动态分类 维基月球 |（货物贸易外汇管理）（非现场总量核查）（分类管理）
-| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 维基月球 | 氯化萘 | T1 | 实录 | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf 维基月球 | 数字外管平台ASOne操作 |
-| 国家外汇管理局(外汇管理局) | 安全单位 国家外汇管理局 | 氯化萘 | T1 | 实录 | https://www.safe.gov.cn/en/ 维基月球 | 登记和汇总核查当局 |
-| 国家外汇管理局(外汇管理局) | 安全(监管) | 氯化萘 | T1 | 实录 | https://www.safe.gov.cn/ 维基月球 | 负责贸易-FX登记和综合核查的主管当局 |
-| 中国人民银行——跨境人民币结算框架. | 中国人民银行(中国人民银行 PBOC) | 氯化萘 | T1/T2 | 实录 | http://www.pbc.gov.cn/ 维基月球 | 与SAFE外汇登记不同的跨境人民币结算和银行处理的中央银行框架 |
-| 国际商会 贸易融资(福建/URF,L/C结算) | 国际商会 | INT 信息技术 | T1/T2 | 实录 | https://iccwbo.org/business-solutions/trade-finance/ 维基月球 | 与出口FX收据互动的国际结算工具(forfaiting URF 824, L/C) |
-| 中共中央统战部——贸易文献和结算支持. | 中国国际贸易促进会(CCPIT 中国贸促会). | 氯化萘 | T1/T2 | 实录 | https://www.ccpit.org/ 维基月球 | FX收货/核查中使用的证明交易的贸易文件 |
+| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | primary | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | primary | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | primary | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
+| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | primary | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
+| People's Bank of China (PBOC) — cross-border RMB settlement framework | People's Bank of China (中国人民银行 PBOC) | CN | primary/independent | VERIFIED | http://www.pbc.gov.cn/ | Central-bank framework for cross-border RMB settlement and bank handling, distinct from SAFE foreign-exchange registration |
+| ICC Trade Finance (forfaiting/URF, L/C settlement) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | International settlement instruments (forfaiting URF 824, L/C) that interact with export FX receipt |
+| CCPIT — trade documentation and settlement support | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | Trade documentation supporting proof-of-transaction used in FX receipt/verification |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -69,7 +69,7 @@
 - 电话: 电话: 车辆出口商的FX结算和贸易-FX管理局
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export

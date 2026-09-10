@@ -82,19 +82,19 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 121, 900
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2024 CS75 PLUS vollständige Parametertabelle | ZOL-Datenbank | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Abmessungen, Motoren, 8AT, Ausrüstung, Preis (TIME_SENSITIVE) |
-| 4th-gen CS75 PLUS Bauart/Antrieb | PCauto/Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | ZEIT_SENSIATION | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | ÜBERPRÜFUNG | 2.0T power, Aisin 8AT (offizielle Medien) |
-| Changan Automobile 2024 Jahresbericht | Changan Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | ÜBERPRÜFUNG | Neue Plattform, standardisiert L2 (Firmenanmeldung) |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
-| GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
+| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
+| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Vertrauensbeweis: Motor/Getriebe und der 4th-gen Die Grenze wird unterstützt durch offizielle Medien und Changan's eigener Jahresbericht (VERIFIZIERT); Parameter-Tabellen-Detail wird abgeglichen. Inlandspreis und der Die Zahlen der neueren Generation sind zeitsensibel. Zielhomologation bleibt eine gesonderte Kontrolle. *
+*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

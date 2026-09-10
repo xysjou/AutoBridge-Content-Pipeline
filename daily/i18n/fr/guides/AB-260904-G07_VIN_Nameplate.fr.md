@@ -79,17 +79,17 @@ Toute différence de caractère, preuve de restauration ou inadéquation de docu
 - **ALT Suggestion**: 17 character VIN split into WMI VDS VIS under GB16735-2019
 - **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| BG 16735-2019 Véhicules routiers — VIN, texte standard PDF | SAC/ TC114 (normation nationale de l'automobile) | NC | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VÉRIFIER (primaire) | Structure 17-char, texte standard |
-| GB 16735-2019 page d'état standard | SAMR ouvert | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VÉRIFIER (primaire) | Situation actuelle, remplace 2004 |
-| Plateforme SAMR · GB16735-2019 détail | RAM | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VÉRIFIER (primaire) | État standard |
-| Exigences relatives à l'examen des produits d'accès aux véhicules routiers (référence obligatoire de GB16735) | MIIT officiel PDF | NC | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VÉRIFIER (primaire) | Statut obligatoire, exigence de cohérence |
-| Explication du segment VIN | Pacific Auto | NC | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SOURCE UNIQUE | Expliqueur de niveau de poste |
-*Note verrouillée: "L'IMU chinois commence par L un certain H" est NON VÉRIFIÉ et n'est pas indiqué comme fait; les formats VIN du fabricant de préfixe WMI et de destination sont hors de portée. *
+| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
+| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
+| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
+| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | single source | Position-level explainer |
+*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
 
-| 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | NC | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SOURCE UNIQUE | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | single source | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)

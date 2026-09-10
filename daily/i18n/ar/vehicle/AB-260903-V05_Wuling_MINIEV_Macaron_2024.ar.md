@@ -27,7 +27,7 @@
 | الشحن | (أ) تُحمّل على نحو أساسي (ج) تُهمّ بالتسديد**؛ أي شركة من البلدان النامية تسدد رسوما سريعة على درجة الـ 215 تعتمد على التشكيل (مصدر خارجي) - تؤكد على شبكة الإنترنت |
 والرقمان الرئيسيان اللذان يخلط بينهما هما الصفان المتراوحان بين الـ 170 و 215 km من اتفاقية التجارة الدولية** وأسلوب الشحن**. ومع بطء الشحن بشكل رئيسي وسرعته القصوى 100 km/h، فإن هذا المنتج داخل الطفيف؛ ويضع التوقعات في وقت الشحن وقدرة الطرق السريعة كتابة بدلا من أن يسمح للزبون باكتشافها بعد التسليم.
 
-## Logic: 170 vs 215 for a Fleet Order
+## المنطق: 170 مقابل 215 لطلب الأسطول
 ويتقاسم كل من الصفين نفس الجسم البالغ 3064 mm وأربعة مواضع، لذلك الخيار هو قرار دورة واجبة، وليس قراراً قياسياً:
 - ** 170 km 20 kW ** - أدنى مرجع لاقتناءات (حوالي 41 روبية، 800 محلية، مراعية للوقت)؛ تناسب حلقات يومية ثابتة وقصيرة حيث تعود المركبة إلى القاعدة وبطيئة الشحن بين عشية وضحاها (كامب، مجتمع البوابات، المنتجع، الإيجار القصير، الميل الأخير مع نصف قطري صغير).
 - ** 215 km 13.4 kWh ليرة لبنانية** - حوالي 46 روبية، 800 إشارة محلية؛ والسعة الإضافية تشتري مساراً رئيسياً لدورة الرسوم الجمركية، وهي الدرجة الوحيدة التي قد يظهر عليها أي حكم من أحكام البلدان النامية - وحتى هناك، فإنها تعتمد على التداول، ويجب تأكيدها حسب الشبكة السادسة عشرة**، غير المفترضة.
@@ -89,20 +89,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ماكارون يضيف 170 km 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | صرخات | 20 kW، 170 km، السعر المحلي (الوقت - النسيج) |
-| MINIEV 2025 | قاعدة بيانات دونغشيدي | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | صرخات | السنة النموذجية، درجات النطاق، مشروع تجديد نظم الإدارة المحلية (TIME_SENSITIVE) |
-2024 ماثيوبي 215 Auto database | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE OURCE ) 3064/1493/1629, 2010 mm, 777 kg (DB, OEM) |
-| بطارية الشحن | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE OURCE | ≈13.4 kWh, طريقة تحميل الرسوم |
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
+| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
+| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
+| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | single source | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
+| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | single source | ≈13.4 kWh, charging method |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* ملاحظة بشأن الملاءمة: لم تُسجَّل أي صحيفة مواصفات رئيسية من طراز Wuling/SAIC-GM-Wuling؛ ولا توجد قواعد بيانات إعلامية. ويتم فحص الرانج/الملكة عبر الحدود، في حين أن وزن الكرب، والسرعة القصوى، والكيلوواط من مصدر واحد. CLTC هي دورة الصين فقط ويجب تأكيد حكم الشحن على وجه الدقة
+*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

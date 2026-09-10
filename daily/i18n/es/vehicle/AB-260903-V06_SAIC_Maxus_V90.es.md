@@ -83,19 +83,19 @@ No hay precio de exportación estático y no se captó el MSRP de China en este 
   - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Configuración Xintu V90 (5498 cuerpo) | Base de datos Sohu Auto | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Clase, dimensiones corporales |
-| SAIC π 2.0T línea de energía diesel | Enciclopedia PCauto | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, rueda trasera dual |
-| V90 2025 130 kW 420 N·m | Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW 420 N·m, ZF 8AT, 9–15 asientos (segunda unidad de la caja) | 16888
-| Parámetros Xintu V90 2024 | Base de datos Sina Auto | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, Bases de ruedas 3366/3760 |
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 18352.6-2016 con la enmienda XG1-2026 (Emisiones de contaminantes de la lumínica de China-6) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China- 6 etapa de emisión de vehículos ligeros y 2026 fechas de aplicación de la enmienda |
-| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| Xintu V90 configuration (5498 body) | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Class, body dimensions |
+| SAIC π 2.0T diesel power lineage | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, dual rear wheel |
+| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 seats (seats single-source) |
+| Xintu V90 2024 parameters | Sina Auto database | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, wheelbases 3366/3760 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confianza: no se captó ninguna hoja de espectro primario SAIC Maxus; los valores se revisan en bases de datos chinas, el recuento de asientos es de una sola fuente y está vinculado al código modelo homologado. No hay precio disponible y no se afirma ninguno. La aprobación del destino es específica para la configuración. *
+*Confidence note: no SAIC Maxus primary spec sheet was captured; values are cross-checked Chinese databases, seat count is single-source and bound to the homologated model code. No price was available and none is asserted. Destination approval is configuration-specific.*
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

@@ -83,21 +83,21 @@ Kein statischer Ausfuhrpreis. Der chinesische Richtpreis 2024 (rund 56 RMB), 800
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Wuling Bingo 203km Konfigurationstisch | Autohome Config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, Reichweite, Höchstgeschwindigkeit |
-| Bingo 2024 203km Parameter | Sohu Auto Datenbank | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Abmessungen, Radstand, Batterie, Sitze |
-| 2024 Bingo Range & Fast-Charge Update | Autohome: Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Bereichsschritte, 50 kW, DC-Lademinuten, CLTC |
-| Bingo-Abmessungen und Sitzplatzgestaltung | Auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCEN | Breite/Höhe, 2+2 Sitzplätze | 16888
-| Wuling Bingo 2025 Volllinien-Konfiguration | PCauto-Konfiguration | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mittel-/Hochmotor, Reichweite |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
-| GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 38031 Sicherheitsanforderungen an die Traktionsbatterie (GB 38031-2025; neue Typenanwendungen ab 2026-07-01 obligatorisch) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | ÜBERPRÜFUNG | Obligatorische Sicherheitsanforderung an die Antriebsbatterien für den elektrifizierten Antriebsstrang |
-| GB 18384 Sicherheitsanforderungen an Elektrofahrzeuge (GB 18384-2025) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | ÜBERPRÜFUNG | Basis der elektrischen/funktionalen Sicherheitsanforderungen an Elektrofahrzeuge |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-*Vertrauenshinweis: Eingangsbatterie Leistung überprüft; Motordrehmoment, Frachtvolumen, Sitzanzahl und Lademinuten sind Single-Source und gekennzeichnet. Keine OEM-Überseeseite — nur Referenz auf dem chinesischen Markt. *
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

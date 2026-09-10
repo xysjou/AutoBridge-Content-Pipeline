@@ -10,7 +10,7 @@
 - **เจตนาการค้นหา**: เข้าใจ ดง เฟ็ง Forthing Youing (2025/2026) — จีน-Maget MPV Specs ICE/PHEV การตรวจสอบและส่งออกของบรรทัด: ตัวส่งออกรถ/ parts ต้องตรวจสอบหรือตรวจสอบเอกสาร และตัดสินใจก่อนทําลําดับ
 - **คำแนะนำลิงก์ภายใน**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
 - **คำแนะนำรูปภาพ**: ความเป็นจริง เอกสาร/ ภาพที่โฟกัสของกล้อง Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIVE เส้น  and  เอ็กซ์โปเวอร์ ไม่มีการตรวจสอบหรือคนอ้างว่า
-- **ข้อความ ALT**: ปิดวิวธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับดงเฟ็ง Forthing Youting (2025/2026) — จีน-market MPV Specs, ICE/PHEV เส้นพื้นพื้นพื้นบ้านที่เป็นกลาง ไม่มีบุคคลหรือการตรวจสอบดําเนินการแสดง
+- **ข้อความ ALT**: ปิดวิวธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับดงเฟ็ง Forthing Youting (2025/2026) — จีน-market MPV Specs, ICE/PHEV เส้นพื้นบ้านที่เป็นกลาง ไม่มีบุคคลหรือการตรวจสอบดําเนินการแสดง
 - **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## บริบทของตัวซื้อ: ป้ายชื่อ MPV หนึ่งตัว, สายพลังงานสองสาย
@@ -56,16 +56,16 @@ The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offe
 ~ 154, 900 RMB ราคาส่งออก? ~ ไม่ — เฉพาะ แต่ การ อ้างอิง ใน ประเทศ จีน เท่า นั้น.
 เป็น upfit; ประเมินแยกจากเบส MPV
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸 轴距 轴距 座椅 车门形式 (พ.ศ. |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PhEV 动力 快充 价格 (พ.ศ. ○
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | ROOS_ CHCKED | https://m.16888.com/news/2026/0807/24830307.html | PhEV 上市信息 |
-| ดงเฟ็ง ดินแดนใด ๆ อย่างเป็นทางการ | Dongfang Tuxoo Motor Forthing 东风风行 (OEM) | CN | T1 | เปิดใช้งาน | https://www.forthingmotor.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

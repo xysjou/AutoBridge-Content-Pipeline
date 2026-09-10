@@ -98,18 +98,18 @@ trrim ทุก ๆ ส่งออกบันทึกในแผ่น
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV charging-standard compatibility GB/T CCS CHAdeMO NACS, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Chaoji นําเสนอมาตรฐาน (อย่างเป็นทางการ) | สมาคม Chademo (ส่วนมาตรฐาน) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | เปิดใช้งาน | Chaoji ออกแบบให้เข้ากันได้กับ GB/T/CHADO/CS |
-| เส้นทางการจองทํางานมาตรฐาน | การตรวจของฮยู (ตัววัด) | สากล | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | ROOS_ CHCKED | ปรับใช้ขอบเขตพื้นที่, ความแตกต่างของการตรวจสอบสิทธิ์ |
-| กําลังชาร์จมาตรฐานการเชื่อมต่อ | CEGE (สื่อข้อมูล) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | ROOS_ CHCKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930 เชาจิ |
-| GB/T, CCS2 ประเภท 2 NACS, Chademo เปรียบเทียบ | DEce-Perger.com (ingury) | สากล | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | ROOS_ CHCKED | GB/Thappy CCS2 ต้องการอะแดปเตอร์ และช่วยให้เข้ากันได้กับเมทริกซ์ |
-| นําไปสู่มาตรฐานการชาร์จไฟฟ้าระดับโลก | มานู อิเคล (ฝุ่น) | สากล | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | ROOS_ CHCKED | เชื่อมต่อปลายทางแบบ GB/ T (T) แบบกลับหน้ากลับหน้า |
-| GB/T ต่อ CHADMO ไกด์ Adtember B2B | ประเทศจีนอัตโนมัติ (ฝุ่น) | สากล | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | ROOS_ CHCKED | ส่งออกเป็นแฟ้มหลายแฟ้มที่เข้ากันได้ |
+| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional rollout, certification differences |
+| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
+| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
+| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
 
-*จดหมายอ้างอิง (มาตรฐานอัตโนมัติ): ข้อเท็จจริงระดับมาตรฐานคือ ISFIE/CROSS_CHCKKED (CHADDMO) การ คบหา สมาคม เป็น มาตรฐาน การเชื่อมต่อแบบต่อเครื่องส่งสินค้า ปรับตัวตามกฏหมายโดยประเทศ และ NACS trollout ไม่ได้ถูกบันทึก และต้องได้รับการยืนยันต่อ VIN และต่อหน่วยงานกําหนดปลายทาง *
+*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

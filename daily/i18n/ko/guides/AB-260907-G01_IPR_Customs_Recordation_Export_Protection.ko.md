@@ -73,16 +73,16 @@ Ex-officio 액션은 관세되고 우선 기록이 필요합니다. On-request �
 
 그들은 현재 공식 규정에 의해 놓이고 사정 당 평가되고 시간 과민합니다; 각 케이스를 위한 공식 세관 수로를 통해서 현재 총계를 확인합니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-中海人理路跡(海人方년) | 中国海人 | CN | T1 | VERIFIED | http://www.custom.gov.cn/customs/2026-01/13/article_2026041015241570097.html | VER, 鶏理路 |
-| 《 知识产权海关保护条例》 国务院公报文本 (保护模式 、 扣留) | 中国政府网·国务院公报 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2019/content_5468830.htm | 条例依据, 保护模式,  扣留 |
-| 知识产权海关保护实施办法 (备案程序、 担保) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2009-04/10/article_2025121221035852278.html | 实施办法, 备案程序,  担保 |
-| 实施办法国务院公报文本 | 中国政府网·国务院公报 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2009/content_1471720.htm | 实施办法公报文本 |
-| 知识产权海关保护备案系统操作说明 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=f17bd6911cdb4a0eb63a832c0c3c596a | 备案系统操作 |
-| 知识产权海关备案实务流程与材料 (贸促系统指引년) | 宁夏贸促会 | CN | T1 | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202510/t20251031_5070879.html | 实务流程,  材料 |
-| 国家知识产权局 (商标 / 专利权属登记主管机关) | 国家知识产权局 (CNIPA) | CN | T1 | VERIFIED | https://www.cnipa.gov.cn/ | 商标 / 专利权属基础 / 商标 / 专利权属基础 / 商标 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 商标 / 专利权属基础 / 商标 / 专利权属基础 / 专利权属基础 / 商标 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 商标 / 专利权属基础 / 商标 / 专利权属基础 / 商标 / 专利权属基础 / 专利权属基础 / 商标 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 / 专利权属基础 |
+| 知识产权海关保护备案与办理路径（海关总署官方） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241570097.html | 备案制度, 办理路径 |
+| 《知识产权海关保护条例》国务院公报文本（保护模式、扣留） | 中国政府网·国务院公报 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2019/content_5468830.htm | 条例依据, 保护模式, 扣留 |
+| 知识产权海关保护实施办法（备案程序、担保） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2009-04/10/article_2025121221035852278.html | 实施办法, 备案程序, 担保 |
+| 实施办法国务院公报文本 | 中国政府网·国务院公报 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2009/content_1471720.htm | 实施办法公报文本 |
+| 知识产权海关保护备案系统操作说明 | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=f17bd6911cdb4a0eb63a832c0c3c596a | 备案系统操作 |
+| 知识产权海关备案实务流程与材料（贸促系统指引） | 宁夏贸促会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202510/t20251031_5070879.html | 实务流程, 材料 |
+| 国家知识产权局（商标/专利权属登记主管机关） | 国家知识产权局(CNIPA) | CN | primary | VERIFIED | https://www.cnipa.gov.cn/ | 商标/专利权属基础 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)

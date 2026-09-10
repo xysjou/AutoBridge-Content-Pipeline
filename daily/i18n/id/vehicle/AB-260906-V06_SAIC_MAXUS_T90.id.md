@@ -68,16 +68,16 @@ Kira-kira 1485 mm (standar) atau 1800 mm (panjang-roda); angka-angka sumber tung
 
 Tidak - hanya Cinese- pasar diesel; EV adalah produk terpisah dengan spesifikasi yang berbeda dan aturan pengiriman.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | T3 | SINGLE _ SOURCE | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
-| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | T3 | SINGLE _ SOURCE | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻: 今日头条镜像 | CHINA | T3 | SINGLE _ SOURCE | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 非承载 接近角 离去角 | 太平洋汽车百科 | CHINA | T3 | SINGLE _ SOURCE | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, penarik) - scope ekspor | SAIC MAXUS Global | EXPORT | T1 | TERBATAI | https://en.saicmaxus.com/car/t90.shtml | identitas - spesifikasi GLOBAL ekspor; TIDAK dapat disamakan dengan nilai-nilai pasar Cina 星际 T90 |
-| 上汽大通 MAXUS T90 中国官方: 配置 价格 | SAIC MAXUS Cina | CN | T1 | TERBATAI | https://www.maxusmall.com/T90.shtml | engine _ diesel - China- pasar resmi configs dan harga referensi domestik |
-| 道路机动车辆生产企业及产品公告: 查询入口 | 中华人民共和国工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/datainfo/cpgg/ | engine _ diesel - verify homologated varian pickup Cina |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

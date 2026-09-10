@@ -1,6 +1,6 @@
 # 중국 차량 수입 칠레: FTA 설정, IVA 및 3CV 호모로그레이션 단계
 ## SEO 메타데이터
-- **SEO 제목**: 칠레에 중국 EV 가져 오기: FTA Preference, IVA 및 3CV 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
+- **SEO 제목**: 칠레에 중국 EV 가져 오기: FTA Preference, IVA 및 3CV 의
 - **메타 설명**: 중국 - 칠레 FTA 선호도는 중국 건설 차량, 칠레 세관 6% 일반 의무 및 19% IVA 공식적으로 확인, 왜 원산지 증명서는 조건이며, 3CV 균질 적합.
 - **H1**: 중국 차량 칠레: FTA Preference를 사용하여 미스케이프링 토지 비용 없이
 - **주요 키워드**: 칠레 중국 FTA 차량 수입품 의무 IVA 균질
@@ -15,7 +15,7 @@
 ## 기회와 재순환
 칠레는 주요 파트너와 함께 자유 무역 협정을 운영, ** 포함 중국**. 고분고분한 중국인 자동차는 FTA 선호도 (ad-valorem ** 의무 0% **)를 사용할 수 있으며 칠레의 ** 일반 광고 - Valorem 의무는 6% CIF 세관 값**의 비 선호도 - 이제 공식 소스 (아래)에 고정됩니다. 재회 구매자 오류는 "FTA 0% 의무"를 "0% 수입 비용"으로 읽습니다. 그것은 아닙니다: ** 19% IVA는 여전히 적용, 0%는 기원을 깎아서 달려 있고, 균질은 분리된 운동입니다. ** 이 가이드는 **Chile**에 따라 다릅니다.
 ## 세금 스택, 라인 (공식적으로 접지)
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의약 | 기초 신뢰 |
+| 의 | 의약 | 기초 신뢰 |
 |---|---|---|
 | 일반 광고-valorem 의무 | ** 6% of CIF (고객 가치) ** 비 환경 설정 기원 | **VERIFIED - 칠레 국가 세관 서비스 (aduana.gob.cl) ***************************************************************************************************************************************************************************************************************************************************************** |
 | IVA (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT)) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT)) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT)) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT)) (VAT) (VAT))) (VAT) (VAT) (VAT) (VAT) (VAT)) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT) (VAT)))) (VAT) (VAT) (VAT) (VAT)))))) (VAT) (VAT) (VAT | ** CIF 세관 가치 + 의무에 19% ** - 의무가 FTA에서 0% 인 경우에도 청구 | ** 검증 된 — aduana.gob.cl** |
@@ -24,7 +24,7 @@
 칠레 세관은 일반적으로 일반 규칙을 주지 않습니다: 수입은 세관 가치와 의무에 대한 CIF 및 19% IVA에 6% 광고 - Valorem 의무를 지불합니다. 중국-오리진 차량은 FTA에서 ** 듀티**를 제거하지만 ** 19% IVA. 전체 스택에서 착륙 비용을 구축, 헤드 라인에서 절대 "0%."
 ### 일반 단축에 대한 수정
 초안은 차량 스택에 "1% 수수료 및 US $ 30 de-minimis exemption"을 실시했습니다. 즉, 규칙은 ** 작은 비 상업 우편 및 택배 위탁, 상업 차량 수입 **, 그래서 차량 비용 구조에서 제거되었습니다. 택배를 신청하지 마십시오 de-minimis 로직을 배송 자동차에.
-## 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 0%의 조건은 - 인증서 권리를 얻으십시오.
+## 의 0%의 조건은 - 인증서 권리를 얻으십시오.
 FTA 선호도는 **리기트 상품**에 해당되는 상품의 특정 규칙을 충족하고 유효 ** 공인된 신체에 의해 발행 된 원산지**의 인증, 송장, 포장 목록, B L 및 VIN에 따라 일관성. 가동:
 - 차량의 **HS 코드** 및 그 FTA 규칙을 확인 (현재 FTA 텍스트 SUBREI를 확인 - 모든 차량 할당을 자동으로 가정하지 마십시오).
 - FTA 인증서를 취득하여 같은 및 차량 세부 사항을 상업 문서로 나타낸다.
@@ -81,18 +81,18 @@ FTA 선호도는 **리기트 상품**에 해당되는 상품의 특정 규칙을
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| "나큐셀 아들 los impuestos que debo pagar al importar?" (6% CIF + 19% IVA CIF + 듀티, 일한 예) | Servicio Nacional de Aduanas (**Chilean Customs, 정부 공식**) | ₢ 킹 | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html 위한 의약 | 2026-09-03 | ** 인증** | CIF에 일반 6% 광고 Valorem; 19% IVA 기지 |
-| "Importación de vehículos"(차량 6% + IVA 19%) | Servicio Nacional de Aduanas (**정부 공식**) | ₢ 킹 | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html 사용하십시오 | 2026-09-03 | ** 인증** | 차량별 의무/IVA 성명; 서비스 -fee 구분 |
-| 중국–Chile FTA 선호도 (수입 기원 0%), 인증서 기초 | MOFCOM의 특징 칠레의 중국 선교 (**official trade body**) | CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, CL/CN, | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html 포함하십시오 | 2026-09-02 | ** 인증** | FTA 0% 선호 채널; 기원 - 인증 조건 |
-| 엑세스 엑세스(proposal)|자동구토(차일란 자동차)| 엑세스| https://www.facebook.com/ko/ko/ | 2026-09-02 | SINGLE_SOURCE(싱글) | Proposal 상태 만 - 명시적으로 enacted하지 않음 | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html
-| 로스 컨테라스 - 智利 2026 关税 | 로스 Contadores(智利本地财税) | ₢ 킹 | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE(싱글) | 2026 普通关税 6%、 自贸国 0%、 IVA 19% |
-| Jinyu 자동차 - 中国车进口智利指南 | Jinyu 자동차 (行业站) | ₢ 킹 | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE(싱글) | 中智 FTA 0% 关税通道 |
-| huajiame - 全球汽车进口关税指南의 | huajiame (行业站년) | ₢ 킹 | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE(싱글) | 智利关税 6% (FTA 0%),VAT 19%, 奢侈品税 15% (>~$ 35k) |
+| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Chilean Customs, government official**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | **VERIFIED** | General 6% ad-valorem on CIF; 19% IVA base |
+| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
+| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
+| ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | single source | Proposal status only — explicitly not enacted |
+| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | single source | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | single source | 中智 FTA 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | single source | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-*Confidence 참고: 6% 일반 의무 및 19% IVA는 칠레 세관에 VERIFIED; FTA 0% 선호는 공식이지만 기원에 따라 조건입니다. 이전에 포함 된 1% /US $ 30 택배 규칙 (차량에 적용되지 않음), 비정확한 고급 재고 문턱 및 고정 3CV 수수료는 사실체에서 제거되었습니다; 기원의 HS 수준 규칙 및 모든 재고는 칠레 세관 SII SubreI로 확인해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

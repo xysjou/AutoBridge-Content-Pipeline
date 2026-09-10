@@ -53,7 +53,7 @@ Les limites de quantité/d'état, comme un pourcentage fixe **de l'état de char
 2. Confirmer que la batterie est **installée** (entrée du véhicule) par rapport à **loose** (UN3480/3481).
 3. Appliquer ** P912 **; appliquer ** SP405 ** marquage si ce n'est pas entièrement fermé.
 4. Assemblage ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8 résumé d'essai** pour la batterie.
-5. Obtenir l'instruction DG/SOC du transporteur  and  Documentation de la classe 9  and  - Je suis en train de faire des plaques.
+5. Obtenir l'instruction DG/SOC du transporteur ainsi que la documentation de la classe 9, et préparer les plaques/étiquettes.
 
 ## Limites du présent guide
 - Pas de pourcentage fixe de la COS ou de limite de quantité sans base officielle.
@@ -92,16 +92,16 @@ Les limites de quantité/d'état, comme un pourcentage fixe **de l'état de char
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Code IMDG Modification 42-24 texte officiel chinois PDF | Administration chinoise de la sécurité maritime | Exécution de la LIT/CN | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VÉRIFIER (primaire) | 42-24, MSC 556 (108), 2026-01-01, UN3556-3558, P912, classe 9 |
-| Manuel d'épreuves et de critères de l'ONU (Rev. 8 + Amendement 1), section 38.3 (SCETDG- 66 INF. 30) | Sous-Comité CEE/ONU | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VÉRIFIER (primaire) | Rév. 8+Amd.1,  UN38.3 T.1–T.8, sodium-ion |
-| UN/SCETDG- 64 INF. 29 Identification de la batterie au lithium 38.3 amendement au marquage | CEE-ONU | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VÉRIFIER (primaire) | 38.3 amendements au marquage |
-| États-Unis 49 CFR § 173.185 (sociétés UN38.3 par IBR) | États-Unis d'Amérique GovInfo (CFR) | États-Unis | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VÉRIFIER (primaire) | UN3480/3481, référence légale UN38.3 |
-| Interprétation de l'IMDG 42-24 (MSC. 556 (108), date d'entrée en vigueur) | Chine Maritime (reposte) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | _CHECTURE (soutien) | Interprétation effective |
-| UN3556 SP405 interprétation du marquage | Nouvelles de Jiupai (reposte) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SOURCE UNIQUE (soutien) | Signalisation SP405 |
-*Note de preuve: la classification de base fondée sur les sources primaires MSA (IMDG 42-24) et CEE (Révision manuelle 8+Amd.1, 49 CFR); Les pages médias/industries ne sont que des éléments de preuve et ne sont pas les principales preuves des numéros ONU ou UN38.3. Les valeurs SOC fixes restent bloquées. *
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)

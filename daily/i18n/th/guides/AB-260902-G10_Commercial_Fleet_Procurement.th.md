@@ -43,7 +43,7 @@
 ## ขั้น ที่ 6 — จุด หมาย ปลาย ทาง ที่ จะ บรรลุ ผล สําเร็จ ก่อน การ ผลิต
 สืบค้นหาปลายทางก่อนจาก~ overing: ROD/LHD, กฎการจําหน่ายรถยนต์ และขั้นตอนการปล่อยก๊าซที่ได้รับการยอมรับ — ประเทศ-เขตจํากัด (ดูที่ซาอุดิ, รัสเซีย และ ชิลี). กองเรือเอกจีน ไม่สามารถนําเข้าได้โดยอัตโนมัติ
 ## สิ่งที่เพิ่ม AutoBridge นอกแม่แบบแบบ Surrent
-เจ้าหน้าที่อ้างอิงเรื่องรถบรรทุก กรอบที่แนะนําคือ การแปลวงจรการซื้อเป็นส่วนเกินของวงจร * กํากับเทคนิคที่ทนทานได้ *, ตรวจดูผู้ส่งออกกับรายการที่มีคุณภาพ 2026 และกฏการแบ่งตัวผู้โดยสารแบบขาวสะอาดโดยหมวดหมู่ * และระบุค่าการรับข้อมูล **. รองรับการรับข้อมูล, การประเมินค่าความหนาของแผ่น แผ่น แผ่น, ชื่อเรือที่ไม่สามารถส่งได้โดยการสร้างที่อ่อนกว่าได้
+เจ้าหน้าที่อ้างอิงเรื่องรถบรรทุก กรอบที่แนะนําคือ การแปลวงจรการซื้อเป็นส่วนเกินของวงจร * กํากับเทคนิคที่ทนทานได้ *, ตรวจดูผู้ส่งออกกับรายการที่มีคุณภาพ 2026 และกฏการแบ่งตัวผู้โดยสารแบบขาวสะอาดโดยหมวดหมู่ * และระบุค่าการรับข้อมูล **. รองรับการรับข้อมูล, การประเมินค่าความหนาของแผ่น, ชื่อเรือที่ไม่สามารถส่งได้โดยการสร้างที่อ่อนกว่าได้
 ## ขนาดการต่อรอง (ไม่ประดิษฐ์ตัวเลข)
 ทําตามสัญญา: ระดับความชอบของราคาหน่วย วาร์เรนตี ตารางการส่งมอบที่สําคัญ การตรวจสอบสิทธิ์และอัตราลดโทษ แยกแยะตัวเลขจริงต่อโครงการ ไม่เคยตั้งเปอร์เซ็นต์จํานวนมาก
 ## Checkkate มาก่อน
@@ -51,7 +51,7 @@
 - axle/suspression/body วัสดุและความหนาของระดับความอ่อน
 - ผู้ส่งออกตรวจสอบสิทธิ์บนรายการที่มีคุณภาพของ # 2026 ** โดยมีสัญญาอนุญาตสิทธิ์แบบส่งออกที่ถูกต้อง + การอนุญาตสิทธิ์ OEM (หรือใช้เงื่อนไขรถ)
 -
-- ห่วงโซ่เอกสาร (หมายเลขเลขเลข VIN/เครื่องยนต์, Incceptember, ค่าประกัน, ใบอนุญาต).
+- ห่วงโซ่เอกสาร (หมายเลข VIN/เครื่องยนต์, Incceptember, ค่าประกัน, ใบอนุญาต).
 - ปลายทาง RHD/ age/ export continuation/import alsolution.
 - วิธีการรับเชื้อ และหลังการลดโทษฝังอยู่ในสัญญา
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
@@ -86,16 +86,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFFCOM (*เจ้าหน้าที่รัฐบาล~) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ~"ผ่านเข้ามา" | ระบบโปรแกรมออนไลน์, การทบทวนระบบ, โพรเซสที่มีคุณภาพ |
-| ผู้โดยสารข้ามชาติ ส่งสินค้าข้ามแดนจาก 2026-01-01 (ประกาศหมายเลข 54); HS 8703801090) | MOM/MIT/GAC/SAMR (SrtHSOCE SOSTE SOSTE SOSTE SOSTE ท ท |  MO  MO  MO  MO  MO ฐ ฐ ฐ38383838 Sam). | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ~"ผ่านเข้ามา" | 2026 ระบบส่งออกแบบ STIVE-passener |
-| 2026 ร9678787878783838ก่ ่ ่ ่ อ อ อ อ อ อ อ อ อ อ อ อ อ FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | D | | | D D D D | D | | D D | | | | | | | | | | | | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ~"ผ่านเข้ามา" | enterprises ที่มีคุณสมบัติสําหรับปีปัจจุบัน |
-| การจัดการการส่งออกรถที่ใช้แล้ว เสริมมากขึ้น (Nov 2025) | MOFFCOM/MIT/MPS/GAC ผ่าน Gov.cn (*เจ้าหน้าที่รัฐบาล). | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ~"ผ่านเข้ามา" | แก้ไขความสอดคล้องระหว่างเครื่องส่งที่ใช้แล้ว |
-| 15-unit แบบวางถัง (การแบ่งสัญญาณเทคนิค) | ถนนฮุนและสะพานกรุ๊ป (นุ่ม) | เอเชีย | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ~"ผ่านเข้ามา" | ≥15 m³, เหล็ก T700  floor ≥10 mm, ด้าน ≥ 8 mm ชนิดการยก |
-| ค ค/2424/24/ม อ/ม/ม/ม/ม/ม/ม/อ อ/อ/อ/อ/อ/อ อ อ อ อ อ อ น น น น อ CPU ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ู ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ต ล ล ล ล Chenlik 12-step flow) | ฟิล์ม CNMLGlobal | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | ROOS_ CHCKED | โพรเซส |
-* ข้อสังเกตการยอมรับ: ระบบการส่งออก 2026 และตัวชี้ของการยอมรับอย่างอ่อนโยนนั้น เชื้อโรค (CROSS_CHCKED) รายชื่อปีปัจจุบัน, เครือข่ายต่างประเทศ, และสัญญาพาณิชย์ทั้งหมด (เวลาของกลุ่มย่อย/โมมูคิว/สารตะกั่ว) ถ่ายทอดสดและไม่เคยประมาณ *
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

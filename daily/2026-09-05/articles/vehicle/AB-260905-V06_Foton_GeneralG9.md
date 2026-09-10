@@ -28,16 +28,16 @@ The **Foton General G9 (大将军G9, 2025)** is a Chinese-market body-on-frame p
 | Specification | Value | Unit | Market | Confidence | Source note |
 |---|---|---|---|---|---|
 | diesel engine | 2.0T 4F20 柴油 | - | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| diesel power | 120 (163Ps) | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| diesel power | 120 (163Ps) | kW | CHINA | single source | 太平洋汽车 |
 | diesel torque | 390 或 415（版本差异，未锁定） | N·m | CHINA | CONFLICT | 太平洋 vs 懂车帝2025款详表 |
-| gasoline engine power | 175 | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| gasoline torque | 360 | N·m | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| transmission | 6MT / 8AT | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| drivetrain options | 后驱 / 适时四驱 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| gasoline engine power | 175 | kW | CHINA | single source | 太平洋汽车 |
+| gasoline torque | 360 | N·m | CHINA | single source | 太平洋汽车 |
+| transmission | 6MT / 8AT | - | CHINA | single source | 太平洋汽车 |
+| drivetrain options | 后驱 / 适时四驱 | - | CHINA | single source | 太平洋汽车 |
 | dim short wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCE | 太平洋汽车百科 |
-| suspension | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| emission standard | 国VI（0#柴油） | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | single source | 太平洋汽车百科 |
+| suspension | 前双叉臂 / 后整体桥 | - | CHINA | single source | 太平洋汽车 |
+| emission standard | 国VI（0#柴油） | - | CHINA | single source | 太平洋汽车 |
 
 ## Pickup export checks: bed, drivetrain and the torque conflict
 Pickup orders fail most often on bed length and drivetrain. Choose short or long wheelbase and match it to the bed dimensions; choose 4WD only where the build confirms a transfer case/low range. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — obtain the OEM configuration sheet for the exact VIN rather than picking the favourable number. Towing mass is not captured and must not be estimated. Confirm the emission stage (China-VI diesel, 0# fuel) against destination fuel quality and admission rules.
@@ -60,14 +60,14 @@ Pickup orders fail most often on bed length and drivetrain. Choose short or long
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | T3 | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

@@ -12,7 +12,7 @@
 - **ข้อความ ALT**: ใบอนุญาตนําเข้ารถนําเข้าและเอกสารศุลกากรบนโต๊ะที่มีลานท่าเรือแอฟริกาใต้
 - **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
-แอฟริกาใต้ดําเนินการนําเข้ารถ ผ่านสามหน่วยงานที่แตกต่างกัน และสับสนพวกเขาเป็นเหตุผลมากที่สุด The Unternational Transferation Expression (ISTAC) ควบคุมว่ารถอาจจะนําเข้าหรือไม่ก็ได้; ตัวแบ่งเขตของ continuation= continuation for Commissions (NRCS) กํากับว่า ปฏิบัติตามข้อกําหนดความปลอดภัยตามเกณฑ์การใช้ผ่านจดหมายกํากับการบังคับใช้และควบคุมการส่งท้ายด้วยระบบระบบระบบของหน่วยงานและระบบย่อยขององค์กรผู้บังคับการ และตัวควบคุมการตรวจสอบและภาษีของโซสุทธน แอฟริกา- CARE (S) ประเมินและเก็บภาษีและเก็บภาษี และได้ผ่านระบบ นี่คือคู่มือที่ระบุเขตการปกครองของแอฟริกาใต้ มันไม่ใช่กฎเขตการปกครองสําหรับประเทศเพื่อนบ้าน
+แอฟริกาใต้ดําเนินการนําเข้ารถ ผ่านสามหน่วยงานที่แตกต่างกัน และสับสนพวกเขาเป็นเหตุผลมากที่สุด The Unternational Transferation Expression (ISTAC) ควบคุมว่ารถอาจจะนําเข้าหรือไม่ก็ได้; ตัวแบ่งเขตของ continuation= continuation for Commissions (NRCS) กํากับว่า ปฏิบัติตามข้อกําหนดความปลอดภัยตามเกณฑ์การใช้ผ่านจดหมายกํากับการบังคับใช้และควบคุมการส่งท้ายด้วยระบบของหน่วยงานและระบบย่อยขององค์กรผู้บังคับการ และตัวควบคุมการตรวจสอบและภาษีของโซสุทธน แอฟริกา- CARE (S) ประเมินและเก็บภาษีและเก็บภาษี และได้ผ่านระบบ นี่คือคู่มือที่ระบุเขตการปกครองของแอฟริกาใต้ มันไม่ใช่กฎเขตการปกครองสําหรับประเทศเพื่อนบ้าน
 
 ## ลําดับ: อนุญาต และ โล เอ ก่อน จะ มี เรือ พาหนะ
 
@@ -74,16 +74,16 @@ SARS จัดการประกาศศุลกากร การปร�
 
 ไม่ และ ต้อง แสดง ให้ เห็น ว่า ต้อง ทํา ตาม ข้อ บังคับ ของ เอ็น อาร์ ซี เอส สําหรับ แบบ อย่าง เฉพาะ และ ด้าน พวงมาลัย ก็ เป็น การ พิจารณา อีก อย่าง หนึ่ง.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | คณะ กรรมการ กลาง | ขนาด ZA | T1 | เปิดใช้งาน | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 — 南非进口管制 |
-| ITAC 官网 (机构身份与进口管制 关税职能) พ.ศ. | แอตแลนตา | ขนาด ZA | T1 | เปิดใช้งาน | https://www.itac.org.za/ | 主管机构身份 — 机构 |
-| SAARS MENAGNEEEEEMELEX ( S  S SAARS MENE MENEEEEEMEXOLE ล ล โ โ โ//i1/10/10101010 ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม  Name=Charles & Exccess (海关征管; 外籍注册车辆 TMS 申报 2026-06-01 起等当期通告) | การ รับ ใช้ แบบ ไรช์ แอฟริกา ใต้ | ขนาด ZA | T1 | เวลา | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
-| NRCS (强制性规范与 อักษรแห่งอํานาจ, 含 Automovive 汽车类别) | ตัวแบ่งเขตชาติสําหรับการจัดองค์ประกอบ | ขนาด ZA | T1 | เปิดใช้งาน | https://www.nrcs.org.za/ | 强制规范, เลาอา, 汽车类别 — 南非强制合规 |
-| 南非拟调整中印进口车关税 (媒体报道, 仅 Times/SESTIVE 背景, 税率须 SARS/ISTAC 官方核). | 今日头条 (媒体). | ขนาด ZA | T3 | เวลา | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
-| กําลังนําเข้ารถมือสองหรือใช้แล้ว (คู่มือการใช้งาน) | รัฐบาล แอฟริกา ใต้ | ขนาด ZA | T1 | เปิดใช้งาน | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | Itac_permit — ITAC อนุญาตก่อน, หน้าที่จ่ายเพื่อการ SASS, อัตราต่อตารางปัจจุบัน |
-| จดหมาย เรื่อง อํานาจ ใน การ นํา เข้า หรือ สร้าง รถ มอเตอร์ ขึ้น ใหม่ | รัฐบาล แอฟริกา ใต้ | ขนาด ZA | T1 | เปิดใช้งาน | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | NRcs_loa — NRCLOA |
+| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | International Trade Administration Commission of South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 — 南非进口管制 |
+| ITAC官网（机构身份与进口管制/关税职能） | ITAC South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/ | 主管机构身份 — 机构 |
+| SARS Customs & Excise（海关征管；外籍注册车辆TMS申报2026-06-01起等当期通告） | South African Revenue Service | ZA | primary | TIME_SENSITIVE | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
+| NRCS（强制性规范与Letter of Authority，含Automotive汽车类别） | National Regulator for Compulsory Specifications | ZA | primary | VERIFIED | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 — 南非强制合规 |
+| 南非拟调整中印进口车关税（媒体报道，仅TIME_SENSITIVE背景，税率须SARS/ITAC官方核） | 今日头条(媒体) | ZA | media/industry | TIME_SENSITIVE | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
+| Importing a second-hand or used vehicle (official guide) | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC permit first, duty paid to SARS, rates per current schedule |
+| Letter of authority for imported or rebuilt motor vehicle | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa — NRCS LOA required for new and used vehicles before import/registration |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

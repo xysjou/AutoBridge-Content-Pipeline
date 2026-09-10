@@ -2,7 +2,7 @@
 
 ## ข้อมูลเมตา SEO
 - **ชื่อ SEO**: Folton ทั่วไป G9 Chickup 2025: จีน-Maget Desel/Petrol Spects & ส่งออกคู่มือ
-- **คำอธิบาย Meta**: จีน-มาร์เก็ต ฟอตัน นายพล G9 (大将军 G9) รถกระบะ: 2.0T ดีเซล และพีพีพีซี 6MT/8AT, RWD/4WD, เตียงและล้อรถมิติ และเครื่องจับอนุภาคดีเซลที่ขัดแย้งกัน
+- **คำอธิบาย Meta**: จีน-มาร์เก็ต ฟอตัน นายพล G9 (大将军 G9) รถกระบะ: 2.0T ดีเซล และพีซี 6MT/8AT, RWD/4WD, เตียงและล้อรถมิติ และเครื่องจับอนุภาคดีเซลที่ขัดแย้งกัน
 - **H1**: Folton ทั่วไป G9 / ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs  and  Check ของส่งออก
 - **คีย์เวิร์ดหลัก**: โฟตอน / 福田 พลเอก G9 / 大将军 G9 皮卡 สเปกตรัม
 - **คำค้นหารอง**: Footon ทั่วไป G9 ส่งออกเสียง; ดาเจียงจุน G9 รถกระบะ; รถกระบะดีเซลจีน 4WD รถกระบะ; แท็กซี่คู่
@@ -56,17 +56,17 @@ The ~Foton gener G9 (大将军 G9) 2025) ~ช่างเป็นปิกอ�
 ~มิติที่ไม่มีวันตาย~ One-source here; สืบค้นเมื่อเทียบกับก่อนทําการสั่งซื้อ
 ~ น้ํามันเชื้อเพลิงอันไหนสําหรับดีเซล? ~ จีน-VI 0 ดีเซล; ตรวจสอบการเข้ากันได้ของเชื้อเพลิง
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | T3 | ROOS_ CHCKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | ROOS_ CHCKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | T3 | ROOS_ CHCKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

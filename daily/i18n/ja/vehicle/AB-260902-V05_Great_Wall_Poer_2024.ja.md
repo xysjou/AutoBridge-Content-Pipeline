@@ -76,19 +76,19 @@ GWM Poer(中国名炮 Pao、一部の輸出市場GWM Ute)は、中東、ANZ、�
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWMの積み込みの公式の構成テーブル(GW4C20B/GW4D24、8AT/9ATの純力/トルク) | GWM (**メーカー公式**) | CN の | 以下は、 https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 の | 2026-09-03 | **検証済み** | 現在の公式の純出力160 kW/380 N·mガソリン、135 kW/480 N·mディーゼル、8AT/9AT |
-|  GWM  の  POER  2.4 の輸出 (181 hp / 480 N·m / 9AT のボディ・オン フレーム 4WD) |  GWM  ヨルダン (** メーカー公式 ** | 輸出 /  JO  | 以下は 、 | 2026-09-03 | 検証済み ** | 2.4 ディーゼル出力 、 9AT 、 4WD ボディオン フレームを輸出して下さい | https://www.gwmjordan.com/en/poer/poer?v=440
-| GWM UK POER300 の進水(2.4 ディーゼル 183 PS/480 N·m、9AT、フルタイム 4 の × 4 の低範囲) | ギム 英国車(**メーカー公式**) | | 以下は、 https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **検証済み** | 輸出ディーゼル評価、9AT、4の× 4低範囲 |
-| 2024年|京都・京都・京都・京都・京都・京都・祇園・京都・祇園・祇園・祇園・京都・祇園・祇園・祇園・祇園・小松・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・松尾・ CP(中国旅客参照) | PCauto(太平洋汽車) | CN の | 以下は、https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED(クロス)の仕様 | 2024 旅客用 140 kW / 360 接近 、135kW / 480 接種 、 ZF 8AT | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全運航状況 | 安全・安心・安全・安全・安全・安心・安全・安全・安全・安全・安心・安全・安心・安全・安全・安全・安心・安心・安心・安全・安全・安心・安全・安全・安全・安全・安全・安心・安心・安全・安全・安全・安心・安全・安全・安心・安心・安全・安全・安全・安全・安全・安全・安全・安心・安心・安全・安全・安心・安心・安心・安心・安全・安心・安心・安全・安全・安全・安全・安心・安心・安全・安全・安心・安心・安全・安全・安全
-| パオ | オートホーム | CN の | 以下は | 2026-09-02 | CROSS | CHECKED | 3230/3470 | https://product.360che.com/m792/198189_param.html 360che
-| 汽车之家 问答 (炮动力) | 汽车之家 | CN の | 以下は、 https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | シングル_ソース | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN の | 以下は、 https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | シングル_ソース | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
-| 网上车市 炮乘用皮卡参数 | 网上车市 | CN の | 以下は、 https://a.cheshi.com/bseries_4361/param.html の | 2026-09-02 | シングル_ソース | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*Confidence Note: 現在の出力/転送は、GWM公式ページでVERIFIEDされます。 2024中国旅客値は、データベース上でCROSS_CHECKEDであり、モデルの混合年を避けるために意図的に別々に保管されます。 ペイロード/GVW/トーイングは、公式シートに残っており、予想外です。 ふりがな
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05

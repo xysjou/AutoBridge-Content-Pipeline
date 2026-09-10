@@ -27,7 +27,7 @@
 
 وتُخصَّص أرقام الـ 343 kW و337 kW مقابل صافي** قوة على أسس مختلفة؛ وكلاهما مع علاماته بدلا من اختيار واحدة. (اللوحة السائلة (1100–1600 ريم) هي ما يهم لدرجة التدرج.
 
-## Gearbox, Axle and Train Weight
+## ناقل الحركة والمحور ووزن القاطرة
 - ** Gearbox**: Dongfeng ** DT1422 DT14 14-speed ** (Volvo-technology lineage)، مع خيار **-AMT** - دليل الدولة ضد AMT بناء على الترتيب.
 - **Drive**: 6x4 رأس جرّار؛ ويجب اختيار نسبة الأكسدة الخلفية للطريق (الطريق السريع ضد الدرجة الثقيلة).
 - ** GVWR (tractor alone)**: ** 25 t **؛ ** وزن يزن حوالي 8.8 t **.
@@ -80,19 +80,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tianlong KL465 طول العمر | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | صرخات | DDi11، 14-speed |
-| Tianlong KL 465 AMT parameters | الأخبار العاشرة | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | SINGLE OURCE | خيار AMT، فرقة تراك |
-| Tianlong KL 465 chassis ' t gearbox | 360che (توتوياو) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | صرخات | DT1422, GVWR, curb, GCW |
-| دونغفنغ تيانلونج (مراجعة عبر موسوعة الأسكوبيديا) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | SINGLE OURCE | فحص شامل لفرضيات القوة |
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* ملاحظة بشأن الملاءمة: لا يوجد OEM كتيب أولي؛ وفحص شامل للتجارة. طاقة رُفّت/صافيّة;Other power and gas versions excluded. إشارة إلى السوق الصينية؛ تأكيد على إعلان MIIT. ♪
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

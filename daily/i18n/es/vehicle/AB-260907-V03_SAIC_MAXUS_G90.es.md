@@ -25,7 +25,7 @@ Un cuerpo de 5.28-metre en una base de 3.2-metre es la propuesta de valor básic
 
 | Tema | Referencia del mercado chino | Notas | Confianza |
 |---|---|---|---|
-| 2.0T gasolina | 172 kW (234 PS) / 360 N·m, 8-speed automático (8AT), FWD | Línea de referencia 2025 | SINGLE_SOURCE — confirm by VIN/OEM|
+| 2.0T gasolina | 172 kW (234 PS) / 360 N·m, 8-speed automático (8AT), FWD | Línea de referencia 2025 | single source — confirm by VIN/OEM|
 
 Esta página tiene un alcance deliberado para la gasolina **ICE** G90. Cualquier derivado híbrido, plug-in o puro-electrónico es un motor de potencia diferente y no se describe aquí; un exportador no debe fusionar las cifras electrificadas en la especificación de gasolina. La salida 172 kW / 360 N·m actualmente descansa en una única fuente independiente y debe cerrarse contra la hoja de configuración oficial MAXUS o la entrada exacta de homologación MIIT antes de que se pague un depósito.
 
@@ -84,16 +84,16 @@ La línea de mercado chino referenciada es la unidad delantera.
 
 El coche chino es LHD; RHD/export construye requieren pruebas OEM separadas y no debe ser asumido idéntico en el poder, asientos o equipo.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)

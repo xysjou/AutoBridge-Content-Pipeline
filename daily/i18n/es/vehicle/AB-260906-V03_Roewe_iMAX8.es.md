@@ -18,7 +18,7 @@ El Roewe iMAX8 es el medio/grande de la SAIC - un cinco puertas, siete asientos 
 
 | Tema | Valor de referencia del mercado chino | Mercado MI Trim | Confianza |
 |---|---|---|---|
-| Comedores | 7 asientos, 2+2+3 diseño (dos sillas de capitán en la fila dos) | CHINA · un solo recurso, confirma por trim | SINGLE_SOURCE |
+| Comedores | 7 asientos, 2+2+3 diseño (dos sillas de capitán en la fila dos) | CHINA · un solo recurso, confirma por trim | single source |
 | Dimensiones exteriores | 5016 × 1909 × 1782 mm (una fuente lista 1788 mm altura) | CHINA · Varianza de origen menor y verificada | CROSS_CHECKED |
 | Base de ruedas | 3000 mm | CHINA · chequeado cruzado | CROSS_CHECKED |
 | Cuerpo unidad | 5-door MPV de tamaño medio, FWD | CHINA | CROSS_CHECKED |
@@ -75,15 +75,15 @@ No — sólo la versión de gasolina; derivados electrificados son productos sep
 
 No hay versión RHD que se demuestre por las fuentes del mercado chino utilizadas aquí.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 荣威 iMAX8 官方车型页 (车型官方身份; 官网动态渲染尺寸未取到, 尺寸以数据库为准) | 荣威汽车官网 | CHINA | T1 | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
-| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科 (今日头条镜像) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
-| iMAX8 尺寸 座位 (5016 × 1909 × 1788, WB3000, 7 座) | 58汽车 | CHINA | T3 | SINGLE_SOURCE | https://car.58.com/x/4112/ | 尺寸, 座位  |
-| iMAX8 20A4E 发动机 (234Ps) 与配置 | 太平洋汽车百科 | CHINA | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
-| SAIC Oficial de motor (propietario de la marca Roewe) | SAIC Motor | CN | T1 | VERIFIED | https://www.saicmotor.com/e/ | identidad — OEM parent corporate; Roewe es marca SAIC |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identidad — verificar homologada China variante y asiento conteo por anuncio |
+| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | primary | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
+| iMAX8尺寸/座位（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | media/industry | single source | https://car.58.com/x/4112/ | 尺寸, 座位  |
+| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
+| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | primary | VERIFIED | https://www.saicmotor.com/e/ | identity — OEM parent corporate; Roewe is SAIC brand |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant and seat count by announcement |
 
 ## Revisión editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

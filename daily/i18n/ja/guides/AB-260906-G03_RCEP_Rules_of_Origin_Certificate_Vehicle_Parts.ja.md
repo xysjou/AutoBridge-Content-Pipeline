@@ -25,7 +25,7 @@
 
 RCEP gives two basic ways a good can be originating: つまり、* は、パーティ(最終車両の関連性が大きい)で、あるいは、材料の発生を除外して生成される** または、その正確なHSコードの**Product-Specific Rule (PSR)**を満たしている、または、通常、地域価値コンテンツ(RVC)のしきし値、関税分類変更(CTC)、または指定されたプロセス。 該当する規則は、製品名から推測されていない、正確なHSコード**によって、RCEP製品固有のルール附属書から読み込まれます。
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? 覚えておかれたRVCの割合を車や部品に当てはまないでください。 章87車と章84/85コンポーネントは、異なるPSRを運びます。 現在の附属書の正確な関税ラインを調べます。
+ 覚えておかれたRVCの割合を車や部品に当てはまないでください。 章87車と章84/85コンポーネントは、異なるPSRを運びます。 現在の附属書の正確な関税ラインを調べます。
 
 ## 地域循環 — オートサプライチェーンの利点
 
@@ -84,15 +84,15 @@ RCEP製品固有のルールは、正確なHSコードに対して別れてい�
 
 いいえ — 譲歩は、パーティと関税線によって相続され、異なる; 目的地の現在のスケジュールを確認します。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 海关总署公告 2026 年第 74 号 (中国 - 马来西亚原产地电子信息联网交换 、 2026-06-01) | 中华人民共和国海关总署 |  CN  の | T1 | タイム _ センシブ | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网 、 现行公告 —  RCEP  实施 |
-営業部: 用好自贸协定实践成果 (RCEP  签证规则 、 累积规则应用) | 中华人民共和国海关总署 |  CN  の | T1 | 検証済み | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则 、 原产地标准 、 享惠 -  FTA  实践 |
-| 优惠贸易协定项下进出口货物原产地管理规定 (海关总署令第 265 号) | 中国政府网 |  CN  の | T1 | 検証済み | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理 、 签证机构 — 部门规章 |
-| 单一窗口原产地证书智能审核 / 自助打印 / 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 | 中国国际贸易单一窗口 |  CN  の | T1 | 検証済み | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 の |
-|  RCEP  原产地证书签证规则 (累积 / 背对背 / 原产地声明 、 贸促会口径) | 中国贸促会陕西省委员会 |  CN  の | T1 | 検証済み | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则 、 背对背证明 、 经核准出口商 - 签证机构解释 |
-| 地域総合経済連携(RCEP)公式ポータル | RCEP事務局/ASEAN | サーモップ | T1 | 検証済み | https://rcepsec.org/ | origin_criteria — 扱いやすいテキストとパーティーのカバレッジ。 パーHS PSRは別館で読み込む必要があります |
+| 海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01） | 中华人民共和国海关总署 | CN | primary | TIME_SENSITIVE | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网, 现行公告 — RCEP实施 |
+| 海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则, 原产地标准, 享惠 — FTA实践 |
+| 优惠贸易协定项下进出口货物原产地管理规定（海关总署令第265号） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理, 签证机构 — 部门规章 |
+| 单一窗口原产地证书智能审核/自助打印 | 中国国际贸易单一窗口 | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 |
+| RCEP原产地证书签证规则（累积/背对背/原产地声明，贸促会口径） | 中国贸促会陕西省委员会 | CN | primary | VERIFIED | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则, 背对背证明, 经核准出口商 — 签证机构解释 |
+| Regional Comprehensive Economic Partnership (RCEP) official portal | RCEP Secretariat / ASEAN | RCEP | primary | VERIFIED | https://rcepsec.org/ | origin_criteria — treaty text and party coverage; per-HS PSR must be read in annex |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

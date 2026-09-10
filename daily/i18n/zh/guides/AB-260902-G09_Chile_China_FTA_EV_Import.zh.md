@@ -81,18 +81,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, 实例) | 国家海关(** 智利海关,政府官员**) | 中线 | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html 维基月球 | 2026-09-03 | ** 已执行** | 通用6%从价计到最低水平;19% IVA基地 |
-| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | 国家阿杜阿纳斯省(**政府官员**) | 中线 | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html 维基月球 | 2026-09-03 | ** 已执行** | |
-| 中国-智利自由贸易协定优惠(资格来源0%),证书基础 | 财政部 中国驻智利使团(**官方贸易机构**) | 化学品分类/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html 维基月球 | 2026-09-02 | ** 已执行** | FTA 0% 优先通道; 原产地证书条件 |
-| ANAC 使电子车辆更便宜的六项措施(提案,而不是法律) | AUTOGUIA(智利自动媒体) | 中线 | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html 维基月球 | 2026-09-02 | 资源 | 只提议地位——明确未颁布 |
-| 洛斯康塔多斯 - 智利 2026 关税 | 洛斯孔塔多尔(智利本地财税) | 中线 | https://loscontadores.cl/arancel-aduanero-en-chile/ 维基月球 | 2026-09-02 | 资源 | 2026 普通关税 6%、自贸国 0%、IVA 19% |
-| 锦玉汽车-中国车进口智利指南 | 振宇汽车(行业站). | 中线 | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ 维基月球 | 2026-09-02 | 资源 | 中智自贸试验区 0% 关税通道 |
-| 华家庄——全球汽车进口关税指南 | 华家ame(行业站). | 中线 | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide 维基月球 | 2026-09-02 | 资源 | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
+| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Chilean Customs, government official**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | **VERIFIED** | General 6% ad-valorem on CIF; 19% IVA base |
+| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
+| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
+| ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | single source | Proposal status only — explicitly not enacted |
+| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | single source | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | single source | 中智 FTA 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | single source | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-* 说明:6%项一般关税和19%项IVA在智利海关上是核查的;FTA 0%的优惠是官方优惠,但以来源为条件。 先前包括1%/30信使规则(不适用于车辆)、未经证实的奢侈品税门槛和固定的3CV费用已从事实机构删除;HS级原产地规则和任何附加税必须经智利海关/SII/SUBREI确认。 * 报告迟交是因为需要翻译。
+*Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

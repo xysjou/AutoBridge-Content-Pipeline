@@ -1,7 +1,7 @@
 # 沙克曼德龙 X3000 倾卸卡车-8×4 Tipper 光谱和出口配置说明
 
 ## SEO元数据
-- **SEO标题**: 沙克曼 X3000 (英语). 倾卸卡车光谱(8x4、GVW、机体)出口指南
+- **SEO标题**: 沙克曼 X3000  倾卸卡车光谱(8x4、GVW、机体)出口指南
 - **Meta描述**: 沙克曼德龙X3000 尖塔:430 PS 8x4 参考建筑 威海发动机 快速12-speed 31 t GVW 7.6米后尖车身 轴和出口排放选择 车队购买者.
 - **H1**: 沙克曼德龙 X3000 倾斜车:底盘、提炼机身和出口构型选择
 - **核心关键词**: 沙克曼X3000倾卸卡车规格出口
@@ -15,7 +15,7 @@
 
 ## 作用和排列
 
-德龙号(德龙) X3000 是沙克曼的体积**重 垃圾/倾斜平台**, 在非洲广泛出口, 中东和中东 俄语市场. 参考中国建筑 为 ** 430 PS 8×4 带7.6 我的身体, (b) 宣布SX33105C406B **; 家庭范围 6×4/8×4和约375–550 PS, (英语). 五国/六国 和低排放(例如, 欧元II级) 不同目的地市场。 一个官员** 400 PS 6×4 导出**版本为 由沙克曼确认 中国公告数字 来自360che(单一来源) (a) 标记在哪些地方); 出口评级是官方的。
+德龙号(德龙) X3000 是沙克曼的体积**重 垃圾/倾斜平台**, 在非洲广泛出口, 中东和中东 俄语市场. 参考中国建筑 为 ** 430 PS 8×4 带7.6 我的身体, (b) 宣布SX33105C406B **; 家庭范围 6×4/8×4和约375–550 PS,  五国/六国 和低排放(例如, 欧元II级) 不同目的地市场。 一个官员** 400 PS 6×4 导出**版本为 由沙克曼确认 中国公告数字 来自360che(单一来源) (a) 标记在哪些地方); 出口评级是官方的。
 
 ## 参考建筑:430 PS 8×4 (中国)
 
@@ -24,13 +24,13 @@
 | | SX33105C406B, 8×4,轮基1800+3975+1400 mm | | 360che
 | 总体情况 | 10.55 × 2.55 × 3.45 m | | 360che
 | 引擎 | 威海WP12.430E50号,  11.596 L inline-6 diesel | | 360che
-| 扭矩 | 316 kW (430 PS) 2060 N·m @ 1000–1400 rpm (中文(简体)). | | 360che
+| 扭矩 | 316 kW (430 PS) 2060 N·m @ 1000–1400 rpm  | | 360che
 | 齿轮 | 快(法士特) 12JSD200T-B ** 12-speed 手动**(2反); 460 PS 中国六号用13-speed快车 | | 360che
 | 曲线/额定有效载荷/GVW | 15.5 t 15.37 t **31 t** | | 360che
 | 钓鱼体 | ** 7.6×2.35×1.5米,后尖(后翻)** | | 360che
 | 前轴 | MAN-type 9.5 t, allowable 6500/6500 kg | | 360che
 | 后猪 | 16 t MAN型双还原型,18,000 kg组;比例5.262 | | 360che
-| | 12.00R20×12; 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源学 电源 400 L 铝罐 | | 360che
+| | 12.00R20×12; 电源学 电源 电源学 电源 400 L 铝罐 | | 360che
 
 ## 官方导出引擎和其他评级
 
@@ -92,22 +92,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
   - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| X3000 430 8×4参数 | (卡车之家) (中文(简体)). | 氯化萘 | https://product.m.360che.com/m355/88939_param.html 维基月球 | 2026-09-02 | 横跨 | 公告,WP12.430,变速箱,重量,车体,车轴,轮胎 | 360che
-| X3000 6×4 垃圾场官员 | 沙美集团(官方) | | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ 维基月球 | 2026-09-02 | 实录 | 11.6 L 400 PS 294 kW 2000 N·m,中国六国 |
-| X3000 多种版本比较 | (卡车之家) (中文(简体)). | 氯化萘 | https://product.m.360che.com/m299/74922_param.html 维基月球 | 2026-09-02 | 横跨 | 375–550 PS versions, 中国 V/VI 扭矩 | 360che
-| X3000 国际 | 沙克曼国际(官方) | 导出 | https://www.shacmaninternational.cn/product-38.html 维基月球 | 2026-09-02 | 实录 | 80 km/h 最高速度、轮基、385/400/430 选项 |
+| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
+| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
+| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 17691-2018 重型柴油机车污染物排放(中国六级). | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html 维基月球 | 2026-09-05 | 实录 | 中VI型压缩-燃(重型柴油)车/车厢排放级 |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* 信使注(AutoBridge标准):400 PS出口引擎在沙克曼官方频道上是VIFIED;详细430 PS 8×4公告数字为SINGLE_SOURCE(360che). 价格为未核实,省略。 确认最终的积分 在Shacman国际板块。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are single source (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

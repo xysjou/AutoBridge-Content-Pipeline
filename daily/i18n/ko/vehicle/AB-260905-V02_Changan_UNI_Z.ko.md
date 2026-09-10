@@ -24,21 +24,21 @@
 - ** 전기 특징 구매자는 **를 요구합니다: DC 빠른 충전 힘 85 kW; 차량에 짐 3.3 kW; 중심 스크린 14.6.
 
 ## 인증 사양 표 (중국 시장 참조)
-| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
+| 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
 | 길이 폭 고도 | 4730 1890 1660 (部分配置 1680) | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 汽车之家 + 搜狐 · |
 | 휠베이스 | 2795 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 汽车之家 + 搜狐 · |
-| 화물량 | 638 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐汽车 |
-| 엔진 힘 | 72 (1.5L 混动专用发动机년) | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| 화물량 | 638 | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
+| 엔진 힘 | 72 (1.5L 混动专用发动机년) | 램 | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
 | 모터 힘 | 160 | 램 | 담당자: Mr. Li | CROSS_체크 | 汽车之家 + 搜狐 · |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | E-CVT (电混传动년) | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
-| 배터리 유형 | 磷酸铁锂 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
-| 배터리 용량 | 约18.4 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| 의 | E-CVT (电混传动년) | - - - | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
+| 배터리 유형 | 磷酸铁锂 | - - - | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
+| 배터리 용량 | 约18.4 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
 | ev 범위 cltc | 130 | km | 담당자: Mr. Li | CROSS_체크 | 汽车之家 + 搜狐 · |
-| 결합된 범위 cltc | 1250 | km | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
-| dc 빠른 책임 힘 | 85 | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
-| v2l 수출 힘 | 3.3 | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
-| 중심 스크린 | 14.6 | 英寸 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| 결합된 범위 cltc | 1250 | km | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
+| dc 빠른 책임 힘 | 85 | 램 | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
+| v2l 수출 힘 | 3.3 | 램 | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
+| 중심 스크린 | 14.6 | 英寸 | 담당자: Mr. Li | single source(싱글) | 汽车之家车家号 |
 
 ## 왜 배터리 라인과 V2L 수출 주문에 대 한 문제
 UNI-Z 주문은 동일한 배지가 다른 선택 수준을 다루기 때문에 잘못 지정이 쉽습니다. ** 배터리 용량과 전기 범위 라인 ** 프로포타에, 85 DC 및 3.3 V2L 수치를 중국 시장 장비로 취급하여 대상 배선 그리드 표준을 재확인합니다. CLTC 전기 범위는 WLTP 수치가 아니며 수출 시장 이름, 동력 교정 또는 보증은 여기에 캡처 한 중국 소스에 의해 설치되지 않습니다.
@@ -57,15 +57,15 @@ UNI-Z 주문은 동일한 배지가 다른 선택 수준을 다루기 때문에 
 **WLTP 범위는 130 km입니까? ** 아니다 — CLTC입니다.
 ** 수출 가격은 어디에 있습니까? ** 현재 인용을 요청하십시오; 이 페이지는 아무도 출판합니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | ☸ ☸ 电机, 屏幕, 屏幕, 屏幕, 屏幕, 屏幕 |
-| 단위 Z 配置信息 | 汽车之家车家号 | 담당자: Mr. wang | T3 | CROSS_체크 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 대체하십시오 | 快充,  外放电 |
-| 长安 UNI-Z 参数,长安,长安,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数,参数 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 경우 | 尺寸, 轴距, 后备厢,  动力 |
-| 칭다오 자동차 공식 글로벌 사이트 | 장안 자동차 长安汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.globalchangan.com/ 를 통해 | 선 ID와 OEM 권위 |
-| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/ 를 | 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
-| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

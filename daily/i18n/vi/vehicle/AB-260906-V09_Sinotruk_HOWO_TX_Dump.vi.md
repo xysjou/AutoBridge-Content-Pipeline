@@ -19,8 +19,8 @@ TMO TX là Sinotruk Công ty chuyên chở hàng nặng quốc gia Trung Quốc 
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
 | Brand/ ID | HowO (Sinotruk/CNHTC) dòng xe tải nặng | TRUNG QUỐC · tiết lộ chính thức | VEII |
-| Bố trí Chung | 8 × 4 (bốn-xle) và 6 × 4 (ba-xle) botper | Chloe. Nguồn tin độc nhất, xác nhận bởi mô hình | SINGLE_SOURCE |
-| Mẫu 8 × 4 | Weichai WP10H400E62 400 PS (Trung Quốc 6); HW19712L 12-speed hướng dẫn; MCX16ZG lái xe trục | CHINA · one sample build only | SINGLE_SOURCE |
+| Bố trí Chung | 8 × 4 (bốn-xle) và 6 × 4 (ba-xle) botper | Chloe. Nguồn tin độc nhất, xác nhận bởi mô hình | single source |
+| Mẫu 8 × 4 | Weichai WP10H400E62 400 PS (Trung Quốc 6); HW19712L 12-speed hướng dẫn; MCX16ZG lái xe trục | CHINA · one sample build only | single source |
 
 WP10H400 12-speed MCX16ZG tổ hợp là **one đại diện 8 × 4 xây dựng**, Không phải danh mục của TX. NHỮNG người mách nước được cung cấp nhiều động cơ (bao gồm cả máy MC-series của Sinotruk) và hộp số; Hợp đồng phải đặt tên chính xác đường dẫn thay vì đặt hàng 'A HowO TX 400'.
 
@@ -70,15 +70,15 @@ Việc xuất khẩu của anh có giống với người Trung Quốc không? *
 
 Không giả định — xuất khẩu/nhà xuất bản cần có bằng chứng riêng.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号 (今日头条镜像) | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱. 后桥. 8x4  |
-| 重汽 2025 年半年报 (豪沃 HowO 品牌与整车产销官方披露) | 中国重汽 (深交所披露) | TRUNG QUỐC | T1 | VEII | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 产销官方披露  |
-| 中国重汽集团 (豪沃产品系列官方身份) | 经济日报 (中国重汽集团 PDF) | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| SINOTRUK HowO  ác toàn cầu | Nhóm xe tải chở trọng trách quốc gia (Sinotruk) | Comment | T1 | VEII | https://www.sinotrukchina.com/ | thương hiệu_chính thức — Tập đoàn OEM; Danh tính của HowO thương hiệu; xuất khẩu xây dựng kính thị trường |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Nhận diện — Xác minh 8x4/6x4 khung gầm, động cơ và GVW bằng cách thông báo |
-| 卡车之家 HOR 车型库 (独立商用车数据库) | 卡车之家 | CN | T2 | ĐÃ_ ĐÃ | http://www.360che.com/ | Nhận diện — Kiểm tra chéo mẫu độc lập |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

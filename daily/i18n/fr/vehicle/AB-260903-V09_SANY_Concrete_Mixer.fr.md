@@ -74,19 +74,19 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
   - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
   - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Ligne de produits SANY pour malaxeurs (marques de capacités/moteurs) | Groupe SANY (site officiel de l'OEM, en langue du CN) | CN produit mondial | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | VÉRIFIER | 6–7/8–9/10 m³ bands; Hino/Yuchai/Weichai/Sanity Power |
-| SY310C-8S(V) 10 m³ model parameters | Groupe SANY (fonctionnaire OEM) | CN produit mondial | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VÉRIFIER | 10 m³ drum, 400 L eau, Moteur D09C5-380E3 |
-| Annonce de mélangeur électrique SANY (350 kW) | Maison de camion Toutiao | NC | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | SOURCE UNIQUE | 8 × 4 VEB, 350 pic/ 215 puissance nominale kW |
-| SANY integrated frame 20 m³ mixer | Hunan Daily Toutiao | NC | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | _CHECTURE | Ingénierie intégrée, contexte de classe de grande taille |
-| Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
-| GB 17691-2018 Émissions de polluants des véhicules diesel lourds (Chine-VI) | Ministère de l'écologie et de l'environnement (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VÉRIFIER | Phase d'émission d'allumage par compression (diesel lourd) Chine-VI pour camions/coaches |
-| GB 19147 carburant diesel automobile standard national (base à faible teneur en soufre) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VÉRIFIER | Cote de carburant diesel et base de soufre pour correspondre à la conception du moteur/de l'émission outre-mer |
+| SANY mixer-truck product line (capacities/engine brands) | SANY Group (OEM official, CN-language site) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | VERIFIED | 6–7/8–9/10 m³ bands; Hino/Yuchai/Weichai/Sany Power |
+| SY310C-8S(V) 10 m³ model parameters | SANY Group (OEM official) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VERIFIED | 10 m³ drum, 400 L water, D09C5-380E3 engine |
+| SANY electric mixer announcement (350 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | single source | 8×4 BEV, 350 peak/215 rated kW |
+| SANY integrated frame / 20 m³ mixer | Hunan Daily / Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | CROSS_CHECKED | Integrated-frame engineering, large-size class context |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Note de confiance: les capacités du tambour et les marques de moteurs sont VÉRIFIÉES sur les pages OEM de SANY (scope spécification du produit). Les détails de l'image intégrée et le moteur BEV sont des sources uniques et nécessitent une confirmation sur le code de modèle homologué actuel. Aucun prix n'est déclaré. *
+*Confidence note: drum capacities and engine brands are VERIFIED on SANY's own OEM pages (scope = product specification). Integrated-frame detail and the BEV motor are single-source and require confirmation on the current homologated model code. No price is asserted.*
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

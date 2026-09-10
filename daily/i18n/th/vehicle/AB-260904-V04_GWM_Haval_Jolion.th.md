@@ -77,26 +77,26 @@
   - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) SUV
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 SUV
   - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 SUV
-- ~วูฟ~: Thai Lu thamkhoo Auto Bridge jo ng ờ i i i i a a a a a a a a u h h h h h h h h h h h h ng ng ng ng ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố c c c c c c ) ) ) ) ) ) ) ) ) ) ) ) ) )  SUV  SUV )  SUV ơ ) ) ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong 
+- ~วูฟ~: Thai Lu thamkhoo Auto Bridge jo ng ờ i i i i a u h ng ng ng ng ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố ố c ) ) ) ) ) ) ) ) ) ) ) ) ) )  SUV  SUV )  SUV ơ ) ) ong 
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
   - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) SUV
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ประวัติของบริษัท GWM (chulian Land India version=JOLOGEIGE) ซารู เกลียว ไทย) | วอลล์มอเตอร์ (OEM) อันยิ่งใหญ่ | แบรนด์ HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | ISIFIE (เมษายน) | แบบเดียวกัน การแสดงตัวฐาน |
-| พารามิเตอร์ของฮาวาล 1.5T อัตโนมัติ | ฐานข้อมูลของ Syna Auto | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ขนาดของจีน 1.5T 110 kW ล้อล้อ |
-| ออสเตรเลีย Jolion 1.5T พลังอํานาจและมิติ | สิบเซนต์ (การทบทวนแบบโพสต์) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | 210 N·m (พ.ศ. 7DCT (พ.ศ. 430/1130 CSOH — ––––––––––––––– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –  –   – – – – –                 – –    – – 2549. 2013/ii.8kriasmo lotimegigeg พ ศ. ศ. 2549. สืบค้นเมื่อ พ.ศ. 2013/ii.8kriasmo lotimegigeg พ ศ. ศ.
-| เปิดตัวประเทศออสเตรเลียโดย โจเลี่ยน | ออโต้เซจิฮาว | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | ระบบ โอเวอร์ไซนส์ |
-| Jolion 2025 เวียดนาม (overseas HeV) | ประมวลผลอัตโนมัติ | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | การ กลั่น แกล้ง |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
+| GWM corporate history (Chulian overseas version = JOLION, South Africa/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Brand HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primary) | SAME_MODEL base identity |
+| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | single source | Chinese dimensions, 1.5T, 110 kW, wheelbase |
+| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | single source (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
+| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | single source (overseas) | Overseas HEV system |
+| Jolion 2025 Vietnam (overseas HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | single source (overseas) | Overseas HEV corroboration |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* การ ลง ความ เห็น อย่าง ตรง ไป ตรง มา: การ ยึด มั่น กับ จุด ยืน. ชื่อ ISIFIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII ไม่มีราคาส่งออก *
+*Confidence note: RESEARCH_CONDITIONAL. Name identity VERIFIED by GWM OEM (SAME_MODEL at base level); Chinese torque/transmission values are BLOCKED (only an Australian source exists) and are not stated as Chinese specs; overseas HEV kept strictly market-labelled. No export price.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

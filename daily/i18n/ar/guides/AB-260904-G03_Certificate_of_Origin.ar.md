@@ -73,19 +73,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| قرار الجمعية العامة 270، تدابير التصدير الإدارية (النافذة 2024-09-01) | الإدارة العامة للجمارك في الصين (الإدارة الرسمية لقوى الدفاع) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | مفقود | صيغة القاعدة، ثلاثة أنواع، مُصدرون |
-| تدابير إدارية لثانية من وظائف صندوق التنمية للبلدان الأفريقية | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | مفقود | الاستخدامات غير التفضيلية، ثلاثة أنواع |
- re revis non. سيتشوان CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630mid=285 - 2026-09-04 - RS.RS، وليس أي. الممتنعون عن التصويت
-* ملاحظة: الصين التي تصدر جانباً فقط؛ وقواعد محددة من FTA وقرارات تفضيل المقصد غير قابلة للنطاق أو لكل بلد. ♪
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| تنفيذ الاتفاقية (مجلس الدولة رقم 416) | الدولة في الجمهورية العربية السورية على النحو التالي: CN: https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 |, ., ., .ses Institut of the vention. ؟
-|ROMICA | TRL INT https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | |TOR  لقواعد ?
-| موضوع قواعد المنشأ | منظمة الجمارك العالمية | INTL | http://www.wcoomd.org/ | 2026-09-05 | مفقود | تصنيف الأصول الجمركية والتصديق |
-| شبكة خدمات منطقة التجارة الحرة الصينية (معاملة التعريفات الجمركية للتجارة الحرة) | MOFCOM | CN/INTL | http://fta.mofcom.gov.cn/ | 2026-09-05 | مفقود | منشأ شهادة التجارة الحرة |
-| شهادة المنشأ ومنح شهادات التصديق على التجارة الخارجية | مجلس الصين لتعزيز التجارة الدولية | CN | http://www.ccpit.org/ | 2026-09-05 | مفقود | قناة منشأ غير منحازة |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

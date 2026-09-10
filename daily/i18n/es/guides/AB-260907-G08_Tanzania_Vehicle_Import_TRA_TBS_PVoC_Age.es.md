@@ -73,15 +73,15 @@ Esta guía no indica un número: el documento de procedimiento dedicado a vehíc
 
 No se da tarifa fija aquí; clasificar el código HS exacto y utilizar la actual línea arancelaria TRA/modificadora motor-vehículo para el vehículo real.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| TBS Importaciones y Control de Exportaciones — Programa PVoC, CoC, categoría de motor-vehículo usado, D1, socios nombrados | Tanzania Bureau of Standards (TBS) | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC 法定依据, CoC 装船前, 二手车单列类别, 检验机构, D1 |
-| Procedimientos de Importación de TRA — EACCMA 2004, CFA licenciada, TANCIS, ≥ 7-day alojamiento, TBS entre agencias de permisos | Tanzania Revenue Authority (TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS 许可 |
-| Registro de vehículos de motor de TRA (registración/cambio de propiedad) | Tanzania Revenue Authority (TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
-| 货代 PVoC/e-COC 介绍 (仅线索, 不作事实依据) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC 线索 |
-| 货代 PVoC 流程介绍 (仅线索) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
-| 使馆转述坦桑进口要求 (2015, 历史背景) | 今日头条镜像 | TZ | T3 | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
+| TBS Imports and Export Control — PVoC programme, CoC, used-motor-vehicle category, D1, named partners | Tanzania Bureau of Standards (TBS) | TZ | primary | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC法定依据, CoC装船前, 二手车单列类别, 检验机构, D1 |
+| TRA Import Procedures — EACCMA 2004, licensed CFA, TANCIS, ≥7-day lodging, TBS among permit agencies | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS许可 |
+| TRA Motor Vehicle Registration (registration/change-of-ownership side) | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
+| 货代PVoC/e-COC介绍（仅线索，不作事实依据） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC线索 |
+| 货代PVoC流程介绍（仅线索） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
+| 使馆转述坦桑进口要求（2015，历史背景） | 今日头条镜像 | TZ | media/industry | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)

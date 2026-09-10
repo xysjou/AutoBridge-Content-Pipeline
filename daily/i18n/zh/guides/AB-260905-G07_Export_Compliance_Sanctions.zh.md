@@ -43,17 +43,17 @@
 是谁? 买方、收货人和其他有关当事方,在接收时和装运前再次进行。
 如果有枪伤怎么办? 越级越好,不要继续;不得向被拒方提供服务。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例(国务院令第 792 号) (中文(简体)). | 中华人民共和国商务部 维基月球 | 氯化萘 | T1 | 实录 | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html 维基月球 | 最终用户用途证明, 保存 5 年 号, 管控名单 维基月球 |
-| 两用物项出口管制内部合规指南 维基月球 | 中华人民共和国商务部 维基月球 | 氯化萘 | T1 | 实录 | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf 维基月球 | 订单筛查系统,  最终用途声明, 合规体系 维基月球 |
-| 司法部, 商务部负责人就两用物项出口管制条例答记者问 (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/202410/content_6981660.htm 维基月球 | 全过程最终用户用途管理, 关注名单 (单位:千美元) |
-| 两用物项出口管制措施专题(不予许可情形) (中文(简体)). | 中华人民共和国商务部 维基月球 | 氯化萘 | T1 | 实录 | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html 维基月球 | 军事用户/管控关注名单不予许可,大规模毁灭性武器恐怖主义/军事用途 |
-| 商务部(MOFCOM) | MOFCOM 商务部 (英语). | 氯化萘 | T1 | 实录 | https://www.mofcom.gov.cn/ 维基月球 | 出口许可证和出口管制主管当局 |
-| | 欧洲联盟(欧洲统一汇率) | 欧盟 | T1/T2 | 实录 | https://eur-lex.europa.eu/eli/reg/2021/821/oj 维基月球 | | 2021/821
-| 美国BIS实体列表——限量方筛选实例 | 美国工业和安全局(BIS) | 美国 | T1/T2 | 实录 | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list 维基月球 | 公开限制当事方名单,说明在装运前对拒绝实体进行筛选 |
-| 美国外国资产管制处 名单——制裁筛选 | 美国外国资产管制处 | 美国 | T1/T2 | 实录 | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists 维基月球 | 特别指定 国民名单作为制裁筛选数据来源;具体管辖,而不是全球黑名单 |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -72,7 +72,7 @@
 - 电话: 电话: 准确检查中国车辆出口商的出口合规性和制裁性
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export

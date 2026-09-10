@@ -31,29 +31,29 @@ Danh sách bị hạn chế thay đổi, vì vậy đừng bao giờ duy trì m�
 2. Màn hình chống lại việc xuất khẩu và áp dụng các bản danh sách trừng phạt, và kết quả là ngày tháng.
 3. Xác nhận một tuyên bố dùng cuối/ chế độ sử dụng đồ dùng cho bất kỳ mục hay điểm đến nhạy cảm nào.
 4. Escalate hit; không chuyển đổi với các bên bị từ chối/điều khiển.
-5. Retain the complete file for five years.
+5. Lưu trữ toàn bộ hồ sơ trong năm năm.
 
 ## Hạn chế
 Hướng dẫn này không liệt kê các thực thể có thẩm quyền (họ thay đổi) và không đưa ra kết luận cấm vận đặc biệt quốc gia; lấy danh sách hiện tại và, cho các trường hợp mơ hồ, lời khuyên pháp lý.
 
 ## FAQ
 ** Xe chở khách có phải là hai loại thường không? Đừng giả sử — màn hình các mục cụ thể, công nghệ và đích đến so với danh sách hiện tại.
-**How long are records kept?** Five years for the relevant end-user/compliance records.
+**Hồ sơ được lưu trong bao lâu?** Năm năm đối với hồ sơ người dùng cuối/tuân thủ liên quan.
 **Tôi có thể giữ một danh sách đen không? Không — danh sách thay đổi; dùng công cụ duyệt hiện thời và giữ kết quả ngày tháng.
 Tôi phải theo dõi ai đây? Người mua, người ký hợp đồng và những người khác có liên quan, tại chỗ nhận hàng và một lần nữa trước khi chuyển hàng.
 Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; một bên bị từ chối không được phục vụ.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN | T1 | VEII | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年. 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明. 合规体系 |
-| 司法部  dám 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可, WMD/ 恐怖主义 军事用途 |
-| Bộ Thương mại (MOCOM) | MOFCOM 商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/ | Quyền xuất khẩu và kiểm soát xuất khẩu |
-| Điều luật (EU) - chế độ xuất khẩu song song-use | Liên hiệp Châu Âu (EUR-Lex) | AI | T1/T2 | VEII | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Ví dụ về chế độ kiểm soát kép và chế độ hạn chế/ thường dùng các điều khiển thích hợp để kiểm tra thiết kế | 2021/821
-| Danh sách các dự án BIS - ví dụ về các bên bị hạn chế | Bộ công nghệ và bảo mật Mỹ (BIS) | US | T1/T2 | VEII | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Danh sách giới hạn của bên công cộng minh họa về sự từ chối kiểm tra trước khi chuyển hàng |
-| USAC SDN Danh sách — Kiểm tra sự trừng phạt | Bộ quản lý tài chính Mỹ (OFC) | US | T1/T2 | VEII | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Được thiết kế đặc biệt Danh sách quốc gia như là một nguồn dữ liệu trừng phạt; không phải một danh sách đen toàn cầu. |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

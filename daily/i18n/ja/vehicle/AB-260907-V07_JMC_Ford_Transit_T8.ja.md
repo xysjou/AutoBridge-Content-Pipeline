@@ -21,16 +21,16 @@ The line is built on three wheelbases — **3000,  3300  and  3750 mm ** — と
 | 設定 | 参照次元 | ホイールベース | 自信の秘境 |
 |---|---|---|---|
 | 中輪ベース、中屋根(例) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| ロングホイールベース、高耐荷重 | 5998×2164×2775 mm; 貨物インテリア ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | ロング | SINGLE_SOURCE |
+| ロングホイールベース、高耐荷重 | 5998×2164×2775 mm; 貨物インテリア ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | ロング | single source |
 
 5998 mm の長さは重要である: 多くの場合、それは光商業運転免許証境界で座っているので、買い手は、最も長いバージョンを注文する前に、目的地のライセンスカテゴリと車両の総質量を確認する必要があります。 貨物内部次元  and  the ≈13 m³ volume are single-source  and  変換がそれらの周りに設計される前に、JMC公式のボディービルダー/構成データに対して確認する必要があります。
 
-## Two diesel lines — do not merge
+## 2本のディーゼルライン — 統合しない
 
 | ライン | 中国の市場参照 | ギアボックス | 自信の秘境 |
 |---|---|---|---|
-| 2.3Tディーゼル(2025) | 128 kW (174 PS) / 430 N·m | 8-speed 自動(8AT) | SINGLE_SOURCE — によって確認します。 VIN/OEM|
-| 2.0Tディーゼル | 分離、下出力ディーゼル ライン | 6-speed マニュアル (6MT) | SINGLE_SOURCE — 別の行|
+| 2.3Tディーゼル(2025) | 128 kW (174 PS) / 430 N·m | 8-speed 自動(8AT) | single source — によって確認します。 VIN/OEM|
+| 2.0Tディーゼル | 分離、下出力ディーゼル ライン | 6-speed マニュアル (6MT) | single source — 別の行|
 
 2.3T 8AT と 2.0T 6MT は、異なるデューティサイクルを目的とする異なるパワートレインです。彼らは平均化されず、一つとして提示する必要があります。 "T8 エンジン". リアホイールドライブは、選択した構成で提供されている4WDのベースレイアウトです。つまり、ドライブトレインは明示的に示します。 現在、単一の独立したソースで残りの部分を正確に出力し、契約前にJMC公式仕様またはMIITの均質化エントリに閉鎖する必要があります。中国式ディーゼルは、目的地の燃料グレードと排出段階の受諾をチェックする必要があります。
 
@@ -78,16 +78,16 @@ The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior aro
 
 中国の市場バンはLHDです。 RHDおよび輸出仕様は別のOEMの証拠を必要とし、中国ラインから劣らなければなりません。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

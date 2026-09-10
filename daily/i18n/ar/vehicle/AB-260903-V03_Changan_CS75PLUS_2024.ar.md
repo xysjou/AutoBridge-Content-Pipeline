@@ -12,10 +12,10 @@
 - **نص ALT**: Changan CS75 PLUS third generation 2024
 - **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-## Buyer Context: Separate the 3rd-Gen Champion from the 4th Generation
+## سياق المشتري: افصل تشامبيون الجيل الثالث عن الجيل الرابع
 CS75 PLUS هو جوهر تشانجان في منتصف حجم الأسرة السو في. وتغطي هذه الصفحة خط الطول البالغ 3rd-generation **، وهو نموذج عام 2024 (الإنعاش ماركيت: **. دخل جيل من الـ 4th ** إلى السوق الصينية من 2024 ** مع هيئة أطول  and  قاعدة عجلات  and  a revised 1.5T tune. لأن كلا الجيلين تاجرا تحت اسم CS75 من حزب التحرير الشعبي في الأشهر المتداخلة مذكرة أمر تقول فقط "CS75 من حزب التحرير الوطني 2024" غامضة - توليد القفل والمحرك وجهاز التروس ضد شبكة المعلومات
 
-## Powertrain: 1.5T vs 2.0T (ICE focus)
+## مجموعة الحركة: 1.5T مقابل 2.0T (تركيز ICE)
 | البند | 1.5T (JL473ZQ7، الحوت الأزرق) | 2.0T (JL486ZQ5) |
 |---|---|---|
 | (ماكس) | 138 kW (≈188 PS) | 171 kW (≈233 PS) |
@@ -82,19 +82,19 @@ The 4th-generation car is larger (reported 4770 1910 mm, 2800 mm wheelbase). إ�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2024 CS75 من جدول البارامترات الكاملة | قاعدة بيانات ZOL | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | صرخات | الطلقات، المحركات، 8AT، المعدات، السعر (TIME -SENSITIVE) |
-| 4th-gen CS75 من القوة | PCauto Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | الوقت - | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW Aisin 8AT | الناس يومياً | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | مفقود | 2.0T قوة، أيسين 8AT (وسائط الإعلام الرسمية) |
-| Changan Automobile 2024 Annual Report | Changan Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | مفقود | منصة جديدة، موحدة قدرها L2 (إقرار المرافقة) |
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
+| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
+| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* ملاحظة المصداقية: المحركات/الصندوق الجليدي والحدود البالغ عددها 4th-gen مدعومة من وسائط الإعلام الرسمية و Changan تقرير سنوي خاص بها (مسجلة)؛ وفحص تفصيل البارامترات. السعر المحلي وأرقام الجيل الجديد حساسة للوقت ولا يزال التلويث الوجهي شيك منفصل. ♪
+*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

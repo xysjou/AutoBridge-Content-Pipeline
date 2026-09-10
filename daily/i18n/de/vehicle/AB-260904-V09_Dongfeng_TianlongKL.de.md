@@ -51,7 +51,7 @@ Es wird kein Ausfuhrpreis veröffentlicht. Erkundigen Sie sich bei **Zielland ·
 ## Häufig gestellte Fragen
 **Warum gibt es zwei Potenzfiguren (343 und 337 kW)?** 343 kW ist Nennleistung und 337 kW Nettoleistung - unterschiedliche Messgrundlagen für den gleichen 465 PS-Motor.
 **Wie hoch ist das Zuggewicht?** Der dokumentierte Traktor ist für ein Gesamtgewicht von 40 t bewertet, für den Traktor selbst 25 t GVWR.
-**Manuell oder automatisch?** Das 14-speed DT14 Getriebe wird in manuellen und AMT-Formularen angeboten; geben Sie an, welche.
+**Manuell oder automatisch?** Das 14-Gang-Getriebe DT14 wird als Schalt- und als AMT-Variante angeboten; geben Sie an, welche.
 **Sind die 520/560 und die Gasversionen derselbe LKW? ** Sie teilen sich die KL-Fahrgestellfamilie, verwenden jedoch unterschiedliche Motoren Kraftstoffsysteme - halten sie als separate Spezifikationen bereit.
 
 ## Bildaufzeichnung
@@ -80,19 +80,19 @@ Es wird kein Ausfuhrpreis veröffentlicht. Erkundigen Sie sich bei **Zielland ·
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tianlong KL465 Longqing Antriebsstrang & Qualität | Autohome: Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, Kraft/Drehmoment, 14-speed |
-| Tianlong KL 465 AMT-Parameter | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | SINGLE_SOURCEN | AMT-Option, Drehmomentband |
-| Tianlong KL 465 Chassis & Getriebe | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, Bordstein, GCW |
-| Dongfeng Tianlong Power (Enzyklopädie-Kreuzprüfung) | PCauto-Enzyklopädie | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | SINGLE_SOURCEN | Strombasis-Abgleich |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 17691-2018 Schadstoffemissionen schwerer Nutzfahrzeuge (China-VI) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | ÜBERPRÜFUNG | Emissionsstufe China-VI (Schwerdiesel) für Lastkraftwagen/Kutschen |
-| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- Emissionsdesign in Übersee |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Vertrauenserklärung: keine OEM-Primärbroschüre; Handelsüberprüfungen. Nennleistung/Nennleistung beide gekennzeichnet; andere Versionen für Leistungs- und Gasversorgung sind ausgeschlossen. Chinesische Marktreferenz; bestätigen Sie auf MIIT Ankündigung. *
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

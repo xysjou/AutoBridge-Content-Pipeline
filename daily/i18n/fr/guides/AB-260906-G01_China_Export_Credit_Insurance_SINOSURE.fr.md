@@ -81,15 +81,15 @@ La couverture à court terme peut s'étendre aux circuits de crédit documentair
 
 Non — elles sont évaluées par acheteur, pays et terme et changent au fil du temps; obtenir les chiffres actuels de SINOSURE par écrit.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国出口信用保险公司官网 (政策性保险公司, 短期出口信用保险产品存在性) | 中国出口信用保险公司 | NC | T1 | VÉRIFIER | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
-| 国际贸易 单一窗口 出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口 (政府门户) | NC | T1 | VÉRIFIER | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
-| Crédit à l'exportation à court terme Assurances — risques commerciaux et politiques couverts | Société d'assurance-exportation et crédit de la Chine (SINOSURE) | NC | T1 | VÉRIFIER | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risque_types — page de produit officielle en anglais; catégories de risque seulement, pas de taux |
-| 短期出口贸易险承保风险 (商业风险 政治风险) | 中国出口信用保险公司 | NC | T1 | VÉRIFIER | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | type de risque — page officielle de produit de la CN |
-| 短期出口信用保险业务手册 | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | assureur_role — manuel de politique; cadre de crédit à terme, les taux restent au cas par cas |
-| Politiques et programmes chinois de crédit à l'exportation | OCDE | ANNEXE | T2 | _CHECTURE | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | assureur_role — contexte international indépendant sur le mélange Sinosure ST/MLT |
+| 中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
+| 国际贸易'单一窗口'出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口(政府门户) | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
+| Short-Term Export Credit Insurance — covered commercial & political risks | China Export & Credit Insurance Corporation (SINOSURE) | CN | primary | VERIFIED | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types — English official product page; risk categories only, no rates |
+| 短期出口贸易险承保风险（商业风险/政治风险） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types — official CN product page |
+| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — policy handbook; credit-term framework, rates remain case-by-case |
+| Chinese Export Credit Policies and Programmes | OECD | INT | independent database | CROSS_CHECKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | insurer_role — independent international context on Sinosure ST/MLT mix |
 
 ## Révision de la rédaction
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

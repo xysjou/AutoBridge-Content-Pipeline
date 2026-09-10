@@ -59,15 +59,15 @@
 وجنوب أفريقيا سوق يدوية يسارية تُسجل المركبات ذات المحرك الأيمن؛ وتواجه وحدة القيادة اليسرى الصينية حاجزا إضافيا، يكون حاسما في كثير من الأحيان، ينبغي تسويته مع المشتري والسلطات قبل الإنتاج أو الشحن بدلا من أن يُتنازع عليه بعد ذلك.
 
 ## FAQ
-** هل أحتاج إلى كل من ترخيص مركز تكنولوجيا المعلومات ووكالة رصد الأرض؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** هل أحتاج إلى كل من ترخيص مركز تكنولوجيا المعلومات ووكالة رصد الأرض؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 نعم - إنها بوابات منفصلة: تراقب اللجنة الدولية لمراقبة الصادرات إذن الاستيراد، وتراقب اللجنة الوطنية لجمهورية الكونغو الديمقراطية رسالة السلطة التي تُلزم بالسلامة؛ وتُخليص شركة RS من السلع وتضرّرها.
 
-** من يقدم طلباً لهذه الوثائق؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** من يقدم طلباً لهذه الوثائق؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 وسجل المستورد في جنوب أفريقيا؛ ويزود المصدر الصيني بيانات دقيقة عن المركبات، ولكنه لا يستطيع أن يحل محل حائز التصاريح غير القانونية.
 
-** ما هو معدل رسوم الاستيراد؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هو معدل رسوم الاستيراد؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 ويُحدد هذا الرقم في الجداول الحالية للجمارك والرسوم الجمركية الخاصة بالمنطقة الإدارية الخاصة حسب رمز الخدمة المدنية ونوع المركبات - ويحصل على الرقم الحالي؛ ولا يعطي هذا الدليل نسبة مئوية ثابتة.
 
@@ -75,20 +75,20 @@
 
 لا - تُقيد الواردات من المركبات المستعملة وتتوقف على أهلية المستوردين وعلى موافقة الشركة، بالإضافة إلى اتفاق بشأن استخدام السلع الأساسية في الأغراض غير المشروعة.
 
-** هل تلتقي سيارة السوق الصينية تلقائياً بمواصفات SA؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** هل تلتقي سيارة السوق الصينية تلقائياً بمواصفات SA؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 لا؛ يجب إثبات الامتثال للمواصفات الإلزامية للشبكة من أجل النموذج المحدد، والجانب التوجيهي هو مزيد من النظر.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | لجنة إدارة التجارة الدولية في جنوب أفريقيا | ZA | T1 | مفقود | https://www.itac.org.za/pages/import-control | 进口许可 管制范围 法律依据  办理时限 — 南非进口管制 |
-| ITAC 官网 | ITAC South Africa | ZA | T1 | مفقود | https://www.itac.org.za/ | 主管机构身份 — 机构 |（关税职能）（机构身份与进口管制）
-| SARS Customs & Excise（海关征管；外籍注册车辆TMS申报2026-06-01起等当期通告） | دائرة الإيرادات في جنوب أفريقيا | ZA | T1 | الوقت - | https://www.sars.gov.za/customs-and-excise/ | 海关征管  当期申报要求 — 南非海关税务 |
-| NRCS (强制性规范与 Letter of Authority, 含 Automotive 汽车类别) | الهيئة الوطنية التنظيمية للمواصفات الإلزامية | ZA | T1 | مفقود | https://www.nrcs.org.za/ | 强制规范 لوا  汽车类别 — 南非强制合规 |
-| 南非拟调整中印进口车关税（媒体报道，仅TIME_SENSITIVE背景，税率须SARS/ITAC官方核） | 今日头条(媒体) | ZA | T3 | الوقت - | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
-| استيراد مركبة من طراز مستعملة (دليل رسمي) | حكومة جنوب أفريقيا | ZA | T1 | مفقود | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | (ج) - إذن من لجنة تكنولوجيا المعلومات أولاً، الرسوم المدفوعة إلى إدارة خدمات الدعم الإداري، المعدلات حسب الجدول الزمني الحالي |
-| خطاب تفويض للمركبة المتحركة المستوردة أو المعاد بناؤها | حكومة جنوب أفريقيا | ZA | T1 | مفقود | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | Nrcs_loa - NRCS LOA required for new and used vehicles before import/registration |
+| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | International Trade Administration Commission of South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 — 南非进口管制 |
+| ITAC官网（机构身份与进口管制/关税职能） | ITAC South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/ | 主管机构身份 — 机构 |
+| SARS Customs & Excise（海关征管；外籍注册车辆TMS申报2026-06-01起等当期通告） | South African Revenue Service | ZA | primary | TIME_SENSITIVE | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
+| NRCS（强制性规范与Letter of Authority，含Automotive汽车类别） | National Regulator for Compulsory Specifications | ZA | primary | VERIFIED | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 — 南非强制合规 |
+| 南非拟调整中印进口车关税（媒体报道，仅TIME_SENSITIVE背景，税率须SARS/ITAC官方核） | 今日头条(媒体) | ZA | media/industry | TIME_SENSITIVE | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
+| Importing a second-hand or used vehicle (official guide) | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC permit first, duty paid to SARS, rates per current schedule |
+| Letter of authority for imported or rebuilt motor vehicle | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa — NRCS LOA required for new and used vehicles before import/registration |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

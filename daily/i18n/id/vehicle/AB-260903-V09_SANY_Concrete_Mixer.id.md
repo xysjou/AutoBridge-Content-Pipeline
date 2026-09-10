@@ -44,7 +44,7 @@ Tidak ada harga ekspor statis dan tidak ada MSRP Cina yang ditangkap; tidak ada 
 ## Pertanyaan Yang Sering Muncul
 ** Ukuran drum apa yang ditawarkan oleh SEPANG? ** Tiga band: 6–7, 8–9 dan 10 m; SY310C-8S (V) adalah 10 m referensi dengan 400 L tangki air.
 Mesin mana yang tersedia? Hino, Yuchai, Weichai atau Sey Power (Referensi SY310C menggunakan Sey Power D09C5-380E3); konfirmasi per urutan.
-Why spec chassis and superstructurationally? Mereka adalah produk yang berbeda - chassis set GVW axles power sementara drum, hidrolik dan sistem air mendefinisikan konkret-membawa kemampuan.
+Mengapa menypesifikasikan sasis dan suprastruktur secara terpisah? Keduanya produk berbeda — sasis menetapkan GVW, as roda dan tenaga, sedangkan drum, hidrolik dan sistem air menentukan kemampuan angkut beton.
 ** Apakah ada mixer listrik? ** 8 × 4 BEV dengan 350 kW puncak 215 kW motor rated dilaporkan (single-source); konfirmasi spesifikasi saat ini dan dokumen pengiriman EV.
 ** Apakah drum yang lebih besar selalu berarti lebih muatan? ** Tidak - muatan legal diatur oleh GVW dan tujuan aturan aksel- beban, tidak volume drum saja.
 
@@ -74,19 +74,19 @@ Why spec chassis and superstructurationally? Mereka adalah produk yang berbeda -
   - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
   - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Jalur produk truk dan banyak campuran (merek kapasitas mesin) | Grup APAPUN (OEM resmi, situs bahasa CN-) | Produk CN global | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | TERBATAI | 6–7/8–9/10 m comppers; Hino Yuchai Weichai Sey Power |
-| Parameter SY310C-8S (V) 10 m plugmodel | Grup BANYAK (OEM resmi) | Produk CN global | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | TERBATAI | 10 m Drum, 400 L air, D09C5-380E3 mesin |
-| Pengumuman mixer listrik AS (350 kW) | Truck Home Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | SINGLE _ SOURCE | 8 × 4 BEV, 350 puncak 215 rated kW |
-| Set terpadu APAPUN 20 m Admixer | Hunan Daily Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | _ BERDECAT | Terpadu - frame engineering, konteks kelas large- ukuran |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
-| GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
+| SANY mixer-truck product line (capacities/engine brands) | SANY Group (OEM official, CN-language site) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | VERIFIED | 6–7/8–9/10 m³ bands; Hino/Yuchai/Weichai/Sany Power |
+| SY310C-8S(V) 10 m³ model parameters | SANY Group (OEM official) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VERIFIED | 10 m³ drum, 400 L water, D09C5-380E3 engine |
+| SANY electric mixer announcement (350 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | single source | 8×4 BEV, 350 peak/215 rated kW |
+| SANY integrated frame / 20 m³ mixer | Hunan Daily / Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | CROSS_CHECKED | Integrated-frame engineering, large-size class context |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Konfidence mencatat: kapasitas drum dan merek mesin yang diedarkan pada SANY 's sendiri OEM halaman (scope = spesifikasi produk). Terpadu - detail frame dan BEV motor tunggal-sumber dan membutuhkan konfirmasi pada kode model homologated saat ini. Tak ada harga yang diminta. ♪
+*Confidence note: drum capacities and engine brands are VERIFIED on SANY's own OEM pages (scope = product specification). Integrated-frame detail and the BEV motor are single-source and require confirmation on the current homologated model code. No price is asserted.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

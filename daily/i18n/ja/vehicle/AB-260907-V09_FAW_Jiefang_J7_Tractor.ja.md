@@ -20,19 +20,19 @@ The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor
 |---|---|---|
 | 油圧エンジン | CA6DM3-55E52 ** (中国- 5 / ナショナルV) | CROSS_CHECKED |
 | 出力 | 550 PS、2300 N·m前後 | CROSS_CHECKED |
-| ギアボックス | 12-speed マニュアル | SINGLE_SOURCE |
-| 事例紹介 | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| ギアボックス | 12-speed マニュアル | single source |
+| 事例紹介 | CA4250P77K25T1E5 | single source |
 | イーラ | 2018 進水式ライン — **HISTORICAL_VARIANT** | CROSS_CHECKED |
 
 これらの数字は、** 2018-era中国- 5 ** J7. を記述します 過去の排出ステージとしてラベルを貼り、現在販売中のトラックとして提示してはならない。 中国- 5 エンジンはまた直接輸出質問を上げます: 多くの目的地の市場は、新しい排出段階を必要としています、従って中国- 5 ユニットは、トラック自体が利用可能であっても登録できません。 生成を調達する前に、目的地の排出認識を確認します。
 
-## Generation two — China-6 (current line)
+## 第2世代 — 中国第6段階（現行ライン）
 
 | アイテム | 中国の市場参照 | 自信の秘境 |
 |---|---|---|
-| エンジンファミリー | CA6SX1 ** (中国- 6 / 国家VI) | SINGLE_SOURCE |
-| 参照される上の出力 | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — 馬力が正確に確保できるSKUによるステップ|
-| レイアウト | 6x4 の優位; 空気懸濁液および油圧リターダーは選択された構成で任意にしました | SINGLE_SOURCE |
+| エンジンファミリー | CA6SX1 ** (中国- 6 / 国家VI) | single source |
+| 参照される上の出力 | Up to 600 PS / 2800 N·m | single source — 馬力が正確に確保できるSKUによるステップ|
+| レイアウト | 6x4 の優位; 空気懸濁液および油圧リターダーは選択された構成で任意にしました | single source |
 
 中国- 6 家族は現在ラインですが、SKU 間での正確な馬力/トルク ステップは、ここで完全に実証されていない - 「600 PS までの」は、すべてのトラックのための単一の固定評価ではなく、天井の参照です。 注文は、正確なCA6SX1電力定格を名前を付けなければなりません, 変速機, 軸比率  and  fifth-wheel setup  and  これらをJiefang公式仕様または正確なMIITの均質化エントリに閉じます。 Items such as the precise fifth-wheel load, 軸比率, 燃料タンク容量  and  kerb の塊は、*not** で、正確な SKU ソースがキャプチャされていないためです。
 
@@ -86,15 +86,15 @@ For a tractor the buyer's decision runs across six dimensions,  and  それぞ�
 
 いいえ。このページは中国市場ディーゼルのリファレンスです。 LNG/EV、RHD、および輸出J7sは別々のOEMの証拠を必要とし、同じと仮定されていません。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/ 上市 / 国五历史 / | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3、上市、国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps、6x4、国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 |  CN  | T3 | 単一 | 単価 | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩 、 12 挡 、 缓速器 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 |
-| 车型身份 | 底盘选装 | 汽车之家・车家号 |  CN  | T3 | 単一 | 単価 | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份 | 底盘选装 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税
-| 一汽解放官方网站 (车型线身份;exact-SKU 以官方/公告终核) | 一汽解放 (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang)) (FAW Jiefang)) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang) (FAW Jiefang (FAW))) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告终核） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

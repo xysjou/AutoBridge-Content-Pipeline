@@ -75,17 +75,17 @@ Tập tin thêm nào cần đăng ký thị trường xuất khẩu? Giấy ch�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Chứng nhận nhà máy GB/T 21085-2020 (hiện thời) | SAMR mở rộng | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VEIID (TIẾNG) | Tiêu chuẩn/ ngày/ Tiêu chuẩn hiện thời |
-| Bộ xử lý mã nguồn SAMR:· GB/T 21085-2020 chi tiết | SA - RA | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VEIID (TIẾNG) | Hiện ngày/ thư mục/xem/ Tác động |
-| Kế hoạch điều khiển 20260041-Q-339 chuẩn (sự vô dụng, dưới sự phát triển | SA - RA | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | T_ TIẾNG _ DỐI (TIẾNG) | Trạng thái nháp/ sở hữu |
-| SAMR thông báo giao 24 kế hoạch chuẩn bắt buộc | SA - RA - SA - SC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VEIID (TIẾNG) | Name |
-| Bộ tư vấn MIT GB21085 - XXXXX (không hiện thời) | MIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (thư mục chính) | Chỉ nháp văn bản đa giai đoạn (bị chặn từ việc in) |
-| Quy tắc đăng ký xe hơi (tập tin xuất khẩu) | Thành phố Xiantoo gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VEIID (TIẾNG) | Kiểm tra chứng nhận và chứng nhận bằng lái |
-| Danh sách tập tin xuất ra toàn gói | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | ĐÃ_ ĐÃ | Bộ chuyển giao, khuyến cáo NV/ Chuyển đổi |
-*Draft: quy tắc giả lập đa giai đoạn và thay thế bắt buộc là DRAFT/FUT và loại bỏ các lời khai yêu cầu hiện tại; các vật dụng chuyển đổi là lời khuyên biên tập. *
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

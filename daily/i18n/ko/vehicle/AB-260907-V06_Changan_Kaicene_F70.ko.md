@@ -26,9 +26,9 @@ The Changan Kaicene F70 is a body-on-frame (non-load-bearing) mid-size pickup of
 
 | 가족, | 중국 시장 참고 | 의논하기 | 의논하기 |
 |---|---|---|---|
-| 2.5T 디젤 (JE4D25) | 주요 디젤 옵션 중 하나; 정확한 전력 / 토크는 모델 년에 따라 다릅니다. | 6MT / 6AT | SINGLE_SOURCE — 여기에 고정되지 않음|
-| 1.9T 디젤 | 소형 디젤 옵션 | 손질 당 수동/자동 | SINGLE_SOURCE |
-| 2.4T 가솔린 | Petrol 대안 | 의 의 | SINGLE_SOURCE |
+| 2.5T 디젤 (JE4D25) | 주요 디젤 옵션 중 하나; 정확한 전력 / 토크는 모델 년에 따라 다릅니다. | 6MT / 6AT | single source — 여기에 고정되지 않음|
+| 1.9T 디젤 | 소형 디젤 옵션 | 손질 당 수동/자동 | single source |
+| 2.4T 가솔린 | Petrol 대안 | 의 의 | single source |
 
 Changan 같은 - 트림 공식 사양이 캡처되지 않기 때문에이 가이드는 **이 엔진에 고정 kW / N / m 출력을 인쇄하지 않습니다. 따라서 해결 된 데이터로 단일 소스 미디어 수치를 제시 할 것입니다. 정확한 엔진 부호, 모형 년, 힘 및 전송을 Kaicene/Changan 공식적인 윤곽 장 또는 MIIT 균질화 입장에 계약하기 전에 일치하고, 디젤과 가솔린 선을 명확하게 분리하십시오.
 
@@ -76,25 +76,25 @@ Changan 같은 - 트림 공식 사양이 캡처되지 않기 때문에이 가이
 
 중국 트럭은 LHD입니다; 어떤 RHD/export 건축 및 해외 naming는 분리된 OEM 증거를 요구하고 동일하게 가정하지 않습니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m510/127652_param.html | engine_variants |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
-| 中国皮卡网 | 中国皮卡网 | CHINA | T3 | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6825893006034338312/ | engines |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6753066743062594051/ | offroad |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m510/127652_param.html | engine_variants |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
+| 中国皮卡网 | 中国皮卡网 | CHINA | media/industry | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6825893006034338312/ | engines |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6753066743062594051/ | offroad |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (中国市场参考; 动力功率/拖拽/额定载质量无 OEM 同 손질 或公告来源, 保持待证不写死)
+- **참고 시장 **: 중국 (China-market reference; 动力功率/拖拽/额定载质量无 OEM 同 손질 或公告来源, 保持待证不写死)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 기하학 및 엔진 출력, 및 모든 견인 / 페이로드 / GVW 수치, transacting 전에 OEM 시트 또는 MIIT 균질 항목에 재확인해야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

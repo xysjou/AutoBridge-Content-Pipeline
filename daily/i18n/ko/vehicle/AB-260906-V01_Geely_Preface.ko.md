@@ -24,9 +24,9 @@ The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-dri
 
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
 |---|---|---|---|
-| 1.5T 가솔린 | 133 kW (181 PS)/290 N·m의 7-speed 젖은 이중 클러치 | 중국 · 1.5T 트림 · 단일 소스, VIN에 의해 확인 | SINGLE_SOURCE(싱글) |
-| 2.0T (외부 구경측정) | 175 kW (238 PS)/350 N·m의 자동 8-speed, WLTC는 ≈ 7.15 L/100km를 결합했습니다 | 중국 · 구/Jinchao-era 2.0T · 단일 소스 | SINGLE_SOURCE(싱글) |
-| 2.0T (신뢰) | 200 kW / 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | 중국 · 2025 동팡야오 2.0T · 단일 소스, 확인 | SINGLE_SOURCE(싱글) |
+| 1.5T 가솔린 | 133 kW (181 PS)/290 N·m의 7-speed 젖은 이중 클러치 | 중국 · 1.5T 트림 · 단일 소스, VIN에 의해 확인 | single source(싱글) |
+| 2.0T (외부 구경측정) | 175 kW (238 PS)/350 N·m의 자동 8-speed, WLTC는 ≈ 7.15 L/100km를 결합했습니다 | 중국 · 구/Jinchao-era 2.0T · 단일 소스 | single source(싱글) |
+| 2.0T (신뢰) | 200 kW / 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | 중국 · 2025 동팡야오 2.0T · 단일 소스, 확인 | single source(싱글) |
 
 The two 2.0T outputs are not a data conflict to resolve by picking one: 그들은 다른 모형 년 구경측정에 속합니다. 'A Preface 2.0T'라는 이름의 수출 인용  and  정확한 손질은 주위입니다. Geely의 지역 중동 물자는 분리되는 수출 시장 Preface powertrain를 보여줍니다 (예를 들면 2.0TD + 7DCT 지역 건축); 모델에 따라 지역 빌드가 수출 시장 참조로 인용됩니다.  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
 
@@ -77,20 +77,20 @@ RHD 버전이 여기에서 중국 시장 소스에 의해 설치되지 않습니
 
 No - 중국 가이드 가격은 시간 과민한 국내 참고입니다; Incoterm와 목적지를 가진 형식적인 수출 인용을 요구하십시오.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| (2.0T 175kW/238Ps/350N·m·8AT、WLTC W 7.15) | : | : 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT년  |
- | 1.5T+2.0T T (1.5T 133kW/290N·m 7DCT; 新工 2.0T 200kW/400N·m) | 知之家·李俊億 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T의 DCT  |
-| 吉利星瑞官方车型页 (CMA 架构、 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) | 吉利汽车官网 | 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://preface.geely.com/ | 车型官方身份, CMA,  悬架  |
-| 星瑞尺寸 / 轴距 (4785 × 1869 × 1469, 轴距 2800) | 懂车帝车型参数页 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸,  轴距  |
-| Geely Preface 해외 데뷔 (사우디 아라비아) - OEM 뉴스 | Geely 자동차 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; 중국과 중국
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — VIN/announcement에 의해 정확한 중국 균질화 모형/variant를 확인하십시오 |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-06
-- **참고 시장 **: 중국 (中国市场参考规格; 出口/右舵版本无 OEM 证据, 须另证)
+- **참고 시장 **: 중국 (China-market reference specs; 出口/右舵版本无 OEM 证据, verify separately)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

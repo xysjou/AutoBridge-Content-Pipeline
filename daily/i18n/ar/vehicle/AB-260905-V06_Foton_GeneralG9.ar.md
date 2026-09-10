@@ -56,17 +56,17 @@ The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سو�
 ** الأبعاد ذات الأبعاد الطويلة** مصدر واحد هنا، فحص قبل طلب.
 ** أي وقود للديزل؟ ** China-VI, 0 # diesel; verify destination fuel compatibility.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | T3 | صرخات | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | صرخات | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | صرخات | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | T3 | صرخات | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

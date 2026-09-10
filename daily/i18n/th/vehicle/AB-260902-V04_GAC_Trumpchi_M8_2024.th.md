@@ -2,7 +2,7 @@
 
 ## ข้อมูลเมตา SEO
 - **ชื่อ SEO**: GAC ทรัมชิ M8 2024 MPV สเปกส์ คู่มือการส่งออกแบบอนุกรม & Seathing
-- **คำอธิบาย Meta**: 2024 GAC ทรัมชิ M8 (พ.ศ. สเปกตรัมอ้างอิงของจีน: อนุกรมของอาจารย์และคุณตา หลิงเซียว 2.0TGDI 185 kW (พ.ศ. 8AT (พ.ศ. 7-seat ผังผังผัง ขนาด  and  ต่างประเทศผู้ซื้อ จุดตรวจสอบ
+- **คำอธิบาย Meta**: 2024 GAC ทรัมชิ M8 (พ.ศ. สเปกตรัมอ้างอิงของจีน: อนุกรมของอาจารย์และคุณตา หลิงเซียว 2.0TGDI 185 kW (พ.ศ. 8AT (พ.ศ. 7-seat ผัง ขนาด  and  ต่างประเทศผู้ซื้อ จุดตรวจสอบ
 - **H1**: GAC ทรัมชิ M8 2024 (จีน: MPV อนุกรม, แผนที่การนําร่องและกําหนดสําหรับผู้นําเข้า พ.ศ.
 - **คีย์เวิร์ดหลัก**: GAC ทรัมพ์ชิ M8 2024 ข้อกําหนดส่งออก
 - **คำค้นหารอง**: ทรัมชิ M8 7-seat MPV (พ.ศ.   GAC  M8 2.0TGDI 8AT, ทรัมชิ M8 ผลงานชุดหลัก ส่งออกอย่างฟุ่มเฟือยของจีน MPV GAC M8 ตะวันออกกลาง
@@ -53,7 +53,7 @@ Tumpi M8 เป็นประเภทขนาดกลาง ขนาด mon
 
 - GAC ตีพิมพ์การปรับแต่ง ต่างประเทศ MAC M8; ** VIN ส่งออก — ตรงกับแผ่นข้อมูลอย่างเป็นทางการที่ปลายทาง (PDF).
 - ยืนยัน **LHD/RHD* เหมาะกับประเทศเป้าหมาย และกําหนดว่าลําดับดังกล่าวจะถูกผลิตในผังพวงมาลัยหรือไม่
-- ตรวจสอบการยอมรับการปล่อยก๊าซ ระดับเชื้อเพลิง และปลายทางการประกาศหาพีพีพีพีพีพีพีเอพิเศษของจีน
+- ตรวจสอบการยอมรับการปล่อยก๊าซ ระดับเชื้อเพลิง และปลายทางการประกาศหาพีเอพิเศษของจีน
 - ยืนยันภาษาการให้ข้อมูล การนําร่อง และการบริการเชื่อมต่อนอกประเทศจีนแผ่นดินใหญ่ รวมทั้งการออกสื่อการรับประกัน
 - ถ้าลูกค้าต้องการค่า "Hibrid" (双擎) ให้ขอมาตรฐานอย่างเป็นทางการ จากรถน้ํามัน
 
@@ -110,18 +110,18 @@ MPV buyers are sold a "luxury seven-seater" label that hides three different ser
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8   大师 尊贵版 อย่างเป็นทางการ | GAC ท ท ท ั ม ม ม ม ม ม ม ม ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ม ม ม พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ ิ ิ ิ ิ | | | | พ พ | พ พ | | | พ พ | | พ | พ | | | | | พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ | | | |  | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | เปิดใช้งาน | 5212 mm ศพ 3070 mm WB 2060 kg, 2.0TGDI |
-| การปรับแต่ง GAC M8 ต่างประเทศ | GAC Group (เปิดให้บริการ) | เอ็กซ์พอร์ต | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | เปิดใช้งาน | 185 kW 252 PS ที่นั่ง 7 ที่นั่ง พักงาน |
-| 2024 M8 宗师 宗师  petrol อย่างเป็นทางการ | GAC ท ท ั ม ม ม ม ม พ พ พ พ พ พ พ พ พ พ ร | | | ท ท ร ร ร ร ร ร ร ั ั ั พ พ พ พ พ ิ ิ ิ ิ ิ ิ | | | | | | ศ | ศ | ศ ศ | ศ ศ ศ | | | | | | | | | | | | | | | | | | | | | พ พ | | | | | | พ พ พ พ พ พ | พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ | | พ พ  | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | เปิดใช้งาน | 2.0TGDI + 8AT 400 N·m ราคาในประเทศ พ.ศ. ○
-| ปรับแต่ง Lingxiu 390T | ออโต้โฮม (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | ROOS_ CHCKED | 5089 mm ศพ 3000 mm WB 390 N·m (พ.ศ. WLTC 8.85 |
-| M8 พ พ พ พ พ พ พ พ พ พ พ พ พ พ  )  )  )  )  )  )  )  )  )  )   )  )  )   )  )  ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  ) ( ) ) ) ) ) ) ) ) ) ) )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  )  ) (  ) ( | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | ROOS_ CHCKED | แยกฐานล้อ, การทําผัง |
-| ปรับแต่ง Lingxiu | ยีเช (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | ROOS_ CHCKED | ขนาด Lingxiu ราคาในประเทศ |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-*บันทึกการยอมรับ (มาตรฐานของ ออโตริด): GAC ด้วยตัวเองเพจ (เจ้าหน้าที่ดูแลการบํารุงรักษา) ค่าของ Lingsiu คือ CROSS_CHCKED ผ่านฐานข้อมูลอิสระ 400 vs 390 N·m กําหนดแยกโดยตั้งใจโดย search; hybrid (双擎) specs are not asserted.*
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

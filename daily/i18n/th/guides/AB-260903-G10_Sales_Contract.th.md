@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-○ PAI - CUMMANC. สืบค้นเมื่อ 27 July 2015. Art 596 ยอดขาย-มาตรฐาน | ค้นหา Law (ประตูด้าน) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | ROOS_ CHCKED (บทความอ้างอิงอ้างอิงที่อ้างอิงผ่านประตูกฎหมายชั้นรอง; 77/a/a/a/a/a/a ล//////////////////////N/N/N/N/N/N/N/N/N/N/N/NNNNNN/NNNNNNNN/NNNNNNNN/NNNNNN/NNNCN 04/NM/NMMCMMMMMM – สืบค้นเมื่อ 8 กรกฎาคม และตําแหน่งการเข้าชม.
-| ส ส ่ ่ ่ ่ ่ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ก ก ก ่ ่ ฎ ฎ ฎ ฎ ฎ ห ห ห ห ห ห ห ห ห ห ห ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม าย าย าย าย าย าย าย าย พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ ศ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ | สากล | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | ROOS_ CHCKED | การโอนถ่ายโอนความเสี่ยง; สืบค้นเมื่อ 7 July 20 July 2015. เงื่อนไขการเปิดเผย | 110ask
-| ข้อกําหนดหลักสําหรับซื้อ (รายการ ปรับแต่ง) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | ROOS_ CHCKED | LAD, หน้าต่างที่อ้าง, ส่วนขยายแฟ้มปรับแต่ง |
-| สัญญาส่งออก Incoternation/discults/ Aposstille | วัสดุปรับความถี่ | สากล | https://m.11467.com/product/d43019461.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | การทําซ้ําแบบ Incoternation, ICC การแบ่งประเภท, Apossille |
-*จดหมาย: Art 596 เนื้อหาคือ CROSS_ การ ตรวจ สอบ ผ่าน ทาง ประตู ทาง กฎหมาย ชั้น รอง เท่า นั้น — การ อนุ สัญญา เรียก ร้อง ให้ มี การ ส่ง รหัส แพ กชัน แพ กท. (NPC/OF) อย่าง เป็น ทาง การ (NPC/C) ซึ่ง ไม่ ได้ ถูก จับ; อย่า ตรา ว่า เป็น ส่วน หนึ่ง ของ เอกสาร นั้น. การ จํากัด สิทธิ์ ใน การ เลือก ตําแหน่ง การ ตัดสิน และ การ ออก หาก ของ อะฆะ ริ ปาล ขึ้น อยู่ กับ กฎหมาย และ จุด หมาย ปลาย ทาง ที่ เลือก ไว้ และ ต้อง ได้ รับ การ ยืน ยัน โดย คํา แนะ นํา ที่ มี คุณวุฒิ. แบบจําลองสัญญาเท่านั้น ที่อ้างอิงได้ *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》第 编 编 合同 合同 合同 合同 合同 (第五百九十五/五百九十六/五百九十七条逐字) | (พ | 最高人民检察院 最高人民检察院 最高人民检察院 最高人民检察院 合同 合同 合同 合同 合同 合同 合同 合同 合同 (พ 合同 合同 合同 五百九十六 五百九十六 五百九十六 (พ 五百九十六/五百九十六/五百九十七条逐字 五百九十七条逐字 五百九十七条逐字 五百九十七条逐字 最高人民检察院 (พ 最高人民检察院 最高人民检察院 最高人民检察院 最高人民检察院 (พ พ พ พ พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 ( 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 合同 | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | เปิดใช้งาน |  |
-| 中华人民共和国民法典 中华人民共和国民法典 全文 全文 (政府门户转载) พ ศ ศ ศ ศ ศ 全文 政府门户转载 (政府门户转载) พ ศ ศ ศ ศ ศ ศ 政府门户转载 政府门户转载 政府门户转载 ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ พ พ พ ศ พ พ ศ ศ ศ พ ศ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ | 云南省司法厅 (sft.n.gov.cn) 开封市人大 (kford.ennd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | เปิดใช้งาน |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

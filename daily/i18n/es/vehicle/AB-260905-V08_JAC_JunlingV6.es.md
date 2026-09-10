@@ -25,13 +25,13 @@ El **JAC Junling V6 (骏铃 V6, 2024/2025)** es un camión de carga diesel de me
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| motor d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 | - | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| motor d25 par motor | 400 | N·m | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| powertrain ankang160 | 安康 160 + 6 挡全铝变速箱 + AAM 后桥 | - | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| peso de la curvatura | 2.565 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| Gvw | 4.495 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| carga útil nominal | 1.735 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| caja de carga interior | 约4220×2075×400 | mm | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
+| motor d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 | - | CHINA | single source | 卡车之家镜像 |
+| motor d25 par motor | 400 | N·m | CHINA | single source | 卡车之家镜像 |
+| powertrain ankang160 | 安康 160 + 6 挡全铝变速箱 + AAM 后桥 | - | CHINA | single source | 卡车之家镜像 |
+| peso de la curvatura | 2.565 | t | CHINA | single source | 卡车之家镜像 |
+| Gvw | 4.495 | t | CHINA | single source | 卡车之家镜像 |
+| carga útil nominal | 1.735 | t | CHINA | single source | 卡车之家镜像 |
+| caja de carga interior | 约4220×2075×400 | mm | CHINA | single source | 卡车之家镜像 |
 
 ## Controles de exportación de la cubierta ligera: las masas necesitan una fuente canónica
 Los datos del motor y de la caja de carga provienen de una fuente de carga de camiones retrovisores, mientras que **GVW/kerb/payload restablecen en un solo espejo y deben ser confirmados en la página canónica 360che, el material JAC OEM o el anuncio MIIT** antes de que se utilicen para cargar o homologar. Los neumáticos, la relación de los ejes traseros y el tamaño de la horquilla de combustible no se capturan. Aquí no se establecen las especificaciones de exportación y de derivación derecha.
@@ -52,16 +52,16 @@ Para los compradores de distribución de ciudades el punto de configuración de 
 ¿Engine? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m en la línea capturada.
 **¿Dónde están los detalles del neumático/axila?** No capturado; solicite la hoja de construcción OEM.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像) | CN | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃 V6 配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内 D25 参数, 货厢 |
-| 骏铃 V6 车型 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康 160, 变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) | 58 同城二手车 | CN | T4 | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JAC Sitio oficial de motores | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | T1 | VERIFIED | https://www.jac.com.cn/ | marca/model-line identity and OEM authority |
-| Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |
-| Administración Estatal para el Reglamento de Mercados (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | nacionales de normas, certificación y autoridad de regulación del mercado |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

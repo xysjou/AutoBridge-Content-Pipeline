@@ -26,13 +26,13 @@
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| x5 chiều mờ ngắn | 4990×1980×1990 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐对比 |
-| x5 short wheelbase | 3070 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐对比 |
-| Tùy chọn bánh xe dài | 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐对比 |
-| động cơ 2 5t mô-men xoắn | 400 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 大众网 |
-| gửi | 6MT | - | TRUNG QUỐC | SINGLE_SOURCE | 大众网 |
+| x5 chiều mờ ngắn | 4990×1980×1990 | mm | TRUNG QUỐC | single source | 搜狐对比 |
+| x5 short wheelbase | 3070 | mm | TRUNG QUỐC | single source | 搜狐对比 |
+| Tùy chọn bánh xe dài | 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) | mm | TRUNG QUỐC | single source | 搜狐对比 |
+| động cơ 2 5t mô-men xoắn | 400 | N·m | TRUNG QUỐC | single source | 大众网 |
+| gửi | 6MT | - | TRUNG QUỐC | single source | 大众网 |
 | Tùy chọn ghế | 3/5/6/7/9/14/15/17 (随版本) | - | TRUNG QUỐC | ĐÃ_ ĐÃ | 大众网 + 搜狐 |
-| Lưu chuyển dạng đông lạnh | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | TRUNG QUỐC | SINGLE_SOURCE | 大众网 |
+| Lưu chuyển dạng đông lạnh | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | TRUNG QUỐC | single source | 大众网 |
 
 ## Thu thập tập trung: chọn một cấu hình, tách rời các trang web
 Người mua xe phải sửa chữa bánh xe, độ cao mái nhà, số ghế ngồi (người bán hàng) hoặc bố trí hàng hóa, và động cơ trước khi so sánh giá cả. Toàn bộ các ma trận năng lượng Cummins ISF2.8 và per-trim kerb/GVW không bị bắt và không được giữ** chờ đợi một tờ OEM; các mục encyclopaedia được coi như là đầu mối. Một cơ thể đông lạnh hay xe cứu thương là một cơ sở dữ liệu ** trên một khung gầm** và cần phải đánh giá chất nổ/ nạp năng lượng/sự tích hợp của nó.
@@ -48,19 +48,19 @@ Người mua xe phải sửa chữa bánh xe, độ cao mái nhà, số ghế ng
 Bao nhiêu ghế? Nó bao gồm 3–17 phiên bản; chỉ định chính xác cấu trúc.
 Tại sao không có đủ ISF2.8 danh sách điện? Ma trận biến thể cần khóa OEM; nó được giữ lại.
 Chiếc xe đông lạnh này là mẫu nhà máy Nó là một sự chuyển đổi/lên trên khung gầm Toano.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+**Chiều dài cơ sở nào cho xe minibus?** Chọn 3070/3510/3750 mm tùy bố cục.
 GVW con số ở đâu? Không bị bắt một cách đáng tin cậy; nhận được từ sự đồng tính.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | CN | T4 | ĐÃ_ ĐÃ | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | ĐÃ_ ĐÃ | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸. 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ĐÃ_ ĐÃ | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力. 扭矩. 座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | CN | T3 | ĐÃ_ ĐÃ | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装. 非原厂 VAN 参数 |
-| Nơi Mạng chính thức của Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VEII | https://www.foton.com.cn/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

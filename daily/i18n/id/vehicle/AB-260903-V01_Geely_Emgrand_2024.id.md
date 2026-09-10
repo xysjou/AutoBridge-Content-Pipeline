@@ -81,19 +81,19 @@ Bagaimana kuatnya mesin 1.5L? 93 kW (sekitar 127 PS) dengan 127 N·m pada lembar
   - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrand 1.5L CV T trim sheet | Basis data Sohu Auto | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | _ BERDECAT | Dimensi, roda, kursi, referensi harga |
-| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | _ BERDECAT | 1.5L 93 kW, transmisi |
-| Perbandingan parameter multi- versi Emgrand | Basis data Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | _ BERDECAT | Dasar roda, versi, domestik MSRP (TIME _ SENSITIF) |
-| 5th-generation Emgrand launch (batas generasi) | Ekonomi Cina Net (media resmi) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME _ ENSITIF | 5th-gen ukuran roda harga; membedakan generasi |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensions, wheelbase, seats, price reference |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissions |
+| Emgrand multi-version parameter comparison | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Wheelbase, versions, domestic MSRP (TIME_SENSITIVE) |
+| 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME_SENSITIVE | 5th-gen size/wheelbase/price; distinguishes generations |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Catatan kepercayaan: tidak ada OEM lembar spesifikasi primer ditangkap untuk model ini; angka adalah nilai basis data / media Cina yang dicentang. torsi 127 N·m adalah tunggal-sumber. Harga domestik dan peluncuran 5th-generation adalah waktu - sensitif. Tujuan homologasi dan spesifikasi ekspor harus dikonfirmasi untuk VIN. *
+*Confidence note: no OEM primary spec sheet was captured for this model; figures are cross-checked Chinese database/media values. The 127 N·m torque is single-source. Domestic price and the 5th-generation launch are time-sensitive. Destination homologation and export specs must be confirmed for the VIN.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

@@ -87,17 +87,17 @@ Un EV/hibrid dentro de un contenedor todavía lleva una batería de tracción: s
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Vista lateral del vehículo (2/box, 8 tirantes) | Material de carga para uso | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV sin barra; ~ 8 tirantes; método de rueda (una fuente) |
-| Puerto Yantai primero 4-SUV "Ro-to-container" prueba | Qilu Evening News Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 rack; secuencia de carga (un juicio reportado) |
-| Carga de coche de ferrocarril China-Europa (3/box) | Ferrocarril de Harbin Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Referencia de tres por caja (una fuente) |
-| Exportar contenedor método de carga de cinco pasos | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Control de la propiedad de cinco puntos (una fuente) |
-* Nota de la encuesta: cada figura de carga viene de una fuente única y distinta (todo SINGLE_SOURCE) — ningún hecho es corroborado por dos fuentes independientes, por lo que ninguna se etiqueta CROSS_ - ¡Crepa! Los conteos son referencias de práctica documentada, no estiba garantizada; el número exacto siempre depende de las dimensiones medidas y un plan de carga aprobado, y las reglas de porteador/terminal deben ser confirmadas en la reserva. *
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| Código de prácticas de la OMI/OIT/CEPE para el embalaje de las unidades de transporte de carga (Código de la UAT) | Organización Marítima Internacional (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Distribución de carga, enjuague y garantía de principios para las UAT, incluidos los contenedores |
-| Containers referencia de equipos | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Contador de carga estándar y contexto de liquidación de líneas para la planificación de carga |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

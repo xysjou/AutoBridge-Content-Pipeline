@@ -77,17 +77,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shipping an electric vehicle by sea (IMDG), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Shipping an electric vehicle by sea (IMDG), 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 発行元: IMDG  コード (2024 版 、 改正 42-24 版)、 公正な公開ページ | 国際海事機関 (IMO) | 営業拠点 | 以下は 、 の一覧 | 2026-09-05 | 検証済み | 現行のエディション / ミーティングと必須の日付から 。 クラス 9 フレームワーク | https://www.imo.org/en/publications/pages/imdg%20code.aspx
-| 顧客アドバイザリー — 規制変更、IMDG コード修正 42-24 | メイサーク(海運会社名) | 営業拠点 | 以下は、 https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_CHECKED(クロス) | キャリア固有の: 2026-01-01 からのアプリケータビリティ; UN3556 エントリ; SP962 |
-| 指導 — UN3556 (ADR/RID  2025 、 IMDG  Amdt 42-24): 分類 、 SP388/666/961/962 、 UN38.3 | シェケメット Rådgivarna(DG  安全アドバイザー) | 営業拠点 | 以下は 、 | 2026-09-05 | CROSS_CHECKED(クロス) | UN3556 Class 9/label 9A; UN3171 海の移行 2025-12-31; SP961 自己主導対 SP962 コンテナパス _ https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg
-| IMDGの改正42-24の下の船積み車(電子ブック):UN3556/3557/3558対の遺産UN3171 | コンプライアンスセンター/Shashi Kallada | 営業拠点 | 以下は、 https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf の動画をアップしました。 | 2026-09-05 | CROSS_CHECKED(クロス) | UN3557 リチウム金属および UN3558 ナトリウムイオンの記入項目; UN3171 からの区別 |
-| 中国-UAEの危険物 路線図 2026: IMDG予約チェックリスト | シンセンのトップ ウェイのインターナショナル フォワード | CN-UAE ルート | 以下は、 https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | シングル_ソース | キャリア固有のSOC |
-| リチウム電池輸出文書(UN38.3/SDS/packaging証明書) | ディンチョウニュース | CN の | 以下は、 https://www.dzxww.cn/article/293251787800392.shtml の仕様 | 2026-09-03 | シングル_ソース | UN38.3セル+パック、SDS、緩電池の証明書のコンテキスト |
-| 新型輸出通関リスク(中国2025リチウム規則) | 徹底したコンプライアンス分析 | CN の | 以下は、 https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | シングル_ソース | 中国側リチウム輸送要件(単一ソース;公式テキストを確認します) |
-*スコープノート:現在の修正、UN3556/3557/3558分割、SP961/SP962構造は、IMOの出版物および42-24キャリア/DG-アドビザー材料に固定されています。 キャリアSOCレベル、ターミナル受諾および中国側の規則アプリケーションは、キャリア/ルート固有の時間感度です。 名前付きキャリアの現在の条件とすべての予約のための公式のテキストを確認します。 ふりがな
+| IMDG Code (2024 Edition incl. Amendment 42-24), official publication page | International Maritime Organization (IMO) | Global | https://www.imo.org/en/publications/pages/imdg%20code.aspx | 2026-09-05 | VERIFIED | Current edition/amendment and mandatory-from date; Class 9 framework |
+| Customer Advisory — Regulatory Changes, IMDG Code Amendment 42-24 | Maersk (named ocean carrier) | Global | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_CHECKED | Carrier-specific: applicability from 2026-01-01; UN3556 entry; SP962 placard/label change |
+| Guidance — UN3556 (ADR/RID 2025, IMDG Amdt 42-24): classification, SP388/666/961/962, UN38.3 | SäkerhetsRådgivarna (DG safety adviser) | Global | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | CROSS_CHECKED | UN3556 Class 9/label 9A; UN3171 sea transition to 2025-12-31; SP961 self-driven vs SP962 container paths |
+| Shipping Vehicles Under IMDG Amendment 42-24 (ebook): UN3556/3557/3558 vs legacy UN3171 | IMDG Code Compliance Centre / Shashi Kallada | Global | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | CROSS_CHECKED | UN3557 lithium-metal and UN3558 sodium-ion entries; distinction from UN3171 |
+| Dangerous Goods on China–UAE Routes 2026: IMDG booking checklist | Shenzhen Top Way International Forwarding | CN–UAE route | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | single source | Route/carrier booking-stage application; carrier-specific SOC/documentation (illustrative, not universal) |
+| Lithium-battery export documents (UN38.3/SDS/packaging cert) | Dingzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | single source | UN38.3 cell+pack, SDS, loose-battery certificate context |
+| New-energy export customs risk (China 2025 lithium rule) | Sohu compliance analysis | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | single source | China-side lithium transport requirement (single-source; confirm official text) |
+*Scope note: the current amendment, UN3556/3557/3558 split and SP961/SP962 structure are anchored to the IMO publication and 42-24 carrier/DG-adviser material; carrier SOC levels, terminal acceptance and China-side rule application are carrier-/route-specific and time-sensitive — confirm the named carrier's current terms and the official text for every booking.*
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05

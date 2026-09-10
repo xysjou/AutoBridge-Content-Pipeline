@@ -21,7 +21,7 @@ JMC Ford Transit T8 (江铃福特全顺 T8) เป็นแพลตฟอร์
 | ปรับแต่ง | มิติอ้างอิง | เบสของล้อ | ความมั่นใจ |
 |---|---|---|---|
 | ปานกลางล้อ, หลังคาปานกลาง (ตัวอย่าง) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| เบสยาว สินค้าสูง | 5998 × 2164 × 2775 mm; ≈ 3.5 × 1.83 × 1.98 เมตร; volume ≈ 13 m³ | ยาว | SINGLE_SOURCE |
+| เบสยาว สินค้าสูง | 5998 × 2164 × 2775 mm; ≈ 3.5 × 1.83 × 1.98 เมตร; volume ≈ 13 m³ | ยาว | single source |
 
 5998 mm ความยาวมีความสําคัญ: ในหลายตลาด มันนั่งอยู่ที่ขอบเขตการขับรถแบบอัตโนมัติ ดังนั้นผู้ซื้อควรจะยืนยัน ขนาดภายในคาร์โก  and  the ≈13 m³ volume are single-source  and  ควรได้รับการยืนยันจากข้อมูลการสร้างร่างกาย/โครงสร้างของ JMC อย่างเป็นทางการ ก่อนที่การแปลงจะถูกออกแบบรอบ ๆ
 
@@ -29,8 +29,8 @@ JMC Ford Transit T8 (江铃福特全顺 T8) เป็นแพลตฟอร์
 
 | เส้น | อ้างอิงตลาดจีน | กล่องปรับเลข | ความมั่นใจ |
 |---|---|---|---|
-| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatic (8AT) | SINGLE_SOURCE — ได้รับการยืนยันโดย VIN/OEM|
-| 2.0T ดีเซล | แยก, สายดีเซลแบบพิมพ์เล็ก | 6-speed คู่มือ (6MT) พ.ศ. | SINGLE_SOURCE — เส้น แบ่ง|
+| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatic (8AT) | single source — ได้รับการยืนยันโดย VIN/OEM|
+| 2.0T ดีเซล | แยก, สายดีเซลแบบพิมพ์เล็ก | 6-speed คู่มือ (6MT) พ.ศ. | single source — เส้น แบ่ง|
 
 2.3T 8AT และ 2.0T 6MT เป็นเครื่องขับเคลื่อนไฟฟ้าที่แตกต่างกัน เล็งไปที่วงจรการทํางานที่แตกต่างกัน พวกมันต้องไม่ถูกเฉลี่ยหรือนําเสนอเป็นหนึ่ง " T8 เครื่องยนต์" (ค.ศ. ไดรฟ์ล้อหลังเป็นผังฐาน มี 4WD นําเสนอในการปรับแต่งที่เลือก — ชื่อสนามขับเคลื่อนโดยตรง ผลลัพธ์ที่ออกมาในปัจจุบันนี้ อยู่กับแหล่งเดียวที่เป็นอิสระ และควรจะปิดการอ้างอิงกับ ข้อกําหนดของ JMC หรือรายการการร่วมทําข่าวแบบ MIT ก่อนการทําสัญญา; ดีเซลพิเศษชาวจีนยังต้องตรวจสอบ เกรดเชื้อเพลิงปลายทาง และค่าอนุมัติการปล่อยก๊าซในระยะยาวด้วย
 
@@ -78,20 +78,20 @@ Three wheelbases (3000/3300/3750 mm) with medium  and  หลังคาสู�
 
 รถแวนของจีน-มาร์เก็ตเป็น LHD; RHD และข้อกําหนดการส่งออก ต้องการแยกหลักฐานโออีเอ็ม และจะต้องไม่ถูกจํากัดออกจากสายภาษาจีน
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-08
-- ~ตลาดแห่งความอิ่มตัว ~:  CHINA (中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
+- ~ตลาดแห่งความอิ่มตัว ~:  CHINA (China-market reference; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา ผลผลิตจากแหล่งข่าวเดียว ขนาดการแปลง และราคาอ้างอิงภายในประเทศ ต้องได้รับการยืนยันอีกครั้ง บนแผ่น JMC OEM หรือ MIT
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

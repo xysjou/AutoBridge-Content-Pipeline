@@ -70,20 +70,20 @@ AEO不是一次性的奖项. 合规事件——误报模式,制裁问题,海关�
 
 符合现行标准的注册海关企业可以申请;资格取决于标准,而不是作为制造商。
 
-**Is the inspection-rate reduction fixed?**
+**查验率优惠是固定的吗？**
 
 具体比率具有时间敏感性,由全球会计和报告中心公布;使用目前的官方数字,而不是固定数字。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-说到做到 解读 《 海关注册登记和备案企业信用管理办法 》(2026-04-01 施行 、 五级信用))) 》 》 》 》 》 》 》 》 》 》 》 | 中华人民共和国海关总署 维基月球 | 氯化萘 | T1 | 实录 | http://www.customs.gov.cn/customs/xwfb34/302330/6763807/index.html | 修订背景, 五级信用, 实施日期 - 海关信用管理 (中文(简体)). |
-| 海关注册登记和备案企业信用管理办法(海关总署令第 282 号) (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048430.htm | 信用等级划分, 亚欧条件, 管理措施 - 部门规章 |
-| 亚欧企业信用等级调整程序规定 | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/202601/content_7051411.htm | 等级调整程序 - 配套规定 (中文(简体)). |
-| 截至 2025 年底全国 AEO 企业 6876 家 查验率 18.5% 与 48 国 地区互认 EO               | 中国政府网 维基月球 | 氯化萘 | T1 | 时间(_S) | https://www.gov.cn/lianbo/bumen/202602/content_7061523.htm | 亚欧数量、查验率、互认经济体、权威发布 |
-| AEO 相互承认战略指南 | 世界海关组织 | INT 信息技术 | T1 | 实录 | https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/strategy-guide-for-aeo-mutual-recognition.pdf | aeo_定义——世界海关组织安全教育局对AEO和MRA概念的定义 |
-| 安全局标准框架(约) | 世界海关组织 | INT 信息技术 | T1 | 实录 | https://aeo.wcoomd.org/about | aeo_定义-安全电子框架来源和目的 |
-| 平等就业机会的相互承认 | 欧洲联盟委员会税务和关税联盟 | 欧盟 | T1 | 横跨 | https://taxation-customs.ec.europa.eu/customs/authorised-economic-operator/mutual-recognition-ro | aeo_定义——相互承认协议如何提供利益;外国与中国平行 |
+| 海关总署政策例行吹风会：解读《海关注册登记和备案企业信用管理办法》（2026-04-01施行、五级信用） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/xwfb34/302330/6763807/index.html | 修订背景, 五级信用, 实施日期 — 海关信用管理 |
+| 海关注册登记和备案企业信用管理办法（海关总署令第282号） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048430.htm | 信用等级划分, AEO条件, 管理措施 — 部门规章 |
+| AEO企业信用等级调整程序规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202601/content_7051411.htm | 等级调整程序 — 配套规定 |
+| 截至2025年底全国AEO企业6876家、查验率18.5%、与48国/地区互认 | 中国政府网 | CN | primary | TIME_SENSITIVE | https://www.gov.cn/lianbo/bumen/202602/content_7061523.htm | AEO数量, 查验率, 互认经济体 — 权威发布 |
+| AEO Mutual Recognition Strategy Guide | World Customs Organization | INT | primary | VERIFIED | https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/strategy-guide-for-aeo-mutual-recognition.pdf | aeo_definition — WCO SAFE definition of AEO and MRA concept |
+| SAFE Framework of Standards (about) | World Customs Organization | INT | primary | VERIFIED | https://aeo.wcoomd.org/about | aeo_definition — SAFE framework origin and purpose |
+| Mutual recognition of AEOs | European Commission Taxation and Customs Union | EU | primary | CROSS_CHECKED | https://taxation-customs.ec.europa.eu/customs/authorised-economic-operator/mutual-recognition-ro | aeo_definition — how MRA delivers benefits; foreign parallel to China AEO |
 
 ## 编辑评论
 - ** 授权人**: AutoBridge出口编辑组 · [作者] (/作者/) · [编辑政策] (/编辑政策/)

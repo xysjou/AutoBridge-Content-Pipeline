@@ -71,17 +71,17 @@ Jangan berasumsi - dikonfirmasi eligibilitas untuk komoditas tertentu dan pengat
 
 Apakah pajak tetap di bawah kode ini? **
 
-No Rebate treatment follows taxi-authority consideres by case; confirmast the actual treatment rather rather than initive on a quoted centured.
+Tidak. Perlakuan rebate mengikuti pertimbangan otoritas pajak per kasus; konfirmasi perlakuan sebenarnya alih-alih berasumsi dari angka yang dikutip.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国政府网 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm | 中国政府网政策库对跨境电商B2B出口(9710/9810)监管与推广... |
-| 国家税务总局 | 国家税务总局 | CN | T1 | VERIFIED | https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html | 跨境电商9810出口海外仓适用离境即退/出口退(免)税政策 |
-| 海关总署75号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 监管方式代码9710为'跨境电子商务对企业直接出口'(B2B直接出口)；监管方式代码9810为'跨境电子商务出口海外仓' |
-| 海关总署推广解读 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 9710/9810经试点后全国复制推广 |
-| 广东分署 | 海关总署 | CN | T1 | CROSS_CHECKED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 9810以出口到本企业境外海外仓为特征 |
-| 四川贸促会 | 中国国际贸易促进委员会(CCPIT) | CN | T2 | SINGLE_SOURCE | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 地方贸促会对9710/9810适用与申报有操作说明（行业辅助） |
+| 中国政府网 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm | 中国政府网政策库对跨境电商B2B出口(9710/9810)监管与推广... |
+| 国家税务总局 | 国家税务总局 | CN | primary | VERIFIED | https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html | 跨境电商9810出口海外仓适用离境即退/出口退(免)税政策 |
+| 海关总署75号公告 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 监管方式代码9710为'跨境电子商务对企业直接出口'(B2B直接出口)；监管方式代码9810为'跨境电子商务出口海外仓' |
+| 海关总署推广解读 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 9710/9810经试点后全国复制推广 |
+| 广东分署 | 海关总署 | CN | primary | CROSS_CHECKED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 9810以出口到本企业境外海外仓为特征 |
+| 四川贸促会 | 中国国际贸易促进委员会(CCPIT) | CN | independent database | single source | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 地方贸促会对9710/9810适用与申报有操作说明（行业辅助） |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor

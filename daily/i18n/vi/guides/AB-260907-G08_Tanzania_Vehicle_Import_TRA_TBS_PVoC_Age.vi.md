@@ -73,15 +73,15 @@ Hướng dẫn này không nói lên một số: tài liệu thủ tục dùng t
 
 Không có tỷ lệ cố định nào được đưa ra ở đây; phân loại chính xác mã hệ thống HS và sử dụng máy tính hiện tại của đường dây điện tử và máy tính bán kính hiện tại cho phương tiện thực tế.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| Bệnh lao nhập khẩu và kiểm soát Xuất khẩu — Chương trình PVoC, CoC, loại thuốc kích thích, D1, được đặt tên là đối tác | Name | TZ | T1 | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVC 法定依据, CoC 装船前, 二手车单列类别. 检验机构. D1 |
-| TA Import Import Scedures — EACMA 2004, cấp phép CFA, TNCIS,  thể hiện 7-day nơi ở, lao ở giữa các cơ quan cấp phép | Nhà cầm quyền Tanzania (CRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACMA, TNCIS, lao 许可 |
-| LRA  Registration (được duy trì/thay đổi / wheretship-reship) | Nhà cầm quyền Tanzania (CRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
-| 货代 PVoC/e-COC 介绍 (仅线索), 不作事实依据) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC 线索 |
-| 货代 PVoC 流程介绍 (仅线索) | 顺企网 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
-| 使馆转述坦桑进口要求 (2015), 历史背景 | 今日头条镜像 | TZ | T3 | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
+| TBS Imports and Export Control — PVoC programme, CoC, used-motor-vehicle category, D1, named partners | Tanzania Bureau of Standards (TBS) | TZ | primary | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC法定依据, CoC装船前, 二手车单列类别, 检验机构, D1 |
+| TRA Import Procedures — EACCMA 2004, licensed CFA, TANCIS, ≥7-day lodging, TBS among permit agencies | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS许可 |
+| TRA Motor Vehicle Registration (registration/change-of-ownership side) | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
+| 货代PVoC/e-COC介绍（仅线索，不作事实依据） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC线索 |
+| 货代PVoC流程介绍（仅线索） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
+| 使馆转述坦桑进口要求（2015，历史背景） | 今日头条镜像 | TZ | media/industry | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)

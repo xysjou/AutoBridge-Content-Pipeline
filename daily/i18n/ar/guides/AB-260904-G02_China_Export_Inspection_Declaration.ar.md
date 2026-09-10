@@ -16,10 +16,10 @@
 ## السؤال لا يُوجد له جواب
 "هل تحتاج المركبات الصينية إلى تفتيش قانوني قبل التصدير؟" بطانية "كل السيارات يجب" أو "لا سيارات تحتاجها" هي الجواب الخاطئ ما إذا كانت الشحنة المحددة خاضعة للتفتيش القانوني**، يحددها الرمز العشري HS بالضبط**، * مركز الاستيراد  and  السلع الأساسية التصديرية الخاضعة للتفتيش القانوني***  and  هذا الرمز هو حالة مراقبة الجمرةد فئة التفتيش و الحجرة**. وتحدد هذه الصفحة الإطار الصيني لجانب التصدير وطريقة اتخاذ القرارات؛ ولا يؤكد على نتيجة فهرسية لرمز لم يفحصه حي. وبالتالي، فإن النتيجة هي ** أدلة تقليدية**: تم التحقق من الإطار القانوني لكن كل مجموعة من المركبات يجب أن يتم تأكيدها في وقت الإعلان
 
-## The Legal Frame (verified)
+## الإطار القانوني (مُتحقَّق منه)
 وبموجب قانون التفتيش على السلع الأساسية للتصدير والتصدير* ولوائحه التنفيذية، تقدم السلع الأساسية التصديرية المدرجة على قائمة التفتيش القانونية**، لأغراض التفتيش**، ولا يجوز تصدير السلع غير الخاضعة للتفتيش - أو عدم التفتيش -**. ويجري التفتيش من حيث المبدأ على السلع التصديرية في مكان الإنتاج**، ما لم تحدد الجمارك موقعا آخر. ويشمل التفتيش القانوني السلع المدرجة في الفهرس ** والبضائع التي يلزم تفتيشها في أخرى. وتخضع السلع الأساسية خارج الفهرس للتفتيش النادر (抽查检验)**؛ ويحدد الإشعار رقم 163 الصادر عن الجمعية العامة رقم 2024 نطاق التفتيش العشوائي الذي لا يُستهان به، التي لـ ** الصادرات تُدرج فقط ألعاب الأطفال**
 
-## The Decision Method (HS-first, then catalogue)
+## منهج القرار (HS أولاً ثم الكتالوج)
 1 ** رمز نظام الأمن العام المرقمة رقم 10 بالضبط** بالنسبة للسيارة (87.01/87.02/87.03/87.04/87.05 )٢( انظر دليل التصنيف، حسب الاقتضاء.
 2. انظر إلى هذا الرمز في فهرس التفتيش القانوني** الذي يجري حالياً**، ويقرأ شرط الإشراف على الصادرات** (يقابل التفتيش القانوني التصديري فئة التفتيش على السلع الأساسية).
 3. إذا  arrange ترتيب التفتيش في مكان الإنتاج (أو موقع معين)** قبل الإعلان**.
@@ -74,17 +74,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| مؤشر الأساس القانوني - قانون تفتيش السلع الأساسية | الإدارة العامة للجمارك في الصين | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | مُنقَّد (مُبَدَّد؛ مُفتوحة في مُصفّح، مُسَدَّدَة مُؤتَخَلَّة) | (ب) تسمية قانون التفتيش الحالي (تعديل 2021) وتنفيذ لائحة تُنشئ التفتيش القانوني؛ لا يزال قيد التسجيل القانوني للدفتر المشفوع بالضمانات يفحص في الـ 10-digit HS |
-| اللائحة الجمركية المتعلقة بإعلان سلع الاستيراد والتصدير (الأمر رقم 277 الصادر عن لجنة التنسيق المشتركة بين الوكالات، الساري المفعول في عام 2025-05-01) | الإدارة العامة للجمارك الصينية، عن طريق غوف.ج | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | مثقفة)بالمرتبة الأولى( | الإطار القانوني الحالي لإعلان التصدير؛ ما إذا كان 10-digit خط HS لا يزال يتم فحصه بشكل ثابت |
-| دليل خدمات الإنترنت + الجمارك (تفتيش تمثالي = مطلوبة قانونا) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | قاعدة تحديد الكتالوج |
-| GACC Notice 2024 No.163 (out-of-catalogue random inspection; | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 )vert) معهد و ؟
-. Assembly para. 277، الفقرة. | | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04. helicopters,6). معهد/إد. (أ) المباني الأساسية (، و). ؟
-| إعلان من أربعة أعلام بشأن ترخيص تصدير مركبات الإي بي في (BV) (المرجع 8703801090، من 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | الوقت - الظروف)الأساسية( | الرخصة ضد التفريق في التفتيش |
-| GACC Notice 2025 No.138 (pre-declaration application optimization) | الإفراج الجمركي (إعادة نشر) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE OURCE | العملية على الوجه الأمثل |
-* نطاق الأدلة: الإطار الذي تحققه المصادر الرئيسية؛ ويجب التحقق من نتائج الفهرس لأية مدونة محددة من عشرة أرقام على الهواء مباشرة ولا يجري تعميمها. ♪
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

@@ -77,17 +77,17 @@ Dokumen konformitas mendukung Formulir M dan PAAR yang digunakan Nieria Bea Cuka
 
 Panduan ini tidak memberikan figur tetap - mendapatkan saat ini tariff fiscall- sumber kebijakan; tingkat dan kebijakan usia adalah waktu-sensitif.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| Kepolisian Nigeria, Kepolisian 官网, 海关征收进口关税 增值税, 清关与 ECOWS 共同对外税则执行机构身份 | Layanan Bea Cukai Nigeria | NG | T1 | TERBATAI | https://www.customs.gov.ng/ | 海关征管机构身份 - 尼日利亚海关 |
-| SON 官网: SONCAP 强制合格评定制度 SONCAP 证书办理已要求迁移至尼日利亚单一窗口 Nigeria Jendela Tunggal | Standars Organisasi Nigeria | NG | T1 | TERBATAI | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 - 尼日利亚强制标准 |
-| SONCAP layanan dan rute sertifikasi (PC1/PC2/PC3, CoC, SC) | Standars Organisasi Nigeria | NG | T1 | TERBATAI | https://son.gov.ng/soncapservice/ | soncap - Dokumen SONCAP wajib untuk izin bea cukai dari barang yang diatur |
-| PSD SONCAP | Standars Organisasi Nigeria | NG | T1 | TERBATAI | https://son.gov.ng/soncap-faq/ | soncap - lepas pantai sebelum - pengiriman scope skema konformitas |
-| Sertifikat Produk Internasional SON | Standars Organisasi Nigeria | NG | T1 | TERBATAI | https://son.gov.ng/son-product-certification/ | soncap - dasar hukum son Undang-Undang No 14 2015 dan pra-pengiriman inspeksi |
-| Program SONCAP dan IAFs direkayasa ulang | Standars Organisasi Nigeria | NG | T1 | TIME _ ENSITIF | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap - IAF peran menghubungkan Bentuk M PAAR; biaya waktu - sensitif |
-| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | T1 | _ BERDECAT | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap - ringkasan pemerintah Cina dari SONCAP mengatur kategori injil suku mobil ban baterai |
-| Panduan Exporter ke Nigeria SONCAP | Cotecna (SON- menunjuk IAF) | NG | T2 | _ BERDECAT | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap - ditunjuk inspeksi panduan proses perusahaan |
+| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Nigerian Customs Service | NG | primary | VERIFIED | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
+| SON官网（SONCAP强制合格评定制度；SONCAP证书办理已要求迁移至尼日利亚单一窗口Nigeria Single Window） | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
+| SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
+| SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
+| SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
+| Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

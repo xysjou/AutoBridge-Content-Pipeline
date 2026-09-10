@@ -90,18 +90,18 @@ LHD中国車をRHDに変換する法的性と輸出の可能性は、**この研
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## ソースと検証
+## Sources & Verification
 
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| RHD中国車市場ガイド | 出発点から出発点まで | RHD市場 | 以下は | 2026-09-02 | CROSS | CHECKED | MG/GWM RHD ラインアップ・マーケット(業界) の調査 | https://www.starviaauto.com/ja/blog/right-hand-drive-chinese-car-markets-guide
-| 中国の車は  RHD  バイヤーに適する | スタービアオート (輸出サービス) |  RHD  市場 | 以下は | 2026-09-02 |  CROSS  |  CHECKED  (クロス) |  BYD  に 3/Dolphin/Seal  RHD  (業界 まで) 検証) | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive
-| RHD対応Geely/Zeekrモデル | FOBEV(輸出サービス) | RHD市場 | 以下は、 https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED(クロス) | Geely EX5並列LHD RHD、Zeekr RHD(産業;確認) |
-| 東風フォースイングがタイに入る(公式) | 東風モーターグループ(公式) | ツイート | 以下は、 https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | 検証済み | March-2026 Thailand entry, RHDの祭日/ V9 (検証済み) |
-| チャンガン NEVO Q05 バンコクショーデビュー | オートホーム 车家号 (メディア) | ツイート | 以下は、 https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED(クロス) | NEVO Q05の特長 タイのRHDの見通し(メディア; 確認) |
-| Hongqi RHD戦略/RHD市場コンテキスト | smzdm (アグレゲーター)、AutoReport(産業) | RHD市場 | 以下は、 https://post.m.smzdm.com/p/aqrp0mkp/ 以下は、 https://m.autoreport.cn/guoji/20260829/19112676566.html のファイル | 2026-09-02 | CROSS_CHECKED(クロス) | Hongqi RHDプッシュ。 RHD市場における35%グローバル販売 |
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-※本会議ノート(AutoBridge規格):ドンフのタイRHD発売のみがVERIFIED(メーカー公式)となります。 ブランドモデルリストは、頻繁に変更するエクスポートサービス/メディアスナップショット(SINGLE_SOURCE)であり、VINごとの公式ブランド/ローカルディストリビューターチャンネルで確認する必要があります。 アフターマーケットのコンバージョン法は検証されず、リスクとしてフラグを立てています。 ふりがな
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (single source) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

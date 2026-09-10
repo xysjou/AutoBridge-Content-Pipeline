@@ -77,20 +77,20 @@ Geely Preface (Chinese name Xingrui) เป็นผลิตภัณฑ์ข�
 
 ไม่ — ราคาคู่มือจีนเป็นการอ้างอิงที่ไวต่อเวลาของครัวเรือนเท่านั้น ขอการเสนอชื่ออย่างเป็นทางการกับอินโคเลตและจุดหมายปลายทาง
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025 款吉利星瑞购车参考 (新款 2.0T 200kW/400N·m 、 爱信 8AT   零百 6.5s). | 汽车之家 – 车家号 พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  – ศ ศ  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力 (พ.ศ. 8AT (พ.ศ. 加速 |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | จีน | T2 | ROOS_ CHCKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗 (พ.ศ. 8 5%
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家 – 车家号 พ.ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力 新款 2.0T DCT  |
-| 吉利星瑞官方车型页 (CMA 架构 、 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) พ.ศ. | 吉利汽车官网 | จีน | T1 | เปิดใช้งาน | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | จีน | T2 | ROOS_ CHCKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| ไกย์ พรีเฟซ ต่างประเทศ (ซูรี อา ระ เบีย) — ข่าว โอ อี เม | อัตโนมัติ | ไมโครซอฟต์ | T1 | เปิดใช้งาน | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | เอกลักษณ์ — การ อ้างอิง ถึง ตลาด ส่ง ออก เฉพาะ แต่; สืบค้นเมื่อ 20 July 20 July 2015. สืบค้นเมื่อ 28 July 2015. สืบค้นเมื่อ 28 July 20 July 2015.
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | | CN | T1   เ เ เ เ เ เ เ เ เ เ เ เ เ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ล ล ล | | | | | | | | | | | | | | | | | | | | | | | | | | ○
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.
 - ~ถูกตรวจสอบแล้ว~: 2026-09-06
-- ~ตลาดแห่งความอิ่มตัว ~: SON(中国市场参考规格; 右舵版本无 โอเอ็ม 证据, 须另证]（出口）
+- ~ตลาดแห่งความอิ่มตัว ~: SON(China-market reference specs; 右舵版本无 โอเอ็ม 证据, verify separately]（出口）
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา รายการที่ต้องใช้เวลา (เรต ค่าธรรมเนียม รายชื่อ ค่าปรับ ค่าอ้างอิงในประเทศ) จะต้องยืนยันอีกครั้ง ในหน้าปัจจุบันอย่างเป็นทางการ ก่อนที่จะทําการข้ามแดน
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

@@ -13,7 +13,7 @@
 - **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## 誰がこのために
-初めての車両輸出業者は、価格と数量だけに取引を署名し、その後、契約が完全に支払いの前にタイトルを保持する*しかし、または紛争が聞かれる場所を固定しない*henリスクパスを発見します**。 このガイドでは、これらの結果を制御する句をマップします。 PRC 民法 アール596は、CROSS_ にキャップする**秒単位の法的ポータル(FindLawなど)を通じて、ここに記述されています。 CHECKED/SINGLE_SOURCE**; VERIFIEDは、NPC/governmentソースから公式の民法テキストを必要とする。 残りは法的に実践的な統合です。 **テンプレートは法的助言ではありません。資格のある弁護士は、選択した準拠法に基づく実行契約を見直しています。 アパート
+初めての車両輸出業者は、価格と数量だけに取引を署名し、その後、契約が完全に支払いの前にタイトルを保持する*しかし、または紛争が聞かれる場所を固定しない*henリスクパスを発見します**。 このガイドでは、これらの結果を制御する句をマップします。 PRC 民法 アール596は、CROSS_ にキャップする**秒単位の法的ポータル(FindLawなど)を通じて、ここに記述されています。 CHECKED/single source**; VERIFIEDは、NPC/governmentソースから公式の民法テキストを必要とする。 残りは法的に実践的な統合です。 **テンプレートは法的助言ではありません。資格のある弁護士は、選択した準拠法に基づく実行契約を見直しています。 アパート
 
 ## 条項ブロック1 — 必須コンテンツ(シビルコードアート596)
 PRC民法**の**の**Article 596の下で、販売契約はカバーする必要があります:**名前、量、品質、価格、性能、パッケージ、検査基準、方法、決済、および効果的な言語/テキスト規定**の時間/場所/方法。 車両の取引に翻訳される最小値は次のとおりです。
@@ -32,7 +32,7 @@ PRC民法**の**の**Article 596の下で、販売契約はカバーする必要
 
 ## ブラウスブロック4 — ブレア、レイトパフォーマンス、クレームWindows
 - ** 一日あたりの清算損害率(多くの場合、パーマイユで表現) 、‰ 日)契約が終了する可能性がある**以降、**maximumの期限が過ぎた場合。
-- **品質要求:** 到着後、** 点検期間およびクレームウィンドウを固定する。 一方、潜伏争議は、彼・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ PSIにウィンドウをリンクし、トランジットと既存の損傷の現実的な検出に。
+- **品質要求:** 到着後、** 点検期間およびクレームウィンドウを固定する。 一方、潜伏争議は、彼・ザ PSIにウィンドウをリンクし、トランジットと既存の損傷の現実的な検出に。
 - **救済階層**(→→→→払い戻しを交換)を定義し、各ケースで返送費用を負担する。
 
 ## 条項ブロック5 — 車両の状態のディスクロージャー(不正防止)
@@ -83,17 +83,17 @@ PRC民法**の**の**Article 596の下で、販売契約はカバーする必要
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| プロモーション 民法の規範 アール596 セールス契約条件 | FindLaw (法的ポータル) | CN の | 以下は、 https://www.findlaw.cn/wenda/q_60484893.html の仕様 | 2026-09-03 | CROSS_CHECKED(クロス) (二次法ポータルで引用された統計記事;NPC公式ソースではない) | 必須の契約内容 |
-| 法的 | 営業拠点 | 以下は | 2026-09-03 | 曇り | 曇り | CHECKED (クロス) | リスク移転 、 タイトル保持 、 条件開示 | https://m.110ask.com/fanben/601005122281423969.html 110ask
-| 購入契約コア句(breach/title/configリスト) | 66Law | CN の | 以下は、 | 2026-09-03 | CROSS_CHECKED(クロス) | LD、クレームウィンドウ、コンフィグ | https://m.66law.cn/question/56427049.aspx
-| 輸出契約 不coterms/disputes/Apostille | 貨物用材料 | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | ICC仲裁, 使徒 | https://m.11467.com/product/d43019461.htm
-* スコープノート: アール596 内容が CROSS_ 二次リーガルポータルでチェック — VERIFIED は、キャプチャされていない公式 PRC 民法 (NPC/政府) テキストを要求します。 それを検証しないでください。 タイトル予約、仲裁および使徒の執行可能性は、選択された準拠法および宛先に依存し、資格のある弁護士によって確認する必要があります。 契約モデルは構造的参照のみです。 ふりがな
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院(要人民の預言者) — オフ | CN の | 以下は、 https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | 検証済み |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go) | CN の | 以下は、 https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | 検証済み |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

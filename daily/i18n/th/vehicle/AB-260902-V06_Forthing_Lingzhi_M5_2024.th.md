@@ -2,7 +2,7 @@
 
 ## ข้อมูลเมตา SEO
 - **ชื่อ SEO**: ฟอร์ทูฟ ลิงซี M5 2024 แวน สเปคส์ ซีริง & CNG คู่มือส่งออกเป็น Pettrol
-- **คำอธิบาย Meta**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat ผังผังผังอาคาร (พ.ศ. สองล้อล้อ  1.5T petrol 6MT  and  1.6L  CNG  5MT, ขนาด  and  มาตราฐานการพาณิชย์
+- **คำอธิบาย Meta**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat ผังอาคาร (พ.ศ. สองล้อล้อ  1.5T petrol 6MT  and  1.6L  CNG  5MT, ขนาด  and  มาตราฐานการพาณิชย์
 - **H1**: Forthing Lingzhi M5 / M5L 2024 (China): แผนที่ ของ ผู้ ซื้อ สินค้า
 - **คีย์เวิร์ดหลัก**: สําหรับสิ่งที่ Lingzi M5 รถตู้กําหนดการส่งออก
 - **คำค้นหารอง**: ดงฟง หลิงซี M5L 9-seat  Forthing M5  CNG  1.6, พาณิชย์จีน MPV รถตู้ส่งออก Lingzhi M5 ล้อล้อ รถตู้ผู้โดยสารดงฟัน
@@ -58,9 +58,9 @@ Lingzhi M5 พาณิชย์ MPV" สร้างสําหรับคน
 คําสั่งรถตู้ล้มเหลวในข้อเสียเล็กน้อย: 9-seater "จดทะเบียนเป็นหมวดหมู่ที่แตกต่างออกไป หรือหน่วย CNG ขายที่ที่ก๊าซไม่มีอยู่จริง มัคคุเทศก์แนะนําให้ล็อค.... เบสล้อ (2800/3000) จํานวนที่นั่งที่แน่นอน  and  ชนิดของเชื้อเพลิงเป็นหนึ่งส่วนผสม ~บนกระดาษพับนี้ Checkk at endent's ~driver-liceration/ parts for 9-seater ~  and  - สําหรับ CNG - ต้องการการรับรองทางสายตรวจการส่งน้ํามัน
 ## การตรวจสอบสิทธิ์ก่อนการชําระเงิน รายการ
 
-- พินลง M5 vs M5L (2800 vs 3000 mm ล้อล้อล้อ)  and  นับที่นั่งเป๊ะๆ (5/7/8/9).
+- พินลง M5 vs M5L (2800 vs 3000 mm ล้อ)  and  นับที่นั่งเป๊ะๆ (5/7/8/9).
 - Pin down powertrain (1.5T petrol 6MT vs 1.6L CNG 5MT); ยืนยันว่าคู่มือที่ยอมรับสําหรับลูกค้าที่สิ้นสุด
-- สําหรับ CNG, ตรวจสอบว่าแก๊สไซล์ซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินซินด์ เติมเชื้อเพลิงมาตรฐานและลงทะเบียนที่จุดหมาย
+- สําหรับ CNG, ตรวจสอบว่าแก๊สไซล์ซินด์ เติมเชื้อเพลิงมาตรฐานและลงทะเบียนที่จุดหมาย
 - ยืนยันการรับแบบ LHD/RHD การรับแบบปลดปล่อย AC และประตูหลังตามระดับ
 - ค่าใช้จ่ายทางการและตัวเลขคาร์โก และจานวีเอ็นลดน้ําหนัก ก่อนลงทะเบียน
 
@@ -102,21 +102,21 @@ AutoBridge อ้างถึงคําร้องขอ แทนที่�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| พ พ พ ร ร ร ร ร ร ร า ga las en loadia data languy อ ง Lingzhi | ด ด ด ด ง ง ง ง ง ง ง ง ง ง ง ง ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ ฟ น น ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ( | | ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ | ศ | | ศ ศ ศ ศ ศ ศ ศ ศ ศ | | | |  | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | เปิดใช้งาน | เบส 2800/3000 ที่นั่ง 5/7/9, โครงร่างชาซิส |
-| M5L 1.5T 9-seat model | ดองแมดติ (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | ROOS_ CHCKED | 1.5T 140 kW 300 N·m, 3000 mm WB, ล็อก 1700 kg. ○
-| ต ต ต ต ต ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ์ ์ ์ ์ ์ ์ ์ | | | | | | | | | | | | | | | | | | | | | | | | | | | | ) ) ) | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | ROOS_ CHCKED | ขนาด, เครื่องกําเนิดไฟฟ้าของ CNG, WLTC 8.4 ราคาการรับประกัน |
-| Lingzhi M5 บทความ | ยีเช (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | ROOS_ CHCKED | ขนาด, ผังล้อ, 7/9-seat แบบ |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*ข้อความการหาร (มาตรฐานอัตโนมัติของ OCLBridge): มิติ/ล้อล้อเบส/สวามีถูกปรับให้เป็นไปตามรูปแบบพารามิเตอร์อย่างเป็นทางการของ ForIFE หน้าพารามิเตอร์ของสิ่ง; 1.5T/CNG เครื่องยนต์ คือ CROSS_CHCKEKE (SEP); น้ําหนักตามควบคุมคือ Single (S) ของหวาน Cargo ไม่ได้อยู่ในฐานข้อเท็จจริง และเหลือสําหรับแผ่นอย่างเป็นทางการ; ชนิดของข้อมูล RHD *
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

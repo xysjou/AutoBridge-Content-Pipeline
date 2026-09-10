@@ -41,7 +41,7 @@ Transportasi China Berita (berita industri) melaporkan bahwa dalam ** 2024 Febru
 2. ** Payload, GVW, volume kargo dan putar ulang-axle ** pada kode homologated; leaf-spring ride vs cargo kebutuhan.
 3. ** Charge interface ** (GB T di Cina membangun) vs tujuan standar; AC DC penyediaan.
 4. ** EU-spec vs Cina - spec perbedaan ** untuk urutan Türkiye white- terikat (pencahayaan, konformitas, perangkat lunak).
-5. ** Batas kecepatan 90 km/h ** Kokoh yang cocok; * UN38.3/MSDS dan di bawah Amandemen IMDG 42-24 (wajib dari 2026-01-01) sebuah lithium-ion- battery- kendaraan didukung UN3556, bukan dokumen rahasia UN3171; menerapkan dokumentasi SOC per detail EV pengiriman Fakta Sheet dan operator (lihat panduan ekonomi) * EV pengiriman dokumen per klab telegles telancri.
+5. **Batas kecepatan 90 km/h** yang terkunci sesuai; *UN38.3/MSDS, dan di bawah Amandemen IMDG 42-24 (wajib sejak 2026-01-01) kendaraan bertenaga baterai lithium-ion adalah UN3556, bukan UN3171 warisan; terapkan dokumentasi SOC per rincian pengiriman EV sesuai Fact Sheet dan operator (lihat panduan pengiriman EV).*
 
 ## Meminta Kuotasi Ekspor Saat Ini
 Tidak ada harga ekspor statis dan tidak ada MSRP Cina yang ditangkap; tidak ada yang ditemukan. Bertanyalah dengan ** Negara Tujuan Pembangunan
@@ -79,19 +79,19 @@ Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW 22
   - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| V6E mengungkapkan (batas motor 0–50/speed) | Truck Home Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | _ BERDECAT | 60 kW 220 N·m, batas 90 km/h, leaf- poros musim semi |
-| ekspor V6E EU-spec ke Türkiye (6 m) | Transportasi China Berita (media berita industri) | CN media (catatan ekspor: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | _ BERDECAT | Feb- 2024 EU- spec Türkiye batch, 6 m complain (catatan berita, bukan OEM pemerintah; bukan VERIFIED) |
-| Laporan komersial Light- (35.2 kWh 260 km 6 m) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | _ BERDECAT | Baterai dasar jangkauan, volume kargo |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
-| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
+| V6E reveal (motor/0–50/speed limit) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW/220 N·m, 90 km/h limit, leaf-spring axle |
+| V6E EU-spec export to Türkiye (6 m³) | China Transport News (industry news media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb-2024 EU-spec Türkiye batch, 6 m³ (news record, not OEM/government; not VERIFIED) |
+| Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Base battery/range, cargo volume |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* Catatan kepercayaan: catatan ekspor Türkiye adalah CROSS _ CHECTYS - laporan berita (media berita / industri tidak TERVERIFIED - hanya OEM / pemerintah / regulator / standar / dokumen teknis formal mencapai VERIFIED); diperlakukan secara ketat sebagai catatan pengiriman, bukan bukti alias. Motor / jangkauan dasar dicentang; baru 51 kWh build adalah waktu - sensitif. Cina GB/T dan EU- Spec membangun tetap berbeda per MODEL _ ALIAS / SOURCE _ SCOPE aturan. ♪
+*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

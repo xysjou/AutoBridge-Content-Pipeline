@@ -1,7 +1,7 @@
 # SAIC 马克斯辛图 V90 柴油机车:一种配置-Matrix轻商号,而非单一型号
 ## SEO元数据
 - **SEO标题**: SAIC 最大号 V90 柴油机范斯佩克和导出配置指南
-- **Meta描述**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT (英语). RWD 带有可选的双后轮, 两个轮盘, 9–15个座位通过同音.
+- **Meta描述**: Chinese-market  SAIC  Maxus V90 wide-body diesel light van —  SAIC  π 2.0T diesel (110/130 kW), 6AT/ ZF 8AT  RWD 带有可选的双后轮, 两个轮盘, 9–15个座位通过同音.
 - **H1**: SAIC 马克斯·辛图 V90 (中文(中国大陆)). 柴油机轻型车厢配置和导出检查
 - **核心关键词**: 最大口径v90型柴油机车
 - **次级搜索词**: Maxus V90 轮式基地 V90 ZF 8AT 马克斯轻型客车 9-15 座椅 柴油宽体货车出口 双后轮货车
@@ -16,7 +16,7 @@
 X图V90型机车是**宽体轻型商业平台**,作为客运小客车,面板/货车和赤底盘-cab出售,跨越多个轮座,车顶高度,座椅计数和单/双后轮. 没有单曲"V90 spec". 出口商的任务是固定**精确的同型号代码(公告型号)**,然后将引擎、变速箱、轴、机身和座椅配对——因为目的地认证是在这种特定配置上进行的。 参考市场:**中国**.
 
 ## 发动机和驱动线(商用柴油焦距)
-| 项目 | V90 维基月球 中国参考 |
+| 项目 | V90  中国参考 |
 |---|---|
 | 引擎 | SAIC π ("PI") 2.0 L turbo-diesel inline-4 |
 | 动力级 | 110 kW (≈150 PS) 130 kW (≈177 PS) |
@@ -83,19 +83,19 @@ ZF 8AT是更高层次的传输;不要假设每个等级都有它.
   - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 辛图V90配置(5498体). | 索胡汽车数据库 | 氯化萘 | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 维基月球 | 2026-09-03 | 横跨 | 类,体格尺寸 |
-| SAIC π 2.0T型柴油机电源 | PCauto 百科全书 | 氯化萘 | http://m.pcauto.com.cn/baike/806544/1579332/ 维基月球 | 2026-09-03 | 横跨 | 110/130 kW,  375 N·m, 妇女发展网络, 双后轮 |
-| V90 2025 130 kW 420 N·m | 维基月球 自动 | 氯化萘 | https://m.16888.com/news/2026/0728/24803230.html 维基月球 | 2026-09-03 | 横跨 | 130 kW 420 N·m, ZF 8AT, 9–15 个席位(席位单源) | 16888
-| Xintu V90 2024 参数 | 新浪自动数据库 | 氯化萘 | http://db.auto.sina.cn/car/71018/ 维基月球 | 2026-09-03 | 横跨 | 5498/2062/2545,轮式基座 3366/3760 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| Xintu V90 configuration (5498 body) | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Class, body dimensions |
+| SAIC π 2.0T diesel power lineage | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, dual rear wheel |
+| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 seats (seats single-source) |
+| Xintu V90 2024 parameters | Sina Auto database | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, wheelbases 3366/3760 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* 信號注解:没有捕获到SAIC Maxus主谱表;数值为交叉检查的中文数据库,座椅计数为单源,并绑定在同源模型码上. 没有价格,也没有人声称。 目标批准是针对配置的。 * 报告迟交是因为需要翻译。
+*Confidence note: no SAIC Maxus primary spec sheet was captured; values are cross-checked Chinese databases, seat count is single-source and bound to the homologated model code. No price was available and none is asserted. Destination approval is configuration-specific.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

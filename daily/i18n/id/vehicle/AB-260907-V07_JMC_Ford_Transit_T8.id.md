@@ -21,7 +21,7 @@ Garis ini dibangun pada tiga pangkalan roda - ** 3000, 3300 dan 3750 mm * - diko
 | Konfigurasi | Dimensi referensi | Dasar Wheelbase | Percaya diri |
 |---|---|---|---|
 | Basis roda medium, atap sedang (contoh) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| Pangkalan roda panjang, kargo atap tinggi | 5998 × 2164 × 2775 mm; loading interior 3.5 × 1.83 × 1.98 m; Volume 13 m | Panjang | SINGLE_SOURCE |
+| Pangkalan roda panjang, kargo atap tinggi | 5998 × 2164 × 2775 mm; loading interior 3.5 × 1.83 × 1.98 m; Volume 13 m | Panjang | single source |
 
 Panjang 5998 mm adalah signifikan: di banyak pasar yang duduk di cahaya-komersial driving- batas lisensi, sehingga pembeli harus mengkonfirmasi kategori lisensi tujuan dan kendaraan massa kotor sebelum memesan versi terpanjang. Dimensi interior Cargo dan data konfigurasi / konfigurasi JMC 13 m yang tunggal dan harus dikonfirmasi terhadap JMC resmi
 
@@ -29,8 +29,8 @@ Panjang 5998 mm adalah signifikan: di banyak pasar yang duduk di cahaya-komersia
 
 | Baris | Referensi pasar-Cina | Gearbox | Percaya diri |
 |---|---|---|---|
-| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed otomatis (8AT) | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
-| 2.0T diesel | Pisahkan, lepas - keluaran garis diesel | Buku manual 6-speed (6MT) | SINGLE_SOURCE — baris terpisah|
+| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed otomatis (8AT) | single source — konfirmasi oleh VIN / OEM|
+| 2.0T diesel | Pisahkan, lepas - keluaran garis diesel | Buku manual 6-speed (6MT) | single source — baris terpisah|
 
 2.3T 8AT dan 2.0T 6MT adalah daya dorong yang berbeda ditujukan pada siklus tugas yang berbeda; mereka tidak harus rata-rata atau disajikan sebagai satu "T8 mesin". Drive roda belakang adalah tata letak dasar, dengan 4WD yang ditawarkan pada konfigurasi terpilih - nama kereta api drivetrain secara eksplisit. Hasil yang tepat saat ini berada pada satu sumber independen dan harus ditutup terhadap spesifikasi resmi JMC atau entri homologasi MIIT sebelum dikontrak; sebuah Cinese- spec diesel juga harus diperiksa untuk kelas bahan bakar tujuan dan penerimaan tahap.
 
@@ -60,7 +60,7 @@ Chinese- pasar T8 adalah ** drive tangan kiri **. Benar-tangan-drive eligibilita
 ## PSD
 Berapa banyak pangkalan roda dan atap yang dimiliki Transit T8? ♪ ♪
 
-Three wheelbases (3000/3300/3750 mm) with medium  and  (Dan atap-atap) yakni atap-atap (yang ditinggikan) yakni langit. penumpang  and  Tubuh kargo - menentukan kombinasi yang tepat.
+Tiga jarak sumbu roda (3000/3300/3750 mm) dengan atap sedang dan atap tinggi, untuk bodi penumpang dan kargo — tentukan kombinasi yang tepat.
 
 Apa versi kargo terbesar? **
 
@@ -78,20 +78,20 @@ Tidak pada bukti di sini: JMC-yang dibuat untuk Cina dan diperlakukan sebagai mo
 
 Van pasar Cinese- adalah LHD; RHD dan spesifikasi ekspor memerlukan bukti OEM terpisah dan tidak boleh dianjurkan dari baris Cina.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-08
-- ** Referensi pasar **: CHINA（中国市场参考；2.3T/2.0T精确功率与货厢容积为单一来源；JMC全顺T8不等同全球Ford Transit，无OEM同型证据）
+- ** Referensi pasar **: CHINA（China-market reference；2.3T/2.0T精确功率与货厢容积为单一来源；JMC全顺T8不等同全球Ford Transit，无OEM同型证据）
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Hasil tunggal sumber, dimensi konversi dan harga referensi domestik harus dikonfirmasi ulang pada lembar JMC OEM atau entri MIIT, dan status model-same-dengan global Ford Transit memerlukan pernyataan eksplisit sebelum mengubah.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

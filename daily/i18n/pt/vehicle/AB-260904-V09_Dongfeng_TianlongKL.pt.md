@@ -80,19 +80,19 @@ Manual ou automático? A caixa de velocidades 14-speed DT14 é oferecida em form
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tianlong KL465 Longqing powertrain & quality | Auto- casa·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, potência/torque, 14-speed |
-| Tianlong KL 465 parâmetros AMT | Notícias Tencent | NC | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | FONTE ÚNICA | Opção AMT, faixa de binário |
-| Tianlong KL 465 chassis e caixa de velocidades | 360che (Toutiao) | NC | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, - O quê? GCW |
-| Potência de Dongfeng Tianlong (enciclopédia de verificação cruzada) | Enciclopédia PCauto | NC | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | FONTE ÚNICA | Verificação cruzada da base de energia |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 17691-2018 emissões poluentes de veículos diesel pesados (China-VI) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFICADO | China-VI fase de emissão de ignição por compressão (diesel pesado) para caminhões/coaches |
-| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor projeto de emissão no exterior |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confiança: nenhuma brochura primária OEM; cruzamentos de comércio. Potência nominal/líquida ambas rotuladas; outras versões de potência e gás excluídas. Referência do mercado chinês; confirme no anúncio MIIT. *
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

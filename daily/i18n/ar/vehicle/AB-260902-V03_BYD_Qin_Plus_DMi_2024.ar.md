@@ -28,7 +28,7 @@
 - ** المواد**: EV (شحنة مستنفدة) وهجين (محتوية على رسوم)؛ واستُشهد باستخدام الوقود المحتوي على رسوم بحوالي 3.8 L/ 100 km (الإندونيس). وبالنسبة لأسطول التصدير، يرجى من العملاء أن استخدام الوقود في العالم الحقيقي يتوقف على السلوك المزيف - وهو جهاز لاسلكي محركه إلا بشحنات تصرفات مثل الهجين وليس على شكل EV.
 - ** سرعة التشغيل**: 185 km/h.
 ## البطارية، والشحن، والتأديب على أساس نوعين
-A PHEV carries ** Two** range numbers that buyers conflate: ** النطاق الكهربي فقط** (يذكر الدورة: 120 نيو دي دي دي دي دي دي دي دي دي دي دي = 101 دبليو تي) وطائفة منفصلة من الوقود المركب**** (يوجد 1245 km من الصنف الصيني على مصدر واحد ويجب تقديمه كرقم مقتبس من الصينين معاً، لا كمنطاق كهربائي). ويختلف الرسم حسب الصيغة والدرجة: تأكيد قدرة شركة AC على متن السفينة، ** إذا أدرجت الشحن السريع في العاصمة في الرتبة المختارة**، والربط بين GB/T وبين الهياكل الأساسية للمقصد، ودرجة الوقود التي يتوقعها المحرك البالغ عددها 1.5L، فإن شركة PHEV تحتاج إلى مسار شحني وطريق محرك/وقود.
+A PHEV carries ** Two** range numbers that buyers conflate: ** النطاق الكهربي فقط** (يذكر الدورة: 120 نيو دي = 101 دبليو تي) وطائفة منفصلة من الوقود المركب**** (يوجد 1245 km من الصنف الصيني على مصدر واحد ويجب تقديمه كرقم مقتبس من الصينين معاً، لا كمنطاق كهربائي). ويختلف الرسم حسب الصيغة والدرجة: تأكيد قدرة شركة AC على متن السفينة، ** إذا أدرجت الشحن السريع في العاصمة في الرتبة المختارة**، والربط بين GB/T وبين الهياكل الأساسية للمقصد، ودرجة الوقود التي يتوقعها المحرك البالغ عددها 1.5L، فإن شركة PHEV تحتاج إلى مسار شحني وطريق محرك/وقود.
 ## ال Dimensions and Cabin
 4765 × 1837 × 1495 mm قاعدة العجلات 2718 mm  four-door five-seat monocoque sedan; الإطارات 225/60 R16 على الدرجات المأخوذة تأكيد الوزن كبح البطاريات على لوحة الإمتثال
 ## ما يضيفه (أوت بريدج) إلى ما بعد طاولة التنظيف
@@ -73,18 +73,18 @@ A PHEV carries ** Two** range numbers that buyers conflate: ** النطاق ال
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| | (**وَصْرَغَ**) | Export ** Bahrain (regional en-bh page; ليس UAE**: https://www.byd.com/en-bh/car/qin-plus-dmi . 2026-09-03 | repeatedly off and (media: هذا يسمى كين زائدا دي إم آي فقط)*  | 18.3 kWh حزمة، تصل إلى 197 hp 145 kW، 7.3 حزمة من أجل ما يسمى Qin Plus DM-i |
-| Glory Edition 55/120 config | orob) (之《家《家《家《家《家的. | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | | | | | 1.5L 81 kW, 132 kWWECT E-CVT,  النطاق  النطاق | |
-| إطلاق Glory Edition | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | صرخات | 145 kW 325 N·m, 18.32 kWh, combined-range |
-) Qin Plus config ) Xcar (( PCauto Guazi) CN | https://newcar.xcar.com.cn/m72508/config.htm ? 2026-09-02 ?? ? الاستردادي يُخضع أيضاً للاجراءات، والانتاجات، والدياس العالمي، ?
-| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE OURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE OURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE OURCE | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-* مذكرة مصدّقة (معيار (أوتوبريدج): إنّ ناتج/حزمة البطاريات الكبيرة مُنقَّد في BYD ''s own regional Qin Plus DM-i page (en-bh/Bahrain)؛ والأرقام التفصيلية للصين هي CROSS-CHECKED. الـ1245 km مُجمّع هو مُجمّع ورقم مُجمّع للدورة الصينية أرقام ما وراء البحار لا تستخدم إلا من BYD صفحة تسمى صراحة "كين زائد DM-i" ويستدل من العلاقة بين وزارة الدفاع وحقوق الإنسان وبين أي شخص آخر اسمه BYD PHEV دون دليل صريح على وجود OEM برهان (متعلق بـ (MMODEL). SAME_MODEL. ♪
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

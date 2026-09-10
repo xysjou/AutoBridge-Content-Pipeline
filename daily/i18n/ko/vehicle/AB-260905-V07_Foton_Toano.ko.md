@@ -24,15 +24,15 @@
 - ** 변환 참고 **: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, 기본 밴 사양이 아닙니다.
 
 ## 인증 사양 표 (중국 시장 참조)
-| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
+| 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
-| x5 짧은 디엠 | 4990×1980×1990 | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐对比 |
-| x5 짧은 축축 | 3070 | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐对比 |
-| 긴 wheelbase 옵션 | 3510 (X5 长轴) 3750 (经典长轴, 车长 5990 × 2000) | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐对比 |
-| 엔진 2 5t 토크 | 400 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 大众网 |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 6MT | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 大众网 |
+| x5 짧은 디엠 | 4990×1980×1990 | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 搜狐对比 |
+| x5 짧은 축축 | 3070 | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 搜狐对比 |
+| 긴 wheelbase 옵션 | 3510 (X5 长轴) 3750 (经典长轴, 车长 5990 × 2000) | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 搜狐对比 |
+| 엔진 2 5t 토크 | 400 | · | 담당자: Mr. Li | single source(싱글) | 大众网 |
+| 의 | 6MT | - - - | 담당자: Mr. Li | single source(싱글) | 大众网 |
 | 좌석 옵션 | 3/5/6/7/9/14/15/17 (随版本년) | - - - | 담당자: Mr. Li | CROSS_체크 | 大众网 + 搜狐 · |
-| 냉장된 변환 주 | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 大众网 |
+| 냉장된 변환 주 | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - - - | 담당자: Mr. Li | single source(싱글) | 大众网 |
 
 ## Van 조달 초점: 한 구성을 선택, upfit 분리
 반 구매자는 가격을 비교하기 전에 Wheelbase, 지붕 고도, 좌석 조사 (수동) 또는 화물 배치 및 엔진을 고칠 필요가 있습니다. 가득 차있는 Cummins ISF2.8 힘 모체 및 per-trim kerb/GVW 질량은 ** 붙잡지 않으며 withheld **는 OEM 장을 구부리고 있습니다; encyclopaedia 입장은 지도로만 대우되었습니다. 냉장 또는 구급차 몸은 포좌 **에 **superstructure이고 그것의 자신의 탑재량/세션/냉각 평가를 필요로 합니다.
@@ -51,16 +51,16 @@
 **미니버스의 휠베이스는 무엇입니까?** 레이아웃으로 3070/3510/3750 mm에서 선택하십시오.
 **GVW 수치는 어디에 ** 믿을 수 없을 정도로 캡처; 균질화에서 얻을.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | 담당자: Mr. wang | T4 | CROSS_체크 | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| : 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 - 특허등록 유형:: 유형:: 유형:: 담당자: Mr. 광 | T2 | CROSS_체크 | https: | 短轴 长轴尺寸,  轴距 | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576
-| 图雅诺 吉象流动服务车 | 大众网机械 | 담당자: Mr. wang | T3 | CROSS_체크 | http://www.dzwww.com/jixie/f25184ea8b1340967.html 대한 자세한 정보 | 2.5T 动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | 담당자: Mr. wang | T3 | CROSS_체크 | http://www.dzwww.com/jixie/e79925a2501247453.html 대한 자세한 정보 | F2.8NS6B177L 改装上装, 非原厂 VAN 参数 |
-| Foton Motor 공식 사이트 | Beiqi Foton 모터 福田汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: 이메일: sales@foton.com | 선 ID와 OEM 권위 | https://www.foton.com.cn/
-| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/ 를 | 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
-| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

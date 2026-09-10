@@ -39,7 +39,7 @@ El Código Marítimo revisado proporciona la arquitectura jurídica detrás de e
 ## Método de emparejamiento de los términos de pago
 - **T/T por adelantado totalmente pre-pagado**: el télex o SWB es viable; el control de la palanca ya no es necesario.
 - **L/C**: seguir el crédito exactamente — generalmente exige un B/L negociable consignado/endorsed como se ha indicado; sustituir el SWB crea una discrepancia.
-- **Balance against B/L open account**: keep the original negotiable MBL (Art. 80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
+- **Compensar frente al conocimiento de embarque en cuenta abierta**: conservar el MBL negociable original (control según el art. 80, a la orden/al portador) hasta cumplir las condiciones de pago; nunca liberar por telex un vehículo no pagado.
 - **RoRo vs container**: ambos se liberan contra el océano B/L; confirman el procedimiento de la línea y la ruta del consignen Art. 87 antes de elegir el instrumento.
 
 ## Preguntas para poner al futuro antes de reservar
@@ -85,19 +85,19 @@ Which Maritime ¿Los artículos del Código rigen la transferencia y entrega de 
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Código Marítimo de la República Popular Democrática de Corea (Revisión 2025, Orden Presidencial 58, en vigor 2026-05-01) texto completo | NPC Standing Committee | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primaria) | Artes. 80/81/87, versión y fecha efectiva |
-| Original B/L telex Sea Waybill explicado | NetEase negocio wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definiciones MBL/SWB/telex |
-| Master bill vs casa factura | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | BMBL/HBL chain, vehicle practice |
-| Métodos de liberación y tipos B/L | conocimiento industrial | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparación de cuatro meses | 11467
-| Cuatro métodos de liberación y riesgo de teléx (nota de América del Sur) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Limite de orden-bill, aceptación portuaria |
-| Transporte internacional de las convenciones sobre bienes y leyes modelo | CNUDMI | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Marco jurídico comparativo para los documentos de transporte (Contexto de Hague-Visby/Hamburg/Rotterdam) |
-| Referencias de documentos y cláusulas de envío estándar | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Documento marítimo estándar de la industria/referencia de la ley |
-| Documentos de transporte FIATA y prácticas de transporte | Federación Internacional de Avanzados de Carga (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Documento de entrada (FBL/FCR) práctica que distingue el porteador B/L |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-* Nota de confianza: columna vertebral legal VERIFIED vía el texto completo del NPC de la revisión de 2025 (en vigor 2026-05-01); las definiciones de negocio cruzadas; los derechos de porte y la aceptación del puerto siguen siendo viajes específicos. *
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

@@ -86,13 +86,13 @@ The 145 line is quoted at ≈19 minutes for 30–80% (single-source, confirm); v
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风云A8 2025款70km标准型（1.5L 102Ps、CLTC纯电70、4780×1843×1487） | 搜狐汽车车型库 | CHINA | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_178074 | 70线动力, 尺寸, 纯电续航  |
-| 2025款风云A8空间尺寸（4780×1843×1487、WB2790、后排907mm） | 汽车之家·车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸, 轴距  |
-| 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/news/2026/0814/24847862.html | 145线系统功率, DHT  |
-| 风云A8 C-DM（145km、快充30%-80%约19分钟、热效率44.5%） | 太平洋汽车百科 | CHINA | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率, 纯电续航  |
-| 奇瑞汽车官方网站（风云系列） | Chery Automobile | CN | T1 | VERIFIED | https://www.chery.cn/m | identity — OEM official; Fulwin (Fengyun) PHEV line identity |
-| Chery Fulwin A8 2025 trims & specs (independent DB) | CarNewsChina Data | CN | T2 | CROSS_CHECKED | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — independent English database; dimensions/torque cross-check |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify PHEV variant and battery by announcement |
+| 风云A8 2025款70km标准型（1.5L 102Ps、CLTC纯电70、4780×1843×1487） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_178074 | 70线动力, 尺寸, 纯电续航  |
+| 2025款风云A8空间尺寸（4780×1843×1487、WB2790、后排907mm） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸, 轴距  |
+| 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0814/24847862.html | 145线系统功率, DHT  |
+| 风云A8 C-DM（145km、快充30%-80%约19分钟、热效率44.5%） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率, 纯电续航  |
+| 奇瑞汽车官方网站（风云系列） | Chery Automobile | CN | primary | VERIFIED | https://www.chery.cn/m | identity — OEM official; Fulwin (Fengyun) PHEV line identity |
+| Chery Fulwin A8 2025 trims & specs (independent DB) | CarNewsChina Data | CN | independent database | CROSS_CHECKED | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — independent English database; dimensions/torque cross-check |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify PHEV variant and battery by announcement |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

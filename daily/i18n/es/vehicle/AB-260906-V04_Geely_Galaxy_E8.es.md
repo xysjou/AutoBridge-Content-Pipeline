@@ -19,7 +19,7 @@ El Galaxy E8 (Yinhe E8) es el sedán eléctrico de rápidas de Geely en el SEA (
 | Tema | Valor de referencia del mercado chino | Mercado MI Trim | Confianza |
 |---|---|---|---|
 | Plataforma cuerpo | arquitectura SEA, 5-door/5-seat sedán de ayuno eléctrico de tamaño medio | CHINA 2024/2025 | CROSS_CHECKED |
-| Dimensiones | 5010 × 1920 × 1465 mm, base de ruedas 2925 mm | CHINA · fuente única, confirme | SINGLE_SOURCE |
+| Dimensiones | 5010 × 1920 × 1465 mm, base de ruedas 2925 mm | CHINA · fuente única, confirme | single source |
 | Motor de retaguardia | Motor único 200 kW o 250 kW (por versión) | CHINA · chequeado cruzado | CROSS_CHECKED |
 | Maneja de ruedas | Doble motor combinado ♥ 475 kW (versión de rendimiento) | CHINA · chequeado cruzado | CROSS_CHECKED |
 
@@ -71,16 +71,16 @@ El coche chino utiliza la norma GB/T; la compatibilidad con el conector de desti
 
 Alrededor de 5010 × 1920 × 1465 mm con una base de 2925 mm ruedas (referencia de mercado chino, confirmar por mármol).
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | T2 | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机, 电池供应商, 平台  |
-| Geely Yinhe/Galaxy E8 página de la flota (OEM) | Geely Auto | CN/EXPORT | T1 | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identidad — identidad OEM: SEA con sede en el buque insignia |
-| Geely comienza la entrega de Yinhe E8 (Jan 2024 OEM versión) | Geely Auto | CN | T1 | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identidad — tiempo de lanzamiento y arquitectura SEA; las especificaciones de trim todavía por SKU |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verifique la batería/diferencia por anuncio |
-| Geely Galaxy E8 panorama de las especificaciones independientes | LynkCars | CN | T3 | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — base de datos independiente cross-check; confirme contra OEM |
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## Revisión editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

@@ -86,22 +86,22 @@ Nenhum preço de exportação é publicado. Os preços de orientação chineses 
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Trumpchi E8+ tabela de configuração oficial | GAC Trumpchi (OEM) | NC | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | VERIFICADO (EMO) | PHEV powertrain, bateria, dimensões, bancos |
-| Lançamento, tamanho e electrificação do E8 (PHEV) | Diário de Metrópolis do Sul | NC | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | CROSS_CHECKED | Dimensões, motor, bateria |
-| E8 showroom: tamanho/motor/bateria | VocêCheYiHou | NC | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | CROSS_CHECKED | Motor, peso, V2L/V2V |
-| E8 arquitetura GPMA e aço de alta resistência | Yangcheng Notícias da noite PDF | NC | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | FONTE ÚNICA | Plataforma, ~ 75% HSS |
-| Trumpchi E8 Nova configuração de linha completa de energia | Configuração do PCauto | NC | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Dimensões, 25.57 kWh, intervalo CLTC |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 38031 requisitos de segurança da bateria de tração (GB 38031-2025; novas aplicações de tipo obrigatório a partir de 2026-07-01) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFICADO | Base obrigatória de segurança da bateria de tracção para o grupo elétrico |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFICADO | Base de requisitos de segurança elétrica/funcional do veículo elétrico |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| Trumpchi E8+ official configuration table | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | VERIFIED (OEM) | PHEV powertrain, battery, dimensions, seats |
+| E8 (PHEV) launch, size & electrification | Southern Metropolis Daily | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | CROSS_CHECKED | Dimensions, motor, battery |
+| E8 showroom: size/motor/battery | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | CROSS_CHECKED | Motor, weight, V2L/V2V |
+| E8 GPMA architecture & high-strength steel | Yangcheng Evening News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | single source | Platform, ~75% HSS |
+| Trumpchi E8 New Energy full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Dimensions, 25.57 kWh, CLTC range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança: página OEM capturado; relação de aço plataforma e V2L/V2V figuras são de fonte única. PHEV e Glory HEV deliberadamente separados; referência mercado chinês apenas. *
+*Confidence note: OEM page captured; platform steel ratio and V2L/V2V figures are single-source. PHEV and Glory HEV deliberately separated; Chinese-market reference only.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

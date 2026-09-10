@@ -92,22 +92,22 @@ X3000 عبوة مُعمدة في جميع أنحاء** الصين الخامسة
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
   - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
-## المصدر: التحقق
+## Sources & Verification
 
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| X3000 430 8 x 4 بارامترات | (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | صرخات | إعلان، WP12.430، صندوق التروس، الأوزان، الجسم، الأكسس، الإطارات | 360che
-| X3000 6 x 4 مقلب رسمي | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | مفقود | 11.6 L 400 PS 294 kW 2000 N·m, China VI |
-| X3000 من التحويل المتعدد مقارنة | (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | صرخات | 375–550 PS versions, الصين V/VI torque | 360che
-| X3000 < | Organisationانت < رسم < https://www.shacmaninternational.cn/product-38.html . 2026-09-02 | | 80 km/h from the, Redsssss, 385/400/430 ?
+| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
+| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
+| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* مذكرة مصداقية (معيار أوتو بريدج): (أ) محرك التصدير البالغ 400 PS معتمد على قنوات شاكمان الرسمية؛ the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). السعر غير مكتمل و مغفل تأكدي من البناء النهائي على صحيفة (شاكمان) الدولية 
+*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are single source (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

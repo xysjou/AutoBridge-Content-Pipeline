@@ -24,10 +24,10 @@ The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launch
 
 | エレメント | 中国の市場参照値 | 機密性/ノート |
 |---|---|---|
-| バッテリー容量 | LFP パック オブ ** 51.8 kWh ** と ** 62.2 kWh ** | SINGLE_SOURCE — type クレーム)は、バッチにより異なります。XPeng で確認し、固定サプライヤーを主張しないでください。|
-| CLTC の範囲 | ** 515 / 502 / 620 / 600 km **、各特定の電池+モーターの組み合わせに縛られた | SINGLE_SOURCE — WLTP/EPA に相当しません|
-| モーター(フロントPMSM) | 140 kW (190 PS) / 225 N·m ** と** 160 kW (218 PS) / 250 N·m ** | SINGLE_SOURCE |
-| Claimed 0–100 km/h | ** 7.8 s/7.4 s** 各モーター レベルのため | SINGLE_SOURCE|
+| バッテリー容量 | LFP パック オブ ** 51.8 kWh ** と ** 62.2 kWh ** | single source — type クレーム)は、バッチにより異なります。XPeng で確認し、固定サプライヤーを主張しないでください。|
+| CLTC の範囲 | ** 515 / 502 / 620 / 600 km **、各特定の電池+モーターの組み合わせに縛られた | single source — WLTP/EPA に相当しません|
+| モーター(フロントPMSM) | 140 kW (190 PS) / 225 N·m ** と** 160 kW (218 PS) / 250 N·m ** | single source |
+| Claimed 0–100 km/h | ** 7.8 s/7.4 s** 各モーター レベルのため | single source|
 
 The four range numbers are not interchangeable trims: それぞれが特定の電池およびモーター ペアリングに属します。 M03、620 km という引用語句は、62.2 kWh パックを命名することなく、マッチングモーターが不完全で、620 km のモーターと 140 kW のモータと組み合わせることは、行列のエラーになります。 Build a three-column line — battery → CLTC range → motor — for the exact SKU  and  XPeng公式設定シートに閉じます。 急速充電ピーク電力と充電時間は、正式な正式な数値がキャプチャされていないため、ここに記載されていない**です。 特定のバージョンのOEMからレビューをコピーするのではなく、それらをOEMから入手してください。
 
@@ -73,15 +73,15 @@ Cd 0.194;2025車は2815 mmのホイールベースで4780 mm長く、2026.のた
 
 中国の充電標準の互換性とRHD /エクスポートビルドには、別々のOEM証拠が必要です。 中国仕様からそれらを仮定しないでください。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
-| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
-| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
-| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | media/industry | single source | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

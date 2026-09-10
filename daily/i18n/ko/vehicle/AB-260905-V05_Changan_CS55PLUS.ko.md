@@ -25,18 +25,18 @@
 - ** 하이브리드 라인 (믹스하지 마십시오) **: 超擎混动：4550×1868×1675，发动机110kW/电机180kW.
 
 ## 인증 사양 표 (중국 시장 참조)
-| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
+| 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
-| 길이 폭 고도 | 4539 1865 1680 | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 휠베이스 | 2656 | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 의 특징 | 新蓝鲸NE 1.5T | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 엔진 힘 | 141 (192Ps) | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 7DCT 湿式双离合년 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 비틀 0 100 | 7.9 | ss s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s  | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 연료 소모량 wltc | 6.94 | L/100km | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
-| 화물량 | 475–1415 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
+| 길이 폭 고도 | 4539 1865 1680 | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 휠베이스 | 2656 | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 의 특징 | 新蓝鲸NE 1.5T | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 엔진 힘 | 141 (192Ps) | 램 | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 의 | 7DCT 湿式双离合년 | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 비틀 0 100 | 7.9 | ss s  | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 연료 소모량 wltc | 6.94 | L/100km | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
+| 화물량 | 475–1415 | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
 | 중국 msrp 출시 범위 | 9.99–11.39 | 万元人民币 | 담당자: Mr. Li | TIME_SENSITIVE(주) | 人民网重庆 |
-| Hybrid 분리형 라인 | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐汽车 |
+| Hybrid 분리형 라인 | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
 
 ## ICE 수출 초점: 배출, 연료 및 트림 확인
 가솔린 SUV의 경우 주문 결정 검사는 ** 배출 단계 및 연료 호환성 ** 대상 국가에서는 전기 범위가 아닙니다. 중국- 6 교정, OBD 및 연료 등급 (92/95 RON 기대) 대상 표준으로 재구성되어야한다; 캡처 된 WLTC 소비는 연료와 부하와 변화하는 실험실 수치입니다. 상세한 per-trim 장비 다름은 OEM 윤곽 장이 필요로 합니다. 의 하이브리드 라인은 petrol와 하이브리드 번호보다는 자체 페이지에 유지.
@@ -55,15 +55,15 @@
 ** 99, 900 RMB의 수출 가격? ** No — 국내 발사 참고.
 ** 어느 ** 7-speed 젖은 듀얼 클러치 (7DCT) 캡처 라인.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-주식회사 CS55 PLUS |: 담당자: Mr. wang | T2 | CROSS_체크 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代 CS55PLUS 上市년 | 人民网重庆 | 담당자: Mr. wang | T3 | CROSS_체크 | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市,  价格区间 |
-| CS55 PLUS 超擎混动参数년 | 搜狐汽车 | 담당자: Mr. wang | T2 | CROSS_체크 | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 경우 | 混动版区分 (不得混入燃油년) |
-| 칭다오 자동차 공식 글로벌 사이트 | 장안 자동차 长安汽车 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.globalchangan.com/ 를 통해 | 선 ID와 OEM 권위 |
-| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/ 를 | 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
-| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

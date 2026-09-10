@@ -92,22 +92,22 @@ X3000 ダンプは、**中国 V、中国 VI および低スペック (Euro II �
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
   - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
-## ソースと検証
+## Sources & Verification
 
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| X3000 430 8 × 4 パラメータ | (卡车之家) |  CN  の | 以下は | 2026-09-02 |  CROSS  |  CHECKED  (クロス) | 通知 、 WP12.430 の変速機 、 重量 、 ボディ 、 車軸 、 タイヤ | https://product.m.360che.com/m355/88939_param.html 360che
-| X3000 6×4 ダンプ 公式 | SHACMANグループ(公式) | CN/輸出 | 以下は、 https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | 検証済み | 11.6 L 400 PS 294 kW 2000 N·m、中国VI |
-| X3000 多種比較 | (外) CN の | CN の | 以下は | 2026-09-02 | CROSS | CHECKED | 375～550 の PS 版 | 中国 V の 翻 品 | https://product.m360che.com/m299/74922_param.html 360che
-シャークマンインターナショナル|海外発送|X3000インターナショナル|輸入販売|検索結果 | 2026-09-02 | 試用版 | 80 km/h の最高速度 、 ホイールベース 、 385/400/430 のオプション | https://www.shacmaninternational.cn/product-38.html
+| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
+| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
+| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-|  GB  17691-2018 の頑丈なディーゼル車の汚染物質の放出 (中国  VI) | エコロジー・環境省 (MEE) |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 中国の  VI  | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Confidence Note(AutoBridge規格):400 PSの輸出エンジンは、Shacman-officialチャンネルで検証されています。詳細な430 PS 8×4の発表数字はSINGLE_SOURCE(360che)です。 価格は、無制限で、省略されています。 Shacman Internationalシートの最終ビルドを確認します。 ふりがな
+*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are single source (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

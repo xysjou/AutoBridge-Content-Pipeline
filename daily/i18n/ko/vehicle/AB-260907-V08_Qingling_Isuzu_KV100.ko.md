@@ -25,15 +25,15 @@ The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling
 
 | 제품 정보 | 중국 시장 참고 | 의논하기 |
 |---|---|---|
-| 의 특징 | 4KH1CN6LB ** 3.0-litre 디젤, 중국 - 6 (국 VI) | SINGLE_SOURCE |
-| Output | 120 PS / 290 N·m | SINGLE_SOURCE — VIN/OEM에 의해 확인|
-| 기어박스 | MSB 5-speed 설명서 (5MT) | SINGLE_SOURCE |
+| 의 특징 | 4KH1CN6LB ** 3.0-litre 디젤, 중국 - 6 (국 VI) | single source |
+| Output | 120 PS / 290 N·m | single source — VIN/OEM에 의해 확인|
+| 기어박스 | MSB 5-speed 설명서 (5MT) | single source |
 
 The 4KH1 family exists in more than one suffix with different outputs,  and  두 번째 독립적 인 보고서는 다른 4KH1 스프 딕스 등급을 참조합니다. 그것은 정확히 왜 전체 엔진 코드 - ** 4KH1CN6LB **, 단순히 "4KH1"- MIIT 균질화 항목에 일치 순서로 작성해야합니다. 중국-6 디젤은 중국 연료와 국가 VI 단계에 대한 측정; 대상 연료 등급 및 배출 인식은 가정보다 별도로 확인해야합니다.
 
 ## Payload 및 kerb 질량: 분류는 공장 데이터가 아닙니다.
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 이 그림은 **는 지정되지 않습니다. 그들은 장착 된 몸과 다르며 판매자가 자발적이며 부하를 크기로 사용할 수 없습니다. 권위있는 정격 탑재량, kerb 질량 및 GVW는 ** 정확한 포좌 균질 증명서/명찰**에서 옵니다. payload 의무 주기에 투입하기 전에 그들을 얻으십시오.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 이 그림은 **는 지정되지 않습니다. 그들은 장착 된 몸과 다르며 판매자가 자발적이며 부하를 크기로 사용할 수 없습니다. 권위있는 정격 탑재량, kerb 질량 및 GVW는 ** 정확한 포좌 균질 증명서/명찰**에서 옵니다. payload 의무 주기에 투입하기 전에 그들을 얻으십시오.
 
 ## Adjacent 라인과 글로벌 Isuzu 경계
 
@@ -78,21 +78,21 @@ Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.
 
 No — 100P (4KB1)는 KV100 사양으로 병합되지 않은 별도의 모델 라인입니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- **참고 시장 **: 중국 (中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 엔진 출력 및 모든 정격 페이로드 / GVW 수치는 OEM 시트 또는 MIIT 균질화 항목에 재확인되어야하며 글로벌 Isuzu와 동일한 모델 상태는 transacting 전에 명시적 OEM 문이 필요합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

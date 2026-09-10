@@ -19,7 +19,7 @@
 ## 发动机(重型卡车焦距:发动机,变速箱,轴,GCW,出租车,底盘).
 | 项目 | Tianlong KL 465 (China reference) |
 |---|---|
-| 引擎 | 龙庆 ** DDi11E465-60 **, 内置6型柴油机 10.8 L 维基月球 |
+| 引擎 | 龙庆 ** DDi11E465-60 **, 内置6型柴油机 10.8 L  |
 | 定时功率 | **343 kW (≈465 PS)** |
 | 净电源 | ** 337 kW **——不同计量基础,而非矛盾. |
 | 峰顶扭矩 | ** 2240 N·m@ 1100–1600 rpm** |
@@ -46,7 +46,7 @@
 5. **HS分类**——拖拉机属于87.01(按HS编码指南),有别于87.04辆货车和8716辆拖车;拖车单独分类.
 
 ## 请求当前导出提示
-不公布出口价格. 与** 定点国查询 数量 发动机功率(465) 手动/AMT 轴比 高密度/高强度/高强度 目标港 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+不公布出口价格. 与** 定点国查询 数量 发动机功率(465) 手动/AMT 轴比 高密度/高强度/高强度 目标港 o 
 
 ## 经常被问到的问题
 ** 为什么有两个权力数字(343和337 kW)? ** 343 kW为额定功率和337 kW净功率——同一465 PS发动机的不同测量基础.
@@ -65,7 +65,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——东风天龙KL,汽油/柴油中国市场车辆重型拖拉机车
 - **法国**: 出口的Référence汽车(AutoBridge)——东丰天龙KL, réhicule thermique (中国马赛) raneur rotier loord
@@ -76,23 +76,23 @@
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
-- 身份证**: 维基月球在线解说-东风天龙 KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat 维基月球在线解说-东风天龙 KL, kendaraan mesin pembakaran (Pasar Tiongkok) traktor berat
+- 身份证**: 东风天龙 KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat 东风天龙 KL, kendaraan mesin pembakaran (Pasar Tiongkok) traktor berat
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 天龙KL465 长青电动列车及质量 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/23626143 维基月球 | 2026-09-04 | 横跨 | DDi11,动力/电压,14-speed |
-| 天龙KL 465 AMT 参数 | Tencent News | 氯化萘 | http://news.qq.com/rain/a/20231120A0697W00 维基月球 | 2026-09-04 | 资源 | AMT 选项, 扭矩带 |
-| 天龙KL 465 底盘和变速箱 | 360che (图提奥语). | 氯化萘 | http://m.toutiao.com/group/7342432889952895507/ 维基月球 | 2026-09-04 | 横跨 | DT1422,GVWR, 防控, GCW |
-| 东风天龙电(百科全书交叉校验). | PCauto 百科全书 | 氯化萘 | http://m.pcauto.com.cn/baike/1124005/2143996/ 维基月球 | 2026-09-04 | 资源 | 电源交叉核对 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 17691-2018 重型柴油机车污染物排放(中国六级). | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html 维基月球 | 2026-09-05 | 实录 | 中VI型压缩-燃(重型柴油)车/车厢排放级 |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* 说明:没有OEM初级小册子;贸易交叉检查。 中国市场参考;MIIT公告确认. * 报告迟交是因为需要翻译。
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

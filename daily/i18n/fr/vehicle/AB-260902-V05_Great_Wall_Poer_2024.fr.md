@@ -46,7 +46,7 @@ Les listes de ramassage sont floues, les années modèles et les marchés, de so
 Aucun prix à l'exportation statique n'est publié; les références RMB de la Chine sont ** nationales et sensibles au temps, et non FOB/CIF**. Demande avec **Pays de destination · Quantité · Version · Code moteur · Transmission · 4 × 2/4 × 4 · LHD/RHD · Longueur du lit · Port de destination · Incoterm**.
 ## FAQ de l'acheteur
 **Pétrole ou diesel Poer?** Essence GW4C20B pour les véhicules légers/routiers; le diesel 2.4 GW4D24 fait 480 N·m pour le chargement et le remorquage — selon la mission.
-8AT ou 9AT ? La voiture de tourisme 2024 en Chine utilisait un ZF 8AT; le courant GWM construit utilise un 9AT avec le 2.4 diesel. Confirmez la transmission sur le VIN exact /an.
+8AT ou 9AT ? La voiture particulière chinoise de 2024 utilisait une ZF 8AT ; la production GWM actuelle utilise une 9AT avec le diesel 2.4. Confirmez la boîte sur le VIN/l'année exacte.
 **Quelle est l'empattement?** 3230 mm lit passager standard; 3470 mm lit commercial long.
 **Qu'est-ce que la charge utile?** Non mentionné ici parce qu'il était absent de la base de faits vérifiée; prendre à partir de la feuille officielle de la version exacte.
 **Est-il disponible en RHD?** GWM vend Poer/Ute dans les deux versions sur de nombreux marchés — confirmez la version spécifique du moteur/version en RHD pour votre pays.
@@ -76,19 +76,19 @@ Aucun prix à l'exportation statique n'est publié; les références RMB de la C
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM tableau de configuration officiel de la prise en charge (GW4C20B/GW4D24, 8AT/9AT, puissance nette/torque) | GWM (**officiel fabricant**) | NC | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VÉRIFIER** | Produits officiels courants 160 kW 380 N·m essence, 135 kW 480 N·m diesel, 8AT/9AT |
-| GWM POER 2.4 exportation (181 hp 480 N·m 9AT, corps sur cadre 4WD) | GWM Jordan (**officiel fabricant**) | Exportation/AJO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VÉRIFIER** | Exportation 2.4 puissance diesel, 9AT, 4WD corps sur cadre |
-| Lancement GWM UK POER300 (2.4 diesel 183 PS 480 N·m, 9AT, temps plein 4 × 4 à faible portée) | GWM Voitures Royaume-Uni (**officiel fabricant**) | Exportation/Royaume-Uni | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VÉRIFIER** | Classe diesel à l'exportation, 9AT, 4 × 4 |
-| 2024 Pao config (référence des passagers chinois) | PCauto (太平洋汽车) | NC | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | _CHECTURE | 2024 voyageurs 140 kW 360 essence, 135 kW 480 diesel, ZF 8AT |
-| Paramètres de Pao (base de roue/drive par version) | Auto-home | NC | https://product.360che.com/m792/198189_param.html | 2026-09-02 | _CHECTURE | 3230/3470 empattements, version entraînement/transmission | 360che
-| 汽车之家 问答 (炮动力) | 汽车之家 | NC | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SOURCE UNIQUE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | NC | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SOURCE UNIQUE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
-| 网上车市 炮乘用皮卡参数 | 网上车市 | NC | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SOURCE UNIQUE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*Note de confiance: les sorties/transmissions actuelles sont VÉRIFIÉES sur les pages officielles du GWM; les valeurs de passagers en Chine 2024 sont CROSS_CHECKED sur les bases de données et sont délibérément séparées pour éviter de mélanger les années modèles. La charge utile/le VBV/le remorquage restent pour la feuille officielle et ne sont pas estimées. *
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

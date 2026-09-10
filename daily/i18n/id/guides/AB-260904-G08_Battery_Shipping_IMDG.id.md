@@ -80,16 +80,16 @@ Batas kuantum negara seperti batas tetap ** status -of-charge ** diatur oleh tek
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Amandemen Kode IMDG 42-24 resmi untuk teks resmi Cina PDF | Administrasi Keselamatan Maritim Cina | INTL CN penegakan | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | TERBATAI (primer) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Class 9 |
-| Manual Tes dan Kriteria PBB (Rev 8 + Amandemen 1), Bagian 38.3 (SCETDG - 66 INF. 30) | PERUSAHAAN USAMA | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | TERBATAI (primer) | Rev. 8+Amd.1,  UN38.3 T.1–T.8, sodium- ion |
-| PBB SCETDG - 64 INF. 29 lithium identifikasi baterai 38.3 menandai Amandemen | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | TERBATAI (primer) | 38.3 menandai amandemen |
-| US 49 CFR 173.185 (incorporates UN38.3 by IBR) | GovInfo AS (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | TERBATAI (primer) | UN3480/3481, referensi perundangan UN38.3 |
-| interpretasi IMDG 42-24 (MSC. 556 (108), tanggal efektif) | Cina Maritim (repost) | INTL CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | _ BERDECAT (mendukung) | Interpretasi tanggal-Effective- |
-| UN3556 SP405 menandai interpretasi | Berita Jiupai (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE _ SOURCE (mendukung) | SP405 menandai |
-* Catatan bukti: klasifikasi inti berlabuh ke MSA (IMDG 42-24) dan UNECE (Manual Rev. 8+Amd.1, 49 CFR) sumber utama; halaman media / industri hanya mendukung dan bukan bukti utama untuk nomor PBB atau UN38.3. Nilai tetap SOC tetap diblokir. ♪
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

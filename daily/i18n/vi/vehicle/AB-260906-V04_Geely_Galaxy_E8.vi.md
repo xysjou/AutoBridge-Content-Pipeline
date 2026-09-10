@@ -19,7 +19,7 @@ The Galaxy E8 (Yinhe E8) is Geely's flagship electric fastback sedan on the SEA 
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
 | Nền tảng thân thể | Kiến trúc nhiệt đới, 5-door/5-seat xe sedan điện cỡ lớn | TRUNG QUỐC 2024/2025 | ĐÃ_ ĐÃ |
-| Các chiều | 5010 × 1920 × 1465 mm, bánh xe cơ sở 2925 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | SINGLE_SOURCE |
+| Các chiều | 5010 × 1920 × 1465 mm, bánh xe cơ sở 2925 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | single source |
 | Động cơ lái sau | 200 kW hoặc 250 kW mô- tơ đơn (theo phiên bản) | TRUNG QUỐC #· Kiểm tra chéo | ĐÃ_ ĐÃ |
 | Lái xe | Dual-motor combined ≈475 kW (performance version) | TRUNG QUỐC #· Kiểm tra chéo | ĐÃ_ ĐÃ |
 
@@ -71,16 +71,16 @@ Chiếc xe lớn cỡ nào? ****
 
 Khoảng 5010 × 1920 × 1465 mm với một chiếc bánh xe 2925 mm bánh xe (tham khảo thị trường Trung Hoa, xác nhận bởi trick).
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量. 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航. 电机功率. 驱动  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家. 车家号 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机. 电池供应商. 平台  |
-| Geely Yinhe/Galaxy E8 hạm đội (OEM) | Tự động kỳ diệu | CN/EXPORT | T1 | VEII | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | Nhận dạng - OEM: xe sedan điện dựa trên tàu thủy dương |
-| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Tự động kỳ diệu | CN | T1 | VEII | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | Nhận diện — khởi động thời gian và kiến trúc sóng; cắt giảm quang phổ vẫn còn trên SKU |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | động cơ_ nguồn điện — Kiểm tra các biến thể của pin/ đường dẫn bằng cách thông báo |
-| Thiên hà E8 được mô tả một cách độc lập | LynkCars | CN | T3 | ĐÃ_ ĐÃ | https://www.lynkcars.com/geely-galaxy-e8/ | vận động_ điện — cơ sở dữ liệu độc lập đối chiếu; xác nhận chống lại OEM |
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

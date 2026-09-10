@@ -21,7 +21,7 @@ The JMC Ford Transit T8 (江铃福特全顺 T8) is the large-van/large-bus platf
 | الاتحاد | الأبعاد المرجعية | Wheelbase | الثقة |
 |---|---|---|---|
 | متوسط الوزن، السطح المتوسط (بالأكسبيل) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| حمولة طويلة وشديدة الارتداد | 5998 × 2164 × 2775 mm × cargo interior ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | طويل | SINGLE_SOURCE |
+| حمولة طويلة وشديدة الارتداد | 5998 × 2164 × 2775 mm × cargo interior ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | طويل | single source |
 
 طول الـ5998 mm كبير في العديد من الأسواق يجلس في الحدود التجارية الخفيفة لسيارات السيارات لذا يجب على المشتري أن يؤكد فئة رخصة المقصد و الكتلة الإجمالية للسيارة قبل أن يطلب أطول نسخة والأبعاد الداخلية للشحنات وحجم الـ 13 متر مكعب من مصدر واحد، وينبغي تأكيده على البيانات الرسمية التي يُعدها مجلس إدارة النقل المشترك/التداول قبل أن يُصمم تحويلها حولها.
 
@@ -29,8 +29,8 @@ The JMC Ford Transit T8 (江铃福特全顺 T8) is the large-van/large-bus platf
 
 | الخط | المراجع المتعلقة بالسوق الصينية | Gearbox | الثقة |
 |---|---|---|---|
-| 2.3T ديزل (2025) | 128 kW (174 PS) / 430 N·m | 8-speed تلقائي (8AT) | SINGLE_SOURCE — SOURCE - confirm by VIN/OEM|
-| 2.0T fromнит | By ،,номت 6speed ) 6MT ) SINGLE_SOURCE — SOURCE - separate line
+| 2.3T ديزل (2025) | 128 kW (174 PS) / 430 N·m | 8-speed تلقائي (8AT) | single source — SOURCE - confirm by VIN/OEM|
+| 2.0T fromнит | By ،,номت 6speed ) 6MT ) single source — SOURCE - separate line
 
 The 2.3T 8AT and the 2.0T 6MT are distinct powertrains aimed at different duty cycles; لا يجب أن يُعرّضوا أو يُعرضوا كمحرك واحد "T8" والحركة الخلفية هي مخطط القاعدة، حيث عرض 4WD على تشكيلات مختارة - أي تسمية القرص الصلب صراحة. وترتكز النواتج الفعلية حاليا على مصادر مستقلة واحدة وينبغي إغلاقها ضد المواصفات الرسمية للجنة المشتركة أو دخولها إلى محرقة الطائرات الآلية قبل التعاقد؛ (أ) يجب أيضاً فحص الديزل الصيني من أجل تحديد درجة وقود المقصد وقبول مرحلة الانبعاثات.
 
@@ -62,11 +62,11 @@ The referenced Chinese-market T8 is **Ileft-hand drive**. وتستلزم الأ�
 
 Three wheelbases (3000/3300/3750 mm) with medium  and  أسطح عالية في المسافر  and  وتوضح هيئات الشحن هذه المجموعة بالضبط.
 
-** ما هي أكبر نسخة من الشحنات؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما هي أكبر نسخة من الشحنات؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior around 3.5 × 1.83 × 1.98 m  and  ▪ ▪ حفز 13 متر مكعب (مصدر واحد، -تأكد رسمياً
 
-** ما هي المحركات المعروضة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما هي المحركات المعروضة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 A 2025، 2.3T، الديزل المقتبسة بـ 128 kW/ 430 N·m مع 8AT،  and  (أ) ديزل منفصل قدره 2.0T وديزل يبلغ 6MT؛ ابقها متميزة وتأكيد النواتج حسب الشبكة.
 
@@ -74,24 +74,24 @@ A 2025، 2.3T، الديزل المقتبسة بـ 128 kW/ 430 N·m مع 8AT،  
 
 ليس على الأدلة هنا: إنه من صنع لجنة التنسيق المشتركة للصين، ويعامل كنموذج ذي صلة إلى أن يثبت بيان من نفس النموذج الصادر عن منظمة أوم غير ذلك.
 
-هل هناك نسخة من اليد اليمنى؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+هل هناك نسخة من اليد اليمنى؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 شاحنة السوق الصينية هي LHD ; RHD and وتتطلب مواصفات التصدير OEM دليل منفصل and لا يجب أن يستنتج من الخط الصيني
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-08
-- ** سوق الإحالة**: CHINA（中国市场参考；2.3T/2.0T精确功率与货厢容积为单一来源；JMC全顺T8不等同全球Ford Transit，无OEM同型证据）
+- ** سوق الإحالة**: CHINA（China-market reference；2.3T/2.0T精确功率与货厢容积为单一来源；JMC全顺T8不等同全球Ford Transit，无OEM同型证据）
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد النواتج ذات المصدر الواحد، وأبعاد التحويل، والأسعار المرجعية المحلية على صحيفة " حركة الشباب " أو دخولها، كما أن الوضع نفسه مع النقل العابر في فورد على الصعيد العالمي يتطلب بيانا صريحا من منظمة التجارة العالمية قبل التحول.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.

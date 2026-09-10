@@ -38,16 +38,16 @@
 ** 为什么DDP对中国出口商有风险? ** 规定卖方负责目的地进口清关、关税和税收。
 ** 有多少《国际贸易术语解释通则》2020规则? ** 十一,分为两个运输模式组.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) (中文(简体)). | 中国贸促会广西分会 维基月球 | 氯化萘 | T1 | 实录 | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html 维基月球 | 11 术语, 按运输方式分类, 风险费用划分 号 |
-| 2020 国际贸易术语详解 (FOB 风险点改为装上船) (中文(简体)). | 浙江省贸促会 维基月球 | 氯化萘 | T1 | 实录 | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html 维基月球 | 离岸价格/联邦渔业局/综合投资框架,船舷 – 装上船 |
-| 跨境电子商务贸易术语(风险转移教材) (中文(简体)). | 清华大学出版社 维基月球 | 氯化萘 | T3 | 横跨 | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf 维基月球 | 风险转移, 象征性交货 (单位:千美元) |
-| 国际贸易术语解释第2020条规则(ICC) | 国际商会 | 氯化萘 | T1 | 实录 | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ 维基月球 | 《国际贸易术语解释通则》权威出版社 2020 |
-| 原产文书和工具 | 世界海关组织 | 氯化萘 | T1 | 实录 | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx 维基月球 | 海关组织维持的原产地规则框架和文书 |
-| 《国际商会规则》(《国际术语解释》第2020条规则所有人——专页) | 国际商会 | INT 信息技术 | T1/T2 | 实录 | https://iccwbo.org/business-solutions/icc-rules/ 维基月球 | 权威的ICC规则索引确认Incoterms 2020是当前版权术语集及其由ICC维护 |
-| FIATA——《国际贸易术语解释通则》下的货运代理惯例 | 国际货运代理协会联合会(货运协会联合会) | INT 信息技术 | T1/T2 | 实录 | https://www.fiata.org/ 维基月球 | 转运方对交货点、风险转移和运输义务的解释 |
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | primary | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | primary | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/icc-rules/ | Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC |
+| FIATA — freight forwarder practice under Incoterms | International Federation of Freight Forwarders Associations (FIATA) | INT | primary/independent | VERIFIED | https://www.fiata.org/ | Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -66,7 +66,7 @@
 - 电话: 电话: 准确选择2020年中国车辆出口的《国际贸易术语解释通则》
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export

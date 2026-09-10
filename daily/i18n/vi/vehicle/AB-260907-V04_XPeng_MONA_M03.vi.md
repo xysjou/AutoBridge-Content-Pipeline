@@ -24,10 +24,10 @@ The XPeng MONA M03 is XPeng's compact five-seat electric fastback sedan,  launch
 
 | Phần tử | Giá trị tham khảo thị trường Trung Quốc | Tự tin / chú ý |
 |---|---|---|
-| Công suất pin | LFP gói ** 51.8 kWh ** và ** 62.2 kWh ** | SINGLE_SOURCE — nói rằng mỗi mẻ một lần — xác nhận với XPenng, không xác nhận một nhà cung cấp cố định|
-| Phạm vi CLTC | ** 515 / 502 / 620 / 600 km **, mỗi cái đều được gắn với một bộ ắc quy đặc biệt + một bộ mã số máy cụ thể | SINGLE_SOURCE — không bao giờ giống với WLPP/EPA|
-| Máy (trước PMSM) | ** 140 kW (190 PS) / 225 N·m ** và ** 160 kW (218 PS) / 250 N·m ** | SINGLE_SOURCE |
-| Claimed 0–100 km/h | ** 7.8 s / 7.4 s** cho mức độ vận động của mỗi người | SINGLE_SOURCE|
+| Công suất pin | LFP gói ** 51.8 kWh ** và ** 62.2 kWh ** | single source — nói rằng mỗi mẻ một lần — xác nhận với XPenng, không xác nhận một nhà cung cấp cố định|
+| Phạm vi CLTC | ** 515 / 502 / 620 / 600 km **, mỗi cái đều được gắn với một bộ ắc quy đặc biệt + một bộ mã số máy cụ thể | single source — không bao giờ giống với WLPP/EPA|
+| Máy (trước PMSM) | ** 140 kW (190 PS) / 225 N·m ** và ** 160 kW (218 PS) / 250 N·m ** | single source |
+| Claimed 0–100 km/h | ** 7.8 s / 7.4 s** cho mức độ vận động của mỗi người | single source|
 
 Bốn số dãy không phải là loại cắt ngang được: mỗi con thuộc về một cặp pin và máy móc đặc biệt. Một câu trích dẫn " M03, 620 km" mà không cần đặt tên cho 62.2 kWh gói và động cơ khớp thì không đầy đủ, và kết hợp 620 km phạm vi với 140 kW động cơ sẽ là một sai lầm ma trận. Xây dựng một đường ba cột — động cơ ắc quy cTC C — cho chính xác SKU và đóng nó với bảng cấu hình chính thức của XPen. Năng lượng cao nhất và thời gian sạc cao hơn là **không được ] nói ở đây bởi vì không có hình nhân chính thức nào bị bắt giữ; lấy từ OEM cho phiên bản cụ thể hơn là sao chép một bản đánh giá.
 
@@ -73,19 +73,19 @@ Cd 0.194; xe 2025 dài 4780 mm trên một chiếc 2815 mm bánh xe, với chi�
 
 Sự tương thích về mức độ sạc và bất kỳ công trình RHD/export nào của Trung Quốc yêu cầu bằng chứng của OEM riêng biệt; đừng cho rằng chúng từ đặc điểm của Trung Quốc.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
-| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
-| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
-| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | media/industry | single source | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-08
-- **Trible market**: CHINA(中国市场参考; 续航为 CLC, 电池 - SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核).
+- **Trible market**: CHINA(China-market reference; 续航为 CLC, 电池 - SKU 对应 / 供应商 / 快充为单一来源须小鹏官方final confirmation).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Bản đồ đơn nguồn/ tầm/ km, sự tương thích mức độ tích lũy và giá trị tham khảo trong nước phải được xác nhận lại trên tờ OEM hoặc mục nhập MIIT trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

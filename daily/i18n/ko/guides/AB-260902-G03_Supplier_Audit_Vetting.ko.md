@@ -64,7 +64,7 @@
 
 ## AutoBridge가 비즈니스를 넘어갈 것
 라이센스 스캔은 회사가 존재한다는 것을 증명합니다. *your* 차량을 수출할 수 없습니다. 이 가이드는 ** 현재 년 MOFCOM 자격이 된 목록** (商办贸函 〔 2025 〕 408 号의 밑에 2026 신청; 합동 발표 제 2026-01-01에서 순수한 EVA 여객 licensing. 54), ** 브랜드 사용 체인을 OEM**에 재구성하고 ** 계약 청구서 은행 계정 이름 일치 ** 입금 전에 - 무역 쉘에서 승인 된 수출을 구별하는 세 가지 체크.
-## A Practical Eight-Step Sequence
+## 실무적인 8단계 절차
 
 1. gsxt 비즈니스 라이센스 레코드를 독립적으로 잡아.
 2. MIIT-announcement + CCC 상태 확인 실제 제조업체.
@@ -117,19 +117,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## 소스 및 검증
+## Sources & Verification
 
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-더 많은 거래가 가능한 상품 (기본사장, 공식 T1) | 담당자: 담당자: Mr. wang | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MIIT 발표 + CCC 수출 본부 |
-| 2024년 공지 6 (사용 차 수출 기업 상태) | MOFCOM (공식 T1) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중고차 수출업체 조건 |
-굿캐시 거래는 고객님의 개인 정보를 보호하고 있습니다. 담당자: Mr. 광 | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_체크 | gsxt 인증 필드 |
-| 중국 공장을 확인하는 방법 합법적 인 | Plutonia 글로벌 물류 | CN/글로벌 | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_체크 | 계정 이름 일관성, 공장 감사 |
-| 8-step 중국 자동 수출 공급 업체를 확인하는 가이드 | huajiame (산업) | 담당자: Mr. wang | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier 통해 구매 | 2026-09-02 | CROSS_체크 | 계층 감사 프레임 워크, AEO |
-| 차량 수출 조달 노트 | (顺企网의 기업) | 담당자: Mr. wang | https: | 2026-09-02 | CROSS_체크 | 라이브 비디오-오직 최소, 선언 크로스 체크 | https://m.11467.com/blog/d18906274.htm 11467
-광저우 푸장주택 주소: 담당자: Mr. 광 | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_체크 | 인증기관 | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-*Confidence 참고 (AutoBridge 표준): 2026 응용 프로그램 통지 (商办贸函 〔 2025 〕 408 号) 및 공동 공지 사항 No. 54 순수 EVA 여객 수출 라이센스를 포함한 주요 MOFCOM MIIT 소스 (VERIFIED)에 대한 자격 규칙을 복원합니다. 현재 년 자격있는 목록과 AEO 쿼리는 동적이며, 실시간 검사 목록 항목은 업계에 자원 및 공식 시스템에 다시 포인트입니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

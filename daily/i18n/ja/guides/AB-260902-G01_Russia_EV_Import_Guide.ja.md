@@ -13,7 +13,7 @@
 - **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ## B2B の輸入者のための実際の問題
-A Chinese EV reaches a Russian buyer only after three things line up: a **有効なEAEU適合文書**、登録のために受け入れられる**緊急コール規定**、および法的な企業が適合証明書、記録の輸入者および請求書を通した**カスタム/ドキュメントパッケージ。 実際には、それらの文書名が異なるパーティー、または一単位の証明書がバッチタイプの承認のように動作すると、ほとんどの頻度でトラブルに遭遇します。 調達リスク管理ステップとして提示される。 指定されたルートの正確な法的エンティティティティ要件は、認定されたボディと税関ブローカーで確認する必要があります。 このガイドは、ユーラシア経済連合(EAEU)内にある**ロシアに特異的です。** 一般的な「CIS」ステートメントではなく、コスト/プロセスポイントから変化する規制を意図的に分離し、ライブを確認する必要があります。
+A Chinese EV reaches a Russian buyer only after three things line up: a **有効なEAEU適合文書**、登録のために受け入れられる**緊急コール規定**、および法的な企業が適合証明書、記録の輸入者および請求書を通した**カスタム/ドキュメントパッケージ。 実際には、それらの文書名が異なるパーティー、または一単位の証明書がバッチタイプの承認のように動作すると、ほとんどの頻度でトラブルに遭遇します。 調達リスク管理ステップとして提示される。 指定されたルートの正確な法的エンティ要件は、認定されたボディと税関ブローカーで確認する必要があります。 このガイドは、ユーラシア経済連合(EAEU)内にある**ロシアに特異的です。** 一般的な「CIS」ステートメントではなく、コスト/プロセスポイントから変化する規制を意図的に分離し、ライブを確認する必要があります。
 ## 定形バックボーン:TR CU 018/2011
 電動、プラグインハイブリッド、ハイブリッドロード車は、EAEU技術規制TR CU 018/2011の**必須範囲内で落下します。 規制は、税関連合委員会の決定によって承認された**でした。 9の877 EAEUの公式法人登録簿は、2011年1月2015日施行の義務を負う。 検証済み)。 L/M/N/O-category 車両に適用されます。 通常の道路EVは、狭い免除(実行、軍事、特定の農業機械)のために修飾しません。 二つの適合ルートはそれに従う:
 | ルート案内 | とある | フィットするとき |
@@ -22,7 +22,7 @@ A Chinese EV reaches a Russian buyer only after three things line up: a **有効
 | **SBKTS** — 単一車両安全証明書 (Свидетельство безопасностиконостиконострукоцииии ТС) | 車両設計安全評価、EPTS がその根拠に発行 | OTTCがモデルを覆うことなく、シングルユニットと中古車 |
 EVは、**EPTS(電子車両パスポート)**を受け取り、有効なEPTSのトラフィック権限でのみ登録できます。 艦隊プログラムでは、適切に確立されたEAEUの組織が保持するOTTCの予算。 単体SBKTSは遅く、スケールをスケールしません。 早期に**EAEU認定認証ボディ/ラボラトリー**を摂取 — 試験とドキュメントのリードタイムは、通常、海輸送を上回る。
 ## ERA-GLONASS: 実装変更に伴う規制要件の詳細
-緊急コールシステム(**ERA-GLONASS İВЭОС**)は、EAEU市場で配置されたM N-category車両用のTR CU 018/2011フレームワークの一部です。その要件は規制と耐久性です。 ** 個々の輸入の一時的な免除が異なる日付で導入、固化、再課されています。 これら免除ウィンドウは、決定を別々に実施し、この記事の公式ロシアソースからキャプチャされていないため、****はメディア統計的な再インスタンスに依存しません。 注文する前に、  obtain from the accredited body a written answer to three concrete questions: (1) (2) デバイスおよびフィッティングセンターが承認される場合 および(3) 要件が法的エンティティティ・バッチ・インポートと個人輸入との違いをどのように異なるか。 中国の市場電子コールユニットは、ERA-GLONASS/ŞendЭОСの要件を満たしていると仮定しないでください。国内の電子コールシステムを同様に扱うのではなく、認定された機関との互換性と受諾を確認します。
+緊急コールシステム(**ERA-GLONASS İВЭОС**)は、EAEU市場で配置されたM N-category車両用のTR CU 018/2011フレームワークの一部です。その要件は規制と耐久性です。 ** 個々の輸入の一時的な免除が異なる日付で導入、固化、再課されています。 これら免除ウィンドウは、決定を別々に実施し、この記事の公式ロシアソースからキャプチャされていないため、****はメディア統計的な再インスタンスに依存しません。 注文する前に、  obtain from the accredited body a written answer to three concrete questions: (1) (2) デバイスおよびフィッティングセンターが承認される場合 および(3) 要件が法的エンティ・バッチ・インポートと個人輸入との違いをどのように異なるか。 中国の市場電子コールユニットは、ERA-GLONASS/ŞendЭОСの要件を満たしていると仮定しないでください。国内の電子コールシステムを同様に扱うのではなく、認定された機関との互換性と受諾を確認します。
 ## 関税、VAT、受精手数料、ルーティング:確認 — メディア番号を引用しないでください
 いくつかのコストとルーティングポイントは、ロシア語の業界メディアでのみ警告である**誤って矛盾している数字**で循環します。
 - **EVSの重要義務**:アウトレットは、HS 8703.80のゼロレートを引用し、他の特定の2026日付から高い割合を急激に失います。 ロシアの連邦税関サービス(FTS)またはユーラシアン経済委員会の第一次決定がここにキャプチャされていないので、**義務の割合は事実として記載されています**。 正確なHSコードを分類し、現在のEAEU共通関税と上陸したコストシートを構築する前に、任意の一時的な決定をお読みください。
@@ -81,16 +81,16 @@ EVは、**EPTS(電子車両パスポート)**を受け取り、有効なEPTSの�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| TR CU 018/2011 連結規制(指標; 関税同盟決定書第877、09.12.2011) | ユーラシア経済連合法登録(**正規登録者**) | エイユー | https://regulation.eaeunion.org/ (「ТР ТС 018/2011」 決定 877) | 2026-09-03 | **検証済み** | 規制範囲(L/M/N/O)、採用決定、施行日、ERA-GLONASSフレームワーク |
-| 決定書 No.877 + TR CU 018/2011 — 直接連結フルテキスト (2026 年までに改正) | グラント・リーガル・データベース(公式決定の直接レビュー可能なドキュメントページ) | EAEU/RU(アユウ) | 以下は、 https://base.garant.ru/483421115/ の一覧 | 2026-09-03 | CROSS_CHECKED(クロス) | ダイレクト、  article-by-article text of Decision 877 TR CU 018 incl. OTTCは、アンexeと修正を形作ります |
-| 2026 〔 2025 〕 408 号) | MOFCOM(**政府関係者**) | CN の | 以下は、 https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **検証済み** | 2026 |（商办贸函）
-| 純粋なEVの乗客の輸出免許証(通告No. 54、2025;2026-01-01、HS 8703801090から) | MOFCOM MIIT GAC SAMR(**governmentofficial**) クラウドファンディング | CN の | 以下は、 https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html の | 2026-09-03 | **検証済み** | 2026 EV の輸出免許証の体制および HS の参照 |
-| 2026 認定輸出ライセンス企業リスト | MOFCOM 貿易部(**政府関係者**) | CN の | 担当: http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html の | 2026-09-03 | **検証済み** | 現年度資格取得者リスト |
-| EV通関 SBKTS EPTSプロセス(バックグラウンド) | ロシア語の産業出口(BATTKA、FfindCert;媒体) | ルー | 以下は、 https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | シングル_ソース | OTTC/SBKTS/EPTS プロセス背景; 義務図は採用しません(conflict) |
-*Confidence Note: 規制のバックボーン(TR CU 018 決定877)と中国2026輸出ライセンス規則は、規制当局/政府機関のソースから検証されています。 特定のEVデューティパーセンテージ、VAT/utilization-fee番号、個人輸入ERA-GLONASS再インスタンスデーション、および任意の非転送ルールは、キャプチャされたFTS ECの主ソース、メディア間での競合によってサポートされていない、と、事実として述べたよりも、検証項目として非審美的に残っている。 ふりがな
+| TR CU 018/2011 consolidated regulation (index; adopted by Customs Union Commission Decision No. 877, 09.12.2011) | Eurasian Economic Union legal register (**regulator official**) | EAEU | https://regulation.eaeunion.org/ (search "ТР ТС 018/2011" / Decision 877) | 2026-09-03 | **VERIFIED** | Regulation scope (L/M/N/O), adoption decision, in-force date, ERA-GLONASS framework |
+| Decision No. 877 + TR CU 018/2011 — direct consolidated full text (amended through 2026) | GARANT legal database (direct reviewable document page of the official decision) | EAEU/RU | https://base.garant.ru/483421115/ | 2026-09-03 | CROSS_CHECKED | Direct, article-by-article text of Decision 877 / TR CU 018 incl. OTTC form annexes and amendments |
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | 2026 application system/process, local review, qualified list |
+| Pure-EV passenger export licensing (Announcement No. 54, 2025; from 2026-01-01, HS 8703801090) | MOFCOM / MIIT / GAC / SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 EV export-licence regime and HS reference |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified-enterprise list |
+| EV customs clearance / SBKTS / EPTS process (background) | Russian-language industry outlets (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | single source | OTTC/SBKTS/EPTS process background; duty figures NOT adopted (conflict) |
+*Confidence note: the regulatory backbone (TR CU 018 / Decision 877) and the China 2026 export-licence rule are VERIFIED from regulator/government sources. Specific EV duty percentages, VAT/utilisation-fee numbers, personal-import ERA-GLONASS reinstatement dates and any no-transit rule were NOT supported by a captured FTS/EEC primary source, conflict across media, and are deliberately left as verification items rather than stated as fact.*
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05

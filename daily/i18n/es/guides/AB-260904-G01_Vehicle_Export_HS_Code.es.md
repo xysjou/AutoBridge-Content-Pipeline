@@ -83,17 +83,17 @@ La guía de aduanas distingue a los tres ruedas eléctricos por uso e identifica
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Importación y exportación del Tribunal de la República Popular Democrática de Corea (2026), Comisión de Aranceles Aduaneros del Consejo de Estado | Ministerio de Finanzas (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primaria) | 87.01–87.05/8716 current heading names |
-| Anuncio del GACC sobre la aplicación del programa de ajuste arancelario 2026 | Administración General de Aduanas de China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primaria) | 2026 enforcement basis, annual-subheading rule |
-| 2026 Consultas de HS · Capítulo 87 encabezados | i5a6 Sistema de consultas HS | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Navegación de dirección |
-| Personalidades Q concursante en tres ruedas eléctricas (8703.80 8704.60) | Comunicado de aduana (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Tres ruedas divididas, 8704.6000 |
-* Nota de la encuesta: la base actual es el arancel 2026 y su anuncio de ejecución GACC; los más antiguos 2018/2020 cuadros ya no se utilizan como base principal. El derecho de destino y la subpartida exacta de diez dígitos están fuera de alcance y deben ser revisados por país/por año arancelario. *
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240 大中型 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

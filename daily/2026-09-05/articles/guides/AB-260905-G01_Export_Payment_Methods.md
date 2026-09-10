@@ -46,13 +46,13 @@ Even a clean L/C does not cure sanctions exposure on the buyer/bank, an incorrec
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | T1 | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
-| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | T1 | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | T1 | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
-| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
-| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | T1/T2 | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
-| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

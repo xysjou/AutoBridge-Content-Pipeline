@@ -27,16 +27,16 @@ Esta página cubre sólo el **terreno de tercera generación Changan CS55 PLUS (
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| longitud de la anchura | 4539 1865 1680 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| Base de ruedas | 2656 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| motor | 新蓝鲸 NE 1.5T | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| motor de potencia | 141 (192Ps) | kW | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| transmisión | 7DCT 湿式双离合 | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| accel 0 100 | 7.9 | S | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| consumo de combustible wltc | 6.94 | L/100km | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| volumen de carga | 475–1415 | L | CHINA | SINGLE_SOURCE | 搜狐车型库 |
+| longitud de la anchura | 4539 1865 1680 | mm | CHINA | single source | 搜狐车型库 |
+| Base de ruedas | 2656 | mm | CHINA | single source | 搜狐车型库 |
+| motor | 新蓝鲸 NE 1.5T | - | CHINA | single source | 搜狐车型库 |
+| motor de potencia | 141 (192Ps) | kW | CHINA | single source | 搜狐车型库 |
+| transmisión | 7DCT 湿式双离合 | - | CHINA | single source | 搜狐车型库 |
+| accel 0 100 | 7.9 | S | CHINA | single source | 搜狐车型库 |
+| consumo de combustible wltc | 6.94 | L/100km | CHINA | single source | 搜狐车型库 |
+| volumen de carga | 475–1415 | L | CHINA | single source | 搜狐车型库 |
 | China msrp campo de lanzamiento | 9.99–11.39 | 万元人民币 | CHINA | TIEMPO_SENSITIVE | 人民网重庆 |
-| línea separada híbrida | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | CHINA | SINGLE_SOURCE | 搜狐汽车 |
+| línea separada híbrida | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | CHINA | single source | 搜狐汽车 |
 
 ## ICE: concentración de las exportaciones: emisiones, combustible y confirmación de los trim
 Para un SUV de gasolina, los cheques críticos de orden son la etapa **emisión y compatibilidad de combustible** en el país de destino, no el rango eléctrico. La calibración, el OBD y el grado de combustible de China-6 (con expectativas de 92/95 RON) deben conciliarse con las normas de destino; el consumo capturado WLTC es una figura de laboratorio que varía con el combustible y la carga. Las diferencias detalladas por equipo de freno necesitan la hoja de configuración OEM. Mantenga la línea híbrida en su propia página en lugar de promedio de gasolina y números híbridos.
@@ -55,15 +55,15 @@ Para un SUV de gasolina, los cheques críticos de orden son la etapa **emisión 
 **¿Es 99, 900 RMB el precio de exportación?** No - referencia de lanzamiento nacional.
 **¿Cuál es la transmisión?** 7-speed de doble embrague húmedo (7DCT) en la línea capturada.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代 CS55PLUS 上市 | 人民网重庆 | CN | T3 | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分 (不得混入燃油) |
-| Changan Sitio oficial de automóviles mundial | Changan Automobile 长安汽车 (OEM) | CN | T1 | VERIFIED | https://www.globalchangan.com/ | marca/model-line identity and OEM authority |
-| Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |
-| Administración Estatal para el Reglamento de Mercados (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | nacionales de normas, certificación y autoridad de regulación del mercado |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

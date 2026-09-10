@@ -73,15 +73,15 @@
 
 通常,EVs可以由RoRo船船吗? * 报告迟交是因为需要翻译。 * 报告迟交是因为需要翻译。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-· · · · · · · · · · · · · 直达东南亚(2026-09-06); 直达东南亚(2026-09-06); 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06) 直达东南亚(2026-09-06)  (2026-09-06) 直达东南亚(2026-06) 直达东南亚(2026-9-06) 直达东南亚(2017-30) 直达东南亚(2017-30) 直达东南亚(2017-30)  (2017-30) 直达东南亚(2017-30) 直达东南亚(20-30) 直达东南亚(20-30-30) 直达东南亚(20-30) 直达东南亚(20-30) 直达东南亚(20-30) 直达东南亚(20- 直达东南亚(20-30) 直达东南亚(20-30) 直达东南亚(20-30-) 直达东南亚(20-30) 直达东南亚(20-10) 直达东南亚(20-) 直达东南亚(20 (第(XXX)段)。 | 中国网 维基月球 | 氯化萘 | T3 | 横跨 | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运 (单位:千美元)  |
-| 中国港口协会汽车滚装分会行业背景(行业组织) (中文(简体)). | 中国港口协会 维基月球 | 氯化萘 | T2 | 资源 | http://www.port.org.cn/ | 滚装码头行业背景 维基月球  |
-| 商品车多式联运滚装操作规程 JT/T 1194 - 2018 (韩语). | 交通运输部(行业标准文本) (中文(简体)). | 氯化萘 | T1 | 实录 | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_方法——罗罗拉拉链/移交操作程序标准;操作值与载体确认 |
-| 港口货物作业规则 (交通部令 2000 年第 10 号) (中文(简体)). _______________({(XXX)}). | 氯化萘 | T1 | 实录 | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_方法——货物收发和货物记录责任 |（交通运输部）（中国政府网）
-| COSCO(科索语) 专门运输商(官方) | 中远海运特种运输股份有限公司 维基月球 | 氯化萘 | T1 | 横跨 | http://www.coscoshipping.com/ | roro_方法——承运人;每次航行的时间表/接受,预订前确认 |
-| 瓦莱尼乌斯·威廉森(官方罗罗航母) | 瓦莱尼乌斯·威廉森(英语:Wallenius Wilhelmsen). | INT 信息技术 | T1 | 横跨 | https://www.walleniuswilhelmsen.com/ | roro_方法——国际RoRo承运人;特定承运人的接受条款 |
+| 温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证） | 中国网 | CN | media/industry | CROSS_CHECKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
+| 中国港口协会汽车滚装分会行业背景（行业组织） | 中国港口协会 | CN | independent database | single source | http://www.port.org.cn/ | 滚装码头行业背景  |
+| 商品车多式联运滚装操作规程 JT/T 1194—2018 | 交通运输部（行业标准文本） | CN | primary | VERIFIED | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover operating procedure standard; operational values confirm with carrier |
+| 港口货物作业规则（交通部令2000年第10号） | 中国政府网/交通运输部 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — cargo receipt/handover and cargo-record liability at terminal |
+| COSCO Shipping Specialized Carriers (official) | 中远海运特种运输股份有限公司 | CN | primary | CROSS_CHECKED | http://www.coscoshipping.com/ | roro_method — carrier; schedules/acceptance per voyage, confirm before booking |
+| Wallenius Wilhelmsen (official RoRo carrier) | Wallenius Wilhelmsen | INT | primary | CROSS_CHECKED | https://www.walleniuswilhelmsen.com/ | roro_method — international RoRo carrier; acceptance terms carrier-specific |
 
 ## 编辑评论
 - ** 授权人**: AutoBridge出口编辑组 · [作者] (/作者/) · [编辑政策] (/编辑政策/)

@@ -1,8 +1,8 @@
 # 向阿联酋进口车辆:清关至登记序列和必须重新验证的东西
 ## SEO元数据
-- **SEO标题**: UAE 维基月球 车辆进口和RTA登记文件指南
+- **SEO标题**: UAE  车辆进口和RTA登记文件指南
 - **Meta描述**: 顺序UAE车辆进口正确——通关单证GCC/GSO符合规定,再注册RTA(Mulkiya). 报告值班/VAT数字标注为正式UAE确认,而不是标注为固定数字。
-- **H1**: UAE 维基月球 车辆进口:从港口清关到RTA 登记——文件和核查
+- **H1**: UAE  车辆进口:从港口清关到RTA 登记——文件和核查
 - **核心关键词**: 汽车进口登记文件
 - **次级搜索词**: 迪拜海关车辆进口,UAE辆穆尔基亚牌照,GCC GSO辆符合规定,UAE辆汽车进口税,VAT辆,进口MOIAT车辆
 - **建议URL**: /guides/uae-vehicle-import-registration-documents/
@@ -81,20 +81,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — UAE vehicle clearance and registration, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜UAE vehicle clearance and registration, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| | 货运转运材料 | 阿联酋 | https://m.11467.com/product/d43094475.htm 维基月球 | 2026-09-03 | 横跨 | 批准文件;发票/B/L/CO一致性;RTA/Mulkiya序列 | 11467
-| NEV 导出至迪拜文件列表 | 货运转运材料 | 阿联酋 | https://m.11467.com/product/d31835834.htm 维基月球 | 2026-09-03 | 时间(_S) | 报告为~5%关税/~5%增值税;GCC/GSO+ESMA/MOIAT说明 | 11467
-| 中国EV受中东欢迎(UAE国家EV政策). | | 阿联酋 | http://m.toutiao.com/group/7392857722481410569/ 维基月球 | 2026-09-03 | 时间(_S) | 国家电子V政策定向激励机制 |
-*证据上限:来源为转发器指南(T3),中国媒体——没有被捕获阿联酋联邦-海关/RTA主页. 因此,关税/增值税/收费和EV奖励按报告列报,并具有时间敏感性,有待阿联酋联邦海关和入境酋长国的区域贸易协定确认。 并没有断言固定费率。 * 报告迟交是因为需要翻译。
+| Middle East (Saudi/Dubai) clearance & taxes guide | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Clearance documents; invoice/B/L/CO consistency; RTA/Mulkiya sequence |
+| NEV export-to-Dubai document list | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME_SENSITIVE | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT note |
+| Chinese EVs welcomed in the Middle East (UAE national EV policy) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME_SENSITIVE | Directional national EV-policy incentives |
+*Evidence ceiling: sources are forwarder guides (media/industry) and Chinese media — no UAE federal-customs/RTA primary page was captured. Duty/VAT/fees and EV incentives are therefore presented as reported and time-sensitive, to be confirmed with UAE federal customs and the entry emirate's RTA. No fixed rate is asserted.*
 
-| 个人物品清关(进口新/旧车辆;所需证件;评估的va的5%次关税) | 迪拜海关(迪拜政府) | 杜拜语 | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx 维基月球 | 2026-09-04 | 实录 | 5% 海关评估价值的关税;原始发票/包装单/提单/护照或阿联酋身份证副本;检查和估价 |
-| 确定旅客货物价值的机制(年折旧) | 迪拜海关 | 杜拜语 | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf 维基月球 | 2026-09-04 | 实录 | 按年计提的折旧表计算 |
-| 电子商务增值税指南(VATGEC1) §3.5.1——进口增值税5%,计入海关价值. 运费、保险费、关税费、 | 阿联酋联邦税务局(FTA) | 阿联酋 | https://tax.gov.ae/ 维基月球 | 2026-09-04 | 实录 | 进口增值税5%;增值税基数=关税值(CIF)+关税 |
-| 登记车辆(海关证书或转让/出口/占有证书;阿联酋身份证;护照/护照) | UAE 联邦政府门户网站(u.ae) | 阿联酋 | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles 维基月球 | 2026-09-04 | 实录 | 登记文件设置;海关证明是从结关到登记的桥梁 |
-| 向受技术条例约束的产品颁发阿联酋合格证书(ECAS;ESMA的继承者) | 工业和先进技术部(MO) | 阿联酋 | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products 维基月球 | 2026-09-04 | 实录 | 内务部为受管制产品(包括受管制产品)发行阿联酋《行为守则》。 |
-| GSO机动车技术规范清单(MY2027-D3),收录. 阿联酋6b欧元时间表 | GCC 标准化组织(GSO) | 海合会 | https://www.gso.org.sa/ 维基月球 | 2026-09-04 | 资源 | 阿联酋新型6b欧元,从2026-01-01欧元;所有进口从2027-07-01欧元进口 |
+| Clearance of Personal Effects (import of new/used vehicles; required documents; 5% customs duty on assessed va | Dubai Customs (Government of Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% duty on customs-assessed value; original invoice / packing list / bill of lading / passport or Emirates ID copy; inspection & valuation |
+| Mechanism for determining the value of passengers' cargo (depreciation by years) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | used vehicles valued by year-based depreciation schedule before duty |
+| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. freight, insurance, customs fees, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | import VAT 5%; VAT base = customs value (CIF) + duty |
+| Registering vehicles (customs certificate or transfer/export/possession certificate; Emirates ID; passport/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registration document set; customs certificate is the bridge from clearance to registration |
+| Issue UAE Certificates of Conformity for products subject to technical regulations (ECAS; successor to ESMA) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VERIFIED | MoIAT issues UAE CoC for regulated products incl. vehicles/parts; absorbed ESMA |
+| List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro-6b timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | single source | UAE new-type Euro-6b from 2026-01-01; all imports from 2027-07-01 |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

@@ -59,7 +59,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** AutoBridge 出口-买方参考——非洲废车进口年限、车辆-出口采购指南
 - **法国**: 汽车出口-非洲废车进口年限限制,汽车出口指南
@@ -74,20 +74,20 @@
 - AR**: 国家 汽车桥 – 非洲废车进口年限限制, – مشتريات تصدير المركبات المركبات المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜African used-car import age limits, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 机动车辆进口程序(第78/2005号法律通知); KS 1515 进口合格路线) | 肯尼亚税务局(KRA) | 韩基 | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle 维基月球 | 2026-09-05 | 实录 | 肯尼亚进口符合法定条件(78/2005、KS1515兹罗提)和进口程序 |
-| 进口机动车时需要了解的情况(指南;年龄依据和标准) | 韩国拉 | 韩基 | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle 维基月球 | 2026-09-05 | 横跨 | 关于肯尼亚年龄的普通语言指南和标准 |
-| 杜氏1515:2025 公路车辆——公路车辆检查——业务守则 | 肯尼亚标准局(肯尼亚标准局) | 韩基 | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf 维基月球 | 2026-09-05 | 实录 | §4.7.1 客车 > 禁止首次登记8年;制造与管制差距为1年;第4.7.2条特殊车辆例外 |
-| | 基调 | 韩基 | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf 维基月球 | 2026-09-05 | 横跨 | KEBS 废旧车辆进口通知和检查路线 |
-| 汽车进口程序(HS 8702–8705;15年以上的车辆被禁止;国家汽车公司征税;重新确认的指导措辞) | 尼日利亚单一窗口贸易门户 | 国家组 | https://tip.nsw.gov.ng/procedures/automobiles 维基月球 | 2026-09-05 | 实录 | 尼日利亚15-year-from-manufacture项禁令;国家艾滋病委员会征税;统一制度范围 |
-| 禁止海关进口 列出复制——15年以上旧机动车从制造开始. | LLP(复制尼日利亚海关清单) | 国家组 | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ 维基月球 | 2026-09-05 | 横跨 | 使15-year项基于制造的禁令(二次生殖)得到规范 |
-| 多国年龄/探险报告数值(埃塞俄比亚/苏丹/莫桑比克等) | 货运材料 | 非洲 | https://m.11467.com/product/d39248249.htm 维基月球 | 2026-09-03 | 资源 | 左标国家非主要报告数值 |
-| 加纳/坦桑尼亚/莫桑比克报告阈值 | 货运材料 | 非洲 | https://m.11467.com/product/d53540859.htm 维基月球 | 2026-09-03 | 资源 | 加纳OBD-II/Euro-3和莫桑比克报告数值(非初级) |
-| 苏丹分级年龄限制和收费 | 自动家庭贡献者 | 苏丹 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 维基月球 | 2026-09-03 | 资源 | 苏丹报告7/8/10项分级规则(非初级) |
-| | 货运材料 | 科特迪瓦 | https://m.11467.com/product/d55528521.htm 维基月球 | 2026-09-03 | 资源 | 无固定上限; COC + 记录(非初级) |
-* 证据等级:肯尼亚(KEBS+KRA)和尼日利亚年龄规则(单一窗口+海关复制)是主要受委托。 尼日利亚的指导措辞和所有其他国家行仍然是非初级的,在装运前必须正式核实确切的车辆类别;没有进行区域通用。 * 报告迟交是因为需要翻译。
+| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFIED | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
+| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Plain-language guidance on Kenya age basis and standards |
+| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFIED | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
+| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS used-vehicle import notice and inspection route |
+| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFIED | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
+| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | single source | Non-primary reported values for countries left flagged |
+| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | single source | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
+| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | single source | Sudan reported 7/8/10 tiered rule (non-primary) |
+| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | single source | No fixed cap; CoC + records (non-primary) |
+*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Nigeria steering wording and every other country row remain non-primary and must be officially verified for the exact vehicle class before shipment; no regional generalisation is made.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

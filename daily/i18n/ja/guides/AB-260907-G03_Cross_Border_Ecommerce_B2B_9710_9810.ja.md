@@ -26,7 +26,7 @@ China added two dedicated customs supervision codes for business-to-business cro
 
 ## いずれかのコードを使用する前に必要となる設定
 
-新規登録済みのエンティティティティティに、コードを非登録エンティティティティに利用できる。 企業が、外国貿易事業者として標準的な税関登録を完了し、クロスボーダー電子商取引記録を完了し、指定されたチャネルを介して宣言しなければなりません。税関システムまたは中国国際貿易シングルウィンドウのいずれか。 初期のパイロットの後、モデルは、税関の地区全体でより広く展開されていましたが、運用詳細、受け入れられた文書セットとファシリテーション対策は、まだ税関地区によって変化する可能性があるため、局所の指示の税関は、宣言がそこにロッジされている方法の運用当局にあります。
+新規登録済みのエンティに、コードを非登録エンティに利用できる。 企業が、外国貿易事業者として標準的な税関登録を完了し、クロスボーダー電子商取引記録を完了し、指定されたチャネルを介して宣言しなければなりません。税関システムまたは中国国際貿易シングルウィンドウのいずれか。 初期のパイロットの後、モデルは、税関の地区全体でより広く展開されていましたが、運用詳細、受け入れられた文書セットとファシリテーション対策は、まだ税関地区によって変化する可能性があるため、局所の指示の税関は、宣言がそこにロッジされている方法の運用当局にあります。
 
 データの規律は、カジュアルな小包の流れよりも厳格です。 プラットフォーム取引データ、物流データ、および9810、倉庫受領およびその後の販売データを再構成する必要があります。 Building that three-way match before volume grows is far cheaper than reconstructing it during an audit or a rebate review.
 
@@ -73,15 +73,15 @@ China added two dedicated customs supervision codes for business-to-business cro
 
 いいえ。リベートトリートメントは、現在の税務当局の規則に従い、ケースによって異なる。引用されたパーセンテージに依存するのではなく、実際の治療を確認します。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国政府网 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm | 中国政府网政策库对跨境电商B2B出口(9710/9810)监管与推广... |
-| 国家税务总局 | 国家税务总局 | CN | T1 | VERIFIED | https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html | 跨境电商9810出口海外仓适用离境即退/出口退(免)税政策 |
-| 海关总署75号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 监管方式代码9710为'跨境电子商务对企业直接出口'(B2B直接出口)；监管方式代码9810为'跨境电子商务出口海外仓' |
-| 海关总署推广解读 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 9710/9810经试点后全国复制推广 |
-| 广东分署 | 海关总署 | CN | T1 | CROSS_CHECKED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 9810以出口到本企业境外海外仓为特征 |
-| 四川贸促会 | 中国国际贸易促进委员会(CCPIT) | CN | T2 | SINGLE_SOURCE | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 地方贸促会对9710/9810适用与申报有操作说明（行业辅助） |
+| 中国政府网 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm | 中国政府网政策库对跨境电商B2B出口(9710/9810)监管与推广... |
+| 国家税务总局 | 国家税务总局 | CN | primary | VERIFIED | https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html | 跨境电商9810出口海外仓适用离境即退/出口退(免)税政策 |
+| 海关总署75号公告 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 监管方式代码9710为'跨境电子商务对企业直接出口'(B2B直接出口)；监管方式代码9810为'跨境电子商务出口海外仓' |
+| 海关总署推广解读 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 9710/9810经试点后全国复制推广 |
+| 广东分署 | 海关总署 | CN | primary | CROSS_CHECKED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 9810以出口到本企业境外海外仓为特征 |
+| 四川贸促会 | 中国国际贸易促进委员会(CCPIT) | CN | independent database | single source | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 地方贸促会对9710/9810适用与申报有操作说明（行业辅助） |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

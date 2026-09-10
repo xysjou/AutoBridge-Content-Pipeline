@@ -25,7 +25,7 @@ A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition �
 
 | Position | Referenzmarkt China | Anmerkungen | Vertrauen |
 |---|---|---|---|
-| 2.0T Ottokraftstoff | 172 kW (234 PS) / 360 N·m, 8-speed Automatik (8AT), FWD | 2025 Bezugslinie | SINGLE_SOURCE — Bestätigung durch VIN/OEM|
+| 2.0T Ottokraftstoff | 172 kW (234 PS) / 360 N·m, 8-speed Automatik (8AT), FWD | 2025 Bezugslinie | single source — Bestätigung durch VIN/OEM|
 
 Diese Seite erstreckt sich bewusst auf das **ICE Benzin** G90. Hybrid-, Plug-in- oder rein elektrische Derivate sind unterschiedliche Antriebsstränge und werden hier nicht beschrieben; ein Exporteur darf keine elektrifizierten Linienzahlen in die Benzinspezifikation aufnehmen. Der 172 kW/360 N·m-Ausgang ruht derzeit auf einer einzigen unabhängigen Quelle und sollte vor der Einzahlung gegen das offizielle MAXUS-Konfigurationsblatt oder den genauen MIIT-Homologationseintrag geschlossen werden.
 
@@ -56,7 +56,7 @@ Der chinesische Richtpreis ist eine **zeitsensible nationale Referenz**, die je 
 
 ## Überprüfung des ausländischen Käufers vor der Einzahlung
 
-1. Anzahl der Schleusensitze  and  2+2+2 / 2+2+3 layout,  and  Sie werden auf die genaue trimmen schriftlich.
+1. Sitzanzahl und 2+2+2-/2+2+3-Layout festlegen und die genaue Ausstattungsstufe schriftlich fixieren.
 2. Bestätigen Sie den Ausgang 2.0T 8AT und den Vorderradantrieb gegen den OEM-Blatt / MIIT-Eintrag.
 3. Bestätigen Sie, dass keine elektrifizierte Variante im Angebot ersetzt wurde.
 4. Überprüfen Sie die Zielregeln für ein 5280-mm Siebensitzerfahrzeug und die erforderliche Lizenzkategorie.
@@ -70,7 +70,7 @@ Bezugsabmessungen sind 5280 × 1998 × 1845 mm mit einem Radstand von 3200 mm �
 
 **Kommt es in sechs und sieben Sitzen? **
 
-Ja, in 2+2+2 sechssitzigen und 2+2+3 siebensitzigen Layouts; Befestigen Sie das genaue Layout und seine Ausstattung in den Vertrags- und Homologationsunterlagen.
+Ja, in sechssitzigen 2+2+2- und siebensitzigen 2+2+3-Layouts; das genaue Layout und seine Ausstattung in Vertrags- und Homologationsunterlagen fixieren.
 
 **Welche Engine deckt diese Seite ab? **
 
@@ -84,16 +84,16 @@ Die referenzierte chinesische Marktlinie ist Frontantrieb.
 
 Das chinesische Auto ist LHD; RHD / Export Builds erfordern separate OEM-Beweise und dürfen nicht in Leistung, Sitzen oder Ausrüstung identisch angenommen werden.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]

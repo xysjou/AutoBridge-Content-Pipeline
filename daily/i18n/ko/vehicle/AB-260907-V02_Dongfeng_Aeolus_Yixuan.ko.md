@@ -25,8 +25,8 @@ CMP 기초는 볼륨 컴팩트 한 세단 세그먼트를 목표로하는 염력
 
 | Line | 중국 시장 참고 | 기어박스 | 기간 / 상태 | 의논하기 |
 |---|---|---|---|---|
-| 1.5L 자연광 (2025) | 92 kW (125 PS)/158 N·m; WLTC는 ≈ 6.24 L/100 km를 결합했습니다 | 6-speed 젖은 이중 클러치 | 2025 현재 주요 선 | SINGLE_SOURCE — VIN/OEM에 의해 확인|
-| 마 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed 젖은 이중 클러치 | 2022/2023 이전 선, 2025 메인 라인이 아닙니다. | SINGLE_SOURCE — 역사적인 선|
+| 1.5L 자연광 (2025) | 92 kW (125 PS)/158 N·m; WLTC는 ≈ 6.24 L/100 km를 결합했습니다 | 6-speed 젖은 이중 클러치 | 2025 현재 주요 선 | single source — VIN/OEM에 의해 확인|
+| 마 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed 젖은 이중 클러치 | 2022/2023 이전 선, 2025 메인 라인이 아닙니다. | single source — 역사적인 선|
 
 두 사이의 성능 차이는 구매자의 결정을 변경하는 것이 충분히 크며, 이는 정확히 왜 그들은 하나 "Yixuan 엔진"모음으로 합병되지 않아야합니다. Mach 1.5T은 **** 파워트레인으로 라벨을 붙일 수 있습니다. 현재 사용할 수 있는 세단으로 선업을 대표할 것입니다. 출력은 현재 단일 독립 소스에 나머지 두 개이며 Aeolus 공식 설정 페이지 또는 계약하기 전에 정확한 MIIT 균질화 항목에 대해 닫아야합니다. 연료 소비는 ** WLTC** 사이클에 인용되며 NEDC 또는 CLTC 수치와 다른 자동차에서 비교할 수 없습니다.
 
@@ -68,19 +68,19 @@ CMP 플랫폼을 사용하고 프론트 엔진 / 프론트 휠 드라이브입�
 
 공장 RHD는 여기에서 중국 시장 근원에 의해 설치됩니다; RHD와 수출 specs는 분리되는 OEM 증거를 요구합니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 SKU 终核)
+- **참고 시장 **: 중국 (China-market reference; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 SKU final confirmation)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, 트림 라인 업 및 국내 참조 가격은 transacting 전에 OEM 시트 또는 MIIT 항목에 다시 확인해야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

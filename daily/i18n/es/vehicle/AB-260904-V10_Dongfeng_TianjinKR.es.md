@@ -86,19 +86,19 @@ No se publica precio de exportación. Consulta con **Destinación País · Canti
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
 | Tianjin KR 6.8m reefer B6.2 powertrain/gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | CROSS_CHECKED | B6.2 245PS, Fast 8-speed, Dana axle |
-| Nueve camiones de carga 6.8m: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | CROSS_CHECKED | 6.8m, distancia entre ejes, relación de eje |
-| Tianjin KR 6.8m rueda de carga | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_CHECKED | 5000 WB, ancho interno, GVW |
-| DFH5180XLCG4 reefer — MIIT lote 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_CHECKED | Nuevo código de presentación, límite de velocidad |
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 17691-2018 Emisiones contaminantes de vehículos diesel pesados (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI etapa de emisión de compresión (diésel pesado) para camiones/cuchillones |
-| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| Nine 6.8m cargo trucks: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | CROSS_CHECKED | 6.8m, wheelbase, axle ratio |
+| Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_CHECKED | 5000 WB, internal width, GVW |
+| DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_CHECKED | New filing code, speed limiter |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confianza: código modelo anclado al MIIT para la presentación de informes de la serie de datos de la serie 410; unidad de reeferencia/zonas/insulación dejada intencionalmente al constructor del cuerpo (sin valores codificados por la presión); Más excluidos. Referencia del mercado chino; confirmar la calificación legal sobre el anuncio/certificado. *
+*Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

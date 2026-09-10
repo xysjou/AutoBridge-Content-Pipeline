@@ -39,16 +39,16 @@ Diese Seite behauptet absichtlich **nicht ** eine universelle CKD/SKD-Definition
 **Kann ein Kit-Design in jedem Markt funktionieren? ** Nein — die Einstufungs- und Montagebedingungen sind länderspezifisch.
 **Was soll die Stückliste tun?** Weisen Sie jedem Bauteil vor der Klassifizierung eine HS-Linie, einen Ursprung und einen Wert zu.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类裁定与决定 |（进出口税则为基础）（归类以协调制度）
-| 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | CN | T4 | UNVERFÜHRT | https://m.11467.com/product/d53830031.htm | 成套散件清单 /HS 逐项整理流程线索 |
-| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | CN | T4 | UNVERFÜHRT | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Harmonisierte System-Nomenklatur (WCO) | Weltzollorganisation | CN | T1 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS-Nomenklatur ist die von der WCO gepflegte Klassifikationsgrundlage |
-| WZO Origin Instrumente und Werkzeuge | Weltzollorganisation | CN | T1 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Ursprungsregeln und -instrumente der WZO |
-| WTO-Übereinkommen über die Zollwertermittlung | Welthandelsorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Zollwertrahmen, der für den unterschiedlichen Wert von Knockdown-Kits und montierten Einheiten relevant ist; selbst legt keine Montagetarife für den Bestimmungsort fest |
-| WZO HS-Nomenklatur — Klassifikationsinstrumente (GRI) | Weltzollorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Allgemeine Auslegungsregeln (einschließlich GRI 2 (a)) regeln die Klassifizierung von nicht montierten zerlegten Knockdown-Gütern; tiefe Seite |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

@@ -17,7 +17,7 @@
 - ** اقتراح**: نظرة جانبية على طائرة من طراز Roewe iMAX8 من طراز MPV تظهر أبوابا مائلة وعجلات طويلة
 - **Schema Scope**: Article + Vehicle
 
-"رووي iMAX8" هي "س.إتش" في من الناس، خمسة أبواب، مدفع مدفع مدفعي مقدم من سبع طوابق (2+2+3) موجه إلى الأسرة  and  استخدام السلطة التنفيذية للصادرات، يتم شراء مقطع مقطعي مقطعي من أجل مكانه و مكانه أولاً وطاقته الحصانية الثانية، لذا هذه الصفحة تقود مع هيكل الكوخ. وهو يغطي مبلغ iMAX8 ** فقط**؛ any hybrid or electric iMAX8 variant is a different product  and  متعمداً لا يختلط
+"رووي iMAX8" هي "س.إتش" في من الناس، خمسة أبواب، مدفعي مقدم من سبع طوابق (2+2+3) موجه إلى الأسرة  and  استخدام السلطة التنفيذية للصادرات، يتم شراء مقطع مقطعي مقطعي من أجل مكانه و مكانه أولاً وطاقته الحصانية الثانية، لذا هذه الصفحة تقود مع هيكل الكوخ. وهو يغطي مبلغ iMAX8 ** فقط**؛ any hybrid or electric iMAX8 variant is a different product  and  متعمداً لا يختلط
 
 ## هيكل وأبعاد الحيز (مقرر مجلس الإدارة)
 
@@ -68,7 +68,7 @@ This page is limited to the petrol iMAX8. Hybrid  and  pure-electric iMAX8 deriv
 
 3000 mm، مع وجود أبعاد خارجية حوالي 5016 × 1909 × 1782 mm (يورد أحد المصادر ارتفاعا مختلفا قليلا).
 
-** أي محرك وجهاز تروس؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** أي محرك وجهاز تروس؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 A 2.0T petrol (20A4E family) with an Aisin 8AT; وتختلف السلطة المستعارة عن السنة النموذجية ويجب أن تكون ملزمة بوحدة الاستخبارات الخاصة.
 
@@ -80,15 +80,15 @@ A 2.0T petrol (20A4E family) with an Aisin 8AT; وتختلف السلطة الم
 
 ولا توجد نسخة من وثيقة RHD تثبتها مصادر السوق الصينية المستخدمة هنا.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | T1 | مفقود | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
-| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | T3 | SINGLE OURCE | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
-| iMAX8 尺寸 座位 (5016 × 1909 × 1788, WB3000, 7 座) | 58汽车 | CHINA | T3 | SINGLE OURCE | https://car.58.com/x/4112/ | 尺寸, 座位  |
-| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | T3 | SINGLE OURCE | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
-| SAIC مسؤول موتورز (مالك لعلامة رويوي) | SAIC Motor | CN | T1 | مفقود | https://www.saicmotor.com/e/ | الهوية - شركة أو أم أو شركة أوم أوم أوم أوف أوف أوف أورو هي علامة تجارية خاصة بالشركة |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | الهوية - التحقق من المتغير الصيني الملغى وحساب المقاعد بالإعلان |
+| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | primary | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
+| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
+| iMAX8尺寸/座位（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | media/industry | single source | https://car.58.com/x/4112/ | 尺寸, 座位  |
+| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
+| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | primary | VERIFIED | https://www.saicmotor.com/e/ | identity — OEM parent corporate; Roewe is SAIC brand |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant and seat count by announcement |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

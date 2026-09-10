@@ -87,17 +87,17 @@ Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Vue latérale du véhicule (2/box, 8 sangles) | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SOURCE UNIQUE | 2-SUV sans fissure; ~ 8 sangles; méthode de roue (une source) |
-| Premier procès du port de Yantai 4-SUV "RoRo-to-container" | Nouvelles du soir de Qilu Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SOURCE UNIQUE | Upper2+lower2 rack; séquence de chargement (un essai rapporté) |
-| Chargement des wagons Chine-Europe (3/box) | Chemin de fer Harbin Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SOURCE UNIQUE | Berline/rail de référence à trois fois par boîte (une source) |
-| Méthode de chargement en cinq étapes pour les conteneurs d'exportation | Montant net | Mondial | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SOURCE UNIQUE | Vérification de l'arrimage en cinq points (une source) |
-*Note de portée: chaque chiffre de chargement provient d'une source unique et distincte (tous les SINGLE_SOURCE) — aucun fait n'est corroboré par deux sources indépendantes, donc aucun n'est étiqueté CROSS_ J'ai vérifié. Les dénombrements sont des références documentées de la pratique, pas un arrimage garanti; le nombre exact dépend toujours des dimensions mesurées et d'un plan de chargement approuvé, et les règles de transporteur/terminal doivent être confirmées lors de la réservation. *
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| Code de pratique OMI/OIT/CEE pour l ' emballage des unités de transport de marchandises (code CTU) | Organisation maritime internationale (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VÉRIFIER | Principes de distribution, d'arrimage et de fixation du fret pour les TCU, y compris les conteneurs |
-| Conteneurs/référence de l'équipement | Conseil mondial des transports maritimes | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VÉRIFIER | Contexte standard de la conception des conteneurs et des équipements de ligne pour la planification des charges |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

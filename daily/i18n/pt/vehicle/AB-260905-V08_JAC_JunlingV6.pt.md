@@ -52,16 +52,16 @@ Para os compradores de distribuição da cidade, o ponto de configuração de or
 **Motor? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m na linha capturada.
 ** Onde estão os detalhes do pneu/eixo? Não capturado; solicite a folha de construção do OEM.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像) | NC | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃 V6 配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | NC | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内 D25 参数, 货厢 |
-| 骏铃 V6 车型 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | NC | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康 160, 变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) | 58 同城二手车 | NC | T4 | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JAC Local oficial dos motores | Anhui Jianghuai Automobile JAC 江淮 (OEM) | NC | T1 | VERIFICADO | https://www.jac.com.cn/ | Identidade de marca/modelo-linha e autoridade OEM |
-| Ministério da Indústria e das Tecnologias da Informação (MIIT) | MIIT 工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/ | autoridade de homologação/anunciador; confirmar o modelo, massas e código exatos por VIN/anunciador |
-| Administração do Estado para o Regulamento do Mercado (SAMR) | SARR 国家市场监督管理总局 | NC | T1 | VERIFICADO | https://www.samr.gov.cn/ | Normas nacionais, certificação e autoridade de regulação do mercado |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

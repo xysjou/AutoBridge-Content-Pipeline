@@ -12,7 +12,7 @@
 - **ข้อความ ALT**: Front three-quarter view of a Geely Galaxy E8 electric sedan showing the light bar  and  สายกํากับการวางหลังแบบเร็ว
 - **ขอบเขต Schema**: บทความ + พาหนะ
 
-กาแลคซี E8 (Yinhe E8) เป็นรถซีดานของจีลี ธงธงไฟด้านหลังทะเลทะเลทะเล (Swest rofile) — ห้าตัว Drag ต่ํา (ประมาณ 0.199 Cd) รถไฟฟ้าเดี่ยวที่เสนอ  and  แบบฟอร์มขับเคลื่อนรถสองล้อ เพราะเป็นอีวี การตัดสินใจซื้อของเปิดกิจการแบตเตอรี่ วงจรการทดสอบ ค่าใช้จ่ายสถาปัตยกรรมและซอฟต์แวร์ ทุกอย่างข้างล่างเป็น "Chinese-มาร์เก็ต" (CLTC) อ้างอิงถึง"~; รุ่นส่งออกและมาตรฐานค่าใช้จ่ายของพวกเขา ต้องการแยกหลักฐานโออีเอ็ม
+กาแลคซี E8 (Yinhe E8) เป็นรถซีดานของจีลี ธงธงไฟด้านหลังทะเล (Swest rofile) — ห้าตัว Drag ต่ํา (ประมาณ 0.199 Cd) รถไฟฟ้าเดี่ยวที่เสนอ  and  แบบฟอร์มขับเคลื่อนรถสองล้อ เพราะเป็นอีวี การตัดสินใจซื้อของเปิดกิจการแบตเตอรี่ วงจรการทดสอบ ค่าใช้จ่ายสถาปัตยกรรมและซอฟต์แวร์ ทุกอย่างข้างล่างเป็น "Chinese-มาร์เก็ต" (CLTC) อ้างอิงถึง"~; รุ่นส่งออกและมาตรฐานค่าใช้จ่ายของพวกเขา ต้องการแยกหลักฐานโออีเอ็ม
 
 ## การแสดงตัวและแพลตฟอร์ม
 
@@ -71,16 +71,16 @@ Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  a
 
 5010 × 1920 × 1465 mm มีฐานล้อ 2925 mm (อ้างอิงตลาดจีน ยืนยันโดยการตัดแต่ง).
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | จีน | T2 | ROOS_ CHCKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | จีน | T2 | ROOS_ CHCKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸 续航 续航 电机功率 驱动 (พ.ศ. ○
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家 – 车家号 พ.ศ. | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机 电池供应商 电池供应商 平台 (พ.ศ. ○
-| Geely Yinhe/ Galaxy E8 หน้ากองเรือ (OEM) | จี้ออโต้ | CN/ ExPORT | T1 | เปิดใช้งาน | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | เอกลักษณ์ — อัตลักษณ์ของโออีเอ็ม: ร199797. สืบค้นเมื่อ พ.ศ. 2013/ii.8kriasmo lotimegigeg พ ศ. ศ. 2013/i.8krismo lomiigeg พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ 2013/i.8krismo lopigeg พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ k k k k k k k eg eg ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ก ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ศ ศ ศ ศ ศ ษ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ ษ 2060 สืบค้นเมื่อ 20 พฤษภาคม 2060 สืบค้นเมื่อ 20 พฤษภาคม 2056 ด ด ด ด ด ด ด ด ด ด ด ด ด ด ด น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ   ศ ศ     ศ ศ ศ ศ ศ ศ ศ ศ ศ   ( 
-| Geely เริ่มส่งมอบของ Yinhe E8 (Jan 2024 OEM) | จี้ออโต้ | CN | T1 | เปิดใช้งาน | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | เอกลักษณ์ — การ กําหนด เวลา และ สถาปัตยกรรม ของ ทะเล ทราย; 2556 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | พลัง งาน — ทดสอบ ขับเคลื่อน โดย ประกาศ |
-| ภาพ สเปกตรัม แบบ GYL E8 | ลังรถลินค์คาร์ | CN | T3 | ROOS_ CHCKED | https://www.lynkcars.com/geely-galaxy-e8/ | มอเตอร์_กําลัง — ฐานข้อมูลอิสระ ตรวจหา; ล ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง                         (พ.ศ.
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

@@ -79,17 +79,17 @@ Bagaimana ini berbeda dari panduan "membeli suku cadang"? Itu mencakup bagian su
   - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Four-ministry used-car export notice (item 6: sistem dukungan) | Pustaka kebijakan Dewan Negara | CN Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | TERBATAI | Harapan kebijakan setelah gabungan... bagian bagian penjualan teknologi dukungan |
-| Pemberitahuan yang sama (sistem dukungan) | Menteri Perdagangan | CN Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | TERBATAI | Teks lawan MOFCOM |
-| Bagaimana mobil Cina bisa menutup luar negeri setelah - penjualan kesenjangan | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE _ SOURCE | Path jaringan multi- merek; bagian Melbourne contoh; 7-yr contoh garansi |
-| Bagian yang mendunia harus disystemmatisasi | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | _ BERDECAT | "Penjualan berat, pelayanan ringan" kelemahan; risiko delegasi |
-* Catatan Scope: harapan kebijakan adalah resmi; model jaringan dan barang-barang garansi / gudang Australia adalah contoh industri tunggal yang digunakan secara ilustratif, tidak disajikan sebagai standar universal. Ini panduan alamat operasi dan disimpan berbeda dari spare- bagian pengadaan cluster. ♪
+| Four-ministry used-car export notice (item 6: support system) | State Council policy library | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Policy expectation of joint after-sales/parts/tech support |
+| Same notice (support system) | Ministry of Commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | MOFCOM counterpart text |
+| How Chinese automakers can close the overseas after-sales gap | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | single source | Multi-brand network path; Melbourne parts example; 7-yr warranty example |
+| Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
+*Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
 
-| Provisions tentang Kewajiban untuk Penggantian Penggantian Kembalinya Produk Otomatis Rumah Tangga (SAMR Order No. 43) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | TERBATAI | garansi domestik (san-bao) baseline bahwa luar negeri setelah - istilah penjualan harus dibedakan dari |
-| Dewan Cina untuk Promosi Perdagangan Internasional (jaringan layanan dagang) | CCPIT | CN INT 'L | http://www.ccpit.org/ | 2026-09-05 | TERBATAI | Saluran institusi mendukung layanan luar negeri - jaringan build-out |
+| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
+| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

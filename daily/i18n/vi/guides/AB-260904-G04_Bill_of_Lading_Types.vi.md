@@ -85,19 +85,19 @@ Bộ luật hải quân hiệu chỉnh cung cấp kiến trúc pháp lý đằng
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Mã hải quân của bản hiệu đính PRC (2025, Tổng thống thứ tự 58, trong lực 2026-05-01) văn bản đầy đủ | Ủy ban Đứng trên NPC | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VEIID (TIẾNG) | Nghệ thuật. 80/81/87, phiên bản và ngày tháng hiệu quả |
-| Gốc B/L  Telex Sea Waybill giải thích | NetEase kinh doanh là bản năng kinh doanh | I - MI | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ĐÃ_ ĐÃ | Định nghĩa MBL/SWB/telex |
-| Hóa đơn của ông chủ chống lại hóa đơn nhà | Tài chính Sina | I - MI | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | ĐÃ_ ĐÃ | MBL/HBL TIẾNG S dâng hiến phương tiện |
-| Kiểu giải phóng và B/L | kiến thức công nghiệp | I - MI | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ĐÃ_ ĐÃ | Four-method comparison | 11467
-| Four release methods  and  nguy cơ điện thoại (Ghi chú South America) | NetEase | I - MI | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Giới hạn lệnh-bill, chấp nhận cổng |
-| Vận chuyển hàng hóa và luật lệ kiểu mẫu quốc tế | UCRITRAL | IN'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VEII | Khung lề luật cho tài liệu vận chuyển (Hague-Visby/Hamburg/Rotterdam) |
-| Tài liệu và điều khoản tiêu chuẩn | BIMCO | IN'L | https://www.bimco.org/ | 2026-09-05 | VEII | Tài liệu tham chiếu/giải tích công nghệ- tiêu chuẩn |
-| FIATA tài liệu vận chuyển và thực hành chuyển hàng hóa | Liên bang quốc tế của những người tiến bộ đáng kể (FIATA) | IN'L | https://fiata.org/ | 2026-09-05 | VEII | Tài liệu trước (FBL/FCR) thực hiện việc phân biệt mẫu B/L |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-*AIDidence lưu ý: thống kê xương sống VERFIED thông qua văn bản đầy đủ của bản hiệu đính 2025 (trong lực 2026-05-01); định nghĩa doanh nghiệp được kiểm tra chéo; chi phí truyền thông/cơ sở chấp nhận chuyến đi vẫn còn cụ thể. *
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

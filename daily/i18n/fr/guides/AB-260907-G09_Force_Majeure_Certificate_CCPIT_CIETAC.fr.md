@@ -84,15 +84,15 @@ La médiation est un règlement consensuel facilité par le CCPI; l'arbitrage es
 
 Pas automatiquement — la reconnaissance dépend du for étranger et de la façon dont il pèse le document; traitez-le comme une preuve à soutenir, et non comme une garantie.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 贸促总会商事认证/不可抗力证明办理与职责 | 中国国际贸易促进委员会 (全国总会) | CN | T1 | VERIFIED | http://www.ccpit.org/dept/enterprise/maoyituiguang/ | 不可抗力证明, 办理平台, 总会职责 |
-| 不可抗力证明申办程序与佐证材料 (四川贸促会) | 中国贸促会四川省委员会 | CN | T1 | VERIFIED | https://www.ccpit-sichuan.org/newshow.aspx?id=14645&mid=293 | 申办程序, 佐证材料 |
-| 不可抗力证明范围与事件 (四川贸促会) | 中国贸促会四川省委员会 | CN | T1 | VERIFIED | https://www.ccpit-sichuan.org/newshow.aspx?id=9660&mid=18 | 证明范围, 不可抗力事件 |
-| 不可抗力证明的章程授权与证明效力 (海事法院文件) | 广州海事法院 | CN | T1 | VERIFIED | https://www.gzhsfy.gov.cn/uploadfile/files/2020/20201110/201110112800067407.pdf | 章程授权, 证明效力 |
-| 商事调解与案例 (浙江贸促会) | 中国贸促会浙江省委员会 | CN | T1 | VERIFIED | https://www.ccpitzj.gov.cn/col/col1229574285/art/2026/art_64151d172e854aa9a67ca295e0a770b7.html | 商事调解, 案例 |
-| 中国国际经济贸易仲裁委员会 (依仲裁条款受理争议) | 中国国际经济贸易仲裁委员会 (CIETAC) | CN | T1 | VERIFIED | https://www.cietac.org/ | 仲裁机构身份 |
+| 贸促总会商事认证/不可抗力证明办理与职责 | 中国国际贸易促进委员会(全国总会) | CN | primary | VERIFIED | http://www.ccpit.org/dept/enterprise/maoyituiguang/ | 不可抗力证明, 办理平台, 总会职责 |
+| 不可抗力证明申办程序与佐证材料（四川贸促会） | 中国贸促会四川省委员会 | CN | primary | VERIFIED | https://www.ccpit-sichuan.org/newshow.aspx?id=14645&mid=293 | 申办程序, 佐证材料 |
+| 不可抗力证明范围与事件（四川贸促会） | 中国贸促会四川省委员会 | CN | primary | VERIFIED | https://www.ccpit-sichuan.org/newshow.aspx?id=9660&mid=18 | 证明范围, 不可抗力事件 |
+| 不可抗力证明的章程授权与证明效力（海事法院文件） | 广州海事法院 | CN | primary | VERIFIED | https://www.gzhsfy.gov.cn/uploadfile/files/2020/20201110/201110112800067407.pdf | 章程授权, 证明效力 |
+| 商事调解与案例（浙江贸促会） | 中国贸促会浙江省委员会 | CN | primary | VERIFIED | https://www.ccpitzj.gov.cn/col/col1229574285/art/2026/art_64151d172e854aa9a67ca295e0a770b7.html | 商事调解, 案例 |
+| 中国国际经济贸易仲裁委员会（依仲裁条款受理争议） | 中国国际经济贸易仲裁委员会(CIETAC) | CN | primary | VERIFIED | https://www.cietac.org/ | 仲裁机构身份 |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)

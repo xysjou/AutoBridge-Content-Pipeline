@@ -78,23 +78,23 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Thứ tự MIT 50 — Căn cứ vào | MỘT CÂU CHUYỆN CÂU CHUYỆN | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ĐÃ_ ĐÃ | Name & Kết nối |
-| EU WVTA + sơ đồ FMVSS (2018/858) | Xác nhận cơ thể bên thứ ba | AI | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCE | Mô tả vai trò của OVTA/ 2018/858, CoC (thư mục) |
-| OTTS TRCU 018/2011 giải thích | Trình cung cấp dịch vụ xác thực | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ĐÃ_ ĐÃ | Bộ xem tập tin âm thanhName |
-| E-mark vs-mark bộ giải thích | Trình cung cấp dịch vụ xác thực | Toàn cục/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | Sự phân biệt e/E-mark (phụ) |
-Trần nhà từ thiện: các dụng cụ EU/ EAEU /UNECE được mô tả từ các nguồn chứng thực thứ hai; không có văn bản chính nào ổn định EUR-Lex/UNECE/ EAEU được ghi lại. Cần phải kiểm tra ngày tháng và phạm vi quy định trước khi áp dụng các đoạn chính. Khuôn khổ Trung Quốc là phần được chính thức ủng hộ. *
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| Quy tắc (EU) (đã gắn kết 2021-09-26) trên các loại phương tiện giao thông — WVTA; toàn bộ các hộp và các loại | EUR-Lex (cơ sở dữ liệu pháp luật chính thức) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VEII |  | 2018/858
-| Quy tắc (EU) (tiếng bản xứ), chương VI Điều 36 — Nhà sản xuất có một số báo cáo về sự kết hợp giữa các phương tiện giao thông | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VEII |  | 2018/858
-| Chương VI (CoC) chính thức sinh sản | Luật pháp.gov.uk (dữ liệu luật pháp chính thức của UK | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VEII |  | 2018/858
-| 1958 Hiệp định (Rev. 3), E/ECE/TRANS/ 505 — khung cho phép kiểu quy luật của UN chấp thuận các thành phần/ hệ thống/ hệ thống/ sTT | UNECE (Các nước không theo lịch sử) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VEII |  |
-| GRF- 84-18 (cơ cấu đánh số ban đầu/số, E + số quốc gia) | WP của UNECE 29 GRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VEII |  |
-| Status of the 1958 Agreement  and  Các quy luật của Liên Hiệp Quốc được phụ thêm | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VEII |  |
-| Quyết định của Ủy ban Liên bang Hải quan Số 877 (09.12.2011) Nhận luật pháp kỹ thuật TRU 018/2011 "Trên  | adilet.zan.kz — cơ sở dữ liệu pháp lý chính thức của M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VEII |  |
-| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS OTSH forms | tham chiếu pháp lý Alta-Soft (T3; sao chép EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

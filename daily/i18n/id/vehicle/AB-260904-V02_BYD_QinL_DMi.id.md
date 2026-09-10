@@ -33,7 +33,7 @@ Qin L DM-i adalah ukuran tengah di bar hybrid dibangun di ** generasi lima DM **
 Pembeli PHIV butuh empat jawaban dalam urutan: ** mesin, motor penggerak, baterai, mode pengisian operasi **. Di sini mesin 1.5L berdedikasi terutama menghasilkan assist drive melalui DHT berkecepatan tunggal; driver switch antara mode listrik dan hybrid daripada pergeseran gigi. Cocokkan versi baterai ke jangkauan listrik pada setiap baris urutan.
 
 ## Klami- Range Tetap Iklan Manufaktur Lencana Yang Lampiran
-- The 80/120 km figures are **CLTC** electric range.
+- Angka 80/120 km adalah jangkauan listrik **CLTC**.
 - Sebuah tokoh utama gabungan sekitar 2100 km pada tangki penuh dan muatan penuh muncul dalam cakupan Cina sebagai ** produsen - klaim ** nomor. Ini harus diberi label klaim pabrik, tidak pernah disajikan sebagai hasil yang diukur, dan tidak sebanding dengan angka siklus destination-.
 
 ## Tubuh dan Cabin
@@ -89,21 +89,21 @@ Apa bedanya Qin L DM-i 80 dan 120? Kapasitas baterai (10.08 vs 15.87 kWh) dan CL
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Parameter master tabel Qin L DM | Basis data Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | _ BERDECAT | Dimensi, wheelbase, baterei, DHT, berat, tangki |
-| Konfigurasi Qin L DM | Basis data Sohu Auto | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | _ BERDECAT | Dimensi, jangkauan CLTC |
-| Qin L DM-i 2024 120km Trim memimpin | Basis data Sohu Auto | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | _ BERDECAT | 120 km CLTC, Referensi harga domestik |
-| Lima puluh gen DM kisaran & fuel-gunakan analisis | Rumah otomatis | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SINGLE _ SOURCE | Mesin didedikasikan, waktu cepat, klaim jangkauan gabungan |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
-| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
-| GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Konfidence mencatat: dimensi dan langkah-langkah jangkauan telah diperiksa di seluruh dua database; detail mesin, waktu pengisian cepat dan 2100 km klaim tunggal-sumber / faktor- klaim. Tidak ada OEM halaman luar negeri ditangkap - referensi pasar Cinese- saja. ♪
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

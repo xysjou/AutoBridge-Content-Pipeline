@@ -44,7 +44,7 @@ Diadaptasi dari metode dokumentasi reconsier- loading:
 5. Cukup untuk menutup dan menutup, rekam foto dari tempat penyimpanan sebelum menyegel.
 
 ## Catatan EVER- Specific
-Sebuah EV hybrid di dalam sebuah kontainer masih membawa baterai daya tarik: ikuti laut berbahaya - barang dokumentasi dan operator SOC states - of-charge instruksi. di bawah Amandemen IMDG 42-24 (wajib dari 2026-01-01) kendaraan berbahan-bahan-ion-batt- bertenaga-batt- diklasifikasikan UN3556, bukan warisan generik UN3171; menerapkan dokumentasi SOC rincian per EV pengiriman Fakta Sheet dan operator (lihat panduan eV laut komplian) Putuskan siapkan 12 Sistem V per operator dan jangan asumsikan sebuah produk-pembakaran stowage SOP mencakup sebuah EV.
+Sebuah EV/hybrid di dalam kontainer tetap membawa baterai traksi: ikuti dokumentasi barang berbahaya laut dan instruksi state-of-charge dari operator. Di bawah Amandemen IMDG 42-24 (wajib sejak 2026-01-01), kendaraan bertenaga baterai lithium-ion diklasifikasikan UN3556, bukan UN3171 generik warisan; terapkan dokumentasi SOC rinci per pengiriman EV sesuai Fact Sheet dan operator (lihat panduan kepatuhan pengiriman EV laut). Siapkan sistem 12 V sesuai operator dan jangan mengasumsikan SOP penyusunan kendaraan pembakaran internal mencakup EV.
 
 ## Apa Panduan ini Rekomendasi Anda Kunci Sebelum MenBooking
 - Sebuah ** Berukuran rencana beban ** untuk model yang tepat (panjang lebar tinggi, cermin dilipat), bukan janji "dua atau empat" generik.
@@ -87,17 +87,17 @@ Apa yang diperiksa sebelum menyegel pintu? Barang-barang daftar cocok, ketertiba
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Kendaraan stowage sisi-lihat (2/box, 8 tali) | Bahan untuk orang baru | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE _ SOURCE | 2-SUV no-rack; ~ 8 straps; metode roda (satu sumber) |
-| Pelabuhan Yantai pertama 4-SUV "RoRo-to- kontainer" pengadilan | Qilu Evening News Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE _ SOURCE | Upper2+lower2 rak; urutan pemuatan (satu laporan percobaan) |
-| Cina - Eropa kereta pemuatan (3/box) | Harbin Railway Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE _ SOURCE | Tiga - per- box sedan rail referensi (satu sumber) |
-| Ekspor metode memuat kontainer lima langkah | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE _ SOURCE | Pemeriksaan stowore titik lima (satu sumber) |
-* Catatan Scope: masing-masing angka pemuatan berasal dari satu, sumber yang berbeda (semua SINGLE _ SOURCE) - tidak ada fakta yang didukung oleh dua sumber independen, sehingga tidak ada yang berlabel CROSS _ Dikunci. Menghitung yang didokumentasikan - praktek referensi, tidak dijamin Stowage; jumlah yang tepat selalu tergantung pada dimensi diukur dan sebuah rencana yang disetujui, dan operator / terminal aturan harus dikonfirmasi di pemesanan. ♪
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| IPO ILO UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritim Organization (IMA) | INT 'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | TERBATAI | Distribusi kargo, memukul dan mengamankan prinsip untuk CTU termasuk kontainer |
-| Referensi peralatan kontainer | Dewan Pengiriman Dunia | INT 'L | https://www.worldshipping.org/ | 2026-09-05 | TERBATAI | Konteks freight- bebas standar dan liner- peralatan konteks untuk perencanaan load |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

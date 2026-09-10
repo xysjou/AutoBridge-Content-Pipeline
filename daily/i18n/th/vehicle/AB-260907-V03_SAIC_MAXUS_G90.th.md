@@ -25,7 +25,7 @@ A 5.28-metre body on a 3.2-metre wheelbase is the G90's core value proposition �
 
 | รายการ | อ้างอิงตลาดจีน | บันทึกย่อ | ความมั่นใจ |
 |---|---|---|---|
-| 2.0T เทอร์โบ | 172 kW (234 PS) / 360 N·m 8-speed อัตโนมัติ (8AT), FWD | 2025 reference line | SINGLE_SOURCE — ได้รับการยืนยันโดย VIN/OEM|
+| 2.0T เทอร์โบ | 172 kW (234 PS) / 360 N·m 8-speed อัตโนมัติ (8AT), FWD | 2025 reference line | single source — ได้รับการยืนยันโดย VIN/OEM|
 
 หน้าเว็บนี้จงใจสํารวจไปยัง UNCPE (* G90.) อนุพันธ์ที่เสียบปลั๊กหรือไฟฟ้าบริสุทธิ์เป็นพลังงานอื่น ๆ และไม่ได้อธิบายที่นี่; ผู้ส่งออกจะต้องไม่ผนวกตัวเลขที่ ถูกเลือกให้เป็น 172 kW/ 360 N·m การแสดงผลในปัจจุบันอยู่ในแหล่งอิสระแหล่งเดียว และควรจะปิดการต่อต้าน การปรับแต่งอย่างเป็นทางการของ MAXUS หรือรายการ mITIT mographation แน่นอน ก่อนที่จะจ่ายเงินมัดจํา
 
@@ -84,16 +84,16 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 
 รถจีนคือ LHD; RHD/เอ็กพอดท์ ก่อสร้างต้องใช้หลักฐานที่แยกออกมา และต้องไม่ถือว่าเหมือนกันในอํานาจ, ที่นั่งหรืออุปกรณ์
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]

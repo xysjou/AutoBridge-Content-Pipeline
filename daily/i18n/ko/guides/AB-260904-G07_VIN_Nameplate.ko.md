@@ -3,11 +3,11 @@
 ## SEO 메타데이터
 - **SEO 제목**: VIN & 중국 차량 수입용 명찰 검증 - GB 16735-2019
 - **메타 설명**: 17-character VIN는 GB 16735-2019의 밑에 WMI/VDS/VIS로 분할하는 방법, 왜 각인된 VIN의 명찰, 증명서 및 선박 문서는 일치해야 하고, 수입업자는 지불의 앞에 확인해야 합니다.
-- **H1**: 중국 차량 VIN 및 명찰 검증: 구조, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  the Four-Place Match
+- **H1**: 중국 차량 VIN 및 명찰 검증: 구조, 의  and  the Four-Place Match
 - **주요 키워드**: VIN 명찰 검증 GB16735 중국 자동차
 - **보조 검색어**: WMI VDS VIS 구조, GB16735-2019 VIN의 VIN의 체크 손가락 위치 9의 VIN 명찰 증명서 견실함, 각인된 VIN 탬퍼
 - **추천 URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- **검색 의도**: 중국 차량에 대한 VIN 및 명찰 검증을 견딜 수 있습니다. 구조, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  the Four-Place Match: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- **검색 의도**: 중국 차량에 대한 VIN 및 명찰 검증을 견딜 수 있습니다. 구조, 의  and  the Four-Place Match: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
 - **내부 링크 제안**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
 - **이미지 제안**: 17-char VIN 세그먼트 도표
 - **ALT 텍스트**: 17 문자 VIN 분할 WMI VDS VIS GB16735-2019 아래
@@ -80,17 +80,17 @@ Compare the same 17 characters across four locations  and  연삭이 없으면 �
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 16735-2019의 도로 차량 - VIN, 표준 텍스트 PDF | SAC/TC114 (국가 자동 표준화) | 담당자: Mr. wang | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | 인증 (기본) | 17-char 구조, 표준 텍스트 |
-| GB 16735-2019 표준 상태 페이지 | SAMR 오픈 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-04 | 인증 (기본) | 현재 상태, 2004 대체 |
-| SAMR 플랫폼 · GB16735-2019 세부 사항 | 의논하기 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | 인증 (기본) | 표준 상태 |
-| Road-motor-vehicle 제품 접근 검토 필요조건 (GB16735의 필수 인용) | MIIT 공식 PDF | 담당자: Mr. wang | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf 뺍니다. | 2026-09-04 | 인증 (기본) | 필수 상태, 일관성 요구 사항 |
-| VIN 세그먼트 설명 | Pacific 자동차 | 담당자: Mr. wang | HTTP: 의 경우 | 2026-09-04 | SINGLE_SOURCE(싱글) | 위치 수준 설명자 | http://m.pcauto.com.cn/x/5100/51002243.html
-*Blocked 참고: "중국 WMI는 L 일부 H"로 시작되고 사실로 명시되지 않습니다. WMI-prefix 제조업체 매핑 및 목적지 VIN 형식은 범위가 있습니다. ****************************************************************************************************************************************************************************************************************************************************************
+| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
+| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
+| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
+| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | single source | Position-level explainer |
+*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
 
-| 道路车辆 车辆识别代号 (빈) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体년) | 담당자: Mr. wang | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE(싱글) | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | single source | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

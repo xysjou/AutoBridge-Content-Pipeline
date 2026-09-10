@@ -25,15 +25,15 @@ Da leichte LKWs als Fahrgestell-Fahrerhaus und montierte Karosserie verkauft wer
 
 | Position | Referenzmarkt China | Vertrauen |
 |---|---|---|
-| Motor | ** 4KH1CN6LB ** 3.0-litre Diesel, China- 6 (National VI) | SINGLE_SOURCE |
-| Output | 120 PS / 290 N·m | SINGLE_SOURCE — Bestätigung durch VIN/OEM|
-| Getriebe | MSB 5-speed Handbuch (5MT) | SINGLE_SOURCE |
+| Motor | ** 4KH1CN6LB ** 3.0-litre Diesel, China- 6 (National VI) | single source |
+| Output | 120 PS / 290 N·m | single source — Bestätigung durch VIN/OEM|
+| Getriebe | MSB 5-speed Handbuch (5MT) | single source |
 
 The 4KH1 family exists in more than one suffix with different outputs,  and  ein zweiter unabhängiger Bericht verweist auf eine andere Einstufung als 4KH1 Suffix. Genau deshalb muss der vollständige Motorcode - ** 4KH1CN6LB **, nicht nur "a 4KH1" - in den Auftrag geschrieben und mit dem MIIT-Homologationseintrag abgeglichen werden. A China-6 diesel is calibrated for Chinese fuel  and  die Stufe National VI; Bestimmungskraftstoffgüte und Emissionserkennung sind getrennt zu prüfen und nicht anzunehmen.
 
 ## Nutzlast und Leermasse: Kleinanzeigen sind keine Fabrikdaten
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Diese Zahlen sind **nicht** als Spezifikationen dargestellt: Sie variieren je nach montiertem Körper, werden von Verkäufern selbst gemeldet und können nicht zur Größe einer Ladung verwendet werden. Die maßgebliche Nutzlast, die Leermasse und das GVW stammen aus dem **exakten Chassis-Homologationszertifikat / Typenschild **. Besorgen Sie diese, bevor Sie sich zu einem Nutzlastzyklus verpflichten.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Diese Zahlen sind **nicht** als Spezifikationen dargestellt: Sie variieren je nach montiertem Körper, werden von Verkäufern selbst gemeldet und können nicht zur Größe einer Ladung verwendet werden. Die maßgebliche Nutzlast, die Leermasse und das GVW stammen aus dem **exakten Chassis-Homologationszertifikat / Typenschild **. Besorgen Sie diese, bevor Sie sich zu einem Nutzlastzyklus verpflichten.
 
 ## Angrenzende Linien und globale Isuzu-Grenze
 
@@ -78,21 +78,21 @@ Nicht auf diesen Beweisen: Es ist Qingling-gebaut für China und wird als verwan
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-08
-- **Referenzmarkt**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- **Referenzmarkt**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Die Motorleistung aus einer Quelle und alle Nenn-Nutzlast-/GVW-Zahlen müssen auf dem OEM-Blatt oder dem MIIT-Homologationseintrag erneut bestätigt werden, und der Status des gleichen Modells mit globalem Isuzu erfordert vor der Transaktion eine explizite OEM-Erklärung.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

@@ -68,7 +68,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考文献——切里·富尔温 T9型,插座混合动力车SUV
 - **法国**: 切里·富尔温T9型可补给SUV型混合动力汽车
@@ -83,19 +83,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 牵引装置-电池安全要求(国家标准) | SAMR/标准化管理 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 与C-DM高压包有关的电车电池安全基线 |
-| GB 18352.6-2016/XG1-2026 轻型车辆排放限值(中国6) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 目前中国-6型1.5T专用发动机的排放框架(中国-6b参考文献). |
-| Fulwin T9 官方配置表: | 切里·富尔温(OEM) | 氯化萘 | https://fulwin.chery.cn/vehicles/t9/config/ 维基月球 | 2026-09-04 | 已证实(OEM) | 电池、尺寸、座位、充电、版本 |
-| Fulwin T9 | 东芝 | 氯化萘 | https://m.dongchedi.com/article/7506038314424730131 维基月球 | 2026-09-04 | 横跨 | 尺寸,示范年边界 |
-| Fulwin T9 120 长距离旗舰配置 | 自动家居配置 | 氯化萘 | https://m.autohome.com.cn/config/spec/70272.html 维基月球 | 2026-09-04 | 横跨 | 32.66 kWh,电动范围,发动机 |
-| Fulwin T9 电池和EV-范围分析 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 维基月球 | 2026-09-04 | 资源 | 电池、CLTC/WLTC范围、充电时间 |
-| Fulwin T9 发射尺寸(维度) | 索胡汽车数据库 | 氯化萘 | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 维基月球 | 2026-09-04 | 横跨 | 中型PHEV SUV 尺寸,国内价格 |
-| 风云 T9 官方配置表 (品牌官网) (中文(简体)). | 奇瑞风云(奇瑞官方) (中文(简体)). | 氯化萘 | https://fulwin.chery.cn/vehicles/t9/config/ 维基月球 | 2026-09-04 | 实录 | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-* 说明:OEM配置页(VIFIED锚地);充电时间和货物量为单源;合并范围是制造商索赔。 标准T9——T9L不包括在内. * 报告迟交是因为需要翻译。
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

@@ -33,7 +33,7 @@
 - (د) سجلات السحب ** ورقم المطالبة بالتأمين (出险)**؛ والتصليح الهيكلي لمعدات الطعام أو أي علامة للمطالبة بمياه الفيضانات هي أسباب للرفض.
 - وتخفي المركبات الإلكترونية المفلورة تردي الحزم وتسخيرها: تفتيش موصلات تحت سطح الماء، وسكك حديدات المقعد، وصناديق العصيان، وضميمة البطاريات لخطوط المياه/التآكل.
 - تحقق من فجوات الفريق وسمك الطلاء وعلامات الشهود السريعة؛ وتعامل أي علامة على أن علبة البطارية قد فتحت خارج مرفق مؤهل كإشارة توقف.
-## Odometer vs Charge Cycles
+## عدّاد المسافة مقابل دورات الشحن
 A clocked EV shows an **odometer inconsistent with battery cycle counting and wear**. وحيثما تكشف التشخيصات عن عدد الدورات، تقارنها بالكميات المُعرضة والملابس البدنية (الغطاء، التوجيه، الدواسات). منخفض المسافات المُعرضة مُقترنةً بإحصاءات عالية الدورة أو المكونات القديمة هو تحذير مُنبئ بأن فحص الأورامل المُستقطعة من قبل شركة آي إس وحدها سيفوته.
 ## الأعمال الورقية وقاعدة تحديد الوجهة
 (ب) الاحتفاظ بتقرير مستقل عن شركة SoH/imbalance، وسجل الشحنات المُعدية وتاريخ في ملف التصدير. بشكل منفصل وهذا هو تصحيح أي مطالبة من "تحتاج إلى 80% إلى الاستيراد" قواعد الصين الخاصة بمؤهلات التي تستخدمها شركة (موفوك) وحديثة (انظر دليلي فحص الموردين ومشتريات الأسطول)؛ استخدام موقع السنة الحالية بدلا من رقم مدونة أقدم.
@@ -86,19 +86,22 @@ A clocked EV shows an **odometer inconsistent with battery cycle counting and we
   - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T traction-battery cycle-life requirements/test methods | المعيار الوطني الصيني (الهيئة المعنية بالتساوق**) | CN | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | ** مصدق عليه** | إطار اختبار متطلبات القدرة الأولية | 31484
-| IEC 62660-1/2 Lethium-ion cell performance/life testing | Committee International Use (Irit**) | Global | https://www.iec.ch/ (IEC 62660) | 2026-09-03 |тететете  أساس ?
-| GB/T 46991.1-2025 on-board SOH/SOC display accuracy " durability (MIIT/SAC) | الإبلاغ عن طريق التغطية بالمعايير؛ والأساس في قنوات SAC/MIIT | 2026-09-03 | صرخات | يجري توحيد الدقة في التعامل مع الوضع الصحي على حدة (وليس خطاً قانونياً للواردات) |
-| تركيبات سوتش  and  the QC/T 743 80% end-of-life convention | LNC موضح تقني (صناعات) | Global | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE OURCE | صيغة بناء على القدرات في مجال الصحة الإنجابية؛ 80% كإشارات نهاية العمر في الصناعة |
-| | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03. الفقرتان 21 و 21 من المعسكرات
-| 懂车帝 二手车电池检测内容 | 懂车帝（字节跳动） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE OURCE | 20%-80% 充电验证衰减方法 |
-| 懂车帝 二手电车三招排除事故/泡水/调表 | 懂车帝（视频） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE OURCE | 事故 泡水 调表排查方法 电池包护板拆装痕迹 |
-| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar(行业站) | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE OURCE | 出口 SOH≥80% 认证门槛（EU/东盟） |
+| 商务部等《关于二手车出口有关事项的公告》（2024年第6号） | 中华人民共和国商务部（wms.mofcom 子站，与 www.mofcom 归一为同一母机构） | CN（出口监管） | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2024/art_52f62edf8132411fa206542d851edfc7.html | 2026-09-08 | VERIFIED | 出口前第三方检测报告要求、企业条件、禁出情形 |
+| 商务部等《关于支持在条件成熟地区开展二手车出口业务的通知》 | 中华人民共和国商务部 | CN | https://www.mofcom.gov.cn/zfxxgk/gkml/art/2021/art_29ef062444784bd5af9400546a1ecb75.html | 2026-09-08 | VERIFIED | 第三方检测报告制度源头、报废/抵押车辆禁出 |
+| 商务部等四部门《关于进一步加强二手车出口管理工作的通知》 | 中华人民共和国商务部 | CN | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-08 | VERIFIED / TIME_SENSITIVE | 质量与售后责任、售后维修服务确认书 |
+| 中国政府网政策库收录（加强二手车出口管理） | 中国政府网/国务院 | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-08 | VERIFIED | 发布主体、施行时间交叉印证 |
+| 中国汽车流通协会（CADA）二手车鉴定评估技术资料（引 GB/T 30323-2013） | 中国汽车流通协会 CADA | CN | https://www.cada.cn/Content/ueditor/net/upload/file/20180708/6366665897945162707573052.pdf | 2026-09-08 | CROSS_CHECKED | GB/T 30323-2013 框架、SOH 技术定义、事故/泡水/火烧判别 |
+| 易车 — 二手新能源选购核心要点 | 易车 | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-02 | single source | SOH 概念、检测方法 |
+| 懂车帝/抖音 二手 EV 检测视频（20%-80% 充电验证） | 字节系（懂车帝/抖音，归一为 1 个母机构） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | single source | 充电验证衰减方法 |
+| 懂车帝/抖音 二手电车事故/泡水/调表排查 | 字节系（与 SOURCE 07 同母机构） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | single source | 事故/泡水/调表排查、电池护板 |
+| 抖音 电池老化阈值经验 | 字节系（同母机构） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 铁锂/三元老化经验阈值（非法规） |
+| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | GLOBAL（出口） | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | single source | 行业经验参考线（非法定） |
+| 抖音 磷酸铁锂/三元 SOH 警戒线 | 字节系（同母机构，URL 与 SOURCE 09 同族，保留方法出处） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 经验阈值 |
 
-* ملاحظة: ما معايير البطارية (قياس الاتحاد الأوروبي للصحة الحيوانية) اختبار الدورة اتفاقية الهندسة البالغ عددها 80% مثقفة/محطمة المعايير أجساد "سابقاً "سوه 80% مطلوب تصفية الاتحاد الأوروبي/آسيان لم تكن مطالبة التصديق المصدر الرسمي أزيلت: No universal legal SOH عتبة الاستيراد موجودة وسلطة المقصد يجب الحصول على القاعدة لكل بلد استخدام أشرطة الفيديو المزودة بأجهزة التفتيش فقط كمراجع للطريقة ♪
+*Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

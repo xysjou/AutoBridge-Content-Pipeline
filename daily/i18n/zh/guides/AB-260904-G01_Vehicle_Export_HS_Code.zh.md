@@ -68,7 +68,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——车辆分类 HS 87.01-87.05,车辆-出口采购指南
 - **法国**: 汽车出口汽车-车辆分类 HS 87.01-87.05,汽车出口指南
@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国进出口关税(2026),国务院关税委员会. | 财政部(中华人民共和国) | 氯化萘 | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 87.01–87.05/8716 现标题名称 |
-| GACC关于实施2026关税调整方案的公告 | 中国海关总署. | 氯化萘 | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html 维基月球 | 2026-09-04 | 已核实(小学) | 2026 执行基础,年度副标题规则 |
-| 2026 维基月球 · 第87章标题 | i5a6 维基月球 HS 查询系统 | 氯化萘 | https://www.i5a6.com/hsCategory/c17 维基月球 | 2026-09-04 | 横跨 | 导航 |
-| Customs Q&A on electric three-wheelers (8703.80 8704.60) | 海关放行(退职) | 氯化萘 | http://m.toutiao.com/group/7518145509672993315/ 维基月球 | 2026-09-04 | 资源 | 拆分三轮车,8704.6000 |
-* 范围说明:目前的基础是2026关税及其全球协调会执行通知;旧的2018/2020个表不再作为主要基础。 * 报告迟交是因为需要翻译。
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表(含 8703 各子目官方名称) (中文(简体)). | 中国政府网(国务院) (中文(简体)). | 氯化萘 | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf 维基月球 | 2026-09-04 | 实录 | 870340 等子目官方归类名称 混合动力 排量座位分目 (中文(简体)). |
-| 海南零关税交通工具清单(8702 客车电动 混动分目官方名称) (中文(简体)). | 国家税务总局 (北京市税务局) (英语). PDF. | 氯化萘 | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf 维基月球 | 2026-09-04 | 实录 | 870230/870240 大中型 小型客车电动混动分目 (中文(简体)). |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

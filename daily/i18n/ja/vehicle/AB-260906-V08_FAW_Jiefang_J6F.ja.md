@@ -33,7 +33,7 @@ J6Fはモデルバッチ間で複数のエンジンで提供されています�
 
 ## ペイロードとGVWは、発表から来なければならない
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? 評価されるペイロード、kerbの固まりおよび厳密なGVWは固定値としてここに示されていません:それらはシャーシ、タクシーおよびアップフィットと異なり、MIITの発表/適合証明書が必要です。 第二手プラットフォームのペイロードリードは、統一され、除外されたとして扱われました。 作業用トラックのこれらの図 — パンフレットではなく — 法的ローディングを決定します。
+ 評価されるペイロード、kerbの固まりおよび厳密なGVWは固定値としてここに示されていません:それらはシャーシ、タクシーおよびアップフィットと異なり、MIITの発表/適合証明書が必要です。 第二手プラットフォームのペイロードリードは、統一され、除外されたとして扱われました。 作業用トラックのこれらの図 — パンフレットではなく — 法的ローディングを決定します。
 
 ## シャーシ対構造の規準
 
@@ -73,16 +73,16 @@ FOB/CIFの数値は推定されません。 出荷先、数量、シャーシ構
 
 あり、 しかしOEMのシャーシの均質を維持して下さい  and  the local superstructure compliance as two separate approvals.
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/7378317194271228979/ | 发动机、货箱、蓝牌  |
-| J6F 潍柴 WP2.3N 130Ps 国六配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | 日 時 分 | T3 | シングル_ソース | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机、国六  |
-| 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | 日 時 分 | T1 | 検証済み | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 / 在售配置样本 (额定载重区间线索、T4) | 58同城 | 日 時 分 | T4 | 免責事項 | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | アイデンティティ | 正確な発表で N2  GVW  / エンジニア / ペイロード を検証 | 営業終了
-| 卡车之家 解放 J6F 车型库 (独立商用车数据库) | 卡车之家 | CN の | T2 | CROSS_CHECKED(クロス) | http://www.360che.com/ | アイデンティティ — 商用車データベースのクロスチェック、ペイロードは通知ごとに |
-| FAWの特長 トラックグローバル(輸出) | FAWの特長 ジファング | エクスポーター | T1 | CROSS_CHECKED(クロス) | https://www.fawtrucks.com/ | アイデンティティ — 輸出市場参照; 中国 J6F に等しくしないでください |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

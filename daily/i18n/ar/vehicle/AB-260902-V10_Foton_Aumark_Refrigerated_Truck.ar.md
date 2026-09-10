@@ -17,7 +17,7 @@
 
 والرافعة هي في الواقع ثلاث منتجات في واحدة، هي: فوضوية المانح، وصناديق الشحن المزروعة، ووحدة التبريد - التي كثيرا ما يقوم بها مختلف المصنعين. مقارنة "أسعار الشاحنات الكبيرة" بدون تسمية الثلاثة مضللة المركبة المرجعية هي Aumark Jieyun (捷运) 150 PS 4 × 2,الإعلان الكامل عن BJ5041XLC8JDA-AB1 (الفصل BJ1041V9JDA-AB1) مع وجود 4.085 متر;Foton أيضا يبيع سويون (速运) بقوة Foton كوممنز. وأرقام جييون المفصَّلة ذات مصدر واحد (360che)؛ أما تفاصيل كوممن سويون فتتم فحصها مع Foton مادة رسمية.
 
-## Chassis and Driveline
+## الهيكل ونظام الدفع
 
 | البند | مرجع جييون 150 (لكل | 360che
 |---|---|
@@ -37,7 +37,7 @@
 | صندوق الشعاب الجيون | 4.085 × 2.10 × 2.30 m |
 | صندوق سويون | 4.08 × 2.10 × 2.10 m, حوالي 18 متر مكعب** |
 
-ويتوقف أداء الصناديق على سميكة العزل وعملية الفريق (اللوحات الساندويتش، ونوع الرغاوي وكثافة)، وتقدير حجم الأرض، وختم الأبواب، وما إذا كانت البقايا الداخلية لجر مجهزة - وهو أحد الخيارات المدرجة في القائمة هو وجود جثة لحم وحم مطوق. بالنسبة للتصدير، يحدد ما يلي: ويتطلب الأمر تحديد نقطة حرارة داخلية، من الألواح، وطابق طابق طابقي (لوحة خيط الألومنيوم وما إلى ذلك)، وترتيبات للباب، وأجهزة لطخة اللحوم أو الرف. These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  السعر بشكل كبير
+ويتوقف أداء الصناديق على سميكة العزل وعملية الفريق (اللوحات الساندويتش، ونوع الرغاوي وكثافة)، وتقدير حجم الأرض، وختم الأبواب، وما إذا كانت البقايا الداخلية لجر مجهزة - وهو أحد الخيارات المدرجة في القائمة هو وجود جثة لحم وحم مطوق. بالنسبة للتصدير، يحدد ما يلي: ويتطلب الأمر تحديد نقطة حرارة داخلية، من الألواح، وطابقي (لوحة خيط الألومنيوم وما إلى ذلك)، وترتيبات للباب، وأجهزة لطخة اللحوم أو الرف. These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  السعر بشكل كبير
 
 ## وحدة التبريد
 
@@ -98,22 +98,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## المصدر: التحقق
+## Sources & Verification
 
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 reefer parameters) () thoroughly) | CN | http://product.m.360che.com/m441/110460_param.html ; 2026-09-02; ; ; | | | | صرخ صرخ صرخ صرخ صرخ صرخ صرخ مدفع مدفع؛ helicopters ), helicopters, ZF6,, and, and | 360che
-| Ollin official reefer page | فوتون أولين (رسمي) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | مفقود | خيارات محرك الشعاب في منتصف شاحنة، سلسلة من النسيج |
-| قضية تسليم الشعابين | فوتون أولين (رسمي) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | مفقود | 4.2 مليتر من الشعاب "كوممينز 2.8" 18 متر مكعب 3360 دبليو بي بي بي |
-| مقالة أولين ريفر | دونغشيدي (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | صرخات | Cummins 150/163 PS, 470 N·m |
+| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
+| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
+| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
+| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED | Cummins 150/163 PS, 470 N·m |
 
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* مذكرة مصداقية (معيار أوتو بريدج): وتُثبت وقائع على المواد الرسمية وتُفحص على نطاق واسع؛ وتُدرج أرقام إعلانات جييون المفصلة في فئة SINGLE_SOURCE (360che)(). ونماذج وحدة الشعاب المرجانية والسعر تعتمد على البناء وتسجل الأمم المتحدة للأسعار؛ وتتأكد كتابة. 
+*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are single source (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

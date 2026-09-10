@@ -77,20 +77,20 @@ Tidak ada versi RHD yang didirikan oleh sumber pasar Cinese- di sini; RHD eligib
 
 Tidak - harga panduan Cina adalah referensi domestik yang sensitif waktu saja; meminta kutipan ekspor formal dengan lncotarm dan tujuan.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | T3 | SINGLE _ SOURCE | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | T2 | _ BERDECAT | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | T3 | SINGLE _ SOURCE | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T, DCT  |
-| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | T1 | TERBATAI | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸 轴距 4785 x 1869 1469 轴距 2800 | 懂车帝车型参数页 | CHINA | T2 | _ BERDECAT | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Preface debut luar negeri (Arab Saudi) - berita OEM | Geely Auto Global | EXPORT | T1 | TERBATAI | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | Identitas - referensi pasar ekspor saja; Kereta daya Timur Tengah berbeda dari kereta api Cina |
-| 道路机动车辆生产企业及产品公告: 查询入口 | 中华人民共和国工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/datainfo/cpgg/ | identitas - verifikasi tepat Cina homologated model varian oleh VIN pengumuman |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - ** Terakhir ditinjau **: 2026-09-06
-- ** Referensi pasar ** CHINA 中国市场参考规格 出口 右舵版本无 OEM 证据 须另证
+- ** Referensi pasar ** CHINA China-market reference specs 出口 右舵版本无 OEM 证据 verify separately
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Barang yang sensitif waktu (rate, fee, list, trim line- up, harga referensi domestik) harus dikonfirmasi ulang pada halaman resmi sebelum melakukan transakting.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

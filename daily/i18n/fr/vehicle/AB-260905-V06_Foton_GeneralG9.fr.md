@@ -68,17 +68,17 @@ Les commandes de ramassage échouent le plus souvent sur la longueur du lit et l
 **Dimensions de lit long?** Ici, une seule source; vérifier avant de commander.
 ** Quel carburant pour le diesel?** China-VI, 0 # diesel; vérifier la compatibilité avec le carburant de destination.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军 G9 车型百科 | 太平洋汽车百科 | NC | T3 | _CHECTURE | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军 G9 配置 | 太平洋汽车 | NC | T3 | _CHECTURE | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军 G9 车型页 | 太平洋汽车 | NC | T3 | _CHECTURE | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军 G9 参数 | 新浪汽车车型库 | NC | T2 | _CHECTURE | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军 G9 配置库 | 买车网 | NC | T3 | _CHECTURE | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Site officiel de Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | NC | T1 | VÉRIFIER | https://www.foton.com.cn/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

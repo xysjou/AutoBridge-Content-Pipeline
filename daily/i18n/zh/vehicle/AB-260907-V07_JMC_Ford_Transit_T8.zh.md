@@ -1,9 +1,9 @@
 # JMC福特交通T8(泉顺T8):中国-市场上大型货车参考车,绕轮基地,屋顶和货物卷
 ## SEO元数据
-- **SEO标题**: JMC 维基月球 福特交通 T8号 中国市场范氏谱和出口检查 QQ自动包
+- **SEO标题**: JMC  福特交通 T8号 中国市场范氏谱和出口检查 
 - **Meta描述**: JMC型中国市场参考文献. 福特Transit T8型大货车:三台轮式基座,中高屋顶,两条柴油线保持分离,货量,以及为何它与全球福特Transit不完全相同.
 - **H1**: JMC 福特交通 T8 (Quanshun T8): 一种中国-市场大型车型参考车,围绕轮基,屋顶和货物量建造.
-- **核心关键词**: JMC 维基月球 Ford Transit T8 导出规格
+- **核心关键词**: JMC  Ford Transit T8 导出规格
 - **次级搜索词**: 江铃福特全顺 T8; Transit T8 维度; T8 货运量; 2.3T 柴油 8AT 货车; 中国大货车出口; Quanshun T8
 - **建议URL**: /vehicles/jmc-ford-transit-t8/
 - **搜索意图**: 了解JMC 福特转运 T8(Quanshun T8):中国-市场大型货车参考车,绕轮基地、屋顶和货物体积:车辆/零件出口商在承诺订购前必须核实、记录和决定。
@@ -21,7 +21,7 @@ JMC福特T Transit T8(江铃福特全顺 T8)是中国江林汽车公司制造的
 | 配置 | 参考层面 | 轮式基地 | 信心 |
 |---|---|---|---|
 | 中型轮式基地,中型屋顶(实例) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| 长轮基地、高架货物 | 5998×2164×2775 mm;. 内装货物 ≈ 3.5×1.83×1.98米; 量 ≈ 13立方米 | 长 | SINGLE_SOURCE |
+| 长轮基地、高架货物 | 5998×2164×2775 mm;. 内装货物 ≈ 3.5×1.83×1.98米; 量 ≈ 13立方米 | 长 | single source |
 
 5998 mm长度相当大: 在许多市场上,它位于轻商业驾驶证边界,因此买方在订购最长版本之前,应确认目的地许可类别和车辆总质量。 货物内饰尺寸  and  the ≈13 m³ volume are single-source  and  应在设计转换之前,对照联合军委会官方的建身/配置数据确认。
 
@@ -29,8 +29,8 @@ JMC福特T Transit T8(江铃福特全顺 T8)是中国江林汽车公司制造的
 
 | 行线 | 中国市场参考文献. | 齿轮 | 信心 |
 |---|---|---|---|
-| 2.3T型柴油机(2025型). | 128 kW (174 PS) / 430 N·m | 8-speed自动(8AT) | SINGLE_SOURCE — —由VIN/OEM确认|
-| 2.0T型柴油 | 单独、低产出的柴油线 | 6-speed 手册(6MT) | SINGLE_SOURCE — separate line|
+| 2.3T型柴油机(2025型). | 128 kW (174 PS) / 430 N·m | 8-speed自动(8AT) | single source — —由VIN/OEM确认|
+| 2.0T型柴油 | 单独、低产出的柴油线 | 6-speed 手册(6MT) | single source — separate line|
 
 2.3T 8AT和2.0T 6MT是针对不同工作周期的特异性动力网; 不得将其平均或显示为“T8”引擎。 后轮驱动器是基座布局,在选定的配置上提供了4WD个——明确命名驱动列车. 确切产出目前仅依靠单一的独立来源,在签订合同之前,应对照联合军委会的正式规格或MIIT同化条目予以关闭; a 还必须检查目的地燃料等级和排放级接受程度。
 
@@ -62,7 +62,7 @@ JMC福特T Transit T8(江铃福特全顺 T8)是中国江林汽车公司制造的
 
 Three wheelbases (3000/3300/3750 mm) with medium  and  高的屋顶, 客运  and  货物体——具体说明确切的组合.
 
-**What is the largest cargo version?**
+**最大的货运版本是哪一款？**
 
 长高架货运参考5998×2164×2775 mm,内部约3.5×1.83×1.98米.  and  ≈13 m³ (single-source, 正式确认).
 
@@ -78,16 +78,16 @@ Three wheelbases (3000/3300/3750 mm) with medium  and  高的屋顶, 客运  and
 
 中国市场货车为LHD;RHD和出口规格要求单独提供OEM证据,不得从中国线路推断.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

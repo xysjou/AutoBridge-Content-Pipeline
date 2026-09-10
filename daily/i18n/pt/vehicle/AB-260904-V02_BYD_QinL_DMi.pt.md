@@ -33,7 +33,7 @@ O Qin L DM-i é um saloon híbrido de tamanho médio construído na arquitetura 
 Um comprador de PHEV precisa de quatro respostas em ordem: **motor, motor de acionamento, bateria, modo de carregamento/operação**. Aqui o motor dedicado 1.5L gera/assistentes principalmente acionamento através de uma DHT de velocidade única; o driver alterna entre modos elétrico e híbrido em vez de mudanças de marcha. Combine a versão da bateria com o intervalo elétrico em cada linha de ordem.
 
 ## A reivindicação de alcance — Mantenha a etiqueta do fabricante anexada
-- The 80/120 km figures are **CLTC** electric range.
+- Os valores 80/120 km são a autonomia elétrica **CLTC**.
 - Um título combinado de aproximadamente ** 2100 km em um tanque cheio e carga total** aparece na cobertura chinesa como um número**** fabricador-aclamado. Deve ser rotulada como uma alegação de fábrica, nunca apresentada como resultado medido, e não é comparável a um número de ciclo de destino.
 
 ## Corpo e cabine
@@ -59,7 +59,7 @@ Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca 
 
 ## Perguntas Mais Frequentes
 **Qual é a diferença entre o Qin L DM-i 80 e 120 Capacidade da bateria (10.08 vs 15.87 kWh) e faixa elétrica CLTC (80 vs 120 km), além de etapas do equipamento - especificar a versão na ordem.
-**Is the 2100 km range a tested figure?** No; Trata-se de um valor de carga total do tanque, reclamado pelo fabricante, e deve ser rotulado como tal.
+**A autonomia de 2100 km é um valor medido?** Não; trata-se de um valor de autonomia combinada com tanque cheio declarado pelo fabricante, e deve ser rotulado como tal.
 ** Que ciclo de ensaio é utilizado? Os números chineses são CLTC; não os apresentam como WLTP ou NEDC.
 **O conector de carregamento chinês funciona no exterior?** Não automaticamente — o hardware GB/T deve ser verificado com o conector de destino.
 
@@ -89,21 +89,21 @@ Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca 
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tabela mestre do parâmetro Qin L DM | Base de dados dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensões, distância entre eixos, bateria, DHT, peso, tanque |
-| Configuração do DM Qin L | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensões, intervalo CLTC |
-| Qin L DM-i 2024 120km Aparas de chumbo | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, referência de preços no mercado interno |
-| Gama DM de quinta geração e análise de uso de combustível | Auto- casa·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | FONTE ÚNICA | Motor dedicado, tempo de carga rápida, gama combinada reivindicada |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 38031 requisitos de segurança da bateria de tração (GB 38031-2025; novas aplicações de tipo obrigatório a partir de 2026-07-01) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFICADO | Base obrigatória de segurança da bateria de tracção para o grupo elétrico |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFICADO | Base de requisitos de segurança elétrica/funcional do veículo elétrico |
-| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Nota de confiança: dimensões e etapas de alcance são cruzados entre duas bases de dados; detalhe do motor, tempo de carga rápida e a reivindicação de 2100 km são de fonte única/factory-afirmado. Nenhuma página OEM no exterior capturada — apenas referência ao mercado chinês. *
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

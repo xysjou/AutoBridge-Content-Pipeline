@@ -19,8 +19,8 @@ Der Interstellar T90 (Xingji T90, früher MAXUS T90 in China) ist der mittelgro�
 | Position | Referenzwert für den chinesischen Markt | Markt MY Trim | Vertrauen |
 |---|---|---|---|
 | Bauarbeiten | Aufbau-on-frame (nicht tragend) Mittelklasse-Abnehmer, Doppelkabine | CHINA · Gegenübergestellt | CROSS_CHECKED |
-| Standardradstand | ≈ 5365 × 1960 × 1845 mm, WB 3155; Bett ≈ 1485 × 1510 × 530 mm | CHINA · Single-Source, bestätigen | SINGLE_SOURCEN |
-| Langer Radstand | ≈ 5680 × 1960 × 1845 mm, WB 3470; Bettlänge ≈ 1800 mm | CHINA · Single-Source, bestätigen | SINGLE_SOURCEN |
+| Standardradstand | ≈ 5365 × 1960 × 1845 mm, WB 3155; Bett ≈ 1485 × 1510 × 530 mm | CHINA · Single-Source, bestätigen | single sourceN |
+| Langer Radstand | ≈ 5680 × 1960 × 1845 mm, WB 3470; Bettlänge ≈ 1800 mm | CHINA · Single-Source, bestätigen | single sourceN |
 
 Standard- und Langbettversionen sind unterschiedliche Gesamtlängen und Radstände, so dass die Länge der Ladebox und der Fahrzeugstandplatz auf die Bestellung abgestimmt sein müssen; Die Durchführbarkeit der Container- RoRo-Verladung hängt auch davon ab, welche Karosserie gewählt wird. Diese Dimensionen sind Single-Source-Single-Source-Single-Source-Single-Source-Single-Source-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-Single-S
 
@@ -68,16 +68,16 @@ Etwa 1485 mm (Standard) oder 1800 mm (langer Radstand); Single-Source-Zahlen auf
 
 Nein — nur der chinesische Diesel; das EV ist ein separates Produkt mit unterschiedlichen Spezifikationen und Versandregeln.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCEN | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
-| 星际 T90 标 长轴尺寸 (标轴 5365 × 1960 × 1845 WB3155 货箱 1485; 长轴 5680 WB3470 货箱 1800) | 汽车之家 · 车家号 | CHINA | T3 | SINGLE_SOURCEN | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像) | CHINA | T3 | SINGLE_SOURCEN | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | T3 | SINGLE_SOURCEN | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, Schleppen — Ausfuhren | SAIC MAXUS Global | AUSFUHR | T1 | ÜBERPRÜFUNG | https://en.saicmaxus.com/car/t90.shtml | Identität — GLOBAL/Export-Spezifikation; NICHT mit den Werten des chinesischen Marktes 星际 T90 gleichzusetzen |
-| 上汽大通 MAXUS T90 中国官方 (配置 价格) | SAIC MAXUS China | CN | T1 | ÜBERPRÜFUNG | https://www.maxusmall.com/T90.shtml | Engine_diesel — offizielle Konfigurationen auf dem chinesischen Markt und Referenzpreis auf dem Inlandsmarkt |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — homologiert China Pickup Variante |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

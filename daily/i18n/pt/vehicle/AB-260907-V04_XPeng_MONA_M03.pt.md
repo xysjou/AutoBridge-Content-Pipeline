@@ -24,10 +24,10 @@ O XPeng MONA M03 é o compacto sedan elétrico de cinco lugares da XPeng, lança
 
 | Elemento | Valores de referência do mercado chinês | Confiança / nota |
 |---|---|---|
-| Capacidade da bateria | Embalagens de LFP de ** 51.8 kWh ** e ** 62.2 kWh ** | SINGLE_SOURCE — confirme com o XPeng, não assevere um fornecedor fixo|
-| Intervalo CLTC | ** 515 / 502 / 620 / 600 km **, cada um amarrado a uma combinação específica de bateria + motor | SINGLE_SOURCE — nunca igualar a WLTP/EPA|
-| Motor (PMSM frontal) | ** 140 kW (190 PS) / 225 N·m ** e ** 160 kW (218 PS) / 250 N·m ** | SINGLE_SOURCE |
-| Claimed 0–100 km/h | ** 7.8 s / 7.4 s** para os respectivos níveis motores | SINGLE_SOURCE|
+| Capacidade da bateria | Embalagens de LFP de ** 51.8 kWh ** e ** 62.2 kWh ** | single source — confirme com o XPeng, não assevere um fornecedor fixo|
+| Intervalo CLTC | ** 515 / 502 / 620 / 600 km **, cada um amarrado a uma combinação específica de bateria + motor | single source — nunca igualar a WLTP/EPA|
+| Motor (PMSM frontal) | ** 140 kW (190 PS) / 225 N·m ** e ** 160 kW (218 PS) / 250 N·m ** | single source |
+| Claimed 0–100 km/h | ** 7.8 s / 7.4 s** para os respectivos níveis motores | single source|
 
 Os quatro números de alcance não são aparas intercambiáveis: cada um pertence a um determinado pareamento de bateria e motor. Uma citação que diz " M03, 620 km " sem nomear o pacote 62.2 kWh eo motor de correspondência está incompleto, e emparelhando a faixa 620 km com o motor 140 kW seria um erro de matriz. Construa uma linha de três colunas — bateria → CLTC range → motor — para o SKU exato e feche-o contra a folha de configuração oficial do XPeng. O pico de potência e tempo de carga de carga rápidas são **não** declarados aqui porque nenhuma figura oficial exata-trim foi capturada; obtê-los do OEM para a versão específica em vez de copiar uma revisão.
 
@@ -73,19 +73,19 @@ Cd 0.194; o 2025 carro tem 4780 mm de comprimento em uma distância de roda 2815
 
 A compatibilidade padrão de carregamento chinês e qualquer construção RHD/exportação exigem provas separadas do OEM; não as presumam da especificação da China.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
-| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
-| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
-| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
-| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | primary | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | media/industry | single source | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-08
-- **Mercado de referência**: CHINA(中国市场参考; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核)
+- **Mercado de referência**: CHINA(China-market reference; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方final confirmation)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Os mapeamentos de bateria/intervalo/motor de fonte única, a compatibilidade padrão de carregamento e os preços de referência nacionais devem ser confirmados na folha OEM ou entrada MIIT antes de efetuar a transação.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

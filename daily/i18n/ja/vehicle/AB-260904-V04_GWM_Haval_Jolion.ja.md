@@ -36,7 +36,7 @@
 
 ## 市場をブレンドすることなく選ぶ方法
 1. 問い合わせが**中国語 1.5T 行であるかどうかを決定**、**海外 1.5T **、または**海外のHEV**は、任意の番号を読んだ前に。
-2. あらゆるパワートレインと貨物の図に市場ラベルを取り付けます。 210 N·m 7DCT 税 税 税 税 税 税 税 税 税  税 税 税  税  税  税  税  税   税      税     税   税                                  税          分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分   and  430/1130 L are Australian, ・・・190 PS/375 N·m HEVは海外専用
+2. あらゆるパワートレインと貨物の図に市場ラベルを取り付けます。 210 N·m 7DCT 税          分   and  430/1130 L are Australian, ・・・190 PS/375 N·m HEVは海外専用
 3. VIN(VIN/ネームプレートガイドを参照)に対するレコードエンジン、電力、伝送。中国1.5Tユニットは、PI上でHEVまたはオーストラリア仕様を運ぶ必要はありません。
 4. ステアリング側と目的地の均質化を確認します。中国LHD 1.5T車は、購入者の市場でRHDまたはHEVの可用性の証拠ではありません。
 5. 名前のアイデンティティはOEM混同ですが、パワートレインは市場固有のため、クロスマーケットの同等性を想定するのではなく、正確なVINの**工場ビルドシート/OEMモデルコードマッピングを要求します。
@@ -83,23 +83,23 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM の企業歴(中国海外版=JOLION、南アフリカ/サウジアラビア、HEV タイ) | 大きい壁モーター(OEM) | ブランド HQ | 以下は、のサイトをリニューアルしました。 | 2026-09-04 | 検証済み(プライマリ) | サム・モデラー ベースアイデンティティ | https://www.gwm.com.cn/history.html
-| ヘイヴァルチュリアン1.5Tオートパラメータ | シエナオートデータベース | CN の | 以下は、 https://db.auto.sina.cn/car/50026/ の | 2026-09-04 | シングル_ソース | 中国の次元、1.5T、110 kWのホイールベース |
-| オーストラリアのジョリオン1.5Tの電力と寸法 | テンセント(レビューを投稿) | ユウ | 担当: http://news.qq.com/rain/a/20210717A03BJX00 のファイル | 2026-09-04 | SINGLE_SOURCE(海外) | 210 N·mの 7DCTの  430/1130 L — AU only |
-| ジョリオン・プロ・ハイフ・オーストラリア・ローンチ | オートホーム・ケジアオ | ユウ | 以下は、 https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE(海外) | 海外HEVシステム |
-| ジョリオン 2025 ベトナム (海外拠点) | iFeng自動 | サインイン | 以下は、 https://auto.ifeng.com/c/8ggPMnGNmuJ の | 2026-09-04 | SINGLE_SOURCE(海外) | 海外HEV腐食 |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GWM corporate history (Chulian overseas version = JOLION, South Africa/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Brand HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primary) | SAME_MODEL base identity |
+| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | single source | Chinese dimensions, 1.5T, 110 kW, wheelbase |
+| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | single source (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
+| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | single source (overseas) | Overseas HEV system |
+| Jolion 2025 Vietnam (overseas HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | single source (overseas) | Overseas HEV corroboration |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-※本展は、研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究 GWM OEM(SAME_MODEL)が基本レベルで認証する名前のアイデンティティ。中国トルク/トランスミッション値はブロックされています(オーストラリアのソースのみ)、中国仕様と記載されていません。海外のHEVは市場ラベルを厳密に保持しました。 輸出価格無し。 ふりがな
+*Confidence note: RESEARCH_CONDITIONAL. Name identity VERIFIED by GWM OEM (SAME_MODEL at base level); Chinese torque/transmission values are BLOCKED (only an Australian source exists) and are not stated as Chinese specs; overseas HEV kept strictly market-labelled. No export price.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国1.5T 中国;AU 1.5TとHEV
 - **検証方法**:OEM-confirmed名アイデンティティ;市場/トリム/パワートレイン分離;中国トルク/ギアボックスブロック中国第二ソースを保留

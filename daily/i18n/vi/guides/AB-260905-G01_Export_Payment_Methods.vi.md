@@ -42,20 +42,20 @@ Chia T/T an toàn là gì? Một khoản tiết kiệm sản xuất và cân b�
 **Tôi có nên chấp nhận O/A cho người mua đầu tiên không? Thường thì không phải là không có bảo hiểm tín dụng, bảo đảm hoặc mối quan hệ đã được thiết lập.
 ** UCP600 có đè lên hợp đồng của tôi không? Không — UCP600 chi phối công trạng khi kết hợp; hợp đồng bán hàng và nội dung vẫn đặt ra thỏa thuận.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款: 信用证法律逻辑与风险防线 (二) | 东莞市人民政府 (转国际经贸业务) | CN | T1 | VEII | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销. 信用证分类与风险 |
-| 信用证核心特点 (UCP600 第二条定义) | 东莞市贸促会 (CCPIT) | CN | T1 | VEII | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用. 相符交单 |
-| 国际贸易单证业务 (教材), 流程佐证) | 清华大学出版社 | CN | T3 | ĐÃ_ ĐÃ | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| Phòng thương mại quốc tế (ICC) | Phòng thương mại quốc tế | CN | T1 | VEII | https://iccwbo.org/ | Nhà xuất bản UCP600 và nội quy; khuôn khổ có thẩm quyền về tài chính thương mại |
-| Bảo hiểm & tín dụng Trung Quốc (SINOSTY) — bảo hiểm xuất khẩu tín dụng ngắn hạn | Tập đoàn bảo hiểm tín dụng & xuất khẩu & Trung Quốc (SINOSTOR 中国信保) | IN/CN | T1/T2 | VEII | https://www.sinosure.com.cn/ | Mở quang (O/A) và phim tài liệu hóa (D/P) rủi ro không thể xảy ra; xuất khẩu bối cảnh bảo hiểm tín dụng cho sự lựa chọn thanh toán |
-| Hội đồng Trung Quốc về sự phát triển của thương mại quốc tế (CCPIT) | Hội đồng Trung Quốc về sự phát triển của thương mại quốc tế (CCPIT 中国贸促会) | CN | T1/T2 | VEII | https://www.ccpit.org/ | Cơ quan thương mại-sự hỗ trợ thương mại: L/C và sự hướng dẫn thương mại và chứng thực; khác biệt với sự sinh sản của chính phủ địa phương |
-| ICC Giải pháp tài chính thương mại (UG 600 URC 522 URDG sở hữu) | Phòng thương mại quốc tế | I - MI | T1/T2 | VEII | https://iccwbo.org/business-solutions/trade-finance/ | ICC là người đặt ra quy tắc cho L/C (UP 600, bộ sưu tập (URC 522) và đảm bảo (URDG); trang sâu hơn trang chủ |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05
-- **Trible market**: 通用 (国际结算框架, 非单一国家法规)
+- **Trible market**: General (international-settlement framework, not a single-country rule)
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 

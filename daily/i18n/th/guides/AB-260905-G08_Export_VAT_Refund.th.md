@@ -14,7 +14,7 @@
 - **ขอบเขต Schema**: บทความ (ไม่มี Prodult/ Offer/ Review)
 
 ## สองวิธี ตรงกับรูปแบบ enterprise
-การจัดเรียงของ VAT การส่งออกของประเทศจีน ใช้สองวิธีหลัก A* valuesion/ manfactivation Profile ~ ปรับใช้ ** ใช้งาน- exportation- expended - (免抵退) ~: ส่งออก VAT ถูกปฏิเสธ การนําเข้าจะถูกยกเว้น access VAT และ accessed ได้คืนค่า A~ enteral-translation/commercial Profile ~ ที่ซื้อและขายเพื่อส่งออกโดยทั่วไป ใช้ได้กับ~ expression-refined (免退) *: การส่งออกได้รับการยกเว้น และ VAT ที่เข้าได้นั้นได้รับการคืนค่า การใช้วิธีการผิดสําหรับชนิดขององค์กร เป็นข้อผิดพลาดพื้นฐาน
+การจัดเรียงของ VAT การส่งออกของประเทศจีน ใช้สองวิธีหลัก A* valuesion/ manfactivation Profile ~ ปรับใช้ ** ใช้งาน- exportation- expended - (exemption-credit-refund) ~: ส่งออก VAT ถูกปฏิเสธ การนําเข้าจะถูกยกเว้น access VAT และ accessed ได้คืนค่า A~ enteral-translation/commercial Profile ~ ที่ซื้อและขายเพื่อส่งออกโดยทั่วไป ใช้ได้กับ~ expression-refined (exemption-refund) *: การส่งออกได้รับการยกเว้น และ VAT ที่เข้าได้นั้นได้รับการคืนค่า การใช้วิธีการผิดสําหรับชนิดขององค์กร เป็นข้อผิดพลาดพื้นฐาน
 
 ## ลําดับการคํานวณและการจัดเก็บ
 ระยะเวลาที่คืนคืนหรือค่าบัญชีคํานวณมาจากยอดขายส่งออก ภาษีนําเข้าที่น่าเชื่อถือ และอัตราการคืนค่าคืนที่ใช้ได้ การติดตามเหตุการณ์ส่งออก: หลังจากประกาศเรื่อง ศุลกากรและมีการจับคู่ข้อมูลใน ใบแจ้งหนี้ FX และข้อมูลการแจ้งข้อมูล enterprise หมดภายในช่วงเวลาที่กําหนดแล้ว จะเป็นการตรวจสอบและเขียนลงแฟ้ม เอกสารต้องผนวกเข้ากับศุลกากร ภาษีและ FX
@@ -26,7 +26,7 @@
 การ ส่ง ออก รถยนต์ แบบ ล่า ช้า ไม่ ค่อย จะ เป็น เรื่อง เกี่ยว กับ อัตรา ดัง กล่าว; มี บันทึก ประมาณ สาม เรื่อง เล่า เล่า เรื่อง ที่ ต่าง กัน. อย่างแรก นามสกุล ปริมาณ และรหัสเอชเอส ในใบแจ้งหนี้พิเศษของ VAT ต้องตรงกับการประกาศศุลกากรและบิลค่าธรรมเนียม -- รถบรรทุกที่บรรยายในใบแจ้งหนี้ด้วยชื่อเล่นการค้า แต่ประกาศภายใต้รหัสอื่น ๆ ที่ใช้ในระบบการค้า ทําลายอํานาจภาษีที่เปรียบเทียบกับข้อมูลศุลกากร ข้อสอง -- การไหลของกระแสเงินต้องตรงกับสินค้าที่ไหลอยู่ *: ใบเสร็จ FX ส่งออกควรปรับให้ตรงกับค่าที่ระบุไว้ และค่าคู่ปรับที่สอดคล้องกัน ซึ่งเป็นเหตุผลที่ว่า ทําไมการชําระเงินและบันทึกการชําระหนี้ FX-Setlection ไม่สามารถถูกมองว่าเป็นเอกสารที่ไม่เกี่ยวข้องได้ ข้อสาม การเข้าหาต้องสอดคล้องกันภายในระบบ * — แถลงการณ์ การจากไป และใบเสร็จควรลําดับที่สมเหตุสมผล สําหรับผู้ซื้อชาวต่างประเทศเหล่านี้ เพราะผู้ส่งออกชาวจีน ที่เงินอุดตันในพื้นที่สอดคล้อง อาจชะลอการสั่งซื้อหรือเปิดราคาเพื่อเรียกภาษีการนําเข้าที่ผูกขึ้นอีกครั้ง การยืนยันชนิดขององค์กร, การจําแนกประเภท HS และว่าใน USD-LOX บันทึกการตกลงเป็นคําถามที่เกี่ยวกับ การจ่ายเงินล่วงหน้าถูกต้องตามกฏหมาย
 
 ## รายการที่เรียกดู
-1. ชนิดขององค์กรระบุ และวิธีที่ถูกต้อง (免抵退 vs 免退).
+1. ชนิดขององค์กรระบุ และวิธีที่ถูกต้อง (exemption-credit-refund vs exemption-refund).
 2. จัดลําดับรหัส HS และดูอัตราเงินคืนที่ซ้ํากัน
 3. รวบรวมการแถลงข่าวพิเศษ VAT ในใบแจ้งหนี้และหลักฐานที่ X-receipt เพื่อให้พวกเขากลับมาคืนดีกัน
 4. แฟ้มภายในช่วงเวลากําหนดค่า; เขียนลงแผ่นสมบูรณ์
@@ -36,22 +36,22 @@
 ไม่มีอัตรา, จํานวนเส้นตายแบบเกินขนาด หรือจํานวนที่ระบุตัวพิมพ์ได้ตรงนี้ ทั้งหมดเป็น HS และเวลาจํากัด และแหล่งกําเนิดจาก STA/MOF แจ้งให้ทราบปัจจุบัน
 
 ## ขนาด FAQ
-~โรงงานใช้วิธีการใด ~ ทั่วไปยกเว้น - เงิน - งบประมาณ (免抵退).
-~บริษัทซื้อขายใช้อะไร ~ ทั่วไปยกเว้น - ลงทุน (免退).
+~โรงงานใช้วิธีการใด ~ ทั่วไปยกเว้น - เงิน - งบประมาณ (exemption-credit-refund).
+~บริษัทซื้อขายใช้อะไร ~ ทั่วไปยกเว้น - ลงทุน (exemption-refund).
 "เงินคืนสําหรับรถคืออะไร" มาตรา HS และการเปลี่ยนแปลง สืบค้นตามรหัสที่แน่นอน ที่ไม่ได้ระบุไว้ที่นี่
 ~ฉันยื่นแฟ้มเมื่อไหร่~ หลังจากการส่งออกเป็นเอกสารที่เข้าคู่กับเอกสารแล้ว โดยอยู่ในช่วงที่กําหนดให้ใช้อยู่ในปัจจุบัน
 ~ทําไม FX และศุลกากรต้องตรงกัน~
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | เปิดใช้งาน | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | เปิดใช้งาน | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
-| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | เปิดใช้งาน | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| คณะกรรมการภาษีรัฐ (STA) | STA 国家税务总局 | CN | T1 | เปิดใช้งาน | https://www.chinatax.gov.cn/ | หมดอายุของ VAT |
-| CAAC — ก ก ก า ก ก ก า า า า า า ร ท ท ท ท ท ท ท ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ่ ่ ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร VAT | กรมศุลกากรของจีน (海关总署 GCCC) | CN | CN | T1/T2 |       เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ เ เ เ เ เ เ เ เ เ เ PS(103). ง3838สิิิิิท ท ท ท ิ ์ ง อ ง ก ก ก ก ก ก ก ก ส ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ง ่ ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ภ ภ า ภ า ี ี ี ี ี ี ี ี ี ี ี ี  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application  application ี  application  application  application  application  application  application  application  application  application  application  application  application ○
-| STA — ดัชนีนโยบายการคืนค่าคืนของ STAT (หน้าลึก) | State Taxation Administration (国家税务总局 STA) | CN | T1/T2 | เปิดใช้งาน | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | คอลัมน์นโยบายการเสียภาษีที่จะดําเนินการส่งออก VAT การลบจดหมาย (ไม่ยืนยันอัตราการลดโทษที่นี่) |
+| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, exemption-credit-refund申报资料 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | primary | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | exemption-credit-refund/exemption-refund税办法定义 |
+| 出口货物劳务exemption-credit-refund税和exemption-refund税如何计算 | 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
+| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | primary | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
+| State Taxation Administration (STA) | STA 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
+| GACC — export declaration as VAT-refund verification basis | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility |
+| STA — export VAT refund policy index (deep page) | State Taxation Administration (国家税务总局 STA) | CN | primary/independent | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here) |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

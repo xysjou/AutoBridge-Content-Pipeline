@@ -48,19 +48,19 @@ Pembeli Van harus memperbaiki pangkalan roda, tinggi atap, jumlah kursi (penumpa
 Berapa kursi? Ini berkisar di seluruh versi (3–17); menentukan membangun yang tepat.
 Kenapa tak ada daftar daya ISF2.8 penuh? Matriks varian membutuhkan kunci OEM; telah ditahan.
 Apakah van pendingin model pabrik? Ini adalah konversi upfit pada chassis Toano.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+**Jarak sumbu apa untuk minibus?** Pilih dari 3070/3510/3750 mm sesuai tata letak.
 ** Dimana GVW angka? ** Tidak dapat diandalkan ditangkap; diperoleh dari homologation.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条: 仅线索: T4 不作关键事实唯一依据 | 抖音百科 | CN | T4 | _ BERDECAT | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | _ BERDECAT | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | _ BERDECAT | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装: 上装 | 大众网机械 | CN | T3 | _ BERDECAT | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装 非原厂 VAN 参数 |
-| Situs resmi Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | TERBATAI | https://www.foton.com.cn/ | merek model-baris identitas dan Otoritas OEM |
-| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN pengumuman |
-| Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

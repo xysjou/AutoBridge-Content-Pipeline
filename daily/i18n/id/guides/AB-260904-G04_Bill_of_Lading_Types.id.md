@@ -14,7 +14,7 @@
 - **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Masalah pengadaan adalah Cargo Control, bukan pekerjaan kertas
-Pengharapkan memperlakukan bill-of-lading pilihan sebagai dokumentasi. Ini adalah ** payment -risk Keputusan saat Anda bergerak dari negosiasi asli RUU untuk rilis telex atau laut yang berlayar dengan mudah. Anda berubah ketika Anda berhenti mengendalikan kendaraan di tujuan. Panduan ini berpasangan empat instrumen 'perilaku bisnis dengan ** saat ini Cina dasar tulang punggung ** - * Kode Maritim PRC *, ** direvisi pada 2025-10-28 oleh sesi 18th dari 14th NPC Berdiri Komite (Presiden Order No. 58), dalam kekuatan dari 2026-05-01 (16 bab, 310 artikel) * - dan maka cocokkan metode ke istilah pembayaran. Carrier / port-specific telex rules and biaya tetap berjalan - spesifik dan tidak dinyatakan sebagai nilai tetap.
+Perlakukan pilihan bill-of-lading sebagai keputusan dokumentasi. Ini adalah **keputusan risiko pembayaran** saat Anda berpindah dari negosiasi bill of lading asli ke rilis telex atau sea waybill. Anda mengubah momen ketika berhenti mengendalikan kendaraan di tujuan. Panduan ini memasangkan empat instrumen dengan **kerangka hukum Tiongkok terkini** — *Kode Maritim RRT*, **direvisi 2025-10-28 oleh sesi ke-18 Komite Tetap KPK ke-14 (Perintah Presiden No. 58), berlaku sejak 2026-05-01 (16 bab, 310 pasal)** — lalu cocokkan metode dengan syarat pembayaran. Aturan dan biaya telex spesifik pengangkut/pelabuhan tetap spesifik dan tidak dinyatakan sebagai nilai tetap.
 
 ## Empat Instrumen Sisi demi Sisi
 | Metode | Siapa yang mengeluarkan | Bagaimana consignee mengambil pengiriman | Shipper memegang dokumen kertas judul? |
@@ -85,19 +85,19 @@ Kode Maritim merevisi persediaan arsitektur hukum di balik perbedaan-perbedaan b
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Kode Maritim PRC (2025 revisi, Perintah Presiden 58, dalam gaya 2026-05-01) teks lengkap | Komite NPC Standing | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | TERBATAI (primer) | Seni. 80/81/87, versi dan tanggal efektif |
-| Asli B L telex Sea Waybill menjelaskan | "Netease business wiki" | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | _ BERDECAT | MBL SWB telex definisi |
-| RUU Master vs rumah | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | _ BERDECAT | MBL HBL rantai, praktek kendaraan |
-| Jenis rilis metoda dan B L | industri pengetahuan | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | _ BERDECAT | Perbandingan metode empat | 11467
-| Empat metode rilis dan telex risiko (Amerika Selatan catatan) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE _ SOURCE | Batas tagihan, penerimaan port |
-| International transport barang konvensi dan model hukum | UNCITRAL | INT 'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | TERBATAI | Kerangka kerja hukum yang sama untuk dokumen kereta (Hague- Visby Hamburg Rotterdam konteks) |
-| Dokumen pengiriman standar dan referensi clause | BIMCO | INT 'L | https://www.bimco.org/ | 2026-09-05 | TERBATAI | Komistry- standar maritim referensi dokumen clause |
-| Dokumen transportasi FIATA dan praktek pembebas | International Federation of Freight Forwarders (FIATA) | INT 'L | https://fiata.org/ | 2026-09-05 | TERBATAI | Forwarder dokumen (FBL FCR) praktek membedakan pembawa B L |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-* Catatan kepercayaan: terikat tulang punggung VERIFIED melalui NPC penuh teks 2025 revisi (dalam gaya 2026-05-01); definisi bisnis crosse; biaya pembawa / port penerimaan tetap voyagespesifik. ♪
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

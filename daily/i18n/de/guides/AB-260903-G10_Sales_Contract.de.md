@@ -13,7 +13,7 @@
 - **Schema-Umfang**: Artikel (kein Produkt/Angebot/Preis/Bewertung/Rating)
 
 ## Für wen das ist
-Ein erstmaliger Fahrzeugexporteur unterzeichnet oft einen Vertrag über Preis und Menge, dann entdeckt er den Vertrag, der nie festgelegt wurde ** wenn das Risiko besteht, wer vor der vollständigen Zahlung den Titel innehat oder wo ein Streitfall gehört wird **. Dieser Leitfaden zeigt die Klauseln, die diese Ergebnisse steuern. VR China Civil Code Art. 596 wird hier durch **Sekundär-Rechtsportale (FindLaw etc.) beschrieben, die sich auf CROSS_ beschränken CHECKED/SINGLE_SOURCE**; VERIFIED würde den offiziellen Zivilgesetzbuchtext von einer NPC/Regierungsquelle erfordern. Der Rest ist die Synthese von Rechtspraxis. ** Eine Vorlage ist keine Rechtsberatung - lassen Sie einen qualifizierten Anwalt den ausgeführten Vertrag nach dem gewählten Recht überprüfen. **
+Ein erstmaliger Fahrzeugexporteur unterzeichnet oft einen Vertrag über Preis und Menge, dann entdeckt er den Vertrag, der nie festgelegt wurde ** wenn das Risiko besteht, wer vor der vollständigen Zahlung den Titel innehat oder wo ein Streitfall gehört wird **. Dieser Leitfaden zeigt die Klauseln, die diese Ergebnisse steuern. VR China Civil Code Art. 596 wird hier durch **Sekundär-Rechtsportale (FindLaw etc.) beschrieben, die sich auf CROSS_ beschränken CHECKED/single source**; VERIFIED würde den offiziellen Zivilgesetzbuchtext von einer NPC/Regierungsquelle erfordern. Der Rest ist die Synthese von Rechtspraxis. ** Eine Vorlage ist keine Rechtsberatung - lassen Sie einen qualifizierten Anwalt den ausgeführten Vertrag nach dem gewählten Recht überprüfen. **
 
 ## Klausel Block 1 — Die wesentlichen Inhalte (Zivilgesetzbuch Art. 596)
 Nach Artikel 596 des Zivilgesetzbuches der VR China** sollte ein Kaufvertrag Folgendes umfassen:** Name, Menge, Qualität, Preis, Zeit/Ort/Leistungsmethode, Verpackung, Inspektionsnormen und -methode, Abrechnung und die Bestimmungen in der effektiven Sprache/Text**. Übersetzt für einen Fahrzeug-Deal ist das Minimum:
@@ -83,17 +83,17 @@ Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Soft
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| VR China Zivilgesetz Art. 596 Kaufvertragsklauseln | FindLaw (Rechtsportal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statutischer Artikel wird über ein sekundäres Rechtsportal zitiert; keine offizielle NPC-Quelle) | Wesentlicher Vertragsinhalt |
-| Modell des Exportfahrzeug-Verkaufsvertrags (Risiko-/Titelbindung) | Legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risikoübertragung; Eigentumsvorbehalt; Offenlegung der Bedingungen | 110ask
-| Kernklauseln für den Kaufvertrag (Verstoß/Titel/Konfigurationsliste) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, Claim-Fenster, Konfigurationsanhang |
-| Ausfuhrvertrag Incoterms/Disputes/Apostille | Gütertransportgut | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCEN | Incoterms Versionierung, ICC Schiedsverfahren, Apostille |
-*Bezugspunkt: Art 596 Inhalt ist CROSS_ CHECKED nur über ein sekundäres Rechtsportal — VERIFIED benötigt den offiziellen Text des Zivilgesetzbuches der VR China (NPC/Regierung), der nicht erfasst wurde; etikettieren Sie ihn nicht VERIFIED. Die Durchsetzbarkeit von Eigentumsvorbehalt, Schiedsverfahren und Apostille hängt vom gewählten geltenden Recht und Ziel ab und muss von einem qualifizierten Anwalt bestätigt werden. Vertragsmodelle sind nur strukturelle Referenzen. *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 中华人民共和国民法典 》 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (Oberstes Volksstaatsanwaltschaft) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go) | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

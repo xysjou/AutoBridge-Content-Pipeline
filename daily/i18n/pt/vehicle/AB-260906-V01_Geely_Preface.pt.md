@@ -44,7 +44,7 @@ O preço de orientação do fabricante chinês é apenas uma referência **. É 
 2. Confirmar direção: o carro do mercado chinês é a unidade esquerda; nenhuma evidência OEM estabelece uma fábrica direita-drive Prefácio aqui, então os mercados RHD precisam de uma resposta separada.
 3. Retirar os dados do anúncio MIIT/CoC (certificado de conformidade) para o modelo homologado exato para confirmar as dimensões, o motor e a fase de emissão.
 4. Não assuma que o «Prefácio» regional vendido num mercado do Golfo seja igual ao automóvel chinês em poder ou equipamento — solicite a folha OEM do mercado de exportação.
-5. Coincida com o VIN do contrato, fatura, B/L e CoC antes do saldo ser pago.
+5. Conferir o VIN em contrato, fatura, B/L e CoC antes de pagar o saldo.
 
 ## Considerações relativas à exportação deste sedan
 
@@ -77,20 +77,20 @@ Nenhuma versão RHD é estabelecida pelas fontes do mercado chinês aqui; RHD el
 
 Não — o preço de orientação chinês é apenas uma referência interna sensível ao tempo; solicite uma cotação formal de exportação com o Incoterm e o destino.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家 · 车家号 | CHINA | T3 | FONTE ÚNICA | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家 · 车家号 | CHINA | T3 | FONTE ÚNICA | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T, DCT  |
-| 吉利星瑞官方车型页 (CMA 架构. 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) | 吉利汽车官网 | CHINA | T1 | VERIFICADO | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸 轴距 (4785 × 1869 × 1469, 轴距 2800) | 懂车帝车型参数页 | CHINA | T2 | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Prefácio estreia no exterior (Arábia Saudita) — OEM notícias | Geely Auto Global | EXPORTAÇÃO | T1 | VERIFICADO | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | Identidade — apenas referência ao mercado de exportação; o grupo de potência do Médio Oriente difere dos grupos de produção chineses |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/datainfo/cpgg/ | Identidade — verificar o modelo/variante homologado exato da China por VIN/anúncio |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - ** Última revisão**: 2026-09-06
-- **Mercado de referência**: CHINA(中国市场参考规格; 出口 右舵版本无 OEM 证据, 须另证)
+- **Mercado de referência**: CHINA(China-market reference specs; 出口 右舵版本无 OEM 证据, verify separately)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Os itens sensíveis ao tempo (taxas, taxas, listas, linhas de acabamento, preços de referência nacionais) devem ser confirmados na página oficial atual antes de serem transacionados.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

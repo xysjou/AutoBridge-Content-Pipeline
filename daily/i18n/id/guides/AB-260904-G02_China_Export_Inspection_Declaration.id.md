@@ -27,7 +27,7 @@ Berdasarkan * Impor dan Ekspor Undang-undang Inspeksinya * dan peraturan yang me
 5. Perubahan proses terjadi oleh pemberitahuan GACC (misalnya, 2025 No. 138 pemberitahuan optimisasi * pre-deklarasi inspeksi aplikasi karantina *, yang mengecualikan administrasi lisensi hal) - mengutip nomor pemberitahuan dan tanggal.
 
 ## Deklarasi: dokumen dan yang menandatangani
-Per ** GaCC Order No. 277 (Provisions on the Deklarasi Impor dan Ekspor Goods) *, ekspor barang yang membutuhkan inspeksi karantina membawa *** yang dibutuhkan dokumen yang menemani **, dan deklarasi dibuat dalam nama sendiri ** dicap ditandatangani oleh consignor atau consignee **, yang menanggung tanggung jawab deklarasi.
+Menurut **GACC Order No. 277 (Ketentuan tentang Deklarasi Barang Impor dan Ekspor)**, barang ekspor yang wajib inspeksi/karantina membawa **dokumen pendamping yang disyaratkan**, dan deklarasi dibuat atas nama sendiri, **dicap dan ditandatangani consignor atau consignee**, yang memikul tanggung jawab deklarasi.
 
 ## Tiga Resimen Parallel-Jauhkan Mereka Selain
 | Regime | Trigger | Mengganti yang lain? |
@@ -40,7 +40,7 @@ PSI yang dinominasikan adalah cek komersial, bukan ijin perundangan Cina; dan li
 
 ## Batas Halaman ini
 - Apakah kode kendaraan ten- digit tertentu saat ini ada di dalam katalog ** adalah ** waktu -sensitive dan code-specific **: batch tidak memperoleh baris-by- baris kondisi ekspor pengawasan untuk setiap 87.02–87.05 kode, sehingga halaman ini memberikan metode, bukan kesimpulan universal. Verifikasi terhadap ** katalog adat saat ini dan kode itu kondisi pengawasan ** sebelum mendeklarasikan.
-- Third-party PSI is never described as statutory inspection; SIM BEV tidak pernah digambarkan sebagai inspeksi.
+- PSI pihak ketiga tidak pernah digambarkan sebagai inspeksi wajib; SIM BEV tidak pernah digambarkan sebagai inspeksi.
 
 ## Pertanyaan Yang Sering Muncul
 ** Apakah semua mobil diekspor perlu pemeriksaan hukum? ** Tidak ada aturan selimut - perbaiki kode HS tendigit dan periksa katalog saat ini dan kondisi ekspor pengawasan untuk kode tersebut.
@@ -74,17 +74,17 @@ PSI yang dinominasikan adalah cek komersial, bukan ijin perundangan Cina; dan li
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Indeks dasar legal - Impor Ekspor Inspeksi Komoditas Hukum & implementasi regulasi | Administrasi Umum Bea Cukai Cina (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | TERBATAS (primer; terbuka dalam peramban, otomatis ambil diblokir) | Nama-nama Hukum Inspeksi saat ini (2021 amandemen) dan menerapkan regulasi yang diimplementasikan pada tata letak; entri katalog inspeksi yang tepat masih diperiksa oleh 10-digit HS |
-| Peraturan Bea Cukai pada Deklarasi Impor Ekspor Goods (GaCC Order No. 277, dalam gaya 2025-05-01) | Administrasi Umum Bea Cukai Cina (GACC), melalui | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | TERBATAI (primer) | Frame legal untuk deklarasi ekspor saat ini; apakah baris 10-digit HS spesifik didaftarkan secara objek masih dicentang HS- by - HS |
-| Panduan layanan Internet + Bea Cukai (pemeriksaan undang-undang = katalog kaki - barang yang dibutuhkan) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | TERBATAI (primer) | Aturan keputusan katalog-keputusan |
-| GACC Notice 2024 No 163 (diluar -katalog inspeksi acak; ekspor = mainan anak-anak) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | TERBATAI (primer) | Pemeriksaan acak |
-| Perintah GACC No. 277, Deklarasi Provisions | Dewan Negara Gazette | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | TERBATAI (primer) | Melaksanakan dokumen, kewajiban tanda tangan |
-| Empat pengumuman kementerian di BEV passenger- ekspor mobil lisensi (ref. 8703801090, dari 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME _ ENSITIF (primer) | Keliatan vs perbedaan inspeksi |
-| GACC Notice 2025 No 138 (pre-deklarasi optimisasi aplikasi) | Rilis Bea Cukai (reposs) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE _ SOURCE | Optimisasi proses |
-* Scope bukti: kerangka kerja diverifikasi oleh sumber primer; hasil katalog untuk kode ten- digit tertentu harus diperiksa langsung dan tidak diregeneralisasi. ♪
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

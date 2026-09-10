@@ -51,16 +51,16 @@ The Foton Tonoo (图雅诺, 2026) ~ เป็นรถขายดีเซล�
 ♪ กงล้อสําหรับมินิบัสคืออะไร ♪ เลือกจาก 3070/3510/3750 มม. โดยผัง
 แล้วตัวเลข GVW หายไปไหน # ไม่น่าจะถูกจับได้ รับจากพวกนอกรีต
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) พ.ศ. | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 搜狐汽车 搜狐汽车 搜狐汽车 CN | T2 | ROOS_ CHCKE |/skid.auto.com/compare-list? สืบค้นเมื่อ 1/0.3.tricid=156097,166576,166576. | 短轴 长轴尺寸 轴距 轴距 | |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力 扭矩 扭矩 座位 (พ.ศ. ○
-| 图雅诺 图雅诺 冷藏改装 冷藏改装 (上装) พ ศ ศ ศ ศ ศ 冷藏改装 上装 (上装) พ ศ ศ ศ ศ ศ ศ 上装 上装 上装 ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ พ พ พ ศ พ พ ศ ศ ศ พ ศ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ เอ็กซ์ | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装 非原厂, 非原厂 VAN 参数 |
-| โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

@@ -92,22 +92,22 @@ No se captó ningún precio autorizado y no se calcula que se haya efectuado nin
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
   - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
-## Fuentes " Verificación "
+## Sources & Verification
 
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| X3000 430 8 × 4 parámetros | (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Anuncio, WP12.430, caja de cambios, pesos, cuerpo, ejes, neumáticos | 360che
-| X3000 6 × 4 oficial del vertedero | Grupo SHACMAN (oficial) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS 294 kW 2000 N·m, China VI |
-| Comparación de X3000 multiversión | (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque | 360che
-| X3000 internacionales | Shacman International (official) | Exportación | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h velocidad máxima, carril de ruedas, 385/400/430 opciones |
+| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
+| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
+| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
-| GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 17691-2018 Emisiones contaminantes de vehículos diesel pesados (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI etapa de emisión de compresión (diésel pesado) para camiones/cuchillones |
-| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confianza (Estandar AutoBridge): el motor de exportación 400 PS es VERIFIED en canales Shacman-official; las cifras detalladas del anuncio 430 PS 8 × 4 son SINGLE_SOURCE (360che). El precio es UNVERIFIED y omitido. Confirme la compilación final en la hoja internacional Shacman. *
+*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are single source (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

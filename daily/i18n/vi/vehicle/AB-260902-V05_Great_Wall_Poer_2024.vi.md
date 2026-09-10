@@ -76,19 +76,19 @@ Cái gì là hàng hóa? Không được phát biểu ở đây vì nó không c
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Bảng cấu hình chính thức GWM (GW4C20B/GW4D24, 8AT/9AT, mạng điện/ quạt) | GWM (** Nhân viên chính thức**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VEREEEEEEEEEEET** | Hiện nay lưới chính thức đầu ra 160 kW 380 N·m xăng, 135 kW 480 N·m diesel, 8AT/9AT |
-| GWM PER 2.4 xuất (181 hp 480 N·m 9AT, cơ thể trên khung 4WD) | GWM Jordan (** Nhân viên chính thức**) | Xuất/ JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VEREEEEEEEEEEET** | Xuất 2.4 dầu diesel, 9AT, 4WD người trên khung hình |
-| GWM Anh POER300 khởi động (2.4 diesel 183 PS, 480 N·m, 9AT, Toàn thời gian 4 × 4 tầm thấp) | GWMComment Xe hơi Anh (** Nhân viên chính thức**) | Xuất/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VEREEEEEEEEEEET** | Xuất khẩu đánh giá dầu diesel, 9AT, 4 × 4 tầm thấp |
-| 2024 Tạm dừng | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | ĐÃ_ ĐÃ | 2024 hành khách 140 kW 360 xăng, 135 kW 480 diesel, ZF 8AT |
-| Tham số Pao (xe bánh xe theo phiên bản) | Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | ĐÃ_ ĐÃ | 3230/3470 bánh xe, ổ đĩa phiên bản/ chuyển đổi | 360che
-| 汽车之家 问答 (炮动力) | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE_SOURCE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE_SOURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
-| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE_SOURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-* Xin lưu ý: những kết quả xuất hiện hiện nay được liệt kê trên GWM trang sách chính thức; 2024 giá trị hành khách Trung Quốc được ghi vào cơ sở dữ liệu và cố tình tách biệt để tránh pha trộn mô hình năm tháng. Chi phí nạp/ GVW/wing còn lại cho tờ giấy chính thức và không được ước tính. *
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

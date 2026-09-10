@@ -54,7 +54,7 @@ SNOSEARS คือบริษัทบริการประกันกา�
 
 ## ก่อนที่คุณจะจองลําดับ
 
-- ยืนยันตัวตนของผู้ซื้อ และได้รับอนุมัติจากบริษัท SINOSE-limited ก่อนตกลงตกลงตกลง เรื่องสัญญาเปิดให้บริการ
+- ยืนยันตัวตนของผู้ซื้อ และได้รับอนุมัติจากบริษัท SINOSE-limited ก่อนตกลง เรื่องสัญญาเปิดให้บริการ
 - ตรงกับเส้นทางจ่ายเงินประกัน ที่ขายและโปรฟอร์มตาพูดจริงๆ
 - ยืนยันตําแหน่งความเสี่ยงของประเทศปลายทางในปัจจุบัน ทั้งหมดมีความไวต่อเวลา
 - เก็บ VIN, B/L, การตรวจสอบและรวบรวมหลักฐานที่เรียบเรียงเพื่อให้คําอ้างในอนาคตเป็นที่สนับสนุน
@@ -81,15 +81,15 @@ SNOSEARS คือบริษัทบริการประกันกา�
 
 ไม่ ใช่ — พวก เขา ถูก ประเมิน ค่า ต่อ คน ซื้อ, ประเทศ, และ สภาวะ และ เปลี่ยน แปลง เมื่อ เวลา ผ่าน ไป; ได้ ตัว เลข ปัจจุบัน จาก ตัว เลข ที่ เขียน ด้วย ตัว อักษร.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国出口信用保险公司官网 (政策性保险公司, 短期出口信用保险产品存在性) พ.ศ. | 中国出口信用保险公司 | CN | T1 | เปิดใช้งาน | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
-| 国际贸易 单一窗口 单一窗口 单一窗口 | | | | | 中国国际贸易单一窗口 (政府门户). | CN | T1 | เปิดใช้งาน | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
-| ที่อยู่อีเมลสําหรับส่งออกเป็น LaTeX ประกัน ภัย — ปก ปิด ความ เสี่ยง ทาง การ ค้า และ การ เมือง | จีนส่งออกและเป็นบริษัทประกันเครดิต (SNOSPE) | CN | T1 | เปิดใช้งาน | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | ชนิดความเสี่ยง หน้าผลิตภัณฑ์อย่างเป็นทางการอังกฤษ;  87 | | | | ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 短期出口贸易险承保风险 短期出口贸易险承保风险 (商业风险 政治风险 政治风险) พ ศ. ศ. | 中国出口信用保险公司 CN | TN | T1   เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ เ | เ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ○
-| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | Incurr_role — คู่มือนโยบาย; | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ข้อกําหนดและโปรแกรมต่าง ๆ ที่ให้เครดิตกับภาษาจีน | อุรุกวัย | INT | T2 | ROOS_ CHCKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | Incurr_role — บริบทระหว่างประเทศอิสระเมื่อ Sinocution ST/MLT cription |
+| 中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
+| 国际贸易'单一窗口'出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口(政府门户) | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
+| Short-Term Export Credit Insurance — covered commercial & political risks | China Export & Credit Insurance Corporation (SINOSURE) | CN | primary | VERIFIED | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types — English official product page; risk categories only, no rates |
+| 短期出口贸易险承保风险（商业风险/政治风险） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types — official CN product page |
+| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — policy handbook; credit-term framework, rates remain case-by-case |
+| Chinese Export Credit Policies and Programmes | OECD | INT | independent database | CROSS_CHECKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | insurer_role — independent international context on Sinosure ST/MLT mix |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

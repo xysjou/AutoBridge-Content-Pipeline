@@ -20,8 +20,8 @@ Chiếc FAW Jiefang J7 là chiếc máy kéo bán tải nặng của tàu chở 
 |---|---|---|
 | Máy | ** CA6DM3-55E52 ** (Trung Quốc - 5 / National V) | CROSS_CHECKED |
 | Xuất | Khoảng 550 PS, vào khoảng 2300 N·m | CROSS_CHECKED |
-| Hộp bánh răng | Sổ tay 12-speed | SINGLE_SOURCE |
-| Phân biệt đối xử | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| Hộp bánh răng | Sổ tay 12-speed | single source |
+| Phân biệt đối xử | CA4250P77K25T1E5 | single source |
 | tây lịch | 2018 dòng phóng — **HIST_VAPET** | CROSS_CHECKED |
 
 Những con số này mô tả ** 2018-era Trung Quốc- 5 ** J7. Chúng phải được gọi là một giai đoạn lịch sử phát hành và không được trình bày như chiếc xe tải đang ở trên bán hàng. Một động cơ số 5 Trung Quốc cũng đưa ra một câu hỏi trực tiếp: nhiều thị trường đích đến bây giờ yêu cầu một giai đoạn giảm bớt, vì vậy một đơn vị Trung Quốc- 5 có thể không thể đăng ký ngay cả khi chiếc xe tải có sẵn. Xác nhận nhận nhận vị trí trước khi cho thế hệ này vào.
@@ -30,9 +30,9 @@ Những con số này mô tả ** 2018-era Trung Quốc- 5 ** J7. Chúng phải 
 
 | Mục | Tham khảo thị trường Trung Quốc | Tin tưởng |
 |---|---|---|
-| Nhóm cơ khí | ** CA6SX1 ** (Trung Quốc - 6 / National VI) | SINGLE_SOURCE |
-| Giới thiệu đầu ra trên | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — chính xác bước mã lực của SKU để xác nhận|
-| Bố trí | 6x4 chiếm ưu thế; đình chỉ không khí và giảm thiểu năng lượng khi chọn cấu hình | SINGLE_SOURCE |
+| Nhóm cơ khí | ** CA6SX1 ** (Trung Quốc - 6 / National VI) | single source |
+| Giới thiệu đầu ra trên | Up to 600 PS / 2800 N·m | single source — chính xác bước mã lực của SKU để xác nhận|
+| Bố trí | 6x4 chiếm ưu thế; đình chỉ không khí và giảm thiểu năng lượng khi chọn cấu hình | single source |
 
 Gia đình Trung Quốc- 6 là dòng hiện tại, nhưng các bước đi chính xác của nó trên các SKU không được chứng minh đầy đủ ở đây - "đến 600 PS" là một tài liệu tham khảo trần nhà, không phải một đánh giá cố định cho mỗi chiếc xe tải. Một mệnh lệnh phải đặt tên chính xác CA6SX1 điện, hộp số, tỷ lệ trục và thiết lập bánh xe thứ năm và đóng chúng lại với đặc điểm chính thức của Jiefang hoặc chính xác mục nhập của MIIT. Những thứ như tải bánh xe thứ năm, tỷ lệ trục, dung lượng nhiên liệu và khối lượng kerb không phải** vì không có nguồn chính xác nào của SKU bị bắt.
 
@@ -86,19 +86,19 @@ Một máy kéo nặng 6x4 là bố trí thống trị, với việc ngưng tr�
 
 Không — trang này là tài liệu tham khảo về dầu diesel Trung Quốc; LNG/V, RHD và xuất khẩu J7s yêu cầu bằng chứng OEM riêng biệt và không được cho là giống hệt nhau.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/ 上市 / 国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市. 国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12 挡. 缓速器 |
-| 车型身份 / 底盘选装 | 汽车之家. 车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
-| 一汽解放官方网站 (车型线身份; ngoại trừ 以官方 / 公告终核) | 一汽解放 (FAW Jiefang) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告final confirmation） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-07
-- ** chợ địa phương**: CHINA(中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU 终核)
+- ** chợ địa phương**: CHINA(中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU final confirmation)
 - Phương pháp xác thực **: Nghiên cứu về các nguồn bên dưới; Đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Đầu ra đơn nguồn, Dữ liệu quay/ năm chiều  and  Giá tham khảo nội địa phải được xác nhận lại trên tờ OEM hoặc mục nhập nhập vào MIIT,  and  LNG/EV/RHD/export J7 require separate OEM evidence before transacting.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

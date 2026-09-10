@@ -23,7 +23,7 @@
 
 | แพลนโทรล | กลไก | พลัง แรงบิด | การส่ง | ความเร็วสูงสุด | WLTC ผนวกเชื้อเพลิง |
 |---|---|---|---|---|---|
-| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 6.2 (高能版) (พ.ศ. ○
+| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); พ. 2013/ii.8 กลาญ – – เ ่อ ค น ่อ น น ่อ น น ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ 6.2 (高能版) (พ.ศ. ○
 | 2.0T | เทอร์โบ L4 เครื่องสูบน้ํา | 171 kW (233 PS) 390 N·m | 8-speed กังหันลม-เครื่องหมุนอัตโนมัติ (8AT). | 215 km/h | 6.9 L/100 km |
 
 สีฟ้า 1.5T ตัวเลขปลาวาฬและ 7DCT เปิดใช้งาน ร่วมกับเว็บไซต์ของเชียง และตรงกับฐานข้อมูลรถ 2.0T ผลผลิต 8AT และเชื้อเพลิงของสารนี้ คือ CROSS_CHECEEED ไปทั่ว PCUTO และ Auto Home. หมายเหตุที่แยกชุดเกียร์: 1.5T ใช้คู่น้ําเปียก ในขณะที่ 2.0T ใช้แบบทั่วไป 8-speed อัตโนมัติ — ความแตกต่างที่มีความหมายสําหรับผู้ซื้อเรือโดยสารที่ชอบความยืดหยุ่นแบบหมุนตัวแบบหมุน และบางอย่างที่จะระบุอย่างชัดเจนในลําดับการสั่งซื้อแทนการสมมุติ "อัตโนมัติหมายถึง เกียร์เดียวกัน".
@@ -105,18 +105,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| UNI-V 高能版 หน้าอย่างเป็นทางการ | รถอัตโนมัติเชียง (ใช้ได้) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | เปิดใช้งาน | ช่วงของขนาด, 2750 mm ล้อล้อ, แทร็ก |
-| UNI-V 2nd-gen หน้าอย่างเป็นทางการ | รถอัตโนมัติเชียง (ใช้ได้) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | เปิดใช้งาน | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 configuration | ออโต้โฮม (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | ROOS_ CHCKED | 1.5T การแสดงผล, 4720 mm ความยาว, WLTC 6.37 |
-| 2024 ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ต ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ิ ก ก ก ก ิ ิ ิ ิ ิ ิ ิ ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก ก | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ROOS_ CHCKED | 2.0T 171 kW 390 N·m (พ.ศ. 8AT (พ.ศ. ก | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| หน้าสเปกตรัมของ UNI-V | ปรับแต่งค่าบ้านอัตโนมัติ | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | น้ําหนักของเส้นโค้ง (แหล่งกําเนิด) |
-| รายงานการเปิดตัวใหม่ของ UNI-V | ไอโอเชิน ออโต้ (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | ROOS_ CHCKED | หยุดชั่วคราว MacPherson/Multi-link, ไดรฟ์เทรน |
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-*จดหมายอ้างอิง (มาตรฐานออโตบิดริด): เครื่องยนต์ 1.5T และล้อ 2750 mm ได้มีการขยายหน้าของตัวเองของเชียง (เจ้าหน้าที่ฝ่ายบริหาร). 2.0T ตัวเลขคือ CROSS_CHCCKE ครอบคลุมฐานข้อมูลอิสระ; น้ําหนักตามขอบคือ Single_ สืบค้นและต้องตรงกับแผ่นสัญญา *
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

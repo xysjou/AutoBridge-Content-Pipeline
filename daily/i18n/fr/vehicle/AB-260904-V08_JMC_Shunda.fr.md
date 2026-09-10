@@ -94,20 +94,20 @@ Aucun prix à l'exportation n'est publié. Demande avec **Pays de destination ·
   - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
   - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Shunda petit camion JX493ZLQ6D 122PS conforme 2t | 360che (Tutiao) | NC | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | _CHECTURE | Moteur, puissance, GVW, calage de charge utile |
-| Shunda petit camion lit, GVW, poids de bordure | 360che (Tutiao) | NC | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | _CHECTURE | 3700 lit, 4.27 t, poids de la bordure |
-| Cargo Shunda 3.7m 116PS (en vente) | camions | NC | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SOURCE UNIQUE | Version supplémentaire 116 PS (exclus) | 58.com
-| Empattement de la Shunda cercle tournant | 360che (Tutiao) | NC | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | _CHECTURE | 2800 mm WB, 5.5 m |
-| Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
-| BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
-| GB 18352.6-2016 avec l'amendement XG1-2026 (Chine-6 émissions polluantes des véhicules légers) | Ministère de l'écologie et de l'environnement (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VÉRIFIER | Chine- 6 phase d'émission des véhicules légers et les dates d'application de l'amendement 2026 |
-| GB 19147 carburant diesel automobile standard national (base à faible teneur en soufre) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VÉRIFIER | Cote de carburant diesel et base de soufre pour correspondre à la conception du moteur/de l'émission outre-mer |
+| Shunda small truck JX493ZLQ6D 122PS compliant 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Engine, power, GVW, payload framing |
+| Shunda small truck bed, GVW, curb weight | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 bed, 4.27 t, curb weight |
+| Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | single source | Alternate 116 PS version (excluded) |
+| Shunda wheelbase / turning circle | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m turning |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Note de confiance: pas de feuille primaire d'OEM; contrôles croisés de la base de données commerciale. Charge utile nominale reportée explicitement à l'annonce/au certificat MIIT; les moteurs 2.499 L et 2.8 L sont séparés. Référence du marché chinois seulement. *
+*Confidence note: no OEM primary sheet; trade-database cross-checks. Rated payload explicitly deferred to MIIT announcement/certificate; 2.499 L and 2.8 L engines kept separate. Chinese-market reference only.*
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)

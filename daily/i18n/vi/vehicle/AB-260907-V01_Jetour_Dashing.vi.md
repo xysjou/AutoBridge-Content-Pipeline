@@ -26,9 +26,9 @@ Cơ sở bánh xe không đổi, nhưng chiều dài và chiều cao chuyển đ
 
 | Name | Tham khảo thị trường Trung Quốc | Hộp bánh răng | Năm Mô hình | Tin tưởng |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed wet dual-clutch | 2024 | SINGLE_SOURCE — xác nhận bởi VIN/OEM|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed wet dual-clutch | 2024 | single source — xác nhận bởi VIN/OEM|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed wet dual-clutch | Đường chéo năm | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed wet dual-clutch | 2025 | SINGLE_SOURCE — xác nhận bởi VIN/OEM|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed wet dual-clutch | 2025 | single source — xác nhận bởi VIN/OEM|
 
 Cái bẫy đặt tên là thật: 2024 ** 1.5T ** và 2025 ** 1.5TD ** là những sự cân nhắc khác nhau với những kết quả khác nhau và những sự truyền khác nhau (6DCT so với 7DCT), mặc dù có những điểm tương tự. ** 1.6T ** là người mạnh nhất trong ba và là người được hỗ trợ tốt nhất bởi hai nguồn độc lập. Một lệnh có tên "1.5 gạch gạch" có thể giải quyết cho hai chiếc xe, vì vậy hãy viết tên động cơ đầy đủ, năm và truyền tải vào trong bộ phận giả. Kết quả chính xác của một nguồn điện 1.5T và 1.5TD đường nên được đóng lại chống lại tờ cấu hình chính thức Jetour hoặc chính xác là mục nhập nhập của MIIT trước khi gửi tiền.
 
@@ -74,19 +74,19 @@ Xe tham khảo thị trường Trung Quốc là ổ đĩa ở bánh trước.
 
 Không có RHD Phiên bản của Trung Quốc được thiết lập ở đây; RHD eligity cần phải tách rời bằng chứng OEM, và xuất khẩu các thông số không được phép bị suy ra khỏi đường dây Trung Quốc.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-08
-- ** chợ khảo sát**: CHINA(中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 SKU 终核).
+- ** chợ khảo sát**: CHINA(China-market reference; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 SKU final confirmation).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Những mục nhạy cảm về thời gian (trim-up, giá tham khảo nội địa) và đầu ra nguồn đơn phải được xác nhận lại trên tờ cấu hình OEM hoặc MIIT trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

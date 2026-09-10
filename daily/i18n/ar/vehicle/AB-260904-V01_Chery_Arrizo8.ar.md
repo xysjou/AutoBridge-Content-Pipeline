@@ -45,7 +45,7 @@
 2. ** الانبعاثات والوقود** - معيار انبعاثات المقصد ودرجة الوقود المطلوبة؛ ولا تقبل سيارة من الصين إلى 6 تلقائيا في الخارج.
 3. ** لغة التوجيه والمجموعة** - السيارة الصينية هي LHD؛ تؤكد أن توافر أسلحة الدمار الشامل لا يتم إلا عن طريق قناة مرخصة من نوع OEM، ولا على الإطلاق.
 4. ** وثيقة مصنّعة** - شهادة المصنّع، شهادة المطابقة، وصحيفة العينات، وأي أوراق للبطاريات (للخطوط القريبة من الأرض)؛ واستخدام قائمة مرجعية لحزم وثائق التصدير.
-5. ** أسلوب الإيقاف** - حاوية من الصلون تبلغ مساحتها 4.78 متر أو مواقد رو رو رو رو؛ تأكيد عد خطة الحمولة بدلا من تقديرها.
+5. ** أسلوب الإيقاف** - حاوية من الصلون تبلغ مساحتها 4.78 متر أو مواقد رو؛ تأكيد عد خطة الحمولة بدلا من تقديرها.
 
 ## طلب تخصيص موارد التصدير الحالية
 لا سعر تصدير ثابت منشور. سعر الدليل الصيني 2024 تريلي المرجع حوالي 99 RMB، 900) هو غريب الأطوار الرقم الذي يراعي الوقت فقط - انها ليست FOB أو CIF ويجب ألا يكون حوّلت إلى واحدة**. استفسرت عن البلد المستضيف الكمية الممنوحة تريم: LHD/RHD Destination Port; Incoterm**.
@@ -82,18 +82,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
   - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Arrizo 8 2024 1.6T DCT Excellence parameter page | Data ZOL | CN | https://detail.zol.com.cn/car/2030152.shtml | 2026-09-04 | ات − −ments |国ات, Biologicalindexments, and, and the ?
-: Arrizo 8 1.6T DCT: | PRO PROATED CN | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | | صرخ صرخ − 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 第 أو، -،؟
-| Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | صرخات | 145 kW/197 PS/290 N·m/7DCT |
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
+| Arrizo 8 2024 1.6T DCT Excellence parameter page | ZOL Auto database | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, engine, gearbox, structure |
+| Arrizo 8 1.6T DCT Excellence parameters | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Power, PS, dimensions, domestic price reference |
+| Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW/197 PS/290 N·m/7DCT |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* ملاحظة المصداقية: لم تُسجَّل أي ورقة أولية من طراز OEM؛ أما الأرقام فهي قيم قاعدة بيانات صينية منظمة. الأبواب، تخطيط القيادة و السرعة القصوى مصدر واحد والسعر المحلي حساس من حيث الوقت ولا يشكل أبدا اقتباسا من الصادرات. ♪
+*Confidence note: no OEM primary spec sheet was captured; figures are cross-checked Chinese structured-database values. Doors, drive layout and top speed are single-source. Domestic price is time-sensitive and is never an export quotation.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

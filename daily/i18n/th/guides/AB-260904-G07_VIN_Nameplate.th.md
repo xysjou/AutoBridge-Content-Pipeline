@@ -37,7 +37,7 @@ Compare the same 17 characters across four locations  and  ยืนยันไ
 ความแตกต่างใด ๆ, การรวบรวมหลักฐาน หรือเอกสาร vs body ผิดคู่เป็นจุดยึด: แก้ปัญหาด้วยผู้จัดหา  and  บันทึกการย้ายถิ่นของผู้ผลิต ~ ก่อน ~ การชําระเงิน~  and  การจอง  because registration authorities compare the same four places.
 
 ## ระเบียบ ที่ ใช้ ได้ จริง
-1. Transcribe the stamped body VIN character by character (17 total).
+1. ถอดหมายเลข VIN บนตัวถังที่มีตรายางทีละตัวอักษร (รวม 17 ตัว)
 2. ยืนยันตําแหน่ง Seck access- 9  and  รหัสปีแบบ 10 สอดคล้องกันภายใน
 3. จับคู่มันกับชื่อที่ตั้งชื่อ ใบรับรอง  and  shipping documents (four-place match).
 4. ระบุผู้ผลิตผ่านทาง alsolution WMI แทนตัวอักษรตัวแรก
@@ -80,17 +80,17 @@ Compare the same 17 characters across four locations  and  ยืนยันไ
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
 - ~ZH~: TOPBridge 出口采购参考 | จีน Vin และชื่อ luffy ภาย ใต้ GB 16735, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ขนาด GB 16735-2019 รถ ถนน — วี เอ็น, ข้อความ มาตรฐาน PDF | SAC/ TC114 (มาตรฐานการใช้รถสากล) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | ISIFIE (เมษายน) | โครงสร้าง 17-char, ข้อความมาตรฐาน |
-| หน้าสถานะมาตรฐานของ GB 16735-2019 | เปิดใช้ SAMR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | ISIFIE (เมษายน) | สถานะปัจจุบัน จะแทนที่ 2004 |
-| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | ISIFIE (เมษายน) | สถานะมาตรฐาน |
-| สืบค้นสินค้าที่ยึดติดจากถนนโมเนอร์ (สัญญาณ GB16735) | PDF อย่างเป็นทางการ MIT | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | ISIFIE (เมษายน) | สถานะการเลี้ยงดู, ข้อต้องการความสอดคล้องกัน |
-| อธิบายส่วนย่อย VIN | แปซิฟิกออโต้ | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ตัวอธิบายตําแหน่ง |
-* โน้ต: "Chinese WMI เริ่มต้นที่ L/H บางตัว" ไม่ได้รับการแก้ไข และไม่ระบุว่าเป็นความจริง; WMI-prix ผู้ผลิตและรูปแบบปลายทาง VIN ไม่อยู่ในขอบเขต *
+| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
+| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
+| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
+| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | single source | Position-level explainer |
+*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
 
-| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科 (国标条文载体). | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | single source | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

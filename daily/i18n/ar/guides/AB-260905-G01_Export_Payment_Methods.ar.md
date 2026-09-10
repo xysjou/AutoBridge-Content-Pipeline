@@ -28,7 +28,7 @@
 ## أمر عملي باتخاذ قرار بشأن أوامر المركبات
 1. مطابقة الصك للثقة والطوارئ: الإيداع + الرصيد T/T لمشترٍ معروف بتكراره؛ L/C من أجل طلب كبير أو سوق غير مألوفة؛ تجنب D/A و O/A ما لم يكن هناك تأمين ائتماني أو ضمان قوي.
 2. على الحرف الـ "ل" ، قرأ كل الوثائق المطلوبة مقابل ما يمكنك إنتاجه فعلاً والجدول الزمني (الإنتاج ، الحجز ، التفتيش ، "ب"
-3. Reconcile the L/C with the proforma and Incoterm so document names, unit description, latest shipment and expiry are achievable.
+3. طابق خطاب الاعتماد L/C مع الفاتورة الأولية وشرط Incoterm بحيث تكون أسماء المستندات ووصف الوحدة وآخر موعد شحن وتاريخ الانتهاء قابلة للتحقق.
 4. - أن تُبقي الرسوم المصرفية وتكاليف التثبيت من الأرقام المفترضة - وهي تتفاوت من قبل المصرف وتراعي الوقت؛ وتحصل عليها من المصرف المرشَّح.
 5. (أ) التنسيق مع قواعد التسوية المتعلقة بالتدفقات (انظر دليل التجارة والتدفقات) بحيث يكون الاستلام والتحقق متسقين.
 
@@ -42,20 +42,20 @@
 ** هل لي أن أقبل O/A لمشتري أول؟** وعموماً، ليس بدون تأمين ائتماني أو ضمان أو علاقة ثابتة.
 **Does UCP600 override my contract?** No — UCP600 governs the credit when incorporated; عقد البيع والتصميم لا يزالان يحددان الصفقة.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | T1 | مفقود | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销, 信用证分类与风险 |
-| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会 (CCPIT) | CN | T1 | مفقود | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务 (教材، 流程佐证) | 清华大学出版社 | CN | T3 | صرخات | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| غرفة التجارة الدولية | غرفة التجارة الدولية | CN | T1 | مفقود | https://iccwbo.org/ | ناشرة لـ UCP600 وقواعد غير محددة؛ إطار التمويل التجاري الموثوق |
-| بشأن ما يتصل به من: LIED ON RELATED . China Export ' Credit Insurance Corporation (SINOS 国国国) | INT INT/CN | T1/T2 | https://www.sinosure.com.cn/ .. الميزانـة/الآلاف/الآلاف/الدرجة الثانية/الدرجة الثانية
-| مجلس الصين لتعزيز التجارة الدولية | مجلس الصين لتعزيز التجارة الدولية)CCPIT 中国贸促会( | CN | T1/T2 | مفقود | https://www.ccpit.org/ | الهيئة الوطنية لتعزيز التجارة: L/C والإرشاد وإصدار الشهادات بشأن وثائق التجارة؛ متميزة عن استنساخ الحكومات المحلية |
-| ICC Trade Finance solutions (UCP 600 URC 522 URDG rule owner) | غرفة التجارة الدولية | INT | T1/T2 | مفقود | https://iccwbo.org/business-solutions/trade-finance/ | المركز الدولي للحساب الإلكتروني هو رسالة القواعد الخاصة ب L/C (UCP 600) ومجموعات (URC 522) والضمانات (URDG)؛ وصفحة عميقة تتجاوز الصفحة الرئيسية |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: 通用 (国际结算框架، 非单一国家法规)
+- ** سوق الإحالة**: 通用 (international-settlement framework، not a single-country rule)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 

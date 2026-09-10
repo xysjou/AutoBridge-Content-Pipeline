@@ -87,7 +87,7 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 |---|---|---|---|---|---|---|
 | Shunda small truck JX493ZLQ6D 122PS compliant 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Engine, power, GVW, payload framing |
 | Shunda small truck bed, GVW, curb weight | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 bed, 4.27 t, curb weight |
-| Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Alternate 116 PS version (excluded) |
+| Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | single source | Alternate 116 PS version (excluded) |
 | Shunda wheelbase / turning circle | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m turning |
 | Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
 | GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |

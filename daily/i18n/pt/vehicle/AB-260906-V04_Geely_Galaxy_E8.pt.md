@@ -71,16 +71,16 @@ O carro chinês usa o padrão GB T; compatibilidade de conector de destino reque
 
 Cerca de 5010 × 1920 × 1465 mm com uma distância entre eixos 2925 mm (referência do mercado chinês, confirmar por corte).
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | T2 | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家 · 车家号 | CHINA | T3 | FONTE ÚNICA | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机, 电池供应商, 平台  |
-| Geely Yinhe/Galaxy E8 float page (OEM) | Geely Auto | CN/EXPORTA | T1 | VERIFICADO | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | Identidade — Identidade do OEM: Sedan elétrico emblemático baseado em SEA |
-| Geely começa a entrega de Yinhe E8 (Jan 2024 lançamento OEM) | Geely Auto | NC | T1 | VERIFICADO | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identidade — tempo de lançamento e arquitectura SEA; especificações de acabamento ainda por SKU |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/datainfo/cpgg/ | motor_potência — verificar variante bateria/drive por anúncio |
-| Geely Galaxy E8 visão geral de especificações independentes | LynkCars | NC | T3 | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — verificação cruzada independente da base de dados; confirme contra OEM |
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

@@ -89,20 +89,20 @@ Nenhum preço de exportação estático é publicado. O aproximadamente RMB 41, 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Macaron adiciona 170 km/20 kW | AutoHome | NC | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, preço interno (TIME_SENSITIVE) |
-| MINIEV 2025 parâmetros/preços | Base de dados dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Ano modelo, graus de gama, MSRP doméstico (TIME_SENSITIVE) |
-| 2024 Macaron 215 (dimensões/kerb) | Base de dados NetEase Auto | NC | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | FONTE ÚNICA | 3064/1493/1629, 2010 mm, 777 kg (media DB, não OEM) |
-| Bateria Macaron carga lenta | Enciclopédia PCauto | NC | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | FONTE ÚNICA | □ 13.4 kWh, método de carga |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
-| GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 38031 requisitos de segurança da bateria de tração (GB 38031-2025; novas aplicações de tipo obrigatório a partir de 2026-07-01) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFICADO | Base obrigatória de segurança da bateria de tracção para o grupo elétrico |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | Plataforma SAMR de texto completo | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFICADO | Base de requisitos de segurança elétrica/funcional do veículo elétrico |
+| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
+| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
+| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | single source | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
+| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | single source | ≈13.4 kWh, charging method |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* Nota de confiança: nenhuma folha de especificações primária Wuling/SAIC-GM-Wuling foi capturada; bases de dados de mídia não são VERIFIED. A gama/preço é verificada em conjunto, enquanto o peso do banco, a velocidade máxima e kWh são de fonte única. CLTC é apenas o ciclo da China. A disposição de cobrança deve ser confirmada no VIN exato. *
+*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

@@ -33,7 +33,7 @@
 中国六国** 已融入欧洲框架,但不构成任何海外制度下的核准** ——目的地符合规定必须分别处理。 本指南不提出**“中国六国等于十国”的索赔**:等同性要求有正式的相互承认文件,此处不提供;在主要来源之前,欧洲经委会R83/R49的精确限制和EN燃料规格已超出范围。
 
 ## 购买者验证序列
-1. 识别轻重任务  and  cite the **correct current standard** (GB18352.6-2016 + XG1-2026, 或GB17691-2018) (中文(简体)).
+1. 识别轻重任务  and  cite the **correct current standard** (GB18352.6-2016 + XG1-2026, 或GB17691-2018) 
 2. 确认车辆的处理后型号(DPF/SCR为柴油机).
 3. 对照手册核查目的地** 燃料硫/乙烷/辛烷**。
 4. 运行**目的地类型批准** 作为一项单独的工作流程——绝不假设中国VI被接受为欧洲/环保局.
@@ -61,7 +61,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — China-VI emissions and fuel compatibility overseas, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China-VI emissions and fuel compatibility overseas, guide d’achat à l’export automobile
@@ -76,21 +76,21 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — China-VI emissions and fuel compatibility overseas, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China-VI emissions and fuel compatibility overseas, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, 额,呃。 2026-05-01) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-04 | 已核实(小学) | XG1-2026个版本/日期 |
-| GB18352.6-2016 维基月球 第1号修正案 官方PDF | | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 轻税修正 |
-| SAMR标准平台 ^ GB18352.6-2016 XG1 | 萨马 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E 维基月球 | 2026-09-04 | 已核实(小学) | |
-| MEE关于GB17691-2018重型中国的公告 6 | | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html 维基月球 | 2026-09-04 | 已核实(小学) | |
-| GB17691-2018 官方PDF 页面存档备份,存于互联网档案馆. | | 氯化萘 | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 重型射程 |
-| GB19147-2016路柴油机(现装,XG1-2018路). | SAMR 打开 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-04 | 已核实(小学) | 硫 ≤ 10毫克/千克 |
-| DPF/SCR 高硫处理后风险 | 测试机体 | 氯化萘 | https://m.11467.com/product/d51123633.htm 维基月球 | 2026-09-04 | 资源 | 定性后处理风险 | 11467
-* 证据范围: 中国标准/日期通过MEE/SAMR主要来源核查;海外欧洲/环保局限制、EN燃料规格和任何等值结论在海外主要来源之前都予以封锁。 * 报告迟交是因为需要翻译。
+| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | VERIFIED (primary) | XG1-2026 version/dates |
+| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | VERIFIED (primary) | Light-duty amendment |
+| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | VERIFIED (primary) | Standard status/date |
+| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primary) | Heavy-duty standard/dates |
+| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primary) | Heavy-duty scope |
+| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulphur ≤10 mg/kg |
+| DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | single source | Qualitative after-treatment risk |
+*Evidence scope: Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
 
-| 轻型车国六排放标准 GB18352.6-2016 (译文库条文) (中文(简体)). | ChinaAutoRegs(今日头条) | 氯化萘 | http://m.toutiao.com/group/6758333762372633092/ 维基月球 | 2026-09-04 | 资源 | GB18352.6-2016 背景 (不作现行版本核心依据) (中文(简体)). |
-| 辽宁省车用柴油产品质量监督抽查实施细则(引 GB19147-2016) (中文(简体)). | 盘锦市人民政府 维基月球 | 氯化萘 | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html 维基月球 | 2026-09-04 | 实录 | 硫含量等项目检验依据 GB19147-2016 (单位:千美元) |
-| GB19147-2016《车用柴油》标准正文(含第1号修改单, 政府托管 PDF). | 横峰县人民政府办公室(托管国家标准文本) (中文(简体)). | 氯化萘 | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf 维基月球 | 2026-09-04 | 实录 | 国 VI 车用柴油硫含量 ≤ 10mg/kg |
+| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | single source | GB18352.6-2016背景(不作现行版本核心依据) |
+| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VERIFIED | 硫含量等项目检验依据GB19147-2016 |
+| GB19147-2016《车用柴油》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | VERIFIED | 国VI车用柴油硫含量≤10mg/kg |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

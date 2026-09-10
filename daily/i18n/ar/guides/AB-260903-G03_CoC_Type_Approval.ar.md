@@ -21,7 +21,7 @@
 - ** EEAEU - OTTS EAC:** for the Eurasian Economic Union, whole vehicles require an **OTTS type approval (or EAC)** under **TR CU 018/2011 " On the Safety of Wheeled Vehicles, "** and an **authorised representative within the Union** is generally required. * تأكيد النص الحالي للتنظيم التقني والقواعد التمثيلية مع لجنة الاتحاد الأوروبي. 
 والموافقة على النوع هي موافقة خاصة بالسوق: لا تمنح الرابطة الأوروبية للتجارة الحرة إمكانية الوصول إلى الاتحاد الأوروبي، والعكس بالعكس.
 
-## Level 2 — Certificate of Conformity (this specific unit matches the approved type)
+## المستوى 2 — شهادة المطابقة (تطابق هذه الوحدة تحديداً النوع المعتمد)
 وبمجرد الموافقة على نوع ما، تصدر مركبة حاملة للسيارات شهادة من مجلس التعاون الدولي بأن الوحدة تطابق النوع المعتمد**؛ وشركة الطيران المدني هي الوثيقة التي تسافر مع السيارة إلى مكتب تسجيل المقصد. فخان:
 - إن وثيقة تسجيل/استقبال محلية** (مُنَقَّد في الأمر رقم الصادر عن وزارة الاستثمار والتكنولوجيا والبيئة). 50 and related rules) — it is **not** an EU WVTA CoC or an EAEU/EAC document.
 - ولا يمكن إصدار وثيقة توجيه مقصد إلا بعد موافقة من نوع الوجهة الصحيحة**؛ ولا يمكن أن تصنّع شركة أوروبية من الأوراق المالية الصينية وحدها.
@@ -50,7 +50,7 @@
 ** ما الفرق بين اتفاق التجارة العالمية واتفاقية الأسلحة الكيميائية**؟ وتقر الرابطة نوع المركبات في جميع أنحاء الاتحاد الأوروبي؛ وتصدق لجنة التنسيق على كل وحدة من الوحدات الفردية على تطابق النوع المعتمد.
 ** هل هناك علامة على الوسم وعلامة على نفس المنوال؟** لا - يُعاد ترتيبه (هـ) مع ربطه بموافقة الاتحاد الأوروبي من جميع الأوروبية؛ التعميم E is UNECE 1958 component/system approval among contracting parties.
 ** هل يوافق على جميع المركبات؟** لا؛ المكون يرمز إلى الدعم ولكن لا يحل أبدا محل الموافقة من النوع الذي يُستخدم في جميع المركبات.
-** هل أحتاج إلى ممثل محلي للموافقة على الاتحاد الأوروبي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة وتحتاج ترتيبات OTTS/EAC عموما إلى ممثل مرخص له داخل الاتحاد - أي تأكيد للنص الحالي لوحدة TR CU 018.
+** هل أحتاج إلى ممثل محلي للموافقة على الاتحاد الأوروبي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة وتحتاج ترتيبات OTTS/EAC عموما إلى ممثل مرخص له داخل الاتحاد - أي تأكيد للنص الحالي لوحدة TR CU 018.
 
 ## سجل الصور
 - IMAGE_ASSET_PATH: none secured in repository
@@ -78,23 +78,23 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Order "CR" number 50 - the | MIIT/ State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm  سياق 2026-09-03  سياق ات − ات −ments |. ?
-| EU WVTA + FMVSS scheme note (2018/858) | هيئة التصديق لدى الأطراف الثالثة | الاتحاد الأوروبي | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE OURCE | WVTA/ 2018/858 وصف؛ دور لجنة التنسيق (ثانوية) |
-| OTTS TR CU 018/2011 explainer | مقدم خدمات التصديق | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | صرخات | OTTS/EAC, authorised representative (secondary) |
-| موضح علامة إلكترونية ضد علامة E-mark | مقدم خدمات التصديق | الأوروبي | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE OURCE | (هـ) التمييز على أساس علامة (ثانوية) |
-* الحد الأقصى للأدلة: يرد وصف للصكوك الصادرة عن الاتحاد الأوروبي/الجماعة الاقتصادية لأوروبا من مصادر ثانوية لخدمة التصديق؛ ولم يسجل أي نص أولي ثابت من طراز EUR-Lex/UNECE/EAEU. ويجب التحقق من تواريخ التنظيم ونطاقه من النصوص الأولية قبل استخدام الامتثال. والإطار الجانبي للصين هو الجزء الوحيد المدعوم رسميا. ♪
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| Regulation (EU) (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; " DELULJ " MISSION | PROLICAL | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 مفقود | 2018/858
-| refures from chapter 36 - − voir et du révoit لاحق EUR-Lex |CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | | | 2018/858
-| Chapter VI (CoC) official reproduction | التشريع - الحكم -وك (بيانات القانون الرسمي في المملكة المتحدة) | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | مفقود |  | 2018/858
-| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | لجنة الأمم المتحدة الاقتصادية لأوروبا (الأمم المتحدة) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | مفقود |  |
-| GRRF- 84-18 الرقمي، E + البلد) | UNECE WP. 29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | مفقود |  |
-| Final Agency in 1958 and the United Nations PRO لأوروبا International | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | | | | | | |
-| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | Adilet.zan.kz - official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | مفقود |  |
-| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS OTSH forms | Alta-Soft legal reference (T3; EEC de reproduces | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE OURCE |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

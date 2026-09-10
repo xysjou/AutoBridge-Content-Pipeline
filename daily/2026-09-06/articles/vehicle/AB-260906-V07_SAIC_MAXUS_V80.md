@@ -19,8 +19,8 @@ The Xintu ('New Route') V80 is SAIC MAXUS's large van (big-VAN) family — sold 
 | Item | Chinese-market reference value | Market / MY / Trim | Confidence |
 |---|---|---|---|
 | Vehicle type | Light bus / large panel van (big-VAN), FWD or RWD by configuration | CHINA · cross-checked | CROSS_CHECKED |
-| Length / wheelbase options | Lengths ≈4950 / 5490 / 5700 mm; wheelbases 3100 / 3640 / 3850 mm by version | CHINA · single-source, confirm matrix | SINGLE_SOURCE |
-| Seating | Bus versions 5–9 and up to 15 seats by version; cargo versions 2/3 seats | CHINA · single-source, confirm | SINGLE_SOURCE |
+| Length / wheelbase options | Lengths ≈4950 / 5490 / 5700 mm; wheelbases 3100 / 3640 / 3850 mm by version | CHINA · single-source, confirm matrix | single source |
+| Seating | Bus versions 5–9 and up to 15 seats by version; cargo versions 2/3 seats | CHINA · single-source, confirm | single source |
 
 Because the same nameplate covers short passenger buses and long cargo vans, 'a V80' is not a complete specification. The order must name body length, wheelbase, bus-versus-cargo role and seat count; cargo volume and drivability differ substantially across the matrix.
 
@@ -71,12 +71,12 @@ The Chinese-market V80 is LHD; an RHD or export build requires separate OEM evid
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
-| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | T3 | SINGLE_SOURCE | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | T1 | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
-| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | T1 | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
+| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
+| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
+| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

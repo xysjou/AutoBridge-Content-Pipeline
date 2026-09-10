@@ -73,16 +73,16 @@ A carga útil e a GVW não são fixadas aqui — obtenham-nas do anúncio MIIT/C
 
 Sim, mas mantenha a homologação do chassis OEM e a conformidade da superestrutura local como duas aprovações separadas.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | FONTE ÚNICA | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
-| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号 (今日头条镜像) | CHINA | T3 | FONTE ÚNICA | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
-| 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | CHINA | T1 | VERIFICADO | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 在售配置样本 (额定载重区间线索, T4) | 58同城 | CHINA | T4 | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VERIFICADO | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
-| 卡车之家 解放 J6F 车型库 (独立商用车数据库) | 卡车之家 | NC | T2 | CROSS_CHECKED | http://www.360che.com/ | Identificação — verificação cruzada da base de dados dos veículos comerciais; carga útil ainda por anúncio |
-| FAW Caminhões globais (exportação) | FAW Jiefang | EXPORTAÇÃO | T1 | CROSS_CHECKED | https://www.fawtrucks.com/ | Identidade — referência do mercado de exportação; não igualar à China J6F |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

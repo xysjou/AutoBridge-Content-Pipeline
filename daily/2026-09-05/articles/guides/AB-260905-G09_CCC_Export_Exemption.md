@@ -43,15 +43,15 @@ The CCC catalogue and exemption categories are updated; use the current SAMR/CNC
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
-| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
-| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
-| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
-| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | T1 | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
-| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
-| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
-| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | T1/T2 | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
-| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | T1/T2 | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
+| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | primary | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
+| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
+| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
+| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | primary/independent | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

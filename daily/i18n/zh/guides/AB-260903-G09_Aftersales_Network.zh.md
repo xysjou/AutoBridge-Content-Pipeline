@@ -79,17 +79,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 四部废车出口通知(项目6:支助系统) | 国务院政策图书馆. | | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm 维基月球 | 2026-09-03 | 实录 | 政策上对联合售后/部分/技术支助的期望 |
-| 相同的通知(支助系统) | 商务部. | | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html 维基月球 | 2026-09-03 | 实录 | MOFCOM 对应文本 |
-| 中国汽车制造商如何弥合海外售后差距 | 新浪财经. | 全球 | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml 维基月球 | 2026-09-03 | 资源 | 多品牌网络路径;墨尔本部件实例; 7-yr 保修实例 |
-| 全球范围的各个部分必须系统化 | 北京新闻网. | 全球 | https://m.bjnews.com.cn/detail/1779683581168283.html 维基月球 | 2026-09-03 | 横跨 | "重销,轻服务"的弱点; 授权风险 |
-* 本指南涉及服务业务,与备件采购组别。 * 报告迟交是因为需要翻译。
+| Four-ministry used-car export notice (item 6: support system) | State Council policy library | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Policy expectation of joint after-sales/parts/tech support |
+| Same notice (support system) | Ministry of Commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | MOFCOM counterpart text |
+| How Chinese automakers can close the overseas after-sales gap | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | single source | Multi-brand network path; Melbourne parts example; 7-yr warranty example |
+| Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
+*Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
 
-| 《修理/更换/归还家庭汽车产品的责任规定》(SAMR第43号命令) | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html 维基月球 | 2026-09-05 | 实录 | 国内担保(三宝)基线,即海外售后条件必须与 |
-| 中国国际贸易促进会(贸易服务网). | 中共中央 | l | http://www.ccpit.org/ 维基月球 | 2026-09-05 | 实录 | 支持海外服务网络建设的体制渠道 |
+| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
+| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

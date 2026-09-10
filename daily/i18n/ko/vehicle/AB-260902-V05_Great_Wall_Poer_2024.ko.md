@@ -29,7 +29,7 @@ GWM Poer (중국 이름 炮 Pao; 일부 수출 시장 GWM Ute)는 중동, ANZ, �
 - 1520 × 1520 mm (내부)의 여객형 참조는 단일 데이터베이스 소스에서 기록됩니다. 선택된 택시 침대 (표준 대 긴 변경)에 내부 길이 폭 높이를 확인합니다.
 - **Payload, GVW, 견인 등급, 차축 등급 및 타이어 부하 인덱스는 검증된 사실베이스에 있지 않았고 발명되지 않았습니다. ** GWM 시트에서 정확한 버전과 목적지 시장에 요청하십시오. 그들은 서스펜션, 휠베이스 및 여객 vs-commercial 등급과 다를 수 있습니다.
 ## 주문에 대한 버전 맵
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 주문 초점 |
+| 의 | 의 | 주문 초점 |
 |---|---|---|
 | 乘用版 Passenger | 컴포트 더블 택시, 자동, 주문형 4WD | 손질, 4 × 2/4 × 4의 전송 년 |
 | 商用版 Commercial | 일지향, 긴 침대 (3470 mm WB), 더 넓은 전송 선택 | Payload/GVW, 침대 길이, 리프 스프링 설정, 수동 옵션 |
@@ -76,19 +76,19 @@ GWM Poer (중국 이름 炮 Pao; 일부 수출 시장 GWM Ute)는 중동, ANZ, �
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM 픽업 공식 구성표 (GW4C20B/GW4D24, 8AT/9AT, 순전히/torque) | GWM (**제조업체 공식**) | 담당자: Mr. wang | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 설정하십시오. | 2026-09-03 | ** 인증** | 현재 공식 그물 산출 160 kW/380 N·m 가솔린, 135 kW/480 N·m 디젤, 8AT/9AT |
-GWM POER 2.4 수출 (181hp/480 N·m/9AT의 몸에 구조 4WD) | GWM 요르단(**) | | 의 경우 | 2026-09-03 | ** 인증** | 2.4 디젤 출력, 9AT의 4WD 몸에 구조 수출하십시오 | https://www.gwmjordan.com/en/poer/poer?v=440
-| GWM UK POER300 발사 (2.4 디젤 183 PS/480 N·m, 9AT의 가득 차있 시간 4 × 4 저급) | GWM 소개 자동차 영국 (**제조업체 공식**) | 수출/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ 대한 자세한 정보 | 2026-09-03 | ** 인증** | 수출 디젤 등급, 9AT, 4 × 4 저비용 |
-| 2024년 주식회사 PCauto(太平平年) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: 의 | 2026-09-02 | CROSS_체크 | 2024년 140kW/360 가솔린, 135kW/480 디젤, ZF 8AT | https://price.pcauto.com.cn/m128673/config.html
-의논문 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동등록방지를 위한 자동 담당자: Mr. 광 | https: | 2026-09-02 | CROSS_체크 | 3230/3470 휠베이스, 버전 드라이브 전송 | https://product.360che.com/m792/198189_param.html 360che
- ( ) | 汽车(汽车) | 汽车(汽车) 담당자: Mr. 광 | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE_SOURCE(싱글) 모델 번호: GW4C20B 2.0T 190Ps/360N·m、m 8AT | G
-太平平 太式  | 太平平 | 담당자: Mr. 광 | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE_SOURCE(싱글) | ☸ 5416×1947×1886、2.0T 140kW/360N·m、성년회20년만화리점 |
-上鶏市 上利用上 | 上鶏市 | 上富良市 上市 | 上富良市 上市 上市 上市 上市 上市 上市 | 上多上市 上市 | 上多市 上市 上市 上市 上市 上市 上多市 上市 上市 上市 上市 上市 上市 上市 上市 上多上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上市 上 담당자: Mr. 광 | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE_SOURCE(싱글) | ❁用版 2.4T T 13.58/14.88 만원 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*Confidence 참고: 현재 GWM-official 페이지에 VERIFIED입니다; 2024 중국 여객 가치는 데이터베이스에 CROSS_CHECKED이고 섞는 모형 년을 피하기 위하여 분리된 deliberately입니다. Payload/GVW/towing는 공식적인 장에 남아 있고 예상되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

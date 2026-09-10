@@ -37,7 +37,7 @@ The 4th-generation car is larger (reported 4770 1910 mm, 2800 mm 轮基). 将两
 
 ## 生成边界(顺序精确度)
 - **本页:**3rd-generation 冠军,MY2024(4710 mm,2710 mm;1.5T 138 kW/2.0T 171 kW).
-- ** 较新: ** 4th generation from Sept 2024 (4770/1910, 2800 mm (中文(简体)). 订正1.5T QQ 141 kW。
+- ** 较新: ** 4th generation from Sept 2024 (4770/1910, 2800 mm  订正1.5T QQ 141 kW。
 - 建议:将**代+发动机代码+生产月** 列入PI,并在存入前交叉核对VIN.
 
 ## 付款前, 进口商应该核实什么
@@ -82,19 +82,19 @@ The 4th-generation car is larger (reported 4770 1910 mm, 2800 mm 轮基). 将两
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2024 CS75 PLUS 完整参数表 | ZOL 数据库 | 氯化萘 | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html 维基月球 | 2026-09-03 | 横跨 | 尺寸、发动机、8AT、设备、价格(TIME_SENSITION) |
-| 4th-gen CS75 PLUS | PCauto 图提亚 | 氯化萘 | http://m.toutiao.com/group/7413030203410940468/ 维基月球 | 2026-09-03 | 时间(_S) | 4th-gen 4770/1910, 2800 mm (单位:千美元) |
-| 4th-gen 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 超超2.0T 171 kW Aisin 8AT 超高频 | 人民日报 (重庆). | 氯化萘 | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html 维基月球 | 2026-09-03 | 实录 | 2.0T 功率,艾辛8AT (官方媒体) |
-| 长安汽车2024号年度报告. | | 氯化萘 | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF 维基月球 | 2026-09-03 | 实录 | 新平台,标准化L2(公司备案) |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
+| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* 信使说明:引擎/吉宝箱和4th-gen边界由官方媒体和长安自己的年度报告(VRIFIED)支持;参数表细节进行交叉检查. 国内价格和新世代的数字是时间性敏感的. 目标同化仍是一个单独的检查。 * 报告迟交是因为需要翻译。
+*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

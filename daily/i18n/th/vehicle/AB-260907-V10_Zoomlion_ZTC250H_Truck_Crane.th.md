@@ -36,7 +36,7 @@
 
 | รายการข้อมูล | ทําไม จึง สําคัญ? |
 |---|---|
-| parts - parts - momomo momo momomo momo (in อังกฤษ) (in อังกฤษ) (Rradius vs) (Rradius vs) | ก ก ก ค ค ค ค ค ค ค ค ค ค ○ ○ ค ค ค ค ค ค ค ค ค ค ค ค ค ค อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ล ○ ○ ล ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+| parts - parts - momomo momo momomo momo (in อังกฤษ) (in อังกฤษ) (Rradius vs) (Rradius vs) | ก ก ก ค ○ ○ ค อ ล ○ ○ ล ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
 | ความสูง: | การกําหนดค่าสําหรับงานจริง ๆ และความสูงการรับส่งข้อมูล |
 | Carir Chasis: เครื่องยนต์, แผงปล่อย, ไดรฟ์, GVW/axleโหลด | การลงทะเบียน, กฎการปล่อยก๊าซและถนนที่อนุญาต |
 | โอเวอร์มิติและความเร็วการเดินทาง | การวิ่งเรือข้ามฟาก/ การเดินเรือที่สะดวกสบาย และต้องการเพื่อนเที่ยว |
@@ -59,7 +59,7 @@
 3. ยืนยันปลายทางการยกร่างและกฏการดําเนินงาน/ถนน
 4. ตรวจสอบทั้งมิติ ความสูงของการขนส่งบูม และ routing/escort ความต้องการ
 5. แยกหลักฐานโออีเอ็ม สําหรับการสร้าง RHD หรือเครื่องตรวจการส่งออก
-6. แก้ไขสัญญา อนุกรม/VIN ตรงข้าม, ใบแจ้งหนี้, บี/แอล และตราตราตราของเครื่องจักร ก่อนที่จะจ่ายเงินก้อนสุดท้าย
+6. แก้ไขสัญญา อนุกรม/VIN ตรงข้าม, ใบแจ้งหนี้, บี/แอล และตราของเครื่องจักร ก่อนที่จะจ่ายเงินก้อนสุดท้าย
 
 ## ขนาด FAQ
 ~ 25 ตัน หมายถึงอะไร สําหรับ ZTC250H ~
@@ -82,16 +82,16 @@ It is the nominal 25-tonne class; การยกเซฟที่รัศม�
 
 เครื่องขายของจีนคือ LHD RHD หรือ RHD ที่ได้รับการส่งออก ZTC250H ต้องการหลักฐานจากซูมลิออน โออีเอ็มแยกกัน และไม่มีการสันนิษฐานเดียวกัน
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | identity |
-| 铁甲网 | 铁甲网 | CHINA | T3 | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | T4 | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | T4 | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
-| 抖音 | 抖音 | CHINA | T4 | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6717066179594158595/ | identity |
+| 铁甲网 | 铁甲网 | CHINA | media/industry | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | directory/listing | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | directory/listing | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
+| 抖音 | 抖音 | CHINA | directory/listing | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]

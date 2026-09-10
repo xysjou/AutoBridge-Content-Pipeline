@@ -19,8 +19,8 @@ Interstellar T90 (Xingji T90, 중국 MAXUS T90)는 SAIC MAXUS의 중간 크기, 
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
 |---|---|---|---|
 | - 연혁 | 바디에 프레임 (비 로드 베어링) 중간 크기 픽업, 더블 택시 | 중국 · 크로스 검사 | CROSS_체크 |
-| 표준 휠베이스 | ≈ 5365 × 1960 × 1845 mm, WB 3155; 침대 ≈ 1485 × 1510 × 530 mm | 중국 · 단일 소스, 확인 | SINGLE_SOURCE(싱글) |
-| 긴 축축 | ≈ 5680 × 1960 × 1845 mm, WB 3470; 침대 길이 ≈ 1800 mm | 중국 · 단일 소스, 확인 | SINGLE_SOURCE(싱글) |
+| 표준 휠베이스 | ≈ 5365 × 1960 × 1845 mm, WB 3155; 침대 ≈ 1485 × 1510 × 530 mm | 중국 · 단일 소스, 확인 | single source(싱글) |
+| 긴 축축 | ≈ 5680 × 1960 × 1845 mm, WB 3470; 침대 길이 ≈ 1800 mm | 중국 · 단일 소스, 확인 | single source(싱글) |
 
 표준 및 긴 침대 버전은 다른 전체 길이 및 휠베이스, 그래서화물 상자 길이 및 차량 발자국은 순서에 일치해야합니다; 컨테이너 /로드 feasibility는 또한 신체가 선택되는 것에 따라 달라집니다. 이 차원은 OEM/announcement 장의 단 하나 근원입니다.
 
@@ -68,16 +68,16 @@ Two-wheel drive, 부품 시간 4WD  and  주문 지적인 4WD, 으로 트림.
 
 아니요 - 중국 시장 디젤 만; EV는 다른 사양 및 배송 규칙과 분리 된 제품입니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际 T90 柴油 (上汽 π 双涡轮 2.0T 160kW/500N·m, 采埃孚 8AT, 拖拽 3.5t) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT,  拖拽  |
- T T90 标 /   ( 5 5365 × 1960 × 1845 WB3155   1485; 长轴 5680 WB3470 货箱 1800) | 汽车之家·车家号 | 담당자: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱,  轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 (非承载、 接近角 / 离去角) | 太平洋汽车百科 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身,  通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, towing) - 수출 범위 | SAIC MAXUS의 장점 - 연혁 | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; T90의 가치
-上大大通 MAXUS T90 中国方 (鶏/CHAR) | SAIC MAXUS의 장점: 담당자: Mr. 생산 라인 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.maxusmall.com/T90.shtml | engine_diesel - 중국 시장 공식 구성 및 국내 기준 가격 |
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel - 균질화 확인 중국 픽업 변형 |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

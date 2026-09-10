@@ -76,19 +76,19 @@ La ligne chinoise référencée est la traction avant.
 
 Pas de RHD La version marché chinois est mise en évidence ici; confirmer séparément pour les destinations RHD.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINE | T2 | _CHECTURE | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
-| 2025 款博越 L 尺寸 轴距 后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) | 汽车之家 · 车家号 | CHINE | T3 | SOURCE UNIQUE | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINE | T3 | SOURCE UNIQUE | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱  |
-| Tableau des spécifications de la nouvelle Boyue L (OEM) | Geely Auto Global | CN/EXPORTATION | T1 | VÉRIFIER | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identité — table de spécifications OEM; confirmer la construction du marché |
-| Brochure Geely Starray (Qatar) — référence du marché à l'exportation | Dieu le Qatar | EXPORTATION | T1 | _CHECTURE | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identité — Starray est une plaque nominative d'exportation; ne pas assimiler les numéros d'exportation à la Chine Boyue L |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/datainfo/cpgg/ | identité — vérifier la variante de la Chine homologuée |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## Révision de la rédaction
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Dernière révision**: 2026-09-06
-- **Marché de référence**: CHINE(中国市场参考;Starray 为出口名但参数不与中国版等同)
+- **Marché de référence**: CHINE(China-market reference;Starray 为出口名但参数不与中国版等同)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les articles sensibles au temps (taux, frais, listes, gammes de produits, prix de référence nationaux) doivent être confirmés à nouveau sur la page courante officielle avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

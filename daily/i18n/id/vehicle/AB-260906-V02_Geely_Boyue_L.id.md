@@ -76,19 +76,19 @@ Apakah itu datang right- hand drive dari Cina?
 
 Tidak ada RHD Versi pasar Cina sudah terbukti ada di sini; konfirmasi secara terpisah untuk tujuan RHD.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | T2 | _ BERDECAT | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
-| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | T3 | SINGLE _ SOURCE | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | T3 | SINGLE _ SOURCE | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱  |
-| Tabel Spesifikasi Geely New Boyae L (OEM) | Geely Auto Global | CN EXPORT | T1 | TERBATAI | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identitas - tabel spesifikasi OEM; konfirmasi pembangunan pasar |
-| Brosur Starik Geely (Qatar) - Referensi pasar ekspor | Geely Qatar | EXPORT | T1 | _ BERDECAT | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identitas - Starik adalah ekspor nametalet; jangan menyamakan nomor ekspor ke Cina Boyue L |
-| 道路机动车辆生产企业及产品公告: 查询入口 | 中华人民共和国工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/datainfo/cpgg/ | Identitas - verifikasi homologated Cina varian |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - ** Terakhir ditinjau **: 2026-09-06
-- ** Referensi pasar **: CHINA 中国市场参考 Starm 为出口名但参数不与中国版等同
+- ** Referensi pasar **: CHINA China-market reference Starm 为出口名但参数不与中国版等同
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Barang yang sensitif waktu (rate, fee, list, trim line- up, harga referensi domestik) harus dikonfirmasi ulang pada halaman resmi sebelum melakukan transakting.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

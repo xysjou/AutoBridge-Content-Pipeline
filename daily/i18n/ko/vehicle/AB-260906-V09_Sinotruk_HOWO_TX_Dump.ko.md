@@ -18,9 +18,9 @@ HOWO TX는 건축을 위한 Sinotruk 중국 국가 중장비 트럭 그룹 주�
 
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
 |---|---|---|---|
-| 상표/명령 | HOWO (Sinotruk/CNHTC) 주류 무거운 덤프 트럭 선 | 중국 · 공식 공개 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |
-| 일반 레이아웃 | 8×4 (four-axle) and 6×4 (three-axle) tipper configurations | 중국 · 단일 소스, 모델에 의해 확인 | SINGLE_SOURCE(싱글) |
-| 표본 8 × 4 몬탈 | Weichai WP10H400E62 ≈ 400 PS (중국 6); HW19712L 12 속도는 지시합니다; MCX16ZG의 구동용 지게차 | 중국 · 한 샘플 제작 | SINGLE_SOURCE(싱글) 의논문
+| 상표/명령 | HOWO (Sinotruk/CNHTC) 주류 무거운 덤프 트럭 선 | 중국 · 공식 공개 | 의 |
+| 일반 레이아웃 | 8×4 (four-axle) and 6×4 (three-axle) tipper configurations | 중국 · 단일 소스, 모델에 의해 확인 | single source(싱글) |
+| 표본 8 × 4 몬탈 | Weichai WP10H400E62 ≈ 400 PS (중국 6); HW19712L 12 속도는 지시합니다; MCX16ZG의 구동용 지게차 | 중국 · 한 샘플 제작 | single source(싱글) 의논문
 
 WP10H400 / 12-speed / MCX16ZG 조합은 ** 하나의 대표 8 × 4 빌드 **, TX 카탈로그가 아닙니다. HOWO 팁 주는 다수 엔진 (를 포함하여 Sinotruk의 자신의 MC 시리즈)와 기어 박스로 제안됩니다; 계약은 "A HOWO TX 400"를 주문하는 것보다 정확한 몬탈을 명명해야 합니다.
 
@@ -70,15 +70,15 @@ Payload/GVW/GCW는 여기에 고정되지 않습니다. - 균질 발표 및 신�
 
 Not homesd — export/regional builds and Steering needs 별도의 OEM 증거.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃 TX 8x4 渣土自卸 (潍柴 WP10H400E62 400Ps、 HW19712L 变速箱、 MCX16ZG 后桥) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥,  8x4  |
-| 重汽 2025 年半年报 (豪沃 HOWO 品牌与整车产销官方披露) | 中国重汽 (深交所披露년) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 / 产销官方披露 / 品牌 / 产销官方披露 / 品牌 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 品牌 / 产销官方披露 / 品牌 / 产销官方披露 / 产销官方披露 / 品牌 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 品牌 / 产销官方披露 / 品牌 / 产销官方披露 / 品牌 / 产销官方披露 / 产销官方披露 / 品牌 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露 / 产销官方披露  |
-中国中国中(中) | 中日日(中) | 中国(中) | 中国(中) | 中日日日(中) | 中国(中) | 中国(中) | 中国(中) | 中国(中) | 中国(中) | 中日本(中) | 中日本(中日本) | 中日本(中日本) | 中日本(中) | 中日本(中国) | 中国(中) | 中国(中) 담당자: Mr. Li | T2 | CROSS_체크 | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| SINOTRUK/호주 세계적인 공식 | 중국 국가 트럭 그룹 (Sinotruk) | - 연혁 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.sinotrukchina.com/ | brand_official — OEM 기업; HOWO 상표 ID; 수출은 시장경찰을 건설합니다 |
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — 8x4/6x4 포좌, 엔진 및 GVW를 공지합니다 |
-| 卡车之家 HOWO 车型库 (独立商用车数据库) | 卡车之家 | 담당자: Mr. wang | T2 | CROSS_체크 | http://www.360che.com/ | identity — 샘플 구성의 독립적 인 크로스 체크 |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

@@ -45,7 +45,7 @@ Le Qin L DM-i est un saloon hybride rechargeable de taille moyenne construit sur
 Un acheteur de VÉHI a besoin de quatre réponses dans l'ordre: **moteur, moteur d'entraînement, batterie, mode charge/exploitation**. Ici, le moteur 1.5L dédié génère/assists principalement à travers un DHT à une vitesse unique; le conducteur bascule entre les modes électrique et hybride plutôt que de déplacer les rapports. La batterie est adaptée à la gamme électrique sur chaque ligne de commande.
 
 ## La revendication de la gamme — conserver l'étiquette du fabricant jointe
-- The 80/120 km figures are **CLTC** electric range.
+- Les valeurs 80/120 km sont l'autonomie électrique **CLTC**.
 - Un chiffre global d'environ ** 2100 km sur un réservoir complet et une charge complète** apparaît dans la couverture chinoise sous la forme d'un nombre ** réclamé par le fabricant**. Il doit être étiqueté comme une revendication d'usine, jamais présentée comme un résultat mesuré, et il n'est pas comparable à un chiffre du cycle de destination.
 
 ## Corps et cabine
@@ -101,21 +101,21 @@ Aucun prix à l'exportation n'est publié. La gamme de guidages chinois 2024 (en
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tableau maître des paramètres Qin L DM | Base de données Dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | _CHECTURE | Dimensions, empattement, batterie, DHT, poids, réservoir |
-| Configuration DM Qin L | Base de données Sohu Auto | NC | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | _CHECTURE | Dimensions, plage CLTC |
-| Qin L DM-i 2024 120km Coupe avant | Base de données Sohu Auto | NC | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | _CHECTURE | 120 km CLTC, prix de référence intérieur |
-| Gamme DM de cinquième génération et analyse de l'utilisation du carburant | Auto-home·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SOURCE UNIQUE | Moteur dédié, temps de charge rapide, gamme combinée déclarée |
-| Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
-| BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
-| GB 38031 prescriptions de sécurité pour les batteries de traction (GB 38031-2025; nouvelles demandes de type obligatoires à partir de 2026-07-01) | Plateforme en texte intégral des normes nationales SAMR | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VÉRIFIER | Base obligatoire des exigences de sécurité en matière de batteries de traction pour le groupe motopropulseur électrifié |
-| GB 18384 prescriptions de sécurité des véhicules électriques (GB 18384-2025) | Plateforme en texte intégral des normes nationales SAMR | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VÉRIFIER | Base des exigences de sécurité électrique/fonctionnelle pour véhicules électriques |
-| GB 18352.6-2016 avec l'amendement XG1-2026 (Chine-6 émissions polluantes des véhicules légers) | Ministère de l'écologie et de l'environnement (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VÉRIFIER | Chine- 6 phase d'émission des véhicules légers et les dates d'application de l'amendement 2026 |
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Note de confiance: les dimensions et les étapes de la plage sont recoupées dans deux bases de données; les détails du moteur, le temps de chargement rapide et la revendication 2100 km sont une source/usine unique. Aucune page d'OEM à l'étranger capturée — référence du marché chinois seulement. *
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)

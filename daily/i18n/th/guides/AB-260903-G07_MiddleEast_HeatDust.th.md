@@ -13,7 +13,7 @@
 - **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 
 ## หลัก ฐาน ที่ เกี่ยว พัน
-สองชั้นหลักฐาน ถูกแยกออกจากกัน ลู่วิ่งของระบบยูเอสเอซียูตอนนี้ตั้งอยู่บนแหล่งกําเนิดหลัก -- โครงสร้างของ GCCมาตรฐาน (GSO) ประยุกต์ใช้ทั่วประเทศโดยซาอุดิอาระเบีย และโดยยูเอเอเอผ่านทางโมอีเอที (อีซีเอเอส) และถูกอ้างอิงในแหล่งกําเนิด ~ เครื่องยนต์ปรับตัวได้~ ~ด้านล่าง (เย็น, ชาร์จ, AC, ผนึก และ สิ่งแวดล้อม) ยังคงพักแต่ละที่บนหนึ่ง เร่งหรือ แหล่งที่มาอุตสาหกรรม และยังคง Single_ การ ประเมิน ทาง ไปรษณีย์ ไม่ ใช่ ข้อ เรียก ร้อง ทาง กฎหมาย ของ อ่าว. ไม่มีชุดยูนิฟอร์ม "kulf speck": ยืนยันรายการทั้งหมดที่มี OEM/upfter สําหรับโมเดลและซองจดหมายปฏิบัติการ และขัดแย้งกับโปรแกรม ~DESTIME's expression's example continuation continuation the GSO (Sudy and UAE true and UE February) sections loadment language language
+สองชั้นหลักฐาน ถูกแยกออกจากกัน ลู่วิ่งของระบบยูเอสเอซียูตอนนี้ตั้งอยู่บนแหล่งกําเนิดหลัก -- โครงสร้างของ GCCมาตรฐาน (GSO) ประยุกต์ใช้ทั่วประเทศโดยซาอุดิอาระเบีย และโดยยูเอผ่านทางโมอีเอที (อีซีเอเอส) และถูกอ้างอิงในแหล่งกําเนิด ~ เครื่องยนต์ปรับตัวได้~ ~ด้านล่าง (เย็น, ชาร์จ, AC, ผนึก และ สิ่งแวดล้อม) ยังคงพักแต่ละที่บนหนึ่ง เร่งหรือ แหล่งที่มาอุตสาหกรรม และยังคง Single_ การ ประเมิน ทาง ไปรษณีย์ ไม่ ใช่ ข้อ เรียก ร้อง ทาง กฎหมาย ของ อ่าว. ไม่มีชุดยูนิฟอร์ม "kulf speck": ยืนยันรายการทั้งหมดที่มี OEM/upfter สําหรับโมเดลและซองจดหมายปฏิบัติการ และขัดแย้งกับโปรแกรม ~DESTIME's expression's example continuation continuation the GSO (Sudy and UAE true and UE February) sections loadment language language
 
 ## ทําไมรถจีนถึงไม่ได้เปิดทางอ่าวโดยอัตโนมัติ
 รถ ที่ ปรับ ตั้ง เพื่อ ให้ สภาพ ของ ชาว จีน ดี ขึ้น จะ มี ความ ร้อน และ ฝุ่น เพิ่ม ขึ้น อีก ใน อ่าว. One upfit source describes Gulf summer ambient around **40–50 °C**, ฤดูหนาวใกล้ 20 °C # บ่อยครั้ง # and ความชื้นสูง ใส่เครื่องปรับอากาศในหน้าที่ที่ใกล้กัน โครงสร้างเฉพาะของจีนมีอยู่แล้ว ที่ซองนั้น เป็นคําถามเกี่ยวกับวิศวกรรมแบบเฉพาะ ไม่ใช่ข้อสมมุติ
@@ -31,7 +31,7 @@
 สําหรับรถที่ขับเคลื่อนได้ แบตเตอรี่เป็นระบบที่ไวต่อความร้อน แหล่งที่มาทางวิศวกรรมหนึ่งพิจารณาถึง การจัดการอุณหภูมิที่ถูกตัดด้วยเซลล์-อุณหภูมิเท่ากัน และข้อสังเกตว่า แพ็คที่เย็นอากาศสามารถรับความเปราะบางได้มากกว่า ภายใต้อุณหภูมิที่ทนทานได้สูง (single-source) การ อ่าน อย่าง ถูก ต้อง สําหรับ การ หา เลี้ยง ชีพ:
 - ** ถาม OEM สําหรับข้อมูลอุณหภูมิ* เปรียบเทียบวิธีการระบายความร้อนกับซองจดหมายเป้าหมาย; ** ความเย็นแบบมีหนึ่งทางเลือกที่จะประเมิน — อย่าปฏิเสธการระบายความร้อนในอากาศตามจังหวะ และอย่าถือว่าอุณหภูมิของเหลวเป็นบังคับ * ขาดพื้นฐาน OEM/เครื่องยนต์มาตรฐานสําหรับแบบจําลองนี้
 - หารือเกี่ยวกับแผนการระเบิดสูง ข้อจํากัดการชาร์จความร้อน
-- เรียงลําดับ # การเชื่อมต่อแบบร้อนจัด พฤติกรรมที่รวดเร็วดีดีซี กระท่อมที่ก่อนเย็น และตัวต่อต่อต่อต่อ ความอดทนของปฏิบัติการที่ร้อนฝุ่น
+- เรียงลําดับ # การเชื่อมต่อแบบร้อนจัด พฤติกรรมที่รวดเร็วดีดีซี กระท่อมที่ก่อนเย็น และตัวต่อ ความอดทนของปฏิบัติการที่ร้อนฝุ่น
 - A Chinese policy reference cites a battery-environment **target of −30 °C to 55 °C** (single-source) — a design target only, ไม่ใช่กฎหมายในอ่าว
 
 ## ความ ร่วม มือ ใน ด้าน วิศวกรรม
@@ -51,7 +51,7 @@
 "อากาศเย็นที่ยอมรับไม่ได้สําหรับ เบย์ EVs หรือเปล่า" อย่าตัดสินใจตามกฎของนิ้วโป้ง สอบถามข้อมูลความร้อนสําหรับซองจดหมายเป้าหมาย น้ําเย็นเป็นทางเลือกที่จะประเมิน ไม่จําเป็นทั่วไปที่ระบุไว้
 วิศวกรรมปรับตัวเหมือนกับการรักมนุษย์หรือเปล่า ไม่ — การปรับตัวคือการประเมินทางวิศวกรรม; การยอมรับแบบ GCC/GSO เป็นการแบ่งชนชั้นงานและทั้งการบังคับ และทั้งสองต้องตรงกับการสร้างเดียวกัน
 **อุณหภูมิที่รถใช้?** One source describes ~40–50 °C Gulf summers; การ อ้างอิง นโยบาย ของ จีน อ้าง ถึง เป้า หมาย การ ออก แบบ ○ 30 ถึง 55 °C ราย — ทั้ง ยัง เป็น ข้อ จํากัด ทาง กฎหมาย ของ อ่าว.
-~ฉันจะหามาตรฐาน GSO/AC ที่ถูกต้องได้ที่ไหน~ เริ่มต้นจาก GSO การจําลองข้อมูลทางเทคนิค จากนั้นเปิดเส้นทางแห่งชาติของชาติที่ดําเนินงานต่อไป -- SASOO/SABER สําหรับซาอุดิอาระเบีย, โมอิตสําหรับยูเอเอเอ — เพราะข้อความ GSO ถูกนําไปใช้ในประเทศ. AC ที่ระบุ ซึ่งไม่สามารถตรวจสอบได้โดยตรง ผู้สมัครวิศวะฯ ที่อยู่ที่นี่ยังคงต้องการยืนยันค่า OEM/upfter
+~ฉันจะหามาตรฐาน GSO/AC ที่ถูกต้องได้ที่ไหน~ เริ่มต้นจาก GSO การจําลองข้อมูลทางเทคนิค จากนั้นเปิดเส้นทางแห่งชาติของชาติที่ดําเนินงานต่อไป -- SASOO/SABER สําหรับซาอุดิอาระเบีย, โมอิตสําหรับยูเอ — เพราะข้อความ GSO ถูกนําไปใช้ในประเทศ. AC ที่ระบุ ซึ่งไม่สามารถตรวจสอบได้โดยตรง ผู้สมัครวิศวะฯ ที่อยู่ที่นี่ยังคงต้องการยืนยันค่า OEM/upfter
 
 ## บันทึกรูปภาพ
 - IMAGE_ASSET_PATH: none secured in repository
@@ -79,18 +79,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| การปรับระดับความเข้มของเส้นใต้ (dimp/fridy-Vhine) ของ GCC | upfit | อ่าว | https://m.11467.com/product/d15654879.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ช่วงสภาพอากาศ; ผู้สมัคร ICE ปรับจุด (แหล่งหนึ่ง) |
-| สัมบูรณ์ NEV (ของเหลวสูง- temp atmp ต่ําความร้อนตัวเอง) | วิศวกรรม ใน จีน ตู เทียว | สากล | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | การเจรจาเรื่องอุณหภูมิอากาศ (แหล่งเดียว) |
-| ต่ํา- เทมเปิลชัน (30 ~ 55 เป้าหมาย) | D1EV โตโยะโตโย | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ○ 30 ถึง 55 °C เป้าหมายการออกแบบนโยบาย (แหล่งเดียว) |
-| 2026 Jedah อัตโนมัติส่วนยุติธรรม (ส่วน Hat/ place, BMS) | สึฮู | ซาอุดิ | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ส่วนประกอบ hat/ guild- resent; OCKLPP บันทึกช่วยจํา (แหล่งหนึ่ง) |
-* เพดานการรับแสง: ความจริงที่ปรับตัวได้ทุกข้ออยู่บนแหล่งเดียว (ทุกแหล่งย่อย) ไม่มีสัญญาณ จีเอสโอ มาตรฐานหลัก หรือ ตัวแปรโออีเอ็ม ถูกบันทึก รายการต่าง ๆ ถูกตั้งเป็นจุดประเมินสําหรับ OEM/upfter ไม่ใช่ความต้องการของอ่าวสากล ไม่มีการยืนยันการจํากัดหรือกําหนดกฎหมาย *
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| รายการข้อกําหนดการใช้ GPC แบบหมุน- Viohcle | องค์กรการมาตรฐาน GCC (GSO) | GPC | https://www.gso.org.sa/ | 2026-09-05 | เปิดใช้งาน | ข้อกําหนดการใช้รถแบบ GPC ตลอด, เกลียว. eptemberments (โปรแกรมในชนบทต่าง ๆ) |
-| ม ม ม ม ม ม ม ม ม ม ม ร ร ร ร ร ร ร ร ท ท ท า า า า า า า า า า า ต ต ต ต ต ต ต ต า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ม ม ม ม ม ( ม ม ม า – ม – ม ม ( ม ม ม ม ม ม ม ม ม ส ส ( ส ส ส ส ส ส ส ส ส ม ม ส ส ส ส ม ส ส ส ส ส ส ส ส ส ส  เมโทรโลโลปี แ แ แ ณ ภ ภ AS น น น น | |/saw.sv/say/en/pl/fffs/fffast.asppx | 2026-09-05 | เ เ เ เ เ เ เ ใ | | | | | ต ต ต ต ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ่ ่/ ่/ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ่ ร ร ร ร ร ร ร
-|/N/N////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ส่วน) | สํานักงานอุตสาหกรรมและเทคโนโลยีขั้นสูง (MOAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | เปิดใช้งาน | เส้นทางการตามค่า UAE- identity; ร ก ก า า า า ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ( ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ( ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร Hot/ 0538/ น น ท/ท/่/่/่/่/่/ั/ั/ั/ได้/ได้/ได้/ได้ ร ร ร ร ร ร ร ร ั ร ร น น น น น น น น น น น น น น น น น ด น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น  สืบค้นเมื่อ GCC- University |
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

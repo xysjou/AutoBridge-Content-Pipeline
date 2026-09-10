@@ -86,16 +86,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026汽车/摩托车出口许可证申请通知(商办贸函 ][2025] 408 号) | 财政部(**政府官员**) | 氯化萘 | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html 维基月球 | 2026-09-03 | ** 已执行** | 在线申请系统,本地审查,合格名单流程 |
-| 2026-01-01的纯电动客运出口许可证(第54号公告;HS 8703801090) | 财政部/军事情报组/全球协调理事会/索马里监测监测团(**政府官员**) | 氯化萘 | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html 维基月球 | 2026-09-03 | ** 已执行** | 2026 国家车辆-旅客出口许可证制度 |
-| 2026 出口许可证企业合格名单. | MOFCOM 外贸司(**政府官员**) | 氯化萘 | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html 维基月球 | 2026-09-03 | ** 已执行** | 本年度合格企业. |
-| 进一步加强废旧汽车出口管理(第2025号). | 财政部/MIIT/MPS/GAC通过gov.cn(**政府官员**) | 氯化萘 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm 维基月球 | 2026-09-03 | ** 已执行** | |
-| 15-unit 倾卸式卡车招标(具有约束力的技术指标) | 湖南路大桥集团(实际招标) | CN_中亚 | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html 维基月球 | 2026-09-02 | ** 已执行** | ≥ 15立方米, T700钢铁, 楼层 ~ 10 mm, 侧 ~ 8 mm, 升降机类型 |
-| | CV制造商(Chary/FAW指导;Chengli 12-step流程) | CN+全球化学品 | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html 维基月球 | 2026-09-02 | 横跨 | |
-* 说明:2026份出口许可证制度和投标接受指标在政府/实际投标来源上经过核实。 工程/流程指导是制造商/工业(CROSS_CHECKED);本年度清单、海外电子计算仪网络和所有商业条件(贴现/MOQ/领导时间)都是现场获得的,从未估算过。 * 报告迟交是因为需要翻译。
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

@@ -61,7 +61,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** AutoBridge 出口-买方参考——远洋货运报价收费结构,车辆-出口采购指南
 - **法国**: 出口汽车运输公司-海运货运收费结构,出口汽车指南
@@ -69,26 +69,26 @@
 - **ES**: 出口代理商——海运货物提价结构,出口代理商
 -  **: 出口自理公司——海运运费结构,出口自理公司
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Ocean freight quotation charge structure, 自動車輸出 調達ガイド
-- 科罗拉多州: 自动桥 바이어 참고 자료| 자료| Ocean 货运报价收费结构,자동차 수출 조달 가이드 가이드 가이드
+- 科罗拉多州: 自动桥 바이어 참고 자료| 자료| Ocean 货运报价收费结构,자동차 수출 조달 가이드
   - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Ocean freight quotation charge structure, hướng dẫn thu mua xuất khẩu xe
 - ** ** ** เอกสารอ้างอิง AutoBridge QQ——远洋货运报价收费结构,QQ
 - 身份证**: Powerensi AutoBridge untuk pembeli ekspor——远洋货运报价收费结构,潘都安 pengadaan ekspor kendaraan
 - AR**: 国家 ——远洋货运报价收费结构, دليل مشتريات تصدير المركبات المركبات المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| FCL出口附加费细目 | 净值 | INTL 语言 | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html 维基月球 | 2026-09-04 | 横跨 | |
-| THC 定义 | 西纳 金融航运 | INTL 语言 | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md 维基月球 | 2026-09-04 | 横跨 | 终端处理覆盖 |
-| 按车道分列的海洋出口收费组件 | 白凯 | INTL 语言 | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 维基月球 | 2026-09-04 | 横跨 | 附加分类法,AMS/ACI/ENS 路线逻辑 |
-| 常见离岸外包费用(THC/订帐/拖车) | | 氯化萘 | https://m.11467.com/product/d24491409.htm 维基月球 | 2026-09-04 | 资源 | 充电命名 | 11467
-* 证据范围:从行业来源交叉检查收费结构(没有官方关税主要来源);AMS/ACI/ENS作为特定路线的编辑指导;所有金额都故意排除为时间敏感。 * 报告迟交是因为需要翻译。
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| 国际贸易术语解释通则2020规则(每个任期安排/支付运输费) | 国际商会(国际商会) | INTL (美国英语). | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ 维基月球 | 2026-09-05 | 实录 | |
-| 货运商做法和收费类别 | 菲亚塔 | INTL (美国英语). | https://fiata.org/ 维基月球 | 2026-09-05 | 实录 | |
-| 班轮航运和附加费 | 世界航运理事会 | INTL (美国英语). | https://www.worldshipping.org/ 维基月球 | 2026-09-05 | 实录 | 海运和辅助费的工业背景 |
-| 中国国际 货运代理协会 | 爱联 | l | http://www.cifa.org.cn/ 维基月球 | 2026-09-05 | 实录 | 中国方面转运业和报价业务 |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

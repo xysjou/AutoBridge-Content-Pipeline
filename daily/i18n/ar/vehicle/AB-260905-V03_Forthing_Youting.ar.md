@@ -43,10 +43,10 @@ The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في ال�
 وبالنسبة للمستوردين من ميغابايت، فإن الحقول التي تتطلب الطلب هي المقاعد، ونوع الباب، وطول الكبينة، وما إذا كانت الوحدة هي ICE أو PHEV. ولا تُستَولى على قدرة الكتيبة على شبكة الإنترنت وعلى النطاق الكهربي النقي بشكل موثوق، كما أنها محجوبة**، وتُفرض رسوم سريعة على مصدر واحد؛ ولا تملأ هذه القدرات من الافتراض. وأي سيارة إسعاف أو مكوك أو كرسي متحرك هو مصعد مبني على هذا المقطعي المتعدد الأطراف وينتمي إلى تقييم منفصل للمركبات الخاصة.
 
 ## التحقق من المشتري في الخارج قبل الدفع
-1. State ICE or PHEV explicitly and record the matching dimensions/height.
+1. حدّد بوضوح ما إذا كانت ICE أم PHEV وسجّل الأبعاد/الارتفاع المطابقة.
 2. تأكيد 7-seat تخطيط، نوع الباب وأي نطاق للتحويل.
 3. وتُمنع هذه البيانات من استخدام في الهواء الطلق وشحن البيانات من OEM قبل اقتباسها.
-4. Confirm destination emissions/type-approval and (for PHEV) charging standard.
+4. تأكد من انبعاثات/اعتماد النوع في الوجهة، و(بالنسبة لـPHEV) معيار الشحن.
 5. معالجة رقم المصرف كمرجع محلي فقط؛ طلب اقتباس تصديري حالي.
 
 ## FAQ
@@ -56,16 +56,16 @@ The **Dongfeng forthing Youting (游艇)** هو متوسط الحجم في ال�
 ** هل هو 154، 900 RMB سعر التصدير؟** لا - المرجع المحلي الصيني فقط.
 ** هل يمكن تحويله إلى كمكافأة؛ تقييم منفصل عن قاعدة م.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | صرخات | https://m.16888.com/news/2026/0807/24830307.html | PHEV 上市信息 |
-| دونغ فينغ لموقع عالمي رسمي | دونغفنغ ليوزو يبلغ 东风风行 (OEM) | CN | T1 | مفقود | https://www.forthingmotor.com/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

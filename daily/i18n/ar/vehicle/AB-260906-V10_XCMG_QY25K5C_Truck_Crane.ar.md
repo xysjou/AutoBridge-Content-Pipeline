@@ -55,15 +55,15 @@
 ولا يقدر سعر الرافعة التي تُحدّد بازدهار وتجاوز واختيار الضبط. (ب) طلب اقتباس تصديري حالي مع المقصد والكمية الدقيقين، والتوجيه، والموانئ، والإينكستر، وإبقاء نطاق النقل والهياكل الأساسية واضحاً.
 
 ## FAQ
-ماذا تعني كلمة "25-tonne" في الواقع؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+ماذا تعني كلمة "25-tonne" في الواقع؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 وهي فئة إسمية؛ أما الرفع الحقيقي في أي حالة من المناطق/البووم/الخارج فيقرأ من مخطط تحميل XCMG، وليس من رقم الدرجة.
 
-هل شاحنة رافعة واحدة أو نظامين؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+هل شاحنة رافعة واحدة أو نظامين؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 ويجمع بين فوضى ناقلات الطرق والهيكل الأعلى للرفع، وكل منهما مع سلسلة الخاصة به.
 
-** هل تم تنظيمه كمعدات خاصة في الصين؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** هل تم تنظيمه كمعدات خاصة في الصين؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 تم إزالة رافعة الشاحنة المتنقلة من فهرس "آلة نقل" الخاص بشركة "النقل" على الرغم من أن قواعد الطرق ومواقع العمل لا تزال سارية
 
@@ -71,19 +71,19 @@
 
 لا - تلك - نماذج مختلفة؛ ازدهار يجب أن يكون المحرك والأبعاد تأتي من المسؤول QY25K5C ورقة
 
-** ما هي الوثائق التي يجب على المشتري الحصول عليها؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هي الوثائق التي يجب على المشتري الحصول عليها؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 مخطط العينة والشحن البالغ طوله QY25K5C مارك ألماني، بالإضافة إلى شهادة التلويث والهيكل الخارقة المستقلة للناقلات.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | T1 | مفقود | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc |  |
-| 汽车起重机未纳入特种设备目录 (事故调查报告官方表述، 佐证监管分类) | 滁州市政府 (事故调查报告 PDF) | CHINA | T1 | مفقود | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(T4) | CHINA | T4 | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
-| مسؤول عالمي | مجموعة أجهزة البناء (XCMG) | CN/EXPORT | T1 | مفقود | https://en.xcmg.com/ | الهوية - موظف من مكتب الشؤون الاقتصادية؛ تأكيد نموذج مجموعة K-series ورسم الخرائط |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/datainfo/cpgg/ | - درجة المراقبة - مقياس سلاسل الطرق؛ هيكل خارق لكل خريطة تحميل تابعة لمنظمة أوسمة |
-| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery  of CN | T2 | | | | https://www.cccme.cn/products/detail-8285510.aspx | - قائمة بالأعضاء؛ والأعضاء؛ والأعضاء؛ والأعضاء؛
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

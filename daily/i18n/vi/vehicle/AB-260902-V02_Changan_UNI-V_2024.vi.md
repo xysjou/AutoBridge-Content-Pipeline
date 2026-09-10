@@ -105,18 +105,18 @@ Có phải LHQ là xe điện hay xe xăng? Ở đây có 2024 máy bay URI-V c�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## Nguồn và Định dạng
+## Sources & Verification
 
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| URI-V 高能版 trang chính thức | Máy tự động Changan (chính thức) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VEII | Phạm vi quay, 2750 mm bánh xe, theo dõi |
-| URI-V 2nd-gen trang chính thức | Máy tự động Changan (chính thức) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VEII | Cá voi xanh 1.5T 138 kW 300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 cấu hình | Tự động nhà (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | ĐÃ_ ĐÃ | 1.5T đầu ra, 4720 mm chiều dài, WLTC 6.37 |
-| Bàn cấu hình 2024 UNI-V | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ĐÃ_ ĐÃ | 2.0T 171 kW 390 N·m, 8AT, sử dụng nhiên liệu, giá gia đình |
-| Trang số thụ tinh UNI-V | Tự động cấu hình nhà | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE_SOURCE | Độ nặng cong (các nguồn sáng) |
-| Báo cáo phóng mới của UNI-V | Phong Tự (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | ĐÃ_ ĐÃ | MacPherson/Ble kết nối, ivetrain |
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-Ghi chú tự động (tự động Bridge tiêu chuẩn): 1.5T powertraiter và 2750 mm bánh xe được thực hiện trên trang web của Changan (chính thức làm việc). 2.0T con số được đưa qua cơ sở dữ liệu độc lập; trọng lượng lề đường là SINGLE_ Nợ phải khớp với cái đĩa. *
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -28,17 +28,17 @@ The **Changan UNI-Z (2026)** covered here is the Chinese-market **new Blue Whale
 |---|---|---|---|---|---|
 | length width height | 4730 / 1890 / 1660（部分配置1680） | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
 | wheelbase | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| cargo volume | 638 | L | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| engine power | 72（1.5L混动专用发动机） | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| cargo volume | 638 | L | CHINA | single source | 搜狐汽车 |
+| engine power | 72（1.5L混动专用发动机） | kW | CHINA | single source | 汽车之家车家号 |
 | motor power | 160 | kW | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| transmission | E-CVT（电混传动） | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery type | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery capacity | 约18.4 | kWh | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| transmission | E-CVT（电混传动） | - | CHINA | single source | 汽车之家车家号 |
+| battery type | 磷酸铁锂 | - | CHINA | single source | 汽车之家车家号 |
+| battery capacity | 约18.4 | kWh | CHINA | single source | 汽车之家车家号 |
 | ev range cltc | 130 | km | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| combined range cltc | 1250 | km | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| dc fast charge power | 85 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| v2l export power | 3.3 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| center screen | 14.6 | 英寸 | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| combined range cltc | 1250 | km | CHINA | single source | 汽车之家车家号 |
+| dc fast charge power | 85 | kW | CHINA | single source | 汽车之家车家号 |
+| v2l export power | 3.3 | kW | CHINA | single source | 汽车之家车家号 |
+| center screen | 14.6 | 英寸 | CHINA | single source | 汽车之家车家号 |
 
 ## Why the battery line and V2L matter for export orders
 UNI-Z orders are easy to mis-specify because the same badge covers different electrification levels. Name the **battery capacity and electric range line** on the proforma, and treat the 85 DC and 3.3 V2L figures as Chinese-market equipment to be re-confirmed for the destination wiring/grid standard. A CLTC electric range is not a WLTP figure, and an export-market name, powertrain calibration or warranty is not established by the China sources captured here.
@@ -61,12 +61,12 @@ UNI-Z orders are easy to mis-specify because the same badge covers different ele
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安UNI-Z 参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | T1 | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

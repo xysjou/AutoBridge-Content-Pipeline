@@ -26,7 +26,7 @@ The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวห�
 ## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
 | การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| est510 กวาวุ | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA (พ.ศ. | - | จีน | ผู้โดยสาร_ปลายทาง | 抖音百科 (T4 ง) + 汽车之家 |
+| est510 กวาวุ | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA (พ.ศ. | - | จีน | ผู้โดยสาร_ปลายทาง | 抖音百科 (directory/listing ง) + 汽车之家 |
 | กัวลู x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
 | ตัวเลือกของกล่องเกียร์ | ZF 12TX2621TD（AMT）/ 法士特16挡 | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
 | รถแทรกเตอร์ gcw | 牵引总质量约40t级（6x4主流） | t | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家 + 百科 |
@@ -49,17 +49,17 @@ The Foton Damler AUMANEST (欧曼 STE) กรุ๊ป เป็นหัวห�
 ** ~ ZF 12TX AMT หรือเร็ว 16-speed โดยการสร้าง (พ.ศ.
 **X13 output?** 12.9 L, 412 kW/ 560 hp (พ.ศ. 2600 N·m บนสายจีน-วี
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 欧曼 ST 车型文章. | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力, AMT |
-| 欧曼 ST-A 配置 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 汽车之家车家号 汽车之家车家号 | CN | T3   โรออส_ CHCKEE |/schejiaho.m.auto home.com. cn/parner/yidian/artics/3450841. | 潍柴 法士特配置 | | | | |
-| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
-| 欧曼纯电 LNG 牵引车申报 | 新浪财经 | CN | T3 | ROOS_ CHCKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) พ.ศ. ○
-| โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 欧曼EST 车型文章 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12动力, AMT |
+| 欧曼EST-A 配置 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF变速 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
+| 欧曼EST 510 词条（线索） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼纯电/LNG牵引车申报 | 新浪财经 | CN | media/industry | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026纯电申报（独立新能源线，勿混入燃油） |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

@@ -24,7 +24,7 @@
 
 ## 営業チェックリスト
 1. 外国の取引権を取得し、銀行**で取引FXディレクトリ登録を完了します。
-2. 税関、銀行、FXレコードの上で一貫したエンティティティティティティティ・名前と契約/請求書番号を使用します。
+2. 税関、銀行、FXレコードの上で一貫したエンティ・名前と契約/請求書番号を使用します。
 3. 商品のフローと資金の合算を各期間に短縮し、タイミングの違い(入金、出荷段階)を文書で説明する。
 4. 必要に応じてデジタルプラットフォームを介してファイル。 任意の検証クエリに迅速に対応します。
 5. 決済方法とVAT返金プロセスを合わせ、同じトランザクションが一貫して報告されるようにします。
@@ -39,18 +39,18 @@
 **Are local SAFE branches separate regulators?** No — one authority; ブランチは同じルールを実行します。
 **買い手の国FX規則は、このカバーをしますか?** いいえ。中国側のみです。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | CN の | T1 | 検証済み | 担当: http://www.safe.gov.cn/yunnan/2024/0408/1537.html の | 取消外汇局核准、境内银行办理名录登记、首笔收支前登记 |
-| 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | CN の | T1 | 検証済み | 以下は、 https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理 | 国家外汇管理局文告 | CN の | T1 | 検証済み | 以下は、 https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf のファイル | 总量核查、货物流资金流匹配、动态分类 |（非现场总量核查）（分类管理）
-| 名录登记网上办理操作指引 (ASOne 平台) の | 国家外汇管理局广东省分局 | CN の | T1 | 検証済み | 以下は、 https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf のファイル | 数字外管平台 ASOne 操作 の |
-| 外国為替の州政権(SAFE) | セーフ 国家外汇管理局 | CN の | T1 | 検証済み | 以下は、 https://www.safe.gov.cn/en/ は、 | 取引FX登録と集計検証権限 |
-| 外国為替の州政権(SAFE) | SAFE(調整器) | CN の | T1 | 検証済み | 以下は、 安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安全・安心・安心・安全・安心・安心・安心・安全・安全・安全・安心・ | 取引FX登録および集計検証のための有能な権限 | https://www.safe.gov.cn/
-| 中華人民共和国銀行(PBOC) — 国境を越えたRMB決済フレームワーク | 中華人民共和国銀行(中国人民银行 PBOC) | CN の | T1/T2 | 検証済み | 担当: .pbc.gov.cn/. | 国境を超えたRMB決済と銀行取引のための中央銀行フレームワーク、SAFE外貨取引とは異なる | http://www.pbc.gov.cn/
-|  ICC  (ICC) 貿易金融 (貿易 /  URF  、L/C 決済) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は 、 | 輸出  FX  のレシートと相互作用する国際的な決済の器械 (URF  824 、L/C に偽造) | https://iccwbo.org/business-solutions/trade-finance/
-| CCPIT — 取引文書と決済サポート | 国際貿易振興会(CCPIT 中国贸促会) | CN の | T1/T2 | 検証済み | 以下は、 https://www.ccpit.org/ は、 | FXレシート/検証で使用されるトランザクションの校正をサポートする取引文書 |
+| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | primary | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | primary | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | primary | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
+| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | primary | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
+| People's Bank of China (PBOC) — cross-border RMB settlement framework | People's Bank of China (中国人民银行 PBOC) | CN | primary/independent | VERIFIED | http://www.pbc.gov.cn/ | Central-bank framework for cross-border RMB settlement and bank handling, distinct from SAFE foreign-exchange registration |
+| ICC Trade Finance (forfaiting/URF, L/C settlement) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | International settlement instruments (forfaiting URF 824, L/C) that interact with export FX receipt |
+| CCPIT — trade documentation and settlement support | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | Trade documentation supporting proof-of-transaction used in FX receipt/verification |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

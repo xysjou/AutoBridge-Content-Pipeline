@@ -13,9 +13,9 @@
 - **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 
 ## من هذا؟
-وكثيرا ما يوقع مصدر مركبة لأول مرة اتفاقا على السعر والكم وحده، ثم يكتشف أن العقد لم يصلح أبدا عندما يمر الخطر، أو الذي يحمل سند الملكية قبل الدفع الكامل، أو عندما يُسمع النزاع. ويرسم هذا الدليل الشروط التي تحكم تلك النتائج. The PRC Civil Code ويرد هنا وصف للمادة 596 من خلال بوابات قانونية ثانوية (FindLaw etc.)، التي تقع في كروس - CHECKED/SINGLE_SOURCE؛ وسيتطلب نظام "VERIFIED " النص الرسمي للقانون المدني من مصدر تابع للحزب الديمقراطي الوطني/الحكومة. والباقي عبارة عن توليف قانوني - عملي. فالنموذج ليس مشورة قانونية - وله محام مؤهل أن يستعرض عقد التنفيذ بموجب قانونه الحاكم المختار.
+وكثيرا ما يوقع مصدر مركبة لأول مرة اتفاقا على السعر والكم وحده، ثم يكتشف أن العقد لم يصلح أبدا عندما يمر الخطر، أو الذي يحمل سند الملكية قبل الدفع الكامل، أو عندما يُسمع النزاع. ويرسم هذا الدليل الشروط التي تحكم تلك النتائج. The PRC Civil Code ويرد هنا وصف للمادة 596 من خلال بوابات قانونية ثانوية (FindLaw etc.)، التي تقع في كروس - CHECKED/single source؛ وسيتطلب نظام "VERIFIED " النص الرسمي للقانون المدني من مصدر تابع للحزب الديمقراطي الوطني/الحكومة. والباقي عبارة عن توليف قانوني - عملي. فالنموذج ليس مشورة قانونية - وله محام مؤهل أن يستعرض عقد التنفيذ بموجب قانونه الحاكم المختار.
 
-## Clause Block 1 - The Essential Contents (Civil Code Art 596)
+## كتلة البنود 1 - المحتويات الأساسية (المادة 596 من القانون المدني)
 المادة 596 من القانون المدني لبورصا الديمقراطية**، ينبغي أن يشمل عقد البيع ما يلي: الاسم، الكمية، النوعية، السعر، الوقت/المكان/الحد الأقصى للأداء، التغليف، معايير التفتيش وأسلوبه، التسوية، الأحكام الفعالة المتعلقة بالنقل/النص**. والحد الأدنى هو:
 - (ب) الهوية المطلقة** (الشبكة، السنة النموذجية، قائمة التشكيل)، مع تطويع سعر الوحدة**؛
 - ** معيار (ربط هذا بتقرير مبادرة أمن الدولة)؛
@@ -27,7 +27,7 @@
 - وفي حالة عدم الموافقة على مدة، ينتقل الخطر عموما إلى المشتري (أو حامله المرشح)**.
 أكتب المصطلح والنسخة على وجه التحديد: " CIF " بدون ميناء مسمّى، أو سنة غير محددة، وتدعو إلى القتال على من يتحمل الضرر العابر - التنسيق مع أدلة التأمين البحري والتحميل.
 
-## Clause Block 3 — Retention of Title (protect an unpaid seller)
+## كتلة البنود 3 — الاحتفاظ بالملكية (حماية البائع غير المدفوع)
 يجوز للبائع أن يحفظ حق الملكية إلى أن يتم تلقي المبلغ الكامل** (مفصل من الخطر، الذي قد يكون قد مر بالفعل): ولا يجوز للمشتري أن يسدد بالكامل الرهن أو أن يعيد بيع المركبات**. هذا الشرط ذو قيمة خاصة ضد التقصير في الشحنات المجهزة لكن ملاحظة ان نفاذه تعتمد على القانون المحكم وما إذا كان التحفظ على الملكية معترف به في ولاية المشتري**، وهو ما ينبغي أن يؤكده المحامي.
 
 ## كتلة القفل 4 - الإصطدام الأداء المتأخر  and  المطالبة
@@ -35,10 +35,10 @@
 - ** مطالبات تتعلق بالملكية:** تحدد فترة التفتيش ** ونافذة المطالبة** بعد الوصول؛ وبدون نزاع متأخر يصبح هو الشخص الذي ذكره/المقدم. ربط النافذة بجهاز الاستخبارات الأمنية وكشف واقعي عن المرور العابر ضد الضرر الذي كان قائماً من قبل.
 - تحديد التسلسل الهرمي للتمريض** (التحقق). ابدلي ويتحمل تكاليف العودة/الشحن في كل حالة.
 
-## Clause Block 5 — Vehicle-Condition Disclosure (fraud prevention)
+## كتلة البنود 5 — الإفصاح عن حالة المركبة (منع الاحتيال)
 Disclose material facts truthly: **version/configuration, software version, and any accident/flood history, odometer adjustment, or encumbrance/mortgage**. وعدم الكشف عن هذه المطالبات هو مصدر متواتر للمطالبات المتعلقة بالغش - وهو يتفاعل مع مبادرة الأمن والتعاون في أوروبا، التي ينبغي أن تثبت الشرط المفصح عنه. بالنسبة للسيارات الإلكترونية، يكشف عن معلومات عن درجة التثبيت التي يعرفها البائع.
 
-## Clause Block 6 - Governing Law, Forum and Document Legalisation
+## كتلة البنود 6 - القانون الواجب التطبيق والمحكمة وتوثيق المستندات
 - اختيار القانون المحكمين والمحفل** عن عمد؛ وفيما يتعلق بالصفقات العابرة للحدود، ** كثيرا ما يُفضَّل التحكيم الدولي (مثل المحكمة الجنائية الدولية)** على إمكانية الإنفاذ بموجب اتفاقية نيويورك على التقاضي في محكمة محلية أجنبية.
 - ويمكن أن تحتاج الوثائق التي يجب استخدامها في الخارج)قوات المحامي والشهادات(** إلى شهادة هاغي أبوستيلي**)أو قانونية قنصلية في الحالات التي لا تكون فيها الجهة المقصد طرفا في لاهاي(- وهي الدولة التي ترتب وتدفع.
 - يرجى تحديد عناوين الشروح، والعملة، والقوة القاهرة (بما في ذلك تعطيل واللغة التي تسود**.
@@ -83,17 +83,17 @@ Disclose material facts truthly: **version/configuration, software version, and 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal gate) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | صرخات (المادة الكاملة التي استشهد بها عن طريق بوابة قانونية ثانوية؛ وليس مصدرا رسميا للناقلات النووية) | محتويات العقد الأساسي |
-|ки прими | | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | | | اتки  الكشفми  الكشفми  الشروط110ask.
-| الشروط الأساسية لعقد الشراء (قائمة الاتصال/الملكية/الملكية) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | صرخات | LDs, claim window, form annex |
-| عقد التصدير Incoterms/disputes/Apostille | المواد المستعجلة | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE OURCE | Incoterm versioning, ICC arbitration, Apostille |
-* ملاحظة: محتوى المادة 596 هو "كروس" ويقتضي " CHECKED " ، عن طريق بوابة قانونية ثانوية فقط، النص الرسمي للقانون المدني لحزب العمال التقدمي (NPC/government) الذي لم يُقبض عليه؛ ولا يُصنفه على أنه " متكرر ". وتتوقف إمكانية إنفاذ التحفظ على الملكية والتحكيم والسجن على القانون الحاكم المختار والمقصد، ويجب أن يؤكدها محام مؤهل. ونماذج العقود هي إشارات هيكلية فقط. ♪
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (مدعي الشعب الأعلى) - غير مبالٍ | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | مفقود |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go) | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | مفقود |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

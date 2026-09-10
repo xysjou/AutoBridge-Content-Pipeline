@@ -74,17 +74,17 @@ Un ISP nominado por el comprador es un cheque comercial, no una autorización le
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Índice de base jurídica: Ley de Inspección de Productos Importados/Inspección de Productos Básicos | Administración General de Aduanas de China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primaria; se abre en el navegador, bloqueo automático de la embrague) | Nombra la actual Ley de Inspección (modificación 2021) y la regulación de aplicación que establecen la inspección legal; la entrada exacta del catálogo de inspección legal sigue siendo revisada por 10-digit HS |
-| Reglamento aduanero sobre la Declaración de Importaciones/Garantías de exportación (Orden No 277 de la CCGA, en vigor 2025-05-01) | Administración General de Aduanas de China (GACC), via | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primaria) | Marco legal actual para la declaración de exportación; si una línea específica de 10-digit HS es inspeccionada por ley todavía se revisa HS-by-HS |
-| Internet+Guía de servicio de aduanas (inspección de personal = catálogo/comerancias requeridas por ley) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primaria) | Regla de la decisión del catálogo |
-| GACC Note 2024 No 163 (inspección aleatoria fuera de catálogo; exportaciones = juguetes para niños) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primaria) | Alcance de la inspección aleatoria |
-| Orden No 277 de la GACC, Disposiciones de Declaración | State Council Gazette | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primaria) | C. Acompañamiento de documentos, responsabilidad de firma |
-| Anuncio de cuatro misiones sobre licencias de exportación de vehículos de pasajeros BEV (ref. 8703801090, de 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIEMPO_SENSITIVO (primario) | Distinción de la licencia vs de inspección |
-| GACC Notice 2025 No. 138 (pre-declaration application optimization) | Comunicado de aduana (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE | Optimización del proceso |
-*Evidence scope: framework verified by primary sources; the catalog result for any specific ten-digit code must be checked live and is not generalized. *
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

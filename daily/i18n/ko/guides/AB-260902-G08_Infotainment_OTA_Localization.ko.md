@@ -20,12 +20,12 @@
 ## 왜 중국 테마 단위는 해외로 스트로글 수 있습니다 (산업 본)
 중국 브랜드는 크게 자체 개발, Android 기반 조종석 (산업 예로는 BYD ** DiLink**, NIO **SkyOS** 및 XPeng **Xmart OS** - illustrative, not Uniform feature list), 자주 중국 기본 언어 계층 및 국내 서비스 생태계를 포함합니다. **리포트드 케이스**, *some Parallel-imported China-market Vehicle* 우크라이나와 러시아에서 UAE, 사우디, 브라질, 태국에 이르기까지 중국 전용 UI, 중국 전용 지도 또는 액세스 가능한 마스터 계정으로 도착했습니다. **로 이러한 것을 치료하는 경우와 패턴을 테스트**, 모든 브랜드의 모든 단위가 동일하게 행동한다는 주장: 동일한 상표는 국내와 함께 완전히 현지화된 수출 건축,  and  하나의 모델의 경우 다른 모델의 동작을 설정하지 않습니다.
 ## Evidence 천장 (일반적으로 보기)
-이 문서의 크로스 브랜드 소재는 단단한 천장을 가지고 있습니다. **all five supporting sources are SINGLE_SOURCE industry/service/media accounts,  and  공식 크로스 브랜드 (일반 또는 멀티 OEM) 소스 **이 소프트웨어 문제를 공유 한 클래스로 중국 차량을 설립. 의:
+이 문서의 크로스 브랜드 소재는 단단한 천장을 가지고 있습니다. **all five supporting sources are single source industry/service/media accounts,  and  공식 크로스 브랜드 (일반 또는 멀티 OEM) 소스 **이 소프트웨어 문제를 공유 한 클래스로 중국 차량을 설립. 의:
 - BYD, Denza 및 현지화 사례 지원 *themselves* - 그들은 다른 브랜드 모델에 대해 발생하지 않는 *can* 발생이 발생한다는 증거입니다.
 - 여기에서 결론이 없거나 모든 것을 의미하지 않습니다 (또는 대부분의) 중국 시장 자동차는 중국 전용 UI, 고정 된지도, 제한 가능한 OTA 또는 차단 된 계정; 그는 **를 테스트하는 것이 **, VIN 당.
 - 기사의 값은 **per-VIN 테스트 프레임 워크 **, 보편적 인 결함의 증거가 아닙니다. 특정 자동차에 대한 모든 결정적인 대답은 라이브 테스트와 브랜드의 해외 채널에서 온다.
 ## 다섯 실패 포인트 — 실제 VIN에서 각각 테스트
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | "작품"이란 | 일반적인 중국 spec 문제 | Evidence 유형 |
+| 의 | "작품"이란 | 일반적인 중국 spec 문제 | Evidence 유형 |
 |---|---|---|---|
 | ** 1. UI 언어***************************************************************************************************************************************************************************************************************************************************************** | 모든 메뉴, 경고, 음성을 통한 안정 대상 언어 | 중국 전용 또는 부분 기계 번역 레이아웃 오류 | VIN 당 시험 |
 | ** 2. ** | 로컬 스트리트 맵 및 EV, 로컬 충전기 데이터 | 중국지도 만; 지역 POI 충전기 데이터 없음 | VIN 당 시험 |
@@ -83,18 +83,18 @@ Localisation 공급 업체는 모든 문제를 해결하는 것이 바람직합�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese-car infotainment and OTA localization, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese-car infotainment and OTA localization, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-중국 제조 업체, 공급 업체, 공장, 도매-제품-항 주 센스 (주) 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | Industry**pattern/example만**, 일반화되지 않음 | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/
-| BYD 바다 사자 07 Ukraine 현지화 케이스 | NEV Fix (국립 서비스) | CN→멀티 | https: | 2026-09-02 | 싱글|SOURCE(싱글) | **Brand-specific 이름 * 중국 문제 BYD 계정 영어 스위치 (모델당 재확인) | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html
-| Denza Z 유럽 Google/Gemini 대 국내 조종사 | Xueqiu (보석 해제) | CN→EU의 | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE(싱글) | **Example** 국내 쌓기 수출의 (Un Universal) |
-| Per-VIN 소프트웨어 검증 체크리스트 | StarVia Auto (수출 서비스) | CN→글로벌 | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE(싱글) | Five-check acceptance method |
-| 다국어/RTL 수출 표준 | CCID 赛迪 노이 소프트 원코어 Go 적용 (산업용 미디어) | - 연혁 | http://www.ccidnet.com/hlw/93237.jhtml 이동 | 2026-09-02 | SINGLE_SOURCE(싱글) | RTL/Arabic 배치 고려 |
-| 중국 자동차 OS 영어 버전 B2B 수출 가이드 | 전기 자동차 중국 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: 대한 자세한 정보 | 2026-09-02 | SINGLE_SOURCE(싱글) | 英文 HMI, 刷机成本 (行业口径, 待官方核验) | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/
-中 中 中 中 水 水 水 汽车 汽车 家 家 家 家 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 中 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE(싱글) | 海外用户 UI 翻译 手机互联问题 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 翻译 手机互联问题 翻译 手机互联问题 翻译 翻译 翻译 翻译 翻译 翻译 翻译 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 手机互联问题 |
+| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | single source | Industry **pattern/example only**, not generalised |
+| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | single source | **Brand-specific example**: China-only problems; BYD account English switch (re-confirm per model) |
+| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | single source | **Example** of export vs domestic stack (not universal) |
+| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | single source | Five-check acceptance method |
+| Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | single source | RTL/Arabic layout consideration |
+| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | single source | 英文 HMI、刷机成本（行业口径，待官方核验） |
+| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | single source | 海外用户 UI 翻译/手机互联问题 |
 
-*Confidence 참고: 모든 인용 재료는 산업 서비스 미디어이며 패턴 또는 단일 브랜드 케이스의 일러스트로 사용됩니다. 모든 중국 차량이 행동을 공유하는 증거로 결코. Per-brand 수출 언어 명부, OTA 서버 관련 정책  and  the "mandatory English HMI" inspection claim were not confirmed by a primary regulator  and  특정 VIN의 해외 채널에 정착해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

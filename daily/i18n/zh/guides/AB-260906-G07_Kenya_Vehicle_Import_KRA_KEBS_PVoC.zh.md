@@ -1,6 +1,6 @@
 # 进口车辆进入肯尼亚:肯尼亚皇家陆军海关、肯尼亚皇家空军光电公司和标准道路
 ## SEO元数据
-- **SEO标题**: 肯尼亚车辆进口:KRA项关税和KEBS项光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光电光光电光光电光光电光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光
+- **SEO标题**: 肯尼亚车辆进口:KRA项关税和KEBS项光电光电光
 - **Meta描述**: 进口车辆进入肯尼亚的具体国家指南:KRA项海关程序和税收、KEBS项出口前合规性核查(PVoC),以及滚动车辆使用规则的公布方式。
 - **H1**: 进口车辆进入肯尼亚:KRA辆海关、KEBS辆PVoC和标准道路
 - **核心关键词**: 肯尼亚车辆进口KRA KEBS PVoC
@@ -16,7 +16,7 @@
 
 ## KEBS PVoC: 出口前核实符合性
 
-PVoC是出口国适用的一项合格评估方案:指定的检查公司核查《肯尼亚电子产品电子产品电子产品电子产品业务手册》专门一节中涵盖的产品,包括机动车辆、移动设备和旧备件,在装运前符合适用的肯尼亚标准。 指定聚氯乙烯代理商出具的符合证书是KRA对受管制产品的预期批准文件的一部分;在适用程序路线的情况下,按照KEBS准则签发进口标准化标记。 目前的PVoC手册(14版)列出了进行车辆检查的国家和指定代理人,因此出口商应确认哪些代理人为实际装运的中国负责。
+PVoC是出口国适用的一项合格评估方案:指定的检查公司核查《肯尼亚电子产品业务手册》专门一节中涵盖的产品,包括机动车辆、移动设备和旧备件,在装运前符合适用的肯尼亚标准。 指定聚氯乙烯代理商出具的符合证书是KRA对受管制产品的预期批准文件的一部分;在适用程序路线的情况下,按照KEBS准则签发进口标准化标记。 目前的PVoC手册(14版)列出了进行车辆检查的国家和指定代理人,因此出口商应确认哪些代理人为实际装运的中国负责。
 
 - 核查科索沃边防局指定的哪个检查机构为原籍国提供车辆服务。
 - 及时安排出口前检查,以便在船只航行前获得《行为守则》——《行为守则》抵达后不能廉价重建。
@@ -76,19 +76,19 @@ PVoC是由肯尼亚边境安全局指定的代理人在出口国执行的出口�
 
 持照的肯尼亚结算代理通常为记录进口商提供海关入境;出口商提供符合文件和《海关公约》规定的货物。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| KEBS 官网(进口须符合肯尼亚标准;装船前符合性验证 PVOC 与进口标准化标志 ISM 等制度存在性) 导弹发射系统 | 肯尼亚标准局 | 韩基 | T1 | 实录 | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 - 肯尼亚标准与合格评定 |
-| 克拉官网(海关税收征管机构身份;具体进口税页未取到稳定子页) | 肯尼亚税务局 | 韩基 | T1 | 实录 | https://www.kra.go.ke/ | 海关税务机构身份 - 肯尼亚海关税务 (中文(简体)). |
-| 克拉里昂-克利珀顿大学(KRA 对二手机动车启用新 CRSP 现行零售价表(2025-07-01、T4 仅线索、须 KRA 官方核)) | 顺企网(T4) (中文(简体)). | 韩基 | T4 | 未证实 | https://m.11467.com/product/d40233025.htm | CRSP 估值线索 软件  |
-| `肯尼亚只进口车龄 8 年内二手车 ' KEBS/KRA 一手) | 今日头条(媒体镜像) (中文(简体)). | 韩基 | T3 | 未证实 | http://m.toutiao.com/group/6906281676268110344/ | 8 年车龄线索 (中文(简体)).  |（非）（头条媒体口径）（人民网）
-| 机动车辆进口(知识库) | 肯尼亚税务局 | 韩基 | T1 | 实录 | https://www.kra.go.ke/component/knowledge_base/category/6 | 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制 税制  |
-T1 |(_S) https://www.kra.go.ke/个人/进口/learn-about-importation/pricedures- for-motor-vive 进口程序和税种; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; |; 韩国皇家建筑院公布的滚动制造年规则; 韩国皇家建筑院公布的滚动制造年规则; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; |; | |
-| PVoC 方案业务手册 v14(9 November 2025) | 肯尼亚标准局 | 韩基 | T1 | 实录 | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | PVoC和指定的检查人员 |
-| 进口 标准化 标记准则 | 肯尼亚标准局 | 韩基 | T1 | 实录 | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis——为聚氯乙烯许可/管制进口品发放的ISM |
-| PVoC 方案业务手册(肯尼亚信息贸易门户网站) | 肯尼亚信息贸易(政府贸易门户) | 韩基 | T1 | 横跨 | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis——根据KS标准评估的旧车;确认当前版本 |
-| 肯尼亚贸易网络局官员 | 肯尼亚贸易网络机构 | 韩基 | T1 | 横跨 | https://www.kentrade.go.ke/ | kebs_qis——国家单一窗口贸易便利化机构. |
+| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
+| KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页） | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
+| KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，仅线索，须KRA官方核） | 顺企网(directory/listing) | KE | directory/listing | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP估值线索 |
+| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | media/industry | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
+| Motor Vehicle Importation (knowledge base) | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — duty components vary by HS; taxes time-sensitive, confirm current rates |
+| Procedures for Motor Vehicle Importation | Kenya Revenue Authority | KE | primary | TIME_SENSITIVE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| PVoC Programme Operations Manual v14 (9 Nov 2025) | Kenya Bureau of Standards | KE | primary | VERIFIED | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — motor vehicle/mobile equipment PVoC and appointed inspection agents |
+| Import Standardization Mark Guidelines | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — ISM issuance for PVoC-licensed/regulated imports |
+| PVoC Programme Operations Manual (InfoTrade Kenya portal) | InfoTrade Kenya (government trade portal) | KE | primary | CROSS_CHECKED | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — used vehicles assessed under KS standards; confirm current version |
+| Kenya Trade Network Agency (KenTrade) official | Kenya Trade Network Agency | KE | primary | CROSS_CHECKED | https://www.kentrade.go.ke/ | kebs_qis — national single-window trade facilitation body |
 
 ## 编辑评论
 - ** 授权人**: AutoBridge出口编辑组 · [作者] (/作者/) · [编辑政策] (/编辑政策/)

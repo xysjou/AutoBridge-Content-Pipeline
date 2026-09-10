@@ -39,7 +39,7 @@ South Africa runs vehicle imports through three distinct authorities,  and  そ�
 
 SARSは、関税と税金の税関申告、評価、および収集を処理します。 南アフリカ政府は、税関法のスケジュール下にある税関値の割合として設定され、モータ車両輸入に適用される別々のコンポーネントが適用されます。
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? このガイドでは、固定デューティ、VAT、またはアドバレードのパーセンテージはありません。 それらの図はSARSの現在の関税スケジュールと変更に座っています。輸入者は、正確なHSコードと車両タイプの現在の行を取得しなければなりません。 特定の起源に対する高い義務に関する政治的提案は、現行法ではありません。その限り、適用率として扱われるべきではありません。
+ このガイドでは、固定デューティ、VAT、またはアドバレードのパーセンテージはありません。 それらの図はSARSの現在の関税スケジュールと変更に座っています。輸入者は、正確なHSコードと車両タイプの現在の行を取得しなければなりません。 特定の起源に対する高い義務に関する政治的提案は、現行法ではありません。その限り、適用率として扱われるべきではありません。
 
 ## バイヤーを短くするために輸出業者のための代理店のマップ
 
@@ -81,16 +81,16 @@ SARSは、関税と税金の税関申告、評価、および収集を処理し�
 
 いいえ。NRCSの強制仕様の遵守は、特定のモデルの実証され、ステアリング側はさらなる検討が必要です。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 輸入管理 (进口管制) 约 276 个管制税号 、 所有二手 / 旧货物均需进口许可证 、 3-5 工作日 、  ITA  法 2002 (Act71)/ 海关法 1964 (Act91) | 南アフリカ国際貿易管理委員会 | 銀座 | T1 | 検証済み | https://www.itac.org.za/pages/import-control | 进口许可 、 管制范围 、 法律依据 、 办理时限 — 南非进口管制 |
-| ITAC 官网 (机构身份与进口管制/关税职能) | ITAC 南アフリカ | 銀座 | T1 | 検証済み | https://www.itac.org.za/ | 主管机构身份 — 机构 の |
-|  SARS  の習慣及び の expise (海关征管) 外籍注册车辆  TMS  申报 2026-06-01 起等当期通告) | 南アフリカ共和国の収入サービス | 銀座 | T1 | タイム _ センシブ | https://www.sars.gov.za/customs-and-excise/ | 海关征管 、 当期申报要求 — 南非海关税务 |
-| NRCS(强制性规范与 権限の手紙、含 自動車 汽车类别) | 強制仕様の国内規制当局 | 銀座 | T1 | 検証済み | https://www.nrcs.org.za/ | 强制规范、LOA、汽车类别 - 南非强制合规 |
-| 南非拟调整中印进口车关税 (媒体报道、仅 TIME_SENSITIVE 背景、税率须 SARS/ITAC 官方核) | 今日头条 (媒体) | 銀座 | T3 | タイム _ センシブ | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
-中古車・中古車(公式ガイド)の輸入販売 | 南アフリカ | 銀座 | T1 | 取扱実績 | https://www.gov.za/services/services/services-organizations/import/import-second-hand-or-used-vehicle は、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、  スタッフ
-| 輸入・再建型モーター車輌のライセンスについて | 南アフリカ | 銀座 | T1 | 取扱実績 | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle 新規購入の申し込みは、nrcs.loa にご連絡ください。 NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS LOA | NRCS | ロードウェイクアップ
+| ITAC Import Control（进口管制：约276个管制税号、所有二手/旧货物均需进口许可证、3-5工作日、ITA Act 2002(Act71)/海关法1964(Act91)） | International Trade Administration Commission of South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/pages/import-control | 进口许可, 管制范围, 法律依据, 办理时限 — 南非进口管制 |
+| ITAC官网（机构身份与进口管制/关税职能） | ITAC South Africa | ZA | primary | VERIFIED | https://www.itac.org.za/ | 主管机构身份 — 机构 |
+| SARS Customs & Excise（海关征管；外籍注册车辆TMS申报2026-06-01起等当期通告） | South African Revenue Service | ZA | primary | TIME_SENSITIVE | https://www.sars.gov.za/customs-and-excise/ | 海关征管, 当期申报要求 — 南非海关税务 |
+| NRCS（强制性规范与Letter of Authority，含Automotive汽车类别） | National Regulator for Compulsory Specifications | ZA | primary | VERIFIED | https://www.nrcs.org.za/ | 强制规范, LOA, 汽车类别 — 南非强制合规 |
+| 南非拟调整中印进口车关税（媒体报道，仅TIME_SENSITIVE背景，税率须SARS/ITAC官方核） | 今日头条(媒体) | ZA | media/industry | TIME_SENSITIVE | http://m.toutiao.com/group/7601017507419324968/ | 关税调整动议背景  |
+| Importing a second-hand or used vehicle (official guide) | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/services-organisations/import/importing-second-hand-or-used-vehicle | itac_permit — ITAC permit first, duty paid to SARS, rates per current schedule |
+| Letter of authority for imported or rebuilt motor vehicle | South African Government | ZA | primary | VERIFIED | https://www.gov.za/services/register-motor-vehicle/letter-authority-respect-motor-vehicle | nrcs_loa — NRCS LOA required for new and used vehicles before import/registration |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

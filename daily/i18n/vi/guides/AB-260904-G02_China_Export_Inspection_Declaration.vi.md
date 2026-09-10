@@ -74,17 +74,17 @@ Giấy phép xuất khẩu BV có giống như kiểm tra không? Không, từ 2
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Chỉ mục pháp lý — Nhập/ Export Commation Recation Law & thi hành các quy định | Tổng quản trị tập quán Trung Quốc (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIED (phần tư; mở trong trình duyệt, tự động lấy bị chặn) | Tên các luật kiểm tra hiện tại (2021 sửa đổi) và thực hiện các quy tắc mà khung kiểm tra quy tắc; chính xác mục nhập danh mục quy định chính xác vẫn được kiểm tra trên 10-digit HS |
-| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, trong lực 2025-05-01) | Tổng Giám đốc Hải quan Trung Quốc (GACC), thông qua | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VEIID (TIẾNG) | Hiện tại khung pháp lý cho việc tuyên bố xuất khẩu; cho dù một dòng  10-digit HS cụ thể là thống kê được vẫn còn kiểm tra HS-by-HS |
-| Hướng dẫn dịch vụ của Internet+Customs (tách kiểm tra = mục lục/ ngữ pháp yêu cầu hàng hóa) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VEIID (TIẾNG) | Quy tắc phân tích- phân giải |
-| GCC lưu ý 2024 Số 163 (bên ngoài của bản tóm tắt; xuất khẩu = đồ chơi trẻ em) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VEIID (TIẾNG) | Phạm vi sự chú ý ngẫu nhiên |
-| Theo lệnh GACC Số 277, Các sự sắp đặt bằng lời tuyên bố | Hội đồng Quốc gia (Science Council) | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VEIID (TIẾNG) | Các bác sĩ, trách nhiệm của người ký |
-| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, từ 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | T_ TIẾNG _ DỐI (TIẾNG) | Giấy phép tương ứng với sự phân biệt thanh tra |
-| GACC Notice 2025 No.138 (pre-declaration application optimization) | Tuỳ biến | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE | Quá trình tối ưu hoá |
-Phạm vi tính: khung được kiểm tra bởi nguồn chính; kết quả danh mục cho bất kỳ mã số cụ thể nào phải được kiểm tra trực tiếp mà không được tổng quát hóa. *
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

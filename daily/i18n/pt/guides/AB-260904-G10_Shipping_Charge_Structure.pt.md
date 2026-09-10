@@ -76,19 +76,19 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
   - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Discriminação por sobretaxas de exportação FCL | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, método de auditoria |
-| Definição do THC | Sina Transportes marítimos financeiros | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Cobertura de gestão de terminais |
-| Componentes de carga de exportação oceânica por via | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Taxonomia da sobretaxa, lógica de rota AMS/ACI/ENS |
-| Taxas FOB comuns (THC/reserva/caminhão) | | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | FONTE ÚNICA | Nomeação de carga | 11467
-* Âmbito de prova: estrutura de carga cruzada de fontes da indústria (sem fonte primária tarifária oficial); AMS/ACI/ENS enquadrado como orientação editorial específica para rotas; todos os montantes deliberadamente excluídos como sensíveis ao tempo. *
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| Incoterms 2020 regras (que organiza/paga transporte em cada termo) | Câmara de Comércio Internacional (CCI) | INT' L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFICADO | Qual frete cargas caem para comprador vs vendedor por Incoterm |
-| Práticas e categorias de encargos para os transportadores | FIATA | INT' L | https://fiata.org/ | 2026-09-05 | VERIFICADO | Cotação/referência da estrutura de carga do expedidor |
-| Transporte de linha e contexto sobretaxa | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto industrial para o transporte marítimo e encargos acessórios |
-| China Internacional Associação dos Transitários de Carga | CIFA | NC/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFICADO | Indústria de encaminhamento do lado da China e prática de cotação |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

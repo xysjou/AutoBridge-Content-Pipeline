@@ -19,8 +19,8 @@ Liên sao T90 (Xingji T90, trước đây là MAXUS T90 ở Trung Quốc) là SA
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
 | Xây dựng | Khung thân (không chịu đựng được) giữa kích thước, taxi đôi | TRUNG QUỐC #· Kiểm tra chéo | ĐÃ_ ĐÃ |
-| Cơ sở bánh xe chuẩn | ≈5365 × 1960 × 1845 mm, WB 3155; bed ≈1485 × 1510 × 530 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | SINGLE_SOURCE |
-| Nền tảng bánh xe dài | ≈5680 × 1960 × 1845 mm, WB 3470; giường dài 1800 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | SINGLE_SOURCE |
+| Cơ sở bánh xe chuẩn | ≈5365 × 1960 × 1845 mm, WB 3155; bed ≈1485 × 1510 × 530 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | single source |
+| Nền tảng bánh xe dài | ≈5680 × 1960 × 1845 mm, WB 3470; giường dài 1800 mm | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | single source |
 
 Các phiên bản chuẩn và dài là các chiều dài tổng thể và các bánh xe khác nhau, do đó, chiều dài hộp hàng và dấu chân phương tiện phải được phù hợp với thứ tự; container/Ro tải tính khả thi cũng phụ thuộc vào cơ thể nào được chọn. Những chiều không gian này là nguồn duy nhất nằm trong bảng điều khiển của OEM/Nnonation.
 
@@ -68,16 +68,16 @@ Trang này có trang  T90 không?
 
 Không, chỉ có dầu diesel của Trung Quốc; eV là một sản phẩm riêng biệt với các thông số và quy tắc vận chuyển khác nhau.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家. 车家号 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
-| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家. 车家号 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱. 轴距  |
-| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻 (今日头条镜像) | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
-| T90 车身结构 (非承载 非承载 接近角 离去角) | 太平洋汽车百科 | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
-| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — phạm vi xuất khẩu | Sa - mu - ên MA - XUS Toàn cục | Comment | T1 | VEII | https://en.saicmaxus.com/car/t90.shtml | Danh tính — Số liệu của GLOBAL/export; KHÔNG CÓ THỂ được xem là tương đương với giá trị thị trường Trung Quốc 星际 T90 |
-| 上汽大通MAXUS T90 | Sa - mu - ên MA - XUS Trẻ | CN | T1 | VEII | https://www.maxusmall.com/T90.shtml | Máy_ thiết bị_BAR_ — Chính thức thị_ thọ và giá tham khảo trong nước |（配置）（价格）（中国官方）
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Máy_ nhị phân — Xác nhận bị đồng hóa Name |
+| 星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc | 柴油动力, 8AT, 拖拽  |
+| 星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc | 尺寸, 货箱, 轴距  |
+| 上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱） | 界面新闻（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6943268020247671304/ | 动力, 四驱, 8AT  |
+| T90车身结构（非承载、接近角/离去角） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/x/8151/81516244.html | 非承载车身, 通过角  |
+| MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/car/t90.shtml | identity — GLOBAL/export spec; NOT to be equated with China-market 星际T90 values |
+| 上汽大通MAXUS T90 中国官方（配置/价格） | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/T90.shtml | engine_diesel — China-market official configs and domestic reference price |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | engine_diesel — verify homologated China pickup variant |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

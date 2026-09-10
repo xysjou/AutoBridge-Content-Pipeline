@@ -28,17 +28,17 @@
 |---|---|---|---|---|---|
 | Chiều dài | 4730 1890 1660（部分配置1680） | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
 | bánh xe cơ sở | 2795 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
-| khối lượng hàng hóa | 638 | L | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
-| Nguồn động cơ | 72 (1.5L 混动专用发动机) | kW | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
+| khối lượng hàng hóa | 638 | L | TRUNG QUỐC | single source | 搜狐汽车 |
+| Nguồn động cơ | 72 (1.5L 混动专用发动机) | kW | TRUNG QUỐC | single source | 汽车之家车家号 |
 | năng lượng động | 160 | kW | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
-| gửi | E-CVT (电混传动) | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| kiểu ắc quy | 磷酸铁锂 | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| dung lượng pin | 约18.4 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
+| gửi | E-CVT (电混传动) | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| kiểu ắc quy | 磷酸铁锂 | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| dung lượng pin | 约18.4 | k Wh | TRUNG QUỐC | single source | 汽车之家车家号 |
 | ev phạm vi cltc | 130 | km | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
-| cộng độ sâu | 1250 | km | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| dc sạc nhanh | 85 | kW | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Nguồn điện xuất v2l | 3.3 | kW | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Màn hình giữa | 14.6 | 英寸 | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
+| cộng độ sâu | 1250 | km | TRUNG QUỐC | single source | 汽车之家车家号 |
+| dc sạc nhanh | 85 | kW | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Nguồn điện xuất v2l | 3.3 | kW | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Màn hình giữa | 14.6 | 英寸 | TRUNG QUỐC | single source | 汽车之家车家号 |
 
 ## Tại sao dòng ắc quy và V2L vật chất cho các đơn hàng xuất khẩu
 Lệnh UNI-Z rất dễ bị hiểu sai bởi vì cùng một phù hiệu bao gồm các cấp độ khác nhau. Hãy kể tên khả năng của **battry  and  Đường dây điện** trên mạng lưới,  and  điều trị 85 DC  and  3.3 V2L được xem là thiết bị thị trường Trung Quốc để được xác nhận lại cho tiêu chuẩn điểm đến/graid. Một phạm vi điện CLTC không phải là một con số của WLP, và một tên thị trường xuất khẩu, đo lường điện hoặc bảo hiểm không được thiết lập bởi các nguồn Trung Quốc được lưu giữ ở đây.
@@ -57,15 +57,15 @@ V2L có làm việc ở chợ của tôi không? Con số 3.3 kW là một thôn
 **Có 130 km là một phạm vi WLP không? Không, đó là CLTC.
 Giá xuất khẩu ở đâu? Yêu cầu một câu trích dẫn hiện thời; trang này không xuất bản.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机. 电池. 续航. 屏幕 |
-| UI-Z 配置信息 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 UI-Z 参数 | 搜狐汽车 | CN | T2 | ĐÃ_ ĐÃ | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距. 后备厢. 动力 |
-| Trương Nam Nơi Mạng chính thức tự động lưu động | Máy tự động Changan 长安汽车 (OEM) | CN | T1 | VEII | https://www.globalchangan.com/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

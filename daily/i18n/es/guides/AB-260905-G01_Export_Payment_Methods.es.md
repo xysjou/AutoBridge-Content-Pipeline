@@ -42,20 +42,20 @@ Incluso un L/C limpio no cura la exposición a las sanciones en el comprador/ban
 **¿Debería aceptar O/A para un primer comprador?** Generalmente no sin seguro de crédito, seguridad o una relación establecida.
 **¿El UCP600 anula mi contrato?** No — UCP600 rige el crédito cuando se incorpora; el contrato de ventas y Incoterm todavía fijan el acuerdo.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款: 信用证法律逻辑与风险防线 (二) | 东莞市人民政府 (转国际经贸业务) | CN | T1 | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销, 信用证分类与风险 |
-| 信用证核心特点 (UCP600 第二条定义) | 东莞市贸促会 (CCPIT) | CN | T1 | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务 (教材, 流程佐证) | 清华大学出版社 | CN | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| Cámara de Comercio Internacional (CCI) | Cámara de Comercio Internacional | CN | T1 | VERIFIED | https://iccwbo.org/ | editor de las normas UCP600 e Incoterms; marco de financiación del comercio autorizado |
-| China Exportar " Seguro de Crédito (SINOSURE) - seguro de crédito a corto plazo para la exportación | China Exportar " Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFIED | https://www.sinosure.com.cn/ | Es insurable el riesgo de cobrar de venta libre (O/A) y de reunión documental (D/P); el contexto del seguro de crédito a la exportación para la elección a plazo de pago |
-| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | T1/T2 | VERIFIED | https://www.ccpit.org/ | Órgano nacional de promoción del comercio: L/C y orientación y certificación de documentos comerciales; distintos de las reproducciones de los gobiernos locales |
-| ICC Soluciones de finanzas comerciales (UCP 600 URC 522 URDG rule owner) | Cámara de Comercio Internacional | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC es la regla para L/C (UCP 600), colecciones (URC 522) y garantías (URDG); página profunda más allá de la página principal |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
-- **Mercadillo de referencia**: 通用 (国际结算框架, 非单一国家法规)
+- **Mercadillo de referencia**: General (international-settlement framework, not a single-country rule)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 

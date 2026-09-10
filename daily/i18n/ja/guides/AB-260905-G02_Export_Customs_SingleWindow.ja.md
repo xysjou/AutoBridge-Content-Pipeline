@@ -42,15 +42,15 @@
 フラグされたフィールドを修正し、一貫性のある文書で再送信します。
 いいえ。これらは異なり、引用されていない。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物申报管理规定 (海关总署令第 277 号) | 中华人民共和国海关总署 | CN の | T1 | 検証済み | 担当: http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html の | 申报主体、随附单证、退单重报 |
-| 海关总署令第 277 号 (国务院公报) | 中国政府网 | CN の | T1 | 検証済み | 以下は、 https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html の | 规定全文一致性核验 |
-| 进出口货物申报指南 (单一窗口录入与登录) | 中国贸促会宁夏委员会 | CN の | T1 | 検証済み | 以下は、 https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口 IC 卡 /USBKey 登录、电子申报 |
-| 出口大型货物手续流程(申报)〜缴税(放行) | 中华人民共和国海关总署 | CN の | T1 | 検証済み | 担当 データ ID | 出口通关步骤 | 报关单填制规范引用 | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8
-| WCO — | 世界税関機関 | エントリー | T1/T2 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/facilitation.aspx | 国際シングルウィンドウと国境管理フレームワークを組み合わせ、国家宣言ポータルが実装 |
-|  WTO  貿易の受審契約書 (芸術 10.4 単一窓) | ワールドトレード機構 | エントリー | T1/T2 | 検証済み | 以下は |.wto.org/japanese/tratop_e/tradfa_e/tradfa_e/tradfa_e.htm/.html |  TFA  条 10.4 | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm
+| 中华人民共和国海关进出口货物申报管理规定（海关总署令第277号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
+| 海关总署令第277号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
+| 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
+| 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

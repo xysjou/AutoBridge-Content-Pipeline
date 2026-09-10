@@ -42,20 +42,20 @@ Bahkan L C yang bersih tidak menyembuhkan paparan sanksi pada pembeli bank, klas
 Haruskah aku menerima O A untuk pembeli pertama? Umumnya tidak tanpa asuransi kredit, keamanan atau hubungan yang mapan.
 ** Apakah UCP600 menimpa kontrak saya? ** Tidak - UCP600 mengatur kredit ketika dimasukkan; kontrak penjualan dan Incotererm masih mengatur kesepakatan.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款: 信用证法律逻辑与风险防线: 二 | 东莞市人民政府: 转国际经贸业务 | CN | T1 | TERBATAI | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销, 信用证分类与风险 |
-| 信用证核心特点: UCP600 第二条定义 | 东莞市贸促会 PRACITE | CN | T1 | TERBATAI | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务: 教材: 流程佐证 | 清华大学出版社 | CN | T3 | _ BERDECAT | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| International Chamber of Commerce (ICC) | Kamar Perdagangan Internasional | CN | T1 | TERBATAI | https://iccwbo.org/ | penerbit UCP600 dan aturan Incocerms; kerangka perdagangan yang berwenang |
-| China Ekspor & Asuransi Kredit (Sinosure) - Asuransi ekspor jangka pendek | Cina Ekspor & Perusahaan Asuransi Kredit (Sinosure 中国信保) | INT CN | T1/T2 | TERBATAI | https://www.sinosure.com.cn/ | Open- account (O A) dan dokumentasi-koleksi (D P) resiko dapat diterima adalah dapat diatasi; ekspor konteks asuransi kredit untuk pilihan pembayaran -term |
-| Dewan Cina untuk Promosi Perdagangan Internasional (CCPIT) | Dewan Cina untuk Promosi Perdagangan Internasional (ICKET 中国贸促会) | CN | T1/T2 | TERBATAI | https://www.ccpit.org/ | Badan promosi nasional: L C dan panduan dokumen dagang dan sertifikasi; berbeda dari reproduksi pemerintah lokal |
-| ICC Solusi Keuangan Perdagangan (UCP 600 URC 522 URDG pemilik aturan) | Kamar Perdagangan Internasional | INT | T1/T2 | TERBATAI | https://iccwbo.org/business-solutions/trade-finance/ | ICC adalah pengumpul aturan untuk L C (UCP 600), koleksi (URC 522) dan dijamin (URDG); halaman dalam di luar homepage |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05
-- ** Referensi pasar **: 通用 = 国际结算框架 = 非单一国家法规
+- ** Referensi pasar **: 通用 = international-settlement framework = not a single-country rule
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 

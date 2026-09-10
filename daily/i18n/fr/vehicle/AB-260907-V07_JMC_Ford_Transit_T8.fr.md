@@ -21,7 +21,7 @@ La ligne est construite sur trois empattements — ** 3000, 3300 et 3750 mm ** �
 | Configuration | Dimensions de référence | Empattement | Confiance |
 |---|---|---|---|
 | Base moyenne, toit moyen (exemple) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| Base à roues longues, cargo à toit élevé | 5998 × 2164 × 2775 mm; l'intérieur de la cargaison -3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Longue | SINGLE_SOURCE |
+| Base à roues longues, cargo à toit élevé | 5998 × 2164 × 2775 mm; l'intérieur de la cargaison -3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Longue | single source |
 
 La longueur de 5998 mm est significative: Dans de nombreux marchés, il se trouve à la limite de la licence de conduite commerciale légère, de sorte qu'un acheteur devrait confirmer la catégorie de permis de destination et la masse brute du véhicule avant de commander la version la plus longue. Dimensions intérieures du fret  and  the ≈13 m³ volume are single-source  and  doit être confirmé contre les données officielles de la structure/configuration JMC avant qu'une conversion ne soit conçue autour d'elles.
 
@@ -29,8 +29,8 @@ La longueur de 5998 mm est significative: Dans de nombreux marchés, il se trouv
 
 | Ligne | Référence du marché chinois | Boîte de vitesses | Confiance |
 |---|---|---|---|
-| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatique (8AT) | SINGLE_SOURCE — Confirmation par VIN/OEM|
-| 2.0T diesel | Ligne diesel séparée à sortie inférieure | Manuel 6-speed (6MT) | SINGLE_SOURCE — ligne séparée|
+| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatique (8AT) | single source — Confirmation par VIN/OEM|
+| 2.0T diesel | Ligne diesel séparée à sortie inférieure | Manuel 6-speed (6MT) | single source — ligne séparée|
 
 Les 2.3T 8AT et les 2.0T 6MT sont des groupes motopropulseurs distincts qui ont pour but de réaliser différents cycles de fonctionnement; they must not be averaged or presented as one "T8 engine". La traction arrière est la disposition de base, avec 4WD offerts sur certaines configurations — nommez explicitement le groupe motopropulseur. Les extrants exacts reposent actuellement sur des sources indépendantes uniques et devraient être fermés par rapport à la spécification officielle du JMC ou à la rubrique d'homologation MIIT avant de passer un marché; un diesel de type chinois doit également être vérifié pour la qualité du carburant de destination et l'acceptation des émissions.
 
@@ -78,20 +78,20 @@ Pas sur les preuves ici: il est construit pour la Chine JMC et est traité comme
 
 La fourgonnette du marché chinois est LHD; les spécifications RHD et d'exportation nécessitent des preuves d'OEM distinctes et ne doivent pas être déduites de la ligne chinoise.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-08
-- **Marché de référence**: CHINE(中国市场参考); 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
+- **Marché de référence**: CHINE(China-market reference); 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les sorties à source unique, les dimensions de conversion et les prix de référence nationaux doivent être reconfirmés sur la feuille d'origine JMC ou sur l'entrée MIIT, et le même modèle avec la Ford Transit mondiale exige une déclaration OEM explicite avant de transagir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

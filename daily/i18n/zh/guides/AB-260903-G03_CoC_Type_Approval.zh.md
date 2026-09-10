@@ -4,7 +4,7 @@
 - **Meta描述**: 将中国国内的 目的地市场CoC 合格证书解开  and   EU WVTA 号, EAEU OTTS/EAC (单位:千美元)   and  电子标记/电子标记系统——因此,正确的档案材料到达登记台。
 - **H1**: 车辆CoC和整车型批准: 将右文档匹配到右市场
 - **核心关键词**: 车辆合格证书与类型批准wvta otts emark
-- **次级搜索词**: 中国可可出口, EU辆整车型批准, EAEU OTTS EAC (英语). 电子标记对电子标记, UNECE 1958 类型批准, 车辆登记档案
+- **次级搜索词**: 中国可可出口, EU辆整车型批准, EAEU OTTS EAC  电子标记对电子标记, UNECE 1958 类型批准, 车辆登记档案
 - **建议URL**: /guides/vehicle-coc-type-approval-dossier/
 - **搜索意图**: 了解车辆CoC和整车型号批准: 将 " 正确文件 " 与 " 正确市场 " 匹配:车辆/部件出口商在承诺下达命令之前必须核实、记录和决定的内容。
 - **内链建议**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; /vehicles/saic-maxus-v90-specs/
@@ -78,23 +78,23 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 第50号MIIT令——录取框架 | MIIT/国务院 | 氯化萘 | https://www.gov.cn/gongbao/content/2019/content_5380357.htm 维基月球 | 2026-09-03 | 横跨 | 中国国内 |
-| 欧盟WVTA + 机动车辆监督管理系统办法说明(2018/858) | 第三方认证机构 | 欧盟 | https://m.11467.com/product/d53638850.htm 维基月球 | 2026-09-03 | 资源 | WVTA/2018/858描述;CoC作用(二级) |
-| OTTS TR CU 018/2011 解释器 | 认证服务商 | 欧欧联 | https://m.11467.com/product/d21445928.htm 维基月球 | 2026-09-03 | 横跨 | OTTS/EAC, 授权代表(二级) |
-| 电子标记对 E 标记解释器 | 认证服务商 | | https://m.11467.com/product/d55481671.htm 维基月球 | 2026-09-03 | 资源 | e/E标记区分(二级) |
-* 证据上限:欧盟/欧经联/欧洲经委会文书来自次级认证服务来源;没有掌握稳定的欧经联/欧经联主要文本。 遵守之前,必须对照主要案文核查管制日期和范围。 中国方面框架是唯一官方支持的部分. * 报告迟交是因为需要翻译。
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| 关于机动车类型核准(欧盟)2018/858(合并2021-09-26)条例——WVTA;整车 vs | EUR-LEX(欧盟官方法律数据库) | 氯化萘 | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 维基月球 | 2026-09-04 | 实录 |  |
-| 条例(欧盟)2018/858(原始内容),第六章/第36条——制造商为每辆车辆签发CC | 欧元-升 | 氯化萘 | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 维基月球 | 2026-09-04 | 实录 |  |
-| 第六章(CoC) 正式复制 | | 氯化萘 | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf 维基月球 | 2026-09-04 | 实录 |  | 2018/858
-| 1958 协定(Rev 3),E/ECE/TRANS/505——联合国条例类别核准部件/系统/STU的框架 | 欧洲经委会(联合国) | 氯化萘 | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf 维基月球 | 2026-09-04 | 实录 |  |
-| GRRF-84-18(核准标记/编号结构,E+国家编号) | 欧洲经委会WP 29 资源资源框架 | 氯化萘 | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf 维基月球 | 2026-09-04 | 实录 |  |
-| 1958协定和所附联合国条例的现况 | 欧洲经委会 | 氯化萘 | https://unece.org/status-1958-agreement-and-annexed-regulations 维基月球 | 2026-09-04 | 实录 |  |
-| 海关联盟委员会第877(09.12.2011)号决定,通过了TR CU 018/2011号技术条例“关于  | adilet.zan.kz——M官方法律数据库 | 氯化萘 | https://adilet.zan.kz/rus/docs/H11T0000877 维基月球 | 2026-09-04 | 实录 |  |
-| 欧共体 董事会第232(09.12.2014)号决定,关于填写OTTS/OTSH表格的规则 | 阿尔塔-索夫特法律参考(T3;转载EEC de) | 氯化萘 | https://www.alta.ru/tamdoc/14kr0232/ 维基月球 | 2026-09-04 | 资源 |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

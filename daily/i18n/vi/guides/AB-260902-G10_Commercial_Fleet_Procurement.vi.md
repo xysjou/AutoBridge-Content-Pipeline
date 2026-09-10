@@ -86,16 +86,16 @@ Có gì thay đổi trong luật xuất khẩu của Trung Quốc 2026? Ứng d�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Có thể là 2026 xe hơi/ xe đạp xuất khẩu tiện ích (商办贸函  2025  dám 408 号) | MOFCOM (** Chính phủ**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VEREEEEEEEEEEET** | Hệ thống ứng dụng trực tuyến, duyệt địa phương, tiến trình danh sách có khả năng |
-| Xuất bản sơ đồ khách hàng thuần túy từ 2026-01-01 (tách số 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (** Chính phủ**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VEREEEEEEEEEEET** | Chế độ xuất khẩu thông tin 2026 NVEEEEEEer |
-| Danh sách xuất khẩu có khả năng 2026 | Bộ Giao Dịch Ngoại Giao MOFCOM (** Chính phủ**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VEREEEEEEEEEEET** | Những doanh nghiệp có khả năng trong năm nay |
-| Thêm vào đó có thể giúp tăng cường khả năng quản lý xuất xe hơi đã dùng (Nov 2025) | MOFCOM/MIIT/MPS/GAC thông qua (** chính thức**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VEREEEEEEEEEEET** | Trường xuất khẩu xe hơi/sự nhất quán- chứng nhận |
-| 15-unit xe tải mềm (kết hợp các chỉ thị kỹ thuật) | Nhóm đường & cầu Hun - ga (nhu nhược thực) | CNCentral Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VEREEEEEEEEEEET** | ≥15 m³, T700 thép, Tầng 10 mm. bên _ 8 mm. kiểu nâng |
-| Hướng dẫn về nhiệm vụ/sự bảo vệ hàng năm (bộ giảm tải, trục có nhiệm vụ) | Các nhà sản xuất CV (chỉ dẫn về chi tiết/FAW; Chengli 12-step dòng chảy) | CNGlobal | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | ĐÃ_ ĐÃ | Hướng dẫn kỹ thuật/ xử lý |
-* Ca ngợi: Chế độ xuất khẩu 2026 và sự chấp nhận dịu dàng Chỉ số đã được xác định Nguồn tin chính phủ/thật. Hướng dẫn kỹ thuật/ xử lý là nhà sản xuất/ công nghiệp (CROSS_CCKED) Danh sách năm nay, OEM mạng ngoại quốc và tất cả các thuật ngữ thương mại (dister/MMQ/lead Thời gian hiện hữu và không bao giờ ước tính. *
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

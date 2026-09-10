@@ -39,16 +39,16 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD SKD, sebuah keunt
 ** Bisakah satu kit desain bekerja di setiap pasar? ** Tidak - klasifikasi dan kondisi perakitan negara - spesifik.
 ** Apa yang harus dilakukan BOM? ** Tugaskan sebuah baris HS, asal dan nilai ke setiap komponen sebelum klasifikasi.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | TERBATAI | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础, 归类裁定与决定 |
-| 汽车 CCSD 散件出口原产地证填制 = 行业流程 = T4 仅线索 = = | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单 HS 逐项整理流程线索 |
-| 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Sistem Harmonized Nomenklatur (WCO) | Organisasi Bea Cukai Dunia | CN | T1 | TERBATAI | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Normalisasi HS adalah dasar klasifikasi yang dipertahankan oleh WCO |
-| WCO Origin instrumen dan alat | Organisasi Bea Cukai Dunia | CN | T1 | TERBATAI | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rule-of-earth framework dan instrumen yang dijaga oleh WCO |
-| WTO Perjanjian tentang Valuation Bea Cukai | Organisasi Perdagangan Dunia | INT | T1/T2 | TERBATAI | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Penilaian Bea Cukai memiliki hubungan dengan Krits dan unit yang dirakit dengan cara yang berbeda; tidak mengatur tujuan tarif perakitan |
-| WCO HS Nomenklatur - clasifikasi instrumen (GRI) | Organisasi Bea Cukai Dunia | INT | T1/T2 | TERBATAI | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Peraturan Interpretatif Umum (incl. GRI 2 (a))) mengatur klasifikasi barang unarched disassembled knowdown; halaman dalam |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

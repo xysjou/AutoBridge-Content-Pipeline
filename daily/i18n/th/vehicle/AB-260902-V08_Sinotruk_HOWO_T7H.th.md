@@ -25,7 +25,7 @@ The HOWO T7H is one of Sinotruk's (CNHTC) flagship **heavy tractor heads (牵引
 | โอเวอร์วาวาเกีย | 6.985 × 2.496 × 3.85 m | (เสียงแหลม) | 360che
 | กลไก | ~WICHE WP10.5H460E50~ 10.5 L ในบรรทัด- 6 ดีเซล | (เสียงแหลม) | 360che
 | พลัง แรงบิด | 338 kW (460 PS) 2100 N·m @ 1000–1400 Rpm | (เสียงแหลม) | 360che
-| กล่องปรับเลข | Sinotruk HW12-WY **12-speed AMT** (2 reverse); 10/12/16-สปีดที่อื่น | ต ร ร ร ร ว ว ว ว
+| กล่องปรับเลข | Sinotruk HW12-WY **12-speed AMT** (2 reverse); 10/12/16-สปีดที่อื่น | ต ร ว
 | เคอร์บ จีวีดับเบิลยู จีซีดับเบิลยู | 8.8 t กํากับ สืบค้นเมื่อ 25 t GVW – 40 t ส่วนผสม น่าขยะแขยง (การไล่) มวล! | ตรวจการข้าม |
 | เพลาหน้า | H653K การปรับตัวด้วยตนเอง  allowable 7000 kg | (เสียงแหลม) | 360che
 | ระเบียงหลัง | MCY12BGS การปรับตัวด้วยตนเอง แทนเด็ม (พ.ศ. (พ.ศ. 18,000 kg two-axle group | (เสียงแหลม) | 360che
@@ -63,7 +63,7 @@ Siotruk เสนอส่งออก T7H build ที่ ~ ยูโร V  and
 ## โปรแกรมซื้อ FAQ
 
 ~อะไรคือความแตกต่างระหว่าง 460 ~  และ 540 T7H?** Beyond power,  พวกเขาสามารถเป็นครอบครัวเครื่องยนต์ที่แตกต่างกัน — the 460 reference uses a Weichai WP10.5H (2100 N·m),  ในขณะที่ 540 uses the MAN-technology MC13 (2500 N·m); ยืนยันสถาปัตยกรรม ไม่ใช่แค่แรงม้า
-~จีซีดับเบิลยูคืออะไร  6 x 4 ~ อาคารอ้างอิงถูกอ้างถึงที่ 40 t มวลมวลมวลมวลที่ ร้ายแรง (ข้ามเวลาไป) อยู่ภายใต้กฏกําหนดปลายทาง
+~จีซีดับเบิลยูคืออะไร  6 x 4 ~ อาคารอ้างอิงถูกอ้างถึงที่ 40 t มวลที่ ร้ายแรง (ข้ามเวลาไป) อยู่ภายใต้กฏกําหนดปลายทาง
 มันมาพร้อมกับเกียร์อัตโนมัติ? 460 อ้างอิงนี้ใช้ Sinotruk 12-speed AMT; คู่มือและสัดส่วนอื่น ๆ ที่มีอยู่
 **Can I get Euro VI or LNG?** Export builds list Euro V/Euro VI  and  ตัวเลือก LNG ระบุมันและได้รับ การรับรองที่สอดคล้องกัน
 **Why are some figures single-source?** Detailed China announcement data came from ทางช่อง Sinoruk ได้รับการยืนยันว่าใช้ทั้งครอบครัวและตัวเลือกส่งออก เปรียบเทียบเช็คก่อนเอกสารสุดท้าย 360che
@@ -94,21 +94,21 @@ Siotruk เสนอส่งออก T7H build ที่ ~ ยูโร V  and
   - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| | | | | า ว ว ว โ โ โ อ ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท 7H 460 6 x4 × า า า า า า า า า ม ม ม ม ต ต ต ต ต ต ต | | | | | | | | | | (พ | | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | | (พ ) ) ) ) ) ) ) ) ) | ) ) ) ) | | | | ) ) ) ) ) | | | | | | | | | | | | | | | | |  | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | ROOS_ CHCKED | ประกาศ, เครื่องวิกิชัย, เพลา, ยาง, รถถัง, แท็กซี่ | 360che
-| T7H หน้าผลิตภัณฑ์อย่างเป็นทางการ | Sinoruk Group (CNHTC, อย่างเป็นทางการ) | เอ็กซ์พอร์ต | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | เปิดใช้งาน | MC11 440 HP 10.518 L, chasis, เกียร์, พวงมาลัย ZF |
-| ฮาวโอ T7H ระหว่างประเทศ | ซิ น โด รม อินเตอร์เนชันแนล (ต่างประเทศ) | ส่งออก | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | เปิดใช้งาน | HP |
-| การปรับแต่งการส่งออก T7H | SINOUTK ฮาว (ระบบจําหน่ายแบบทางการ) | ส่งออก | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | เปิดใช้งาน | 8.8/25/40 t weights, MC13.54-50 540 HP 2500 N·m (พ.ศ. บอง สืบค้นเมื่อ 28 พฤษภาคม 2555.
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* จดหมายเหตุ (มาตรฐานอัตโนมัติ: เครื่องส่งออกและน้ําหนัก MC11/MC13 เครื่อง มี interviewed on Snoteruk-offical Vallephic Cults; รายละเอียด ตัวประกาศเป็น SINGLE [. ของหวาน ราคาไม่เปลี่ยนแปลงและถูกละทิ้ง ยืนยันการส่งออกที่แน่ชัด บนแผ่นอินเตอร์เนชันแนลของสโนรค * 360che
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

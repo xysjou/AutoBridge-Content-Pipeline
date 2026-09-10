@@ -30,7 +30,7 @@ Tingkat pengiriman utama memenangkan booking dan kehilangan uang di tujuan. Expo
 
 ## Origin vs Tujuan - Dimana Disputes Sembunyikan
 - Pecah setiap baris ke ** biaya asal ** (sebelum di loading) dan ** biaya tujuan ** (di debit collection). Pembeli kendaraan sering terkejut dengan tujuan THC, DOC dan biaya pengiriman yang tidak mereka duga.
-- Tanyakan ke forwarder untuk ** nama setiap baris dan unit penagihan ** (per kontainer per tagihan per kendaraan), sehingga dua kutipan dapat dibandingkan pada dasar yang sama.
+- Minta forwarder **nama setiap baris biaya dan satuan tagihannya** (per kontainer/per kendaraan), sehingga dua kutipan dapat dibandingkan di dasar yang sama.
 - Perhatikan untuk ** tanpa nama surcharges ** dan "local charges" tanpa unit - ini adalah tempat tingkat judul rendah pulih.
 
 ## Metode Audit (tidak ada angka)
@@ -76,19 +76,19 @@ Mengapa dua "rate sama" mengutip berbeda di tujuan? Biasanya tujuan biaya pengir
   - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | _ BERDECAT | O F, THC, DOC, BAF, audit method |
-| Definisi THC | Sina Pengiriman Keuangan | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | _ BERDECAT | Penanganan terminal cakupan |
-| Biaya ekspor lautan komponen per jalur | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | _ BERDECAT | Taksonomi surcharge, logika rute AMS ACI |
-| Mula biaya FOB (THC booking trucking) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE _ SOURCE | Nama pengisian | 11467
-* Lingkup bukti: pemeriksaan struktur impor dari sumber-sumber industri (tidak ada tariff resmi sumber primer); AMS / ACI dibingkai sebagai panduan editorial-spesifik; semua jumlah sengaja dikecualikan sebagai waktu-sensitif. ♪
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| Incoterms 2020 rules (who arrange pay transport at each term) | International Chamber of Commerce (ICC) | INT 'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | TERBATAI | Yang mana barang biaya jatuh ke pembeli vs penjual oleh Incotererm |
-| Freight- forwarder praktek dan kategori charge | FIATA | INT 'L | https://fiata.org/ | 2026-09-05 | TERBATAI | Kutipan Forwarder referensi struktur charge- |
-| Konteks pengiriman dan muatan surcharge | Dewan Pengiriman Dunia | INT 'L | https://www.worldshipping.org/ | 2026-09-05 | TERBATAI | Konteks industri untuk muatan lautan dan muatan barang antik |
-| Cina Internasional Freight Forwarders Association | CIFA | CN INT 'L | http://www.cifa.org.cn/ | 2026-09-05 | TERBATAI | Cina - sisi meneruskan industri dan praktek kutipan |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

@@ -20,8 +20,8 @@ Der FAW Jiefang J7 ist der Flaggschiff-Schwerlastzugwagen der siebten Generation
 |---|---|---|
 | Motor | ** CA6DM3-55E52 ** (China- 5 / National V) | CROSS_CHECKED |
 | Output | 550 PS, um 2300 N·m | CROSS_CHECKED |
-| Getriebe | 12-speed Handbuch | SINGLE_SOURCE |
-| Beispiel Homologation | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| Getriebe | 12-speed Handbuch | single source |
+| Beispiel Homologation | CA4250P77K25T1E5 | single source |
 | Era | 2018 Startstrecke — **HISTORICAL_VARIANT** | CROSS_CHECKED |
 
 Diese Zahlen beschreiben die ** 2018-era China- 5 ** J7. Sie müssen als historische Emissionsstufe gekennzeichnet und dürfen nicht als derzeit verkaufter Lkw dargestellt werden. A China-5 engine also raises a direct export question: Viele Zielmärkte erfordern jetzt eine neuere Emissionsstufe.  so a China-5 unit may not be registerable even where the truck itself is available. Bestätigen Sie die Bestimmungsortemissionserkennung, bevor Sie diese Generation beschaffen.
@@ -30,9 +30,9 @@ Diese Zahlen beschreiben die ** 2018-era China- 5 ** J7. Sie müssen als histori
 
 | Position | Referenzmarkt China | Vertrauen |
 |---|---|---|
-| Motorenfamilie | ** CA6SX1 ** (China- 6 / National VI) | SINGLE_SOURCE |
-| Bezugsgröße der Spitzenleistung | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — genaue PS-Schritte von SKU zur Bestätigung|
-| Layout | 6x4 dominant; Luftfederung und hydraulischer Retarder optional in ausgewählten Konfigurationen | SINGLE_SOURCE |
+| Motorenfamilie | ** CA6SX1 ** (China- 6 / National VI) | single source |
+| Bezugsgröße der Spitzenleistung | Up to 600 PS / 2800 N·m | single source — genaue PS-Schritte von SKU zur Bestätigung|
+| Layout | 6x4 dominant; Luftfederung und hydraulischer Retarder optional in ausgewählten Konfigurationen | single source |
 
 The China-6 family is the current line, aber seine genauen PS / Drehmoment Schritte über SKUs sind hier nicht vollständig belegt - "bis zu 600 PS " ist eine Deckenreferenz, nicht eine einzige feste Bewertung für jeden LKW. An order must name the exact CA6SX1 power rating, Getriebe, Achsübersetzung  and  Sattelkupplung  and  schließen Sie sie mit der offiziellen Jiefang-Spezifikation oder dem genauen MIIT-Homologationseintrag. Elemente wie die genaue Sattellast, Achsübersetzungen, Kraftstofftankkapazität und Leermasse werden **nicht** angegeben, da keine genaue Quelle für SKU erfasst wurde.
 
@@ -86,19 +86,19 @@ Ein Hochdach-Traktor 6x4 ist das dominierende Layout, mit Luftfederung und einem
 
 Nein — diese Seite ist die chinesische Diesel-Referenz; LNG/EV, RHD und Export J7s erfordern separate OEM-Beweise und werden nicht als identisch angenommen.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/ 上市 / 国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12 挡, 缓速器 |
-| 车型身份 / 底盘选装 | 汽车之家 · 车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
-| 一汽解放官方网站 (车型线身份;exact-SKU 以官方 / 公告终核) | 一汽解放 (FAW Jiefang) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告final confirmation） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-07
-- **Referenzmarkt**: CHINA(中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU 终核)
+- **Referenzmarkt**: CHINA(中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU final confirmation)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Die Einzelquellen-Ausgaben, GCW/Achs/Fünftelraddaten und die Referenzpreise im Inland müssen auf dem OEM-Blatt oder dem MIIT-Homologationseintrag erneut bestätigt werden, und LNG/EV/RHD/Export J7 erfordern vor der Transaktion einen separaten OEM-Beweis.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

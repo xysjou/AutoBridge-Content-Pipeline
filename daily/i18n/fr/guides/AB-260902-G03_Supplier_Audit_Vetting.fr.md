@@ -129,19 +129,19 @@ Une analyse de licence prouve qu'une entreprise existe, et non qu'elle peut expo
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## Sources et vérification
+## Sources & Verification
 
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Avis sur la nouvelle réglementation de l'ordre d'exportation des automobiles/motocycles | MOFCOM et al. (cinq ministères, fonctionnaire T1) | NC | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VÉRIFIER | Avis de MIIT + CCC sur la base de la qualification des exportations |
-| 2024 Annonce no 6 (conditions d ' exportation des voitures particulières) | MOFCOM (officiel T1) | NC | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VÉRIFIER | Exportateur de voitures d'occasion: conditions d'entité juridique/de qualification |
-| Comment vérifier l'authenticité des licences d'entreprise du fournisseur chinois | Goodcan Trading (industrie, points à gsxt.gov.cn) | NC | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | _CHECTURE | Champs de vérification gsxt |
-| Comment vérifier une usine chinoise est légitime | Plutonia Logistique mondiale | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | _CHECTURE | Cohérence des noms de compte, vérification des usines |
-| Guide 8-step pour vérifier les fournisseurs d'exportation de la Chine | huajiame (industrie) | NC | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | _CHECTURE | Cadre d ' audit en couches, AEO |
-| Notes d ' achat de véhicules | (顺企网, industrie) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | _CHECTURE | Vérification vidéo minimale en direct, vérification croisée des déclarations | 11467
-| Procédures d'exportation des camions nationaux | Commerce de Guangzhou Pujiang | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | _CHECTURE | Exportation par l'intermédiaire d'une entité qualifiée, chaîne d'autorisation | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-* Note de confiance (norme AutoBridge): les règles de qualification reposent sur les sources primaires MOFCOM/MIIT (VERIFIED), comprenant désormais l'avis de demande 2026 (商办贸函 -2025 -408 号) et l'annonce conjointe no 54 sur les licences d'exportation de passagers VR. La liste des personnes qualifiées de l'année en cours et la requête AEO sont dynamiques et doivent être vérifiées en direct; les éléments de la liste de contrôle opérationnelle sont fournis par l'industrie et renvoient aux systèmes officiels. *
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

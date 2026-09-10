@@ -43,17 +43,17 @@ Berapa lama catatan yang disimpan? Lima tahun untuk catatan akhir yang relevan.
 ** Siapa yang harus ku layarnya? Pembeli, consignee dan pihak-pihak lainnya yang relevan, di asupan dan lagi sebelum pengiriman.
 ** Bagaimana jika ada hit? ** (Dan jika mereka ditimpa kesusahan) kekeringan dan musibah bencana (mereka tidak menghadapinya) tidak pernah melakukan salat dan lainnya (sedangkan apabila Kami letakkan mereka di tempat kediaman mereka itu) di tempat yang kalian tempati di tempat-tempat tersebut (maka ambillah hal itu sebagai perbuatan yang sebaik-baiknya) yaitu dengan cara memasukinya.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例: 国务院令第 792 号 | 中华人民共和国商务部 | CN | T1 | TERBATAI | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | TERBATAI | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | TERBATAI | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题: 不予许可情形 | 中华人民共和国商务部 | CN | T1 | TERBATAI | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可, WMD 恐怖主义 军事用途 |
-| Kementerian Perdagangan (MOFCOM) | MOFCOM 商务部 | CN | T1 | TERBATAI | https://www.mofcom.gov.cn/ | Otoritas yang kompeten untuk ekspor lisensi dan kontrol ekspor |
-| Peraturan (EU) - EU dual- gunakan ekspor-kontrol rezim | Uni Eropa (EUR- Lex) | EU | T1/T2 | TERBATAI | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Contoh dari major-higication dual- gunakan kontrol rezim dan membatasi - partai end- gunakan kontrol yang relevan untuk pemutaran desain | 2021/821
-| Daftar Entitas AS - contoh pencitraan partai terbatas | US Bureau of industry and Security (BIS) | US | T1/T2 | TERBATAI | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Daftar pihak publik yang membatasi penerimaannya menampilkan penyaringan entitas sebelum pengiriman |
-| SIND OFAC US Daftar - penyaringan sanksi | Kantor Kendali Asset Luar Negeri AS (OFAC) | US | T1/T2 | TERBATAI | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Khusus Dirancang Daftar nasional sebagai sumber data yang display sanksi-ketika-ketika; yurisdiksi - spesifik, bukan daftar hitam global |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

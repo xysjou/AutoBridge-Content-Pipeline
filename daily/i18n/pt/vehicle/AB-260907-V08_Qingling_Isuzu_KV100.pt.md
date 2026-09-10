@@ -25,15 +25,15 @@ Como os caminhões leves são vendidos como um chassis-cab mais um corpo montado
 
 | Item | Referência do mercado chinês | Confiança |
 |---|---|---|
-| Motor | ** 4KH1CN6LB ** 3.0-litre diesel, China - 6 (National VI) | SINGLE_SOURCE |
-| Saída | 120 PS / 290 N·m | SINGLE_SOURCE — confirmar por VIN/OEM|
-| Caixa de velocidades | Manual MSB 5-speed (5MT) | SINGLE_SOURCE |
+| Motor | ** 4KH1CN6LB ** 3.0-litre diesel, China - 6 (National VI) | single source |
+| Saída | 120 PS / 290 N·m | single source — confirmar por VIN/OEM|
+| Caixa de velocidades | Manual MSB 5-speed (5MT) | single source |
 
 A família 4KH1 existe em mais de um sufixo com saídas diferentes,  and  a second independent report references a different 4KH1 suffix rating. É exatamente por isso que o código completo do motor - ** 4KH1CN6LB **, não apenas "um 4KH1 " - deve ser escrito na ordem e correspondente à entrada de homologação MIIT. Um diesel China- 6 é calibrado para o combustível chinês e a fase nacional VI; O grau de combustível de destino e o reconhecimento das emissões devem ser verificados separadamente e não presumidos.
 
 ## Carga útil e massa do tabuleiro: os classificados não são dados de fábrica
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Estes valores são **não** apresentados como especificações: variam com o corpo montado, são auto-reportados pelos vendedores e não podem ser utilizados para dimensionar uma carga. A carga útil, massa do banco e GVW são de **o certificado de homologação de chassis exatos / placa de identificação**. Obter aqueles antes de se comprometer com um ciclo de carga útil.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Estes valores são **não** apresentados como especificações: variam com o corpo montado, são auto-reportados pelos vendedores e não podem ser utilizados para dimensionar uma carga. A carga útil, massa do banco e GVW são de **o certificado de homologação de chassis exatos / placa de identificação**. Obter aqueles antes de se comprometer com um ciclo de carga útil.
 
 ## Linhas adjacentes e o limite global de Isuzu
 
@@ -78,21 +78,21 @@ Não nesta evidência: é construído por Qingling para a China e é tratado com
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-08
-- **Mercado de referência**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- **Mercado de referência**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Saídas de motor de fonte única e todas as figuras de carga útil nominal / GVW devem ser reconfirmadas na folha OEM ou entrada de homologação MIIT, e o mesmo modelo de status com Isuzu global requer uma declaração de OEM explícita antes de transacionar.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

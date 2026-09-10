@@ -34,7 +34,7 @@ Las dimensiones estándar de la base de datos se revisan entre el sitio OEM de e
 | 4WD | **BorgWarner tiempo parcial 4WD (2H/4H/4L) + bloqueo diferencial trasero** |
 | Reclamación por consumo de combustible | 7.6 L 100 km — **Reclamación del fabricante**, no resultado medido |
 
-Estos artículos de alimentación del mercado chino se encuentran actualmente en una fuente de medios chinos **single junto al sitio OEM de exportación**; para el *mercado chino* son por lo tanto **SINGLE_SOURCE** — tótelos como "** para ser finalizados contra la hoja de configuración del fabricante (以厂商配置单终核)**", no como cifras chinas de doble fuente. La existencia de un valor exportador-OEM no mejora la confianza del mercado chino. Combustible/emisión: diesel; confirmar la tolerancia al azufre de destino y la ruta de emisión (una calibración China-VI no es la aprobación en el extranjero).
+Estos artículos de alimentación del mercado chino se encuentran actualmente en una fuente de medios chinos **single junto al sitio OEM de exportación**; para el *mercado chino* son por lo tanto **single source** — tótelos como "** para ser finalizados contra la hoja de configuración del fabricante (以厂商配置单final confirmation)**", no como cifras chinas de doble fuente. La existencia de un valor exportador-OEM no mejora la confianza del mercado chino. Combustible/emisión: diesel; confirmar la tolerancia al azufre de destino y la ruta de emisión (una calibración China-VI no es la aprobación en el extranjero).
 
 ## Entrenamiento, remolque y carga de pago — Labeldes de mercado
 - **Accionamiento parcial de cuatro ruedas (BorgWarner)** con ** 2H 4H 4L ** y una cerradura diferencial ** rear** en el documento 4x4 (fuente único del mercado chino; finalizar contra la hoja de construcción).
@@ -90,21 +90,21 @@ No se publica ningún precio de exportación estático. Consulta con ** País de
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| JAC T9 especificaciones oficiales | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | Identidad del SAME_MODEL; ** 3500 kg remolque (EXPORT)**; dimensiones del ped |
-| Nueva configuración de productos Hantu | JAC Oficial de recogida (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | Identidad del SAME_MODEL; ** 1000 kg payload (CHINA)** |
-| Hantu estándar/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, base de ruedas, cama |
-| Shuailing T9 dimensiones de presentación (cama larga) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | corroboración de camas largas |
-| Hantu (sobreseas T9) generación de energía eléctrica | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE_SOURCE (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
-| GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 18352.6-2016 con la enmienda XG1-2026 (Emisiones de contaminantes de la lumínica de China-6) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China- 6 etapa de emisión de vehículos ligeros y 2026 fechas de aplicación de la enmienda |
-| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
+| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
+| Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
+| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
+| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | single source (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Nota de confianza: identidad SAME_MODEL vía dos sitios JAC OEM; chasis estándar/largo cruzado; el tren de alimentación chino es SINGLE_SOURCE (financiado contra la hoja de fabricante); 3500 kg remolque es EXPORT-only y nunca un valor de homologación chino; 1000 kg payload es China VERIFIED. Matriz RHD y precio de exportación no declarado. *
+*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is single source (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

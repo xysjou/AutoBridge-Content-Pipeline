@@ -13,7 +13,7 @@
 - **스키마 범위**: 기사 (제품/판매/가격/리뷰/리팅 없음)
 
 ## 누구에게나
-첫 번째 시간 차량 수출은 종종 가격과 수량에 대한 거래를 표시하고, 그 다음 계약이 고정되지 않습니다 ** 위험이 패스를 발견, 전체 지불 전에 제목을 보유하거나 분쟁이 들어있는 경우**. 이 가이드는 그 결과를 통제하는 절을 맵니다. PRC 민법 예술 596은 CROSS_에서 캡을 하는 ** 두 번째 법률 포털 (FindLaw 등)을 통해 여기에 설명됩니다. CHECKED/SINGLE_SOURCE**; VERIFIED는 NPC/government 소스의 공식 민법 텍스트가 필요합니다. 나머지는 법적 전술 종합입니다. ** 템플릿은 법적 조언이 아닙니다. - 선택한 준거법에 따라 수행 된 계약에 대한 자격을 갖춘 변호사가 있습니다. 의 모든 것
+첫 번째 시간 차량 수출은 종종 가격과 수량에 대한 거래를 표시하고, 그 다음 계약이 고정되지 않습니다 ** 위험이 패스를 발견, 전체 지불 전에 제목을 보유하거나 분쟁이 들어있는 경우**. 이 가이드는 그 결과를 통제하는 절을 맵니다. PRC 민법 예술 596은 CROSS_에서 캡을 하는 ** 두 번째 법률 포털 (FindLaw 등)을 통해 여기에 설명됩니다. CHECKED/single source**; VERIFIED는 NPC/government 소스의 공식 민법 텍스트가 필요합니다. 나머지는 법적 전술 종합입니다. ** 템플릿은 법적 조언이 아닙니다. - 선택한 준거법에 따라 수행 된 계약에 대한 자격을 갖춘 변호사가 있습니다. 의 모든 것
 
 ## 엽록 1 — 필수 내용 (시몬 코드 아트 596)
 ** PRC Civil Code**의 Article 596은 판매 계약이 적용됩니다. ** 이름, 수량, 품질, 가격, 시간/장소/메들, 성능, 포장, 검사 표준 및 방법, 결제 및 효과적인 제공**. 차량 거래에 대한 번역, 최소는:
@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC 소개 민법 예술 596 판매 계약 기간 | FindLaw (사설 포털) | 담당자: Mr. wang | https://www.findlaw.cn/wenda/q_60484893.html 대한 자세한 정보 | 2026-09-03 | CROSS_체크 (차단 법률 포털을 통해 인용 된 기사; 공식 NPC 소스) | 필수 계약 내용 |
-| 수출입업체 > 대리점 | 2026-09-03 | CROSS_체크 | 위험 이동; 제품 소개 공개 | https://m.110ask.com/fanben/601005122281423969.html 110asks, 영국
-| 구매 계약 핵심 항목 (breach/title/config list) | 66Law | 담당자: Mr. wang | https: | 2026-09-03 | CROSS_체크 | LD, 클레임 창, 구성 annex | https://m.66law.cn/question/56427049.aspx
-| 수출계약 Incoterms/disputes/아포릴 | 화물 운송업자 물자 | - 연혁 | https: | 2026-09-03 | SINGLE_SOURCE(싱글) | Incoterms 판결, ICC 중재, Apostille | https://m.11467.com/product/d43019461.htm
-*Scope 참고: 아트 596 콘텐츠는 CROSS_ 이차 법률 포털을 통해 확인 - VERIFIED는 공식 PRC 민법 (NPC 정부) 텍스트를 필요로하지 않은 캡처; 그것을 VERIFIED 레이블하지 마십시오. 제목 예약의 시행, 중재 및 Apostille은 선택한 준거법 및 목적지에 따라 달라지고 자격이 된 상담에 의해 확인해야합니다. 계약 모델은 구조적 참조 만입니다. ****************************************************************************************************************************************************************************************************************************************************************
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《 中华人民共和国民法典》 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (수직 사람들의 조달) - offic | 담당자: Mr. wang | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml 대한 자세한 정보 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go) | 담당자: Mr. wang | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml 위한 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

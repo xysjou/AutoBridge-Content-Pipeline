@@ -13,7 +13,7 @@
 - **Alcance del esquema**: Artículo (no Producto/Offer/Precio/Revisión/Revisión)
 
 ## ¿Quién es?
-Un exportador de vehículos de primera vez a menudo firma un acuerdo sobre precio y cantidad solo, luego descubre el contrato nunca fijo **cuando el riesgo pasa, que tiene título antes del pago completo, o donde se escucha una disputa**. Esta guía mapea las cláusulas que controlan esos resultados. Código Civil de la República Popular Democrática de Corea El artículo 596 se describe aquí a través de ** portales legales secundarios (FindLaw, etc.), que capten en CROSS_ CHECKED/SINGLE_SOURCE**; VERIFIED requeriría el texto oficial del Código Civil de una fuente NPC/gobierno. El resto es una síntesis de práctica legal. **Una plantilla no es un asesoramiento jurídico: tener un abogado calificado revisa el contrato ejecutado en virtud de su ley rector elegida. ################################################################################################################################################################################################################################################################
+Un exportador de vehículos de primera vez a menudo firma un acuerdo sobre precio y cantidad solo, luego descubre el contrato nunca fijo **cuando el riesgo pasa, que tiene título antes del pago completo, o donde se escucha una disputa**. Esta guía mapea las cláusulas que controlan esos resultados. Código Civil de la República Popular Democrática de Corea El artículo 596 se describe aquí a través de ** portales legales secundarios (FindLaw, etc.), que capten en CROSS_ CHECKED/single source**; VERIFIED requeriría el texto oficial del Código Civil de una fuente NPC/gobierno. El resto es una síntesis de práctica legal. **Una plantilla no es un asesoramiento jurídico: tener un abogado calificado revisa el contrato ejecutado en virtud de su ley rector elegida. ################################################################################################################################################################################################################################################################
 
 ## Clause Block 1 — El contenido esencial (Código Civil Art 596)
 Según ** El artículo 596 del Código Civil de la República Checa**, un contrato de venta debe abarcar: **Nombre, cantidad, calidad, precio, tiempo/lugar/método de rendimiento, embalaje, normas de inspección y método, arreglo y disposiciones de lenguaje/texto eficaces**. Traducido para un acuerdo de vehículo, el mínimo es:
@@ -83,17 +83,17 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC Código Civil Art 596 términos de contrato de ventas | FindLaw (portal jurídico) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (artículo de la Ley citado por un portal jurídico secundario; no fuente oficial de la Comisión Nacional de Protección de los Niños) | Contenidos esenciales de los contratos |
-| Modelo de contrato de venta de vehículos de exportación (retención de riesgo/títulos) | legales | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferencia de riesgos; retención de título; declaración de condiciones | 110ask
-| Cláusulas básicas de contrato de compra (lista de parra y título/config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, ventana de reclamación, anexo de configuración |
-| Contrato de exportación Incoterms/disputes/Apostille | Material de carga para uso | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Versión de los incoterms, arbitraje de la CPI, Apostille |
-* Nota de la encuesta: Contenido del art 596 es CROSS_ CHECKED via a secondary legal portal only — VERIFIED requiere el texto oficial del Código Civil de PRC (NPC/government), que no fue capturado; no lo etiqueta VERIFIED. La aplicabilidad de la reserva de títulos, el arbitraje y la Apostille depende del derecho y el destino que se elijan, y debe ser confirmada por un abogado calificado. Los modelos de contrato son referencias estructurales solamente. *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| ■ 中华人民共和国民法典, Gr 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (procuraduría General de la Gente Suprema) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

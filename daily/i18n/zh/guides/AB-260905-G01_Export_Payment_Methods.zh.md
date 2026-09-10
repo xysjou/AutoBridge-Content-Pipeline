@@ -42,16 +42,16 @@
 我是否应该接受O/A作为第一个买家? ** 通常没有信用保险、担保或既定关系。
 **Does UCP600 override my contract?** No — UCP600 governs the credit when incorporated; 销售合同和Incotem 仍然设定交易。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 跨境收款: 信用证法律逻辑与风险防线 (二) (中文(简体)). | 东莞市人民政府(转国际经贸业务) (中文(简体)). | 氯化萘 | T1 | 实录 | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html 维基月球 | UCP600 不可撤销, 信用证分类与风险 (单位:千美元) |
-| 信用证核心特点(UCP600 第二条定义) (中文(简体)). | 东莞市贸促会 (中青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青青 | 氯化萘 | T1 | 实录 | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html 维基月球 | 信用证定义,  银行信用, 相符交单 维基月球 |
-| 国际贸易单证业务(教材,流程佐证) (中文(简体)). | 清华大学出版社 维基月球 | 氯化萘 | T3 | 横跨 | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf 维基月球 | 单证相符, 审单流程 (单位:千美元) |
-| 国际商会(国际商会) | 国际商会 | 氯化萘 | T1 | 实录 | https://iccwbo.org/ 维基月球 | 出版UCP600和《国际贸易术语解释通则》规则;权威性贸易-金融框架 |
-| 中国出口信贷保险——短期出口信贷保险. | 中国出口信贷保险公司(SINOSURE 中国信保) | INT/CN | T1/T2 | 实录 | https://www.sinosure.com.cn/ 维基月球 | 公开账户(O/A)和文件收集(D/P)应收风险可投保;供选择支付期的出口信贷保险 |
-| 中国国际贸易促进理事会(CCPIT) | 中国国际贸易促进会(CCPIT 中国贸促会). | 氯化萘 | T1/T2 | 实录 | https://www.ccpit.org/ 维基月球 | 国家促进贸易机构:L/C和贸易文件指导和认证;不同于地方政府复制 |
-| ICC Trade Finance solutions (UCP 600 URC 522 URDG rule owner) | 国际商会 | INT 信息技术 | T1/T2 | 实录 | https://iccwbo.org/business-solutions/trade-finance/ 维基月球 | ICC是L/C(UCP 600)、收藏(URC 522)和保证(URDG)的规则制定者;主页以外的深页 |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -70,7 +70,7 @@
 - 电话: 电话: 中国车辆出口的准确支付方法
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: export payment methods, Chinese-market procurement guide export buyer reference
   - **FR**: export payment methods, procurement guide du marché chinois, référence acheteur export

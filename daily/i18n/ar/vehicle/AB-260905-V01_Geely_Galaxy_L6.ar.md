@@ -67,15 +67,15 @@ The Geely Galaxy L6 EM-i (2025) is a سيارة مهجورة بنيت للصين
 ** من يصنع خلايا البطارية** ليس من المؤكد أن هناك مصادر مأخوذة من مكتب مكافحة المخدرات، لذا هذه الصفحة لا تسمّي المورّد.
 ** هل تنشر شركة أوت بريدج سعر تصدير**؟ لا - طلب اقتباساً حالياً مع المقصد والكمية وخط الترم، وDHD/RHD، والموانئ، والإنكور.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | T2 | صرخات | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
-| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
-| 银河L6 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
-| الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | independent database | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
+| 银河L6 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

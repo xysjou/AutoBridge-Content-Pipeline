@@ -27,7 +27,7 @@ Xe thường bảo đảm **ICC (A)** vì sự mất mát được thấy nhiề
 - Trên **CIF**, người bán chỉ có thể nợ ít nhất **ICC (C)** bao gồm cả một chiếc xe cần **(A) * (viết **ICC (A) vào hợp đồng và bất cứ lá thư tín dụng nào, hoặc mua lên trên của riêng bạn.
 - Trên **CIP**, mức mặc định là **ICC (A)** cho lợi ích của người mua — vẫn xác nhận điều khoản thực tế trên chứng nhận thay vì giả định.
 ## Setting the Insured Value — Two Different "110%" Rules (no invented premium)
-The 110% convention appears in **two distinct contexts that must not be merged into one universal formula**:
+Quy ước 110% xuất hiện trong **hai bối cảnh khác nhau, không được gộp thành một công thức phổ quát**:
 - ** Bí mật cho máy tính 2020 (trực của người bán)** Nơi mà Incocitions cần bảo hiểm (CIF/CIP), người bán phải có được ít nhất 110% của hợp đồng để có lợi cho người mua.
 - **Document credits UCP (thư tín dụng):** Nơi mà tín dụng đòi hỏi bảo hiểm nhưng không có số lượng, số tiền bảo hiểm thường được dùng ít nhất 110% giá trị CNP hoặc CNP của hàng hóa.
 Vậy là không có "số tiền bảo hiểm = iF 110%" bao gồm mọi giao dịch: xác định quy tắc nào chi phối (các định kỳ hợp đồng-pry hoặc cơ sở điều hành của LF/CIP), sử dụng cơ sở đó, và ** prim = lượng bảo hiểm. Những chiếc thuyền chở theo **rate nổi với lộ trình, mùa, dây cáp, tàu chở hàng và mỗi chuyến hàng** — không có phần trăm cố định nào được xuất bản ở đây. Hãy ghi ra một câu trích dẫn từng phần một và kiểm tra nó trùng khớp với điều khoản và thêm chi tiết mà bạn cần.
@@ -80,22 +80,22 @@ Kẻ phá sản bán một cái giá phải trả; hiếm khi nào họ liên k�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Viện Cango Clauses (A) 1/1/09 từ chính thức (CL382) | Hội chợ Lloyd (** Thị trường/ Tiêu chuẩn cơ thể chính thức**) | Toàn cục | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VEREEEEEEEEEEET** | ICC (A) "Tất cả rủi ro" phạm vi và loại bỏ các mệnh lệnh chính thức từ |
-| Ký hiệu 2010 tương đương với 2020 (CIP di chuyển từ ICC (C) sang ICC (A) | Phòng Thương mại Quốc tế (** Chính thức cơ thể) | Toàn cục | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VEREEEEEEEEEEET** | CIP ít được nâng lên ICC (A); CIF giữ ICC (C) |
-| Ký hiệu 2020 — CPT hay CIP (trực thăng bảo hiểm) | Học viện ICC (**ICC chính thức**) | Toàn cục | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VEREEEEEEEEEEET** | Bảo hiểm mua hợp đồng/tắm cho nơi đặt tên |
-| Học viện Cargo Bảo vệ phương tiện & RRo cho ngày tháng và số hiệu | Vỏ bọc Voyage (người môi giới đặc biệt, trích dẫn LMA/IUA, Hague-Visby) | Toàn cục | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | ĐÃ_ ĐÃ | CL382/383/384 số. 1 Jan 2009, Văn cảnh nút SDR |
-| 110% quy ước giá trị bảo hiểm/ tỷ lệ biến đổi | Giới thiệu & Kế hoạchETCARS (ndust) | Toàn cục | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | ĐÃ_ ĐÃ | Quy ước chiến dịch 110% và tỷ lệ tính theo giờ; Incoterms so với cơ sở UCP khác biệt trong cơ thể |
-| Bảo hiểm xe hơi dùng (ICC A/B/C 对比) | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE | ICC (A/B/C) 覆盖范围 |
-| Hướng dẫn Xuất xe hơi đã dùng | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE | 车辆推荐 ICC (A) |
-| Mua xe hơi thủy quân lục chiến Bảo hiểm: Bảo hiểm tổng, tỷ lệ và khẳng định | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | SINGLE_SOURCE | CIP 2020 升至 ICC (A) CIF 最低 ICC (C) |
-| Thuyết phục xe cộ trên những chiếc bình Roro | Voyage cover(保险经纪 承保专业站, 引 IUA/LMA Hague-Visby) | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE | Hague-Visby 承运人责任上限  thể loại 固有缺陷除外 |
-| Bảo hiểm cho hãng hàng hải | Name | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险  dám 战争 罢工附加险 |
-| 中古車輸出の海上保険 (保额公式) | PROETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE_SOURCE | 保险金额 = CFIF× 110%  thể loại 保费公式 |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
+| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
+| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
+| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | single source | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | single source | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | single source | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | single source | Hague-Visby 承运人责任上限、固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | single source | 一切险、战争/罢工附加险 |
+| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | single source | 保险金额=CIF×110%、保费公式 |
 
-* Bản cam kết: Phạm vi/số các điều khoản và các nghĩa vụ bảo hiểm Incoterms được thực hiện trên vật liệu chính của LMA/ ICC. Con số Hague-Visby SDR là một điều khoản hợp đồng để xác nhận cho số lượng tiền đã được sửa đổi hiện nay; tỷ lệ bảo hiểm là trên đầu người và không cố tình nói ra; vỏ bọc ắc quy-quy là đặc trưng chính sách. *
+*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

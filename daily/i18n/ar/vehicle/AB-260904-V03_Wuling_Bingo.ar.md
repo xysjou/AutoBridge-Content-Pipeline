@@ -16,7 +16,7 @@
 ## مشتري الكونت: مركب بي في المدينة بيع في ثلاث خطوات رنجية
 البنغو هو وولينغ خمسة باب من فتحات الكهرباء الصغيرة، موجهة إلى المناطق الحضرية  and  استخدام شخصي في التجارة الخفيفة بالنسبة للمصدر، المتغير الحاسم هو الخطوة**، لأن الطاقة النارية والبطارية والسرعة القصوى تتغير معها. هذه الورقة تغطي خط السوق الصيني البالغ 2024 ** (الإنذار: الصين**؛ ومن دون صفحة من طراز OEM في الخارج، تعد الأرقام الصينية مرجعا، وليس مواصفات عالمية.
 
-## EV Core: Battery, Range Cycle, Charging
+## جوهر EV: البطارية ودورة المدى والشحن
 | البند | 203 km (الدخــول) | 333 410 km |
 |---|---|---|
 | كيميائي البطارية | LFP (lithium iron phosphate) | LFP |
@@ -83,21 +83,21 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | صرخات | 17.3 kWh, 30 kW 85 N·m, range, top speed |
-| Bingo 2024 203km parameters | PRO | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | − voments المعقودة حسب المقرر الخاص المعني بالعمالة في الخارج،
-| 2024 مجموعة من المعلومات عن طريق | Autohome | Autohome | CN. https://chejiahao.m.autohome.com.cn/info/24300800 ، 2026-09-04 | ات −ments |но ،м،. 50 كيلوواط، مؤثرات في المناطق، وارتباطات
-| بُعداً مُعدّةً لمقعد الجلوس | سيارة | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE OURCE | 2+2 مقعد | 16888
-| Wuling Bingo 2025 full-line config - PCauto config CN | https://car.pcauto.com.cn/360/m133517/config.html - 2026-09-04 | صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ 
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* ملاحظة الملاءمة: تم فحص بطارية الدخول/قوة الدخول؛ وتكسير السيارات، وحجم الشحنات، وحسابات المقاعد، ودقائق الشحن، من مصدر واحد وعلامة. No OEM overseas page - Chinese-market reference only. ♪
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

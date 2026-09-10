@@ -73,19 +73,19 @@ Có phải một nhân viên bảo đảm là sẽ thi hành nghĩa vụ thấp 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Thứ tự GACC Số 270, Xuất ra các biện pháp quản trị CO (theo lực 2024-09-01) | Tổng quản trị tập quán Trung Quốc (PDF chính thức) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VEII | Phiên bản quy tắc, ba loại, số phát hành |
-| Xuất ra các đo lường quản trị CO (PDF chính thức thứ hai) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VEII | Không sử dụng đúng tiêu chuẩn, ba loại |
-| Tổng thống không ưu tiên và đang phát triển cơ thể | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VEII | Người phát hành, không có người làm việc bình thường |
-*Scope lưu ý: Trung Quốc chỉ phát hành bên cạnh; cụ thể FTA quy tắc và quyết định ưu tiên đích đến nằm ngoài phạm vi và một quốc gia. *
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| Điều luật của PRC về chứng chỉ Nguồn gốc (Ste Council Decree No. 416) | Hội đồng Liên bang của PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VEII | Cơ sở pháp lý của Trung Quốc cho phép phát hành các chứng chỉ ưu tiên và không ưu tiên nguồn gốc |
-| Hòa thuận về các quy tắc gốc rễ | Tổ chức thương mại thế giới (WTO) | IN'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VEII | Khung đa quy tắc |
-| Quy tắc của chủ đề | Tổ chức hải quan thế giới (WCO) | IN'L | http://www.wcoomd.org/ | 2026-09-05 | VEII | Phân loại và xác thực theo ý riêng |
-| Mạng khu vực tự do (Điều trị thuếFTA) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VEII | Kênh chứng nhận thích hợp hơn |
-| Chứng nhận gốc và chuyển nhượng mã | Hội đồng Trung Quốc về sự phát triển của thương mại quốc tế (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VEII | Chứng nhận không được phân loại CCPIT |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

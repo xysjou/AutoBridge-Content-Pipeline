@@ -76,15 +76,15 @@
 
 无红外线 中文市场版本在此证明;对RHD目的地分别确认.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 维基月球 | 中国 | T2 | 横跨 | https://db.auto.sohu.com/model_6881/config | 尺寸,  动力,  变速箱, 燃油标号 维基月球  |
-^ 2025 L → L → → → (4730/1910/1710,WB2785, + 650-1610L)( ^(XXX)). | 汽车之家 —— 车家号 —— 妇女 | 中国 | T3 | 资源 | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢 (单位:千美元)  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 维基月球 | 中国 | T3 | 资源 | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力, 变速箱 (单位:千美元)  |
-| Geely 新Boyue L 规格表(OEM) | Gely 自动全球 | | T1 | 实录 | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | 身份——OEM谱表;确认市场建设 |
-| Geely Starray Borchure(卡塔尔)——出口市场参考书 | 吉利·卡塔尔 | 出口 | T1 | 横跨 | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | 身份 - Starray 是导出名牌; QQL 中国博义 中国博义 中国博义 中国博义 中国博义 中国博义
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ | 中华人民共和国工业和信息化部 维基月球 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/datainfo/cpgg/ | 身份——验证同义的中国变体 |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## 编辑评论
 - ** 授权人**: AutoBridge出口编辑组 · [作者] (/作者/) · [编辑政策] (/编辑政策/)

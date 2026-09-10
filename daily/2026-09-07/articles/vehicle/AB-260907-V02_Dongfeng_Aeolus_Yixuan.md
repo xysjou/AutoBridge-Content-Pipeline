@@ -25,8 +25,8 @@ The CMP basis signals a torsion-beam/transverse-front-drive layout aimed at the 
 
 | Line | Chinese-market reference | Gearbox | Period / status | Confidence |
 |---|---|---|---|---|
-| 1.5L naturally aspirated (2025) | 92 kW (125 PS) / 158 N·m; WLTC combined ≈ 6.24 L/100 km | 6-speed wet dual-clutch | 2025 current main line | SINGLE_SOURCE — confirm by VIN/OEM |
-| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed wet dual-clutch | 2022/2023 older line, not the 2025 main line | SINGLE_SOURCE — historical line |
+| 1.5L naturally aspirated (2025) | 92 kW (125 PS) / 158 N·m; WLTC combined ≈ 6.24 L/100 km | 6-speed wet dual-clutch | 2025 current main line | single source — confirm by VIN/OEM |
+| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed wet dual-clutch | 2022/2023 older line, not the 2025 main line | single source — historical line |
 
 The performance gap between the two is large enough to change a buyer's decision, which is exactly why they must not be merged into one "Yixuan engine" figure. The Mach 1.5T should be labelled as the **earlier** powertrain; presenting it as the currently available sedan would misrepresent the line-up. Both outputs currently rest on single independent sources and should be closed against the Aeolus official configuration page or the exact MIIT homologation entry before contracting. Fuel consumption is quoted on the **WLTC** cycle and must not be compared against NEDC or CLTC figures from other cars.
 
@@ -71,12 +71,12 @@ No factory RHD is established by the Chinese-market sources here; RHD and export
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

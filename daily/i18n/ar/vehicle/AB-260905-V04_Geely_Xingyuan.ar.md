@@ -22,7 +22,7 @@
 - ** باتيري**: 磷酸铁锂؛ خط القدرة المأخوذ به هو 40.16 kWh للسيارة البعيدة المدى. ولا يظهر مورد خلايا محدد إلا في حسابات وهو ** ليس مؤكّداً من منظمة أوم إي إم**، ولذلك فهو معلق.
 - ** رانج**: 310 410 km CLTC (cross-checked) — a Chinese test cycle, ليس دبليو إل بي.
 - ** كارغو**: 375（前备厢70，后排放倒1320） L; منصة (A GEA 纯电架构)
-- ** لا يُستَولى على السلطة التي تفرضها شركة باك بشكل موثوق، ولا يُذكر. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+- ** لا يُستَولى على السلطة التي تفرضها شركة باك بشكل موثوق، ولا يُذكر. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 ## جدول مواصفات مصدق عليه (مراجع السوق الصينية)
 | المواصفات | القيمة | الوحدة | السوق | الثقة | مذكرة المصدر |
@@ -43,8 +43,8 @@
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. : اختيار السيارات المطابقة للبطارية وحجم حركة النقل البري؛ الحصول على خط بناء شبكة المعلومات فيتنام.
-2. Translate CLTC 310/410 km to the destination cycle.
-3. Confirm charge connector/protocol and AC/DC capability (peak DC not captured here).
+2. حوّل مدى CLTC 310/410 km إلى دورة الاختبار في الوجهة.
+3. تأكد من موصل/بروتوكول الشحن وقدرة التيار المتردد/المستمر (لا تتوفر هنا ذروة التيار المستمر).
 4. تأكيد أشعة السينيين، ووثائق البطاريات وUN38.3/IMDG من أوراق الشحن مع المرسل
 5. طلب اقتباس التصدير الحالي؛ لا يُنشر أي سعر تصدير.
 
@@ -55,15 +55,15 @@
 ** هل هو 410 km دبليو إل بي أي**؟ لا - لجنة مكافحة الإرهاب.
 ** كيف تشحن؟** كبطارية لبطارية الليثيوم - الأيون غير الصحيحة تحت فئة IMDG الحالية (UN3556)؛ تأكد مع الناقل.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| | 吉 | | CN | | | CN CN CN T2 第ات | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 尺寸, 尺寸, 电国电电电电电电电 航电电电电续第,号建议, |,,,,,,,,,,,,,,,,。
-| 吉 吉 吉 吉 | | | CN | T2 | | صرخ صرخ صرخ صرخ صرخ http://db.auto.sohu.com/model_7477/config ,, 轴距, 轴距, |, |.
-| | | |报报报 |新 | | CN |3 | | | | صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ صرخ http://news.q.com/rain/a/20260329A04ZLQ00 | 航 架к ,, |.
-| الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

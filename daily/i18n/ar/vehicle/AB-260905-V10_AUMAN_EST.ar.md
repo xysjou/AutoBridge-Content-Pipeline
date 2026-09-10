@@ -1,4 +1,4 @@
-فوتون دايملر (الصين - في/سادس) - شركة تراك تراك تراك تراك تراك تراك وتحقق من الصادرات
+فوتون دايملر (الصين - في/سادس) - شركة تراك وتحقق من الصادرات
 
 ## بيانات SEO الوصفية
 - **عنوان SEO**: Foton Daimler AUMAN EST Tractor: Chinese-Market Specs " Export Guide
@@ -26,7 +26,7 @@ The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head.
 ## جدول مواصفات مصدق عليه (مراجع السوق الصينية)
 | المواصفات | القيمة | الوحدة | السوق | الثقة | مذكرة المصدر |
 |---|---|---|---|---|---|
-| est510 guowu | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA | - | CHINA | SINGLE OURCE | 抖音百科(T4)+汽车之家 |
+| est510 guowu | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA | - | CHINA | SINGLE OURCE | 抖音百科(directory/listing)+汽车之家 |
 | Guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
 | خيارات المعدات | ZF 12TX2621TD（AMT）/ 法士特16挡 | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
 | جرار من نوع جروس | 牵引总质量约40t级（6x4主流） | لا | CHINA | SINGLE OURCE | 汽车之家 + 百科 |
@@ -49,17 +49,17 @@ The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head.
 ** أي صندوق تروس؟ ** ZF 12TX AMT أو Fast 16-speed، عن طريق البناء
 ** X13 ناتج؟** 12.9 L، 412 kW/560 hp، 2600 N·m على خط الصين السادس.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力، AMT |
-| | | | | 之《家《车《车《家 | | CN | T3 | | صرخ صرخ صرخ صرخ صرخ > < https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF |. |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | |（潍柴）（法士特配置）
-| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | صرخات | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | |（国五参数线索）（公告型号）
-| 欧曼纯电 /LNG 牵引车申报 | 新浪财经 | CN | T3 | صرخات | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线، 勿混入燃油) |
-| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 欧曼EST 车型文章 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12动力, AMT |
+| 欧曼EST-A 配置 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF变速 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
+| 欧曼EST 510 词条（线索） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼纯电/LNG牵引车申报 | 新浪财经 | CN | media/industry | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026纯电申报（独立新能源线，勿混入燃油） |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

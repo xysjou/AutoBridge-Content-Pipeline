@@ -108,7 +108,7 @@ No authoritative price was captured for 2026-09-02 and none is estimated. Reques
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are SINGLE_SOURCE. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

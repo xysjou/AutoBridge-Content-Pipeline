@@ -42,20 +42,20 @@
 ~ ฉันควรยอมรับ O/A สําหรับผู้ซื้อคนแรกไหม~ โดย ทั่ว ไป ไม่ มี ประกัน ภัย, ความ มั่นคง, หรือ ความ สัมพันธ์ ที่ ตั้ง มั่นคง.
 ** UCP600 ยกเลิกสัญญาของฉันหรือไม่* ไม่ — UCP600 ควบคุม การ ให้ เกียรติ เมื่อ รวม เข้า ด้วย; สัญญา ขาย และ อิน โค เลต ยัง คง วาง แผน ทํา การ ขาย.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-○ ○: 信用证法律逻辑与风险防线 (二) พ. ศ. .. | 东莞市人民政府 (转国际经贸业务). | CN | T1 | เปิดใช้งาน | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销 (พ.ศ. 信用证分类与风险 |
-| 信用证核心特点 信用证核心特点 信用证核心特点 信用证核心特点 信用证核心特点 信用证核心特点 信用证核心特点 信用证核心特点 (UCP600) (พ.ศ. | 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 (พ 东莞市贸促会 พ พ พ พ พ พ พ พ พ พ พ พ พ พ 东莞市贸促会 (พ 东莞市贸促会 东莞市贸促会 (พ 东莞市贸促会 东莞市贸促会 พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 东莞市贸促会 | CN | T1 | เปิดใช้งาน | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务 (教材 流程佐证 流程佐证 流程佐证 流程佐证 流程佐证 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ พ ศ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 国际贸易单证业务 国际贸易单证业务 国际贸易单证业务 国际贸易单证业务 国际贸易单证业务 国际贸易单证业务 国际贸易单证业务 | 清华大学出版社 | CN | T3 | ROOS_ CHCKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| ราชอาณาจักรพาณิชย์สากล (ICC) | ห้อง พาณิชย์ นานา ชาติ | CN | T1 | เปิดใช้งาน | https://iccwbo.org/ | ผู้จัดพิมพ์ UCP600 และกฏอินโคเลต; กรอบการค้า-การเงินแบบราชการ (PDF) |
-| จีนส่งออกและประกันหนี้ (SNOSPE) — ประกันเครดิตแบบระยะสั้น | จีนส่งออก & ทรัพย์สินประกันบริษัท (SNOSESTE 中国信保) | INT/ CN | T1/T2 | เปิดใช้งาน | https://www.sinosure.com.cn/ | อัตราการเปิด- account (O/A) และการรวมข้อมูลสารคดี (D/ P) ความเสี่ยงที่ไม่สามารถเรียกกลับมาได้; การส่งออก โดเมนการประกันเครดิตสําหรับตัวเลือกการชําระหนี้ |
-| รัฐสภาจีนเพื่อการส่งเสริมการค้าระหว่างประเทศ (CPAT) | คณะกรรมการประเทศจีนเพื่อการส่งเสริมการค้าระหว่างประเทศ (CCPEST 中国贸促会). | CN | T1/T2 | เปิดใช้งาน | https://www.ccpit.org/ | หน่วยงานการค้าแห่งชาติ: L/C และ การค้า-Document ไกด์และรับรอง; แตกต่างจากการสืบพันธุ์ของรัฐบาลท้องถิ่น |
-| ICC การ แก้ ปัญหา ด้าน การ เงิน (UCP 600 URR 522 UNDG เจ้าของ กฎ) | ห้อง พาณิชย์ นานา ชาติ | INT | T1/T2 | เปิดใช้งาน | https://iccwbo.org/business-solutions/trade-finance/ | ICC เป็นตัวตั้งกฏสําหรับ L/C (UCP 600), คอลเลกชัน (URC 522) และรับประกัน (URGG); ห9696969696ล เ | | | |
+| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | primary | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
+| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | primary | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | primary/independent | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ตลาดแห่งความไม่สงบ: 通用 (国际结算框架, 非单一国家法规) ~
+- ~ตลาดแห่งความไม่สงบ: General (international-settlement framework, not a single-country rule) ~
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 

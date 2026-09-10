@@ -74,20 +74,20 @@ GB/T 21085-2020 (推奨、現在; 見直し 2026-01-27)
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020工場証明書(現) | SAMR がオープン | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB のリリース | 2026-09-04 | 検証済み(プライマリ) | 現在の標準/状態/日付 |
-| SAMRプラットフォーム・GB/T 21085-2020 詳細 | サーム | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 の | 2026-09-04 | 検証済み(プライマリ) | 発行/有効/プレビューの日付 |
-| 必須規格プラン 20260041-Q-339(開発中) | サーム | CN の | 以下は、 https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 の | 2026-09-04 | TIME_SENSITIVE(プライマリ) | |
-| SAMR通知は、24の必須標準プランを割り当てます | | CN の | 以下は、 https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf のファイル | 2026-09-04 | 検証済み(プライマリ) | プランの割り当て |
-| MIIT GB21085 —XXXX 相談草案(非現) | ツイート | CN の | 以下は、 https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf のファイル | 2026-09-04 | DRAFT(プライマリー) | ドラフトのみのマルチステージテキスト(現在のワーディングからブロック) |
-| 車両登録作業ルール(輸出販売ファイル) | 西大門市政府のゴブ | CN の | 以下は、 https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | 検証済み(プライマリ) | 検査証明書+ライセンスコピー |
-| 全車両エクスポートファイルリスト | ネットエイズ | CN の | 以下は、 https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED(クロス) | ハンドオーバーセット、NEV/トランスレーション推奨 |
-※ 出入口:多段式発行ルールと必須の交換は、DRAFT/FUTUREで、現在の要求事項から除外されます。NEV/translation項目は編集推奨事項です。 ふりがな
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国車文書(目的地のCoCの受諾は除外されます)
 - **検証方法**:SAMRで固定される現在のGB/T21085-2020;明示的に保証される草案/future標準

@@ -12,7 +12,7 @@
 - **نص ALT**: مشهد ثلاث أرباع لشاحنة خفيفة من طراز Qingling Isuzu KV100 سيارة أجرة على أرض محايدة
 - **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 
-إن شاحنة كينغلينغ إيسوزو KV100 شاحنة خفيفة (وجه نكهة) بُنيت من قبل شركة تشينغينغينغ موتورز في الصين من أجل فئة الـ N2 المحلية من طراز " بلوايت " - مركبات يبلغ إجماليها 4.5 t مركبة يمكن أن تدفع تحت ترخيص عادي للعجلات الخفيفة في الصين. بالنسبة لمشتري التصدير، فإن الضوابط الرئيسية هي ضوابط تنظيمية ونموذجية: تحديد محركات الاختناق بدقة وخطها China- 6 emission stage, keep the KV100 separate from adjacent Qingling/Isuzu lines such as the newer 100P, and do not treat used-truck classified payload figures as factory data. وهذه الصفحة هي مرجع تجاري مسموع**، ولا تعادل مبلغ KV100 بنائه مع النطاق العالمي لشبكة إيسوزو N/ELF دون بيان نموذجي من نوع المنظمة.
+إن شاحنة كينغلينغ إيسوزو KV100 شاحنة خفيفة (وجه نكهة) بُنيت من قبل شركة تشينغ موتورز في الصين من أجل فئة الـ N2 المحلية من طراز " بلوايت " - مركبات يبلغ إجماليها 4.5 t مركبة يمكن أن تدفع تحت ترخيص عادي للعجلات الخفيفة في الصين. بالنسبة لمشتري التصدير، فإن الضوابط الرئيسية هي ضوابط تنظيمية ونموذجية: تحديد محركات الاختناق بدقة وخطها China- 6 emission stage, keep the KV100 separate from adjacent Qingling/Isuzu lines such as the newer 100P, and do not treat used-truck classified payload figures as factory data. وهذه الصفحة هي مرجع تجاري مسموع**، ولا تعادل مبلغ KV100 بنائه مع النطاق العالمي لشبكة إيسوزو N/ELF دون بيان نموذجي من نوع المنظمة.
 
 ## الهوية والجسد من الدرجة الثانية
 
@@ -25,15 +25,15 @@
 
 | البند | المراجع المتعلقة بالسوق الصينية | الثقة |
 |---|---|---|
-| المهندس | ** 4KH1CN6LB ** 3.0-litre ديزل، الصين - 6 (الوطني السادس) | SINGLE_SOURCE |
-| الناتج | 120 PS / 290 N·m | SINGLE_SOURCE — SOURCE - confirm by VIN/OEM|
-| Gearbox | MSB 5-speed كتيب (5MT) | SINGLE_SOURCE |
+| المهندس | ** 4KH1CN6LB ** 3.0-litre ديزل، الصين - 6 (الوطني السادس) | single source |
+| الناتج | 120 PS / 290 N·m | single source — SOURCE - confirm by VIN/OEM|
+| Gearbox | MSB 5-speed كتيب (5MT) | single source |
 
 وتوجد أسرة الـ 4KH1 في أكثر من مخرج واحد مع نواتج مختلفة، ويشير تقرير مستقل ثان إلى تصنيف مختلف قدره 4KH1 كيلوغرام. وهذا هو السبب بالضبط في أن رمز المحرك الكامل - ** 4KH1CN6LB **، وليس مجرد "4KH1" - يجب أن يكتب حسب الطلب ومطابقاً مع دخول محرك ميت. ويعادل الديزل الصيني - 6 لوقود صيني والمرحلة الوطنية السادسة؛ ويجب فحص درجة وقود المقصد والاعتراف بالانبعاثات بصورة منفصلة بدلا من افتراضها.
 
 ## حمولة وكتلة الكيرب: ليست البيانات المصنفة بيانات مصنع
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. وهذه الأرقام غير مسبوقة**، وهي مواصفات: وهي تختلف مع الجسم المجهز، وتُبلغ عنها البائعون ذاتيا ولا يمكن استخدامها في حجم حمولة. وتأتي الحمولة التي تحمل علامات السلطان، والكتلة الكريبية، والشبكة العالمية لرصد المحيطات من شهادة تطويق الشظايا التي تُعدّل بالأشعة السينية**. الحصول على تلك قبل الالتزام بدورة عمل الحمولة.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. وهذه الأرقام غير مسبوقة**، وهي مواصفات: وهي تختلف مع الجسم المجهز، وتُبلغ عنها البائعون ذاتيا ولا يمكن استخدامها في حجم حمولة. وتأتي الحمولة التي تحمل علامات السلطان، والكتلة الكريبية، والشبكة العالمية لرصد المحيطات من شهادة تطويق الشظايا التي تُعدّل بالأشعة السينية**. الحصول على تلك قبل الالتزام بدورة عمل الحمولة.
 
 ## خطوط الادجسن والحدود العالمية لجماعة إيسوزو
 
@@ -62,11 +62,11 @@ The referenced Chinese-market KV100 is **Ileft-hand drive**. وتحتاج أهل
 
 وهي شاحنة خفيفة من طراز كابو يزيد عددها على N2 شاحنة ذات مضخة زرقاء تحمل مركب GVW عند أو أقل من 4.5 t، وهي مجهزة عادة بجسد شحن يبلغ حوالي 4.2–4.3 متر.
 
-** ما هو المحرك الذي يستخدمه؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما هو المحرك الذي يستخدمه؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 The referenced line uses the 4KH1CN6LB 3.0-litre China-6 diesel quoted at 120 PS/290 N·m with an MSB 5MT; اثبتي الاختناق الكامل لأن هناك 4KH1 تقييم آخر
 
-** ما هو حمولة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما هو حمولة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 ولا يرد هنا أي حمولة ثابتة - تتفاوت العينات المصنفة ولا تختلف عن بيانات المصنع؛ وتُقيَّم حمولة حمولة ومركبات ثلاثية الفول من شهادة التفريغ الدقيق.
 
@@ -74,25 +74,25 @@ The referenced line uses the 4KH1CN6LB 3.0-litre China-6 diesel quoted at 120 PS
 
 ليس على هذه الأدلة: فهي من صنع القلنسوة للصين وتُعامل كنموذج ذي صلة إلى أن يُدلى مكتب تنظيم الزراعة على نفس النموذج.
 
-هل الشاحنه الجديده هي 100P ؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+هل الشاحنه الجديده هي 100P ؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
-No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+لا — طراز 100P (4KB1) خط إنتاج منفصل ويجب عدم دمج أرقامه في مواصفات KV100.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-08
-- ** سوق الإحالة**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- ** سوق الإحالة**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد نواتج المحركات ذات المصدر الواحد وجميع أرقام الحمولة/المركبات العضوية الثابتة على صفحة OEM أو دخول محركات المركبات المتعددة الأطراف، كما أن الوضع نفسه مع إيسوزو العالمي يتطلب بياناً صريحاً من منظمة أوم قبل التحول.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.

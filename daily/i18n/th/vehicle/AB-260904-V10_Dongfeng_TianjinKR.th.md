@@ -80,25 +80,25 @@ Dongfang Cummins B6.2NS6B245 ที่ 180 kW (245 PS)/ 1000 N·m ผ่าน�
 -~PT~: เร เปร รียน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ สกา ซา อา — ดอง เฟ็ง เทง จิ เค อาร์, วี ค รอย ลู อา โร (เม อร์ คา โด เทน เอส์) คา มิ น โฮร์ รี รี กา รา โด
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
-- ~วูฟ~: Tai liphu thamkhoo Auto Bridge jo ng i i i i i i a a a a a a a h h h h h h h h h h h ố ố ố ố ố ố ) ) ) ) ) ả ả ả ả ả ả ả ả ả ạ ạ ạ ạ ạ ạ ạ ạ ạ h h h h h ơ ơ ơ ơ ơ ơ ơ ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong ong 
+- ~วูฟ~: Tai liphu thamkhoo Auto Bridge jo ng i a h ố ố ố ố ố ố ) ) ) ) ) ả ả ả ả ả ả ả ả ả ạ ạ ạ ạ ạ ạ ạ ạ ạ h h h h h ơ ơ ơ ơ ơ ơ ơ ong 
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
 - ~-~~: Referenti AutoBridge imbei epbei seport — Dongfang Tianijin KR, Kendaraan mesin pembakran (Passar Tiongkk) Bruk Bartingingin (อังกฤษ: pa)
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Tianjin KR 6.8m รีฟเซอร์ B6.2 | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ROOS_ CHCKED | B6.2 245PS, สปีด 8-speed ดาน่า แอคเซิล |
-| Nine 6.8m cargo trucks: ปรับแต่ง KR | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | ROOS_ CHCKED | 6.8m, กงล้อ, อัตราส่วนแกน |
-| Tianjin KR 6.8m กล่องล้อและสินค้า | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | ROOS_ CHCKED | 5000 WB, ความกว้างภายใน, GVW |
-| DFH5180XLCG4 เครื่องฉายภาพ ไมโครซอฟต์ รุ่น MIT 410 | เงิน ตรา สินา (อ้างอิง) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | ROOS_ CHCKED | รหัสการกรอกข้อมูลใหม่ ตัวจํากัดความเร็ว |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○ ○
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
+| Tianjin KR 6.8m reefer B6.2 powertrain/gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | CROSS_CHECKED | B6.2 245PS, Fast 8-speed, Dana axle |
+| Nine 6.8m cargo trucks: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | CROSS_CHECKED | 6.8m, wheelbase, axle ratio |
+| Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_CHECKED | 5000 WB, internal width, GVW |
+| DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_CHECKED | New filing code, speed limiter |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* ข้อสังเกตแบบคอซิเฟอเรนซ์: รหัสต้นแบบที่ยึดยึดยึดอยู่กับ MIIT- 410 รายงาน; หน่วยปะการัง/โซน/ข้อมูล ที่จงใจทิ้งไว้ให้กับผู้สร้างร่างกาย (ไม่มีรหัส; KR) บวกกับการกีดกัน อ้างอิงตลาดจีน sertieveted *
+*Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

@@ -25,7 +25,7 @@ Uma estrutura 5.28-metre numa distância entre eixos 3.2-metre é a proposta de 
 
 | Item | Referência do mercado chinês | Notas | Confiança |
 |---|---|---|---|
-| 2.0T gasolina | 172 kW (234 PS) / 360 N·m, 8-speed automático (8AT), FWD | Linha de referência 2025 | SINGLE_SOURCE — confirmar por VIN/OEM|
+| 2.0T gasolina | 172 kW (234 PS) / 360 N·m, 8-speed automático (8AT), FWD | Linha de referência 2025 | single source — confirmar por VIN/OEM|
 
 Esta página abrange deliberadamente a gasolina **ICE** G90. Qualquer derivado híbrido, plug-in ou puro-elétrico é um grupo de potência diferente e não está descrito aqui; um exportador não deve fundir números de linha eletrificada com as especificações da gasolina. A saída 172 kW/360 N·m atualmente repousa em uma única fonte independente e deve ser fechada contra a folha de configuração oficial MAXUS ou a entrada de homologação MIIT exata antes de um depósito ser pago.
 
@@ -60,7 +60,7 @@ O preço de orientação chinês é apenas uma referência nacional sensível ao
 2. Confirm the 2.0T 8AT output  and  tracção dianteira contra a chapa OEM/MIIT.
 3. Confirmar que nenhuma variante eletrificada foi substituída na citação.
 4. Verificar as regras de destino de um veículo de sete lugares com 5280-mm  and  A categoria de licença exigida.
-5. Obtain separate OEM evidence for any RHD or export-market G90.
+5. Obter evidência OEM separada para qualquer G90 com direção à direita ou para mercado de exportação.
 6. VIN reconciente em todo o contrato, fatura, B/L e CoC antes do saldo ser pago.
 
 ## Perguntas Frequentes
@@ -84,16 +84,16 @@ A linha de mercado chinês referenciada é a tração dianteira.
 
 O carro chinês é LHD; RHD / exportação constrói exigem evidência OEM separada e não deve ser assumido idêntico em poder, assentos ou equipamentos.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)

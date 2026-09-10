@@ -39,7 +39,7 @@
 5. ** التحقق من صحة القواعد العمرية عند الطلب ومرة أخرى قبل الشحن**، وهي قواعد مراعية للوقت؛ ويمكن أن تتغير قاعدة صالحة عند اقتباس الأسعار قبل الإبحار.
 ## ما يوصي به هذا الدليل قبل الدفع
 - : معاملة أرقام كينيا ونيجيريا على أنها أرقام أولية ولكن لا تزال تؤكد من جديد صنف المركبات وتاريخ الإشارة** كتابة؛ تعامل كل خلية مصفوفة أخرى كقيمة فرز**، على أن يستعاض عنها برقم تحقق منه رسميا.
-- Do not reuse the old forwarder 7-year (Kenya) or 12-year (Nigeria) figures — they are superseded by the primary instruments cited here.
+- لا تعتمد أرقام السنوات القديمة للوكلاء (7 سنوات لكينيا أو 12 لنيجيريا) — فقد حلّت محلها المصادر الأولية المذكورة هنا.
 - تأكيد ** الجانب التوجيهي، برنامج التفتيش وسلسلة الوثائق** إلى جانب العمر؛ حيث تكون صياغة البوابة الرسمية غامضة (مقود نيجيريا)، تحصل على الإجابة الجمركية الخطية.
 - - الحصول على تاريخ الإصدار وتاريخ التسجيل الأول** من أوراق التسجيل الخاصة بالشخصية أثناء عملية التفتيش الموقعي، لذا فإن السن يحسب على أساس صحيح.
 ## الأسئلة المتكررة
@@ -74,20 +74,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — African used-car import age limits, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜African used-car import age limits, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| إجراءات استيراد المركبات الآلية (الملاحظة القانونية 78/2005؛ KS 1515 طريق المطابقة بين الواردات) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | مفقود | الأساس القانوني لمطابقة الواردات في كينيا (78/2005 ليرة لبنانية، KS1515) وإجراءات الاستيراد |
-? What queces toном (fors, and red) ) KE) https://www.kra.go.ke/news-center/blog/1075- ما الذي تحتاجه لتعرفه عندما تُبلغ عن المُحرك 2026-09-05 | | | | |WIRSTED |ATIONS |ATIONED |ATIONED |ATIONED |IES ONED |
-: DKS 1515: 2025 مركبات الطرق - تفتيش المركبات البرية - مدونة قواعد الممارسة | مكتب المعايير في كينيا | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | مفقود | § 4.7.1 مركبة ركاب > 8 سنة من التسجيل الأول المحظور؛ والفجوة بين التصنيع والمجموعة ’1 سنة؛ § 4.7.2 استثناءات خاصة من المركبات |
-| إشعار لمستوردي مركبات محركات | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | صرخات | KEBS used-vehicle import notice and inspection route |
-| ; ; ; SRS 8702-8705; على سبيل المثال، تم تحديد 15 سنة؛ و 000 1 سنة؛ و 000 1 سنة؛ و 000 5 سنة؛ و 000 1 سنة في مرحلة ما بعد: NG. https://tip.nsw.gov.ng/procedures/automobiles . 2026-09-05 . . 15-year-from-manufacture, and.s. ؟
-حظر الاستيراد الجمركي استنساخ القائمة - المركبات الآلية المستخدمة التي تزيد على 15 عاما من تصنيعها | من أجل استخدامها في صنعها. (مصدر برمجيات) | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | | | |  القائم مرافقة على مدى 15 عاما (مماثلج). ?
-| القيم المبلغ عنها في مجال المتعدد البلدان (إثيوبيا/السودان/موزامبيق وما إلى ذلك) | المواد المستعجلة | أفريقيا | https://m.11467.com/product/d39248249.htm | 2026-09-03 | SINGLE OURCE | القيم غير الأولية المبلغ عنها للبلدان التي أُلقيت عليها |
-| غانا/تانزانيا/موزامبيق | المواد المستعجلة | أفريقيا | https://m.11467.com/product/d53540859.htm | 2026-09-03 | SINGLE OURCE | غانا OBD-II/Euro- 3 وموزامبيق أبلغت عن قيم (غير رسمية) |
-| and bans | speakers orition | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | SINGLE OURCE  السودانtranslate  أبلغ sobre 7/8/10. )العمل(
-| | |  المواد https://m.11467.com/product/d55528521.htm ; 2026-09-03 ; SINGLE OURCE ; no fixed cap; ك. + سجلات (غير رسمية) |
-* Evidence tiers: Kenya (KEBS + KRA) and Nigeria age rule (Single Window + Customs reproductive) are primary-anchored. ولا تزال الصيغة التوجيهية النيجيرية وكل صف قطري آخر غير رسمية، ويجب التحقق منها رسميا بالنسبة لفئة المركبات بالضبط قبل الشحن؛ ولا يجري تعميم إقليمي. ♪
+| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFIED | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
+| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Plain-language guidance on Kenya age basis and standards |
+| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFIED | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
+| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS used-vehicle import notice and inspection route |
+| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFIED | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
+| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | single source | Non-primary reported values for countries left flagged |
+| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | single source | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
+| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | single source | Sudan reported 7/8/10 tiered rule (non-primary) |
+| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | single source | No fixed cap; CoC + records (non-primary) |
+*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Nigeria steering wording and every other country row remain non-primary and must be officially verified for the exact vehicle class before shipment; no regional generalisation is made.*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

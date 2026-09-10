@@ -69,15 +69,15 @@ Les commandes UNI-Z sont faciles à mal préciser car le même badge couvre diff
 **L'échelle 130 km est-elle WLTP?** Non, c'est CLTC.
 **Où est le prix à l'exportation?** Demander une soumission actuelle; cette page ne publie aucune.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | NC | T3 | _CHECTURE | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | NC | T3 | _CHECTURE | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 UNI-Z 参数 | 搜狐汽车 | NC | T2 | _CHECTURE | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| Changan Site officiel de l'automobile mondiale | Changan Automobile 长安汽车 (OEM) | NC | T1 | VÉRIFIER | https://www.globalchangan.com/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

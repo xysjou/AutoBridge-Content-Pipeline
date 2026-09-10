@@ -22,7 +22,7 @@ Pertama kali, pembeli kendaraan Cina sering kali menabrak mode kegagalan yang sa
 Dua dokumen resmi Cina mendefinisikan tulang punggung kualifikasi (kedua sumber pemerintah utama):
 
 - Sebagai pemberitahuan dari lima menteri untuk mengatur lebih lanjut mengenai ekspor urutan mobil dan sepeda motor * (MOFCOM et al.), sebuah produsen menyatakan kendaraan untuk ekspor harus terdaftar dalam ** MIIT "Kendaraan dan Pengumuman Produk" (车辆生产企业及产品公告) ** dan tahan valid *** Sertifikasi wajib CCC **.
-- Per * MOFCOM et al. 2024 Pengumuman No 6 ** di perusahaan ekspor mobil, eksportir mobil harus digunakan sebagai sebuah lokal yang terdaftar dalam rapat orang hukum menyatakan kondisi (produsen harus berada di pengumuman MIIT; pedagang harus memenuhi kriteria yang diterbitkan).
+- Sesuai *Pengumuman No. 6 Tahun 2024 dari MOFCOM dkk.* tentang perusahaan ekspor mobil, eksportir mobil harus merupakan badan hukum domestik terdaftar yang memenuhi syarat (produsen harus tercantum dalam pengumuman MIIT; pedagang harus memenuhi kriteria yang diterbitkan).
 
 Implikasi bagi pembeli: tanyakan * entitas yang mana yang legal adalah ekspor catatan dan konfirmasi itu terletak di ** experict-year export- tahun daftar kualifikasi yang diterbitkan oleh MOFCOM ** (daftar ini diperbarui secara dinamis - gunakan versi tahun ini; pemandu ini tidak menyebutkan nama perusahaan). Sebuah perusahaan yang tidak bisa menempatkan dirinya pada rantai itu adalah sinyal berhenti.
 
@@ -117,19 +117,19 @@ Pemindaian lisensi membuktikan perusahaan itu ada, bukan berarti itu bisa mengek
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## Sumber & Verifikasi
+## Sources & Verification
 
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Perhatikan pada urutan ekspor lebih lanjut dari otomatisasi sepeda motor | MOFCOM et al. (Lima kementerian, resmi T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | TERBATAI | Pengumuman MIIT + CCC ekspor dasar kualifikasi |
-| 2024 Pengumuman No. 6 (kondisi ekspor mobil) | MOFCOM (resmi T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | TERBATAI | Used-car exporter kondisi legall-entity qualification |
-| Bagaimana memeriksa pemasok Cina keaslian lisensi | Goodcan Trading (industri, poin untuk gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | _ BERDECAT | ruas verifikasi gsxt |
-| Bagaimana memverifikasi pabrik Cina adalah sah | Logistik Global Plutonia | CN Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | _ BERDECAT | Konsistensi nama akunting, audit pabrik |
-| Pemandu 8-step untuk memverifikasi pemasok ekspor otomatis Cina | huajiame (industrial) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | _ BERDECAT | Kerangka audit berlapis, AEO |
-| Catatan penguapan ekspor kendaraan | (顺企网, industri) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | _ BERDECAT | Minimal video-audit, pemeriksaan deklarasi | 11467
-| Prosedur ekspor truk domestik | Guangzhou Pujiang Trade | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | _ BERDECAT | Ekspor melalui entitas yang berkualitas, rantai otorisasi | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-* Catatan kepercayaan (standar AutoBridge): aturan kualifikasi tersisa pada MOFCOM / MIIT utama sumber (VERIFIED), sekarang termasuk 2026 pemberitahuan aplikasi (商办贸函 = 2025 408 号) dan gabungan Pengumuman No. 54 pada pure-EV ekspor penumpang lisensi. Daftar berkualifikasi tahun-tahun dan kueri AEO dinamis dan harus diperiksa secara langsung; item checklist operasional diimplementasikan ke sumber dan arahkan kembali ke sistem resmi. ♪
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

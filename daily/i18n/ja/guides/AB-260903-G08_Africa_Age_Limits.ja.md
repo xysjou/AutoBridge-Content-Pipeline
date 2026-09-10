@@ -74,20 +74,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — African used-car import age limits, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜African used-car import age limits, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 車両輸入の手順(法律通知78/2005、KS 1515の輸入適合ルート) | ケニアの収入局(KRA) | ケケ | 以下は、 https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle の使い方 | 2026-09-05 | 検証済み | ケニアの輸入適合法に基づく(LN 78/2005、KS1515)および輸入手続き |
-| モータ車両(指導、年齢ベース、基準)をインポートする際に知っておく必要があること | クララ | ケケ | 以下は、 https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle のサイト | 2026-09-05 | CROSS_CHECKED(クロス) | ケニアの年齢基準と基準に関する平等言語の指導 |
-| DKS 1515: 2025 道路車両 — 道路車両の検査 — 練習コード | ケニア規格局(KEBS) | ケケ | 以下は、 https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | 検証済み | §4.7.1乗用車> 最初に登録されたbarredからの8年;製造に調整されたギャップ≤ 1年;§4.7.2の特別な車例外 |
-| 中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・中古車・ | ケブス | ケケ | 以下は、 https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf の投稿 | 2026-09-05 | CROSS_CHECKED(クロス) | KEBS中古車輸入通知・検査ルート |
-| 自動車輸入手順(HS 8702–8705;15年以上の車両禁止;NAC levy;再確認のためのステアリング言葉) | ナイジェリアシングルウィンドウトレードポータル | 日 時 分 | 以下は、 https://tip.nsw.gov.ng/procedures/automobiles ディレクティブ | 2026-09-05 | 検証済み | ナイジェリア 15-year-from-manufacture 禁止; NAC 関連する; HS スコープ |
-| 習慣の輸入の禁止 リストの再生 — 中古車 15 年以上 製造 | Lex Artifex LLP (ナイジェリア税関リストの再現) | 日 時 分 | 以下は、 https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED(クロス) | 15-year製造基準禁止(二次再生)を廃止 |
-| 多国年齢/採取報告値(エチオピア/スーダン/モザンビークなど) | 貨物用材料 | 日 時 分 | 以下は、 | 2026-09-03 | シングル_ソース | 国の残国が残されたフラグが残っている非プライマリレポートされた値 | https://m.11467.com/product/d39248249.htm
-| ガーナ/タングナ/モザンビークはしきい値を報告しました | 貨物用材料 | 日 時 分 | 以下は、 | 2026-09-03 | シングル_ソース | ガーナOBD-II/Euro- 3およびMozambiqueは価値(非プライマリ)を報告しました | https://m.11467.com/product/d53540859.htm
-| スーダンは年齢制限と料金を層化しました | オートホームコントリビューター | スーダン | 以下は、 https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | シングル_ソース | Sudanは7/8/10の階層ルール(非暫定)を報告しました |
-| コート・ド・イボワール輸入(ハードキャップなし/必須CoC) | 貨物用材料 | コート・ド・イボワール | 以下は、 | 2026-09-03 | シングル_ソース | 固定キャップなし、CoC +レコード(非プライマリ) | https://m.11467.com/product/d55528521.htm
-※証拠層:ケニア(KEBS+KRA)とナイジェリア年齢規則(シングルウィンドウ+税関)は、一次選択です。 ナイジェリアステアリングのワーディングと他の国列は非プライマリを維持し、出荷前に正確な車両クラスのために正式に検証する必要があります。 地域的な一般化は行われません。 ふりがな
+| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFIED | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
+| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Plain-language guidance on Kenya age basis and standards |
+| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFIED | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
+| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS used-vehicle import notice and inspection route |
+| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFIED | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
+| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | single source | Non-primary reported values for countries left flagged |
+| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | single source | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
+| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | single source | Sudan reported 7/8/10 tiered rule (non-primary) |
+| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | single source | No fixed cap; CoC + records (non-primary) |
+*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Nigeria steering wording and every other country row remain non-primary and must be officially verified for the exact vehicle class before shipment; no regional generalisation is made.*
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05

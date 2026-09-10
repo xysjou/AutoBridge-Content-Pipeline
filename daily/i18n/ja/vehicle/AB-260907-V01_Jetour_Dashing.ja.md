@@ -26,9 +26,9 @@
 
 | パワートレイン | 中国の市場参照 | ギアボックス | 年式 年式 | 自信の秘境 |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed ウェット デュアル クラッチ | 2024 | SINGLE_SOURCE — によって確認します。 VIN/OEM|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed ウェット デュアル クラッチ | 2024 | single source — によって確認します。 VIN/OEM|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed ウェット デュアル クラッチ | 越境年線 | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed ウェット デュアル クラッチ | 2025 | SINGLE_SOURCE — によって確認します。 VIN/OEM|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed ウェット デュアル クラッチ | 2025 | single source — によって確認します。 VIN/OEM|
 
 命名台は本物です。 2024 ** 1.5T ** と 2025 ** 1.5TD ** 異なる出力と異なる伝送(6DCT 対 7DCT)の異なる校正は、同様のバッジにもかかわらず、. The **1.6T** is the strongest of the three and the one best supported by two independent sources. 「1.5 Dashing」という名前の注文は、両方の車に解決できます。 従って完全なエンジンの指定を書きます、 年 年  and  伝播するプロフォーマへの伝達。 シングルソース1.5Tと1.5TDラインの正確な出力は、Jetour公式設定シートまたは預金が支払われる前に、正確なMIITの均質化エントリに対して閉鎖する必要があります。
 
@@ -74,15 +74,15 @@
 
 RHD なし 中国の市場バージョンはここに確立されます。 RHDの適格性は別のOEMの証拠を必要とし、輸出仕様は中国ラインから劣らない必要があります。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

@@ -1,16 +1,16 @@
 # BYD 秦L DM-i(秦 L DM-i):第五代PHEV 沙隆——中国出口商品标本
 
 ## SEO元数据
-- **SEO标题**: BYD 秦L DM - i PHEV 谱谱与出口指南(5th-Gen DM,),                                                                                                                           in in in in in   in i in in in in i in in in in in in in in i in in in in in in in in in in in in in in in in in in in in in in in i in in in in in in in    CLTC )
-- **Meta描述**: Chinese-market  BYD  Qin L  DM -i fifth-gen plug-in hybrid — 1.5L dedicated engine, LFP 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 刀锋电池10.08/15.87 kWh,  80/120 km  CLTC  electric range,  and  出口者检查。
-- **H1**: BYD  Qin L  DM -i (Fifth-Generation  DM ): 中国市场PHEV 光谱和导出注释
+- **SEO标题**: BYD Qin L DM-i: 规格、版本与出口采购指南
+- **Meta描述**: 面向出口采购者讲清中国市场版 BYD Qin L DM-i：版本划分、已核验规格与下单前必须确认的事项。 核心主题: byd qin l dm-i specs export.
+- **H1**: BYD Qin L DM-i
 - **核心关键词**: byd qin l dm- i 光谱导出
-- **次级搜索词**: Qin L  DM -i 120km, 第五代DM号 BYD 维基月球 刀锋电池PHEV,  Qin L  CLTC  range, 秦 L DM (单位:千美元) -i 导出
+- **次级搜索词**: Qin L  DM -i 120km, 第五代DM号 BYD  刀锋电池PHEV,  Qin L  CLTC  range, 秦 L DM (单位:千美元) -i 导出
 - **建议URL**: /vehicles/byd-qin-l-dm-i/
 - **搜索意图**: Understand  BYD  Qin L  DM -i (Fifth-Generation  DM ): 中国市场PHEV 光谱和导出注释: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
 - **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
 - **图片建议**: 侧面图 秦 L DM-i
-- **ALT文本**: BYD 秦L DM 秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  秦  -我第五代PHEV轿车
+- **ALT文本**: BYD 秦L DM 秦  -我第五代PHEV轿车
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景: 读取 以PHEV,不是EV和常规混合体
@@ -74,7 +74,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——BYD 秦L DM-i,插座混合动力车轿车
 - **法国**: 出口切除器自动桥-BYD 秦L DM-i,可补给泊车
@@ -89,21 +89,21 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 秦 L DM 参数主表 | 东赫迪数据库 | 氯化萘 | https://m.dongchedi.com/auto/params-carIds-x-9796 维基月球 | 2026-09-04 | 横跨 | 尺寸、轮基、电池、DHT、重量、罐体 |
-| 秦 L DM 配置 | 索胡汽车数据库 | 氯化萘 | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 维基月球 | 2026-09-04 | 横跨 | 尺寸, CLTC 范围 |
-| Qin L DM-i 2024 120km Leading trim | 索胡汽车数据库 | 氯化萘 | https://db.m.auto.sohu.com/trim_173018 维基月球 | 2026-09-04 | 横跨 | 120 km CLTC,国内价格参考 |
-| 第五源DM范围及燃料使用分析 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/18596386? 维基月球 | 2026-09-04 | 资源 | 专用发动机,快速充电时间,索赔综合范围 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
+| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
+| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
+| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | single source | Dedicated engine, fast-charge time, claimed combined range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* 说明:尺寸和范围步骤在两个数据库中交叉核对;引擎细节、快速充电时间和2100 km索赔单源/要素索赔。 无OEM海外页面抓获——仅限中国市场参考. * 报告迟交是因为需要翻译。
+*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

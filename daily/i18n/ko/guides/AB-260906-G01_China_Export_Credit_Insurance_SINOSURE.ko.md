@@ -40,7 +40,7 @@ SINOSURE는 중국의 공식 수출 신용 보험업자입니다; 상업의 단�
 
 ## 차량 수출자가 커버에 의존하기 전에 확인해야 할 사항
 
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 왜 차량에 대한 문제 |
+| 의 | 왜 차량에 대한 문제 |
 |---|---|
 | 승인된 구매자 & 쓰기에 한계 | Cover는 해외 구매자와 그 승인 한 제한을 따르는; 새로운 관련 법인 또는 더 높은 청구서 값은 자동으로 커버되지 않습니다. |
 | 결제 조건은 정책과 일치 | 계좌 개설, D/P, D/A 및 usance L/C는 다르게 처리됩니다; 선택된 계기 및 신용 기간을 자격이 있는지 확인하십시오. |
@@ -81,15 +81,15 @@ SINOSURE는 중국의 공식 수출 신용 보험업자입니다; 상업의 단�
 
 아니 - 그들은 구매자, 국가 및 기간에 따라 평가되고 시간이 지남에 따라 변경됩니다. 서면 SINOSURE의 현재 수치를 얻습니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国出口信用保险公司官网 (政策性保险公司, 短期出口信用保险产品存在性) | 中国出口信用保险公司 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 - 出口信用保险 |
-【이틀】이틀어 一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一 유형:: 유형:: 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 - 投保渠道 |
-해외배송상품상품주문 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types - 영어 공식 제품 페이지; 🚙 🚙 🚙 🚙 🚙 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 푼타에서 BRL 의 비용 {PROM1_LOCAL} {CURRENCY}
-| 中口中(中) | 中国出信用中公司 | | 中国:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types - 공식 CN 제품 페이지 |
-中國語· 中國語· 中國語· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 中國· 人· 人· 中國· 中國· 中國· 中國· 中國· 中國· 中· 人· 人· 人· 人· 中· 中· 中· 中· 中· 中· 中· 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — 정책 핸드북; 카지노사이트
-중국 수출입금 프로그램 및 | OECD(주) | INT 소개 | T2 | CROSS_체크 | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf 인사이트_insurer_role - Sinosure ST/MLT 혼합에 대하여
+| 中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
+| 国际贸易'单一窗口'出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口(政府门户) | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
+| Short-Term Export Credit Insurance — covered commercial & political risks | China Export & Credit Insurance Corporation (SINOSURE) | CN | primary | VERIFIED | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types — English official product page; risk categories only, no rates |
+| 短期出口贸易险承保风险（商业风险/政治风险） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types — official CN product page |
+| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — policy handbook; credit-term framework, rates remain case-by-case |
+| Chinese Export Credit Policies and Programmes | OECD | INT | independent database | CROSS_CHECKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | insurer_role — independent international context on Sinosure ST/MLT mix |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

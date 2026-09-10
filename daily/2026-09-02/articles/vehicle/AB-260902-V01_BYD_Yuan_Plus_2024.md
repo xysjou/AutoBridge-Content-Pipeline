@@ -86,8 +86,8 @@ No fixed export price is published. The China domestic guide price for the 2024 
 | Yuan Plus 2024 parameter table | ZOL Auto | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | CROSS_CHECKED | China dimensions, charging power, ADAS/infotainment |
 | Yuan Plus model article | Dongchedi (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | CROSS_CHECKED | 150 kW/310 N·m, 60.48 kWh, CLTC 510, 7.3 s |
 | Yuan Plus Q&A / model page | Autohome (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | CROSS_CHECKED | Motor, battery variants, launch context |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | SINGLE_SOURCE | 电机马力 204Ps、快充 80% |
-| 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | SINGLE_SOURCE | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | single source | 电机马力 204Ps、快充 80% |
+| 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | single source | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
 | 元PLUS 2024款荣耀版 参数配置表 | 太平洋汽车 PCauto | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | CROSS_CHECKED | 2024 Glory-specific table: 49.92/60.48 kWh, CLTC 430/510, five Glory grades (independent DB #1, verified reachable) |
 | 元PLUS 2024款荣耀版 430KM 配置表 | 爱卡汽车 Xcar | CN | https://newcar.xcar.com.cn/m72729/config.htm | 2026-09-05 | CROSS_CHECKED | 2024 Glory grade table, FWD layout and 430 km line (independent DB #2, verified reachable; real Xcar URL) |
 | 元PLUS 参数配置（2024款） | 汽车之家 Autohome config series | CN | https://car.autohome.com.cn/config/series/6298-21793.html | 2026-09-05 | CROSS_CHECKED | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, parameter table — not an AI-aggregated Q&A page) |

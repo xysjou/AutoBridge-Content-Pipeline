@@ -32,7 +32,7 @@
 
 ## ペイロードとGVW: 均質化シートに主張
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? 評価されるペイロード、カーブの固まりおよび総重量はここに主張しません —それらは厳密なシャーシおよびボディのための適合のMIITの発表/証明書を要求します。 貨物バンの番号は購入ケース全体なので、体の大きさから推定するよりも入金前に入手してください。
+ 評価されるペイロード、カーブの固まりおよび総重量はここに主張しません —それらは厳密なシャーシおよびボディのための適合のMIITの発表/証明書を要求します。 貨物バンの番号は購入ケース全体なので、体の大きさから推定するよりも入金前に入手してください。
 
 ## 商用購入者がV80を評価する方法
 
@@ -68,15 +68,15 @@ Payload/GVW はここで引用されていません。特定のシャシの MIIT
 
 中国の市場V80はLHDです。 RHDまたは輸出ビルドは、別々のOEMの証拠を必要とします。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 新途 V80 多 トリム 参数 (2.0T 、 6MT/6AMT 、 车长 4950/5490/5700 、 WB3100/3640/3850) | 懂车帝车型参数 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力 、 变速箱 、 尺寸矩阵 |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | 日 時 分 | T3 | シングル_ソース | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T 动力、座位、尺寸  |
-| V80 厢式 / 客车版本与尺寸 / 税 税 税 税 税 税 税 税 税 税 税 税  税 税 税 税 税 税  税  税   税   税   税  税   税       税               税       税       分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 | 新浪汽车车型库 | 日 時 分 | T3 | シングル_ソース | https://db.auto.sina.cn/1354/ | 车身形式、尺寸  |
-| サイクマックス グローバル公式企業 | サイクマックス 営業拠点 | エクスポーター | T1 | 検証済み | https://en.saicmaxus.com/ | アイデンティティ — OEM のグローバル; 輸出 V80 は中国 新途 V80 と異なります |
-| 上汽大通 マックスス 中国官方 | サイクマックス 中国の中国 | CN の | T1 | 検証済み | https://www.maxusmall.com/ | アイデンティティ — 中国市場公式モデルライン |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | 本人確認 ～  GVW  / 座席 / cargo の変種をアナウンスで検証 スタッフ
+| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
+| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
+| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

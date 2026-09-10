@@ -17,7 +17,7 @@
 Tariff, 인증, 검사 및 문서 모두 HS 코드를 끄 — 아직 수출은 종종 운송 견적을 시작 하 고 거의 afterthought로 분류. 상업 및 특수 목적 차량에 대한 시퀀스가 뒤로 옵니다. 트랙터 머리, 화물 트럭, 특수 기능 트럭 및 트레일러는 하나의 절차를 공유하지 않으며, "그것은 모든 87.04 "는 선적이 세관에서 재 분류되는 방법을 다룹니다. 이 페이지의 작업 규칙은 **HS-first**: 정확한 머리와 국가 subheading를 첫째로 핀, 그 후에 관세 및 적합으로 이동하십시오. 현재는 여기 ** 2026 판의 * 중국 인민 공화국의 수입 및 수출 관세 ** (국가위원회의 세관 관세위원회에 의해 복사) ** GACC 발표 2026 관세 조정 프로그램**. Four-digit/six-digit headings are comparatively stable; the ten-digit national subheading  and  매년 각 관세를 가진 간섭 비율 변화  and  판에 의해 인용되어야 합니다.
 
 ## 모터 차량 헤드 및 트레일러 헤드링
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 그것은 커버 (2026 관세 프레임 워크) | AutoBridge 제품 |
+| 의 | 그것은 커버 (2026 관세 프레임 워크) | AutoBridge 제품 |
 |---|---|---|
 | **87.01** | 트랙터 (머리 87.09의 트랙터 보다는 다른 사람), **를 포함하여 반 트레일러 트랙터***************************************************************************************************************************************************************************************************************************************************************** | Tianlong KL 유형 트랙터 머리 |
 | **87.02** | 10+명**(버스/코시)의 자동차용 차량, 잠수함 등 | 도시 버스, 코치 |
@@ -83,17 +83,17 @@ Customs guidance distinguishes electric three-wheelers by use  and  ID: a **pers
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC (2026)의 금융 및 수출 관세위원회 |부: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | 인증(기본) | 87.01-87.05/8716 | | | | | | | | | | | | |
-| GACC 2026 관세 조정 프로그램 구현에 대한 발표 | 중국의 세관의 일반 관리 | 담당자: Mr. wang | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html 대한 자세한 정보 | 2026-09-04 | 인증 (기본) | 2026 시행규칙, 연중기법 |
-| 2026 HS query · Chapter 87 headings | i5a6 HS query system | 담당자: Mr. wang | https: | 2026-09-04 | CROSS_체크 | 관련 기사 | https://www.i5a6.com/hsCategory/c17
-| Customs Q&A on electric three-wheelers (8703.80 8704.60) | 세관 출시 (repost) | 담당자: Mr. wang | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE(싱글) | Three-wheeler split, 8704.6000 |
-*Scope 참고: 현재 기초는 2026 관세 및 GACC 구현 발표; 2018/2020 테이블은 기본으로 더 이상 사용되지 않습니다. 여행 일정  and  the exact ten-digit subheading are out of scope  and  검사를 받아야 합니다. ****************************************************************************************************************************************************************************************************************************************************************
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院년) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-海南南通工具清单 (8702   分分目目方名鶏) | 国家京 (北京市))PDF | 의: 담당자: Mr. 광 | HTTP: | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 870230/870240 大中型 小型客车电动混动分目 小型客车电动混动分目 大中型 大中型 小型客车电动混动分目 大中型 大中型 大中型 小型客车电动混动分目 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 小型客车电动混动分目 大中型 小型客车电动混动分目 大中型 大中型 小型客车电动混动分目 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 大中型 小型客车电动混动分目 大中型 大中型 小型客车电动混动分目 小型客车电动混动分目 大中型 小型客车电动混动分目 大中型 大中型 小型客车电动混动分目 大中型 大中型 大中型 大中型 大中型 小型客车电动混动分目 | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

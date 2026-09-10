@@ -47,7 +47,7 @@ Grafik roda 2930 mm dan 2+2+3 adalah cerita komersil: kursi kapten baris tengah 
 ## Verifikasi Pembeli Luar Negeri Sebelum Pembayaran
 1. ** Tipe Energi di VIN ** - PHIV (port pengisian) vs Glory HEV (tidak ada port), diucapkan sebelum kalimat jangkauan apapun.
 2. ** Tata letak kursi ** - 2+2+3 seven- kursi dan spesifikasi middle- baris dikonfirmasi per trim.
-3. ** Charging connector ** vs tujuan standar; ternary-lithium battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
+3. **Konektor pengisian daya** vs standar tujuan; dokumen pengiriman baterai lithium ternary (ringkasan UN38.3) sesuai panduan IMDG 42-24.
 4. ** Daya ekspor V2L/V2V ** Klaim dikonfirmasi pada lembar OEM (sumber tunggal di sini).
 5. ** Tujuan kelas pendaftaran hybrid dan dokumen ** per ekspor dokumentasi-paket checklist.
 
@@ -57,7 +57,7 @@ Tidak ada harga ekspor yang diterbitkan. Harga panduan Cina ** domestik, waktu -
 ## Pertanyaan Yang Sering Muncul
 ** Apakah Trumpchi E8 hibrida atau hibrida diri? Energi Baru E8 adalah PHIV dengan port pengisian; E8 Glory adalah sebuah HAMA non- pengisian - menentukan yang mana.
 Berapa kursi? 2+2+3 seven- kursi MPV pada sebuah pangkalan roda 2930 mm.
-**What is the electric range?** 150 km CLTC for the documented PHEV.
+**Berapa jangkauan listriknya?** 150 km CLTC untuk PHEV yang terdokumentasi.
 ** Bisakah daya E8 perangkat eksternal? ** Daftar cakupan Cina 3.3 kW V2L dan 5.5 kW V2V; konfirmasi pada lembar pemangkas OEM yang tepat.
 
 ## Rekor Gambar
@@ -86,22 +86,22 @@ Berapa kursi? 2+2+3 seven- kursi MPV pada sebuah pangkalan roda 2930 mm.
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Trumpchi E8+ tabel konfigurasi resmi | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | Tersebar (OEM) | PHIV powertrain, baterai, dimensi, kursi |
-| E8 (PHIV) peluncuran, ukuran & electrifikasi | Harian Metropolis Selatan | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | _ BERDECAT | Dimensi, motor, baterai |
-| E8 showroom: ukuran motor baterai | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | _ BERDECAT | Motor, bobot, V2L/V2V |
-| Arsitektur GPMA E8 & baja dengan kekuatan tinggi | Yangcheng Berita sore PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE _ SOURCE | Peron, ~ 75% HSS |
-| Trumpchi E8 Konfig baris energi baru | Konfig PCauto | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | _ BERDECAT | Dimensi, 25.57 kWh, kisaran CLTC |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
-| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
-| GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
+| Trumpchi E8+ official configuration table | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | VERIFIED (OEM) | PHEV powertrain, battery, dimensions, seats |
+| E8 (PHEV) launch, size & electrification | Southern Metropolis Daily | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | CROSS_CHECKED | Dimensions, motor, battery |
+| E8 showroom: size/motor/battery | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | CROSS_CHECKED | Motor, weight, V2L/V2V |
+| E8 GPMA architecture & high-strength steel | Yangcheng Evening News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | single source | Platform, ~75% HSS |
+| Trumpchi E8 New Energy full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Dimensions, 25.57 kWh, CLTC range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Catatan kepercayaan: OEM halaman ditangkap; rasio baja platform dan V2L/V2V angka adalah tunggal-sumber. PHEV dan HEV Glory sengaja dipisahkan; referensi pasar Cinese- saja. ♪
+*Confidence note: OEM page captured; platform steel ratio and V2L/V2V figures are single-source. PHEV and Glory HEV deliberately separated; Chinese-market reference only.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

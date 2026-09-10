@@ -1,15 +1,15 @@
 # BYD 秦加DM-i——PHEV架构,两台电池版本和导出检查
 ## SEO元数据
-- **SEO标题**: BYD 维基月球 秦加DM - i PHEV:两台电池版本和导出指南
-- **Meta描述**: BYD 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 秦加DM - i向进口商解释——1.5L发动机,电动机,8.32/18.32 kWh电池,E-CVT和操作模式如何结合,为什么55对120必须固定在VIN之前.
-- **H1**: BYD 维基月球 秦加DM - i:PHEV 动力列车,版本差异和进口商必须确认的
+- **SEO标题**: BYD  秦加DM - i PHEV:两台电池版本和导出指南
+- **Meta描述**: BYD 秦加DM - i向进口商解释——1.5L发动机,电动机,8.32/18.32 kWh电池,E-CVT和操作模式如何结合,为什么55对120必须固定在VIN之前.
+- **H1**: BYD  秦加DM - i:PHEV 动力列车,版本差异和进口商必须确认的
 - **核心关键词**: BYD  Qin Plus  DM -i specifications export
 - **次级搜索词**: Qin Plus  DM -i 55 vs 120, BYD DM (单位:千美元) -我插头混合动力,  Qin Plus 18.32 kWh,  Qin Plus  DM -i overseas/Bahrain market, PHEV NEDC WLTC 射程, 中国PHEV轿车出口
 - **建议URL**: /vehicles/byd-qin-plus-dmi/
 - **搜索意图**: 懂BYD吗? 秦加DM - i:PHEV 动力列车,版本差异和进口商必须确认的:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
 - **内链建议**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
 - **图片建议**: 侧侧配置色片轿车
-- **ALT文本**: BYD 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八 秦加八百二 秦加八百二 秦加八百二 秦加八 秦加八百二 秦加八百 秦加八百一 秦加八百二 秦加八百 秦 秦加八百二 秦加八百 秦 加八 秦 秦加八百二 秦 秦 秦加八百二 秦 加八百 秦 加八百 秦 加八百二 秦 秦 加八十二 秦 加八 秦 秦 加八百 秦 秦 秦 秦 秦 加 -i 插座混合轿车
+- **ALT文本**: BYD 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八百二 秦加八 秦加八百二 秦加八百二 秦加八百二 秦加八 秦加八百二 秦加八百 秦加八百一 秦加八百二 秦加八百 秦 秦加八百二 秦加八百 秦 加八 秦 秦加八百二 秦 秦 秦加八百二 秦 加八百 秦 加八百 秦 加八百二 秦 秦 加八十二 秦 加八 秦 秦 加八百 秦 加 -i 插座混合轿车
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 为什么一个DM-i必须指定为系统
@@ -18,12 +18,12 @@
 | 项目 | 55 个版本 | 120 个版本 |
 |---|---|---|
 | 前驱发动机(PMSM) | 132 kW (180 PS) 316 N·m | 145 kW (197 PS) 325 N·m |
-| LFP 语言 刀锋电池 | 8.32 kWh 维基月球 | 18.32 kWh 维基月球 |
-| 仅电范围 | 55 km NEDC 46 km WLTC 电磁电磁电磁器 | 120 km NEDC 101 km WLTC 电磁电磁电磁器 |
+| LFP 语言 刀锋电池 | 8.32 kWh  | 18.32 kWh  |
+| 仅电范围 | 55 km NEDC 46 km WLTC 电磁器 | 120 km NEDC 101 km WLTC 电磁器 |
 | 0–100 km/h | 7.9 s | 7.3 s |
 大型战车的145 kW/197 PS输出及其~18.3 kWh包在**BYD自己的巴林地区秦加DM-i页面(en-bh, VRIFIED,范围限于该命名型号)上得到证实**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC)在中国数据库(CROSS_CHECKED)中进行交叉检查. 120型机车的车速更快,车速更重(120KM 领先型型机车的车厢~1620 kg).
 ## 引擎和操作模式(PHEV特定问题)
-- ** 工程**: 1.5L 自然呼吸L4, 81 kW(110 PS) 135 N·m (中文(简体)).
+- ** 工程**: 1.5L 自然呼吸L4, 81 kW(110 PS) 135 N·m 
 - ** Transmission**:E-CVT单速电动连续变速驱动器——没有多步变速箱可调试.
 - ** 模式**:电压(耗电)和混合(电压维持)作业;电压维持燃料使用引号约为3.8 L/100 km(NEDC)。 对于出口车队,向客户解释现实世界燃料的使用取决于充电行为——不充电驱动的PHEV行为类似混合燃料,而不是EV.
 - **Top速度**:185 km/h.
@@ -73,18 +73,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| BYD QIN PLUS DM-i官方区域页面(en-bh =巴林国家网站) | BYD(**制造商官员**) | 出口 ** 巴林(区域内页;不是阿联酋)** | https://www.byd.com/en-bh/car/qin-plus-dmi 维基月球 | 2026-09-03 | ** 已核实(镜像:这个名字只叫秦加DM-i)** 报告迟交是因为需要翻译。 | 18.3 kWh包,最高197 hp 145 kW,7.3 s 的秦加DM-i命名的"秦加" |
-| 荣耀版 55/120 配置 | 自动家庭(汽车之家) | 氯化萘 | http://dealer.autohome.com.cn/2116572/spec_66744.html 维基月球 | 2026-09-02 | 横跨 | 尺寸,1.5L 81 kW、132 kW马达、E-CVT、射程 |
-| | 车家 | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/18481020 维基月球 | 2026-09-02 | 横跨 | 145 kW/325 N·m,18.32 kWh,合并-范围引文 |
-| 秦加配置 | Xcar(爱卡)/PCauto/瓜兹 | 氯化萘 | https://newcar.xcar.com.cn/m72508/config.htm 维基月球 | 2026-09-02 | 横跨 | 电路重量、轮基、NEDC/WLTC、电池 |
-| 汽车之家 (车家号) 秦 PLUS DM-i 荣耀版上市 维基百科中的相关条目: 维基语录链接:名人名言 - 文学作品 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 谚语 - 语 - 谚语 - 谚语 - 谚语 - 谚语 - 语 - 谚语 - 谚语 - 谚语 - 谚语 - 语 - 谚语 - 语 - 谚语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 - 语 -  | 汽车之家 维基月球 | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/14654247 维基月球 | 2026-09-02 | 资源 | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 (单位:千美元) | 瓜子二手车 维基月球 | 氯化萘 | https://m.guazi.com/qichecanshu/c163518812263347.html 维基月球 | 2026-09-02 | 资源 | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 (单位:千美元) | 太平洋汽车网 维基月球 | 氯化萘 | https://price.pcauto.com.cn/m126873/config.html 维基月球 | 2026-09-02 | 资源 | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-* 信號標準(AutoBridge标准):BYD自己的地区秦加DM-i页面(en-bh/巴林)上大电池输出/包装为VIFIED;中国版本详细数字为CROSS_CHECKED. ~1245 km合并数字为SINGLE_SURCE,是中国循环综合数字. 海外数字只使用BYD页面,明确命名为"秦加DM-i";没有SAME_. MODEL与任何不同名称的BYD PHEV的关系,在没有明确的OEM证明(RELATED_MODEL QQQ SAME_MODEL)的情况下被推断出来. * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

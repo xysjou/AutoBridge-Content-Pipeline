@@ -5,7 +5,7 @@
 - **Meta描述**: Chinese-market third-generation Changan  CS55   PLUS  petrol  SUV : 蓝鲸 NE 1.5T,  7DCT, 维度, WLTC 燃料使用量,  and  为什么杂交是一条单独的线。
 - **H1**: Changan  CS55   PLUS  (3rd Generation, 2024) — 中马汽油SUV 光谱  and  导出检查
 - **核心关键词**: 长安 / 长安 CS55 PLUS (第三代) 规格出口
-- **次级搜索词**: Changan  CS55   PLUS  export; 第三代CS55号; 蓝鲸1.5T; 中国汽油SUV; 7DCT 维基月球
+- **次级搜索词**: Changan  CS55   PLUS  export; 第三代CS55号; 蓝鲸1.5T; 中国汽油SUV; 7DCT 
 - **建议URL**: /vehicles/changan-cs55-plus/
 - **搜索意图**: Understand Changan  CS55   PLUS  (3rd Generation, 2024) — 中马汽油SUV 光谱  and  导出检查: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
 - **内链建议**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
@@ -27,16 +27,16 @@
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| 长度宽度高度 | 4539 1865 1680 | 毫米 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 轮式基座 | 2656 | 毫米 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 引擎 | 新蓝鲸 NE 1.5T 国家 | - 说吧 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 发动机功率 | 141 (192Ps) | 千瓦 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 传输 | 7DCT 湿式双离合 (中文(简体)). | - 说吧 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 邮箱 0 100 | 7.9 | s, 简称 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 燃料消耗量 | 6.94 | L/100km | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 货运量 | 475–1415 | L: 国家 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 中国微软发射范围 | 9.99–11.39 | 万元人民币 维基月球 | 中国 | 时间(_S) | 人民网重庆 维基月球 |
-| 混合分离线 | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - 说吧 | 中国 | 资源 | 搜狐汽车 维基月球 |
+| 长度宽度高度 | 4539 1865 1680 | 毫米 | 中国 | 资源 | 搜狐车型库  |
+| 轮式基座 | 2656 | 毫米 | 中国 | 资源 | 搜狐车型库  |
+| 引擎 | 新蓝鲸 NE 1.5T 国家 | | 中国 | 资源 | 搜狐车型库  |
+| 发动机功率 | 141 (192Ps) | 千瓦 | 中国 | 资源 | 搜狐车型库  |
+| 传输 | 7DCT 湿式双离合  | | 中国 | 资源 | 搜狐车型库  |
+| 邮箱 0 100 | 7.9 | s, 简称 | 中国 | 资源 | 搜狐车型库  |
+| 燃料消耗量 | 6.94 | L/100km | 中国 | 资源 | 搜狐车型库  |
+| 货运量 | 475–1415 | L: 国家 | 中国 | 资源 | 搜狐车型库  |
+| 中国微软发射范围 | 9.99–11.39 | 万元人民币  | 中国 | 时间(_S) | 人民网重庆  |
+| 混合分离线 | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | | 中国 | 资源 | 搜狐汽车  |
 
 ## ICE出口重点:排放量、燃料和微量排放确认
 对于一辆SUV汽油,定购检查是目的地国家的**排放阶段和燃料兼容性**,而不是电场。 China-6校准,OBD和燃料级(92/95 RON预期)必须与目的地标准相协调;捕获的WLTC消耗量是一个实验室数字,随燃料和载荷的不同而变化. 详细的每条线路设备差异需要OEM配置表. 混合线保持自己的页面,而不是平均汽油和混合号.
@@ -55,15 +55,15 @@
 ** 99、900人民币是出口价格吗? ** 否 ——国内发射参考文献.
 被俘线7-speed湿双层(7DCT)
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 普拉斯 参数配置 | 搜狐汽车车型库 维基月球 | 氯化萘 | T2 | 横跨 | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 维基月球 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 时间轴: |
-| 第三代 CS55PLUS 上市 (中文(简体)). | 人民网重庆 维基月球 | 氯化萘 | T3 | 横跨 | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html 维基月球 | 上市, 价格区间 (单位:千美元) |
-| CS55 普拉斯 超擎混动参数 | 搜狐汽车 维基月球 | 氯化萘 | T2 | 横跨 | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 维基月球 | 混动版区分(不得混入燃油) (中文(简体)). |
-| 长安 汽车全球官方网站 | 长安汽车长安汽车 (OEM). | 氯化萘 | T1 | 实录 | https://www.globalchangan.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
-| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
-| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05

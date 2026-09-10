@@ -75,17 +75,17 @@ A continuación se indica **recomendado** para prepararse; si cada uno es necesa
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Certificado de fábrica GB/T 21085-2020 (actual) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primaria) | Estándar/estatuto/fechas actuales |
-| Plataforma SAMR · GB/T 21085-2020 detalle | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primaria) | Fechas de publicación/eficacia/examen |
-| Plan estándar obligatorio 20260041-Q-339 (futuro, en desarrollo) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIEMPO_SENSITIVO (primario) | Proyecto de estatuto/futuro |
-| SAMR aviso asignando 24 planes estándar obligatorios | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primaria) | Plan de asignación |
-| MIIT GB21085 —XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | PROYECTO DE PROYECTO (primario) | Texto sólo multietapa (desembocado en la redacción actual) |
-| Reglas de trabajo de registro de vehículos motorizados (archivos de exportación-venta) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primaria) | Certificado de inspección + copia de licencia |
-| Lista de archivos de exportación de vehículos completos | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
-*Puerta de salida: regla de emisión multietapa y sustitución obligatoria son DRAFT/FUTURE y excluidas de las declaraciones de la demanda actual; los artículos NEV/traducción son recomendaciones editoriales. *
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

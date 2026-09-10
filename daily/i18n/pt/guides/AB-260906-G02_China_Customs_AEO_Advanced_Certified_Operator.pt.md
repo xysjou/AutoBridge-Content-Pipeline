@@ -74,16 +74,16 @@ Uma empresa aduaneira registada que cumpra as normas actuais pode aplicar-se; a 
 
 Razões específicas são sensíveis ao tempo e publicadas pelo GACC; use os números oficiais atuais em vez de um número fixo.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 海关总署政策例行吹风会：解读《海关注册登记和备案企业信用管理办法》（2026-04-01施行、五级信用） | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/customs/xwfb34/302330/6763807/index.html | 修订背景, 五级信用, 实施日期 — 海关信用管理 |
-| 海关注册登记和备案企业信用管理办法 (海关总署令第 282 号) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/zhengceku/202511/content_7048430.htm | 信用等级划分, AEO 条件, 管理措施 — 部门规章 |
-| AEO 企业信用等级调整程序规定 | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/zhengceku/202601/content_7051411.htm | 等级调整程序 — 配套规定 |
-| 截至2025年底全国AEO企业6876家、查验率18.5%、与48国/地区互认 | 中国政府网 | NC | T1 | TIM_SENSITIVO | https://www.gov.cn/lianbo/bumen/202602/content_7061523.htm | AEO 数量, 查验率, 互认经济体 — 权威发布 |
-| Guia de Estratégia de Reconhecimento Mútuo da AEO | Organização Mundial das Alfândegas | INT | T1 | VERIFICADO | https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/strategy-guide-for-aeo-mutual-recognition.pdf | aeo_definition — WCO SAFE definição do conceito de AEO e MRA |
-| Quadro de Normas (sobre) | Organização Mundial das Alfândegas | INT | T1 | VERIFICADO | https://aeo.wcoomd.org/about | aeo_definition — Origem e finalidade do quadro SAFE |
-| Reconhecimento mútuo dos EOA | Comissão Europeia Fiscalidade e União Aduaneira | UE | T1 | CROSS_CHECKED | https://taxation-customs.ec.europa.eu/customs/authorised-economic-operator/mutual-recognition-ro | aeo_definition — como o MRA proporciona benefícios; paralelos estrangeiros à China AEO |
+| 海关总署政策例行吹风会：解读《海关注册登记和备案企业信用管理办法》（2026-04-01施行、五级信用） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/xwfb34/302330/6763807/index.html | 修订背景, 五级信用, 实施日期 — 海关信用管理 |
+| 海关注册登记和备案企业信用管理办法（海关总署令第282号） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048430.htm | 信用等级划分, AEO条件, 管理措施 — 部门规章 |
+| AEO企业信用等级调整程序规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202601/content_7051411.htm | 等级调整程序 — 配套规定 |
+| 截至2025年底全国AEO企业6876家、查验率18.5%、与48国/地区互认 | 中国政府网 | CN | primary | TIME_SENSITIVE | https://www.gov.cn/lianbo/bumen/202602/content_7061523.htm | AEO数量, 查验率, 互认经济体 — 权威发布 |
+| AEO Mutual Recognition Strategy Guide | World Customs Organization | INT | primary | VERIFIED | https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/instruments-and-tools/tools/safe-package/strategy-guide-for-aeo-mutual-recognition.pdf | aeo_definition — WCO SAFE definition of AEO and MRA concept |
+| SAFE Framework of Standards (about) | World Customs Organization | INT | primary | VERIFIED | https://aeo.wcoomd.org/about | aeo_definition — SAFE framework origin and purpose |
+| Mutual recognition of AEOs | European Commission Taxation and Customs Union | EU | primary | CROSS_CHECKED | https://taxation-customs.ec.europa.eu/customs/authorised-economic-operator/mutual-recognition-ro | aeo_definition — how MRA delivers benefits; foreign parallel to China AEO |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

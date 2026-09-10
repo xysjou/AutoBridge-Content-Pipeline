@@ -17,7 +17,7 @@
 A*SKD (Secmi-chocked-down) ~ เรือเครื่องมือบางส่วนประกอบโมดูล A*CKD (เสร็จ-เคาะ-ลง) ~ เครื่องมือบรรจุอุปกรณ์ชุดส่วนประกอบเต็มสําหรับการประชุมท้องถิ่น Both replace a finished-vehicle export with a parts-and-assembly model, ปกติจะตรงกับจุดหมายปลายทาง อุทธรณ์เชิงพาณิชย์เป็นของจริง ถูกตัดสินโดยกรมศุลกากร ~ ไม่ใช่โดยผู้ส่งออกชาวจีน
 
 ## หมวดหมู่พื้นฐานผู้ส่งออกสามารถควบคุมได้
-ทางด้านการส่งออกของประเทศจีน และกลไกการจําแนกประเภทของศุลกากร (WCO) ที่เชื่อมต่ออยู่ด้านล่าง distribution ถูกจําแนกเป็นบทความหรือไม่ ที่จะกลายเป็นการเปิดกฎทั่วไปในการตีความ และระเบียบการแปลแบบทาลีและการปกครองที่แน่นอน --* มัคคุเทศก์นี้ไม่ได้ระบุว่า GRI 2 (ก) เป็นข้อสรุปทางกฎหมายสําหรับชุดชุดชุด เนื่องจากกฎพื้นฐานของ WCO/LS สําหรับชุดที่แน่นอนไม่ได้ถูกจับที่นี่ จําแนกแต่ละบรรทัดตามบรรทัด และที่วัสดุ แสวงหาการจําแนกประเภท
+ทางด้านการส่งออกของประเทศจีน และกลไกการจําแนกประเภทของศุลกากร (WCO) ที่เชื่อมต่ออยู่ด้านล่าง distribution ถูกจําแนกเป็นบทความหรือไม่ ที่จะกลายเป็นการเปิดกฎทั่วไปในการตีความ และระเบียบการแปลแบบทาลีและการปกครองที่แน่นอน --* มัคคุเทศก์นี้ไม่ได้ระบุว่า GRI 2 (ก) เป็นข้อสรุปทางกฎหมายสําหรับชุด เนื่องจากกฎพื้นฐานของ WCO/LS สําหรับชุดที่แน่นอนไม่ได้ถูกจับที่นี่ จําแนกแต่ละบรรทัดตามบรรทัด และที่วัสดุ แสวงหาการจําแนกประเภท
 
 ## จุดหมายปลายทางคือ คําถามควบคุม จําแนกประเทศ
 ไม่ว่าจะเป็นชุดที่เหมาะสมสําหรับการรักษา "การชุมนุมภายใน" แบบลดระดับ สัดส่วนท้องถิ่นที่ต้องการ หรือแรงจูงใจการลงทุนถูกตัดสินโดย ศุภกกรของประเทศ การเสียภาษีและการลงทุน กฎของจีนและเว็บเพจโฆษณา ไม่สามารถยืนยันผลได้ จุดหมายปลายทางที่แตกต่าง สามารถเข้าถึงผลที่แตกต่าง สําหรับชุดที่เหมือนกัน และปฏิบัติต่อชิ้นส่วนที่ไม่รวมเข้าด้วยกันเป็นพาหนะสําหรับปฏิบัติหน้าที่ (หรือในทางกลับกัน) ต้องมีหลักฐานจากอํานาจของประเทศนั้น
@@ -39,16 +39,16 @@ A*SKD (Secmi-chocked-down) ~ เรือเครื่องมือบาง
 ~การออกแบบชุดเดียว สามารถใช้ได้ในตลาดทุกแห่งไหม~ ไม่ — การแบ่งชนชั้นและสภาพการประกอบกิจการ เป็นประเทศเฉพาะ
 หน้าอกเขาควรจะทําอะไร # กําหนดเส้น HS, จุดกําเนิดและค่าไปยังทุกองค์ประกอบก่อนที่จะจําแนกประเภท
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础 归类裁定与决定 |
-| 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) พ.ศ. | 顺企网 | CN | T4 | ไม่ได้รับมอบ | https://m.11467.com/product/d53830031.htm | 成套散件清单 HS 逐项整理流程线索 |
-| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4). | 顺企网 | CN | T4 | ไม่ได้รับมอบ | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Hampingd ระบบ Nonmecode (WCO) | องค์กรกําหนดเองของ โลก | CN | T1 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Hs Noncloative is searchation searchations ressociation by WCO |
-| เครื่องมือและเครื่องมือของ WCO ต้นฉบับ | องค์กรกําหนดเองของ โลก | CN | T1 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | กฎของการลองเฟรมเวิร์กและอุปกรณ์ที่ เก็บรักษาโดย WCO |
-| WTO ข้อเสนอเกี่ยวกับศุลกากร | องค์การ การ ค้า โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | กําหนดรูปแบบกรอบเอง เมื่อใช้ชุดชุดการเคาะและรวมหน่วยต่าง ๆ กัน ส่วนเองแล้ว ไม่ตั้งค่าการวนแสดงปลายทางที่สัมพันธ์กัน |
-| WCO HS Nunclabrictict — อุปกรณ์จําแนกประเภท (GRI) | องค์กรกําหนดเองของ โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | กฎทั่วไป (inclip. – – เ ฟ ฟ 2 (ท ร ร อ ป ท ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง ง  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2) แ แ ่ ่ ่ ่ ่ ่ ; ;; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

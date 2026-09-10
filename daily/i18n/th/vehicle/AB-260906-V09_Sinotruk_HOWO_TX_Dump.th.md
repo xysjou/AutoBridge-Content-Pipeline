@@ -12,7 +12,7 @@
 - **ข้อความ ALT**: Sinoruk HOWO TX 8x4 รถขนขยะที่มีลําตัวปลายยกบางส่วนบนสถานที่ก่อสร้าง
 - **ขอบเขต Schema**: บทความ + พาหนะ
 
-The howo TX คือ Sinotrouk China Friend Guard Group รถบรรทุกหลัก (รถขนขยะ) สําหรับก่อสร้างและทําฮารุล ขายใน 6 x 4 และ 8 ax 4 ผังขับขี่แบบถนน (Dedpop). การซื้อแบบหักเหเป็นราว ไดรฟ์ไลน์ เพลา น้ําหนักรวมขั้นต่ํา แท็กซี่ และ chasis — และเกี่ยวกับการระบุค่าค่าค่าตัวอย่างนั้น ฮาวโอสถานะเป็นหลักของซิโนรุคแบรนด์หนักเบรกได้รับการยืนยันโดย เปิดเผยอย่างเป็นทางการของบริษัท; ตัวเลขการทํางานรายละเอียดมาจากกระดาษการโฮโมล็อก
+The howo TX คือ Sinotrouk China Friend Guard Group รถบรรทุกหลัก (รถขนขยะ) สําหรับก่อสร้างและทําฮารุล ขายใน 6 x 4 และ 8 ax 4 ผังขับขี่แบบถนน (Dedpop). การซื้อแบบหักเหเป็นราว ไดรฟ์ไลน์ เพลา น้ําหนักรวมขั้นต่ํา แท็กซี่ และ chasis — และเกี่ยวกับการระบุค่าตัวอย่างนั้น ฮาวโอสถานะเป็นหลักของซิโนรุคแบรนด์หนักเบรกได้รับการยืนยันโดย เปิดเผยอย่างเป็นทางการของบริษัท; ตัวเลขการทํางานรายละเอียดมาจากกระดาษการโฮโมล็อก
 
 ## ผังแป้นพิมพ์และบทบาทของไดรฟ์
 
@@ -70,15 +70,15 @@ It is one sample 8×4 build; เส้น TX ใช้หลายเครื�
 
 ไม่ คิด เอา เอง — การ ส่ง ออก หรือ การ สร้าง และ การ เข็น รถ ต้อง แยก หลัก ฐาน โออี เอ็ม ออก จาก กัน.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号 (今日头条镜像). | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.toutiao.com/group/7587065410998624778/ | 发动机 变速箱 变速箱 后桥 8x4 (พ.ศ.  |
-| 重汽 2025 年半年报 (豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 า า า า 豪沃 豪沃 ( ฮ 豪沃 豪沃 า า า า า า 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 ศ ศ ศ ศ ศ ศ 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 ศ 豪沃 豪沃 豪沃 豪沃 豪沃 ศ ศ ศ 豪沃 豪沃 ศ ศ ศ 豪沃 豪沃 豪沃 豪沃 ศ ศ 年半年报 年半年报 ศ ศ ศ ศ ศ ศ ศ ศ (  豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 ศ ศ ศ 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 豪沃 ศ ศ 豪沃 年半年报 年半年报 ศ ศ ศ ศ ศ ศ ศ 年半年报 年半年报 年半年报 年半年报 年半年报 | 中国重汽 (深交所披露). | จีน | T1 | เปิดใช้งาน | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌 产销官方披露  |
-| 中国重汽集团 (豪沃产品系列官方身份). | 经济日报 经济日报 (中国重汽集团  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF  PDF ) พ พ พ พ พ พ พ พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ | จีน | T2 | ROOS_ CHCKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| ซิ น โน วา เจ้า หน้าที่ ระดับ โลก | รถบรรทุกหนักแห่งชาติจีน (Sintruk) | ไมโครซอฟต์ | T1 | เปิดใช้งาน | https://www.sinotrukchina.com/ | แบรนด์ official — OEMP; howO ident ident ident; การส่งออกสร้างการคัดลอกตลาด |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | เอกลักษณ์ — เซ็นเซอร์ 8x4/6x4 แชสซิส, เครื่องยนต์ และจีวีดับเบิลยู โดยประกาศ |
-| 卡车之家 ฮาวโอ 车型库 (独立商用车数据库) พ.ศ. | 卡车之家 | CN | T2 | ROOS_ CHCKED | http://www.360che.com/ | การแสดงตัว — การตรวจสอบการปรับแต่งตัวอย่างอิสระ |
+| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
+| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
+| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

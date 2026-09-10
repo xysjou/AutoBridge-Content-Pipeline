@@ -73,18 +73,18 @@ Parter เว็บไซต์รายการ 55 และ 120 แถว แ
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-○ ไบดีคิวเอ็น ฟิวส์ ดีเอ็ม-ไอ ห ้า ้า/้า/อ/อ/บ/บ ย ย น น รข รข อ อ อ อ อ อ/ม/ภ/ภ/ภ/b เ  ~  ~  ~ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ  ~  ~  ~  ~  ~  ~ บ บ บ บ บ บ บ บ บ า บ า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า า ไม่ใช่ UAE) ~ | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ~ ISFIIIE (scope: this name Cin บวก DMi เท่านั้น] ~ * | 18.3 kWh ฝูง เพิ่มขึ้น 197 hp 145 kW 7.3 เอส สําหรับชื่อ Qin บวก DM-i |
-| การปรับแต่งเกียรตินิยม 55/120 ฉบับ | ออโต้โฮม (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ROOS_ CHCKED | ขนาด 1.5L 81 kW (พ.ศ. 132 วัตต์ (PDF) จึงมีดอกบัว 10100 ร38, (พ.ศ. E-CVT ช | | | | | | |
-| เปิดตัวครั้งแรก รายละเอียด | บ้าน เช จิ อา อู | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ROOS_ CHCKED | 145 kW 325 N·m 18.32 kWh ยกมาอ้างอิงรวม (พ.ศ. ○
-| ปรับแต่งค่า QIn+ | เอ็กซ์คาร์ (爱卡) พีสโญโต กัวซิ | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | ROOS_ CHCKED | น้ําหนักเส้นโค้ง, เบสล้อ, NEDC/WLTC, แบตเตอรี่ |
-| 汽车之家 (车家号 ) 秦 พ พ พ ล โ โ โ โ โ ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท 荣耀版上市 荣耀版上市 荣耀版上市 ท ท 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-* โน้ตการยกเลิก (มาตรฐานอัตโนมัติของ อัตโนมัติ: แพค มีผลมาจาก biffIE (IFIFIE) ในภาคภูมิภาค Qin บวก DM-i (n-bh/Bahrain); ตัวแบบแบบแบบต่าง ๆ ของจีน คือ CROSS_CHCCIE. ~ 1245 km ตัวเลขรวมกันคือ Single_SEVE และรถจีนรวมกัน จํานวนโอเวอร์ซ่าถูกใช้จากไบดีหน้าเท่านั้น ที่มีชื่อโดยตรงว่า "น้ํา" บวก DM-i; ไม่มีเหมือนกัน_ ความสัมพันธ์ระหว่าง Model กับชื่ออื่น ๆ BD PhEV ถูกบรรจุไว้โดยไม่มีการพิสูจน์อย่างแน่ชัด (RELLL   access_MD). *
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

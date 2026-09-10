@@ -66,7 +66,7 @@ MPV-Käufer werden ein "Luxus-Siebensitzer" -Label verkauft, das drei verschiede
 2. Bestätigen Sie die Sitzplatzgestaltung (7-seat vs 4-seat) und die Sitzfunktionen in der zweiten Reihe Zeile für Zeile.
 3. Bestätigen Sie die Lenkseite, die Schiebetür-/Heckklappenausrüstung und die Verfügbarkeit von Außenfarben/Innen.
 4. Die Fahrzeug-Identifizierungsnummer wird dem Motor 8AT und dem Gewicht des Bordsteins zugeordnet; die Einhaltung der Bestimmungsemission/des Kraftstoffs wird überprüft.
-5. Obtain the export-market GAC M8 official sheet  and  Abgleich mit der chinesischen Referenz vor der Einzahlung.
+5. Das offizielle GAC-M8-Datenblatt für den Exportmarkt beschaffen und vor der Anzahlung mit der chinesischen Referenz abgleichen.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
 
@@ -110,18 +110,18 @@ AutoBridge gibt Live-Angebote statt einer statischen Preisliste aus. Die chinesi
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## Quellen & Verifizierung
+## Sources & Verification
 
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 offiziell | GAC Trumpchi (offiziell) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | ÜBERPRÜFUNG | 5212 mm Karosserie, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 Überseekonfiguration | GAC Group (offiziell) | KN/Ausfuhr | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | ÜBERPRÜFUNG | 185 kW/252 PS, 7 Sitze, Aufhängung |
-| 2024 M8 宗师 Benzin offiziell | GAC Trumpchi (offiziell) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | ÜBERPRÜFUNG | 2.0TGDI + 8AT, 400 N·m, Inlandspreis |
-| Lingxiu 390T | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm Body, 3000 mm WB, 390 N·m, WLTC 8.85 |
-| M8 Parameter | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Radstandsaufteilung, Serienabbildung |
-| Lingxiu-Konföderation | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Abmessungen des Lingxiu, Inlandspreis |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-*Vertrauenshinweis (AutoBridge-Standard): Grandmaster/Master-Kernspezifikationen werden auf GAC-eigenen Seiten (Herstelleroffizieller) VERIFIZIERT; Lingxiu-Werte sind CROSS_CHECKED in unabhängigen Datenbanken. Die 400 vs 390 N·m Kalibrierung wird absichtlich durch Reihe getrennt gehalten; Hybrid (双擎) Spezifikationen werden nicht behauptet. *
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

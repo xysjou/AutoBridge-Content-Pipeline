@@ -14,7 +14,7 @@
 - **Escopo do schema**: Artigo (sem produto/oferta/revisão)
 
 ## Dois métodos, correspondentes ao tipo de empresa
-O regime de IVA aplicável à exportação da China utiliza dois métodos principais. **A empresa produtora/fabricante** aplica-se ** isenção-crédito-reembolso (免抵退)**: o IVA à saída da exportação está isento, o IVA à entrada é creditado no IVA à saída do mercado interno e o residual é reembolsado. Uma empresa ** estrangeira/comercial** que compra e revende para exportação aplica-se geralmente ** isenção–reembolso (免退)**: a venda de exportação está isenta e o correspondente IVA a montante é reembolsado. Usando o método errado para o tipo de entidade é um erro básico de arquivamento.
+O regime de IVA aplicável à exportação da China utiliza dois métodos principais. **A empresa produtora/fabricante** aplica-se ** isenção-crédito-reembolso (exemption-credit-refund)**: o IVA à saída da exportação está isento, o IVA à entrada é creditado no IVA à saída do mercado interno e o residual é reembolsado. Uma empresa ** estrangeira/comercial** que compra e revende para exportação aplica-se geralmente ** isenção–reembolso (exemption-refund)**: a venda de exportação está isenta e o correspondente IVA a montante é reembolsado. Usando o método errado para o tipo de entidade é um erro básico de arquivamento.
 
 ## O cálculo e a ordem de apresentação de pedidos
 O período de reembolso/crédito é calculado a partir das vendas de exportação, do imposto a montante creditável e da taxa de restituição aplicável. A apresentação segue o evento de exportação: após a declaração aduaneira e com a fatura correspondente, os dados de recepção e declaração FX, a empresa apresenta o reembolso/retorno de isenção dentro do prazo prescrito, completando então a verificação/revogação. Os documentos devem conciliar-se entre alfândegas, impostos e FX.
@@ -26,7 +26,7 @@ A taxa de restituição do IVA de exportação é fixada por ** código/produto 
 Os atrasos no reembolso da exportação de veículos raramente são sobre a taxa; são cerca de três registros que contam histórias diferentes. Em primeiro lugar, o ** nome, quantidade e código SH na factura especial do IVA devem corresponder à declaração aduaneira e ao conhecimento de embarque** — um camião descrito na factura por uma alcunha comercial, mas declarado sob um código de mercadorias diferente, quebra a comparação fiscal das autoridades aduaneiras. Em segundo lugar, **o fluxo de fundos deve corresponder ao fluxo de mercadorias**: o recebimento FX de exportação deve se conciliar com o valor declarado e a contraparte, razão pela qual as condições de pagamento e o registro de liquidação FX não podem ser tratados como papelada não relacionada. Em terceiro lugar, **o timing deve ser internamente consistente** — emissão de fatura, declaração, partida e recibo devem formar uma sequência plausível; datas fora de ordem desencadeiam revisão manual mesmo quando cada papel existe. Para um comprador estrangeiro, esta questão deve-se ao facto de um exportador chinês cujo reembolso seja bloqueado por razões de coerência poder atrasar a encomenda ou reabrir os preços para recuperar o imposto sobre o valor acrescentado. Confirmar o tipo de entidade, a classificação exata do HS e a conciliação entre faturas e costumes – registros FX é, portanto, uma questão legítima de diligências de pré-pagamento.
 
 ## Lista de verificação de funcionamento
-1. Identificar o tipo de entidade e o método correcto (免抵退 vs 免退).
+1. Identificar o tipo de entidade e o método correcto (exemption-credit-refund vs exemption-refund).
 2. Classificar o código HS exato e procurar a taxa de reembolso **current**.
 3. Recolha de declaração, factura especial IVA e provas de recepção FX para que se reconciliem.
 4. Arquivo dentro do período prescrito; verificação completa/desativação.
@@ -36,22 +36,22 @@ Os atrasos no reembolso da exportação de veículos raramente são sobre a taxa
 Não são aqui indicadas taxas, prazos fixados ou montantes específicos para cada caso; todos são específicos do SH e do tempo e são obtidos a partir de avisos de corrente STA/MOF.
 
 ## Perguntas Frequentes
-** Que método usa uma fábrica?** Geralmente isenção–crédito–reembolso (免抵退).
-** Qual é o uso de uma empresa comercial?** Em geral, isenção–reembolso (免退).
+** Que método usa uma fábrica?** Geralmente isenção–crédito–reembolso (exemption-credit-refund).
+** Qual é o uso de uma empresa comercial?** Em geral, isenção–reembolso (exemption-refund).
 ** Qual é a taxa de restituição para os carros?** É específico do HS e muda — pesquise-o por código exato; não está aqui indicado.
 ** Quando é que arquivo?** Após a declaração de exportação com documentos correspondentes, dentro do prazo fixado.
 ** Por que FX e alfândegas devem corresponder?** O reembolso baseia-se na consistência entre bens-fluxo/fundos-fluxo.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退 (免) 税管理办法 (税务总局公告) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | NC | T1 | VERIFICADO | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | NC | T1 | VERIFICADO | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
-| 进出口税收热点问题 (2026 年 7 月) | 国家税务总局北京市税务局 | NC | T1 | VERIFICADO | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| Administração Fiscal do Estado (STA) | STA 国家税务总局 | NC | T1 | VERIFICADO | https://www.chinatax.gov.cn/ | Autoridade de reembolso/isenção do IVA para exportação |
-| GACC — declaração de exportação como base de verificação do IVA-reembolso | Administração Geral das Alfândegas da China (海关总署 GACC) | NC | T1/T2 | VERIFICADO | http://www.customs.gov.cn/ | Os dados relativos à declaração aduaneira de exportação são comparados pelas autoridades fiscais para verificar a elegibilidade da restituição/isenção do IVA à exportação |
-| STA — índice de política de reembolso do IVA para exportação (página mais profunda) | Administração Fiscal do Estado (国家税务总局) | NC | T1/T2 | VERIFICADO | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Coluna de política de autoridades fiscais que contém os anúncios de reembolso/isenção do IVA em vigor para exportação (não se refere aqui a taxa de desconto) |
+| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, exemption-credit-refund申报资料 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | primary | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | exemption-credit-refund/exemption-refund税办法定义 |
+| 出口货物劳务exemption-credit-refund税和exemption-refund税如何计算 | 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
+| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | primary | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
+| State Taxation Administration (STA) | STA 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
+| GACC — export declaration as VAT-refund verification basis | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility |
+| STA — export VAT refund policy index (deep page) | State Taxation Administration (国家税务总局 STA) | CN | primary/independent | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here) |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

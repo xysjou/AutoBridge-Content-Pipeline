@@ -23,15 +23,15 @@
 - ** 카고 상자 안 **: 约 4220 × 2075 × 400.
 
 ## 인증 사양 표 (중국 시장 참조)
-| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
+| 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
-| 엔진 d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| 엔진 d25 토크 | 400 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| 파워 트레인 ankang160 | 安康 160 + 6 挡全铝变速箱 + AAM 后桥 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| curb 무게 | 2.565 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| 뚱 베어 | 4.495 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| 정격 payload | 1.735 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
-| 화물 상자 안 | 约4220×2075×400 | mm (mm) mm (mm) mm | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 卡车之家镜像 |
+| 엔진 d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 | - - - | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| 엔진 d25 토크 | 400 | · | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| 파워 트레인 ankang160 | 安康 160 + 6 挡全铝变速箱 + AAM 后桥 | - - - | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| curb 무게 | 2.565 | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| 뚱 베어 | 4.495 | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| 정격 payload | 1.735 | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
+| 화물 상자 안 | 约4220×2075×400 | mm (mm) mm (mm) mm | 담당자: Mr. Li | single source(싱글) | 卡车之家镜像 |
 
 ## 빛 트럭 수출 검사: 대량은 canonical 근원을 필요로 합니다
 엔진 및화물 상자 데이터는 미러링 트럭 데이터베이스 소스에서 온다, 그러나 ** GVW kerb Payload 단일 미러에 나머지는 360che 운하 페이지, JAC OEM 재료 또는 MIIT 발표** 그들은 선적 또는 균질화에 사용되기 전에. 타이어, 후면 액슬 비율 및 연료 탱크 크기는 캡처되지 않습니다. 수출 및 직행 드라이브 사양은 여기에 설치되지 않습니다.
@@ -52,16 +52,16 @@
 **엔진?** Yunnei D25TCIF1 2.5 L 디젤, 캡처 된 라인에 150 hp 400 N·m.
 ** 타이어 차축 세부 사항이 있습니까? ** 붙잡지 않는; OEM 건축판을 요구하십시오.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. wang | T3 | CROSS_체크 | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃 V6 配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. wang | T3 | CROSS_체크 | http://m.toutiao.com/group/6889691682774876685/ 경우 | 云内 D25 参数, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, 货厢, |
-| 骏铃 V6 车型 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. wang | T3 | CROSS_체크 | http://m.toutiao.com/group/6807685915310293507/ 경우 | 安康 160,  变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) | 58 同城二手车년 | 담당자: Mr. wang | T4 | CROSS_체크 | https: | 市场存在性线索 | https://m.58.com/sz/huochec/59653082843796x.shtml
-| JAC의 모터 공식 사이트 | 안후이 Jianghuai 자동차 JAC 江淮 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: 이메일: info@jac.com | 선 ID와 OEM 권위 | https://www.jac.com.cn/
-| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/ 를 | 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
-| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-05

@@ -2,7 +2,7 @@
 
 ## SEO元数据
 - **SEO标题**: GAC 川普奇 M8 2024 MPV 光谱,系列和座位出口指南
-- **Meta描述**: 2024  GAC  Trumpchi M8 China reference specs: 师傅/外公对凌雪系列, 2.0TGDI 185 kW, (英语).  8AT,  7-seat layout, 维度,  and  海外买家核查点.
+- **Meta描述**: 2024  GAC  Trumpchi M8 China reference specs: 师傅/外公对凌雪系列, 2.0TGDI 185 kW,   8AT,  7-seat layout, 维度,  and  海外买家核查点.
 - **H1**: GAC 川普奇 M8 2024 (中国: MPV 进口商的席位和规格图
 - **核心关键词**: GAC 川普奇 M8 2024 规格出口
 - **次级搜索词**: Trumpchi M8 7-seat  MPV , GAC M8 2.0TGDI 8AT 号, 特朗普奇 M8号 大师系列 中国奢侈品MPV出口, GAC M8 (单位:千美元) 中东
@@ -23,7 +23,7 @@
 
 | 系列 | 长度 × 宽度 × 高度 | 轮式基地 | 引擎 | 托克语Name |
 |---|---|---|---|---|
-| 宗师 维基月球 外婆 大师 (中文(简体)). 师父 | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
+| 宗师  外婆 大师  师父 | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 凌雪(390T)  Ling. | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
 功率输出在185 kW相同,但外婆/大师校准峰值为400 N·m,灵芝390T型机车的390 N·m级——这个小而真实的差异不应该被平整成一个单一的"M8扭矩"数字. 外婆/大师尺寸和轮式基座与GAC官方网页相对应**VIFIED**;凌旭值通过Automome/Yiche进行交叉核对.
@@ -54,7 +54,7 @@
 - GAC发布海外GAC M8配置;**不要将中文维度/功率复制到输出的VIN**——匹配目的地官方表.
 - 确认目标国家** LHD/RHD**可用性,以及具体系列是否以该方向布局制作。
 - 核查中国规格汽油MPV的排放标准接受程度、燃料等级和目的地同位化情况。
-- 确认中国大陆境外的信息娱乐语言,导航和连接服务,加保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保保的保保保保保保保保保保保保保保保保的保保保保保保保保保保的保保保保保保保保的保保保保保保保保保保的保保保保保保保保保保保保保保保保保保保保保保的保保的保保保
+- 确认中国大陆境外的信息娱乐语言,导航和连接服务,加保的保保的保保保
 - 如果客户特别想要**hybrid(双擎)**,请要求其单独的官方规格——本页不推断汽油车的混合电池/机动车数字.
 
 ## 手册以外的自动包干
@@ -110,18 +110,18 @@ AutoBridge发行直播报价而不是静态价格列表. 中国国内价格—�
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 官方网站(英文) | GAC Trumpchi (official) | 氯化萘 | https://www.gacmotor.com/m8xds_new/empow01.html 维基月球 | 2026-09-02 | 实录 | 5212 mm具尸体,3070 mm WB,2060 kg,2.0TGDI |
-| GAC M8 海外配置 | GAC集团(官方) | | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 维基月球 | 2026-09-02 | 实录 | 185 kW/252 PS,7席,暂停赛事. |
-| 2024 M8 宗师 汽油官员 | GAC Trumpchi (official) | 氯化萘 | https://www.gacmotor.com/2024m8zs_new/ 维基月球 | 2026-09-02 | 实录 | 2.0TGDI + 8AT,  400 N·m, 国内价格 |
-| 凌雪 390T 配置 | 自动家庭(汽车之家) | 氯化萘 | https://dealer.autohome.com.cn/2133191/spec_68518.html 维基月球 | 2026-09-02 | 横跨 | 5089 mm具尸体,3000 mm WB,390 N·m,WLTC 8.85 |
-| M8个参数 | PCauto (太平洋汽车) (英语). | 氯化萘 | https://price.pcauto.com.cn/m128883/config.html 维基月球 | 2026-09-02 | 横跨 | 轮基地分割,系列绘图 |
-| 灵寿配置 |  Yi切(易车). | 氯化萘 | https://car.yiche.com/chuanqigm8/m173683/peizhi/ 维基月球 | 2026-09-02 | 横跨 | 凌寿尺寸,国内价格 |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-* 信使注(AutoBridge标准):GAC自己的页面(制造商官方)上,外婆/Master核心谱系为VIFIED;凌雪值为CROSS_CHECKED,跨越独立数据库. 400对390 N·m校准是故意按序列分开的;杂交(双擎)谱号不主张. * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

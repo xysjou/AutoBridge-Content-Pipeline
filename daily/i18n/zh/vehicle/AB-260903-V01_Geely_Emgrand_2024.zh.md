@@ -4,7 +4,7 @@
 - **Meta描述**: 中国市场4th-generation 吉利Engrand 2024 — 1.5L 93 kW引擎,5MT/ CVT,维度,4th-gen对全新5th-gen的区分,以及进口商在订购前必须核实的.
 - **H1**: Geely Engrand 2024 (4th Generation):中国市场标本与出口检查
 - **核心关键词**: 宝石 2024 光谱导出
-- **次级搜索词**: 吉利Empgrand 1.5L CVT 4th 一代Empgrand 维度,中国进货轿车出口,吉利Empgrand 93kW 年差 吉利Empgrand 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差 年差
+- **次级搜索词**: 吉利Empgrand 1.5L CVT 4th 一代Empgrand 维度,中国进货轿车出口,吉利Empgrand 93kW 年差 吉利Empgrand 年差
 - **建议URL**: /vehicles/geely-emgrand/
 - **搜索意图**: 了解吉利Engrand 2024(4th Generation):中国市场标本和出口检查:车辆/零件出口商在承诺订购前必须核实、记录和决定的内容。
 - **内链建议**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
@@ -16,7 +16,7 @@
 爱姆格朗是吉利公司高容量的紧凑型轿车,也是价格敏感的进车市场的一个自然候选. 进口商的陷阱是世代相传的: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: 中国)**,  while an **all-new 5th generation launched in China in November 2025** with a longer body, 长轮式基座  and  a 起点价格较低。 引用2024单位对5th-gen维度——或反之,是这个名牌上唯一最常见的顺序错误. 将下图作为**中国市场参考规格**; 目的地市场引擎调谐,排放级和设备由当地同调,而不是本表管辖.
 
 ## 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,燃料,排放) 中马变体与驱动线(ICE焦点:发动机,变速箱,燃料,燃料,燃料,排放) 中马变体(CF) 中马变体(CF) 中马变体(CFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFA
-| 项目 | 4th-gen 维基月球 Engrand 2024(中国参考文献) |
+| 项目 | 4th-gen  Engrand 2024(中国参考文献) |
 |---|---|
 | 车身样式 | 4-door, 5-seat 沙龙 |
 | 引擎 | 1.5L 天然吸入内燃机- 4 汽油 |
@@ -81,19 +81,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 4th-gen 维基月球 嵌入式1.5L CVT 剪贴板 | 索胡汽车数据库 | 氯化萘 | https://db.m.auto.sohu.com/trim_173890 维基月球 | 2026-09-03 | 横跨 | 尺寸、轮基、座椅、价格参考 |
-| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar/ 图蒂亚媒体 | 氯化萘 | http://m.toutiao.com/group/7372041648991961639/ 维基月球 | 2026-09-03 | 横跨 | 1.5L 93 kW, 传送 |
-| Emgrand 多版本参数比较 | 东赫迪数据库 | 氯化萘 | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 维基月球 | 2026-09-03 | 横跨 | 轮式基地,国内版本 管理系统更新项目(TIME_SENSION) |
-| 5th-generation 维基月球 升降(世代边界) | 中国经济 网易(官方媒体). | 氯化萘 | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml 维基月球 | 2026-09-03 | 时间(_S) | 5th-gen 尺寸/轮基/价格;区分世代 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensions, wheelbase, seats, price reference |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissions |
+| Emgrand multi-version parameter comparison | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Wheelbase, versions, domestic MSRP (TIME_SENSITIVE) |
+| 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME_SENSITIVE | 5th-gen size/wheelbase/price; distinguishes generations |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* 说明:没有为本模型捕获OEM主谱表;数字是交叉核对的中国数据库/介质值。 127 N·m扭矩为单源. 国内价格和5th-generation发射时间敏感. VIN必须确认目的地同源化和导出规格。 * 报告迟交是因为需要翻译。
+*Confidence note: no OEM primary spec sheet was captured for this model; figures are cross-checked Chinese database/media values. The 127 N·m torque is single-source. Domestic price and the 5th-generation launch are time-sensitive. Destination homologation and export specs must be confirmed for the VIN.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

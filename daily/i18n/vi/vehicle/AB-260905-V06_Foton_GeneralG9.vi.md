@@ -28,16 +28,16 @@
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
 | Động cơ diesel | 2.0T 4F20 柴油 | - | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 新浪 |
-| Năng lượng diesel | 120 (163Ps) | kW | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| Năng lượng diesel | 120 (163Ps) | kW | TRUNG QUỐC | single source | 太平洋汽车 |
 | Name | 390 或 415（版本差异，未锁定） | N·m | TRUNG QUỐC | CONFLICT | 太平洋 đấu 懂车帝 2025 款详表 |
-| Năng lượng động cơ xăng | 175 | kW | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| Mô-men xoắn xăng | 360 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| gửi | 6MT 8AT | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| Tùy chọn đĩa | 后驱 适时四驱 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| Năng lượng động cơ xăng | 175 | kW | TRUNG QUỐC | single source | 太平洋汽车 |
+| Mô-men xoắn xăng | 360 | N·m | TRUNG QUỐC | single source | 太平洋汽车 |
+| gửi | 6MT 8AT | - | TRUNG QUỐC | single source | 太平洋汽车 |
+| Tùy chọn đĩa | 后驱 适时四驱 | - | TRUNG QUỐC | single source | 太平洋汽车 |
 | wb ngắn mờ | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 新浪 |
-| wb dài mờ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车百科 |
-| đình chỉ | 前双叉臂 后整体桥 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| thải chuẩn | 国 VI(0 # 柴油) | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| wb dài mờ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | TRUNG QUỐC | single source | 太平洋汽车百科 |
+| đình chỉ | 前双叉臂 后整体桥 | - | TRUNG QUỐC | single source | 太平洋汽车 |
+| thải chuẩn | 国 VI(0 # 柴油) | - | TRUNG QUỐC | single source | 太平洋汽车 |
 
 ## Kiểm tra xuất khẩu: giường, khoang lái và xung đột mô-men xoắn
 Lệnh thu hồi thường thất bại nhất trên giường dài và huấn luyện viên. Chọn cơ sở bánh xe ngắn hoặc dài và khớp với kích thước giường; chọn 4WD nơi mà tòa nhà xác nhận trường hợp chuyển giao/ giảm. Cuộc xung đột đỉnh diesel (390 đấu 415 N·m) là ** chưa được giải quyết theo mục đích** — lấy tờ OEM cho chính xác mã vị của mã vị VIN thay vì chọn số có ích. Không ai được phép kéo hàng khối người và không được ước lượng. Xác nhận giai đoạn thải (Cina-VI diesel, 0 nhiên liệu) chống lại chất lượng nhiên liệu đích và quy tắc nhập học.
@@ -56,17 +56,17 @@ Khả năng kéo là gì? Không bị bắt; không ước tính — hãy dùng 
 ** Kích thước dài? Một nguồn ở đây; kiểm tra chéo trước khi đặt hàng.
 ** Nhiên liệu nào dùng cho dầu diesel? Trung Quốc-VI, 0 - diesel; xác nhận nhiên liệu đích tương thích.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军 G9 车型百科 | 太平洋汽车百科 | CN | T3 | ĐÃ_ ĐÃ | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱. 动力 |
-| 大将军 G9 配置 | 太平洋汽车 | CN | T3 | ĐÃ_ ĐÃ | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱. 四驱 |
-| 大将军 G9 车型页 | 太平洋汽车 | CN | T3 | ĐÃ_ ĐÃ | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军 G9 参数 | 新浪汽车车型库 | CN | T2 | ĐÃ_ ĐÃ | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军 G9 配置库 | 买车网 | CN | T3 | ĐÃ_ ĐÃ | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Nơi Mạng chính thức của Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VEII | https://www.foton.com.cn/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

@@ -34,7 +34,7 @@ GACC สั่งซื้อหมายเลข 277 (โครงการใ
 |---|---|---|
 | ~การตรวจสอบล่วงหน้า~ | รหัสอยู่ในแคตตาล็อกปัจจุบัน กฎหมายต้องการ | - |
 | **Buyer's third-party PSI** | ต้องการสัญญา L/C ผู้ซื้อ | ไม่ — PSI ไม่ เคย ทํา หน้า ที่ คัด เลือก ขั้น สุด ท้าย |
-| ~ ใ/ร/บ/บบรออออ ง/ก/บ/บ/บ/บ/บ/บ/บ/บบ/บ/บ บ บ/บ/บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ บ/////////////////////////////////////////////////////////////////////////////////////////////////////////////// BEV* | แบตเตอรี่-อิเล็กทรอนิกส์ รถโดยสาร (อ้างอิงรหัส 8703801090) ภายใต้การบริหารระบบราชการของกรมพาณิชย์จาก 2026-01-01 (4-0. | ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ ไม่ ต ต ต ต จ จ จ จ จ ส ส ส อ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ แ ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท ท น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น
+| ~ ใ/ร/บ/บบรอ ง/ก/บ/บ/บ/บ/บ/บ/บ/บบ/บ/บ บ บ/บ/บ/////////////////////////////////////////////////////////////////////////////////////////////////////////////// BEV* | แบตเตอรี่-อิเล็กทรอนิกส์ รถโดยสาร (อ้างอิงรหัส 8703801090) ภายใต้การบริหารระบบราชการของกรมพาณิชย์จาก 2026-01-01 (4-0. | ไม่ ต จ ส ส ส อ แ ท น
 
 PSI ผู้ซื้อเป็นการตรวจสอบเชิงพาณิชย์ ไม่ใช่สิทธิ์ในการปกครองแบบจีน และใบอนุญาตส่งออก BEV เป็นเครื่องมือการค้าการค้า ไม่ใช่การตรวจสอบสินค้า
 
@@ -67,24 +67,24 @@ PSI ผู้ซื้อเป็นการตรวจสอบเชิง�
 - ~! ~: รี เฟ รน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ สกา รา ซิ ยง — การ ตรวจ สอบ ระยะ สุด ท้าย ก่อน จะ ส่ง ออก รถยนต์ กัว ยา เดอ คอม พา รา ส ปา รา ปา รา ปา รา เดอ วี อา คู ลัส
 -~PT~: เรเฟอร์เรน เซีย ออ โต เบรก กัว พา เร ตา โดเร เด เอ สกา ซา อา นา — การ ตรวจ สอบ ระยะ สุด ท้าย ก่อน จะ ส่ง ออก รถยนต์ กัว อา เด คอม คราส พารา ซา วา เด เว คู อส
 - ~JA~: TOPBridge 輸出バイヤー向けリファレンス | การตรวจสอบสถานภาพ ก่อนที่จะส่งออกรถ ○ 調達ガイド
--~~~: AutoBridge 수출 바이어 참고 자료 | | | | สืบค้นข้อมูลการบริการรถ ก่อนการส่งออก 자동차 조달 조달 가이드 가이드 가이드 가이드 가이드
+-~~~: AutoBridge 수출 바이어 참고 자료 | | | | สืบค้นข้อมูลการบริการรถ ก่อนการส่งออก 자동차 조달 조달 가이드
 - ~วูฟ~: Thai liju Thamkho Auto Bridge ju ng i i i gua xu at khu — การตรวจสอบการรถก่อนการส่งออก hkhng dukn au au au au yo ni at khu xee
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Statutory inspection before vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
   - **ID**: Referensi AutoBridge untuk pembeli ekspor — Statutory inspection before vehicle export, panduan pengadaan ekspor kendaraan
--~~~: مرجع ออโตไบร์ด لمشتري ا لتصدير لتصدير لتصدير — การ ตรวจ สอบ สแตท ตู รี ก่อน การ ส่ง ออก รถยนต์ دليل مشتري ت تصدير تصدير تصدير لمركب ا ا ا ا ا ت ت ت ت ت
+-~~~: مرجع ออโตไบร์ด لمشتري ا لتصدير لتصدير لتصدير — การ ตรวจ สอบ สแตท ตู รี ก่อน การ ส่ง ออก รถยนต์ دليل مشتري ت تصدير تصدير تصدير لمركب ا ت
 - ~ZH~: TOPBridge 出口采购参考 | การตรวจสอบการวางจําหน่ายก่อนที่จะส่งออกรถ ○
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ดัชนีพื้นฐานทางกฎหมาย — Export Commodity lection พระราชบัญญัติการบรรลุนิติบัญญัติและใช้ข้อกําหนด | กรมควบคุมทั่วไปของประเทศจีน (GNCC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | ISWIID (pril; เปิดในเบราว์เซอร์, ปิดการใช้งานอัตโนมัติ) | ชื่อกฎหมายการออกเสียงปัจจุบัน (2021 การแก้ไข) และใช้ระเบียบเกณฑ์การตรวจเฟรมแบบตรวจวัด; รายการรายการสถิติเฉพาะ (PDF) ยังตรวจสอบต่อ LA 10-digit HS |
-| เอ็กซ์พอร์ต News (GACC สั่งซื้อที่ 277 ในบังคับ 2025-05-01)) | กรมศุลกากรของประเทศจีน (GACC) ผ่าน Gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | ISIFIE (เมษายน) | กรอบกฎหมายสําหรับประกาศการส่งออกในปัจจุบัน เจาะจงหรือเปล่า 10-digit สาย HS ถูกตรวจสอบแบบคงที่แล้ว ยังตรวจสอบ HS ต่อ HS |
-| คู่มือบริการอินเทอร์เน็ต + Customs (การตรวจสอบระดับชั้น = Categator/ legal-requictions) | แบบ GPC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | ISIFIE (เมษายน) | กฎการออกเสียง |
-| GCCC แจ้งให้ทราบ 2024 No. 163 (Sceplications101010 สืบค้นเมื่อ 16 พฤษภาคม พ.ศ. ส่งออกเสียง = ของเล่นเด็ก) | แบบ GPC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | ISIFIE (เมษายน) | ขอบเขตการสุ่ม |
-| เรียงลําดับ ACC หมายเลข 277, การติดตั้ง ปฏิญญา | สมาชิกสภารัฐกาเซตต์ โกฟ.เซน | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | ISIFIE (เมษายน) | ด็อกที่ทําหน้าที่แทน หนี้สิน |
-| ประกาศสี่นาที เรื่องรถส่งส่งของ บีแอนด์วี 8703801090 จาก 2026-01-01) (พ.ศ. | OMFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | เวลา_ปัจจุบัน (วันจันทร์) | ส่วนเสริม vs การตรวจสอบความแตกต่าง |
-| GCC แจ้งให้ทราบ 2025 No. 138 (ก่อนกําหนดโปรแกรมปรับแต่งสิทธิ์) | แฟ้มที่กําหนดเอง | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | การปรับค่าโพรเซสให้น้อยที่สุด |
-*ขอบเขตการตรวจจับ: กรอบการตรวจสอบโดยแหล่งหลัก; หมวดหมู่ผลลัพธ์สําหรับรหัสสิบหลักใด ๆ ที่ระบุจะต้องตรวจสอบสดและไม่ได้มีการทั่วไป *
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

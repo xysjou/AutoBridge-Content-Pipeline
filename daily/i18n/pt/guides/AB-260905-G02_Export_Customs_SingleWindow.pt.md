@@ -42,15 +42,15 @@ Não fornece um código HS específico ou condição de supervisão (que são po
 ** E se a declaração for rejeitada?** Corrija os campos marcados e reenviar com documentos consistentes.
 ** São as taxas de corretagem fixas?** Não — elas variam e não são citadas aqui.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物申报管理规定 (海关总署令第 277 号) | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
-| 海关总署令第 277 号 (国务院公报) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
-| 进出口货物申报指南 (单一窗口录入与登录) | 中国贸促会宁夏委员会 | NC | T1 | VERIFICADO | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口 IC 卡 /USBKK 登录, 电子申报 |
-| 出口大型货物手续流程 (申报 - 缴税 - 放行) | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
-| WCO — Procedimentos aduaneiros e facilitação (Janela única/Gestão coordenada das fronteiras) | Organização Mundial das Alfândegas | INT | T1/T2 | VERIFICADO | https://www.wcoomd.org/en/topics/facilitation.aspx | Quadro internacional de gestão das fronteiras único e coordenado que os portais nacionais de declaração aplicam |
-| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | Organização Mundial do Comércio | INT | T1/T2 | VERIFICADO | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | O artigo 10.4 do AFT obriga os membros a permitir aos comerciantes apresentar documentação de importação/exportação através de uma única janela |
+| 中华人民共和国海关进出口货物申报管理规定（海关总署令第277号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
+| 海关总署令第277号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
+| 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
+| 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

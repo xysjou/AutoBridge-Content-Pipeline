@@ -34,7 +34,7 @@ Sebuah PHEV membawa ** Dua *** kisaran nomor yang pembeli konflate: ** Hanya kis
 ## Apa AutoBridge Ditambahkan Selain Tabel Spec
 Situs Parameter daftar 55 dan 120 baris tetapi meninggalkan importir untuk melepaskan siklus dan mode. Metode yang direkomendasikan adalah sebuah * VIN-level catatan yang mengikat keluaran motor, baterai kWh, siklus jangkauan listrik dan kemampuan pengisian bersama-sama **, nilai yang ditandai di mana DC pengisian cepat tidak ada (kesalahan perintah umum pada mobil baterai kecil), dan menyatakan arus listrik gabungan jangkauan terpisah sehingga PHIV tidak pernah diiklankan pada nomor kombinasinya seolah-olah itu adalah jangkauan EV.
 ## Sebelum Pembayaran
-- Perbaiki ** 55 atau 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
+- Tetapkan **55 atau 120**, dengan motor yang cocok (132/145 kW) dan baterai yang cocok (8.32/18.32 kWh) pada lembar build VIN.
 - Rekam siklus listrik *** (NEDC vs WLTC) dan dapatkan destination- rank PhEV bersertifikat CO Ichwhere pajak atau insentif bergantung padanya.
 - Konfirmasi konektor dan kemampuan AC DC ** dengan kelas **; jangan asumsikan GB T cocok dengan tujuan soket.
 - Konfirmasi sisi kemudi, infotainment bahasa OTA luar Cina, dan garansi yang mencakup mesin *** dan ** baterai ** dan * motor.
@@ -42,11 +42,11 @@ Situs Parameter daftar 55 dan 120 baris tetapi meninggalkan importir untuk melep
 ## Meminta Kuotasi Ekspor Saat Ini
 Tidak ada harga ekspor statis yang diterbitkan; RMB 79, 800–125, 800 Cina Glory Edition guide price adalah ** domestik, referensi waktu-sensitif, bukan sebuah angka FOB / CIF **. Bertanyalah dengan ** Negara Tujuan ** Negara (55/120) & Tingkat
 ## Pertanyaan Yang Sering Muncul
-What differs between the 55 and 120? 120 memiliki baterai 18.32 kWh, motor 145 kW yang kuat, jangkauan listrik yang lebih panjang dan percepatan lebih cepat; 55 menggunakan 8.32 kWh dan 132 kW.
+Apa beda 55 dan 120? Versi 120 punya baterai 18.32 kWh, motor 145 kW yang lebih bertenaga, jangkauan listrik lebih panjang dan akselerasi lebih cepat; versi 55 memakai 8.32 kWh dan 132 kW.
 ** Apakah 1.5L unit drive utama? ** Dalam DM-i itu terutama generator bantuan; motor listrik menyediakan drive primer.
 Kenapa dua engsel listrik? Cina memberi label NEDC dan WLTC (120 NEDC = 101 WLTC); selalu mengutip siklus.
 ** Apakah jangkauan listrik 1245 km? ** Tidak - itu adalah gabungan bahan bakar + baterai tokoh Cina; listrik - hanya adalah paling 120 km NEDC.
-Is it sold outside? BYD mempersembahkan Qin Plus DM-i pada pemilihan di luar negeri halaman pasar; gunakan lembar tujuan resmi. Setiap nama yang berbeda memerlukan konfirmasi BYD eksplisit - sebuah BYD PHIV tampak tidak diasumsikan untuk menjadi model yang sama.
+Apakah dijual di luar negeri? BYD menampilkan Qin Plus DM-i pada halaman pasar luar negeri tertentu; pakai lembar resmi tujuan. Setiap nama berbeda butuh konfirmasi eksplisit BYD — sebuah BYD PHEV di luar negeri tidak boleh diasumsikan sebagai model yang sama.
 ## Rekor Gambar
 - IMAGE_ASSET_PATH: none secured in repository
 - ORIGINAL_IMAGE_URL: not captured
@@ -73,18 +73,18 @@ Is it sold outside? BYD mempersembahkan Qin Plus DM-i pada pemilihan di luar neg
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| BYD PLUS DM-i halaman daerah resmi (en-bh = Bahrain country site) | BYD (** produsen resmi **) | Ekspor ** Bahrain (halaman regional en-bh; bukan UAE) ** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ** Tersebar (scope: ini bernama Qin Plus DM-i saja) *  | 18.3 kWh pak, sampai 197 hp 145 kW, 7.3 s untuk bernama Qin Plus DM-i |
-| "Kisah Kemuliaan 55/120" | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | _ BERDECAT | Dimensi, 1.5L 81 kW, 132 kW motor, E- CVT, jangkauan |
-| Luncurkan detail Edisi Kemuliaan | Chejiahao Autohome | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | _ BERDECAT | 145 kW 325 N·m, 18.32 kWh, kutipan kombinasi-jangkauan |
-| Qin Plus config | Xcar (爱卡) PCauto Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | _ BERDECAT | Berat bahu, roda, NEDC WLTC, baterai |
-| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE _ SOURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE _ SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE _ SOURCE | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-* Catatan confidence (standar AutoBridge): keluaran baterai-large- baterai / pack sedang diedarkan pada BYD 's sendiri Qin Plus DM-i halaman (en-bh / Bahrain); angka versi Cina adalah CROSS _ CHECWD. Angka gabungan 1245 km adalah SINGLE _ SOURCE dan Cinese- cycle nomor gabungan. Angka luar negeri hanya digunakan dari BYD halaman yang secara eksplisit nama "Qin Plus DM-i"; tidak ada SAME _ Hubungan MODEL yang berbeda dengan yang bernama BYD PHEV dianjurkan tanpa bukti eksplisit OEM (RELATED _ MODEL ASAME _ MODEL). ♪
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

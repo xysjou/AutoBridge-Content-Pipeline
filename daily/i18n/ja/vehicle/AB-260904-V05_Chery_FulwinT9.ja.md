@@ -83,22 +83,22 @@ PHEV 用 輸出業者は、**エンジン、モーター、バッテリー、充
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 の牽引電池の安全条件(国民の標準) | SAMR/標準化管理 | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | C-DMの高圧パックに関連するトラクションバッテリー安全ベースライン |
-|  GB  18352.6-2016/XG1-2026 の軽車排出の限界 (中国 6) | エコロジー・環境省 |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 現在の中国 - 1.5T 専用エンジン (中国 - 6b 参照) のための 6 の放出フレーム | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
-| フォルウィンT9公式設定テーブル | チェリー フーウィン (OEM) | CN の | 以下は、 https://fulwin.chery.cn/vehicles/t9/config/ の一覧 | 2026-09-04 | 検証済み(OEM) | 電池、次元、座席、充満、版 |
-| ファーウィンT9 ハンドオン | ドンケディ | CN の | 以下は、 https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED(クロス) | 寸法、モデル年境界 |
-| フォルウィンT9 120 ロングレンジフラッグシップ config | Autohome 設定 | CN の | 以下は、 https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED(クロス) | 32.66 kWhの電気範囲、モーター |
-| フルウィンT9バッテリー&EVレンジ解析 | オートホーム・ケジアオ | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | シングル_ソース | 電池、CLTC/WLTCの範囲、充満時間 |
-| ウルウィンT9の発売と寸法 | Sohu Autoデータベース | CN の | 担当: http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 の | 2026-09-04 | CROSS_CHECKED(クロス) | 中型 PHEV SUV サイズ、国内価格 |
-| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN の | 以下は、 https://fulwin.chery.cn/vehicles/t9/config/ の一覧 | 2026-09-04 | 検証済み | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-※本会議ノート:OEM構成ページ(VerIFIEDアンカー)、充電時間と貨物の量は単元です。組み合わせた範囲はメーカーのクレームです。 スタンダードT9のみ — T9L は除外されます。 ふりがな
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国、標準のフルウィンT9 C-DM(中国市場参照; CLTC/WLTC ラベル付き; グローバルな仕様ではありません)
 - **検証方法**: OEM の構成は固定しました; 標準的な対の長輪基は隔離しました; 工場要求は属性しました

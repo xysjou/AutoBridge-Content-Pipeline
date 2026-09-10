@@ -42,16 +42,16 @@
 ** أين قائمة المدينة التجريبية؟** وفي آخر إشعار من - لا تعتمد على قائمة ثابتة.
 ** هل تغطي هذه القواعد المتعلقة باستيراد الوجهة**؟ لا - تلك منفصلة ومحددة ببلدان محددة.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
-| | 关 关 第关 中 中 中 范 中 中 中 国府网网 府 府 大 大 大 CN | T1 | مفقود مفقود مفقود مفقود مفقود https://www.gov.cn/zhengceku/2022-12/06/content_5730345.htm | |м 点, 企 企 企 企м 企 企 企 企 企 企 企 企 企 企 企м 企м 企 企 企 企 企 企 企 企 企 企 企 企 企 企 企 企 企 企 | 企 企 企 企 企 企 企 企 企 | 企 企 | | 企 企 | | | | | 企 | 企 企 | | 企 | | | 企 企 | | | | | | | 企 | | | | |
-| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规, 登记一致性, 许可证附表 |
-| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | الوقت - | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/ | السلطة المختصة بإصدار تراخيص التصدير ومراقبة الصادرات |
-| GO署MENT FOR - RELATED IN RELATED | General Administration of Customs of China (POPRC) | CN | T1/T2 | | http://www.customs.gov.cn/ | appIIUSSIWIR, − Institutaires ص.
-|大会议的国会的国会的国会的国会的.的.的.的.的.的.的.的.的.的.的. . . T. T1/T2 | | | | |的.。 (T.2  وليس。  وليس http://www.cada.cada.cn/ .  تصدير的。 ?
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | primary | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| General Administration of Customs of China (GACC) — used-car export supervision | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing |
+| China Automobile Dealers Association (CADA) — used-car export industry body | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | primary/independent | VERIFIED | http://www.cada.cn/ | Industry association context on used-car export development and enterprise practice (independent database, not a regulator) |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

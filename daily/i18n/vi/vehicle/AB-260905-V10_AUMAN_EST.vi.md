@@ -26,18 +26,18 @@
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| est510 guowu | 国五EST510：福康ISGe5-510/X12，6x4，公告型号BJ4259SNFKB-AA | - | TRUNG QUỐC | SINGLE_SOURCE | 抖音百科 (T4)+ 汽车之家 |
-| guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Tùy chọn hộp số | ZF 12TX2621TD (AMT)/ 法士特 16 挡 | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| gcw máy kéo | 牵引总质量约 40t 级 (6x4 主流). | t | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家 + 百科 |
-| dòng riêng | 2026纯电牵引申报：双电机峰值350kW，总质量25000kg | - | TRUNG QUỐC | SINGLE_SOURCE | 新浪财经 |
+| est510 guowu | 国五EST510：福康ISGe5-510/X12，6x4，公告型号BJ4259SNFKB-AA | - | TRUNG QUỐC | single source | 抖音百科 (directory/listing)+ 汽车之家 |
+| guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Tùy chọn hộp số | ZF 12TX2621TD (AMT)/ 法士特 16 挡 | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| gcw máy kéo | 牵引总质量约 40t 级 (6x4 主流). | t | TRUNG QUỐC | single source | 汽车之家 + 百科 |
+| dòng riêng | 2026纯电牵引申报：双电机峰值350kW，总质量25000kg | - | TRUNG QUỐC | single source | 新浪财经 |
 
 ## Kiểm tra xuất khẩu máy kéo: thế hệ thải, GCW và ranh giới BOV
 Luôn luôn nói rằng đơn vị này là Trung Quốc-V (cơ quan) hay hiện tại Trung Quốc-VI; không trình bày một đơn vị Trung Quốc-V như hiện nay. Rộng rãi GCW, tải bánh xe thứ năm và GVW yêu cầu thông báo đồng nhất cho các mã cụ thể. Việc tiêu thụ nhiên liệu/tải không được phép bị giữ lại vì dầu diesel hoặc BOV. Máy kéo 2026 (twin-motor 350 kW, 25 000 kg) được báo cáo là một dòng năng lượng riêng **, không phải là một biến thể của hệ thống dầu diesel.
 
 ## Cửa hàng ngoài biển xác nhận trước khi thanh toán
 1. State China-V (địa lý) đấu với điện Trung Quốc-VI; không bao giờ tái định nghĩa cũ như hiện tại.
-2. Obtain exact GCW/fifth-wheel load from the homologation announcement.
+2. Lấy chính xác tổng trọng lượng kéo/tải bàn kéo từ công bố homologation.
 3. Giữ dầu diesel và máy kéo bên trong cho máy hút bụi theo lệnh riêng.
 4. Xác nhận ZF AMT và các kết quả Hướng dẫn sử dụng nhanh, công đoạn và quy tắc nhập khẩu điểm đến.
 5. Yêu cầu một trích dẫn xuất khẩu hiện thời; chưa xuất bản.
@@ -49,17 +49,17 @@ Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không
 ** Hộp số nào? ** ZF 12TX AMT hay Fast 16-speed, bằng cách xây dựng.
 ** X13 đầu ra? 12.9 L, 412 kW 560 hp, 2600 N·m trên đường dây Trung Quốc-VI.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 欧曼EST 车型文章 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力, AMT |
-| 欧曼 ES-A 配置 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
-| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | ĐÃ_ ĐÃ | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
-| 欧曼纯电 LNG 牵引车申报 | 新浪财经 | CN | T3 | ĐÃ_ ĐÃ | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
-| Nơi Mạng chính thức của Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VEII | https://www.foton.com.cn/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 欧曼EST 车型文章 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12动力, AMT |
+| 欧曼EST-A 配置 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF变速 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
+| 欧曼EST 510 词条（线索） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼纯电/LNG牵引车申报 | 新浪财经 | CN | media/industry | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026纯电申报（独立新能源线，勿混入燃油） |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

@@ -2,7 +2,7 @@
 
 ## SEO元数据
 - **SEO标题**: Foton Aummark 冷藏卡车光谱和Reefer 构建出口指南
-- **Meta描述**: 福顿·奥马克(英语:Foton Aummark (Ollin)) 隐蔽器: 150 PS (单位:千美元) 吉云底盘, 4.085米绝缘体, GVW 4.495 t, (英语). 热金/家庭单位选项,  and  如何指定出口的冷藏卡车。
+- **Meta描述**: 福顿·奥马克(英语:Foton Aummark (Ollin)) 隐蔽器: 150 PS (单位:千美元) 吉云底盘, 4.085米绝缘体, GVW 4.495 t,  热金/家庭单位选项,  and  如何指定出口的冷藏卡车。
 - **H1**: Foton Aummark冷藏车:分离底盘、隔热体和冷藏股
 - **核心关键词**: Foton Aummark冷藏卡车规格出口
 - **次级搜索词**: 中国的奥林冷藏车,福顿Cummins 2.8冷藏, 热力金刚 T880 Pro卡车,4.5t 冷藏车出口,中国冷链卡车
@@ -15,7 +15,7 @@
 
 ## 如何用冷藏车
 
-冷却器真的 ** 一种产品中有三种: 捐赠底盘, 绝缘货箱, 和制冷装置 - 经常由 不同的制造商。 比较"参考卡车价格" 不命名全部三个 是误导。 参考车是 ** 欧马克·吉云(捷运) 150 PS 4 × 2, (中文(简体)). 整车通知 BJ5041XLC8JDA-AB1 (差错) BJ1041V9JDA-AB1)** 带4.085 m 暗礁体; Foton还出售 苏云(速运)与Foton Cummins 权力。 吉云的详细数字是 单一来源(360che); Cummins Suyun的细节是 与Foton名官员交叉核对 物质。
+冷却器真的 ** 一种产品中有三种: 捐赠底盘, 绝缘货箱, 和制冷装置 - 经常由 不同的制造商。 比较"参考卡车价格" 不命名全部三个 是误导。 参考车是 ** 欧马克·吉云(捷运) 150 PS 4 × 2,  整车通知 BJ5041XLC8JDA-AB1 (差错) BJ1041V9JDA-AB1)** 带4.085 m 暗礁体; Foton还出售 苏云(速运)与Foton Cummins 权力。 吉云的详细数字是 单一来源(360che); Cummins Suyun的细节是 与Foton名官员交叉核对 物质。
 
 ## 底盘和驱动线
 
@@ -98,22 +98,22 @@ Reefer经常引用底盘的价格,并留下盒子和冷却单位模糊. 建议�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Aummark Jieyun 150 暗算器参数 | (卡车之家) (中文(简体)). | 氯化萘 | http://product.m.360che.com/m441/110460_param.html 维基月球 | 2026-09-02 | 横跨 | 公告,云奈引擎,ZF6,重量,盒,单元选项 | 360che
-| 奥尔林官方暗礁页面 | 福顿·奥尔林(官方) | 氯化萘 | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q 维基月球 | 2026-09-02 | 实录 | 中拖车的缓冲引擎选项, 箱长系列 |
-| 苏云冷藏箱交付案 | 福顿·奥尔林(官方) | 氯化萘 | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html 维基月球 | 2026-09-02 | 实录 | 4.2米的冷藏机, 内燃机 库明斯2.8, 18立方米, 3360 世行 |
-| 奥尔林·科勒的文章 | 东赫迪(懂车帝) | 氯化萘 | https://www-lq.dongchedi.com/article/7579095048919908888 维基月球 | 2026-09-02 | 横跨 | 库姆明斯150/163 PS, 470 N·m 维基月球 |
+| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
+| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
+| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
+| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED | Cummins 150/163 PS, 470 N·m |
 
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* 说明(AutoBridge标准): Cummins/Suyun的事实在Foton官方材料上得到了证实,并经过交叉核对;详细吉云宣布数字为SINGLE_SURCE(360che). 珊瑚礁单元模型和价格取决于建筑商和价格,而且价格是核查和核实的;书面确认。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are single source (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

@@ -26,11 +26,11 @@ Der **Foton Daimler AUMAN EST (欧曼 EST)** ist ein schwerer Traktorkopf auf de
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
-| est510 Guowu | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA | - | CHINA | SINGLE_SOURCEN | 抖音百科 (T4) + 汽车之家 |
-| Guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Getriebeoptionen | ZF 12TX2621TD (AMT)/ 法士特 16 挡 | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Zugmaschine | 牵引总质量约 40t 级 (6x4 主流) | t | CHINA | SINGLE_SOURCEN | 汽车之家 + 百科 |
-| bev getrennte Linie | 2026 纯电牵引申报: 双电机峰值 350kW, 总质量 25000kg | - | CHINA | SINGLE_SOURCEN | 新浪财经 |
+| est510 Guowu | 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA | - | CHINA | single sourceN | 抖音百科 (directory/listing) + 汽车之家 |
+| Guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | CHINA | single sourceN | 汽车之家车家号 |
+| Getriebeoptionen | ZF 12TX2621TD (AMT)/ 法士特 16 挡 | - | CHINA | single sourceN | 汽车之家车家号 |
+| Zugmaschine | 牵引总质量约 40t 级 (6x4 主流) | t | CHINA | single sourceN | 汽车之家 + 百科 |
+| bev getrennte Linie | 2026 纯电牵引申报: 双电机峰值 350kW, 总质量 25000kg | - | CHINA | single sourceN | 新浪财经 |
 
 ## Exportkontrollen von Traktoren: Emissionserzeugung, GCW und BEV-Grenze
 Geben Sie immer an, ob die Einheit China-V (historisch) oder aktuell ist China-VI; präsentieren Sie keine China-V-Einheit als aktuell. Genaue GCW, Sattellast und GVW erfordern die Homologationsmeldung für den spezifischen Modellcode. Kraftstoffverbrauch/-reichweite wird weder für Dieselkraftstoff noch für BEV verbindlich erfasst und zurückgehalten. Die 2026 BEV Traktor-Eingabe (Zwillingsmotor 350 kW, 25 000 kg Gesamtmasse) wird als ** separate Energieleitung** gemeldet, nicht als eine Variante des Diesel-EST.
@@ -49,17 +49,17 @@ Geben Sie immer an, ob die Einheit China-V (historisch) oder aktuell ist China-V
 **Welches Getriebe? ** ZF 12TX AMT oder Fast 16-speed, nach Bau.
 ** X13 Ausgabe? ** 12.9 L, 412 kW 560 hp, 2600 N·m auf der China-VI-Linie.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力 AMT |
-| 欧曼 EST-A 配置 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
-| 欧曼 EST 510 词条 (T4 线索) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
-| 欧曼纯电 /LNG 牵引车申报 | 新浪财经 | CN | T3 | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
-| Foton Motor offizielle Website | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://www.foton.com.cn/ | Marken-/Modelllinienidentität und OEM-Behörde |
-| Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
-| Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
+| 欧曼EST 车型文章 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12动力, AMT |
+| 欧曼EST-A 配置 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF变速 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
+| 欧曼EST 510 词条（线索） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼纯电/LNG牵引车申报 | 新浪财经 | CN | media/industry | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026纯电申报（独立新能源线，勿混入燃油） |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

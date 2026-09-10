@@ -16,7 +16,7 @@
 ## مشكلة المشتريات هي مراقبة السيارات، وليس العمل الورقي
 ويعامل المصدرون خيار سندات الشحن على أنه وثائق. وهو قرار ينطوي على مخاطرة بالدفع**: في اللحظة التي تنتقلين فيها من فاتورة قابلة للتداول إلى إطلاق التلكس أو مجرى البحر، تتغيرين عندما تتوقفين عن التحكم بالسيارة في الوجهة. هذا الدليل يُقارن بين سلوك الأعمال الأربعة مع العمود الفقري الصيني الصيني الحالي****revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), نافذة من 2026-05-01 (16 فصلاً)  310 articles)** —  and  ثم يطابق طريقة شروط الدفع. وتظل قواعد ورسوم التلكس الخاصة محددة في الرحلات ولا تُذكر كقيم ثابتة.
 
-## The Four Instruments Side
+## المستندات الأربعة
 | المنهجية | من يُسأل | كيف يأخذ المرسل إليه التسليم | الشاحن يحمل وثيقة عناوين ورقية؟ |
 |---|---|---|---|
 | ** ماستر (م ب)*  | خط | استسلموا من قبل ميغابايت (أو إجراء المتابعة) | نعم - عقد النقل + وظيفة وثائق الملكية |
@@ -85,19 +85,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| المدونة البحرية لجمهورية كوريا الشعبية الديمقراطية (التنقيح 2025، الأمر الرئاسي 58، النافذة 2026-05-01) | اللجنة الدائمة للناتو (المكتب الوطني لشؤون اللاجئين) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | المواد 80/81/87، النسخة وتاريخ النفاذ |
-|: | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | | ات −ments |
-? What Elis en el conto de la Représenti. INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml - 2026-09-04 но но но но но но но но но Institut Institut Institut from MBL/HBL, الممتنعون عن التصويت
-| أساليب الإصدار وأنواع B/L | المعرفة في مجال الصناعة | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | صرخات | مقارنة بأربعة ميغاهات | 11467
-| | ARABIC | NetEase . INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html . 2026-09-04 . SINGLE OURCE,EST,. ؟
-| |org/en/texts/transportgoods | 2026-09-05 | statutoryoire  المlegales (USSI) https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | statutory andments (s.I.P.I.D.A.D.A. ?
-| وثائق وشروط النقل الموحدة | BIMCO | INTL | https://www.bimco.org/ | 2026-09-05 | مفقود | الوثيقة المرجعية للرقم القياسي للصناعة |
-| وثائق النقل وممارسات الشحن | الاتحاد الدولي للمشرفين على الشحن | INTL | https://fiata.org/ | 2026-09-05 | مفقود | الممارسة المتعلقة بوثائق الصدر (FBL/FCR) التي تميز الناقل باء/Ls |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-* ملاحظة بشأن الملاءمة: تم التحقق من هوية العمود الفقري النظامي عن طريق النص الكامل للتنقيح البالغ 2025 (المعدل حاليا 2026-05-01)؛ وتم التحقق من تعاريف الأعمال التجارية؛ ولا تزال رسوم النقل/الاستقبال على الصادرات محددة. ♪
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

@@ -18,12 +18,12 @@
 ## Băng tải thực tế (từ thực hành đã ghi chép)
 - **Không có giá trị, Thông thường: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 Range-Rover Prado Li L7-scale vehicles) (single-source forwarder diagram).
 - **Với một cái giá treo hai lần: ** an **"upper 2 + thấp hơn 2 " = bốn SUV** đã được báo cáo trong một phiên tòa "RoRo-to-to-container" (single-source).
-- **Sedans China-Europe lan can: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
+- **Sedan theo tuyến đường sắt Trung–Âu: thực tế vận chuyển ghi nhận ba xe mỗi container** (nguồn đơn).
 Đây là những điểm tham khảo, chứ không phải quyền lợi: một chiếc xe tải chở hàng cao cấp, một chiếc xe tải hoặc một chiếc xe cán bộ dài thay đổi mức độ đếm và nạp tải cần thiết bị và một kế hoạch được phê duyệt.
 
 ## Độ mạnh: Sửa Qua thành Ty - rơ, chứ không phải qua thân thể
 Thực hành đã được tài liệu cho việc bảo vệ hộp thư:
-- **About eight straps per vehicle**, predominantly a **wheel/tyre tie-down method** with multi-directional (five-direction) load paths.
+- **Khoảng tám dây buộc mỗi xe**, chủ yếu theo **phương pháp buộc qua bánh/lốp** với các hướng chịu lực đa hướng (năm hướng).
 - Dây an toàn tác động lên những điểm xe hơi và bánh xe **, không phải trên các tấm ván, sơn hoặc các thành phần bị đình chỉ — đánh đập để đình chỉ hoặc khung gầm ở sai chỗ có thể làm hư xe và vẫn di chuyển dưới sự chuyển động của biển.
 - Dùng **anti-slip mats/chocks và gỗ chặn**, đặt dây đai đúng và bảo vệ bất kỳ điểm liên lạc nào.
 Mục tiêu là dưới tàu lăn xe lăn hoặc khoan không thể dịch chuyển, quay hoặc chạm vào tường hộp hoặc phương tiện thứ hai.
@@ -87,17 +87,17 @@ Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Xem phụ xe hơi (2/box, 8 dây buộc) | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV không có đường ray; ~ 8 dây; phương pháp bánh xe (một nguồn) |
-| Yantai port first 4-SUV "RoRo-to-container" trial | Tin tức buổi chiều Qillu | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 khung; đang nạp dãy (một phiên tòa đã báo cáo) |
-| Xe chở hàng Tàu điện ngầm China-Europe (3/box) | Harbin Railway Tnotao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Xe sedan/rail giới thiệu ba hộp (một nguồn) |
-| Export container five-step loading method | NetEase | Toàn cục | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Five-point stowage check (one source) |
-*Scope ghi chú: mỗi hình tải đến từ một nguồn riêng biệt (tất cả SINGLE_SOURCE) — không có sự kiện nào được chứng thực bởi hai nguồn độc lập, do đó không có một nguồn nào được nhãn CROSS_ Kiểm tra. Số lượng là tài liệu tham khảo, không đảm bảo độ cao; số chính xác luôn phụ thuộc vào chiều không gian đo lường và một kế hoạch tải được chấp nhận, và các quy tắc mẫu/ kì hạn phải được xác nhận tại đặt chỗ. *
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| Bộ mã thực hành cho các đơn vị vận chuyển xe tải. | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Phân phối hàng hóa, đánh đập và bảo vệ nguyên tắc cho CTU bao gồm các thùng chứa |
-| Comment | Hội đồng vận chuyển thế giới | IN'L | https://www.worldshipping.org/ | 2026-09-05 | VEII | Chuẩn hóa chuyển hàng và chuẩn trong bối cảnh sắp xếp dòng để nạp kế hoạch lên kế hoạch |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -83,20 +83,20 @@ Customs guidance distinguishes electric three-wheelers by use  and  識別: a **
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC(2026)の輸入および輸出関税、州議会の関税委員会 | 財務省(PRC) | CN の | 以下は、 https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | 検証済み(プライマリ) | 87.01–87.05/8716 現在の見出し名 |
-| GACCが2026関税調整プログラムを実施することを発表しました | 中国税関の一般管理 | CN の | 担当: http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html の | 2026-09-04 | 検証済み(プライマリ) | 2026 施行基準、年間増量規則 |
-| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN の | 以下は、 https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED(クロス) | 見出しのナビゲーション |
-| Customs Q&A on electric three-wheelers (8703.80 8704.60) | 税関リリース(レポスト) | CN の | 担当: http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | シングル_ソース | Three-wheeler split, 8704.6000 |
-* スコープノート: 現時点では、2026の税制とそのGACCの執行発表です。 2018/2020 年上のテーブルは、プライマリベースとして使用されていません。 目的地の義務  and  the exact ten-digit subheading are out of scope  and  関税の年ごとにチェックする必要があります。 ふりがな
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN の | 以下は、 https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | 検証済み | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-| 海南零关税交通工具清单 (8702 | 国家税务总局 (北京市税务局) PDF | CN の | 担当: http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | 検証済み | 870230/870240 大中型 小型客车电动混动分目 税 税 税 税 税 税 税 税 税 税 税 税  税 税 税 税 税 税  税  税   税   税   税  税   税       税               税       税       分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 |（混动分目官方名称）
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国輸出国HSフレームワーク(除外された目的地デューティ)
 - **検証方法**:2026主関税+GACCの実装が固定される;単一ソースQ&Aは、フラグが付けられる;HS-firstメソッドが適用される

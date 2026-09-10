@@ -13,7 +13,7 @@
 - **Schema Scope**: Article (no Product/Offer/Price/Review/Rating)
 
 ## Who This Is For
-A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/SINGLE_SOURCE**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
+A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/single source**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
 
 ## Clause Block 1 — The Essential Contents (Civil Code Art 596)
 Under **Article 596 of the PRC Civil Code**, a sales contract should cover: **name, quantity, quality, price, time/place/method of performance, packaging, inspection standards and method, settlement, and the effective-language/text provisions**. Translated for a vehicle deal, the minimum is:
@@ -89,7 +89,7 @@ Disclose material facts truthfully: **version/configuration, software version, a
 | PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
 | Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
 | Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
-| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Incoterms versioning, ICC arbitration, Apostille |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
 *Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
 | 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |

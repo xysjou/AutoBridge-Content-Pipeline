@@ -26,9 +26,9 @@ Helikopternya konstan, tapi panjang dan tinggi sedikit bergerak selama bertahun-
 
 | Powertrain | Referensi pasar-Cina | Gearbox | Tahun Model | Percaya diri |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed dual- kopling basah | 2024 | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed dual- kopling basah | 2024 | single source — konfirmasi oleh VIN / OEM|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed dual- kopling basah | Baris Cross- tahun | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed dual- kopling basah | 2025 | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed dual- kopling basah | 2025 | single source — konfirmasi oleh VIN / OEM|
 
 Jebakan penamaan itu nyata: 2024 ** 1.5T ** 2025 ** 1.5TD ** ** kalibrasi berbeda dengan keluaran berbeda dan transmisi yang berbeda (6DCT melawan 7DCT), meskipun lencana serupa. ** 1.6T ** adalah yang terkuat dari tiga dan yang terbaik didukung oleh dua sumber independen. Sebuah perintah yang bernama "1.5 Dashing" dapat diselesaikan untuk salah satu dari dua mobil, sehingga menulis panggilan mesin penuh, tahun dan transmisi ke proforma tersebut. Hasil yang tepat dari tunggal sumber 1.5T dan 1.5TD baris harus ditutup terhadap lembar konfigurasi Jetour resmi atau masuk homologasi MIIT tepat sebelum deposit dibayar.
 
@@ -74,19 +74,19 @@ Mobil referensi pasar Cinese- adalah depan-roda drive.
 
 Tidak ada RHD Versi pasar Cinese- didirikan di sini; kebutuhan eligibilitas RHD memisahkan bukti OEM, dan spesifikasi ekspor tidak boleh dianjurkan dari baris Cina.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-08
-- ** Referensi pasar **: CHINA（中国市场参考；2024 1.5T与2025 1.5TD精确功率为单一来源，须捷途官方/公告按SKU终核）
+- ** Referensi pasar **: CHINA（China-market reference；2024 1.5T与2025 1.5TD精确功率为单一来源，须捷途官方/公告按SKUfinal confirmation）
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Barang-barang sensitif waktu (garis-garis tipis, harga referensi domestik) dan keluaran tunggal-sumber harus dikonfirmasi ulang pada lembar konfigurasi OEM atau entri MIIT sebelum berpindah.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

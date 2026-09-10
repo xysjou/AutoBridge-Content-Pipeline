@@ -25,13 +25,13 @@
 | تقع على عاتق فريق الخبراء المعني بالإحصاءات البيئية + لجنة التنسيق الإدارية + لجنة المساعدة الإنمائية + لجنة الحقوق الاقتصادية والاجتماعية (الصين السادسة والصين سادسا - ب)
 ويخضع نموذج المحرك وضلعه البالغ 2300 N·m لفحص شامل عبر مصدرين تجاريين صينيين. A higher-tier ** CA6DM3 13 L œplo 560 PS () 3.0 "** with a reported ~ 150,000 km من فترات طويلة هي مصدر واحد  and  يجب أن يتم تأكيده على الرمز الدقيق بدلاً من افتراضه
 
-## Gearbox, Axles and GCW
+## ناقل الحركة والمحاور وGCW
 - **** 10- to 16-speed manuals (example **CA12TAX260M 12-speed**),  with **AMT optional** — specify the exact model  and  (أ) ما إذا كان يلزم إجراء عملية نقل الأسلحة المضادة للمركبات.
 - ** مخططات السحب: 4 × 2 × 6 × 4 8 × 4 ×؛ وأوامر التصدير ذات المنحى الأكثر شيوعاً تقيّم 6 × 4.
 - ** صف مجلس إدارة شؤون المرأة: ** the 6×4 sits in the approximately **40-tonne GCW** class (single-source; (أ) يؤكد على معدل الـ (جي دبليو) في شهادة التجانس، حيث أنه يتغير باختيار الأكليل/الإطار/التعليق.
 - نسبة المحركات وضعية العجلات الخامسة، تعليق حجم الإطارات والقدرة على تحمل الوقود**
 
-## Cab and Chassis
+## المقصورة والهيكل
 J6P يقدم متغيرات متعددة في سيارات الأجرة ارتفاع سقف) للعمل الإقليمي الطويل الأجل. وتختلف السلاسل وقاعدة العجلات مع مخططات القيادة ومطابقة شبه مقطورة. لأن تطابق الجرارات + المقطورات هو خاص بالسوق (الركبين، ارتفاع العجلات الخامسة، قوارب الفرامل)، وتسجيل هذه على ورقة البناء.
 
 ## الانبعاثات وقيمة الوقود
@@ -80,20 +80,20 @@ J6P يقدم متغيرات متعددة في سيارات الأجرة ارتف
   - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 460 J6P جديد (CA6DM2-46E6 2300 N·m) | دار | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | صرخات | نموذج المحرك، الصين السادسة |
-| مقارنة قدرها J6P (CA6DM2-46E61، 341 kW) | دار | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | صرخات | 338–341 kW cross-check, مخططات القيادة |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | دار | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE OURCE | 13 L 560 PS، على فترات طويلة |
-| Jiefang J6 model/drive/power lineage |REN دو CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE OURCE الخلفية
-| Annex and SEPA, SEP,  نظام MESPED Information in | CN | https://service.miit-eidc.org.cn/miitxgk/gonggao_xgk/index_ggcp.html | 2026-09-05 | and |cover and the ((I) |
-| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 مؤتمــر تقنيــة للأمــن في المركبات )الحاليــة GB 7258-2017(؛ GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | optin ?
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xgk2018/xxgk01/201807/t20180703_629590.html | 2026-09-05 | comp مفقود
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
+| New J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Engine model, power/torque, China VI |
+| J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | single source | 13 L 560 PS, long-drain interval |
+| Jiefang J6 model/drive/power lineage | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | single source | Layout/lineage background |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* ملاحظة: No FAW primary spec Sheet was captured; المحركات/المحركات الـ460 تم فحصه بينما 13 L 560 PS و40 t GCW are single-source والمتجهة إلى رمز نموذجي مسخ توافق المعاملة بين الصين والسادسة شيك هندسي/موافق غير مفترض. ♪
+*Confidence note: no FAW primary spec sheet was captured; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI after-treatment compatibility is an engineering/approval check, not assumed.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

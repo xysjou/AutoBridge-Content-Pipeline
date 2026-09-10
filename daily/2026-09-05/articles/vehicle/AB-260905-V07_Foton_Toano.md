@@ -26,13 +26,13 @@ The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light
 ## Verified specification table (Chinese-market reference)
 | Specification | Value | Unit | Market | Confidence | Source note |
 |---|---|---|---|---|---|
-| x5 short dim | 4990×1980×1990 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| x5 short wheelbase | 3070 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| long wheelbase options | 3510（X5长轴）/3750（经典长轴，车长5990×2000） | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| engine 2 5t torque | 400 | N·m | CHINA | SINGLE_SOURCE | 大众网 |
-| transmission | 6MT | - | CHINA | SINGLE_SOURCE | 大众网 |
+| x5 short dim | 4990×1980×1990 | mm | CHINA | single source | 搜狐对比 |
+| x5 short wheelbase | 3070 | mm | CHINA | single source | 搜狐对比 |
+| long wheelbase options | 3510（X5长轴）/3750（经典长轴，车长5990×2000） | mm | CHINA | single source | 搜狐对比 |
+| engine 2 5t torque | 400 | N·m | CHINA | single source | 大众网 |
+| transmission | 6MT | - | CHINA | single source | 大众网 |
 | seat options | 3/5/6/7/9/14/15/17（随版本） | - | CHINA | CROSS_CHECKED | 大众网+搜狐 |
-| refrigerated conversion note | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | SINGLE_SOURCE | 大众网 |
+| refrigerated conversion note | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | single source | 大众网 |
 
 ## Van procurement focus: pick one configuration, separate the upfit
 Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layout, and engine before comparing prices. The full Cummins ISF2.8 power matrix and per-trim kerb/GVW masses are **not captured and are withheld** pending an OEM sheet; encyclopaedia entries were treated only as leads. A refrigerated or ambulance body is a **superstructure on a chassis** and needs its own payload/insulation/refrigeration assessment.
@@ -55,13 +55,13 @@ Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layo
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条（仅线索，T4不作关键事实唯一依据） | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

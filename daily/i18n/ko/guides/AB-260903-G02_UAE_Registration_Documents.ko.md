@@ -39,7 +39,7 @@
 - UAE는 방향 인센티브 (예: 등록 주차 및 충전 유료 조치);이 정책 방향 및 시간 감지 - 현재 가용성 및 자격 확인 -이 정책 방향 및 시간 감지 -이 신호를 신호했다.
 
 ## RTA 등록 단계 (Mulkiya)
-세관 출시 후, 구매자는 RTA (수출)에 적용: 유효한 ** 보험**, ** 차량 검사**, ** IDENTity/trade-licence 문서**, 그 후 Mulkiya를받습니다. Fleet/company 등록은 개별 등록과 다릅니다. 주지 또는 프리존 엔티티티티가 서류를 변경할지 확인하십시오.
+세관 출시 후, 구매자는 RTA (수출)에 적용: 유효한 ** 보험**, ** 차량 검사**, ** IDENTity/trade-licence 문서**, 그 후 Mulkiya를받습니다. Fleet/company 등록은 개별 등록과 다릅니다. 주지 또는 프리존 엔티가 서류를 변경할지 확인하십시오.
 
 ## 이 가이드는 당신이 지불하기 전에 확인하는 것을 추천합니다
 1. **입력의 이점** 그리고 그 emirate의 현재 세관 일정.
@@ -81,25 +81,25 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — UAE vehicle clearance and registration, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜UAE vehicle clearance and registration, 汽车出口采购指南
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 중동 (사우디 두바이) 통관 및 세금 안내 | 화물 운송업자 물자 | 주요 특징 | https: | 2026-09-03 | CROSS_체크 | 정리 문서; 송장/B/L/CO 견실함; RTA/Mulkiya 순서 | https://m.11467.com/product/d43094475.htm 11467
-| NEV 수출 - 두바이 문서 목록 | 화물 운송업자 물자 | 주요 특징 | https: | 2026-09-03 | TIME_SENSITIVE(주) | 보고 ~ 5% 5% VAT; GCC/GSO + ESMA/MoIAT 주 | https://m.11467.com/product/d31835834.htm 11467
-| 중동에 환영 중국 EV (UAE 국가 EV 정책) | Haiwainet 토우티아노 | 주요 특징 | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME_SENSITIVE(주) | 방향 국가 EV-policy 인센티브 |
-*Evidence 천장: 소스는 운송업자 가이드 (T3) 및 중국 미디어 - UAE 연방 고객 RTA 기본 페이지가 캡처되지 않았습니다. 의무/VAT/fees와 EV 인센티브는 그러므로 보고되고 시간 과민한으로, UAE 연방 세관과 입장 emirate의 RTA로 확인되기 위하여 선물됩니다. 고정 속도는 asserted. ****************************************************************************************************************************************************************************************************************************************************************
+| Middle East (Saudi/Dubai) clearance & taxes guide | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Clearance documents; invoice/B/L/CO consistency; RTA/Mulkiya sequence |
+| NEV export-to-Dubai document list | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME_SENSITIVE | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT note |
+| Chinese EVs welcomed in the Middle East (UAE national EV policy) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME_SENSITIVE | Directional national EV-policy incentives |
+*Evidence ceiling: sources are forwarder guides (media/industry) and Chinese media — no UAE federal-customs/RTA primary page was captured. Duty/VAT/fees and EV incentives are therefore presented as reported and time-sensitive, to be confirmed with UAE federal customs and the entry emirate's RTA. No fixed rate is asserted.*
 
-| 개인 효과의 정리 (새로운 중고 차량의 이동; 필수 문서; 5% 평가 된 va에 관세 | 두바이 세관(Dubai Customs) | 뚱 베어 | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx 대한 자세한 정보 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 세관에 의하여 세세된 가치에 5% 의무; 본래 또는 에미리트 ID 사본; 검사 & 투표 |
-日本 가치를的 가치를(일별 공시) PDF | 두바이 세금 | 뚱 베어 | https: | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | used vehicles valued by year-based depreciation schedule before duty | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf
-| E-Commerce VAT Guide (VATGEC1) § 3.5.1 - 세관 가치에 VAT 5% 가져 오기 운임, 보험, 세관 요금, | UAE 연방세청(FTA) | 주요 특징 | https://tax.gov.ae/ 대해 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VAT 5%; VAT 기본 = 세관 값 (CIF) + 의무 |
-| 등록 차량 (고객 증명서 또는 송금 수출 보관 인증서; Emirates ID; 여권 등록 | UAE 연방 정부 포털 (u.ae) | 주요 특징 | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles 대하여 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 등록 문서 집합; 세관 증명서는 통관에서 등록에 교량입니다 |
-| 기술 규정에 따라 제품 적합성(ECAS; Successor to ESMA) | 산업 및 첨단 기술부 (Motor | 주요 특징 | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products 대한 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | MoIAT는 규제 제품 incl에 대한 UAE CoC를 문제. ESMA 흡수 |
-| 모터 차량용 GSO 기술 규정 목록 (MY2027-D3), incl. UAE 유로- 6b 타임 라인 | GCC 표준화기구 (GSO) | GCC 소개 | https://www.gso.org.sa/ 를 | 2026-09-04 | SINGLE_SOURCE(싱글) | UAE 새로운 유형 유로 6b 2026-01-01에서; 2027-07-01에서 모든 수입 |
+| Clearance of Personal Effects (import of new/used vehicles; required documents; 5% customs duty on assessed va | Dubai Customs (Government of Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% duty on customs-assessed value; original invoice / packing list / bill of lading / passport or Emirates ID copy; inspection & valuation |
+| Mechanism for determining the value of passengers' cargo (depreciation by years) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | used vehicles valued by year-based depreciation schedule before duty |
+| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. freight, insurance, customs fees, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | import VAT 5%; VAT base = customs value (CIF) + duty |
+| Registering vehicles (customs certificate or transfer/export/possession certificate; Emirates ID; passport/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registration document set; customs certificate is the bridge from clearance to registration |
+| Issue UAE Certificates of Conformity for products subject to technical regulations (ECAS; successor to ESMA) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VERIFIED | MoIAT issues UAE CoC for regulated products incl. vehicles/parts; absorbed ESMA |
+| List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro-6b timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | single source | UAE new-type Euro-6b from 2026-01-01; all imports from 2027-07-01 |
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05
 - **참고 시장 범위**: UAE는 예 (GCC로 이동할 수 있는 메스꺼움; 국가별 특유)
-- ** 인증 방법**: 명시적 증거 천장과의 운송자-출산; PRIMARY_SOURCE_SCOPE 당 공식 확인을 위해 표시된 수수료 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의
+- ** 인증 방법**: 명시적 증거 천장과의 운송자-출산; PRIMARY_SOURCE_SCOPE 당 공식 확인을 위해 표시된 수수료 의
 - **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.
 #AutoBridge #UAEImport #VehicleRegistration #CustomsClearance #ExportProcurement

@@ -1,9 +1,9 @@
 # BYD 袁加(Ato 3)——电池,射程循环,充电和出口买方笔记
 ## SEO元数据
-- **SEO标题**: BYD 维基月球 袁加/ ATTO 3: 电池, 范围与出口购买器指南
+- **SEO标题**: BYD  袁加/ ATTO 3: 电池, 范围与出口购买器指南
 - **Meta描述**: Chinese-market  BYD  Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, 为何中国CLTC必须和目的地WLTP/NEDC的数字分开, GB/T对本地充电输入,  and  what to verify by  VIN .
-- **H1**: BYD 维基月球 袁加(出口名称Atto 3):供进口商使用的电池、射程循环、充电和软件
-- **核心关键词**: BYD 维基月球 元加Atto 3 规格出口
+- **H1**: BYD  袁加(出口名称Atto 3):供进口商使用的电池、射程循环、充电和软件
+- **核心关键词**: BYD  元加Atto 3 规格出口
 - **次级搜索词**: BYD Atto 3电池 60.48 kWh,袁加CLTC vs WLTP范围,BYD 刀锋电池 LFP,阿托3 CCS2充电,袁加迪林克海外,中国EV 契约 SUV出口
 - **建议URL**: /vehicles/byd-yuan-plus/
 - **搜索意图**: 了解BYD 元加(出口名称Atto 3): 进口商的电池、射程循环、充电和软件:车辆/部件出口商在承诺订购前必须核实、记录和决定的内容。
@@ -18,8 +18,8 @@ BYD袁加(元 PLUS)是BYD电子平台3.0上装有LFP刀锋电池的紧凑型全�
 中国车厢采用电池和CLTC范围分割,一款前置马达横跨线路.
 | 中国变种提示 | 刀锋电池(LFP) | 中国CLTC 范围 | Atto 3 参考数据——相同的*名义*电池容量(BYD-官方,市场专用) |
 |---|---|---|---|
-| 430 个版本 | 49.92 kWh 维基月球 | 430 km 立方圆形 | Atto 3区域建设共享这个名义的包类,但出口范围由目的地测试周期设定——获得当前官方的BYD区域表;不转换CLTC |
-| 510版本(如:  510KM 领先型) | 60.48 kWh 维基月球 | 510 km 立方圆形 | 与较高区域Atto 3的建筑相同的名义包装类别;出口市场数字取决于周期和模型年份,必须从该市场的当前官方表格中读取,而不是从510 CLTC中得来 |
+| 430 个版本 | 49.92 kWh  | 430 km 立方圆形 | Atto 3区域建设共享这个名义的包类,但出口范围由目的地测试周期设定——获得当前官方的BYD区域表;不转换CLTC |
+| 510版本(如:  510KM 领先型) | 60.48 kWh  | 510 km 立方圆形 | 与较高区域Atto 3的建筑相同的名义包装类别;出口市场数字取决于周期和模型年份,必须从该市场的当前官方表格中读取,而不是从510 CLTC中得来 |
 电池容量和LFP刀片类型在**BYD自己的出口规格单(VIFIED)** 上得到确认; 中国CLTC 430/510标签通过中国数据库进行交叉核对(CROSS_CHECKED)。 ** 这些Atto 3数字只是与名义电池容量相匹配的区域参考数字,它们并非中国430/510级的一对一的三进制等价数字**: 认证范围、功率、设备甚至收费数字因国家/地区而异,因此确认VIN的确切目的地市场规格。 高年级会添加DiPilot辅助包和更大的旋转屏幕——记录准确的中文等级名称,因为一个"510"标签可以附加在几个设备级别上.
 ## 电动火车
 每部中国光荣版袁超使用一台前置永久磁铁同步电动机: ** 150 kW(204 PS)/310 N·m**,  0–100 km/h 7.3 s,  top speed 160 km/h, 仅限前轮驱动(本线无AWD/双动车). BYD的出口单证实了PMSM的布局和49.92/60.48 kWh电池对; 如果被引用的汽车声称是AWD、双引擎或不同产出,则它是另一种模型年或市场建设,必须重新记录,而不是假设。
@@ -77,22 +77,22 @@ BYD袁加(元 PLUS)是BYD电子平台3.0上装有LFP刀锋电池的紧凑型全�
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 袁加中国官方示范枢纽(朝阳网) | BYD Auto(**制造商官员**) | 氯化萘 | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus 维基月球 | 2026-09-05 | 核查(OEM;模范线/生成范围) | OEM主播袁加模范线. 注:BYD目前的中国页面显示的是较新的后驱一代;它被用来捆绑模型身份和代号,而不是本文所覆盖的2024光荣值(FWD,430/510 CLTC)的来源. |
-| 道路汽车制造商和产品目录——公众查询 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 确定经批准的VIN/公告的型号/版本和同义条目,然后订购 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别号码(VIN) | SAMR 标准化管理(国家标准) | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | VIN结构/版本检查用于锁定准确的中文等级,避免修饰替换 |
-| 袁加2024参数表 | ZOL 自动 | 氯化萘 | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html 维基月球 | 2026-09-02 | 横跨 | 中国维度,充电,ADAS/infocure |
-| 袁加的示范文章 | 东赫迪(懂车帝) | 氯化萘 | https://www-lf.dongchedi.com/article/7425573307363131931 维基月球 | 2026-09-02 | 横跨 | 150 kW/310 N·m (中文(简体)).  60.48 kWh, CLTC 510, 东风波 7.3 秒 (简体中文) |
-| 袁加  QQA 模版页面 | 自动家庭(汽车之家) | 氯化萘 | https://www.autohome.com.cn/ask/23350747.html 维基月球 | 2026-09-02 | 横跨 | 汽车、电池变体、发射背景 |
-| 太平洋汽车 参数页 (单位:千美元) | 太平洋汽车网 维基月球 | 氯化萘 | https://price.pcauto.com.cn/s48082/config.html 维基月球 | 2026-09-02 | 资源 | 电机马力 204Ps; 快充 80% 导弹发射系统 |
-| 汽车之家(车家号) 荣耀版上市新闻 (中文(简体)). | 汽车之家 维基月球 | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/14756991 维基月球 | 2026-09-02 | 资源 | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
-| 元PLUS 2024款荣耀版 参数配置表 | 太平洋汽车 PCauto (英语). | 氯化萘 | https://price.pcauto.com.cn/m127136/config.html 维基月球 | 2026-09-05 | 横跨 | 2024 维基月球 荣耀特有表格: 49.92/60.48 kWh, CLTC 430/510, 东风波  five Glory grades (independent DB #1, 经核实可达到) |
-| 元 PLUS 2024 款荣耀版 430KM 配置表 存档副本. | 爱卡汽车 维基月球 Xcar 车 | 氯化萘 | https://newcar.xcar.com.cn/m72729/config.htm 维基月球 | 2026-09-05 | 横跨 | 2024 维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献 荣耀等级表,FWD布局和430 km行(独立DB#2,可验证可达;真实Xcar URL). |
-| 元 PLUS 参数配置(2024 款) (中文(简体)). | 汽车之家 维基月球 自动家居配置系列 | 氯化萘 | https://car.autohome.com.cn/config/series/6298-21793.html 维基月球 | 2026-09-05 | 横跨 | 电池能量49.92/60.48 kWh 跨2024级(独立DB #3,参数表——不是AI-aggled QQA页面). |
+| Yuan Plus official China model hub (dynasty network) | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | VERIFIED (OEM; model-line/generation scope) | OEM anchor for the Yuan Plus model line. NOTE: BYD's current China page shows the newer rear-drive generation; it is used to bound model identity and generations and is NOT a source for the 2024 Glory (FWD, 430/510 CLTC) values covered here |
+| Road motor-vehicle manufacturers & products catalog — public query | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Confirm the approved model/version and homologation entry by VIN/announcement before ordering |
+| GB 16735-2019 Road vehicles — vehicle identification number (VIN) | SAMR / Standardization Administration (national standard) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure/version check used to lock the exact Chinese grade and avoid trim substitution |
+| Yuan Plus 2024 parameter table | ZOL Auto | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | CROSS_CHECKED | China dimensions, charging power, ADAS/infotainment |
+| Yuan Plus model article | Dongchedi (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | CROSS_CHECKED | 150 kW/310 N·m, 60.48 kWh, CLTC 510, 7.3 s |
+| Yuan Plus Q&A / model page | Autohome (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | CROSS_CHECKED | Motor, battery variants, launch context |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | single source | 电机马力 204Ps、快充 80% |
+| 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | single source | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
+| 元PLUS 2024款荣耀版 参数配置表 | 太平洋汽车 PCauto | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | CROSS_CHECKED | 2024 Glory-specific table: 49.92/60.48 kWh, CLTC 430/510, five Glory grades (independent DB #1, verified reachable) |
+| 元PLUS 2024款荣耀版 430KM 配置表 | 爱卡汽车 Xcar | CN | https://newcar.xcar.com.cn/m72729/config.htm | 2026-09-05 | CROSS_CHECKED | 2024 Glory grade table, FWD layout and 430 km line (independent DB #2, verified reachable; real Xcar URL) |
+| 元PLUS 参数配置（2024款） | 汽车之家 Autohome config series | CN | https://car.autohome.com.cn/config/series/6298-21793.html | 2026-09-05 | CROSS_CHECKED | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, parameter table — not an AI-aggregated Q&A page) |
 
-*证据-镜标注:BYD官方中国模式枢纽(链接)主播袁加模型线及其世代;BYD当前页面介绍较新的后驱一代,因此本作故意不用作2024光荣版值的源头. 2024光荣数字——49.92/60.48 kWh,150 kW/310 N·m和430/510 km CLTC——以三个经核实可达2026-09-05的独立的中国参数表(PCauto m127136,Xcar m72729和Autohome 6298-21793配置系列)进行真实的同事实交叉核对,除此之外,还有ZOL/Dongchedi;每个来源都独立地说明相同的电池/距离配对,而不是将不同的事实分解到不同来源. 仍保留Cross_CHECKED(准确的中国2024荣耀值没有可达到的OEM主表——早期的BYD区域PDF现在返回404),必须与2024同源宣布和VIN绑定. 目标WLTP/NEDC值不主张,必须从BYD当前官方的区域页面读取;中文和出口数字按周期分开,绝不合并为"全球谱". 写入-AI控制补丁 2026-09-05: 命名的荣耀值现在由三个独立的可达配置表进行相同的事实交叉检查,将页面移出 NEAPS_RESEARCH(信心CROSS_CHECKED,而不是OEM-VIFIED). * 报告迟交是因为需要翻译。
+*Evidence-scope note: BYD's official China model hub (linked) anchors the Yuan Plus model line and its generations; BYD's current page presents the newer rear-drive generation, so it is deliberately NOT used as a source for the 2024 Glory Edition values here. The 2024 Glory figures — 49.92/60.48 kWh, 150 kW/310 N·m and 430/510 km CLTC — rest on a genuine same-fact cross-check by three independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto m127136, Xcar m72729 and the Autohome 6298-21793 config series), in addition to ZOL/Dongchedi; each source independently states the same battery/range pairing rather than splitting different facts across sources. They remain CROSS_CHECKED (no reachable OEM primary table for the exact China 2024 Glory values — the earlier BYD regional PDFs now return 404), and must be bound to the 2024 homologation announcement and VIN. Destination WLTP/NEDC values are not asserted and must be read from BYD's current official regional page; Chinese and export figures are kept separate by cycle and never merged into a "global spec". Writing-AI controlled patch 2026-09-05: the named Glory values are now same-fact cross-checked by three independent reachable config tables, moving the page off NEEDS_RESEARCH (confidence CROSS_CHECKED, not OEM-VERIFIED).*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

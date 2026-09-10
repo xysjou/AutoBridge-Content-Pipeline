@@ -83,18 +83,18 @@ Tiếng Anh có sẵn sàng chưa? Không, tiếng Ả Rập cần bố trí RTL
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese-car infotainment and OTA localization, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese-car infotainment and OTA localization, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Phần mềm tự lắp ráp của Trung Quốc (tự phát triển buồng lái, lớp tự mặc định) | Điện tự động Trung Quốc (thử nghiệm) | CNGlobal | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | SINGLE_SOURCE | Công nghệ **Pongtern/ examples only**, không phải tổng quát hóa |
-| BIÊND Sea Lion 07 Vụ án cục bộ Ukraine | Sửa chữa NV (dịch vụ tính năng) | CNCNCUL | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE_SOURCE | **Bran-and- cụ thể ví dụ**: vấn đề chỉ Trung Quốc; BOD tài khoản tiếng Anh (được xác nhận trên mỗi mô hình) |
-| Denza Z European Google/Gemini tương ứng buồng lái nội địa | Xueqiu (giải thoát) | CN CN CNU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE | **Example** of eport vs house stuff (không phổ biến) |
-| Danh sách kiểm tra kiểm tra phần mềm Per-ViN | StarVia (dịch vụ xuất khẩu) | CNGlobal | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE | Five-check acceptance method |
-| Tiêu chuẩn xuất đa ngôn ngữ/RL | CCID 赛迪 Neusoft OneCoreGo coverage (industry media) | Toàn cục | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | Xem xét bố trí RTL/Arabic |
-| Hướng dẫn Xuất Hình học Tiếng Anh Trung Hoa Phiên Bản B2B | Name | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI 刷机成本 (行业口径), 待官方核验 |
-| 中国汽车出海, 智能化为何 " 水土不服" | 汽车之家. 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译 手机互联问题 |
+| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | single source | Industry **pattern/example only**, not generalised |
+| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | single source | **Brand-specific example**: China-only problems; BYD account English switch (re-confirm per model) |
+| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | single source | **Example** of export vs domestic stack (not universal) |
+| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | single source | Five-check acceptance method |
+| Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | single source | RTL/Arabic layout consideration |
+| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | single source | 英文 HMI、刷机成本（行业口径，待官方核验） |
+| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | single source | 海外用户 UI 翻译/手机互联问题 |
 
-* Tự tin lưu ý: Tất cả các tài liệu được viện dẫn đều là ngành công nghiệp/ Dịch vụ/ Y tế và được dùng như minh họa về mô hình hoặc trường hợp riêng lẻ — không bao giờ là bằng chứng cho thấy tất cả xe cộ Trung Quốc đều có cùng hành vi đó. Danh sách ngôn ngữ xuất khẩu hàng đầu, OTA chính sách tiêu thụ máy chủ và yêu cầu kiểm tra HMI tiếng Anh đã không được xác nhận bởi một chính sách chính và phải được giải quyết trên kênh ngoại quốc của thương hiệu cho VIN.
+*Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

@@ -46,7 +46,7 @@ Después de la liberación de aduanas, el comprador aplica al ACR con (reportado
 2. **Exacto Código HS** y la línea de derechos/IVAs** corriente ** de las costumbres federales de los Emiratos Árabes Unidos, sustituyen el número de denuncias 5% 5% por cifras verificadas.
 3. **GCC/GSO ruta de conformidad y certificado** para el modelo específico (y el papel actual del MoIAT).
 4. **Invoz/B/L/CO consistencia** (VIN, valor, partes, origen).
-5. **Insurance + inspection + identity** preparedness for the RTA Mulkiya step; EV incentives eligibility if relevant.
+5. Preparar **seguro + inspección + identidad** para el trámite RTA Mulkiya; y la elegibilidad para incentivos de VE cuando aplique.
 
 ## Preguntas frecuentes
 **¿Me registro con RTA antes o después de las costumbres?** Después — aduanas claras y satisfacer la conformidad primero, luego aplicar a la RTA para el Mulkiya.
@@ -81,20 +81,20 @@ Después de la liberación de aduanas, el comprador aplica al ACR con (reportado
   - **AR**: مرجع AutoBridge لمشتري التصدير — UAE vehicle clearance and registration, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜UAE vehicle clearance and registration, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Oriente Medio (Saudi/Dubai) guía de impuestos | material de transporte | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Documentos de despeje; coherencia de factura/B/L/CO; secuencia de RTA/Mulkiya | 11467
-| Lista de documentos NEV export-to-Dubai | material de transporte | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIEMPO_SENSITIVE | Reportado ~ 5% derechos/~ 5% IVA; GCC/GSO + ESMA/MoIAT nota | 11467
-| Los EV chinos recibieron la bienvenida en el Oriente Medio (política nacional de EV de los Emiratos Árabes Unidos) | Haiwainet Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIEMPO_SENSITIVE | Incentivos nacionales de política de protección de los derechos de los niños |
-*Texto de la evidencia: las fuentes son guías de reenvío (T3) y medios chinos — no se captó ninguna página principal de UAE federal-costos/RTA. Por lo tanto, se presentan incentivos de deber/VAT/fees y EV como reportados y sensibles al tiempo, que se confirmarán con las costumbres federales de los Emiratos Árabes Unidos y el RTA del emirato de entrada. No se afirma una tasa fija. *
+| Middle East (Saudi/Dubai) clearance & taxes guide | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Clearance documents; invoice/B/L/CO consistency; RTA/Mulkiya sequence |
+| NEV export-to-Dubai document list | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME_SENSITIVE | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT note |
+| Chinese EVs welcomed in the Middle East (UAE national EV policy) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME_SENSITIVE | Directional national EV-policy incentives |
+*Evidence ceiling: sources are forwarder guides (media/industry) and Chinese media — no UAE federal-customs/RTA primary page was captured. Duty/VAT/fees and EV incentives are therefore presented as reported and time-sensitive, to be confirmed with UAE federal customs and the entry emirate's RTA. No fixed rate is asserted.*
 
-| Limpieza de los efectos personales (importación de vehículos nuevos o utilizados; documentos necesarios; 5% arancel aduanero sobre los vehículos evaluados va | Dubai Customs (Gobierno de Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% derechos sobre el valor de la aduana; factura original lista de embalaje factura de embarque pasaporte o copia de identificación de Emirates; inspección " valoración |
-| Mecanismo para determinar el valor de la carga de pasajeros (depreciación por años) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | vehículos usados valorados por el calendario de depreciación anual antes del servicio |
-| Guía de IVA de comercio electrónico (VATGEC1) § 3.5.1 — importación IVA 5% sobre valor aduanero incl. flete, seguro, aduanas, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | importación IVA 5%; base de IVA = valor de aduana (CIF) + servicio |
-| Vehículos registrados (certificación o transferencia/exportación/possesión de los clientes; identificación de los Emiratos; pasaporte/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registro de documentos; certificado de aduanas es el puente de autorización a registro |
-| Ejecutar Certificados de Conformidad UAE para productos sujetos a normativa técnica (ECAS; sucesor de ESMA) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VERIFIED | MoIAT emite UAE CoC para productos regulados incl. vehículos/partes; absorbido ESMA |
-| Lista de Reglamentos Técnicos de la OSG para Vehículos Motorizados (MY2027-D3), incl. UAE Euro- 6b timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE_SOURCE | UAE nuevo tipo Euro- 6b de 2026-01-01; todas las importaciones de 2027-07-01 |
+| Clearance of Personal Effects (import of new/used vehicles; required documents; 5% customs duty on assessed va | Dubai Customs (Government of Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% duty on customs-assessed value; original invoice / packing list / bill of lading / passport or Emirates ID copy; inspection & valuation |
+| Mechanism for determining the value of passengers' cargo (depreciation by years) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | used vehicles valued by year-based depreciation schedule before duty |
+| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. freight, insurance, customs fees, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | import VAT 5%; VAT base = customs value (CIF) + duty |
+| Registering vehicles (customs certificate or transfer/export/possession certificate; Emirates ID; passport/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registration document set; customs certificate is the bridge from clearance to registration |
+| Issue UAE Certificates of Conformity for products subject to technical regulations (ECAS; successor to ESMA) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VERIFIED | MoIAT issues UAE CoC for regulated products incl. vehicles/parts; absorbed ESMA |
+| List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro-6b timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | single source | UAE new-type Euro-6b from 2026-01-01; all imports from 2027-07-01 |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

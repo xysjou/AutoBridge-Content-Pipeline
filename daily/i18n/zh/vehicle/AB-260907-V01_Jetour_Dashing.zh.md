@@ -1,6 +1,6 @@
 # Jetour Dashing (达生):中国市场契约SUV 及其三强电源套接字
 ## SEO元数据
-- **SEO标题**: Jetour Dashing (Dasheng) 中国-市场标本及出口购买者检查 QQ自动桥
+- **SEO标题**: Jetour Dashing (Dasheng) 中国-市场标本及出口购买者检查 
 - **Meta描述**: 捷图达兴(达生)契约SUV型中市场参考文献:2024对2025维,1.5T,1.6T和1.5TD型电力机车保持分离,VIN级对海外买家的检查.
 - **H1**: Jetour Dashing (达生):中国市场契约SUV 参考其三强特快软件
 - **核心关键词**: Jetour Dashing Dasheng 导出规格
@@ -26,9 +26,9 @@
 
 | 电动火车 | 中国市场参考文献. | 齿轮 | 示范年份 | 信心 |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed 湿双脂板 | 2024 | SINGLE_SOURCE — —由VIN/OEM确认|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed 湿双脂板 | 2024 | single source — —由VIN/OEM确认|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed 湿双脂板 | 跨年线 | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed 湿双脂板 | 2025 | SINGLE_SOURCE — —由VIN/OEM确认|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed 湿双脂板 | 2025 | single source — —由VIN/OEM确认|
 
 命名陷阱为真实的: the 2024 **1.5T**  and  2025 ** 1.5TD ** 不同校准,产出不同  and  不同传输(6DCT对7DCT), 尽管有类似的徽章。  The 1.6T**是三部曲中最强的一部,也是两个独立来源支持的最好的一部. 一个命名"1.5 Dashing"的订单可以解决两辆车中的任何一个,所以将全引擎的命名,年份和传输写入正版. 单源1.5T和1.5TD行的精确输出应在支付押金前,与Jetour官方配置表或精确的MIIT同位素条目相对关闭.
 
@@ -62,11 +62,11 @@
 
 2024 1.5T系引文为115 kW/230 N·m系6DCT系引文,2025 1.5TD系引文为135 kW/290 N·m系引文为7DCT系引文;它们是维尼公司确认的明显校准和单源数字.
 
-**Which Dashing powertrain is best supported?**
+**捷途大圣哪一套动力的证据最充分？**
 
 145 kW/290 N·m的1.6T型机车采用7DCT型机车,由两个独立来源进行交叉核对;另外两条线路目前仅靠单一来源,等待OEM精确的线路确认.
 
-**Is it front- or all-wheel drive?**
+**是前驱还是四驱？**
 
 中国市场参考车为前轮驱动.
 
@@ -74,15 +74,15 @@
 
 无红外线 这里建立了中国市场版本;RHD合格需要单独的OEM证据,出口规格不得从中国线推断.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

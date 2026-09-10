@@ -59,7 +59,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** AutoBridge出口-买方参考——车辆出口文件包、车辆-出口采购指南
 - **法国**: 汽车出口汽车-汽车出口文件包,汽车出口指南
@@ -68,23 +68,23 @@
 -  **: 出口商品自动批发公司——车辆出口文件包,出口商品出口商品的进口商品
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Vehicle export document package, 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Vehicle export document package, 자동차 수출 조달 가이드
-- **VI**: 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车包 汽车
+- **VI**: 汽车包 汽车
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Vehicle export document package, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
 - 身份证**: 车辆出口文件包,潘都安 engadaan ekspor kendaraan
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020工厂证书(现行) | SAMR 打开 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB 维基月球 | 2026-09-04 | 已核实(小学) | 目前的标准/状况/日期 |
-| SAMR平台 ^ GB/T 21085-2020 细节 | 萨马 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 维基月球 | 2026-09-04 | 已核实(小学) | 问题/有效/审查日期 |
-| 强制性标准计划20260041-Q-339(未来,正在拟订中) | 萨马 | 氯化萘 | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 维基月球 | 2026-09-04 | 时间(_S) | |
-| SAMR通知,指定24项强制性标准计划 | | 氯化萘 | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 计划任务 |
-| MIIT GB21085 QQ 协商草案(非现行) | 军事 | 氯化萘 | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf 维基月球 | 2026-09-04 | 草案(主要) | 仅限多阶段草案案文(从目前的措辞中解开) |
-| 机动车辆登记工作规则(出口-销售档案) | X岛市政府 | 氯化萘 | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml 维基月球 | 2026-09-04 | 已核实(小学) | 检查证书+许可证副本 |
-| 全车导出文件列表 | 净值 | 氯化萘 | https://www.163.com/dy/article/KJSNGPO20556820S.html 维基月球 | 2026-09-04 | 横跨 | |
-* 大门草案:多阶段印发规则和强制性替换是草案/未来,不列入当前要求说明;NEV/翻译项目是编辑建议。 * 报告迟交是因为需要翻译。
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

@@ -42,16 +42,16 @@
 ** รายชื่อนักบินอยู่ที่ไหน ~ ใน การ แจ้ง เหตุ การณ์ ล่า สุด ของ องค์การ MOFMP/รัฐบาล — อย่า พึ่ง ราย ชื่อ ที่ มี การ บันทึก ไว้ อย่าง ไม่ หยุด ยั้ง.
 ~นี่กฎการนําเข้าที่ครอบคลุมของจุดหมายหรือเปล่า~ เปล่า เลย.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
-| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
-| 关于进一步加强二手车出口管理工作的通知 (2025-11). | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规 登记一致性 登记一致性 许可证附表 (พ.ศ. ○
-| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | เวลา | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
-| กระทรวงพาณิชย์ (MOFCOM) | MAFOML 商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/ | อํานาจที่มีประสิทธิภาพในการส่งออกการเหาและการควบคุมการส่งออก |
-| กรมศุลกากรของประเทศจีน (GACC) — การดูแลการส่งออกรถที่ใช้แล้ว | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | เปิดใช้งาน | http://www.customs.gov.cn/ | เคลียเวิลด์ สําหรับการส่งออกรถที่ใช้ร่วมกัน, การเสริมสร้างไปยัง MOFCMP เบินส์ลิง |
-| สมาคมค้า รถยนต์ จีน (CADA) — คณะอุตสาหกรรมที่ใช้รถยนต์ | ประเทศจีน Auto Mouse August Society (中国汽车流通协会 CDA) | CN | T1/T2 | เปิดใช้งาน | http://www.cada.cn/ | บริบทของความสัมพันธ์ระหว่างอุตสาหกรรมบนการพัฒนารถส่งออก  and  enterprise Program (T2). ไม่ใช่ตัวควบคุม) |
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | primary | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| General Administration of Customs of China (GACC) — used-car export supervision | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing |
+| China Automobile Dealers Association (CADA) — used-car export industry body | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | primary/independent | VERIFIED | http://www.cada.cn/ | Industry association context on used-car export development and enterprise practice (independent database, not a regulator) |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

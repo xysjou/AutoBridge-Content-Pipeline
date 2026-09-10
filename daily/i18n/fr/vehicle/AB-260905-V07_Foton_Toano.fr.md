@@ -60,19 +60,19 @@ Les acheteurs de fourgonnettes doivent fixer l'empattement, la hauteur du toit, 
 **Combien de sièges?** Il varie entre les versions (3–17); spécifiez la construction exacte.
 **Pourquoi pas de liste complète de l'alimentation ISF2.8?** La matrice de la variante a besoin d'un verrou d'OEM; elle est refusée.
 **La fourgonnette réfrigérée est-elle un modèle d'usine?** C'est une conversion/mise à niveau sur le châssis de Toano.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+**Quel empattement pour un minibus ?** Choisir entre 3070/3510/3750 mm selon l'aménagement.
 **Où sont les chiffres de GVW?** Non capturé de façon fiable; obtenir de l'homologation.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | NC | T4 | _CHECTURE | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | NC | T2 | _CHECTURE | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | NC | T3 | _CHECTURE | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | NC | T3 | _CHECTURE | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装, 非原厂 VAN 参数 |
-| Site officiel de Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | NC | T1 | VÉRIFIER | https://www.foton.com.cn/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

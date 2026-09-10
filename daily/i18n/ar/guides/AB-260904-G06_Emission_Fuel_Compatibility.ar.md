@@ -76,21 +76,21 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — China-VI emissions and fuel compatibility overseas, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China-VI emissions and fuel compatibility overseas, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| : إعلان وزارة التعليم البيئية بإصدار GB18352.6-2016 تعديل رقم 1 (2026-04، وما يليه 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | XG1-2026 |
-| GB18352.6-2016 التعديل رقم 1 الرسمي | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | تعديل على الوقت |
-| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | مثقفة)بالمرتبة الأولى( | |
-| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | الخدمة الثقيلة |
-| GB17691-2018 من أفراد قوات الدفاع الشعبي الرسمية | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | النطاق الثقيل |
-| GB19147-2016 من الديزل على الطرق (حاليا، مع XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | مثقفة)بالمرتبة الأولى( | الكبريت سعة 10 |
-| خطر التعرض للإصابة بعد التعرض للإصابة | فحص | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE OURCE | مخاطرة نوعية بعد التعرض للمعاملة | 11467
-* نطاق الأدلة: أما المعايير/التواريخ الصينية التي تم التحقق منها عن طريق مصادر رئيسية من طراز MEE/SAMR؛ أما الحدود الأوروبية/وكالة حماية البيئة في الخارج، ومواصفات وقود الشبكة، وأي استنتاج بشأن المعادلة، فهي معطلة في انتظار المصادر الرئيسية في الخارج. ♪
+| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | VERIFIED (primary) | XG1-2026 version/dates |
+| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | VERIFIED (primary) | Light-duty amendment |
+| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | VERIFIED (primary) | Standard status/date |
+| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primary) | Heavy-duty standard/dates |
+| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primary) | Heavy-duty scope |
+| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulphur ≤10 mg/kg |
+| DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | single source | Qualitative after-treatment risk |
+*Evidence scope: Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
 
-| 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE OURCE | GB18352.6-2016背景(不作现行版本核心依据) |
-| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | مفقود | 硫含量等项目检验依据 GB19147-2016 |
-| GB19147-2016《车用柴油》标准正文(含第1号修改单, 政府托管 PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | مفقود | 国VI车用柴油硫含量≤10mg/kg |
+| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | single source | GB18352.6-2016背景(不作现行版本核心依据) |
+| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VERIFIED | 硫含量等项目检验依据GB19147-2016 |
+| GB19147-2016《车用柴油》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | VERIFIED | 国VI车用柴油硫含量≤10mg/kg |
 
 ## استعراض التحرير
 - صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)

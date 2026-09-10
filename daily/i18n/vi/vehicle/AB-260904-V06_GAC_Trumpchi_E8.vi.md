@@ -56,7 +56,7 @@ Không có giá xuất khẩu được xuất bản. Giá hướng dẫn của T
 
 ## Những câu hỏi thường xuyên
 **Người Thumpchi E8 là người lai hay là người lai tự cứu mình? Năng lượng mới E8 là một chiếc PHV với một cổng sạc điện; E8 Glory là một  luct  luct — chỉ ra cái nào không có khả năng hấp thụ.
-**How many seats?** A 2+2+3 seven-seat MPV on a 2930 mm wheelbase.
+**Mấy chỗ ngồi?** MPV bảy chỗ 2+2+3 với chiều dài cơ sở 2930 mm.
 ** Phạm vi điện là bao nhiêu? 150 km CLTC cho các dữ liệu ghi chép của PHV.
 ** E8 thiết bị điện bên ngoài có thể nào không?** Trung Quốc liệt kê 3.3 kW V2L và 5.5 kW V2V; xác nhận trên tờ giấy cắt tỉa OEM.
 
@@ -86,22 +86,22 @@ Không có giá xuất khẩu được xuất bản. Giá hướng dẫn của T
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Bàn cấu hình chính thức Thumpchi E8+ | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | VEIIEED (OEM) | Huấn luyện năng lượng PHV, ắc quy, kích thước, ghế ngồi |
-| E8 (PHV) phóng, kích cỡ và bầu chọn | Nhật báo Metropolis miền nam | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, động cơ, pin |
-| E8 phòng trưng bày: kích cỡ/ mtor/battry | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | ĐÃ_ ĐÃ | Động cơ, trọng lượng, V2L/V2V |
-| Kiến trúc E8 GPMA và thép mạnh mẽ | Tin tức buổi chiều Dương Trường Giang PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE_SOURCE | Nền tảng, ~ 75% HSS |
-| Thumpchi E8 Comment | PCauto conig | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, 25.57 kWh, phạm vi CLTC |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
-| Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
-| GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
+| Trumpchi E8+ official configuration table | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | VERIFIED (OEM) | PHEV powertrain, battery, dimensions, seats |
+| E8 (PHEV) launch, size & electrification | Southern Metropolis Daily | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | CROSS_CHECKED | Dimensions, motor, battery |
+| E8 showroom: size/motor/battery | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | CROSS_CHECKED | Motor, weight, V2L/V2V |
+| E8 GPMA architecture & high-strength steel | Yangcheng Evening News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | single source | Platform, ~75% HSS |
+| Trumpchi E8 New Energy full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Dimensions, 25.57 kWh, CLTC range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-Lưu ý: OEM trang được ghi lại; tỷ lệ thép nền và V2L/V2V con số là một nguồn. PHEV và Glome HOV cố tình tách ra; chỉ tham khảo thị trường Trung Quốc. *
+*Confidence note: OEM page captured; platform steel ratio and V2L/V2V figures are single-source. PHEV and Glory HEV deliberately separated; Chinese-market reference only.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

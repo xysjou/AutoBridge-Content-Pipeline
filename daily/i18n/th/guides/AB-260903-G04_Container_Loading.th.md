@@ -35,7 +35,7 @@
 3. การ ป้องกัน ตัว แต่ ละ หน่วย เป็น ขั้น ๆ — อย่า ปล่อย ให้ รถ คัน หนึ่ง ไม่ มี การ ประกัน ขณะ ที่ ทํา ให้ รถ ชน คัน ถัด ไป.
 การเก็บค่าผิดพลาด (การโหลดรถที่ต่ํากว่าก่อน และปิดชั้นวาง) เป็นความล่าช้าที่เลี่ยงได้มากที่สุด ในรถสี่คัน
 
-## Check print pre-zature
+## การตรวจก่อนออกเดินทาง
 ปรับจากวิธีการโหลดแฟ้มแบบบรรจุเอกสารแล้ว:
 1. ~DS vas package list* — VINs, ปริมาณและเงื่อนไขที่ตรงกับ; PSI เสร็จสิ้นแล้ว (ดูคู่มือ PSI).
 2. ~ลําดับการลดน้ําหนัก ~ — การกระจายน้ําหนัก และตําแหน่งชั้นวางต่อแผน~
@@ -50,7 +50,7 @@
 - แพลนต์โหลดของ A-measized ~ สําหรับโมเดลที่แน่นอน (size/width/Hight) หน้าต่างถูกพับเก็บ ไม่ใช่สัญญาทั่วไปว่าสองหรือสี่
 - ~อุปกรณ์ชั้นวางแบบพร้อมรับ ~ และวางแผนรถสี่คันที่อนุมัติถ้าใช้สองชั้น
 - ~รถม้าที่วิ่งมานับและวิธีขับชี้ของ ~ ตกตกลงกับโกดังสินค้า
-- "หลักฐานที่ส่งมาจากที่ซ่อนและตีตีตีก่อนถูกผนึก" "เชื่อมโยงกับวีนส์"
+- "หลักฐานที่ส่งมาจากที่ซ่อนและตีก่อนถูกผนึก" "เชื่อมโยงกับวีนส์"
 - กรมเอกสาร อันตรายและกฏของ SOC ที่เกี่ยวข้องกับเรื่องนี้
 - ~ โพสต์, เส้นทาง, พาหนะ, และปลายทาง ตอบรับในการเขียน: ~ ตั้งชื่อท่าเรือและเทอร์มินัลที่บรรจุอยู่ * (การทดลองที่บันทึกไว้ทางด้านบนคือ การอ้างอิงทางประเทศจีน, ไม่ใช่มาตรฐานสากล), พาหนะและตู้คอนเทนเนอร์ของเรือนี้ * และไม่ว่าเทอร์มินัลนั้นจะรับค่าโดยสารแบบ perfect-decots และในรางเรือที่ถูกจอง สภาวะยอมรับและการเปลี่ยนแปลงใด ๆ ที่มีประสิทธิภาพแตกต่างกันโดยเทอร์มินัลและบริการดังนั้น บันทึกวันที่แต่ละเงื่อนไขได้รับการยืนยัน
 
@@ -87,17 +87,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| การขนส่งแบบมองด้านข้าง (2/box, 8 สายยาง) | วัสดุปรับความถี่ | สากล | https://m.11467.com/product/d42473652.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | 2-SUV ไม่มีจังหวะเพลง; ~ 8 สายยาง; วิธีล้อ (แหล่งเดียว) |
-| Yantai ท่าแรก 4-SUV "Ro Ro-to-colider" การทดลอง | เคียวลู นิง News โตโยะโตโย | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | Upper2+lower2 เปล; ลําดับการโหลด (หนึ่งรายงานการทดลอง) |
-| รถรางจีน-ยุโรป โหลด (3/box) | รถไฟ ฮาร์บิน ทูเทียโอ | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | อ้างอิงจาก SCUFL/ transl (แหล่งเดียว) |
-| ส่งออกวิธีโหลดอุปกรณ์ห้าขั้น | เน็ตส | สากล | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | Five-point stowage check (one source) |
-* โน้ต Scope: ตัวเลขการโหลดแต่ละรายการมาจากแหล่งเดียวที่แตกต่างกัน (ทุกแหล่ง) — ไม่ปรากฏข้อเท็จจริงที่ยืนยันโดยสองแหล่งอิสระ จึงไม่มีชื่อ CROSS [.ค. ลงทะเบียนแล้ว จํานวนนับเป็นเอกสารอ้างอิง ไม่รับรองการเก็บสินค้า จํานวนที่แน่นอนจะขึ้นอยู่กับมิติวัด และแผนการโหลดที่อนุมัติ *
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| IMO/ILO/UNEEC ประมวลการฝึกสําหรับแพ็คแพ็คของคาร์โกยูยูนิต (รหัส CTU) | องค์กรมาริไทม์ระหว่างประเทศ (IMO) | Int'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | เปิดใช้งาน | การ จําหน่าย รถยนต์, การ ปฏิบัติ อย่าง รุนแรง และ การ ป้องกัน CTU รวม ทั้ง ภาชนะ บรรจุ |
-| ส่วนบรรจุ อุปกรณ์อ้างอิง | สภา การ ขน ส่ง โลก | Int'L | https://www.worldshipping.org/ | 2026-09-05 | เปิดใช้งาน | แก้ไขโครงการหลัก... |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

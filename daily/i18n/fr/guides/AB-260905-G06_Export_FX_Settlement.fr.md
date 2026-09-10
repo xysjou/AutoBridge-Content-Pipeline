@@ -51,18 +51,18 @@ Les produits spécifiques des comptes, les frais bancaires et les écrans opéra
 **Les agences locales SAFE sont-elles des organismes de réglementation distincts?** Non — une autorité unique; les succursales appliquent les mêmes règles.
 **Contient-ils les règles FX du pays acheteur?** Non, seulement du côté chinois.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | NC | T1 | VÉRIFIER | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
-| 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理 (非现场总量核查 分类管理) | 国家外汇管理局文告 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
-| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
-| Administration nationale des changes (SAFE) | SAFE 国家外汇管理局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/en/ | registration et contrôle agrégés des transactions commerciales et des transactions financières |
-| Administration nationale des changes (SAFE) | SAFE (régulateur) | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/ | autorité compétente pour l'enregistrement des échanges et la vérification globale |
-| Banque populaire de Chine (BPOC) — cadre de règlement transfrontalier RMB | Banque populaire de Chine (中国人民银行 PBOC) | NC | T1/T2 | VÉRIFIER | http://www.pbc.gov.cn/ | Cadre de la banque centrale pour le règlement transfrontalier des opérations de change et le traitement bancaire, distinct de l'enregistrement de change SAFE |
-| ICC Financement du commerce (forfaitage/URF, règlement L/C) | Chambre de commerce internationale | ANNEXE | T1/T2 | VÉRIFIER | https://iccwbo.org/business-solutions/trade-finance/ | Instruments de règlement international (pourvoi contre URF 824, L/C) qui interagissent avec les reçus d'exportation FX |
-| CCPIT — documentation commerciale et soutien au règlement | Conseil chinois pour la promotion du commerce international (CCPIT 中国贸促会) | NC | T1/T2 | VÉRIFIER | https://www.ccpit.org/ | Documents commerciaux à l'appui de la preuve de la transaction utilisée dans la réception/vérification FX |
+| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | primary | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | primary | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | primary | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | primary | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
+| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | primary | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
+| People's Bank of China (PBOC) — cross-border RMB settlement framework | People's Bank of China (中国人民银行 PBOC) | CN | primary/independent | VERIFIED | http://www.pbc.gov.cn/ | Central-bank framework for cross-border RMB settlement and bank handling, distinct from SAFE foreign-exchange registration |
+| ICC Trade Finance (forfaiting/URF, L/C settlement) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | International settlement instruments (forfaiting URF 824, L/C) that interact with export FX receipt |
+| CCPIT — trade documentation and settlement support | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | primary/independent | VERIFIED | https://www.ccpit.org/ | Trade documentation supporting proof-of-transaction used in FX receipt/verification |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

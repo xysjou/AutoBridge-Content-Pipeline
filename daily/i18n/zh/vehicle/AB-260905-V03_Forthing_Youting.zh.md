@@ -30,14 +30,14 @@
 | 长度宽度高度冰 | 4850 1900 1715 | 毫米 | 中国 | 横跨 | 太平洋+搜狐 (单位:千美元) |
 | 长度宽度高度 | 4850 1900 1740 | 毫米 | 中国 | 横跨 | 汽车之家+太平洋 (单位:千美元) |
 | 轮式基座 | 2900 | 毫米 | 中国 | 横跨 | 太平洋+搜狐 (单位:千美元) |
-| 席位 | 7(5 门,平开门) (中文(简体)). | - 说吧 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 光圈引擎 | 1.5T 154马力 L4 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| phev 引擎扭矩 | 230 | 不详 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 电流电动机扭矩 | 310 | 不详 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 电流传输 | 1 挡 DHT 电话 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 顶速 | 180 | | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 电流 dc 快电 | 不支持快充(汽车之家口径) (中文(简体)). | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 叶片瓷器 磁带开始 | 15.49 | 万元人民币 维基月球 | 中国 | 时间(_S) | 车主之家 维基月球 |
+| 席位 | 7(5 门,平开门)  | | 中国 | 资源 | 搜狐车型库  |
+| 光圈引擎 | 1.5T 154马力 L4 | | 中国 | 资源 | 汽车之家车家号  |
+| phev 引擎扭矩 | 230 | 不详 | 中国 | 资源 | 汽车之家车家号  |
+| 电流电动机扭矩 | 310 | 不详 | 中国 | 资源 | 汽车之家车家号  |
+| 电流传输 | 1 挡 DHT 电话 | | 中国 | 资源 | 汽车之家车家号  |
+| 顶速 | 180 | | 中国 | 资源 | 汽车之家车家号  |
+| 电流 dc 快电 | 不支持快充(汽车之家口径)  | | 中国 | 资源 | 汽车之家车家号  |
+| 叶片瓷器 磁带开始 | 15.49 | 万元人民币  | 中国 | 时间(_S) | 车主之家  |
 
 ## 管理、管理和支助事务
 对MPV进口商来说,订单关键字段是座椅计数/配置,门型,机舱长度以及单元是ICE还是PHEV. PHEV **电池容量和纯电源范围不可靠地捕获和扣动**,快速充电依赖于单一来源;不要从假设中填充这些容量和电源. 任何救护车、VIP穿梭机或轮椅改装都是在这种多管电视上建造的,属于单独的特别车辆评估。
@@ -56,16 +56,16 @@
 ** 154、900人民币是出口价格吗? ** 否 ——仅中国国内参考.
 ** 能否转换成穿梭/救护车? ** 以上调形式进行;与基数的MPV分开评估。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 (单位:千美元) | 太平洋汽车百科 维基月球 | 氯化萘 | T3 | 横跨 | http://m.pcauto.com.cn/baike/1542347/2562358/ 维基月球 | 尺寸,  轴距,  座椅, 车门形式 维基月球 |
-| 风行游艇 车型信息 (单位:千美元) | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc 维基月球 | 电话:动力、快充、价格 |
-| 风行游艇 参数配置 (单位:千美元) | 搜狐汽车车型库 维基月球 | 氯化萘 | T2 | 横跨 | https://db.auto.sohu.com/model_6769/config 维基月球 | 尺寸,  座位, 动力 维基月球 |
-| 风行游艇 新车资讯 (单位:千美元) | 车主之家 维基月球 | 氯化萘 | T3 | 横跨 | https://m.16888.com/news/2026/0807/24830307.html 维基月球 | 电话上市信息 |
-| 东风福兴全球官方网站 | 东风柳州汽车/福建东风风行(OEM)  Liu州汽车. | 氯化萘 | T1 | 实录 | https://www.forthingmotor.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
-| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
-| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05

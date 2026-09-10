@@ -25,15 +25,15 @@ The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling
 
 | アイテム | 中国の市場参照 | 自信の秘境 |
 |---|---|---|
-| 油圧エンジン | 4KH1CN6LB ** 3.0-litre ディーゼル、中国- 6 (国民VI) | SINGLE_SOURCE |
-| 出力 | 120 PS / 290 N·m | SINGLE_SOURCE — によって確認します。 VIN/OEM|
-| ギアボックス | MSB 5-speed マニュアル (5MT) | SINGLE_SOURCE |
+| 油圧エンジン | 4KH1CN6LB ** 3.0-litre ディーゼル、中国- 6 (国民VI) | single source |
+| 出力 | 120 PS / 290 N·m | single source — によって確認します。 VIN/OEM|
+| ギアボックス | MSB 5-speed マニュアル (5MT) | single source |
 
 4KH1家族は、異なる出力で複数のサフィックスに存在し、第二の独立したレポートは、異なる4KH1サフィックス評価を参照しています。 つまり、エンジンコードがフルであるのは、4KH1CN6LB ** というわけで、単なる「4KH1」ではなく、注文書に書いて、MIITの均質化エントリにマッチしなければなりません。 中国- 6 ディーゼルは中国燃料および国民の VI 段階のために校正されます; 先の燃料の等級および放出の認識は仮定されるのではなく別に点検されなければなりません。
 
 ## ペイロードとカーブの質量: 分類は工場データではありません
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 仕様として提示されていない**は、これらの数字です。 それらは、装着されたボディと異なり、売り手によって自己報告され、負荷を大きさで分類するために使用することはできません。 権威のある定格ペイロード、カーブの質量とGVWは、**正確なシャーシの均質化証明書/ネームプレート**から来ています。 ペイロードデューティサイクルにコミットする前に、それらを取得します。
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 仕様として提示されていない**は、これらの数字です。 それらは、装着されたボディと異なり、売り手によって自己報告され、負荷を大きさで分類するために使用することはできません。 権威のある定格ペイロード、カーブの質量とGVWは、**正確なシャーシの均質化証明書/ネームプレート**から来ています。 ペイロードデューティサイクルにコミットする前に、それらを取得します。
 
 ## 隣接するラインと世界一のいすず境界線
 
@@ -60,7 +60,7 @@ Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.
 ## よくある質問
 **Qingling KV100のカテゴリは何ですか?**
 
-It is a cab-over N2 blue-plate light truck with GVW at or below 4.5 t, typically fitted with a roughly 4.2–4.3 m cargo body.
+キャブオーバー型のN2ブルーナンバー軽トラックで、GVWは4.5 t以下、荷台長は概ね4.2–4.3 m。
 
 **エンジンはどのようなエンジンを使用すればよいですか? アパート
 
@@ -78,21 +78,21 @@ It is a cab-over N2 blue-plate light truck with GVW at or below 4.5 t, typically
 
 いいえ — 100P (4KB1) は、図が KV100 仕様に結合されなければならず、別のモデルラインです。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-08
-- **参照の市場**:中国(中国市场蓝牌轻卡参考;4KH1 功率为单一来源、二手载质量为 T4 不作规格、与全球 Isuzu ELF 不自动同型)
+- **参照の市場**:中国(中国市场蓝牌轻卡参考;4KH1 功率为单一来源、二手载质量为 directory/listing 不作规格、与全球 Isuzu ELF 不自动同型)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 単元エンジン出力と、すべての定格ペイロード/ GVW 数値は、OEM シートまたは MIIT の均質化エントリに再確認されなければならないし、グローバル Isuzu の同型ステータスは、トランスフォーメーション前の明示的な OEM ステートメントが必要です。
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。

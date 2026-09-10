@@ -68,16 +68,16 @@ Pour les importateurs de VPM, les champs critiques pour la commande sont le nomb
 **Le prix à l'exportation est-il de 154 à 900 RMB?** Non — référence intérieure chinoise seulement.
 **Peut-il être converti en navette/ambulance?** Comme un bon ajustement; évaluer séparément du VPM de base.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | NC | T3 | _CHECTURE | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | NC | T3 | _CHECTURE | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | NC | T2 | _CHECTURE | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | NC | T3 | _CHECTURE | https://m.16888.com/news/2026/0807/24830307.html | VÉHICULE 上市信息 |
-| Dongfeng Forthing site officiel mondial | Moteur Dongfeng Liuzhou Forthing 东风风行 (OEM) | NC | T1 | VÉRIFIER | https://www.forthingmotor.com/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

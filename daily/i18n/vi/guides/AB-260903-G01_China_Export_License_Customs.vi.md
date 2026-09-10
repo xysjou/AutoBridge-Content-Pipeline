@@ -84,17 +84,17 @@ Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã 
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 Xe đạp và & tự động Xuất danh sách thông báo lỗi khi lưu | Bộ Thương mại (MOCOM) | CN (bên ngoài cửa xuất) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VEII | Tập tin thường niên; bằng chứng hiệu suất tăng dần |
-| Thông báo về việc tăng cường sự quản lý xuất thẻ dùng | Thư viện chính sách của Hội đồng tiểu bang (bốn công ti) | CN (bên ngoài cửa xuất) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VEII | Chế độ bằng lái xe; 180-day quy tắc từ 2026-01-01 |
-| Bộ quản lý xuất khẩu xe hơi hành khách BEV | Quốc gia mỗi ngày Toutao | CN (bên ngoài cửa xuất) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | T_ TIẾNG TÂM | Theo dõi chứng nhận, tham chiếu HS |
-| MIIT Order No. 50 — Sản xuất & sản xuất | Bộ công nghệ và kỹ thuật | CN (bên ngoài cửa xuất) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VEII | Sáu loại nhập học; tài liệu-chain cơ bản |
-*Scope lưu ý: Các nguồn tin chính thức ở đây chỉ bao gồm phía xuất khẩu ở Trung Quốc. Chính xác HS mã, chi tiết hoạt động hệ thống và bất kỳ bản chỉnh sửa hàng năm nào phải được xác nhận chống lại thông báo thuế hiện tại và MOFCOM; luật lệ ở phía đích nằm ngoài phạm vi. *
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
+*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Bộ Thương mại (MOCOM) thông báo chính thức | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VEII |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | Bộ Thương mại Ngoại giao MOFCOM (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VEII |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

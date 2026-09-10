@@ -80,16 +80,16 @@ Qual edição UN38.3 se aplica? O atual Manual of Tests and Criteria, Rev. 8 com
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| IMDG Code Amendment 42-24 official Chinese text PDF | Administração de Segurança Marítima da China | Execução INTL/CN | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primário) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Classe 9 |
-| Manual de Ensaios e Critérios da ONU (Rev. 8 + Alteração 1), secção 38.3 (SCETDG- 66 INF. 30) | Subcomité UNECE ONU | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primário) | Rev.8+Amd.1,  UN38.3 T.1–T.8, iões de sódio |
-| UN/SCETDG- 64 INF. 29 identificação da bateria de lítio 38.3 alteração da marcação | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primário) | 38.3 alterações na marcação |
-| CFR 49 dos EUA § 173.185 (incorpora UN38.3 pelo IBR) | US GovInfo (CFR) | EUA | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primário) | UN3480/3481, referência legal UN38.3 |
-| Interpretação IMDG 42-24 (MSC. 556 (108), data de eficácia) | China Marítima (reposta) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (suporte) | Interpretação da data de eficácia |
-| UN3556 SP405 interpretação da marcação | Jiupai news (reposta) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | ORIGINAL ÚNICA (suportando) | Marcação SP405 |
-* Nota de evidência: classificação central ancorada em MSA (IMDG 42-24) e UNECE (Manual Rev. 8+Amd.1, 49 CFR) fontes primárias; páginas de mídia/indústria estão suportando apenas e não são a evidência primária para números ONU ou valores de SOC fixos UN38.3. permanecem bloqueados. *
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
+*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

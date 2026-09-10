@@ -77,15 +77,15 @@ No - 파일럿 공원은 현재, 시간 감지 목록에 이름을 따서 명명
 
 규칙에 따라 의무는 수입한 입력 또는 상품을 기준으로 참조하여 levied, 의외 국내 판매 운동 당 선출될지도 모릅니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 三部门试点公告 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 符合条件的综保区企业可申请增值税一般纳税人资格试点 |
-| 官方解读 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 试点企业进口自用设备在规定范围内可暂免征收进口税收 |
-| 国务院 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm | 《国务院关于促进综合保税区高水平开放高质量发展的若干意见》(国发〔2... |
-| 税务总局 | 国家税务总局 | CN | T1 | CROSS_CHECKED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 区内货物内销可按对应进口料件或实际报验状态选择性征收关税 |
-| 新疆维吾尔自治区发改委政策库 | 新疆维吾尔自治区发改委(地方政府政策库) | CN | T1 | CROSS_CHECKED | https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml | 地方政府政策库正式收录税务总局/财政部/海关总署综保区一般纳税人试点... |
-| 海关总署+政府网 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 综保区'一线'进境保税、'二线'按状态报关；境内货物入区视同出口可办... |
+| 三部门试点公告 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 符合条件的综保区企业可申请增值税一般纳税人资格试点 |
+| 官方解读 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 试点企业进口自用设备在规定范围内可暂免征收进口税收 |
+| 国务院 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm | 《国务院关于促进综合保税区高水平开放高质量发展的若干意见》(国发〔2... |
+| 税务总局 | 国家税务总局 | CN | primary | CROSS_CHECKED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 区内货物内销可按对应进口料件或实际报验状态选择性征收关税 |
+| 新疆维吾尔自治区发改委政策库 | 新疆维吾尔自治区发改委(地方政府政策库) | CN | primary | CROSS_CHECKED | https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml | 地方政府政策库正式收录税务总局/财政部/海关总署综保区一般纳税人试点... |
+| 海关总署+政府网 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 综保区'一线'进境保税、'二线'按状态报关；境内货物入区视同出口可办... |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)

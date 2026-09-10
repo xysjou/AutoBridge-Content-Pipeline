@@ -25,7 +25,7 @@ Ein LKW-Kran ist kein LKW mit einer Winde, die auf: Es handelt sich um ein **Spe
 Es ist verlockend, ein Datenblatt zu vervollständigen, indem man Zahlen von einer ähnlich benannten Maschine kopiert - dem Zoomlion ** QY25H431 **, einem ** QY25K ** oder einem anderen "25-ton" -Kran. Genau das darf nicht passieren:
 
 - **Angrenzende Modellnummer ≠ identische Spezifikation.** Verschiedene Modellcodes bezeichnen unterschiedliche Ausleger (Länge und Anzahl der Abschnitte), unterschiedliche Träger, unterschiedliche Auslegerbasen, unterschiedliche Hydrauliksysteme und damit **unterschiedliche Lastdiagramme**.
-- A boom length or maximum lifting height from the QY25 series does **not** transfer to the ZTC250H.
+- Eine Auslegerlänge oder maximale Hubhöhe der QY25-Serie ist **nicht** auf den ZTC250H übertragbar.
 - Ein Ladediagramm ist sicherheitskritisch: Ein überbewerteter Radius/Kapazitätsmaßstab kann einen Umsturz oder strukturellen Ausfall verursachen und den Exporteur der Haftung aussetzen.
 
 Dementsprechend bleiben die folgenden ** blockiert / aus der exakten Zoomlion-Dokumentation zu erhalten und werden hier absichtlich nicht geschätzt: Hauptboomlänge und Anzahl der Abschnitte; maximale Hubhöhe (und Jib / Fly-Jib-Höhe); Trägermotormodell und -leistung; Gesamtabmessungen und Bord / GVW; maximale Fahrgeschwindigkeit; und die volle Radius-vs-Nennkapazitätslasttabelle.
@@ -64,7 +64,7 @@ Es wird keine Prüfung, keine Prüfung oder Messung aus erster Hand gefordert. D
 ## FAQ
 **Was bedeutet "25 Tonnen" für die ZTC250H ?**
 
-It is the nominal 25-tonne class; Der sichere Auftrieb in jedem Radius wird durch das modellspezifische Lastdiagramm festgelegt, nicht in jeder Konfiguration eine flache 25 t.
+Er gehört nominell zur 25-Tonnen-Klasse; die sichere Tragkraft in jedem Ausladungsbereich bestimmt das modellspezifische Lastdiagramm, nicht ein pauschaler Wert von 25 t für jede Konfiguration.
 
 **Kann ich ein QY25H431 oder QY25K Ladediagramm für den ZTC250H verwenden? **
 
@@ -82,16 +82,16 @@ Es kombiniert ein Trägerchassis (Motor/Emission/Registrierung) mit einem tragen
 
 Die chinesische Marktmaschine ist LHD; jede RHD oder exportzertifizierte ZTC250H erfordert separate Zoomlion OEM-Beweise und wird nicht als identisch angenommen.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | identity |
-| 铁甲网 | 铁甲网 | CHINA | T3 | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | T4 | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | T4 | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
-| 抖音 | 抖音 | CHINA | T4 | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6717066179594158595/ | identity |
+| 铁甲网 | 铁甲网 | CHINA | media/industry | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | directory/listing | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | directory/listing | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
+| 抖音 | 抖音 | CHINA | directory/listing | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]

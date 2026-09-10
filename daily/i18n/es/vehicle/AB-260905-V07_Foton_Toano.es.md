@@ -26,13 +26,13 @@ El **Foton Toano (图雅诺, 2026)** es un autobús diesel de gran altura y cami
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| x5 corto de humedad | 4990×1980×1990 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| x5 corta distancia de rueda | 3070 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| opciones de larga distancia de rueda | 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| motor 2 5t torque | 400 | N·m | CHINA | SINGLE_SOURCE | 大众网 |
-| transmisión | 6MT | - | CHINA | SINGLE_SOURCE | 大众网 |
+| x5 corto de humedad | 4990×1980×1990 | mm | CHINA | single source | 搜狐对比 |
+| x5 corta distancia de rueda | 3070 | mm | CHINA | single source | 搜狐对比 |
+| opciones de larga distancia de rueda | 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) | mm | CHINA | single source | 搜狐对比 |
+| motor 2 5t torque | 400 | N·m | CHINA | single source | 大众网 |
+| transmisión | 6MT | - | CHINA | single source | 大众网 |
 | opciones de asiento | 3/5/6/7/9/14/15/17 (随版本) | - | CHINA | CROSS_CHECKED | 大众网 + 搜狐 |
-| Nota de conversión refrigerada | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | SINGLE_SOURCE | 大众网 |
+| Nota de conversión refrigerada | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | single source | 大众网 |
 
 ## Punto de contratación de Van: elegir una configuración, separar el ajuste
 Los compradores de Van deben fijar la base de rueda, altura del techo, conteo de asientos (passenger) o distribución de carga, y motor antes de comparar precios. Las masas Cummins ISF2.8 de potencia y per-trim kerb/GVW son **no capturados y se retienen** en espera de una hoja OEM; las entradas de enciclopedia se trataron sólo como pistas. Un cuerpo refrigerado o ambulancia es una **superestructura en un chasis** y necesita su propia evaluación de la carga útil/insulación/refrigeración.
@@ -48,19 +48,19 @@ Los compradores de Van deben fijar la base de rueda, altura del techo, conteo de
 ¿Cuántos asientos? Varia entre versiones (3–17); especifique la construcción exacta.
 **¿Por qué no hay lista completa de potencia ISF2.8?** La matriz variante necesita un bloqueo OEM; se retiene.
 **¿Es la camioneta refrigerada un modelo de fábrica?** Es una conversión/acondicionamiento en el chasis Toano.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
+**¿Qué batalla para un minibús?** Elegir entre 3070/3510/3750 mm según el diseño.
 **¿Dónde están las cifras de GVW?** No es fiable capturada; obtener de la homologación.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | CN | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装, 非原厂 VAN 参数 |
-| Foton Motor sitio oficial | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | marca/model-line identity and OEM authority |
-| Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |
-| Administración Estatal para el Reglamento de Mercados (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | nacionales de normas, certificación y autoridad de regulación del mercado |
+| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
+| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

@@ -47,7 +47,7 @@ The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديد�
 1. تأكيد تشكيلة PHEV وطاقات البطاريات حسب شبكة المعلومات الشخصية؛ فصلها عن اليونيو-ز التابعة لمنظمة الأمن والتعاون في أوروبا.
 2 Reconcile CLTC 130 كيلومتراً مقابل دورة اختبار المقصد.
 3. التحقق من موصل الشحنات في وV2L من صلاحية التصدير في سوق المقصد.
-4. Obtain destination PHEV type-approval/emissions documentation rather than inferring from China specs.
+4. احصل على وثائق اعتماد النوع/الانبعاثات للمركبة الهجينة القابلة للشحن PHEV في الوجهة بدلاً من الاستنباط من المواصفات الصينية.
 5. طلب اقتباس تصديري حالي)الوجه، الكمية، الترميز، LHD/RHD، الميناء، Incoterm(- لا ينشر هنا أي سعر.
 
 ## FAQ
@@ -57,15 +57,15 @@ The Changan UNI-Z (2026) مغطى هنا السوق الصينية الجديد�
 ** هل هو 130 km من مجموعة WLTP؟** لا - إنها لجنة مكافحة الإرهاب
 ** أين ثمن التصدير**؟ نطلب اقتباساً حالياً، ولا تنشر هذه الصفحة أي منها.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 置но |之《车《家《家《家《家家 | CN  T3 | | صرخ صرخ صرخ > https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo26106686 | | | |.外
-| | | | | CN | T2 | | صرخ صرخно | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 |, 轴距, 轴距, 轴距, |, |.动. ... ...
-| Changan الموقع العالمي الرسمي للسيارات | Changan Automobile 长安汽车 (OEM) | CN | T1 | مفقود | https://www.globalchangan.com/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

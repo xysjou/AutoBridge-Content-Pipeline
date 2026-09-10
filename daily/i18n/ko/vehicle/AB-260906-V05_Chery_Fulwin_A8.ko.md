@@ -83,16 +83,16 @@ Fulwin A8은 몸과 규격이 아닌 두 가지 다른 배터리 / 범위 라인
 
 The 145 line is quoted at ≈19 minutes for 30–80% (single-source, 확인); 대상에 대한 커넥터 및 표준을 확인합니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风云 A8 2025 款 70km 标准型 (1.5L 102Ps, CLTC 纯电 70, 4780 × 1843 × 1487) | 搜狐汽车车型库 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T2 | CROSS_체크 | http://db.m.auto.sohu.com/trim_178074 | 70 线动力, 尺寸, 纯电续航  |
-| 2025 款风云 A8 空间尺寸 (4780 × 1843 × 1487, WB2790, 后排 907mm) | 汽车之家·车家号 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | ☸ | |
-| 风云 A8 145km 豪华型 (1.5T 156Ps, 1 挡 DHT, 系统 265kW/530N·m) | 车主之家 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | https://m.16888.com/news/2026/0814/24847862.html | 145 线系统功率의 DHT  |
-| 风云 A8 C-DM (145km, 快充 30% - 80% 约 19 分钟, 热效率 44.5%) | 太平洋汽车百科 | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率,  纯电续航  |
-| 奇瑞汽车官方网站 (风云系列년) | Chery 자동차 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.chery.cn/m | ID - OEM 공식; Fulwin (Fengyun) PHEV 선 정체성 |
-| Chery Fulwin A8 2025 트림 및 사양 (무지정 DB) | 차뉴스중국 (주) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | T2 | CROSS_체크 | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 - 韓国語 타임즈 타임즈 타임즈 카 렌탈 토크 크로스 체크 |
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | identity — PHEV 변형 및 배터리를 공지합니다. 의논문
+| 风云A8 2025款70km标准型（1.5L 102Ps、CLTC纯电70、4780×1843×1487） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_178074 | 70线动力, 尺寸, 纯电续航  |
+| 2025款风云A8空间尺寸（4780×1843×1487、WB2790、后排907mm） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸, 轴距  |
+| 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0814/24847862.html | 145线系统功率, DHT  |
+| 风云A8 C-DM（145km、快充30%-80%约19分钟、热效率44.5%） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率, 纯电续航  |
+| 奇瑞汽车官方网站（风云系列） | Chery Automobile | CN | primary | VERIFIED | https://www.chery.cn/m | identity — OEM official; Fulwin (Fengyun) PHEV line identity |
+| Chery Fulwin A8 2025 trims & specs (independent DB) | CarNewsChina Data | CN | independent database | CROSS_CHECKED | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — independent English database; dimensions/torque cross-check |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify PHEV variant and battery by announcement |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

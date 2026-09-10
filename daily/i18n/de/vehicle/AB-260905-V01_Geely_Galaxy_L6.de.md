@@ -32,22 +32,22 @@ Die EM-i-Linie ist Frontantrieb und paart einen 1.5 L Saug-Benzinmotor mit einem
 |---|---|---|---|---|---|
 | Breitenbreitenhöhe | 4782 1875 1489 | mm | CHINA | CROSS_CHECKED | ZOL+ 搜狐双源一致 |
 | Radstand | 2752 | mm | CHINA | CROSS_CHECKED | ZOL+ 搜狐双源一致 |
-| Körperstil | 4 门 5 座三厢轿车 | - | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
-| Motormodell | BHE15-BFN 1.5L 自然吸气 | - | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| Motordrehzahl | 1499 | mL | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| Motorleistung | 82 (112Ps) | kW | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| Motordrehmoment | 136 | N·m | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
+| Körperstil | 4 门 5 座三厢轿车 | - | CHINA | single sourceN | 搜狐车型库 |
+| Motormodell | BHE15-BFN 1.5L 自然吸气 | - | CHINA | single sourceN | ZOL 参数表 |
+| Motordrehzahl | 1499 | mL | CHINA | single sourceN | ZOL 参数表 |
+| Motorleistung | 82 (112Ps) | kW | CHINA | single sourceN | ZOL 参数表 |
+| Motordrehmoment | 136 | N·m | CHINA | single sourceN | ZOL 参数表 |
 | Motorleistung | 160 | kW | CHINA | CROSS_CHECKED | ZOL+ 太平洋 |
-| Motordrehmoment | 262 | N·m | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| Übertragung | 1 挡 DHT(EM-i 单挡混动专用变速) | - | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
-| Batteriekapazitätsleitungen | 8.5 19.09 | k Whh | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| ev range cltc | 60 140（对应8.5/19.09kWh） | km | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| ev range wltc | 48 115 | km | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| kombinierter Bereich cltc | 最高 2000 | km | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Höchstgeschwindigkeit | 180 | km/h | CHINA | SINGLE_SOURCEN | ZOL 参数表 |
-| accel 0 100 | 7.4 | s | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Kraftstoffbehälter | 60 | L | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Widerstandskoeffizient | 0.26 | Cd | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Motordrehmoment | 262 | N·m | CHINA | single sourceN | ZOL 参数表 |
+| Übertragung | 1 挡 DHT(EM-i 单挡混动专用变速) | - | CHINA | single sourceN | 搜狐车型库 |
+| Batteriekapazitätsleitungen | 8.5 19.09 | k Whh | CHINA | single sourceN | ZOL 参数表 |
+| ev range cltc | 60 140（对应8.5/19.09kWh） | km | CHINA | single sourceN | ZOL 参数表 |
+| ev range wltc | 48 115 | km | CHINA | single sourceN | 太平洋汽车 |
+| kombinierter Bereich cltc | 最高 2000 | km | CHINA | single sourceN | 太平洋汽车 |
+| Höchstgeschwindigkeit | 180 | km/h | CHINA | single sourceN | ZOL 参数表 |
+| accel 0 100 | 7.4 | s | CHINA | single sourceN | 太平洋汽车 |
+| Kraftstoffbehälter | 60 | L | CHINA | single sourceN | 太平洋汽车 |
+| Widerstandskoeffizient | 0.26 | Cd | CHINA | single sourceN | 太平洋汽车 |
 
 ## Batterie, Reichweitenzyklus und Ladelogik für Käufer
 Die beiden Batterielinien steuern sowohl die reine elektrische Reichweite als auch die Ladezeit, so dass eine Bestellung immer die Batteriekapazität benennen sollte, nicht nur das Trimm-Abzeichen. Report-Bereich mit seinem **Testzyklus**: Die chinesischen Zahlen sind CLTC, was für die gleiche Hardware höher als WLTP liest. Exportmarkt-Antriebsstrangleistung, Batteriechemie-Zertifizierung und Übersee-Range werden hier **nicht von einer OEM-Exportquelle nachgewiesen ** und bleiben unbeansprucht; fordern Sie die Zielmarkt-Homologationsliste an, anstatt anzunehmen, dass die China EM-i-Kalibrierung im Ausland gilt. Infotainment-Chipsatz und OTA-Verfügbarkeit im Ausland werden nicht bestätigt und sind ausgeschlossen.
@@ -67,15 +67,15 @@ Die beiden Batterielinien steuern sowohl die reine elektrische Reichweite als au
 **Wer macht die Batteriezellen?** Nicht OEM-bestätigt in den erfassten Quellen, so dass diese Seite keinen Lieferanten nennt.
 **Veröffentlicht AutoBridge einen Exportpreis?** Nein — fordern Sie ein aktuelles Angebot mit Ziel, Menge, Trimmlinie, LHD/RHD, Port und Incoterm an.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河 L6 系列参数 | 中关村在线 ZOL 产品库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
-| 吉利银河 L6 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
-| 银河 L6 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
-| Geely offizielle globale Website | Geely Auto Group 吉利 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://global.geely.com/ | Marken-/Modelllinienidentität und OEM-Behörde |
-| Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
-| Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
+| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | independent database | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
+| 银河L6 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

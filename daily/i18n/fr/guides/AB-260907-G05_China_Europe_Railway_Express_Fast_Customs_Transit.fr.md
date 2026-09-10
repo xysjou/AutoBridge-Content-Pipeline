@@ -72,17 +72,17 @@ Non. Le transfert de jauges outre-mer et le dédouanement et le traitement fisca
 
 Non. Les taux de fret, les horaires, les valeurs de jauge et d'arrimage de chargement sont propres à la route, au transporteur et au fret et doivent être obtenus du transporteur pour l'expédition réelle.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国国家铁路集团 | 中国国家铁路集团 | CN | T1 | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
-| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | T1 | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
-| 海关总署2021年5号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
-| 海关总署政策直通车㉘ | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
-| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
-| 海关总署(178号公告) | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
-| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
-| 央视网 | 央视网 | INT | T3 | SINGLE_SOURCE | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
+| 中国国家铁路集团 | 中国国家铁路集团 | CN | primary | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
+| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | primary | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
+| 海关总署2021年5号公告 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
+| 海关总署政策直通车㉘ | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
+| 海关总署 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
+| 海关总署(178号公告) | 海关总署 | CN | primary | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
+| 海关总署 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
+| 央视网 | 央视网 | INT | media/industry | single source | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)

@@ -38,16 +38,16 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 **中国輸出業者のDDPリスクはなぜですか?** 目的地の輸入通関、関税、税金を担当する売り手になります。
 **2020年の規約はいくつですか?** イーブン、2つのトランスポートモードグループ。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) の | 中国贸促会广西分会 | CN の | T1 | 検証済み | 以下は、 https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html のファイル | 11 术语、按运输方式分类、风险费用划分 |
-| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN の | T1 | 検証済み | 担当: http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF、船舷 → 装上船 |
-| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf の | 风险转移、象征性交货 |
-| 規約 2020 規則 (ICC) | 国際商取引の商工会議所 | CN の | T1 | 検証済み | 以下は、 https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Incoterms 2020の認証発行者 |
-| WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
-|  ICC  規則 (Incoterms 2020 規則所有者 — 専用ページ) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は 、 |  ICC  規則は 、 現在の著作権条件のセットおよび  ICC  によるメンテナンスとして 、Incoterms 2020 を確認するインデックス | https://iccwbo.org/business-solutions/icc-rules/
-| FIATA — 投資家がインコタームで練習する | 公益財団法人 貨物運送協会(FIATA) | エントリー | T1/T2 | 検証済み | 以下は、 担当: 藤田 宏 | 配送ポイントのフォワーダー・サイド・解釈、リスク・トランスファー、インコタームに基づく輸送義務 | https://www.fiata.org/
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | primary | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | primary | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/icc-rules/ | Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC |
+| FIATA — freight forwarder practice under Incoterms | International Federation of Freight Forwarders Associations (FIATA) | INT | primary/independent | VERIFIED | https://www.fiata.org/ | Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

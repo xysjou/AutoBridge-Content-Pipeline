@@ -83,17 +83,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国 民法 第596条 销售合同条款 | 查找法(法律门户) | 氯化萘 | https://www.findlaw.cn/wenda/q_60484893.html 维基月球 | 2026-09-03 | 横跨 (通过次级法律门户引用的文章;不是国家警察局的官方来源) | 基本合同内容 |
-| | 法律权利 | 全球 | https://m.110ask.com/fanben/601005122281423969.html 维基月球 | 2026-09-03 | 横跨 | 风险转移;保留所有权;情况披露 | 110ask
-| 采购合同核心条款(违反/产权/配置清单) | 66Law 维基月球 | 氯化萘 | https://m.66law.cn/question/56427049.aspx 维基月球 | 2026-09-03 | 横跨 | 有限期间、索赔窗口、配置附件 |
-| 出口合同 国际贸易术语解释/争议/加注 | 货运材料 | 全球 | https://m.11467.com/product/d43019461.htm 维基月球 | 2026-09-03 | 资源 | 国际贸易术语解释通则的版本、国际商会仲裁、注解 |
-* 范围说明: 第596条 内容为 CrossS_ 公民、儿童和残疾人委员会仅通过二级法律门户——核查和康复方案要求获得中华人民共和国《民法典》的正式文本,但该文本没有被捕获;没有将其标注为核查和康复方案。 所有权保留、仲裁和加注的可执行性取决于选定的管辖法律和目的地,必须得到合格律师的确认。 合同模式只是结构参考。 * 报告迟交是因为需要翻译。
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (最高人民检察院)——大法官 | 氯化萘 | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml 维基月球 | 2026-09-04 | 实录 |  |
-| 中华人民共和国民法典 全文 (政府门户转载) (中文(简体)). | 云南省司法厅 (sft.yn.gov.cn)/ 开封市人大 (kfsrd.henanrd.go) (英语). | 氯化萘 | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml 维基月球 | 2026-09-04 | 实录 |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

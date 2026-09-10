@@ -19,8 +19,8 @@ Chiếc Jiefang J6F là chiếc xe tải chở ánh sáng của FAW trong khu v�
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
 | Loại | N2 xe tải chở hàng nhẹ, bảng màu xanh dương (GVW dưới 4.5 t, taxi trên xe (mặt phẳng) | @ info: credit | ĐÃ_ ĐÃ |
-| Máy lấy mẫu | Phục vụ CA4DB1-13E6, 2.2 L diesel, 95 kW (130 PS)/ 350 N·m, Trung Quốc- 6b | Máy thử nghiệm CHINA. xác nhận | SINGLE_SOURCE |
-| Cơ thể hàng hóa điển hình | Common stake/box bodies around 4.2 m long | TRUNG QUỐC - TIẾNG · Nguồn độc nhất, xác nhận bởi xây dựng | SINGLE_SOURCE |
+| Máy lấy mẫu | Phục vụ CA4DB1-13E6, 2.2 L diesel, 95 kW (130 PS)/ 350 N·m, Trung Quốc- 6b | Máy thử nghiệm CHINA. xác nhận | single source |
+| Cơ thể hàng hóa điển hình | Common stake/box bodies around 4.2 m long | TRUNG QUỐC - TIẾNG · Nguồn độc nhất, xác nhận bởi xây dựng | single source |
 
 J6F được cung cấp với nhiều động cơ trên các mẻ lưới kiểu mẫu — CA4DB1 con số này là mẫu đại diện, chứ không phải toàn bộ ma trận động cơ. Người mua không nên cho rằng cứ J6F người sử dụng động cơ đó; người ta đọc chính xác từ giấy chứng nhận đồng tính của bộ khung VIN.
 
@@ -55,7 +55,7 @@ Không có con số FOB/CF nào được ước tính. Yêu cầu một đoạn 
 ## FAQ
 Lớp nào là Jiefang J6F?
 
-A cab-over N2 blue-plate light truck in the under-4.5-tonne GVW class used for urban distribution.
+Xe tải nhẹ N2 cabin-vê-đầu, biển xanh, tổng trọng lượng dưới 4,5 tấn, dùng cho phân phối đô thị.
 
 Nó dùng động cơ nào? ****
 
@@ -73,16 +73,16 @@ Không có ai trả tiền và GVW ở đây — lấy từ thông báo của MI
 
 Phải, nhưng hãy giữ cho bộ khung cửa OEM đồng nhất và sự tuân thủ siêu cấu trúc địa phương như hai sự đồng ý riêng biệt.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号 (今日头条镜像) | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱. 蓝牌  |
-| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号 (今日头条镜像) | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
-| 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | TRUNG QUỐC | T1 | VEII | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 在售配置样本 (额定载重区间线索), T4 | 58同城 | TRUNG QUỐC | T4 | ĐƯỢC XÃ KỂ LẠI | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Nhận diện — Kiểm tra N2 GVW/cơ khí/tải đầy bởi thông báo chính xác |
-| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | T2 | ĐÃ_ ĐÃ | http://www.360che.com/ | Danh tính — cơ sở dữ liệu qua bảng kiểm tra thương mại; tải trọng vẫn cho phép thông báo |
-| FAW Xe tải toàn cục (ra nước ngoài) | FAW Jiefang | Comment | T1 | ĐÃ_ ĐÃ | https://www.fawtrucks.com/ | Danh tính — tham chiếu thị trường xuất khẩu; không giống Trung Quốc J6F |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

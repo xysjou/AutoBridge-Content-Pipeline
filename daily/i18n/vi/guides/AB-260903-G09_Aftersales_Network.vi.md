@@ -79,17 +79,17 @@ Cái này khác với hướng dẫn mua phụ tùng thế nào? Nó bao gồm c
   - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Four-ministry used-car export notice (item 6: Hệ thống hỗ trợ) | Thư viện chính sách của Hội đồng Nhà nước | CN/ Toàn cục | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VEII | Mong đợi chính sách của việc tham gia sau khi đi bán hàng/một phần/công nghệ hỗ trợ |
-| Thông báo giống nhau (hệ thống hỗ trợ) | Bộ thương mại | CN/ Toàn cục | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VEII | Comment |
-| Làm thế nào mà người Trung Quốc có thể đóng lại những con sau khi ra nước ngoài | Tài chính Sina | Toàn cục | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE_SOURCE | Đường dẫn mạng đa bút; ví dụ phần Melbourne; 7-yr bảo mật |
-| Các phần đang được chuyển đổi toàn cầu phải được hệ thống hóa | Tin tức Bắc KinhName | Toàn cục | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | ĐÃ_ ĐÃ | "Tiệm bán hàng nặng, dịch vụ nhẹ", sự yếu đuối của đại biểu mạo hiểm |
-*Scope: sự mong đợi chính sách là chính thức; mô hình mạng và các mặt hàng nhà kho/chiến tranh ở Úc là những ví dụ đơn ứng dụng, không được trình bày như tiêu chuẩn phổ thông. Dịch vụ hướng dẫn này được giữ riêng biệt với nhóm người mua đồ dự phòng. *
+| Four-ministry used-car export notice (item 6: support system) | State Council policy library | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Policy expectation of joint after-sales/parts/tech support |
+| Same notice (support system) | Ministry of Commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | MOFCOM counterpart text |
+| How Chinese automakers can close the overseas after-sales gap | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | single source | Multi-brand network path; Melbourne parts example; 7-yr warranty example |
+| Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
+*Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
 
-| Các dự án về khả năng sửa chữa/ trở lại tái định vị/ quay lại sản phẩm tự động của gia đình (Thứ tự SAR số 43) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VEII | Các điều khoản bảo hành gia đình (san-bao) cơ sở mà các điều khoản sau khi ra nước ngoài phải được phân biệt với |
-| Hội đồng Trung Quốc về sự phát triển của thương mại quốc tế (truyền thông dịch vụ) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VEII | Các kênh tổ chức hỗ trợ công việc nước ngoài- Mạng |
+| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
+| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

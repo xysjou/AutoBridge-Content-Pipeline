@@ -29,7 +29,7 @@ Ini adalah ** titik evaluasi **, bukan otomatis perubahan dan bukan persyaratan 
 
 ## EV Hybrid: Opsi Manajemen Termal untuk Evaluasi
 Untuk kendaraan listrik baterai adalah sistem panas-sensitif. Satu sumber teknik mendiskusikan manajemen suhu panas cair dengan equalisalisasi suhu sel dan catatan bahwa paket yang didinginkan dapat lebih rentan dalam suhu tinggi (tunggal-sumber). Pembacaan yang benar untuk pengadaan:
-- ** Ask the OEM for thermal data ** comparting its cooling approal against the target amplop; * reactive cooling is one option - don 't refused air cooler catechoric, and don' t assue cooling is harmanded **, nose an OEM mearering-standare warning for model itu.
+- **Minta data termal ke OEM**, bandingkan pendekatan pendinginannya dengan lingkungan target; pendinginan reaktif adalah salah satu opsi — jangan menolak pendingin udara secara kategoris, dan jangan mengasumsikan pendinginan diwajibkan; catat peringatan berbasis standar ukur OEM untuk model itu.
 - Diskusikan strategi suhu tinggi BMS dengan suhu tinggi... derating, charge- current limit, thermal warning.
 - Evaluasi ** hot-iklim DC cepat-biaya perilaku, kabin pre- pendinginan **, dan konektor onboard- charger toleransi panas, operasi berdebu.
 - A Chinese policy reference cites a battery-environment **target of −30 °C to 55 °C** (single-source) — a design target only, bukan batas hukum Teluk.
@@ -79,18 +79,18 @@ Adaptasi tidak menggantikan akses pasar: kendaraan dan komponen yang berubah apa
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Adaptasi kendaraan GCC tinggi suhu dusty- upfit kendaraan | Penyedia sertifikasi upfit | Teluk | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE _ SOURCE | Jangkauan iklim; titik adaptasi kandidat ICE (satu sumber) |
-| Semua neV iklim (suhu tinggi pendingin rendah suhu udara panas) | Teknik di Cina Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE _ SOURCE | Cair vs udara termal-manajemen diskusi (satu sumber) |
-| Baterai tinggi rendah performa suhu (camera 30 ~ 55 target) | D1EV Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE _ SOURCE | Koreponer 30 sampai 55 °C target desain kebijakan (satu sumber) |
-| 2026 Jeddah autoparts fair (panas debu bagian, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE _ SOURCE | Komponen tahan panas debu; catatan compliance GCC (satu sumber) |
-* Langit-langit bukti: setiap fakta adaptasi terletak pada sumber tunggal (semua SINGLE _ SOURCE); tidak ada standar dasar GSO atau spesifikasi rekayasa OEM ditangkap. Item dibingkai sebagai titik evaluasi untuk OEM / upfitter, bukan persyaratan universal Teluk; tidak ada batas hukum atau konfigurasi wajib yang ditetapkan. ♪
+| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | single source | Climate range; ICE candidate adaptation points (one source) |
+| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | single source | Liquid vs air thermal-management discussion (one source) |
+| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | single source | −30 to 55 °C policy design target (one source) |
+| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | single source | Heat/dust-resistant components; GCC compliance note (one source) |
+*Evidence ceiling: every adaptation fact rests on a single source (all single source); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
 
-| GCC motor- kendaraan daftar peraturan teknis | Organisasi Standardisasi GCC (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | TERBATAI | Peraturan teknis kendaraan GCC- luas, kecenderungan. Jadwal emisi iklim (negara bervariasi) |
-| Standar dan konformitas Saudi (SASO Saleem) | Sarjana Saudi, Metroologi dan Kualitas Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | TERBATAI | Ukuran standar dan lingkup konformitas Saudi-spesifik |
-| Sertifikat konfirmasi untuk produk yang diatur (lekukan kendaraan suku cadang) | UAE Kementerian Industri dan Teknologi Lanjutan (MoiAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | TERBATAI | UAE- rute konformitas spesifik; tanda panas debu dikonfirmasi setiap pasar, tidak diasumsikan seragam GCC- |
+| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
+| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
+| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

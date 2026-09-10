@@ -16,7 +16,7 @@
 ## คอนเท็กซ์ของนักซื้อ: การตัดสินใจเลือก เริ่มด้วยเตียงและสนามแข่ง
 สําหรับปิคอัพคําถามแรกของผู้ส่งออก คือความยาวเตียง ค่าใช้จ่าย ผังขับสี่ล้อ และ chasis — ไม่ใช่ข้อมูล T9 ฮันเตอร์เป็น ปิกอัพขนาดกลางของเจซี ในประเทศจีนมีตลาดเป็น **Hantu (悍途)**. ระบุตัวตนได้โดย **two JAC-owned official sites** — the export site (jacen,  name "T9")  and  เว็บไซต์รับของจีน (Bickup.jac)  name "悍途/Hantu") — which satisfy MODEL_ALIAS_REQUIRES_OEM_PROOF: ความมุ่งมั่นสุดท้ายของ ID ใกล้เคียงกับรูปแบบของผลิตภัณฑ์ อัตลักษณ์และการปรับแต่งต่อตลาด จะถูกพิจารณาด้วยตัวเอง ดังนั้นทุกตัวเลขข้างล่าง ยังคงดําเนินการตลาดและตราแห่งความมั่นใจ
 
-## Chasis and Flybase: Standard vs Long
+## แชสซีและฐานล้อ: มาตรฐาน vs ยาว
 | รายการ | เบสของล้อมาตรฐาน | เบสล้อยาว |
 |---|---|---|
 | ความยาวตลอด | **5330 mm** | **5620 mm** |
@@ -34,7 +34,7 @@
 | 4WD | ~Borg Warner parts 4WD (2H/4H/4L) + ล็อกดิฟเฟอเรนเชียลหลัง** |
 | เรียกร้องการบริโภคเชื้อเพลิง | 7.6 L 100 km — ~ผู้ควบคุมการกล่าวมา* (พ.ศ. |
 
-รายการพลังงานตลาดจีนเหล่านี้ ปัจจุบันวางจําหน่ายบนแหล่งสื่อจีนเพียงแห่งเดียว (以厂商配置单终核) ถัดจากเว็บไซต์ส่งออก OEM; สําหรับ *ตลาดจีน* การมีการส่งออก- OEM ไม่ได้อัพเกรดความมั่นใจของตลาดจีน เชื้อเพลิง/ การปลดปล่อย: ดีเซล; ยืนยันความทนทานของปลายทางและเส้นทางการปล่อยก๊าซ (เครื่องปรับอากาศจีน-VI ไม่ได้รับอนุมัติต่างประเทศ).
+รายการพลังงานตลาดจีนเหล่านี้ ปัจจุบันวางจําหน่ายบนแหล่งสื่อจีนเพียงแห่งเดียว (以厂商配置单final confirmation) ถัดจากเว็บไซต์ส่งออก OEM; สําหรับ *ตลาดจีน* การมีการส่งออก- OEM ไม่ได้อัพเกรดความมั่นใจของตลาดจีน เชื้อเพลิง/ การปลดปล่อย: ดีเซล; ยืนยันความทนทานของปลายทางและเส้นทางการปล่อยก๊าซ (เครื่องปรับอากาศจีน-VI ไม่ได้รับอนุมัติต่างประเทศ).
 
 ## การ ขับ รถ, การ ลาก และ การ จ่าย — เป้า หมาย ของ ตลาด
 - **Part-time four-wheel drive (BorgWarner)** with **2H 4H 4L**  and  A-Rar Delectron Docky) บนเอกสาร 4x4 (Chense-smarket-source) เข้าสู่ขั้นสุดท้ายกับแผ่นไม้
@@ -90,21 +90,21 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| JC T9 ข้อกําหนดอย่างเป็นทางการ | เว็บไซต์ส่งออก JACMOTORS (OEM) | ไมโครซอฟต์ | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | ISWIIE (OEM) | การแสดงตัวแบบเดียวกัน (Model); ~ 3500 mpnames leremura para เป็น/770[hh oh oh oh oh oh oh yes, 07, 07 (EXPRT)*; 2560 ป ป ป ป ป ป ป ป ป ป ป     ป         ป ป ป ป   า   า า า า า า า า า า า า า า า       ศ ศ ศ           ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ
-| การปรับแต่งผลิตภัณฑ์ Hantu ตัวใหม่ | เจซี chickup อย่างเป็นทางการ (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | ISWIIE (OEM) | การแสดงตัวแบบเดียวกัน (MACL); ~ 1000 87/i0/18~ ~ น น น น น น~ ~ ก น น น น~
-| ยาวของตัว Hantu | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | ROOS_ CHCKED | 5330/5620, ล้อ, เตียง |
-| จุลภาค T9 ขนาดแฟ้ม (ยาว) | ปิซอโท | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | ROOS_ CHCKED | การแบ่งส่วนแบบยาวๆ |
-| Hantu (overs as as T9) Powerrain & รุ่น | ซอยโซออโต้ | เอ็กซ์พอร์ต | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | ผู้โดยสาร_ปลายทาง (จีน) | 2.0T/125/410/ZF8AT/4WD, 7.6 อ้าง |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
+| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
+| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
+| Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
+| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
+| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | single source (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* อนุทิน: อัตลักษณ์เดียวกัน_Model โดยผ่านเว็บไซต์ JC OEM Chasis cross-casty cross-curternation; enterlances an single_SEEE (instest arter board); 3500 kg trubling tropy (in อังกฤษ) เป็นโครงการวิเคราะห์และไม่เคยมีการอ้างอิงแบบรวมมูลค่าการแบ่งประเภทของจีน 1000 kg ราย จ่ายเงินเป็น ViFIIIIIIIIE. ไม่ระบุค่าเมทริกซ์ RHD และราคาส่งออก *
+*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is single source (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

@@ -110,18 +110,18 @@ AutoBridge emite cotações ao vivo em vez de uma lista de preços estática. Os
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## Fontes e Verificação
+## Sources & Verification
 
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 oficiais | GAC Trumpchi (oficial) | NC | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFICADO | 5212 mm corpo, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 overseas configuration | Grupo GAC (oficial) | NC/Exportação | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFICADO | 185 kW 252 PS, 7 lugares, suspensão |
-| 2024 M8 宗师 funcionário da gasolina | GAC Trumpchi (oficial) | NC | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFICADO | 2.0TGDI + 8AT, 400 N·m, preço interno |
-| Configuração do Lingxiu 390T | Autohome (汽车之家) | NC | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm corpo, 3000 mm WB, 390 N·m, WLTC 8.85 |
-| M8 parâmetros | PCauto (太平洋汽车) | NC | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Partida da base de roda, mapeamento em série |
-| Configuração do Lingxiu | Yiche (易车) | NC | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Dimensões de Lingxiu, preço interno |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-* Nota de confiança (padrão AutoBridge): As especificações do núcleo do Grandmaster/Master são VERIFIED nas próprias páginas do GAC (oficial do fabricante); Os valores de Lingxiu são CRUSS_CHECKED em bases de dados independentes. A calibração 400 vs 390 N·m é intencionalmente mantida separada por série; as especificações híbridas (双擎) não são assertivas. *
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

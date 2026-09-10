@@ -43,7 +43,7 @@ Deklarasi ekspor Bea Cukai; faktur komersial menyatakan Incoterm dan nilai asura
 ## Langkah 6 - Kompliansi Tujuan Sebelum Produksi
 Riset tujuan ** sebelum ** Tooling: model dilarang terbatas, RHD LHD, aturan umur, pengobatan kecelakaan modifikasi-unit dan tahap emisi diterima - spesifik (lihat panduan Saudi, Rusia dan Chili). Armada China-domestic-spec tidak secara otomatis dapat di urungkan.
 ## Apa AutoBridge Adds Beyond a Sourcing- Agen Template
-Agen mengutip truk; Kerangka kerja yang disarankan adalah untuk menerjemahkan siklus tugas pembeli menjadi annex teknis terukur periksa pengekspor terhadap ** 2026 daftar yang memenuhi syarat  and  Pure- EV baru penumpang lisensi aturan oleh kategori **,  and  spesifikasikan ** tender-grade, kriteria penerimaan yang bisa diperiksa ** (kelas baja, ketebalan piring, bernama axles gearbox) sehingga armada tidak dapat disampaikan dalam membangun yang lebih lemah yang masih "cocok dengan nama model".
+Agen mengutip truk; kerangka yang disarankan adalah menerjemahkan siklus tugas pembeli menjadi lampiran teknis terukur, memeriksa eksportir terhadap **daftar perusahaan yang memenuhi syarat 2026 dan aturan lisensi penumpang EV baru murni per kategori**, dan menetapkan **kriteria penerimaan setara tender yang dapat diperiksa** (kelas baja, ketebalan pelat, merek as roda dan girboks) sehingga armada tidak dikirim dengan bangunan lebih lemah yang masih "cocok dengan nama model".
 ## Dimensi Negosiasi (tidak ada nomor diciptakan)
 Pin contraactually: tingkat spesifikasi harga unit vs, suku cadang pakaian umum, pelatihan teknisi garansi, jadwal pengiriman yang belum ditentukan, hak inspeksi dan pembayaran pembayaran terhadap bukti produksi inspeksi. Mencegah angka real per proyek; jangan asumsikan persentase potongan besar.
 ## Daftar Cek Kontrak Sebelumnya
@@ -86,16 +86,16 @@ Bagaimana cara menghentikan baja as lemah yang digantikan? Tulis kriteria yang t
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 mobil motor export- pemberitahuan aplikasi (商办贸函 = 2025 408 号) | MOFCOM (** pejabat pemerintah **) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** terselubung ** | Sistem aplikasi online, tinjau lokal, proses kualifikasi-daftar |
-| Pure- EV expor penumpang lisensi dari 2026-01-01 (Pengumuman No. 54; HS 8703801090) | MOFCOM MIIT GAC SAMR (** resmi pemerintah **) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** terselubung ** | 2026 NEV-penumpang ekspor - lisensi rezim |
-| 2026 kualifikasi ekspor-lisensi daftar perusahaan | Dept perdagangan luar negeri MOFCOM (** resmi pemerintah **) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** terselubung ** | Mata uang - tahun memenuhi syarat perusahaan |
-| Lebih lanjut memperkuat manajemen ekspor mobil-pakai (Nov 2025) | MOFCOM MIIT MPS GAC via (* resmi pemerintah **) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** terselubung ** | Penggunaan ekspor -car -license bidang registration- konsistensi sertifikat |
-| 15-unit dump-truck tender (binding teknis indikator) | Hunan Road & Bridge Group (tender nyata) | CN ACTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT- | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** terselubung ** | 15 m, T700 baja, lantai 10 mm, sisi £8 mm, tipe angkat |
-| Duty-cycle comcuisation guide (double-layer frame, duty-rated axles) | CV produsen (Panduan Chary FAW; Chengli 12-step aliran) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | _ BERDECAT | Panduan rekayasa proses |
-* Catatan kepercayaan: 2026 ekspor-rezim lisensi dan indikator penerimaan yang lembut adalah VERIFIED pada pemerintah / real-tender sumber. Bimbingan rekayasa / proses adalah produsen / industri (CROSS _ CHECTD); daftar tahun mata kuliah, OEM jaringan luar negeri dan semua istilah komersial (diskon / moQ / lead time) diperoleh hidup dan tidak pernah diperkirakan. ♪
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

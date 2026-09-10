@@ -87,17 +87,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| مركبة من نوعها (2/box) 8 سلالة | المواد المستعجلة | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE OURCE | 2-SUV دون مسار؛ حوالي 8 سلالة؛ طريقة العجلات (مصدر واحد) |
-| مرفأ يانتاي أول 4-SUV محاكمة من رو إلى محتالة | أخبار كيلو | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE OURCE | Upper2+lower2 رف؛ تسلسل التحميل (محاكمة واحدة أُبلغ عنها) |
-| تحميل سيارة السكك الحديدية الصينية - الأوروبية (3/box) | هربين | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE OURCE | إشارة من ثلاث صناديق إلى (مصدر واحد) |
-| طريقة تحميل حاوية التصدير على خمس خطوات | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE OURCE | التحقق من المواقد من خمس نقاط (مصدر واحد) |
-* ملاحظة: كل رقم تحميل يأتي من مصدر وحيد ومميز (جميع المصادر) - لا توجد حقيقة مدعمة من مصدرين مستقلين، لذا لا يُسمّى أي منها بالكروات. مضغ. فالحسابات هي إشارات موثقة - ممارسات، ولا تُكفل المواهب؛ ويتوقف العدد الدقيق دائما على الأبعاد المقيسة وخطة تحميل معتمدة، ويجب تأكيد قواعد الناقل/الأجل عند الحجز. ♪
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| مدونة قواعد ممارسات حزم البضائع في وحدات النقل (مدونة الاتحاد الدولي للاتصالات) | المنظمة البحرية الدولية | INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | مفقود | توزيع البضائع، وقطعها وتأمين مبادئها لوحدات مكافحة الإرهاب بما في ذلك الحاويات |
-| المرجعية | المجلس العالمي للنقل البحري | INTL | https://www.worldshipping.org/ | 2026-09-05 | مفقود | السياق الموحد لبضائع الشحن ومشتريات خطوط الشحن |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

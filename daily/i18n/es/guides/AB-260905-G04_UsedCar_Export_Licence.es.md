@@ -42,16 +42,16 @@ La lista de ciudades piloto y las pantallas exactas del sistema son sensibles al
 **¿Dónde está la lista piloto-ciudad?** En el último aviso MOFCOM/gobierno — no se basa en una lista estática.
 **¿Tiene este reglamento de importación de destino de cobertura?** No, son separados y específicos para cada país.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 商务部等 5 部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
-| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
-| 关于进一步加强二手车出口管理工作的通知 (2025-11) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规, 登记一致性, 许可证附表 |
-| 二手车出口管理新政专题 (2026-01-01 起 180 天规则) | 中华人民共和国商务部 | CN | T1 | TIEMPO_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满 180 天须售后维修服务确认书 |
-| Ministerio de Comercio (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | autoridad competente para la concesión de licencias de exportación y el control de las exportaciones |
-| Administración General de Aduanas de China (GACC) — supervisión de las exportaciones de automóviles usados | Administración General de Aduanas de China (海关总署 GACC) | CN | T1/T2 | VERIFIED | http://www.customs.gov.cn/ | La aduana es la autoridad de declaración/depuración para los envíos de exportación de automóviles usados, complementaria de las licencias MOFCOM |
-| China Automobile Dealers Association (CADA) — el cuerpo de la industria de exportación de automóviles usados | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | T1/T2 | VERIFIED | http://www.cada.cn/ | Contexto de asociación industrial sobre desarrollo de exportación de automóviles usados y práctica empresarial (T2, no regulador) |
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | primary | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| General Administration of Customs of China (GACC) — used-car export supervision | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing |
+| China Automobile Dealers Association (CADA) — used-car export industry body | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | primary/independent | VERIFIED | http://www.cada.cn/ | Industry association context on used-car export development and enterprise practice (independent database, not a regulator) |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

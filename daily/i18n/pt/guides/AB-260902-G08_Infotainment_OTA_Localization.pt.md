@@ -83,18 +83,18 @@ Os fornecedores de localização têm um incentivo para dizer que todos os probl
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese-car infotainment and OTA localization, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese-car infotainment and OTA localization, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Capítulo de software de marca chinesa (cockpits autodesenvolvidos, camada de padrão chinês) | Auto China elétrica (indústria) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | FONTE ÚNICA | Indústria ** padrão/exemplo apenas**, não generalizado |
-| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (serviço de localização) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | FONTE ÚNICA | ** Exemplo específico da marca**: Problemas somente na China; BYD conta Inglês switch (re-confirmar por modelo) |
-| Denza Z Europeu Google/Gemini vs cabine doméstica | Xueqiu (libertação de citações) | CN→UE | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | FONTE ÚNICA | **Exemplo** de exportação vs pilha doméstica (não universal) |
-| Lista de verificação de software Per-VIN | StarVia Auto (serviço de exportação) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | FONTE ÚNICA | Método de aceitação de cinco verificações |
-| Padrão de exportação multilíngue/RTL | CID 赛迪 Neusoft OneCore Cobertura de go (mídias industriais) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | FONTE ÚNICA | RTL/Arabe relevation |
-| Chinese Car OS English Version B2B Export Guide | Auto elétrico China | NC | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | FONTE ÚNICA | 英文 HMI, 刷机成本 (行业口径, 待官方核验) |
-| 中国汽车出海, 智能化为何 " 水土不服 " | 汽车之家 · 车家号 | NC | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | FONTE ÚNICA | 海外用户 UI 翻译 手机互联问题 |
+| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | single source | Industry **pattern/example only**, not generalised |
+| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | single source | **Brand-specific example**: China-only problems; BYD account English switch (re-confirm per model) |
+| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | single source | **Example** of export vs domestic stack (not universal) |
+| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | single source | Five-check acceptance method |
+| Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | single source | RTL/Arabic layout consideration |
+| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | single source | 英文 HMI、刷机成本（行业口径，待官方核验） |
+| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | single source | 海外用户 UI 翻译/手机互联问题 |
 
-* Nota de confiança: todo o material citado é indústria/serviço/media e é usado como ilustração de padrões ou casos de marca única — nunca como prova de que todos os veículos chineses compartilham o comportamento. Listas de idiomas de exportação por marca, política de região de servidor da OTA e a alegação de inspeção "HMI Inglês obrigatório" não foram confirmadas por um regulador primário e devem ser estabelecidas no canal ultramarino da marca para o VIN específico. *
+*Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05

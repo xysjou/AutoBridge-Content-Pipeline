@@ -76,19 +76,19 @@ Có thể xuất khẩu ra khỏi xe trực tiếp không?
 
 Một nhân viên được cấp phép dọn dẹp Kenya thường có các khách hàng hải quan cho người nhập khẩu ghi chép; người xuất khẩu cung cấp các tài liệu phù hợp với người và người CoC.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Cục tiêu chuẩn Kenya | KE | T1 | VEII | https://www.kebs.org/ | PVOC, 进口标准化标志. 标准符合性 — 肯尼亚标准与合格评定 |
-| KRA 官网 (海关税收征管机构身份; 具体进口税页未取到稳定子页) | Quyền lợi của Kenya | KE | T1 | VEII | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
-| KRA 对二手机动车启用新 CORP 现行零售价表 (2025-07-01), T4 仅线索, 须 KRA 官方核). | 顺企网 (T4) | KE | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d40233025.htm | CORP 估值线索  |
-| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条 (媒体镜像) | KE | T3 | ĐƯỢC XÃ KỂ LẠI | http://m.toutiao.com/group/6906281676268110344/ | 8 年车龄线索  |
-| Nhập xe cộ (cơ sở nhận thức) | Quyền lợi của Kenya | KE | T1 | VEII | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_ ii - các thành phần nhiệm vụ khác nhau bởi HS; nhạy thời gian nộp thuế, xác nhận tốc độ hiện tại |
-| Các thủ tục cho phép sử dụng xe hơi | Quyền lợi của Kenya | KE | T1 | T_ TIẾNG TÂM | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — thủ tục nhập khẩu và phân loại thuế; quy tắc sản xuất năm lăn được xuất bản bởi KRA |
-| Chương trình PVC hướng dẫn v14 (9 Nov 2025). | Cục tiêu chuẩn Kenya | KE | T1 | VEII | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | Comment |
-| Nhập khẩu chuẩn hoá Đường dẫn Đánh dấu | Cục tiêu chuẩn Kenya | KE | T1 | VEII | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | Comment |
-| Sổ tay chương trình PVC (Sổ tay của Kenya InfoTrade) | InfoTrade Kenya (cửa giao dịch chính phủ) | KE | T1 | ĐÃ_ ĐÃ | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | Comment |
-| Cơ quan Mạng Thương mại Kenya (KenTrade) | Cơ quan mạng thương mại Kenya | KE | T1 | ĐÃ_ ĐÃ | https://www.kentrade.go.ke/ | Kỳ lân biển — Cơ quan thương mại đơn phương quốc gia |
+| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
+| KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页） | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
+| KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，仅线索，须KRA官方核） | 顺企网(directory/listing) | KE | directory/listing | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP估值线索 |
+| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | media/industry | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
+| Motor Vehicle Importation (knowledge base) | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — duty components vary by HS; taxes time-sensitive, confirm current rates |
+| Procedures for Motor Vehicle Importation | Kenya Revenue Authority | KE | primary | TIME_SENSITIVE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| PVoC Programme Operations Manual v14 (9 Nov 2025) | Kenya Bureau of Standards | KE | primary | VERIFIED | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — motor vehicle/mobile equipment PVoC and appointed inspection agents |
+| Import Standardization Mark Guidelines | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — ISM issuance for PVoC-licensed/regulated imports |
+| PVoC Programme Operations Manual (InfoTrade Kenya portal) | InfoTrade Kenya (government trade portal) | KE | primary | CROSS_CHECKED | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — used vehicles assessed under KS standards; confirm current version |
+| Kenya Trade Network Agency (KenTrade) official | Kenya Trade Network Agency | KE | primary | CROSS_CHECKED | https://www.kentrade.go.ke/ | kebs_qis — national single-window trade facilitation body |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

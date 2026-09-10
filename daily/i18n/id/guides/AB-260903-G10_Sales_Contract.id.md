@@ -46,14 +46,14 @@ Menonaktifkan fakta material dengan jujur: ** versi konfigurasi, versi perangkat
 ## Apa Panduan Ini Rekomendasi Anda Tidak Pernah Tinggalkan Kosong
 1. ** VIN konfigurasi annex ** melekat ke kontrak (tidak sama dengan contoh "ambiguitas).
 2. ** Incoterms term + version + named place **, dan posisi risiko asuransi yang cocok.
-3. ** Retention of title ** until full papage, centang for destination allegability.
+3. **Retensi kepemilikan (retention of title)** hingga lunas, dengan tanda untuk kelayakan hukum di negara tujuan.
 4. ** LD Perday, pemicu terminasi, dan didefinisikan jendela klaim kualifikasi ** terikat pada PSI.
 5. Hukum pemerintah, forum arbitrase, tanggung jawab Rasul dan bahasa yang berlaku.
 
 ## Pertanyaan Yang Sering Muncul
 ** Apa yang harus sebuah mobil penjualan kontrak berisi di bawah hukum Cina? ** PRC Kode Sipil Seni 596 daftar nama, kuantitas, kualitas, harga, waktu kinerja tempat metode, kemasan, pemeriksaan standar metode, penyelesaian dan efektivitas bahasa - peta masing-masing untuk kesepakatan kendaraan.
 Kapan resiko itu diberikan pada pembeli? Per istilah Incoterms yang disepakati (negara versi dan tempat); tanpa persetujuan, umumnya pada pengiriman kepada pembeli atau pembawa nominasi.
-Can I keep emilial until I 'm fully paid? Ya, melalui retention- of- judul klausul, subjek pengakuan di bawah hukum pemerintahan tujuan.
+Bisakah saya menahan kendaraan sampai lunas? Ya, melalui klausul retention-of-title, dengan tunduk pada pengakuannya di bawah hukum negara tujuan.
 ** Bagaimana pembayaran terlambat ditangani? ** Tingkat likuidasi perday-kerusakan ditambah jangka waktu maksimum yang tertunda yang memungkinkan penghentian.
 ** Apakah dokumen luar negeri perlu legalisasi? ** Seringkali seorang rasul (Den Haag) atau penderita legalisasi konsular diperlukan; tanggung jawab negara dalam kontrak dan memverifikasi status tujuan.
 
@@ -83,17 +83,17 @@ Can I keep emilial until I 'm fully paid? Ya, melalui retention- of- judul klaus
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| PRC Kode Sipil Istilah kontrak Art 596 | FindLaw (portal legal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | _ BERDECAT (Artikel undang-undang dikutip melalui portal hukum sekunder; bukan sumber resmi NPC) | Isi kontrak yang sangat penting |
-| Ekspor model penjualan kendaraan (resick judul) | legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | _ BERDECAT | Transfer resiko; penahanan dari judul; pengungkapan kondisi | 110ask
-| Pembelian - kontrak inti clauses (daftar breach title config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | _ BERDECAT | LD, jendela klaim, annex konfigurasi |
-| Ekspor kontrak Incoterms disposition Appartille | Bahan untuk orang baru | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE _ SOURCE | Incoterms versioning, ICC arbitrase, Mestantille |
-* Catatan Scope: Isi seni 596 adalah CROSS _ DIPILIH melalui portal hukum sekunder saja - VERIFIED membutuhkan resmi kode Sipil PRC (NPC / pemerintah) teks, yang tidak ditangkap; jangan label transfied. Enforcetibility dari pemesanan judul, arbitrase dan Rasul tergantung pada yang dipilih aturan dan tujuan, dan harus dikonfirmasi oleh nasihat berkualitas. Model kontrak adalah referensi struktural saja. ♪
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| 中华人民共和国民法典 = 第三编 合同 = 第五百九十五 五百九十六 五百九十七条逐字 = = | 最高人民检察院 (Supreme People 's Procuratorate) - Kantor | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | TERBATAI |  |
-| 中华人民共和国民法典 全文: 政府门户转载 | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | TERBATAI |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

@@ -77,20 +77,20 @@ Aucune version RHD n'est établie par les sources du marché chinois; l'admissib
 
 Non — le prix d'orientation chinois est une référence nationale sensible au temps seulement; demander une cote officielle à l'exportation avec Incoterm et destination.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家 · 车家号 | CHINE | T3 | SOURCE UNIQUE | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T 新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINE | T2 | _CHECTURE | http://db.m.auto.sohu.com/trim_175081 | 老款 2.0T 动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家 · 车家号 | CHINE | T3 | SOURCE UNIQUE | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T 动力, 新款 2.0T, DCT  |
-| 吉利星瑞官方车型页 (CMA 架构, 车型存在性与官方定位; 页内含 DHT 混动版本, 动力须按版本分列) | 吉利汽车官网 | CHINE | T1 | VÉRIFIER | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸 轴距 (4785 × 1869 × 1469 - 轴距 2800) | 懂车帝车型参数页 | CHINE | T2 | _CHECTURE | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Préface, début d'outre-mer (Arabie Saoudite) — Nouvelles d'OEM | Geely Auto Global | EXPORTATION | T1 | VÉRIFIER | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identité — référence du marché à l'exportation seulement; la motorisation au Moyen-Orient diffère des garnitures chinoises |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/datainfo/cpgg/ | identité — vérifier le modèle/variant homologué exact en Chine par le code VIN/annonce |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Révision de la rédaction
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Dernière révision**: 2026-09-06
-- **Marché de référence**: CHINE(中国市场参考规格; 出口 右舵版本无 OEM 证据, 须另证)
+- **Marché de référence**: CHINE(China-market reference specs; 出口 右舵版本无 OEM 证据, verify separately)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les articles sensibles au temps (taux, frais, listes, gammes de produits, prix de référence nationaux) doivent être confirmés à nouveau sur la page courante officielle avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

@@ -105,18 +105,18 @@ Não há preço de exportação estático AutoBridge. O RMB 108, 900–139, 900 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## Fontes e Verificação
+## Sources & Verification
 
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Página oficial do UNI-V 高能版 | Changan Automobile (oficial) | NC | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFICADO | Gama de dimensões, 2750 mm distância entre eixos, via |
-| Página oficial do UNI-V 2nd-gen | Changan Automobile (oficial) | NC | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFICADO | Baleia Azul 1.5T 138 kW 300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 configuração | Autohome (汽车之家) | NC | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T saída, 4720 mm comprimento, WLTC 6.37 |
-| 2024 Tabela de configuração UNI-V | PCauto (太平洋汽车) | NC | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW 390 N·m, 8AT, utilização de combustível, preço interno |
-| Página específica UNI-V | Configuração do AutoHome | NC | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | FONTE ÚNICA | Peso do curvo (fonte única) |
-| Novo relatório de lançamento do UNI-V | Ifeng Auto (凤凰网汽车) | NC | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | Suspensão MacPherson/multi-link, drivetrain |
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-* Nota de confiança (padrão AutoBridge): o trem de potência 1.5T e distância entre eixos 2750 mm são VERIFIED nas próprias páginas de Changan (oficial do fabricante). Os 2.0T números são CRUSS_CHECKED em bases de dados independentes; o peso do limite é único. FONTE e deve ser compatível com a placa de conformidade. *
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## Revisão Editorial
 - **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

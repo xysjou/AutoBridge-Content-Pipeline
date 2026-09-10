@@ -9,7 +9,7 @@
 - **検索意図**: 中国の港からRoRoRoによる車両の輸出を理解する:予約とターミナルハンドオーバーフロー:車両/パーツの輸出業者が確認、文書化、注文をコミットする前に決定しなければならないもの。
 - **内部リンク候補**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
 - **画像候補**: 中国のRoRoRoターミナルのapronに車キャリアのランプの横に並ぶ新しい輸出車
-- **ALTテキスト**: 開車車車車横のRoRoターミナルで待ち受ける新車列
+- **ALTテキスト**: 開車横のRoRoターミナルで待ち受ける新車列
 - **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
 
 ロールオン/ロールオフ(RoRo)は、クレーンの持ち上げを避け、車キャリアをオン/オフに、独自の力で運転可能な車両の移動を可能にします。 安全運転できる新車や中古車、ピックアップ、光の商用のバッチの自然なモードです。 RoRoのリスクは、コンセプトではなく、ハンドオーバーです。デポ、ターミナル、キャリア、船舶の間に、条件、文書、責任の変化がいくつかあります。 このページでは、中国輸出港のシーケンスと仮定するよりもむしろ航海ごとに確認しなければならないものをフラグするマップです。
@@ -31,7 +31,7 @@
 
 ## 標準化できないキャリア固有のアイテム
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? ハンドオーバー、タイヤ圧、打点、およびタイダウン方法/角度、デッキの方向、選択された車両の許容充電状態、予約カットオフ、ターミナル料金はすべてポート、ターミナル、航海によって異なる、および複数の主要なRoRoRoRoキャリアは、独自の受諾条件を公開しています。 実際の予約のために書面でそれぞれ確認します。このガイドは、普遍的な数値値を表示しません。
+ ハンドオーバー、タイヤ圧、打点、およびタイダウン方法/角度、デッキの方向、選択された車両の許容充電状態、予約カットオフ、ターミナル料金はすべてポート、ターミナル、航海によって異なる、および複数の主要なRoRoRoRoキャリアは、独自の受諾条件を公開しています。 実際の予約のために書面でそれぞれ確認します。このガイドは、普遍的な数値値を表示しません。
 
 | アイテム | 誰が設定するのか | 取得するべきこと |
 |---|---|---|
@@ -75,15 +75,15 @@
 
 キャリアの選挙車および危険物要件および正しいUN/IMDG分類の対象となる;予約の前に確認して下さい。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 温州首条汽车滚装航线开通 、 直达东南亚 (2026-09-06 、 港口滚装航线现实运行佐证) | 中国网 |  CN  の | T3 |  CROSS  |  CHECKED  (クロス) | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线 | 中国港口发运 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 | 税 |
-| 中国港口协会汽车滚装分会行业背景 (行业组织) | 中国港口协会 | CN の | T2 | シングル_ソース | http://www.port.org.cn/ | 滚装码头行业背景  |
-| 商品车多式联运滚装操作规程 JT/T 1194 — 2018 | 交通运输部 (行业标准文本) | CN の | T1 | 検証済み | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo のlashing/handover の操作手順標準; 操作値はキャリアによって確認します |
-| 港口货物作业规则 (交通部令 2000 年第 10 号) | 中国政府网 / 交通运输部 / 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 税 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 |  CN  の | T1 | 検証済み | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — ターミナルでの貨物レシート / ハンドバーおよび貨物レコード責任 |
-| ココスコ 配送専門キャリア(公式) | 中远海运特种运输股份有限公司 | CN の | T1 | CROSS_CHECKED(クロス) | http://www.coscoshipping.com/ | roro_method — キャリア; 航海ごとのスケジュール/受容、予約の前に確認 |
-| ワレニウス・ウィルヘルムセン(公式RoRoRoキャリア) | ワレニアス・ウィルヘルムセン | エントリー | T1 | CROSS_CHECKED(クロス) | https://www.walleniuswilhelmsen.com/ | roro_method — 国際RoRoRoキャリア; 受諾条件キャリア固有の |
+| 温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证） | 中国网 | CN | media/industry | CROSS_CHECKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
+| 中国港口协会汽车滚装分会行业背景（行业组织） | 中国港口协会 | CN | independent database | single source | http://www.port.org.cn/ | 滚装码头行业背景  |
+| 商品车多式联运滚装操作规程 JT/T 1194—2018 | 交通运输部（行业标准文本） | CN | primary | VERIFIED | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover operating procedure standard; operational values confirm with carrier |
+| 港口货物作业规则（交通部令2000年第10号） | 中国政府网/交通运输部 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — cargo receipt/handover and cargo-record liability at terminal |
+| COSCO Shipping Specialized Carriers (official) | 中远海运特种运输股份有限公司 | CN | primary | CROSS_CHECKED | http://www.coscoshipping.com/ | roro_method — carrier; schedules/acceptance per voyage, confirm before booking |
+| Wallenius Wilhelmsen (official RoRo carrier) | Wallenius Wilhelmsen | INT | primary | CROSS_CHECKED | https://www.walleniuswilhelmsen.com/ | roro_method — international RoRo carrier; acceptance terms carrier-specific |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

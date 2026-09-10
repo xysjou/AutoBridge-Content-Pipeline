@@ -34,7 +34,7 @@ Các chiều không gian bánh xe tiêu chuẩn được kiểm tra chéo giữa
 | 4WD | **BorgWarner phần thời gian 4WD (2H/4H/4L) + hậu phương khóa vi phân*  |
 | Yêu cầu nhiên liệu | 7.6 L 100 km — **manuseuurer cho rằng**, không phải là một kết quả đo lường |
 
-Những món đồ bán hàng hàng Trung Quốc hiện đang nằm trên một nguồn truyền thông **single bên cạnh xuất khẩu OEM; * Thị trường Trung Hoa* chúng là do đó **SINGLE_SOURCE** — trích dẫn chúng như "** để được hoàn tất đối với các bản cấu hình của nhà sản xuất (以厂商配置单终核)**, không phải là những con số kép của Trung Quốc. Sự tồn tại của một giá trị xuất khẩu OEM không nâng cao sự tự tin của thị trường Trung Quốc. Nhiên liệu/tải nhiên liệu: diesel; xác nhận tính dung nạp lưu huỳnh đích đến và đường xả (một sự cân chỉnh của Trung Quốc-VI không phải là chính nó chấp thuận ở nước ngoài).
+Những món đồ bán hàng hàng Trung Quốc hiện đang nằm trên một nguồn truyền thông **single bên cạnh xuất khẩu OEM; * Thị trường Trung Hoa* chúng là do đó **single source** — trích dẫn chúng như "** để được hoàn tất đối với các bản cấu hình của nhà sản xuất (以厂商配置单final confirmation)**, không phải là những con số kép của Trung Quốc. Sự tồn tại của một giá trị xuất khẩu OEM không nâng cao sự tự tin của thị trường Trung Quốc. Nhiên liệu/tải nhiên liệu: diesel; xác nhận tính dung nạp lưu huỳnh đích đến và đường xả (một sự cân chỉnh của Trung Quốc-VI không phải là chính nó chấp thuận ở nước ngoài).
 
 ## Huấn luyện viên, kéo và nạp lương — Nhãn hiệu thị trường quan trọng
 - **Part-time bốn bánh xe (BorgWarner)** với ** 2H 4H 4L **  and  một **rear vi phân khóa** trên tài liệu 4x4 (Trung Quốc-tiệm một nguồn; Cuối cùng là vào phần nền).
@@ -90,21 +90,21 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Đặc điểm chính thức của JAC T9 | Nơi xuất khẩu JAC MOTORS (OEM) | Comment | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VEIIEED (OEM) | Cùng một kiểu với MDIEL; ** 3500 kg lần kéo (EXPORT)**; kích thước chấm |
-| Cấu hình sản phẩm Hantu mới | JCC Nhận tin chính thức (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VEIIEED (OEM) | Cùng một kiểu với nhau; ** 1000 kg chuyến hàng (CHINA)*  |
-| Tiêu chuẩn cơ thể tiêu chuẩn và chiều dài | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | ĐÃ_ ĐÃ | 5330/5620, bánh xe, giường |
-| Làm mờ T9 chiều điền (Giường dài) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | ĐÃ_ ĐÃ | Co bóp dài |
-| Hantu (trên biển T9) powertrain & thế hệ | Comment | Trình gửi/ thả thư | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE_SOURCE (Trung Quốc) | 2.0T/125/410/ZF8AT/4WD, 7.6 tuyên bố |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
-| GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
+| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
+| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
+| Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
+| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
+| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | single source (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Ca ngợi: ID giống nhau_MDEL thông qua hai JAC OEM địa điểm; Comment Tàu năng lượng Trung Quốc là SINGLE_SOURCE (Vỗ tay với nhà sản xuất tờ); 3500 kg là kéo Chỉ và không bao giờ là Giá trị đồng nhất Trung Quốc; 1000 kg là trọng tải - Trung Quốc đã bị bắt. Ma trận RHD và xuất Giá không đề cập. *
+*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is single source (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

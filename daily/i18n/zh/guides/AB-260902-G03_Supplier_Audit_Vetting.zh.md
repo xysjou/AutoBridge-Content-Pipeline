@@ -22,7 +22,7 @@
 中国官方两份文件界定了资质主干线(均为政府主要来源): 资质:
 
 - 根据**关于进一步规范汽车和摩托车出口秩序的部委通知**(MOFCOM等),申报出口车辆的制造商必须被列入**MIIT“汽车制造商和产品公告”(车辆生产企业及产品公告)**,并持有**CC强制性认证**。
-- 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 2024 维基月球 通知编号 6 ** 在废车出口企业,废车出口商必须是符合规定条件(制造商必须在MIIT公告中公布)的在国内注册的独立法人; 贸易商必须符合公布的标准)。
+- 个人 2024  通知编号 6 ** 在废车出口企业,废车出口商必须是符合规定条件(制造商必须在MIIT公告中公布)的在国内注册的独立法人; 贸易商必须符合公布的标准)。
 
 对买方的影响:询问*哪一个法律实体是记录的出口商,并确认它属于财政部公布的**本年度出口资格清单**(清单得到动态更新——使用当年的版本;本指南没有列出公司名称)。 连锁公司都无法自拔 只能是停止信号
 
@@ -117,19 +117,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| | MOFCOM等 (英语). (五个部,官T1). | 氯化萘 | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html 维基月球 | 2026-09-02 | 实录 | MIIT 通知+ CCC 出口资格 |
-| 2024 维基月球 第6号公告(旧车出口企业条件) | MOFCOM(官方T1) (中文(简体)). | 氯化萘 | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml 维基月球 | 2026-09-02 | 实录 | |
-| 如何检查中国供应商营业执照的真实性 | 古德坎贸易(工业、 指向gsxt.gov.cn)  points  points  points s  points  points  points  points s  points s s  points s s s s | 氯化萘 | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ 维基月球 | 2026-09-02 | 横跨 | gsxt 校验字段 |
-| 如何核实中国工厂是正当的 | 普卢托尼亚全球物流公司 | | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate 维基月球 | 2026-09-02 | 横跨 | 账户名称一致性,工厂审计 |
-| 8-step 检验中国汽车出口供应商指南 | 华家梅(工业) | 氯化萘 | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier 维基月球 | 2026-09-02 | 横跨 | 层层审计框架,阿拉伯-欧 |
-| 车辆出口采购说明 | | 氯化萘 | https://m.11467.com/blog/d18906274.htm 维基月球 | 2026-09-02 | 横跨 | 实况录像-审计最低限度,申报交叉核对 | 11467（顺企网）
-| 国内卡车出口程序 | 广州浦江贸易(11467年). | 氯化萘 | https://guangzhou053049.11467.com/m/news/15260806.asp 维基月球 | 2026-09-02 | 横跨 | 通过合格实体、授权链出口 |
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-* 说明(AutoBridge标准):资格规则以MOFCOM/MIIT主要来源(VIFIED)为准,现包括2026申请通知(商办贸函 ][2025]408 号)和关于纯EV旅客出口许可证的联合公告54。 本年度合格名单和AEO查询动态,必须现场检查;业务清单项目由行业来源提供,并指向官方系统。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

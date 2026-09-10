@@ -42,15 +42,15 @@ Nó không cung cấp một mã hoặc điều kiện giám sát cụ thể (nh�
 **Nếu lời tuyên bố bị từ chối thì sao? Sửa chữa các trường đánh dấu và phục hồi với các tài liệu nhất quán.
 **Có phải phí môi giới đã được sửa chưa? Không, chúng khác nhau và không được trích dẫn ở đây.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物申报管理规定 (海关总署令第 277 号) | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证. 退单重报 |
-| 海关总署令第 277 号 (国务院公报) | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
-| 进出口货物申报指南 (单一窗口录入与登录) | 中国贸促会宁夏委员会 | CN | T1 | VEII | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口 IC 卡 /USBKey 登录, 电子申报 |
-| 出口大型货物手续流程 (申报 - 缴税 - 放行) | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
-| WCO — Thủ tục và hỗ trợ tập đoàn (Single window Tuỳ biến Biên giới Tuỳ biến) | Tổ chức phong tục thế giới | I - MI | T1/T2 | VEII | https://www.wcoomd.org/en/topics/facilitation.aspx | Một cửa sổ và một hệ thống quản lý biên giới mà cổng tuyên bố quốc gia thực hiện |
-| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | Tổ chức thương mại thế giới | I - MI | T1/T2 | VEII | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
+| 中华人民共和国海关进出口货物申报管理规定（海关总署令第277号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
+| 海关总署令第277号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
+| 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
+| 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

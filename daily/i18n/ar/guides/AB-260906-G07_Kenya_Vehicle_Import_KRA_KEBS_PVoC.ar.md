@@ -44,7 +44,7 @@
 2. حجز التفتيش الذي عينته شركة KEBS قبل التصدير والحصول على شركة PVoC في البلد الأصلي.
 3. إعداد الفواتير وقائمة و B/L بما يتفق مع الرقمين القياسيين للبلاغات والرقم القياسي للتداول.
 4. اجعلي عميلة المستوردين الكينية تدخل (كارا) و تسوي الحزمة الحالية من الواجبات في تقييم (كراي)
-5. Obtain ISM where the PVoC route requires, then complete clearance and registration.
+5. احصل على ISM حيث يتطلب مسار PVoC ذلك، ثم أتمم التخليص والتسجيل.
 
 ## خريطة الوكالة والوثائق
 
@@ -61,7 +61,7 @@
 - (ج) تحديد حد أو واجب ثابتين للسن تغير منذ ذلك الحين؛ والشحن قبل وجود شركة النفط المكلورة؛ وتقديم وحدة لليد العاملة أو فوقها في السوق لا يمكن تسجيلها؛ واختلاس شركة CoC والفاتورة؛ وافتراض بدائل تفتيش صينية نظيفة لجهاز الحفر المسمى " KEBS ".
 
 ## FAQ
-** هل يجري تفتيش على شركة KEBS في الصين أو كينيا؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** هل يجري تفتيش على شركة KEBS في الصين أو كينيا؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 وشركة النفط المتعددة الكلور هي برنامج سابق للتصدير يقوم به في البلد المصدر وكيل من شركة KEBS، يعينه المجلس؛ وتقوم لجنة التنسيق عندئذ بدعم عملية التطهير في كينيا.
 
@@ -69,11 +69,11 @@
 
 لا - تطبق وكالة كوسوفو الكورية واجباً زائداً رسوم طرد، ورسوم ضريبة القيمة المضافة، وإعلان الاستيراد، ورسوم السكك الحديدية التي تختلف بمقياس HS، والمحرك والعمر؛ وتستخدم الأرقام الحالية في تقدير المخاطر قبل الترحيل.
 
-** ما هو الحد الأقصى لسن السيارة المستوردة المستعملة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هو الحد الأقصى لسن السيارة المستوردة المستعملة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 وهي قاعدة متجددة في سنة التصنيع تنشرها وكالة الأنباء الكويتية؛ وتتحقق من السنوات المسموح بها حالياً في الشحن بدلاً من استخدام رقم ثابت.
 
-** ما هو نظام الرصد الدولي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هو نظام الرصد الدولي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 The Import Standardization (ج) مارك صادر بموجب المبادئ التوجيهية لمجلس إدارة عمليات الحدود الكويتية بشأن الواردات التي تم توجيهها من خلال برنامج النفط متعدد الكلور عند الاقتضاء.
 
@@ -81,19 +81,19 @@ The Import Standardization (ج) مارك صادر بموجب المبادئ ال
 
 ويُدرج عادةً في سجل المستورد عامل مرخص له في مجال المقاصة الكينية دخولاً جمركياً؛ ويورد المصدرون ما يطابق الوثائق ويمتثلون للشركة.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | مكتب المعايير في كينيا | KE | T1 | مفقود | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 - 肯尼亚标准与合格评定 |
-| KRA 官网 (海关税收征管机构身份; 具体进口税页未取到稳定子页) | هيئة الإيرادات في كينيا | KE | T1 | مفقود | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
-| KRA 对二手机动车启用新 CRSP 现行零售价表 (2025-07-01, T4 仅线索, 须 KRA 官方核) | 顺企网(T4) | KE | T4 | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP 估值线索  |
-| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | T3 | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
-| استيراد المركبات (قاعدة المعرفة) | هيئة الإيرادات في كينيا | KE | T1 | مفقود | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis - duty components vary by HS; في الوقت الذي نشير فيه إلى أن العمل على تعزيز التعاون
-| opttime |about | KE | T1 ; - | https://www.kra.go.ke/individual/importing/l--importation/procedures-for-motor-vehicle ; kebs_qis - import procedure and tax categories; قاعدة سنة تصنيع متجددة نشرها KRA |
-| دليل عمليات برنامج فولطية (PVoC) v14 (9 Nov 2025) | مكتب المعايير في كينيا | KE | T1 | مفقود | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis - motor vehicle/mobile equipment PVoC and appointed inspection agents |
-| |− 第3 بشأن المواد الكيميائية؛ Office about Office in theTOR, | T1 | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDATION_MARK_GUIDELINES.pdf . kebs_qis - ISM issuance for PVoC-licensed/reg
-| دليل عمليات البرامج (بوابة كينيا لتبادل المعلومات) | InfoTrade Kenya (government trade gate) | KE | T1 | صرخات | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis - used vehicles assessed under KS standards; التطورات
-| وكالة شبكة التجارة في كينيا (كين تراد) | وكالة شبكة التجارة في كينيا | KE | T1 | صرخات | https://www.kentrade.go.ke/ | kebs_qis - national single-window trade facilitation body |
+| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
+| KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页） | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
+| KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，仅线索，须KRA官方核） | 顺企网(directory/listing) | KE | directory/listing | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP估值线索 |
+| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | media/industry | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
+| Motor Vehicle Importation (knowledge base) | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — duty components vary by HS; taxes time-sensitive, confirm current rates |
+| Procedures for Motor Vehicle Importation | Kenya Revenue Authority | KE | primary | TIME_SENSITIVE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| PVoC Programme Operations Manual v14 (9 Nov 2025) | Kenya Bureau of Standards | KE | primary | VERIFIED | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — motor vehicle/mobile equipment PVoC and appointed inspection agents |
+| Import Standardization Mark Guidelines | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — ISM issuance for PVoC-licensed/regulated imports |
+| PVoC Programme Operations Manual (InfoTrade Kenya portal) | InfoTrade Kenya (government trade portal) | KE | primary | CROSS_CHECKED | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — used vehicles assessed under KS standards; confirm current version |
+| Kenya Trade Network Agency (KenTrade) official | Kenya Trade Network Agency | KE | primary | CROSS_CHECKED | https://www.kentrade.go.ke/ | kebs_qis — national single-window trade facilitation body |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

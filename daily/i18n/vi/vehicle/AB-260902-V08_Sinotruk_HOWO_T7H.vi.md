@@ -94,21 +94,21 @@ Nó có tự động dùng hộp số không? Người ta có thể tham khảo 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
-## Nguồn và Định dạng
+## Sources & Verification
 
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| HowO T7H 460 6 × 4 tham số | (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | ĐÃ_ ĐÃ | Thông báo, động cơ Weichai, trục, lốp xe, xe tăng, taxi | 360che
-| Trang sản phẩm chính thức T7H | Nhóm Sinotruk (CNHTC, chính thức) | Trình gửi/ thả thư | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VEII | MC11 440 HP 10.518 L khung gầm, hộp số, trình điều khiển ZF |
-| HowO NX/ T7H quốc tế | SINTRUK Quốc tế (chính thức) | Xuất | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VEII | Tùy chọn chuyển động cơ/HP |
-| Cấu hình xuất T7H | SINTRIK HowO (hệ thống chia sẻ chính thức) | Xuất | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VEII | 8.8/25/40 t weights, MC13.54-50 540 HP 2500 N·m, Euro V |
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
-| GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*BIDidence lưu ý (tự động tiêu chuẩn: MC11/MC13 động cơ và trọng lượng được thực hiện trên Sinotruk kênh chính thức; chi tiết 360che thông báo là SINGLE_ Tuyệt vời. Giá cả đã bị xóa và bỏ. Xác nhận chính xác khu xuất khẩu trên tờ quốc tế Sinotruk. *
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

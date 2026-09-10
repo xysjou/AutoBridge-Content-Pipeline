@@ -90,18 +90,18 @@ Kenapa harus memverifikasi VIN? Bahan pemasaran boleh mengatakan "RHD tersedia" 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## Sumber & Verifikasi
+## Sources & Verification
 
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| RHD Chinese- panduan pasar mobil | StarVia Auto (layanan ekspor) part-type | Pasar RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | _ BERDECAT | MG GWM line- up dan pasar (industri; verify) |
-| Yang mana mobil Cina cocok dengan pembeli RHD | StarVia Auto (layanan ekspor) part-type | Pasar RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | _ BERDECAT | BYD Atto 3/Dolphin/Seal RHD (Industri; verify) |
-| Model RHD-ready Geely Zeekr | FOBEV (layanan ekspor) fs-type | Pasar RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | _ BERDECAT | Geely EX5 parallel LHD RHD, Zeekr RHD (industri; verify) |
-| Dongfeng Forthing memasuki Thailand (resmi) | Dongfeng Motor Group (resmi) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | TERBATAI | March- 2026 Masuk Thailand, RHD Jumat V9 (terintegrasi) |
-| Changan NEVO Q05 Debut pertunjukan Bangkok | Autohome 车家号 (media) Name | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | _ BERDECAT | NEVO Q05 Prospek RHD Thailand (media; verify) |
-| Strategi RHD Hongqi konteks pasar RHD | smzdm (agregator); AutoReport (industry) | Pasar RHD | https: p https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _ BERDECAT | Hongqi RHD push; ~ 35% penjualan global di pasar RHD | https://post.m.smzdm.com/p/aqrp0mkp/
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-* Catatan kepercayaan (standar AutoBridge): hanya Dongfeng 's Thailand RHD peluncuran adalah VERIFIED (resmi produsen). Daftar model merek adalah layanan / media snapshots (SINGLE _ SOURCE) yang sering diubah dan harus dikonfirmasi pada saluran bermerk / local- server resmi per VIN. Konversi Aftermarket legalitas tidak diverifikasi dan ditandai sebagai risiko. ♪
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (single source) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

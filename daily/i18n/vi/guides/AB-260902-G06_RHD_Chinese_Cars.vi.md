@@ -90,18 +90,18 @@ Những người bán xác nhận là có thể sử dụng RHD mà không phân
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## Nguồn và Định dạng
+## Sources & Verification
 
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Hướng dẫn thị trường xe hơi Trung Quốc RHD | StarVia (dịch vụ xuất khẩu) | Thị trường RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | ĐÃ_ ĐÃ | MG/GWM RHD và thị trường (indry; xác minh) |
-| Xe nào của Trung Quốc hợp với khách hàng của RHD | StarVia (dịch vụ xuất khẩu) | Thị trường RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | ĐÃ_ ĐÃ | DOD Atto 3/Dolphin/Seal RHD (industry; xác minh) |
-| Mô hình RHD-ready/Zeekr | FOBV (Dịch vụ xuất khẩu) | Thị trường RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | ĐÃ_ ĐÃ | Geely EX5 song song LHD/RHD, Zeekr RHD (industry; xác minh) |
-| Phong Phong Tài vào Thái Lan (chính thức) | Nhóm lưu trữ lưu lượng | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VEII | Tháng Ba năm 2026 Mục nhập Thái Lan, ngày thứ Bảy/ V9 (VERFIED) |
-| Changan NVO Q05 Show ra mắt Bangkok | Tự động  车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ĐÃ_ ĐÃ | OVO Q05 Triển vọng RHD Thái Lan (media; xác minh) |
-| Chiến lược của Hồng Kỳ RHD/ RHD | smzdm (gritor); AutoReport (ndry) | Thị trường RHD | https: https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ĐÃ_ ĐÃ | Hồng Kỳ RHD đẩy; ~ 35% phiên chợ toàn cầu tại RHD | https://post.m.smzdm.com/p/aqrp0mkp/
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-Ghi chú tự động (tự động Bridge tiêu chuẩn): chỉ có Dongfeng của Thái Lan RHD là VERFIED (chính thức của nhà sản xuất). Danh sách mô hình nhãn là hình ảnh xuất khẩu dịch vụ/ y tế (SINGLE_SOURCE) mà thay đổi thường xuyên và phải được xác nhận trên kênh phân phối chính thức của thương hiệu/local-ditric. Sau khi cải đạo thị trường không được xác nhận là có rủi ro. *
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (single source) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

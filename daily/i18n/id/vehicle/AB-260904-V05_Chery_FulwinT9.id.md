@@ -45,7 +45,7 @@ Untuk PHIV yang perbaikan eksportir ** mesin, motor, baterai dan pengisian ** be
 1. ** Body versi ** - standar T9, tidak pernah diam-diam diganti dengan T9L.
 2. ** Kapasitas baterai dan siklus jangkauan ** - jangkauan 32.66 kWh panjang vs versi yang lebih kecil; label CLTC vs WLTC dan menjaga klaim kombinasi produsen-jangkauan dihubungkan.
 3. 5 vs 7) cocok dengan VIN.
-4. ** Charging connector and DC AC hardware ** vs standar tujuan; PHEV battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
+4. **Konektor pengisian daya dan perangkat keras DC/AC** vs standar tujuan; dokumen pengiriman baterai PHEV (ringkasan UN38.3) sesuai panduan IMDG 42-24.
 5. ** Emisi hybrid kelas pendaftaran ** dan dokumen lengkap diatur setiap ekspor dokumentasi daftar paket.
 
 ## Meminta Kuotasi Ekspor Saat Ini
@@ -83,19 +83,19 @@ Tidak ada harga ekspor yang diterbitkan. Jangkauan panduan Cina 2024 (kira-kira 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 traksional-baterai keselamatan kebutuhan (standar nasional) | Administrasi SAMR Standardisasi | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Traction-baterai keselamatan baseline relevan dengan C-DM tinggi tegangan pak |
-| GB 18352.6-2016/XG1-2026 light- kendaraan emission batas (China 6) | Kementerian Lingkungan dan Ekologi | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina saat ini - 6 bingkai emisi untuk 1.5T mesin khusus (Cina - 6b referensi) |
-| Fulwin T9 resmi tabel konfigurasi | Chey Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | Tersebar (OEM) | Baterai, dimensi, kursi, pengisian, versi |
-| Fulwin T9 hands- on (size model tahun) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | _ BERDECAT | Dimensi, batas model-tahun |
-| Fulwin T9 120 panjang jangkauan kepercayaan kapal bendera | Konfig rumah otomatis | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | _ BERDECAT | 32.66 kWh, jangkauan listrik, motor |
-| Fulwin T9 baterai & EV-range analisis | Rumah otomatis | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE _ SOURCE | Baterai, CLTC WLTC jangkauan, waktu muatan |
-| Fulwin T9 launch & dimensi | Basis data Sohu Auto | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | _ BERDECAT | Ukuran tengah ukuran mobil SUV PHIV, harga rumah tangga |
-| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | TERBATAI | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-* Catatan kepercayaan: OEM halaman konfigurasi ditangkap (anchor VERIFIED); waktu muatan dan volume kargo tunggal-sumber; jangkauan gabungan adalah klaim produsen. Standard T9 saja - T9L dikecualikan. ♪
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

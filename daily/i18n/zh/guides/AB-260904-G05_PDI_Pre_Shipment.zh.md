@@ -69,7 +69,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——装运前PDI和RoRo/集装箱的移交,车辆-出口采购指南
 - **法国**: 出口汽车汽车运输公司——预装PDI和交接RoRo/集装箱,汽车出口指南
@@ -84,18 +84,18 @@
 - AR**: 国家 – 预装PDI和RoRo/集装箱的交接, – مشتريات تصدير المركبات المركبات المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| WW 货物装卸 说明(燃料) | 瓦莱尼乌斯·威廉森(Roro carrier) | INTL 语言 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf 维基月球 | 2026-09-04 | 横跨(主要载体) | 燃料水平,可操作性 |
-| 伍 世 字 接收旧单元(不设杀感开关的断开12/24V) | 瓦莱尼乌斯·威廉森(英语:Wallenius Wilhelmsen). | INTL 语言 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft 维基月球 | 2026-09-04 | 星座资源(主要载体) | 旧电源电池断开 |
-| Höegh Automotive shipping (≤¼ fuel; 贝夫·索克; 操作性) | 自动起降机 | INTL 语言 | https://www.hoeghautoliners.com/what-we-ship/automotive 维基月球 | 2026-09-04 | 星座资源(主要载体) | V 50% SOC,燃料,可操作性 |
-| Höegh卡车/木车/拖车运输 | 自动起降机 | INTL 语言 | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping 维基月球 | 2026-09-04 | 星座资源(主要载体) | 收到商业单位 |
-| 装运前检查和移交做法 | 行业页面 | 氯化萘 | https://m.11467.com/product/d55278360.htm 维基月球 | 2026-09-04 | 资源(编辑基础) | 建议的清单/照片/移交 | 11467
-* 证据范围:经WW/Höegh主要指南核实的指定承运人政策(承运人政策,而不是监管,而不是普遍性);清单是编辑建议;固定的压线/压力/定向值被封禁,等待OEM/carrier文件。 * 报告迟交是因为需要翻译。
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | single source (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | single source (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | single source (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | single source (editorial basis) | Recommended checklist/photo/handover |
+*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
-| 海事组织/劳工组织/欧洲经委会 代码——装卸和货物运输单位的安全 | 国际海事组织(海事组织) | INTL (美国英语). | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 维基月球 | 2026-09-05 | 实录 | |
-| | 国际海运保险联合会(海运保险联合会) | INTL (美国英语). | https://iumi.com/ 维基月球 | 2026-09-05 | 实录 | 为何有文件记载的处理货物索赔的PDI/移交证据事项 |
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

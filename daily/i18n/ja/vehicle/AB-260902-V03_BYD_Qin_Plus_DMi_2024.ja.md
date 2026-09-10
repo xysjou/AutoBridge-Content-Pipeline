@@ -13,8 +13,8 @@
 - **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
 
 ## DM-iがシステムとして指定されるべきなぜか
-Qin Plus DM-iは、純粋なEVや従来のガソリン車のいずれにも、**プラグインハイブリッド(PHEV)コンパクトセダン**です。 BYDのDM-iはシリーズ パラレル システムです: 小さく、効率よく調整された** 1.5Lは、自然にエンジンを吸引**、ドライブ**電気モーター**、LFPブレードバッテリーと**E-CVT**の作業で、車は可能な電気で走行し、エンジンを主に効率的な生成と高速アシストに使用しています。 そのため、注文は、一緒に*four物事を修正する必要があります。バッテリーサイズ、電動版、モーター出力と動作動作動作動作**。 55/120 の指定なしで「Qin Plus DM-i」があいまいです。 このページは** 2024 Glory Edition (荣耀版)の中国ビルド(REFERENCE MARKET)をカバーしています。 中国語** BYD は、選択した海外市場ページで**Qin Plus DM-i** も提示します。 それらの地域の公式仕様は、これらの車を支配します。 **モデル識別ルール:** BYD PHEV という名前の異なる名前は、BYD が明示的にエイリアスを述べない限り、*関連*モデルとして扱われます。共有プラットフォーム、パワートレイン、または外観はSAME_の証明ではありません 型式
-## The Two Versions Side by Side
+Qin Plus DM-iは、純粋なEVや従来のガソリン車のいずれにも、**プラグインハイブリッド(PHEV)コンパクトセダン**です。 BYDのDM-iはシリーズ パラレル システムです: 小さく、効率よく調整された** 1.5Lは、自然にエンジンを吸引**、ドライブ**電気モーター**、LFPブレードバッテリーと**E-CVT**の作業で、車は可能な電気で走行し、エンジンを主に効率的な生成と高速アシストに使用しています。 そのため、注文は、一緒に*four物事を修正する必要があります。バッテリーサイズ、電動版、モーター出力と動作**。 55/120 の指定なしで「Qin Plus DM-i」があいまいです。 このページは** 2024 Glory Edition (荣耀版)の中国ビルド(REFERENCE MARKET)をカバーしています。 中国語** BYD は、選択した海外市場ページで**Qin Plus DM-i** も提示します。 それらの地域の公式仕様は、これらの車を支配します。 **モデル識別ルール:** BYD PHEV という名前の異なる名前は、BYD が明示的にエイリアスを述べない限り、*関連*モデルとして扱われます。共有プラットフォーム、パワートレイン、または外観はSAME_の証明ではありません 型式
+## 2つのバージョンを並べて比較
 | アイテム | 55 バージョン | 120 バージョン |
 |---|---|---|
 | フロントドライブモータ(PMSM) | 132 kW (180 PS) 316 N·m | 145 kW (197 PS) 325 N·m |
@@ -73,18 +73,18 @@ A PHEV carries **two** range numbers that buyers conflate: **電気だけの範�
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| BYD QIN PLUS DM-i の公式の地域ページ(en-bh = バーレーンの国サイト) | BYD(**メーカー公式**) | 輸出/**バーレーン(地域別ページ;UAEではない)** | 以下は、 https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **検証済み(スコープ:Qin Plus DM-i のみ)* ふりがな | 18.3 kWhパック、197 hp 145 kW、Qin Plus DM-i の名に 7.3 s |
-| Glory Edition 55/120 設定 | オートホーム (汽车之家) | CN の | 担当: http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED(クロス) | 次元、1.5L 81 kW、132 kWモーター、E-CVT、範囲 |
-| | オートホーム チェジアオ | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED(クロス) | 145 kW 325 N·m、18.32 kWh、組み合わせた範囲の引用符 |
-| Qin Plus 設定 | Xcar (爱卡)/PCauto/ガジ | CN の | 以下は、 https://newcar.xcar.com.cn/m72508/config.htm の一覧 | 2026-09-02 | CROSS_CHECKED(クロス) | 車両重量、ホイールベース、NEDC/WLTC、バッテリー |
-| 汽车之家 (车家号) 秦 PLUS DM-i 荣耀版上市 | 汽车之家 | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | シングル_ソース | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN の | 以下は、 https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | シングル_ソース | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN の | 以下は、 https://price.pcauto.com.cn/m126873/config.html の | 2026-09-02 | シングル_ソース | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-*Confidence Note(AutoBridge標準):BYD独自の地域Qin Plus DM-iページ(en-bh/Bahrain)で、大型バッテリー出力/パックがVERIFIEDされます。 詳細な中国版図は、CROSS_CHECKEDです。 ~ 1245 kmの複合図はSINGLE_SOURCEと中国サイクルの複合番号です。 海外の数字は、明示的に「Qin Plus DM-i」と名付けている BYD ページのみで使用されます。 BYD PHEV という名前の異なるモデル関係は、明示的な OEM の証拠(RELATED_MODEL SAME_MODEL)なしで推測されます。 ふりがな
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05

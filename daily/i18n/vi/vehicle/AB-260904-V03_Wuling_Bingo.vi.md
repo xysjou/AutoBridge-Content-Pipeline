@@ -54,7 +54,7 @@ Không có giá xuất khẩu tĩnh. Giá hướng dẫn của Trung Quốc là 
 ## Những câu hỏi thường xuyên
 Có bao nhiêu phiên bản trong phạm vi? Ba bước CLTC được ghi nhận — 203, 333 và 410 km — với các đặc điểm khác nhau về động cơ và pin.
 Có phải mọi cái Bingo 50 kW không? Không; chiếc xe 203 km dùng máy 30 kW, trong khi 333/410 phiên bản sử dụng 50 kW.
-**How many seats?** The documented entry layout is four seats (2+2); confirm whether the chosen version seats five.
+**Mấy chỗ ngồi?** Cấu hình được ghi nhận là bốn chỗ (2+2); xác nhận xem phiên bản chọn có năm chỗ không.
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, Một tờ tin từ Trung Quốc; Kiểu kết nối phải được kiểm tra ở nước ngoài.
 
 ## Thu ảnh
@@ -83,21 +83,21 @@ Có phải mọi cái Bingo 50 kW không? Không; chiếc xe 203 km dùng máy 3
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Bàn xoay 203km | Tự động cấu hình nhà | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | ĐÃ_ ĐÃ | 17.3 kWh, 30 kW 85 N·m, tầm cao nhất, tốc độ cao nhất |
-| Bingo 2024 203km parameters | Comment | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, cơ sở bánh xe, pin, ghế |
-| 2024 Cập nhật phạm vi & sạc nhanh Bingo | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | ĐÃ_ ĐÃ | Khoảng cách, 50 kW, DC phút sạc điện, CLTC |
-| Name | Tự động | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCE | Bề ngang/h, 2+2 chỗ ngồi | 16888
-| Con lắc Bingo 2025 đường dây liên kết đầy đủ | PCauto conig | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | ĐÃ_ ĐÃ | Động cơ giữa/ Thượng, phạm vi |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
-| Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
+| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
+| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
+| Bingo dimensions & seating layout | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | single source | Width/height, 2+2 seating |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-Lưu ý: bộ ắc quy/sức mạnh được kiểm tra chéo; mô-men xoắn động cơ, khối lượng hàng hóa, số lượng chỗ ngồi và điện tích là một nguồn duy nhất và được đánh dấu. Không có trang ngoại quốc OEM, chỉ có người Trung Quốc tham khảo. *
+*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

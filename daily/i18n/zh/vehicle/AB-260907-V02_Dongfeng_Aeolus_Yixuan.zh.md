@@ -1,6 +1,6 @@
 # 东风·爱奥卢斯·伊克森:中国市场 压缩轿车参考文献, 当前行对旧 Mach 版本
 ## SEO元数据
-- **SEO标题**: 东风 意云 中华市场标本及出口购买者检查 QQ自动包
+- **SEO标题**: 东风 意云 中华市场标本及出口购买者检查 
 - **Meta描述**: 东风·艾奥卢斯·伊克苏安CMP轿车的中国市场参考: 维度,目前2025,1.5L行与旧的Mach,1.5T行保持了分离,VIN行-对出口购买者的级别检查。
 - **H1**: 东风·爱奥鲁斯·伊克苏安:中国市场CMP 压缩轿车参考文献, 当前行对旧 Mach 版本
 - **核心关键词**: 东风·艾奥卢斯·伊克苏安出口规格
@@ -25,8 +25,8 @@
 
 | 行线 | 中国市场参考文献. | 齿轮 | 期间/状况 | 信心 |
 |---|---|---|---|---|
-| 1.5L naturally aspirated (2025) | 92 kW (125 PS) / 158 N·m; WLTC 合并 + 6.24 L / 100 km | 6-speed 湿双脂板 | 2025 现主线 | SINGLE_SOURCE — —由VIN/OEM确认|
-| 马赫1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed 湿双脂板 | 2022/2023条旧线,不是2025条主线 | SINGLE_SOURCE — 古代线|
+| 1.5L naturally aspirated (2025) | 92 kW (125 PS) / 158 N·m; WLTC 合并 + 6.24 L / 100 km | 6-speed 湿双脂板 | 2025 现主线 | single source — —由VIN/OEM确认|
+| 马赫1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed 湿双脂板 | 2022/2023条旧线,不是2025条主线 | single source — 古代线|
 
 两者的性能差距很大,足以改变买方的决定,这正是它们不能合并为一个"伊克星发动机"数字的原因. 应将Mach 1.5T型机车标为**旧**型电力机车;将其标为现有轿车将歪曲线路。 这两项产出目前都依靠单一的独立来源,在订约前应关闭Aeolus官方配置页或准确的MIIT同位化条目。 燃料消耗量在**WLTC**周期中被引用,不得与其他汽车的NEDC或CLTC数字进行比较.
 
@@ -52,7 +52,7 @@
 
 这里引用的2025主线是1.5L天然呼吸装置,引用时间为92 kW/158 N·m,其燃料使用量为6DCT和WLTC合用量约为6.24 L/100 km;由VIN证实.
 
-**Is the 197-PS Mach 1.5T the current car?**
+**197 PS 的马赫 1.5T 是当前在售车型吗？**
 
 否 ——Mach 1.5T型(145 kW/300 N·m,Getrag 6DCT)是一条旧线路2022/2023型,不应作为2025型售货轿车列报.
 
@@ -68,15 +68,15 @@
 
 这里的中国市场来源没有建立工厂RHD;RHD和出口规格需要单独的OEM证据.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

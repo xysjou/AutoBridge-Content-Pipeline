@@ -13,7 +13,7 @@
 - **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
 
 ## Pour qui ça sert
-Un premier exportateur de véhicules signe souvent un marché sur le prix et la quantité seulement, puis découvre le contrat jamais fixé **lorsque le risque passe, qui détient le titre avant le paiement intégral, ou où un différend est entendu**. Ce guide présente les clauses qui contrôlent ces résultats. Code civil de la RPC L'article 596 est décrit ici par **portails juridiques secondaires (FindLaw, etc.), qui plafonnent à CROSS_ VOIR/SINGLE_SOURCE**; VÉRIFIÉ exigerait le texte officiel du Code civil d'une source NPC/gouvernement. Le reste est la synthèse des pratiques juridiques. **Un modèle n'est pas un avis juridique — faire examiner par un avocat qualifié le contrat exécuté en vertu de la loi applicable choisie. **
+Un premier exportateur de véhicules signe souvent un marché sur le prix et la quantité seulement, puis découvre le contrat jamais fixé **lorsque le risque passe, qui détient le titre avant le paiement intégral, ou où un différend est entendu**. Ce guide présente les clauses qui contrôlent ces résultats. Code civil de la RPC L'article 596 est décrit ici par **portails juridiques secondaires (FindLaw, etc.), qui plafonnent à CROSS_ VOIR/single source**; VÉRIFIÉ exigerait le texte officiel du Code civil d'une source NPC/gouvernement. Le reste est la synthèse des pratiques juridiques. **Un modèle n'est pas un avis juridique — faire examiner par un avocat qualifié le contrat exécuté en vertu de la loi applicable choisie. **
 
 ## Case 1 — Les contenus essentiels (art. 596 du Code civil)
 En vertu de l'article 596 du code civil de la RPC**, un contrat de vente devrait couvrir: **nom, quantité, qualité, prix, heure/lieu/méthode de performance, emballage, normes et méthode d'inspection, règlement, et dispositions en matière de langue/texte efficaces**. Traduit pour un contrat de véhicule, le minimum est:
@@ -83,17 +83,17 @@ Divulguer les faits importants de façon véridique: **version/configuration, ve
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| RPC Code civil Art. 596 conditions de vente | FindLaw (portail juridique) | NC | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | _CHECTURE (article cité par un portail juridique secondaire, et non une source officielle de la NPC) | Contenu essentiel du contrat |
-| Modèle de contrat de vente de véhicules d'exportation (réserve de risque/titre) | juridique | Mondial | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | _CHECTURE | Transfert de risque; conservation du titre; divulgation de la condition | 110ask
-| Clauses de base du contrat d'achat (liste de la violation/titre/config) | 66Law | NC | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | _CHECTURE | LD, fenêtre de réclamation, annexe de configuration |
-| Contrat d'exportation Incotermes/disputes/Apostille | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SOURCE UNIQUE | Version des Incoterms, arbitrage de la CPI, Apostille |
-*Note de portée: Le contenu de l'art 596 est CROSS_ VOIR via un portail juridique secondaire seulement — VÉRIFIER exige le texte officiel du Code civil de la RPC (NPC/gouvernement), qui n'a pas été saisi; ne l'étiquetez pas VÉRIFIER. L'applicabilité de la réserve de propriété, de l'arbitrage et de l'apostille dépend de la loi et de la destination qui ont été choisies et doit être confirmée par un conseil qualifié. Les modèles de contrats ne sont que des références structurelles. *
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
+*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
-| - 中华人民共和国民法典 - 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (Procurature populaire suprême) | NC | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VÉRIFIER |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VÉRIFIER |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

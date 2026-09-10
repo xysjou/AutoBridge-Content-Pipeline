@@ -76,19 +76,19 @@ La normalisation des importations Marque délivrée en vertu des lignes directri
 
 Un agent de compensation kényan agréé dépose habituellement une inscription en douane pour l'importateur inscrit; l'exportateur fournit des documents conformes et le CdC.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| KEBS 官网 (进口须符合肯尼亚标准 φ 装船前符合性验证 PVOC 与进口标准化标志 ISM 等制度存在性) | Bureau des normes du Kenya | KE | T1 | VÉRIFIER | https://www.kebs.org/ | VOCP, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
-| KRA 官网 (海关税收征管机构身份; 具体进口税页未取到稳定子页) | Autorité kényane des recettes | KE | T1 | VÉRIFIER | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
-| KRA 对二手机动车启用新 CRSP 现行零售价表 (2025-07-01, T4 仅线索, 须 KRA 官方核) | 顺企网 (T4) | KE | T4 | NON VÉRIFIS | https://m.11467.com/product/d40233025.htm | CRSP 估值线索  |
-| ' 肯尼亚只进口车龄 8 年内二手车 '(人民网 头条媒体口径, 非 KEBS/KRA 一手) | 今日头条 (媒体镜像) | KE | T3 | NON VÉRIFIS | http://m.toutiao.com/group/6906281676268110344/ | 8 年车龄线索  |
-| Importation de véhicules automobiles (base de connaissances) | Autorité kényane des recettes | KE | T1 | VÉRIFIER | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — Les composantes des droits varient selon le SH; taxer le temps, confirmer les taux actuels |
-| Procédures d'importation de véhicules automobiles | Autorité kényane des recettes | KE | T1 | _SENSIBILISATION DU TEMPS | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — procédure d'importation et catégories fiscales; règle de l'année de fabrication en rouleaux publiée par KRA |
-| Manuel d'exploitation du programme du Programme du Programme du Pacifique Pacifique v14 (9 nov 2025) | Bureau des normes du Kenya | KE | T1 | VÉRIFIER | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — véhicule à moteur/équipement mobile PVC et agents d'inspection désignés |
-| Normalisation des importations Lignes directrices en matière de marques | Bureau des normes du Kenya | KE | T1 | VÉRIFIER | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — Délivrance de licences ISM pour les importations sous licence PVC/réglementées |
-| Manuel d ' opérations du Programme de coopération entre pays en développement (Portail InfoTrade Kenya) | InfoTrade Kenya (portail commercial du gouvernement) | KE | T1 | _CHECTURE | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — véhicules d'occasion évalués selon les normes KS; confirmer la version actuelle |
-| Agence du réseau commercial du Kenya (KenTrade) | Agence du réseau commercial du Kenya | KE | T1 | _CHECTURE | https://www.kentrade.go.ke/ | kebs_qis — Organisme national de facilitation du commerce à guichet unique |
+| KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性） | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/ | PVOC, 进口标准化标志, 标准符合性 — 肯尼亚标准与合格评定 |
+| KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页） | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/ | 海关税务机构身份 — 肯尼亚海关税务 |
+| KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，仅线索，须KRA官方核） | 顺企网(directory/listing) | KE | directory/listing | UNVERIFIED | https://m.11467.com/product/d40233025.htm | CRSP估值线索 |
+| '肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手） | 今日头条(媒体镜像) | KE | media/industry | UNVERIFIED | http://m.toutiao.com/group/6906281676268110344/ | 8年车龄线索  |
+| Motor Vehicle Importation (knowledge base) | Kenya Revenue Authority | KE | primary | VERIFIED | https://www.kra.go.ke/component/knowledge_base/category/6 | kebs_qis — duty components vary by HS; taxes time-sensitive, confirm current rates |
+| Procedures for Motor Vehicle Importation | Kenya Revenue Authority | KE | primary | TIME_SENSITIVE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | kebs_qis — import procedure and tax categories; rolling manufacture-year rule published by KRA |
+| PVoC Programme Operations Manual v14 (9 Nov 2025) | Kenya Bureau of Standards | KE | primary | VERIFIED | https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf | kebs_qis — motor vehicle/mobile equipment PVoC and appointed inspection agents |
+| Import Standardization Mark Guidelines | Kenya Bureau of Standards | KE | primary | VERIFIED | https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf | kebs_qis — ISM issuance for PVoC-licensed/regulated imports |
+| PVoC Programme Operations Manual (InfoTrade Kenya portal) | InfoTrade Kenya (government trade portal) | KE | primary | CROSS_CHECKED | https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf | kebs_qis — used vehicles assessed under KS standards; confirm current version |
+| Kenya Trade Network Agency (KenTrade) official | Kenya Trade Network Agency | KE | primary | CROSS_CHECKED | https://www.kentrade.go.ke/ | kebs_qis — national single-window trade facilitation body |
 
 ## Révision de la rédaction
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

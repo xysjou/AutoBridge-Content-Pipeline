@@ -43,7 +43,7 @@ The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งอ
 
 ## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
 1. จับคู่ตัวเลือกมอเตอร์ไปยังแบตเตอรีและ CLTC ช่วง; รับสายการสร้าง VIN
-2. Translate CLTC 310/410 km to the destination cycle.
+2. แปลงค่า CLTC 310/410 km เป็นค่าตามวัฏจักรการทดสอบของปลายทาง
 3. protol และ AC/DC access (ไม่ถูกจับที่นี่).
 4. ยืนยันการถ่ายเอกสารอีวี เอกสารแบตเตอรี่ และเอกสารการส่งสินค้า UN38.3/IMDG ฉบับ กับผู้ส่ง
 5. ต้องการอ้างอิงการส่งออกในปัจจุบัน ไม่มีส่วนการส่งออก
@@ -55,15 +55,15 @@ The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งอ
 ~ 410 km WLTP หรือเปล่า~ ไม่ — ซี.
 ~เรือเป็นไงบ้าง ~ เป็นแบตเตอรี่ลิเธียน-อีวีที่เสียหายภายใต้รุ่น IMDG ปัจจุบัน (UN3556); ยืนยันด้วยผู้ดําเนินการ
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸 电机 电机 电池 续航 (พ.ศ. ○
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | ROOS_ CHCKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| เว็บไซต์อย่างเป็นทางการทั่วโลก | Geey Auto Group 吉利 (OEM) | CN | T1 | เปิดใช้งาน | https://global.geely.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

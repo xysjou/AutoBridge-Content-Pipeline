@@ -27,23 +27,23 @@
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| 长度宽度高度 | 4135 1805 1570 (STAR 限定版车长 4155) (中文(简体)). | 毫米 | 中国 | 横跨 | 搜狐双页 维基月球 |
+| 长度宽度高度 | 4135 1805 1570 (STAR 限定版车长 4155)  | 毫米 | 中国 | 横跨 | 搜狐双页  |
 | 轮式基座 | 2650 | 毫米 | 中国 | 横跨 | 搜狐+腾讯 (单位:千美元) |
-| 席位 | 5门5座 | - 说吧 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 版式 | 后置后驱 维基月球 | - 说吧 | 中国 | 资源 | 腾讯新闻 维基月球 |
-| 电动机选项 | 58 85 | 千瓦 | 中国 | 资源 | 搜狐汽车 维基月球 |
-| 电池类型 | 磷酸铁锂 维基月球 | - 说吧 | 中国 | 资源 | 搜狐汽车 维基月球 |
-| 电池容量 410 维基月球 | 40.16 | 克 国 呜 | 中国 | 资源 | 搜狐汽车 维基月球 |
+| 席位 | 5门5座 | | 中国 | 资源 | 搜狐车型库  |
+| 版式 | 后置后驱  | | 中国 | 资源 | 腾讯新闻  |
+| 电动机选项 | 58 85 | 千瓦 | 中国 | 资源 | 搜狐汽车  |
+| 电池类型 | 磷酸铁锂  | | 中国 | 资源 | 搜狐汽车  |
+| 电池容量 410  | 40.16 | kWh | 中国 | 资源 | 搜狐汽车  |
 | 范围 cltc | 310 410 | 公里 | 中国 | 横跨 | 搜狐+腾讯 (单位:千美元) |
-| 货运量 | 375(前备厢 70,后排放倒 1320) (中文(简体)). | L: 国家 | 中国 | 资源 | 搜狐车型库 维基月球 |
-| 平台 | 吉亚纯电架构 | - 说吧 | 中国 | 资源 | 腾讯新闻 维基月球 |
+| 货运量 | 375(前备厢 70,后排放倒 1320)  | L: 国家 | 中国 | 资源 | 搜狐车型库  |
+| 平台 | 吉亚纯电架构 | | 中国 | 资源 | 腾讯新闻  |
 
 ## 小EV出口逻辑:电池线、循环和运输
 城市 EV经常被错误引用,因为两条马达/电池线路使用一个范围号. 在兴远号上,将发动机(58或85 kW)与其匹配的电池和CLTC射程配对,并转换为目的地试验周期,而不是重新标注CLTC. 作为锂离子电池EV,海上货运遵循目前的电池动力车辆IMDG分类法(保存完好的车辆UN3556)——见航运指南. 电池供应商和充电峰值的电源在OEM年数据之前仍未证实。
 
 ## 付款前对海外买方的核实
 1. 匹配电动机选项与电池和CLTC范围;获得VIN建设线.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. 将 CLTC 310/410 km 续航换算为目的地测试循环下的对应数值。
 3. 确认充电连接器/协议和AC/DC能力(高峰DC在此没有捕获).
 4. 确认EV的同质化,电池文件 和UN38.3/IMDG 运输文件与转发者。
 5. 请求当前出口报价;不公布出口价格.
@@ -55,15 +55,15 @@
 **Is 410 km WLTP?** No — CLTC.
 船怎么开的? 以目前IMDG类(UN3556)为完整无缺的锂离子电池EV;与承运人确认。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 (单位:千美元) | 搜狐汽车 维基月球 | 氯化萘 | T2 | 横跨 | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 维基月球 | 尺寸,  电机,  电池, 续航 维基月球 |
-| 吉利星愿 配置库 (单位:千美元) | 搜狐汽车车型库 维基月球 | 氯化萘 | T2 | 横跨 | http://db.auto.sohu.com/model_7477/config 维基月球 | 尺寸,  轴距, 储物 维基月球 |
-| 星愿 上市报道 (单位:千美元) | 腾讯新闻 维基月球 | 氯化萘 | T3 | 横跨 | http://news.qq.com/rain/a/20260329A04ZLQ00 维基月球 | 续航版本, 架构 (单位:千美元) |
-| 吉利全球官方网站 | Geely 自动 Group 吉利 (OEM) 游戏机: | 氯化萘 | T1 | 实录 | https://global.geely.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
-| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
-| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05

@@ -20,8 +20,8 @@ The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor
 |---|---|---|
 | Mesin | ** CA6DM3-55E52 ** (China- 5 / National V) | CROSS_CHECKED |
 | Keluaran | 550 PS, sekitar 2300 N·m | CROSS_CHECKED |
-| Gearbox | Manual 12-speed | SINGLE_SOURCE |
-| Homologasi contoh | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| Gearbox | Manual 12-speed | single source |
+| Homologasi contoh | CA4250P77K25T1E5 | single source |
 | Era | 2018 launch-era line - ** HISTORICAL _ VARIANT ** | CROSS_CHECKED |
 
 Angka-angka ini menggambarkan ** 2018-era Cina - 5 ** J7. Mereka harus diberi label sebagai tahap emisi sejarah dan tidak boleh dihadirkan sebagai truk yang dijual. Sebuah mesin Cina - 5 juga menimbulkan pertanyaan ekspor langsung: banyak pasar tujuan sekarang membutuhkan tahap emisi baru, sehingga unit Cina - 5 mungkin tidak dapat didaftarkan bahkan di mana truk itu sendiri tersedia. Konfirmasi pengakuan emisi tujuan sebelum sumber generasi ini.
@@ -30,9 +30,9 @@ Angka-angka ini menggambarkan ** 2018-era Cina - 5 ** J7. Mereka harus diberi la
 
 | Butir | Referensi pasar-Cina | Percaya diri |
 |---|---|---|
-| Keluarga mesin | ** CA6SX1 ** (China 6 / National VI) | SINGLE_SOURCE |
-| Keluaran teratas direferensikan | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — langkah tenaga kuda yang tepat oleh SKU untuk mengkonfirmasi|
-| Tata Letak | 6x4 dominan; suspensi udara dan pilihan resisder hidrolik pada konfigurasi terpilih | SINGLE_SOURCE |
+| Keluarga mesin | ** CA6SX1 ** (China 6 / National VI) | single source |
+| Keluaran teratas direferensikan | Up to 600 PS / 2800 N·m | single source — langkah tenaga kuda yang tepat oleh SKU untuk mengkonfirmasi|
+| Tata Letak | 6x4 dominan; suspensi udara dan pilihan resisder hidrolik pada konfigurasi terpilih | single source |
 
 Keluarga China - 6 adalah garis saat ini, tapi yang tepat tenaga kuda / torsi langkah di SKU tidak sepenuhnya terbukti di sini - "sampai 600 PS" adalah referensi langit-langit, tidak rating tetap untuk setiap truk. Sebuah perintah harus bernama tepat CA6SX1 power ratingnya, gearbox, rasio akselnya dan setup roda lima dan menutupnya terhadap spesifikasi resmi Jiepang atau entri homologasi MIIT yang tepat. Item seperti lima roda yang tepat beban, rasio axle, kapasitas fuel-tank dan massa kerb adalah ** not ** dinyatakan karena tidak ada sumber exactly-SKU ditangkap.
 
@@ -86,19 +86,19 @@ Sebuah traktor tinggi 6x4 adalah tata letak dominan, dengan suspensi udara dan r
 
 Tidak - halaman ini adalah referensi dari pasar diesel Cina; LNG / EV, RHD dan ekspor J7s memerlukan bukti OEM terpisah dan tidak diasumsikan identik.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/ 上市 / 国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩 / 12 挡 / 缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12 挡, 缓速器 |
-| 车型身份 / 底盘选装 | 汽车之家·车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
-| 一汽解放官方网站 = 车型线身份 = = SKU 以官方 / 公告终核 = = | 一汽解放 (FAW Jiefang) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告final confirmation） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-07
-- ** Referensi pasar ** CHINA 中国市场柴油 J7 参考 menjadi 国五为 2018 历史款须标注 = 国六精确马力段 / GCW 为单一来源须解放官方或公告按 SKU 终核
+- ** Referensi pasar ** CHINA 中国市场柴油 J7 参考 menjadi 国五为 2018 历史款须标注 = 国六精确马力段 / GCW 为单一来源须解放官方或公告按 SKU final confirmation
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Hasil tunggal sumber, GCW / axle / easle / track-wheel data dan harga referensi domestik harus dikonfirmasi ulang pada lembar OEM atau masukan homologasi MIIT, dan LNG / EV / RHD / export J7 memerlukan bukti terpisah sebelum melakukan transaksi.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

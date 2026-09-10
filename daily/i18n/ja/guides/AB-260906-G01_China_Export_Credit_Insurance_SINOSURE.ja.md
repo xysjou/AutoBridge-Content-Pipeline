@@ -88,15 +88,15 @@ SINOSUREは中国の公式の輸出信用保険会社です; 商務省の短期�
 
 いいえ。買い手、国、言葉、時間をかけて変化するごとに評価され、書いているSINOSUREから現在の数字を取得します。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国出口信用保险公司官网 (政策性保险公司、短期出口信用保险产品存在性) | 中国出口信用保险公司 | CN の | T1 | 検証済み | https://www.sinosure.com.cn/ | 短期险产品、官方身份 — 出口信用保险 |
-| 国际贸易 ' 单一窗口 ' 出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口 (政府门户) |  CN  の | T1 | 検証済み | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台 、 线上投保渠道 — 投保渠道 |
-| 短期輸出クレジット 保険 — カバーされた商用および政治リスク | 中国輸出入信用保険株式会社 (SINOSURE) |  CN  の | T1 | 検証済み | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | Risk_types — 英語版公式商品ページ; リスクカテゴリのみ 、 、 なし
-| 短期出口贸易险承保风险 (商业风险・政治风险) | 中国出口信用保险公司 |  CN  の | T1 | 検証済み | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | 危険物種 |  CN  公式製品ページ スタッフ
-長期滞在 長期滞在 信用金庫 法務 | 人民共和国 商務部 | CN の | T1 | 校正済み | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/202307/20230726080938373.pdf | insurer_role — ハンドブック 、 はん く ん く ん く ん く ん く ん く ん く ん く ん く ん く ん く ん く ん く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く く  , 料金は っています  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-中国の輸出入貿易とプログラム | OECD(OECD) | エントリー | T2 | CROSS_CHECKED(クロス) | https://one.oecd.org/document/TAD/ECG(2015) 3/en/pdf | insurer_role — サイア・ST/MLT の混合 解凍 スタッフ
+| 中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/ | 短期险产品, 官方身份 — 出口信用保险 |
+| 国际贸易'单一窗口'出口信用保险小微企业政府统保平台 | 中国国际贸易单一窗口(政府门户) | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html | 小微统保平台, 线上投保渠道 — 投保渠道 |
+| Short-Term Export Credit Insurance — covered commercial & political risks | China Export & Credit Insurance Corporation (SINOSURE) | CN | primary | VERIFIED | https://www.sinosure.com.cn/en/Insurance/steci/index.shtml | risk_types — English official product page; risk categories only, no rates |
+| 短期出口贸易险承保风险（商业风险/政治风险） | 中国出口信用保险公司 | CN | primary | VERIFIED | https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml | risk_types — official CN product page |
+| 短期出口信用保险业务手册 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf | insurer_role — policy handbook; credit-term framework, rates remain case-by-case |
+| Chinese Export Credit Policies and Programmes | OECD | INT | independent database | CROSS_CHECKED | https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf | insurer_role — independent international context on Sinosure ST/MLT mix |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

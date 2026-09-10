@@ -84,17 +84,17 @@ L'ordonnance MIIT n° 50 divise les constructeurs et les produits de véhicules 
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 Automobile et moto Avis de dépôt de licence d'exportation | Ministère du commerce (MOFCOM) | CN (du côté des exportations) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VÉRIFIER | Dépôt annuel; preuves de rendement à la hauteur |
-| Avis sur le renforcement de la gestion des exportations de voitures usagées | Bibliothèque des politiques du Conseil d ' État (quatre ministères) | CN (du côté des exportations) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VÉRIFIER | Régime de permis de voiture d'occasion; règle 180-day à partir de 2026-01-01 |
-| Administration des licences d'exportation de voitures de tourisme BEV | National Business Daily Toutiao | CN (du côté des exportations) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | _SENSIBILISATION DU TEMPS | Voie de circulation BEV, référence SH |
-| MIIT Order n° 50 — Entrée du fabricant et du produit | Ministère de l'Industrie et des Informatiques | CN (du côté des exportations) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VÉRIFIER | Six catégories d'admission; base de la chaîne de documents |
-*Note de portée: les sources officielles ici couvrent uniquement le côté exportation de la Chine. Les codes SH exacts, les détails de fonctionnement du système et toute révision annuelle doivent être confirmés par rapport aux avis tarifaires et MOFCOM actuels; les règles relatives à la destination sont hors de portée. *
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
+*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理, 2026-01-01 施行; 参考 HS 8703801090) | Annonce officielle du Ministère du commerce (MOFCOM) | NC | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VÉRIFIER |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | Ministère du Commerce extérieur du MOFCOM (en anglais) | NC | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VÉRIFIER |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

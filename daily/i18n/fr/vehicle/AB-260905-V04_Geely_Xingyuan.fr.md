@@ -55,7 +55,7 @@ Ville Les VE sont souvent mal cités en utilisant un numéro de plage pour deux 
 
 ## Vérification de l ' acheteur étranger avant paiement
 1. Optez pour une batterie et une gamme CLTC; obtenez la ligne de construction VIN.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. Convertir les 310/410 km CLTC dans le cycle d'essai du pays de destination.
 3. Confirmer la capacité de connecteur de charge/protocole et de courant alternatif/DC (pic DC non capturé ici).
 4. Confirmer l'homologation EV, les documents de batterie et UN38.3/IMDG documents d'expédition avec le transitaire.
 5. Demander une cote à l'exportation; aucun prix à l'exportation n'est publié.
@@ -67,15 +67,15 @@ Ville Les VE sont souvent mal cités en utilisant un numéro de plage pour deux 
 **L'article 410 km du Code de conduite des travailleurs?** Non — CLTC.
 **Comment ça arrive?** En tant que batterie au lithium-ion intacte EV dans la classe IMDG actuelle (UN3556); confirmer avec le transporteur.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | NC | T2 | _CHECTURE | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | NC | T2 | _CHECTURE | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | NC | T3 | _CHECTURE | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Site officiel de Geely mondial | Groupe Geely Auto 吉利 (OEM) | NC | T1 | VÉRIFIER | https://global.geely.com/ | identité de marque/modèle-ligne et autorité d'OEM |
-| Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
-| Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

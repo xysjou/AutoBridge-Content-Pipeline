@@ -20,8 +20,8 @@ The FAW Jiefang J7 is the seventh-generation flagship heavy semi-trailer tractor
 |---|---|---|
 | Engine | **CA6DM3-55E52** (China-5 / National V) | CROSS_CHECKED |
 | Output | 550 PS, around 2300 N·m | CROSS_CHECKED |
-| Gearbox | 12-speed manual | SINGLE_SOURCE |
-| Example homologation | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| Gearbox | 12-speed manual | single source |
+| Example homologation | CA4250P77K25T1E5 | single source |
 | Era | 2018 launch-era line — **HISTORICAL_VARIANT** | CROSS_CHECKED |
 
 These figures describe the **2018-era China-5** J7. They must be labelled as a historical emission stage and must not be presented as the currently on-sale truck. A China-5 engine also raises a direct export question: many destination markets now require a newer emission stage, so a China-5 unit may not be registerable even where the truck itself is available. Confirm destination emission recognition before sourcing this generation.
@@ -30,9 +30,9 @@ These figures describe the **2018-era China-5** J7. They must be labelled as a h
 
 | Item | Chinese-market reference | Confidence |
 |---|---|---|
-| Engine family | **CA6SX1** (China-6 / National VI) | SINGLE_SOURCE |
-| Top output referenced | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — exact horsepower steps by SKU to confirm |
-| Layout | 6x4 dominant; air suspension and hydraulic retarder optional on selected configurations | SINGLE_SOURCE |
+| Engine family | **CA6SX1** (China-6 / National VI) | single source |
+| Top output referenced | Up to 600 PS / 2800 N·m | single source — exact horsepower steps by SKU to confirm |
+| Layout | 6x4 dominant; air suspension and hydraulic retarder optional on selected configurations | single source |
 
 The China-6 family is the current line, but its precise horsepower/torque steps across SKUs are not fully evidenced here — "up to 600 PS" is a ceiling reference, not a single fixed rating for every truck. An order must name the exact CA6SX1 power rating, gearbox, axle ratio and fifth-wheel setup and close them against the Jiefang official specification or the exact MIIT homologation entry. Items such as the precise fifth-wheel load, axle ratios, fuel-tank capacity and kerb mass are **not** stated because no exact-SKU source was captured.
 
@@ -89,12 +89,12 @@ No — this page is the Chinese-market diesel reference; LNG/EV, RHD and export 
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/上市/国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
-| 车型身份/底盘选装 | 汽车之家·车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
-| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告终核） | 一汽解放(FAW Jiefang) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告终核） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

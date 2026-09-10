@@ -4,7 +4,7 @@
 - **Meta描述**: 中国市场3rd-gen 武林MINIEV 马卡龙 — 3-door 4-seat 微EV, 20 kW型发动机,  170/215 km  CLTC , LFP个电池, 主要是慢充电, 100 km/h 最高速度, 等级选择逻辑  and  出口者检查。
 - **H1**: 武林宏广MINIEV 马卡龙2024 (中文(中国大陆)):微-EV 光谱与出口检查
 - **核心关键词**: wuling hongguang miniev macaron 2024 specs
-- **次级搜索词**: MINIEV 维基月球 迈凯龙范围, 微量EV出口, MINIEV 20kW, (英语). 170 215 CLTC辆城市车, 武灵 LFP小型电池
+- **次级搜索词**: MINIEV  迈凯龙范围, 微量EV出口, MINIEV 20kW,  170 215 CLTC辆城市车, 武灵 LFP小型电池
 - **建议URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
 - **搜索意图**: 了解武林洪广MINIEV 马卡龙2024(中马):微EV 光谱和出口检查:车辆/零件出口商在承诺下订单前必须核实,记录和决定什么.
 - **内链建议**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
@@ -50,7 +50,7 @@
 3. ** 动力和最高速度评分**,该等级(20 kW/100 km/h参考).
 4. ** ——不承担RHD或中国建筑上的本地语UI.
 5. ** 目的地的Homologation/security-content**地位——微电子V仍必须明确当地市场准入规则(见CoC/类型核准指南)。
-6. ** EV运输文件**(UN38.3/MSDS加根据IMD修正案42-24(2026-01-01年强制规定),锂离子电池动力车辆被分类为UN3556,而不是遗留下来的通用UN3171;尽管电池电池电池很小,但按目前的EV运输概况介绍和承运人(见EV海洋合规指南)适用文件/SOC细节。
+6. ** EV运输文件**(UN38.3/MSDS加根据IMD修正案42-24(2026-01-01年强制规定),锂离子电池动力车辆被分类为UN3556,而不是遗留下来的通用UN3171;尽管电池很小,但按目前的EV运输概况介绍和承运人(见EV海洋合规指南)适用文件/SOC细节。
 
 ## 请求当前导出提示
 不公布静态出口价格. 大约41元人民币,800元/46元,800元 查询** 目的地国家 数量 范围等级(170/215) 低功率/高功率/高功率 收费规定 目标港口 国际贸易术语解释通则**。
@@ -89,20 +89,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 麦卡龙加170 km/20 kW | 自动回家 | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/13878133 维基月球 | 2026-09-03 | 横跨 | 20 kW, 170 km, 国内价格(TIME_SENSITION) |
-| MNIEV 2025 | 东赫迪数据库 | 氯化萘 | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 维基月球 | 2026-09-03 | 横跨 | 示范年、幅度等级、国内管理系统更新项目(TIME_SENSIATI) |
-| 2024 迈凯龙 215(日记/kerb) | NetEase 自动数据库 | 氯化萘 | https://product.auto.163.com/product/000CQEGG.html 维基月球 | 2026-09-03 | 资源 | 3064/1493/1629、2010 mm、777 kg(媒体数字数据库,而不是OEM) |
-| macaron 慢充电 | PCauto 百科全书 | 氯化萘 | http://m.pcauto.com.cn/baike/941480/1848425/ 维基月球 | 2026-09-03 | 资源 | 13.4 kWh,充电法 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
+| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
+| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
+| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | single source | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
+| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | single source | ≈13.4 kWh, charging method |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* 说明:没有捕获到Wuling/SAIC-GM-Wuling初级光谱表;媒体数据库没有核查。 范围/价格在kerb重量,最高速度和kWh为单源时进行交叉检查. CLTC仅是中国循环. 收费规定必须确切地在VIN上得到确认。 * 报告迟交是因为需要翻译。
+*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

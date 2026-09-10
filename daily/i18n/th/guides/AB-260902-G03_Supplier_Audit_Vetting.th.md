@@ -21,7 +21,7 @@
 
 เอกสารจีนอย่างเป็นทางการสองฉบับ นิยามกระดูกสันหลังของภาครัฐ (ทั้ง 2 แหล่งที่มาหลักของรัฐบาล):
 
-- ตามช่วงพัก (Unknown) ของโปรแกรม Offication เกี่ยวกับการตั้งค่ารถส่งออก  and  มอเตอร์ไซค์! (MOFCOM AL) ผู้ผลิตที่ประกาศพาหนะสําหรับการส่งออก จะต้องอยู่ในรายการของ #MIT "Weholeic Manutures  and  Produts ประกาศ" (车辆生产企业及产品公告)  and  ค้างไว้ได้ ~CClass recorder recorder ~.
+- ตาม**ประกาศของห้ากระทรวงว่าด้วยการกำกับระเบียบการส่งออกรถยนต์และรถจักรยานยนต์เพิ่มเติม** (MOFCOM และหน่วยงานร่วม) ผู้ผลิตที่สำแดงยานยนต์เพื่อการส่งออกต้องอยู่ใน**«ประกาศรายชื่อผู้ผลิตยานยนต์และผลิตภัณฑ์» ของ MIIT** และต้องมี**การรับรองภาคบังคับ CCC** ที่ยังใช้ได้
 - Per---MOFMOM et al 2024 Announcement No. 6** on used-car export enterprises, ผู้ส่งออกรถใช้ต้องเป็นผู้ตรวจการบัญชี ตามกฎหมายที่อิสระตามประเทศระบุไว้ (ผู้จําหน่ายต้องอยู่ในการประกาศของ MIT) พวกพ่อค้าต้องทําตามเกณฑ์ที่ตีพิมพ์ไป
 
 โปรแกรมผู้ซื้อ: ถาม * ซึ่ง * ลิขสิทธิ์ * เป็นโปรแกรมส่งออกและยืนยันการวางจําหน่ายในรายการส่งออกรายปีที่ผ่าน มา เผยแพร่โดย MOFCO (รายการนี้มีการปรับปรุงอย่างไม่เปลี่ยนแปลง — ใช้รุ่นปัจจุบันของปี มัคคุเทศก์นี้ไม่ปรากฏชื่อบริษัท) บริษัทที่ไม่สามารถวางตัวเองบนห่วงโซ่ที่เป็นสัญญาณหยุด
@@ -64,7 +64,7 @@
 
 ## สิ่งที่ AutoBridge เพิ่มเกินการจัดการหน้าจอ
 การสแกนใบอนุญาตพิสูจน์แล้วว่ามีบริษัทอยู่ ไม่ใช่ว่ามันจะส่งออก * พาหนะ* ของคุณ มัคคุเทศก์นี้แนะนําการตรวจสอบความคล้ายคลึงกับปี MOFCOM ในปัจจุบัน (2026 application by 商办贸函   2025  408 号; ผู้โดยสารผู้บริสุทธิ์ จาก 2026-01-01 ภายใต้ประกาศร่วม พ.ศ. 54) ทําการสร้างสายโซ่ที่คํานวณได้ใหม่ให้กับรุ่น OEM และดําเนินการทําสัญญา/ในใบแจ้งหนี้/แบ็งค์ ตรงกับชื่อเงินฝากก่อนหน้าการฝากเงิน — สามเช็คนี้แยกผู้ส่งออกจากชั้นวางจําหน่าย
-## A Practical Eight-Step Sequence
+## ลำดับ 8 ขั้นตอนเชิงปฏิบัติ
 
 1. ดึงบันทึกการทําธุรกิจของจีเอสเอทีออกเอง
 2. ยืนยันการส่งสัญญาณ MIT + สถานะซีซีของผู้ผลิตจริง
@@ -117,19 +117,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
+## Sources & Verification
 
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม ม | ม | | | | | | | | | | | | ม อ อ ม อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ อ (five ministries, อย่างเป็นทางการ T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | เปิดใช้งาน | ประกาศ MIT + ฐานการส่งออกของ ICC |
-| 2024 สํานักพิมพ์หมายเลข 6 (เงื่อนไขการส่งออกรถใช้แล้วใช้) | MOFCOM (ประกาศ T1). | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | เปิดใช้งาน | ข้อกําหนดการส่งออกรถที่ใช้ไป |
-| วิธีตรวจสอบความเชื่อถือในธุรกิจของจีน | การเทรดที่ดี (inguture, ชี้ไปที่ gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | ROOS_ CHCKED | ช่องข้อมูลตรวจสอบสิทธิ์ของ gsxt |
-| วิธีตรวจสอบโรงงานจีนนั้นถูกต้องตามกฎหมาย | พลูโต เนีย | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | ROOS_ CHCKED | ความสอดคล้องของชื่อบัญชีผู้ใช้, การตรวจสอบโรงงาน |
-| 8-step นําทางเพื่อตรวจสอบผู้จําหน่ายรถที่ส่งออกประเทศจีน | ฮิวจิอาเม (ฝุ่น) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | ROOS_ CHCKED | เลเยอร์ |
-| บันทึกช่วยจําสําหรับรับส่งเมล | (顺企网, อุตสาหกรรม) พ.ศ. | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ROOS_ CHCKED | ถ่ายทอดสดวิดีโอแบบน้อยที่สุด, การตรวจสอบแบบไขว้แบบสรุป | 11467
-| กรรมวิธีส่งออกรถบรรทุกภายใน | กังจู ปูเจียงเทรด | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ROOS_ CHCKED | ส่งออกผ่านทางองค์กรที่มีคุณสมบัติ, ห่วงโซ่การอนุญาตสิทธิ์ | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-*บันทึกการยอมรับ (มาตรฐานของ ออโตริด): กฎของการจําแนกพันธุ์ อยู่กับหลัก MOFCN/MIT แหล่งที่มา (IFIT) ปัจจุบันรวม 2026 ใบสมัครเข้าใช้ (商办贸函     2025 〕408 号) และประกาศร่วม พ.ศ. 54 ในนัดส่งผู้โดยสารข้ามแดนบริสุทธิ์ เหาเหาส์ติ้ง (เกิดการส่งออก) รายการคุณสมบัติของปีปัจจุบัน และรายการสอบถามของ AEO มีความเร็ว และจําเป็นต้องตรวจสอบแบบถ่ายทอดสด รายการตรวจสอบการทํางาน เป็นแหล่งรวมของอุตสาหกรรม และชี้ไปที่ระบบอย่างเป็นทางการ *
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

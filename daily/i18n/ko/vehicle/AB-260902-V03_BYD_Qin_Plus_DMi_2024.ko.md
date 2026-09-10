@@ -27,7 +27,7 @@ Qin Plus DM-i는 ** 플러그 인 하이브리드 (PHEV) 소형 세단 **, 순�
 - ** 전송**: E-CVT 단속 전기 연속 가변 드라이브 - spec에 다중 단계 기어 박스가 없습니다.
 - ** 모드**: EV(충전) 및 하이브리드(충전) 작동; 충전 유지 연료 사용은 3.8 L 100 km(NEDC)의 주위에 인용됩니다. 수출용 함대를 위해, 실제 연료 사용이 EV가 아닌 하이브리드와 같은 비상업적 행동 없이 구동되는 PHEV에 따라 충전 행동에 따라 달라지는 고객에게 설명합니다.
 - ** 최고 속도 **: 185 km/h.
-## 건전지, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  Two-Range Discipline
+## 건전지, 의  and  Two-Range Discipline
 A PHEV carries **two** range numbers that buyers conflate: ** 전기 전용 범위 ** (주기를 따라 다름: 120 NEDC = 101 WLTC) 및 별도 ** 결합 된 Fuel+battery 범위 ** (단 하나 소스에 1245 km 중국 랩 그림 나머지는 인용 된 중국 결합 된 번호로 표시되어야합니다. 전기 범위는 아닙니다.). 충전은 버전과 등급에 따라 다릅니다. 온보드 AC 기능을 확인, **와이어 DC 빠른 충전은 선택된 등급**, GB/T 커넥터 versus 대상 인프라에 포함되어 있으며, 연료 등급은 1.5L 엔진이 예상됩니다. PHEV는 충전 경로와 엔진 서비스 연료 경로 모두 필요합니다.
 ## 차원과 오두막
 4765 × 1837 × 1495 mm, 축거 2718 mm,  four-door five-seat monocoque sedan; 225/60 R16의 타이어 캡처 등급. 규정 준수 판에 배터리 버전으로 커브 무게를 확인합니다.
@@ -73,18 +73,18 @@ A PHEV carries **two** range numbers that buyers conflate: ** 전기 전용 범�
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| BYD QIN PLUS DM-i 공식적인 지역 페이지 (en-bh = Bahrain 국가 사이트) | BYD (**제조업체 공식**) | 수출 ** 항공 (지역 en-bh 페이지; 아랍 에미리트) ** | https://www.byd.com/en-bh/car/qin-plus-dmi 통해 | 2026-09-03 | **VERIFIED (경: 이 Qin Plus DM-i 만) ***************************************************************************************************************************************************************************************************************************************************************** | 18.3 kWh 팩, 197 hp까지/145 kW, 지명된 Qin 플러스 DM-i를 위한 7.3 s |
-| 글로리 에디션 55/120 구성 | 오토홈 (汽车之家) | 담당자: Mr. wang | http://dealer.autohome.com.cn/2116572/spec_66744.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 차원, 1.5L 81 kW, 132 kW 모터, E-CVT의 범위 |
-MARKETS의 특징 담당자: Mr. 광 | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_체크 | 145 kW 325 N·m, 18.32 kWh의 범위는 비교적 높은 표 |
-) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) . ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) . ) . ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 담당자: Mr. 광 | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_체크 | 제한 무게, 축거, NEDC/WLTC의 배터리 |
-汽车 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 上 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE_SOURCE(싱글) | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-瓜                                                                                                                                                                                                                                                               담당자: Mr. 광 | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE(싱글) | 55KMKM 8.32kWh、132kW/316N·m、m 11.4 |
-太平平 | 太平平 | 太平平 | 太平平 담당자: Mr. 광 | https: 의 | 2026-09-02 | 싱글_스쿨(싱글) |  S 2718mm、0、0-100 加工 | https://price.pcauto.com.cn/m126873/config.html
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-*Confidence 참고 (AutoBridge 표준): 대형 출력 팩은 BYD의 자체 지역 Qin Plus DM-i 페이지 (en-bh Bahrain); 상세한 중국 버전 수치가 CROSS_CHECKED입니다. ~ 1245 km 개의 결합 된 인물은 SINGLE_SOURCE 및 중국 사이클 결합 번호입니다. 해외 그림은 BYD 페이지에서만 사용되며, "Qin Plus DM-i"라는 이름을 지정합니다. SAME_ BYD PHEV라는 다른 모든 모델 관계는 명시된 OEM 증거 (RELATED_MODEL IME SAME_MODEL)없이 인페로퍼링됩니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

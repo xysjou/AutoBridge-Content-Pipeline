@@ -1,7 +1,7 @@
 # เชียงอัน ยูไนซี (2026, New BluefoundEVE) — New-Magnet Specs and Exccess Recordation
 
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: เชียง UNI-Z PHEV 2026: หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมราชวงศ์ หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมราชวงศ์ หม่อมราชวงศ์ หม่อมราชวงศ์ หม่อมเจ้าหญิง หม่อม หม่อม อม อม หม่อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม อม ส่งออกเป็น EXIF & Magnet Specs คู่มือของนักซื้อ
+- **ชื่อ SEO**: เชียง UNI-Z PHEV 2026: หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมราชวงศ์ หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมเจ้า หม่อมราชวงศ์ หม่อมราชวงศ์ หม่อมราชวงศ์ หม่อมเจ้าหญิง หม่อม หม่อม หม่อม ส่งออกเป็น EXIF & Magnet Specs คู่มือของนักซื้อ
 - **คำอธิบาย Meta**: จีน-มาร์เก็ต เชียงนัน UNI-Z ปลาวาฬใหม่ PHEV: ขนาด 18.4 kWh LFP บรรทัด,  130 km  CLTC  electric range, DC/V2L (พ.ศ.  and   VIN - เช็คระดับการนําเข้า
 - **H1**: Shangan UNI-Z (2026, New Blue Wals PHEV) — New-Magnet Specs and Exccess Recordation
 - **คีย์เวิร์ดหลัก**: Changan / 长安  UNI-Z  specs export
@@ -14,7 +14,7 @@
 - **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 
 ## แก้ไขโครงการหลัก...
-The Changan UNI-Z (2026) ครอบคลุมที่นี่ คือ ห้างใหม่จีน-มาร์เก็ต ปลาวาฬสีน้ําเงิน (จีนลัน เจิง) ปลั๊กลูกผสมผสมผสมผสม มันเป็นสายที่แตกต่างกันจาก UNI-Z บริสุทธิ์ และจากชื่อตลาดส่งออก แชงอันอาจจะใช้ที่อื่นก็ได้ ไม่มีชื่อต่างประเทศว่า quience ถูกอ้างโดยไม่มีการแถลงของโออีเอ็ม ตลาดอ้างอิงคือ.... จีน
+The Changan UNI-Z (2026) ครอบคลุมที่นี่ คือ ห้างใหม่จีน-มาร์เก็ต ปลาวาฬสีน้ําเงิน (จีนลัน เจิง) ปลั๊กลูกผสม มันเป็นสายที่แตกต่างกันจาก UNI-Z บริสุทธิ์ และจากชื่อตลาดส่งออก แชงอันอาจจะใช้ที่อื่นก็ได้ ไม่มีชื่อต่างประเทศว่า quience ถูกอ้างโดยไม่มีการแถลงของโออีเอ็ม ตลาดอ้างอิงคือ.... จีน
 
 ## แบตเตอรี่ และพลังงานไฟฟ้า
 - ~ ความแตกต่าง~: 4730 1890 1660 (部分配置 1680) mm (บางรูปแบบสูง 1680 mm)  wheelbase 2795 mm (cross-checked); cargo volume 638 L.
@@ -57,15 +57,15 @@ The Changan UNI-Z (2026) ครอบคลุมที่นี่ คือ �
 ~ 130 km เป็นช่วง WLTP หรือเปล่า~ ไม่ — มันคือ CLTC
 ~ราคาส่งออกอยู่ที่ไหน ~ ต้องการข้อความอ้างอิงปัจจุบัน; หน้านี้ไม่เผยแพร่เลย
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 ยูเอ็นไอ-ซี 2026 款解析 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机 电池, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 ยูเอ็นไอ-ซี 参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸 轴距 轴距 后备厢 动力 (พ.ศ. ○
-| เชียงาน ไซต์ Automocal อย่างเป็นทางการทั่วโลก | Changan Automolic 长安汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.globalchangan.com/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

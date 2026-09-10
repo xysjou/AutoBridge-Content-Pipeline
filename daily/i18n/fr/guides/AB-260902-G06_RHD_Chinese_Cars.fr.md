@@ -102,18 +102,18 @@ Les vendeurs affirment la disponibilité de la RHD sans distinguer une ligne d'u
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## Sources et vérification
+## Sources & Verification
 
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Guide des marchés de voitures chinoises RHD | StarVia Auto (service d'exportation) | Marchés de la RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | _CHECTURE | MG/GWM RHDL et marchés (industrie; vérifier) |
-| Quels véhicules chinois conviennent aux acheteurs RHD | StarVia Auto (service d'exportation) | Marchés de la RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | _CHECTURE | BYD Atto 3/Dolphin/Seal RHD (industrie; vérifier) |
-| Modèles Geely/Zeekr prêts à l'emploi pour la RHD | FOBEV (service à l'exportation) | Marchés de la RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | _CHECTURE | Geely EX5 parallèle LHD/RHD, Zeekr RHD (industrie; vérifier) |
-| Dongfeng Forthing entre en Thaïlande (officiel) | Groupe moteur Dongfeng (officiel) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VÉRIFIER | Mars- 2026 Entrée en Thaïlande, VENDREDI/ V9 (VÉRIFIÉ) |
-| Changan NEVO Q05 Début du spectacle de Bangkok | Autohome 车家号 (médias) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | _CHECTURE | NÉVO Q05 Thai RHD prospect (média; vérifier) |
-| Stratégie RHD de Hongqi contexte du marché RHD | smzdm (agrégateur); AutoReport (industrie) | Marchés de la RHD | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _CHECTURE | Hongqi RHD pouss; ~ 35% ventes mondiales sur les marchés de la RHD |
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-* Note de confiance (standard AutoBridge): seul le lancement de Dongfeng en Thaïlande RHD est VERIFIED (officiel fabricant). Les listes de modèles de marque sont des instantanés de services d'exportation/médias (SINGLE_SOURCE) qui changent fréquemment et doivent être confirmés sur les canaux officiels de marque/distributeurs locaux par VIN. La légalité de la conversion après le marché n'a pas été vérifiée et est considérée comme un risque. *
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (single source) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

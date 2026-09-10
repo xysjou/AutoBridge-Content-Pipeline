@@ -62,37 +62,37 @@
 - تأكيد الوضع المنظم والطريق الصحيح لمركبات PC مع قوة إياف معينة في وقت مبكر؛ نموذج للمواءمة، وجهاز الأمن العام، وشبكة المعلومات الشخصية/النقل عبر الحدود، والفاتورة، و B/L؛ (ب) الحصول على موافقة لجنة التنسيق المشتركة/التعاون قبل الإبحار؛ (أ) ترك أسئلة تتعلق بواجبات العمل والعمر إلى المصادر الحالية للدائرة الوطنية للاستقلال/المصادر المالية عن طريق المستورد؛ (ب) الاحتفاظ بأدلة تعيين القوة الدولية في ملف المعاملات.
 
 ## FAQ
-** ما الذي يدافع عنه المجلس الوطني للتضامن الاجتماعي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما الذي يدافع عنه المجلس الوطني للتضامن الاجتماعي؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
-The Standards Organisation of Nigeria Conformity Assessment Programme, a mandatory pre-shipment conformity scheme for regulated imports.
+برنامج تقييم المطابقة التابع لهيئة التقييس النيجيرية SON، وهو نظام مطابقة إلزامي قبل الشحن للواردات الخاضعة للرقابة.
 
-** ما هي PC، وC وSC؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هي PC، وC وSC؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 A Product Certificate (PC1/PC2/PC3) is the product stage; وشهادة التوحيد وشهادة البرنامج الوطني للتضامن الاجتماعي هي المرحلة التي تحتاجها عملية التطهير.
 
-** هل تغطي شركة سونيككاب المركبات؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** هل تغطي شركة سونيككاب المركبات؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 وينطبق هذا على المنتجات الخاضعة للتنظيم، بما في ذلك مواد السيارات مثل الإطارات والزجاج والأجزاء والبطاريات؛ ويؤكد النطاق الدقيق للوحدة مع شركة SON/IAF.
 
-** كيف يتواصل برنامج سونيككاب مع الجمارك؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** كيف يتواصل برنامج سونيككاب مع الجمارك؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 وتساند وثائق المطابقة الاستمارة M والنموذج PAAR التي تستخدمها الجمارك النيجيرية لإزالة البضائع.
 
-** ما هو واجب الاستيراد أو الحد الزمني؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة**
+** ما هو واجب الاستيراد أو الحد الزمني؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
 
 ولا يعطي هذا الدليل رقما ثابتا - الحصول على مصادر المالية الحالية للدائرة الوطنية؛ والمعدلات والسياسات العمرية مراعية للوقت.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | دائرة الجمارك النيجيرية | NG | T1 | مفقود | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
-| SON 官网 (SONCAP 强制合格评定制度;SONCAP 证书办理已要求迁移至尼日利亚单一窗口 النافذة الوحيدة لنيجيريا | منظمة نيجيريا للمعايير | NG | T1 | مفقود | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
-| SNCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | منظمة نيجيريا للمعايير | NG | T1 | مفقود | https://son.gov.ng/soncapservice/ | سونيا - وثائق سونيكابا إلزامية للتخليص الجمركي للسلع الخاضعة للتنظيم |
-| SONCAP FAQ | Fisheries | NG| T1 | | |  مفقود  مفقود  مفقود  مفقود  مفقود https://son.gov.ng/soncap-faq/ | regime ?
-| SON International Product Certification | Using | NG | T1 مفقود  مفقود  مفقود https://son.gov.ng/son-product-certification/ | - statutory du 14 2015 and pre |
-? Dans from prior COP countries | | from NG | T1 | timely - | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | سون سون  دور  دور  دور  دور  دور  دور Institut - Institut in / PAAR; الذي. ..
-| 尼日利亚强制性合格评定程序 (SONCAP) 法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | T1 | صرخات | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | سونيا - موجز الحكومة الصينية عن برنامج سونيككاب ينظم فئات في كل أجزاء/إطارات/بطانة السيارات |
-|ки |ной SONCAP |м | (S) (LIRLATED BY RASPANISH ONED OFRE) | NG | T2 | | صرخ صرخ صرخ https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | | | |  دليل  دليل − − − − EST. ?
+| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Nigerian Customs Service | NG | primary | VERIFIED | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
+| SON官网（SONCAP强制合格评定制度；SONCAP证书办理已要求迁移至尼日利亚单一窗口Nigeria Single Window） | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
+| SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
+| SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
+| SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
+| Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 
 ## استعراض التحرير
 - ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)

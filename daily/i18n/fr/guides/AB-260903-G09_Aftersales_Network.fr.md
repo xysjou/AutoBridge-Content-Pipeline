@@ -79,17 +79,17 @@ Une garantie n'est crédible que dans la mesure où le réseau peut l'honorer:
   - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Avis d'exportation de voiture usagée de quatre ministères (poste 6: système de soutien) | Bibliothèque de politique générale du Conseil d ' État | CN Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VÉRIFIER | Attentes en matière de politique concernant les ventes après vente/parties/appui technologique |
-| Même avis (système de soutien) | Ministère du commerce | CN Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VÉRIFIER | Texte de contrepartie du MOFCOM |
-| Comment les constructeurs automobiles chinois peuvent combler le fossé après-vente outre-mer | Sina Finance | Mondial | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SOURCE UNIQUE | Chemin réseau multimarques; exemple de pièces Melbourne; exemple de garantie 7-yr |
-| Les pièces doivent être systématisées au niveau mondial | Nouvelles de Pékin | Mondial | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | _CHECTURE | Faiblesse des ventes lourdes, du service léger; risque de délégation |
-*Note de portée: les attentes en matière de politique sont officielles; les modèles de réseau et les articles d'entrepôt/de garantie en Australie sont des exemples de l'industrie d'une seule entreprise utilisés à titre d'exemple, et non présentés comme des normes universelles. Ce guide traite des opérations de service et est distinct du groupe d'approvisionnement en pièces de rechange. *
+| Four-ministry used-car export notice (item 6: support system) | State Council policy library | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Policy expectation of joint after-sales/parts/tech support |
+| Same notice (support system) | Ministry of Commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | MOFCOM counterpart text |
+| How Chinese automakers can close the overseas after-sales gap | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | single source | Multi-brand network path; Melbourne parts example; 7-yr warranty example |
+| Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
+*Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
 
-| Dispositions sur la responsabilité en cas de réparation, de remplacement ou de retour de produits ménagers automobiles (arrêté no 43 de la SAMR) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VÉRIFIER | Garantie intérieure (san-bao) de base que les termes de l'après-vente à l'étranger doivent être distingués de |
-| Conseil chinois pour la promotion du commerce international (réseau de services commerciaux) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VÉRIFIER | Les canaux institutionnels qui soutiennent la mise en place de réseaux de services à l'étranger |
+| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
+| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
 
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)

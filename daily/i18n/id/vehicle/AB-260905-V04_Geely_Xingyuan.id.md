@@ -14,7 +14,7 @@
 - **Cakupan skema**: Artikel + Kendaraan (tidak ada Produk / Offer / Review)
 
 ## Identitas konteks dan model pembeli
-The ** Geely Xingyuan (Galaxy Xingyuan,  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, dengan ** return-motor rear-wheel drive **. Halaman ini adalah ** Cinese- pasar ** referensi; nama model luar negeri tidak diperlakukan sama dengan nama OEM.
+**Geely Xingyuan (Galaxy Xingyuan, dipasarkan di sebagian pasar ekspor dengan nama Inggris terpisah)** adalah hatchback listrik baterai lima pintu kelas A0 di atas arsitektur EV **GEA** Geely, dengan **penggerak roda belakang motor tunggal**. Halaman ini adalah acuan **pasar Tiongkok**; nama model luar negeri tidak dianggap sama dengan nama OEM.
 
 ## Daya listrik dan garis jangkauan
 - ** Body **: 4135 1805 1570 STAR 限定版车长 4155 NURM (STAR Edition 4155 mm), wheelbase 2650 mm, 5 门 5 座; 后置后驱.
@@ -43,7 +43,7 @@ Kota Evs sering salah dikutip dengan menggunakan satu nomor jangkauan untuk dua 
 
 ## Pembeli luar negeri verifikasi sebelum pembayaran
 1. Cocokkan opsi motor untuk jangkauan baterai dan CLTC; ambil baris build VIN.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. Konversi 310/410 km CLTC ke siklus tujuan.
 3. Konfirmasi konektor protokol muatan dan kemampuan AC DC (puncak DC tidak ditangkap di sini).
 4. Konfirmasi homologasi EV, dokumen baterai dan UN38.3/IMDG dokumen pengiriman dengan forwarder.
 5. Permintaan kutipan ekspor saat ini; tidak ada harga ekspor yang diterbitkan.
@@ -51,19 +51,19 @@ Kota Evs sering salah dikutip dengan menggunakan satu nomor jangkauan untuk dua 
 ## PSD
 ** Apakah Xingyuan sama seperti ekspor "Starwish"? ** Nama di seluruh pasar memerlukan pernyataan OEM; halaman ini menyimpan identitas orang Cina.
 Mengapa tidak ada sosok daya charging? Itu tidak bisa diandalkan dan ditahan daripada menebak.
-Who makes the cells? Tidak OEM- dikonfirmasi; undiscerkan.
+Siapa yang membuat selnya? Belum dikonfirmasi OEM; tidak dinyatakan.
 ** Apakah 410 km WLTP? ** Tidak. CLTC.
 *** Bagaimana kapal itu? Sebagai lithium-ion baterai utuh di bawah kelas IMDG (UN3556), konfirmasi dengan pembawa.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | _ BERDECAT | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | _ BERDECAT | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | _ BERDECAT | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Situs global resmi geely | Geely Auto Group 吉利 (OEM) | CN | T1 | TERBATAI | https://global.geely.com/ | merek model-baris identitas dan Otoritas OEM |
-| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN pengumuman |
-| Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-05

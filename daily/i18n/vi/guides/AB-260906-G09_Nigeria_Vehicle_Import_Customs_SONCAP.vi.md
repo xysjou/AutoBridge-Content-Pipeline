@@ -77,17 +77,17 @@ Tài liệu phù hợp cho Mẫu M và hệ thống PAAR mà hải quan Nigeria 
 
 Hướng dẫn này không đưa ra một con số cố định nào cả -- lấy được những nguồn gốc chính trị của NCS hiện tại; các chính sách về tuổi tác rất nhạy cảm.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Dịch vụ hải quan Nigeria | TT | T1 | VEII | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
-| CÂU TRONG CÀI 官网 (SONCAP 强制合格评定制度;SONCAP 证书办理已要求迁移至尼日利亚单一窗口 Cửa sổ đơn Nigeria | Thông báo động | TT | T1 | VEII | https://www.son.gov.ng/ | CÀI NGƯỜI, 强制合格评定. 单一窗口迁移 — 尼日利亚强制标准 |
-| Dịch vụ CAP và đường đi chứng thực (PC1/PC2/PC3, CoC, SC) | Thông báo động | TT | T1 | VEII | https://son.gov.ng/soncapservice/ | Soncap — Các tài liệu của CAP bắt buộc phải cho phép người dân có quyền sử dụng hàng hóa được điều hành |
-| CÀI CÀI | Thông báo động | TT | T1 | VEII | https://son.gov.ng/soncap-faq/ | Comment |
-| CÂU CHUYỆN TRONG CÔNG VIỆC | Thông báo động | TT | T1 | VEII | https://son.gov.ng/son-product-certification/ | soncap — cơ sở pháp lý NGƯỜI CON NGƯỜI Hồi thứ 14 2015  and  Kiểm tra trước khi chuẩn bị |
-| Chương trình CAP đã tái tạo và được chỉ định IAFs | Thông báo động | TT | T1 | T_ TIẾNG TÂM | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | Soncap — Vai trò IAF liên kết Form M PAAR; độ nhạy thời gian |
-| 尼日利亚强制性合格评定程序 (SONCAP) 法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | TT | T1 | ĐÃ_ ĐÃ | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | Soncap — Bản tóm tắt của chính phủ Trung Quốc về loại vi khuẩn được quản lý trongcl các phần tự động/tyres/batts |
-| Hướng dẫn Xuất khẩu tới Nigeria CÒI CÒI | Cotecna (đã ấn định IAF) | TT | T2 | ĐÃ_ ĐÃ | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | Soncap — Hướng dẫn tiến trình thanh tra được chỉ định |
+| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Nigerian Customs Service | NG | primary | VERIFIED | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
+| SON官网（SONCAP强制合格评定制度；SONCAP证书办理已要求迁移至尼日利亚单一窗口Nigeria Single Window） | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
+| SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
+| SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
+| SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
+| Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

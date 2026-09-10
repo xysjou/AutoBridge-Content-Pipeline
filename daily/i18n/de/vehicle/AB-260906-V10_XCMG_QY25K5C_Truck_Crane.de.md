@@ -18,7 +18,7 @@ Ein LKW-Kran wie der XCMG QY25K5C ist ein **Spezialfahrzeug**, das einen Straße
 
 | Position | Referenzwert für den chinesischen Markt | Markt MY Trim | Vertrauen |
 |---|---|---|---|
-| Maschinentyp | Teleskopkran, fahrbares Teleskop, Radträger und Drehaufbau | CHINA — Identitätsnachweis | SINGLE_SOURCEN |
+| Maschinentyp | Teleskopkran, fahrbares Teleskop, Radträger und Drehaufbau | CHINA — Identitätsnachweis | single sourceN |
 | Nennklasse | 25-tonne-class Typenschild; Nennkapazität ist eine Serie nominal, nicht ein konstanter Aufzug | CHINA · nominale Klasse, Load Chart gilt | UNVERFÜHRT Bestätigt OEM |
 | Regulierungsstatus Chinas | Ein mobiler LKW-Kran wird nicht mehr als "Hebemaschinen" unter dem SAMR-Sonderausrüstungsverzeichnis katalogisiert; Straßenverkehrs- und Industrieregeln gelten weiterhin für den Betrieb | CHINA · Offizielle Unfalluntersuchungsquelle | ÜBERPRÜFUNG |
 
@@ -68,17 +68,17 @@ Nein — das sind verschiedene Modelle; Ausleger, Motor  and  dimensions must co
 
 **Welche Dokumente muss der Käufer erhalten? **
 
-Die OEM QY25K5C Spec  and  Lastdiagramm, plus die separate Carrier-Chassis-Homologie  and  Zertifizierung der Aufbaustruktur.
+OEM-Spezifikation und Lastdiagramm des QY25K5C sowie die getrennte Homologation des Trägerfahrgestells und die Zertifizierung der Aufbaustruktur.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团 2025 半年报 (徐工品牌与起重机产品线官方披露) | 徐工机械 (深交所披露) | CHINA | T1 | ÜBERPRÜFUNG | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌 产品线官方  |
-| 汽车起重机未纳入特种设备目录 (事故调查报告官方表述, 佐证监管分类) | 滁州市政府 (事故调查报告 PDF) | CHINA | T1 | ÜBERPRÜFUNG | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科 (T4) | CHINA | T4 | UNVERFÜHRT | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t 级背景  |
-| XCMG weltweiter Offizieller | Xuzhou Construction Machinery Group (XCMG) | KN/EXPORT | T1 | ÜBERPRÜFUNG | https://en.xcmg.com/ | Identität — OEM-Beamter; genaues Modell der K-Serie und Lastdiagramm bestätigen |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — LKW-Fahrgestell-Straßenhomologation; Aufbau je OEM-Lastdiagramm |
-| XCMG LKW-Kran Mitglied Produktseite (CCCME) | China Handelskammer für Import und Export von Maschinen | CN | T2 | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | Identität — Liste der Kammermitglieder; nur Identitätsüberprüfung, kein Spec Sheet |
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

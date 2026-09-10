@@ -18,7 +18,7 @@ Một cần trục xe tải như XCMG QY25K5C là một phương tiện **-có m
 
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
-| Kiểu máy | Name | Tham chiếu ID CHINA # | SINGLE_SOURCE |
+| Kiểu máy | Name | Tham chiếu ID CHINA # | single source |
 | Hạng tội phạm | 25-tonne-class bảng tên; dung tích xếp hạng là một chuỗi danh nghĩa, không phải là một tăng liên tục | TRUNG QUỐC. Lớp * trên danh nghĩa, biểu đồ tải nặng chi phối | ĐƯỢC XÃ KỂ LẠI _TIẾNG _BAR_ Xác nhận OEM |
 | Name | Một cần cẩu xe di động không còn được phân loại như "máy nâng" theo thư mục đặc biệt SamR; quy tắc đường phố và công nghiệp vẫn còn áp dụng cho thao tác | CHINA * Nguồn hướng dẫn chính thức-sự cố | VEII |
 
@@ -70,15 +70,15 @@ Người mua phải có tài liệu gì? ****
 
 Bảng thông số và tải của OEM QY25K5C, cộng với sự đồng nhất giữa các mẫu vật và sự cấu trúc cấu trúc cực kỳ.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 徐工集团 2025 半年报 (徐工品牌与起重机产品线官方披露) | 徐工机械 (深交所披露) | TRUNG QUỐC | T1 | VEII | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌 产品线官方  |
-| 汽车起重机未纳入特种设备目录 (事故调查报告官方表述), 佐证监管分类) | 滁州市政府 (事故调查报告 PDF) | TRUNG QUỐC | T1 | VEII | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
-| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科 (T4) | TRUNG QUỐC | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t 级背景  |
-| Comment | Nhóm xây dựng máy móc ở Xu Châu (XCMG) | CN/EXPORT | T1 | VEII | https://en.xcmg.com/ | Nhận diện — OEM chính thức; xác nhận chính xác mô hình K-series và biểu đồ tải |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Điều chỉnh lớp học — xe tải-chasis con đường đồng nhất; siêu cấu trúc trên mỗi biểu đồ tải OEM |
-| Phần mềm sản xuất xe tải XCMG | Văn phòng thương mại Trung Quốc để nhập và xuất khẩu máy móc | CN | T2 | ĐÃ_ ĐÃ | https://www.cccme.cn/products/detail-8285510.aspx | Danh tính — thành viên phòng liệt kê; kiểm tra danh tính, không phải là một bản sao |
+| 徐工集团2025半年报（徐工品牌与起重机产品线官方披露） | 徐工机械(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.3411103443734052&announcementId=3441d2b01459489e816563102a81a130&channelCode=fixed_disc | 品牌/产品线官方  |
+| 汽车起重机未纳入特种设备目录（事故调查报告官方表述，佐证监管分类） | 滁州市政府（事故调查报告PDF） | CHINA | primary | VERIFIED | https://www.chuzhou.gov.cn/public/662e0c60210224445a37bbad/688179397a38b11338a40893.pdf | 汽车起重机监管分类  |
+| 徐工QY25K5/QY25E系列介绍（25t级、五节臂方向，型号较杂，仅背景） | 抖音百科(directory/listing) | CHINA | directory/listing | UNVERIFIED | https://m.baike.com/wiki/%E5%BE%90%E5%B7%A5QY25E%E5%90%8A%E8%BD%A6/2053068153408411 | 25t级背景  |
+| XCMG global official | Xuzhou Construction Machinery Group (XCMG) | CN/EXPORT | primary | VERIFIED | https://en.xcmg.com/ | identity — OEM official; confirm exact K-series model and load chart |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | regulatory_class — truck-chassis road homologation; superstructure per OEM load chart |
+| XCMG truck crane member product page (CCCME) | China Chamber of Commerce for Import and Export of Machinery | CN | independent database | CROSS_CHECKED | https://www.cccme.cn/products/detail-8285510.aspx | identity — chamber member listing; identity cross-check only, not a spec sheet |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

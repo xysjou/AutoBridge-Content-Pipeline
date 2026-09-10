@@ -45,7 +45,7 @@ Crucially, IAF 문서는 수입자의 ** 양식 M** 및 ** 사전 도착 평가 
 
 ## 기업 맵
 
-| 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 |
+| 의 의 | - 연혁 | 의 |
 |---|---|---|
 | 뚱 베어 | 표준을 설정하고 SONCAP 실행 | PC, CoC, SONCAP 인증서 (SC) |
 | IAF (예: 공인 회사) | Offshore 검사/인증 | 검사 및 인증서 |
@@ -77,17 +77,17 @@ Crucially, IAF 문서는 수입자의 ** 양식 M** 및 ** 사전 도착 평가 
 
 이 가이드는 고정 된 수치가 없습니다. - 현재 NCS 관세 / 인구의 policy 소스를 얻을 수 있습니다. 요금과 연령 정책은 시간 민감합니다.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 나이지리아 세관 서비스 官网 (海关征收进口关税 / 增值税, 清关与 ECOWAS 共同对外税则执行机构身份) | Nigerian 세관 서비스 | 사이트맵 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.customs.gov.ng/ | 海关征管机构身份 - 尼日利亚海关 |
-| SON 官网 (SONCAP 强制合格评定制度; SONCAP 证书办理已要求迁移至尼日利亚单一窗口 나이지리아 단일 창) | 나이지리아의 표준 Organisation | 사이트맵 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 - 尼日利亚强制标准 |
-| SONCAP 서비스 및 인증 경로 (PC1/PC2/PC3, CoC, SC) | 나이지리아의 표준 Organisation | 사이트맵 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://son.gov.ng/soncapservice/ | soncap - 규제 상품의 통관에 대한 SONCAP 문서 필수 |
-| SONCAP FAQ _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP _ SONCAP | 나이지리아의 표준 Organisation | 사이트맵 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://son.gov.ng/soncap-faq/ | soncap — 해상/선임 준수 계획 범위 |
-| SON 국제 제품 인증 | 나이지리아의 표준 Organisation | 사이트맵 | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://son.gov.ng/son-product-certification/ | soncap - 법적 근거 SON 법 No. 14 2015년 선행 검사
-SONCAP 프로그램 및 IAF를 설치하기 위해|개인의 표준 조직 | 사이트 맵 | T1 | TIME_SENSITIVE(주) | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | 아들캡 - IAF 역할 링크 M/PAAR; 시간별 관리
- 的日合和定期観 SONCAP 法 明년 | 中國語人和国日日利和和国大和 | │ T1 | CROSS_체크 | https://ng.china-embassy.gov.cn/nrlyzc/xgfg/201503/t20150331_7736534.htm 자동차 부품 / 자동차 부품 / 자동차 부품 / 자동차 부품 / 자동차 부품
-주식회사 코텍나 _ 코텍나 | T2 | CROSS_체크 | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용 검사용
+| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Nigerian Customs Service | NG | primary | VERIFIED | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
+| SON官网（SONCAP强制合格评定制度；SONCAP证书办理已要求迁移至尼日利亚单一窗口Nigeria Single Window） | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
+| SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
+| SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
+| SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
+| Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

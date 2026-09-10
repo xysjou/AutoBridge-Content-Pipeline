@@ -18,9 +18,9 @@ Jiefang J6F는 중국 '파란 판'N2 세그먼트에서 FAW의 택시 오버 라
 
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
 |---|---|---|---|
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | N2 빛 화물 트럭, 파란 판 (4.5 t 종류의 밑에 GVW), 택시에 (평면) 택시 | 중국 · OEM 정체성 | CROSS_체크 |
-| 표본 엔진 | Deutz 시리즈 CA4DB1-13E6, 2.2 L 디젤, 95 kW (130 PS) / 350 N·m, 중국 - 6b | 중국 · 단일 소스 샘플, 확인 | SINGLE_SOURCE(싱글) |
-| 일반 화물 몸 | 4.2 m 길이의 일반적인 스테이크 / 박스 본체 | CHINA · 단일 소스, 빌드에 의해 확인 | SINGLE_SOURCE(싱글) |
+| 의 | N2 빛 화물 트럭, 파란 판 (4.5 t 종류의 밑에 GVW), 택시에 (평면) 택시 | 중국 · OEM 정체성 | CROSS_체크 |
+| 표본 엔진 | Deutz 시리즈 CA4DB1-13E6, 2.2 L 디젤, 95 kW (130 PS) / 350 N·m, 중국 - 6b | 중국 · 단일 소스 샘플, 확인 | single source(싱글) |
+| 일반 화물 몸 | 4.2 m 길이의 일반적인 스테이크 / 박스 본체 | CHINA · 단일 소스, 빌드에 의해 확인 | single source(싱글) |
 
 J6F은 모델 배치에 따라 여러 엔진으로 제공됩니다. CA4DB1 수치는 전체 엔진 매트릭스가 아닌 대표 샘플입니다. 구매자는 모든 J6F 사용 하지 않아야한다 엔진; 정확한 파워 트레인은 섀시 VIN에 대 한 균질 인증서에서 읽는다.
 
@@ -73,16 +73,16 @@ Payload와 GVW는 여기에 고정되지 않습니다. MIIT 발표 / 특정 섀�
 
 예, 그러나 OEM 포좌 균질화를 지킵니다  and  두 개의 별도의 승인으로 지역 상부 준수.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放 J6F (大柴 CA4DB1-13E6 2.2L 95kW/130Ps/350N·m, 4.2m 货箱、 蓝牌) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱,  蓝牌  |
-| J6F 潍柴 WP2.3N 130Ps 国六配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像년) | 담당자: Mr. Li | T3 | SINGLE_SOURCE(싱글) | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机,  国六  |
-| 一汽解放官网 J6F 车型页 (车型官方身份与产品系列) | 一汽解放官网 | 담당자: Mr. Li | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 / 在售配置样本 (额定载重区间线索, T4) | 58同城 | 담당자: Mr. Li | T4 | 한국어 | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-中國語, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 中國, 日本國, 日本國, 日本國, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本國, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本, 日本,  담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.miit.gov.cn/datainfo/cpgg/ | ID - 정확한 발표로 N2 GVW/engine/payload 인증 |
-| 卡车之家 解放 J6F 车型库 (独立商用车数据库) | 卡车之家 | 담당자: Mr. wang | T2 | CROSS_체크 | http://www.360che.com/ | identity — 상용 차량 데이터베이스 크로스 체크; 발표 당 여전히 페이로드 |
-| 의 특징 트럭 글로벌 (export) | 의 특징 뚱 베어 | - 연혁 | T1 | CROSS_체크 | https://www.fawtrucks.com/ | identity — 수출 시장 참고; 중국 J6F에 equate |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

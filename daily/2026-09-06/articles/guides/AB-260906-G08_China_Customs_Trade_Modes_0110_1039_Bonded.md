@@ -74,12 +74,12 @@ No — they are updated over time and are time-sensitive; verify the current rul
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国新办发布会：市场采购贸易方式三大特点（单票15万美元以下、增值税免征不退、灵活结汇） | 国务院新闻办公室 | CN | T1 | VERIFIED | https://www.scio.gov.cn/32344/32345/32347/202411/3378836/zyhd3378840/Document/1780204/index.htm | 1039特点, 单票限额, 免征不退, 结汇 — 市场采购贸易政策 |
-| 市场采购贸易方式出口货物免税政策（增值税免征不退，政策解读交叉） | 搜狐(政策解读) | CN | T3 | CROSS_CHECKED | https://www.sohu.com/a/954344950_121124294 | 增值税免征不退  |
-| 市场采购贸易方式（海关政策直通车）监管代码1039 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-04/12/article_2026041211245991457.html | mode_1039_traits — definition of 1039 market-procurement trade vs general trade |
-| 市场采购出口规范申报（监管方式1039） | 中华人民共和国海关总署 | CN | T1 | TIME_SENSITIVE | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241552078.html | mode_1039_traits — declaration via market-procurement system; per-entry value time-sensitive |
-| 1039市场采购出境货物检验检疫（海关总署公告2019年第221号） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=1bc97bb83d3e4398a8c5b0de9cfc4c7b | market_cluster — pre-export inspection arrangement under 2019/221 |
-| 0110一般贸易与1039市场采购对比 | 中国国际贸易促进委员会 | CN | T2 | CROSS_CHECKED | https://www.eccpit.com/news/Y21zcG86MjAwNDI | mode_1039_traits — comparison of tax-invoice/refund traits; whole-vehicle applicability confirm with customs |
+| 国新办发布会：市场采购贸易方式三大特点（单票15万美元以下、增值税免征不退、灵活结汇） | 国务院新闻办公室 | CN | primary | VERIFIED | https://www.scio.gov.cn/32344/32345/32347/202411/3378836/zyhd3378840/Document/1780204/index.htm | 1039特点, 单票限额, 免征不退, 结汇 — 市场采购贸易政策 |
+| 市场采购贸易方式出口货物免税政策（增值税免征不退，政策解读交叉） | 搜狐(政策解读) | CN | media/industry | CROSS_CHECKED | https://www.sohu.com/a/954344950_121124294 | 增值税免征不退  |
+| 市场采购贸易方式（海关政策直通车）监管代码1039 | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-04/12/article_2026041211245991457.html | mode_1039_traits — definition of 1039 market-procurement trade vs general trade |
+| 市场采购出口规范申报（监管方式1039） | 中华人民共和国海关总署 | CN | primary | TIME_SENSITIVE | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241552078.html | mode_1039_traits — declaration via market-procurement system; per-entry value time-sensitive |
+| 1039市场采购出境货物检验检疫（海关总署公告2019年第221号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=1bc97bb83d3e4398a8c5b0de9cfc4c7b | market_cluster — pre-export inspection arrangement under 2019/221 |
+| 0110一般贸易与1039市场采购对比 | 中国国际贸易促进委员会 | CN | independent database | CROSS_CHECKED | https://www.eccpit.com/news/Y21zcG86MjAwNDI | mode_1039_traits — comparison of tax-invoice/refund traits; whole-vehicle applicability confirm with customs |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

@@ -84,18 +84,18 @@ Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (transportador RoRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CRUSS_CHECKED (transportador primário) | Nível de combustível, operacionalidade |
-| WW Receber as unidades usadas (desligar 12/24V sem desligar) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Desligamento da bateria usada- ICE |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operacionalidade) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | BEV ≤ 50% SOC, combustível, operabilidade |
-| Transporte de camiões/buses/reboques | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Unidade comercial que recebe |
-| Pré-envio inspeção & prática de entrega | páginas da indústria | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | ORIGINAL ÚNICA (base editorial) | Lista de verificação/foto/mandagem recomendada | 11467
-*Evidencia: políticas de transporte de nomes verificados para guias primários WW/Höegh (política de transporte, não regulação, não universal); checklist é recomendação editorial; valores fixos de amarração/pressão/orientação bloqueados pendentes documentos OEM/carrier. *
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | single source (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | single source (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | single source (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | single source (editorial basis) | Recommended checklist/photo/handover |
+*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
-| OMI/OIT/UNECE CTU Código — unidades de transporte de carga de movimentação e de segurança | Organização Marítima Internacional (OMI) | INT' L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFICADO | Manuseamento geral/base de referência de segurança; as regras de transporte continuam a ser mais rigorosas e específicas da rota |
-| Seguros de carga/trânsito e referência de risco marítimo | União Internacional de Seguros Marinhos (IUMI) | INT' L | https://iumi.com/ | 2026-09-05 | VERIFICADO | Por que motivo a PDI/transmissão documentada de provas para o tratamento de pedidos de carga |
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

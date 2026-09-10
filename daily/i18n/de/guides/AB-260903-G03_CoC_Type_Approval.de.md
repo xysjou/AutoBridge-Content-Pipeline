@@ -78,23 +78,23 @@ Eine Tasche mit E-markierten Komponenten entspricht **nicht ** einem WVTA des ge
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| MIIT Order No. 50 — Zulassungsrahmen | MIIT Staatsrat | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Inländische Einfuhren aus China CoC/Zulassungskontext |
-| EU WVTA + FMVSS-Schema (2018/858) | Zertifizierungsstelle | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCEN | WVTA/ 2018/858 Beschreibung; CoC Rolle (sekundär) |
-| OTTS/TR CU 018/2011 Erklärer | Zertifizierungsdienstleister | EAWU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, Bevollmächtigter (Sekundär) |
-| e-mark vs E-mark Erklärer | Zertifizierungsdienstleister | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCEN | Unterscheidung zwischen e/E-Zeichen (sekundär) |
-*Evidenzobergrenze: EU/EAEU/UNECE-Instrumente werden aus sekundären Zertifizierungs-Service-Quellen beschrieben; es wurde kein stabiler EUR-Lex/UNECE/EAEU-Primärtext erfasst. Verordnungsdaten und -umfang müssen vor der Verwendung von Compliance mit Primärtexten verglichen werden. China-Seite Rahmen ist der einzige offiziell unterstützte Teil. *
+| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chinese domestic CoC/admission context |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | single source | WVTA/2018/858 description; CoC role (secondary) |
+| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, authorised representative (secondary) |
+| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | single source | e/E-mark distinction (secondary) |
+*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
-| Verordnung (EU) Nr. (konsolidiert 2021-09-26) über die Typgenehmigung von Kraftfahrzeugen — WVTA; Gesamtfahrzeug vs. | EUR-Lex (offizielle Rechtsdatenbank der EU) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | ÜBERPRÜFUNG |  | 2018/858
-| Verordnung (EU) (Original), Kapitel VI Artikel 36 — Hersteller stellt für jede Fahrzeugkonf. einen CoC aus | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | ÜBERPRÜFUNG |  | 2018/858
-| Amtliche Vervielfältigung nach Kapitel VI (CoC) | (britische offizielle Gesetzesdaten) | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | ÜBERPRÜFUNG |  | 2018/858
-| 1958 Übereinkommen (Rev. 3), E/ECE/TRANS/ 505 — Rahmen für Typgenehmigungen von Bauteilen/Systemen/STU nach UN-Regelung | UNECE (Vereinte Nationen) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | ÜBERPRÜFUNG |  |
-| GRRF- 84-18 (Genehmigungszeichen/Nummerierungsstruktur, E + Ländernummer) | UNECE WP 29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | ÜBERPRÜFUNG |  |
-| Status of the 1958 Agreement  and  Anhang V. | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | ÜBERPRÜFUNG |  |
-| Beschluss der Zollunion Kommission Nr. 877 (09.12.2011) zur Annahme der Technischen Regelung TR CU 018/2011 "On"  | adilet.zan.kz — offizielle Rechtsdatenbank der M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | ÜBERPRÜFUNG |  |
-| EWG Board Decision No. 232 (09.12.2014) Regeln für das Ausfüllen von OTTS OTSH-Formularen | Alta-Soft-Rechtsverweis (T3; gibt EWG de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCEN |  |
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (media/industry; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | single source |  |
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

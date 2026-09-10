@@ -1,6 +1,6 @@
 # SAIC MAXUS G90: 中国市场大型汽油MPV 围绕座位布局构建的参考
 ## SEO元数据
-- **SEO标题**: SAIC MAXUS G90 (中文(简体)). 中国市场MPV 光谱和导出购买器检查 {{{}自动包件}
+- **SEO标题**: SAIC MAXUS G90  中国市场MPV 光谱和导出购买器检查 {{{}自动包件}
 - **Meta描述**: Chinese-market reference for the  SAIC   MAXUS  G90 large  MPV : 尺寸,2.0T+8AT条汽油线与任何电气化变体分开,六对七座位布局,出口核查步骤。
 - **H1**: SAIC MAXUS G90: 中国市场大型汽油 MPV 围绕座位布局构建的参考
 - **核心关键词**: SAIC MAXUS G90 出口规格
@@ -25,7 +25,7 @@ SAIC MAXUS G90是SAIC Maxus的大型(上中)载人车,旨在执行穿梭,家庭�
 
 | 项目 | 中国市场参考文献. | Notes | 信心 |
 |---|---|---|---|
-| 2.0T 汽油 | 172 kW (234 PS) / 360 N·m, 8-speed自动(8AT),妇女发展部 | 2025 参考线 | SINGLE_SOURCE — —由VIN/OEM确认|
+| 2.0T 汽油 | 172 kW (234 PS) / 360 N·m, 8-speed自动(8AT),妇女发展部 | 2025 参考线 | single source — —由VIN/OEM确认|
 
 本页刻意标注在**ICE汽油** G90. 任何混合,插件或纯电衍生物都是不同的动力列,在此不作说明;出口商不得将电气化线数字合并到汽油规格中. 172 kW/360 N·m的输出目前依赖于一个单一的独立来源,在支付押金之前,应当根据MAXUS官方配置表或准确的MIIT同位素条目关闭.
 
@@ -84,16 +84,16 @@ G90号机车采用**六座(2+2+2)**和**七座(2+2+3)**的配置,选择既改变
 
 中国车厢为LHD;RHD/export building需要单独的OEM证据,不得假定在动力,座位或设备上完全相同.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

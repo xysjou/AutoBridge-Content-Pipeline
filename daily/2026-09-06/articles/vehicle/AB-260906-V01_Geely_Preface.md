@@ -24,9 +24,9 @@ The Geely Preface (Chinese name Xingrui) is the compact/mid-size front-wheel-dri
 
 | Item | Chinese-market reference value | Market / MY / Trim | Confidence |
 |---|---|---|---|
-| 1.5T petrol | 133 kW (181 PS) / 290 N·m, 7-speed wet dual-clutch | CHINA · 1.5T trims · single-source, confirm by VIN | SINGLE_SOURCE |
-| 2.0T (older calibration) | 175 kW (238 PS) / 350 N·m, 8-speed automatic, WLTC combined ≈7.15 L/100km | CHINA · older/Jinchao-era 2.0T · single-source | SINGLE_SOURCE |
-| 2.0T (newer calibration) | 200 kW / 400 N·m, Aisin 8AT, claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · single-source, confirm | SINGLE_SOURCE |
+| 1.5T petrol | 133 kW (181 PS) / 290 N·m, 7-speed wet dual-clutch | CHINA · 1.5T trims · single-source, confirm by VIN | single source |
+| 2.0T (older calibration) | 175 kW (238 PS) / 350 N·m, 8-speed automatic, WLTC combined ≈7.15 L/100km | CHINA · older/Jinchao-era 2.0T · single-source | single source |
+| 2.0T (newer calibration) | 200 kW / 400 N·m, Aisin 8AT, claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · single-source, confirm | single source |
 
 The two 2.0T outputs are not a data conflict to resolve by picking one: they belong to different model-year calibrations. An export quotation that names 'a Preface 2.0T' without the year and exact trim is ambiguous. Geely's regional Middle-East materials show a separate export-market Preface powertrain (for example a 2.0TD + 7DCT regional build); under model-identity discipline that regional build is cited as an export-market reference and is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
 
@@ -80,13 +80,13 @@ No — the Chinese guide price is a time-sensitive domestic reference only; requ
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
-| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | T1 | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | T2 | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | T1 | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
+| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
+| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
+| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
+| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
+| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

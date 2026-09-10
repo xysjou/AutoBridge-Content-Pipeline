@@ -105,18 +105,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## المصدر: التحقق
+## Sources & Verification
 
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| UNI-V 高能版 صفحة رسمية | سيارة تشانغان (رسمية) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | مفقود | مدى الديمن، 2750 mm قاعدة عجلة، مسار |
-| UNI-V 2nd-gen صفحة رسمية | سيارة تشانغان (رسمية) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | مفقود | الحوت الأزرق 1.5T 138 kW/ 300 N·m، 7DCT |
-| 2024 1.5T 尊贵型 configuration | أوتومهومي (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | صرخات | 1.5T ناتج، 4720 mm طول، 6.37 |
-| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | صرخات | 2.0T 171 kW/ 390 N·m, 8AT, fuel use, domestic price |
-| UNI-V spec Page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE OURCE | وزن العنب (مصدر غنائي) |
-| Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? Submission about Submission UN International or from their measures (но) ? https://auto.ifeng.com/c/8Y79qxCFD3L, 2026-09-02 |? )في//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-* مذكرة مصدّقة (معيار (أوتوبريدج: تمّ فرز الطاقتين الـ1.5T و2750 mm قاعدة عجلات في Changan صفحة خاصة (مسؤول مصنع). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is SINGLE يجب أن تكون متطابقة مع لوحة الإمتثال ♪
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

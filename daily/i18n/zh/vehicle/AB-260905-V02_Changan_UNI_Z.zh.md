@@ -26,19 +26,19 @@
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| 长度宽度高度 | 4730 1890 1660 (部分配置 1680) (中文(简体)). | 毫米 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
+| 长度宽度高度 | 4730 1890 1660 (部分配置 1680)  | 毫米 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
 | 轮式基座 | 2795 | 毫米 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
-| 货运量 | 638 | L: 国家 | 中国 | 资源 | 搜狐汽车 维基月球 |
-| 发动机功率 | 72 (1.5L 混动专用发动机) (中文(简体)). | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 货运量 | 638 | L: 国家 | 中国 | 资源 | 搜狐汽车  |
+| 发动机功率 | 72 (1.5L 混动专用发动机)  | 千瓦 | 中国 | 资源 | 汽车之家车家号  |
 | 动力 | 160 | 千瓦 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
-| 传输 | 电子CVT(电混传动) | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 电池类型 | 磷酸铁锂 维基月球 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 电池容量 | 约18.4 | 克 国 呜 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 传输 | 电子CVT(电混传动) | | 中国 | 资源 | 汽车之家车家号  |
+| 电池类型 | 磷酸铁锂  | | 中国 | 资源 | 汽车之家车家号  |
+| 电池容量 | 约18.4 | kWh | 中国 | 资源 | 汽车之家车家号  |
 | 垂直范围 cltc | 130 | 公里 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
-| 组合范围 cltc | 1250 | 公里 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| dc 快速充电 | 85 | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| v2l 出口电力 | 3.3 | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
-| 中屏幕 | 14.6 | 英寸 维基月球 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 组合范围 cltc | 1250 | 公里 | 中国 | 资源 | 汽车之家车家号  |
+| dc 快速充电 | 85 | 千瓦 | 中国 | 资源 | 汽车之家车家号  |
+| v2l 出口电力 | 3.3 | 千瓦 | 中国 | 资源 | 汽车之家车家号  |
+| 中屏幕 | 14.6 | 英寸  | 中国 | 资源 | 汽车之家车家号  |
 
 ## 为什么电池线和V2L 出口订单的要紧
 UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化级别. 命名 ** 电池容量  and  电场线**,proforma,  并治疗 85 DC  and  3.3 V2L数字是中国市场设备,将重新确认目的地布线/网格标准. CLTC电场不是WLTP图,这里捕捉到的中国来源没有建立出口市场名称,动力列车校准或保修.
@@ -57,15 +57,15 @@ UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化�
 ** 130 km是WLTP范围吗? ** 不,这是CLTC。
 ** 出口价格在哪里? ** 请输入当前引文;本页面无刊。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 导弹发射系统 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 维基月球 | 尺寸,  电机,  电池,  续航, 屏幕 维基月球 |
-| UNI-Z 配置信息 导弹发射系统 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 维基月球 | 快充, 外放电 (单位:千美元) |
-| 长安 UNI-Z 参数 导弹发射系统 | 搜狐汽车 维基月球 | 氯化萘 | T2 | 横跨 | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 维基月球 | 尺寸,  轴距,  后备厢, 动力 维基月球 |
-| 长安 汽车全球官方网站 | 长安汽车长安汽车 (OEM). | 氯化萘 | T1 | 实录 | https://www.globalchangan.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
-| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
-| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05

@@ -39,18 +39,18 @@
 ~ใครเป็นคนจัดการ CCC? ~ SAMR กําหนดระบบการปกครอง CNCA การจัดการการรับรองและยกเว้น
 ~มีส่วนนําเข้าเข้ามาเพื่อปิดการส่งอีกครั้งหรือไม่ ~ พวก เขา อาจ มี คุณสมบัติ สําหรับ ประเภท ยก เว้น — จง นํา ไป ใช้ และ บันทึก ไว้.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围, 入境验证, 免办情形 |
-| 强制性产品认证管理规定 (认监委). | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
-| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn 系统 |
-| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
-| 免予办理强制性产品认证证明 (受理条件示例). | 安徽省人民政府 | CN | T1 | เปิดใช้งาน | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
-| SAMR (ระบบ CCC) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | ซีซีคําสั่ง CAC จัดตั้งอํานาจการปกครอง |
-| ทําซ้ํา  and  OCKSEARDER (CNCA) OCKLE สืบค้นเมื่อ: PDF. | CNCA 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/ | ระบบจัดการซีดีซี และระบบยกเว้น |
-| WTO ข้อเสนอเกี่ยวกับเครื่องมือเทคนิคในการเทรด (TBT) | องค์การ การ ค้า โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | กรอบของ TBT สําหรับการประเมินความสอดคล้องตามคําสั่ง เช่น CCC และหลีกเลี่ยงอุปสรรคที่ไม่จําเป็น (ตรรกะที่ว่างเปล่า) |
-| คณะกรรมการเทคโนโลยีไฟฟ้านานาชาติ (IC) มาตรฐาน | คณะกรรมการเทคโนโลยีไฟฟ้านานาชาติ (IC) | INT | T1/T2 | เปิดใช้งาน | https://www.iec.ch/home | มาตรฐาน สากล ที่ อ้าง ถึง ใน การ ประเมิน ความ เป็น ไป ตาม ความ เป็น จริง; CCC ใช้ มาตรฐาน ของ จีบี ซึ่ง มัก จะ ตรง กับ IEC |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
+| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | primary | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
+| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
+| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
+| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | primary/independent | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

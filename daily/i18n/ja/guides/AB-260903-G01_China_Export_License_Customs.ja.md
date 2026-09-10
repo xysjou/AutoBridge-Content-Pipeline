@@ -84,17 +84,17 @@ MIIT注文番号50は、道路車両メーカーと製品を別館に分けま�
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 自動車・オートバイ 輸出入申請書 | 商務省(MOFCOM) | CN(輸出側) | 以下は 、 https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | 検証済み | 年間出願 性能の証拠を向上 |
-| 中古車輸出管理の強化について | 州立評議会政策ライブラリ(四省) | CN(輸出側) | 以下は、 https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | 検証済み | 中古車ライセンス制度;180-day ルール 2026-01-01 |
-| BEV の乗客車輸出免許証管理 | | CN(輸出側) | 担当: http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | タイム _ センシブ | BEV ライセンス トラック、参照HS |
-| MIIT注文番号50 - 製造業者および製品入場料 | 業界・IT省 | CN(輸出側) | 以下は、 https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | 検証済み | Six admission categories; 文書チェーンベース |
-*Scope Note: 中国の輸出国のみをカバーする公式のソース。 HSコード、システム運用詳細、および年間リビジョンは、現在の関税とMOFCOM通知に対して確認する必要があります。 宛先側のルールはスコープ外です。 ふりがな
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
+*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理、2026-01-01 施行; 参考 HS 8703801090) | 商務省(MOFCOM) 正式発表 | CN の | 以下は、 https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | 検証済み |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28;引用 54 号公告、系统填报 "乘用车") | MOFCOM 外国貿易部(wms) | CN の | 以下は、 https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html の | 2026-09-04 | 検証済み |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

@@ -76,19 +76,19 @@ A cross-checked 1.5T (133 kW/290 N·m, 7DCT (พ.ศ. 92-RON)  and  2.0T (160 kW
 
 ไม่มี RHD รุ่นของตลาดจีนได้พิสูจน์ที่นี่; ยืนยันแยกสําหรับปลายทาง RHD
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | จีน | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/model_6881/config | 尺寸 动力 动力 变速箱 燃油标号 (พ.ศ. ○
-| 2025 款博越 尺寸 尺寸 轴距 轴距 轴距 后备厢 后备厢 后备厢 (4730/1910/1710, WB2785, 后备厢 650-1610L) พ พ พ พ ศ พ 后备厢 后备厢 后备厢 后备厢 后备厢 ) ) ) ) ) ) (พ ) ) ) ) ) ) ) (พ ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) พ พ ) ) พ พ พ พ ) ) ) พ ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) | 汽车之家 – 车家号 พ พ พ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ  – ศ ศ  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | จีน | T3 | ผู้โดยสาร_ปลายทาง | https://m.16888.com/news/2026/0421/24893147.html | 1.5T 动力 (พ.ศ. 变速箱  |
-| Geely ใหม่ Boyue ตารางพิเศษ (OEM) | อัตโนมัติ | CN/ ExPORT | T1 | เปิดใช้งาน | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | เอกลักษณ์ — ตาราง โอ อี เอ็ม; ลัง
-| Geey Starray Brouchore (กาตาร์) — อ้างอิงการส่งออกตลาด | เกลี กาตาร์ | ไมโครซอฟต์ | T1 | ROOS_ CHCKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | เอกลักษณ์ ของ ส ตาเรย์ เป็น ชื่อ ที่ ออก หาก; อ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | เอกลักษณ์ — พิสูจน์ ว่า ชาว จีน มี ลักษณะ เหมือน ชาว จีน |
+| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
+| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
+| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.
 - ~ถูกตรวจสอบแล้ว~: 2026-09-06
-- ~ตลาดแห่งความรุ่งเรือง ~: HOUT (中国市场参考; Starray 为出口名但参数不与中国版等同)]
+- ~ตลาดแห่งความรุ่งเรือง ~: HOUT (China-market reference; Starray 为出口名但参数不与中国版等同)]
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา รายการที่ต้องใช้เวลา (เรต ค่าธรรมเนียม รายชื่อ ค่าปรับ ค่าอ้างอิงในประเทศ) จะต้องยืนยันอีกครั้ง ในหน้าปัจจุบันอย่างเป็นทางการ ก่อนที่จะทําการข้ามแดน
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

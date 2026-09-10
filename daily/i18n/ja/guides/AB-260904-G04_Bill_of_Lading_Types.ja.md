@@ -16,7 +16,7 @@
 ## 調達問題は、貨物管理であり、書類管理ではありません
 輸出業者は、文書として請求先の選択肢を処理します。 支払いリスク決定**: 元の交渉可能な請求書からテレックスリリースまたは海道の請求書に移動する瞬間、目的地で車両の制御を停止したときに変更します。 This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ※14th NPCスタンディング委員会(仮称注文番号58)の18thセッションで2025-10-28に改定 で 力 から 2026-05-01 (16 チャプター), 310 記事** —  and  支払い方法を入金条件にマッチします。
 
-## The Four Instruments Side by Side
+## 4種類の書類を並べて比較
 | 方法 | 問題の解決 | 委託先が配送方法 | 紙文書は、Shiperがタイトルを保持していますか? |
 |---|---|---|---|
 | **マスターB/L(MBL)* ふりがな | | サーレンダーオリジナルのMBL(またはライン手順に従ってください) | はい — 運送+文書のタイトル機能の契約 |
@@ -85,22 +85,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-|  PRC  の海事コード (2025 リビジョン 、 大統領命令 58 、 力 2026-05-01) 完全なテキスト |  NPC  スタンディング |  CN  の | 担当 の | 2026-09-04 | 検証済み (プライマリ) | 芸術 。 80/81/87 、 版および有効な日付 | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html
-| オリジナルB/L/テレックス/シーウェイビルの説明 | ネットイーズビジネス ウィキ | サインイン | 以下は、 https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED(クロス) | MBL/SWB/telex の定義 |
-| マスター請求書対ハウス請求書 | シエナ・ファイナンス | サインイン | 以下は、 https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml のファイル | 2026-09-04 | CROSS_CHECKED(クロス) | MBL/HBL チェーン、車練習 |
-| リリース方法とB/Lタイプ | | サインイン | 以下は、 | 2026-09-04 | CROSS_CHECKED(クロス) | Four-method comparison | https://m.11467.com/product/d15253354.htm 11467
-| Four release methods  and  テレックスリスク(南米ノート) | ネットエイズ | サインイン | 以下は、 https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | シングル_ソース | 注文ビルの限界、港の受け入れ |
-| 物品条約の国際輸送とモデル法 | ユニティラル | インフォメーション | 以下は、 https://uncitral.un.org/en/texts/transportgoods ディレクティブ | 2026-09-05 | 検証済み | |
-| 標準的な船積みの文書および句の参照 | シンコ | インフォメーション | 以下は、 https://www.bimco.org/ は、 | 2026-09-05 | 検証済み | |
-| FIATA は文書や貨物輸送の実務を輸送 | 貨物運送業者国際連合(FIATA) | インフォメーション | 以下は、 | 2026-09-05 | 検証済み | フォワーダー文書(FBL/FCR) キャリアB/Lsの区別を練習 | https://fiata.org/
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-*Confidence Note: 2025リビジョンのNPCフルテキスト(力2026-05-01)を介して検証された法定骨格; 業務の定義は交差チェック; ふりがな
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国国家の統計+国際海貨物の練習(車種別値を除く)
 - **検証方法**: 法的規則のための第一次NPCの統計; 業務慣行のための多源の交差チェック

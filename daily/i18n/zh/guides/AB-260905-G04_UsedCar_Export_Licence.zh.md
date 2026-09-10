@@ -42,16 +42,16 @@ VIN,型号,里程/条件文件以及收货人必须排队. 因为用过的单位
 ** 试点城市名单在哪里? ** 在最新的MOFCOM/政府通知中——不依赖静态列表.
 ** 这是否包括目的地进口规则? ** 否,这些是单独和针对具体国家的。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 商务部等 5 部门关于二手车出口有关事项的公告 (中文(简体)). | 中华人民共和国商务部 维基月球 | 氯化萘 | T1 | 实录 | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html 维基月球 | 许可证管理, 申领流程, 工程承包例外, 清关后, 2, 个月 导弹发射系统 |
-| 关于进一步扩大二手车出口业务地区范围的通知 维基月球 | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm 维基月球 | 试点地区, 企业遴选与退出 (单位:千美元) |
-| 关于进一步加强二手车出口管理工作的通知(2025-11) (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm 维基月球 | 2026-01-01 新规, 登记一致性, 许可证附表 号 |
-| 二手车出口管理新政专题 (2026-01-01 起 180 天规则) (中文(简体)). | 中华人民共和国商务部 维基月球 | 氯化萘 | T1 | 时间(_S) | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html 维基月球 | 不满 180 天须售后维修服务确认书 (中文(简体)). |
-| 商务部(MOFCOM) | MOFCOM 商务部 (英语). | 氯化萘 | T1 | 实录 | https://www.mofcom.gov.cn/ 维基月球 | 出口许可证和出口管制主管当局 |
-| 中国海关总署(海关总署)——废旧车出口监管. | 中国海关总署(海关总署 GACC) | 氯化萘 | T1/T2 | 实录 | http://www.customs.gov.cn/ 维基月球 | |
-| 中国汽车商协会——废旧汽车出口产业机构. | 中国汽车商协会(中国汽车流通协会 ACADA) | 氯化萘 | T1/T2 | 实录 | http://www.cada.cn/ 维基月球 | 行业协会关于废车出口发展和企业做法的背景(T2,不是监管者) |
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | primary | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| General Administration of Customs of China (GACC) — used-car export supervision | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing |
+| China Automobile Dealers Association (CADA) — used-car export industry body | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | primary/independent | VERIFIED | http://www.cada.cn/ | Industry association context on used-car export development and enterprise practice (independent database, not a regulator) |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -70,7 +70,7 @@ VIN,型号,里程/条件文件以及收货人必须排队. 因为用过的单位
 - 电话: 电话: 准确的中国废车导出
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export

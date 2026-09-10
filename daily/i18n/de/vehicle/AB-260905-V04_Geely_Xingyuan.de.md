@@ -29,21 +29,21 @@ Der **Geely Xingyuan (Galaxy Xingyuan, in einigen Exportmärkten unter einem eig
 |---|---|---|---|---|---|
 | Breitenbreitenhöhe | 4135 1805 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
 | Radstand | 2650 | mm | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
-| Sitzplätze | 5门5座 | - | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
-| Layout | 后置后驱 | - | CHINA | SINGLE_SOURCEN | 腾讯新闻 |
-| Motorleistungsoptionen | 58 85 | kW | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
-| Batterietyp | 磷酸铁锂 | - | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
-| Batteriekapazität 410 | 40.16 | k Whh | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
+| Sitzplätze | 5门5座 | - | CHINA | single sourceN | 搜狐车型库 |
+| Layout | 后置后驱 | - | CHINA | single sourceN | 腾讯新闻 |
+| Motorleistungsoptionen | 58 85 | kW | CHINA | single sourceN | 搜狐汽车 |
+| Batterietyp | 磷酸铁锂 | - | CHINA | single sourceN | 搜狐汽车 |
+| Batteriekapazität 410 | 40.16 | k Whh | CHINA | single sourceN | 搜狐汽车 |
 | Bereich cltc | 310 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
-| Frachtvolumen | 375 (前备厢 70, 后排放倒 1320) | L | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
-| Plattform | GEA 纯电架构 | - | CHINA | SINGLE_SOURCEN | 腾讯新闻 |
+| Frachtvolumen | 375 (前备厢 70, 后排放倒 1320) | L | CHINA | single sourceN | 搜狐车型库 |
+| Plattform | GEA 纯电架构 | - | CHINA | single sourceN | 腾讯新闻 |
 
 ## Small-EV-Exportlogik: Batterieleitung, Zyklus und Versand
 Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer für zwei Motor- Batterieleitungen verwendet wird. Auf dem Xingyuan koppeln Sie den Motor (58 oder 85 kW) mit seiner passenden Batterie und CLTC-Reihe bei jeder Bestellung und konvertieren Sie ihn in den Zieltestzyklus, anstatt CLTC neu zu kennzeichnen. Als Lithium-Ionen-Batterie-EV folgt die Seefracht der aktuellen IMDG-Klassifizierung für batteriebetriebene Fahrzeuge (UN3556 für das intakte Fahrzeug) - siehe Versandleitfaden. Batterielieferant und Spitzenladeleistung bleiben unbestätigt, bis OEM-Daten vorliegen.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Match Motor Option zu Batterie und CLTC-Bereich; erhalten Sie die VIN Build-Linie.
-2. Translate CLTC 310/410 km to the destination cycle.
+2. CLTC 310/410 km in den Prüfzyklus des Bestimmungslands umrechnen.
 3. Bestätigen Sie den Ladeanschluss/das Ladeprotokoll und die AC/DC-Fähigkeit (Peak DC wird hier nicht erfasst).
 4. Bestätigen Sie die EV-Homologation, Batteriedokumente und UN38.3/IMDG Versandpapiere mit dem Spediteur.
 5. Fordern Sie ein aktuelles Ausfuhrangebot an; es wird kein Ausfuhrpreis veröffentlicht.
@@ -55,15 +55,15 @@ Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer 
 **Ist 410 km WLTP?** Nr. — CLTC.
 **Wie wird es Schiff?** Als intakte Lithium-Ionen-Batterie EV unter der aktuellen IMDG-Klasse (UN3556); bestätigen Sie mit dem Carrier.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Geely offizielle globale Website | Geely Auto Group 吉利 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://global.geely.com/ | Marken-/Modelllinienidentität und OEM-Behörde |
-| Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
-| Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
+| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
+| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

@@ -21,7 +21,7 @@ Die Linie ist auf drei Radständen gebaut - ** 3000, 3300 und 3750 mm ** - kombi
 | Konfiguration | Bezugsgrößen | Radstand | Vertrauen |
 |---|---|---|---|
 | Mittelradstand, mittleres Dach (Beispiel) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| Langradstand, Hochdachfracht | 5998 × 2164 × 2775 mm; Frachtinnenraum ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | lang | SINGLE_SOURCE |
+| Langradstand, Hochdachfracht | 5998 × 2164 × 2775 mm; Frachtinnenraum ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | lang | single source |
 
 Die Länge von 5998 mm ist signifikant: In vielen Märkten liegt es an der Grenze des leichten gewerblichen Führerscheins, so dass ein Käufer die Bestimmungslizenzkategorie und die Bruttomasse des Fahrzeugs bestätigen sollte, bevor er die längste Version bestellt. Abmessungen des Laderaums  and  the ≈13 m³ volume are single-source  and  sollten anhand der offiziellen Body-Builder-/Konfigurationsdaten des JMC bestätigt werden, bevor eine Konvertierung um sie herum entworfen wird.
 
@@ -29,8 +29,8 @@ Die Länge von 5998 mm ist signifikant: In vielen Märkten liegt es an der Grenz
 
 | Linie | Referenzmarkt China | Getriebe | Vertrauen |
 |---|---|---|---|
-| 2.3T Diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed Automatik (8AT) | SINGLE_SOURCE — Bestätigung durch VIN/OEM|
-| 2.0T Diesel | Separate Dieselleitung mit geringerem Ausstoß | 6-speed Handbuch (6MT) | SINGLE_SOURCE — gesonderte Zeile|
+| 2.3T Diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed Automatik (8AT) | single source — Bestätigung durch VIN/OEM|
+| 2.0T Diesel | Separate Dieselleitung mit geringerem Ausstoß | 6-speed Handbuch (6MT) | single source — gesonderte Zeile|
 
 Der 2.3T 8AT und der 2.0T 6MT sind unterschiedliche Antriebsstränge, die auf unterschiedliche Arbeitszyklen ausgerichtet sind; they must not be averaged or presented as one "T8 engine". Hinterradantrieb ist das Basislayout, mit 4WD auf ausgewählten Konfigurationen angeboten - nennen Sie den Antriebsstrang explizit. Die genauen Outputs beruhen derzeit auf einzelnen unabhängigen Quellen und sollten vor der Auftragsvergabe anhand der offiziellen Spezifikation des Gemeinsamen Ausschusses für die Kontrolle der Zulassung von MIIT geschlossen werden. Ein Dieselkraftstoff chinesischer Spezifikation muss auch auf Bestimmungskraftstoffqualität und Abnahme der Emissionsstufe überprüft werden.
 
@@ -78,20 +78,20 @@ Nicht auf den Beweisen hier: Es ist JMC-gebaut für China und wird als verwandte
 
 Der chinesische Markt Van ist LHD; RHD und Exportspezifikationen erfordern separate OEM-Beweise und dürfen nicht aus der chinesischen Linie abgeleitet werden.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-08
-- **Referenzmarkt**: CHINA(中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据
+- **Referenzmarkt**: CHINA(China-market reference; 2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Single-Source-Outputs, Umrechnungsmaße und inländische Referenzpreise müssen auf dem JMC OEM-Blatt oder MIIT-Eintrag erneut bestätigt werden, und der Status des gleichen Modells beim globalen Ford Transit erfordert vor der Transaktion eine explizite OEM-Erklärung.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

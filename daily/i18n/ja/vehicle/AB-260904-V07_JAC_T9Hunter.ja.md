@@ -34,7 +34,7 @@
 | 4WD | **ボルグワーナーパートタイム4WD(2H/4H/4L)+リアの差動ロック* ふりがな |
 | 燃料消費量の要求 | 7.6 L 100 km — **メーカーのクレーム**、測定結果ではない |
 
-これら中国市場パワートレインアイテムは、現在、輸出OEMサイトと一緒に**単一中国メディアソースに残ります**。 *中国市場*のために、彼らはしたがって、**SINGLE_SOURCE** - それらが「**メーカーの構成シート(以厂商配置单终核)**に対して最終決定される」と引用し、二重のソースの検証された中国数字ではありません。 輸出OEMの価値の存在は中国市場の信任をアップグレードしません。 目的地の硫黄耐性と排出経路(中国-VI 校正自体海外承認ではありません)を確認します。
+これら中国市場パワートレインアイテムは、現在、輸出OEMサイトと一緒に**単一中国メディアソースに残ります**。 *中国市場*のために、彼らはしたがって、**single source** - それらが「**メーカーの構成シート(以厂商配置单终核)**に対して最終決定される」と引用し、二重のソースの検証された中国数字ではありません。 輸出OEMの価値の存在は中国市場の信任をアップグレードしません。 目的地の硫黄耐性と排出経路(中国-VI 校正自体海外承認ではありません)を確認します。
 
 ## ドライブトレイン、トウイング、ペイロード — マーケットラベル マット
 - **Part-time four-wheel drive (BorgWarner)** with **2H 4H 4L**  and  a ** 実際の差動ロック** 文書化された 4x4 (中国市場単一ソース; ビルドシートに対してファイナライズします。
@@ -90,24 +90,24 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| JAC T9 仕様書 | JAC MOTORSの輸出現場(OEM) | エクスポーター | 以下は、 https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | 検証済み(OEM) | SAME_MODEL アイデンティティ;** 3500 kg 牽引(EXPORT)**; std 次元 |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-04 | 試用版(OEM) | サム・モベル(SAMME) 有料版(注) 1000kg ペイロード中国(注)※ ふりがな | https://pickup.jac.com.cn/qxht/index.html
-| Hantu標準/長いボディ及びベッド次元 | オートホーム・ケジアオ | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED(クロス) | 5330/5620、ホイールベース、ベッド |
-| 引っ越し T9 の線径(長いベッド) | PCautoの特長 | CN の | 担当: の | 2026-09-04 | CROSS_CHECKED(クロス) | ロングベッドの腐食 | http://m.pcauto.com.cn/x/2947/29474511.html
-| ハンツ(海外 T9) パワートレイン&生成 | ソーフオート | CN/輸出 | 以下は、 https://www.sohu.com/a/1068531202_122480923 の一覧 | 2026-09-04 | シングル_ソース (中国) | 2.0T/125/410/ZF8AT/4WD、7.6 クレーム |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-| 改正 XG1-2026 (中国 - 6 光車両汚染物質排出量) で  GB  18352.6-2016 | エコロジー・環境省 (MEE) |  CN  の | 以下は | の | 2026-09-05 | 検証済み | 中国 | 6 光車両排出ステージと 2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
+| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
+| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
+| Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
+| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
+| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | single source (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Confidence Note: 同一のJAC OEMサイト経由でのSAME_MODEL; 中国パワートレインは、SINGLE_SOURCE(メーカーシートに対するfinalise)です。 3500 kgの牽引は輸出のみであり、中国の均質化値ではありません。 1000 kgのペイロードは中国VERIFIEDです。 RHDのマトリックスおよび輸出価格は述べていません。 ふりがな
+*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is single source (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:アイデンティティ中国+輸出;輸出を牽引;中国ペイロード;中国のパワートレイン単元
 - **検証方法**: デュアルOEM SAME_MODELアイデンティティ; 市場ごとの自信ラベル; 輸出図は中国の均質にアップグレードされていない

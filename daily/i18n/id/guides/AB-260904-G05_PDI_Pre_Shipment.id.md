@@ -56,7 +56,7 @@ Titik lashing terhitung, tali melanggar kekuatan, anti slip tikar, pos kendaraan
 ** Apakah tangki kuartal persyaratan hukum? ** Tidak - itu adalah kebijakan tertulis dari pembawa bernama RoRo seperti Wallenius Wilhelmsen dan Höegh; mengikuti instruksi kapal induk dipesan.
 ** Harus setiap EV kapal di 50% SOC? ** Angka itu adalah kebijakan Höegh Autoliners, bukan topi universal; pastikan kapal induk dipesan untuk pelayaran SOC dengan pelayaran.
 ** Apakah foto catatan wajib? ** Ini adalah metode yang direkomendasikan AutoBridge, bukan persyaratan undang-undang - tetapi terwujud memperkuat klaim kerusakan tujuan.
-Who decided lashing points and strap ratingnya? Kantor terminal dan manual transportasi OEM; jangan asumsikan nilai tetap tanpa dokumen mereka.
+Siapa yang menentukan titik pengikatan dan rating tali? Kantor terminal dan manual transportasi OEM; jangan mengasumsikan nilai tetap tanpa dokumen mereka.
 
 ## Rekor Gambar
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
@@ -84,18 +84,18 @@ Who decided lashing points and strap ratingnya? Kantor terminal dan manual trans
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Penanganan Kargo WW Instruksi (bahan bakar tertawa) | Wallenius Wilhelmsen (pembawa RoRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS _ CHECTD (carrier utama) | Tingkat bahan bakar, kemampuan operasi |
-| WW Menerima unit yang digunakan (memutus 12/24V tanpa mematikan-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Baterai Used- ICE terputus |
-| Pengiriman otomatis Höegh (bahan bakar beV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | BEV 50% SOC, bahan bakar, operasi |
-| Höegh Trucks Bus pengiriman | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Unit yang menerima. |
-| Pemeriksaan pengiriman dan praktek pengiriman | halaman industri | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE _ SOURCE (dasar editorial) | Daftar cek foto handover yang direkomendasikan | 11467
-* Scope bukti: name-carrier kebijakan diverifikasi ke WW / Höegh panduan primer (kebijakan pembawa, bukan regulasi, bukan universal); checklist adalah rekomendasi editorial; tetap lashing / tekanan / orientasi nilai diblokir menunggu OEM / dokumen pembawa. ♪
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | single source (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | single source (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | single source (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | single source (editorial basis) | Recommended checklist/photo/handover |
+*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
-| IMA ILO UNECE CTU Kode - penanganan dan mengamankan unit transportasi kargo | International Maritim Organization (IMA) | INT 'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | TERBATAI | Penanganan umum mengamankan baseline; aturan pembawa tetap stricter dan route- spesifik |
-| Asuransi perjalanan dan referensi risiko laut | International Union of Marine Asuransi (IUMI) | INT 'L | https://iumi.com/ | 2026-09-05 | TERBATAI | Mengapa mendokumentasikan PDI handover bukti penting untuk cargo-klaim penanganan |
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

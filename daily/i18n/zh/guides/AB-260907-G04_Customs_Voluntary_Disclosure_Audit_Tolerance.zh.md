@@ -1,6 +1,6 @@
 # 中国海关自愿披露:将自失能错误转化为容忍结果
 ## SEO元数据
-- **SEO标题**: 中国海关自愿披露和审计允许出口商_QQ自动包机
+- **SEO标题**: 中国海关自愿披露和审计允许出口商_机
 - **Meta描述**: 中国海关自愿披露工作如何进行, 当前的政策窗口,30 June 2027, 行政处罚可以免除或减轻时,  and  出口者必须证明什么。
 - **H1**: 中国海关自愿披露:将自失能错误转化为容忍结果
 - **核心关键词**: 中国海关自愿披露审计的容忍度
@@ -55,7 +55,7 @@
 
 这是一种机制,即企业通过自我检查发现海关不遵守规定,书面报告,接受处理并支付所欠款项,在符合条件的情况下可能不接受或减轻行政处罚。
 
-**What is the current tolerance window?**
+**当前的主动披露容错窗口期是如何规定的？**
 
 The current operative announcement applies from 11 October 2025 to 30 June 2027; 证实反对提交时有效的通知,因为以后的治疗不假定。
 
@@ -71,15 +71,15 @@ The current operative announcement applies from 11 October 2025 to 30 June 2027;
 
 决断之心. 在海关开始对同一行为进行调查或审计之前,披露最为有力。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国务院公报 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2016/content_5092448.htm | 国务院令第670号《国务院关于修改〈中华人民共和国海关稽查条例〉的决... |
-| 司法部·国家行政法规库 | 司法部·国家行政法规库 | CN | T1 | VERIFIED | http://xzfg.moj.gov.cn/front/law/detail?LawID=699 | 《海关稽查条例》(国务院令)确立稽查与企业主动报告/主动披露的行政法... |
-| 福建单一窗口 | 国际贸易单一窗口 | CN | T1 | SINGLE_SOURCE | https://www.fjdport.gov.cn/fj/news/content?contentId=1730515485179834369 | 地方单一窗口对主动披露办理流程有操作说明（辅助） |
-| 海关总署公告 | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2025-10/16/article_2025112113223334087.html | 主动披露指企业自查发现少缴漏缴税款或其他违反海关监管规定情形；符合条件的主动披露可依法不予行政处罚、从轻或减轻处罚；现行处理口径执行期2025-10-11至2027-06-30（当期窗口 |
-| 海关总署政策直通车 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241473300.html | 主动披露上位依据为海关稽查条例及其实施办法 |
-| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-04/28/article_2026042810424858921.html | 海关总署2026年主动披露政策解读（办理口径、不予处罚情形与程序） |
+| 国务院公报 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2016/content_5092448.htm | 国务院令第670号《国务院关于修改〈中华人民共和国海关稽查条例〉的决... |
+| 司法部·国家行政法规库 | 司法部·国家行政法规库 | CN | primary | VERIFIED | http://xzfg.moj.gov.cn/front/law/detail?LawID=699 | 《海关稽查条例》(国务院令)确立稽查与企业主动报告/主动披露的行政法... |
+| 福建单一窗口 | 国际贸易单一窗口 | CN | primary | single source | https://www.fjdport.gov.cn/fj/news/content?contentId=1730515485179834369 | 地方单一窗口对主动披露办理流程有操作说明（辅助） |
+| 海关总署公告 | 海关总署 | CN | primary | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2025-10/16/article_2025112113223334087.html | 主动披露指企业自查发现少缴漏缴税款或其他违反海关监管规定情形；符合条件的主动披露可依法不予行政处罚、从轻或减轻处罚；现行处理口径执行期2025-10-11至2027-06-30（当期窗口 |
+| 海关总署政策直通车 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241473300.html | 主动披露上位依据为海关稽查条例及其实施办法 |
+| 海关总署 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-04/28/article_2026042810424858921.html | 海关总署2026年主动披露政策解读（办理口径、不予处罚情形与程序） |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

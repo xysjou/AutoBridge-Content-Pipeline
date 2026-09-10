@@ -79,19 +79,19 @@ Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên t�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
-## Nguồn và Định dạng
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| V6E tiết lộ (giới hạn hút thuốc/ 0–50/speed) | Xe tải về nhà Toutao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | ĐÃ_ ĐÃ | 60 kW 220 N·m, 90 km/h giới hạn, trục lá |
-| V6E EU-spec export to Türkiye (6 m³) | Vận chuyển Trung Quốc Tin tức mới | Phương tiện truyền thông CN (danh sách xuất bản: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | ĐÃ_ ĐÃ | Feb- 2024 EU-spec Türkiye,  6 m³ (news record, Không phải OEM/Chính phủ; Không phải VERIEIED) |
-| Light-commercial report (35.2 kWh/260 km/6 m³) | Comment | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | ĐÃ_ ĐÃ | Name |
-| Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
-| GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
-| GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
-| Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
+| V6E reveal (motor/0–50/speed limit) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW/220 N·m, 90 km/h limit, leaf-spring axle |
+| V6E EU-spec export to Türkiye (6 m³) | China Transport News (industry news media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb-2024 EU-spec Türkiye batch, 6 m³ (news record, not OEM/government; not VERIFIED) |
+| Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Base battery/range, cargo volume |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-*Abidence lưu ý: hồ sơ xuất khẩu Türkiye là các bản báo cáo kỹ nghệ CROSS_CHCKED (các phương tiện truyền thông / công nghiệp thử nghiệm mới không phải là VERFIEED — chỉ OEM / chính phủ/regulator/ tiêu chuẩn/formal file kỹ thuật đến VERIFED); được coi là một kỷ lục phân phối, không phải là một bằng chứng mô hình. Động cơ cơ cơ/h được kiểm tra chéo; tòa nhà mới 51 kWh nhạy cảm hơn. Trung Quốc GB/T và EU-spec được giữ riêng biệt theo quy tắc MODEL_AS / SOURCE_SCOPE. *
+*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

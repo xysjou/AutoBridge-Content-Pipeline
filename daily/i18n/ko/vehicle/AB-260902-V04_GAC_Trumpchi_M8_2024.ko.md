@@ -35,7 +35,7 @@ Trumpchi M8는 중간 규모, 모노코크 ** MPV **는 역동적 운전보다 �
 | 의 특징 | 2.0T 터보 L4, 185 kW (252 PS); 400 N·m (그라드마스터)/390 N·m (Lingxiu) |
 | 의논하기 | 8-speed 자동 (8AT) |
 | | 5-door MPV, 7 좌석 범위 (4-seat 관심 旗舰 변형도 존재) |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 앞 MacPherson/후방 멀티링크 |
+| 의 | 앞 MacPherson/후방 멀티링크 |
 | 제한 무게 | ~ 2060 kg (大师 尊贵版 참조, 공식) |
 | 최고 속도 | 200 km/h |
 | WLTC 연료 사용 | 8.85 L 100 km (Lingxiu 390T 豪华版의 데이타베이스 수치) |
@@ -110,18 +110,18 @@ AutoBridge 문제는 정적 가격 목록보다는 실시간 견적을 발급합
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## 소스 및 검증
+## Sources & Verification
 
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 공식 | GAC Trumpchi (공식) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 5212 mm 몸, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 국내 구성 | GAC 그룹(공식) | CN/Export의 장점 | https: 으로 변경 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 185 kW 252 PS, 7 좌석, 서스펜션 | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024
-| 2024 M8 宗师 가솔린 공식 | GAC Trumpchi (공식) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 2.0TGDI + 8AT, 400 N·m의 국내 가격 |
-| Lingxiu 390T 구성 | 오토홈 (汽车之家) | 담당자: Mr. wang | https://dealer.autohome.com.cn/2133191/spec_68518.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 5089 mm 몸, 3000 mm WB, 390 N·m의 WLTC 8.85 |
-| M8 매개 변수 | PCauto (太平洋汽车년) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: | 2026-09-02 | CROSS_체크 | 휠베이스는, 시리즈 매핑 | https://price.pcauto.com.cn/m128883/config.html
-| Lingxiu 구성 | 이체 (易车) | 담당자: Mr. wang | https://car.yiche.com/chuanqigm8/m173683/peizhi/ 경우 | 2026-09-02 | CROSS_체크 | Lingxiu 차원, 국내 가격 |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-*Confidence 참고 (AutoBridge 표준): Grandmaster Master 코어 사양은 GAC의 자체 페이지 (제조 업체 공식); Lingxiu 값은 독립적 인 데이터베이스를 통해 CROSS_CHECKED입니다. 400 대 390 N·m 보정은 의도적으로 시리즈에 의해 분리 유지; 하이브리드 (双擎) 사양은 asserted되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

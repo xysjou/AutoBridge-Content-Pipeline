@@ -28,17 +28,17 @@ Der hier abgedeckte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue B
 |---|---|---|---|---|---|
 | Breitenbreitenhöhe | 4730 1890 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | Radstand | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
-| Frachtvolumen | 638 | L | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
-| Motorleistung | 72 (1.5L 混动专用发动机) | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| Frachtvolumen | 638 | L | CHINA | single sourceN | 搜狐汽车 |
+| Motorleistung | 72 (1.5L 混动专用发动机) | kW | CHINA | single sourceN | 汽车之家车家号 |
 | Motorleistung | 160 | kW | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
-| Übertragung | E-CVT(电混传动) | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Batterietyp | 磷酸铁锂 | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Batteriekapazität | 约18.4 | k Whh | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| Übertragung | E-CVT(电混传动) | - | CHINA | single sourceN | 汽车之家车家号 |
+| Batterietyp | 磷酸铁锂 | - | CHINA | single sourceN | 汽车之家车家号 |
+| Batteriekapazität | 约18.4 | k Whh | CHINA | single sourceN | 汽车之家车家号 |
 | ev range cltc | 130 | km | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
-| kombinierter Bereich cltc | 1250 | km | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Gleichstrom-Schnellladestrom | 85 | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| v2l Exportleistung | 3.3 | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Mittelbildschirm | 14.6 | 英寸 | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| kombinierter Bereich cltc | 1250 | km | CHINA | single sourceN | 汽车之家车家号 |
+| Gleichstrom-Schnellladestrom | 85 | kW | CHINA | single sourceN | 汽车之家车家号 |
+| v2l Exportleistung | 3.3 | kW | CHINA | single sourceN | 汽车之家车家号 |
+| Mittelbildschirm | 14.6 | 英寸 | CHINA | single sourceN | 汽车之家车家号 |
 
 ## Warum die Batterieleitung und V2L für Exportaufträge wichtig sind
 UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen verschiedene Elektrifizierungsstufen abdeckt. Nennen Sie die Batteriekapazität und die elektrische Reichweite auf den Proforma und behandeln Sie die 85 DC- und 3.3 V2L Zahlen als chinesische Geräte, die für den Zielverdrahtungs- Netzstandard erneut bestätigt werden. Eine CLTC-Elektrostrecke ist keine WLTP-Figur, und ein Exportmarktname, eine Kalibrierung des Antriebsstrangs oder eine Garantie werden nicht von den hier erfassten chinesischen Quellen festgelegt.
@@ -57,15 +57,15 @@ UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen ve
 **Ist 130 km ein WLTP-Bereich?** Nein - es ist CLTC.
 **Wo ist der Exportpreis?** Fordern Sie ein aktuelles Angebot an; diese Seite veröffentlicht keine.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安 UNI-Z 参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| Changan Automobile offizielle globale Website | Changan Automobile 长安汽车 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://www.globalchangan.com/ | Marken-/Modelllinienidentität und OEM-Behörde |
-| Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
-| Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
+| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| UNI-Z 配置信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
+| 长安UNI-Z 参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

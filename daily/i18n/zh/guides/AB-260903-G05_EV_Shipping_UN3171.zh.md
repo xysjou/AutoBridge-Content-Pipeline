@@ -1,6 +1,6 @@
 # 订定供海洋出口使用的电化车辆:载货商的《危险货物》
 ## SEO元数据
-- **SEO标题**: EV 维基月球 出口订货文件 低于IMDG 42-24:UN3556 纸张和承运 检查
+- **SEO标题**: EV  出口订货文件 低于IMDG 42-24:UN3556 纸张和承运 检查
 - **Meta描述**: 锂电池车辆如何根据目前的IMDG修正案42-24(UN3556/3557/3558;UN3171遗产过渡结束)、SP961/SP962路径、UN38.3和SDS文书以及承运人专用订货条件分类为远洋货运。
 - **H1**: 海运电气化车辆:当前危险品分类、订货文件集和红线
 - **核心关键词**: 海运un3556 imdg 42-24号文件
@@ -9,7 +9,7 @@
 - **搜索意图**: 了解海运电气化车辆:当前危险品分类、订货文件集和红线:车辆/部件出口商在承诺订购前必须核实、记录和决定的内容。
 - **内链建议**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
 - **图片建议**: UN 个数字/类标签图
-- **ALT文本**: UN3556 IMDG 42-24 (中文(简体)). 9级电力车辆运输
+- **ALT文本**: UN3556 IMDG 42-24  9级电力车辆运输
 - **Schema范围**: 条款(无产品/产出/价格/审查/规定)
 
 ## 在此开始: 整台EV 是危险品, 条目更改于 42-24
@@ -62,7 +62,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——海运一部电动车辆,车辆-出口采购指南
 - **法国**: 出口汽车汽车——海运一辆电动车辆,汽车出口指南
@@ -77,17 +77,17 @@
 - AR**: 国家 汽车桥 – 海上运输电力车辆(IMD), – مشتريات تصدير
   - **ZH**: AutoBridge 出口采购参考｜Shipping an electric vehicle by sea (IMDG), 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| IMDG代码(2024版,包括第42-24号修正案),官方出版页面 | 国际海事组织(海事组织) | 全球 | https://www.imo.org/en/publications/pages/imdg%20code.aspx 维基月球 | 2026-09-05 | 实录 | 当前版本/修正和强制性规定自日期起;第9类框架 |
-| 客户咨询——管理变化,《国际千年发展目标准则》修正案42-24 | 梅尔斯克号(命名为远洋承运人) | 全球 | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf 维基月球 | 2026-09-05 | 横跨 | 特定载体:适用性从2026-01-01;UN3556条目;SP962牌/标签更改 |
-| 指导——UN3556(ADR/RID 2025,IMDG Amdt 42-24):分类,SP388/666/961/962,UN38.3) | 塞克赫特语Name Rådgivarna(总干事安全顾问) | 全球 | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg 维基月球 | 2026-09-05 | 横跨 | UN3556 维基月球 9/label 9A级;UN3171海路向2025-12-31型;SP961自驾车对SP962型集装箱通道 |
-| 根据《国际千年发展公约》第42-24号修正案(电子书):UN3556/3557/3558 vs 遗留UN3171 | IMD | 全球 | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf 维基月球 | 2026-09-05 | 横跨 | UN3557 锂金属和UN3558 钠离子条目;与UN3171的区别 |
-| 中国危险品-欧安联 路线 2026: 千年发展目标预订清单 | 深圳顶级国际 转发 | CN-UAE 路线 | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ 维基月球 | 2026-09-05 | 资源 | 路线/承运人预订阶段应用;承运人专用的SOC/单证(不规范,不普遍) |
-| 锂电池出口文件(UN38.3/SDS/packaging cert) | 定州新闻网. | 氯化萘 | https://www.dzxww.cn/article/293251787800392.shtml 维基月球 | 2026-09-03 | 资源 | UN38.3 电池+包, SSD, 松散电池证书上下文 |
-| 新能源出口海关风险(中国2025锂规则). | 苏胡遵守情况分析 | 氯化萘 | https://m.sohu.com/a/1025837015_100159475/ 维基月球 | 2026-09-03 | 资源 | 中国侧锂运输要求(单源;确认正式文本) |
-*范围说明:目前的修正、UN3556/3557/3558分法和SP961/SP962结构都以海事组织出版物和42-24号载体/DG-咨询材料为基础;载体SOC水平、终端接受和中国边规则应用是承运人/路线特定和时间敏感的——确认所命名载体的现有条件和每次预订的正式文本。 * 报告迟交是因为需要翻译。
+| IMDG Code (2024 Edition incl. Amendment 42-24), official publication page | International Maritime Organization (IMO) | Global | https://www.imo.org/en/publications/pages/imdg%20code.aspx | 2026-09-05 | VERIFIED | Current edition/amendment and mandatory-from date; Class 9 framework |
+| Customer Advisory — Regulatory Changes, IMDG Code Amendment 42-24 | Maersk (named ocean carrier) | Global | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | CROSS_CHECKED | Carrier-specific: applicability from 2026-01-01; UN3556 entry; SP962 placard/label change |
+| Guidance — UN3556 (ADR/RID 2025, IMDG Amdt 42-24): classification, SP388/666/961/962, UN38.3 | SäkerhetsRådgivarna (DG safety adviser) | Global | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | CROSS_CHECKED | UN3556 Class 9/label 9A; UN3171 sea transition to 2025-12-31; SP961 self-driven vs SP962 container paths |
+| Shipping Vehicles Under IMDG Amendment 42-24 (ebook): UN3556/3557/3558 vs legacy UN3171 | IMDG Code Compliance Centre / Shashi Kallada | Global | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | CROSS_CHECKED | UN3557 lithium-metal and UN3558 sodium-ion entries; distinction from UN3171 |
+| Dangerous Goods on China–UAE Routes 2026: IMDG booking checklist | Shenzhen Top Way International Forwarding | CN–UAE route | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | single source | Route/carrier booking-stage application; carrier-specific SOC/documentation (illustrative, not universal) |
+| Lithium-battery export documents (UN38.3/SDS/packaging cert) | Dingzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | single source | UN38.3 cell+pack, SDS, loose-battery certificate context |
+| New-energy export customs risk (China 2025 lithium rule) | Sohu compliance analysis | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | single source | China-side lithium transport requirement (single-source; confirm official text) |
+*Scope note: the current amendment, UN3556/3557/3558 split and SP961/SP962 structure are anchored to the IMO publication and 42-24 carrier/DG-adviser material; carrier SOC levels, terminal acceptance and China-side rule application are carrier-/route-specific and time-sensitive — confirm the named carrier's current terms and the official text for every booking.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

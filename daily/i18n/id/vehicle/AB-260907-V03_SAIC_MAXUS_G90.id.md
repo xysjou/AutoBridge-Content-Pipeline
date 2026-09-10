@@ -25,13 +25,13 @@ Sebuah tubuh 5.28-metre pada sebuah roda 3.2-metre adalah nilai tertinggi G90 'P
 
 | Butir | Referensi pasar-Cina | Catatan | Percaya diri |
 |---|---|---|---|
-| 2.0T bensin | 172 kW (234 PS) / 360 N·m, 8-speed otomatis (8AT), FWD | Baris referensi 2025 | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
+| 2.0T bensin | 172 kW (234 PS) / 360 N·m, 8-speed otomatis (8AT), FWD | Baris referensi 2025 | single source — konfirmasi oleh VIN / OEM|
 
 Halaman ini sengaja scopes ke ** ICE bensin ** G90. Setiap hibrida, turunan listrik, atau pure- daya yang berbeda dan tidak dijelaskan di sini; seorang eksportir tidak boleh menggabungkan angka listrik ke dalam spesifikasi bensin. Keluaran 172 kW / 360 N·m saat ini terletak pada satu sumber independen dan harus ditutup terhadap lembar konfigurasi resmi MAXUS atau entri homologasi MIIT tepat sebelum deposit dibayar.
 
 ## Six-seat versus seven-seat — specify the layout, bukan hanya model
 
-G90 ditawarkan dalam ** six-seat (2+2+2) **  and  ** tujuh-kursi (2+2+3) ** konfigurasi,  and  pilihan berubah kedua kenyamanan  and  jumlah kursi persetujuan. Karena pemetaan yang tepat yang trim membawa yang tata letak tunggal dan perubahan oleh model tahun, pembeli harus:
+G90 ditawarkan dalam konfigurasi **enam kursi (2+2+2)** dan **tujuh kursi (2+2+3)**, dan pilihan mengubah kenyamanan serta jumlah kursi yang disetujui. Karena pemetaan trim yang tepat membawa satu tata letak dan berubah menurut tahun model, pembeli harus:
 
 - nama jumlah kursi dan ** 2+2+2 / 2+2+3 ** tata letak secara eksplisit dalam kontrak;
 - konfirmasi kedua-baris kapten-kursi versus konten bangku untuk trim yang dipilih;
@@ -84,16 +84,16 @@ Jalur pasar yang direferensikan adalah penggerak roda depan.
 
 Mobil Cina adalah LHD; RHD / ekspor membangun memerlukan bukti OEM terpisah dan tidak boleh diasumsikan identik dalam kekuasaan, tempat duduk atau peralatan.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor

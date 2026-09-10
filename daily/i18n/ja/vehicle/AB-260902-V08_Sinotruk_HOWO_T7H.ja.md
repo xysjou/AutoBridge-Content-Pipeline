@@ -94,21 +94,21 @@ Sinotrukは、**Euro VとEuro VI**レベルでの輸出T7Hビルド(およびデ
   - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
-## ソースと検証
+## Sources & Verification
 
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-|  HOWO  T7H 460 6 の × 4 の変数 | (卡车之家) |  CN  の | 担当 | 2026-09-02 |  CROSS  |  CHECKED  (クロス) | 通知 、 水産 エンジン 、 車軸 、 タイヤ 、 タンク 、 タクシー | http://product.m.360che.com/m427/106833_param.html 360che
-| T7H 公式商品ページ | サイノトルクグループ (CNHTC  、 公式) |  CN  / 輸出 | 以下は 、 の | 2026-09-02 | 検証済み | MC11 440 HP / 10.518 L 、 シャーシ, 変速機,  ZF  ステアリング | https://www.sinotrukgroup.com.cn/product-43.html
-|  HOWO   NX  / T7H 国際 | サイノトラック 国際 (公式) | 輸出入 | 以下は 、 | 2026-09-02 | 検証済み | 輸出エンジンの変位 /  HP  の選択 | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html
-| T7H 輸出構成 | SINOTRUK HOWO (公式のディーラー システム) | 輸出入 | 以下は | 2026-09-02 | 検証済み | 8.8/25/ 40 t 体重 MC13.54-50 540 HP / 2500 N·m、ユーロ V | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-|  GB  17691-2018 の頑丈なディーゼル車の汚染物質の放出 (中国  VI) | エコロジー・環境省 (MEE) |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 中国の  VI  | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-*Confidence Note(AutoBridge規格):MC11/MC13の輸出エンジンと重量はSinotruk公式チャンネルで検証されています。詳細な360che発表フィギュアはSINGLE_ コース 価格は、無制限で、省略されています。 Sinotruk Internationalシートのエクスポートビルドを必ず確認します。 ふりがな
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

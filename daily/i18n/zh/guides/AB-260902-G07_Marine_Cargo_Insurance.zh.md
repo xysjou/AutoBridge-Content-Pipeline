@@ -80,22 +80,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 货物条款(A) 1/1/09条正式措词(CL382条) | | 全球 | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf 维基月球 | 2026-09-03 | ** 已执行** | 国际商会(A)“所有风险”范围和排除;正式条款措词 |
-| 国际商报2010 vs 2020(CIP从ICC(C)移至ICC(A)) | 国际商会(**标准机构官员**) | 全球 | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm 维基月球 | 2026-09-03 | ** 已执行** | CIP 最低升为ICC(A); CIF 保留ICC(C). |
-| 国际贸易术语解释通则2020——CPT或CIP(销售保险责任) | 国际商会学院(**国际商会官员**) | 全球 | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ 维基月球 | 2026-09-03 | ** 已执行** | CIP |
-| 货物研究所 | 伏尔盖(专家经纪,援引《国际法年鉴》/《国际统一法》,海牙-维斯比) | 全球 | https://voyagecover.com/guides/institute-cargo-clauses 维基月球 | 2026-09-03 | 横跨 | CL382/383/384 编号, 1 Jan 2009,特别提款权上限 |
-| 110% | 港口和港口(工业) | 全球 | https://www.portlogics.com/insights/marine-cargo-insurance 维基月球 | 2026-09-03 | 横跨 | 110% 操作公约和每批装运率; 机体区分的Incoterms vs UCP基数 |
-| 韩国旧车海运保险索赔(ICC A/B/C 对比) | SH 全球 | 全球 | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim 维基月球 | 2026-09-02 | 资源 | 国际商会(A/B/C) 覆盖范围 |
-| 韩国旧车出口保险指南 | SH 全球 | 全球 | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide 维基月球 | 2026-09-02 | 资源 | 车辆推荐 电算中心(A) |
-| 购买海运货物 保险: 保险金、费率和索赔总额 | 老金出海 劳金珠海 | 全球 | https://www.laojinchuhai.com/en/insights/guide-marine-insurance 维基月球 | 2026-09-02 | 资源 | CIP 2020 升至 ICC(A)/CIF 最低 ICC(C) 电子计算器 |
-| 保障轮船车辆安全 | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | 全球 | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline 维基月球 | 2026-09-02 | 资源 | 海牙-维斯比 承运人责任上限,固有缺陷除外 |
-| 海运货物保险 | 镜片运输 | 全球 | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ 维基月球 | 2026-09-02 | 资源 | (中文(简体)). |（一切险）（罢工附加险）（战争）
-| 中古車輸出の海上保険(保额公式) (中文(简体)). | 飞机 | 全球 | https://planetcars.jp/index.php/ja/insurance 维基月球 | 2026-09-02 | 资源 | 保险金额=CIF×110%;保费公式 = = = = = =     =                 |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
+| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
+| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
+| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | single source | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | single source | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | single source | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | single source | Hague-Visby 承运人责任上限、固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | single source | 一切险、战争/罢工附加险 |
+| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | single source | 保险金额=CIF×110%、保费公式 |
 
-* 说明:条款范围/编号和《国际贸易术语解释通则》的保险义务在《伦敦协定》/《国际商会》的主要材料上是核查的。 海牙-维斯比特别提款权数字是确认目前修正数额的条约规定;溢价费率是每次装运,而故意不说明;电压电池盖是针对政策。 * 报告迟交是因为需要翻译。
+*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

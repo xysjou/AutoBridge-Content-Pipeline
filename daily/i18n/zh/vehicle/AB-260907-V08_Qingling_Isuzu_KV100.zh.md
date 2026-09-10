@@ -4,7 +4,7 @@
 - **Meta描述**: Chinese-market reference for the Qingling Isuzu  KV100  N2 blue-plate light truck: the 4KH1CN6LB China-6 diesel, 货床范围, 相邻的100P号线保持分离,  and  出口核查。
 - **H1**: 清灵石苏祖KV100:中国市场蓝板轻便车参考车型 建造于GVW年左右,发动机及相邻的型号线路
 - **核心关键词**: 清灵岩苏KV100出口规格
-- **次级搜索词**: 庆铃 KV100; KV100 (中文(简体)). 4KH1CN6LB; 伊苏祖轻车 中国; 蓝板货车; 中国N2卡车出口; MSB 5MT
+- **次级搜索词**: 庆铃 KV100; KV100  4KH1CN6LB; 伊苏祖轻车 中国; 蓝板货车; 中国N2卡车出口; MSB 5MT
 - **建议URL**: /vehicles/qingling-isuzu-kv100/
 - **搜索意图**: 了解清岭伊苏祖KV100:中国市场蓝板轻便车参考车型约GVW号,发动机及相邻型号线路:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
 - **内链建议**: /vehicles/changan-kaicene-f70/, /vehicles/jmc-ford-transit-t8/, /vehicles/faw-jiefang-j7-tractor/
@@ -25,15 +25,15 @@ The Qingling Isuzu KV100 is a cab-over (flat-face) light truck built by Qingling
 
 | 项目 | 中国市场参考文献. | 信心 |
 |---|---|---|
-| 引擎 | **4KH1CN6LB**3.0-litre型柴油机,中国-6(国六)型柴油机车. | SINGLE_SOURCE |
-| 产出 | 120 PS / 290 N·m | SINGLE_SOURCE — —由VIN/OEM确认|
-| 齿轮 | MSB 5-speed手册(5MT) | SINGLE_SOURCE |
+| 引擎 | **4KH1CN6LB**3.0-litre型柴油机,中国-6(国六)型柴油机车. | single source |
+| 产出 | 120 PS / 290 N·m | single source — —由VIN/OEM确认|
+| 齿轮 | MSB 5-speed手册(5MT) | single source |
 
 4KH1家族存在于一个以上,产出不同的后缀中,第二份独立报告参考了不同的4KH1后缀评级. 正因为如此,整个引擎代码——** 4KH1CN6LB**,而不仅仅是 " a 4KH1 " ——必须写成顺序,并与MIIT同源条目相匹配。 一台中国-6型柴油机为中国燃料和国家六级机车校准;目的地燃料等级和排放识别必须分别检查,而不是假设.
 
 ## 有效载荷和煤矿质量:分类数据不是工厂数据
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 这些数字**** 不**作为规格列出: 其与装配的车体不同,销售者自行报告,不能用来大小载荷。 权威的额定有效载荷,kerb质量和GVW来自**精确底盘同位素证书/名牌**. 在承诺进入有效载荷任务周期之前获取这些弹药。
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. 这些数字**** 不**作为规格列出: 其与装配的车体不同,销售者自行报告,不能用来大小载荷。 权威的额定有效载荷,kerb质量和GVW来自**精确底盘同位素证书/名牌**. 在承诺进入有效载荷任务周期之前获取这些弹药。
 
 ## 相邻的界线和全球伊苏祖边界
 
@@ -58,7 +58,7 @@ Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.
 | 身份 | 除非OEM证明是同一型号,否则保留KV100与100P/4KB1型和与全球Isuzu ELF型分离;在最终支付前调节VIN型. |
 
 ## 财务问题
-**What category is the Qingling KV100?**
+**庆铃KV100属于什么车辆类别？**
 
 It is a cab-over N2 blue-plate light truck with GVW at or below 4.5 t, 通常装有约4.2–4.3米的货车。
 
@@ -74,21 +74,21 @@ The referenced line uses the 4KH1CN6LB 3.0-litre China-6 diesel quoted at 120 PS
 
 依据此证据不成立:它是为中国建造的清灵,在OEM同型声明存在之前,作为相关模型处理.
 
-**Is the newer 100P the same truck?**
+**更新的100P是同一辆车吗？**
 
 否——100P(4KB1)是一条单独的模型线,其数字不得合并为KV100规格.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

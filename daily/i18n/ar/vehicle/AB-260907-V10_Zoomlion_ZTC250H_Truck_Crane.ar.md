@@ -54,7 +54,7 @@
 
 ## التحقق من صحة المشتري قبل إيداعه
 
-1. Obtain the exact-model ZTC250H OEM specification and **load chart** for the specific serial number — accept no borrowed QY25/QY25K figures.
+1. احصل على مواصفات OEM الدقيقة لطراز ZTC250H و**مخطط الحمل** للرقم التسلسلي المحدد — ولا تقبل أرقاماً منقولة من QY25/QY25K.
 2. التحقق المفصل من الناقل (المحرك، الانبعاثات، GVW، التوجيه) من التحقق من البنية التحتية (المزمار، القدرة، أجهزة الأمان).
 3. التصديق على نظام رفع المعدات وقواعد المشغل/الطرق.
 4. التحقق من الأبعاد العامة، وارتفاع النقل المزدهر، والاحتياجات من النقل/النقل.
@@ -70,11 +70,11 @@
 
 رقم 25-tonne نموذجي يحتوي على ازدهار وناقلات ورسوم تحميل مختلفة؛ والاقتراض من هذه الأرقام غير مأمون، وهو مستبعد هنا على وجه التحديد.
 
-** لماذا طول الازدهار و رفع الارتفاع غير مدرج في القائمة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** لماذا طول الازدهار و رفع الارتفاع غير مدرج في القائمة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 ولم يتم تسجيل بيانات من طراز OEM تبلغ مساحتها ZTC250H، ولذلك يتم حجبها عمدا بدلا من أن تقدر من حفر مماثلة؛ والحصول عليها من زومليون مقابل الرقم التسلسلي المحدد.
 
-** ما الذي يجعل رافعة شاحنة مختلفة للتحقق من الشاحنة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما الذي يجعل رافعة شاحنة مختلفة للتحقق من الشاحنة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 وهي تجمع بين فوضى ناقلات (المحرك/الانبعاث/التسجيل) وبين هيكل أعلى للرفع (رسم الخرائط، والخارجيات، وأجهزة الأمان)؛ ويجب التحقق من كليهما على حدة.
 
@@ -82,16 +82,16 @@
 
 آلة السوق الصينية هي وزارة الصحة؛ وأي وثيقة من وثائق السحب أو التصديق على الصادرات، تبلغ قيمتها ZTC250H، تتطلب أدلة منفصلة من طراز زومليون أوم.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
-| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | identity |
-| 铁甲网 | 铁甲网 | CHINA | T3 | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | T4 | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
-| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | T4 | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
-| 抖音 | 抖音 | CHINA | T4 | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | media/industry | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6717066179594158595/ | identity |
+| 铁甲网 | 铁甲网 | CHINA | media/industry | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | directory/listing | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | directory/listing | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
+| 抖音 | 抖音 | CHINA | directory/listing | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)

@@ -84,21 +84,21 @@ Damage disputes at destination almost always trace back to one question: 車両�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-|  WW  Cargo Handling Instructions (fuel ≤¼) | ワレニウス・ウィルヘルムセン (RoRoRo キャリア) | サインイン | 以下は 、 カルゴハンドリング指示.walleniuswilhelmsen.com/pdf ファイル /  WWW-CHI  - | 2026-09-04 | CROSS_CHECKED(プライマリキャリア) | 燃料レベル 、 操作性 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf
-| ワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワ 中古ユニットの受け取り (キルスイッチなしで 12/24V を切断) | ワレニアス・ウィルヘルムセン | サインイン | 以下は 、 | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 中古  ICE  バッテリーの切断 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft
-| Höegh Automotive shipping (≤¼ fuel; ビーブ・ソック; 操作性) | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | BEV ≤ 50% SOC、燃料、操作性 |
-| ヒエッグトラック/バス/トレーラーの船積み | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 商用ユニット受入 |
-| 事前の出荷検査と手渡練習 | | CN の | 以下は、 | 2026-09-04 | SINGLE_SOURCE(編集) | おすすめのチェックリスト/写真/手書き | https://m.11467.com/product/d55278360.htm 11467
-*証拠の範囲:WW Höegh主ガイド(キャリアポリシー、規制ではなく、ユニバーサル)に検証された名前付きキャリアポリシー;チェックリストは、編集的勧告です。 固定のlashing pressure /オリエンテーション値はOEM ふりがな
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | single source (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | single source (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | single source (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | single source (editorial basis) | Recommended checklist/photo/handover |
+*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
-| IMO/ILO/UNECE CTU(イロ/ユーネクネクテ・チュチュ) コード — 貨物輸送ユニットの取扱い・確保 | 国際海事機関(IMO) | インフォメーション | 以下は、 https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | キャリアルールは厳格で、ルート固有のまま |
-| 貨物・運輸保険・海上危険基準 | 海上保険国際連合(IUMI) | インフォメーション | 以下は、  | 2026-09-05 | 検証済み | なぜ、貨物の取扱に関するPDI/手渡証拠が重要であるのか | https://iumi.com/
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 -
 - **検証方法**: 編集推奨から分離された名前付きキャリア主ガイド; 普遍的な固定値なし

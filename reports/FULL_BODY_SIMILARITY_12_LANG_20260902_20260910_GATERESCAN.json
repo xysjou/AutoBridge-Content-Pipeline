@@ -1,0 +1,791 @@
+{
+ "metric": "same-language full-body 5-gram Counter-Jaccard (established method)",
+ "threshold": {
+  ">0.50": "MANUAL_REVIEW",
+  ">=0.70": "FAIL"
+ },
+ "per_date": {
+  "en": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1735,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.212,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2358,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.217,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.md",
+     "AB-260905-V05_Changan_CS55PLUS.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0787,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0693,
+    "pair": [
+     "AB-260907-V04_XPeng_MONA_M03.md",
+     "AB-260907-V05_Deepal_S05.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "fr": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1562,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.fr.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.fr.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.1997,
+    "pair": [
+     "AB-260903-V01_Geely_Emgrand_2024.fr.md",
+     "AB-260903-V03_Changan_CS75PLUS_2024.fr.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2157,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.fr.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2012,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.fr.md",
+     "AB-260905-V05_Changan_CS55PLUS.fr.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0829,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.fr.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.fr.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0772,
+    "pair": [
+     "AB-260907-V04_XPeng_MONA_M03.fr.md",
+     "AB-260907-V05_Deepal_S05.fr.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "de": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.17,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.de.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.de.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2177,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.de.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.de.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2375,
+    "pair": [
+     "AB-260904-V03_Wuling_Bingo.de.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.de.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2198,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.de.md",
+     "AB-260905-V05_Changan_CS55PLUS.de.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0859,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.de.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.de.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.061,
+    "pair": [
+     "AB-260907-V02_Dongfeng_Aeolus_Yixuan.de.md",
+     "AB-260907-V04_XPeng_MONA_M03.de.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "es": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1656,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.es.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.es.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2021,
+    "pair": [
+     "AB-260903-V01_Geely_Emgrand_2024.es.md",
+     "AB-260903-V03_Changan_CS75PLUS_2024.es.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2361,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.es.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.es.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2176,
+    "pair": [
+     "AB-260905-V07_Foton_Toano.es.md",
+     "AB-260905-V10_AUMAN_EST.es.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0829,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.es.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.es.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0754,
+    "pair": [
+     "AB-260907-V02_Dongfeng_Aeolus_Yixuan.es.md",
+     "AB-260907-V03_SAIC_MAXUS_G90.es.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "pt": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1638,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.pt.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.pt.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.1988,
+    "pair": [
+     "AB-260903-V01_Geely_Emgrand_2024.pt.md",
+     "AB-260903-V03_Changan_CS75PLUS_2024.pt.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2388,
+    "pair": [
+     "AB-260904-V03_Wuling_Bingo.pt.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.pt.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2159,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.pt.md",
+     "AB-260905-V05_Changan_CS55PLUS.pt.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0797,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.pt.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.pt.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0674,
+    "pair": [
+     "AB-260907-V04_XPeng_MONA_M03.pt.md",
+     "AB-260907-V05_Deepal_S05.pt.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "ja": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.2157,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.ja.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.ja.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2838,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.ja.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.ja.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2468,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.ja.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.ja.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2072,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.ja.md",
+     "AB-260905-V05_Changan_CS55PLUS.ja.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.1743,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.ja.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.ja.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0605,
+    "pair": [
+     "AB-260907-V06_Changan_Kaicene_F70.ja.md",
+     "AB-260907-V08_Qingling_Isuzu_KV100.ja.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "ko": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1803,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.ko.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.ko.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2181,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.ko.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.ko.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2353,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.ko.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.ko.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2348,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.ko.md",
+     "AB-260905-V05_Changan_CS55PLUS.ko.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.08,
+    "pair": [
+     "AB-260906-V06_SAIC_MAXUS_T90.ko.md",
+     "AB-260906-V07_SAIC_MAXUS_V80.ko.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0624,
+    "pair": [
+     "AB-260907-V04_XPeng_MONA_M03.ko.md",
+     "AB-260907-V05_Deepal_S05.ko.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "vi": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.164,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.vi.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.vi.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.1961,
+    "pair": [
+     "AB-260903-V01_Geely_Emgrand_2024.vi.md",
+     "AB-260903-V03_Changan_CS75PLUS_2024.vi.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.244,
+    "pair": [
+     "AB-260904-V03_Wuling_Bingo.vi.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.vi.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.221,
+    "pair": [
+     "AB-260905-V07_Foton_Toano.vi.md",
+     "AB-260905-V10_AUMAN_EST.vi.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0853,
+    "pair": [
+     "AB-260906-V06_SAIC_MAXUS_T90.vi.md",
+     "AB-260906-V07_SAIC_MAXUS_V80.vi.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0769,
+    "pair": [
+     "AB-260907-V04_XPeng_MONA_M03.vi.md",
+     "AB-260907-V05_Deepal_S05.vi.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "th": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.1687,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.th.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.th.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.1962,
+    "pair": [
+     "AB-260903-V01_Geely_Emgrand_2024.th.md",
+     "AB-260903-V03_Changan_CS75PLUS_2024.th.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2452,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.th.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.th.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2408,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.th.md",
+     "AB-260905-V05_Changan_CS55PLUS.th.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0851,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.th.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.th.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0575,
+    "pair": [
+     "AB-260907-V02_Dongfeng_Aeolus_Yixuan.th.md",
+     "AB-260907-V03_SAIC_MAXUS_G90.th.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "id": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.172,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.id.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.id.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.212,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.id.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.id.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.249,
+    "pair": [
+     "AB-260904-V03_Wuling_Bingo.id.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.id.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2154,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.id.md",
+     "AB-260905-V05_Changan_CS55PLUS.id.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0771,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.id.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.id.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0557,
+    "pair": [
+     "AB-260907-V02_Dongfeng_Aeolus_Yixuan.id.md",
+     "AB-260907-V03_SAIC_MAXUS_G90.id.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "ar": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.169,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.ar.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.ar.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2126,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.ar.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.ar.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2347,
+    "pair": [
+     "AB-260904-V03_Wuling_Bingo.ar.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.ar.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.2322,
+    "pair": [
+     "AB-260905-V02_Changan_UNI_Z.ar.md",
+     "AB-260905-V05_Changan_CS55PLUS.ar.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0847,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.ar.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.ar.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.063,
+    "pair": [
+     "AB-260907-V02_Dongfeng_Aeolus_Yixuan.ar.md",
+     "AB-260907-V05_Deepal_S05.ar.md"
+    ],
+    "verdict": "PASS"
+   }
+  },
+  "zh": {
+   "2026-09-02": {
+    "n": 20,
+    "max": 0.221,
+    "pair": [
+     "AB-260902-V08_Sinotruk_HOWO_T7H.zh.md",
+     "AB-260902-V09_Shacman_X3000_Dump_Truck.zh.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-03": {
+    "n": 20,
+    "max": 0.2853,
+    "pair": [
+     "AB-260903-V07_Yutong_ZK6122.zh.md",
+     "AB-260903-V08_FAW_Jiefang_J6P.zh.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-04": {
+    "n": 20,
+    "max": 0.2525,
+    "pair": [
+     "AB-260904-V02_BYD_QinL_DMi.zh.md",
+     "AB-260904-V06_GAC_Trumpchi_E8.zh.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-05": {
+    "n": 20,
+    "max": 0.3054,
+    "pair": [
+     "AB-260905-G02_Export_Customs_SingleWindow.zh.md",
+     "AB-260905-G05_CKD_SKD_Assembly.zh.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-06": {
+    "n": 20,
+    "max": 0.0773,
+    "pair": [
+     "AB-260906-V08_FAW_Jiefang_J6F.zh.md",
+     "AB-260906-V09_Sinotruk_HOWO_TX_Dump.zh.md"
+    ],
+    "verdict": "PASS"
+   },
+   "2026-09-07": {
+    "n": 20,
+    "max": 0.0596,
+    "pair": [
+     "AB-260907-V06_Changan_Kaicene_F70.zh.md",
+     "AB-260907-V08_Qingling_Isuzu_KV100.zh.md"
+    ],
+    "verdict": "PASS"
+   }
+  }
+ },
+ "overall_120": {
+  "en": {
+   "n": 120,
+   "max": 0.2358,
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.md"
+   ],
+   "verdict": "PASS"
+  },
+  "fr": {
+   "n": 120,
+   "max": 0.2157,
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.fr.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.fr.md"
+   ],
+   "verdict": "PASS"
+  },
+  "de": {
+   "n": 120,
+   "max": 0.2375,
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.de.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.de.md"
+   ],
+   "verdict": "PASS"
+  },
+  "es": {
+   "n": 120,
+   "max": 0.2361,
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.es.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.es.md"
+   ],
+   "verdict": "PASS"
+  },
+  "pt": {
+   "n": 120,
+   "max": 0.2388,
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.pt.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.pt.md"
+   ],
+   "verdict": "PASS"
+  },
+  "ja": {
+   "n": 120,
+   "max": 0.2838,
+   "pair": [
+    "AB-260903-V07_Yutong_ZK6122.ja.md",
+    "AB-260903-V08_FAW_Jiefang_J6P.ja.md"
+   ],
+   "verdict": "PASS"
+  },
+  "ko": {
+   "n": 120,
+   "max": 0.2353,
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.ko.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.ko.md"
+   ],
+   "verdict": "PASS"
+  },
+  "vi": {
+   "n": 120,
+   "max": 0.244,
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.vi.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.vi.md"
+   ],
+   "verdict": "PASS"
+  },
+  "th": {
+   "n": 120,
+   "max": 0.2452,
+   "pair": [
+    "AB-260904-V02_BYD_QinL_DMi.th.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.th.md"
+   ],
+   "verdict": "PASS"
+  },
+  "id": {
+   "n": 120,
+   "max": 0.249,
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.id.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.id.md"
+   ],
+   "verdict": "PASS"
+  },
+  "ar": {
+   "n": 120,
+   "max": 0.2347,
+   "pair": [
+    "AB-260904-V03_Wuling_Bingo.ar.md",
+    "AB-260904-V06_GAC_Trumpchi_E8.ar.md"
+   ],
+   "verdict": "PASS"
+  },
+  "zh": {
+   "n": 120,
+   "max": 0.3054,
+   "pair": [
+    "AB-260905-G02_Export_Customs_SingleWindow.zh.md",
+    "AB-260905-G05_CKD_SKD_Assembly.zh.md"
+   ],
+   "verdict": "PASS"
+  }
+ }
+}

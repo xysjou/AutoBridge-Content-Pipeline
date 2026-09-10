@@ -77,15 +77,15 @@ RCAP ให้สองวิธีพื้นฐานที่ดีสาม
 
 ไม่ — การ อนุมัติ จะ ถูก ปรับ และ แตก ต่าง กัน โดย งาน สังสรรค์ และ เส้น ทา ลิฟฟ์; ตรวจ สอบ ตาราง เวลา ใน ปัจจุบัน สําหรับ จุด หมาย ปลาย ทาง.
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01） | 中华人民共和国海关总署 | CN | T1 | เวลา | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网, 现行公告 — RCAP 实施 |
-| 海关 – 用好自贸协定实践成果 (RARP 签证规则 、 累积规则应用))))) 、 、 、 、 、))))))))))))) 、 、 、 、 、 、)) 、 、))))))))))))) 、 、 、 、 、 、 、 、 、 、 、 、 、 、 、)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))  | 中华人民共和国海关总署 | CN | T1 | เปิดใช้งาน | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则, 原产地标准, 享惠 — FTA 实践 |
-| 优惠贸易协定项下进出口货物原产地管理规定 (海关总署令第 265  ) พ ศ ศ ศ ศ ศ ศ ศ 海关总署令第 海关总署令第 海关总署令第 海关总署令第 海关总署令第 海关总署令第 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 号 ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ 海关总署令第 海关总署令第 海关总署令第 海关总署令第 海关总署令第 海关总署令第 海关总署令第  เอ็กซ์ | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理, 签证机构 — 部门规章 |
-| 单一窗口原产地证书智能审核 自助打印 | 中国国际贸易单一窗口 | CN | T1 | เปิดใช้งาน | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 |
- สิทธิ์ในการสอนเด็ก | 中国贸促会陕西省委员会 | CN | T1 | เปิดใช้งาน | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则, 背对背证明, 经核准出口商 — 签证机构解释 |
-| เครือข่ายเศรษฐกิจแบบครอบคลุม (RREP) เปิดตัวอย่างเป็นทางการ | เลขานุการ ของ เรส ตา อัส มาน | RIPE | T1 | เปิดใช้งาน | https://rcepsec.org/ | ที่อยู่_คริเทีย — ข้อความสนธิสัญญาและข่าวพรรค; PAR ต้องอ่านจากส่วนผนวก |
+| 海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01） | 中华人民共和国海关总署 | CN | primary | TIME_SENSITIVE | http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html | 原产地电子联网, 现行公告 — RCEP实施 |
+| 海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html | 累积规则, 原产地标准, 享惠 — FTA实践 |
+| 优惠贸易协定项下进出口货物原产地管理规定（海关总署令第265号） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm | 原产地证管理, 签证机构 — 部门规章 |
+| 单一窗口原产地证书智能审核/自助打印 | 中国国际贸易单一窗口 | CN | primary | VERIFIED | https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html | 原产地证申领渠道 — 操作 |
+| RCEP原产地证书签证规则（累积/背对背/原产地声明，贸促会口径） | 中国贸促会陕西省委员会 | CN | primary | VERIFIED | http://www.ccpit-shaanxi.com/News/info/aid/20142.html | 签证规则, 背对背证明, 经核准出口商 — 签证机构解释 |
+| Regional Comprehensive Economic Partnership (RCEP) official portal | RCEP Secretariat / ASEAN | RCEP | primary | VERIFIED | https://rcepsec.org/ | origin_criteria — treaty text and party coverage; per-HS PSR must be read in annex |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

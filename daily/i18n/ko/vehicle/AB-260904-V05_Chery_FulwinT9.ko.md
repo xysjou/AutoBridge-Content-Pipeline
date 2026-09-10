@@ -26,7 +26,7 @@ Fulwin T9은 Chery의 C-DM 중간 크기 플러그 인 하이브리드 SUV입니
 | Long-range 배터리 | ** 32.66 kWh ** |
 | 전기 범위 | **120–220 km CLTC** (version-dependent; 약 160km의 WLTC 수치도 1개의 버전으로 인용됩니다. |
 | 결합된 범위 | 약 1400 km ** WLTC, 제조업체 - 평가 ** - 공장 청구로 라벨, 측정하지 않음 |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | DC about 20 min for 30–80%; AC 느린 충전 3 h (단일 소스; OEM 당 확인) |
+| 의 | DC about 20 min for 30–80%; AC 느린 충전 3 h (단일 소스; OEM 당 확인) |
 
 PHEV용 수출상 고정 **엔진, 모터, 배터리 및 충전** 1.5T은 여기에 하이브리드 전용 엔진입니다. 115 kW 엔진 전용 수치는 시스템 출력이 아닙니다. - 사양 라인에 두 개의 apart를 유지합니다.
 
@@ -83,19 +83,19 @@ PHEV용 수출상 고정 **엔진, 모터, 배터리 및 충전** 1.5T은 여기
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
-## 소스 및 검증
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB 38031 견인 건전지 안전 필요조건 (국가 기준) | SAMR 표준화 관리 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | C-DM 고전압 팩과 관련된 견인 배터리 안전 기본선 |
-| GB 18352.6-2016/XG1-2026 빛 차량 방출 한계 (중국 6) | 환경 및 환경 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 현재 중국- 6 배출 프레임 1.5T 전용 엔진 (중국- 6b 참조) |
-| Fulwin T9 공식 구성표 | Chery Fulwin (OEM)를 | 담당자: Mr. wang | https://fulwin.chery.cn/vehicles/t9/config/ 위한 | 2026-09-04 | 인증 (OEM) | 배터리, 치수, 좌석, 충전, 버전 |
-| Fulwin T9 핸즈에 년) | 팟캐스트 | 담당자: Mr. wang | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_체크 | 차원, 모형 년 경계 |
-| UDIO T9 120의 펜서 구성 | 의 Autohome 설정 |: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_체크 | 32.66 모터사이클 모터사이클
-| Fulwin T9 배터리 및 EV 범위 분석 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 대체하십시오 | 2026-09-04 | SINGLE_SOURCE(싱글) | 배터리, CLTC/WLTC 범위, 충전 시간 |
-| Fulwin T9 출시 및 치수 | Sohu 자동차 데이터베이스 | 담당자: Mr. wang | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 경우 | 2026-09-04 | CROSS_체크 | 중형 PHEV SUV 크기, 국내 가격 |
-| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方년) | 담당자: Mr. wang | https://fulwin.chery.cn/vehicles/t9/config/ 위한 | 2026-09-04 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
+| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
+| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
+| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | single source | Battery, CLTC/WLTC range, charge times |
+| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
+| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-*Confidence 참고: OEM 구성 페이지 캡처 (VERIFIED 앵커); 책임 시간 및 화물 볼륨은 단일 소스입니다; 결합 된 범위는 제조업체 요구입니다. 표준 T9 만 - T9L 별도. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

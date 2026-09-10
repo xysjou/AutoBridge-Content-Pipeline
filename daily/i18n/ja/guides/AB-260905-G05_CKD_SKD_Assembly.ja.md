@@ -39,16 +39,16 @@ A **SKD (半ノックダウン)** キットは、部分的に組み立てられ�
 キットの設計は、あらゆる市場で働くことができますか? いいえ — 分類およびアセンブリ条件は国別です。
 **BOMは何をすべきですか?** HS ライン、オリジン、値を各コンポーネントに分類する前に割り当てます。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN の | T1 | 検証済み | 以下は、 https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础、归类裁定与决定 |
-| 汽车 CKD 散件出口原产地证填制 (行业流程、T4 仅线索) | 顺企网 | CN の | T4 | 免責事項 | 以下は、 | 成套散件清单/HS逐项整理流程线索 | https://m.11467.com/product/d53830031.htm
-| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考、T4) | 顺企网 | CN の | T4 | 免責事項 | 以下は、 | 成套散件申报要素线索 | https://m.11467.com/product/d14729353.htm
-| ハーモナイズドシステム ノーメンクラチュア (WCO) | 世界税関機関 |  CN  の | T1 | 検証済み | 以下は 、 の一覧を表示 |  HS  の nomenclature は  WCO  によって維持される分類基礎です | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx
-| WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
-| カスタム評価に関する WTO 協定 | ワールドトレード機構 | エントリー | T1/T2 | 検証済み | 以下は | ノックダウンキットと組み立てられたユニットが異なる場合、関連する税関評価フレームワーク; 設定された宛先へ進む 設定された 値 の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定する の 設定 の 設定 の 設定 の 設定 の 設定 の 設定 設定 の 設定 設定 の 設定 設定 の 設定 の 設定 設定 の 設定 設定 の 設定 設定 設定 の 設定 設定 設定 設定 の 設定 の 設定 設定 設定 設定 設定 設定 設定 設定 の の 設定 設定 設定 設定 設定 の 設定 の の 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 設定 の 設定 設定 設定 設定 設定 設定 設定
-| ワコワ HS 憲章 — 分類器(GRI) | 世界税関機関 | エントリー | T1/T2 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | 総合解釈規則(GRI 2(a)を含む)は、組み立てられない/分解されたノックダウン商品の分類を規定する; ディープページ |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
+| 汽车CKD散件出口原产地证填制（行业流程，仅线索） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 成套散件(SKD/CKD)进口申请表说明（反向参考，directory/listing） | 顺企网 | CN | directory/listing | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| WTO Agreement on Customs Valuation | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs |
+| WCO HS Nomenclature — classification instruments (GRI) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

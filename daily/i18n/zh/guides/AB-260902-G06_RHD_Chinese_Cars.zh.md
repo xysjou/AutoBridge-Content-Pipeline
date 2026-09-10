@@ -58,7 +58,7 @@ QQ05在2026年3月曼谷动车组选秀(泰语RHD前景)上以NEVO Q05显示.
 
 ## 经常被问到的问题
 
-**中国品牌是否制造真正的RHD车? ** 是的, - MG, 已经是了 。 拜拜 拜拜 拜拜 格瓦西-哈瓦尔,  and  其他人则经营工厂的生殖健康方案,  and  Dongfeng officially launched RHD models in Thailand in March 2026; 证实官方频道的准确模式 因为列表更改。
+**中国品牌是否制造真正的RHD车? ** 是的, - MG, 已经是了 。 拜 格瓦西-哈瓦尔,  and  其他人则经营工厂的生殖健康方案,  and  Dongfeng officially launched RHD models in Thailand in March 2026; 证实官方频道的准确模式 因为列表更改。
 ** BYD Atto 3与袁加相同吗? ** Atto 3是袁加平台的出口市场名称;由VIN/spec而不是名称匹配.
 单иㄓ碞р进LHDó 传ΘRHD盾 一般来说,它不是安全或在法律上的——它影响结构、批准和保修;取而代之的是工厂的放射性能。
 ** 为泰国建造的RHD汽车在联合王国/澳大利亚工作吗? ** 并非自动——每个RHD市场都有自己的同位化和本地化要求.
@@ -90,18 +90,18 @@ QQ05在2026年3月曼谷动车组选秀(泰语RHD前景)上以NEVO Q05显示.
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## 源码验证(V)
+## Sources & Verification
 
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| RHD 中国汽车市场指南 | StarVia Auto(出口服务) | 红外线市场 | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide 维基月球 | 2026-09-02 | 横跨 | MG/GWM 放射性气体分流线和市场(工业;核查) |
-| 中国的哪辆车适合购买RHD | StarVia Auto(出口服务) | 红外线市场 | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive 维基月球 | 2026-09-02 | 横跨 | BYD Atto 3/Dolphin/Seal RHD(工业; 核查) |
-| RHD | FOBEV(出口服务) | 红外线市场 | https://www.fobev.com/vehicles/rhd-ready/ 维基月球 | 2026-09-02 | 横跨 | 优EX5 平行LHD/RHD,Zeekr RHD(工业;核查) |
-| 东风福兴进入泰国(官方) | 东风汽车集团(官方) | TH 电话 | https://www.dfmc.com.cn/news/company/news_20260311_1142.html 维基月球 | 2026-09-02 | 实录 | March-2026 Thailand entry, 日内瓦星期五/V9(已生效) |
-| 长安NEVO Q05 曼谷的首映会 | 自动家庭 车家号 (媒体) | TH 电话 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 维基月球 | 2026-09-02 | 横跨 | NEVO Q05 国家 泰国RHD前景(媒体;核查) |
-| | smzdm(汇总器);自动报告(工业) | 红外线市场 | https://post.m.smzdm.com/p/aqrp0mkp/ (中文(简体)). https://m.autoreport.cn/guoji/20260829/19112676566.html 维基月球 | 2026-09-02 | 横跨 | Hongqi RHD推;~35% 全球RHD市场销售量 |
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-*Confident note(AutoBridge标准):只有东风的泰国RHD发射是VRIFIED(制造商官方). 品牌模型列表是出口服务/媒体快照(SINGLE_SOURCE),经常变化,必须在官方品牌/本地分销渠道上通过VIN确认. 市场转产后的合法性没有得到核实,被标为风险。 * 报告迟交是因为需要翻译。
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (single source) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

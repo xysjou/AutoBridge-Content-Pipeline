@@ -42,7 +42,7 @@ Panduan Bea Cukai membedakan roda listrik dengan penggunaan dan identifikasi: a 
 
 ## Apa yang Halaman Ini Dilakukan Secara sengaja Bukan Negara
 - ** Tujuan tingkat tugas impor **: mereka membutuhkan tarif impor negara untuk subheading yang tepat dan di luar lingkup untuk halaman klasifikasi export- sisi.
-- ** The tendigit yang tepat subheading nasional dan tingkat interim **: mereka berubah dengan tariff tahunan - mengutip ** 2026 edisi  and  yang mengimplementasikan nomor pengumuman GACC ** pada setiap deklarasi daripada mengandalkan tabel referensi 2018/2020 yang lebih tua.
+- **Subpos nasional sepuluh digit yang tepat dan tarif interim**: keduanya berubah mengikuti tarif tahunan — kutip **edisi 2026 dan nomor pengumuman GACC yang menerapkannya** pada setiap deklarasi, daripada mengandalkan tabel acuan 2018/2020 yang lebih lama.
 
 ## Daftar Data Deklarasi Sebelumnya
 - Kepala sekolah menggunakan ditulis dan dipertahankan.
@@ -83,17 +83,17 @@ Apa bedanya antara 87.04 dan 87.05? 87.04 membawa barang; 87.05 ada untuk melaku
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Impor dan Ekspor Tariff dari PRC (2026), Tariff Komisi Dewan Negara | Kementerian Keuangan (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | TERBATAI (primer) | 87.01–87.05/8716 sekarang nama heading |
-| Pengumuman GACC dalam melaksanakan Program penyesuaian kecepatan 2026 tariff | Administrasi Umum Bea Cukai Cina | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | TERBATAI (primer) | 2026 dasar penegakan, peraturan tahunan-subheading |
-| 2026 Permohonan HS 87 heading | i5a6 Sistem permintaan HS | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | _ BERDECAT | Tajuk navigasi |
-| Bea Cukai Q & A pada roda tiga listrik (8703.80 8704.60) | Rilis Bea Cukai (reposs) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE _ SOURCE | Tiga - roda split, 8704.6000 |
-* Catatan Scope: dasar saat ini adalah 2026 tariff dan yang GACC mengimplementasikan pengumuman; tabel lama 2018/2020 tidak lagi digunakan sebagai dasar utama. Tugas tujuan dan sepuluh digit yang tepat subheading di luar lingkup dan harus diperiksa per negara / per tariff tahun. ♪
+| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
+| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
+| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | single source | Three-wheeler split, 8704.6000 |
+*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | TERBATAI | 870340 等子目官方归类名称 混合动力 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局) PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | TERBATAI | 870230/870240 大中型 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

@@ -42,15 +42,15 @@
 ** ** 更正标有标记的字段,并重新提交一致的文件。
 ** ** 不——它们各不相同,这里没有引用。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物申报管理规定(海关总署令第 277 号) (中文(简体)). | 中华人民共和国海关总署 维基月球 | 氯化萘 | T1 | 实录 | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html 维基月球 | 申报主体,  随附单证, 退单重报 维基月球 |
-| 海关总署令第 277 号 (国务院公报) (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html 维基月球 | 规定全文一致性核验 维基月球 |
-| 进出口货物申报指南(单一窗口录入与登录) (中文(简体)). | 中国贸促会宁夏委员会 维基月球 | 氯化萘 | T1 | 实录 | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html 维基月球 | 单一窗口 IC 卡 USBKey 登录, 电子申报 单数 |
-| 出口大型货物手续流程 (申报 - 缴税 - 放行) (中文(简体)). | 中华人民共和国海关总署 维基月球 | 氯化萘 | T1 | 实录 | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 维基月球 | 出口通关步骤, 报关单填制规范引用 (单位:千美元) |
-| | 世界海关组织 | INT 信息技术 | T1/T2 | 实录 | https://www.wcoomd.org/en/topics/facilitation.aspx 维基月球 | 国家申报门户所执行的国际单一窗口和协调的边界管理框架 |
-| 世贸组织贸易便利化协定(第10.4条单一窗口) | 世界贸易组织 | INT 信息技术 | T1/T2 | 实录 | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm 维基月球 | 第10.4条要求成员通过单一窗口提交进出口单据 |
+| 中华人民共和国海关进出口货物申报管理规定（海关总署令第277号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
+| 海关总署令第277号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
+| 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
+| 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -69,7 +69,7 @@
 - 电话: 电话: 准确的中国出口海关申报单和车辆单一窗口流程
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
   - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export

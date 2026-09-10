@@ -39,7 +39,7 @@ The JAC Junling V6 (骏铃 V6,2024/2025) هو شاحنة خفيفة من الد�
 وبالنسبة للمشترين الذين يوزعون المدن، فإن نقطة التداول بالطلب التي غالبا ما تسبب المنازعات هي ** التي تحكم الحمل القانوني في سوق المقصد**. وهناك ثلاثة أرقام مختلفة عن تصنيف الزراقات الزرقاء الصينية، وحمولة المصنع، والحد الأقصى للشحنة المرفئية في المقصد؛ ويجب تحديد الشاحنة على قاعدة المقصد الملزمة بدلا من أن تكون أكثر السخاء من الثلاثة. كما أن طول قاعدة العجلات وصناديق الشحنات يتفاعل مع القيود على دائرة التحول والقيود على طول النطاق المحلي، لذا فإن الصندوق الذي يُختار فقط إلى أقصى حجم يمكن أن يخلق مركبة غير مستقرة على الطرق الحضرية الضيقة. تأكيد أن الـ (GVW) و (كتلة الكريب) و الحمولة وقاعدة العجلات و (الصندوق) هي واحدة متطابقة مع مجموعة الـ (بروفورما) وتشترط على المورد أن يربط كل رقم جماعي بمصدره قبل الإيداع.
 
 ## التحقق من المشتري في الخارج قبل الدفع
-1. Confirm GVW 4.495 t payload 1.735 t against the MIIT announcement or JAC OEM sheet.
+1. طابق الكتلة الإجمالية GVW 4.495 t والحمولة 1.735 t مع إعلان MIIT أو ورشة JAC الرسمية.
 2. اجمعي مع ابعاد صندوق الشحن الداخلي للجسم المقصود
 3. محرك تأكيد (يونني D25 أنكانغ 160) معدات  and  أكشاك خلفية لدعم الأجزاء
 4. التحقق من مرحلة انبعاثات الديزل ودرجة المقصد GVW/licensing.
@@ -52,16 +52,16 @@ The JAC Junling V6 (骏铃 V6,2024/2025) هو شاحنة خفيفة من الد�
 ** مهندس** Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m on the captured line.
 ** أين تفاصيل لم يتم القبض عليه، أطلب من مكتب مراقبة الطوارئ أن يبني ورقة البناء.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级T3） | 卡车之家官方号（今日头条镜像） | CN | T3 | صرخات | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | T3 | صرخات | http://m.toutiao.com/group/6889691682774876685/ | 云内 D25 参数 货厢 |
-| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | T3 | صرخات | http://m.toutiao.com/group/6807685915310293507/ | 安康 160, 变速箱 |
-| 骏铃V6 二手信息（仅线索T4，不作参数依据） | 58同城二手车 | CN | T4 | صرخات | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JAC الموقع الرسمي | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | T1 | مفقود | https://www.jac.com.cn/ | الهوية وسلطة منظمة أوغ |
- of Ministry of Industry and Information Technology (MIIT) | MIIT |第CN | T1 | |  مفقود https://www.miit.gov.cn/ | | | | | |MISSION 第第第号建议定书》第号建议定书》第号建议的。
-| State Administration for Market Regulation (SAMR) | SAMR 国家法市场国监法监的)的. | | CN | T1 | | | https://www.samr.gov.cn/ . national, paras., p., 第号建议،号建议.。
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

@@ -85,19 +85,19 @@ O Código Marítimo revisto fornece a arquitectura jurídica subjacente às dife
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Fontes e Verificação
-| Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Código Marítimo da RPC (revisão 2025, Ordem Presidencial 58, em vigor 2026-05-01) texto integral | Comité Permanente do PCN | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primário) | Arts.80/81/87, versão  and  Data de eficácia |
-| Original B/L telex Sea Waybill explicou | Wiki de negócios NetEase | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definições MBL/SWB/telex |
-| Conta mestre vs conta da casa | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | Corrente MBL/HBL, prática do veículo |
-| Métodos de libertação e tipos B/L | conhecimentos da indústria | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparação de quatro métodos | 11467
-| Quatro métodos de lançamento e risco de telex (nota América do Sul) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | FONTE ÚNICA | Limite da factura de encomendas, aceitação do porto |
-| Transporte internacional de mercadorias convenções e modelos de leis | CURSO | INT' L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFICADO | Quadro jurídico comparativo dos documentos de transporte (Hague-Visby/Hamburg/Rotterdam) |
-| Documentos de transporte normalizados e referência de cláusulas | BIMCO | INT' L | https://www.bimco.org/ | 2026-09-05 | VERIFICADO | Documento marítimo/referência de fecho normalizado da indústria |
-| Documentos de transporte FIATA e prática de transporte de mercadorias | Federação Internacional de Transitários (FIATA) | INT' L | https://fiata.org/ | 2026-09-05 | VERIFICADO | Documento de encaminhamento (FBL/FCR) prática de transporte distintivo B/Ls |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-* Nota de confiança: coluna vertebral legal VERIFIED através do texto completo da revisão 2025 (em vigor 2026-05-01); definições comerciais cruzadas; taxas de transporte aceitação do porto permanecem específicas da viagem. *
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

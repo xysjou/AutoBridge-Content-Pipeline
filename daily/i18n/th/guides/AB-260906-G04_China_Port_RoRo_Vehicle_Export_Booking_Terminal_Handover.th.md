@@ -1,10 +1,10 @@
 # ส่งออกไดรเวอร์โดย RoRo จากพอร์ตจีน: การจองและ เทอร์มินัล Flow
 ## ข้อมูลเมตา SEO
 - **ชื่อ SEO**: ส่งออกเป็น Lanuary Port RoRo Model: การจองและคู่มือเทอร์มินัล
-- **คำอธิบาย Meta**: จะจองพื้นที่โรโรโร สําหรับรถส่งออกจากประเทศจีน เตรียมเอกสาร ส่งหน่วยไปยังอาคาร และจัดการส่งมอบสินค้า
+- **คำอธิบาย Meta**: จะจองพื้นที่โร สําหรับรถส่งออกจากประเทศจีน เตรียมเอกสาร ส่งหน่วยไปยังอาคาร และจัดการส่งมอบสินค้า
 - **H1**: ส่งออกไดรเวอร์โดย RoRo จากพอร์ตของจีน: การจองและ เทอร์มินัล Flow
 - **คีย์เวิร์ดหลัก**: เทอร์มินัลสําหรับส่งพอร์ตของจีน
-- **คำค้นหารอง**: Rroo ยานพาหนะส่งออกประเทศจีน; โรล-ออน-โรล-ออฟ จอง; ยานพาหนะปลายทาง ผู้โดยสาร ใบเสร็จท่าเรือโรโรโรโอ; คนส่งรถจองประเทศจีน
+- **คำค้นหารอง**: Rroo ยานพาหนะส่งออกประเทศจีน; โรล-ออน-โรล-ออฟ จอง; ยานพาหนะปลายทาง ผู้โดยสาร ใบเสร็จท่าเรือโรโอ; คนส่งรถจองประเทศจีน
 - **URL ที่แนะนำ**: /guides/china-port-roro-vehicle-export-booking-terminal-handover/
 - **เจตนาการค้นหา**: เข้าใจการส่งออกรถโดย RoRo จากพอร์ตจีน: การจองและเทอร์มินัล Flow: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนมีการสั่งซื้อ
 - **คำแนะนำลิงก์ภายใน**: /guides/china-port-container-vs-roro-choice/, /guides/ev-shipping-un3556-imdg-compliance/, /guides/ippc-ispm15-wood-packaging-export/
@@ -75,15 +75,15 @@ Rol-on-roll-off (Roro) ให้รถวิ่งได้ ภายใต้�
 
 อยู่ภายใต้การคัดเลือกของเรือบรรทุกสินค้าและความต้องการที่ดีอันตราย และความถูกต้องของ UN/MDG การจัดหมวดหมู่; ยืนยันก่อนที่จะวางบัญชี
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 温州首条汽车滚装航线开通 、 直达东南亚 (2026-09-06, 港口滚装航线现实运行佐证) พ.ศ. | 中国网 | CN | T3 | ROOS_ CHCKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
-| 中国港口协会汽车滚装分会行业背景 (行业组织). | 中国港口协会 | CN | T2 | ผู้โดยสาร_ปลายทาง | http://www.port.org.cn/ | 滚装码头行业背景  |
-| 商品车多式联运滚装操作规程 1194 — 2018 | 交通运输部 (行业标准文本). | CN | T1 | เปิดใช้งาน | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | โรโร_เมธอด — โรโร รับมือมาตรฐานการดําเนินการ; ค่าปฏิบัติการยืนยันการให้บริการด้วย ผู้ให้บริการ |
-| 港口货物作业规则 港口货物作业规则 港口货物作业规则 港口货物作业规则 ( 2000   10 号) พ พ ศ ศ 港口货物作业规则 港口货物作业规则 (พ.ศ. เอ็กซ์ เอ็กซ์ | 中国政府网 交通运输部 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/gongbao/content/2001/content_60820.htm | โรโรเมธ็อด — ส่งมอบสินค้า และหนี้สินของสินค้าที่ท่าอากาศยาน |
-| คอสโค การขนส่งเครื่อง ขนเอกสารพิเศษ (พ.ศ. | 中远海运特种运输股份有限公司 | CN | T1 | ROOS_ CHCKED | http://www.coscoshipping.com/ | โร โร_เมธอด — พาหนะ; ตาราง การ รับ ใช้ ต่อ การ เดิน ทาง, การ ยืน ยัน ก่อน การ วาง บัญชี |
-| วอลเลเนียส วิลเฮล์มเซน (ผู้ส่งสินค้าชาวโรโรโร) | วอล เลน า วิล เฮล์ม เซน | INT | T1 | ROOS_ CHCKED | https://www.walleniuswilhelmsen.com/ | โรโร_เมธอด — เครื่องส่งโรโรสากล; การยอมรับเงื่อนไขการให้บริการ |
+| 温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证） | 中国网 | CN | media/industry | CROSS_CHECKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
+| 中国港口协会汽车滚装分会行业背景（行业组织） | 中国港口协会 | CN | independent database | single source | http://www.port.org.cn/ | 滚装码头行业背景  |
+| 商品车多式联运滚装操作规程 JT/T 1194—2018 | 交通运输部（行业标准文本） | CN | primary | VERIFIED | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover operating procedure standard; operational values confirm with carrier |
+| 港口货物作业规则（交通部令2000年第10号） | 中国政府网/交通运输部 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — cargo receipt/handover and cargo-record liability at terminal |
+| COSCO Shipping Specialized Carriers (official) | 中远海运特种运输股份有限公司 | CN | primary | CROSS_CHECKED | http://www.coscoshipping.com/ | roro_method — carrier; schedules/acceptance per voyage, confirm before booking |
+| Wallenius Wilhelmsen (official RoRo carrier) | Wallenius Wilhelmsen | INT | primary | CROSS_CHECKED | https://www.walleniuswilhelmsen.com/ | roro_method — international RoRo carrier; acceptance terms carrier-specific |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

@@ -25,13 +25,13 @@
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| động cơ d25 | 云内 D25TCIF1 2.5L 柴油 150马力 | - | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| động cơ d25 mô-men xoắn | 400 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| powertrain ankang160 | 安康 160 + 6 挡全铝变速箱 + AM 后桥 | - | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| lề | 2.565 | t | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| gvw | 4.495 | t | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| nạp lại tốc độ | 1.735 | t | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
-| Hộp gói bên trong | 约4220×2075×400 | mm | TRUNG QUỐC | SINGLE_SOURCE | 卡车之家镜像 |
+| động cơ d25 | 云内 D25TCIF1 2.5L 柴油 150马力 | - | TRUNG QUỐC | single source | 卡车之家镜像 |
+| động cơ d25 mô-men xoắn | 400 | N·m | TRUNG QUỐC | single source | 卡车之家镜像 |
+| powertrain ankang160 | 安康 160 + 6 挡全铝变速箱 + AM 后桥 | - | TRUNG QUỐC | single source | 卡车之家镜像 |
+| lề | 2.565 | t | TRUNG QUỐC | single source | 卡车之家镜像 |
+| gvw | 4.495 | t | TRUNG QUỐC | single source | 卡车之家镜像 |
+| nạp lại tốc độ | 1.735 | t | TRUNG QUỐC | single source | 卡车之家镜像 |
+| Hộp gói bên trong | 约4220×2075×400 | mm | TRUNG QUỐC | single source | 卡车之家镜像 |
 
 ## Kiểm tra xuất khẩu xe tải nhẹ: khối lượng cần một nguồn chính điển
 Dữ liệu động cơ và hộp đựng hàng đến từ một nguồn thông tin xe tải có gương, trong khi **GVW/kerb/ pappload trên một chiếc gương và phải được xác nhận chống lại trang 360che tiêu chuẩn, tài liệu JCAC OEM hoặc thông báo MIIT** trước khi chúng được dùng để tải hoặc đồng nhất. Thành Tyrus, tỷ lệ tăng tốc và kích cỡ nhiên liệu không bị bắt. Đặc điểm xuất khẩu và đặc điểm lái bằng tay phải không được thiết lập ở đây.
@@ -52,16 +52,16 @@ Lớp học bảng màu xanh là gì? Xe tải thành phố dưới 4.5 t ở Tr
 **Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m trên đường dây bị bắt.
 Những chi tiết về lốp xe đâu? Không bị bắt, yêu cầu bản thiết kế OEM.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级T3） | 卡车之家官方号 (今日头条镜像) | CN | T3 | ĐÃ_ ĐÃ | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥. 自重. 总质量. 载质量 |
-| 骏铃 V6 配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN | T3 | ĐÃ_ ĐÃ | http://m.toutiao.com/group/6889691682774876685/ | 云内 D25 参数. 货厢 |
-| 骏铃 V6 车型 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN | T3 | ĐÃ_ ĐÃ | http://m.toutiao.com/group/6807685915310293507/ | 安康 160, 变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4), 不作参数依据) | 58 同城二手车 | CN | T4 | ĐÃ_ ĐÃ | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JCC Nơi Mạng chính thức của Motors | Anhui Giang Hoai Automobile JAC 江淮 (OEM) | CN | T1 | VEII | https://www.jac.com.cn/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

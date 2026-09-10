@@ -27,16 +27,16 @@ This page covers only the **third-generation Changan CS55 PLUS (2024) with the p
 ## Verified specification table (Chinese-market reference)
 | Specification | Value | Unit | Market | Confidence | Source note |
 |---|---|---|---|---|---|
-| length width height | 4539 / 1865 / 1680 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| wheelbase | 2656 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| engine | 新蓝鲸NE 1.5T | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| engine power | 141 (192Ps) | kW | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| transmission | 7DCT 湿式双离合 | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| accel 0 100 | 7.9 | s | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| fuel consumption wltc | 6.94 | L/100km | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| cargo volume | 475–1415 | L | CHINA | SINGLE_SOURCE | 搜狐车型库 |
+| length width height | 4539 / 1865 / 1680 | mm | CHINA | single source | 搜狐车型库 |
+| wheelbase | 2656 | mm | CHINA | single source | 搜狐车型库 |
+| engine | 新蓝鲸NE 1.5T | - | CHINA | single source | 搜狐车型库 |
+| engine power | 141 (192Ps) | kW | CHINA | single source | 搜狐车型库 |
+| transmission | 7DCT 湿式双离合 | - | CHINA | single source | 搜狐车型库 |
+| accel 0 100 | 7.9 | s | CHINA | single source | 搜狐车型库 |
+| fuel consumption wltc | 6.94 | L/100km | CHINA | single source | 搜狐车型库 |
+| cargo volume | 475–1415 | L | CHINA | single source | 搜狐车型库 |
 | china msrp launch range | 9.99–11.39 | 万元人民币 | CHINA | TIME_SENSITIVE | 人民网重庆 |
-| hybrid separate line | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | CHINA | SINGLE_SOURCE | 搜狐汽车 |
+| hybrid separate line | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | CHINA | single source | 搜狐汽车 |
 
 ## ICE export focus: emissions, fuel and trim confirmation
 For a petrol SUV the order-critical checks are the **emission stage and fuel compatibility** in the destination country, not electric range. China-6 calibration, OBD and fuel grade (92/95 RON expectations) must be reconciled with destination standards; the captured WLTC consumption is a lab figure that varies with fuel and load. Detailed per-trim equipment differences need the OEM configuration sheet. Keep the hybrid line on its own page rather than averaging petrol and hybrid numbers.
@@ -59,12 +59,12 @@ For a petrol SUV the order-critical checks are the **emission stage and fuel com
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代CS55PLUS上市 | 人民网重庆 | CN | T3 | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | T1 | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05

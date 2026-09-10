@@ -58,34 +58,34 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——车辆出口原产地证书,车辆-出口采购指南
 - **法国**: 汽车出口汽车运输公司——车辆出口原产地证书,汽车出口指南
 - DE**: 国家 汽车出口证书,Leitfaden für Fahrzeugexport-Einkauf
 - **ES**: 出口信贷公司——车辆出口原产地证书,出口信贷公司
--  **: 汽车出口自运公司——车辆出口原产地证书,出口自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自运自
+-  **: 汽车出口自运公司——车辆出口原产地证书,出口自运自运自
   - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Certificate of origin for vehicle export, 自動車輸出 調達ガイド
-- 科罗拉多州: 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车原产地证书 汽车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原车原产地证书 车原产地证 车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车原车
+- 科罗拉多州: 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车出口原产地证书 汽车原产地证书 汽车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原产地证书 车原车原产地证书 车原产地证 车原车
 - **VI**: 汽车运输证书, 汽车出口证书, hướng dẫn thu mua xuất khẩu xe
 - ** ** ** เอกสารอ้างอิง AutoBridge ——车辆出口原产地证书,_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 - 身份证**: 车辆出口原产地证书,Panduan pengadaan ekspor kendaraan
-- AR**: 国家 汽车舱位 汽车舱位 汽车出口原产地证书 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车舱位 汽车舱位 汽车舱 汽车舱位 汽车舱位 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车舱位 汽车舱位 汽车
+- AR**: 国家 汽车舱位 汽车舱位 汽车出口原产地证书 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车舱 汽车舱位 汽车
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GACC 第270号命令,出口CO行政措施(生效2024-09-01年) | 中国海关总署(官方PDF) | 氯化萘 | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf 维基月球 | 2026-09-04 | 实录 | 规则版本,三种类型,发行者 |
-| 出口CO行政措施(第二官方PDF) | 反腐败委员会 | 氯化萘 | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf 维基月球 | 2026-09-04 | 实录 | 非优惠用途,三种类型 |
-| 非优惠CO概览和发行机构 | 中共中央 四川(现属四川) | 氯化萘 | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 维基月球 | 2026-09-04 | 实录 | 发行商,普通CO不收费 |
-*范围说明:中国仅发单方;具体自贸试验区规则和目的地优惠决定超出范围,按协议/国计价. * 报告迟交是因为需要翻译。
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| 《中华人民共和国原产地证书条例》(国务院令第416号) | 中华人民共和国国务院 | 氯化萘 | https://www.gov.cn/gongbao/content/2005/content_64193.htm 维基月球 | 2026-09-05 | 实录 | 中国颁发优惠和非优惠原产地证书的法律依据. |
-| 《原产地规则协定》 | 世界贸易组织(世贸组织) | INTL (美国英语). | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm 维基月球 | 2026-09-05 | 实录 | 多边原产地规则框架 |
-| 原产地规则专题 | 世界海关组织(海关组织) | INTL (美国英语). | http://www.wcoomd.org/ 维基月球 | 2026-09-05 | 实录 | 海关来源分类和认证参考 |
-| 中国自由贸易区服务网(自贸试验区关税待遇). | 财政部 | l | http://fta.mofcom.gov.cn/ 维基月球 | 2026-09-05 | 实录 | |
-| 原产地证书和外贸证书 | 中国国际贸易促进理事会(CCPIT) | 氯化萘 | http://www.ccpit.org/ 维基月球 | 2026-09-05 | 实录 | CCPIT 非优惠原产地证书渠道 |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

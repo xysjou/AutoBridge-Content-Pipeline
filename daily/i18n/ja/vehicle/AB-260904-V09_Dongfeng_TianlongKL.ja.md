@@ -22,7 +22,7 @@
 | 油圧エンジン | Longqing ** DDi11E465-60 **, インライン- 6 ディーゼル, 10.8 L |
 | 評価される力 | **343 kW (≈465 PS)** |
 | 純力 | ** 337 kW ** — 別の測定基準, 矛盾しない |
-| ピークトルク | 2240 N·m @ 1100–1600 rpm** の は す れ い す れ い す い す い す い す い す い す い す い す い す い す い す い い す い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い い |
+| ピークトルク | 2240 N·m @ 1100–1600 rpm** の は す れ い す れ い す い す い す い す い す い す い す い す い す い す い す い い す い |
 | ミッション | 中国- 6 ディーゼル |
 
 343 kW と 337 kW の数字は、異なるベースで許容対正**の電力です。 ラベルを一つではなく、ラベルを両方提示します。 Torque plateau (1100–1600 rpm) is what matters for hauling gradeability.
@@ -80,22 +80,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ティアンロン KL465 ロングクリングパワートレイン&品質 | オートホーム・ケジアオ | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED(クロス) | DDi11、力/トルク、14-speed |
-| Tianlong KL 465 AMTの変数 | テセントニュース | CN の | 担当: http://news.qq.com/rain/a/20231120A0697W00 のファイル | 2026-09-04 | シングル_ソース | AMTオプション、トルクバンド |
-| Tianlong KL 465 のシャーシ及び変速機 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED(クロス) | DT1422、GVWR、縁、GCW |
-| Dongfeng Tianlong力(encyclopediaの交差逆止) | PCauto 百科事典 | CN の | 担当: http://m.pcauto.com.cn/baike/1124005/2143996/ の | 2026-09-04 | シングル_ソース | パワーベースクロスチェック |
-.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... | 2026-09-05 | 検証済み | 注文するか 、 または輸出する前に製造業者、 承認されたモデルおよび均質化 (公告) のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| GB 7258モーター車安全技術的な条件(GB 7258- 2017の流れ; GB  7258- 2026 applies from 2027-07-01) | 市場規制の  SAMR 、 州政局 |  CN  の | 以下は 、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
-|  GB  17691-2018 の頑丈なディーゼル車の汚染物質の放出 (中国  VI) | エコロジー・環境省 (MEE) |  CN  の | 以下は 、 の | 2026-09-05 | 検証済み | 中国の  VI  | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
+| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_CHECKED | DDi11, power/torque, 14-speed |
+| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | single source | AMT option, torque band |
+| Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED | DT1422, GVWR, curb, GCW |
+| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | single source | Power-basis cross-check |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-※本会議ノート:OEMの第一次パンフレット、貿易の交差チェック無し。 ラベル付き。その他の電力およびガスバージョンを除く。 中国語市場参照; MIIT発表で確認して下さい。 ふりがな
+*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:中国、Tianlong KL DDi11E465-60トラクター(中国市場参照;評価/ネットラベル付き;グローバルスペックではありません)
 - **検証方法**: 取引データベースのクロスチェック; パワーベースが解明; バリアントラインアップ分離

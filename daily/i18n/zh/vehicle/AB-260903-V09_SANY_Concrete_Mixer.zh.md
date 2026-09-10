@@ -1,6 +1,6 @@
 # 混凝土混合机车(SY系列):读作 以底盘+超结构+鼓力
 ## SEO元数据
-- **SEO标题**: SANY 维基月球 混凝土混合机车光谱:鼓力、底盘和导出
+- **SEO标题**: SANY  混凝土混合机车光谱:鼓力、底盘和导出
 - **Meta描述**: Chinese-market  SANY   SY -series mixer trucks — 6–10 m³ drums,   SY310C-8S (V) 10 m³ with 400 L water tank, 希诺/尤沙伊/威海/萨尼 动力发动机, 综合框架,  and  an 8×4  BEV  option.
 - **H1**: SANY SY - 串联混凝土混凝土混合机车(中马):超结构,底盘和出口检查
 - **核心关键词**: 桑尼混凝土搅拌机卡车规格
@@ -74,19 +74,19 @@ An **8×4 all-electric mixer** is reported with a Fast (法士特) TZ368XSSFD01 
   - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
   - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| SANY 搅拌机-拖车产品线(电容/发动机品牌) | SANY集团(OEM官方, 氯化萘网站) | | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ 维基月球 | 2026-09-03 | 实录 | 6–7/8–9/10立方米的波段; 日诺/尤恰伊/威海/任何电源 |
-| SY310C-8S(V) 10立方米模型参数 | SANY集团(OEM官员) | | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ 维基月球 | 2026-09-03 | 实录 | 10立方米的鼓, 400 L 水,(水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, 水, D09C5-380E3引擎(U) |
-| SANY电动搅拌机公告(350 kW). | | 氯化萘 | http://m.toutiao.com/group/6877415697362715147/ 维基月球 | 2026-09-03 | 资源 | 8×4 BEV,350峰/215标值千瓦 |
-| SANY integrated frame 20 m³ mixer | | 氯化萘 | http://m.toutiao.com/group/6705156123395097102/ 维基月球 | 2026-09-03 | 横跨 | 综合框架工程,大宗类背景 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 17691-2018 重型柴油机车污染物排放(中国六级). | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html 维基月球 | 2026-09-05 | 实录 | 中VI型压缩-燃(重型柴油)车/车厢排放级 |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
+| SANY mixer-truck product line (capacities/engine brands) | SANY Group (OEM official, CN-language site) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | VERIFIED | 6–7/8–9/10 m³ bands; Hino/Yuchai/Weichai/Sany Power |
+| SY310C-8S(V) 10 m³ model parameters | SANY Group (OEM official) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VERIFIED | 10 m³ drum, 400 L water, D09C5-380E3 engine |
+| SANY electric mixer announcement (350 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | single source | 8×4 BEV, 350 peak/215 rated kW |
+| SANY integrated frame / 20 m³ mixer | Hunan Daily / Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | CROSS_CHECKED | Integrated-frame engineering, large-size class context |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* 说明:鼓容量和发动机品牌在SANY自己的OEM页面(scope 产品规格)上是VRIFIED的. 集成帧细节和BEV电动机是单源的,需要在当前同位素模型代码上确认. 价格没有确定。 * 报告迟交是因为需要翻译。
+*Confidence note: drum capacities and engine brands are VERIFIED on SANY's own OEM pages (scope = product specification). Integrated-frame detail and the BEV motor are single-source and require confirmation on the current homologated model code. No price is asserted.*
 
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)

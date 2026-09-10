@@ -27,16 +27,16 @@ Trang này chỉ có trong thế hệ thứ ba Changan CS55 PLUS (2024) với ng
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài | 4539 1865 1680 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| bánh xe cơ sở | 2656 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| động cơ | 新蓝鲸 NE 1.5T | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| Nguồn động cơ | 141 (192Ps) | kW | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| gửi | 7DCT 湿式双离合 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| accel 0 100 | 7.9 | s | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| hao hao hao nhiên liệu | 6.94 | L/100km | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| khối lượng hàng hóa | 475–1415 | L | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
+| Chiều dài | 4539 1865 1680 | mm | TRUNG QUỐC | single source | 搜狐车型库 |
+| bánh xe cơ sở | 2656 | mm | TRUNG QUỐC | single source | 搜狐车型库 |
+| động cơ | 新蓝鲸 NE 1.5T | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| Nguồn động cơ | 141 (192Ps) | kW | TRUNG QUỐC | single source | 搜狐车型库 |
+| gửi | 7DCT 湿式双离合 | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| accel 0 100 | 7.9 | s | TRUNG QUỐC | single source | 搜狐车型库 |
+| hao hao hao nhiên liệu | 6.94 | L/100km | TRUNG QUỐC | single source | 搜狐车型库 |
+| khối lượng hàng hóa | 475–1415 | L | TRUNG QUỐC | single source | 搜狐车型库 |
 | Phạm vi phóng msrp Trung Quốc | 9.99–11.39 | 万元人民币 | TRUNG QUỐC | T_ TIẾNG TÂM | 人民网重庆 |
-| dòng riêng | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
+| dòng riêng | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | - | TRUNG QUỐC | single source | 搜狐汽车 |
 
 ## Tiêu điểm xuất khẩu CE: thải, nhiên liệu và cắt giảm xác nhận
 Đối với một chiếc SUV xăng, kiểm tra theo thứ tự là giai đoạn **cho phép sử dụng nhiên liệu tương thích** ở nước đích, không phải trong phạm vi điện. Dự đoán của Trung Quốc 6, mức độ sản xuất nhiên liệu và nhiên liệu (92/95 RON) phải được điều hòa với tiêu chuẩn đích đến; tiêu thụ WLTC bị bắt là một con số phòng thí nghiệm khác nhau với nhiên liệu và nạp đạn. Thiết bị khác nhau trên từng phần cần có tấm trải OEM. Giữ đường dây lai trên trang cá nhân chứ không phải là đường truyền dầu hỏa và số điện thoại lai.
@@ -53,17 +53,17 @@ Có bao gồm CS55 người lai không? Không, người lai là một đường
 Tiêu chuẩn tiết ra bao nhiêu? Xác nhận Trung Quốc 6 chống lại quy tắc đích đến, xem hướng dẫn khí thải/fuel.
 ** 6.94 L 100 km là một nhân vật thế giới thực? Nó là một giá trị phòng thí nghiệm WLTC; sử dụng thực sự khác nhau.
 **Có phải 99, 900 RMB là giá xuất khẩu?** Không, đó là tham khảo về việc phóng tàu trong nước.
-**Which transmission?** 7-speed wet dual-clutch (7DCT) on the captured line.
+**Hộp số nào?** Hộp ly hợp kép ướt 7 cấp (7DCT) trên cấu hình ghi nhận.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | T2 | ĐÃ_ ĐÃ | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距. 动力. 变速箱. 油耗. 行李厢 |
-| 第三代 CS55PLUS 上市 | 人民网重庆 | CN | T3 | ĐÃ_ ĐÃ | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | T2 | ĐÃ_ ĐÃ | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分 (不得混入燃油) |
-| Trương Nam Nơi Mạng chính thức tự động lưu động | Máy tự động Changan 长安汽车 (OEM) | CN | T1 | VEII | https://www.globalchangan.com/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
+| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
+| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

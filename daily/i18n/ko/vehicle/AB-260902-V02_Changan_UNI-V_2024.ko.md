@@ -38,7 +38,7 @@ UNI-V는 Changan의 컴팩트 한 빠른 백 세단 - 다섯 개의 문, 다섯 
 |---|---|
 | 길이 × 폭 × 고도 | 4720 × 1838 × 1430 mm (1.5T 尊贵型); 4680 mm (高能版); 4705 mm (2.0T) |
 | 휠베이스 | 2750 mm (모든 트림, 공식 확인) |
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 프론트 MacPherson 독립적 후방 멀티 링크 독립적 |
+| 의 | 프론트 MacPherson 독립적 후방 멀티 링크 독립적 |
 | 의 의 | 5-door 5-seat의 fastback, monocoque |
 | 제한 무게 | ~ 1415 kg 1.5T 尊享型 (단일 자원: Autohome - VIN 판에 확인) |
 
@@ -105,18 +105,18 @@ Config 테이블 목록 엔진 및 등급은 물론 주문 오류를 발생시�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
 
-## 소스 및 검증
+## Sources & Verification
 
-| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| UNI-V 高能版 공식 페이지 | 창간 자동차 (공식) | 담당자: Mr. wang | https://www.changan.com.cn/car/UNI-V-high/ 의 경우 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 차원 범위, 2750 mm 축거, 궤도 |
-| UNI-V 2nd-gen 공식 페이지 | 창간 자동차 (공식) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https: 으로 변경 | 2026-09-02 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 파란 Whale 1.5T 138 kW/300 N·m, 7DCT | https://www.changan.com.cn/car/UNI-V-2nd/
-| 2024 1.5T 尊贵型년 의 특징 | 오토홈 (汽车之家) | 담당자: Mr. wang | https://dealer.autohome.com.cn/2173671/spec_66852.html 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 1.5T 산출, 4720 mm 길이, WLTC 6.37 |
-| 2024 UNI-V 구성 테이블 | PCauto (太平洋汽车년) | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_체크 | 2.0T 171 kW/390 N·m, 8AT 디젤 엔진
-| UNI-V 사양 페이지 | Autohome 설정 | 담당자: Mr. wang | https://www.autohome.com.cn/config/spec/66851.html 으로 설정 | 2026-09-02 | SINGLE_SOURCE(싱글) | 제한 무게 (단일 소스) |
-| 새로운 UNI-V 출시 보고서 | Ifeng 자동차 (凤凰网汽车) | 담당자: Mr. wang | https://auto.ifeng.com/c/8Y79qxCFD3L 경우 | 2026-09-02 | CROSS_체크 | MacPherson/다 링크 중단, 구동 |
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-*Confidence 참고 (AutoBridge 표준): 1.5T 파워 트레인 및 2750 mm 휠베이스는 Changan의 자체 페이지에서 입증됩니다 (제조 업체 공식). 2.0T 숫자는 독립적 인 데이터베이스를 통해 CROSS_CHECKED입니다. 커브 무게는 SINGLE_입니다. SOURCE는 준수 판에 일치해야합니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
 
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법

@@ -30,13 +30,13 @@
 | Chiều dài băng | 4850 1900 1715 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 搜狐 |
 | Chiều rộng: | 4850 1900 1740 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 太平洋 |
 | bánh xe cơ sở | 2900 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 搜狐 |
-| Ghế ngồi | 7 (5 门, 平开门) | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| Name | 1.5T 154马力 L4 | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| rômen xoắn động cơ phev | 230 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Mô-men xoắn động cơ phev | 310 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Truyền tín hiệu phev | 1 挡 DHT | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Tốc độ đỉnh phev | 180 | km/h | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
-| Name | 不支持快充 (汽车之家口径) | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |
+| Ghế ngồi | 7 (5 门, 平开门) | - | TRUNG QUỐC | single source | 搜狐车型库 |
+| Name | 1.5T 154马力 L4 | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| rômen xoắn động cơ phev | 230 | N·m | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Mô-men xoắn động cơ phev | 310 | N·m | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Truyền tín hiệu phev | 1 挡 DHT | - | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Tốc độ đỉnh phev | 180 | km/h | TRUNG QUỐC | single source | 汽车之家车家号 |
+| Name | 不支持快充 (汽车之家口径) | - | TRUNG QUỐC | single source | 汽车之家车家号 |
 | khởi động bằng thư mục đích | 15.49 | 万元人民币 | TRUNG QUỐC | T_ TIẾNG TÂM | 车主之家 |
 
 ## Tiêu điểm thu thập quân: chỗ ngồi, chuyển đổi và những gì cố tình thiếu
@@ -56,16 +56,16 @@ Nó có sạc nhanh không? Một nguồn tin nói không có DC sạc nhanh; x�
 **Có phải 154, 900 RMB là giá xuất khẩu?** Không, chỉ tham khảo trong nước thôi.
 **Có thể chuyển đổi thành tàu con thoi/một xe cứu thương không? Là một sự tăng cường; đánh giá tách khỏi MPV căn cứ.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | ĐÃ_ ĐÃ | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距. 座椅. 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHV 动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | ĐÃ_ ĐÃ | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位. 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | ĐÃ_ ĐÃ | https://m.16888.com/news/2026/0807/24830307.html | PHV 上市信息 |
-| Phong Phong, hiện trường chính thức là Đông Phong | Phong Lưu Châu Động cơ chủ lực 东风风行 | CN | T1 | VEII | https://www.forthingmotor.com/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
-| Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
-| Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

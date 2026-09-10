@@ -43,15 +43,15 @@ Hướng dẫn này không liệt kê tất cả các bên hợp đồng, đảm
 **TIR có thay thế bản tuyên bố xuất khẩu không? Không, nó hoạt động cùng với lời tuyên bố xuất khẩu ở Trung Quốc.
 Nó có che chở hàng hải không? Nó là một đường (và hệ thống giao thông đường sá; xác nhận phạm vi theo phương thức cho đường đi.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
-| 海关总署公告2026年第2号（PDF原件） | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1 | 公告全文一致性核验 |
-| 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化), 搜狐转载) | CN | T3 | ĐÃ_ ĐÃ | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
-| Hội nghị TIR, 1975 — Bản chính thức của Bộ sưu tập Hiệp ước Liên Hiệp Quốc | Bộ sưu tập Hiệp ước Liên Hiệp Quốc | I - MI | T1/T2 | VEII | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Văn bản hợp pháp chính thức của Công ước Hải quan về việc vận chuyển hàng hóa quốc tế dưới bìa TIR Carnets |
-| IRU — Hệ thống mạng TIR và bảo đảm dây chuyền | Liên minh lưu thông quốc tế (T.U) | I - MI | T1/T2 | VEII | https://www.iru.org/ | TIR carnet phát hành liên minh; giải thích các yêu cầu bảo đảm dây chuyền và điều khiển điều khiển |
+| 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR证交验, 适用范围扩展 |
+| 海关总署公告2026年第2号（PDF原件） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | 公告全文一致性核验 |
+| 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
+| TIR国际公路运输及服务指南（政策解读） | 武汉市（促进跨境贸易便利化，搜狐转载） | CN | media/industry | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国2016加入/2019全国实施/2026扩展跨境电商保税 |
+| TIR Convention, 1975 — UN Treaty Collection official text | United Nations Treaty Collection | INT | primary/independent | VERIFIED | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Official legal text of the Customs Convention on the International Transport of Goods under Cover of TIR Carnets |
+| IRU — TIR carnet system and guarantee chain | International Road Transport Union (IRU) | INT | primary/independent | VERIFIED | https://www.iru.org/ | TIR carnet issuing federation; explains the guarantee chain and controlled operator requirements |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

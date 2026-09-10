@@ -42,16 +42,16 @@
 我什么时候提交? 出口申报后,附具相应凭证,在本规定期限内办理.
 ** 为什么FX和海关必须匹配? **
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退(免) 税管理办法(税务总局公告) (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm 维基月球 | 申报期限, 免抵退申报资料 (单位:千美元) |
-| 关于出口业务增值税和消费税政策的公告 维基月球 | 中华人民共和国财政部 维基月球 | 氯化萘 | T1 | 实录 | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm 维基月球 | (中文(简体)). |（免抵退）（免退税办法定义）
-| 出口货物劳务免抵退税和免退税如何计算 维基月球 | 国家税务总局 维基月球 | 氯化萘 | T1 | 实录 | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html 维基月球 | (中文(简体)). |（当期应退）（免抵税额计算）
-| 进出口税收热点问题 (2026 年 7 月) (中文(简体)). | 国家税务总局北京市税务局 维基月球 | 氯化萘 | T1 | 实录 | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml 维基月球 | 报关后申报与核销 维基月球 |
-| 国家税务局(STA) | STA 国家税务总局 国家 | 氯化萘 | T1 | 实录 | https://www.chinatax.gov.cn/ 维基月球 | |
-| GACC——作为增值税退款核查基础的出口申报 | 中国海关总署(海关总署 GACC) | 氯化萘 | T1/T2 | 实录 | http://www.customs.gov.cn/ 维基月球 | 海关出口申报数据由税务机关对出口增值税退税/退税资格进行核对. |
-| STA——出口增值税退税政策指数(深页). | 国家税务局(国家税务总局 STA) | 氯化萘 | T1/T2 | 实录 | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ 维基月球 | 税务机关政策栏,内有当前出口增值税退税/免征通知(此处不主张退税率). |
+| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | primary | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退/免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
+| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | primary | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
+| State Taxation Administration (STA) | STA 国家税务总局 | CN | primary | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
+| GACC — export declaration as VAT-refund verification basis | General Administration of Customs of China (海关总署 GACC) | CN | primary/independent | VERIFIED | http://www.customs.gov.cn/ | Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility |
+| STA — export VAT refund policy index (deep page) | State Taxation Administration (国家税务总局 STA) | CN | primary/independent | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here) |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -70,7 +70,7 @@
 - 电话: 电话: 出口增值税 退款
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export

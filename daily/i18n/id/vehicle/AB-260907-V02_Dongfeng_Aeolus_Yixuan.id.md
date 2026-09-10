@@ -25,8 +25,8 @@ Dasar CMP sinyal sebuah Torsion- beam / transverse- tata letak drive ditujukan p
 
 | Baris | Referensi pasar-Cina | Gearbox | Periode / status | Percaya diri |
 |---|---|---|---|---|
-| 1.5L alami aspirasi (2025) | 92 kW (125 PS) / 158 N·m; WLTC dikombinasikan oleh £6.24 L / 100 km | 6-speed dual- kopling basah | 2025 baris utama saat ini | SINGLE_SOURCE — konfirmasi oleh VIN / OEM|
-| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed basah dualkopling | 2022/2023 lebih tua garis, bukan 2025 baris utama | SINGLE_SOURCE — baris historis|
+| 1.5L alami aspirasi (2025) | 92 kW (125 PS) / 158 N·m; WLTC dikombinasikan oleh £6.24 L / 100 km | 6-speed dual- kopling basah | 2025 baris utama saat ini | single source — konfirmasi oleh VIN / OEM|
+| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed basah dualkopling | 2022/2023 lebih tua garis, bukan 2025 baris utama | single source — baris historis|
 
 Jarak kinerja antara keduanya cukup besar untuk mengubah keputusan pembeli, itulah sebabnya mereka tidak harus bergabung menjadi satu "Mesin Yixuan". Gach 1.5T harus diberi label sebagai ** sebelumnya ** kereta api, menyajikan sebagai sedan yang tersedia saat ini akan salah mewakili line- up. Kedua keluaran saat ini beristirahat pada satu sumber independen dan harus ditutup terhadap halaman konfigurasi resmi Aeolus atau entri homologasi MIIT tepat sebelum kontraksi. Konsumsi bahan bakar dikutip pada siklus ** WLTC ** dan tidak boleh dibandingkan dengan NEDC atau CLTC angka dari mobil lain.
 
@@ -68,19 +68,19 @@ Dimensi referensi 4670 × 1812 × 1490 mm dengan sebuah pangkalan roda 2680 mm; 
 
 Tak ada RHD pabrik yang didirikan oleh sumber pasar Cinese- di sini; spesifikasi RHD dan ekspor memerlukan bukti OEM terpisah.
 
-## Sumber & Verifikasi
-| Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
 - ** Terakhir ditinjau **: 2026-09-08
-- ** Referensi pasar **: CHINA（中国市场参考；1.5L与马赫1.5T精确功率为单一来源，须风神官方/公告按年款SKU终核）
+- ** Referensi pasar **: CHINA（China-market reference；1.5L与马赫1.5T精确功率为单一来源，须风神官方/公告按年款SKUfinal confirmation）
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Hasil tunggal sumber, garis tipis dan harga referensi domestik harus dikonfirmasi kembali pada lembar OEM atau entri MIIT sebelum melakukan transakting.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

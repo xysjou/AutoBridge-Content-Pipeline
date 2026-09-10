@@ -73,16 +73,16 @@ J6F มี การ เสนอ เครื่อง ยนต์ หลา�
 
 ใช่ แต่เก็บเรื่องโออีเอ็ม แชสซิสไว้ และให้การอนุมัติระดับสุดยอดท้องถิ่น
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号 (今日头条镜像). | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
-| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号 (今日头条镜像). | จีน | T3 | ผู้โดยสาร_ปลายทาง | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
-| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | จีน | T1 | เปิดใช้งาน | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F 二手 在售配置样本 (额定载重区间线索, T4). | 58同城 | จีน | T4 | ไม่ได้รับมอบ | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告 (查询入口). | 中华人民共和国工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/datainfo/cpgg/ | การแสดงตัว — ตรวจสอบ N2 GVW/เครื่องยนต์/ จ่ายเงินโดยประกาศที่แน่นอน |
-| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | T2 | ROOS_ CHCKED | http://www.360che.com/ | การแสดงตัว — ฐานข้อมูลเชิงพาณิชย์-ลักษณะเชื่อมโยง-การตรวจสอบ; ค่าใช้จ่ายยังคงต่อประกาศ |
-| แบบ FAW รถบรรทุกทั่วไป (พิมพ์เล็ก) | แบบ FAW เจียวเจ้ง | ไมโครซอฟต์ | T1 | ROOS_ CHCKED | https://www.fawtrucks.com/ | อัตลักษณ์ — การอ้างอิงการส่งออก-ตลาด; ไม่เท่ากับประเทศจีน J6F |
+| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
+| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
+| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
+| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
+| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
 
 ## การทบทวนแก้ไข
 - ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.

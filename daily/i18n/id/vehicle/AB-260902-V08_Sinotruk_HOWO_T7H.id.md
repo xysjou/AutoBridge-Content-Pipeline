@@ -94,21 +94,21 @@ Apa bedanya 460 dan 540 T7H? Di luar kekuasaan, mereka dapat menjadi keluarga me
   - **AR**: مرجع AutoBridge لمشتري التصدير — Sinotruk HOWO T7H, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Sinotruk HOWO T7H, 中国市场燃油车 / 重型牵引车
 
-## Sumber & Verifikasi
+## Sources & Verification
 
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| HOWO T7H 460 6 × 4 parameter | (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | _ BERDECAT | Pengumuman, mesin Weichai, poros, ban, tangki, taksi | 360che
-| T7H halaman produk resmi | Grup Sinotruk (CNHTC, resmi) | CN Ekspor | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | TERBATAI | MC11 440 HP 10.518 L, chassis, gearbox, ZF kemudi |
-| HowO NX T7H internasional | SINOTRUK Internasional (resmi) | Ekspor | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | TERBATAI | Ekspor opsi perpindahan mesin HP |
-| Konfigurasi ekspor T7H | SINOTRUK HOWO (sistem dealer resmi) | Ekspor | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | TERBATAI | 8.8/25/40 t weights, MC13.54-50 540 HP 2500 N·m, V Euro |
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
-| GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
 
-* Catatan kepercayaan diri (standar AutoBridge): MC11/MC13 ekspor mesin dan bobot yang DIVERIFIED pada saluran Sinotruk -official; terinci 360che angka pengumuman adalah SINGLE _ SOURCE. Harga adalah UNVERIFIED dan diabaikan. Konfirmasi pembangunan ekspor tepat pada Sinotruk International sheet. ♪
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are single source. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

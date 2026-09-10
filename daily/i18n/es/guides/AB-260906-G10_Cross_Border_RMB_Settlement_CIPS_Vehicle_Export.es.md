@@ -70,17 +70,17 @@ No, es infraestructura de pago interbancario, no un partido comercial, un presta
 
 Liquidez local limitada o enrutamiento bancario en algunos mercados; confirmar la capacidad y el caso de costo por caso.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 关于进一步优化跨境人民币政策支持稳外贸稳外资的通知 (六部门, 2021-01-04) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2021-01/05/content_5576890.htm | 货物贸易人民币结算, 结算便利化 - 跨境人民币政策 |
-| 跨境贸易人民币结算介绍 (凡具备资格企业出口货物贸易均可人民币结算 y 人民币结算出口可享退税) | 中国银行 | CN | T2 | CROSS_CHECKED | https://www.boc.cn/ibtservice/bi1/201012/t20101210_1240157.html | 结算范围, 退税衔接 - 国有大行结算实务 |
-| 跨境人民币结算 Preguntas frecuentes (货物贸易结算, 先进后收 预收预付) | 中国银行 | CN | T2 | CROSS_CHECKED | https://www.boc.cn/ibtservice/bi1/202009/t20200914_18549064.html | 结算场景, 银行审核 - 结算实务 |
-| CIPS 跨境银行间支付清算公司 (人民币跨境支付系统运营机构, 业务规则) | 跨境银行间支付清算有限责任公司 (CIPS) | CN | T1 | VERIFIED | https://www.cips.com.cn/cips/ywzy96/index.html | CIPS 系统职能, 清算渠道 - 人民币跨境清算基础设施 |
-| 跨境贸易人民币结算试点管理办法 (六部委公告 2009 年第 10 号) | 中国政府网 中国人民银行 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2010/content_1533509.htm | elegibilidad, elegibilidad y arreglo de RMB/limpieza de la base jurídica |
-| 跨境贸易人民币结算试点管理办法实施细则 | 中国政府网 中国人民银行 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2010/content_1555970.htm | tax_reembolso — RMB declaración " reglas operacionales de liquidación; elegibilidad de reembolso de impuestos |
-| 人民币跨境支付系统业务规则 (2026 年第 5 号公报) | 中国政府网 中国人民银行 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12566/202602/content_7057933.html | cips_role — CIPS participantes y alcance de despejado; reglas de negocio actuales |
-| 国家外汇管理局 (官方) | 国家外汇管理局 | CN | T1 | CROSS_CHECKED | https://www.safe.gov.cn/ | bank_channel — foreign-exchange regulator; RMB settlement vs FX settlement boundary |
+| 关于进一步优化跨境人民币政策支持稳外贸稳外资的通知（六部门，2021-01-04） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2021-01/05/content_5576890.htm | 货物贸易人民币结算, 结算便利化 — 跨境人民币政策 |
+| 跨境贸易人民币结算介绍（凡具备资格企业出口货物贸易均可人民币结算、人民币结算出口可享退税） | 中国银行 | CN | independent database | CROSS_CHECKED | https://www.boc.cn/ibtservice/bi1/201012/t20101210_1240157.html | 结算范围, 退税衔接 — 国有大行结算实务 |
+| 跨境人民币结算FAQ（货物贸易结算、先进后收/预收预付） | 中国银行 | CN | independent database | CROSS_CHECKED | https://www.boc.cn/ibtservice/bi1/202009/t20200914_18549064.html | 结算场景, 银行审核 — 结算实务 |
+| CIPS跨境银行间支付清算公司（人民币跨境支付系统运营机构、业务规则） | 跨境银行间支付清算有限责任公司(CIPS) | CN | primary | VERIFIED | https://www.cips.com.cn/cips/ywzy96/index.html | CIPS系统职能, 清算渠道 — 人民币跨境清算基础设施 |
+| 跨境贸易人民币结算试点管理办法（六部委公告2009年第10号） | 中国政府网/中国人民银行 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2010/content_1533509.htm | eligibility — eligibility and RMB settlement/clearing legal basis |
+| 跨境贸易人民币结算试点管理办法实施细则 | 中国政府网/中国人民银行 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2010/content_1555970.htm | tax_refund — RMB declaration & settlement operational rules; tax refund eligibility |
+| 人民币跨境支付系统业务规则（2026年第5号公报） | 中国政府网/中国人民银行 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12566/202602/content_7057933.html | cips_role — CIPS participants and clearing scope; current business rules |
+| 国家外汇管理局（官方） | 国家外汇管理局 | CN | primary | CROSS_CHECKED | https://www.safe.gov.cn/ | bank_channel — foreign-exchange regulator; RMB settlement vs FX settlement boundary |
 
 ## Revisión editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

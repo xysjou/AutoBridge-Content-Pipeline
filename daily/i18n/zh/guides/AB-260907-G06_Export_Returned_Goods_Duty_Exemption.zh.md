@@ -4,7 +4,7 @@
 - **Meta描述**: When Chinese export goods returned within one year for quality or specification reasons re-enter duty-free under  GACC  Order 272, 单独的跨境电子商务规则,  and  原始状态需要什么?
 - **H1**: 中国的回运出口货物: 一年制免税和单独的六月电子商务轨道
 - **核心关键词**: 出口退货关税规定
-- **次级搜索词**: 退运货物免税; GACC (中文(简体)). 第272号命令第49条;出口货物退货一年;跨境电子商务退货六个月;原国产再进口
+- **次级搜索词**: 退运货物免税; GACC  第272号命令第49条;出口货物退货一年;跨境电子商务退货六个月;原国产再进口
 - **建议URL**: /guides/export-returned-goods-duty-exemption-regulation/
 - **搜索意图**: 了解中国的回程出口货物: 一年关税豁免和单独的六月电子商务轨道:车辆/部件出口商在承诺执行命令之前必须核实、记录和决定什么。
 - **内链建议**: /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/customs-voluntary-disclosure-audit-tolerance/, /guides/comprehensive-bonded-zone-vat-refund-export/
@@ -36,7 +36,7 @@
 
 ## 单独的跨境电子商务轨道: 六个月, 已界定的监督守则
 
-跨境电子商务回报按自己的时间表进行,不应与一年制一般规则混淆。 对于根据跨境电子商务监督守则出口的货物,**1210,  9610, 9710 维基月球  and  9810 ** 六个月内返回原状态**, 重新入境时适用免税。 This special arrangement has a defined execution period of **1 January 2026 to 31 December 2027** (time-sensitive — confirm the current operative notice before relying on it). 注意对比: 六个月而不是一年,与具体的电子商务守则挂钩,并有明确的政策期限。
+跨境电子商务回报按自己的时间表进行,不应与一年制一般规则混淆。 对于根据跨境电子商务监督守则出口的货物,**1210,  9610, 9710   and  9810 ** 六个月内返回原状态**, 重新入境时适用免税。 This special arrangement has a defined execution period of **1 January 2026 to 31 December 2027** (time-sensitive — confirm the current operative notice before relying on it). 注意对比: 六个月而不是一年,与具体的电子商务守则挂钩,并有明确的政策期限。
 
 | 尺寸 | 将军的退货规则 | 跨境电子商务轨道 |
 |---|---|---|
@@ -79,15 +79,15 @@
 
 一般规则要求有质量或规格理由;普通转售改道本身没有资格——向海关确认事实。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国务院公报 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html | 《海关进出口货物征税管理办法》自2024-12-01起施行 |
-| 中国政府网 | 中国政府网/国务院 | CN | T1 | TIME_SENSITIVE | https://www.gov.cn/lianbo/202602/content_7057577.htm | 中国政府网对三部门跨境电商出口退运政策的报道（现行执行期2026-0... |
-| 税务总局 | 国家税务总局 | CN | T1 | TIME_SENSITIVE | https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html | 跨境电商(1210/9610/9710/9810)出口商品退运、规定... |
-| 海关总署令272号 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf | 出口货物因品质/规格原因自出口之日起1年内原状复运进境的 |
-| 海关征税问答 | 海关总署 | CN | T1 | CROSS_CHECKED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7 | '原状退运'要求未被使用/加工、保持原出口状态 |
-| 财政部 | 财政部 | CN | T1 | VERIFIED+TIME_SENSITIVE | https://m.mof.gov.cn/zcfb/202602/t20260209_3983561.htm | 财政部就出口退运/跨境电商退运税收政策的部门公告（深层页 |
+| 国务院公报 | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html | 《海关进出口货物征税管理办法》自2024-12-01起施行 |
+| 中国政府网 | 中国政府网/国务院 | CN | primary | TIME_SENSITIVE | https://www.gov.cn/lianbo/202602/content_7057577.htm | 中国政府网对三部门跨境电商出口退运政策的报道（现行执行期2026-0... |
+| 税务总局 | 国家税务总局 | CN | primary | TIME_SENSITIVE | https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html | 跨境电商(1210/9610/9710/9810)出口商品退运、规定... |
+| 海关总署令272号 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf | 出口货物因品质/规格原因自出口之日起1年内原状复运进境的 |
+| 海关征税问答 | 海关总署 | CN | primary | CROSS_CHECKED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7 | '原状退运'要求未被使用/加工、保持原出口状态 |
+| 财政部 | 财政部 | CN | primary | VERIFIED+TIME_SENSITIVE | https://m.mof.gov.cn/zcfb/202602/t20260209_3983561.htm | 财政部就出口退运/跨境电商退运税收政策的部门公告（深层页 |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

@@ -26,7 +26,7 @@
 
 المثال بالنسبة للمشترين: إسألوا أي كيان قانوني هو مصدر التسجيل وتأكيده في قائمة أهلية التصدير للسنة الحالية التي نشرها MOFCOM (تتم تحديث القائمة ديناميا - استخدام النسخة الحالية للسنة؛ وهذا الدليل لا يعدد أسماء الشركات). شركة لا تستطيع وضع نفسها على تلك السلسلة هي إشارة توقف
 
-## Layer 1 — Verify the Business License
+## المستوى 1 — تحقّق من رخصة النشاط
 
 استخدموا نظام الصين الوطني للترويج لـ (المؤسسة) للتعرف على المورد
 
@@ -64,7 +64,7 @@
 
 ## ما يضيفه (أوت بريدج) إلى أبعد من طلقات "إش بي سي"
 الرخصة المسحية تثبت وجود شركة، وليس أنها قد تصدر * سيارتك*. This guide recommends check the counter party against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; ترخيص ركاب من طراز EV من 2026-01-01 في إطار الإعلان المشترك رقم 54 يعيد بناء سلسلة الأذن الـ "غراند" إلى منظمة أوم**  and  ويدير اسماً من نوع " العقد/الفاتورة/الحساب المصرفي " مطابقاً** قبل الإيداع - وهي الشيكات الثلاثة التي تميز المصدر المأذون به عن قذيفة تجارية.
-## A Practical Eight-Step Sequence
+## تسلسل عملي من ثماني خطوات
 
 1. اسحب سجل الأعمال التجارية بشكل مستقل
 2. تأكيد حالة الصانع الفعلي
@@ -117,19 +117,19 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## المصدر: التحقق
+## Sources & Verification
 
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-. MOFCOM et al. (خمس وزارات)  official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | مفقود | إعلانات الاستثمار الأجنبي المباشر + قاعدة الأهلية التصديرية |
-| 2024 درجة مئوية رقم 6 (مماطلة) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | ?
-| كيفية التحقق من صحة المورد الصيني | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | صرخات | حقول التحقق من المادة |
- .  . CN/Global. https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate. 2026-09-02 .− − − − − − − Institutments and agents in the., the. الممتنعون عن التصويت
-8 خطوات: مُراقب في مجال (مُراقب) CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier . 2026-09-02 .-OPO-O-IWO-IWO-IWO-I.I. ؟
-| مذكرات شراء تصدير المركبات | (顺企网، الصناعة) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | صرخات | الحد الأدنى للتسجيلات الفيديوية الحية، الإعلان | 11467
-| إجراءات تصدير الشاحنات المحلية | Guangzhou Pujiang Trade | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | صرخات | الصادرات عن طريق الكيان المؤهل، سلسلة الترخيص | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-* مذكرة مصداقية (معيار أوتو بريدج): وترتكز قواعد التأهيل على المصادر الرئيسية بما في ذلك الآن الإشعار بالطلب البالغ 2026 (商办贸函 〔 2025 〕 408 〕 号) والإعلان المشترك رقم. 54 على ترخيص تصدير الركاب من طراز EV. (أ) أن تكون القائمة المؤهلة في السنوات الحالية وأسئلة المنظمة دينامية ويجب التحقق منها على الهواء مباشرة؛ وتُصدر المواد القائمة المرجعية التشغيلية من مصادر صناعية وترجع إلى النظم الرسمية. 
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

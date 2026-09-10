@@ -87,17 +87,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 車両の固定面ビュー (2/box、8ストラップ) | 貨物用材料 | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | 2-SUV ノルク; ~ 8 ストラップ; wheel method (one source) | https://m.11467.com/product/d42473652.htm
-| ヤンタイ港初の4-SUV「ロトコンテーナー」試用 | 気功の夕方のニュース/Toutiao | CN の | 担当: http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | シングル_ソース | Upper2+lower2ラック; ローディングシーケンス(報告された試験) |
-| 中国ヨーロッパ鉄道車ローディング (3/box) | |  CN  の | 担当 http://m.toutiao.com/group/6748371578787987979/ の の | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | Three-per-box sedan/rail reference (one source) |
-| Export container five-step loading method | ネットエイズ | 営業拠点 | 以下は 、 https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | シングル _ ソース _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ 空室検索 _ テキスト _ 空室検索 _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ テキスト _ | Five-point stowage check (one source) |
-*Scopeのノート: それぞれの積込み図は、ひとつから来る、  distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, そのため、 CROSS_CHECKED はラベル付けされていません。 カウントは文書化された実践的な参照であり、保証された固定ではありません。 ふりがな
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | single source | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | single source | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | single source | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | single source | Five-point stowage check (one source) |
+*Scope note: each loading figure comes from a single, distinct source (all single source) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
-| IMO/ILO/UNECE 貨物輸送ユニット(CTUコード)の実用化 | 国際海事機関(IMO) | インフォメーション | 以下は、 https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | コンテナを含むCTUの貨物分布、消し、そして確保の原則 |
-| | 世界配送協議会 | インフォメーション | 以下は、 https://www.worldshipping.org/ は、 | 2026-09-05 | 検証済み | 標準的な貨物コンテナと荷計画のためのライナー機器のコンテキスト |
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

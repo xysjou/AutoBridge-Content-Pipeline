@@ -86,16 +86,16 @@ PIN vertraglich: Stückpreis vs. Spezifikationsniveau, Ersatzteile Common-Wear-K
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (** Regierungsbeamter**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** ÜBERPRÜFUNG** | Online-Bewerbungssystem, lokale Überprüfung, Qualified-List-Prozess |
-| Rein-EV-Passagierexportlizenzen ab 2026-01-01 (Ankündigung Nr. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (** Regierungsbeamter**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** ÜBERPRÜFUNG** | 2026 Exportlizenzregelung für NEV-Passagier |
-| 2026 Liste der qualifizierten Exportlizenzunternehmen | MOFCOM Außenhandelsabteilung (** Regierungsbeamter**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** ÜBERPRÜFUNG** | Im laufenden Jahr qualifizierte Unternehmen |
-| Weitere Stärkung des Exportmanagements für Gebrauchtwagen (Nov 2025) | MOFCOM/MIIT/MPS/GAC via (** Regierungsbeamter**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** ÜBERPRÜFUNG** | Feld „Exportlizenz für Gebrauchtwagen/Konsistenz des Registrierungszertifikats |
-| 15-unit Kipptender (verbindliche technische Indikatoren) | Hunan Road & Bridge Group (echte Ausschreibung) | CN→Zentralasien | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** ÜBERPRÜFUNG** | ≥15 m³, T700 Stahl, Boden ≥ 10 mm, Seite ≥ 8 mm Auftriebstyp |
-| Duty-Cycle-/Customization-Guide (Doppelschichtrahmen, Achsen mit zolltarifierter Funktion) | CV-Hersteller (Chary/FAW-Leitfaden; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/Prozessführung |
-*Vertrauensbeweis: Das System der Ausfuhrlizenzen 2026 und die Indikatoren für die Annahme von Ausschreibungen werden auf Regierungs-/Echtausschreibungsquellen überprüft. Engineering Prozessleitfaden ist Hersteller Industrie (CROSS_CHECKED); aktuelle Jahreslisten, OEM-Überseenetze und alle kommerziellen Bedingungen (Rabatt MOQ Lead-Zeit) werden live erhalten und nie geschätzt. *
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05

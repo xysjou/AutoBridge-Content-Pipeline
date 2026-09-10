@@ -117,19 +117,19 @@ Cái gì chứng minh một nhà cung cấp xuất khẩu? (Tiếng 3-month) xu�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## Nguồn và Định dạng
+## Sources & Verification
 
-| Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Thông báo về thứ tự xuất khẩu khác của xe hơi/ xe đạp | MOFCOM et al. (five ministries, Chính thức T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VEII | Thông báo MIT + CCC xuất khẩu- mật độ |
-| 2024 Thông báo Không. 6 (Điều kiện xuất khẩu xe hơi) | MOFCOM (chính thức T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VEII | Điều kiện xuất khẩu xe hơi hợp pháp/ số hoá |
-| Làm thế nào để kiểm tra các nhà cung cấp kinh doanh chân thực | Kinh doanh thiện (try, điểm tới gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | ĐÃ_ ĐÃ | Trường gsxt xác thực |
-| Làm sao để xác minh một nhà máy Trung Quốc là hợp pháp? | Sao Diêm Vương trên toàn cầu | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | ĐÃ_ ĐÃ | Tính toán theo tên, kiểm toán nhà máy |
-| 8-step hướng dẫn xuất khẩu tự động từ Trung Quốc | Hoa Gia Nội (try thử) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | ĐÃ_ ĐÃ | Khung kiểm toán lớp, AAO |
-| Comment | (顺企网, ngành công nghiệp) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo | 11467
-| Thủ tục xuất khẩu xe tải nội địa | Thương mại Quảng Châu | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép | 11467
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official primary) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official primary) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-*BIDidence ghi chú (tự động Bridge tiêu chuẩn): quy tắc có thẩm quyền nằm trên những nguồn chính MOFCOM / MIIT, hiện nay gồm 2026 thông báo ứng dụng (商办贸函  2025 408 号). 54 đơn vị xuất bản bản. Danh sách đủ tiêu chuẩn trong năm nay và AEO truy vấn rất năng động và cần phải được kiểm tra trực tiếp; các mục kiểm tra hoạt động là nguồn cung cấp công nghiệp và chỉ trở lại hệ thống chính thức. *
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

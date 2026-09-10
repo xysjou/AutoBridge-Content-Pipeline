@@ -79,13 +79,13 @@ It sets the international floor; national authorities may add certificate or dec
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 进境货物木质包装检疫监督管理办法（IPPC专用标识、检疫要求，海关PDF） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/6354193/%E8%BF%9B%E5%A2%83%E8%B4%A7%E7%89%A9%E6%9C%A8%E8%B4%A8%E5%8C%85%E8%A3%85%E6%A3%80%E7%96%AB%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf | IPPC标识, 木质包装检疫 — 木质包装检疫 |
-| 海关总署公告2025年第76号（出境竹木草企业注册，援引ISPM第15号标准） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302270/202511/6689010/index.html | 出境木质包装, ISPM15, 企业注册 — 出境检疫监管 |
-| IPPC标识与ISPM-15处理方式（HT热处理/MB熏蒸，行业解读交叉） | 搜狐（行业解读） | CN | T3 | CROSS_CHECKED | https://www.sohu.com/a/946195374_121124360 | HT/MB处理参数线索  |
-| ISPM 15:2009 Regulation of wood packaging material in international trade (official EN text) | IPPC / FAO | INT | T1 | VERIFIED | https://www.ippc.int/static/media/files/publication/en/2016/03/ISPM_15_2009_En_2013-11-15_REV.pdf | ippc_mark — approved treatments and required mark components |
-| Guide to the regulation of wood packaging material | Food and Agriculture Organization (FAO) | INT | T1 | VERIFIED | https://openknowledge.fao.org/server/api/core/bitstreams/c1d1e9c9-7f71-4c7e-ba51-2a909b0bb273/content | treatment_methods — plain-language guide to treatment and marking |
-| ISPMs — International Standards for Phytosanitary Measures | IPPC / FAO | INT | T1 | VERIFIED | https://www.ippc.int/en/core-activities/standards-setting/ispms/ | ippc_mark — current ISPM index; verify latest revision before shipment |
-| Wood Packaging Material (export program) | USDA APHIS | US | T1 | CROSS_CHECKED | https://www.aphis.usda.gov/import_export/plants/plant_exports/wpm/ | treatment_methods — destination NPPO implementation example; country-specific |
+| 进境货物木质包装检疫监督管理办法（IPPC专用标识、检疫要求，海关PDF） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/6354193/%E8%BF%9B%E5%A2%83%E8%B4%A7%E7%89%A9%E6%9C%A8%E8%B4%A8%E5%8C%85%E8%A3%85%E6%A3%80%E7%96%AB%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf | IPPC标识, 木质包装检疫 — 木质包装检疫 |
+| 海关总署公告2025年第76号（出境竹木草企业注册，援引ISPM第15号标准） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302270/202511/6689010/index.html | 出境木质包装, ISPM15, 企业注册 — 出境检疫监管 |
+| IPPC标识与ISPM-15处理方式（HT热处理/MB熏蒸，行业解读交叉） | 搜狐（行业解读） | CN | media/industry | CROSS_CHECKED | https://www.sohu.com/a/946195374_121124360 | HT/MB处理参数线索  |
+| ISPM 15:2009 Regulation of wood packaging material in international trade (official EN text) | IPPC / FAO | INT | primary | VERIFIED | https://www.ippc.int/static/media/files/publication/en/2016/03/ISPM_15_2009_En_2013-11-15_REV.pdf | ippc_mark — approved treatments and required mark components |
+| Guide to the regulation of wood packaging material | Food and Agriculture Organization (FAO) | INT | primary | VERIFIED | https://openknowledge.fao.org/server/api/core/bitstreams/c1d1e9c9-7f71-4c7e-ba51-2a909b0bb273/content | treatment_methods — plain-language guide to treatment and marking |
+| ISPMs — International Standards for Phytosanitary Measures | IPPC / FAO | INT | primary | VERIFIED | https://www.ippc.int/en/core-activities/standards-setting/ispms/ | ippc_mark — current ISPM index; verify latest revision before shipment |
+| Wood Packaging Material (export program) | USDA APHIS | US | primary | CROSS_CHECKED | https://www.aphis.usda.gov/import_export/plants/plant_exports/wpm/ | treatment_methods — destination NPPO implementation example; country-specific |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

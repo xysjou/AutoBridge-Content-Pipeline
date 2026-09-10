@@ -21,7 +21,7 @@ The line is built on three wheelbases — **3000, 3300 and 3750 mm** — combine
 | Configuration | Reference dimensions | Wheelbase | Confidence |
 |---|---|---|---|
 | Medium-wheelbase, medium roof (example) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| Long-wheelbase, high-roof cargo | 5998 × 2164 × 2775 mm; cargo interior ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Long | SINGLE_SOURCE |
+| Long-wheelbase, high-roof cargo | 5998 × 2164 × 2775 mm; cargo interior ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | Long | single source |
 
 The 5998 mm length is significant: in many markets it sits at the light-commercial driving-licence boundary, so a buyer should confirm the destination licence category and the vehicle's gross mass before ordering the longest version. Cargo interior dimensions and the ≈13 m³ volume are single-source and should be confirmed against the JMC official body-builder/configuration data before a conversion is designed around them.
 
@@ -29,8 +29,8 @@ The 5998 mm length is significant: in many markets it sits at the light-commerci
 
 | Line | Chinese-market reference | Gearbox | Confidence |
 |---|---|---|---|
-| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatic (8AT) | SINGLE_SOURCE — confirm by VIN/OEM |
-| 2.0T diesel | Separate, lower-output diesel line | 6-speed manual (6MT) | SINGLE_SOURCE — separate line |
+| 2.3T diesel (2025) | 128 kW (174 PS) / 430 N·m | 8-speed automatic (8AT) | single source — confirm by VIN/OEM |
+| 2.0T diesel | Separate, lower-output diesel line | 6-speed manual (6MT) | single source — separate line |
 
 The 2.3T 8AT and the 2.0T 6MT are distinct powertrains aimed at different duty cycles; they must not be averaged or presented as one "T8 engine". Rear-wheel drive is the base layout, with 4WD offered on selected configurations — name the drivetrain explicitly. Exact outputs currently rest on single independent sources and should be closed against the JMC official specification or MIIT homologation entry before contracting; a Chinese-spec diesel must also be checked for destination fuel grade and emission-stage acceptance.
 
@@ -81,13 +81,13 @@ The Chinese-market van is LHD; RHD and export specifications require separate OE
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

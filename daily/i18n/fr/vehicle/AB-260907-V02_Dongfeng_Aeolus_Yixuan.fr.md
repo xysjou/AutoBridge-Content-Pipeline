@@ -25,8 +25,8 @@ La base du CMP indique une disposition de torsion-faisceau/transverse-visage ava
 
 | Ligne | Référence du marché chinois | Boîte de vitesses | Période/état | Confiance |
 |---|---|---|---|---|
-| 1.5L aspiration naturelle (2025) | 92 kW (125 PS) / 158 N·m; WLTC combiné - 6.24 L / 100 km | 6-speed double embrayage humide | 2025 ligne principale actuelle | SINGLE_SOURCE — Confirmation par VIN/OEM|
-| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed double embrayage humide | 2022/2023 ligne plus ancienne, pas la ligne principale 2025 | SINGLE_SOURCE — ligne historique|
+| 1.5L aspiration naturelle (2025) | 92 kW (125 PS) / 158 N·m; WLTC combiné - 6.24 L / 100 km | 6-speed double embrayage humide | 2025 ligne principale actuelle | single source — Confirmation par VIN/OEM|
+| Mach 1.5T (马赫版) | 145 kW (197 PS) / 300 N·m | Getrag 6-speed double embrayage humide | 2022/2023 ligne plus ancienne, pas la ligne principale 2025 | single source — ligne historique|
 
 L'écart de performance entre les deux est suffisamment grand pour modifier la décision d'un acheteur, ce qui explique précisément pourquoi il ne faut pas les fusionner en un seul chiffre « moteur yixuan ». Le Mach 1.5T devrait être étiqueté comme le groupe motopropulseur ** plus tôt**; le présenter comme la berline actuellement disponible présenterait faussement la ligne de conduite. Les deux sorties reposent actuellement sur des sources indépendantes uniques et devraient être fermées par rapport à la page de configuration officielle d'Aeolu ou à la rubrique d'homologation MIIT exacte avant la passation des marchés. La consommation de carburant est indiquée sur le cycle **WLTC** et ne doit pas être comparée aux chiffres NEDC ou CLTC d'autres voitures.
 
@@ -68,19 +68,19 @@ Les dimensions de référence sont 4670 × 1812 × 1490 mm avec un empattement 2
 
 Aucune usine RHD n'est établie par les sources du marché chinois ici; RHD et spécifications d'exportation nécessitent des preuves OEM distinctes.
 
-## Sources et vérification
-| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
-| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | primary | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-08
-- **Marché de référence**: CHINE(中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 UGS 终核)
+- **Marché de référence**: CHINE(China-market reference; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 UGS final confirmation)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les sorties à source unique, les gammes de garnitures et les prix de référence nationaux doivent être confirmés à nouveau sur la feuille d'OEM ou sur l'entrée MIIT avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

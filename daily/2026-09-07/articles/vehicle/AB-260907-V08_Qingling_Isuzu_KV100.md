@@ -25,15 +25,15 @@ Because light trucks are sold as a chassis-cab plus a fitted body, "a KV100" can
 
 | Item | Chinese-market reference | Confidence |
 |---|---|---|
-| Engine | **4KH1CN6LB** 3.0-litre diesel, China-6 (National VI) | SINGLE_SOURCE |
-| Output | 120 PS / 290 N·m | SINGLE_SOURCE — confirm by VIN/OEM |
-| Gearbox | MSB 5-speed manual (5MT) | SINGLE_SOURCE |
+| Engine | **4KH1CN6LB** 3.0-litre diesel, China-6 (National VI) | single source |
+| Output | 120 PS / 290 N·m | single source — confirm by VIN/OEM |
+| Gearbox | MSB 5-speed manual (5MT) | single source |
 
 The 4KH1 family exists in more than one suffix with different outputs, and a second independent report references a different 4KH1 suffix rating. That is exactly why the full engine code — **4KH1CN6LB**, not merely "a 4KH1" — must be written into the order and matched to the MIIT homologation entry. A China-6 diesel is calibrated for Chinese fuel and the National VI stage; destination fuel grade and emission recognition must be checked separately rather than assumed.
 
 ## Payload and kerb mass: classifieds are not factory data
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. These figures are **not** presented as specifications: they vary with the fitted body, are self-reported by sellers and cannot be used to size a load. The authoritative rated payload, kerb mass and GVW come from the **exact chassis homologation certificate / nameplate**. Obtain those before committing to a payload duty cycle.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. These figures are **not** presented as specifications: they vary with the fitted body, are self-reported by sellers and cannot be used to size a load. The authoritative rated payload, kerb mass and GVW come from the **exact chassis homologation certificate / nameplate**. Obtain those before committing to a payload duty cycle.
 
 ## Adjacent lines and the global Isuzu boundary
 
@@ -81,14 +81,14 @@ No — the 100P (4KB1) is a separate model line whose figures must not be merged
 ## Sources & Verification
 | Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

@@ -73,15 +73,15 @@ TBS授权的PVoC供应商包括CCIC(有中国名单),Intertek,SGS和TüV Rheinla
 
 这里没有给出固定费率;对准确的HS代码进行分类,并使用当前TRA关税线/机动车辆计算器来计算实际车辆.
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-TBS , CoC, D1 , |(TBS) , TZ , T1 ,  http , VEIFIED https://www.tbs.go.tz/services/imports-and-export-control |, PV PV, 二手车单列类别, 二手车单列类别, 检验机构, D1 |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |, |
-| 贸易法进口程序——EACMA 2004, 持证的非洲金融共同体、坦奇、 ≥ 7-day 住宿、 许可证机构之间的TBS | 坦桑尼亚税务局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACMA, TANCIS, TBS 许可 数据 |
-| TRA 机动车辆登记(登记/所有权变更方面) | 坦桑尼亚税务局(TRA) | TZ | T1 | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 维基月球 |
-| 货代 聚氯乙烯/e-COC 介绍(仅线索、不作事实依据) | 顺企网 维基月球 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC 线索 导弹 |
-| 货代 聚氯乙烯 流程介绍(仅线索) | 顺企网 维基月球 | TZ | T4 | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 维基月球 |
-| 使馆转述坦桑进口要求(2015,历史背景) (中文(简体)). | 今日头条镜像 维基月球 | TZ | T3 | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 维基月球 |
+| TBS Imports and Export Control — PVoC programme, CoC, used-motor-vehicle category, D1, named partners | Tanzania Bureau of Standards (TBS) | TZ | primary | VERIFIED | https://www.tbs.go.tz/services/imports-and-export-control | PVoC法定依据, CoC装船前, 二手车单列类别, 检验机构, D1 |
+| TRA Import Procedures — EACCMA 2004, licensed CFA, TANCIS, ≥7-day lodging, TBS among permit agencies | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/import-procedures | 进口框架, EACCMA, TANCIS, TBS许可 |
+| TRA Motor Vehicle Registration (registration/change-of-ownership side) | Tanzania Revenue Authority (TRA) | TZ | primary | VERIFIED | https://www.tra.go.tz/page/motor | 机动车登记环节 |
+| 货代PVoC/e-COC介绍（仅线索，不作事实依据） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d50319528.htm | PVoC线索 |
+| 货代PVoC流程介绍（仅线索） | 顺企网 | TZ | directory/listing | UNVERIFIED | https://m.11467.com/product/d41003751.htm | 流程线索 |
+| 使馆转述坦桑进口要求（2015，历史背景） | 今日头条镜像 | TZ | media/industry | UNVERIFIED | http://m.toutiao.com/group/6189805273841533186/ | 历史背景 |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

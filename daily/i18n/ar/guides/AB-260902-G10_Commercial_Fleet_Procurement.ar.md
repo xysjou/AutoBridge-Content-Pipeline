@@ -21,7 +21,7 @@ A 6 × 4 من معلومة التعدين، و 8 × 4 في مدفن على ال�
 - **Fuel**: diesel vs LNG/CNG، مختاراً ضد توافر الوقود المحلي وقواعد الانبعاث، وليس عادات محلية صينية.
 - ** مرحلة الانبعاثات المعتمدة للسحب** (مثلاً، الفئة الثانية من أوروبا مقابل الفئة الخامسة من أوروبا) - زيادة التكثيف في تحديد التكاليف؛ ونقصان تحديد الواردات من القطع.
 - ** الإطارات**، بالإضافة إلى RHD/LHD، والاختبارات النباتية وغيرها من التجهيزات.
-## Step 2 — Engineer the Specification to the Work
+## الخطوة 2 — صمّم المواصفات لتلائم العمل
 - الموضوع**: داء النسيج (المنفذ) المزدوج للضغط المفرط/العمل المفرط.
 - ** أكاسل**: أكاسيد معززة وتطابقت نسبة القيادة النهائية مع الدرجة ونسبة الـ GVW.
 - ** تعليق، مكابح، إطارات** موزعة على الشبكة العالمية لرصد في البيئات الساخنة/الصناعية.
@@ -48,7 +48,7 @@ A 6 × 4 من معلومة التعدين، و 8 × 4 في مدفن على ال�
 Pin contractually: unit price vs specification level, spare-parts/common-wear kit, technicalnician training/warranty,mark-tied delivery schedule, inspection rights and progressive payment against production/inspection evidence. الحصول على أرقام حقيقية لكل مشروع؛ لا يفترض أبدا نسبة مئوية من الحساب السائب.
 ## قائمة مرجعية قبل العقد
 - (ب) دورة العمل، وشبكة GVW/payload، ومحطة الوقود والمقصد الثابتة كتابةً.
-- Frame/axle/suspension/body materials and fishnesses to bid grade.
+- مواد الهيكل/المحور/نظام التعليق/البنية ودرجة الجاهزية وفق متطلبات المناقصة.
 - وتحقق المصدر من القائمة المؤهلة التي تبلغ 2026 ** مع الترخيص الصحيح بالصادرات من الفئة + الإذن من منظمة أوم إي إم (أو شروط السيارات المستعملة).
 - وتم تأكيد التغطية المحلية من وزارة العدل.
 - وتُعد سلسلة الوثائق (رقم VIN/engine number, Incoterm, insured value, licence) نموذجا.
@@ -86,16 +86,16 @@ Pin contractually: unit price vs specification level, spare-parts/common-wear ki
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 2026 إشعار بطلبات السيارات (商办贸函 〔 2025 〕 408 号) | اللجنة الخاصة المعنية بالإجراءات المالية المتعلقة بالألغام (**مسؤول حكومي**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** مصدق عليه** | نظام التطبيقات على الإنترنت، الاستعراض المحلي، عملية القائمة المؤهلة |
-|ноment from 2026-01.-01 (from 54; HS 8703801090) | |  عدمNU////////////PEC منظمة الأمم المتحدة للطفولة (**) | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** ملاحظـة تشعـر** | 2026 نظاماً لتحديد المواقع والاختبارات ?
-| 2026 qualified export-licence enterprise list | وزارة الخارجية والتجارة الخارجية (** مسؤول حكومي**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** مصدق عليه** | المشاريع المؤهلة في السنوات الحالية |
-? Increasing enhancing theزوّد (Nov 2025) | MOFCOM/MIIT/MPS/GAC via (** government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **
-| 15-unit dump-truck tender (binding technical indicators) | مجموعة جسر هونان رود (عطاء حقيقي) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** مصدق عليه** | ≥15 m³, T700 فولاذ طابق 10 mm،  side ≥8 mm, نوع المصعد |
-| التوجيه المتعلق بدورة (إطار عمل مزدوج، محوراً مقسماً إلى رسوم) | (أ) مصنّعات المركبات (توجيهات من نوع (CChary/FAW؛ Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | صرخات | التوجيه |
-* ملاحظة: نظام الترخيص بالتصدير البالغ 2026، ومؤشرات قبول المناقصات مستنسخة على المصادر الحكومية/النوعية الحقيقية. التوجيه الهندسي/التجهيزات هو الصانع/الصناعات؛ أما قوائم السنوات الحالية، وOEM شبكة خارجية، وجميع المصطلحات التجارية (الحساب/المعيار/الساعة) فتتم الحصول عليها على الهواء مباشرة ولا تقدر أبدا. ♪
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

@@ -30,13 +30,13 @@ El **Dongfeng Forthing Youting (游艇)** es un MPV de tamaño medio de mercado 
 | longitud anchura de hielo | 4850 1900 1715 | mm | CHINA | CROSS_CHECKED | 太平洋 + 搜狐 |
 | longitud de ancho de la altura | 4850 1900 1740 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 太平洋 |
 | Base de ruedas | 2900 | mm | CHINA | CROSS_CHECKED | 太平洋 + 搜狐 |
-| asientos | 7 (5 门, 平开门) | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| Motor de phev | 1.5T 154马力 L4 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| par motor de phev | 230 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| par motor de fleque | 310 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| transmisión de phev | 1 挡 DHT | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| velocidad superior | 180 | km/h | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| carga rápida de phev dc | 不支持快充 (汽车之家口径) | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| asientos | 7 (5 门, 平开门) | - | CHINA | single source | 搜狐车型库 |
+| Motor de phev | 1.5T 154马力 L4 | - | CHINA | single source | 汽车之家车家号 |
+| par motor de phev | 230 | N·m | CHINA | single source | 汽车之家车家号 |
+| par motor de fleque | 310 | N·m | CHINA | single source | 汽车之家车家号 |
+| transmisión de phev | 1 挡 DHT | - | CHINA | single source | 汽车之家车家号 |
+| velocidad superior | 180 | km/h | CHINA | single source | 汽车之家车家号 |
+| carga rápida de phev dc | 不支持快充 (汽车之家口径) | - | CHINA | single source | 汽车之家车家号 |
 | phev china msrp comienza | 15.49 | 万元人民币 | CHINA | TIEMPO_SENSITIVE | 车主之家 |
 
 ## MPV: asientos, conversión y lo que falta deliberadamente
@@ -56,16 +56,16 @@ Para los importadores MPV los campos de orden crítico son el conteo/configuraci
 **¿Es 154, 900 RMB el precio de exportación?** No, sólo referencia interna china.
 **¿Se puede convertir en un transbordador/ambulante?** Como un beneficio; evalúe por separado del MPV base.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV 上市信息 |
-| Dongfeng Forthing sitio oficial global | Dongfeng Liuzhou Motor Forthing 东风风行 (OEM) | CN | T1 | VERIFIED | https://www.forthingmotor.com/ | marca/model-line identity and OEM authority |
-| Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |
-| Administración Estatal para el Reglamento de Mercados (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | nacionales de normas, certificación y autoridad de regulación del mercado |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

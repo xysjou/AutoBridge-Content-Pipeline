@@ -20,19 +20,19 @@ FAW Jiefang J7는 중국의 가장 큰 무거운 트럭 제조 업체에서 일�
 |---|---|---|
 | 의 특징 | ** CA6DM3-55E52 ** (중국 5 / 국가 V) | CROSS_CHECKED |
 | Output | 550 PS, 2300 N·m의 주위에 | CROSS_CHECKED |
-| 기어박스 | 12-speed 매뉴얼 | SINGLE_SOURCE |
-| 예제 균질화 | CA4250P77K25T1E5 | SINGLE_SOURCE |
+| 기어박스 | 12-speed 매뉴얼 | single source |
+| 예제 균질화 | CA4250P77K25T1E5 | single source |
 | ₢ 킹 | 2018 발사-세라 라인-**HISTORICAL_VARIANT** | CROSS_CHECKED |
 
 이 그림은 ** 2018-era 중국 - 5 ** J7. 그들은 역사 방출 단계로 레테르를 붙이고 현재 판매 트럭으로 선물될 필요가 없습니다. 중국- 5 엔진은 또한 직접 수출 질문을 제기합니다: 많은 목적지 시장은 이제 더 새로운 배출 단계가 요구되므로 중국- 5 장치는 트럭 자체가 사용할 수 있는 경우에도 등록 할 수 없습니다. 이 세대를 소싱하기 전에 대상 배출 인식을 확인합니다.
 
-## Generation two — China-6 (current line)
+## 2세대 — 중국 6단계(현행 라인)
 
 | 제품 정보 | 중국 시장 참고 | 의논하기 |
 |---|---|---|
-| 엔진 가족 | ** CA6SX1 ** (중국 6 / 국가 VI) | SINGLE_SOURCE |
-| 최고 산출 참조되는 | Up to 600 PS / 2800 N·m | SINGLE_SOURCE — SKU의 정확한 마력 단계는 확인하기 위해|
-| Layout | 6x4 지배적인; 선택된 윤곽에 공기 중단 그리고 유압 retarder 선택 | SINGLE_SOURCE |
+| 엔진 가족 | ** CA6SX1 ** (중국 6 / 국가 VI) | single source |
+| 최고 산출 참조되는 | Up to 600 PS / 2800 N·m | single source — SKU의 정확한 마력 단계는 확인하기 위해|
+| Layout | 6x4 지배적인; 선택된 윤곽에 공기 중단 그리고 유압 retarder 선택 | single source |
 
 중국- 6 가족은 현재 선이지만, SKU의 정확한 마력 / 토크 단계는 여기에 완전히 증거되지 않습니다. "600 PS까지" 천장 참조는 모든 트럭에 대한 단일 고정 등급이 아닙니다. 순서는 정확한 CA6SX1 힘 등급, 변속기, 차축 비율 및 다섯번째 바퀴 조정을 지명해야 하고 Jiefang 공식 명세 또는 정확한 MIIT 균질화 입장에 대하여 그(것)들을 닫아야 합니다. 정확한 다섯 바퀴 하중, 차축 비율, 연료 탱크 용량 및 kerb 질량과 같은 항목은 ** 정확히 SKU 소스가 캡처되지 않았기 때문에 명시되지 않습니다.
 
@@ -86,19 +86,19 @@ No - 550 PS은 중국 - 5 2018-era 역사 변형에 속합니다. 현재 라인�
 
 아니요 -이 페이지는 중국 시장 디젤 참조입니다. LNG / EV, RHD 및 수출 J7s은 별도의 OEM 증거를 요구하고 동일하게 가정되지 않습니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| CA6DM3/ 上市 / 国五历史 / 国五历史 / 上市 / 上市 / 国五历史 / 上市 / 上市 / 上市 / 国五历史 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 国五历史 / 上市 / 国五历史 / 上市 / 上市 / 国五历史 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 上市 / 国五历史 / 上市 / 上市 / 国五历史 / 国五历史 / 上市 / 国五历史 / 上市 / 上市 / 国五历史 / 上市 / 上市 / 上市 / 上市 / 上市 / 国五历史 | 中国经济网 | CN | T2 | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市,  国五历史 |
-| 550Ps/6x4/国五公告号 | 卡车之家官方号 (今日头条镜像년) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4,  国五公告号 |
-| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
-| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12 挡,  缓速器 |
-| 车型身份 / 底盘选装 / 车型身份 / 底盘选装 / 车型身份 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 车型身份 / 底盘选装 / 车型身份 / 底盘选装 / 底盘选装 / 车型身份 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 车型身份 / 底盘选装 / 车型身份 / 底盘选装 / 车型身份 / 底盘选装 / 底盘选装 / 车型身份 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 / 底盘选装 | 汽车之家·车家号 | CN | T3 | SINGLE_SOURCE | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份,  底盘选装 |
-| 一汽解放官方网站 (车型线身份; 정확한 SKU 以官方/公告终核) | 一汽解放 (파우 쥬팡) | CN | T1 | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
+| CA6DM3/上市/国五历史 | 中国经济网 | CN | independent database | CROSS_CHECKED | http://12365.ce.cn/zlpd/jsxx/201811/07/t20181107_6601978.shtml | CA6DM3, 上市, 国五历史 |
+| 550Ps/6x4/国五公告号 | 卡车之家官方号(今日头条镜像) | CN | media/industry | single source | http://m.toutiao.com/group/6901470948680155652/ | 550Ps, 6x4, 国五公告号 |
+| CA6SX1/600Ps/国六 | 太平洋汽车百科 | CN | media/industry | single source | http://m.pcauto.com.cn/baike/1699418/ | CA6SX1, 600Ps, 国六 |
+| 国五扭矩/12挡/缓速器 | 凤凰网汽车 | CN | media/industry | single source | https://auto.ifeng.com/c/8FxHySOrF9w | 国五扭矩, 12挡, 缓速器 |
+| 车型身份/底盘选装 | 汽车之家·车家号 | CN | media/industry | single source | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2856275?t=0x2233 | 车型身份, 底盘选装 |
+| 一汽解放官方网站（车型线身份；exact-SKU以官方/公告final confirmation） | 一汽解放(FAW Jiefang) | CN | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型线身份 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-07
-- **참고 시장 **: 중국 (中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU 终核)
+- **참고 시장 **: 중국 (中国市场柴油 J7 参考; 国五为 2018 历史款须标注, 国六精确马力段 /GCW 为单一来源须解放官方或公告按 SKU final confirmation)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, GCW / 차축 / 부륜 데이터 및 국내 참조 가격은 OEM 시트 또는 MIIT 균질화 항목에 재확인되어야하며 LNG / EV / RHD / 수출 J7은 transacting 전에 별도의 OEM 증거가 필요합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

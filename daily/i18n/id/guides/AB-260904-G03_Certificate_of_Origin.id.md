@@ -14,7 +14,7 @@
 - **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 
 ## Keputusan Tersembunyi dalam Dokumen Routine
-Pengimpor secara rutin meminta untuk "CO" seolah-olah itu adalah satu kertas. Tidak. China isu ** tiga keluarga ** sertifikat asal,  and  Memilih yang salah berarti pembeli tidak dapat membersihkan preferensi atau menerima dokumen yang tidak diduga otoritas tersebut. Peraturan pemerintahan saat ini adalah ** GaCC Order No. 270, * Ukuran Administrasi untuk Sertifikat Origin untuk Ekspor Goods *, diterbitkan 2024-07-30 dan dalam gaya dari 2024-09-01 *. Halaman ini mencakup ** China mengeluarkan sisi **; apakah tujuan tertentu memberikan preferensi adalah keputusan negara itu.
+Importir kerap meminta "CO" seolah itu satu lembar. Tidak. Tiongkok menerbitkan **tiga keluarga** sertifikat asal, dan memilih yang salah berarti pembeli tidak dapat mengklaim preferensi atau menerima dokumen yang tak diakui otoritas. Aturan pemerintah terkini adalah **GACC Order No. 270, *Aturan Administrasi Sertifikat Asal untuk Barang Ekspor***, diterbitkan 2024-07-30 dan berlaku sejak 2024-09-01. Halaman ini mencakup **sisi penerbitan Tiongkok**; apakah tujuan tertentu memberi preferensi adalah keputusan negara itu.
 
 ## Keluarga Tiga Sertifikat
 | Tipe | Tujuan | Ketika eksportir kendaraan menggunakannya |
@@ -73,19 +73,19 @@ Apa bedanya antara orang biasa dan seorang Komandan FTA? CO biasa membuktikan as
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Perintah GACC No. 270, Pengukuran Administrasi Ekspor (dalam gaya 2024-09-01) | Administrasi Umum Bea Cukai Cina (PDF resmi) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | TERBATAI | Rule version, three type, exposers |
-| Ekspor Ukuran Administrasi CO (PDF resmi kedua) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | TERBATAI | Penggunaan Non-preferensial, tiga tipe |
-| Tidak-preferensial CO overview dan mengeluarkan tubuh | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | TERBATAI | Penerbit, no- fee biasa CO |
-* Catatan Scope: Cina hanya mengeluarkan sisi; spesifik FTA aturan dan keputusan preferensi tujuan di luar lingkup dan per- persetujuan / per- negara. ♪
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| Peraturan PRC pada Sertifikat Asal (Dekrit Dewan Negara No. 416) | Dewan Negara PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | TERBATAI | Dasar hukum Cina untuk mengeluarkan preferensial dan tidak-preferensial sertifikat asal |
-| Perjanjian tentang Aturan Asal | Organisasi Perdagangan Dunia (WTO) | INT 'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | TERBATAI | Rule multilateral-of-asal framework |
-| Aturan topik asal | Organisasi Bea Cukai Dunia (WCO) | INT 'L | http://www.wcoomd.org/ | 2026-09-05 | TERBATAI | Referensi klasifikasi dan sertifikasi Bea Cukai |
-| Cina Free Trade Area layanan jaringan (treatoff FTA) | MOFCOM | CN INT 'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | TERBATAI | Asal kanal sertifikat FTA |
-| Sertifikat asal dan sertifikat perdagangan- trade | Dewan Cina untuk Promosi Perdagangan Internasional (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | TERBATAI | CCPIT- dikeluarkan bukan -preferensial sertifikat dari saluran asal |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

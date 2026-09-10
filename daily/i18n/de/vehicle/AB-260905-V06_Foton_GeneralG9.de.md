@@ -28,16 +28,16 @@ Der **Foton General G9 (大将军 G9, 2025) ** ist ein chinesischer Markt Body-o
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
 | Dieselmotor | 2.0T 4F20 柴油 | - | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
-| Dieselmotor | 120 (163Ps) | kW | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Dieselmotor | 120 (163Ps) | kW | CHINA | single sourceN | 太平洋汽车 |
 | Dieseldrehmoment | 390 或 415 (版本差异, 未锁定) | N·m | CHINA | KONFLIKT | 太平洋 vs. 懂车帝 2025 款详表 |
-| Benzinmotorleistung | 175 | kW | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Benzindrehmoment | 360 | N·m | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Übertragung | 6MT 8AT | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Optionen für den Antriebsstrang | 后驱 适时四驱 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Benzinmotorleistung | 175 | kW | CHINA | single sourceN | 太平洋汽车 |
+| Benzindrehmoment | 360 | N·m | CHINA | single sourceN | 太平洋汽车 |
+| Übertragung | 6MT 8AT | - | CHINA | single sourceN | 太平洋汽车 |
+| Optionen für den Antriebsstrang | 后驱 适时四驱 | - | CHINA | single sourceN | 太平洋汽车 |
 | schwache kurze wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
-| Dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCEN | 太平洋汽车百科 |
-| Suspension | 前双叉臂 后整体桥 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Emissionsnorm | 国 VI(0 # 柴油) | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | single sourceN | 太平洋汽车百科 |
+| Suspension | 前双叉臂 后整体桥 | - | CHINA | single sourceN | 太平洋汽车 |
+| Emissionsnorm | 国 VI(0 # 柴油) | - | CHINA | single sourceN | 太平洋汽车 |
 
 ## Pickup Export Checks: Bett, Antriebsstrang und Drehmomentkonflikt
 Pickup-Aufträge scheitern am häufigsten auf Bettlänge und Antriebsstrang. Wählen Sie einen kurzen oder langen Radstand und passen Sie ihn den Bettabmessungen an; Wählen Sie 4WD nur dort, wo der Build einen Übertragungsfall eine niedrige Reichweite bestätigt. Der Diesel-Peak-Momente-Konflikt (390 vs 415 N·m) ist **vom Hersteller absichtlich ungelöst ** – erhalten Sie das OEM-Konfigurationsblatt für die genaue VIN, anstatt die günstige Nummer auszuwählen. Die Zugmasse wird nicht erfasst und darf nicht geschätzt werden. Bestätigen Sie die Emissionsstufe (China-VI-Diesel, 0 # Kraftstoff) gegenüber den Bestimmungskraftstoffqualitäts- und Zulassungsregeln.
@@ -56,17 +56,17 @@ Pickup-Aufträge scheitern am häufigsten auf Bettlänge und Antriebsstrang. Wä
 **Langbettmaße?** Single-Source hier; Cross-Check vor der Bestellung.
 **Welcher Kraftstoff für Diesel?** China-VI, 0 # Diesel; Überprüfung der Bestimmungskraftstoffverträglichkeit.
 
-## Quellen & Verifizierung
-| Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 大将军 G9 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军 G9 配置 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军 G9 车型页 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军 G9 参数 | 新浪汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军 G9 配置库 | 买车网 | CN | T3 | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor offizielle Website | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://www.foton.com.cn/ | Marken-/Modelllinienidentität und OEM-Behörde |
-| Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
-| Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05

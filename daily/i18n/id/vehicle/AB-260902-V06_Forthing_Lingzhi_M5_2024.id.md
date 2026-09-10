@@ -55,7 +55,7 @@ Payload dan kartu-volume peringkat tidak ditangkap dalam Tahap 1 dan tidak diper
 - Periksa apakah tujuan memperlakukan 9-seater sebagai minibus membutuhkan lisensi driver operator tambahan.
 
 ## Apa AutoBridge Adds Selain Halaman Parameter
-Sebuah urutan van gagal pada kesalahan kecil: sebuah "9-seater" terdaftar sebagai kategori yang berbeda, atau unit CNG dijual di mana sertifikasi gas tidak ada. Panduan ini merekomendasikan penguncian ** pangkalan roda (2800/3000), jumlah kursi yang tepat  and  tipe bahan bakar sebagai satu kombinasi pada catatan pembangunannya, memeriksa tujuan ** driver-license operator kategori untuk 9-seater **,  and  - untuk CNG - membutuhkan jalur sertifikasi gas ** gas-cylinder yang dikenal ** sebelum menyimpan daripada mengasumsikan transfer kalibrasi bensin.
+Pesanan van sering gagal karena hal kecil: sebuah "9-seater" terdaftar di kategori berbeda, atau unit CNG dijual tanpa sertifikasi gas. Panduan ini menyarankan mengunci **jarak sumbu (2800/3000), jumlah kursi yang tepat dan tipe bahan bakar sebagai satu kombinasi pada catatan build**, memeriksa **kategori SIM operator di tujuan untuk 9-seater**, dan — untuk CNG — meminta jalur sertifikasi **tabung gas yang terdaftar** sebelum penyimpanan, alih-alih mengasumsikan transfer kalibrasi bensin.
 ## Verifikasi Pembayaran Daftar
 
 - Pin bawah M5 vs M5L (2800 vs 3000 mm roda) dan jumlah kursi yang tepat (5/7/8/9).
@@ -102,21 +102,21 @@ Apa perbedaan roda? 3000 mm (M5L) versus 2800 mm (M5 pendek).
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## Sumber & Verifikasi
+## Sources & Verification
 
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Parameter resmi Lingzhi | Dongfeng Forthing (resmi) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | TERBATAI | Markas Wheelbase 2800/3000, 5/7/9 kursi, kerangka kerja chassis |
-| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | _ BERDECAT | 1.5T 140 kW 300 N·m, 3000 mm WB, pengelola 1700 kg |
-| Tabel parameter Lingzhi | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | _ BERDECAT | Dimensi, CNG powertrain, WLTC 8.4, garansi, harga |
-| Lingzhi M5 artikel | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | _ BERDECAT | Dimensi, pangkalan roda, 7/9-seat layout |
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* Catatan kepercayaan diri (standar AutoBridge): dimensi roda kursi layout yang diVERIFIED di halaman parameter resmi Forthing; 1.5T/CNG powertrains adalah cross _ CHECLOD; bobot bajakan adalah SINGLE _ SOURCE. Payload kargo volume tidak dalam fakta dasar dan tersisa untuk lembar resmi; ekspor RHD spesifikasi tidak asserted. 
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is single source. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

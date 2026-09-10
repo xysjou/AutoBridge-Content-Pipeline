@@ -23,7 +23,7 @@
 أما الرؤوس الفرعية (ليس فقط العنوان المحدد بأربعة أرقام) فهي مسائل: يمكن للمرشد، ووحدة جرار، وهيكلة خارقة مركب أن يجلسا في رموز مختلفة ذات التزامات مختلفة. سجلي قانون الأمن القومي على المبارزة وحافظي عليه بما يتفق مع وصف الفواتير - كل خطوة لاحقة تشير إليه.
 ## الخطوة 2 - خريطة لمدونة قواعد السلوك التقني الخاصة بها
 وتمر المطابقة بين السعودية من خلال منصة وطنية **SABER**، تشرف عليها منظمة المعايير والمقاييس والجودة******؛ ويربط المركز المستوردين، وهيئات تقييم المطابقة المعتمدة من قبل المنظمة، والجمارك السعودية (السابر الرسمية منصة الأوراق المالية، ووصف إدارة التجارة الدولية التابعة للولايات المتحدة نفس الهيكل - VERIFIED). ** لا تفترض أن كل شاحنة تجارية تتبع لائحة واحدة**. وبالنسبة لرمز HS المعلق، يمكن تحديد هوية المبيع (أو عن طريق هيئة معتمدة، كتابة) ** الذي تغطيه فعلاً القواعد التقنية السعودية** - يمكن أن تندرج في نطاقات مختلفة جرارة طريق وسيارة بضائع وبنية خارقة لأغراض خاصة، وقد تكون المعدات المتحركة خاضعة لضوابطها الخاصة.
-## Step 3 — Determine the Required Certificate Type for That Regulation
+## الخطوة 3 — حدّد نوع الشهادة التي يتطلبها ذلك التنظيم
 زوج (سبير) المألوف هو:
 - ** شهادة المطابقة** - مستوى مقابل اللائحة المنطبقة، وهو ما ينطبق عادة على فترة ما ويحصل عليه ** قبل الشحن**؛
 - ** شركة س. ك. (شهادة التقارب)** - شحنة**، مرتبطة بالفاتورة وفاتورة الشحن.
@@ -57,7 +57,7 @@
 7. بالنسبة للوحدات يؤكد الحد الأقصى والأعمال الورقية لإلغاء التسجيل، ونطاق التجهيز المتصاعد.
 ## قبل الدفع - عقد حتى تاريخ توثيقه
 - تم تثبيت الرؤوس الفرعية للجهاز الهوائي واستعمالها بشكل ثابت
-- HS).technical-regulation mapping and required certificate type confirmed **in writing by an accredited body** (no assumed uniform PC).SCoC).
+- مطابقة رمز HS مع اللائحة الفنية وتأكيد نوع الشهادة المطلوبة **خطياً من جهة معتمدة** (دون افتراض شهادة مطابقة موحّدة).
 - ويصبح خط التعريفات الجمركية ZATCA كما يلي: ** بالنسبة لذلك الرمز**؛ وتطبق ضريبة القيمة المضافة على أساس الجمارك المنطبق (لم يُستعير أي من المشغلات الخفيفة 5%).
 - وصيغت وثيقة متوافقة مع الشبكة في قائمة رئيسية واحدة.
 - أي قاعدة مطالَب بها في عام 2026 تدعمها وثيقة رسمية من وثائق رابطة جنوب السودان/رابطة الدول الأمريكية بشأن العنوان - مستبعدة خلاف ذلك من الخطة.
@@ -93,16 +93,16 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Saudi commercial-truck import (SABER/ZATCA), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Saudi commercial-truck import (SABER/ZATCA), 汽车出口采购指南
 
-## المصدر: التحقق
-| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة (والحجم) |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts (and scope) |
 |---|---|---|---|---|---|---|
-| منصة المطابقة الرسمية | SASO Thiqah (**منصة حكومية رسمية**) | SA | https://saber.sa/ | 2026-09-03 | ** مصدق عليه** | هيكل نظام SABER؛ إصدار الهيئات المعتمدة؛ نموذج PC/SCoC للمنتجات المنظمة |
-|07: |07, |  التجارة | | SA/US | https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade . 2026-09-03 . ** محرر** | () وعلاقة بين//مظاهرات/مظاهرات.
-| ZATCA vehicle guidance/calculator (5% + 15%) — **light-vehicle scope only** | ZATCA via public reporting (primary: zatca.gov.sa) | SA | https://english.ajel.sa/news/f7sn5nj77 | 2026-09-03 | صرخات | 5% 15% لجهاز الحساب المطبق *** مشغل للضوء** فئة، غير مؤكد للعناوين الشاحنات HS |
-| HS headings 87.01/87.04/87.05/8716 | المنظمة العالمية للجمارك | Global | https://www.wcoomd.org/ (مرشحة جهاز الأمن العام) | 2026-09-03 | ** مصدق عليه** | مركبة تجارية متجهة إلى الحدود المستخدمة في المسار الأول |
-| Reported ItSO 2026 heavy-truck local-approval rule (conflicting dates) | SHACMAN Global (dealer) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html ED؛ 2026-09-03
-| Reported ISO 22513-2/RDI mandate | SinotruckExp (dealer) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERIFIED | المطالبة فقط؛ مُراقبة، ليس في الواقع |
-* مذكرة عن نطاق الملاءمة (المرجع نفسه - SCOPE_MUST_MATCH): لا يغطي مصدر رسمي سوى نطاقه المعلن. SABER's PCoC / SCoC model is VERIFIED for regulated products but لا يُفترض أن يرتدى زياً واحداً عبر جميع الخطوط التجارية;الـ 5% ZATCA/ 15% ينحصر في نطاقه الخفيف and ليست تعريفة تجارية صينية. The HS to regulation to certificate mapping for شاحنة محددة يجب أن تأكد كتابة صادرة عن سعودية معتمدة الجثة 2026 مطالبة الموافقة المحلية/RDI/ADAS/fast-track/carbon remain تم تأكيدها ♪
+| SABER official conformity platform | SASO / Thiqah (**government platform official**) | SA | https://saber.sa/ | 2026-09-03 | **VERIFIED** | SABER architecture; accredited-body issuance; PCoC/SCoC model for regulated products |
+| Saudi Arabia — Standards for Trade | US International Trade Administration (**government official**) | SA/US | https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade | 2026-09-03 | **VERIFIED** | SABER connects importers/accredited bodies/customs |
+| ZATCA vehicle guidance/calculator (5% + 15%) — **light-vehicle scope only** | ZATCA via public reporting (primary: zatca.gov.sa) | SA | https://english.ajel.sa/news/f7sn5nj77 | 2026-09-03 | CROSS_CHECKED | 5%/15% for the calculator's applicable **light-vehicle** category; NOT asserted for truck HS headings |
+| HS headings 87.01/87.04/87.05/8716 | World Customs Organization HS nomenclature (**standards body**) | Global | https://www.wcoomd.org/ (HS Nomenclature) | 2026-09-03 | **VERIFIED** | Commercial-vehicle heading boundaries used for HS-first routing |
+| Reported SASO 2026 heavy-truck local-approval rule (conflicting dates) | SHACMAN Global (dealer) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
+| Reported ISO 22513-2/RDI mandate | SinotruckExp (dealer) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
+*Confidence & scope note (PRIMARY_SOURCE_SCOPE_MUST_MATCH): an official source covers only its stated scope. SABER's PCoC/SCoC model is VERIFIED for regulated products but is not assumed uniform across all commercial-vehicle HS lines; the ZATCA 5%/15% is confined to its light-vehicle scope and is not a Chinese-commercial-truck tariff. The HS→regulation→certificate mapping for a specific truck must be confirmed in writing by an accredited Saudi body. 2026 local-approval/RDI/ADAS/fast-track/carbon claims remain UNVERIFIED.*
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05

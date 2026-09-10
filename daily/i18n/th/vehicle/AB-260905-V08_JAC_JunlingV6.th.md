@@ -52,16 +52,16 @@ The JAC Juling V6 (骏铃 V6, 2024/2025)) รถบรรทุกส่งแ�
 ด้วย ? # ยุนไน D25TCIF1 2.5 L December 150 hp 400 N·m ในสายที่จับได้
 ~ แล้วรายละเอียดในยางอยู่ไหน ~ ไม่ถูกจับ ขอแผ่นพับ
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥 自重, 自重, 总质量, 载质量 |
-| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
-| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6807685915310293507/ | 安康 160 (พ.ศ. 变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) พ.ศ. | 58 同城二手车 | CN | T4 | ROOS_ CHCKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| เจซี เว็บไซต์อย่างเป็นทางการของมอเตอร์ | Anhui Jianghuai อัตโนมัติ JACC 江淮 (OEM) | CN | T1 | เปิดใช้งาน | https://www.jac.com.cn/ | แบบไลน์และหน่วยงานโออีเอ็ม |
-| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
-| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
+| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 ## การทบทวนแก้ไข
 - ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05

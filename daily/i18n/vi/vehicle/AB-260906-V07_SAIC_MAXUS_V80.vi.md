@@ -19,8 +19,8 @@ Gia đình Xentu (New Route) V80 là xe tải lớn của SIC MAXUS (b-ViN) bán
 | Mục | Giá trị tham chiếu thị trường Trung Quốc | Thị trường TÔI Trim | Tin tưởng |
 |---|---|---|---|
 | Kiểu xe cộ | Xe buýt nhẹ bảng điều khiển lớn van (b-VAN), FWD hoặc RWD cấu hình | TRUNG QUỐC #· Kiểm tra chéo | ĐÃ_ ĐÃ |
-| Tùy chọn chiều dài/ bánh xe | Chiều dài 4950 5490 5700 mm; bánh xe cơ sở 3100 3640 3850 mm theo phiên bản | TRUNG QUỐC. | SINGLE_SOURCE |
-| biển | Phiên bản xe buýt 5–9 và lên đến 15 ghế theo phiên bản; hàng hóa phiên bản 2/3 ghế | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | SINGLE_SOURCE |
+| Tùy chọn chiều dài/ bánh xe | Chiều dài 4950 5490 5700 mm; bánh xe cơ sở 3100 3640 3850 mm theo phiên bản | TRUNG QUỐC. | single source |
+| biển | Phiên bản xe buýt 5–9 và lên đến 15 ghế theo phiên bản; hàng hóa phiên bản 2/3 ghế | TRUNG QUỐC - TIẾNG · MỘT, xác nhận | single source |
 
 Bởi vì bảng tên tương tự bao gồm xe buýt hành khách ngắn và xe tải chở hàng dài, 'một V80' không phải là một đặc điểm đầy đủ. Thứ tự phải đặt tên cho cơ thể dài, bánh xe, vai trò xe buýt và số ghế; lượng hàng hóa và độ khô khác nhau đáng kể trong ma trận.
 
@@ -58,7 +58,7 @@ Nó phụ thuộc vào phiên bản: phiên bản hành khách từ 5–9 lên 1
 
 ** Bao nhiêu chiều dài cơ thể được cung cấp? **
 
-Roughly 4950/5490/5700 mm with 3100/3640/3850 mm wheelbases by version (single-source matrix to confirm).
+Khoảng 4950/5490/5700 mm với chiều dài cơ sở 3100/3640/3850 mm tùy phiên bản (bảng từ nguồn đơn, cần xác nhận).
 
 Nó chở gì vậy? ****
 
@@ -68,15 +68,15 @@ Lái bằng tay phải chứ?
 
 Thị trường Trung Quốc V80 là LHD; một công ty sản xuất RHD hoặc xuất khẩu yêu cầu bằng chứng OEM riêng biệt.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | TRUNG QUỐC | T2 | ĐÃ_ ĐÃ | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱. 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | TRUNG QUỐC | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T 动力. 座位. 尺寸  |
-| V80 厢式 客车版本与尺寸 | 新浪汽车车型库 | TRUNG QUỐC | T3 | SINGLE_SOURCE | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| Sa - mu - ên MA - XUS Tập đoàn toàn cầu | Sa - mu - ên MA - XUS Toàn cục | Comment | T1 | VEII | https://en.saicmaxus.com/ | Nhân dạng — OEM toàn cầu; xuất bản V80 khác với Trung Quốc 新途 V80 |
-| 上汽大通 MAXUS 中国官方 | Sa - mu - ên MA - XUS Trẻ | CN | T1 | VEII | https://www.maxusmall.com/ | Danh tính — Đường dây mẫu chính thức Trung Quốc |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/datainfo/cpgg/ | Danh tính — Xác minh biến thể GVW/sha ăn/cargo qua thông báo |
+| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
+| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
+| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

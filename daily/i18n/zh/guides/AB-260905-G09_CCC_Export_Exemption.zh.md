@@ -1,9 +1,9 @@
 # 核心承诺 强制性认证和出口车辆——范围和豁免
 
 ## SEO元数据
-- **SEO标题**: CCC 维基月球 认证和车辆出口:出口的汽车是否需要中国CCC辆,以及豁免适用时
+- **SEO标题**: CCC  认证和车辆出口:出口的汽车是否需要中国CCC辆,以及豁免适用时
 - **Meta描述**: 中国CCC强制性认证是否适用于车辆:CCC范围和进货核查,为何仅用于出口的产品在国内市场制度之外,以及豁免信类.
-- **H1**: CCC 维基月球 强制性认证和出口车辆——范围和豁免
+- **H1**: CCC  强制性认证和出口车辆——范围和豁免
 - **核心关键词**: ccc 认证出口豁免
 - **次级搜索词**: CCC认证;3C认证;出口豁免;强制性产品认证;CCC免责函.
 - **建议URL**: /guides/ccc-certification-export-exemption/
@@ -39,18 +39,18 @@
 ** ** SAMR规定了该制度;加拿大竞争管理局管理认证和豁免。
 ** ** 他们可有资格享受豁免类别——申请和记录。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 维基月球 | 国家市场监督管理总局 维基月球 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html 维基月球 | 核心承诺适用范围、入境验证、免办情形 |
-| 强制性产品认证管理规定(认监委) (中文(简体)). | 国家认证认可监督管理委员会 维基月球 | 氯化萘 | T1 | 实录 | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html 维基月球 | 主管部门, 认证后方可出厂销售进口使用 (单位:千美元) |
-| 企业申请 CCC 免办业务(条件与系统) (中文(简体)). | 国家认证认可监督管理委员会 维基月球 | 氯化萘 | T1 | 实录 | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html 维基月球 | 免办条件, cccmb.cnca.cn系统 |
-| 认监委 2005 年第 3 号公告 CCC 条件) (中文(简体)). | 国家认证认可监督管理委员会 维基月球 | 氯化萘 | T1 | 实录 | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html 维基月球 | 免办具体情形 维基月球 |（无需）
-| 免予办理强制性产品认证证明(受理条件示例) (中文(简体)). | 安徽省人民政府 维基月球 | 氯化萘 | T1 | 实录 | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 维基月球 | 以整机全数出口为目的进口的零部件免办等 维基月球 |
-| SAMR(《公约》制度) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | CCC 强制性验证制度当局 |
-| 认证和认证管理局(证监会) | CNCA 国家认证认可监督管理委员会 国家 | 氯化萘 | T1 | 实录 | https://www.cnca.gov.cn/ 维基月球 | CCC 管理和豁免制度 |
-| 世贸组织技术性贸易壁垒协定 | 世界贸易组织 | INT 信息技术 | T1/T2 | 实录 | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm 维基月球 | 三丁基锡化合物框架,用于强制性的符合性评估,如核心承诺,以及避免不必要的障碍(豁免逻辑) |
-| 国际电工委员会标准 | 国际电工委员会(电工委员会) | INT 信息技术 | T1/T2 | 实录 | https://www.iec.ch/home 维基月球 | 合规性评估中引用的国际标准; 核心承诺使用经常与信息、教育和宣传相一致的GB标准 |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
+| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | primary | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
+| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | primary | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
+| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
+| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | primary/independent | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
 - ** 上次审查**:2026-09-05
@@ -69,7 +69,7 @@
 - 电话: 电话: 准确的CCC( 密歇根州) 强制性认证和出口车辆
 - ** SCO SCO 图像必须只与确切的模型家族/主题相符; 不得暗示特定的修剪、模范年份、真实的VIN、亲自检查或实际交易
 - **IMAGE_RIGHTS_STATUS**: FAIL
-- 弹簧弹: 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- 无法保存可重用的图像 : 维基媒体的Commons/Flickr无法从研究环境中获取,股票库需要经过认证的API/许可证访问,OEM网页图像不是商业再利用赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
 - **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export

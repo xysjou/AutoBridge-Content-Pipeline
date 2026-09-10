@@ -26,9 +26,9 @@ Wheelbase는 일정하지만 길이와 높이는 몇 년 사이에 약간 이동
 
 | 힘 train | 중국 시장 참고 | 기어박스 | 모형 년 | 의논하기 |
 |---|---|---|---|---|
-| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed 젖은 이중 클러치 | 2024 | SINGLE_SOURCE — VIN/OEM에 의해 확인|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed 젖은 이중 클러치 | 2024 | single source — VIN/OEM에 의해 확인|
 | 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed 젖은 이중 클러치 | 크로스 년 라인 | CROSS_CHECKED |
-| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed 젖은 이중 클러치 | 2025 | SINGLE_SOURCE — VIN/OEM에 의해 확인|
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed 젖은 이중 클러치 | 2025 | single source — VIN/OEM에 의해 확인|
 
 naming 트랩은 실제: 2024 ** 1.5T ** 및 2025 ** 1.5TD ** 유사한 배지에도 불구하고 다른 출력 및 다른 전송 (6DCT versus 7DCT)과 다른 캘리브레이션이 있습니다. The **1.6T** is the strongest of the three  and  두 개의 독립 소스에서 가장 잘 지원되는 것. "1.5 Dashing"이라는 이름은 두 대의 자동차 중 하나에 해결 할 수 있다고 주문하십시오. 그래서 가득 차있는 엔진 지적을,  the year  and  proforma로 전송. 단일 소스 1.5T 및 1.5TD 라인의 정확한 출력은 Jetour 공식 구성 시트 또는 보증금이 지불되기 전에 정확한 MIIT 균질화 항목에 대해 닫아야합니다.
 
@@ -74,19 +74,19 @@ The 1.6T at 145 kW/290 N·m with a 7DCT is cross-checked by two independent sour
 
 RHD 없음 중국 시장 버전은 여기 설치됩니다; RHD 자격은 분리 된 OEM 증거를 필요로하고, 수출 specs는 중국 선에서 inferred는 안됩니다.
 
-## 소스 및 검증
-| Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
-| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
-| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
-| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | independent database | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | media/industry | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
 - **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方/公告按 SKU 终核)
+- **참고 시장 **: 중국 (China-market reference; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方/公告按 SKU final confirmation)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (trim 선, 국내 참고 가격) 및 단 하나 근원 산출은 transacting의 앞에 OEM 윤곽 장 또는 MIIT 입장에 재확인되어야 합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

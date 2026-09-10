@@ -28,7 +28,7 @@
 1. تحديد سلسلة النقل: المحيط النقي مقابل متعدد الوسائط.
 2. استوعب المصطلح لمن يتحكم بالنقل الرئيسي والذي يمكنه أن يتأكد من أنه غير موثوق به
 3. (ج) أن يُحذّر المصطلح بأسلوب الدفع (يجب أن يطابق تدفق الوثائق تحت العنوان L/C المصطلح " Incoterm ").
-4. تجنب الـ دي دي دي دي دي دي دي إلّا إذا كان بوسع البائع أن يتعامل بصورة قانونية مع استيراد الوجهة، والواجب، وضد القيمة المضافة/الأفضلية.
+4. تجنب الـ دي إلّا إذا كان بوسع البائع أن يتعامل بصورة قانونية مع استيراد الوجهة، والواجب، وضد القيمة المضافة/الأفضلية.
 5. الدولة التي يُسمى بها بالتحديد - إن المصطلح الذي لا يوجد فيه نقطة محددة هو نزاع ينتظر أن يحدث.
 
 ## FAQ
@@ -38,16 +38,16 @@
 ** لماذا خطر التشرد الداخلي على مصدِّر صيني؟** وهو يجعل البائع مسؤولا عن تصاريح الاستيراد والرسوم والضرائب في المقصد.
 ** كم عدد القواعد المحددة المدة البالغ 2020؟** أحد عشر، في مجموعتين للنقل
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | مفقود | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
-| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | مفقود | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
-| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | صرخات | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Incoterms 2020 rules (ICC) |法) CN | T1 | مفقود | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/  of ناشر موثوق في Incoterms 2020 |
-| Prevent the Global |CN | | T1 |  مفقود  مفقود  مفقود  مفقود https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx .frames. ?
-| Conduct duito (InternationalGGE INTERNATIONAL FOR PROTEUR 2020 - LI)RE INT T1/T2 | https://iccwbo.org/business-solutions/icc-rules/ | Resito, − CR, LIMITED, LIMITED I, paras. 2020، الفقرات من الإعلان
-| FIATA -شحن البضائع في إطار Incoterms | الاتحاد الدولي لرابطات مشرفي الشحن | INT | T1/T2 | مفقود | https://www.fiata.org/ | التفسير المباشر لنقطة التسليم، والتزامات نقل المخاطر والنقل بموجب Incoterms |
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | primary | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | primary | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | media/industry | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | primary | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| WCO Origin instruments and tools | World Customs Organization | CN | primary | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | International Chamber of Commerce | INT | primary/independent | VERIFIED | https://iccwbo.org/business-solutions/icc-rules/ | Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC |
+| FIATA — freight forwarder practice under Incoterms | International Federation of Freight Forwarders Associations (FIATA) | INT | primary/independent | VERIFIED | https://www.fiata.org/ | Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms |
 ## استعراض التحرير
 - صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
 - ** لم يُستعرض بعد**: 2026-09-05

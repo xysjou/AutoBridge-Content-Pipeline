@@ -48,7 +48,7 @@ Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un n
 - Montaje de impuestos calculado sobre la base de la aduana.gob.cl (6% preferencia general 0%; 19% IVA sobre la cuota CIF+).
 - Cualquier superávit verificado con una fuente de impuestos chilena, no asumido.
 - Ruta 3CV, tarifa actual y cronograma citado por el certificador (no se reutiliza el número de referencia).
-- Cambios de propuesta/estatal re-checked as of shipment date.
+- Volver a verificar los cambios de propuesta/estatales a la fecha de embarque.
 ## Preguntas frecuentes
 **¿Es deber realmente 0% para un coche chino en Chile?** Para *originar* mercancías bajo el TLC China–Chile, con un certificado de origen válido, el deber ad-valorem es de 0%; 19% IVA todavía se aplica.
 **¿Cuál es el deber no-TLC y el IVA?** La aduana chilena establece un deber ad-valorem de 6% en CIF y 19% IVA en valor aduanero más servicio.
@@ -81,18 +81,18 @@ Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un n
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
 
-## Fuentes " Verificación "
-| Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| "¿Cuáles son los impuestos que deben pagar al importar?" (6% CIF + 19% IVA en CIF+duty, ejemplo de trabajo) | Servicio Nacional de Aduanas (**Aduanas chinas, funcionario del gobierno**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | General 6% ad-valorem en CIF; 19% base IVA |
-| "Importación de vehículos" (derecho de vehículos 6% + IVA 19%) | Servicio Nacional de Aduanas (** funcionario del Gobierno**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | Derechos/declaración de la VIVA específico; distinción de la prestación de servicios |
-| Preferencias de China-Chile (0% para el origen calificado), base de certificado | MOFCOM Misión de China en Chile (** órgano de comercio oficial**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ################################################################################################################################################################################################################################################################ | FTA 0% canal de preferencia; estado certificado de origen |
-| ANAC seis medidas para hacer más barato los EVs (propuesta, no ley) | AUTOGUÍA (medios chinos de auto) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE_SOURCE | Estado de la propuesta únicamente - no explícitamente promulgado |
-| Los Contadores — 智利 2026 关税 | Los Contadores(智利本地财税) | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE | 2026 普通关税 6%, 自贸国 0%,IVA 19% |
-| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos(行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 TLC 0% 关税通道 |
-| huajiame — 全球汽车进口关税指南 | huajiame(行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6% (TLC 0%),VAT 19%, 奢侈品税 15% (con relación~$ 35k) |
+| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Chilean Customs, government official**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | **VERIFIED** | General 6% ad-valorem on CIF; 19% IVA base |
+| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
+| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
+| ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | single source | Proposal status only — explicitly not enacted |
+| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | single source | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | single source | 中智 FTA 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | single source | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-* Nota de confianza: el deber general 6% y 19% IVA son VERIFIED en aduanas chilenas; la preferencia FTA 0% es oficial pero condicional en origen. La norma anteriormente incluida 1% /US$ 30 courier (no aplicable a los vehículos), un umbral de lujo-superficie no confirmado y una cuota fija 3CV se han eliminado del cuerpo fáctico; HS - reglas de origen de nivel y cualquier subtax debe ser confirmado con aduanas/SII/SUBREI chilenas. *
+*Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

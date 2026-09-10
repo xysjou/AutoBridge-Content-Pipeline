@@ -86,19 +86,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/T 牵引-电池周期-寿命要求/试验方法 | 中国国家标准(**标准体**) | 氯化萘 | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 维基月球 | 2026-09-03 | ** 已执行** | 能力/周期-寿命测试框架;初始能力要求 | 31484
-| IEC 62660-1/2 | IEC(国际标准机构**) | 全球 | https: 页面存档备份,存于互联网档案馆 https://www.iec.ch/ 62660系列) | 2026-09-03 | ** 已执行** | SOH标准细胞性能/寿命测试基础 |
-| GB/T 46991.1-2025 机载SOH/SOC显示精度和耐久性(MIIT/SAC) | 中国推荐的国家标准(**标准机构**). | 氯化萘 | 通过标准覆盖面报告;主要通过SAC/MIIT渠道报告 | 2026-09-03 | 横跨 | 机上健康显示精度单独标准化(不是合法输入线). |
-| SOH配方和《质量控制/T 743 80%报废公约》 | 伦敦国家中心 电池技术解释器(工业) | 全球 | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ 维基月球 | 2026-09-03 | 资源 | 基于能力的SOH公式;80%作为工业报废参考 |
-| 购买用过的NEV/充电测试和筛选方法的核心点 | Yiche, Dongchedi(自动媒体;方法参考) | 氯化萘 | https://hao.m.yiche.com/wenzhang/107776270/ 维基月球 | 2026-09-03 | 资源 | 检查方法、充电测试、事故/洪水/气压计练习 |
-| 懂车帝 二手车电池检测内容 (单位:千美元) | 懂车帝(字节跳动) (中文(简体)). | 氯化萘 | https://www.iesdouyin.com/share/video/7618925618490849457 维基月球 | 2026-09-02 | 资源 | 20% - 80% 充电验证衰减方法 (中文(简体)). |
-| 懂车帝 二手电车三招排除事故 泡水 调表 (中文(简体)). | 懂车帝(视频) (中文(简体)). | 氯化萘 | https://www.iesdouyin.com/share/video/7678314679869430004 维基月球 | 2026-09-02 | 资源 | 事故/泡水/调表排查方法;电池包护板拆装痕迹 维基月球在线解说-马恩岛环形山. |
-| 静顺车 - 2026 二手新能源出口指南 | 静顺车(行业站). | 氯化萘 | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html 维基月球 | 2026-09-02 | 资源 | 出口 SOH ≥ 80% 认证门槛(欧盟东盟) |
+| 商务部等《关于二手车出口有关事项的公告》（2024年第6号） | 中华人民共和国商务部（wms.mofcom 子站，与 www.mofcom 归一为同一母机构） | CN（出口监管） | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2024/art_52f62edf8132411fa206542d851edfc7.html | 2026-09-08 | VERIFIED | 出口前第三方检测报告要求、企业条件、禁出情形 |
+| 商务部等《关于支持在条件成熟地区开展二手车出口业务的通知》 | 中华人民共和国商务部 | CN | https://www.mofcom.gov.cn/zfxxgk/gkml/art/2021/art_29ef062444784bd5af9400546a1ecb75.html | 2026-09-08 | VERIFIED | 第三方检测报告制度源头、报废/抵押车辆禁出 |
+| 商务部等四部门《关于进一步加强二手车出口管理工作的通知》 | 中华人民共和国商务部 | CN | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-08 | VERIFIED / TIME_SENSITIVE | 质量与售后责任、售后维修服务确认书 |
+| 中国政府网政策库收录（加强二手车出口管理） | 中国政府网/国务院 | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-08 | VERIFIED | 发布主体、施行时间交叉印证 |
+| 中国汽车流通协会（CADA）二手车鉴定评估技术资料（引 GB/T 30323-2013） | 中国汽车流通协会 CADA | CN | https://www.cada.cn/Content/ueditor/net/upload/file/20180708/6366665897945162707573052.pdf | 2026-09-08 | CROSS_CHECKED | GB/T 30323-2013 框架、SOH 技术定义、事故/泡水/火烧判别 |
+| 易车 — 二手新能源选购核心要点 | 易车 | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-02 | single source | SOH 概念、检测方法 |
+| 懂车帝/抖音 二手 EV 检测视频（20%-80% 充电验证） | 字节系（懂车帝/抖音，归一为 1 个母机构） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | single source | 充电验证衰减方法 |
+| 懂车帝/抖音 二手电车事故/泡水/调表排查 | 字节系（与 SOURCE 07 同母机构） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | single source | 事故/泡水/调表排查、电池护板 |
+| 抖音 电池老化阈值经验 | 字节系（同母机构） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 铁锂/三元老化经验阈值（非法规） |
+| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | GLOBAL（出口） | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | single source | 行业经验参考线（非法定） |
+| 抖音 磷酸铁锂/三元 SOH 警戒线 | 字节系（同母机构，URL 与 SOURCE 09 同族，保留方法出处） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 经验阈值 |
 
-* 说明:电池标准的定义(SOH测量、循环测试、80%工程公约)是参照标准机构进行的核查IED/CROSS_CHECKED。 较早的"SOH ≥ 80% 清除欧盟/东盟认证要求"没有官方来源,被删除:不存在普遍的法律SOH进口门槛,必须获得每个国家的目的地当局规则. 检查方法的视频仅用作方法参考。 * 报告迟交是因为需要翻译。
+*Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
 ## 编辑评论
 - ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05

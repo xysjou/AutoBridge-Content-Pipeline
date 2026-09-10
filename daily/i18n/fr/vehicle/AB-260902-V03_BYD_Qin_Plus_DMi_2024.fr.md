@@ -34,7 +34,7 @@ Un VÉHI porte **deux** numéros de gamme que les acheteurs conflètent: ** plag
 ## Ce qu'autoBridge ajoute au-delà d'une table de spécifications
 Les sites de paramètres énumèrent 55 et 120 lignes, mais laissent l'importateur démêler les cycles et les modes. La méthode recommandée est une sortie de moteur de fixation de la note de niveau **VIN, une batterie en kWh, un cycle électrique et une capacité de charge ensemble**, des nuances de marquage où la charge rapide en courant continu est absente (erreur de commande courante sur la petite batterie), et la mention de la plage électrique et combinée séparément de sorte qu'une VÉHI ne soit jamais annoncée sur son numéro combiné comme si elle était de la gamme EV.
 ## Avant paiement
-- Correction ** 55 ou 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
+- Fixer **55 ou 120**, avec le moteur correspondant (132/145 kW) et la batterie correspondante (8.32/18.32 kWh) sur la fiche de fabrication du VIN.
 - Enregistrer le cycle ** de gamme électrique** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ où l'impôt ou les incitations en dépendent.
 - Confirmer la capacité du connecteur et du système AC/DC **par grade**; ne pas supposer que les prises de destination de GB/T correspondent.
 - Confirmer le côté direction, le langage d'infodivertissement/OTA en dehors de la Chine, et la garantie qui couvre le moteur **et** batterie **et** moteur.
@@ -73,18 +73,18 @@ Aucun prix à l'exportation statique n'est publié; le RMB 79, 800–125, 800 Ch
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## Sources et vérification
-| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Page officielle régionale du Département de la gestion de la gestion de la pauvreté (en-bh = site de Bahreïn) | BYD (**officiel fabricant**) | Export **Bahreïn (page régionale en-bh; pas des Émirats arabes unis)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VÉRIFIED (scope: Qin Plus DM-i seulement)** | 18.3 kWh pack, jusqu'à 197 hp 145 kW, 7.3 s pour le Qin Plus DM-i nommé |
-| Glory Edition 55/120 config | Auto-home (汽车之家) | NC | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | _CHECTURE | Dimensions, 1.5L 81 kW, 132 kW moteur, E-CVT, portée |
-| Lancement de l'édition Glory détail | Autohome Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | _CHECTURE | 145 kW 325 N·m, 18.32 kWh, cote à fourchettes multiples |
-| Config Qin Plus | Xcar (爱卡) PCauto Guazi | NC | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | _CHECTURE | Poids de la courbe, empattement, NEDC/WLTC, batterie |
-| 汽车之家 (车家号) 秦 PLUS DM-i 荣耀版上市 | 汽车之家 | NC | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SOURCE UNIQUE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | NC | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SOURCE UNIQUE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | NC | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SOURCE UNIQUE | 轴距 2718mm、油耗、0-100 加速 |
+| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
+| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
+| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
+| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | single source | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | single source | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | single source | 轴距 2718mm、油耗、0-100 加速 |
 
-* Note de confiance (standard AutoBridge): la sortie/paquet de grande batterie est VÉRIFIÉE sur la page Qin Plus DM-i de BYD (en-bh/Bahrain); les chiffres détaillés de la version chinoise sont CROSS_CHECKED. La figure combinée ~ 1245 km est SINGLE_SOURCE et un nombre combiné de cycles chinois. Les chiffres étrangers ne sont utilisés que sur les pages BYD qui nomment explicitement "Qin Plus DM-i"; pas de SAME_ La relation MODÈLE à toute autre dénomination BYD PHEV est déduite sans preuve explicite d'OEM (RELATED_MODEL --SAME_MODEL). *
+*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is single source and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## Révision de la rédaction
 - **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

@@ -10,16 +10,16 @@
 - **搜索意图**: 了解Chery Arrizo 8:中国市场规格和出口核查说明:车辆/部件出口商在承诺订购之前必须核实、记录和决定的内容。
 - **内链建议**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
 - **图片建议**: 阿里索8号
-- **ALT文本**: 切里·阿里佐 8 1.6TGDI (英语). 中国市场轿车
+- **ALT文本**: 切里·阿里佐 8 1.6TGDI  中国市场轿车
 - **Schema范围**: 第+条 车辆(无产品/产出/价格/审查/定时)
 
 ## 买家背景:小汽车场上方的近B区沙龙座
 阿里佐8号是切里继位的轿车,大小在传统紧凑场和B区间,并投放在想要比进货轿车更后方空间的买家身上. 对于出口商来说,开场问题不是价格,而是** 所引用的电动列车线路**:中国范围是建造在1.6-litre涡轮机车左右,本页记录了** 1.6TGDI DCT中国市场汽车(REFERENCE MARKET: CHINA)**。 下面的每个数字都是**中国市场参考规格**,而不是全球规格——目的地调调,排放同位素和设备由当地市场设定,在研究包中也没有为这个模型捕获OEM海外规格表.
 
 ## 驱动线(ICE焦点:发动机,变速箱,燃料,排放)
-| 项目 | 1.6TGDI DCT (英语). (中国参考文献). |
+| 项目 | 1.6TGDI DCT  (中国参考文献). |
 |---|---|
-| 引擎 | 1.6 T 维基月球 内装式4型(SQRF4J16个家庭) |
+| 引擎 | 1.6 T  内装式4型(SQRF4J16个家庭) |
 | 最大功率 | 145 kW (≈197 PS) |
 | 最大扭矩 | 290 N·m |
 | 传送 | 7-speed 湿双脂板 (7DCT) |
@@ -48,7 +48,7 @@
 5. ** 抽水模式**——一个4.78米的轿装集装箱或罗罗积;确认载荷计划数而不是估计数。
 
 ## 请求当前导出提示
-不公布静态出口价格. 中国导价(2024卓越 trim参考,约合人民币99元,900元)是**国内,时间性强的数字,仅是——它不是离岸价格或CIF报价,不得转换为**. 查询** 目的地港 目的地港 内部术语 数量 首选 Trim LHD/RHD 目的地港 内部术语 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容
+不公布静态出口价格. 中国导价(2024卓越 trim参考,约合人民币99元,900元)是**国内,时间性强的数字,仅是——它不是离岸价格或CIF报价,不得转换为**. 查询** 目的地港 目的地港 内部术语 数量 首选 Trim LHD/RHD 目的地港 内部术语 内容
 
 ## 经常被问到的问题
 ** Arrizo 8号是紧凑型还是中型沙龙型? ** 其长4780 mm,有一个2790 mm个轮基,坐落在紧凑场的上缘,靠近B-块尺寸——按测量的足迹,而不是营销标签来分类.
@@ -67,7 +67,7 @@
 - MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
 - IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
-- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
 - ** ** 自动桥出口-买方参考——切里·阿里佐8,汽油/柴油中国市场车辆轿车
 - **法国**: 出口切里·阿里佐汽车(Référence AutoBridge) 8号,中国建筑商泊车
@@ -82,18 +82,18 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
   - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
-## 源码验证(V)
-| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 阿里佐 8 2024 1.6T DCT 卓越参数页面 | ZOL 自动数据库 | 氯化萘 | https://detail.zol.com.cn/car/index2030152.shtml 维基月球 | 2026-09-04 | 横跨 | 尺寸、轮基、发动机、变速箱、结构 |
-| Arrizo 8 1.6T DCT 电话 优异参数 | 索胡汽车数据库 | 氯化萘 | https://db.m.auto.sohu.com/trim_171975 维基月球 | 2026-09-04 | 横跨 | 电源、PS、维度、国内价格参考 |
-| 切里·阿里佐 8 1.6T 动力火车分析 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc 维基月球 | 2026-09-04 | 横跨 | 145 kW/197 PS/290 N·m/7DCT 维基月球在线解说-维基百科中的相关条目: 维基月球在线解说-维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的内容: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的文献 |
-| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
-| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
-| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| Arrizo 8 2024 1.6T DCT Excellence parameter page | ZOL Auto database | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, engine, gearbox, structure |
+| Arrizo 8 1.6T DCT Excellence parameters | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Power, PS, dimensions, domestic price reference |
+| Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW/197 PS/290 N·m/7DCT |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-* 说明:没有捕获到OEM主谱表;数字是中国结构数据库的数值。 门,驱动器布局和最高速度均为单源. 国内价格是时间敏感的,从来不是出口报价。 * 报告迟交是因为需要翻译。
+*Confidence note: no OEM primary spec sheet was captured; figures are cross-checked Chinese structured-database values. Doors, drive layout and top speed are single-source. Domestic price is time-sensitive and is never an export quotation.*
 
 ## 编辑评论
 - ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)

@@ -75,15 +75,15 @@ No — lashing and stowage는 캐리어 / 빌트에 따라; 이름 캐리어 계
 
 운송업체의 선택 차량 및 위험품 요건 및 올바른 UN/IMDG 분류에 따라 예약 전에 확인하십시오.
 
-## 소스 및 검증
-| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 温州首条汽车滚装航线开通、 直达东南亚 (2026-09-06, 港口滚装航线现实运行佐证) | 中国网 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. 광 | T3 | CROSS_체크 | http://news.china.com.cn/2026-09/06/content_119777233.htm | 中国港口 | 中国港口 | 中国港口 | 中国港口 | 中国港口 | 中国港口 | 中国港市
-| 中国港口协会汽车滚装分会行业背景 (行业组织년) | 中国港口协会 | 담당자: Mr. wang | T2 | SINGLE_SOURCE(싱글) | http://www.port.org.cn/ | 滚装码头行业背景  |
-| 商品车多式联运滚装操作规程 JT/T 1194 - 2018 | 交通运输部 (行业标准文本년) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover 운영 절차 기준; 조작상 가치는 운반으로 확인합니다 |
-| 港口货物作业规则 (交通部令 2000 年第 10 号) | 中国政府网 / 交通运输部 / 中国政府网 / 交通运输部 / 中国政府网 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 中国政府网 / 交通运输部 / 中国政府网 / 交通运输部 / 交通运输部 / 中国政府网 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 中国政府网 / 交通运输部 / 中国政府网 / 交通运输部 / 中国政府网 / 交通运输部 / 交通运输部 / 中国政府网 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 / 交通运输部 | 담당자: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 유형:: 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method - 화물 영수증/핸드 오버 및 화물 기록 책임 |
-| 채용정보 배송 특화된 캐리어(공식) | 中远海运特种运输股份有限公司 | 담당자: Mr. wang | T1 | CROSS_체크 | http://www.coscoshipping.com/ | roro_method - 캐리어; 구시 당 일정 / 숙박, 예약 전에 확인 |
-| Wallenius Wilhelmsen (공식 RoRo 캐리어) | 월터스 윌헬름 | INT 소개 | T1 | CROSS_체크 | https://www.walleniuswilhelmsen.com/ | roro_method — 국제 RoRo 캐리어; 합격 조건 캐리어-특정 |
+| 温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证） | 中国网 | CN | media/industry | CROSS_CHECKED | http://news.china.com.cn/2026-09/06/content_119777233.htm | 滚装航线, 中国港口发运  |
+| 中国港口协会汽车滚装分会行业背景（行业组织） | 中国港口协会 | CN | independent database | single source | http://www.port.org.cn/ | 滚装码头行业背景  |
+| 商品车多式联运滚装操作规程 JT/T 1194—2018 | 交通运输部（行业标准文本） | CN | primary | VERIFIED | http://120.79.24.31/data/doc/202101/31/16120905530888.pdf | roro_method — RoRo lashing/handover operating procedure standard; operational values confirm with carrier |
+| 港口货物作业规则（交通部令2000年第10号） | 中国政府网/交通运输部 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2001/content_60820.htm | roro_method — cargo receipt/handover and cargo-record liability at terminal |
+| COSCO Shipping Specialized Carriers (official) | 中远海运特种运输股份有限公司 | CN | primary | CROSS_CHECKED | http://www.coscoshipping.com/ | roro_method — carrier; schedules/acceptance per voyage, confirm before booking |
+| Wallenius Wilhelmsen (official RoRo carrier) | Wallenius Wilhelmsen | INT | primary | CROSS_CHECKED | https://www.walleniuswilhelmsen.com/ | roro_method — international RoRo carrier; acceptance terms carrier-specific |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)

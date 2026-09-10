@@ -25,7 +25,7 @@
 
 | البند | المراجع المتعلقة بالسوق الصينية | الحواشي | الثقة |
 |---|---|---|---|
-| 2.0T البنزين | 172 kW (234 PS) / 360 N·m, 8-speed تلقائي (8AT) FWD | 2025 خط مرجعي | SINGLE_SOURCE — SOURCE - confirm by VIN/OEM|
+| 2.0T البنزين | 172 kW (234 PS) / 360 N·m, 8-speed تلقائي (8AT) FWD | 2025 خط مرجعي | single source — SOURCE - confirm by VIN/OEM|
 
 This page deliberately scopes to the **ICE petrol** G90. أي مشتق هجين أو مثقب أو مغذي فيل كهربي نقي هو كهرباء مختلف ولا يرد وصف له هنا؛ ويجب على المصدر ألا يدمج الأرقام المتعلقة بالخط الكهربائي في مواصفات البنزين. ويتوقف الناتج البالغ 172 kW/ 360 N·m حاليا على مصدر مستقل واحد وينبغي إغلاقه على صحيفة " ماكسوس " الرسمية للتشكيل أو على دخول متجانسات MIIT قبل دفع الودائع.
 
@@ -68,11 +68,11 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 
 والأبعاد المرجعية هي: × 5280 × 1998 × 1845 ملم مع قاعدة متحركة عيار 3200 ملم - وهي مدفعية مدفعية متوسطة الحجم كبيرة حقا.
 
-** هل يأتى فى ستة وسبعة مقاعد؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** هل يأتى فى ستة وسبعة مقاعد؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 نعم، في 2+2+2 ستّة ستّة و2+2+3 مُخططات من سبع طوابق، تُحدد التصميم الدقيق وثلثه في العقد وورقات التطويق.
 
-** ما هو المحرك الذي تغطيه هذه الصفحة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+** ما هو المحرك الذي تغطيه هذه الصفحة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 
 أما الوقود في السوق الصينية البالغ 2.0T في شكل 172 kW / 360 N·m مع دفعة من طراز 8AT وعجلة من الطواف الأمامية؛ والمشتقات الهجينة/الخامسة منفصلة ولا تغطيها هنا.
 
@@ -84,16 +84,16 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 
 السيارة الصينية LHD ; RHD/export بناء يتطلب وجود OEM دليل منفصل and يجب ألا يُفترض أن تكون متشابهة في السلطة , الجلوس أو المعدات.
 
-## المصدر: التحقق
-| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
-| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
-| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
-| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
-| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | primary | single source | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | independent database | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)

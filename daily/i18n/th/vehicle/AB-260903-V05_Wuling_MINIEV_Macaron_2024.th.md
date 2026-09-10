@@ -44,7 +44,7 @@
 - ยืนยัน ** เกรดแบตเตอรี, ชนิดของชาร์จ (AC เท่านั้น) ซีซี ดีซี) รถ 100 km/h - Limited ยังต้องการการตรวจสอบที่ตรงกับปลายทางที่น้อยที่สุดหรือกฎทางหลวงด้วย
 
 ## การปรับแต่งการเรียงลําดับของ VIN-Leve เพื่อล็อคก่อนทําการชําระเงิน
-เครือข่ายแบบไมโคร-EV ชาร์จบ่อย ดังนั้นล็อคช่องเหล่านี้กับแผ่นแผ่นแผ่นแผ่น #
+เครือข่ายแบบไมโคร-EV ชาร์จบ่อย ดังนั้นล็อคช่องเหล่านี้กับแผ่น #
 1. "Range election (170/215)" และตรงกับแบตเตอรี่ kWhh~ — ชื่อ "มาการัน" อย่างเดียวไม่ได้ระบุว่าอันไหน
 2. ~ เตรียมการ ~ — AC-ชาร์จช้าเท่านั้น หรือ ดีซี ลงบนชั้น 215; บวกมาตรฐานการเชื่อมต่อทางกายภาพสําหรับปลายทางด้วย
 3. พลังโมเตอร์  and  เรตติ้งท็อปสปีด* สําหรับเกรด (20 kW/ 100 km/h).
@@ -89,20 +89,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| มา คา รอน เพิ่ม เข้า มา 170 km 20 kW | อัตโนมัติ | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | ROOS_ CHCKED | 20 kW, 170 km ราคาในประเทศ (เวลา) |
-| MINUTES 2025 prices | ฐานข้อมูล Dandmedi | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | ROOS_ CHCKED | ปีตัวอย่าง เกรดปานกลาง MSRP ในประเทศ (เวลา_เวลา) |
-| 2024 มาคารอน 215 (Diminsion/kb) | ฐานข้อมูล Netease Auto | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | 3064/1493/1629, 2010 mm, 777 kg (กลาง DB, ไม่ใช่ OEM) |
-| แบตเตอรีแมคคารอน แบตเตอรีแบบช้า | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ○ 13.4 kWh วิธีชาร์จ |
-| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
-| จีบี 7258 มอเตอร์-เวฮอกเคิล สภาวะเทคนิคความปลอดภัย (GB 7258-2017 ปัจจุบัน; พ. 2013/ii.8 กลาญ – – เ ่อ ่อ ่อ ่อ ่อ ่อ ค ค ค ค น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ น น ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ ศ GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
-| GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
-| GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
+| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
+| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
+| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | single source | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
+| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | single source | ≈13.4 kWh, charging method |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
 
-* ใบรับรองการขอข้อมูล: ไม่มีหมายเลขข้อมูล Woldonidence: None Wolling/SAIC-GM-Wuling speck sport expression access (in อังกฤษ); ฐานข้อมูลสื่อไม่ได้เปิดใช้งาน (IFIFIIIIIII) kerb น้ําหนัก, ความเร็วสูงสุด และ kWH เป็นซิงเกิล CLTC เป็นรถจีนเท่านั้น การชาร์จเสบียงต้องได้รับการยืนยันว่า ใช้ VIN แน่นอน *
+*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
 
 ## การทบทวนแก้ไข
 - ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]

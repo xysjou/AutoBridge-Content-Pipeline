@@ -35,7 +35,7 @@ Untuk pickup tempat tidur dan muatan dinilai adalah inti komersial, dan mereka v
 | 商用版 Komersial | Berorientasi pada pekerjaan, tempat tidur panjang (3470 mm WB), pilihan transmisi yang lebih luas | Payload GVW, panjang tempat tidur, leaf-spring set-up, pilihan manual |
 | 越野版 Of- road | Enhanced 4WD, kunci, chassis tyre upgrade | Rentang rendah, kunci diff, ban, izin tanah, sudut |
 ## Apa AutoBridge Adds Beyond Brochure
-Penjemputan daftar tahun model kabur dan pasar, sehingga pembeli menerima sebuah truk 2.4 diesel 480 Nm "yang mungkin membawa 8AT atau 9AT, atau tempat tidur standar dijual sebagai tempat tidur panjang. Metode yang disarankan adalah untuk pin ** kode mesin + model transmisi + heelbase bed + drive type ke catatan pembangunan VIN **, tetap 2024-reference nilai terpisah dari keluaran resmi GWM-dan menurun ke kutipan muatan towing bahwa lembar resmi tidak menyatakan - menghindari urutan duble-cab yang paling umum tidak cocok.
+Daftar pikap mengaburkan tahun model dan pasar, sehingga pembeli menerima truk diesel 2.4 480 Nm yang mungkin memakai 8AT atau 9AT, atau bak standar yang dijual sebagai bak panjang. Metode yang disarankan adalah menyematkan **kode mesin + model transmisi + panjang bak + tipe penggerak ke catatan build VIN**, menjaga nilai acuan 2024 terpisah dari keluaran resmi GWM, dan menurunkan klaim muatan/derek yang tak dinyatakan lembar resmi — menghindari salah-cocok double-cab yang paling umum.
 ## Ekspor Verifikasi untuk Pencari Pendek
 - Konfirmasi ** LHD RHD ** dan bahwa mesin transmisi terpilih dihasilkan dalam tata letak kemudi.
 - Verifikasi tujuan ** emisi bahan bakar ** penerimaan (differs tahap diesel oleh GCC LatAm ANZ aturan) - label Cina tidak bukti.
@@ -46,7 +46,7 @@ Penjemputan daftar tahun model kabur dan pasar, sehingga pembeli menerima sebuah
 Tidak ada harga ekspor statis yang diterbitkan; China RMB reference are ** domestik dan waktu -sensitive, not FOB CIF **. Enquire with **Destination Country · Quantity · Version · Engine Code · Transmission · 4×2/4×4 · LHD/RHD · Bed Length · Destination Port · Incoterm**.
 ## FAQ Pembeli
 ** Petrol atau Disel Poer? ** Bensin GW4C20B untuk penggunaan lebih ringan jalan; 2.4 diesel GW4D24 membuat 480 N·m untuk beban dan penarik - pilih dengan misi.
-8AT atau 9AT? Mobil penumpang Cina 2024 menggunakan ZF 8AT; GWM saat ini membangun menggunakan 9AT dengan 2.4 diesel. Konfirmasi transmisi pada VIN tahun yang tepat.
+8AT atau 9AT? Mobil penumpang Tiongkok 2024 memakai ZF 8AT; produksi GWM saat ini memakai 9AT dengan diesel 2.4. Konfirmasi transmisi pada VIN dan tahun yang tepat.
 ** Apa itu pangkalan roda? 3230 mm standar penumpang tempat tidur, 3470 mm komersial tempat tidur panjang.
 ** Apa payload? Tidak disebutkan di sini karena tidak hadir dari fakta yang diverifikasi dasar; mengambil dari versi yang tepat lembar resmi.
 ** Apakah tersedia dalam RHD? ** GWM menjual Poer Ute di kedua layout di banyak pasar - mengkonfirmasi mesin versi tertentu di RHD untuk negara Anda.
@@ -76,19 +76,19 @@ Tidak ada harga ekspor statis yang diterbitkan; China RMB reference are ** domes
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## Sumber & Verifikasi
-| Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM mengambil tabel konfigurasi resmi (GW4C20B/GW4D24, 8AT/9AT, tenaga bersih torsi) | GWM (** produsen resmi **) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | ** terselubung ** | Pompa bersih resmi saat ini 160 kW 380 N·m bensin, 135 kW 480 N·m diesel, 8AT/9AT |
-| GWM POER 2.4 export (181 hp 480 N·m 9AT, body-on-frame 4WD) | GWM Jordan (** produsen resmi **) | Ekspor JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | ** terselubung ** | Ekspor keluaran 2.4 diesel, 9AT, 4WD tubuh-on-frame |
-| Luncurkan GWM UK POER300 (2.4 diesel 183 PS 480 N·m, 9AT, full- time 4 × 4 low-range) | GWM Mobil Inggris (** produsen resmi **) | Ekspor UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | ** terselubung ** | Ekspor rating diesel, 9AT, 4 × 4 low-range |
-| 2024 Pao config (China reference penumpang) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | _ BERDECAT | 2024 penumpang 140 kW 360 bensin, 135 kW 480 diesel, ZF 8AT |
-| Parameter Pao (drilbase drive oleh versi) | Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | _ BERDECAT | 3230/3470 pangkalan roda, versi drive transmisi | 360che
-| 汽车之家 问答: 炮动力 | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE _ SOURCE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
-| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE _ SOURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
-| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE _ SOURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
+| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
+| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
+| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | single source | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | single source | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | single source | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-* Catatan kepercayaan diri: keluaran / transmisi saat ini sedang diVERIFIED pada GWM halaman resmi; nilai penumpang 2024 Cina adalah CROSS _ CHECWD pada basis data dan sengaja tetap terpisah untuk menghindari pencampuran model tahun. Payload / GVW / derek tetap untuk lembar resmi dan tidak diperkirakan. ♪
+*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

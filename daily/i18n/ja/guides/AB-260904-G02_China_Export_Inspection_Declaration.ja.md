@@ -74,20 +74,20 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| 法的根拠指数 — 商品検査法および規制の実施 | 中国税関(GACC)の一般管理 | CN の | 担当: http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html の | 2026-09-05 | VERIFIED (プライマリ; ブラウザで開く、自動フェッチブロック) | 現行の検査法(2021改正)を名称し、法定点検の規制を実施する。 厳密な法的な点検カタログの記入項目は10-digitによってまだ点検されます ダイアグラム |
-| 輸入品/輸出品の宣言に関する税関規制(GACC注文番号277、力2025-05-01) | 中国の習慣の一般管理(GACC)、gov.cnによる | CN の | 以下は、 https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html の | 2026-09-05 | 検証済み(プライマリ) | 輸出宣言のための現在の法的枠; 特定の10-digit HSラインが statutorily 検査されるかどうかはHS-by-HSによってHS-を点検します |
-| インターネット+税関サービスガイド(検診=カタログ/法的必須商品) | ジャック | CN の | 以下は、 https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html の | 2026-09-04 | 検証済み(プライマリ) | カタログ決定ルール |
-| GACC 通知 2024 No. 163 (外触媒ランダム検査; 輸出 = 子供のおもちゃ) | ジャック | CN の | 担当: http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf の | 2026-09-04 | 検証済み(プライマリ) | ランダムインスペクションスコープ |
-| GACC 注文番号 277、宣言規定 | 州議会ガゼット/gov.cn | CN の | 以下は、 https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html の | 2026-09-04 | 検証済み(プライマリ) | ドキュメント、署名責任を伴います |
-| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090、2026-01-01から) | モーフコム | CN の | 担当: http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE(プライマリ) | ライセンス対検査の差別 |
-| GACC 通知 2025 号 138 (事前決定申請の最適化) | 税関リリース(レポスト) | CN の | 担当: http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | シングル_ソース | プロセス最適化 |
-*証拠の範囲: 第一次ソースによって検証されたフレームワーク; the catalogue result for any specific ten-digit code must be checked live  and  一般的にはならず、 ふりがな
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
+| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
+| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
+| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | single source | Process optimization |
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 -
 - **検証方法**: 第一次GACC MOFCOMソース; 毛布カタログの結論なし; HS-first決定方法

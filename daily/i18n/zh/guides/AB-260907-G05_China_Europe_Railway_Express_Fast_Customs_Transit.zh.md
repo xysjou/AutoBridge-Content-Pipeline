@@ -72,17 +72,17 @@
 
 运费率、运货表、装载和加压价值是路线、承运人和货物的具体价值,必须从承运人获得,才能实际装运。
 
-## 源码验证(V)
-| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 中国国家铁路集团 | 中国国家铁路集团 | CN | T1 | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
-| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | T1 | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
-| 海关总署2021年5号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
-| 海关总署政策直通车㉘ | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
-| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
-| 海关总署(178号公告) | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
-| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
-| 央视网 | 央视网 | INT | T3 | SINGLE_SOURCE | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
+| 中国国家铁路集团 | 中国国家铁路集团 | CN | primary | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
+| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | primary | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
+| 海关总署2021年5号公告 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
+| 海关总署政策直通车㉘ | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
+| 海关总署 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
+| 海关总署(178号公告) | 海关总署 | CN | primary | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
+| 海关总署 | 海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
+| 央视网 | 央视网 | INT | media/industry | single source | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)

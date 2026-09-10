@@ -77,17 +77,17 @@ Os documentos de conformidade apoiam o formulário M e o PAAR que a alfândega d
 
 Este guia não apresenta um valor fixo — obter as actuais fontes de tarifação/política fiscal da NCS; as taxas e a política etária são sensíveis ao tempo.
 
-## Fontes e Verificação
-| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| Serviço Aduaneiro da Nigéria 官网 (海关征收进口关税 增值税 "! 清关与 CEDEAO 共同对外税则执行机构身份) | Serviço Aduaneiro nigeriano | NG | T1 | VERIFICADO | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
-| SON 官网 (SONCAP 强制合格评定制度;SONCAP 证书办理已要求迁移至尼日利亚单一窗口 Nigéria Janela Única) | Organização das Normas da Nigéria | NG | T1 | VERIFICADO | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
-| Rotas de serviço e certificação da SONCAP (PC1/PC2/PC3, CoC, SC) | Organização das Normas da Nigéria | NG | T1 | VERIFICADO | https://son.gov.ng/soncapservice/ | soncap — Documentos SONCAP obrigatórios para o desalfandegamento das mercadorias regulamentadas |
-| Perguntas frequentes sobre o SONCAP | Organização das Normas da Nigéria | NG | T1 | VERIFICADO | https://son.gov.ng/soncap-faq/ | soncap — âmbito de aplicação do regime de conformidade offshore/pré-expedição |
-| Certificação Internacional de Produtos da SON | Organização das Normas da Nigéria | NG | T1 | VERIFICADO | https://son.gov.ng/son-product-certification/ | Soncap — base jurídica SON Act n.o 14 2015 e inspecção prévia à expedição |
-| Programa SONCAP re-engenhariado e IAFs nomeados | Organização das Normas da Nigéria | NG | T1 | TIM_SENSITIVO | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — Papel da IAF que liga o Formulário M PAAR; taxas sensíveis ao tempo |
-| 尼日利亚强制性合格评定程序 (SONCAP) 法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | T1 | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Resumo do governo chinês das categorias regulamentadas da SONCAP, incluindo autopeças/pneus/bateria |
-| Guia de Exportação para a Nigéria SONCAP | Cotecna (FAI designada pela SON) | NG | T2 | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — guia de processo designado para a empresa de inspeção |
+| Nigeria Customs Service官网（海关征收进口关税/增值税、清关与ECOWAS共同对外税则执行机构身份） | Nigerian Customs Service | NG | primary | VERIFIED | https://www.customs.gov.ng/ | 海关征管机构身份 — 尼日利亚海关 |
+| SON官网（SONCAP强制合格评定制度；SONCAP证书办理已要求迁移至尼日利亚单一窗口Nigeria Single Window） | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://www.son.gov.ng/ | SONCAP, 强制合格评定, 单一窗口迁移 — 尼日利亚强制标准 |
+| SONCAP service and certification routes (PC1/PC2/PC3, CoC, SC) | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncapservice/ | soncap — SONCAP documents mandatory for customs clearance of regulated goods |
+| SONCAP FAQ | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/soncap-faq/ | soncap — offshore/pre-shipment conformity scheme scope |
+| SON International Product Certification | Standards Organisation of Nigeria | NG | primary | VERIFIED | https://son.gov.ng/son-product-certification/ | soncap — legal basis SON Act No.14 2015 and pre-shipment inspection |
+| Re-engineered SONCAP programme & appointed IAFs | Standards Organisation of Nigeria | NG | primary | TIME_SENSITIVE | https://son.gov.ng/wp-content/uploads/2022/08/SONCAP-Approved-Fees-Aug-2022.pdf | soncap — IAF role linking Form M / PAAR; fees time-sensitive |
+| 尼日利亚强制性合格评定程序（SONCAP）法规说明 | 中华人民共和国驻尼日利亚联邦共和国大使馆 | NG | primary | CROSS_CHECKED | https://ng.china-embassy.gov.cn/nrlyzc/xgflfg/201503/t20150331_7736534.htm | soncap — Chinese government summary of SONCAP regulated categories incl auto parts/tyres/battery |
+| Exporter Guide to Nigeria SONCAP | Cotecna (SON-appointed IAF) | NG | independent database | CROSS_CHECKED | https://www.cotecna.com/media/hiynkhsf/voc-exporter-guide-nigeria-0822.pdf | soncap — appointed inspection firm process guide |
 
 ## Revisão Editorial
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)

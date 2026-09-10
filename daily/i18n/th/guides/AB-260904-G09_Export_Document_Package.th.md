@@ -5,7 +5,7 @@
 - **คำอธิบาย Meta**: สร้างเอกสารส่งออกที่ตั้งอยู่รอบๆ ใบรับรองโรงงาน GB/T 21085-2020 ปัจจุบัน โดยแยกมันจากมาตรฐาน 20260041-Q-339 ที่ยังมีผลบังคับใช้อยู่ และปฏิบัติต่อรายการ NEV / transactation เป็นคําแนะนํา
 - **H1**: การรวบรวมแพกเกจเอกสารการส่งออกของรถจีน สิ่งที่เป็นปัจจุบัน สิ่งที่ยังคงเป็นแบบร่าง สิ่งที่เราแนะนํา
 - **คีย์เวิร์ดหลัก**: ใบรับรองโรงงานสําหรับผลิตเอกสารแบบ March GB/T21085
-- **คำค้นหารอง**: 机动车出厂合格证, GB/T21085-2020 ปัจจุบัน, 20260041-Q-339 ร่างร่างร่างร่าง, ประกาศนียบัตรการส่งออกแบบตามมาตรฐาน, NEV เอกสารส่งออก UN38.3
+- **คำค้นหารอง**: 机动车出厂合格证, GB/T21085-2020 ปัจจุบัน, 20260041-Q-339 ร่าง, ประกาศนียบัตรการส่งออกแบบตามมาตรฐาน, NEV เอกสารส่งออก UN38.3
 - **URL ที่แนะนำ**: /guides/export-vehicle-document-package
 - **เจตนาการค้นหา**: เข้าใจการบรรจุแพกเกจเอกสารส่งออกของรถจีน ในปัจจุบันคืออะไร สิ่งที่ยังเป็นแบบร่าง สิ่งที่เราแนะนํา สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
 - **คำแนะนำลิงก์ภายใน**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
@@ -75,17 +75,17 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GB/ T 21085-2020 ใบรับรองโรงงาน (ปัจจุบัน) | เปิดใช้ SAMR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | ISIFIE (เมษายน) | ค่าวันที่ปัจจุบัน |
-| SAMR Planpy สืบค้นเมื่อ SAMB/T 21085-2020 รายละเอียด | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | ISIFIE (เมษายน) | วันแสดงเหตุการณ์ |
-| ผังมาตรฐาน 20260041-Q-339 (การก่อสร้าง) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | เวลา_ปัจจุบัน (วันจันทร์) | แบบ Footture |
-| SAMR notice assigning 24 mandatory standard plans | SAMR/ SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | ISIFIE (เมษายน) | มอบหมายงาน |
-| LMIT GB21085 — แบบร่างที่ปรึกษา XXXX (ปัจจุบันไม่ปรากฏ) | MIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAF (เมษายน) | ข้อความแบบร่างอย่างเดียวแบบหลายหน้า (บล็อคจากคําที่ใช้อยู่ในปัจจุบัน) |
-| ลงทะเบียนแบบมอเตอร์-เวเนโรด (แฟ้มบันทึกการลงทะเบียนแบบพอร์ต) | เทศบาล Xiantao | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | ISIFIE (เมษายน) | ใบรับรองการลงรหัส + ใบรับรอง |
-| รายการแฟ้มส่งออกเป็นกล้อง | เน็ตส | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | ROOS_ CHCKED | ชุดนําเสนอ, แนะนําการมอบข้อมูล DEF/ Transact |
-* ประตูบ้าน: กฎหลายขั้น และข้อบังคับในการแทนที่คือ DRAFT/FUFE และกันออกจากข้อความการจองงานปัจจุบัน; รายการ NEV/Trancation is resentations. *
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
+| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
+| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
+| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
+| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
+*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

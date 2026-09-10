@@ -76,22 +76,22 @@
   - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
 
-## ソースと検証
-| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| FCLの輸出サーチャージの故障 | ネットエイズ | サインイン | 以下は、 https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED(クロス) | O/F、THC、DOC、BAF、監査方法 |
-| THC定義 | サイナ 金融配送 | サインイン | 以下は、 https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md のファイル | 2026-09-04 | CROSS_CHECKED(クロス) | ターミナル取扱カバレッジ |
-| レーンによるオーシャン輸出充電コンポーネント | ベイク | サインイン | 以下は、 https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED(クロス) | サーチャージの税理士、AMS/ACI/ENS のルートの論理 |
-| 一般的なFOB料金(THC/書記/引掛) | | CN の | 以下は、 | 2026-09-04 | シングル_ソース | チャージネーミング | https://m.11467.com/product/d24491409.htm 11467
-*証拠の範囲:業界ソース(公式の関税主ソースなし)から断面構造を充電します。 AMS/ACI/ENSは、ルート固有の編集ガイダンスとしてフレーム化し、すべての量は時間感度として非審的に除外されます。 ふりがな
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| 規約 2020 規則 | 国際商工会議所(ICC) | インフォメーション | 以下は、 https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | 検証済み | どの貨物/充満はIncotermによってバイヤーの対の売り手に落ちます |
-| 貨物の練習と料金のカテゴリー | フィタ | インフォメーション | 以下は、 | 2026-09-05 | 検証済み | | https://fiata.org/
-| ライナーの船積みおよび追加料金のコンテキスト | 世界配送協議会 | インフォメーション | 以下は、 https://www.worldshipping.org/ は、 | 2026-09-05 | 検証済み | 海上貨物および補助金のための産業コンテキスト |
-| 中国国際 貨物運送業者協会 | CIFA(シバ) | CN/INT'Lの | 担当: 所在地:東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都港区、東京都品川区、東京都品川区、東京都品川区、東京都品川区、東京都品川区、東京都品川区、東京都品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区、品川区 | 2026-09-05 | 検証済み | 中国側フォワード業界と見積りの練習 | http://www.cifa.org.cn/
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
 - **参考市場**:国際海貨物構造(量、車線固有の関税なし)
 - **検証方法**: 構造の交差チェック; 明示的な手数料のルートスコープ; ゼロ固定図は、主張しました

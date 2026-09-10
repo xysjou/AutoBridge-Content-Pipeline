@@ -70,25 +70,25 @@
 -~PT~: เร เปร เซียน เซีย ออ โต ริดจ์ พา เร เท รา โดเรส เด เอ ส โต ซา อา — โครง สร้าง ของ การ ขน ส่ง สินค้า ใน มหาสมุทร, กวา เดอ คอม พา รา ส ปา รา ซา วา เด เว คู ลัส
 - ~JA~: TOPBridge 輸出バイヤー向けリファレンス | โครงสร้างประจุไฟฟ้าของมหาสมุทร 自動車輸出 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Ocean freight quotation charge structure, 자동차 수출 조달 가이드
-- ~วูฟ~: ทายาจิ ชะวู ทัม งา ะ ะ ะ ะ ะ ะ ะ ะ ะ วะ วะ ะ ะ วะ ะ วะ ะ โฮ — โครงสร้าง ประจุไฟฟ้า ของ มหาสมุทร, hkhung dukn na u au au au au yot khu xe
+- ~วูฟ~: ทายาจิ ชะวู ทัม งา ะ วะ วะ ะ ะ วะ ะ วะ ะ โฮ — โครงสร้าง ประจุไฟฟ้า ของ มหาสมุทร, hkhung dukn na u au au au au yot khu xe
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Ocean freight quotation charge structure, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
 - ~-~~: เรฟินี ออ โต เบรก อุน ทัก เป็มเบลี เอ ค เรส พอร์ — โครงสร้าง การ ขน สินค้า ของ มหาสมุทร, ปานามา เพน กา ดัน เอ็กซ์ ปอร์ เคน เด นเด รา อัน
--~~~: مرجع ออโตเบริก لمشتري ا لتصدير لتصدير لتصدير — กรม ขน ส่ง สินค้า ทาง ทะเล โครงสร้าง دليل مشتري ت تصدير تصدير تصدير لمركب ا ا ا ت ت ت ت ت
+-~~~: مرجع ออโตเบริก لمشتري ا لتصدير لتصدير لتصدير — กรม ขน ส่ง สินค้า ทาง ทะเล โครงสร้าง دليل مشتري ت تصدير تصدير تصدير لمركب ا ا ا ت
 - ~ZH~: TOPBridge 出口采购参考 | ▪ เครื่อง คิด ค่า น้ํา ใน มหาสมุทร
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| การส่งออก FCL หยุดทํางาน | เน็ตส | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | ROOS_ CHCKED | O/F, THC, DOC, BAF, วิธีการตรวจสอบ |
-| นิยาม THC | ภาษาสินาName การส่งค่าเงิน | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | ROOS_ CHCKED | การจัดการเทอร์มินัล |
-| ส่วนประกอบประจุส่งออกของมหาสมุทร โดยเลน | ไบค์ | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | ROOS_ CHCKED | ตรรกวิทยาการภาษี, ตรรกะเส้นทาง AMS/ACI/PENCE |
-| ค่าใช้จ่าย FOB ทั่วไป (THC/ booking/cracking) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ชื่อเครื่อง | 11467
-*ขอบเขตการตรวจจับ: โครงสร้างประจุข้ามผ่านการตรวจสอบจากแหล่งอุตสาหกรรม (ไม่ระบุแหล่งกําเนิดหลักของทาริฟอย่างเป็นทางการ; AMS/ACI/NCE ระบุว่าเป็นแนวทางการจําแนกเส้นทาง; ปริมาณทั้งหมดจงใจแยกเป็นเวลา *
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
+*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
-| Inccepte 2020 กฎ จ่าย การขนส่งในแต่ละเทอม) | ราชอาณาจักรพาณิชย์สากล (ICC) | Int'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | เปิดใช้งาน | ค่าใช้จ่ายตกเป็น ผู้ซื้อ vs ขายโดย Incoconds |
-| ฝึกและจัดหมวดหมู่ชาร์จ | เฟียตา | Int'L | https://fiata.org/ | 2026-09-05 | เปิดใช้งาน | คํานวณจอภาพ |
-| Lineer จัดส่งและตรวจสอบบริบท | สภา การ ขน ส่ง โลก | Int'L | https://www.worldshipping.org/ | 2026-09-05 | เปิดใช้งาน | บริบทอุตสาหกรรมสําหรับสินค้าในทะเลและค่าใช้จ่ายในการผลิต |
-| ประเทศจีนอินเตอร์เนชันแนล สมาคม นัก เดิน หน้า ที่ มี ความ สุข | SIFA | CN/ INT'L | http://www.cifa.org.cn/ | 2026-09-05 | เปิดใช้งาน | ประเทศจีน-ด้านการส่งต่ออุตสาหกรรมและการฝึกการเล่าเรื่อง |
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

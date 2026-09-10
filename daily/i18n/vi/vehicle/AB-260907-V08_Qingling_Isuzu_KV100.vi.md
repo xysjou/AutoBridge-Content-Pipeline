@@ -25,15 +25,15 @@ Bởi vì xe tải nhẹ được bán như một chiếc khung gầm cộng v�
 
 | Mục | Tham khảo thị trường Trung Quốc | Tin tưởng |
 |---|---|---|
-| Máy | ** 4KH1CN6LB ** 3.0-litre diesel, China- 6 (Điềm Sinh Linh) | SINGLE_SOURCE |
-| Xuất | 120 PS / 290 N·m | SINGLE_SOURCE — xác nhận bởi VIN/OEM|
-| Hộp bánh răng | Sổ tay MB 5-speed (5MT) | SINGLE_SOURCE |
+| Máy | ** 4KH1CN6LB ** 3.0-litre diesel, China- 6 (Điềm Sinh Linh) | single source |
+| Xuất | 120 PS / 290 N·m | single source — xác nhận bởi VIN/OEM|
+| Hộp bánh răng | Sổ tay MB 5-speed (5MT) | single source |
 
 Gia đình 4KH1 tồn tại trong nhiều hậu tố khác nhau, và báo cáo độc lập thứ hai chỉ ra một tỷ lệ 4KH1 khác nhau. Đó chính là lý do tại sao mã động cơ đầy đủ - ** 4KH1CN6LB **, không chỉ là "một 4KH1" - phải được viết vào trật tự và phù hợp với mục nhập của MIIT. Một chiếc diesel Trung Quốc 6 được điều chỉnh để nạp nhiên liệu Trung Quốc và sân khấu V.C.; loại nhiên liệu đích đến và sự nhận dạng lượng nhiên liệu phải được kiểm tra riêng biệt hơn là giả định.
 
 ## Nạp và kerb: phân loại không phải là dữ liệu nhà máy
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Những con số này không phải là ** được trình bày như là đặc điểm: chúng thay đổi với cơ thể được trang bị, được người bán tự báo và không thể dùng để kích thước một vật nặng. Hàng hạng nặng, khối lượng kerb và GVW đến từ chứng nhận đồng nhất khung khung khung sườn **exct / tên bảng nháp**. Bắt những kẻ trước khi giao nhiệm vụ hàng đầu.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Những con số này không phải là ** được trình bày như là đặc điểm: chúng thay đổi với cơ thể được trang bị, được người bán tự báo và không thể dùng để kích thước một vật nặng. Hàng hạng nặng, khối lượng kerb và GVW đến từ chứng nhận đồng nhất khung khung khung sườn **exct / tên bảng nháp**. Bắt những kẻ trước khi giao nhiệm vụ hàng đầu.
 
 ## Đường thẳng và ranh giới Isuzu toàn cầu
 
@@ -78,21 +78,21 @@ Có phải chiếc xe mới 100P là cùng một chiếc không? **
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Nguồn và Định dạng
-| Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-08
-- ** chợ địa phương**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型).
+- ** chợ địa phương**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Các dữ liệu về kết quả đầu ra của động cơ đơn và tất cả các dữ liệu được đánh giá là tải/GVW phải được xác nhận lại trên tờ OEM hoặc mục nhập ghi chú của MIIT, và trạng thái tương tự với Isuzu toàn cầu yêu cầu một tuyên bố rõ ràng trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

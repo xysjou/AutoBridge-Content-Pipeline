@@ -34,7 +34,7 @@
 5. .. 完全なファイルを保持する 5 年.
 
 ## クーポン
-このガイドは、制裁されたエンティティティ(変更)をリストせず、国固有のエンバーゴの結論を付与しません。現在のリストを入手し、あいまいなケース、法的アドバイスのために。
+このガイドは、制裁されたエンティ(変更)をリストせず、国固有のエンバーゴの結論を付与しません。現在のリストを入手し、あいまいなケース、法的アドバイスのために。
 
 ## よくある質問
 **普通の乗用車は二回使用していますか?** 想定しないでください。 - 現在のリストに対して特定の項目、技術、および宛先をスクリーン表示します。
@@ -43,17 +43,17 @@
 **画面は誰ですか?** バイヤー、委託先、その他の関係者、インテーク、出荷前。
 **ヒットしたら?** エスカレートし、続行しない。 拒否されたパーティーは提供されてはならない。
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN の | T1 | 検証済み | 担当: http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明、保存 5 年、管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN の | T1 | 検証済み | 以下は、 https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf のファイル | 订单筛查系统、最终用途声明、合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN の | T1 | 検証済み | 以下は、 https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理、关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN の | T1 | 検証済み | 以下は、 https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可、WMD/恐怖主义 军事用途 |
-| 商務省(MOFCOM) | MOFCOM 商务部の特長 | CN の | T1 | 検証済み | 以下は、 .mofcom.gov.cn/. | 輸出ライセンスおよび輸出制御のための有能な権限 | https://www.mofcom.gov.cn/
-| 規制(EU) — EUのデュアルユース輸出制御体制 | 欧州連合(EUR-Lex) | 欧州連合 | T1/T2 | 検証済み | 以下は、 https://eur-lex.europa.eu/eli/reg/2021/821/oj の | | 2021/821
-| 米国BISエンティティティリスト — 制限されたパーティスクリーニング例 | 日米工業安全局(BIS) | 米米米米 | T1/T2 | 検証済み | 以下は、 https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | 出荷前に、公に制限されたパーティリストが拒否されたエンティティティスクリーニングをイラスト化 |
-| 米国のOFC SDN リスト — 制裁スクリーニング | 外国資産管理事務所(OFAC) | 米米米米 | T1/T2 | 検証済み | 以下は、 https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | 特別に指定される 国家リストは、制裁スクリーニングデータソースとしてリストします。 管轄権特化、グローバルブラックリストではありません |
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | primary | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | European Union (EUR-Lex) | EU | primary/independent | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design |
+| US BIS Entity List — restricted-party screening example | US Bureau of Industry and Security (BIS) | US | primary/independent | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Public restricted-party list illustrating denied-entity screening before shipment |
+| US OFAC SDN List — sanctions screening | US Office of Foreign Assets Control (OFAC) | US | primary/independent | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist |
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

@@ -27,7 +27,7 @@
 
 中国源は、複数のリチウム電池パック(LFPおよび一線を渡る十分に62 / 67.8 / 76 kWh)とCLTCの範囲を記述し、異なる電池と駆動の組み合わせに取り付けられた575 / 610 / 620 / 700 km。 現在、単一ソースと、実際のSKUのOEM構成シートで、正確なバッテリー間距離を測るマッピングが確認されている必要があります。 このページは間違いなく**** は固定の 'battery X = range Y' テーブルを印刷しないので、ソースをマッピングしても完全にロックされていないと主張するので、 ' を非公開にします。
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? CLTCは中国テストサイクルです。 目的地サイクルの下の異なる(典型的に下がる)数字をWLTPやEPAではなく、WLTP評価ライバルと直接CLTC番号を比較してはいけません。
+ CLTCは中国テストサイクルです。 目的地サイクルの下の異なる(典型的に下がる)数字をWLTPやEPAではなく、WLTP評価ライバルと直接CLTC番号を比較してはいけません。
 
 ## 充電アーキテクチャ:800Vはバージョンに依存しています
 
@@ -71,16 +71,16 @@ Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  a
 
 5010×1920×1465 mm前後 2925 mm ホイールベース(中国市場参照、トリムで確認)
 
-## ソースと検証
-| ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 银河 E8 参数 （ 电池 62/67.8/ 76kWh 、 能量密度 、 整备质量 、 续航版本 ） | 懂车帝车型参数页 | 日 時 分 | T2 | CROSS_CHECKED(クロス) | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量 、 整备质量 、 续航 |
-| 银河 E8 多 トリム 对比 (5010 × 1920 × 1465 、 WB2925; インフォメーション 575/610/620/700; 后驱 200/ 250kW 、 四驱 475kW) | 懂车帝车型对比 | 日 時 分 | T2 |  CROSS | CHECKED (クロス) | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸 、 续航 、 电机功率 、 驱动 |
-| 银河 E8 610km 版 （ 250kW / 373N·m 、 5.49s 、 宁德时代 67.8kWh 、 800V ） | 汽车之家・车家号 | 日 時 分 | T3 | シングル _ ソース | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610 版电机 、 电池供应商 、 平台 |
-ゲリー・インヘ / 銀河 E8 車ページ(OEM) | ジーリーオート | CN/EXPORT(エキポート) | T1 | 試用版 | https://www.geely.com/ja/corporate-fleet-sales/galaxy-e8 | OEM の メーリング メーリング メーリング メーリング メーリング オブ オブ ワールド オブ オブ ワールド オブ オブ ワールド オブ ワールド オブ ワールド オブ オブ オブ ワールド オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ オブ  スタッフ
-| ジンヘ E8 (Jan 2024  OEM  リリース) の納入を開始 | ジーリーオート |  CN  の | T1 | 検証済み | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | アイデンティティ | 起動タイミングと  SEA  アーキテクチャ トリム仕様は  SKU  ごとに静止 |
-| 道路机动车辆生产企业及产品公告 (查询入口) | 中华人民共和国工业和信息化部 |  CN  の | T1 | 検証済み | https://www.miit.gov.cn/datainfo/cpgg/ | モーター | 力 | 発表によるバッテリー | ドライブのバリアントを検証 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 | 力 |
-| 銀河 E8 の特長 | リンカーズ | CN の | T3 | CROSS | CHECKED(クロス) | https://www.lynkcar.com/geely-galaxy-e8/ | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱商品 | 取扱
+| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
+| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
+| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
+| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

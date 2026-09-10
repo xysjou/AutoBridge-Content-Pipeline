@@ -25,15 +25,15 @@ Debido a que los camiones ligeros se venden como una costra de chasis más un cu
 
 | Tema | Referencia del mercado chino | Confianza |
 |---|---|---|
-| Motor | ** 4KH1CN6LB ** 3.0-litre diesel, China- 6 (Naciones Unidas VI) | SINGLE_SOURCE |
-| Producto | 120 PS / 290 N·m | SINGLE_SOURCE — confirm by VIN/OEM|
-| Caja de cambios | Manual de MSB 5-speed (5MT) | SINGLE_SOURCE |
+| Motor | ** 4KH1CN6LB ** 3.0-litre diesel, China- 6 (Naciones Unidas VI) | single source |
+| Producto | 120 PS / 290 N·m | single source — confirm by VIN/OEM|
+| Caja de cambios | Manual de MSB 5-speed (5MT) | single source |
 
 La familia 4KH1 existe en más de un sufijo con diferentes productos,  and  un segundo informe independiente hace referencia a una calificación de sufijo 4KH1 diferente. Es por eso que el código completo del motor — ** 4KH1CN6LB **, no sólo "a 4KH1 " — debe ser escrito en el orden y coincide con la entrada de homologación MIIT. Un diesel China- 6 está calibrado para el combustible chino y la etapa VI nacional; El grado de combustible de destino y el reconocimiento de emisiones deben ser revisados por separado en lugar de asumirlo.
 
 ## Carga de carga y masa de kerb: los anuncios no son datos de fábrica
 
-Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Estas cifras son **no** presentadas como especificaciones: varían con el cuerpo equipado, son auto-reportados por los vendedores y no se puede utilizar para tamaño una carga. La carga útil autorizada, masa de kerb y GVW provienen del certificado de homologación de chasis de **exacto / placa de nombre**. Obtenga a los que antes de comprometerse a un ciclo de servicio de carga útil.
+Used-vehicle listings (a directory/listing classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Estas cifras son **no** presentadas como especificaciones: varían con el cuerpo equipado, son auto-reportados por los vendedores y no se puede utilizar para tamaño una carga. La carga útil autorizada, masa de kerb y GVW provienen del certificado de homologación de chasis de **exacto / placa de nombre**. Obtenga a los que antes de comprometerse a un ciclo de servicio de carga útil.
 
 ## Líneas adyacentes y el límite global Isuzu
 
@@ -78,21 +78,21 @@ No en esta evidencia: está Qingling-construido para China y se trata como un mo
 
 No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
 
-## Fuentes " Verificación "
-| Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
 |---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
-| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | directory/listing | single source | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-08
-- **Mercamiento de referencia**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- **Mercamiento de referencia**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 directory/listing 不作规格, 与全球 Isuzu ELF 不自动同型)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. Las salidas de motor de un solo proveedor y todas las cifras de payload/GVW nominales deben ser confirmadas en la hoja OEM o entrada de homologación MIIT, y el estado de la misma modelo con Isuzu global requiere una declaración OEM explícita antes de la transacción.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

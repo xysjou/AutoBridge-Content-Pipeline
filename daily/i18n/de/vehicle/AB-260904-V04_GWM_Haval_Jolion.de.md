@@ -35,9 +35,9 @@ Chinesische Dimensionen, Motor und Leistung beruhen hauptsächlich auf einer str
 - **Übersee-HEV (OVERSEAS · AU/TH/VN)**: ein ** 1.5L DHT-Hybrid**, gemeldet bei etwa ** 190 PS kombiniert 375 N·m **. Dies ist eine **andere Antriebsstrangarchitektur**, die in ausgewählten Überseemärkten verkauft wird; sie muss in einer eigenen Kolonne sitzen und niemals mit dem chinesischen 1.5T. verschmolzen werden.
 
 ## Wie man ohne Mischen Märkte auswählen
-1. Decide whether the enquiry is the **Chinese 1.5T line**, ein **overseas 1.5T ** oder ein **overseas HEV ** vor dem Lesen einer beliebigen Zahl.
+1. Klären Sie vor dem Lesen eines einzelnen Werts, ob es sich um die **chinesische 1.5T-Baureihe**, ein **Übersee-1.5T** oder ein **Übersee-HEV** handelt.
 2. Jedem Antriebsstrang und jeder Ladungsfigur ein Marktetikett beifügen; 210 N·m 7DCT  and  430/1130 L are Australian, Die ~ 190 PS 375 N·m HEV ist nur in Übersee.
-3. Motor, Leistung und Getriebe mit der FIN aufzeichnen (siehe Anleitung zur FIN/Typenschild); a Chinese 1.5T unit must not carry HEV or Australian specs on its PI.
+3. Motor, Leistung und Getriebe anhand der FIN festhalten (siehe FIN/Typenschild-Anleitung); eine chinesische 1.5T-Einheit darf auf dem PI keine HEV- oder australischen Spezifikationen tragen.
 4. Bestätigung der Lenkseite und Bestimmungshomologation; Chinesisch LHD 1.5T Auto ist kein Beweis RHD oder HEV Verfügbarkeit im Käufer Markt.
 5. Da die Namensidentität vom OEM bestätigt ist, der Antriebsstrang jedoch marktspezifisch ist, fordern Sie das **Fabrik-Baublatt OEM-Modell-Code-Mapping** für die genaue VIN an, anstatt eine marktübergreifende Äquivalenz anzunehmen.
 
@@ -83,20 +83,20 @@ Es wird kein Ausfuhrpreis veröffentlicht und hier keiner abgeleitet. Fordern Si
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
-## Quellen & Verifizierung
-| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| GWM Firmengeschichte (Chulische Auslandsversion JOLION, Südafrika/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Marken-HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIZIERT (primär) | GEMEINSAMES MUSTER Basisidentität |
-| Haval Chulian 1.5T Autoparameter | Sina Auto Datenbank | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | SINGLE_SOURCEN | Chinesische Abmessungen, 1.5T, 110 kW, Radstand |
-| Australische Jolion 1.5T Power & Dimensionen | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | SINGLE_SOURCE (Übersee) | 210 N·m; 7DCT;  430/1130 L — AU only |
-| Jolion Pro HEV Australien startet | Autohome: Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE (Übersee) | HEV-System im Ausland |
-| Jolion 2025 Vietnam (überseeische HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | SINGLE_SOURCE (Übersee) | Übersee-HEV-Erklärung |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
-| GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
+| GWM corporate history (Chulian overseas version = JOLION, South Africa/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Brand HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primary) | SAME_MODEL base identity |
+| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | single source | Chinese dimensions, 1.5T, 110 kW, wheelbase |
+| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | single source (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
+| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | single source (overseas) | Overseas HEV system |
+| Jolion 2025 Vietnam (overseas HEV) | iFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | single source (overseas) | Overseas HEV corroboration |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
 
-*Vertrauensbeweis: RESEARCH_CONDITIONAL. Name Identität VERIFIZIERT von GWM OEM (SAME_MODEL auf Basisebene); Chinesische Drehmoment-/Getriebewerte sind GEBLOCKED (nur eine australische Quelle existiert) und werden nicht als chinesische Spezifikationen angegeben; HEV im Ausland werden streng marktgekennzeichnet. Kein Ausfuhrpreis. *
+*Confidence note: RESEARCH_CONDITIONAL. Name identity VERIFIED by GWM OEM (SAME_MODEL at base level); Chinese torque/transmission values are BLOCKED (only an Australian source exists) and are not stated as Chinese specs; overseas HEV kept strictly market-labelled. No export price.*
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

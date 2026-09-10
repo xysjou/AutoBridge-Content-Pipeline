@@ -17,7 +17,7 @@
 ผู้ส่งออกมองว่าตัวเลือกการเรียกเก็บเงินเป็นเอกสาร มันเป็นการตัดสินใจที่เสี่ยงต่อการชําระเงิน เมื่อคุณย้ายจากบิลต่อรองเดิม ไปปล่อยโทรคมซ หรือรถรางทะเล คุณจะเปลี่ยนเวลาหยุดควบคุมรถที่จุดหมายปลายทาง มัคคุเทศก์คนนี้จับคู่พฤติกรรมธุรกิจของเครื่องมือสี่ชิ้น กับระบบอาหารจีนที่ยังคงดําเนินอยู่  **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58),  in force from 2026-05-01 (16 chapters, 310 บทความ) "*" —  and  แล้ววิธีจ่ายก็เข้าเงื่อนไข กฎโทรคมนาคมและค่าธรรมเนียมต่าง ๆ ยังจํากัดการเดินทาง และไม่ได้รับระบุว่าเป็นค่าที่ตั้ง
 
 ## สี่ เครื่อง มือ ข้าง เคียง
-| วิธีการ | ใครนะที่เป็นปัญหา | วิธี ที่ ผู้ ส่ง ส่ง ส่ง ของ | เรือถือเอกสารของชื่อ? |
+| วิธีการ | ใครนะที่เป็นปัญหา | วิธี ที่ ผู้ ส่ง ของ | เรือถือเอกสารของชื่อ? |
 |---|---|---|---|
 | ~Marster B/L (MBL)** | สายส่ง ตัวการ | ยอมแพ้ต่อ MBL ดั้งเดิม (หรือขั้นตอนตามบรรทัด) | ใช้ — สัญญาของสายการบิน + ฟังก์ชันเอกสาร- ชื่อ |
 | ~ บ้าน B/L (HBL) ~ * | ส่งต่อไปยังบริการ NVOC Passage | HBL แลกเปลี่ยน HBL สําหรับ MBL ผ่านตัวแทนปลายทางของตัวส่งหน้า | ใช่ที่ระดับ HBL มีบุคคลที่พิเศษในห่วงโซ่ |
@@ -79,25 +79,25 @@
 -~PT~: เรเฟอร์เรนเซีย ออโตไบร์ดเรพา พาราโดเรส เดอ เอสเปราซาเนา — เอ็ม บี แอล เอช บี แอล เทเลกซ์ ปล่อย และ เวย์บิล ทะเล กัวอา เดอ คอมเพราส พาราพาราซาซาเด เววีคูโลส
 - ~JA~: TOPBridge 輸出バイヤー向けリファレンス | MBL HBL Tex ออกจําหน่ายและ wayball ทะเล 自動車輸出 調達ガイド 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜MBL HBL telex release and sea waybill, 자동차 수출 조달 가이드
-- ~วูฟ~: Thai liju Thamkho Auto Bridge jo ng i i i i i a a a a a a a h h h h h h h h h h h h h h h h h h ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ e e e e  — e e e e e ẫ ẫ ẫ ll ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ  cho  cho  cho ẫ  cho ẫ
+- ~วูฟ~: Thai liju Thamkho Auto Bridge jo ng i i i i i a h ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ ẩ e e e e  — e e e e e ẫ ẫ ẫ ll ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ ẫ  cho  cho  cho ẫ  cho ẫ
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — MBL HBL telex release and sea waybill, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
 - ~-~~: Referenti Autobridge imbei eppesperi export — MBL HBL Telex เปิดตัวและ wayball ทะเล Planduan Penngadaan keport Kendaraan
--~~~: مرجع ออโตไบร์ด لمشتري ا ا لتصدير لتصدير لتصدير لتصدير لتصدير لتصدير لمركب لمركب لمركب لمركب لمركب ا ا ا ا ا ا ا ا ت ت ت ت ت
+-~~~: مرجع ออโตไบร์ด لمشتري ا ا لتصدير لتصدير لتصدير لتصدير لتصدير لتصدير لمركب لمركب لمركب لمركب لمركب ا ت
 - ~ZH~: TOPBridge 出口采购参考 | MBL HBL Tex ออกจําหน่ายและ wayball ทะเล 汽车出口采购指南
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| ประมวลกฎหมายของ PRC (2025 รุ่น, คําสั่งประธานาธิบดี 58, ในบังคับ 2026-05-01) พ.ศ. | NPC คณะกรรมการยืน (NPc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | ISIFIE (เมษายน) | Arts.80/81/87, รุ่น  and  วันที่ที่มีผล |
-| ต้นฉบับ B/L TVx Sea Waybill อธิบาย | วิกิพีเดียName | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ROOS_ CHCKED | นิยาม MBL/SWB/เทลเท็กซ์ |
-| บิลค่าบ้าน | เงินลงทุนของ Sina | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | ROOS_ CHCKED | MBL/ HBL ห่วงโซ่, ฝึกรถ |
-| วิธีการปล่อยและประเภท B/L | สาขาความรู้อุตสาหกรรม พ.ศ. | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ROOS_ CHCKED | เปรียบเทียบสี่เมธอด | 11467
-| สี่วิธีปล่อยและความเสี่ยง Telex (อเมริกา) | เน็ตส | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | ผู้โดยสาร_ปลายทาง | จํากัดระดับความจุแบบลําดับ, การยอมรับพอร์ต |
-| การ ขน ส่ง สินค้า จาก ประเทศ ต่าง ๆ เพื่อ จัด การ ประชุม ภาค และ กฎหมาย แบบ จําลอง | ยูนิเซฟ | Int'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | เปิดใช้งาน | โครงสร้างทางกฎหมายเปรียบเทียบสําหรับเอกสารการขนส่ง (Hague-Visby/ Hambburg/Rotterdam) |
-| อ้างอิงเอกสารการส่งและข้อตกลงมาตรฐาน | บิสโค | Int'L | https://www.bimco.org/ | 2026-09-05 | เปิดใช้งาน | การอ้างอิงแบบมาตรฐานแบบอุตสาหกรรม |
-| FIATA ขนส่งเอกสารและบริการสินค้า | สหพันธ์นานาชาติแห่งฟรีตีฟลายเวอร์ (FIATA) | Int'L | https://fiata.org/ | 2026-09-05 | เปิดใช้งาน | เอกสารส่งต่อ (FBL/FCR) ฝึกแยกส่วน B/Ls |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-*Confidence ข้อสังเกต: transcial parame interfect interviewed ผ่านข้อความเต็ม NPC ของรุ่น 2025 (ในบังคับ 2026-05-01); นิยามธุรกิจ cross-cogned; transcial assed ยังคงกําหนดการเดินทาง- sport exception. *
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

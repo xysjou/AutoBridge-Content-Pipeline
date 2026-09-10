@@ -67,25 +67,25 @@ FTA แต่ละฉบับมีกฏของตัวมัน ต้น
 -~PT~: เร เปร รียน อา โต บี ริดจ์ พา เร เท รา โดเรส เด เอ สกา ซา นา อา — ประกาศนียบัตร ที่ มา จาก การ ส่ง ออก รถยนต์, กวา เดอ คอม เทร รอส พารา ซา วา เด เว คู ลัส
 - ~JA~: TOPBridge 輸出バイヤー向けリファレンス | ใบรับรองที่มาของการส่งออกรถ, ○ 調達ガイド 調達ガイド
   - **KO**: AutoBridge 수출 바이어 참고 자료｜Certificate of origin for vehicle export, 자동차 수출 조달 가이드
-- ~วูฟ~: Thai liju Thamkhoo Auto Bridge ju ng i i gua xu at khu — ใบรับรองที่มาของการส่งออกรถ hhhhhhhng dhin มิว มิว ฌ็อง ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะฐะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะฐะ ะฐะ ะ ะฐะฐะฐะฐะฐะฐะ ะฐะฐะ ะ ะ ะฐะฐะ ะฐะฐะ ะ ะ ะ ะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะฐะ ะฐะฐะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ ะ
+- ~วูฟ~: Thai liju Thamkhoo Auto Bridge ju ng i i gua xu at khu — ใบรับรองที่มาของการส่งออกรถ hhhhhhhng dhin มิว มิว ฌ็อง ะฐะฐะ ะฐะ ะ ะฐะฐะ
   - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Certificate of origin for vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
 - ~-~~: Referenti AutoBridge imbei epsport — ใบรับรองที่มาของการส่งออกรถ, Panduan Penngadaan ekspop Kendaraan
--~~~: مرجع ออโตไบริดจ์ لمشتري ا لتصدير لتصدير لتصدير — ใบรับรอง ที่ มา จาก รถยนต์ ส่ง ออก دليل مشتري ا ت تصدير تصدير لمركب لمركب ا ا ا ا ا ت ت ت ت ت ت ت ت
+-~~~: مرجع ออโตไบริดจ์ لمشتري ا لتصدير لتصدير لتصدير — ใบรับรอง ที่ มา จาก รถยนต์ ส่ง ออก دليل مشتري ا ت تصدير تصدير لمركب لمركب ا ت
 - ~ZH~: TOPBridge 出口采购参考 | ใบรับรองที่มาของการส่งออกรถ, ○
 
-## ต้นฉบับและการตรวจสอบสิทธิ์
-| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
+## Sources & Verification
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| – – – – ย – ย ย ย ย ย ย ย ย ย ย ย ย ย ง ง ง ล ล ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ ํ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 270, ส่งออกค่าวัดค่า COAADminitives (ในแรง 2024-09-01)) | กรมศุลกากรของประเทศจีน (PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | เปิดใช้งาน | รุ่นกฏ, สามประเภท, ผู้ออกจําหน่าย |
-| ส่งออกเป็น COAIministation title (PDF อย่างเป็นทางการ) | แบบ GPC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | เปิดใช้งาน | ไม่ใช้ก่อน, สามประเภท |
-| ภาพรวมของ CO ที่ไม่ใช่เอกลักษณ์ และกําลังสร้างร่างกาย | เข้ารหัส ศรียาน | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | เปิดใช้งาน | ผู้ออกข่าว, ซีโอธรรมดา |
-*สโกเป หมายเหตุ: จีนออกด้านเดียว กฎของ FTA เฉพาะและปลายทางที่ชื่นชอบ การตัดสินใจนั้นเกินขอบเขต และต่อชน-ชน-วิ่ง *
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
+*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
-| มติบัตร PR เรื่อง ใบรับรองแห่งจุดเริ่มต้น (พระราชบัญญัติสภาผู้แทนราษฎร ฉบับที่ 416) | สภา รัฐ แห่ง ปรากร | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | เปิดใช้งาน | พื้นฐานทางกฎหมายของจีน ที่ออกก่อนกําหนด และไม่ใช่ใบรับรองที่รับรองได้ |
-| มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวสิก มิวเรียล มิวสิก มิว มิว มิว มิวเรียล มิวสิก มิวสิก มิวสิก มิวสิก มิวเรียล มิวเรียล มิวเรียล มิวเรียล มิวสิก มิวสิก มิวสิก มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว เรียล มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว มิว เวท เวท สิก สิก | World Trade Office (WTO) | int'L'L//s/sww.net/enitle/etop_e/e/e/e/e/hi_htm-09 2026-09-05 | เ เ เ เ เ เ เ ป ป ป ิ ิ ด ใ ใ ใ น น น น น | | | | | | | | | | ค ค ค ค ค ค ค ค ค ส ส ส ร ส ส ส ส ร ร ส ส ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ร ้า ้า ้า ้า ้า ้า ้า ้า ร ้า ้า ร 
-| กฎ ของ หัวข้อ ที่ มา | WHO (WCO) Name | Int'L | http://www.wcoomd.org/ | 2026-09-05 | เปิดใช้งาน | กําหนดเอง |
-| เครือข่ายบริการพื้นที่การค้าของจีนเสรี (ระบบการรักษาทาลี (FTA) | OMFCOM | CN/ INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | เปิดใช้งาน | FTAA ของใบรับรอง |
-| ใบรับรองต้นกําเนิดและสัญญาต่างประเทศ | รัฐสภาจีนเพื่อการส่งเสริมการค้าระหว่างประเทศ (CPAT) | CN | http://www.ccpit.org/ | 2026-09-05 | เปิดใช้งาน | CCPIT ที่ถูกพิมพ์ไม่รับรองชื่อ ช่องกําเนิด |
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
