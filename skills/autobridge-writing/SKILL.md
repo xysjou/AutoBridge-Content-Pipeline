@@ -1,6 +1,6 @@
 ---
 name: autobridge-writing
-version: 1.2
+version: 1.3
 role: AutoBridge Export Writing & Localization AI
 description: >
   根据 AutoBridge Research Fact Sheet / Source Log 完成采购型汽车文章、12语完整正文、
@@ -647,6 +647,81 @@ MACHINE_LOCALE_QA_PASS ≠ LANGUAGE_QUALITY_PASS
 ### MACHINE_QA_NON_AUTHORITATIVE_FOR_LANGUAGE
 
 任何基于 target-script ratio、数字一致、URL 一致、行数对齐的自动 PASS，都不能作为最终语言质量结论。语义门未逐页过，不得声明语言完成。元数据（Title/Meta/H1/ALT）QA 不等于全文 QA，两者都必须过语义门。
+
+---
+
+## 24B. 规则适用范围与公共导出（Review-confirmed 永久规则 v1.3）
+
+独立 Review 在 Saudi/ZATCA、估价回退、Incoterms、时间时效与公共字段上确认了系统性越界风险，新增以下永久 Gate。核心要求：**正文确定结论必须忠实于来源的适用边界，general rule 与 exception 必须分别表达，禁止把条件性/类别性规则写成无条件绝对规则。**
+
+### GENERAL_RULE_EXCEPTION_SCOPE_GATE
+
+当官方来源同时存在 general rule 与 exception / conditional route / special importer category / different vehicle class 时，正文必须分层表达，不得合并成绝对结论。每处规则必须可标注：
+
+```text
+GENERAL_RULE
+EXCEPTION
+IMPORTER_TYPE
+VEHICLE_CLASS
+CONDITION
+OTHER_PROHIBITIONS
+```
+
+禁止在官方未如此表述时写“超过 X 年一律禁止”“所有进口都要求……”“只要没有发票才……”“所有车辆都适用……”。一般规则不得覆盖例外通道，例外通道也不得反写成普遍规则。
+
+### IMPORTER_TYPE_SCOPE_GATE
+
+个人进口（individual / personal / Premium Residency holder 等）资格路径不得推广给 dealer / commercial / fleet / 批量商业进口人，反之亦然。Saudi/ZATCA 类规则必须分别核对：一般 model-age 限制、individual 适用路径、Premium Residency holder 路径、dealer/commercial/fleet 是否同资格、light/heavy 类别差异，以及 salvage/flood/fire/structural damage/RHD conversion 等**独立禁入原因**。不得把一般年限限制写成毫无例外，也不得把个人条件通道推广给商业进口人。
+
+### VEHICLE_CLASS_SCOPE_GATE
+
+light vehicle（乘用车/轻车）规则不得外推到 heavy truck / bus / special vehicle；某一车型级别的准入、年限、检验、税费结论不得套用到另一级别。来源只覆盖某级别时，正文必须显式限定该级别。
+
+### INVOICE_FALLBACK_TRIGGER_GATE
+
+来源表述为 authority may reject / not accept / doubt the submitted invoice 时，必须忠实保留“**即使提交了发票，主管机关仍可能不接受/质疑而改用其他估价依据**”，不得改写成 “only when no invoice exists（仅在无发票时才回退）”。
+
+```text
+INVOICE_FALLBACK_TRIGGER_MISSTATED=0
+```
+
+### EXTERNAL_FACT_VS_EDITORIAL_METHOD
+
+官方要求（external fact，如官方要求 VIN/model/year/make）与 AutoBridge 采购方法（editorial method，如建议记录 exact trim/powertrain/steering/VIN range/seller accountability）是两层，不得混写。只有官方确实要求的字段才能写 “because the authority requires it”；采购方法必须标注为 AutoBridge editorial procurement method / recommended practice，而非 government requirement。
+
+### INCOTERMS_SCOPE_GATE
+
+FOB/CIF/FCA/CIP 等 Incoterms 定义的是 **delivery point、selected rule 下指定义务/费用的分配、risk transfer**；**不是** ownership transfer / title transfer，也不是成交价格形成机制。Source 描述同样不得写 “defines price transfer”。统一表述：
+
+```text
+Defines delivery point, allocation of specified obligations/costs and risk transfer under the selected Incoterm.
+```
+
+### TIME_SENSITIVE_CURRENTNESS_GATE
+
+每条政策/公告必须区分三个时间字段，不得用旧公告自动担保当前仍适用：
+
+```text
+SOURCE_PUBLICATION_DATE   # 来源发布日期（如 2025-05-30 公告）
+EFFECTIVE_DATE            # 生效日期（如自 2025-07-01 实施）
+CURRENT_APPLICABILITY_VERIFIED  # 是否已用当前证据核实仍适用
+```
+
+可写“2025-05-30 公告宣布、自 2025-07-01 实施”；但若缺当前年份适用证据，不得自动改写成“2026 当前仍保证使用同一版本”。时间敏感结论保留“以官方当日为准”。
+
+### PUBLIC_EXPORT_FIELD_ALLOWLIST_GATE
+
+面向网站公共渲染只允许白名单字段：
+
+```text
+public_title public_meta public_h1 public_summary public_body public_faq public_sources public_image_fields
+```
+
+以下内部生产字段禁止进入公共正文/公共导出：Research AI / Writing AI / Review AI / Codex、Revision source、Fact Sheet version、Source Log version、T1/T2/T3/T4、SINGLE_SOURCE、scope matched、research_status、QA_PASS、quality_hold、review_pass、publish_approved、内部 confidence 标签、v1/v2/v3 production note。
+
+```text
+PUBLIC_WORKFLOW_FIELD_LEAK=0
+```
 
 ---
 

@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-10T00:07:38Z",
+  "task": "2026-09-09 + 2026-09-10 daily quality repair",
+  "repair_principle": "MINIMAL_TARGETED_REPAIR",
+  "HEAD_before": "be219bad04c40a345d7a0ed77b3a46c56b8021a2",
+  "batches": {
+    "2026-09-09": "daily/2026-09-09/qa/FINAL_MANIFEST_2026-09-09.json",
+    "2026-09-10": "daily/2026-09-10/qa/FINAL_MANIFEST_2026-09-10.json"
+  },
+  "skill_impact_check_done": true,
+  "skill_changes": {
+    "skills/autobridge-writing/SKILL.md": "1.2 -> 1.3, added section 24B with GENERAL_RULE_EXCEPTION_SCOPE_GATE, IMPORTER_TYPE_SCOPE_GATE, VEHICLE_CLASS_SCOPE_GATE, INVOICE_FALLBACK_TRIGGER_GATE, EXTERNAL_FACT_VS_EDITORIAL_METHOD, INCOTERMS_SCOPE_GATE, TIME_SENSITIVE_CURRENTNESS_GATE, PUBLIC_EXPORT_FIELD_ALLOWLIST_GATE",
+    "skills/registry.json": "writing version -> 1.3, updated_at 2026-09-10"
+  },
+  "research_skill_impact": "FLAGGED: source-capture side (general-vs-exception, importer type, vehicle class, invoice-fallback wording, three time fields) to be adopted by Research AI in the next research run; no Research fact conclusions were modified by Writing.",
+  "site_pilot_protection": "reviews/site-pilot-11-20260909 and its batches were not modified.",
+  "overall": {
+    "eligible_articles": 0,
+    "repaired_articles": 0,
+    "waiting_for_research_batches": [
+      "2026-09-09",
+      "2026-09-10"
+    ]
+  },
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "REVIEW_PASS": false,
+  "CODEX_ELIGIBLE": false,
+  "WAITING_FOR": "INDEPENDENT_REVIEW_AI"
+}
