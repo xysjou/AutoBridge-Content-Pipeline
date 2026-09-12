@@ -1,0 +1,42 @@
+{
+  "slug": "fob-cif-quote-check-southeast-asia",
+  "version": "v4",
+  "en": {
+    "title": "FOB vs CIF Quote Check for Chinese Vehicles Imported into Southeast Asia",
+    "seo_title": "FOB vs CIF Quote Check for Southeast Asia: Singapore Valuation and Malaysia AP",
+    "meta_description": "Compare a China-to-Southeast-Asia FOB or CIF vehicle quote through to registration: Singapore customs value and four-step import process, the 3-year used-car rule and S$10,000 surcharge, and Malaysia's personal-vehicle Approved Permit via ePermit.",
+    "summary": "The ocean quote is only the main voyage; the feeder leg, permits and registration are priced separately. Singapore adds charges to customs value and caps used-car age; Malaysia's personal-vehicle AP is its own pre-import gate and does not cover commercial or fleet import.",
+    "method": "Document research and procurement analysis of official Singapore Customs, LTA and Malaysia MITI sources set against the Incoterms 2020 framework. Statements are bounded to Singapore or to Malaysia's personal-vehicle import route; Singapore and Malaysia do not represent the whole region.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed. The Malaysia personal-vehicle Approved Permit route is documented, but the commercial, dealer and fleet import route is not verified in the captured evidence; Thailand, Indonesia, Viet Nam and the Philippines rules, written carrier acceptance and live rates are not captured and must be confirmed before payment.",
+    "sources": [
+      {"name": "Incoterms 2020 checklist", "organization": "International Chamber of Commerce", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "International", "checked": "2026-09-09"},
+      {"name": "Establishing the customs value", "organization": "Singapore Customs", "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/", "market": "Singapore", "checked": "2026-09-09"},
+      {"name": "Guide to importing dutiable motor vehicles", "organization": "Singapore Customs", "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/", "market": "Singapore", "checked": "2026-09-09"},
+      {"name": "Importation guidelines for cars", "organization": "Singapore Land Transport Authority", "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf", "market": "Singapore", "checked": "2026-09-09"},
+      {"name": "Personal vehicle import licence (AP) notice", "organization": "MITI Malaysia", "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf", "market": "Malaysia (personal route only)", "checked": "2026-09-09"},
+      {"name": "ASEAN Guidelines on Light Electric Vehicles", "organization": "ASEAN Secretariat", "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf", "market": "ASEAN regional (background only)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "中国汽车出口东南亚：FOB 与 CIF 报价核验（新加坡、马来西亚）",
+    "seo_title": "东南亚 FOB 与 CIF 报价核验：新加坡估价与马来西亚 AP 准证",
+    "meta_description": "把中国到东南亚的 FOB/CIF 汽车报价一直核到注册：新加坡完税价格与四步进口流程、二手车 3 年车龄上限与 S$10,000 附加费，以及马来西亚个人车辆 ePermit AP 准证。",
+    "summary": "海运报价只是主航程，支线航段、准证与注册需另行计价。新加坡在完税价格上加收费用并限制二手车龄；马来西亚个人车辆 AP 是独立的进口前关口，不覆盖商业或车队进口。",
+    "method": "针对新加坡海关、LTA 与马来西亚 MITI 官方来源做文献研究与采购分析，并与 Incoterms 2020 框架对照；表述分别限定于新加坡、以及马来西亚个人车辆进口路径，不以新加坡、马来西亚代表整个区域。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历。马来西亚个人车辆 AP 路径有据，但商业、经销商与车队进口路径在已采集证据中未核实；泰国、印尼、越南、菲律宾规则、承运人书面受理条件与实时费率均未采集，付款前须确认。",
+    "sources": [
+      {"name": "Incoterms 2020 清单", "organization": "国际商会（ICC）", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "国际", "checked": "2026-09-09"},
+      {"name": "确定完税价格", "organization": "新加坡海关", "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/", "market": "新加坡", "checked": "2026-09-09"},
+      {"name": "应税机动车进口指南", "organization": "新加坡海关", "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/", "market": "新加坡", "checked": "2026-09-09"},
+      {"name": "乘用车进口指南", "organization": "新加坡陆路交通管理局（LTA）", "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf", "market": "新加坡", "checked": "2026-09-09"},
+      {"name": "个人车辆进口准证（AP）公告", "organization": "马来西亚 MITI", "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf", "market": "马来西亚（仅个人路径）", "checked": "2026-09-09"},
+      {"name": "东盟轻型电动车指南", "organization": "东盟秘书处", "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf", "market": "东盟区域（仅背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "commercial_ap_route": "NOT_VERIFIED",
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

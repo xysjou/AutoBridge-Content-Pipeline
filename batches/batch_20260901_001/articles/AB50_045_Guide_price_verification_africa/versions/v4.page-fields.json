@@ -1,0 +1,45 @@
+{
+  "slug": "price-verification-africa",
+  "version": "v4",
+  "en": {
+    "title": "Vehicle Price and Quote Verification for African Imports",
+    "seo_title": "Vehicle Price Verification for Africa: Identity, Quote Scope and Official Reference Prices",
+    "meta_description": "How to verify a China-to-Africa vehicle quote: separate government identity fields from the buyer's checklist, understand why invoice price is not customs value, and test a used-car quote against Ghana's CIF basis and Kenya's CRSP schedule announced 30 May 2025, effective 1 July 2025.",
+    "summary": "A quote is only verifiable once identity is frozen. Ghana's duty check asks for VIN/chassis, model, year and make, while exact trim and a batch VIN list are the buyer's own checklist; invoice price is not automatically customs value; Ghana's CIF basis and Kenya's CRSP are country-specific official reference points.",
+    "method": "Document research and procurement analysis of official Ghana Revenue Authority, Kenya Revenue Authority and KEBS sources, with WCO/WTO/ICC materials as framework. Statements are bounded to Ghana and Kenya; Incoterms label only the delivery point, specified obligations and costs, and risk transfer.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed. Other African countries' reference-price tables, the CRSP edition current after 1 July 2025, the exact KEBS consequence for a non-conforming unit, and the authenticity of any specific supplier quote are not verified and must be confirmed before payment.",
+    "sources": [
+      {"name": "Vehicle importation", "organization": "Ghana Revenue Authority", "url": "https://gra.gov.gh/customs/vehicle-importation/", "market": "Ghana", "checked": "2026-09-09"},
+      {"name": "Valuation FAQ", "organization": "World Customs Organization", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "International", "checked": "2026-09-09"},
+      {"name": "CRSP for used motor vehicles", "organization": "Kenya Revenue Authority", "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles", "market": "Kenya", "checked": "2026-09-09"},
+      {"name": "Import inspection", "organization": "Kenya Bureau of Standards", "url": "https://www.kebs.org/import-inspection/", "market": "Kenya", "checked": "2026-09-09"},
+      {"name": "Incoterms 2020 checklist", "organization": "International Chamber of Commerce", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "International", "checked": "2026-09-09"},
+      {"name": "Customs Valuation Agreement", "organization": "World Trade Organization", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "International (framework)", "checked": "2026-09-09"},
+      {"name": "Logistics Performance Index", "organization": "World Bank", "url": "https://lpi.worldbank.org/en/about", "market": "International (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "面向非洲进口的车辆价格与报价核验（加纳、肯尼亚）",
+    "seo_title": "非洲车辆价格核验：身份、报价范围与官方参考价",
+    "meta_description": "如何核验中国到非洲的车辆报价：区分政府身份字段与买方清单，理解发票价为何不等于完税价格，并把二手车报价对照加纳 CIF 基准与肯尼亚 2025-05-30 公告、2025-07-01 生效的 CRSP 表。",
+    "summary": "报价只有在身份被冻结后才可核验。加纳税款核查要求 VIN/车架号、型号、年份与品牌，确切配置与批量 VIN 清单则是买方自己的清单；发票价不自动等于完税价格；加纳 CIF 基准与肯尼亚 CRSP 是各自国别的官方参照点。",
+    "method": "针对加纳税务局、肯尼亚税务局与 KEBS 官方来源做文献研究与采购分析，WCO/WTO/ICC 材料仅作框架；表述限定于加纳与肯尼亚，Incoterms 仅标注交付点、特定义务与费用划分及风险转移。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历。其他非洲国家的参考价格表、CRSP 在 2025-07-01 之后的当前版本、不合格车辆的确切 KEBS 处置结果，以及任何具体供应商报价的真实性均未核实，付款前须确认。",
+    "sources": [
+      {"name": "车辆进口", "organization": "加纳税务局（GRA）", "url": "https://gra.gov.gh/customs/vehicle-importation/", "market": "加纳", "checked": "2026-09-09"},
+      {"name": "海关估价常见问题", "organization": "世界海关组织（WCO）", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "国际", "checked": "2026-09-09"},
+      {"name": "二手车 CRSP", "organization": "肯尼亚税务局（KRA）", "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles", "market": "肯尼亚", "checked": "2026-09-09"},
+      {"name": "进口检验", "organization": "肯尼亚标准局（KEBS）", "url": "https://www.kebs.org/import-inspection/", "market": "肯尼亚", "checked": "2026-09-09"},
+      {"name": "Incoterms 2020 清单", "organization": "国际商会（ICC）", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "国际", "checked": "2026-09-09"},
+      {"name": "海关估价协定", "organization": "世界贸易组织（WTO）", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "国际（框架）", "checked": "2026-09-09"},
+      {"name": "物流绩效指数", "organization": "世界银行", "url": "https://lpi.worldbank.org/en/about", "market": "国际（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "gra_government_fields": ["VIN/chassis number", "model", "year", "make"],
+  "buyer_checklist_not_government_required": ["exact trim", "steering side", "powertrain", "VIN list/range for batches", "seller accountability"],
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

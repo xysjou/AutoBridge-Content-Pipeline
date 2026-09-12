@@ -1,0 +1,44 @@
+{
+  "slug": "pickup-export-latin-america",
+  "version": "v4",
+  "en": {
+    "title": "Pickup Truck Export Procurement for Latin America: Classification, Load and Admission",
+    "seo_title": "Pickup Truck Export to Latin America: Brazil, Peru and Argentina Classification Rules",
+    "meta_description": "Match a pickup's cab, bed, engine and drivetrain build to Brazilian CAMINHONETE versus CAMIONETA classification, Peru's used-vehicle inspection gate and Argentina's LCM model licence before you accept a payload or towing figure.",
+    "summary": "Pickups are marketed globally but classified nationally. Brazil distinguishes CAMINHONETE from CAMIONETA and limits cargo-vehicle occupants; Peru gates used pickups through a verifying-entity inspection; Argentina requires an LCM model licence. Badge-level towing and payload figures must be tied to the exact OEM derivative.",
+    "method": "Document research and procurement analysis of official Brazilian (CTB/CONTRAN), Peruvian (SUNAT) and Argentine sources on classification and admission; international and regional materials are background only. Statements are bounded to Brazil, Peru and Argentina.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed. Other Latin American markets' classification, licence and load rules, any tax outcome, and any OEM payload/towing figure for an offered build without the exact derivative page are not verified and must be confirmed before payment.",
+    "sources": [
+      {"name": "Brazilian Traffic Code (Lei 9.503)", "organization": "Presidência da República, Planalto", "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503.htm", "market": "Brazil", "checked": "2026-09-09"},
+      {"name": "Vehicle importation guidance", "organization": "SUNAT Peru", "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/", "market": "Peru", "checked": "2026-09-09"},
+      {"name": "Licencia de Configuración de Modelo", "organization": "Gobierno de Argentina", "url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo", "market": "Argentina", "checked": "2026-09-09"},
+      {"name": "FleetSafe purchasing guide", "organization": "Global NCAP", "url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "MERCOSUR portal", "organization": "MERCOSUR", "url": "https://www.mercosur.int/", "market": "Regional (background)", "checked": "2026-09-09"},
+      {"name": "UNECE WP.29 presentation", "organization": "UNECE", "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Logistics Performance Index", "organization": "World Bank", "url": "https://lpi.worldbank.org/en/about", "market": "International (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "皮卡出口拉美采购：分类、载荷与准入",
+    "seo_title": "皮卡出口拉美：巴西、秘鲁与阿根廷的分类规则",
+    "meta_description": "把皮卡的驾驶室、货箱、发动机与驱动配置，对照巴西 CAMINHONETE 与 CAMIONETA 分类、秘鲁二手车检验关口与阿根廷 LCM 车型许可，再决定是否接受某个载重或拖挂数字。",
+    "summary": "皮卡全球销售、各国分类。巴西区分 CAMINHONETE 与 CAMIONETA 并限制载货车辆乘员；秘鲁以核验机构检验作为二手皮卡准入关口；阿根廷要求 LCM 车型许可。铭牌级拖挂与载重数字必须绑定确切 OEM 衍生车型。",
+    "method": "针对巴西（CTB/CONTRAN）、秘鲁（SUNAT）与阿根廷官方分类与准入来源做文献研究与采购分析，国际与区域材料仅作背景；表述限定于巴西、秘鲁与阿根廷。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历。其他拉美市场的分类、驾照与载重规则、任何税务结果，以及缺少确切衍生车型页面时所售配置的任何 OEM 载重/拖挂数字均未核实，付款前须确认。",
+    "sources": [
+      {"name": "巴西交通法（Lei 9.503）", "organization": "巴西总统府 Planalto", "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503.htm", "market": "巴西", "checked": "2026-09-09"},
+      {"name": "车辆进口指南", "organization": "秘鲁 SUNAT", "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/", "market": "秘鲁", "checked": "2026-09-09"},
+      {"name": "车型配置许可（LCM）", "organization": "阿根廷政府", "url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo", "market": "阿根廷", "checked": "2026-09-09"},
+      {"name": "FleetSafe 采购指南", "organization": "Global NCAP", "url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "MERCOSUR 门户", "organization": "南方共同市场", "url": "https://www.mercosur.int/", "market": "区域（背景）", "checked": "2026-09-09"},
+      {"name": "UNECE WP.29 介绍", "organization": "UNECE", "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "物流绩效指数", "organization": "世界银行", "url": "https://lpi.worldbank.org/en/about", "market": "国际（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "tax_regime_asserted": false,
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

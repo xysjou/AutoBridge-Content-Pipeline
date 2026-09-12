@@ -1,1 +1,51 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"fob-cif-quote-check-southeast-asia","canonical_path":"/en/guides/fob-cif-quote-check-southeast-asia.html","search_intent":"Compare FOB and CIF quotations for Chinese vehicles imported into a Southeast Asian country","buyer_task":"Compare FOB vs CIF to a named SEA port including feeder/inter-island legs, permits and registration; separate main voyage from last mile.","en_main_html_sha256":"29b826314b97df6a09c3512eb5fce2fd1ff008c301eb72a72b7760e99e206101","claim_id_sequence":["C1","C2","C3","C4","C5","C6","C7","E1"],"source_url_set":["https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf","https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf","https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf","https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/","https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/","https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf"],"source_set_sha256":"f543a7a73fac89328d611312d271fb2c4b1514019608944e900cc2df7979ee44","claim_set_sha256":"e103b80cf8a6b08aa1fc7e7f99b71b592c8a44f664360da725d5dd3b07cd6647","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "fob-cif-quote-check-southeast-asia",
+  "canonical_path": "/en/guides/fob-cif-quote-check-southeast-asia.html",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a Southeast Asian country",
+  "buyer_task": "Compare FOB vs CIF to a named SEA port including feeder/inter-island legs, permits and registration; separate main voyage from last mile.",
+  "en_main_html_sha256": "29b826314b97df6a09c3512eb5fce2fd1ff008c301eb72a72b7760e99e206101",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "E1"
+  ],
+  "source_url_set": [
+    "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+    "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+    "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+    "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+    "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+    "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf"
+  ],
+  "source_set_sha256": "f543a7a73fac89328d611312d271fb2c4b1514019608944e900cc2df7979ee44",
+  "claim_set_sha256": "e103b80cf8a6b08aa1fc7e7f99b71b592c8a44f664360da725d5dd3b07cd6647",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "2beb83da652cb9c3d9403475d6aee541e9f713e1f768a95b3ea6662b8a5bb0c3",
+    "page_fields_sha256": "1ee0261541694824cd4680139f557cc3d1146211fa950f7b41589433e20138ff",
+    "fact_boundary_sha256": "49bc4f45ce95583f71f746bb591b189066883cccffb2d9b9ff2fbf8b1751f831",
+    "source_set_sha256_writing": "2b92b3022cc9f3d1670038e910e6edfb37cd24cad689b57cfdcbd5c10272b7e1",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

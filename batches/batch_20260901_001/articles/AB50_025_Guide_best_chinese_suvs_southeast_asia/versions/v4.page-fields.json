@@ -1,0 +1,43 @@
+{
+  "slug": "best-chinese-suvs-southeast-asia",
+  "version": "v4",
+  "retarget": "Country-by-country shortlist method; no model ranking (no ranking/sales/second-country approval evidence)",
+  "en": {
+    "title": "Choosing Chinese SUVs for Southeast Asian Countries",
+    "seo_title": "Choosing Chinese SUVs for Southeast Asia: A Country-by-Country Shortlist Method",
+    "meta_description": "How to build a country-specific Chinese SUV shortlist for Southeast Asia: verify the delivered national variant through Malaysia's Type Approval gate, return any crash-test result to the base variant, and test monsoon and charging reality on the delivered units. No regional ranking is produced.",
+    "summary": "Southeast Asia is not one market, so this page gives a shortlist method, not a ranking. Only Malaysia's whole-vehicle Type Approval gate is documented; regional arrangement scope and the current crash-test protocol are follow-up items, and safety results must be returned to the exact delivered trim and assembly source.",
+    "method": "A country-by-country shortlist framework built from the official Malaysia JPJ Type Approval source; regional and global materials are follow-up pointers only and no model is ranked.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand test, inspection, purchase or ownership is claimed. No model ranking, sales or best-selling claim is made; a second Southeast Asian country's approval route, regional arrangement scope, current crash-test protocol, charging figures and OEM wading/warranty terms are not asserted.",
+    "sources": [
+      {"name": "Vehicle Type Approval process", "organization": "Malaysia Road Transport Department (JPJ)", "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/", "market": "Malaysia", "checked": "2026-09-09"},
+      {"name": "ASEAN Automotive Product MRA", "organization": "ASEAN Secretariat", "url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf", "market": "ASEAN regional (follow-up pointer)", "checked": "2026-09-09"},
+      {"name": "ASEAN NCAP protocols", "organization": "ASEAN NCAP", "url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols", "market": "ASEAN regional (follow-up pointer)", "checked": "2026-09-09"},
+      {"name": "ASEAN NCAP about", "organization": "ASEAN NCAP", "url": "https://www.aseancap.org/aboutus", "market": "ASEAN regional (pointer)", "checked": "2026-09-09"},
+      {"name": "ASEAN Trade Repository standards", "organization": "ASEAN", "url": "https://atr.asean.org/standards", "market": "ASEAN regional (pointer)", "checked": "2026-09-09"},
+      {"name": "Global EV Outlook", "organization": "International Energy Agency", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "International (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "为东南亚各国选择中国 SUV",
+    "seo_title": "为东南亚选择中国 SUV：一套逐国别短名单方法",
+    "meta_description": "如何为东南亚构建国别中国 SUV 短名单：通过马来西亚型式认证关口核实交付的国别版本，把任何碰撞测试结果回到基础版，并在交付车辆上检验季风与充电实际。本页不做区域排名。",
+    "summary": "东南亚不是单一市场，因此本页给出短名单方法而非排名。只有马来西亚整车 VTA 关口有据可查；区域安排范围与现行碰撞测试规程为待补项，安全结果必须回到确切交付配置与组装来源。",
+    "method": "基于马来西亚 JPJ 官方型式认证来源搭建的逐国别短名单框架；区域与全球材料仅为后续核对指引，不做任何车型排名。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手测试、检测、购买或持有经历；不做车型排名、销量或最畅销主张；第二个东南亚国家准入路径、区域安排范围、现行碰撞测试规程、充电数字与 OEM 涉水/保修条款均不主张。",
+    "sources": [
+      {"name": "车辆型式认证（VTA）流程", "organization": "马来西亚陆路交通局（JPJ）", "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/", "market": "马来西亚", "checked": "2026-09-09"},
+      {"name": "东盟汽车产品互认安排（MRA）", "organization": "东盟秘书处", "url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf", "market": "东盟区域（后续指引）", "checked": "2026-09-09"},
+      {"name": "东盟 NCAP 规程", "organization": "ASEAN NCAP", "url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols", "market": "东盟区域（后续指引）", "checked": "2026-09-09"},
+      {"name": "ASEAN NCAP 简介", "organization": "ASEAN NCAP", "url": "https://www.aseancap.org/aboutus", "market": "东盟区域（指引）", "checked": "2026-09-09"},
+      {"name": "东盟贸易标准库", "organization": "ASEAN", "url": "https://atr.asean.org/standards", "market": "东盟区域（指引）", "checked": "2026-09-09"},
+      {"name": "全球电动车展望", "organization": "国际能源署（IEA）", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "国际（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "model_ranking_produced": false,
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

@@ -167,23 +167,37 @@
     },
     {
       "article_id": "AB50_024_Guide_battery_warranty_southeast_asia",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_024_Guide_battery_warranty_southeast_asia_FINAL.docx",
-      "sha256": "b406dd8ef8242c0a88a3c0750721735166500212fff62c81649696727032795a",
+      "sha256": "a8224bc99c9629983b35f58f2ac633fe029fb40bfa46de6a893630d447764cb3",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "ef1c1e04467c2f087de0bd142d3e40587aecc5516c0291defcacfdec0ed2e7b6",
+      "fact_boundary_sha256": "a7c40e4aedc69740a69c3f749936ea0036990682b56994495f3e7f0d5d5443c5",
+      "source_set_sha256": "d5fd3748f664b18e2ec99fd81ef5a633ceda78fe316c27a84b1203dbb7fab1c8",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_025_Guide_best_chinese_suvs_southeast_asia",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_025_Guide_best_chinese_suvs_southeast_asia_FINAL.docx",
-      "sha256": "4d529ead97781b94421ef7f72b85147cd26542385c0b42bba0103a85c5d7fe5c",
+      "sha256": "6ea37799075ee88fecf31b579066b5ffe30f6cc0dbe9f0e08108e9dddb29ef40",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "643d59fc5efd5ac3bb08a1d6f4920db214665f33bc08b6fa391e23ec9f8620e0",
+      "fact_boundary_sha256": "1040271bc1d0b148a7e5e86cf2aa05277d9ef5322aacb34d1dae9e5dabd74273",
+      "source_set_sha256": "682cf2e5ec4e95f1f52ed87626b2aaaf81f600ca0a5fdacf44b036face7390f3",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_026_Guide_fob_cif_quote_check_africa",
@@ -197,33 +211,54 @@
     },
     {
       "article_id": "AB50_027_Guide_fob_cif_quote_check_latin_america",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_027_Guide_fob_cif_quote_check_latin_america_FINAL.docx",
-      "sha256": "a55effbab872734fa9229edabfc64f9c7d5d9c0a78e4c23227b19c70a63a357a",
+      "sha256": "8519057a3482b3d88f042c5cba05492bb4f4ad1c515567dd25bf7838de161c9e",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_PASS"
+      "research_status": "RESEARCH_PASS",
+      "page_fields_sha256": "8db5cb73795bc031eb1279c4a3765f72f48154631ef625793a859fdb6c2e8593",
+      "fact_boundary_sha256": "f0e0ea9570c076649afbfc9f2c4e7154a19adc1f4ec121ff40a55c6d77d4ae47",
+      "source_set_sha256": "0b8affd8f281f2c9023bd2d85d53e387b15c3778a4955e7cc1c8a44f66125e9f",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_028_Guide_fob_cif_quote_check_middle_east",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_028_Guide_fob_cif_quote_check_middle_east_FINAL.docx",
-      "sha256": "4d22f0700240350778a139365b694c4278d325f333dd020ca637040781609c70",
+      "sha256": "9ae75ae268c9b3d778992d54422e9e018c30b0b0047cca6e76933475d7a27810",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "4d3e4f76f1229456fad7d0f34efdeb0f42751d74b1c0cd46f7e5de67a02232e7",
+      "fact_boundary_sha256": "7f9e981d4b860386daec8032e1359df5bfea67d9281cc79b2a3166863897c57d",
+      "source_set_sha256": "cab0bf69f117219c34f24a0a5da5f0c2d5e12d00d55ae68e668ad21a1a4ffb6f",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_029_Guide_fob_cif_quote_check_southeast_asia",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_029_Guide_fob_cif_quote_check_southeast_asia_FINAL.docx",
-      "sha256": "65714894a17ca49c3d64fec5240f2e0fb04c2cbe0d6e9b6883259f85c0580405",
+      "sha256": "2beb83da652cb9c3d9403475d6aee541e9f713e1f768a95b3ea6662b8a5bb0c3",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "1ee0261541694824cd4680139f557cc3d1146211fa950f7b41589433e20138ff",
+      "fact_boundary_sha256": "49bc4f45ce95583f71f746bb591b189066883cccffb2d9b9ff2fbf8b1751f831",
+      "source_set_sha256": "2b92b3022cc9f3d1670038e910e6edfb37cd24cad689b57cfdcbd5c10272b7e1",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_030_Guide_mpv_procurement_africa",
@@ -255,13 +290,20 @@
     },
     {
       "article_id": "AB50_034_Guide_new_vs_used_ev_middle_east",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_034_Guide_new_vs_used_ev_middle_east_FINAL.docx",
-      "sha256": "6366882cdba353bcdffc5296c743e15e55a9e97cb2dbda745e4e662f40dccbcb",
+      "sha256": "6360b51b9dd44e944e9c91c3d233c005c6f96ee7aba41b6fb14b9d5efe423831",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "35b6c4641fae52158f3a39fc54ab9903ecf969a5f5d571d71b66b6a3b667b7d8",
+      "fact_boundary_sha256": "e71c9ecef40f7670b510af88810b1e167858118031c905f78cf16e8f5e7fa904",
+      "source_set_sha256": "a16b922082290d898f17f152cf3220d19c69b45ed186c7c0fa6cb13cfcbd8b80",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_035_Guide_new_vs_used_ev_southeast_asia",
@@ -314,13 +356,20 @@
     },
     {
       "article_id": "AB50_042_Guide_pickup_export_latin_america",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_042_Guide_pickup_export_latin_america_FINAL.docx",
-      "sha256": "f14bd62da05b4bc9640d77ecd49b5cf1b9c49b0c3e31d631beece36d5e6ff536",
+      "sha256": "41e52b6daa0ec71b0dd4ce35034350805d339f818ea6b44917243347cfe234fa",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "325981ef6b5fc01c14b011bcbf5b63b0901be01a9bf15d6c69065d809329729e",
+      "fact_boundary_sha256": "25ca4eca83935f57d84128fa0ab6353b8981ed400f4190d0463cb809b4c228de",
+      "source_set_sha256": "c456cb68ea683719c013b9391d0ed661b9f2dfd980d9b38db351bac288a90c99",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_043_Guide_pickup_export_middle_east",
@@ -338,23 +387,37 @@
     },
     {
       "article_id": "AB50_045_Guide_price_verification_africa",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_045_Guide_price_verification_africa_FINAL.docx",
-      "sha256": "0ed402c51e88d3942265160d3a3c7ea52b28935e03bb8fb13b7c28d2fa5c983b",
+      "sha256": "94d94b8fd90739d660eb4ec2564ec2bd1a8dfb549c9f4ae0c8206e1be2948295",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_PASS"
+      "research_status": "RESEARCH_PASS",
+      "page_fields_sha256": "396868d82cfbe6d7b4cfa98f411dc0df71361637fcc5285dd4cda3f4f9d29fb7",
+      "fact_boundary_sha256": "140c57240823b18281426cadf50d81128a8ec863f43f9c4efa9ced86ec352d73",
+      "source_set_sha256": "5c10cac97f5268b447050df5c7013e3046c4b12a62e547409ef9a763f9a31b58",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_046_Guide_roro_container_shipping_latin_america",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_046_Guide_roro_container_shipping_latin_america_FINAL.docx",
-      "sha256": "e148dec5a5a75cabd44e2db0469e130cff310ab7d96be2edb6ff886e541d06d8",
+      "sha256": "29ceb27288d9dfb93ee2217e72e29983181a7c6c1907a6e154717befd6d8f064",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "84c1bca6a51b5142fe32f603b812d69161e89749b2999a7e93839a07857a94f7",
+      "fact_boundary_sha256": "6754a1a27e4b25aeb23ff405c3dd9990d01b1da6fb0973da262798436ff5c672",
+      "source_set_sha256": "be268d959f24d27d6423943e6754fe5334a810b5805011d8bf9f1fc89b55e85a",
+      "locales": [
+        "en",
+        "zh"
+      ]
     },
     {
       "article_id": "AB50_047_Guide_roro_container_shipping_middle_east_REUSED",
@@ -379,13 +442,20 @@
     },
     {
       "article_id": "AB50_050_Guide_seven_seat_suv_latin_america",
-      "version": "v3",
+      "version": "v4",
       "source_file": "AB50_050_Guide_seven_seat_suv_latin_america_FINAL.docx",
-      "sha256": "8de2767950289a283c194c31db3d711cec344636db3c0dde2d7709fa8a254efe",
+      "sha256": "bdec64b257e5fb09b24bad0db6727e82c3452f7b984cc2e115471bd68b20b7cb",
       "status": "COMPLETED",
-      "writing_skill_version": "1.2",
+      "writing_skill_version": "1.3",
       "fact_sheet_version": "2.0-claim-level-20260909",
-      "research_status": "RESEARCH_CONDITIONAL"
+      "research_status": "RESEARCH_CONDITIONAL",
+      "page_fields_sha256": "9b84818c46037a4bc9c5dbe8d0025892ba6b885cb45889b0186916dd9e6c6ce3",
+      "fact_boundary_sha256": "d2c4f57be19b4978a9d0914af06b53afd22e6abfa1a1a02ca62341147cbbdd1b",
+      "source_set_sha256": "6bbb14aa9a6e1db1355d26a9657d2687b9336928d5c7301f6ae5ff063f2d8e45",
+      "locales": [
+        "en",
+        "zh"
+      ]
     }
   ],
   "active_version": "v2",
@@ -395,5 +465,6 @@
     "v1 retained unchanged; v2 applies SEO length, keyword, evidence, FAQ, CTA, and internal-link controls.",
     "JA/KO and any additional locales are not claimed in this repository until equivalent-depth translations are supplied."
   ],
-  "writing_note": "v3: 11 site-pilot articles rewritten onto claim-level fact sheets (2026-09-09 research return) under skills/autobridge-writing v1.2. Versions v1/v2 immutable."
+  "writing_note": "v3: 11 site-pilot articles rewritten onto claim-level fact sheets (2026-09-09 research return) under skills/autobridge-writing v1.2. Versions v1/v2 immutable.",
+  "writing_note_v4": "v4 (2026-09-12): 10 site-pilot-11 guides repaired in place at EN/ZH body + page-fields level after research-return review; v1/v2/v3 immutable; AB50_026 fob-cif-quote-check-africa left at v3 (independently approved exact candidate not found in environment: APPROVED_CANDIDATE_NOT_AVAILABLE). Other 10 locales not generated; image plan OPEN. See reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json."
 }

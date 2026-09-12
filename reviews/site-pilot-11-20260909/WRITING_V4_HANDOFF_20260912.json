@@ -1,0 +1,211 @@
+{
+  "handoff_type": "site-pilot-11-writing-v4-en-zh",
+  "generated_at": "2026-09-12",
+  "start_main_sha": "3f756c38d1f0b06d8afc0d5786d8160edaa9c469",
+  "research_return_commit": "7ebe640e7d714db16ce46a0e4d14a501ac7073e2",
+  "research_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "scope": "reviews/site-pilot-11-20260909 + batches/batch_20260901_001 only; DAILY 2026-09-02..07 120 articles untouched",
+  "site_pilot_only": true,
+  "daily_120_changed_files": 0,
+  "total_articles": 11,
+  "v4_built": 10,
+  "v4_blocked": 1,
+  "body_pass": 5,
+  "body_needs_research": 5,
+  "body_revision_required": 1,
+  "page_fields_pass": 10,
+  "page_fields_fail": 1,
+  "other_10_locales_generated": false,
+  "image_plan": "OPEN",
+  "rights_verified": false,
+  "public_workflow_leakage_scan": "clean on v4.md and public page-field values (2026-09-12)",
+  "hash_method": "DRAFT_SHA256=sha256(raw UTF-8 bytes of versions/v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON: json.dumps(sort_keys=True,ensure_ascii=False,separators=(',',':'))+'\\n'); fact boundary = fact-and-source-boundaries.json @ 7ebe640; source set = sorted unique (organization,url).",
+  "articles": [
+    {
+      "slug": "battery-warranty-southeast-asia",
+      "article_dir": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "repair_type": "NEEDS_RESEARCH_RETARGET",
+      "body_status": "BODY_NEEDS_RESEARCH",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "a8224bc99c9629983b35f58f2ac633fe029fb40bfa46de6a893630d447764cb3",
+      "page_fields_sha256": "ef1c1e04467c2f087de0bd142d3e40587aecc5516c0291defcacfdec0ed2e7b6",
+      "fact_boundary_sha256": "a7c40e4aedc69740a69c3f749936ea0036990682b56994495f3e7f0d5d5443c5",
+      "source_set_sha256": "d5fd3748f664b18e2ec99fd81ef5a633ceda78fe316c27a84b1203dbb7fab1c8",
+      "repair_note": "Retargeted to Battery Warranty Due-Diligence Framework; no OEM warranty primary captured; water-ingress/certain-loss assertions removed."
+    },
+    {
+      "slug": "best-chinese-suvs-southeast-asia",
+      "article_dir": "AB50_025_Guide_best_chinese_suvs_southeast_asia",
+      "repair_type": "NEEDS_RESEARCH_RETARGET",
+      "body_status": "BODY_NEEDS_RESEARCH",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "6ea37799075ee88fecf31b579066b5ffe30f6cc0dbe9f0e08108e9dddb29ef40",
+      "page_fields_sha256": "643d59fc5efd5ac3bb08a1d6f4920db214665f33bc08b6fa391e23ec9f8620e0",
+      "fact_boundary_sha256": "1040271bc1d0b148a7e5e86cf2aa05277d9ef5322aacb34d1dae9e5dabd74273",
+      "source_set_sha256": "682cf2e5ec4e95f1f52ed87626b2aaaf81f600ca0a5fdacf44b036face7390f3",
+      "repair_note": "No model ranking produced; MRA scope/ASEAN NCAP protocol details downgraded to follow-up; only Malaysia VTA documented."
+    },
+    {
+      "slug": "fob-cif-quote-check-latin-america",
+      "article_dir": "AB50_027_Guide_fob_cif_quote_check_latin_america",
+      "repair_type": "DIRECT_REPAIR",
+      "body_status": "BODY_PASS",
+      "research_status": "RESEARCH_PASS",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "8519057a3482b3d88f042c5cba05492bb4f4ad1c515567dd25bf7838de161c9e",
+      "page_fields_sha256": "8db5cb73795bc031eb1279c4a3765f72f48154631ef625793a859fdb6c2e8593",
+      "fact_boundary_sha256": "f0e0ea9570c076649afbfc9f2c4e7154a19adc1f4ec121ff40a55c6d77d4ae47",
+      "source_set_sha256": "0b8affd8f281f2c9023bd2d85d53e387b15c3778a4955e7cc1c8a44f66125e9f",
+      "repair_note": "Colombia VUCE limited to pre-import stage; origin-preference softened to buyer check; no one-country-for-region."
+    },
+    {
+      "slug": "fob-cif-quote-check-middle-east",
+      "article_dir": "AB50_028_Guide_fob_cif_quote_check_middle_east",
+      "repair_type": "NEEDS_RESEARCH_RETARGET",
+      "body_status": "BODY_NEEDS_RESEARCH",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "9ae75ae268c9b3d778992d54422e9e018c30b0b0047cca6e76933475d7a27810",
+      "page_fields_sha256": "4d3e4f76f1229456fad7d0f34efdeb0f42751d74b1c0cd46f7e5de67a02232e7",
+      "fact_boundary_sha256": "7f9e981d4b860386daec8032e1359df5bfea67d9281cc79b2a3166863897c57d",
+      "source_set_sha256": "cab0bf69f117219c34f24a0a5da5f0c2d5e12d00d55ae68e668ad21a1a4ffb6f",
+      "repair_note": "UAE seven categories downgraded to 2023 public-consultation stage; current binding instrument/2026 applicability not verified; ZATCA invoice-fallback trigger corrected."
+    },
+    {
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "article_dir": "AB50_029_Guide_fob_cif_quote_check_southeast_asia",
+      "repair_type": "DIRECT_REPAIR",
+      "body_status": "BODY_PASS",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "2beb83da652cb9c3d9403475d6aee541e9f713e1f768a95b3ea6662b8a5bb0c3",
+      "page_fields_sha256": "1ee0261541694824cd4680139f557cc3d1146211fa950f7b41589433e20138ff",
+      "fact_boundary_sha256": "49bc4f45ce95583f71f746bb591b189066883cccffb2d9b9ff2fbf8b1751f831",
+      "source_set_sha256": "2b92b3022cc9f3d1670038e910e6edfb37cd24cad689b57cfdcbd5c10272b7e1",
+      "repair_note": "Malaysia AP limited to personal-vehicle route; commercial/dealer/fleet route NOT verified in captured evidence."
+    },
+    {
+      "slug": "new-vs-used-ev-middle-east",
+      "article_dir": "AB50_034_Guide_new_vs_used_ev_middle_east",
+      "repair_type": "DIRECT_REPAIR",
+      "body_status": "BODY_PASS",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "6360b51b9dd44e944e9c91c3d233c005c6f96ee7aba41b6fb14b9d5efe423831",
+      "page_fields_sha256": "35b6c4641fae52158f3a39fc54ab9903ecf969a5f5d571d71b66b6a3b667b7d8",
+      "fact_boundary_sha256": "e71c9ecef40f7670b510af88810b1e167858118031c905f78cf16e8f5e7fa904",
+      "source_set_sha256": "a16b922082290d898f17f152cf3220d19c69b45ed186c7c0fa6cb13cfcbd8b80",
+      "repair_note": "Specific price gap and uninsurable-battery claims removed; Saudi general/exception/class/other-prohibitions split; conditional residency exception not verified in captured evidence."
+    },
+    {
+      "slug": "pickup-export-latin-america",
+      "article_dir": "AB50_042_Guide_pickup_export_latin_america",
+      "repair_type": "DIRECT_REPAIR",
+      "body_status": "BODY_PASS",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "41e52b6daa0ec71b0dd4ce35034350805d339f818ea6b44917243347cfe234fa",
+      "page_fields_sha256": "325981ef6b5fc01c14b011bcbf5b63b0901be01a9bf15d6c69065d809329729e",
+      "fact_boundary_sha256": "25ca4eca83935f57d84128fa0ab6353b8981ed400f4190d0463cb809b4c228de",
+      "source_set_sha256": "c456cb68ea683719c013b9391d0ed661b9f2dfd980d9b38db351bac288a90c99",
+      "repair_note": "Tax-regime assertion removed without tax source; derivative factors 'may affect'; Peru emissions outcome softened."
+    },
+    {
+      "slug": "price-verification-africa",
+      "article_dir": "AB50_045_Guide_price_verification_africa",
+      "repair_type": "DIRECT_REPAIR",
+      "body_status": "BODY_PASS",
+      "research_status": "RESEARCH_PASS",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "94d94b8fd90739d660eb4ec2564ec2bd1a8dfb549c9f4ae0c8206e1be2948295",
+      "page_fields_sha256": "396868d82cfbe6d7b4cfa98f411dc0df71361637fcc5285dd4cda3f4f9d29fb7",
+      "fact_boundary_sha256": "140c57240823b18281426cadf50d81128a8ec863f43f9c4efa9ced86ec352d73",
+      "source_set_sha256": "5c10cac97f5268b447050df5c7013e3046c4b12a62e547409ef9a763f9a31b58",
+      "repair_note": "GRA government fields separated from AutoBridge buyer checklist; Incoterms limited to delivery/obligations/risk; KRA dates paired; KEBS outcome softened."
+    },
+    {
+      "slug": "roro-container-shipping-latin-america",
+      "article_dir": "AB50_046_Guide_roro_container_shipping_latin_america",
+      "repair_type": "NEEDS_RESEARCH_FRAMEWORK",
+      "body_status": "BODY_NEEDS_RESEARCH",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "29ceb27288d9dfb93ee2217e72e29983181a7c6c1907a6e154717befd6d8f064",
+      "page_fields_sha256": "84c1bca6a51b5142fe32f603b812d69161e89749b2999a7e93839a07857a94f7",
+      "fact_boundary_sha256": "6754a1a27e4b25aeb23ff405c3dd9990d01b1da6fb0973da262798436ff5c672",
+      "source_set_sha256": "be268d959f24d27d6423943e6754fe5334a810b5805011d8bf9f1fc89b55e85a",
+      "repair_note": "No LA port/carrier primary; SOLAS VGM/cargo-securing/operability general assertions removed; no mode-selection conclusion."
+    },
+    {
+      "slug": "seven-seat-suv-latin-america",
+      "article_dir": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "repair_type": "NEEDS_RESEARCH_FRAMEWORK",
+      "body_status": "BODY_NEEDS_RESEARCH",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "version": "v4",
+      "locales": [
+        "en",
+        "zh"
+      ],
+      "draft_sha256": "bdec64b257e5fb09b24bad0db6727e82c3452f7b984cc2e115471bd68b20b7cb",
+      "page_fields_sha256": "9b84818c46037a4bc9c5dbe8d0025892ba6b885cb45889b0186916dd9e6c6ce3",
+      "fact_boundary_sha256": "d2c4f57be19b4978a9d0914af06b53afd22e6abfa1a1a02ca62341147cbbdd1b",
+      "source_set_sha256": "6bbb14aa9a6e1db1355d26a9657d2687b9336928d5c7301f6ae5ff063f2d8e45",
+      "repair_note": "rear-seat != third-row inference removed; cross-trim star-borrow assertion removed; no OEM exact 7-seat derivative captured; no purchase conclusion."
+    },
+    {
+      "slug": "fob-cif-quote-check-africa",
+      "article_dir": "AB50_026_Guide_fob_cif_quote_check_africa",
+      "repair_type": "APPROVED_CANDIDATE_BLOCKED",
+      "body_status": "BODY_REVISION_REQUIRED",
+      "research_status": "RESEARCH_PASS",
+      "version": "v3 (unchanged)",
+      "locales": [],
+      "expected_approved_draft_sha256": "d176357349d8e9a67e64ee2be3fec16cedeb8f3ba709bddfac69027503149889",
+      "expected_approved_page_fields_sha256": "a7caddb0cc83b4ddcec22e256ea9677f8f734565fb5c0060c4782740522acf63",
+      "repair_note": "Two-round independently approved exact candidate not found anywhere in the available refs (main, be219bad, 7ebe640, 8749a4c, origin/main). Per instruction no v4 was built from v3 simulation: APPROVED_CANDIDATE_NOT_AVAILABLE."
+    }
+  ],
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false,
+  "waiting_for": "INDEPENDENT_REVIEW_AI"
+}

@@ -1,1 +1,53 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"battery-warranty-southeast-asia","canonical_path":"/en/guides/battery-warranty-southeast-asia.html","search_intent":"How Southeast Asian buyers can verify a Chinese EV battery warranty across different national approval systems, tropical conditions, charging standards, flood exposure and archipelago logistics","buyer_task":"Verify, before import, whether a Chinese EV's battery warranty is a written, transferable, destination-claimable entitlement, separate from physical battery health, for a named SEA country.","en_main_html_sha256":"6dcb7bfb8ab0b938530dc040cf1ee94ecf87c5822401c5e74f533752e1e2af58","claim_id_sequence":["C1","C2","C3","C4","C5","E1","C6","C7","E2"],"source_url_set":["https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf","https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf","https://onemotoring.lta.gov.sg/content/onemotoring/en/ways-to-go/buying_a_vehicle.html","https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles","https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars","https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/","https://www.nrel.gov/transportation/battery-lifespan.html"],"source_set_sha256":"ff6c73aabea9cba55cacbaeb07871aaeb6bb57a46c2689daad692a900de7c0af","claim_set_sha256":"00aa05658f88ced95569bfacd3bc492cb50b291bca14824eef45a54102e7bb51","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "battery-warranty-southeast-asia",
+  "canonical_path": "/en/guides/battery-warranty-southeast-asia.html",
+  "search_intent": "How Southeast Asian buyers can verify a Chinese EV battery warranty across different national approval systems, tropical conditions, charging standards, flood exposure and archipelago logistics",
+  "buyer_task": "Verify, before import, whether a Chinese EV's battery warranty is a written, transferable, destination-claimable entitlement, separate from physical battery health, for a named SEA country.",
+  "en_main_html_sha256": "6dcb7bfb8ab0b938530dc040cf1ee94ecf87c5822401c5e74f533752e1e2af58",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "E1",
+    "C6",
+    "C7",
+    "E2"
+  ],
+  "source_url_set": [
+    "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+    "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+    "https://onemotoring.lta.gov.sg/content/onemotoring/en/ways-to-go/buying_a_vehicle.html",
+    "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+    "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+    "https://www.nrel.gov/transportation/battery-lifespan.html"
+  ],
+  "source_set_sha256": "ff6c73aabea9cba55cacbaeb07871aaeb6bb57a46c2689daad692a900de7c0af",
+  "claim_set_sha256": "00aa05658f88ced95569bfacd3bc492cb50b291bca14824eef45a54102e7bb51",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "a8224bc99c9629983b35f58f2ac633fe029fb40bfa46de6a893630d447764cb3",
+    "page_fields_sha256": "ef1c1e04467c2f087de0bd142d3e40587aecc5516c0291defcacfdec0ed2e7b6",
+    "fact_boundary_sha256": "a7c40e4aedc69740a69c3f749936ea0036990682b56994495f3e7f0d5d5443c5",
+    "source_set_sha256_writing": "d5fd3748f664b18e2ec99fd81ef5a633ceda78fe316c27a84b1203dbb7fab1c8",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

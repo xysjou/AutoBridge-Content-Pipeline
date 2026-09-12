@@ -1,1 +1,54 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"roro-container-shipping-latin-america","canonical_path":"/en/guides/roro-container-shipping-latin-america.html","search_intent":"RoRo versus container vehicle shipping Latin America buyer verification","buyer_task":"Choose RoRo vs container for a specific LA route from actual port/carrier/route/vehicle-condition/hand-off evidence, not a regional average.","en_main_html_sha256":"cd05f11c2b1bee3ca15921a8bacc10a9dd4a7f7d9e59f53785a1615e6da40aeb","claim_id_sequence":["C1","C2","C3","C4","E1","C5","C6","C7","C8"],"source_url_set":["https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf","https://lpi.worldbank.org/en/about","https://unctad.org/publication/review-maritime-transport-2024","https://unece.org/transport/vehicle-regulations/wp29-presentation","https://www.iadb.org/","https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx","https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx","https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm"],"source_set_sha256":"c924d4cae0624b55c8e626f07fa61c9f519d74d9cb351821eed2cb3018b7943e","claim_set_sha256":"c612a1354f2fffcd5dd1ef06c009ebb47e1fa3be5c4ffcaf9c5cb605e1959a48","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "roro-container-shipping-latin-america",
+  "canonical_path": "/en/guides/roro-container-shipping-latin-america.html",
+  "search_intent": "RoRo versus container vehicle shipping Latin America buyer verification",
+  "buyer_task": "Choose RoRo vs container for a specific LA route from actual port/carrier/route/vehicle-condition/hand-off evidence, not a regional average.",
+  "en_main_html_sha256": "cd05f11c2b1bee3ca15921a8bacc10a9dd4a7f7d9e59f53785a1615e6da40aeb",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "E1",
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "source_url_set": [
+    "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+    "https://lpi.worldbank.org/en/about",
+    "https://unctad.org/publication/review-maritime-transport-2024",
+    "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+    "https://www.iadb.org/",
+    "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx",
+    "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+    "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm"
+  ],
+  "source_set_sha256": "c924d4cae0624b55c8e626f07fa61c9f519d74d9cb351821eed2cb3018b7943e",
+  "claim_set_sha256": "c612a1354f2fffcd5dd1ef06c009ebb47e1fa3be5c4ffcaf9c5cb605e1959a48",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "29ceb27288d9dfb93ee2217e72e29983181a7c6c1907a6e154717befd6d8f064",
+    "page_fields_sha256": "84c1bca6a51b5142fe32f603b812d69161e89749b2999a7e93839a07857a94f7",
+    "fact_boundary_sha256": "6754a1a27e4b25aeb23ff405c3dd9990d01b1da6fb0973da262798436ff5c672",
+    "source_set_sha256_writing": "be268d959f24d27d6423943e6754fe5334a810b5805011d8bf9f1fc89b55e85a",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

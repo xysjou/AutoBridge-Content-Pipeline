@@ -1,1 +1,55 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"fob-cif-quote-check-latin-america","canonical_path":"/en/guides/fob-cif-quote-check-latin-america.html","search_intent":"Compare FOB and CIF quotations for Chinese vehicles imported into a specific Latin American market","buyer_task":"Compare a China->Latin-America FOB vs CIF vehicle quote through to first registration; separate port/customs/licensing/homologation/registration stages by country.","en_main_html_sha256":"c8a55fa77d8b8d0959cea95d79d8a1829ac90d1b9cc759616cf3f03320f59b18","claim_id_sequence":["C1","C2","C3","C4","C4b","C5","C6","C7","C8","C9","E1"],"source_url_set":["https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf","https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce","https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados","https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao","https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/","https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx","https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm"],"source_set_sha256":"7a3b3a7c53abd3f679761655adb30636666756c043ec867574e06202f9fcd8a7","claim_set_sha256":"116c1157c551fb1f291cbbec1a9ebb3ba4300aaf73b34f8b484572bebc62045a","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "fob-cif-quote-check-latin-america",
+  "canonical_path": "/en/guides/fob-cif-quote-check-latin-america.html",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a specific Latin American market",
+  "buyer_task": "Compare a China->Latin-America FOB vs CIF vehicle quote through to first registration; separate port/customs/licensing/homologation/registration stages by country.",
+  "en_main_html_sha256": "c8a55fa77d8b8d0959cea95d79d8a1829ac90d1b9cc759616cf3f03320f59b18",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C4b",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "E1"
+  ],
+  "source_url_set": [
+    "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+    "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+    "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+    "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+    "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+    "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm"
+  ],
+  "source_set_sha256": "7a3b3a7c53abd3f679761655adb30636666756c043ec867574e06202f9fcd8a7",
+  "claim_set_sha256": "116c1157c551fb1f291cbbec1a9ebb3ba4300aaf73b34f8b484572bebc62045a",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "8519057a3482b3d88f042c5cba05492bb4f4ad1c515567dd25bf7838de161c9e",
+    "page_fields_sha256": "8db5cb73795bc031eb1279c4a3765f72f48154631ef625793a859fdb6c2e8593",
+    "fact_boundary_sha256": "f0e0ea9570c076649afbfc9f2c4e7154a19adc1f4ec121ff40a55c6d77d4ae47",
+    "source_set_sha256_writing": "0b8affd8f281f2c9023bd2d85d53e387b15c3778a4955e7cc1c8a44f66125e9f",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "roro-container-shipping-latin-america",
+  "version": "v4",
+  "mode_selection_concluded": false,
+  "en": {
+    "title": "Choosing RoRo or Container Shipping for a Vehicle to Latin America",
+    "seo_title": "RoRo vs Container Vehicle Shipping to Latin America: The Evidence to Collect First",
+    "meta_description": "No Latin American port-authority or car-carrier primary document was captured, so this page gives the evidence list to collect (port, terminal, carrier, route, operability, securing, weight declaration, insurance, release) and the one verified Incoterms rule; it concludes no RoRo-versus-container choice.",
+    "summary": "Mode choice is decided by the carrier and port for a specific sailing. This page states only the verified Incoterms 2020 distinction and the dated, named confirmations you must obtain; it asserts no port rule, service, schedule, rate or EV/used/damaged acceptance position.",
+    "method": "An evidence-collection framework; only the Incoterms 2020 distinction is stated as a verified rule, and international securing/weight-declaration provisions were not re-verified this round.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand booking, sailing, inspection or shipment is claimed. No Latin American port-authority or car-carrier primary was captured; port rules, carrier services/routes/schedules/rates and EV/used/damaged-vehicle acceptance are not asserted and must be confirmed in writing before booking.",
+    "sources": [
+      {"name": "Incoterms 2020 checklist", "organization": "International Chamber of Commerce", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "International", "checked": "2026-09-09"},
+      {"name": "Verification of the gross mass", "organization": "International Maritime Organization", "url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx", "market": "International (follow-up pointer)", "checked": "2026-09-09"},
+      {"name": "Cargo securing", "organization": "International Maritime Organization", "url": "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx", "market": "International (follow-up pointer)", "checked": "2026-09-09"},
+      {"name": "UNECE WP.29 presentation", "organization": "UNECE", "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Review of Maritime Transport", "organization": "UNCTAD", "url": "https://unctad.org/publication/review-maritime-transport-2024", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Customs Valuation Agreement", "organization": "World Trade Organization", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "International (framework)", "checked": "2026-09-09"},
+      {"name": "Logistics Performance Index", "organization": "World Bank", "url": "https://lpi.worldbank.org/en/about", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Inter-American Development Bank", "organization": "IDB", "url": "https://www.iadb.org/", "market": "Latin America regional (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "车辆出口拉美的滚装与集装箱运输如何选择",
+    "seo_title": "滚装还是集装箱：车辆出口拉美先要收集的证据",
+    "meta_description": "本页未采集到拉美港口当局或汽车运输船承运人的一手文件，因此给出须收集的证据清单（港口、码头、承运人、航线、可移动性、绑扎、重量申报、保险、放货）与唯一已核验的 Incoterms 规则，不给出滚装/集装箱选择结论。",
+    "summary": "方式选择由承运人与港口针对具体航次决定。本页只陈述已核验的 Incoterms 2020 区分，以及须取得的带日期、具名确认；不主张港口规则、服务、船期、费率或电动车/二手车/受损车受理立场。",
+    "method": "证据收集框架；只有 Incoterms 2020 区分作为已核验规则，国际绑扎与重量申报条款本轮未重新核实。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手订舱、发运、检测或运输经历；未采集到拉美港口当局或汽车运输船承运人一手文件，港口规则、承运人服务/航线/船期/费率及电动车/二手车/受损车受理均不主张，订舱前须书面确认。",
+    "sources": [
+      {"name": "Incoterms 2020 清单", "organization": "国际商会（ICC）", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "国际", "checked": "2026-09-09"},
+      {"name": "总质量核验（VGM）", "organization": "国际海事组织（IMO）", "url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx", "market": "国际（后续指引）", "checked": "2026-09-09"},
+      {"name": "货物绑扎", "organization": "国际海事组织（IMO）", "url": "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx", "market": "国际（后续指引）", "checked": "2026-09-09"},
+      {"name": "UNECE WP.29 介绍", "organization": "UNECE", "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "海运评述", "organization": "联合国贸发会议（UNCTAD）", "url": "https://unctad.org/publication/review-maritime-transport-2024", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "海关估价协定", "organization": "世界贸易组织（WTO）", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "国际（框架）", "checked": "2026-09-09"},
+      {"name": "物流绩效指数", "organization": "世界银行", "url": "https://lpi.worldbank.org/en/about", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "美洲开发银行", "organization": "IDB", "url": "https://www.iadb.org/", "market": "拉美区域（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

@@ -1,1 +1,53 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"seven-seat-suv-latin-america","canonical_path":"/en/guides/seven-seat-suv-latin-america.html","search_intent":"seven-seat SUV procurement Latin America buyer verification","buyer_task":"Test whether a specific 7-seat SUV derivative actually carries the planned adults + luggage mission within legal load/restraints and can be admitted/registered in the destination country.","en_main_html_sha256":"658b02deba65f952bd4e7c93d5e10ad1460bd05b7a64b3a247eb3312573c1b92","claim_id_sequence":["C1","C2","C3","C4","C5","E1","C6"],"source_url_set":["https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat","https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles","https://unece.org/transport/vehicle-regulations/wp29-presentation","https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo","https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars","https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion","https://www.planalto.gov.br/ccivil_03/leis/l9503.htm","https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale","https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm"],"source_set_sha256":"eb53ca2749beac0e3bdaad17ef68cbfc608d15e9f606e5502f2da7616ee05f6d","claim_set_sha256":"bb0aff190d7ceda896384cbc22f772efd826ea6d86944ea89b6ca3d24bffa938","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "seven-seat-suv-latin-america",
+  "canonical_path": "/en/guides/seven-seat-suv-latin-america.html",
+  "search_intent": "seven-seat SUV procurement Latin America buyer verification",
+  "buyer_task": "Test whether a specific 7-seat SUV derivative actually carries the planned adults + luggage mission within legal load/restraints and can be admitted/registered in the destination country.",
+  "en_main_html_sha256": "658b02deba65f952bd4e7c93d5e10ad1460bd05b7a64b3a247eb3312573c1b92",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "E1",
+    "C6"
+  ],
+  "source_url_set": [
+    "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+    "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+    "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+    "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+    "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+    "https://www.planalto.gov.br/ccivil_03/leis/l9503.htm",
+    "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+    "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm"
+  ],
+  "source_set_sha256": "eb53ca2749beac0e3bdaad17ef68cbfc608d15e9f606e5502f2da7616ee05f6d",
+  "claim_set_sha256": "bb0aff190d7ceda896384cbc22f772efd826ea6d86944ea89b6ca3d24bffa938",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "bdec64b257e5fb09b24bad0db6727e82c3452f7b984cc2e115471bd68b20b7cb",
+    "page_fields_sha256": "9b84818c46037a4bc9c5dbe8d0025892ba6b885cb45889b0186916dd9e6c6ce3",
+    "fact_boundary_sha256": "d2c4f57be19b4978a9d0914af06b53afd22e6abfa1a1a02ca62341147cbbdd1b",
+    "source_set_sha256_writing": "6bbb14aa9a6e1db1355d26a9657d2687b9336928d5c7301f6ae5ff063f2d8e45",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

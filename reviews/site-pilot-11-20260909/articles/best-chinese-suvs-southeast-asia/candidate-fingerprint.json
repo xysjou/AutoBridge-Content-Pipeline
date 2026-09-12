@@ -1,1 +1,51 @@
-{"schema_version":"candidate-fingerprint/v1","article_slug":"best-chinese-suvs-southeast-asia","canonical_path":"/en/guides/best-chinese-suvs-southeast-asia.html","search_intent":"Choose Chinese SUVs for Southeast Asian countries by steering side, national approval, ASEAN-market safety specification, monsoon use, charging and local service","buyer_task":"Build a COUNTRY-specific Chinese-SUV shortlist by verifying the delivered national variant, ASEAN NCAP rating of that variant, monsoon/water suitability, charging and local service - explicitly NOT a regional ranking and NOT a seven-seat payload test or an FOB/CIF quote audit.","en_main_html_sha256":"28e6bf07f1a2ff0c01e2a7e471b14d18aaf64b67742d11f55a33aaa94c7d5166","claim_id_sequence":["C1","C2","C3","C4","E1","C5","C6","E2"],"source_url_set":["https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf","https://atr.asean.org/standards","https://www.aseancap.org/aboutus","https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols","https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars","https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/"],"source_set_sha256":"5a5b8e3420c07bef40e3ff667c866c5346db15172382c78fee6bb26361d22075","claim_set_sha256":"7ee6bffc9f3c6d5d3eb7371e133c1e985789e4bb65025d119944e6fc12dafa5f","fact_sheet_version":"2.0-claim-level-20260909","repair_baseline_commit":"75da88204ab197bf9c1898a573ed9bca2301df79","generated_at":"2026-09-09","invalidation_rule":"Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification."}
+{
+  "schema_version": "candidate-fingerprint/v1",
+  "article_slug": "best-chinese-suvs-southeast-asia",
+  "canonical_path": "/en/guides/best-chinese-suvs-southeast-asia.html",
+  "search_intent": "Choose Chinese SUVs for Southeast Asian countries by steering side, national approval, ASEAN-market safety specification, monsoon use, charging and local service",
+  "buyer_task": "Build a COUNTRY-specific Chinese-SUV shortlist by verifying the delivered national variant, ASEAN NCAP rating of that variant, monsoon/water suitability, charging and local service - explicitly NOT a regional ranking and NOT a seven-seat payload test or an FOB/CIF quote audit.",
+  "en_main_html_sha256": "28e6bf07f1a2ff0c01e2a7e471b14d18aaf64b67742d11f55a33aaa94c7d5166",
+  "claim_id_sequence": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "E1",
+    "C5",
+    "C6",
+    "E2"
+  ],
+  "source_url_set": [
+    "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+    "https://atr.asean.org/standards",
+    "https://www.aseancap.org/aboutus",
+    "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+    "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+    "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/"
+  ],
+  "source_set_sha256": "5a5b8e3420c07bef40e3ff667c866c5346db15172382c78fee6bb26361d22075",
+  "claim_set_sha256": "7ee6bffc9f3c6d5d3eb7371e133c1e985789e4bb65025d119944e6fc12dafa5f",
+  "fact_sheet_version": "2.0-claim-level-20260909",
+  "repair_baseline_commit": "75da88204ab197bf9c1898a573ed9bca2301df79",
+  "generated_at": "2026-09-09",
+  "invalidation_rule": "Any change to translations.en.main_html, the claim sequence or the source set invalidates this fingerprint and requires re-verification.",
+  "writing_v4": {
+    "version": "v4",
+    "locales_generated": [
+      "en",
+      "zh"
+    ],
+    "other_10_locales_generated": false,
+    "draft_sha256": "6ea37799075ee88fecf31b579066b5ffe30f6cc0dbe9f0e08108e9dddb29ef40",
+    "page_fields_sha256": "643d59fc5efd5ac3bb08a1d6f4920db214665f33bc08b6fa391e23ec9f8620e0",
+    "fact_boundary_sha256": "1040271bc1d0b148a7e5e86cf2aa05277d9ef5322aacb34d1dae9e5dabd74273",
+    "source_set_sha256_writing": "682cf2e5ec4e95f1f52ed87626b2aaaf81f600ca0a5fdacf44b036face7390f3",
+    "hash_method": "DRAFT=sha256(raw UTF-8 v4.md); PAGE_FIELDS/FACT/SOURCE_SET=sha256(canonical JSON sort_keys ensure_ascii=False separators=(',',':') + newline); fact boundary from reviews/site-pilot-11-20260909 branch fact-and-source-boundaries.json @ 7ebe640",
+    "image_plan": "OPEN",
+    "rights_verified": false,
+    "generated_at": "2026-09-12",
+    "review_pass": false,
+    "publish_approved": false,
+    "human_reviewed": false
+  }
+}

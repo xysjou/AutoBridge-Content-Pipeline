@@ -1,0 +1,43 @@
+{
+  "slug": "fob-cif-quote-check-latin-america",
+  "version": "v4",
+  "en": {
+    "title": "FOB vs CIF Quote Check for Chinese Vehicles Imported into Latin America",
+    "seo_title": "FOB vs CIF Vehicle Quote Check for Latin America: Brazil, Colombia, Peru, Chile",
+    "meta_description": "Compare a China-to-Latin-America FOB or CIF vehicle quote through to first registration: Incoterm risk points, why customs value follows national law, and the separate declaration, licensing, homologation and registration gates in Brazil, Colombia, Peru and Chile.",
+    "summary": "FOB and CIF only settle the ocean leg; from discharge onwards Brazil, Colombia, Peru and Chile run separate declaration, licensing, valuation and registration systems. Price each named country's gates to the same endpoint before comparing quotes.",
+    "method": "Document research and procurement analysis of official customs and trade sources for Brazil, Colombia, Peru and Chile, set against the Incoterms 2020 framework. Each country statement is bounded to that country; no single country represents Latin America.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed. Live freight/terminal/inland rates, carrier acceptance, duty percentages and preferential-origin eligibility are not captured and must be confirmed with the named authority or a destination customs adviser before payment.",
+    "sources": [
+      {"name": "Incoterms 2020 checklist", "organization": "International Chamber of Commerce", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "International", "checked": "2026-09-09"},
+      {"name": "Valuation FAQ", "organization": "World Customs Organization", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "International", "checked": "2026-09-09"},
+      {"name": "Customs Valuation Agreement", "organization": "World Trade Organization", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "International", "checked": "2026-09-09"},
+      {"name": "Import clearance manual", "organization": "Receita Federal do Brasil", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao", "market": "Brazil", "checked": "2026-09-09"},
+      {"name": "VUCE procedures and services", "organization": "VUCE Colombia", "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce", "market": "Colombia", "checked": "2026-09-09"},
+      {"name": "Vehicle importation guidance", "organization": "SUNAT Peru", "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/", "market": "Peru", "checked": "2026-09-09"},
+      {"name": "First registration of motor vehicles", "organization": "ChileAtiende", "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados", "market": "Chile", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "中国汽车出口拉美：FOB 与 CIF 报价核验（巴西、哥伦比亚、秘鲁、智利）",
+    "seo_title": "拉美 FOB 与 CIF 汽车报价核验：巴西、哥伦比亚、秘鲁、智利",
+    "meta_description": "把中国到拉美的 FOB/CIF 汽车报价一直核到首次注册：Incoterms 风险点、完税价格为何依本国法，以及巴西、哥伦比亚、秘鲁、智利各自独立的申报、许可、homologation 与注册关口。",
+    "summary": "FOB 与 CIF 只解决海运段；从卸货开始，巴西、哥伦比亚、秘鲁、智利各有独立的申报、许可、估价与注册体系。比较报价前，应把每个具名国家的关口成本算到同一终点。",
+    "method": "针对巴西、哥伦比亚、秘鲁、智利的官方海关与贸易来源做文献研究与采购分析，并与 Incoterms 2020 框架对照；各国表述仅限该国，不以单一国家代表整个拉美。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历。实时运费/码头/内陆费用、承运人受理条件、关税税率与优惠原产地资格均未采集，付款前须向具名主管机构或目的国海关顾问确认。",
+    "sources": [
+      {"name": "Incoterms 2020 清单", "organization": "国际商会（ICC）", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "国际", "checked": "2026-09-09"},
+      {"name": "海关估价常见问题", "organization": "世界海关组织（WCO）", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "国际", "checked": "2026-09-09"},
+      {"name": "海关估价协定", "organization": "世界贸易组织（WTO）", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "国际", "checked": "2026-09-09"},
+      {"name": "进口通关手册", "organization": "巴西联邦税务局", "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao", "market": "巴西", "checked": "2026-09-09"},
+      {"name": "VUCE 手续与服务", "organization": "哥伦比亚 VUCE", "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce", "market": "哥伦比亚", "checked": "2026-09-09"},
+      {"name": "车辆进口指南", "organization": "秘鲁 SUNAT", "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/", "market": "秘鲁", "checked": "2026-09-09"},
+      {"name": "机动车首次注册", "organization": "智利 ChileAtiende", "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados", "market": "智利", "checked": "2026-09-09"}
+    ]
+  },
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

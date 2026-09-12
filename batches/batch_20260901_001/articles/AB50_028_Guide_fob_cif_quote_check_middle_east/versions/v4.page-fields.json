@@ -1,0 +1,45 @@
+{
+  "slug": "fob-cif-quote-check-middle-east",
+  "version": "v4",
+  "en": {
+    "title": "FOB vs CIF Quote Check for Chinese Vehicles Shipped to the Middle East",
+    "seo_title": "FOB vs CIF Quote Check for the Middle East: Saudi, Qatar and UAE Gates",
+    "meta_description": "Separate FOB and CIF shipping obligations from Gulf conformity and national import controls: Qatar customs-value mechanics, Saudi ZATCA age and prohibition rules, and the UAE MoIAT consultation-stage used-vehicle categories whose current binding instrument must be confirmed.",
+    "summary": "One quote hides three questions: what the Incoterm moves, whether the state admits the vehicle, and the landed total. Qatar and Saudi rules are documented; the UAE seven-category description rests on a 2023 MoIAT consultation and its current binding instrument and 2026 applicability are not re-verified.",
+    "method": "Document research and procurement analysis of Incoterms materials and official Qatar, Saudi and UAE sources; WTO/GSO materials are framework or pointers. Rules are national and not interchangeable.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand shipment, customs clearance, transaction or ownership is claimed. The UAE seven-category description comes from a 2023 MoIAT consultation page; its current binding instrument and 2026 applicability are not re-verified. Detailed GCC conformity mechanics, other Middle Eastern states' rules and live freight/testing/insurance costs are not asserted.",
+    "sources": [
+      {"name": "Incoterms 2020 checklist", "organization": "International Chamber of Commerce", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "International", "checked": "2026-09-09"},
+      {"name": "Valuation FAQ", "organization": "World Customs Organization", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "International", "checked": "2026-09-09"},
+      {"name": "Resolution on customs value instructions", "organization": "Qatar General Authority of Customs", "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf", "market": "Qatar", "checked": "2026-09-09"},
+      {"name": "Imported vehicles rules", "organization": "ZATCA Saudi Arabia", "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx", "market": "Saudi Arabia", "checked": "2026-09-09"},
+      {"name": "Imported used-vehicle technical requirements (2023 consultation)", "organization": "UAE MoIAT", "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements", "market": "UAE (consultation stage)", "checked": "2026-09-09"},
+      {"name": "Customs Valuation Agreement", "organization": "World Trade Organization", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "International (framework)", "checked": "2026-09-09"},
+      {"name": "GCC conformity overview", "organization": "GSO", "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview", "market": "GCC regional (pointer)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "中国车辆出口中东的 FOB 与 CIF 报价核对（沙特、卡塔尔、阿联酋）",
+    "seo_title": "中东 FOB/CIF 报价核对：沙特、卡塔尔与阿联酋关口",
+    "meta_description": "把 FOB/CIF 运输义务与海湾合格性、国家进口管控分开：卡塔尔完税价格机制、沙特 ZATCA 车龄与禁止规则，以及阿联酋 MoIAT 处于征询阶段、现行约束性文件仍须确认的二手车类别。",
+    "summary": "一份报价藏着三个问题：术语转移了什么、国家是否准入、落地总额多少。卡塔尔与沙特规则有据；阿联酋七类描述来自 2023 年 MoIAT 征询，其现行约束性文件与 2026 适用性未重新核实。",
+    "method": "针对 Incoterms 材料与卡塔尔、沙特、阿联酋官方来源做文献研究与采购分析，WTO/GSO 作框架或指引；各国规则各自国别、不可互换。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手发运、清关、交易或持有经历。阿联酋七类描述来自 2023 年 MoIAT 征询页，现行约束性文件与 2026 适用性未重新核实；GCC 合格性具体机制、其他中东国家规则与实时运费/检测/保险成本均不主张。",
+    "sources": [
+      {"name": "Incoterms 2020 清单", "organization": "国际商会（ICC）", "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf", "market": "国际", "checked": "2026-09-09"},
+      {"name": "海关估价常见问题", "organization": "世界海关组织（WCO）", "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx", "market": "国际", "checked": "2026-09-09"},
+      {"name": "进口货物完税价格指令决议", "organization": "卡塔尔海关总署", "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf", "market": "卡塔尔", "checked": "2026-09-09"},
+      {"name": "进口车辆规则", "organization": "沙特 ZATCA", "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx", "market": "沙特", "checked": "2026-09-09"},
+      {"name": "进口二手车技术要求（2023 征询）", "organization": "阿联酋 MoIAT", "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements", "market": "阿联酋（征询阶段）", "checked": "2026-09-09"},
+      {"name": "海关估价协定", "organization": "世界贸易组织（WTO）", "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm", "market": "国际（框架）", "checked": "2026-09-09"},
+      {"name": "GCC 合格性概览", "organization": "GSO", "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview", "market": "GCC 区域（指引）", "checked": "2026-09-09"}
+    ]
+  },
+  "uae_seven_categories_current_law_verified": false,
+  "uae_source_stage": "2023_public_consultation",
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

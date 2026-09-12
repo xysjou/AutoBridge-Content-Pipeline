@@ -1,0 +1,45 @@
+{
+  "slug": "battery-warranty-southeast-asia",
+  "version": "v4",
+  "retarget": "Battery Warranty Due-Diligence Framework (no OEM warranty primary captured)",
+  "en": {
+    "title": "A Battery Warranty Due-Diligence Framework for Chinese EVs Sold into Southeast Asia",
+    "seo_title": "Chinese EV Battery Warranty Due-Diligence for Southeast Asia: A Verification Framework",
+    "meta_description": "A due-diligence framework for a Chinese EV battery warranty in Singapore or Malaysia: separate written entitlement from battery condition, pass national registration and type-approval gates, and document flood exposure. Exact OEM warranty terms still require model- and country-level confirmation.",
+    "summary": "Separate the written commercial entitlement from the pack's physical condition. Singapore's registration gate and Malaysia's whole-vehicle type approval apply before any warranty question, but neither a national approval rule nor a global battery-durability regulation is a manufacturer warranty. This page is a verification framework; exact OEM terms must be obtained per model and country.",
+    "method": "A procurement due-diligence framework built from official Singapore LTA and Malaysia JPJ admission sources; international technical and market materials are background only. Bounded to Singapore and Malaysia.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed. No OEM battery-warranty term, capacity-retention threshold, transferability, territory or water-exclusion clause was captured and none is asserted; local workshop capability and other Southeast Asian consumer regimes are not verified.",
+    "sources": [
+      {"name": "Importation guidelines for cars", "organization": "Singapore Land Transport Authority", "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf", "market": "Singapore", "checked": "2026-09-09"},
+      {"name": "Vehicle Type Approval process", "organization": "Malaysia Road Transport Department (JPJ)", "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/", "market": "Malaysia", "checked": "2026-09-09"},
+      {"name": "Buying a vehicle", "organization": "Singapore Land Transport Authority", "url": "https://onemotoring.lta.gov.sg/content/onemotoring/en/ways-to-go/buying_a_vehicle.html", "market": "Singapore", "checked": "2026-09-09"},
+      {"name": "UN GTR No.22 battery durability", "organization": "UNECE WP.29", "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Global EV Outlook", "organization": "International Energy Agency", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "ASEAN Guidelines on Light Electric Vehicles", "organization": "ASEAN Secretariat", "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf", "market": "ASEAN regional (background)", "checked": "2026-09-09"},
+      {"name": "Battery lifespan material", "organization": "US National Renewable Energy Laboratory", "url": "https://www.nrel.gov/transportation/battery-lifespan.html", "market": "United States (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "中国电动车东南亚电池保修尽职调查框架（新加坡、马来西亚）",
+    "seo_title": "中国电动车东南亚电池保修尽调：一套核验框架",
+    "meta_description": "面向新加坡或马来西亚的中国电动车电池保修尽调框架：把书面权利与电池物理状态分开，先过国家注册与型式认证关口，并规范记录水浸。确切 OEM 保修条款仍须逐车型、逐国家确认。",
+    "summary": "把书面商业权利与电池包物理状态分开。新加坡注册关口与马来西亚整车型式认证先于任何保修问题，但国家准入规则与全球电池耐久性法规都不是厂家保修。本页是核验框架，确切 OEM 条款须逐车型、逐国家取得。",
+    "method": "基于新加坡 LTA 与马来西亚 JPJ 官方准入来源搭建的采购尽调框架，国际技术与市场材料仅作背景；表述限定于新加坡与马来西亚。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历；未采集、也不主张任何 OEM 电池保修期限、容量保持率门槛、可转让性、地区范围或进水免责条款；本地维修能力与其他东南亚国家消费者制度均未核实。",
+    "sources": [
+      {"name": "乘用车进口指南", "organization": "新加坡陆路交通管理局（LTA）", "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf", "market": "新加坡", "checked": "2026-09-09"},
+      {"name": "车辆型式认证（VTA）流程", "organization": "马来西亚陆路交通局（JPJ）", "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/", "market": "马来西亚", "checked": "2026-09-09"},
+      {"name": "购买车辆", "organization": "新加坡陆路交通管理局（LTA）", "url": "https://onemotoring.lta.gov.sg/content/onemotoring/en/ways-to-go/buying_a_vehicle.html", "market": "新加坡", "checked": "2026-09-09"},
+      {"name": "UN GTR No.22 电池耐久性", "organization": "UNECE WP.29", "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "全球电动车展望", "organization": "国际能源署（IEA）", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "东盟轻型电动车指南", "organization": "东盟秘书处", "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf", "market": "东盟区域（背景）", "checked": "2026-09-09"},
+      {"name": "电池寿命资料", "organization": "美国国家可再生能源实验室（NREL）", "url": "https://www.nrel.gov/transportation/battery-lifespan.html", "market": "美国（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "oem_warranty_primary_captured": false,
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}

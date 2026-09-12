@@ -1,0 +1,45 @@
+{
+  "slug": "new-vs-used-ev-middle-east",
+  "version": "v4",
+  "en": {
+    "title": "Choosing Between a New, Unused-Stock or Used Chinese EV for the Middle East",
+    "seo_title": "New vs Used Chinese EV for the Middle East: Admissibility, Heat and Warranty Checks",
+    "meta_description": "Decide whether a new, unused-stock or used Chinese EV can be imported, registered and supported in Saudi Arabia, the UAE or Qatar: class-specific age limits, prohibited categories, customs-value treatment, heat effects on range, and battery-health evidence.",
+    "summary": "A used-EV price gap is only real if the car clears destination rules. Saudi Arabia splits its age limit by vehicle class and importer type and lists independent prohibition grounds; the UAE bars seven used categories from import, licensing and insurance; Qatar may challenge declared customs value. Heat and battery health need measured evidence, and source-market warranty is not assumed to transfer.",
+    "method": "Document research and procurement analysis of official ZATCA, MoIAT and Qatar Customs sources, plus one qualitative US Department of Energy statement on temperature and range. Country statements apply only to Saudi Arabia, the UAE and Qatar and are not a Gulf-wide rule.",
+    "ai_disclosure": "Prepared by the AutoBridge Export Editorial Team with AI assistance for source organization, drafting, revision and translation. This is AI-assisted independent review, not human editorial sign-off; final editorial review is pending.",
+    "evidence_boundary": "No first-hand inspection, transaction, interview or ownership is claimed; no price or range number is asserted. The Saudi commercial/fleet route and any conditional residency exception, destination warranty acceptance and insurer treatment of immersed batteries are not verified in the captured evidence and must be confirmed with the named authority, OEM or insurer.",
+    "sources": [
+      {"name": "Imported vehicles rules", "organization": "ZATCA Saudi Arabia", "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx", "market": "Saudi Arabia", "checked": "2026-09-09"},
+      {"name": "Imported used-vehicle technical requirements", "organization": "UAE MoIAT", "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements", "market": "UAE", "checked": "2026-09-09"},
+      {"name": "Resolution on customs value instructions", "organization": "Qatar General Authority of Customs", "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf", "market": "Qatar", "checked": "2026-09-09"},
+      {"name": "Electric vehicle basics", "organization": "US Department of Energy, AFDC", "url": "https://afdc.energy.gov/vehicles/electric-basics-ev", "market": "United States (general)", "checked": "2026-09-09"},
+      {"name": "UN GTR No.22 battery durability", "organization": "UNECE WP.29", "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Global EV Outlook", "organization": "International Energy Agency", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "International (background)", "checked": "2026-09-09"},
+      {"name": "Used vehicles and the environment", "organization": "UNEP", "url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale", "market": "International (background)", "checked": "2026-09-09"}
+    ]
+  },
+  "zh": {
+    "title": "中国新车、库存新车与二手电动车如何选：面向中东（沙特、阿联酋、卡塔尔）",
+    "seo_title": "中国电动车新车与二手车之选中东篇：准入、高温与保修核验",
+    "meta_description": "判断中国新车、库存新车或二手电动车能否在沙特、阿联酋、卡塔尔进口、上牌并获得售后：分车辆类别的车龄限制、禁入类别、完税价格处理、高温对续航的影响与电池健康证据。",
+    "summary": "二手电动车的价差只有在通过目的国规则时才真实。沙特按车辆类别与进口人类型拆分车龄限制并单列独立禁入事由；阿联酋禁止七类二手车进口、上牌与投保；卡塔尔可能质疑申报完税价格。高温与电池健康需要测量证据，且不能假定来源国保修可转移。",
+    "method": "针对 ZATCA、MoIAT 与卡塔尔海关官方来源做文献研究与采购分析，并引用美国能源部一句关于温度与续航的定性表述；各国表述分别仅适用于沙特、阿联酋、卡塔尔，不构成海湾统一规则。",
+    "ai_disclosure": "由 AutoBridge Export Editorial Team 编写，AI 协助完成来源整理、起草、修订与翻译。这是 AI 辅助的独立审阅，并非人工编辑签发，最终编辑审阅仍在进行中。",
+    "evidence_boundary": "本页不主张任何一手检测、交易、采访或持有经历；不主张任何价格或续航数字。沙特商业/车队路径及任何居留条件例外、目的国保修受理、浸泡电池的保险受理，在已采集证据中均未核实，须向具名主管机构、OEM 或保险人确认。",
+    "sources": [
+      {"name": "进口车辆规则", "organization": "沙特 ZATCA", "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx", "market": "沙特", "checked": "2026-09-09"},
+      {"name": "进口二手车技术要求", "organization": "阿联酋 MoIAT", "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements", "market": "阿联酋", "checked": "2026-09-09"},
+      {"name": "进口货物完税价格指令决议", "organization": "卡塔尔海关总署", "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf", "market": "卡塔尔", "checked": "2026-09-09"},
+      {"name": "电动车基础", "organization": "美国能源部 AFDC", "url": "https://afdc.energy.gov/vehicles/electric-basics-ev", "market": "美国（通用）", "checked": "2026-09-09"},
+      {"name": "UN GTR No.22 电池耐久性", "organization": "UNECE WP.29", "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "全球电动车展望", "organization": "国际能源署（IEA）", "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars", "market": "国际（背景）", "checked": "2026-09-09"},
+      {"name": "二手车与环境", "organization": "联合国环境规划署（UNEP）", "url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale", "market": "国际（背景）", "checked": "2026-09-09"}
+    ]
+  },
+  "saudi_commercial_fleet_route": "NOT_VERIFIED",
+  "saudi_conditional_residency_exception": "NOT_VERIFIED_IN_CAPTURED_EVIDENCE",
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false
+}
