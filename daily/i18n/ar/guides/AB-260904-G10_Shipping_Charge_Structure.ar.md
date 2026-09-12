@@ -1,101 +1,63 @@
 # قراءة حصص الشحن البحري لتصدير المركبات: هيكل الشحن دون أرقام مخترعة
-
 ## بيانات SEO الوصفية
-- **عنوان SEO**: هيكل شحنات المحيطات لتصدير المركبات - O/F، THC، DOC، BAF موضحة
-- **وصف Meta**: فهم رسوم الشحنات من طراز O/F، THC، DOC/SEAL/VGM، BAF، والرسوم الإضافية، ورسوم المنشأ مقابل الوجهة، وسبب وجود AMS/ACI/ENS رسوم بيانية محددة على الطرق - وهو دليل هيكلي لا يذكر عمدا مبالغ ثابتة.
-- **H1**: أنزلق مركبة مُنقطعة مُتفجرة" "أيّ تهم مُباشرة، و يُتهمهمها" "وماذا يُصدق
-- **الكلمة المفتاحية الرئيسية**: ocean freight charge structure vehicle export  THC   DOC   BAF
-- **مصطلحات بحث ثانوية**: الشحن البحري O/F رسوم مناولة طرفية DOC رسم وثائقي   SEAL   VGM  fee,   BAF   EBS  surcharge,   AMS   ACI   ENS  manifest fee, منشأ مقابل رسوم الوجهة
-- **URL المقترح**: /guides/ocean-freight-charge-structure-vehicle-export
-- **نية البحث**: فهم يُصدرون رخص الشحن بالمركبات - التصدير: أي تهمة موجودة، تتهم، وما إلى التحقق من: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
-- **اقتراح الصورة**: منشأ الشلالات
-- **نص ALT**: تقسيم هيكل شحنات المحيطات حسب المنشأ والمحيطات والمقصد
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: هيكل شحنات المحيطات لتصدير المركبات - O/F، THC، DOC، BAF موضحة
+- وصف Meta: فهم رسوم الشحنات من طراز O/F، THC، DOC/SEAL/VGM، BAF، والرسوم الإضافية، ورسوم المنشأ مقابل الوجهة، وسبب وجود AMS/ACI/ENS رسوم بيانية محددة على الطرق - وهو دليل هيكلي لا يذكر عمدا مبالغ ثابتة.
+- H1: أنزلق مركبة مُنقطعة مُتفجرة" "أيّ تهم مُباشرة، و يُتهمهمها" "وماذا يُصدق
+- الكلمة المفتاحية الرئيسية: ocean freight charge structure vehicle export THC DOC BAF
+- مصطلحات بحث ثانوية: الشحن البحري O/F رسوم مناولة طرفية DOC رسم وثائقي SEAL VGM fee, BAF EBS surcharge, AMS ACI ENS manifest fee, منشأ مقابل رسوم الوجهة
+- URL المقترح: /guides/ocean-freight-charge-structure-vehicle-export
+- نية البحث: فهم يُصدرون رخص الشحن بالمركبات - التصدير: أي تهمة موجودة، تتهم، وما إلى التحقق من: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- اقتراح الصورة: منشأ الشلالات
+- نص ALT: تقسيم هيكل شحنات المحيطات حسب المنشأ والمحيطات والمقصد
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## لماذا يُبنى (كووت) أكثر من رقم منخفض
-سعر الشحن الرئيسي يربح الحجز ويخسر المال في الوجهة ويقبض على مصدري المركبات ليس من قبل الشحن البحري الأساسي بل من خلال مجموعة رسوم الشحن الإضافية ورسوم المقصد الملحقة به. ويوضح هذا الدليل ما هي كل تهمة، وما يُدفع إليه، وما يُنشأ فيه**، ولأن كل سعر ينتقل بالطرق والقدرة والموسم، فإنه لا يحدد أي مبالغ ثابتة**. استخدمه لمراجعة خط اقتباس حسب الخط، وليس لتقدير التكلفة المهبطة.
-
+سعر الشحن الرئيسي يربح الحجز ويخسر المال في الوجهة ويقبض على مصدري المركبات ليس من قبل الشحن البحري الأساسي بل من خلال مجموعة رسوم الشحن الإضافية ورسوم المقصد الملحقة به. ويوضح هذا الدليل ما هي كل تهمة، وما يُدفع إليه، وما يُنشأ فيه، ولأن كل سعر ينتقل بالطرق والقدرة والموسم، فإنه لا يحدد أي مبالغ ثابتة. استخدمه لمراجعة خط اقتباس حسب الخط، وليس لتقدير التكلفة المهبطة.
 ## مبانٍ المبنى
 | الرسم | ما يغطيه | مبلّغ أين |
-|---|---|---|
-| **  | الشحن البحري في القاعدة، المكون الرئيسي للاقتباس، العائمة مع الممر/القدرة/البحار | ساق المحيط |
-| ** المركز التجاري الدولي (شحنة المناولة)*  | رفع/بيع/خزن المصطلحات؛ يختلف بحجم الحاويات | مقصد (OTHC/DTHC) |
-| ** دي أوك (رسم وثائق)*  | الوثائق؛ المصدر: مكتب خدمات المشاريع والمقصد | كلا النهايتين |
-| ** VGM** | رسوم التصريف ورسوم الموازنة الإجمالية المتحقق منها - بنود المنشأ المشتركة | Origin |
-| ** BAF (تعديلات على المسافرين؛ شبيهة بـ EBS)*  | رسوم إضافية متصلة بالوقود؛ إلى جانب القوات المسلحة السودانية (العملة)، PSS (مواسم القرعة)، PCS (الاحتجاج)، WRS (خطر الحرب) | |
-
+| --- | --- | --- |
+| | الشحن البحري في القاعدة، المكون الرئيسي للاقتباس، العائمة مع الممر/القدرة/البحار | ساق المحيط |
+| المركز التجاري الدولي (شحنة المناولة)* | رفع/بيع/خزن المصطلحات؛ يختلف بحجم الحاويات | مقصد (OTHC/DTHC) |
+| دي أوك (رسم وثائق)* | الوثائق؛ المصدر: مكتب خدمات المشاريع والمقصد | كلا النهايتين |
+| VGM | رسوم التصريف ورسوم الموازنة الإجمالية المتحقق منها - بنود المنشأ المشتركة | Origin |
+| BAF (تعديلات على المسافرين؛ شبيهة بـ EBS)* | رسوم إضافية متصلة بالوقود؛ إلى جانب القوات المسلحة السودانية (العملة)، PSS (مواسم القرعة)، PCS (الاحتجاج)، WRS (خطر الحرب) | |
 ## رخص التصوير هي مادة ذات طابع سريع (إرشاد تحريري، وليس تهمة عالمية)
-** تنشأ عموماً بيانات عن البيانات المالية، ورسوم الاتصالات السلكية واللاسلكية، ورسوم الإيداع الآلية المماثلة**، عندما تمرّ هذه الرسوم عبر منطقة التصفية الإلزامية المقابلة** (مثل نظم التعبئة المسبقة بين الولايات المتحدة وكندا والاتحاد الأوروبي). إن كان دفع رسوم يعتمد على الـ "إلين" و الناقلة**، ويُسوى على فاتورة الشحنة وهذا هو ** التوجيه الخاص بالطرق**، وليس جدولا دوليا شاملا للشحنات: فالطريق الذي لا يمس تلك النظم أبدا ينبغي ألا يحمل الرسوم، ويزعم الدليل أنه لا توجد تعريفة محددة لها.
-
+ تنشأ عموماً بيانات عن البيانات المالية، ورسوم الاتصالات السلكية واللاسلكية، ورسوم الإيداع الآلية المماثلة، عندما تمرّ هذه الرسوم عبر منطقة التصفية الإلزامية المقابلة (مثل نظم التعبئة المسبقة بين الولايات المتحدة وكندا والاتحاد الأوروبي). إن كان دفع رسوم يعتمد على الـ "إلين" و الناقلة، ويُسوى على فاتورة الشحنة وهذا هو التوجيه الخاص بالطرق، وليس جدولا دوليا شاملا للشحنات: فالطريق الذي لا يمس تلك النظم أبدا ينبغي ألا يحمل الرسوم، ويزعم الدليل أنه لا توجد تعريفة محددة لها.
 ## Origin vs Destination - Where Disputes اختبئ
-- : أن تقسم كل خط إلى رسوم متعمدة** تحميل)**، و ** رسوم تحديد الهوية** (في التصريف/الاستعمار). وكثيرا ما يفاجئ مشترو المركبات برسوم المقصد التي لم يتوقعوها من شركة TC وDOC ورسوم تسليم.
-- (ب) أن يطلب إلى الجهة المرسلة أن تُسمّى كل خط ووحدة فواتيرها** (لكل مركبة)، بحيث يمكن مقارنة اقتباسين على نفس الأساس.
-- شاهدوا رسوم إضافية غير مسماة** و "رسوم محلية" بدون وحدة - هذه هي حيث يتم استرداد معدل منخفض من خط الأساس.
-
+- : أن تقسم كل خط إلى رسوم متعمدة تحميل)، و رسوم تحديد الهوية (في التصريف/الاستعمار). وكثيرا ما يفاجئ مشترو المركبات برسوم المقصد التي لم يتوقعوها من شركة TC وDOC ورسوم تسليم.
+- (ب) أن يطلب إلى الجهة المرسلة أن تُسمّى كل خط ووحدة فواتيرها (لكل مركبة)، بحيث يمكن مقارنة اقتباسين على نفس الأساس.
+- شاهدوا رسوم إضافية غير مسماة و "رسوم محلية" بدون وحدة - هذه هي حيث يتم استرداد معدل منخفض من خط الأساس.
 ## طريقة النظر في الطلبات (لا أرقام)
 1. تأكيد Incoterm وأي جانب من الدببة يُنشأ ضد رسوم الوجهة.
-2. القائمة وكل شحنة إضافية تحمل اسم الوحدة المعنية بالكتابة والتدوين**.
-3. اضغط على أي خط من خطوط إدارة/ACI/ENS وتحقق من ذلك مقابل المسار المثير** (لكل شيء على حدة).
+2. القائمة وكل شحنة إضافية تحمل اسم الوحدة المعنية بالكتابة والتدوين.
+3. اضغط على أي خط من خطوط إدارة/ACI/ENS وتحقق من ذلك مقابل المسار المثير (لكل شيء على حدة).
 4 - عمودا المنشأ والمقصد المكرران؛ طلب رسوم الوجهة كتابة.
 5. إعادة الاقتباس في الحجز - جميع المعدلات حساسة للوقت، والقتباس الرسمي في تلك اللحظة يحكم.
-
 ## ما هذا الدليل لن يفعل
-- ** لا توجد مبالغ ثابتة** (لا نطاقات لجنة الخيارات التقنية المعنية ببروميد الميثيل، ولا أرقام مقايضة: الأرقام السابقة هي أرقام ثابتة أو قابلة للتداول في السوق، ولا تقدم أبداً على أنها أرقام جارية.
-- ** لا يُستمد تقدير تكاليف الهبوط أو الهامش** من شركة أوت بريدج أو المشتري؛ وهذا يتطلب اقتباسا رسميا حيا.
-
+- لا توجد مبالغ ثابتة (لا نطاقات لجنة الخيارات التقنية المعنية ببروميد الميثيل، ولا أرقام مقايضة: الأرقام السابقة هي أرقام ثابتة أو قابلة للتداول في السوق، ولا تقدم أبداً على أنها أرقام جارية.
+- لا يُستمد تقدير تكاليف الهبوط أو الهامش من شركة أوت بريدج أو المشتري؛ وهذا يتطلب اقتباسا رسميا حيا.
 ## الأسئلة المتكررة
-** لماذا اقتباسين من نفس السعر يختلفان في الوجهة**؟ وعادة ما تختلف رسوم الإيصال/التوصيل/التوصيل إلى المقصد، ورسوم التسمية الإضافية - مقارنة خط العملة بوحدات إعداد الفواتير.
-** هل ستدفع كل شحنة من الشحنات المبلغ المخصص القياسي لشحنات لا - لا تنشأ هذه الرسوم البيانية إلا عندما يمر الطريق عبر منطقة التصفيف الإلزامي ذات الصلة؛ والتحقق من الممر الفعلي.
-** هل تم إصلاح مصرف BAF/EBS؟** لا، إنها شحنات طافية موصلة بالوقود إلى جانب CAF/PSS/PCS/WRS.
-** هل تعطي هذه الصفحة معدلاتها الحالية**؟ لا؛ فالمعدلات تنتقل مع السوق وتُستحوذ من الاقتباس الرسمي في الحجز.
-
-## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Ocean freight quotation charge structure, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Ocean freight quotation charge structure, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Ocean freight quotation charge structure, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Ocean freight quotation charge structure, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Ocean freight quotation charge structure, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Ocean freight quotation charge structure, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Ocean freight quotation charge structure, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Ocean freight quotation charge structure, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
-
+ لماذا اقتباسين من نفس السعر يختلفان في الوجهة؟ وعادة ما تختلف رسوم الإيصال/التوصيل/التوصيل إلى المقصد، ورسوم التسمية الإضافية - مقارنة خط العملة بوحدات إعداد الفواتير.
+ هل ستدفع كل شحنة من الشحنات المبلغ المخصص القياسي لشحنات لا - لا تنشأ هذه الرسوم البيانية إلا عندما يمر الطريق عبر منطقة التصفيف الإلزامي ذات الصلة؛ والتحقق من الممر الفعلي.
+ هل تم إصلاح مصرف BAF/EBS؟ لا، إنها شحنات طافية موصلة بالوقود إلى جانب CAF/PSS/PCS/WRS.
+ هل تعطي هذه الصفحة معدلاتها الحالية؟ لا؛ فالمعدلات تنتقل مع السوق وتُستحوذ من الاقتباس الرسمي في الحجز.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
-| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
-| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
-| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | single source | Charge naming |
-*Evidence scope: charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | Charge naming |
+*Evidence scope: charge structure تمت مطابقته from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | مصدر أولي | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | مصدر أولي | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | مصدر أولي | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | مصدر أولي | China-side forwarding industry and quotation practice |
 
-| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
-| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
-| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
-| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
-
-## استعراض التحرير
-- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: الهيكل الدولي لشحن المحيطات (لا توجد مبالغ، ولا تعريفات محددة للطرق)
-- ** طريقة الفرز**: تم فحص هيكل متداخل؛ تم تحديد مسار الرسوم البيانية؛ ولم يُدَّد أي أرقام ثابتة
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
-
-**Tags**: #OceanFreight #FreightCharges #THC #ShippingQuote #ExportCost
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: عالمي
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

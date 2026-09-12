@@ -1,104 +1,68 @@
 # สัญญา ที่ ให้ กับ ผู้ รับ การ ศึกษา
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: ไดรเวอร์ส่งออกเป็น Laguages clas & guage
-- **คำอธิบาย Meta**: สัญญา ขาย รถยนต์ ต้อง มี — PRC ราย แก้ไขโครงการหลัก... Art 596 องค์ประกอบ, Inctotes transfers transfer, rested of title, cript/overd window, มติโต้แย้งและ Apossible, บวกการเปิดเผยการเปิดใช้งานรถ
-- **H1**: chiss ches in a moft prils prils prilments: prilment, title, ความเสี่ยงและ discults
-- **คีย์เวิร์ดหลัก**: สัญญาขายรถส่งออก ข้อกําหนดการกดปุ่มพิมพ์ ความเสี่ยง
-- **คำค้นหารอง**: คุ้มกันสัญญาส่งออกชื่อเรื่อง พาหนะที่มีความเสี่ยงในอินโคเตส ประหารชีวิตสัญญาการลักลอบส่งสินค้า ICC การค้ารถ การค้ารถ การค้าสินค้า, เอกสารการต่างประเทศ Apossition, สภาวะรถเปิดเผย
-- **URL ที่แนะนำ**: /guides/vehicle-export-sales-contract-clauses/
-- **เจตนาการค้นหา**: เข้าใจ Key Coliss ในสัญญาขายส่งออกรถส่งออก: ค่าใช้จ่าย, ชื่อเรื่อง, ความเสี่ยงและข้อเสีย: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
-- **คำแนะนำลิงก์ภายใน**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **คำแนะนำรูปภาพ**: แผนที่เงื่อนไขการเสี่ยง
-- **ข้อความ ALT**: ความเสี่ยงในสัญญาส่งออก และเวลาส่งหัวเรื่อง
-- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
-
+- ชื่อ SEO: ไดรเวอร์ส่งออกเป็น Laguages clas & guage
+- คำอธิบาย Meta: สัญญา ขาย รถยนต์ ต้อง มี — PRC ราย แก้ไขโครงการหลัก... Art 596 องค์ประกอบ, Inctotes transfers transfer, rested of title, cript/overd window, มติโต้แย้งและ Apossible, บวกการเปิดเผยการเปิดใช้งานรถ
+- H1: chiss ches in a moft prils prils prilments: prilment, title, ความเสี่ยงและ discults
+- คีย์เวิร์ดหลัก: สัญญาขายรถส่งออก ข้อกําหนดการกดปุ่มพิมพ์ ความเสี่ยง
+- คำค้นหารอง: คุ้มกันสัญญาส่งออกชื่อเรื่อง พาหนะที่มีความเสี่ยงในอินโคเตส ประหารชีวิตสัญญาการลักลอบส่งสินค้า ICC การค้ารถ การค้ารถ การค้าสินค้า, เอกสารการต่างประเทศ Apossition, สภาวะรถเปิดเผย
+- URL ที่แนะนำ: /guides/vehicle-export-sales-contract-clauses/
+- เจตนาการค้นหา: เข้าใจ Key Coliss ในสัญญาขายส่งออกรถส่งออก: ค่าใช้จ่าย, ชื่อเรื่อง, ความเสี่ยงและข้อเสีย: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- คำแนะนำลิงก์ภายใน: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
+- คำแนะนำรูปภาพ: แผนที่เงื่อนไขการเสี่ยง
+- ข้อความ ALT: ความเสี่ยงในสัญญาส่งออก และเวลาส่งหัวเรื่อง
+- ขอบเขต Schema: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 ## ใคร นี่ สําหรับ
 คนส่งออกรถครั้งแรกมักจะลงนามในข้อตกลงในราคาและปริมาณเพียงอย่างเดียว แล้วพบว่าสัญญาไม่เคยแก้ไขเมื่อ ความเสี่ยงที่ผ่าน ซึ่งถือชื่อก่อนจ่ายเต็ม หรือที่ซึ่งการโต้แย้งได้ยิน! มัคคุเทศก์คนนี้ได้กําหนดเงื่อนไข ที่ควบคุมผลลัพธ์เหล่านั้น รหัส อธิก ธรรม PAC Art 596 มีบรรยายที่นี่ผ่าน... ประตูกฎหมายที่สอง (ค้นหา Law etc.) ซึ่งฝาครอบที่ CROSS_. Certed/Single_sEEEEEEEEE (PDFIIIE) ต้องการข้อความรหัสประชาชนอย่างเป็นทางการจากแหล่งข่าว NPC/รัฐบาล ที่เหลือเป็นการสังเคราะห์แบบปฏิบัติตามกฎหมาย ต้นแบบไม่ใช่คําแนะนําทางกฎหมาย ให้ทนายความที่มีคุณสมบัติ ทบทวนสัญญาประหาร ภายใต้กฎหมายการปกครอง ~
-
 * โคลัส บล็อก 1 — เดอะ ไท มส์ ออร์ รี (รหัส ประมวล กฎหมาย 596).
 ใต้- - ศิลปากร 596 ของรหัสแพคซิตีชั่น - ~ สัญญาขายควรครอบคลุม: ~ ชื่อ, ปริมาณ, คุณภาพ, ราคา, เวลา/สถานที่/สถานที่, พัสดุ, การตรวจสอบมาตรฐาน และวิธีการจัดการ และการจัดวาง และการจัดจําหน่ายที่มีประสิทธิภาพ-ส่งและส่งเอกสารมา แปลสําหรับการซื้อขายรถ, น้อยที่สุดคือ:
 - exact=-Viohronic access" (VIN, ปีตัวอย่าง, รายการการปรับแต่ง) "(in)" และราคาหน่วย";
 - (ถือนี่เป็นรายงานของ PSI)
 - ~ สําหรับการขนส่งมหาสมุทร
 - ~และข้อความไหนเหนือกว่ากัน ถ้าสองภาษา
-
 ## คลอ ลส์ บล็อก 2 — การ ถ่าย เลือด: ให้ อิน โค เล ชัน ตัดสิน ใจ ใน เรื่อง นี้
 - ทรัพย์สินผ่านตามเงื่อนไขของสัญญา-สัญญาบัตร-สัญญาบัตร-สัญญาบัตร-สัญญาบัตร-สัญญาบัตร-สัญญาบัตร (รัฐ Incoternational versions, e.g, Incoteries 2020) - FOB, CIF/CP, DAP ฯลฯ แต่ละการตั้งค่าจุดโอนย้ายต่าง ๆ
 - ขาดคําตกลง ความเสี่ยงโดยทั่วไป ผ่านการส่งมอบให้กับผู้ซื้อ (หรือผู้ส่งของที่เสนอชื่อ)
 เขียนคําว่า, รุ่น และ... เป๊ะๆ: "CIF" ไม่มีชื่อพอร์ต หรือปีอินโคเลตที่ไม่ระบุชื่อ เชิญให้ต่อสู้
-
 ## คลาส บล็อก 3 — การ รักษา ชื่อ เสียง (ป้องกัน ผู้ ขาย ที่ ไม่ ได้ รับ การ ชําระ ค่า จ้าง)
 คนขายอาจได้ชื่อเรียกค่าบริการจนกระทั่งได้รับค่าจ้างเต็ม" (ไม่มีความเสี่ยง) ซึ่งอาจจะผ่านไปแล้ว: จนกว่าจ่ายเต็มราคา ผู้ซื้ออาจจะไม่จํานองหรือขายรถใหม่ ข้อบังคับนี้มีประโยชน์อย่างยิ่งกับค่าปริยายในการดําเนินการจัดส่งสินค้า แต่โปรดสังเกตว่ามันมีผลบังคับใช้ได้ ขึ้นอยู่กับกฎหมายการยกเลิกการส่ง-ลง-ชําระชื่อรายการหรือไม่ และสามารถตรวจสอบได้โดยสิทธิ์ของผู้ซื้อ" ซึ่งทนายความควรจะยืนยัน
-
 ## คลอ ลส์ บล็อก 4 — รอยแยก, การ สําเร็จ การ ศึกษา ล่า สุด และ การ อ้าง ว่า เป็น วิน ส เตอร์
-- ~ *** ชําระเงิน ล่าช้า: ~ อัตราชําระหนี้ที่ถูกชําระคืนต่อวัน (มักแสดงเป็นรายวัน ‰ ต่อวัน) ด้วยช่วงเวลา *maximum ที่ค้างชําระ หลังจากสัญญาจะถูกยกเลิก*
+- ~ * ชําระเงิน ล่าช้า: ~ อัตราชําระหนี้ที่ถูกชําระคืนต่อวัน (มักแสดงเป็นรายวัน ‰ ต่อวัน) ด้วยช่วงเวลา *maximum ที่ค้างชําระ หลังจากสัญญาจะถูกยกเลิก*
 - UNCE อ้างว่า: ~แก้ไขช่วงการรับเชื้อและหน้าต่างที่เรียกร้อง- ~ หลังจากมาถึงโดยไม่มีข้อพิพาทที่ปลายหนึ่ง เชื่อมโยงหน้าต่างไปที่ PSI และตรวจสอบความเป็นจริงของการการขนส่ง ความเสียหายก่อนการ exposition
-- กําหนด ~remedy searchments~ (แก้ไขให้ → ทดแทน  refund sches)
-
+- กําหนด ~remedy searchments~ (แก้ไขให้ → ทดแทน refund sches)
 ## คลอส บล็อก 5 — เครื่อง บิน ป้องกัน ภัย (ป้องกัน น้ํา แข็ง)
 ปิดบังความจริงเกี่ยวกับเนื้อหา ความเป็นจริง: ~ section/configuration, software รุ่น และประวัติการเกิดอุบัติเหตุใด การปรับอุณหภูมิ, หรือ encluplece/Mortgage ~. การไม่เปิดเผยเรื่องนี้ เป็นแหล่งของการอ้างเท็จบ่อย ๆ และมันมีปฏิสัมพันธ์กับ PSI ซึ่งควรเป็นหลักฐานของเงื่อนไขการเปิดเผย สําหรับ EVs เปิดเผยระดับแบตเตอรี่/SOH-Relevelant ข้อมูลที่รู้จักกันในผู้ขาย.
-
 ## คลาส โรว์ บล็อก 6 — กฎหมาย ของ รัฐบาล, ฟอร์ม และ เอกสาร การ รับรอง กฎหมาย
 - เลือก "กฎหมายและฟอรั่ม" โดยเจตนา สําหรับข้อตกลงข้ามชุดคําสั่ง, ~ การแบ่งเขตการปกครองระหว่างประเทศ (เช่น ICC) ~ มักจะเลือกใช้ความบังคับ ภายใต้ข้อตกลงนิวยอร์กมากกว่าการฟ้องร้องในศาลต่างประเทศ
 - เอกสารที่ต้องใช้ต่างประเทศ (อํานาจอัยการ, ใบสัญญา) อาจต้องการการรับรอง (หรือการรับรองตามพระราชบัญญัติ) — รัฐที่จัดการและจ่าย
 - ระบุที่อยู่, เงินตรา, บังคับการ mujur parts/ partsing), และภาษาที่อยู่เหนือคําว่า '!
-
 ## สิ่ง ที่ ชี้ แนะ นี้ แนะ คุณ อย่า ทิ้ง ความ ว่าง เปล่า
 1. สัดส่วนการซ้อนทับกัน~ ~แนบกับสัญญา (ไม่"เหมือนกับตัวอย่าง").
 2. ~เทอม incoters + version + ตั้งชื่อสถานที่ให้ --
 3. ~จนกว่าเงินจะเต็มเช็คสําหรับกําหนดปลายทาง
 4. ~-วัน-วัน-เอดส์, จุดชนวนปิด และหน้าต่างที่นิยามไว้คุณภาพ- * เชื่อมโยงกับ PSI.
 5. ~ กฏหมาย, ปราการ, ความรับผิดชอบของอคาสเซลลี่ ~ และภาษาที่แพร่หลาย ~
-
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 ~ สัญญาขายรถต้องบรรจุไว้ภายใต้กฎหมายจีน~ PRC แก้ไขโครงการหลัก... 596 รายการศิลปิน ชื่อ, ปริมาณ, คุณภาพ, ราคา, เวลา/สถานที่/สถานที่/ที่ติดตั้ง, การตั้งถิ่นฐานและคุณภาพภาษา — แผนที่แต่ละเพื่อการจัดการรถ.
 ~เมื่อใดความเสี่ยงจะผ่านไปยังผู้ซื้อ~ ต่อ คํา ศัพท์ อิน โค เลต ส์ ที่ เห็น พ้อง ด้วย (รัฐ ฉบับ แปล และ สถาน ที่); โดย ไม่ เห็น ด้วย โดย ทั่ว ไป แล้ว เกี่ยว กับ การ ส่ง ให้ ผู้ ซื้อ หรือ ผู้ ส่ง ของ ที่ มี การ ให้ การ รับรอง.
 ~ฉันจะสามารถเป็นเจ้าของได้จนกว่าฉันจะจ่ายเต็ม # ใช่ โดยผ่านคําสั่งในการปกครองเพิ่มเติม อยู่ภายใต้พระราชบัญญัติการปกครองและพระราชบัญญัติ
 แล้วเงินที่จ่ายช้า ควรถูกจัดการอย่างไร? ~ อัตราการชําระหนี้ต่อวัน บวกกับระยะเวลาที่เกินกําหนดสูงสุด ที่ช่วยให้การลดลงได้
 ~เอกสารต่างประเทศต้องการกฎหมายหรือเปล่า~ บ่อยครั้งที่ Apossill (Hague) หรือ contric excial exactionment, ความรับผิดชอบของรัฐในสัญญาและตรวจสอบสถานะปลายทาง
-
-## บันทึกรูปภาพ
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Vehicle export sales contract clauses, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Vehicle export sales contract clauses, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Vehicle export sales contract clauses, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Vehicle export sales contract clauses, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Vehicle export sales contract clauses, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Vehicle export sales contract clauses, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Vehicle export sales contract clauses, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
-| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
-| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
-| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | single source | Incoterms versioning, ICC arbitration, Apostille |
-*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
+| แหล่งที่มา | องค์กร | ตลาด | URL | วันที่ตรวจสอบ | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- | --- |
+| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | Essential contract contents |
+| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | Risk transfer; retention of title; condition disclosure |
+| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | LDs, claim window, configuration annex |
+| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | Incoterms versioning, ICC arbitration, Apostille |
+*หมายเหตุขอบเขต: Art 596 content is สอบทานแล้ว via a secondary legal portal only — requires the official PRC Civil Code (NPC/government) ข้อความซึ่งไม่ได้บันทึกไว้; do not label it . การบังคับใช้การสงวนกรรมสิทธิ์ อนุญาโตตุลาการและอาพอสติลขึ้นกับกฎหมายที่เลือกและจุดหมาย และต้องให้ที่ปรึกษาที่มีคุณวุฒิยืนยัน. Contract models are structural references only.*
+| Civil Code of the People's Republic of China, Book III Contracts (Articles 595/596/597, verbatim) | Supreme People's Procuratorate — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | แหล่งปฐมภูมิ | |
+| Civil Code full text (government-portal republication) | Yunnan Provincial Department of Justice (sft.yn.gov.cn) / Kaifeng Municipal People's Congress (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | แหล่งปฐมภูมิ | |
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
-
-## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ** โครงสร้างสัญญาทั่วไป (รหัสโพรเซส); การบังคับใช้อํานาจควบคุม (Scultive overtitle-toptitle) **
-- ** วิธีการแบ่งเขต *: statute + ประมวลผลตามกฎหมาย; ที่ปรึกษา-review language; ไม่มีข้อสรุปทางกฎหมายที่ระบุได้
-- **มาตรฐานด้านบรรณาธิการ**: ศึกษาและเขียนจากแหล่งที่มาที่ระบุข้างต้น (การวิจัยจากเอกสาร; ไม่มีการอ้างว่าได้ทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ระดับความเชื่อมั่นของแหล่งที่มาแสดงไว้เป็นรายข้อ; ประเด็นใดที่ไม่สามารถยืนยันได้อย่างอิสระจะนำเสนอเป็นรายการตรวจสอบ แทนที่จะระบุเป็นข้อเท็จจริง
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: ทั่วโลก
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

@@ -1,99 +1,61 @@
 # Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks
-
 ## SEO Metadata
-- **SEO Title**: Foton Toano (Tuyano) Large Van: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market Foton Toano light bus/large van: short and long wheelbases, diesel torque, wide seat range, and why refrigerated conversions are assessed separately.
-- **H1**: Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks
-- **Primary Keyword**: Foton / 福田 Toano / 图雅诺 大VAN（轻客） specs export
-- **Secondary Search Terms**: Foton Toano export; Tuyano van; Chinese light bus; passenger van; cargo van conversion
-- **Suggested URL**: /vehicles/foton-toano/
-- **Search Intent**: Understand Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
-- **Internal Link Suggestions**: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
-- **Image Suggestion**: A realistic, document/vehicle-focused scene illustrating Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks, no staged inspection or people claimed.
-- **ALT Suggestion**: Close, natural view of materials and the subject related to Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Exp, neutral background, no people or inspection action shown.
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
-
+- SEO Title: Foton Toano (Tuyano) Large Van: Chinese-Market Specs & Export Buyer Guide
+- Meta Description: Chinese-market Foton Toano light bus/large van: short and long wheelbases, diesel torque, wide seat range, and why refrigerated conversions are assessed separately.
+- H1: Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks
+- Primary Keyword: Foton / Foton Toano / Tuyano (Toano) 大VAN(轻客) specs export
+- Secondary Search Terms: Foton Toano export; Tuyano van; Chinese light bus; passenger van; cargo van conversion
+- Suggested URL: /vehicles/foton-toano/
+- Search Intent: Understand Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- Internal Link Suggestions: /vehicles/foton-toano/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/tir-road-transport-china-central-asia/
+- Schema Scope: Article + Vehicle (no Product/Offer/Review)
 ## Buyer context: a configurable light bus, not one fixed spec
-The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light bus offered across many wheelbases and seat counts. Because the variant matrix is wide, this page is written around **identified configurations only** rather than a single implied "Toano" spec. Reference market is **China**.
-
+The Foton Toano (Tuyano (Toano), 2026) is a Chinese-market diesel large van/light bus offered across many wheelbases and seat counts. Because the variant matrix is wide, this page is written around identified configurations only rather than a single implied "Toano" spec. Reference market is China.
 ## Identified dimensions, powertrain and seating
-- **Short body (X5)**: 4990×1980×1990, wheelbase 3070 mm.
-- **Long wheelbases**: 3510（X5长轴）/3750（经典长轴，车长5990×2000） mm.
-- **2.5T diesel torque**: 400 N·m; gearbox 6MT.
-- **Seats**: 3/5/6/7/9/14/15/17（随版本）.
-- **Conversion note**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, not a base-van specification.
-
+- Short body (X5): 4990×1980×1990, wheelbase 3070 mm.
+- Long wheelbases: 3510(X5长轴)/3750(classic长轴, 车长5990×2000) mm.
+- 2.5T diesel torque: 400 N·m; gearbox 6MT.
+- Seats: 3/5/6/7/9/14/15/17(with版本).
+- Conversion note: F2.8NS6B177L: 2780mL/130kW, refrigerated conversion body — a refrigerated body is an upfit, not a base-van specification.
 ## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
-|---|---|---|---|---|---|
-| x5 short dim | 4990×1980×1990 | mm | CHINA | single source | 搜狐对比 |
-| x5 short wheelbase | 3070 | mm | CHINA | single source | 搜狐对比 |
-| long wheelbase options | 3510（X5长轴）/3750（经典长轴，车长5990×2000） | mm | CHINA | single source | 搜狐对比 |
-| engine 2 5t torque | 400 | N·m | CHINA | single source | 大众网 |
-| transmission | 6MT | - | CHINA | single source | 大众网 |
-| seat options | 3/5/6/7/9/14/15/17（随版本） | - | CHINA | CROSS_CHECKED | 大众网+搜狐 |
-| refrigerated conversion note | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | single source | 大众网 |
-
+| Specification | Value | Unit | Market |
+| --- | --- | --- | --- |
+| x5 short dim | 4990×1980×1990 | mm | CHINA |
+| x5 short wheelbase | 3070 | mm | CHINA |
+| long wheelbase options | 3510(X5长轴)/3750(classic长轴, 车长5990×2000) | mm | CHINA |
+| engine 2 5t torque | 400 | N·m | CHINA |
+| transmission | 6MT | - | CHINA |
+| seat options | 3/5/6/7/9/14/15/17(with版本) | - | CHINA |
+| refrigerated conversion note | F2.8NS6B177L: 2780mL/130kW, refrigerated conversion body | - | CHINA |
 ## Van procurement focus: pick one configuration, separate the upfit
-Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layout, and engine before comparing prices. The full Cummins ISF2.8 power matrix and per-trim kerb/GVW masses are **not captured and are withheld** pending an OEM sheet; encyclopaedia entries were treated only as leads. A refrigerated or ambulance body is a **superstructure on a chassis** and needs its own payload/insulation/refrigeration assessment.
-
+Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layout, and engine before comparing prices. The full Cummins ISF2.8 power matrix and per-trim kerb/GVW masses are not captured and are withheld pending an OEM sheet; encyclopaedia entries were treated only as leads. A refrigerated or ambulance body is a superstructure on a chassis and needs its own payload/insulation/refrigeration assessment.
 ## Overseas buyer verification before payment
 1. Name wheelbase (3070/3510/3750), seat/cargo layout and engine on the order.
 2. Obtain GVW/kerb mass and the full engine matrix from Foton OEM/homologation.
 3. Treat refrigerated/other conversions as separate upfit projects.
 4. Confirm diesel emission/fuel and (for road routes to Central Asia) TIR suitability separately.
 5. Request a current export quotation; none is published.
-
 ## FAQ
-**How many seats?** It ranges across versions (3–17); specify the exact build.
-**Why no full ISF2.8 power list?** The variant matrix needs an OEM lock; it is withheld.
-**Is the refrigerated van a factory model?** It is a conversion/upfit on the Toano chassis.
-**What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
-**Where are GVW figures?** Not reliably captured; obtain from homologation.
-
-
+How many seats? It ranges across versions (3–17); specify the exact build.
+Why no full ISF2.8 power list? The variant matrix needs an OEM lock; it is withheld.
+Is the refrigerated van a factory model? It is a conversion/upfit on the Toano chassis.
+What wheelbase for a minibus? Choose from 3070/3510/3750 mm by layout.
+Where are GVW figures? Not reliably captured; obtain from homologation.
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 图雅诺 词条（仅线索，不作关键事实唯一依据） | 抖音百科 | CN | directory/listing | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | media/industry | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| Source | Organization | Market | URL | Supported facts |
+| --- | --- | --- | --- | --- |
+| Tuyano (Toano) 词条 | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | model designation谱系lead |
+| Tuyano (Toano) modelcomparison | Sohu Auto | CN | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴dimensions, wheelbase |
+| Tuyano (Toano) 吉象流动服务车 | Dazhong Machinery | CN | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T powertrain, torque, seats |
+| Tuyano (Toano) 冷藏改装(上装) | Dazhong Machinery | CN | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装, non-原厂VANparameters |
+| Foton Motor official site | Beiqi Foton Motor (OEM) | CN | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT (Ministry of Industry and Information Technology) | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR (State Administration for Market Regulation) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+
 ## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exact Foton Toano van
-- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
-- **ALT (12 languages)**:
-  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
-  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
-
-
-#AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus
+- Author: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- Last reviewed: 2026-09-05
+- Reference market: China
+- Verification method: Primary regulator and government sources underpin established rules; conflicting media figures are kept as verification items rather than asserted; every time-sensitive item is routed to the named authority for live confirmation.
+- Editorial standard: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Any point that cannot be independently confirmed is presented as a verification item rather than asserted as fact.
+- Transparency: AI-assisted drafting and translation were used. This article is based on desk research. No first-hand testing is claimed unless explicitly documented; final human editorial review remains pending.

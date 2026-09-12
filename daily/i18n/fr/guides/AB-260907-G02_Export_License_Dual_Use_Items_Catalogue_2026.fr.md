@@ -1,97 +1,70 @@
 # La Chine est 2026 Catalogue des articles à double usage: Lorsqu'un véhicule doit être exporté avant la déclaration
 ## Métadonnées SEO
-- **Titre SEO**: Chine Licence d'exportation à double usage & 2026 Catalogue pour les exportateurs de véhicules
-- **Description meta**: Comment fonctionne le catalogue de licences d'importation/d'exportation 2026 à double usage de la Chine, lorsque l'annonce 2025 no 91 est entrée en vigueur, et comment un exportateur confirme si une partie ou une technologie est inscrite sur la liste.
-- **H1**: La Chine est 2026 Catalogue des articles à double usage: Lorsqu'un véhicule doit être exporté avant la déclaration
-- **Mot-clé principal**: Chine à double usage export license catalogue 2026
-- **Termes de recherche secondaires**: Licence d'exportation de biens à double usage Chine; MOFCOM GACC annonce 2025 no 91; droit du contrôle des exportations Chine; déclaration de destination de l'utilisateur final; déclaration en douane des articles contrôlés
-- **URL suggérée**: /guides/export-license-dual-use-items-catalogue-2026/
-- **Intention de recherche**: Comprendre la 2026 de la Chine Catalogue des articles à double usage: Lorsqu'un véhicule doit être exporté avant la déclaration: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
-- **Suggestions de liens internes**: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
-- **Suggestion d'image**: Un agent d'observation des exportations comparant une liste de pièces à un catalogue officiel de licences sur un écran
-- **Texte ALT**: Personne comparant une liste de pièces imprimées avec un catalogue de licences affiché sur un moniteur
-- **Portée du schéma**: Article (aucun produit/offre/prix/réexamen/ratification)
-
+- Titre SEO: Chine Licence d'exportation à double usage & 2026 Catalogue pour les exportateurs de véhicules
+- Description meta: Comment fonctionne le catalogue de licences d'importation/d'exportation 2026 à double usage de la Chine, lorsque l'annonce 2025 no 91 est entrée en vigueur, et comment un exportateur confirme si une partie ou une technologie est inscrite sur la liste.
+- H1: La Chine est 2026 Catalogue des articles à double usage: Lorsqu'un véhicule doit être exporté avant la déclaration
+- Mot-clé principal: Chine à double usage export license catalogue 2026
+- Termes de recherche secondaires: Licence d'exportation de biens à double usage Chine; MOFCOM GACC annonce 2025 no 91; droit du contrôle des exportations Chine; déclaration de destination de l'utilisateur final; déclaration en douane des articles contrôlés
+- URL suggérée: /guides/export-license-dual-use-items-catalogue-2026/
+- Intention de recherche: Comprendre la 2026 de la Chine Catalogue des articles à double usage: Lorsqu'un véhicule doit être exporté avant la déclaration: ce qu'un exportateur de véhicules/de pièces doit vérifier, documenter et décider avant de s'engager à une commande.
+- Suggestions de liens internes: /guides/ipr-customs-recordation-export-protection/, /guides/cross-border-ecommerce-b2b-export-9710-9810/, /guides/china-vehicle-export-licence/
+- Suggestion d'image: Un agent d'observation des exportations comparant une liste de pièces à un catalogue officiel de licences sur un écran
+- Texte ALT: Personne comparant une liste de pièces imprimées avec un catalogue de licences affiché sur un moniteur
+- Portée du schéma: Article (aucun produit/offre/prix/réexamen/ratification)
 La plupart des véhicules de tourisme finis sont des biens commerciaux ordinaires, mais le secteur des véhicules déplace également des articles qui sont sur une voie juridique différente: des articles à double usage et des technologies pouvant servir à des fins civiles et militaires ou sensibles à la prolifération. Certains composants électroniques embarqués, composants de navigation ou de détection, matériaux spécialisés, technologies de production et certains équipements adjacents aux véhicules peuvent être intégrés dans un catalogue contrôlé. Pour ces marchandises La Chine n'autorise pas la déclaration en premier et la clarification ultérieure: l'exploitant doit détenir la licence correcte avant la déclaration en douane. Ce guide explique la hiérarchie juridique, la manière dont le catalogue actuel est publié et mis en vigueur, et la responsabilité continue de l'exportateur pour l'utilisateur final et l'utilisation finale, tout en laissant la classification article par article au catalogue officiel et aux autorités compétentes.
-
 ## La hiérarchie juridique: Contrôle des exportations Loi au-dessus du catalogue annuel
-
 La loi suprême est la loi sur le contrôle des exportations de la République populaire de Chine, adoptée par le Comité permanent du Congrès populaire national, qui établit les obligations relatives aux articles contrôlés, aux licences et aux utilisations finales. Siéger en vertu de cette loi sont les règles administratives et, sur le plan opérationnel, le catalogue des articles et technologies à double usage soumis à l'octroi de licences d'importation et d'exportation. Le catalogue n'est pas une doctrine statique; c'est une liste vivante que les services compétents révisent et rééditent.
-
-Pour 2026, les articles à double usage  and  Le catalogue des technologies a été publié par le Ministère du commerce en collaboration avec l ' Administration générale des douanes dans l ' annonce ** 2025 n° 91**, avec effet au ** 1 janvier 2026 **. Un exportateur qui planifie 2026 expéditions doit travailler à partir de ce catalogue actuel plutôt qu'à partir d'une version annuelle plus ancienne, car les descriptions et les codes contrôlés se déplacent entre les éditions.
-
+Pour 2026, les articles à double usage and Le catalogue des technologies a été publié par le Ministère du commerce en collaboration avec l ' Administration générale des douanes dans l ' annonce 2025 n° 91, avec effet au 1 janvier 2026 . Un exportateur qui planifie 2026 expéditions doit travailler à partir de ce catalogue actuel plutôt qu'à partir d'une version annuelle plus ancienne, car les descriptions et les codes contrôlés se déplacent entre les éditions.
 ## Principe d'exploitation de base: les moyens énumérés sont autorisés avant la déclaration
-
 La règle qui anime l'ensemble du processus est simple dans la structure et impitoyable dans la pratique:
-
-- Si un article ou une technologie est **inscrit** dans le catalogue actuel, l'exportateur doit obtenir l'exportation à double usage correspondante **licence d'abord**, puis déclarer à la douane **contre cette licence**. La déclaration des marchandises énumérées sans le permis requis n'est pas un vide de paperasserie qui peut être comblé après l'arrivée.
+- Si un article ou une technologie est inscrit dans le catalogue actuel, l'exportateur doit obtenir l'exportation à double usage correspondante licence d'abord, puis déclarer à la douane contre cette licence. La déclaration des marchandises énumérées sans le permis requis n'est pas un vide de paperasserie qui peut être comblé après l'arrivée.
 - Si un article est véritablement en dehors du catalogue et d'autres instruments de contrôle, les procédures ordinaires d'exportation s'appliquent.
-
 La situation intermédiaire difficile est la classification. La question de savoir si une partie, un logiciel ou un document technique spécifique est « à double usage » n'est pas déterminée par son étiquette civile, par un transitaire ou par le fait que la même partie apparaît dans un véhicule de consommation. Elle est déterminée par rapport à la description technique exacte du catalogue actuel et, dans les cas où elle n'est pas claire, par l'autorité compétente du commerce. Une copie miroir du catalogue sur un site commercial est une aide à la lecture, jamais le texte de contrôle — l'annonce officielle et son catalogue ci-joint régissent.
-
 ## La responsabilité de l'utilisateur final et de l'utilisation finale incombe à l'exportateur
-
-La détention d'une licence pour un article inscrit ne transfère pas la responsabilité de conformité à l'acheteur. L'exportateur demeure responsable de l'utilisateur final et de l'utilisation finale** des marchandises contrôlées: qui utilisera l'article en fin de compte, à quelle fin et si un transfert est envisagé. Les exportateurs devraient donc recueillir une déclaration crédible de l'utilisateur final/utilisation finale, vérifier la contrepartie par rapport aux listes de contrôle actuelles et conserver les documents qui relient l'article autorisé à l'utilisation indiquée. Une licence obtenue pour une destination, un utilisateur ou une fin ne peut être supposée couvrir une autre.
-
+La détention d'une licence pour un article inscrit ne transfère pas la responsabilité de conformité à l'acheteur. L'exportateur demeure responsable de l'utilisateur final et de l'utilisation finale des marchandises contrôlées: qui utilisera l'article en fin de compte, à quelle fin et si un transfert est envisagé. Les exportateurs devraient donc recueillir une déclaration crédible de l'utilisateur final/utilisation finale, vérifier la contrepartie par rapport aux listes de contrôle actuelles et conserver les documents qui relient l'article autorisé à l'utilisation indiquée. Une licence obtenue pour une destination, un utilisateur ou une fin ne peut être supposée couvrir une autre.
 Cette responsabilité atteint également les exportations intangibles. Les dessins techniques, le savoir-faire de production et les logiciels qui correspondent à une technologie contrôlée peuvent être contrôlés même si aucune boîte physique ne franchit la frontière — un point important pour les équipes d'ingénierie qui conçoit des fichiers de conception par courriel ou fournissent un support de commande à distance.
-
 ## Comment un exportateur de véhicules devrait travailler le catalogue
-
-1. **Identifiez précisément l'élément candidat** — numéro de pièce, spécification technique et la technologie qui l'accompagne, et non seulement un nom commercial de produit.
-2. **Classez-vous au catalogue 2026** actuel, publié sous l'annonce 2025 no 91, en lisant la description technique plutôt que de deviner à partir d'un code SH.
-3. **Si la liste est établie, demander la licence à double usage avant les navires de production**, en tenant compte des délais; déclarer contre la licence l'article, la quantité, le destinataire et la destination correspondants.
-4. **Si la classification est réellement imprécise**, soumettre la question à l'autorité compétente du commerce plutôt qu'à l'autocontrôle; conserver la position écrite dans le dossier de transaction.
-5. **Construisez le fichier utilisateur/utilisation finale** et re-écranz si l'acheteur, la destination ou l'utilisation indiquée change.
-
+1. Identifiez précisément l'élément candidat — numéro de pièce, spécification technique et la technologie qui l'accompagne, et non seulement un nom commercial de produit.
+2. Classez-vous au catalogue 2026 actuel, publié sous l'annonce 2025 no 91, en lisant la description technique plutôt que de deviner à partir d'un code SH.
+3. Si la liste est établie, demander la licence à double usage avant les navires de production, en tenant compte des délais; déclarer contre la licence l'article, la quantité, le destinataire et la destination correspondants.
+4. Si la classification est réellement imprécise, soumettre la question à l'autorité compétente du commerce plutôt qu'à l'autocontrôle; conserver la position écrite dans le dossier de transaction.
+5. Construisez le fichier utilisateur/utilisation finale et re-écranz si l'acheteur, la destination ou l'utilisation indiquée change.
 ## Ce que ce guide ne conclut pas délibérément
-
 Les descriptions et codes contrôlés article par article ne sont pas reproduits ici: une liste copiée devient inexistante et un code erroné est pire qu'une question signalée. Cet article ne détermine pas non plus si un élément particulier est à double usage, c'est-à-dire qu'il s'agit d'une décision spécifique à l'égard du texte officiel. Les changements en temps réel à la liste contrôlée et tout seuil de licence pour une transaction donnée doivent être confirmés par rapport au catalogue officiel actuel et à l'autorité de délivrance avant l'expédition.
-
 ## Avant de vous engager à une date de livraison
-
 | Vérifier | Pourquoi ça compte |
-|---|---|
+| --- | --- |
 | Édition actuelle du catalogue | Utilisez le catalogue 2026 à compter du 1 janvier 2026 sous le numéro 2025 91 Annonce, et non une liste annuelle plus ancienne. |
 | Classification technique | Correspond à la spécification réelle de l'article à la description contrôlée; un code SH ne règle pas à lui seul le statut de double usage. |
 | Licence obtenue en premier | Les marchandises inscrites doivent être titulaires d'une licence avant la déclaration en douane; elles doivent être inscrites à l'annexe en temps utile. |
 | Fichier utilisateur final / utilisation finale | Tenir une déclaration crédible et un dossier de présélection; la responsabilité incombe à l'exportateur. |
 | Technologie et logiciels | Traiter les données techniques contrôlées et le transfert de savoir-faire à distance comme potentiellement contrôlés même sans cargaison. |
 | Position écrite sur l'ambiguïté | Lorsque le statut n'est pas clair, obtenir la vue de l'autorité compétente plutôt que de se fier à un site de miroir commercial. |
-
 ## FAQ
-**Quand le catalogue à double usage actuel a-t-il pris effet? **
-
-Le catalogue 2026 a été publié par le MOFCOM  and  GACC dans le 2025 no 91 Avis  and  est entré en vigueur le 1 janvier 2026; toujours confirmer contre le texte officiel actuel.
-
-**Une voiture de tourisme ordinaire a-t-elle besoin d'une licence à double usage? **
-
+Quand le catalogue à double usage actuel a-t-il pris effet?
+Le catalogue 2026 a été publié par le MOFCOM and GACC dans le 2025 no 91 Avis and est entré en vigueur le 1 janvier 2026; toujours confirmer contre le texte officiel actuel.
+Une voiture de tourisme ordinaire a-t-elle besoin d'une licence à double usage?
 Un véhicule de tourisme civil fini est généralement une cargaison ordinaire, mais des composants, technologies ou logiciels spécifiques peuvent être énumérés — classifier chaque article candidat par rapport au catalogue actuel plutôt que de supposer du nom du produit.
-
-** Puis-je déclarer la licence en premier et la trier plus tard? **
-
+ Puis-je déclarer la licence en premier et la trier plus tard?
 Non. Pour les articles énumérés, la licence doit être obtenue avant la déclaration en douane; les marchandises sont déclarées contre la licence.
-
-**Qui est responsable de l'utilisateur final et de l'utilisation finale? **
-
+Qui est responsable de l'utilisateur final et de l'utilisation finale?
 L'exploitant d'exportation demeure responsable, même après la délivrance d'une licence; les changements d'utilisateur, de destination ou de destination peuvent nécessiter une nouvelle évaluation.
-
-**Une copie du catalogue sur le site Web commercial fait-elle autorité? **
-
+Une copie du catalogue sur le site Web commercial fait-elle autorité?
 - Non, c'est pas vrai. Seul l'annonce officielle et le contrôle du catalogue qui y est joint; les miroirs tiers sont des outils de lecture et peuvent être périmés.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 国务院公报(29号令) | 中国政府网/国务院 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/content/2006/content_453196.htm | 《两用物项和技术进出口许可证管理办法》(商务部等29号令)确立两用物... |
-| 全国人大 | 全国人大 | CN | primary | VERIFIED | http://www.npc.gov.cn/npc/c2/c30834/202010/t20201017_308195.html | 出口经营者准入与管制原则的上位法为《出口管制法》 |
-| 商务部+海关总署91号公告 | 商务部 | CN | primary | VERIFIED+TIME_SENSITIVE | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_c03d1e511b2b486e829d68e8f1422aff.html | 两用物项和技术进出口实行许可证管理；列入目录的两用物项/技术进出口前须取得相应许可证 |
-| 商务部 | 商务部 | CN | primary | VERIFIED+TIME_SENSITIVE | http://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/blgg/art/2025/art_29946575f1414f13b93016c3084ae3c9.html | 商务部按年度公布两用物项和技术进出口许可证管理目录（官方公布页） |
-| 商务部 | 商务部 | CN | primary | VERIFIED | https://www.mofcom.gov.cn/zwdt/lywxhjsjcksp/index.html | 商务部两用物项和技术进出口审批政务平台（含《两用物项出口管制条例》国... |
-| 镜像(待补官方) | 今日头条平台(第三方镜像,全部归一为1母机构) | CN | media/industry | UNVERIFIED | http://m.toutiao.com/group/7590308770606875155/ | 一般《出口许可证管理货物目录》按年度发布 |
+| Source | Organisation | Marché | URL | Faits étayés |
+| --- | --- | --- | --- | --- |
+| State Council Gazette(29号令) | www.gov.cn/State Council | CN | https://www.gov.cn/gongbao/content/2006/content_453196.htm | 《两用物项和technology进exportlicence证管理办法》(Ministry of Commerce (MOFCOM)等29号令)确立两用物... |
+| National People's Congress | National People's Congress | CN | http://www.npc.gov.cn/npc/c2/c30834/202010/t20201017_308195.html | export经营者准入and管制原则的上位法为《export管制法》 |
+| MOFCOM+GACC (China Customs)91Announcement | MOFCOM | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_c03d1e511b2b486e829d68e8f1422aff.html | 两用物项和technology进export实行licence证管理; 列入目录的两用物项/technology进export前须取得相应licence证 |
+| MOFCOM | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/blgg/art/2025/art_29946575f1414f13b93016c3084ae3c9.html | Ministry of Commerce (MOFCOM)按年度公布两用物项和technology进exportlicence证管理目录(official公布页) |
+| MOFCOM | MOFCOM | CN | https://www.mofcom.gov.cn/zwdt/lywxhjsjcksp/index.html | Ministry of Commerce (MOFCOM)两用物项和technology进export审批政务平台(含《两用物项export管制条例》China... |
+| | | CN | http://m.toutiao.com/group/7590308770606875155/ | 一般《exportlicence证管理货物目录》按年度发布 |
 
 ## Révision de la rédaction
-- **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
-- **Dernière révision**: 2026-09-08
-- **Marché de référence**: CN(中国出口侧两用物项管制; 目录为年度更新, 时间敏感, 须以当期官方目录为准)
-- **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; cadre de référence du marché chinois seulement. La classification des articles, la portée de la licence et les changements de liste en temps réel doivent être confirmés par rapport au catalogue officiel actuel et à l'autorité de délivrance des licences avant d'agir.
-- **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.
+- Auteur: AutoBridge Export Editorial Team · [authors](/authors/) · [Politique éditoriale](/editorial-policy/)
+- Dernière révision: 2026-09-08
+- Marché de référence: Chine
+- Méthode de vérification: Les règles établies s'appuient sur des sources primaires des autorités et des gouvernements ; les chiffres contradictoires des médias sont conservés comme points à vérifier plutôt qu'affirmés ; chaque élément sensible au temps est renvoyé à l'autorité désignée pour une confirmation en direct.
+- Norme de rédaction: Recherché et rédigé à partir des sources citées ci-dessus (recherche documentaire ; aucune conduite, démontage ou importation de première main n'est revendiqué). Tout point ne pouvant être confirmé indépendamment est présenté comme un élément à vérifier plutôt que comme un fait établi.
+- Transparence: La rédaction et la traduction ont bénéficié d'une assistance par IA. Cet article repose sur une recherche documentaire. Aucun essai de première main n'est revendiqué sauf mention explicite ; la révision éditoriale humaine finale reste en attente.

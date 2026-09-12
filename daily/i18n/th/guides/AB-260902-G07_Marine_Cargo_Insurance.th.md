@@ -1,34 +1,33 @@
 # ประกันภัยรถโดยสารของ การขนส่งรถโดยสารของจีน: IC (A)/B/(C)), ค่าประกัน และเส้นทางอ้างอิง
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: ประกันภัยทางทะเลสําหรับนําเข้ารถจีน: ICC กก. และอ้างอิง
-- **คำอธิบาย Meta**: ยืนยันรถจีนในการขนส่งทะเลอย่างถูกต้อง อย่างเป็นทางการของสถาบันคาร์โกคลอส (A)/(B)/(C) ทําไมรถต้องใช้รถออล-ริสก์, CIF/CIP Incoters หนี้สิน 2020, การประชุมรับรองค่าและหลักฐานอ้างอิง
-- **H1**: ค้ําจุนการขนส่งจีนในสมุทร: คลอสเทียร์, ซัมอินซิวัล และวิธีการที่การเรียกร้องได้จ่ายจริง
-- **คีย์เวิร์ดหลัก**: การ ประกัน สินค้า ทาง ทะเล รถจีน ICC เอ บี ซี
-- **คำค้นหารอง**: คอลลิสของสถาบันคาร์โก ความเสี่ยงทั้งหมด LMA CL382 (พ.ศ. CIP อินโคเลเตอร์ 2020 ICC เอ CIF ICC น้อยที่สุด C Hague-Visby SDR แคปพาหะ, ประกันรถโรโรว EV แบตเตอรี่ครอบคลุมนาวิกโยธินดับเพลิง
-- **URL ที่แนะนำ**: /guides/marine-cargo-insurance-car-import/
-- **เจตนาการค้นหา**: เข้าใจการกระตุ้นให้รถจีนในระบบขนส่งมหาสมุทร: คลอส เทียร์, ซัม อินซิซิวัล และวิธีการเรียกร้องเงินที่จ่ายจริง: สิ่งที่นักส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
-- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
-- **คำแนะนำรูปภาพ**: ICC ปิรามิด A/B/ C
-- **ข้อความ ALT**: เกา ล์ เกา ล์ พื้นผิว
-- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
-
+- ชื่อ SEO: ประกันภัยทางทะเลสําหรับนําเข้ารถจีน: ICC กก. และอ้างอิง
+- คำอธิบาย Meta: ยืนยันรถจีนในการขนส่งทะเลอย่างถูกต้อง อย่างเป็นทางการของสถาบันคาร์โกคลอส (A)/(B)/(C) ทําไมรถต้องใช้รถออล-ริสก์, CIF/CIP Incoters หนี้สิน 2020, การประชุมรับรองค่าและหลักฐานอ้างอิง
+- H1: ค้ําจุนการขนส่งจีนในสมุทร: คลอสเทียร์, ซัมอินซิวัล และวิธีการที่การเรียกร้องได้จ่ายจริง
+- คีย์เวิร์ดหลัก: การ ประกัน สินค้า ทาง ทะเล รถจีน ICC เอ บี ซี
+- คำค้นหารอง: คอลลิสของสถาบันคาร์โก ความเสี่ยงทั้งหมด LMA CL382 (พ.ศ. CIP อินโคเลเตอร์ 2020 ICC เอ CIF ICC น้อยที่สุด C Hague-Visby SDR แคปพาหะ, ประกันรถโรโรว EV แบตเตอรี่ครอบคลุมนาวิกโยธินดับเพลิง
+- URL ที่แนะนำ: /guides/marine-cargo-insurance-car-import/
+- เจตนาการค้นหา: เข้าใจการกระตุ้นให้รถจีนในระบบขนส่งมหาสมุทร: คลอส เทียร์, ซัม อินซิซิวัล และวิธีการเรียกร้องเงินที่จ่ายจริง: สิ่งที่นักส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- คำแนะนำลิงก์ภายใน: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- คำแนะนำรูปภาพ: ICC ปิรามิด A/B/ C
+- ข้อความ ALT: เกา ล์ เกา ล์ พื้นผิว
+- ขอบเขต Schema: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 ## การ หลอก ลวง ที่ ทํา ให้ เงิน เสีย ไป
 คนซื้อสันนิษฐานว่า ภายใต้เอฟโอบี หรือ CIF เครือข่ายการให้บริการ ชดเชยทั้งหมด มันไม่ได้ใช้: หนี้สินของการขนส่งนั้นครอบคลุมโดย การชุมนุมระหว่างประเทศ ที่อยู่ต่ํากว่ามูลค่ารถ และสัญญาสินค้าที่คุณเลือก หน้านี้ครอบคลุมการประกันสินค้าสําหรับการขนส่งจากประเทศจีน (เส้นทางมหาสมุทรโลก) — มาตราและคํากล่าวอ้าง แตกต่างจากราคาอินโคเลต และจากตัวเลือกโรโร-vs-v.
 ## ต้น สน สาม ต้น กก สาม ต้น ซึ่ง เป็น ที่ รู้ จัก กัน ดี ใน เรื่อง คํา ศัพท์ ทาง การ
 สถาบันคาร์โก ครอสส์ตีพิมพ์โดยสมาคมการตลาดของลอเรนซ์ (LMA) และสมาคมผู้เขียนนานาชาติแห่งลอนดอน (IUA) ปัจจุบัน (A)/(B)/(C) คําที่อ้างอิงถึง) — มาตรา CL382 (A), CL383 (B), CL384 (C) — มีผลถึง 1 มกราคม 2009) (พ.ศ. ISIIIIIIE).
 | กระบอกสูบ | หน้าปก (ข้อความภายนอก) | ความ เหมาะ สม สําหรับ รถ |
-|---|---|---|
-| **ICC (A) — "All Risks" (CL382)** | Broad damated ** อยู่ภายใต้เงื่อนไขการปิดตาย attachments, attachment of overs และนโยบายจริง ๆ ที่คําว่า ~; * การจัดการอย่างไม่ได้ตั้งใจ เช่น การขโมยหรือการจัดการความเสียหายที่ครอบคลุม และไม่มีการถอดเสียบ | พื้นฐานรถทั่วไป |
-| **ICC (B) — named perils (CL383)** | สายหรือคลื่น, ชนกัน, น้ําไม่แข็ง, แผ่นดินไหว ฯลฯ. — รายการเหตุการณ์ที่เกิดขึ้นใน ค.ศ. | ทิ้งร่องรอยรถหาย |
-| **ICC (C) — major casualties (CL384)** | บาดเจ็บล้มตายหมู่ | ไม่แข็งแรงพอสําหรับรถ |
+| --- | --- | --- |
+| ICC (A) — "All Risks" (CL382) | Broad damated อยู่ภายใต้เงื่อนไขการปิดตาย attachments, attachment of overs และนโยบายจริง ๆ ที่คําว่า ~; * การจัดการอย่างไม่ได้ตั้งใจ เช่น การขโมยหรือการจัดการความเสียหายที่ครอบคลุม และไม่มีการถอดเสียบ | พื้นฐานรถทั่วไป |
+| ICC (B) — named perils (CL383) | สายหรือคลื่น, ชนกัน, น้ําไม่แข็ง, แผ่นดินไหว ฯลฯ. — รายการเหตุการณ์ที่เกิดขึ้นใน ค.ศ. | ทิ้งร่องรอยรถหาย |
+| ICC (C) — major casualties (CL384) | บาดเจ็บล้มตายหมู่ | ไม่แข็งแรงพอสําหรับรถ |
 พาหนะทั่วไป ICC (A) ICC (A) เพราะการสูญเสียส่วนใหญ่ที่พบเห็นใน RoRo และในการจัดการพอร์ตที่ผิดปกติ การจัดการความเสียหาย การโจรกรรม รอยถลอก และรอยบุบ รอยขีดข่วน หล่นนอกขอบเขตที่มีชื่อว่า B)/C; ~สงครามและการโจมตีครอบคลุมเป็นประโยคแยก ~ซื้อสําหรับเส้นทางที่อ่อนไหว
 ## Incoternies 2020: CIP-vs-CIFII นางสาวผู้ซื้อการซื้อการซื้อการซื้อการชําระหนี้
 ขณะนี้ถูกวางรากฐานไว้ในวัสดุอินโคเลตของ ICC (IFIED): ภายใต้ ~ Incoters 2020 กรมการประกันภัยของผู้ขาย * minum* ถูกยกให้องค์กร Cargo Colos (A) สําหรับ CIP*CIFIF คงไว้สําหรับ ICC ด้านล่าง (C) ต่ําสุด (ICC) (ICCCC Booklybook ICCC) Academy อธิบายว่า 2010 → 2020 เปลี่ยนแปลง และค่าชดเชยแลกเปลี่ยน ผล ที่ เกิด ขึ้น จริง:
-- On- CAF* ผู้ขายอาจติดเงินแค่น้อยที่สุด **. ครอบคลุมแม้ว่ารถต้องการ~ ~- A] — เขียนลงโดยตรงลงไปในสัญญา และจดหมายรับรองใด ๆ ของคุณ* หรือซื้อเสื้อของคุณ
+- On- CAF* ผู้ขายอาจติดเงินแค่น้อยที่สุด . ครอบคลุมแม้ว่ารถต้องการ~ ~- A] — เขียนลงโดยตรงลงไปในสัญญา และจดหมายรับรองใด ๆ ของคุณ* หรือซื้อเสื้อของคุณ
 - On ~CIP ~ ค่าปริยายคือ ~ ICC (A)- เพื่อประโยชน์ของผู้ซื้อ -- ยังคงยืนยันข้อตกลงจริงบนใบรับรอง แทนที่จะสมมุติ
 ## การกําหนดค่าประกัน — สองความแตกต่าง " 110%" กฎ (ไม่ประดิษฐ์ พรีเมียร์)
 110% การประชุมที่เกิดขึ้นใน ~สองบริบทที่แตกต่างกัน ที่จะต้องไม่รวมเป็นสูตรสากล ~:
-- ~อินโคเลสเตชัน  2020 (หน้าที่ประกันผู้ขาย: ** ที่อินโคมิเตอร์ต้องการประกัน (CIF/CIP) ผู้ขายจะต้องได้ครอบคลุมสําหรับ~ อย่างน้อย 110% จากราคาสัญญา ~เพื่อผลประโยชน์ของผู้ซื้อ
+- ~อินโคเลสเตชัน 2020 (หน้าที่ประกันผู้ขาย: ที่อินโคมิเตอร์ต้องการประกัน (CIF/CIP) ผู้ขายจะต้องได้ครอบคลุมสําหรับ~ อย่างน้อย 110% จากราคาสัญญา ~เพื่อผลประโยชน์ของผู้ซื้อ
 - ~ การใช้จ่ายเงิน (การใช้อักษร-อักษร) ~ ซึ่งเครดิตต้องการการประกัน แต่ไม่มีปริมาณ จํานวนเงินประกันเป็นมาตรฐาน~ อย่างน้อย 110% ของ CAIF หรือ CIP * ของสินค้าที่ไม่สามารถกําหนดได้
 ดังนั้นไม่มีประกันจํานวนใด = SIF × 110% ที่ครอบคลุมทุกข้อตกลง ระบุว่ากฏข้อไหนควบคุม (สัญญาสัญญาสัญญา หรือฐาน CIF/CIP ของ LC) ใช้ฐานนี้ และ (* Premumium= จํานวนเงินที่มีประกัน*. อัตราการลอยตัวของกระแส ฤดูกาล ลูกเรือเรือและเรือสินค้า มีความเสี่ยงจากสินค้าสินค้า และถูกอ้างถึงการจัดส่งสินค้า -- ไม่มีจํานวนที่คงที่ที่ตรงนี้ ตรวจดูที่อ้างถึงต่อเรือ และตรวจสอบตรงกับตัวผูกจํา และเพิ่มข้อมูลที่คุณต้องการ
 ## ทําไมความเรียบง่ายของแครี่มันไม่เพียงพอ
@@ -39,67 +38,41 @@ ICC (A) กว้าง ไม่สมบูรณ์: ปกติการส
 ประกันภัยตอบสนองต่อการสูญเสียที่บันทึกไว้:
 - ~ ก่อนการจัดส่ง~: ล้อ แก้ว, ภายใน, ใต้ และ (อีวี) SOC, เป็นพยานที่ alway.
 - ~Documents~: ในใบแจ้งหนี้, แพ็ครายการ B/L (RORO B/L antitution car carming carm), ประกันภัย, การจัดการใบเสร็จ.
-- ** ออกเดินทาง ** ตรวจสอบ ** ก่อนการเซ็นใบเสร็จที่สะอาด ความเสียหายบนกระดาษบนใบราคาที่ติดรูปทันที จัดทําการสํารวจที่จําเป้นต้องวางวาระกําหนดการ เสียหาย ครอบคลุมส่วนต่าง
+- ออกเดินทาง ตรวจสอบ ก่อนการเซ็นใบเสร็จที่สะอาด ความเสียหายบนกระดาษบนใบราคาที่ติดรูปทันที จัดทําการสํารวจที่จําเป้นต้องวางวาระกําหนดการ เสียหาย ครอบคลุมส่วนต่าง
 ## อัลกอริอะฮ์ เพิ่มอะไรเข้าไป นอกเครื่องบินของตัวทําลายประกัน
 พวก โจร ขาย ของ ที่ ผูก มัด; พวก เขา แทบ จะ ไม่ ผูก มัด ไว้ กับ สัญญา ซื้อ. วิธีที่แนะนําคือ.... ตั้งข้อความอ้างอิงที่ถูกต้อง (และรายการใด ๆ scrics Internations-on) ในรายการ PI/L-C ดังนั้นนักขายแบบ CIFF จะไม่สามารถกําหนดค่าเป็น ICC ได้เท่านั้น *, ตั้งฐานค่าลับที่มั่นไว้อย่างต่อเนื่องกับระบบพาณิชย์และมีผลบังคับใช้ในกฏระบบข้อมูล interceptection และเตรียมบันทึกการปล่อยข้อมูล ~. ดูตัวอย่างจริงก่อนตัดสินใจ ~ * — เอกสารที่มักจะระบุว่ามีการจ่ายเงินเรียกดูข้อมูลรถหรือไม่
 ##
-- ระบุ ** ICC (A) ~ (CL382) ในการเขียน; (PDF).
+- ระบุ ICC (A) ~ (CL382) ในการเขียน; (PDF).
 - ยืนยันค่าประกัน - ~ basis ที่ใช้ ~ (incoters = ≥ 110% ของราคาสัญญา; เงียบ LC = ≥ 110% ของ CIF/CIP ที่กําหนดไม่ได้) และได้รับอัตราต่อเครื่อง (ไม่สมมุติเลข).
 - บน CIF อย่าพึ่งค่าปริยายของ ICC (C) — ต้องการ (A) หรือทําความมั่นใจในช่องว่าง
 - สําหรับ EVs และคําแนะนําของ DG
 - ทําบันทึกสภาพก่อนการขึ้นยานให้เสร็จ และวางแผนการปลดประจําการ ก่อนที่จะลงนาม
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
-~ ICC (C) พอสําหรับรถที่ส่งมาหรือไม่ ~ โดย ทั่ว ไป ไม่ ใช่ เพราะ มี แต่ ราย ชื่อ ผู้ เสีย ชีวิต ราย ใหญ่ เท่า นั้น. เกิดอุบัติเหตุกับความเสียหาย  และการสูญเสียชนิดการโจรกรรม เป็นสาเหตุที่รถยนต์ทั่วไปใช้ ICC (A) (CL382), อยู่ใต้สิ่งกีดขวางเสมอ  and  พูดออกมา
+~ ICC (C) พอสําหรับรถที่ส่งมาหรือไม่ ~ โดย ทั่ว ไป ไม่ ใช่ เพราะ มี แต่ ราย ชื่อ ผู้ เสีย ชีวิต ราย ใหญ่ เท่า นั้น. เกิดอุบัติเหตุกับความเสียหาย และการสูญเสียชนิดการโจรกรรม เป็นสาเหตุที่รถยนต์ทั่วไปใช้ ICC (A) (CL382), อยู่ใต้สิ่งกีดขวางเสมอ and พูดออกมา
 ~ 110% มาจากไหน ~ สองกฏแยก: Incoternies 2020 วางปกของผู้ขายที่ ≥ 110% ของราคาสัญญา; สารคดีที่เงียบลงนี้ ต้องการ ≥ 110% ของมูลค่าที่จํากัด CIF/CIP มันไม่ใช่สูตร CIF× 110% ทั่วไป
-**สายเรือรับผิดชอบความเสียหายอยู่แล้วไม่ใช่หรือ?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, ใช้ ได้ มาก กว่า) — ต่ํา กว่า ราคา รถยนต์ มาก นัก.
+สายเรือรับผิดชอบความเสียหายอยู่แล้วไม่ใช่หรือ? Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, ใช้ ได้ มาก กว่า) — ต่ํา กว่า ราคา รถยนต์ มาก นัก.
 ~ CAIF หรือ CIP — การยกเลิกไหนจะแข็งแกร่งกว่ากัน? ~ ภายใต้ Inceptes 2020 CIP ต้องการอย่างน้อย ICC (A); ค่าปริยาย CIF ไปเป็น ICC (C) เป็นต้น (A) ในการเขียนเมื่อ CIF เรียกค่าที่ต้องการ (A).
 "มีแบตเตอร์รี่อีวีปกคลุมไปด้วยความเสี่ยงทั้งหมดหรือเปล่า" การ ทํา เช่น นี้ ขึ้น อยู่ กับ คํา ที่ ใช้ — จง ประกาศ เรื่อง อี วี และ ได้ รับ การ ยืน ยัน จาก หนังสือ.
-## บันทึกรูปภาพ
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Marine cargo insurance for shipped vehicles, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Marine cargo insurance for shipped vehicles, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Marine cargo insurance for shipped vehicles, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Marine cargo insurance for shipped vehicles, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Marine cargo insurance for shipped vehicles, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Marine cargo insurance for shipped vehicles, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Marine cargo insurance for shipped vehicles, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
-| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
-| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
-| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
-| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
-| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | single source | ICC(A/B/C) 覆盖范围 |
-| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | single source | 车辆推荐 ICC(A) |
-| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | single source | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
-| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | single source | Hague-Visby 承运人责任上限、固有缺陷除外 |
-| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | single source | 一切险、战争/罢工附加险 |
-| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | single source | 保险金额=CIF×110%、保费公式 |
+| แหล่งที่มา | องค์กร | ตลาด | URL | วันที่ตรวจสอบ | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- | --- |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | ICC (A) "all risks" scope and exclusions; official clause wording |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
+| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | CIP seller contracts/pays insurance to named place |
+| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
+| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim(ICC A/B/C comparison) | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | Laojin Chuhai laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | CIP 2020 升至 ICC(A), CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover(insurance broker/underwriting specialist site, citing IUA/LMA, Hague-Visby) | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | Hague-Visby 承运人责任上限, 固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | 一切险, 战争/罢工附加险 |
+| 中古車輸出の海上保険(保额公式) | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | sum insured = CIF × 110%; premium formula式 |
 
-*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
-## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ตลาดสินค้าข้ามมหาสมุทร: การขนส่งสินค้าข้ามมหาสมุทรจากประเทศจีน~
-- ~ วิธีการแบ่งเขต *: Standards/Markety-body language language for events and Incosy, แหล่งที่มาของอุตสาหกรรมเฉพาะสําหรับการดําเนินการเท่านั้น; อัตราที่เหลือที่จะอ้างอิงสด
-- **มาตรฐานด้านบรรณาธิการ**: ศึกษาและเขียนจากแหล่งที่มาที่ระบุข้างต้น (การวิจัยจากเอกสาร; ไม่มีการอ้างว่าได้ทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ระดับความเชื่อมั่นของแหล่งที่มาแสดงไว้เป็นรายข้อ; ประเด็นใดที่ไม่สามารถยืนยันได้อย่างอิสระจะนำเสนอเป็นรายการตรวจสอบ แทนที่จะระบุเป็นข้อเท็จจริง
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: ทั่วโลก
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ
 #AutoBridge #MarineInsurance #ICCCargoCover #VehicleShipping #ExportProcurement

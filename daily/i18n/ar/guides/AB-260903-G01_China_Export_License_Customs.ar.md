@@ -1,105 +1,70 @@
 # China-Side Vehicle Export Licence and Customs Documents: يجب على المصدر أن يتبع الأمر
 ## بيانات SEO الوصفية
-- **عنوان SEO**: دليل الوثائق الجمركية (2026)
-- **وصف Meta**: كيفية عمل مؤهلات تصدير المركبات من الجانب الصيني - تقديم التراخيص السنوية البالغ عددها MOFCOM، و BEV ترخيص لتصدير سيارات الركاب، وقاعدة الشحنة المستعملة 180-day، وسلسلة وثائق التصدير الكاملة قبل الإعلان الجمركي.
-- **H1**: الصين - سلسلة وثائق تصدير المركبات وتحديدها ووثيقة الجمارك
-- **الكلمة المفتاحية الرئيسية**: وثائق إعلانات الجمارك المتعلقة برخص تصدير المركبات
-- **مصطلحات بحث ثانوية**: استخدمت الصين رخصة تصدير السيارات، وBEV ترخيص تصدير، وMOFCOM من ملفات تصدير المركبات، وسلسلة وثائق تصدير المركبات، و180 يوماً من قواعد تصدير السيارات
-- **URL المقترح**: /guides/china-vehicle-export-license-customs-documents/
-- **نية البحث**: فهم الترخيص للصين - الجانب الصيني لتصدير المركبات، والتأهيل، ووثيقة الجمارك: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من ذلك ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
-- **اقتراح الصورة**: رخصـة اثبات الـتـرجـمـة
-- **نص ALT**: ترخيص تصدير المركبات الصينية إلى التدفق الجمركي
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: دليل الوثائق الجمركية (2026)
+- وصف Meta: كيفية عمل مؤهلات تصدير المركبات من الجانب الصيني - تقديم التراخيص السنوية البالغ عددها MOFCOM، و BEV ترخيص لتصدير سيارات الركاب، وقاعدة الشحنة المستعملة 180-day، وسلسلة وثائق التصدير الكاملة قبل الإعلان الجمركي.
+- H1: الصين - سلسلة وثائق تصدير المركبات وتحديدها ووثيقة الجمارك
+- الكلمة المفتاحية الرئيسية: وثائق إعلانات الجمارك المتعلقة برخص تصدير المركبات
+- مصطلحات بحث ثانوية: استخدمت الصين رخصة تصدير السيارات، وBEV ترخيص تصدير، وMOFCOM من ملفات تصدير المركبات، وسلسلة وثائق تصدير المركبات، و180 يوماً من قواعد تصدير السيارات
+- URL المقترح: /guides/china-vehicle-export-license-customs-documents/
+- نية البحث: فهم الترخيص للصين - الجانب الصيني لتصدير المركبات، والتأهيل، ووثيقة الجمارك: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق من ذلك ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/vehicle-coc-type-approval-dossier/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/vehicle-export-sales-contract-clauses/
+- اقتراح الصورة: رخصـة اثبات الـتـرجـمـة
+- نص ALT: ترخيص تصدير المركبات الصينية إلى التدفق الجمركي
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## لماذا هذه الصفحة
-وتفشل معظم الشحنات الأولى المفقودة في الجانب الصيني**، وليس في الوجهة: فالمصدر يفتقر إلى فئة المؤهلات الصحيحة، ولا يغطي الترخيص المنتج، أو أن سلسلة الوثائق لا تتمشى مع الإعلان. ويعرض هذا الدليل الأمر الذي ينبغي اتباعه. وهي قائمة على وثائق الحكومة الصينية (المنظمة البحرية الدولية، ومكتبة مجلس الدولة المعنية بالسياسات، وشركة MIIT)؛ وفي الحالات التي يجري فيها تنقيح قاعدة ما سنويا أو على نحو يراعي الوقت، تكون هذه القاعدة مثبتة بدلا من اعتبارها دائمة.
-
+وتفشل معظم الشحنات الأولى المفقودة في الجانب الصيني، وليس في الوجهة: فالمصدر يفتقر إلى فئة المؤهلات الصحيحة، ولا يغطي الترخيص المنتج، أو أن سلسلة الوثائق لا تتمشى مع الإعلان. ويعرض هذا الدليل الأمر الذي ينبغي اتباعه. وهي قائمة على وثائق الحكومة الصينية (المنظمة البحرية الدولية، ومكتبة مجلس الدولة المعنية بالسياسات، وشركة MIIT)؛ وفي الحالات التي يجري فيها تنقيح قاعدة ما سنويا أو على نحو يراعي الوقت، تكون هذه القاعدة مثبتة بدلا من اعتبارها دائمة.
 ## الخطوة 1 - تأكيد أيّ ترخيص يُنظّمُ مركباتك تحت
 الصين لا تستخدم بطانية واحدة "رخصة تصدير السيارات". تعطل المسارات:
-- ** السيارات الركاب الشاحنات التي تحملها فقط محرك قيادة وحملة شبكة معلومات شخصية (المرجع HS 8703801090) هي أقل من ** إدارة تصدير** تشرف عليها بصورة مشتركة اللجنة الخاصة المعنية بالإجراءات المالية المتعلقة بالألغام، وشركة MIIT، وGAC، وشركة SAMR (TIME_SENSITIVE - تؤكد الإشعار الحالي ورمز HS الدقيق ضد الجدول الزمني للتعريفات العامة للسنة.
-- ** تستخدم الدولة نظاماً للترخيص ** يشرف عليه فريق الرصد الدولي**، ويجب أن تتطابق تفاصيل الترخيص مع شهادة تسجيل المركبات (السجلات المرخصة، إشعار من أربع دوائر).
-- ** مركبات جديدة دراجة نارية جديدة تداولت عن طريق الملفات السنوية ** التي تقدم كل سنة عن التصدير**، والتي يرد وصفها في وقت لاحق.
+- السيارات الركاب الشاحنات التي تحملها فقط محرك قيادة وحملة شبكة معلومات شخصية (المرجع HS 8703801090) هي أقل من إدارة تصدير تشرف عليها بصورة مشتركة اللجنة الخاصة المعنية بالإجراءات المالية المتعلقة بالألغام، وشركة MIIT، وGAC، وشركة SAMR (TIME_SENSITIVE - تؤكد الإشعار الحالي ورمز HS الدقيق ضد الجدول الزمني للتعريفات العامة للسنة.
+- تستخدم الدولة نظاماً للترخيص يشرف عليه فريق الرصد الدولي، ويجب أن تتطابق تفاصيل الترخيص مع شهادة تسجيل المركبات (السجلات المرخصة، إشعار من أربع دوائر).
+- مركبات جديدة دراجة نارية جديدة تداولت عن طريق الملفات السنوية التي تقدم كل سنة عن التصدير، والتي يرد وصفها في وقت لاحق.
 يجب تأكيد رمز السلعة الدقيق وحالته التنظيمية ضد تعريف التصدير الحالي للواردات وآخر إعلان لـ (موفوك) لا يعيد استخدام افتراض العام الماضي
-
 ## الخطوة 2 — تقديم الترخيص السنوي (الأهلية قبل الحجم)
-وتصدر اللجنة مذكرة سنوية ** تُنظم تطبيقات تصدير السيارات والدراجات النارية**.: يجب على المركبات تحميل أدلة أداء مثل الإعلانات الجمركية التصديرية وفواتير الشراء التالفة**. الآثار العملية بالنسبة لتاجر: التأهل غير فوري - مواءمة نافذة الملفات السنوية مع خطتك للنقل البحري، والحفاظ على الأوراق لأنها دليل على الأداء الحقيقي للصادرات.
-
+وتصدر اللجنة مذكرة سنوية تُنظم تطبيقات تصدير السيارات والدراجات النارية.: يجب على المركبات تحميل أدلة أداء مثل الإعلانات الجمركية التصديرية وفواتير الشراء التالفة. الآثار العملية بالنسبة لتاجر: التأهل غير فوري - مواءمة نافذة الملفات السنوية مع خطتك للنقل البحري، والحفاظ على الأوراق لأنها دليل على الأداء الحقيقي للصادرات.
 ## الخطوة 3 - قاعدة استخدام القارب 180-Day (صعبة، مطلب مؤرخ)أ(
-بعد إشعار بأربعة أعلام عن تعزيز إدارة تصدير السيارات المستعملة ** من 1 يناير 2026، حيث تم تسجيل مركبة في التصدير قبل أكثر من 180 يوم، يجب على مقدم الطلب أن يكمل تأكيد دائرة الصيانة بعد انتهاء الخدمة التابعة لمنظمة أو إم. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
+بعد إشعار بأربعة أعلام عن تعزيز إدارة تصدير السيارات المستعملة من 1 يناير 2026، حيث تم تسجيل مركبة في التصدير قبل أكثر من 180 يوم، يجب على مقدم الطلب أن يكمل تأكيد دائرة الصيانة بعد انتهاء الخدمة التابعة لمنظمة أو إم. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 - وهذا هو جانب الصين، وهو شرط مؤرخ - اقتبس منه التاريخ، وأعاد التحقق من الإشعار قبل الاعتماد عليه.
 - يجب أن تكون معلومات الترخيص متسقة مع شهادة تسجيل السيارة؛ إصدارات غير دقيقة
-
 الخطوة 4 - بناء سلسلة وثائق التصدير في أمر متماسك
 ويرتكز الإعلان النظيف على وثائق متسقة فيما بينها:
-1. ** رخصة التصدير** التي تغطي الصحية على وجه الدقة؛
-2. ** استمارة إعلان التصدير الخاص بالذرات**؛
-3. ** فاتورة تجارية**؛
-4. ** قائمة التعبئة**؛
-5. ** شهادة المنشأ**؛
-6. ** تقرير تفتيش الأطراف الثالثة**، عند الاقتضاء؛
-7. ** بالنسبة تقرير اختبار للبطارية ** UN38.3، و MSDS**، بالإضافة إلى الأوراق المتعلقة بالمحيطات الخطرة. وبموجب تعديل IMDG 42-24 (الطلب من 2026-01-01) تصنف مركبة ذات طاقة الليثيوم من البطاريات UN3556 مركبة، وليس التركة العامة UN3171؛ وتطبق تفاصيل المركبات على كل صحيفة وقائع الشحن الإلكترونية الحالية والناقل (انظر دليل الامتثال للمحيطات).
+1. رخصة التصدير التي تغطي الصحية على وجه الدقة؛
+2. استمارة إعلان التصدير الخاص بالذرات؛
+3. فاتورة تجارية؛
+4. قائمة التعبئة؛
+5. شهادة المنشأ؛
+6. تقرير تفتيش الأطراف الثالثة، عند الاقتضاء؛
+7. بالنسبة تقرير اختبار للبطارية UN38.3، و MSDS، بالإضافة إلى الأوراق المتعلقة بالمحيطات الخطرة. وبموجب تعديل IMDG 42-24 (الطلب من 2026-01-01) تصنف مركبة ذات طاقة الليثيوم من البطاريات UN3556 مركبة، وليس التركة العامة UN3171؛ وتطبق تفاصيل المركبات على كل صحيفة وقائع الشحن الإلكترونية الحالية والناقل (انظر دليل الامتثال للمحيطات).
 ويجب أن تتفق الأسماء، والأرقام الشخصية، والكميات، والقيم، ومدونات الصدر على جميع الفواتير، وقائمة التعبئة، و B/L، والرخص - الجمارك وسماسرة الوجهة على السواء يرفضان مجموعات غير متسقة.
-
 ## الخطوة 5 - قبول خلف الأعمال الورقية
-وتقسم وزارة الداخلية رقم 50 شركات تصنيع ومنتجات المركبات المتحركة إلى ست فئات قبول: سيارات الركاب، ومركبات السلع، والحافلات، والمركبات ذات الأغراض الخاصة، والدراجات النارية، والمقطورات**. لماذا يرعى المصدر: نطاق قبول الصانع يحدد أي منتجات يمكن إعلانها بشكل شرعي. للمركبات الخاصة تؤكد دخول الفوضى الأساسية**و مؤهلات الكيان الخارق
-
+وتقسم وزارة الداخلية رقم 50 شركات تصنيع ومنتجات المركبات المتحركة إلى ست فئات قبول: سيارات الركاب، ومركبات السلع، والحافلات، والمركبات ذات الأغراض الخاصة، والدراجات النارية، والمقطورات. لماذا يرعى المصدر: نطاق قبول الصانع يحدد أي منتجات يمكن إعلانها بشكل شرعي. للمركبات الخاصة تؤكد دخول الفوضى الأساسيةو مؤهلات الكيان الخارق
 ## ما يوصي به هذا الدليل لك التحقق قبل الحجز
-- نظام التسلية والرمز الحالي HS** للسيارة بالضبط (BEV/ used conventional special).
-- ** حالة تقديم الإقرارات السنوية**، وإثباتات بالنسبة للارتفاعات.
-- بالنسبة للوحدات التي تستخدم حديثاً، فإن " تأكيد " أو " بعد البيع "** قبل التطبيق هو " 180-day أوم ".
-- ** تمرُّر للاتساق عبر الوثائق** (القيمة، القيمة، الخدمة الميدانية، الأطراف) قبل الإعلان.
-- ** وثائق البطاريات الإلكترونية** في وقت مبكر، منذ UN38.3/MSDS مرة حجز البوابة.
-
+- نظام التسلية والرمز الحالي HS للسيارة بالضبط (BEV/ used conventional special).
+- حالة تقديم الإقرارات السنوية، وإثباتات بالنسبة للارتفاعات.
+- بالنسبة للوحدات التي تستخدم حديثاً، فإن " تأكيد " أو " بعد البيع " قبل التطبيق هو " 180-day أوم ".
+- تمرُّر للاتساق عبر الوثائق (القيمة، القيمة، الخدمة الميدانية، الأطراف) قبل الإعلان.
+- وثائق البطاريات الإلكترونية في وقت مبكر، منذ UN38.3/MSDS مرة حجز البوابة.
 ## الأسئلة المتكررة
-** هل يحتاج كل مصدر للسيارات إلى نفس الرخصة؟** لا - سيارات الركاب من طراز بي في، السيارات المستعملة والمركبات التقليدية تتواجد تحت مسارات مختلفة؛ يؤكد النظام ورمز HS للمنتج.
-** ما هي قاعدة السيارة المستعملة البالغ عددها 180-day؟** من 1 (يان 2026) مركبة مسجلة سعة 180 يوم قبل طلب التصدير تحتاج إلى تأكيد صيانة بعد البيع
-** أي وثائق تشكل سلسلة التصدير؟** الرخصة، والإعلان الجمركي، والفاتورة التجارية، وقائمة التعبئة، وشهادة المنشأ، وتقرير التفتيش عند الاقتضاء، بالإضافة إلى UN38.3/MSDS للمركبات المكهربة.
+ هل يحتاج كل مصدر للسيارات إلى نفس الرخصة؟ لا - سيارات الركاب من طراز بي في، السيارات المستعملة والمركبات التقليدية تتواجد تحت مسارات مختلفة؛ يؤكد النظام ورمز HS للمنتج.
+ ما هي قاعدة السيارة المستعملة البالغ عددها 180-day؟ من 1 (يان 2026) مركبة مسجلة سعة 180 يوم قبل طلب التصدير تحتاج إلى تأكيد صيانة بعد البيع
+ أي وثائق تشكل سلسلة التصدير؟ الرخصة، والإعلان الجمركي، والفاتورة التجارية، وقائمة التعبئة، وشهادة المنشأ، وتقرير التفتيش عند الاقتضاء، بالإضافة إلى UN38.3/MSDS للمركبات المكهربة.
 لماذا تهم فئة قبول الصانع إلى تاجر؟ MIIT الأمر 50 يقسم المركبات إلى ست فئات قبول، المنتج يجب أن يجلس في نطاق الصانع المقبول ليعلن نظيفاً
-** من أين تأتي رموز HS؟** تأكدي من الرمز الدقيق والشرط التنظيمي على الجدول التعريفي الحالي وآخر إشعار من وزارة المالية لا تحملي رمز قديم
-
-## سجل الصور
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — China vehicle export licence and customs documents, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — China vehicle export licence and customs documents, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜China vehicle export licence and customs documents, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜China vehicle export licence and customs documents, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — China vehicle export licence and customs documents, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — China vehicle export licence and customs documents, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — China vehicle export licence and customs documents, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
-
+ من أين تأتي رموز HS؟ تأكدي من الرمز الدقيق والشرط التنظيمي على الجدول التعريفي الحالي وآخر إشعار من وزارة المالية لا تحملي رمز قديم
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
-| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
-| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
-| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
-*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | Annual filing; upfit performance evidence |
+| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | Used-car licence regime; 180-day rule from 2026-01-01 |
+| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | BEV licence track, reference HS |
+| MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | Six admission categories; document-chain basis |
+*ملاحظة النطاق: official sources here cover the China export side only. يجب تأكيد رموز HS الدقيقة وتفاصيل تشغيل النظام وأي تعديل سنوي مقابل التعرفة السارية وإخطارات MOFCOM; destination-side rules are out of scope.*
+| Ministry of Commerce (MOFCOM) Ministry of Industry and Information Technology (MIIT) General Administration of Customs of China (GACC) market监管总局MIIT Catalogue 2025 No. 54 No.(对battery-electric动passenger car实施exportlicence证管理, 2026-01-01 takes effect; 参考 HS 8703801090) | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | مصدر أولي | |
+| Ministry of Commerce (MOFCOM)General Office Notice on the 2026 Automobile and Motorcycle Export-Licence Application Round (2025-09-28; cites Announcement No. 54; system filing category "passenger car") | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | مصدر أولي | |
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
-
-## استعراض التحرير
-- ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الجانب الصيني من الصادرات
-- ** طريقة التحقق**: الاستعراض الصيني للمصادر الرئيسية (الفريق العامل المعني البنود الحساسة من حيث الوقت التي أُشير إليها، غير محددة
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

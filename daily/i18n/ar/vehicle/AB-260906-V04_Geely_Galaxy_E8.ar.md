@@ -1,95 +1,69 @@
 # Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Geely Galaxy E8 (Yinhe E8) Export Specs: Battery, Range, Charging Guide
-- **وصف Meta**: China-market reference for the SEA -based Geely Galaxy/Yinhe E8 electric sedan: motor variants, CLTC range and bat options kept trim-specific, 800V charging huats, and EV export checks.
-- **H1**: Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export
-- **الكلمة المفتاحية الرئيسية**: Geely Galaxy E8 Yinhe E8 عينات التصدير
-- **مصطلحات بحث ثانوية**: (ج) هيكل غالاكسي E8 SEA؛ - مدى يينهي E8 من طراز Yinhe CLTC؛ - شحنة قدرها E8 800V غالاكسي؛ Geely electric sedan export; E8 475 kW AWD
-- **URL المقترح**: /vehicles/geely-galaxy-e8/
-- **نية البحث**: Understand Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export: What a vehicle/parts exporter must verify, document and decide before committing to an order.
-- **اقتراحات الروابط الداخلية**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- **اقتراح الصورة**: جبهة ثلاث أرباع سيارة جيبي غالاكسي E8 من العجلات الكهربائية مع توقيعها الخفيف الكامل
-- **نص ALT**: رؤية ثلاث أرباع سيارة ركاب كهربائية من طراز جيلي غالاكسي E8 تظهر البار الخفيف وخط السقف السريع
-- **نطاق المخطط**: المادة + المركبات
-
-** مقترحات داخلية بشأن الروابط**: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** اقتراح مقدم**: أمام ثلاثة أرباع سيارة ركاب كهربائية سريعة من طراز جيلي غالاكسي E8 مع توقيعها الخفيف الكامل
-- ** الاقتراح**: نظرة ثلاثية أرباع سيارة ركاب كهربائية من طراز Geely Galaxy E8، تظهر البار الخفيف وخط السقف السريع
-- **Schema Scope**: Article + Vehicle
-
-"جلاكسي E8" (جينه E8) هي سيارة (جيلي) الرئيسية للكهرباء السريعة في وكالة الفضاء الأوروبية (مهندسة التجارب المستدامة) - خمس طوابق، منخفضة الدراجة (حوالي 0.199 سيد) للبطارية، تقدم في شكل محرك وحيد وزجاجة ذات محركين مركبين من جميع العجلات. لأنه حرف الـ (إي في) ، القرار الشراءي يتحول إلى البطارية ، دورة الاختبار ، وشحن البنية والبرمجيات ليس على رقم واحد من خطوط الطاقة وكل ما يرد أدناه هو مرجع للسوق الصينية**؛ وتستلزم نسخ التصدير ومعايير الشحن الخاصة بها أدلة منفصلة لمنظمة أوسمانوغرافية.**
-
+- عنوان SEO: Geely Galaxy E8 (Yinhe E8) Export Specs: Battery, Range, Charging Guide
+- وصف Meta: China-market reference for the SEA -based Geely Galaxy/Yinhe E8 electric sedan: motor variants, CLTC range and bat options kept trim-specific, 800V charging huats, and EV export checks.
+- H1: Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export
+- الكلمة المفتاحية الرئيسية: Geely Galaxy E8 Yinhe E8 عينات التصدير
+- مصطلحات بحث ثانوية: (ج) هيكل غالاكسي E8 SEA؛ - مدى يينهي E8 من طراز Yinhe CLTC؛ - شحنة قدرها E8 800V غالاكسي؛ Geely electric sedan export; E8 475 kW AWD
+- URL المقترح: /vehicles/geely-galaxy-e8/
+- نية البحث: Understand Geely Galaxy E8 (Yinhe E8): China-Market Electric Sedan Reference for Export: What a vehicle/parts exporter must verify, document and decide before committing to an order.
+- اقتراحات الروابط الداخلية: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- اقتراح الصورة: جبهة ثلاث أرباع سيارة جيبي غالاكسي E8 من العجلات الكهربائية مع توقيعها الخفيف الكامل
+- نص ALT: رؤية ثلاث أرباع سيارة ركاب كهربائية من طراز جيلي غالاكسي E8 تظهر البار الخفيف وخط السقف السريع
+- نطاق المخطط: المادة + المركبات
+ مقترحات داخلية بشأن الروابط: /vehicles/geely-preface/, /vehicles/chery-fulwin-a8/, /guides/ev-shipping-un3556-imdg-compliance/
+- اقتراح مقدم: أمام ثلاثة أرباع سيارة ركاب كهربائية سريعة من طراز جيلي غالاكسي E8 مع توقيعها الخفيف الكامل
+- الاقتراح: نظرة ثلاثية أرباع سيارة ركاب كهربائية من طراز Geely Galaxy E8، تظهر البار الخفيف وخط السقف السريع
+"جلاكسي E8" (جينه E8) هي سيارة (جيلي) الرئيسية للكهرباء السريعة في وكالة الفضاء الأوروبية (مهندسة التجارب المستدامة) - خمس طوابق، منخفضة الدراجة (حوالي 0.199 سيد) للبطارية، تقدم في شكل محرك وحيد وزجاجة ذات محركين مركبين من جميع العجلات. لأنه حرف الـ (إي في) ، القرار الشراءي يتحول إلى البطارية ، دورة الاختبار ، وشحن البنية والبرمجيات ليس على رقم واحد من خطوط الطاقة وكل ما يرد أدناه هو مرجع للسوق الصينية؛ وتستلزم نسخ التصدير ومعايير الشحن الخاصة بها أدلة منفصلة لمنظمة أوسمانوغرافية.
 ## الهوية ومنصة العمل
-
-| البند | القيمة المرجعية للسوق الصينية | | الثقة |
-|---|---|---|---|
-| | هيكل وكالة الفضاء الأوروبية، 5-door/5-seat من وسط الحجم | CHINA 2024/2025 | صرخات |
-| الأبعاد | 5010 × 1920 × 1465 mm  wheelbase 2925 mm | CHINA · single-source, confirm | SINGLE OURCE |
-| محرك محرك مركب | 200 kW أو 250 kW محرك واحد (بصيغة واحدة) | CHINA · cross- checked | صرخات |
-| كلّ العجلات | محرك مزدوج مدمج يُستخدم في إحصاء 475 kW (نسخة الأداء) | CHINA · cross- checked | صرخات |
-
+| البند | القيمة المرجعية للسوق الصينية | |
+| --- | --- | --- |
+| | هيكل وكالة الفضاء الأوروبية، 5-door/5-seat من وسط الحجم | CHINA 2024/2025 |
+| الأبعاد | 5010 × 1920 × 1465 mm wheelbase 2925 mm | CHINA · مصدر واحد, confirm |
+| محرك محرك مركب | 200 kW أو 250 kW محرك واحد (بصيغة واحدة) | CHINA · cross- checked |
+| كلّ العجلات | محرك مزدوج مدمج يُستخدم في إحصاء 475 kW (نسخة الأداء) | CHINA · cross- checked |
 ## مدى البطارية وشبكة الاتصالات السلكية واللاسلكية - يقرأان على الترميز، ولا يقرأان على الإطلاق كرقم واحد
-
-Chinese sources describe several lithium battery packs (roughly 62 67.8 76 kWh across LFP  and  خطوط لفترات زمنية طويلة  and  CLTC ranges of 575 610 620 700 كم مرتبطة ببطارية مختلفة، و  مزيج قيادة وهذه الأرقام هي حالياً مصدر واحد، ويجب تأكيد رسم خرائط للبطارية إلى المدى البعيد على صفحة تشكيلة مكتب إدارة الشؤون الاقتصادية والاجتماعية للوحدة الأمنية الخاصة. هذه الصفحة عمداً لا** تطبع "مصفوفة "إكس" ثابتة "مقعد "مدى "ي لأن القيام بذلك سيؤكد رسماً للمصادر لا تغلق تماماً**
-
+Chinese sources describe several lithium battery packs (roughly 62 67.8 76 kWh across LFP and خطوط لفترات زمنية طويلة and CLTC ranges of 575 610 620 700 كم مرتبطة ببطارية مختلفة، و مزيج قيادة وهذه الأرقام هي حالياً مصدر واحد، ويجب تأكيد رسم خرائط للبطارية إلى المدى البعيد على صفحة تشكيلة مكتب إدارة الشؤون الاقتصادية والاجتماعية للوحدة الأمنية الخاصة. هذه الصفحة عمداً لا تطبع "مصفوفة "إكس" ثابتة "مقعد "مدى "ي لأن القيام بذلك سيؤكد رسماً للمصادر لا تغلق تماماً
 لجنة مكافحة الإرهاب هي دورة الاختبار الصينية. وليس من قانون التجارة العالمية أو اتفاق التجارة الإلكترونية؛ وينبغي أن يتوقع مشترٍ خارجي رقماً مختلفاً (أقل بكثير) في إطار دورة المقصد، وينبغي ألا يقارن أرقام لجنة التجارة الحرة لأمريكا اللاتينية مباشرة مع منافسي شركة WLTP.
-
 ## هيكل الشحن: 800V يعتمد على النسخ
-
-تستخدم النسخ العليا منصة عالية الحركة تبلغ 800-volt تدعم قدرة أعلى في العاصمة على الدفع السريع بينما الذروة المحددة تشحن الطاقة  and  10–80% الوقت غير متاح من مصدر رسمي هنا  ولذلك، لا يُذكر أنها قيم ثابتة** - أي أنها تؤكدها على كل تريم. وبالنسبة للتصدير، فإن معيار الربط والشحن الماديين (GB/T في الصين مقابل معايير احتجاز ثاني أكسيد الكربون من معايير المقصد) هو سؤال مستقل وحاسم يجب أن تجيب عليه صحيفة تصدير تابعة لمنظمة أوسم.**
-
+تستخدم النسخ العليا منصة عالية الحركة تبلغ 800-volt تدعم قدرة أعلى في العاصمة على الدفع السريع بينما الذروة المحددة تشحن الطاقة and 10–80% الوقت غير متاح من مصدر رسمي هنا ولذلك، لا يُذكر أنها قيم ثابتة - أي أنها تؤكدها على كل تريم. وبالنسبة للتصدير، فإن معيار الربط والشحن الماديين (GB/T في الصين مقابل معايير احتجاز ثاني أكسيد الكربون من معايير المقصد) هو سؤال مستقل وحاسم يجب أن تجيب عليه صحيفة تصدير تابعة لمنظمة أوسم.
 ## برامجيات، ووكالة التجارة الدولية، وجهاز الديوان
-
 الـE8 مبني على عرض متكامل كبير ونظام (جيلي) للتشغيل في السيارة مع تحديثات أكثر من الهواء ويثير هذا الأمر بالنسبة لمشتري التصدير نفس العناية التي يبديها أي من شركات البيع الإلكترونية في السوق الصينية: توافر اللغات، ومنطقة التجهيز، وبيانات الخرائط، وفرق الاتصال في مجال الإدارة السليمة بيئياً، وما إذا كانت منظمة التجارة العالمية تعمل خارج الصين. وهذه بنود قبول قابلة للإثبات، لا افتراضات - تشملها على حساب القبول لكل شبكة من وحدات الاتصال الحاسوبي المباشر.
-
 ## التحقق من الصادرات الخاصة بالمركبات
-
 1. اغلق وحدة التفتيش الخاصة بدقة، واحصل على وتركيبها للمحركات، ورقمها القياسي لشبكة الاتصالات السلكية واللاسلكية (CLTC) من سجل مكتب مراقبة العمليات المركزي.
 2. تأكد لهذه الوحدة ما إذا كانت المنصة 400V أم 800V، واحصل على منحنى الشحن الرسمي/الذروة قبل ذكر زمن الشحن.
 3. (ج) حل (GB/T vs destination) وأي مكيّف أو مشترط لبناء الصادرات.
 4. التحقق من تصنيف النقل بالبطارية وقواعد النقل لساق البحر (انظر دليل التصنيف الدولي للبيانات المصنف للأمم المتحدة).
 5. اختبار لغة الديوان، وربط النطاق وسلوك مكتب الشؤون الإدارية للمقصد قبل القبول.
 6. والسوق الصينية هي وزارة الصحة؛ ويحتاج توجيه أي بناء للصادرات إلى أدلة منفصلة لمنظمة أوم.
-
 ## الانضباط في الحصص
-
 ولا يُنشر أي سعر تصدير، كما أن سعر الدليل المحلي هو الصين وحدها ويراعي الوقت. طلب تخصيص حصة تصديرية حالية مع بلد المقصد، الكمية، الترايم المفضّلة، LHD/RHD، ميناء الوجهة، والقصدير؛ ويجب عدم تقدير البطاريات والشحن.
-
 ## FAQ
-**What is the Galaxy E8’s range?**
-
-Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  and  - القيادة؛ ورسم الخرائط بدقة هو رسم محدد ثلاثي ويجب تأكيده في كل وحدة من وحدات الاتصال الخاصة - وليست لجنة الاتصال المعنية بمكافحة الاتجار بالبشر هي من خطط التكيف العالمية.
-
+What is the Galaxy E8’s range?
+Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery and - القيادة؛ ورسم الخرائط بدقة هو رسم محدد ثلاثي ويجب تأكيده في كل وحدة من وحدات الاتصال الخاصة - وليست لجنة الاتصال المعنية بمكافحة الاتجار بالبشر هي من خطط التكيف العالمية.
 هل هو محرك واحد أو مزدوج؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
-
 كلا: (200) أو 250 كيلوواط، بالنسخة)، ونسخة أداء مزدوجة الحركة حول 475 كيلوواط.
-
-** هل يستخدم كل E8 800V؟**
-
+ هل يستخدم كل E8 800V؟
 وتستخدم النسخ العليا منصة تبلغ 800V؛ وتتأكد من وحدة الاتصال الخاصة بدقة، وتحصل على أرقام رسمية ذات ذروتة أعلى بدلا من افتراض عدد.
-
-** هل أستطيع أن أشحنه على كاميرات المراقبة الأوروبية؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ هل أستطيع أن أشحنه على كاميرات المراقبة الأوروبية؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 وتستخدم السيارة الصينية معيار GB/T؛ ويقتضي توافق المقصد إجابة من نوع OEM على الصادرات، وليس افتراضا.
-
-** كم حجم السيارة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ كم حجم السيارة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 حوالي 5010 × 1920 × 1465 mm مع 2925 mm قاعدة عجلة (مراجع السوق الصينية، تؤكد بالترايم).
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | 电池容量, 整备质量, 续航  |
-| 银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW） | 懂车帝车型对比 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | 尺寸, 续航, 电机功率, 驱动  |
-| 银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版电机, 电池供应商, 平台  |
-| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | primary | VERIFIED | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | identity — OEM identity: SEA-based flagship electric sedan |
-| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | primary | VERIFIED | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | identity — launch timing and SEA architecture; trim specs still per SKU |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | motor_power — verify battery/drive variant by announcement |
-| Geely Galaxy E8 independent spec overview | LynkCars | CN | media/industry | CROSS_CHECKED | https://www.lynkcars.com/geely-galaxy-e8/ | motor_power — independent database cross-check; confirm against OEM |
+| المصدر | الجهة | السوق | الرابط | الوقائع المدعومة |
+| --- | --- | --- | --- | --- |
+| GalaxyE8parameters(battery62/67.8/76kWh, 能量密度, kerb mass, rangeversion) | DongchedimodelSpecifications page | CHINA | https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ | battery容量, kerb mass, range |
+| GalaxyE8多trimcomparison(5010×1920×1465, WB2925; CLTC 575/610/620/700; RWD200/250kW, four-wheel drive475kW) | Dongchedimodelcomparison | CHINA | https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM | dimensions, range, electric motor功率, 驱动 |
+| GalaxyE8 610km版(250kW/373N·m, 5.49s, 宁德时代67.8kWh, 800V) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc | 610版electric motor, battery供应商, 平台 |
+| Geely Yinhe/Galaxy E8 fleet page (OEM) | Geely Auto | CN/EXPORT | https://www.geely.com/en/corporate-fleet-sales/galaxy-e8 | OEM identity: SEA-based flagship electric sedan |
+| Geely starts delivery of Yinhe E8 (Jan 2024 OEM release) | Geely Auto | CN | https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan | launch timing and SEA architecture; trim specs still per SKU |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify battery/drive variant by announcement |
+| Geely Galaxy E8 independent spec overview | LynkCars | CN | https://www.lynkcars.com/geely-galaxy-e8/ | independent database cross-check; confirm against OEM |
 
-## استعراض التحرير
-- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-06
-- ** سوق الإحالة**: CHINA(中国市场 CLTC؛ 续航按 trim setting 快充峰值缺官方禁写死; 出口版另证)（电池）
-- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-06
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

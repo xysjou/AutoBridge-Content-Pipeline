@@ -1,103 +1,64 @@
 # المركبات من طراز China-VI فيما وراء البحار: معايير الانبعاثات، وتعديل 2026، وشراء قابلية التطابق في الوقود يجب أن يُصدقوا على
-
 ## بيانات SEO الوصفية
-- **عنوان SEO**: China  VI  Emissions & Overseas Fuel Compatibility Guide —  GB18352.6  /  GB17691
-- **وصف Meta**: تقسيم مبلغ GB18352.6-2016 (تعديل XG1-2026) من الحد الأقصى للديزل إلى GB17691-2018، والحدود القصوى للصين إلى VI، و DPF/SCR خطر، وسبب عدم موافقة الصين على VI يورو على أي شكل آلي أو EPA موافقة.
-- **H1**: Taking a China- VI  Vehicle Abroad: أيّ نظام إنبعاث يُطبّق، وهل ستُصبح بدلة الوقود المحلية؟
-- **الكلمة المفتاحية الرئيسية**: china 6 emission standard overseas fuel compatibility  GB18352.6   GB17691
-- **مصطلحات بحث ثانوية**: GB18352.6-2016 XG1-2026   GB17691-2018  heavy duty china 6, GB19147 من كبريت الديزل 10ppm   DPF   SCR  high sulfur fuel, الصين VI ضد اليورو
-- **URL المقترح**: /guides/emission-fuel-compatibility-china-vehicles
-- **نية البحث**: Understand Taking a China- VI  Vehicle Abroad: أيّ نظام إنبعاث يُطبّق، وهل ستُصبح بدلة الوقود المحلية؟ ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
-- **اقتراح الصورة**: الضوء ضد انقسام معياري ثقيل
-- **نص ALT**: فصل GB18352.6 من العمل الخفيف و GB17691 من العمل الشاق مع إجراء عمليات تحقق من توافق الوقود
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
+- وصف Meta: تقسيم مبلغ GB18352.6-2016 (تعديل XG1-2026) من الحد الأقصى للديزل إلى GB17691-2018، والحدود القصوى للصين إلى VI، و DPF/SCR خطر، وسبب عدم موافقة الصين على VI يورو على أي شكل آلي أو EPA موافقة.
+- H1: Taking a China- VI Vehicle Abroad: أيّ نظام إنبعاث يُطبّق، وهل ستُصبح بدلة الوقود المحلية؟
+- الكلمة المفتاحية الرئيسية: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
+- مصطلحات بحث ثانوية: GB18352.6-2016 XG1-2026 GB17691-2018 heavy duty china 6, GB19147 من كبريت الديزل 10ppm DPF SCR high sulfur fuel, الصين VI ضد اليورو
+- URL المقترح: /guides/emission-fuel-compatibility-china-vehicles
+- نية البحث: Understand Taking a China- VI Vehicle Abroad: أيّ نظام إنبعاث يُطبّق، وهل ستُصبح بدلة الوقود المحلية؟ ما يجب على المصدر/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- اقتراح الصورة: الضوء ضد انقسام معياري ثقيل
+- نص ALT: فصل GB18352.6 من العمل الخفيف و GB17691 من العمل الشاق مع إجراء عمليات تحقق من توافق الوقود
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## لماذا "الصين السادس" ليست واحدة
-المشترين غالباً ما يقرأون "الصين السادس 国六" كمقياس واحد وهي ليست: ** مركبات تعمل في مجال العمل والخدمة الثقيلة تُستخدم في إطار معايير صينية مختلفة**، كما أن معيار الانبعاثات يختلف أيضاً عن ** توافق الوقود**، وعن الموافقة على نوع الترسب**. هذا الدليل يفصل بين الثلاثة و يُعلن بالضبط أين تنتهي المعايير الرسمية للصين و يبدأ التحقق من المقصد
-
+المشترين غالباً ما يقرأون "الصين السادس China-6" كمقياس واحد وهي ليست: مركبات تعمل في مجال العمل والخدمة الثقيلة تُستخدم في إطار معايير صينية مختلفة، كما أن معيار الانبعاثات يختلف أيضاً عن توافق الوقود، وعن الموافقة على نوع الترسب. هذا الدليل يفصل بين الثلاثة و يُعلن بالضبط أين تنتهي المعايير الرسمية للصين و يبدأ التحقق من المقصد
 ## الواجب الخفيف ضد الواجب الثقيل - معياران حاليان
 | النطاق | المعيار الصيني الحالي | |
-|---|---|---|
-| ** ثماني سنوات** (M1/M2/N1 البنزين) | ** 18352.6-2016 ** (الصين 6) | صدر التعديل رقم 1، GB18352.6-2016/XG1-2026 ** عن وزارة الإيكولوجيا والبيئة، وعن الرابطة الوطنية للإحصاء في عام 2026-04، وينفذ التعديل 2026-05-01 ** (الجزء الخاص بالتمديد من نوع التناظر من 2026-07-01 ** من نوع التناسلي للفيروسات العكوسة). |
-| ** الديزل الثقيل** (مركبات محرك المزود بالوقود) | ** 17691-2018 ** (الصين 6) | إصدار 2018-06-22، في حيز النفاذ 2019-07-01، إلزامي؛ وصدر تعديل قدره 2026 في الدفعة نفسها |
-
+| --- | --- | --- |
+| ثماني سنوات (M1/M2/N1 البنزين) | 18352.6-2016 (الصين 6) | صدر التعديل رقم 1، GB18352.6-2016/XG1-2026 عن وزارة الإيكولوجيا والبيئة، وعن الرابطة الوطنية للإحصاء في عام 2026-04، وينفذ التعديل 2026-05-01 (الجزء الخاص بالتمديد من نوع التناظر من 2026-07-01 من نوع التناسلي للفيروسات العكوسة). |
+| الديزل الثقيل (مركبات محرك المزود بالوقود) | 17691-2018 (الصين 6) | إصدار 2018-06-22، في حيز النفاذ 2019-07-01، إلزامي؛ وصدر تعديل قدره 2026 في الدفعة نفسها |
 لا توصف كل شيء مركبة صينية تستخدم فقط العجلة الخفيفة GB18352.6: شاحنة خفيفة من طراز شوندا وجيب رئيس جرار ثقيل من طراز تيانلونغ على معايير مختلفة.
-
 ## قابلية الارتداد بالوقود: مخاطر الديزل - الكبريت
-- ويتبع الديزل على الطرق بين الصين والسادسة **GB 19147-2016 ** (مع XG1-2018، حالي)، الذي تحمل فيه كبسولات الصفوف الصينية السادسة ** الكبريت عند 10 (10 جزء من المليون)**.
-- تحمل مركبات الديزل الصينية - السادسة** أرقاماً خاصة بعد المعالجة**. ويمكن أن يؤدي تشغيل مثل هذا المحرك لفترات طويلة في وقود الكبريت العالية السم وإبطال نظام ما بعد المعالجة**. قبل شحن الديزل، تأكد مستوى الديزل في الوجهة و مستلزمات الوقود لصانع المحرك.
+- ويتبع الديزل على الطرق بين الصين والسادسة GB 19147-2016 (مع XG1-2018، حالي)، الذي تحمل فيه كبسولات الصفوف الصينية السادسة الكبريت عند 10 (10 جزء من المليون).
+- تحمل مركبات الديزل الصينية - السادسة أرقاماً خاصة بعد المعالجة. ويمكن أن يؤدي تشغيل مثل هذا المحرك لفترات طويلة في وقود الكبريت العالية السم وإبطال نظام ما بعد المعالجة. قبل شحن الديزل، تأكد مستوى الديزل في الوجهة و مستلزمات الوقود لصانع المحرك.
 - بالنسبة للبنزين، تحقق من درجة المقصد للديزل، رقم السيتان ومحتويات الكبريت ضد دليل المالك This compatibility advice is qualitative — exact EN228/EN590 لا تُؤكَّد الأرقام دون مصدر CEN أولي/UNECE sources.
-
 ## الموافقة على الاستخدام
-وأطر ما وراء البحار هي أساسا ** لجنة الأمم المتحدة الاقتصادية و ** وكالة حماية البيئة التابعة للولايات المتحدة**، ضمن أطر أخرى. إن الصين السادسة ** تسحب على الإطار الأوروبي ولكنها لا تشكل موافقة بموجب أي نظام خارجي** - يجب أن تعالج مسألة مطابقة الوجهة بصورة منفصلة. هذا الدليل يجعل من الصين السادسة تساوي اليورو X مطالبة** ويتطلب التكافؤ وثيقة رسمية للاعتراف المتبادل، غير متاحة هنا؛ ولا تزال هناك حدود دقيقة في اللجنة الاقتصادية لأوروبا تبلغ R83/R49 من حيث النطاق، كما أن عينات الوقود في الشبكة غير متاحة في انتظار المصادر الأولية.
-
+وأطر ما وراء البحار هي أساسا لجنة الأمم المتحدة الاقتصادية و وكالة حماية البيئة التابعة للولايات المتحدة، ضمن أطر أخرى. إن الصين السادسة تسحب على الإطار الأوروبي ولكنها لا تشكل موافقة بموجب أي نظام خارجي - يجب أن تعالج مسألة مطابقة الوجهة بصورة منفصلة. هذا الدليل يجعل من الصين السادسة تساوي اليورو X مطالبة ويتطلب التكافؤ وثيقة رسمية للاعتراف المتبادل، غير متاحة هنا؛ ولا تزال هناك حدود دقيقة في اللجنة الاقتصادية لأوروبا تبلغ R83/R49 من حيث النطاق، كما أن عينات الوقود في الشبكة غير متاحة في انتظار المصادر الأولية.
 ## تدقيق المشتري
-1. تحديد النور مقابل الواجب الثقيل، واستشهد بالمعيار الحالي غير الصحيح** (GB18352.6-2016 + XG1-2026 أو GB17691-2018).
+1. تحديد النور مقابل الواجب الثقيل، واستشهد بالمعيار الحالي غير الصحيح (GB18352.6-2016 + XG1-2026 أو GB17691-2018).
 2. تأكد من نوع السيارة بعد العلاج (الديزل)
-3. التحقق من الوجهة**، الكبريت/السيتان/المعقول**، من الكم.
-4. الموافقة على نوع العرض** كمسار عمل منفصل - لا يفترض أبداً أن الصين السادسة مقبولة حماية البيئة.
+3. التحقق من الوجهة، الكبريت/السيتان/المعقول، من الكم.
+4. الموافقة على نوع العرض كمسار عمل منفصل - لا يفترض أبداً أن الصين السادسة مقبولة حماية البيئة.
 5. نسخة ومواعيد قياسية للموقع؛ هذه حساسية من الوقت.
-
 ## حدود هذا الدليل
 - ولا توجد قيم محددة للجنة الاقتصادية لأوروبا أو أوروبا أو EN228/EN590 مواصفات (لم يتم الحصول على المصدر الأولي).
 - لا يوجد استنتاج بين الصين و السادسة و الأوروبية
 - والمواصفات المتعلقة بالوقود المقدّر وقواعد القبول مراعية للوقت ولبلدان محددة.
-
 ## الأسئلة المتكررة
-** إن الصين السادسة هي نفس المعيار بالنسبة للسيارات  and  heavy trucks?** No — light duty is GB18352.6-2016 (with the 2026 Amendment No.1), الديزل الثقيل هو GB17691-2018.
-** متى سيطبق GB18352.6/XG1-2026؟** مُصدر 2026-04، فعال 2026-05-01 (تمديد نوع HEV من 2026-07-01)
-** لماذا مادة الديزل الكبريت؟** وتستخدم الديزل الصيني الفيزيائي الخاصة؛ ويمكن أن يسمّم الوقود العالي الكبريت المستمر بعد التعرض للمعاملة.
-** هل تعني الصين السادسة أن السيارة قد وافقت على اليورو**؟ لا؛ فالتطابق فيما وراء البحار عملية منفصلة ولا يُدَّعى حدوث معادلة.
-
-## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — China-VI emissions and fuel compatibility overseas, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — China-VI emissions and fuel compatibility overseas, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — China-VI emissions and fuel compatibility overseas, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — China-VI emissions and fuel compatibility overseas, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — China-VI emissions and fuel compatibility overseas, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜China-VI emissions and fuel compatibility overseas, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜China-VI emissions and fuel compatibility overseas, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — China-VI emissions and fuel compatibility overseas, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — China-VI emissions and fuel compatibility overseas, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — China-VI emissions and fuel compatibility overseas, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — China-VI emissions and fuel compatibility overseas, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜China-VI emissions and fuel compatibility overseas, 汽车出口采购指南
-
+ إن الصين السادسة هي نفس المعيار بالنسبة للسيارات and heavy trucks? No — light duty is GB18352.6-2016 (with the 2026 Amendment No.1), الديزل الثقيل هو GB17691-2018.
+ متى سيطبق GB18352.6/XG1-2026؟ مُصدر 2026-04، فعال 2026-05-01 (تمديد نوع HEV من 2026-07-01)
+ لماذا مادة الديزل الكبريت؟ وتستخدم الديزل الصيني الفيزيائي الخاصة؛ ويمكن أن يسمّم الوقود العالي الكبريت المستمر بعد التعرض للمعاملة.
+ هل تعني الصين السادسة أن السيارة قد وافقت على اليورو؟ لا؛ فالتطابق فيما وراء البحار عملية منفصلة ولا يُدَّعى حدوث معادلة.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | VERIFIED (primary) | XG1-2026 version/dates |
-| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | VERIFIED (primary) | Light-duty amendment |
-| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | VERIFIED (primary) | Standard status/date |
-| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primary) | Heavy-duty standard/dates |
-| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primary) | Heavy-duty scope |
-| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulphur ≤10 mg/kg |
-| DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | single source | Qualitative after-treatment risk |
-*Evidence scope: Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | XG1-2026 version/dates |
+| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | Light-duty amendment |
+| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | Standard status/date |
+| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | Heavy-duty standard/dates |
+| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | Heavy-duty scope |
+| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | Sulphur ≤10 mg/kg |
+| DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | Qualitative after-treatment risk |
+*Evidence scope: Chinese standards/dates via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
+| Light-vehicle China-6 emission standard GB 18352.6-2016 (translated text) | ChinaAutoRegs(Toutiao) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | مصدر واحد | GB18352.6-2016background(不作现行version核心依据) |
+| 辽宁省车用diesel产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | مصدر أولي | 硫含量等项目检验依据GB19147-2016 |
+| GB19147-2016《车用diesel》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管China家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | مصدر أولي | ChinaVI车用diesel硫含量≤10mg/kg |
 
-| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | single source | GB18352.6-2016背景(不作现行版本核心依据) |
-| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VERIFIED | 硫含量等项目检验依据GB19147-2016 |
-| GB19147-2016《车用柴油》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | VERIFIED | 国VI车用柴油硫含量≤10mg/kg |
-
-## استعراض التحرير
-- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: المعايير الصينية (الفصل بين الرحلات الجوية والمركبات) + التوجيه النوعي بشأن الوقود في الخارج
-- ** طريقة التأجيل**: المعايير الأولية الخارجية للتبادل التجاري؛ التجزئة عدم التكافؤ أو الحدود المطلقة فيما وراء البحار
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
-
-**Tags**: #China6 #Emissions #FuelCompatibility #GB18352 #GB17691
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

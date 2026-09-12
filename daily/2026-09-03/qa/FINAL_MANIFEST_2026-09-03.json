@@ -1,0 +1,282 @@
+{
+ "date": "2026-09-03",
+ "articles": 20,
+ "locales": 240,
+ "article_ids": [
+  "AB-260903-G01_China_Export_License_Customs",
+  "AB-260903-G02_UAE_Registration_Documents",
+  "AB-260903-G03_CoC_Type_Approval",
+  "AB-260903-G04_Container_Loading",
+  "AB-260903-G05_EV_Shipping_UN3171",
+  "AB-260903-G06_PSI",
+  "AB-260903-G07_MiddleEast_HeatDust",
+  "AB-260903-G08_Africa_Age_Limits",
+  "AB-260903-G09_Aftersales_Network",
+  "AB-260903-G10_Sales_Contract",
+  "AB-260903-V01_Geely_Emgrand_2024",
+  "AB-260903-V02_BYD_Dolphin_2025",
+  "AB-260903-V03_Changan_CS75PLUS_2024",
+  "AB-260903-V04_LiAuto_L6_2024",
+  "AB-260903-V05_Wuling_MINIEV_Macaron_2024",
+  "AB-260903-V06_SAIC_Maxus_V90",
+  "AB-260903-V07_Yutong_ZK6122",
+  "AB-260903-V08_FAW_Jiefang_J6P",
+  "AB-260903-V09_SANY_Concrete_Mixer",
+  "AB-260903-V10_Farizon_V6E"
+ ],
+ "source_scope": {
+  "PASS": 20,
+  "CONDITIONAL": 0,
+  "FAIL": 0
+ },
+ "articles_detail": {
+  "AB-260903-G01_China_Export_License_Customs": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G02_UAE_Registration_Documents": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G03_CoC_Type_Approval": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G04_Container_Loading": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G05_EV_Shipping_UN3171": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G06_PSI": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G07_MiddleEast_HeatDust": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G08_Africa_Age_Limits": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G09_Aftersales_Network": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-G10_Sales_Contract": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V01_Geely_Emgrand_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V02_BYD_Dolphin_2025": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V03_Changan_CS75PLUS_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "ko",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V04_LiAuto_L6_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V05_Wuling_MINIEV_Macaron_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V06_SAIC_Maxus_V90": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V07_Yutong_ZK6122": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V08_FAW_Jiefang_J6P": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V09_SANY_Concrete_Mixer": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260903-V10_Farizon_V6E": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  }
+ },
+ "semantic_fail_locales": 55,
+ "semantic_fail_by_lang": {
+  "ja": 20,
+  "zh": 20,
+  "de": 2,
+  "ko": 2,
+  "th": 4,
+  "ar": 4,
+  "pt": 1,
+  "vi": 1,
+  "id": 1
+ },
+ "internal_leak": 0,
+ "number_break": 0,
+ "image_rights_pass": 0,
+ "image_not_applicable_no_public_image": 20,
+ "same_locale_internal_link_fail": 0,
+ "similarity_max_by_lang": {
+  "en": 0.0556,
+  "fr": 0.0733,
+  "de": 0.0641,
+  "es": 0.0685,
+  "pt": 0.074,
+  "ja": 0.1042,
+  "ko": 0.0641,
+  "vi": 0.0634,
+  "th": 0.0553,
+  "id": 0.1629,
+  "ar": 0.1161,
+  "zh": 0.105
+ },
+ "manifest_path": "daily/2026-09-03/qa/FINAL_MANIFEST_2026-09-03.json",
+ "manifest_sha256": "08e5e8ba1de032c4b2cb8cdbd76f1b0dddfc0364f28081f6b428ded9151fa10a"
+}

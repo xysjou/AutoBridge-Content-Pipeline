@@ -1,88 +1,53 @@
 # TIR International Road Transport for China Exporters — Carnet, Vehicle Approval, 2026 Rules
-
 ## Metadatos SEO
-- **Título SEO**: TIR Transporte por carretera desde China a Asia Central/Europa: Carnet, Aprobación de vehículos y 2026 Ampliación
-- **Meta descripción**: Cómo funciona el flete internacional TIR para los exportadores chinos de vehículos/partes: el carnet de TIR, el certificado de aprobación del vehículo, compartimento de carga sellado, China cronología  and  the 2026 scope expansion.
-- **H1**: TIR Transportes por carretera internacionales para exportadores de China — Carnet, Aprobación de vehículos, 2026 Reglas
-- **Palabra clave principal**: transporte por carretera de la cadena China central
-- **Términos de búsqueda secundarios**: TIR carnet; China Central Transporte de Asia; certificado de aprobación de vehículos; sello aduanero; tránsito por carretera
-- **URL sugerida**: /guides/tir-road-transport-china-central-asia/
-- **Intención de búsqueda**: Comprensión TIR Transportes por carretera internacionales para exportadores de China — Carnet, Aprobación de vehículos, 2026 Reglas: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
-- **Sugerencias de enlaces internos**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
-- **Sugerencia de imagen**: Un escenario realista, centrado en documentos y vehículos que ilustra TIR Transportes por carretera internacional para los exportadores de China — Carnet, Aprobación de vehículos, 2026 Regla, no se ha realizado ninguna inspección o se ha reclamado a la gente.
-- **Texto ALT**: Vistas cercanas, naturales de materiales y el tema relacionado con TIR Transportes por carretera internacional para los exportadores de China — Carnet, Aprobación de vehículos, fondo neutro, ninguna gente o acción de inspección mostrada.
-- **Alcance del esquema**: Artículo (no Producto/Offer/Review)
-
+- Título SEO: TIR Transporte por carretera desde China a Asia Central/Europa: Carnet, Aprobación de vehículos y 2026 Ampliación
+- Meta descripción: Cómo funciona el flete internacional TIR para los exportadores chinos de vehículos/partes: el carnet de TIR, el certificado de aprobación del vehículo, compartimento de carga sellado, China cronología and the 2026 scope expansion.
+- H1: TIR Transportes por carretera internacionales para exportadores de China — Carnet, Aprobación de vehículos, 2026 Reglas
+- Palabra clave principal: transporte por carretera de la cadena China central
+- Términos de búsqueda secundarios: TIR carnet; China Central Transporte de Asia; certificado de aprobación de vehículos; sello aduanero; tránsito por carretera
+- URL sugerida: /guides/tir-road-transport-china-central-asia/
+- Intención de búsqueda: Comprensión TIR Transportes por carretera internacionales para exportadores de China — Carnet, Aprobación de vehículos, 2026 Reglas: lo que un exportador de vehículos/partes debe verificar, documentar y decidir antes de comprometerse a un pedido.
+- Sugerencias de enlaces internos: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- Sugerencia de imagen: Un escenario realista, centrado en documentos y vehículos que ilustra TIR Transportes por carretera internacional para los exportadores de China — Carnet, Aprobación de vehículos, 2026 Regla, no se ha realizado ninguna inspección o se ha reclamado a la gente.
+- Texto ALT: Vistas cercanas, naturales de materiales y el tema relacionado con TIR Transportes por carretera internacional para los exportadores de China — Carnet, Aprobación de vehículos, fondo neutro, ninguna gente o acción de inspección mostrada.
+- Alcance del esquema: Artículo (no Producto/Offer/Review)
 ## Qué cambios TIR para un exportador terrestre
-TIR es un sistema de tránsito aduanero internacional que permite que un vehículo de carretera sellado o contenedor se mueva a través de partes contratantes con un solo **TIR**, mercancías generalmente que permanecen selladas y derechos/taxes garantizados a lo largo de la cadena. Para los exportadores chinos, los vehículos o partes desbordan el territorio a Asia central y hacia Europa, reduce la inspección y las garantías de fronteras reiteradas. Es una convención marco; el detalle operativo es implementado por las costumbres de cada parte contratante.
-
+TIR es un sistema de tránsito aduanero internacional que permite que un vehículo de carretera sellado o contenedor se mueva a través de partes contratantes con un solo TIR, mercancías generalmente que permanecen selladas y derechos/taxes garantizados a lo largo de la cadena. Para los exportadores chinos, los vehículos o partes desbordan el territorio a Asia central y hacia Europa, reduce la inspección y las garantías de fronteras reiteradas. Es una convención marco; el detalle operativo es implementado por las costumbres de cada parte contratante.
 ## Los dos documentos que no deben confundirse
-- **TIR carnet (TIR 证)**: el documento de garantía de tránsito presentado a la salida, en ruta y destino de las oficinas aduaneras.
-- ** Certificado de aprobación de vehículos/contenedores (车辆批准证明书)**: certifica que el vehículo de carretera o contenedor cumple con los requisitos de construcción (en particular la capacidad del compartimento de carga para ser sellado). Un vehículo que no puede ser sellado fiablemente no califica. Estos son distintos: aprobar el vehículo no es el mismo que emitir un carnet para un envío.
-
+- TIR carnet (TIR certificate): el documento de garantía de tránsito presentado a la salida, en ruta y destino de las oficinas aduaneras.
+- Certificado de aprobación de vehículos/contenedores (vehicle approval certificate): certifica que el vehículo de carretera o contenedor cumple con los requisitos de construcción (en particular la capacidad del compartimento de carga para ser sellado). Un vehículo que no puede ser sellado fiablemente no califica. Estos son distintos: aprobar el vehículo no es el mismo que emitir un carnet para un envío.
 ## Control de los asientos
 Una vez que se sellan los sellos aduaneros, el compartimento de carga debe permanecer sellado en tránsito; cualquier rotura, carga trans o daño debe ser manejado bajo el procedimiento TIR en lugar de informalmente. Por eso, la seguridad de carga y la construcción de compartimentos importan antes de la salida.
-
 ## China cronología y la expansión 2026
-China se adhirió en 2016, movido a la aplicación en todo el país en 2019,  and  the captured 2026 China customs measures **expand the applicable scope** (incluidos escenarios adicionales como el tráfico bajo fianza del comercio electrónico transfronterizo). Tratar la lista precisa de alcance de 2026 y detalles efectivos como un tiempo sensible y confirmar contra el anuncio actual de GACC.
-
+China se adhirió en 2016, movido a la aplicación en todo el país en 2019, and the captured 2026 China customs measures expand the applicable scope (incluidos escenarios adicionales como el tráfico bajo fianza del comercio electrónico transfronterizo). Tratar la lista precisa de alcance de 2026 y detalles efectivos como un tiempo sensible y confirmar contra el anuncio actual de GACC.
 ## Lista de verificación de funcionamiento
 1. Confirme la ruta cruza las partes contratantes TIR y elija un operador/asociación autorizado por TIR.
 2. Asegurar que el vehículo/contenedor califique y obtenga el certificado de aprobación.
 3. Prepare el carnet TIR y alinee con la declaración de exportación.
 4. Preserva sellos aduaneros en tránsito; maneje excepciones a través del procedimiento TIR.
 5. Confirme el alcance actual 2026 para su tipo de carga con GACC antes de reservar.
-
 ## Boundaries
 Esta guía no enumera cada parte contratante, tasa de cadena de garantía o línea de alcance 2026; son sensibles al tiempo y específicas para la ruta, y no se cotizan cargos.
-
 ## FAQ
-**Aprobación de carnet vs de vehículos?** El carnet es la garantía de envío; la aprobación certifica el vehículo sellable/contenedor.
-**¿Por qué es tan importante el sellado?** Los compartimentos sellados sustentan la garantía de tránsito; los descansos deben seguir el procedimiento TIR.
-**¿Cuándo se unió China?** 2016 adhesión, aplicación nacional de 2019, con una expansión de 2026 alcances.
-** ¿Sustituye TIR la declaración de exportación?** No, funciona junto con la declaración de exportación de China.
+Aprobación de carnet vs de vehículos? El carnet es la garantía de envío; la aprobación certifica el vehículo sellable/contenedor.
+¿Por qué es tan importante el sellado? Los compartimentos sellados sustentan la garantía de tránsito; los descansos deben seguir el procedimiento TIR.
+¿Cuándo se unió China? 2016 adhesión, aplicación nacional de 2019, con una expansión de 2026 alcances.
+ ¿Sustituye TIR la declaración de exportación? No, funciona junto con la declaración de exportación de China.
 ¿Cubre el flete marítimo? Es un sistema de tránsito por carretera (y por carretera-intermodal); confirme el alcance modal para la ruta.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR证交验, 适用范围扩展 |
-| 海关总署公告2026年第2号（PDF原件） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | 公告全文一致性核验 |
-| 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR国际公路运输及服务指南（政策解读） | 武汉市（促进跨境贸易便利化，搜狐转载） | CN | media/industry | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国2016加入/2019全国实施/2026扩展跨境电商保税 |
-| TIR Convention, 1975 — UN Treaty Collection official text | United Nations Treaty Collection | INT | primary/independent | VERIFIED | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Official legal text of the Customs Convention on the International Transport of Goods under Cover of TIR Carnets |
-| IRU — TIR carnet system and guarantee chain | International Road Transport Union (IRU) | INT | primary/independent | VERIFIED | https://www.iru.org/ | TIR carnet issuing federation; explains the guarantee chain and controlled operator requirements |
+| Fuente | Organización | Mercado | URL | Hechos respaldados |
+| --- | --- | --- | --- | --- |
+| General Administration of Customs of China (GACC)MIIT Catalogue2026No. 2 of that year(on优化落实TIR公approx.有关事项) | GACC (China Customs) | CN | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | vehicle approval certificate, TIR证交验, 适用范围扩展 |
+| General Administration of Customs of China (GACC)MIIT Catalogue2026No. 2 of that year(PDF原件) | GACC (China Customs) | CN | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | MIIT Catalogue全文一致性核验 |
+| General Administration of Customs of China (GACC)MIIT Catalogue2026No. 2 of that year(State Council Gazette) | www.gov.cn | CN | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
+| TIRChina际公路运输及服务指南(政策analysis) | 武汉市(促进跨境贸易便利化, Sohu转载) | CN | https://m.sohu.com/a/1054225552_121106908/ | Chinese2016加入/2019全China实施/2026扩展跨境电商保税 |
+| TIR Convention, 1975 — UN Treaty Collection official text | United Nations Treaty Collection | INT | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Official legal text of the Customs Convention on the International Transport of Goods under Cover of TIR Carnets |
+| IRU — TIR carnet system and guarantee chain | International Road Transport Union (IRU) | INT | https://www.iru.org/ | TIR carnet issuing federation; explains the guarantee chain and controlled operator requirements |
+
 ## Revisión editorial
-- **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
-- **Documento revisado*: 2026-09-05
-- **Mercamiento de referencia**: CN 出境 +TIR 缔约国 (国际公约框架)
-- **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado.
-- **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
-
-## Grabación de imagen
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exact TIR International Road Transport for China Exporters
-- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
-- **ALT (12 languages)**:
-  - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
-  - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
-  - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer
-  - **ES**: TIR road transport, procurement guide del mercado chino, referencia para comprador de exportación
-  - **PT**: TIR road transport, procurement guide do mercado chinês, referência ao comprador de exportação
-  - **JA**: TIR road transport, 中国市場procurement guide・輸出バイヤー向けリファレンス
-  - **KO**: TIR road transport, 중국 시장 procurement guide, 수출 바이어 참고 자료
-  - **VI**: TIR road transport, procurement guide thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: TIR road transport, procurement guide ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: TIR road transport, procurement guide pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: TIR road transport, procurement guide السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: TIR road transport, 中国市场procurement guide·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #TIR #RoadFreight
+- Autor: AutoBridge Export Editorial Team · [authors](/authors/) · [Política editorial](/editorial-policy/)
+- Última revisión: 2026-09-05
+- Mercado de referencia: China
+- Método de verificación: Las reglas establecidas se sustentan en fuentes primarias de los reguladores y los gobiernos; las cifras contradictorias de los medios se conservan como puntos que deben verificarse en lugar de afirmarse; cada dato sensible al tiempo se remite a la autoridad designada para una confirmación actualizada.
+- Norma editorial: Investigado y redactado a partir de las fuentes citadas arriba (investigación documental; no se afirma ninguna conducción, desmontaje ni importación de primera mano). Todo punto que no pueda confirmarse de forma independiente se presenta como un elemento de verificación, no como un hecho afirmado.
+- Transparencia: La redacción y la traducción contaron con asistencia de IA. Este artículo se basa en investigación documental. No se afirma ninguna prueba de primera mano salvo que se documente explícitamente; la revisión editorial humana final sigue pendiente.

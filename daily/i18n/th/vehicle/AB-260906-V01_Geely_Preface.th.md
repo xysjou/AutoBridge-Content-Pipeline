@@ -1,96 +1,70 @@
 # Geey Preface (Xingrui): ประเทศจีน-Maget CMA อ้างอิงของ Sepan Buyer สําหรับส่งออก
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: Geey Preface (Xingrui) ส่งออกสเปก, Trims และ Buyer Checks
-- **คำอธิบาย Meta**: อ้างอิงตลาดจีนสําหรับ Geely Preface/Xingrui CMA ซีดาน: ร่างกาย  and  ขนาด 1.5T  and  2.0T ความแตกต่างแยกออกจากกัน  and  what an overseas buyer must verify by  VIN .
-- **H1**: Geey Preface (Xingrui): จีน-มาร์เก็ต CMA อ้างอิงของ Sepan Buyer สําหรับส่งออก
-- **คีย์เวิร์ดหลัก**: สเปกตรัมส่งออกแบบ Geepface Xingrui
-- **คำค้นหารอง**: Geely Preface CMA ซีดาน; Singrui มิติ; Geely พรีเฟซ 2.0T 8AT;; – – ชนิดของจีนส่งออก; แตกต่างแบบพรีเฟซฟลายไบท์
-- **URL ที่แนะนำ**: /vehicles/geely-preface/
-- **เจตนาการค้นหา**: เข้าใจ Geely preface (Xingrui): จีน-มาร์เก็ต CMA อ้างอิงของ Sdan Buyer สําหรับส่งออก: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
-- **คำแนะนำลิงก์ภายใน**: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
-- **คำแนะนำรูปภาพ**: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
-- **ข้อความ ALT**: Front three-quarter view of a Geely Preface sedan on a neutral background
-- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
-
+- ชื่อ SEO: Geey Preface (Xingrui) ส่งออกสเปก, Trims และ Buyer Checks
+- คำอธิบาย Meta: อ้างอิงตลาดจีนสําหรับ Geely Preface/Xingrui CMA ซีดาน: ร่างกาย and ขนาด 1.5T and 2.0T ความแตกต่างแยกออกจากกัน and what an overseas buyer must verify by VIN .
+- H1: Geey Preface (Xingrui): จีน-มาร์เก็ต CMA อ้างอิงของ Sepan Buyer สําหรับส่งออก
+- คีย์เวิร์ดหลัก: สเปกตรัมส่งออกแบบ Geepface Xingrui
+- คำค้นหารอง: Geely Preface CMA ซีดาน; Singrui มิติ; Geely พรีเฟซ 2.0T 8AT;; – – ชนิดของจีนส่งออก; แตกต่างแบบพรีเฟซฟลายไบท์
+- URL ที่แนะนำ: /vehicles/geely-preface/
+- เจตนาการค้นหา: เข้าใจ Geely preface (Xingrui): จีน-มาร์เก็ต CMA อ้างอิงของ Sdan Buyer สําหรับส่งออก: สิ่งที่ผู้ส่งออกหรือส่วนต่าง ๆ ต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนทําลําดับ
+- คำแนะนำลิงก์ภายใน: /vehicles/geely-boyue-l/, /vehicles/geely-galaxy-e8/, /guides/verify-chinese-car-export-supplier-history/
+- คำแนะนำรูปภาพ: A white Geely Preface CMA sedan shown from front three-quarter in a clean studio setting
+- ข้อความ ALT: Front three-quarter view of a Geely Preface sedan on a neutral background
+- ขอบเขต Schema: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 Geely Preface (Chinese name Xingrui) เป็นผลิตภัณฑ์ของ Gattle/Mid-side-side- First Friend Fily Geely ที่ถูกพัฒนาขึ้นบน CMA (CPPATAL Modical Modictionation) ร่วมกันกับผลิตภัณฑ์ Ghie-roup. สําหรับผู้ซื้อชาวต่างประเทศ ที่เดินสายมาจากประเทศจีน วินัยหลักคือ การควบคุมรุ่น: เส้นสายได้วางจําหน่ายตลอดช่วงเวลาต่าง ๆ หลายปีรุ่น โดยทั้ง 1.5-litre และ 2.0-litre เครื่องขับเคลื่อนพลังงานไฟฟ้า และตัวเลขที่อ้างถึงอํานาจต่าง ๆ แตกต่างกันไป ระหว่างการตัดและการตัดแต่งใหม่ หน้านี้ใช้อ้างอิงของ ~ Chinese-Market ~; มันไม่ใช่แผ่นข้อกําหนดทั่วไป และรายการส่งออกใด ๆ ที่ต้องมีหลักฐานแยกออกมา
-
 ## ที่พรีเฟซ นั่งอยู่ในแถว
-
 - ส่วนตัว: สี่ประตู ห้าสวาปาท ซีดานสามกล่อง เครื่องยนต์หน้าและล้อหน้า บนชานชาลาซีเอ็มเอ
 - ขนาดอ้างอิง (ตลาดจีน, เส้น Dongfangayao-rara ปัจจุบัน): 4785 × 1869 × 1469 mm ด้วยล้อล้อ 2800 mm; หมายเหตุรายการบรรทัดเก่า แสดงความยาว 4825 mm สําหรับร่างกายแบบที่แตกต่างกัน ดังนั้นความยาวตรงกับปีที่แน่นอน
 - suspenssion: MacPherson Statle ที่ด้านหน้าและหลายลิงก์ด้านหลังสอดคล้องกับผัง CMA
-
 ## พลัง งาน ที่ แปรปรวน — ทํา ให้ มัน อยู่ ต่าง หาก ไม่ ได้ โดย เฉลี่ย
-
-| รายการ | ค่าอ้างอิงของตลาดจีน | ตลาด ไทรม์ | ความมั่นใจ |
-|---|---|---|---|
-| 1.5T เทอร์โบ | 133 kW (181 PS) 290 N·m 7-speed เปียกคู่- clunch | University as 1.5T Edpis an One-source, ได้รับการยืนยันโดย VIN | ผู้โดยสาร_ปลายทาง |
-| 2.0T (ปรับตั้งเครื่องเก่า) | 175 kW (238 PS) 350 N·m (พ.ศ. 8-สปีด อ/ั/น/น/น/ม/ม/ม/ั/ต/ต/ต/ต/ต/ต/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ////ิ//ิ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// WLTC ร ม ≈ 7.15 L 100km |  older ผู้สูงอายุ/จินโช-เรรา (J) พ.ศ. 2.0T สืบค้นเมื่อ 27 พฤษภาคม 2560. สืบค้นเมื่อ 2 พฤษภาคม พ.ศ. ○
-| 2.0T (ปรับใหม่) | 200 kW/ 400 N·m (พ.ศ. Aisin 8AT  claimed 0–100 km/h ≈6.5 s | LOGE – 2025 ดงฟรังยา (Dongfangayo 2.0T) ซิงเกิล-ซอร์ส (อังกฤษ:  Dong) ยืนยัน | ผู้โดยสาร_ปลายทาง |
-
-2.0T การแสดงผลทั้งสองชุด ไม่ได้ขัดแย้งกันในข้อมูลในการแก้ไขด้วยการเลือกอย่างใดอย่างหนึ่ง: มันอยู่คนละรุ่นกัน ข้อความที่ส่งออกว่า ชื่อ 'พรีเฟซ 2.0T' โดยไม่ต้องตัดเนื้อละเอียดเป๊ะ Geely's Engronational วัสดุตะวันออกกลาง-East แสดงให้เห็นการแยกแยกวางตลาด พรีเฟซเตอร์ไฟฟ้า (ตัวอย่างเช่น 2.0TD + 7DCT ก่อสร้างภูมิภาค); ภายใต้ระเบียบวินัยแบบฉบับ ที่อาคารภูมิภาคถูกอ้างถึงเป็นรายการส่งออก  และ **not** ทําเหมือนกับคนจีน 175/200 kW trims without OEM confirmation.
-
+| รายการ | ค่าอ้างอิงของตลาดจีน | ตลาด ไทรม์ |
+| --- | --- | --- |
+| 1.5T เทอร์โบ | 133 kW (181 PS) 290 N·m 7-speed เปียกคู่- clunch | University as 1.5T Edpis an One-source, ได้รับการยืนยันโดย VIN |
+| 2.0T (ปรับตั้งเครื่องเก่า) | 175 kW (238 PS) 350 N·m (พ.ศ. 8-สปีด อ/ั/น/น/น/ม/ม/ม/ั/ต/ต/ต/ต/ต/ต/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ/ิ////ิ//ิ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// WLTC ร ม ≈ 7.15 L 100km | older ผู้สูงอายุ/จินโช-เรรา (J) พ.ศ. 2.0T สืบค้นเมื่อ 27 พฤษภาคม 2560. สืบค้นเมื่อ 2 พฤษภาคม พ.ศ. ○
+| 2.0T (ปรับใหม่) | 200 kW/ 400 N·m (พ.ศ. Aisin 8AT claimed 0–100 km/h ≈6.5 s | LOGE – 2025 ดงฟรังยา (Dongfangayo 2.0T) ซิงเกิล-ซอร์ส (อังกฤษ: Dong) ยืนยัน | ผู้โดยสาร_ปลายทาง |
+2.0T การแสดงผลทั้งสองชุด ไม่ได้ขัดแย้งกันในข้อมูลในการแก้ไขด้วยการเลือกอย่างใดอย่างหนึ่ง: มันอยู่คนละรุ่นกัน ข้อความที่ส่งออกว่า ชื่อ 'พรีเฟซ 2.0T' โดยไม่ต้องตัดเนื้อละเอียดเป๊ะ Geely's Engronational วัสดุตะวันออกกลาง-East แสดงให้เห็นการแยกแยกวางตลาด พรีเฟซเตอร์ไฟฟ้า (ตัวอย่างเช่น 2.0TD + 7DCT ก่อสร้างภูมิภาค); ภายใต้ระเบียบวินัยแบบฉบับ ที่อาคารภูมิภาคถูกอ้างถึงเป็นรายการส่งออก และ not ทําเหมือนกับคนจีน 175/200 kW trims without OEM confirmation.
 ## สัญญานรบกวน, ที่นั่ง และอุปกรณ์
-
 เวที CMA ให้รูป ระเบียงหลังแบบอิสระ ซึ่งแยกออกจากรถซีดานที่ถูกกว่าในภาคนอก เฉลิมทรงจีนสูง มีจอกลางขนาดใหญ่ หลังคาพารามิค และลักษณะนักแข่งรถ L2 คน ที่เห็นในหน้าปรับแต่งของโออีเอ็ม อุปกรณ์จําลอง เช่น ขนาดหน้าจอ, ระบบเซนเซอร์คนขับ-แอสซิส, ฟังก์ชันที่นั่ง — เป็นอุปกรณ์แยกส่วน และการเปลี่ยนแปลงตามรูปแบบปี ดังนั้น จงสร้างลําดับต่อกับแผ่นการปรับแต่งสําหรับ SKU จริง แทนที่จะใช้รายการคุณสมบัติทั่วไป
-
 ## ราคาตลาดจีนไม่ใช่ราคาส่งออก
-
 ราคาผู้ผลิตจีนเป็นรายการอ้างอิงเท่านั้น มันเป็นเวลาที่ไว, แตกต่างกันไปโดยการตัดแต่งและส่งเสริม, และจะต้องไม่เคยถูกแปลงเป็น paint FOB/CIF สําหรับการตัดสินใจซื้อที่ดิน ใช้ CTA ด้านล่างนี้ และระบุปลายทาง ปริมาณ การตัด แต่ง และ Inccodia
-
 ## ผู้ซื้อข้ามทวีปตรวจสอบสิทธิ์การขอเงินก่อนการฝาก
-
 1. ล็อกปีจําลองและการตัดแต่งเป๊ะๆ แล้วทําแผนที่เครื่องยนต์ (1.5T vs) ซึ่งวัดได้ 2.0T ตัว กับ SKU ในการเขียน
 2. ยืนยันพวงมาลัย: รถขายจีนเป็นไดรฟ์ซ้ายมือ; ไม่มีหลักฐานโออีเอ็มยืนยันโรงงาน ด้านขวาขับเคลื่อนที่นี่ดังนั้นตลาด RHD จําเป็นต้องมีคําตอบแยก
 3. ดึงประกาศ MIT/CC (บันทึกการปฏิบัติตาม) สําหรับโมเดลการออกเสียงที่แน่นอน เพื่อยืนยันมิติ, เครื่องยนต์และระบบปล่อยก๊าซ
 4. อย่าสมมุติว่า 'Preface' ภูมิภาคที่ขายในตลาดอ่าวเท่ากับรถจีนที่มีพลังงานหรืออุปกรณ์ — ขอแผ่นขายตลาด-เอเอ็ม (OEM)
 5. ตรงกับ VIN ในสัญญา, ในใบแจ้งหนี้, B/L และ CC ก่อนจ่ายงบ
-
 ## ส่งออกการพิจารณาสําหรับซีดานนี้
-
 - Eptions/fuel: รถน้ํามันจีน ประกอบด้วยเชื้อเพลิงจีน และจีน 6 เวที; ปลายทางและระดับพลังงานเชื้อเพลิงต้องตรวจสอบ
 - การแจ้งข้อมูล และการบริการที่เชื่อมต่อกัน: หน่วยหัวหน้าตลาดจีน อาจจะขาดภาษาปลายทาง, แอพสโตร์, แอพ, แพ็ค หรือ ความถี่ — ทดสอบก่อนสั่ง.
 - Warranty: การรับประกันของจีนในประเทศไม่ได้โอนไปยังต่างประเทศโดยอัตโนมัติ;
-
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
-
-ออโต้ไบริดจ์ไม่ได้ลงราคาการส่งออกที่คงที่สําหรับพรีเฟซ ส่งประเทศปลายทาง,  Quantity, Trim, LHD/RHD, ปลายทางพอร์ตและอินโคเม็ต รับคําขวัญปัจจุบันกับชื่อ, VIN-Vievefiable building.
-
+ออโต้ไบริดจ์ไม่ได้ลงราคาการส่งออกที่คงที่สําหรับพรีเฟซ ส่งประเทศปลายทาง, Quantity, Trim, LHD/RHD, ปลายทางพอร์ตและอินโคเม็ต รับคําขวัญปัจจุบันกับชื่อ, VIN-Vievefiable building.
 ## ขนาด FAQ
 "Geely Preface แบบเดียวกับซิงรุยรึเปล่า" ~
-
 ชิงรุยเป็นชื่อในประเทศจีน สําหรับรุ่น แต่ภาษาจีนและเขตการปกครองและระบบไฟฟ้าในภูมิภาคต่างกัน
-
 ~
-
 ตลาดจีนเสนอเงิน 1.5T และ 2.0T เครื่องเร่งอนุภาค-เครื่องหมุนไฟฟ้า 2.0T ที่มีอยู่ใน 175 kW และใหม่ 200 kW เครื่องสําหรับรุ่นที่แตกต่างกัน จึงได้รับการยืนยันโดยการตัดลายละเอียดที่แน่นอน
-
 "มันอยู่ข้างหน้าหรือขับเป็นล้อ" ~
-
 พรีเฟซของจีน ขับเคลื่อนหน้าล้อข้ามเส้นอ้างอิง
-
 มีโรงงานขับเคลื่อนแบบมือขวารึเปล่า ~
-
 ไม่มีเวอร์ชัน RHD ที่ถูกจัดตั้งขึ้นโดยแหล่งตลาดจีนที่นี่; RHD etchlection ต้องการแยกหลักฐาน
-
 ~ฉันสามารถใช้ราคาจีนเป็นราคาส่งออกได้ไหม~ ~
-
 ไม่ — ราคาคู่มือจีนเป็นการอ้างอิงที่ไวต่อเวลาของครัวเรือนเท่านั้น ขอการเสนอชื่ออย่างเป็นทางการกับอินโคเลตและจุดหมายปลายทาง
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 2025款吉利星瑞购车参考（新款2.0T 200kW/400N·m、爱信8AT、零百6.5s） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0T新款动力, 8AT, 加速  |
-| 星瑞配置矩阵（2.0T 175kW/238Ps/350N·m 今朝版、8AT、WLTC油耗7.15） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_175081 | 老款2.0T动力, 油耗, 8AT  |
-| 星瑞1.5T+2.0T动力矩阵（1.5T 133kW/290N·m 7DCT；新款2.0T 200kW/400N·m） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5T动力, 新款2.0T, DCT  |
-| 吉利星瑞官方车型页（CMA架构、车型存在性与官方定位；页内含DHT混动版本，动力须按版本分列） | 吉利汽车官网 | CHINA | primary | VERIFIED | https://preface.geely.com/ | 车型官方身份, CMA, 悬架  |
-| 星瑞尺寸/轴距（4785×1869×1469、轴距2800） | 懂车帝车型参数页 | CHINA | independent database | CROSS_CHECKED | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | 尺寸, 轴距  |
-| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | primary | VERIFIED | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | identity — export-market reference only; Middle East powertrain differs from China trims |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify exact China homologated model/variant by VIN/announcement |
+| แหล่งที่มา | องค์กร | ตลาด | URL | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- |
+| 2025model-yearGeelyXingrui购车参考(new model2.0T 200kW/400N·m, 爱信8AT, 零百6.5s) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/23684937?isfrom=pc | 2.0Tnew versionPowertrain, 8AT, acceleration |
+| Xingruiconfigurationline-up(2.0T 175kW/238Ps/350N·m 今朝版, 8AT, WLTCfuel consumption7.15) | Sohu Auto model database | CHINA | http://db.m.auto.sohu.com/trim_175081 | 老model-year2.0Tpowertrain, fuel consumption, 8AT |
+| Xingrui1.5T+2.0TPowertrainline-up(1.5T 133kW/290N·m 7DCT; new version2.0T 200kW/400N·m) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/22397455?isfrom=pc | 1.5TPowertrain, new version2.0T, DCT |
+| GeelyXingruiofficialmodel页(CMAarchitecture, model存在性andofficial定位; 页内含DHTPHEVversion, powertrain须按version分列) | Geely汽车official website | CHINA | https://preface.geely.com/ | official model identity, CMA, 悬架 |
+| XingruiDimensions/Wheelbase(4785×1869×1469, Wheelbase2800) | DongchedimodelSpecifications page | CHINA | https://www.dongchedi.com/auto/params-carIds-xhMjA1 | Dimensions, Wheelbase |
+| Geely Preface overseas debut (Saudi Arabia) — OEM news | Geely Auto Global | EXPORT | https://global.geely.com/en/news/2024/geely-preface-debuts-saudi-arabia | market reference only; Middle East powertrain differs from China trims |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify exact China homologated model/variant by VIN/announcement |
 
-## การทบทวนแก้ไข
-- ~ผู้แทน ~: AutoBridge ส่งออกไปยังทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/] สืบค้นเมื่อ [ใช้ในการแก้ไขข้อกําหนด](/ การแก้ไข- การลงรหัส- พ.ศ.
-- ~ถูกตรวจสอบแล้ว~: 2026-09-06
-- ~ตลาดแห่งความอิ่มตัว ~: SON(China-market reference specs; 右舵版本无 โอเอ็ม 证据, verify separately]（出口）
-- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา รายการที่ต้องใช้เวลา (เรต ค่าธรรมเนียม รายชื่อ ค่าปรับ ค่าอ้างอิงในประเทศ) จะต้องยืนยันอีกครั้ง ในหน้าปัจจุบันอย่างเป็นทางการ ก่อนที่จะทําการข้ามแดน
-- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-06
+- ตลาดอ้างอิง: จีน
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ

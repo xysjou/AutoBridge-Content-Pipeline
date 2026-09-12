@@ -1,98 +1,63 @@
-# JAC Junling V6 (2024/2025)——中马轻车标本和出口检查.
-
+# JAC Junling V6 (2024/2025)——中马轻车标本和export检查.
 ## SEO元数据
-- **SEO标题**: JAC 顺宁V6 轻型货车:中马货架样板与出口购买者指南
-- **Meta描述**: 中国市场JAC 连接V6辆蓝板轻型货车: 云内D25型柴油机 安康160线, 货物箱,   GVW /payload,  and  单源质量警告。
-- **H1**: JAC 顺灵V6(2024/2025)——中马轻车标本和出口检定.
-- **核心关键词**: JAC  / 江淮 骏铃V6 轻卡（Light Truck） specs export
-- **次级搜索词**: JAC   Jun宁V6出口;江淮轻车;中国货车;蓝板货车;云内D25
-- **建议URL**: /vehicles/jac-junling-v6/
-- **搜索意图**: 了解JAC Junling V6(2024/2025)——中马轻车标本和出口检查:车辆/部件出口商在承诺订购前必须核实、记录和决定什么。
-- **内链建议**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
-- **图片建议**: 现实的,文件/车辆重点的场景,说明JAC Junling V6(2024/2025)——中马轻车标本和出口检查,不进行阶段检查或有人声称.
-- **ALT文本**: 近,自然看材料和主体有关JAC Junling V6(2024/2025)——中马轻车标本与出口检查,中立背景,没有人员或检查行动显示.
-- **Schema范围**: 第+条 车辆(无产品/产出/审查)
-
+- SEO标题: JAC 顺宁V6 轻型货车:中马货架样板与export购买者指南
+- Meta描述: China市场JAC 连接V6辆蓝板轻型货车: Yunnei PowerD25型Diesel机 Ankang160线, 货物箱, GVW /payload, and 单源质量警告。
+- H1: JAC 顺灵V6(2024/2025)——中马轻车标本和export检定.
+- 核心关键词: JAC / JAC JunlingV6 轻卡（Light Truck） specs export
+- 次级搜索词: JAC Jun宁V6export;JAC轻车;China货车;蓝板货车;Yunnei PowerD25
+- 建议URL: /vehicles/jac-junling-v6/
+- 搜索意图: 了解JAC Junling V6(2024/2025)——中马轻车标本和export检查:车辆/部件export商在承诺订购前必须核实、记录和决定什么。
+- 内链建议: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
+- 图片建议: 现实的,文件/车辆重点的场景,说明JAC Junling V6(2024/2025)——中马轻车标本和export检查,不进行阶段检查或有人声称.
+- ALT文本: 近,自然看材料和主体有关JAC Junling V6(2024/2025)——中马轻车标本与export检查,中立背景,没有人员或检查行动显示.
+- Schema范围: 第+条 车辆(无产品/产出/审查)
 ## 买家背景:一辆蓝牌城市配送卡车
-日军司令部V6号(骏铃 V6号)  2024/2025)** 是中国市场上的轻型货车4.5 t 用于城市/区域分布的蓝牌类. 商用车辆购买者应在驾驶室修剪前将车辆停放在全球车辆维修、有效载荷和货物箱上。 参考市场为**中国**; 质量要求同位素确认。
-
-## 确定底盘和动力车
-- ** Engine**: 云内 D25TCIF1 2.5L 柴油 150 马力;扭矩400 N·m.
-- ** 电力线**: 安康160 + 6挡全铝变速箱 + AAM后桥.
-- ** 组件(单源镜)**:kerb 2.565,GVW 4.495,额定有效载荷1.735.
-- ** 内卡格盒**:约 4220 × 2075 × 400.
-
+日军司令部V6号(Junling V6号) 2024/2025) 是China市场上的轻型货车4.5 t 用于城市/区域分布的蓝牌类. 商用车辆购买者应在驾驶室修剪前将车辆停放在全球车辆维修、有效载荷和货物箱上。 参考市场为China; 质量要求同位素确认。
+## 确定底盘和Powertrain车
+- Engine: Yunnei Power D25TCIF1 2.5L Diesel 150 Horsepower;扭矩400 N·m.
+- 电力线: Ankang160 + 6挡全铝Gearbox + AAMRear axle.
+- 组件(单源镜):kerb 2.565,GVW 4.495,额定有效载荷1.735.
+- 内卡格盒:约 4220 × 2075 × 400.
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
-|---|---|---|---|---|---|
-| 发动机 d25 | 云内 D25TCIF1 2.5L 柴油 150 马力 存档副本. | | 中国 | 资源 | 卡车之家镜像  |
-| 引擎d25转矩 | 400 | 不详 | 中国 | 资源 | 卡车之家镜像  |
-| 电动列车 ankang160 | 安康160 + 6挡全铝变速箱 + AAM后桥 | | 中国 | 资源 | 卡车之家镜像  |
-| 缩放重量 | 2.565 | 计数 | 中国 | 资源 | 卡车之家镜像  |
-| 名人名言 - 分类 | 4.495 | 计数 | 中国 | 资源 | 卡车之家镜像  |
-| 额定有效载荷 | 1.735 | 计数 | 中国 | 资源 | 卡车之家镜像  |
-| 内置货箱 | 约4220×2075×400 | 毫米 | 中国 | 资源 | 卡车之家镜像  |
-
-## 轻卡车出口检查:大宗需要犬科的源头
-发动机和货箱数据来自一个反光卡车数据库来源,而**GVW/kerb/活载则停留在单一的镜上,必须先在360che条舟页、JAC OEM材料或MIIT公告**上确认,然后再用于装货或同化。 轮胎、后轴比和燃料箱大小没有被捕获。 这里没有确定出口和右推规格。
-
-对于城市-分配买方来说,通常引起纠纷的订单-配置点是**关于目的地市场合法装载的图表**。 中国蓝牌评级,厂房有效载荷和目的地轴载限值是三个不同的编号;卡车必须参照约束目的地规则,而不是三个中最慷慨的. 轮基和货箱长度也与转圈和当地长度限制相互作用,因此只选一个能最大限度提高音量的盒子可以制造出一种在狭窄的城市路线上尴尬的车辆. 确认GVW、kerb质量、有效载荷、轮基和箱尺寸为一个匹配的模型,并要求供应商在交存前将每个质量数字与来源挂钩。
-
+| --- | --- | --- | --- | --- | --- |
+| Engine d25 | Yunnei Power D25TCIF1 2.5L Diesel 150 Horsepower 存档副本. | | China | 资源 | Truck Home mirror |
+| 引擎d25转矩 | 400 | 不详 | China | 资源 | Truck Home mirror |
+| 电动列车 ankang160 | Ankang160 + 6挡全铝Gearbox + AAMRear axle | | China | 资源 | Truck Home mirror |
+| 缩放重量 | 2.565 | 计数 | China | 资源 | Truck Home mirror |
+| 名人名言 - 分类 | 4.495 | 计数 | China | 资源 | Truck Home mirror |
+| 额定有效载荷 | 1.735 | 计数 | China | 资源 | Truck Home mirror |
+| 内置Cargo box | 约4220×2075×400 | 毫米 | China | 资源 | Truck Home mirror |
+## 轻卡车export检查:大宗需要犬科的源头
+Engine和Cargo box数据来自一个反光卡车数据库来源,而GVW/kerb/活载则停留在单一的镜上,必须先在360che条舟页、JAC OEM材料或MIITMIIT Catalogue上确认,然后再用于装货或同化。 轮胎、后轴比和燃料箱大小没有被捕获。 这里没有确定export和右推规格。
+对于城市-分配买方来说,通常引起纠纷的订单-configuration点是on目的地市场合法装载的图表。 China蓝牌评级,厂房有效载荷和目的地轴载限值是三个不同的编号;卡车必须参照约束目的地规则,而不是三个中最慷慨的. 轮基和Cargo box长度也与转圈和当地长度限制相互作用,因此只选一个能最大限度提高音量的盒子可以制造出一种在狭窄的城市路线上尴尬的车辆. 确认GVW、kerb质量、有效载荷、轮基和箱Dimensions为一个匹配的模型,并要求供应商在交存前将每个质量数字与来源挂钩。
 ## 付款前对海外买方的核实
-1. 对照MIIT公告或JAC OEM表确认GVW 4.495 t/有效载荷1.735 t。
-2. 将货箱内侧尺寸与预定的车体匹配.
-3. 确认发动机(Yunnei D25 Ankang 160),变速箱和后轴用于零件支持.
-4. 核查柴油排放阶段和目的地GVW/许可证类别。
+1. 对照MIITMIIT Catalogue或JAC OEM表确认GVW 4.495 t/有效载荷1.735 t。
+2. 将Cargo box内侧Dimensions与预定的车体匹配.
+3. 确认Engine(Yunnei D25 Ankang 160),Gearbox和后轴用于零件支持.
+4. 核查Diesel排放阶段和目的地GVW/许可证类别。
 5. 请求当前导出报价;无。
-
 ## 财务问题
-** 有效载荷数字是否为最终数字? ** 它们是这里的单一来源;在依赖它们之前通过同源确认.
-** 有RHD版本吗? ** 来源中未证实。
-**What is the blue-plate class?** Sub-4.5 t GVW city truck in China; 目的地许可不同。
-**Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp/400 N·m 被俘线上.
-**轮胎/轴线详情在哪里? ** 未抓取; 请求 OEM 构建工作表 。
-
+ 有效载荷数字是否为最终数字? 它们是这里的单一来源;在依赖它们之前通过同源确认.
+ 有RHDversion吗? 来源中未证实。
+What is the blue-plate class? Sub-4.5 t GVW city truck in China; 目的地许可不同。
+Engine? Yunnei D25TCIF1 2.5 L diesel, 150 hp/400 N·m 被俘线上.
+轮胎/轴线详情在哪里? 未抓取; 请求 OEM 构建工作表 。
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
-| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
-| 骏铃V6 二手信息（仅线索，不作参数依据） | 58同城二手车 | CN | directory/listing | CROSS_CHECKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | primary | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## 编辑评论
-- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-05
-- **参考市场**:中国(中国市场参考;商业质量必须通过同义/VIN确认)
-- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
-- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+| 来源 | 机构 | 市场 | URL | 支撑事实 |
+| --- | --- | --- | --- | --- |
+| JunlingV6 model解析（Truck Home，经，按镜像域降一级） | Truck Home official | CN | http://m.toutiao.com/group/7281117707461247523/ | Powertrain链, Rear axle, 自重, GVW, 载质量 |
+| JunlingV6 configuration（Truck Home mirror） | Truck Home official | CN | http://m.toutiao.com/group/6889691682774876685/ | Yunnei PowerD25Specifications, 货厢 |
+| JunlingV6 model（Truck Home mirror） | Truck Home official | CN | http://m.toutiao.com/group/6807685915310293507/ | Ankang160, Gearbox |
+| JunlingV6 usedinformation | 58same-cityused车 | CN | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性lead |
+| JAC Motors official site | Anhui Jianghuai Automobile JAC JAC (OEM) | CN | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 
-## 图像记录
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
-- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
-- **ALT (12 languages)**:
-  - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
-  - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
-  - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer
-  - **ES**: JAC Junling V6 light truck, light cargo truck del mercado chino, referencia para comprador de exportación
-  - **PT**: JAC Junling V6 light truck, light cargo truck do mercado chinês, referência ao comprador de exportação
-  - **JA**: JAC Junling V6 light truck, 中国市場light cargo truck・輸出バイヤー向けリファレンス
-  - **KO**: JAC Junling V6 light truck, 중국 시장 light cargo truck, 수출 바이어 참고 자료
-  - **VI**: JAC Junling V6 light truck, light cargo truck thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: JAC Junling V6 light truck, light cargo truck ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: JAC Junling V6 light truck, light cargo truck pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: JAC Junling V6 light truck, light cargo truck السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: JAC Junling V6 light truck, 中国市场light cargo truck·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #JACJunling #LightTruck
+## 编辑评审
+- 作者: AutoBridge Export Editorial Team · [authors](/authors/) · [编辑政策](/editorial-policy/)
+- 最近核验日期: 2026-09-05
+- 参考市场: China
+- 核查方法: 已确立的规则以监管机构和政府的一手来源为依据；媒体间相互冲突的数字保留为待核验项而非直接断言；所有时间敏感事项引导至指定主管机关做最新确认。
+- 编辑标准: 依据上述来源调研并撰写（案头研究；不主张任何一手驾驶、拆解或进口经历）。凡无法独立确认之处，均作为待核验项呈现，而非作为既定事实断言。
+- 透明度: 撰写与翻译使用了 AI 辅助。本文基于案头研究，除非有明确记录，不主张任何一手测试；最终人工编辑审校尚未完成。

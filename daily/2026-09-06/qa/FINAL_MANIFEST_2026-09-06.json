@@ -1,0 +1,282 @@
+{
+ "date": "2026-09-06",
+ "articles": 20,
+ "locales": 240,
+ "article_ids": [
+  "AB-260906-G01_China_Export_Credit_Insurance_SINOSURE",
+  "AB-260906-G02_China_Customs_AEO_Advanced_Certified_Operator",
+  "AB-260906-G03_RCEP_Rules_of_Origin_Certificate_Vehicle_Parts",
+  "AB-260906-G04_China_Port_RoRo_Vehicle_Export_Booking_Terminal_Handover",
+  "AB-260906-G05_South_Africa_Vehicle_Import_ITAC_SARS_NRCS",
+  "AB-260906-G06_ISPM15_Wood_Packaging_Export_Requirements",
+  "AB-260906-G07_Kenya_Vehicle_Import_KRA_KEBS_PVoC",
+  "AB-260906-G08_China_Customs_Trade_Modes_0110_1039_Bonded",
+  "AB-260906-G09_Nigeria_Vehicle_Import_Customs_SONCAP",
+  "AB-260906-G10_Cross_Border_RMB_Settlement_CIPS_Vehicle_Export",
+  "AB-260906-V01_Geely_Preface",
+  "AB-260906-V02_Geely_Boyue_L",
+  "AB-260906-V03_Roewe_iMAX8",
+  "AB-260906-V04_Geely_Galaxy_E8",
+  "AB-260906-V05_Chery_Fulwin_A8",
+  "AB-260906-V06_SAIC_MAXUS_T90",
+  "AB-260906-V07_SAIC_MAXUS_V80",
+  "AB-260906-V08_FAW_Jiefang_J6F",
+  "AB-260906-V09_Sinotruk_HOWO_TX_Dump",
+  "AB-260906-V10_XCMG_QY25K5C_Truck_Crane"
+ ],
+ "source_scope": {
+  "PASS": 20,
+  "CONDITIONAL": 0,
+  "FAIL": 0
+ },
+ "articles_detail": {
+  "AB-260906-G01_China_Export_Credit_Insurance_SINOSURE": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G02_China_Customs_AEO_Advanced_Certified_Operator": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G03_RCEP_Rules_of_Origin_Certificate_Vehicle_Parts": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G04_China_Port_RoRo_Vehicle_Export_Booking_Terminal_Handover": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G05_South_Africa_Vehicle_Import_ITAC_SARS_NRCS": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G06_ISPM15_Wood_Packaging_Export_Requirements": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G07_Kenya_Vehicle_Import_KRA_KEBS_PVoC": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G08_China_Customs_Trade_Modes_0110_1039_Bonded": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G09_Nigeria_Vehicle_Import_Customs_SONCAP": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-G10_Cross_Border_RMB_Settlement_CIPS_Vehicle_Export": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V01_Geely_Preface": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V02_Geely_Boyue_L": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "vi",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V03_Roewe_iMAX8": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "vi",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V04_Geely_Galaxy_E8": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "vi",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V05_Chery_Fulwin_A8": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V06_SAIC_MAXUS_T90": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V07_SAIC_MAXUS_V80": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V08_FAW_Jiefang_J6F": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V09_Sinotruk_HOWO_TX_Dump": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260906-V10_XCMG_QY25K5C_Truck_Crane": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  }
+ },
+ "semantic_fail_locales": 56,
+ "semantic_fail_by_lang": {
+  "ja": 20,
+  "zh": 20,
+  "de": 2,
+  "th": 3,
+  "ko": 4,
+  "ar": 2,
+  "vi": 3,
+  "pt": 2
+ },
+ "internal_leak": 0,
+ "number_break": 0,
+ "image_rights_pass": 0,
+ "image_not_applicable_no_public_image": 20,
+ "same_locale_internal_link_fail": 0,
+ "similarity_max_by_lang": {
+  "en": 0.0556,
+  "fr": 0.0733,
+  "de": 0.0641,
+  "es": 0.0685,
+  "pt": 0.074,
+  "ja": 0.1042,
+  "ko": 0.0641,
+  "vi": 0.0634,
+  "th": 0.0553,
+  "id": 0.1629,
+  "ar": 0.1161,
+  "zh": 0.105
+ },
+ "manifest_path": "daily/2026-09-06/qa/FINAL_MANIFEST_2026-09-06.json",
+ "manifest_sha256": "2fbda6d7606b4cbe89d2d977806b7770ac4e9beaf8717039a99dcc5e79b11267"
+}

@@ -1,97 +1,72 @@
-# JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られる中国市場大きいヴァンの参照
+# JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られるChina市場大きいヴァンの参照
 ## SEOメタデータ
-- **SEOタイトル**: JMC  Ford Transit T8 China-Market Van Specs  and  輸出チェック | オートブリッジ
-- **メタディスクリプション**: JMCの中国市場参照 フォード・トランジットT8の大きいバン: three wheelbases, 中/高屋根,  two diesel lines kept separate, 貨物容積,  and  なぜ、グローバルフォードトランジットと同一と仮定されていないのですか?
-- **H1**: JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られる中国市場大きいヴァンの参照
-- **主要キーワード**: JMC  Ford Transit T8 export specs
-- **関連検索語**: 江铃福特全顺 T8; トランジットT8寸法; T8貨物量; 2.3Tディーゼル8ATバン; 中国大型バン輸出; Quanshun T8
-- **推奨URL**: /vehicles/jmc-ford-transit-t8/
-- **検索意図**: JMCフォード・トランジットT8 (Quanshun T8)に耐えて下さい:Wheebase、屋根および貨物容積のまわりで造られる中国市場大きいヴァン参照:車/部品輸出者が順序に託す前に確認し、文書をし、決定しなければならないか。
-- **内部リンク候補**: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
-- **画像候補**: JMC フォード・トランジット T8 の側面のプロフィールから示される高い屋根の貨物バンは長さを表示するために
-- **ALTテキスト**: 中立地面の高屋根JMCフォード・トランジットT8のバンの側面のプロフィール
-- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Price/Review/Rating)
-
-JMCフォード・トランジットT8 (江铃福特全顺 T8)は中国のJianglingモーターによって造られる大型バン/大バス プラットホームです、 乗客で販売  and  複数のホイールベースに貨物フォーム  and  屋根の高さ, リアホイール駆動で  and  four-wheel-drive configurations. 市販の買い手にとって、注文ロジックは幾何学的です。 **ホイールベース×ルーフ高さ×ボディスタイル×エンジン**は、車両を定義し、その修飾子なしで「Transit T8」が不足しています。 このページは**中国語市場の参考**です。 It keeps the two diesel lines separate  and  — 重要なのは、** は、グローバル・フォード・トランジットで JMC ビルド・クアンスン T8 を装備していません。 同じモデルのOEMステートメントが関連しているのではなく、同一証明されていない。
-
+- SEOタイトル: JMC Ford Transit T8 China-Market Van Specs and 輸出チェック | オートブリッジ
+- メタディスクリプション: JMCのChina市場参照 フォード・トランジットT8の大きいバン: three wheelbases, 中/高屋根, two diesel lines kept separate, 貨物容積, and なぜ、グローバルフォードトランジットと同一と仮定されていないのですか?
+- H1: JMCフォード・トランジットT8 (Quanshun T8):ホイールベース、屋根および貨物容積のまわりで造られるChina市場大きいヴァンの参照
+- 主要キーワード: JMC Ford Transit T8 export specs
+- 関連検索語: 江铃福特全顺 T8; トランジットT8寸法; T8貨物量; 2.3Tディーゼル8ATバン; China大型バン輸出; Quanshun T8
+- 推奨URL: /vehicles/jmc-ford-transit-t8/
+- 検索意図: JMCフォード・トランジットT8 (Quanshun T8)に耐えて下さい:Wheebase、屋根および貨物容積のまわりで造られるChina市場大きいヴァン参照:車/部品輸出者が順序に託す前に確認し、文書をし、決定しなければならないか。
+- 内部リンク候補: /vehicles/saic-maxus-g90/, /vehicles/qingling-isuzu-kv100/, /guides/verify-chinese-car-export-supplier-history/
+- 画像候補: JMC フォード・トランジット T8 の側面のプロフィールから示される高い屋根の貨物バンは長さを表示するために
+- ALTテキスト: 中立地面の高屋根JMCフォード・トランジットT8のバンの側面のプロフィール
+- スキーマ範囲: Article + Vehicle (no Product/Offer/Price/Review/Rating)
+JMCフォード・トランジットT8 (江铃福特全顺 T8)はChinaのJianglingモーターによって造られる大型バン/大バス プラットホームです、 乗客で販売 and 複数のホイールベースに貨物フォーム and 屋根の高さ, リアホイール駆動で and four-wheel-drive configurations. 市販の買い手にとって、注文ロジックは幾何学的です。 ホイールベース×ルーフ高さ×ボディスタイル×エンジンは、車両を定義し、その修飾子なしで「Transit T8」が不足しています。 このページはChina語市場の参考です。 It keeps the two diesel lines separate and — 重要なのは、 は、グローバル・フォード・トランジットで JMC ビルド・クアンスン T8 を装備していません。 同じモデルのOEMステートメントが関連しているのではなく、同一証明されていない。
 ## ホイールベース/ルーフマトリクス
-
-当該ラインは三つのホイールベースで構成される — **3000,  3300  and  3750 mm ** — と組み合わせる 媒体  and  高屋根  and  乗用車(バス)と貨物(バン)の車体。 Two worked reference points illustrate the spread (それぞれを自身の構成に紐づけて保つ):
-
-| 設定 | 参照次元 | ホイールベース | 自信の秘境 |
-|---|---|---|---|
-| 中輪ベース、中屋根(例) | 5498 × 2068 × 2465/2485 mm | 3300 mm | CROSS_CHECKED |
-| ロングホイールベース、高耐荷重 | 5998×2164×2775 mm; 貨物インテリア ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | ロング | single source |
-
-5998 mm の長さは重要である: 多くの場合、それは光商業運転免許証境界で座っているので、買い手は、最も長いバージョンを注文する前に、目的地のライセンスカテゴリと車両の総質量を確認する必要があります。 貨物内部次元  and  the ≈13 m³ volume are single-source  and  変換がそれらの周りに設計される前に、JMC公式のボディービルダー/構成データに対して確認する必要があります。
-
+当該ラインは三つのホイールベースで構成される — 3000, 3300 and 3750 mm — と組み合わせる 媒体 and 高屋根 and 乗用車(バス)と貨物(バン)の車体。 Two worked reference points illustrate the spread (それぞれを自身の構成に紐づけて保つ):
+| 設定 | 参照次元 | ホイールベース |
+| --- | --- | --- |
+| 中輪ベース、中屋根(例) | 5498 × 2068 × 2465/2485 mm | 3300 mm |
+| ロングホイールベース、高耐荷重 | 5998×2164×2775 mm; 貨物インテリア ≈ 3.5 × 1.83 × 1.98 m; volume ≈ 13 m³ | ロング |
+5998 mm の長さは重要である: 多くの場合、それは光商業運転免許証境界で座っているので、買い手は、最も長いバージョンを注文する前に、目的地のライセンスカテゴリと車両の総質量を確認する必要があります。 貨物内部次元 and the ≈13 m³ volume are 単一資料 and 変換がそれらの周りに設計される前に、JMC公式のボディービルダー/構成データに対して確認する必要があります。
 ## 2本のディーゼルライン — 統合しない
-
-| ライン | 中国の市場参照 | ギアボックス | 自信の秘境 |
-|---|---|---|---|
-| 2.3Tディーゼル(2025) | 128 kW (174 PS) / 430 N·m | 8-speed 自動(8AT) | single source — によって確認します。 VIN/OEM|
-| 2.0Tディーゼル | 分離、下出力ディーゼル ライン | 6-speed マニュアル (6MT) | single source — 別の行|
-
-2.3T 8AT と 2.0T 6MT は、異なるデューティサイクルを目的とする異なるパワートレインです。彼らは平均化されず、一つとして提示する必要があります。 "T8 エンジン". リアホイールドライブは、選択した構成で提供されている4WDのベースレイアウトです。つまり、ドライブトレインは明示的に示します。 現在、単一の独立したソースで残りの部分を正確に出力し、契約前にJMC公式仕様またはMIITの均質化エントリに閉鎖する必要があります。中国式ディーゼルは、目的地の燃料グレードと排出段階の受諾をチェックする必要があります。
-
+| ライン | Chinaの市場参照 | ギアボックス |
+| --- | --- | --- |
+| 2.3Tディーゼル(2025) | 128 kW (174 PS) / 430 N·m | 8-speed 自動(8AT) |
+| 2.0Tディーゼル | 分離、下出力ディーゼル ライン | 6-speed マニュアル (6MT) |
+2.3T 8AT と 2.0T 6MT は、異なるデューティサイクルを目的とする異なるパワートレインです。彼らは平均化されず、一つとして提示する必要があります。 "T8 エンジン". リアホイールドライブは、選択した構成で提供されている4WDのベースレイアウトです。つまり、ドライブトレインは明示的に示します。 現在、単一の独立したソースで残りの部分を正確に出力し、契約前にJMC公式仕様またはMIITの均質化エントリに閉鎖する必要があります。China式ディーゼルは、目的地の燃料グレードと排出段階の受諾をチェックする必要があります。
 ## アイデンティティ境界:JMC Quanshun T8対グローバルフォード・トランジット
-
-コンプライアンスのポイントはモデルの一番大切なポイントです。 T8は、フォード・コンジョイント・ベンチャー・アレンジのもと、中国で**ジャンリング・モーターズ(JMC)**によって製造されています。 プラットフォームのリレーションと共有ブランディングは****中国のQuanshun T8は、欧州、英国などで販売されている「フォード・トランジット」に仕様、均衡管理、部品または保証で同一であることを確立していない**。 プロジェクトのモデル識別ルールごとに、明示的なOEMステートメントなしで**RELATED_MODEL SAME_MODEL**。 したがって:
-
-- 中国のT8をグローバル輸送力、寸法、安全図で記述しないでください。
-- 約束しない 書面による確認なしで中国輸出された単位のためのフォード・グローバル保証/ディーラー サポート;
+コンプライアンスのポイントはモデルの一番大切なポイントです。 T8は、フォード・コンジョイント・ベンチャー・アレンジのもと、Chinaでジャンリング・モーターズ(JMC)によって製造されています。 プラットフォームのリレーションと共有ブランディングはChinaのQuanshun T8は、欧州、英国などで販売されている「フォード・トランジット」に仕様、均衡管理、部品または保証で同一であることを確立していない。 プロジェクトのモデル識別ルールごとに、明示的なOEMステートメントなしで関連モデル 同一モデル。 したがって:
+- ChinaのT8をグローバル輸送力、寸法、安全図で記述しないでください。
+- 約束しない 書面による確認なしでChina輸出された単位のためのフォード・グローバル保証/ディーラー サポート;
 - OEM の同型ドキュメントが存在するまで、エクスポート市場移行を別々のビルドとしてラベル付けします。
-
 ## ステアリングおよび輸出境界
-
-参照された中国市場T8は**左ハンドルドライブ**です。 右手ドライブの適格性および工場輸出指定は別のOEMの証拠を要求します。 バンは頻繁に変換される(minibus、冷房、救急車、ワークショップ)のため、選択したホイールベース/屋根と変換が中国の内部レイアウトの転送を想定するのではなく、目的地のタイプ承認によって覆われていることを確認してください。
-
+参照されたChina市場T8は左ハンドルドライブです。 右手ドライブの適格性および工場輸出指定は別のOEMの証拠を要求します。 バンは頻繁に変換される(minibus、冷房、救急車、ワークショップ)のため、選択したホイールベース/屋根と変換がChinaの内部レイアウトの転送を想定するのではなく、目的地のタイプ承認によって覆われていることを確認してください。
 ## 入金前のバイヤー検証
-
 | チェック | アクション |
-|---|---|
+| --- | --- |
 | ジオメトリ | ホイールベース(3000/3300/3750)、屋根(中/高)、ボディ(パッセン/カルゴ)を筆記に固定します。 |
 | 貨物輸送 | 変換を設計する前に、JMC のボディービルダーのデータに対する内部の寸法/ボリュームを確認します。 |
 | 油圧エンジン | びん詰めにされた2.3T 8ATか2.0T 6MTはOEM/MIITに出力しました;ラインを分け続けます。 |
 | ドライブトレイン | RWD または 4WD と gross の質量/宛先 licence カテゴリを指定します。 |
 | アイデンティティ | JMC T8とOEMが同じモデルを証明するまで、関連するグローバルフォード・トランジットを扱います。 保証/部品を確認します。 |
 | 輸出入 | 別々のRHD /輸出スペックの証拠を入手してください。燃料、排出ガスおよび変換承認を確認してください。最終支払いの前にVINを交換します。 |
-
 ## よくある質問
-**トランジットT8は、ホイールベースと屋根の数はいくつありますか? ふりがな ふりがな
-
-Three wheelbases (3000/3300/3750 mm) with medium  and  高い屋根, 乗客に  and  貨物ボディ — 正確な組み合わせを指定します。
-
-**貨物の最大のバージョンとは? アパート
-
-The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior around 3.5 × 1.83 × 1.98 m  and  ≈13 m³ (single-source, 正式に確認して下さい)。
-
-**エンジンはどのようなものがありますか? アパート
-
+トランジットT8は、ホイールベースと屋根の数はいくつありますか? ふりがな ふりがな
+Three wheelbases (3000/3300/3750 mm) with medium and 高い屋根, 乗客に and 貨物ボディ — 正確な組み合わせを指定します。
+貨物の最大のバージョンとは? アパート
+The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior around 3.5 × 1.83 × 1.98 m and ≈13 m³ (単一資料, 正式に確認して下さい)。
+エンジンはどのようなものがありますか? アパート
 128 kW / 430 N·m で引用されている 2025 2.3T ディーゼル 8AT、6MT の別の 2.0T ディーゼル; それらを異なると VIN によって出力を確認してください。
-
-**中国T8は、世界規模のフォード・トランジットと同じですか? ふりがな ふりがな
-
-証拠にない:中国でJMC-ビルドされ、OEMの同型ステートメントがそうでないと証明されるまで関連モデルとして扱われます。
-
-**右手ドライブ版はありますか? アパート
-
-中国の市場バンはLHDです。 RHDおよび輸出仕様は別のOEMの証拠を必要とし、中国ラインから劣らなければなりません。
-
+ChinaT8は、世界規模のフォード・トランジットと同じですか? ふりがな ふりがな
+証拠にない:ChinaでJMC-ビルドされ、OEMの同型ステートメントがそうでないと証明されるまで関連モデルとして扱われます。
+右手ドライブ版はありますか? アパート
+Chinaの市場バンはLHDです。 RHDおよび輸出仕様は別のOEMの証拠を必要とし、Chinaラインから劣らなければなりません。
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | primary | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
-| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | primary | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
-| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
-| 搜狐汽车 | 搜狐汽车 | CHINA | media/industry | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
-| 车主之家 | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/c/215286/options/ | dim_long_cargo |
+| 出典 | 機関 | 市場 | URL | 裏付けられた事実 |
+| --- | --- | --- | --- | --- |
+| 江铃汽车OEMofficial website | 江铃汽车OEMofficial website | CHINA | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | 仕様・適用範囲の参照 |
+| 福特ChinaOEMofficial website(江铃福特合资方) | 福特ChinaOEMofficial website(江铃福特合资方) | CHINA | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | 仕様・適用範囲の参照 |
+| Truck Home(360che) | Truck Home(360che) | CHINA | https://product.m.360che.com/m726/181569_param.html | 仕様・適用範囲の参照 |
+| Autohome | Autohome | CHINA | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | 仕様・適用範囲の参照 |
+| PCauto | PCauto | CHINA | https://m.pcauto.com.cn/baike/1579485/ | 仕様・適用範囲の参照 |
+| Sohu Auto | Sohu Auto | CHINA | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | 仕様・適用範囲の参照 |
+| Autohome Used Cars | Autohome Used Cars | CHINA | https://m.16888.com/c/215286/options/ | 仕様・適用範囲の参照 |
 
 ## 編集レビュー
-- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-08
-- **参考市場**:中国(中国市场参考;2.3T/2.0T 精确功率与货厢容积为单一来源;JMC 全顺 T8 不等同全球 フォード・トランジット、无 OEM 同型证据)
-- **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 シングルソース出力、変換寸法、国内参照価格は、JMC OEMシートまたはMIITエントリーに再確認され、グローバルフォードトランジットとの同モデルステータスは、トランスフォーメーション前に明示的なOEMステートメントが必要です。
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-08
+- 参照市場: China
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

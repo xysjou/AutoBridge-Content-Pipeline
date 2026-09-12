@@ -1,127 +1,72 @@
 # Changan UNI-V 2024 — ไชน่า-มาร์เก็ต สปีดแบค ซีดาน: เครื่องยนต์, ทริมส์ และ เอ็กซ์โปลิส โน้ตเสียง
-
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: Changan UNI-V 2024 Specs: 1.5T/2.0T Friadback Sedan Explish
-- **คำอธิบาย Meta**: 2024 Changan  UNI-V  China reference specs — Blue Whale 1.5T (138 kW)  and  2.0T (171 kW) พ.ศ. 7DCT/8AT (พ.ศ. WLTC เชื้อเพลิงที่ใช้ ขนาด  and  ผู้ซื้อชี้ตัวผู้นําเข้า
-- **H1**: เชียง UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของทริม และสิ่งที่ผู้นําเข้าควรตรวจสอบ
-- **คีย์เวิร์ดหลัก**: แชงอัน UNI-V 2024 ข้อกําหนดส่งออก
-- **คำค้นหารอง**: เชียง UNI-V 1.5T ปลาวาฬสีน้ําเงิน UNI-V 2.0T 8AT, UNI-V WLTC การบริโภคเชื้อเพลิง, เชียงอันส่งส่งออกรถซีดานกลับอย่างรวดเร็วประเทศจีน
-- **URL ที่แนะนำ**: /vehicles/changan-uni-v/
-- **เจตนาการค้นหา**: เข้าใจ changan UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของไทรม และสิ่งที่ผู้นําเข้าควรตรวจสอบ: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการสั่งซื้อ
-- **คำแนะนำลิงก์ภายใน**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
-- **คำแนะนำรูปภาพ**: โพรไฟล์ด้านที่แสดงแนวแถวหลังแบบเร็ว
-- **ข้อความ ALT**: 2024 Changan UNI-V คอมแพ็กซีดานแบบเร่งความเร็วด้าน สเปกจีน
-- **ขอบเขต Schema**: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
-
+- ชื่อ SEO: Changan UNI-V 2024 Specs: 1.5T/2.0T Friadback Sedan Explish
+- คำอธิบาย Meta: 2024 Changan UNI-V China reference specs — Blue Whale 1.5T (138 kW) and 2.0T (171 kW) พ.ศ. 7DCT/8AT (พ.ศ. WLTC เชื้อเพลิงที่ใช้ ขนาด and ผู้ซื้อชี้ตัวผู้นําเข้า
+- H1: เชียง UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของทริม และสิ่งที่ผู้นําเข้าควรตรวจสอบ
+- คีย์เวิร์ดหลัก: แชงอัน UNI-V 2024 ข้อกําหนดส่งออก
+- คำค้นหารอง: เชียง UNI-V 1.5T ปลาวาฬสีน้ําเงิน UNI-V 2.0T 8AT, UNI-V WLTC การบริโภคเชื้อเพลิง, เชียงอันส่งส่งออกรถซีดานกลับอย่างรวดเร็วประเทศจีน
+- URL ที่แนะนำ: /vehicles/changan-uni-v/
+- เจตนาการค้นหา: เข้าใจ changan UNI-V 2024 (จีน): เครื่องยนต์, ความแตกต่างของไทรม และสิ่งที่ผู้นําเข้าควรตรวจสอบ: สิ่งที่ผู้ส่งออกรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการสั่งซื้อ
+- คำแนะนำลิงก์ภายใน: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
+- คำแนะนำรูปภาพ: โพรไฟล์ด้านที่แสดงแนวแถวหลังแบบเร็ว
+- ข้อความ ALT: 2024 Changan UNI-V คอมแพ็กซีดานแบบเร่งความเร็วด้าน สเปกจีน
+- ขอบเขต Schema: บทความ + แปรงทาสี (ไม่มี Prodult/ Offer/Price/ Review/Ring)
 ## รถ คัน นี้ คือ อะไร?
-
-รถซีดานคันเล็กของ UNI-V เป็นรถซีดานหลังคันเล็กของเชียงอันน์ — ห้าประตู ห้าคัน โมเดลรถปิโตรเลียมแบบเดียว กับรถติดหลังคาแบบรัฐประหาร และรถพังหลังที่ใช้งานได้ดี เกรดสูงสุด มันเป็นรถยูไนเซชัน (สายดิน) เล็งไปที่ผู้ซื้อที่ต้องการแว่นสปอร์ต แทนที่จะเป็นรถเอสยูวี หรือเครื่องกําเนิดไฟฟ้าที่ได้รับความนิยม เอกสารหน้าเว็บนี้ **2024 China-market line (REFERENCE MARKET: หอบ) ~ การตัดแต่งแบบตัวแทน 1.5T 尊贵型, 1.5T 尊享 智慧领航 คะแนน  and  2.0T รุ่น. เชียงันยังได้ส่ง UNI-V ส่งไปตลาดต่างประเทศที่ถูกเลือก แต่ต้องอ่านข้อกําหนดการส่งออกจากสื่อของทางการค้าที่ปลายทาง
-
+รถซีดานคันเล็กของ UNI-V เป็นรถซีดานหลังคันเล็กของเชียงอันน์ — ห้าประตู ห้าคัน โมเดลรถปิโตรเลียมแบบเดียว กับรถติดหลังคาแบบรัฐประหาร และรถพังหลังที่ใช้งานได้ดี เกรดสูงสุด มันเป็นรถยูไนเซชัน (สายดิน) เล็งไปที่ผู้ซื้อที่ต้องการแว่นสปอร์ต แทนที่จะเป็นรถเอสยูวี หรือเครื่องกําเนิดไฟฟ้าที่ได้รับความนิยม เอกสารหน้าเว็บนี้ 2024 China-market line (REFERENCE MARKET: หอบ) ~ การตัดแต่งแบบตัวแทน 1.5T Premium trim, 1.5T premium smart pilot trim คะแนน and 2.0T รุ่น. เชียงันยังได้ส่ง UNI-V ส่งไปตลาดต่างประเทศที่ถูกเลือก แต่ต้องอ่านข้อกําหนดการส่งออกจากสื่อของทางการค้าที่ปลายทาง
 ## เครื่องยนต์ออนไลน์ และ มติ 1.5T vs 2.0T
-
 ไม่เหมือนกับเครื่องไฟฟ้าแบบพลังงานเดียว EV การตัดสินใจซื้อยูเอ็นไอ-วี เริ่มต้นที่เครื่องยนต์ และสองทางเลือกที่ใช้การติดต่อที่แตกต่างกัน
-
 | แพลนโทรล | กลไก | พลัง แรงบิด | การส่ง | ความเร็วสูงสุด | WLTC ผนวกเชื้อเพลิง |
-|---|---|---|---|---|---|
-| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); พ. 2013/ii.8 กลาญ – – เ ่อ ค น ่อ น น ่อ น น ่อ  7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ 6.2 (高能版) (พ.ศ. ○
+| --- | --- | --- | --- | --- | --- |
+| 1.5T ปลาวาฬสีฟ้า) | เทอร์โบ L4 เครื่องสูบน้ํา | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (Premium trim); พ. 2013/ii.8 กลาญ – – เ ่อ ค น ่อ น น ่อ น น ่อ 7 กรกฎาคม 2015. สืบค้นเมื่อ 20 พฤษภาคม พ.ศ. ( ศ 6.2 (high-energy trim) (พ.ศ. ○
 | 2.0T | เทอร์โบ L4 เครื่องสูบน้ํา | 171 kW (233 PS) 390 N·m | 8-speed กังหันลม-เครื่องหมุนอัตโนมัติ (8AT). | 215 km/h | 6.9 L/100 km |
-
 สีฟ้า 1.5T ตัวเลขปลาวาฬและ 7DCT เปิดใช้งาน ร่วมกับเว็บไซต์ของเชียง และตรงกับฐานข้อมูลรถ 2.0T ผลผลิต 8AT และเชื้อเพลิงของสารนี้ คือ CROSS_CHECEEED ไปทั่ว PCUTO และ Auto Home. หมายเหตุที่แยกชุดเกียร์: 1.5T ใช้คู่น้ําเปียก ในขณะที่ 2.0T ใช้แบบทั่วไป 8-speed อัตโนมัติ — ความแตกต่างที่มีความหมายสําหรับผู้ซื้อเรือโดยสารที่ชอบความยืดหยุ่นแบบหมุนตัวแบบหมุน และบางอย่างที่จะระบุอย่างชัดเจนในลําดับการสั่งซื้อแทนการสมมุติ "อัตโนมัติหมายถึง เกียร์เดียวกัน".
-
 ค่าค่าเติมเชื้อเพลิงที่มากกว่าการใช้วงจร ~WLTC ~ ที่ได้รับการเผยแพร่ในตารางค่าปรับแต่งจีน; ตัวจริง-โลกและตัวเลขที่ผ่านกําหนดปลายทางจะแตกต่างกัน ดังนั้นใช้มันเพื่อเปรียบเทียบระหว่างค่าเศษไม้ ไม่ใช่เป็นหลักประกันในจํานวนตลาด
-
 ## คุณ จะ ทํา อย่าง ไร?
-
-ความยาวมากกว่าทั้งหมด คือรูปหนึ่งที่เปลี่ยนไปตามเกรด  so a single "UNI-V length" quoted without trim is imprecise:
-
+ความยาวมากกว่าทั้งหมด คือรูปหนึ่งที่เปลี่ยนไปตามเกรด so a single "UNI-V length" quoted without trim is imprecise:
 | รายการ | ค่า |
-|---|---|
-| ความยาว x ความกว้างคงที่ | 4720 ×1838 × 1430 mm (1.5T 尊贵型); 4680 mm (高能版); 4705 mm (2.0T)). |
+| --- | --- |
+| ความยาว x ความกว้างคงที่ | 4720 ×1838 × 1430 mm (1.5T Premium trim); 4680 mm (high-energy trim); 4705 mm (2.0T)). |
 | เบสของล้อ | 2750 mm (ทุกราย ได้รับการยืนยันอย่างเป็นทางการ) |
 | การ ชด ใช้ | ด้านหน้า MacPherson อิสระ ด้านหลังหลายลิงก์ |
 | ร่างกาย | 5-door 5-seat สปีดแบ็ก (พ.ศ. |
-| น้ําหนักของเส้นโค้ง | ~ 1415 kg สําหรับ 1.5T 尊享型 (single-sources: Auto home — ได้รับการยืนยันเมื่อ VIN แผ่น) |
-
+| น้ําหนักของเส้นโค้ง | ~ 1415 kg สําหรับ 1.5T premium型 (แหล่งเดียวs: Auto home — ได้รับการยืนยันเมื่อ VIN แผ่น) |
 มาตรา 2750 mm ล้อและหลังที่อิสระ รองรับช่วง มีรายละเอียดและความยาวที่แตกต่างกัน เพราะน้ําหนักตามท้องถนนตอนนี้วางอยู่บนแหล่งเดียว จึงทําให้ 1415 kg เป็นเครื่องหมายการค้า จนกว่าจะตรงกับแผ่นควบคุมของรถ
-
 ## ไตรมและเอควิพเมนท์ เกรด
-
-2024 จังหวัดจีนมีระดับประมาณ 1.5T คะแนน (高能, 尊贵, 尊享, 智慧领航) และ 2.0T เกรด (พ.ศ. สําหรับลําดับการส่งออก วิธีการปฏิบัติคือการร้องขอตัวแบบ sections chool exact lections จากจีน รวมทั้งรายการอุปกรณ์ * สําหรับแต่ละหน่วย: แพกเกจกีฬา, ตัวทําลายที่ใช้งานอยู่, คุณสมบัติไดรเวอร์ และขนาดหน้าจอที่ย้ายระหว่างเกรด และชื่อระดับชั้นหนึ่ง ไม่ได้แปลชื่อแบบหนึ่งสําหรับหนึ่ง ไปเป็นชื่อแบ่งต่างประเทศ（经典运动）
-
+2024 จังหวัดจีนมีระดับประมาณ 1.5T คะแนน (high-energy, Prestige, premium, smart pilot trim) และ 2.0T เกรด (พ.ศ. สําหรับลําดับการส่งออก วิธีการปฏิบัติคือการร้องขอตัวแบบ sections chool exact lections จากจีน รวมทั้งรายการอุปกรณ์ * สําหรับแต่ละหน่วย: แพกเกจกีฬา, ตัวทําลายที่ใช้งานอยู่, คุณสมบัติไดรเวอร์ และขนาดหน้าจอที่ย้ายระหว่างเกรด และชื่อระดับชั้นหนึ่ง ไม่ได้แปลชื่อแบบหนึ่งสําหรับหนึ่ง ไปเป็นชื่อแบ่งต่างประเทศ(classicSport)
 ## เชื้อเพลิง, การ ปลด ประจํา เดือน และ การ รับ ใช้ — ตรวจ สอบ เมื่อ ถึง จุด หมาย ปลาย ทาง
-
 ในฐานะรถน้ํามันจีน UNI-V ถูกดัดแปลงและรับรองตามมาตรฐานของจีน และเชื้อเพลิงปั๊มจีน ตารางข้อเท็จจริงนี้ ไม่ใช้~~- - ยืนยันระดับการปล่อยก๊าซยูโรหรือความต้องการ octen ต่างประเทศ และตัวนําเข้าไม่ควรแทรก: ได้รับการยืนยัน (a) มาตรฐานการปล่อยก๊าซของประเทศยอมรับและไม่ว่ารถที่วัดได้จีนจะเทียบได้หรือไม่ (b) ขอแนะนําให้ใช้ระดับเชื้อเพลิงได้ และ (c) ช่วงบริการและส่วนสํารองสําหรับเครื่องยนต์บลูเวล และอุปกรณ์เกียร์ทั้งสองชนิด ก่อนที่จะดําเนินการ
-
 ## สิ่งที่เพิ่ม AutoBridge นอกเครื่องมือปรับแต่ง
-ตั้งค่ารายการตารางเครื่องยนต์และเกรด แต่ซ่อนการจับคู่ที่ทําให้เกิดความผิดพลาดลําดับ ปุ่มพิมพ์ลัด ** เครื่องยนต์ **  and  เกียร์บ็อกกิ้งคู่ (1.5T → 7DCT) 2.0T → 8AT) บนแผ่นกระดาษแผ่นไม้วีเอ็น (VIN) พ.ศ.  records the **grade-specific body length** เพื่อไม่ให้เอกสารใช้ความยาวเดียวกันกับคนละเกรด,  and  ธงที่เครื่องปรับอุณหภูมิของจีนยังคงต้องการปลายทาง การปล่อยก๊าซและไฟก่อนการฝากเงิน
+ตั้งค่ารายการตารางเครื่องยนต์และเกรด แต่ซ่อนการจับคู่ที่ทําให้เกิดความผิดพลาดลําดับ ปุ่มพิมพ์ลัด เครื่องยนต์ and เกียร์บ็อกกิ้งคู่ (1.5T → 7DCT) 2.0T → 8AT) บนแผ่นกระดาษแผ่นไม้วีเอ็น (VIN) พ.ศ. records the grade-specific body length เพื่อไม่ให้เอกสารใช้ความยาวเดียวกันกับคนละเกรด, and ธงที่เครื่องปรับอุณหภูมิของจีนยังคงต้องการปลายทาง การปล่อยก๊าซและไฟก่อนการฝากเงิน
 ## การสั่งซื้อและการชําระหนี้ก่อน
 - ยืนยันผังแป้นพิมพ์แบบย่อบนใบรับรอง MIT สําหรับการตัดลายเป๊ะ ๆ: ข้อมูลอ้างอิงที่จับได้ ไม่ได้ระบุการปรับแต่งไดรฟ์ ดังนั้น อย่าถือว่าเป็นไดรฟ์หน้ารถง่าย ๆ จากภาคกีฬา
-
-- Record engine (1.5T vs 2.0T) **and** transmission (7DCT vs 8AT) — they are paired, แลกเปลี่ยนไม่ได้
+- Record engine (1.5T vs 2.0T) and transmission (7DCT vs 8AT) — they are paired, แลกเปลี่ยนไม่ได้
 - จับภาพเกรดและความยาวที่แน่นอนของมัน; ยืนยันอุปกรณ์กับแผ่นไม้บรรทัด
 - ยืนยัน LHD/RHD สําหรับตลาดของคุณในระดับ VN
 - ตรวจสอบปลายทาง การยอมรับการปล่อยก๊าซ เชื้อเพลิง และการรับประกัน การรายงานข่าวสําหรับหน่วยที่สร้างขึ้นของจีน
 - จับคู่น้ําหนักและข้อมูลแผ่น VIN ก่อนการลงทะเบียนเสร็จ
-
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
-
 ไม่มีราคาส่งออกแบบคงที่ของออโตไบด์ RMB 108 (พ.ศ. 900–139 (พ.ศ. 900 ราคานําเที่ยวจีนเป็นเพียงแค่เวลา ไม่ใช่คําพูดของ FOB/CIF) ขอข้อมูลสดจาก กรมย่อย กรมย่อย กรมหมื่น กรมหมื่น กรมหมื่น กรมหมื่น กรมพาวุธ และ ไทรม ธีม ธีม ธีเอชดี ท่าเรือ จุดหมายปลายทาง กรมหมื่นม.
-
 ## โปรแกรมซื้อ FAQ
-
 "ยูเอ็นไอวี หรือรถน้ํามัน" 2024 จีนยูเอ็นไอ-วี ครอบคลุมที่นี่เป็นน้ํามันเร่งความเร็ว (CE); เลือกระหว่างเครื่องขับเคลื่อนน้ํามัน 1.5T ถึง 2.0T เครื่อง
-
 เครื่องยนต์ทั้งสองใช้เกียร์เดียวกันหรือไม่ ไม่ 1.5T ใช้รถคู่ ขนาด 7-speed คัน และ 2.0T คัน ใช้เครื่องหมุนเหวี่ยง 8-speed คันอัตโนมัติ
-
-~ น้ํามันใช้กันต่างกันแค่ไหน? ~ บนโต๊ะของจีน WLTC  about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
-
-**เหตุใดความยาวจึงต่างกันในแต่ละแหล่งข้อมูล?** Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm ล้อเป็นค่าคงที่
-
+~ น้ํามันใช้กันต่างกันแค่ไหน? ~ บนโต๊ะของจีน WLTC about 6.2–6.37 L/100 km for the 1.5T versus around 6.9 L/100 km for the 2.0T.
+เหตุใดความยาวจึงต่างกันในแต่ละแหล่งข้อมูล? Length varies by grade (4680–4720 mm) due to body-kit/bumper differences; 2750 mm ล้อเป็นค่าคงที่
 ~ฉันพอจะเดาได้ว่ารถจีนนี่ตรงกับมาตรฐานการปล่อยก๊าซของประเทศของฉันได้ไหม~ ไม่ — การ ถ่าย เลือด, ระดับ เชื้อ เพลิง และ รับประกัน ต้อง มี การ ตรวจ สอบ สําหรับ ตลาด แห่ง หนึ่ง ก่อน จะ สั่ง.
-
-## บันทึกรูปภาพ
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
-
 ## Sources & Verification
+| แหล่งที่มา | องค์กร | ตลาด | URL | วันที่ตรวจสอบ | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- | --- |
+| UNI-V high-energy trim official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T Premium trim configuration | Autohome (Autohome) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (PCauto) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | Curb weight |
+| New UNI-V launch report | Ifeng Auto (Phoenix Auto) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | MacPherson/multi-link suspension, drivetrain |
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
-| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
-| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
-| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | single source | Curb weight (single source) |
-| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
-
-*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is single source and must be matched to the compliance plate.*
-
-## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ ตลาดแห่งความต่อเนื่อง~: จีน 2024 ปีต้นแบบ (หน้าต้นแบบเขียว; การส่งออก UNI-V ควบคุมโดยแผ่นปลายทาง)
-- ** วิธีการปรับตั้ง *: font-official pages crossed with accessfirue; รายการต่าง ๆ ของทรัพยากรเดียว
-- **มาตรฐานด้านบรรณาธิการ**: ศึกษาและเขียนจากแหล่งที่มาที่ระบุข้างต้น (การวิจัยจากเอกสาร; ไม่มีการอ้างว่าได้ทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ระดับความเชื่อมั่นของแหล่งที่มาแสดงไว้เป็นรายข้อ; ประเด็นใดที่ไม่สามารถยืนยันได้อย่างอิสระจะนำเสนอเป็นรายการตรวจสอบ แทนที่จะระบุเป็นข้อเท็จจริง
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: จีน
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ
 #AutoBridge #VehicleExport #Changan #UNIV #PetrolSedan

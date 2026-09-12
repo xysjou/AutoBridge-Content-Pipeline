@@ -1,113 +1,77 @@
 # (هونغوجانغ) MIEV Macaron (3rd Gen) 2024: a Micro-EV يجب أن يُصَمّدَ بشكل صحيح
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Wuling Hongguang MINIEV Macaron 2024 Specs Export Notes
-- **وصف Meta**: Chinese-market 3rd-gen Wuling  MINIEV  Macaron — 3-door 4-seat micro  EV , 20 kW محرك  170/215 km  CLTC , LFP بطارية بطيئة في المقام الأول سرعة قصوى 100 km/h منطق اختيار الرتبة  and  -مصدرة
-- **H1**: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks
-- **الكلمة المفتاحية الرئيسية**: wuling hongguang miniev macaron 2024 specs
-- **مصطلحات بحث ثانوية**: MINIEV ماكارون  Wuling micro  EV  export, MINIEV 20kW،  170 215  CLTC  city car,  Wuling  LFP  small battery
-- **URL المقترح**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
-- **نية البحث**: Understand Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
-- **اقتراحات الروابط الداخلية**: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
-- **اقتراح الصورة**: 3-door جثة مع أبواب مفتوحة
-- **نص ALT**: MINIEV من أبعاد ماكرون البالغة الصغر EV
-- **نطاق المخطط**: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
-
+- عنوان SEO: Wuling Hongguang MINIEV Macaron 2024 Specs Export Notes
+- وصف Meta: Chinese-market 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, 20 kW محرك 170/215 km CLTC, LFP بطارية بطيئة في المقام الأول سرعة قصوى 100 km/h منطق اختيار الرتبة and -مصدرة
+- H1: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks
+- الكلمة المفتاحية الرئيسية: wuling hongguang miniev macaron 2024 specs
+- مصطلحات بحث ثانوية: MINIEV ماكارون Wuling micro EV export, MINIEV 20kW، 170 215 CLTC city car, Wuling LFP small battery
+- URL المقترح: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
+- نية البحث: Understand Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro- EV Specs and Export checks: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- اقتراحات الروابط الداخلية: /vehicles/byd-dolphin/ ; /vehicles/farizon-xingxiang-v6e-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /guides/container-vehicle-loading-lashing/
+- اقتراح الصورة: 3-door جثة مع أبواب مفتوحة
+- نص ALT: MINIEV من أبعاد ماكرون البالغة الصغر EV
+- نطاق المخطط: المادة + المركبات (لا منتج/منتج/تسعير/استعراض/إعادة)
 ## Buyer Context: مطابقة المنتج لقضية الاستخدام
-"الـ "هونغوجانغ مييف ماكارون سيارة كهربائية حضرية ** وليس سيارة إي في مدمجة. At **3064 mm long  and  777 kg kerb**, إنه يجلس في صف كامل تحت قفزة صغيرة - على نطاق واسع  الدلافين على نفس الفهرس **4125 mm long** with 420/520 km CLTC grades. وهذه الفجوة هي قرار الشراء بأكمله: قيمة ماكارون هي حركة المدينة القصيرة المدى في نقطة سعر صينية منخفضة جداً (**) القيود المفروضة عليها هي السرعة القصوى (** 100 km/h **)،  range (**170/215 km CLTC**), السرعة  and  حجم الكوخ (أ) أن يقوم المصدر الذي يوضعه ضد المركبات الإلكترونية من القطاع باء بخلق مشاكل في العائدات؛ الشخص الذي يبيعه كمنتج مُحدد في لن يفعل وتغطي هذه الصفحة ماكارون البالغ عددها 3rd-generation **، وهو العام النموذجي 2024 (الإنعاش في ماركيزت: **.
-
+"الـ "هونغوجانغ مييف ماكارون سيارة كهربائية حضرية وليس سيارة إي في مدمجة. At 3064 mm long and 777 kg kerb, إنه يجلس في صف كامل تحت قفزة صغيرة - على نطاق واسع الدلافين على نفس الفهرس 4125 mm long with 420/520 km CLTC grades. وهذه الفجوة هي قرار الشراء بأكمله: قيمة ماكارون هي حركة المدينة القصيرة المدى في نقطة سعر صينية منخفضة جداً القيود المفروضة عليها هي السرعة القصوى ( 100 km/h )، range (170/215 km CLTC), السرعة and حجم الكوخ (أ) أن يقوم المصدر الذي يوضعه ضد المركبات الإلكترونية من القطاع باء بخلق مشاكل في العائدات؛ الشخص الذي يبيعه كمنتج مُحدد في لن يفعل وتغطي هذه الصفحة ماكارون البالغ عددها 3rd-generation ، وهو العام النموذجي 2024 (الإنعاش في ماركيزت: .
 ## خط القيادة والبطارية (تركيز على الشبكة المتوسطة الدخل)
 | البند | 3rd-gen ماكارون 2024 (مراجعة الصين) |
-|---|---|
+| --- | --- |
 | | 3-door, 4-seat hatchback |
 | محرك مركب مركب | 20 kW (170 km grade) |
 | كيميائي FP; ويبلغ طول درجة الـ 215 كيلومترا نحو 13.4 كيلوواط (مصدر خارجي) |
 | درجات النطاق في لجنة التجارة الدولية | 170 km 215 km |
 | السرعة القصوى | 100 km/h (مصدر خارجي) |
 | وزن الكرنب | 777 kg (مصدر خارجي) |
-| الشحن | (أ) تُحمّل على نحو أساسي (ج) تُهمّ بالتسديد**؛ أي شركة من البلدان النامية تسدد رسوما سريعة على درجة الـ 215 تعتمد على التشكيل (مصدر خارجي) - تؤكد على شبكة الإنترنت |
-والرقمان الرئيسيان اللذان يخلط بينهما هما الصفان المتراوحان بين الـ 170 و 215 km من اتفاقية التجارة الدولية** وأسلوب الشحن**. ومع بطء الشحن بشكل رئيسي وسرعته القصوى 100 km/h، فإن هذا المنتج داخل الطفيف؛ ويضع التوقعات في وقت الشحن وقدرة الطرق السريعة كتابة بدلا من أن يسمح للزبون باكتشافها بعد التسليم.
-
+| الشحن | (أ) تُحمّل على نحو أساسي (ج) تُهمّ بالتسديد؛ أي شركة من البلدان النامية تسدد رسوما سريعة على درجة الـ 215 تعتمد على التشكيل (مصدر خارجي) - تؤكد على شبكة الإنترنت |
+والرقمان الرئيسيان اللذان يخلط بينهما هما الصفان المتراوحان بين الـ 170 و 215 km من اتفاقية التجارة الدولية وأسلوب الشحن. ومع بطء الشحن بشكل رئيسي وسرعته القصوى 100 km/h، فإن هذا المنتج داخل الطفيف؛ ويضع التوقعات في وقت الشحن وقدرة الطرق السريعة كتابة بدلا من أن يسمح للزبون باكتشافها بعد التسليم.
 ## المنطق: 170 مقابل 215 لطلب الأسطول
 ويتقاسم كل من الصفين نفس الجسم البالغ 3064 mm وأربعة مواضع، لذلك الخيار هو قرار دورة واجبة، وليس قراراً قياسياً:
-- ** 170 km 20 kW ** - أدنى مرجع لاقتناءات (حوالي 41 روبية، 800 محلية، مراعية للوقت)؛ تناسب حلقات يومية ثابتة وقصيرة حيث تعود المركبة إلى القاعدة وبطيئة الشحن بين عشية وضحاها (كامب، مجتمع البوابات، المنتجع، الإيجار القصير، الميل الأخير مع نصف قطري صغير).
-- ** 215 km 13.4 kWh ليرة لبنانية** - حوالي 46 روبية، 800 إشارة محلية؛ والسعة الإضافية تشتري مساراً رئيسياً لدورة الرسوم الجمركية، وهي الدرجة الوحيدة التي قد يظهر عليها أي حكم من أحكام البلدان النامية - وحتى هناك، فإنها تعتمد على التداول، ويجب تأكيدها حسب الشبكة السادسة عشرة**، غير المفترضة.
+- 170 km 20 kW - أدنى مرجع لاقتناءات (حوالي 41 روبية، 800 محلية، مراعية للوقت)؛ تناسب حلقات يومية ثابتة وقصيرة حيث تعود المركبة إلى القاعدة وبطيئة الشحن بين عشية وضحاها (كامب، مجتمع البوابات، المنتجع، الإيجار القصير، الميل الأخير مع نصف قطري صغير).
+- 215 km 13.4 kWh ليرة لبنانية - حوالي 46 روبية، 800 إشارة محلية؛ والسعة الإضافية تشتري مساراً رئيسياً لدورة الرسوم الجمركية، وهي الدرجة الوحيدة التي قد يظهر عليها أي حكم من أحكام البلدان النامية - وحتى هناك، فإنها تعتمد على التداول، ويجب تأكيدها حسب الشبكة السادسة عشرة، غير المفترضة.
 ويأمر فخ المشتريات بدرجـة الـ 170 في السعر لطريق يحتاج إلى أعلى من مستوى في منتصف النهار، لأن سيارة صغيرة بطيئة الأجر لا يمكن أن تسترد خلال فترة قصيرة. تقرر الحلقة اليومية أولا، ثم تختار الصف، ولا تعكسه.
-
 ## الإجازات والعائدات
-- Length width ** 3064 1493 1629 mm **
-- Wheelbase: ** 2010 mm **
-في أكثر من 3 متر فقط، الماكارون واحد من أصغر أربع عجلات في السوق الصينية. أربعة مقاعد موجودة، لكن مساحة خلفية وحجم الأمتعة هي مقياس السيارات الصغيرة، "4-seat" تعني استخداماً حضرياً من حين لآخر، وليس راحة من أربعة أقوياء. كما أن البصمة الصغيرة هي ميزة التحميل: فأكثر الوحدات في الحاوية من السيارة التقليدية، ولكن العد الدقيق لا يزال يعتمد على خطة تحميل مقاسة بالماء، وبقعة الناقل الموافق عليها** (انظر دليل تحميل الحاويات) - لا يقتبس رقماً ثابتاً من طوله وحده.
-
+- Length width 3064 1493 1629 mm
+- Wheelbase: 2010 mm
+في أكثر من 3 متر فقط، الماكارون واحد من أصغر أربع عجلات في السوق الصينية. أربعة مقاعد موجودة، لكن مساحة خلفية وحجم الأمتعة هي مقياس السيارات الصغيرة، "4-seat" تعني استخداماً حضرياً من حين لآخر، وليس راحة من أربعة أقوياء. كما أن البصمة الصغيرة هي ميزة التحميل: فأكثر الوحدات في الحاوية من السيارة التقليدية، ولكن العد الدقيق لا يزال يعتمد على خطة تحميل مقاسة بالماء، وبقعة الناقل الموافق عليها (انظر دليل تحميل الحاويات) - لا يقتبس رقماً ثابتاً من طوله وحده.
 ## برامجيات، شحنات، سلامة
-- وتستخدم البنايات الصينية واجهة الـ **GB/T**؛ ويجب التحقق من مدى التوافق فيما وراء البحار لكل شبكة اتصال من شبكة المعلومات والاتصالات في المقصد.
-- وتحمل المركبات الصغيرة جداً بهذه الأسعار ** مبسطة من محرك السائقين ومضمون السلامة** بدلاً من مركب EVs؛ ولا تعني ضمناً أن الصفائح الثلاثية لا تتضمن قائمة.
-- - درجة المصادقة **، نوع الشحن (يقتصر على أي من البلدان النامية)، ومعدل ولغات المجموعات** قبل الترتيب؛ كما أن سيارة محدودة تبلغ 100 km/h - تحتاج أيضا إلى فحص دقيق من أي قاعدة حد أدنى من السرعة أو الطرق السريعة في المقصد.
-
+- وتستخدم البنايات الصينية واجهة الـ GB/T؛ ويجب التحقق من مدى التوافق فيما وراء البحار لكل شبكة اتصال من شبكة المعلومات والاتصالات في المقصد.
+- وتحمل المركبات الصغيرة جداً بهذه الأسعار مبسطة من محرك السائقين ومضمون السلامة بدلاً من مركب EVs؛ ولا تعني ضمناً أن الصفائح الثلاثية لا تتضمن قائمة.
+- - درجة المصادقة ، نوع الشحن (يقتصر على أي من البلدان النامية)، ومعدل ولغات المجموعات قبل الترتيب؛ كما أن سيارة محدودة تبلغ 100 km/h - تحتاج أيضا إلى فحص دقيق من أي قاعدة حد أدنى من السرعة أو الطرق السريعة في المقصد.
 ## الأمر المتعلق بالحبس قبل الدفع
-تغير خطوط التليفزيون المصغرة في التركيبات من في كثير من الأحيان، لذا اغلق هذه الحقول على ورقة البناء الخاصة بالفيين المستقلين**، وليس اسم الكتيب:
-1. ** درجة الرنين (170/215) و مطابقة البطارية ** - "اسم "ماكارون" وحده لا يذكر أيهما
-2. ** رصد اعتماد** - لا يُدفع إلا ببطء التكاليف، أو أي من البلدان النامية في الصف 215؛ بالإضافة إلى معيار الموصل المادي للمقصد
-3. ** السلطة الأبوية والتقدير العالي السرعة** للصف (20 kW/ 100 km/h مرجع).
-4. ** لا يفترض الجانب التوجيهي ولغة - إدارة الصحة الإنجابية أو وحدة معلومات أساسية باللغة المحلية على مبنى الصين.
-5. ** حالة المقصد من حيث - يجب أن يظل المناخ الصغير صافياً لقواعد الوصول إلى الأسواق المحلية (انظر دليل الموافقة على اتفاقية التنوع البيولوجي).
-6. ** وثائق الشحن البحري** (UN38.3/MSDS زائداً بموجب تعديل IMDG 42-24 (مرسوم من 2026-01-01) مركبة تعمل بالليثيوم - الأيون - البطاريات مصنَّفة UN3556 مركبة، وليس التركة العامة UN3171 مركبة؛ تطبيق تفاصيل دعم البعثة على كل صحيفة وقائع الشحن البحري الحالية للبحر الأبيض المتوسط والناقل (انظر دليل الامتثال للمحيطات EV)) على الرغم من البطارية الصغيرة.
-
+تغير خطوط التليفزيون المصغرة في التركيبات من في كثير من الأحيان، لذا اغلق هذه الحقول على ورقة البناء الخاصة بالفيين المستقلين، وليس اسم الكتيب:
+1. درجة الرنين (170/215) و مطابقة البطارية - "اسم "ماكارون" وحده لا يذكر أيهما
+2. رصد اعتماد - لا يُدفع إلا ببطء التكاليف، أو أي من البلدان النامية في الصف 215؛ بالإضافة إلى معيار الموصل المادي للمقصد
+3. السلطة الأبوية والتقدير العالي السرعة للصف (20 kW/ 100 km/h مرجع).
+4. لا يفترض الجانب التوجيهي ولغة - إدارة الصحة الإنجابية أو وحدة معلومات أساسية باللغة المحلية على مبنى الصين.
+5. حالة المقصد من حيث - يجب أن يظل المناخ الصغير صافياً لقواعد الوصول إلى الأسواق المحلية (انظر دليل الموافقة على اتفاقية التنوع البيولوجي).
+6. وثائق الشحن البحري (UN38.3/MSDS زائداً بموجب تعديل IMDG 42-24 (مرسوم من 2026-01-01) مركبة تعمل بالليثيوم - الأيون - البطاريات مصنَّفة UN3556 مركبة، وليس التركة العامة UN3171 مركبة؛ تطبيق تفاصيل دعم البعثة على كل صحيفة وقائع الشحن البحري الحالية للبحر الأبيض المتوسط والناقل (انظر دليل الامتثال للمحيطات EV)) على الرغم من البطارية الصغيرة.
 ## طلب تخصيص موارد التصدير الحالية
-ولا يُنشر أي سعر ثابت للصادرات. The roughly RMB 41, 800 / 46, 800 الأرقام الصينية هي غير مألوفة مراجع مراعية للوقت - وليس FOB/CIF**. Enquire with **Destination Country · Quantity · Range Grade (170/215) · LHD/RHD · Charging Provision · Destination Port · Incoterm**.
-
+ولا يُنشر أي سعر ثابت للصادرات. The roughly RMB 41, 800 / 46, 800 الأرقام الصينية هي غير مألوفة مراجع مراعية للوقت - وليس FOB/CIF. Enquire with Destination Country · Quantity · Range Grade (170/215) · LHD/RHD · Charging Provision · Destination Port · Incoterm.
 ## الأسئلة المتكررة
-** إلى أي مدى تُدفع إلى ماكاورون الطائرة؟ ** 170 km أو 215 km من طراز CLTC حسب الرتبة؛ وهذه أرقام لدورة المدينة الصينية، وليس من نطاق الطريق السريع.
-** هل يمكن أن تشحن بسرعة؟ ** وهذا الخط بطيء في المقام الأول في دفع رسوم السفر إلى شركة AC؛ وأي حكم من أحكام هذه الشركة في الرتبة 215 مخصص للتشكيل ويجب تأكيده على شبكة الإنترنت.
-**كم هو سريع?** Reported top speed is 100 km/h — مبني للاستخدام الحضري, ليس مسيراً مُتحطماً
-** كم عدد المقاعد؟** أربعة مقاعد في 3-door، 3064 mm جسم صغير؛ الحيز الخلفي مدمج وأفضل طريقة لمعالجة ذلك على أنه من حين لآخر.
-** 170 أو 215 درجة لأسطول صغير؟** تطابق الحلقة اليومية: إن حلقات العودة القصيرة إلى القاعدة تناسب الـ 170؛ وثغرات الاستخدام الأطول أو المتوسط في اليوم تحتاج إلى الطريق الرئيسي البالغ 215، وأي خيار في العاصمة - يؤكد لكل فرد من أفراد شبكة المعلومات.
-** هل هو منافس لـ "إي في" عادي؟ لا - بجانب 4.1 متر، 420+ كيلومتر من الدلافين، فهي أصغر درجة؛ وهي تضعها كبديل للمدينة فوق القطع، وليس كعائلة للطرق السريعة.
-
-## سجل الصور
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
-  - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug
-  - **ES**: Referencia AutoBridge para compradores de exportación — Wuling Hongguang MINIEV, vehículo 100 % eléctrico
-  - **PT**: Referência AutoBridge para compradores de exportação — Wuling Hongguang MINIEV, veículo 100 % elétrico
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Wuling Hongguang MINIEV, 純電気自動車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Wuling Hongguang MINIEV, 순수 전기차
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Wuling Hongguang MINIEV, xe thuần điện
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Wuling Hongguang MINIEV, รถยนต์ไฟฟ้า 100%
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Wuling Hongguang MINIEV, kendaraan listrik murni
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
-  - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
-
+ إلى أي مدى تُدفع إلى ماكاورون الطائرة؟ 170 km أو 215 km من طراز CLTC حسب الرتبة؛ وهذه أرقام لدورة المدينة الصينية، وليس من نطاق الطريق السريع.
+ هل يمكن أن تشحن بسرعة؟ وهذا الخط بطيء في المقام الأول في دفع رسوم السفر إلى شركة AC؛ وأي حكم من أحكام هذه الشركة في الرتبة 215 مخصص للتشكيل ويجب تأكيده على شبكة الإنترنت.
+كم هو سريع? Reported top speed is 100 km/h — مبني للاستخدام الحضري, ليس مسيراً مُتحطماً
+ كم عدد المقاعد؟ أربعة مقاعد في 3-door، 3064 mm جسم صغير؛ الحيز الخلفي مدمج وأفضل طريقة لمعالجة ذلك على أنه من حين لآخر.
+ 170 أو 215 درجة لأسطول صغير؟ تطابق الحلقة اليومية: إن حلقات العودة القصيرة إلى القاعدة تناسب الـ 170؛ وثغرات الاستخدام الأطول أو المتوسط في اليوم تحتاج إلى الطريق الرئيسي البالغ 215، وأي خيار في العاصمة - يؤكد لكل فرد من أفراد شبكة المعلومات.
+ هل هو منافس لـ "إي في" عادي؟ لا - بجانب 4.1 متر، 420+ كيلومتر من الدلافين، فهي أصغر درجة؛ وهي تضعها كبديل للمدينة فوق القطع، وليس كعائلة للطرق السريعة.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
-| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
-| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | single source | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
-| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | single source | ≈13.4 kWh, charging method |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
+| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
+| 2024 Macaron 215 (dimensions/kerb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
+| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | ≈13.4 kWh, charging method |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | Verify the manufacturer, approved model and homologation (MIIT Catalogue) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | Electric-vehicle electrical/functional safety requirement basis |
 
-*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
-
-## استعراض التحرير
-- ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: الصين، 3rd-gen ماكارون MY2024 (مراجع السوق الصينية)
-- ** طريقة التحقق**: التحقق من البيانات المتعددة؛ والبنود ذات الموارد الوحيدة التي أُشير إليها؛ وقيمة الشراء المضافة التي تستند فقط إلى وقائع مكتملة بالفعل، ولا توجد أرقام خارجية جديدة
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.
 #AutoBridge #VehicleExport #Wuling #HongguangMINIEV #MicroEV

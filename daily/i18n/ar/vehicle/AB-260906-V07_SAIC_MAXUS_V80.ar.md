@@ -1,91 +1,67 @@
 # SAIC MAXUS Xintu V80: China-Market Diesel Large Van Minibus Export Reference
 ## بيانات SEO الوصفية
-- **عنوان SEO**: SAIC   MAXUS  V80 (Xintu) Diesel Van & Minibus Export Specs Guide
-- **وصف Meta**: Chinese-market reference for the  SAIC   MAXUS  Xintu V80  PRO  large van/minibus: 2.0T ديزل، يدويا/ AMT، متغيرات طول مقعد، و GVW وثيقة/حمولة، يجب أن يحصل عليها مشتري التصدير.
-- **H1**: SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference
-- **الكلمة المفتاحية الرئيسية**: SAIC   MAXUS  V80 van export specs
-- **مصطلحات بحث ثانوية**: MAXUS  V80 diesel van; Xintu V80 PRO 2.0T; V80 مقعداً من مقاعد الباصات الصغيرة؛ MAXUS شاحنة كبيرة؛ شاحنة تصدير
-- **URL المقترح**: /vehicles/saic-maxus-v80/
-- **نية البحث**: Understand SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
-- **اقتراحات الروابط الداخلية**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- **اقتراح الصورة**: شاحنة كبيرة من طراز SAIC MAXUS V80 ظهر في صورة جانبية لعرض طول جسم الشحن
-- **نص ALT**: Side profile of a SAIC Xintu V80 large van showing the long cargo body
-- **نطاق المخطط**: المادة + المركبات
-
-** مقترحات داخلية بشأن الروابط**: /مركبات/سيك - ماكسوس - ت90/، /مركبات/ف - جيفانغ - ي6و/، /guides/china-customs-supervision-method-0110-1039/
-- ** اقتراح مقدم**: شاحنة كبيرة من طراز SAIC MAXUS V80 من طراز سيك، موضحة في صورة جانبية لعرض طول جسم الشحنة
-- ** اقتراح**: بيان جانبي لشاحنة كبيرة من طراز SAIC MAXUS Xintu V80 يظهر جسم الشحن الطويل
-- **Schema Scope**: Article + Vehicle
-
-عائلة (سينتو) (الطريق الجديد) V80 هي سيارة (سي أيه ماكسوس) الكبيرة (بيغ-فان) ويختار المشترون التجاريون هذا المبلغ لحجم البضائع، والمقعد، والشبكة العالمية لرصد المحيطات، ولذلك تُنظَّم هذه الصفحة حول مصفوفة الجسم والوثائق التي تثبت حمولة الشحن. It covers the **2025 V80 PRO with the 2.0T diesel**; إن الـ 2.5T الأكبر سناً هو إرث من أشكال القوة ولا يُنقل إلى هذه الإشارة.
-
+- عنوان SEO: SAIC MAXUS V80 (Xintu) Diesel Van & Minibus Export Specs Guide
+- وصف Meta: Chinese-market reference for the SAIC MAXUS Xintu V80 PRO large van/minibus: 2.0T ديزل، يدويا/ AMT، متغيرات طول مقعد، و GVW وثيقة/حمولة، يجب أن يحصل عليها مشتري التصدير.
+- H1: SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference
+- الكلمة المفتاحية الرئيسية: SAIC MAXUS V80 van export specs
+- مصطلحات بحث ثانوية: MAXUS V80 diesel van; Xintu V80 PRO 2.0T; V80 مقعداً من مقاعد الباصات الصغيرة؛ MAXUS شاحنة كبيرة؛ شاحنة تصدير
+- URL المقترح: /vehicles/saic-maxus-v80/
+- نية البحث: Understand SAIC MAXUS Xintu V80: China-Market Diesel Large Van / Minibus Export Reference: what a vehicle/parts exporter must verify, document and decide before committing to an order.
+- اقتراحات الروابط الداخلية: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- اقتراح الصورة: شاحنة كبيرة من طراز SAIC MAXUS V80 ظهر في صورة جانبية لعرض طول جسم الشحن
+- نص ALT: Side profile of a SAIC Xintu V80 large van showing the long cargo body
+- نطاق المخطط: المادة + المركبات
+ مقترحات داخلية بشأن الروابط: /مركبات/سيك - ماكسوس - ت90/، /مركبات/ف - جيفانغ - ي6و/، /guides/china-customs-supervision-method-0110-1039/
+- اقتراح مقدم: شاحنة كبيرة من طراز SAIC MAXUS V80 من طراز سيك، موضحة في صورة جانبية لعرض طول جسم الشحنة
+- اقتراح: بيان جانبي لشاحنة كبيرة من طراز SAIC MAXUS Xintu V80 يظهر جسم الشحن الطويل
+عائلة (سينتو) (الطريق الجديد) V80 هي سيارة (سي أيه ماكسوس) الكبيرة (بيغ-فان) ويختار المشترون التجاريون هذا المبلغ لحجم البضائع، والمقعد، والشبكة العالمية لرصد المحيطات، ولذلك تُنظَّم هذه الصفحة حول مصفوفة الجسم والوثائق التي تثبت حمولة الشحن. It covers the 2025 V80 PRO with the 2.0T diesel; إن الـ 2.5T الأكبر سناً هو إرث من أشكال القوة ولا يُنقل إلى هذه الإشارة.
 ## مصفوفة الجسم والدور
-
-| البند | القيمة المرجعية للسوق الصينية | | الثقة |
-|---|---|---|---|
-| نوع المركبات | شاحنة صغيرة (بيق فان) أو FWD أو RWD، حسب التشكيل | CHINA · cross- checked | صرخات |
+| البند | القيمة المرجعية للسوق الصينية | |
+| --- | --- | --- |
+| نوع المركبات | شاحنة صغيرة (بيق فان) أو FWD أو RWD، حسب التشكيل | CHINA · cross- checked |
 | Option ;; Lengths œplo 4950 5490 5700 mm; المواصفات: 3100 3640 3850 من طراز CHINA source CHINA · singlesource, spec - SINGLE OURCE -
-| الجلوس | إصدارات حافلة 5–9 وما يصل إلى 15 مقعداً بالنسخة؛ ونسخ الشحنات 2/3 مقعداً | CHINA · single-source, confirm | SINGLE OURCE |
-
+| الجلوس | إصدارات حافلة 5–9 وما يصل إلى 15 مقعداً بالنسخة؛ ونسخ الشحنات 2/3 مقعداً | CHINA · مصدر واحد, confirm | SINGLE OURCE |
 لأن نفس الإسم يغطي حافلات الركاب القصيرة وشاحنات الشحن الطويلة، 'V80 ' ليس مواصفات كاملة. ويجب أن يُسمّى هذا الأمر طول الجسم، وقاعدة العجلات، ودور حافلات المركبات، وحساب المقاعد؛ وحجم الشحنات وإمكانية التنقّل تختلف اختلافا كبيرا عبر المصفوفة.
-
 ## مجموعة الحركة الحالية (2025 PRO)
-
-- ** مهندس**: الديزل 2.0T  108 kW (147 PS) 375 N·m for the 2025 PRO (cross-checked).
-- ** البعث**: 6-speed دليل أو 6-speed من طراز AMT (دليل موحَّد)، بالترايم.
+- مهندس: الديزل 2.0T 108 kW (147 PS) 375 N·m for the 2025 PRO (corroborated).
+- البعث: 6-speed دليل أو 6-speed من طراز AMT (دليل موحَّد)، بالترايم.
 - طراز 2.5T الأقدم (نحو 100 kW 330 N·m) خط إنتاج قديم ويُستبعد صراحة حتى لا تُخلط النسختان في عرض السعر.
-
 ## حمولة وشبكة GVW: الإصرار على صحيفة الحرق
-
 ? ولا يُدَّعى هنا على حمولة رُفِّض عليها وكمية الكريب ووزن المركبات الإجمالي - بل يتطلبان إعلاناً من وزارة الاستثمار مطابقة للفوضى والجسم على وجه الدقة. بالنسبة لشاحنة الشحن هذه الأرقام هي قضية الشراء بأكملها، لذا احصل عليها قبل الإيداع بدلاً من تقدير حجم الجسم.
-
 ## كيف يقيّم المشترون التجاريون V80
-
 1. حدّد المهمة (نقل ركاب، توزيع حضري، تحويل لسيارة إسعاف/معسكر) واختر طول البنية ونوع السقف وعدد المقاعد تبعاً لذلك.
 2. الحصول على الـ GVW الدقيق، وحمولة مُقيّمة وكتلة الكرب من سجل الخاص بذلك الـ (SKU).
 3. اختيار 6MT مقابل 6AMT من أجل توافر السائقين ودورة العمل؛ تأكيد مدى توافر أسلحة الدمار من أجل الهيئة المختارة.
 4. تحقق من مرحلة انبعاث الديزل وتسامح الكبريت في الوجهة؛ وتتأكد من فترات الخدمة وقطع الغيار.
 5. من أجل التحويل (المبرد، المخيم، المينيبوس)، فصل أشعة الفوضى من موافقة بناء الجسم
 6. والسوق الصينية هي وزارة الصحة؛ وأي للبيوتادايين السداسي الكلور يحتاج إلى أدلة منفصلة من منظمة أوم إيه؛ ويطابق شبكة المعلومات الشخصية في جميع الوثائق.
-
 ## اعتبارات تصدير فان
-
 وتُرفع شاحنات كبيرة في كثير من الأحيان قبل التصدير. (ب) أن يبقي على المركبة التابعة لمنظمة أوم إي إم متميزاً عن الجسد المحلي، وأن يؤكد ما إذا كانت الجهة التي تُعامل المركبة على أنها سلع من الفئة N أو ركاب من الفئة M للتسجيل، وأن يطلب اقتباساً تصديرياً من التشكيلة بدلاً من تحويل السعر المحلي الصيني الذي يراعي الوقت.
-
 ## FAQ
-** ما هو المحرك الذي يستخدمه حالياً V80؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ ما هو المحرك الذي يستخدمه حالياً V80؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 يستخدم إصدار 2025 Xintu V80 PRO محرك ديزل SAIC π 2.0T بقوة 108 kW (147 PS)/375 N·m، مع ناقل حركة يدوي 6-speed أو AMT؛ ولا يشمل هذا المرجع محرك 2.5T القديم.
-
-** كم عدد المقاعد التي بها؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ كم عدد المقاعد التي بها؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 وهو يعتمد على الصيغة: نسخ ركاب من 5–9 مقعدا إلى 15 مقعد، ونسخ الشحنات 2/3 مقعد، وتأكيد الهيئة ذاتها.
-
-** ما هي مدة الجسم المتاحة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ ما هي مدة الجسم المتاحة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 بطول يقارب 4950/5490/5700 mm وقواعد عجلات 3100/3640/3850 mm حسب الإصدار (مصفوفة من مصدر واحد يلزم تأكيدها).
-
-** ما هو حمولة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ ما هو حمولة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 ولا يقتبس من هذه الفئة عبء غير المحملة على أساس نوع الجنس - بل يجب أن تأتي من الاستثمار الدولية عن حالة الفوضى المحددة.
-
 هل هو محرك يد اليمنى؟ ♪ ♪
-
 إن إصدار السوق الصيني من V80 هو LHD؛ أما إصدار RHD أو إصدار التصدير فيتطلب أدلة منفصلة من OEM.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
-| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
-| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
+| المصدر | الجهة | السوق | الرابط | الوقائع المدعومة |
+| --- | --- | --- | --- | --- |
+| 新途V80多trimparameters(2.0T, 6MT/6AMT, Length4950/5490/5700, WB3100/3640/3850) | DongchedimodelSpecifications | CHINA | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | Powertrain, Gearbox, Dimensionsline-up |
+| V80 2025 PRO(2.0T 108kW/375N·m, 6AMT, 5-9座/15-seat, Length5490) | PCauto Encyclopedia | CHINA | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0TPowertrain, Seats, Dimensions |
+| V80van body/busversionanddimensions | Sina Auto model database | CHINA | https://db.auto.sina.cn/1354/ | body形式, dimensions |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | https://en.saicmaxus.com/ | OEM global; export V80 builds differ from China 新途V80 |
+| SAIC MAXUSMAXUS Chinaofficial | SAIC MAXUS China | CN | https://www.maxusmall.com/ | China-market official model line |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify GVW/seat/cargo variant by announcement |
 
-## استعراض التحرير
-- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-06
-- ** سوق الإحالة**: CHINA（2025 PRO 2.0T；老2.5T不入本篇；额定载质量/总质量须公告）
-- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-06
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

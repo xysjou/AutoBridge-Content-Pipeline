@@ -1,0 +1,110 @@
+{
+ "en": {
+  "max_jaccard": 0.0556,
+  "pair": [
+   "AB-260903-V04_LiAuto_L6_2024",
+   "AB-260903-V10_Farizon_V6E"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "fr": {
+  "max_jaccard": 0.0733,
+  "pair": [
+   "AB-260905-V06_Foton_GeneralG9",
+   "AB-260905-V10_AUMAN_EST"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "de": {
+  "max_jaccard": 0.0641,
+  "pair": [
+   "AB-260905-V07_Foton_Toano",
+   "AB-260905-V09_Shacman_M3000S"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "es": {
+  "max_jaccard": 0.0685,
+  "pair": [
+   "AB-260905-V06_Foton_GeneralG9",
+   "AB-260905-V07_Foton_Toano"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "pt": {
+  "max_jaccard": 0.074,
+  "pair": [
+   "AB-260905-V07_Foton_Toano",
+   "AB-260905-V09_Shacman_M3000S"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "ja": {
+  "max_jaccard": 0.1042,
+  "pair": [
+   "AB-260905-V07_Foton_Toano",
+   "AB-260905-V10_AUMAN_EST"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "ko": {
+  "max_jaccard": 0.0641,
+  "pair": [
+   "AB-260902-G01_Russia_EV_Import_Guide",
+   "AB-260902-G10_Commercial_Fleet_Procurement"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "vi": {
+  "max_jaccard": 0.0634,
+  "pair": [
+   "AB-260905-V06_Foton_GeneralG9",
+   "AB-260905-V08_JAC_JunlingV6"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "th": {
+  "max_jaccard": 0.0553,
+  "pair": [
+   "AB-260905-G05_CKD_SKD_Assembly",
+   "AB-260905-G09_CCC_Export_Exemption"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "id": {
+  "max_jaccard": 0.1629,
+  "pair": [
+   "AB-260904-V05_Chery_FulwinT9",
+   "AB-260904-V06_GAC_Trumpchi_E8"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "ar": {
+  "max_jaccard": 0.1161,
+  "pair": [
+   "AB-260903-G09_Aftersales_Network",
+   "AB-260903-G10_Sales_Contract"
+  ],
+  "manual_review": false,
+  "fail": false
+ },
+ "zh": {
+  "max_jaccard": 0.105,
+  "pair": [
+   "AB-260905-V05_Changan_CS55PLUS",
+   "AB-260905-V10_AUMAN_EST"
+  ],
+  "manual_review": false,
+  "fail": false
+ }
+}

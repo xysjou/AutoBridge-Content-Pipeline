@@ -1,89 +1,65 @@
 # Chế độ thương mại của Trung Quốc cho Xuất khẩu xe cộ: Thương mại chung (0110), quy định thị trường (1039) và chứng khoán liên kết
 ## Siêu dữ liệu SEO
-- **Tiêu đề SEO**: Các tập tục xuất khẩu Trung Quốc 0110 đấu 1039 trái phiếu cho xe cộ
-- **Meta mô tả**: Làm thế nào một người xuất khẩu xe cộ Trung Quốc chọn giữa thương mại chung (0110), thương mại kinh doanh thị trường (1039) và giám sát liên kết, bao gồm hóa đơn, phân chia thuế và biên nhận.
-- **H1**: Chế độ thương mại của Trung Quốc cho Xuất khẩu xe cộ: Thương mại chung (0110), quy định thị trường (1039) và chứng khoán liên kết
-- **Từ khóa chính**: China customs supervision method 0110 1039 bonded vehicle export
-- **Cụm tìm kiếm phụ**: Thương mại thương mại 0110 xuất khẩu; thị trường mua bán 1039; kết nối khu vực xuất khẩu; xuất khẩu lại chế độ thuế; quản lý hải quan
-- **URL đề xuất**: /guides/china-customs-supervision-method-0110-1039/
-- **Ý định tìm kiếm**: Hiểu được chế độ thương mại Trung Quốc cho Xuất khẩu xe cộ: thương mại chung (0110), quy định thị trường (1039) và quan sát chung: những gì một phương tiện/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
-- **Gợi ý liên kết nội bộ**: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
-- **Gợi ý hình ảnh**: Một tuyên bố hải quan so sánh các mã chung và các mã bảo hiểm thị trường bên cạnh các phương tiện xuất khẩu
-- **Văn bản ALT**: Có lệnh khai báo với mật mã giám sát và xuất khẩu xe cộ ở cổng ngoài
-- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
-
+- Tiêu đề SEO: Các tập tục xuất khẩu Trung Quốc 0110 đấu 1039 trái phiếu cho xe cộ
+- Meta mô tả: Làm thế nào một người xuất khẩu xe cộ Trung Quốc chọn giữa thương mại chung (0110), thương mại kinh doanh thị trường (1039) và giám sát liên kết, bao gồm hóa đơn, phân chia thuế và biên nhận.
+- H1: Chế độ thương mại của Trung Quốc cho Xuất khẩu xe cộ: Thương mại chung (0110), quy định thị trường (1039) và chứng khoán liên kết
+- Từ khóa chính: China customs supervision method 0110 1039 bonded vehicle export
+- Cụm tìm kiếm phụ: Thương mại thương mại 0110 xuất khẩu; thị trường mua bán 1039; kết nối khu vực xuất khẩu; xuất khẩu lại chế độ thuế; quản lý hải quan
+- URL đề xuất: /guides/china-customs-supervision-method-0110-1039/
+- Ý định tìm kiếm: Hiểu được chế độ thương mại Trung Quốc cho Xuất khẩu xe cộ: thương mại chung (0110), quy định thị trường (1039) và quan sát chung: những gì một phương tiện/một phần phải xác nhận, tài liệu và quyết định trước khi đưa ra một mệnh lệnh.
+- Gợi ý liên kết nội bộ: /guides/china-export-credit-insurance-sinosure/, /guides/cross-border-rmb-settlement-cips/, /guides/china-customs-aeo-certified-operator-export/
+- Gợi ý hình ảnh: Một tuyên bố hải quan so sánh các mã chung và các mã bảo hiểm thị trường bên cạnh các phương tiện xuất khẩu
+- Văn bản ALT: Có lệnh khai báo với mật mã giám sát và xuất khẩu xe cộ ở cổng ngoài
+- Phạm vi schema: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 Việc giám sát phong tục (trái) phương pháp in trên bản tuyên bố xuất khẩu không phải là một thủ tục — nó quyết định cách tuyên bố hàng hóa, liệu VAT có hỗ trợ việc hoàn trả lại hàng xuất khẩu, cách trao đổi ngoại quốc, và hàng hóa nào thậm chí đủ điều kiện. Người xuất khẩu xe cộ thường gặp thương mại chung, nhưng đôi khi được cung cấp vốn cho thị trường (1039) hoặc các tuyến đường liên kết là 'đơn giản hơn'. Trang này giải thích mỗi phương tiện, và tại sao một phương tiện hoàn chỉnh không tự động đủ điều kiện cho chế độ đơn giản.
-
 ## Thương mại chung (0110): mặc định cho xuất khẩu xe đúng
-
 Thương mại là chế độ tiêu chuẩn cho một công ty thương mại có bằng cấp hoặc nhà sản xuất xuất hàng hóa mà nó sở hữu, Đã tuyên bố dưới mã 0110. Nó đòi hỏi một chuỗi thương mại hợp lệ — mua, xuất khẩu hợp đồng, tuyên bố hải quan, biên nhận thay đổi ngoại lai — và, nơi mà người xuất khẩu là một người đóng thuế chung với hóa đơn nhập khẩu hợp lệ, đó là con đường mà người ta thường đưa ra trả lại thuế (không có thu nhập/ tín dụng). Với một xuất khẩu toàn thân cần giấy phép xuất khẩu xe/Rha, thương mại tổng quát là con đường thông thường, đầy đủ được ghi nhận.
-
 ## Thương mại bảo hiểm thị trường (1039): mục đích xây dựng cho một hồ sơ khác
-
-Các phong tục Trung Quốc định nghĩa thương mại thị trường như hàng hóa mua **swith một cụm thị trường chính thức** và được thông báo bởi một nhà điều hành đủ điều kiện, tuyên bố dưới mã 1039. GACC mô tả nó như một định dạng giao dịch mới được cuộn lại trong các mẻ các cụm phi công được công công công công công nhận biết; hàng hóa được tuyên bố thông qua hệ thống quản lý toàn diện thị trường. Mục tiêu thiết kế của nó là **smaall-batch, đa biến số** hàng hóa từ các cụm này, với cách xử lý VT đơn giản (không hoàn lại mà không có tiền trả lại dưới quy tắc thuế thích hợp cho các nhà giao dịch không thể có được các hóa đơn nhập thông thường.
-
-> Cho dù một chiếc xe toàn diện** có thể thoát dưới 1039 không phải là một chiếc có/no áp dụng trên toàn quốc: cụm thị trường tập trung vào những mặt hàng nhỏ, và tính khả quan cộng với danh sách tiêu cực phải được xác nhận với những phong tục địa phương có thẩm quyền và những người điều hành cụm trước khi chuyển hàng. Đừng cho rằng 1039 có thể cho toàn bộ xe hơi. Giá trị trần nhà và phạm vi phi công rất nhạy cảm với thời gian - sử dụng quy tắc hiện tại được công bố, không phải một con số được nhớ đến.**
-
+Các phong tục Trung Quốc định nghĩa thương mại thị trường như hàng hóa mua swith một cụm thị trường chính thức và được thông báo bởi một nhà điều hành đủ điều kiện, tuyên bố dưới mã 1039. GACC mô tả nó như một định dạng giao dịch mới được cuộn lại trong các mẻ các cụm phi công được công công công công công nhận biết; hàng hóa được tuyên bố thông qua hệ thống quản lý toàn diện thị trường. Mục tiêu thiết kế của nó là smaall-batch, đa biến số hàng hóa từ các cụm này, với cách xử lý VT đơn giản (không hoàn lại mà không có tiền trả lại dưới quy tắc thuế thích hợp cho các nhà giao dịch không thể có được các hóa đơn nhập thông thường.
+> Cho dù một chiếc xe toàn diện có thể thoát dưới 1039 không phải là một chiếc có/no áp dụng trên toàn quốc: cụm thị trường tập trung vào những mặt hàng nhỏ, và tính khả quan cộng với danh sách tiêu cực phải được xác nhận với những phong tục địa phương có thẩm quyền và những người điều hành cụm trước khi chuyển hàng. Đừng cho rằng 1039 có thể cho toàn bộ xe hơi. Giá trị trần nhà và phạm vi phi công rất nhạy cảm với thời gian - sử dụng quy tắc hiện tại được công bố, không phải một con số được nhớ đến.
 ## Giám sát liên kết: hàng hóa chưa được lưu thông trong nước
-
-Liên kết/ 特殊监管区域 lộ trình (v. d. vùng liên kết toàn diện) được giữ dưới liên kết hải quan — nhập, lưu trữ, xử lý hoặc xuất khẩu lại mà không cần bước nhập khẩu/VAT thông thường. Họ phù hợp với phân phối, xử lý đơn giản hoặc mô hình entrepôt (một trung tâm phương tiện khu vực phục vụ nhiều điểm đến, ví dụ) hơn là một xuất khẩu hàng hóa nội địa đơn giản. Di chuyển một phương tiện Trung Quốc qua một vùng liên kết thay đổi tài liệu và thuế và nên được thiết kế với khu vực và hải quan trước.
-
+Liên kết/ special customs supervision zone lộ trình (v. d. vùng liên kết toàn diện) được giữ dưới liên kết hải quan — nhập, lưu trữ, xử lý hoặc xuất khẩu lại mà không cần bước nhập khẩu/VAT thông thường. Họ phù hợp với phân phối, xử lý đơn giản hoặc mô hình entrepôt (một trung tâm phương tiện khu vực phục vụ nhiều điểm đến, ví dụ) hơn là một xuất khẩu hàng hóa nội địa đơn giản. Di chuyển một phương tiện Trung Quốc qua một vùng liên kết thay đổi tài liệu và thuế và nên được thiết kế với khu vực và hải quan trước.
 ## Bên cạnh: thay đổi gì cho người xuất khẩu
-
 | Kích thước | Thương mại chung 0110 | Market procurement 1039 | Đường đã kết nối |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Những món hàng điển hình | Chuẩn B2B incl. toàn bộ phương tiện | Hàng hóa đa thức nhỏ được công nhận | Name |
 | Hóa đơn nhập/ VAT | Dây chuyền hội nghị; hoàn lại nơi có đủ điều kiện | Mô hình không phụ thuộc vào thiết bị dẫn xuất | Phụ thuộc vào trạng thái liên kết |
 | Kênh tuyên bố | khai báo xuất chuẩn | Hệ thống dự phòng thị trường, điều hành viên đủ điều kiện | Thủ tục hải quan vùng |
 | Tầm nhìn xa của cả một nhà kính | Đường chuẩn | Xác nhận với tập tin cục bộ; không tự động | Thiết kế cho các thao tác đã kết nối, không xuất đơn giản |
 | Biên nhận FX | Biên nhận thương mại chuẩn | Bình dân mỗi lần thử nghiệm quy tắc | Thao tác kết nối |
-
 ## Một con đường để bảo vệ giao dịch xe cộ
-
 1. Nhận ra hàng hóa: phương tiện, phụ tùng hoặc phụ kiện đầy đủ — không có chung tính khả thi.
 2. Xác nhận trạng thái phần mềm của người bán và liệu có những hóa đơn nhập đúng không; điều này quyết định liệu logic hoàn trả có được áp dụng hay không.
-3. Nếu đề xuất 1039 được đưa ra, hãy xác minh bằng cách viết với các tập tục **so sánh của cụm** rằng sản phẩm chính xác không nằm trong danh sách loại bỏ và phạm vi một cửa và phạm vi phi công đang được áp dụng.
+3. Nếu đề xuất 1039 được đưa ra, hãy xác minh bằng cách viết với các tập tục so sánh của cụm rằng sản phẩm chính xác không nằm trong danh sách loại bỏ và phạm vi một cửa và phạm vi phi công đang được áp dụng.
 4. Dùng những tuyến đường nối chỉ nơi có một hoạt động liên kết chân chính; không được đi qua khu vực bán hàng bình thường để tiện.
 5. Sắp xếp chế độ thương mại với giấy phép xuất khẩu, biên nhận FX (xem việc dàn xếp RMB và hướng dẫn sử dụng tín dụng) và các hồ sơ thuế, vì vậy tất cả tài liệu đều cho cùng một câu chuyện.
-
 ## Chế độ tạo thiệt hại xuôi dòng
-
 - Không khớp với mã giám sát thực tế, mà mời gọi các phong tục thách thức; sử dụng 1039 để tránh các yêu cầu nhập khẩu hoặc giấy phép cho toàn bộ phương tiện không thể điều khiển; trích dẫn trần nhà một lần vào hoặc danh sách phi công từ một nguồn cũ; tách một kết nối và một dòng chảy nội địa mà không có giấy tờ khu vực.
-
 ## FAQ
 Bộ mã giám sát 0110 là gì?
-
 Đó là thương mại chung, chế độ chuẩn cho xuất khẩu B2B bình thường và là con đường thông thường cho xuất khẩu toàn thân được ghi nhận.
-
 1039 thương mại bảo hiểm thị trường là gì?
-
 Hàng hóa được công nhận chính thức qua các hệ thống bảo hiểm thị trường, được thiết kế cho các mặt hàng nhỏ.
-
-**Tôi có thể xuất khẩu cả một chiếc xe dưới 1039' không?**
-
+Tôi có thể xuất khẩu cả một chiếc xe dưới 1039' không?
 Không tự động — tính dễ lộ và danh sách những điều tốt bị loại trừ phải được xác nhận với các phong tục địa phương có thẩm quyền cho một cụm cụ thể.
-
-** 1039 có trả lại thuế xuất khẩu không? **
-
+ 1039 có trả lại thuế xuất khẩu không?
 Nó thường đi theo mô hình miễn dịch không phụ thuộc; thương mại với hóa đơn hợp lệ là con đường trả lại thông thường.
-
-**Là trần giá trị 1039  and  Danh sách phi công đã được sửa chưa? **
-
+Là trần giá trị 1039 and Danh sách phi công đã được sửa chưa?
 Không — chúng được cập nhật theo thời gian và nhạy cảm với thời gian; xác minh quy tắc hiện tại trước khi tuyên bố.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 国新办发布会：市场采购贸易方式三大特点（单票15万美元以下、增值税免征不退、灵活结汇） | 国务院新闻办公室 | CN | primary | VERIFIED | https://www.scio.gov.cn/32344/32345/32347/202411/3378836/zyhd3378840/Document/1780204/index.htm | 1039特点, 单票限额, 免征不退, 结汇 — 市场采购贸易政策 |
-| 市场采购贸易方式出口货物免税政策（增值税免征不退，政策解读交叉） | 搜狐(政策解读) | CN | media/industry | CROSS_CHECKED | https://www.sohu.com/a/954344950_121124294 | 增值税免征不退  |
-| 市场采购贸易方式（海关政策直通车）监管代码1039 | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2026-04/12/article_2026041211245991457.html | mode_1039_traits — definition of 1039 market-procurement trade vs general trade |
-| 市场采购出口规范申报（监管方式1039） | 中华人民共和国海关总署 | CN | primary | TIME_SENSITIVE | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241552078.html | mode_1039_traits — declaration via market-procurement system; per-entry value nhạy cảm về thời gian |
-| 1039市场采购出境货物检验检疫（海关总署公告2019年第221号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=1bc97bb83d3e4398a8c5b0de9cfc4c7b | market_cluster — pre-export inspection arrangement under 2019/221 |
-| 0110一般贸易与1039市场采购对比 | 中国国际贸易促进委员会 | CN | independent database | CROSS_CHECKED | https://www.eccpit.com/news/Y21zcG86MjAwNDI | mode_1039_traits — comparison of tax-invoice/refund traits; whole-vehicle applicability confirm with customs |
+| Nguồn | Tổ chức | Thị trường | URL | Dữ kiện được hỗ trợ |
+| --- | --- | --- | --- | --- |
+| China新办发布会: market采购贸易方式三大特点(单票15万美元以下, VAT exemption with no refund, 灵活结汇) | State Council新闻办公室 | CN | https://www.scio.gov.cn/32344/32345/32347/202411/3378836/zyhd3378840/Document/1780204/index.htm | 1039特点, 单票限额, 免征不退, 结汇 — market采购贸易政策 |
+| market采购贸易方式export货物免税政策(VAT exemption with no refund, 政策analysis交叉) | Sohu(政策analysis) | CN | https://www.sohu.com/a/954344950_121124294 | VAT exempt, non-refundable |
+| market采购贸易方式(海关policy express channel)监管代码1039 | GACC (China Customs) | CN | http://www.customs.gov.cn/customs/2026-04/12/article_2026041211245991457.html | definition of 1039 market-procurement trade vs general trade |
+| market采购export规范regulatory filing(监管方式1039) | GACC (China Customs) | CN | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241552078.html | declaration via market-procurement system; per-entry value nhạy cảm về thời gian |
+| 1039market采购出境货物检验检疫(General Administration of Customs of China (GACC)MIIT Catalogue2019No. 221No.) | GACC (China Customs) | CN | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=1bc97bb83d3e4398a8c5b0de9cfc4c7b | export inspection arrangement under 2019/221 |
+| 0110一般贸易and1039market采购comparison | CCPIT | CN | https://www.eccpit.com/news/Y21zcG86MjAwNDI | comparison of tax-invoice/refund traits; whole-vehicle applicability confirm with customs |
 
-## Xem lại tập tin
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last xem lại**: 2026-09-06
-- ** chợ khảo sát**: CN(中国海关监管方式; 试点范围 单票限额 整车适用性为时点且须主管海关确认)
-- Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Những mục nhạy cảm về thời gian (số lượng, phí tổn, danh sách, cắt giảm hàng, giá tham chiếu nội địa) phải được xác nhận lại trên trang hiện thời trước khi chuyển đổi.**
-- **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.
+## Rà soát biên tập
+- Tác giả: AutoBridge Export Editorial Team · [authors](/authors/) · [Chính sách biên tập](/editorial-policy/)
+- Lần rà soát gần nhất: 2026-09-06
+- Thị trường tham chiếu: Trung Quốc
+- Phương pháp xác minh: Các quy tắc đã được thiết lập dựa trên nguồn sơ cấp của cơ quan quản lý và chính phủ; các con số mâu thuẫn trên truyền thông được giữ lại dưới dạng mục cần xác minh thay vì khẳng định; mỗi mục nhạy cảm về thời gian được dẫn tới cơ quan có thẩm quyền để xác minh trực tiếp.
+- Tiêu chuẩn biên tập: Được nghiên cứu và biên soạn từ các nguồn nêu trên (nghiên cứu tại bàn; không tuyên bố đã trực tiếp lái, tháo dỡ hay nhập khẩu). Điểm nào không thể xác minh độc lập được trình bày dưới dạng mục cần kiểm chứng thay vì khẳng định là sự thật.
+- Minh bạch: Việc soạn thảo và dịch thuật có sử dụng hỗ trợ AI. Bài viết dựa trên nghiên cứu tại bàn. Không tuyên bố thử nghiệm trực tiếp trừ khi được ghi rõ; rà soát biên tập của con người ở bước cuối cùng vẫn đang chờ.

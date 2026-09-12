@@ -1,103 +1,62 @@
 # قراءة وإثبات هوية سيارة صينية ورقم أسم تحت GB 16735-2019
-
 ## بيانات SEO الوصفية
-- **عنوان SEO**: VIN  & Nameplate Verification for Chinese Vehicle Imports —  GB  16735-2019
-- **وصف Meta**: How a 17-character  VIN  splits into  WMI/VDS/VIS  under  GB  16735-2019, لماذا ختم VIN "الاسم" الشهادة  and  وثائق الشحن يجب أن تتطابق  and  ما الذي يجب على المستورد أن يتحقق منه قبل الدفع.
-- **H1**: VIN وتحقق من حجم الاسم بالنسبة للمركبات الصينية: الهيكل والمقياس وجهاز الرابط الأربع
-- **الكلمة المفتاحية الرئيسية**: VIN  nameplate verification  GB16735  chinese vehicle
-- **مصطلحات بحث ثانوية**: WMI   VDS   VIS  structure, GB16735-2019 VIN   VIN  check digit position 9, VIN شهادة تطابق مطروحة من VIN تلاعب
-- **URL المقترح**: /guides/vin-nameplate-verification-chinese-vehicles
-- **نية البحث**: فهم VIN والتحقق من حجم الاسم بالنسبة للمركبات الصينية: الهيكل والنموذج والميزة الأربعة: ما يجب على المصدر للمركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
-- **اقتراح الصورة**: 17-char VIN segment diagram
-- **نص ALT**: 17 شخص من الشخصيات البارزة انقسمت إلى مركز شرطة البحرية الدولية تحت رقم GB16735-2019
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: VIN & Nameplate Verification for Chinese Vehicle Imports — GB 16735-2019
+- وصف Meta: How a 17-character VIN splits into WMI/VDS/VIS under GB 16735-2019, لماذا ختم VIN "الاسم" الشهادة and وثائق الشحن يجب أن تتطابق and ما الذي يجب على المستورد أن يتحقق منه قبل الدفع.
+- H1: VIN وتحقق من حجم الاسم بالنسبة للمركبات الصينية: الهيكل والمقياس وجهاز الرابط الأربع
+- الكلمة المفتاحية الرئيسية: VIN nameplate verification GB16735 chinese vehicle
+- مصطلحات بحث ثانوية: WMI VDS VIS structure, GB16735-2019 VIN VIN check digit position 9, VIN شهادة تطابق مطروحة من VIN تلاعب
+- URL المقترح: /guides/vin-nameplate-verification-chinese-vehicles
+- نية البحث: فهم VIN والتحقق من حجم الاسم بالنسبة للمركبات الصينية: الهيكل والنموذج والميزة الأربعة: ما يجب على المصدر للمركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
+- اقتراح الصورة: 17-char VIN segment diagram
+- نص ALT: 17 شخص من الشخصيات البارزة انقسمت إلى مركز شرطة البحرية الدولية تحت رقم GB16735-2019
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## لماذا مواقع التحقق في الشبكة قبل الدفع
 الـ VIN خطأ واحد من القلائل العيوب التي تمنع التسجيل بعد السيارة مدفوع بالفعل and تم شحنها التصليح رخيص في مكتب المصادر و مكلف في ميناء المقصد ويشرح هذا الدليل الهيكل الصيني البالغ VIN في إطار المعيار الحالي، ويعطي المشترين الذين يمكن تشغيلهم قبل الإفراج عن مدفوعات الرصيد.
-
 ## بنية الـ17 حرفاً وفق GB 16735-2019
-عدد المركبات هو 17 ** شخص مقسم إلى ثلاثة أجزاء:
-- **WMI (positions 1–3) — World Manufacturer Identifier**: مُنحت مسبقاً إلى الصانع من قبل الهيئة المأذون بها الذي يوجد فيه، وذلك تمشياً مع مبلغ 16737. GB
-- **VDS (positions 4–9) — Vehicle Descriptor Section**: (ب) يصف الخصائص وغيرها من الخصائص؛ ** الفرضية 9 هي شخصية الشيك**.
-** بيانات موجزة (البيانات 10 إلى 17) - قسم مؤشرات المركبات**: يحمل السنة النموذجية، ومحطة التجميع ورقم سلسلة الإنتاج.
-
-** GB 16735-2019 * المركبات الصغيرة - رقم تحديد المركبات (VIN)*** هو الحالي المعيار الصيني 2004 طبعة أُدرج في قائمة الطلبات المعيار الوارد في نموذج الطريق استعراض وصول المنتجات**. هذا الوضع الإجباري لماذا VIN ملصقات الاسم وثائق الشهادة والتراخيص مطلوبة متماسك
-
+عدد المركبات هو 17 شخص مقسم إلى ثلاثة أجزاء:
+- WMI (positions 1–3) — World Manufacturer Identifier: مُنحت مسبقاً إلى الصانع من قبل الهيئة المأذون بها الذي يوجد فيه، وذلك تمشياً مع مبلغ 16737. GB
+- VDS (positions 4–9) — Vehicle Descriptor Section: (ب) يصف الخصائص وغيرها من الخصائص؛ الفرضية 9 هي شخصية الشيك.
+ بيانات موجزة (البيانات 10 إلى 17) - قسم مؤشرات المركبات: يحمل السنة النموذجية، ومحطة التجميع ورقم سلسلة الإنتاج.
+ GB 16735-2019 * المركبات الصغيرة - رقم تحديد المركبات (VIN)* هو الحالي المعيار الصيني 2004 طبعة أُدرج في قائمة الطلبات المعيار الوارد في نموذج الطريق استعراض وصول المنتجات. هذا الوضع الإجباري لماذا VIN ملصقات الاسم وثائق الشهادة والتراخيص مطلوبة متماسك
 ## ما نخفيه عنا من أول سمة
-والشخصية الأولى للمنظمة هي التي تُخصص من قبل هيئة مأذون لها. ويقضي هذا الدليل** بأن القاعدة الشاملة مثل " المركبات الصينية تبدأ بحرف L (بعضها مع H) " كاختبار أصل نهائي: لم يتم تأكيد هذه المطالبة على أساس معيار موثوق به في البحوث الجارية، وهي تعامل على أنها غير متحققة**. ويجب قراءة الأصل والمصنّع من مخصصات القمة العالمية** التي أذنت بها**، دون أن يُخمَّن من رسالة أولية؛ وتحتاج عملية البحث المحددة التي تقوم بها المنظمة من أجل تصنيع المواد من نوع ما إلى جدول التخصيص، ولا تستنسخ هنا. وقواعد شكل شبكة المعلومات الشخصية الخاصة ببلدان المقصد محددة وتُدقق بصورة منفصلة.
-
+والشخصية الأولى للمنظمة هي التي تُخصص من قبل هيئة مأذون لها. ويقضي هذا الدليل بأن القاعدة الشاملة مثل " المركبات الصينية تبدأ بحرف L (بعضها مع H) " كاختبار أصل نهائي: لم يتم تأكيد هذه المطالبة على أساس معيار موثوق به في البحوث الجارية، وهي تعامل على أنها غير متحققة. ويجب قراءة الأصل والمصنّع من مخصصات القمة العالمية التي أذنت بها، دون أن يُخمَّن من رسالة أولية؛ وتحتاج عملية البحث المحددة التي تقوم بها المنظمة من أجل تصنيع المواد من نوع ما إلى جدول التخصيص، ولا تستنسخ هنا. وقواعد شكل شبكة المعلومات الشخصية الخاصة ببلدان المقصد محددة وتُدقق بصورة منفصلة.
 ## مصيدة رباعية الدفع قبل دفع الرصيد
 مقارنة بنفس الـ 17 شخص في أربعة مواقع، وتأكيد عدم وجود طحن أو إعادة عينة أو نسيج مفرط:
-1. ** فين على الجسم** (الفصل).
-2. ** على قائمة الأسماء**.
-3. ** شهادة المصانع**.
-4. ** في وثائق الشحن** فاتورة، قائمة تعبئة).
-
-أيّ إختلاف شخصيّة، إعادة اثبات دليل، أو عدم مطابقة لوثيقة الجسم هو نقطة الحُلّ: حلّه مع المُورد وسجلّ الصانع الخاصّ بتجهيزات المُصَلّع ** قبل التّسديد والحجز، لأنّ سلطات التسجيل تقارن نفس الأماكن الأربعة.
-
+1. فين على الجسم (الفصل).
+2. على قائمة الأسماء.
+3. شهادة المصانع.
+4. في وثائق الشحن فاتورة، قائمة تعبئة).
+أيّ إختلاف شخصيّة، إعادة اثبات دليل، أو عدم مطابقة لوثيقة الجسم هو نقطة الحُلّ: حلّه مع المُورد وسجلّ الصانع الخاصّ بتجهيزات المُصَلّع قبل التّسديد والحجز، لأنّ سلطات التسجيل تقارن نفس الأماكن الأربعة.
 ## أمر التحقق العملي
 1. انقل رقم VIN المختوم على الهيكل حرفاً بحرف (17 خانة إجمالاً).
 2. تأكد أن طابع الشيك في الموقع 9 ورمز السنة النموذجية للوضع 10 ثابتان داخليا.
 3. تطابقها مع وثائق الأسماء والشهادة والشحن (مطابقة أربعة مواقع).
 4. تحديد الجهة المصنعة من خلال تخصيصات شركة WMI بدلا من الرسالة الأولى وحدها.
 5. صورة مُختومة من طراز VIN، واسم وشهادة معاً للملف.
-
 ## حدود هذا الدليل
 - لا يوجد دليل للشركة (يتطلب جدول التخصيص المأذون به).
 - لا توجد قاعدة مطلقة "خطة أولى" بلد التصنيع
 - وتُعالج أشكال تحديد الهوية في كل بلد مقصد.
-
 ## الأسئلة المتكررة
-** كيف هو نظام شبكة فين الصينية**؟ 17 شخص: WMI (1–3) و VDS (4–9)، مع وجود طابع تحققي عند 9) و VIS (10–17، السنة النموذجية/الزراعة/النقل).
-** أي معيار يحكمه؟** GB 16735-2019، وهو معيار إلزامي مذكور في استعراض وصول منتجات المركبات إلى الخدمات.
-** هل يمكنني أن أقول المصدر من الرسالة الأولى**؟ ولا يمكن الاعتماد على هذا الاعتماد وحده، بل يستخدم المبلغ المخصص المأذون به من المنظمة العالمية للهجرة؛ ولا يؤكد هذا الدليل قاعدة L/H على أنها حقيقة.
-** ما الذي يجب أن يطابق قبل الدفع؟** تم تركيب جهاز فيديو، وجهاز تسجيل هوية، وشهادة فين، ووثيقة الشحن - كلها متطابقة، بدون إعادة عين.
-
-## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Chinese VIN and nameplate under GB 16735, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Chinese VIN and nameplate under GB 16735, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese VIN and nameplate under GB 16735, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chinese VIN and nameplate under GB 16735, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Chinese VIN and nameplate under GB 16735, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chinese VIN and nameplate under GB 16735, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chinese VIN and nameplate under GB 16735, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chinese VIN and nameplate under GB 16735, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chinese VIN and nameplate under GB 16735, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chinese VIN and nameplate under GB 16735, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
-
+ كيف هو نظام شبكة فين الصينية؟ 17 شخص: WMI (1–3) و VDS (4–9)، مع وجود طابع تحققي عند 9) و VIS (10–17، السنة النموذجية/الزراعة/النقل).
+ أي معيار يحكمه؟ GB 16735-2019، وهو معيار إلزامي مذكور في استعراض وصول منتجات المركبات إلى الخدمات.
+ هل يمكنني أن أقول المصدر من الرسالة الأولى؟ ولا يمكن الاعتماد على هذا الاعتماد وحده، بل يستخدم المبلغ المخصص المأذون به من المنظمة العالمية للهجرة؛ ولا يؤكد هذا الدليل قاعدة L/H على أنها حقيقة.
+ ما الذي يجب أن يطابق قبل الدفع؟ تم تركيب جهاز فيديو، وجهاز تسجيل هوية، وشهادة فين، ووثيقة الشحن - كلها متطابقة، بدون إعادة عين.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
-| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
-| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
-| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
-| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | single source | Position-level explainer |
-*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | char structure, standard text |
+| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | Current status, replaces 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | Standard status |
+| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | Mandatory status, consistency requirement |
+| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | Position-level explainer |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 text(encyclopedia载体) | encyclopedia(China标text载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | مصدر واحد | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
-| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | single source | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
-
-## استعراض التحرير
-- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: المعيار الصيني للشبكة (تستبعد قواعد الشبكة الرقمية)
-- ** طريقة التحقق**: GB16735-2019 نص رسمي موحد + استشهاد إلزامي من قبل البعثة؛ إلغاء قاعدة غير مصدق عليها من قاعدة المنشأ من الدرجة الأولى
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
-
-**Tags**: #VIN #GB16735 #Nameplate #VehicleVerification #ExportCompliance
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

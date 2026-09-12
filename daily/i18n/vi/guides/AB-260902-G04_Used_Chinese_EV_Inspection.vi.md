@@ -1,111 +1,84 @@
 # Dùng EV pre-Exportrationrationion: Pin SOH đã làm đúng, cộng với tai nạn, lũ lụt và kiểm tra Odthth
 ## Siêu dữ liệu SEO
-- **Tiêu đề SEO**: Dùng tiếng Hoa EV Xem xét: Pin SOH, thủy triều và đo lường Kiểm tra
-- **Meta mô tả**: Làm thế nào để kiểm tra một Trung Quốc đã sử dụng EV trước khi xuất khẩu — SOH thực sự có nghĩa là dưới tiêu chuẩn pin, một bài kiểm tra điện tử, đọc tế bào cân bằng, tai nạn/tạp quét gia tốc và kiểm tra chéo xe đạp, mà không có một ngưỡng pháp lý nào.
-- **H1**: Xem xét một chiếc tàu EV của Trung Quốc Trước khi xuất: Số lượng pin có nghĩa gì và phải từ chối điều gì
-- **Từ khóa chính**: used Chinese  EV  inspection battery  SOH  checklist
-- **Cụm tìm kiếm phụ**: EV ắc quy SOH tiêu chuẩn QC/T 743, GB/T 31484 chu kỳ cuộc sống, sử dụng EV điện áp mất cân bằng, EV thiệt hại kiểm tra, đo lường kính hiển vi vòng quay vòng quay của pin
-- **URL đề xuất**: /guides/used-chinese-ev-inspection/
-- **Ý định tìm kiếm**: Understand Inspecting a Used Chinese  EV  Before Export: Những con số dùng ắc - quy có nghĩa gì và nên bác bỏ điều gì: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
-- **Gợi ý liên kết nội bộ**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
-- **Gợi ý hình ảnh**: Công cụ chuẩn đoán SOH và việc đọc tập tin tế bào
-- **Văn bản ALT**: Báo cáo chẩn đoán độc lập cho thấy sự khác biệt lớn nhất giữa các tế bào và nhau
-- **Phạm vi schema**: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
-
+- Tiêu đề SEO: Dùng tiếng Hoa EV Xem xét: Pin SOH, thủy triều và đo lường Kiểm tra
+- Meta mô tả: Làm thế nào để kiểm tra một Trung Quốc đã sử dụng EV trước khi xuất khẩu — SOH thực sự có nghĩa là dưới tiêu chuẩn pin, một bài kiểm tra điện tử, đọc tế bào cân bằng, tai nạn/tạp quét gia tốc và kiểm tra chéo xe đạp, mà không có một ngưỡng pháp lý nào.
+- H1: Xem xét một chiếc tàu EV của Trung Quốc Trước khi xuất: Số lượng pin có nghĩa gì và phải từ chối điều gì
+- Từ khóa chính: used Chinese EV inspection battery SOH checklist
+- Cụm tìm kiếm phụ: EV ắc quy SOH tiêu chuẩn QC/T 743, GB/T 31484 chu kỳ cuộc sống, sử dụng EV điện áp mất cân bằng, EV thiệt hại kiểm tra, đo lường kính hiển vi vòng quay vòng quay của pin
+- URL đề xuất: /guides/used-chinese-ev-inspection/
+- Ý định tìm kiếm: Understand Inspecting a Used Chinese EV Before Export: Những con số dùng ắc - quy có nghĩa gì và nên bác bỏ điều gì: là một người xuất khẩu xe hơi và các bộ phận phải kiểm tra tài liệu và quyết định trước khi cam kết một mệnh lệnh.
+- Gợi ý liên kết nội bộ: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
+- Gợi ý hình ảnh: Công cụ chuẩn đoán SOH và việc đọc tập tin tế bào
+- Văn bản ALT: Báo cáo chẩn đoán độc lập cho thấy sự khác biệt lớn nhất giữa các tế bào và nhau
+- Phạm vi schema: Bài báo (không có sản phẩm/ xuất/ xuất/ Ghi chú/ Xem/ gửi)
 ## Phạm vi: Sổ tay điều tra, không phải tranh luận mới-vs- lợi dụng
-Quyết định mua ** được dùng** như đã đưa ra; trang này bao gồm việc kiểm tra công nghệ trước khi xuất khẩu**. Kinh tế của một chiếc EV đã sử dụng được thống trị bởi một bộ ắc quy có quy có quy hiệu quả cao: một cơ thể sạch với một túi đồ cũ có thể giá trị ít hơn chi phí thay thế sau khi vận chuyển, do đó, việc kiểm tra quy trình hoạt động khác với một chiếc xe ICE. Mục tiêu trung tâm là phải chính xác về "SOH 80%" thực sự là gì - một tham khảo kỹ thuật, không phải một đường biên giới toàn cầu.
+Quyết định mua được dùng như đã đưa ra; trang này bao gồm việc kiểm tra công nghệ trước khi xuất khẩu. Kinh tế của một chiếc EV đã sử dụng được thống trị bởi một bộ ắc quy có quy có quy hiệu quả cao: một cơ thể sạch với một túi đồ cũ có thể giá trị ít hơn chi phí thay thế sau khi vận chuyển, do đó, việc kiểm tra quy trình hoạt động khác với một chiếc xe ICE. Mục tiêu trung tâm là phải chính xác về "SOH 80%" thực sự là gì - một tham khảo kỹ thuật, không phải một đường biên giới toàn cầu.
 ## SOH Là — và 80% thật sự có nghĩa gì
-**State of Health (SSOH)** thể hiện khả năng sử dụng tối đa của một gói gần đây tương đương với khả năng có hạn mới (phụ thuộc vào cơ sở của SOH = khả năng cũ _BAR_lắp tốc độ). Điều cần thiết là phải tách biệt một hội nghị cuối đời của công nghệ **(Cract- end-of- life** khỏi ngưỡng nhập khẩu ** vì họ thường xuyên lẫn lộn:
-- Con số ** 80% ** bắt nguồn từ tiêu chuẩn nhà nghề **và thực hành bảo đảm**, không phải luật nhập khẩu. Tiêu chuẩn về sự nghiên cứu sử dụng xe hơi của Trung Quốc **QC/T 743 ** coi khả năng giảm xuống 80% của danh nghĩa như một tham khảo cuối đời; **GB/T ** chỉ định sự lôi cuốn-battery-Celcy-Try-life phương pháp thử nghiệm*; **IEC 62660 ** (một phần 1/2) tiêu chuẩn hóa hiệu suất tế bào tăng cường/sự sống; và người mới giới thiệu về tiêu chuẩn quốc gia **GB/T 46991.1-2025 ** (phát triển theo phát triển theo MIIT/SAC) với địa chỉ * và tính bền vững của màn hình trên tàu SOH/SOC*. Đây là những tài liệu tiêu chuẩn-thể (ĐÃ DÌ VÌ những gì họ định nghĩa). 31484
-- **Không có ngưỡng pháp lý chung nào cho phép nhập khẩu EV đã dùng.** Không có quy định nào được nêu ra trong nghiên cứu này đặt " 80%" như là một phong tục chăn chiên hay cổng thông thường áp dụng trên EU, ASEN hay bất cứ nơi nào khác. Hãy nói rõ 80% là gì không**: đó không phải là ngưỡng nhập khẩu xe cũ**, nó không phải là một luật quy chế thống nhất** và nó không phải là ngưỡng bảo hành của mọi nhà sản xuất** (một bảo hành có thể sử dụng một con số khác). Một điểm đến có thể áp đặt quy định của riêng mình và người mua có thể đặt một đường thương mại riêng — nhưng mỗi đường đi là một công cụ khác nhau *. Xác nhận cơ quan nhập khẩu của chính người nhập khẩu phải được xác nhận trên mỗi quốc gia hơn là giả định.
-Sự khác biệt này thay đổi cách bạn sử dụng con số: xem hội nghị kỹ thuật ~ 80% như một tài liệu tham khảo của **commercial/tech để đòi hỏi giá cả và từ chối**, trong khi riêng lẻ xác nhận đích đến có đặt bất kỳ điều kiện pháp lý nào hay không. Không có " 85% NMC line" nào được khẳng định ở đây bởi vì không có nguồn gốc tiêu chuẩn hay nhà sản xuất nào được ghi nhận cho bài báo này xác định nó là một quy tắc.
+State of Health (SSOH) thể hiện khả năng sử dụng tối đa của một gói gần đây tương đương với khả năng có hạn mới (phụ thuộc vào cơ sở của SOH = khả năng cũ _BAR_lắp tốc độ). Điều cần thiết là phải tách biệt một hội nghị cuối đời của công nghệ (Cract- end-of- life khỏi ngưỡng nhập khẩu vì họ thường xuyên lẫn lộn:
+- Con số 80% bắt nguồn từ tiêu chuẩn nhà nghề và thực hành bảo đảm, không phải luật nhập khẩu. Tiêu chuẩn về sự nghiên cứu sử dụng xe hơi của Trung Quốc QC/T 743 coi khả năng giảm xuống 80% của danh nghĩa như một tham khảo cuối đời; GB/T chỉ định sự lôi cuốn-battery-Celcy-Try-life phương pháp thử nghiệm*; IEC 62660 (một phần 1/2) tiêu chuẩn hóa hiệu suất tế bào tăng cường/sự sống; và người mới giới thiệu về tiêu chuẩn quốc gia GB/T 46991.1-2025 (phát triển theo phát triển theo MIIT/SAC) với địa chỉ * và tính bền vững của màn hình trên tàu SOH/SOC*. Đây là những tài liệu tiêu chuẩn-thể (ĐÃ DÌ VÌ những gì họ định nghĩa). 31484
+- Không có ngưỡng pháp lý chung nào cho phép nhập khẩu EV đã dùng. Không có quy định nào được nêu ra trong nghiên cứu này đặt " 80%" như là một phong tục chăn chiên hay cổng thông thường áp dụng trên EU, ASEN hay bất cứ nơi nào khác. Hãy nói rõ 80% là gì không: đó không phải là ngưỡng nhập khẩu xe cũ, nó không phải là một luật quy chế thống nhất và nó không phải là ngưỡng bảo hành của mọi nhà sản xuất (một bảo hành có thể sử dụng một con số khác). Một điểm đến có thể áp đặt quy định của riêng mình và người mua có thể đặt một đường thương mại riêng — nhưng mỗi đường đi là một công cụ khác nhau *. Xác nhận cơ quan nhập khẩu của chính người nhập khẩu phải được xác nhận trên mỗi quốc gia hơn là giả định.
+Sự khác biệt này thay đổi cách bạn sử dụng con số: xem hội nghị kỹ thuật ~ 80% như một tài liệu tham khảo của commercial/tech để đòi hỏi giá cả và từ chối, trong khi riêng lẻ xác nhận đích đến có đặt bất kỳ điều kiện pháp lý nào hay không. Không có " 85% NMC line" nào được khẳng định ở đây bởi vì không có nguồn gốc tiêu chuẩn hay nhà sản xuất nào được ghi nhận cho bài báo này xác định nó là một quy tắc.
 ## Tìm ra một số lượng SOH không thể phòng thủ
 - Hãy đọc màn hình hiển thị sức khỏe trong xe/clucker, nhưng đừng dừng lại ở đó - màn hình trên bảng được ước tính và tiêu chuẩn hiển thị GB/T 46991.1 mới áp dụng cho sản xuất mới, không nhất thiết là các đơn vị cũ hơn sử dụng.
-- Ủy ban một báo cáo chẩn đoán bên thứ ba ** mà ghi lại rằng SOH ** và sự khác biệt tối đa về điện thế tế bào: Một lá cờ mất cân bằng lớn sẽ có những mô-đun yếu ngay cả khi tiêu đề mà SOH trông có vẻ khỏe mạnh.
+- Ủy ban một báo cáo chẩn đoán bên thứ ba mà ghi lại rằng SOH và sự khác biệt tối đa về điện thế tế bào: Một lá cờ mất cân bằng lớn sẽ có những mô-đun yếu ngay cả khi tiêu đề mà SOH trông có vẻ khỏe mạnh.
 - Các nhãn hiệu Trung Quốc không chia sẻ một giao thức quá trình và định dạng báo cáo không được chuẩn hóa, vì vậy hãy giữ báo cáo thô (công cụ, phiên bản phần mềm, ngày tháng, nhiệt độ môi trường) như là bằng chứng. Cần phải yêu cầu các tiêu chuẩn về pin nguyên tử và môi trường nơi có thể làm thay vì đoán.
 ## Kiểm tra chéo với một bài kiểm tra sạc mạng được đánh dấu (một màn hình ngang qua kim loại, không phải tính toán của SOH)
-Một giá trị hệ thống mật mãOS có thể bị xuyên tạc; một cuộc kiểm tra chất nổ. Nạp từ khoảng 20% đến 80% **trên một máy hát *** run rẩy, ghi lại khởi động/end SOC, kWh giao, đường cong điện và thời gian chạy nhanh, và so sánh năng lượng mang lại với khả năng sử dụng mong đợi ~ 60% của các gói có thể sử dụng được. **Hãy xem đây như một kiểm tra chéo, không phải là một cách để tính toán về sự thay đổi của sự việc.** Name kWh là * not* bằng năng lượng được cất giữ trong các tế bào: Các đọc bị ảnh hưởng bởi **Chacing/tloat lo lắng, bộ phận điều khiển nhiệt, môi trường và nhiệt độ, BMS SOC, và bộ đệm dự trữ/trên cùng**. Vì vậy nó chỉ có thể đánh dấu một **gross bất thường**. Một cú ngã trên màn hình này không có ** tự nó chứng tỏ mất khả năng thực sự (và một màn hình sạch sẽ không chứng minh sức khỏe hoàn toàn); con số chính thức về khả năng và hiệu ứng vẫn cần một phương pháp chẩn đoán có khả năng hoặc nhà sản xuất hoặc dữ liệu thử nghiệm chuyên nghiệp. Không thể giữ mức tiền mà người ta mong đợi là lý do để kiểm tra kỹ hơn. Chạy màn hình dọc theo kiểm tra độ sạc- vừa (GB/T ở Trung Quốc so với kết nối đích — xem hướng dẫn tương thích c) vì vậy một gói âm thanh không thể được thành công bởi một inlet không tương thích.
+Một giá trị hệ thống mật mãOS có thể bị xuyên tạc; một cuộc kiểm tra chất nổ. Nạp từ khoảng 20% đến 80% trên một máy hát * run rẩy, ghi lại khởi động/end SOC, kWh giao, đường cong điện và thời gian chạy nhanh, và so sánh năng lượng mang lại với khả năng sử dụng mong đợi ~ 60% của các gói có thể sử dụng được. Hãy xem đây như một kiểm tra chéo, không phải là một cách để tính toán về sự thay đổi của sự việc. Name kWh là * not* bằng năng lượng được cất giữ trong các tế bào: Các đọc bị ảnh hưởng bởi Chacing/tloat lo lắng, bộ phận điều khiển nhiệt, môi trường và nhiệt độ, BMS SOC, và bộ đệm dự trữ/trên cùng. Vì vậy nó chỉ có thể đánh dấu một gross bất thường. Một cú ngã trên màn hình này không có tự nó chứng tỏ mất khả năng thực sự (và một màn hình sạch sẽ không chứng minh sức khỏe hoàn toàn); con số chính thức về khả năng và hiệu ứng vẫn cần một phương pháp chẩn đoán có khả năng hoặc nhà sản xuất hoặc dữ liệu thử nghiệm chuyên nghiệp. Không thể giữ mức tiền mà người ta mong đợi là lý do để kiểm tra kỹ hơn. Chạy màn hình dọc theo kiểm tra độ sạc- vừa (GB/T ở Trung Quốc so với kết nối đích — xem hướng dẫn tương thích c) vì vậy một gói âm thanh không thể được thành công bởi một inlet không tương thích.
 ## Hội Tam Hoàng Tối Cao ngoài SO
-- **Pack nằm dưới bên dưới**: gỡ bỏ/nhổ lá chắn dưới để gỡ bỏ/resalul, vết cào, lỗi định dạng hoặc sửa chữa không có tác dụng.
-- **Motor và điện tử điện tử**: mã lỗi quét, kiểm tra đèn báo động và cách thức lái xe/nhận dạng trong một bài kiểm tra đường.
-- **HV craling and linkors**: tìm kiếm sự ăn mòn, tái tạo hoặc không có tác dụng.
+- Pack nằm dưới bên dưới: gỡ bỏ/nhổ lá chắn dưới để gỡ bỏ/resalul, vết cào, lỗi định dạng hoặc sửa chữa không có tác dụng.
+- Motor và điện tử điện tử: mã lỗi quét, kiểm tra đèn báo động và cách thức lái xe/nhận dạng trong một bài kiểm tra đường.
+- HV craling and linkors: tìm kiếm sự ăn mòn, tái tạo hoặc không có tác dụng.
 ## Tai nạn, lũ lụt và lửa
-- Lấy ** số hồ sơ tăng cường và bảo hiểm (出险); sửa chữa hình khối hoặc bất kỳ dấu hiệu nhận diện nước lũ nào cũng là lý do để từ chối.
+- Lấy số hồ sơ tăng cường và bảo hiểm (insurance claim); sửa chữa hình khối hoặc bất kỳ dấu hiệu nhận diện nước lũ nào cũng là lý do để từ chối.
 - Hệ thống EV tràn ngập giấu những gói bị thoái hóa và bộ phận bị ăn mòn: kiểm tra hệ thống dẫn dưới tiền, đường ray ghế ngồi, hộp cầu chì và bộ ắc quy để tìm đường nước/sự thối rữa.
 - Kiểm tra các lỗ hổng bảng điều khiển, độ dày sơn và các dấu hiệu làm chứng; xử lý bất cứ dấu hiệu nào cho thấy bộ ắc quy được mở bên ngoài một cơ sở có khả năng như là tín hiệu dừng.
 ## Đo lường đối với vòng sạc
-EV đồng hồ cho thấy một sự mâu thuẫn về đo lường với số lượng pin và mặc**. Khi chẩn đoán tính số lượng chu kỳ, hãy so sánh với số lượng dặm và quần áo thể chất (thịt, tay lái, bàn đạp). Mức độ cao của việc hiển thị dặm đôi với số lượng lượng lượng chu kỳ cao hoặc thành phần già là cảnh báo cho thấy chỉ riêng một người có thể bị trượt một lần kiểm tra tốc độ tử cung.
+EV đồng hồ cho thấy một sự mâu thuẫn về đo lường với số lượng pin và mặc. Khi chẩn đoán tính số lượng chu kỳ, hãy so sánh với số lượng dặm và quần áo thể chất (thịt, tay lái, bàn đạp). Mức độ cao của việc hiển thị dặm đôi với số lượng lượng lượng chu kỳ cao hoặc thành phần già là cảnh báo cho thấy chỉ riêng một người có thể bị trượt một lần kiểm tra tốc độ tử cung.
 ## Giấy tờ và sự cai trị đích đến
-Giữ bản báo cáo độc lập cho SOH/im cân bằng, hồ sơ sạc đồng hồ và dịch vụ/nhận dạng lịch sử trong hồ sơ xuất khẩu. Chia ra - và đây là sự sửa chữa cho bất kỳ cái chăn nào "bạn cần 80% để nhập khẩu" - **Bấp bênh cho điều kiện đích đến (x) đã được sử dụng/kiểu "Ex" trong việc ghi** từ thẩm quyền xác thực hoặc tác nhân quyền hạn của bạn. Trung Quốc có khả năng xuất khẩu xe hơi và tiền tiêu thụ được thiết lập bởi MOFCOM và cập nhật (xem các hướng dẫn cung cấp và hỗ trợ cho hạm đội); sử dụng vị trí của năm nay thay vì một blog cũ hơn.
+Giữ bản báo cáo độc lập cho SOH/im cân bằng, hồ sơ sạc đồng hồ và dịch vụ/nhận dạng lịch sử trong hồ sơ xuất khẩu. Chia ra - và đây là sự sửa chữa cho bất kỳ cái chăn nào "bạn cần 80% để nhập khẩu" - Bấp bênh cho điều kiện đích đến (x) đã được sử dụng/kiểu "Ex" trong việc ghi từ thẩm quyền xác thực hoặc tác nhân quyền hạn của bạn. Trung Quốc có khả năng xuất khẩu xe hơi và tiền tiêu thụ được thiết lập bởi MOFCOM và cập nhật (xem các hướng dẫn cung cấp và hỗ trợ cho hạm đội); sử dụng vị trí của năm nay thay vì một blog cũ hơn.
 ## Tự độngBridge thêm gì ngoài danh sách kiểm tra chung
-Danh sách công cộng lặp lại "đọc SOH và từ chối dưới 80%." Thay vào đó, hướng dẫn này khuyên: (1) Tách rời các quy ước kỹ thuật 80% khỏi quy định thực sự của đích đến, vì vậy người mua không đi ra khỏi một chiếc xe hơi ổn định hoặc tàu một chiếc không liên quan đến một huyền thoại; (2) Đang kết hợp một bản kiểm tra điện năng đồng mét với một số lượng tế bào cân bằng hơn là dựa vào một bức ảnh màn hình bảng điều khiển; và (3) giữ tờ kiểm tra được gắn liền với hồ sơ **Vin và xuất khẩu** được dùng để xác thực, vì vậy xe được kiểm tra có thể lần theo dấu vết chiếc xe được vận chuyển.
+Danh sách công cộng lặp lại "đọc SOH và từ chối dưới 80%." Thay vào đó, hướng dẫn này khuyên: (1) Tách rời các quy ước kỹ thuật 80% khỏi quy định thực sự của đích đến, vì vậy người mua không đi ra khỏi một chiếc xe hơi ổn định hoặc tàu một chiếc không liên quan đến một huyền thoại; (2) Đang kết hợp một bản kiểm tra điện năng đồng mét với một số lượng tế bào cân bằng hơn là dựa vào một bức ảnh màn hình bảng điều khiển; và (3) giữ tờ kiểm tra được gắn liền với hồ sơ Vin và xuất khẩu được dùng để xác thực, vì vậy xe được kiểm tra có thể lần theo dấu vết chiếc xe được vận chuyển.
 ## Quy tắc từ chối cứng
 - Đánh dấu là có dấu hiệu lửa trong hồ sơ, hoặc là các đường xoáy nước trong túi hoặc bộ khai thác HV.
 - Sửa chữa cấu trúc/sự cố bản quyền đến những khu vực có nhiều hoạt động, hoặc bằng chứng cho thấy gói hàng được mở ra bên ngoài một cơ sở có khả năng.
 - Đồng hồ đo không phù hợp với số lượng và đeo, không có lời giải thích đáng tin cậy.
 - Bán từ chối kiểm tra nạp điện một mét hoặc báo cáo chẩn đoán độc lập.
-- Cơ sở dữ liệu thất bại ** dòng lệnh chấp nhận được ghi chép của chính bạn** (được đặt từ các nhãn hiệu bảo hành + các điều luật đích đến + các lề thương mại) — không phải là một cổng pháp lý phổ biến 80%.
+- Cơ sở dữ liệu thất bại dòng lệnh chấp nhận được ghi chép của chính bạn (được đặt từ các nhãn hiệu bảo hành + các điều luật đích đến + các lề thương mại) — không phải là một cổng pháp lý phổ biến 80%.
 ## Danh sách thử ra chấp nhận
-- Báo cáo độc lập: SOH **và** sự mất cân bằng tối đa của tế bào, với công cụ/ phương tiện/ngày được ghi nhận.
-- Đã thử nghiệm 20  đáp số 80% (SOC, kWh, đường cong quyền lực, thời gian).
+- Báo cáo độc lập: SOH và sự mất cân bằng tối đa của tế bào, với công cụ/ phương tiện/ngày được ghi nhận.
+- Đã thử nghiệm 20 đáp số 80% (SOC, kWh, đường cong quyền lực, thời gian).
 - Pin ngầm và kết nối HV được kiểm tra để loại bỏ/cơ chế.
 - Dịch vụ + lịch sử tự nhận bảo hiểm đã được thu hồi; các dấu hiệu va chạm/food/fire đã kiểm tra.
 - Odthth đo được điều hòa với chu kỳ điện và quần áo thể chất.
-- Điều luật đã được sử dụng-V xác nhận **in viết** và được phân biệt từ kỹ thuật 80% dòng.
+- Điều luật đã được sử dụng-V xác nhận in viết và được phân biệt từ kỹ thuật 80% dòng.
 - Xác nhận thẩm định khả năng tương thích với mặt tương thích (GB/T tương thích với đích).
 ## Những câu hỏi thường xuyên
 80% SOH là yêu cầu nhập khẩu hợp pháp à? Không. Khoảng 80% là một tham chiếu kỹ thuật/chiến tranh kết thúc của đời sống (v., QC/T 743; kiểm tra trên mỗi GB/T IEC 62660); nó không phải là một ngưỡng nhập xe hơi sử dụng, không phải một luật về hưu thống nhất và không phải là một dòng bảo hành của mọi nhà sản xuất. Không có cổng hải quan phổ biến 80%, nên hãy xác nhận quy định đích đến. 31484
 Vậy tại sao người ta lại trích dẫn 80%? Nó đến từ tiêu chuẩn pin và sự thực hành bảo đảm như một sự tham khảo cuối đời/sự nghiệp xã hội; nó hữu ích cho việc đòi hỏi và từ chối, nhưng nó không phải là luật nhập khẩu, và không có quy tắc hóa học cụ thể 85% được khẳng định ở đây.
-**Tôi có thể tính được SOH từ Wh của máy sạc từ 20% đến 80% không?** Không trực tiếp. Năng lượng được chuyển hóa bằng cách sạc điện, rút nhiệt, nhiệt độ, cân bằng BMS, và bộ đệm; đó là một kiểm tra chéo có thể cho thấy sự bất thường nghiêm trọng, với phương pháp điều chỉnh chính thức mà chính thức mà chính thức là một chẩn đoán.
-Làm sao để chứng minh cho SOH? Một báo cáo độc lập cho thấy SOH  and  Sự mất cân bằng số lượng tế bào,  cross-checked by a metered 20–80% charge test, giữ với công cụ/ chuyển đổi/ngày.
-**Tại sao sự thiệt hại của lũ đặc biệt nguy hiểm trong hệ thống EV? Nó có thể làm giảm thiểu các bộ phận và các bộ phận bị ẩn, gây ra sự an toàn và thất bại đáng tin cậy sau khi xuất khẩu.
+Tôi có thể tính được SOH từ Wh của máy sạc từ 20% đến 80% không? Không trực tiếp. Năng lượng được chuyển hóa bằng cách sạc điện, rút nhiệt, nhiệt độ, cân bằng BMS, và bộ đệm; đó là một kiểm tra chéo có thể cho thấy sự bất thường nghiêm trọng, với phương pháp điều chỉnh chính thức mà chính thức mà chính thức là một chẩn đoán.
+Làm sao để chứng minh cho SOH? Một báo cáo độc lập cho thấy SOH and Sự mất cân bằng số lượng tế bào, đối chiếu chéo by a metered 20–80% charge test, giữ với công cụ/ chuyển đổi/ngày.
+Tại sao sự thiệt hại của lũ đặc biệt nguy hiểm trong hệ thống EV? Nó có thể làm giảm thiểu các bộ phận và các bộ phận bị ẩn, gây ra sự an toàn và thất bại đáng tin cậy sau khi xuất khẩu.
 Làm sao mà có thể phát hiện được sự lừa đảo trên máy đo điện tử? So sánh số lượng máy bay có số lượng điện thoại và số lượng điện thoại trong vòng khung và số lượng quần áo; số lượng đo thấp với chu kỳ cao là một lời cảnh báo.
-## Thu ảnh
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Used Chinese EV pre-export inspection, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Used Chinese EV pre-export inspection, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Used Chinese EV pre-export inspection, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Used Chinese EV pre-export inspection, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Used Chinese EV pre-export inspection, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Used Chinese EV pre-export inspection, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Used Chinese EV pre-export inspection, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| 商务部等《关于二手车出口有关事项的公告》（2024年第6号） | 中华人民共和国商务部（wms.mofcom 子站，与 www.mofcom 归一为同一母机构） | CN（出口监管） | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2024/art_52f62edf8132411fa206542d851edfc7.html | 2026-09-08 | VERIFIED | 出口前第三方检测报告要求、企业条件、禁出情形 |
-| 商务部等《关于支持在条件成熟地区开展二手车出口业务的通知》 | 中华人民共和国商务部 | CN | https://www.mofcom.gov.cn/zfxxgk/gkml/art/2021/art_29ef062444784bd5af9400546a1ecb75.html | 2026-09-08 | VERIFIED | 第三方检测报告制度源头、报废/抵押车辆禁出 |
-| 商务部等四部门《关于进一步加强二手车出口管理工作的通知》 | 中华人民共和国商务部 | CN | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-08 | VERIFIED / TIME_SENSITIVE | 质量与售后责任、售后维修服务确认书 |
-| 中国政府网政策库收录（加强二手车出口管理） | 中国政府网/国务院 | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-08 | VERIFIED | 发布主体、施行时间交叉印证 |
-| 中国汽车流通协会（CADA）二手车鉴定评估技术资料（引 GB/T 30323-2013） | 中国汽车流通协会 CADA | CN | https://www.cada.cn/Content/ueditor/net/upload/file/20180708/6366665897945162707573052.pdf | 2026-09-08 | CROSS_CHECKED | GB/T 30323-2013 框架、SOH 技术定义、事故/泡水/火烧判别 |
-| 易车 — 二手新能源选购核心要点 | 易车 | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-02 | single source | SOH 概念、检测方法 |
-| 懂车帝/抖音 二手 EV 检测视频（20%-80% 充电验证） | 字节系（懂车帝/抖音，归一为 1 个母机构） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | single source | 充电验证衰减方法 |
-| 懂车帝/抖音 二手电车事故/泡水/调表排查 | 字节系（与 SOURCE 07 同母机构） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | single source | 事故/泡水/调表排查、电池护板 |
-| 抖音 电池老化阈值经验 | 字节系（同母机构） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 铁锂/三元老化经验阈值（非法规） |
-| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | GLOBAL（出口） | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | single source | 行业经验参考线（非法定） |
-| 抖音 磷酸铁锂/三元 SOH 警戒线 | 字节系（同母机构，URL 与 SOURCE 09 同族，保留方法出处） | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | single source | 经验阈值 |
+| Nguồn | Tổ chức | Thị trường | URL | Kiểm tra ngày | Dữ kiện được hỗ trợ |
+| --- | --- | --- | --- | --- | --- |
+| Ministry of Commerce (MOFCOM)et al., "Notice on Matters Related to Used-Car Exports" (No. 6 of 2024) | MOFCOM (China) | CN(export监管) | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2024/art_52f62edf8132411fa206542d851edfc7.html | 2026-09-08 | export third-party inspection requirements, enterprise conditions and prohibited-export cases |
+| Ministry of Commerce (MOFCOM)et al., "Notice on Supporting Used-Car Export Business in Qualified Regions》 | MOFCOM (China) | CN | https://www.mofcom.gov.cn/zfxxgk/gkml/art/2021/art_29ef062444784bd5af9400546a1ecb75.html | 2026-09-08 | origin of the third-party inspection regime; scrapped/mortgaged vehicles banned from export |
+| Ministry of Commerce (MOFCOM)and three other ministries, "Notice on Further Strengthening the Administration of Used-Car Exports》 | MOFCOM (China) | CN | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-08 | quality and after-sales responsibility; after-sales maintenance service confirmation |
+| Chinese Government Portalpolicy-library entry (strengthening used-car export administration) | www.gov.cn/State Council | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-08 | issuing authority; effective effectđối chiếu chéo effective dates |
+| China Automobile Dealers Association (CADA)(CADA)used carappraisal technical material (citing GB/T 30323-2013) | China Automobile Dealers Association CADA | CN | https://www.cada.cn/Content/ueditor/net/upload/file/20180708/6366665897945162707573052.pdf | 2026-09-08 | GB/T 30323-2013 framework; SOH technical definitions; accident/flood/fire-damage identification |
+| Yiche (BitAuto) — used new-energykey selection points | Bitauto | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-02 | SOH concepts and inspection methods |
+| Dongchedi/Douyin used- EV inspection video (20%-80% charge verification) | | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | 充电验证衰减方法 |
+| Dongchedi/Douyin used-EV accident/flood/odometer-rollback checks | ByteDance-owned outlet | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | accident/flood-damaged/调table排查, battery护板 |
+| Douyin LFP/NCM SOH warning thresholds | | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | 经验阈值 |
+| Jingsuncar — 2026 used new-energy export guide | Jingsuncar | GLOBAL(export) | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | 行业经验参考线(non-法定) |
+| Douyin LFP/NCM SOH warning thresholds | ByteDance-owned outlet | CN | https://www.iesdouyin.com/share/video/7674527923274474225 | 2026-09-02 | 经验阈值 |
 
-*Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
-## Xem lại tập tin
-- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
-- **Last xem lại**: 2026-09-05
-- ** chợ địa phương**: Global (Trung Quốc dùng-V xuất khẩu)
-- Phương pháp xác thực **: Tiêu chuẩn cơ sở cho khái niệm của SOH; phương tiện truyền thông chỉ dùng để kiểm tra phương pháp; dòng kỹ thuật giữ riêng biệt với bất kỳ quy tắc pháp lý đích đến nào
-- **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
+## Rà soát biên tập
+- Tác giả: AutoBridge Export Editorial Team · [authors](/authors/) · [Chính sách biên tập](/editorial-policy/)
+- Lần rà soát gần nhất: 2026-09-08
+- Thị trường tham chiếu: Toàn cầu
+- Phương pháp xác minh: Các quy tắc đã được thiết lập dựa trên nguồn sơ cấp của cơ quan quản lý và chính phủ; các con số mâu thuẫn trên truyền thông được giữ lại dưới dạng mục cần xác minh thay vì khẳng định; mỗi mục nhạy cảm về thời gian được dẫn tới cơ quan có thẩm quyền để xác minh trực tiếp.
+- Tiêu chuẩn biên tập: Được nghiên cứu và biên soạn từ các nguồn nêu trên (nghiên cứu tại bàn; không tuyên bố đã trực tiếp lái, tháo dỡ hay nhập khẩu). Điểm nào không thể xác minh độc lập được trình bày dưới dạng mục cần kiểm chứng thay vì khẳng định là sự thật.
+- Minh bạch: Việc soạn thảo và dịch thuật có sử dụng hỗ trợ AI. Bài viết dựa trên nghiên cứu tại bàn. Không tuyên bố thử nghiệm trực tiếp trừ khi được ghi rõ; rà soát biên tập của con người ở bước cuối cùng vẫn đang chờ.
 #AutoBridge #UsedEVInspection #BatterySOH #ExportProcurement #PrePurchaseCheck

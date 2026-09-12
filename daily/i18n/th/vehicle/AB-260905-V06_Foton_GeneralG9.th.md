@@ -1,103 +1,69 @@
-# Folton ทั่วไป G9 ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs  and  Check ของส่งออก
-
+# Folton ทั่วไป G9 ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs and Check ของส่งออก
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: Folton ทั่วไป G9 Chickup 2025: จีน-Maget Desel/Petrol Spects & ส่งออกคู่มือ
-- **คำอธิบาย Meta**: จีน-มาร์เก็ต ฟอตัน นายพล G9 (大将军 G9) รถกระบะ: 2.0T ดีเซล และพีซี 6MT/8AT, RWD/4WD, เตียงและล้อรถมิติ และเครื่องจับอนุภาคดีเซลที่ขัดแย้งกัน
-- **H1**: Folton ทั่วไป G9 / ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs  and  Check ของส่งออก
-- **คีย์เวิร์ดหลัก**: โฟตอน / 福田 พลเอก G9 / 大将军 G9 皮卡 สเปกตรัม
-- **คำค้นหารอง**: Footon ทั่วไป G9 ส่งออกเสียง; ดาเจียงจุน G9 รถกระบะ; รถกระบะดีเซลจีน 4WD รถกระบะ; แท็กซี่คู่
-- **URL ที่แนะนำ**: /vehicles/foton-general-g9/
-- **เจตนาการค้นหา**: เข้าใจ ฟอนตัน นายพล G9 / ดาเจียงจุน G9 (2025) — ทักกีส สเปคส์จีน-มาร์ค และ เอ็กซ์เปสต์ เช็ค: ช่างส่งภาพรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการ
-- **คำแนะนำลิงก์ภายใน**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
-- **คำแนะนำรูปภาพ**: ความเป็นจริง เอกสาร/ ภาพที่โฟกัสของกล้อง Folton ทั่วไป G9 / ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs  and  Checks ของการส่งออก ไม่มีการตรวจสอบหรือคนอ้างว่า
-- **ข้อความ ALT**: ปิดมุมมองตามธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับ โฟตันนายพล G9 / ดาเจียงจุน G9 (2025) — คลิปจีน-มาร์ค พิคอัพ สเปคส์ และส่งออก ประวัติความเป็นกลาง ไม่มีบุคคลหรือการตรวจสอบดําเนินการ
-- **ขอบเขต Schema**: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
-
+- ชื่อ SEO: Folton ทั่วไป G9 Chickup 2025: จีน-Maget Desel/Petrol Spects & ส่งออกคู่มือ
+- คำอธิบาย Meta: จีน-มาร์เก็ต ฟอตัน นายพล G9 (Grand General G9) รถกระบะ: 2.0T ดีเซล และพีซี 6MT/8AT, RWD/4WD, เตียงและล้อรถมิติ และเครื่องจับอนุภาคดีเซลที่ขัดแย้งกัน
+- H1: Folton ทั่วไป G9 / ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs and Check ของส่งออก
+- คีย์เวิร์ดหลัก: โฟตอน / Foton พลเอก G9 / Grand General G9 pickup สเปกตรัม
+- คำค้นหารอง: Footon ทั่วไป G9 ส่งออกเสียง; ดาเจียงจุน G9 รถกระบะ; รถกระบะดีเซลจีน 4WD รถกระบะ; แท็กซี่คู่
+- URL ที่แนะนำ: /vehicles/foton-general-g9/
+- เจตนาการค้นหา: เข้าใจ ฟอนตัน นายพล G9 / ดาเจียงจุน G9 (2025) — ทักกีส สเปคส์จีน-มาร์ค และ เอ็กซ์เปสต์ เช็ค: ช่างส่งภาพรถ/ส่วนต้องตรวจสอบ เอกสารและตัดสินใจก่อนดําเนินการ
+- คำแนะนำลิงก์ภายใน: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
+- คำแนะนำรูปภาพ: ความเป็นจริง เอกสาร/ ภาพที่โฟกัสของกล้อง Folton ทั่วไป G9 / ดาเจียงจุน G9 (2025) — จีน-Maget Chickup Specs and Checks ของการส่งออก ไม่มีการตรวจสอบหรือคนอ้างว่า
+- ข้อความ ALT: ปิดมุมมองตามธรรมชาติของวัสดุและหัวข้อที่เกี่ยวข้องกับ โฟตันนายพล G9 / ดาเจียงจุน G9 (2025) — คลิปจีน-มาร์ค พิคอัพ สเปคส์ และส่งออก ประวัติความเป็นกลาง ไม่มีบุคคลหรือการตรวจสอบดําเนินการ
+- ขอบเขต Schema: บทความ + พาหนะ (ไม่มี Prodult/Offer/Review)
 ## บริบท: งาน ที่ รับ เอา ไป ด้วย ท่อ เชื้อ เพลิง สอง สาย
-The ~Foton gener G9 (大将军 G9) 2025) ~ช่างเป็นปิกอัพสินค้าจีนขายใน~  and  สายไฟ! ด้วยชุดเกียร์แบบคู่มือ/auto  and  ไดรฟ์หลังหรือสี่ล้อ สําหรับผู้ซื้อที่ส่งออก สนามเด็ดๆนี้มีขนาดเท่าเตียง กงล้อ ไดรฟ์เตอร์  and  เครื่องยนต์ที่แน่นอน ไม่ได้เดียว " G9" สเปก. ตลาดอ้างอิงคือ.... จีน
-
+The ~Foton gener G9 (Grand General G9) 2025) ~ช่างเป็นปิกอัพสินค้าจีนขายใน~ and สายไฟ! ด้วยชุดเกียร์แบบคู่มือ/auto and ไดรฟ์หลังหรือสี่ล้อ สําหรับผู้ซื้อที่ส่งออก สนามเด็ดๆนี้มีขนาดเท่าเตียง กงล้อ ไดรฟ์เตอร์ and เครื่องยนต์ที่แน่นอน ไม่ได้เดียว " G9" สเปก. ตลาดอ้างอิงคือ.... จีน
 ## เตียง เตียง และ เครื่อง ปั๊ม ไฟฟ้า
-- ~DEDAELE~: 2.0T 4F20 柴油 120 (163Ps) KW; พ.ศ. peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, ก่อนที่จะยกหมายเลขเดียว
+- ~DEDAELE~: 2.0T 4F20 Diesel 120 (163Ps) KW; พ.ศ. peak torque is shown as 390 or 415(versiondifference, not locked) N·m — a documented conflict between sources, ก่อนที่จะยกหมายเลขเดียว
 - Petrol: # 175 kW 360 N·m.
-- ~Gearbox/Droughter~: 6MT 8AT; 后驱 适时四驱.
-- ~ ROWT-ล้อ~: 约 5340 × 1980; 轴距3110; 货箱1520 x 1580 x 440 mm (ข้ามการตรวจสอบ).
-- ~ ล้อเลื่อนยาว~: 5630 ×1980 × 1860 – 轴距3400; 货箱1805 x 1580 x 440 mm (แหล่งลม — ครอส-เช็ค).
-- ~ความนิยม~: 前双叉臂 后整体桥; พ่นเงิน 国 Vi (0 # 柴油].
-
+- ~Gearbox/Droughter~: 6MT 8AT; RWD on-demand AWD.
+- ~ ROWT-ล้อ~: approx. 5340 × 1980; Wheelbase3110; Cargo box1520 x 1580 x 440 mm (ข้ามการตรวจสอบ).
+- ~ ล้อเลื่อนยาว~: 5630 ×1980 × 1860 – Wheelbase3400; Cargo box1805 x 1580 x 440 mm (แหล่งลม — ครอส-เช็ค).
+- ~ความนิยม~: front double-wishbone rigid rear axle; พ่นเงิน China Vi (0 # Diesel].
 ## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
-| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
-|---|---|---|---|---|---|
-| เครื่องยนต์ดีเซล | 2.0T 4F20 柴油 | - | จีน | ROOS_ CHCKED | 太平洋 + 新浪 |
-| พลังดีเซล | 120 (163Ps) | kW | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| บิดแบบดีเซล | 390 或 415 (版本差异, 未锁定) พ.ศ. | น. ม. | จีน | เชื่อมต่อ | 太平洋 vs 懂车帝 2025 款详表 |
-| พลังของเครื่องยนต์ | 175 | kW | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| แรงบิดของน้ํามัน | 360 | น. ม. | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| การส่ง | 6MT 8AT | - | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| ตัวเลือกของไดรฟ์ | 后驱 适时四驱 | - | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| slight wb | 约5340×1980；轴距3110；货箱1520×1580×440 | อืม | จีน | ROOS_ CHCKED | 太平洋 + 新浪 |
-| ปิดเสียง | 5630×1980×1860；轴距3400；货箱1805×1580×440 | อืม | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车百科 |
-| หยุดชั่วคราว | 前双叉臂 后整体桥 | - | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-| มาตรฐานการปล่อยข้อมูล | 国VI（0#柴油） | - | จีน | ผู้โดยสาร_ปลายทาง | 太平洋汽车 |
-
+| การกําหนด | ค่า | หน่วย | ตลาด |
+| --- | --- | --- | --- |
+| เครื่องยนต์ดีเซล | 2.0T 4F20 Diesel | - | จีน |
+| พลังดีเซล | 120 (163Ps) | kW | จีน |
+| บิดแบบดีเซล | 390 or 415 (versiondifference, not locked) พ.ศ. | น. ม. | จีน |
+| พลังของเครื่องยนต์ | 175 | kW | จีน |
+| แรงบิดของน้ํามัน | 360 | น. ม. | จีน |
+| การส่ง | 6MT 8AT | - | จีน |
+| ตัวเลือกของไดรฟ์ | RWD on-demand AWD | - | จีน |
+| slight wb | approx.5340×1980; Wheelbase3110; Cargo box1520×1580×440 | อืม | จีน |
+| ปิดเสียง | 5630×1980×1860; Wheelbase3400; Cargo box1805×1580×440 | อืม | จีน |
+| หยุดชั่วคราว | front double-wishbone rigid rear axle | - | จีน |
+| มาตรฐานการปล่อยข้อมูล | ChinaVI(0#Diesel) | - | จีน |
 ## Checkup service: เตียง, ไดรฟ์เรียน และความขัดแย้งแบบบิด
 คําสั่งเก็บยาล้มเหลว ส่วนใหญ่ยาวเตียงและขับรถ เลือก กงล้อ ที่ สั้น หรือ ยาว และ เข้า กัน ได้ กับ ขนาด เตียง; เลือก 4WD เฉพาะ ที่ ที่ การ สร้าง นั้น ยืน ยัน ว่า มี การ โอน ตัว เลข หรือ ช่วง ต่ํา. The December-Torque ความขัดแย้ง (390 vs 415 N·m) ไปทางซ้ายโดยมีวัตถุประสงค์ -- รับแผ่นการปรับแต่งของ OEM มาใช้กับหมายเลข VIN แน่นอน แทนการเลือกหมายเลขที่โปรดได้ การ กลิ้ง ของ มัน ไม่ ได้ ถูก จับ และ ต้อง ไม่ มี การ กะ ประมาณ. ยืนยันขั้นตอนการปล่อยเชื้อ (จีน-วี ดีเซล 0 เชื้อเพลิง) ต่อต้านคุณภาพเชื้อเพลิงปลายทางและกฎการรับสมัคร
-
 ## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
 1. เลือกดีเซลหรือน้ํามันดีเซล VN (แก้ไขความขัดแย้ง 390/415).
 2. ยาว ล้อและตรงกับเตียง; รัฐ RWD หรือ 4WD.
 3. ยืนยันชุดเกียร์ (6MT/8AT)
 4. ฟิวเจล ความเข้ากันได้ การถ่ายเทของโฮโมล็อก ไม่ใช่การประเมิน
 5. ต้องการอ้างอิงการส่งออกในปัจจุบัน; ไม่มีการพิมพ์ที่นี่
-
 ## ขนาด FAQ
 "ดีเซลแรงม้า 390 หรือ 415 N·m" แหล่ง ข้อมูล ต่าง ๆ ขัด แย้ง กัน โดย ใช้ ฉบับ แปล; ยืน ยัน การ ตัด แต่ง อย่าง ถูก ต้อง — หน้า นี้ ไม่ ได้ เลือก อย่าง หนึ่ง.
 ~มันเข้ามาใน 4WD หรือเปล่า~ Rear-ไดรฟ์หรือบน Demand 4WD รายการจะถูกตรวจสอบการสร้าง
 ~อะไรคือความจุของปีก ~ ไม่ จับ ได้; อย่า กะ ประมาณ — ใช้ ข้อมูล นอก สารบบ.
 ~มิติที่ไม่มีวันตาย~ One-source here; สืบค้นเมื่อเทียบกับก่อนทําการสั่งซื้อ
 ~ น้ํามันเชื้อเพลิงอันไหนสําหรับดีเซล? ~ จีน-VI 0 ดีเซล; ตรวจสอบการเข้ากันได้ของเชื้อเพลิง
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | media/industry | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | primary | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## การทบทวนแก้ไข
-- ~Uuthor : AutoBridge ส่งออกทีมแก้ไข สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ ตลาดแห่งความไม่สงบ~: จีน (อ้างอิงตลาดจีน; มวลชนพาณิชย์ต้องได้รับการยืนยันโดย Homologion/VIN)
-- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
-- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+| แหล่งที่มา | องค์กร | ตลาด | URL | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- |
+| Grand GeneralG9 vehicle encyclopedia | PCauto Encyclopedia | CN | http://m.pcauto.com.cn/baike/1435088/ | Dimensions, Cargo box, Powertrain |
+| Grand GeneralG9 configuration | PCauto | CN | https://m.pcauto.com.cn/baike/1407114/ | DieselPowertrain, Gearbox, AWD |
+| Grand GeneralG9 model page | PCauto | CN | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| Grand GeneralG9 Specifications | Sina Auto model database | CN | http://db.auto.sina.cn/car/87477/ | Dimensions, Powertrain |
+| Dajiangjun G9 configuration库 | 买车network | CN | https://m.maiche.com/s5864/c110283/config.html | การอ้างอิงข้อกำหนดและขอบเขต |
+| Foton Motor official site | Beiqi Foton Motor Foton (OEM) | CN | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 
-## บันทึกรูปภาพ
--"ประกาศผล" ไม่มีความปลอดภัยในคลังเก็บ
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ~ฝนที่ตก~ ไม่ใช้ — ไม่มีส่วนแฟ้มสําหรับเลือกใช้สื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- **RIGHTS_HOLDER**: unconfirmed
--""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ไม่ มี ใคร ปลอด ภัย — การ มี หน้า ปก ของ เว็บเพจ โอ อี เอ็ม ไม่ ใช่ ใบ รับรอง การ ทํา ซ้ํา ใหม่ ทาง การ ค้า
-- **CHECKED_DATE**: 2026-09-06
--"CRL/TOICC_MATCH*: รถกระบะ Foveton เป๊ะๆ G9
--"ห้ามเข้า" ภาพต้องตรงกับครอบครัว/ TOP ต้นแบบที่แน่นอนเท่านั้น ต้องไม่ได้หมายถึงการตัดแต่งแบบ โมเดล ปีจริง การตรวจสอบภายใน หรือการทําธุรกรรมจริง
-- **IMAGE_RIGHTS_STATUS**: FAIL
--"Bock_REASON: ไม่สามารถเข้ารหัสภาพได้: Wikited Commors/Flickr ไม่สามารถติดต่อได้จากสภาพแวดล้อมการวิจัย, ห้องสมุดหลักต้องการสิทธิ์ API/licence และภาพจากเว็บเพจของ OEM ก็ไม่ใช่การให้ใช้ร่วมกันแบบพาณิชย์ ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
-- **ALT (12 languages)**:
-  - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
-  - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
-  - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer
-  - **ES**: Foton General G9 pickup, pickup truck del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton General G9 pickup, pickup truck do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton General G9 pickup, 中国市場pickup truck・輸出バイヤー向けリファレンス
-  - **KO**: Foton General G9 pickup, 중국 시장 pickup truck, 수출 바이어 참고 자료
-  - **VI**: Foton General G9 pickup, pickup truck thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton General G9 pickup, pickup truck ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton General G9 pickup, pickup truck pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton General G9 pickup, pickup truck السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton General G9 pickup, 中国市场pickup truck·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #FotonG9 #Pickup
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: จีน
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ

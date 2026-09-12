@@ -1,47 +1,46 @@
 # الصين - كار: دليل التحقق من المواقع المحلية
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Chinese-Car Infotainment &  OTA  Abroad: a Per- VIN  Check Guide
-- **وصف Meta**: هل تعمل وحدة رأس الصين في السوق؟ التحقق من UI لغة، وخرائط محلية، وعكس الهاتف، وقابلية الوصول إلى الشاشة/الخدمة، و OTA لغة في المجموع الفعلي البالغ VIN لغويا، مع الاحتفاظ بوقائع محددة بعلامات محددة عن أمثلة الصناعة.
-- **H1**: صنع برنامج للسيارات الصينية في سوقك ما الذي سيختبره في السيارة الفعلية
-- **الكلمة المفتاحية الرئيسية**: Chinese car infotainment English  OTA  overseas localization per  VIN
-- **مصطلحات بحث ثانوية**: China-spec head unit English  UI , BYD (ديلينك) في الخارج EV الصينية في الخارج سيارة (كاربلا أندرويد) الصينية OTA منطقة خادم،  Arabic  RTL   HMI , بناء برامجيات تحويل الصادرات
-- **URL المقترح**: /guides/chinese-car-infotainment-ota-localization/
-- **نية البحث**: هل تفهم صنع برنامج للسيارات الصينية في سوقك ما الذي يتعين على المصدر أن يختبره في السيارة الفعلية: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
-- **اقتراح الصورة**: الصينية فقط ضد الإنكليزية
-- **نص ALT**: الصين - أماكن لتركيب رئيس الوحدة
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: Chinese-Car Infotainment & OTA Abroad: a Per- VIN Check Guide
+- وصف Meta: هل تعمل وحدة رأس الصين في السوق؟ التحقق من UI لغة، وخرائط محلية، وعكس الهاتف، وقابلية الوصول إلى الشاشة/الخدمة، و OTA لغة في المجموع الفعلي البالغ VIN لغويا، مع الاحتفاظ بوقائع محددة بعلامات محددة عن أمثلة الصناعة.
+- H1: صنع برنامج للسيارات الصينية في سوقك ما الذي سيختبره في السيارة الفعلية
+- الكلمة المفتاحية الرئيسية: Chinese car infotainment English OTA overseas localization per VIN
+- مصطلحات بحث ثانوية: China-spec head unit English UI, BYD (ديلينك) في الخارج EV الصينية في الخارج سيارة (كاربلا أندرويد) الصينية OTA منطقة خادم، Arabic RTL HMI, بناء برامجيات تحويل الصادرات
+- URL المقترح: /guides/chinese-car-infotainment-ota-localization/
+- نية البحث: هل تفهم صنع برنامج للسيارات الصينية في سوقك ما الذي يتعين على المصدر أن يختبره في السيارة الفعلية: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/
+- اقتراح الصورة: الصينية فقط ضد الإنكليزية
+- نص ALT: الصين - أماكن لتركيب رئيس الوحدة
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## تأديب الأدلة هذا الدليل
-السلوك البرمجي هو ** البرمجيات والمناسبات الخاصة**، ولذلك تفصل هذه الصفحة عن عمد نوعين من البيانات:
+السلوك البرمجي هو البرمجيات والمناسبات الخاصة، ولذلك تفصل هذه الصفحة عن عمد نوعين من البيانات:
 - هذه لا يمكن أن تسوي إلا على شبكة الإنترنت الدقيقة عبر قناة العلامة التجارية الخارجية أو اختبار حي، ولا يُستدل منها أبداً من نموذج آخر.
-- ** أمثلة صناعية** - حالات مسمّاة (مسار حسابي حسب الغرض، ومبنى لصادرات دنزا، وقضية خدمة محلية) توضح * ما يمكن أن يحدث*، و ** لا يجري تعميمها في جميع السيارات الصينية**.
+- أمثلة صناعية - حالات مسمّاة (مسار حسابي حسب الغرض، ومبنى لصادرات دنزا، وقضية خدمة محلية) توضح * ما يمكن أن يحدث*، و لا يجري تعميمها في جميع السيارات الصينية.
 وعادة ما تُصمم وحدة من السوق الصينية حول المستعملين الصينيين والخدمات السحابية المحلية؛ ولا يضمن برمجياتها في الخارج، بمفردها، أن تكون متجانسة هذه المعدات. وهذا خطر على شبكة الإنترنت، وليس على بيان بأن كل وحدة من وحدات السوق الصينية تفشل في الخارج - إذ أن عمليات بناء صادرات المصنع مصممة خصيصا لتجنبها.
 ## لماذا وحدة صينية - دموية يمكنها أن تهزّم ما وراء البحار (نمط الصناعة)
-ويستخدم كثير من العلامات الصينية إلى حد كبير أجهزة الكوكب ذاتية الصنع، التي تقوم على أساس أندرويد (تشمل الأمثلة الصناعية بي دي**، و NIO **SkyOS**، و XPeng **Xmart OS** - قائمة توضيحية، وليس قائمة موحدة)، وكثيرا ما تكون ذات طبقة لغوية متخلفة عن الوصف، ونظام إيكولوجي للخدمة المحلية. في الحالات المبلغ عنها**، وصلت بعض المركبات ذات السوق المشتركة الصينية الموازية* في أسواق من أوكرانيا وروسيا إلى الإمارات العربية المتحدة، والمملكة العربية السعودية، والبرازيل، وتايلند إلى خرائط موحدة للصين فقط، أو إلى حسابات رئيسية غير متاحة. عالج هذه الحالات كما هي الحالات المبلغ عنها ونمط اختبارها** وليس ادعاء بأن كل وحدة من كل علامه تجارية تتصرف بشكل متطابق نفس العلامة التجارية قد تشحن بناية تصديرية محلية بالكامل إلى جانب واحدة محلية وقضية عارضة لا ترسي سلوك نموذج آخر
+ويستخدم كثير من العلامات الصينية إلى حد كبير أجهزة الكوكب ذاتية الصنع، التي تقوم على أساس أندرويد (تشمل الأمثلة الصناعية بي دي، و NIO SkyOS، و XPeng Xmart OS - قائمة توضيحية، وليس قائمة موحدة)، وكثيرا ما تكون ذات طبقة لغوية متخلفة عن الوصف، ونظام إيكولوجي للخدمة المحلية. في الحالات المبلغ عنها، وصلت بعض المركبات ذات السوق المشتركة الصينية الموازية* في أسواق من أوكرانيا وروسيا إلى الإمارات العربية المتحدة، والمملكة العربية السعودية، والبرازيل، وتايلند إلى خرائط موحدة للصين فقط، أو إلى حسابات رئيسية غير متاحة. عالج هذه الحالات كما هي الحالات المبلغ عنها ونمط اختبارها وليس ادعاء بأن كل وحدة من كل علامه تجارية تتصرف بشكل متطابق نفس العلامة التجارية قد تشحن بناية تصديرية محلية بالكامل إلى جانب واحدة محلية وقضية عارضة لا ترسي سلوك نموذج آخر
 ## عملية إلقاء الأدلة (القراءة قبل تعميمها)
-هذه المادةِ مُتَعَبِرةِ عِنْدَها سقفُ صلبُ: ولا يوجد مصدر رسمي (منظم أو متعدد الأعضاء)** يُثبت أن المركبات الصينية، كفئة، تتقاسم هذه المشاكل المتعلقة بالبرمجيات. وبناء على ذلك:
+هذه المادةِ مُتَعَبِرةِ عِنْدَها سقفُ صلبُ: ولا يوجد مصدر رسمي (منظم أو متعدد الأعضاء) يُثبت أن المركبات الصينية، كفئة، تتقاسم هذه المشاكل المتعلقة بالبرمجيات. وبناء على ذلك:
 - أما القضايا التي تسمى قضايا الـ دي ودينزا والتسوية المحلية، فهي تدعم فقط *المبيعات* - وهي أدلة على أن النتيجة *كان* تحدث، وليس أنها تحدث بالنسبة للعلامات الأخرى.
-- ولا يوجد استنتاج هنا أو يعني أن جميع سيارات السوق الصينية (أو معظمها) لديها مصاريف موحّدة صينية فقط، وخرائط مقفلة، وحسابات غير قابلة للكشف أو حسابات مجمّعة؛ وهى مخاطرة للاختبار**، حسب الرقم القياسي للاختبار.
+- ولا يوجد استنتاج هنا أو يعني أن جميع سيارات السوق الصينية (أو معظمها) لديها مصاريف موحّدة صينية فقط، وخرائط مقفلة، وحسابات غير قابلة للكشف أو حسابات مجمّعة؛ وهى مخاطرة للاختبار، حسب الرقم القياسي للاختبار.
 - قيمة المقالة هي إطار اختبار "الفي بي إن" ليس دليلاً على وجود عيب عالمي أي إجابة حاسمة عن سيارة محددة تأتي من اختبار حي و قناة العلامة التجارية الخارجية
 ## نقاط الفشل الخمسة - اختبار كل منها على شبكة المعلومات الفعلية
 | تحقق | ما تعنيه "العمل" | مشكلة الصين العادية | نوع الأدلة |
-|---|---|---|---|
-| ** 1. لغـة UI*  | لغة مستهدفة مُستقرة في جميع المناطق، الإنذار، الصوت | الترجمة التحريرية الصينية فقط أو الجزئية للآلات مع أخطاء في التصميم | اختبار للضحية |
-| ** 2. | خرائط الشوارع المحلية، وبيانات الشحن المحلية | خرائط الصين فقط؛ لا توجد بيانات محلية عن | اختبار للضحية |
-| ** 3. ** مرآة الهاتف** | CarPlay/ Android Auto | الغائبون أو غير المستقرين أو غير المستقرين في المنطقة | الاختبارات لكل شبكة من الشخصيات البارزة؛ تختلف بعلامات |
-| ** 4. ** خادم حساب التأشيرة*  | يمكن استخدامها محليا؛ ويمكن الوصول إلى السحابة في الخارج | مقفل على الصين | محددة براند - تؤكد مع العلامة التجارية |
-| ** 5. من طراز OTA** | الوصول إلى نقطة نهاية اتفاق التجارة الدولية؛ تحديثات تركيبية من الخارج | لا يمكن الوصول إليه، السيارة مجمدة على البناء القديم | |
-** للكتابات الصحيحة للسرقة**، تحتاج التمركز السليم إلى grammar/layout، وليس الترجمة فقط؛ ووحدة " قادرة على الانجليزي " ليست جاهزة للقراءة العربية تلقائيا.
+| --- | --- | --- | --- |
+| 1. لغـة UI* | لغة مستهدفة مُستقرة في جميع المناطق، الإنذار، الصوت | الترجمة التحريرية الصينية فقط أو الجزئية للآلات مع أخطاء في التصميم | اختبار للضحية |
+| 2. | خرائط الشوارع المحلية، وبيانات الشحن المحلية | خرائط الصين فقط؛ لا توجد بيانات محلية عن | اختبار للضحية |
+| 3. مرآة الهاتف | CarPlay/ Android Auto | الغائبون أو غير المستقرين أو غير المستقرين في المنطقة | الاختبارات لكل شبكة من الشخصيات البارزة؛ تختلف بعلامات |
+| 4. خادم حساب التأشيرة* | يمكن استخدامها محليا؛ ويمكن الوصول إلى السحابة في الخارج | مقفل على الصين | محددة براند - تؤكد مع العلامة التجارية |
+| 5. من طراز OTA | الوصول إلى نقطة نهاية اتفاق التجارة الدولية؛ تحديثات تركيبية من الخارج | لا يمكن الوصول إليه، السيارة مجمدة على البناء القديم | |
+ للكتابات الصحيحة للسرقة، تحتاج التمركز السليم إلى grammar/layout، وليس الترجمة فقط؛ ووحدة " قادرة على الانجليزي " ليست جاهزة للقراءة العربية تلقائيا.
 ## حل الهرمي (من أفضل إلى الملاذ الأخير)
 1. بناء برامجيات تحويل الصادرات إلى عوامل (يُشار إليها سابقا). فالبنات التصديرية والمنزلية تُدير أكوام مختلفة - وهو مثال " الصناعة " * هو " دينزا ز " الأوروبي " الذي يبني على " أندرويد " أوتوماتيكيا " مبنيا في جوجل " مقابل قنبلة محلية متطورة ذاتيا؛ وهذا يوضح التمييز، فهو لا يعد بالمثل بالنسبة إلى نماذج أخرى. تفضل بناء الصادرات وتأكيدها بحلول VIN
-2. ** ممر اللغة المدعوم ببراوند**. وتوثّق قضية " الصناعة "* بعض نماذج البيانات التي تُحوّل مرفق التعليم الثانوي إلى الإنكليزية عن طريق الحساب الرئيسي بدون معدات؛ وهذا مثال محدد لإعادة تأكيد النموذج الدقيق - وهو أن تحديد المواقع الكاملة للغة بسيطة مهمة منفصلة.
-3. ** إقامة محلية آمنة ومأمونة مضمونة**، حيث تدعمها العلامة التجارية، موثقة.
-4. ** تجنب "الضرب" بدون إذن** وبعد ردع السوق يمكن أن يبطل الضمان ويتعارض مع قواعد الامتثال ولم يتم تأكيد شرعيتها من مصدر رسمي. عالج "يمكننا أن نكسره إلى اللغة الإنجليزية" كعلامة مخاطرة.
+2. ممر اللغة المدعوم ببراوند. وتوثّق قضية " الصناعة "* بعض نماذج البيانات التي تُحوّل مرفق التعليم الثانوي إلى الإنكليزية عن طريق الحساب الرئيسي بدون معدات؛ وهذا مثال محدد لإعادة تأكيد النموذج الدقيق - وهو أن تحديد المواقع الكاملة للغة بسيطة مهمة منفصلة.
+3. إقامة محلية آمنة ومأمونة مضمونة، حيث تدعمها العلامة التجارية، موثقة.
+4. تجنب "الضرب" بدون إذن وبعد ردع السوق يمكن أن يبطل الضمان ويتعارض مع قواعد الامتثال ولم يتم تأكيد شرعيتها من مصدر رسمي. عالج "يمكننا أن نكسره إلى اللغة الإنجليزية" كعلامة مخاطرة.
 ## مطالبة شركة HMI للتفتيش على الصادرات - غير مُستقرة
-An industry source suggests 2026 export inspection may require English-HMI screenshots. وهذا هو ** الصناعة فقط ولم يُثبت ضد وثيقة رسمية من وثائق المالي الخاص**، ولذلك لا يُذكر أنه شرط. ومع ذلك، فمن الحكمة الاحتفاظ بالأدلة المباشرة الانكليزية في ملف التصدير.
+An industry source suggests 2026 export inspection may require English-HMI screenshots. وهذا هو الصناعة فقط ولم يُثبت ضد وثيقة رسمية من وثائق المالي الخاص، ولذلك لا يُذكر أنه شرط. ومع ذلك، فمن الحكمة الاحتفاظ بالأدلة المباشرة الانكليزية في ملف التصدير.
 ## Per-VIN اختبار القبول (يجري قبل تسلمه)
-على شبكة الإنترنت المُتَعَلَّم**، على شبكة مقصد SIM/Wi-Fi:
+على شبكة الإنترنت المُتَعَلَّم، على شبكة مقصد SIM/Wi-Fi:
 - يُعمّم كل إلى اللغة المستهدفة؛ وتصوير المناطق غير المترجمة.
 - - أنقلوا وجهة محلية وشاحنة قريبة
 - هاتف عبر أوتو
@@ -50,55 +49,29 @@ An industry source suggests 2026 export inspection may require English-HMI scree
 - بالنسبة لأسواق RTL، التحقق من التوجيه التصميمي، وليس فقط مفردات.
 - : تحقيق نتائج في العقد: إذا تعذر إثبات عمليات التفتيش البالغ عددها 1–5، أخذ عملية بناء الصادرات أو الانسحاب منها.
 ## ما يضيفه التألق إلى ما بعد التسويق المحلي
-ويملك بائعو التعبئة المحلية حافزاً على القول إن كل مشكلة قابلة للحل (لرسوم). وبدلا من ذلك، يوصي هذا الدليل بإجراء اختبار قبول محايد ومحايد في الشبكة**: ملاحظة عن الإخفاقات في المقفلة مقابل اللغة فقط، والاحتفاظ بـ ** قدرة تجارية موثقة منفصلة عن الإكسيد** في ملف الشراء - بحيث لا يدفع المشتري ثمن تحويل إنجليزي كامل، لا يمكن أن يوفره بناء التصدير في مصنع، ولا يعتمد على دراسة حالة من نموذج مختلف.
+ويملك بائعو التعبئة المحلية حافزاً على القول إن كل مشكلة قابلة للحل (لرسوم). وبدلا من ذلك، يوصي هذا الدليل بإجراء اختبار قبول محايد ومحايد في الشبكة: ملاحظة عن الإخفاقات في المقفلة مقابل اللغة فقط، والاحتفاظ بـ قدرة تجارية موثقة منفصلة عن الإكسيد في ملف الشراء - بحيث لا يدفع المشتري ثمن تحويل إنجليزي كامل، لا يمكن أن يوفره بناء التصدير في مصنع، ولا يعتمد على دراسة حالة من نموذج مختلف.
 ## الأسئلة المتكررة
-** هل يمكن تحويل سيارة صينية إلى اللغة الانكليزية؟** وأحياناً جزئياً (حالة موثقة من الحساب الرئيسي للشركة)، ولكن الخرائط وشركة OTA منفصلة؛ تؤكد على الرقم القياسي للفيونات بدلاً من تعميم المثال.
-** لماذا تفشل الملاحة في الخارج**؟ وتقوم بعض الأسواق الصينية ببناء للسفينة الصينية، حيث تحتاج إلى بناء تصدير أو حل للخرائط المحلية المدعومة بالعلامات التجارية، بالإضافة إلى بيانات الشحن المحلية للمركبات الإلكترونية - تؤكد على شبكة المعلومات.
-** هل لا تزال منظمة التجارة الدولية تصل إلى الخارج؟** ولا يمكن الوصول إلى نقطة النهاية إلا إذا كانت المنطقة قابلة للوصل - اختبار على السيارة الفعلية؛ ولا تستنتج من نموذج آخر.
+ هل يمكن تحويل سيارة صينية إلى اللغة الانكليزية؟ وأحياناً جزئياً (حالة موثقة من الحساب الرئيسي للشركة)، ولكن الخرائط وشركة OTA منفصلة؛ تؤكد على الرقم القياسي للفيونات بدلاً من تعميم المثال.
+ لماذا تفشل الملاحة في الخارج؟ وتقوم بعض الأسواق الصينية ببناء للسفينة الصينية، حيث تحتاج إلى بناء تصدير أو حل للخرائط المحلية المدعومة بالعلامات التجارية، بالإضافة إلى بيانات الشحن المحلية للمركبات الإلكترونية - تؤكد على شبكة المعلومات.
+ هل لا تزال منظمة التجارة الدولية تصل إلى الخارج؟ ولا يمكن الوصول إلى نقطة النهاية إلا إذا كانت المنطقة قابلة للوصل - اختبار على السيارة الفعلية؛ ولا تستنتج من نموذج آخر.
 هل يُرددُ آمناً؟ ويمكن أن يؤدي الومض غير المأذون به إلى إبطال الضمانات ورفع قضايا الامتثال؛ ويفضل بناء صادرات المصنع أو طريقاً يدعمه الماركات التجارية.
-** هل يُعدّ الاتحاد الإنكليزي قراءته العربية**؟ لا - العربية تحتاج إلى مخطط لشبكة RTL وإلى تحديد موقع مناسب يتجاوز الترجمة.
-## سجل الصور
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chinese-car infotainment and OTA localization, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Chinese-car infotainment and OTA localization, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chinese-car infotainment and OTA localization, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chinese-car infotainment and OTA localization, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chinese-car infotainment and OTA localization, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chinese-car infotainment and OTA localization, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chinese-car infotainment and OTA localization, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese-car infotainment and OTA localization, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Chinese-car infotainment and OTA localization, 汽车出口采购指南
-
+ هل يُعدّ الاتحاد الإنكليزي قراءته العربية؟ لا - العربية تحتاج إلى مخطط لشبكة RTL وإلى تحديد موقع مناسب يتجاوز الترجمة.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | single source | Industry **pattern/example only**, not generalised |
-| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | single source | **Brand-specific example**: China-only problems; BYD account English switch (re-confirm per model) |
-| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | single source | **Example** of export vs domestic stack (not universal) |
-| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | single source | Five-check acceptance method |
-| Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | single source | RTL/Arabic layout consideration |
-| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | single source | 英文 HMI、刷机成本（行业口径，待官方核验） |
-| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | single source | 海外用户 UI 翻译/手机互联问题 |
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | Industry pattern/example only, not generalised |
+| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | Brand-specific example: China-only problems; BYD account English switch (re-confirm per model) |
+| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | Example of export vs domestic stack (not universal) |
+| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | Five-check acceptance method |
+| Multilingual/RTL export standard | CCID CCID (Saidi) / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | RTL/Arabic layout consideration |
+| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | 英文 HMI, 刷机成本(行业口径, 待official核验) |
+| Why Chinese cars struggle with localization overseas (intelligent-cockpit analysis) | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | 海外用户 UI 翻译/手机互联问题 |
 
-*Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
-## استعراض التحرير
-- ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: عالمي (تصدير مواز)
-- ** طريقة الفرز**: قضايا صناعية مُصنفة كمثال، كلّ فحص حاسم مُوجّه إلى إختبار حيّ لكلّ شبكة معلوماتٍ، و قناة الماركة الخارجية
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-08
+- السوق المرجعي: عالمي
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.
 #AutoBridge #InfotainmentLocalization #OTAUpdate #PerVINTest #VehicleExport

@@ -1,110 +1,70 @@
 # "إم بي إل"، "إفراج عن بُعد" أو "سيا وايل"؟ اختيار طريقة إطلاق المركبات بموجب قانون البحرية 2025
-
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Vehicle Export Bill of Lading Guide —  MBL/HBL /Telex/ SWB  + Maritime Code Arts. 80/81/87
-- **وصف Meta**: (ب) كيف تختلف الفواتير الرئيسية، فواتير المنازل، والإفراج عن برقية، وطرق البحر، وقواعد القابلية للتحويل/التوصيل في المدونة البحرية المنقحة للصين (النافذة 2026-05-01، المادة 80/81/87) وتطابق طريقة الإفراج عن البضائع مع شروط الدفع.
-- **H1**: اختيار طريقة لسحب مصاريف السيارات من المركبات المصدرة - الممارسات التجارية التي تم بحثها في المدونة البحرية المنقحة
-- **الكلمة المفتاحية الرئيسية**: سندات تصدير المركبات
-- **مصطلحات بحث ثانوية**: تنقيح القانون البحري 2025، المادة 80، سند الشحن، المادة 81 وثيقة نقل أخرى، المادة 87 تسليم، NVOCC HBL، تلكس فواتير
-- **URL المقترح**: /guides/vehicle-export-bill-of-lading-types
-- **نية البحث**: فهم اختيار طريقة " مشروع قانون الإطلاق " للمركبات المصدرة - الممارسة التجارية التي تم بحثها في القانون البحري المنقح: ما الذي يجب على المصدر من المركبات/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
-- **اقتراح الصورة**: مقارنة بأربعة أمتار
-- **نص ALT**: التفاوض بشأن السائل المائي المائي الملغوم في إطار المدونة البحرية المنقحة
-- **نطاق المخطط**: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
-
+- عنوان SEO: Vehicle Export Bill of Lading Guide — MBL/HBL /Telex/ SWB + Maritime Code Arts. 80/81/87
+- وصف Meta: (ب) كيف تختلف الفواتير الرئيسية، فواتير المنازل، والإفراج عن برقية، وطرق البحر، وقواعد القابلية للتحويل/التوصيل في المدونة البحرية المنقحة للصين (النافذة 2026-05-01، المادة 80/81/87) وتطابق طريقة الإفراج عن البضائع مع شروط الدفع.
+- H1: اختيار طريقة لسحب مصاريف السيارات من المركبات المصدرة - الممارسات التجارية التي تم بحثها في المدونة البحرية المنقحة
+- الكلمة المفتاحية الرئيسية: سندات تصدير المركبات
+- مصطلحات بحث ثانوية: تنقيح القانون البحري 2025، المادة 80، سند الشحن، المادة 81 وثيقة نقل أخرى، المادة 87 تسليم، NVOCC HBL، تلكس فواتير
+- URL المقترح: /guides/vehicle-export-bill-of-lading-types
+- نية البحث: فهم اختيار طريقة " مشروع قانون الإطلاق " للمركبات المصدرة - الممارسة التجارية التي تم بحثها في القانون البحري المنقح: ما الذي يجب على المصدر من المركبات/القطع أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- اقتراح الصورة: مقارنة بأربعة أمتار
+- نص ALT: التفاوض بشأن السائل المائي المائي الملغوم في إطار المدونة البحرية المنقحة
+- نطاق المخطط: المادة (لا المنتجات/الأسعار/الاستعراض/النقل)
 ## مشكلة المشتريات هي مراقبة السيارات، وليس العمل الورقي
-ويعامل المصدرون خيار سندات الشحن على أنه وثائق. وهو قرار ينطوي على مخاطرة بالدفع**: في اللحظة التي تنتقلين فيها من فاتورة قابلة للتداول إلى إطلاق التلكس أو مجرى البحر، تتغيرين عندما تتوقفين عن التحكم بالسيارة في الوجهة. هذا الدليل يُقارن بين سلوك الأعمال الأربعة مع العمود الفقري الصيني الصيني الحالي****revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), نافذة من 2026-05-01 (16 فصلاً)  310 articles)** —  and  ثم يطابق طريقة شروط الدفع. وتظل قواعد ورسوم التلكس الخاصة محددة في الرحلات ولا تُذكر كقيم ثابتة.
-
+ويعامل المصدرون خيار سندات الشحن على أنه وثائق. وهو قرار ينطوي على مخاطرة بالدفع: في اللحظة التي تنتقلين فيها من فاتورة قابلة للتداول إلى إطلاق التلكس أو مجرى البحر، تتغيرين عندما تتوقفين عن التحكم بالسيارة في الوجهة. هذا الدليل يُقارن بين سلوك الأعمال الأربعة مع العمود الفقري الصيني الصيني الحاليrevised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), نافذة من 2026-05-01 (16 فصلاً) 310 articles) — and ثم يطابق طريقة شروط الدفع. وتظل قواعد ورسوم التلكس الخاصة محددة في الرحلات ولا تُذكر كقيم ثابتة.
 ## المستندات الأربعة
 | المنهجية | من يُسأل | كيف يأخذ المرسل إليه التسليم | الشاحن يحمل وثيقة عناوين ورقية؟ |
-|---|---|---|---|
-| ** ماستر (م ب)*  | خط | استسلموا من قبل ميغابايت (أو إجراء المتابعة) | نعم - عقد النقل + وظيفة وثائق الملكية |
-| ** هوس (HBL)*  | NVOCC/شحن | مرسلة من طراز HBL تبادل HBL ل MBL عبر وكيل الوجهة | نعم على مستوى HBL، مع حزب إضافي في السلسلة |
-| ** إطلاق سراح تيلكس** | ناقل بعد عودة الأصلية | تعليم الإفراج الإلكتروني؛ جمع نسخة + هوية | ** لا** - يُعطى العنوان الورقي في حالة الإفراج |
-| **Sea Waybill (SWB)*  | الناقل | المرسل إليه المسمّى يحصّل على إثبات الهوية؛ غير قابل للتفاوض | ** لا** - لا وثيقة لقب، لا يمكن نقلها |
-
+| --- | --- | --- | --- |
+| ماستر (م ب)* | خط | استسلموا من قبل ميغابايت (أو إجراء المتابعة) | نعم - عقد النقل + وظيفة وثائق الملكية |
+| هوس (HBL)* | NVOCC/شحن | مرسلة من طراز HBL تبادل HBL ل MBL عبر وكيل الوجهة | نعم على مستوى HBL، مع حزب إضافي في السلسلة |
+| إطلاق سراح تيلكس | ناقل بعد عودة الأصلية | تعليم الإفراج الإلكتروني؛ جمع نسخة + هوية | لا - يُعطى العنوان الورقي في حالة الإفراج |
+| Sea Waybill (SWB)* | الناقل | المرسل إليه المسمّى يحصّل على إثبات الهوية؛ غير قابل للتفاوض | لا - لا وثيقة لقب، لا يمكن نقلها |
 # العمود الخلفي القابلية للتحويل، وثائق أخرى، التنفيذ
 ويزود القانون البحري المنقح الهيكل القانوني لهذه الاختلافات في الأعمال التجارية:
-- ** المادة 80 - نقل سندات الشحن**: لا يمكن نقل الشحنة (المسماة) نقل المغفل عن طريق ** إقرار خاص أو إقرار صريح**؛ نقل الكاتب B/L** دون تأييد**. لهذا السبب فواتير هي الأداة التي تحافظ على السيطرة و لماذا لا يمكن أن تكون ببساطة مجرد تفكك
-- ** المادة 81 - وثائق النقل الأخرى**: وثيقة غير وثيقة B/L التي يُصدرها الناقل لإثبات استلام البضائع للنقل هي دليل على وجود كل من عقد النقل بحرا وتلقي الناقل** للبضائع المدرجة في القائمة. هذه الإطارات وثائق غير مُحقة مثل مُسدّس البحر**: يُثبتونَ إستلامَ وعقودَ لكن لا يَحْملونَ a بي إل مُتَحَقَّلَة مُهمة مستندِ الاستحقاق.
-- ** المادة 87 - قواعد التسليم**: بموجب البند يكون التسليم موجها إلى المرسل إليه**، تحت العنوان إلى المرسل**، تحت العنوان B/L**، إلى الم **، تحت أمر مسموع أو غير مصدق عليه، B/L**، إلى المحمل**؛ ويُسلَّم سجل نقل إلكتروني قابل للتحويل** إلى صاحبه****. وتحدد هذه القواعد بالضبط من يحق له أن يجمع المركبة.
-
+- المادة 80 - نقل سندات الشحن: لا يمكن نقل الشحنة (المسماة) نقل المغفل عن طريق إقرار خاص أو إقرار صريح؛ نقل الكاتب B/L دون تأييد. لهذا السبب فواتير هي الأداة التي تحافظ على السيطرة و لماذا لا يمكن أن تكون ببساطة مجرد تفكك
+- المادة 81 - وثائق النقل الأخرى: وثيقة غير وثيقة B/L التي يُصدرها الناقل لإثبات استلام البضائع للنقل هي دليل على وجود كل من عقد النقل بحرا وتلقي الناقل للبضائع المدرجة في القائمة. هذه الإطارات وثائق غير مُحقة مثل مُسدّس البحر: يُثبتونَ إستلامَ وعقودَ لكن لا يَحْملونَ a بي إل مُتَحَقَّلَة مُهمة مستندِ الاستحقاق.
+- المادة 87 - قواعد التسليم: بموجب البند يكون التسليم موجها إلى المرسل إليه، تحت العنوان إلى المرسل، تحت العنوان B/L، إلى الم ، تحت أمر مسموع أو غير مصدق عليه، B/L، إلى المحمل؛ ويُسلَّم سجل نقل إلكتروني قابل للتحويل إلى صاحبه. وتحدد هذه القواعد بالضبط من يحق له أن يجمع المركبة.
 ## حيث يوضع الخطر في الممارسة العملية
-- قبل دفع كامل، إطلاق التلكس و الـ إس دبليو بي كلاهما يُطلقان في وقت مبكر**، لأنه لا يوجد بقايا أصلية قابلة للتداول في أيدي الشاحن (تُفسّر المادة 80/81 السبب). تطابقها مع T/T** التي دفعت مسبقاً أو موقف مؤمن تماماً.
-- ** لا يمكن عموماً أن تكون الفواتير من الدرجة الأولى إلى الدرجة الثانية** - إن تداولها (المادة 80) هو آلية المراقبة.
-- ** يضيف "هى بي إل" تبعية متسلسلة** لا يمكن للمشتري أن يجمع حتى يقوم وكيل شركة "إن في سي" الخارجية بتحويل "إتش بي إل" إلى "إم بي إل"
-- ** يختلف قبول (يُبلغ عن أن بعض وجهات أمريكا الجنوبية لا تقبل الإفراج عن برقية) - تؤكد مع الناقل ووكيل المقصد**، على كل طريق تسليم للمادة 87 الذي سيطبق فعلا.
-
+- قبل دفع كامل، إطلاق التلكس و الـ إس دبليو بي كلاهما يُطلقان في وقت مبكر، لأنه لا يوجد بقايا أصلية قابلة للتداول في أيدي الشاحن (تُفسّر المادة 80/81 السبب). تطابقها مع T/T التي دفعت مسبقاً أو موقف مؤمن تماماً.
+- لا يمكن عموماً أن تكون الفواتير من الدرجة الأولى إلى الدرجة الثانية - إن تداولها (المادة 80) هو آلية المراقبة.
+- يضيف "هى بي إل" تبعية متسلسلة لا يمكن للمشتري أن يجمع حتى يقوم وكيل شركة "إن في سي" الخارجية بتحويل "إتش بي إل" إلى "إم بي إل"
+- يختلف قبول (يُبلغ عن أن بعض وجهات أمريكا الجنوبية لا تقبل الإفراج عن برقية) - تؤكد مع الناقل ووكيل المقصد، على كل طريق تسليم للمادة 87 الذي سيطبق فعلا.
 ## طريقة مطابقة شروط الدفع
-- ** T/T مقدماً بالكامل**: التلكس أو السائل المنوي قابل للتطبيق؛ ولم يعد هناك حاجة إلى نفوذ للتحكم.
-- **L/C**: اتباع الائتمان بالضبط - وهو يتطلب عادة مشروعاً قابلاً للتداول من الفئة على النحو المذكور؛ ويخلق استبداله تفاوتاً.
-- ** عدم التطابق مع حساب B/L/حساب مفتوح**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; لا تبث أبداً سيارة غير مدفوعة الأجر
+- T/T مقدماً بالكامل: التلكس أو السائل المنوي قابل للتطبيق؛ ولم يعد هناك حاجة إلى نفوذ للتحكم.
+- L/C: اتباع الائتمان بالضبط - وهو يتطلب عادة مشروعاً قابلاً للتداول من الفئة على النحو المذكور؛ ويخلق استبداله تفاوتاً.
+- عدم التطابق مع حساب B/L/حساب مفتوح: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; لا تبث أبداً سيارة غير مدفوعة الأجر
 - "رو" ضد الحاوية "أطلقوا ضد المحيط "ب" و"ل" تأكدوا من إجراء الخط وطريق "أرت 87" المرسل قبل اختيار الآلة
-
 ## أسئلة لطرحها على المشرف قبل الحجز
 1. من هو حامل الـ "إم بي إل" و "إن ه بي إل" "إن ف.إس.أ" و "إن.ب.ت.س.ت.م.م.م.م.م.م" و "أ.م.م.م.م.م.م.م.م.م.م.م.م.م.م.م.م" و"
 2. هل تقبل هذه الإفراج عن التلكس، وأي طريق تسليم المادة 87 ينطبق؟
 3. هل الشحنة صحيحة، أو نظام أو حامل - وهل مشروع القانون قابل للتداول؟
 4. أي طريقة إطلاق تتطابق مع الجدول الزمني المتفق عليه T/T أو L/C؟
 5. ما هي رسوم إطلاق لهذه الرحلة (المقتبسة، لم يفترض أبداً) ؟
-
 ## حدود هذا الدليل
-- وقواعد التلكس الخاصة بالناقلات والمبالغ الملونة حساسة من حيث الوقت ومحددة بالسفر**؛ ولا يُذكر أي رقم ثابت.
-- وتستخدم الاستشهادات القانونية المدونة البحرية الـ 2025-revised ** النافذة، والبالغ عددها 2026-05-01 **؛ ويجب ألا تعامل صياغة المادة السابقة للتنقيح على أنها صيغة جارية.
-
+- وقواعد التلكس الخاصة بالناقلات والمبالغ الملونة حساسة من حيث الوقت ومحددة بالسفر؛ ولا يُذكر أي رقم ثابت.
+- وتستخدم الاستشهادات القانونية المدونة البحرية الـ 2025-revised النافذة، والبالغ عددها 2026-05-01 ؛ ويجب ألا تعامل صياغة المادة السابقة للتنقيح على أنها صيغة جارية.
 ## الأسئلة المتكررة
-**Which Maritime المواد المدونة تحكم النقل والتسليم من الفئة المادة 80 (نقل: والمادة 81 (وثائق النقل الأخرى مثل SWB) والمادة 87 (تقديم اسم المرسل إليه/المدير/المالك).
-** طريقة الإفراج قبل دفع المبلغ**؟ Retain an original negotiable (order/bearer) B/L; avoid Telx/SWB until payment is secured.
-** هل يوجد مخرج بحري وثيقة عنوان؟ ** لا - بموجب المادة 81 التي تُجمّعها  and  (أ) الاستلام غير قابل للتفاوض؛ المرسل إليه المسمى يتجمع على الهوية
-** هل يمكن إصدار فاتورة أمر بالتلكس**؟ وعموماً لا يوجد تداول في المادة 80 هو آلية الرقابة.
-
-## سجل الصور
-- لم يُؤمن أي منها في مستودع
-- ORIGINAL: IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
-- الحقوق - حقوق غير مؤكدة
-- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — MBL HBL telex release and sea waybill, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — MBL HBL telex release and sea waybill, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — MBL HBL telex release and sea waybill, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — MBL HBL telex release and sea waybill, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — MBL HBL telex release and sea waybill, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜MBL HBL telex release and sea waybill, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜MBL HBL telex release and sea waybill, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — MBL HBL telex release and sea waybill, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — MBL HBL telex release and sea waybill, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — MBL HBL telex release and sea waybill, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
-
+Which Maritime المواد المدونة تحكم النقل والتسليم من الفئة المادة 80 (نقل: والمادة 81 (وثائق النقل الأخرى مثل SWB) والمادة 87 (تقديم اسم المرسل إليه/المدير/المالك).
+ طريقة الإفراج قبل دفع المبلغ؟ Retain an original negotiable (order/bearer) B/L; avoid Telx/SWB until payment is secured.
+ هل يوجد مخرج بحري وثيقة عنوان؟ لا - بموجب المادة 81 التي تُجمّعها and (أ) الاستلام غير قابل للتفاوض؛ المرسل إليه المسمى يتجمع على الهوية
+ هل يمكن إصدار فاتورة أمر بالتلكس؟ وعموماً لا يوجد تداول في المادة 80 هو آلية الرقابة.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
-| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
-| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
-| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
-| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | single source | Order-bill limit, port acceptance |
-| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
-| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
-| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
+| المصدر | الجهة | السوق | الرابط | تاريخ التحقق | الوقائع المدعومة |
+| --- | --- | --- | --- | --- | --- |
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | Arts.80/81/87, version and effective date |
+| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | MBL/SWB/telex definitions |
+| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | MBL/HBL chain, vehicle practice |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | Four-method comparison |
+| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
 
-*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
-
-## استعراض التحرير
-- صاحب البلاغ**: AutoBridge Export Editorial الفريق؛ أسلوبنا حسب [سياستنا الانتخابية] (/سياستنا التحريرية/)
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: النظام الأساسي الصيني + الممارسة الدولية لشحن المحيطات (القيم الخاصة بالشركات المستبعدة)
-- ** طريقة التأهيل**: النظام الأساسي الأساسي للتشريع الوطني الأساسي للقواعد القانونية؛ إجراء فحص شامل لعدة مصادر لممارسة الأعمال التجارية
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
-- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
-
-**Tags**: #BillOfLading #MaritimeCode #TelexRelease #SeaWaybill #ExportRisk
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

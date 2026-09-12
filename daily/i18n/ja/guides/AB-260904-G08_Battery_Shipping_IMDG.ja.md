@@ -1,102 +1,63 @@
 # 輸入車は、IMDG 42-24 の海で輸送します。 UN3556、UN3171 および予備電池の結紮
-
 ## SEOメタデータ
-- **SEOタイトル**: EV  Sea Freight Under  IMDG  42-24 —  UN3556/3557/3558  vs  UN3480/3481
-- **メタディスクリプション**: 2026から、UN3556 (リチウム金属UN3557、ナトリウムイオンUN3558)として電池の船と取付けられているリチウムイオン車IMDG 改正42-24;UN3171はUN38.3とUN3480/3481を狭く、ゆるい電池の使用です。
-- **H1**: 現在のIMDGコード(改正42-24)の下の海洋の貨物のための電池動力を与えられた車を分類して下さい
-- **主要キーワード**: UN3556リチウムイオン車IMDG 42-24出荷
-- **関連検索語**: UN3557 リチウム金属車、UN3558 ナトリウムイオン車、P912 パッキング指示、SP405 印、UN3171 狭く、UN3480 UN3481、UN38.3 テストの手動 rev8
-- **推奨URL**: /guides/ev-shipping-un3556-imdg-compliance
-- **検索意図**: オーシャン・フリートのバッテリー・パワード・車両を現在のIMDGコード(改正42-24)で分類する理解:車両/パーツの輸出者が、注文をコミットする前に検証、文書化、決定しなければならないもの。
-- **内部リンク候補**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
-- **画像候補**: 全車両対緩い電池UNの番号分割
-- **ALTテキスト**: UN3556 は、車と車が UN3480 の緩い電池を IMDG 42-24 の下で取付けました
-- **スキーマ範囲**: 記事(商品・オファー・価格・レビュー・料金なし)
-
+- SEOタイトル: EV Sea Freight Under IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
+- メタディスクリプション: 2026から、UN3556 (リチウム金属UN3557、ナトリウムイオンUN3558)として電池の船と取付けられているリチウムイオン車IMDG 改正42-24;UN3171はUN38.3とUN3480/3481を狭く、ゆるい電池の使用です。
+- H1: 現在のIMDGコード(改正42-24)の下の海洋の貨物のための電池動力を与えられた車を分類して下さい
+- 主要キーワード: UN3556リチウムイオン車IMDG 42-24出荷
+- 関連検索語: UN3557 リチウム金属車、UN3558 ナトリウムイオン車、P912 パッキング指示、SP405 印、UN3171 狭く、UN3480 UN3481、UN38.3 テストの手動 rev8
+- 推奨URL: /guides/ev-shipping-un3556-imdg-compliance
+- 検索意図: オーシャン・フリートのバッテリー・パワード・車両を現在のIMDGコード(改正42-24)で分類する理解:車両/パーツの輸出者が、注文をコミットする前に検証、文書化、決定しなければならないもの。
+- 内部リンク候補: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
+- 画像候補: 全車両対緩い電池UNの番号分割
+- ALTテキスト: UN3556 は、車と車が UN3480 の緩い電池を IMDG 42-24 の下で取付けました
+- スキーマ範囲: 記事(商品・オファー・価格・レビュー・料金なし)
 ## 分類変更 — 古い UN3171 習慣は今間違っています
-2026の一般的な練習は、UN3171 **の下で任意のバッテリー駆動車を予約することでした。 現行の必須 IMDG コード、改正 42-24 ** (IMO の決断によって割り当てられる**MSC。 556 (108)**および**中国の海事安全管理の公式のテキストごとの 2026-01-01 **からの中国で** 必須** の** および** 必須のそれ主流のリチウム車のためにもはや正しいではないです。 2026宣言の古い番号を使用して、予約時に危険な物書類を止める分類エラーです。
-
+2026の一般的な練習は、UN3171 の下で任意のバッテリー駆動車を予約することでした。 現行の必須 IMDG コード、改正 42-24 (IMO の決断によって割り当てられるMSC。 556 (108)およびChinaの海事安全管理の公式のテキストごとの 2026-01-01 からのChinaで 必須 の および 必須のそれ主流のリチウム車のためにもはや正しいではないです。 2026宣言の古い番号を使用して、予約時に危険な物書類を止める分類エラーです。
 ## 全車(電池は取付けました): UN3556 UN3557 UN3558
-バッテリーを内蔵した**車両の場合:
+バッテリーを内蔵した車両の場合:
 - UN3556 — リチウムイオン電池搭載車* ふりがな
 - UN3557 — リチウム金属電池搭載車* ふりがな
 - UN3558 — ナトリウムイオン電池式車* ふりがな
-
-** 梱包手順 P912 ** 規定する 保管とこれらのエントリの確保. UN3556車が完全に封じられていない場合** 包装またはクレートで、** 特別規定 SP405 **は、マーキング要件を設定します。 従来の** UN3171 **のエントリーは************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************** 主流のリチウム車は** UN3171 以下 2026. で宣言されなければならない これらはクラス9エントリです。 文書化とマーキング/フラグリングは、IMDG 42-24 テキストと、ブックされたキャリアの追加レイヤーに従います。
-
+ 梱包手順 P912 規定する 保管とこれらのエントリの確保. UN3556車が完全に封じられていない場合 包装またはクレートで、 特別規定 SP405 は、マーキング要件を設定します。 従来の UN3171 のエントリーは 主流のリチウム車は UN3171 以下 2026. で宣言されなければならない これらはクラス9エントリです。 文書化とマーキング/フラグリングは、IMDG 42-24 テキストと、ブックされたキャリアの追加レイヤーに従います。
 ##
 ゆるい細胞とパックで全車両番号を混同しないでください。
-- ** UN3480 —
-- ** UN3481 — リチウムイオン電池が充填、または、機器に含まれている**。
-ナトリウムイオンのゆるい電池は自身の対応する数を運びます。 そのため、予備サービスパックは、車UN3556.を再利用することで決して** UN3480/3481 **家族の下で出荷します
-
+- UN3480 —
+- UN3481 — リチウムイオン電池が充填、または、機器に含まれている。
+ナトリウムイオンのゆるい電池は自身の対応する数を運びます。 そのため、予備サービスパックは、車UN3556.を再利用することで決して UN3480/3481 家族の下で出荷します
 ## UN38.3 および試験および基準のマニュアル
-輸送の前に、 —  and  今度はナトリウムイオン — 電池はUNのセクション38.3の下の*T. 1–T.8を*テストのマニュアル完了しなければなりません  and  基準* 最新版 **改正8 (2023) 改正1 ** (Rev. 8 は 38.3 内のナトリウムイオン電池を持っていました)、  and  ** チェック バック バック ド  UN3480/3481の下の予備電池のためにそれは直接船積みの条件です。 米国49 CFR §173.185は、法定基準によりUN38.3を組み入れ、セクション38.3テスト要約の広範囲を照らします。
-
+輸送の前に、 — and 今度はナトリウムイオン — 電池はUNのセクション38.3の下の*T. 1–T.8を*テストのマニュアル完了しなければなりません and 基準* 最新版 改正8 (2023) 改正1 (Rev. 8 は 38.3 内のナトリウムイオン電池を持っていました)、 and チェック バック バック ド UN3480/3481の下の予備電池のためにそれは直接船積みの条件です。 米国49 CFR §173.185は、法定基準によりUN38.3を組み入れ、セクション38.3テスト要約の広範囲を照らします。
 ## 充電状態とキャリア層
-固定**状態のパーセンテージ*などの数量/状態の制限は、**IMDGテキストで設定され、各キャリア**によって、その上部に設定されます。 このページは、**公式にないで固定SOCの割合を述べています**。 航海による著書のキャリアの書面によるDG命令航海(キャリアは、IMDGの最小値よりも厳しい条件を課す可能性があります)を取得します。
-
+固定状態のパーセンテージ*などの数量/状態の制限は、IMDGテキストで設定され、各キャリアによって、その上部に設定されます。 このページは、公式にないで固定SOCの割合を述べています。 航海による著書のキャリアの書面によるDG命令航海(キャリアは、IMDGの最小値よりも厳しい条件を課す可能性があります)を取得します。
 ## 予約チェックリスト
 1. 化学(リチウムイオン/リチウム金属/ナトリウムイオン/湿潤)を確定→UN3556/3557/3558(または、真に適用される狭いUN3171のみ)を選択します。
-2. バッテリーがインストールされていることを確認してください** (車両エントリ) と**loose** (UN3480/3481)。
-3. 塗ります** P912 **; 塗りつぶし不可なら** SP405 ** 印を塗ります。
-4. 組み立て ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8 試験要約** バッテリー用。
+2. バッテリーがインストールされていることを確認してください (車両エントリ) とloose (UN3480/3481)。
+3. 塗ります P912 ; 塗りつぶし不可なら SP405 印を塗ります。
+4. 組み立て UN38.3 (Rev. 8+Amd.1) T. 1–T.8 試験要約 バッテリー用。
 5. キャリアのDG/SOC命令およびクラス9の文書および盗まれた取得して下さい。
-
 ## ガイドの境界
 - 正式に定めるSOCの割合や数量制限はありません。
 - 現在のコードの下のリチウム車のためのUN3171の再利用無し。
 - キャリア固有の厳しい要件は、航海固有のものです。
-
 ## よくある質問
-**UNナンバーは、電池が搭載されたリチウムイオンEVです。** UN3556 インチ 改正 42-24 (リチウム金属 UN3557、ナトリウムイオン UN3558)。
-**UN3171は使えますか?** 狭い湿式/ナトリウム金属または合金の規模のためだけ;2026.からの主流のリチウム車のために
-**同じ容器の予備電池はどうですか。** リチウムイオン電池の使用UN3480 (またはUN3481は、機器に入/含有されている場合)、 で UN3556.
-**UN38.3 エディションは適用されますか?** テストの現在のマニュアル  and  基準, 改正8 の改正 1 の 試験概要でT. 1–T.8をテストします。
-
-## 映像の記録
-- IMAGE_ASSET_PATH:リポジトリで保護されていない
-- ORIGINAL_IMAGE_URL: キャプチャされていない
-- SOURCE_PAGE: キャプチャされていない
-- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
-- 権利_ホルダー:未確認
-- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
-- CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH:
-- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
-- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
-- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
-- 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — EV shipping under IMDG 42-24 UN3556, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — EV shipping under IMDG 42-24 UN3556, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — EV shipping under IMDG 42-24 UN3556, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜EV shipping under IMDG 42-24 UN3556, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜EV shipping under IMDG 42-24 UN3556, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — EV shipping under IMDG 42-24 UN3556, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — EV shipping under IMDG 42-24 UN3556, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — EV shipping under IMDG 42-24 UN3556, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
-
+UNナンバーは、電池が搭載されたリチウムイオンEVです。 UN3556 インチ 改正 42-24 (リチウム金属 UN3557、ナトリウムイオン UN3558)。
+UN3171は使えますか? 狭い湿式/ナトリウム金属または合金の規模のためだけ;2026.からの主流のリチウム車のために
+同じ容器の予備電池はどうですか。 リチウムイオン電池の使用UN3480 (またはUN3481は、機器に入/含有されている場合)、 で UN3556.
+UN38.3 エディションは適用されますか? テストの現在のマニュアル and 基準, 改正8 の改正 1 の 試験概要でT. 1–T.8をテストします。
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
-| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
-| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
-| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
-| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
-| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | single source (supporting) | SP405 marking |
-*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
+| 出典 | 機関 | 市場 | URL | 確認日 | 裏付けられた事実 |
+| --- | --- | --- | --- | --- | --- |
+| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | 24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
+| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
+| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | 38.3 marking amendments |
+| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | UN3480/3481, statutory UN38.3 reference |
+| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | Effective-date interpretation |
+| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SP405 marking |
+*証拠メモ: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; メディア／業界ページは補助にとどまり、UN番号やUN38の一次証拠にはなりません.3. Fixed SOC values remain blocked.*
 
 ## 編集レビュー
-- **著者**: AutoBridge エクスポート 編集 チーム・方法・各社様 [編集ポリシー](/編集ポリシー/)
-- **最終審査**:2026-09-05
-- **参考市場**:中国施行日と国際IMDG (42-24)
-- **検証方法**:MSA + UNECE/UNマニュアル+ 49 CFR の主なソース; 緩い対インストールされた電池を分離; サポートされていない SOC 番号
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
-- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
-
-**Tags**: #IMDG4224 #UN3556 #UN383 #EVShipping #DangerousGoods
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-05
+- 参照市場: グローバル
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

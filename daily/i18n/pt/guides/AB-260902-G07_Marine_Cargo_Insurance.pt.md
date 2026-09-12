@@ -1,105 +1,78 @@
 # Seguro de carga marítima para veículos chineses expedidos: ICC (A)/(B)/(C), Valor Seguro e Trilha de Reclamações
 ## Metadados SEO
-- **Título SEO**: Seguro marítimo para carros chineses importados: ICC cláusulas e reivindicações
-- **Meta descrição**: Assegure corretamente um veículo chinês em trânsito marítimo – o Instituto Oficial de Carga Clauses (A)/(B)/(C), por que os carros precisam All-Risks, as CIF/CIP Incoterms 2020 obrigações de seguro, convenção de valor segurado e comprovações de sinistros.
-- **H1**: Segurando veículos chineses em trânsito marítimo: Nível de cláusula, soma segura e como uma reivindicação é realmente paga
-- **Palavra-chave principal**: Seguro de carga marítima importada Veículo chinês ICC A B C
-- **Termos de busca secundários**: Instituto Carga Cláusulas A todos os riscos, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C mínimo, Hague-Visby SDR tampa transportadora, RoRo veículo seguro, EV bateria fogo cobertura marinha
-- **URL sugerida**: /guides/marine-cargo-insurance-car-import/
-- **Intenção de busca**: Compreenda Veículos Chineses em Transito Oceânico: Nível de Cláusula, Sum Seguro e Como uma Reclamação É Na verdade Pago: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
-- **Sugestões de links internos**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
-- **Sugestão de imagem**: ICC pirâmide de cobertura A/B/C
-- **Texto ALT**: Cláusulas de Carga do Instituto A B Nível de cobertura C
-- **Escopo do schema**: Artigo (sem produto/oferta/preço/revisão/rating)
-
+- Título SEO: Seguro marítimo para carros chineses importados: ICC cláusulas e reivindicações
+- Meta descrição: Assegure corretamente um veículo chinês em trânsito marítimo – o Instituto Oficial de Carga Clauses (A)/(B)/(C), por que os carros precisam All-Risks, as CIF/CIP Incoterms 2020 obrigações de seguro, convenção de valor segurado e comprovações de sinistros.
+- H1: Segurando veículos chineses em trânsito marítimo: Nível de cláusula, soma segura e como uma reivindicação é realmente paga
+- Palavra-chave principal: Seguro de carga marítima importada Veículo chinês ICC A B C
+- Termos de busca secundários: Instituto Carga Cláusulas A todos os riscos, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C mínimo, Hague-Visby SDR tampa transportadora, RoRo veículo seguro, EV bateria fogo cobertura marinha
+- URL sugerida: /guides/marine-cargo-insurance-car-import/
+- Intenção de busca: Compreenda Veículos Chineses em Transito Oceânico: Nível de Cláusula, Sum Seguro e Como uma Reclamação É Na verdade Pago: o que um exportador de veículos / peças deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- Sugestões de links internos: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
+- Sugestão de imagem: ICC pirâmide de cobertura A/B/C
+- Texto ALT: Cláusulas de Carga do Instituto A B Nível de cobertura C
+- Escopo do schema: Artigo (sem produto/oferta/preço/revisão/rating)
 ## O equívoco que custa dinheiro aos importadores
-Os compradores assumem que sob FOB ou CIF a linha de **shipping compensa totalmente** um veículo arranhado, esmagado, roubado ou danificado por água. Não faz: a responsabilidade do transportador é limitada por convenção internacional muito abaixo do valor de um carro, e a cláusula de carga que você escolher decide se os danos comuns de trânsito são cobertos em tudo. Esta página abrange **seguro de carga marítimo para veículos expedidos da China** (rotas oceânicas globais) — cláusulas e reivindicações, distintas dos preços de Incoterm e da escolha do RoRo-vs-container.
+Os compradores assumem que sob FOB ou CIF a linha de shipping compensa totalmente um veículo arranhado, esmagado, roubado ou danificado por água. Não faz: a responsabilidade do transportador é limitada por convenção internacional muito abaixo do valor de um carro, e a cláusula de carga que você escolher decide se os danos comuns de trânsito são cobertos em tudo. Esta página abrange seguro de carga marítimo para veículos expedidos da China (rotas oceânicas globais) — cláusulas e reivindicações, distintas dos preços de Incoterm e da escolha do RoRo-vs-container.
 ## Os Três Níveis de Cláusula — Ancorados ao Verbo Oficial
-Cargo do Instituto As cláusulas são publicadas pela **Lloyd's Market Association (LMA) e pela International Underwriting Association of London (IUA)**; as actuais palavras (A)/(B)/(C) - referências às cláusulas **CL382 (A), CL383 (B), CL384 (C) - produziram efeitos 1 Janeiro 2009 ** (texto oficial da LMA; confirmado por fonte primária).
+Cargo do Instituto As cláusulas são publicadas pela Lloyd's Market Association (LMA) e pela International Underwriting Association of London (IUA); as actuais palavras (A)/(B)/(C) - referências às cláusulas CL382 (A), CL383 (B), CL384 (C) - produziram efeitos 1 Janeiro 2009 (texto oficial da LMA; confirmado por fonte primária).
 | Nível | Cobertura (de fora) | Adequação para um veículo |
-|---|---|---|
-| **ICC (A) — "Todos os Riscos" (CL382) | Cobertura geral de todos os riscos para perdas físicas acidentais/danos **sujeitas às exclusões da cláusula, à fixação da cobertura e à formulação da política efetiva**; *pode * responder a eventos de trânsito/manutenção acidentais, como roubo ou dano de manipulação, quando a cobertura se aplica e nenhuma exclusão | A linha de base habitual para os veículos |
-| ** ICC (B) — perigos nomeados (CL383) | Incêndio/explosão, encadernação/afundamento, colisão, entrada de água, terramoto, etc. — apenas os eventos enumerados | Perdas comuns de veículos |
-| ** ICC (C) — perdas graves (CL384) | Um conjunto restrito de grandes baixas | Inadequado para um carro |
-Os veículos geralmente garantem **ICC (A)** porque as perdas mais vistas em RoRo e no manuseio de porta - danos de manuseio acidental, roubo, arranhões e amassamentos - não estão fora do escopo de nome-perils de (B) (C); se um evento específico responde ainda depende das exclusões, ponto de fixação e formulação política. ** Guerra e greves cobertura são cláusulas separadas** comprado adicionalmente para rotas sensíveis.
+| --- | --- | --- |
+| ICC (A) — "Todos os Riscos" (CL382) | Cobertura geral de todos os riscos para perdas físicas acidentais/danos sujeitas às exclusões da cláusula, à fixação da cobertura e à formulação da política efetiva; *pode * responder a eventos de trânsito/manutenção acidentais, como roubo ou dano de manipulação, quando a cobertura se aplica e nenhuma exclusão | A linha de base habitual para os veículos |
+| ICC (B) — perigos nomeados (CL383) | Incêndio/explosão, encadernação/afundamento, colisão, entrada de água, terramoto, etc. — apenas os eventos enumerados | Perdas comuns de veículos |
+| ICC (C) — perdas graves (CL384) | Um conjunto restrito de grandes baixas | Inadequado para um carro |
+Os veículos geralmente garantem ICC (A) porque as perdas mais vistas em RoRo e no manuseio de porta - danos de manuseio acidental, roubo, arranhões e amassamentos - não estão fora do escopo de nome-perils de (B) (C); se um evento específico responde ainda depende das exclusões, ponto de fixação e formulação política. Guerra e greves cobertura são cláusulas separadas comprado adicionalmente para rotas sensíveis.
 ## Incoterms 2020: o CIP-vs-CIF Obrigação Compradores Faltam
-Este é agora fundamentado nos materiais próprios do ICC Incoterms (Verified): sob **Incoterms 2020 o dever de seguro do vendedor * mínimo* foi elevado para o Instituto Cargo Clauses (A) para CIP**, enquanto **CIF mantém o mínimo inferior ICC (C)** (ICC Digital Library ICC Academia explica o 2010 → 2020 mudança e seu comércio premium). Consequências práticas:
-- Em **CIF**, o vendedor só pode dever o mínimo **ICC (C)** cobertura, mesmo que um carro precisa **(A)** — escreva **ICC (A) explicitamente no contrato e qualquer carta de crédito**, ou comprar o seu próprio top-up.
-- Em **CIP**, o mínimo padrão é **ICC (A)** para o benefício do comprador — ainda confirmar a cláusula real no certificado em vez de assumir.
+Este é agora fundamentado nos materiais próprios do ICC Incoterms (Verified): sob Incoterms 2020 o dever de seguro do vendedor * mínimo* foi elevado para o Instituto Cargo Clauses (A) para CIP, enquanto CIF mantém o mínimo inferior ICC (C) (ICC Digital Library ICC Academia explica o 2010 → 2020 mudança e seu comércio premium). Consequências práticas:
+- Em CIF, o vendedor só pode dever o mínimo ICC (C) cobertura, mesmo que um carro precisa (A) — escreva ICC (A) explicitamente no contrato e qualquer carta de crédito, ou comprar o seu próprio top-up.
+- Em CIP, o mínimo padrão é ICC (A) para o benefício do comprador — ainda confirmar a cláusula real no certificado em vez de assumir.
 ## Definição do valor seguro — Duas regras diferentes " 110% " (sem prémio inventado)
-A convenção 110% aparece em **dois contextos distintos que não devem ser fundidos em uma fórmula universal**:
-- ** Incoterms® 2020 (o direito de seguro do vendedor): ** quando os Incoterms exigem seguro (CIF/CIP), O vendedor deve obter uma cobertura de ** pelo menos 110% do preço do contrato** para o benefício do comprador.
-- ** Créditos documentais UCP (prática de carta de crédito):** quando um crédito requer seguro mas não declara qualquer valor, o montante segurado é normalmente ** pelo menos 110% do valor CIF ou CIP ** dos bens.
-Assim, não existe um único "valor seguro = CIF × 110% " que cobre cada negócio: identificar qual regra regula (base contrato-preço Incoterms ou base CIF/CIP do LC), usar essa base, e **premium = valor segurado × taxa**. A taxa de flutuação ** com rota, estação, nível, navio e risco de carga e é cotada por remessa** — nenhuma percentagem fixa é publicada aqui. Obter uma cotação por envio e confira-a de acordo com o nível de cláusula e complementos que você precisa.
+A convenção 110% aparece em dois contextos distintos que não devem ser fundidos em uma fórmula universal:
+- Incoterms® 2020 (o direito de seguro do vendedor): quando os Incoterms exigem seguro (CIF/CIP), O vendedor deve obter uma cobertura de pelo menos 110% do preço do contrato para o benefício do comprador.
+- Créditos documentais UCP (prática de carta de crédito): quando um crédito requer seguro mas não declara qualquer valor, o montante segurado é normalmente pelo menos 110% do valor CIF ou CIP dos bens.
+Assim, não existe um único "valor seguro = CIF × 110% " que cobre cada negócio: identificar qual regra regula (base contrato-preço Incoterms ou base CIF/CIP do LC), usar essa base, e premium = valor segurado × taxa. A taxa de flutuação com rota, estação, nível, navio e risco de carga e é cotada por remessa — nenhuma percentagem fixa é publicada aqui. Obter uma cotação por envio e confira-a de acordo com o nível de cláusula e complementos que você precisa.
 ## Por que a responsabilidade própria do portador não é suficiente
-Nos termos das Regras de Hague-Visby**, a responsabilidade da transportadora é limitada em ** 666.67 DSE por embalagem/unidade ou 2 DSE por quilograma, consoante o que for mais elevado** — ambos muito abaixo do valor de um veículo. Os montantes de DSE são alterados ao longo do tempo (confirmar o valor actual), mas o défice estrutural é exactamente o que o seguro de carga preenche. Note que o limite máximo da convenção é uma disposição do tratado, não uma reivindicação de marketing de uma seguradora.
+Nos termos das Regras de Hague-Visby, a responsabilidade da transportadora é limitada em 666.67 DSE por embalagem/unidade ou 2 DSE por quilograma, consoante o que for mais elevado — ambos muito abaixo do valor de um veículo. Os montantes de DSE são alterados ao longo do tempo (confirmar o valor actual), mas o défice estrutural é exactamente o que o seguro de carga preenche. Note que o limite máximo da convenção é uma disposição do tratado, não uma reivindicação de marketing de uma seguradora.
 ## O que até mesmo "Todos os Riscos" exclui — e a questão EV
-O ICC (A) é amplo, não absoluto: não abrange a degradação mecânica/electrica, o desgaste normal ou ** vício inerente**. Para um **EV**, a cobertura para **bateria/fogo (térmico) eventos em trânsito** depende da formulação da política específica e direitos de declaração de mercadorias perigosas. Declare o EV e pergunte por escrito se o fogo térmico em fuga/bateria está coberto ou excluído – nunca assuma que um EV seja tratado de forma idêntica a um carro ICE.
+O ICC (A) é amplo, não absoluto: não abrange a degradação mecânica/electrica, o desgaste normal ou vício inerente. Para um EV, a cobertura para bateria/fogo (térmico) eventos em trânsito depende da formulação da política específica e direitos de declaração de mercadorias perigosas. Declare o EV e pergunte por escrito se o fogo térmico em fuga/bateria está coberto ou excluído – nunca assuma que um EV seja tratado de forma idêntica a um carro ICE.
 ## Construindo uma Reclamação Que Paga
 Seguro responde à perda documentada:
-- **Antes do envio**: fotos/vídeo datadas de cada painel, rodas, vidro, interior, parte inferior e (EV) SOC, testemunhado na entrega.
-- **Documentos**: factura, lista de embalagem, B/L (Ro B/L anotando condição do veículo), certificado de seguro, recibos de manipulação.
-- ** Na descarga**: inspecionar ** antes** assinar um recibo limpo; anotar danos na contagem com fotos imediatas; organizar levantamento onde necessário e cumprir prazos de políticas; manter peças danificadas embalagem.
+- Antes do envio: fotos/vídeo datadas de cada painel, rodas, vidro, interior, parte inferior e (EV) SOC, testemunhado na entrega.
+- Documentos: factura, lista de embalagem, B/L (Ro B/L anotando condição do veículo), certificado de seguro, recibos de manipulação.
+- Na descarga: inspecionar antes assinar um recibo limpo; anotar danos na contagem com fotos imediatas; organizar levantamento onde necessário e cumprir prazos de políticas; manter peças danificadas embalagem.
 ## O que a AutoBridge adiciona além de um Broker de seguros Flyer
-Os corretores vendem uma camada; raramente a ligam ao contrato de compra. O método recomendado é ** nomear a cláusula exata ICC (e qualquer adição de guerra/trikes) no PI/L-C de modo que um vendedor CIF não pode simplesmente não cumprir o ICC (C)**, definir a base de valor segurado consistentemente com a fatura comercial e a regra aplicável Incoterms/UCP, e preparar um registro de condição de pré-expedição alinhado com o levantamento de descarga** — a documentação que mais frequentemente determina se um veículo é pago.
+Os corretores vendem uma camada; raramente a ligam ao contrato de compra. O método recomendado é nomear a cláusula exata ICC (e qualquer adição de guerra/trikes) no PI/L-C de modo que um vendedor CIF não pode simplesmente não cumprir o ICC (C), definir a base de valor segurado consistentemente com a fatura comercial e a regra aplicável Incoterms/UCP, e preparar um registro de condição de pré-expedição alinhado com o levantamento de descarga — a documentação que mais frequentemente determina se um veículo é pago.
 ## Antes de pagar o frete/prémio
-- Especifique **ICC (A)** (CL382) por escrito; adicione guerra/trikes onde a rota garante.
-- Confirmar o valor ** do seguro que se aplica** (Incoterms = ≥ 110% do preço do contrato; LC silencioso = ≥ 110% do CIF/CIP determinável) e obter uma taxa de envio por navio (sem número presumido).
+- Especifique ICC (A) (CL382) por escrito; adicione guerra/trikes onde a rota garante.
+- Confirmar o valor do seguro que se aplica (Incoterms = ≥ 110% do preço do contrato; LC silencioso = ≥ 110% do CIF/CIP determinável) e obter uma taxa de envio por navio (sem número presumido).
 - No CIF, não se baseie no padrão ICC (C) — exigir (A) ou auto-seguro da lacuna.
 - Para EVs, obter por escrito bateria-fogo/capa térmica e DG-declaração orientação.
 - Complete o registro de condição pré-envio e planeie a inspeção de descarga antes de assinar.
 ## Perguntas Mais Frequentes
-** O ICC (C) é suficiente para um carro enviado?** Normalmente não — abrange apenas as principais vítimas listadas; danos de movimentação acidental e perdas de tipo roubo são a razão pela qual os veículos geralmente usam ICC (A) (CL382), sempre sujeito às suas exclusões e redação.
-** De onde vem o 110%?** Duas regras distintas: O Incoterms 2020 define a cobertura do vendedor em ≥ 110% do preço do contrato; um crédito documental silencioso requer normalmente ≥ 110% do valor CIF/CIP determinável. Eles não são uma fórmula CIF × 110% universal.
-**A companhia de navegação não paga os danos?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, Aplicável a um valor mais elevado) — muito abaixo do valor do veículo.
-**CIF ou CIP — qual o valor por omissão mais forte?** No âmbito da Incoterms 2020 CIP, é necessário pelo menos ICC (A); os incumprimentos CIF para ICC (C), assim como para a procura CIF (A) por escrito.
-** Um incêndio de bateria EV é coberto por todos os riscos?** Depende da redação — declarar o EV e obter confirmação por escrito.
-## Gravação de Imagens
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
-- ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Marine cargo insurance for shipped vehicles, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Marine cargo insurance for shipped vehicles, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Marine cargo insurance for shipped vehicles, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Marine cargo insurance for shipped vehicles, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Marine cargo insurance for shipped vehicles, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Marine cargo insurance for shipped vehicles, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Marine cargo insurance for shipped vehicles, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
-
+ O ICC (C) é suficiente para um carro enviado? Normalmente não — abrange apenas as principais vítimas listadas; danos de movimentação acidental e perdas de tipo roubo são a razão pela qual os veículos geralmente usam ICC (A) (CL382), sempre sujeito às suas exclusões e redação.
+ De onde vem o 110%? Duas regras distintas: O Incoterms 2020 define a cobertura do vendedor em ≥ 110% do preço do contrato; um crédito documental silencioso requer normalmente ≥ 110% do valor CIF/CIP determinável. Eles não são uma fórmula CIF × 110% universal.
+A companhia de navegação não paga os danos? Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, Aplicável a um valor mais elevado) — muito abaixo do valor do veículo.
+CIF ou CIP — qual o valor por omissão mais forte? No âmbito da Incoterms 2020 CIP, é necessário pelo menos ICC (A); os incumprimentos CIF para ICC (C), assim como para a procura CIF (A) por escrito.
+ Um incêndio de bateria EV é coberto por todos os riscos? Depende da redação — declarar o EV e obter confirmação por escrito.
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
-| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
-| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
-| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
-| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
-| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | single source | ICC(A/B/C) 覆盖范围 |
-| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | single source | 车辆推荐 ICC(A) |
-| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | single source | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
-| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | single source | Hague-Visby 承运人责任上限、固有缺陷除外 |
-| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | single source | 一切险、战争/罢工附加险 |
-| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | single source | 保险金额=CIF×110%、保费公式 |
+| Fonte | Organização | Mercado | URL | Verificado em | Fatos suportados |
+| --- | --- | --- | --- | --- | --- |
+| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | ICC (A) "all risks" scope and exclusions; official clause wording |
+| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
+| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | CIP seller contracts/pays insurance to named place |
+| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
+| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim(ICC A/B/C comparison) | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | Laojin Chuhai laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | CIP 2020 升至 ICC(A), CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover(insurance broker/underwriting specialist site, citing IUA/LMA, Hague-Visby) | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | Hague-Visby 承运人责任上限, 固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | 一切险, 战争/罢工附加险 |
+| 中古車輸出の海上保険(保额公式) | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | sum insured = CIF × 110%; premium formula式 |
 
-*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
 ## Revisão Editorial
-- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
-- ** Última revisão**: 2026-09-05
-- ** Mercado de referência**: Carga oceânica global da China
-- ** Método de verificação**: Normas/carteira de mercado, formulação primária para cláusulas e obrigações de Incoterms; fontes da indústria apenas para convenção operacional; taxas deixadas para cotação viva
-- ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
+- Autor: AutoBridge Export Editorial Team · [authors](/authors/) · [Política editorial](/editorial-policy/)
+- Última revisão: 2026-09-05
+- Mercado de referência: Global
+- Método de verificação: As regras estabelecidas baseiam-se em fontes primárias de reguladores e governos; valores conflitantes da mídia são mantidos como itens de verificação em vez de afirmados; cada item sensível ao tempo é encaminhado à autoridade indicada para confirmação atual.
+- Norma editorial: Pesquisado e redigido a partir das fontes listadas acima (pesquisa documental; não se alega nenhuma direção, desmontagem ou importação em primeira mão). Qualquer ponto que não possa ser confirmado de forma independente é apresentado como item de verificação, e não como fato afirmado.
+- Transparência: A redação e a tradução utilizaram assistência de IA. Este artigo baseia-se em pesquisa documental. Não se alega nenhum teste em primeira mão, salvo quando explicitamente documentado; a revisão editorial humana final permanece pendente.
 #AutoBridge #MarineInsurance #ICCCargoCover #VehicleShipping #ExportProcurement

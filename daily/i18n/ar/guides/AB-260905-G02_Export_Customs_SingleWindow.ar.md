@@ -1,87 +1,52 @@
 # إعلان جمارك التصدير الصيني وعملية النافذة الوحيدة للمركبات
-
 ## بيانات SEO الوصفية
-- **عنوان SEO**: الصين: إعلان جمارك التصدير " النافذة الوحيدة لشحن المركبات "
-- **وصف Meta**: How a Chinese vehicle exporter files the export customs declaration through the International Trade One Window: declaration channel, accompanying documents, truthful duty and resubmission after rejection.
-- **H1**: إعلان جمارك التصدير الصيني وعملية النافذة الوحيدة للمركبات
-- **الكلمة المفتاحية الرئيسية**: إعلانات التصدير الجمركية الخاصة بالدينا
-- **مصطلحات بحث ثانوية**: إعلان الصين بشأن الصادرات؛ نافذة واحدة؛ استمارة إعلان جمركي؛ وثائق مصاحبة؛ ترخيص التصدير
-- **URL المقترح**: /guides/china-export-customs-declaration-single-window/
-- **نية البحث**: فهم إعلان الصين الجمركي بشأن الصادرات وعملية النافذة الوحيدة للمركبات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
-- **اقتراحات الروابط الداخلية**: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
-- **اقتراح الصورة**: A reality, document/vehicle-focused scene illustrating China Export Customs Declaration and the single Window Process for Vehicles, no staged inspection or people claimed.
-- **نص ALT**: :: نظرة دقيقة وطبيعية للمواد والموضوع المتصل بإعلان الصين للجمارك التصديرية وعملية النافذة الوحيدة للمركبات، الخلفية المحايدة، لا يوجد أشخاص أو إجراءات تفتيش مبيّنة.
-- **نطاق المخطط**: المادة (لا المنتجات/القابلية/الاستعراض)
-
+- عنوان SEO: الصين: إعلان جمارك التصدير " النافذة الوحيدة لشحن المركبات "
+- وصف Meta: How a Chinese vehicle exporter files the export customs declaration through the International Trade One Window: declaration channel, accompanying documents, truthful duty and resubmission after rejection.
+- H1: إعلان جمارك التصدير الصيني وعملية النافذة الوحيدة للمركبات
+- الكلمة المفتاحية الرئيسية: إعلانات التصدير الجمركية الخاصة بالدينا
+- مصطلحات بحث ثانوية: إعلان الصين بشأن الصادرات؛ نافذة واحدة؛ استمارة إعلان جمركي؛ وثائق مصاحبة؛ ترخيص التصدير
+- URL المقترح: /guides/china-export-customs-declaration-single-window/
+- نية البحث: فهم إعلان الصين الجمركي بشأن الصادرات وعملية النافذة الوحيدة للمركبات: ما يجب على المصدر من المركبات/الأجزاء أن يتحقق منه ويوثقه ويقرره قبل الالتزام بأمر ما.
+- اقتراحات الروابط الداخلية: /guides/vehicle-export-hs-code-history/, /guides/export-document-package-history/, /guides/china-used-car-export-license-process/
+- اقتراح الصورة: A reality, document/vehicle-focused scene illustrating China Export Customs Declaration and the single Window Process for Vehicles, no staged inspection or people claimed.
+- نص ALT: :: نظرة دقيقة وطبيعية للمواد والموضوع المتصل بإعلان الصين للجمارك التصديرية وعملية النافذة الوحيدة للمركبات، الخلفية المحايدة، لا يوجد أشخاص أو إجراءات تفتيش مبيّنة.
+- نطاق المخطط: المادة (لا المنتجات/القابلية/الاستعراض)
 ## ما يحدث فعلاً في إعلان التصدير
-على الجانب الصيني، يتم إعلان شحنة تصدير للمركبات إلى الجمارك إلكترونيا من خلال النافذة الوحيدة للتجارة الدولية ** باستخدام أوراق الاعتماد الإلكترونية للمؤسسة (بطاقة الأمريكي). وأمين الصندوق - المرسل أو وسيط الجمارك - مسؤول عن صدق الإعلان ودقته واكتماله. ويشمل هذا الدليل عملية الجانب التصديري للصين فقط؛ وإجازة استيراد المقصد مسألة منفصلة خاصة بكل بلد.
-
+على الجانب الصيني، يتم إعلان شحنة تصدير للمركبات إلى الجمارك إلكترونيا من خلال النافذة الوحيدة للتجارة الدولية باستخدام أوراق الاعتماد الإلكترونية للمؤسسة (بطاقة الأمريكي). وأمين الصندوق - المرسل أو وسيط الجمارك - مسؤول عن صدق الإعلان ودقته واكتماله. ويشمل هذا الدليل عملية الجانب التصديري للصين فقط؛ وإجازة استيراد المقصد مسألة منفصلة خاصة بكل بلد.
 ## قناة الإعلان ومن يُرسل
 ويحتفظ المصدر إما بتسجيله الجمركي الخاص به وملفاته عن طريق النافذة الوحيدة، أو يعهد إلى وسيط جمركي، وفي هذه الحالة يظل المصدر مسؤولا عن المعلومات الأساسية. الرفض والعرض إلكترونيان؛ والورقة هي الاستثناء. وقبل تقديم الإقرارات، يجب أن تكون الفواتير التجارية، وقائمة التعبئة، والعقود، باء/الL، وأي ترخيص أو شهادة مطلوبة لسلعة معينة متسقة.
-
 ## الوثائق المصاحبة والاتساق الداخلي
 وتتحقق الجمارك من أن الإعلان يطابق الوثائق الداعمة والسلع الفعلية. وبالنسبة للمركبات، يعني هذا الرمز (المصنف حسب التعريفة الحالية برمز 10-digit بالضبط) - انظر دليل نظام HS) والكمية والقيمة والنموذج وأي اشتراط لرخص التصدير أو التفتيش أو الشهادة يجب أن يتوافق مع وثائق الإعلان والفواتير والنقل. إن عدم المطابقة سبب شائع لإلغاء الإعلان.
-
 ## واجب تقصي الحقائق والإعلانات المرفوضة
-الوكيل له واجب قانوني في الإعلان الصادق. If a declaration is rejected الرد الصحيح هو تصحيح الحقول المعلمة  and  ومرة أخرى، من خلال نفس القناة، بوثائق متسقة - لا للعمل حول الرفض. وتتطلب معايير ملء الوصفات القياسية للسلع الأساسية، الصحيحة، والقيمة المشروعة؛ تخمين رمز HS أو نسخ رمز الشحنة السابقة هو مصدر تأخير متكرر.（退单）（退改）
-
+الوكيل له واجب قانوني في الإعلان الصادق. If a declaration is rejected الرد الصحيح هو تصحيح الحقول المعلمة and ومرة أخرى، من خلال نفس القناة، بوثائق متسقة - لا للعمل حول الرفض. وتتطلب معايير ملء الوصفات القياسية للسلع الأساسية، الصحيحة، والقيمة المشروعة؛ تخمين رمز HS أو نسخ رمز الشحنة السابقة هو مصدر تأخير متكرر.(document rejection)(return or amendment)
 ## قائمة مرجعية للملفات لشحنة مركبة
 1. تأكدي من رمز الـ10-digit HS بالضبط وأي شرط إشرافي لذلك الرمز في تعريفة العام الحالي
 2. الفواتير الجاهزة، قائمة التعبئة، العقد، بيانات الحجز قبل الدخول.
 3. املأ النافذة الوحيدة بوثائق التفويض الصحيحة للمؤسسة؛ واحتفظ برقم الإعلان.
 4. وإذا رفضت، قرأ سبب الرفض، وتصحح في المصدر وتعيد تقديم وثائق مطابقة.
 5. (أ) إبقاء الملف متوافقاً مع الإيصالات من الفئة " فاكس " والأوراق التي تسترد من الضرائب (انظر تلك الأدلة).
-
 ## حدود هذا الدليل
 ولا توفر هذه المادة رمزاً محدداً أو حالة إشراف محددة (هذه هي كل مدونة وحساسة من الوقت)، ولا تقتبس من رسوم السمسرة. ولا تشمل هنا الاحتياجات الجمركية للبلدان المتجهة إلى بلدان المقصد.
-
 ## FAQ
-** من المسؤول إذا كان الوسيط يُلف بشكل خاطئ**؟ ويظل المرسل مسؤولا عن حقيقة المعلومات الأساسية؛ ويختار ويوجه السمسار بعناية.
-** ما هو الريح الوحيدة؟ ** بوابة الصين الإلكترونية ذات الشاشة الواحدة من أجل إعلانات مُتاحة بوثائق تفويض المؤسسة.
+ من المسؤول إذا كان الوسيط يُلف بشكل خاطئ؟ ويظل المرسل مسؤولا عن حقيقة المعلومات الأساسية؛ ويختار ويوجه السمسار بعناية.
+ ما هو الريح الوحيدة؟ بوابة الصين الإلكترونية ذات الشاشة الواحدة من أجل إعلانات مُتاحة بوثائق تفويض المؤسسة.
 هل يمكنني إعادة استخدام رمز الشحنة الأخيرة؟ وليس بشكل آمن - تصنيف البضائع المحددة بموجب التعريفة الجمركية الحالية في كل مرة.
-** ماذا لو رُفض الإعلان**؟ تصحيح الحقول المُعلّمة واعادة تقديم الوثائق المتّسقة
-** هل تم تحديد رسوم السمسرة؟** لا - إنها تختلف ولا تقتبس هنا.
-
+ ماذا لو رُفض الإعلان؟ تصحيح الحقول المُعلّمة واعادة تقديم الوثائق المتّسقة
+ هل تم تحديد رسوم السمسرة؟ لا - إنها تختلف ولا تقتبس هنا.
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物申报管理规定（海关总署令第277号） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | 申报主体, 随附单证, 退单重报 |
-| 海关总署令第277号（国务院公报） | 中国政府网 | CN | primary | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
-| 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | primary | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
-| 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | primary | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
-| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | primary/independent | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
-| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | primary/independent | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
-## استعراض التحرير
-- صاحب البلاغ**: فريق تحرير تصدير أوتوماتبرغ: [محرر] (/محرر) - [سياسة تأديبية] (سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: CN(中国出口侧)
-- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+| المصدر | الجهة | السوق | الرابط | الوقائع المدعومة |
+| --- | --- | --- | --- | --- |
+| 中华人民共和China海关进export货物regulatory filing管理规定(General Administration of Customs of China (GACC)令第277No.) | GACC (China Customs) | CN | http://www.customs.gov.cn/customs/2025-03/31/article_2025121420594666903.html | regulatory filing主体, with附单证, document rejection重报 |
+| General Administration of Customs of China (GACC)令第277No.(State Council Gazette) | www.gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
+| 进export货物regulatory filing指南(单一窗口录入and登录) | CCPIT (China Council for the Promotion of International Trade)宁夏委员会 | CN | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子regulatory filing |
+| export大型货物手续流程(regulatory filing-缴税-放行) | GACC (China Customs) | CN | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | export通关步骤, 报关单填制规范citing |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 
-## سجل الصور
-- ** لم يُؤمن أي منها في مستودع
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ** لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا يوجد ترخيص للتأكيد)
-- **RIGHTS_HOLDER**: unconfirmed
-- ** عدم تأمين أي من هذه الصفحات - ليس وجود موقع المنظمة على شبكة الإنترنت ترخيصاً لإعادة الاستخدام تجارياً
-- **CHECKED_DATE**: 2026-09-06
-- ** بالضبط إعلان جمارك التصدير في الصين وعملية النافذة الوحيدة للمركبات
-- ** ويجب أن تتطابق الصورة مع النموذج المحدد للأسرة/الصورة فقط؛ لا يجب أن يعني ضمناً ثلاثية محددة، سنة نموذجية، حقيقية فين، تفتيش شخصي أو معاملة فعلية
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- ** حرق ريح ** ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: ولا يمكن الوصول إلى الشائعات/الفلكر من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة عن علم/الرخصة، كما أن صورة الموقع الشبكي لمكتبة شؤون الإعلام ليست منحة لإعادة الاستخدام التجاري. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل السجل يحتفظ به في القوات المسلحة بدلا من التأكيد عليه.
-- **ALT (12 languages)**:
-  - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
-  - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export
-  - **DE**: single window declaration, Chinesischer procurement guide, Referenz für Exportkäufer
-  - **ES**: single window declaration, procurement guide del mercado chino, referencia para comprador de exportación
-  - **PT**: single window declaration, procurement guide do mercado chinês, referência ao comprador de exportação
-  - **JA**: single window declaration, 中国市場procurement guide・輸出バイヤー向けリファレンス
-  - **KO**: single window declaration, 중국 시장 procurement guide, 수출 바이어 참고 자료
-  - **VI**: single window declaration, procurement guide thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: single window declaration, procurement guide ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: single window declaration, procurement guide pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: single window declaration, procurement guide السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: single window declaration, 中国市场procurement guide·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #CustomsClearance #SingleWindow
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-05
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

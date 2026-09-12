@@ -1,0 +1,270 @@
+{
+ "date": "2026-09-02",
+ "articles": 20,
+ "locales": 240,
+ "article_ids": [
+  "AB-260902-G01_Russia_EV_Import_Guide",
+  "AB-260902-G02_Saudi_Truck_Import_Guide",
+  "AB-260902-G03_Supplier_Audit_Vetting",
+  "AB-260902-G04_Used_Chinese_EV_Inspection",
+  "AB-260902-G05_Charging_Standard_Compatibility",
+  "AB-260902-G06_RHD_Chinese_Cars",
+  "AB-260902-G07_Marine_Cargo_Insurance",
+  "AB-260902-G08_Infotainment_OTA_Localization",
+  "AB-260902-G09_Chile_China_FTA_EV_Import",
+  "AB-260902-G10_Commercial_Fleet_Procurement",
+  "AB-260902-V01_BYD_Yuan_Plus_2024",
+  "AB-260902-V02_Changan_UNI-V_2024",
+  "AB-260902-V03_BYD_Qin_Plus_DMi_2024",
+  "AB-260902-V04_GAC_Trumpchi_M8_2024",
+  "AB-260902-V05_Great_Wall_Poer_2024",
+  "AB-260902-V06_Forthing_Lingzhi_M5_2024",
+  "AB-260902-V07_JAC_Kangling_Light_Truck",
+  "AB-260902-V08_Sinotruk_HOWO_T7H",
+  "AB-260902-V09_Shacman_X3000_Dump_Truck",
+  "AB-260902-V10_Foton_Aumark_Refrigerated_Truck"
+ ],
+ "source_scope": {
+  "PASS": 20,
+  "CONDITIONAL": 0,
+  "FAIL": 0
+ },
+ "articles_detail": {
+  "AB-260902-G01_Russia_EV_Import_Guide": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G02_Saudi_Truck_Import_Guide": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G03_Supplier_Audit_Vetting": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G04_Used_Chinese_EV_Inspection": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G05_Charging_Standard_Compatibility": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G06_RHD_Chinese_Cars": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G07_Marine_Cargo_Insurance": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G08_Infotainment_OTA_Localization": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G09_Chile_China_FTA_EV_Import": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-G10_Commercial_Fleet_Procurement": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V01_BYD_Yuan_Plus_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V02_Changan_UNI-V_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V03_BYD_Qin_Plus_DMi_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V04_GAC_Trumpchi_M8_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V05_Great_Wall_Poer_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V06_Forthing_Lingzhi_M5_2024": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V07_JAC_Kangling_Light_Truck": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V08_Sinotruk_HOWO_T7H": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V09_Shacman_X3000_Dump_Truck": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260902-V10_Foton_Aumark_Refrigerated_Truck": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  }
+ },
+ "semantic_fail_locales": 47,
+ "semantic_fail_by_lang": {
+  "ja": 20,
+  "zh": 20,
+  "ar": 2,
+  "th": 3,
+  "ko": 2
+ },
+ "internal_leak": 0,
+ "number_break": 0,
+ "image_rights_pass": 0,
+ "image_not_applicable_no_public_image": 20,
+ "same_locale_internal_link_fail": 0,
+ "similarity_max_by_lang": {
+  "en": 0.0556,
+  "fr": 0.0733,
+  "de": 0.0641,
+  "es": 0.0685,
+  "pt": 0.074,
+  "ja": 0.1042,
+  "ko": 0.0641,
+  "vi": 0.0634,
+  "th": 0.0553,
+  "id": 0.1629,
+  "ar": 0.1161,
+  "zh": 0.105
+ },
+ "manifest_path": "daily/2026-09-02/qa/FINAL_MANIFEST_2026-09-02.json",
+ "manifest_sha256": "382273880e83da3947501e03e3255bdc1492b9f80ba10dcc5d85001ba3f47f07"
+}

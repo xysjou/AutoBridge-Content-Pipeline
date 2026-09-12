@@ -1,100 +1,66 @@
 # Geely Xingyuan 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV Specs 및 수출 검증
-
 ## SEO 메타데이터
-- **SEO 제목**: Geely Xingyuan (Galaxy Xingyuan) BEV: 중국 시장 사양 및 수출 가이드
-- **메타 설명**: 중국 시장 간장 Xingyuan/Starwish 작은 EV: GEA 건축, RWD,  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh 라인  and  수출 구매자 체크.
-- **H1**: Geely Xingyuan / 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV 사양 및 수출 검증
-- **주요 키워드**: Geely/吉利 Xingyuan/吉利星愿 (Galaxy 星愿) specs 수출
-- **보조 검색어**: Geely Xingyuan 수출; 은하 Xingyuan specs; Geely Starwish; 중국 작은 전기 hatchback; CLTC 도시 EV
-- **추천 URL**: /vehicles/geely-xingyuan/
-- **검색 의도**: Geely Xingyuan / 갤럭시 싱위 (2025/2026) - 중국 시장 BEV Specs and Export Verification: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
-- **내부 링크 제안**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- **이미지 제안**: 현실적이고 문서/차량 중심의 장면은 Geely Xingyuan / Galaxy Xingyuan (2025/2026)를 설명합니다 - 중국 시장 BEV Specs 및 수출 Verific, 무대 검사 또는 사람들이 주장.
-- **ALT 텍스트**: 가까운, 재료의 자연보기 및 Geely Xingyuan / Galaxy Xingyuan (2025/2026)와 관련된 주제 - 중국 시장 BEV Specs 및 Expo, 중립 배경, 사람들이 또는 검사 행동이 표시되지 않습니다.
-- **스키마 범위**: 제+차량(제품/오프러/리뷰 없음)
-
+- SEO 제목: Geely Xingyuan (Galaxy Xingyuan) BEV: 중국 시장 사양 및 수출 가이드
+- 메타 설명: 중국 시장 간장 Xingyuan/Starwish 작은 EV: GEA 건축, RWD, 58/85 kW motors, 310/410 km CLTC, 40.16 kWh 라인 and 수출 구매자 체크.
+- H1: Geely Xingyuan / 갤럭시 싱위안 (2025/2026) - 중국 시장 BEV 사양 및 수출 검증
+- 주요 키워드: Geely/Geely Xingyuan/Geely Xingyuan (Galaxy Xingyuan) specs 수출
+- 보조 검색어: Geely Xingyuan 수출; 은하 Xingyuan specs; Geely Starwish; 중국 작은 전기 hatchback; CLTC 도시 EV
+- 추천 URL: /vehicles/geely-xingyuan/
+- 검색 의도: Geely Xingyuan / 갤럭시 싱위 (2025/2026) - 중국 시장 BEV Specs and Export Verification: 차량/부품 수출업체가 확인해야 하는지, 문서 및 주문에 투입하기 전에 결정합니다.
+- 내부 링크 제안: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- 이미지 제안: 현실적이고 문서/차량 중심의 장면은 Geely Xingyuan / Galaxy Xingyuan (2025/2026)를 설명합니다 - 중국 시장 BEV Specs 및 수출 Verific, 무대 검사 또는 사람들이 주장.
+- ALT 텍스트: 가까운, 재료의 자연보기 및 Geely Xingyuan / Galaxy Xingyuan (2025/2026)와 관련된 주제 - 중국 시장 BEV Specs 및 Expo, 중립 배경, 사람들이 또는 검사 행동이 표시되지 않습니다.
+- 스키마 범위: 제+차량(제품/오프러/리뷰 없음)
 ## 구매자 컨텍스트 및 모델 ID
-**Geely Xingyuan (갤럭시 싱위안,  일부 수출 시장에서 별도의 영문명으로 판매)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, **rear-motor/rear-wheel 드라이브**. 이 페이지는 ** 중국 시장 ** 참고; 해외 모델명은 OEM 문과 동일하지 않습니다.
-
+Geely Xingyuan (갤럭시 싱위안, 일부 수출 시장에서 별도의 영문명으로 판매) is an A0 five-door battery-electric hatchback on Geely's GEA EV architecture, rear-motor/rear-wheel 드라이브. 이 페이지는 중국 시장 참고; 해외 모델명은 OEM 문과 동일하지 않습니다.
 ## 전력 및 범위 라인
-- ** 바디 **: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR 에디션 4155 mm 긴), 휠베이스 2650 mm, 5 门 5 座; 后置后驱.
-- ** 모터 **: 58 85 kW 옵션.
-- ** 배터리 **: 磷酸铁锂; 캡처 용량 라인은 40.16 kWh 장거리 자동차. 특정 셀 공급 업체는 encyclopaedia 미디어 계정에서만 나타나고 ** OEM 인증**이 아니라, 그것은 withheld입니다.
-- ** 범위**: 310 410 km CLTC (크로스 체크) - 중국 테스트 사이클, WLTP하지.
-- ** 카고 **: 375 (前备厢 70, 后排放倒 1320) L; 플랫폼 GEA 纯电架构.
-- **Peak 충전 전력은 안정적으로 캡처되지 않으며 명시되지 않습니다. 의 모든 것
-
+- 바디 : 4135 1805 1570 (STAR limited trimLength 4155) mm (STAR 에디션 4155 mm 긴), 휠베이스 2650 mm, 5 doors 5-seat; rear-mountedRWD.
+- 모터 : 58 85 kW 옵션.
+- 배터리 : LFP; 캡처 용량 라인은 40.16 kWh 장거리 자동차. 특정 셀 공급 업체는 encyclopaedia 미디어 계정에서만 나타나고 OEM 인증이 아니라, 그것은 withheld입니다.
+- 범위: 310 410 km CLTC (크로스 체크) - 중국 테스트 사이클, WLTP하지.
+- 카고 : 375 (front trunk (frunk) 70, rear seats folded 1320) L; 플랫폼 GEA battery-electricarchitecture.
+- Peak 충전 전력은 안정적으로 캡처되지 않으며 명시되지 않습니다. 의 모든 것
 ## 인증 사양 표 (중국 시장 참조)
 | 제품 정보 | 의 값 | 제품정보 | 의 | 의논하기 | 의논문 |
-|---|---|---|---|---|---|
-| 길이 폭 고도 | 4135 1805 1570 (스타 限定版车长 4155) | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 搜狐双页 |
-| 휠베이스 | 2650 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 搜狐 + 腾讯 · |
-| 의 특징 | 5门5座 | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
-| 의 특징 | 后置后驱 | - - - | 담당자: Mr. Li | single source(싱글) | 腾讯新闻 |
-| 모터 힘 선택권 | 58 85 | 램 | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
-| 배터리 유형 | 磷酸铁锂 | - - - | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
-| battery capacity 410 | 40.16 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | single source(싱글) | 搜狐汽车 |
-| 범위 cltc | 310 410 | km | 담당자: Mr. Li | CROSS_체크 | 搜狐 + 腾讯 · |
-| 화물량 | 375 (前备厢 70, 后排放倒 1320) | ₢ 킹 | 담당자: Mr. Li | single source(싱글) | 搜狐车型库 |
-| 의 | GEA 纯电架构의 | - - - | 담당자: Mr. Li | single source(싱글) | 腾讯新闻 |
-
+| --- | --- | --- | --- | --- | --- |
+| 길이 폭 고도 | 4135 1805 1570 (스타 limited trimLength 4155) | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | Sohu双页 |
+| 휠베이스 | 2650 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | Sohu + 腾讯 · |
+| 의 특징 | 5-door 5-seat | - - - | 담당자: Mr. Li | 단일 출처(싱글) | Sohumodel database |
+| 의 특징 | rear-mountedRWD | - - - | 담당자: Mr. Li | 단일 출처(싱글) | Tencent News |
+| 모터 힘 선택권 | 58 85 | 램 | 담당자: Mr. Li | 단일 출처(싱글) | Sohu Auto |
+| 배터리 유형 | LFP | - - - | 담당자: Mr. Li | 단일 출처(싱글) | Sohu Auto |
+| battery capacity 410 | 40.16 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | 단일 출처(싱글) | Sohu Auto |
+| 범위 cltc | 310 410 | km | 담당자: Mr. Li | CROSS_체크 | Sohu + 腾讯 · |
+| 화물량 | 375 (front trunk (frunk) 70, rear seats folded 1320) | ₢ 킹 | 담당자: Mr. Li | 단일 출처(싱글) | Sohumodel database |
+| 의 | GEA battery-electricarchitecture의 | - - - | 담당자: Mr. Li | 단일 출처(싱글) | Tencent News |
 ## 소형 EV 수출 논리: 건전지 선, 주기 및 선박
 의 도시 EV는 두 개의 모터 배터리 라인에 대한 하나의 범위 번호를 사용하여 자주 잘못 인용됩니다. Xingyuan에서, 각 순서에 그것의 어울리는 건전지 및 CLTC 범위와 모터 (58 또는 85 kW)를 쌍하고, CLTC를 재 상표를 붙이기 보다는 오히려 목적지 시험 주기로 변환하십시오. 리튬 이온 배터리 EV로, 해상화물은 배터리 전원 차량 (UN3556 intact 차량)의 현재 IMDG 분류를 따르며, 선박 가이드를 참조하십시오. 배터리 공급 업체 및 피크 충전 전력은 OEM 데이터를 확립하지 못했습니다.
-
 ## 결제 전 해외 구매자 검증
 1. 배터리 및 CLTC 범위에 매치 모터 옵션; VIN 빌드 라인을 얻을.
 2. CLTC 310/410 km를 목적지 주행 사이클 값으로 환산한다.
 3. 충전 커넥터 protocol 및 AC DC 기능을 확인하십시오 (여기에 캡처되지 않는 DC를 말하십시오).
 4. EV 균질화, 배터리 문서 및 UN38.3/IMDG 운송 서류를 전달하십시오.
 5. 현재 수출 인용을 요구하십시오; 수출 가격은 간행되지 않습니다.
-
 ## 의논하기
-**Xingyuan은 수출 "스타워시"와 동일합니까?** 시장의 이름은 OEM 문이 필요합니다. 이 페이지는 중국 정체성을 유지합니다.
-**왜 충전 파워 수치가? ** 그것은 믿을 수 없을 정도로 소스가 없고 추측하지 않고도 held.
-** 세포를 만들 수 있습니까? ** OEM 확인되지 않음; unstated.
-** 410 km WLTP가 있습니까? ** CLTC 없음.
-**선은 어떻게 되나요?** 현재 IMDG 클래스 (UN3556); 아래 intact 리튬 이온 배터리 EV는 캐리어로 확인합니다.
-
+Xingyuan은 수출 "스타워시"와 동일합니까? 시장의 이름은 OEM 문이 필요합니다. 이 페이지는 중국 정체성을 유지합니다.
+왜 충전 파워 수치가? 그것은 믿을 수 없을 정도로 소스가 없고 추측하지 않고도 held.
+ 세포를 만들 수 있습니까? OEM 확인되지 않음; unstated.
+ 410 km WLTP가 있습니까? CLTC 없음.
+선은 어떻게 되나요? 현재 IMDG 클래스 (UN3556); 아래 intact 리튬 이온 배터리 EV는 캐리어로 확인합니다.
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 출처 | 기관 | 시장 | URL | 뒷받침되는 사실 |
+| --- | --- | --- | --- | --- |
+| Geely Xingyuan modelSpecifications | Sohu Auto | CN | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | Dimensions, Motor, Battery, Range |
+| GeelyXingyuan configuration库 | Sohu Auto model database | CN | http://db.auto.sohu.com/model_7477/config | dimensions, wheelbase, 储物 |
+| Xingyuan market launch报道 | Tencent News | CN | http://news.qq.com/rain/a/20260329A04ZLQ00 | rangeversion, architecture |
+| Geely official global site | Geely Auto Group Geely (OEM) | CN | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+
 ## 편집 리뷰
-- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-05
-- **참고 시장 **: 중국 (중국 시장 참고 명세; 세계 spec)
-- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
-- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
-
-## 이미지 기록
-- **IMAGE_ASSET_PATH**: 저장소에 보안 없음
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일이 식별되지 않음 (Asert에 대한 라이센스 없음)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 정확한 진리 Xingyuan
-- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모형 가족/topic만 일치해야 합니다; 특정 트림, 모델 년, 실제 VIN, 인- 사람 검사 또는 실제 거래에 실패하지 않아야합니다.
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON **: 재사용 가능한 이미지는 보안 될 수 없습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 있으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
-- **ALT (12 languages)**:
-  - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
-  - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
-  - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
-  - **ES**: Geely Xingyuan, BEV hatchback del mercado chino, referencia para comprador de exportación
-  - **PT**: Geely Xingyuan, BEV hatchback do mercado chinês, referência ao comprador de exportação
-  - **JA**: Geely Xingyuan, 中国市場BEV hatchback・輸出バイヤー向けリファレンス
-  - **KO**: Geely Xingyuan, 중국 시장 BEV hatchback, 수출 바이어 참고 자료
-  - **VI**: Geely Xingyuan, BEV hatchback thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Geely Xingyuan, BEV hatchback ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV
+- 저자: AutoBridge Export Editorial Team · [authors](/authors/) · [편집 정책](/editorial-policy/)
+- 최종 검토일: 2026-09-05
+- 참고 시장: 중국
+- 검증 방법: 확정된 규칙은 규제기관과 정부의 1차 자료에 기반하며, 매체 간 모순되는 수치는 단정하지 않고 확인 항목으로 남기고, 시간에 민감한 사항은 해당 기관의 최신 확인을 안내합니다.
+- 편집 기준: 위에 나열된 출처를 바탕으로 조사·작성했습니다(데스크 리서치; 직접 시운전·분해·수입을 주장하지 않음). 독립적으로 확인할 수 없는 사항은 사실로 단정하지 않고 확인 항목으로 제시합니다.
+- 투명성: 작성과 번역에 AI 지원을 사용했습니다. 본문은 데스크 리서치에 기반합니다. 명시적으로 기록된 경우를 제외하고 1차 테스트를 주장하지 않으며, 최종 인간 편집 검토는 아직 진행 중입니다.

@@ -1,102 +1,68 @@
 # Dongfeng Forthing Youting (2025/2026) — Mercado chinês MPV Especificações, linhas ICE/PHEV e verificações de exportação
-
 ## Metadados SEO
-- **Título SEO**: Forthing Youting MPV: Chinês-Mercado ICE & PHEV Linhas, Especificações e Guia de Exportação
-- **Meta descrição**: China-mercado Dongfeng Forthing Youting (游艇) MPV: manter as linhas ICE e PHEV separadas; dimensões, 7-seat cabine, PHEV powertrain e pontos de verificação de exportação.
-- **H1**: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
-- **Palavra-chave principal**: Forthing Dongfeng / 东风风行 Exportação de especificações de Youting / 风行游艇
-- **Termos de busca secundários**: Forthing Youting exportação; 游艇 MPV especificações; chinês 7-seat MPV; MPV PHEV; importação de furgão de passageiros
-- **URL sugerida**: /vehicles/forthing-youting/
-- **Intenção de busca**: Compreenda Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Linhas e verificações de exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
-- **Sugestões de links internos**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
-- **Sugestão de imagem**: Uma cena realista, documento/veículo focado ilustrando Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Expor, nenhuma inspeção encenada ou pessoas reivindicadas.
-- **Texto ALT**: Fechar, visão natural dos materiais e do assunto relacionado com Dongfeng Forthing Youting (2025/2026) — Chinês-Market MPV Specs, ICE/PHEV Linhas, fundo neutro, nenhuma pessoa ou ação de inspeção mostrada.
-- **Escopo do schema**: Artigo + Veículo (sem produto/oferta/revisão)
-
+- Título SEO: Forthing Youting MPV: Chinês-Mercado ICE & PHEV Linhas, Especificações e Guia de Exportação
+- Meta descrição: China-mercado Dongfeng Forthing Youting (Ting (yacht)) MPV: manter as linhas ICE e PHEV separadas; dimensões, 7-seat cabine, PHEV powertrain e pontos de verificação de exportação.
+- H1: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
+- Palavra-chave principal: Forthing Dongfeng / Dongfeng Forthing Exportação de especificações de Youting / Forthing Yacht
+- Termos de busca secundários: Forthing Youting exportação; Ting (yacht) MPV especificações; chinês 7-seat MPV; MPV PHEV; importação de furgão de passageiros
+- URL sugerida: /vehicles/forthing-youting/
+- Intenção de busca: Compreenda Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Linhas e verificações de exportação: o que um exportador de veículos/partes deve verificar, documentar e decidir antes de se comprometer com uma ordem.
+- Sugestões de links internos: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- Sugestão de imagem: Uma cena realista, documento/veículo focado ilustrando Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Expor, nenhuma inspeção encenada ou pessoas reivindicadas.
+- Texto ALT: Fechar, visão natural dos materiais e do assunto relacionado com Dongfeng Forthing Youting (2025/2026) — Chinês-Market MPV Specs, ICE/PHEV Linhas, fundo neutro, nenhuma pessoa ou ação de inspeção mostrada.
+- Escopo do schema: Artigo + Veículo (sem produto/oferta/revisão)
 ## Contexto do comprador: uma placa de MPV, duas linhas de energia
-O **Dongfeng Forthing Youting (游艇)** é um MPV de médio porte do mercado chinês oferecido em **ICE e linhas PHEV que devem ser citadas separadamente**. Eles compartilham uma distância entre eixos 2900 mm e 7-seat, cabine de porta articulada, mas diferem em altura e força de trem. O mercado de referência é **China**; não é solicitada nenhuma especificação de linha de exportação.
-
+O Dongfeng Forthing Youting (Ting (yacht)) é um MPV de médio porte do mercado chinês oferecido em ICE e linhas PHEV que devem ser citadas separadamente. Eles compartilham uma distância entre eixos 2900 mm e 7-seat, cabine de porta articulada, mas diferem em altura e força de trem. O mercado de referência é China; não é solicitada nenhuma especificação de linha de exportação.
 ## Cabine, dimensões e as duas linhas
-- **Base de rodas/semeador**: 2900 mm, 7 (5 门, 平开门) (cinco portas, articuladas/deslizando como construído – confirmar por corte).
-- ** Corpo do ICE**: 4850 1900 1715 mm (verificado em cruz).
-- ** Corpo do PHEV**: 4850 1900 1740 mm (verificados de forma cruzada; note o teto mais alto).
-- ** Trem de potência do PHEV**: 1.5T 154 马力 L4, torque do motor 230 N·m, torque do motor 310 N·m, 1 挡 DHT, velocidade superior 180 km/h.
-- **Nota de carregamento**: por conta capturada AutoHome o PHEV ** não suporta carregamento rápido DC** — confirme na aparar exata.
-- **Preço de referência nacional chinês (sensível ao tempo)**: a partir de 15.49 RMB; um MSRP chinês doméstico, nunca um preço de exportação.
-
+- Base de rodas/semeador: 2900 mm, 7 (5 doors, swing door) (cinco portas, articuladas/deslizando como construído – confirmar por corte).
+- Corpo do ICE: 4850 1900 1715 mm (verificado em cruz).
+- Corpo do PHEV: 4850 1900 1740 mm (verificados de forma cruzada; note o teto mais alto).
+- Trem de potência do PHEV: 1.5T 154 Horsepower L4, torque do motor 230 N·m, torque do motor 310 N·m, 1 -speed DHT, velocidade superior 180 km/h.
+- Nota de carregamento: por conta capturada AutoHome o PHEV não suporta carregamento rápido DC — confirme na aparar exata.
+- Preço de referência nacional chinês (sensível ao tempo): a partir de 15.49 RMB; um MSRP chinês doméstico, nunca um preço de exportação.
 ## Quadro de especificações verificados (referência do mercado chinês)
-| Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |
-|---|---|---|---|---|---|
-| comprimento largura altura gelo | 4850 1900 1715 | mm | CHINA | CROSS_CHECKED | 太平洋 + 搜狐 |
-| comprimento largura altura phev | 4850 1900 1740 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 太平洋 |
-| distância entre eixos | 2900 | mm | CHINA | CROSS_CHECKED | 太平洋 + 搜狐 |
-| bancos | 7 (5 门, 平开门) | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐车型库 |
-| motor phev | 1.5T 154马力 L4 | - Não, não, não. | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| binário do motor phev | 230 | N.m. | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| binário do motor phev | 310 | N.m. | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| transmissão phev | 1 挡 DHT | - Não, não, não. | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| velocidade máxima do phev | 180 | km/h | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| phev dc carga rápida | 不支持快充 (汽车之家口径) | - Não, não, não. | CHINA | FONTE ÚNICA | 汽车之家车家号 |
-| phev china msrp start | 15.49 | 万元人民币 | CHINA | TIM_SENSITIVO | 车主之家 |
-
+| Especificação | Valor | Unidade | Mercado |
+| --- | --- | --- | --- |
+| comprimento largura altura gelo | 4850 1900 1715 | mm | CHINA |
+| comprimento largura altura phev | 4850 1900 1740 | mm | CHINA |
+| distância entre eixos | 2900 | mm | CHINA |
+| bancos | 7 (5 doors, swing door) | - Não, não, não. | CHINA |
+| motor phev | 1.5T 154Horsepower L4 | - Não, não, não. | CHINA |
+| binário do motor phev | 230 | N.m. | CHINA |
+| binário do motor phev | 310 | N.m. | CHINA |
+| transmissão phev | 1 -speed DHT | - Não, não, não. | CHINA |
+| velocidade máxima do phev | 180 | km/h | CHINA |
+| phev dc carga rápida | 不支持Fast charging (Autohome口径) | - Não, não, não. | CHINA |
+| phev china msrp start | 15.49 | ten-thousand RMB | CHINA |
 ## Foco de aquisição de MPV: assentos, conversão e o que está deliberadamente faltando
-Para os importadores de VPM, os campos críticos de ordem são contagem/configuração de assentos, tipo de porta, comprimento da cabine e se a unidade é ICE ou PHEV. A capacidade da bateria e da faixa pura-elétrica não são capturadas de forma confiável e são retidas**, e o carregamento rápido repousa em uma única fonte; não preencher estes a partir de suposição. Qualquer ambulância, transporte VIP ou conversão de cadeira de rodas é uma adaptação construída neste MPV e pertence a uma avaliação de veículo especial separado.
-
+Para os importadores de VPM, os campos críticos de ordem são contagem/configuração de assentos, tipo de porta, comprimento da cabine e se a unidade é ICE ou PHEV. A capacidade da bateria e da faixa pura-elétrica não são capturadas de forma confiável e são retidas, e o carregamento rápido repousa em uma única fonte; não preencher estes a partir de suposição. Qualquer ambulância, transporte VIP ou conversão de cadeira de rodas é uma adaptação construída neste MPV e pertence a uma avaliação de veículo especial separado.
 ## Verificação do comprador no exterior antes do pagamento
 1. Estado ICE ou PHEV explicitamente e registrar as dimensões/altura correspondentes.
 2. Confirme o layout 7-seat, tipo de porta e qualquer escopo de conversão.
 3. Obtenha dados de bateria/gama elétrico e carregamento do OEM antes de citá-los — eles estão bloqueados aqui.
 4. Confirmar as emissões/aprovação de tipo de destino e (para o PHEV) a norma de carregamento.
 5. Tratar o valor RMB como referência nacional apenas; solicitar uma cotação de exportação atual.
-
 ## Perguntas Frequentes
-** Os ICE e PHEV são do mesmo tamanho?** A mesma distância entre eixos, mas o PHEV é ligeiramente mais alto; cite cada linha separadamente.
-** O que é a faixa elétrica PHEV?** Não é de confiança aqui e intencionalmente omitido.
+ Os ICE e PHEV são do mesmo tamanho? A mesma distância entre eixos, mas o PHEV é ligeiramente mais alto; cite cada linha separadamente.
+ O que é a faixa elétrica PHEV? Não é de confiança aqui e intencionalmente omitido.
 - Carrega rápido? Uma fonte diz que não há carregamento rápido de DC; confirmem com precisão.
-** É o preço de exportação de 154, 900 RMB? Não — Apenas referência nacional chinesa.
-** Pode ser convertido em um vaivém ambulância?** Como uma adaptação; avaliar separadamente do MPV base.
-
+ É o preço de exportação de 154, 900 RMB? Não — Apenas referência nacional chinesa.
+ Pode ser convertido em um vaivém ambulância? Como uma adaptação; avaliar separadamente do MPV base.
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | media/industry | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | media/industry | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | media/industry | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
-| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | primary | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| Fonte | Organização | Mercado | URL | Fatos suportados |
+| --- | --- | --- | --- | --- |
+| Forthing Yacht vehicle encyclopedia | PCauto Encyclopedia | CN | http://m.pcauto.com.cn/baike/1542347/2562358/ | dimensions, wheelbase, 座椅, 车doors形式 |
+| Forthing Yacht modelinformation | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEVpowertrain, fast charging, 价格 |
+| Forthing Yacht Specifications | Sohu Auto model database | CN | https://db.auto.sohu.com/model_6769/config | Dimensions, Seats, Powertrain |
+| 风行Ting (yacht) 新车资讯 | Autohome Used Cars | CN | https://m.16888.com/news/2026/0807/24830307.html | PHEVmarket launchinformation |
+| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing Dongfeng Forthing (OEM) | CN | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+
 ## Revisão Editorial
-- **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
-- ** Última revisão**: 2026-09-05
-- **Mercado de referência**: China (especificação de referência do mercado chinês; não uma especificação global)
-- ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado.
-- ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
-
-## Gravação de Imagens
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
-- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
-- **ALT (12 languages)**:
-  - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
-  - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
-  - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer
-  - **ES**: Dongfeng Forthing Youting, MPV del mercado chino, referencia para comprador de exportación
-  - **PT**: Dongfeng Forthing Youting, MPV do mercado chinês, referência ao comprador de exportação
-  - **JA**: Dongfeng Forthing Youting, 中国市場MPV・輸出バイヤー向けリファレンス
-  - **KO**: Dongfeng Forthing Youting, 중국 시장 MPV, 수출 바이어 참고 자료
-  - **VI**: Dongfeng Forthing Youting, MPV thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Dongfeng Forthing Youting, MPV ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Dongfeng Forthing Youting, MPV pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Dongfeng Forthing Youting, MPV السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Dongfeng Forthing Youting, 中国市场MPV·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #ForthingYouting #MPV
+- Autor: AutoBridge Export Editorial Team · [authors](/authors/) · [Política editorial](/editorial-policy/)
+- Última revisão: 2026-09-05
+- Mercado de referência: China
+- Método de verificação: As regras estabelecidas baseiam-se em fontes primárias de reguladores e governos; valores conflitantes da mídia são mantidos como itens de verificação em vez de afirmados; cada item sensível ao tempo é encaminhado à autoridade indicada para confirmação atual.
+- Norma editorial: Pesquisado e redigido a partir das fontes listadas acima (pesquisa documental; não se alega nenhuma direção, desmontagem ou importação em primeira mão). Qualquer ponto que não possa ser confirmado de forma independente é apresentado como item de verificação, e não como fato afirmado.
+- Transparência: A redação e a tradução utilizaram assistência de IA. Este artigo baseia-se em pesquisa documental. Não se alega nenhum teste em primeira mão, salvo quando explicitamente documentado; a revisão editorial humana final permanece pendente.

@@ -1,86 +1,64 @@
-# SAIC MAXUS Xintu V80: 中国市場ディーゼル大型バン/ミニバス輸出参考
+# SAIC MAXUS Xintu V80: China市場ディーゼル大型バン/ミニバス輸出参考
 ## SEOメタデータ
-- **SEOタイトル**: SAIC MAXUS V80 (Xintu) ディーゼル ヴァン及びMinibusの輸出仕様ガイド
-- **メタディスクリプション**: SAIC MAXUSの中国市場参照 Xintu V80 PRO 大型バン/ミニバス: 2.0T ディーゼル、マニュアル/ AMT、長さおよび座席の変形、GVW /ペイロード 輸出バイヤーは入手しなければなりません。
-- **H1**: SAIC MAXUS シンチュ V80: 中国市場ディーゼル大型バン/ミニバス輸出参照
-- **主要キーワード**: SAIC MAXUS V80 のバンの輸出仕様
-- **関連検索語**: MAXUS V80ディーゼル バン; Xintu V80 PRO 2.0T; V80ミニバス シート; MAXUS大型バン貨物; 中国パネル バン輸出
-- **推奨URL**: /vehicles/saic-maxus-v80/
-- **検索意図**: SAIC MAXUS Xintu V80を理解する:中国市場ディーゼル大型バン/ミニバス輸出参照:車両/部品輸出業者が確認、文書化し、注文をコミットする前に決定しなければならないもの。
-- **内部リンク候補**: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
-- **画像候補**: SAIC MAXUS V80の側面図で示される大きいパネルのバンは貨物ボディ長さを表示するために示しました
-- **ALTテキスト**: SAIC MAXUSの側面のプロフィール Xintu V80の大きいバンは長い貨物ボディを示します
-- **スキーマ範囲**: Article + Vehicle
-
-シンチュ(「ニュールート」)V80は、SAIC MAXUSの大型バン(ビッグバン)ファミリーで、乗務員のミニバス、乗務員のバン、複数の体長を横断したパネル/カーゴのバンとして販売されています。 商用買い手は貨物の容積、座席およびGVWのためにそれを選びます、従ってこのページはボディ マトリックスおよびペイロードを証明する文書のまわりで整理されます。 2.0Tディーゼル**で** 2025 V80 PROをカバーします。 古い2.5Tは、レガシーのパワートレインで、この参照に運ばれません。
-
+- SEOタイトル: SAIC MAXUS V80 (Xintu) ディーゼル ヴァン及びMinibusの輸出仕様ガイド
+- メタディスクリプション: SAIC MAXUSのChina市場参照 Xintu V80 PRO 大型バン/ミニバス: 2.0T ディーゼル、マニュアル/ AMT、長さおよび座席の変形、GVW /ペイロード 輸出バイヤーは入手しなければなりません。
+- H1: SAIC MAXUS シンチュ V80: China市場ディーゼル大型バン/ミニバス輸出参照
+- 主要キーワード: SAIC MAXUS V80 のバンの輸出仕様
+- 関連検索語: MAXUS V80ディーゼル バン; Xintu V80 PRO 2.0T; V80ミニバス シート; MAXUS大型バン貨物; Chinaパネル バン輸出
+- 推奨URL: /vehicles/saic-maxus-v80/
+- 検索意図: SAIC MAXUS Xintu V80を理解する:China市場ディーゼル大型バン/ミニバス輸出参照:車両/部品輸出業者が確認、文書化し、注文をコミットする前に決定しなければならないもの。
+- 内部リンク候補: /vehicles/saic-maxus-t90/, /vehicles/faw-jiefang-j6f/, /guides/china-customs-supervision-method-0110-1039/
+- 画像候補: SAIC MAXUS V80の側面図で示される大きいパネルのバンは貨物ボディ長さを表示するために示しました
+- ALTテキスト: SAIC MAXUSの側面のプロフィール Xintu V80の大きいバンは長い貨物ボディを示します
+- スキーマ範囲: Article + Vehicle
+シンチュ(「ニュールート」)V80は、SAIC MAXUSの大型バン(ビッグバン)ファミリーで、乗務員のミニバス、乗務員のバン、複数の体長を横断したパネル/カーゴのバンとして販売されています。 商用買い手は貨物の容積、座席およびGVWのためにそれを選びます、従ってこのページはボディ マトリックスおよびペイロードを証明する文書のまわりで整理されます。 2.0Tディーゼルで 2025 V80 PROをカバーします。 古い2.5Tは、レガシーのパワートレインで、この参照に運ばれません。
 ## 体と役割のマトリックス
-
-| アイテム | 中国の市場参照値 | 市場/MY/トリム | 自信の秘境 |
-|---|---|---|---|
-| 車両タイプ | 軽バス/大型パネルバン(ビッグバン)、FWD、RWD(構成) | 中国・交差チェック | CROSS_CHECKED(クロス) |
-| 長/ホイールベースオプション | Lengths ≈4950 / 5490 / 5700 mm; ホイールベース 3100 / 3640 / 3850 mm 版 | 中国・単元・マトリクスの確認 | シングル_ソース |
-| シート | バス版 5–9 および 15 席まで バージョン 貨物版 2/3 席 | 中国・単元・確認 | シングル_ソース |
-
+| アイテム | Chinaの市場参照値 | 市場/MY/トリム |
+| --- | --- | --- |
+| 車両タイプ | 軽バス/大型パネルバン(ビッグバン)、FWD、RWD(構成) | China・交差チェック |
+| 長/ホイールベースオプション | Lengths ≈4950 / 5490 / 5700 mm; ホイールベース 3100 / 3640 / 3850 mm 版 | China・単元・マトリクスの確認 |
+| シート | バス版 5–9 および 15 席まで バージョン 貨物版 2/3 席 | China・単元・確認 |
 同一のネームプレートは、短距離の旅客バスと長距離貨物のバンをカバーしているため、「V80」は完全仕様ではありません。 注文は、体長、ホイールベース、バス対カーゴの役割と座席数を名前を付けなければなりません。 貨物の量と走行性は、行列間で大幅に異なります。
-
 ## 現在のパワートレイン (2025 PRO)
-
-- **エンジン**:SAIC π 2.0Tディーゼル、108 kW (147 PS)/375 N·m 2025 PRO (交差チェック)。
-- **トランスミッション**:6-speedマニュアルまたは6-speed AMT(自動マニュアル)、トリム。
-- 2.5T(≈100 kW / 330 N·m)は、レガシーラインです  は明示的に除外され、見積書で両者が混在しないようにする.
-
+- エンジン:SAIC π 2.0Tディーゼル、108 kW (147 PS)/375 N·m 2025 PRO (交差チェック)。
+- トランスミッション:6-speedマニュアルまたは6-speed AMT(自動マニュアル)、トリム。
+- 2.5T(≈100 kW / 330 N·m)は、レガシーラインです は明示的に除外され、見積書で両者が混在しないようにする.
 ## ペイロードとGVW: 均質化シートに主張
-
  評価されるペイロード、カーブの固まりおよび総重量はここに主張しません —それらは厳密なシャーシおよびボディのための適合のMIITの発表/証明書を要求します。 貨物バンの番号は購入ケース全体なので、体の大きさから推定するよりも入金前に入手してください。
-
 ## 商用購入者がV80を評価する方法
-
 1. ミッション(旅客シャトル、市送、救急車/キャンプコンバージョン)を定義し、それに応じて体長、屋根、座席を選択します。
 2. 正確なGVW、定格ペイロードとカーブの質量を、そのSKUの均質化/CoCレコードから入手してください。
 3. ドライバーの可用性とデューティサイクルで6MT対6AMTを選択します。選択したボディのRWD / FWDを確認します。
 4. ディーゼル排出段階および燃料硫黄の許容範囲を点検して下さい;サービス間隔およびスペアーを確かめて下さい。
 5. 変換(冷やされていたり、キャンピングカー、ミニバス)は、ボディービルダーのスーパー構造承認からシャシの均質化を分離します。
-6. 中国の市場はLHDです。 輸出/ RHDビルドは、OEMの証拠を分離する必要があります。 すべての文書でVINにマッチします。
-
+6. Chinaの市場はLHDです。 輸出/ RHDビルドは、OEMの証拠を分離する必要があります。 すべての文書でVINにマッチします。
 ## ヴァン輸出検討
-
-輸出前に大火が頻繁に出ます。 ローカルのボディービルと区別するOEMのシャーシの保証/homologationを保って下さい、先はN-category商品として車を扱うかM-categoryの登録のための乗客を、そして時間に敏感な中国国内価格を転換するのではなく構成によって現在の輸出引用を要求して下さい。
-
+輸出前に大火が頻繁に出ます。 ローカルのボディービルと区別するOEMのシャーシの保証/homologationを保って下さい、先はN-category商品として車を扱うかM-categoryの登録のための乗客を、そして時間に敏感なChina国内価格を転換するのではなく構成によって現在の輸出引用を要求して下さい。
 ## よくある質問
-**エンジンは、V80のエンジンはどのようなものがありますか? アパート**
-
+エンジンは、V80のエンジンはどのようなものがありますか? アパート
 2025 Xintu V80 PROは、108 kW(147 PS)/ 375 N·mでSAIC π 2.0Tディーゼル、6-speedマニュアルまたはAMTを使用しています。 古い2.5Tはここにカバーされていません。
-
-**座席数はいくつですか? アパート**
-
+座席数はいくつですか? アパート
 バージョンによって異なります。5–9～15席までの旅客バージョン、貨物バージョン2/3席、正確な体を確認することができます。
-
-**身体の長さは? アパート**
-
+身体の長さは? アパート
 ほぼ4950/5490/ 5700 mm、3100/3640/ 3850 mm ホイールベースバージョン(単一ソースの行列が確認)
-
-**そのペイロードとは? アパート**
-
+そのペイロードとは? アパート
 Payload/GVW はここで引用されていません。特定のシャシの MIIT 発表/CoC から来なければなりません。
-
-**右手ドライブはありますか? ふりがな ふりがな**
-
-中国の市場V80はLHDです。 RHDまたは輸出ビルドは、別々のOEMの証拠を必要とします。
-
+右手ドライブはありますか? ふりがな ふりがな
+Chinaの市場V80はLHDです。 RHDまたは輸出ビルドは、別々のOEMの証拠を必要とします。
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 新途V80多trim参数（2.0T、6MT/6AMT、车长4950/5490/5700、WB3100/3640/3850） | 懂车帝车型参数 | CHINA | independent database | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | 动力, 变速箱, 尺寸矩阵  |
-| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、车长5490） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0T动力, 座位, 尺寸  |
-| V80厢式/客车版本与尺寸 | 新浪汽车车型库 | CHINA | media/industry | single source | https://db.auto.sina.cn/1354/ | 车身形式, 尺寸  |
-| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | primary | VERIFIED | https://en.saicmaxus.com/ | identity — OEM global; export V80 builds differ from China 新途V80 |
-| 上汽大通MAXUS 中国官方 | SAIC MAXUS China | CN | primary | VERIFIED | https://www.maxusmall.com/ | identity — China-market official model line |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify GVW/seat/cargo variant by announcement |
+| 出典 | 機関 | 市場 | URL | 裏付けられた事実 |
+| --- | --- | --- | --- | --- |
+| 新途V80多trimSpecifications（2.0T、6MT/6AMT、Length4950/5490/5700、WB3100/3640/3850） | DongchedimodelSpecifications | CHINA | https://m.dongchedi.com/auto/params-carIds-xhNDU3NTktNDU3NjEtNDU3NjItNDU3NjM | Powertrain, Gearbox, Dimensionsline-up |
+| V80 2025 PRO（2.0T 108kW/375N·m、6AMT、5-9座/15座、Length5490） | PCauto Encyclopedia | CHINA | http://m.pcauto.com.cn/baike/1293290/2406473/ | 2.0TPowertrain, Seats, Dimensions |
+| V80van body/客车version与Dimensions | 新浪汽车model database | CHINA | https://db.auto.sina.cn/1354/ | 车身形式, Dimensions |
+| SAIC MAXUS Global official corporate | SAIC MAXUS Global | EXPORT | https://en.saicmaxus.com/ | OEM global; export V80 builds differ from China 新途V80 |
+| SAIC MAXUSMAXUS Chinaofficial | SAIC MAXUS China | CN | https://www.maxusmall.com/ | China-market official model line |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue（Search portal） | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify GVW/seat/cargo variant by announcement |
 
 ## 編集レビュー
-- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-06
-- **参照の市場**:中国(2025 PRO 2.0T;老 2.5T 不入本篇;额定载质量/总质量须公告)
-- **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-06
+- 参照市場: China
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

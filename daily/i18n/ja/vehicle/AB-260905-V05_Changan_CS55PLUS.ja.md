@@ -1,100 +1,66 @@
-# Changan CS55 PLUS (3rd 世代、2024) - 中国市場ガソリン SUV スペックとエクスポートチェック
-
+# Changan CS55 PLUS (3rd 世代、2024) - China市場ガソリン SUV スペックとエクスポートチェック
 ## SEOメタデータ
-- **SEOタイトル**: 長安 CS55 PLUS (3rd Gen) 2024: 中国の市場 ICE 仕様と輸出ガイド
-- **メタディスクリプション**: Chinese-market third-generation Changan  CS55   PLUS  petrol  SUV : 青い鯨NE 1.5T、7DCT、次元、WLTC燃料の使用および雑種のが別のラインである理由。
-- **H1**: Changan CS55 PLUS (3rd 世代、2024) - 中国市場ガソリン SUV 仕様と輸出チェック
-- **主要キーワード**: Changan/长安 CS55 PLUS (第三代)の仕様の輸出
-- **関連検索語**: Changan CS55 PLUS 輸出; 第三世代 CS55; 青い鯨 1.5T; 中国のガソリンSUV; 7DCT
-- **推奨URL**: /vehicles/changan-cs55-plus/
-- **検索意図**: Changan CS55 PLUS(3rd世代、2024) - 中国市場ガソリンSUV仕様と輸出チェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
-- **内部リンク候補**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
-- **画像候補**: リアルで、文書/車両に焦点を当てたシーンを照らしChangan CS55 (3rd世代、2024) - 中国市場ガソリン SUV 仕様と輸出チェック、段階的な検査や要求の人々。
-- **ALTテキスト**: チャンガンCS55 PLUS(3rd世代、2024)に関連する材料のクローズ、自然的視野 - 中国市場ガソリンSUVスペックとE、中立的な背景、人や検査の行動は示されていません。
-- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
-
+- SEOタイトル: 長安 CS55 PLUS (3rd Gen) 2024: Chinaの市場 ICE 仕様と輸出ガイド
+- メタディスクリプション: Chinese-market third-generation Changan CS55 PLUS petrol SUV : 青い鯨NE 1.5T、7DCT、次元、WLTC燃料の使用および雑種のが別のラインである理由。
+- H1: Changan CS55 PLUS (3rd 世代、2024) - China市場ガソリン SUV 仕様と輸出チェック
+- 主要キーワード: Changan/Changan CS55 PLUS (第三代)の仕様の輸出
+- 関連検索語: Changan CS55 PLUS 輸出; 第三世代 CS55; 青い鯨 1.5T; ChinaのガソリンSUV; 7DCT
+- 推奨URL: /vehicles/changan-cs55-plus/
+- 検索意図: Changan CS55 PLUS(3rd世代、2024) - China市場ガソリンSUV仕様と輸出チェック:車両/部品輸出業者が確認し、文書化し、注文をコミットする前に決定しなければならないもの。
+- 内部リンク候補: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- 画像候補: リアルで、文書/車両に焦点を当てたシーンを照らしChangan CS55 (3rd世代、2024) - China市場ガソリン SUV 仕様と輸出チェック、段階的な検査や要求の人々。
+- ALTテキスト: チャンガンCS55 PLUS(3rd世代、2024)に関連する材料のクローズ、自然的視野 - China市場ガソリンSUVスペックとE、中立的な背景、人や検査の行動は示されていません。
+- スキーマ範囲: Article + Vehicle (no Product/Offer/Review)
 ## バイヤーのコンテキストと生成境界
-このページは、このページのみをカバー **third-generation Changan CS55 PLUS (2024) ガソリンで (ICE) powertrain**. **スーパーハイブリッドバージョンは別々のライン**で、異なるボディとパワートレインの数字で、ここでマージされていません。 参照の市場は**中国**です。
-
+このページは、このページのみをカバー third-generation Changan CS55 PLUS (2024) ガソリンで (ICE) powertrain. スーパーハイブリッドバージョンは別々のラインで、異なるボディとパワートレインの数字で、ここでマージされていません。 参照の市場はChinaです。
 ## ガソリン力訓練および次元
-- **ボディ**: 4539 1865 1680 mm、 ホイールベース 2656 mm; cargo 475–1415 L.
-- **エンジン**:新蓝鲸 NE 1.5T、141 (192Ps) kW。
-- **トランスミッション**:7DCT 湿式双离合。
+- ボディ: 4539 1865 1680 mm、 ホイールベース 2656 mm; cargo 475–1415 L.
+- エンジン:新蓝鲸 NE 1.5T、141 (192Ps) kW。
+- トランスミッション:7DCT 湿式双离合。
 - 0–100 km/h 7.9 s; WLTC燃料消費量 6.94.
-- **中国語国内発売参照(時間感度)**: 9.99–11.39 — 輸出価格ではなく、国内参照。
-- **分離された雑種ライン(混合しないで下さい)**: 超擎混动：4550×1868×1675，发动机110kW/电机180kW.
-
-## 規格表(中国市場参照)
-| 仕様 | バリュー | ユニット | マーケット | 自信の秘境 | ソースノート |
-|---|---|---|---|---|---|
-| 全長 幅 高さ | 4539 1865 1680 | ミリメートル | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| ホイールベース | 2656 | ミリメートル | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| エンジン | 新蓝鲸NE 1.5T |  | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| エンジン力 | 141 (192Ps) | キロワット | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| トランスミッション | 7DCT 湿式双离合 |  | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| セル 0 100 | 7.9 | ツイート | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| 燃料消費量 wltc | 6.94 | L/100km | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| 貨物量 | 475–1415 | フリガナ | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| 陶磁器のmsrpの進水の範囲 | 9.99–11.39 | 万元人民币 | 日 時 分 | タイム _ センシブ | 人民网重庆 |
-| ハイブリッド別ライン | 超擎混动：4550×1868×1675，发动机110kW/电机180kW |  | 日 時 分 | シングル_ソース | 搜狐汽车 |
-
+- China語国内発売参照(時間感度): 9.99–11.39 — 輸出価格ではなく、国内参照。
+- 分離された雑種ライン(混合しないで下さい): super-charge hybrid：4550×1868×1675，Engine110kW/Motor180kW.
+## 規格表(China市場参照)
+| 仕様 | バリュー | ユニット | マーケット | ソースノート |
+| --- | --- | --- | --- | --- |
+| 全長 幅 高さ | 4539 1865 1680 | ミリメートル | 日 時 分 | Sohumodel database |
+| ホイールベース | 2656 | ミリメートル | 日 時 分 | Sohumodel database |
+| エンジン | 新蓝鲸NE 1.5T | | 日 時 分 | Sohumodel database |
+| エンジン力 | 141 (192Ps) | キロワット | 日 時 分 | Sohumodel database |
+| トランスミッション | 7DCT 湿式双离合 | | 日 時 分 | Sohumodel database |
+| セル 0 100 | 7.9 | ツイート | 日 時 分 | Sohumodel database |
+| 燃料消費量 wltc | 6.94 | L/100km | 日 時 分 | Sohumodel database |
+| 貨物量 | 475–1415 | フリガナ | 日 時 分 | Sohumodel database |
+| 陶磁器のmsrpの進水の範囲 | 9.99–11.39 | 万元人民币 | 日 時 分 | 人民网重庆 |
+| ハイブリッド別ライン | super-charge hybrid：4550×1868×1675，Engine110kW/Motor180kW | | 日 時 分 | Sohu Auto |
 ## ICEエクスポートフォーカス:排出量、燃料、およびトリム確認
-ガソリンSUVでは、注文評論調査は、目的地の国では、電気範囲ではなく、**排出段階と燃料の互換性**です。 中国- 6 校正、OBD および燃料グレード (92/95 RON 期待) は、宛先規格と調整する必要があります。 キャプチャされた WLTC 消費は、燃料と負荷と異なるラボ図です。 詳細なパートリム機器の違いはOEM構成シートが必要です。 ガソリンやハイブリッド番号を平均化するのではなく、自社ページでハイブリッドラインを保持します。
-
+ガソリンSUVでは、注文評論調査は、目的地の国では、電気範囲ではなく、排出段階と燃料の互換性です。 China-6 校正、OBD および燃料グレード (92/95 RON 期待) は、宛先規格と調整する必要があります。 キャプチャされた WLTC 消費は、燃料と負荷と異なるラボ図です。 詳細なパートリム機器の違いはOEM構成シートが必要です。 ガソリンやハイブリッド番号を平均化するのではなく、自社ページでハイブリッドラインを保持します。
 ## 支払の前に海外バイヤーの証明
 1. 第三世代のICEビルドとVINによる正確なトリムを確認します。
-2. 目的地の入園と燃料グレードから中国- 6 の排出ステージを確認します。
+2. 目的地の入園と燃料グレードからChina-6 の排出ステージを確認します。
 3. 分離された雑種図;ラインをブレンドしません。
 4. 送信(7DCT)の適合性および予備品/サポート チャネルを確かめて下さい。
 5. RMB の進水の価格を国内参照として扱います; 要求現在の輸出引用語句。
-
 ## よくある質問
-**ハイブリッドCS55はこれですか?** いいえ。ハイブリッドは異なるスペックを持つ別のラインです。
-**排出の標準は何ですか。** 目的地の規則から中国- 6 を確認します。
-**6.94 L/100 km WLTC ラボの値です。実際の使用は異なります。
-**99、900のRMB輸出価格ですか。** いいえ — 国産発売参照。
+ハイブリッドCS55はこれですか? いいえ。ハイブリッドは異なるスペックを持つ別のラインです。
+排出の標準は何ですか。 目的地の規則からChina-6 を確認します。
+6.94 L/100 km WLTC ラボの値です。実際の使用は異なります。
+99、900のRMB輸出価格ですか。 いいえ — 国産発売参照。
 7-speedウェットデュアルクラッチ(7DCT)をキャプチャラインに。
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 出典 | 機関 | 市場 | URL | 裏付けられた事実 |
+| --- | --- | --- | --- | --- |
+| CS55 PLUS Specifications | Sohu Auto model database | CN | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | Dimensions, Wheelbase, Powertrain, Gearbox, Fuel consumption, 行李厢 |
+| 第三代CS55PLUSmarket launch | 人民网重庆 | CN | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | market launch, 价格区间 |
+| CS55 PLUS super-charge hybridSpecifications | Sohu Auto | CN | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile Changan汽车 (OEM) | CN | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+
 ## 編集レビュー
-- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-05
-- **参考市場**:中国(中国市場参照仕様;グローバルスペックではない)
-- **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
-
-## 映像の記録
-- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
-- **RIGHTS_HOLDER**: unconfirmed
-- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: チャンガン CS55 PLUS Gen3
-- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12 languages)**:
-  - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
-  - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
-  - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
-  - **ES**: Changan CS55 PLUS Gen3, petrol SUV del mercado chino, referencia para comprador de exportación
-  - **PT**: Changan CS55 PLUS Gen3, petrol SUV do mercado chinês, referência ao comprador de exportação
-  - **JA**: Changan CS55 PLUS Gen3, 中国市場petrol SUV・輸出バイヤー向けリファレンス
-  - **KO**: Changan CS55 PLUS Gen3, 중국 시장 petrol SUV, 수출 바이어 참고 자료
-  - **VI**: Changan CS55 PLUS Gen3, petrol SUV thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Changan CS55 PLUS Gen3, petrol SUV ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-05
+- 参照市場: China
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

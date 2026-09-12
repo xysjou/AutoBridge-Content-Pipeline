@@ -1,107 +1,77 @@
 # Chery Fulwin A8 (Fengyun A8): الصين - مريخ PHEV Sedan Export Reference
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Chery Fulwin A8 PHEV Export Specs: Two Range Lines, Battery and Modes
-- **وصف Meta**: إشارة السوق الصينية إلى الشيري فولوين/فنغيون A8 بوغل في سيارة هجينة: وظل الخطان الـ 70 km و 145 km منفصلين، ونظام هجين من طراز C- DM، وشحن الصادرات و PHEV شيكات تصديرية محددة.
-- **H1**: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference
-- **الكلمة المفتاحية الرئيسية**: Chery Fulwin A8 Fengyun A8 export specs
-- **مصطلحات بحث ثانوية**: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC electric range; Fulwin A8 145 km؛ تصدير الشيري المزروع؛ A8 فولوين
-- **URL المقترح**: /vehicles/chery-fulwin-a8/
-- **نية البحث**: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export المرجع: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
-- **اقتراحات الروابط الداخلية**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- **اقتراح الصورة**: Side view of a Chery Fulwin A8 plug-in hybrid sedan with charging port visible
-- **نص ALT**: Side profile of a Chery Fulwin A8 PHEV sedan with its charging flap visible
-- **نطاق المخطط**: المادة + المركبات
-
-** مقترحات داخلية بشأن الروابط**: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
-- ** اقتراح مقدم**: نظرة جانبية لسيارات الشيري فولوين A8 من الشاحنات المهجورة مع شحن ميناء مرئي
-- ** اقتراح**: لمحة جانبية عن سيارة ركاب من طراز Chery Fulwin A8 PHEV Sdan مع شاحنتها المرئية
-- **Schema Scope**: Article + Vehicle
-
-"الـ "فولوين A8 (فينغيون الصيني A8 هو مركب "شيري" المُتَصَدّد بُني على نظام "كونبنج سي دي إم" الهجين - "قناة من خمس قنابل، مُقدّمة من العجلات الأمامية" التي تُزوج مُحركاً للوقود بمحرك كهربائي وبطارية مُخرّبة. مكافأة دفتر مغناطيسي راقية لأن خطين مُختلفين  and  النواتج تُعقد تحت اسم نموذجي واحد، إلى جانب جثة أطول من A8L هذه إشارة إلى السوق الصينية** التي تبقي تلك الخطوط منفصلة.**
-
-## الهوية  and  body — A8 versus A8L
-
-| البند | القيمة المرجعية للسوق الصينية | | الثقة |
-|---|---|---|---|
-| | 5-door/5-seat مدمجة من طراز PHEV sedan, FWD, single-speed DHT | CHINA · cross- checked | صرخات |
-| أبعاد فولوين A8 | 4780 × 1843 × 1487 mm  wheelbase 2790 mm | CHINA · cross- checked | صرخات |
-| Fulwin A8L | جسم أطول، طول حفز 4790 mm - متغير متميز، لا يدمج العينات | CHINA | صرخات |
-
+- عنوان SEO: Chery Fulwin A8 PHEV Export Specs: Two Range Lines, Battery and Modes
+- وصف Meta: إشارة السوق الصينية إلى الشيري فولوين/فنغيون A8 بوغل في سيارة هجينة: وظل الخطان الـ 70 km و 145 km منفصلين، ونظام هجين من طراز C- DM، وشحن الصادرات و PHEV شيكات تصديرية محددة.
+- H1: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export Reference
+- الكلمة المفتاحية الرئيسية: Chery Fulwin A8 Fengyun A8 export specs
+- مصطلحات بحث ثانوية: Fulwin A8 C- DM PHEV; Fengyun A8 CLTC electric range; Fulwin A8 145 km؛ تصدير الشيري المزروع؛ A8 فولوين
+- URL المقترح: /vehicles/chery-fulwin-a8/
+- نية البحث: Chery Fulwin A8 (Fengyun A8): China-Market PHEV Sedan Export المرجع: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- اقتراحات الروابط الداخلية: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- اقتراح الصورة: Side view of a Chery Fulwin A8 plug-in hybrid sedan with charging port visible
+- نص ALT: Side profile of a Chery Fulwin A8 PHEV sedan with its charging flap visible
+- نطاق المخطط: المادة + المركبات
+ مقترحات داخلية بشأن الروابط: /vehicles/geely-galaxy-e8/, /vehicles/geely-preface/, /guides/ev-shipping-un3556-imdg-compliance/
+- اقتراح مقدم: نظرة جانبية لسيارات الشيري فولوين A8 من الشاحنات المهجورة مع شحن ميناء مرئي
+- اقتراح: لمحة جانبية عن سيارة ركاب من طراز Chery Fulwin A8 PHEV Sdan مع شاحنتها المرئية
+"الـ "فولوين A8 (فينغيون الصيني A8 هو مركب "شيري" المُتَصَدّد بُني على نظام "كونبنج سي دي إم" الهجين - "قناة من خمس قنابل، مُقدّمة من العجلات الأمامية" التي تُزوج مُحركاً للوقود بمحرك كهربائي وبطارية مُخرّبة. مكافأة دفتر مغناطيسي راقية لأن خطين مُختلفين and النواتج تُعقد تحت اسم نموذجي واحد، إلى جانب جثة أطول من A8L هذه إشارة إلى السوق الصينية التي تبقي تلك الخطوط منفصلة.
+## الهوية and body — A8 versus A8L
+| البند | القيمة المرجعية للسوق الصينية | |
+| --- | --- | --- |
+| | 5-door/5-seat مدمجة من طراز PHEV sedan, FWD, single-speed DHT | CHINA · cross- checked |
+| أبعاد فولوين A8 | 4780 × 1843 × 1487 mm wheelbase 2790 mm | CHINA · cross- checked |
+| Fulwin A8L | جسم أطول، طول حفز 4790 mm - متغير متميز، لا يدمج العينات | CHINA |
 ## المادتان PHEV، مقروءتان بشكل منفصل
-
-ويباع الفولين A8 في خطين متمايزين يتقاسمان الجسم ولكنهما لا يميزان. خط 145 أفضل  and  ويرد أدناه وصف مستقل لخط الموارد الوحيدة البالغ 70، بحيث لا يُقتبس من هاتين الخطتين أبداً كسيارة واحدة.
-
+ويباع الفولين A8 في خطين متمايزين يتقاسمان الجسم ولكنهما لا يميزان. خط 145 أفضل and ويرد أدناه وصف مستقل لخط الموارد الوحيدة البالغ 70، بحيث لا يُقتبس من هاتين الخطتين أبداً كسيارة واحدة.
 ### 145 km خط (يثبت على نحو أفضل)
-
 - 1.5T محرك (156 PS؛ محرك 115 kW/220 N·m) زائداً محرك كهربائي؛
 - Battery ≈18.0–18.67 kWh; (ج) النطاق الشامل للكهرباء في لجنة مكافحة الإرهاب 145 km؛
 - (أ) النظام الموحد الذي يُستخدم فيه 265 kW/530 N·m؛ النطاق المشترك الذي يُستخدم فيه 1400 km (المطالبة القائمة على أساس لجنة التجارة الدولية)؛
 - DC fast-charging 30%. 80 في المائة في حوالي 19 دقيقة (يؤكد المصدر الوحيد).
-
-### 70 km line (single-source — confirm before contracting)
-
+### 70 km line (مصدر واحد — confirm before contracting)
 - 1.5L engine (102 PS) plus motor; 9.525 kWh بطارية؛ CLTC electric range 70 km;
-- WLTC combined range ≈1310 km  and  (أ) استخدام وقود البطاريات المستنفدة بمشاركة 4.55 L/ 100 km؛
+- WLTC combined range ≈1310 km and (أ) استخدام وقود البطاريات المستنفدة بمشاركة 4.55 L/ 100 km؛
 - وترتكز هذه الأرقام حاليا على قاعدة بيانات واحدة وينبغي التحقق منها في صحيفة OEM قبل أن تُكتب إلى عملية بيع.
-
 الخطان مختلفان في البطارية والمحرك ونتاج النظام ويجب أن يُسمّى عقد الشراء الخط (70 أو 145) ونموذج الضمان الاجتماعي؛ ويمثل الخلط بين 70-line بطارية مع 145-line مطالبة من ناتج النظام خطأ نموذجي في اقتباسات المركبات من نوع PHEV.
-
 ## كيف يُشكل نظام إدارة الديون والرسوم الجمركية قرار الشراء
-
 ويعمل فولوين A8، بوصفه من طراز PHEV، في وسائط كهربائية فقط، وهجينة، وبطارية مستنفدة (محتوية على شحنات). وبالنسبة لأسطول ما وراء البحار، فإن الأسئلة ذات الصلة هي: مسافة حقيقية كهربائية فقط تحت القيادة المحلية، واقتصاد الوقود المستنفد عند الشحن غير متاح، وما إذا كان لدى الوجهة بنية أساسية لاستخدام البطارية على الإطلاق. فبدون توجيه اتهامات ملائمة إلى المشتري يحمل فعلياً مهجورة أثقل حجماً - يُختار في حالة الاستخدام.
-
 ## مورد البطارية وشحنها: ما هو ولا يُنشأ
-
-ويربط الرصاص المزود بمركب واحد خطا واحدا بصانع خلايا معين، ولكن ذلك غير متحقق، وهو لا يُذكر** بوصفه حقيقة؛ ويجب أن تؤكد شركة الشيري على مورد البطاريات لكل دفعة إنتاج. كما أن الوقت السريع يحمل علماً من مصدر واحد. ومقياس الموصل في السيارة الصينية هو GB/T؛ والمقصد الذي يفرض على التوافق يحتاج إلى رد تصدير من منظمة أو إم.**
-
+ويربط الرصاص المزود بمركب واحد خطا واحدا بصانع خلايا معين، ولكن ذلك غير متحقق، وهو لا يُذكر بوصفه حقيقة؛ ويجب أن تؤكد شركة الشيري على مورد البطاريات لكل دفعة إنتاج. كما أن الوقت السريع يحمل علماً من مصدر واحد. ومقياس الموصل في السيارة الصينية هو GB/T؛ والمقصد الذي يفرض على التوافق يحتاج إلى رد تصدير من منظمة أو إم.
 ## عمليات التحقق من الصادرات والمدفوعات السابقة
-
 1. سمي خط النطاق (70 مقابل 145) وتميز A8 عن أكثر من A8L في كل وثيقة.
 2. محرك مُلزِم، كهف بطارية، مُتَدى كهربائي، ومُنتجات نظام إلى وحدة الإنقاذ بالضبط، علامة على أصناف ذات مصدر واحد 'تأكيد.
 3. تأكيد شحن المعدات (الوصل، و AC/DC) على البنية التحتية للمقصد.
 4. تحقق من معايرة المحرك بين الصين و 6، ودرجة الوقود، التعبئة في الوجهة.
 5. تحقق من لغة الكوكب و الملامح المرابطة، السوق الصينية هي LHD مع عدم وجود دليل على وجود قاذفة صواريخ RHD هنا.
 6 Match VIN across contract, CoC, invoice and B/L; استخدم تصنيف الضارب الصحيح لشحن السفن
-
 ## ملاحظة الأسعار
-
 سعر الدليل الصيني البالغ 2025 (وهو نطاق محلي منشور) مرجع محلي مرن زمنياً، وليس سعر تصدير. (ب) طلب اقتباس تصديري حالي مع المقصد والكمية والتوجيه والموانئ والإنكور.
-
 ## FAQ
-** ما الفرق بين 70 و145 فولوين A8؟**
-
+ ما الفرق بين 70 و145 فولوين A8؟
 وهي خطوط متميزة للمركبات العضوية الثابتة: يستخدم 145 محركاً يبلغ 1.5T محركاً، وبطارية تبلغ 18 kWh بطارية تبلغ 145 km من النطاق الكهربائي للمركبات العاملة في كلوروفلوروكربون، وأكبر إنتاج مدمج؛ ويستخدم 70 محركاً يبلغ 1.5L و9.525 kWh من أجل 70 km مزوداً بأضعف الموارد.
-
 هل الـ 1400 km من الطاقه الكهربائيه ؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
-
 لا - إنه رقم مشترك (كهرباء + وقود) في مركز التجارة الدولية؛ ويبلغ نطاقات جميع كهرباء لجنة التجارة الحرة لأمريكا اللاتينية ومنطقة البحر الكاريبي 70 أو 145 km حسب الخط.
-
-** هل الفولين A8 نفس الـ A8L؟ **
-
-لا - الـ A8L هي متغير أطول أجلا (المعدل 4790 mm)  ويجب ألا تشترك في A8’s specs.
-
+ هل الفولين A8 نفس الـ A8L؟
+لا - الـ A8L هي متغير أطول أجلا (المعدل 4790 mm) ويجب ألا تشترك في A8’s specs.
 من يزود البطارية؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
-
 ولا يُذكر أن مورد البطارية هو واقع هنا؛ ويجب أن يؤكده الشيري على كل دفعة.
-
 هل يمكن أن تشحن بسرعة؟
-
-The 145 line is quoted at ≈19 minutes for 30–80% (single-source, (أ) تأكيد؛ التحقق من الموصلات ومقياس المقصد
-
+The 145 line is quoted at ≈19 minutes for 30–80% (مصدر واحد, (أ) تأكيد؛ التحقق من الموصلات ومقياس المقصد
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 风云A8 2025款70km标准型（1.5L 102Ps、CLTC纯电70、4780×1843×1487） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/trim_178074 | 70线动力, 尺寸, 纯电续航  |
-| 2025款风云A8空间尺寸（4780×1843×1487、WB2790、后排907mm） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | 尺寸, 轴距  |
-| 风云A8 145km豪华型（1.5T 156Ps、1挡DHT、系统265kW/530N·m） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0814/24847862.html | 145线系统功率, DHT  |
-| 风云A8 C-DM（145km、快充30%-80%约19分钟、热效率44.5%） | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1411632/2431633/ | 快充, 热效率, 纯电续航  |
-| 奇瑞汽车官方网站（风云系列） | Chery Automobile | CN | primary | VERIFIED | https://www.chery.cn/m | identity — OEM official; Fulwin (Fengyun) PHEV line identity |
-| Chery Fulwin A8 2025 trims & specs (independent DB) | CarNewsChina Data | CN | independent database | CROSS_CHECKED | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | line_145 — independent English database; dimensions/torque cross-check |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify PHEV variant and battery by announcement |
+| المصدر | الجهة | السوق | الرابط | الوقائع المدعومة |
+| --- | --- | --- | --- | --- |
+| Fulwin A8 2025model-year70km标准型(1.5L 102Ps, CLTCbattery-electric70, 4780×1843×1487) | Sohu Auto model database | CHINA | http://db.m.auto.sohu.com/trim_178074 | 70线powertrain, dimensions, battery-electricrange |
+| 2025model-yearFulwin A8空间dimensions(4780×1843×1487, WB2790, 后排907mm) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/25038460?isfrom=pc | Dimensions, Wheelbase |
+| Fulwin A8 145kmluxury型(1.5T 156Ps, 1-speed DHT, 系统265kW/530N·m) | Autohome Used Cars | CHINA | https://m.16888.com/news/2026/0814/24847862.html | 145线系统功率, DHT |
+| Fulwin A8 C-DM(145km, fast charging30%-80%approx.19分钟, thermal efficiency44.5%) | PCauto Encyclopedia | CHINA | http://m.pcauto.com.cn/baike/1411632/2431633/ | Fast charging, thermal efficiency, battery-electricRange |
+| 奇瑞汽车officialnetwork站(Fulwin系列) | Chery Automobile | CN | https://www.chery.cn/m | OEM official; Fulwin (Fengyun) PHEV line identity |
+| Chery Fulwin A8 2025 trims & specs | CarNewsChina Data | CN | https://data.carnewschina.com/database/chery/chery-fulwin-a8/2025 | independent English database; dimensions/torque cross-check |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify PHEV variant and battery by announcement |
 
-## استعراض التحرير
-- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-06
-- ** سوق الإحالة**: CHINA(70 线 145 线分列; 电池供应商 UNVERIFIED 不写; 出口命名另证)
-- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-06
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

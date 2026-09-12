@@ -1,99 +1,71 @@
 # Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV الصادرات
 ## بيانات SEO الوصفية
-- **عنوان SEO**: Geely Boyue L Export Specs: 1.5T/2.0T Compact SUV دليل الشراء
-- **وصف Meta**: مرجعيات السوق الصينية للبويي الجيلي L compact SUV: dimensions and cargo, 1.5T and 2.0T variants separated, the Starray export-name huat, and VIN -level buyer checks.
-- **H1**: Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV الصادرات
-- **الكلمة المفتاحية الرئيسية**: Geely Boyue L export specs
-- **مصطلحات بحث ثانوية**: Geely Boyue L dimensions; Boyue L 1.5T 7DCT; Geely Starray export; Chinese compact SUV؛ بويوي مساحة الشحنات
-- **URL المقترح**: /vehicles/geely-boyue-l/
-- **نية البحث**: فهم جيلي بوييي لي (4th-Generation بووي): اتفاق الصين - ماركت SUV المصدر: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
-- **اقتراحات الروابط الداخلية**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **اقتراح الصورة**: جيلي بوي" L compact SUV in profile showing its roofline and wheel aladding
-- **نص ALT**: Side profile of a Geely Boyue L compact SUV on a plain background
-- **نطاق المخطط**: المادة + المركبات
-
-** مقترحات داخلية بشأن الروابط**: /المركبات/الوجه العمري/المركبات/الجنسية - 8، و/أو المبادئ/المركبات - العرضية - الجنوبية -
-- ** اقتراح مقدم**: بوي جيلي مركب مدمج في ملفه يظهر خطه السطحي و شعلة العجلات
-- ** اقتراح**: بيان جانبي لبوي جيلي سيارة إسعاف مدمجة على خلفية واضحة
-- **Schema Scope**: Article + Vehicle
-
-الصبي "ل" هو تطور الجيل الرابع من "جيلي" الذي يمتد طويلاً "بويو" X70-family خط) إن حرقها من أجل التصدير هو في معظمه مسألة اختيار السلطنة الصحيحة وعدم خلط السيارة الصينية مع ستاري المميز بسوق التصدير. وتوثّق هذه الصفحة مرجع السوق الصينية** فقط.**
-
+- عنوان SEO: Geely Boyue L Export Specs: 1.5T/2.0T Compact SUV دليل الشراء
+- وصف Meta: مرجعيات السوق الصينية للبويي الجيلي L compact SUV: dimensions and cargo, 1.5T and 2.0T variants separated, the Starray export-name huat, and VIN -level buyer checks.
+- H1: Geely Boyue L (4th-Generation Boyue): China-Market Compact SUV الصادرات
+- الكلمة المفتاحية الرئيسية: Geely Boyue L export specs
+- مصطلحات بحث ثانوية: Geely Boyue L dimensions; Boyue L 1.5T 7DCT; Geely Starray export; Chinese compact SUV؛ بويوي مساحة الشحنات
+- URL المقترح: /vehicles/geely-boyue-l/
+- نية البحث: فهم جيلي بوييي لي (4th-Generation بووي): اتفاق الصين - ماركت SUV المصدر: ما يجب على المصدر من المركبات/القطع أن يتحقق من أمر ما وأن يوثقه ويقرره قبل الالتزام به.
+- اقتراحات الروابط الداخلية: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- اقتراح الصورة: جيلي بوي" L compact SUV in profile showing its roofline and wheel aladding
+- نص ALT: Side profile of a Geely Boyue L compact SUV on a plain background
+- نطاق المخطط: المادة + المركبات
+ مقترحات داخلية بشأن الروابط: /المركبات/الوجه العمري/المركبات/الجنسية - 8، و/أو المبادئ/المركبات - العرضية - الجنوبية -
+- اقتراح مقدم: بوي جيلي مركب مدمج في ملفه يظهر خطه السطحي و شعلة العجلات
+- اقتراح: بيان جانبي لبوي جيلي سيارة إسعاف مدمجة على خلفية واضحة
+الصبي "ل" هو تطور الجيل الرابع من "جيلي" الذي يمتد طويلاً "بويو" X70-family خط) إن حرقها من أجل التصدير هو في معظمه مسألة اختيار السلطنة الصحيحة وعدم خلط السيارة الصينية مع ستاري المميز بسوق التصدير. وتوثّق هذه الصفحة مرجع السوق الصينية فقط.
 ## الجسم والأبعاد والشحنات
-
-| البند | القيمة المرجعية للسوق الصينية | | الثقة |
-|---|---|---|---|
-| الأبعاد الخارجية | 4730 × 1910 × 1710 mm | CHINA · cross- checked | صرخات |
-| Wheelbase | 2785 mm | CHINA · cross- checked | صرخات |
-| حجم الأمتعة | 650 L مقعدا، يصل إلى 1610 L مقعدا مطويا في مقاعد خلفية | CHINA · cross- checked | صرخات |
-| لا يُمكنك | 5-door/5-seat مركبة مصفحة من طراز FWD | CHINA | صرخات |
-
+| البند | القيمة المرجعية للسوق الصينية | |
+| --- | --- | --- |
+| الأبعاد الخارجية | 4730 × 1910 × 1710 mm | CHINA · cross- checked |
+| Wheelbase | 2785 mm | CHINA · cross- checked |
+| حجم الأمتعة | 650 L مقعدا، يصل إلى 1610 L مقعدا مطويا في مقاعد خلفية | CHINA · cross- checked |
+| لا يُمكنك | 5-door/5-seat مركبة مصفحة من طراز FWD | CHINA |
 ## مضيقان من البنزين، قوة أدلة مختلفة
-
-- **1.5T** — 133 kW (181 PS) 290 N·m with a 7-speed wet dual-clutch, - تشغيل 92-RON البنزين؛ عبر مستقلة قواعد البيانات الصينية.
-- **2.0T** — 160 kW (218 PS) 325 N·m with 7DCT; وفي الوقت الراهن، ينبغي تأكيد رقم واحد المصدر على ورقة مكتب مراقبة الأصول قبل أن يُكتب في عقد.
-
+- 1.5T — 133 kW (181 PS) 290 N·m with a 7-speed wet dual-clutch, - تشغيل 92-RON البنزين؛ عبر مستقلة قواعد البيانات الصينية.
+- 2.0T — 160 kW (218 PS) 325 N·m with 7DCT; وفي الوقت الراهن، ينبغي تأكيد رقم واحد المصدر على ورقة مكتب مراقبة الأصول قبل أن يُكتب في عقد.
 لا تخلط بين الاثنين: درجة الوقود، ومعايرة النقل، والمعدات، ودرجة السعر تختلف جميعها. مشتر يطلب 2.0-litre بويو L يجب أن يتلقى صحيفة SKU بالضبط، وليس مزيج من 1.5T المعدات و 2.0T قوة.
-
 ## "مهد ستاري" اسم التصدير وليس مواصفات متطابقة
-
 Geely تُسجِّل تصديراً يبلغ SUV تحت اسم ستاري، وOEM كتيباً إقليمياً (على سبيل المثال وثائق ستاري في سوق الخليج بأبعادها الخاصة و2.0T+7DCT من المعايرة الإقليمية). ووفقاً لقواعد تحديد الهوية النموذجية، لا تُحدِّد مجموعة أسماء الصادرات معادلة نقطة لكل نقطة على حدة مع البويي الصيني L: فالطول الإقليمي، وقاعدة العجلات، والسلطة يمكن أن تختلف. معالجة مواد ستاري كأدلة في سوق التصدير وطلب ورقة الوجهة رقم OEM بالضبط بدلا من نسخ الأرقام الصينية عليها.
-
 ## طلب مشترون داخليون وعمليون
-
 كسيارة إسعاف عائلية، قصة قيمة (بوي لي) هي مساحة مقصورة، مرونة الشحنات البالغ عددها 650-to-1610-litre، والقمرة ذات الشاشة المزدوجة. ونظرا لأن مستويات الترايم تغير محتوى الشاشة والمقعد ومساعدي السائقين حسب السنة النموذجية، تحدد خط التكوين (وتاريخ الإنتاج) في النموذج؛ وقائمة المعدات الترويجية ليست ورقة بناء.
-
 ## السعر المرجعي المحلي فقط
-
 وأي سعر إرشادي صيني هو مرجع محلي يراعي الوقت، وليس معياراً لقيمة البرمجيات الحرة أو الرقم القياسي للأسعار الاستهلاكية. (ب) الترقيات وتغير حالة المخزون؛ طلب اقتباس تصديري حالي مع الوجهة والقصد غير المحدد بدلاً من تحويل العلامة المحلية.
-
 ## قائمة التحقق من المدفوعات السابقة
-
 1. اختر 1.5T أو 2.0T و احصل على بيانات تماثل الـ OEM/CoC وتعامل الناتج الـ2.0T كما يؤكده فين حتى ذلك الحين
 2. تأكد من القيادة اليسرى LHD (السوق الصيني) — لا يوجد دليل في هذه المصادر على نسخة قيادة يمينى RHD من Boyue L.
 3. إذا كان المشتري يدعوه "ستارراي" ، الحصول على كتيب سوق الوجهة OEM ومقارنة - لا أفترض المواصفات الصينية.
 4. التحقق من مرحلة الانبعاثات (الصين 6) وتوافق المقصد.
 5. تحقق من لغة الوحده الرئيسية وفرق الملاحة وسمات الاتصال للمقصد
 6. Reconcile VIN across contract, CoC, invoice and shipping documents.
-
 ## لماذا هذا يهم لطلب سيارة الدفع الرباعي
-
 وعادة ما يُطلب من سيارات الدفع الرباعي في خفافيش مختلطة. والخطأ الذي يمكن تجنبه هو شحن 1.5T وحدة مقابل عقد شراء قدره 2.0T، أو واعدة أحد سمات سوق ستاري من مبنى صيني. إغلاق وحدة الأوراق المالية الخاصة ونطاق السوق قبل أن تزيل الودائع ذلك النزاع.
-
 ## FAQ
 هل (بويو) مثل (جيلي ستاري)؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
-
 ستاري هو مجموعة أسماء سوق التصدير؛ ويمكن للمواصفات الإقليمية ستاري أن تختلف عن البويي الصيني L، لذا يشار إلى الاثنين بالسوق الواحدة بدلا من معاملتهما على أنهما متطابقتان.
-
-** كم حجم "بويو ل"؟**
-
+ كم حجم "بويو ل"؟
 المراجع الصينية: 4730 × 1910 × 1710 mm × 2785 mm قاعدة عجلة، 650 L (حتى 1610 L) من حيز الشحنات.
-
-** ما هي المحركات المعروضة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة**
-
+ ما هي المحركات المعروضة؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
 طراز 1.5T (133 kW 290 N·m، 7DCT، بنزين 92-RON) موثق بمصدرين متقاطعين، وطراز 2.0T (160 kW 325 N·m) يجب تأكيد رقمه بواسطة VIN.
-
 هل هو (أو دبليو دي)؟ "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـنـيـمـة
-
 الخط الصيني المشار إليه هو محرك العجلات الأمامية
-
 هل تأتي في اليد اليمنى من الصين؟
-
 لا RHD وتُثبت هنا نسخة من السوق الصينية؛ وتُثبت بشكل منفصل وجهات إدارة الصحة الإنجابية.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
-| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
-| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
-| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
+| المصدر | الجهة | السوق | الرابط | الوقائع المدعومة |
+| --- | --- | --- | --- | --- |
+| 第四代博越Lparameters(4730×1910×1710, wheelbase2785; 1.5T 133kW/290N·m; 2.0T 160kW/325N·m; 7DCT; 92No.) | Sohu Auto model database | CHINA | https://db.auto.sohu.com/model_6881/config | dimensions, powertrain, gearbox, petrol/diesel标号 |
+| 2025model-year博越Ldimensions/wheelbase/cargo/trunk volume(4730/1910/1710, WB2785, cargo/trunk volume650-1610L) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | Dimensions, Cargo volume |
+| 博越L 1.5Tconfigurationtable(133kW/181Ps/290N·m, 7DCT, 92#) | Autohome Used Cars | CHINA | https://m.16888.com/news/2026/0421/24893147.html | 1.5TPowertrain, Gearbox |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | Starray is export nameplate; do not equate export numbers to China Boyue L |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify homologated China variant |
 
-## استعراض التحرير
-- ** Author**: فريق تحرير تصدير أوتومبريدج: [محرر] (/مؤلف) · [سياسة تأديبية] (/سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-06
-- ** سوق الإحالة**: CHINA(China-market reference; Starray 为出口名但参数不与中国版等同)
-- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد البنود الحساسة من حيث التوقيت (الأسعار والرسوم والقوائم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والرسوم والأسعار المرجعية المحلية) في الصفحة الرسمية الحالية قبل التحول.
-- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.
+## مراجعة تحريرية
+- المؤلف: AutoBridge Export Editorial Team · [authors](/authors/) · [السياسة التحريرية](/editorial-policy/)
+- آخر مراجعة: 2026-09-06
+- السوق المرجعي: الصين
+- منهجية التحقق: تستند القواعد الراسخة إلى المصادر الأولية للجهات التنظيمية والحكومية؛ تُبقى الأرقام المتضاربة في وسائل الإعلام كبنود تحقق بدلًا من تأكيدها كحقائق؛ ويُوجَّه كل بند حساس للوقت إلى الجهة المختصة للتأكد المباشر.
+- المعيار التحريري: بُحث وكُتب اعتمادًا على المصادر المذكورة أعلاه (بحث مكتبي؛ لا يُدَّعى أي قيادة أو تفكيك أو استيراد مباشر). أي نقطة يتعذر تأكيدها بشكل مستقل تُعرض كبند تحقق لا كحقيقة مؤكدة.
+- الشفافية: استُخدمت مساعدة الذكاء الاصطناعي في الصياغة والترجمة. تعتمد هذه المقالة على البحث المكتبي. لا يُدَّعى أي اختبار مباشر ما لم يُوثَّق صراحة؛ والمراجعة التحريرية البشرية النهائية لا تزال معلّقة.

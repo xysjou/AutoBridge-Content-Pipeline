@@ -1,98 +1,60 @@
 # ใบรับรอง อะไร ของ ต้น กําเนิด ที่ จําเป็น ต้อง มี การ ส่งออก ด้วย รถ กําหนดเอง vs CCPIT, พรีเซนเชียล vs Non-Precient
-
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: ใบรับรอง จีน สําหรับ การ ส่งออก แบบ การขนส่ง — CO ประเภท และ ผู้ ออก หาก
-- **คำอธิบาย Meta**: ประกาศนียบัตรจีนสามประเภทที่เขียนแบบออริจินต์ ซึ่งจะสมัครสําหรับ จะใช้ศุลกากรหรือ CCPIT เมื่อ FTA ก่อนปี CO ประยุกต์ใช้  and  สิ่งที่ผู้ส่งออกต้องไม่สัญญากับผู้บรรลุเป้าหมาย
-- **H1**: เลือกใบรับรองที่ถูกต้องสําหรับนําเข้าอุปกรณ์ส่งออก
-- **คีย์เวิร์ดหลัก**: ใบรับรองการส่งออกจากภาษาจีนดั้งเดิม
-- **คำค้นหารอง**: ไม่ใช้ CO GSP ประกาศนียบัตรกําเนิด FTA ก่อนปี CO (พ.ศ. GACC คําสั่ง 270 (พ.ศ. CCPIT ต้นกําเนิดของใบรับรอง (พ.ศ. เอกสารส่งออกของพาหนะ
-- **URL ที่แนะนำ**: /guides/china-export-certificate-of-origin
-- **เจตนาการค้นหา**: เข้าใจการเลือกใบรับรองที่ถูกต้อง สําหรับส่งออกเป็นสื่อส่งออกรถนําเข้าของจีน: สิ่งที่ผู้ส่งออก/ส่วนต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนที่จะมีการสั่งซื้อ
-- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
-- **คำแนะนำรูปภาพ**: เปรียบเทียบได้สาม CO แบบ
-- **ข้อความ ALT**: ประกาศนียบัตร ที่ มา จาก จีน มี สาม ชนิด ที่ กําหนด ให้ ทํา CCPIT
-- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
-
+- ชื่อ SEO: ใบรับรอง จีน สําหรับ การ ส่งออก แบบ การขนส่ง — CO ประเภท และ ผู้ ออก หาก
+- คำอธิบาย Meta: ประกาศนียบัตรจีนสามประเภทที่เขียนแบบออริจินต์ ซึ่งจะสมัครสําหรับ จะใช้ศุลกากรหรือ CCPIT เมื่อ FTA ก่อนปี CO ประยุกต์ใช้ and สิ่งที่ผู้ส่งออกต้องไม่สัญญากับผู้บรรลุเป้าหมาย
+- H1: เลือกใบรับรองที่ถูกต้องสําหรับนําเข้าอุปกรณ์ส่งออก
+- คีย์เวิร์ดหลัก: ใบรับรองการส่งออกจากภาษาจีนดั้งเดิม
+- คำค้นหารอง: ไม่ใช้ CO GSP ประกาศนียบัตรกําเนิด FTA ก่อนปี CO (พ.ศ. GACC คําสั่ง 270 (พ.ศ. CCPIT ต้นกําเนิดของใบรับรอง (พ.ศ. เอกสารส่งออกของพาหนะ
+- URL ที่แนะนำ: /guides/china-export-certificate-of-origin
+- เจตนาการค้นหา: เข้าใจการเลือกใบรับรองที่ถูกต้อง สําหรับส่งออกเป็นสื่อส่งออกรถนําเข้าของจีน: สิ่งที่ผู้ส่งออก/ส่วนต้องตรวจสอบ, เอกสาร และตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- คำแนะนำลิงก์ภายใน: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/
+- คำแนะนำรูปภาพ: เปรียบเทียบได้สาม CO แบบ
+- ข้อความ ALT: ประกาศนียบัตร ที่ มา จาก จีน มี สาม ชนิด ที่ กําหนด ให้ ทํา CCPIT
+- ขอบเขต Schema: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 ## การ ตัดสิน ใจ ที่ ซ่อน อยู่ ใน เอกสาร ฉบับ หนึ่ง
-พวกนักนําเข้ามักขอ " CO" ราวกับว่าเป็นกระดาษแผ่นเดียว มันไม่ใช่ ปัญหาจีน"สามครอบครัว" ประกาศนียบัตรแหล่งกําเนิด  and  การ เลือก คน ที่ ไม่ ดี หมาย ถึง ผู้ ซื้อ ไม่ อาจ ทํา ให้ คน นั้น เห็น ชัด หรือ ไม่ ได้ รับ เอกสาร ที่ เป็น ตัว แทน ของ ตน ก็ ไม่ ได้ คาด หมาย. กฎการปกครองปัจจุบันคือ ~ GNCC สั่งซื้อที่ 270 *มาตราวัดการอนุมานสําหรับใบรับรองของต้นฉบับสําหรับส่งออกสินค้า*  published 2024-07-30  และด้วยพลังจาก 2024-09-01**. หน้านี้ครอบคลุม ประเทศจีน ออกด้าน ~ จุดหมายปลายทางที่แน่นอน จะให้ทางเลือกหรือเป็นการตัดสินใจของประเทศนั้น
-
+พวกนักนําเข้ามักขอ " CO" ราวกับว่าเป็นกระดาษแผ่นเดียว มันไม่ใช่ ปัญหาจีน"สามครอบครัว" ประกาศนียบัตรแหล่งกําเนิด and การ เลือก คน ที่ ไม่ ดี หมาย ถึง ผู้ ซื้อ ไม่ อาจ ทํา ให้ คน นั้น เห็น ชัด หรือ ไม่ ได้ รับ เอกสาร ที่ เป็น ตัว แทน ของ ตน ก็ ไม่ ได้ คาด หมาย. กฎการปกครองปัจจุบันคือ ~ GNCC สั่งซื้อที่ 270 *มาตราวัดการอนุมานสําหรับใบรับรองของต้นฉบับสําหรับส่งออกสินค้า* published 2024-07-30 และด้วยพลังจาก 2024-09-01. หน้านี้ครอบคลุม ประเทศจีน ออกด้าน ~ จุดหมายปลายทางที่แน่นอน จะให้ทางเลือกหรือเป็นการตัดสินใจของประเทศนั้น
 ## ครอบครัว ใบรับรอง สาม ครอบครัว
 | ชนิด | วัตถุประสงค์ | เมื่อผู้ส่งออกรถใช้ |
-|---|---|---|
+| --- | --- | --- |
 | ~ไม่รับรอง... | รักษา MFN, ป้องกันการถูกลอบยิง/นับการนับการนับรวม/ป้องกันกรณี, การทําเครื่องหมายที่ต้น, ข้อจํากัดเชิงอนิจกรรม, ขอบเขตการทาบทาบล, การจัดหาข้อมูลของรัฐบาล สถิติการค้า | ค่าปริยาย "CO ทั่วไป" พิสูจน์ต้นกําเนิดของภาษาจีน เมื่อไม่มีการอ้างความชอบในการค้า |
-| ** PDF (ระบบปรับแต่งระบบอัตโนมัติ)... | อ้างอิงโดยใช้รูปแบบประเทศของ GPP | เฉพาะที่ที่ปลายทางยังคงให้ GPP และต้องการรูปแบบเฉพาะ |
-| ** พรียูนิเซฟ CO (FTA)** | สัดส่วนการตกลงก่อนกําหนดในปลายทาง | เฉพาะที่ที่ FTA ระหว่างจีนกับจุดหมายปลายทางใช้ได้เท่านั้น ~และ~ สินค้าต่างๆ ตรงกับกฎของข้อตกลงนั้น |
-
+| PDF (ระบบปรับแต่งระบบอัตโนมัติ)... | อ้างอิงโดยใช้รูปแบบประเทศของ GPP | เฉพาะที่ที่ปลายทางยังคงให้ GPP และต้องการรูปแบบเฉพาะ |
+| พรียูนิเซฟ CO (FTA) | สัดส่วนการตกลงก่อนกําหนดในปลายทาง | เฉพาะที่ที่ FTA ระหว่างจีนกับจุดหมายปลายทางใช้ได้เท่านั้น ~และ~ สินค้าต่างๆ ตรงกับกฎของข้อตกลงนั้น |
 FTA แต่ละฉบับมีกฏของตัวมัน ต้นกําเนิด รูปแบบ และรหัส ใบรับรองที่สร้างขึ้นเพื่อข้อตกลงหนึ่ง ไม่สามารถนํามาใช้ซ้ําได้อีก
-
 ## ใคร เป็น ผู้ ออก
-ช่องสัญญาณสองทางมีกําหนดให้ใช้เป็น ~ศุลกากรจีน**  and  PDFTIT (สภาจีนสําหรับ prove of International Traction)  and  ก้านไม้ท้องถิ่น:
+ช่องสัญญาณสองทางมีกําหนดให้ใช้เป็น ~ศุลกากรจีน and PDFTIT (สภาจีนสําหรับ prove of International Traction) and ก้านไม้ท้องถิ่น:
 - ที่ที่ผู้ส่งข่าวต้องการร่างทางการ ผ่านผ่าน...
 - ที่ใดที่ผู้จําหน่ายไม่ได้ระบุ ผู้ส่งออกอาจจะปรับใช้กับ~~ เช่นเดียวกัน~ ศุลกากร หรือ CCPAT
-- CCPIT สามัญ (ไม่ใช่มาตรฐาน) ใบรับรองโดยทั่วไปจะถูกออก ** โดยไม่ใช่ค่าธรรมเนียม *, ตรงกับตารางการพิมพ์ปัจจุบัน
-
+- CCPIT สามัญ (ไม่ใช่มาตรฐาน) ใบรับรองโดยทั่วไปจะถูกออก โดยไม่ใช่ค่าธรรมเนียม *, ตรงกับตารางการพิมพ์ปัจจุบัน
 ## การ ใช้ กรอบ เพื่อ ช่วย ให้ เรือ แล่น ไป ได้
 1. ยืนยันปลายทางและรายการโปรดของ FTA จะถูกอ้างสิทธิ์หรือไม่ ถ้าไม่CO ที่ไม่ใช่พรีเซ็นท์เป็นเครื่องมือทั่วไป
 2. ถ้าอ้างว่าชอบ ก็ให้ตรวจสอบว่ารถนั่น ตรงกับข้อตกลงที่ตั้งไว้หรือไม่ ก่อนที่จะมาสมัคร อย่าถือว่า "ผลิตในประเทศจีน" อย่างเดียว
 3. ผู้เขียนหลักของเครดิตต้องการ (ส่วนบริการ → ศุลกากร).
 4. ใช้รูปแบบและโค้ดภายใต้คําสั่ง 270 และข้อตกลงที่เกี่ยวข้อง; รูปแบบการเปลี่ยนแปลงเป็นข้อตกลงเพิ่มเติม
-
 ## อะไร ที่ ไม่ ควร สัญญา
 - หน้านี้ไม่กําหนดปลายทางที่ให้ไปยัง ATA หรือ กฎของมัน นั่นคือ ประเทศ-และข้อตกลง และต้องตรวจสอบการจัดส่งต่อครั้ง กับศุลกากร/CPAT
 - ใบรับรองของจุดกําเนิดไม่ยืนยัน~~ ปลายทางจะให้อัตราการลดลง ศุลกากรกําหนดที่ ทําให้ความมุ่งมั่นที่
-
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
-** อะไรคือกฏปัจจุบันของ COSส่งออกของจีน? ~ CAC สั่งซื้อที่ 270 ในการใช้กําลังตั้งแต่ 1 September 2024 ควบคุมการส่งออกใบรับรองของต้นกําเนิด (PDF)
+ อะไรคือกฏปัจจุบันของ COSส่งออกของจีน? ~ CAC สั่งซื้อที่ 270 ในการใช้กําลังตั้งแต่ 1 September 2024 ควบคุมการส่งออกใบรับรองของต้นกําเนิด (PDF)
 ~ฉันเรียนที่ศุลกากรหรือ CCPAT~ ถ้าผู้ซื้อต้องการร่างอย่างเป็นทางการ ใช้ศุลกากร; มิฉะนั้นทางช่องอาจจะออก และCPDT ของCPIT โดยทั่วไปจะเป็น CO เสรี
 "" อะไรคือความแตกต่างระหว่างคนสามัญกับ COFTA" ซีโอสามัญพิสูจน์ที่มาของวัตถุประสงค์ที่ไม่เป็น prinessed; เอฟทีเอ ซีสนับสนุนอัตราที่ตกลงกันล่วงหน้าเท่านั้น ถ้าสินค้าตรงกับกฎกําเนิดของข้อตกลงที่
 "FTA CO รับการรับประกันว่า ไม่ ศุลกากรนําเข้าสินค้าของประเทศ ตัดสินใจจะอนุมัติให้
-
-## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-- ~~~: อ้างอิงการส่งออกของ AutoBridge — ใบรับรองที่มาของการส่งออกรถ, คู่มือการจัดหารถ
-- ~FR~: การ ส่ง ออก ของ เครื่อง ยนต์
-- - - - - - - - - AutoBridge-Referenz furer Excufer — ใบรับรองที่มาของการส่งออกรถ, Leitfen fur Faure Fhrazexxport-Einkauf
-- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร ตา โด เรส เด เอ สกา รา ซิ ออน — ประกาศนียบัตร ที่ มา จาก การ ส่ง ออก รถยนต์, กู อี อา เด คอม พา รา ส ปา รา ปา รา ปา รา เดอ วี อี คู ลัส
--~PT~: เร เปร รียน อา โต บี ริดจ์ พา เร เท รา โดเรส เด เอ สกา ซา นา อา — ประกาศนียบัตร ที่ มา จาก การ ส่ง ออก รถยนต์, กวา เดอ คอม เทร รอส พารา ซา วา เด เว คู ลัส
-- ~JA~: TOPBridge 輸出バイヤー向けリファレンス | ใบรับรองที่มาของการส่งออกรถ, ○ 調達ガイド 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Certificate of origin for vehicle export, 자동차 수출 조달 가이드
-- ~วูฟ~: Thai liju Thamkhoo Auto Bridge ju ng i i gua xu at khu — ใบรับรองที่มาของการส่งออกรถ hhhhhhhng dhin มิว มิว ฌ็อง ะฐะฐะ ะฐะ ะ ะฐะฐะ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Certificate of origin for vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-- ~-~~: Referenti AutoBridge imbei epsport — ใบรับรองที่มาของการส่งออกรถ, Panduan Penngadaan ekspop Kendaraan
--~~~: مرجع ออโตไบริดจ์ لمشتري ا لتصدير لتصدير لتصدير — ใบรับรอง ที่ มา จาก รถยนต์ ส่ง ออก دليل مشتري ا ت تصدير تصدير لمركب لمركب ا ت
-- ~ZH~: TOPBridge 出口采购参考 | ใบรับรองที่มาของการส่งออกรถ, ○
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
-| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
-| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
-*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
+| แหล่งที่มา | องค์กร | ตลาด | URL | วันที่ตรวจสอบ | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- | --- |
+| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | Rule version, three types, issuers |
+| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | Non-preferential uses, three types |
+| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | Issuers, no-fee ordinary CO |
+*หมายเหตุขอบเขต: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | แหล่งปฐมภูมิ | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | แหล่งปฐมภูมิ | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | แหล่งปฐมภูมิ | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | แหล่งปฐมภูมิ | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | แหล่งปฐมภูมิ | CCPIT-issued non-preferential certificate of origin channel |
 
-| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
-| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
-| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
-| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
-| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
-
-## การทบทวนแก้ไข
-- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ ตลาดแห่งความอิ่มตัว ~: ใบรับรองส่งออก-ด้านข้างประเทศจีน ออก (รายการรายการที่ยกเลิกรายการโปรดของอนุเคราะห์)
-- ~วิธีการสร้างความสัมพันธ์ ~: PDF แบบทางการสองตัว + CCPAT; per-FA โดยเจตนาแล้วไม่ได้เจตนาใช้ทั่วไป
-- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
-- **มาตรฐานด้านบรรณาธิการ**: ศึกษาและเขียนจากแหล่งที่มาที่ระบุข้างต้น (การวิจัยจากเอกสาร; ไม่มีการอ้างว่าได้ทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ระดับความเชื่อมั่นของแหล่งที่มาแสดงไว้เป็นรายข้อ; ประเด็นใดที่ไม่สามารถยืนยันได้อย่างอิสระจะนำเสนอเป็นรายการตรวจสอบ แทนที่จะระบุเป็นข้อเท็จจริง
-
-**Tags**: #CertificateOfOrigin #CCPIT #Customs #FTA #ExportDocuments
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: จีน
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ

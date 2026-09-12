@@ -1,100 +1,66 @@
-# Geely Xingyuan/ギャラクシーXingyuan (2025/2026) - 中国市場BEVの仕様と輸出検証
-
+# Geely Xingyuan/ギャラクシーXingyuan (2025/2026) - China市場BEVの仕様と輸出検証
 ## SEOメタデータ
-- **SEOタイトル**: ゲーリーXingyuan(銀河Xingyuan)BEV: 中国の市場仕様と輸出ガイド
-- **メタディスクリプション**: 中国の市場Geely Xingyuan/Starwish小さいEV: GEA 建築物, RWDの  58/85 kW motors,  310/410 km  CLTC , 40.16 kWh ライン  and  輸出バイヤーの点検。
-- **H1**: ジーリー・シンゲン/ギャラクシーXingyuan (2025/2026) — 中国市場BEVのSpecsおよび輸出確認
-- **主要キーワード**: Geely/吉利 Xingyuan/吉利星愿 (Galaxy 星愿)の仕様の輸出
-- **関連検索語**: ジーリーXingyuan輸出;ギャラクシーXingyuan仕様; ジーリースターウィッシュ; 中国小さな電気ハッチバック; CLTC市EV
-- **推奨URL**: /vehicles/geely-xingyuan/
-- **検索意図**: ジーリー・シンゲン/ギャラクシー・シンゲン(2025/2026) - 中国・市場 BEV 仕様とエクスポート検証:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
-- **内部リンク候補**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- **画像候補**: リアルで、文書/車両に焦点を当てたシーンは、Geely Xingyuan / Galaxy Xingyuan(2025/2026)をイラスト化しています。中国市場BEVの仕様と輸出有能な、段階的な検査や、要求された人々。
-- **ALTテキスト**: クローズ、素材の自然な眺めとGeely Xingyuan / Galaxy Xingyuan(2025/2026)に関連する主題 - 中国市場BEVスペックと博覧会、中立背景、人や検査の行動は示されていません。
-- **スキーマ範囲**: Article + Vehicle (no Product/Offer/Review)
-
+- SEOタイトル: ゲーリーXingyuan(銀河Xingyuan)BEV: Chinaの市場仕様と輸出ガイド
+- メタディスクリプション: Chinaの市場Geely Xingyuan/Starwish小さいEV: GEA 建築物, RWDの 58/85 kW motors, 310/410 km CLTC, 40.16 kWh ライン and 輸出バイヤーの点検。
+- H1: ジーリー・シンゲン/ギャラクシーXingyuan (2025/2026) — China市場BEVのSpecsおよび輸出確認
+- 主要キーワード: Geely/Geely Xingyuan/Geely Xingyuan (Galaxy 星愿)の仕様の輸出
+- 関連検索語: ジーリーXingyuan輸出;ギャラクシーXingyuan仕様; ジーリースターウィッシュ; China小さな電気ハッチバック; CLTC市EV
+- 推奨URL: /vehicles/geely-xingyuan/
+- 検索意図: ジーリー・シンゲン/ギャラクシー・シンゲン(2025/2026) - China・市場 BEV 仕様とエクスポート検証:車両/部品輸出業者が注文をコミットする前に検証、文書化、決定しなければならないもの。
+- 内部リンク候補: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
+- 画像候補: リアルで、文書/車両に焦点を当てたシーンは、Geely Xingyuan / Galaxy Xingyuan(2025/2026)をイラスト化しています。China市場BEVの仕様と輸出有能な、段階的な検査や、要求された人々。
+- ALTテキスト: クローズ、素材の自然な眺めとGeely Xingyuan / Galaxy Xingyuan(2025/2026)に関連する主題 - China市場BEVスペックと博覧会、中立背景、人や検査の行動は示されていません。
+- スキーマ範囲: Article + Vehicle (no Product/Offer/Review)
 ## バイヤーのコンテキストとモデルのアイデンティティ
-**Geely Xingyuan (Galaxy Xingyuan, ハンガリー)  一部輸出市場で別の英名で販売)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, このページは**中国語(簡体)**の参考文献です。 海外モデル名はOEMの記述なしで同一扱いません。
-
+Geely Xingyuan (Galaxy Xingyuan, ハンガリー) 一部輸出市場で別の英名で販売) is an A0 five-door battery-electric hatchback on Geely's GEA EV architecture, このページはChina語(簡体)の参考文献です。 海外モデル名はOEMの記述なしで同一扱いません。
 ## 電力系統と範囲線
-- **ボディ**: 4135 1805 1570(スター限定版车长 4155) mm(スターエディション4155 mmロング)、ホイールベース2650 mm、5 门 5 座; 后置后驱.
-- **モーター**:58 85 kWオプション。
-- **バッテリー**:磷酸铁锂; キャプチャされた容量線は、長距離車のための40.16 kWhです。 特定のセルサプライヤーは、百科事典/メディアアカウントでのみ表示され、OEM の混同** ではないため、それは安心です。
-- **Range**:310 410 km CLTC(クロスチェック) - WLTPではなく、中国テストサイクル。
-- **車体**:375 (前备厢 70、后排放倒 1320) L;プラットホームGEA 纯电架构。
-- **ピーク充電電力は確実に捕獲されず、記載されていない。 アパート
-
-## 規格表(中国市場参照)
-| 仕様 | バリュー | ユニット | マーケット | 自信の秘境 | ソースノート |
-|---|---|---|---|---|---|
-| 全長 幅 高さ | 4135 1805 1570 (スター限定版车长 4155) | ミリメートル | 日 時 分 | CROSS_CHECKED(クロス) | 搜狐双页 |
-| ホイールベース | 2650 | ミリメートル | 日 時 分 | CROSS_CHECKED(クロス) | 搜狐+腾讯 |
-| シート | 5门5座 |  | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| レイアウト | 后置后驱 |  | 日 時 分 | シングル_ソース | 腾讯新闻 |
-| モーター力の選択 | 58 85 | キロワット | 日 時 分 | シングル_ソース | 搜狐汽车 |
-| バッテリータイプ | 磷酸铁锂 |  | 日 時 分 | シングル_ソース | 搜狐汽车 |
-| battery capacity 410 | 40.16 | ツイート ウィズ | 日 時 分 | シングル_ソース | 搜狐汽车 |
-| レンジ crtc | 310 410 | 祇園 祇園 | 日 時 分 | CROSS_CHECKED(クロス) | 搜狐+腾讯 |
-| 貨物量 | 375 (前备厢 70、后排放倒 1320) | フリガナ | 日 時 分 | シングル_ソース | 搜狐车型库 |
-| プラットフォーム | ジーア 纯电架构 |  | 日 時 分 | シングル_ソース | 腾讯新闻 |
-
+- ボディ: 4135 1805 1570(スター限定版Length 4155) mm(スターエディション4155 mmロング)、ホイールベース2650 mm、5 门 5 座; 后置RWD.
+- モーター:58 85 kWオプション。
+- バッテリー:LFP; キャプチャされた容量線は、長距離車のための40.16 kWhです。 特定のセルサプライヤーは、百科事典/メディアアカウントでのみ表示され、OEM の混同 ではないため、それは安心です。
+- Range:310 410 km CLTC(クロスチェック) - WLTPではなく、Chinaテストサイクル。
+- 車体:375 (前备厢 70、后排放倒 1320) L;プラットホームGEA battery-electric架构。
+- ピーク充電電力は確実に捕獲されず、記載されていない。 アパート
+## 規格表(China市場参照)
+| 仕様 | バリュー | ユニット | マーケット | ソースノート |
+| --- | --- | --- | --- | --- |
+| 全長 幅 高さ | 4135 1805 1570 (スター限定版Length 4155) | ミリメートル | 日 時 分 | Sohu双页 |
+| ホイールベース | 2650 | ミリメートル | 日 時 分 | Sohu+腾讯 |
+| シート | 5门5座 | | 日 時 分 | Sohumodel database |
+| レイアウト | 后置RWD | | 日 時 分 | Tencent News |
+| モーター力の選択 | 58 85 | キロワット | 日 時 分 | Sohu Auto |
+| バッテリータイプ | LFP | | 日 時 分 | Sohu Auto |
+| battery capacity 410 | 40.16 | ツイート ウィズ | 日 時 分 | Sohu Auto |
+| レンジ crtc | 310 410 | 祇園 祇園 | 日 時 分 | Sohu+腾讯 |
+| 貨物量 | 375 (前备厢 70、后排放倒 1320) | フリガナ | 日 時 分 | Sohumodel database |
+| プラットフォーム | ジーア battery-electric架构 | | 日 時 分 | Tencent News |
 ## 小さいEVの輸出論理:電池ライン、周期および船積み
 都市型EVは二つのモーターに一つの航続値を流用して誤記されがち/battery lines. Xingyuanでは、モータ(58または85 kW)と、各オーダーでマッチングバッテリーとCLTC範囲を組み合わせ、リストのテストサイクルに再ラベルCLTCではなく変換します。 リチウムイオン電池EVとして、船舶貨物は、電池駆動車(実車UN3556)の現物IMDG分類に従い、輸送ガイドを参照してください。 電池の製造者およびピークの充満力はOEMデータを保たせました。
-
 ## 支払の前に海外バイヤーの証明
 1. バッテリーとCLTC範囲のモータオプションを一致させます。 VINビルドラインを取得します。
 2. CLTC 310/410 km を仕向け地の走行サイクルの値に換算する。
 3. 充電コネクタ/プロトコル、AC/DC 機能(ピーク DC は こちら ではキャプチャされません) を確認します。
 4. EVの均質化、電池文書およびUN38.3/IMDGの船積みの製紙機を運送業者と確認して下さい。
 5. 輸出見積依頼、輸出価格の発行は行いません。
-
 ## よくある質問
-**Xingyuanは輸出「Starwish」と同じですか?** 市場全体で名前はOEMの声明を必要としています。このページは中国人格を維持しています。
-**充電能力がないのはなぜ?** 確かにソースはなく、推測ではなく、安心です。
-**細胞をつくるの?** OEM は確認されていません。 未定。
-**410 km WLTP?** なし — CLTC.
-**配送方法?** 現行のIMDGクラス(UN3556)の下の無傷リチウムイオン電池EVとして、キャリアで確認して下さい。
-
+Xingyuanは輸出「Starwish」と同じですか? 市場全体で名前はOEMの声明を必要としています。このページはChina人格を維持しています。
+充電能力がないのはなぜ? 確かにソースはなく、推測ではなく、安心です。
+細胞をつくるの? OEM は確認されていません。 未定。
+410 km WLTP? なし — CLTC.
+配送方法? 現行のIMDGクラス(UN3556)の下の無傷リチウムイオン電池EVとして、キャリアで確認して下さい。
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
-| 吉利星愿 配置库 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
-| 星愿 上市报道 | 腾讯新闻 | CN | media/industry | CROSS_CHECKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | primary | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+| 出典 | 機関 | 市場 | URL | 裏付けられた事実 |
+| --- | --- | --- | --- | --- |
+| Geely Xingyuan modelSpecifications | Sohu Auto | CN | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | Dimensions, Motor, Battery, Range |
+| Geely Xingyuan configuration库 | Sohu Auto model database | CN | http://db.auto.sohu.com/model_7477/config | Dimensions, Wheelbase, 储物 |
+| 星愿 market launch报道 | Tencent News | CN | http://news.qq.com/rain/a/20260329A04ZLQ00 | Rangeversion, 架构 |
+| Geely official global site | Geely Auto Group Geely (OEM) | CN | https://global.geely.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+
 ## 編集レビュー
-- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-05
-- **参考市場**:中国(中国市場参照仕様;グローバルスペックではない)
-- **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
-
-## 映像の記録
-- ** IMAGE_ASSET_PATH**: リポジトリで保護されていない
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: 該当なし — 特定候補のメディアファイル(アサートへのライセンスなし)
-- **RIGHTS_HOLDER**: unconfirmed
-- ライセンス_OR_USAGE_BASIS**: どれも安全ではありません。OEMページの存在下は商用再利用ライセンスではありません。
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: 正確な Geely Xingyuan
-- **イメージ_スコープ_ノテ**: 映像は、モデルファミリー/トピックのみにマッチしなければなりません。 特定のトリム、モデル年、実際のVIN、人目検査、または実際の取引を暗黙的に行わないでください。
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ブロック_REASON**: 再使用可能なイメージが確保できません。 Wikimedia Commons/Flickr は、研究環境から到達できないため、ストックライブラリは認証された API/licence アクセスを必要とし、OEM の Web ページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
-- **ALT (12 languages)**:
-  - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
-  - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
-  - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer
-  - **ES**: Geely Xingyuan, BEV hatchback del mercado chino, referencia para comprador de exportación
-  - **PT**: Geely Xingyuan, BEV hatchback do mercado chinês, referência ao comprador de exportação
-  - **JA**: Geely Xingyuan, 中国市場BEV hatchback・輸出バイヤー向けリファレンス
-  - **KO**: Geely Xingyuan, 중국 시장 BEV hatchback, 수출 바이어 참고 자료
-  - **VI**: Geely Xingyuan, BEV hatchback thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Geely Xingyuan, BEV hatchback ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Geely Xingyuan, BEV hatchback pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Geely Xingyuan, BEV hatchback السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Geely Xingyuan, 中国市场BEV hatchback·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #GeelyXingyuan #BEV
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-05
+- 参照市場: China
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

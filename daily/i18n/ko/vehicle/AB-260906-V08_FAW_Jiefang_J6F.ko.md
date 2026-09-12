@@ -1,92 +1,68 @@
 # 의 특징 Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
 ## SEO 메타데이터
-- **SEO 제목**: FAW  Jiefang J6F Light Truck Export Specs: 엔진, 포좌, 탑재량 가이드
-- **메타 설명**: FAW 중국 시장 참조 Jiefang J6F 택시 오버 블루 플레이트 라이트 트럭: N2 범주, Deutz 시리즈 디젤 옵션, 섀시 / 카고 바디, 균질화 문서 수출 구매자가 얻을 수 있어야합니다.
-- **H1**: FAW  Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
-- **주요 키워드**: FAW  Jiefang J6F light truck export specs
-- **보조 검색어**: Jiefang J6F 빛 트럭; J6F 파란 판 N2; CA4DB1 디젤 130; 트럭 수출에 FAW 택시; 중국 가벼운 화물 트럭
-- **추천 URL**: /vehicles/faw-jiefang-j6f/
-- **검색 의도**: FAW의 이해 Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
-- **내부 링크 제안**: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
-- **이미지 제안**: 야드에 상자 몸을 가진 백색 FAW Jiefang J6F 택시에 가벼운 화물 트럭
-- **ALT 텍스트**: 택시 이상 FAW Jiefang J6F의 가벼운 트럭은 화물 몸이 물류 야드에 주차
-- **스키마 범위**: 제+차량
-
+- SEO 제목: FAW Jiefang J6F Light Truck Export Specs: 엔진, 포좌, 탑재량 가이드
+- 메타 설명: FAW 중국 시장 참조 Jiefang J6F 택시 오버 블루 플레이트 라이트 트럭: N2 범주, Deutz 시리즈 디젤 옵션, 섀시 / 카고 바디, 균질화 문서 수출 구매자가 얻을 수 있어야합니다.
+- H1: FAW Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참조
+- 주요 키워드: FAW Jiefang J6F light truck export specs
+- 보조 검색어: Jiefang J6F 빛 트럭; J6F 파란 판 N2; CA4DB1 디젤 130; 트럭 수출에 FAW 택시; 중국 가벼운 화물 트럭
+- 추천 URL: /vehicles/faw-jiefang-j6f/
+- 검색 의도: FAW의 이해 Jiefang J6F: 중국 시장 블루 플레이트 라이트 트럭 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
+- 내부 링크 제안: /vehicles/saic-maxus-v80/, /vehicles/sinotruk-howo-tx-dump/, /guides/china-customs-supervision-method-0110-1039/
+- 이미지 제안: 야드에 상자 몸을 가진 백색 FAW Jiefang J6F 택시에 가벼운 화물 트럭
+- ALT 텍스트: 택시 이상 FAW Jiefang J6F의 가벼운 트럭은 화물 몸이 물류 야드에 주차
+- 스키마 범위: 제+차량
 Jiefang J6F는 중국 '파란 판'N2 세그먼트에서 FAW의 택시 오버 라이트 듀티 트럭입니다. 4.5 톤 이하의 차량 무게, 도시 분포의 작업자. 빛 트럭 수출 결정은 엔진, 변속기, 차축, GVW/payload, 포좌 및 화물 몸에, 이렇게 이 페이지는 여객 차 배치 보다는 오히려 상업 차량 논리를 따르는 것을 따릅니다. 정체성 (FAW Jiefang 모형 선, 택시 이상 N2 빛 트럭)는 OEM 설치됩니다; 상세한 질량은 균질화 종이를 요구합니다.
-
 ## 종류 및 구성
-
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 의 | N2 빛 화물 트럭, 파란 판 (4.5 t 종류의 밑에 GVW), 택시에 (평면) 택시 | 중국 · OEM 정체성 | CROSS_체크 |
-| 표본 엔진 | Deutz 시리즈 CA4DB1-13E6, 2.2 L 디젤, 95 kW (130 PS) / 350 N·m, 중국 - 6b | 중국 · 단일 소스 샘플, 확인 | single source(싱글) |
-| 일반 화물 몸 | 4.2 m 길이의 일반적인 스테이크 / 박스 본체 | CHINA · 단일 소스, 빌드에 의해 확인 | single source(싱글) |
-
+| 표본 엔진 | Deutz 시리즈 CA4DB1-13E6, 2.2 L 디젤, 95 kW (130 PS) / 350 N·m, 중국 - 6b | 중국 · 단일 소스 샘플, 확인 | 단일 출처(싱글) |
+| 일반 화물 몸 | 4.2 m 길이의 일반적인 스테이크 / 박스 본체 | CHINA · 단일 소스, 빌드에 의해 확인 | 단일 출처(싱글) |
 J6F은 모델 배치에 따라 여러 엔진으로 제공됩니다. CA4DB1 수치는 전체 엔진 매트릭스가 아닌 대표 샘플입니다. 구매자는 모든 J6F 사용 하지 않아야한다 엔진; 정확한 파워 트레인은 섀시 VIN에 대 한 균질 인증서에서 읽는다.
-
 ## 엔진, 기어 박스, 차축: 상용 차량 코어
-
-- ** 엔진 **: 출력을 확인 산출, 배출 단계 (중국 6 / 6b)  and  대상의 연료 유출  and  배출 호환성.
-- ** 기어 박스 **: 전형적으로 수동 변속기를 사용합니다. 기어 카운트와 부하 / 루트의 비율을 확인합니다.
-- **Axle & Final drive**: laden 작업과 지형에 대한 후방 액면 비율을 확인합니다.
-- **Chassis**: 택시 오버 레이아웃은 소형 발자국 내에서 화물 길이를 확대합니다. 4.2 m급 몸에 대한 휠베이스를 확인하십시오.
-
+- 엔진 : 출력을 확인 산출, 배출 단계 (중국 6 / 6b) and 대상의 연료 유출 and 배출 호환성.
+- 기어 박스 : 전형적으로 수동 변속기를 사용합니다. 기어 카운트와 부하 / 루트의 비율을 확인합니다.
+- Axle & Final drive: laden 작업과 지형에 대한 후방 액면 비율을 확인합니다.
+- Chassis: 택시 오버 레이아웃은 소형 발자국 내에서 화물 길이를 확대합니다. 4.2 m급 몸에 대한 휠베이스를 확인하십시오.
 ## Payload 및 GVW는 발표에서 옵니다.
-
 > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > 정격 탑재량, kerb 질량 및 정확한 GVW는 고정 값으로 여기에서 명시되지 않습니다: 그들은 포좌, 택시 및 upfit과 다를 수 있으며 MIIT 발표 / 적합성 인증서가 필요합니다. 초침 플랫폼 탑재 리드는 비난 및 제외로 처리되었습니다. 작업 트럭에 대한 이러한 수치 — 브로셔가 아닌 — 법적인 적재를 결정합니다.
-
 ## 포좌에 superstructure 분야
-
 많은 J6F 수출은 섀시 플러스 로컬 내장 바디 (상자, 지분, 냉장, 유조선). 두 가지 승인을 분리하십시오. OEM 섀시 균질화 및 보디빌딩용 기구의 superstructure 수락, 목적지에서 둘 다. Mis matching 포좌 GVW와 몸 무게는 일반적인 이유 가벼운 트럭은 등록 또는 하중 초과를 실패합니다.
-
 ## 수출 및 선금 검사 목록
-
 1. 정확한 포좌 발표 기록을 얻으십시오: 엔진 모형/출력, GVW, kerb 질량, 정격 탑재량, 축거.
 2. 화물 몸 길이와 유형의 포좌 및 목적지 차원/사일 규칙 일치하십시오.
 3. 배출 단계와 디젤 품질 허용 오차 확인; 엔진에 대한 계획 예비 실제로 장착.
 4. 중국 시장은 LHD입니다; 조타 및 어떤 수출 구경측정 필요 분리되는 OEM 증거.
 5. 부유 한 단위를 위해, 문서 포좌 및 superstructure 따릅니다.
 6. 계약, CoC, 송장 및 배송 서류를 통해 VIN / Carssis 번호를 재구성합니다.
-
 ## 견적 요청
-
 FOB/CIF 그림 없음은 견적됩니다. 현재 수출 인용 naming 목적지, 수량, 섀시 구성, 바디 타입, 스티어링, 포트 및 Incoterm을 요청하고, 섀시에서 별도의 upfit을 제공합니다.
-
 ## 의논하기
-** 어떤 클래스는 Jiefang J6F ? **
-
+ 어떤 클래스는 Jiefang J6F ?
 N2의 파란색 판 빛 트럭을 도시 배급을 위해 사용되는 4.5-tonne GVW 클래스.
-
-** 어떤 엔진이 사용합니까? 의 모든 것**
-
+ 어떤 엔진이 사용합니까? 의 모든 것
 2.2 L CA4DB1-13E6 디젤을 95 kW / 350 N·m (중국 6b)에 사용하고 있지만 여러 엔진이 제공되지만 섀시로 정확한 것을 확인합니다.
-
-**화물 몸은 얼마입니까? 의 모든 것**
-
+화물 몸은 얼마입니까? 의 모든 것
 일반적인 말뚝/상자 몸은 약 4.2 m입니다; 선택된 포좌 및 upfit를 위해 확인하십시오.
-
-** 그것의 탑재량은 무엇입니까? 의 모든 것**
-
+ 그것의 탑재량은 무엇입니까? 의 모든 것
 Payload와 GVW는 여기에 고정되지 않습니다. MIIT 발표 / 특정 섀시에 대한 COC에서 그들을 얻을.
-
-** 섀시는 해외 현지 몸과 함께 장착 할 수 있습니까? 의 모든 것**
-
-예, 그러나 OEM 포좌 균질화를 지킵니다  and  두 개의 별도의 승인으로 지역 상부 준수.
-
+ 섀시는 해외 현지 몸과 함께 장착 할 수 있습니까? 의 모든 것
+예, 그러나 OEM 포좌 균질화를 지킵니다 and 두 개의 별도의 승인으로 지역 상부 준수.
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7378317194271228979/ | 发动机, 货箱, 蓝牌  |
-| J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7232073050331959843/ | 备选发动机, 国六  |
-| 一汽解放官网J6F车型页（车型官方身份与产品系列） | 一汽解放官网 | CHINA | primary | VERIFIED | https://www.fawjiefang.com.cn/ | 车型官方身份  |
-| J6F二手/在售配置样本（额定载重区间线索，directory/listing） | 58同城 | CHINA | directory/listing | UNVERIFIED | https://cq.58.com/ershouche/74516022980226x.shtml | 载质量线索  |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify N2 GVW/engine/payload by exact announcement |
-| 卡车之家 解放J6F 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — commercial-vehicle database cross-check; payload still per announcement |
-| FAW Trucks global (export) | FAW Jiefang | EXPORT | primary | CROSS_CHECKED | https://www.fawtrucks.com/ | identity — export-market reference; do not equate to China J6F |
+| 출처 | 기관 | 시장 | URL | 뒷받침되는 사실 |
+| --- | --- | --- | --- | --- |
+| JiefangJ6F(大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m, 4.2mcargo bed, 蓝牌) | Truck Home official | CHINA | http://m.toutiao.com/group/7378317194271228979/ | engine, cargo bed, 蓝牌 |
+| J6FWeichaiWP2.3N 130PsChina-6configuration(Truck Home mirror) | Truck Home official | CHINA | http://m.toutiao.com/group/7232073050331959843/ | 备选engine, China-6 |
+| FAW Jiefangofficial websiteJ6Fmodel页(official model identityand产品系列) | FAW Jiefangofficial website | CHINA | https://www.fawjiefang.com.cn/ | official model identity |
+| J6Fused-/在售configuration样本(额定载重区间lead, directory/listing) | 58same-city | CHINA | https://cq.58.com/ershouche/74516022980226x.shtml | 사양 및 적용 범위 참고 |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify N2 GVW/engine/payload by exact announcement |
+| 360che (Truck Home) JiefangJ6F modeldatabase (independent commercial-vehicle database) | Truck Home | CN | http://www.360che.com/ | vehicle database cross-check; payload still per announcement |
+| FAW Trucks global (export) | FAW Jiefang | EXPORT | https://www.fawtrucks.com/ | market reference; do not equate to China J6F |
 
 ## 편집 리뷰
-- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-06
-- **참고 시장 **: 중국 (N2 蓝牌轻卡; 额定载质量/总质量/全动力矩阵须公告, 二手平台线索不入正文确定值)
-- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.
-- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.
+- 저자: AutoBridge Export Editorial Team · [authors](/authors/) · [편집 정책](/editorial-policy/)
+- 최종 검토일: 2026-09-06
+- 참고 시장: 중국
+- 검증 방법: 확정된 규칙은 규제기관과 정부의 1차 자료에 기반하며, 매체 간 모순되는 수치는 단정하지 않고 확인 항목으로 남기고, 시간에 민감한 사항은 해당 기관의 최신 확인을 안내합니다.
+- 편집 기준: 위에 나열된 출처를 바탕으로 조사·작성했습니다(데스크 리서치; 직접 시운전·분해·수입을 주장하지 않음). 독립적으로 확인할 수 없는 사항은 사실로 단정하지 않고 확인 항목으로 제시합니다.
+- 투명성: 작성과 번역에 AI 지원을 사용했습니다. 본문은 데스크 리서치에 기반합니다. 명시적으로 기록된 경우를 제외하고 1차 테스트를 주장하지 않으며, 최종 인간 편집 검토는 아직 진행 중입니다.

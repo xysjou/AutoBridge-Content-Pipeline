@@ -1,0 +1,319 @@
+{
+ "date": "2026-09-07",
+ "articles": 20,
+ "locales": 240,
+ "article_ids": [
+  "AB-260907-G01_IPR_Customs_Recordation_Export_Protection",
+  "AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026",
+  "AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810",
+  "AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance",
+  "AB-260907-G05_China_Europe_Railway_Express_Fast_Customs_Transit",
+  "AB-260907-G06_Export_Returned_Goods_Duty_Exemption",
+  "AB-260907-G07_Comprehensive_Bonded_Zone_VAT_Refund",
+  "AB-260907-G08_Tanzania_Vehicle_Import_TRA_TBS_PVoC_Age",
+  "AB-260907-G09_Force_Majeure_Certificate_CCPIT_CIETAC",
+  "AB-260907-G10_China_E_Port_Enrollment_IC_Card",
+  "AB-260907-V01_Jetour_Dashing",
+  "AB-260907-V02_Dongfeng_Aeolus_Yixuan",
+  "AB-260907-V03_SAIC_MAXUS_G90",
+  "AB-260907-V04_XPeng_MONA_M03",
+  "AB-260907-V05_Deepal_S05",
+  "AB-260907-V06_Changan_Kaicene_F70",
+  "AB-260907-V07_JMC_Ford_Transit_T8",
+  "AB-260907-V08_Qingling_Isuzu_KV100",
+  "AB-260907-V09_FAW_Jiefang_J7_Tractor",
+  "AB-260907-V10_Zoomlion_ZTC250H_Truck_Crane"
+ ],
+ "source_scope": {
+  "PASS": 4,
+  "CONDITIONAL": 16,
+  "FAIL": 0
+ },
+ "articles_detail": {
+  "AB-260907-G01_IPR_Customs_Recordation_Export_Protection": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "ko",
+    "th",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G05_China_Europe_Railway_Express_Fast_Customs_Transit": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G06_Export_Returned_Goods_Duty_Exemption": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "vi",
+    "id",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G07_Comprehensive_Bonded_Zone_VAT_Refund": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G08_Tanzania_Vehicle_Import_TRA_TBS_PVoC_Age": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G09_Force_Majeure_Certificate_CCPIT_CIETAC": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-G10_China_E_Port_Enrollment_IC_Card": {
+   "source_scope": "PASS",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V01_Jetour_Dashing": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ko",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V02_Dongfeng_Aeolus_Yixuan": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "ko",
+    "th",
+    "id",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V03_SAIC_MAXUS_G90": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V04_XPeng_MONA_M03": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "vi",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V05_Deepal_S05": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "ja",
+    "ko",
+    "vi",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V06_Changan_Kaicene_F70": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V07_JMC_Ford_Transit_T8": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "pt",
+    "ja",
+    "ko",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V08_Qingling_Isuzu_KV100": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "id",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V09_FAW_Jiefang_J7_Tractor": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "th",
+    "id",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  },
+  "AB-260907-V10_Zoomlion_ZTC250H_Truck_Crane": {
+   "source_scope": "CONDITIONAL",
+   "locale_count": 12,
+   "semantic_fail_locales": [
+    "de",
+    "ja",
+    "ar",
+    "zh"
+   ],
+   "internal_leak": 0,
+   "number_break": 0
+  }
+ },
+ "semantic_fail_locales": 92,
+ "semantic_fail_by_lang": {
+  "ja": 19,
+  "ar": 13,
+  "zh": 20,
+  "de": 6,
+  "ko": 11,
+  "th": 8,
+  "vi": 6,
+  "id": 4,
+  "pt": 5
+ },
+ "internal_leak": 0,
+ "number_break": 0,
+ "image_rights_pass": 0,
+ "image_not_applicable_no_public_image": 20,
+ "same_locale_internal_link_fail": 0,
+ "similarity_max_by_lang": {
+  "en": 0.0556,
+  "fr": 0.0733,
+  "de": 0.0641,
+  "es": 0.0685,
+  "pt": 0.074,
+  "ja": 0.1042,
+  "ko": 0.0641,
+  "vi": 0.0634,
+  "th": 0.0553,
+  "id": 0.1629,
+  "ar": 0.1161,
+  "zh": 0.105
+ },
+ "manifest_path": "daily/2026-09-07/qa/FINAL_MANIFEST_2026-09-07.json",
+ "manifest_sha256": "26c7dd5db6a6c90cd0b6f60e49280cea7deea1287df9ef9240f8bc916733e610"
+}

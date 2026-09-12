@@ -1,93 +1,69 @@
-# Roewe iMAX8: 中国市場セブンシートMPV 輸出入バイヤーの参照
+# Roewe iMAX8: China市場セブンシートMPV 輸出入バイヤーの参照
 ## SEOメタデータ
-- **SEOタイトル**: Roewe iMAX8 MPV 輸出仕様: 座席、寸法、2.0T バイヤーガイド
-- **メタディスクリプション**: Roewe iMAX8 7-seat MPVの中国市場参照:2+2+3座席およびスペース、次元、モデル年によって独立した2.0T口径測定は分け、および輸出確認のステップを保たれました。
-- **H1**: Roewe iMAX8: 中国市場セブンシート MPV 輸出入バイヤーの参照
-- **主要キーワード**: Roewe iMAX8 輸出仕様
-- **関連検索語**: Roewe iMAX8 MPV;iMAX8 7座席2+2+3;iMAX8次元のホイールベース;SAIC MPVの輸出;iMAX8 2.0Tのアイシン8AT
-- **推奨URL**: /vehicles/roewe-imax8/
-- **検索意図**: ルーウィを理解する iMAX8: 中国の市場セブンシートMPV 輸出のためのバイヤーの参照: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
-- **内部リンク候補**: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
-- **画像候補**: ホイールベースと後ドアをスライドさせる、Roewe iMAX8 MPVのサイドビュー
-- **ALTテキスト**: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors  and  ロングホイールベース
-- **スキーマ範囲**: Article + Vehicle
-
-The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door, セブンシート(2+2+3) 正面ホイールドライブ MPV ご家族向け  and  役員のシャトルの使用。 輸出のため、 座席にMPVが購入  and  スペース ファースト  and  its horsepower second, そこで、このページはキャビンアーキテクチャーでリードしています。 ** petrol iMAX8 のみ** をカバーします。 どのハイブリッドか電気iMAX8の変形も異なったプロダクトであり、意図的に混合されません。
-
+- SEOタイトル: Roewe iMAX8 MPV 輸出仕様: 座席、寸法、2.0T バイヤーガイド
+- メタディスクリプション: Roewe iMAX8 7-seat MPVのChina市場参照:2+2+3座席およびスペース、次元、モデル年によって独立した2.0T口径測定は分け、および輸出確認のステップを保たれました。
+- H1: Roewe iMAX8: China市場セブンシート MPV 輸出入バイヤーの参照
+- 主要キーワード: Roewe iMAX8 輸出仕様
+- 関連検索語: Roewe iMAX8 MPV;iMAX8 7座席2+2+3;iMAX8次元のホイールベース;SAIC MPVの輸出;iMAX8 2.0Tのアイシン8AT
+- 推奨URL: /vehicles/roewe-imax8/
+- 検索意図: ルーウィを理解する iMAX8: Chinaの市場セブンシートMPV 輸出のためのバイヤーの参照: 車両/部品輸出業者が、注文をコミットする前に、検証、文書化、決定しなければならないもの。
+- 内部リンク候補: /vehicles/saic-maxus-v80/, /vehicles/saic-maxus-t90/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/
+- 画像候補: ホイールベースと後ドアをスライドさせる、Roewe iMAX8 MPVのサイドビュー
+- ALTテキスト: Side view of a Roewe iMAX8 seven-seat MPV showing sliding doors and ロングホイールベース
+- スキーマ範囲: Article + Vehicle
+The Roewe iMAX8 is SAIC's mid/large people-carrier — a five-door, セブンシート(2+2+3) 正面ホイールドライブ MPV ご家族向け and 役員のシャトルの使用。 輸出のため、 座席にMPVが購入 and スペース ファースト and its horsepower second, そこで、このページはキャビンアーキテクチャーでリードしています。 petrol iMAX8 のみ をカバーします。 どのハイブリッドか電気iMAX8の変形も異なったプロダクトであり、意図的に混合されません。
 ## 建築・寸法の座席(MPV決定)
-
-| アイテム | 中国の市場参照値 | 市場/MY/トリム | 自信の秘境 |
-|---|---|---|---|
-| シート | 7席、  2+2+3 layout (two captain chairs in row two) | 中国・単元・トリムで確認 | シングル_ソース |
-| 外部寸法 | 5016×1909×1782 mm(ソースリスト1788 mm高さ) | 中国・交差チェック・マイナーソースの分散 | CROSS_CHECKED(クロス) |
-| ホイールベース | 3000 mm | 中国・交差チェック | CROSS_CHECKED(クロス) |
-| ボディ/ドライブ | 5-door ミッド ビッグ MPV, FWD | 日 時 分 | CROSS_CHECKED(クロス) |
-
+| アイテム | Chinaの市場参照値 | 市場/MY/トリム |
+| --- | --- | --- |
+| シート | 7席、 2+2+3 layout (two captain chairs in row two) | China・単元・トリムで確認 |
+| 外部寸法 | 5016×1909×1782 mm(ソースリスト1788 mm高さ) | China・交差チェック・マイナーソースの分散 |
+| ホイールベース | 3000 mm | China・交差チェック |
+| ボディ/ドライブ | 5-door ミッド ビッグ MPV, FWD | 日 時 分 |
 3000 mmのホイールベースと2+2+3のアレンジは、空港/ホテルのシャトルまたは大型家族車両としてiMAX8の有用なものです。 第三列と独立したミドルローシートへのアクセスを通る。 買い手は、ターゲットトリムがキャプテンチェアやベンチを使用しているかどうか、リアキャビンには、MPV機器がSKUによって材料的に異なるので、レール/コンソール機能が含まれているかどうかを確認する必要があります。
-
 ## パワートレイン: one engine family, 複数の年の口径測定
-
-ガソリンiMAX8は、アイシン8-speed自動で組み合わせた2.0-litreターボ(20A4E家族)を使用しています。 Independent sources quote different outputs for different model years — roughly 172 kW / 360 N·m in one calibration  and  別の231 PS / 370 N·m。 これらは、*モデル年キャリブレーションの差異ではなく、矛盾**であり、記事は単一の「真」の数字を選択していません。 正しい動作は、OEM/CoCシートの正確なモデル年SKUに出力を結合することです。**
-
+ガソリンiMAX8は、アイシン8-speed自動で組み合わせた2.0-litreターボ(20A4E家族)を使用しています。 Independent sources quote different outputs for different model years — roughly 172 kW / 360 N·m in one calibration and 別の231 PS / 370 N·m。 これらは、*モデル年キャリブレーションの差異ではなく、矛盾であり、記事は単一の「真」の数字を選択していません。 正しい動作は、OEM/CoCシートの正確なモデル年SKUに出力を結合することです。
 ## MPVバイヤーが電力を超えて確認すべきこと
-
-- 座席数  and  second-row type (captain chairs vs bench) for the precise trim;
+- 座席数 and second-row type (captain chairs vs bench) for the precise trim;
 - スライドドア構成および気候の地帯;
 - 目的地の道路条件のための懸濁液のチューンと乗車高さ;
 - インテリア素材とカフール/フリートプレゼンテーションのためのインフォテメンション言語。
-- スペアホイール  と3列目後方の荷室スペース, 空港送迎業務に重要な事項
-
+- スペアホイール と3列目後方の荷室スペース, 空港送迎業務に重要な事項
 ## 品種のスコープの規準
-
 このページは、他のモデル年に存在するガソリンiMAX8.ハイブリッドおよび純電気iMAX8誘導体に限定されています。さまざまな電池、重量、サービス要件を運ぶため、自分のページで文書化する必要があります。 よくある質問 RoeweはSAICの国内ブランドです。MG-badgedまたは他の市場MPVは、明示的なOEMの証拠なしで同一と仮定されていません。
-
-## 中国語は国内のみ
-
-中国のガイド価格は輸出引用語句ではなく、時間に敏感な国内参照です;それをFOB/CIFに変えないで下さい。 輸出引用の命名先、数量、トリム、ステアリング、インコタームを要求します。
-
+## China語は国内のみ
+Chinaのガイド価格は輸出引用語句ではなく、時間に敏感な国内参照です;それをFOB/CIFに変えないで下さい。 輸出引用の命名先、数量、トリム、ステアリング、インコタームを要求します。
 ## 輸出入前払いチェックリスト
-
 1. 年モデルを修正し、2.0T出力を書いているSKUにバインドします。
 2. 実際のビルドの2+2+3シート構成とドアタイプを確認します。
-3. 中国の市場はLHDです。 RHD iMAX8は、これらのソースに確立されていません。 RHD市場は、別の証拠を必要としています。
+3. Chinaの市場はLHDです。 RHD iMAX8は、これらのソースに確立されていません。 RHD市場は、別の証拠を必要としています。
 4. 寸法、排出段階、座席容量のMIIT/CoCデータを引きます。
-5. 目的地の燃料/排出規則に対する中国- 6 校正をチェックしてください。
+5. 目的地の燃料/排出規則に対するChina-6 校正をチェックしてください。
 6. 取引文書と配送文書を全て取引し、残高決済前にマッチする。
-
 ## よくある質問
-**Roewe iMAX8の座席はいくつありますか? ふりがな ふりがな**
-
-参照される中国モデルは以下の7人乗りである 2+2+3 layout with two second-row captain chairs; 正確なトリムを確認します。
-
-**ホイールベースはどのくらいの期間ですか? ふりがな ふりがな**
-
+Roewe iMAX8の座席はいくつありますか? ふりがな ふりがな
+参照されるChinaモデルは以下の7人乗りである 2+2+3 layout with two second-row captain chairs; 正確なトリムを確認します。
+ホイールベースはどのくらいの期間ですか? ふりがな ふりがな
 3000 mmの 5016×1909×1782 mm(片口径が若干異なる)の外形寸法で。
-
-**エンジンとギアボックスとは何ですか? アパート**
-
+エンジンとギアボックスとは何ですか? アパート
 Aisin 8AT と 2.0T ガソリン (20A4E 家族); 引用された力はモデル年によって異なり、SKU に縛らなければなりません。
-
-**このページはハイブリッド/電気iMAX8をカバーしますか?**
-
+このページはハイブリッド/電気iMAX8をカバーしますか?
 いいえ — ガソリン版のみ; 選択された派生物は別製品です。
-
-**ドライブ版は使えますか? ふりがな ふりがな**
-
-RHDバージョンは、ここで使用されている中国市場ソースによって証明されていません。
-
+ドライブ版は使えますか? ふりがな ふりがな
+RHDバージョンは、ここで使用されているChina市場ソースによって証明されていません。
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准） | 荣威汽车官网 | CHINA | primary | VERIFIED | https://www.roewe.com.cn/vehicles/roeweimax8 | 车型官方身份  |
-| iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m） | 太平洋汽车百科（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/6875034359055630343/ | 尺寸, 动力, 8AT  |
-| iMAX8尺寸/座位（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | media/industry | single source | https://car.58.com/x/4112/ | 尺寸, 座位  |
-| iMAX8 20A4E发动机（234Ps）与配置 | 太平洋汽车百科 | CHINA | media/industry | single source | http://m.pcauto.com.cn/baike/1014144/1990509/ | 发动机型号  |
-| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | primary | VERIFIED | https://www.saicmotor.com/e/ | identity — OEM parent corporate; Roewe is SAIC brand |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant and seat count by announcement |
+| 出典 | 機関 | 市場 | URL | 裏付けられた事実 |
+| --- | --- | --- | --- | --- |
+| 荣威iMAX8officialmodel page（official model identity；official website动态渲染Dimensions未取到，Dimensions以数据库为准） | 荣威汽车official website | CHINA | https://www.roewe.com.cn/vehicles/roeweimax8 | official model identity |
+| iMAX8Specifications（5016×1909×1782、Wheelbase3000、2.0T、爱信8AT、39.2%thermal efficiency、231Ps/370N·m） | PCauto Encyclopedia | CHINA | http://m.toutiao.com/group/6875034359055630343/ | Dimensions, Powertrain, 8AT |
+| iMAX8Dimensions/Seats（5016×1909×1788，WB3000，7座） | 58汽车 | CHINA | https://car.58.com/x/4112/ | Dimensions, Seats |
+| iMAX8 20A4EEngine（234Ps）与configuration | PCauto Encyclopedia | CHINA | http://m.pcauto.com.cn/baike/1014144/1990509/ | Engine型号 |
+| SAIC Motor official (Roewe brand owner) | SAIC Motor | CN | https://www.saicmotor.com/e/ | OEM parent corporate; Roewe is SAIC brand |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue（Search portal） | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify homologated China variant and seat count by announcement |
 
 ## 編集レビュー
-- **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-06
-- **参考市場**:中国(本篇锁燃油版;混动/纯电 iMAX8 不混入;动力年款标定分列)
-- **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 タイム感度項目(レート、手数料、リスト、トリムラインアップ、国内参考価格)は、トランスフォーメーション前に公式の現在のページで再確認する必要があります。
-- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。
+- 著者: AutoBridge Export Editorial Team · [authors](/authors/) · [編集方針](/editorial-policy/)
+- 最終確認日: 2026-09-06
+- 参照市場: China
+- 検証方法: 定められたルールは規制当局・政府の一次資料に基づき、メディア間で矛盾する数値は断定せず確認項目として残し、時間に敏感な事項は所管当局での最新確認を案内する。
+- 編集基準: 上記の出典に基づき調査・執筆（デスクリサーチ。実車走行・分解・輸入の一次体験は主張しない）。独立して確認できない点は、事実として断定せず確認項目として示す。
+- 透明性: 執筆と翻訳にAI支援を使用。本稿はデスクリサーチに基づく。明示的な記録がある場合を除き一次試験は主張せず、最終的な人間による編集レビューは未完了。

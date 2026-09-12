@@ -1,17 +1,16 @@
 # ข้อจํากัดการนําเข้าอายุของรถใช้ของแอฟริกา: โครงสร้างการรับรองการจําหน่ายแบบประเทศต่อประเทศ
 ## ข้อมูลเมตา SEO
-- **ชื่อ SEO**: อัตราการนําเข้าอายุของรถใช้ได้ในแอฟริกา โดยประเทศ: เคนยา & ไนจีเรีย การตรวจสอบสิทธิ์
-- **คำอธิบาย Meta**: ประเทศชนบท-ชนบท-แอฟริกาใช้จํากัดอายุรถ, แผงล้อรถ และประตูตรวจสอบ — เคนยา (8 ปีจากทะเบียนครั้งแรก) และไนจีเรีย (15 จากการผลิต) ปัจจุบันยึดกับแหล่งหลักตลาดอื่น ๆ ที่ติดตามการตรวจสอบอย่างเป็นทางการ
-- **H1**: จํากัด อายุ โดย ใช้ รถยนต์ ข้าม ตลาด แอฟริกา: เมทริกซ์ ที่ สร้าง ขึ้น เพื่อ ให้ เป็น ที่ น่า นับถือ ไม่ ใช่ เป็น ที่ ระลึก
-- **คีย์เวิร์ดหลัก**: อัฟริกาใช้อายุนําเข้ารถจํากัดโดยเมทริกซ์ประเทศ
-- **คำค้นหารอง**: เคนยาใช้รถที่อายุจํากัด 8 ปี จดทะเบียนครั้งแรก รถคันไนจีเรียนําเข้าสินค้า 15 ปี เอธิโอเปียใช้แบนรถ, กานา OBDนําเข้า โมแซมบิกอายุรถ จํากัดอายุรถซูดาน จํากัด จํากัด ซีซี CAMODC, KEBS DKS 1515
-- **URL ที่แนะนำ**: /guides/africa-used-car-import-age-limits/
-- **เจตนาการค้นหา**: เข้าใจข้อจํากัดของรถที่ใช้ไปทั่วตลาดแอฟริกา: เมทริกซ์ที่สร้างเพื่อตรวจสอบ ไม่ใช้ mimeorize: สิ่งที่ผู้ส่งออก/พาร์ทเมนท์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
-- **คำแนะนำลิงก์ภายใน**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
-- **คำแนะนำรูปภาพ**: ตารางเมตริกซ์แบบชนบท
-- **ข้อความ ALT**: อัตราการขับรถของแอฟริกา
-- **ขอบเขต Schema**: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
-
+- ชื่อ SEO: อัตราการนําเข้าอายุของรถใช้ได้ในแอฟริกา โดยประเทศ: เคนยา & ไนจีเรีย การตรวจสอบสิทธิ์
+- คำอธิบาย Meta: ประเทศชนบท-ชนบท-แอฟริกาใช้จํากัดอายุรถ, แผงล้อรถ และประตูตรวจสอบ — เคนยา (8 ปีจากทะเบียนครั้งแรก) และไนจีเรีย (15 จากการผลิต) ปัจจุบันยึดกับแหล่งหลักตลาดอื่น ๆ ที่ติดตามการตรวจสอบอย่างเป็นทางการ
+- H1: จํากัด อายุ โดย ใช้ รถยนต์ ข้าม ตลาด แอฟริกา: เมทริกซ์ ที่ สร้าง ขึ้น เพื่อ ให้ เป็น ที่ น่า นับถือ ไม่ ใช่ เป็น ที่ ระลึก
+- คีย์เวิร์ดหลัก: อัฟริกาใช้อายุนําเข้ารถจํากัดโดยเมทริกซ์ประเทศ
+- คำค้นหารอง: เคนยาใช้รถที่อายุจํากัด 8 ปี จดทะเบียนครั้งแรก รถคันไนจีเรียนําเข้าสินค้า 15 ปี เอธิโอเปียใช้แบนรถ, กานา OBDนําเข้า โมแซมบิกอายุรถ จํากัดอายุรถซูดาน จํากัด จํากัด ซีซี CAMODC, KEBS DKS 1515
+- URL ที่แนะนำ: /guides/africa-used-car-import-age-limits/
+- เจตนาการค้นหา: เข้าใจข้อจํากัดของรถที่ใช้ไปทั่วตลาดแอฟริกา: เมทริกซ์ที่สร้างเพื่อตรวจสอบ ไม่ใช้ mimeorize: สิ่งที่ผู้ส่งออก/พาร์ทเมนท์ต้องตรวจสอบ เอกสารและตัดสินใจก่อนที่จะมีการสั่งซื้อ
+- คำแนะนำลิงก์ภายใน: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- คำแนะนำรูปภาพ: ตารางเมตริกซ์แบบชนบท
+- ข้อความ ALT: อัตราการขับรถของแอฟริกา
+- ขอบเขต Schema: บทความ (ไม่มี Prouct/Offer/Price/Review/Ring)
 ## เชิญ อ่าน การ เก็บ รักษา หลัก ฐาน ก่อน โต๊ะ
 การเปลี่ยนแปลงขีดจํากัดอายุ ถูกดําเนินการแตกต่างกันไป โดยท่าเรือ และมักจะมีการอ้างอิงผิดพลาด หน้านี้แยกออกสองชิ้น ~Kenaya และไนจีเรียตอนนี้ถูกยึดไว้กับปลายทางหลัก~ (โดยยึดแหล่งข้อมูลหลักของแต่ละประเทศ) และอายุของพวกเขาจะถูกระบุว่าอยู่ด้านล่าง ~และอีกแถวคันทรี่อื่น ๆ ยังคงมีมูลค่าที่รายงานจาก ~และถูกหมายหัวว่าเป็นหลักฐานการตรวจสอบอย่างเป็นทางการ — มันไม่ได้ระบุไว้อย่างเป็นข้อเท็จจริงที่ตกลงไว้ ไม่มีกฏเกณฑ์เฉพาะส่วน "แอฟริกา": แต่ละประเทศกําหนดอายุของตนเอง กฎพวงมาลัย และการตรวจสอบประตู และพาดหัว "X ปี" โดยไม่มีพื้นฐานนั้นไม่ปลอดภัย
 ## อย่างแรก: รู้กันว่า "เอจ" ตัวไหนกําลังถูกวัด
@@ -22,77 +21,52 @@
 - "ความแตกต่างของเวเนซี่-คลาส" — รถผู้โดยสาร มักมีข้อจํากัดต่างกัน (รหัสของเคนย่าแยกแยกสินค้าและพาหนะพิเศษ)
 ## เมทริกซ์ชนบท
 | ประเทศ | การเยื้อง | กฎอายุ | พื้น ฐาน ความ มั่น ใจ |
-|---|---|---|---|
-| ~เคเนยา~ | RHD (ยกเว้นสําหรับรถพิเศษ) | ~กว่า 8 ปีจากปีลงทะเบียนแรก= * ไม่อนุญาตให้นําเข้า (รถราง) ~ ช่องว่างระหว่างปีแรกและปีการผลิต เป็นที่ครอบคลุมในเวลาหนึ่งปี | [การดําเนินงาน ] KEBS DKS 1515: 2025 § 4.7.1–4.7.2 (พ.ศ.  corroborated by KRA (Legal Notice 78/2005; KS 1515). |
+| --- | --- | --- | --- |
+| ~เคเนยา~ | RHD (ยกเว้นสําหรับรถพิเศษ) | ~กว่า 8 ปีจากปีลงทะเบียนแรก= * ไม่อนุญาตให้นําเข้า (รถราง) ~ ช่องว่างระหว่างปีแรกและปีการผลิต เป็นที่ครอบคลุมในเวลาหนึ่งปี | [การดําเนินงาน ] KEBS DKS 1515: 2025 § 4.7.1–4.7.2 (พ.ศ. corroborated by KRA (Legal Notice 78/2005; KS 1515). |
 | ~นิเกอเรีย~ | ยืนยันการสั่งงานศุลกากรในปัจจุบันก่อนจะอ้างถึง (การเรียกดูพวงมาลัยอย่างเป็นทางการ ควรตรวจสอบโดยตรง; อย่าสันนิษฐาน) | ~ มอเตอร์ใช้มามากกว่า 15 ปี (จากปีการผลิต) ถูกแบนจากการนําเข้า ~; เครือข่ายการนําเข้าของ NAC levy ประยุกต์ใช้ | ) เบื้องต้น: ไนจีเรียซิงเกิล Windows Trade Portal; ได้รับการยืนยันโดย ศุลกากรไนจีเรีย รายการนําเข้าที่ห้ามนําเข้า การส่งคําที่เหลือเพื่อยืนยันโดยตรง |
 | ~ตาฮิปเปีย~ | - | รายงานเมื่อ 5 ปี มีรายงานการโอนถ่าย ครอบคลุมเส้นทางขนส่งฟอสซิล | เวลา_กลาง ไม่เป็นเอกฉันท์ — ตรวจสอบ |
-| ~~~~~~~~ | - | รายงานเมื่อ 10 ปี; บังคับใช้ ** OBD-IIIII* การตรวจสอบและปล่อยก๊าซยูโร- 3-or-above รายงานจาก 2023 | เวลา_กลาง ไม่เป็นเอกฉันท์ — ตรวจสอบมาตรฐานปัจจุบัน |
+| ~~~~~~~~ | - | รายงานเมื่อ 10 ปี; บังคับใช้ OBD-IIIII* การตรวจสอบและปล่อยก๊าซยูโร- 3-or-above รายงานจาก 2023 | เวลา_กลาง ไม่เป็นเอกฉันท์ — ตรวจสอบมาตรฐานปัจจุบัน |
 | ~โมซัมบิก~ * | - | รายงานเมื่อ 8 ปีจากลงทะเบียนถึงส่งออก ห่วงโซ่รักษาการบํารุงรักษาดั้งเดิมรายงาน | การ ส่งเสียง กระซิบ ไม่ ใช่ เรื่อง สําคัญ — พิสูจน์ แล้ว |
 | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ | - | การเชื่อมต่อที่ได้รับรายงาน: ผู้โดยสาร 7 รถกระบะ-แสง ≤ 8 รถบัส-รถโดยสาร ≤ 10 ปี โดยยังมีค่าใช้จ่ายอยู่แม้เมื่อบริษัทคอมมิวสิก | การ ส่งเสียง กระซิบ ไม่ ใช่ เรื่อง สําคัญ — พิสูจน์ แล้ว |
 | ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ | - | ~ไม่มีรายงานการวางแผงอายุคงที่เลย ~ แต่คําสั่ง~ ~การตามและบันทึกการบํารุงรักษาที่ติดตามได้~ | การ ส่งเสียง ร้อง ไม่ ใช่ เรื่อง สําคัญ — ตรวจ สอบ โครงการ CC |
 7-vs-8 (Kenaya) และ 12-vs-15 (Niguria) การปะทะกันแบบส่งต่อ (Nigrica) ได้รับการแก้ไขในการสนับสนุนของอุปกรณ์หลักที่ขึ้นต้นด้วย ~ ไม่ใช่โดยการเลือกหนึ่งตัวส่ง:เคนยา = 8 จากการลงทะเบียนครั้งแรก (KEBS/KRA) ไนจีเรีย = 15 จากผู้ผลิต (อังกฤษ: Nigiria Window/ altitutions).
 ## เส้นทางการรับรองที่น่าเชื่อถือ (ใช้สําหรับทุกสินค้า)
-1. ** เครื่องราชอิสริยาภรณ์: ~ ปลายทาง ~ การกําหนดปลายทาง- กรมบังคับการ หรือมาตรฐานของกาย ~ กฎการนําเข้าหรือตราสารปัจจุบันสําหรับเคนยา ที่เป็นวัสดุ KEBS/KRA สําหรับไนจีเรีย รายการหน้าต่างเดี่ยว ศุลกากร — ไม่ใช่บล็อกสินค้า
-2. ** ออนไลน์ พื้นฐาน: ~ ผลิต vs ลงทะเบียนครั้งแรก ช่องว่างการผลิต การซ่อมแซม การอ้างอิง วันที่ และ ยานพาหนะ สืบค้นเมื่อ พ.ศ.
+1. เครื่องราชอิสริยาภรณ์: ~ ปลายทาง ~ การกําหนดปลายทาง- กรมบังคับการ หรือมาตรฐานของกาย ~ กฎการนําเข้าหรือตราสารปัจจุบันสําหรับเคนยา ที่เป็นวัสดุ KEBS/KRA สําหรับไนจีเรีย รายการหน้าต่างเดี่ยว ศุลกากร — ไม่ใช่บล็อกสินค้า
+2. ออนไลน์ พื้นฐาน: ~ ผลิต vs ลงทะเบียนครั้งแรก ช่องว่างการผลิต การซ่อมแซม การอ้างอิง วันที่ และ ยานพาหนะ สืบค้นเมื่อ พ.ศ.
 3. ~การเข้ารับตําแหน่งตามกฏหมาย: ~ เคนยาเป็นอาร์เอชดีที่มีข้อยกเว้นพิเศษพิเศษชนิดเดียว; สําหรับไนจีเรีย re-ยืนยันกฎที่เขียนในปัจจุบันแทนการขึ้นอยู่กับสมมติฐานทั่วไป — พวงมาลัยผิดคู่ สามารถปฏิเสธไม่ว่าอายุ
 4. ~ contricity: ~ การตรวจสอบปลายทางไนจีเรีย, กานา -- โอบีดี-อิล*, โคโกโก โค คูร โคอาริเกชั่นของเคนยา, และศพที่ออกแบบโดยปลายทางใด ๆ ของเมโลดี้ (ดูคู่มือของ PSI) — ยืนยันการบังคับและผู้ตรวจการณ์
-5. ** เปลี่ยนแปลงตามเวลาและเวลาต่าง ๆ ก่อนส่ง: ~ กฎอายุคือความไวของเวลา กฎที่ใช้ได้ที่คําคมสามารถเปลี่ยนได้ ก่อนที่จะแล่นเรือ
+5. เปลี่ยนแปลงตามเวลาและเวลาต่าง ๆ ก่อนส่ง: ~ กฎอายุคือความไวของเวลา กฎที่ใช้ได้ที่คําคมสามารถเปลี่ยนได้ ก่อนที่จะแล่นเรือ
 ## สิ่ง ที่ คู่มือ นี้ แนะ นํา ก่อน จะ จ่าย
 - การรักษาเคนยาและไนจีเรียตัวเลขเป็นหลัก แต่ยังคงยืนยันรุ่นรถนอกระบบและวันอ้างอิงในการเขียน; การปฏิบัติต่อเซลล์เมทริกซ์อื่น ๆ ทุกเซลล์เป็น a~ การแสดงผลเป็น ~ เพื่อแทนที่ด้วยตัวเลขตรวจสอบอย่างเป็นทางการ
 - อย่า นํา เครื่อง มือ รุ่น เก่า 7-year (Kenaya) หรือ 12-year (Niguria) มา ใช้ ใหม่ — เครื่อง มือ เหล่า นี้ ถูก แทน ที่ ด้วย เครื่อง มือ หลัก ที่ อ้าง ถึง ใน ที่ นี้.
 - ยืนยัน... ฝ่ายตรวจสอบ โปรแกรมตรวจสอบ และบันทึก ห่วงโซ่พร้อมอายุ ซึ่งประตูของประตูอย่างเป็นทางการมีความคลุมเครือ (พวงมาลัยไนจีเรีย) ได้คําตอบจากศุลกากรที่เขียนได้
 - จับภาพวันที่และวันเริ่มการรีพับลิกันครั้งแรกจากเอกสารการจําแนกประเภท (VN/regress) ระหว่าง PSI ดังนั้นอายุจะถูกคํานวณให้ถูกต้องตามหลัก
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
-~อายุรถที่ใช้แล้วของเคนย่ามีจํากัดเท่าไหร่ ~ เนื้อหามาตรฐานหลัก (KEBS DKS 1515: 2025 § 4.7.1 (พ.ศ.  corroborated by KRA) กำหนดให้รถยนต์นั่งส่วนบุคคลไม่เกิน **แปดปีนับจากปีจดทะเบียนครั้งแรก**,  โดยจำกัดช่วงห่างจากการผลิตถึงการจดทะเบียนครั้งแรกไว้ที่หนึ่งปี; ข้อยกเว้นพิเศษแคบ
+~อายุรถที่ใช้แล้วของเคนย่ามีจํากัดเท่าไหร่ ~ เนื้อหามาตรฐานหลัก (KEBS DKS 1515: 2025 § 4.7.1 (พ.ศ. corroborated by KRA) กำหนดให้รถยนต์นั่งส่วนบุคคลไม่เกิน แปดปีนับจากปีจดทะเบียนครั้งแรก, โดยจำกัดช่วงห่างจากการผลิตถึงการจดทะเบียนครั้งแรกไว้ที่หนึ่งปี; ข้อยกเว้นพิเศษแคบ
 ~รถที่ใช้แล้วของไนจีเรียมีจํากัดเท่าไหร่ ~ รถของนิวจีเรีย เทรดสเตชั่นสเตชั่นสเตชั่นสเตชั่น ขนส่งผ่านโลกกว้างกว่า 15 ปี ถูกแบนจากการนําเข้า* วัดจากปีการผลิต มีนาซีเลวี; ศุลกากรที่ห้ามทํารายการสินค้าตามรายการของลูกค้ามีความสอดคล้องกันใน 15-year ตัว
 ~ทําไมเคนย่าและไนจีเรียถึงใช้จุดเริ่มต้นที่แตกต่างกัน~ เคนย่าวัดจาก ลงทะเบียนครั้งแรก ไนจีเรีย จาก ~ manuture~ -- คํานวณอายุบนพื้นฐานปลายทางเสมอ
 '"กฎข้อหนึ่งครอบคลุมแอฟริกาทั้งหมดหรือไม่ ~ ไม่ ทุก ประเทศ กําหนด ให้ มี อายุ ของ ตน เอง, กฎ พวงมาลัย และ ประตู ตรวจ สอบ; นอก ประเทศ เคนยา และ ไนจีเรีย มี รายงาน ว่า ค่า ที่ ไม่ ใช่ ค่า สินสอด เพื่อ ตรวจ สอบ อย่าง เป็น ทาง การ.
 ~อะไรจะสําคัญนอกจากอายุ? ~ ทางด้านการบํารุงรักษา, การผลิต Vs-regrision พื้นฐาน, หลักสูตรยานพาหนะ,
-## บันทึกรูปภาพ
-- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
-- ส่วนตัว_ปลายทาง: ไม่ได้จับ
-- ผู้โดยสาร: ไม่ถูกจับ
-- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
-- ลิขสิทธิ์: ไม่ยืนยัน
-- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
-- _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
-- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
-- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
-- ALT ด้วยภาษา:
-- ~~~: อ้างอิงการส่งออกของ AutoBridge- Buyer — การใช้งานรถที่ใช้มาจํากัดอายุรถที่ใช้ไป, คู่มือการจัดหารถ-ส่งออก
-- ~FR~: ไรเฟเรซ ออโตไบริดจ์ ส่ง ออก เอเช เท อร์ เรส — รถ ที่ ใช้ ใน แอฟริกา มี ขีด จํากัด ใน การ นํา ทาง รถยนต์ ลาด ตระเวน ของ ดา อา คา รัต เอล ปอร์ต
-  - **DE**: AutoBridge-Referenz für Exportkäufer — African used-car import age limits, Leitfaden für Fahrzeugexport-Einkauf
-- ~! ~: เรเฟน เซีย ออ โต ริดจ์ พา เร ตา โดเรส เด เอ สกา รา ซิ ออน — รถ ที่ ใช้ ใน แอฟริกา มี อายุ เกิน กําหนด, กวา อี เอ ดี พี เบส พา เร ตา กัว ดา ซิ ออง เดอ วี เอ คู ลัส
--~PT~: เรเฟอร์เรนเซีย ออโตไบร์ กัว พาราพาเรโดเรส เดอ เอ็กซ์เปราซาเซะ — รถนําเข้าที่ใช้ในอาฟกัน กัวอา เดอ คอมเพราส พาราซาซาโร เดอ เววีคูโลส
-- ~JA~: TOPBridge 輸出バイヤー向けリファレンス | สืบค้นเมื่ออายุไม่เกิน ○ 調達ガイド
--~~~: AutoBridge 수출 참고 자료 자료 | | | | อัฟริกันที่ใช้รถยนต์นําเข้าอายุ 자동차 조달 가이드
-- ~วูฟ~: ทายาจิ ชะวู ทัม งา ะ วะ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — African used-car import age limits, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-- ~-~~: เรเฟอร์ นี ออ โต เบรก อุน ทัก เป็มเบลี เอ ค ปอร์ — รถ ที่ ใช้ ใน แอฟริกา มี อายุ เกิน กําหนด, ปานามา เพน กา ดัน เอ็กซ์ ปอร์ เคนเด รา อัน
--~~~: مرجع ออโตเบริก لمشتري ا لتصدير لتصدير لتصدير — รถ ที่ ใช้ แล้ว ใน แอฟริกา มี อายุ จํากัด دليل مشتري ت ت تصدير تصدير لمركب لمركب ا ت
-- ~ZH~: TOPBridge 出口采购参考 | 汽车出口采购指南 รถที่ใช้แล้วใช้แล้วใช้จํากัดอายุนําเข้า
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFIED | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
-| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Plain-language guidance on Kenya age basis and standards |
-| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFIED | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
-| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS used-vehicle import notice and inspection route |
-| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFIED | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
-| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
-| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | single source | Non-primary reported values for countries left flagged |
-| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | single source | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
-| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | single source | Sudan reported 7/8/10 tiered rule (non-primary) |
-| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | single source | No fixed cap; CoC + records (non-primary) |
-*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Nigeria steering wording and every other country row remain non-primary and must be officially verified for the exact vehicle class before shipment; no regional generalisation is made.*
-## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- โครงข่ายหลายประเทศแอฟริกา (COUNTRY_ STECIFICE; เคนยา &ไนจีเรียหลัก-Anchoreed; อื่น ๆ การจับจับตลาด; ไม่มีการทั่วไปในภูมิภาค)
-- ** วิธีการปรับตั้ง **: ปลายทางของอุปกรณ์หลักที่ชื่นชอบมากกว่าความขัดแย้งแบบส่งท้าย (HS_FRIRST SUNES_SCE_PE PRIMME_SPE_SPE_MUST_MATCH); การขัดแย้งแก้ไขเฉพาะที่ที่ข้อความหลักถูกจับตัวไปเท่านั้น
-- **มาตรฐานด้านบรรณาธิการ**: ศึกษาและเขียนจากแหล่งที่มาที่ระบุข้างต้น (การวิจัยจากเอกสาร; ไม่มีการอ้างว่าได้ทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ระดับความเชื่อมั่นของแหล่งที่มาแสดงไว้เป็นรายข้อ; ประเด็นใดที่ไม่สามารถยืนยันได้อย่างอิสระจะนำเสนอเป็นรายการตรวจสอบ แทนที่จะระบุเป็นข้อเท็จจริง
-- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+| แหล่งที่มา | องค์กร | ตลาด | URL | วันที่ตรวจสอบ | ข้อเท็จจริงที่สนับสนุน |
+| --- | --- | --- | --- | --- | --- |
+| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
+| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | Plain-language guidance on Kenya age basis and standards |
+| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
+| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | KEBS used-vehicle import notice and inspection route |
+| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
+| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | Non-primary reported values for countries left flagged |
+| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
+| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | Sudan reported 7/8/10 tiered rule (non-primary) |
+| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | No fixed cap; CoC + records (non-primary) |
+*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. ถ้อยคำของไนจีเรียเรื่องพวงมาลัยและแถวประเทศอื่นๆ ยังไม่ใช่แหล่งปฐมภูมิ และต้องยืนยันทางการสำหรับชั้นยานยนต์ที่แน่นอนก่อนส่งออก; no regional generalisation is made.*
+
+## การทบทวนด้านบรรณาธิการ
+- ผู้เขียน: AutoBridge Export Editorial Team · [authors](/authors/) · [นโยบายบรรณาธิการ](/editorial-policy/)
+- ตรวจทานล่าสุด: 2026-09-05
+- ตลาดอ้างอิง: แอฟริกา (หลายประเทศ)
+- วิธีการตรวจสอบ: กฎที่กำหนดขึ้นอาศัยแหล่งข้อมูลปฐมภูมิของหน่วยงานกำกับและรัฐบาล ตัวเลขที่ขัดแย้งกันจากสื่อจะถูกเก็บไว้เป็นรายการที่ต้องตรวจสอบแทนที่จะยืนยันเป็นข้อเท็จจริง และรายการที่อ่อนไหวต่อเวลาจะถูกนำไปยืนยันล่าสุดกับหน่วยงานที่ระบุ
+- มาตรฐานบรรณาธิการ: ศึกษาและเขียนจากแหล่งข้อมูลข้างต้น (การวิจัยจากเอกสาร ไม่มีการอ้างว่าทดลองขับ รื้อถอน หรือนำเข้าด้วยตนเอง) ประเด็นที่ยืนยันอย่างอิสระไม่ได้จะนำเสนอเป็นรายการตรวจสอบแทนที่จะระบุเป็นข้อเท็จจริง
+- ความโปร่งใส: การร่างและการแปลใช้ความช่วยเหลือจาก AI บทความนี้อาศัยการวิจัยจากเอกสาร ไม่มีการอ้างการทดสอบด้วยตนเองเว้นแต่มีบันทึกอย่างชัดเจน และการตรวจทานโดยบรรณาธิการมนุษย์ขั้นสุดท้ายยังไม่แล้วเสร็จ
 #AutoBridge #ExportProcurement #AfricaImport #UsedCarImport #BuyerVerification

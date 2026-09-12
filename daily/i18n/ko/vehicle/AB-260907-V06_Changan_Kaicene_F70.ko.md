@@ -1,100 +1,75 @@
 # 장안 Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
 ## SEO 메타데이터
-- **SEO 제목**: 장안 카리엔 F70 중국-시장 픽업 Specs 및 수출 수표|AutoBridge
-- **메타 설명**: 장안 Kaicene F70 픽업을위한 중국 시장 참조: 표준 대 긴 휠베이스 침대, 본체 -에 프레임 섀시 및 2WD/4WD 레이아웃, 비버 인 견인 / 페이로드 수치가 deliberately 개최.
-- **H1**: 장안 Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
-- **주요 키워드**: 장탄 Kaicene F70 수출 specs
-- **보조 검색어**: 长安凯程 F70; Kaicene F70 차원; F70 긴 침대; JE4D25 디젤 픽업; 중국 픽업 수출; 파란 Whale 긴 침대
-- **추천 URL**: /vehicles/changan-kaicene-f70/
-- **검색 의도**: Changan Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
-- **내부 링크 제안**: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
-- **이미지 제안**: 창안 Kaicene F70 더블 캐브 픽업 사이드 프로파일에서 표시된화물 침대 표시
-- **ALT 텍스트**: 두 배 차창 카니엔 F70 픽업의 측면 프로파일은 중립적인 배경에화물 침대를 표시합니다.
-- **스키마 범위**: 제+차량(제품/판매/가격/리뷰/리팅 없음)
-
-The Changan Kaicene F70 is a body-on-frame (non-load-bearing) mid-size pickup offered as a double cab in two-  and  four-wheel drive, 표준  and  긴베드 "블루 Whale" 변형을 포함한 긴 축 / 침대 버전. 픽업 구매자의 경우 결정은 화장품보다는 물리적입니다. ** 침대 길이, 휠베이스, 드라이브 트레인 및 섀시 **, 트럭이 일을 결정하는 로드 / 견인 번호. 이 페이지는 **중국 시장 참조 **입니다. 그것은 단 하나 근원 산출을 피하지 않고, 엔진 가족을 지명하고, deliberately ** withholds**와 더불어 교차 검사한 차원을 고칠하고, OEM 동일한 trim 장 또는 균질화 게시판이 그들을 지원하기 위하여 붙잡기 위하여 붙였습니다.
-
+- SEO 제목: 장안 카리엔 F70 중국-시장 픽업 Specs 및 수출 수표|AutoBridge
+- 메타 설명: 장안 Kaicene F70 픽업을위한 중국 시장 참조: 표준 대 긴 휠베이스 침대, 본체 -에 프레임 섀시 및 2WD/4WD 레이아웃, 비버 인 견인 / 페이로드 수치가 deliberately 개최.
+- H1: 장안 Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장
+- 주요 키워드: 장탄 Kaicene F70 수출 specs
+- 보조 검색어: ChanganChangan Kaicheng F70; Kaicene F70 차원; F70 긴 침대; JE4D25 디젤 픽업; 중국 픽업 수출; 파란 Whale 긴 침대
+- 추천 URL: /vehicles/changan-kaicene-f70/
+- 검색 의도: Changan Kaicene F70: 중국 시장 바디 - 프레임 픽업 참조 침대, 휠베이스 및 드라이브 트레인 주위에 내장: 차량 / 부품 수출자가 확인해야하는지, 문서 및 주문에 투입하기 전에 결정하십시오.
+- 내부 링크 제안: /vehicles/qingling-isuzu-kv100/, /vehicles/jmc-ford-transit-t8/, /guides/verify-chinese-car-export-supplier-history/
+- 이미지 제안: 창안 Kaicene F70 더블 캐브 픽업 사이드 프로파일에서 표시된화물 침대 표시
+- ALT 텍스트: 두 배 차창 카니엔 F70 픽업의 측면 프로파일은 중립적인 배경에화물 침대를 표시합니다.
+- 스키마 범위: 제+차량(제품/판매/가격/리뷰/리팅 없음)
+The Changan Kaicene F70 is a body-on-frame (non-load-bearing) mid-size pickup offered as a double cab in two- and four-wheel drive, 표준 and 긴베드 "블루 Whale" 변형을 포함한 긴 축 / 침대 버전. 픽업 구매자의 경우 결정은 화장품보다는 물리적입니다. 침대 길이, 휠베이스, 드라이브 트레인 및 섀시, 트럭이 일을 결정하는 로드 / 견인 번호. 이 페이지는 중국 시장 참조 입니다. 그것은 단 하나 근원 산출을 피하지 않고, 엔진 가족을 지명하고, deliberately withholds와 더불어 교차 검사한 차원을 고칠하고, OEM 동일한 trim 장 또는 균질화 게시판이 그들을 지원하기 위하여 붙잡기 위하여 붙였습니다.
 ## 몸 정체성과 두 개의 축축/침대 구성
-
-- 포좌: ** 몸에 구조 ** 중간 크기 픽업, 두 배 택시, 유효한 2WD/4WD (횡단 검사하는).
-- ** 표준 휠베이스 참조: ** 5330 × 1930 × 1835 mm, 휠베이스 3180 mm,화물 침대 ** 1600 × 1595 × 500 mm...
-- **Long-wheelbase / 블루 긴 침대 참고: ** 5580 × 1930 × 1835 mm, 휠베이스 3430 mm, 긴 침대 ** 1850 × 1595 × 500 mm...
-
+- 포좌: 몸에 구조 중간 크기 픽업, 두 배 택시, 유효한 2WD/4WD (횡단 검사하는).
+- 표준 휠베이스 참조: 5330 × 1930 × 1835 mm, 휠베이스 3180 mm,화물 침대 1600 × 1595 × 500 mm...
+- Long-wheelbase / 블루 긴 침대 참고: 5580 × 1930 × 1835 mm, 휠베이스 3430 mm, 긴 침대 1850 × 1595 × 500 mm...
 250 mm 휠베이스 스트레치는 근본적으로 침대 길이이며, 두 개의 사용 가능한화물 공간과 도킹 원/가게 풋프린트를 변경합니다. 순서는 표준 또는 긴 침대를 명시적으로 명명해야합니다; "그 지정없이 F70 "는 주변입니다. 정확한 SKU의 균질화 인증서에 대한 침대 크기를 확인, 액세서리 라이너 및 침대 스타일링은 트림에 따라 다릅니다.
-
 ## Powertrain 가족 - 지명, 비만적 인 평가
-
-| 가족, | 중국 시장 참고 | 의논하기 | 의논하기 |
-|---|---|---|---|
-| 2.5T 디젤 (JE4D25) | 주요 디젤 옵션 중 하나; 정확한 전력 / 토크는 모델 년에 따라 다릅니다. | 6MT / 6AT | single source — 여기에 고정되지 않음|
-| 1.9T 디젤 | 소형 디젤 옵션 | 손질 당 수동/자동 | single source |
-| 2.4T 가솔린 | Petrol 대안 | 의 의 | single source |
-
-Changan 같은 - 트림 공식 사양이 캡처되지 않기 때문에이 가이드는 **이 엔진에 고정 kW / N / m 출력을 인쇄하지 않습니다. 따라서 해결 된 데이터로 단일 소스 미디어 수치를 제시 할 것입니다. 정확한 엔진 부호, 모형 년, 힘 및 전송을 Kaicene/Changan 공식적인 윤곽 장 또는 MIIT 균질화 입장에 계약하기 전에 일치하고, 디젤과 가솔린 선을 명확하게 분리하십시오.
-
+| 가족 | 중국 시장 참고 | 의논하기 | 의논하기 |
+| --- | --- | --- | --- |
+| 2.5T 디젤 (JE4D25) | 주요 디젤 옵션 중 하나; 정확한 전력 / 토크는 모델 년에 따라 다릅니다. | 6MT / 6AT | 단일 출처 — 여기에 고정되지 않음 |
+| 1.9T 디젤 | 소형 디젤 옵션 | 손질 당 수동/자동 | 단일 출처 |
+| 2.4T 가솔린 | Petrol 대안 | 의 의 | 단일 출처 |
+Changan 같은 - 트림 공식 사양이 캡처되지 않기 때문에이 가이드는 이 엔진에 고정 kW / N / m 출력을 인쇄하지 않습니다. 따라서 해결 된 데이터로 단일 소스 미디어 수치를 제시 할 것입니다. 정확한 엔진 부호, 모형 년, 힘 및 전송을 Kaicene/Changan 공식적인 윤곽 장 또는 MIIT 균질화 입장에 계약하기 전에 일치하고, 디젤과 가솔린 선을 명확하게 분리하십시오.
 ## 오프로드 형상 — 미디어 수치를 확인
-
-독립적 인 미디어는 접근 각도를 인용 ** 29 ° **, 출발 각도 ** 27 ° **, 최소 지하 ** 230 mm ** 및 최대 방수 깊이 ** 900 mm **. 이 진정한 ladder-frame 픽업의 유용한 지표이지만 단일 리소스 미디어 수치이며 OEM 데이터에 대해 확인해야합니다. 타이어 크기, 중단 조정 및 그림이 4WD 모델에 대한 여부는 모든 문제.
-
+독립적 인 미디어는 접근 각도를 인용 29 °, 출발 각도 27 °, 최소 지하 230 mm 및 최대 방수 깊이 900 mm . 이 진정한 ladder-frame 픽업의 유용한 지표이지만 단일 리소스 미디어 수치이며 OEM 데이터에 대해 확인해야합니다. 타이어 크기, 중단 조정 및 그림이 4WD 모델에 대한 여부는 모든 문제.
 ## 견인 및 페이로드: deliberately 명시되지 않음
-
-순환 미디어는 약 주장 ** 3.5 t 견인 ** 그리고 약 ** 1 t 페이로드 **이 파일에 ** 인증 ** - 그들 뒤에 균질 탄알 또는 OEM 동일한 트림 소스가 없습니다, 그리고 그들은 ** 사실로 표시되지 않습니다 **. 이 작업 픽업은 가장 상업적으로 중요한 숫자이므로 올바른 동작은 정격 페이로드, 총 차량 질량 및 승인 견인 수치가 공식적으로 기록되는 정확한 모델의 인증서에서 그들을 얻을 것이다. 트레일러 또는 포럼 번호에 대한 부하를 치수를 재십시오.
-
+순환 미디어는 약 주장 3.5 t 견인 그리고 약 1 t 페이로드 이 파일에 인증 - 그들 뒤에 균질 탄알 또는 OEM 동일한 트림 소스가 없습니다, 그리고 그들은 사실로 표시되지 않습니다 . 이 작업 픽업은 가장 상업적으로 중요한 숫자이므로 올바른 동작은 정격 페이로드, 총 차량 질량 및 승인 견인 수치가 공식적으로 기록되는 정확한 모델의 인증서에서 그들을 얻을 것이다. 트레일러 또는 포럼 번호에 대한 부하를 치수를 재십시오.
 ## 조타, 연료 및 수출 경계
-
-참고 중국 시장 F70은 ** 왼쪽 드라이브 **입니다. 어떤 직행 드라이브 또는 수출 시장 Kaicene 픽업 및 해외 모델 이름, 별도의 OEM 증거를 필요로하고 동일하지 않습니다; 관련 지역 트럭은 OEM 문없이 동일한 빌드가 아닙니다. 중국 특유의 디젤은 현지 연료와 중국 배출 단계에 측정되며, 목적지 연료 등급 및 배출 호환성을 확인하고 목적지가 정확한 엔진 코드를 수락하는지 확인하십시오.
-
+참고 중국 시장 F70은 왼쪽 드라이브 입니다. 어떤 직행 드라이브 또는 수출 시장 Kaicene 픽업 및 해외 모델 이름, 별도의 OEM 증거를 필요로하고 동일하지 않습니다; 관련 지역 트럭은 OEM 문없이 동일한 빌드가 아닙니다. 중국 특유의 디젤은 현지 연료와 중국 배출 단계에 측정되며, 목적지 연료 등급 및 배출 호환성을 확인하고 목적지가 정확한 엔진 코드를 수락하는지 확인하십시오.
 ## 예금의 앞에 구매자 검증
-
 | Check | Action |
-|---|---|
+| --- | --- |
 | 침대 / 휠베이스 | 표준 수정 (3180 WB / 1600 침대) 또는 긴 (3430 WB / 1850 침대) 계약. |
 | 구동 훈련 | 2WD 또는 4WD 및 정확한 트림에 대한 전송 케이스 / 디프 내용을 지정합니다. |
 | 의 특징 | Bind 엔진 부호 (e.g. JE4D25), 년, OEM/MIIT에 산출 그리고 변속기; 단 하나 근원 수를 받아들이지 마십시오. |
 | 의약 | 29 °/27 °/230 mm/900 mm를, 연약한 사용의 앞에 OEM 자료에 대하여 확인하십시오. |
 | Payload 및 견인 | 평가 된 페이로드 / GVW를 풀고 CoC / MIIT에서 견인을 승인; 3.5 t / 1 t 주장을 무시합니다. |
 | 수출 spec | RHD/export naming, 연료 및 배출 호환성에 대한 별도의 증거를 획득; 최종 지불 전에 재컨크릴 VIN. |
-
 ## 의논하기
-**카이엔 F70은 어떤 침대 길이가 있습니까?
-
+카이엔 F70은 어떤 침대 길이가 있습니까?
 3180 mm 휠베이스에 표준 1600 mm 침대와 3430 mm 휠베이스에 긴 / 블루 하이얼 1850 mm 침대 (5330 대 5580 mm 대).
-
-**Is it four-wheel drive?**
-
+Is it four-wheel drive?
 2WD 및 4WD 모두에서 제공되는 신체 구조 이중 CAB 픽업입니다. 주문에 지정하십시오.
-
-** 엔진 출력은 무엇입니까? 의 모든 것
-
+ 엔진 출력은 무엇입니까? 의 모든 것
 가족은 2.5T JE4D25 디젤, 1.9T 디젤 및 2.4T 가솔린 6MT/6AT 포함, 그러나 정확한 출력은 단 하나 자원이고 의도적으로 여기에서 조정하지 않습니다 - 정확한 손질을 위한 OEM/MIIT에 의해 확인하십시오.
-
-** 진짜로 견인 3.5 톤은 1 톤을 나르고?
-
+ 진짜로 견인 3.5 톤은 1 톤을 나르고?
 이러한 회람 그림은이 파일에서 비난되지 않습니다. 미디어 주장에 의존하는 것보다 균질 인증서에서 정격 견인, 페이로드 및 GVW를 얻습니다.
-
-**이와 동일하게 핸드 드라이브 내보내기 버전이 있습니까?
-
+이와 동일하게 핸드 드라이브 내보내기 버전이 있습니까?
 중국 트럭은 LHD입니다; 어떤 RHD/export 건축 및 해외 naming는 분리된 OEM 증거를 요구하고 동일하게 가정하지 않습니다.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m510/127652_param.html | engine_variants |
-| 卡车之家(360che) | 卡车之家(360che) | CHINA | independent database | single source | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
-| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | independent database | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
-| 中国皮卡网 | 中国皮卡网 | CHINA | media/industry | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6825893006034338312/ | engines |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | single source | http://m.toutiao.com/group/6753066743062594051/ | offroad |
-| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | media/industry | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
-| 太平洋汽车 | 太平洋汽车 | CHINA | media/industry | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
+| 출처 | 기관 | 시장 | URL | 뒷받침되는 사실 |
+| --- | --- | --- | --- | --- |
+| Truck Home(360che) | Truck Home(360che) | CHINA | https://product.m.360che.com/m331/82931_param.html | 사양 및 적용 범위 참고 |
+| Truck Home(360che) | Truck Home(360che) | CHINA | https://product.m.360che.com/m510/127652_param.html | 사양 및 적용 범위 참고 |
+| Truck Home(360che) | Truck Home(360che) | CHINA | https://product.m.360che.com/m331/82905_param.html | 사양 및 적용 범위 참고 |
+| Autohome | Autohome | CHINA | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | 사양 및 적용 범위 참고 |
+| China Pickup Network | China Pickup Network | CHINA | https://www.cnpickups.com/news/785231.html | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/6753052185325470222/ | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/6885228857952043528/ | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/7295667813296013843/ | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/6825893006034338312/ | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/6753066743062594051/ | 사양 및 적용 범위 참고 |
+| | | CHINA | http://m.toutiao.com/group/6752785211886404109/ | 사양 및 적용 범위 참고 |
+| PCauto | PCauto | CHINA | https://price.pcauto.com.cn/s42999/config.html | 사양 및 적용 범위 참고 |
 
 ## 편집 리뷰
-- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-08
-- **참고 시장 **: 중국 (China-market reference; 动力功率/拖拽/额定载质量无 OEM 同 손질 或公告来源, 保持待证不写死)
-- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 기하학 및 엔진 출력, 및 모든 견인 / 페이로드 / GVW 수치, transacting 전에 OEM 시트 또는 MIIT 균질 항목에 재확인해야합니다.
-- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.
+- 저자: AutoBridge Export Editorial Team · [authors](/authors/) · [편집 정책](/editorial-policy/)
+- 최종 검토일: 2026-09-08
+- 참고 시장: 중국
+- 검증 방법: 확정된 규칙은 규제기관과 정부의 1차 자료에 기반하며, 매체 간 모순되는 수치는 단정하지 않고 확인 항목으로 남기고, 시간에 민감한 사항은 해당 기관의 최신 확인을 안내합니다.
+- 편집 기준: 위에 나열된 출처를 바탕으로 조사·작성했습니다(데스크 리서치; 직접 시운전·분해·수입을 주장하지 않음). 독립적으로 확인할 수 없는 사항은 사실로 단정하지 않고 확인 항목으로 제시합니다.
+- 투명성: 작성과 번역에 AI 지원을 사용했습니다. 본문은 데스크 리서치에 기반합니다. 명시적으로 기록된 경우를 제외하고 1차 테스트를 주장하지 않으며, 최종 인간 편집 검토는 아직 진행 중입니다.

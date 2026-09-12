@@ -1,100 +1,66 @@
-# 长安CS55 PLUS(3rd世代,2024年)——中马汽油SUV样板与出口检查.
-
+# ChanganCS55 PLUS(3rd世代,2024年)——中马汽油SUV样板与export检查.
 ## SEO元数据
-- **SEO标题**: Changan  CS55   PLUS  (3rd Gen) 2024: 中国市场ICE 光谱导出指南(E)
-- **Meta描述**: Chinese-market third-generation Changan  CS55   PLUS  petrol  SUV : 蓝鲸 NE 1.5T,  7DCT, 维度, WLTC 燃料使用量,  and  为什么杂交是一条单独的线。
-- **H1**: Changan  CS55   PLUS  (3rd Generation, 2024) — 中马汽油SUV 光谱  and  导出检查
-- **核心关键词**: 长安 / 长安 CS55 PLUS (第三代) 规格出口
-- **次级搜索词**: Changan  CS55   PLUS  export; 第三代CS55号; 蓝鲸1.5T; 中国汽油SUV; 7DCT 
-- **建议URL**: /vehicles/changan-cs55-plus/
-- **搜索意图**: Understand Changan  CS55   PLUS  (3rd Generation, 2024) — 中马汽油SUV 光谱  and  导出检查: 车辆/部件出口商在承诺发出订单之前必须核实、记录和决定的内容。
-- **内链建议**: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
-- **图片建议**: 现实,文件/车辆重点场景,说明长安CS55PLUS(3rd世代,2024年)——中马汽油SUV标本和出口切克,没有进行阶段检查或有人声称.
-- **ALT文本**: 近,自然看材料和与长安CS55PLUS(3rd世代,2024年)有关的主体——中马汽油SUV标本和E,中性背景,没有显示人或检查行动.
-- **Schema范围**: 第+条 车辆(无产品/产出/审查)
-
+- SEO标题: Changan CS55 PLUS (3rd Gen) 2024: China市场ICE 光谱导出指南(E)
+- Meta描述: Chinese-market third-generation Changan CS55 PLUS petrol SUV : 蓝鲸 NE 1.5T, 7DCT, 维度, WLTC 燃料使用量, and 为什么杂交是一条单独的线。
+- H1: Changan CS55 PLUS (3rd Generation, 2024) — 中马汽油SUV 光谱 and 导出检查
+- 核心关键词: Changan / Changan CS55 PLUS (第三代) 规格export
+- 次级搜索词: Changan CS55 PLUS export; 第三代CS55号; 蓝鲸1.5T; China汽油SUV; 7DCT
+- 建议URL: /vehicles/changan-cs55-plus/
+- 搜索意图: Understand Changan CS55 PLUS (3rd Generation, 2024) — 中马汽油SUV 光谱 and 导出检查: 车辆/部件export商在承诺发出订单之前必须核实、记录和决定的内容。
+- 内链建议: /vehicles/changan-cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
+- 图片建议: 现实,文件/车辆重点场景,说明ChanganCS55PLUS(3rd世代,2024年)——中马汽油SUV标本和export切克,没有进行阶段检查或有人声称.
+- ALT文本: 近,自然看材料和与ChanganCS55PLUS(3rd世代,2024年)有关的主体——中马汽油SUV标本和E,中性背景,没有显示人或检查行动.
+- Schema范围: 第+条 车辆(无产品/产出/审查)
 ## 购买者上下文和生成边界
-本页仅覆盖 ** 第三代Changan CS55 倒数(2024) 汽油(ICE)动力列车**. 超音速的版本是 单行** 不同身体和动力列车 数字而不是 合并在这里。 参考市场为**中国**.
-
-## 汽油电源和尺寸
-- **Body**: 4539 1865 1680 mm,轮基2656 mm; cargo 475–1415 L.
-- ** Engine**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
-- ** 传送**:7DCT 湿式双离合。
-- ** 0–100 km/h 7.9 s; WLTC 燃料消耗 6.94.
-- ** 中国国内发射参考(时间敏感性)**: 9.99–11.39 — 国内参考, 不作为出口价格.
-- ** 分离混合线(不混合)**: 超擎混动：4550×1868×1675，发动机110kW/电机180kW.
-
+本页仅覆盖 第三代Changan CS55 倒数(2024) 汽油(ICE)Powertrain列车. 超音速的version是 单行 不同身体和Powertrain列车 数字而不是 合并在这里。 参考市场为China.
+## 汽油电源和Dimensions
+- Body: 4539 1865 1680 mm,轮基2656 mm; cargo 475–1415 L.
+- Engine: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
+- 传送:7DCT 湿式双离合。
+- 0–100 km/h 7.9 s; WLTC 燃料消耗 6.94.
+- China国内发射参考(时间敏感性): 9.99–11.39 — 国内参考, 不作为export价格.
+- 分离混合线(不混合): super-charge hybrid：4550×1868×1675，Engine110kW/Motor180kW.
 ## 验证规格表(中市参考文献).
 | 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
-|---|---|---|---|---|---|
-| 长度宽度高度 | 4539 1865 1680 | 毫米 | 中国 | 资源 | 搜狐车型库  |
-| 轮式基座 | 2656 | 毫米 | 中国 | 资源 | 搜狐车型库  |
-| 引擎 | 新蓝鲸 NE 1.5T 国家 | | 中国 | 资源 | 搜狐车型库  |
-| 发动机功率 | 141 (192Ps) | 千瓦 | 中国 | 资源 | 搜狐车型库  |
-| 传输 | 7DCT 湿式双离合  | | 中国 | 资源 | 搜狐车型库  |
-| 邮箱 0 100 | 7.9 | s, 简称 | 中国 | 资源 | 搜狐车型库  |
-| 燃料消耗量 | 6.94 | L/100km | 中国 | 资源 | 搜狐车型库  |
-| 货运量 | 475–1415 | L: 国家 | 中国 | 资源 | 搜狐车型库  |
-| 中国微软发射范围 | 9.99–11.39 | 万元人民币  | 中国 | 时间(_S) | 人民网重庆  |
-| 混合分离线 | 超擎混动：4550×1868×1675，发动机110kW/电机180kW | | 中国 | 资源 | 搜狐汽车  |
-
-## ICE出口重点:排放量、燃料和微量排放确认
-对于一辆SUV汽油,定购检查是目的地国家的**排放阶段和燃料兼容性**,而不是电场。 China-6校准,OBD和燃料级(92/95 RON预期)必须与目的地标准相协调;捕获的WLTC消耗量是一个实验室数字,随燃料和载荷的不同而变化. 详细的每条线路设备差异需要OEM配置表. 混合线保持自己的页面,而不是平均汽油和混合号.
-
+| --- | --- | --- | --- | --- | --- |
+| 长度宽度高度 | 4539 1865 1680 | 毫米 | China | 资源 | Sohumodel database |
+| 轮式基座 | 2656 | 毫米 | China | 资源 | Sohumodel database |
+| 引擎 | 新蓝鲸 NE 1.5T 国家 | | China | 资源 | Sohumodel database |
+| Engine功率 | 141 (192Ps) | 千瓦 | China | 资源 | Sohumodel database |
+| 传输 | 7DCT 湿式双离合 | | China | 资源 | Sohumodel database |
+| 邮箱 0 100 | 7.9 | s, 简称 | China | 资源 | Sohumodel database |
+| 燃料消耗量 | 6.94 | L/100km | China | 资源 | Sohumodel database |
+| 货运量 | 475–1415 | L: 国家 | China | 资源 | Sohumodel database |
+| China微软发射范围 | 9.99–11.39 | 万元人民币 | China | 时间(_S) | 人民网重庆 |
+| 混合分离线 | super-charge hybrid：4550×1868×1675，Engine110kW/Motor180kW | | China | 资源 | Sohu Auto |
+## ICEexport重点:排放量、燃料和微量排放确认
+对于一辆SUV汽油,定购检查是目的地国家的排放阶段和燃料兼容性,而不是电场。 China-6校准,OBD和燃料级(92/95 RON预期)必须与目的地标准相协调;捕获的WLTC消耗量是一个实验室数字,随燃料和载荷的不同而变化. 详细的每条线路设备差异需要OEMconfiguration表. 混合线保持自己的页面,而不是平均汽油和混合号.
 ## 付款前对海外买方的核实
 1. 确认第三代ICE的构造 和精确的修剪由VIN。
-2. 对照目的地入场和燃料等级,验证中国-6排放级.
+2. 对照目的地入场和燃料等级,验证China-6排放级.
 3. 单独的混合数字; 不混合线条 。
 4. 确认传输(7DCT)适配性和零部件/支持通道.
-5. 将人民币发射定价作为国内参考;要求当前出口报价.
-
+5. 将人民币发射定价作为国内参考;要求当前export报价.
 ## 财务问题
-** 这是否包括混合型CS55? 不——混合体是具有不同规格的单独线条.
-** ** 对照目的地规则确认中国-6;参见排放/燃料指南.
-** 6.94 L/100 km是真实世界的数字吗? ** 这是WLTC实验室的值,实际使用不尽相同。
-** 99、900人民币是出口价格吗? ** 否 ——国内发射参考文献.
+ 这是否包括混合型CS55? 不——混合体是具有不同规格的单独线条.
+ 对照目的地规则确认China-6;参见排放/燃料指南.
+ 6.94 L/100 km是真实世界的数字吗? 这是WLTC实验室的值,实际使用不尽相同。
+ 99、900人民币是export价格吗? 否 ——国内发射参考文献.
 被俘线7-speed湿双层(7DCT)
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| CS55 PLUS 参数配置 | 搜狐汽车车型库 | CN | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | 尺寸, 轴距, 动力, 变速箱, 油耗, 行李厢 |
-| 第三代CS55PLUS上市 | 人民网重庆 | CN | media/industry | CROSS_CHECKED | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | 上市, 价格区间 |
-| CS55 PLUS 超擎混动参数 | 搜狐汽车 | CN | independent database | CROSS_CHECKED | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | primary | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | primary | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## 编辑评论
-- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-05
-- **参考市场**:中国(中国市场参考规格;不是全球规格)
-- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
-- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+| 来源 | 机构 | 市场 | URL | 支撑事实 |
+| --- | --- | --- | --- | --- |
+| CS55 PLUS Specifications | Sohu Auto model database | CN | https://db.auto.sohu.com/model_6091/config?sliding=1&selectedTrimId=177241 | Dimensions, Wheelbase, Powertrain, Gearbox, Fuel consumption, 行李厢 |
+| 第三代CS55PLUSmarket launch | 人民网重庆 | CN | http://cq.people.com.cn/n2/2023/0918/c367647-40575106.html | market launch, 价格区间 |
+| CS55 PLUS super-charge hybridSpecifications | Sohu Auto | CN | http://db.m.auto.sohu.com/model_6091/a/1065482609_121117078 | 混动版区分（不得混入燃油） |
+| Changan Automobile official global site | Changan Automobile Changan汽车 (OEM) | CN | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT MIIT | CN | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR SAMR (China) | CN | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
 
-## 图像记录
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-06
-- **MODEL_TOPIC_MATCH**: exact Changan CS55 PLUS Gen3
-- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
-- **ALT (12 languages)**:
-  - **EN**: Changan CS55 PLUS Gen3, Chinese-market petrol SUV export buyer reference
-  - **FR**: Changan CS55 PLUS Gen3, petrol SUV du marché chinois, référence acheteur export
-  - **DE**: Changan CS55 PLUS Gen3, Chinesischer petrol SUV, Referenz für Exportkäufer
-  - **ES**: Changan CS55 PLUS Gen3, petrol SUV del mercado chino, referencia para comprador de exportación
-  - **PT**: Changan CS55 PLUS Gen3, petrol SUV do mercado chinês, referência ao comprador de exportação
-  - **JA**: Changan CS55 PLUS Gen3, 中国市場petrol SUV・輸出バイヤー向けリファレンス
-  - **KO**: Changan CS55 PLUS Gen3, 중국 시장 petrol SUV, 수출 바이어 참고 자료
-  - **VI**: Changan CS55 PLUS Gen3, petrol SUV thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Changan CS55 PLUS Gen3, petrol SUV ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Changan CS55 PLUS Gen3, petrol SUV pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Changan CS55 PLUS Gen3, petrol SUV السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Changan CS55 PLUS Gen3, 中国市场petrol SUV·出口采购参考
-
-#AutoBridge #ChinaCarExport #ExportProcurement #ChanganCS55 #ICE
+## 编辑评审
+- 作者: AutoBridge Export Editorial Team · [authors](/authors/) · [编辑政策](/editorial-policy/)
+- 最近核验日期: 2026-09-05
+- 参考市场: China
+- 核查方法: 已确立的规则以监管机构和政府的一手来源为依据；媒体间相互冲突的数字保留为待核验项而非直接断言；所有时间敏感事项引导至指定主管机关做最新确认。
+- 编辑标准: 依据上述来源调研并撰写（案头研究；不主张任何一手驾驶、拆解或进口经历）。凡无法独立确认之处，均作为待核验项呈现，而非作为既定事实断言。
+- 透明度: 撰写与翻译使用了 AI 辅助。本文基于案头研究，除非有明确记录，不主张任何一手测试；最终人工编辑审校尚未完成。

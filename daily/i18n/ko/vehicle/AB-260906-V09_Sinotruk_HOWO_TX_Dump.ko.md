@@ -1,88 +1,66 @@
 # Sinotruk HOWO TX 팁 주는 사람: 중국 시장 무거운 덤프 트럭 수출 참고
 ## SEO 메타데이터
-- **SEO 제목**: Sinotruk HOWO TX년 덤프 트럭 수출 Specs: Driveline, 차축, 포좌 가이드
-- **메타 설명**: Sinotruk HOWO TX 무거운 팁 주는 사람을 위한 중국 시장 참고: 6x4/8x4 레이아웃, 표본 Weichai/HW 몬탈은 표본, 차축 및 포좌 초점으로 유지되고, 균질화 문서 수출 구매자 필요.
-- **H1**: Sinotruk HOWO TX년 팁: 중국-시장 무거운 덤프 트럭 수출 참고
-- **주요 키워드**: Sinotruk HOWO TX 덤프 트럭 수출 specs
-- **보조 검색어**: HOWO TX 팁 주는 사람; Sinotruk 8x4 덤프 트럭; WP10H 400; HW19712 기어 박스; 중국 무거운 팁 주는 사람 수출
-- **추천 URL**: /vehicles/sinotruk-howo-tx-dump/
-- **검색 의도**: Sinotruk HOWO TX를 저항하십시오 팁: 중국 시장 무거운 덤프 트럭 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
-- **내부 링크 제안**: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
-- **이미지 제안**: 8x4 Sinotruk HOWO TX 건축 야드에 올려진 tipper 침대를 가진 덤프 트럭
-- **ALT 텍스트**: Sinotruk HOWO TX 8x4 그 팁 주는 사람 몸으로 건설 현장에서 자랐습니다
-- **스키마 범위**: 제+차량
-
-HOWO TX는 건축을 위한 Sinotruk 중국 국가 중장비 트럭 그룹 주류 무거운 tipper (덤불 트럭)입니다  and  muck-hauling, 6 × 4에서 판매  and  8 × 4 드라이브 레이아웃. 무거운 트럭 구매는 차선에 관하여, 차축, 총중량, 뚱 베어  and  섀시 —  and  about recognising that one sample specification does not represent the whole model matrix. Sinotruk의 핵심 무거운 트럭 상표로 HOWO의 상태는 회사의 공식적인 disclosures에 의해 확인됩니다; 상세한 작업 그림은 균질화 종이에서 옵니다.
-
+- SEO 제목: Sinotruk HOWO TX년 덤프 트럭 수출 Specs: Driveline, 차축, 포좌 가이드
+- 메타 설명: Sinotruk HOWO TX 무거운 팁 주는 사람을 위한 중국 시장 참고: 6x4/8x4 레이아웃, 표본 Weichai/HW 몬탈은 표본, 차축 및 포좌 초점으로 유지되고, 균질화 문서 수출 구매자 필요.
+- H1: Sinotruk HOWO TX년 팁: 중국-시장 무거운 덤프 트럭 수출 참고
+- 주요 키워드: Sinotruk HOWO TX 덤프 트럭 수출 specs
+- 보조 검색어: HOWO TX 팁 주는 사람; Sinotruk 8x4 덤프 트럭; WP10H 400; HW19712 기어 박스; 중국 무거운 팁 주는 사람 수출
+- 추천 URL: /vehicles/sinotruk-howo-tx-dump/
+- 검색 의도: Sinotruk HOWO TX를 저항하십시오 팁: 중국 시장 무거운 덤프 트럭 수출 참고: 차량 / 부품 수출자가 확인해야하며, 문서 및 주문에 투입하기 전에 결정하십시오.
+- 내부 링크 제안: /vehicles/faw-jiefang-j6f/, /vehicles/xcmg-qy25k5c-truck-crane/, /guides/china-port-container-vs-roro-choice/
+- 이미지 제안: 8x4 Sinotruk HOWO TX 건축 야드에 올려진 tipper 침대를 가진 덤프 트럭
+- ALT 텍스트: Sinotruk HOWO TX 8x4 그 팁 주는 사람 몸으로 건설 현장에서 자랐습니다
+- 스키마 범위: 제+차량
+HOWO TX는 건축을 위한 Sinotruk 중국 국가 중장비 트럭 그룹 주류 무거운 tipper (덤불 트럭)입니다 and muck-hauling, 6 × 4에서 판매 and 8 × 4 드라이브 레이아웃. 무거운 트럭 구매는 차선에 관하여, 차축, 총중량, 뚱 베어 and 섀시 — and about recognising that one sample specification does not represent the whole model matrix. Sinotruk의 핵심 무거운 트럭 상표로 HOWO의 상태는 회사의 공식적인 disclosures에 의해 확인됩니다; 상세한 작업 그림은 균질화 종이에서 옵니다.
 ## 레이아웃 및 역할
-
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 상표/명령 | HOWO (Sinotruk/CNHTC) 주류 무거운 덤프 트럭 선 | 중국 · 공식 공개 | 의 |
-| 일반 레이아웃 | 8×4 (four-axle) and 6×4 (three-axle) tipper configurations | 중국 · 단일 소스, 모델에 의해 확인 | single source(싱글) |
-| 표본 8 × 4 몬탈 | Weichai WP10H400E62 ≈ 400 PS (중국 6); HW19712L 12 속도는 지시합니다; MCX16ZG의 구동용 지게차 | 중국 · 한 샘플 제작 | single source(싱글) 의논문
-
-WP10H400 / 12-speed / MCX16ZG 조합은 ** 하나의 대표 8 × 4 빌드 **, TX 카탈로그가 아닙니다. HOWO 팁 주는 다수 엔진 (를 포함하여 Sinotruk의 자신의 MC 시리즈)와 기어 박스로 제안됩니다; 계약은 "A HOWO TX 400"를 주문하는 것보다 정확한 몬탈을 명명해야 합니다.
-
+| 일반 레이아웃 | 8×4 (four-axle) and 6×4 (three-axle) tipper configurations | 중국 · 단일 소스, 모델에 의해 확인 | 단일 출처(싱글) |
+| 표본 8 × 4 몬탈 | Weichai WP10H400E62 ≈ 400 PS (중국 6); HW19712L 12 속도는 지시합니다; MCX16ZG의 구동용 지게차 | 중국 · 한 샘플 제작 | 단일 출처(싱글) 의논문
+WP10H400 / 12-speed / MCX16ZG 조합은 하나의 대표 8 × 4 빌드, TX 카탈로그가 아닙니다. HOWO 팁 주는 다수 엔진 (를 포함하여 Sinotruk의 자신의 MC 시리즈)와 기어 박스로 제안됩니다; 계약은 "A HOWO TX 400"를 주문하는 것보다 정확한 몬탈을 명명해야 합니다.
 ## 무거운 팁을 읽는 방법 a 함대
-
-- **Engine**: 진지변환, 정격 출력/토크 및 배출 단계; 목적지 연료 sulphur 및 배출권과 일치하십시오.
-- ** 기어 박스 **: 수동 멀티 속도 (예: 12-speed) 라덴 그리스에 대한 오른쪽 비율; 유압 팁에 대한 PTO 규정을 확인합니다.
-- ** 축 / 서스펜션 **: 드라이브 액 비율 및 bogie 등급 설정 견인 및 법적 부하; 감소 및 타이어 사양을 확인합니다.
-- **GCW/GVW 및 섀시 **: 법적인 총과 조합 무게는 생산성을 정의합니다. 이들은 균질 시트에서 온다.
-- **Cab**: 택시 오버/짧 보닛 TX 택시, 서스펜션 좌석 및 수면 옵션 긴 운반 간 짧은 사이클 사이트 작업.
-
+- Engine: 진지변환, 정격 출력/토크 및 배출 단계; 목적지 연료 sulphur 및 배출권과 일치하십시오.
+- 기어 박스 : 수동 멀티 속도 (예: 12-speed) 라덴 그리스에 대한 오른쪽 비율; 유압 팁에 대한 PTO 규정을 확인합니다.
+- 축 / 서스펜션 : 드라이브 액 비율 및 bogie 등급 설정 견인 및 법적 부하; 감소 및 타이어 사양을 확인합니다.
+- GCW/GVW 및 섀시 : 법적인 총과 조합 무게는 생산성을 정의합니다. 이들은 균질 시트에서 온다.
+- Cab: 택시 오버/짧 보닛 TX 택시, 서스펜션 좌석 및 수면 옵션 긴 운반 간 짧은 사이클 사이트 작업.
 ## 팁 주는 사람 몸과 유압: 포좌에서 분리하는
-
-> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Body/bed 차원, 호이스트 (유압 드는) 명세, GVW, kerb 질량 및 정격 탑재량은 조정 가치로 asserted 아닙니다 — 그들은 MIIT 발표 및 보디빌딩용 기구 명세를 요구합니다. 덤프 몸은 종종 장착 또는 별도로 선택됩니다. so 섀시 균질화  and  tipper-body 준수는 두 개의 문서, 수출을 위해 특히.
-
+> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > Body/bed 차원, 호이스트 (유압 드는) 명세, GVW, kerb 질량 및 정격 탑재량은 조정 가치로 asserted 아닙니다 — 그들은 MIIT 발표 및 보디빌딩용 기구 명세를 요구합니다. 덤프 몸은 종종 장착 또는 별도로 선택됩니다. so 섀시 균질화 and tipper-body 준수는 두 개의 문서, 수출을 위해 특히.
 ## 수출 및 선금 검사 목록
-
 1. 6 × 4 또는 8 × 4을 지정하고 VIN의 섀시 발표에서 정확한 엔진 / 기어 박스 / 차축을 얻을 수 있습니다.
 2. GVW/GCW, 차축 짐, kerb 질량 및 정격 탑재량을 확보하십시오; 법적인 탑재량에 팁 주는 몸을 치수를 재십시오, assumption.
 3. PTO, 유압 펌프 및 호이스트 사양을 확인하고 누가 공급 (OEM vs 보디 빌더).
 4. 중국-6 목적지 디젤 sulphur/emission 규칙 및 부품 가용성에 대한 캘리브레이션 확인.
 5. 중국 시장은 LHD입니다; 수출/RHD 또는 지역 HOWO 건축은 따로따로 문서화되고 동일하게 가정되지 않습니다.
 6. 무거운/오버 크기 단위 (RoRoRo 대 플랫랙/발-불크) 및 모든 섀시 번호를 재구성하기위한 계획 배송.
-
 ## 견적 요청
-
 무거운 트럭 가격은 구성 및 신체 의존이며 여기에는 견적되지 않습니다. 목적지, 수량, 정확한 차선, tipper-body spec, 조타, 포트 및 Incoterm와 현재 수출 인용을 요청하십시오. 섀시 및 과도한 과도한 견적을 받으십시오.
-
 ## 의논하기
-** HOWO TX 팁 주는 어떤 드라이브 레이아웃이 있습니까? 의 모든 것**
-
+ HOWO TX 팁 주는 어떤 드라이브 레이아웃이 있습니까? 의 모든 것
 일반적으로 6 × 4 및 8 × 4; 부하 및 사이트 조건으로 선택하고 정확한 모델을 확인합니다.
-
-** 400 PS WP10H 엔진 표준? ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ****
-
+ 400 PS WP10H 엔진 표준?
 It is one sample 8×4 build; TX 라인은 MC-series를 포함한 여러 엔진을 사용하므로 정확한 구동을 사용합니다.
-
-** 어떤 기어 박스 및 차축 샘플 사용? 의 모든 것**
-
+ 어떤 기어 박스 및 차축 샘플 사용? 의 모든 것
 샘플은 HW19712L 12-speed 매뉴얼 및 MCX16ZG 드라이브 차축을 나열하지만 실제 섀시를 확인합니다.
-
-** 얼마를 나르는가? 의 모든 것**
-
+ 얼마를 나르는가? 의 모든 것
 Payload/GVW/GCW는 여기에 고정되지 않습니다. - 균질 발표 및 신체 사양에서 그들을 얻을.
-
-** 중국과 동일한 수출 HOWO입니까? 의 모든 것**
-
+ 중국과 동일한 수출 HOWO입니까? 의 모든 것
 Not homesd — export/regional builds and Steering needs 별도의 OEM 증거.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥） | 卡车之家官方号（今日头条镜像） | CHINA | media/industry | single source | http://m.toutiao.com/group/7587065410998624778/ | 发动机, 变速箱, 后桥, 8x4  |
-| 重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露） | 中国重汽(深交所披露) | CHINA | primary | VERIFIED | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | 品牌/产销官方披露  |
-| 中国重汽集团（豪沃产品系列官方身份） | 经济日报(中国重汽集团PDF) | CHINA | independent database | CROSS_CHECKED | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列背景  |
-| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | primary | VERIFIED | https://www.sinotrukchina.com/ | brand_official — OEM corporate; HOWO brand identity; export builds market-scoped |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify 8x4/6x4 chassis, engine and GVW by announcement |
-| 卡车之家 HOWO 车型库（独立商用车数据库） | 卡车之家 | CN | independent database | CROSS_CHECKED | http://www.360che.com/ | identity — independent cross-check of sample configuration |
+| 출처 | 기관 | 시장 | URL | 뒷받침되는 사실 |
+| --- | --- | --- | --- | --- |
+| 豪沃TX 8x4渣土tipper(WeichaiWP10H400E62 400Ps, HW19712Lgearbox, MCX16ZGrear axle) | Truck Home official | CHINA | http://m.toutiao.com/group/7587065410998624778/ | Engine, Gearbox, Rear axle, 8x4 |
+| 重汽2025年半年报(豪沃HOWObrandandcomplete vehicle产销officialdisclosure) | Chinese重汽(深交所disclosure) | CHINA | https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc | brand/产销officialdisclosure |
+| Chinese重汽集团(豪沃产品系列officialidentity) | 经济日报(Chinese重汽集团PDF) | CHINA | http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf | 产品系列background |
+| SINOTRUK / HOWO global official | China National Heavy Duty Truck Group (Sinotruk) | EXPORT | https://www.sinotrukchina.com/ | OEM corporate; HOWO brand identity; export builds market-scoped |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify 8x4/6x4 chassis, engine and GVW by announcement |
+| 360che (Truck Home) HOWO modeldatabase (independent commercial-vehicle database) | Truck Home | CN | http://www.360che.com/ | independent cross-check of sample configuration |
 
 ## 편집 리뷰
-- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-06
-- **참고 시장 **: 중국 (在售国六; 8x4/6x4; 样本配置非全矩阵, 货箱 /GVW/举升须公告; 出口版另证)
-- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.
-- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.
+- 저자: AutoBridge Export Editorial Team · [authors](/authors/) · [편집 정책](/editorial-policy/)
+- 최종 검토일: 2026-09-06
+- 참고 시장: 중국
+- 검증 방법: 확정된 규칙은 규제기관과 정부의 1차 자료에 기반하며, 매체 간 모순되는 수치는 단정하지 않고 확인 항목으로 남기고, 시간에 민감한 사항은 해당 기관의 최신 확인을 안내합니다.
+- 편집 기준: 위에 나열된 출처를 바탕으로 조사·작성했습니다(데스크 리서치; 직접 시운전·분해·수입을 주장하지 않음). 독립적으로 확인할 수 없는 사항은 사실로 단정하지 않고 확인 항목으로 제시합니다.
+- 투명성: 작성과 번역에 AI 지원을 사용했습니다. 본문은 데스크 리서치에 기반합니다. 명시적으로 기록된 경우를 제외하고 1차 테스트를 주장하지 않으며, 최종 인간 편집 검토는 아직 진행 중입니다.

@@ -1,53 +1,52 @@
 # Ijin Mobil Afrika Impor Batas Umur: Matriks Verifikasi Negara
 ## Metadata SEO
-- **Judul SEO**: Pengangkatan Mobil Afrika Impor Batas Umur oleh Negara: Kenya & Nigeria Verifikasi
-- **Deskripsi Meta**: Negara Afrika menggunakan batas umur, kemudi dan gerbang inspeksi - Kenya (8 tahun dari pendaftaran pertama) dan Nigeria (15 dari pembuatan) sekarang berlabuh ke sumber-sumber utama, pasar lain ditandai untuk verifikasi resmi.
-- **H1**: Batas Umur Mobil di seluruh Pasar Afrika: Matrix Dibangun untuk Diverifikasi, Belum Diingat
-- **Kata kunci utama**: africa menggunakan batas impor mobil usia oleh matriks negara
-- **Istilah pencarian sekunder**: Kenya menggunakan batas usia mobil 8 tahun pertama registrasi, mobil Nigeria mengimpor 15 tahun pembuatan, Ethiopia menggunakan larangan mobil, Ghana OBD impor, umur kendaraan Mozambik, batas umur mobil Sudan, Côte d 'Ivoire CoC, KEBS DKS 1515
-- **URL yang disarankan**: /guides/africa-used-car-import-age-limits/
-- **Maksud pencarian**: Memahami Batas Umur Mobil di seluruh Pasar Afrika: Matrix Dibangun untuk Diverifikasi, Tidak Diingat: apa yang kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
-- **Saran tautan internal**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
-- **Saran gambar**: tabel matriks negara
-- **Teks ALT**: Matriks verifikasi usia mobil Afrika
-- **Cakupan skema**: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
-
+- Judul SEO: Pengangkatan Mobil Afrika Impor Batas Umur oleh Negara: Kenya & Nigeria Verifikasi
+- Deskripsi Meta: Negara Afrika menggunakan batas umur, kemudi dan gerbang inspeksi - Kenya (8 tahun dari pendaftaran pertama) dan Nigeria (15 dari pembuatan) sekarang berlabuh ke sumber-sumber utama, pasar lain ditandai untuk verifikasi resmi.
+- H1: Batas Umur Mobil di seluruh Pasar Afrika: Matrix Dibangun untuk Diverifikasi, Belum Diingat
+- Kata kunci utama: africa menggunakan batas impor mobil usia oleh matriks negara
+- Istilah pencarian sekunder: Kenya menggunakan batas usia mobil 8 tahun pertama registrasi, mobil Nigeria mengimpor 15 tahun pembuatan, Ethiopia menggunakan larangan mobil, Ghana OBD impor, umur kendaraan Mozambik, batas umur mobil Sudan, Côte d 'Ivoire CoC, KEBS DKS 1515
+- URL yang disarankan: /guides/africa-used-car-import-age-limits/
+- Maksud pencarian: Memahami Batas Umur Mobil di seluruh Pasar Afrika: Matrix Dibangun untuk Diverifikasi, Tidak Diingat: apa yang kendaraan / suku cadang harus memverifikasi, dokumen dan memutuskan sebelum berkomitmen untuk suatu perintah.
+- Saran tautan internal: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/china-vehicle-export-license-customs-documents/
+- Saran gambar: tabel matriks negara
+- Teks ALT: Matriks verifikasi usia mobil Afrika
+- Cakupan skema: Artikel (tidak ada Produk / Penawaran / Harga / Peringkat / Harga)
 ## Baca Evidence Ceiling Sebelum Tabel
-Perubahan batas usia, dipaksa berbeda dengan pelabuhan, dan sering salah mengutip dalam rangkuman bebas-forwarder. Halaman ini memisahkan dua bukti. ** Kenya dan Nigeria sekarang berlabuh ke tujuan sumber-sumber utama ** otoritas pendapatan bea cukai dan standar tubuh) dan usia mereka dinyatakan di bawah. ** Setiap baris negara lain tetap menjadi nilai yang dilaporkan dari forwarder media material ** dan ditandai untuk verifikasi resmi - itu tidak dinyatakan sebagai fakta diselesaikan. Tidak ada aturan "Afrika" daerah tunggal: setiap negara mengatur usia sendiri, aturan kemudi dan gerbang inspeksi, dan judul tunggal "X tahun" tanpa dasar itu tidak aman.
+Perubahan batas usia, dipaksa berbeda dengan pelabuhan, dan sering salah mengutip dalam rangkuman bebas-forwarder. Halaman ini memisahkan dua bukti. Kenya dan Nigeria sekarang berlabuh ke tujuan sumber-sumber utama otoritas pendapatan bea cukai dan standar tubuh) dan usia mereka dinyatakan di bawah. Setiap baris negara lain tetap menjadi nilai yang dilaporkan dari forwarder media material dan ditandai untuk verifikasi resmi - itu tidak dinyatakan sebagai fakta diselesaikan. Tidak ada aturan "Afrika" daerah tunggal: setiap negara mengatur usia sendiri, aturan kemudi dan gerbang inspeksi, dan judul tunggal "X tahun" tanpa dasar itu tidak aman.
 ## Pertama: Tahu yang "Umur" Apakah Menjadi Diukur
 Sebelum angka apapun penting, membangun dasar - kontras Kenya Nigeria di bawah ini menunjukkan mengapa hal ini penting:
-- ** Tahun manufaktur vs tahun pertama-pendaftaran ** - Kenya dihitung dari ** Pendaftaran pertama ** larangan Nigeria diukur dari ** tahun pembuatan *. Ini tidak bisa ditukar.
-- ** Gap antara pembuatan dan pendaftaran pertama ** - standar Kenya juga topi berapa lama setelah pembuatan unit mungkin pertama terdaftar dan masih memenuhi syarat.
-- ** Tanggal referensi ** - usia pada pengiriman, pada tanggal B L, atau pada saat kedatangan; jawabannya dapat berbeda dengan bulan.
-- ** Perbedaan kendaraan-kelas ** - mobil penumpang, pickup barang ringan, bus truk berat sering membawa batas yang berbeda (Kode menentukan aturan terpisah untuk barang dan kendaraan khusus).
+- Tahun manufaktur vs tahun pertama-pendaftaran - Kenya dihitung dari Pendaftaran pertama larangan Nigeria diukur dari tahun pembuatan *. Ini tidak bisa ditukar.
+- Gap antara pembuatan dan pendaftaran pertama - standar Kenya juga topi berapa lama setelah pembuatan unit mungkin pertama terdaftar dan masih memenuhi syarat.
+- Tanggal referensi - usia pada pengiriman, pada tanggal B L, atau pada saat kedatangan; jawabannya dapat berbeda dengan bulan.
+- Perbedaan kendaraan-kelas - mobil penumpang, pickup barang ringan, bus truk berat sering membawa batas yang berbeda (Kode menentukan aturan terpisah untuk barang dan kendaraan khusus).
 ## Matriks Negara
 | Negara | Mengarahkan | Aturan usia | Basis keyakinan |
-|---|---|---|---|
-| ** Kenya ** | RHD (pengecualian terbatas untuk kendaraan khusus-tujuan) | ** Lebih dari 8 tahun dari tahun pendaftaran pertama = tidak diperbolehkan untuk transportasi (kendaraan penumpang) **; kesenjangan antara tahun pertama pendaftaran dan tahun pembuatan ditutup pada satu tahun | ** VERIFIED - primer **: KEBS DKS 1515: 2025 # 4.7.1–4.7.2, dikonfirmasikan oleh KRA (Pemberitahuan Hukum 78/2005; KS 1515) |
-| ** Nigeria ** | Konfirmasikan ulang terhadap instruksi pabean saat ini sebelum mengutip (pengisi kemudi portal resmi harus diperiksa secara langsung; jangan asumsikan) | ** Digunakan kendaraan motor lebih dari 15 tahun (dari tahun pembuatan) dilarang dari impor ** sebuah levy NAC berlaku | ** tercecerkan (usia) - primer **: Nigeria JALAN JALAN TELIVER SOROTLE Portal; diyakinkan oleh Kepolisian Nigeria yang menuntut agar daftar reproduksi larangan-Bea Cukai. Mengarahkan kata-kata kiri untuk konfirmasi langsung |
-| ** Ethiopia ** | - | Dilaporkan 5 tahun, dengan pergeseran dilaporkan menuju membatasi kendaraan bahan bakar impor (arah) | TIME _ ENSITIF non-primary - verify |
-| ** Ghana ** | - | Dilaporkan 10 tahun; wajib ** OBD-II ** inspeksi dan Eropa - 3-or-above emisi dilaporkan dari 2023 | TIME _ ENSITIF non-primary - verifikasi standar saat ini |
-| ** Mozambique *  | - | Dilaporkan 8 tahun dari pendaftaran ke ekspor; asli-pabrik maintengence-record chain dilaporkan | SINGLE- SOURCE non-primary - verify |
-|  Sudan   | - | Dilaporkan berhenti: penumpang 7 pickup-barang-lampu £8 bus-truk £10 tahun, dengan biaya masih bisa dibayar bahkan ketika compliant | SINGLE- SOURCE non-primary - verify |
-|   Côte d 'Ivoire   | - | ** Tidak ada topi umur tetap tunggal dilaporkan **, tapi wajib ** CoC ** konformitas dan dilacak catatan pemeliharaan | SINGLE- SOURCE non-primer - verifikasi program CoC |
-Konflik pemalang pertama yang dilakukan 7-vs-8 (Kenya) dan 12-vs-15 (Nigeria) telah diselesaikan dengan mendukung instrumen utama ***, bukan dengan memilih satu orang dari Forwarder: Kenya = 8 dari pendaftaran pertama (KEBS KRA), Nigeria = 15 dari pembuatan (Nigeria Jendela Tunggal Bea Cukai).
+| --- | --- | --- | --- |
+| Kenya | RHD (pengecualian terbatas untuk kendaraan khusus-tujuan) | Lebih dari 8 tahun dari tahun pendaftaran pertama = tidak diperbolehkan untuk transportasi (kendaraan penumpang) ; kesenjangan antara tahun pertama pendaftaran dan tahun pembuatan ditutup pada satu tahun | - primer : KEBS DKS 1515: 2025 # 4.7.1–4.7.2, dikonfirmasikan oleh KRA (Pemberitahuan Hukum 78/2005; KS 1515) |
+| Nigeria | Konfirmasikan ulang terhadap instruksi pabean saat ini sebelum mengutip (pengisi kemudi portal resmi harus diperiksa secara langsung; jangan asumsikan) | Digunakan kendaraan motor lebih dari 15 tahun (dari tahun pembuatan) dilarang dari impor sebuah levy NAC berlaku | tercecerkan (usia) - primer : Nigeria JALAN JALAN TELIVER SOROTLE Portal; diyakinkan oleh Kepolisian Nigeria yang menuntut agar daftar reproduksi larangan-Bea Cukai. Mengarahkan kata-kata kiri untuk konfirmasi langsung |
+| Ethiopia | - | Dilaporkan 5 tahun, dengan pergeseran dilaporkan menuju membatasi kendaraan bahan bakar impor (arah) | TIME _ ENSITIF non-primary - verify |
+| Ghana | - | Dilaporkan 10 tahun; wajib OBD-II inspeksi dan Eropa - 3-or-above emisi dilaporkan dari 2023 | TIME _ ENSITIF non-primary - verifikasi standar saat ini |
+| Mozambique * | - | Dilaporkan 8 tahun dari pendaftaran ke ekspor; asli-pabrik maintengence-record chain dilaporkan | SINGLE- SOURCE non-primary - verify |
+| Sudan | - | Dilaporkan berhenti: penumpang 7 pickup-barang-lampu £8 bus-truk £10 tahun, dengan biaya masih bisa dibayar bahkan ketika compliant | SINGLE- SOURCE non-primary - verify |
+| Côte d 'Ivoire | - | Tidak ada topi umur tetap tunggal dilaporkan, tapi wajib CoC konformitas dan dilacak catatan pemeliharaan | SINGLE- SOURCE non-primer - verifikasi program CoC |
+Konflik pemalang pertama yang dilakukan 7-vs-8 (Kenya) dan 12-vs-15 (Nigeria) telah diselesaikan dengan mendukung instrumen utama *, bukan dengan memilih satu orang dari Forwarder: Kenya = 8 dari pendaftaran pertama (KEBS KRA), Nigeria = 15 dari pembuatan (Nigeria Jendela Tunggal Bea Cukai).
 ## The Relisable Verifikasi Route (menggunakannya untuk setiap pengiriman)
-1. ** Instrumen Primer: * tujuan ** Otoritas bea cukai atau standar tubuh ** Peraturan impor sekarang atau gazette - untuk Kenya yang bahan KEBS KRA, untuk Nigeria Daftar larangan Tunggal Bea Cukai - bukan blog barang.
-2. ** Perbaiki dasar: ** pembuatan vs pendaftaran pertama, produsen -to-pendaftaran gap, tanggal referensi, dan kelas kendaraan.
-3. ** Steering-side legalitas: ** Kenya adalah RHD dengan pengecualian kendaraan kecil; untuk Nigeria kembali mengkonfirmasi aturan tertulis saat ini daripada mengandalkan asumsi umum - sebuah kemudi tidak cocok dapat ditolak tanpa memandang usia.
-4. ** Inspektion conformitas gate: ** Inspeksi tujuan Nigeria, Ghana * OBD-II **, Côte d 'Ivoire ** CoC **, Kenya' s KEBS jev-rute impor berkualitas, dan setiap destination- tubuh PSI yang ditunjuk (lihat panduan PSI) - mengkonfirmasi mandat program dan inspektur.
-5. ** Re-verify pada urutan waktu dan lagi sebelum pengiriman: * aturan usia adalah waktu- sensitif; aturan yang valid di quotation dapat berubah sebelum berlayar.
+1. Instrumen Primer: * tujuan Otoritas bea cukai atau standar tubuh Peraturan impor sekarang atau gazette - untuk Kenya yang bahan KEBS KRA, untuk Nigeria Daftar larangan Tunggal Bea Cukai - bukan blog barang.
+2. Perbaiki dasar: pembuatan vs pendaftaran pertama, produsen -to-pendaftaran gap, tanggal referensi, dan kelas kendaraan.
+3. Steering-side legalitas: Kenya adalah RHD dengan pengecualian kendaraan kecil; untuk Nigeria kembali mengkonfirmasi aturan tertulis saat ini daripada mengandalkan asumsi umum - sebuah kemudi tidak cocok dapat ditolak tanpa memandang usia.
+4. Inspektion conformitas gate: Inspeksi tujuan Nigeria, Ghana * OBD-II, Côte d 'Ivoire CoC, Kenya' s KEBS jev-rute impor berkualitas, dan setiap destination- tubuh PSI yang ditunjuk (lihat panduan PSI) - mengkonfirmasi mandat program dan inspektur.
+5. Re-verify pada urutan waktu dan lagi sebelum pengiriman: * aturan usia adalah waktu- sensitif; aturan yang valid di quotation dapat berubah sebelum berlayar.
 ## Apa Petunjuk Panduan ini Menuntut Sebelum Membayar
-- Perlakukan Kenya dan Nigeria sebagai bentuk primary-anchored tapi masih tetap mengkonfirmasi ulang ** kelas kendaraan yang tepat dan tanggal referensi ** secara tertulis; memperlakukan setiap sel matriks sebagai ** nilai pencitraan ** untuk digantikan oleh figur yang telah diverifikasi secara resmi.
+- Perlakukan Kenya dan Nigeria sebagai bentuk primary-anchored tapi masih tetap mengkonfirmasi ulang kelas kendaraan yang tepat dan tanggal referensi secara tertulis; memperlakukan setiap sel matriks sebagai nilai pencitraan untuk digantikan oleh figur yang telah diverifikasi secara resmi.
 - Jangan gunakan kembali forwarder lama 7-year (Kenya) atau 12-year (Nigeria) figure - mereka yang disusuhi oleh instrumen utama yang dikutip di sini.
-- Konfirmasi ** sisi kemudi, program inspeksi dan rantai dokumen ** bersama usia; di mana portal resmi wording adalah ambigu (Nigeria kemudi), mendapatkan jawaban yang tertulis.
-- Menangkap tanggal pembuatan ** dan tanggal pertama pendaftaran ** dari dokumen VIN pendaftaran selama PSI, sehingga usia dihitung dengan benar.
+- Konfirmasi sisi kemudi, program inspeksi dan rantai dokumen bersama usia; di mana portal resmi wording adalah ambigu (Nigeria kemudi), mendapatkan jawaban yang tertulis.
+- Menangkap tanggal pembuatan dan tanggal pertama pendaftaran dari dokumen VIN pendaftaran selama PSI, sehingga usia dihitung dengan benar.
 ## Pertanyaan Yang Sering Muncul
-** Apa yang digunakan Kenya-mobil usia batas? ** Material standar primer (KEBS DKS 1515: 2025 = 4.7.1, dikonfirmasikan oleh KRA) mengatur kendaraan penumpang di tidak lebih dari ** delapan tahun dari tahun pendaftaran pertama **, dengan satu tahun tutup pada produsen - untuk-pertama-pendaftaran gap; khusus - tujuan pengecualian yang sempit.
-** Apa gunanya mobil Nigeria batas usia? Nigeria Portal Perdagangan Jendela Tunggal menyatakan kendaraan lebih dari 15 usia tahun dilarang dari impor **, diukur dari tahun pembuatan, dengan tingkat NAC; Bea Cukai melarang-daftar reproduksi konsisten pada 15-year angka.
-** Mengapa Kenya dan Nigeria menggunakan titik awal yang berbeda? ** Langkah Kenya dari pendaftaran pertama Nigeria dari *** produksi ** - selalu menghitung usia pada tujuan sendiri.
-** Apakah satu aturan mencakup seluruh Afrika? ** Tidak - setiap negara menetapkan sendiri dasar usia, aturan kemudi dan gerbang inspeksi; di luar Kenya dan Nigeria baris-baris di sini dilaporkan, nilai-nilai non-primer untuk memverifikasi secara resmi.
-** Apa yang penting selain usia? ** Sisi kemudi, produksi... basis pendaftaran, kelas kendaraan, dan mandat inspeksi program CoC.
+ Apa yang digunakan Kenya-mobil usia batas? Material standar primer (KEBS DKS 1515: 2025 = 4.7.1, dikonfirmasikan oleh KRA) mengatur kendaraan penumpang di tidak lebih dari delapan tahun dari tahun pendaftaran pertama, dengan satu tahun tutup pada produsen - untuk-pertama-pendaftaran gap; khusus - tujuan pengecualian yang sempit.
+ Apa gunanya mobil Nigeria batas usia? Nigeria Portal Perdagangan Jendela Tunggal menyatakan kendaraan lebih dari 15 usia tahun dilarang dari impor, diukur dari tahun pembuatan, dengan tingkat NAC; Bea Cukai melarang-daftar reproduksi konsisten pada 15-year angka.
+ Mengapa Kenya dan Nigeria menggunakan titik awal yang berbeda? Langkah Kenya dari pendaftaran pertama Nigeria dari * produksi - selalu menghitung usia pada tujuan sendiri.
+ Apakah satu aturan mencakup seluruh Afrika? Tidak - setiap negara menetapkan sendiri dasar usia, aturan kemudi dan gerbang inspeksi; di luar Kenya dan Nigeria baris-baris di sini dilaporkan, nilai-nilai non-primer untuk memverifikasi secara resmi.
+ Apa yang penting selain usia? Sisi kemudi, produksi... basis pendaftaran, kelas kendaraan, dan mandat inspeksi program CoC.
 ## Rekor Gambar
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
 - _ URL ORIGINAL _ IMAGE: tidak ditangkap
@@ -61,38 +60,26 @@ Konflik pemalang pertama yang dilakukan 7-vs-8 (Kenya) dan 12-vs-15 (Nigeria) te
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
 - BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — African used-car import age limits, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — African used-car import age limits, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — African used-car import age limits, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — African used-car import age limits, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — African used-car import age limits, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜African used-car import age limits, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜African used-car import age limits, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — African used-car import age limits, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — African used-car import age limits, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — African used-car import age limits, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — African used-car import age limits, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜African used-car import age limits, 汽车出口采购指南
-
 ## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
-|---|---|---|---|---|---|---|
-| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFIED | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
-| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Plain-language guidance on Kenya age basis and standards |
-| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFIED | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
-| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS used-vehicle import notice and inspection route |
-| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFIED | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
-| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
-| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | single source | Non-primary reported values for countries left flagged |
-| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | single source | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
-| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | single source | Sudan reported 7/8/10 tiered rule (non-primary) |
-| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | single source | No fixed cap; CoC + records (non-primary) |
-*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Nigeria steering wording and every other country row remain non-primary and must be officially verified for the exact vehicle class before shipment; no regional generalisation is made.*
-## Editorial Review
-- *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
-- ** Terakhir ditinjau **: 2026-09-05
-- ** Referensi pasar ruang lingkup **: Kerangka Afrika Multi- negara (NEUNTRY _ SPECIFIIFIC; Kenya & Nigeria membaringkan; pasar lain ditandai; tidak ada generalisasi daerah)
-- ** Metode verifikasi **: Tujuan instrumen utama lebih disukai forwarder konflik (HS _ FIRST SOURCE _ SCOOR PRIMARY _ SOURCE _ SCOPE _ MUST _ MATCH); konflik hanya diselesaikan di mana teks primer ditangkap
-- ** Standar Editorial **: Penelitian dan ditulis dari sumber yang terdaftar di atas (penelitian meja; tidak ada mengemudi tangan pertama, menangis atau impor diklaim). Kepercayaan sumber ditampilkan per baris; setiap titik yang tidak dapat secara independen dikonfirmasi sebagai item verifikasi daripada yang dinyatakan sebagai fakta.
-- ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
+| Sumber | Organisasi | Pasar | URL | Dicek pada | Fakta yang didukung |
+| --- | --- | --- | --- | --- | --- |
+| Procedures for motor vehicle import (Legal Notice 78/2005; KS 1515 import-conformity route) | Kenya Revenue Authority (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | Kenya import-conformity legal basis (LN 78/2005, KS1515) and import procedure |
+| What you need to know when importing a motor vehicle (guidance; age basis & standards) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | Plain-language guidance on Kenya age basis and standards |
+| DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice | Kenya Bureau of Standards (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | §4.7.1 passenger vehicles >8 years from first registration barred; manufacture-to-reg gap ≤1 year; §4.7.2 special-vehicle exceptions |
+| Notice to Importers of Used/Secondhand Motor Vehicles | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | KEBS used-vehicle import notice and inspection route |
+| Automobiles import procedure (HS 8702–8705; vehicles over 15 years banned; NAC levy; steering wording to re-confirm) | Nigeria Single Window Trade Portal | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | Nigeria 15-year-from-manufacture ban; NAC levy; HS scope |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reproduction of Nigeria Customs list) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | Corroborates the 15-year manufacture-based prohibition (secondary reproduction) |
+| Multi-country age/steering reported values (Ethiopia/Sudan/Mozambique etc.) | Freight-forwarder material | Africa | https://m.11467.com/product/d39248249.htm | 2026-09-03 | Non-primary reported values for countries left flagged |
+| Ghana/Tanzania/Mozambique reported thresholds | Freight-forwarder material | Africa | https://m.11467.com/product/d53540859.htm | 2026-09-03 | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
+| Sudan tiered age limits and fees | Autohome contributor | Sudan | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | Sudan reported 7/8/10 tiered rule (non-primary) |
+| Côte d'Ivoire import (no hard cap / mandatory CoC) | Freight-forwarder material | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | No fixed cap; CoC + records (non-primary) |
+*Evidence tiers: Kenya (KEBS+KRA) and Nigeria age rule (Single Window + Customs reproduction) are primary-anchored. Redaksi kemudi Nigeria dan setiap baris negara lain tetap non-primer dan harus diverifikasi resmi untuk kelas kendaraan yang tepat sebelum pengiriman; no regional generalisation is made.*
+
+## Tinjauan Editorial
+- Penulis: AutoBridge Export Editorial Team · [authors](/authors/) · [Kebijakan editorial](/editorial-policy/)
+- Terakhir ditinjau: 2026-09-05
+- Pasar acuan: Afrika (multi-negara)
+- Metode verifikasi: Aturan yang telah ditetapkan bersandar pada sumber primer regulator dan pemerintah; angka media yang bertentangan disimpan sebagai butir verifikasi, bukan ditegaskan sebagai fakta; setiap butir yang sensitif waktu diarahkan ke otoritas terkait untuk konfirmasi terkini.
+- Standar Editorial: Diteliti dan ditulis dari sumber yang tercantum di atas (riset meja; tidak mengklaim pengujian langsung, pembongkaran, atau impor sendiri). Setiap poin yang tidak dapat dikonfirmasi secara independen disajikan sebagai butir verifikasi, bukan sebagai fakta yang ditegaskan.
+- Transparansi: Penyusunan dan penerjemahan menggunakan bantuan AI. Artikel ini berdasarkan riset meja. Tidak ada klaim pengujian langsung kecuali didokumentasikan secara eksplisit; tinjauan editorial manusia tahap akhir masih menunggu.
 #AutoBridge #ExportProcurement #AfricaImport #UsedCarImport #BuyerVerification

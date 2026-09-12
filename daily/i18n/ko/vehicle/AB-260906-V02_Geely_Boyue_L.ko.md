@@ -1,94 +1,68 @@
 # Geely Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
 ## SEO 메타데이터
-- **SEO 제목**: 간장 L 수출 Specs: 1.5T/2.0T 콤팩트 SUV 회사소개
-- **메타 설명**: Geely Boyue에 대한 중국 시장 참조 L 콤팩트 SUV: 치수 및화물, 1.5T 및 2.0T 변형 분리, 스타 레이 수출 이름의 동굴, VIN - 레벨 구매자 검사.
-- **H1**: 게릴리 Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
-- **주요 키워드**: Geely Boyue, 그리스 L 수출 specs
-- **보조 검색어**: Geely Boyue, 그리스 L 차원; Boyue L 1.5T 7DCT; Geely Starray 수출; 중국 소형 SUV; Boyue의 L 화물 공간
-- **추천 URL**: /vehicles/geely-boyue-l/
-- **검색 의도**: Geely Boyue L (4th-Generation Boyue)의 이해: 중국 시장 컴팩트 SUV 수출 참고: 차량 / 부품 수출자는 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
-- **내부 링크 제안**: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
-- **이미지 제안**: A Geely Boyue, 그리스 L 콤팩트 SUV 프로파일에서 지붕 및 휠 아치 클래딩을 보여주는
-- **ALT 텍스트**: 옆의 프로필 Geely Boyue L 컴팩트 SUV 일반 배경
-- **스키마 범위**: 제+차량
-
-The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (Atlas/Proton X70-family lineage) compact SUV — a five-door,  five-seat, 앞바퀴 드라이브 크로스오버는 가족-SUV 세그먼트의 심장에 겨냥합니다. 수출을 위해 그것을 저장하는 것은 주로 적당한 powertrain를 선택의 질문이고 다른 지정된 수출 시장 Starray를 가진 중국 차를 혼란하지 않습니다. 이 문서는 **중국 시장 참고 ** 만.
-
+- SEO 제목: 간장 L 수출 Specs: 1.5T/2.0T 콤팩트 SUV 회사소개
+- 메타 설명: Geely Boyue에 대한 중국 시장 참조 L 콤팩트 SUV: 치수 및화물, 1.5T 및 2.0T 변형 분리, 스타 레이 수출 이름의 동굴, VIN - 레벨 구매자 검사.
+- H1: 게릴리 Boyue L (4th-Generation Boyue): 중국 시장 컴팩트 SUV 수출 참고
+- 주요 키워드: Geely Boyue, 그리스 L 수출 specs
+- 보조 검색어: Geely Boyue, 그리스 L 차원; Boyue L 1.5T 7DCT; Geely Starray 수출; 중국 소형 SUV; Boyue의 L 화물 공간
+- 추천 URL: /vehicles/geely-boyue-l/
+- 검색 의도: Geely Boyue L (4th-Generation Boyue)의 이해: 중국 시장 컴팩트 SUV 수출 참고: 차량 / 부품 수출자는 확인해야하며, 문서 및 주문에 투입하기 전에 결정합니다.
+- 내부 링크 제안: /vehicles/geely-preface/, /vehicles/geely-galaxy-e8/, /guides/south-africa-vehicle-import-itac-sars-nrcs/
+- 이미지 제안: A Geely Boyue, 그리스 L 콤팩트 SUV 프로파일에서 지붕 및 휠 아치 클래딩을 보여주는
+- ALT 텍스트: 옆의 프로필 Geely Boyue L 컴팩트 SUV 일반 배경
+- 스키마 범위: 제+차량
+The Boyue L is the fourth-generation evolution of Geely's long-running Boyue (Atlas/Proton X70-family lineage) compact SUV — a five-door, five-seat, 앞바퀴 드라이브 크로스오버는 가족-SUV 세그먼트의 심장에 겨냥합니다. 수출을 위해 그것을 저장하는 것은 주로 적당한 powertrain를 선택의 질문이고 다른 지정된 수출 시장 Starray를 가진 중국 차를 혼란하지 않습니다. 이 문서는 중국 시장 참고 만.
 ## 몸, 차원 및 화물
-
 | 제품 정보 | 중국 시장 참고 값 | 시장 / MY / 트림 | 의논하기 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 외부 차원 | 4730 × 1910 × 1710 mm | 중국 · 크로스 검사 | CROSS_체크 |
 | 휠베이스 | 2785 mm | 중국 · 크로스 검사 | CROSS_체크 |
-| 양자외 | 650 L 석, 1610 L까지 접힌 리어 시트|중국 · 크로스 검사 | CROSS_체크 |
+| 양자외 | 650 L 석, 1610 L까지 접힌 리어 시트 | 중국 · 크로스 검사 | CROSS_체크 |
 | 의 | 5-door/5-seat 컴팩트 SUV, FWD | 담당자: Mr. Li | CROSS_체크 |
-
 ## Two petrol powertrains, 다른 증거 힘
-
-- ** 1.5T ** - 133 kW (181 PS) / 290 N·m 7-speed 젖은 이중 클러치, 92-RON 가솔린에서 실행; 독립적 인 중국 데이터베이스를 통해 교차 검사.
-- ** 2.0T ** - 160 kW (218 PS) / 325 N·m 7DCT; 현재 계약에 작성되기 전에 OEM 시트 / VIN에 대해 확인해야하는 단일 소스 수치.
-
+- 1.5T - 133 kW (181 PS) / 290 N·m 7-speed 젖은 이중 클러치, 92-RON 가솔린에서 실행; 독립적 인 중국 데이터베이스를 통해 교차 검사.
+- 2.0T - 160 kW (218 PS) / 325 N·m 7DCT; 현재 계약에 작성되기 전에 OEM 시트 / VIN에 대해 확인해야하는 단일 소스 수치.
 두 가지를 혼합하지 마십시오: 연료 등급, 전송 교정, 장비 및 가격 계층 모두 다릅니다. '2.0-litre Boyue L'을 요청한 구매자는 1.5T 장비 및 2.0T 전력의 혼합이 아닌 정확한 SKU 시트를 받게됩니다.
-
 ## Starray caveat: 수출 이름, 동일한 사양
-
-Geely는 ** Starray** 이름과 OEM 지역 브로셔의 수출 SUV를 판매합니다. (예: Gulf-market Starray 문서와 2.0T+7DCT 지역 교정). 모델 ID 규칙 당, 수출 명찰은 중국 Boyue L: 지역 길이, 휠베이스 및 전력과 포인트 비율을 설정하지 않습니다. 수출 시장 증거로 Starray 물자를 대우하고 중국 수를 그것의 사본 보다는 오히려 정확한 목적지 OEM 장을 요구하십시오.
-
+Geely는 Starray 이름과 OEM 지역 브로셔의 수출 SUV를 판매합니다. (예: Gulf-market Starray 문서와 2.0T+7DCT 지역 교정). 모델 ID 규칙 당, 수출 명찰은 중국 Boyue L: 지역 길이, 휠베이스 및 전력과 포인트 비율을 설정하지 않습니다. 수출 시장 증거로 Starray 물자를 대우하고 중국 수를 그것의 사본 보다는 오히려 정확한 목적지 OEM 장을 요구하십시오.
 ## 인테리어 및 실용 구매자는
-
 가족 SUV로서 Boyue L 값 이야기는 캐빈 공간, 650-to-1610-litre화물 유연성과 이중 스크린 조종석입니다. 트림 레벨은 화면, 좌석 및 드라이버 보조 콘텐츠를 모델 년으로 변경하기 때문에, 프로포테라에 구성 라인 (및 생산 날짜)를 지정합니다. 프로모션 장비 목록은 빌드 시트가 아닙니다.
-
 ## 국내 기준 가격
-
 어떤 중국 가이드 가격은 국내, 시간 과민한 참고이고 FOB 또는 CIF 숫자는 아닙니다. 프로모션 및 재고 상태 변경; 국내 태그를 변환 대신 대상 및 Incoterm과 현재 수출 인용을 요청하십시오.
-
 ## 결제 옵션
-
 1. 1.5T 또는 2.0T를 선택하고 일치하는 OEM / COC 데이터를 얻으십시오. 다음까지 VIN의 '확인'으로 2.0T 출력을 치료하십시오.
 2. LHD (중국 시장) 확인 - RHD Boyue L이이이 소스에 증거가 없습니다.
 3. 구매자가 '스타레이'라고 부르면 대상 시장 OEM 브로셔를 얻고 비교하십시오. - 중국 spec을 가정하지 마십시오.
 4. 배출 단계 (중국 6) 및 목적지 연료 / 배출 호환성을 검증합니다.
 5. 헤드 유닛 언어, 내비게이션 밴드 및 연결 기능을 확인하여 목적지에 연결하십시오.
 6. 계약, CoC, 송장 및 배송 서류를 통해 Reconcile VIN.
-
 ## 왜 SUV 주문에 대한이 문제
-
 컴팩트 SUV는 종종 혼합 트림 배치로 주문됩니다. 피할 수 있는 오류는 2.0T 구매 계약에 대한 1.5T 단위를 배송하거나 중국 빌드에서 Starray 시장 기능을 홍보합니다. SKU를 잠그고 입금하기 전에 시장 범위는 그 분쟁을 제거합니다.
-
 ## 의논하기
-**Geely Starray와 같은 Boyue L이 있습니까? 의 모든 것**
-
+Geely Starray와 같은 Boyue L이 있습니까? 의 모든 것
 Starray는 수출 시장 명찰입니다; 지역 별표는 중국 Boyue L과 다를 수 있습니다, 그래서 두는 동일으로 대우된 보다는 오히려 시장 별표 참조됩니다.
-
-** Boyue L은 얼마나 큰가요?**
-
+ Boyue L은 얼마나 큰가요?
 중국 시장 참고: 4730 × 1910 × 1710 mm, 2785 mm 휠베이스, 650 L (최대 1610 L)화물 공간.
-
-** 어떤 엔진이 제공됩니까? 의 모든 것**
-
+ 어떤 엔진이 제공됩니까? 의 모든 것
 1.5T (133 kW / 290 N·m, 7DCT, 92-RON) 및 2.0T (160 kW / 325 N·m)는 VIN에 의해 확인되어야합니다.
-
-** 나는 AWD인가? 의 모든 것**
-
+ 나는 AWD인가? 의 모든 것
 참고 중국 선은 앞 바퀴 드라이브입니다.
-
-**중국에서 오른쪽 드라이브에 오십니까? ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ****
-
+중국에서 오른쪽 드라이브에 오십니까?
 RHD 없음 중국 시장 버전은 여기에 증거; RHD 목적지에 대해 별도로 확인.
-
 ## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
-|---|---|---|---|---|---|---|
-| 第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号） | 搜狐汽车车型库 | CHINA | independent database | CROSS_CHECKED | https://db.auto.sohu.com/model_6881/config | 尺寸, 动力, 变速箱, 燃油标号  |
-| 2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L） | 汽车之家·车家号 | CHINA | media/industry | single source | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | 尺寸, 后备厢  |
-| 博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#） | 车主之家 | CHINA | media/industry | single source | https://m.16888.com/news/2026/0421/24893147.html | 1.5T动力, 变速箱  |
-| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | primary | VERIFIED | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | identity — OEM spec table; confirm market build |
-| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | primary | CROSS_CHECKED | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | identity — Starray is export nameplate; do not equate export numbers to China Boyue L |
-| 道路机动车辆生产企业及产品公告（查询入口） | 中华人民共和国工业和信息化部 | CN | primary | VERIFIED | https://www.miit.gov.cn/datainfo/cpgg/ | identity — verify homologated China variant |
+| 출처 | 기관 | 시장 | URL | 뒷받침되는 사실 |
+| --- | --- | --- | --- | --- |
+| 第四代博越Lparameters(4730×1910×1710, wheelbase2785; 1.5T 133kW/290N·m; 2.0T 160kW/325N·m; 7DCT; 92No.) | Sohu Auto model database | CHINA | https://db.auto.sohu.com/model_6881/config | dimensions, powertrain, gearbox, petrol/diesel标号 |
+| 2025model-year博越Ldimensions/wheelbase/cargo/trunk volume(4730/1910/1710, WB2785, cargo/trunk volume650-1610L) | Autohome·Chejiahao | CHINA | https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc | Dimensions, Cargo volume |
+| 博越L 1.5Tconfigurationtable(133kW/181Ps/290N·m, 7DCT, 92#) | Autohome Used Cars | CHINA | https://m.16888.com/news/2026/0421/24893147.html | 1.5TPowertrain, Gearbox |
+| Geely New Boyue L Specification Table (OEM) | Geely Auto Global | CN/EXPORT | https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf | OEM spec table; confirm market build |
+| Geely Starray Brochure (Qatar) — export-market reference | Geely Qatar | EXPORT | https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf | Starray is export nameplate; do not equate export numbers to China Boyue L |
+| MIIT Road Motor Vehicle Manufacturers and Products Catalogue(Search portal) | MIIT (China) | CN | https://www.miit.gov.cn/datainfo/cpgg/ | verify homologated China variant |
 
 ## 편집 리뷰
-- **Author**: AutoBridge 수출 편집부 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-06
-- **참고 시장 **: 중국 (China-market reference; Starray 为出口名但参数不与中国版等同)
-- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (rates, 요금, 명부, 손질 선, 국내 참고 가격)는 transacting의 앞에 공식적인 현재 페이지에 재확인되어야 합니다.
-- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.
+- 저자: AutoBridge Export Editorial Team · [authors](/authors/) · [편집 정책](/editorial-policy/)
+- 최종 검토일: 2026-09-06
+- 참고 시장: 중국
+- 검증 방법: 확정된 규칙은 규제기관과 정부의 1차 자료에 기반하며, 매체 간 모순되는 수치는 단정하지 않고 확인 항목으로 남기고, 시간에 민감한 사항은 해당 기관의 최신 확인을 안내합니다.
+- 편집 기준: 위에 나열된 출처를 바탕으로 조사·작성했습니다(데스크 리서치; 직접 시운전·분해·수입을 주장하지 않음). 독립적으로 확인할 수 없는 사항은 사실로 단정하지 않고 확인 항목으로 제시합니다.
+- 투명성: 작성과 번역에 AI 지원을 사용했습니다. 본문은 데스크 리서치에 기반합니다. 명시적으로 기록된 경우를 제외하고 1차 테스트를 주장하지 않으며, 최종 인간 편집 검토는 아직 진행 중입니다.
