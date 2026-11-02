@@ -79,7 +79,9 @@ def dedup_request(plan,root=ROOT):
     return packet
 
 def code_request(plan,sha,root=ROOT):
+    from .startup import BATCH_CONTEXT
     files={p:(root/p).read_text() for p in code_paths(root)}
+    files.update({p:(root/p).read_text() for p in BATCH_CONTEXT})
     return dict(stage='independent_candidate_code_review',code_sha=sha,plan=intake(plan),files=files,
         required_output=dict(decision='PASS | BLOCK',findings='list of {severity,file,detail,required_fix}',
                              human_reviewed=False,publish_approved=False),

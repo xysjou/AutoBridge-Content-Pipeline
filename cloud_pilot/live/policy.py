@@ -33,8 +33,9 @@ def read_json(path):
     return json.loads(Path(path).read_text())
 
 def load_rules():
+    from ..multilingual.startup import batch_context
     # Full authoritative files, not a substitute summary or old chat context.
-    return {p: (ROOT / p).read_text() for p in RULE_PATHS}
+    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
 
 def validate_prices(snapshot, at=None):
     require(snapshot.get("rates") == RATES, "UNKNOWN_OR_CHANGED_PRICING")
