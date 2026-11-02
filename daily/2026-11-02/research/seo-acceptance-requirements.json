@@ -1,0 +1,90 @@
+{
+  "schema": "autobridgetrade-seo-acceptance/1.0",
+  "confirmed_by": "User directive 2026-11-02",
+  "target_site": "https://autobridgetrade.top/",
+  "scope": "Every article and each of its twelve full-language URLs; applies to the one-recommendation plus one-buying-guide batch.",
+  "objective": "All intended-publication pages must meet applicable Google Search requirements and project quality checks. Actual crawling, indexing and ranking are measured outcomes, not guaranteed by a draft or test pass.",
+  "gates": [
+    {
+      "stage": "TOPIC",
+      "requirements": [
+        "Check the target site's actual URLs, existing articles and pending drafts for duplicate search intent.",
+        "Define a specific overseas buyer task; recommendations and buying guides must have distinct useful purposes."
+      ]
+    },
+    {
+      "stage": "CONTENT",
+      "requirements": [
+        "Extract facts from exact source pages and add original, evidence-bound buyer analysis rather than copying, stitching or merely translating third-party articles.",
+        "Match model year, market, trim, powertrain, units and test cycle; no fabricated prices, stock, warranty, driving experience or universal export eligibility.",
+        "Use natural language and descriptive titles/headings; avoid keyword stuffing and repeated article templates.",
+        "Project word/source-count thresholds are editorial controls, not Google's indexing requirements."
+      ]
+    },
+    {
+      "stage": "TWELVE_LANGUAGES",
+      "requirements": [
+        "Each locale has a separate stable URL and complete natural-language body, metadata, tables, FAQ, sources and appropriate image text.",
+        "Review semantic quality, numbers and fact scope in every locale; metadata-only translation is incomplete.",
+        "Validate hreflang codes, self/alternate entries and reciprocal links; canonical signals must identify the intended page without incorrectly consolidating distinct language versions into English."
+      ]
+    },
+    {
+      "stage": "LIVE_TECHNICAL",
+      "requirements": [
+        "Verify the actual deployed URL returns HTTP 200 and exposes the approved substantive content to crawlers.",
+        "Verify intended-publication URLs have no unintended crawler block, noindex/X-Robots-Tag, login wall, redirect loop or soft 404.",
+        "Check canonical, relevant crawlable internal links, sitemap inclusion and correct language mapping.",
+        "Check mobile rendering, broken resources and page usability; structured data must match visible truthful content and applicable Google policies.",
+        "Do not remove quality-hold noindex from existing pages merely to increase the indexed count."
+      ]
+    },
+    {
+      "stage": "GOOGLE_RESULT",
+      "requirements": [
+        "Use the correct autobridgetrade.top Search Console property and per-URL evidence to record discovery/crawl/index state, Google-selected canonical and indexing reasons.",
+        "Track impressions, clicks and query relevance separately from index eligibility and actual indexed status.",
+        "For eligible pages not indexed, diagnose the specific content, duplication, access or canonical cause; repair failures while preserving clean pages.",
+        "Do not call publication, sitemap submission, request indexing, machine QA or HTTP 200 proof of actual Google indexing."
+      ]
+    }
+  ],
+  "per_url_record_fields": [
+    "article_id",
+    "locale",
+    "live_url",
+    "content_version_hash",
+    "content_qa_status",
+    "locale_qa_status",
+    "live_technical_status",
+    "hreflang_canonical_status",
+    "google_indexing_status",
+    "gsc_checked_at",
+    "google_selected_canonical",
+    "blocking_reason",
+    "next_action"
+  ],
+  "current_status": {
+    "requirements_recorded": true,
+    "implementation_alignment": "PENDING",
+    "new_articles_written": 0,
+    "new_live_urls": 0,
+    "live_technical_validation": "NOT_PERFORMED_FOR_NEW_ARTICLES",
+    "google_indexing": "UNVERIFIED",
+    "real_openai_calls": 0
+  },
+  "google_primary_references": [
+    "https://developers.google.com/search/docs/essentials/technical",
+    "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+    "https://developers.google.com/search/docs/essentials/spam-policies",
+    "https://developers.google.com/search/docs/specialty/international/localized-versions",
+    "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites"
+  ],
+  "authorization": {
+    "no_main_change": true,
+    "no_website_publication": true,
+    "no_first_real_api_call": true,
+    "no_new_automation": true
+  },
+  "note": "Acceptance requirements only. Recording this specification does not implement the gates or certify any existing/new page. No website settings, article versions, CURRENT pointers or existing workflows are modified."
+}
