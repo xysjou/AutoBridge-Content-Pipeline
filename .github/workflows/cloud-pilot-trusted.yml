@@ -1,0 +1,93 @@
+name: AutoBridge pinned protected runtime
+on:
+  workflow_call:
+    inputs:
+      mode:
+        type: string
+        required: true
+permissions:
+  contents: read
+jobs:
+  inspect:
+    if: inputs.mode == 'preflight'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA || github.sha }}
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: '3.11'
+      - run: python3 -m cloud_pilot.multilingual preflight
+  account-check:
+    if: >-
+      inputs.mode == 'account-check' &&
+      vars.AUTOBRIDGE_ACCOUNT_CHECK_ENABLED == 'true' &&
+      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'
+    environment: autobridge-pilot
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: '3.11'
+      - name: Inspect only the two configured model metadata endpoints
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
+          AUTOBRIDGE_ACCOUNT_CHECK_APPROVED: 'true'
+        run: python3 -m cloud_pilot.multilingual account-check
+  execute:
+    if: >-
+      (inputs.mode == 'execute' || inputs.mode == 'audit') &&
+      vars.AUTOBRIDGE_LIVE_ENABLED == 'true' &&
+      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'
+    environment: autobridge-pilot
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: '3.11'
+      - name: Fetch reviewed control documents from a separate immutable commit
+        env:
+          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
+          AUTOBRIDGE_APPROVAL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}
+          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
+        run: python3 -m cloud_pilot.multilingual.control
+      - name: Validate exact run and workflow lease before exposing the project key
+        env:
+          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
+          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}
+        run: >-
+          python3 -m cloud_pilot.multilingual preauthorize
+          --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json"
+          --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json"
+          --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"
+      - name: Execute approved phase with the existing whole-program budget
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
+          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}
+          APPROVED_RUN_MODE: ${{ inputs.mode }}
+        run: >-
+          python3 -m cloud_pilot.multilingual "$APPROVED_RUN_MODE"
+          --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json"
+          --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json"
+          --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"
