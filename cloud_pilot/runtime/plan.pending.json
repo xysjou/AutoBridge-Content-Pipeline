@@ -1,0 +1,19 @@
+{
+  "schema": "autobridge-real-pilot/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "history_hash": "8537d7205cd386981ba08b121cb7892e5ffe3505d0b55288e134bfdca30af956",
+  "semantic_dedup_status": "PENDING",
+  "articles": [],
+  "authorized_redirect_urls": [],
+  "note": "Pending real intake: no invented topics, sources or semantic approval. This file cannot execute."
+}

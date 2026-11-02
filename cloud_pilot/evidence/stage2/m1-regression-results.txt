@@ -1,0 +1,46 @@
+test_blocked_fact (test_pilot.PilotTests.test_blocked_fact) ... ok
+test_bounded_retries_and_unknown_price (test_pilot.PilotTests.test_bounded_retries_and_unknown_price) ... ok
+test_cas_real_threads_only_one_wins (test_pilot.PilotTests.test_cas_real_threads_only_one_wins) ... ok
+test_conflicting_fact (test_pilot.PilotTests.test_conflicting_fact) ... ok
+test_cross_check_same_parent (test_pilot.PilotTests.test_cross_check_same_parent) ... ok
+test_delivery_blocks_stale_review_and_main (test_pilot.PilotTests.test_delivery_blocks_stale_review_and_main) ... ok
+test_disabled_adapters_ignore_any_key (test_pilot.PilotTests.test_disabled_adapters_ignore_any_key) ... ok
+test_github_cas_transport_lease (test_pilot.PilotTests.test_github_cas_transport_lease) ... ok
+test_global_cap_across_articles_reruns (test_pilot.PilotTests.test_global_cap_across_articles_reruns) ... ok
+test_history_collision_gates (test_pilot.PilotTests.test_history_collision_gates) ... ok
+test_idempotency_conflict (test_pilot.PilotTests.test_idempotency_conflict) ... ok
+test_independent_identity (test_pilot.PilotTests.test_independent_identity) ... ok
+test_journal_missing_tampered_and_append_only (test_pilot.PilotTests.test_journal_missing_tampered_and_append_only) ... ok
+test_market_year_trim_cycle (test_pilot.PilotTests.test_market_year_trim_cycle) ... ok
+test_max_two_revisions (test_pilot.PilotTests.test_max_two_revisions) ... ok
+test_missing_history (test_pilot.PilotTests.test_missing_history) ... ok
+test_new_workflow_manual_read_only (test_pilot.PilotTests.test_new_workflow_manual_read_only) ... ok
+test_original_files_preserved (test_pilot.PilotTests.test_original_files_preserved) ... ok
+test_output_path_and_existing_artifact (test_pilot.PilotTests.test_output_path_and_existing_artifact) ... ok
+test_reasoning_is_output_subset_not_double_counted (test_pilot.PilotTests.test_reasoning_is_output_subset_not_double_counted) ... ok
+test_rehashed_unbound_body (test_pilot.PilotTests.test_rehashed_unbound_body) ... ok
+test_research_failure_stops_writing_and_cost (test_pilot.PilotTests.test_research_failure_stops_writing_and_cost) ... ok
+test_research_lock (test_pilot.PilotTests.test_research_lock) ... ok
+test_research_packet_changed (test_pilot.PilotTests.test_research_packet_changed) ... ok
+test_review_binds_hash (test_pilot.PilotTests.test_review_binds_hash) ... ok
+test_review_no_writer_evaluation (test_pilot.PilotTests.test_review_no_writer_evaluation) ... ok
+test_schema_rules_and_approval (test_pilot.PilotTests.test_schema_rules_and_approval) ... ok
+test_separate_process_review (test_pilot.PilotTests.test_separate_process_review) ... ok
+test_similarity_full_body (test_pilot.PilotTests.test_similarity_full_body) ... ok
+test_source_depth_and_normalization (test_pilot.PilotTests.test_source_depth_and_normalization) ... ok
+test_source_direct_support (test_pilot.PilotTests.test_source_direct_support) ... ok
+test_source_name_integrity (test_pilot.PilotTests.test_source_name_integrity) ... ok
+test_source_scope (test_pilot.PilotTests.test_source_scope) ... ok
+test_success_cannot_retry (test_pilot.PilotTests.test_success_cannot_retry) ... ok
+test_t2_cannot_verify (test_pilot.PilotTests.test_t2_cannot_verify) ... ok
+test_t2_is_not_official (test_pilot.PilotTests.test_t2_is_not_official) ... ok
+test_time_sensitive_currentness (test_pilot.PilotTests.test_time_sensitive_currentness) ... ok
+test_two_pilots_and_idempotent_rerun (test_pilot.PilotTests.test_two_pilots_and_idempotent_rerun) ... ok
+test_uncertain_failure_holds_and_blocks_program (test_pilot.PilotTests.test_uncertain_failure_holds_and_blocks_program) ... ok
+test_usage_unknown_does_not_release (test_pilot.PilotTests.test_usage_unknown_does_not_release) ... ok
+test_writer_cannot_add_claim (test_pilot.PilotTests.test_writer_cannot_add_claim) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 1.231s
+
+OK

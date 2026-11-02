@@ -1,0 +1,9 @@
+{
+  "schema": "autobridge-real-pilot/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "cap_nano_usd": 3000000000,
+  "actual_prior_nano_usd": 0,
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "m1_mock_journal_hash": "f5399eeb80133cb2b9a20927edd75fb9b20534472626fe2319cabaf319cc54a2",
+  "events": []
+}
