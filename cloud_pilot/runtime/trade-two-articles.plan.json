@@ -1,0 +1,255 @@
+{
+  "schema": "autobridge-real-pilot/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "history_hash": "8537d7205cd386981ba08b121cb7892e5ffe3505d0b55288e134bfdca30af956",
+  "semantic_dedup_status": "PENDING",
+  "articles": [
+    {
+      "article_id": "PILOT-Q05-2026",
+      "locale": "en",
+      "version": 1,
+      "topic_key": "q05-2026-bev-urban-buying-reference",
+      "content_type": "VEHICLE_RECOMMENDATION",
+      "target_site": "https://autobridgetrade.top/",
+      "search_intent": "Evaluate the exact China-market 2026 Q05 BEV as an urban sourcing candidate, including discontinued-listing and stock checks",
+      "buyer_task": "Decide whether to shortlist identified Q05 stock after checking charging, service and exact trim",
+      "proposed_url": "/pilot-only/pilot-q05-2026/",
+      "sources": [
+        {
+          "source_id": "S1",
+          "url": "https://car.autohome.com.cn/config/spec/74130.html",
+          "publisher": "Autohome",
+          "parent_org": "Autohome",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "BEV_REFERENCE",
+            "trim": "506激光Ultra+",
+            "powertrain": "BEV",
+            "test_cycle": "CLTC"
+          },
+          "permitted_use": "Exact China-market reference configuration; motor, drive, battery, CLTC, dimensions and seats."
+        },
+        {
+          "source_id": "S2",
+          "url": "https://www.autohome.com.cn/8241/",
+          "publisher": "Autohome",
+          "parent_org": "Autohome",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "BEV_REFERENCE",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "BEV",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Model-family and market-listing context; not proof of stock or an export price."
+        },
+        {
+          "source_id": "S3",
+          "url": "https://www.yoojia.com/m-145670",
+          "publisher": "YooJia / Baidu",
+          "parent_org": "YooJia / Baidu",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "BEV_REFERENCE",
+            "trim": "506激光Ultra+",
+            "powertrain": "BEV",
+            "test_cycle": "CLTC"
+          },
+          "permitted_use": "Exact reference model; page marked discontinued at retrieval."
+        },
+        {
+          "source_id": "S4",
+          "url": "https://www.yoojia.com/parameter/m-145670.html",
+          "publisher": "YooJia / Baidu",
+          "parent_org": "YooJia / Baidu",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "BEV_REFERENCE",
+            "trim": "506激光Ultra+",
+            "powertrain": "BEV",
+            "test_cycle": "CLTC"
+          },
+          "permitted_use": "Second configuration database corroborating the core reference figures."
+        },
+        {
+          "source_id": "S5",
+          "url": "https://www.changan.com.cn/qiyuan/",
+          "publisher": "Changan",
+          "parent_org": "Changan",
+          "tier": "T1",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "BEV_REFERENCE",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "BEV",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Manufacturer family-level corroboration only; not period-specific evidence of every 2026 feature."
+        },
+        {
+          "source_id": "S6",
+          "url": "https://carnewschina.com/2025/11/21/2026-changan-nevo-q05-electric-suv-with-506km-range-launched-starting-from-11200-usd/",
+          "publisher": "CarNewsChina",
+          "parent_org": "CarNewsChina",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "BEV_REFERENCE",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "BEV",
+            "test_cycle": "CLTC"
+          },
+          "permitted_use": "Historical context only; launch prices not reused as current or export prices."
+        }
+      ]
+    },
+    {
+      "article_id": "PILOT-REEFER-GUIDE",
+      "locale": "en",
+      "version": 1,
+      "topic_key": "refrigerated-truck-complete-vehicle-procurement",
+      "content_type": "BUYING_GUIDE",
+      "target_site": "https://autobridgetrade.top/",
+      "search_intent": "Specify and assess a complete refrigerated truck bought from China for a defined route and cargo",
+      "buyer_task": "Compare payload, usable body, cooling duty, integration and documented acceptance",
+      "proposed_url": "/pilot-only/pilot-reefer-guide/",
+      "sources": [
+        {
+          "source_id": "S1",
+          "url": "https://www.360che.com/tech/190702/113437.html",
+          "publisher": "Truck Home",
+          "parent_org": "Truck Home",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Historical technical background; chassis/body/unit relationship and traditional power arrangements. No universal body-length threshold adopted."
+        },
+        {
+          "source_id": "S2",
+          "url": "https://www.360che.com/tech/181102/103284.html",
+          "publisher": "Truck Home",
+          "parent_org": "Truck Home",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Historical insulated-body and airflow background; not current law or a universal temperature specification."
+        },
+        {
+          "source_id": "S3",
+          "url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications/",
+          "publisher": "Carrier",
+          "parent_org": "Carrier",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Example of ratings with stated conditions and diesel/standby modes; not selection approval for any offered truck."
+        },
+        {
+          "source_id": "S4",
+          "url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/installation-instructions/",
+          "publisher": "Carrier",
+          "parent_org": "Carrier",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Equipment-family-specific installation references; no DIY conversion instructions."
+        },
+        {
+          "source_id": "S5",
+          "url": "https://europe.thermoking.com/fuel-economy-cutting-the-cost-of-running-refrigeration-equipment-2",
+          "publisher": "Thermo King",
+          "parent_org": "Thermo King",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Loading temperature, airflow and door-opening practice; no unsourced running-cost promises."
+        },
+        {
+          "source_id": "S6",
+          "url": "https://www.fuso-trucks.com/body-options/",
+          "publisher": "FUSO",
+          "parent_org": "FUSO",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Manufacturer example of bodybuilder documentation and interfaces; not certification for another vehicle."
+        }
+      ]
+    }
+  ],
+  "authorized_redirect_urls": [],
+  "note": "Populated real-topic intake, not authorization. Independent semantic dedup is pending. No earlier chat-authored article is passed as API output. Source access and scope must be rechecked during execution.",
+  "target_site": "https://autobridgetrade.top/",
+  "locales": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "execution_phase": "english",
+  "publication_enabled": false
+}
