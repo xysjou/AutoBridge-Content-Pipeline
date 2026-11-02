@@ -2,7 +2,7 @@
   "authorized": true,
   "program_id": "autobridge-two-en-pilot-20261102",
   "cap_nano_usd": 3000000000,
-  "code_sha": "45af9b0ccc8c4cdd9ef4d23c5db8716897e1866c",
+  "code_sha": "fa49a0d70b0afb5a5f76d86e369d6e4717dd7878",
   "approved_main_sha": "31e5323e1d585c5fce52e96917c12092ba57323d",
   "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
   "rules": {
