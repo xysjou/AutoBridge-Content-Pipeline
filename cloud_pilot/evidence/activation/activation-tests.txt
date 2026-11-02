@@ -3,19 +3,19 @@ test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tes
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
 test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
 test_declared_chinese_encoding_and_unknown_encoding (test_multilingual.Tests.test_declared_chinese_encoding_and_unknown_encoding) ... ok
-test_delivery_failure_resume_reuses_translation_and_review (test_multilingual.Tests.test_delivery_failure_resume_reuses_translation_and_review) ... ERROR
+test_delivery_failure_resume_reuses_translation_and_review (test_multilingual.Tests.test_delivery_failure_resume_reuses_translation_and_review) ... ok
 test_false_review_pass_hash_tamper_and_identity_rejected (test_multilingual.Tests.test_false_review_pass_hash_tamper_and_identity_rejected) ... ok
-test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume (test_multilingual.Tests.test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume) ... ERROR
-test_locale_review_reject_prevents_bundle_success (test_multilingual.Tests.test_locale_review_reject_prevents_bundle_success) ... ERROR
-test_max_two_locale_revisions (test_multilingual.Tests.test_max_two_locale_revisions) ... ERROR
+test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume (test_multilingual.Tests.test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume) ... ok
+test_locale_review_reject_prevents_bundle_success (test_multilingual.Tests.test_locale_review_reject_prevents_bundle_success) ... ok
+test_max_two_locale_revisions (test_multilingual.Tests.test_max_two_locale_revisions) ... ok
 test_missing_full_sections_and_fake_target_script_rejected (test_multilingual.Tests.test_missing_full_sections_and_fake_target_script_rejected) ... ok
 test_number_claim_and_url_drift_rejected (test_multilingual.Tests.test_number_claim_and_url_drift_rejected) ... ok
 test_plan_site_locales_and_publication_gates (test_multilingual.Tests.test_plan_site_locales_and_publication_gates) ... ok
 test_preflight_no_network_or_credential_reads (test_multilingual.Tests.test_preflight_no_network_or_credential_reads) ... ok
 test_real_execute_disabled_before_application_key_read (test_multilingual.Tests.test_real_execute_disabled_before_application_key_read) ... ok
 test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.test_source_script_only_and_ssrf_stop_without_models) ... ok
-test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ERROR
-test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ERROR
+test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
+test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
 test_all_security_modules_and_installed_workflow_are_reviewed (test_security.Tests.test_all_security_modules_and_installed_workflow_are_reviewed) ... ok
 test_candidate_extra_file_or_changed_parent_is_rejected (test_security.Tests.test_candidate_extra_file_or_changed_parent_is_rejected) ... ok
 test_current_provider_price_and_context_drift_fail_closed (test_security.Tests.test_current_provider_price_and_context_drift_fail_closed) ... ok
@@ -25,198 +25,7 @@ test_source_refresh_creates_new_namespace_without_overwriting_old (test_security
 test_status_and_phase_change_preserve_intake_but_topic_edit_does_not (test_security.Tests.test_status_and_phase_change_preserve_intake_but_topic_edit_does_not) ... ok
 test_unmerged_main_is_rejected_before_live_execution (test_security.Tests.test_unmerged_main_is_rejected_before_live_execution) ... ok
 
-======================================================================
-ERROR: test_delivery_failure_resume_reuses_translation_and_review (test_multilingual.Tests.test_delivery_failure_resume_reuses_translation_and_review)
 ----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 105, in test_delivery_failure_resume_reuses_translation_and_review
-    deliveries=self.english();self.gh.fail_export=True
-               ^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 86, in english
-    def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/engine.py", line 51, in run
-    response=self.models.call(aid+':research','research',research_request(topic,evidence))
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
+Ran 26 tests in 7.839s
 
-======================================================================
-ERROR: test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume (test_multilingual.Tests.test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 89, in test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume
-    deliveries=self.english()
-               ^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 86, in english
-    def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/engine.py", line 51, in run
-    response=self.models.call(aid+':research','research',research_request(topic,evidence))
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
-
-======================================================================
-ERROR: test_locale_review_reject_prevents_bundle_success (test_multilingual.Tests.test_locale_review_reject_prevents_bundle_success)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 146, in test_locale_review_reject_prevents_bundle_success
-    self.english();base=self.journal.get_checkpoint('final:PILOT-ALPHA')
-    ^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 86, in english
-    def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/engine.py", line 51, in run
-    response=self.models.call(aid+':research','research',research_request(topic,evidence))
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
-
-======================================================================
-ERROR: test_max_two_locale_revisions (test_multilingual.Tests.test_max_two_locale_revisions)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 155, in test_max_two_locale_revisions
-    self.english();b=self.journal.get_checkpoint('final:PILOT-ALPHA')
-    ^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 86, in english
-    def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/engine.py", line 51, in run
-    response=self.models.call(aid+':research','research',research_request(topic,evidence))
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
-
-======================================================================
-ERROR: test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 220, in test_uncertain_api_result_archive_failure_never_resends
-    self.models.call('once','writing',data)
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
-
-======================================================================
-ERROR: test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 115, in test_whole_program_budget_can_stop_before_full_bundle
-    deliveries=self.english()
-               ^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/tests/test_multilingual.py", line 86, in english
-    def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
-                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/engine.py", line 51, in run
-    response=self.models.call(aid+':research','research',research_request(topic,evidence))
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 44, in call
-    request=build_request(stage,data);request_hash=digest(request)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/responses.py", line 14, in build_request
-    "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
-                                                                                                                      ^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/live/policy.py", line 38, in load_rules
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
-                                                                ^^^^^^^^^^^^^^^
-  File "/workspace/scratch/df386a23c6f5/autobridge-api-ready/cloud_pilot/multilingual/startup.py", line 11, in batch_context
-    def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
-                                  ^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors) as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/df386a23c6f5/autobridge-api-ready/daily/2026-11-02/research/pilot-intake-proposal.json'
-
-----------------------------------------------------------------------
-Ran 26 tests in 1.545s
-
-FAILED (errors=6)
+OK
