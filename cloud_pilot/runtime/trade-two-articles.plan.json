@@ -127,11 +127,11 @@
       "article_id": "PILOT-REEFER-GUIDE",
       "locale": "en",
       "version": 1,
-      "topic_key": "refrigerated-truck-complete-vehicle-procurement",
+      "topic_key": "refrigerated-truck-pre-shipment-acceptance-evidence",
       "content_type": "BUYING_GUIDE",
       "target_site": "https://autobridgetrade.top/",
-      "search_intent": "Specify and assess a complete refrigerated truck bought from China for a defined route and cargo",
-      "buyer_task": "Compare payload, usable body, cooling duty, integration and documented acceptance",
+      "search_intent": "Define and record a pre-shipment acceptance demonstration for a completed refrigerated truck bought from China, rather than repeat chassis or refrigeration-unit shopping advice",
+      "buyer_task": "Agree evidence, VIN/equipment identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and acceptance responsibilities before accepting the completed truck",
       "proposed_url": "/pilot-only/pilot-reefer-guide/",
       "sources": [
         {
@@ -234,7 +234,7 @@
     }
   ],
   "authorized_redirect_urls": [],
-  "note": "Populated real-topic intake, not authorization. Independent semantic dedup is pending. No earlier chat-authored article is passed as API output. Source access and scope must be rechecked during execution.",
+  "note": "Populated real-topic intake, not authorization. Independent semantic dedup is pending. No earlier chat-authored article is passed as API output. Source access and scope must be rechecked during execution. The refrigerated-truck scope is narrowed to pre-shipment acceptance evidence to distinguish the existing Foton Aumark model/chassis/unit buyer guide.",
   "target_site": "https://autobridgetrade.top/",
   "locales": [
     "en",

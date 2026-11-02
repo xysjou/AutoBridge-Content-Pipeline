@@ -1,0 +1,12 @@
+{
+  "run_url": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41419415388",
+  "job_id": 125191092572,
+  "status": "success",
+  "available_models": [
+    "gpt-6-luna",
+    "gpt-6.1-terra"
+  ],
+  "generation_calls": 0,
+  "credential": "existing autobridge-pilot environment secret; value not read by operator",
+  "code_sha": "430d676d2b080329499f24570e3c63ade00a33a9"
+}

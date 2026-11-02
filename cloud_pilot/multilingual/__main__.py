@@ -54,7 +54,7 @@ def preflight(plan_path=DEFAULT_PLAN,prices_path=DEFAULT_PRICES):
           dict(gate='account',reason='REAL_MODEL_AVAILABILITY_NOT_VERIFIED'),
           dict(gate='runtime',reason='MANUAL_WORKFLOW_NOT_ACTIVATED')])
 
-def execute(plan_path,prices_path,permit_path):
+def execute(plan_path,prices_path,permit_path,audit_only=False):
     from ..live.http import JsonAPI,GitHubTransport
     from ..live.ledger import GitHubStore
     from .accounting import ResponseJournal,DurableResponses
@@ -62,10 +62,15 @@ def execute(plan_path,prices_path,permit_path):
     from ..live.engine import Engine
     plan,prices,permit=map(read_json,(plan_path,prices_path,permit_path))
     history=read_json(ROOT/'cloud_pilot/evidence/history-snapshot.json')
-    plan_check(plan,history)
+    if audit_only:
+        # Validate the pending intake shape for review only. This copy is never passed to Engine.
+        shape=dict(plan,semantic_dedup_status='INDEPENDENTLY_CONFIRMED')
+        plan_check(shape,history)
+    else:plan_check(plan,history)
     sha=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     approval=os.environ.get('AUTOBRIDGE_LIVE_APPROVAL_SHA256','')
     check_permit(permit,plan,prices,sha,approval)
+    require(permit.get('audit_only',False) is audit_only,'PERMIT_AUDIT_SCOPE')
     require(re.fullmatch(r'[0-9a-f]{40}',permit.get('approved_main_sha','')),'APPROVED_MAIN_REQUIRED')
     require(permit.get('target_site')==plan['target_site'] and permit.get('locales')==plan['locales'], 'PERMIT_TARGET_SCOPE')
     require(permit.get('execution_phase')==plan['execution_phase'],'PERMIT_PHASE_SCOPE')
@@ -91,12 +96,17 @@ def execute(plan_path,prices_path,permit_path):
         require(status==200 and obj.get('id')==model,'PROJECT_MODEL_UNAVAILABLE:'+model)
     journal=ResponseJournal(GitHubStore(github))
     raw_models=DurableResponses(api,journal,prices,permission)
+    if audit_only:
+        from .activation_review import run
+        return run(plan,sha,journal,raw_models)
     class EditorialModels:
         def call(self,operation,stage,data):
             if data.get('stage')=='writing':
                 data=dict(data,instruction=data['instruction']+
                     ' Include at least three substantive FAQ entries. Use article-specific Markdown H2 headings '
-                    'inside section text after the opening paragraph; never include an H1 in body text.')
+                    'inside section text after the opening paragraph; never include an H1 in body text. '
+                    'Do not add numbered source citations in prose; use publisher names when necessary. '
+                    'The source table is attached by the exporter.')
             result=raw_models.call(operation,stage,data)
             if data.get('stage')=='writing':
                 require(len(result['content'].get('faq',[]))>=3,'ENGLISH_FAQ_INCOMPLETE')
@@ -111,7 +121,7 @@ def execute(plan_path,prices_path,permit_path):
 
 def main():
     p=argparse.ArgumentParser(description=__doc__)
-    p.add_argument('command',choices=['preflight','account-check','execute'],nargs='?',default='preflight')
+    p.add_argument('command',choices=['preflight','account-check','audit','execute'],nargs='?',default='preflight')
     p.add_argument('--plan',type=Path,default=DEFAULT_PLAN)
     p.add_argument('--prices',type=Path,default=DEFAULT_PRICES)
     p.add_argument('--permit',type=Path)
@@ -121,7 +131,7 @@ def main():
         elif a.command=='account-check':result=account_check()
         else:
             require(a.permit is not None,'APPROVED_PERMIT_REQUIRED')
-            result=execute(a.plan,a.prices,a.permit)
+            result=execute(a.plan,a.prices,a.permit,audit_only=a.command=='audit')
         print(json.dumps(result,ensure_ascii=False,indent=2));return 0
     except Exception as exc:
         print(json.dumps(dict(status='STOPPED',reason=str(exc) if isinstance(exc,GateError) else type(exc).__name__)))
