@@ -1,0 +1,179 @@
+{
+  "reference": "deliveries/2026-09-07/articles/vehicle/AB-260907-V05_Deepal_S05.md",
+  "reference_main_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "files": 24,
+  "locales": 12,
+  "single_h1": true,
+  "all_source_body_and_faq_text_preserved": true,
+  "independent_review": "pending",
+  "records": [
+    {
+      "article_id": "q05",
+      "locale": "zh",
+      "file": "i18n/zh/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.zh.md",
+      "sha256": "3d2da33b0a1ec2ecb26686c85794db8a3b2007caa75c3288152a65f5e6166c59",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "zh",
+      "file": "i18n/zh/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.zh.md",
+      "sha256": "ecfbf92f98879e9fa0d8c916f41d9cbb0191a045b24bc060e5f59b25c8837739",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "en",
+      "file": "i18n/en/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.md",
+      "sha256": "a7af4af5f8a6d8b084eb3441ea18df7d05b53e3036c0ddf15a1a2fac194a6bb5",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "en",
+      "file": "i18n/en/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.md",
+      "sha256": "32496577138a1f80013e0d04438ec8b6b35ec54d86d947cda4b706c938880e03",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "fr",
+      "file": "i18n/fr/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.fr.md",
+      "sha256": "26e4d8a4c44012d11a399c5bd2e9a59e214cdfe7edfe008c4cae4270a00b08e2",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "fr",
+      "file": "i18n/fr/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.fr.md",
+      "sha256": "a8df8991b4533cf70ca1e8f83d52b47717753642c850bc8bf032f2fa1afab759",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "de",
+      "file": "i18n/de/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.de.md",
+      "sha256": "0d47abf61595a67a24f533eae15e1dee4a842922d17a0015b98e53d667683a7c",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "de",
+      "file": "i18n/de/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.de.md",
+      "sha256": "4dceab56b876c1ba3b8d2b920ae8676fbd84f2ee484e121703b470d886d3ae61",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "es",
+      "file": "i18n/es/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.es.md",
+      "sha256": "46e7a1343928d15e3b814a037bc3387541bddc88a86c13e509a5c172585945f1",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "es",
+      "file": "i18n/es/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.es.md",
+      "sha256": "fadf92e430bff44d5c1921321d4f665cb682ee0c6f0a9f6b40af5fe67c4a088b",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "pt",
+      "file": "i18n/pt/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.pt.md",
+      "sha256": "9fb2af9fd6194b2fa4b21e4b89ed72ebb0ea0dc686e0fc41ceca501abbc4f8ba",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "pt",
+      "file": "i18n/pt/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.pt.md",
+      "sha256": "894d3caa68203dc1ebb6f053c660f4e68522533aad906b901a27abc3be26273d",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "ja",
+      "file": "i18n/ja/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.ja.md",
+      "sha256": "037190247b6d99f1170e98999aced519ddae274bdf1fa84ac0ddbb383dfd2f8e",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "ja",
+      "file": "i18n/ja/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.ja.md",
+      "sha256": "d70f1602fcd8b9f2e5cad0132d04bdc348338a53fe09a9c04d8b3f8888f03603",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "ko",
+      "file": "i18n/ko/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.ko.md",
+      "sha256": "dd54c4068924fb107804d575eee3270ebe6cfe7dfe662c0edc321278be958263",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "ko",
+      "file": "i18n/ko/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.ko.md",
+      "sha256": "c40619882eb14e67467a9633f1a8e500f5c772874d9310a2780d7bd23650ed41",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "vi",
+      "file": "i18n/vi/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.vi.md",
+      "sha256": "ef0777adfa40ffd6e259ac030aff65c491816487aaa1efb1e68f948cf63db3ee",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "vi",
+      "file": "i18n/vi/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.vi.md",
+      "sha256": "b5117466941f30b55b93b5d7b55ca493b35194ab3bad91967c621d3e4eace325",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "th",
+      "file": "i18n/th/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.th.md",
+      "sha256": "2ffe695a0c5557d3a504e5b2d3609ae3f2f0c41d60851840c9aec619239dd12b",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "th",
+      "file": "i18n/th/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.th.md",
+      "sha256": "7571111a7dca4f0c9fca2e2e275bf0c9d6572c091e612997acfefa88b1595f0e",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "id",
+      "file": "i18n/id/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.id.md",
+      "sha256": "448970a169c215c60161ad4b39de1203c6402110d9631a6f7ca56530f55939c4",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "id",
+      "file": "i18n/id/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.id.md",
+      "sha256": "7b634fabed26f6659f445d3f7640da6121e25fbee1f566c3b5bf00fc8bacb6dc",
+      "body_preserved": true
+    },
+    {
+      "article_id": "q05",
+      "locale": "ar",
+      "file": "i18n/ar/vehicle/AB-261102-V01_Qiyuan_Q05_2026_BEV.ar.md",
+      "sha256": "01c7f4511abdd62d4440144c17e6e683e08fbaba4d8d04a8501f6b787a7e3451",
+      "body_preserved": true
+    },
+    {
+      "article_id": "reefer",
+      "locale": "ar",
+      "file": "i18n/ar/guide/AB-261102-G01_Refrigerated_Truck_Buying_Guide.ar.md",
+      "sha256": "7279acd989ab606a7807aff57b6c95a9c2af341ee851795df82aabb90c9d977b",
+      "body_preserved": true
+    }
+  ]
+}
