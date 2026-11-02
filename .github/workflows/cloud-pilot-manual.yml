@@ -1,0 +1,35 @@
+# DISABLED BOOTSTRAP: manual trigger only; the only job is unconditionally skipped.
+# Merge and activation require separate approval. No OpenAI call is enabled by this file.
+name: AutoBridge approved English pilot - proposed manual runtime
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: autobridge-entire-real-pilot-program
+  cancel-in-progress: false
+jobs:
+  approved-pilot:
+    if: ${{ false }} # intentionally disabled, including if someone copies this file
+    environment: autobridge-pilot
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Execute only the reviewed permit and plan
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
+          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}
+        run: >-
+          python3 -m cloud_pilot.live execute
+          --plan cloud_pilot/runtime/approved-plan.json
+          --prices cloud_pilot/runtime/prices-20261102.json
+          --permit cloud_pilot/runtime/approved-permit.json
