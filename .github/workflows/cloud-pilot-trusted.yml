@@ -68,7 +68,7 @@ jobs:
       - name: Fetch reviewed control documents from a separate immutable commit
         env:
           AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
-          AUTOBRIDGE_APPROVAL_COMMIT: ${{ vars.AUTOBRIDGE_APPROVAL_COMMIT }}
+          AUTOBRIDGE_APPROVAL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}
           AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
         run: python3 -m cloud_pilot.multilingual.control
       - name: Validate exact run and workflow lease before exposing the project key
