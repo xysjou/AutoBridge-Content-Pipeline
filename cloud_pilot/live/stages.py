@@ -40,18 +40,22 @@ def validate_plan(plan,history):
     return True
 
 def research_request(topic,evidence):
-    return dict(stage='research',schema=SCHEMA,topic=topic,evidence=evidence,
+    from ..multilingual.research_contract import extend_request
+    return extend_request(dict(stage='research',schema=SCHEMA,topic=topic,evidence=evidence,
         required_output=dict(status='RESEARCH_PASS | RESEARCH_CONDITIONAL | RESEARCH_FAIL',
             writing_ai_ready='boolean',source_checks='one {source_id,publisher_match,scope_match} for every evidence item',
             facts='list of {id,statement,confidence,scope,source_ids,quotes:[{source_id,quote}]}',
             allowed_facts='list of fact IDs',blocked_facts='list of blocked fact IDs',
             human_reviewed=False,publish_approved=False),
-        instruction='Quotes must be literal substrings of evidence text. T1+MATCHED alone may be VERIFIED. Apply all canonical rules, including current standard, importer/vehicle scope, exception and currentness rules. Core unknowns must stop writing.')
+        instruction='Quotes must be literal substrings of evidence text. T1+MATCHED alone may be VERIFIED. Apply all canonical rules, including current standard, importer/vehicle scope, exception and currentness rules. Core unknowns must stop writing.'))
 
 def check_research(result,topic,evidence):
     from ..multilingual.startup import skill_provenance
     r=result['content']
-    require(set(r)=={'status','writing_ai_ready','source_checks','facts','allowed_facts','blocked_facts','human_reviewed','publish_approved'},'RESEARCH_OUTPUT_FIELDS')
+    from ..multilingual.research_contract import applies,validate as validate_handoff
+    fields={'status','writing_ai_ready','source_checks','facts','allowed_facts','blocked_facts','human_reviewed','publish_approved'}
+    if applies(topic):fields.update(('fact_boundary','handoff'))
+    require(set(r)==fields,'RESEARCH_OUTPUT_FIELDS')
     require(r.get('human_reviewed') is False and r.get('publish_approved') is False,'RESEARCH_APPROVAL_FORBIDDEN')
     require(r.get('status') in ('RESEARCH_PASS','RESEARCH_CONDITIONAL','RESEARCH_FAIL'),'RESEARCH_STATUS')
     require(r['status']!='RESEARCH_FAIL' and r.get('writing_ai_ready') is True,'RESEARCH_STOPS_WRITING')
@@ -83,13 +87,15 @@ def check_research(result,topic,evidence):
             require(f['primary_source_url'] in {x.get('final_url',x.get('requested_url')) for x in evidence if x['tier']=='T1'},'STANDARD_PRIMARY_SOURCE')
     require(used==source.keys(),'SOURCE_PADDING_OR_INCOMPLETE_BINDING')
     if r['status']=='RESEARCH_CONDITIONAL':require(blocked,'CONDITIONAL_BLOCKLIST_REQUIRED')
+    validate_handoff(r,topic,evidence)
     packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=topic['article_id'],version=1,
         baseline_sha=BASELINE,rules=rules(),researcher_id='research:'+result['response_id'],
         evidence_hash=digest(evidence),evidence=evidence,fact_sheet=r,topic=topic,
         human_reviewed=False,publish_approved=False)
     provenance=skill_provenance('research')
     packet.update(research_skill_version_used=provenance['version'],research_skill_commit_sha_used=provenance['commit'],
-                  skill_provenance=provenance,skill_impact_check_done=True,skill_update_required=False)
+                  skill_provenance=provenance,skill_impact_check_done=applies(topic),
+                  skill_update_required=r.get('handoff',{}).get('skill_impact',{}).get('update_required',False))
     packet['research_hash']=digest(packet)
     return packet
 
@@ -147,12 +153,15 @@ REVIEW_CHECKS={'claim_entailment','market_year_trim_cycle','source_identity_scop
                'currentness','natural_english','no_workflow_leakage','no_fabricated_first_hand','buyer_task_answered'}
 
 def review_request(article,research):
+    from ..multilingual.localize import markdown
+    rendered=markdown(article,research,research['topic'],public_only=True)
     return dict(stage='independent_review',schema=SCHEMA,article=article,research=research,
+        rendered_public_markdown=rendered,rendered_hash=digest(rendered),
         required_output=dict(content_hash=article['content_hash'],evidence_hash=research['evidence_hash'],
             decision='REVIEW_PASS | REVISION_REQUIRED | NEEDS_RESEARCH | REJECT',
             checks={k:'boolean' for k in sorted(REVIEW_CHECKS)},findings='list of {rule_id,detail,claim_id}',
             human_reviewed=False,publish_approved=False),
-        instruction='Independently compare every material statement, title, summary, FAQ and number with actual source text. Quotes are not proof of entailment by themselves. Return NEEDS_RESEARCH for core unknowns. A pass applies only to this English draft hash; never grants 12-language/production/human approval.')
+        instruction='Independently compare every material statement, title, summary, FAQ and number with actual source text. Read the exact rendered public Markdown including headings and source table. Quotes are not proof of entailment by themselves. Return NEEDS_RESEARCH for core unknowns. A pass applies only to this English text draft hash; never grants 12-language/production/human approval. Internal S05 metadata labels/editorial notes are not public prose; images and production URLs remain incomplete.')
 
 def check_review(result,article,research):
     r=result['content']
@@ -169,5 +178,7 @@ def check_review(result,article,research):
     packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=article['article_id'],version=article['version'],
         reviewer_id='reviewer:'+result['response_id'],content_hash=article['content_hash'],research_hash=research['research_hash'],
         verdict=r,review_scope='ENGLISH_DRAFT_ONLY',human_reviewed=False,publish_approved=False,production_eligible=False)
+    from ..multilingual.localize import markdown
+    packet['rendered_hash']=digest(markdown(article,research,research['topic'],public_only=True))
     packet['review_hash']=digest(packet)
     return packet

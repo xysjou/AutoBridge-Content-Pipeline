@@ -1,0 +1,52 @@
+test_api_errors_do_not_echo_tokens_or_follow_redirect (test_live.LiveTests.test_api_errors_do_not_echo_tokens_or_follow_redirect) ... ok
+test_authorized_manual_bootstrap_and_other_workflows_unchanged (test_live.LiveTests.test_authorized_manual_bootstrap_and_other_workflows_unchanged) ... ok
+test_cap_across_articles_and_reruns (test_live.LiveTests.test_cap_across_articles_and_reruns) ... ok
+test_committed_result_lost_ack_is_recovered_without_resend (test_live.LiveTests.test_committed_result_lost_ack_is_recovered_without_resend) ... ok
+test_concurrent_call_only_one_transmission (test_live.LiveTests.test_concurrent_call_only_one_transmission) ... ok
+test_crash_reserved_no_blind_resend_or_auto_release (test_live.LiveTests.test_crash_reserved_no_blind_resend_or_auto_release) ... ok
+test_default_cli_no_credentials_or_network (test_live.LiveTests.test_default_cli_no_credentials_or_network) ... ok
+test_delivery_failure_reuses_review_without_model_rerun (test_live.LiveTests.test_delivery_failure_reuses_review_without_model_rerun) ... ok
+test_disabled_permit_cannot_read_any_credentials (test_live.LiveTests.test_disabled_permit_cannot_read_any_credentials) ... ok
+test_end_to_end_two_articles_and_recovery (test_live.LiveTests.test_end_to_end_two_articles_and_recovery) ... ok
+test_engine_with_responses_adapter_and_mock_http_all_six_calls (test_live.LiveTests.test_engine_with_responses_adapter_and_mock_http_all_six_calls) ... ok
+test_every_real_stage_separate_stateless_request (test_live.LiveTests.test_every_real_stage_separate_stateless_request) ... ok
+test_execute_with_existing_keys_stops_before_secret_reads (test_live.LiveTests.test_execute_with_existing_keys_stops_before_secret_reads) ... ok
+test_full_context_conservative_reservation (test_live.LiveTests.test_full_context_conservative_reservation) ... ok
+test_github_actual_contents_payload_uses_blob_sha_and_fixed_branch (test_live.LiveTests.test_github_actual_contents_payload_uses_blob_sha_and_fixed_branch) ... ok
+test_github_state_missing_fails_closed (test_live.LiveTests.test_github_state_missing_fails_closed) ... ok
+test_github_store_cas_and_append_only (test_live.LiveTests.test_github_store_cas_and_append_only) ... ok
+test_http_api_redirect_does_not_follow (test_live.LiveTests.test_http_api_redirect_does_not_follow) ... ok
+test_immutable_checkpoint (test_live.LiveTests.test_immutable_checkpoint) ... ok
+test_incomplete_is_accounted_and_not_automatically_retried (test_live.LiveTests.test_incomplete_is_accounted_and_not_automatically_retried) ... ok
+test_ledger_tamper_history_and_unknown_state (test_live.LiveTests.test_ledger_tamper_history_and_unknown_state) ... ok
+test_max_three_proven_not_sent_attempts (test_live.LiveTests.test_max_three_proven_not_sent_attempts) ... ok
+test_no_call_when_permission_fails (test_live.LiveTests.test_no_call_when_permission_fails) ... ok
+test_no_call_when_reservation_cas_fails (test_live.LiveTests.test_no_call_when_reservation_cas_fails) ... ok
+test_no_writer_evaluation_and_independent_review_identity (test_live.LiveTests.test_no_writer_evaluation_and_independent_review_identity) ... ok
+test_pinned_connection_uses_validated_ip_and_hostname_for_tls (test_live.LiveTests.test_pinned_connection_uses_validated_ip_and_hostname_for_tls) ... ok
+test_plan_intent_url_and_scope_gates (test_live.LiveTests.test_plan_intent_url_and_scope_gates) ... ok
+test_price_expiry_or_drift_blocks_before_call (test_live.LiveTests.test_price_expiry_or_drift_blocks_before_call) ... ok
+test_quote_and_scope_bindings (test_live.LiveTests.test_quote_and_scope_bindings) ... ok
+test_reasoning_not_double_billed_and_cache_write_not_double_added (test_live.LiveTests.test_reasoning_not_double_billed_and_cache_write_not_double_added) ... ok
+test_request_drift_not_retried (test_live.LiveTests.test_request_drift_not_retried) ... ok
+test_responses_real_payload_and_durable_replay (test_live.LiveTests.test_responses_real_payload_and_durable_replay) ... ok
+test_result_storage_failure_stops_without_duplicate (test_live.LiveTests.test_result_storage_failure_stops_without_duplicate) ... ok
+test_retrieval_redirect_to_unauthorized_or_private (test_live.LiveTests.test_retrieval_redirect_to_unauthorized_or_private) ... ok
+test_retrieval_saves_provenance_strips_scripts (test_live.LiveTests.test_retrieval_saves_provenance_strips_scripts) ... ok
+test_retrieval_status_mime_size_encoding (test_live.LiveTests.test_retrieval_status_mime_size_encoding) ... ok
+test_reviewer_hash_and_false_pass (test_live.LiveTests.test_reviewer_hash_and_false_pass) ... ok
+test_source_failure_stops_all_models (test_live.LiveTests.test_source_failure_stops_all_models) ... ok
+test_source_identity_and_research_failure (test_live.LiveTests.test_source_identity_and_research_failure) ... ok
+test_ssrf_nonpublic_dns_and_mixed_answers (test_live.LiveTests.test_ssrf_nonpublic_dns_and_mixed_answers) ... ok
+test_timeout_holds_full_amount_and_stops_program (test_live.LiveTests.test_timeout_holds_full_amount_and_stops_program) ... ok
+test_two_revisions_exhaustion_is_durable (test_live.LiveTests.test_two_revisions_exhaustion_is_durable) ... ok
+test_unknown_usage_is_not_free (test_live.LiveTests.test_unknown_usage_is_not_free) ... ok
+test_unsupported_numbers_and_standard_fields_fail (test_live.LiveTests.test_unsupported_numbers_and_standard_fields_fail) ... ok
+test_url_authorization_credentials_and_https (test_live.LiveTests.test_url_authorization_credentials_and_https) ... ok
+test_valid_permit_is_bound_to_code_plan_prices_and_expiry (test_live.LiveTests.test_valid_permit_is_bound_to_code_plan_prices_and_expiry) ... ok
+test_writer_blocks_unknown_claim_and_public_leak (test_live.LiveTests.test_writer_blocks_unknown_claim_and_public_leak) ... ok
+
+----------------------------------------------------------------------
+Ran 47 tests in 2.280s
+
+OK

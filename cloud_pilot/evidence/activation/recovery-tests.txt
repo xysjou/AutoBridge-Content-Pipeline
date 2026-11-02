@@ -1,0 +1,38 @@
+test_actual_related_review_includes_reserve_and_foton_full_text (test_activation.Tests.test_actual_related_review_includes_reserve_and_foton_full_text) ... ok
+test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tests.test_code_block_still_collects_topic_review_but_cannot_pass) ... ok
+test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
+test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
+test_declared_chinese_encoding_and_unknown_encoding (test_multilingual.Tests.test_declared_chinese_encoding_and_unknown_encoding) ... ok
+test_delivery_failure_resume_reuses_translation_and_review (test_multilingual.Tests.test_delivery_failure_resume_reuses_translation_and_review) ... ok
+test_false_review_pass_hash_tamper_and_identity_rejected (test_multilingual.Tests.test_false_review_pass_hash_tamper_and_identity_rejected) ... ok
+test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume (test_multilingual.Tests.test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume) ... ok
+test_locale_review_reject_prevents_bundle_success (test_multilingual.Tests.test_locale_review_reject_prevents_bundle_success) ... ok
+test_max_two_locale_revisions (test_multilingual.Tests.test_max_two_locale_revisions) ... ok
+test_missing_full_sections_and_fake_target_script_rejected (test_multilingual.Tests.test_missing_full_sections_and_fake_target_script_rejected) ... ok
+test_number_claim_and_url_drift_rejected (test_multilingual.Tests.test_number_claim_and_url_drift_rejected) ... ok
+test_plan_site_locales_and_publication_gates (test_multilingual.Tests.test_plan_site_locales_and_publication_gates) ... ok
+test_preflight_no_network_or_credential_reads (test_multilingual.Tests.test_preflight_no_network_or_credential_reads) ... ok
+test_real_execute_disabled_before_application_key_read (test_multilingual.Tests.test_real_execute_disabled_before_application_key_read) ... ok
+test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.test_source_script_only_and_ssrf_stop_without_models) ... ok
+test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
+test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
+test_approval_cannot_be_reused_by_another_run_or_rerun_attempt (test_recovery.Tests.test_approval_cannot_be_reused_by_another_run_or_rerun_attempt) ... ok
+test_checkpoints_are_isolated_by_code_and_intake_and_revision (test_recovery.Tests.test_checkpoints_are_isolated_by_code_and_intake_and_revision) ... ok
+test_complete_vehicle_identity_is_required_before_writing (test_recovery.Tests.test_complete_vehicle_identity_is_required_before_writing) ... ok
+test_exact_final_public_locale_render_is_in_independent_review (test_recovery.Tests.test_exact_final_public_locale_render_is_in_independent_review) ... ok
+test_protected_floor_and_in_run_progress_cannot_be_rolled_back (test_recovery.Tests.test_protected_floor_and_in_run_progress_cannot_be_rolled_back) ... ok
+test_provider_count_failure_prevents_any_generation (test_recovery.Tests.test_provider_count_failure_prevents_any_generation) ... ok
+test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends (test_recovery.Tests.test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends) ... ok
+test_all_security_modules_and_installed_workflow_are_reviewed (test_security.Tests.test_all_security_modules_and_installed_workflow_are_reviewed) ... ok
+test_candidate_extra_file_or_changed_parent_is_rejected (test_security.Tests.test_candidate_extra_file_or_changed_parent_is_rejected) ... ok
+test_current_provider_price_and_context_drift_fail_closed (test_security.Tests.test_current_provider_price_and_context_drift_fail_closed) ... ok
+test_old_receipt_cannot_authorize_changed_corpus_or_code (test_security.Tests.test_old_receipt_cannot_authorize_changed_corpus_or_code) ... ok
+test_self_declared_dedup_status_never_authorizes_execution (test_security.Tests.test_self_declared_dedup_status_never_authorizes_execution) ... ok
+test_source_refresh_creates_new_namespace_without_overwriting_old (test_security.Tests.test_source_refresh_creates_new_namespace_without_overwriting_old) ... ok
+test_status_and_phase_change_preserve_intake_but_topic_edit_does_not (test_security.Tests.test_status_and_phase_change_preserve_intake_but_topic_edit_does_not) ... ok
+test_unmerged_main_is_rejected_before_live_execution (test_security.Tests.test_unmerged_main_is_rejected_before_live_execution) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 8.315s
+
+OK

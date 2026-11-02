@@ -60,7 +60,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     from .startup import verify as verify_startup,EpochJournal
     from .pricing import verify as verify_pricing
     from ..live.ledger import GitHubStore
-    from .accounting import ResponseJournal,DurableResponses
+    from .accounting import ResponseJournal,CountedResponses,AnchoredStore
     from .sources import retrieve
     from ..live.engine import Engine
     plan,prices,permit=map(read_json,(plan_path,prices_path,permit_path))
@@ -73,6 +73,8 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     sha=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     approval=os.environ.get('AUTOBRIDGE_LIVE_APPROVAL_SHA256','')
     check_permit(permit,plan,prices,sha,approval)
+    from .authorization import lease,workflows
+    lease(permit)
     require(permit.get('audit_only',False) is audit_only,'PERMIT_AUDIT_SCOPE')
     require(re.fullmatch(r'[0-9a-f]{40}',permit.get('approved_main_sha','')),'APPROVED_MAIN_REQUIRED')
     require(permit.get('target_site')==plan['target_site'] and permit.get('locales')==plan['locales'], 'PERMIT_TARGET_SCOPE')
@@ -94,21 +96,28 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         check_permit(permit,plan,prices,sha,approval)
         require(github.ref('main')==permit['approved_main_sha'],'APPROVED_MAIN_DRIFT')
     permission()
+    workflows(permit,github)
     # Availability inspection uses only the approved project key and the two allowed model IDs.
     for model in RATES:
         status,obj=api.request('GET','/v1/models/'+model)
         require(status==200 and obj.get('id')==model,'PROJECT_MODEL_UNAVAILABLE:'+model)
-    journal=ResponseJournal(GitHubStore(github))
+    journal=ResponseJournal(AnchoredStore(GitHubStore(github),permit['ledger_anchor']))
     journal.checkpoint('startup:'+sha+':'+digest(plan),startup)
     verify_pricing(prices,journal)
-    raw_models=DurableResponses(api,journal,prices,permission)
+    raw_models=CountedResponses(api,journal,prices,permission)
+    from .activation_review import intake_hash
+    binding=dict(code_sha=sha,intake_hash=intake_hash(plan),rules=plan['rules'],
+                 current_context_hash=digest(startup['read_files']),history_hash=plan['history_hash'])
+    scoped=EpochJournal(journal,plan.get('evidence_revision',1),binding)
     if audit_only:
         from .activation_review import run
+        probe=Engine(shape,history,scoped,raw_models,github,retrieve)
+        for topic in plan['articles']:probe.evidence(topic)
         return run(plan,sha,journal,raw_models)
     from .activation_review import verify_receipt
     verify_receipt(plan,sha,journal)
     revision=plan.get('evidence_revision',1)
-    journal=EpochJournal(journal,revision)
+    journal=scoped
     class EditorialModels:
         def call(self,operation,stage,data):
             if data.get('stage')=='writing':
@@ -131,7 +140,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
 
 def main():
     p=argparse.ArgumentParser(description=__doc__)
-    p.add_argument('command',choices=['preflight','account-check','audit','execute'],nargs='?',default='preflight')
+    p.add_argument('command',choices=['preflight','account-check','preauthorize','audit','execute'],nargs='?',default='preflight')
     p.add_argument('--plan',type=Path,default=DEFAULT_PLAN)
     p.add_argument('--prices',type=Path,default=DEFAULT_PRICES)
     p.add_argument('--permit',type=Path)
@@ -139,6 +148,10 @@ def main():
     try:
         if a.command=='preflight':result=preflight(a.plan,a.prices)
         elif a.command=='account-check':result=account_check()
+        elif a.command=='preauthorize':
+            from .authorization import preauthorize
+            require(a.permit is not None,'APPROVED_PERMIT_REQUIRED')
+            result=preauthorize(*map(read_json,(a.plan,a.prices,a.permit)))
         else:
             require(a.permit is not None,'APPROVED_PERMIT_REQUIRED')
             result=execute(a.plan,a.prices,a.permit,audit_only=a.command=='audit')

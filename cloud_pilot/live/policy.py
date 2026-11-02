@@ -33,9 +33,11 @@ def read_json(path):
     return json.loads(Path(path).read_text())
 
 def load_rules():
-    from ..multilingual.startup import batch_context
+    from ..multilingual.startup import batch_context,review_context
     # Full authoritative files, not a substitute summary or old chat context.
-    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**batch_context()}
+    current={p:t for p,t in batch_context().items() if not p.endswith('pilot-intake-proposal.json')}
+    return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**current,**review_context(),
+            '_review_handoff_inventory':{p:digest(t) for p,t in review_context(all_versions=True).items()}}
 
 def validate_prices(snapshot, at=None):
     require(snapshot.get("rates") == RATES, "UNKNOWN_OR_CHANGED_PRICING")
@@ -48,10 +50,13 @@ def validate_prices(snapshot, at=None):
     require(snapshot.get("source_urls") and snapshot.get("snapshot_ids") == list(RATES), "PRICE_PROVENANCE_UNKNOWN")
     return digest(snapshot)
 
-def reservation(model):
+def reservation(model,input_bound=None):
     require(model in RATES, "UNKNOWN_MODEL_PRICE")
     p = RATES[model]
-    return CONTEXT * p["long_write"] + MAX_OUTPUT * p["long_output"]
+    if input_bound is None:return CONTEXT * p["long_write"] + MAX_OUTPUT * p["long_output"]
+    require(type(input_bound) is int and 0<input_bound<=CONTEXT,'INVALID_PROVIDER_TOKEN_BOUND')
+    prefix='long_' if input_bound>272000 else ''
+    return input_bound*p[prefix+'write']+MAX_OUTPUT*p[prefix+'output']
 
 def usage_cost(model, usage):
     require(model in RATES and isinstance(usage, dict), "USAGE_UNKNOWN")

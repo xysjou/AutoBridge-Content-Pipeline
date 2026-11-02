@@ -39,6 +39,8 @@ class Responses:
         require(api.host=='api.openai.com','OPENAI_ORIGIN')
         self.api,self.journal,self.prices,self.permission=api,journal,prices,permission
 
+    def bound(self,request):return {}
+
     def call(self,operation,stage,data):
         # This callback rechecks protected approval, rules, current pricing and main.
         self.permission()
@@ -52,9 +54,11 @@ class Responses:
             if completed:return self._parse(completed[0]['response'])
             require(all(p['status']=='not_sent' for p in prior),'UNRESOLVED_OPERATION_NO_RESEND')
         attempt=len(prior)+1;require(attempt<=3,'MAX_THREE_ATTEMPTS')
+        bound=self.bound(request)
         rid=digest([operation,attempt]);owner=uuid.uuid4().hex
         reserve=dict(kind='reserve',id=rid,operation=operation,attempt=attempt,owner=owner,
-            request_hash=request_hash,price_hash=price_hash,model=request['model'],amount=reservation(request['model']))
+            request_hash=request_hash,price_hash=price_hash,model=request['model'],
+            amount=reservation(request['model'],bound.get('input_bound')),**bound)
         self.journal.commit('reserve:'+rid,reserve)
         self.journal.commit('sent:'+rid,dict(kind='sent',id=rid))
         # Crash after durable sent => no automatic retry, even if transmission did not occur.

@@ -13,6 +13,20 @@ CHECKS = {'semantic_fidelity','facts_and_numbers','scope_and_range_cycle',
           'natural_target_language','complete_full_text','source_entailment',
           'metadata_values_only','no_workflow_leakage'}
 
+LABELS={
+ 'en':('FAQ','Sources & Verification','Organization','Scope','Retrieved'),
+ 'fr':('Questions fréquentes','Sources et vérification','Organisme','Portée','Consulté le'),
+ 'de':('Häufige Fragen','Quellen und Prüfung','Organisation','Geltungsbereich','Abgerufen'),
+ 'es':('Preguntas frecuentes','Fuentes y verificación','Organización','Ámbito','Consulta'),
+ 'pt':('Perguntas frequentes','Fontes e verificação','Organização','Âmbito','Consulta'),
+ 'ja':('よくある質問','出典と確認','発行元','対象範囲','確認日'),
+ 'ko':('자주 묻는 질문','출처 및 확인','발행 기관','적용 범위','확인일'),
+ 'vi':('Câu hỏi thường gặp','Nguồn và xác minh','Tổ chức','Phạm vi','Ngày truy cập'),
+ 'th':('คำถามที่พบบ่อย','แหล่งข้อมูลและการตรวจสอบ','องค์กร','ขอบเขต','วันที่ตรวจสอบ'),
+ 'id':('Pertanyaan umum','Sumber dan verifikasi','Organisasi','Cakupan','Diakses'),
+ 'ar':('الأسئلة الشائعة','المصادر والتحقق','الجهة','النطاق','تاريخ الاطلاع'),
+ 'zh':('常见问题','来源与核验','发布机构','适用范围','核验日期')}
+
 def request(base, research, locale, version, prior=None, findings=None):
     require(locale in LOCALES and locale != 'en', 'LOCALIZATION_LOCALE')
     return dict(stage='localization',locale=locale,language=LANGUAGES[locale],version=version,
@@ -78,7 +92,9 @@ def validate(result, base, locale, version):
     return packet
 
 def review_request(article,base,research):
+    rendered=markdown(article,research,research['topic'],public_only=True)
     return dict(stage='independent_locale_review',article=article,english_article=base,research=research,
+        rendered_public_markdown=rendered,rendered_hash=digest(rendered),
         required_output=dict(content_hash=article['content_hash'],base_content_hash=base['content_hash'],
             decision='REVIEW_PASS | REVISION_REQUIRED | NEEDS_RESEARCH | REJECT',
             checks={k:'boolean' for k in sorted(CHECKS)},findings='list of concrete correction findings',
@@ -86,7 +102,8 @@ def review_request(article,base,research):
         instruction='Independently read the full target-language article, English original and source evidence. '
             'Check natural language, completeness, numbers, meaning, SEO fields, market/trim/CLTC scope '
             'and source entailment. Short summaries are failures. Never self-certify human review or publication. '
-            'REVIEW_PASS is only an automated locale-draft verdict for this exact hash.')
+            'Also review the supplied exact rendered public Markdown, including localized headings and source table. '
+            'REVIEW_PASS is only an automated locale-draft verdict for this exact hash. Internal S05 metadata labels and editorial notes are excluded from public rendering; no image or production URL is approved.')
 
 def validate_review(result,article,base):
     p=result['content']
@@ -129,6 +146,8 @@ class Localizer:
             if review is None:
                 result=self.models.call(key+':review','review',review_request(article,base,research))
                 review=validate_review(result,article,base)
+                review['rendered_hash']=digest(markdown(article,research,research['topic'],public_only=True))
+                review['review_hash']=digest({k:v for k,v in review.items() if k!='review_hash'})
                 self.journal.checkpoint(key+':review',review)
             require(review['content_hash']==article['content_hash'],'CACHED_REVIEW_DRIFT')
             verdict=review['verdict']['decision']
@@ -141,7 +160,7 @@ class Localizer:
                 require(False,'LOCALE_MAX_TWO_REVISIONS')
             previous,findings=article,review['verdict']['findings']
 
-def markdown(article,research,topic):
+def markdown(article,research,topic,public_only=False):
     """S05-format source draft; unresolved image/author/site fields stay explicit."""
     p=article['public'];locale=article.get('locale','en')
     fields=[('SEO Title',p['title']),('Meta Description',p['meta']),('H1',p['h1']),
@@ -151,15 +170,17 @@ def markdown(article,research,topic):
         ('Image Suggestion','Pending rights-cleared image selection; no image supplied'),
         ('ALT Suggestion','Pending verification of actual image'),
         ('Schema Scope','Article; Vehicle only where supported; no Offer/Price/Review/Rating')]
-    lines=['# '+p['h1'],'','## SEO Metadata','']+[f'- **{k}**: {v}' for k,v in fields]+['']
+    labels=LABELS[locale]
+    lines=['# '+p['h1'],'']
+    if not public_only:lines+=['## SEO Metadata','']+[f'- **{k}**: {v}' for k,v in fields]+['']
     lines += [s['text']+'\n' for s in p['sections']]
-    lines+=['## FAQ','']
+    lines+=['## '+labels[0],'']
     for f in p['faq']:lines+=['**'+f['question']+'**','',f['answer'],'']
-    lines+=['## Sources & Verification','','| # | Organization | Scope | URL | Retrieved |','|---|---|---|---|---|']
+    lines+=['## '+labels[1],'','| # | '+labels[2]+' | '+labels[3]+' | URL | '+labels[4]+' |','|---|---|---|---|---|']
     for i,e in enumerate(research['evidence'],1):
         row=[str(i),e.get('publisher',''),str(e.get('scope',{}).get('market','')),e.get('requested_url',''),e.get('retrieved_at','')]
         lines+=['| '+' | '.join(x.replace('|','\\|').replace('\n',' ') for x in row)+' |']
-    lines+=['','## Editorial Review','',
+    if not public_only:lines+=['','## Editorial Review','',
         '- **Author**: Prepared for AutoBridge; final byline pending.',
         '- **Verification method**: Source-bound desk research; no first-hand test claimed.',
         '- **Transparency**: AI-assisted draft and automated independent model review. Human review, image rights and live-site SEO acceptance remain pending.','']
@@ -184,7 +205,8 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
             sha=github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,path,text.encode())
             files[filename]=dict(path=path,blob_sha=sha,locale=locale,content_hash=article['content_hash'],review_hash=result['review']['review_hash'])
     require(len(files)==24 and {v['locale'] for v in files.values()}==set(LOCALES),'INCOMPLETE_24_FILE_BUNDLE')
-    report=dict(status='AUTOMATED_MULTILINGUAL_DRAFTS_COMPLETE',files=files,english_draft_prs=english_deliveries,
+    report=dict(status='TWENTY_FOUR_TEXT_DRAFTS_REVIEWED',files=files,english_draft_prs=english_deliveries,
+        production_complete=False,image_complete=False,live_seo_acceptance=False,
         human_reviewed=False,publish_approved=False,website_published=False,
         remaining=['human editorial review','image rights','same-language link verification','live-site technical acceptance'])
     journal.checkpoint('multilingual-bundle:'+digest(plan),report)

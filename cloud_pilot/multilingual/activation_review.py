@@ -9,6 +9,8 @@ def code_paths(root=ROOT):
                   if 'tests' not in p.parts and not any(x.endswith('_tests') for x in p.parts))+[
         'cloud_pilot/runtime/multilingual-manual.yml.template',
         '.github/workflows/cloud-pilot-manual.yml',
+        '.github/workflows/cloud-pilot-trusted.yml',
+        'cloud_pilot/multilingual/tests/test_recovery.py',
         'cloud_pilot/multilingual/tests/test_security.py',
         'cloud_pilot/stage2_tests/test_live.py']
 
@@ -82,16 +84,43 @@ def code_request(plan,sha,root=ROOT):
     from .startup import BATCH_CONTEXT
     files={p:(root/p).read_text() for p in code_paths(root)}
     files.update({p:(root/p).read_text() for p in BATCH_CONTEXT})
+    files['cloud_pilot/evidence/activation/real-activation-result.json']=(root/'cloud_pilot/evidence/activation/real-activation-result.json').read_text()
+    for p in ('recovery-tests.txt','recovery-stage2-tests.txt','recovery-m1-tests.txt','recovery-boundary-tests.txt'):
+        files['cloud_pilot/evidence/activation/'+p]=(root/'cloud_pilot/evidence/activation'/p).read_text()
     return dict(stage='independent_candidate_code_review',code_sha=sha,plan=intake(plan),files=files,
+        runtime_contract=dict(scope='Manual source-bound text drafts only; no website publication, image completion or human approval',
+            trust_root='Operator-protected approval fingerprint plus required environment reviewer; approval binds one exact workflow run and attempt, immutable caller/reusable workflows, code/plan/rules/prices and a reconciled append-only ledger floor. Environment control commit and fingerprint are read only when the reviewed job starts.',
+            recovery='Every new workflow run needs a newly reconciled protected floor and exact run lease. Completed operations are reused; sent/uncertain operations are never blindly resent. Adversarial GitHub owner/provider administrator changing protected approval is outside this owner-controlled pilot threat model.',
+            accounting='Provider input-token count for the same model/input/tools/text/reasoning plus a buffer determines the input upper bound. Worst cache-write rate and max output are reserved. All historical usage remains in the same USD3 ledger; output and input bounds are checked on settlement.'),
         required_output=dict(decision='PASS | BLOCK',findings='list of {severity,file,detail,required_fix}',
                              human_reviewed=False,publish_approved=False),
-        instruction='You are an independent reviewer, not the author. Audit runtime/secret boundaries, immutable '
+        instruction='You are an independent reviewer, not the author. Scope is the active multilingual entry point and its pinned reusable workflow for owner-controlled, manual draft generation; legacy inert/mock entry points are context, not newly activated services. The root of trust is the protected operator permit fingerprint and environment reviewer, not an adversarial GitHub owner or provider administrator. Within that boundary, audit runtime/secret boundaries, immutable '
             'code and control binding, whole-program USD3 cap, exact response identity and usage, no duplicate '
             'generation on resume, independent locale review, SSRF, source failures, and truthful delivery status. '
             'Return BLOCK for a correctness or safety problem that prevents a real English pilot. '
             'Known disclosed limitations (manual source intake, no website deployment, missing image rights, '
             'conservative cap potentially stopping early) are not proof of implementation success or reason '
             'to fabricate a pass. Give concrete code-grounded findings. No approval flags may be set true.')
+
+def verified_topic(journal,packet):
+    """Reuse a genuine independent topic verdict only for the identical intake/corpus packet."""
+    view=journal.read()[2]
+    for key in reversed(list(view['checkpoints'])):
+        if not key.startswith('activation-review:'):continue
+        report=journal.get_checkpoint(key)
+        if report.get('dedup_request_hash')!=digest(packet) or report.get('corpus_hash')!=packet['corpus_hash']:continue
+        result=report.get('topic_review',{});d=result.get('content',{})
+        if d.get('decision')!='PASS' or d.get('additional_paths')!=[] or len(d.get('articles',[]))!=2 or not all(a.get('decision')=='DISTINCT' for a in d['articles']):continue
+        op='activation-dedup:'+digest(packet)
+        matches=[o for o in view['operations'].values() if o['operation']==op and o['status']=='completed'
+                 and o['response']['id']==result.get('response_id')]
+        if len(matches)!=1:continue
+        import json
+        archived=journal.store.load_artifact(matches[0]['response']['text_artifact'])
+        require(json.loads(archived['text'])==d,'REUSED_TOPIC_RECEIPT_CHANGED')
+        return result,dict(checkpoint=key,operation=op,request_hash=matches[0]['request_hash'],
+                           packet_hash=digest(packet),response_id=result['response_id'])
+    return None,None
 
 def run(plan,sha,journal,models,root=ROOT):
     packet=dedup_request(plan,root) # Validate complete review inputs before the first paid request.
@@ -104,7 +133,8 @@ def run(plan,sha,journal,models,root=ROOT):
             'AUDIT_CONTRADICTORY_PASS')
     journal.checkpoint('activation-code-result:'+sha,code_result)
     # Both independent tasks may complete even if code is blocked. Writing stays forbidden.
-    dedup=models.call('activation-dedup:'+digest(packet),'research',packet)
+    dedup,reused=verified_topic(journal,packet) if hasattr(journal,'read') else (None,None)
+    if dedup is None:dedup=models.call('activation-dedup:'+digest(packet),'research',packet)
     d=dedup['content'];ids={a['article_id'] for a in plan['articles']}
     require(d.get('human_reviewed') is False and d.get('publish_approved') is False,'AUDIT_APPROVAL_FORBIDDEN')
     require(d.get('decision') in ('PASS','OVERLAP','NEEDS_MORE_EVIDENCE'),'AUDIT_DEDUP_SHAPE')
@@ -117,6 +147,7 @@ def run(plan,sha,journal,models,root=ROOT):
     report=dict(status='ACTIVATION_REVIEW_PASS' if passed else ('CODE_REVIEW_BLOCKED' if c['decision']!='PASS' else 'TOPIC_REVIEW_HOLD'),
         code_sha=sha,intake_hash=intake_hash(plan),corpus_hash=packet['corpus_hash'],
         dedup_request_hash=digest(packet),
+        reused_topic_receipt=reused,
         code_review=code_result,topic_review=dedup,human_reviewed=False,publish_approved=False)
     journal.checkpoint('activation-review:'+sha+':'+intake_hash(plan),report)
     return report
@@ -135,7 +166,14 @@ def verify_receipt(plan,sha,journal,root=ROOT):
         ('topic_review','activation-dedup:'+digest(packet),'research',packet)):
         result=receipt[key]
         completed=[o for o in operations if o['operation']==operation and o['status']=='completed']
-        require(len(completed)==1 and completed[0]['request_hash']==digest(build_request(stage,data))
+        expected=digest(build_request(stage,data))
+        if key=='topic_review' and receipt.get('reused_topic_receipt'):
+            reused=receipt['reused_topic_receipt'];expected=reused['request_hash']
+            require(reused['packet_hash']==digest(packet) and reused['operation']==operation
+                    and reused['response_id']==result['response_id'],'REUSED_TOPIC_PACKET_DRIFT')
+            original=journal.get_checkpoint(reused['checkpoint'])
+            require(original['dedup_request_hash']==digest(packet) and original['topic_review']==result,'REUSED_TOPIC_ORIGIN_DRIFT')
+        require(len(completed)==1 and completed[0]['request_hash']==expected
                 and completed[0]['response']['id']==result['response_id'],'INDEPENDENT_RECEIPT_RESPONSE_BINDING')
         parsed=journal.store.load_artifact(completed[0]['response']['text_artifact'])
         import json

@@ -21,9 +21,10 @@ class Engine:
             require(all(0<=(now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds()<=86400 for e in old),'SOURCE_EVIDENCE_STALE')
             return old
         evidence=[]
-        allowed={s['url'] for a in self.plan['articles'] for s in a['sources']}
-        allowed.update(self.plan.get('authorized_redirect_urls',[]))
         for source in topic['sources']:
+            redirects=source.get('authorized_redirect_urls',[])
+            require(set(redirects)<=set(self.plan.get('authorized_redirect_urls',[])),'SOURCE_REDIRECT_NOT_APPROVED')
+            allowed={source['url'],*redirects}
             result,raw=self.fetch(source,allowed)
             path='cloud_pilot/live_artifacts/sources/'+result['raw_sha256']+'.bin'
             blob=self.github.put_immutable(BRANCH,path,raw)
@@ -39,8 +40,12 @@ class Engine:
             aid=topic['article_id']
             existing=self.cached('delivery:'+aid)
             if existing is not None:
-                deliveries.append(existing)
+                self.evidence(topic)
                 final=self.cached('final:'+aid)
+                require(final and final['research']['topic']==topic,'CACHED_DELIVERY_TOPIC_DRIFT')
+                current=self.github.deliver_candidate(final)
+                require(current==existing,'CACHED_DELIVERY_CHANGED')
+                deliveries.append(existing)
                 if final:prior.append(final['article']['body'])
                 continue
             try:evidence=self.evidence(topic)
@@ -54,6 +59,12 @@ class Engine:
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
                 self.journal.checkpoint('research:'+aid,research)
             require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
+            from ..multilingual.research_contract import applies,request as research_review_request,accept
+            if applies(topic):
+                review_key='research-acceptance:'+research['research_hash']
+                if self.cached(review_key) is None:
+                    checked=self.models.call(aid+':research-review','review',research_review_request(research))
+                    self.journal.checkpoint(review_key,accept(checked,research))
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions
                 key=aid+':v'+str(version)

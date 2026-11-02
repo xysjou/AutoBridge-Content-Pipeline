@@ -96,7 +96,8 @@ class Tests(unittest.TestCase):
         for f in result['files'].values():
             text=self.gh.artifacts[f['path']].decode()
             self.assertEqual(1,len(re.findall(r'^# ',text,re.M)))
-            self.assertIn('## SEO Metadata',text);self.assertIn('## Sources & Verification',text)
+            from cloud_pilot.multilingual.localize import LABELS
+            self.assertIn('## SEO Metadata',text);self.assertIn('## '+LABELS[f['locale']][1],text)
         before=len(self.api.calls)
         again=run_multilingual(self.plan,self.journal,self.models,self.gh,self.english())
         self.assertEqual(result,again);self.assertEqual(before,len(self.api.calls))
