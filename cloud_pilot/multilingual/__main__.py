@@ -55,7 +55,10 @@ def preflight(plan_path=DEFAULT_PLAN,prices_path=DEFAULT_PRICES):
           dict(gate='runtime',reason='MANUAL_WORKFLOW_NOT_ACTIVATED')])
 
 def execute(plan_path,prices_path,permit_path,audit_only=False):
-    from ..live.http import JsonAPI,GitHubTransport
+    from ..live.http import JsonAPI
+    from .delivery import VerifiedGitHub
+    from .startup import verify as verify_startup,EpochJournal
+    from .pricing import verify as verify_pricing
     from ..live.ledger import GitHubStore
     from .accounting import ResponseJournal,DurableResponses
     from .sources import retrieve
@@ -77,6 +80,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     require(subprocess.run(['git','diff','--quiet','HEAD','--','cloud_pilot'],cwd=ROOT).returncode==0,
             'UNCOMMITTED_EXECUTION_CODE')
     require(preserved()==[],'BASELINE_CHANGED')
+    startup=verify_startup(permit['approved_main_sha'],plan)
     # Checks above intentionally happen before reading either application credential.
     key=os.environ.get('OPENAI_API_KEY',''); token=os.environ.get('AUTOBRIDGE_GITHUB_TOKEN','')
     require(key and token,'PROTECTED_RUNTIME_CREDENTIALS_MISSING')
@@ -85,7 +89,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     def connection(host,port,timeout,context):
         return http.client.HTTPSConnection(host,port,timeout=180,context=context)
     api=JsonAPI('api.openai.com',key,connection=connection)
-    github=GitHubTransport(JsonAPI('api.github.com',token))
+    github=VerifiedGitHub(JsonAPI('api.github.com',token))
     def permission():
         check_permit(permit,plan,prices,sha,approval)
         require(github.ref('main')==permit['approved_main_sha'],'APPROVED_MAIN_DRIFT')
@@ -95,10 +99,16 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         status,obj=api.request('GET','/v1/models/'+model)
         require(status==200 and obj.get('id')==model,'PROJECT_MODEL_UNAVAILABLE:'+model)
     journal=ResponseJournal(GitHubStore(github))
+    journal.checkpoint('startup:'+sha+':'+digest(plan),startup)
+    verify_pricing(prices,journal)
     raw_models=DurableResponses(api,journal,prices,permission)
     if audit_only:
         from .activation_review import run
         return run(plan,sha,journal,raw_models)
+    from .activation_review import verify_receipt
+    verify_receipt(plan,sha,journal)
+    revision=plan.get('evidence_revision',1)
+    journal=EpochJournal(journal,revision)
     class EditorialModels:
         def call(self,operation,stage,data):
             if data.get('stage')=='writing':
@@ -107,7 +117,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
                     'inside section text after the opening paragraph; never include an H1 in body text. '
                     'Do not add numbered source citations in prose; use publisher names when necessary. '
                     'The source table is attached by the exporter.')
-            result=raw_models.call(operation,stage,data)
+            result=raw_models.call(journal.prefix+operation,stage,data)
             if data.get('stage')=='writing':
                 require(len(result['content'].get('faq',[]))>=3,'ENGLISH_FAQ_INCOMPLETE')
             return result
@@ -132,7 +142,8 @@ def main():
         else:
             require(a.permit is not None,'APPROVED_PERMIT_REQUIRED')
             result=execute(a.plan,a.prices,a.permit,audit_only=a.command=='audit')
-        print(json.dumps(result,ensure_ascii=False,indent=2));return 0
+        print(json.dumps(result,ensure_ascii=False,indent=2))
+        return 2 if result.get('status') in ('CODE_REVIEW_BLOCKED','TOPIC_REVIEW_HOLD') else 0
     except Exception as exc:
         print(json.dumps(dict(status='STOPPED',reason=str(exc) if isinstance(exc,GateError) else type(exc).__name__)))
         return 2

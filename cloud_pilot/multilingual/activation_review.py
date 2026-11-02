@@ -3,13 +3,21 @@ import re
 from pathlib import Path
 from ..contract import ROOT,digest,require
 
-CODE_FILES=(
- 'cloud_pilot/multilingual/__main__.py','cloud_pilot/multilingual/localize.py',
- 'cloud_pilot/multilingual/accounting.py','cloud_pilot/multilingual/control.py',
- 'cloud_pilot/multilingual/sources.py','cloud_pilot/multilingual/activation_review.py',
- 'cloud_pilot/live/engine.py','cloud_pilot/live/policy.py','cloud_pilot/live/responses.py',
- 'cloud_pilot/live/ledger.py','cloud_pilot/live/http.py','cloud_pilot/live/stages.py',
- 'cloud_pilot/runtime/multilingual-manual.yml.template')
+def code_paths(root=ROOT):
+    # Include every transitive pilot module, not a handpicked security subset.
+    return sorted(p.relative_to(root).as_posix() for p in (root/'cloud_pilot').rglob('*.py')
+                  if 'tests' not in p.parts and not any(x.endswith('_tests') for x in p.parts))+[
+        'cloud_pilot/runtime/multilingual-manual.yml.template',
+        '.github/workflows/cloud-pilot-manual.yml',
+        'cloud_pilot/multilingual/tests/test_security.py',
+        'cloud_pilot/stage2_tests/test_live.py']
+
+def intake(plan):
+    # Approval state and phase do not change the actual topics/evidence/intent.
+    return {k:v for k,v in plan.items() if k not in
+            ('semantic_dedup_status','execution_phase','independent_review_receipt','evidence_revision')}
+
+def intake_hash(plan):return digest(intake(plan))
 
 def corpus(root=ROOT):
     """Current batch pointers; daily/delivery English source articles, deduped by text."""
@@ -55,7 +63,7 @@ def dedup_request(plan,root=ROOT):
     # No silently omitted matching articles. If too large, stop for explicit scoping.
     require(sum(len(x['text'].encode()) for x in related)<=900000,'RELATED_CORPUS_NEEDS_SCOPING')
     index=[{k:d[k] for k in ('path','title','url','text_hash','context_role')} for d in docs]
-    packet=dict(stage='independent_topic_dedup',plan_hash=digest(plan),
+    packet=dict(stage='independent_topic_dedup',intake_hash=intake_hash(plan),
         topics=[{k:a[k] for k in ('article_id','search_intent','buyer_task','topic_key')} for a in plan['articles']],
         corpus_index=index,related_full_text=related,
         coverage='Current batch versions plus unique English daily/delivery source articles. Localizations are represented by their English originals. No title-only pass is allowed.',
@@ -71,8 +79,8 @@ def dedup_request(plan,root=ROOT):
     return packet
 
 def code_request(plan,sha,root=ROOT):
-    files={p:(root/p).read_text() for p in CODE_FILES}
-    return dict(stage='independent_candidate_code_review',code_sha=sha,plan=plan,files=files,
+    files={p:(root/p).read_text() for p in code_paths(root)}
+    return dict(stage='independent_candidate_code_review',code_sha=sha,plan=intake(plan),files=files,
         required_output=dict(decision='PASS | BLOCK',findings='list of {severity,file,detail,required_fix}',
                              human_reviewed=False,publish_approved=False),
         instruction='You are an independent reviewer, not the author. Audit runtime/secret boundaries, immutable '
@@ -93,7 +101,7 @@ def run(plan,sha,journal,models,root=ROOT):
     require(c['decision']!='PASS' or not any(f.get('severity') in ('critical','high','blocker') for f in c['findings']),
             'AUDIT_CONTRADICTORY_PASS')
     journal.checkpoint('activation-code-result:'+sha,code_result)
-    if c['decision']!='PASS':return dict(status='CODE_REVIEW_BLOCKED',review=code_result,real_generation=True)
+    # Both independent tasks may complete even if code is blocked. Writing stays forbidden.
     dedup=models.call('activation-dedup:'+digest(packet),'research',packet)
     d=dedup['content'];ids={a['article_id'] for a in plan['articles']}
     require(d.get('human_reviewed') is False and d.get('publish_approved') is False,'AUDIT_APPROVAL_FORBIDDEN')
@@ -103,9 +111,35 @@ def run(plan,sha,journal,models,root=ROOT):
     require(all(a['decision'] in ('DISTINCT','OVERLAP','NEEDS_MORE_EVIDENCE') for a in rows),'AUDIT_DEDUP_DECISION')
     known={a['path'] for a in packet['corpus_index']}
     require(all(set(a.get('nearest_paths',[]))<=known for a in rows),'AUDIT_UNKNOWN_ARTICLE_REFERENCE')
-    passed=d['decision']=='PASS' and all(a['decision']=='DISTINCT' for a in rows) and d.get('additional_paths')==[]
-    report=dict(status='ACTIVATION_REVIEW_PASS' if passed else 'TOPIC_REVIEW_HOLD',
-        code_sha=sha,plan_hash=digest(plan),corpus_hash=packet['corpus_hash'],
+    passed=c['decision']=='PASS' and d['decision']=='PASS' and all(a['decision']=='DISTINCT' for a in rows) and d.get('additional_paths')==[]
+    report=dict(status='ACTIVATION_REVIEW_PASS' if passed else ('CODE_REVIEW_BLOCKED' if c['decision']!='PASS' else 'TOPIC_REVIEW_HOLD'),
+        code_sha=sha,intake_hash=intake_hash(plan),corpus_hash=packet['corpus_hash'],
+        dedup_request_hash=digest(packet),
         code_review=code_result,topic_review=dedup,human_reviewed=False,publish_approved=False)
-    journal.checkpoint('activation-review:'+sha+':'+digest(plan),report)
+    journal.checkpoint('activation-review:'+sha+':'+intake_hash(plan),report)
     return report
+
+def verify_receipt(plan,sha,journal,root=ROOT):
+    from ..live.responses import build_request
+    packet=dedup_request(plan,root)
+    receipt=journal.get_checkpoint('activation-review:'+sha+':'+intake_hash(plan))
+    require(receipt and receipt.get('status')=='ACTIVATION_REVIEW_PASS','INDEPENDENT_RECEIPT_REQUIRED')
+    require(receipt.get('code_sha')==sha and receipt.get('intake_hash')==intake_hash(plan)
+            and receipt.get('corpus_hash')==packet['corpus_hash']
+            and receipt.get('dedup_request_hash')==digest(packet),'INDEPENDENT_RECEIPT_DRIFT')
+    operations=journal.read()[2]['operations'].values()
+    for key,operation,stage,data in (
+        ('code_review','activation-code:'+sha,'review',code_request(plan,sha,root)),
+        ('topic_review','activation-dedup:'+digest(packet),'research',packet)):
+        result=receipt[key]
+        completed=[o for o in operations if o['operation']==operation and o['status']=='completed']
+        require(len(completed)==1 and completed[0]['request_hash']==digest(build_request(stage,data))
+                and completed[0]['response']['id']==result['response_id'],'INDEPENDENT_RECEIPT_RESPONSE_BINDING')
+        parsed=journal.store.load_artifact(completed[0]['response']['text_artifact'])
+        import json
+        require(json.loads(parsed['text'])==result['content'],'INDEPENDENT_RECEIPT_CONTENT_BINDING')
+    c=receipt['code_review']['content'];d=receipt['topic_review']['content']
+    require(c['decision']=='PASS' and d['decision']=='PASS' and d.get('additional_paths')==[]
+            and len(d['articles'])==2 and all(a['decision']=='DISTINCT' for a in d['articles']),
+            'INDEPENDENT_RECEIPT_NOT_PASS')
+    return receipt

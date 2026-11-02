@@ -49,6 +49,7 @@ def research_request(topic,evidence):
         instruction='Quotes must be literal substrings of evidence text. T1+MATCHED alone may be VERIFIED. Apply all canonical rules, including current standard, importer/vehicle scope, exception and currentness rules. Core unknowns must stop writing.')
 
 def check_research(result,topic,evidence):
+    from ..multilingual.startup import skill_provenance
     r=result['content']
     require(set(r)=={'status','writing_ai_ready','source_checks','facts','allowed_facts','blocked_facts','human_reviewed','publish_approved'},'RESEARCH_OUTPUT_FIELDS')
     require(r.get('human_reviewed') is False and r.get('publish_approved') is False,'RESEARCH_APPROVAL_FORBIDDEN')
@@ -86,6 +87,9 @@ def check_research(result,topic,evidence):
         baseline_sha=BASELINE,rules=rules(),researcher_id='research:'+result['response_id'],
         evidence_hash=digest(evidence),evidence=evidence,fact_sheet=r,topic=topic,
         human_reviewed=False,publish_approved=False)
+    provenance=skill_provenance('research')
+    packet.update(research_skill_version_used=provenance['version'],research_skill_commit_sha_used=provenance['commit'],
+                  skill_provenance=provenance,skill_impact_check_done=True,skill_update_required=False)
     packet['research_hash']=digest(packet)
     return packet
 
@@ -98,6 +102,8 @@ def writing_request(research,version,prior=None,findings=None):
         instruction='Write at least 900 English words, natural article-specific prose, evidence-bound claims and restrained uncertainty. Do not include self-evaluation or internal workflow terms. Never invent images or source URLs. Follow the canonical Writing Skill in full.')
 
 def check_writing(result,research,version,history,prior_bodies):
+    from ..multilingual.startup import skill_provenance
+    provenance=skill_provenance('writing')
     a=result['content']
     require(set(a)=={'title','meta','h1','summary','sections','faq','internal_links','human_reviewed','publish_approved'},'WRITER_FIELDS_OR_SELF_EVALUATION')
     require(a['human_reviewed'] is False and a['publish_approved'] is False,'WRITER_APPROVAL_FORBIDDEN')
@@ -125,7 +131,8 @@ def check_writing(result,research,version,history,prior_bodies):
         baseline_sha=BASELINE,rules=rules(),research_hash=research['research_hash'],
         evidence_hash=research['evidence_hash'],writer_id='writer:'+result['response_id'],
         author='AutoBridge Export Editorial Team',ai_assisted=True,evidence=dict(first_hand=False),
-        writing_skill_version_used='1.3',writing_skill_commit_sha_used=BASELINE,
+        writing_skill_version_used=provenance['version'],writing_skill_commit_sha_used=provenance['commit'],
+        skill_provenance=provenance,skill_impact_check_done=True,skill_update_required=False,
         public=a,body=body,similarity_max=maximum,manual_similarity_review_required=maximum>.50,
         human_reviewed=False,publish_approved=False,production_eligible=False,
         production_holds=['EN_ONLY','IMAGE_RIGHTS_PENDING','HUMAN_APPROVAL_ABSENT','NO_WEBSITE_PUBLICATION_AUTHORITY'])

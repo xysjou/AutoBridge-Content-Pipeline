@@ -27,16 +27,19 @@ class Tests(unittest.TestCase):
         self.assertTrue(any(d['context_role']=='reserve_not_published' for d in r['related_full_text']))
         self.assertTrue(all('text' in d for d in r['related_full_text']))
 
-    def test_code_block_prevents_dedup_and_writing(self):
+    def test_code_block_still_collects_topic_review_but_cannot_pass(self):
+        p={'articles':[{'article_id':'A'},{'article_id':'B'}]}
         class M:
             calls=[]
             def call(s,op,stage,data):
                 s.calls.append(stage)
-                return dict(content=dict(decision='BLOCK',findings=[],human_reviewed=False,publish_approved=False))
+                c=dict(decision='BLOCK',findings=[],human_reviewed=False,publish_approved=False)
+                if stage=='research':c.update(decision='PASS',articles=[dict(article_id=a['article_id'],decision='DISTINCT',nearest_paths=[]) for a in p['articles']],additional_paths=[])
+                return dict(content=c)
         m=M()
-        with patch('cloud_pilot.multilingual.activation_review.dedup_request',return_value={}),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
-            self.assertEqual('CODE_REVIEW_BLOCKED',run({},'code',Journal(),m)['status'])
-        self.assertEqual(['review'],m.calls)
+        with patch('cloud_pilot.multilingual.activation_review.dedup_request',return_value={'corpus_index':[],'corpus_hash':'hash'}),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
+            self.assertEqual('CODE_REVIEW_BLOCKED',run(p,'code',Journal(),m)['status'])
+        self.assertEqual(['review','research'],m.calls)
 
     def test_overlap_never_grants_dedup_pass(self):
         p={'articles':[{'article_id':'A'},{'article_id':'B'}]}

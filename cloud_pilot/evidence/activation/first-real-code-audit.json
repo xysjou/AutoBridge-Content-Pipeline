@@ -1,0 +1,49 @@
+{
+  "run_url": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41421387114",
+  "settled_nano_usd": 88774250,
+  "content": {
+    "decision": "BLOCK",
+    "findings": [
+      {
+        "detail": "Execution accepts semantic_dedup_status='INDEPENDENTLY_CONFIRMED' as a plan string without checking an independent audit receipt. The audit of the supplied pending plan is bound to its hash; changing the status for execution changes that hash, and execute does not verify the audit checkpoint.",
+        "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/live/stages.py; cloud_pilot/multilingual/activation_review.py",
+        "required_fix": "Require a validated independent dedup receipt bound to the executable plan, code SHA and corpus hash. Define a stable binding that excludes the status transition, or explicitly reapprove and rebind the final plan.",
+        "severity": "high"
+      },
+      {
+        "detail": "The approved main SHA is compared with the remote ref, but the checked-out execution commit is not shown to contain that main commit or its current evidence and handoffs. The required main-sync startup gate is therefore not established. Writing provenance also hardcodes the skill version and BASELINE as the skill commit rather than verifying them.",
+        "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/live/stages.py",
+        "required_fix": "Verify that the execution checkout incorporates the approved current main, read and record the applicable current repository evidence and handoffs, and derive skill version and commit provenance from the verified checkout.",
+        "severity": "high"
+      },
+      {
+        "detail": "validate_prices checks a snapshot against hardcoded rates and a self-declared timestamp, but does not verify the listed sources or establish that the rates and billing bounds match current provider pricing. Thus ledger arithmetic can remain under USD 3 while actual charges exceed it if the pinned assumptions are wrong.",
+        "file": "cloud_pilot/live/policy.py",
+        "required_fix": "Require independently verified, attributable current pricing and usage bounds for the exact models and billing profile before transmission; bind that evidence to the permit and reserve against a defensible upper bound.",
+        "severity": "high"
+      },
+      {
+        "detail": "deliver_candidate accepts an existing feature branch without validating its ancestry or diff, and draft_pr accepts an existing open draft PR without verifying its head commit or contents. A returned candidate PR can therefore contain unrelated or subsequently changed commits despite the article hash check.",
+        "file": "cloud_pilot/live/http.py",
+        "required_fix": "Verify the branch head, base ancestry and complete PR diff against the intended immutable candidate before creating or returning the PR. Record and recheck the exact head SHA.",
+        "severity": "high"
+      },
+      {
+        "detail": "The candidate code-review packet omits cloud_pilot/live/sources.py, which implements the imported URL validation, public-address resolution and pinned HTTPS controls. It also omits other transitive gate code. The supplied evidence is insufficient to establish the claimed SSRF and execution boundaries.",
+        "file": "cloud_pilot/multilingual/activation_review.py; cloud_pilot/multilingual/sources.py",
+        "required_fix": "Include and independently review the transitive security-critical modules and relevant workflow and control code. Test private-address and DNS-rebinding rejection, redirect authorization, TLS hostname validation and source failures before live execution.",
+        "severity": "high"
+      },
+      {
+        "detail": "Once an evidence checkpoint exists, it is immutable. If a run resumes after its evidence exceeds 24 hours, evidence() stops but provides no way to refresh that checkpoint or invalidate dependent research and article checkpoints. A temporary interruption can permanently strand the article.",
+        "file": "cloud_pilot/live/engine.py; cloud_pilot/live/ledger.py",
+        "required_fix": "Introduce versioned evidence checkpoints and a controlled refresh path that invalidates and rebinds dependent research, writing and review artifacts without resending already completed model operations.",
+        "severity": "medium"
+      }
+    ],
+    "human_reviewed": false,
+    "publish_approved": false
+  },
+  "model": "gpt-6.1-terra",
+  "response_id": "resp_07f96fc8bf34f651016ae859a873ac87d1a45feff92bbdb6bf"
+}

@@ -1,5 +1,5 @@
 test_actual_related_review_includes_reserve_and_foton_full_text (test_activation.Tests.test_actual_related_review_includes_reserve_and_foton_full_text) ... ok
-test_code_block_prevents_dedup_and_writing (test_activation.Tests.test_code_block_prevents_dedup_and_writing) ... ok
+test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tests.test_code_block_still_collects_topic_review_but_cannot_pass) ... ok
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
 test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
 test_declared_chinese_encoding_and_unknown_encoding (test_multilingual.Tests.test_declared_chinese_encoding_and_unknown_encoding) ... ok
@@ -16,8 +16,16 @@ test_real_execute_disabled_before_application_key_read (test_multilingual.Tests.
 test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.test_source_script_only_and_ssrf_stop_without_models) ... ok
 test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
 test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
+test_all_security_modules_and_installed_workflow_are_reviewed (test_security.Tests.test_all_security_modules_and_installed_workflow_are_reviewed) ... ok
+test_candidate_extra_file_or_changed_parent_is_rejected (test_security.Tests.test_candidate_extra_file_or_changed_parent_is_rejected) ... ok
+test_current_provider_price_and_context_drift_fail_closed (test_security.Tests.test_current_provider_price_and_context_drift_fail_closed) ... ok
+test_old_receipt_cannot_authorize_changed_corpus_or_code (test_security.Tests.test_old_receipt_cannot_authorize_changed_corpus_or_code) ... ok
+test_self_declared_dedup_status_never_authorizes_execution (test_security.Tests.test_self_declared_dedup_status_never_authorizes_execution) ... ok
+test_source_refresh_creates_new_namespace_without_overwriting_old (test_security.Tests.test_source_refresh_creates_new_namespace_without_overwriting_old) ... ok
+test_status_and_phase_change_preserve_intake_but_topic_edit_does_not (test_security.Tests.test_status_and_phase_change_preserve_intake_but_topic_edit_does_not) ... ok
+test_unmerged_main_is_rejected_before_live_execution (test_security.Tests.test_unmerged_main_is_rejected_before_live_execution) ... ok
 
 ----------------------------------------------------------------------
-Ran 18 tests in 7.373s
+Ran 26 tests in 7.909s
 
 OK
