@@ -25,7 +25,8 @@ def replay(data):
             require(len(prior) < 3 and p["attempt"] == len(prior)+1, "MAX_THREE_ATTEMPTS_OR_SEQUENCE")
             require(not any(o["status"] == "completed" for o in prior), "COMPLETED_NOT_RETRYABLE")
             require(all(o["request_hash"] == p["request_hash"] for o in prior), "RETRY_REQUEST_DRIFT")
-            require(p["amount"] == reservation(p["model"]), "RESERVATION_PRICE_MISMATCH")
+            require(p["amount"] == reservation(p["model"],p.get('input_bound')), "RESERVATION_PRICE_MISMATCH")
+            if 'input_bound' in p:require(p.get('token_count_hash') and p.get('counted_request_hash')==p['request_hash'],'PROVIDER_COUNT_BINDING')
             require(view["allocated"] + p["amount"] <= CAP, "PROGRAM_CAP_EXCEEDED")
             require(p.get("price_hash") and p.get("request_hash"), "RESERVATION_PROVENANCE")
             view["allocated"] += p["amount"]
@@ -39,6 +40,8 @@ def replay(data):
             require(o["status"] == "sent", "RESULT_WITHOUT_SEND")
             require(p["response"].get("model") == o["model"], "RESPONSE_MODEL_DRIFT")
             cost = usage_cost(o["model"], p["response"].get("usage"))
+            if 'input_bound' in o:require(p['response']['usage']['input_tokens']<=o['input_bound'],'USAGE_EXCEEDS_PROVIDER_COUNT')
+            require(cost<=o['amount'],'COST_EXCEEDS_RESERVATION')
             require(p["cost"] == cost, "SETTLEMENT_COST_MISMATCH")
             view["allocated"] -= o["amount"] - cost
             o.update(status="completed", cost=cost, response=p["response"])

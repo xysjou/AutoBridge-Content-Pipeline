@@ -1,0 +1,53 @@
+{
+  "status": "IMPLEMENTED_OFFLINE_TESTED_NOT_ACTIVATED",
+  "new_tests_passed": 14,
+  "existing_stage2_tests_passed": 47,
+  "existing_m1_tests_passed": 41,
+  "real_generation_calls_this_task": 0,
+  "application_credentials_read": false,
+  "main_changed": false,
+  "workflows_activated": false,
+  "website_published": false,
+  "independent_editorial_review": "pending",
+  "preflight": {
+    "mode": "OFFLINE_PREFLIGHT",
+    "credentials_read": false,
+    "real_api_calls": 0,
+    "target_site": "https://autobridgetrade.top/",
+    "supported_locales": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "expected_full_drafts": 24,
+    "program_budget_usd": 3,
+    "website_publication": false,
+    "blockers": [
+      {
+        "gate": "plan",
+        "reason": "SEMANTIC_DEDUP_PENDING"
+      },
+      {
+        "gate": "approval",
+        "reason": "REVIEWED_CONTROL_COMMIT_AND_PROTECTED_DIGEST_REQUIRED"
+      },
+      {
+        "gate": "account",
+        "reason": "REAL_MODEL_AVAILABILITY_NOT_VERIFIED"
+      },
+      {
+        "gate": "runtime",
+        "reason": "MANUAL_WORKFLOW_NOT_ACTIVATED"
+      }
+    ]
+  }
+}

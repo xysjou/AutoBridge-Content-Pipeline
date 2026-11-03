@@ -427,7 +427,7 @@ class LiveTests(unittest.TestCase):
         engine=Engine(plan(),history(),self.journal,models,github,fetch)
         first=engine.run();second=engine.run()
         self.assertEqual(first,second);self.assertEqual(['research','writing','review']*2,models.calls)
-        self.assertEqual(2,len(github.deliveries))
+        self.assertEqual(4,len(github.deliveries)) # Two deliveries are revalidated on recovery; model calls are unchanged.
 
     def test_source_failure_stops_all_models(self):
         class Models:
@@ -435,10 +435,13 @@ class LiveTests(unittest.TestCase):
         def fail(*a):raise GateError('SOURCE_ACCESS_LIMITATION')
         with self.assertRaisesRegex(GateError,'SOURCE_ACCESS'):Engine(plan(),history(),self.journal,Models(),object(),fail).run()
 
-    def test_real_entrypoint_template_is_inert_and_existing_workflows_unchanged(self):
+    def test_authorized_manual_bootstrap_and_other_workflows_unchanged(self):
         self.assertFalse((ROOT/'.github/workflows/cloud-pilot-api.yml').exists())
-        result=subprocess.check_output(['git','diff','75d010eae1300532f6008988d01d65cdae3d1c86','--','.github/workflows'],cwd=ROOT,text=True)
+        result=subprocess.check_output(['git','diff','75d010eae1300532f6008988d01d65cdae3d1c86','--','.github/workflows',
+            ':(exclude).github/workflows/cloud-pilot-manual.yml',':(exclude).github/workflows/cloud-pilot-trusted.yml'],cwd=ROOT,text=True)
         self.assertEqual('',result)
+        self.assertEqual((ROOT/'cloud_pilot/runtime/multilingual-manual.yml.template').read_text(),
+                         (ROOT/'.github/workflows/cloud-pilot-manual.yml').read_text())
 
     def test_two_revisions_exhaustion_is_durable(self):
         class Models:

@@ -6,10 +6,11 @@ from .stages import (validate_plan,research_request,check_research,writing_reque
                      check_writing,review_request,check_review)
 
 class Engine:
-    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=()):
+    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=(),guard=lambda:None):
         validate_plan(plan,history)
         self.plan,self.history,self.journal=plan,history,journal
         self.models,self.github,self.fetch,self.prior_bodies=models,github,fetch,tuple(prior_bodies)
+        self.guard=guard
 
     def cached(self,key):
         return self.journal.get_checkpoint(key)
@@ -21,9 +22,10 @@ class Engine:
             require(all(0<=(now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds()<=86400 for e in old),'SOURCE_EVIDENCE_STALE')
             return old
         evidence=[]
-        allowed={s['url'] for a in self.plan['articles'] for s in a['sources']}
-        allowed.update(self.plan.get('authorized_redirect_urls',[]))
         for source in topic['sources']:
+            redirects=source.get('authorized_redirect_urls',[])
+            require(set(redirects)<=set(self.plan.get('authorized_redirect_urls',[])),'SOURCE_REDIRECT_NOT_APPROVED')
+            allowed={source['url'],*redirects}
             result,raw=self.fetch(source,allowed)
             path='cloud_pilot/live_artifacts/sources/'+result['raw_sha256']+'.bin'
             blob=self.github.put_immutable(BRANCH,path,raw)
@@ -36,11 +38,16 @@ class Engine:
     def run(self):
         deliveries=[];prior=list(self.prior_bodies)
         for topic in self.plan['articles']:
+            self.guard()
             aid=topic['article_id']
             existing=self.cached('delivery:'+aid)
             if existing is not None:
-                deliveries.append(existing)
+                self.evidence(topic)
                 final=self.cached('final:'+aid)
+                require(final and final['research']['topic']==topic,'CACHED_DELIVERY_TOPIC_DRIFT')
+                current=self.github.deliver_candidate(final)
+                require(current==existing,'CACHED_DELIVERY_CHANGED')
+                deliveries.append(existing)
                 if final:prior.append(final['article']['body'])
                 continue
             try:evidence=self.evidence(topic)
@@ -54,8 +61,20 @@ class Engine:
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
                 self.journal.checkpoint('research:'+aid,research)
             require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
+            from ..multilingual.research_contract import applies,request as research_review_request,accept
+            if applies(topic):
+                review_key='research-acceptance:'+research['research_hash']
+                if self.cached(review_key) is None:
+                    checked=self.models.call(aid+':research-review','review',research_review_request(research))
+                    self.journal.checkpoint(review_key,accept(checked,research))
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions
+                self.guard()
+                fresh=self.cached('research:'+aid)
+                require(fresh==research,'RESEARCH_BASELINE_DRIFT')
+                if applies(topic):
+                    from ..multilingual.research_contract import validate
+                    validate(fresh['fact_sheet'],topic,evidence)
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
                 if article is None:
@@ -75,6 +94,7 @@ class Engine:
                 require(review['content_hash']==article['content_hash'],'STALE_REVIEW')
                 verdict=review['verdict']['decision']
                 if verdict=='REVIEW_PASS':
+                    self.guard()
                     package=dict(article=article,research=research,review=review)
                     self.journal.checkpoint('final:'+aid,package)
                     try:delivery=self.github.deliver_candidate(package)
