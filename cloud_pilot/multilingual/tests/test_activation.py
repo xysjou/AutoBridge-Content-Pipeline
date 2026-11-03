@@ -89,6 +89,12 @@ class Tests(unittest.TestCase):
             self.assertEqual((None,None),verified_topic(j,changed_packet,changed_plan))
 
 
+class AuditReasoningTests(unittest.TestCase):
+    def test_code_audit_uses_medium_but_fact_review_keeps_high(self):
+        from cloud_pilot.live.responses import build_request
+        self.assertEqual('medium',build_request('review',{'stage':'independent_candidate_code_review'})['reasoning']['effort'])
+        self.assertEqual('high',build_request('review',{'stage':'independent_research_review'})['reasoning']['effort'])
+
 class BudgetAmendmentTests(unittest.TestCase):
     def test_amendment_preserves_original_header_and_history(self):
         from cloud_pilot.live.ledger import genesis,append,replay

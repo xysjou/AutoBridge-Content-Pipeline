@@ -1,3 +1,4 @@
+test_code_audit_uses_medium_but_fact_review_keeps_high (test_activation.AuditReasoningTests.test_code_audit_uses_medium_but_fact_review_keeps_high) ... ok
 test_amendment_preserves_original_header_and_history (test_activation.BudgetAmendmentTests.test_amendment_preserves_original_header_and_history) ... ok
 test_unapproved_or_changed_spend_amendment_rejected (test_activation.BudgetAmendmentTests.test_unapproved_or_changed_spend_amendment_rejected) ... ok
 test_actual_related_review_includes_reserve_and_foton_full_text (test_activation.Tests.test_actual_related_review_includes_reserve_and_foton_full_text) ... ok
@@ -81,6 +82,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 81 tests in 18.830s
+Ran 82 tests in 22.574s
 
 OK
