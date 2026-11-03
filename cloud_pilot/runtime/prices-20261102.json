@@ -37,5 +37,6 @@
     "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
     "https://developers.openai.com/api/docs/models/gpt-6-luna",
     "https://developers.openai.com/api/docs/guides/prompt-caching"
-  ]
+  ],
+  "editorial_max_output": 24000
 }

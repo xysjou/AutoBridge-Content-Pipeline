@@ -26,6 +26,7 @@ RATES = {
 }
 CONTEXT = 1_050_000
 MAX_OUTPUT = 8_000
+EDITORIAL_MAX_OUTPUT = 24_000
 
 def now():
     return datetime.now(timezone.utc)
@@ -48,6 +49,7 @@ def load_rules(include_historical=True):
 def validate_prices(snapshot, at=None):
     require(snapshot.get("rates") == RATES, "UNKNOWN_OR_CHANGED_PRICING")
     require(snapshot.get("context") == CONTEXT and snapshot.get("max_output") == MAX_OUTPUT, "TOKEN_LIMIT_SNAPSHOT")
+    require(snapshot.get('editorial_max_output') == EDITORIAL_MAX_OUTPUT, 'EDITORIAL_OUTPUT_SNAPSHOT')
     require(snapshot.get("service_tier") == "default" and snapshot.get("cache_ttl") == "30m", "UNSUPPORTED_BILLING_PROFILE")
     verified = datetime.fromisoformat(snapshot["verified_at"])
     require(verified.tzinfo is not None, "PRICE_TIMEZONE")
@@ -56,13 +58,15 @@ def validate_prices(snapshot, at=None):
     require(snapshot.get("source_urls") and snapshot.get("snapshot_ids") == list(RATES), "PRICE_PROVENANCE_UNKNOWN")
     return digest(snapshot)
 
-def reservation(model,input_bound=None):
+def reservation(model,input_bound=None,output_bound=None):
     require(model in RATES, "UNKNOWN_MODEL_PRICE")
     p = RATES[model]
-    if input_bound is None:return CONTEXT * p["long_write"] + MAX_OUTPUT * p["long_output"]
+    output_bound=MAX_OUTPUT if output_bound is None else output_bound
+    require(type(output_bound) is int and 0<output_bound<=EDITORIAL_MAX_OUTPUT,'INVALID_OUTPUT_BOUND')
+    if input_bound is None:return CONTEXT * p["long_write"] + output_bound * p["long_output"]
     require(type(input_bound) is int and 0<input_bound<=CONTEXT,'INVALID_PROVIDER_TOKEN_BOUND')
     prefix='long_' if input_bound>272000 else ''
-    return input_bound*p[prefix+'write']+MAX_OUTPUT*p[prefix+'output']
+    return input_bound*p[prefix+'write']+output_bound*p[prefix+'output']
 
 def usage_cost(model, usage):
     require(model in RATES and isinstance(usage, dict), "USAGE_UNKNOWN")
@@ -74,12 +78,12 @@ def usage_cost(model, usage):
     details = usage.get("input_tokens_details", {})
     cached, writes = count(details, "cached_tokens"), count(details, "cache_write_tokens")
     reasoning = count(usage.get("output_tokens_details", {}), "reasoning_tokens")
-    require(inputs <= CONTEXT and outputs <= MAX_OUTPUT and reasoning <= outputs, "USAGE_OUTSIDE_BOUND")
+    require(inputs <= CONTEXT and outputs <= EDITORIAL_MAX_OUTPUT and reasoning <= outputs, "USAGE_OUTSIDE_BOUND")
     require(cached + writes <= inputs, "INVALID_CACHE_USAGE")
     p, prefix = RATES[model], "long_" if inputs > 272000 else ""
     cost = ((inputs-cached-writes)*p[prefix+"input"] + cached*p[prefix+"cached"]
             + writes*p[prefix+"write"] + outputs*p[prefix+"output"])
-    require(cost <= reservation(model), "COST_OUTSIDE_RESERVATION")
+    require(cost <= reservation(model,output_bound=EDITORIAL_MAX_OUTPUT), "COST_OUTSIDE_RESERVATION")
     return cost
 
 def check_permit(permit, plan, snapshot, code_sha, approval_digest):

@@ -94,6 +94,8 @@ class AuditReasoningTests(unittest.TestCase):
         from cloud_pilot.live.responses import build_request
         self.assertEqual('medium',build_request('review',{'stage':'independent_candidate_code_review'})['reasoning']['effort'])
         self.assertEqual('high',build_request('review',{'stage':'independent_research_review'})['reasoning']['effort'])
+        self.assertEqual(24000,build_request('research',{'stage':'research'})['max_output_tokens'])
+        self.assertEqual(8000,build_request('research',{'stage':'independent_topic_dedup'})['max_output_tokens'])
 
 class BudgetAmendmentTests(unittest.TestCase):
     def test_amendment_preserves_original_header_and_history(self):

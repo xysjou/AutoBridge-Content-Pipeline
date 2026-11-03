@@ -3,7 +3,7 @@ import json
 import uuid
 from ..contract import canonical, digest, require
 from .http import TransportFailure
-from .policy import STAGE_MODELS, MAX_OUTPUT, validate_prices, reservation, usage_cost, load_rules
+from .policy import STAGE_MODELS, MAX_OUTPUT, EDITORIAL_MAX_OUTPUT, validate_prices, reservation, usage_cost, load_rules
 
 def build_request(stage,data):
     require(stage in STAGE_MODELS,'UNKNOWN_STAGE')
@@ -21,7 +21,7 @@ def build_request(stage,data):
         canonical(load_rules(include_historical=data.get('stage') not in
             ('independent_candidate_code_review','independent_topic_dedup'))))
     return dict(model=model,reasoning=dict(effort=effort),store=False,service_tier='default',
-        max_output_tokens=MAX_OUTPUT,prompt_cache_options=dict(mode='implicit',ttl='30m'),
+        max_output_tokens=(MAX_OUTPUT if data.get('stage') in ('independent_candidate_code_review','independent_topic_dedup') else EDITORIAL_MAX_OUTPUT),prompt_cache_options=dict(mode='implicit',ttl='30m'),
         input=[dict(role='developer',content=instructions),dict(role='user',content=canonical(data))],
         text=dict(format=dict(type='json_object')),tools=[])
 
@@ -64,7 +64,8 @@ class Responses:
         rid=digest([operation,attempt]);owner=uuid.uuid4().hex
         reserve=dict(kind='reserve',id=rid,operation=operation,attempt=attempt,owner=owner,
             request_hash=request_hash,price_hash=price_hash,model=request['model'],
-            amount=reservation(request['model'],bound.get('input_bound')),**bound)
+            amount=reservation(request['model'],bound.get('input_bound'),request['max_output_tokens']),
+            output_bound=request['max_output_tokens'],**bound)
         self.journal.commit('reserve:'+rid,reserve)
         self.journal.commit('sent:'+rid,dict(kind='sent',id=rid))
         # Crash after durable sent => no automatic retry, even if transmission did not occur.

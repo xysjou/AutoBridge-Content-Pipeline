@@ -92,7 +92,12 @@ class Tests(unittest.TestCase):
 
     def english(self):return Engine(self.plan,history(),self.journal,self.models,self.gh,fetch).run()
 
+    def approved_cap8(self):
+        from cloud_pilot.live.policy import CAP,AMENDED_CAP,BUDGET_APPROVAL_HASH
+        self.journal.commit('synthetic-cap8',dict(kind='budget_amendment',previous_cap_nano_usd=CAP,cap_nano_usd=AMENDED_CAP,approval_hash=BUDGET_APPROVAL_HASH,settled_nano_usd=0))
+
     def test_full_two_articles_twelve_locales_fifty_calls_and_no_calls_on_resume(self):
+        self.approved_cap8()
         deliveries=self.english()
         result=run_multilingual(self.plan,self.journal,self.models,self.gh,deliveries)
         self.assertEqual(24,len(result['files']));self.assertEqual(50,len(self.api.calls))
@@ -112,6 +117,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(result,again);self.assertEqual(before,len(self.api.calls))
 
     def test_delivery_failure_resume_reuses_translation_and_review(self):
+        self.approved_cap8()
         deliveries=self.english();self.gh.fail_export=True
         with self.assertRaisesRegex(GateError,'EXPORT_FAILURE'):
             run_multilingual(self.plan,self.journal,self.models,self.gh,deliveries)

@@ -82,6 +82,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 82 tests in 22.574s
+Ran 82 tests in 22.191s
 
 OK

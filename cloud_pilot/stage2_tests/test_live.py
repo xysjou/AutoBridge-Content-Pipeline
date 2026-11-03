@@ -125,7 +125,7 @@ class LiveTests(unittest.TestCase):
         request=self.api.calls[0][2]
         self.assertFalse(request['store']);self.assertEqual([],request['tools'])
         self.assertEqual({'mode':'implicit','ttl':'30m'},request['prompt_cache_options'])
-        self.assertEqual('medium',request['reasoning']['effort']);self.assertEqual(8000,request['max_output_tokens'])
+        self.assertEqual('medium',request['reasoning']['effort']);self.assertEqual(24000,request['max_output_tokens'])
         self.assertIn('LESSONS_LEARNED.md',request['input'][0]['content'])
         self.assertEqual(3,len(self.store.data['events']))
 
@@ -155,7 +155,7 @@ class LiveTests(unittest.TestCase):
     def test_timeout_holds_full_amount_and_stops_program(self):
         self.api.fail=True
         with self.assertRaisesRegex(TransportFailure,'STOP_PROGRAM'):self.client.call('op','writing',{})
-        v=replay(self.store.data);self.assertEqual(reservation('gpt-6.1-terra'),v['allocated'])
+        v=replay(self.store.data);self.assertEqual(reservation('gpt-6.1-terra',output_bound=24000),v['allocated'])
         with self.assertRaisesRegex(GateError,'UNRESOLVED_PROGRAM_CALL'):self.client.call('other','research',{})
         with self.assertRaisesRegex(GateError,'NO_RESEND'):self.client.call('op','writing',{})
         self.assertEqual(1,len(self.api.calls))

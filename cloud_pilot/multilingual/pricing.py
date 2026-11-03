@@ -3,7 +3,7 @@ import hashlib
 import re
 from ..contract import require,digest
 from ..live.sources import url_parts,public_addresses,PinnedHTTPS,PlainText
-from ..live.policy import RATES,CONTEXT,MAX_OUTPUT,timestamp
+from ..live.policy import RATES,CONTEXT,MAX_OUTPUT,EDITORIAL_MAX_OUTPUT,timestamp
 
 URLS={m:'https://developers.openai.com/api/docs/models/'+m for m in RATES}
 CACHE_URL='https://developers.openai.com/api/docs/guides/prompt-caching'
@@ -32,7 +32,7 @@ def check(model,text):
         require(found and float(found.group(1))==value,
                 'PROVIDER_PRICE_CHANGED:'+model+':'+rate)
     require('1,050,000 context window' in text,'PROVIDER_CONTEXT_CHANGED')
-    require('128,000 max output tokens' in text and MAX_OUTPUT<=128000 and CONTEXT==1050000,'PROVIDER_OUTPUT_BOUND')
+    require('128,000 max output tokens' in text and max(MAX_OUTPUT,EDITORIAL_MAX_OUTPUT)<=128000 and CONTEXT==1050000,'PROVIDER_OUTPUT_BOUND')
     require(('30-minute retention' in text if model=='gpt-6.1-terra' else '1.25x the uncached input token rate' in text)
             and '272K input tokens' in text
             and '2x input and cache rates' in text and '1.5x output' in text,'PROVIDER_BILLING_PROFILE_CHANGED')

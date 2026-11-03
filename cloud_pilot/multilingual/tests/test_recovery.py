@@ -47,7 +47,7 @@ class Tests(unittest.TestCase):
         api=API();j=ResponseJournal(ArtifactStore());client=CountedResponses(api,j,prices(),lambda:None)
         self.assertEqual({'ok':True},client.call('counted','writing',{})['content'])
         op=next(iter(j.read()[2]['operations'].values()))
-        self.assertEqual(2024,op['input_bound']);self.assertLess(op['amount'],100000000)
+        self.assertEqual(2024,op['input_bound']);self.assertEqual(24000,op['output_bound']);self.assertEqual(122530000,op['amount'])
         client.call('counted','writing',{})
         self.assertEqual(1,api.counts);self.assertEqual(1,len(api.calls))
 
