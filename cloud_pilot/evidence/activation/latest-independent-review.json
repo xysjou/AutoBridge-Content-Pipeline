@@ -1,0 +1,41 @@
+{
+  "content": {
+    "decision": "BLOCK",
+    "findings": [
+      {
+        "detail": "The handoff can list an allowed fact ID in facts_not_allowed_in_body. Validation requires that field to include blocked_facts but never checks that it is disjoint from allowed_facts. The writer then authorizes claims using allowed_facts alone, so an explicitly forbidden fact can reach the draft.",
+        "file": "cloud_pilot/multilingual/research_contract.py; cloud_pilot/live/stages.py",
+        "required_fix": "Require allowed_facts to be disjoint from every forbidden and conflicted fact set. Add an active-article regression test showing that contradictory handoffs stop writing.",
+        "severity": "high"
+      },
+      {
+        "detail": "Vehicle identity validation checks whether each identity value occurs in an allowed fact statement, but does not bind that fact's market, year, generation, trim and powertrain to the complete identity. The synthetic test demonstrates that one generic fact containing 'Synthetic' can satisfy every identity field. A family or differently scoped source can therefore satisfy an exact-vehicle lock.",
+        "file": "cloud_pilot/multilingual/research_contract.py; cloud_pilot/multilingual/tests/test_editorial_controls.py",
+        "required_fix": "Bind each identity field to direct, field-specific evidence and validate compatibility across the complete reference-vehicle scope. Add tests for family-level and mismatched market/year/trim evidence.",
+        "severity": "high"
+      },
+      {
+        "detail": "The current-standard gate can be bypassed by setting standard_related=false for citations not recognized by the limited regex, such as 'Regulation (EU) 2018/858' or a mandatory GB standard. Even when triggered, primary_source_url may point to any T1 evidence item rather than a source that directly supports that standard and its stated version fields.",
+        "file": "cloud_pilot/multilingual/research_contract.py; cloud_pilot/live/stages.py",
+        "required_fix": "Enforce classification for all applicable standards and regulations, bind current-version fields to a directly supporting, scope-matched primary source, and add active-article tests for alternate citation formats and unrelated T1 URLs.",
+        "severity": "high"
+      },
+      {
+        "detail": "Startup verifies that approved main is an ancestor of the execution checkout, but does not enforce the permanent gate requiring local HEAD to equal the current origin/main HEAD before research. A descendant integration checkout can pass. The required lessons-read timestamp and auditable startup-gate record are also absent.",
+        "file": "cloud_pilot/multilingual/startup.py; cloud_pilot/multilingual/__main__.py",
+        "required_fix": "Synchronize and verify the actual main and local HEAD identifiers before research, fail closed on mismatch, and record the required repository and lessons identifiers and read time in the batch startup gate.",
+        "severity": "high"
+      },
+      {
+        "detail": "The supplied source-reuse attestation is not consumed by the runtime. If the target checkpoint has not already been populated, evidence() refetches the sources; if it has, the cached path checks retrieval age but does not revalidate the reused evidence against the current source declarations. The supplied packet does not establish that the target checkpoint was populated.",
+        "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/startup.py",
+        "required_fix": "Implement or explicitly verify the protected evidence-only transfer, including artifact hashes, source IDs, URLs, publishers, scopes and original retrieval times. Fail closed if the target checkpoint or any binding is missing.",
+        "severity": "medium"
+      }
+    ],
+    "human_reviewed": false,
+    "publish_approved": false
+  },
+  "model": "gpt-6.1-terra",
+  "response_id": "resp_0a5fe5ff9adaed51016ae94f45ff7c87d1913894a3743a60ad"
+}

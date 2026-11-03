@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:autobridge:cloud-pilot:1.0",
+  "title": "Shared synthetic stage envelope",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "program_id",
+    "article_id",
+    "version",
+    "synthetic",
+    "locale",
+    "baseline_sha",
+    "rules",
+    "rule_versions",
+    "human_reviewed",
+    "publish_approved",
+    "first_hand"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "autobridge-cloud-pilot/1.0"
+    },
+    "program_id": {
+      "const": "autobridge-two-en-pilot-20261102"
+    },
+    "article_id": {
+      "type": "string",
+      "pattern": "^MOCK-[A-Z0-9-]+$"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3
+    },
+    "synthetic": {
+      "const": true
+    },
+    "locale": {
+      "const": "en"
+    },
+    "baseline_sha": {
+      "const": "92e97312f1f225023bd663ada41dfadfc9bfd848"
+    },
+    "rules": {
+      "type": "object",
+      "minProperties": 7,
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{64}$"
+      }
+    },
+    "rule_versions": {
+      "const": {
+        "research": "1.1",
+        "writing": "1.3"
+      }
+    },
+    "human_reviewed": {
+      "const": false
+    },
+    "publish_approved": {
+      "const": false
+    },
+    "first_hand": {
+      "const": false
+    }
+  },
+  "$comment": "Stage-specific relational invariants and content/hash/source checks are enforced in contract.py, research.py, writing.py and review.py. No remote schema resolution."
+}

@@ -1,0 +1,22 @@
+name: Work Cloud pilot - offline mock only
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: work-cloud-pilot-mock
+  cancel-in-progress: false
+jobs:
+  mock:
+    if: startsWith(github.ref, 'refs/heads/feature/work-cloud-pilot-') || startsWith(github.ref, 'refs/heads/integration/work-cloud-pilot-')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Offline standard-library tests (no secrets or API calls)
+        run: python3 -m unittest discover -s cloud_pilot/tests -v
+      - name: Check two synthetic pilot packets and immutable baseline
+        run: python3 -m cloud_pilot.pilot --verify

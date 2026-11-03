@@ -1,0 +1,393 @@
+{
+  "schema": "autobridge-two-en-intake-proposal/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "created_at": "2026-11-02T07:14:10+00:00",
+  "status": "PROPOSAL_ONLY_NOT_EXECUTABLE",
+  "startup_gate": {
+    "research_baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+    "research_worktree_head": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+    "main_verified_via": "GitHub connector; isolated worktree materialized at exact verified main",
+    "lessons_sha256": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "research_skill_version": "1.1",
+    "writing_skill_version": "1.3",
+    "rule_changes": false
+  },
+  "budget": {
+    "cap_usd": 3,
+    "scope": "Whole existing pilot program, including both articles, all stages, revisions and reruns",
+    "real_openai_calls_this_preparation": 0
+  },
+  "dedup_check": {
+    "history_entries": 2458,
+    "history_documents": 3439,
+    "method": "Metadata topic/intent/URL scan plus keyword inspection of available historical document text; closest English article and charging Fact Sheet read",
+    "semantic_independence_confirmed": false,
+    "conclusion": "No approval issued. Recall coverage occurs as a subsidiary issue in OTA/shipping; charging has an existing neighbouring hub. Independent intent/cannibalisation review is still required.",
+    "unverified": "No live-site crawling or independent semantic-review model call was performed."
+  },
+  "articles": [
+    {
+      "article_id": "PILOT-UK-RECALL-CHECK",
+      "locale": "en",
+      "version": 1,
+      "content_type": "BUYER_PROCESS_GUIDE",
+      "proposed_title": "Checking Recalls on an Imported Used Car: What a UK Buyer Should Confirm Before Paying",
+      "primary_query": "imported used car recall check UK VIN",
+      "search_intent": "Confirm outstanding safety campaigns and documented remedy status for an imported used car before payment, accounting for database coverage limits.",
+      "buyer_task": "Collect the correct identity and original-market details, use applicable official/manufacturer checks, and request campaign/remedy evidence before accepting an unclear result.",
+      "target_buyer": "UK importer or small-fleet procurement manager",
+      "reference_market": "United Kingdom",
+      "topic_key": "uk_imported_used_vehicle_recall_due_diligence",
+      "proposed_url": "/pilot-only/imported-used-car-recall-check/",
+      "sources": [
+        {
+          "source_id": "R01",
+          "title": "Check if a vehicle, part or accessory has been recalled",
+          "publisher": "DVSA / GOV.UK",
+          "parent_org": "UK Government",
+          "url": "https://www.gov.uk/check-vehicle-recall",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "UK guidance provides registration-based recall checking and a make/model/manufacture-year route when registration is unknown.",
+          "limitations": "Do not equate a model-level notice with a particular VIN's repair-completion status.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "R02",
+          "title": "Recalled vehicles, parts and accessories",
+          "publisher": "DVSA / GOV.UK",
+          "parent_org": "UK Government",
+          "url": "https://www.gov.uk/vehicle-recalls-and-faults/recalled-vehicles-parts-accessories",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Manufacturer notices explain the reason, next action and contact; notification depends on having the owner's contact details.",
+          "limitations": "Do not promise receipt of a letter, universally free overseas repairs or a universal stop-driving instruction.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "R03",
+          "title": "Product recalls and updates",
+          "publisher": "Honda UK",
+          "parent_org": "Honda Motor",
+          "url": "https://www.honda.co.uk/cars/owners/recalls-and-updates.html",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Honda explicitly warns that European records may not show an imported vehicle's outstanding recall or update and directs owners to Honda/dealers.",
+          "limitations": "Honda-specific example only. Static form text contains contradictory result placeholders; no VIN was submitted and no vehicle result was obtained.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "R04",
+          "title": "Toyota Recalls",
+          "publisher": "Toyota UK",
+          "parent_org": "Toyota Motor",
+          "url": "https://www.toyota.co.uk/owners/vehicle-information/recalls",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Toyota provides recall checking and dealer contact for current and previous campaigns.",
+          "limitations": "Toyota-specific process. Do not extrapolate UK service arrangements or remedy availability to every imported vehicle or destination.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "R05",
+          "title": "Owners FAQs",
+          "publisher": "Volkswagen UK",
+          "parent_org": "Volkswagen Group",
+          "url": "https://www.volkswagen.co.uk/en/need-help/need-help-faqs/owners.html",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Volkswagen directs customers to its retailer and identifies UK registration as a condition of the government outstanding-recall route described in its FAQ.",
+          "limitations": "Volkswagen UK process only; no particular campaign, VIN, vehicle age or repair price is asserted.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "R06",
+          "title": "Vehicle Recalls",
+          "publisher": "The Motor Ombudsman",
+          "parent_org": "The Motor Ombudsman",
+          "url": "https://www.themotorombudsman.org/vehicle-recalls/",
+          "tier": "T3",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Its VIN service depends on manufacturer participation; it directs users to the manufacturer/dealer when a make is absent.",
+          "limitations": "Industry service explanation, not a statute or proof that a vehicle is recall-free. No form, terms or CAPTCHA was submitted.",
+          "official_source": false,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        }
+      ],
+      "source_url_count": 6,
+      "source_parent_org_count": 5,
+      "historical_neighbours": [
+        "AB-260902-G08 infotainment/OTA localisation",
+        "AB-260903-G05 electrified-vehicle shipping",
+        "pre-shipment inspection / photo-VIN guides"
+      ],
+      "intended_distinction": "Campaign lookup coverage and remedy evidence, rather than software localisation, shipping acceptance or general VIN/photo inspection.",
+      "blocked_facts": [
+        "Any particular VIN is recall-free",
+        "Every brand's UK database covers all grey imports",
+        "A model-level match establishes VIN applicability",
+        "Universal cross-border free repair or warranty entitlement",
+        "Blanket stop-driving rule for every recall",
+        "UK requirements apply globally"
+      ],
+      "research_status": "NOT_YET_SUBMITTED_TO_RESEARCH_MODEL",
+      "writing_ai_ready": false,
+      "semantic_dedup_status": "INDEPENDENT_REVIEW_PENDING",
+      "image_rights_status": "NO_IMAGE_SELECTED",
+      "human_reviewed": false,
+      "publish_approved": false
+    },
+    {
+      "article_id": "PILOT-UK-AC-DEPOT",
+      "locale": "en",
+      "version": 1,
+      "content_type": "BUYER_PROCESS_GUIDE",
+      "proposed_title": "Before Ordering EVs for a UK Small Fleet: Check AC Limits, Supply Phases and Overnight Charging",
+      "primary_query": "UK small fleet AC onboard charger single three phase depot",
+      "search_intent": "Match an already-compatible vehicle's onboard AC capability and overnight operating needs to a UK small-business site's available supply before placing a fleet order.",
+      "buyer_task": "Ask for exact-market vehicle AC specifications and a site assessment, distinguish vehicle/chargepoint/supply constraints, and identify evidence needed before ordering.",
+      "target_buyer": "UK importer or small-fleet procurement manager",
+      "reference_market": "United Kingdom",
+      "topic_key": "uk_small_fleet_ac_capacity_procurement",
+      "proposed_url": "/pilot-only/uk-small-fleet-ac-charging-check/",
+      "sources": [
+        {
+          "source_id": "C01",
+          "title": "Charging your business's electric vehicles",
+          "publisher": "Energy Saving Trust",
+          "parent_org": "Energy Saving Trust",
+          "url": "https://energysavingtrust.org.uk/business/transport/advice-to-smes/electric-cars-and-vans/charging-your-businesss-electric-vehicles/",
+          "tier": "T3",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Depot planning should consider overnight dwell time, electricity supply and the vehicle's AC charging limit.",
+          "limitations": "The page includes old electricity prices, simplified charging-time arithmetic and inconsistent kWh/kW wording. Exclude these numerical examples and cost claims.",
+          "official_source": false,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "C02",
+          "title": "Types of chargers",
+          "publisher": "Energy Saving Trust",
+          "parent_org": "Energy Saving Trust",
+          "url": "https://fleetdecarbonisationtoolkit.energysavingtrust.org.uk/t/charging-infrastructure/type-of-ev-chargers/",
+          "tier": "T3",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "AC charging uses the onboard charger; DC supplies the battery through a different charging path.",
+          "limitations": "Explain the architecture only; do not transfer illustrative charging curves or hours to a specific vehicle.",
+          "official_source": false,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "C03",
+          "title": "DNO connection scenarios",
+          "publisher": "Energy Saving Trust",
+          "parent_org": "Energy Saving Trust",
+          "url": "https://fleetdecarbonisationtoolkit.energysavingtrust.org.uk/t/charging-infrastructure/distribution-network-operators-dnos/dno-connection-scenarios/",
+          "tier": "T3",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Infrastructure planning distinguishes connection capacity, phases, equipment power and future demand; its table gives three-phase examples for higher-power AC charging.",
+          "limitations": "Planning examples, not an installation design or a guaranteed DNO offer. Do not generalise SSEN thresholds to every DNO.",
+          "official_source": false,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "C04",
+          "title": "Why EVs may reach 11kW despite zappi's 22kW capability",
+          "publisher": "myenergi GB",
+          "parent_org": "myenergi",
+          "url": "https://support.myenergi.com/hc/en-gb/articles/28401995738001-Understanding-Why-Many-EVs-Max-Out-at-11kW-Charging-Despite-the-zappi-s-22kW-Capability",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "The equipment manufacturer's explanation distinguishes its chargepoint rating from the vehicle's onboard AC limit.",
+          "limitations": "Primary for its own product behaviour only. 'Many EVs' is not evidence of any selected model's specification; do not repeat promotional suitability claims.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "C05",
+          "title": "What do you need to upgrade?",
+          "publisher": "UK Power Networks",
+          "parent_org": "UK Power Networks",
+          "url": "https://www.ukpowernetworks.co.uk/i-already-have-electricity-domestic/adding-more-power/what-do-you-need-to-upgrade",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "UKPN describes a single-to-three-phase upgrade route for domestic and small-business customers.",
+          "limitations": "UKPN service-area and small-business scope only, up to the stated service category; not large depots or a nationwide cost promise.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        },
+        {
+          "source_id": "C06",
+          "title": "Connecting EV chargepoints to the electricity network",
+          "publisher": "DESNZ / GOV.UK",
+          "parent_org": "UK Government",
+          "url": "https://www.gov.uk/government/publications/connecting-electric-vehicle-chargepoints-to-the-electricity-network/connecting-electric-vehicle-chargepoints-to-the-electricity-network",
+          "tier": "T1",
+          "scope": {
+            "market": "United Kingdom; source-specific limits apply",
+            "model_year": "N/A — process guide, no model specifications",
+            "generation": "N/A",
+            "trim": "N/A",
+            "powertrain": "N/A",
+            "test_cycle": "N/A"
+          },
+          "checked_date": "2026-11-02",
+          "access_status": "READ_VIA_WEB_RETRIEVAL",
+          "supported_fact_candidate": "Government guidance explains planning chargepoint numbers, charging speed and the connection route.",
+          "limitations": "Page last updated April 2023. Use process context only; grants, connection charging rules, prices and 2026 eligibility remain blocked pending current primary verification.",
+          "official_source": true,
+          "scope_match": "MATCHED_FOR_STATED_NOTE_ONLY",
+          "runtime_raw_capture_verified": false
+        }
+      ],
+      "source_url_count": 6,
+      "source_parent_org_count": 4,
+      "historical_neighbours": [
+        "AB-260902-G05 charging-standard compatibility",
+        "commercial fleet bulk procurement"
+      ],
+      "intended_distinction": "Assumes connector compatibility is already established. Focuses on AC power limits, supply phases and dwell time; excludes GB/T-to-CCS adapters and global connector maps.",
+      "blocked_facts": [
+        "Any named vehicle's AC charging specification",
+        "Guaranteed full-charge time or real-world range",
+        "Installation instructions or electrical design",
+        "Current tariffs, grants or connection fees",
+        "UKPN small-business service applies to all DNOs or large depots",
+        "General interface compatibility/adapter advice already covered by the older hub"
+      ],
+      "research_status": "NOT_YET_SUBMITTED_TO_RESEARCH_MODEL",
+      "writing_ai_ready": false,
+      "semantic_dedup_status": "INDEPENDENT_REVIEW_PENDING",
+      "image_rights_status": "NO_IMAGE_SELECTED",
+      "human_reviewed": false,
+      "publish_approved": false
+    }
+  ],
+  "execution_holds": [
+    "User approval of final topics and exact source allowlist",
+    "Independent semantic dedup confirmation",
+    "Raw source capture, redirect allowlist and claim-level Fact Sheets",
+    "Explicit exception to no-main-change rule for the proposed manual bootstrap",
+    "Separate activation review: PR #3 keeps its only job disabled",
+    "Exact code/plan/rules/fresh-price/expiry-bound first-real-call authorization; protected approval digest is absent"
+  ],
+  "publish_approved": false,
+  "human_reviewed": false,
+  "production_eligible": false,
+  "note": "This proposal does not replace plan.pending.json, enable a permit, set approved SHA variables or read secrets. Source counts are candidate inventory counts, not Research PASS. Web retrieval notes are not the raw evidence archives required by the actual runtime."
+}

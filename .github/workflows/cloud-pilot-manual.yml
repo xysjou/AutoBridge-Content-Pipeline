@@ -1,5 +1,3 @@
-# Proposed bootstrap. Copy to .github/workflows/cloud-pilot-manual.yml only after approval.
-# Manual only. Preflight reads no application key; live remains off until enabled and approved.
 name: AutoBridge multilingual API pilot
 on:
   workflow_dispatch:
@@ -15,77 +13,14 @@ concurrency:
   group: autobridge-entire-real-pilot-program
   cancel-in-progress: false
 jobs:
-  inspect:
-    if: inputs.mode == 'preflight'
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA || github.sha }}
-          persist-credentials: false
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - run: python3 -m cloud_pilot.multilingual preflight
-  account-check:
-    if: >-
-      inputs.mode == 'account-check' &&
-      vars.AUTOBRIDGE_ACCOUNT_CHECK_ENABLED == 'true' &&
-      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'
-    environment: autobridge-pilot
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
-          persist-credentials: false
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Inspect only the two configured model metadata endpoints
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
-          AUTOBRIDGE_ACCOUNT_CHECK_APPROVED: 'true'
-        run: python3 -m cloud_pilot.multilingual account-check
-  execute:
-    if: >-
-      (inputs.mode == 'execute' || inputs.mode == 'audit') &&
-      vars.AUTOBRIDGE_LIVE_ENABLED == 'true' &&
-      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'
-    environment: autobridge-pilot
-    runs-on: ubuntu-latest
-    timeout-minutes: 180
+  trusted:
     permissions:
       contents: write
       pull-requests: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
-          persist-credentials: false
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Fetch reviewed control documents from a separate immutable commit
-        env:
-          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
-          AUTOBRIDGE_APPROVAL_COMMIT: ${{ vars.AUTOBRIDGE_APPROVAL_COMMIT }}
-          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}
-        run: python3 -m cloud_pilot.multilingual.control
-      - name: Execute approved phase with the existing whole-program budget
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}
-          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}
-          APPROVED_RUN_MODE: ${{ inputs.mode }}
-        run: >-
-          python3 -m cloud_pilot.multilingual "$APPROVED_RUN_MODE"
-          --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json"
-          --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json"
-          --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"
+    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@a418353233e0a66a3385897a8845857fc09d2d26
+    with:
+      mode: ${{ inputs.mode }}
+    secrets:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      AUTOBRIDGE_CONTROL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}
+      AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}

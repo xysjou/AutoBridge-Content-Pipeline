@@ -1,0 +1,13 @@
+test_all_security_modules_and_installed_workflow_are_reviewed (cloud_pilot.multilingual.tests.test_security.Tests.test_all_security_modules_and_installed_workflow_are_reviewed) ... ok
+test_candidate_extra_file_or_changed_parent_is_rejected (cloud_pilot.multilingual.tests.test_security.Tests.test_candidate_extra_file_or_changed_parent_is_rejected) ... ok
+test_current_provider_price_and_context_drift_fail_closed (cloud_pilot.multilingual.tests.test_security.Tests.test_current_provider_price_and_context_drift_fail_closed) ... ok
+test_old_receipt_cannot_authorize_changed_corpus_or_code (cloud_pilot.multilingual.tests.test_security.Tests.test_old_receipt_cannot_authorize_changed_corpus_or_code) ... ok
+test_self_declared_dedup_status_never_authorizes_execution (cloud_pilot.multilingual.tests.test_security.Tests.test_self_declared_dedup_status_never_authorizes_execution) ... ok
+test_source_refresh_creates_new_namespace_without_overwriting_old (cloud_pilot.multilingual.tests.test_security.Tests.test_source_refresh_creates_new_namespace_without_overwriting_old) ... ok
+test_status_and_phase_change_preserve_intake_but_topic_edit_does_not (cloud_pilot.multilingual.tests.test_security.Tests.test_status_and_phase_change_preserve_intake_but_topic_edit_does_not) ... ok
+test_unmerged_main_is_rejected_before_live_execution (cloud_pilot.multilingual.tests.test_security.Tests.test_unmerged_main_is_rejected_before_live_execution) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.953s
+
+OK

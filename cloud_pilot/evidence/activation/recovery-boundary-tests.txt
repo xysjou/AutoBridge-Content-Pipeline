@@ -1,0 +1,12 @@
+test_approval_cannot_be_reused_by_another_run_or_rerun_attempt (cloud_pilot.multilingual.tests.test_recovery.Tests.test_approval_cannot_be_reused_by_another_run_or_rerun_attempt) ... ok
+test_checkpoints_are_isolated_by_code_and_intake_and_revision (cloud_pilot.multilingual.tests.test_recovery.Tests.test_checkpoints_are_isolated_by_code_and_intake_and_revision) ... ok
+test_complete_vehicle_identity_is_required_before_writing (cloud_pilot.multilingual.tests.test_recovery.Tests.test_complete_vehicle_identity_is_required_before_writing) ... ok
+test_exact_final_public_locale_render_is_in_independent_review (cloud_pilot.multilingual.tests.test_recovery.Tests.test_exact_final_public_locale_render_is_in_independent_review) ... ok
+test_protected_floor_and_in_run_progress_cannot_be_rolled_back (cloud_pilot.multilingual.tests.test_recovery.Tests.test_protected_floor_and_in_run_progress_cannot_be_rolled_back) ... ok
+test_provider_count_failure_prevents_any_generation (cloud_pilot.multilingual.tests.test_recovery.Tests.test_provider_count_failure_prevents_any_generation) ... ok
+test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends (cloud_pilot.multilingual.tests.test_recovery.Tests.test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.041s
+
+OK

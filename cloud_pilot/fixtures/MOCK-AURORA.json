@@ -1,0 +1,278 @@
+{
+  "schema_version": "autobridge-cloud-pilot/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "article_id": "MOCK-AURORA",
+  "version": 1,
+  "synthetic": true,
+  "locale": "en",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "rule_versions": {
+    "research": "1.1",
+    "writing": "1.3"
+  },
+  "human_reviewed": false,
+  "publish_approved": false,
+  "first_hand": false,
+  "title": "Aurora Parcel EV: a fictional specification comparison",
+  "topic_key": "mock-aurora",
+  "proposed_url": "/mock-only/mock-aurora/",
+  "search_intent": "Synthetic comparison task for MOCK-AURORA",
+  "buyer_task": "Aurora Parcel EV: a fictional specification comparison",
+  "research_status": "RESEARCH_PASS",
+  "research_lock": false,
+  "writing_ai_ready": true,
+  "allowed_facts": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6"
+  ],
+  "blocked_facts": [
+    "commercial_terms",
+    "destination_eligibility"
+  ],
+  "facts": [
+    {
+      "id": "F1",
+      "text": "The fictional Aurora Parcel EV is a training example for comparing a seller's vehicle description with a bounded specification sheet. Its invented identity is Aurora, model year 2026, generation A, Parcel trim, battery electric powertrain, and the fictional Alpha market. These labels belong together. A description of another trim does not establish the equipment supplied with this example. A buyer in this imagined exercise can decide whether the identity record is sufficiently precise to request a matching document set.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S1"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "F2",
+      "text": "The synthetic Alpha specification sheet assigns the Parcel trim a battery capacity of 42 kWh. That number describes only this made-up trim and market. It says nothing about usable energy, degradation, replacement cost, or a vehicle offered by a real seller. The example asks the reader to retain the unit beside the number and to distinguish the capacity label from a promise about driving distance. No physical battery was inspected to produce this illustration.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S2"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "F3",
+      "text": "The equally fictional range certificate states 280 km under the invented SIM-A test cycle. SIM-A is a label created for this exercise; it is not CLTC, WLTP, NEDC, or EPA. The range should therefore remain attached to its own label when the document is summarized. Converting the figure into an expected delivery route length would introduce an unsupported assumption. The certificate does not address cold weather, load, road gradient, or charging stops.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S3"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "F4",
+      "text": "In the imaginary equipment annex, the Parcel trim has two seats and a separated cargo compartment. Those entries support a discussion of seating and compartment layout within the example. They do not establish payload, gross weight, towing capability, or cargo dimensions. A procurement comparison that depends on any of those missing figures remains incomplete. The buyer's next action in this training scenario is to request the relevant measurements and matching identity documents, rather than infer capacity from a photograph.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S4"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "F5",
+      "text": "The invented connector appendix labels the charging inlet Type-SIM. The label has no claimed equivalence with any connector sold in a real market. A destination charger cannot be assumed compatible merely because its socket looks similar in an illustration. The example separates a connector identity from charging performance: no charging curve, peak power, charging time, electrical approval, or adapter permission is provided. Each of those questions would require its own applicable evidence before a commercial decision.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S5"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "F6",
+      "text": "The fictional buyer record leaves price, availability, freight, import eligibility, warranty coverage, and after-sales arrangements unresolved. There is no offer or contract behind this text. Within the example, the useful result is a precise list of known identity fields and unanswered transaction questions. It is not a recommendation to buy, a claim that a vehicle can be registered, or a statement that a seller has stock. All organizations and source addresses attached to this example are synthetic and must not be reused as commercial references.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "S6"
+      ],
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Synthetic document 1",
+      "publisher": "Synthetic Organization 1",
+      "observed_publisher": "Synthetic Organization 1",
+      "parent_org": "Synthetic Organization 1",
+      "url": "https://synthetic-1.invalid/MOCK-AURORA/document-1",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F1"
+      ],
+      "excerpt": "The fictional Aurora Parcel EV is a training example for comparing a seller's vehicle description with a bounded specification sheet. Its invented identity is Aurora, model year 2026, generation A, Parcel trim, battery electric powertrain, and the fictional Alpha market. These labels belong together. A description of another trim does not establish the equipment supplied with this example. A buyer in this imagined exercise can decide whether the identity record is sufficiently precise to request a matching document set.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "S2",
+      "title": "Synthetic document 2",
+      "publisher": "Synthetic Organization 2",
+      "observed_publisher": "Synthetic Organization 2",
+      "parent_org": "Synthetic Organization 2",
+      "url": "https://synthetic-2.invalid/MOCK-AURORA/document-2",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F2"
+      ],
+      "excerpt": "The synthetic Alpha specification sheet assigns the Parcel trim a battery capacity of 42 kWh. That number describes only this made-up trim and market. It says nothing about usable energy, degradation, replacement cost, or a vehicle offered by a real seller. The example asks the reader to retain the unit beside the number and to distinguish the capacity label from a promise about driving distance. No physical battery was inspected to produce this illustration.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "S3",
+      "title": "Synthetic document 3",
+      "publisher": "Synthetic Organization 3",
+      "observed_publisher": "Synthetic Organization 3",
+      "parent_org": "Synthetic Organization 3",
+      "url": "https://synthetic-3.invalid/MOCK-AURORA/document-3",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F3"
+      ],
+      "excerpt": "The equally fictional range certificate states 280 km under the invented SIM-A test cycle. SIM-A is a label created for this exercise; it is not CLTC, WLTP, NEDC, or EPA. The range should therefore remain attached to its own label when the document is summarized. Converting the figure into an expected delivery route length would introduce an unsupported assumption. The certificate does not address cold weather, load, road gradient, or charging stops.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "S4",
+      "title": "Synthetic document 4",
+      "publisher": "Synthetic Organization 4",
+      "observed_publisher": "Synthetic Organization 4",
+      "parent_org": "Synthetic Organization 4",
+      "url": "https://synthetic-4.invalid/MOCK-AURORA/document-4",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F4"
+      ],
+      "excerpt": "In the imaginary equipment annex, the Parcel trim has two seats and a separated cargo compartment. Those entries support a discussion of seating and compartment layout within the example. They do not establish payload, gross weight, towing capability, or cargo dimensions. A procurement comparison that depends on any of those missing figures remains incomplete. The buyer's next action in this training scenario is to request the relevant measurements and matching identity documents, rather than infer capacity from a photograph.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "S5",
+      "title": "Synthetic document 5",
+      "publisher": "Synthetic Organization 1",
+      "observed_publisher": "Synthetic Organization 1",
+      "parent_org": "Synthetic Organization 1",
+      "url": "https://synthetic-1.invalid/MOCK-AURORA/document-5",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F5"
+      ],
+      "excerpt": "The invented connector appendix labels the charging inlet Type-SIM. The label has no claimed equivalence with any connector sold in a real market. A destination charger cannot be assumed compatible merely because its socket looks similar in an illustration. The example separates a connector identity from charging performance: no charging curve, peak power, charging time, electrical approval, or adapter permission is provided. Each of those questions would require its own applicable evidence before a commercial decision.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    },
+    {
+      "id": "S6",
+      "title": "Synthetic document 6",
+      "publisher": "Synthetic Organization 2",
+      "observed_publisher": "Synthetic Organization 2",
+      "parent_org": "Synthetic Organization 2",
+      "url": "https://synthetic-2.invalid/MOCK-AURORA/document-6",
+      "tier": "T1",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "synthetic": true,
+      "access_status": "FIXTURE_ONLY",
+      "checked_date": "2026-11-02",
+      "supported_facts": [
+        "F6"
+      ],
+      "excerpt": "The fictional buyer record leaves price, availability, freight, import eligibility, warranty coverage, and after-sales arrangements unresolved. There is no offer or contract behind this text. Within the example, the useful result is a precise list of known identity fields and unanswered transaction questions. It is not a recommendation to buy, a claim that a vehicle can be registered, or a statement that a seller has stock. All organizations and source addresses attached to this example are synthetic and must not be reused as commercial references.",
+      "market": "MOCK-ALPHA",
+      "model_year": "2026",
+      "generation": "A",
+      "trim": "Parcel",
+      "powertrain": "BEV",
+      "test_cycle": "SIM-A"
+    }
+  ],
+  "fixture_type": "SHORT_FORM_CONTRACT_TEST_NOT_PUBLISH_GRADE"
+}
