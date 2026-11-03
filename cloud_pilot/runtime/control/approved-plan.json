@@ -1,0 +1,266 @@
+{
+  "schema": "autobridge-real-pilot/1.0",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "history_hash": "8537d7205cd386981ba08b121cb7892e5ffe3505d0b55288e134bfdca30af956",
+  "semantic_dedup_status": "PENDING",
+  "articles": [
+    {
+      "article_id": "PILOT-X5PLUS-2026",
+      "locale": "en",
+      "version": 1,
+      "topic_key": "changan-x5-plus-second-generation-2026-petrol-shortlist",
+      "content_type": "VEHICLE_RECOMMENDATION",
+      "target_site": "https://autobridgetrade.top/",
+      "search_intent": "Evaluate the exact China-market second-generation 2026 Changan X5 PLUS 1.5T 高能PRO as a compact petrol SUV sourcing candidate",
+      "buyer_task": "Decide whether to shortlist the identified second-generation 1.5T petrol and wet-DCT reference for a buyer who needs a compact SUV, while verifying exact stock, fuel, service and destination suitability separately",
+      "proposed_url": "/pilot-only/pilot-x5plus-2026/",
+      "sources": [
+        {
+          "source_id": "S1",
+          "url": "https://car.autohome.com.cn/config/spec/74278.html",
+          "publisher": "Autohome",
+          "parent_org": "Autohome",
+          "tier": "T2",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "1.5T 高能PRO",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Exact structured reference; read literal configuration values and preserve exact generation, year and trim."
+        },
+        {
+          "source_id": "S2",
+          "url": "https://www.yoojia.com/m-146114?sa=pc_growth_1",
+          "publisher": "YooJia / Baidu",
+          "parent_org": "YooJia / Baidu",
+          "tier": "T2",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "1.5T 高能PRO",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Exact model listing; identity only where directly supported. A listing is not proof of stock or export eligibility."
+        },
+        {
+          "source_id": "S3",
+          "url": "https://www.autohome.com.cn/news/202508/1308294.html",
+          "publisher": "Autohome",
+          "parent_org": "Autohome",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Dated 2025 launch report for the 2026 family; historical context only, no current or export price."
+        },
+        {
+          "source_id": "S4",
+          "url": "https://www.pcauto.com.cn/sg30322/s49875/",
+          "publisher": "PCauto",
+          "parent_org": "PCauto",
+          "tier": "T2",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "2026_FAMILY_LISTING_EXACT_TRIM_ROWS_ONLY",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Structured 2026 family and exact variant listing; do not credit unrelated trim values."
+        },
+        {
+          "source_id": "S5",
+          "url": "https://product.58che.com/285/284544/param.shtml",
+          "publisher": "58che",
+          "parent_org": "58che",
+          "tier": "T2",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "1.5T 高能PRO",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Exact structured reference configuration; own scope and literal vehicle context required."
+        },
+        {
+          "source_id": "S6",
+          "url": "https://www.ithome.com/0/876/291.htm",
+          "publisher": "IT Home",
+          "parent_org": "Ruanmei / IT Home",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "2026",
+            "generation": "第二代",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC"
+          },
+          "permitted_use": "Dated model-family launch context only, never current stock, current price or exact unmentioned trim equipment."
+        }
+      ],
+      "research_baseline_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "source_vehicle_identity": {
+        "model": "长安X5 PLUS",
+        "model_year": "2026",
+        "trim": "高能PRO"
+      }
+    },
+    {
+      "article_id": "PILOT-REEFER-GUIDE",
+      "locale": "en",
+      "version": 1,
+      "topic_key": "refrigerated-truck-pre-shipment-acceptance-evidence",
+      "content_type": "BUYING_GUIDE",
+      "target_site": "https://autobridgetrade.top/",
+      "search_intent": "Define and record a pre-shipment acceptance demonstration for a completed refrigerated truck bought from China, rather than repeat chassis or refrigeration-unit shopping advice",
+      "buyer_task": "Agree evidence, VIN/equipment identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and acceptance responsibilities before accepting the completed truck",
+      "proposed_url": "/pilot-only/pilot-reefer-guide/",
+      "sources": [
+        {
+          "source_id": "S1",
+          "url": "https://www.360che.com/tech/190702/113437.html",
+          "publisher": "Truck Home",
+          "parent_org": "Truck Home",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Historical technical background; chassis/body/unit relationship and traditional power arrangements. No universal body-length threshold adopted."
+        },
+        {
+          "source_id": "S2",
+          "url": "https://www.360che.com/tech/181102/103284.html",
+          "publisher": "Truck Home",
+          "parent_org": "Truck Home",
+          "tier": "T3",
+          "scope": {
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Historical insulated-body and airflow background; not current law or a universal temperature specification."
+        },
+        {
+          "source_id": "S3",
+          "url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications/",
+          "publisher": "Carrier",
+          "parent_org": "Carrier",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Example of ratings with stated conditions and diesel/standby modes; not selection approval for any offered truck."
+        },
+        {
+          "source_id": "S4",
+          "url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/installation-instructions/",
+          "publisher": "Carrier",
+          "parent_org": "Carrier",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Equipment-family-specific installation references; no DIY conversion instructions."
+        },
+        {
+          "source_id": "S5",
+          "url": "https://europe.thermoking.com/fuel-economy-cutting-the-cost-of-running-refrigeration-equipment-2",
+          "publisher": "Thermo King",
+          "parent_org": "Thermo King",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Loading temperature, airflow and door-opening practice; no unsourced running-cost promises."
+        },
+        {
+          "source_id": "S6",
+          "url": "https://www.fuso-trucks.com/body-options/",
+          "publisher": "FUSO",
+          "parent_org": "FUSO",
+          "tier": "T1",
+          "scope": {
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "trim": "FAMILY_OR_METHOD_ONLY",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE"
+          },
+          "permitted_use": "Manufacturer example of bodybuilder documentation and interfaces; not certification for another vehicle."
+        }
+      ],
+      "research_baseline_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "editorial_task_notes": "Propose buyer-agreed evidence and demonstration arrangements as clearly labelled AutoBridge editorial methods. Do not assert a universal protocol, legal duty, fixed temperature/time/calibration threshold, or engine-off capability. The conflicting S1 non-independent-unit engine-off statement must remain blocked; equipment-specific manufacturer examples must retain their own scope. Explanations belong in fact records, not ID lists."
+    }
+  ],
+  "authorized_redirect_urls": [],
+  "note": "Q05 remains canonically withheld because generation evidence was not established. X5 PLUS is an unapproved replacement candidate with explicit second-generation wording; independent repository/live-site dedup and factual acceptance remain required. No earlier draft is relabelled as API output. No website publication authorized.",
+  "target_site": "https://autobridgetrade.top/",
+  "locales": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "execution_phase": "english",
+  "publication_enabled": false,
+  "source_tier_decision": {
+    "boundary": "Autohome, YooJia, PCauto and 58che structured databases are T2; media launch reporting stays T3. No T1 manufacturer authority is claimed by source count."
+  }
+}
