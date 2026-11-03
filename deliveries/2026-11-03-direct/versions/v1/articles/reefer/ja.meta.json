@@ -1,0 +1,17 @@
+{
+  "title": "冷凍・冷蔵トラックの出荷前受入確認ガイド",
+  "summary": "シャシー、断熱ボディ、冷凍機の記録を、合意試験と書面による出荷前の許可判断に結び付けます。",
+  "image_alt": "シャシー、断熱ボディ、冷凍機を受入資料に結び付ける模式図。",
+  "internal_link_text": "AutoBridgeの輸出ガイド",
+  "internal_link_url": "https://autobridgetrade.top/en/guides/",
+  "meta_description": "機器の識別情報、図面、合意試験条件、元データのログ、不具合の解決記録を含む冷凍・冷蔵トラックの受入資料を作成します。",
+  "suggested_path": "/guides/refrigerated-truck-pre-shipment-acceptance/",
+  "h1": "冷凍・冷蔵トラックの出荷前受入確認：証拠資料をまとめる",
+  "image_caption": "機器の記録と受入資料のつながりを示す独自の模式図であり、車両写真や試験結果ではありません。",
+  "diagram_labels": [
+    "シャシー",
+    "断熱ボディ",
+    "冷凍機",
+    "受入資料"
+  ]
+}

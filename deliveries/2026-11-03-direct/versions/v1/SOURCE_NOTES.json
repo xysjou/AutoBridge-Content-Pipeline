@@ -1,0 +1,276 @@
+{
+  "checked_date": "2026-11-03",
+  "method": "Documentary research, not firsthand vehicle testing; no publication approval. Exact access limitations retained.",
+  "articles": [
+    {
+      "article_id": "AB-261103-V01",
+      "topic_key": "x5",
+      "evidence_boundary": {
+        "market": "CN",
+        "model_year": "2026",
+        "generation": "第二代",
+        "trim": "1.5T 高能PRO",
+        "powertrain": "PETROL_ICE",
+        "test_cycle": "N/A: no fuel-economy figure authorized",
+        "buyer_applicability": "China-market reference listing only; not proof of offered VIN or export-market specification.",
+        "brand": "Changan",
+        "model": "X5 PLUS",
+        "body_style": "5-door 5-seat SUV",
+        "drivetrain": "front-engine front-wheel drive; single-source listing",
+        "original_sales_market": "China",
+        "production_boundary": "NOT_LOCKED_IN_FACT_SHEET: no VIN/build date or current production availability established"
+      },
+      "sources": [
+        {
+          "source_id": "S1",
+          "source_title": "【长安X5 PLUS 2026款 第二代 1.5T 高能PRO参数配置表】价格单_长安_汽车之家",
+          "source_url": "https://car.autohome.com.cn/config/spec/74278.html",
+          "source_organization": "Autohome",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "1.5T 高能PRO"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "SUPPLIED_SAME_DAY_CAPTURE_200; INDEPENDENT_REOPEN_FAILED",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S2",
+          "source_title": "「长安X5 PLUS」2026款 第二代 1.5T 高能PRO最新报价-图片-参数-有驾",
+          "source_url": "https://www.yoojia.com/m-146114?sa=pc_growth_1",
+          "source_organization": "YooJia / Baidu",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "1.5T 高能PRO"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "SUPPLIED_SAME_DAY_CAPTURE_200; INDEPENDENT_REOPEN_FAILED",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S3",
+          "source_title": "【图】限时优惠价5.99万起/换装新1.5T发动机 2026款长安X5 PLUS上市_汽车之家",
+          "source_url": "https://www.autohome.com.cn/news/202508/1308294.html",
+          "source_organization": "Autohome",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S4",
+          "source_title": "【长安X5 PLUS 2026款】长安_长安X5 PLUS 2026款价格_图片_太平洋汽车",
+          "source_url": "https://www.pcauto.com.cn/sg30322/s49875/",
+          "source_organization": "PCauto",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "2026_FAMILY_LISTING_EXACT_TRIM_ROWS_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S5",
+          "source_title": "【2026款 长安X5 PLUS 第二代 1.5T 高能PRO参数配置】详细参数信息_58汽车",
+          "source_url": "https://product.58che.com/285/284544/param.shtml",
+          "source_organization": "58che",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "1.5T 高能PRO"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S6",
+          "source_title": "5.99 万元起，2026 款长安 X5 PLUS 车型上市 - IT之家",
+          "source_url": "https://www.ithome.com/0/876/291.htm",
+          "source_organization": "IT Home",
+          "official_source": false,
+          "scope": {
+            "generation": "第二代",
+            "market": "CN",
+            "model_year": "2026",
+            "powertrain": "PETROL_ICE",
+            "test_cycle": "WLTC",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        }
+      ]
+    },
+    {
+      "article_id": "AB-261103-G01",
+      "topic_key": "reefer",
+      "evidence_boundary": {
+        "market": "Buyer/supplier contract-specific; named US and European OEM examples only",
+        "model_year": "N/A",
+        "generation": "N/A",
+        "trim": "N/A",
+        "powertrain": "Not generalized",
+        "test_cycle": "Buyer-agreed documented protocol, not universal standard",
+        "body_style": "Refrigerated truck as chassis/body/refrigeration integration",
+        "drivetrain": "N/A",
+        "original_sales_market": "N/A",
+        "production_boundary": "No actual vehicle inspected"
+      },
+      "sources": [
+        {
+          "source_id": "S1",
+          "source_title": "冷藏车的那些事：制冷机组应该怎么选？_卡车之家",
+          "source_url": "https://www.360che.com/tech/190702/113437.html",
+          "source_organization": "Truck Home",
+          "official_source": false,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "SUPPLIED_SAME_DAY_CAPTURE_200; INDEPENDENT_REOPEN_FAILED",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S2",
+          "source_title": "【冷藏车小知识1】冷藏车怎么选怎么用_卡车之家",
+          "source_url": "https://www.360che.com/tech/181102/103284.html",
+          "source_organization": "Truck Home",
+          "official_source": false,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "CN",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "SUPPLIED_SAME_DAY_CAPTURE_200; INDEPENDENT_REOPEN_FAILED",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S3",
+          "source_title": "Supra S10 Truck Reefer Technical Specifications",
+          "source_url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications/",
+          "source_organization": "Carrier",
+          "official_source": true,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S4",
+          "source_title": "Installation Instructions | Carrier",
+          "source_url": "https://www.carrier.com/us/en/cold-chain/truck-trailer/installation-instructions/",
+          "source_organization": "Carrier",
+          "official_source": true,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S5",
+          "source_title": "Fuel economy – cutting the cost of running refrigeration equipment - Thermo King",
+          "source_url": "https://europe.thermoking.com/fuel-economy-cutting-the-cost-of-running-refrigeration-equipment-2",
+          "source_organization": "Thermo King",
+          "official_source": true,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S6",
+          "source_title": "FUSO - Body-friendly and ex-factory superstructures",
+          "source_url": "https://www.fuso-trucks.com/body-options/",
+          "source_organization": "FUSO",
+          "official_source": true,
+          "scope": {
+            "generation": "NON_MODEL_PROCUREMENT_METHOD",
+            "market": "MANUFACTURER_METHOD_EXAMPLE",
+            "model_year": "NOT_MODEL_SPECIFIC",
+            "powertrain": "NOT_SPECIFIED",
+            "test_cycle": "NOT_APPLICABLE",
+            "trim": "FAMILY_OR_METHOD_ONLY"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_REOPEN_SUCCESS",
+          "access_note": "Web cache/retrieval is not guaranteed live origin fetch; no fabricated new HTTP status."
+        },
+        {
+          "source_id": "S7",
+          "source_title": "V-520 Series Units with Direct Smart Reefer Operator’s Manual, Revision B, March 2026, TK 55032-18-OP-EN",
+          "source_url": "https://www.thermoking.com/content/dam/thermoking/documents/products/tk-55032-18-op-en-rev-b.pdf",
+          "source_organization": "Thermo King",
+          "official_source": true,
+          "scope": {
+            "market": "Thermo King Americas English documentation",
+            "model": "V-520 Series only",
+            "version": "Revision B March 2026",
+            "pages": "33 for pretrip checklist; 2 safety qualification caveat"
+          },
+          "checked_date": "2026-11-03",
+          "access_status": "INDEPENDENT_WEB_PDF_OPEN_SUCCESS"
+        }
+      ]
+    }
+  ]
+}

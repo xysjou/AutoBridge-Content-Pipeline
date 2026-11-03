@@ -1,0 +1,17 @@
+{
+  "title": "Guía de aceptación de camiones frigoríficos antes del embarque",
+  "summary": "Vincule los documentos del chasis, la caja isotérmica y la unidad frigorífica con los ensayos acordados y una autorización escrita de embarque.",
+  "image_alt": "Esquema que vincula el chasis, la caja isotérmica y la unidad frigorífica con un expediente de aceptación.",
+  "internal_link_text": "Guías de exportación de AutoBridge",
+  "internal_link_url": "https://autobridgetrade.top/en/guides/",
+  "meta_description": "Prepare un expediente con identificación de equipos, planos, condiciones de ensayo acordadas, registros originales y resolución documentada de defectos.",
+  "suggested_path": "/guides/refrigerated-truck-pre-shipment-acceptance/",
+  "h1": "Aceptación de un camión frigorífico antes del embarque: crear un expediente de pruebas",
+  "image_caption": "Esquema original que relaciona los documentos del equipo con el expediente de aceptación; no es una fotografía del vehículo ni un resultado de ensayo.",
+  "diagram_labels": [
+    "Chasis",
+    "Caja isotérmica",
+    "Unidad frigorífica",
+    "Expediente de aceptación"
+  ]
+}

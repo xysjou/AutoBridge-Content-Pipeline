@@ -1,0 +1,17 @@
+{
+  "title": "Refrigerated truck pre-shipment acceptance guide",
+  "summary": "Connect chassis, insulated body and refrigeration-unit records to agreed tests and a written pre-shipment release decision.",
+  "image_alt": "Schematic linking chassis, insulated body and refrigeration unit to an acceptance file.",
+  "internal_link_text": "AutoBridge export guides",
+  "internal_link_url": "https://autobridgetrade.top/en/guides/",
+  "meta_description": "Build a refrigerated truck acceptance file with equipment identities, drawings, agreed test conditions, raw logs and documented defect resolution.",
+  "suggested_path": "/guides/refrigerated-truck-pre-shipment-acceptance/",
+  "h1": "Refrigerated truck pre-shipment acceptance: build an evidence pack",
+  "image_caption": "An original schematic linking equipment records to the acceptance file; not a vehicle photograph or test result.",
+  "diagram_labels": [
+    "Chassis",
+    "Insulated body",
+    "Refrigeration unit",
+    "Acceptance file"
+  ]
+}

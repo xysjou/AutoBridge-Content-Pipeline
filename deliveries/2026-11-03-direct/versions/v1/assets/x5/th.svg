@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="440" viewBox="0 0 1120 440" role="img" aria-labelledby="title desc" xml:lang="th">
+<title id="title">แผนผังเชื่อมโยงรุ่นย่อย X5 PLUS ที่ระบุ เอกสารรถ และรายการตรวจของผู้ซื้อ</title>
+<desc id="desc">แผนผังบรรณาธิการแสดงการตรวจเอกสาร ไม่ใช่ภาพถ่ายรถหรือผลทดสอบ</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#3257a8"/></marker></defs>
+<rect x="50" y="25" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="78" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">รุ่นย่อยที่ระบุชัดเจน</text>
+<path d="M560 115V144" fill="none" stroke="#3257a8" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="50" y="155" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="208" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">เอกสารรถ</text>
+<path d="M560 245V274" fill="none" stroke="#3257a8" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="50" y="285" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="338" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">รายการตรวจของผู้ซื้อ</text>
+</svg>

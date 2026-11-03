@@ -1,0 +1,334 @@
+{
+  "checked_at_utc": "2026-11-03T12:09:08.961421+00:00",
+  "status": "Complete draft content; human editorial review pending; not published or indexing-verified.",
+  "articles": 2,
+  "languages_per_article": 12,
+  "full_article_versions": 24,
+  "direct_assistant_drafting": true,
+  "additional_paid_api_calls": 0,
+  "checks": [
+    {
+      "topic": "x5",
+      "language": "en",
+      "sha256": "899d9c774a08af48dac682a78598b4338732374753f0b733d5f2f9f4217cc2af",
+      "characters": 9348,
+      "words_whitespace": 1381,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "fr",
+      "sha256": "2bbfb62ff00972d1393012dd0b69810e6c3b5723eacb4586d13683ad88bd4d50",
+      "characters": 10881,
+      "words_whitespace": 1626,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "de",
+      "sha256": "6f896ab402ed5ed6da1f09d9aa12ac8fe4492be586488a044cefe61459701427",
+      "characters": 10749,
+      "words_whitespace": 1341,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "es",
+      "sha256": "f64d3f120772c2b6af07c3eceb30c7fc852fe4550b81dae153db3ba60165022a",
+      "characters": 10429,
+      "words_whitespace": 1581,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "pt",
+      "sha256": "7d9e3eb0da0d41ffb6d9910f5a0f7f7d63a230b242b50eb01141a48ab63f916c",
+      "characters": 10075,
+      "words_whitespace": 1541,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "ja",
+      "sha256": "0eb075df9adcf762e7601f2928de73b435c118c2576359e80059fa3fbf924f7e",
+      "characters": 4408,
+      "words_whitespace": 125,
+      "han_characters": 1426,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "ko",
+      "sha256": "e4033baee4a87dae63f1bfba797ce261c94992d594141e9aeacbc6327b676ee9",
+      "characters": 4991,
+      "words_whitespace": 1105,
+      "han_characters": 18,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "vi",
+      "sha256": "655a5d6ed3c249d8da1169116f2454d001e403b986c0e472736506b57b716994",
+      "characters": 9720,
+      "words_whitespace": 2083,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "th",
+      "sha256": "dd1f158de44206c2a5813338596587b94cce57fd7a084ae081e7bc83e3b1611d",
+      "characters": 8179,
+      "words_whitespace": 402,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "id",
+      "sha256": "4e1caab1b405214fc7f2987b82ccfce14d684bd98376e7ea9090ddefbde6c82b",
+      "characters": 9945,
+      "words_whitespace": 1298,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "ar",
+      "sha256": "740e17044d384e2eccf878974adfe63b82b516639793730e4a9a4486cbdc8546",
+      "characters": 8123,
+      "words_whitespace": 1308,
+      "han_characters": 14,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "x5",
+      "language": "zh",
+      "sha256": "ac1ae93f381457de70ce22572d1a745a6ea44835c40de97cd72a1c91cfcfd57c",
+      "characters": 3366,
+      "words_whitespace": 121,
+      "han_characters": 2313,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "en",
+      "sha256": "74263ea9d23bba7f011117f05783d39f8ec9e67eedfd3d7feb4c7209be7b9881",
+      "characters": 9908,
+      "words_whitespace": 1327,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "fr",
+      "sha256": "c0dcdb1627dae9aad3955c4ccfbd13097e81f25137f4cb58ee01353ceb863418",
+      "characters": 11566,
+      "words_whitespace": 1618,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "de",
+      "sha256": "3b929cd6e79f024d46ed01a18ab8c207c41f626b279984556edae127d2af868b",
+      "characters": 11247,
+      "words_whitespace": 1276,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "es",
+      "sha256": "01daa4b067901e478d80948ee0e32279d117ea47137676e9062611afbd81c6db",
+      "characters": 11406,
+      "words_whitespace": 1646,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "pt",
+      "sha256": "ce9cab849ffded4ed0fd9d70bf4bdf5d1764929c05a9b0c5e521c6c8209f0788",
+      "characters": 10992,
+      "words_whitespace": 1593,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "ja",
+      "sha256": "e8b70f7f77251b9baf22eec8a3fa5de23ca886dc32bd71340603aae6bed20f5c",
+      "characters": 4509,
+      "words_whitespace": 131,
+      "han_characters": 1536,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "ko",
+      "sha256": "8b058ed6fac32aa00aef2250d0569cfb2bdd95b3fd1db7fb66b8f8eda75d4ef2",
+      "characters": 5023,
+      "words_whitespace": 1097,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "vi",
+      "sha256": "8faf33c01d1011030ab775e5f43146c4e56640d889615cb4d5f0b73bc81e77f2",
+      "characters": 9904,
+      "words_whitespace": 2064,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "th",
+      "sha256": "95edb999a476de48f9ee3556276a74fe90ca2b31fcbf9c7a90d11bc0f4c13f89",
+      "characters": 8359,
+      "words_whitespace": 360,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "id",
+      "sha256": "745a4af8c93f232b33e1fc4b47c3c041ca4ee31f207704865615700765506224",
+      "characters": 10458,
+      "words_whitespace": 1316,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "ar",
+      "sha256": "b63d478af3b83939863f468a274b67f8eec27aa6014dc26b1463f999bed8020c",
+      "characters": 8595,
+      "words_whitespace": 1298,
+      "han_characters": 0,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    },
+    {
+      "topic": "reefer",
+      "language": "zh",
+      "sha256": "90ae09c1eff9154277114fc021c0e27c56ea39bd67c766b2d809a9a041eaf000",
+      "characters": 3527,
+      "words_whitespace": 125,
+      "han_characters": 2291,
+      "h1_count": 1,
+      "source_and_link_urls": 7,
+      "metadata_complete": true
+    }
+  ],
+  "two_topic_similarity": [
+    {
+      "language": "en",
+      "two_topic_character_5gram_jaccard": 0.137473
+    },
+    {
+      "language": "fr",
+      "two_topic_character_5gram_jaccard": 0.176176
+    },
+    {
+      "language": "de",
+      "two_topic_character_5gram_jaccard": 0.175359
+    },
+    {
+      "language": "es",
+      "two_topic_character_5gram_jaccard": 0.168897
+    },
+    {
+      "language": "pt",
+      "two_topic_character_5gram_jaccard": 0.158893
+    },
+    {
+      "language": "ja",
+      "two_topic_character_5gram_jaccard": 0.022934
+    },
+    {
+      "language": "ko",
+      "two_topic_character_5gram_jaccard": 0.022968
+    },
+    {
+      "language": "vi",
+      "two_topic_character_5gram_jaccard": 0.117882
+    },
+    {
+      "language": "th",
+      "two_topic_character_5gram_jaccard": 0.118846
+    },
+    {
+      "language": "id",
+      "two_topic_character_5gram_jaccard": 0.195074
+    },
+    {
+      "language": "ar",
+      "two_topic_character_5gram_jaccard": 0.081185
+    },
+    {
+      "language": "zh",
+      "two_topic_character_5gram_jaccard": 0.007742
+    }
+  ],
+  "similarity_method": "Mechanical full-file structure/URL/hash checks; separate AI semantic reviews are not human approval. Similarity is lowercased Unicode alphanumeric character five-gram Jaccard after removing URL destinations; two current topics per language only, not historical or full-site dedup.",
+  "semantic_review": "Full English and localized bodies read and compared by a separate AI-assisted editorial review, in addition to each translation author’s second reading. This is not human or native-speaker certification.",
+  "human_reviewed": false,
+  "publication_approved": false,
+  "historical_dedup_scope": "172 publicly accessible English pages in prior topic review; full-site authoritative inventory not verified.",
+  "source_constraints": "X5 exact China-market trim media records are not manufacturer export certification. Refrigerated-truck test protocol items are buyer recommendations, not universal legal or performance thresholds.",
+  "diagram_rights": "24 original editorial SVG schematics authored for this delivery; no third-party photographs or manufacturer vehicle renderings reused.",
+  "diagram_validation": "XML well-formedness and label/geometry checks only; raster visual rendering not verified because the local SVG renderer was unavailable.",
+  "deployment": "GitHub draft storage only; no website route/configuration/schema changes or Search Console submission."
+}

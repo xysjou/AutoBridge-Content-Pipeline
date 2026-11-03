@@ -1,0 +1,17 @@
+{
+  "title": "Panduan penerimaan truk berpendingin sebelum pengiriman",
+  "summary": "Hubungkan catatan sasis, boks berinsulasi, dan unit pendingin dengan pengujian yang disepakati serta keputusan pengiriman tertulis.",
+  "image_alt": "Skema yang menghubungkan sasis, boks berinsulasi, dan unit pendingin dengan berkas penerimaan.",
+  "internal_link_text": "Panduan ekspor AutoBridge",
+  "internal_link_url": "https://autobridgetrade.top/en/guides/",
+  "meta_description": "Susun berkas penerimaan truk berpendingin dengan identitas peralatan, gambar, kondisi uji yang disepakati, log mentah, dan dokumentasi perbaikan cacat.",
+  "suggested_path": "/guides/refrigerated-truck-pre-shipment-acceptance/",
+  "h1": "Penerimaan truk berpendingin sebelum pengiriman: susun paket bukti",
+  "image_caption": "Skema orisinal yang menghubungkan catatan peralatan dengan berkas penerimaan, bukan foto kendaraan atau hasil pengujian.",
+  "diagram_labels": [
+    "Sasis",
+    "Boks berinsulasi",
+    "Unit pendingin",
+    "Berkas penerimaan"
+  ]
+}

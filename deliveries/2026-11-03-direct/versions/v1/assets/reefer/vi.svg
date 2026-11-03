@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="570" viewBox="0 0 1120 570" role="img" aria-labelledby="title desc" xml:lang="vi">
+<title id="title">Sơ đồ liên kết khung gầm, thùng cách nhiệt và cụm máy lạnh với hồ sơ nghiệm thu.</title>
+<desc id="desc">Sơ đồ nguyên bản liên kết hồ sơ thiết bị với hồ sơ nghiệm thu; không phải ảnh xe hoặc kết quả thử nghiệm.</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#3257a8"/></marker></defs>
+<rect x="50" y="25" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="78" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">Khung gầm</text>
+<rect x="50" y="155" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="208" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">Thùng cách nhiệt</text>
+<rect x="50" y="285" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="338" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">Cụm máy lạnh</text>
+<rect x="50" y="415" width="1020" height="85" rx="12" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="560" y="468" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" direction="ltr">Hồ sơ nghiệm thu</text>
+<path d="M1072 67H1100V457H1074" fill="none" stroke="#3257a8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1072 197H1100V457H1074" fill="none" stroke="#3257a8" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1072 327H1100V457H1074" fill="none" stroke="#3257a8" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
