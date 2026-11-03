@@ -6,7 +6,7 @@ import unittest
 from datetime import datetime,timezone
 from cloud_pilot.contract import digest,GateError
 from cloud_pilot.multilingual.sources import extract
-from cloud_pilot.multilingual.source_cache import restore,validate
+from cloud_pilot.multilingual.source_cache import restore,validate,archive_content_type
 from cloud_pilot.multilingual.startup import EpochJournal
 from cloud_pilot.multilingual.tests.test_multilingual import ArtifactStore
 from cloud_pilot.multilingual.accounting import ResponseJournal
@@ -32,7 +32,8 @@ class Tests(unittest.TestCase):
             e=dict(source_id=s['source_id'],requested_url=s['url'],final_url=s['url'],
                 publisher=s['publisher'],parent_org=s['parent_org'],tier=s['tier'],scope=s['scope'],
                 mime='text/html',retrieved_at=datetime.now(timezone.utc).isoformat(),raw_sha256=sha,
-                raw_artifact_path=path,raw_artifact_blob=blob,text='old parser representation')
+                raw_artifact_path=path,raw_artifact_blob=blob,text=extract(raw,'text/html',s))
+            e['text_sha256']=hashlib.sha256(e['text'].encode()).hexdigest()
             old.append(e);blobs[path]=(blob,raw)
         class API:
             tamper=False
@@ -59,5 +60,13 @@ class Tests(unittest.TestCase):
         topic,old,j,scoped,gh,p=self.transfer_fixture();gh.api.tamper=True
         with self.assertRaisesRegex(GateError,'RAW_CONTENT'):restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
         self.assertIsNone(scoped.get_checkpoint('evidence:'+topic['article_id']))
+
+    def test_archive_charset_requires_exact_original_text_not_conflicting_meta(self):
+        raw=('<meta charset="gb2312"><p>'+('公开车型参数测试 '*30)+'</p>').encode()
+        text=extract(raw,'text/html;charset=utf-8',dict(url='https://example.invalid/'))
+        e=dict(mime='text/html',text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest())
+        self.assertEqual(archive_content_type(raw,e),'text/html;charset=utf-8')
+        e['text']='invented text';e['text_sha256']=hashlib.sha256(e['text'].encode()).hexdigest()
+        with self.assertRaisesRegex(GateError,'CHARSET_UNPROVEN'):archive_content_type(raw,e)
 
 if __name__=='__main__':unittest.main()

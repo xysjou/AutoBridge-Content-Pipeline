@@ -70,7 +70,7 @@ def retrieve(source,allowed,resolver=None,connection=PinnedHTTPS):
                 publisher=source['publisher'],parent_org=source['parent_org'],tier=source['tier'],
                 scope=source['scope'],retrieved_at=timestamp(),status=200,mime=mime,
                 raw_sha256=hashlib.sha256(raw).hexdigest(),text_sha256=hashlib.sha256(text.encode()).hexdigest(),
-                resolved_ips=ips,connected_ip=ips[0],redirects=hops,text=text,
+                content_type=ct,resolved_ips=ips,connected_ip=ips[0],redirects=hops,text=text,
                 authority_status='DECLARED_SOURCE_REQUIRES_RESEARCH_AND_REVIEW',synthetic=False)
             result['evidence_hash']=digest(result)
             return result,raw

@@ -42,11 +42,12 @@ test_self_declared_dedup_status_never_authorizes_execution (test_security.Tests.
 test_source_refresh_creates_new_namespace_without_overwriting_old (test_security.Tests.test_source_refresh_creates_new_namespace_without_overwriting_old) ... ok
 test_status_and_phase_change_preserve_intake_but_topic_edit_does_not (test_security.Tests.test_status_and_phase_change_preserve_intake_but_topic_edit_does_not) ... ok
 test_unmerged_main_is_rejected_before_live_execution (test_security.Tests.test_unmerged_main_is_rejected_before_live_execution) ... ok
+test_archive_charset_requires_exact_original_text_not_conflicting_meta (test_source_cache.Tests.test_archive_charset_requires_exact_original_text_not_conflicting_meta) ... ok
 test_changed_raw_archive_blocks_transfer_before_any_research (test_source_cache.Tests.test_changed_raw_archive_blocks_transfer_before_any_research) ... ok
 test_literal_inline_spec_is_selected_without_decoding_or_executing_scripts (test_source_cache.Tests.test_literal_inline_spec_is_selected_without_decoding_or_executing_scripts) ... ok
 test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (test_source_cache.Tests.test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations) ... ok
 
 ----------------------------------------------------------------------
-Ran 47 tests in 11.820s
+Ran 48 tests in 11.791s
 
 OK

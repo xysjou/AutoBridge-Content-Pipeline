@@ -7,6 +7,26 @@ from urllib.parse import quote
 from ..contract import digest,require
 from ..live.policy import BRANCH
 from .sources import extract,MAX_BYTES
+from ..live.sources import PlainText
+
+def archive_content_type(raw,e):
+    """Recover a discarded HTTP charset only by exact prior text equivalence.
+
+    Historical receipts retained MIME but dropped HTTP charset. HTML metadata
+    can contradict the HTTP response. Never guess from language or replace bytes:
+    require the strict decoded document to reproduce the hash-bound old text.
+    """
+    require(hashlib.sha256(e['text'].encode()).hexdigest()==e['text_sha256'],'SOURCE_TRANSFER_OLD_TEXT_HASH')
+    matches=[]
+    for codec in ('utf-8-sig','gb18030'):
+        try:document=raw.decode(codec)
+        except UnicodeDecodeError:continue
+        text=document
+        if e['mime']=='text/html':
+            parser=PlainText();parser.feed(document);text=' '.join(''.join(parser.parts).split())
+        if text==e['text']:matches.append('utf-8' if codec=='utf-8-sig' else codec)
+    require(matches,'SOURCE_TRANSFER_CHARSET_UNPROVEN')
+    return e['mime']+';charset='+matches[0]
 
 def validate(items,topic):
     require(isinstance(items,list) and len(items)==len(topic['sources']),'CACHED_SOURCE_COUNT')
@@ -49,10 +69,11 @@ def restore(permit,plan,journal,scoped,github,code_sha):
                         'SOURCE_TRANSFER_RAW_BLOB')
                 raw=base64.b64decode(obj['content'])
                 require(len(raw)<=MAX_BYTES and hashlib.sha256(raw).hexdigest()==raw_hash,'SOURCE_TRANSFER_RAW_CONTENT')
-                text=extract(raw,e['mime'],s)
+                content_type=e.get('content_type') or archive_content_type(raw,e)
+                text=extract(raw,content_type,s)
                 new={k:v for k,v in e.items() if k!='evidence_hash'}
                 new.update(text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),
-                           representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
+                           content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
                 new['evidence_hash']=digest(new);out.append(new)
             validate(out,topic)
             scoped.checkpoint(key,out);cached=out
