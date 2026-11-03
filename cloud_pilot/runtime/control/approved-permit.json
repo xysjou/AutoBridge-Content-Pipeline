@@ -1,0 +1,260 @@
+{
+  "authorized": true,
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "cap_nano_usd": 8000000000,
+  "code_sha": "82d0834b3b117c3b079568df669d582c10c7face",
+  "approved_main_sha": "82d0834b3b117c3b079568df669d582c10c7face",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "plan_hash": "2f95b69ac77e24e1251a1a7b5e3b3224ff7effcf36b53b97e1df3aee4ace3a5c",
+  "prices_hash": "bbe08ed0565dbb645b872e614315ab3da6cb25876b1ab9007d16a2fd49a65a4a",
+  "expires_at": "2026-11-03T13:01:14.681838+00:00",
+  "allowed_models": [
+    "gpt-6-luna",
+    "gpt-6.1-terra"
+  ],
+  "account_models_verified": true,
+  "protected_runtime_verified": true,
+  "target_site": "https://autobridgetrade.top/",
+  "locales": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "execution_phase": "english",
+  "audit_only": true,
+  "authorization_basis": "User explicitly approved cumulative USD8 on 2026-11-03; all historical charges preserved; no website publication",
+  "account_check_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41419415388",
+  "authorized_run_id": "41615683240",
+  "caller_workflow_sha": "b707ddf95679592b4f89c62cd4f8f4cb242c10fd",
+  "trusted_workflow_sha": "b3f5a6cef20b8dc235f001af306e635f1eca0fdf",
+  "caller_workflow_hash": "3ee6dc05e475c17c9f681a4b2d6e59b355276c55ba3520e006aa2dfa5cf3b90a",
+  "trusted_workflow_hash": "573f4d3872427edb6a041421cb11115ca61f53ceae08a50c9f22797a6ea78823",
+  "ledger_anchor": {
+    "events_count": 331,
+    "last_event_hash": "f5e5e96720a5041ec0497bcd6b8f9593a29ed40d6b6a864a7f0f4377356f917a",
+    "settled_nano_usd": 3910821075,
+    "operator_verified": true,
+    "reconciled_receipts": [
+      {
+        "response_id": "resp_07f96fc8bf34f651016ae859a873ac87d1a45feff92bbdb6bf",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "ae1383de7fbb9b435421f6f0b7e0adc925f02c96f4365303343d61f600b33dd4",
+        "cost": 88774250
+      },
+      {
+        "response_id": "resp_01b77663746170ef016ae85e53ddac87d1b16b08a5028fa893",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "72fcf23cd29b7db4a662ea8be3621a4da7384d34be7ed2a53595a817e7e4bb6d",
+        "cost": 153316750
+      },
+      {
+        "response_id": "resp_0cb502476a28dc0f016ae85ec3c8b087d1bd14ce7cd75fd8df",
+        "model": "gpt-6-luna",
+        "usage_hash": "d86a2e27358281ce25c9c08c88d6c67f004343c261c87d4caa11ad2b976624a2",
+        "cost": 17795425
+      },
+      {
+        "response_id": "resp_0ee7727ff1eba5dc016ae9477f40dc87d1a0d1dcb747d9d65c",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "e304431c3d5a212ec5cc8304946eadfe8d74439bfe0570f508f935cacc78e001",
+        "cost": 164813000
+      },
+      {
+        "response_id": "resp_0a5fe5ff9adaed51016ae94f45ff7c87d1913894a3743a60ad",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "93c535f4c47c1ea5bd24176a61e0cf0483c5872cb2e23f2bd613cc1f2f3e5e0e",
+        "cost": 231231750
+      },
+      {
+        "response_id": "resp_0e1da463929e02d3016ae95bd0a88c87d19650f491555f72c5",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "182b7c03849ce9b4e329b2a2c653ff73b27309c88f6917f8ef71d19a2aaee6a7",
+        "cost": 235524250
+      },
+      {
+        "response_id": "resp_02c32733b0a2772a016ae95c4e0ee487d191c1fd1ced189647",
+        "model": "gpt-6-luna",
+        "usage_hash": "94e164bfb401c15ec1774a972b079b1d7c0be1b3490dcb00d2cffea523a889b6",
+        "cost": 22031050
+      },
+      {
+        "response_id": "resp_07a73bc4b76cd52e016ae95f8a8e4087d183cb12f08e6ef8bf",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "88c27a38388471c3875b0d3c99c30ede5c9829e8d8e70cc4babadb1a9ced1ffc",
+        "cost": 239364250
+      },
+      {
+        "response_id": "resp_00be06ae07043e97016ae95fe5516487d196d6378502508edc",
+        "model": "gpt-6-luna",
+        "usage_hash": "33e1d7b517f0a2efd6538d68da3f23be35936230c694b479e7a1ec592105cca6",
+        "cost": 23147300
+      },
+      {
+        "response_id": "resp_09333204076948df016ae964c416c487d29bd9b51ebae1099d",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "797432039c1ccf7cfd2d6fd78b1ba19b6c7fb7bedad62ff4745457b706420c34",
+        "cost": 244233000
+      },
+      {
+        "response_id": "resp_06d8a3bd0459d97b016ae96527524887d296706cde4c2c8725",
+        "model": "gpt-6-luna",
+        "usage_hash": "75e29a1948f8f638bfaa951b753418e4c31f55bd6c1d4fa8dbb39986878d3e8f",
+        "cost": 26277050
+      },
+      {
+        "response_id": "resp_00d8f5d212734a78016ae96d4939c887d28c69a0cf28918e48",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "fa5a2542db972463ad88751ac930f01edb5386b75a2ce1fcf397f46f5d8603e0",
+        "cost": 246971750
+      },
+      {
+        "response_id": "resp_06ebb34d1fb0da48016ae96daab0b487d2a297376f7a707215",
+        "model": "gpt-6-luna",
+        "usage_hash": "8443d41d9aed0a66a85e3d4058e5a2bc8300832981257b9969beb47507f87ce0",
+        "cost": 25963925
+      },
+      {
+        "response_id": "resp_02be6de1f7d56798016ae9709d862c87d184468f65d65a5bfa",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "b424f22038d1d564c13f02fa6a16916914c94eea1f7adac079082b08459d4f2b",
+        "cost": 251976750
+      },
+      {
+        "response_id": "resp_051f577e6a2e08e8016ae970f5c2b487d19d41381764d55dbe",
+        "model": "gpt-6-luna",
+        "usage_hash": "ca87e61df80906100c04781fab774c7bbe2240f6f271d25e92333b07bf25f2ad",
+        "cost": 25929800
+      },
+      {
+        "response_id": "resp_0a283754cf334589016ae9755a45ec87d1afb481b51fb8acce",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "aca67d63ca53d5c6e2027fde08c6b53504012ef3105f30da4daeb51f6cdd5434",
+        "cost": 359100500
+      },
+      {
+        "response_id": "resp_037fe04979684318016ae975c7433887d19d0d3347b3fab0f3",
+        "model": "gpt-6-luna",
+        "usage_hash": "7ae6f275907e461126e811a6c31ee028b0c67c586fc227e102297bb3a7a80f3e",
+        "cost": 70165850
+      },
+      {
+        "response_id": "resp_01fb8e53966d0752016ae979631d6487d1820d2d6f8a6ebbc9",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "5b2711f5a6d889ce0bd661505543a271e35cce64634afc33db0695b08d78854e",
+        "cost": 254339250
+      },
+      {
+        "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61",
+        "model": "gpt-6-luna",
+        "usage_hash": "3f11ff02fdbe4eb0f0b8d7ed2b39ffd12d263cdac8f67273505bc8665a1cbdeb",
+        "cost": 28901675
+      },
+      {
+        "response_id": "resp_02fc2ae9e51be048016ae97fcdec1c87d1b16d775bc672aadf",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "717c8ae8785172ab4ab27041918c90c6d1b75f0e06d51096252509c9d95d76c6",
+        "cost": 270241750
+      },
+      {
+        "response_id": "resp_0679dda49b5a5ca2016ae9a5a12b2487d1b5fd9141198cc14e",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "4e356e8b36d70d5d1bb1fa70cb77207b06c23043585bed39747bc779db419ddc",
+        "cost": 284538000
+      },
+      {
+        "response_id": "resp_091669c2534cd25f016ae9a7cec6fc87d1a150dd96f3f94197",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "0fe19481550ab90acb637d3677a8187477a0ac047cd85e5fa8c19024e6930eff",
+        "cost": 263589250
+      },
+      {
+        "response_id": "resp_041036cb63a5ccd4016ae9a9246e6087d18afe3b2bfaac980b",
+        "model": "gpt-6-luna",
+        "usage_hash": "444d1ee95edb9ac47dbff6ccd6d6fd779add22bcc50f4bff1543b25c877899d7",
+        "cost": 22681800
+      },
+      {
+        "response_id": "resp_01a401968f7533c3016ae9abbff54087d180b146d494c30e34",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "bcd7595788d8850707b157c3a743ae648f3ae5aa6891272223c4d6cad08881b5",
+        "cost": 181135100
+      },
+      {
+        "response_id": "resp_02f03b1704c0e9e7016ae9ad9ff3dc87d18e8becba32468940",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "0c5a1e8c54280318967dc690983dc7d3f810945df453e2f3c7acd1e559e60747",
+        "cost": 178777600
+      }
+    ]
+  },
+  "environment_only_attestation": {
+    "repository_secrets_absent": true,
+    "owner_only_write_verified": true,
+    "environment": "autobridge-pilot",
+    "owner_type": "User",
+    "environment_names": [
+      "AUTOBRIDGE_CONTROL_COMMIT",
+      "AUTOBRIDGE_LIVE_APPROVAL_SHA256",
+      "OPENAI_API_KEY"
+    ],
+    "checked_at": "2026-11-03T10:01:14.681838+00:00",
+    "observed_repository_secrets": "This repository has no secrets.",
+    "observed_access": "0 collaborators; Only you can contribute to this repository.",
+    "evidence_pages": [
+      "https://github.com/xysjou/AutoBridge-Content-Pipeline/settings/secrets/actions",
+      "https://github.com/xysjou/AutoBridge-Content-Pipeline/settings/access"
+    ],
+    "threat_boundary": "Owner-controlled repository and protected operator approval; no adversarial owner or malicious installed app. Approval must be renewed after any access or secret-scope change."
+  },
+  "budget_approval_hash": "e8b6344cfbc8c6553bcc99b5fbaf75334d6af80c586a1d63fa440bfa9fa9097d",
+  "source_evidence_transfers": [
+    {
+      "article_id": "PILOT-Q05-2026",
+      "origin_checkpoint": "evidence-round:1:647344d3133e07c5cd6043b090ff915a6044706c4cd6ed430a4f08ce915aaa91:evidence:PILOT-Q05-2026",
+      "origin_evidence_hash": "33ed6e9901ea2be2232a88f211f5336f7d432491f9cb190f07c6478c05477795",
+      "operator_verified": true,
+      "source_tier_reclassifications": {
+        "S1": {
+          "from": "T3",
+          "to": "T2",
+          "publisher_verified": true,
+          "basis": "Autohome exact-trim structured configuration database; explicitly T2 under Research Skill section 6. Page identity and literal inline configuration verified."
+        },
+        "S3": {
+          "from": "T3",
+          "to": "T2",
+          "publisher_verified": true,
+          "basis": "Baidu YooJia structured exact-trim model listing, with model-year/trim/CLTC and listing status observed in archived page; treated as structured database T2, never OEM/official T1."
+        }
+      },
+      "expected_target_checkpoint": "evidence-round:1:159160450baf76e9e0ff01758ac0c6985a8c446220fd8085403da4e73bb192f8:evidence:PILOT-Q05-2026",
+      "expected_target_evidence_hash": "f2021650a53960233c5cb09bc37292fff2cd877fda899ead2a1932d755b8fbcb"
+    },
+    {
+      "article_id": "PILOT-REEFER-GUIDE",
+      "origin_checkpoint": "evidence-round:1:304e5f8a300058b25ccc9a2bf8e0700b70b29619612df7e0c734e564c2830c71:evidence:PILOT-REEFER-GUIDE",
+      "origin_evidence_hash": "09a8fc0c4876f21b4ad3cf9a7ea66b94d4a5d1695c6808e15d6c1e98708c7cae",
+      "operator_verified": true,
+      "expected_target_checkpoint": "evidence-round:1:159160450baf76e9e0ff01758ac0c6985a8c446220fd8085403da4e73bb192f8:evidence:PILOT-REEFER-GUIDE",
+      "expected_target_evidence_hash": "29c6bc0b6ddefb7f4f123c9673afbcea0ba63e0a6a8763fd116c8536e8e7d408"
+    }
+  ]
+}
