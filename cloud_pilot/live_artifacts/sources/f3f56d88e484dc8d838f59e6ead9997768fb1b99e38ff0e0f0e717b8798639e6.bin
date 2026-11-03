@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" href="favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport"
+            content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+        <meta name="keywords" content="长安启源,启源汽车,启源">
+        <meta name="description"
+            content="长安启源，占位“数智进化新汽车”，是长安汽车向数智汽车时代转型的集大成者，将顺应时代潮流引领行业变革，以数智进化携手用户向美好跃迁，驱动长安汽车向智能低碳出行科技公司迈进。">
+        <title>长安启源</title>
+        <!-- 车列表 -->
+        <!-- <script src="//www.changan.com.cn/cache/car_model_json.js"></script> -->
+        <!-- start 低版本浏览器提示升级 -->
+        <script>
+            (function () {
+                // 最低浏览器版本
+                var lowestList = {
+                    "IE": 12,// 永不支持
+                    "Chrome": 57,//猎豹6最新版是 57,勉强能打开
+                    "Edge": 79,
+                    "Safari": 12,
+                    "Firefox": 67,
+                    "Opera": 50
+                }
+
+                // 获取浏览器标识和版本
+                function getBrowserInfo () {
+                    var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+                    var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器
+                    var isIE11 = userAgent.indexOf('Trident') > -1 && userAgent.indexOf("rv:11.0") > -1;//IE11
+                    var isEdge = userAgent.indexOf("Edg") > -1 && !isIE; //Edge浏览器
+                    var isChrome = userAgent.indexOf("Chrome") > -1 && userAgent.indexOf("Safari") > -1 && userAgent.indexOf("Edge") == -1 && userAgent.indexOf("OPR") == -1; //Chrome浏览器
+                    var isSafari = userAgent.indexOf("Safari") > -1 && userAgent.indexOf("Chrome") == -1 && userAgent.indexOf("Edge") == -1 && userAgent.indexOf("OPR") == -1; //Safari浏览器
+                    var isFirefox = userAgent.indexOf("Firefox") > -1; //Firefox浏览器
+                    var isOpera = userAgent.indexOf("Opera") > -1 || userAgent.indexOf("OPR") > -1; //Opera浏览器
+
+                    try {
+                        if (isIE) {
+                            var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+                            reIE.test(userAgent);
+                            var fIEVersion = parseFloat(RegExp["$1"]);
+                            if (fIEVersion == 7) {
+                                return 'IE:7';
+                            } else if (fIEVersion == 8) {
+                                return 'IE:8';
+                            } else if (fIEVersion == 9) {
+                                return 'IE:9';
+                            } else if (fIEVersion == 10) {
+                                return 'IE:10';
+                            } else {
+                                return 'IE:6'; //IE版本<7
+                            }
+                        } else if (isIE11) {
+                            return 'IE:11';
+                        } else if (isEdge) {
+                            return 'Edge:' + userAgent.split('Edg/')[1].split('.')[0];
+                        } else if (isFirefox) {
+                            return 'Firefox:' + userAgent.split('Firefox/')[1].split('.')[0];
+                        } else if (isOpera) {
+                            return 'Opera:' + userAgent.split('OPR/')[1].split('.')[0];
+                        } else if (isChrome) {
+                            return 'Chrome:' + userAgent.split('Chrome/')[1].split('.')[0];
+                        } else if (isSafari) {
+                            return 'Safari:' + userAgent.split('Safari/')[1].split('.')[0];
+                        } else {
+                            return -1; //不是ie浏览器
+                        }
+                    } catch (error) { }
+                }
+
+                var browserVersionStr = getBrowserInfo().split(':');
+                var browser = browserVersionStr[0];
+                var version = browserVersionStr[1];
+                console.log(browserVersionStr);
+                // 判断是否版本过低
+                if (lowestList[browser] && version < lowestList[browser]) {
+                    // 插入html提示
+                    var str = "你的浏览器版本太低了 :(";
+                    var str3 = "1、建议您升级浏览器版本";
+                    var str2 = "2、推荐使用:<a href='https://www.baidu.com/s?ie=UTF-8&wd=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8' target='_blank' style='color:red;display: inline-block;'>谷歌</a>," +
+                        "<a href='https://www.baidu.com/s?ie=UTF-8&wd=Edge' target='_blank' style='color:red;display: inline-block;'>Edge</a>," +
+                        "其他双核极速模式";
+                    document.writeln("<pre style='font-size:14px;line-height:200%;background:#F9F9FB;text-align:center;color:#333; height:100%;border:0;position:fixed;top:0;left:0;width:100%;z-index:9999'>" +
+                        "<h2 style='padding-top:200px;margin:0'><strong>" + str + "<br/></strong></h2><h2>" + str3 + "</h2><h2>" +
+                        str2 + "</h2><h2 style='margin:0'><strong>如果你使用的是双核浏览器,请切换到极速(高速)模式访问。<br/></strong></h2></pre>");
+                    document.execCommand("Stop");
+                };
+            })()
+        </script>
+        <!-- end 低版本浏览器提示升级 -->
+      <script type="module" crossorigin src="./js/index-ba9f8415.js"></script>
+      <link rel="stylesheet" href="./css/index-06ca3f0a.css">
+      <script type="module">import.meta.url;import("_").catch(()=>1);async function* g(){};if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+      <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+    </head>
+
+    <body>
+        <div id="app"></div>
+        
+
+
+
+        <div class="footer_record" hidden>
+            <div class="record_box record_box_pc">
+                <p>
+                    长安汽车 版权所有
+                    <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">渝ICP备06006808号-1</a>
+                    增值电信业务经营许可证编号：渝B－20160009
+                </p>
+                <div class="copyrightgn">
+                    <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">渝公网安备 50010502000164号</a>
+                </div>
+            </div>
+            <div class="record_box record_box_m">
+                <p>
+                    长安汽车 版权所有
+                </p>
+                <p>
+                    <a href="https://beian.miit.gov.cn/#/Integrated/index"
+                        target="_blank">渝ICP备06006808号-1</a>增值电信业务经营许可证编号：渝B－20160009
+                </p>
+                <div class="copyrightgn">
+                    <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">渝公网安备 50010502000164号</a>
+                </div>
+            </div>
+        </div>
+      <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+      <script nomodule crossorigin id="vite-legacy-polyfill" src="./js/polyfills-legacy-a388eb3c.js"></script>
+      <script nomodule crossorigin id="vite-legacy-entry" data-src="./js/index-legacy-e1ffa8a3.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+    </body>
+
+</html>

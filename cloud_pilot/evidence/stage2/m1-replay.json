@@ -1,0 +1,27 @@
+{
+  "mode": "mock",
+  "articles": 2,
+  "events": 20,
+  "journal_head": "301394caad30b5a3e45a6e917d3a1d426c93eb1ad8b231d09e295a88472d236f",
+  "program_cap_usd": 3,
+  "simulated_accounted_usd": 0.021,
+  "actual_paid_api_calls": 0,
+  "actual_api_cost_usd": 0,
+  "existing_files_changed": 0,
+  "statuses": {
+    "MOCK-AURORA": {
+      "status": "DRAFT_PR_PREPARED",
+      "revision": 0,
+      "version": 1,
+      "artifact_hash": "85910107991834b02e9638e326ef22f6e7aabcd7b15186854620c1ca2078e017"
+    },
+    "MOCK-BOREAL": {
+      "status": "DRAFT_PR_PREPARED",
+      "revision": 0,
+      "version": 1,
+      "artifact_hash": "3cd3015c43866f0fb735cdd44593b8e3e8706a3b72b17eb51d742c6789622ac1"
+    }
+  },
+  "production_eligible": 0,
+  "reviewer_kind": "INDEPENDENT_DETERMINISTIC_MODULE_NOT_AI_EDITORIAL_REVIEW"
+}

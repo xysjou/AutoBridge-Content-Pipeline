@@ -1,0 +1,173 @@
+{
+  "schema": "autobridgetrade-scope-alignment/1.0",
+  "status": "REQUIREMENTS_CONFIRMED_IMPLEMENTATION_NOT_ALIGNED",
+  "user_request_date": "2026-11-02",
+  "target_site": "https://autobridgetrade.top/",
+  "authoritative_user_requirement": {
+    "batch_composition": [
+      {
+        "content_type": "VEHICLE_RECOMMENDATION",
+        "count": 1
+      },
+      {
+        "content_type": "VEHICLE_BUYING_GUIDE",
+        "count": 1
+      }
+    ],
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "language_units": 24,
+    "primary_discovery_sites": [
+      "https://www.autohome.com.cn/beijing/",
+      "https://www.yoojia.com/",
+      "https://www.360che.com/"
+    ],
+    "audience": "Overseas vehicle importers, dealers, fleets and procurement buyers",
+    "interpretation": "One recommendation and one buying guide; each has twelve complete language versions. The three specified sites are topic/data starting points, with OEM/regulator verification where necessary under existing source rules; not every article must pad its references with all three sites.",
+    "publication_authorized": false,
+    "first_real_api_call_authorized": false
+  },
+  "audit": {
+    "main_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+    "integration_sha_reviewed": "94cdbea60660735a0742b192076dca7c95e893df",
+    "pr3_sha": "a4c128677a1213e8bda358d3864dcc2a5645f880",
+    "main_files": 4874,
+    "current_pointers": 93,
+    "read": [
+      "README.md",
+      "VERSIONING.md",
+      "LESSONS_LEARNED.md",
+      "skills/README.md",
+      "skills/registry.json",
+      "skills/autobridge-research/SKILL.md",
+      "skills/autobridge-writing/SKILL.md",
+      "pipeline/README.md",
+      "pipeline/qa.py",
+      "pipeline/run_pipeline.py",
+      ".github/workflows/run-pipeline.yml",
+      "cloud_pilot/live/engine.py",
+      "cloud_pilot/live/stages.py",
+      "cloud_pilot/live/__main__.py",
+      "cloud_pilot/live/sources.py",
+      "daily/2026-09-07/research/daily_manifest.json",
+      "daily/2026-09-07/research/RESEARCH_HANDOFF_2026-09-07.json",
+      "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json",
+      "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json"
+    ],
+    "research_skill_version": "1.1",
+    "writing_skill_version": "1.3",
+    "findings": [
+      {
+        "id": "F01",
+        "finding": "Writing Skill already requires twelve full-body language versions, minimum 900 English words, full locale fields and semantic language QA.",
+        "evidence": "skills/autobridge-writing/SKILL.md sections 8 and 20–24A"
+      },
+      {
+        "id": "F02",
+        "finding": "Current legacy pipeline checks EN/ZH markers and minimum characters, records reports/checkpoints; it is not a full autonomous twelve-language content generator.",
+        "evidence": "pipeline/qa.py; pipeline/run_pipeline.py"
+      },
+      {
+        "id": "F03",
+        "finding": "Cloud pilot explicitly enforces two English-only initial drafts and has no localization or locale review stage.",
+        "evidence": "cloud_pilot/live/stages.py validate_plan; cloud_pilot/live/engine.py"
+      },
+      {
+        "id": "F04",
+        "finding": "No autobridgetrade.top reference and no yoojia.com reference was found in the audited main tree. This does not prove ownership of another deployment, but no current target-site deployment or URL-index mapping was established.",
+        "evidence": "git grep across main exact SHA; README still identifies AutoBridge Export"
+      },
+      {
+        "id": "F05",
+        "finding": "PR #3 adds only one manual workflow with its sole job unconditionally disabled. It cannot produce either English drafts or a twelve-language batch.",
+        "evidence": ".github/workflows/cloud-pilot-manual.yml at PR3 head"
+      },
+      {
+        "id": "F06",
+        "finding": "Merging the bootstrap changes main while the current pilot checks main against a fixed older SHA; a reviewed baseline update strategy is required before any activation.",
+        "evidence": "cloud_pilot/contract.py BASELINE; cloud_pilot/live/__main__.py permission"
+      },
+      {
+        "id": "F07",
+        "finding": "Repository has existing source tiers, claim-level source boundaries, immutable article versions, CURRENT pointers, dedup rules and localization gates that should be reused.",
+        "evidence": "Research1.1; Writing1.3; VERSIONING.md; state registries"
+      },
+      {
+        "id": "F08",
+        "finding": "The previously proposed UK recall and AC depot topics are both guides and do not satisfy the newly confirmed one-recommendation plus one-buying-guide composition.",
+        "evidence": "daily/2026-11-02/research/pilot-intake-proposal.json at integration SHA"
+      }
+    ]
+  },
+  "website_observations": {
+    "checked_date": "2026-11-02",
+    "method": "Public page retrieval only; not a website-wide audit",
+    "source_sites": [
+      {
+        "url": "https://www.autohome.com.cn/beijing/",
+        "access": "FAILED",
+        "reason": "Ordinary retrieval timed out; Firecrawl returned an internal tunnel error. No current Autohome parameter page was verified."
+      },
+      {
+        "url": "https://www.yoojia.com/",
+        "access": "HOMEPAGE_READ",
+        "note": "Model/category pages and user-contributed content coexist; homepage discovery is not verification of a chosen trim."
+      },
+      {
+        "url": "https://www.360che.com/",
+        "access": "HOMEPAGE_READ",
+        "note": "Commercial-vehicle product, parameter, quotation and article routes are exposed; no exact truck trim was selected."
+      }
+    ],
+    "target_pages_read": [
+      "https://autobridgetrade.top/",
+      "https://autobridgetrade.top/en/vehicles/byd-seal-global-search-2026.html",
+      "https://autobridgetrade.top/en/guides/fob-cif-quote-check-global.html"
+    ],
+    "note": "The live site exposes vehicle and buyer-guide sections with /en/...html article URLs. Existing repository URL registries must be reconciled with the actual target site before new-page decisions; locale completeness and current vehicle/legal facts were not independently revalidated."
+  },
+  "decision": {
+    "pr3": "KEEP_DRAFT_DO_NOT_MERGE_CURRENT_VERSION",
+    "reason": "Align source acquisition, one-plus-one composition, target site, localization/review and baseline compatibility before installing a useful manual entry point. Do not merge an inert English-only bootstrap merely to show deployment progress.",
+    "supersedes": "UK topic proposal is retained as historical work but is not the active batch intake.",
+    "main_change_made": false,
+    "workflow_dispatched": false,
+    "real_api_calls": 0,
+    "secrets_read": false,
+    "budget": {
+      "program_cap_usd": 3,
+      "coverage": "All existing pilot work across articles, stages, revisions and reruns",
+      "twelve_language_completion_within_cap": "NOT_VERIFIED; do not promise or silently increase cap"
+    }
+  },
+  "recommended_minimum_flow": [
+    "Read current rules, target site's existing vehicle/guide URLs and pending articles; select one distinct vehicle recommendation and one distinct buying guide.",
+    "Use specified sites' exact model/trim data pages; distinguish structured data from dealer quotes, AI Q&A and contributor commentary. Verify material specifications with OEM/approval sources when necessary.",
+    "Record market, model year, trim, powertrain and test cycle, plus per-claim allowed/blocked facts and actual source provenance. Domestic retail/dealer prices are not export quotations.",
+    "Write and independently review an English master for each article before multiplying content.",
+    "Localize the two reviewed masters into the remaining eleven languages; preserve facts, units, numeric tokens, URL identity and source scope; independently review each full locale.",
+    "Deliver twenty-four complete language packages with public SEO fields, sources and documented image rights; store immutable versions and draft PRs.",
+    "Publish to autobridgetrade.top only after separate authorized review and verified deployment mapping."
+  ],
+  "skill_impact_check": {
+    "done": true,
+    "research_impact": "YES — source entrypoints and target-site live dedup",
+    "writing_impact": "YES — exact one-plus-one batch and AutoBridgeTrade delivery mapping; preserve twelve-language standard",
+    "canonical_skills_changed": false,
+    "canonical_alignment_required_before_execution": true
+  },
+  "human_reviewed": false,
+  "publish_approved": false
+}
