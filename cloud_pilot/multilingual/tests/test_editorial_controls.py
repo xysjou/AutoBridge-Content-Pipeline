@@ -80,11 +80,11 @@ class Tests(unittest.TestCase):
         from cloud_pilot.multilingual.startup import EpochJournal
         base=ResponseJournal(ArtifactStore());first=EditorialState(EpochJournal(base,1,{'code':'first'}));second=EditorialState(EpochJournal(base,2,{'code':'second'}))
         topic,ev,r=active_case('VEHICLE_RECOMMENDATION');aid=topic['article_id']
-        self.assertEqual(first.begin(aid,'epoch-one')['version'],1);old=check_research(r,topic,ev);first.lock(old)
-        self.assertEqual(second.begin(aid,'epoch-two')['version'],2)
+        start=first.begin(aid,'epoch-one');self.assertEqual(start['version'],1);old=check_research(r,topic,ev);old['research_start']=start;first.lock(old)
+        start=second.begin(aid,'epoch-two');self.assertEqual(start['version'],2)
         with self.assertRaisesRegex(GateError,'RESEARCH_LOCK_UPDATE_REQUIRED'):first.check(old)
         r['content']['handoff'].update(fact_sheet_version=2,source_log_version=2)
-        new=check_research(r,topic,ev,2);second.lock(new)
+        new=check_research(r,topic,ev,2);new['research_start']=start;second.lock(new)
         with self.assertRaisesRegex(GateError,'RESEARCH_CHANGED_AFTER_WRITING_STARTED'):first.check(old)
         second.check(new)
     def test_identity_rejects_unrelated_quote_and_t3_core_spec(self):

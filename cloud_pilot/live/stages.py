@@ -111,6 +111,7 @@ def writing_request(research,version,prior=None,findings=None):
             internal_links='list of verified relative URLs or empty',human_reviewed=False,publish_approved=False),
         instruction='Write at least 900 English words, natural article-specific prose, evidence-bound claims and restrained uncertainty. Do not include self-evaluation or internal workflow terms. Never invent images or source URLs. Follow the canonical Writing Skill in full.')
     if applies(research['topic']):
+        result['instruction']+=' Use the immutable Research completion commit '+research.get('completion',{}).get('commit_sha','MISSING')+' as the Writing factual baseline; the pre-research main SHA is provenance only.'
         result['required_output'].update(skill_impact='internal object {research,writing,lessons,update_required,reason}',
             review_handoff_assessment='internal list classifying every supplied handoff {path,applicable:boolean,reason,superseded_by:null|path}')
     return result
@@ -151,7 +152,8 @@ def check_writing(result,research,version,history,prior_bodies):
     require(maximum<.70,'FULL_BODY_SIMILARITY_FAIL')
     packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=research['article_id'],version=version,locale='en',
         baseline_sha=BASELINE,rules=rules(),research_hash=research['research_hash'],
-        research_baseline_sha=research['fact_sheet'].get('handoff',{}).get('research_baseline_sha'),
+        research_baseline_sha=(research.get('completion',{}).get('commit_sha') if applies(research['topic'])
+                               else research['fact_sheet'].get('handoff',{}).get('research_baseline_sha')),
         evidence_hash=research['evidence_hash'],writer_id='writer:'+result['response_id'],
         author='AutoBridge Export Editorial Team',ai_assisted=True,evidence=dict(first_hand=False),
         writing_skill_version_used=provenance['version'],writing_skill_commit_sha_used=provenance['commit'],

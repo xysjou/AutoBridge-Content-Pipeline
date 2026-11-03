@@ -33,6 +33,11 @@ test_real_execute_disabled_before_application_key_read (test_multilingual.Tests.
 test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.test_source_script_only_and_ssrf_stop_without_models) ... ok
 test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
 test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
+test_engine_locks_before_source_collection_and_keeps_lock_on_failure (test_publication.Tests.test_engine_locks_before_source_collection_and_keeps_lock_on_failure) ... ok
+test_new_research_attempt_supersedes_pending_fence_monotonically (test_publication.Tests.test_new_research_attempt_supersedes_pending_fence_monotonically) ... ok
+test_pushed_research_has_canonical_files_and_actual_commit_baseline (test_publication.Tests.test_pushed_research_has_canonical_files_and_actual_commit_baseline) ... ok
+test_research_cannot_interleave_with_publication_and_release_is_idempotent (test_publication.Tests.test_research_cannot_interleave_with_publication_and_release_is_idempotent) ... ok
+test_research_head_and_ready_resume_as_one_atomic_commit (test_publication.Tests.test_research_head_and_ready_resume_as_one_atomic_commit) ... ok
 test_approval_cannot_be_reused_by_another_run_or_rerun_attempt (test_recovery.Tests.test_approval_cannot_be_reused_by_another_run_or_rerun_attempt) ... ok
 test_checkpoints_are_isolated_by_code_and_intake_and_revision (test_recovery.Tests.test_checkpoints_are_isolated_by_code_and_intake_and_revision) ... ok
 test_complete_vehicle_identity_is_required_before_writing (test_recovery.Tests.test_complete_vehicle_identity_is_required_before_writing) ... ok
@@ -58,6 +63,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 58 tests in 12.737s
+Ran 63 tests in 15.629s
 
 OK

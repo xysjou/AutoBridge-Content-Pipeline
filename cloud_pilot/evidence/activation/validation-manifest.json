@@ -1,6 +1,6 @@
 {
   "suites": {
-    "multilingual": 58,
+    "multilingual": 63,
     "stage2": 47,
     "original": 41
   },
@@ -17,30 +17,32 @@
     "cloud_pilot/fixtures/build_fixtures.py": "7503b74bba3a07da7147cb2a59df503550a25165514d167097e0b626bd83226f",
     "cloud_pilot/live/__init__.py": "6a367ad2af036987f14e8dfe4c7e2661d244f5495e3eb6aff0bc7afc848f3883",
     "cloud_pilot/live/__main__.py": "5ca15e83bd04548768c8d4904b299075060dceda8e95db6da54aecfe90d49ec9",
-    "cloud_pilot/live/engine.py": "ac159f07019544c156413c618242f025290ce1ff747bd1e2001d6b0e0ff9a339",
+    "cloud_pilot/live/engine.py": "c13919e106a258cfb8362e1b5cb71ec475ea01c2509d471f4c5a57d9919f349e",
     "cloud_pilot/live/http.py": "da48d13c4c5cc56a941a091e00238359138ca7ad6c6f325851ce38837d5a529b",
     "cloud_pilot/live/ledger.py": "1eef47f20a727f8e228d30deb29c16ff001b564e1a9dd39ccf5dec005b0276be",
     "cloud_pilot/live/policy.py": "8be38f7812e48b8bf1d5065a92ce4d1d875e31367f084a0bbaec24c4b82e7e98",
     "cloud_pilot/live/responses.py": "a06f9cdd1f60b533c69799c48d2f041283510fc77219674d47c2df271f67739d",
     "cloud_pilot/live/sources.py": "b961edbe0e23180068b9993ac6808f4a1d754636b7956d5dcc3dd725af2d22d8",
-    "cloud_pilot/live/stages.py": "5abe1df5ec264ae127cefcfa77abf7ed9200dc39d6c670dddc3f64ebdcba745e",
+    "cloud_pilot/live/stages.py": "933de484b0e8634b534054137a7881d5e7780eabab66d17a017a9b843fdeb62a",
     "cloud_pilot/multilingual/__init__.py": "531a1868aa346e31cc5d470857ed035f4e1a6bdcabda58e734082a9fb1d30985",
-    "cloud_pilot/multilingual/__main__.py": "b2ef24620a41e5b8d72750895a052ddc077a91a19f7156289cd8cabad147d494",
+    "cloud_pilot/multilingual/__main__.py": "7787cd95a6292464c96950a77ff7bc35fbfa82aed8dd374119e42217173c6743",
     "cloud_pilot/multilingual/accounting.py": "58a314023c4647113a7c6dc80fc0e621d7be6856cd47ee72a9a277ef0de4714c",
-    "cloud_pilot/multilingual/activation_review.py": "3b335422a8c09174bd2d73005ed95b6af3f8ac71f0beaf6233996b0b1a23b911",
+    "cloud_pilot/multilingual/activation_review.py": "f031713191fe1513c93cc9e296ebdfc3a3a4265e04fb8224387bfa774a8664be",
     "cloud_pilot/multilingual/authorization.py": "63bf28e21e55a19d807f031f426575bd24c0bbb8ab773cb15c16a5ada48143b7",
     "cloud_pilot/multilingual/control.py": "fcc0a418ef3dc81106cf30a61979416ad6c2fbc169ca81b69b3740f55e3d0bf8",
-    "cloud_pilot/multilingual/delivery.py": "7b58295a2b2d54e66d5933daa86a3d4eb87c36ca6c277ef492c232fb6eef8fc9",
-    "cloud_pilot/multilingual/editorial_state.py": "30045bc9e0fb872f301ff589e4b4630ddd7942b23c23d813b00aabc5f866817b",
-    "cloud_pilot/multilingual/localize.py": "10adcb5724c6f1daf7fda94439232f21b39e5ab047fe65aec62dc320d5335cd4",
+    "cloud_pilot/multilingual/delivery.py": "c0b57df76b89ec6ab99cba2ad5c446b797f967570f1caf687235bd58b31b054d",
+    "cloud_pilot/multilingual/editorial_state.py": "6d44ce258d14a2d71f9d7c17a64c63c39afb483bc62f4c7a74b8c947f79defdd",
+    "cloud_pilot/multilingual/localize.py": "0880357cdfcbc0cfcd9b24de4064423d50ea7bc37ae6213ba7026fd75beedb84",
     "cloud_pilot/multilingual/pricing.py": "139c439d72a892e1e5d15f1aed97ee8a2c908d162ec13b09444d872a5f657590",
+    "cloud_pilot/multilingual/publication.py": "405d8f7a0188e061d8cd574542c1a09b475c8e6e6386628253d18429c8e54916",
     "cloud_pilot/multilingual/research_contract.py": "8d515baa21e806ad0b4c55cea61a8edea005b3c59ff9a9b60349403b6b345278",
     "cloud_pilot/multilingual/source_cache.py": "bd71f89548e9e7f14e1c2d40b441a06150c7cbe01c14d5998d03f76dd105231c",
     "cloud_pilot/multilingual/sources.py": "b35cc2208279928727e4c5c21453c6b6315adbf836d5464944374a880efa6928",
     "cloud_pilot/multilingual/startup.py": "a608161fe736c3e7c44f518ce5d2f4eb89d36537a4f53ad43ac4b65fb9aada19",
     "cloud_pilot/multilingual/tests/test_activation.py": "130bf1bcd4a5be98aff1da9d34fe95fbd54f5e7d6b79a477386424b96472a597",
-    "cloud_pilot/multilingual/tests/test_editorial_controls.py": "8a1377c2566a1aa2eb48b8fbd5fce828b0a3ca13405d0f4a8d4b4c61c4356703",
-    "cloud_pilot/multilingual/tests/test_multilingual.py": "a683a2e0609eea27329be568d3fa5d4ae0a9fe3de6b99e725a1f1cce0b4c27be",
+    "cloud_pilot/multilingual/tests/test_editorial_controls.py": "14d7930b3235785ac5fd95df9eacb46e8b929ee06b27b4ffa1972045ecc0bbb0",
+    "cloud_pilot/multilingual/tests/test_multilingual.py": "facd63b6dd9db23d201e5a5b48a61b79add24f86556136765ce3e3662337d5ce",
+    "cloud_pilot/multilingual/tests/test_publication.py": "98839f3f4c1ab4cb5fd64ad01a1c555ae6d15d14c5f97a6891b6a9e28f1f8036",
     "cloud_pilot/multilingual/tests/test_recovery.py": "cd5084d4c80fe2f2c0dd8c009d45d629143e6786894d6ecc8a01de9fe93553dd",
     "cloud_pilot/multilingual/tests/test_security.py": "c9cae21928800248b14b834b716ac8192abd3dc2ffef73d09bff6ea7dfa3d7b0",
     "cloud_pilot/multilingual/tests/test_source_cache.py": "81c7cab253d5ef62645d4ff7752fb96a9dd0ae306284c598ebc7a9ded249fb1d",
@@ -54,9 +56,9 @@
     "cloud_pilot/writing.py": "12f82fa1e4dabf2f7198e930456e33351be5d39896cf2ce5e6ddf8c1c5c45a4d"
   },
   "test_logs": {
-    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "2f3d3048f76164c481e00f31e6a5287148f6fcd064eba775554cb19d826ece99",
-    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "732a4023b140d0a08249fdfe19c64d5e3c756705de2c554a8d7e78a4f94fa03a",
-    "cloud_pilot/evidence/activation/current-m1-tests.txt": "ff138a7fc92972a97409a64fb666d64fc02bb9bd6ceff9db5a5b4d4e4d31826a"
+    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "1f1d327540dad6c8f893905adb1f5eeef5415e074e93846f3c0c2231b0da8d5f",
+    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "4b1bed7f4d0ca19d9a58e0ceeb5bc233ddcd239a00b261250aa7f8cc46b78dc7",
+    "cloud_pilot/evidence/activation/current-m1-tests.txt": "1b0339dbe8481520a351eac83e53267a913f14e2fce8b6da58e9b0249f2feb92"
   },
   "method": "All three offline unittest suites passed against the exact source bytes in this manifest; commit SHA is assigned after creating the validated tree."
 }

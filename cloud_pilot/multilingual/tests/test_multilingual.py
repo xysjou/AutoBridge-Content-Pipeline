@@ -69,6 +69,13 @@ class GitHub:
         if path in self.artifacts:assert self.artifacts[path]==body
         self.artifacts[path]=body;return digest(body.decode(errors='replace'))
     def deliver_candidate(self,p):return dict(url='https://github.com/synthetic/draft',draft=True)
+    def publish_delivery_bundle(self,files,identity):
+        from cloud_pilot.multilingual.publication import blob_hash
+        if self.fail_export:raise GateError('SYNTHETIC_EXPORT_FAILURE')
+        for p,b in files.items():
+            if p in self.artifacts:assert self.artifacts[p]==b
+        self.artifacts.update(files)
+        return {p:blob_hash(b) for p,b in files.items()}
 
 def fetch(source,allowed):
     e=next(e for t in plan()['articles'] for e in evidence(t)
@@ -108,7 +115,7 @@ class Tests(unittest.TestCase):
         deliveries=self.english();self.gh.fail_export=True
         with self.assertRaisesRegex(GateError,'EXPORT_FAILURE'):
             run_multilingual(self.plan,self.journal,self.models,self.gh,deliveries)
-        self.assertEqual(6,len(self.api.calls)) # English export fails before paying for localization.
+        self.assertEqual(50,len(self.api.calls)) # All texts are reviewed before the single atomic bundle export.
         self.gh.fail_export=False
         self.assertEqual(24,len(run_multilingual(self.plan,self.journal,self.models,self.gh,deliveries)['files']))
         self.assertEqual(50,len(self.api.calls))

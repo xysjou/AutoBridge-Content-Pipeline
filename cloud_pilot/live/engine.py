@@ -41,10 +41,17 @@ class Engine:
         return evidence
 
     def run(self):
+        from ..multilingual.research_contract import applies
+        from ..multilingual.editorial_state import EditorialState
         deliveries=[];prior=list(self.prior_bodies)
         for topic in self.plan['articles']:
             self.guard()
             aid=topic['article_id']
+            active=applies(topic);editorial=EditorialState(self.journal) if active else None
+            started=None
+            if active and self.cached('research:'+aid) is None:
+                started=editorial.begin(aid,getattr(self.journal,'prefix','')+':'+aid)
+                editorial.assert_research(started)
             existing=self.cached('delivery:'+aid)
             if existing is not None:
                 self.evidence(topic)
@@ -54,9 +61,12 @@ class Engine:
                 if applies(topic):
                     from ..multilingual.editorial_state import EditorialState
                     EditorialState(self.journal).check(final['research'])
-                current=self.github.deliver_candidate(final)
+                current=(self.github.verify_existing_candidate(final,existing) if active else self.github.deliver_candidate(final))
                 if applies(topic):EditorialState(self.journal).check(final['research'])
                 require(current==existing,'CACHED_DELIVERY_CHANGED')
+                if active:
+                    pending=editorial.snapshot()['publication'];owner='english:'+final['article']['content_hash']
+                    if pending and pending['owner']==owner:editorial.end_publication(pending)
                 deliveries.append(existing)
                 if final:prior.append(final['article']['body'])
                 continue
@@ -69,17 +79,22 @@ class Engine:
                 expected_version=1;data=research_request(topic,evidence)
                 if applies(topic):
                     from ..multilingual.editorial_state import EditorialState
-                    started=EditorialState(self.journal).begin(aid,getattr(self.journal,'prefix','')+':'+aid)
                     expected_version=started['version']
                     data['instruction']+=' Set fact_sheet_version and source_log_version to '+str(expected_version)+'. This durable current Research version overrides the initial output-schema example.'
                 response=self.models.call(aid+':research','research',data)
                 try:research=check_research(response,topic,evidence,expected_version)
                 except Exception:
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
+                if active:
+                    editorial.assert_research(started)
+                    from ..multilingual.publication import seal_research
+                    research=seal_research(self.github,research,started)
                 self.journal.checkpoint('research:'+aid,research)
             require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
             from ..multilingual.research_contract import applies,request as research_review_request,accept
             if applies(topic):
+                from ..multilingual.publication import verify_research
+                verify_research(self.github,research)
                 review_key='research-acceptance:'+research['research_hash']
                 if self.cached(review_key) is None:
                     checked=self.models.call(aid+':research-review','review',research_review_request(research))
@@ -94,6 +109,7 @@ class Engine:
                 if applies(topic):
                     from ..multilingual.research_contract import validate
                     editorial.check(research)
+                    verify_research(self.github,research)
                     validate(fresh['fact_sheet'],topic,evidence,fresh['version'])
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
@@ -118,11 +134,13 @@ class Engine:
                     if applies(topic):editorial.check(research)
                     package=dict(article=article,research=research,review=review)
                     self.journal.checkpoint('final:'+aid,package)
+                    fence=editorial.begin_publication([research],'english:'+article['content_hash']) if active else None
                     try:delivery=self.github.deliver_candidate(package)
                     except Exception:
                         self.journal.halt(aid,'delivery',version,'DRAFT_PR_DELIVERY_PENDING');raise
                     if applies(topic):editorial.check(research)
                     self.journal.checkpoint('delivery:'+aid,delivery)
+                    if active:editorial.end_publication(fence)
                     deliveries.append(delivery);prior.append(article['body']);break
                 if verdict in ('NEEDS_RESEARCH','REJECT'):
                     self.journal.halt(aid,'review',version,verdict)

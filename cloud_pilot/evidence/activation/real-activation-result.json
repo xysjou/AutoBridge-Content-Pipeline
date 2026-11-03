@@ -1,11 +1,11 @@
 {
   "schema": "autobridge-real-activation-result/1.0",
-  "status": "HOLD_INDEPENDENT_REVIEW_PENDING_FIXES",
+  "status": "HOLD_CODE_FIXES_PENDING_INDEPENDENT_REVIEW",
   "date": "2026-11-03",
-  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41576689138",
-  "reviewed_code_sha": "bf787e70837dbfa9217299d16aed55fa98078d93",
-  "paid_generation_requests": 9,
-  "settled_cost_nano_usd": 1175998025,
+  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41578882268",
+  "reviewed_code_sha": "831e42fb5aca58de02078badf651e226d6d1eba4",
+  "paid_generation_requests": 11,
+  "settled_cost_nano_usd": 1446508075,
   "budget_cap_nano_usd": 3000000000,
   "uncertain_operations": 0,
   "english_articles_generated": 0,
@@ -18,39 +18,27 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "A source check can declare scope_match=true and scope_status=CONTEXT_ONLY while official_source=false. Both validators accept that combination, and VERIFIED requires only a T1 source, not a MATCHED scope status. A context-only source can therefore support a fact labeled VERIFIED.",
-          "file": "cloud_pilot/multilingual/research_contract.py; cloud_pilot/live/stages.py",
-          "required_fix": "Make the boolean and scope-status fields consistent, and require a directly supporting T1 source classified MATCHED for every VERIFIED fact. Add tests for contradictory scope fields and context-only T1 sources.",
+          "detail": "Research and writing artifacts are persisted under cloud_pilot/live_artifacts rather than the permitted daily research, articles, QA or deliveries paths. The writing packet also takes research_baseline_sha from the pre-research plan; it does not record the commit containing the completed research handoff as the writing baseline.",
+          "file": "cloud_pilot/live/engine.py; cloud_pilot/live/stages.py; cloud_pilot/multilingual/delivery.py; cloud_pilot/multilingual/localize.py",
+          "required_fix": "Persist the Fact Sheet, Source Log and handoff within the Research file boundary, push them and bind Writing to the actual research-completion commit. Store writing outputs within the permitted Writing paths and retain immutable versioning.",
           "severity": "high"
         },
         {
-          "detail": "The T1/T2 restriction covers declared identity facts and quantitative facts only when their scope exactly equals the first intake source. A core, non-quantitative vehicle specification can be declared as an ordinary external fact and supported solely by T3 evidence. Family-scoped quantitative facts also bypass that tier check.",
-          "file": "cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Classify all core vehicle specifications independently of identity_field and quantitative flags, enforce the permitted evidence tiers and exact vehicle applicability for each, and test non-numeric and family-scoped bypasses against the active article contract.",
+          "detail": "Engine.run retrieves or restores evidence before calling EditorialState.begin. A new evidence epoch can therefore be collected while the previous research head remains writable, contrary to the required lock-before-research and immediate stale-writer invalidation protocol.",
+          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/__main__.py",
+          "required_fix": "Acquire the shared research lock and invalidate the prior head before any evidence refresh or transfer for that article. Keep the lock in force on retrieval failure and test the active Engine path during a concurrent update.",
           "severity": "high"
         },
         {
-          "detail": "Identity validation requires the identity value to occur in the quotation, but does not require the quotation to connect that value to the exact model, year and trim. Those context fields come from declared source scope. A quotation about another vehicle containing the same value can satisfy the mechanical check.",
-          "file": "cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Bind each identity value to evidence establishing its field and exact vehicle context, including any necessary linked table or heading context. Add active-article tests where the value appears only for another model or trim.",
+          "detail": "Research transitions and delivery are not atomic. Multiple pending research starts can select the same next version, and one can mark the head ready while another remains in progress. Separately, a research update can occur after a pre-delivery check but before a draft PR or localized artifact is created; the subsequent check fails only after the stale artifact exists.",
+          "file": "cloud_pilot/multilingual/editorial_state.py; cloud_pilot/live/engine.py; cloud_pilot/multilingual/localize.py",
+          "required_fix": "Use an atomic, versioned lock/head transition with fencing for writing and delivery. Prevent or invalidate stale draft artifacts and PRs, and add interleaving tests covering concurrent research, writing, localization and delivery.",
           "severity": "high"
         },
         {
-          "detail": "The regulatory gate still relies on a limited expression and a model-supplied NOT_REGULATORY assertion. A statement such as 'A permit is compulsory to import this truck' is not necessarily detected by the expression and can avoid the primary-source and currentness requirements.",
-          "file": "cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Classify legal and regulatory obligations independently of the supplied kind and assessment flags; fail closed when classification is uncertain. Test obligation wording without named standards and require competent-primary-source and currentness evidence where applicable.",
-          "severity": "high"
-        },
-        {
-          "detail": "The active research packet is always version 1. A changed research packet for the same article in a new evidence epoch therefore attempts to overwrite the immutable research-current:<article>:1 checkpoint and fails before recording UPDATE_REQUIRED. The existing writer can still observe the old head. The synthetic lock test uses version 2, which the active handoff validator does not produce.",
-          "file": "cloud_pilot/multilingual/editorial_state.py; cloud_pilot/live/engine.py; cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Implement a durable, monotonically versioned research head and a shared research-lock/update protocol for active handoffs. Atomically invalidate or prevent stale writing and delivery when research changes. Test a real second evidence epoch and concurrent research changes during writing and localization.",
-          "severity": "high"
-        },
-        {
-          "detail": "When both the target checkpoint and transfer receipt already exist, restore checks internal hashes and selected origin metadata but does not reconstruct the text from raw bytes or compare the target digest with an independently approved expected target digest. A self-consistent incorrect cached representation could therefore be reused.",
-          "file": "cloud_pilot/multilingual/source_cache.py",
-          "required_fix": "Bind the approved transfer to the expected target checkpoint and digest, and verify that the cached representation is derived from the approved raw archive even on the existing-checkpoint path. Test a self-consistent cache whose text differs from its raw evidence.",
+          "detail": "If registration writes research-current but stops before writing RESEARCH_READY, a retry sees the matching current row and returns without restoring the ready transition. The subsequent writing-lock check remains blocked by RESEARCH_LOCK, so the documented resume path cannot recover automatically.",
+          "file": "cloud_pilot/multilingual/editorial_state.py",
+          "required_fix": "Make head registration and readiness atomic or explicitly recover the incomplete transition. Add a crash-and-resume test between those checkpoints without resending a completed model request.",
           "severity": "medium"
         }
       ],
@@ -58,48 +46,47 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_07a73bc4b76cd52e016ae95f8a8e4087d183cb12f08e6ef8bf"
+    "response_id": "resp_09333204076948df016ae964c416c487d29bd9b51ebae1099d"
   },
   "topic_dedup": {
     "content": {
-      "additional_paths": [
-        "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md"
-      ],
+      "additional_paths": [],
       "articles": [
         {
           "article_id": "PILOT-Q05-2026",
           "decision": "DISTINCT",
           "nearest_paths": [
             "daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md"
+            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md",
+            "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md"
           ],
-          "reason": "The reserve is an unpublished China-market 2024 PHEV fact sheet; the proposed topic concerns evaluating identified 2026 BEV stock, including availability and stock checks. The RHD guide mentions NEVO Q05 only as a Thailand RHD prospect, not as a China-market BEV buying reference. These are different buyer decisions, but the 2026 BEV identity and its relationship to the older PHEV are not established by the cited coverage; do not treat the shared Q05 name as proof that the topics are either identical or unrelated."
+          "reason": "The reserve covers a China-market 2024 Q05 PHEV, including a 125-series trim; the proposed task is to assess an identified 2026 China-market Q05 BEV as an urban sourcing candidate, including current listing and stock checks. The RHD guide mentions NEVO Q05 only as a Thai RHD prospect, while the Southeast Asia SUV article provides a country-by-country shortlist method rather than a Q05-specific buying decision. The different year and powertrain alone do not establish distinctness: keep the 2024 PHEV separate and verify the 2026 BEV's exact identity and availability independently before making factual claims."
         },
         {
           "article_id": "PILOT-REEFER-GUIDE",
-          "decision": "NEEDS_MORE_EVIDENCE",
+          "decision": "DISTINCT",
           "nearest_paths": [
-            "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md",
             "daily/2026-09-02/articles/vehicle/AB-260902-V10_Foton_Aumark_Refrigerated_Truck.md",
             "daily/2026-09-04/articles/vehicle/AB-260904-V10_Dongfeng_TianjinKR.md",
+            "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md",
             "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md"
           ],
-          "reason": "The proposed focus on pre-shipment acceptance evidence for a completed reefer is distinct in principle from the Aumark and Tianjin KR pages’ model/configuration and upfit-selection guidance, and from the fleet guide’s general tender-acceptance discussion. However, the indexed PDI and handover guide is the closest likely overlap, and its full text was not supplied. Read it before deciding whether this topic adds a distinct acceptance decision or duplicates existing PDI guidance."
+          "reason": "The Aumark and Tianjin KR articles discuss reefer configuration, chassis/body/unit separation, and buyer checks; the fleet guide covers general commercial-truck procurement and acceptance criteria; the PDI guide covers generic vehicle condition and carrier handover. The proposed guide has a distinct buyer decision if it stays focused on defining and documenting performance acceptance for a completed refrigerated truck—such as agreed cargo and ambient conditions, sensor/data records, door-opening pattern, power modes, and acceptance responsibility—rather than repeating chassis or refrigeration-unit selection, generic PDI, or general fleet tender advice."
         }
       ],
-      "decision": "NEEDS_MORE_EVIDENCE",
+      "decision": "PASS",
       "human_reviewed": false,
       "publish_approved": false
     },
     "model": "gpt-6-luna",
-    "response_id": "resp_00be06ae07043e97016ae95fe5516487d196d6378502508edc"
+    "response_id": "resp_06d8a3bd0459d97b016ae96527524887d296706cde4c2c8725"
   },
   "fixes_awaiting_independent_review": [
-    "Consistent source scope booleans and MATCHED T1 for VERIFIED",
-    "Mandatory independent per-fact semantic classification: all core specs require T1/T2 and exact vehicle applicability; all legal obligations excluded from this two-topic pilot",
-    "Independent field-to-model/year/trim context proof for every identity fact",
-    "Research starts with a shared durable RESEARCH_LOCK and immediate stale-writer invalidation; next head version supplied to active Research handoff; English/localization/delivery recheck shared head",
-    "Every source transfer, including cached ones, reconstructs all hash-verified raw blobs and matches a protected expected target checkpoint/digest computed separately from 12 locally hash-verified archives",
-    "PDI full text and other nearby inspection/contract/fleet guide full texts added to semantic dedup"
+    "Canonical Research bundle in daily Research directory, pushed and verified at actual Research-completion commit before Writing",
+    "Writing baseline uses the actual Research-completion commit; English files in articles and QA; locale bundle in deliveries",
+    "Actual execution acquires Research fences before any source transfer/refresh; source failures retain lock",
+    "Head, readiness, supersession and publication fence use one CAS-atomic state; pending starts have unique monotonic fences; old attempts cannot become ready",
+    "Publication defers Research mutations until confirmed; English candidate and full locale batch use immutable Git transactions; cached candidate verification is read-only",
+    "Atomic Research registration has no partial current-but-not-ready state, with tested post-commit crash recovery"
   ]
 }

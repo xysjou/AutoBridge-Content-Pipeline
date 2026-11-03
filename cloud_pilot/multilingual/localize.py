@@ -187,42 +187,50 @@ def markdown(article,research,topic,public_only=False):
     return '\n'.join(lines)
 
 def run_multilingual(plan,journal,models,github,english_deliveries):
-    """Only report a complete bundle after all 24 full drafts pass their own review."""
-    localizer=Localizer(models,journal);files={};receipts=[]
+    """Review every locale, then publish one fenced, atomic draft bundle."""
+    from .research_contract import applies
+    from .editorial_state import EditorialState
+    from .publication import DATE,json_bytes,blob_hash,verify_research,publish_delivery_bundle
+    localizer=Localizer(models,journal);files={};staged={};researches=[]
+    finals={t['article_id']:journal.get_checkpoint('final:'+t['article_id']) for t in plan['articles']}
+    identity=digest({aid:p['article']['content_hash'] for aid,p in finals.items()})
     for topic in plan['articles']:
-        final=journal.get_checkpoint('final:'+topic['article_id'])
+        final=finals[topic['article_id']]
         require(final and final['review']['verdict']['decision']=='REVIEW_PASS','ENGLISH_REVIEW_REQUIRED')
-        base,research=final['article'],final['research']
+        base,research=final['article'],final['research'];researches.append(research)
         require(final['review']['content_hash']==base['content_hash'],'ENGLISH_REVIEW_CHANGED')
         require(all(0 <= (now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds() <= 86400
                     for e in research['evidence']),'LOCALIZATION_SOURCE_EVIDENCE_STALE')
+        if applies(topic):verify_research(github,research)
         for locale in LOCALES:
-            from .research_contract import applies
-            if applies(topic):
-                from .editorial_state import EditorialState
-                EditorialState(journal).check(research)
+            if applies(topic):EditorialState(journal).check(research)
             result=dict(article=base,review=final['review']) if locale=='en' else localizer.run(base,research,locale)
             if applies(topic):EditorialState(journal).check(research)
-            article=result['article']; filename=topic['article_id']+'.'+locale+'.md'
-            path='cloud_pilot/live_artifacts/multilingual/'+base['content_hash']+'/'+locale+'/'+filename
-            # The reviewed reader artifact is the deliverable. Keep S05 metadata
-            # as a separate explicitly unreviewed editorial sidecar.
+            article=result['article'];filename=topic['article_id']+'.'+locale+'.md'
+            path=f'deliveries/{DATE}/api-pilot/{identity}/i18n/{locale}/{filename}'
             text=markdown(article,research,topic,public_only=True)
             require(result['review']['rendered_hash']==digest(text),'DELIVERED_RENDER_REVIEW_DRIFT')
-            sidecar=path.removesuffix('.md')+'.editorial.json'
-            github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,sidecar,
-                __import__('json').dumps(dict(status='UNREVIEWED_EDITORIAL_METADATA',article_id=article['article_id'],
-                    locale=locale,public=article['public'],image_complete=False,production_url_approved=False),ensure_ascii=False).encode())
             require(len(re.findall(r'^# ',text,re.M))==1,'EXPORT_SINGLE_H1')
-            sha=github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,path,text.encode())
-            if applies(topic):EditorialState(journal).check(research)
-            files[filename]=dict(path=path,blob_sha=sha,locale=locale,content_hash=article['content_hash'],review_hash=result['review']['review_hash'])
-    for topic in plan['articles']:
-        if applies(topic):EditorialState(journal).check(journal.get_checkpoint('final:'+topic['article_id'])['research'])
+            staged[path]=text.encode()
+            staged[path.removesuffix('.md')+'.editorial.json']=json_bytes(dict(status='UNREVIEWED_EDITORIAL_METADATA',
+                article_id=article['article_id'],locale=locale,public=article['public'],image_complete=False,production_url_approved=False))
+            staged[f'deliveries/{DATE}/api-pilot/{identity}/qa/{locale}/{article["article_id"]}.review.json']=json_bytes(result['review'])
+            files[filename]=dict(path=path,blob_sha=blob_hash(text.encode()),locale=locale,
+                content_hash=article['content_hash'],review_hash=result['review']['review_hash'])
     require(len(files)==24 and {v['locale'] for v in files.values()}==set(LOCALES),'INCOMPLETE_24_FILE_BUNDLE')
+    active=any(applies(t) for t in plan['articles']);coordinator=EditorialState(journal) if active else None
+    fence=coordinator.begin_publication(researches,'multilingual:'+identity) if active else None
+    # No reader artifact is created before all texts pass. The one Git commit
+    # becomes reachable while Research mutations are fenced out globally.
+    if hasattr(github,'publish_delivery_bundle'):published=github.publish_delivery_bundle(staged,identity)
+    else:published=publish_delivery_bundle(github,staged,identity)
+    require(all(published[v['path']]==v['blob_sha'] for v in files.values()),'BUNDLE_BLOB_IDENTITY')
+    if active:
+        for research in researches:coordinator.check(research)
     report=dict(status='TWENTY_FOUR_TEXT_DRAFTS_REVIEWED',files=files,english_draft_prs=english_deliveries,
         production_complete=False,image_complete=False,live_seo_acceptance=False,
         human_reviewed=False,publish_approved=False,website_published=False,
         remaining=['human editorial review','image rights','same-language link verification','live-site technical acceptance'])
     journal.checkpoint('multilingual-bundle:'+digest(plan),report)
+    if active:coordinator.end_publication(fence)
     return report

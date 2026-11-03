@@ -111,6 +111,15 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     binding=dict(code_sha=sha,intake_hash=intake_hash(plan),rules=plan['rules'],
                  current_context_hash=digest(startup['read_files']),history_hash=plan['history_hash'])
     scoped=EpochJournal(journal,plan.get('evidence_revision',1),binding)
+    if not audit_only:
+        # Source inspection for candidate audit is read-only pre-Research work.
+        # Actual execution acquires Research fences before any refresh/transfer.
+        from .editorial_state import EditorialState
+        editorial=EditorialState(scoped)
+        for topic in plan['articles']:
+            if scoped.get_checkpoint('research:'+topic['article_id']) is None:
+                start=editorial.begin(topic['article_id'],scoped.prefix+':'+topic['article_id'])
+                editorial.assert_research(start)
     from .source_cache import restore
     source_transfers=restore(permit,plan,journal,scoped,github,sha)
     if audit_only:
