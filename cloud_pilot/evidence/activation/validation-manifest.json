@@ -1,6 +1,6 @@
 {
   "suites": {
-    "multilingual": 77,
+    "multilingual": 78,
     "stage2": 47,
     "original": 41
   },
@@ -17,7 +17,7 @@
     "cloud_pilot/fixtures/build_fixtures.py": "7503b74bba3a07da7147cb2a59df503550a25165514d167097e0b626bd83226f",
     "cloud_pilot/live/__init__.py": "6a367ad2af036987f14e8dfe4c7e2661d244f5495e3eb6aff0bc7afc848f3883",
     "cloud_pilot/live/__main__.py": "5ca15e83bd04548768c8d4904b299075060dceda8e95db6da54aecfe90d49ec9",
-    "cloud_pilot/live/engine.py": "216d2a871eb319afd30c8873a232cef73506c78e12736ba077fbeac9417d9001",
+    "cloud_pilot/live/engine.py": "f133e40c1c6499f961dadab777eb7caff64f58eec469b2d0979e811a0fa06fbf",
     "cloud_pilot/live/http.py": "da48d13c4c5cc56a941a091e00238359138ca7ad6c6f325851ce38837d5a529b",
     "cloud_pilot/live/ledger.py": "1eef47f20a727f8e228d30deb29c16ff001b564e1a9dd39ccf5dec005b0276be",
     "cloud_pilot/live/policy.py": "80ad3f257c41dc974ebb6a23e985f8495a34d084a627716d402939428324208a",
@@ -43,7 +43,7 @@
     "cloud_pilot/multilingual/tests/test_activation.py": "a520e03e22da648b469d4f5ab86d9eb4fb0a699930c6b37b79c1541c6ac34353",
     "cloud_pilot/multilingual/tests/test_editorial_controls.py": "3672fb951a940bf3f7676ef74deb8d995995fc23bc234f694c78855d2a4ab856",
     "cloud_pilot/multilingual/tests/test_multilingual.py": "facd63b6dd9db23d201e5a5b48a61b79add24f86556136765ce3e3662337d5ce",
-    "cloud_pilot/multilingual/tests/test_publication.py": "893984cee82e52e89af103791c373991d0f3a50e86cf2a01f10935ae6ffd7e9e",
+    "cloud_pilot/multilingual/tests/test_publication.py": "b1b97411e30741aaa56fea7f9bff22030bc2b0889de542a1672a6113ca9a8343",
     "cloud_pilot/multilingual/tests/test_recovery.py": "cd5084d4c80fe2f2c0dd8c009d45d629143e6786894d6ecc8a01de9fe93553dd",
     "cloud_pilot/multilingual/tests/test_security.py": "c9cae21928800248b14b834b716ac8192abd3dc2ffef73d09bff6ea7dfa3d7b0",
     "cloud_pilot/multilingual/tests/test_source_cache.py": "db4a9231dbb2014a912fa9987c17bec60b7bbeb519511d50764f3df1d6ad7212",
@@ -57,9 +57,9 @@
     "cloud_pilot/writing.py": "12f82fa1e4dabf2f7198e930456e33351be5d39896cf2ce5e6ddf8c1c5c45a4d"
   },
   "test_logs": {
-    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "1c681016d3a9ecc4b016a0a60ec3801387c1ef820a4802709033904ac955d274",
-    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "b741711b6eaf5c928d79c1b381ed59f1ffb5ee80145f8fad6d5c28bb8c783b99",
-    "cloud_pilot/evidence/activation/current-m1-tests.txt": "22dbd6496623edfc3bbb7846f758add7c74d4a0319ce370764567d992084ffa1"
+    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "0aa70017db3bb7d2e5de651407487453a1d5e5d96d1443503a04ce8c83aad8c9",
+    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "bf6771cf29ecceb601bbafc280815a29afdbcfb3c3552bf76a5707900b0dfa7a",
+    "cloud_pilot/evidence/activation/current-m1-tests.txt": "a35d83383ea55d7fd88028b01799a4161dd5ae0a9293a1fd46d95211a6fa9a06"
   },
   "method": "All three offline unittest suites passed against the exact source bytes in this manifest; commit SHA is assigned after creating the validated tree."
 }

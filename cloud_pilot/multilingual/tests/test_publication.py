@@ -272,6 +272,24 @@ class Tests(unittest.TestCase):
                 self.assertEqual(1,manifest['MAIN_CONDITIONAL_COUNT'] if mode=='conditional' else manifest['MAIN_FAIL_COUNT'])
                 self.assertEqual(2,manifest['articles'][0]['FACT_SHEET_VERSION'])
 
+    def test_cached_delivery_source_failure_also_updates_current_manifest(self):
+        from cloud_pilot.multilingual.source_cache import SourceTransferFailure
+        topic,ev,response=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+        response['content']['handoff']['research_baseline_sha']='a'*40
+        p=plan();p['articles'][0]=topic;j=ResponseJournal(ArtifactStore());s=EditorialState(j);gh=GitMemory()
+        start=s.begin(topic['article_id'],'initial');proposal=seal_research(gh,check_research(response,topic,ev),start)
+        complete=complete_research(gh,proposal,dict(research_hash=proposal['research_hash'],verdict=dict(decision='ACCEPT')))
+        s.lock(complete);j.checkpoint('research:'+topic['article_id'],complete);j.checkpoint('delivery:'+topic['article_id'],dict(draft=True))
+        def prepare(t):raise SourceTransferFailure(dict(article_id=t['article_id'],partial=[],source=dict(source_id='S0',url=t['sources'][0]['url'])),GateError('SOURCE_RECHECK_FAILED'))
+        startup=dict(approved_main_sha='a'*40,execution_sha='a'*40,startup_gate={})
+        class Models:
+            def call(self,*args):raise AssertionError('STALE_DELIVERY_MUST_NOT_GENERATE')
+        with self.assertRaisesRegex(GateError,'SOURCE_RECHECK_FAILED'):Engine(p,history(),j,Models(),gh,None,startup=startup,prepare_evidence=prepare).run()
+        keys=[k for k in j.read()[2]['checkpoints'] if k.startswith('batch-manifest-current:')]
+        ref=j.get_checkpoint(max(keys,key=lambda k:int(k.rsplit(':',1)[1])))
+        obj=gh.call('GET','/contents/'+ref['path']+'?ref='+ref['commit_sha']);manifest=json.loads(base64.b64decode(obj['content']))
+        self.assertEqual(1,manifest['MAIN_FAIL_COUNT']);self.assertEqual(0,manifest['WRITING_READY_COUNT'])
+
     def test_live_localizer_fences_both_paid_stages_against_research(self):
         from cloud_pilot.multilingual.localize import Localizer,validate
         from cloud_pilot.multilingual.tests.test_multilingual import translation,locale_review

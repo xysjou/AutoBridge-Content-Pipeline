@@ -20,6 +20,19 @@ class Engine:
             from ..multilingual.publication import sync_batch_manifest
             return sync_batch_manifest(self.github,self.journal,self.plan,self.startup)
 
+    def source_failed(self,topic,error,editorial,started=None):
+        from ..multilingual.publication import persist_source_failure,record_transfer_failure
+        from ..multilingual.source_cache import SourceTransferFailure
+        aid=topic['article_id']
+        if editorial is not None:
+            if isinstance(error,SourceTransferFailure):record_transfer_failure(self.github,self.journal,self.plan,self.startup,error)
+            else:
+                start=started or editorial.begin(aid,getattr(self.journal,'prefix','')+':source-failure:'+aid)
+                failed=persist_source_failure(self.github,topic,self.partial_evidence,start,error,self.startup,self.failed_source)
+                self.journal.checkpoint('failed-source-research:'+aid,failed)
+            self.sync_manifest()
+        self.journal.halt(aid,'source',1,'SOURCE_FAILED_NO_WRITING')
+
     def cached(self,key):
         return self.journal.get_checkpoint(key)
 
@@ -67,7 +80,9 @@ class Engine:
                 self.sync_manifest()
             existing=self.cached('delivery:'+aid)
             if existing is not None:
-                self.evidence(topic)
+                try:self.evidence(topic)
+                except Exception as error:
+                    self.source_failed(topic,error,editorial,started);raise
                 final=self.cached('final:'+aid)
                 require(final and final['research']['topic']==topic,'CACHED_DELIVERY_TOPIC_DRIFT')
                 from ..multilingual.research_contract import applies
@@ -85,16 +100,7 @@ class Engine:
                 continue
             try:evidence=self.evidence(topic)
             except Exception as error:
-                if active:
-                    from ..multilingual.publication import persist_source_failure,record_transfer_failure
-                    from ..multilingual.source_cache import SourceTransferFailure
-                    if isinstance(error,SourceTransferFailure):record_transfer_failure(self.github,self.journal,self.plan,self.startup,error)
-                    else:
-                        failure_start=started or editorial.begin(aid,getattr(self.journal,'prefix','')+':source-failure:'+aid)
-                        failed=persist_source_failure(self.github,topic,self.partial_evidence,failure_start,error,self.startup,self.failed_source)
-                        self.journal.checkpoint('failed-source-research:'+aid,failed)
-                    self.sync_manifest()
-                self.journal.halt(aid,'source',1,'SOURCE_FAILED_NO_WRITING');raise
+                self.source_failed(topic,error,editorial,started);raise
             research=self.cached('research:'+aid)
             proposal=self.cached('research-proposal:'+aid) if active else None
             if research is None and proposal is None:

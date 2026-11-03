@@ -35,6 +35,7 @@ test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.te
 test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
 test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
 test_73_file_bundle_verifies_before_ref_and_recovers_interrupted_read (test_publication.Tests.test_73_file_bundle_verifies_before_ref_and_recovers_interrupted_read) ... ok
+test_cached_delivery_source_failure_also_updates_current_manifest (test_publication.Tests.test_cached_delivery_source_failure_also_updates_current_manifest) ... ok
 test_commit_file_pagination_73_and_173_files (test_publication.Tests.test_commit_file_pagination_73_and_173_files) ... ok
 test_complete_accepted_source_log_and_handoff_fields (test_publication.Tests.test_complete_accepted_source_log_and_handoff_fields) ... ok
 test_engine_locks_before_source_collection_and_keeps_lock_on_failure (test_publication.Tests.test_engine_locks_before_source_collection_and_keeps_lock_on_failure) ... ok
@@ -77,6 +78,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 77 tests in 17.531s
+Ran 78 tests in 19.341s
 
 OK
