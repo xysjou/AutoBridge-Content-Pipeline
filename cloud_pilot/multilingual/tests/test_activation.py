@@ -123,15 +123,19 @@ class LiveSiteTests(unittest.TestCase):
         from datetime import datetime,timezone
         from cloud_pilot.multilingual.live_site import FOLDER,BASE
         p=root/FOLDER;p.mkdir(parents=True);stamp=datetime.now(timezone.utc).isoformat()
-        url=BASE+'/en/guides/live-only-acceptance.html';text='Existing refrigerated truck acceptance buyer decision. '*12
+        url=BASE+'/en/guides/live-only-acceptance.html';text='Existing acceptance '+('Existing refrigerated truck acceptance buyer decision. '*12).strip()
         xml=('<urlset><url><loc>'+url+'</loc></url></urlset>').encode();(p/'sitemap.xml').write_bytes(xml)
-        docs=[dict(url=url,final_url=url,http_status=200,retrieved_at=stamp,title='Existing acceptance',text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),raw_sha256='synthetic')]
+        docs=[dict(url=url,final_url=url,http_status=200,retrieved_at=stamp,title='Existing acceptance',text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),raw_sha256=hashlib.sha256(('<main><h1>Existing acceptance</h1>'+text.removeprefix('Existing acceptance ')+'</main>').encode()).hexdigest())]
         b=json.dumps(docs).encode();(p/'pages-00.json').write_bytes(b)
         from cloud_pilot.multilingual.live_site import INDEX_FILES,Index
         indices={}
         for suffix,name in INDEX_FILES.items():
             raw=('<main>0 English vehicles 1 English guides <a href="/en/guides/live-only-acceptance.html">Existing</a></main>').encode();(p/name).write_bytes(raw);parsed=Index();parsed.feed(raw.decode());indices[suffix]=dict(raw_sha256=hashlib.sha256(raw).hexdigest(),links=sorted(parsed.links))
         m=dict(schema='autobridge-live-English-corpus/1',target_site=BASE+'/',captured_at=stamp,sitemap_sha256=hashlib.sha256(xml).hexdigest(),urls=[url],index_pages=indices,chunks=[dict(path='pages-00.json',sha256=hashlib.sha256(b).hexdigest())])
+        import gzip,base64
+        raw=('<main><h1>Existing acceptance</h1>'+text.removeprefix('Existing acceptance ')+'</main>').encode()
+        archive=gzip.compress(json.dumps([dict(url=url,final_url=url,http_status=200,retrieved_at=stamp,raw_base64=base64.b64encode(raw).decode())]).encode(),mtime=0)
+        (p/'raw-responses.json.gz').write_bytes(archive);m['raw_responses']=dict(path='raw-responses.json.gz',sha256=hashlib.sha256(archive).hexdigest(),records=1)
         (p/'manifest.json').write_text(json.dumps(m));return p,m
     def test_live_site_staleness_coverage_and_mutation_hold(self):
         from cloud_pilot.multilingual.live_site import load
@@ -152,6 +156,17 @@ class LiveSiteTests(unittest.TestCase):
             (p/'index-guides.html').write_bytes(b);m['index_pages']['/en/guides/']['raw_sha256']=hashlib.sha256(b).hexdigest()
             (p/'manifest.json').write_text(json.dumps(m))
             with self.assertRaisesRegex(GateError,'INDEX_LINK_LIST_CHANGED'):load(root)
+
+    def test_self_consistent_extracted_text_must_match_archived_response(self):
+        import hashlib
+        from cloud_pilot.multilingual.live_site import load
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td);p,m=self.fixture(root);docs=json.loads((p/'pages-00.json').read_text())
+            docs[0]['text']='Self-consistent forged extracted text. '*30
+            docs[0]['text_sha256']=hashlib.sha256(docs[0]['text'].encode()).hexdigest()
+            raw=json.dumps(docs).encode();(p/'pages-00.json').write_bytes(raw);m['chunks'][0]['sha256']=hashlib.sha256(raw).hexdigest()
+            (p/'manifest.json').write_text(json.dumps(m))
+            with self.assertRaisesRegex(GateError,'EXTRACTION_MISMATCH'):load(root)
 
     def test_live_only_duplicate_reaches_independent_gate(self):
         from cloud_pilot.multilingual.live_site import load
@@ -194,3 +209,16 @@ class LocaleSimilarityTests(unittest.TestCase):
     def test_manual_threshold_cannot_be_model_approved(self):
         from cloud_pilot.multilingual.similarity import check
         with self.assertRaisesRegex(GateError,'MANUAL_REVIEW_REQUIRED'):check(dict(self_qa_fail=False,manual_review_required=True))
+
+class RuntimeRevisionTests(unittest.TestCase):
+    def test_valid_but_different_main_revision_is_rejected_before_key_transport(self):
+        import os
+        from datetime import datetime,timezone,timedelta
+        from cloud_pilot.contract import PROGRAM,BASELINE,digest,rules
+        from cloud_pilot.live.policy import RATES
+        from cloud_pilot.stage2_tests.test_live import prices,plan
+        from cloud_pilot.multilingual.authorization import preauthorize
+        p=plan();price=prices();sha='a'*40
+        permit=dict(authorized=True,program_id=PROGRAM,cap_nano_usd=3000000000,plan_hash=digest(p),prices_hash=digest(price),code_sha=sha,approved_main_sha='b'*40,baseline_sha=BASELINE,rules=rules(),expires_at=(datetime.now(timezone.utc)+timedelta(hours=1)).isoformat(),allowed_models=list(RATES),account_models_verified=True,protected_runtime_verified=True)
+        with patch.dict(os.environ,{'AUTOBRIDGE_LIVE_APPROVAL_SHA256':digest(permit)}),patch('cloud_pilot.multilingual.authorization.subprocess.check_output',return_value=sha+'\n'),patch('cloud_pilot.live.http.JsonAPI',side_effect=AssertionError('credential transport must not be created')):
+            with self.assertRaisesRegex(GateError,'CODE_MAIN_SHA_MISMATCH'):preauthorize(p,price,permit)

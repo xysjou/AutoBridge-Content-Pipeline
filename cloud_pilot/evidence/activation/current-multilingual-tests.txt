@@ -4,9 +4,11 @@ test_unapproved_or_changed_spend_amendment_rejected (test_activation.BudgetAmend
 test_duplicate_omitted_from_sitemap_and_supplied_links_is_caught_in_raw_capture (test_activation.LiveSiteTests.test_duplicate_omitted_from_sitemap_and_supplied_links_is_caught_in_raw_capture) ... ok
 test_live_only_duplicate_reaches_independent_gate (test_activation.LiveSiteTests.test_live_only_duplicate_reaches_independent_gate) ... ok
 test_live_site_staleness_coverage_and_mutation_hold (test_activation.LiveSiteTests.test_live_site_staleness_coverage_and_mutation_hold) ... ok
+test_self_consistent_extracted_text_must_match_archived_response (test_activation.LiveSiteTests.test_self_consistent_extracted_text_must_match_archived_response) ... ok
 test_unverified_historical_and_unavailable_live_links_are_rejected (test_activation.LiveSiteTests.test_unverified_historical_and_unavailable_live_links_are_rejected) ... ok
 test_full_localized_body_blocks_copy_from_same_language_and_current_batch (test_activation.LocaleSimilarityTests.test_full_localized_body_blocks_copy_from_same_language_and_current_batch) ... ok
 test_manual_threshold_cannot_be_model_approved (test_activation.LocaleSimilarityTests.test_manual_threshold_cannot_be_model_approved) ... ok
+test_valid_but_different_main_revision_is_rejected_before_key_transport (test_activation.RuntimeRevisionTests.test_valid_but_different_main_revision_is_rejected_before_key_transport) ... ok
 test_actual_related_review_includes_reserve_and_foton_full_text (test_activation.Tests.test_actual_related_review_includes_reserve_and_foton_full_text) ... ok
 test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tests.test_code_block_still_collects_topic_review_but_cannot_pass) ... ok
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
@@ -89,6 +91,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 89 tests in 85.264s
+Ran 91 tests in 97.164s
 
 OK

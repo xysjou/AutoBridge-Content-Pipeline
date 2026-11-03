@@ -60,6 +60,7 @@ def preauthorize(plan,prices,permit):
     from ..live.http import JsonAPI,GitHubTransport
     sha=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     check_permit(permit,plan,prices,sha,os.environ.get('AUTOBRIDGE_LIVE_APPROVAL_SHA256',''))
+    require(sha==permit.get('approved_main_sha'),'CODE_MAIN_SHA_MISMATCH')
     github=GitHubTransport(JsonAPI('api.github.com',os.environ['AUTOBRIDGE_GITHUB_TOKEN']))
     workflows(permit,github);secret_scope(permit,github)
     require('OPENAI_API_KEY' not in os.environ,'PREAUTHORIZE_MUST_NOT_RECEIVE_PROJECT_KEY')

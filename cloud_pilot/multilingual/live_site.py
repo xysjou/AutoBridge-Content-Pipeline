@@ -1,6 +1,8 @@
 """Read a current, complete, hash-bound English site corpus captured by the operator."""
 import hashlib
 import json
+import base64
+import gzip
 import re
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
@@ -21,6 +23,20 @@ class Index(HTMLParser):
         if 'next' in a.get('rel','').split() or re.search(r'[?&](page|offset|start)=|/page/\d+',href):self.pagination=True
     def handle_data(self,text):
         if text.strip():self.parts.append(text.strip())
+
+class PageText(HTMLParser):
+    def __init__(self):super().__init__();self.depth=0;self.skip=0;self.parts=[];self.h1=False;self.title=[]
+    def handle_starttag(self,tag,attrs):
+        if tag=='main':self.depth+=1
+        if tag in ('script','style','noscript','nav','footer','header'):self.skip+=1
+        if tag=='h1':self.h1=True
+    def handle_endtag(self,tag):
+        if tag=='main':self.depth=max(0,self.depth-1)
+        if tag in ('script','style','noscript','nav','footer','header'):self.skip=max(0,self.skip-1)
+        if tag=='h1':self.h1=False
+    def handle_data(self,text):
+        if self.depth and not self.skip and text.strip():self.parts.append(text.strip())
+        if self.h1 and text.strip():self.title.append(text.strip())
 
 def load(root=ROOT):
     folder=root/FOLDER
@@ -59,11 +75,24 @@ def load(root=ROOT):
         require(hashlib.sha256(body).hexdigest()==chunk['sha256'],'LIVE_SITE_CONTENT_CHANGED')
         docs.extend(json.loads(body))
     require(len(docs)==len(urls) and sorted(d['url'] for d in docs)==urls,'LIVE_SITE_DOCUMENT_COVERAGE')
+    archive=m.get('raw_responses',{})
+    require(archive.get('path')=='raw-responses.json.gz','LIVE_SITE_RAW_ARCHIVE_REQUIRED')
+    raw_bundle=(folder/archive['path']).read_bytes()
+    require(hashlib.sha256(raw_bundle).hexdigest()==archive.get('sha256'),'LIVE_SITE_RAW_ARCHIVE_CHANGED')
+    records=json.loads(gzip.decompress(raw_bundle));raws={r['url']:r for r in records}
+    require(len(raws)==len(records)==archive.get('records')==len(urls) and set(raws)==set(urls),'LIVE_SITE_RAW_COVERAGE')
     for d in docs:
         at=datetime.fromisoformat(d['retrieved_at'])
         require(d['http_status']==200 and d['final_url']==d['url'] and d['title'] and len(d['text'])>300
                 and at.tzinfo and 0<=(now()-at).total_seconds()<=86400
                 and hashlib.sha256(d['text'].encode()).hexdigest()==d['text_sha256'],'LIVE_SITE_DOCUMENT_INVALID')
+        record=raws[d['url']];fetched=datetime.fromisoformat(record['retrieved_at'])
+        require(record['http_status']==d['http_status']==200 and record['final_url']==d['final_url']
+                and fetched.tzinfo and 0<=(now()-fetched).total_seconds()<=86400,'LIVE_SITE_RAW_RETRIEVAL_INVALID')
+        raw=base64.b64decode(record['raw_base64'],validate=True)
+        require(len(raw)<=1500000 and hashlib.sha256(raw).hexdigest()==d['raw_sha256'],'LIVE_SITE_RAW_RESPONSE_CHANGED')
+        parsed=PageText();parsed.feed(raw.decode('utf-8'))
+        require(' '.join(parsed.parts)==d['text'] and ' '.join(parsed.title)==d['title'],'LIVE_SITE_EXTRACTION_MISMATCH')
     result=dict(manifest=m,documents=docs)
     result['evidence_hash']=digest(result)
     return result

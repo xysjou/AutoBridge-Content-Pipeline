@@ -523,5 +523,10 @@
     "vehicles": 81,
     "guides": 91
   },
-  "scope": "All current sitemap-listed English vehicle and guide originals; locale equivalents represented by their English originals. Not an all-language technical SEO audit."
+  "scope": "All current sitemap-listed English vehicle and guide originals; locale equivalents represented by their English originals. Not an all-language technical SEO audit.",
+  "raw_responses": {
+    "path": "raw-responses.json.gz",
+    "sha256": "71c02126819a6a0c6eb6e68df0943a2a09f1e27c6accedb5ae814585c55e4d9a",
+    "records": 172
+  }
 }

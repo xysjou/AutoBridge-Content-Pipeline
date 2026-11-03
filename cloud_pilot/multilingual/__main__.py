@@ -73,6 +73,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     sha=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     approval=os.environ.get('AUTOBRIDGE_LIVE_APPROVAL_SHA256','')
     check_permit(permit,plan,prices,sha,approval)
+    require(sha==permit.get('approved_main_sha'),'CODE_MAIN_SHA_MISMATCH')
     from .authorization import lease,workflows,secret_scope
     lease(permit)
     require(permit.get('audit_only',False) is audit_only,'PERMIT_AUDIT_SCOPE')
