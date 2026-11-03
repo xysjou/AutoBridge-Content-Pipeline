@@ -2,10 +2,10 @@
   "schema": "autobridge-real-activation-result/1.0",
   "status": "HOLD_CODE_FIXES_PENDING_INDEPENDENT_REVIEW",
   "date": "2026-11-03",
-  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41585625361",
-  "reviewed_code_sha": "7fc794a55b09c1b09ffd21a6d0c412eb5c46b0b2",
-  "paid_generation_requests": 17,
-  "settled_cost_nano_usd": 2426616650,
+  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41587253586",
+  "reviewed_code_sha": "a829406bfe55fa1df649badbf8e75f35ce26b134",
+  "paid_generation_requests": 19,
+  "settled_cost_nano_usd": 2709857575,
   "budget_cap_nano_usd": 3000000000,
   "uncertain_operations": 0,
   "english_articles_generated": 0,
@@ -18,21 +18,15 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "The only batch manifest is created with every article PENDING and all verdict counts zero. Research completion never updates it. Writing subsequently reads that stale manifest without checking its article statuses or version pointers, so the canonical batch record does not reflect the research baseline used for writing.",
-          "file": "cloud_pilot/multilingual/publication.py; cloud_pilot/multilingual/startup.py",
-          "required_fix": "Maintain a synchronized batch manifest with actual per-article research status, readiness, versions, completion commits and batch counts. Require writing startup to verify those entries against the accepted research records.",
+          "detail": "Before source transfers, execute begins research for every article lacking a checkpoint in the current scoped journal. A new code or evidence epoch has a new checkpoint namespace, so begin() can lock and mark an existing accepted head UPDATE_REQUIRED for both articles before either transfer is attempted. A failure affecting one article can therefore invalidate the unrelated article despite record_transfer_failure() itself being article-specific.",
+          "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/editorial_state.py",
+          "required_fix": "Acquire each article's research fence immediately before its own transfer or refresh, rather than pre-locking the whole batch. Add an end-to-end regression with two previously accepted heads, a new epoch, and one failed transfer; verify that the other head and readiness remain unchanged.",
           "severity": "high"
         },
         {
-          "detail": "If one protected source transfer fails, the exception handler starts or restarts research and persists a failure for both topics. This can invalidate an unrelated accepted research head. It also records only the generic label PROTECTED_SOURCE_TRANSFER rather than the failing source ID and URL.",
-          "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/source_cache.py",
-          "required_fix": "Propagate the affected article and exact source identity from the transfer failure. Persist failure and partial evidence only for that article; preserve unaffected research heads and readiness.",
-          "severity": "high"
-        },
-        {
-          "detail": "The multilingual delivery commit contains 73 files, but verify_files requests /commits/{sha} without handling GitHub's paginated file list and then requires all files in the first response. The branch is updated before this verification, so a successful bundle write can be reported as a failure and leave its publication fence active.",
-          "file": "cloud_pilot/multilingual/publication.py",
-          "required_fix": "Retrieve and verify every changed-file page, including exact paths, blob hashes and parent, and test the real transport with a 73-file commit and a recovery after an interrupted verification.",
+          "detail": "The synchronized batch manifest is written only on the path to writing. Source-transfer, source-retrieval, invalid-research and non-ready-research failures persist article records and then stop without updating the manifest. The latest batch manifest can consequently retain PENDING statuses and zero failure counts after a recorded failure, or retain a stale pending row after another article has progressed.",
+          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/publication.py",
+          "required_fix": "Synchronize and durably identify the current batch manifest after every research state transition, including failure and withheld outcomes. Add end-to-end tests that inspect the manifest and counts after each failure path and after a partial batch.",
           "severity": "high"
         }
       ],
@@ -40,22 +34,21 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_0a283754cf334589016ae9755a45ec87d1afb481b51fb8acce"
+    "response_id": "resp_01fb8e53966d0752016ae979631d6487d1820d2d6f8a6ebbc9"
   },
   "topic_dedup": {
     "content": {
-      "additional_paths": [
-        "daily/2026-09-02/research/reserves/SOURCE_LOG_AB-260902-VR2.md"
-      ],
+      "additional_paths": [],
       "articles": [
         {
           "article_id": "PILOT-Q05-2026",
-          "decision": "NEEDS_MORE_EVIDENCE",
+          "decision": "DISTINCT",
           "nearest_paths": [
             "daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md"
+            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md",
+            "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md"
           ],
-          "reason": "The reserve covers a China-market 2024 Q05 PHEV, while the proposed intent concerns an identified 2026 Q05 BEV and current stock/listing checks. That is a potentially distinct buyer task, but the supplied evidence does not establish the 2026 BEV’s exact identity, model-year boundary, or current availability. The RHD guide’s NEVO Q05 mention is only a media-reported prospect and does not establish equivalence or specifications."
+          "reason": "The closest Q05 record is a 2024 China-market PHEV reserve, whereas this proposal targets an identified 2026 China-market BEV and its urban-buyer decision. The RHD guide mentions NEVO Q05 only as a reported Thailand prospect within broad RHD sourcing; the Southeast Asia SUV page is a shortlist method, not a Q05 model recommendation. These do not duplicate the proposed buyer intent. This is a topic-dedup finding, not final factual acceptance."
         },
         {
           "article_id": "PILOT-REEFER-GUIDE",
@@ -63,24 +56,27 @@
           "nearest_paths": [
             "daily/2026-09-02/articles/vehicle/AB-260902-V10_Foton_Aumark_Refrigerated_Truck.md",
             "daily/2026-09-04/articles/vehicle/AB-260904-V10_Dongfeng_TianjinKR.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md",
-            "daily/2026-09-03/articles/guides/AB-260903-G06_PSI.md"
+            "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md",
+            "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md"
           ],
-          "reason": "The nearest reefer pages focus on model configuration, chassis/upfit separation, and sourcing checks; the fleet guide covers specification and tender acceptance generally, and the PSI guide covers general vehicle inspection. The proposed task is narrower: agreeing and recording a pre-shipment acceptance demonstration for the completed refrigerated truck, including identity, operating conditions, sensor records, door-opening pattern, power modes, and acceptance responsibilities. Keep it focused on that evidence-and-acceptance decision rather than repeating reefer selection or chassis specifications."
+          "reason": "The Foton Aumark and Dongfeng Tianjin KR pages focus on vehicle configuration, chassis/body/refrigeration-unit choices, and buyer verification; the fleet guide covers broader fleet procurement, and the PDI guide covers general condition and handover evidence. The proposal is distinct only within its stated decision scope: agreeing a reefer-specific acceptance demonstration and its evidence for the completed truck, including the identified operating conditions, records, and acceptance responsibilities. It should not become another equipment-selection or generic PDI guide."
         }
       ],
-      "decision": "NEEDS_MORE_EVIDENCE",
+      "decision": "PASS",
       "human_reviewed": false,
       "publish_approved": false
     },
     "model": "gpt-6-luna",
-    "response_id": "resp_037fe04979684318016ae975c7433887d19d0d3347b3fab0f3"
+    "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61"
   },
   "fixes_awaiting_independent_review": [
-    "Immutable synchronized Research batch manifests with actual per-article statuses, counts, versions and completion commits; pre-writing rejects stale entries",
-    "Source transfer failure identifies exact affected article/source/URL and retains partial evidence without touching unrelated Research heads",
-    "Commit diff pagination and complete body checks precede bundle ref update, with 73/173-file and interrupted-verification recovery tests",
-    "An already-held pending Research fence resumes read-only while another article finishes delivery; a new Research attempt remains blocked",
-    "Independent dedup receives actual retrieved reference evidence plus the specifically requested historical Q05 Source Log; canonical editorial rules remain fully supplied"
-  ]
+    "Each article begins Research immediately before its own source transfer/refresh; no batch-wide pre-lock",
+    "Canonical batch manifest and append-only current-manifest receipt synchronized after start, proposal, malformed failure, source failure, withheld verdict and acceptance; actual Engine tests preserve unrelated prior heads and inspect failure counts",
+    "A genuine independent topic receipt can be reused only when reconstructing the full old intake proves that research code-baseline provenance is the sole plan change and every other dedup-request byte, source text and corpus matches; original request/response identities are verified"
+  ],
+  "genuine_topic_reuse_offline_verified": {
+    "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61",
+    "generation_requests": 0,
+    "scope": "Identical buyer decisions, source evidence, corpus and rules; technical baseline SHA only"
+  }
 }

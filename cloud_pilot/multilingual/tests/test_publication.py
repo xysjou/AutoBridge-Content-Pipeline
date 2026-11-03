@@ -3,6 +3,7 @@ import base64
 import copy
 import unittest
 import json
+from contextlib import nullcontext
 from unittest.mock import patch
 from urllib.parse import unquote
 from cloud_pilot.contract import digest,GateError
@@ -237,6 +238,39 @@ class Tests(unittest.TestCase):
         gh.fail=False;published=publish_delivery_bundle(gh,files,'bundle');self.assertEqual(72,len(published))
         sha=gh.refs[BRANCH];self.assertNotEqual('a'*40,sha)
         self.assertEqual(published,publish_delivery_bundle(gh,files,'bundle'));self.assertEqual(sha,gh.refs[BRANCH])
+
+    def test_new_epoch_failure_manifest_and_unaffected_head_in_actual_engine(self):
+        from cloud_pilot.multilingual.startup import EpochJournal
+        from cloud_pilot.multilingual.source_cache import SourceTransferFailure
+        for mode in ('source','malformed','conditional'):
+            with self.subTest(mode=mode):
+                topic,ev,response=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+                response['content']['handoff'].update(research_baseline_sha='a'*40,fact_sheet_version=2,source_log_version=2)
+                if mode=='conditional':response['content'].update(status='RESEARCH_CONDITIONAL',writing_ai_ready=False)
+                if mode=='malformed':response=dict(content={})
+                p=plan();p['articles'][0]=topic;j=ResponseJournal(ArtifactStore());s=EditorialState(j)
+                first=research('old-one');first['article_id']=topic['article_id'];s.lock(first)
+                second=research('old-two');second['article_id']=p['articles'][1]['article_id'];s.lock(second)
+                unchanged=copy.deepcopy(s.snapshot()['articles'][second['article_id']])
+                epoch=EpochJournal(j,2,{'new_code':'f'*40});gh=GitMemory()
+                startup=dict(approved_main_sha='a'*40,execution_sha='a'*40,startup_gate={})
+                class Models:
+                    def call(self,*args):
+                        if mode=='source':raise AssertionError('SOURCE_MUST_STOP_MODELS')
+                        return response
+                def prepare(t):
+                    if mode=='source':raise SourceTransferFailure(dict(article_id=t['article_id'],partial=ev[:1],
+                        source=dict(source_id='S1',url=t['sources'][1]['url'])),GateError('RAW_SOURCE_FAILURE'))
+                evidence_patch=patch.object(Engine,'evidence',return_value=ev) if mode!='source' else nullcontext()
+                with evidence_patch,patch('cloud_pilot.multilingual.startup.verify',return_value=startup),self.assertRaises(GateError):
+                    Engine(p,history(),epoch,Models(),gh,None,startup=startup,prepare_evidence=prepare).run()
+                self.assertEqual(unchanged,s.snapshot()['articles'][second['article_id']]);s.check(second)
+                keys=[k for k in j.read()[2]['checkpoints'] if k.startswith(epoch.prefix+'batch-manifest-current:')]
+                ref=j.get_checkpoint(max(keys,key=lambda k:int(k.rsplit(':',1)[1])))
+                obj=gh.call('GET','/contents/'+ref['path']+'?ref='+ref['commit_sha']);manifest=json.loads(base64.b64decode(obj['content']))
+                self.assertEqual(0,manifest['WRITING_READY_COUNT'])
+                self.assertEqual(1,manifest['MAIN_CONDITIONAL_COUNT'] if mode=='conditional' else manifest['MAIN_FAIL_COUNT'])
+                self.assertEqual(2,manifest['articles'][0]['FACT_SHEET_VERSION'])
 
     def test_live_localizer_fences_both_paid_stages_against_research(self):
         from cloud_pilot.multilingual.localize import Localizer,validate

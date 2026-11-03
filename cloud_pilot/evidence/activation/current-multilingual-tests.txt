@@ -1,6 +1,7 @@
 test_actual_related_review_includes_reserve_and_foton_full_text (test_activation.Tests.test_actual_related_review_includes_reserve_and_foton_full_text) ... ok
 test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tests.test_code_block_still_collects_topic_review_but_cannot_pass) ... ok
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
+test_genuine_topic_receipt_reuses_only_a_technical_baseline_change (test_activation.Tests.test_genuine_topic_receipt_reuses_only_a_technical_baseline_change) ... ok
 test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
 test_active_quantitative_fact_without_value_or_unit_stops_research (test_editorial_controls.Tests.test_active_quantitative_fact_without_value_or_unit_stops_research) ... ok
 test_active_standard_classification_requires_current_fields_for_both_article_types (test_editorial_controls.Tests.test_active_standard_classification_requires_current_fields_for_both_article_types) ... ok
@@ -41,6 +42,7 @@ test_expired_evidence_abort_releases_fence_only_after_durable_invalidation (test
 test_failed_nonready_research_keeps_canonical_sources_and_blocked_facts (test_publication.Tests.test_failed_nonready_research_keeps_canonical_sources_and_blocked_facts) ... ok
 test_live_english_fences_writing_and_review_starts (test_publication.Tests.test_live_english_fences_writing_and_review_starts) ... ok
 test_live_localizer_fences_both_paid_stages_against_research (test_publication.Tests.test_live_localizer_fences_both_paid_stages_against_research) ... ok
+test_new_epoch_failure_manifest_and_unaffected_head_in_actual_engine (test_publication.Tests.test_new_epoch_failure_manifest_and_unaffected_head_in_actual_engine) ... ok
 test_new_research_attempt_supersedes_pending_fence_monotonically (test_publication.Tests.test_new_research_attempt_supersedes_pending_fence_monotonically) ... ok
 test_pending_other_article_can_resume_without_mutation_during_delivery (test_publication.Tests.test_pending_other_article_can_resume_without_mutation_during_delivery) ... ok
 test_pushed_research_has_canonical_files_and_actual_commit_baseline (test_publication.Tests.test_pushed_research_has_canonical_files_and_actual_commit_baseline) ... ok
@@ -75,6 +77,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 75 tests in 24.809s
+Ran 77 tests in 17.531s
 
 OK

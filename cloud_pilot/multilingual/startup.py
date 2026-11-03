@@ -81,12 +81,18 @@ def lesson_ids():
     return sorted(set(re.findall(r'^#{2,3} LESSON:\s*([A-Z_]+)',text,re.M)+
                       re.findall(r'^\d+\.\s+\*\*([A-Z_]+)\*\*',text,re.M)))
 
-def writing_startup(main_sha,plan,research,github,current_manifest):
+def writing_startup(main_sha,plan,research,github,current_manifest,journal=None):
     import json,base64
     from .publication import verify_research,json_bytes,DATE
     record=verify(main_sha,plan) # Includes actual git pull and full rule reads.
     completion=verify_research(github,research)
     manifest=current_manifest
+    if journal is not None:
+        prefix=getattr(journal,'prefix','')+'batch-manifest-current:'
+        keys=[k for k in journal.read()[2]['checkpoints'] if k.startswith(prefix)]
+        require(keys,'WRITING_CURRENT_MANIFEST_REQUIRED')
+        latest=max(keys,key=lambda k:int(k.rsplit(':',1)[1]))
+        require(getattr(journal,'journal',journal).get_checkpoint(latest)==manifest,'WRITING_CURRENT_MANIFEST_DRIFT')
     obj=github.call('GET','/contents/'+manifest['path']+'?ref='+manifest['commit_sha'])
     actual=json.loads(base64.b64decode(obj['content']))
     from .activation_review import intake

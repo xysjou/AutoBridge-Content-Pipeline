@@ -118,22 +118,10 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     if not audit_only:
         from .publication import push_startup_manifest
         startup['canonical_daily_manifest']=push_startup_manifest(github,startup,plan,os.environ['GITHUB_RUN_ID'])
-        # Source inspection for candidate audit is read-only pre-Research work.
-        # Actual execution acquires Research fences before any refresh/transfer.
-        from .editorial_state import EditorialState
-        editorial=EditorialState(scoped)
-        for topic in plan['articles']:
-            if scoped.get_checkpoint('research:'+topic['article_id']) is None:
-                start=editorial.begin(topic['article_id'],scoped.prefix+':'+topic['article_id'])
-                editorial.assert_research(start)
-    from .source_cache import restore,SourceTransferFailure
-    try:source_transfers=restore(permit,plan,journal,scoped,github,sha)
-    except Exception as error:
-        if not audit_only and isinstance(error,SourceTransferFailure) and error.article_id in {t['article_id'] for t in plan['articles']}:
-            from .publication import record_transfer_failure
-            record_transfer_failure(github,scoped,plan,startup,error)
-        raise
+    from .source_cache import restore
     if audit_only:
+        # Audit inspection is read-only pre-Research; it activates no heads.
+        source_transfers=restore(permit,plan,journal,scoped,github,sha)
         from .activation_review import run
         probe=Engine(shape,history,scoped,raw_models,github,retrieve)
         evidence={topic['article_id']:probe.evidence(topic) for topic in plan['articles']}
@@ -157,8 +145,14 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
                 require(len(result['content'].get('faq',[]))>=3,'ENGLISH_FAQ_INCOMPLETE')
             return result
     models=EditorialModels()
+    def prepare_evidence(topic):
+        # Engine acquires this article's fence immediately before this call.
+        # Never start the other article merely because its scoped cache is new.
+        scoped_permit=dict(permit,source_evidence_transfers=[d for d in permit.get('source_evidence_transfers',[])
+            if d['article_id']==topic['article_id']])
+        return restore(scoped_permit,plan,journal.journal,journal,github,sha)
     prior=[(ROOT/d['path']).read_text() for d in history['documents'] if d['path'].startswith(('batches/','daily/'))]
-    deliveries=Engine(plan,history,journal,models,github,retrieve,prior,guard=permission,startup=startup).run()
+    deliveries=Engine(plan,history,journal,models,github,retrieve,prior,guard=permission,startup=startup,prepare_evidence=prepare_evidence).run()
     if plan['execution_phase']=='english':
         return dict(status='ENGLISH_PHASE_COMPLETE_NOT_FULL_PRODUCTION',draft_prs=deliveries,
                     expected_final_drafts=24,website_published=False)

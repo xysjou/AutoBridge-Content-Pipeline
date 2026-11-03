@@ -54,4 +54,38 @@ class Tests(unittest.TestCase):
         with patch('cloud_pilot.multilingual.activation_review.dedup_request',return_value=packet),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
             self.assertEqual('TOPIC_REVIEW_HOLD',run(p,'code',Journal(),M(),workflow_evidence={'test':True},scope_attestation={'test':True})['status'])
 
+    def test_genuine_topic_receipt_reuses_only_a_technical_baseline_change(self):
+        from cloud_pilot.contract import digest
+        from cloud_pilot.multilingual.activation_review import intake_hash,verified_topic
+        from cloud_pilot.multilingual.accounting import ResponseJournal,DurableResponses
+        from cloud_pilot.multilingual.tests.test_multilingual import ArtifactStore
+        from cloud_pilot.stage2_tests.test_live import plan,prices,usage
+        p=plan()
+        for t in p['articles']:t['research_baseline_sha']='a'*40
+        packet=dict(stage='independent_topic_dedup',intake_hash=intake_hash(p),corpus_hash='fixed-corpus',topics=['same buyer tasks'],retrieved_reference_evidence={'reference':'same actual text'})
+        content=dict(decision='PASS',additional_paths=[],articles=[dict(article_id=t['article_id'],decision='DISTINCT') for t in p['articles']],human_reviewed=False,publish_approved=False)
+        class API:
+            host='api.openai.com';calls=0
+            def request(self,method,path,payload):
+                self.calls+=1
+                return 200,dict(id='resp-synthetic-dedup',model=payload['model'],status='completed',usage=usage(),
+                    output=[dict(type='message',content=[dict(type='output_text',text=json.dumps(content))])])
+        api=API();j=ResponseJournal(ArtifactStore());result=DurableResponses(api,j,prices(),lambda:None).call('activation-dedup:'+digest(packet),'research',packet)
+        j.checkpoint('activation-review:original',dict(code_sha='a'*40,intake_hash=intake_hash(p),dedup_request_hash=digest(packet),
+            corpus_hash=packet['corpus_hash'],topic_review=result))
+        current=copy.deepcopy(p)
+        for t in current['articles']:t['research_baseline_sha']='b'*40
+        new_packet=dict(packet,intake_hash=intake_hash(current))
+        reused,proof=verified_topic(j,new_packet,current)
+        self.assertEqual(result,reused);self.assertEqual(1,api.calls)
+        self.assertEqual(digest(packet),proof['packet_hash']);self.assertEqual(digest(new_packet),proof['current_packet_hash'])
+        for change in ('buyer','source','corpus','url'):
+            changed_plan=copy.deepcopy(current);changed_packet=copy.deepcopy(new_packet)
+            if change=='buyer':changed_plan['articles'][0]['buyer_task']='Different buyer decision'
+            elif change=='source':changed_packet['retrieved_reference_evidence']['reference']='changed source text'
+            elif change=='corpus':changed_packet['corpus_hash']='changed history'
+            else:changed_plan['articles'][0]['proposed_url']='/pilot-only/different/'
+            changed_packet['intake_hash']=intake_hash(changed_plan)
+            self.assertEqual((None,None),verified_topic(j,changed_packet,changed_plan))
+
 if __name__=='__main__':unittest.main()

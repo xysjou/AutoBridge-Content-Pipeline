@@ -1,5 +1,6 @@
 """Independent API audit of the candidate and topic overlap before paid writing."""
 import re
+import copy
 from pathlib import Path
 from ..contract import ROOT,digest,require,file_hash
 
@@ -139,24 +140,43 @@ def code_request(plan,sha,root=ROOT,workflow_evidence=None,scope_attestation=Non
             'conservative cap potentially stopping early) are not proof of implementation success or reason '
             'to fabricate a pass. Give concrete code-grounded findings. No approval flags may be set true.')
 
-def verified_topic(journal,packet):
+def same_topic_packet(plan,packet,report):
+    """A technical code-baseline change is not a new buyer intent.
+
+    Reconstruct the entire old intake by changing only that provenance field;
+    both the old intake hash and every other byte of the actual dedup request
+    must match. Source/corpus/topic/rule/URL changes can never use this route.
+    """
+    if report.get('dedup_request_hash')==digest(packet):return packet
+    if plan is None or not re.fullmatch('[0-9a-f]{40}',report.get('code_sha','')):return None
+    old=copy.deepcopy(plan)
+    for topic in old['articles']:topic['research_baseline_sha']=report['code_sha']
+    if intake_hash(old)!=report.get('intake_hash'):return None
+    candidate=dict(packet,intake_hash=report['intake_hash'])
+    return candidate if digest(candidate)==report.get('dedup_request_hash') else None
+
+def verified_topic(journal,packet,plan=None):
     """Reuse a genuine independent topic verdict only for the identical intake/corpus packet."""
     view=journal.read()[2]
     for key in reversed(list(view['checkpoints'])):
         if not key.startswith('activation-review:'):continue
         report=journal.get_checkpoint(key)
-        if report.get('dedup_request_hash')!=digest(packet) or report.get('corpus_hash')!=packet['corpus_hash']:continue
+        original_packet=same_topic_packet(plan,packet,report)
+        if original_packet is None or report.get('corpus_hash')!=packet['corpus_hash']:continue
         result=report.get('topic_review',{});d=result.get('content',{})
         if d.get('decision')!='PASS' or d.get('additional_paths')!=[] or len(d.get('articles',[]))!=2 or not all(a.get('decision')=='DISTINCT' for a in d['articles']):continue
-        op='activation-dedup:'+digest(packet)
+        op='activation-dedup:'+digest(original_packet)
         matches=[o for o in view['operations'].values() if o['operation']==op and o['status']=='completed'
                  and o['response']['id']==result.get('response_id')]
         if len(matches)!=1:continue
+        from ..live.responses import build_request
+        require(matches[0]['request_hash']==digest(build_request('research',original_packet)),'REUSED_TOPIC_REQUEST_CHANGED')
         import json
         archived=journal.store.load_artifact(matches[0]['response']['text_artifact'])
         require(json.loads(archived['text'])==d,'REUSED_TOPIC_RECEIPT_CHANGED')
         return result,dict(checkpoint=key,operation=op,request_hash=matches[0]['request_hash'],
-                           packet_hash=digest(packet),response_id=result['response_id'])
+                           packet_hash=digest(original_packet),current_packet_hash=digest(packet),
+                           response_id=result['response_id'])
     return None,None
 
 def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestation=None,source_evidence=None):
@@ -171,7 +191,7 @@ def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestati
             'AUDIT_CONTRADICTORY_PASS')
     journal.checkpoint('activation-code-result:'+sha,code_result)
     # Both independent tasks may complete even if code is blocked. Writing stays forbidden.
-    dedup,reused=verified_topic(journal,packet) if hasattr(journal,'read') else (None,None)
+    dedup,reused=verified_topic(journal,packet,plan) if hasattr(journal,'read') else (None,None)
     if dedup is None:dedup=models.call('activation-dedup:'+digest(packet),'research',packet)
     d=dedup['content'];ids={a['article_id'] for a in plan['articles']}
     require(d.get('human_reviewed') is False and d.get('publish_approved') is False,'AUDIT_APPROVAL_FORBIDDEN')
@@ -207,14 +227,16 @@ def verify_receipt(plan,sha,journal,root=ROOT,workflow_evidence=None,source_evid
         ('code_review','activation-code:'+sha,'review',code_request(plan,sha,root,receipt['executed_workflows'],receipt['environment_scope_attestation'])),
         ('topic_review','activation-dedup:'+digest(packet),'research',packet)):
         result=receipt[key]
+        if key=='topic_review' and receipt.get('reused_topic_receipt'):
+            reused=receipt['reused_topic_receipt']
+            original=journal.get_checkpoint(reused['checkpoint'])
+            data=same_topic_packet(plan,packet,original)
+            require(data is not None and original['topic_review']==result,'REUSED_TOPIC_ORIGIN_DRIFT')
+            operation='activation-dedup:'+digest(data)
+            require(reused['packet_hash']==digest(data) and reused['current_packet_hash']==digest(packet)
+                    and reused['operation']==operation and reused['response_id']==result['response_id'],'REUSED_TOPIC_PACKET_DRIFT')
         completed=[o for o in operations if o['operation']==operation and o['status']=='completed']
         expected=digest(build_request(stage,data))
-        if key=='topic_review' and receipt.get('reused_topic_receipt'):
-            reused=receipt['reused_topic_receipt'];expected=reused['request_hash']
-            require(reused['packet_hash']==digest(packet) and reused['operation']==operation
-                    and reused['response_id']==result['response_id'],'REUSED_TOPIC_PACKET_DRIFT')
-            original=journal.get_checkpoint(reused['checkpoint'])
-            require(original['dedup_request_hash']==digest(packet) and original['topic_review']==result,'REUSED_TOPIC_ORIGIN_DRIFT')
         require(len(completed)==1 and completed[0]['request_hash']==expected
                 and completed[0]['response']['id']==result['response_id'],'INDEPENDENT_RECEIPT_RESPONSE_BINDING')
         parsed=journal.store.load_artifact(completed[0]['response']['text_artifact'])

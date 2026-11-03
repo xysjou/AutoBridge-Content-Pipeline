@@ -70,8 +70,8 @@ def research_files(raw):
 
 def seal_research(gh,research,start):
     raw=copy.deepcopy(research);raw['research_start']=start
-    if 'research_phase' not in raw:
-        raw['research_phase']='PROPOSAL'
+    if 'research_phase' not in raw:raw['research_phase']='PROPOSAL'
+    if raw['research_phase']!='ACCEPTED':
         raw['fact_sheet']['writing_ai_ready']=False
         raw['fact_sheet']['handoff'].update(research_locked=True,locks=['RESEARCH_LOCK'])
     raw['research_hash']=digest({k:v for k,v in raw.items() if k!='research_hash'})
@@ -201,20 +201,29 @@ def publish_delivery_bundle(gh,files,identity):
 
 def sync_batch_manifest(gh,journal,plan,startup):
     from .editorial_state import EditorialState
-    state=EditorialState(journal);rows=[]
+    from ..contract import GateError
+    state=EditorialState(journal);snapshot=state.snapshot();rows=[]
     for topic in plan['articles']:
         aid=topic['article_id'];r=journal.get_checkpoint('research:'+aid)
+        a=snapshot['articles'].get(aid,{})
         if r:
-            verify_research(gh,r);state.check(r)
+            try:state.check(r)
+            except GateError:r=None
+        if r:
+            verify_research(gh,r)
             row=dict(ARTICLE_ID=aid,RESEARCH_STATUS=r['fact_sheet']['status'],WRITING_AI_READY=True,
                 FACT_SHEET_VERSION=r['version'],SOURCE_LOG_VERSION=r['version'],RESEARCH_HASH=r['research_hash'],
                 RESEARCH_COMPLETE_COMMIT_SHA=r['completion']['commit_sha'],RESEARCH_FILES=r['completion']['files'])
         else:
-            failed=journal.get_checkpoint('failed-source-research:'+aid) or journal.get_checkpoint('failed-research:'+aid) or journal.get_checkpoint('withheld-research:'+aid)
+            candidates=[journal.get_checkpoint(k+aid) for k in ('failed-source-research:','failed-research:','withheld-research:')]
+            current_version=a.get('research_lock',{}).get('version') if a.get('research_lock') else None
+            candidates=[f for f in candidates if f and (current_version is None or f['version']==current_version)]
+            failed=max(candidates,key=lambda f:f['version'],default=None)
             row=dict(ARTICLE_ID=aid,RESEARCH_STATUS=failed['fact_sheet']['status'] if failed else 'PENDING',
                 WRITING_AI_READY=False,FACT_SHEET_VERSION=failed['version'] if failed else None,
                 SOURCE_LOG_VERSION=failed['version'] if failed else None,RESEARCH_HASH=failed['research_hash'] if failed else None,
                 RESEARCH_COMPLETE_COMMIT_SHA=failed['completion']['commit_sha'] if failed else None)
+            row['PREVIOUS_ACCEPTED_HEAD']=a.get('head')
         rows.append(row)
     counts={name:sum(r['RESEARCH_STATUS']==status for r in rows) for name,status in
         [('MAIN_PASS_COUNT','RESEARCH_PASS'),('MAIN_CONDITIONAL_COUNT','RESEARCH_CONDITIONAL'),('MAIN_FAIL_COUNT','RESEARCH_FAIL')]}
@@ -227,6 +236,8 @@ def sync_batch_manifest(gh,journal,plan,startup):
     sha=isolated(gh,'research/api-manifest-'+identity[:20],startup['approved_main_sha'],{path:json_bytes(record)},'Record actual Research batch manifest '+identity)
     receipt=dict(commit_sha=sha,path=path,content_hash=identity)
     journal.checkpoint('batch-manifest:'+identity,receipt)
+    sequence=len(journal.read()[0]['events'])
+    journal.checkpoint('batch-manifest-current:'+str(sequence),receipt)
     return receipt
 
 def recover_publication(gh,journal,authorization):
