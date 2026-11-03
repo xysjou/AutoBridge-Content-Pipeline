@@ -41,6 +41,6 @@ test_usage_unknown_does_not_release (test_pilot.PilotTests.test_usage_unknown_do
 test_writer_cannot_add_claim (test_pilot.PilotTests.test_writer_cannot_add_claim) ... ok
 
 ----------------------------------------------------------------------
-Ran 41 tests in 4.276s
+Ran 41 tests in 2.659s
 
 OK

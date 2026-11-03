@@ -68,6 +68,7 @@ test_source_failure_at_every_position_keeps_available_evidence_and_handoff (test
 test_transfer_failure_invalidates_only_affected_article (test_publication.Tests.test_transfer_failure_invalidates_only_affected_article) ... ok
 test_valid_nonready_conditional_verdict_is_preserved (test_publication.Tests.test_valid_nonready_conditional_verdict_is_preserved) ... ok
 test_writing_startup_reads_actual_manifest_and_research_completion (test_publication.Tests.test_writing_startup_reads_actual_manifest_and_research_completion) ... ok
+test_timeout_and_interrupted_checkpoint_keep_fence_until_protected_recovery (test_publication.UnresolvedModelFenceTests.test_timeout_and_interrupted_checkpoint_keep_fence_until_protected_recovery) ... ok
 test_approval_cannot_be_reused_by_another_run_or_rerun_attempt (test_recovery.Tests.test_approval_cannot_be_reused_by_another_run_or_rerun_attempt) ... ok
 test_checkpoints_are_isolated_by_code_and_intake_and_revision (test_recovery.Tests.test_checkpoints_are_isolated_by_code_and_intake_and_revision) ... ok
 test_complete_vehicle_identity_is_required_before_writing (test_recovery.Tests.test_complete_vehicle_identity_is_required_before_writing) ... ok
@@ -94,6 +95,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 94 tests in 25.416s
+Ran 95 tests in 23.425s
 
 OK

@@ -118,11 +118,13 @@ class EditorialState:
         # The same atomic guard fences stage starts and holds Research updates
         # until the returned response has been checked and checkpointed.
         token=self.begin_publication([research],'model:'+owner)
-        try:
-            self.check(research)
-            yield
-            self.check(research)
-        finally:self.end_publication(token)
+        self.check(research)
+        # On transport, validation or checkpoint failure, preserve the fence.
+        # Only a fully settled/checkpointed body reaches the normal release;
+        # protected recovery must reconcile in-flight operations first.
+        yield
+        self.check(research)
+        self.end_publication(token)
 
     def abort_publication(self,token,proof):
         require(proof.get('fence')==token['fence'] and proof.get('status')=='VERIFIED_INVALIDATED',

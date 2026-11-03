@@ -399,3 +399,44 @@ class IndependentArticleHoldTests(unittest.TestCase):
         with patch.object(engine,'evidence',side_effect=AssertionError('cached hold must not resend')):
             with self.assertRaisesRegex(GateError,'BATCH_RESEARCH_WITHHELD'):engine.run()
         self.assertEqual(2,len(calls))
+
+class UnresolvedModelFenceTests(unittest.TestCase):
+    def test_timeout_and_interrupted_checkpoint_keep_fence_until_protected_recovery(self):
+        from cloud_pilot.stage2_tests.test_live import ModelAPI,prices,usage
+        from cloud_pilot.live.responses import Responses
+        from cloud_pilot.live.http import TransportFailure
+        from cloud_pilot.live.policy import usage_cost
+        from cloud_pilot.multilingual.delivery import VerifiedGitHub
+        for mode in ('timeout','checkpoint'):
+            with self.subTest(mode=mode):
+                class Store(ArtifactStore):
+                    def cas(self,expected,data):
+                        if data['events'][-1]['payload'].get('key')=='interrupted-stage-checkpoint':raise GateError('INTERRUPTED_CHECKPOINT')
+                        return super().cas(expected,data)
+                j=ResponseJournal(Store());s=EditorialState(j);r=research();s.lock(r)
+                api=ModelAPI();api.fail=mode=='timeout';client=Responses(api,j,prices(),lambda:None)
+                with self.assertRaises((TransportFailure,GateError)):
+                    with s.model_stage(r,'actual-call-'+mode):
+                        client.call('actual-model-'+mode,'writing',{})
+                        j.checkpoint('interrupted-stage-checkpoint',{'result':'not yet durable'})
+                token=s.snapshot()['publication'];self.assertIsNotNone(token)
+                with self.assertRaisesRegex(GateError,'DEFERRED'):s.begin('OTHER-ARTICLE','concurrent')
+                class GitAPI:
+                    host='api.github.com';stored=None
+                    def request(self,method,path,payload=None):
+                        if '/qa/api-pilot/publication-aborts/' not in path:return 404,{}
+                        if method=='GET':return (200,self.stored) if self.stored else (404,{})
+                        assert s.snapshot()['publication']==token,'Fence released before invalidation'
+                        self.stored=dict(sha=blob_hash(base64.b64decode(payload['content'])),content=payload['content'])
+                        return 201,dict(content={'sha':self.stored['sha']})
+                gh=VerifiedGitHub(GitAPI());authorization=dict(action='ABORT_AND_INVALIDATE',fence=token['fence'],reason='Synthetic operator-confirmed recovery')
+                if mode=='timeout':
+                    with self.assertRaisesRegex(GateError,'INFLIGHT_MODEL_ABORT_FORBIDDEN'):recover_publication(gh,j,authorization)
+                    self.assertEqual(token,s.snapshot()['publication'])
+                    # An unconfirmed provider outcome remains blocked. This
+                    # test must not invent a reconciliation or late receipt.
+                    continue
+                proof=recover_publication(gh,j,authorization)
+                self.assertEqual('VERIFIED_INVALIDATED',proof['status']);self.assertIsNone(s.snapshot()['publication'])
+                with self.assertRaisesRegex(GateError,'UPDATE_REQUIRED'):s.check(r)
+                self.assertEqual(2,s.begin(r['article_id'],'fresh-after-recovery')['version'])
