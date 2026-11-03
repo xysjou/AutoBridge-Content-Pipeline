@@ -1,20 +1,42 @@
 """Offline regression of the actual blocking findings; no provider call is made here."""
 import copy
+import base64
 import os
 import unittest
 from unittest.mock import patch
-from cloud_pilot.contract import GateError,digest
+from cloud_pilot.contract import GateError,digest,ROOT
 from cloud_pilot.live.ledger import Journal,replay
 from cloud_pilot.live.responses import Responses
 from cloud_pilot.stage2_tests.test_live import ModelAPI,MemoryStore,prices,plan,evidence,research_result
 from cloud_pilot.multilingual.tests.test_multilingual import ArtifactStore,packets,translation
 from cloud_pilot.multilingual.accounting import ResponseJournal,CountedResponses,AnchoredStore
 from cloud_pilot.multilingual.startup import EpochJournal
-from cloud_pilot.multilingual.authorization import lease
+from cloud_pilot.multilingual.authorization import lease,workflows
 from cloud_pilot.multilingual.localize import validate,review_request,markdown
 from cloud_pilot.multilingual.research_contract import IDENTITY,validate as research_validate
 
 class Tests(unittest.TestCase):
+    def test_reusable_caller_forwards_only_protected_runtime_names(self):
+        text=(ROOT/'.github/workflows/cloud-pilot-manual.yml').read_text()
+        trusted=(ROOT/'.github/workflows/cloud-pilot-trusted.yml').read_text()
+        sha=text.split('cloud-pilot-trusted.yml@')[1].splitlines()[0]
+        p=dict(authorized_run_id='100',caller_workflow_sha='a'*40,trusted_workflow_sha=sha,
+               ledger_anchor=dict(events_count=14,last_event_hash='hash',settled_nano_usd=259886425,
+                                  reconciled_receipts=['receipts'],operator_verified=True))
+        class API:
+            def request(s,method,path):
+                value=current[0] if 'manual.yml' in path else trusted
+                return 200,dict(encoding='base64',content=base64.b64encode(value.encode()).decode())
+        class GH:api=API();prefix='/repos/example/repo'
+        current=[text]
+        with patch.dict(os.environ,{'GITHUB_RUN_ID':'100','GITHUB_RUN_ATTEMPT':'1','GITHUB_WORKFLOW_SHA':'a'*40}):
+            for value in (text,text+'      EXTRA: ${{ secrets.UNRELATED }}\n',
+                          text+'    steps: []\n',text.replace('    secrets:\n','    secrets: inherit\n')):
+                current[0]=value;p.update(caller_workflow_hash=digest(value),trusted_workflow_hash=digest(trusted))
+                if value==text:workflows(p,GH())
+                else:
+                    with self.assertRaisesRegex(GateError,'FORWARDING_SCOPE'):workflows(p,GH())
+
     def test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends(self):
         class API(ModelAPI):
             counts=0

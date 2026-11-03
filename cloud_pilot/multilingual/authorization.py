@@ -28,8 +28,16 @@ def workflows(permit,github):
         content=base64.b64decode(obj['content']).decode()
         require(digest(content)==permit.get(key),'APPROVED_WORKFLOW_SOURCE_DRIFT')
         if file=='cloud-pilot-manual.yml':
+            # GitHub requires explicit forwarding even for secrets owned by the
+            # called job's protected environment. Permit only these three names;
+            # the caller has no steps and does not execute code with their values.
+            keys=('OPENAI_API_KEY','AUTOBRIDGE_CONTROL_COMMIT','AUTOBRIDGE_LIVE_APPROVAL_SHA256')
+            refs=re.findall(r'secrets\.([A-Za-z0-9_]+)',content)
             require('cloud-pilot-trusted.yml@'+permit['trusted_workflow_sha'] in content
-                    and 'secrets.' not in content and 'environment:' not in content,'CALLER_MUST_NOT_READ_SECRETS')
+                    and sorted(refs)==sorted(keys) and 'secrets: inherit' not in content
+                    and 'environment:' not in content and 'steps:' not in content
+                    and all(k+': ${{ secrets.'+k+' }}' in content for k in keys),
+                    'CALLER_SECRET_FORWARDING_SCOPE')
 
 def preauthorize(plan,prices,permit):
     from ..live.http import JsonAPI,GitHubTransport
