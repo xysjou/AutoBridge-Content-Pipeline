@@ -1,0 +1,205 @@
+{
+  "status": "Structural checks only; not independent semantic or native review",
+  "files": [
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "es",
+      "body_sha256": "8b0a72e0985124821f27fcb0f9697e10d6d062b97ee8241163ef5f65629ae5dc",
+      "english_sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "words": 1179,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "pt",
+      "body_sha256": "17fd4e206a289196ad193c551a42d76bc69796eb9a063ff74a4863d3cecc55dc",
+      "english_sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "words": 1135,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "es",
+      "body_sha256": "cb1d1fd9f78d014a66361f59b2e36510b34cc6a643c66fd74101a19290a8cedb",
+      "english_sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "words": 1344,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "pt",
+      "body_sha256": "739f6a5513eb9f223365c38e5245805d599b4b3013c635513414f24f39138d55",
+      "english_sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "words": 1278,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "es",
+      "body_sha256": "9801bda3c109e0b59439cebf2d83dbbd39445d1698b88b53479b50e85cbf6225",
+      "english_sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "words": 1207,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "pt",
+      "body_sha256": "f6f1d1d09627fa2cc7895b564870d0b7c449c526f471e9951a3a490eeda2dcd9",
+      "english_sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "words": 1181,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "es",
+      "body_sha256": "c7964463d7b1be92ff931b5b7e5771728de91006198eecfcef5318f5a9790092",
+      "english_sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "words": 1213,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "pt",
+      "body_sha256": "b83589e97e5c9ed8bf253fae57e348b96da04eb669fe850780d1b8492d19cd0b",
+      "english_sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "words": 1178,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "body_sha256": "d2bdaf80ba8e391ad3c0f91c713bb3442eb6b1b6d613a2756f95be672f8f1abc",
+      "english_sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "words": 1129,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "pt",
+      "body_sha256": "05b84761524b42bc12b4df81de75ebd1c699a5c385970cb3fcb01bcb898c11c7",
+      "english_sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "words": 1094,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "es",
+      "body_sha256": "8f6b5d8c25d24dedc8768acd9944ce7173a9dc300a2f10e07ffc81bf446063f2",
+      "english_sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "words": 1065,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "pt",
+      "body_sha256": "fc7e206efc186e0c9ae2d0e9f1351e96a61530098ad27e5283930314c733303f",
+      "english_sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "words": 1072,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "es",
+      "body_sha256": "91e99ff1d42b2a3215824b1506232651cb7e81e29f6a88a9787b9b396a74c461",
+      "english_sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "words": 1131,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "pt",
+      "body_sha256": "ec161141fff9bd2d5ef0c822ea1da20abba4c7e6211f955a70095efaf26e3a35",
+      "english_sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "words": 1118,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "es",
+      "body_sha256": "657b58607f71e4e9eceb68eef9e302d9f6c7916eac2be567ed673b99caf26266",
+      "english_sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "words": 1178,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "pt",
+      "body_sha256": "48bf4d3b28ca808ef734ba04a9bad61e26beba0388ecc373e31d67bccf1adc26",
+      "english_sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "words": 1159,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "es",
+      "body_sha256": "5a93ab4020334e4406b72ba0f3092286b178d2ae2b6c0d7cd5fbce29ee7b3f4e",
+      "english_sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "words": 1140,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "pt",
+      "body_sha256": "55331c87d1b2914c40015fd910b8334b8c232c05e2d21e1514a59a52f0b8b5e1",
+      "english_sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "words": 1141,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "es",
+      "body_sha256": "52ec04742b36f181385ab3f5ec6259755713d2371cb42de7a52f2e248468312a",
+      "english_sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "words": 1218,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "pt",
+      "body_sha256": "a428135e621dd9ad418d39cd09ab458a3e5f4d245285343f3a9e1be8ea85017c",
+      "english_sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "words": 1196,
+      "url_set_matches_english": true,
+      "h1_matches": true,
+      "independent_semantic_review": "See es_pt_independent_review.json"
+    }
+  ]
+}

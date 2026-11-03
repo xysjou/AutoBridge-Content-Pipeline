@@ -1,0 +1,275 @@
+{
+  "scope": "30 bodies + metadata; structural checks only, independent semantic review separately",
+  "records": [
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "locale": "zh",
+      "body_sha256": "d4e1553b79aa5393ebb6b9dad0e1b04d165a324095ca389148f9946f94a9066f",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1882,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "locale": "ja",
+      "body_sha256": "7656d708aba76bf42012a8f8d763548a7367489d6cc3b632c4ba2ca7052c423e",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1093,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "locale": "ko",
+      "body_sha256": "9cf9003dc5ea23e9c6f1bd2fa8fcb1049b72b7c31fe4a2c2df2a670e422a023f",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "locale": "zh",
+      "body_sha256": "ee7c59ee0f36c9b75ab4bbc52f53fa4fdfd789da5cfd6e5e0d3497535ca5732e",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1889,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "locale": "ja",
+      "body_sha256": "007c03198957babc36a7099b96356b6a5951587f5a7fe5df6cad0c6ed6047601",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1075,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "locale": "ko",
+      "body_sha256": "62770d158f288b791295fe7629cb9fe1292dc1bb45f817571b0468616ef0caff",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "locale": "zh",
+      "body_sha256": "824b62ec0bc47ebc118a1feacde3f3e0d366b089b89e7deb640a79fea3b02b8f",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1629,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "locale": "ja",
+      "body_sha256": "903e1fb4d090560809e802b903d177898d672a3b1e1410ff079239d1db3488f8",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1016,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "locale": "ko",
+      "body_sha256": "aa519bf061624c642f375713cf99103af6aa0ecd5e30afa04567e44a2d460165",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "locale": "zh",
+      "body_sha256": "279a21c78607543f5082f18f16944f17d0bf2b3ad6636685bc93dca2c90d7fd1",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 2101,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "locale": "ja",
+      "body_sha256": "8ab402b6c426f260816e391112d2fd36a9deaf6db4a4d27e22f6b76ab2640f02",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1228,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "locale": "ko",
+      "body_sha256": "0257ce79095062e39ec5439d67a920a359c293ba425bb1f9256fbd57d1a47d7d",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "locale": "zh",
+      "body_sha256": "916966d14ebcf3cc230f4e9d20ae892db83c1ccd97835ce731d4c3731f4d5244",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1975,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "locale": "ja",
+      "body_sha256": "805f775f51e75337cb2d27e1ef2e1696d34bc80867d01443fba40c4539e93a64",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1161,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "locale": "ko",
+      "body_sha256": "48acbc70116eb79d2904e2a82361b2b948ad1b3fcdaf985fbcacaca0b9ee96ec",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "locale": "zh",
+      "body_sha256": "5473aece0ccf4b1a24db45c2a714b8e3fb8535db8865ae2a4fdcc363329e0cf4",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1590,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "locale": "ja",
+      "body_sha256": "a24789906af26c76120275a9ae5ab4d60aca2d646ee7c168720fa3ef32054b75",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 943,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "locale": "ko",
+      "body_sha256": "99b78538db9a1e109dede99453ddbb8df472ab1da966874e21015d6af6ea5526",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "locale": "zh",
+      "body_sha256": "c37f9b390b805d536b0e36e0c13116b9b0313ece1f4cbd3def504180684b860d",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1732,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "locale": "ja",
+      "body_sha256": "1c67b93e57e0ee22bdee50323c0cff12b09c0fec2ee3f65b36e0d68948656530",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 986,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "locale": "ko",
+      "body_sha256": "8fb877ab442086b700e83f8288d505530452f7e0d5bdc0c75c7af3c92188c325",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "locale": "zh",
+      "body_sha256": "be73be4817f0a390f138e48491a484e1b88fd716e180e826f337b730923dbf63",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1887,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "locale": "ja",
+      "body_sha256": "77c92591a3b6719f078738a4b055499584214de835dce6a0cdba3fb8e7425bcc",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1231,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "locale": "ko",
+      "body_sha256": "ee3339c2f70661cd4a914ae3a5789975f887e0b086e048206c7e540c149762a5",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "locale": "zh",
+      "body_sha256": "ecfdae0db887069ed0307e72c7bbef651fd155803fa5d6b9c8cd5aa0b6cc1c49",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1825,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "locale": "ja",
+      "body_sha256": "3de1cdb4e9da5d1f739e0e5cbb6e009e61eb760cdcd5aa5279c690e96468e032",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1077,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "locale": "ko",
+      "body_sha256": "a4b0425b5e50ec1b25abf092afe59c6d5060695aae4949eb7e5516ba5e305f22",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "zeekr-009",
+      "locale": "zh",
+      "body_sha256": "beab53902e3b8ca301e2866e144ac30dbe00676d90d2aba6a726a2168395ceb0",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 1721,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "zeekr-009",
+      "locale": "ja",
+      "body_sha256": "5ea733d7497ee366ef6d43f2593be907da74dc32d4e2f6ae1921ade06e48e8ec",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 977,
+      "missing_numeric_tokens": []
+    },
+    {
+      "slug": "zeekr-009",
+      "locale": "ko",
+      "body_sha256": "0c726f89aa1c98aa73fd20c21a559b634b85b024ed2743120c2c387a71c70d8f",
+      "h1_match": true,
+      "urls_match": true,
+      "cjk_count": 0,
+      "missing_numeric_tokens": []
+    }
+  ]
+}

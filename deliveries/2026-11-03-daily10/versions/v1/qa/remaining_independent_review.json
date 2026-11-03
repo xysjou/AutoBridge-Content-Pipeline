@@ -1,0 +1,2228 @@
+{
+  "reviewer": "Independent AI-assisted editorial reviewer; not human approval",
+  "scope": "All 10 English articles and English SEO compared by full semantic reading with ar/id/vi/th, including scope, factual qualifiers, negation, numerical conditions, dates, FAQs and metadata. Hash/link checks are supplemental, not substitutes for reading.",
+  "publication_limits": [
+    "Five vehicle articles remain conditional: they do not satisfy six sources/four organizations.",
+    "ATTO 2 brochure internal 2025/2026 date discrepancy is unresolved and must remain disclosed.",
+    "No whole-site non-duplication guarantee.",
+    "PUBLISH_APPROVED and HUMAN_REVIEWED remain false."
+  ],
+  "articles": {
+    "byd-atto-2": {
+      "checks": [
+        "Full body read in EN/AR/ID/VI/TH: Turkish BEV-only identity, both trims 45.1 kWh/130 kW/7.9 s/65 kW, 312 combined versus 463 city WLTP, 30–80%/28 min, equipment differences, body/mirror widths, accessory exclusion, and 11 March 2025 versus 2026 unresolved brochure conflict retained. All three FAQ negations match. AR WLTP and TH warranty wording issues identified at first read; RESOLVED by subsequent body corrections. VI/TH SEO restoration identified at first read; RESOLVED by the final metadata revisions recorded below.",
+        "Corrections applied: AR first 463 km city-range mention explicitly retains WLTP; TH warranty transfer now says การโอนสิทธิการรับประกัน, avoiding insurance ambiguity. No factual addition.",
+        "Metadata reviewed in all four targets. VI/TH restored explicit brochure date discrepancy, city-versus-combined WLTP and cross-market boundary in summary; diagram concepts restored to Turkish Boost/Comfort/shared battery. Vehicle alt text retains not-to-scale limitation."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "fe9294155348e2d4c41b77e175c466dab8e0e590356537322661b4aa877ea3a8",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "945080ca4031aa966f59ba1aa1be3eb4ad84eb574fe5a0a8c29382aa169ad801",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "4f355aa5af44df3ebb0e01ccf2f93c2718ea19dae8bc7ff84153327dfa142258",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "a649ce4a15ab729cad55d7fba438fbebe3c7bbcc3e088174aefa8fc77704e750",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "321114642a4a41921dbeb5baeb4cfba45ebdcac27e7ce5727666cf3e6c5fec49",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "d786bfd2f8bea505b598c72a42d64c8363ac3ce924f8af60d2b103f4ec8799e4",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "3f13a61228603afe49a758fd0a2fea26350a1a7eeffbe438fdab214211056061",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "89528e97e0f9f8bb2570eb5622da55467552dc6ec61266c6507b5d36d34ffb97",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "6345cbfeae10fd7c597897c4aa2e4202d03743ab411b36813689777f2ac90fae",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح Boost التركية، Comfort التركية، مواصفة البطارية المشتركة. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح Boost التركية، Comfort التركية، مواصفة البطارية المشتركة. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Boost Türkiye, Comfort Türkiye, Spesifikasi baterai bersama. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Boost Türkiye, Comfort Türkiye, Spesifikasi baterai bersama. Bukan foto kendaraan, gambar berskala, hasil inspeksi atau petunjuk perbaikan teknis."
+          }
+        },
+        "seo_vi.json": {
+          "meta_description": {
+            "before": "Hai bản ATTO 2 Thổ Nhĩ Kỳ dùng chung pin trong bảng đã kiểm tra. Xem khác biệt trang bị và giới hạn tài liệu.",
+            "after": "Đối chiếu pin, quãng đường và trang bị BYD ATTO 2 Boost/Comfort Thổ Nhĩ Kỳ từ nguồn OEM địa phương, kèm giải thích mâu thuẫn ngày trong brochure."
+          },
+          "summary": {
+            "before": "Hai bản ATTO 2 Thổ Nhĩ Kỳ dùng chung pin trong bảng đã kiểm tra. Xem khác biệt trang bị và giới hạn tài liệu.",
+            "after": "Bảng ATTO 2 Thổ Nhĩ Kỳ cho Boost và Comfort cùng dung lượng pin, nên lựa chọn trong tài liệu này chủ yếu là trang bị. Bài phân biệt tiện nghi khoang xe, WLTP đô thị và kết hợp, đồng thời không đưa thông số Comfort của thị trường khác vào so sánh."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Hệ truyền động chung, Trang bị riêng, Đúng thị trường. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Boost Thổ Nhĩ Kỳ, Comfort Thổ Nhĩ Kỳ, Thông số pin chung. Không phải ảnh xe, bản vẽ theo tỉ lệ, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_labels": {
+            "before": [
+              "Hệ truyền động chung",
+              "Trang bị riêng",
+              "Đúng thị trường"
+            ],
+            "after": [
+              "Boost Thổ Nhĩ Kỳ",
+              "Comfort Thổ Nhĩ Kỳ",
+              "Thông số pin chung"
+            ]
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "meta_description": {
+            "before": "สองรุ่นตุรกีใช้แบตเตอรี่เท่ากันในข้อมูลที่ตรวจ ดูความต่างอุปกรณ์และข้อจำกัดของเอกสาร",
+            "after": "เทียบแบตเตอรี่ ระยะทาง และอุปกรณ์ BYD ATTO 2 Boost กับ Comfort ตุรกีจากข้อมูลผู้ผลิตท้องถิ่น พร้อมอธิบายวันที่ในโบรชัวร์ที่ขัดกัน"
+          },
+          "summary": {
+            "before": "สองรุ่นตุรกีใช้แบตเตอรี่เท่ากันในข้อมูลที่ตรวจ ดูความต่างอุปกรณ์และข้อจำกัดของเอกสาร",
+            "after": "ตาราง ATTO 2 ตุรกีให้ Boost และ Comfort ความจุแบตเตอรี่เท่ากัน การเลือกในข้อมูลอ้างอิงนี้จึงเน้นอุปกรณ์ บทความอธิบายความต่างห้องโดยสาร แยก WLTP ในเมืองกับแบบผสม และไม่ผสมสเปก Comfort จากตลาดอื่น"
+          },
+          "diagram_alt": {
+            "before": "แผนภาพประกอบเชิงบรรณาธิการ: ระบบขับเคลื่อนร่วม, อุปกรณ์ที่ต่าง, ตลาดที่ถูกต้อง ไม่ใช่ภาพรถจริงหรือผลตรวจรถ",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: Boost ตลาดตุรกี, Comfort ตลาดตุรกี, สเปกแบตเตอรี่ร่วมกัน ไม่ใช่ภาพรถจริง ภาพวาดตามมาตราส่วน ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_labels": {
+            "before": [
+              "ระบบขับเคลื่อนร่วม",
+              "อุปกรณ์ที่ต่าง",
+              "ตลาดที่ถูกต้อง"
+            ],
+            "after": [
+              "Boost ตลาดตุรกี",
+              "Comfort ตลาดตุรกี",
+              "สเปกแบตเตอรี่ร่วมกัน"
+            ]
+          },
+          "diagram_caption": {
+            "before": "ภาพอธิบายเพื่อใช้อ้างอิง ไม่ได้ยืนยันการตรวจรถคันใด",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 25,
+            "english_paragraph_count": 25,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 25,
+            "english_paragraph_count": 25,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 25,
+            "english_paragraph_count": 25,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 25,
+            "english_paragraph_count": 25,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "byd-sealion-7": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH semantic read: 15 Nov 2024 European launch versus later assessments; all three drivetrain/battery/range/DC/time combinations retained; 10–80% versus 30–80% non-equivalence and peak-versus-constant limit retained; 2025 rear chest weakness retained; July 2026 Green NCAP four-to-four-and-a-half update remains separate from crash safety; all three FAQ answers match. AR Design/Excellence WLTP label issue identified at first read; RESOLVED by subsequent body correction.",
+        "Correction applied: repeated WLTP on AR 456 km and 502 km figures to retain named-test scope.",
+        "All metadata read. Restored European launch-table scope and separated crash safety from subsequent Comfort RWD environmental assessment in summaries; VI/TH descriptions now preserve both assessment types. No 2026 universal-model assertion."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "b1795034f374b0c5c7650bd5302259d8c1eb2181210a59806dcc8e517ffc9295",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "90ffa1c934fd5499c6574fa5c908580b5a8d16ec0148dd20a5b488f07446d199",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "04d1eab0cbd3e5ad57e30f56105c0f00c44a318ae4871b01cb5f5ec24b63ac12",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "4e9a24dc23ce91ea32bf3f0ee47e23bfb399211c80a1f27aa1cd819dc34ad0f0",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "ede78e7ba99142d9ee1392e40812007db5dfa4ad53c78556b36984eca3f4dd14",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "a2c712da7f424fa51a93bdfc3d87e0bc0eda0299e5b585aed2b5cd8c9e303c03",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "20337bfc60e009ba3c81f838c6b346d5dec81f1b7d4bd9c477d77799410e9488",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "ad6bdeb896796bcdfc9317f5d4aaf25c3f31b0cee5165146b913a6d9fda830a5",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "4c301ddcd63e26a52f144e5b64c1d79f6a228e670b5007bef6254aada3241f2e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "summary": {
+            "before": "تختلف توليفات Comfort وDesign AWD وExcellence AWD في البطارية والدفع والشحن. تحافظ المقارنة على كل فئة منفصلة وتقرأ أدلة السلامة والبيئة في نطاقها الصحيح.",
+            "after": "تقدم Comfort وDesign AWD وExcellence AWD توليفات مختلفة للبطارية والدفع والشحن في جدول إطلاق BYD الأوروبي. تُبقي المقارنة هذه التوليفات منفصلة، ثم تميز نتائج السلامة التصادمية من التقييم البيئي اللاحق لفئة Comfort ذات الدفع الخلفي."
+          },
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح Comfort بدفع خلفي، Design AWD، Excellence AWD. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح Comfort بدفع خلفي، Design AWD، Excellence AWD. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          }
+        },
+        "seo_id.json": {
+          "summary": {
+            "before": "Ketiga versi memadukan penggerak, baterai dan pengisian secara berbeda. Pertahankan kombinasi itu ketika memilih, lalu baca hasil Euro NCAP dan Green NCAP sesuai fungsi serta kendaraan yang dinilai.",
+            "after": "Dalam tabel peluncuran BYD Eropa, Comfort, Design AWD dan Excellence AWD memiliki kombinasi baterai, penggerak dan pengisian berbeda. Perbandingan menjaga tiap kombinasi tetap utuh, lalu membedakan temuan keselamatan tabrak dari penilaian lingkungan berikutnya atas Comfort RWD."
+          },
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Comfort RWD, Design AWD, Excellence AWD. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Comfort RWD, Design AWD, Excellence AWD. Bukan foto kendaraan, gambar berskala, hasil inspeksi atau petunjuk perbaikan teknis."
+          }
+        },
+        "seo_vi.json": {
+          "meta_description": {
+            "before": "So sánh Comfort, Design AWD và Excellence AWD theo pin, WLTP, khoảng sạc và phạm vi đánh giá an toàn.",
+            "after": "So sánh hệ dẫn động, pin và sạc của các bản SEALION 7 khi ra mắt tại châu Âu, tách bằng chứng an toàn Euro NCAP khỏi Green NCAP."
+          },
+          "summary": {
+            "before": "So sánh Comfort, Design AWD và Excellence AWD theo pin, WLTP, khoảng sạc và phạm vi đánh giá an toàn.",
+            "after": "Comfort, Design AWD và Excellence AWD có các tổ hợp pin, hệ dẫn động và sạc khác nhau trong bảng ra mắt châu Âu của BYD. Bài giữ từng tổ hợp riêng, rồi tách kết quả an toàn va chạm khỏi đánh giá môi trường sau đó dành cho Comfort RWD."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Comfort RWD, Design AWD, Excellence AWD. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Comfort RWD, Design AWD, Excellence AWD. Không phải ảnh xe, bản vẽ theo tỉ lệ, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "meta_description": {
+            "before": "เปรียบเทียบ Comfort, Design AWD และ Excellence AWD ตามแบตเตอรี่ WLTP และช่วงชาร์จ พร้อมขอบเขตผลทดสอบ",
+            "after": "เทียบระบบขับเคลื่อน แบตเตอรี่ และการชาร์จของ SEALION 7 ชุดเปิดตัวยุโรป โดยแยกความปลอดภัย Euro NCAP จากข้อมูล Green NCAP"
+          },
+          "summary": {
+            "before": "เปรียบเทียบ Comfort, Design AWD และ Excellence AWD ตามแบตเตอรี่ WLTP และช่วงชาร์จ พร้อมขอบเขตผลทดสอบ",
+            "after": "Comfort, Design AWD และ Excellence AWD มีชุดแบตเตอรี่ ระบบขับเคลื่อน และการชาร์จต่างกันในตารางเปิดตัวยุโรปของ BYD บทความรักษาแต่ละชุดแยกกัน แล้วแยกผลความปลอดภัยจากการชนออกจากการประเมินสิ่งแวดล้อมของ Comfort RWD ที่ตามมา"
+          },
+          "diagram_alt": {
+            "before": "แผนภาพประกอบเชิงบรรณาธิการ: Comfort RWD, Design AWD, Excellence AWD ไม่ใช่ภาพรถจริงหรือผลตรวจรถ",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: Comfort RWD, Design AWD, Excellence AWD ไม่ใช่ภาพรถจริง ภาพวาดตามมาตราส่วน ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_caption": {
+            "before": "ภาพอธิบายเพื่อใช้อ้างอิง ไม่ได้ยืนยันการตรวจรถคันใด",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "leapmotor-b05": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: UK June 2026 BEV-only and single-trim scope, 160 kW/240 Nm/67.1 usable kWh/300 miles not km, 174 kW and 30–80%/17 min, Launch Control condition and 0–62 mph, September 2025 dimension provenance, September 2 2026 Euro NCAP result versus September 11 manufacturer update, and July 1 orders-versus-current-stock distinction preserved. Three FAQ meanings intact. No material body divergence confirmed.",
+        "All metadata read. VI/TH restored September 2026 Euro NCAP dating, UK hatchback/RWD/passenger-access summary, and exact UK/30–80%/September diagram concepts. Units in body remain miles and mph."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "b230b937386fb7ac678d498f14ad513592c887dde6da2f2f96c51c981b69b919",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "4dce5c02db3f1e2fa5408739691303798228f4bdb6c59ca28bc019f0e6ee2113",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "c500aa2b6a107d4818dbf268734e2558f6ac67fd53a86ff1a14505a19fdcd512",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "18bc8185b4e2e2515dce3c2949b39eb7a188812ccf01b71f548766843061fc3f",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "05e280bfeef9df44c4ff427fd584832d437b2e3dc0b8a46400f51b76237a1cc0",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "6c22c943e74bce922d77e4af518038057305f5a52bb2abd1554998298a6b183e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "36fb6c36e7caa72da570fdcf02860d50d3b1550907bc1f0880c6d5e617407ab3",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "f17994e3bda2469dc6aab6fe355993d10d3d5da1361a69ac7235e3cd6654cd9c",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "aabb0fa17cac01007e936d02c0e688a62b49e65a5c1bd8e8cfc5ddee2b4bc9f0",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح هوية الهاتشباك البريطانية، نطاق الشحن 30–80%، نتيجة السلامة في سبتمبر. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح هوية الهاتشباك البريطانية، نطاق الشحن 30–80%، نتيجة السلامة في سبتمبر. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Identitas hatchback Inggris, Pengisian 30–80%, Hasil keselamatan September. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Identitas hatchback Inggris, Pengisian 30–80%, Hasil keselamatan September. Bukan foto kendaraan, gambar berskala, hasil inspeksi atau petunjuk perbaikan teknis."
+          }
+        },
+        "seo_vi.json": {
+          "meta_description": {
+            "before": "Xem cấu hình B05 Anh, pin, WLTP, sạc và cập nhật Euro NCAP; phân biệt dữ liệu ra mắt với chiếc xe được chào.",
+            "after": "Xem thông số Leapmotor B05 tại Anh, khoảng sạc xác định và kết quả Euro NCAP tháng 9 năm 2026, không ghép các bản thị trường."
+          },
+          "summary": {
+            "before": "Xem cấu hình B05 Anh, pin, WLTP, sạc và cập nhật Euro NCAP; phân biệt dữ liệu ra mắt với chiếc xe được chào.",
+            "after": "B05 tại Anh kết hợp bố trí hatchback với pin và hệ dẫn động cầu sau có tài liệu xác định. Đánh giá hữu ích bắt đầu từ lối lên xuống của hành khách và thói quen sạc, rồi đọc kết quả an toàn xuất hiện sau theo trình tự ngày thay vì dựa vào kỳ vọng ra mắt ban đầu."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Bố trí hatchback, Pin và thói quen sạc, An toàn theo ngày. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Nhận dạng hatchback tại Anh, Khoảng sạc 30–80%, Kết quả an toàn tháng 9. Không phải ảnh xe, bản vẽ theo tỉ lệ, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_labels": {
+            "before": [
+              "Bố trí hatchback",
+              "Pin và thói quen sạc",
+              "An toàn theo ngày"
+            ],
+            "after": [
+              "Nhận dạng hatchback tại Anh",
+              "Khoảng sạc 30–80%",
+              "Kết quả an toàn tháng 9"
+            ]
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "meta_description": {
+            "before": "ดูตัวถัง แบตเตอรี่ WLTP การชาร์จ และผล Euro NCAP ของ B05 อังกฤษ พร้อมแยกข้อมูลเปิดตัวกับรถจริง",
+            "after": "ดูสเปก Leapmotor B05 สหราชอาณาจักร ช่วงชาร์จที่ระบุ และผล Euro NCAP เดือนกันยายน 2026 โดยไม่ผสมรุ่นจากต่างตลาด"
+          },
+          "summary": {
+            "before": "ดูตัวถัง แบตเตอรี่ WLTP การชาร์จ และผล Euro NCAP ของ B05 อังกฤษ พร้อมแยกข้อมูลเปิดตัวกับรถจริง",
+            "after": "B05 สหราชอาณาจักรมีรูปแบบแฮตช์แบ็กพร้อมข้อมูลแบตเตอรี่และขับเคลื่อนล้อหลังที่มีเอกสาร การประเมินควรเริ่มจากการเข้าออกของผู้โดยสารและกิจวัตรชาร์จ แล้วอ่านผลความปลอดภัยที่ตามมาตามลำดับวัน แทนยึดความคาดหวังตอนเปิดตัว"
+          },
+          "diagram_alt": {
+            "before": "แผนภาพประกอบเชิงบรรณาธิการ: รูปแบบแฮตช์แบ็ก, แบตเตอรี่และการชาร์จ, ความปลอดภัยตามวันที่ ไม่ใช่ภาพรถจริงหรือผลตรวจรถ",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: ตัวตนแฮตช์แบ็กสหราชอาณาจักร, ช่วงชาร์จ 30–80%, ผลความปลอดภัยเดือนกันยายน ไม่ใช่ภาพรถจริง ภาพวาดตามมาตราส่วน ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_labels": {
+            "before": [
+              "รูปแบบแฮตช์แบ็ก",
+              "แบตเตอรี่และการชาร์จ",
+              "ความปลอดภัยตามวันที่"
+            ],
+            "after": [
+              "ตัวตนแฮตช์แบ็กสหราชอาณาจักร",
+              "ช่วงชาร์จ 30–80%",
+              "ผลความปลอดภัยเดือนกันยายน"
+            ]
+          },
+          "diagram_caption": {
+            "before": "ภาพอธิบายเพื่อใช้อ้างอิง ไม่ได้ยืนยันการตรวจรถคันใด",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 22,
+            "english_paragraph_count": 22,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 22,
+            "english_paragraph_count": 22,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 22,
+            "english_paragraph_count": 22,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 22,
+            "english_paragraph_count": 22,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "leapmotor-b10": {
+      "checks": [
+        "Full semantic read in all four targets against EN: 10 Dec 2025 Malaysia BEV scope excludes Hybrid EV/China/later revisions; Life/Design 56.2/67.1 kWh, 361/434 WLTP, 11 AC and 140/168 DC kW, under 20 min/30–80% remain correct; UK dimensions explicitly separate from Malaysian equipment; assessed reversing pedestrian limitation and all FAQs retained. Fixed AR DC terminology from potentially continuous charging to charging with direct current; clarified AC. Fixed TH warranty-transfer wording to avoid insurance ambiguity.",
+        "All metadata read. AR diagram now explicitly retains WLTP. VI/TH summaries retain two-battery, documentary basis, regional and safety-evidence scope. False publication/human-review flags unchanged."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "9b01f456aeb8341386540cf6f82e7b43bd9bfa0a7651e2fea5aae3efc7c95b49",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "f9053f2a3ba0ce4b2daa7f93891c077af0c55d53fde03f214bdf689d7b110f26",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "6d649f4f8696d6e66930f144161a6199f8761d3cd990c9e8012f8b07398a752b",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "d2e74a411e440f03a28e4a95fe543e50692ddc9bdbe6fb13a5355ae0dae41258",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "197105e2529235a591d2a8ff9c13ace123ac479bed8731f6aec7ea05694985ab",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "66f75a835174db7fdad23e7f65da215e79aa657cb61b702fecefd97a49f7ecfb",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "5a26dd9f7bfa48a6b537317ded0bac07dde783d88e711f56d2aaee88f07fe88e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "de96bb6007511b1d9c7d221d9b8b8eec43cd171620f00eb7cc1ff8f290244bec",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "8df4cfa9a09c4cbb15215e6a3317fe8abab72b0b6ced440fdb570d45cbfdb64f",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح بطارية ومدى Life، بطارية ومدى Design، نطاق شحن موحد. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح بطارية Life ومدى WLTP، بطارية Design ومدى WLTP، نطاق شحن موحد. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          },
+          "diagram_labels": {
+            "before": [
+              "بطارية ومدى Life",
+              "بطارية ومدى Design",
+              "نطاق شحن موحد"
+            ],
+            "after": [
+              "بطارية Life ومدى WLTP",
+              "بطارية Design ومدى WLTP",
+              "نطاق شحن موحد"
+            ]
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Baterai dan WLTP Life, Baterai dan WLTP Design, Interval pengisian sama. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Baterai dan WLTP Life, Baterai dan WLTP Design, Interval pengisian sama. Bukan foto kendaraan, gambar berskala, hasil inspeksi atau petunjuk perbaikan teknis."
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "So sánh pin, WLTP và sạc của B10 Life cùng Design tại Malaysia; giữ thông số từng thị trường tách biệt.",
+            "after": "So sánh B10 Malaysia bắt đầu từ hai dung lượng pin, không phải xếp hạng trang bị. Tài liệu này dựa trên hồ sơ, tách Life và Design trên cùng cơ sở WLTP và chỉ ra cách đọc thận trọng số liệu sạc, thông số từng thị trường và bằng chứng an toàn."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Pin / WLTP của Life, Pin / WLTP của Design, Cùng khoảng sạc. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Pin / WLTP của Life, Pin / WLTP của Design, Cùng khoảng sạc. Không phải ảnh xe, bản vẽ theo tỉ lệ, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "summary": {
+            "before": "เทียบแบตเตอรี่ WLTP และการชาร์จของ B10 สองรุ่นมาเลเซีย โดยไม่ผสมสเปกข้ามตลาด",
+            "after": "การเทียบ B10 มาเลเซียเริ่มจากแบตเตอรี่สองความจุ ไม่ใช่จัดอันดับอุปกรณ์ ข้อมูลอ้างอิงจากเอกสารนี้แยก Life และ Design บนฐาน WLTP เดียวกัน และอธิบายจุดที่ต้องอ่านตัวเลขชาร์จ สเปกตามตลาด และหลักฐานความปลอดภัยอย่างระมัดระวัง"
+          },
+          "diagram_alt": {
+            "before": "แผนภาพประกอบเชิงบรรณาธิการ: แบตเตอรี่ / WLTP Life, แบตเตอรี่ / WLTP Design, ช่วงชาร์จเดียวกัน ไม่ใช่ภาพรถจริงหรือผลตรวจรถ",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: แบตเตอรี่ / WLTP Life, แบตเตอรี่ / WLTP Design, ช่วงชาร์จเดียวกัน ไม่ใช่ภาพรถจริง ภาพวาดตามมาตราส่วน ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_caption": {
+            "before": "ภาพอธิบายเพื่อใช้อ้างอิง ไม่ได้ยืนยันการตรวจรถคันใด",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 23,
+            "english_paragraph_count": 23,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 23,
+            "english_paragraph_count": 23,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 23,
+            "english_paragraph_count": 23,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 23,
+            "english_paragraph_count": 23,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "zeekr-009": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: Malaysia current page date 3 Nov 2026 distinct from Dec 2024 launch; Executive 604 km/7.9 s versus AWD 582 km/4.5 s, shared 116 kWh/10–80% 30 min, 7-seat 2–2–3 Luxury versus 6-seat 2–2–2 Ultra-Luxury, fold tables exclusivity, dimensions, OTA regional caveat and all FAQ constraints preserved. Fixed AR omitted WLTP labels in 582 km paragraph and 604 km FAQ. Fixed TH warranty transfer and app activation wording (previously potentially insurance transfer and merely opening app).",
+        "All metadata read. Corrected AR summary implying exactly two trims: longest range and quickest acceleration belong to different variants. VI/TH restored dated six/seven-seat distinction and exact Executive range/Luxury seven/Ultra-Luxury six diagram concepts."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "2d2ee6a76069f3f08c20236a615af0aceb59d58666b17532d71efebd5fae2634",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "5229f048dce667c4a3de3745f99bb1a2446f58c0570bed3d8196ab5f11a03729",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "04da2b1f5747c0ac3c92b112db3e8444cef87d83437063cd7d9835d24db606fe",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "c9dcc88719927a82fb08e8a8406f906e5159b80f09abdf37d7d93f108731007e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "64a39bc263f90d78174983535599b42330050d0e4d36c4ce51cd79fc347ed87a",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "98625c7192651308596b62b58baf8a92c19b8171ec62d10464db87e11580091c",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "806e5a926360836e92ff01969720785df432f756cb0ff1162a85e81b9d39f870",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "14d4837ef81f7b203dcf7ca2d93a255fac3ec12bb19fe10c986cf28b93008abc",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "ca7915a677f94f13d06b6d7c71ea386f1b52627dc5bcff40c9af0478a23955b9",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "summary": {
+            "before": "ينتمي أطول مدى وأسرع تسارع في 009 الماليزية إلى فئتين مختلفتين. يبدأ الاختيار بالمقاعد ووصول الركاب والوجهات، ثم تُدرس فروق الأداء والشحن دون تركيب مواصفة وهمية.",
+            "after": "ينتمي أطول مدى وأسرع تسارع في 009 الماليزية إلى فئات مختلفة. يستخدم هذا المرجع أدلة مؤرخة لتوزيعي الستة والسبعة مقاعد، ويبدأ الاختيار بوصول الركاب والوجهات وروتين الشحن، دون تركيب مواصفة وهمية."
+          },
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح مدى Executive، مرجع Luxury بسبعة مقاعد، مرجع Ultra-Luxury بستة مقاعد. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح مدى Executive، مرجع Luxury بسبعة مقاعد، مرجع Ultra-Luxury بستة مقاعد. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Jarak Executive, Referensi Luxury tujuh kursi, Referensi Ultra-Luxury enam kursi. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Jarak Executive, Referensi Luxury tujuh kursi, Referensi Ultra-Luxury enam kursi. Bukan foto kendaraan, gambar berskala, hasil inspeksi atau petunjuk perbaikan teknis."
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "Tách Executive, Luxury và Ultra-Luxury theo quãng đường, tăng tốc, ghế và sạc; xác nhận cấu hình xe thực tế.",
+            "after": "Trang 009 Malaysia gán quãng đường dài nhất và tăng tốc nhanh nhất cho các phiên bản khác nhau. Bài giữ các số liệu riêng, dùng bằng chứng có thời điểm xác định cho bố trí sáu và bảy chỗ, đồng thời ưu tiên lối lên xuống, điểm đến và thói quen sạc hơn tiêu đề trộn thông số."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Executive, Luxury, Ultra-Luxury. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Quãng đường Executive, Tham chiếu Luxury bảy chỗ, Tham chiếu Ultra-Luxury sáu chỗ. Không phải ảnh xe, bản vẽ theo tỉ lệ, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_labels": {
+            "before": [
+              "Executive",
+              "Luxury",
+              "Ultra-Luxury"
+            ],
+            "after": [
+              "Quãng đường Executive",
+              "Tham chiếu Luxury bảy chỗ",
+              "Tham chiếu Ultra-Luxury sáu chỗ"
+            ]
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "summary": {
+            "before": "แยก Executive, Luxury และ Ultra-Luxury ตามระยะทาง อัตราเร่ง ที่นั่ง และชาร์จ ก่อนยืนยันรถที่เสนอ",
+            "after": "หน้า 009 มาเลเซียระบุระยะทางสูงสุดและอัตราเร่งเร็วสุดไว้คนละรุ่น บทความแยกตัวเลขเหล่านี้ ใช้หลักฐานที่มีวันกำกับสำหรับหกและเจ็ดที่นั่ง และให้ความสำคัญกับการเข้าออก จุดหมาย และกิจวัตรชาร์จ มากกว่าพาดหัวที่ผสมสเปก"
+          },
+          "diagram_alt": {
+            "before": "แผนภาพประกอบเชิงบรรณาธิการ: Executive, Luxury, Ultra-Luxury ไม่ใช่ภาพรถจริงหรือผลตรวจรถ",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: ระยะทาง Executive, ข้อมูลอ้างอิง Luxury เจ็ดที่นั่ง, ข้อมูลอ้างอิง Ultra-Luxury หกที่นั่ง ไม่ใช่ภาพรถจริง ภาพวาดตามมาตราส่วน ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_labels": {
+            "before": [
+              "Executive",
+              "Luxury",
+              "Ultra-Luxury"
+            ],
+            "after": [
+              "ระยะทาง Executive",
+              "ข้อมูลอ้างอิง Luxury เจ็ดที่นั่ง",
+              "ข้อมูลอ้างอิง Ultra-Luxury หกที่นั่ง"
+            ]
+          },
+          "diagram_caption": {
+            "before": "ภาพอธิบายเพื่อใช้อ้างอิง ไม่ได้ยืนยันการตรวจรถคันใด",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 26,
+            "english_paragraph_count": 26,
+            "faq_count": 3,
+            "english_faq_count": 3,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "adas-windscreen-repair-evidence": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: glass-installation versus ADAS-work evidence; VIN-linked reports, OEM procedure precedence and coverage limits, not identified versus not required, scan/calibration/completed repair distinction, 2019 Bosch and May 2019 Thatcham date/scope, no deliberate emergency-brake/lane provocation, post-repair record order, ICBC regional insurer scope and incomplete-work limits retained. Four FAQs and all source links semantically preserved. Minor ID wording corrected newly offered vehicle, previously potentially read as new vehicle.",
+        "All metadata read. VI summary restored traceable procedure/result and booked appointment not completed work. Captions retain illustrative-only/no individual vehicle inspection; diagrams remain repair event/OEM procedure/recorded outcome."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "9b7be56938e98f2a375a139950fdcfca2d3f938b55b6e87eede290c4e12183f8",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "64f183d272c9768878750e3f7154daf87588e51e5feaceed79d4d8a4b7a97662",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "daba56549fa1927967886ae8ac1496ecbba367e609ad62a6a8c315f36f5f372c",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "11d84d76eb8f009cfb6405690d6c813998a7b2970efe0565d0a373ceb999385f",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "e9f02338980cd43036c825a802ffb93ac79ca01f7b38cad954807adf76e5fc26",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "b498d532cd779f69d9cfeddf603b64404a4dda88081fed8a41ddd166fc29d4c7",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "506b6cc3067e0949171d45de0f0a3b4212366919559390aeca11bfa69e5b6cea",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "bb5d99e2f96acf75b4b6072f7765a897c046be30d345ed8ac4576edcbd182c12",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "754ac648d0422a2da2502d7417cde08d218d56cfc9c40682aa234f6ba05db071",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_vi.json": {
+          "summary": {
+            "before": "Xem hồ sơ sửa kính, quy trình hãng và kết quả hiệu chuẩn khi mua xe cũ; phân biệt quét lỗi với công việc hoàn tất.",
+            "after": "Theo dõi lần sửa kính qua nhận dạng hệ thống, quy trình hãng áp dụng và kết quả hiệu chuẩn truy được nguồn. Bản quét chẩn đoán hoặc lịch hẹn đã đặt không đồng nghĩa công việc đã hoàn tất."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "diagram_caption": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: เหตุการณ์ซ่อม, ขั้นตอน OEM, ผลที่บันทึกไว้ ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "connected-car-account-handover": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: driver invitation versus owner transfer; 2024 Polestar 2 US, Volvo Canada, Ford US, Hyundai US, Tesla Philippines and UAE source scopes preserved; reset versus ownership versus subscriptions, no credential sharing, no unauthorized post-sale access testing, no informal unlock claim, pending status and four FAQs preserved. TH corrections: FAQ not necessarily now ไม่เสมอไป instead of not necessary; former-owner approval remains may require, not categorical requirement.",
+        "All metadata read. AR/ID diagrams restored missing personal-data reset and buyer-ownership concepts instead of substitute service-limit node; TH buyer ownership clarified. VI summary restored keys-not-complete, prior access/stored data/buyer enrollment distinction."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "0acb679e9203a39880280818397f2f510febae8614b15226ece4277e2707734f",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "854b38976bee4ff2d55e152b3ba40b05cd28ec20711c4d4ad5e5b9a066b259ac",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "0a3379402e9560a5fd4e47848b433afed8aca88977551a8d4d3c7f0eec6a9ab5",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "f6ab2225f2e28fd5b00b0a12a580edfbea3c61625ed5292092c07f8d21d629c3",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "7b6c24788918239667963a38ad3591f349335ccb2e621ecc23413464ba2aa562",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "90ac7ed9636802df57dd031e5924a35c879683fd56c01bb5a075e60b0970141f",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "5d9bab581d80feb4bc7bd06db16debf507f4723e11dfc8d114d1b329c59d54a7",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "e53dc8213a98ed78a7644b6c97abb7a07eee0e801839124d7ee306ca7e1bbfd3",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "2d3fc91a37753caa47e5847d7a65e108c865b6e6c902ab4ed8904e3d8ca25949",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح صلاحيات المالك السابق، تسجيل المالك الجديد، حدود خدمات الوجهة. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح صلاحيات وصول المالك السابق، إعادة ضبط البيانات الشخصية، ملكية المشتري. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          },
+          "diagram_labels": {
+            "before": [
+              "صلاحيات المالك السابق",
+              "تسجيل المالك الجديد",
+              "حدود خدمات الوجهة"
+            ],
+            "after": [
+              "صلاحيات وصول المالك السابق",
+              "إعادة ضبط البيانات الشخصية",
+              "ملكية المشتري"
+            ]
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Izin pemilik lama, Pendaftaran pemilik baru, Batas layanan tujuan. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Akses pemilik sebelumnya, Reset data pribadi, Kepemilikan pembeli. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis."
+          },
+          "diagram_labels": {
+            "before": [
+              "Izin pemilik lama",
+              "Pendaftaran pemilik baru",
+              "Batas layanan tujuan"
+            ],
+            "after": [
+              "Akses pemilik sebelumnya",
+              "Reset data pribadi",
+              "Kepemilikan pembeli"
+            ]
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "Tách quyền ứng dụng, đặt lại dữ liệu và chuyển sở hữu hãng; xác nhận dịch vụ tại nơi đến riêng.",
+            "after": "Chìa khóa vật lý chưa hoàn tất bàn giao xe kết nối. Các ví dụ từ hãng được nêu cho thấy cần xác nhận riêng quyền chủ cũ, dữ liệu lưu trong xe và việc người mua đăng ký tài khoản."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "diagram_alt": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: สิทธิ์เจ้าของเดิม, ล้างข้อมูลส่วนตัว, เจ้าของบัญชีใหม่ ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "แผนภาพประกอบเชิงบรรณาธิการ: สิทธิ์เจ้าของเดิม, ล้างข้อมูลส่วนตัว, ความเป็นเจ้าของของผู้ซื้อ ไม่ใช่ภาพรถจริง ผลตรวจรถ หรือคำสั่งซ่อมทางเทคนิค"
+          },
+          "diagram_caption": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: สิทธิ์เจ้าของเดิม, ล้างข้อมูลส่วนตัว, เจ้าของบัญชีใหม่ ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          },
+          "diagram_labels": {
+            "before": [
+              "สิทธิ์เจ้าของเดิม",
+              "ล้างข้อมูลส่วนตัว",
+              "เจ้าของบัญชีใหม่"
+            ],
+            "after": [
+              "สิทธิ์เจ้าของเดิม",
+              "ล้างข้อมูลส่วนตัว",
+              "ความเป็นเจ้าของของผู้ซื้อ"
+            ]
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 33,
+            "english_paragraph_count": 33,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 33,
+            "english_paragraph_count": 33,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 33,
+            "english_paragraph_count": 33,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 33,
+            "english_paragraph_count": 33,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "cross-border-vehicle-recall-check": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: no open recalls not global safety clearance; VIN/license versus model search, NHTSA exclusions, SAMR coverage starting 2014 inclusive, UK/Australia/Canada national scopes, complaint/investigation/service campaign/recall separation, traceable software remedy, no universal free overseas remedy or import approval, refresh date and four FAQs preserved. Fixed AR heading: clearance was inaccurately rendered as liability disclaimer; now means confirmation of absence of recalls.",
+        "All metadata read. AR/ID diagram restored relevant database/vehicle applicability/remedy evidence; VI database label and summary now preserve zero-result limitations and no worldwide clearance."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "57679adbbbac9fc7fdb800d53b3d167c2cb3dad1df880ef55e0b3661da56da06",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "4a783c0b8e432aaa295b5bb782471c9b6cdd5052d649ab302288059512d36de6",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "9a152df6e6a4d33401f06eb46a60ac0f6f040c0c8fc407ee830998f72a6cdb98",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "f926966d374f62b2570fe5a72660ebe8197e1d89cfd5e415d1b333d98c2bdcde",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "f37218a2488b62f7d9f4ea12cc6502fa1a81bccde4200131ed611f6c989d3e9e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "02a19e488de698460605a1827930a1566b955a18e1a5104ac0b3f17e36146d77",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "23b8a784944de8ec3d2dff83485580fa5ccecfe1537b78771980214dd7c084be",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "700b5140561ef9bf20a6ab004e06990ea7abb33110624cdb723aeb9edac60c2a",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "1039e06320e8c0ab8ef11d808b9d842449345d20175292e9597da491d76c7db1",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح هوية السيارة، نطاق الحملة، إثبات المعالجة. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح قاعدة البيانات المناسبة، انطباق الحملة على السيارة، أدلة المعالجة. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          },
+          "diagram_labels": {
+            "before": [
+              "هوية السيارة",
+              "نطاق الحملة",
+              "إثبات المعالجة"
+            ],
+            "after": [
+              "قاعدة البيانات المناسبة",
+              "انطباق الحملة على السيارة",
+              "أدلة المعالجة"
+            ]
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Identitas kendaraan, Cakupan kampanye, Bukti perbaikan selesai. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Basis data relevan, Penerapan pada kendaraan, Bukti tindakan perbaikan. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis."
+          },
+          "diagram_labels": {
+            "before": [
+              "Identitas kendaraan",
+              "Cakupan kampanye",
+              "Bukti perbaikan selesai"
+            ],
+            "after": [
+              "Basis data relevan",
+              "Penerapan pada kendaraan",
+              "Bukti tindakan perbaikan"
+            ]
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "Hiểu phạm vi cơ sở dữ liệu, tìm VIN và tìm mẫu, cùng bằng chứng khắc phục trước khi mua xe nước ngoài.",
+            "after": "Kết quả tra triệu hồi bằng không có giới hạn. Bài liên kết đường tra quốc gia phù hợp, nhận dạng chính xác xe và hồ sơ hoàn tất khắc phục, không khẳng định xe đã được xác nhận an toàn trên toàn thế giới."
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Dữ liệu phù hợp, Áp dụng cho xe, Bằng chứng khắc phục. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Cơ sở dữ liệu phù hợp, Phạm vi áp dụng cho xe, Bằng chứng khắc phục. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          },
+          "diagram_labels": {
+            "before": [
+              "Dữ liệu phù hợp",
+              "Áp dụng cho xe",
+              "Bằng chứng khắc phục"
+            ],
+            "after": [
+              "Cơ sở dữ liệu phù hợp",
+              "Phạm vi áp dụng cho xe",
+              "Bằng chứng khắc phục"
+            ]
+          }
+        },
+        "seo_th.json": {
+          "diagram_caption": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: ฐานข้อมูลที่เกี่ยวข้อง, ขอบเขตตรงกับรถ, หลักฐานแก้ไข ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "low-voltage-battery-storage-readiness": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: auxiliary versus traction battery, lead-acid/lithium-specific Model 3 support and no donor jump-start, storage chronology rather than fixed time rule, SOC versus SOH, AGM/EFB-specific testing/replacement, DC-DC qualification, configuration conditional not universal, unresolved recurring discharge, no generic disconnection/charging/dangerous-goods procedure and four FAQs retained. Clarified AR/VI high-voltage battery charge-display wording. TH long inactivity may affect lifespan now explicit (avoids reading as extend lifespan); clarified VARTA assesses start-stop batteries, not the whole start-stop system.",
+        "All metadata read. AR/ID diagram restored storage-and-test record and resolved discharge cause; VI summary preserves one-start-not-assessment and unresolved repeat discharge. AR/ID/VI battery-warranty link anchors now accurately name the linked warranty guide."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "b390a2adc4a9128d198cb5468ad5207b70df3c203732dd139264627c2e2f96c2",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "133d289231f038bb1e76ec608416e43d77c629b690a5a42824628cfbd22bbd16",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "4464778f1dab1954f4bbc5a98abe502486ef1d5167b7cfc4dcd2089097969ca6",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "2f1d835fe4bbf10ac2d0f8483265fd6ccb8d0d0013711d0bed08b5be2efc0360",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "383db599324938b7dfc858e672cad537376e9946b2b8364d7307f99dd54865f6",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "6234a93877f05ac5ee8322c40e612d4391be0c2f51a3bfddfe51eb7b3e920bd2",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "7bfe8e6a20024f6d57133790b67e96df6b39a3b3f90e609886346a2f8a2b395c",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "d19d700182fdadaa04c47a4fda6647171a13093209c05bf75a10e8a085a54e37",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "1126f28855ec2344a73ca4f9b7a3d51390998673fca99fb2c06716111f6215a4",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "internal_links": {
+            "before": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "أدلة مشتري AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "أدلة مشتري AutoBridge",
+                "verified": "Opened2026-11-03"
+              }
+            ],
+            "after": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "أدلة مشتري AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "دليل ضمان بطارية السيارة الكهربائية",
+                "verified": "Opened2026-11-03"
+              }
+            ]
+          },
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح هوية البطارية المساعدة، طريقة اختبار مناسبة، التشخيص والإجراء. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح هوية البطارية، سجل التخزين والاختبار، سبب التفريغ الذي جرى حله. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          },
+          "diagram_labels": {
+            "before": [
+              "هوية البطارية المساعدة",
+              "طريقة اختبار مناسبة",
+              "التشخيص والإجراء"
+            ],
+            "after": [
+              "هوية البطارية",
+              "سجل التخزين والاختبار",
+              "سبب التفريغ الذي جرى حله"
+            ]
+          }
+        },
+        "seo_id.json": {
+          "internal_links": {
+            "before": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "Panduan pembeli AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "Panduan pembeli AutoBridge",
+                "verified": "Opened2026-11-03"
+              }
+            ],
+            "after": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "Panduan pembeli AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "Panduan garansi baterai EV",
+                "verified": "Opened2026-11-03"
+              }
+            ]
+          },
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Identitas baterai tambahan, Metode uji sesuai, Diagnosis dan tindakan. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Identitas baterai, Catatan penyimpanan dan pengujian, Penyebab pengosongan yang sudah diselesaikan. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis."
+          },
+          "diagram_labels": {
+            "before": [
+              "Identitas baterai tambahan",
+              "Metode uji sesuai",
+              "Diagnosis dan tindakan"
+            ],
+            "after": [
+              "Identitas baterai",
+              "Catatan penyimpanan dan pengujian",
+              "Penyebab pengosongan yang sudah diselesaikan"
+            ]
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "Đánh giá nhận dạng ắc quy phụ, lịch sử lưu kho và thử chuyên nghiệp; tách điện áp thấp khỏi sức khỏe pin kéo.",
+            "after": "Một lần khởi động hoặc bật hệ thống thành công không phải đánh giá đầy đủ ắc quy phụ. Theo dõi lịch sử lưu kho, công nghệ thực tế đang lắp, kết quả thử và mọi lần hết điện lặp lại chưa được giải quyết."
+          },
+          "internal_links": {
+            "before": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "Hướng dẫn người mua AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "Hướng dẫn người mua AutoBridge",
+                "verified": "Opened2026-11-03"
+              }
+            ],
+            "after": [
+              {
+                "url": "https://www.autobridgeexport.com/guides/",
+                "anchor": "Hướng dẫn người mua AutoBridge",
+                "verified": "Opened2026-11-03"
+              },
+              {
+                "url": "https://www.autobridgeexport.com/guides/battery-warranty-global.html",
+                "anchor": "Hướng dẫn bảo hành pin EV",
+                "verified": "Opened2026-11-03"
+              }
+            ]
+          },
+          "diagram_alt": {
+            "before": "Sơ đồ biên tập minh họa: Nhận dạng ắc quy, Lưu kho và phép thử, Nguyên nhân đã xử lý. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.",
+            "after": "Sơ đồ biên tập minh họa: Nhận dạng ắc quy, Hồ sơ lưu kho và phép thử, Nguyên nhân hết điện đã xử lý. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          },
+          "diagram_labels": {
+            "before": [
+              "Nhận dạng ắc quy",
+              "Lưu kho và phép thử",
+              "Nguyên nhân đã xử lý"
+            ],
+            "after": [
+              "Nhận dạng ắc quy",
+              "Hồ sơ lưu kho và phép thử",
+              "Nguyên nhân hết điện đã xử lý"
+            ]
+          }
+        },
+        "seo_th.json": {
+          "diagram_caption": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: ตัวตนแบตเตอรี่, ประวัติเก็บและผลตรวจ, สาเหตุไฟหมดที่แก้แล้ว ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 34,
+            "english_paragraph_count": 34,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    },
+    "tire-evidence-before-imported-car-purchase": {
+      "checks": [
+        "Full EN/AR/ID/VI/TH read: per-wheel identity and spare, vehicle-recommended pressure not sidewall max, Dec 2006 Continental US/Canada/Mexico historical-only scope, nonoriginal/staggered fitment assessment, DOT four-digit week/year not registration, manufacturer age guidance not universal law, separate tread/visual/pressure conditions, no unsupported remote alignment or roadworthiness diagnosis, promised-versus-completed replacement and all four FAQs retained. Corrected AR verb agreement before Continental bulletin; no factual modification.",
+        "All metadata read. VI summary restores per-tire evidence, unclear markings, uneven wear and replacement promises; AR/ID diagram concepts aligned to individual evidence/resolved exceptions. No remote-roadworthiness or legal-threshold claim added."
+      ],
+      "files": {
+        "en.md": {
+          "sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "ar.md": {
+          "sha256": "d76919c42269c1538c1c9d46079d30548ea4cc536bc73edc8a4edd39caa824e8",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "id.md": {
+          "sha256": "cb4aae3c9e5c0a4d03e468ee1ee137560a24e085b71e78d24e3f2dc4cae97b47",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "vi.md": {
+          "sha256": "94a6663e38db5d30c483adef9148ba0b1673693837fcf63e34854dada3d6f75a",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "th.md": {
+          "sha256": "d00d22d43a5fcd1f52833ffb97604f267e3537fe8c44269922ddc4405b611bbb",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_en.json": {
+          "sha256": "3c77ffeda3703fdddb3f0463517197e06c4914e781d432b036ce95fea33c93fa",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "English comparison reference"
+        },
+        "seo_ar.json": {
+          "sha256": "b3052907a40d90642c61189593c0817da92394966c65cb2471e399362be7088d",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_id.json": {
+          "sha256": "a66e163c27c5d638b4672876e920443d8b97bd666dc6c77513bf790309760e70",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_vi.json": {
+          "sha256": "d0741081aec58b6bb0cd3ea943a56006ed1cbebdeefe1d90b834e755115620e9",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        },
+        "seo_th.json": {
+          "sha256": "3ec798a186f27a31fed037f062d2d712690870daa661c2e2dbff44b9ce52731e",
+          "full_semantic_read": true,
+          "reviewed_utc": "2026-11-03T13:08:48.903526+00:00",
+          "role": "Independent AI localization review"
+        }
+      },
+      "metadata_corrections": {
+        "seo_ar.json": {
+          "diagram_alt": {
+            "before": "رسم تحريري أصلي يوضح مواصفة السيارة، سجل لكل إطار، النتائج والمعالجة. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية.",
+            "after": "رسم تحريري أصلي يوضح مواصفة السيارة، أدلة كل إطار، الملاحظات الاستثنائية التي حُسمت. ليس صورة سيارة أو نتيجة فحص أو تعليمات إصلاح تقنية."
+          },
+          "diagram_labels": {
+            "before": [
+              "مواصفة السيارة",
+              "سجل لكل إطار",
+              "النتائج والمعالجة"
+            ],
+            "after": [
+              "مواصفة السيارة",
+              "أدلة كل إطار",
+              "الملاحظات الاستثنائية التي حُسمت"
+            ]
+          }
+        },
+        "seo_id.json": {
+          "diagram_alt": {
+            "before": "Diagram editorial orisinal: Spesifikasi kendaraan, Catatan setiap ban, Temuan dan penyelesaian. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis.",
+            "after": "Diagram editorial orisinal: Spesifikasi kendaraan, Bukti setiap ban, Pengecualian yang sudah diselesaikan. Bukan foto kendaraan, hasil inspeksi atau petunjuk perbaikan teknis."
+          },
+          "diagram_labels": {
+            "before": [
+              "Spesifikasi kendaraan",
+              "Catatan setiap ban",
+              "Temuan dan penyelesaian"
+            ],
+            "after": [
+              "Spesifikasi kendaraan",
+              "Bukti setiap ban",
+              "Pengecualian yang sudah diselesaikan"
+            ]
+          }
+        },
+        "seo_vi.json": {
+          "summary": {
+            "before": "Đối chiếu thông số lốp, tuổi, tình trạng đo và hồ sơ thay trước mua xe nước ngoài; ảnh không thay kiểm tra.",
+            "after": "Hồ sơ mua theo từng lốp tách độ phù hợp lắp đặt khỏi tuổi và tình trạng. Nó giúp người mua nước ngoài xử lý cụ thể ký hiệu chưa rõ, mòn không đều và lời hứa thay lốp."
+          },
+          "diagram_caption": {
+            "before": "Khung tham khảo minh họa; không xác nhận kiểm tra chiếc xe cụ thể.",
+            "after": "Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào."
+          }
+        },
+        "seo_th.json": {
+          "diagram_caption": {
+            "before": "แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: ข้อกำหนดของรถ, หลักฐานยางแต่ละเส้น, ประเด็นค้างที่แก้แล้ว ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค",
+            "after": "กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ"
+          }
+        }
+      },
+      "status": "complete",
+      "unresolved_translation_issues": [],
+      "review_languages": {
+        "ar": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "id": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "vi": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        },
+        "th": {
+          "status": "complete",
+          "full_body_semantic_comparison": true,
+          "full_metadata_semantic_comparison": true,
+          "read_scope": "Every paragraph, heading, FAQ and source-list item; all SEO fields read and compared with English source.",
+          "supplemental_structural_checks": {
+            "body_paragraph_count": 30,
+            "english_paragraph_count": 30,
+            "faq_count": 4,
+            "english_faq_count": 4,
+            "source_and_internal_body_links_same_order": true,
+            "metadata_h1_matches_body": true,
+            "metadata_identity_fields_match": true,
+            "metadata_language_correct": true,
+            "metadata_internal_urls_match": true,
+            "human_reviewed_false": true,
+            "publish_approved_false": true
+          }
+        }
+      }
+    }
+  },
+  "unresolved": [
+    {
+      "type": "source_date_conflict",
+      "article": "byd-atto-2",
+      "detail": "English-source Turkish brochure states 11 March 2026 in equipment note and 11 March 2025 on final page. Conflict remains unresolved and is explicitly retained in all four target bodies. No model-year inference made."
+    },
+    {
+      "type": "research_threshold_not_met",
+      "articles": [
+        "leapmotor-b10",
+        "leapmotor-b05",
+        "byd-atto-2",
+        "byd-sealion-7",
+        "zeekr-009"
+      ],
+      "detail": "Five vehicle articles remain conditional and do not meet six sources/four organizations. This localization review does not cure source sufficiency or grant publication approval."
+    }
+  ],
+  "updated_utc": "2026-11-03T13:08:48.903526+00:00",
+  "status": "complete",
+  "coverage": {
+    "article_count": 10,
+    "target_languages": [
+      "ar",
+      "id",
+      "vi",
+      "th"
+    ],
+    "target_bodies_full_read": 40,
+    "target_metadata_full_read": 40,
+    "english_bodies_full_read": 10,
+    "english_metadata_full_read": 10,
+    "hashed_files": 100,
+    "semantic_read_completed": true,
+    "latest_body_change_reconciliation": "No unreviewed changes since last full body reads; own corrections reread in context/diff and hashes updated.",
+    "metadata_change_reconciliation": "All changed metadata fields reread after writing; no unreviewed author updates remained."
+  },
+  "supplemental_check_failures": [],
+  "review_limitations": [
+    "Independent AI editorial review, not human native-speaker certification.",
+    "Semantic fidelity to provided English sources assessed; live source facts were not independently re-researched in this review.",
+    "No full-site duplicate-free guarantee.",
+    "Diagram text reviewed; generated image rendering and final publication build are outside this review."
+  ]
+}

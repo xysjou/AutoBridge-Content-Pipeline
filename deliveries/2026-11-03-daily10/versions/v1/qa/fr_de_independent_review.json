@@ -1,0 +1,350 @@
+{
+  "reviewer": "Independent AI-assisted editorial reviewer; not human approval",
+  "review_type": "Full semantic reading against English by independent AI reviewer; not human native review",
+  "status": "Independent AI semantic review completed for all20; requested date and locale corrections verified. Human native review not performed.",
+  "corrections_made": [
+    "German ATTO2 folded-seat cargo wording corrected to say volume requires folding passenger seats, not merely having seats."
+  ],
+  "articles": [
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "e73555d7df6b3a6b201337437ad4ad8b9f5d57934f83b8169bf4e6e72774d9fc",
+      "pending_corrections": [],
+      "final_sha256": "e73555d7df6b3a6b201337437ad4ad8b9f5d57934f83b8169bf4e6e72774d9fc"
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "775964dd0ae9cad73d42664b840b2f36c4ca53d80840da1e8a79ab880d13ad98",
+      "pending_corrections": [],
+      "final_sha256": "775964dd0ae9cad73d42664b840b2f36c4ca53d80840da1e8a79ab880d13ad98"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "2971ff802cdc681365086dc9f1513533968b4ef6070198b45f45f673127a0288",
+      "pending_corrections": [],
+      "final_sha256": "919bbfaf52fd32e831983f3db6934faa405334c64607f3afab331147baaedb8b"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "7f158ca8937a74f4cf5058b8bb918fa35c205546ad6eeb4006f3e5c52d39547c",
+      "pending_corrections": [],
+      "final_sha256": "bcb1400be57d1a2126f920381d0d89191a8555df81ed4b0f2a5e26184dbfcc67"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "b38acb0922e8d8750175029546af0c263db6838e7b095b3f19d1a8f1d2d9456b",
+      "pending_corrections": [],
+      "final_sha256": "5d16cb3b387ba28e1440e27366d866d4be0907948ccbb084c2eb74c04eb22e48"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "5c91ba924279dcf26dbdc99e8d592c1b1d19cdaf7913e5a2fc052bace2fd7826",
+      "pending_corrections": [],
+      "final_sha256": "3b40a170c488131bb73b57fc949e61e86f21d07564455400f041222ecf97f4fc"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "dcd4d50e6f432f404623ff9a0f0f2a13c2e76f28296e5bdf0bc669b4d4fccef2",
+      "pending_corrections": [],
+      "final_sha256": "dcd4d50e6f432f404623ff9a0f0f2a13c2e76f28296e5bdf0bc669b4d4fccef2"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "a6dc51ed65e912a4fdc5b7fd00f9d7712ab0097bbe603797af1ccfeedb8829bf",
+      "pending_corrections": [],
+      "final_sha256": "a6dc51ed65e912a4fdc5b7fd00f9d7712ab0097bbe603797af1ccfeedb8829bf"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "6353df4adf0988e367dc9575400aa27347f160980a962c8df8e35d47e27d1a37",
+      "pending_corrections": [],
+      "final_sha256": "6353df4adf0988e367dc9575400aa27347f160980a962c8df8e35d47e27d1a37"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "1d4faee4b69f880ed62fcc5b60c911b68accbc6d8c70d6332346bfcce6d19694",
+      "pending_corrections": [],
+      "final_sha256": "1d4faee4b69f880ed62fcc5b60c911b68accbc6d8c70d6332346bfcce6d19694"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "6b3a910c84090b664747bbbf74d792ca046fb1ea8153e2b76c5ac670a8f1047d",
+      "pending_corrections": [],
+      "final_sha256": "e52f8a7100d7c4dfc03dd4a122fa13adbfb7797db3d7976602c315920e47bc26"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "e9b112b940ae8e886c3691fa5a939b565c703349dc51ad10fd2107eec06e8aa6",
+      "pending_corrections": [],
+      "final_sha256": "f441ab20842e42b3b791f6c963dfb4436b79512b4f36969d4f8c9fa2aaf1f0d8"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "309b918452b888142aceb6d4db5b4a58f36512152c61cf41370843547b8af5ca",
+      "pending_corrections": [],
+      "final_sha256": "9d3046719063a82c77e949ff437ae14d01870b5f573bf02e164b82da624a3527"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "90a0702e44d0f6deb7337546d167fc4ce67951aa1d6869726af5dab11eae766a",
+      "pending_corrections": [],
+      "final_sha256": "a5a592a197724cf66335e869bff0bce1a7db145cbfa5194040866395c4b874e6"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "7d38103e516c8e1968c847c674b0543c4770bb87b552fc5c9e297ce80b88343c",
+      "pending_corrections": [],
+      "final_sha256": "7d38103e516c8e1968c847c674b0543c4770bb87b552fc5c9e297ce80b88343c"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "72a32b53f935874c79b382f8131f3488c8898a20e720edacbb77f5aebf44cc85",
+      "pending_corrections": [],
+      "final_sha256": "72a32b53f935874c79b382f8131f3488c8898a20e720edacbb77f5aebf44cc85"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "28890f2e522cc4500e4d21dedb56c0798ecbca6d92eb3ef183ce1e139ae4e87a",
+      "pending_corrections": [],
+      "final_sha256": "28890f2e522cc4500e4d21dedb56c0798ecbca6d92eb3ef183ce1e139ae4e87a"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "4ce6da5f97edcfa35d0a243b6b15fbeede85a5166726878ee7c9e1922ddd4687",
+      "pending_corrections": [],
+      "final_sha256": "4ce6da5f97edcfa35d0a243b6b15fbeede85a5166726878ee7c9e1922ddd4687"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "fr",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "24992605f75cedc63b9c0702981dc2840b61493099ca754d3052c96bf46a9d1f",
+      "pending_corrections": [],
+      "final_sha256": "3bf7140d8a3436e7a29c5c2602780b9afe30519e747abdaf64c900f815501b11"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "de",
+      "full_text_read": true,
+      "english_compared": true,
+      "scope": [
+        "claims",
+        "negations",
+        "market and date boundaries",
+        "figures and units",
+        "FAQ",
+        "source links"
+      ],
+      "sha256_at_review": "2b5109b85a32fbf1a7e1b1b748fdebe3d074f8e12f162148750d9dff5ed04e81",
+      "pending_corrections": [],
+      "final_sha256": "0896174a99fc5e9bcfd34b724610dc6805123c4a43a60a7d4fc064cd917b3288"
+    }
+  ]
+}

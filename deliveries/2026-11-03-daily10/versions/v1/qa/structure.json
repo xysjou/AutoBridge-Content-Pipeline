@@ -1,0 +1,4586 @@
+{
+  "date_utc": "2026-11-03T13:09:04.530369+00:00",
+  "method": "Mechanical complete-file structure, source-URL equality, identifier, length and hash checks. Unicode alphanumeric character five-gram Jaccard after URL removal; within this batch only, not global/historical semantic dedup. Not human or semantic translation approval.",
+  "expected": 120,
+  "checked": 120,
+  "checks": [
+    {
+      "slug": "leapmotor-b10",
+      "language": "en",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "characters": 7623,
+      "whitespace_words": 1121,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "fr",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "9d3046719063a82c77e949ff437ae14d01870b5f573bf02e164b82da624a3527",
+      "characters": 7570,
+      "whitespace_words": 1139,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "de",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "a5a592a197724cf66335e869bff0bce1a7db145cbfa5194040866395c4b874e6",
+      "characters": 7614,
+      "whitespace_words": 923,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "es",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "91e99ff1d42b2a3215824b1506232651cb7e81e29f6a88a9787b9b396a74c461",
+      "characters": 7550,
+      "whitespace_words": 1131,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "pt",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "ec161141fff9bd2d5ef0c822ea1da20abba4c7e6211f955a70095efaf26e3a35",
+      "characters": 7401,
+      "whitespace_words": 1118,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "1c67b93e57e0ee22bdee50323c0cff12b09c0fec2ee3f65b36e0d68948656530",
+      "characters": 3038,
+      "whitespace_words": 55,
+      "han_characters": 986,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ko",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "8fb877ab442086b700e83f8288d505530452f7e0d5bdc0c75c7af3c92188c325",
+      "characters": 3672,
+      "whitespace_words": 797,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "vi",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "6d649f4f8696d6e66930f144161a6199f8761d3cd990c9e8012f8b07398a752b",
+      "characters": 7088,
+      "whitespace_words": 1488,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "th",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "d2e74a411e440f03a28e4a95fe543e50692ddc9bdbe6fb13a5355ae0dae41258",
+      "characters": 5441,
+      "whitespace_words": 265,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "id",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "f9053f2a3ba0ce4b2daa7f93891c077af0c55d53fde03f214bdf689d7b110f26",
+      "characters": 7808,
+      "whitespace_words": 981,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ar",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "9b01f456aeb8341386540cf6f82e7b43bd9bfa0a7651e2fea5aae3efc7c95b49",
+      "characters": 5864,
+      "whitespace_words": 919,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "zh",
+      "article_id": "AB-261103-D10-V01",
+      "sha256": "c37f9b390b805d536b0e36e0c13116b9b0313ece1f4cbd3def504180684b860d",
+      "characters": 2616,
+      "whitespace_words": 137,
+      "han_characters": 1732,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "en",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "characters": 7619,
+      "whitespace_words": 1079,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "fr",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "e52f8a7100d7c4dfc03dd4a122fa13adbfb7797db3d7976602c315920e47bc26",
+      "characters": 7705,
+      "whitespace_words": 1080,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "de",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "f441ab20842e42b3b791f6c963dfb4436b79512b4f36969d4f8c9fa2aaf1f0d8",
+      "characters": 7678,
+      "whitespace_words": 887,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "es",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "8f6b5d8c25d24dedc8768acd9944ce7173a9dc300a2f10e07ffc81bf446063f2",
+      "characters": 7478,
+      "whitespace_words": 1062,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "pt",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "fc7e206efc186e0c9ae2d0e9f1351e96a61530098ad27e5283930314c733303f",
+      "characters": 7528,
+      "whitespace_words": 1069,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ja",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "a24789906af26c76120275a9ae5ab4d60aca2d646ee7c168720fa3ef32054b75",
+      "characters": 3137,
+      "whitespace_words": 47,
+      "han_characters": 943,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ko",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "99b78538db9a1e109dede99453ddbb8df472ab1da966874e21015d6af6ea5526",
+      "characters": 3673,
+      "whitespace_words": 717,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "vi",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "c500aa2b6a107d4818dbf268734e2558f6ac67fd53a86ff1a14505a19fdcd512",
+      "characters": 6591,
+      "whitespace_words": 1313,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "th",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "18bc8185b4e2e2515dce3c2949b39eb7a188812ccf01b71f548766843061fc3f",
+      "characters": 5114,
+      "whitespace_words": 221,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "id",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "4dce5c02db3f1e2fa5408739691303798228f4bdb6c59ca28bc019f0e6ee2113",
+      "characters": 7457,
+      "whitespace_words": 888,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ar",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "b230b937386fb7ac678d498f14ad513592c887dde6da2f2f96c51c981b69b919",
+      "characters": 5740,
+      "whitespace_words": 839,
+      "han_characters": 0,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "zh",
+      "article_id": "AB-261103-D10-V02",
+      "sha256": "5473aece0ccf4b1a24db45c2a714b8e3fb8535db8865ae2a4fdcc363329e0cf4",
+      "characters": 2756,
+      "whitespace_words": 127,
+      "han_characters": 1590,
+      "url_count": 5,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "en",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "characters": 8356,
+      "whitespace_words": 1249,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "fr",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "919bbfaf52fd32e831983f3db6934faa405334c64607f3afab331147baaedb8b",
+      "characters": 8647,
+      "whitespace_words": 1289,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "de",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "bcb1400be57d1a2126f920381d0d89191a8555df81ed4b0f2a5e26184dbfcc67",
+      "characters": 8662,
+      "whitespace_words": 1079,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "es",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "cb1d1fd9f78d014a66361f59b2e36510b34cc6a643c66fd74101a19290a8cedb",
+      "characters": 8812,
+      "whitespace_words": 1344,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "pt",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "739f6a5513eb9f223365c38e5245805d599b4b3013c635513414f24f39138d55",
+      "characters": 8451,
+      "whitespace_words": 1278,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ja",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "007c03198957babc36a7099b96356b6a5951587f5a7fe5df6cad0c6ed6047601",
+      "characters": 3389,
+      "whitespace_words": 63,
+      "han_characters": 1075,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ko",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "62770d158f288b791295fe7629cb9fe1292dc1bb45f817571b0468616ef0caff",
+      "characters": 3977,
+      "whitespace_words": 911,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "vi",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "4f355aa5af44df3ebb0e01ccf2f93c2718ea19dae8bc7ff84153327dfa142258",
+      "characters": 6986,
+      "whitespace_words": 1469,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "th",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "a649ce4a15ab729cad55d7fba438fbebe3c7bbcc3e088174aefa8fc77704e750",
+      "characters": 5363,
+      "whitespace_words": 291,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "id",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "945080ca4031aa966f59ba1aa1be3eb4ad84eb574fe5a0a8c29382aa169ad801",
+      "characters": 7934,
+      "whitespace_words": 1029,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ar",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "fe9294155348e2d4c41b77e175c466dab8e0e590356537322661b4aa877ea3a8",
+      "characters": 6047,
+      "whitespace_words": 972,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "zh",
+      "article_id": "AB-261103-D10-V03",
+      "sha256": "ee7c59ee0f36c9b75ab4bbc52f53fa4fdfd789da5cfd6e5e0d3497535ca5732e",
+      "characters": 2676,
+      "whitespace_words": 91,
+      "han_characters": 1889,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "en",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "characters": 7867,
+      "whitespace_words": 1166,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "fr",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "5d16cb3b387ba28e1440e27366d866d4be0907948ccbb084c2eb74c04eb22e48",
+      "characters": 8060,
+      "whitespace_words": 1193,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "de",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "3b40a170c488131bb73b57fc949e61e86f21d07564455400f041222ecf97f4fc",
+      "characters": 8088,
+      "whitespace_words": 987,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "es",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "9801bda3c109e0b59439cebf2d83dbbd39445d1698b88b53479b50e85cbf6225",
+      "characters": 8069,
+      "whitespace_words": 1207,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "pt",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "f6f1d1d09627fa2cc7895b564870d0b7c449c526f471e9951a3a490eeda2dcd9",
+      "characters": 7851,
+      "whitespace_words": 1181,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ja",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "903e1fb4d090560809e802b903d177898d672a3b1e1410ff079239d1db3488f8",
+      "characters": 3160,
+      "whitespace_words": 77,
+      "han_characters": 1016,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ko",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "aa519bf061624c642f375713cf99103af6aa0ecd5e30afa04567e44a2d460165",
+      "characters": 3735,
+      "whitespace_words": 831,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "vi",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "04d1eab0cbd3e5ad57e30f56105c0f00c44a318ae4871b01cb5f5ec24b63ac12",
+      "characters": 6974,
+      "whitespace_words": 1466,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "th",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "4e9a24dc23ce91ea32bf3f0ee47e23bfb399211c80a1f27aa1cd819dc34ad0f0",
+      "characters": 5240,
+      "whitespace_words": 279,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "id",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "90ffa1c934fd5499c6574fa5c908580b5a8d16ec0148dd20a5b488f07446d199",
+      "characters": 7504,
+      "whitespace_words": 951,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ar",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "b1795034f374b0c5c7650bd5302259d8c1eb2181210a59806dcc8e517ffc9295",
+      "characters": 5543,
+      "whitespace_words": 881,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "zh",
+      "article_id": "AB-261103-D10-V04",
+      "sha256": "824b62ec0bc47ebc118a1feacde3f3e0d366b089b89e7deb640a79fea3b02b8f",
+      "characters": 2649,
+      "whitespace_words": 117,
+      "han_characters": 1629,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "en",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "characters": 8285,
+      "whitespace_words": 1220,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "fr",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "3bf7140d8a3436e7a29c5c2602780b9afe30519e747abdaf64c900f815501b11",
+      "characters": 8133,
+      "whitespace_words": 1181,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "de",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "0896174a99fc5e9bcfd34b724610dc6805123c4a43a60a7d4fc064cd917b3288",
+      "characters": 8083,
+      "whitespace_words": 1001,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "es",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "52ec04742b36f181385ab3f5ec6259755713d2371cb42de7a52f2e248468312a",
+      "characters": 8189,
+      "whitespace_words": 1218,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "pt",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "a428135e621dd9ad418d39cd09ab458a3e5f4d245285343f3a9e1be8ea85017c",
+      "characters": 8007,
+      "whitespace_words": 1196,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "5ea733d7497ee366ef6d43f2593be907da74dc32d4e2f6ae1921ade06e48e8ec",
+      "characters": 3159,
+      "whitespace_words": 57,
+      "han_characters": 977,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "0c726f89aa1c98aa73fd20c21a559b634b85b024ed2743120c2c387a71c70d8f",
+      "characters": 3721,
+      "whitespace_words": 813,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "vi",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "04da2b1f5747c0ac3c92b112db3e8444cef87d83437063cd7d9835d24db606fe",
+      "characters": 6827,
+      "whitespace_words": 1407,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "th",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "c9dcc88719927a82fb08e8a8406f906e5159b80f09abdf37d7d93f108731007e",
+      "characters": 5237,
+      "whitespace_words": 243,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "id",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "5229f048dce667c4a3de3745f99bb1a2446f58c0570bed3d8196ab5f11a03729",
+      "characters": 7761,
+      "whitespace_words": 982,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ar",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "2d2ee6a76069f3f08c20236a615af0aceb59d58666b17532d71efebd5fae2634",
+      "characters": 5652,
+      "whitespace_words": 890,
+      "han_characters": 0,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "zh",
+      "article_id": "AB-261103-D10-V05",
+      "sha256": "beab53902e3b8ca301e2866e144ac30dbe00676d90d2aba6a726a2168395ceb0",
+      "characters": 2608,
+      "whitespace_words": 74,
+      "han_characters": 1721,
+      "url_count": 3,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "en",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "characters": 9261,
+      "whitespace_words": 1302,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "fr",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "28890f2e522cc4500e4d21dedb56c0798ecbca6d92eb3ef183ce1e139ae4e87a",
+      "characters": 8778,
+      "whitespace_words": 1238,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "de",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "4ce6da5f97edcfa35d0a243b6b15fbeede85a5166726878ee7c9e1922ddd4687",
+      "characters": 8412,
+      "whitespace_words": 977,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "es",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "5a93ab4020334e4406b72ba0f3092286b178d2ae2b6c0d7cd5fbce29ee7b3f4e",
+      "characters": 8240,
+      "whitespace_words": 1140,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "pt",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "55331c87d1b2914c40015fd910b8334b8c232c05e2d21e1514a59a52f0b8b5e1",
+      "characters": 8075,
+      "whitespace_words": 1141,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ja",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "3de1cdb4e9da5d1f739e0e5cbb6e009e61eb760cdcd5aa5279c690e96468e032",
+      "characters": 3200,
+      "whitespace_words": 53,
+      "han_characters": 1077,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ko",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "a4b0425b5e50ec1b25abf092afe59c6d5060695aae4949eb7e5516ba5e305f22",
+      "characters": 3686,
+      "whitespace_words": 768,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "vi",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "94a6663e38db5d30c483adef9148ba0b1673693837fcf63e34854dada3d6f75a",
+      "characters": 7692,
+      "whitespace_words": 1571,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "th",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "d00d22d43a5fcd1f52833ffb97604f267e3537fe8c44269922ddc4405b611bbb",
+      "characters": 6314,
+      "whitespace_words": 217,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "id",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "cb4aae3c9e5c0a4d03e468ee1ee137560a24e085b71e78d24e3f2dc4cae97b47",
+      "characters": 8484,
+      "whitespace_words": 1025,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ar",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "d76919c42269c1538c1c9d46079d30548ea4cc536bc73edc8a4edd39caa824e8",
+      "characters": 6100,
+      "whitespace_words": 896,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "zh",
+      "article_id": "AB-261103-D10-G01",
+      "sha256": "ecfdae0db887069ed0307e72c7bbef651fd155803fa5d6b9c8cd5aa0b6cc1c49",
+      "characters": 2674,
+      "whitespace_words": 53,
+      "han_characters": 1825,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "en",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "characters": 9200,
+      "whitespace_words": 1262,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "fr",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "e73555d7df6b3a6b201337437ad4ad8b9f5d57934f83b8169bf4e6e72774d9fc",
+      "characters": 9012,
+      "whitespace_words": 1255,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "de",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "775964dd0ae9cad73d42664b840b2f36c4ca53d80840da1e8a79ab880d13ad98",
+      "characters": 8650,
+      "whitespace_words": 974,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "es",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "8b0a72e0985124821f27fcb0f9697e10d6d062b97ee8241163ef5f65629ae5dc",
+      "characters": 8578,
+      "whitespace_words": 1179,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "pt",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "17fd4e206a289196ad193c551a42d76bc69796eb9a063ff74a4863d3cecc55dc",
+      "characters": 8242,
+      "whitespace_words": 1135,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ja",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "7656d708aba76bf42012a8f8d763548a7367489d6cc3b632c4ba2ca7052c423e",
+      "characters": 3324,
+      "whitespace_words": 55,
+      "han_characters": 1093,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ko",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "9cf9003dc5ea23e9c6f1bd2fa8fcb1049b72b7c31fe4a2c2df2a670e422a023f",
+      "characters": 3851,
+      "whitespace_words": 782,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "vi",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "daba56549fa1927967886ae8ac1496ecbba367e609ad62a6a8c315f36f5f372c",
+      "characters": 7582,
+      "whitespace_words": 1506,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "th",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "11d84d76eb8f009cfb6405690d6c813998a7b2970efe0565d0a373ceb999385f",
+      "characters": 6071,
+      "whitespace_words": 221,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "id",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "64f183d272c9768878750e3f7154daf87588e51e5feaceed79d4d8a4b7a97662",
+      "characters": 8518,
+      "whitespace_words": 984,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ar",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "9b7be56938e98f2a375a139950fdcfca2d3f938b55b6e87eede290c4e12183f8",
+      "characters": 6105,
+      "whitespace_words": 900,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "zh",
+      "article_id": "AB-261103-D10-G02",
+      "sha256": "d4e1553b79aa5393ebb6b9dad0e1b04d165a324095ca389148f9946f94a9066f",
+      "characters": 2881,
+      "whitespace_words": 55,
+      "han_characters": 1882,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "en",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "characters": 9644,
+      "whitespace_words": 1340,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "fr",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "dcd4d50e6f432f404623ff9a0f0f2a13c2e76f28296e5bdf0bc669b4d4fccef2",
+      "characters": 9407,
+      "whitespace_words": 1292,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "de",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "a6dc51ed65e912a4fdc5b7fd00f9d7712ab0097bbe603797af1ccfeedb8829bf",
+      "characters": 9015,
+      "whitespace_words": 1017,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "es",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "c7964463d7b1be92ff931b5b7e5771728de91006198eecfcef5318f5a9790092",
+      "characters": 8919,
+      "whitespace_words": 1213,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "pt",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "b83589e97e5c9ed8bf253fae57e348b96da04eb669fe850780d1b8492d19cd0b",
+      "characters": 8660,
+      "whitespace_words": 1178,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ja",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "8ab402b6c426f260816e391112d2fd36a9deaf6db4a4d27e22f6b76ab2640f02",
+      "characters": 3737,
+      "whitespace_words": 62,
+      "han_characters": 1228,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ko",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "0257ce79095062e39ec5439d67a920a359c293ba425bb1f9256fbd57d1a47d7d",
+      "characters": 4341,
+      "whitespace_words": 913,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "vi",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "0a3379402e9560a5fd4e47848b433afed8aca88977551a8d4d3c7f0eec6a9ab5",
+      "characters": 7948,
+      "whitespace_words": 1624,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "th",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "f6ab2225f2e28fd5b00b0a12a580edfbea3c61625ed5292092c07f8d21d629c3",
+      "characters": 6413,
+      "whitespace_words": 207,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "id",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "854b38976bee4ff2d55e152b3ba40b05cd28ec20711c4d4ad5e5b9a066b259ac",
+      "characters": 9137,
+      "whitespace_words": 1098,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ar",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "0acb679e9203a39880280818397f2f510febae8614b15226ece4277e2707734f",
+      "characters": 6793,
+      "whitespace_words": 1006,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "zh",
+      "article_id": "AB-261103-D10-G03",
+      "sha256": "279a21c78607543f5082f18f16944f17d0bf2b3ad6636685bc93dca2c90d7fd1",
+      "characters": 3011,
+      "whitespace_words": 69,
+      "han_characters": 2101,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "en",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "characters": 9455,
+      "whitespace_words": 1362,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "fr",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "6353df4adf0988e367dc9575400aa27347f160980a962c8df8e35d47e27d1a37",
+      "characters": 8570,
+      "whitespace_words": 1211,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "de",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "1d4faee4b69f880ed62fcc5b60c911b68accbc6d8c70d6332346bfcce6d19694",
+      "characters": 8556,
+      "whitespace_words": 989,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "d2bdaf80ba8e391ad3c0f91c713bb3442eb6b1b6d613a2756f95be672f8f1abc",
+      "characters": 8150,
+      "whitespace_words": 1143,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "pt",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "05b84761524b42bc12b4df81de75ebd1c699a5c385970cb3fcb01bcb898c11c7",
+      "characters": 7801,
+      "whitespace_words": 1094,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ja",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "805f775f51e75337cb2d27e1ef2e1696d34bc80867d01443fba40c4539e93a64",
+      "characters": 3372,
+      "whitespace_words": 59,
+      "han_characters": 1161,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ko",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "48acbc70116eb79d2904e2a82361b2b948ad1b3fcdaf985fbcacaca0b9ee96ec",
+      "characters": 3955,
+      "whitespace_words": 882,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "vi",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "9a152df6e6a4d33401f06eb46a60ac0f6f040c0c8fc407ee830998f72a6cdb98",
+      "characters": 7598,
+      "whitespace_words": 1549,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "th",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "f926966d374f62b2570fe5a72660ebe8197e1d89cfd5e415d1b333d98c2bdcde",
+      "characters": 5955,
+      "whitespace_words": 216,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "id",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "4a783c0b8e432aaa295b5bb782471c9b6cdd5052d649ab302288059512d36de6",
+      "characters": 9053,
+      "whitespace_words": 1092,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ar",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "57679adbbbac9fc7fdb800d53b3d167c2cb3dad1df880ef55e0b3661da56da06",
+      "characters": 6436,
+      "whitespace_words": 981,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "zh",
+      "article_id": "AB-261103-D10-G04",
+      "sha256": "916966d14ebcf3cc230f4e9d20ae892db83c1ccd97835ce731d4c3731f4d5244",
+      "characters": 2783,
+      "whitespace_words": 61,
+      "han_characters": 1975,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "en",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "characters": 10007,
+      "whitespace_words": 1381,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "fr",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "7d38103e516c8e1968c847c674b0543c4770bb87b552fc5c9e297ce80b88343c",
+      "characters": 9274,
+      "whitespace_words": 1265,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "de",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "72a32b53f935874c79b382f8131f3488c8898a20e720edacbb77f5aebf44cc85",
+      "characters": 8548,
+      "whitespace_words": 953,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "es",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "657b58607f71e4e9eceb68eef9e302d9f6c7916eac2be567ed673b99caf26266",
+      "characters": 8596,
+      "whitespace_words": 1179,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "pt",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "48bf4d3b28ca808ef734ba04a9bad61e26beba0388ecc373e31d67bccf1adc26",
+      "characters": 8397,
+      "whitespace_words": 1160,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "77c92591a3b6719f078738a4b055499584214de835dce6a0cdba3fb8e7425bcc",
+      "characters": 3498,
+      "whitespace_words": 65,
+      "han_characters": 1231,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "ee3339c2f70661cd4a914ae3a5789975f887e0b086e048206c7e540c149762a5",
+      "characters": 4078,
+      "whitespace_words": 843,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "vi",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "4464778f1dab1954f4bbc5a98abe502486ef1d5167b7cfc4dcd2089097969ca6",
+      "characters": 7760,
+      "whitespace_words": 1558,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "th",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "2f1d835fe4bbf10ac2d0f8483265fd6ccb8d0d0013711d0bed08b5be2efc0360",
+      "characters": 6549,
+      "whitespace_words": 222,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "id",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "133d289231f038bb1e76ec608416e43d77c629b690a5a42824628cfbd22bbd16",
+      "characters": 9194,
+      "whitespace_words": 1077,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ar",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "b390a2adc4a9128d198cb5468ad5207b70df3c203732dd139264627c2e2f96c2",
+      "characters": 6679,
+      "whitespace_words": 981,
+      "han_characters": 0,
+      "url_count": 7,
+      "issues": []
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "zh",
+      "article_id": "AB-261103-D10-G05",
+      "sha256": "be73be4817f0a390f138e48491a484e1b88fd716e180e826f337b730923dbf63",
+      "characters": 2930,
+      "whitespace_words": 63,
+      "han_characters": 1887,
+      "url_count": 7,
+      "issues": []
+    }
+  ],
+  "errors": [],
+  "similarity_max": 0.227144,
+  "similarity_pairs": [
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.169654
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.158101
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.176447
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.157043
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.131816
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.129402
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.121131
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.126163
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.122765
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.15228
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.165924
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.158818
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.131214
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.127484
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.123836
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.126447
+    },
+    {
+      "language": "en",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.126285
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.146566
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.158778
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.12758
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.129359
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.122552
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.125163
+    },
+    {
+      "language": "en",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.128705
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.147469
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.12698
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.120501
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.116821
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.12918
+    },
+    {
+      "language": "en",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.123792
+    },
+    {
+      "language": "en",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.127848
+    },
+    {
+      "language": "en",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.11999
+    },
+    {
+      "language": "en",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.126513
+    },
+    {
+      "language": "en",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.123883
+    },
+    {
+      "language": "en",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.125238
+    },
+    {
+      "language": "en",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.150495
+    },
+    {
+      "language": "en",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.139573
+    },
+    {
+      "language": "en",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.14832
+    },
+    {
+      "language": "en",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.163725
+    },
+    {
+      "language": "en",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.141951
+    },
+    {
+      "language": "en",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.155308
+    },
+    {
+      "language": "en",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.160761
+    },
+    {
+      "language": "en",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.151883
+    },
+    {
+      "language": "en",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.13731
+    },
+    {
+      "language": "en",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.156187
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.186739
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.171421
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.183726
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.171228
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.131216
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.136567
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.124874
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.141303
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.136346
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.169502
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.172362
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.164707
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.136234
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.137598
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.135761
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.138193
+    },
+    {
+      "language": "fr",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.13784
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.176945
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.181054
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.136163
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.130627
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.134505
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.133935
+    },
+    {
+      "language": "fr",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.142089
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.166467
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.136655
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.135392
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.131053
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.134313
+    },
+    {
+      "language": "fr",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.139691
+    },
+    {
+      "language": "fr",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.131032
+    },
+    {
+      "language": "fr",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.121494
+    },
+    {
+      "language": "fr",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.135722
+    },
+    {
+      "language": "fr",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.131909
+    },
+    {
+      "language": "fr",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.124648
+    },
+    {
+      "language": "fr",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.149267
+    },
+    {
+      "language": "fr",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.144886
+    },
+    {
+      "language": "fr",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.151248
+    },
+    {
+      "language": "fr",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.161634
+    },
+    {
+      "language": "fr",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.154235
+    },
+    {
+      "language": "fr",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.161705
+    },
+    {
+      "language": "fr",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.153777
+    },
+    {
+      "language": "fr",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.151878
+    },
+    {
+      "language": "fr",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.140378
+    },
+    {
+      "language": "fr",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.147473
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.190134
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.163332
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.189916
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.172204
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.131286
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.134167
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.125744
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.135433
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.127581
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.161145
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.172694
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.165351
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.137984
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.143828
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.131476
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.142464
+    },
+    {
+      "language": "de",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.130717
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.173338
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.168344
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.135132
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.145754
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.133389
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.139706
+    },
+    {
+      "language": "de",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.145026
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.167651
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.13026
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.139906
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.128944
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.142509
+    },
+    {
+      "language": "de",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.131154
+    },
+    {
+      "language": "de",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.136917
+    },
+    {
+      "language": "de",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.135801
+    },
+    {
+      "language": "de",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.142146
+    },
+    {
+      "language": "de",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.145046
+    },
+    {
+      "language": "de",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.13357
+    },
+    {
+      "language": "de",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.149071
+    },
+    {
+      "language": "de",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.134312
+    },
+    {
+      "language": "de",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.145149
+    },
+    {
+      "language": "de",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.154494
+    },
+    {
+      "language": "de",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.146038
+    },
+    {
+      "language": "de",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.174974
+    },
+    {
+      "language": "de",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.166191
+    },
+    {
+      "language": "de",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.160061
+    },
+    {
+      "language": "de",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.13791
+    },
+    {
+      "language": "de",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.157942
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.193483
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.178663
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.17837
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.176638
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.125588
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.141538
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.136304
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.12668
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.125199
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.175843
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.166947
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.1594
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.129555
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.146611
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.140801
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.129515
+    },
+    {
+      "language": "es",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.126745
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.165639
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.178864
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.130303
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.142662
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.140152
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.139993
+    },
+    {
+      "language": "es",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.142269
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.163106
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.127753
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.132799
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.133074
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.135766
+    },
+    {
+      "language": "es",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.136225
+    },
+    {
+      "language": "es",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.12962
+    },
+    {
+      "language": "es",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.129646
+    },
+    {
+      "language": "es",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.135476
+    },
+    {
+      "language": "es",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.128553
+    },
+    {
+      "language": "es",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.121844
+    },
+    {
+      "language": "es",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.154779
+    },
+    {
+      "language": "es",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.139333
+    },
+    {
+      "language": "es",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.146898
+    },
+    {
+      "language": "es",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.146894
+    },
+    {
+      "language": "es",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.150761
+    },
+    {
+      "language": "es",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.160376
+    },
+    {
+      "language": "es",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.1621
+    },
+    {
+      "language": "es",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.160926
+    },
+    {
+      "language": "es",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.140367
+    },
+    {
+      "language": "es",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.146226
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.189282
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.155767
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.158305
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.160352
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.12197
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.129002
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.114621
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.123011
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.115195
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.15173
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.156154
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.153585
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.122944
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.134028
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.124882
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.127303
+    },
+    {
+      "language": "pt",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.118306
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.159959
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.171043
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.125437
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.133291
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.130478
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.130401
+    },
+    {
+      "language": "pt",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.129748
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.160363
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.126524
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.119682
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.121447
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.127986
+    },
+    {
+      "language": "pt",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.122616
+    },
+    {
+      "language": "pt",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.121851
+    },
+    {
+      "language": "pt",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.124174
+    },
+    {
+      "language": "pt",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.13699
+    },
+    {
+      "language": "pt",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.12449
+    },
+    {
+      "language": "pt",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.120334
+    },
+    {
+      "language": "pt",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.144301
+    },
+    {
+      "language": "pt",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.130492
+    },
+    {
+      "language": "pt",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.139351
+    },
+    {
+      "language": "pt",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.142624
+    },
+    {
+      "language": "pt",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.140388
+    },
+    {
+      "language": "pt",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.159844
+    },
+    {
+      "language": "pt",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.16476
+    },
+    {
+      "language": "pt",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.153242
+    },
+    {
+      "language": "pt",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.140691
+    },
+    {
+      "language": "pt",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.139764
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.031567
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.022368
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.027899
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.022421
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.012389
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.010372
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.008164
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.01084
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.010159
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.017322
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.014686
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.015671
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.009105
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.008382
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.007497
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.011152
+    },
+    {
+      "language": "ja",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.008873
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.02377
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.022811
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.008578
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.008547
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.009637
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.012636
+    },
+    {
+      "language": "ja",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.011004
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.019697
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.011693
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.010123
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.009946
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.01186
+    },
+    {
+      "language": "ja",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.010982
+    },
+    {
+      "language": "ja",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.012402
+    },
+    {
+      "language": "ja",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.010601
+    },
+    {
+      "language": "ja",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.00757
+    },
+    {
+      "language": "ja",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.012965
+    },
+    {
+      "language": "ja",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.011241
+    },
+    {
+      "language": "ja",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.015567
+    },
+    {
+      "language": "ja",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.013121
+    },
+    {
+      "language": "ja",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.016931
+    },
+    {
+      "language": "ja",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.016989
+    },
+    {
+      "language": "ja",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.012462
+    },
+    {
+      "language": "ja",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.014301
+    },
+    {
+      "language": "ja",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.019107
+    },
+    {
+      "language": "ja",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.015397
+    },
+    {
+      "language": "ja",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.013023
+    },
+    {
+      "language": "ja",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.018001
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.031634
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.005876
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.016477
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.008237
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.003161
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.003584
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.003283
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.001713
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.002628
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.007044
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.008819
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.005598
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.00166
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.002116
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.002576
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.0036
+    },
+    {
+      "language": "ko",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.001838
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.009097
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.01089
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.005625
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.005796
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.005924
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.008468
+    },
+    {
+      "language": "ko",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.005464
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.010994
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.00546
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.007004
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.005372
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.004965
+    },
+    {
+      "language": "ko",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.003082
+    },
+    {
+      "language": "ko",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.006659
+    },
+    {
+      "language": "ko",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.006374
+    },
+    {
+      "language": "ko",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.011307
+    },
+    {
+      "language": "ko",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.008956
+    },
+    {
+      "language": "ko",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.006009
+    },
+    {
+      "language": "ko",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.007905
+    },
+    {
+      "language": "ko",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.007005
+    },
+    {
+      "language": "ko",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.008005
+    },
+    {
+      "language": "ko",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.007041
+    },
+    {
+      "language": "ko",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.011424
+    },
+    {
+      "language": "ko",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.009499
+    },
+    {
+      "language": "ko",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.007663
+    },
+    {
+      "language": "ko",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.008099
+    },
+    {
+      "language": "ko",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.009934
+    },
+    {
+      "language": "ko",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.00625
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.128856
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.11641
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.137803
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.116139
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.079808
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.077638
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.072061
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.076063
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.071056
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.104
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.115542
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.101519
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.078267
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.079411
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.072055
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.074811
+    },
+    {
+      "language": "vi",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.066136
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.107153
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.113474
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.077499
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.077689
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.074609
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.076869
+    },
+    {
+      "language": "vi",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.075843
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.102044
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.078218
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.07963
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.068512
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.080499
+    },
+    {
+      "language": "vi",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.072808
+    },
+    {
+      "language": "vi",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.073073
+    },
+    {
+      "language": "vi",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.070202
+    },
+    {
+      "language": "vi",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.073849
+    },
+    {
+      "language": "vi",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.071872
+    },
+    {
+      "language": "vi",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.068074
+    },
+    {
+      "language": "vi",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.091772
+    },
+    {
+      "language": "vi",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.082918
+    },
+    {
+      "language": "vi",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.097793
+    },
+    {
+      "language": "vi",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.100733
+    },
+    {
+      "language": "vi",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.086455
+    },
+    {
+      "language": "vi",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.092564
+    },
+    {
+      "language": "vi",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.091162
+    },
+    {
+      "language": "vi",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.087982
+    },
+    {
+      "language": "vi",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.082367
+    },
+    {
+      "language": "vi",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.096314
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.089828
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.076288
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.097353
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.073489
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.048464
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.051837
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.041067
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.043805
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.043875
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.059694
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.071823
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.05265
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.04285
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.039763
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.037634
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.039987
+    },
+    {
+      "language": "th",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.037524
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.068706
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.059785
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.040887
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.043079
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.036736
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.039403
+    },
+    {
+      "language": "th",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.040407
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.05514
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.043876
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.048296
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.035559
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.041809
+    },
+    {
+      "language": "th",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.043259
+    },
+    {
+      "language": "th",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.037942
+    },
+    {
+      "language": "th",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.036766
+    },
+    {
+      "language": "th",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.041064
+    },
+    {
+      "language": "th",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.039121
+    },
+    {
+      "language": "th",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.036437
+    },
+    {
+      "language": "th",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.057314
+    },
+    {
+      "language": "th",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.047398
+    },
+    {
+      "language": "th",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.057581
+    },
+    {
+      "language": "th",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.064722
+    },
+    {
+      "language": "th",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.051815
+    },
+    {
+      "language": "th",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.066518
+    },
+    {
+      "language": "th",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.055463
+    },
+    {
+      "language": "th",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.059773
+    },
+    {
+      "language": "th",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.050885
+    },
+    {
+      "language": "th",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.054249
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.227144
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.206079
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.216726
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.19997
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.171772
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.164524
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.158617
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.169271
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.165428
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.196431
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.193741
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.194102
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.164366
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.165311
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.154145
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.169251
+    },
+    {
+      "language": "id",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.161504
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.198703
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.189448
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.167035
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.157828
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.16091
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.156062
+    },
+    {
+      "language": "id",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.163968
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.184666
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.162193
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.158836
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.151278
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.159351
+    },
+    {
+      "language": "id",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.158703
+    },
+    {
+      "language": "id",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.163449
+    },
+    {
+      "language": "id",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.154652
+    },
+    {
+      "language": "id",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.160306
+    },
+    {
+      "language": "id",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.156666
+    },
+    {
+      "language": "id",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.152994
+    },
+    {
+      "language": "id",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.192684
+    },
+    {
+      "language": "id",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.177787
+    },
+    {
+      "language": "id",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.184394
+    },
+    {
+      "language": "id",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.208137
+    },
+    {
+      "language": "id",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.184009
+    },
+    {
+      "language": "id",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.202256
+    },
+    {
+      "language": "id",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.20359
+    },
+    {
+      "language": "id",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.194203
+    },
+    {
+      "language": "id",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.173877
+    },
+    {
+      "language": "id",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.183962
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.086107
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.088979
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.093473
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.080102
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.051642
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.049759
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.050712
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.053765
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.053907
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.076302
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.070867
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.067296
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.050238
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.048448
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.04753
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.044787
+    },
+    {
+      "language": "ar",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.05413
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.070056
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.082557
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.052107
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.048946
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.04551
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.05285
+    },
+    {
+      "language": "ar",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.050791
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.071097
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.047483
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.043274
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.040934
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.046803
+    },
+    {
+      "language": "ar",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.044277
+    },
+    {
+      "language": "ar",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.051658
+    },
+    {
+      "language": "ar",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.047422
+    },
+    {
+      "language": "ar",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.05415
+    },
+    {
+      "language": "ar",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.047297
+    },
+    {
+      "language": "ar",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.047709
+    },
+    {
+      "language": "ar",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.062286
+    },
+    {
+      "language": "ar",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.06226
+    },
+    {
+      "language": "ar",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.067937
+    },
+    {
+      "language": "ar",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.071764
+    },
+    {
+      "language": "ar",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.059439
+    },
+    {
+      "language": "ar",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.0755
+    },
+    {
+      "language": "ar",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.075606
+    },
+    {
+      "language": "ar",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.068543
+    },
+    {
+      "language": "ar",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.05917
+    },
+    {
+      "language": "ar",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.066073
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "leapmotor-b05",
+      "fivegram_jaccard": 0.010093
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.003759
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.012192
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.003402
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.001583
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.000517
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.001972
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.00076
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b10",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.000774
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "byd-atto-2",
+      "fivegram_jaccard": 0.003135
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.00495
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.001912
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.000513
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.001323
+    },
+    {
+      "language": "zh",
+      "a": "leapmotor-b05",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.000269
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "byd-sealion-7",
+      "fivegram_jaccard": 0.005081
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.006336
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.000763
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.000476
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.00049
+    },
+    {
+      "language": "zh",
+      "a": "byd-atto-2",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.000249
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "zeekr-009",
+      "fivegram_jaccard": 0.003979
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.002139
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.001497
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.001541
+    },
+    {
+      "language": "zh",
+      "a": "byd-sealion-7",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.000261
+    },
+    {
+      "language": "zh",
+      "a": "zeekr-009",
+      "b": "tire-evidence-before-imported-car-purchase",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "zeekr-009",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "zeekr-009",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.000497
+    },
+    {
+      "language": "zh",
+      "a": "zeekr-009",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.000256
+    },
+    {
+      "language": "zh",
+      "a": "zeekr-009",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "adas-windscreen-repair-evidence",
+      "fivegram_jaccard": 0.000789
+    },
+    {
+      "language": "zh",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.003518
+    },
+    {
+      "language": "zh",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.002586
+    },
+    {
+      "language": "zh",
+      "a": "tire-evidence-before-imported-car-purchase",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.001579
+    },
+    {
+      "language": "zh",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "connected-car-account-handover",
+      "fivegram_jaccard": 0.000984
+    },
+    {
+      "language": "zh",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.001013
+    },
+    {
+      "language": "zh",
+      "a": "adas-windscreen-repair-evidence",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.001547
+    },
+    {
+      "language": "zh",
+      "a": "connected-car-account-handover",
+      "b": "cross-border-vehicle-recall-check",
+      "fivegram_jaccard": 0.002419
+    },
+    {
+      "language": "zh",
+      "a": "connected-car-account-handover",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.000737
+    },
+    {
+      "language": "zh",
+      "a": "cross-border-vehicle-recall-check",
+      "b": "low-voltage-battery-storage-readiness",
+      "fivegram_jaccard": 0.001265
+    }
+  ],
+  "en_source_hashes": {
+    "leapmotor-b10": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+    "leapmotor-b05": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+    "byd-atto-2": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+    "byd-sealion-7": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+    "zeekr-009": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+    "tire-evidence-before-imported-car-purchase": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+    "adas-windscreen-repair-evidence": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+    "connected-car-account-handover": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+    "cross-border-vehicle-recall-check": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+    "low-voltage-battery-storage-readiness": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6"
+  },
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

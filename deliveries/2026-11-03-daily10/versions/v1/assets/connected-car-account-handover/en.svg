@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" xml:lang="en" role="img" aria-labelledby="title desc">
+<title id="title">Original editorial process diagram: Previous-owner access, Personal-data reset, Buyer ownership. Not a vehicle photograph, inspection result or technical repair instruction.</title><desc id="desc">Illustrative purchasing framework; no specific vehicle has been inspected.</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<rect x="50" y="25" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Previous-owner access</text>
+<rect x="50" y="170" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Personal-data reset</text>
+<rect x="50" y="315" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Buyer ownership</text>
+</svg>

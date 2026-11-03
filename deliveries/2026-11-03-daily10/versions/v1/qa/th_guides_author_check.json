@@ -1,0 +1,55 @@
+{
+  "status": "Full author readback and structural check; independent reviewer working separately, no human native approval",
+  "articles": [
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "full_author_readback": true,
+      "characters": 6071,
+      "url_sets_match": true,
+      "h1_matches_metadata": true,
+      "three_diagram_labels": true,
+      "flags_false": true,
+      "sha256_at_author_check": "11d84d76eb8f009cfb6405690d6c813998a7b2970efe0565d0a373ceb999385f"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "full_author_readback": true,
+      "characters": 6413,
+      "url_sets_match": true,
+      "h1_matches_metadata": true,
+      "three_diagram_labels": true,
+      "flags_false": true,
+      "sha256_at_author_check": "f6ab2225f2e28fd5b00b0a12a580edfbea3c61625ed5292092c07f8d21d629c3"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "full_author_readback": true,
+      "characters": 5955,
+      "url_sets_match": true,
+      "h1_matches_metadata": true,
+      "three_diagram_labels": true,
+      "flags_false": true,
+      "sha256_at_author_check": "f926966d374f62b2570fe5a72660ebe8197e1d89cfd5e415d1b333d98c2bdcde"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "full_author_readback": true,
+      "characters": 6523,
+      "url_sets_match": true,
+      "h1_matches_metadata": true,
+      "three_diagram_labels": true,
+      "flags_false": true,
+      "sha256_at_author_check": "df56710034c1a0b5920da0528cca1cc9bfbe3b07108f7bc0c279bf0136bf6d63"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "full_author_readback": true,
+      "characters": 6314,
+      "url_sets_match": true,
+      "h1_matches_metadata": true,
+      "three_diagram_labels": true,
+      "flags_false": true,
+      "sha256_at_author_check": "d00d22d43a5fcd1f52833ffb97604f267e3537fe8c44269922ddc4405b611bbb"
+    }
+  ]
+}

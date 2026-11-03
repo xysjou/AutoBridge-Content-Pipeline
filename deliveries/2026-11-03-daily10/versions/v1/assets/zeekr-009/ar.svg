@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" xml:lang="ar" role="img" aria-labelledby="title desc">
+<title id="title">رسم تحريري أصلي يوضح مدى Executive، مرجع Luxury بسبعة مقاعد، مرجع Ultra-Luxury بستة مقاعد. ليس صورة سيارة أو رسمًا بمقياس أو نتيجة فحص أو تعليمات إصلاح تقنية.</title><desc id="desc">إطار توضيحي للشراء؛ لم تُفحص سيارة محددة.</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<rect x="50" y="25" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="rtl">مدى Executive</text>
+<rect x="50" y="170" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="rtl">مرجع Luxury بسبعة مقاعد</text>
+<rect x="50" y="315" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="rtl">مرجع Ultra-Luxury بستة مقاعد</text>
+</svg>

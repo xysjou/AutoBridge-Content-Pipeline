@@ -1,0 +1,2288 @@
+{
+  "batch_id": "2026-11-03-D10",
+  "date": "2026-11-03",
+  "topic_count": 10,
+  "vehicle_topics": 5,
+  "guide_topics": 5,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "expected_bodies": 120,
+  "body_count": 120,
+  "metadata_count": 120,
+  "generated_diagram_count": 120,
+  "base_commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "delivery_mode": "Direct AI-assisted source-bound drafting; not a successful run of the separate content API pipeline.",
+  "external_paid_content_api_calls": 0,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "files": [
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/de.md",
+      "bytes": 8548,
+      "sha256": "4ce6da5f97edcfa35d0a243b6b15fbeede85a5166726878ee7c9e1922ddd4687",
+      "git_blob_sha": "ebd1c5de83f21675e415ebf28322a22497363e8b"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/zh.md",
+      "bytes": 6684,
+      "sha256": "ecfdae0db887069ed0307e72c7bbef651fd155803fa5d6b9c8cd5aa0b6cc1c49",
+      "git_blob_sha": "81be799749831138be00f4fb18f9afb4d081f3da"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/id.md",
+      "bytes": 8500,
+      "sha256": "cb4aae3c9e5c0a4d03e468ee1ee137560a24e085b71e78d24e3f2dc4cae97b47",
+      "git_blob_sha": "73cd212217148d1dcb6fe71d19ab7ebb9b1b7aa2"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/ar.md",
+      "bytes": 10518,
+      "sha256": "d76919c42269c1538c1c9d46079d30548ea4cc536bc73edc8a4edd39caa824e8",
+      "git_blob_sha": "8c07783e7d935dae3495da461e9da0a5218de0f1"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/th.md",
+      "bytes": 17080,
+      "sha256": "d00d22d43a5fcd1f52833ffb97604f267e3537fe8c44269922ddc4405b611bbb",
+      "git_blob_sha": "55fca56844a5c9809d4e0e3590e51d59124788a8"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/fr.md",
+      "bytes": 9138,
+      "sha256": "28890f2e522cc4500e4d21dedb56c0798ecbca6d92eb3ef183ce1e139ae4e87a",
+      "git_blob_sha": "553e6fa5d9018da3d1f9ce60afcfbf7321d1a559"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/pt.md",
+      "bytes": 8393,
+      "sha256": "55331c87d1b2914c40015fd910b8334b8c232c05e2d21e1514a59a52f0b8b5e1",
+      "git_blob_sha": "c6daa34100cc04887e7a996824f73d26f35e3afb"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/en.md",
+      "bytes": 9277,
+      "sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "git_blob_sha": "6e9960e144f4d39c20af0c44c23c6240b2c43bf2"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/vi.md",
+      "bytes": 10047,
+      "sha256": "94a6663e38db5d30c483adef9148ba0b1673693837fcf63e34854dada3d6f75a",
+      "git_blob_sha": "6e169ed0bf8c95c29304bed6b40e620fe1091365"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/ko.md",
+      "bytes": 7864,
+      "sha256": "a4b0425b5e50ec1b25abf092afe59c6d5060695aae4949eb7e5516ba5e305f22",
+      "git_blob_sha": "864dd01de84964309cf68762aeb8bdee66616af9"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/ja.md",
+      "bytes": 8068,
+      "sha256": "3de1cdb4e9da5d1f739e0e5cbb6e009e61eb760cdcd5aa5279c690e96468e032",
+      "git_blob_sha": "32a359950a5c1c2e3a1f87eed45b820fa1a197c8"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/es.md",
+      "bytes": 8402,
+      "sha256": "5a93ab4020334e4406b72ba0f3092286b178d2ae2b6c0d7cd5fbce29ee7b3f4e",
+      "git_blob_sha": "bd628aad939cd9a4ebd97e63a7d4c26e58998df9"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/de.md",
+      "bytes": 8656,
+      "sha256": "72a32b53f935874c79b382f8131f3488c8898a20e720edacbb77f5aebf44cc85",
+      "git_blob_sha": "2c05dc10b2e6aa38680137b30ec1885d9218af7d"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/zh.md",
+      "bytes": 7032,
+      "sha256": "be73be4817f0a390f138e48491a484e1b88fd716e180e826f337b730923dbf63",
+      "git_blob_sha": "764b77e7bcea4bc50e6968d19cb85887824ff697"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/id.md",
+      "bytes": 9206,
+      "sha256": "133d289231f038bb1e76ec608416e43d77c629b690a5a42824628cfbd22bbd16",
+      "git_blob_sha": "1377d568393079b8431b3cea85aba48161745e04"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/ar.md",
+      "bytes": 11442,
+      "sha256": "b390a2adc4a9128d198cb5468ad5207b70df3c203732dd139264627c2e2f96c2",
+      "git_blob_sha": "696f5bf12d5f3f66c3744c7241253da505c0f79c"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/th.md",
+      "bytes": 17467,
+      "sha256": "2f1d835fe4bbf10ac2d0f8483265fd6ccb8d0d0013711d0bed08b5be2efc0360",
+      "git_blob_sha": "2d10510fb0092f4e37c5fc687072dc167d24a0da"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/fr.md",
+      "bytes": 9654,
+      "sha256": "7d38103e516c8e1968c847c674b0543c4770bb87b552fc5c9e297ce80b88343c",
+      "git_blob_sha": "e1ad3a5232fd8cec46549f36db27ac9a7688fe8a"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/pt.md",
+      "bytes": 8711,
+      "sha256": "48bf4d3b28ca808ef734ba04a9bad61e26beba0388ecc373e31d67bccf1adc26",
+      "git_blob_sha": "0b40fcdb57b638a6ac29ff04c44c1f2ee9e7dc04"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/en.md",
+      "bytes": 10019,
+      "sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "git_blob_sha": "3360a43a7a962368087ca0d09288b383cb30636c"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/vi.md",
+      "bytes": 9985,
+      "sha256": "4464778f1dab1954f4bbc5a98abe502486ef1d5167b7cfc4dcd2089097969ca6",
+      "git_blob_sha": "cc93cdebfa7cbf64b8d3daf78705acceb9152c6b"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/ko.md",
+      "bytes": 8600,
+      "sha256": "ee3339c2f70661cd4a914ae3a5789975f887e0b086e048206c7e540c149762a5",
+      "git_blob_sha": "4b73420478a95533e4d567993d8871a102c0cf1f"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/ja.md",
+      "bytes": 8638,
+      "sha256": "77c92591a3b6719f078738a4b055499584214de835dce6a0cdba3fb8e7425bcc",
+      "git_blob_sha": "55fb627eb89d8321d263e5794a8737156850752a"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/es.md",
+      "bytes": 8797,
+      "sha256": "657b58607f71e4e9eceb68eef9e302d9f6c7916eac2be567ed673b99caf26266",
+      "git_blob_sha": "fbd92ba03895e4bdf531a88de7dc83e0d5115896"
+    },
+    {
+      "path": "articles/leapmotor-b10/de.md",
+      "bytes": 7713,
+      "sha256": "a5a592a197724cf66335e869bff0bce1a7db145cbfa5194040866395c4b874e6",
+      "git_blob_sha": "c742cc9c13a480f24a8d91184e284b2cda8fc924"
+    },
+    {
+      "path": "articles/leapmotor-b10/zh.md",
+      "bytes": 6344,
+      "sha256": "c37f9b390b805d536b0e36e0c13116b9b0313ece1f4cbd3def504180684b860d",
+      "git_blob_sha": "e0c11d097d10741c41e23be93fe81a9fe5f192b9"
+    },
+    {
+      "path": "articles/leapmotor-b10/id.md",
+      "bytes": 7812,
+      "sha256": "f9053f2a3ba0ce4b2daa7f93891c077af0c55d53fde03f214bdf689d7b110f26",
+      "git_blob_sha": "206a7c02e796aafd4b7b8c930bb89b28e22312c6"
+    },
+    {
+      "path": "articles/leapmotor-b10/ar.md",
+      "bytes": 10161,
+      "sha256": "9b01f456aeb8341386540cf6f82e7b43bd9bfa0a7651e2fea5aae3efc7c95b49",
+      "git_blob_sha": "f052ad11bca6833e72418e7a2290b498cb45a212"
+    },
+    {
+      "path": "articles/leapmotor-b10/th.md",
+      "bytes": 14477,
+      "sha256": "d2e74a411e440f03a28e4a95fe543e50692ddc9bdbe6fb13a5355ae0dae41258",
+      "git_blob_sha": "0722a5c4661da9e39e579752ddc191afbc7cbfec"
+    },
+    {
+      "path": "articles/leapmotor-b10/fr.md",
+      "bytes": 7873,
+      "sha256": "9d3046719063a82c77e949ff437ae14d01870b5f573bf02e164b82da624a3527",
+      "git_blob_sha": "5ac238b26350682d7ba476fd91915beaead1952c"
+    },
+    {
+      "path": "articles/leapmotor-b10/pt.md",
+      "bytes": 7656,
+      "sha256": "ec161141fff9bd2d5ef0c822ea1da20abba4c7e6211f955a70095efaf26e3a35",
+      "git_blob_sha": "00ff81ac6c4a95a133d1b6f70b90acf2b11a1786"
+    },
+    {
+      "path": "articles/leapmotor-b10/en.md",
+      "bytes": 7629,
+      "sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "git_blob_sha": "ea06b795121dee5bbdc4571cc90107cb41bbf186"
+    },
+    {
+      "path": "articles/leapmotor-b10/vi.md",
+      "bytes": 9181,
+      "sha256": "6d649f4f8696d6e66930f144161a6199f8761d3cd990c9e8012f8b07398a752b",
+      "git_blob_sha": "01739a36a645dbf6c1d889d366ae45efddff2b8a"
+    },
+    {
+      "path": "articles/leapmotor-b10/ko.md",
+      "bytes": 7907,
+      "sha256": "8fb877ab442086b700e83f8288d505530452f7e0d5bdc0c75c7af3c92188c325",
+      "git_blob_sha": "8ff1a526331d7007fc8a5dcf578fe3fd7a3909ef"
+    },
+    {
+      "path": "articles/leapmotor-b10/ja.md",
+      "bytes": 7696,
+      "sha256": "1c67b93e57e0ee22bdee50323c0cff12b09c0fec2ee3f65b36e0d68948656530",
+      "git_blob_sha": "d469a45ea70ad5e7f523c4333909d039897b0c12"
+    },
+    {
+      "path": "articles/leapmotor-b10/es.md",
+      "bytes": 7677,
+      "sha256": "91e99ff1d42b2a3215824b1506232651cb7e81e29f6a88a9787b9b396a74c461",
+      "git_blob_sha": "3e22e6f434525bdf75d42fde7f04db155922f1c0"
+    },
+    {
+      "path": "articles/byd-sealion-7/de.md",
+      "bytes": 8220,
+      "sha256": "3b40a170c488131bb73b57fc949e61e86f21d07564455400f041222ecf97f4fc",
+      "git_blob_sha": "a8ca106f8a4b0fefd5ac0603542e32ba493b55b5"
+    },
+    {
+      "path": "articles/byd-sealion-7/zh.md",
+      "bytes": 6171,
+      "sha256": "824b62ec0bc47ebc118a1feacde3f3e0d366b089b89e7deb640a79fea3b02b8f",
+      "git_blob_sha": "ebae2c4fe87fb53efda95c3f655d0c7d5ad655c8"
+    },
+    {
+      "path": "articles/byd-sealion-7/id.md",
+      "bytes": 7510,
+      "sha256": "90ffa1c934fd5499c6574fa5c908580b5a8d16ec0148dd20a5b488f07446d199",
+      "git_blob_sha": "5f668d0d58a070f5140cb4ada50282349dcbabfb"
+    },
+    {
+      "path": "articles/byd-sealion-7/ar.md",
+      "bytes": 9389,
+      "sha256": "b1795034f374b0c5c7650bd5302259d8c1eb2181210a59806dcc8e517ffc9295",
+      "git_blob_sha": "f311b49b0d5cab4a326b0ad4ce697efc1d0db337"
+    },
+    {
+      "path": "articles/byd-sealion-7/th.md",
+      "bytes": 13576,
+      "sha256": "4e9a24dc23ce91ea32bf3f0ee47e23bfb399211c80a1f27aa1cd819dc34ad0f0",
+      "git_blob_sha": "04ff3d3a2f2b7d6bba5936f8651258b45e857b02"
+    },
+    {
+      "path": "articles/byd-sealion-7/fr.md",
+      "bytes": 8428,
+      "sha256": "5d16cb3b387ba28e1440e27366d866d4be0907948ccbb084c2eb74c04eb22e48",
+      "git_blob_sha": "6ba0094e54565d201653e88c05bce28058a72fd3"
+    },
+    {
+      "path": "articles/byd-sealion-7/pt.md",
+      "bytes": 8133,
+      "sha256": "f6f1d1d09627fa2cc7895b564870d0b7c449c526f471e9951a3a490eeda2dcd9",
+      "git_blob_sha": "7a1dd7aa315ea403303605ace6570caebe39fd4a"
+    },
+    {
+      "path": "articles/byd-sealion-7/en.md",
+      "bytes": 7873,
+      "sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "git_blob_sha": "9a86179f0ccf864b9d5c694f565f34864d473b00"
+    },
+    {
+      "path": "articles/byd-sealion-7/vi.md",
+      "bytes": 8951,
+      "sha256": "04d1eab0cbd3e5ad57e30f56105c0f00c44a318ae4871b01cb5f5ec24b63ac12",
+      "git_blob_sha": "3af26c85e1a89aacc8f31819f30b52ab595a4865"
+    },
+    {
+      "path": "articles/byd-sealion-7/ko.md",
+      "bytes": 7755,
+      "sha256": "aa519bf061624c642f375713cf99103af6aa0ecd5e30afa04567e44a2d460165",
+      "git_blob_sha": "316c4e980d5565db30282c80d3aadd59e27eb418"
+    },
+    {
+      "path": "articles/byd-sealion-7/ja.md",
+      "bytes": 7728,
+      "sha256": "903e1fb4d090560809e802b903d177898d672a3b1e1410ff079239d1db3488f8",
+      "git_blob_sha": "f894b611e7049fe9dc536cc113fad6a010208b79"
+    },
+    {
+      "path": "articles/byd-sealion-7/es.md",
+      "bytes": 8213,
+      "sha256": "9801bda3c109e0b59439cebf2d83dbbd39445d1698b88b53479b50e85cbf6225",
+      "git_blob_sha": "0ee5b0a0c654cdbc95d4f016f2ca17feb9ef86b1"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/de.md",
+      "bytes": 8778,
+      "sha256": "775964dd0ae9cad73d42664b840b2f36c4ca53d80840da1e8a79ab880d13ad98",
+      "git_blob_sha": "907dc1d20ba20e61a0ef7428b9a6ff93bee6c3d4"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/zh.md",
+      "bytes": 6991,
+      "sha256": "d4e1553b79aa5393ebb6b9dad0e1b04d165a324095ca389148f9946f94a9066f",
+      "git_blob_sha": "9db2fb029113fbde2d8c3ef68013b2bcb4e4422c"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/id.md",
+      "bytes": 8546,
+      "sha256": "64f183d272c9768878750e3f7154daf87588e51e5feaceed79d4d8a4b7a97662",
+      "git_blob_sha": "6b29bf6b9d7700ba89ef25f7b3457436f94cc6b9"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/ar.md",
+      "bytes": 10454,
+      "sha256": "9b7be56938e98f2a375a139950fdcfca2d3f938b55b6e87eede290c4e12183f8",
+      "git_blob_sha": "54d7aaa717df24a9288e2dabdd95475ec6173ccf"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/th.md",
+      "bytes": 16101,
+      "sha256": "11d84d76eb8f009cfb6405690d6c813998a7b2970efe0565d0a373ceb999385f",
+      "git_blob_sha": "7b6ebda2d28869918740ea829d661c2a5e6e3804"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/fr.md",
+      "bytes": 9433,
+      "sha256": "e73555d7df6b3a6b201337437ad4ad8b9f5d57934f83b8169bf4e6e72774d9fc",
+      "git_blob_sha": "1ba0e1c7f9dad5861c189369bda105f780a534c0"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/pt.md",
+      "bytes": 8556,
+      "sha256": "17fd4e206a289196ad193c551a42d76bc69796eb9a063ff74a4863d3cecc55dc",
+      "git_blob_sha": "65d5479ce4956fa42b70ef44217ef5c602f7047b"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/en.md",
+      "bytes": 9228,
+      "sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "git_blob_sha": "9a92c8efaac3a832c89455fac0577734c65885a5"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/vi.md",
+      "bytes": 9750,
+      "sha256": "daba56549fa1927967886ae8ac1496ecbba367e609ad62a6a8c315f36f5f372c",
+      "git_blob_sha": "7191c6d05e631b0bdf2016cf8fabb440cf54107c"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/ko.md",
+      "bytes": 8159,
+      "sha256": "9cf9003dc5ea23e9c6f1bd2fa8fcb1049b72b7c31fe4a2c2df2a670e422a023f",
+      "git_blob_sha": "5a0c56cedeebf3925c40acb6864bc64f5eb1ea09"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/ja.md",
+      "bytes": 8270,
+      "sha256": "7656d708aba76bf42012a8f8d763548a7367489d6cc3b632c4ba2ca7052c423e",
+      "git_blob_sha": "06d2c65bdd06238629631ae88438f30ba0d249ae"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/es.md",
+      "bytes": 8740,
+      "sha256": "8b0a72e0985124821f27fcb0f9697e10d6d062b97ee8241163ef5f65629ae5dc",
+      "git_blob_sha": "cd2af00d0aeff069fbfed6a0a7ee0b10a497032e"
+    },
+    {
+      "path": "articles/leapmotor-b05/de.md",
+      "bytes": 7791,
+      "sha256": "f441ab20842e42b3b791f6c963dfb4436b79512b4f36969d4f8c9fa2aaf1f0d8",
+      "git_blob_sha": "a6569bb426e8528ed39017ca5827e3fe536bce39"
+    },
+    {
+      "path": "articles/leapmotor-b05/zh.md",
+      "bytes": 6197,
+      "sha256": "5473aece0ccf4b1a24db45c2a714b8e3fb8535db8865ae2a4fdcc363329e0cf4",
+      "git_blob_sha": "7551d5812b91b5f407d68f3b73a97ba6f62b96cc"
+    },
+    {
+      "path": "articles/leapmotor-b05/id.md",
+      "bytes": 7462,
+      "sha256": "4dce5c02db3f1e2fa5408739691303798228f4bdb6c59ca28bc019f0e6ee2113",
+      "git_blob_sha": "09ec755067a63c95440a37a34e453b66ef53483d"
+    },
+    {
+      "path": "articles/leapmotor-b05/ar.md",
+      "bytes": 9703,
+      "sha256": "b230b937386fb7ac678d498f14ad513592c887dde6da2f2f96c51c981b69b919",
+      "git_blob_sha": "51b10fc6808348851a46f649276491a0e9b68e94"
+    },
+    {
+      "path": "articles/leapmotor-b05/th.md",
+      "bytes": 13011,
+      "sha256": "18bc8185b4e2e2515dce3c2949b39eb7a188812ccf01b71f548766843061fc3f",
+      "git_blob_sha": "a5871606c4ee4c23e041c5e4abef46c467ce1503"
+    },
+    {
+      "path": "articles/leapmotor-b05/fr.md",
+      "bytes": 8036,
+      "sha256": "e52f8a7100d7c4dfc03dd4a122fa13adbfb7797db3d7976602c315920e47bc26",
+      "git_blob_sha": "37aebdb688d5b923fb316a09ea65e2c332df0aca"
+    },
+    {
+      "path": "articles/leapmotor-b05/pt.md",
+      "bytes": 7781,
+      "sha256": "fc7e206efc186e0c9ae2d0e9f1351e96a61530098ad27e5283930314c733303f",
+      "git_blob_sha": "ab584f6b226dfdb9c0d7224770dfd5b531babfa2"
+    },
+    {
+      "path": "articles/leapmotor-b05/en.md",
+      "bytes": 7624,
+      "sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "git_blob_sha": "234e66ee1b2e0c8ee71b0bc0ccceef5881ed166c"
+    },
+    {
+      "path": "articles/leapmotor-b05/vi.md",
+      "bytes": 8411,
+      "sha256": "c500aa2b6a107d4818dbf268734e2558f6ac67fd53a86ff1a14505a19fdcd512",
+      "git_blob_sha": "7bb2842bd58c8446e4c35142e6baf82c327eb444"
+    },
+    {
+      "path": "articles/leapmotor-b05/ko.md",
+      "bytes": 7524,
+      "sha256": "99b78538db9a1e109dede99453ddbb8df472ab1da966874e21015d6af6ea5526",
+      "git_blob_sha": "7b17103b3392956b677b3bf90853e9c26a4f4473"
+    },
+    {
+      "path": "articles/leapmotor-b05/ja.md",
+      "bytes": 7424,
+      "sha256": "a24789906af26c76120275a9ae5ab4d60aca2d646ee7c168720fa3ef32054b75",
+      "git_blob_sha": "49d8d0205d33f231ca64d4fc3bee9562c7b64192"
+    },
+    {
+      "path": "articles/leapmotor-b05/es.md",
+      "bytes": 7618,
+      "sha256": "8f6b5d8c25d24dedc8768acd9944ce7173a9dc300a2f10e07ffc81bf446063f2",
+      "git_blob_sha": "2e46f88c5b09af17bbc192f6a610490bb4c72494"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/de.md",
+      "bytes": 8712,
+      "sha256": "1d4faee4b69f880ed62fcc5b60c911b68accbc6d8c70d6332346bfcce6d19694",
+      "git_blob_sha": "422e63f8584689f98aa024abe320eabad564b7dd"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/zh.md",
+      "bytes": 7099,
+      "sha256": "916966d14ebcf3cc230f4e9d20ae892db83c1ccd97835ce731d4c3731f4d5244",
+      "git_blob_sha": "4f1ba9c0acbe1768467d3993574256519f2f1626"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/id.md",
+      "bytes": 9077,
+      "sha256": "4a783c0b8e432aaa295b5bb782471c9b6cdd5052d649ab302288059512d36de6",
+      "git_blob_sha": "a10d986f63460a95d06a89962ed10ca6fa3f5036"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/ar.md",
+      "bytes": 11227,
+      "sha256": "57679adbbbac9fc7fdb800d53b3d167c2cb3dad1df880ef55e0b3661da56da06",
+      "git_blob_sha": "2ba6da67a2db96397446d8399e52476053ccc4f9"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/th.md",
+      "bytes": 16217,
+      "sha256": "f926966d374f62b2570fe5a72660ebe8197e1d89cfd5e415d1b333d98c2bdcde",
+      "git_blob_sha": "e138b611710c1dc0de9d600610104c8395518eff"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/fr.md",
+      "bytes": 8922,
+      "sha256": "6353df4adf0988e367dc9575400aa27347f160980a962c8df8e35d47e27d1a37",
+      "git_blob_sha": "ef367cea471ac72afd04cf8aa8b2a4ca00d3d449"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/pt.md",
+      "bytes": 8088,
+      "sha256": "05b84761524b42bc12b4df81de75ebd1c699a5c385970cb3fcb01bcb898c11c7",
+      "git_blob_sha": "a20d8c2fc27dd13a14e4a289893326994923c04b"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/en.md",
+      "bytes": 9479,
+      "sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "git_blob_sha": "447f73a76f7946f2ed61dfb454d5699de9f69c4c"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/vi.md",
+      "bytes": 9849,
+      "sha256": "9a152df6e6a4d33401f06eb46a60ac0f6f040c0c8fc407ee830998f72a6cdb98",
+      "git_blob_sha": "905f27452e1f0de3382bfa71009907b7592b2f48"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/ko.md",
+      "bytes": 8695,
+      "sha256": "48acbc70116eb79d2904e2a82361b2b948ad1b3fcdaf985fbcacaca0b9ee96ec",
+      "git_blob_sha": "f6d63c5e3b12e2751d30a1d069d60964361e6e42"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/ja.md",
+      "bytes": 8852,
+      "sha256": "805f775f51e75337cb2d27e1ef2e1696d34bc80867d01443fba40c4539e93a64",
+      "git_blob_sha": "6777d85bc519745dfb3cbfffa4de2c75d5ccdff6"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/es.md",
+      "bytes": 8309,
+      "sha256": "d2bdaf80ba8e391ad3c0f91c713bb3442eb6b1b6d613a2756f95be672f8f1abc",
+      "git_blob_sha": "ca681ce33fdb9ef177da91ea4e811b79908b6502"
+    },
+    {
+      "path": "articles/connected-car-account-handover/de.md",
+      "bytes": 9198,
+      "sha256": "a6dc51ed65e912a4fdc5b7fd00f9d7712ab0097bbe603797af1ccfeedb8829bf",
+      "git_blob_sha": "3f1888a96c5ffcd2055eaef0e1b442d30aaac424"
+    },
+    {
+      "path": "articles/connected-car-account-handover/zh.md",
+      "bytes": 7539,
+      "sha256": "279a21c78607543f5082f18f16944f17d0bf2b3ad6636685bc93dca2c90d7fd1",
+      "git_blob_sha": "4be485ec6a4482764f144e09aa006416e169d0a0"
+    },
+    {
+      "path": "articles/connected-car-account-handover/id.md",
+      "bytes": 9149,
+      "sha256": "854b38976bee4ff2d55e152b3ba40b05cd28ec20711c4d4ad5e5b9a066b259ac",
+      "git_blob_sha": "91da91ed112e3d23f08c7aa099f4de3632ef91f9"
+    },
+    {
+      "path": "articles/connected-car-account-handover/ar.md",
+      "bytes": 11769,
+      "sha256": "0acb679e9203a39880280818397f2f510febae8614b15226ece4277e2707734f",
+      "git_blob_sha": "18f1569f61d5c9413e02a99d6e8721ed9c9524fd"
+    },
+    {
+      "path": "articles/connected-car-account-handover/th.md",
+      "bytes": 17303,
+      "sha256": "f6ab2225f2e28fd5b00b0a12a580edfbea3c61625ed5292092c07f8d21d629c3",
+      "git_blob_sha": "ee9c89ae313ff8b14bbf3a4796f1327119c39421"
+    },
+    {
+      "path": "articles/connected-car-account-handover/fr.md",
+      "bytes": 9866,
+      "sha256": "dcd4d50e6f432f404623ff9a0f0f2a13c2e76f28296e5bdf0bc669b4d4fccef2",
+      "git_blob_sha": "a3c7d4e0c62341bb20cd203fba6f70e6fcd35b5e"
+    },
+    {
+      "path": "articles/connected-car-account-handover/pt.md",
+      "bytes": 8930,
+      "sha256": "b83589e97e5c9ed8bf253fae57e348b96da04eb669fe850780d1b8492d19cd0b",
+      "git_blob_sha": "0934e8992c3a1cf6228b8cdc8364d1b0e0920b84"
+    },
+    {
+      "path": "articles/connected-car-account-handover/en.md",
+      "bytes": 9656,
+      "sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "git_blob_sha": "df3e94ce3d7b183acbccc4a1687a4fcee6a910ee"
+    },
+    {
+      "path": "articles/connected-car-account-handover/vi.md",
+      "bytes": 10325,
+      "sha256": "0a3379402e9560a5fd4e47848b433afed8aca88977551a8d4d3c7f0eec6a9ab5",
+      "git_blob_sha": "5d99abccdf15ebf73414de3d3dc758d9d67a2361"
+    },
+    {
+      "path": "articles/connected-car-account-handover/ko.md",
+      "bytes": 9443,
+      "sha256": "0257ce79095062e39ec5439d67a920a359c293ba425bb1f9256fbd57d1a47d7d",
+      "git_blob_sha": "efed031a37eb1106557965d967467b2e2bdf50ae"
+    },
+    {
+      "path": "articles/connected-car-account-handover/ja.md",
+      "bytes": 9579,
+      "sha256": "8ab402b6c426f260816e391112d2fd36a9deaf6db4a4d27e22f6b76ab2640f02",
+      "git_blob_sha": "156a3ab3a39a2419169762c72b34b10db2412246"
+    },
+    {
+      "path": "articles/connected-car-account-handover/es.md",
+      "bytes": 9054,
+      "sha256": "c7964463d7b1be92ff931b5b7e5771728de91006198eecfcef5318f5a9790092",
+      "git_blob_sha": "cfda2850689d1a44e9dc753995e23f33fc5a8816"
+    },
+    {
+      "path": "articles/byd-atto-2/de.md",
+      "bytes": 8817,
+      "sha256": "bcb1400be57d1a2126f920381d0d89191a8555df81ed4b0f2a5e26184dbfcc67",
+      "git_blob_sha": "4a75f871242d065435c7d06845ad96e28c075de4"
+    },
+    {
+      "path": "articles/byd-atto-2/zh.md",
+      "bytes": 6770,
+      "sha256": "ee7c59ee0f36c9b75ab4bbc52f53fa4fdfd789da5cfd6e5e0d3497535ca5732e",
+      "git_blob_sha": "6d3013bd868d69cc786248eed8fbf6a66e40a11c"
+    },
+    {
+      "path": "articles/byd-atto-2/id.md",
+      "bytes": 7956,
+      "sha256": "945080ca4031aa966f59ba1aa1be3eb4ad84eb574fe5a0a8c29382aa169ad801",
+      "git_blob_sha": "2d3b57b31d0ce72a6850380dbf95db4dbb12bcf4"
+    },
+    {
+      "path": "articles/byd-atto-2/ar.md",
+      "bytes": 10484,
+      "sha256": "fe9294155348e2d4c41b77e175c466dab8e0e590356537322661b4aa877ea3a8",
+      "git_blob_sha": "ae8e17f680b320d0372edf298da0c9e2c75b9d75"
+    },
+    {
+      "path": "articles/byd-atto-2/th.md",
+      "bytes": 14197,
+      "sha256": "a649ce4a15ab729cad55d7fba438fbebe3c7bbcc3e088174aefa8fc77704e750",
+      "git_blob_sha": "54c68c7b4980a21a1005fba7b5360792570b0da8"
+    },
+    {
+      "path": "articles/byd-atto-2/fr.md",
+      "bytes": 9015,
+      "sha256": "919bbfaf52fd32e831983f3db6934faa405334c64607f3afab331147baaedb8b",
+      "git_blob_sha": "1b8d6f5eff87c535950fab99173de0e152fb1088"
+    },
+    {
+      "path": "articles/byd-atto-2/pt.md",
+      "bytes": 8737,
+      "sha256": "739f6a5513eb9f223365c38e5245805d599b4b3013c635513414f24f39138d55",
+      "git_blob_sha": "af07eb42c2ec0f171e0c261415ed759e5ea9313e"
+    },
+    {
+      "path": "articles/byd-atto-2/en.md",
+      "bytes": 8380,
+      "sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "git_blob_sha": "eab8e4dc17b8e09bc55e71ed5a42bd50c4f8f99d"
+    },
+    {
+      "path": "articles/byd-atto-2/vi.md",
+      "bytes": 9018,
+      "sha256": "4f355aa5af44df3ebb0e01ccf2f93c2718ea19dae8bc7ff84153327dfa142258",
+      "git_blob_sha": "93de18e1ddba046d89eb6904725d9e9fcb7bc3db"
+    },
+    {
+      "path": "articles/byd-atto-2/ko.md",
+      "bytes": 8661,
+      "sha256": "62770d158f288b791295fe7629cb9fe1292dc1bb45f817571b0468616ef0caff",
+      "git_blob_sha": "2856b0874e812259aeef2ec60e2bfd716c2fbd6e"
+    },
+    {
+      "path": "articles/byd-atto-2/ja.md",
+      "bytes": 8829,
+      "sha256": "007c03198957babc36a7099b96356b6a5951587f5a7fe5df6cad0c6ed6047601",
+      "git_blob_sha": "4dffacb1656d3155971e92e350bfbd30b461995f"
+    },
+    {
+      "path": "articles/byd-atto-2/es.md",
+      "bytes": 8981,
+      "sha256": "cb1d1fd9f78d014a66361f59b2e36510b34cc6a643c66fd74101a19290a8cedb",
+      "git_blob_sha": "19c3c35a52aef08e946eabd8560f1f764294d5e8"
+    },
+    {
+      "path": "articles/zeekr-009/de.md",
+      "bytes": 8225,
+      "sha256": "0896174a99fc5e9bcfd34b724610dc6805123c4a43a60a7d4fc064cd917b3288",
+      "git_blob_sha": "c36524238dc1e5e7d99de291432743628be44cdd"
+    },
+    {
+      "path": "articles/zeekr-009/zh.md",
+      "bytes": 6331,
+      "sha256": "beab53902e3b8ca301e2866e144ac30dbe00676d90d2aba6a726a2168395ceb0",
+      "git_blob_sha": "20c920f8210c40bfa46bca1812b48e0d6ff41140"
+    },
+    {
+      "path": "articles/zeekr-009/id.md",
+      "bytes": 7780,
+      "sha256": "5229f048dce667c4a3de3745f99bb1a2446f58c0570bed3d8196ab5f11a03729",
+      "git_blob_sha": "618950ecb7fcf05414a01720a624325bf5c3dad5"
+    },
+    {
+      "path": "articles/zeekr-009/ar.md",
+      "bytes": 9741,
+      "sha256": "2d2ee6a76069f3f08c20236a615af0aceb59d58666b17532d71efebd5fae2634",
+      "git_blob_sha": "ae0457c8135c03f2ed54a72b84881ca8a9a05964"
+    },
+    {
+      "path": "articles/zeekr-009/th.md",
+      "bytes": 13774,
+      "sha256": "c9dcc88719927a82fb08e8a8406f906e5159b80f09abdf37d7d93f108731007e",
+      "git_blob_sha": "c4a70b0e76c196e6097fc10f1fea11254ee7d1a8"
+    },
+    {
+      "path": "articles/zeekr-009/fr.md",
+      "bytes": 8488,
+      "sha256": "3bf7140d8a3436e7a29c5c2602780b9afe30519e747abdaf64c900f815501b11",
+      "git_blob_sha": "ffcc34c30d2d948a824a30f294b557df22e8cc5e"
+    },
+    {
+      "path": "articles/zeekr-009/pt.md",
+      "bytes": 8287,
+      "sha256": "a428135e621dd9ad418d39cd09ab458a3e5f4d245285343f3a9e1be8ea85017c",
+      "git_blob_sha": "5c9f3b288adf38a2be548ecf430852f69b4736fb"
+    },
+    {
+      "path": "articles/zeekr-009/en.md",
+      "bytes": 8302,
+      "sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "git_blob_sha": "30dc64d6e757b9f31305f88a843ef2a0641d6573"
+    },
+    {
+      "path": "articles/zeekr-009/vi.md",
+      "bytes": 8785,
+      "sha256": "04da2b1f5747c0ac3c92b112db3e8444cef87d83437063cd7d9835d24db606fe",
+      "git_blob_sha": "5572116c8dd48defc502d398b7ee7d519601eb22"
+    },
+    {
+      "path": "articles/zeekr-009/ko.md",
+      "bytes": 7844,
+      "sha256": "0c726f89aa1c98aa73fd20c21a559b634b85b024ed2743120c2c387a71c70d8f",
+      "git_blob_sha": "6103a2bb58d39da6e22cf2c25adcbae634a67ee0"
+    },
+    {
+      "path": "articles/zeekr-009/ja.md",
+      "bytes": 7872,
+      "sha256": "5ea733d7497ee366ef6d43f2593be907da74dc32d4e2f6ae1921ade06e48e8ec",
+      "git_blob_sha": "04ebfd8130f92d5b6af4c7d80b180c8640edd3d7"
+    },
+    {
+      "path": "articles/zeekr-009/es.md",
+      "bytes": 8360,
+      "sha256": "52ec04742b36f181385ab3f5ec6259755713d2371cb42de7a52f2e248468312a",
+      "git_blob_sha": "d0b8d4420b026e2560ba81cea0107ae5752e713d"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_id.json",
+      "bytes": 1574,
+      "sha256": "a66e163c27c5d638b4672876e920443d8b97bd666dc6c77513bf790309760e70",
+      "git_blob_sha": "3513645a6c78dbde1f2b1f47684f198d4b5b13ba"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_ja.json",
+      "bytes": 1579,
+      "sha256": "6944eebd574e818adcf45fad409316946f459faba97663519aebc0e506a62f8f",
+      "git_blob_sha": "24c4f4d58d965233946d5b44759511e9d70ed935"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_de.json",
+      "bytes": 1505,
+      "sha256": "cfce214ac2b8039aaabfd091f87dfabd6b1601772ef712d4a8e356e00e0e611f",
+      "git_blob_sha": "aad3982fbd0965c96096dfc14ddbe72e6df0f06f"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_en.json",
+      "bytes": 1599,
+      "sha256": "3c77ffeda3703fdddb3f0463517197e06c4914e781d432b036ce95fea33c93fa",
+      "git_blob_sha": "e1819849a76186fe018dbf714a354a4b3b9ec3ee"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_ar.json",
+      "bytes": 1873,
+      "sha256": "b3052907a40d90642c61189593c0817da92394966c65cb2471e399362be7088d",
+      "git_blob_sha": "cf363b07a2db7d8f72a5c07d689ed0da3140fe17"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_th.json",
+      "bytes": 2482,
+      "sha256": "3ec798a186f27a31fed037f062d2d712690870daa661c2e2dbff44b9ce52731e",
+      "git_blob_sha": "d7068c745cc2d4fde8908a06852e5b891da1d675"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_fr.json",
+      "bytes": 1571,
+      "sha256": "3cf73d5f06931f76b7eb37092137a0a84ab4353c367267402cd8980a203e7383",
+      "git_blob_sha": "38b0e8e9c06fdf4de8298d912bb0934990b8b1b0"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_ko.json",
+      "bytes": 1562,
+      "sha256": "c95a5e4d7e48bac54b2f548c3fbc10d2b8d9fed45261ea19d0f0699238fd4bb0",
+      "git_blob_sha": "f9072506bc64627df23f0be215f1a8aa6973d037"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_vi.json",
+      "bytes": 1676,
+      "sha256": "d0741081aec58b6bb0cd3ea943a56006ed1cbebdeefe1d90b834e755115620e9",
+      "git_blob_sha": "41e20e1b2bfb114d16c47e3e277af9e9fabbd7a5"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_pt.json",
+      "bytes": 1764,
+      "sha256": "946c6d017df7953b4e9d29379bfa89ce2b9df00da1db4bd74faf89f322d456af",
+      "git_blob_sha": "7748f88a05b9df87e4cfcad34809315d6c68966d"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_es.json",
+      "bytes": 1798,
+      "sha256": "34f9cd0b516a856fe0196baec932ca0f06c4dc1de0949b9c835296e08c9beca6",
+      "git_blob_sha": "65b40218e415a5d7be51f9ff6d39001d93e79364"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/seo_zh.json",
+      "bytes": 1398,
+      "sha256": "58db8cd24f3203511ee6ff37533355ace38d992331f6b4bb69cba74424bcddea",
+      "git_blob_sha": "f9dddf25929e172ccbfd6d89c54892ce67856075"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_id.json",
+      "bytes": 1806,
+      "sha256": "7bfe8e6a20024f6d57133790b67e96df6b39a3b3f90e609886346a2f8a2b395c",
+      "git_blob_sha": "3d1ddc159a15f0f38b122bbea1277106e1ef82ff"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_ja.json",
+      "bytes": 1738,
+      "sha256": "632fa85307a4fa8d9c9987adbbd3f49aaa5649461f038f87edcb5a12f614fa45",
+      "git_blob_sha": "991fdbe35d545d71cda5c5ab2494d22f33456dae"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_de.json",
+      "bytes": 1685,
+      "sha256": "ecbee4f898a15a3bef86a410b73f40be44532b62b40d585704c0bfe0931ab54e",
+      "git_blob_sha": "c2e6f78c8c32ce1cdbacc45132c55b5813339363"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_en.json",
+      "bytes": 1783,
+      "sha256": "383db599324938b7dfc858e672cad537376e9946b2b8364d7307f99dd54865f6",
+      "git_blob_sha": "515381434c197856258107bec90379e68584a277"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_ar.json",
+      "bytes": 2071,
+      "sha256": "6234a93877f05ac5ee8322c40e612d4391be0c2f51a3bfddfe51eb7b3e920bd2",
+      "git_blob_sha": "cd72ab232ca16722e6a8e8f75149531c322a5eb8"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_th.json",
+      "bytes": 2742,
+      "sha256": "1126f28855ec2344a73ca4f9b7a3d51390998673fca99fb2c06716111f6215a4",
+      "git_blob_sha": "a555fcd4474c0895d87a37ab62747bac04d37969"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_fr.json",
+      "bytes": 1766,
+      "sha256": "ea29e59ef270f7f9eefba8d90efb4342caed0d7b11211437e6fc1397e2959911",
+      "git_blob_sha": "58d122488ca30863df9dee71cd1b9f7a34168e88"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_ko.json",
+      "bytes": 1723,
+      "sha256": "ac255a3286f649192e59abbaf8829c9f196854e508ba29b54fe406ff0cf6e2f6",
+      "git_blob_sha": "6e761ca8f66069399e97b525d533488c32845419"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_vi.json",
+      "bytes": 1962,
+      "sha256": "d19d700182fdadaa04c47a4fda6647171a13093209c05bf75a10e8a085a54e37",
+      "git_blob_sha": "91070c45ce4948acfaaae9c63a06b5c546cb5daf"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_pt.json",
+      "bytes": 1974,
+      "sha256": "ff4d21219b1d2de5bae566a9fae3a700e73335e55369d4ce914765c8a4545fe5",
+      "git_blob_sha": "7c3d8e66c03212ddd92f315f677d4b0d2d9b7535"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_es.json",
+      "bytes": 2017,
+      "sha256": "b5584008a331d61b178f39c4b96a248d3dc4e58c43d7a1121ebf3b5bd6c0fa9d",
+      "git_blob_sha": "a9e8ad84c6d4bf26ced0230dc3058e5f59f2c1ec"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/seo_zh.json",
+      "bytes": 1621,
+      "sha256": "cae8e9618be4469ff43929047bd94e2b8088d634305124c9cdd675b7b6086a1e",
+      "git_blob_sha": "a7d3442c4b6682ab1769a4fd6da1a818744a352f"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_id.json",
+      "bytes": 1482,
+      "sha256": "5a26dd9f7bfa48a6b537317ded0bac07dde783d88e711f56d2aaee88f07fe88e",
+      "git_blob_sha": "009113ca9be18bee538eeb0ec72276d4ea19aa8f"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_ja.json",
+      "bytes": 1567,
+      "sha256": "fd127e0ca84e29a329c445305a17f5e033f3c68ab898446fe2b5d8ae389ae749",
+      "git_blob_sha": "63d959dd264ef9c0320c76cfd7208dc724f41132"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_de.json",
+      "bytes": 1356,
+      "sha256": "374c648464de4dd552f7eba80ad903bd75455bce779705b4a09fed6c9320767b",
+      "git_blob_sha": "3f9c8b371428782b7a68d63b97e6aec7683b762d"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_en.json",
+      "bytes": 1438,
+      "sha256": "197105e2529235a591d2a8ff9c13ace123ac479bed8731f6aec7ea05694985ab",
+      "git_blob_sha": "4c775ec05016332588569bb42b7db45ce93dab37"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_ar.json",
+      "bytes": 1769,
+      "sha256": "66f75a835174db7fdad23e7f65da215e79aa657cb61b702fecefd97a49f7ecfb",
+      "git_blob_sha": "a351281755b6693dd8572d4ef5de573514745a84"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_th.json",
+      "bytes": 2521,
+      "sha256": "8df4cfa9a09c4cbb15215e6a3317fe8abab72b0b6ced440fdb570d45cbfdb64f",
+      "git_blob_sha": "7d561d42fb2365b70e9a22d7ee959776a6c3326b"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_fr.json",
+      "bytes": 1385,
+      "sha256": "679915af36878a32d3cf9bc3d11164c44bfe587add601dec1b83883132199514",
+      "git_blob_sha": "319467da8619af0f3162a6b6ba4b8e5e8dfe65a4"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_ko.json",
+      "bytes": 1605,
+      "sha256": "76c566ced8263507815e2107f03b76e736c1c216274e8cdcabeb030891f25029",
+      "git_blob_sha": "5d273bfe6fb5eddbb111513eedc21a98f3c0da27"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_vi.json",
+      "bytes": 1635,
+      "sha256": "de96bb6007511b1d9c7d221d9b8b8eec43cd171620f00eb7cc1ff8f290244bec",
+      "git_blob_sha": "df5670a5d3aafd6c825f9f15d48e4d4686d0e0e7"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_pt.json",
+      "bytes": 1668,
+      "sha256": "f3c373549de093609b392ac217933ce190c3c3049ec39fbc0eda7cdd81ae8f76",
+      "git_blob_sha": "ef647eefa2d36ca9e584239162dd349476c778cc"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_es.json",
+      "bytes": 1708,
+      "sha256": "448bd1b4a5a326ea174b646aca9d5037f0fef9c3cde42955899f7981b06c97a4",
+      "git_blob_sha": "3f02d5329dded4719abb1a7c0450874f3dba6cde"
+    },
+    {
+      "path": "articles/leapmotor-b10/seo_zh.json",
+      "bytes": 1431,
+      "sha256": "a1fb6a1851a88561a90fdde328147f259508438cc1cd05a6481e3c08238656f1",
+      "git_blob_sha": "cdbfb5e1a5cc95c58d7f9873ba4795692ec1ab89"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_id.json",
+      "bytes": 1517,
+      "sha256": "20337bfc60e009ba3c81f838c6b346d5dec81f1b7d4bd9c477d77799410e9488",
+      "git_blob_sha": "ce5b610f7ee4290e5cdd2c75d84c299171821a56"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_ja.json",
+      "bytes": 1526,
+      "sha256": "097a03e01ec8606fa4d76fa4c2f50ccf5e4bcf73a7aa77cbdd8fdd978545db87",
+      "git_blob_sha": "b8496ce3aed0d321b1680999a5f7b3b72326ccbb"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_de.json",
+      "bytes": 1316,
+      "sha256": "f41cb1cb6bef0430f30e069b9383f92e381299a9701bfeb8afc5505f86d7490a",
+      "git_blob_sha": "bef2d8b729b8710a9985bb0f1b4a65a5ea61d6bd"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_en.json",
+      "bytes": 1393,
+      "sha256": "ede78e7ba99142d9ee1392e40812007db5dfa4ad53c78556b36984eca3f4dd14",
+      "git_blob_sha": "7687b2cf16914031f6ed55ddb1483d3da724ee1d"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_ar.json",
+      "bytes": 1825,
+      "sha256": "a2c712da7f424fa51a93bdfc3d87e0bc0eda0299e5b585aed2b5cd8c9e303c03",
+      "git_blob_sha": "860474b8edb0216efe201005b6cedc60b5b89b18"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_th.json",
+      "bytes": 2318,
+      "sha256": "4c301ddcd63e26a52f144e5b64c1d79f6a228e670b5007bef6254aada3241f2e",
+      "git_blob_sha": "81b1ba02164ea369b9a0d91da960523e3ae368a2"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_fr.json",
+      "bytes": 1335,
+      "sha256": "c55128be8cb17ce2eafa3b846fefeac474cc89acd79b638826c0b8de254b48ec",
+      "git_blob_sha": "b7d03f968b2375e3b888adc76a8b49ccd42002d6"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_ko.json",
+      "bytes": 1508,
+      "sha256": "d8228d87092ff2c32a9f8b27df99a017711618db80d9a7ab95292110f6db3a8a",
+      "git_blob_sha": "f65ff3720304320952f9d8045b8dd5b4feb40e4b"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_vi.json",
+      "bytes": 1597,
+      "sha256": "ad6bdeb896796bcdfc9317f5d4aaf25c3f31b0cee5165146b913a6d9fda830a5",
+      "git_blob_sha": "b1bb6ddd18c94facf4386738002c060d460f5825"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_pt.json",
+      "bytes": 1592,
+      "sha256": "79e6a0ec090250394c2e131ec45a184e1e05e17276a239239507c709ee5c280c",
+      "git_blob_sha": "5f0aa3839a707d204133b1575167a4f794a338e8"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_es.json",
+      "bytes": 1636,
+      "sha256": "806e37cc2fb0e46e1b014745c8d3e34a3e528ab528e50ff146edfb08d96023d5",
+      "git_blob_sha": "0e9a001d307ed03df51b5da18c5577ffae6cbeb9"
+    },
+    {
+      "path": "articles/byd-sealion-7/seo_zh.json",
+      "bytes": 1395,
+      "sha256": "7353ab27acbb3f818363130e625e65e28e25e3be893a57b34d0b58b8f53e18c0",
+      "git_blob_sha": "52b952f4679556cbb4d7557a286963e0cc90d114"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_id.json",
+      "bytes": 1498,
+      "sha256": "506b6cc3067e0949171d45de0f0a3b4212366919559390aeca11bfa69e5b6cea",
+      "git_blob_sha": "fa8b1642b51f92b7c52c09f998f0a99edcc10663"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_ja.json",
+      "bytes": 1573,
+      "sha256": "e2065b14b03cedcba63504ff6f393714579d1bd753863eb62b901e1e8ed2647d",
+      "git_blob_sha": "967b4b309563686af5c32f899b38cb0940664495"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_de.json",
+      "bytes": 1491,
+      "sha256": "b9b194d75e633b597fda9a234ce99de2b24d30b99d873e969f81d568f6918a74",
+      "git_blob_sha": "6698350f01aa3696e9a3e4d9f979632052e7134f"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_en.json",
+      "bytes": 1551,
+      "sha256": "e9f02338980cd43036c825a802ffb93ac79ca01f7b38cad954807adf76e5fc26",
+      "git_blob_sha": "3b987ec34fc532f9d92d63b1d6c1ef57703de617"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_ar.json",
+      "bytes": 1808,
+      "sha256": "b498d532cd779f69d9cfeddf603b64404a4dda88081fed8a41ddd166fc29d4c7",
+      "git_blob_sha": "d1078cd3c4e8f1c8a74bd3340bab3f413c42bd17"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_th.json",
+      "bytes": 2385,
+      "sha256": "754ac648d0422a2da2502d7417cde08d218d56cfc9c40682aa234f6ba05db071",
+      "git_blob_sha": "50c307f4541a3e9a7af8ab6384dc32c9eafd7aaf"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_fr.json",
+      "bytes": 1571,
+      "sha256": "167d234be10de3ed66356a7ad9ad4f75c992c0e088a7c01c35a76c8e70556002",
+      "git_blob_sha": "09fa3e0a66b3a8e55ab430c655a28bdab68a04e5"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_ko.json",
+      "bytes": 1508,
+      "sha256": "74569f0a5365d93534a96273d7672761dbdcaa206f20b8e1affa0df0531e4ff0",
+      "git_blob_sha": "ff9c4f629cc1c76eb11f0fd4e43388a2d95cd560"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_vi.json",
+      "bytes": 1647,
+      "sha256": "bb5d99e2f96acf75b4b6072f7765a897c046be30d345ed8ac4576edcbd182c12",
+      "git_blob_sha": "680075adc88d5e7f162f8b0c1977d60c37a2572f"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_pt.json",
+      "bytes": 1644,
+      "sha256": "15933716539c03844a10bd812c2eaa38071027fe1c1f483f4563173e3848e5a8",
+      "git_blob_sha": "84ab716c3869e1d0240500e7bfe0c0c4b90a4eb3"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_es.json",
+      "bytes": 1712,
+      "sha256": "e9f2fbfdbdc1c0cf02703fda7b8bf0d64caf2a9d3ee609a0764e19643b1d012d",
+      "git_blob_sha": "b169fe19b45fdf0ac4c9962be2186d159975f7b8"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/seo_zh.json",
+      "bytes": 1417,
+      "sha256": "07e46b19e921f82e7178b0698c9c0c2525fc03edb06765ee6a80ac0a6e44173c",
+      "git_blob_sha": "a2824428d81403e1eb380d1cc94774d8d17f3490"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_id.json",
+      "bytes": 1525,
+      "sha256": "36fb6c36e7caa72da570fdcf02860d50d3b1550907bc1f0880c6d5e617407ab3",
+      "git_blob_sha": "c196a4a75d684b90c23b5698219e79abebc38435"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_ja.json",
+      "bytes": 1601,
+      "sha256": "ae2eac36844c45c7858f7cb3dee55fba451c5b7b9e510442460d819640611ca9",
+      "git_blob_sha": "c8e2c6dacdcfdb3d92f0074552bb7aa2f0501c0a"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_de.json",
+      "bytes": 1402,
+      "sha256": "655d09c3edf2964d05e1cb5687cf51b8b16d11184c2ec37d449e5659ea2eb988",
+      "git_blob_sha": "94196bcc03d0870c028d069d2159045a02abc343"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_en.json",
+      "bytes": 1473,
+      "sha256": "05e280bfeef9df44c4ff427fd584832d437b2e3dc0b8a46400f51b76237a1cc0",
+      "git_blob_sha": "bae7115d8c42e879c19e69647032933105110887"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_ar.json",
+      "bytes": 1880,
+      "sha256": "6c22c943e74bce922d77e4af518038057305f5a52bb2abd1554998298a6b183e",
+      "git_blob_sha": "f0983bf7ed6f7d0cbb5d5e445be63141b5a61398"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_th.json",
+      "bytes": 2754,
+      "sha256": "aabb0fa17cac01007e936d02c0e688a62b49e65a5c1bd8e8cfc5ddee2b4bc9f0",
+      "git_blob_sha": "b9e2c64380ef228f07c6a4d94b0702485cd4b053"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_fr.json",
+      "bytes": 1437,
+      "sha256": "efbc439a3797ebbb6572dfffa132004561e9de4846da4204e1c40e999cfb172a",
+      "git_blob_sha": "6b657e0a679cf6fdb73446a7c368deb46a459ce3"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_ko.json",
+      "bytes": 1540,
+      "sha256": "6231853c91360dd577fc7f6eb370a0bc028aada8dad5771af67b65c962238215",
+      "git_blob_sha": "fdcf31c305b739ad10adfb38a1ada2cdb4b4e494"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_vi.json",
+      "bytes": 1769,
+      "sha256": "f17994e3bda2469dc6aab6fe355993d10d3d5da1361a69ac7235e3cd6654cd9c",
+      "git_blob_sha": "008c6925476110728ba9d09e8f0a435bd2af1d6d"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_pt.json",
+      "bytes": 1754,
+      "sha256": "5ba6c224aebb2b3004e0438afdba674a66679770cdaaa94a50dda6e0f3e3798a",
+      "git_blob_sha": "72262aa8e4232b31e2984db1fb70111e16613232"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_es.json",
+      "bytes": 1786,
+      "sha256": "bbe59110ef6ca6c3d8b50cfbf125fb8227ee342170a3f750c941d6d7cedb61ef",
+      "git_blob_sha": "266690e8bdecb255607026d6744fae463c08ff51"
+    },
+    {
+      "path": "articles/leapmotor-b05/seo_zh.json",
+      "bytes": 1421,
+      "sha256": "74106f654c88b0efcf13efe2a00190385243e7aba8b838f8deb73d454e384f38",
+      "git_blob_sha": "e67a5105a42f27354c678b55902e2266ae49ff11"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_id.json",
+      "bytes": 1555,
+      "sha256": "23b8a784944de8ec3d2dff83485580fa5ccecfe1537b78771980214dd7c084be",
+      "git_blob_sha": "5a26038905fa9969a1cfdbd61cf0bea17e31cd03"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_ja.json",
+      "bytes": 1551,
+      "sha256": "94d149caf753c0a1bf4001324fc47c7f9475eb08330b81504cf6cf62f8f61c53",
+      "git_blob_sha": "a678f48f431a724a9b9092059675f695d0696567"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_de.json",
+      "bytes": 1461,
+      "sha256": "9c7275eafdf6a7c181dfad0dd3003e0b0ecbad08811211a14805deacd794fda4",
+      "git_blob_sha": "c04d672dbf3a41af4a786f1780018dee2272f9ab"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_en.json",
+      "bytes": 1545,
+      "sha256": "f37218a2488b62f7d9f4ea12cc6502fa1a81bccde4200131ed611f6c989d3e9e",
+      "git_blob_sha": "5c4b447675e601a2c2df22a48d1d6fb81ce00ae3"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_ar.json",
+      "bytes": 1880,
+      "sha256": "02a19e488de698460605a1827930a1566b955a18e1a5104ac0b3f17e36146d77",
+      "git_blob_sha": "92d1ed6fff3148801ac218976bdafc6aedc364dc"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_th.json",
+      "bytes": 2430,
+      "sha256": "1039e06320e8c0ab8ef11d808b9d842449345d20175292e9597da491d76c7db1",
+      "git_blob_sha": "faaa90331e1193d71967ba3f03b02f3c39e3e480"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_fr.json",
+      "bytes": 1512,
+      "sha256": "7424aa43f77204fb898b83ff6d75486e622016b4a42e40103d7e8e1c17ba42c1",
+      "git_blob_sha": "5c204f437fa8a73c15b7ce48fc588f84923253ad"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_ko.json",
+      "bytes": 1594,
+      "sha256": "05f340ccd2b910af0fba977c2ce2eb9529806261a7ca25451388ce19224fab8d",
+      "git_blob_sha": "fb75f28331aaea8e38796609e90885efcc442e1f"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_vi.json",
+      "bytes": 1725,
+      "sha256": "700b5140561ef9bf20a6ab004e06990ea7abb33110624cdb723aeb9edac60c2a",
+      "git_blob_sha": "1d801dd2de43abb3f51d310b4e8b203a034adcce"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_pt.json",
+      "bytes": 1716,
+      "sha256": "3603a7ea67acb1d57dfc090efd30aad800f1f1850b255af028b14ef4635379e3",
+      "git_blob_sha": "d14e3189c012db81bc9a1706fe681d86fcdfa4c2"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_es.json",
+      "bytes": 1758,
+      "sha256": "64f13fd9093166108a4ff95458ef77cc8b70197ca9e9677cc0974453a83efc4a",
+      "git_blob_sha": "2bb1b7004fe8c4d12d04313b67a0a145a3fbe113"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/seo_zh.json",
+      "bytes": 1392,
+      "sha256": "287aa176422622ef0ca5b2e84376e010d684fda1e6200b4c85183fdc731be0cf",
+      "git_blob_sha": "51010ab743da41e2a8608a0590ea5f6dc9fa458e"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_id.json",
+      "bytes": 1563,
+      "sha256": "5d9bab581d80feb4bc7bd06db16debf507f4723e11dfc8d114d1b329c59d54a7",
+      "git_blob_sha": "ec1de31c28d9e398bcbb2a04f4afb419ef7c2768"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_ja.json",
+      "bytes": 1671,
+      "sha256": "d506303d44529148fcadd3d5f8d3c3966195493a0f5274aef691e6db04589bc2",
+      "git_blob_sha": "6b0c0e5302f11a5db8e4f6133ab6494ffffc6d2e"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_de.json",
+      "bytes": 1496,
+      "sha256": "6d526d0834c7ac9ad3746ec07a5eb7095e57ca10eb798d5607dd95fcf39c0abd",
+      "git_blob_sha": "861ff9329494b5d4852e4bc69dd325880a6328aa"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_en.json",
+      "bytes": 1576,
+      "sha256": "7b6c24788918239667963a38ad3591f349335ccb2e621ecc23413464ba2aa562",
+      "git_blob_sha": "5b963406bcf95f31889bdc885f68b8ee15af5787"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_ar.json",
+      "bytes": 1927,
+      "sha256": "90ac7ed9636802df57dd031e5924a35c879683fd56c01bb5a075e60b0970141f",
+      "git_blob_sha": "7d6f949b7b50817dc8eec54760f60cb167202f02"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_th.json",
+      "bytes": 2569,
+      "sha256": "2d3fc91a37753caa47e5847d7a65e108c865b6e6c902ab4ed8904e3d8ca25949",
+      "git_blob_sha": "fecbe2511c8fdfb15814640830f0ff5291735140"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_fr.json",
+      "bytes": 1567,
+      "sha256": "7f486a8916521ecb4a1140cdc247116543c35cb96e68fd18b7189959ea2e539c",
+      "git_blob_sha": "3e7dfe30102e928c7e9c43d0b82d093d5c69bd1d"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_ko.json",
+      "bytes": 1611,
+      "sha256": "1141bcea44d6af0557b51faa4b37896fb8999180e02916a93ed8906c0e3913d5",
+      "git_blob_sha": "7d56a3f0c17565ac8bc9b17f4aa8088a48215a57"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_vi.json",
+      "bytes": 1660,
+      "sha256": "e53dc8213a98ed78a7644b6c97abb7a07eee0e801839124d7ee306ca7e1bbfd3",
+      "git_blob_sha": "8cc6c8ae9c1bff2f213076921f16aa29ba2db130"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_pt.json",
+      "bytes": 1810,
+      "sha256": "37a8ff28e1e1a72f0639cd439ce8d6037a3b73de1c7e24069c3702a96443cd72",
+      "git_blob_sha": "6e6cf39bd0b0a7835384b2510e5e6815823998dd"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_es.json",
+      "bytes": 1845,
+      "sha256": "10f4cc97ed58b8fdd49189c7de3918a68ea8365447aec7e7aaa297dddd7f0a3b",
+      "git_blob_sha": "0738251568eb606fe4b96717b9a820a169a1b154"
+    },
+    {
+      "path": "articles/connected-car-account-handover/seo_zh.json",
+      "bytes": 1413,
+      "sha256": "049eb408c2d5bf238ae63ae7076b14e8c9d126066f51de38c40b89a421d1f476",
+      "git_blob_sha": "b1ff8207498c3289644549c08a51521c010da204"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_id.json",
+      "bytes": 1493,
+      "sha256": "3f13a61228603afe49a758fd0a2fea26350a1a7eeffbe438fdab214211056061",
+      "git_blob_sha": "65ff532f4122a93f876618df5b6f68ac3d31f14d"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_ja.json",
+      "bytes": 1495,
+      "sha256": "f497de44b9ebf16b2fd5752b89434678706fc8fd7d41da96160618a17869d9b7",
+      "git_blob_sha": "ab3a6457d4cad6c4b215e8f95a8da2d5e7049a79"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_de.json",
+      "bytes": 1353,
+      "sha256": "6bad98a41345ded708368d16584b85ddf6f9e2a18a4eac5047273bb5ef5a0f15",
+      "git_blob_sha": "06706de0a651a69ae9981ca6fb74b3ddc246c961"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_en.json",
+      "bytes": 1471,
+      "sha256": "321114642a4a41921dbeb5baeb4cfba45ebdcac27e7ce5727666cf3e6c5fec49",
+      "git_blob_sha": "c40eb13d17966d352005aaca47a1ea1408f03e8d"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_ar.json",
+      "bytes": 1740,
+      "sha256": "d786bfd2f8bea505b598c72a42d64c8363ac3ce924f8af60d2b103f4ec8799e4",
+      "git_blob_sha": "8f9c5baee4a56637a155c40b5d76c53a75adc486"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_th.json",
+      "bytes": 2476,
+      "sha256": "6345cbfeae10fd7c597897c4aa2e4202d03743ab411b36813689777f2ac90fae",
+      "git_blob_sha": "e03450843745b107795b536d00dbad446a700dc4"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_fr.json",
+      "bytes": 1393,
+      "sha256": "1c939e72f7f7c23f4e52889a34ff5eafa380a6d5511ea35c25e6855078a80eef",
+      "git_blob_sha": "8147545f43697a0f06f05bbfabc93f5bb7bf580f"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_ko.json",
+      "bytes": 1548,
+      "sha256": "622cab6b8a3d05bf081f92a2d74ce61ed636029b86743c7440909c436bf68c43",
+      "git_blob_sha": "616ac125014389a11908dfa08360f629e8ae4d28"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_vi.json",
+      "bytes": 1693,
+      "sha256": "89528e97e0f9f8bb2570eb5622da55467552dc6ec61266c6507b5d36d34ffb97",
+      "git_blob_sha": "8259afedda5ffa53131c4751b1dc0340d60fe02f"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_pt.json",
+      "bytes": 1679,
+      "sha256": "c05e2843f4801a56ac32638eba967f622c519f66359cb209ba26ed0f73b18c07",
+      "git_blob_sha": "236316ff9dda1e19808651ff4f0abd9c623b97e1"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_es.json",
+      "bytes": 1733,
+      "sha256": "acef625972581ce2021c88db2a6dc9db586cc455a79d17f17764864a207b4be8",
+      "git_blob_sha": "873385ad418e59a7133c593d83cfcf8b12c40c93"
+    },
+    {
+      "path": "articles/byd-atto-2/seo_zh.json",
+      "bytes": 1440,
+      "sha256": "e539f2e7868b85d353f0cc96414c2a0dab0ae249cdf3b95ccc62df6302f89796",
+      "git_blob_sha": "58dea9404b1ed04ef87788e42c4dcf4f3e8f0db4"
+    },
+    {
+      "path": "articles/zeekr-009/seo_id.json",
+      "bytes": 1497,
+      "sha256": "806e5a926360836e92ff01969720785df432f756cb0ff1162a85e81b9d39f870",
+      "git_blob_sha": "3f75c928cafa6c40cc2a8b0d12f7afd2cacc3069"
+    },
+    {
+      "path": "articles/zeekr-009/seo_ja.json",
+      "bytes": 1569,
+      "sha256": "930cf586e4adfb3705b8327dd225828d043631428edac4ceeedaca8a349c8b21",
+      "git_blob_sha": "3d4e766005dc64e0ec588ff4fe965949c9689e04"
+    },
+    {
+      "path": "articles/zeekr-009/seo_de.json",
+      "bytes": 1378,
+      "sha256": "f74e11bdaecb0b19d8c947fd7c5bc2cda5b59fbed595b0a7a5c78a03f4319d4d",
+      "git_blob_sha": "7581a62d927be69e93625b7f86605d31678e6fb6"
+    },
+    {
+      "path": "articles/zeekr-009/seo_en.json",
+      "bytes": 1489,
+      "sha256": "64a39bc263f90d78174983535599b42330050d0e4d36c4ce51cd79fc347ed87a",
+      "git_blob_sha": "a02b91984354600094dcc4bd7fd79fa32def1089"
+    },
+    {
+      "path": "articles/zeekr-009/seo_ar.json",
+      "bytes": 1841,
+      "sha256": "98625c7192651308596b62b58baf8a92c19b8171ec62d10464db87e11580091c",
+      "git_blob_sha": "20da5cb7d136c37b4ce4a0152f6736d1133fe459"
+    },
+    {
+      "path": "articles/zeekr-009/seo_th.json",
+      "bytes": 2684,
+      "sha256": "ca7915a677f94f13d06b6d7c71ea386f1b52627dc5bcff40c9af0478a23955b9",
+      "git_blob_sha": "b1a6e436341ba242adc5b58c480262c4d870fad1"
+    },
+    {
+      "path": "articles/zeekr-009/seo_fr.json",
+      "bytes": 1401,
+      "sha256": "1dda2ad5f091fb9a5a3005052131e771091476c1750ea200c803741b41b0d014",
+      "git_blob_sha": "6c0e4a8df7d53c55b41b631e96fb579c755c760f"
+    },
+    {
+      "path": "articles/zeekr-009/seo_ko.json",
+      "bytes": 1600,
+      "sha256": "4df218dfa3ea45004743acf8e58a903fb236e285622e0492c915319ea104d6e3",
+      "git_blob_sha": "136bf8d52fe066cc4efea5a0f194aea1077e412e"
+    },
+    {
+      "path": "articles/zeekr-009/seo_vi.json",
+      "bytes": 1759,
+      "sha256": "14d4837ef81f7b203dcf7ca2d93a255fac3ec12bb19fe10c986cf28b93008abc",
+      "git_blob_sha": "518e3d86b85dab355310256d97400177c63ea3e2"
+    },
+    {
+      "path": "articles/zeekr-009/seo_pt.json",
+      "bytes": 1744,
+      "sha256": "e53a50bb565f033daf50952a2a9a430d2dd1f997b0cdd96bf218a171435b59fa",
+      "git_blob_sha": "dfb61c50aa8db729be16baecfe156f9d4191bccd"
+    },
+    {
+      "path": "articles/zeekr-009/seo_es.json",
+      "bytes": 1773,
+      "sha256": "b5cd1313219c463ca6f09697fd127260143578a255f260fde7d1d2726fac07b4",
+      "git_blob_sha": "86bd5354bff7c829d3721f0259d94dbb29c3992f"
+    },
+    {
+      "path": "articles/zeekr-009/seo_zh.json",
+      "bytes": 1462,
+      "sha256": "7e0f95dda97e7be68467b4a757edb280b059aefb1e3ac985b50cd1d797454f95",
+      "git_blob_sha": "4ef829440ef7903da7c0431cf5978ae27716a2d7"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/ja.svg",
+      "bytes": 1203,
+      "sha256": "3eaf3099d02d0473968bec3d033bcbacd89ff62e193c20fe3d375a500ad75615",
+      "git_blob_sha": "d354b4e92e574aefae58f0d944eaf310c3689d67"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/id.svg",
+      "bytes": 1229,
+      "sha256": "f16579fdeef412dce4ab486168dc17c4b5032e7066cd4324c4c133e151bf0039",
+      "git_blob_sha": "66612f85af0665f76ff5c08fba1c29bac97c03bc"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/en.svg",
+      "bytes": 1220,
+      "sha256": "10587761f11fbbc5e1ddc493d3cf7a7cbb2ec27bf2ac73ad2406cd4b5ea9da2e",
+      "git_blob_sha": "6a6bcd0d17eb3b754e19a848474279ef3f47ec39"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/ar.svg",
+      "bytes": 1333,
+      "sha256": "5a6fce32ca6ddf5331b7f5c83dff98eb18bde72eee9edb7adf8520f5ba142875",
+      "git_blob_sha": "382c681cb0f80f196df3cfe5873ef625c4988e59"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/es.svg",
+      "bytes": 1402,
+      "sha256": "03c4c668f587dd8f6415b166ede71f6e9d98fbc510d2dabbfd6d5b73a55172e6",
+      "git_blob_sha": "d51d919a35476982e129dfe6e8f2422ae22f5143"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/fr.svg",
+      "bytes": 1216,
+      "sha256": "f3cfc57f7303ab3e68c61fb15352d676d8d19522236386f46bca1cd52194be37",
+      "git_blob_sha": "4e4a5a6720613781a3846769ac560b5f478a65b8"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/ko.svg",
+      "bytes": 1202,
+      "sha256": "691822550af1ff320232219bef46623ee566ccf7d806f56c99e23c409b834b68",
+      "git_blob_sha": "cd93eea7837d15945f51a7e0f5cf9b94b0f33c62"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/vi.svg",
+      "bytes": 1226,
+      "sha256": "ee0c17637c6a68e7d41486f6c62689e1cf9de80ea21593641e8ebebbee19b6f5",
+      "git_blob_sha": "29f270d1eaadb065b751631d10e42d8fef998575"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/zh.svg",
+      "bytes": 1131,
+      "sha256": "7f95e5dc709a297c0eed464c806d77eeb9e0a5c2698871d571d9d154ab769cc9",
+      "git_blob_sha": "4df20d273ebdd3c652d715dc9b49a3755f5c10a4"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/de.svg",
+      "bytes": 1200,
+      "sha256": "4c32fe765ad331dd729b17c05bc70da5790f6ab1958fa2abb394fb6f27172e08",
+      "git_blob_sha": "a3012e62b619ebbe3b0860ea8a86644dfd187171"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/th.svg",
+      "bytes": 1636,
+      "sha256": "e1de74a95a6ffb4e66bb3e09c3eace338f9519a880a446cf8727a78abe7d062f",
+      "git_blob_sha": "c6aabc924d731b90091645e5d6c0122dbfa547cd"
+    },
+    {
+      "path": "assets/tire-evidence-before-imported-car-purchase/pt.svg",
+      "bytes": 1369,
+      "sha256": "3ee90e38c0ab1b6198e7bd9d38bf0efe9b6595fb1b79fbca280890761c5891b3",
+      "git_blob_sha": "959892dd612770502f0525ff3cce1b4a879aa0ea"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/ja.svg",
+      "bytes": 1221,
+      "sha256": "fee7fe978051e613f269421a7ffeac09bec08b6f5229715d1ca65d8b3c8b45d4",
+      "git_blob_sha": "6ba6b935ce535e87f9063bea088ab6806a04e5c8"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/id.svg",
+      "bytes": 1271,
+      "sha256": "f7e560e1494dd3f94132cf5ea2483e7c2294a90111d7de324d60a5a4cad4e4e2",
+      "git_blob_sha": "6b7bc7767070fbf248a0cae653402736d1aec605"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/en.svg",
+      "bytes": 1218,
+      "sha256": "9dd40e87a56868f2ffeb94bc0e5088cdff522775c8db9fd8079cd233bf2936f4",
+      "git_blob_sha": "b2ae57fe761e65319cb37fdd93675a611dddd6d8"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/ar.svg",
+      "bytes": 1331,
+      "sha256": "799bd361879720c9963462366271115392bc4ef749c155669156a2412e119362",
+      "git_blob_sha": "fa3704812dd8e48e697ba7324178d607510591f1"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/es.svg",
+      "bytes": 1444,
+      "sha256": "84cd51004d3ea2dbf7a17cc17ff77145f0ac45eacfbb75018cf3642c891da867",
+      "git_blob_sha": "d1e1da0b4acbbb90c4a2be3d13f2d8bd60b20ff4"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/fr.svg",
+      "bytes": 1226,
+      "sha256": "650828de35dc9a3c1ed33ee3a222eaaba14dfc3bbd8f42fcd7533ad337e1249f",
+      "git_blob_sha": "c4723a37cadaab65f87cc50421b6ad0db0534ba1"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/ko.svg",
+      "bytes": 1218,
+      "sha256": "d32555375b027432004ead744262da75c234a2ee73f85a007b7abfb9fde9662b",
+      "git_blob_sha": "7dcf71c6e91bfd0a2aad40fb62f21c55359dfecd"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/vi.svg",
+      "bytes": 1284,
+      "sha256": "024e7e1910bef042fca3d8141eebdb0a706eeac8550a38aa69aad46328f16ca9",
+      "git_blob_sha": "b5e90e2d638b9f702d07149402ee9075db8c7878"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/zh.svg",
+      "bytes": 1149,
+      "sha256": "29f3865c57a3cb62d2755fafb7583c0c7da9fe6007e5b6aa0b29ea9c47eaa8c9",
+      "git_blob_sha": "4624f9b230b600e2ed283ccf2a1e871350f82efe"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/de.svg",
+      "bytes": 1214,
+      "sha256": "c302b850341356fcc00eb5878244276b8f8cebd5a5a4c1630f27c8dfb65cbf7b",
+      "git_blob_sha": "0438ad14ff05e5f936ee059523600eaeaeb72182"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/th.svg",
+      "bytes": 1648,
+      "sha256": "63785d950805f5e8e17c33b1ca697af828ed53188297c4403f3c2fb571a1307e",
+      "git_blob_sha": "686f2da91c5db38f6c56b795d9fabbed18be2a6e"
+    },
+    {
+      "path": "assets/low-voltage-battery-storage-readiness/pt.svg",
+      "bytes": 1414,
+      "sha256": "fae0ffad5d16535991e1761dd80efed848beb8307c36acf3d5db156315a9ac0c",
+      "git_blob_sha": "493415a854f17cc1f3d9a058b3ca9ade060215ce"
+    },
+    {
+      "path": "assets/leapmotor-b10/ja.svg",
+      "bytes": 1233,
+      "sha256": "c54d7d3456af880e9a800ef527555dadf9bc8f6ab8abc313245c19ee1423399f",
+      "git_blob_sha": "5bbb65af4abcc95e22e76f7106c67e9e471d3101"
+    },
+    {
+      "path": "assets/leapmotor-b10/id.svg",
+      "bytes": 1234,
+      "sha256": "2ad8c1221e5c98e30a32788d6bc729821b8733e14ceb39bb47e0f3ba4b8efd25",
+      "git_blob_sha": "4285056b74c4a6677947990d3855af5809518103"
+    },
+    {
+      "path": "assets/leapmotor-b10/en.svg",
+      "bytes": 1252,
+      "sha256": "855caf0e931de9ca97efb9866771fbd1fc733b5b5cea51829450df41d1770fec",
+      "git_blob_sha": "450171117793a492659a1230e3f56444ad72f05e"
+    },
+    {
+      "path": "assets/leapmotor-b10/ar.svg",
+      "bytes": 1318,
+      "sha256": "3d21661cdf44a0b8d618e5883463eb3687d818ee7bc4d19d302c4b0cf5620dc3",
+      "git_blob_sha": "ad082637cd3f97523fdc5b3407464fabb58b1087"
+    },
+    {
+      "path": "assets/leapmotor-b10/es.svg",
+      "bytes": 1372,
+      "sha256": "f34d5256a4edee54ef362f302a0b2962fa0af1a18a974dd07c17563e04cabd89",
+      "git_blob_sha": "2e40afc16dbdec9f502e1b43d1a679c154bef440"
+    },
+    {
+      "path": "assets/leapmotor-b10/fr.svg",
+      "bytes": 1338,
+      "sha256": "e1476a4f1d03ce43658a39591363b28a36851b428e2669be0b21fbcff5b0bbb5",
+      "git_blob_sha": "8979b9566a3624316a7f0cbd231a666b9039ead9"
+    },
+    {
+      "path": "assets/leapmotor-b10/ko.svg",
+      "bytes": 1245,
+      "sha256": "3379795c3c3f3cd2d4e6d4cc97ef3390822821628e4c59ae39d10ba71f0da0b7",
+      "git_blob_sha": "c76fb1c8a4dbb40b8d21fb07f881628609836532"
+    },
+    {
+      "path": "assets/leapmotor-b10/vi.svg",
+      "bytes": 1247,
+      "sha256": "b9cce56cdcda5ac4fe9a65175f6b79bf501e1cdfb2df5877d28d8706088071c7",
+      "git_blob_sha": "83d50a1ff820669918c1e2b37f7d5000d8feaef6"
+    },
+    {
+      "path": "assets/leapmotor-b10/zh.svg",
+      "bytes": 1170,
+      "sha256": "a6302fe6bef59e6d582122a2e9a6702f3704a2346198235943a4aef36d06099e",
+      "git_blob_sha": "fa2dc6c1ee60ca28b3984417d6447ee8a06a0238"
+    },
+    {
+      "path": "assets/leapmotor-b10/de.svg",
+      "bytes": 1322,
+      "sha256": "bd812fef0aee9f3071789e11b5c08d33244eb7998a622128fe2cf8ae1f799144",
+      "git_blob_sha": "82a8e61d302402d69f3db8b23cd693998c68a56d"
+    },
+    {
+      "path": "assets/leapmotor-b10/th.svg",
+      "bytes": 1644,
+      "sha256": "14584c809280b33379ef52ed18c5e96ee7a42e9aa62e56137c2713078123bcd1",
+      "git_blob_sha": "337fb3728d628461e90b2fc73d86409f63f8ed3b"
+    },
+    {
+      "path": "assets/leapmotor-b10/pt.svg",
+      "bytes": 1348,
+      "sha256": "a6c136218471ef14630b0b2e86a0529472b0f7fe7312507cffb42174d6f16516",
+      "git_blob_sha": "2418b87ea090ddaa3a838c29e7b470c6f1c21360"
+    },
+    {
+      "path": "assets/byd-sealion-7/ja.svg",
+      "bytes": 1193,
+      "sha256": "04c56e580b0f7aaf2edd277f183001085a36796e37cdfa5d3070793b92135a54",
+      "git_blob_sha": "c41d1f53dbd35360f6428d66c74cf6423e80b216"
+    },
+    {
+      "path": "assets/byd-sealion-7/id.svg",
+      "bytes": 1170,
+      "sha256": "df3f2d88be6ac45d5f176e9f59698c6fcda324cb06e0d32d1b7981aefd3865f2",
+      "git_blob_sha": "e2c93423a5d4f4f6f8478d625216b3841b33824a"
+    },
+    {
+      "path": "assets/byd-sealion-7/en.svg",
+      "bytes": 1171,
+      "sha256": "f392a47b3830de027b3b425fbfba8963d9f44138417071efe8e3ade464d28bdb",
+      "git_blob_sha": "462a0eb404f03f36e9da5d99ef0186251fdcb7d2"
+    },
+    {
+      "path": "assets/byd-sealion-7/ar.svg",
+      "bytes": 1240,
+      "sha256": "00f9225a411d3deedef6e26dcc93c8f8ee6652416125454519eb4651104d4888",
+      "git_blob_sha": "0ef19851fed452d1153826f2bf2c3f6adbc2ce7b"
+    },
+    {
+      "path": "assets/byd-sealion-7/es.svg",
+      "bytes": 1279,
+      "sha256": "b05cbfa3bb603ed186f1708f73707615be0dd32f3879007f1f68ae90734be525",
+      "git_blob_sha": "84966534c3f80fb5828ad14be8eeffc6caf65a68"
+    },
+    {
+      "path": "assets/byd-sealion-7/fr.svg",
+      "bytes": 1254,
+      "sha256": "b49f8ae42d6a91118ac0df31833d776189816640aa80bc2d77d0808adf8ed66c",
+      "git_blob_sha": "30bbebf85c492bb1d2ec68ae4da6965cb6ef303a"
+    },
+    {
+      "path": "assets/byd-sealion-7/ko.svg",
+      "bytes": 1201,
+      "sha256": "9acae278568d341db77a59abe25406a475737dc49b07c259f9926877cbfcdc01",
+      "git_blob_sha": "6d0dc79f6d7d84d129959a226b1c431566b73870"
+    },
+    {
+      "path": "assets/byd-sealion-7/vi.svg",
+      "bytes": 1189,
+      "sha256": "2aefb1d69e0bdd197674ea6d3206147d87c5cc4090491497da299f64608a7581",
+      "git_blob_sha": "36e7ffb6704ed4039294d29a93b49409a72c946d"
+    },
+    {
+      "path": "assets/byd-sealion-7/zh.svg",
+      "bytes": 1136,
+      "sha256": "ece2acf9278d3ba9cd2179fcb0f25c2f5102e92098df3f9290f01c231094b270",
+      "git_blob_sha": "0c4993d0045c1d7e9cfcbbf91a659465d222ee64"
+    },
+    {
+      "path": "assets/byd-sealion-7/de.svg",
+      "bytes": 1259,
+      "sha256": "9352a7c1e882cfa2b4d068f84a2f4ab7225d11c8a15e09e1097e2c214971794a",
+      "git_blob_sha": "dbfd931d3afce835bb766b0c753f99e8abe71429"
+    },
+    {
+      "path": "assets/byd-sealion-7/th.svg",
+      "bytes": 1452,
+      "sha256": "2945734c815290d96fe1c32aba745a09ec00155a4ce394b488ae708cfb9cd284",
+      "git_blob_sha": "8c2621e16cde86a04043d899a192613d0fe167aa"
+    },
+    {
+      "path": "assets/byd-sealion-7/pt.svg",
+      "bytes": 1255,
+      "sha256": "2dab60ec00513d7f966676c11f81ab7c7a864890e619c47058aadc82d8550988",
+      "git_blob_sha": "e556a949b2c6f9825f6ba3c6954b7d8d3511c460"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/ja.svg",
+      "bytes": 1203,
+      "sha256": "1dca26e9754940e8d1a5313372a795ba38c194dd7fc3831a49b49788bdc28722",
+      "git_blob_sha": "7faaffec5d9833f1c788b71efa2cb737cd0d69cb"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/id.svg",
+      "bytes": 1173,
+      "sha256": "5191acc1e121cb6a78737cd9654ad8cb936255ee4d9192dc51a1ff223df64c51",
+      "git_blob_sha": "8795ae639abbec4f34e27b79cd42a4a101cfdde3"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/en.svg",
+      "bytes": 1174,
+      "sha256": "56149bb913656927c636b26325c04787c415567eb78b3b3b803466e62a8c2c43",
+      "git_blob_sha": "4fc0939c12effed8a62f85e890973f24786cca5a"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/ar.svg",
+      "bytes": 1267,
+      "sha256": "3d37e838404f776b929482186866b01e62f5640b8e865c6cd06da24c82d2837f",
+      "git_blob_sha": "f2fd477509ad2b61a777bc505f3776b65e9bb199"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/es.svg",
+      "bytes": 1348,
+      "sha256": "7a65f5e9117ee4be55edf4650ad15c5257b31802c01c100e03e480265b6a2bc5",
+      "git_blob_sha": "4dc8d420570800e34a49536cd7c8738ae03464f3"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/fr.svg",
+      "bytes": 1222,
+      "sha256": "53cb14dc1c2860327f2e943851a6ac3e4e42eb33abe4ef4a5c30eb656bd9a225",
+      "git_blob_sha": "be3bd2b6dc80c5f14a84387ef52778fa38d8320e"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/ko.svg",
+      "bytes": 1188,
+      "sha256": "e2a49a06880274a756b9ffacceb07cbf9a2b485b9d22ec034661dbe02dd6192c",
+      "git_blob_sha": "061950ad59c3499481c84813db8f25feb224c48b"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/vi.svg",
+      "bytes": 1206,
+      "sha256": "39bd83a674eb7c197a7c2af507c10d40d5f3cf9d49d89750bb4925ca71df9894",
+      "git_blob_sha": "8219b51e1025269b76455fd3ea5dc0c1bcdb7efb"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/zh.svg",
+      "bytes": 1119,
+      "sha256": "0d78177ed7c25bae3880c45922cbaeebf5600d116f9abe8bde55d45f4e669ce6",
+      "git_blob_sha": "af492ae62b6de56a049bcdbb20bd6098f06d806f"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/de.svg",
+      "bytes": 1190,
+      "sha256": "e798aaf89a9926094581132fc97c3f4d43ae30b4b32af12f8376dab7bdebd4ca",
+      "git_blob_sha": "edca97d52082d899d1ef3833c8ea9fe14aae4fdc"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/th.svg",
+      "bytes": 1530,
+      "sha256": "d5b028b457368437378688bc4f19ea61995d0b20b238836ec77690b7fd0bdfa8",
+      "git_blob_sha": "10ea4b5d7c98d2aed86d142ae706a95ee79d5c98"
+    },
+    {
+      "path": "assets/adas-windscreen-repair-evidence/pt.svg",
+      "bytes": 1306,
+      "sha256": "b5f102add0d8b34f2120f4a25f3615eb4879deda5fac63eae39c33724f8bde17",
+      "git_blob_sha": "57ab9c553bdb54d70082331ab02358969b09652e"
+    },
+    {
+      "path": "assets/leapmotor-b05/ja.svg",
+      "bytes": 1251,
+      "sha256": "0ff98bb4b985a108eddf6dce1fa7471b7ebff00e7d58b14996f12e4a7360e315",
+      "git_blob_sha": "1251c8d394c4415d2e5ff1d0526b90d85b917491"
+    },
+    {
+      "path": "assets/leapmotor-b05/id.svg",
+      "bytes": 1244,
+      "sha256": "c9e3f19e72a1c1ef397cf7435363fc2c16c098fb90bda956ecaeefc3c6e7cdfe",
+      "git_blob_sha": "9dab3945640c105868d1135ce72d39269defed0e"
+    },
+    {
+      "path": "assets/leapmotor-b05/en.svg",
+      "bytes": 1270,
+      "sha256": "dd26d095d9e833a819f4aa9becbf98073ef417f91ddf66185053a542c4999873",
+      "git_blob_sha": "0a23193dd72fcb192ed1e80ff9daeafd3ae40cce"
+    },
+    {
+      "path": "assets/leapmotor-b05/ar.svg",
+      "bytes": 1380,
+      "sha256": "86d94d6089f83d45f46b169c609fd523f8a50236769e0db9214000864e18c843",
+      "git_blob_sha": "516c05792d528604171ff22a6d75c59c34dd405a"
+    },
+    {
+      "path": "assets/leapmotor-b05/es.svg",
+      "bytes": 1453,
+      "sha256": "7eff05e5433006ee1615c4214cac246e4e1aa8d4fe43acc1413c49849abb3406",
+      "git_blob_sha": "ab5dadccd5e0a9a0d9418971bbaf7ff50453a94f"
+    },
+    {
+      "path": "assets/leapmotor-b05/fr.svg",
+      "bytes": 1386,
+      "sha256": "be46d50d09f17b199c0b7a78f61bb08c80575842dea98804291381a4f8226f10",
+      "git_blob_sha": "4bf700340d1c05e4953d6b0f18e2fdca00f18944"
+    },
+    {
+      "path": "assets/leapmotor-b05/ko.svg",
+      "bytes": 1239,
+      "sha256": "c1ef6403e91bf4ca71ff116732b2207d5f1703558ff6b67f9133ad5e4ac14402",
+      "git_blob_sha": "941dd2975d74449ea64d03ba4cb95b647ab86c21"
+    },
+    {
+      "path": "assets/leapmotor-b05/vi.svg",
+      "bytes": 1289,
+      "sha256": "d863c0e85b893af64b6bed76d1a2873fd4b63f6f32a537a0de1d20f2a56c112f",
+      "git_blob_sha": "62b5bfe6e8e5de0df8ba3b98bb0f2235f70fe7b3"
+    },
+    {
+      "path": "assets/leapmotor-b05/zh.svg",
+      "bytes": 1182,
+      "sha256": "0699a6aca8cdf29cf2a473b54fd3d65b382c8bfcc44cdd8ef16093623be0039e",
+      "git_blob_sha": "7f14b8fd848f1df9753c7f289053a13adb384efa"
+    },
+    {
+      "path": "assets/leapmotor-b05/de.svg",
+      "bytes": 1346,
+      "sha256": "3c64ed7335626c92913d11340e3e27bb346e6a7be18f5d491fc2cac8b67c715a",
+      "git_blob_sha": "9a58ae37d7348861beffd6bfc07041c1f75a21f9"
+    },
+    {
+      "path": "assets/leapmotor-b05/th.svg",
+      "bytes": 1766,
+      "sha256": "9c02e2da487e766e713d3faa07bc3c4299d11911eb43e7bca49c172fbfa3f276",
+      "git_blob_sha": "21607abae98d66733ea903f794788dc8ce5765e1"
+    },
+    {
+      "path": "assets/leapmotor-b05/pt.svg",
+      "bytes": 1435,
+      "sha256": "e1a07cc9df49b3c31aedfae436e5a2af4563ced41e29177a70067bc44918790f",
+      "git_blob_sha": "053fd90d5b8b9c4b30e4fbcdb15b080092188fa1"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/ja.svg",
+      "bytes": 1221,
+      "sha256": "5b76d38ed8685ec554e87b2291f404a1f8b2c2bedea44b3a6e631f313d5b41d0",
+      "git_blob_sha": "27657420146703edace25d75787fe08232f2dbdb"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/id.svg",
+      "bytes": 1215,
+      "sha256": "e06137388ca3cda3d72c6a32f240da7158aa729f2025c4dcb78c622a5bd11c97",
+      "git_blob_sha": "561b623b0953514fbe265dda388a37e95848d15a"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/en.svg",
+      "bytes": 1198,
+      "sha256": "5d54ac99d8ec78c49e39dd7f91b591542e795b09ed0e564ab32455e941debdaa",
+      "git_blob_sha": "5c164ecbdf55f24b22f190fb0acaceb92e37fb55"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/ar.svg",
+      "bytes": 1345,
+      "sha256": "b4680d4192865ac3642c1a4202c978640ad385813ba194333d6ef4c8388e11be",
+      "git_blob_sha": "8e8cc83b12b9811011164ff9cef073e20259d541"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/es.svg",
+      "bytes": 1387,
+      "sha256": "6ec99cfc736263b71752bcf33c67b70c338cb04016163d7fdf6f21377a1c8a4e",
+      "git_blob_sha": "250a18c61202c75f74f1c867fcf6c41962bbdc04"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/fr.svg",
+      "bytes": 1198,
+      "sha256": "c33eca0a52738470e0d3c4677cc07c3dc8621b853e6750824116d5958f28cfb7",
+      "git_blob_sha": "dffa5f49607129fc61241987fb27735c4dedb016"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/ko.svg",
+      "bytes": 1228,
+      "sha256": "ef2ca8347f90aa57ae9d5cf3c4886763ab0caeae75d1c680e3f58c21e49f5c7d",
+      "git_blob_sha": "3b2ab0843d00d100dcab52ace20895dd830ee34d"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/vi.svg",
+      "bytes": 1264,
+      "sha256": "8df4a8fa9cb67c9695472b07d7bda3150ef844801e6a83f64c7a4d4b6c81e397",
+      "git_blob_sha": "03ea021f8101ee7c0d5c04029bf8e71b3f8193e5"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/zh.svg",
+      "bytes": 1119,
+      "sha256": "99e33c7e3fbc7392d7f98b189a04f49c28d0b0fb77ba4526524cb6d4c8b9196e",
+      "git_blob_sha": "40b47a0ede03aa8f17314ab448380c82e690fe3b"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/de.svg",
+      "bytes": 1188,
+      "sha256": "3d14c2808ec73f2aeb91d728cbb017fbb0e728b9a54470f38e3f9c9f27f7f28e",
+      "git_blob_sha": "517005a125b233cc928250bed23d9647284040e8"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/th.svg",
+      "bytes": 1606,
+      "sha256": "f151d0ac75551ffe4e415ec4dd60c6ff5ba21d784229dd50f55064c81af619dd",
+      "git_blob_sha": "2984890cf963bfb64e71e242a00df0dae614e709"
+    },
+    {
+      "path": "assets/cross-border-vehicle-recall-check/pt.svg",
+      "bytes": 1372,
+      "sha256": "857fd92905ddab39ebb6120911568daf7c56179781b739c4111c25b465825b97",
+      "git_blob_sha": "55c9912365b2adc55405317909fb569ef57d6304"
+    },
+    {
+      "path": "assets/connected-car-account-handover/ja.svg",
+      "bytes": 1239,
+      "sha256": "01383da2ae58419981af6acf250aa58313b1a6986a1c2532e61056b060925328",
+      "git_blob_sha": "e1b77a2fb5216084d82ff4c6a5e230bb0e7ae935"
+    },
+    {
+      "path": "assets/connected-car-account-handover/id.svg",
+      "bytes": 1205,
+      "sha256": "6dd1b31dd2e3df1cc9889164e2d5f9bda6a625444ad9cc01328b45a435dbe127",
+      "git_blob_sha": "5c4d7d85875edfbc764e4e0c413161371b8609cc"
+    },
+    {
+      "path": "assets/connected-car-account-handover/en.svg",
+      "bytes": 1202,
+      "sha256": "32ef9c1337acb8ca2ecb6f9820af52f58e59eedce55af75b5caac32b3f5b1f9e",
+      "git_blob_sha": "c751fec70f5140d8ee196b05d1a87572a8cffa79"
+    },
+    {
+      "path": "assets/connected-car-account-handover/ar.svg",
+      "bytes": 1359,
+      "sha256": "211640079d2b0649578692d599caa338e68ddc5e278e04dce12bea9133a9dc62",
+      "git_blob_sha": "ff53a6515cb63d315073fe5c4f51aaf6e313df82"
+    },
+    {
+      "path": "assets/connected-car-account-handover/es.svg",
+      "bytes": 1450,
+      "sha256": "5cd4e86090a6e6f5f985904560a99949cdd170b0ce8813ce0d419e140a28290e",
+      "git_blob_sha": "e5842d9cdc552ce5a3d995e20f405dd88029d556"
+    },
+    {
+      "path": "assets/connected-car-account-handover/fr.svg",
+      "bytes": 1258,
+      "sha256": "c9f445f820a9667f5c4d4ea9173ee182b44f9c70836ef71636e6872140009f89",
+      "git_blob_sha": "c20d4e2e5de6991dce6ef22d762281e54f79e19d"
+    },
+    {
+      "path": "assets/connected-car-account-handover/ko.svg",
+      "bytes": 1220,
+      "sha256": "1dba76d40f4c137fd3beca351df5a314a97574e6b2539f3330f5bb6ddc959e91",
+      "git_blob_sha": "ffe859a379be2a91ca14d572fcfca9457bca927a"
+    },
+    {
+      "path": "assets/connected-car-account-handover/vi.svg",
+      "bytes": 1230,
+      "sha256": "516beeb0400f6a27289f77785d3ebb0a4d6ae8c6c290875f5b54fcd816175d73",
+      "git_blob_sha": "27a2d58d35b509fe34c0552eb9ba707766a4baae"
+    },
+    {
+      "path": "assets/connected-car-account-handover/zh.svg",
+      "bytes": 1131,
+      "sha256": "5444e91d02963626e8b7afe0050b19c66aadb6a26036a1183ef4b69fc9595b36",
+      "git_blob_sha": "bb7f2bbbfac7fc1693f8bfd4e8932836fb514058"
+    },
+    {
+      "path": "assets/connected-car-account-handover/de.svg",
+      "bytes": 1212,
+      "sha256": "941125566f3ed199665f84f6e71e10c496db70381491396503dd17b80cc58f5f",
+      "git_blob_sha": "65789f6c07757a35d5437dfc0b562b0564414bf8"
+    },
+    {
+      "path": "assets/connected-car-account-handover/th.svg",
+      "bytes": 1681,
+      "sha256": "801383b704a9ffe699c8fb0fd3dc9e91acd2601996a46f50c4c4eaf5e26f7230",
+      "git_blob_sha": "6654306184759c7f2a66f6efa5318c9935a9f5a7"
+    },
+    {
+      "path": "assets/connected-car-account-handover/pt.svg",
+      "bytes": 1411,
+      "sha256": "725be8d9360427295553fcff7c54ac489e152c8dd93c7b26883fac0ecbd0ee02",
+      "git_blob_sha": "7731543af70852d87481b87394559f751e78aa05"
+    },
+    {
+      "path": "assets/byd-atto-2/ja.svg",
+      "bytes": 1209,
+      "sha256": "67572a26b35c7e6e60b2b9a89e8b1011292f0d385bbe0f59972e2d1f5c147e86",
+      "git_blob_sha": "117a9bf28bacd596873ab4a46b087df0b980cb26"
+    },
+    {
+      "path": "assets/byd-atto-2/id.svg",
+      "bytes": 1214,
+      "sha256": "915416b693ccbf204d5640053f7a4ffc9799807f323a651a953bca4a9d4ab725",
+      "git_blob_sha": "65d8ea5dafc874b5ae75b7ab983f2129ba06cea3"
+    },
+    {
+      "path": "assets/byd-atto-2/en.svg",
+      "bytes": 1240,
+      "sha256": "87b841a1ae4d63d761be122d0928992168ad0073d0297fcd26723778e0e1c7f2",
+      "git_blob_sha": "dd4b51a830f41c996926e099eb886b9c3457bd06"
+    },
+    {
+      "path": "assets/byd-atto-2/ar.svg",
+      "bytes": 1318,
+      "sha256": "033ceae6f0a610fc2f40b75ecb2e5ec0e9b86dc2d12a96e752f0a609e9690af4",
+      "git_blob_sha": "981c800125177112f2fe1959581012bbbacc2c4b"
+    },
+    {
+      "path": "assets/byd-atto-2/es.svg",
+      "bytes": 1396,
+      "sha256": "fdafd1429736c91798b40cb2c8414bcd7164c5c35fe0294be6e65b24505c3b87",
+      "git_blob_sha": "4465fa66d744e26a8ebdaa9f7ce4c1733f59fea7"
+    },
+    {
+      "path": "assets/byd-atto-2/fr.svg",
+      "bytes": 1311,
+      "sha256": "362cc30cd2c354bd175baa71175fdb7dbe9ab3e3baf6e56746a7aea0f97eb586",
+      "git_blob_sha": "b3589612bffb7dc80a1e15b5d1c5a3e7a66d2378"
+    },
+    {
+      "path": "assets/byd-atto-2/ko.svg",
+      "bytes": 1235,
+      "sha256": "73d73e5ac7bd9a04ffbc870ca9cb1086d949c71fca961316549415c7820c6912",
+      "git_blob_sha": "c08a2c803e02afc231748905bde5f5c11f8ece0f"
+    },
+    {
+      "path": "assets/byd-atto-2/vi.svg",
+      "bytes": 1249,
+      "sha256": "91ed9e3e32451de96f568f8257b68c7373d6e77a908309e61acf275abd11c2f9",
+      "git_blob_sha": "87cda420faac81fa02d2dc8a8b54c66500af6cd0"
+    },
+    {
+      "path": "assets/byd-atto-2/zh.svg",
+      "bytes": 1158,
+      "sha256": "65a2d53073247431853b6593bd91ca8211cb3b7f3d9193e40ecd36e1cb662509",
+      "git_blob_sha": "d91fb4c664ca1870aa20765f56c9554e855e54b8"
+    },
+    {
+      "path": "assets/byd-atto-2/de.svg",
+      "bytes": 1325,
+      "sha256": "2b9b2dcfcf8cc4c27d30ebd2dde6acd5348d8d87e3972709ad17d97244d562c5",
+      "git_blob_sha": "39b785e413c7da77766f7e37d8e85103558b4b4a"
+    },
+    {
+      "path": "assets/byd-atto-2/th.svg",
+      "bytes": 1638,
+      "sha256": "08d3bc74566986623b8f41556e9d7e5e7db6b6c4fd1dfe50dece701c21dee0c0",
+      "git_blob_sha": "5b1b43988655a72d74b2922e31690583c7704fac"
+    },
+    {
+      "path": "assets/byd-atto-2/pt.svg",
+      "bytes": 1372,
+      "sha256": "5e71f181be5edeb1b926c90624b53077ad729ffe146c42f4cddd050192cf3165",
+      "git_blob_sha": "80e79dd2274e85866e668c017660d6595b287043"
+    },
+    {
+      "path": "assets/zeekr-009/ja.svg",
+      "bytes": 1243,
+      "sha256": "ae72ea37c44c43fff6fd5504814ec3609dce6a1a6a8879e8e0777c9f91ca2cb3",
+      "git_blob_sha": "e4e93213432612dce6f298f3470fe6ff8bb3614c"
+    },
+    {
+      "path": "assets/zeekr-009/id.svg",
+      "bytes": 1252,
+      "sha256": "67862e2ef99f37cc44ef3ab1af1e45e840581f23ce77bc2205160776d4c6d79b",
+      "git_blob_sha": "8fb24d607161cdb7366dee16bb673055069baa14"
+    },
+    {
+      "path": "assets/zeekr-009/en.svg",
+      "bytes": 1285,
+      "sha256": "de4d96b0875dd348feac89617b320752486f895de3a59b0e6bcaec69653f8317",
+      "git_blob_sha": "0b8afb0085c2c19f2e38fc251ee0dca40ce7d180"
+    },
+    {
+      "path": "assets/zeekr-009/ar.svg",
+      "bytes": 1330,
+      "sha256": "232962f05d47af94baf65c70a76463ad7be56f77081c70a32704f202aea7305d",
+      "git_blob_sha": "ba10887d09c8fb55e19af37b63572779b5eeebc6"
+    },
+    {
+      "path": "assets/zeekr-009/es.svg",
+      "bytes": 1447,
+      "sha256": "3f501de5821541c175362490436d42b1fb40f586fad516d66b20cc9369247e14",
+      "git_blob_sha": "a83ba69b978a23a7201ac7102506daba56af5a1c"
+    },
+    {
+      "path": "assets/zeekr-009/fr.svg",
+      "bytes": 1392,
+      "sha256": "2258ce4af6e83b919ca9ed315a1e7f137668440f0cc813160d3242d0adf6eaae",
+      "git_blob_sha": "36c5063b9ef05c641b8e89b0820b99ea60ca4032"
+    },
+    {
+      "path": "assets/zeekr-009/ko.svg",
+      "bytes": 1241,
+      "sha256": "00a61969f4aa43a97d593c5770423f2d0760a2c8ad10bc42f59fe558efa9a060",
+      "git_blob_sha": "9816f2eae7c217f893e616c3480566bbe4cb8ce9"
+    },
+    {
+      "path": "assets/zeekr-009/vi.svg",
+      "bytes": 1305,
+      "sha256": "e44667e3e1206c7a62cd79d982765856b79eecf8ffe80bef63b15353f98fb402",
+      "git_blob_sha": "556d28b906f026374e2de9b59a127b837db8b2f8"
+    },
+    {
+      "path": "assets/zeekr-009/zh.svg",
+      "bytes": 1176,
+      "sha256": "f1690ba59cc73fa5217a1dc44608a76a0257efd8da48be7acb6bcd52db57e3b2",
+      "git_blob_sha": "177b81ce934fff3a23b421795c92568c8372ed35"
+    },
+    {
+      "path": "assets/zeekr-009/de.svg",
+      "bytes": 1379,
+      "sha256": "f1a0d072308046f2e2083cf35874615dfff4dcbbbfc5c067391b1f6db51a0975",
+      "git_blob_sha": "4dd350ed14eaf9a72589f23e7a12d61074e136f0"
+    },
+    {
+      "path": "assets/zeekr-009/th.svg",
+      "bytes": 1764,
+      "sha256": "666e9727770329214ad92aeb2150984e182226effc77e60b08171d365ef226d8",
+      "git_blob_sha": "069f626e238b89627e38d2d382d1fbf398c779bc"
+    },
+    {
+      "path": "assets/zeekr-009/pt.svg",
+      "bytes": 1429,
+      "sha256": "ef3eb4bae93e950febbe641439dcd1763d18338a102e934dc6ba945fc6cac00a",
+      "git_blob_sha": "0b9a6c4a7c2c0b320509d7d63260fd3040e0b72c"
+    },
+    {
+      "path": "qa/es_pt_independent_review.json",
+      "bytes": 7387,
+      "sha256": "da87537a75ffc7240db20d6eb190de8f4b7e5cd5c6bfb097e47ec1a07e3ede9b",
+      "git_blob_sha": "28a9dcc1ee78bbf5091cb483d624c00ec79a36a2"
+    },
+    {
+      "path": "qa/fr_de_independent_review.json",
+      "bytes": 11042,
+      "sha256": "e8c92015265ef924d0f2b2df0878655e2ca5f2657d047bc2d1863130813e45cf",
+      "git_blob_sha": "a5473ca6dfd4ad79da74365760e5cdaee126aa63"
+    },
+    {
+      "path": "qa/english_editorial_review.json",
+      "bytes": 5708,
+      "sha256": "7efc73b5157c0b283b499581c8c1c30a0e487f8b1306d136ed8bbc8870c5e978",
+      "git_blob_sha": "9f6b9014ac9da29a9fcd7234fbd5c8ab97db0410"
+    },
+    {
+      "path": "qa/east_asian_independent_review.json",
+      "bytes": 39509,
+      "sha256": "d2a05c5c10eeba1179dcae8acc21447d4c8f2fe8f191fdb306895c7424c08868",
+      "git_blob_sha": "dc97a4cc3353b470d86f7e506c8f115bebae3c4c"
+    },
+    {
+      "path": "qa/vi_th_author_review.json",
+      "bytes": 7407,
+      "sha256": "b7acfda3f5b63a127a309828dbba74bfe9150f3fdb8b69cea12901705039751c",
+      "git_blob_sha": "5932240584acb177284139797c0ee87836f0ab97"
+    },
+    {
+      "path": "qa/east_asian_structural_selfcheck.json",
+      "bytes": 8341,
+      "sha256": "b55e2f30c30f2169049a6e05587299f2d8924250495982309ba4841056164ab7",
+      "git_blob_sha": "20ec9f281b62a7f6ccaaf217600019600bec805d"
+    },
+    {
+      "path": "qa/fr_de_structure_review.json",
+      "bytes": 2778,
+      "sha256": "08180c3e703240bdb09d609d590284c76f7de6cb3ba9561032f5ad6feb848b69",
+      "git_blob_sha": "9d3387afc17a85a150a85346a0f456daa09f26f9"
+    },
+    {
+      "path": "qa/historical_overlap.json",
+      "bytes": 42089,
+      "sha256": "bc1626fcd0f936dec908525ca1e014e83d64a1a6a0729239809bd9aee0fc2e25",
+      "git_blob_sha": "86150347c9ac62dae3f0a345745e5e91e4886418"
+    },
+    {
+      "path": "qa/ar_id_self_review.json",
+      "bytes": 13910,
+      "sha256": "462bff1020b520e563d0fd8fcfda5c0efaef92a3dae829c2345a1711c7c635c5",
+      "git_blob_sha": "66f7fa9fb1743ac81b3c9446051a99032e114aee"
+    },
+    {
+      "path": "qa/es_pt_structural_review.json",
+      "bytes": 8463,
+      "sha256": "e305f4ba6be92106bee94f1d3c7e627848ea06bc68542434615c08e77692bfd8",
+      "git_blob_sha": "5665220dd85d7c2842811dcbc934cd8a95f598af"
+    },
+    {
+      "path": "qa/remaining_independent_review.json",
+      "bytes": 125732,
+      "sha256": "f0a9f901f144c60183da7268d81c4bdb8c40fc2b27351e680304b8ef0055886d",
+      "git_blob_sha": "651c90eb896dbcd82d1b3bbfefc2129c9a2c88b8"
+    },
+    {
+      "path": "qa/structure.json",
+      "bytes": 120948,
+      "sha256": "404a8e6eaa9d90498940b69f0bb719afb1919021a0f9c19bdcb72dd5b350cf0c",
+      "git_blob_sha": "4d6959f247c5e2e211ec7f530f18571a05101363"
+    },
+    {
+      "path": "qa/th_guides_author_check.json",
+      "bytes": 1920,
+      "sha256": "b2d026ec62f8692ac55b7812b95d59be8cd7b97150752303eab586549bdbd887",
+      "git_blob_sha": "4a450b67b9a766f24dd652843cd7471eb697c5ce"
+    },
+    {
+      "path": "README.md",
+      "bytes": 24977,
+      "sha256": "f8a9d56bd2b5f4694c4d19e57a755d11b79b13b5b8f9231f5904b6c5f50704e8",
+      "git_blob_sha": "10cbe42ad9f329afd0226938b4e094bf0803ca26"
+    },
+    {
+      "path": "SEO_HANDOFF.md",
+      "bytes": 2922,
+      "sha256": "079282a31e1b8e8c5c7f578507ebfe2d14ff313c95c2b54952617065a0f3a9e8",
+      "git_blob_sha": "fb15be7aa3a6bdb7468da7dc480d3a1abe5f71f4"
+    },
+    {
+      "path": "research_evidence.json",
+      "bytes": 23205,
+      "sha256": "f06d77dfc28439e20ce997c378c26c149ccc482b95c1b9f7ceba2fa5ca47d921",
+      "git_blob_sha": "c4bc62a525d5d87c8d9dabd83c7f2583b6568a98"
+    }
+  ]
+}

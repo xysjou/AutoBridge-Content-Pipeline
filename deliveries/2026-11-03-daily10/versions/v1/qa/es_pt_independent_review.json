@@ -1,0 +1,252 @@
+{
+  "scope": "20 complete ES/PT bodies read against EN claims, market/trim/test scopes, qualifications, FAQs and URLs; AI editorial review, not human/native certification",
+  "status": "reviewed_with_corrections",
+  "corrections": [
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "languages": [
+        "es",
+        "pt"
+      ],
+      "issue": "Repeated negation restored for cannot start OR cannot wake; original wording could read as successful wake."
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "issue": "Clarified negated coverage list to distinguish no historical-recall proof from no database-coverage proof."
+    }
+  ],
+  "notes": [
+    "B10 Malaysia vs UK equipment and EuroNCAP applicability preserved",
+    "B05 miles and September2026 completed rating preserved",
+    "ATTO2 unresolved 2025/2026 dates preserved",
+    "SEALION7 2024 launch scope, weak rear chest and GreenNCAP update preserved",
+    "ZEEKR604/582 variant split preserved",
+    "Guides retain jurisdiction-specific examples and no global certification claims",
+    "Portuguese regional vocabulary varies between early and later articles; readable but not a single-country style certification"
+  ],
+  "files": [
+    {
+      "path": "articles/adas-windscreen-repair-evidence/es.md",
+      "sha256": "8b0a72e0985124821f27fcb0f9697e10d6d062b97ee8241163ef5f65629ae5dc"
+    },
+    {
+      "path": "articles/adas-windscreen-repair-evidence/pt.md",
+      "sha256": "17fd4e206a289196ad193c551a42d76bc69796eb9a063ff74a4863d3cecc55dc"
+    },
+    {
+      "path": "articles/byd-atto-2/es.md",
+      "sha256": "cb1d1fd9f78d014a66361f59b2e36510b34cc6a643c66fd74101a19290a8cedb"
+    },
+    {
+      "path": "articles/byd-atto-2/pt.md",
+      "sha256": "739f6a5513eb9f223365c38e5245805d599b4b3013c635513414f24f39138d55"
+    },
+    {
+      "path": "articles/byd-sealion-7/es.md",
+      "sha256": "9801bda3c109e0b59439cebf2d83dbbd39445d1698b88b53479b50e85cbf6225"
+    },
+    {
+      "path": "articles/byd-sealion-7/pt.md",
+      "sha256": "f6f1d1d09627fa2cc7895b564870d0b7c449c526f471e9951a3a490eeda2dcd9"
+    },
+    {
+      "path": "articles/connected-car-account-handover/es.md",
+      "sha256": "c7964463d7b1be92ff931b5b7e5771728de91006198eecfcef5318f5a9790092"
+    },
+    {
+      "path": "articles/connected-car-account-handover/pt.md",
+      "sha256": "b83589e97e5c9ed8bf253fae57e348b96da04eb669fe850780d1b8492d19cd0b"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/es.md",
+      "sha256": "d2bdaf80ba8e391ad3c0f91c713bb3442eb6b1b6d613a2756f95be672f8f1abc"
+    },
+    {
+      "path": "articles/cross-border-vehicle-recall-check/pt.md",
+      "sha256": "05b84761524b42bc12b4df81de75ebd1c699a5c385970cb3fcb01bcb898c11c7"
+    },
+    {
+      "path": "articles/leapmotor-b05/es.md",
+      "sha256": "8f6b5d8c25d24dedc8768acd9944ce7173a9dc300a2f10e07ffc81bf446063f2"
+    },
+    {
+      "path": "articles/leapmotor-b05/pt.md",
+      "sha256": "fc7e206efc186e0c9ae2d0e9f1351e96a61530098ad27e5283930314c733303f"
+    },
+    {
+      "path": "articles/leapmotor-b10/es.md",
+      "sha256": "91e99ff1d42b2a3215824b1506232651cb7e81e29f6a88a9787b9b396a74c461"
+    },
+    {
+      "path": "articles/leapmotor-b10/pt.md",
+      "sha256": "ec161141fff9bd2d5ef0c822ea1da20abba4c7e6211f955a70095efaf26e3a35"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/es.md",
+      "sha256": "657b58607f71e4e9eceb68eef9e302d9f6c7916eac2be567ed673b99caf26266"
+    },
+    {
+      "path": "articles/low-voltage-battery-storage-readiness/pt.md",
+      "sha256": "48bf4d3b28ca808ef734ba04a9bad61e26beba0388ecc373e31d67bccf1adc26"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/es.md",
+      "sha256": "5a93ab4020334e4406b72ba0f3092286b178d2ae2b6c0d7cd5fbce29ee7b3f4e"
+    },
+    {
+      "path": "articles/tire-evidence-before-imported-car-purchase/pt.md",
+      "sha256": "55331c87d1b2914c40015fd910b8334b8c232c05e2d21e1514a59a52f0b8b5e1"
+    },
+    {
+      "path": "articles/zeekr-009/es.md",
+      "sha256": "52ec04742b36f181385ab3f5ec6259755713d2371cb42de7a52f2e248468312a"
+    },
+    {
+      "path": "articles/zeekr-009/pt.md",
+      "sha256": "a428135e621dd9ad418d39cd09ab458a3e5f4d245285343f3a9e1be8ea85017c"
+    }
+  ],
+  "checks": [
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1179
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1135
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1344
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1278
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1207
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1181
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1213
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1178
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1143
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1094
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1062
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1069
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1131
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1118
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1179
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1160
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1140
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1141
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "es",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1218
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "pt",
+      "urls_equal": true,
+      "h1_meta_equal": true,
+      "words": 1196
+    }
+  ]
+}

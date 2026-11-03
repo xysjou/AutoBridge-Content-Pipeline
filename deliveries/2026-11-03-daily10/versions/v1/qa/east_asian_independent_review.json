@@ -1,0 +1,891 @@
+{
+  "status": "complete",
+  "reviewer": "Independent AI-assisted editorial reviewer; not human approval",
+  "reviewed_at_utc": "2026-11-03T13:04:34.535828+00:00",
+  "body_results": [
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "ecfdae0db887069ed0307e72c7bbef651fd155803fa5d6b9c8cd5aa0b6cc1c49",
+      "english_sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "3de1cdb4e9da5d1f739e0e5cbb6e009e61eb760cdcd5aa5279c690e96468e032",
+      "english_sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "a4b0425b5e50ec1b25abf092afe59c6d5060695aae4949eb7e5516ba5e305f22",
+      "english_sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "be73be4817f0a390f138e48491a484e1b88fd716e180e826f337b730923dbf63",
+      "english_sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "77c92591a3b6719f078738a4b055499584214de835dce6a0cdba3fb8e7425bcc",
+      "english_sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "ee3339c2f70661cd4a914ae3a5789975f887e0b086e048206c7e540c149762a5",
+      "english_sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "c37f9b390b805d536b0e36e0c13116b9b0313ece1f4cbd3def504180684b860d",
+      "english_sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "1c67b93e57e0ee22bdee50323c0cff12b09c0fec2ee3f65b36e0d68948656530",
+      "english_sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "8fb877ab442086b700e83f8288d505530452f7e0d5bdc0c75c7af3c92188c325",
+      "english_sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "824b62ec0bc47ebc118a1feacde3f3e0d366b089b89e7deb640a79fea3b02b8f",
+      "english_sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "903e1fb4d090560809e802b903d177898d672a3b1e1410ff079239d1db3488f8",
+      "english_sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "aa519bf061624c642f375713cf99103af6aa0ecd5e30afa04567e44a2d460165",
+      "english_sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "d4e1553b79aa5393ebb6b9dad0e1b04d165a324095ca389148f9946f94a9066f",
+      "english_sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "7656d708aba76bf42012a8f8d763548a7367489d6cc3b632c4ba2ca7052c423e",
+      "english_sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "9cf9003dc5ea23e9c6f1bd2fa8fcb1049b72b7c31fe4a2c2df2a670e422a023f",
+      "english_sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "5473aece0ccf4b1a24db45c2a714b8e3fb8535db8865ae2a4fdcc363329e0cf4",
+      "english_sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "a24789906af26c76120275a9ae5ab4d60aca2d646ee7c168720fa3ef32054b75",
+      "english_sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "99b78538db9a1e109dede99453ddbb8df472ab1da966874e21015d6af6ea5526",
+      "english_sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "916966d14ebcf3cc230f4e9d20ae892db83c1ccd97835ce731d4c3731f4d5244",
+      "english_sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "805f775f51e75337cb2d27e1ef2e1696d34bc80867d01443fba40c4539e93a64",
+      "english_sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "48acbc70116eb79d2904e2a82361b2b948ad1b3fcdaf985fbcacaca0b9ee96ec",
+      "english_sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "279a21c78607543f5082f18f16944f17d0bf2b3ad6636685bc93dca2c90d7fd1",
+      "english_sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "8ab402b6c426f260816e391112d2fd36a9deaf6db4a4d27e22f6b76ab2640f02",
+      "english_sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "0257ce79095062e39ec5439d67a920a359c293ba425bb1f9256fbd57d1a47d7d",
+      "english_sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "ee7c59ee0f36c9b75ab4bbc52f53fa4fdfd789da5cfd6e5e0d3497535ca5732e",
+      "english_sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "007c03198957babc36a7099b96356b6a5951587f5a7fe5df6cad0c6ed6047601",
+      "english_sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "62770d158f288b791295fe7629cb9fe1292dc1bb45f817571b0468616ef0caff",
+      "english_sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "zh",
+      "body_read_in_full": true,
+      "body_sha256": "beab53902e3b8ca301e2866e144ac30dbe00676d90d2aba6a726a2168395ceb0",
+      "english_sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "body_read_in_full": true,
+      "body_sha256": "5ea733d7497ee366ef6d43f2593be907da74dc32d4e2f6ae1921ade06e48e8ec",
+      "english_sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "body_read_in_full": true,
+      "body_sha256": "0c726f89aa1c98aa73fd20c21a559b634b85b024ed2743120c2c387a71c70d8f",
+      "english_sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "semantic_result": "Passed independent AI full-paragraph comparison after recorded wording corrections; not human review",
+      "headings_count_equal": true,
+      "paragraph_count_equal": true,
+      "urls_equal": true
+    }
+  ],
+  "metadata_reviewed_count": 30,
+  "pending": [],
+  "method": "Read EN and each target-language body in full through tool output; not numeric scan only.",
+  "body_reviewed_count": 30,
+  "corrections": [
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "before": "各版本",
+      "after": "各仕様",
+      "reason": "Chinese-style term in Japanese heading; same variant meaning."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "source": "airport transfers",
+      "before": "공항 왕복 횟수",
+      "after": "공항 이동 서비스 횟수",
+      "reason": "Avoid narrowing generic transfers to round trips."
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "before": "Model 3手冊",
+      "after": "Model 3の取扱説明書",
+      "reason": "Use normal Japanese manual terminology."
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "before": "몇 일",
+      "after": "며칠",
+      "reason": "Korean spelling."
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "zh",
+      "source": "Premium Connectivity subscriptions",
+      "before": "高级车载娱乐服务",
+      "after": "Premium Connectivity 服务",
+      "reason": "Keep official service name rather than narrowing scope to entertainment."
+    }
+  ],
+  "metadata_corrections": [
+    {
+      "slug": "leapmotor-b10",
+      "language": "zh",
+      "field": "diagram_alt",
+      "before": "原创示意图展示Life电池与WLTP、Design电池与WLTP、相同充电区间。并非车辆照片、检查结果或维修指令。",
+      "after": "原创示意图展示Life电池与WLTP、Design电池与WLTP、相同充电区间。并非车辆照片、按比例绘制的图纸、检查结果或维修指令。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "field": "diagram_alt",
+      "before": "独自の模式図でLifeの電池とWLTP、Designの電池とWLTP、共通の充電区間を示します。車両写真、点検結果、修理指示ではありません。",
+      "after": "独自の模式図でLifeの電池とWLTP、Designの電池とWLTP、共通の充電区間を示します。車両写真、縮尺図、点検結果、修理指示ではありません。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "field": "title",
+      "before": "マレーシアの零跑B10：LifeとDesignを比較",
+      "after": "マレーシアのLeapmotorB10：LifeとDesignを比較",
+      "reason": "Match Japanese-body brand rendering instead of untranslated Chinese brand characters."
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "field": "summary",
+      "reason": "Make Malaysian and document-based scope explicit as in English."
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ko",
+      "field": "diagram_alt",
+      "before": "독창적인 설명 도표에 Life 배터리와 WLTP, Design 배터리와 WLTP, 동일 충전 구간 항목을 표시합니다. 차량 사진, 점검 결과, 수리 지침이 아닙니다.",
+      "after": "독창적인 설명 도표에 Life 배터리와 WLTP, Design 배터리와 WLTP, 동일 충전 구간 항목을 표시합니다. 차량 사진, 축척 도면, 점검 결과, 수리 지침이 아닙니다.",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ko",
+      "field": "summary",
+      "reason": "Make Malaysian and document-based scope explicit as in English."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "zh",
+      "field": "diagram_alt",
+      "before": "原创示意图展示Comfort后驱、Design AWD、Excellence AWD。并非车辆照片、检查结果或维修指令。",
+      "after": "原创示意图展示Comfort后驱、Design AWD、Excellence AWD。并非车辆照片、按比例绘制的图纸、检查结果或维修指令。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ja",
+      "field": "diagram_alt",
+      "before": "独自の模式図でComfort後輪駆動、Design AWD、Excellence AWDを示します。車両写真、点検結果、修理指示ではありません。",
+      "after": "独自の模式図でComfort後輪駆動、Design AWD、Excellence AWDを示します。車両写真、縮尺図、点検結果、修理指示ではありません。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ja",
+      "field": "summary",
+      "reason": "Make European launch-table scope explicit as in English."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ko",
+      "field": "diagram_alt",
+      "before": "독창적인 설명 도표에 Comfort 후륜구동, Design AWD, Excellence AWD 항목을 표시합니다. 차량 사진, 점검 결과, 수리 지침이 아닙니다.",
+      "after": "독창적인 설명 도표에 Comfort 후륜구동, Design AWD, Excellence AWD 항목을 표시합니다. 차량 사진, 축척 도면, 점검 결과, 수리 지침이 아닙니다.",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ko",
+      "field": "summary",
+      "reason": "Make European launch-table scope explicit as in English."
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "zh",
+      "field": "diagram_alt",
+      "before": "原创示意图展示英国掀背车型身份、30–80%充电区间、9月安全结果。并非车辆照片、检查结果或维修指令。",
+      "after": "原创示意图展示英国掀背车型身份、30–80%充电区间、9月安全结果。并非车辆照片、按比例绘制的图纸、检查结果或维修指令。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ja",
+      "field": "diagram_alt",
+      "before": "独自の模式図で英国ハッチバック仕様、30–80%の充電区間、9月の安全評価を示します。車両写真、点検結果、修理指示ではありません。",
+      "after": "独自の模式図で英国ハッチバック仕様、30–80%の充電区間、9月の安全評価を示します。車両写真、縮尺図、点検結果、修理指示ではありません。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ja",
+      "field": "title",
+      "before": "英国の零跑B05：ハッチバック、電池、安全性",
+      "after": "英国のLeapmotorB05：ハッチバック、電池、安全性",
+      "reason": "Match Japanese-body brand rendering instead of untranslated Chinese brand characters."
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ko",
+      "field": "diagram_alt",
+      "before": "독창적인 설명 도표에 영국 해치백 사양, 30–80% 충전 구간, 9월 안전 결과 항목을 표시합니다. 차량 사진, 점검 결과, 수리 지침이 아닙니다.",
+      "after": "독창적인 설명 도표에 영국 해치백 사양, 30–80% 충전 구간, 9월 안전 결과 항목을 표시합니다. 차량 사진, 축척 도면, 점검 결과, 수리 지침이 아닙니다.",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "zh",
+      "field": "diagram_alt",
+      "before": "原创示意图展示土耳其Boost、土耳其Comfort、共同电池规格。并非车辆照片、检查结果或维修指令。",
+      "after": "原创示意图展示土耳其Boost、土耳其Comfort、共同电池规格。并非车辆照片、按比例绘制的图纸、检查结果或维修指令。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ja",
+      "field": "diagram_alt",
+      "before": "独自の模式図でトルコBoost、トルコComfort、共通の電池仕様を示します。車両写真、点検結果、修理指示ではありません。",
+      "after": "独自の模式図でトルコBoost、トルコComfort、共通の電池仕様を示します。車両写真、縮尺図、点検結果、修理指示ではありません。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ko",
+      "field": "diagram_alt",
+      "before": "독창적인 설명 도표에 튀르키예 Boost, 튀르키예 Comfort, 공통 배터리 사양 항목을 표시합니다. 차량 사진, 점검 결과, 수리 지침이 아닙니다.",
+      "after": "독창적인 설명 도표에 튀르키예 Boost, 튀르키예 Comfort, 공통 배터리 사양 항목을 표시합니다. 차량 사진, 축척 도면, 점검 결과, 수리 지침이 아닙니다.",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "zh",
+      "field": "diagram_alt",
+      "before": "原创示意图展示Executive续航、Luxury七座参考、Ultra-Luxury六座参考。并非车辆照片、检查结果或维修指令。",
+      "after": "原创示意图展示Executive续航、Luxury七座参考、Ultra-Luxury六座参考。并非车辆照片、按比例绘制的图纸、检查结果或维修指令。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "field": "diagram_alt",
+      "before": "独自の模式図でExecutiveの航続距離、Luxuryの7席参考、Ultra-Luxuryの6席参考を示します。車両写真、点検結果、修理指示ではありません。",
+      "after": "独自の模式図でExecutiveの航続距離、Luxuryの7席参考、Ultra-Luxuryの6席参考を示します。車両写真、縮尺図、点検結果、修理指示ではありません。",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "field": "summary",
+      "reason": "Make Malaysian official-page scope explicit as in English."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "field": "diagram_alt",
+      "before": "독창적인 설명 도표에 Executive 주행거리, Luxury 7석 참고, Ultra-Luxury 6석 참고 항목을 표시합니다. 차량 사진, 점검 결과, 수리 지침이 아닙니다.",
+      "after": "독창적인 설명 도표에 Executive 주행거리, Luxury 7석 참고, Ultra-Luxury 6석 참고 항목을 표시합니다. 차량 사진, 축척 도면, 점검 결과, 수리 지침이 아닙니다.",
+      "reason": "Restore EN not-a-scale-drawing qualification omitted by shared metadata template."
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "field": "summary",
+      "reason": "Make Malaysian official-page scope explicit as in English."
+    }
+  ],
+  "metadata_results": [
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "zh",
+      "sha256": "58db8cd24f3203511ee6ff37533355ace38d992331f6b4bb69cba74424bcddea",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ja",
+      "sha256": "6944eebd574e818adcf45fad409316946f459faba97663519aebc0e506a62f8f",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "ko",
+      "sha256": "c95a5e4d7e48bac54b2f548c3fbc10d2b8d9fed45261ea19d0f0699238fd4bb0",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "zh",
+      "sha256": "cae8e9618be4469ff43929047bd94e2b8088d634305124c9cdd675b7b6086a1e",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "sha256": "632fa85307a4fa8d9c9987adbbd3f49aaa5649461f038f87edcb5a12f614fa45",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "sha256": "ac255a3286f649192e59abbaf8829c9f196854e508ba29b54fe406ff0cf6e2f6",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "zh",
+      "sha256": "a1fb6a1851a88561a90fdde328147f259508438cc1cd05a6481e3c08238656f1",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ja",
+      "sha256": "fd127e0ca84e29a329c445305a17f5e033f3c68ab898446fe2b5d8ae389ae749",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "ko",
+      "sha256": "76c566ced8263507815e2107f03b76e736c1c216274e8cdcabeb030891f25029",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "zh",
+      "sha256": "7353ab27acbb3f818363130e625e65e28e25e3be893a57b34d0b58b8f53e18c0",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ja",
+      "sha256": "097a03e01ec8606fa4d76fa4c2f50ccf5e4bcf73a7aa77cbdd8fdd978545db87",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "ko",
+      "sha256": "d8228d87092ff2c32a9f8b27df99a017711618db80d9a7ab95292110f6db3a8a",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "zh",
+      "sha256": "07e46b19e921f82e7178b0698c9c0c2525fc03edb06765ee6a80ac0a6e44173c",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ja",
+      "sha256": "e2065b14b03cedcba63504ff6f393714579d1bd753863eb62b901e1e8ed2647d",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "ko",
+      "sha256": "74569f0a5365d93534a96273d7672761dbdcaa206f20b8e1affa0df0531e4ff0",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "zh",
+      "sha256": "74106f654c88b0efcf13efe2a00190385243e7aba8b838f8deb73d454e384f38",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ja",
+      "sha256": "ae2eac36844c45c7858f7cb3dee55fba451c5b7b9e510442460d819640611ca9",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "ko",
+      "sha256": "6231853c91360dd577fc7f6eb370a0bc028aada8dad5771af67b65c962238215",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "zh",
+      "sha256": "287aa176422622ef0ca5b2e84376e010d684fda1e6200b4c85183fdc731be0cf",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ja",
+      "sha256": "94d149caf753c0a1bf4001324fc47c7f9475eb08330b81504cf6cf62f8f61c53",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "ko",
+      "sha256": "05f340ccd2b910af0fba977c2ce2eb9529806261a7ca25451388ce19224fab8d",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "zh",
+      "sha256": "049eb408c2d5bf238ae63ae7076b14e8c9d126066f51de38c40b89a421d1f476",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ja",
+      "sha256": "d506303d44529148fcadd3d5f8d3c3966195493a0f5274aef691e6db04589bc2",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "ko",
+      "sha256": "1141bcea44d6af0557b51faa4b37896fb8999180e02916a93ed8906c0e3913d5",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "zh",
+      "sha256": "e539f2e7868b85d353f0cc96414c2a0dab0ae249cdf3b95ccc62df6302f89796",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ja",
+      "sha256": "f497de44b9ebf16b2fd5752b89434678706fc8fd7d41da96160618a17869d9b7",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "ko",
+      "sha256": "622cab6b8a3d05bf081f92a2d74ce61ed636029b86743c7440909c436bf68c43",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "zh",
+      "sha256": "7e0f95dda97e7be68467b4a757edb280b059aefb1e3ac985b50cd1d797454f95",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ja",
+      "sha256": "930cf586e4adfb3705b8327dd225828d043631428edac4ceeedaca8a349c8b21",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "ko",
+      "sha256": "4df218dfa3ea45004743acf8e58a903fb236e285622e0492c915319ea104d6e3",
+      "semantic_read_in_full": true,
+      "identity_fields_equal": true,
+      "internal_urls_equal": true,
+      "h1_matches_body": true,
+      "safety_flags_false": true,
+      "result": "pass_after_recorded_corrections"
+    }
+  ],
+  "completed_at_utc": "2026-11-03T13:06:26.275090+00:00",
+  "limitations": [
+    "Independent AI semantic review, not human/native-speaker certification or a guarantee of error-free translation.",
+    "No new primary-source verification, live deployment or Google indexing claim in this review. EN research boundaries remain applicable."
+  ]
+}

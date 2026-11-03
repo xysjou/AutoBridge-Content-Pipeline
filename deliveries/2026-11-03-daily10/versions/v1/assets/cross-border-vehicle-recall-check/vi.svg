@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" xml:lang="vi" role="img" aria-labelledby="title desc">
+<title id="title">Sơ đồ biên tập minh họa: Cơ sở dữ liệu phù hợp, Phạm vi áp dụng cho xe, Bằng chứng khắc phục. Không phải ảnh xe, kết quả kiểm tra hay hướng dẫn sửa.</title><desc id="desc">Khung minh họa cho việc mua xe; chưa kiểm tra chiếc xe cụ thể nào.</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<rect x="50" y="25" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Cơ sở dữ liệu phù hợp</text>
+<rect x="50" y="170" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Phạm vi áp dụng cho xe</text>
+<rect x="50" y="315" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Bằng chứng khắc phục</text>
+</svg>

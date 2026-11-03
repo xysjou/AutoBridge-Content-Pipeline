@@ -1,0 +1,78 @@
+{
+  "reviewed_at_utc": "2026-11-03T12:48:08.007409+00:00",
+  "reviewer_type": "Independent coordinator AI full-English reading; not human review",
+  "scope": "All ten EN full articles, research scope and metadata. Reopened B05 Stellantis June2026 and EuroNCAP September2026 originals independently. Other sources use recorded source checks, not an assertion every source was reopened independently. Independently reopened BYD European SEALION7 launch and Green NCAP result; verified July2026 four-to-four-and-a-half star revision despite stale four-star headline.",
+  "article_reviews": [
+    {
+      "slug": "leapmotor-b10",
+      "sha256": "c09411ea5acc3074ba1dbfb2bd0ed1c6a1eae278fede9361dc2778e2f3f5f30d",
+      "editorial_result": "DRAFT_REVIEWED_WITH_RESEARCH_CONDITIONS",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "leapmotor-b05",
+      "sha256": "aaffba9328971796f2a97855eadedec1985b1d24c013790d7316f7ae6215250e",
+      "editorial_result": "DRAFT_REVIEWED_WITH_RESEARCH_CONDITIONS",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "byd-atto-2",
+      "sha256": "cf06a8bbc397036984bcae959caba6cf7d6d21e93c27e29e2376498cae8e4a9d",
+      "editorial_result": "DRAFT_REVIEWED_WITH_RESEARCH_CONDITIONS",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "byd-sealion-7",
+      "sha256": "3a414616e7de2331019e6b1f4b9557e2b74f19c9838c46085f7a3c483e93dd24",
+      "editorial_result": "DRAFT_REVIEWED_WITH_RESEARCH_CONDITIONS",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "zeekr-009",
+      "sha256": "c360220bf1fa60ec40676cc071a5a8e5d428e764e4ccb6284a4a33eaec9d7e4d",
+      "editorial_result": "DRAFT_REVIEWED_WITH_RESEARCH_CONDITIONS",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "sha256": "3968d0bedd853e4f3cf792e58ed96ebf4e41b2d2def496e29ce1facdf7edfd29",
+      "editorial_result": "DRAFT_REVIEWED",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "sha256": "230511921093f026adbb9655585cc0749ad4e12983d52be6aed72490aea36ba4",
+      "editorial_result": "DRAFT_REVIEWED",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "sha256": "a7802c10e97cb55784d068ebd1a3ab6887b64f2a4a0a6d6014305293584104aa",
+      "editorial_result": "DRAFT_REVIEWED",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "sha256": "b16a5ad18b95fe65d71a8c5ac1a5762b38744c8fd2f3333e97bd2d3fea0740fb",
+      "editorial_result": "DRAFT_REVIEWED",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "sha256": "77bab948eafaf8ac333085392ce19b5dd492b553fbdb38753ca24e86fa305ba6",
+      "editorial_result": "DRAFT_REVIEWED",
+      "findings": "No first-person driving, fabricated inspection, universal destination eligibility or guarantee identified in full reading. Market and procedure boundaries preserved; research breadth and full-site dedup limits remain."
+    }
+  ],
+  "specific_checks": [
+    "ATTO2 inconsistent brochure dates disclosed, no definitive year inferred.",
+    "B10 test cycles and UK equipment not merged with Malaysian versions.",
+    "B05 June2026 manufacturer facts and September2026 EuroNCAP assessment no longer labelled future expected.",
+    "SEALION7 three trims, battery/range and peak-charge windows not mixed.",
+    "ZEEKR009 MalaysiaExecutive range and acceleration not applied toLuxury/Ultra-Luxury.",
+    "Guides keep tire inspection, ADAS calibration, digital ownership, recalls, low-voltage systems in distinct scopes.",
+    "ADAS article avoids dangerous demonstration tests; low-voltage article defers exact procedures to model-specific professional guidance."
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

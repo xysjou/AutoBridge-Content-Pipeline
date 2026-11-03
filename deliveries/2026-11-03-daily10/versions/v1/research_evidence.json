@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "article_id": "AB-261103-D10-V01",
+      "slug": "leapmotor-b10",
+      "title": "Leapmotor B10: Comparing Malaysia’s Life and Design Electric SUVs",
+      "source_count": 3,
+      "organization_count": 2,
+      "research_status": "Conditional: additional source breadth and actual offered vehicle identity remain unresolved.",
+      "market": "Malaysia",
+      "version_reference": "2025-12-10 launch specification",
+      "evidence_boundary": "Dated model reference, not VIN-certified specification",
+      "sources": [
+        {
+          "title": "Malaysian B10 launch",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/as-en/leapmotor/press/the-all-new-electric-leapmotor-b10-arrives-in-malaysia-to-redefine-accessible-innovation-from-rm107-800",
+          "market_scope": "Malaysia",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "B10 UK press information",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-b10-uk-press-information",
+          "market_scope": "UK",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "B10 2025 assessment",
+          "organization": "Euro NCAP",
+          "url": "https://www.euroncap.com/assessments/1217/",
+          "market_scope": "Euro NCAP assessed variants",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-V02",
+      "slug": "leapmotor-b05",
+      "title": "Leapmotor B05: A UK Electric Hatchback Viewed Beyond the Launch Headline",
+      "source_count": 5,
+      "organization_count": 2,
+      "research_status": "Conditional: additional source breadth and actual offered vehicle identity remain unresolved.",
+      "market": "UK",
+      "version_reference": "2026-06 UK press specification; September2026 safety update",
+      "evidence_boundary": "Dated model reference, not VIN-certified specification",
+      "sources": [
+        {
+          "title": "B05 UK press information",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-b05-uk-press-information",
+          "market_scope": "UK",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "B05 global premiere and B10 European launch",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-unveils-bold-electric-future-at-iaa-mobility-2025-global-premiere-of-leapmotor-b05-and-european-sales-launch-of-b10",
+          "market_scope": "European introduction",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "September2026 safety results",
+          "organization": "Euro NCAP",
+          "url": "https://news.euroncap.com/safercars/latest-news/euro-ncap-tests-show-car-makers-continue-to-drive-for-safety/s/615fe790-9ad4-4823-a71c-0e4e671579a6",
+          "market_scope": "Euro NCAP assessed vehicles",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "B05 safety result announcement",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-b05-achieves-euro-ncap-five-star-rating",
+          "market_scope": "UK",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "B05 UK order book",
+          "organization": "Stellantis/Leapmotor",
+          "url": "https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-opens-order-book-for-stylish-b05-family-hatchback",
+          "market_scope": "UK",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-V03",
+      "slug": "byd-atto-2",
+      "title": "BYD ATTO 2 in Türkiye: Why the Boost and Comfort Names Need Context",
+      "source_count": 3,
+      "organization_count": 1,
+      "research_status": "Conditional: additional source breadth and actual offered vehicle identity remain unresolved.",
+      "market": "Türkiye",
+      "version_reference": "Current Türkiye model page checked2026-11-03 and linked PDF with inconsistent2026/2025date labels",
+      "evidence_boundary": "Dated model reference, not VIN-certified specification",
+      "sources": [
+        {
+          "title": "ATTO2 Turkish model page",
+          "organization": "BYD",
+          "url": "https://www.bydauto.com.tr/atto2",
+          "market_scope": "Türkiye",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "ATTO2 Turkish technical brochure linked from model page",
+          "organization": "BYD",
+          "url": "https://bydauto.mncdn.com/storage/pdf/byd-atto2-teknik-brosur-mart-2026.pdf",
+          "market_scope": "Türkiye",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "BYD vehicle to load explanation",
+          "organization": "BYD",
+          "url": "https://www.bydauto.com.tr/arac-enerji-paylasimi-vtol",
+          "market_scope": "Türkiye",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-V04",
+      "slug": "byd-sealion-7",
+      "title": "BYD SEALION 7: The European Trim Choice Is More Than RWD Versus AWD",
+      "source_count": 3,
+      "organization_count": 2,
+      "research_status": "Conditional: additional source breadth and actual offered vehicle identity remain unresolved.",
+      "market": "Europe",
+      "version_reference": "2024-11-15 European launch; independent assessments2025/2026",
+      "evidence_boundary": "Dated model reference, not VIN-certified specification",
+      "sources": [
+        {
+          "title": "European SEALION7 introduction",
+          "organization": "BYD",
+          "url": "https://www.byd.com/eu/news-list/byd-introduces-sporty-byd-sealion-7-to-european-market.html",
+          "market_scope": "Europe",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "SEALION7 2025 safety assessment",
+          "organization": "Euro NCAP",
+          "url": "https://www.euroncap.com/assessments/byd/sealion%2B7/1117/",
+          "market_scope": "Euro NCAP assessed variants",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "SEALION7 Comfort GreenNCAP result",
+          "organization": "Euro NCAP",
+          "url": "https://news.euroncap.com/greenncap/byd-sealion-7---green-ncap-2025-results---four-stars/s/20bdc0da-7a54-46cb-8e9a-fcb205a81d36",
+          "market_scope": "ComfortRWD environmental test",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-V05",
+      "slug": "zeekr-009",
+      "title": "ZEEKR 009 in Malaysia: Separate the Longest Range from the Fastest Variant",
+      "source_count": 3,
+      "organization_count": 3,
+      "research_status": "Conditional: additional source breadth and actual offered vehicle identity remain unresolved.",
+      "market": "Malaysia",
+      "version_reference": "CurrentOEMpage checked2026-11-03;dated2024-12-06seatlayoutreferences",
+      "evidence_boundary": "Dated model reference, not VIN-certified specification",
+      "sources": [
+        {
+          "title": "ZEEKR009 Malaysian model page",
+          "organization": "ZEEKR",
+          "url": "https://www.zeekrlife.com/en-my/models/009/",
+          "market_scope": "Malaysia",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "ZEEKR009 Malaysian launch",
+          "organization": "Driven Communications / Paul Tan",
+          "url": "https://paultan.org/2024/12/06/zeekr-009-launched-in-malaysia/",
+          "market_scope": "Malaysia",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "ZEEKR009 launch features",
+          "organization": "SoyaCincau",
+          "url": "https://soyacincau.com/2024/12/06/zeekr-009-malaysia-official-launch-specs-features-pricing/",
+          "market_scope": "Malaysia",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-G01",
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "title": "Tire Evidence to Request Before Buying an Imported Car",
+      "source_count": 6,
+      "organization_count": 4,
+      "research_status": "Named sources checked within their stated markets; not universal requirements.",
+      "market": "Different named national and manufacturer examples; see body",
+      "version_reference": "Current guidance with explicitly dated historical documents where noted",
+      "evidence_boundary": "No offered VIN inspected; recommendations distinct from named source facts",
+      "sources": [
+        {
+          "title": "TireWise",
+          "organization": "NHTSA",
+          "url": "https://www.nhtsa.gov/vehicle-safety/tires",
+          "market_scope": "US passenger vehicles",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Summer Driving Tips",
+          "organization": "NHTSA",
+          "url": "https://www.nhtsa.gov/summer-driving-tips",
+          "market_scope": "US passenger vehicles",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "When to Replace Tires",
+          "organization": "Michelin",
+          "url": "https://www.michelinman.com/auto/auto-tips-and-advice/tire-buying-guide/when-do-i-need-new-tires",
+          "market_scope": "US passenger tire guidance updated2026-10-27",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Tire Speed Rating",
+          "organization": "Bridgestone",
+          "url": "https://tires.bridgestone.com/en-us/learn/automotive/shopping-for-tires/tire-specs",
+          "market_scope": "US passenger/light-truck tire education",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Tire Safety for All Drivers",
+          "organization": "Bridgestone",
+          "url": "https://tires.bridgestone.com/en-us/learn/automotive/tire-maintenance/tire-safety",
+          "market_scope": "US passenger vehicles",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "PSIB06-03 Tire Plus-sizing",
+          "organization": "Continental",
+          "url": "https://continentaltire.com/sites/default/files/media/file/2021-01/plus_sizing_0.pdf",
+          "market_scope": "US Canada Mexico; December2006 bulletin, background not current law",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-G02",
+      "slug": "adas-windscreen-repair-evidence",
+      "title": "Buying a Used Car with a Replaced Windscreen: ADAS Evidence",
+      "source_count": 6,
+      "organization_count": 4,
+      "research_status": "Named sources checked within their stated markets; not universal requirements.",
+      "market": "Different named national and manufacturer examples; see body",
+      "version_reference": "Current guidance with explicitly dated historical documents where noted",
+      "evidence_boundary": "No offered VIN inspected; recommendations distinct from named source facts",
+      "sources": [
+        {
+          "title": "Calibration After Windshield Replacement",
+          "organization": "I-CAR",
+          "url": "https://rts.i-car.com/crn-801.html?tmpl=component",
+          "market_scope": "Industry repair research; 2018 article validated2025",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "How To Use OEM Calibration Requirements Search",
+          "organization": "I-CAR",
+          "url": "https://rts.i-car.com/crn-483.html?tmpl=component",
+          "market_scope": "Industry lookup methodology",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Managing vehicle repairs involving ADAS",
+          "organization": "Thatcham Research",
+          "url": "https://www.thatcham.org/wp-content/uploads/2019/05/Thatcham-Research-ADAS-Repair-Position-for-web-download.pdf",
+          "market_scope": "UK industry position May2019; not international law",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Camera calibration for glass fitters",
+          "organization": "Bosch",
+          "url": "https://www.boschaftermarket.com/xrm/media/images/equipment/adas_driver_assistance_system/xx_pdfs_1/adas_glass_fitter_brochure_incl-sct_417_en_85284.pdf",
+          "market_scope": "2019 equipment brochure, background",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "ADAS calibration product overview",
+          "organization": "Bosch",
+          "url": "https://www.boschaftermarket.com/gb/en/diagnostics/test-equipment/advanced-driver-assistance-systems",
+          "market_scope": "UK Ireland equipment range current page",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "ADAS calibrations for glass claims",
+          "organization": "ICBC",
+          "url": "https://mdp.partners.icbc.com/topic/DAMG-PL-R2AEOH-policy-adv-dss-cali-glass-cl",
+          "market_scope": "British Columbia insurer program; updated2023-09-29",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-G03",
+      "slug": "connected-car-account-handover",
+      "title": "Connected-Car Account Handover Before an Overseas Purchase",
+      "source_count": 6,
+      "organization_count": 5,
+      "research_status": "Named sources checked within their stated markets; not universal requirements.",
+      "market": "Different named national and manufacturer examples; see body",
+      "version_reference": "Current guidance with explicitly dated historical documents where noted",
+      "evidence_boundary": "No offered VIN inspected; recommendations distinct from named source facts",
+      "sources": [
+        {
+          "title": "Factory reset of a pre-owned car",
+          "organization": "Volvo Cars",
+          "url": "https://www.volvocars.com/en-ca/support/topic/10852738968472392567d5847d64ef5e/80d6d08fba8e461a9c7f1dd98474e4ad/283c754e1dbdc5f7c0a801512be53de7/",
+          "market_scope": "Canada support updated2026-05-29; listed models",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Add or Remove Vehicles in Tesla App",
+          "organization": "Tesla",
+          "url": "https://www.tesla.com/en_ph/support/how-add-or-remove-vehicles-tesla-app",
+          "market_scope": "Philippines support",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Change of vehicle ownership",
+          "organization": "Polestar",
+          "url": "https://www.polestar.com/us/manual/polestar-2/2024/article/ad431d3443019a1cc0a801512d2f82d3",
+          "market_scope": "US Polestar2 2024",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "US Privacy Notice",
+          "organization": "Ford",
+          "url": "https://www.ford.com/help/privacy/",
+          "market_scope": "US effective2026-07-01",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Bluelink Subsequent Owners",
+          "organization": "Hyundai",
+          "url": "https://owners.hyundaiusa.com/us/en/resources/blue-link/hyundai-subsequent-owners",
+          "market_scope": "US service",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Connectivity",
+          "organization": "Tesla",
+          "url": "https://www.tesla.com/en_ae/support/connectivity",
+          "market_scope": "UAE support",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-G04",
+      "slug": "cross-border-vehicle-recall-check",
+      "title": "How to Check Recalls Before Buying a Car Across Borders",
+      "source_count": 6,
+      "organization_count": 5,
+      "research_status": "Named sources checked within their stated markets; not universal requirements.",
+      "market": "Different named national and manufacturer examples; see body",
+      "version_reference": "Current guidance with explicitly dated historical documents where noted",
+      "evidence_boundary": "No offered VIN inspected; recommendations distinct from named source facts",
+      "sources": [
+        {
+          "title": "Check for Recalls",
+          "organization": "NHTSA",
+          "url": "https://www.nhtsa.gov/recalls",
+          "market_scope": "US database",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Resources Related to Investigations and Recalls",
+          "organization": "NHTSA",
+          "url": "https://www.nhtsa.gov/resources-investigations-recalls",
+          "market_scope": "US safety program",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Check vehicle recall",
+          "organization": "UK Government",
+          "url": "https://www.gov.uk/check-vehicle-recall",
+          "market_scope": "United Kingdom",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Defective product recall query",
+          "organization": "SAMR",
+          "url": "https://qxzh.samr.gov.cn/qxzh/qxxxcx/samr/web.jsp",
+          "market_scope": "China",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Vehicle recalls",
+          "organization": "Australian Infrastructure Department",
+          "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/vehicle-recalls",
+          "market_scope": "Australia",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Defects and recalls",
+          "organization": "Transport Canada",
+          "url": "https://tc.canada.ca/en/road-transportation/defects-recalls-vehicles-tires-child-car-seats",
+          "market_scope": "Canada; modified2025-01-22",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    },
+    {
+      "article_id": "AB-261103-D10-G05",
+      "slug": "low-voltage-battery-storage-readiness",
+      "title": "Low-Voltage Battery Checks After a Car Has Been Stored",
+      "source_count": 6,
+      "organization_count": 4,
+      "research_status": "Named sources checked within their stated markets; not universal requirements.",
+      "market": "Different named national and manufacturer examples; see body",
+      "version_reference": "Current guidance with explicitly dated historical documents where noted",
+      "evidence_boundary": "No offered VIN inspected; recommendations distinct from named source facts",
+      "sources": [
+        {
+          "title": "Model3 Jump Starting",
+          "organization": "Tesla",
+          "url": "https://service.tesla.com/docs/Public/diy/model3/en_us/GUID-3567D5F4-A5F4-4323-8BE0-023D5438FFC6.html",
+          "market_scope": "US Model3 manual; production-specific variants",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Electric and Hybrid Vehicles",
+          "organization": "NHTSA",
+          "url": "https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles",
+          "market_scope": "US educational guidance",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "EFB and AGM differences",
+          "organization": "VARTA Automotive",
+          "url": "https://www.varta-automotive.com/en/knowledge/articles/article-details/efb-and-agm-differences",
+          "market_scope": "Automotive battery maker guidance",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "How long does a battery last",
+          "organization": "Ford",
+          "url": "https://www.ford.com.au/support/how-tos/more-vehicle-topics/batteries/how-long-does-a-battery-last",
+          "market_scope": "Australia Ford guidance",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Model3 Running Out of Range",
+          "organization": "Tesla",
+          "url": "https://www.tesla.com/ownersmanual/model3/en_us/GUID-CB07D968-612A-4FAB-977D-CD01C69464D0.html",
+          "market_scope": "US Model3 manual",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        },
+        {
+          "title": "Testing battery step by step",
+          "organization": "VARTA Automotive",
+          "url": "https://www.varta-automotive.com/en/knowledge/articles/article-details/testing-the-battery---step-by-step",
+          "market_scope": "Automotive workshop guidance",
+          "checked_date": "2026-11-03",
+          "actually_opened": true
+        }
+      ],
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false
+    }
+  ],
+  "dedup_boundary": "Historical indexes, repository topic paths, accessible live indexes, and selected close historical full texts were inspected. A complete authoritative site-wide full-text inventory was unavailable. No global non-duplication guarantee."
+}

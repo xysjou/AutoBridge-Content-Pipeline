@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" xml:lang="th" role="img" aria-labelledby="title desc">
+<title id="title">แผนภาพขั้นตอนที่จัดทำขึ้นใหม่: ข้อกำหนดของรถ, หลักฐานยางแต่ละเส้น, ประเด็นค้างที่แก้แล้ว ไม่ใช่ภาพรถ ผลตรวจ หรือคำสั่งซ่อมทางเทคนิค</title><desc id="desc">กรอบประกอบการซื้อเพื่ออธิบายเท่านั้น ไม่มีการตรวจรถคันใดเป็นการเฉพาะ</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<rect x="50" y="25" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">ข้อกำหนดของรถ</text>
+<rect x="50" y="170" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">หลักฐานยางแต่ละเส้น</text>
+<rect x="50" y="315" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">ประเด็นค้างที่แก้แล้ว</text>
+</svg>

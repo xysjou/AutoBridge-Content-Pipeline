@@ -1,0 +1,1568 @@
+{
+  "checked_at": "2026-11-03T13:09:04.951071+00:00",
+  "scope": "Current batch against the previous same-day X5 PLUS and refrigerated-truck topics in matching available languages, plus two close historical English texts (used EV inspection and infotainment/OTA localization). This is a mechanical overlap signal, not semantic or global site clearance.",
+  "comparisons": [
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.143077
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.15724
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.003289
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.001876
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.179302
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.188026
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.058423
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.065032
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.057409
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.068206
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.142523
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.155508
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.133268
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.144551
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.136364
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.154069
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.106018
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.090457
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.087185
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.103047
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.004141
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.003213
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.014498
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.013617
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.144013
+    },
+    {
+      "new_topic": "tire-evidence-before-imported-car-purchase",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.146231
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.142704
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.150879
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.00092
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.00069
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.165428
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.179751
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.053938
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.059624
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.050267
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.052385
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.138935
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.149479
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.124969
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.138083
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.130722
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.141942
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.101207
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.084295
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.073403
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.079691
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.004419
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.002735
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.009967
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.008726
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.13307
+    },
+    {
+      "new_topic": "low-voltage-battery-storage-readiness",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.141355
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.158075
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.138634
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.003004
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.001614
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.190263
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.168351
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.069392
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.053019
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.072396
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.054668
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.153809
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.141483
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.146208
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.129527
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.143689
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.128936
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.08686
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.081907
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.114061
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.091954
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.017486
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.010814
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.020969
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.013506
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.161368
+    },
+    {
+      "new_topic": "leapmotor-b10",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.142468
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.168568
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.14138
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.003038
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.001633
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.177326
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.158632
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.062201
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.046691
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.065515
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.048314
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.155424
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.142636
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.153546
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.13723
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.138923
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.125124
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.090365
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.088818
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.109432
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.089409
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.005399
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.003136
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.017149
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.009744
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.157803
+    },
+    {
+      "new_topic": "byd-sealion-7",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.135467
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.156205
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.160824
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.0
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.00046
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.180085
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.185087
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.054487
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.057819
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.052531
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.061666
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.151803
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.153737
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.143089
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.147714
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.133554
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.139978
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.096586
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.08359
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.085425
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.085269
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.003718
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.003389
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.010146
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.010753
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.161396
+    },
+    {
+      "new_topic": "adas-windscreen-repair-evidence",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.156826
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.16295
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.140359
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.002641
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.001678
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.18394
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.155709
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.060173
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.053193
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.06129
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.042195
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.160294
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.141843
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.155327
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.130177
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.138969
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.129415
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.088929
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.083266
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.098637
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.08053
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.012712
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.008811
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.016763
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.008834
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.15833
+    },
+    {
+      "new_topic": "leapmotor-b05",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.131589
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.15455
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.150065
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.001359
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.000679
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.180973
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.173145
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.057945
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.065674
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.053882
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.061222
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.144726
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.149441
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.139934
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.145172
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.138859
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.137695
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.09786
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.090979
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.083078
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.081237
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.007375
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.002107
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.016373
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.011873
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.152245
+    },
+    {
+      "new_topic": "cross-border-vehicle-recall-check",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.150611
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.147944
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.148591
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.001766
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.002208
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.16778
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.171552
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.053977
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.059549
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.053524
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.049887
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.145076
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.146723
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.138947
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.135005
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.129662
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.12974
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.097217
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.093962
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.079656
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.080548
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.00636
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.004244
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.012258
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.009858
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.145968
+    },
+    {
+      "new_topic": "connected-car-account-handover",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.14804
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.171395
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.147517
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.002238
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.002013
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.187085
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.156146
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.071366
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.058232
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.062788
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.042574
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.165625
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.138133
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.169406
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.134291
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.154497
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.124061
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.096406
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.087343
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.100657
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.083312
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.01021
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.003002
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.019573
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.012663
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.17638
+    },
+    {
+      "new_topic": "byd-atto-2",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.148212
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "de",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.159424
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "de",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.142774
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "zh",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.002094
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "zh",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.00186
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "id",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.18331
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "id",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.153273
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ar",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.063661
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ar",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.050622
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "th",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.050219
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "th",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.041532
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "fr",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.156341
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "fr",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.137047
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "pt",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.154404
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "pt",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.130062
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "en",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.141565
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "en",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.122608
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G04_Used_Chinese_EV_Inspection",
+      "character_fivegram_jaccard": 0.090949
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "en",
+      "prior_topic": "old_AB-260902-G08_Infotainment_OTA_Localization",
+      "character_fivegram_jaccard": 0.088096
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "vi",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.094742
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "vi",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.076586
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ko",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.005828
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ko",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.002367
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ja",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.019095
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "ja",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.013331
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "es",
+      "prior_topic": "x5",
+      "character_fivegram_jaccard": 0.160326
+    },
+    {
+      "new_topic": "zeekr-009",
+      "language": "es",
+      "prior_topic": "reefer",
+      "character_fivegram_jaccard": 0.135099
+    }
+  ],
+  "max_similarity": 0.190263,
+  "requires_overlap_review": []
+}

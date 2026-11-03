@@ -1,0 +1,179 @@
+{
+  "reviewed_at_utc": "2026-11-03T13:01:40.722782+00:00",
+  "reviewer": "Independent AI-assisted editorial reviewer; not human approval",
+  "scope": {
+    "vi": 10,
+    "th_vehicles": 5,
+    "th_guides": 0,
+    "th_guides_note": "Written by a different author. Not reviewed here; no claim of approval."
+  },
+  "results": [
+    {
+      "slug": "tire-evidence-before-imported-car-purchase",
+      "language": "vi",
+      "markdown_sha256": "94a6663e38db5d30c483adef9148ba0b1673693837fcf63e34854dada3d6f75a",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "low-voltage-battery-storage-readiness",
+      "language": "vi",
+      "markdown_sha256": "6f09e80d45469ce48a3ec9086714a9d728211ecbdafde37fe619b5603bf83730",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "vi",
+      "markdown_sha256": "6d649f4f8696d6e66930f144161a6199f8761d3cd990c9e8012f8b07398a752b",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "leapmotor-b10",
+      "language": "th",
+      "markdown_sha256": "0546b1a9a28adce1d2fc020e59ad1d0c7f9b42951bc03e7b4856634c66ca1c45",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "vi",
+      "markdown_sha256": "04d1eab0cbd3e5ad57e30f56105c0f00c44a318ae4871b01cb5f5ec24b63ac12",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "byd-sealion-7",
+      "language": "th",
+      "markdown_sha256": "4e9a24dc23ce91ea32bf3f0ee47e23bfb399211c80a1f27aa1cd819dc34ad0f0",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "adas-windscreen-repair-evidence",
+      "language": "vi",
+      "markdown_sha256": "daba56549fa1927967886ae8ac1496ecbba367e609ad62a6a8c315f36f5f372c",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "vi",
+      "markdown_sha256": "c500aa2b6a107d4818dbf268734e2558f6ac67fd53a86ff1a14505a19fdcd512",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "leapmotor-b05",
+      "language": "th",
+      "markdown_sha256": "18bc8185b4e2e2515dce3c2949b39eb7a188812ccf01b71f548766843061fc3f",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "cross-border-vehicle-recall-check",
+      "language": "vi",
+      "markdown_sha256": "9a152df6e6a4d33401f06eb46a60ac0f6f040c0c8fc407ee830998f72a6cdb98",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "connected-car-account-handover",
+      "language": "vi",
+      "markdown_sha256": "0a3379402e9560a5fd4e47848b433afed8aca88977551a8d4d3c7f0eec6a9ab5",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "vi",
+      "markdown_sha256": "4f355aa5af44df3ebb0e01ccf2f93c2718ea19dae8bc7ff84153327dfa142258",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "byd-atto-2",
+      "language": "th",
+      "markdown_sha256": "e858a5b321b266cf4462de61cc98dc450f1405acecc5162d4bff34d932664de9",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "vi",
+      "markdown_sha256": "04da2b1f5747c0ac3c92b112db3e8444cef87d83437063cd7d9835d24db606fe",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    },
+    {
+      "slug": "zeekr-009",
+      "language": "th",
+      "markdown_sha256": "4790c322212544d51998b95d0616e13efc6e2a419dedf0411c58e328b608c984",
+      "one_h1": true,
+      "heading_count_equal": true,
+      "paragraph_blocks_equal": true,
+      "source_url_sequence_equal": true,
+      "metadata_parses": true
+    }
+  ],
+  "manual_author_checks": [
+    "All English paragraphs translated; same paragraph-block and heading counts independently checked. Structural equality is not proof of semantic perfection.",
+    "Numeric tokens compared after excluding source URLs. Vietnamese decimal commas and thousands periods are localization, not changed quantities; Vietnamese spelled English months become month numbers. Thai preserves Arabic numeric values. Model identifiers sometimes become pronouns without changing referents.",
+    "B05 300-mile UK claim remains miles, not km; 30–80 percent charge window and dated UK context retained.",
+    "B10 Life/Design battery capacities 56.2/67.1 kWh and launch-market boundaries retained.",
+    "SEALION 7 Comfort/Design/Excellence battery, power, WLTP and charge data remain separated. July2026 GreenNCAP four-to-four-and-a-half revision retained and distinct from EuroNCAP crash safety.",
+    "ATTO2 source date contradiction 2026 versus2025 retained, no universal model-year claim; urban463km distinct from combined312km.",
+    "ZEEKR009 604km belongs to Executive and4.5s to AWD variants, not a fabricated combined trim. Malaysia observation date and dated2024 seating evidence retained.",
+    "Guides retain jurisdiction/manufacturer boundaries, no universal tire-age law, no universalADAS calibration, no automatic app-transfer availability, no VIN recall clearance guarantee, no low-voltage result substituted for high-voltage SOH.",
+    "All source URL sequences match English source exactly at review time."
+  ],
+  "known_limits": [
+    "This is author self-review, not independent linguistic approval or guarantee of flawless translation.",
+    "VI/TH metadata summaries and diagram-label semantic fidelity are being independently corrected by review_remaining_localizations; this report only confirms JSON syntax, not final metadata approval.",
+    "No website deployment, Google indexing verification, or global all-site deduplication performed by this translation review."
+  ],
+  "status": "author_review_complete_independent_review_pending"
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" xml:lang="de" role="img" aria-labelledby="title desc">
+<title id="title">Originales redaktionelles Diagramm: Fahrzeugspezifikation, Einzelreifennachweise, Ausnahmen geklärt. Kein Fahrzeugfoto, keine maßstäbliche Zeichnung und kein Prüfergebnis.</title><desc id="desc">Illustrativer Kaufablauf; kein konkretes Fahrzeug wurde geprüft.</desc>
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<rect x="50" y="25" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Fahrzeugspezifikation</text>
+<rect x="50" y="170" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Einzelreifennachweise</text>
+<rect x="50" y="315" width="1300" height="110" rx="16" fill="white" stroke="#3257a8" stroke-width="2"/>
+<text x="700" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" direction="ltr">Ausnahmen geklärt</text>
+</svg>
