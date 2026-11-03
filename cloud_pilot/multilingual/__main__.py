@@ -104,6 +104,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         status,obj=api.request('GET','/v1/models/'+model)
         require(status==200 and obj.get('id')==model,'PROJECT_MODEL_UNAVAILABLE:'+model)
     journal=ResponseJournal(AnchoredStore(GitHubStore(github),permit['ledger_anchor']))
+    require(journal.read()[2]['cap_nano_usd']==permit['cap_nano_usd'],'PERMIT_LEDGER_BUDGET_DRIFT')
     journal.checkpoint('startup:'+sha+':'+digest(plan)+':run:'+os.environ['GITHUB_RUN_ID'],startup)
     verify_pricing(prices,journal)
     raw_models=CountedResponses(api,journal,prices,permission)

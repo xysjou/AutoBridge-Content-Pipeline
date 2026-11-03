@@ -9,6 +9,10 @@ REPO = "xysjou/AutoBridge-Content-Pipeline"
 BRANCH = "integration/work-cloud-pilot-m1-20261102"
 STATE_PATH = "cloud_pilot/state/live-program.json"
 CAP = 3_000_000_000  # integer nano USD, for the entire program
+AMENDED_CAP = 8_000_000_000
+BUDGET_APPROVAL = '批准整个试点累计上限提高到 8 美元。'
+BUDGET_APPROVAL_HASH = digest(dict(date='2026-11-03', instruction=BUDGET_APPROVAL,
+    program_id=PROGRAM, previous_cap_nano_usd=CAP, cap_nano_usd=AMENDED_CAP))
 STAGE_MODELS = {"research": ("gpt-6-luna", "medium"),
                 "writing": ("gpt-6.1-terra", "medium"),
                 "review": ("gpt-6.1-terra", "high")}
@@ -81,7 +85,9 @@ def usage_cost(model, usage):
 def check_permit(permit, plan, snapshot, code_sha, approval_digest):
     require(isinstance(permit, dict) and permit.get("authorized") is True, "LIVE_NOT_AUTHORIZED")
     require(approval_digest and digest(permit) == approval_digest, "PROTECTED_APPROVAL_MISSING")
-    require(permit.get("program_id") == PROGRAM and permit.get("cap_nano_usd") == CAP, "APPROVAL_PROGRAM_SCOPE")
+    require(permit.get("program_id") == PROGRAM and permit.get("cap_nano_usd") in (CAP, AMENDED_CAP), "APPROVAL_PROGRAM_SCOPE")
+    if permit['cap_nano_usd'] == AMENDED_CAP:
+        require(permit.get('budget_approval_hash') == BUDGET_APPROVAL_HASH, 'BUDGET_AMENDMENT_APPROVAL_REQUIRED')
     require(permit.get("plan_hash") == digest(plan), "APPROVAL_PLAN_DRIFT")
     require(permit.get("prices_hash") == validate_prices(snapshot), "APPROVAL_PRICE_DRIFT")
     require(permit.get("code_sha") == code_sha and len(code_sha) == 40, "APPROVAL_CODE_DRIFT")

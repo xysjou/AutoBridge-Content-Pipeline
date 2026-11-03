@@ -88,4 +88,23 @@ class Tests(unittest.TestCase):
             changed_packet['intake_hash']=intake_hash(changed_plan)
             self.assertEqual((None,None),verified_topic(j,changed_packet,changed_plan))
 
+
+class BudgetAmendmentTests(unittest.TestCase):
+    def test_amendment_preserves_original_header_and_history(self):
+        from cloud_pilot.live.ledger import genesis,append,replay
+        from cloud_pilot.live.policy import CAP,AMENDED_CAP,BUDGET_APPROVAL_HASH
+        from cloud_pilot.contract import digest
+        d=genesis('synthetic');d=append(d,'before',dict(kind='checkpoint',key='old',artifact={},artifact_hash=digest({})))
+        old=copy.deepcopy(d)
+        d=append(d,'cap8',dict(kind='budget_amendment',previous_cap_nano_usd=CAP,cap_nano_usd=AMENDED_CAP,approval_hash=BUDGET_APPROVAL_HASH,settled_nano_usd=0))
+        self.assertEqual(old['events'],d['events'][:-1]);self.assertEqual(CAP,d['cap_nano_usd'])
+        self.assertEqual(AMENDED_CAP,replay(d)['cap_nano_usd'])
+        with self.assertRaisesRegex(GateError,'INVALID_BUDGET_AMENDMENT'):append(d,'again',d['events'][-1]['payload'])
+    def test_unapproved_or_changed_spend_amendment_rejected(self):
+        from cloud_pilot.live.ledger import genesis,append
+        from cloud_pilot.live.policy import CAP,AMENDED_CAP,BUDGET_APPROVAL_HASH
+        p=dict(kind='budget_amendment',previous_cap_nano_usd=CAP,cap_nano_usd=AMENDED_CAP,approval_hash=BUDGET_APPROVAL_HASH,settled_nano_usd=0)
+        for key,value in [('cap_nano_usd',9000000000),('approval_hash','wrong'),('settled_nano_usd',1)]:
+            with self.assertRaises(GateError):append(genesis('synthetic'),'bad',dict(p,**{key:value}))
+
 if __name__=='__main__':unittest.main()

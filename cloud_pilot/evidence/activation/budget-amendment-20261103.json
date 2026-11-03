@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-03",
+  "user_instruction": "批准整个试点累计上限提高到 8 美元。",
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "previous_cap_nano_usd": 3000000000,
+  "cap_nano_usd": 8000000000,
+  "settled_nano_usd": 2980099325,
+  "approval_hash": "e8b6344cfbc8c6553bcc99b5fbaf75334d6af80c586a1d63fa440bfa9fa9097d",
+  "prior_events": 224,
+  "prior_head": "cbcea83181562e42a8b4224d8b264d56d421ffbeeffef4022efd3602423eb9a1",
+  "new_head": "a3291509a440a51d0bf0f74054d19445dd506fb8f882ec1bf4281f0fc83b0d5f",
+  "scope": "Same entire pilot, English then 12 languages; all past charges preserved; no website publication"
+}

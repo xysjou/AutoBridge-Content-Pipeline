@@ -1,7 +1,7 @@
 """One durable real-dollar ledger, with atomic result+cost checkpoints."""
 import copy
 from ..contract import PROGRAM, BASELINE, digest, canonical, require
-from .policy import CAP, SCHEMA, reservation, usage_cost, STATE_PATH, BRANCH
+from .policy import CAP, AMENDED_CAP, BUDGET_APPROVAL_HASH, SCHEMA, reservation, usage_cost, STATE_PATH, BRANCH
 
 def genesis(mock_hash):
     return dict(schema=SCHEMA, program_id=PROGRAM, cap_nano_usd=CAP, actual_prior_nano_usd=0,
@@ -11,7 +11,7 @@ def replay(data):
     require(data.get("schema") == SCHEMA and data.get("program_id") == PROGRAM, "LEDGER_IDENTITY")
     require(data.get("cap_nano_usd") == CAP and data.get("actual_prior_nano_usd") == 0, "LEDGER_CAP_OR_SEED")
     require(data.get("baseline_sha") == BASELINE and bool(data.get("m1_mock_journal_hash")), "LEDGER_BASELINE")
-    view = dict(allocated=0, operations={}, event_ids={}, checkpoints={}, halts=[])
+    view = dict(allocated=0, cap_nano_usd=CAP, operations={}, event_ids={}, checkpoints={}, halts=[])
     previous = digest({k:v for k,v in data.items() if k != "events"})
     for i, e in enumerate(data["events"]):
         require(e["seq"] == i and e["previous"] == previous, "LEDGER_CHAIN")
@@ -27,10 +27,18 @@ def replay(data):
             require(all(o["request_hash"] == p["request_hash"] for o in prior), "RETRY_REQUEST_DRIFT")
             require(p["amount"] == reservation(p["model"],p.get('input_bound')), "RESERVATION_PRICE_MISMATCH")
             if 'input_bound' in p:require(p.get('token_count_hash') and p.get('counted_request_hash')==p['request_hash'],'PROVIDER_COUNT_BINDING')
-            require(view["allocated"] + p["amount"] <= CAP, "PROGRAM_CAP_EXCEEDED")
+            require(view["allocated"] + p["amount"] <= view['cap_nano_usd'], "PROGRAM_CAP_EXCEEDED")
             require(p.get("price_hash") and p.get("request_hash"), "RESERVATION_PROVENANCE")
             view["allocated"] += p["amount"]
             view["operations"][p["id"]] = dict(p, status="reserved")
+        elif p['kind'] == 'budget_amendment':
+            require(view['cap_nano_usd'] == CAP and p.get('previous_cap_nano_usd') == CAP
+                    and p.get('cap_nano_usd') == AMENDED_CAP
+                    and p.get('approval_hash') == BUDGET_APPROVAL_HASH, 'INVALID_BUDGET_AMENDMENT')
+            require(not any(o['status'] in ('reserved','sent','uncertain') for o in view['operations'].values()),
+                    'UNRESOLVED_PROGRAM_CALL')
+            require(p.get('settled_nano_usd') == view['allocated'], 'BUDGET_AMENDMENT_SPEND_DRIFT')
+            view['cap_nano_usd'] = AMENDED_CAP
         elif p["kind"] == "sent":
             o = view["operations"][p["id"]]
             require(o["status"] == "reserved", "ALREADY_SENT")
@@ -70,7 +78,7 @@ def replay(data):
             require(False, "UNKNOWN_LEDGER_EVENT")
         view["event_ids"][e["id"]] = p
         previous = e["hash"]
-    require(view["allocated"] <= CAP, "PROGRAM_CAP_EXCEEDED")
+    require(view["allocated"] <= view['cap_nano_usd'], "PROGRAM_CAP_EXCEEDED")
     view["head"] = previous
     return view
 
