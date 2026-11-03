@@ -68,6 +68,9 @@ class GitHubTransport:
         require(branch==BRANCH and path.startswith('cloud_pilot/live_artifacts/') and '..' not in path,'ARTIFACT_PATH')
         status,obj=self.api.request('GET',self.prefix+'/contents/'+path+'?ref='+quote(branch,safe=''))
         if status==200:
+            if path.startswith('cloud_pilot/live_artifacts/sources/'):
+                status,obj=self.api.request('GET',self.prefix+'/git/blobs/'+obj['sha'])
+                require(status==200 and obj.get('encoding')=='base64','RAW_ARTIFACT_GIT_BLOB_UNAVAILABLE')
             require(base64.b64decode(obj['content'])==body,'IMMUTABLE_ARTIFACT_CONFLICT')
             return obj['sha']
         require(status==404,'ARTIFACT_LOOKUP_FAILED')

@@ -38,7 +38,7 @@ class Tests(unittest.TestCase):
         class API:
             tamper=False
             def request(api,method,path):
-                entry=next(v for k,v in blobs.items() if k in path)
+                entry=next(v for k,v in blobs.items() if k in path or path.endswith('/git/blobs/'+v[0]))
                 raw=entry[1]+(b'changed' if api.tamper else b'')
                 return 200,dict(sha=entry[0],encoding='base64',content=base64.b64encode(raw).decode())
         class GH:prefix='/repos/synthetic/repo';api=API()
@@ -68,5 +68,19 @@ class Tests(unittest.TestCase):
         self.assertEqual(archive_content_type(raw,e),'text/html;charset=utf-8')
         e['text']='invented text';e['text_sha256']=hashlib.sha256(e['text'].encode()).hexdigest()
         with self.assertRaisesRegex(GateError,'CHARSET_UNPROVEN'):archive_content_type(raw,e)
+
+    def test_existing_non_utf8_archive_uses_binary_git_blob(self):
+        from cloud_pilot.live.http import GitHubTransport
+        from cloud_pilot.live.policy import BRANCH
+        raw=('原始网页中文正文'*20).encode('gb18030')
+        class API:
+            host='api.github.com'
+            def request(self,method,path,payload=None):
+                data=raw if '/git/blobs/' in path else b'contents representation'
+                return 200,dict(sha='original-blob',encoding='base64',content=base64.b64encode(data).decode())
+        transport=GitHubTransport(API())
+        self.assertEqual(transport.put_immutable(BRANCH,'cloud_pilot/live_artifacts/sources/example.bin',raw),'original-blob')
+        with self.assertRaisesRegex(GateError,'IMMUTABLE_ARTIFACT_CONFLICT'):
+            transport.put_immutable(BRANCH,'cloud_pilot/live_artifacts/sources/example.bin',raw+b'changed')
 
 if __name__=='__main__':unittest.main()

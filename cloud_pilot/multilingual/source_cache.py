@@ -67,7 +67,10 @@ def restore(permit,plan,journal,scoped,github,code_sha):
                 status,obj=github.api.request('GET',github.prefix+'/contents/'+path+'?ref='+quote(BRANCH,safe=''))
                 require(status==200 and obj.get('encoding')=='base64' and obj.get('sha')==e.get('raw_artifact_blob'),
                         'SOURCE_TRANSFER_RAW_BLOB')
-                raw=base64.b64decode(obj['content'])
+                status,blob=github.api.request('GET',github.prefix+'/git/blobs/'+e['raw_artifact_blob'])
+                require(status==200 and blob.get('encoding')=='base64' and blob.get('sha')==e['raw_artifact_blob'],
+                        'SOURCE_TRANSFER_GIT_BLOB')
+                raw=base64.b64decode(blob['content'])
                 require(len(raw)<=MAX_BYTES and hashlib.sha256(raw).hexdigest()==raw_hash,'SOURCE_TRANSFER_RAW_CONTENT')
                 content_type=e.get('content_type') or archive_content_type(raw,e)
                 text=extract(raw,content_type,s)
