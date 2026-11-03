@@ -4,15 +4,15 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "Before source transfers, execute begins research for every article lacking a checkpoint in the current scoped journal. A new code or evidence epoch has a new checkpoint namespace, so begin() can lock and mark an existing accepted head UPDATE_REQUIRED for both articles before either transfer is attempted. A failure affecting one article can therefore invalidate the unrelated article despite record_transfer_failure() itself being article-specific.",
-          "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/editorial_state.py",
-          "required_fix": "Acquire each article's research fence immediately before its own transfer or refresh, rather than pre-locking the whole batch. Add an end-to-end regression with two previously accepted heads, a new epoch, and one failed transfer; verify that the other head and readiness remain unchanged.",
+          "detail": "sync_batch_manifest reads Research checkpoints only from the current evidence epoch. After a new epoch begins, an unaffected article can retain its accepted global Research head while the manifest reports it as PENDING and not writing-ready. The new-epoch failure test uses placeholder heads rather than accepted prior-epoch checkpoints and asserts zero ready articles, so it does not verify the claimed readiness preservation.",
+          "file": "cloud_pilot/multilingual/publication.py",
+          "required_fix": "Resolve each manifest row from its current global Research head, including the originating epoch and verified completion record. Add an end-to-end test with two genuinely accepted prior heads and a failed transfer for one article; verify the other article’s status, readiness and manifest counts remain correct.",
           "severity": "high"
         },
         {
-          "detail": "The synchronized batch manifest is written only on the path to writing. Source-transfer, source-retrieval, invalid-research and non-ready-research failures persist article records and then stop without updating the manifest. The latest batch manifest can consequently retain PENDING statuses and zero failure counts after a recorded failure, or retain a stale pending row after another article has progressed.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/publication.py",
-          "required_fix": "Synchronize and durably identify the current batch manifest after every research state transition, including failure and withheld outcomes. Add end-to-end tests that inspect the manifest and counts after each failure path and after a partial batch.",
+          "detail": "The independent English review receives the entire writer packet, including writer-side skill and handoff assessments and similarity QA fields. Locale review also receives that packet as its English reference. This does not satisfy the requirement to exclude writer self-evaluation; the existing test checks only for a literal self_evaluation key.",
+          "file": "cloud_pilot/live/stages.py; cloud_pilot/multilingual/localize.py",
+          "required_fix": "Build review inputs from an explicit allowlist of article content, immutable identity and source evidence, excluding writer-side assessments and QA conclusions. Test the actual English and locale review requests for exclusion while retaining the full evidence and rendered text.",
           "severity": "high"
         }
       ],
@@ -20,13 +20,13 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_01fb8e53966d0752016ae979631d6487d1820d2d6f8a6ebbc9"
+    "response_id": "resp_02fc2ae9e51be048016ae97fcdec1c87d1b16d775bc672aadf"
   },
-  "code_sha": "a829406bfe55fa1df649badbf8e75f35ce26b134",
+  "code_sha": "d581b4578fe0b7b0ccae5bc2dcf04330fdde2f0a",
   "corpus_hash": "afc3e21fa86527b32d811367c648949f4c07f766e935adb6232b270e7a488243",
-  "dedup_request_hash": "4022a906eb425b00b76b67a932c16c6ce66e4faf2fa6daa2826a856efe795dba",
+  "dedup_request_hash": "296a947536817a3674dce6797307447a66c0048c28ab54f8a9ab7bc987c92753",
   "environment_scope_attestation": {
-    "checked_at": "2026-11-03T06:01:38.226042+00:00",
+    "checked_at": "2026-11-03T06:28:33.288911+00:00",
     "environment": "autobridge-pilot",
     "environment_names": [
       "AUTOBRIDGE_CONTROL_COMMIT",
@@ -64,9 +64,9 @@
           "1b4df824c4fa79caaccdb77edd44768078f2d4d655eb0c8b98973fa1e6a459ca",
           "05c773d1c9e6ddab6e8d39b06d1077945a23f95ac1299812c0be16d0057a4538"
         ],
-        "representation_code_sha": "a829406bfe55fa1df649badbf8e75f35ce26b134",
-        "target_checkpoint": "evidence-round:1:6ca0186bb9c66a446a7efaa038893159955cb3718bfa11e13daa7d90fcd42945:evidence:PILOT-Q05-2026",
-        "target_evidence_hash": "172d858d189e6a19b6953704e06faad2b047c25f7db34bc2c0550e5d11d674d2",
+        "representation_code_sha": "d581b4578fe0b7b0ccae5bc2dcf04330fdde2f0a",
+        "target_checkpoint": "evidence-round:1:a5f724978ae35a9516af8a88aa233daed9a2d79ce5772a10b075e5bd80415c00:evidence:PILOT-Q05-2026",
+        "target_evidence_hash": "05fe773080571ad36fdffda5ae7436510a40a9f095b054a0b49f9bcef33fa3ba",
         "tier_reclassifications": {
           "S1": {
             "basis": "Autohome exact-trim structured configuration database; explicitly T2 under Research Skill section 6. Page identity and literal inline configuration verified.",
@@ -102,9 +102,9 @@
           "7e750609452b0d986ccd97dcbb51e7d8af89b87cc43f97304679fcca844ba30e",
           "65e2a25add7fd6fef37e3b1913d84d3373638c479b62038466d392d76dc7dd39"
         ],
-        "representation_code_sha": "a829406bfe55fa1df649badbf8e75f35ce26b134",
-        "target_checkpoint": "evidence-round:1:6ca0186bb9c66a446a7efaa038893159955cb3718bfa11e13daa7d90fcd42945:evidence:PILOT-REEFER-GUIDE",
-        "target_evidence_hash": "efcaa7f9b6dfd533defa68e796ee520e67242f7607729edccc254680f02f5be3",
+        "representation_code_sha": "d581b4578fe0b7b0ccae5bc2dcf04330fdde2f0a",
+        "target_checkpoint": "evidence-round:1:a5f724978ae35a9516af8a88aa233daed9a2d79ce5772a10b075e5bd80415c00:evidence:PILOT-REEFER-GUIDE",
+        "target_evidence_hash": "dfcdcfce145ec5defade81b33bab588e322dd4512791c9fcef59cb70276dd1c9",
         "tier_reclassifications": {}
       }
     ]
@@ -113,7 +113,7 @@
     "cloud-pilot-manual.yml": {
       "content": "name: AutoBridge multilingual API pilot\non:\n  workflow_dispatch:\n    inputs:\n      mode:\n        description: Offline inspection or separately approved real execution\n        type: choice\n        options: [preflight, account-check, audit, execute]\n        default: preflight\npermissions:\n  contents: read\nconcurrency:\n  group: autobridge-entire-real-pilot-program\n  cancel-in-progress: false\njobs:\n  trusted:\n    permissions:\n      contents: write\n      pull-requests: write\n    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@b3f5a6cef20b8dc235f001af306e635f1eca0fdf\n    with:\n      mode: ${{ inputs.mode }}\n    secrets:\n      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n      AUTOBRIDGE_CONTROL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n",
       "content_hash": "3ee6dc05e475c17c9f681a4b2d6e59b355276c55ba3520e006aa2dfa5cf3b90a",
-      "revision": "d3401fe744e8a9e2901bea04d1fa6932e8d12d42"
+      "revision": "99f72fafe90e804ff69ff9776ed2ec50613eb03b"
     },
     "cloud-pilot-trusted.yml": {
       "content": "name: AutoBridge pinned protected runtime\non:\n  workflow_call:\n    inputs:\n      mode:\n        type: string\n        required: true\n    secrets:\n      OPENAI_API_KEY:\n        required: true\n      AUTOBRIDGE_CONTROL_COMMIT:\n        required: true\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256:\n        required: true\npermissions:\n  contents: read\njobs:\n  inspect:\n    if: inputs.mode == 'preflight'\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA || github.sha }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - run: python3 -m cloud_pilot.multilingual preflight\n  account-check:\n    # Availability is inspected inside the code/lease-preauthorized execute path.\n    # Disable the legacy standalone key-bearing path permanently.\n    if: ${{ false }}\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Inspect only the two configured model metadata endpoints\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          AUTOBRIDGE_ACCOUNT_CHECK_APPROVED: 'true'\n        run: python3 -m cloud_pilot.multilingual account-check\n  execute:\n    if: >-\n      (inputs.mode == 'execute' || inputs.mode == 'audit') &&\n      vars.AUTOBRIDGE_LIVE_ENABLED == 'true' &&\n      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 180\n    permissions:\n      contents: write\n      pull-requests: write\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Fetch reviewed control documents from a separate immutable commit\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_APPROVAL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n        run: python3 -m cloud_pilot.multilingual.control\n      - name: Validate exact run and workflow lease before exposing the project key\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n        run: >-\n          python3 -m cloud_pilot.multilingual preauthorize\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n      - name: Execute approved phase with the existing whole-program budget\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n          APPROVED_RUN_MODE: ${{ inputs.mode }}\n        run: >-\n          python3 -m cloud_pilot.multilingual \"$APPROVED_RUN_MODE\"\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n",
@@ -122,9 +122,16 @@
     }
   },
   "human_reviewed": false,
-  "intake_hash": "6255bd15397b24c3040466339fc9dc1bccdea807e762d49fb58722311bead77b",
+  "intake_hash": "03fc132d939d72f0c7aa8f8d60217e8c56f266c5f995b4c633b09d8615ee2a0e",
   "publish_approved": false,
-  "reused_topic_receipt": null,
+  "reused_topic_receipt": {
+    "checkpoint": "activation-review:a829406bfe55fa1df649badbf8e75f35ce26b134:6255bd15397b24c3040466339fc9dc1bccdea807e762d49fb58722311bead77b",
+    "current_packet_hash": "296a947536817a3674dce6797307447a66c0048c28ab54f8a9ab7bc987c92753",
+    "operation": "activation-dedup:4022a906eb425b00b76b67a932c16c6ce66e4faf2fa6daa2826a856efe795dba",
+    "packet_hash": "4022a906eb425b00b76b67a932c16c6ce66e4faf2fa6daa2826a856efe795dba",
+    "request_hash": "8a426ada23024f7c7ebf2358bd9d9c6b3baf82f5d2707183934d0fddf6a2576d",
+    "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61"
+  },
   "status": "CODE_REVIEW_BLOCKED",
   "topic_review": {
     "content": {

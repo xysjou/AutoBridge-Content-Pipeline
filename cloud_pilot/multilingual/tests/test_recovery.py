@@ -102,6 +102,27 @@ class Tests(unittest.TestCase):
         self.assertIn('Sources et vérification',rendered)
         self.assertNotIn('Editorial Review',rendered);self.assertNotIn('Pending rights',rendered)
 
+    def test_english_and_locale_review_exclude_actual_writer_assessments(self):
+        from cloud_pilot.live.stages import review_request as english_review
+        _,_,research,base=packets()
+        excluded={'similarity_max','manual_similarity_review_required','skill_impact_assessment',
+            'review_handoff_assessment','skill_impact_check_done','skill_update_required','production_eligible',
+            'production_holds','public_export_fields','self_evaluation'}
+        for k in excluded:base[k]={'self_evaluation':'WRITER_SAYS_PASS'}
+        base['content_hash']=digest({k:v for k,v in base.items() if k!='content_hash'})
+        locale=validate(translation(base,'fr'),base,'fr',1)
+        research['independent_fact_review']={'verdict':'RESEARCH_REVIEW_SAYS_PASS'}
+        en=english_review(base,research);fr=review_request(locale,base,research)
+        for req in (en,fr):
+            self.assertFalse(excluded.intersection(req['article']))
+            self.assertEqual(research['evidence'],req['research']['evidence'])
+            self.assertEqual(research['fact_sheet']['facts'],req['research']['fact_sheet']['facts'])
+            self.assertNotIn('independent_fact_review',req['research'])
+            self.assertEqual(digest(req['rendered_public_markdown']),req['rendered_hash'])
+        self.assertFalse(excluded.intersection(fr['english_article']))
+        self.assertEqual(base['body'],en['article']['body']);self.assertEqual(base['content_hash'],en['article']['content_hash'])
+        self.assertEqual(locale['body'],fr['article']['body'])
+
     def test_complete_vehicle_identity_is_required_before_writing(self):
         from cloud_pilot.multilingual.tests.test_editorial_controls import active_case
         topic,ev,response=active_case('VEHICLE_RECOMMENDATION');r=response['content']

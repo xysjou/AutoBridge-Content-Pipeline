@@ -11,7 +11,8 @@ from ..contract import digest,require
 from ..live.ledger import append
 
 class EditorialState:
-    def __init__(self,journal):self.journal=getattr(journal,'journal',journal)
+    def __init__(self,journal):
+        self.prefix=getattr(journal,'prefix','');self.journal=getattr(journal,'journal',journal)
 
     def state(self,view):
         rows=[(int(k.rsplit(':',1)[1]),v) for k,v in view['checkpoints'].items() if k.startswith('editorial-state:')]
@@ -59,6 +60,7 @@ class EditorialState:
         require(start and start['version']==research['version'],'RESEARCH_FENCE_REQUIRED')
         row=dict(article_id=aid,version=research['version'],research_hash=research['research_hash'],
                  handoff_hash=digest(research['fact_sheet'].get('handoff',{})),attempt=start['attempt'],
+                 origin_prefix=self.prefix,research_checkpoint=self.prefix+'research:'+aid,
                  completion_commit=research.get('completion',{}).get('commit_sha'))
         def change(state):
             a=self.article(state,aid)
@@ -79,13 +81,18 @@ class EditorialState:
             a['writing'][research['research_hash']]=dict(status='WRITING_LOCK',version=research['version'])
         self.mutate(change);self.check(research)
 
-    def check_in(self,state,research):
+    def check_research_in(self,state,research):
         a=state['articles'].get(research['article_id'],{});head=a.get('head')
         require(a.get('research_lock') is None,'RESEARCH_LOCK_UPDATE_REQUIRED')
         require(head and head['research_hash']==research['research_hash'] and head['version']==research['version']
                 and head['handoff_hash']==digest(research['fact_sheet'].get('handoff',{})), 'RESEARCH_CHANGED_AFTER_WRITING_STARTED')
-        require(research['research_hash'] in a.get('writing',{}),'WRITING_LOCK_REQUIRED')
         require(not any(u['old_hash']==research['research_hash'] for u in a.get('updates',[])),'UPDATE_REQUIRED')
+
+    def check_in(self,state,research):
+        self.check_research_in(state,research)
+        require(research['research_hash'] in state['articles'][research['article_id']].get('writing',{}),'WRITING_LOCK_REQUIRED')
+
+    def check_research(self,research):self.check_research_in(self.snapshot(),research)
 
     def check(self,research):self.check_in(self.snapshot(),research)
 

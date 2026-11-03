@@ -161,10 +161,11 @@ class Tests(unittest.TestCase):
         from cloud_pilot.multilingual.startup import writing_startup,lesson_ids
         topic,ev,result=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
         result['content']['handoff']['research_baseline_sha']='a'*40
-        p=dict(articles=[topic],execution_phase='english');gh=GitMemory()
+        from cloud_pilot.contract import rules
+        p=dict(articles=[topic],execution_phase='english',rules=rules());gh=GitMemory()
         startup=dict(approved_main_sha='a'*40,execution_sha='a'*40,startup_gate=dict(REPO_HEAD_SHA='a'*40,LESSONS_LEARNED_SHA='b'*40))
         startup['canonical_daily_manifest']=push_startup_manifest(gh,startup,p,'synthetic-run')
-        raw=check_research(result,topic,ev);raw['startup_gate']=startup
+        raw=check_research(result,topic,ev);raw['startup_gate']=startup;p['rules']=raw['rules']
         j=ResponseJournal(ArtifactStore());state=EditorialState(j);start=state.begin(topic['article_id'],'initial')
         proposal=seal_research(gh,raw,start)
         rows=[dict(lesson_id=k,applicable=False,triggered=False,reason='Synthetic verified lesson') for k in lesson_ids()]
@@ -248,11 +249,29 @@ class Tests(unittest.TestCase):
                 response['content']['handoff'].update(research_baseline_sha='a'*40,fact_sheet_version=2,source_log_version=2)
                 if mode=='conditional':response['content'].update(status='RESEARCH_CONDITIONAL',writing_ai_ready=False)
                 if mode=='malformed':response=dict(content={})
-                p=plan();p['articles'][0]=topic;j=ResponseJournal(ArtifactStore());s=EditorialState(j)
-                first=research('old-one');first['article_id']=topic['article_id'];s.lock(first)
-                second=research('old-two');second['article_id']=p['articles'][1]['article_id'];s.lock(second)
+                p=plan();p['articles'][0]=topic;j=ResponseJournal(ArtifactStore());s=EditorialState(j);gh=GitMemory()
+                old=EpochJournal(j,1,{'old_code':'a'*40});old_state=EditorialState(old)
+                from cloud_pilot.multilingual.tests.test_editorial_controls import Tests as FactTests
+                from cloud_pilot.multilingual.research_contract import accept
+                # Build actual accepted prior packets, completion commits and
+                # journal checkpoints; never substitute placeholder heads.
+                prior=[]
+                for i,kind in enumerate(('BUYING_GUIDE','BUYING_GUIDE')):
+                    old_topic,old_ev,old_response=active_case(kind)
+                    if i:
+                        for key in ('article_id','search_intent','buyer_task','topic_key','proposed_url'):
+                            old_topic[key]=p['articles'][1][key]
+                        p['articles'][1]=old_topic
+                    old_topic['research_baseline_sha']='a'*40
+                    old_response['content']['handoff'].update({k:old_topic[k] for k in ('article_id','content_type','search_intent','buyer_task')})
+                    old_response['content']['handoff']['research_baseline_sha']='a'*40
+                    start=old_state.begin(old_topic['article_id'],old.prefix+':'+old_topic['article_id'])
+                    proposal=seal_research(gh,check_research(old_response,old_topic,old_ev),start)
+                    checked=accept(FactTests().acceptance(proposal),proposal)
+                    packet=complete_research(gh,proposal,checked);old.checkpoint('research:'+old_topic['article_id'],packet);old_state.lock(packet);prior.append(packet)
+                first,second=prior
                 unchanged=copy.deepcopy(s.snapshot()['articles'][second['article_id']])
-                epoch=EpochJournal(j,2,{'new_code':'f'*40});gh=GitMemory()
+                epoch=EpochJournal(j,2,{'new_code':'f'*40})
                 startup=dict(approved_main_sha='a'*40,execution_sha='a'*40,startup_gate={})
                 class Models:
                     def call(self,*args):
@@ -268,9 +287,12 @@ class Tests(unittest.TestCase):
                 keys=[k for k in j.read()[2]['checkpoints'] if k.startswith(epoch.prefix+'batch-manifest-current:')]
                 ref=j.get_checkpoint(max(keys,key=lambda k:int(k.rsplit(':',1)[1])))
                 obj=gh.call('GET','/contents/'+ref['path']+'?ref='+ref['commit_sha']);manifest=json.loads(base64.b64decode(obj['content']))
-                self.assertEqual(0,manifest['WRITING_READY_COUNT'])
+                self.assertEqual(1,manifest['WRITING_READY_COUNT']);self.assertEqual(1,manifest['MAIN_PASS_COUNT'])
                 self.assertEqual(1,manifest['MAIN_CONDITIONAL_COUNT'] if mode=='conditional' else manifest['MAIN_FAIL_COUNT'])
                 self.assertEqual(2,manifest['articles'][0]['FACT_SHEET_VERSION'])
+                other=manifest['articles'][1]
+                self.assertEqual(old.prefix+'research:'+second['article_id'],other['ORIGIN_RESEARCH_CHECKPOINT'])
+                self.assertEqual(second['completion']['commit_sha'],other['RESEARCH_COMPLETE_COMMIT_SHA'])
 
     def test_cached_delivery_source_failure_also_updates_current_manifest(self):
         from cloud_pilot.multilingual.source_cache import SourceTransferFailure

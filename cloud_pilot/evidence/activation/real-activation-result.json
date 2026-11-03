@@ -1,11 +1,11 @@
 {
   "schema": "autobridge-real-activation-result/1.0",
-  "status": "HOLD_CODE_FIXES_PENDING_INDEPENDENT_REVIEW",
+  "status": "HOLD_FIXED_CANDIDATE_REVIEW_BUDGET",
   "date": "2026-11-03",
-  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41587253586",
-  "reviewed_code_sha": "a829406bfe55fa1df649badbf8e75f35ce26b134",
-  "paid_generation_requests": 19,
-  "settled_cost_nano_usd": 2709857575,
+  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41590066862",
+  "reviewed_code_sha": "d581b4578fe0b7b0ccae5bc2dcf04330fdde2f0a",
+  "paid_generation_requests": 20,
+  "settled_cost_nano_usd": 2980099325,
   "budget_cap_nano_usd": 3000000000,
   "uncertain_operations": 0,
   "english_articles_generated": 0,
@@ -18,15 +18,15 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "Before source transfers, execute begins research for every article lacking a checkpoint in the current scoped journal. A new code or evidence epoch has a new checkpoint namespace, so begin() can lock and mark an existing accepted head UPDATE_REQUIRED for both articles before either transfer is attempted. A failure affecting one article can therefore invalidate the unrelated article despite record_transfer_failure() itself being article-specific.",
-          "file": "cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/editorial_state.py",
-          "required_fix": "Acquire each article's research fence immediately before its own transfer or refresh, rather than pre-locking the whole batch. Add an end-to-end regression with two previously accepted heads, a new epoch, and one failed transfer; verify that the other head and readiness remain unchanged.",
+          "detail": "sync_batch_manifest reads Research checkpoints only from the current evidence epoch. After a new epoch begins, an unaffected article can retain its accepted global Research head while the manifest reports it as PENDING and not writing-ready. The new-epoch failure test uses placeholder heads rather than accepted prior-epoch checkpoints and asserts zero ready articles, so it does not verify the claimed readiness preservation.",
+          "file": "cloud_pilot/multilingual/publication.py",
+          "required_fix": "Resolve each manifest row from its current global Research head, including the originating epoch and verified completion record. Add an end-to-end test with two genuinely accepted prior heads and a failed transfer for one article; verify the other article’s status, readiness and manifest counts remain correct.",
           "severity": "high"
         },
         {
-          "detail": "The synchronized batch manifest is written only on the path to writing. Source-transfer, source-retrieval, invalid-research and non-ready-research failures persist article records and then stop without updating the manifest. The latest batch manifest can consequently retain PENDING statuses and zero failure counts after a recorded failure, or retain a stale pending row after another article has progressed.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/__main__.py; cloud_pilot/multilingual/publication.py",
-          "required_fix": "Synchronize and durably identify the current batch manifest after every research state transition, including failure and withheld outcomes. Add end-to-end tests that inspect the manifest and counts after each failure path and after a partial batch.",
+          "detail": "The independent English review receives the entire writer packet, including writer-side skill and handoff assessments and similarity QA fields. Locale review also receives that packet as its English reference. This does not satisfy the requirement to exclude writer self-evaluation; the existing test checks only for a literal self_evaluation key.",
+          "file": "cloud_pilot/live/stages.py; cloud_pilot/multilingual/localize.py",
+          "required_fix": "Build review inputs from an explicit allowlist of article content, immutable identity and source evidence, excluding writer-side assessments and QA conclusions. Test the actual English and locale review requests for exclusion while retaining the full evidence and rendered text.",
           "severity": "high"
         }
       ],
@@ -34,7 +34,7 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_01fb8e53966d0752016ae979631d6487d1820d2d6f8a6ebbc9"
+    "response_id": "resp_02fc2ae9e51be048016ae97fcdec1c87d1b16d775bc672aadf"
   },
   "topic_dedup": {
     "content": {
@@ -70,13 +70,13 @@
     "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61"
   },
   "fixes_awaiting_independent_review": [
-    "Each article begins Research immediately before its own source transfer/refresh; no batch-wide pre-lock",
-    "Canonical batch manifest and append-only current-manifest receipt synchronized after start, proposal, malformed failure, source failure, withheld verdict and acceptance; actual Engine tests preserve unrelated prior heads and inspect failure counts",
-    "A genuine independent topic receipt can be reused only when reconstructing the full old intake proves that research code-baseline provenance is the sole plan change and every other dedup-request byte, source text and corpus matches; original request/response identities are verified"
+    "Manifest resolves current accepted global Research heads through their originating epoch checkpoints and verifies original immutable completion bytes and receipts; end-to-end regression uses two fully accepted prior packets and a failed transfer for only one",
+    "English and locale independent review use explicit content/identity/evidence allowlists, excluding writer skill/handoff assessments, similarity QA, production holds and previous acceptance conclusions while preserving the exact full rendered text and all source evidence"
   ],
   "genuine_topic_reuse_offline_verified": {
     "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61",
     "generation_requests": 0,
     "scope": "Identical buyer decisions, source evidence, corpus and rules; technical baseline SHA only"
-  }
+  },
+  "remaining_cap_nano_usd": 19900675
 }

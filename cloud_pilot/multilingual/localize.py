@@ -93,8 +93,9 @@ def validate(result, base, locale, version):
     return packet
 
 def review_request(article,base,research):
+    from ..live.stages import review_article,review_evidence
     rendered=markdown(article,research,research['topic'],public_only=True)
-    return dict(stage='independent_locale_review',article=article,english_article=base,research=research,
+    return dict(stage='independent_locale_review',article=review_article(article),english_article=review_article(base),research=review_evidence(research),
         rendered_public_markdown=rendered,rendered_hash=digest(rendered),
         required_output=dict(content_hash=article['content_hash'],base_content_hash=base['content_hash'],
             decision='REVIEW_PASS | REVISION_REQUIRED | NEEDS_RESEARCH | REJECT',

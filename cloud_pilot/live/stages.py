@@ -184,10 +184,25 @@ def check_writing(result,research,version,history,prior_bodies):
 REVIEW_CHECKS={'claim_entailment','market_year_trim_cycle','source_identity_scope','general_rule_exceptions',
                'currentness','natural_english','no_workflow_leakage','no_fabricated_first_hand','buyer_task_answered'}
 
+def review_article(article):
+    """Content/identity only: no writer QA, self-assessments or hold verdicts."""
+    identity=('article_id','version','locale','content_hash','research_hash','research_baseline_sha',
+              'evidence_hash','base_content_hash','writer_id','body')
+    public=('title','meta','h1','summary','sections','faq','internal_links')
+    return dict(**{k:article[k] for k in identity if k in article},
+                public={k:article['public'][k] for k in public})
+
+def review_evidence(research):
+    sheet=research['fact_sheet']
+    fields=('facts','allowed_facts','blocked_facts','fact_boundary','source_checks')
+    h=sheet.get('handoff',{});boundaries=('conflict_list','time_sensitive_facts','facts_not_allowed_in_body')
+    return dict(**{k:research[k] for k in ('article_id','version','research_hash','evidence_hash','topic','evidence','completion') if k in research},
+        fact_sheet=dict(**{k:sheet[k] for k in fields if k in sheet},handoff={k:h[k] for k in boundaries if k in h}))
+
 def review_request(article,research):
     from ..multilingual.localize import markdown
     rendered=markdown(article,research,research['topic'],public_only=True)
-    return dict(stage='independent_review',schema=SCHEMA,article=article,research=research,
+    return dict(stage='independent_review',schema=SCHEMA,article=review_article(article),research=review_evidence(research),
         rendered_public_markdown=rendered,rendered_hash=digest(rendered),
         required_output=dict(content_hash=article['content_hash'],evidence_hash=research['evidence_hash'],
             decision='REVIEW_PASS | REVISION_REQUIRED | NEEDS_RESEARCH | REJECT',

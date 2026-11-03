@@ -164,6 +164,67 @@ def verify_research(gh,research):
         verify_files(gh,ref['commit_sha'],{ref['path']:json_bytes(expected)},ref['message'],c['commit_sha'])
     return c
 
+def verify_recorded_research(gh,research):
+    """Verify a prior epoch's actual immutable bytes, independent of serializers.
+
+    A technical code update must not regenerate old canonical documents using a
+    new serializer. Their recorded hashes, raw packet and accepted review stay
+    bound to the original completion commit and the global Research head.
+    """
+    import json
+    require(research['research_hash']==digest({k:v for k,v in research.items() if k!='research_hash'}),'GLOBAL_RESEARCH_PACKET_CHANGED')
+    require(research.get('research_phase')=='ACCEPTED' and research['fact_sheet']['writing_ai_ready'] is True
+            and research['fact_sheet']['status'] in ('RESEARCH_PASS','RESEARCH_CONDITIONAL')
+            and research['independent_fact_review']['verdict']['decision']=='ACCEPT','GLOBAL_RESEARCH_NOT_ACCEPTED')
+    c=research['completion'];files={}
+    required={'FACT_SHEET.json','SOURCE_LOG.json','HANDOFF.json','RESEARCH_READY.json','research.json','INDEPENDENT_REVIEW.json'}
+    require({p.rsplit('/',1)[1] for p in c['files']}==required,'GLOBAL_RESEARCH_COMPLETE_FILES_REQUIRED')
+    prefix=r'daily/\d{4}-\d{2}-\d{2}/research/api-pilot/'+re.escape(research['article_id'])+'/versions/v'+str(research['version'])+'/'
+    for path,expected_hash in c['files'].items():
+        require(re.match(prefix,path) and '..' not in path,'GLOBAL_RESEARCH_FILE_BOUNDARY')
+        obj=gh.call('GET','/contents/'+path+'?ref='+c['commit_sha']);body=base64.b64decode(obj['content'])
+        require(hashlib.sha256(body).hexdigest()==expected_hash and obj['sha']==blob_hash(body),'GLOBAL_RESEARCH_FILE_CHANGED')
+        files[path]=body
+    verify_files(gh,c['commit_sha'],files,c['message'],c['parent_sha'])
+    raw=json.loads(next(b for p,b in files.items() if p.endswith('/research.json')))
+    expected={k:v for k,v in research.items() if k!='completion'};expected['research_hash']=c['input_research_hash']
+    require(raw==expected and raw['research_hash']==digest({k:v for k,v in raw.items() if k!='research_hash'}),'GLOBAL_RESEARCH_COMPLETION_INPUT_DRIFT')
+    review=json.loads(next(b for p,b in files.items() if p.endswith('/INDEPENDENT_REVIEW.json')))
+    require(review==research['independent_fact_review'],'GLOBAL_RESEARCH_ACCEPTANCE_DRIFT')
+    if c.get('receipt'):
+        ref=c['receipt'];obj=gh.call('GET','/contents/'+ref['path']+'?ref='+ref['commit_sha']);body=base64.b64decode(obj['content']);receipt=json.loads(body)
+        require(digest(receipt)==ref['content_hash'] and receipt['RESEARCH_COMPLETE_COMMIT_SHA']==c['commit_sha']
+                and receipt['completion']=={k:v for k,v in c.items() if k!='receipt'},'GLOBAL_RESEARCH_RECEIPT_DRIFT')
+        verify_files(gh,ref['commit_sha'],{ref['path']:body},ref['message'],c['commit_sha'])
+    return c
+
+def resolve_global_research(gh,journal,state,topic):
+    aid=topic['article_id'];head=state.head(aid)
+    if not head:return None,None
+    base=getattr(journal,'journal',journal)
+    key=head.get('research_checkpoint')
+    keys=[key] if key else [k for k in base.read()[2]['checkpoints'] if k=='research:'+aid or k.endswith(':research:'+aid)]
+    matches=[]
+    for key in keys:
+        packet=base.get_checkpoint(key)
+        if packet and packet.get('research_hash')==head['research_hash']:matches.append((key,packet))
+    if not matches:return None,None
+    require(all(p==matches[0][1] for _,p in matches),'GLOBAL_RESEARCH_ORIGIN_AMBIGUOUS')
+    key,packet=matches[0]
+    require(packet['article_id']==aid and packet['version']==head['version']
+            and packet['completion']['commit_sha']==head['completion_commit'],'GLOBAL_RESEARCH_HEAD_DRIFT')
+    old_topic={k:v for k,v in packet['topic'].items() if k!='research_baseline_sha'}
+    new_topic={k:v for k,v in topic.items() if k!='research_baseline_sha'}
+    if old_topic!=new_topic:return None,None
+    from datetime import datetime
+    from ..live.policy import now
+    if any(not 0<=(now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds()<=86400 for e in packet['evidence']):return None,None
+    from ..contract import GateError
+    try:state.check_research(packet)
+    except GateError:return None,None
+    verify_recorded_research(gh,packet)
+    return packet,key
+
 def writing_files(package):
     from .localize import markdown
     a,r,v=package['article'],package['research'],package['review'];aid=a['article_id']
@@ -204,16 +265,14 @@ def sync_batch_manifest(gh,journal,plan,startup):
     from ..contract import GateError
     state=EditorialState(journal);snapshot=state.snapshot();rows=[]
     for topic in plan['articles']:
-        aid=topic['article_id'];r=journal.get_checkpoint('research:'+aid)
+        aid=topic['article_id'];r,origin=resolve_global_research(gh,journal,state,topic)
         a=snapshot['articles'].get(aid,{})
+        if r and r['rules']!=plan['rules']:r=None
         if r:
-            try:state.check(r)
-            except GateError:r=None
-        if r:
-            verify_research(gh,r)
             row=dict(ARTICLE_ID=aid,RESEARCH_STATUS=r['fact_sheet']['status'],WRITING_AI_READY=True,
                 FACT_SHEET_VERSION=r['version'],SOURCE_LOG_VERSION=r['version'],RESEARCH_HASH=r['research_hash'],
-                RESEARCH_COMPLETE_COMMIT_SHA=r['completion']['commit_sha'],RESEARCH_FILES=r['completion']['files'])
+                RESEARCH_COMPLETE_COMMIT_SHA=r['completion']['commit_sha'],RESEARCH_FILES=r['completion']['files'],
+                ORIGIN_RESEARCH_CHECKPOINT=origin)
         else:
             candidates=[journal.get_checkpoint(k+aid) for k in ('failed-source-research:','failed-research:','withheld-research:')]
             current_version=a.get('research_lock',{}).get('version') if a.get('research_lock') else None
@@ -235,6 +294,9 @@ def sync_batch_manifest(gh,journal,plan,startup):
     identity=digest(record);path=f'daily/{DATE}/research/api-pilot/manifests/{identity}/daily_manifest.json'
     sha=isolated(gh,'research/api-manifest-'+identity[:20],startup['approved_main_sha'],{path:json_bytes(record)},'Record actual Research batch manifest '+identity)
     receipt=dict(commit_sha=sha,path=path,content_hash=identity)
+    after=state.snapshot()
+    require(all(after['articles'].get(t['article_id'])==snapshot['articles'].get(t['article_id']) for t in plan['articles']),
+            'BATCH_MANIFEST_STATE_DRIFT')
     journal.checkpoint('batch-manifest:'+identity,receipt)
     sequence=len(journal.read()[0]['events'])
     journal.checkpoint('batch-manifest-current:'+str(sequence),receipt)

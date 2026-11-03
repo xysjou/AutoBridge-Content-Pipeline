@@ -56,6 +56,7 @@ test_writing_startup_reads_actual_manifest_and_research_completion (test_publica
 test_approval_cannot_be_reused_by_another_run_or_rerun_attempt (test_recovery.Tests.test_approval_cannot_be_reused_by_another_run_or_rerun_attempt) ... ok
 test_checkpoints_are_isolated_by_code_and_intake_and_revision (test_recovery.Tests.test_checkpoints_are_isolated_by_code_and_intake_and_revision) ... ok
 test_complete_vehicle_identity_is_required_before_writing (test_recovery.Tests.test_complete_vehicle_identity_is_required_before_writing) ... ok
+test_english_and_locale_review_exclude_actual_writer_assessments (test_recovery.Tests.test_english_and_locale_review_exclude_actual_writer_assessments) ... ok
 test_exact_final_public_locale_render_is_in_independent_review (test_recovery.Tests.test_exact_final_public_locale_render_is_in_independent_review) ... ok
 test_protected_floor_and_in_run_progress_cannot_be_rolled_back (test_recovery.Tests.test_protected_floor_and_in_run_progress_cannot_be_rolled_back) ... ok
 test_provider_count_failure_prevents_any_generation (test_recovery.Tests.test_provider_count_failure_prevents_any_generation) ... ok
@@ -78,6 +79,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 78 tests in 19.341s
+Ran 79 tests in 16.671s
 
 OK
