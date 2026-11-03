@@ -91,13 +91,14 @@ def dedup_request(plan,root=ROOT,source_evidence=None):
         corpus_index=index,related_full_text=related,current_live_site=site,
         coverage='Current batch versions plus unique English daily/delivery source articles. Localizations are represented by their English originals. No title-only pass is allowed.',
         required_output=dict(decision='PASS | OVERLAP | NEEDS_MORE_EVIDENCE',
-            articles='list of {article_id,decision:DISTINCT|OVERLAP|NEEDS_MORE_EVIDENCE,nearest_paths:[existing repository paths or live URLs],reason}',
+            articles='list of {article_id,decision:DISTINCT|OVERLAP|NEEDS_MORE_EVIDENCE,nearest_paths:[exact corpus_index.path or current_live_site.documents.url values only],reason}',
             additional_paths='list of paths requiring full text before a pass',human_reviewed=False,publish_approved=False),
         instruction='Independently assess search intent and buyer decision, using the repository index/related full texts AND every full current live-site document. A live-site duplicate is an overlap even if absent from the repository. If current live coverage is insufficient, return NEEDS_MORE_EVIDENCE and identify missing URLs; never claim website-wide uniqueness from repository-only evidence. '
           'Do not approve because dates, titles or brand names differ. Q05 has an older 2024 PHEV reserve: distinguish it '
           'from the 2026 BEV without assuming all Q05 pages are unique. Refrigerated-truck procurement may overlap '
           'the existing Foton Aumark buyer guide; require a distinct acceptance-evidence decision scope. '
           'The retrieved reference evidence identifies the proposed reference vehicle; stock, production end and export equivalence remain Research questions and are not asserted by this intake. Judge duplicate buyer intent separately from final factual acceptance. '
+          'Copy nearest_paths verbatim from corpus_index.path or current_live_site.documents.url; never reconstruct or guess a path from an article title or citation inside another document. If no exact entry applies, use an empty list. '
           'Return NEEDS_MORE_EVIDENCE and additional_paths if related coverage is insufficient. Do not grant human/publication approval.')
     packet['corpus_hash']=digest(index)
     return packet

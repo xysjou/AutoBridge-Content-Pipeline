@@ -130,7 +130,7 @@ def validate_review(result,article,base):
 class Localizer:
     def __init__(self,models,journal):self.models,self.journal=models,journal
 
-    def run(self,base,research,locale):
+    def run(self,base,research,locale,prior_bodies=()):
         from .research_contract import applies
         from .editorial_state import EditorialState
         active=applies(research.get('topic',{}));editorial=EditorialState(self.journal) if active else None
@@ -149,6 +149,10 @@ class Localizer:
                     self.journal.checkpoint(key+':article',article)
             require(article['base_content_hash']==base['content_hash'] and article['locale']==locale,'CACHED_LOCALE_DRIFT')
             require(article['content_hash']==digest({k:v for k,v in article.items() if k!='content_hash'}),'CACHED_LOCALE_HASH')
+            from .similarity import assess,check as check_similarity
+            similarity=assess(article,prior_bodies)
+            self.journal.checkpoint(key+':similarity:'+similarity['assessment_hash'],similarity)
+            check_similarity(similarity)
             review=self.journal.get_checkpoint(key+':review')
             if review is None:
                 with editorial.model_stage(research,key+':review') if active else nullcontext():
@@ -160,7 +164,7 @@ class Localizer:
                     self.journal.checkpoint(key+':review',review)
             require(review['content_hash']==article['content_hash'],'CACHED_REVIEW_DRIFT')
             verdict=review['verdict']['decision']
-            if verdict=='REVIEW_PASS':return dict(article=article,review=review)
+            if verdict=='REVIEW_PASS':return dict(article=article,review=review,similarity=similarity)
             if verdict in ('NEEDS_RESEARCH','REJECT'):
                 self.journal.halt(base['article_id'],'review',version,'LOCALE_'+locale+'_'+verdict)
                 require(False,'LOCALE_'+locale+'_'+verdict)
@@ -200,7 +204,7 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
     from .research_contract import applies
     from .editorial_state import EditorialState
     from .publication import DATE,json_bytes,blob_hash,verify_research,publish_delivery_bundle
-    localizer=Localizer(models,journal);files={};staged={};researches=[]
+    localizer=Localizer(models,journal);files={};staged={};researches=[];prior_locales={k:[] for k in LOCALES}
     finals={t['article_id']:journal.get_checkpoint('final:'+t['article_id']) for t in plan['articles']}
     identity=digest({aid:p['article']['content_hash'] for aid,p in finals.items()})
     for topic in plan['articles']:
@@ -213,16 +217,18 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
         if applies(topic):verify_research(github,research)
         for locale in LOCALES:
             if applies(topic):EditorialState(journal).check(research)
-            result=dict(article=base,review=final['review']) if locale=='en' else localizer.run(base,research,locale)
+            result=dict(article=base,review=final['review']) if locale=='en' else localizer.run(base,research,locale,prior_locales[locale])
             if applies(topic):EditorialState(journal).check(research)
             article=result['article'];filename=topic['article_id']+'.'+locale+'.md'
+            prior_locales[locale].append(article['body'])
             path=f'deliveries/{DATE}/api-pilot/{identity}/i18n/{locale}/{filename}'
             text=markdown(article,research,topic,public_only=True)
             require(result['review']['rendered_hash']==digest(text),'DELIVERED_RENDER_REVIEW_DRIFT')
             require(len(re.findall(r'^# ',text,re.M))==1,'EXPORT_SINGLE_H1')
             staged[path]=text.encode()
             staged[path.removesuffix('.md')+'.editorial.json']=json_bytes(dict(status='UNREVIEWED_EDITORIAL_METADATA',
-                article_id=article['article_id'],locale=locale,public=article['public'],image_complete=False,production_url_approved=False))
+                article_id=article['article_id'],locale=locale,public=article['public'],image_complete=False,production_url_approved=False,
+                automated_similarity=result.get('similarity',dict(maximum=base['similarity_max'],manual_review_required=base['manual_similarity_review_required']))))
             staged[f'deliveries/{DATE}/api-pilot/{identity}/qa/{locale}/{article["article_id"]}.review.json']=json_bytes(result['review'])
             files[filename]=dict(path=path,blob_sha=blob_hash(text.encode()),locale=locale,
                 content_hash=article['content_hash'],review_hash=result['review']['review_hash'])

@@ -127,7 +127,11 @@ class LiveSiteTests(unittest.TestCase):
         xml=('<urlset><url><loc>'+url+'</loc></url></urlset>').encode();(p/'sitemap.xml').write_bytes(xml)
         docs=[dict(url=url,final_url=url,http_status=200,retrieved_at=stamp,title='Existing acceptance',text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),raw_sha256='synthetic')]
         b=json.dumps(docs).encode();(p/'pages-00.json').write_bytes(b)
-        m=dict(schema='autobridge-live-English-corpus/1',target_site=BASE+'/',captured_at=stamp,sitemap_sha256=hashlib.sha256(xml).hexdigest(),urls=[url],index_pages={'guides':dict(links=['/en/guides/live-only-acceptance.html'])},chunks=[dict(path='pages-00.json',sha256=hashlib.sha256(b).hexdigest())])
+        from cloud_pilot.multilingual.live_site import INDEX_FILES,Index
+        indices={}
+        for suffix,name in INDEX_FILES.items():
+            raw=('<main>0 English vehicles 1 English guides <a href="/en/guides/live-only-acceptance.html">Existing</a></main>').encode();(p/name).write_bytes(raw);parsed=Index();parsed.feed(raw.decode());indices[suffix]=dict(raw_sha256=hashlib.sha256(raw).hexdigest(),links=sorted(parsed.links))
+        m=dict(schema='autobridge-live-English-corpus/1',target_site=BASE+'/',captured_at=stamp,sitemap_sha256=hashlib.sha256(xml).hexdigest(),urls=[url],index_pages=indices,chunks=[dict(path='pages-00.json',sha256=hashlib.sha256(b).hexdigest())])
         (p/'manifest.json').write_text(json.dumps(m));return p,m
     def test_live_site_staleness_coverage_and_mutation_hold(self):
         from cloud_pilot.multilingual.live_site import load
@@ -139,6 +143,16 @@ class LiveSiteTests(unittest.TestCase):
             with self.assertRaisesRegex(GateError,'INVENTORY_INCOMPLETE'):load(root)
             (p/'manifest.json').write_text(json.dumps(old));(p/'pages-00.json').write_text('[]')
             with self.assertRaisesRegex(GateError,'CONTENT_CHANGED'):load(root)
+    def test_duplicate_omitted_from_sitemap_and_supplied_links_is_caught_in_raw_capture(self):
+        import hashlib
+        from cloud_pilot.multilingual.live_site import load
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td);p,m=self.fixture(root)
+            b=(p/'index-guides.html').read_bytes()+b'<a href="/en/guides/omitted-duplicate">Unlisted duplicate</a>'
+            (p/'index-guides.html').write_bytes(b);m['index_pages']['/en/guides/']['raw_sha256']=hashlib.sha256(b).hexdigest()
+            (p/'manifest.json').write_text(json.dumps(m))
+            with self.assertRaisesRegex(GateError,'INDEX_LINK_LIST_CHANGED'):load(root)
+
     def test_live_only_duplicate_reaches_independent_gate(self):
         from cloud_pilot.multilingual.live_site import load
         from cloud_pilot.contract import digest
@@ -164,3 +178,19 @@ class LiveSiteTests(unittest.TestCase):
             r=writer_result(research);r['content']['internal_links']=[url]
             with self.assertRaisesRegex(GateError,'UNVERIFIED_LIVE_INTERNAL_LINK'):
                 check_writing(r,research,1,{'entries':[{'url':url}],'documents':[]},[])
+
+class LocaleSimilarityTests(unittest.TestCase):
+    def test_full_localized_body_blocks_copy_from_same_language_and_current_batch(self):
+        from cloud_pilot.multilingual.similarity import assess,check
+        text='完整正文需要独立核查来源信息采购判断不能重复其他文章。'*50
+        article=dict(article_id='NEW',locale='zh',body=text)
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td);p=root/'daily/i18n/zh';p.mkdir(parents=True)
+            (p/'OTHER.zh.md').write_text('# Unrelated title\n\n'+text)
+            result=assess(article,root=root);self.assertEqual(1.,result['maximum'])
+            with self.assertRaisesRegex(GateError,'FULL_BODY_SIMILARITY_FAIL'):check(result)
+            (p/'OTHER.zh.md').unlink();self.assertEqual(0.,assess(article,root=root)['maximum'])
+            with self.assertRaisesRegex(GateError,'FULL_BODY_SIMILARITY_FAIL'):check(assess(article,[text],root))
+    def test_manual_threshold_cannot_be_model_approved(self):
+        from cloud_pilot.multilingual.similarity import check
+        with self.assertRaisesRegex(GateError,'MANUAL_REVIEW_REQUIRED'):check(dict(self_qa_fail=False,manual_review_required=True))

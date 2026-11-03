@@ -3,12 +3,24 @@ import hashlib
 import json
 import re
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+from urllib.parse import urljoin,urlparse
 from datetime import datetime
 from ..contract import ROOT,require,digest
 from ..live.policy import now
 
 FOLDER='cloud_pilot/evidence/live-site-20261103'
 BASE='https://autobridgetrade.top'
+INDEX_FILES={'/':'index-home.html','/en/vehicles/':'index-vehicles.html','/en/guides/':'index-guides.html'}
+
+class Index(HTMLParser):
+    def __init__(self):super().__init__();self.links=set();self.parts=[];self.pagination=False
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs);href=a.get('href','')
+        if tag=='a' and href:self.links.add(href)
+        if 'next' in a.get('rel','').split() or re.search(r'[?&](page|offset|start)=|/page/\d+',href):self.pagination=True
+    def handle_data(self,text):
+        if text.strip():self.parts.append(text.strip())
 
 def load(root=ROOT):
     folder=root/FOLDER
@@ -22,8 +34,23 @@ def load(root=ROOT):
     require(hashlib.sha256(xml).hexdigest()==m['sitemap_sha256'],'LIVE_SITEMAP_CHANGED')
     pattern=re.escape(BASE)+r'/en/(vehicles|guides)/[^/?#]+\.html'
     urls=sorted({e.text for e in ET.fromstring(xml).iter() if e.tag.endswith('loc') and e.text and re.fullmatch(pattern,e.text)})
-    listed={BASE+x for page in m['index_pages'].values() for x in page['links']
-            if re.fullmatch(r'/en/(vehicles|guides)/[^/?#]+\.html',x)}
+    require(set(m['index_pages'])==set(INDEX_FILES),'LIVE_SITE_INDEX_COVERAGE')
+    listed=set();home=''
+    for suffix,name in INDEX_FILES.items():
+        raw=(folder/name).read_bytes()
+        require(hashlib.sha256(raw).hexdigest()==m['index_pages'][suffix]['raw_sha256'],'LIVE_INDEX_CAPTURE_CHANGED')
+        parsed=Index();parsed.feed(raw.decode('utf-8'))
+        require(not parsed.pagination,'LIVE_SITE_PAGINATION_REQUIRES_CAPTURE')
+        require(sorted(parsed.links)==m['index_pages'][suffix]['links'],'LIVE_INDEX_LINK_LIST_CHANGED')
+        for href in parsed.links:
+            u=urljoin(BASE+suffix,href);p=urlparse(u)
+            if p.netloc=='autobridgetrade.top' and re.match(r'^/en/(vehicles|guides)/.+',p.path):
+                require(re.fullmatch(pattern,u),'LIVE_SITE_UNACCOUNTED_URL_PATTERN')
+                listed.add(u)
+        if suffix=='/':home=' '.join(parsed.parts)
+    for kind in ('vehicles','guides'):
+        n=re.search(r'(\d+)\s+English\s+'+kind,home)
+        require(n and int(n.group(1))==sum('/'+kind+'/' in u for u in urls),'LIVE_SITE_ANNOUNCED_COUNT_MISMATCH')
     require(urls and urls==m['urls'] and set(urls)==listed,'LIVE_SITE_INVENTORY_INCOMPLETE')
     docs=[]
     for chunk in m['chunks']:
