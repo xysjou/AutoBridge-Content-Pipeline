@@ -1,0 +1,101 @@
+{
+  "authorized": true,
+  "program_id": "autobridge-two-en-pilot-20261102",
+  "cap_nano_usd": 3000000000,
+  "code_sha": "b1df1dfcef2694d6024119d375a7e39577a07e3e",
+  "approved_main_sha": "a418353233e0a66a3385897a8845857fc09d2d26",
+  "baseline_sha": "92e97312f1f225023bd663ada41dfadfc9bfd848",
+  "rules": {
+    "skills/README.md": "c69bb7430307453a8dbd91c669e1b4295d4114667b704e7f30f7872ef0aee88b",
+    "skills/autobridge-research/SKILL.md": "fb640d85489ebbdd5e957947b6324670c3933dcdae4877fa0d58b12b5ef37f38",
+    "skills/autobridge-writing/SKILL.md": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063",
+    "LESSONS_LEARNED.md": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "VERSIONING.md": "b4c4125048c5a535d641b916e66b3cc32373b14bc34e1cde120b202d7b78fb42",
+    "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json": "05ee94d0c58e99110f0cceeed042a0993c5fa401fd6ade4ec23707427f37b46c",
+    "reviews/site-pilot-11-20260909/WRITING_V4_HANDOFF_20260912.json": "7d44eebfbb35f6beee17ba50acf71e477287bbbce8051a8ab7c08145ffa44ef9"
+  },
+  "plan_hash": "53f025373f98b24ff51d7b1f63bf45045d01b0e492a0e1eb39ff83691b1cc1c8",
+  "prices_hash": "4047f3cc9cf89e0789d2d4fbead0ab6a74c5e10d689947c7e55549fa98d952dd",
+  "expires_at": "2026-11-03T05:55:47.713510+00:00",
+  "allowed_models": [
+    "gpt-6-luna",
+    "gpt-6.1-terra"
+  ],
+  "account_models_verified": true,
+  "protected_runtime_verified": true,
+  "target_site": "https://autobridgetrade.top/",
+  "locales": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "execution_phase": "english",
+  "audit_only": true,
+  "authorization_basis": "User explicitly authorized four activation steps on 2026-11-02; entire existing pilot cap USD3; no website publication",
+  "account_check_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41419415388",
+  "authorized_run_id": "41569043182",
+  "caller_workflow_sha": "35dc0e11f41b821ec232b49d728ef92bdef9e731",
+  "trusted_workflow_sha": "a418353233e0a66a3385897a8845857fc09d2d26",
+  "caller_workflow_hash": "a296c4f315f397c6436d330e4c2abf45e11a8926286fba1a5e40589e30876f4e",
+  "trusted_workflow_hash": "38daf4cb093bd6467354f351e4ae32c35c30468e74ee10b92a04ff4057cd2faa",
+  "ledger_anchor": {
+    "events_count": 26,
+    "last_event_hash": "bfdfe704fa6170d1a3cf0d2318216bdcefc6316fde9f4e0e97c40d4115dd9499",
+    "settled_nano_usd": 424699425,
+    "reconciled_receipts": [
+      {
+        "response_id": "resp_07f96fc8bf34f651016ae859a873ac87d1a45feff92bbdb6bf",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "ae1383de7fbb9b435421f6f0b7e0adc925f02c96f4365303343d61f600b33dd4",
+        "cost": 88774250
+      },
+      {
+        "response_id": "resp_01b77663746170ef016ae85e53ddac87d1b16b08a5028fa893",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "72fcf23cd29b7db4a662ea8be3621a4da7384d34be7ed2a53595a817e7e4bb6d",
+        "cost": 153316750
+      },
+      {
+        "response_id": "resp_0cb502476a28dc0f016ae85ec3c8b087d1bd14ce7cd75fd8df",
+        "model": "gpt-6-luna",
+        "usage_hash": "d86a2e27358281ce25c9c08c88d6c67f004343c261c87d4caa11ad2b976624a2",
+        "cost": 17795425
+      },
+      {
+        "response_id": "resp_0ee7727ff1eba5dc016ae9477f40dc87d1a0d1dcb747d9d65c",
+        "model": "gpt-6.1-terra",
+        "usage_hash": "e304431c3d5a212ec5cc8304946eadfe8d74439bfe0570f508f935cacc78e001",
+        "cost": 164813000
+      }
+    ],
+    "operator_verified": true
+  },
+  "environment_only_attestation": {
+    "repository_secrets_absent": true,
+    "owner_only_write_verified": true,
+    "environment": "autobridge-pilot",
+    "owner_type": "User",
+    "environment_names": [
+      "AUTOBRIDGE_CONTROL_COMMIT",
+      "AUTOBRIDGE_LIVE_APPROVAL_SHA256",
+      "OPENAI_API_KEY"
+    ],
+    "checked_at": "2026-11-03T02:45:38.319361+00:00",
+    "observed_repository_secrets": "This repository has no secrets.",
+    "observed_access": "0 collaborators; Only you can contribute to this repository.",
+    "evidence_pages": [
+      "https://github.com/xysjou/AutoBridge-Content-Pipeline/settings/secrets/actions",
+      "https://github.com/xysjou/AutoBridge-Content-Pipeline/settings/access"
+    ],
+    "threat_boundary": "Owner-controlled repository and protected operator approval; no adversarial owner or malicious installed app. Approval must be renewed after any access or secret-scope change."
+  }
+}
