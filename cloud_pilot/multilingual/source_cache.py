@@ -4,7 +4,7 @@ import hashlib
 import re
 from datetime import datetime,timezone
 from urllib.parse import quote
-from ..contract import digest,require
+from ..contract import digest,require,GateError
 from ..live.policy import BRANCH
 from .sources import extract,source_title,MAX_BYTES
 from ..live.sources import PlainText
@@ -43,11 +43,23 @@ def validate(items,topic):
         require(digest({k:v for k,v in e.items() if k!='evidence_hash'})==e.get('evidence_hash'),'CACHED_SOURCE_HASH_DRIFT')
     return items
 
+class SourceTransferFailure(GateError):
+    def __init__(self,context,error):
+        self.article_id=context.get('article_id');self.source=context.get('source')
+        self.partial=context.get('partial',[])
+        super().__init__(str(error) if isinstance(error,GateError) else type(error).__name__)
+
 def restore(permit,plan,journal,scoped,github,code_sha):
+    context={}
+    try:return _restore(permit,plan,journal,scoped,github,code_sha,context)
+    except Exception as error:raise SourceTransferFailure(context,error) from None
+
+def _restore(permit,plan,journal,scoped,github,code_sha,context):
     descriptors=permit.get('source_evidence_transfers',[]);receipts=[]
     require(len({d['article_id'] for d in descriptors})==len(descriptors),'DUPLICATE_SOURCE_TRANSFER')
     topics={t['article_id']:t for t in plan['articles']}
     for d in descriptors:
+        context.clear();context.update(article_id=d['article_id'],source=dict(stage='ORIGIN_CHECKPOINT'),partial=[])
         aid=d['article_id'];require(aid in topics and d.get('operator_verified') is True,'SOURCE_TRANSFER_NOT_APPROVED')
         topic=topics[aid];key='evidence:'+aid
         old=journal.get_checkpoint(d['origin_checkpoint'])
@@ -59,6 +71,7 @@ def restore(permit,plan,journal,scoped,github,code_sha):
         require({e['source_id'] for e in old}==set(source),'SOURCE_TRANSFER_IDS')
         for e in old:
             s=source[e['source_id']]
+            context['source']=dict(source_id=s['source_id'],url=s['url'],stage='RAW_SOURCE_RECONSTRUCTION')
             require(all(e.get(k)==s[k] for k in ('publisher','parent_org','scope'))
                     and e.get('requested_url')==s['url'],'SOURCE_TRANSFER_DECLARATION_DRIFT')
             if e.get('tier')!=s['tier']:
@@ -85,7 +98,9 @@ def restore(permit,plan,journal,scoped,github,code_sha):
                        source_title=source_title(raw,content_type),
                        tier=s['tier'],content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
             new['evidence_hash']=digest(new);out.append(new)
+            context['partial']=list(out)
             scoped.checkpoint('source-transfer-progress:'+aid+':'+s['source_id'],out)
+        context['source']=dict(stage='AGGREGATE_HASH_AND_CACHE_VERIFICATION')
         validate(out,topic)
         require(d.get('expected_target_checkpoint')==scoped.prefix+key and digest(out)==d.get('expected_target_evidence_hash'),'SOURCE_TRANSFER_EXPECTED_TARGET_DRIFT')
         require(cached is None or cached==out,'SOURCE_TRANSFER_RECONSTRUCTED_TARGET_DRIFT')

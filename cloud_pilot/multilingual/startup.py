@@ -81,19 +81,28 @@ def lesson_ids():
     return sorted(set(re.findall(r'^#{2,3} LESSON:\s*([A-Z_]+)',text,re.M)+
                       re.findall(r'^\d+\.\s+\*\*([A-Z_]+)\*\*',text,re.M)))
 
-def writing_startup(main_sha,plan,research,github):
+def writing_startup(main_sha,plan,research,github,current_manifest):
     import json,base64
     from .publication import verify_research,json_bytes,DATE
     record=verify(main_sha,plan) # Includes actual git pull and full rule reads.
     completion=verify_research(github,research)
-    manifest=research['startup_gate']['canonical_daily_manifest']
+    manifest=current_manifest
     obj=github.call('GET','/contents/'+manifest['path']+'?ref='+manifest['commit_sha'])
     actual=json.loads(base64.b64decode(obj['content']))
     from .activation_review import intake
     require(digest(actual)==manifest['content_hash'] and intake(actual['plan'])==intake(plan),'WRITING_DAILY_MANIFEST_DRIFT')
+    rows_by_id={r['ARTICLE_ID']:r for r in actual['articles']};row=rows_by_id.get(research['article_id'],{})
+    require(set(rows_by_id)=={t['article_id'] for t in plan['articles']} and row.get('WRITING_AI_READY') is True
+            and row.get('RESEARCH_HASH')==research['research_hash'] and row.get('FACT_SHEET_VERSION')==row.get('SOURCE_LOG_VERSION')==research['version']
+            and row.get('RESEARCH_COMPLETE_COMMIT_SHA')==completion['commit_sha']
+            and row.get('RESEARCH_STATUS')==research['fact_sheet']['status'],'WRITING_MANIFEST_RESEARCH_DRIFT')
+    require(actual['WRITING_READY_COUNT']==sum(r['WRITING_AI_READY'] for r in actual['articles']) and
+            all(actual[k]==sum(r['RESEARCH_STATUS']==s for r in actual['articles']) for k,s in
+            [('MAIN_PASS_COUNT','RESEARCH_PASS'),('MAIN_CONDITIONAL_COUNT','RESEARCH_CONDITIONAL'),('MAIN_FAIL_COUNT','RESEARCH_FAIL')]),'WRITING_MANIFEST_COUNT_DRIFT')
     rows=research['independent_fact_review']['verdict']['lesson_assessments']
     require({r['lesson_id'] for r in rows}==set(lesson_ids()) and all(r['triggered'] is False for r in rows),'PRE_WRITING_LESSON_ERROR')
     record.update(stage='PRE_WRITING',RESEARCH_BASELINE_SHA=completion['commit_sha'],
+        WRITING_START_HEAD_SHA=record['execution_sha'],
         research_files_read=completion['files'],daily_manifest_read=manifest,lesson_assessments=rows,
         checklist=dict(repo_pulled=True,lessons_read=True,fact_sheets_read=True,source_logs_read=True,
             daily_manifest_read=True,each_lesson_checked=True,no_historical_error_triggered=True),

@@ -63,7 +63,10 @@ class Tests(unittest.TestCase):
 
     def test_changed_raw_archive_blocks_transfer_before_any_research(self):
         topic,old,j,scoped,gh,p=self.transfer_fixture();gh.api.tamper=True
-        with self.assertRaisesRegex(GateError,'RAW_CONTENT'):restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+        with self.assertRaisesRegex(GateError,'RAW_CONTENT') as caught:restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+        self.assertEqual(topic['article_id'],caught.exception.article_id)
+        self.assertEqual(topic['sources'][0]['source_id'],caught.exception.source['source_id'])
+        self.assertEqual(topic['sources'][0]['url'],caught.exception.source['url'])
         self.assertIsNone(scoped.get_checkpoint('evidence:'+topic['article_id']))
 
     def test_cached_transfer_cannot_claim_an_unrelated_origin(self):

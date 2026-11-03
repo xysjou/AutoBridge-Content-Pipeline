@@ -44,6 +44,8 @@ def corpus(root=ROOT):
             elif '/articles/' in rel:paths.add(p)
     reserve=root/'daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md'
     if reserve.is_file():paths.add(reserve)
+    source_log=root/'daily/2026-09-02/research/reserves/SOURCE_LOG_AB-260902-VR2.md'
+    if source_log.is_file():paths.add(source_log)
     result=[];seen=set()
     for p in sorted(paths):
         text=p.read_text();h=digest(text)
@@ -58,7 +60,7 @@ def corpus(root=ROOT):
                            text_hash=h,text=text))
     return result
 
-def dedup_request(plan,root=ROOT):
+def dedup_request(plan,root=ROOT,source_evidence=None):
     docs=corpus(root)
     related=[]
     # Full texts explicitly requested by the independent intake review, in
@@ -81,6 +83,8 @@ def dedup_request(plan,root=ROOT):
     index=[{k:d[k] for k in ('path','title','url','text_hash','context_role')} for d in docs]
     packet=dict(stage='independent_topic_dedup',intake_hash=intake_hash(plan),
         topics=[{k:a[k] for k in ('article_id','search_intent','buyer_task','topic_key')} for a in plan['articles']],
+        retrieved_reference_evidence={aid:[{k:e.get(k) for k in ('source_id','source_title','text','scope','tier','requested_url','retrieved_at','raw_sha256','text_sha256')}
+            for e in items] for aid,items in (source_evidence or {}).items()},
         corpus_index=index,related_full_text=related,
         coverage='Current batch versions plus unique English daily/delivery source articles. Localizations are represented by their English originals. No title-only pass is allowed.',
         required_output=dict(decision='PASS | OVERLAP | NEEDS_MORE_EVIDENCE',
@@ -90,6 +94,7 @@ def dedup_request(plan,root=ROOT):
           'Do not approve because dates, titles or brand names differ. Q05 has an older 2024 PHEV reserve: distinguish it '
           'from the 2026 BEV without assuming all Q05 pages are unique. Refrigerated-truck procurement may overlap '
           'the existing Foton Aumark buyer guide; require a distinct acceptance-evidence decision scope. '
+          'The retrieved reference evidence identifies the proposed reference vehicle; stock, production end and export equivalence remain Research questions and are not asserted by this intake. Judge duplicate buyer intent separately from final factual acceptance. '
           'Return NEEDS_MORE_EVIDENCE and additional_paths if related coverage is insufficient. Do not grant human/publication approval.')
     packet['corpus_hash']=digest(index)
     return packet
@@ -154,8 +159,8 @@ def verified_topic(journal,packet):
                            packet_hash=digest(packet),response_id=result['response_id'])
     return None,None
 
-def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestation=None):
-    packet=dedup_request(plan,root) # Validate complete review inputs before the first paid request.
+def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestation=None,source_evidence=None):
+    packet=dedup_request(plan,root,source_evidence) # Validate complete review inputs before the first paid request.
     require(workflow_evidence and scope_attestation,'REVIEW_EXECUTED_WORKFLOW_EVIDENCE_REQUIRED')
     code=code_request(plan,sha,root,workflow_evidence,scope_attestation)
     code_result=models.call('activation-code:'+sha,'review',code)
@@ -186,9 +191,9 @@ def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestati
     journal.checkpoint('activation-review:'+sha+':'+intake_hash(plan),report)
     return report
 
-def verify_receipt(plan,sha,journal,root=ROOT,workflow_evidence=None):
+def verify_receipt(plan,sha,journal,root=ROOT,workflow_evidence=None,source_evidence=None):
     from ..live.responses import build_request
-    packet=dedup_request(plan,root)
+    packet=dedup_request(plan,root,source_evidence)
     receipt=journal.get_checkpoint('activation-review:'+sha+':'+intake_hash(plan))
     require(receipt and receipt.get('status')=='ACTIVATION_REVIEW_PASS','INDEPENDENT_RECEIPT_REQUIRED')
     require(receipt.get('code_sha')==sha and receipt.get('intake_hash')==intake_hash(plan)

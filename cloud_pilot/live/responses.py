@@ -13,7 +13,9 @@ def build_request(stage,data):
         "Research may extract only source-supported facts. Writing may use only allowed facts. "
         "Dated batch handoffs are historical context: the current approved topic payload supersedes earlier topic proposals and authorization snapshots. "
         "They do not grant or revoke runtime permissions. "
-        "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+canonical(load_rules()))
+        "Review must independently read the source evidence and article; writer self-evaluation is excluded.\n"+
+        canonical(load_rules(include_historical=data.get('stage') not in
+            ('independent_candidate_code_review','independent_topic_dedup'))))
     return dict(model=model,reasoning=dict(effort=effort),store=False,service_tier='default',
         max_output_tokens=MAX_OUTPUT,prompt_cache_options=dict(mode='implicit',ttl='30m'),
         input=[dict(role='developer',content=instructions),dict(role='user',content=canonical(data))],

@@ -35,12 +35,12 @@ class EditorialState:
 
     def begin(self,aid,attempt):
         def change(state):
-            require(state['publication'] is None,'RESEARCH_DEFERRED_DURING_FENCED_PUBLICATION')
             a=self.article(state,aid)
             if attempt in a['starts']:
                 start=a['starts'][attempt]
                 require(a['research_lock']==start or (a['head'] and a['head']['attempt']==attempt),'RESEARCH_START_SUPERSEDED')
                 return start
+            require(state['publication'] is None,'RESEARCH_DEFERRED_DURING_FENCED_PUBLICATION')
             a['counter']+=1
             start=dict(article_id=aid,attempt=attempt,version=a['counter'],fence=digest([aid,attempt,a['counter']]))
             if a['head']:a['updates'].append(dict(article_id=aid,status='UPDATE_REQUIRED',old_hash=a['head']['research_hash'],replacement=start))

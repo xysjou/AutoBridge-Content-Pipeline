@@ -36,7 +36,7 @@ class GitMemory:
         if method=='POST' and path=='/git/refs':
             self.creates+=1;self.refs[payload['ref'].removeprefix('refs/heads/')]=payload['sha'];return dict(object=dict(sha=payload['sha']))
         if path.startswith('/commits/'):
-            sha=path.rsplit('/',1)[1];c=self.commits[sha]
+            sha=path.split('?',1)[0].rsplit('/',1)[1];c=self.commits[sha]
             before=self.trees[self.commits[c['parent']]['tree']]
             return dict(sha=sha,parents=[dict(sha=c['parent'])],commit=dict(message=c['message']),files=[dict(filename=p,status='added' if p not in before else 'modified',sha=blob_hash(b)) for p,b in self.trees[c['tree']].items() if before.get(p)!=b])
         if path.startswith('/contents/'):
@@ -156,23 +156,87 @@ class Tests(unittest.TestCase):
         self.assertTrue(handoff['WRITING_AI_READY']);self.assertIn('FACT_BOUNDARY_STATUS',handoff)
 
     def test_writing_startup_reads_actual_manifest_and_research_completion(self):
-        from cloud_pilot.multilingual.publication import push_startup_manifest
+        from cloud_pilot.multilingual.publication import push_startup_manifest,sync_batch_manifest
         from cloud_pilot.multilingual.startup import writing_startup,lesson_ids
         topic,ev,result=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
         result['content']['handoff']['research_baseline_sha']='a'*40
         p=dict(articles=[topic],execution_phase='english');gh=GitMemory()
-        startup=dict(approved_main_sha='a'*40,startup_gate=dict(REPO_HEAD_SHA='a'*40,LESSONS_LEARNED_SHA='b'*40))
+        startup=dict(approved_main_sha='a'*40,execution_sha='a'*40,startup_gate=dict(REPO_HEAD_SHA='a'*40,LESSONS_LEARNED_SHA='b'*40))
         startup['canonical_daily_manifest']=push_startup_manifest(gh,startup,p,'synthetic-run')
         raw=check_research(result,topic,ev);raw['startup_gate']=startup
-        proposal=seal_research(gh,raw,dict(version=1))
+        j=ResponseJournal(ArtifactStore());state=EditorialState(j);start=state.begin(topic['article_id'],'initial')
+        proposal=seal_research(gh,raw,start)
         rows=[dict(lesson_id=k,applicable=False,triggered=False,reason='Synthetic verified lesson') for k in lesson_ids()]
         complete=complete_research(gh,proposal,dict(research_hash=proposal['research_hash'],verdict=dict(decision='ACCEPT',lesson_assessments=rows)))
+        j.checkpoint('research:'+topic['article_id'],complete);state.lock(complete)
+        manifest=sync_batch_manifest(gh,j,p,startup)
         writes=[];gh.put_canonical_qa=lambda path,body:writes.append((path,json.loads(body)))
         with patch('cloud_pilot.multilingual.startup.verify',return_value=copy.deepcopy(startup)) as sync:
-            record=writing_startup('a'*40,p,complete,gh)
+            record=writing_startup('a'*40,p,complete,gh,manifest)
         sync.assert_called_once_with('a'*40,p)
         self.assertEqual(complete['completion']['commit_sha'],record['RESEARCH_BASELINE_SHA'])
         self.assertTrue(all(record['checklist'].values()));self.assertEqual(1,len(writes))
+        with patch('cloud_pilot.multilingual.startup.verify',return_value=copy.deepcopy(startup)),self.assertRaisesRegex(GateError,'MANIFEST_RESEARCH_DRIFT'):
+            writing_startup('a'*40,p,complete,gh,startup['canonical_daily_manifest'])
+
+    def test_pending_other_article_can_resume_without_mutation_during_delivery(self):
+        j=ResponseJournal(ArtifactStore());s=EditorialState(j);r=research();s.lock(r)
+        pending=s.begin('PILOT-OTHER','initial');token=s.begin_publication([r],'english:fixture')
+        before=s.snapshot();self.assertEqual(pending,s.begin('PILOT-OTHER','initial'))
+        self.assertEqual(before,s.snapshot())
+        with self.assertRaisesRegex(GateError,'DEFERRED'):s.begin('PILOT-OTHER','new-attempt')
+        s.end_publication(token)
+
+    def test_transfer_failure_invalidates_only_affected_article(self):
+        from cloud_pilot.multilingual.source_cache import SourceTransferFailure
+        from cloud_pilot.multilingual.publication import record_transfer_failure
+        j=ResponseJournal(ArtifactStore());s=EditorialState(j);one=research();two=research('two');two['article_id']='PILOT-OTHER'
+        s.lock(one);s.lock(two);unaffected=copy.deepcopy(s.snapshot()['articles']['PILOT-OTHER'])
+        topic,ev,_=active_case('BUYING_GUIDE');topic.update(article_id=one['article_id'],research_baseline_sha='a'*40)
+        error=SourceTransferFailure(dict(article_id=one['article_id'],partial=ev[:2],source=dict(source_id='S2',url=topic['sources'][2]['url'])),GateError('RAW_CONTENT'))
+        failed=record_transfer_failure(GitMemory(),j,dict(articles=[topic]),{},error)
+        self.assertEqual(2,len(failed['evidence']));self.assertEqual('S2',failed['fact_sheet']['access_failure']['failed_source']['source_id'])
+        self.assertEqual(unaffected,s.snapshot()['articles']['PILOT-OTHER']);s.check(two)
+
+    def test_commit_file_pagination_73_and_173_files(self):
+        from cloud_pilot.multilingual.delivery import VerifiedGitHub
+        from cloud_pilot.multilingual.publication import verify_files
+        for count in (73,173):
+            files={f'deliveries/test/{i}.md':str(i).encode() for i in range(count)};pages=[]
+            class API:
+                host='api.github.com'
+                def request(self,method,path,payload=None):
+                    if '/commits/' in path:
+                        page=int(path.rsplit('page=',1)[1]);pages.append(page)
+                        changes=[dict(filename=p,status='added',sha=blob_hash(b)) for p,b in files.items()]
+                        return 200,dict(sha='a'*40,parents=[dict(sha='b'*40)],commit=dict(message='fixture'),files=changes[(page-1)*100:page*100])
+                    name=path.split('/contents/',1)[1].split('?ref=')[0];body=files[name]
+                    return 200,dict(encoding='base64',sha=blob_hash(body),content=base64.b64encode(body).decode())
+            verify_files(VerifiedGitHub(API()),'a'*40,files,'fixture','b'*40)
+            self.assertEqual([1] if count==73 else [1,2],pages)
+
+    def test_73_file_bundle_verifies_before_ref_and_recovers_interrupted_read(self):
+        from cloud_pilot.multilingual.publication import publish_delivery_bundle
+        from cloud_pilot.live.policy import BRANCH
+        class GH(GitMemory):
+            fail=True;reads=0
+            def request(self,method,path,payload=None):
+                try:return super().request(method,path,payload)
+                except KeyError:return 404,{}
+            def call(self,method,path,payload=None,expected=200):
+                if method=='PATCH' and path.startswith('/git/refs/heads/'):
+                    self.refs[unquote(path.split('/git/refs/heads/',1)[1])]=payload['sha'];return {}
+                if path.startswith('/contents/'):
+                    self.reads+=1
+                    if self.fail and self.reads==31:raise GateError('INTERRUPTED_VERIFICATION')
+                return super().call(method,path,payload,expected)
+        gh=GH();gh.refs[BRANCH]='a'*40
+        files={f'deliveries/2026-11-03/api-pilot/bundle/i18n/en/{i}.md':str(i).encode() for i in range(72)}
+        with self.assertRaisesRegex(GateError,'INTERRUPTED_VERIFICATION'):publish_delivery_bundle(gh,files,'bundle')
+        self.assertEqual('a'*40,gh.refs[BRANCH])
+        gh.fail=False;published=publish_delivery_bundle(gh,files,'bundle');self.assertEqual(72,len(published))
+        sha=gh.refs[BRANCH];self.assertNotEqual('a'*40,sha)
+        self.assertEqual(published,publish_delivery_bundle(gh,files,'bundle'));self.assertEqual(sha,gh.refs[BRANCH])
 
     def test_live_localizer_fences_both_paid_stages_against_research(self):
         from cloud_pilot.multilingual.localize import Localizer,validate

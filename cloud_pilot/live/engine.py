@@ -155,7 +155,9 @@ class Engine:
                 editorial=EditorialState(self.journal);editorial.lock(research)
                 if self.startup is not None:
                     from ..multilingual.startup import writing_startup
-                    writing_record=writing_startup(self.startup['approved_main_sha'],self.plan,research,self.github)
+                    from ..multilingual.publication import sync_batch_manifest
+                    manifest=sync_batch_manifest(self.github,self.journal,self.plan,self.startup)
+                    writing_record=writing_startup(self.startup['approved_main_sha'],self.plan,research,self.github,manifest)
                     self.journal.checkpoint('writing-startup:'+research['research_hash']+':'+digest(writing_record),writing_record)
             require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
             prior_article,findings=None,None
@@ -172,7 +174,9 @@ class Engine:
                 article=self.cached('article:'+key)
                 if article is None:
                     with editorial.model_stage(research,key+':writing') if active else nullcontext():
-                        response=self.models.call(key+':writing','writing',writing_request(research,version,prior_article,findings))
+                        request=writing_request(research,version,prior_article,findings)
+                        if active and self.startup is not None:request['pre_writing_gate']=writing_record
+                        response=self.models.call(key+':writing','writing',request)
                         if active:editorial.check(research)
                         try:article=check_writing(response,research,version,self.history,prior)
                         except Exception:

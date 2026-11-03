@@ -12,10 +12,16 @@ def json_bytes(obj):return (canonical(obj)+'\n').encode()
 def blob_hash(body):return hashlib.sha1(b'blob '+str(len(body)).encode()+b'\0'+body).hexdigest()
 
 def verify_files(gh,sha,files,message,parent=None):
-    c=gh.call('GET','/commits/'+sha)
+    c=gh.call('GET','/commits/'+sha+'?per_page=100&page=1')
     require(c['sha']==sha and len(c['parents'])==1 and c['commit']['message']==message,'EDITORIAL_COMMIT_CHANGED')
     require(parent is None or c['parents'][0]['sha']==parent,'EDITORIAL_PARENT_CHANGED')
-    changes=c.get('files',[])
+    expected_parent=c['parents'][0]['sha'];changes=list(c.get('files',[]));page=1
+    while len(c.get('files',[]))==100:
+        page+=1;require(page<=30,'EDITORIAL_COMMIT_FILES_BOUND')
+        c=gh.call('GET','/commits/'+sha+'?per_page=100&page='+str(page))
+        require(c['sha']==sha and len(c['parents'])==1 and c['commit']['message']==message
+                and c['parents'][0]['sha']==expected_parent,'EDITORIAL_COMMIT_PAGE_DRIFT')
+        changes.extend(c.get('files',[]))
     require(len(changes)==len(files) and {f['filename'] for f in changes}==set(files)
             and all(f['status']=='added' and f['sha']==blob_hash(files[f['filename']]) for f in changes),'EDITORIAL_COMPLETE_DIFF_CHANGED')
     for path,body in files.items():
@@ -123,6 +129,15 @@ def persist_source_failure(gh,topic,evidence,start,error,startup=None,failed_sou
     record=persist_failed_research(gh,response,topic,evidence,start,error)
     return record
 
+def record_transfer_failure(gh,journal,plan,startup,error):
+    from .editorial_state import EditorialState
+    state=EditorialState(journal);topic=next(t for t in plan['articles'] if t['article_id']==error.article_id)
+    aid=topic['article_id'];start=state.snapshot()['articles'].get(aid,{}).get('research_lock')
+    if start is None:start=state.begin(aid,getattr(journal,'prefix','')+':source-transfer-failure:'+aid)
+    failed=persist_source_failure(gh,topic,error.partial,start,error,startup,error.source)
+    journal.checkpoint('failed-source-research:'+aid,failed)
+    return failed
+
 def push_startup_manifest(gh,startup,plan,run_id):
     path=f'daily/{DATE}/research/api-pilot/startup/{run_id}/daily_manifest.json'
     record=dict(BATCH_ID='api-pilot-'+DATE,STATUS='BLOCKED',TOTAL_MAIN=len(plan['articles']),TOTAL_RESERVE=0,
@@ -179,9 +194,40 @@ def publish_delivery_bundle(gh,files,identity):
     parent=gh.ref(BRANCH);sha=new_commit(gh,parent,all_files,message)
     # Fixed expected parent prevents a branch race from replacing other work.
     require(gh.ref(BRANCH)==parent,'DELIVERY_BRANCH_CAS_CONFLICT')
-    gh.call('PATCH','/git/refs/heads/'+quote(BRANCH,safe='/'),dict(sha=sha,force=False))
     verify_files(gh,sha,all_files,message,parent)
+    gh.call('PATCH','/git/refs/heads/'+quote(BRANCH,safe='/'),dict(sha=sha,force=False))
+    require(gh.ref(BRANCH)==sha,'DELIVERY_BRANCH_UPDATE_UNCONFIRMED')
     return {p:blob_hash(b) for p,b in files.items()}
+
+def sync_batch_manifest(gh,journal,plan,startup):
+    from .editorial_state import EditorialState
+    state=EditorialState(journal);rows=[]
+    for topic in plan['articles']:
+        aid=topic['article_id'];r=journal.get_checkpoint('research:'+aid)
+        if r:
+            verify_research(gh,r);state.check(r)
+            row=dict(ARTICLE_ID=aid,RESEARCH_STATUS=r['fact_sheet']['status'],WRITING_AI_READY=True,
+                FACT_SHEET_VERSION=r['version'],SOURCE_LOG_VERSION=r['version'],RESEARCH_HASH=r['research_hash'],
+                RESEARCH_COMPLETE_COMMIT_SHA=r['completion']['commit_sha'],RESEARCH_FILES=r['completion']['files'])
+        else:
+            failed=journal.get_checkpoint('failed-source-research:'+aid) or journal.get_checkpoint('failed-research:'+aid) or journal.get_checkpoint('withheld-research:'+aid)
+            row=dict(ARTICLE_ID=aid,RESEARCH_STATUS=failed['fact_sheet']['status'] if failed else 'PENDING',
+                WRITING_AI_READY=False,FACT_SHEET_VERSION=failed['version'] if failed else None,
+                SOURCE_LOG_VERSION=failed['version'] if failed else None,RESEARCH_HASH=failed['research_hash'] if failed else None,
+                RESEARCH_COMPLETE_COMMIT_SHA=failed['completion']['commit_sha'] if failed else None)
+        rows.append(row)
+    counts={name:sum(r['RESEARCH_STATUS']==status for r in rows) for name,status in
+        [('MAIN_PASS_COUNT','RESEARCH_PASS'),('MAIN_CONDITIONAL_COUNT','RESEARCH_CONDITIONAL'),('MAIN_FAIL_COUNT','RESEARCH_FAIL')]}
+    ready=sum(r['WRITING_AI_READY'] for r in rows)
+    status=('READY_WITH_CONDITIONS' if counts['MAIN_CONDITIONAL_COUNT'] else 'READY') if ready==len(rows) else ('PARTIAL' if counts['MAIN_FAIL_COUNT'] else 'BLOCKED')
+    record=dict(BATCH_ID='api-pilot-'+DATE,STATUS=status,TOTAL_MAIN=len(rows),TOTAL_RESERVE=0,
+        **counts,WRITING_READY_COUNT=ready,BLOCKED_ARTICLES=[r['ARTICLE_ID'] for r in rows if not r['WRITING_AI_READY']],
+        articles=rows,plan=plan,startup_gate=startup,PUBLISH_APPROVED=False,HUMAN_REVIEWED=False)
+    identity=digest(record);path=f'daily/{DATE}/research/api-pilot/manifests/{identity}/daily_manifest.json'
+    sha=isolated(gh,'research/api-manifest-'+identity[:20],startup['approved_main_sha'],{path:json_bytes(record)},'Record actual Research batch manifest '+identity)
+    receipt=dict(commit_sha=sha,path=path,content_hash=identity)
+    journal.checkpoint('batch-manifest:'+identity,receipt)
+    return receipt
 
 def recover_publication(gh,journal,authorization):
     """Protected operator abort, available before stale evidence is loaded.

@@ -126,28 +126,22 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
             if scoped.get_checkpoint('research:'+topic['article_id']) is None:
                 start=editorial.begin(topic['article_id'],scoped.prefix+':'+topic['article_id'])
                 editorial.assert_research(start)
-    from .source_cache import restore
+    from .source_cache import restore,SourceTransferFailure
     try:source_transfers=restore(permit,plan,journal,scoped,github,sha)
     except Exception as error:
-        if not audit_only:
-            from .publication import persist_source_failure
-            checkpoints=journal.read()[2]['checkpoints']
-            for topic in plan['articles']:
-                aid=topic['article_id'];prefix=scoped.prefix+'source-transfer-progress:'+aid+':'
-                candidates=[journal.get_checkpoint(k) for k in checkpoints if k.startswith(prefix)]
-                available=max(candidates,key=len,default=[])
-                start=editorial.begin(aid,scoped.prefix+':'+aid)
-                failed=persist_source_failure(github,topic,available,start,error,startup,'PROTECTED_SOURCE_TRANSFER')
-                scoped.checkpoint('failed-source-research:'+aid,failed)
+        if not audit_only and isinstance(error,SourceTransferFailure) and error.article_id in {t['article_id'] for t in plan['articles']}:
+            from .publication import record_transfer_failure
+            record_transfer_failure(github,scoped,plan,startup,error)
         raise
     if audit_only:
         from .activation_review import run
         probe=Engine(shape,history,scoped,raw_models,github,retrieve)
-        for topic in plan['articles']:probe.evidence(topic)
+        evidence={topic['article_id']:probe.evidence(topic) for topic in plan['articles']}
         return run(plan,sha,journal,raw_models,workflow_evidence=workflow_evidence,
-                   scope_attestation=dict(permit['environment_only_attestation'],verified_source_transfers=source_transfers))
+                   scope_attestation=dict(permit['environment_only_attestation'],verified_source_transfers=source_transfers),source_evidence=evidence)
     from .activation_review import verify_receipt
-    verify_receipt(plan,sha,journal,workflow_evidence=workflow_evidence)
+    verify_receipt(plan,sha,journal,workflow_evidence=workflow_evidence,
+        source_evidence={t['article_id']:scoped.get_checkpoint('evidence:'+t['article_id']) for t in plan['articles']})
     revision=plan.get('evidence_revision',1)
     journal=scoped
     class EditorialModels:

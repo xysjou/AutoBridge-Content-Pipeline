@@ -32,10 +32,12 @@ def timestamp():
 def read_json(path):
     return json.loads(Path(path).read_text())
 
-def load_rules():
+def load_rules(include_historical=True):
     from ..multilingual.startup import batch_context,review_context
     # Full authoritative files, not a substitute summary or old chat context.
-    current={p:t for p,t in batch_context().items() if not p.endswith('pilot-intake-proposal.json')}
+    from ..multilingual.startup import BATCH_CONTEXT
+    current={p:t for p,t in batch_context().items() if not p.endswith('pilot-intake-proposal.json')
+             and (include_historical or p in BATCH_CONTEXT)}
     return {**{p: (ROOT / p).read_text() for p in RULE_PATHS},**current,**review_context(),
             '_review_handoff_inventory':{p:digest(t) for p,t in review_context(all_versions=True).items()}}
 
