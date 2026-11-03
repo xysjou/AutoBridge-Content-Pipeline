@@ -8,6 +8,10 @@ from .policy import STAGE_MODELS, MAX_OUTPUT, EDITORIAL_MAX_OUTPUT, validate_pri
 def build_request(stage,data):
     require(stage in STAGE_MODELS,'UNKNOWN_STAGE')
     model,effort=STAGE_MODELS[stage]
+    # Source-bound Research needs stronger schema and editorial-method reasoning.
+    # Large-corpus topic dedup remains on Luna; no new model or permission scope.
+    if stage=='research' and data.get('stage')=='research':
+        model='gpt-6.1-terra'
     # A full-tree code audit exhausted 8k tokens on reasoning with no verdict.
     # Bound that technical audit to medium; factual/article reviews retain high.
     if stage=='review' and data.get('stage')=='independent_candidate_code_review':

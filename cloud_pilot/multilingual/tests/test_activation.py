@@ -222,3 +222,9 @@ class RuntimeRevisionTests(unittest.TestCase):
         permit=dict(authorized=True,program_id=PROGRAM,cap_nano_usd=3000000000,plan_hash=digest(p),prices_hash=digest(price),code_sha=sha,approved_main_sha='b'*40,baseline_sha=BASELINE,rules=rules(),expires_at=(datetime.now(timezone.utc)+timedelta(hours=1)).isoformat(),allowed_models=list(RATES),account_models_verified=True,protected_runtime_verified=True)
         with patch.dict(os.environ,{'AUTOBRIDGE_LIVE_APPROVAL_SHA256':digest(permit)}),patch('cloud_pilot.multilingual.authorization.subprocess.check_output',return_value=sha+'\n'),patch('cloud_pilot.live.http.JsonAPI',side_effect=AssertionError('credential transport must not be created')):
             with self.assertRaisesRegex(GateError,'CODE_MAIN_SHA_MISMATCH'):preauthorize(p,price,permit)
+
+class SourceBoundResearchModelTests(unittest.TestCase):
+    def test_editorial_research_uses_terra_and_full_corpus_dedup_stays_luna(self):
+        from cloud_pilot.live.responses import build_request
+        self.assertEqual('gpt-6.1-terra',build_request('research',{'stage':'research'})['model'])
+        self.assertEqual('gpt-6-luna',build_request('research',{'stage':'independent_topic_dedup','current_live_site':{'documents':[]}})['model'])

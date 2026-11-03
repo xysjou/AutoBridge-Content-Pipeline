@@ -75,9 +75,10 @@ def dedup_request(plan,root=ROOT,source_evidence=None):
     for d in docs:
         t=d['text'].lower()
         q=bool(re.search(r'qiyuan\s*q05|nevo\s*q05|启源\s*q05',t))
+        replacement_context=bool(re.search(r'x5\s*plus|cs55\s*plus|cs75\s*plus',t))
         cold=bool(re.search(r'refrigerat|reefer|冷藏|cold[- ]chain',t))
         nearby_guide='/guides/' in d['path'] and bool(re.search(r'pdi|pre.?shipment|inspection|handover|quality|contract|commercial.fleet',d['path'],re.I))
-        if q or cold or d['path'] in requested_context or nearby_guide:
+        if q or cold or replacement_context or d['path'] in requested_context or nearby_guide:
             related.append(dict(d,match=('Q05' if q else '')+(' cold-chain' if cold else '')+
                                 (' independent-review-requested buying intent' if d['path'] in requested_context else '')))
     require(requested_context<={d['path'] for d in related},'REQUESTED_DEDUP_CONTEXT_MISSING')

@@ -542,7 +542,8 @@ class LiveTests(unittest.TestCase):
         self.assertEqual(2,len(engine.run()));self.assertEqual(2,len(engine.run()))
         self.assertEqual(['research','writing','independent_review']*2,api.calls)
         view=replay(self.store.data)
-        self.assertEqual(6,len(view['operations']));self.assertEqual(29_444_000,view['allocated'])
+        self.assertEqual(6,len(view['operations']));self.assertEqual(42_060_000,view['allocated'])
+        self.assertEqual({'gpt-6.1-terra'},{o['model'] for o in view['operations'].values()})
 
     def test_execute_with_existing_keys_stops_before_secret_reads(self):
         from cloud_pilot.live.__main__ import execute
