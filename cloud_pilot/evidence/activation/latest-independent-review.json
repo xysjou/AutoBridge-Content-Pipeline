@@ -4,39 +4,39 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "Identity validation requires a field value in the fact statement, but not in its supporting quotation. A drivetrain fact stating AWD can therefore be bound to an unrelated quotation from a source whose declared scope matches the intake. Matching scope labels alone do not establish that the source supports the field.",
+          "detail": "A source check can declare scope_match=true and scope_status=CONTEXT_ONLY while official_source=false. Both validators accept that combination, and VERIFIED requires only a T1 source, not a MATCHED scope status. A context-only source can therefore support a fact labeled VERIFIED.",
+          "file": "cloud_pilot/multilingual/research_contract.py; cloud_pilot/live/stages.py",
+          "required_fix": "Make the boolean and scope-status fields consistent, and require a directly supporting T1 source classified MATCHED for every VERIFIED fact. Add tests for contradictory scope fields and context-only T1 sources.",
+          "severity": "high"
+        },
+        {
+          "detail": "The T1/T2 restriction covers declared identity facts and quantitative facts only when their scope exactly equals the first intake source. A core, non-quantitative vehicle specification can be declared as an ordinary external fact and supported solely by T3 evidence. Family-scoped quantitative facts also bypass that tier check.",
           "file": "cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Bind each identity value to directly supporting source text and its exact vehicle context; add active-article tests for unrelated quotations and mismatched identity values.",
+          "required_fix": "Classify all core vehicle specifications independently of identity_field and quantitative flags, enforce the permitted evidence tiers and exact vehicle applicability for each, and test non-numeric and family-scoped bypasses against the active article contract.",
           "severity": "high"
         },
         {
-          "detail": "The standard gate relies on a limited expression and skips classification checks for facts labeled editorial_method. A regulation cited without a recognized term, or mislabeled as an editorial method, can bypass current-version and primary-source requirements.",
+          "detail": "Identity validation requires the identity value to occur in the quotation, but does not require the quotation to connect that value to the exact model, year and trim. Those context fields come from declared source scope. A quotation about another vehicle containing the same value can satisfy the mechanical check.",
           "file": "cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Classify regulatory and standards claims independently of the supplied kind flag, fail closed when classification is uncertain, and test alternate citation formats and mislabeled mandatory claims.",
+          "required_fix": "Bind each identity value to evidence establishing its field and exact vehicle context, including any necessary linked table or heading context. Add active-article tests where the value appears only for another model or trim.",
           "severity": "high"
         },
         {
-          "detail": "CROSS_CHECKED requires two parent organizations but does not restrict the sources to tiers permitted for the fact. For the Q05 intake, Autohome and YooJia are declared T3; the gate can therefore accept their agreement as support for a core vehicle specification even though the repository limits T3 to background, process and case-study use.",
-          "file": "cloud_pilot/live/stages.py; cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Enforce fact-specific source-tier eligibility. Reclassify structured sources only after validating their actual publisher and content, and test that two T3 sources cannot establish a key vehicle specification.",
+          "detail": "The regulatory gate still relies on a limited expression and a model-supplied NOT_REGULATORY assertion. A statement such as 'A permit is compulsory to import this truck' is not necessarily detected by the expression and can avoid the primary-source and currentness requirements.",
+          "file": "cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Classify legal and regulatory obligations independently of the supplied kind and assessment flags; fail closed when classification is uncertain. Test obligation wording without named standards and require competent-primary-source and currentness evidence where applicable.",
           "severity": "high"
         },
         {
-          "detail": "The engine never sets a durable WRITING_LOCK while writing. It requires writing_locked=false and compares only its cached research checkpoint, so concurrent Research changes outside that immutable checkpoint are not signaled through UPDATE_REQUIRED or RESEARCH_CHANGED_AFTER_WRITING_STARTED.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/research_contract.py",
-          "required_fix": "Implement durable per-article lock and update signaling, re-read the current versioned Research handoff before completion, and test a Research change during writing.",
+          "detail": "The active research packet is always version 1. A changed research packet for the same article in a new evidence epoch therefore attempts to overwrite the immutable research-current:<article>:1 checkpoint and fails before recording UPDATE_REQUIRED. The existing writer can still observe the old head. The synthetic lock test uses version 2, which the active handoff validator does not produce.",
+          "file": "cloud_pilot/multilingual/editorial_state.py; cloud_pilot/live/engine.py; cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Implement a durable, monotonically versioned research head and a shared research-lock/update protocol for active handoffs. Atomically invalidate or prevent stale writing and delivery when research changes. Test a real second evidence epoch and concurrent research changes during writing and localization.",
           "severity": "high"
         },
         {
-          "detail": "The account-check job exposes the project key to code selected by AUTOBRIDGE_APPROVED_CODE_SHA without the protected permit and workflow-lease preauthorization used by execute. The application-level SHA check runs only after that selected code has received the key; the protected environment review does not itself bind the code to a reviewed account-check implementation.",
-          "file": ".github/workflows/cloud-pilot-trusted.yml",
-          "required_fix": "Run account checks from an independently pinned implementation, or validate a protected, code-bound account-check permit before exposing the project key.",
-          "severity": "high"
-        },
-        {
-          "detail": "When a target evidence checkpoint already exists, restore validates its declarations and internal hashes but does not compare its raw hashes, retrieval times or target hash with the approved origin transfer. It can then produce a transfer receipt associating cached evidence with an origin it did not verify against that cache.",
+          "detail": "When both the target checkpoint and transfer receipt already exist, restore checks internal hashes and selected origin metadata but does not reconstruct the text from raw bytes or compare the target digest with an independently approved expected target digest. A self-consistent incorrect cached representation could therefore be reused.",
           "file": "cloud_pilot/multilingual/source_cache.py",
-          "required_fix": "Bind every required transfer to the approved origin and expected target, and verify raw hashes, retrieval times, source declarations and target digest even when the target checkpoint already exists.",
+          "required_fix": "Bind the approved transfer to the expected target checkpoint and digest, and verify that the cached representation is derived from the approved raw archive even on the existing-checkpoint path. Test a self-consistent cache whose text differs from its raw evidence.",
           "severity": "medium"
         }
       ],
@@ -44,13 +44,13 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_0e1da463929e02d3016ae95bd0a88c87d19650f491555f72c5"
+    "response_id": "resp_07a73bc4b76cd52e016ae95f8a8e4087d183cb12f08e6ef8bf"
   },
-  "code_sha": "ac1303e64dc595a35d8c978b9792e51cd1443ff9",
+  "code_sha": "bf787e70837dbfa9217299d16aed55fa98078d93",
   "corpus_hash": "8656f4039bbca582f729791c4837494cc5092ba9b03634107e579fd834f664c0",
-  "dedup_request_hash": "bfedff2f808d72860e1a47919695f21082cd8be71a100285fca35416dceba5f3",
+  "dedup_request_hash": "e7f60fa19a38d933b7e1eb9cf6fe8ca288cb3a163665c1bfa3af987e2aab92ab",
   "environment_scope_attestation": {
-    "checked_at": "2026-11-03T03:56:34.437286+00:00",
+    "checked_at": "2026-11-03T04:12:22.754989+00:00",
     "environment": "autobridge-pilot",
     "environment_names": [
       "AUTOBRIDGE_CONTROL_COMMIT",
@@ -88,9 +88,23 @@
           "1b4df824c4fa79caaccdb77edd44768078f2d4d655eb0c8b98973fa1e6a459ca",
           "05c773d1c9e6ddab6e8d39b06d1077945a23f95ac1299812c0be16d0057a4538"
         ],
-        "representation_code_sha": "ac1303e64dc595a35d8c978b9792e51cd1443ff9",
-        "target_checkpoint": "evidence-round:1:dab41efdd1adf78abfa227f506a0569d8b71e96c8c43bfa8b5d34aa7ce635e93:evidence:PILOT-Q05-2026",
-        "target_evidence_hash": "7bc88820ef33509835383d03dfef2282c4a71747fbd13e92f80e3f117c2583e8"
+        "representation_code_sha": "bf787e70837dbfa9217299d16aed55fa98078d93",
+        "target_checkpoint": "evidence-round:1:ddce16da9b615d5c2a6741191feb3ac4910776b7cc72de926610b281dac99262:evidence:PILOT-Q05-2026",
+        "target_evidence_hash": "e47e55e2c0e282b853e30a2437ef2f8ff8ff1a0ce5bec217742aabba24c04e9d",
+        "tier_reclassifications": {
+          "S1": {
+            "basis": "Autohome exact-trim structured configuration database; explicitly T2 under Research Skill section 6. Page identity and literal inline configuration verified.",
+            "from": "T3",
+            "publisher_verified": true,
+            "to": "T2"
+          },
+          "S3": {
+            "basis": "Baidu YooJia structured exact-trim model listing, with model-year/trim/CLTC and listing status observed in archived page; treated as structured database T2, never OEM/official T1.",
+            "from": "T3",
+            "publisher_verified": true,
+            "to": "T2"
+          }
+        }
       },
       {
         "article_id": "PILOT-REEFER-GUIDE",
@@ -112,56 +126,55 @@
           "7e750609452b0d986ccd97dcbb51e7d8af89b87cc43f97304679fcca844ba30e",
           "65e2a25add7fd6fef37e3b1913d84d3373638c479b62038466d392d76dc7dd39"
         ],
-        "representation_code_sha": "ac1303e64dc595a35d8c978b9792e51cd1443ff9",
-        "target_checkpoint": "evidence-round:1:dab41efdd1adf78abfa227f506a0569d8b71e96c8c43bfa8b5d34aa7ce635e93:evidence:PILOT-REEFER-GUIDE",
-        "target_evidence_hash": "0e5f62e2d0463408d1b2c53aa8f66b8c299ac9b80ade75ebd8193ce3db4160ea"
+        "representation_code_sha": "bf787e70837dbfa9217299d16aed55fa98078d93",
+        "target_checkpoint": "evidence-round:1:ddce16da9b615d5c2a6741191feb3ac4910776b7cc72de926610b281dac99262:evidence:PILOT-REEFER-GUIDE",
+        "target_evidence_hash": "6bd1dd70ce1383df24ed3c0e9f072f094f3dfeadbff8b3af5094477172b9715b",
+        "tier_reclassifications": {}
       }
     ]
   },
   "executed_workflows": {
     "cloud-pilot-manual.yml": {
-      "content": "name: AutoBridge multilingual API pilot\non:\n  workflow_dispatch:\n    inputs:\n      mode:\n        description: Offline inspection or separately approved real execution\n        type: choice\n        options: [preflight, account-check, audit, execute]\n        default: preflight\npermissions:\n  contents: read\nconcurrency:\n  group: autobridge-entire-real-pilot-program\n  cancel-in-progress: false\njobs:\n  trusted:\n    permissions:\n      contents: write\n      pull-requests: write\n    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@a418353233e0a66a3385897a8845857fc09d2d26\n    with:\n      mode: ${{ inputs.mode }}\n    secrets:\n      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n      AUTOBRIDGE_CONTROL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n",
-      "content_hash": "a296c4f315f397c6436d330e4c2abf45e11a8926286fba1a5e40589e30876f4e",
-      "revision": "23de2b7ddab0af59f820d77d433e5c6e6d9a66aa"
+      "content": "name: AutoBridge multilingual API pilot\non:\n  workflow_dispatch:\n    inputs:\n      mode:\n        description: Offline inspection or separately approved real execution\n        type: choice\n        options: [preflight, account-check, audit, execute]\n        default: preflight\npermissions:\n  contents: read\nconcurrency:\n  group: autobridge-entire-real-pilot-program\n  cancel-in-progress: false\njobs:\n  trusted:\n    permissions:\n      contents: write\n      pull-requests: write\n    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@b3f5a6cef20b8dc235f001af306e635f1eca0fdf\n    with:\n      mode: ${{ inputs.mode }}\n    secrets:\n      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n      AUTOBRIDGE_CONTROL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n",
+      "content_hash": "3ee6dc05e475c17c9f681a4b2d6e59b355276c55ba3520e006aa2dfa5cf3b90a",
+      "revision": "89344adaa51e59e77b5ba3d33a60f48921946edc"
     },
     "cloud-pilot-trusted.yml": {
-      "content": "name: AutoBridge pinned protected runtime\non:\n  workflow_call:\n    inputs:\n      mode:\n        type: string\n        required: true\n    secrets:\n      OPENAI_API_KEY:\n        required: true\n      AUTOBRIDGE_CONTROL_COMMIT:\n        required: true\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256:\n        required: true\npermissions:\n  contents: read\njobs:\n  inspect:\n    if: inputs.mode == 'preflight'\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA || github.sha }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - run: python3 -m cloud_pilot.multilingual preflight\n  account-check:\n    if: >-\n      inputs.mode == 'account-check' &&\n      vars.AUTOBRIDGE_ACCOUNT_CHECK_ENABLED == 'true' &&\n      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Inspect only the two configured model metadata endpoints\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          AUTOBRIDGE_ACCOUNT_CHECK_APPROVED: 'true'\n        run: python3 -m cloud_pilot.multilingual account-check\n  execute:\n    if: >-\n      (inputs.mode == 'execute' || inputs.mode == 'audit') &&\n      vars.AUTOBRIDGE_LIVE_ENABLED == 'true' &&\n      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 180\n    permissions:\n      contents: write\n      pull-requests: write\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Fetch reviewed control documents from a separate immutable commit\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_APPROVAL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n        run: python3 -m cloud_pilot.multilingual.control\n      - name: Validate exact run and workflow lease before exposing the project key\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n        run: >-\n          python3 -m cloud_pilot.multilingual preauthorize\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n      - name: Execute approved phase with the existing whole-program budget\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n          APPROVED_RUN_MODE: ${{ inputs.mode }}\n        run: >-\n          python3 -m cloud_pilot.multilingual \"$APPROVED_RUN_MODE\"\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n",
-      "content_hash": "38daf4cb093bd6467354f351e4ae32c35c30468e74ee10b92a04ff4057cd2faa",
-      "revision": "a418353233e0a66a3385897a8845857fc09d2d26"
+      "content": "name: AutoBridge pinned protected runtime\non:\n  workflow_call:\n    inputs:\n      mode:\n        type: string\n        required: true\n    secrets:\n      OPENAI_API_KEY:\n        required: true\n      AUTOBRIDGE_CONTROL_COMMIT:\n        required: true\n      AUTOBRIDGE_LIVE_APPROVAL_SHA256:\n        required: true\npermissions:\n  contents: read\njobs:\n  inspect:\n    if: inputs.mode == 'preflight'\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA || github.sha }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - run: python3 -m cloud_pilot.multilingual preflight\n  account-check:\n    # Availability is inspected inside the code/lease-preauthorized execute path.\n    # Disable the legacy standalone key-bearing path permanently.\n    if: ${{ false }}\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Inspect only the two configured model metadata endpoints\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          AUTOBRIDGE_ACCOUNT_CHECK_APPROVED: 'true'\n        run: python3 -m cloud_pilot.multilingual account-check\n  execute:\n    if: >-\n      (inputs.mode == 'execute' || inputs.mode == 'audit') &&\n      vars.AUTOBRIDGE_LIVE_ENABLED == 'true' &&\n      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'\n    environment: autobridge-pilot\n    runs-on: ubuntu-latest\n    timeout-minutes: 180\n    permissions:\n      contents: write\n      pull-requests: write\n    steps:\n      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262\n        with:\n          ref: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n          persist-credentials: false\n          fetch-depth: 0\n      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065\n        with:\n          python-version: '3.11'\n      - name: Fetch reviewed control documents from a separate immutable commit\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_APPROVAL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}\n          AUTOBRIDGE_APPROVED_CODE_SHA: ${{ vars.AUTOBRIDGE_APPROVED_CODE_SHA }}\n        run: python3 -m cloud_pilot.multilingual.control\n      - name: Validate exact run and workflow lease before exposing the project key\n        env:\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n        run: >-\n          python3 -m cloud_pilot.multilingual preauthorize\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n      - name: Execute approved phase with the existing whole-program budget\n        env:\n          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\n          AUTOBRIDGE_GITHUB_TOKEN: ${{ github.token }}\n          AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}\n          APPROVED_RUN_MODE: ${{ inputs.mode }}\n        run: >-\n          python3 -m cloud_pilot.multilingual \"$APPROVED_RUN_MODE\"\n          --plan \"$RUNNER_TEMP/autobridge-approved/approved-plan.json\"\n          --prices \"$RUNNER_TEMP/autobridge-approved/approved-prices.json\"\n          --permit \"$RUNNER_TEMP/autobridge-approved/approved-permit.json\"\n",
+      "content_hash": "573f4d3872427edb6a041421cb11115ca61f53ceae08a50c9f22797a6ea78823",
+      "revision": "b3f5a6cef20b8dc235f001af306e635f1eca0fdf"
     }
   },
   "human_reviewed": false,
-  "intake_hash": "dfd3a56d3cfff2dfcaf0808ca5d4d7b1673b3842df0fc90fddafec078c271077",
+  "intake_hash": "d7e9f8ff5f2e97a56d563a28b1b6734f779193a2f5e3c26cc4c334b18bccb369",
   "publish_approved": false,
   "reused_topic_receipt": null,
   "status": "CODE_REVIEW_BLOCKED",
   "topic_review": {
     "content": {
       "additional_paths": [
-        "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md",
-        "batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md"
+        "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md"
       ],
       "articles": [
         {
           "article_id": "PILOT-Q05-2026",
-          "decision": "NEEDS_MORE_EVIDENCE",
+          "decision": "DISTINCT",
           "nearest_paths": [
             "daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md",
-            "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md",
-            "batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md"
+            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md"
           ],
-          "reason": "The supplied full texts show the reserve is a 2024 China-market PHEV reference, while this proposal concerns a 2026 BEV and a specific shortlist decision; that is a meaningful year/powertrain distinction, not proof that all Q05 pages are unique. The RHD guide only mentions NEVO Q05 as a reported Thailand RHD prospect and focuses on factory-RHD verification, not evaluating this exact BEV as an urban sourcing candidate. However, the indexed Southeast Asia SUV shortlist and new-versus-used EV guide may address overlapping recommendation or buying decisions, and their full texts are needed to confirm whether Q05 is covered or the intent is already served."
+          "reason": "The reserve is an unpublished China-market 2024 PHEV fact sheet; the proposed topic concerns evaluating identified 2026 BEV stock, including availability and stock checks. The RHD guide mentions NEVO Q05 only as a Thailand RHD prospect, not as a China-market BEV buying reference. These are different buyer decisions, but the 2026 BEV identity and its relationship to the older PHEV are not established by the cited coverage; do not treat the shared Q05 name as proof that the topics are either identical or unrelated."
         },
         {
           "article_id": "PILOT-REEFER-GUIDE",
-          "decision": "DISTINCT",
+          "decision": "NEEDS_MORE_EVIDENCE",
           "nearest_paths": [
+            "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md",
             "daily/2026-09-02/articles/vehicle/AB-260902-V10_Foton_Aumark_Refrigerated_Truck.md",
             "daily/2026-09-04/articles/vehicle/AB-260904-V10_Dongfeng_TianjinKR.md",
             "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md"
           ],
-          "reason": "The Aumark and Tianjin KR pages focus on vehicle configuration, chassis/upfit separation and buyer verification; the fleet guide discusses general tender-grade acceptance criteria. This proposal instead asks buyers and suppliers to agree on a pre-shipment acceptance demonstration and its evidence: VIN/equipment identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and responsibility boundaries. That is a distinct acceptance decision, provided the article stays focused on test protocol, records and sign-off rather than repeating model specifications or general reefer shopping advice."
+          "reason": "The proposed focus on pre-shipment acceptance evidence for a completed reefer is distinct in principle from the Aumark and Tianjin KR pages’ model/configuration and upfit-selection guidance, and from the fleet guide’s general tender-acceptance discussion. However, the indexed PDI and handover guide is the closest likely overlap, and its full text was not supplied. Read it before deciding whether this topic adds a distinct acceptance decision or duplicates existing PDI guidance."
         }
       ],
       "decision": "NEEDS_MORE_EVIDENCE",
@@ -169,6 +182,6 @@
       "publish_approved": false
     },
     "model": "gpt-6-luna",
-    "response_id": "resp_02c32733b0a2772a016ae95c4e0ee487d191c1fd1ced189647"
+    "response_id": "resp_00be06ae07043e97016ae95fe5516487d196d6378502508edc"
   }
 }

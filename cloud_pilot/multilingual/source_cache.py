@@ -54,40 +54,40 @@ def restore(permit,plan,journal,scoped,github,code_sha):
         require(old and digest(old)==d['origin_evidence_hash'],'SOURCE_TRANSFER_ORIGIN_HASH')
         cached=scoped.get_checkpoint(key)
         prior=scoped.get_checkpoint('source-transfer:'+aid)
-        if cached is None or prior is None:
-            require(len(old)==len(topic['sources']),'SOURCE_TRANSFER_COUNT')
-            source={s['source_id']:s for s in topic['sources']};out=[]
-            require({e['source_id'] for e in old}==set(source),'SOURCE_TRANSFER_IDS')
-            for e in old:
-                s=source[e['source_id']]
-                require(all(e.get(k)==s[k] for k in ('publisher','parent_org','scope'))
-                        and e.get('requested_url')==s['url'],'SOURCE_TRANSFER_DECLARATION_DRIFT')
-                if e.get('tier')!=s['tier']:
-                    c=d.get('source_tier_reclassifications',{}).get(s['source_id'],{})
-                    require(c.get('from')==e.get('tier')=='T3' and c.get('to')==s['tier']=='T2'
-                            and c.get('publisher_verified') is True and c.get('basis')
-                            and re.fullmatch(r'https://(?:car\.autohome\.com\.cn/config/spec/\d+\.html|www\.yoojia\.com/m-\d+)',s['url']),
-                            'SOURCE_TIER_RECLASSIFICATION_UNPROVEN')
-                raw_hash=e.get('raw_sha256','');require(re.fullmatch('[0-9a-f]{64}',raw_hash),'SOURCE_TRANSFER_RAW_HASH')
-                path='cloud_pilot/live_artifacts/sources/'+raw_hash+'.bin'
-                require(path==e.get('raw_artifact_path'),'SOURCE_TRANSFER_RAW_PATH')
-                status,obj=github.api.request('GET',github.prefix+'/contents/'+path+'?ref='+quote(BRANCH,safe=''))
-                require(status==200 and obj.get('encoding')=='base64' and obj.get('sha')==e.get('raw_artifact_blob'),
-                        'SOURCE_TRANSFER_RAW_BLOB')
-                status,blob=github.api.request('GET',github.prefix+'/git/blobs/'+e['raw_artifact_blob'])
-                require(status==200 and blob.get('encoding')=='base64' and blob.get('sha')==e['raw_artifact_blob'],
-                        'SOURCE_TRANSFER_GIT_BLOB')
-                raw=base64.b64decode(blob['content'])
-                require(len(raw)<=MAX_BYTES and hashlib.sha256(raw).hexdigest()==raw_hash,'SOURCE_TRANSFER_RAW_CONTENT')
-                content_type=e.get('content_type') or archive_content_type(raw,e)
-                text=extract(raw,content_type,s)
-                new={k:v for k,v in e.items() if k!='evidence_hash'}
-                new.update(text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),
-                           tier=s['tier'],content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
-                new['evidence_hash']=digest(new);out.append(new)
-            validate(out,topic)
-            require(cached is None or cached==out,'SOURCE_TRANSFER_RECONSTRUCTED_TARGET_DRIFT')
-            scoped.checkpoint(key,out);cached=out
+        require(len(old)==len(topic['sources']),'SOURCE_TRANSFER_COUNT')
+        source={s['source_id']:s for s in topic['sources']};out=[]
+        require({e['source_id'] for e in old}==set(source),'SOURCE_TRANSFER_IDS')
+        for e in old:
+            s=source[e['source_id']]
+            require(all(e.get(k)==s[k] for k in ('publisher','parent_org','scope'))
+                    and e.get('requested_url')==s['url'],'SOURCE_TRANSFER_DECLARATION_DRIFT')
+            if e.get('tier')!=s['tier']:
+                c=d.get('source_tier_reclassifications',{}).get(s['source_id'],{})
+                require(c.get('from')==e.get('tier')=='T3' and c.get('to')==s['tier']=='T2'
+                        and c.get('publisher_verified') is True and c.get('basis')
+                        and re.fullmatch(r'https://(?:car\.autohome\.com\.cn/config/spec/\d+\.html|www\.yoojia\.com/m-\d+)',s['url']),
+                        'SOURCE_TIER_RECLASSIFICATION_UNPROVEN')
+            raw_hash=e.get('raw_sha256','');require(re.fullmatch('[0-9a-f]{64}',raw_hash),'SOURCE_TRANSFER_RAW_HASH')
+            path='cloud_pilot/live_artifacts/sources/'+raw_hash+'.bin'
+            require(path==e.get('raw_artifact_path'),'SOURCE_TRANSFER_RAW_PATH')
+            status,obj=github.api.request('GET',github.prefix+'/contents/'+path+'?ref='+quote(BRANCH,safe=''))
+            require(status==200 and obj.get('encoding')=='base64' and obj.get('sha')==e.get('raw_artifact_blob'),
+                    'SOURCE_TRANSFER_RAW_BLOB')
+            status,blob=github.api.request('GET',github.prefix+'/git/blobs/'+e['raw_artifact_blob'])
+            require(status==200 and blob.get('encoding')=='base64' and blob.get('sha')==e['raw_artifact_blob'],
+                    'SOURCE_TRANSFER_GIT_BLOB')
+            raw=base64.b64decode(blob['content'])
+            require(len(raw)<=MAX_BYTES and hashlib.sha256(raw).hexdigest()==raw_hash,'SOURCE_TRANSFER_RAW_CONTENT')
+            content_type=e.get('content_type') or archive_content_type(raw,e)
+            text=extract(raw,content_type,s)
+            new={k:v for k,v in e.items() if k!='evidence_hash'}
+            new.update(text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),
+                       tier=s['tier'],content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
+            new['evidence_hash']=digest(new);out.append(new)
+        validate(out,topic)
+        require(d.get('expected_target_checkpoint')==scoped.prefix+key and digest(out)==d.get('expected_target_evidence_hash'),'SOURCE_TRANSFER_EXPECTED_TARGET_DRIFT')
+        require(cached is None or cached==out,'SOURCE_TRANSFER_RECONSTRUCTED_TARGET_DRIFT')
+        scoped.checkpoint(key,out);cached=out
         validate(cached,topic)
         origins={e['source_id']:e for e in old}
         require(all(e['raw_sha256']==origins[e['source_id']]['raw_sha256']

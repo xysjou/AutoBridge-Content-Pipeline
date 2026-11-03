@@ -49,7 +49,7 @@ def research_request(topic,evidence):
             human_reviewed=False,publish_approved=False),
         instruction='Quotes must be literal substrings of evidence text. T1+MATCHED alone may be VERIFIED. Apply all canonical rules, including current standard, importer/vehicle scope, exception and currentness rules. Core unknowns must stop writing.'))
 
-def check_research(result,topic,evidence):
+def check_research(result,topic,evidence,expected_version=1):
     from ..multilingual.startup import skill_provenance
     r=result['content']
     from ..multilingual.research_contract import applies,validate as validate_handoff
@@ -62,7 +62,8 @@ def check_research(result,topic,evidence):
     source={e['source_id']:e for e in evidence}
     checks={c['source_id']:c for c in r['source_checks']}
     require(checks.keys()==source.keys(),'SOURCE_CHECK_COVERAGE')
-    require(all(c['publisher_match'] is True and c['scope_match'] is True for c in checks.values()),'SOURCE_IDENTITY_OR_SCOPE_FAIL')
+    require(all(c['publisher_match'] is True and type(c['scope_match']) is bool
+                and (applies(topic) or c['scope_match'] is True) for c in checks.values()),'SOURCE_IDENTITY_OR_SCOPE_FAIL')
     facts={f['id']:f for f in r['facts']}
     require(len(facts)==len(r['facts']),'FACT_ID_DUPLICATE')
     allowed=set(r['allowed_facts']);blocked=set(r['blocked_facts'])
@@ -79,7 +80,8 @@ def check_research(result,topic,evidence):
             require(q['quote'] in e['text'],'QUOTE_NOT_IN_RETRIEVED_SOURCE')
             require(all(f['scope'].get(k)==e['scope'].get(k) for k in SCOPE),'FACT_SCOPE_DRIFT')
             used.add(q['source_id'])
-        if f['confidence']=='VERIFIED':require(any(source[s]['tier']=='T1' for s in f['source_ids']),'T1_REQUIRED_FOR_VERIFIED')
+        if f['confidence']=='VERIFIED':require(any(source[s]['tier']=='T1' and
+            (not applies(topic) or checks[s].get('scope_status')=='MATCHED') for s in f['source_ids']),'T1_REQUIRED_FOR_VERIFIED_MATCHED_SCOPE')
         if f['confidence']=='CROSS_CHECKED':require(len({source[s]['parent_org'] for s in f['source_ids']})>=2,'CROSS_CHECK_INDEPENDENCE')
         if f['confidence']=='TIME_SENSITIVE':require(f.get('current_applicability_verified') is True,'CURRENTNESS_UNVERIFIED')
         if f.get('kind')=='standard' or f.get('standard_related') is True:
@@ -87,8 +89,8 @@ def check_research(result,topic,evidence):
             standard_gate(f,source)
     require(used==source.keys(),'SOURCE_PADDING_OR_INCOMPLETE_BINDING')
     if r['status']=='RESEARCH_CONDITIONAL':require(blocked,'CONDITIONAL_BLOCKLIST_REQUIRED')
-    validate_handoff(r,topic,evidence)
-    packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=topic['article_id'],version=1,
+    validate_handoff(r,topic,evidence,expected_version)
+    packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=topic['article_id'],version=expected_version,
         baseline_sha=BASELINE,rules=rules(),researcher_id='research:'+result['response_id'],
         evidence_hash=digest(evidence),evidence=evidence,fact_sheet=r,topic=topic,
         human_reviewed=False,publish_approved=False)

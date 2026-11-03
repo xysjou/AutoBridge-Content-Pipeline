@@ -64,12 +64,14 @@ def dedup_request(plan,root=ROOT):
     # addition to direct Q05 and refrigerated-truck matches.
     requested_context={
       'batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md',
-      'batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md'}
+      'batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md',
+      'daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md'}
     for d in docs:
         t=d['text'].lower()
         q=bool(re.search(r'qiyuan\s*q05|nevo\s*q05|启源\s*q05',t))
         cold=bool(re.search(r'refrigerat|reefer|冷藏|cold[- ]chain',t))
-        if q or cold or d['path'] in requested_context:
+        nearby_guide='/guides/' in d['path'] and bool(re.search(r'pdi|pre.?shipment|inspection|handover|quality|contract|commercial.fleet',d['path'],re.I))
+        if q or cold or d['path'] in requested_context or nearby_guide:
             related.append(dict(d,match=('Q05' if q else '')+(' cold-chain' if cold else '')+
                                 (' independent-review-requested buying intent' if d['path'] in requested_context else '')))
     require(requested_context<={d['path'] for d in related},'REQUESTED_DEDUP_CONTEXT_MISSING')
@@ -122,6 +124,8 @@ def code_request(plan,sha,root=ROOT,workflow_evidence=None,scope_attestation=Non
         instruction='You are an independent reviewer, not the author. Scope is the active multilingual entry point and its pinned reusable workflow for owner-controlled, manual draft generation; legacy inert/mock entry points are context, not newly activated services. The root of trust is the protected operator permit fingerprint and environment reviewer, not an adversarial GitHub owner or provider administrator. Within that boundary, audit runtime/secret boundaries, immutable '
             'code and control binding, whole-program USD3 cap, exact response identity and usage, no duplicate '
             'generation on resume, independent locale review, SSRF, source failures, and truthful delivery status. '
+            'Trace the combined proposal-validation and mandatory independent fact-review path: lexical checks are early rejection, not semantic entailment. The independent reviewer must classify EVERY allowed fact by meaning regardless of Research labels; its per-fact classifications enforce core-spec tiers and vehicle applicability, same-vehicle identity context, and exclusion of all regulatory obligations from this two-topic pilot. No Writing call may precede that accepted review. '
+            'Research begins with a shared durable RESEARCH_LOCK and monotonic version, invalidates older writing immediately, and releases only after accepted research; English and localization re-read the shared head before completion. Source transfers must be independently reconstructed from all raw blobs and match the operator-approved target digest even when cached. '
             'Return BLOCK for a correctness or safety problem that prevents a real English pilot. '
             'Known disclosed limitations (manual source intake, no website deployment, missing image rights, '
             'conservative cap potentially stopping early) are not proof of implementation success or reason '

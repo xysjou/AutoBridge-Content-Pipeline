@@ -44,6 +44,11 @@ class Tests(unittest.TestCase):
         class GH:prefix='/repos/synthetic/repo';api=API()
         j=ResponseJournal(ArtifactStore());j.checkpoint('origin',old);scoped=EpochJournal(j,1,{'code':'new'})
         permit=dict(source_evidence_transfers=[dict(article_id=topic['article_id'],origin_checkpoint='origin',origin_evidence_hash=digest(old),operator_verified=True)])
+        out=[]
+        for e in old:
+            new=copy.deepcopy(e);new.update(content_type='text/html;charset=utf-8',representation_code_sha='new-code',archive_origin_checkpoint='origin')
+            new['evidence_hash']=digest(new);out.append(new)
+        permit['source_evidence_transfers'][0].update(expected_target_checkpoint=scoped.prefix+'evidence:'+topic['article_id'],expected_target_evidence_hash=digest(out))
         return topic,old,j,scoped,GH(),permit
 
     def test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations(self):
@@ -67,7 +72,18 @@ class Tests(unittest.TestCase):
         different=copy.deepcopy(old);different[0]['raw_sha256']='a'*64
         j.checkpoint('another-origin',different)
         d=p['source_evidence_transfers'][0];d.update(origin_checkpoint='another-origin',origin_evidence_hash=digest(different))
-        with self.assertRaisesRegex(GateError,'CACHED_ORIGIN_DRIFT|PROOF_DRIFT'):
+        with self.assertRaisesRegex(GateError,'RAW_|CACHED_ORIGIN_DRIFT|PROOF_DRIFT|EXPECTED_TARGET_DRIFT'):
+            restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+
+    def test_self_consistent_forged_cached_text_is_reconstructed_from_raw(self):
+        topic,old,j,scoped,gh,p=self.transfer_fixture()
+        restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+        cached=scoped.get_checkpoint('evidence:'+topic['article_id']);cached[0]['text']='forged text'
+        cached[0]['text_sha256']=hashlib.sha256(b'forged text').hexdigest()
+        cached[0]['evidence_hash']=digest({k:v for k,v in cached[0].items() if k!='evidence_hash'})
+        real_get=scoped.get_checkpoint
+        scoped.get_checkpoint=lambda key:cached if key=='evidence:'+topic['article_id'] else real_get(key)
+        with self.assertRaisesRegex(GateError,'RECONSTRUCTED_TARGET_DRIFT'):
             restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
 
     def test_archive_charset_requires_exact_original_text_not_conflicting_meta(self):

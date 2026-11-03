@@ -10,13 +10,14 @@ from cloud_pilot.multilingual.startup import review_context
 
 def active_case(kind):
     topic=plan()['articles'][0];topic['content_type']=kind;ev=evidence(topic)
+    topic['source_vehicle_identity']=dict(model='Testmodel',model_year='2026',trim='TEST')
     response=research_result(topic,ev);r=response['content']
     for f in r['facts']:
         f.update(kind='external_fact',standard_related=False,standard_assessment='NOT_REGULATORY',quantitative=True,value='synthetic ID',unit='test identifier',
                  checked_date='2026-11-03',buyer_applicability='Synthetic tests only')
     values=dict(brand='Testbrand',model='Testmodel',model_year='2026',generation='TEST',body_style='SUV',powertrain='TEST',drivetrain='2WD',original_sales_market='SYNTHETIC-ALPHA',production_boundary='Testproduction',trim_variant='TEST')
     if kind=='VEHICLE_RECOMMENDATION':
-        extra=' '.join(k+': '+v+';' for k,v in values.items());ev[0]['text']+=' '+extra
+        extra=' '.join(k+': '+v+';' for k,v in values.items());ev[0]['text']+=' '+extra+' Testmodel 2026 TEST exact vehicle reference heading'
         for k,v in values.items():
             f=copy.deepcopy(r['facts'][0]);f.update(id='I_'+k,identity_field=k,statement=k+': '+v,
                 quotes=[dict(source_id='S0',quote=k+': '+v+';')],value=v,unit='identity reference')
@@ -35,6 +36,57 @@ def active_case(kind):
     return topic,ev,response
 
 class Tests(unittest.TestCase):
+    def acceptance(self,packet):
+        from cloud_pilot.multilingual.research_contract import CHECKS
+        rows=[]
+        for f in packet['fact_sheet']['facts']:
+            if f['id'] not in packet['fact_sheet']['allowed_facts']:continue
+            row=dict(fact_id=f['id'],role='CORE_VEHICLE_SPEC' if f.get('identity_field') else 'BACKGROUND',
+                     source_ids=f['source_ids'],entailed=True,exact_vehicle_applicability=True,reason='Synthetic independently assessed fact',identity_contexts=[])
+            if f.get('identity_field'):
+                row['identity_contexts']=[dict(source_id=q['source_id'],field_quote=q['quote'],vehicle_context_quote='Testmodel 2026 TEST exact vehicle reference heading',linked_same_vehicle=True) for q in f['quotes']]
+            rows.append(row)
+        return dict(response_id='independent',content=dict(research_hash=packet['research_hash'],decision='ACCEPT',checks={k:True for k in CHECKS},findings=[],fact_assessments=rows,human_reviewed=False,publish_approved=False))
+
+    def test_independent_classification_catches_unlabelled_core_and_regulatory_claims(self):
+        from cloud_pilot.multilingual.research_contract import accept
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');p=check_research(r,topic,ev);review=self.acceptance(p);accept(review,p)
+        p['fact_sheet']['facts'][0].update(statement='A permit is compulsory to import this truck',kind='editorial_method',standard_assessment='NOT_REGULATORY')
+        review['content']['fact_assessments'][0]['role']='REGULATORY_OR_STANDARD'
+        with self.assertRaisesRegex(GateError,'REGULATORY_OBLIGATION_OUTSIDE'):accept(review,p)
+        review=self.acceptance(p);review['content']['fact_assessments'][0]['role']='CORE_VEHICLE_SPEC'
+        p['evidence'][0]['tier']='T3'
+        with self.assertRaisesRegex(GateError,'CORE_SPEC_TIER_OR_SCOPE'):accept(review,p)
+
+    def test_independent_identity_context_excludes_another_model(self):
+        from cloud_pilot.multilingual.research_contract import accept
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');p=check_research(r,topic,ev);review=self.acceptance(p)
+        identity=next(x for x in review['content']['fact_assessments'] if x['identity_contexts'])
+        identity['identity_contexts'][0]['vehicle_context_quote']='Different model 2024 BASE reference heading'
+        with self.assertRaisesRegex(GateError,'EXACT_VEHICLE'):accept(review,p)
+
+    def test_scope_boolean_cannot_hide_context_only_primary(self):
+        from cloud_pilot.multilingual.research_contract import validate
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');c=r['content']['source_checks'][0]
+        c.update(scope_status='CONTEXT_ONLY',official_source=False,scope_match=True)
+        with self.assertRaisesRegex(GateError,'SCOPE_FIELDS_CONTRADICT'):validate(r['content'],topic,ev)
+        c['scope_match']=False
+        with self.assertRaisesRegex(GateError,'MATCHED_PRIMARY'):validate(r['content'],topic,ev)
+
+    def test_real_second_research_epoch_locks_old_writer_before_replacement(self):
+        from cloud_pilot.multilingual.editorial_state import EditorialState
+        from cloud_pilot.multilingual.tests.test_multilingual import ArtifactStore
+        from cloud_pilot.multilingual.accounting import ResponseJournal
+        from cloud_pilot.multilingual.startup import EpochJournal
+        base=ResponseJournal(ArtifactStore());first=EditorialState(EpochJournal(base,1,{'code':'first'}));second=EditorialState(EpochJournal(base,2,{'code':'second'}))
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');aid=topic['article_id']
+        self.assertEqual(first.begin(aid,'epoch-one')['version'],1);old=check_research(r,topic,ev);first.lock(old)
+        self.assertEqual(second.begin(aid,'epoch-two')['version'],2)
+        with self.assertRaisesRegex(GateError,'RESEARCH_LOCK_UPDATE_REQUIRED'):first.check(old)
+        r['content']['handoff'].update(fact_sheet_version=2,source_log_version=2)
+        new=check_research(r,topic,ev,2);second.lock(new)
+        with self.assertRaisesRegex(GateError,'RESEARCH_CHANGED_AFTER_WRITING_STARTED'):first.check(old)
+        second.check(new)
     def test_identity_rejects_unrelated_quote_and_t3_core_spec(self):
         topic,ev,r=active_case('VEHICLE_RECOMMENDATION')
         f=r['content']['facts'][-1];f['quotes'][0]['quote']='synthetic public evidence'

@@ -11,8 +11,12 @@ test_forbidden_handoff_fact_stops_both_active_writing_transitions (test_editoria
 test_identity_rejects_generic_fact_and_family_or_other_trim_scope (test_editorial_controls.Tests.test_identity_rejects_generic_fact_and_family_or_other_trim_scope) ... ok
 test_identity_rejects_unrelated_quote_and_t3_core_spec (test_editorial_controls.Tests.test_identity_rejects_unrelated_quote_and_t3_core_spec) ... ok
 test_identity_requires_allowed_direct_fact_and_primary_authority_for_verified (test_editorial_controls.Tests.test_identity_requires_allowed_direct_fact_and_primary_authority_for_verified) ... ok
+test_independent_classification_catches_unlabelled_core_and_regulatory_claims (test_editorial_controls.Tests.test_independent_classification_catches_unlabelled_core_and_regulatory_claims) ... ok
+test_independent_identity_context_excludes_another_model (test_editorial_controls.Tests.test_independent_identity_context_excludes_another_model) ... ok
 test_locked_or_updated_handoff_cannot_reach_writing (test_editorial_controls.Tests.test_locked_or_updated_handoff_cannot_reach_writing) ... ok
+test_real_second_research_epoch_locks_old_writer_before_replacement (test_editorial_controls.Tests.test_real_second_research_epoch_locks_old_writer_before_replacement) ... ok
 test_regulatory_classification_cannot_hide_in_editorial_method (test_editorial_controls.Tests.test_regulatory_classification_cannot_hide_in_editorial_method) ... ok
+test_scope_boolean_cannot_hide_context_only_primary (test_editorial_controls.Tests.test_scope_boolean_cannot_hide_context_only_primary) ... ok
 test_unclassified_handoff_is_not_silently_omitted (test_editorial_controls.Tests.test_unclassified_handoff_is_not_silently_omitted) ... ok
 test_writer_must_assess_skill_impact_and_every_handoff (test_editorial_controls.Tests.test_writer_must_assess_skill_impact_and_every_handoff) ... ok
 test_declared_chinese_encoding_and_unknown_encoding (test_multilingual.Tests.test_declared_chinese_encoding_and_unknown_encoding) ... ok
@@ -51,8 +55,9 @@ test_changed_raw_archive_blocks_transfer_before_any_research (test_source_cache.
 test_existing_non_utf8_archive_uses_binary_git_blob (test_source_cache.Tests.test_existing_non_utf8_archive_uses_binary_git_blob) ... ok
 test_literal_inline_spec_is_selected_without_decoding_or_executing_scripts (test_source_cache.Tests.test_literal_inline_spec_is_selected_without_decoding_or_executing_scripts) ... ok
 test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (test_source_cache.Tests.test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations) ... ok
+test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 53 tests in 12.503s
+Ran 58 tests in 12.737s
 
 OK

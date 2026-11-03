@@ -55,6 +55,7 @@ class Engine:
                     from ..multilingual.editorial_state import EditorialState
                     EditorialState(self.journal).check(final['research'])
                 current=self.github.deliver_candidate(final)
+                if applies(topic):EditorialState(self.journal).check(final['research'])
                 require(current==existing,'CACHED_DELIVERY_CHANGED')
                 deliveries.append(existing)
                 if final:prior.append(final['article']['body'])
@@ -64,8 +65,15 @@ class Engine:
                 self.journal.halt(aid,'source',1,'SOURCE_FAILED_NO_WRITING');raise
             research=self.cached('research:'+aid)
             if research is None:
-                response=self.models.call(aid+':research','research',research_request(topic,evidence))
-                try:research=check_research(response,topic,evidence)
+                from ..multilingual.research_contract import applies
+                expected_version=1;data=research_request(topic,evidence)
+                if applies(topic):
+                    from ..multilingual.editorial_state import EditorialState
+                    started=EditorialState(self.journal).begin(aid,getattr(self.journal,'prefix','')+':'+aid)
+                    expected_version=started['version']
+                    data['instruction']+=' Set fact_sheet_version and source_log_version to '+str(expected_version)+'. This durable current Research version overrides the initial output-schema example.'
+                response=self.models.call(aid+':research','research',data)
+                try:research=check_research(response,topic,evidence,expected_version)
                 except Exception:
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
                 self.journal.checkpoint('research:'+aid,research)
@@ -86,7 +94,7 @@ class Engine:
                 if applies(topic):
                     from ..multilingual.research_contract import validate
                     editorial.check(research)
-                    validate(fresh['fact_sheet'],topic,evidence)
+                    validate(fresh['fact_sheet'],topic,evidence,fresh['version'])
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
                 if article is None:
@@ -113,6 +121,7 @@ class Engine:
                     try:delivery=self.github.deliver_candidate(package)
                     except Exception:
                         self.journal.halt(aid,'delivery',version,'DRAFT_PR_DELIVERY_PENDING');raise
+                    if applies(topic):editorial.check(research)
                     self.journal.checkpoint('delivery:'+aid,delivery)
                     deliveries.append(delivery);prior.append(article['body']);break
                 if verdict in ('NEEDS_RESEARCH','REJECT'):

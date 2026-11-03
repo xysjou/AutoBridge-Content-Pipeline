@@ -215,7 +215,10 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
                     locale=locale,public=article['public'],image_complete=False,production_url_approved=False),ensure_ascii=False).encode())
             require(len(re.findall(r'^# ',text,re.M))==1,'EXPORT_SINGLE_H1')
             sha=github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,path,text.encode())
+            if applies(topic):EditorialState(journal).check(research)
             files[filename]=dict(path=path,blob_sha=sha,locale=locale,content_hash=article['content_hash'],review_hash=result['review']['review_hash'])
+    for topic in plan['articles']:
+        if applies(topic):EditorialState(journal).check(journal.get_checkpoint('final:'+topic['article_id'])['research'])
     require(len(files)==24 and {v['locale'] for v in files.values()}==set(LOCALES),'INCOMPLETE_24_FILE_BUNDLE')
     report=dict(status='TWENTY_FOUR_TEXT_DRAFTS_REVIEWED',files=files,english_draft_prs=english_deliveries,
         production_complete=False,image_complete=False,live_seo_acceptance=False,
