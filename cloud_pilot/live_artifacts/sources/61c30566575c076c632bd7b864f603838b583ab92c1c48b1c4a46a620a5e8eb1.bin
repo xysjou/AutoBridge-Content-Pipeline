@@ -1,0 +1,3397 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Supra S10 Truck Reefer Technical Specifications</title>
+    <meta name="keywords" content="Diesel,Cold Chain,Carrier Transicold,Truck Refrigeration,Truck Trailer"/>
+    <meta name="description" content="Supra S10 Truck Reefer Technical Specifications"/>
+    
+
+
+
+    <meta name="template" content="pdp-specs---cold-chain-template"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+    
+
+
+<meta name="content-page-ref" content="EwQxOawiSdKiKge5cV5gI1cPlbJbibdAcGiEmzYzLZOfYUD-gYO-byzUfYem-zvBCr_mXmFiSP9m0-2yZ6IovA0vKJa2vJp0z_fX9NCCiuAGcKMRQwA8qTLFIG9_VJ1FF3EW6rXSZdshqq17jOBSfQ"/>
+<script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js"></script>
+<link rel="canonical" href="https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications/"/>
+
+
+
+
+<!-- Social Share meta tags -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:title" content="Supra S10 Truck Reefer Technical Specifications"/>
+<meta name="twitter:title" content="Supra S10 Truck Reefer Technical Specifications"/>
+<meta property="og:description" content="Supra S10 Truck Reefer Technical Specifications"/>
+<meta name="twitter:description" content="Supra S10 Truck Reefer Technical Specifications"/>
+
+    <meta property="og:url" content="https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications.html"/>
+    <meta name="twitter:url" content="https://www.carrier.com/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications.html"/>
+
+
+
+    
+
+  
+    <link rel="stylesheet" href="/etc.clientlibs/carrier/clientlibs/clientlib-base.lc-330ae442a18e0f40df85895c25ace698-lc.min.css" type="text/css">
+
+
+
+
+
+    
+        <script type="text/javascript" src="https://cdn.cookielaw.org/consent/e3936848-a96c-4507-a64b-c729f0df0f5e/OtAutoBlock.js" data-id="e3936848-a96c-4507-a64b-c729f0df0f5e"></script>
+
+        <!-- OneTrust SDK Script -->
+        <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="e3936848-a96c-4507-a64b-c729f0df0f5e"></script>
+        
+    <!-- OneTrust Wrapper Function -->
+    <script type="text/javascript">
+      function OptanonWrapper() {}
+    </script>
+  
+  <!-- Start VWO Async SmartCode -->
+  <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+  <script type='text/javascript' id='vwoCode'>
+    window._vwo_code ||
+    (function () {
+      var w=window,
+              d=document;
+      var account_id=541482,
+              version=2.2,
+              settings_tolerance=2000,
+              hide_element='body',
+              hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+              f=0;
+      /* DO NOT EDIT BELOW THIS LINE */
+      if(f=!1,v=d.querySelector('#vwoCode'),cc={},-1<d.URL.indexOf('__vwo_disable__')||w._vwo_code)return;try{var e=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=e&&'object'==typeof e?e:{}}catch(e){}function r(t){try{return decodeURIComponent(t)}catch(e){return t}}var s=function(){var e={combination:[],combinationChoose:[],split:[],exclude:[],uuid:null,consent:null,optOut:null},t=d.cookie||'';if(!t)return e;for(var n,i,o=/(?:^|;\s*)(?:(_vis_opt_exp_(\d+)_combi=([^;]*))|(_vis_opt_exp_(\d+)_combi_choose=([^;]*))|(_vis_opt_exp_(\d+)_split=([^:;]*))|(_vis_opt_exp_(\d+)_exclude=[^;]*)|(_vis_opt_out=([^;]*))|(_vwo_global_opt_out=[^;]*)|(_vwo_uuid=([^;]*))|(_vwo_consent=([^;]*)))/g;null!==(n=o.exec(t));)try{n[1]?e.combination.push({id:n[2],value:r(n[3])}):n[4]?e.combinationChoose.push({id:n[5],value:r(n[6])}):n[7]?e.split.push({id:n[8],value:r(n[9])}):n[10]?e.exclude.push({id:n[11]}):n[12]?e.optOut=r(n[13]):n[14]?e.optOut=!0:n[15]?e.uuid=r(n[16]):n[17]&&(i=r(n[18]),e.consent=i&&3<=i.length?i.substring(0,3):null)}catch(e){}return e}();function i(){var e=function(){if(w.VWO&&Array.isArray(w.VWO))for(var e=0;e<w.VWO.length;e++){var t=w.VWO[e];if(Array.isArray(t)&&('setVisitorId'===t[0]||'setSessionId'===t[0]))return!0}return!1}(),t='a='+account_id+'&u='+encodeURIComponent(w._vis_opt_url||d.URL)+'&vn='+version+'&ph=1'+('undefined'!=typeof platform?'&p='+platform:'')+'&st='+w.performance.now();e||((n=function(){var e,t=[],n={},i=w.VWO&&w.VWO.appliedCampaigns||{};for(e in i){var o=i[e]&&i[e].v;o&&(t.push(e+'-'+o+'-1'),n[e]=!0)}if(s&&s.combination)for(var r=0;r<s.combination.length;r++){var a=s.combination[r];n[a.id]||t.push(a.id+'-'+a.value)}return t.join('|')}())&&(t+='&c='+n),(n=function(){var e=[],t={};if(s&&s.combinationChoose)for(var n=0;n<s.combinationChoose.length;n++){var i=s.combinationChoose[n];e.push(i.id+'-'+i.value),t[i.id]=!0}if(s&&s.split)for(var o=0;o<s.split.length;o++)t[(i=s.split[o]).id]||e.push(i.id+'-'+i.value);return e.join('|')}())&&(t+='&cc='+n),(n=function(){var e={},t=[];if(w.VWO&&Array.isArray(w.VWO))for(var n=0;n<w.VWO.length;n++){var i=w.VWO[n];if(Array.isArray(i)&&'setVariation'===i[0]&&i[1]&&Array.isArray(i[1]))for(var o=0;o<i[1].length;o++){var r,a=i[1][o];a&&'object'==typeof a&&(r=a.e,a=a.v,r&&a&&(e[r]=a))}}for(r in e)t.push(r+'-'+e[r]);return t.join('|')}())&&(t+='&sv='+n)),s&&s.optOut&&(t+='&o='+s.optOut);var n=function(){var e=[],t={};if(s&&s.exclude)for(var n=0;n<s.exclude.length;n++){var i=s.exclude[n];t[i.id]||(e.push(i.id),t[i.id]=!0)}return e.join('|')}();return n&&(t+='&e='+n),s&&s.uuid&&(t+='&id='+s.uuid),s&&s.consent&&(t+='&consent='+s.consent),w.name&&-1<w.name.indexOf('_vis_preview')&&(t+='&pM=true'),w.VWO&&w.VWO.ed&&(t+='&ed='+w.VWO.ed),t}code={nonce:v&&v.nonce,library_tolerance:function(){return'undefined'!=typeof library_tolerance?library_tolerance:void 0},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return performance.getEntriesByName('first-contentful-paint')[0]?'':'string'==typeof cc.hE?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){var t;f||(f=!0,(t=d.getElementById('_vis_opt_path_hides'))&&t.parentNode.removeChild(t),e&&((new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e))},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript',e.src?t.src=e.src:t.text=e.text,v&&t.setAttribute('nonce',v.nonce),d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){t=t||{};var n=new XMLHttpRequest;n.open('GET',e,!0),n.withCredentials=!t.dSC,n.responseType=t.responseType||'text',n.onload=function(){if(t.onloadCb)return t.onloadCb(n,e);200===n.status?_vwo_code.addScript({text:n.responseText}):_vwo_code.finish('&e=loading_failure:'+e)},n.onerror=function(){if(t.onerrorCb)return t.onerrorCb(e);_vwo_code.finish('&e=loading_failure:'+e)},n.send()},init:function(){var e,t=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish()},t),'body'!==this.hide_element()?(n=d.createElement('style'),e=(t=this.hide_element())?t+this.hide_element_style():'',t=d.getElementsByTagName('head')[0],n.setAttribute('id','_vis_opt_path_hides'),v&&n.setAttribute('nonce',v.nonce),n.setAttribute('type','text/css'),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(d.createTextNode(e)),t.appendChild(n)):(n=d.getElementsByTagName('head')[0],(e=d.createElement('div')).style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;',e.setAttribute('id','_vis_opt_path_hides'),e.classList.add('_vis_hide_layer'),n.parentNode.insertBefore(e,n.nextSibling));var n='https://dev.visualwebsiteoptimizer.com/j.php?'+i();-1!==w.location.search.indexOf('_vwo_xhr')?this.addScript({src:n}):this.load(n+'&x=true',{l:1})}};w._vwo_code=code;code.init();})();
+  </script>
+  <!-- End VWO Async SmartCode -->
+
+
+
+    
+<!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM\u002DTL5HSJ6R');
+    </script>
+<!-- End Google Tag Manager -->
+    
+
+
+<link rel="preconnect" href="https://players.brightcove.net"/>
+
+    
+    
+    
+
+    
+
+    
+    <script src="/etc.clientlibs/carrier/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/carrier/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/algolia/clientlibs/clientlib-hooksInitialization.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/carrier/clientlibs/clientlib-algoliaext.lc-9145d01356d5d782632e199972ec3017-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/algolia/clientlibs/clientlib-site.lc-932a74e9c99fd3d5178cb822c4eefaf3-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/carrier/clientlibs/clientlib-site.lc-493a53c040c9fd29233ed60b92d42065-lc.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v2/clientlibs/core.wcm.components.commons.datalayer.v2.lc-1e0136bad0acfb78be509234578e44f9-lc.min.js"></script>
+
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/acdl/core.wcm.components.commons.datalayer.acdl.lc-bf921af342fd2c40139671dbf0920a1f-lc.min.js"></script>
+
+
+
+    
+    
+</head>
+<body class="page basicpage carrier-template" id="page-92ce89dfaf" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-cmp-data-layer-name="adobeDataLayer">
+<div class="page-container">
+    <div class="page-content">
+        <script>
+            var dataLayerName = 'adobeDataLayer' || 'adobeDataLayer';
+            window[dataLayerName] = window[dataLayerName] || [];
+            window[dataLayerName].push({
+                page: JSON.parse("{\x22page\u002D92ce89dfaf\x22:{\x22@type\x22:\x22carrier\/components\/page\x22,\x22repo:modifyDate\x22:\x222026\u002D09\u002D22T14:31:23Z\x22,\x22dc:title\x22:\x22Supra S10 Truck Reefer Technical Specifications\x22,\x22dc:description\x22:\x22Supra S10 Truck Reefer Technical Specifications\x22,\x22xdm:template\x22:\x22\/conf\/carrier\/settings\/wcm\/templates\/pdp\u002Dspecs\u002D\u002D\u002Dcold\u002Dchain\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\u002DUS\x22,\x22xdm:tags\x22:[\x22Diesel\x22,\x22Cold Chain\x22,\x22Carrier Transicold\x22,\x22Truck Refrigeration\x22,\x22Truck Trailer\x22],\x22repo:path\x22:\x22\/content\/carrier\/us\/en\/cold\u002Dchain\/truck\u002Dtrailer\/truck\/supra\u002Ds10\/technical\u002Dspecifications.html\x22}}"),
+                event: 'cmp:show',
+                eventInfo: {
+                    path: 'page.page\u002D92ce89dfaf'
+                }
+            });
+        </script>
+        
+        
+            
+
+
+
+
+            
+<div class="root container responsivegrid">
+
+    
+    <div id="container-69a0a9852d" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-d1bb9f564c" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+    
+    <div id="container-181e2207c0" class="cmp-container">
+        
+        <div class="navigation">
+
+    
+
+
+<!-- Combined model usage -->
+
+
+
+
+
+
+<!-- Utility Nav -->
+
+    
+    <div class="cmp-utility-nav cmp-utility-nav--algolia cmp-utility-nav--language-selector">
+        <div class="cmp-utility-nav__collapsed-content carrier-grid">
+            
+
+            <div class="cmp-utility-nav__action-buttons">
+                <button class="search-button">
+                    <span class="search-button__icon carrier-icon carrier-icon--search"></span>
+                    <span class="search-button__text">Search</span>
+                </button>
+
+                
+
+                
+
+                <div class="cmp-utility-nav__language">
+                    
+    
+    <nav class="cmp-dropdown language-selector combo" aria-label="Country and language selector">
+        <div id="language-selector" class="combo-input language-selector__button" role="combobox" tabindex="0" aria-label="Change country or language" aria-controls="language-selector-listbox" aria-expanded="false" aria-haspopup="listbox">
+            <span class="language-selector__icon carrier-icon-decorative carrier-icon-decorative--General_Globe" aria-hidden="true"></span>
+            <span class="combo-input__label language-selector__label">United States | EN</span>
+            <span class="language-selector__chevron carrier-icon carrier-icon--caret-down" aria-hidden="true"></span>
+        </div>
+        <ul id="language-selector-listbox" class="combo-menu language-selector__dropdown" role="listbox" tabindex="-1">
+            <li role="presentation" class="language-selector__item language-selector__item--current">
+                <a role="option" id="language-selector-0" class="combo-option language-selector__link combo-option--current" aria-selected="true" aria-current="true" href="/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications/" hreflang="en-US" lang="en-US">
+                    <span class="language-selector__option-label">United States | EN</span>
+                    <span class="language-selector__check carrier-icon-decorative carrier-icon-decorative--General_check_black" aria-hidden="true"></span>
+                </a>
+            </li>
+
+            <li role="presentation" class="language-selector__item language-selector__item--other-countries">
+                <a role="option" id="language-selector-1" class="combo-option language-selector__link combo-option--other-countries" aria-selected="false" href="/us/en/region-language/">
+                    <span class="language-selector__option-label">Other Countries</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="cmp-utility-nav__expanded-content">
+            <div class="close-section">
+                <button class="close-section__button" aria-label="Close Search">
+                    <span class="close-section__button__icon carrier-icon carrier-icon--close-x"></span>
+                    <span class="close-section__button__text">Close Search</span>
+                </button>
+            </div>
+
+            <div class="content-section carrier-grid">
+                
+            </div>
+
+            <div class="search-content-section carrier-grid">
+                
+                
+                    
+
+
+    
+    
+    <algolia-instant-search app-id="4TL5RHIRR3" api-key="2d0f07977cfa825f3e9bf18c1d1eaacb" class="instant-search-comp algolia-global-search cmp-product-listing-card-container " variant-config-id="default" version="aem_integration_display_4.9.5" enable-proxy="false" disable-insights="false" disable-cookie-init="false">
+        
+<div class="cmp-algolia-global-search" data-quick-links-label="Quick Links" data-query-suggestion-typing-label="Search Suggestions" data-products-typing-label="Matching Products" data-product-tab-id="products" data-search-results-page="/us/en/search/" data-quick-links="[{&#34;label&#34;:&#34;Residential Products&#34;,&#34;url&#34;:&#34;/us/en/residential/&#34;},{&#34;label&#34;:&#34;Commercial Products&#34;,&#34;url&#34;:&#34;/us/en/commercial/&#34;},{&#34;label&#34;:&#34;Cold Chain Products&#34;,&#34;url&#34;:&#34;/us/en/cold-chain/&#34;},{&#34;label&#34;:&#34;Company News&#34;,&#34;url&#34;:&#34;/us/en/news/&#34;}]">
+    <div>
+
+<div class="instant-search-comp__searchbox-wrap ">
+	
+
+	<algolia-autocomplete app-id="4TL5RHIRR3" api-key="2d0f07977cfa825f3e9bf18c1d1eaacb" version="aem_integration_display_4.9.5" placeholder="Search Carrier.com" redirect-url="https://www.carrier.com/us/en/search.html" min-character-limit="0" enable-proxy="false" disable-insights="false" disable-cookie-init="false">
+		<algolia-autocomplete-plugins>
+			
+			<algolia-query-suggestions-plugin index-name="carrier_aem_us_en_query_suggestions" hits-per-page="6" label="Top Searches">
+				<template is="algolia-hit-template">&lt;div class=&#34;cmp-product-listing-card&#34; data-model-number=&#34;${hit.model}&#34;&gt;
+    &lt;a href=&#34;${hit.url || &#39;#&#39;}&#34; class=&#34;product-card cmp-product-listing-card__link blue-hover-tooltip&#34;
+        data-product-click&gt;
+        ${(() =&gt; {
+        if (hit.productimage) {
+        return html` &lt;div class=&#34;cmp-product-listing-card__image-gradient&#34;&gt;
+            &lt;div class=&#34;cmp-product-listing-card__hover&#34;&gt;
+                &lt;span class=&#34;carrier-icon carrier-icon--arrow&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;img src=&#34;${hit.productimage}&#34; alt=&#34;${hit.name}&#34; class=&#34;cmp-product-listing-card__image&#34; /&gt;
+        &lt;/div&gt;`;
+        }else{
+        return html` &lt;div class=&#34;cmp-product-listing-card__image-gradient&#34;&gt;
+            &lt;div class=&#34;cmp-product-listing-card__hover&#34;&gt;
+                &lt;span class=&#34;carrier-icon carrier-icon--arrow&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;img src=&#34;#&#34; alt=&#34;${hit.name || &#39;Product Image&#39;}&#34; class=&#34;cmp-product-listing-card__image&#34; /&gt;
+        &lt;/div&gt;`;
+        }
+        })()}
+        &lt;div class=&#34;cmp-product-listing-card__content&#34;&gt;
+            ${(() =&gt; {
+            if(hit.producttagtext &amp;&amp; hit.producttagicon) {
+            return html`&lt;div class=&#34;cmp-product-listing-card__product-tag&#34;&gt;
+                &lt;span class=&#34;carrier-icon-decorative carrier-icon-decorative--${hit.producttagicon}&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+                &lt;span class=&#34;cmp-product-listing-card__product-tag-text&#34;&gt;${hit.producttagtext}&lt;/span&gt;
+            &lt;/div&gt;`
+            } else if (hit.producttagtext) {
+                return html`&lt;div class=&#34;cmp-product-listing-card__product-tag&#34;&gt;
+                &lt;span class=&#34;cmp-product-listing-card__product-tag-text&#34;&gt;${hit.producttagtext}&lt;/span&gt;
+            &lt;/div&gt;`
+            }
+            })()}
+            ${(() =&gt; {
+            if(hit.name){
+            return html`&lt;p class=&#34;cmp-product-listing-card__title&#34;&gt;${hit.name}&lt;/p&gt;`
+            }
+            })()}
+            &lt;div class=&#34;cmp-product-listing-card__model-rating&#34;&gt;
+                ${(() =&gt; {
+                if(hit.model){
+                return html`&lt;span class=&#34;cmp-product-listing-card__model&#34;&gt;Model No: ${hit.model}&lt;/span&gt;`
+                }
+                })()}
+                ${(() =&gt; {
+                if(!hit.hideReviews &amp;&amp; hit.reviewCount &gt; 0){
+                return html`&lt;div class=&#34;cmp-product-listing-card__star-rating&#34;
+                    data-rating=&#34;${hit.averageRating}&#34;&gt;
+                    &lt;span class=&#34;cmp-product-listing-card__rating-count&#34;&gt;
+                        (${hit.reviewCount})
+                    &lt;/span&gt;
+                &lt;/div&gt;`
+                }
+                })()}
+            &lt;/div&gt;
+            ${(() =&gt; {
+                if(hit.contentDescription){
+                return html`&lt;p class=&#34;cmp-product-listing-card__description&#34;&gt;${hit.contentDescription.replace(/&lt;[^&gt;]*&gt;/g, &#39;&#39;)}&lt;/p&gt;`
+            }
+            })()}
+            ${(() =&gt; {
+            const attrs = hit.productAttributes || [];
+
+            return html`
+            &lt;div class=&#34;cmp-product-listing-card__attributes&#34;&gt;
+                &lt;ul&gt;
+                    ${attrs.map(attr =&gt; html`
+                    &lt;li&gt;
+                        ${attr.label}: &lt;span&gt;&lt;strong&gt;${attr.value.trim()}&lt;/strong&gt;&lt;/span&gt;
+                    &lt;/li&gt;
+                    `)}
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            `;
+            })()}
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;${hit.url}&#34; class=&#34;cmp-product-listing-card__mobile-link&#34;&gt;
+        &lt;button type=&#34;button&#34; class=&#34;cmp-button cmp-button--ghost theme-surface-primary icon&#34; tabindex=&#34;0&#34;&gt;
+            &lt;span class=&#34;cmp-button__text&#34;&gt;Learn More&lt;/span&gt;
+            &lt;span class=&#34;cmp-button__icon carrier-icon carrier-icon--arrow-forward&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;</template>
+			</algolia-query-suggestions-plugin>
+			<algolia-search-insights-plugin></algolia-search-insights-plugin>
+		</algolia-autocomplete-plugins>
+		
+
+<algolia-indices>
+	
+		
+			<div>
+
+
+<algolia-index index-name="carrier_aem_us_en" index-id="carrier_aem_us_en-id-20261026163835910" display-label="Popular Products">
+    <algolia-configure enable-filters="true" filters="isProduct:true" attributes-to-retrieve="[ ]" attributes-to-highlight="[ ]" attributes-to-snippet="[ ]" hits-per-page="6" enable-rules="true" rule-contexts="[ &#34;global-search-ahead&#34; ]" analytics-tags="[ ]">
+	</algolia-configure>
+    <algolia-hits>
+        <template is="algolia-hit-template">&lt;div class=&#34;algolia-analytics&#34; data-promoted=&#34;${hit?._rankingInfo?.promoted}&#34; data-insights-query-id=&#34;${hit.__queryID}&#34; data-insights-object-id=&#34;${hit.objectID}&#34; data-insights-position=&#34;${hit.__position}&#34; data-cug=&#34;${hit?.meta?.cug}&#34;&gt;&lt;div class=&#34;cmp-product-listing-card&#34; data-model-number=&#34;${hit.model}&#34;&gt;
+    &lt;a href=&#34;${hit.url || &#39;#&#39;}&#34; class=&#34;product-card cmp-product-listing-card__link blue-hover-tooltip&#34;
+        data-product-click&gt;
+        ${(() =&gt; {
+        if (hit.productimage) {
+        return html` &lt;div class=&#34;cmp-product-listing-card__image-gradient&#34;&gt;
+            &lt;div class=&#34;cmp-product-listing-card__hover&#34;&gt;
+                &lt;span class=&#34;carrier-icon carrier-icon--arrow&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;img src=&#34;${hit.productimage}&#34; alt=&#34;${hit.name}&#34; class=&#34;cmp-product-listing-card__image&#34; /&gt;
+        &lt;/div&gt;`;
+        }else{
+        return html` &lt;div class=&#34;cmp-product-listing-card__image-gradient&#34;&gt;
+            &lt;div class=&#34;cmp-product-listing-card__hover&#34;&gt;
+                &lt;span class=&#34;carrier-icon carrier-icon--arrow&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;img src=&#34;#&#34; alt=&#34;${hit.name || &#39;Product Image&#39;}&#34; class=&#34;cmp-product-listing-card__image&#34; /&gt;
+        &lt;/div&gt;`;
+        }
+        })()}
+        &lt;div class=&#34;cmp-product-listing-card__content&#34;&gt;
+            &lt;p class=&#34;cmp-product-listing-card__title&#34;&gt;${components.Highlight({ attribute: &#34;name&#34;, hit })}&lt;/p&gt;
+            &lt;div class=&#34;cmp-product-listing-card__model-rating&#34;&gt;
+                &lt;span class=&#34;cmp-product-listing-card__model&#34;&gt;Model No: &lt;span class=&#34;cmp-product-listing-card__model-value&#34;&gt;${components.Highlight({ attribute: &#34;model&#34;, hit })}
+ &lt;/span&gt;&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</template>
+        <template is="algolia-no-results-template">&lt;div class=&#34;cmp-algolia-no-results&#34;&gt;Sorry there are no matching products results, please try searching for a different term.&lt;/div&gt;</template>
+        <template is="algolia-autocomplete-footer-template"></template>
+    </algolia-hits>
+</algolia-index>
+</div>
+		
+	
+	<template is="algolia-no-results-template" class="d-none">
+		
+	</template>
+</algolia-indices>
+
+		<template is="algolia-layout-template">&lt;div class=&#34;global-search-typeahead&#34; data-global-search-typeahead-panel&gt;
+  &lt;aside class=&#34;global-search-typeahead__sidebar&#34;&gt;
+    &lt;section class=&#34;global-search-typeahead__suggestions&#34;&gt;
+      ${querySuggestions}
+    &lt;/section&gt;
+    &lt;section class=&#34;global-search-typeahead__quick-links&#34;&gt;
+      ${plugins.plugin_carrierQuickLinks}
+    &lt;/section&gt;
+&lt;section class=&#34;global-search-typeahead__see-all-results&#34;&gt;
+      ${plugins.plugin_carrierSeeAllResults}
+    &lt;/section&gt;
+  &lt;/aside&gt;
+  &lt;main class=&#34;global-search-typeahead__main&#34;&gt;
+    &lt;section class=&#34;global-search-typeahead__results&#34; data-has-results=&#34;${hasResults}&#34;&gt;
+      ${sources}
+    &lt;/section&gt;
+    &lt;nav class=&#34;global-search-typeahead__footer&#34;&gt;
+      ${plugins.plugin_carrierFooterLinks}
+    &lt;/nav&gt;
+  &lt;/main&gt;
+&lt;/div&gt;</template>
+	</algolia-autocomplete>
+
+	
+
+	
+</div>
+</div>
+
+    <div class="global-search-typeahead__panel-host" aria-live="polite"></div>
+</div>
+
+    </algolia-instant-search>
+
+
+
+
+                
+            </div>
+        </div>
+    </div>
+
+
+<!-- Main Navigation -->
+
+<nav class="cmp-nav carrier-grid" aria-label="Carrier">
+
+    <div class="cmp-nav__main-container">
+        <div class="cmp-nav__main-container-left">
+            <a class="cmp-nav__logo" href="/us/en/" aria-label="Carrier">
+                <img class="cmp-nav__logo-image" src="https://brandportal.carrier.com/m/99b434eac013f6f/webimage-carrier_logo_rgb.png" alt="Carrier Logo" width="100" height="40"/>
+            </a>
+
+            <button class="cmp-nav__mobile-back-button" aria-label="Back">
+                <span class="cmp-nav__mobile-back-button__icon carrier-icon carrier-icon--caret-backward"></span>
+                <span class="cmp-nav__mobile-back-button__text">Back</span>
+            </button>
+
+            <div class="cmp-nav__mobile-buttons">
+                <button class="cmp-nav__mobile-buttons__search" aria-label="Search" aria-expanded="false">
+                    <span class="cmp-nav__mobile-buttons__search__icon carrier-icon carrier-icon--search"></span>
+                </button>
+
+                <button class="cmp-nav__mobile-menu-button open-menu" aria-label="Open menu" aria-expanded="false">
+                    <span class="cmp-nav__mobile-menu-button__icon carrier-icon carrier-icon--menu-default"></span>
+                    <span class="cmp-nav__mobile-menu-button__icon carrier-icon carrier-icon--menu-close"></span>
+                </button>
+            </div>
+        </div>
+
+        <div class="cmp-nav__main-container-right">
+            
+  <ul class="cmp-nav__main-elements" aria-label="Carrier main navigation" role="menubar">
+    
+
+    
+      
+  <li class="cmp-nav__main-elements__list-item" role="presentation">
+    <a class="main-element-item " role="menuitem" aria-label="Products" data-menu-control="products" aria-haspopup="true">
+      Products
+    </a>
+
+<div class="carrier-grid cmp-nav__menu-panel" data-menu-for="products-menu-panel">
+      <div class="xfpage page basicpage carrier-template">
+
+
+    
+    <div id="container-8f3f3454be" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigationmenu aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="sub-menu-container">
+    
+  <ul class="cmp-nav__sub-menu-elements" aria-label="products" role="menu" data-menu-sub-items-for="products">
+    
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Residential" data-menu-control="Residential"><span class="sub-menu-item__text">Residential</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="products-Residential-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Residential</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Heating &amp; Cooling">
+							Heating &amp; Cooling
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/air-conditioners/" role="menuitem" aria-label="Air Conditioners">
+										Air Conditioners 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/heat-pumps/" role="menuitem" aria-label="Heat Pumps">
+										Heat Pumps 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/furnaces/" role="menuitem" aria-label="Furnaces">
+										Furnaces 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/ductless-mini-splits/" role="menuitem" aria-label="Ductless Systems">
+										Ductless Systems 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/combined-heating-cooling/" role="menuitem" aria-label="Packaged Systems">
+										Packaged Systems 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/air-handlers/" role="menuitem" aria-label="Air Handlers">
+										Air Handlers 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/residential/indoor-air-quality/" role="menuitem" aria-label="Indoor Air Quality">
+							Indoor Air Quality
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/air-purifiers/" role="menuitem" aria-label="Air Purifiers">
+										Air Purifiers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/humidifiers/" role="menuitem" aria-label="Humidifiers">
+										Humidifiers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/ventilators/" role="menuitem" aria-label="Ventilators">
+										Ventilators 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/uv-lights/" role="menuitem" aria-label="UV Lights">
+										UV Lights 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/indoor-air-quality/dehumidifier-dehxx/" role="menuitem" aria-label="Dehumidifiers">
+										Dehumidifiers 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Specialty HVAC Solutions">
+							Specialty HVAC Solutions
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/smart-thermostats/" role="menuitem" aria-label="Smart Thermostats">
+										Smart Thermostats 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/crossover-solutions/" role="menuitem" aria-label="Crossover Solutions">
+										Crossover Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/variable-refrigerant-flow-systems/" role="menuitem" aria-label="Variable Refrigerant Flow">
+										Variable Refrigerant Flow 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/geothermal-heat-pumps/" role="menuitem" aria-label="Geothermal Systems">
+										Geothermal Systems 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/evaporator-coils/" role="menuitem" aria-label="Evaporator Coils">
+										Evaporator Coils 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/boilers/" role="menuitem" aria-label="Boilers">
+										Boilers 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Commercial" data-menu-control="Commercial"><span class="sub-menu-item__text">Commercial</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="products-Commercial-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Commercial</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/commercial/equipment-controls/" role="menuitem" aria-label="All Equipment">
+							All Equipment
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/airside/" role="menuitem" aria-label="Airside">
+										Airside 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/chillers/" role="menuitem" aria-label="Chillers &amp; Components">
+										Chillers &amp; Components 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/packaged-indoor/" role="menuitem" aria-label="Packaged Indoor">
+										Packaged Indoor 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/packaged-outdoor/" role="menuitem" aria-label="Packaged Outdoor">
+										Packaged Outdoor 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/split-systems-and-condensers/" role="menuitem" aria-label="Split Systems &amp; Condensers">
+										Split Systems &amp; Condensers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/variable-refrigerant-flow/" role="menuitem" aria-label="Variable Refrigerant Flow">
+										Variable Refrigerant Flow 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://totaline.hvacpartners.com/home" role="menuitem" aria-label="Parts &amp; Aftermarket ">
+										Parts &amp; Aftermarket   ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/commercial/controls/" role="menuitem" aria-label="All Controls">
+							All Controls
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/thermostats/" role="menuitem" aria-label="Thermostats">
+										Thermostats 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/connect-wifi-thermostats/" role="menuitem" aria-label="Connect Wi-Fi Thermostats">
+										Connect Wi-Fi Thermostats 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/climavision/" role="menuitem" aria-label="ClimaVision">
+										ClimaVision 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/building-automation/" role="menuitem" aria-label="i-Vu Building Automation">
+										i-Vu Building Automation 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/carrier-comfort-network/" role="menuitem" aria-label="Carrier Comfort Network">
+										Carrier Comfort Network 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/sensors/" role="menuitem" aria-label="  Sensors">
+										  Sensors 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/commercial/software/" role="menuitem" aria-label="Software">
+							Software
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/software/hvac-system-design/" role="menuitem" aria-label="HVAC System Design">
+										HVAC System Design 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/commercial/en/us/software/electronic-catalog/" role="menuitem" aria-label="Electronic Catalog">
+										Electronic Catalog  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/software/dxf-cad-templates/" role="menuitem" aria-label="DXF/CAD Templates">
+										DXF/CAD Templates 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/commercial/en/us/software/revit-3d-templates/" role="menuitem" aria-label="REVIT® 3D Templates">
+										REVIT® 3D Templates  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/software/hvac-system-design/software-support/" role="menuitem" aria-label="Software Support">
+										Software Support 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Cold Chain" data-menu-control="Cold Chain"><span class="sub-menu-item__text">Cold Chain</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="products-Cold Chain-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Cold Chain</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/cold-chain/truck-trailer/" role="menuitem" aria-label="Truck Trailer Refrigeration">
+							Truck Trailer Refrigeration
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/trailer/" role="menuitem" aria-label="Trailer Refrigeration">
+										Trailer Refrigeration 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/trailer/single-temperature-trailer/" role="menuitem" aria-label="Single Temp Trailer">
+										Single Temp Trailer 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/trailer/multiple-temperature-trailer/" role="menuitem" aria-label="Multi Temp Trailer">
+										Multi Temp Trailer 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/trailer/intermodal-and-rail/" role="menuitem" aria-label="Intermodal and Rail">
+										Intermodal and Rail 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/truck/" role="menuitem" aria-label="Electric and Diesel-Powered Truck">
+										Electric and Diesel-Powered Truck 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/direct-drive/" role="menuitem" aria-label="Direct Drive Truck">
+										Direct Drive Truck 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/auxilliary-power-units/" role="menuitem" aria-label="Truck Auxiliary Power Units">
+										Truck Auxiliary Power Units 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/parts/" role="menuitem" aria-label="Performance Parts &amp; Accessories">
+										Performance Parts &amp; Accessories 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/cold-chain/container/" role="menuitem" aria-label="Container Refrigeration">
+							Container Refrigeration
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/units/" role="menuitem" aria-label="Container Units">
+										Container Units 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/generator-sets/" role="menuitem" aria-label="Generator Sets">
+										Generator Sets 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/data-tools/" role="menuitem" aria-label="Data Tools">
+										Data Tools 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/parts/" role="menuitem" aria-label="Container Parts">
+										Container Parts 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/options/" role="menuitem" aria-label="Control Options">
+										Control Options 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Monitoring">
+							Monitoring
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.sensitech.com/en/" role="menuitem" aria-label="Cargo Monitoring">
+										Cargo Monitoring  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/cold-chain/lynx-digital-platform/" role="menuitem" aria-label="Digital Platforms">
+							Digital Platforms
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/lynx-fleet/" role="menuitem" aria-label="Lynx Fleet - Truck Trailer">
+										Lynx Fleet - Truck Trailer 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/data-tools/lynx-fleet/" role="menuitem" aria-label="Lynx Fleet - Container">
+										Lynx Fleet - Container 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.sensitech.com/en/solutions/lynx-factor/" role="menuitem" aria-label="Lynx FacTOR">
+										Lynx FacTOR  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+  </ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function unwrapElementsInContainer(containerSelector, selectors) {
+                document.querySelectorAll(containerSelector).forEach(container => {
+                    selectors.forEach(selector => {
+                        container.querySelectorAll(selector).forEach(wrapper => {
+                            let parent = wrapper.parentNode;
+                            while (wrapper.firstChild) {
+                                parent.insertBefore(wrapper.firstChild, wrapper);
+                            }
+                            parent.removeChild(wrapper);
+                        });
+                    });
+                });
+            }
+
+            // 🚀 Remove wrappers ONLY inside `.cmp-nav__menu-panel`
+            unwrapElementsInContainer(".cmp-nav__menu-panel", [
+                ".cmp-container",
+                ".aem-Grid",
+                ".navigationmenu",
+                ".xfpage"
+            ]);
+        });
+
+    </script>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    </div>
+  </li>
+
+    
+      
+  <li class="cmp-nav__main-elements__list-item" role="presentation">
+    <a class="main-element-item " role="menuitem" aria-label="Services" data-menu-control="services" aria-haspopup="true">
+      Services
+    </a>
+
+<div class="carrier-grid cmp-nav__menu-panel" data-menu-for="services-menu-panel">
+      <div class="xfpage page basicpage carrier-template">
+
+
+    
+    <div id="container-b8ab25323d" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigationmenu aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="sub-menu-container">
+    
+  <ul class="cmp-nav__sub-menu-elements" aria-label="services" role="menu" data-menu-sub-items-for="services">
+    
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Commercial" data-menu-control="Commercial"><span class="sub-menu-item__text">Commercial</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="services-Commercial-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Commercial</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/commercial/service/operate-service-and-protect/" role="menuitem" aria-label="Operate, Service &amp; Protect">
+							Operate, Service &amp; Protect
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/start-up-and-extended-warranty/" role="menuitem" aria-label="Start-Up Services &amp; Extended Warranty Protection">
+										Start-Up Services &amp; Extended Warranty Protection 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/bluedge/" role="menuitem" aria-label="BluEdge® Service Agreement">
+										BluEdge® Service Agreement 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/digital-connectivity/" role="menuitem" aria-label="Digital Connectivity">
+										Digital Connectivity 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/24-by-7-support-and-service/" role="menuitem" aria-label="24/7 Support &amp; Service">
+										24/7 Support &amp; Service 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/consulting-engineering/" role="menuitem" aria-label="Consulting Engineering">
+										Consulting Engineering 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/rentals/en/us" role="menuitem" aria-label="Temporary Solutions">
+										Temporary Solutions  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/commercial/service/retrofit-and-optimize/" role="menuitem" aria-label="Retrofit &amp; Modernize">
+							Retrofit &amp; Modernize
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/modernization-solutions/" role="menuitem" aria-label="Modernization Solutions">
+										Modernization Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/upgrade-solutions/" role="menuitem" aria-label="Upgrade Solutions">
+										Upgrade Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/baseline-analysis/" role="menuitem" aria-label="Baseline Analysis">
+										Baseline Analysis 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/building-management/" role="menuitem" aria-label="Building Management Solutions">
+										Building Management Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/utility-incentives/" role="menuitem" aria-label="Incentives &amp; Rebates">
+										Incentives &amp; Rebates 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Request Information">
+							Request Information
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/service/request-information/" role="menuitem" aria-label="Get in touch">
+										Get in touch 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Cold Chain" data-menu-control="Cold Chain"><span class="sub-menu-item__text">Cold Chain</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="services-Cold Chain-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Cold Chain</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/bluedge-service-offerings/" role="menuitem" aria-label="BluEdge® Service Offerings for Truck Trailer">
+										BluEdge® Service Offerings for Truck Trailer 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/service-support/" role="menuitem" aria-label="Container Service Offerings">
+										Container Service Offerings 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/bluedge-service-offerings/" role="menuitem" aria-label="BluEdge® Channel Partners for Container">
+										BluEdge® Channel Partners for Container 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+  </ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function unwrapElementsInContainer(containerSelector, selectors) {
+                document.querySelectorAll(containerSelector).forEach(container => {
+                    selectors.forEach(selector => {
+                        container.querySelectorAll(selector).forEach(wrapper => {
+                            let parent = wrapper.parentNode;
+                            while (wrapper.firstChild) {
+                                parent.insertBefore(wrapper.firstChild, wrapper);
+                            }
+                            parent.removeChild(wrapper);
+                        });
+                    });
+                });
+            }
+
+            // 🚀 Remove wrappers ONLY inside `.cmp-nav__menu-panel`
+            unwrapElementsInContainer(".cmp-nav__menu-panel", [
+                ".cmp-container",
+                ".aem-Grid",
+                ".navigationmenu",
+                ".xfpage"
+            ]);
+        });
+
+    </script>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    </div>
+  </li>
+
+    
+      
+  <li class="cmp-nav__main-elements__list-item" role="presentation">
+    <a class="main-element-item " role="menuitem" aria-label="Industries" data-menu-control="industries" aria-haspopup="true">
+      Industries
+    </a>
+
+<div class="carrier-grid cmp-nav__menu-panel" data-menu-for="industries-menu-panel">
+      <div class="xfpage page basicpage carrier-template">
+
+
+    
+    <div id="container-b845afb0a4" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigationmenu aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="sub-menu-container">
+    
+  <ul class="cmp-nav__sub-menu-elements" aria-label="industries" role="menu" data-menu-sub-items-for="industries">
+    
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Residential" data-menu-control="Residential"><span class="sub-menu-item__text">Residential</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="industries-Residential-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Residential</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/" role="menuitem" aria-label="Home Comfort">
+										Home Comfort 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Commercial " data-menu-control="Commercial "><span class="sub-menu-item__text">Commercial </span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="industries-Commercial -links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Commercial </a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Segments">
+							Segments
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/data-centers/" role="menuitem" aria-label="Data Centers">
+										Data Centers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/healthcare/" role="menuitem" aria-label="Healthcare">
+										Healthcare 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/higher-education/" role="menuitem" aria-label="Higher Education">
+										Higher Education 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/hospitality/" role="menuitem" aria-label="Hospitality">
+										Hospitality 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/federal-solutions/" role="menuitem" aria-label="Federal Solutions">
+										Federal Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/k-12/" role="menuitem" aria-label="K-12">
+										K-12 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Solutions">
+							Solutions
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/carrier-energy/" role="menuitem" aria-label="Carrier Energy">
+										Carrier Energy 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Cold Chain" data-menu-control="Cold Chain"><span class="sub-menu-item__text">Cold Chain</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="industries-Cold Chain-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Cold Chain</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Segments">
+							Segments
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/" role="menuitem" aria-label="Container">
+										Container 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/" role="menuitem" aria-label="Truck Trailer">
+										Truck Trailer 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Tradeshows &amp; Events">
+							Tradeshows &amp; Events
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/tradeshows-events/" role="menuitem" aria-label="Truck Trailer">
+										Truck Trailer 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/cold-chain/sustainability/" role="menuitem" aria-label="Sustainability">
+							Sustainability
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/sustainability/expanding-the-cold-chain/" role="menuitem" aria-label="Expanding the Cold Chain">
+										Expanding the Cold Chain 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+  </ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function unwrapElementsInContainer(containerSelector, selectors) {
+                document.querySelectorAll(containerSelector).forEach(container => {
+                    selectors.forEach(selector => {
+                        container.querySelectorAll(selector).forEach(wrapper => {
+                            let parent = wrapper.parentNode;
+                            while (wrapper.firstChild) {
+                                parent.insertBefore(wrapper.firstChild, wrapper);
+                            }
+                            parent.removeChild(wrapper);
+                        });
+                    });
+                });
+            }
+
+            // 🚀 Remove wrappers ONLY inside `.cmp-nav__menu-panel`
+            unwrapElementsInContainer(".cmp-nav__menu-panel", [
+                ".cmp-container",
+                ".aem-Grid",
+                ".navigationmenu",
+                ".xfpage"
+            ]);
+        });
+
+    </script>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    </div>
+  </li>
+
+    
+      
+  <li class="cmp-nav__main-elements__list-item" role="presentation">
+    <a class="main-element-item " role="menuitem" aria-label="Support" data-menu-control="support" aria-haspopup="true">
+      Support
+    </a>
+
+<div class="carrier-grid cmp-nav__menu-panel" data-menu-for="support-menu-panel">
+      <div class="xfpage page basicpage carrier-template">
+
+
+    
+    <div id="container-53b89022bc" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigationmenu aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="sub-menu-container">
+    
+  <ul class="cmp-nav__sub-menu-elements" aria-label="support" role="menu" data-menu-sub-items-for="support">
+    
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Residential" data-menu-control="Residential"><span class="sub-menu-item__text">Residential</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="support-Residential-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Residential</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/residential/homeowner-resources/" role="menuitem" aria-label="Homeowner Resources">
+							Homeowner Resources
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/find-a-dealer/" role="menuitem" aria-label="Find a Local Expert">
+										Find a Local Expert 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/rebates/" role="menuitem" aria-label="Rebates">
+										Rebates 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/financing/" role="menuitem" aria-label="Financing">
+										Financing 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/carrier-factory-authorized-dealers/" role="menuitem" aria-label="Factory Authorized Dealers">
+										Factory Authorized Dealers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/certified-ductless-pro/" role="menuitem" aria-label="Certified Ductless Pros">
+										Certified Ductless Pros 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/minimum-efficiency-standards/" role="menuitem" aria-label="Minimum Efficiency Standards">
+										Minimum Efficiency Standards 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Technology">
+							Technology
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/infinity-system/" role="menuitem" aria-label="Infinity System">
+										Infinity System 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/intelisense/" role="menuitem" aria-label="InteliSense Technology">
+										InteliSense Technology 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/smart-thermostats/thermostat-app/" role="menuitem" aria-label="SmartHome App">
+										SmartHome App 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/carrier-energy-program/" role="menuitem" aria-label="Home Energy Management Solutions">
+										Home Energy Management Solutions 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/smart-thermostats/smartsave/" role="menuitem" aria-label="SmartSave">
+										SmartSave 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/puron-advance/" role="menuitem" aria-label="Puron Advance">
+										Puron Advance 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Support Tools">
+							Support Tools
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://productregistration.carrier.com/Public/Home?brand=carrier" role="menuitem" aria-label="Product Registration">
+										Product Registration  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/warranty/" role="menuitem" aria-label="Warranty">
+										Warranty 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/product-documents/?businessUnit=Residential" role="menuitem" aria-label="Product Documents">
+										Product Documents 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/smart-thermostats/access-your-thermostat/" role="menuitem" aria-label="Access Your Thermostat">
+										Access Your Thermostat 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/homeowner-resources/faqs/" role="menuitem" aria-label="FAQs">
+										FAQs 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/residential/become-a-dealer/" role="menuitem" aria-label="Become a Carrier Dealer">
+										Become a Carrier Dealer 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Commercial" data-menu-control="Commercial"><span class="sub-menu-item__text">Commercial</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="support-Commercial-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Commercial</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Literature">
+							Literature
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/case-studies/" role="menuitem" aria-label="Case Studies">
+										Case Studies 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/white-papers/" role="menuitem" aria-label="White Papers">
+										White Papers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/product-documents/?businessUnit=Commercial" role="menuitem" aria-label="Product Documents">
+										Product Documents 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Product Resources">
+							Product Resources
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/rebate-center/" role="menuitem" aria-label="Rebates">
+										Rebates 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Training">
+							Training
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/carrieruniversity/en/us" role="menuitem" aria-label="Carrier University">
+										Carrier University  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Legal">
+							Legal
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/commercial/legal/" role="menuitem" aria-label="Legal Information &amp; Policies">
+										Legal Information &amp; Policies 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Find an expert">
+							Find an expert
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/commercial/en/us/find-an-expert/" role="menuitem" aria-label="Locate">
+										Locate  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Cold Chain" data-menu-control="Cold Chain"><span class="sub-menu-item__text">Cold Chain</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="support-Cold Chain-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Cold Chain</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Truck Trailer Resources">
+							Truck Trailer Resources
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/training/" role="menuitem" aria-label="Truck Trailer Training Program">
+										Truck Trailer Training Program 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/TRU-Software/" role="menuitem" aria-label="TRU Software">
+										TRU Software 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/truck-trailer/installation-instructions/" role="menuitem" aria-label="Installation Instructions">
+										Installation Instructions 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/truck-trailer/en/north-america/news/literature/" role="menuitem" aria-label="Product Literature">
+										Product Literature  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Container Resources">
+							Container Resources
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/container-refrigeration/en/worldwide/service-support/techline-academy/index.html" role="menuitem" aria-label="TechLINE Academy Training">
+										TechLINE Academy Training  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/service-support/techline-newsletter/" role="menuitem" aria-label="TechLINE Newsletters">
+										TechLINE Newsletters 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/cold-chain/container/trading-inquiries/" role="menuitem" aria-label="Trading Inquires">
+										Trading Inquires 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://www.carrier.com/container-refrigeration/en/worldwide/service-support/index.html#tab-5" role="menuitem" aria-label="Product Literature">
+										Product Literature  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " role="menuitem" aria-label="Tools">
+							Tools
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://locator.ttdealers.carrier.com" role="menuitem" aria-label="Carrier Transicold Dealer Locator">
+										Carrier Transicold Dealer Locator  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://carrier-global.my.site.com/carriersolutioncenter/s/" role="menuitem" aria-label="Carrier Transicold Solution Center">
+										Carrier Transicold Solution Center  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://carrier-global.my.site.com/Container" role="menuitem" aria-label="ContainerLINK SolutionCenter">
+										ContainerLINK SolutionCenter  ↗
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+  </ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function unwrapElementsInContainer(containerSelector, selectors) {
+                document.querySelectorAll(containerSelector).forEach(container => {
+                    selectors.forEach(selector => {
+                        container.querySelectorAll(selector).forEach(wrapper => {
+                            let parent = wrapper.parentNode;
+                            while (wrapper.firstChild) {
+                                parent.insertBefore(wrapper.firstChild, wrapper);
+                            }
+                            parent.removeChild(wrapper);
+                        });
+                    });
+                });
+            }
+
+            // 🚀 Remove wrappers ONLY inside `.cmp-nav__menu-panel`
+            unwrapElementsInContainer(".cmp-nav__menu-panel", [
+                ".cmp-container",
+                ".aem-Grid",
+                ".navigationmenu",
+                ".xfpage"
+            ]);
+        });
+
+    </script>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    </div>
+  </li>
+
+    
+      
+  <li class="cmp-nav__main-elements__list-item" role="presentation">
+    <a class="main-element-item " role="menuitem" aria-label="About" data-menu-control="about" aria-haspopup="true">
+      About
+    </a>
+
+<div class="carrier-grid cmp-nav__menu-panel" data-menu-for="about-menu-panel">
+      <div class="xfpage page basicpage carrier-template">
+
+
+    
+    <div id="container-cc865517a1" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigationmenu aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="sub-menu-container">
+    
+  <ul class="cmp-nav__sub-menu-elements" aria-label="about" role="menu" data-menu-sub-items-for="about">
+    
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Our Company" data-menu-control="Our Company"><span class="sub-menu-item__text">Our Company</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="about-Our Company-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">Our Company</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/our-company/" role="menuitem" aria-label="Our Company">
+							Our Company
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/innovation/" role="menuitem" aria-label="Innovation">
+										Innovation 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/leadership/" role="menuitem" aria-label="Our Leadership">
+										Our Leadership 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/our-brands/" role="menuitem" aria-label="Our Brands">
+										Our Brands 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/careers/" role="menuitem" aria-label="Careers">
+										Careers 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/our-company/techvantage/" role="menuitem" aria-label="TechVantage™">
+										TechVantage™ 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/sustainability-and-social-impact/" role="menuitem" aria-label="Corporate Responsibility">
+							Corporate Responsibility
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/impact-report/" role="menuitem" aria-label="Impact Report">
+										Impact Report 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/cities/" role="menuitem" aria-label="Sustainable Cities">
+										Sustainable Cities 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/healthy-cold-chain/" role="menuitem" aria-label="Sustainable Cold Chain">
+										Sustainable Cold Chain 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/operations/" role="menuitem" aria-label="Sustainable Operations">
+										Sustainable Operations 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/community-involvement/" role="menuitem" aria-label="Our Communities">
+										Our Communities 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/sustainability-and-social-impact/air-we-breathe/" role="menuitem" aria-label="Our Tree Planting Initiative">
+										Our Tree Planting Initiative 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+	
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/governance/" role="menuitem" aria-label="Governance">
+							Governance
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/board-of-directors/" role="menuitem" aria-label="Corporate Governance">
+										Corporate Governance 
+									</a>
+								</li>
+							
+								<li class="links-section__item external-link" role="presentation">
+									<a class="link external-link" href="https://ir.carrier.com/overview/default.aspx" role="menuitem" aria-label="Investor Relations">
+										Investor Relations  ↗
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/governance/policy-manual/" role="menuitem" aria-label="Policy Manual">
+										Policy Manual 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/governance/ethics-compliance/" role="menuitem" aria-label="Ethics &amp; Compliance">
+										Ethics &amp; Compliance 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+      
+  <li class="cmp-nav__sub-menu-elements__list-item" role="presentation">
+    <a class="sub-menu-item" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="News" data-menu-control="News"><span class="sub-menu-item__text">News</span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--plus-add"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--mobile carrier-icon carrier-icon--minus-subtract"></span>
+      <span class="sub-menu-item__icon sub-menu-item__icon--desktop carrier-icon carrier-icon--arrow-forward"></span>
+    </a>
+
+    <!-- class="sub-menu-links-container" when ready -->
+    <div class="sub-menu-links-container" data-menu-for="about-News-links">
+      <div class="header-links-sub-menu-container">
+        <a class="header-links-sub-menu-container__title">News</a>
+        
+      </div>
+      <hr class="sub-menu-links-separator"/>
+      
+
+
+<!-- Column 1 -->
+
+	<div class="sub-menu-links">
+		<ul class="sub-menu-links__list" role="menu">
+			
+				<li class="sub-menu-links__list-group" role="presentation">
+					<div class="links-section">
+						<a class="links-section__title " href="/us/en/news/" role="menuitem" aria-label="Corporate News">
+							Corporate News
+						</a>
+						<ul class="links-section__group" role="menu">
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/news/" role="menuitem" aria-label="Press Releases">
+										Press Releases 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/media-resources/" role="menuitem" aria-label="Media Resources">
+										Media Resources 
+									</a>
+								</li>
+							
+								<li class="links-section__item " role="presentation">
+									<a class="link " href="/us/en/media-resources/media-inquiries/" role="menuitem" aria-label="Media Inquiries">
+										Media Inquiries 
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	</div>
+
+
+<!-- Column 2 (Show if layout is "two-column", "two-column-teaser", or "three-column") -->
+
+
+<!-- Column 3 (Show if layout is "three-column") -->
+
+
+<!-- Promo Column -->
+
+
+
+    </div>
+  </li>
+
+      
+    
+  </ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function unwrapElementsInContainer(containerSelector, selectors) {
+                document.querySelectorAll(containerSelector).forEach(container => {
+                    selectors.forEach(selector => {
+                        container.querySelectorAll(selector).forEach(wrapper => {
+                            let parent = wrapper.parentNode;
+                            while (wrapper.firstChild) {
+                                parent.insertBefore(wrapper.firstChild, wrapper);
+                            }
+                            parent.removeChild(wrapper);
+                        });
+                    });
+                });
+            }
+
+            // 🚀 Remove wrappers ONLY inside `.cmp-nav__menu-panel`
+            unwrapElementsInContainer(".cmp-nav__menu-panel", [
+                ".cmp-container",
+                ".aem-Grid",
+                ".navigationmenu",
+                ".xfpage"
+            ]);
+        });
+
+    </script>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    </div>
+  </li>
+
+    
+  </ul>
+
+
+            <div class="cmp-nav__contact-language-container">
+                <a href="/us/en/our-company/contact-us/" aria-label="Find an Expert" class="mobile-right-link ">
+                    Find an Expert
+                </a>
+
+                
+
+            </div>
+        </div>
+    </div>
+</nav></div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+<div class="breadcrumb aem-GridColumn aem-GridColumn--default--12">
+
+<nav id="breadcrumb-74dfbaf20a" class="cmp-breadcrumb theme-surface-invert" aria-label="Breadcrumb" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb&#34;}}" role="navigation">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        
+
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a-item-c9717e1da1&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-27T05:32:07Z&#34;,&#34;dc:title&#34;:&#34;Cold Chain&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/cold-chain.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+            <a href="/us/en/cold-chain/" class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable>
+                <span itemprop="name">Cold Chain</span>
+            </a>
+            <meta itemprop="position" content="1"/>
+        </li>
+        
+    
+        
+
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a-item-db52c14c7d&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-27T05:32:12Z&#34;,&#34;dc:title&#34;:&#34;Truck Trailer&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/cold-chain/truck-trailer.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+            <a href="/us/en/cold-chain/truck-trailer/" class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable>
+                <span itemprop="name">Truck Trailer</span>
+            </a>
+            <meta itemprop="position" content="2"/>
+        </li>
+        
+    
+        
+
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a-item-1758b065ce&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-27T05:32:13Z&#34;,&#34;dc:title&#34;:&#34;Truck&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/cold-chain/truck-trailer/truck.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+            <a href="/us/en/cold-chain/truck-trailer/truck/" class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable>
+                <span itemprop="name">Truck</span>
+            </a>
+            <meta itemprop="position" content="3"/>
+        </li>
+        
+    
+        
+
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a-item-5d51054285&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-27T05:32:13Z&#34;,&#34;dc:title&#34;:&#34;Supra® S10 Truck Refrigeration Unit&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/cold-chain/truck-trailer/truck/supra-s10.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+            <a href="/us/en/cold-chain/truck-trailer/truck/supra-s10/" class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable>
+                <span itemprop="name">Supra® S10 Truck Refrigeration Unit</span>
+            </a>
+            <meta itemprop="position" content="4"/>
+        </li>
+        
+    
+        
+
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" aria-current="page" data-cmp-data-layer="{&#34;breadcrumb-74dfbaf20a-item-92ce89dfaf&#34;:{&#34;@type&#34;:&#34;carrier/components/content/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2026-06-27T05:32:13Z&#34;,&#34;dc:title&#34;:&#34;Technical Specifications&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/cold-chain/truck-trailer/truck/supra-s10/technical-specifications.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+            
+                <span itemprop="name">Technical Specifications</span>
+            
+            <meta itemprop="position" content="5"/>
+        </li>
+        
+    </ol>
+</nav>
+
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-6c78a8a914" class="cmp-container">
+        
+        <div class="pdp-hero-specs">
+<div class="cmp-pdp-hero-specs carrier-grid">
+  <!-- BE - These images should come from the author -->
+  <picture class="cmp-pdp-hero-specs__picture">
+    <!-- desktop -->
+    <source media="(min-width: 768px)" srcset="https://brandportal.carrier.com/m/2135f5d027729cdb/webimage-trailer-truck-unit-supra-s10-installed-500x281.png"/>
+    <!-- mobile -->
+    <source media="(max-width: 767px)" srcset="https://brandportal.carrier.com/m/2135f5d027729cdb/webimage-trailer-truck-unit-supra-s10-installed-500x281.png"/>
+    <img src="https://brandportal.carrier.com/m/2135f5d027729cdb/webimage-trailer-truck-unit-supra-s10-installed-500x281.png" alt="Carrier Supra S10" class="cmp-pdp-hero-specs__image" loading="lazy"/>
+  </picture>
+  <div class="cmp-pdp-hero-specs__content">
+    <p class="cmp-pdp-hero-specs__content__product-sub-title">
+      Supra® S10 Diesel Truck Refrigeration Unit
+    </p>
+    <h1 class="cmp-pdp-hero-specs__content__product-title">
+      Technical Specifications
+    </h1>
+    <button class="cmp-pdp-hero-specs__content__download" onclick="window.print()">
+      <span class="carrier-icon carrier-icon--download" aria-hidden="true"></span>
+      <span class="download-text">Download</span>
+    </button>
+  </div>
+</div>
+</div>
+<div class="stats-table">
+
+
+
+
+
+
+<div class="cmp-stats-table carrier-grid carrier-container theme-surface-invert ">
+
+  
+  
+
+  <!-- BE - this should be a container that will allow the content author to add stat cards elements
+   or rich text elements. it must have the classes that the commented div has  -->
+  <div class="cmp-stats-table__card-container">
+    
+    
+    
+    
+    
+
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Condenser Dimensions
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">75.4” x 32.1” x 24.2”</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description">(1,914 x 815 x 615 mm)</p>
+    </div>
+  </div>
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Evaporator Dimensions
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">48.2” x 23.5” x 13”</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description">(1,225 x 597 x 330 mm)</p>
+    </div>
+  </div>
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Body Opening
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">49.0&#34; x 13.8&#34;</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description">(1,245 x 351 mm)</p>
+    </div>
+  </div>
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Approximate Weight
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">TDB-5B: 1,025 lb (466 kg) without standby; TDS-5B: 1,102 kb (501 kg) with electric standby</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description"></p>
+    </div>
+  </div>
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Evaporator Airflow
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">1,600 cfm (2,718 m3/hr)</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description"></p>
+    </div>
+  </div>
+
+  <div class="cmp-stat-basic theme-surface-invert">
+    <div class="cmp-stat-basic__content">
+      <p class="cmp-stat-basic__content__title">
+        Cooling/Temperature Capacity:
+        
+      </p>
+      <span class="cmp-stat-basic__content__data">Ambient at 100°F (38°C); Speed: 2,100 rpm diesel/60-hertz electric operation</span>
+      <span class="cmp-stat-basic__content__subdata"></span>
+      <p class="cmp-stat-basic__content__description"></p>
+    </div>
+  </div>
+
+
+    
+  </div>
+  <!-- BE - Note: for the rich text, there is a missing property, the text type, that is expected in the rich text implementation-->
+
+  
+</div>
+</div>
+<div class="stats-table">
+
+
+
+
+
+
+<div class="cmp-stats-table carrier-grid carrier-container theme-surface-invert ">
+
+  
+  
+
+  <!-- BE - this should be a container that will allow the content author to add stat cards elements
+   or rich text elements. it must have the classes that the commented div has  -->
+  <div class="cmp-stats-table__card-container">
+    
+
+	<div class="carrier-container">
+		<div class="cmp-text">
+			<div class="cmp-text__container">
+				<table cellspacing="0" cellpadding="0" border="1"><tbody><tr><td>Evaporator<br />
+Return Air Temp.</td><td colspan="2">Diesel Operation</td><td colspan="2">Standby Operation</td></tr><tr><td> </td><td>BTU/hr</td><td>Watts</td><td>BTU/hr</td><td>Watts</td></tr><tr><td>35°F ( 2°C)</td><td>37,000</td><td>10,850</td><td>27,000</td><td>7,915</td></tr><tr><td>0°F (-18°C)</td><td>22,500</td><td>6,622</td><td>21,000</td><td>6,155</td></tr><tr><td>-20°F (-29°C)</td><td>14,000</td><td>4,100</td><td>13,500</td><td>3,960</td></tr></tbody></table>
+
+			</div>
+		</div>
+	</div>
+
+    
+    
+    
+    
+    
+  </div>
+  <!-- BE - Note: for the rich text, there is a missing property, the text type, that is expected in the rich text implementation-->
+
+  
+</div>
+</div>
+<div class="contact">
+
+
+<div class="carrier-grid cmp-contact theme-surface-invert ">
+    <div class="cmp-contact__container">
+
+        <div class="cmp-contact--left">
+            <h2 class="cmp-contact__heading-4">
+                Have questions about truck refrigeration units?</h2>
+            <a class="cmp-button cmp-button--primary theme-surface-secondary arrow " aria-label="Get in touch with a Carrier dealer near you" data-cmp-clickable="true" tabindex="0" href="https://locator.ttdealers.carrier.com/">
+                <span class="cmp-button__text">Get in touch</span>
+                
+            </a>
+        </div>
+        
+    </div>
+</div></div>
+
+        
+    </div>
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-2d4473310d" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-67da02d28e" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer-v2 aem-GridColumn aem-GridColumn--default--12">
+
+<footer class="footer-v2" role="contentinfo">
+  <div class="footer-v2__image" role="presentation">
+    <picture class="footer-v2__image__picture">
+      <source media="(min-width: 768px)" srcset="https://brandportal.carrier.com/transform/752ca7d0-19f4-4c95-b1bd-1c34e8e6b928/farming-field"/>
+      <source media="(max-width: 767px)" srcset="https://brandportal.carrier.com/transform/752ca7d0-19f4-4c95-b1bd-1c34e8e6b928/farming-field"/>
+      <img src="https://brandportal.carrier.com/transform/752ca7d0-19f4-4c95-b1bd-1c34e8e6b928/farming-field" alt="Wide-angle photo of a mountain valley." class="footer-v2__image__image-src"/>
+    </picture>
+    <div class="footer-v2__image-container carrier-grid">
+      <h2 class="footer-v2__image-title">Intelligent climate &amp; energy solutions.</h2>
+    </div>
+  </div>
+
+  <div class="footer-v2__container">
+    <div class="footer-v2__locale">
+      <a class="footer-v2__link footer-v2__country-switcher" href="/us/en/region-language/">
+        <span class="footer-v2__flag footer-v2__flag--us" data-country="us" aria-hidden="true"></span>
+        <span class="footer-v2__country-switcher-label">USA | EN</span>
+      </a>
+    </div>
+
+    <div class="footer-v2__brand">
+      <a class="footer-v2__logo" href="/us/en/">
+        <img class="footer-v2__logo-image" src="https://brandportal.carrier.com/m/99b434eac013f6f/webimage-carrier_logo_rgb.png" alt="Carrier Logo"/>
+      </a>
+
+      
+    <svg xmlns="http://www.w3.org/2000/svg" class="footer-v2__social-sprite" aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden">
+        <symbol id="carrier-social-facebook" viewBox="0 0 38 38">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M18.9713 0C29.4489 0 37.9427 8.49379 37.9427 18.9714C37.9427 29.449 29.4489 37.9427 18.9713 37.9427C8.49379 37.9427 0 29.449 0 18.9714C0 8.49379 8.49379 0 18.9713 0ZM15.4993 12.1762V15.6627H11.2423V20.3494H15.4993V31.9518H20.5615V20.3494H24.3007L25.0486 15.6627H20.5615V12.1191C20.5615 10.8045 21.8271 10.0615 23.0352 10.0615H25.2212V6.175L21.3093 6.00355C17.5702 5.77495 15.4993 8.68979 15.4993 12.1762Z"/>
+        </symbol>
+        <symbol id="carrier-social-instagram" viewBox="0 0 38 38">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M18.9712 0C29.4488 0 37.9427 8.49379 37.9427 18.9714C37.9427 29.449 29.4488 37.9427 18.9712 37.9427C8.49377 37.9427 0 29.449 0 18.9714C0 8.49379 8.49377 0 18.9712 0ZM24.0836 7.98794H13.0456C9.49955 7.98794 6.58266 10.9118 6.58266 14.4662V25.4734C6.58266 29.0279 9.49955 31.9518 13.0456 31.9518H24.0836C27.6297 31.9518 30.5465 29.0279 30.5465 25.4734V14.4662C30.5465 10.9118 27.6297 7.98794 24.0836 7.98794ZM24.0268 10.0519C26.4863 10.0519 28.4876 12.0583 28.4876 14.5235V25.4161C28.4876 27.8814 26.4863 29.8879 24.0268 29.8879H13.1024C10.6437 29.8879 8.64161 27.8814 8.64161 25.4161V14.5235C8.64161 12.0583 10.6437 10.0519 13.1024 10.0519H24.0268ZM18.593 13.4343H18.5362C14.9902 13.4343 12.0733 16.4154 12.0733 19.9699C12.0733 23.5816 14.9902 26.5054 18.5362 26.5054H18.593C22.1391 26.5054 25.1134 23.5816 25.1134 19.9699C25.1134 16.4154 22.1391 13.4343 18.593 13.4343ZM18.593 15.6701C20.9381 15.6701 22.8826 17.6194 22.8826 19.9699C22.8826 22.3777 20.9381 24.3269 18.593 24.3269H18.5362C16.1911 24.3269 14.2466 22.3777 14.2466 19.9699C14.2466 17.6194 16.1911 15.6701 18.5362 15.6701H18.593ZM24.9991 12.173L24.8312 12.1825C24.1199 12.2637 23.6262 12.8569 23.6262 13.549C23.6262 14.2943 24.1988 14.9248 24.9991 14.9248C25.7427 14.9248 26.372 14.2943 26.372 13.549C26.372 12.8037 25.7427 12.173 24.9991 12.173Z"/>
+        </symbol>
+        <symbol id="carrier-social-linkedin" viewBox="0 0 38 38">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M18.9714 0C29.4488 0 37.9427 8.49364 37.9427 18.9713C37.9427 29.4488 29.4488 37.9427 18.9714 37.9427C8.49387 37.9427 0 29.4488 0 18.9713C0 8.49364 8.49387 0 18.9714 0ZM25.0016 15.2209H23.8173C22.0939 15.2209 20.5867 16.0783 19.6711 17.4177V15.3817H15.3639V29.9548H19.6711V22.0792C19.7254 20.4182 21.125 19.1318 22.7941 19.1318C24.4633 19.1318 25.5941 20.4182 25.6475 22.0792V29.9548H29.9548V20.15C29.9548 17.4712 27.7473 15.2209 25.0016 15.2209ZM12.7792 15.3817H8.41858V29.9548H12.7792V15.3817ZM10.5718 7.98794C9.11793 7.98794 7.98794 9.16666 7.98794 10.6133C7.98794 12.0599 9.11793 13.2386 10.5718 13.2386C12.0256 13.2386 13.2098 12.0599 13.2098 10.6133C13.2098 9.16666 12.0256 7.98794 10.5718 7.98794Z"/>
+        </symbol>
+        <symbol id="carrier-social-youtube" viewBox="0 0 38 38">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M18.9713 0C29.4489 0 37.9427 8.49364 37.9427 18.9713C37.9427 29.4488 29.4489 37.9427 18.9713 37.9427C8.49379 37.9427 0 29.4488 0 18.9713C0 8.49364 8.49379 0 18.9713 0ZM19.0018 10.6722C16.9574 10.6722 14.2769 10.763 12.0053 10.9447C9.3248 11.1719 7.91634 11.6263 7.55294 14.3066C7.41659 15.5333 7.32572 17.2143 7.32572 18.9409C7.32572 20.6672 7.41659 22.3935 7.55294 23.5747C7.91634 26.3008 9.3248 26.7092 12.0053 26.937C14.2769 27.164 16.9574 27.2095 19.0018 27.2095C21.0462 27.2095 23.6813 27.164 25.9983 26.937C28.6788 26.7092 30.0418 26.3008 30.4053 23.5747C30.587 22.3935 30.6778 20.6672 30.6778 18.9409C30.6778 17.2143 30.587 15.5333 30.4053 14.3066C30.0418 11.6263 28.6788 11.1719 25.9983 10.9447C23.6813 10.763 21.0462 10.6722 19.0018 10.6722ZM16.4936 15.003L22.4846 18.9713L16.4936 22.9909V15.003Z"/>
+        </symbol>
+        <symbol id="carrier-social-tiktok" viewBox="0 0 38 38">
+            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M18.9714 0C29.4488 0 37.9427 8.49379 37.9427 18.9714C37.9427 29.449 29.4488 37.9427 18.9714 37.9427C8.49387 37.9427 0 29.449 0 18.9714C0 8.49379 8.49387 0 18.9714 0ZM23.9988 7.98794H19.6816V24.398C19.6816 26.3255 18.0428 27.8883 15.9655 27.8883C14.7634 27.8883 13.6708 27.3153 12.9601 26.4297C12.5234 25.8566 12.3042 25.1273 12.3042 24.398C12.3042 22.4704 13.9439 20.9076 15.9655 20.9076C16.3483 20.9076 16.731 20.9596 17.0589 21.0639V16.8963C16.731 16.8442 16.3483 16.792 15.9655 16.792H15.802C11.43 16.8963 7.98794 20.2824 7.98794 24.398C7.98794 26.3776 8.80736 28.2009 10.1191 29.5554C11.5944 31.0141 13.6708 31.9518 15.9655 31.9518C20.3923 31.9518 23.9988 28.5656 23.9988 24.398V15.8544C25.6385 17.2609 27.7697 17.9382 29.9548 17.7818V13.6663C29.5181 13.7706 29.0806 13.7706 28.6987 13.6663C27.4956 13.51 26.4579 12.8849 25.5837 11.9472C24.545 10.8532 23.944 9.39447 23.9988 7.98794Z"/>
+        </symbol>
+        
+        <symbol id="carrier-social-x" viewBox="0 0 38 38">
+            <path fill="currentColor" d="M18.9717 0C29.4492 0.000119175 37.9424 8.49416 37.9424 18.9717C37.9423 29.4491 29.4491 37.9432 18.9717 37.9434C8.49414 37.9434 7.55335e-05 29.4492 0 18.9717C0 8.49409 8.49409 0 18.9717 0ZM8.45605 8.43164L9.9707 10.6396L16.6865 20.4346H16.6875L8.43164 30.0791H10.2227L17.4854 21.5977L17.4863 21.5996L22.8848 29.4707L23.3027 30.0811H29.5117L27.9971 27.8721L20.9336 17.5732L28.7627 8.43164H26.9717L25.4385 10.2129L20.1348 16.4082L15.083 9.04199L14.665 8.43164H8.45605ZM13.9268 9.84082L19.1885 17.5137V17.5146L19.9863 18.6787V18.6777L19.9873 18.6787L26.8398 28.6709H24.041L18.4336 20.4941L18.3945 20.4365L17.6338 19.3281L11.1279 9.84082H13.9268Z"/>
+        </symbol>
+    </svg>
+
+      <ul class="footer-v2__social">
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://www.facebook.com/CarrierGlobal/" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-facebook"></use>
+            </svg>
+            <span class="footer-v2__social-name">Facebook</span>
+          </a>
+        </li>
+      
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://www.instagram.com/carrier/" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-instagram"></use>
+            </svg>
+            <span class="footer-v2__social-name">Instagram</span>
+          </a>
+        </li>
+      
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://www.linkedin.com/company/carrier/" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-linkedin"></use>
+            </svg>
+            <span class="footer-v2__social-name">LinkedIn</span>
+          </a>
+        </li>
+      
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://www.tiktok.com/discover/carrier-global-corporation" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-tiktok"></use>
+            </svg>
+            <span class="footer-v2__social-name">TikTok</span>
+          </a>
+        </li>
+      
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://twitter.com/carrier" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-x"></use>
+            </svg>
+            <span class="footer-v2__social-name">X.com</span>
+          </a>
+        </li>
+      
+        <li class="footer-v2__social-item">
+          <a class="footer-v2__link footer-v2__social-link" href="https://www.youtube.com/Carrierofficial" target="_blank" rel="noopener noreferrer">
+            <svg class="footer-v2__social-icon" aria-hidden="true" focusable="false">
+              <use href="#carrier-social-youtube"></use>
+            </svg>
+            <span class="footer-v2__social-name">YouTube</span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="footer-v2__text">
+        <p class="footer-v2__text__headline">With every product, every system, every solution - we are enhancing the lives we live and the world we share.</p>
+        <a href="/us/en/sustainability-and-social-impact/goals/" class="footer-v2__link footer-v2__text-link " aria-label="For the world we share">Learn More</a>
+      </div>
+    </div>
+
+    <div class="footer-v2__links">
+      
+        <div class="footer-v2__column">
+          <p class="footer-v2__category" tabindex="0" aria-expanded="false">
+            Company
+            <span class="footer-v2__category__icon carrier-icon carrier-icon--caret-down"></span>
+          </p>
+          <ul class="footer-v2__list" hidden>
+            <li>
+              <a href="/us/en/our-company/" class="footer-v2__link ">Purpose &amp; Vision</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/innovation/" class="footer-v2__link ">Innovation</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/leadership/" class="footer-v2__link ">Leadership</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/our-brands/" class="footer-v2__link ">Our Brands</a>
+            </li>
+            
+          
+            <li>
+              <a href="https://jobs.carrier.com/" class="footer-v2__link external-link" target="_blank">Careers</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/our-company/patents/" class="footer-v2__link ">Patents</a>
+            </li>
+            
+          
+            <li>
+              <a href="https://ir.carrier.com/" class="footer-v2__link external-link" target="_blank">Investors</a>
+            </li>
+            
+          </ul>
+        </div>
+      
+        <div class="footer-v2__column">
+          <p class="footer-v2__category" tabindex="0" aria-expanded="false">
+            Residential
+            <span class="footer-v2__category__icon carrier-icon carrier-icon--caret-down"></span>
+          </p>
+          <ul class="footer-v2__list" hidden>
+            <li>
+              <a href="/us/en/residential/heat-pumps/" class="footer-v2__link ">Heat Pumps</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/residential/air-conditioners/" class="footer-v2__link ">Air Conditioners</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/residential/furnaces/" class="footer-v2__link ">Furnaces</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/residential/ductless-mini-splits/" class="footer-v2__link ">Ductless Mini-Splits</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/residential/indoor-air-quality/" class="footer-v2__link ">Indoor Air Quality</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/residential/smart-thermostats/" class="footer-v2__link ">Thermostats</a>
+            </li>
+            
+          </ul>
+        </div>
+      
+        <div class="footer-v2__column">
+          <p class="footer-v2__category" tabindex="0" aria-expanded="false">
+            Commercial
+            <span class="footer-v2__category__icon carrier-icon carrier-icon--caret-down"></span>
+          </p>
+          <ul class="footer-v2__list" hidden>
+            <li>
+              <a href="/us/en/commercial/airside/" class="footer-v2__link ">Airside Solutions</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/commercial/chillers/" class="footer-v2__link ">Chillers &amp; Components</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/commercial/controls/" class="footer-v2__link ">Smart Building Controls</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/commercial/packaged-indoor/" class="footer-v2__link ">Indoor HVAC Solutions</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/commercial/packaged-outdoor/" class="footer-v2__link ">Outdoor HVAC Solutions</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/commercial/split-systems-and-condensers/" class="footer-v2__link ">Split Systems &amp; Condensers</a>
+            </li>
+            
+          </ul>
+        </div>
+      
+        <div class="footer-v2__column">
+          <p class="footer-v2__category" tabindex="0" aria-expanded="false">
+            Cold Chain
+            <span class="footer-v2__category__icon carrier-icon carrier-icon--caret-down"></span>
+          </p>
+          <ul class="footer-v2__list" hidden>
+            <li>
+              <a href="/us/en/cold-chain/truck-trailer/" class="footer-v2__link ">Truck Trailer Refrigeration</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/cold-chain/container/" class="footer-v2__link ">Container Refrigeration</a>
+            </li>
+            
+          
+            <li>
+              <a href="/us/en/cold-chain/lynx-digital-platform/" class="footer-v2__link ">Digital Platforms</a>
+            </li>
+            
+          
+            <li>
+              <a href="https://www.sensitech.com/en/" class="footer-v2__link external-link">Cargo Monitoring</a>
+            </li>
+            
+          </ul>
+        </div>
+      
+    </div>
+
+    <div class="footer-v2__contact">
+      <a class="cmp-button cmp-button--primary icon footer-v2__link footer-v2__contact-cta " href="/us/en/our-company/contact-us/" aria-label="Contact Us">
+        <span class="cmp-button__text">Contact Us</span>
+        <span class="cmp-button__icon carrier-icon carrier-icon--arrow-forward" aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div class="footer-v2__credits">
+      <p>© 2026 Carrier. All Rights Reserved.</p>
+    </div>
+  </div>
+
+  <nav class="footer-v2__legal" aria-label="Legal and governance">
+    <ul class="footer-v2__legal-list">
+      
+        <li class="footer-v2__legal-item">
+          <a href="/us/en/accessibility/" class="footer-v2__link ">Accessibility</a>
+        </li>
+        
+        
+        
+      
+        <li class="footer-v2__legal-item">
+          <a href="/us/en/terms-of-use/" class="footer-v2__link ">Terms of Use</a>
+        </li>
+        
+        
+        
+      
+        <li class="footer-v2__legal-item">
+          <a href="/us/en/privacy-notice/" class="footer-v2__link ">Privacy</a>
+        </li>
+        
+        
+        
+      
+        
+        <li class="footer-v2__legal-item">
+          <a href="#" class="footer-v2__link " onclick="(OneTrust.ToggleInfoDisplay())">Cookies</a>
+        </li>
+        
+        
+      
+        
+        
+        
+        <li class="footer-v2__legal-item">
+          <button type="button" class="footer-v2__back-to-top">
+            Back to Top
+            
+          </button>
+        </li>
+      
+    </ul>
+  </nav>
+  <div class="footer-v2__credits-mobile">
+    <p>© 2026 Carrier. All Rights Reserved.</p>
+  </div>
+</footer></div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "breadcrumb": "Cold Chain > Truck Trailer > Truck > Supra® S10 Truck Refrigeration Unit > Technical Specifications",
+    "name": "Supra S10 Truck Reefer Technical Specifications",
+    "description": "Supra S10 Truck Reefer Technical Specifications",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Carrier"
+    }
+}
+</script>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+            
+    
+    <script src="/etc.clientlibs/algolia/clientlibs/clientlib-hooksInitialization.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+<script src="/etc.clientlibs/carrier/clientlibs/clientlib-algoliaext.lc-5cc2d19cd9e73b41a87929f8e64f2b90-lc.min.js"></script>
+<script src="/etc.clientlibs/algolia/clientlibs/clientlib-site.lc-bf0d65c554a7f657a31fc83b902200b0-lc.min.js"></script>
+<script src="/etc.clientlibs/carrier/clientlibs/clientlib-site.lc-22dc2eb371eb56fd9eb1409d3d47760b-lc.min.js"></script>
+
+
+    
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script async src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.lc-652a558c3774088b61b0530c184710d1-lc.min.js"></script>
+<script async src="/etc.clientlibs/carrier/clientlibs/clientlib-base.lc-01dd92e42aa4f22b2189137633a06ae1-lc.min.js"></script>
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+        
+    </div>
+</div>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"a3ffc5c49466471da263730baff1e632","spa":2}' crossorigin="anonymous"></script>
+</body>
+
+</html>
