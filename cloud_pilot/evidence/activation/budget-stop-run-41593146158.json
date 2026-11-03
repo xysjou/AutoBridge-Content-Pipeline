@@ -1,0 +1,492 @@
+{
+  "schema": "autobridge-budget-stop-proof/1.0",
+  "date": "2026-11-03",
+  "status": "BUDGET_BLOCKED_BEFORE_GENERATION",
+  "candidate_code_sha": "99aaf70dce6ad5cd9552cb149360588c48b6ec87",
+  "candidate_offline_checks": {
+    "multilingual": 79,
+    "stage2": 47,
+    "original": 41,
+    "total": 167
+  },
+  "code_review_status": "LAST_FINDINGS_FIXED_OFFLINE_FRESH_INDEPENDENT_REVIEW_PENDING",
+  "topic_dedup_status": "PASS_GENUINE_RECEIPT_VERIFIED",
+  "topic_response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61",
+  "run_url": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41593146158",
+  "job_id": 125774279267,
+  "gate_reason": "PROGRAM_CAP_EXCEEDED",
+  "approved_cap_nano_usd": 3000000000,
+  "settled_cost_nano_usd": 2980099325,
+  "remaining_nano_usd": 19900675,
+  "required_next_reservation_nano_usd": 284661250,
+  "token_count": {
+    "count_payload_hash": "331850691409653c3c833ff9b8dec899f9c1c57b162252eb4867dd52902413ac",
+    "endpoint": "/v1/responses/input_tokens",
+    "input_bound": 195729,
+    "request_hash": "c45a12af23a9b3e104cc7972af1e40920cb4a500ffbda34262780f751da31eb4",
+    "response": {
+      "input_tokens": 194705,
+      "object": "response.input_tokens"
+    }
+  },
+  "new_paid_generation_requests_in_gate_run": 0,
+  "settled_generation_responses": 20,
+  "unresolved_inference_operations": 0,
+  "fee_breakdown": {
+    "code_review": {
+      "calls": 12,
+      "cost_nano_usd": 2739887250
+    },
+    "topic_dedup": {
+      "calls": 8,
+      "cost_nano_usd": 240212075
+    }
+  },
+  "english_articles_generated": 0,
+  "locale_articles_generated": 0,
+  "website_published": false,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "receipt_rows": [
+    {
+      "operation": "activation-code:43d2af3ca9cfd29f6dd50357117a72515198ae75",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_07f96fc8bf34f651016ae859a873ac87d1a45feff92bbdb6bf",
+      "usage": {
+        "input_tokens": 49712,
+        "input_tokens_details": {
+          "cache_write_tokens": 49709,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 49709
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 5327,
+        "output_tokens_details": {
+          "reasoning_tokens": 4476
+        },
+        "total_tokens": 55039
+      },
+      "cost_nano_usd": 88774250
+    },
+    {
+      "operation": "activation-code:fa49a0d70b0afb5a5f76d86e369d6e4717dd7878",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_01b77663746170ef016ae85e53ddac87d1b16b08a5028fa893",
+      "usage": {
+        "input_tokens": 96134,
+        "input_tokens_details": {
+          "cache_write_tokens": 96131,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 96131
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6630,
+        "output_tokens_details": {
+          "reasoning_tokens": 5696
+        },
+        "total_tokens": 102764
+      },
+      "cost_nano_usd": 153316750
+    },
+    {
+      "operation": "activation-dedup:7ae3b0e6e2facdb0109f0358ebcc012ccfe9d7bdd952fcbf83632e88320a7027",
+      "model": "gpt-6-luna",
+      "response_id": "resp_0cb502476a28dc0f016ae85ec3c8b087d1bd14ce7cd75fd8df",
+      "usage": {
+        "input_tokens": 136364,
+        "input_tokens_details": {
+          "cache_write_tokens": 136361,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 136361
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 1500,
+        "output_tokens_details": {
+          "reasoning_tokens": 967
+        },
+        "total_tokens": 137864
+      },
+      "cost_nano_usd": 17795425
+    },
+    {
+      "operation": "activation-code:672cbbfe01007e134a6cf0d144f897c25d4c1def",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_0ee7727ff1eba5dc016ae9477f40dc87d1a0d1dcb747d9d65c",
+      "usage": {
+        "input_tokens": 104787,
+        "input_tokens_details": {
+          "cache_write_tokens": 104784,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 104784
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6766,
+        "output_tokens_details": {
+          "reasoning_tokens": 5623
+        },
+        "total_tokens": 111553
+      },
+      "cost_nano_usd": 164813000
+    },
+    {
+      "operation": "activation-code:b1df1dfcef2694d6024119d375a7e39577a07e3e",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_0a5fe5ff9adaed51016ae94f45ff7c87d1913894a3743a60ad",
+      "usage": {
+        "input_tokens": 156314,
+        "input_tokens_details": {
+          "cache_write_tokens": 156311,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 156311
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 7168,
+        "output_tokens_details": {
+          "reasoning_tokens": 6380
+        },
+        "total_tokens": 163482
+      },
+      "cost_nano_usd": 231231750
+    },
+    {
+      "operation": "activation-code:ac1303e64dc595a35d8c978b9792e51cd1443ff9",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_0e1da463929e02d3016ae95bd0a88c87d19650f491555f72c5",
+      "usage": {
+        "input_tokens": 160012,
+        "input_tokens_details": {
+          "cache_write_tokens": 160009,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 160009
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 7102,
+        "output_tokens_details": {
+          "reasoning_tokens": 6295
+        },
+        "total_tokens": 167114
+      },
+      "cost_nano_usd": 235524250
+    },
+    {
+      "operation": "activation-dedup:bfedff2f808d72860e1a47919695f21082cd8be71a100285fca35416dceba5f3",
+      "model": "gpt-6-luna",
+      "response_id": "resp_02c32733b0a2772a016ae95c4e0ee487d191c1fd1ced189647",
+      "usage": {
+        "input_tokens": 168681,
+        "input_tokens_details": {
+          "cache_write_tokens": 168678,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 168678
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 1892,
+        "output_tokens_details": {
+          "reasoning_tokens": 1209
+        },
+        "total_tokens": 170573
+      },
+      "cost_nano_usd": 22031050
+    },
+    {
+      "operation": "activation-code:bf787e70837dbfa9217299d16aed55fa98078d93",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_07a73bc4b76cd52e016ae95f8a8e4087d183cb12f08e6ef8bf",
+      "usage": {
+        "input_tokens": 167200,
+        "input_tokens_details": {
+          "cache_write_tokens": 167197,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 167197
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6073,
+        "output_tokens_details": {
+          "reasoning_tokens": 5173
+        },
+        "total_tokens": 173273
+      },
+      "cost_nano_usd": 239364250
+    },
+    {
+      "operation": "activation-dedup:e7f60fa19a38d933b7e1eb9cf6fe8ca288cb3a163665c1bfa3af987e2aab92ab",
+      "model": "gpt-6-luna",
+      "response_id": "resp_00be06ae07043e97016ae95fe5516487d196d6378502508edc",
+      "usage": {
+        "input_tokens": 174871,
+        "input_tokens_details": {
+          "cache_write_tokens": 174868,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 174868
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 2577,
+        "output_tokens_details": {
+          "reasoning_tokens": 2020
+        },
+        "total_tokens": 177448
+      },
+      "cost_nano_usd": 23147300
+    },
+    {
+      "operation": "activation-code:831e42fb5aca58de02078badf651e226d6d1eba4",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_09333204076948df016ae964c416c487d29bd9b51ebae1099d",
+      "usage": {
+        "input_tokens": 170391,
+        "input_tokens_details": {
+          "cache_write_tokens": 170388,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 170388
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6249,
+        "output_tokens_details": {
+          "reasoning_tokens": 5627
+        },
+        "total_tokens": 176640
+      },
+      "cost_nano_usd": 244233000
+    },
+    {
+      "operation": "activation-dedup:21b9085739a51b95e24b86401ef9a4fe0985417576bb430f452a9888ac7784b2",
+      "model": "gpt-6-luna",
+      "response_id": "resp_06d8a3bd0459d97b016ae96527524887d296706cde4c2c8725",
+      "usage": {
+        "input_tokens": 200869,
+        "input_tokens_details": {
+          "cache_write_tokens": 200866,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 200866
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 2337,
+        "output_tokens_details": {
+          "reasoning_tokens": 1741
+        },
+        "total_tokens": 203206
+      },
+      "cost_nano_usd": 26277050
+    },
+    {
+      "operation": "activation-code:e59f6fa1a028dd1705f17c228a5742d5995d78ee",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_00d8f5d212734a78016ae96d4939c887d28c69a0cf28918e48",
+      "usage": {
+        "input_tokens": 173814,
+        "input_tokens_details": {
+          "cache_write_tokens": 173811,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 173811
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 5941,
+        "output_tokens_details": {
+          "reasoning_tokens": 5178
+        },
+        "total_tokens": 179755
+      },
+      "cost_nano_usd": 246971750
+    },
+    {
+      "operation": "activation-dedup:ab333fcd192f8670c1f2415412f2a9c8e7b05b239b2cef5fe4837cdb5af23854",
+      "model": "gpt-6-luna",
+      "response_id": "resp_06ebb34d1fb0da48016ae96daab0b487d2a297376f7a707215",
+      "usage": {
+        "input_tokens": 200872,
+        "input_tokens_details": {
+          "cache_write_tokens": 200869,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 200869
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 1710,
+        "output_tokens_details": {
+          "reasoning_tokens": 1133
+        },
+        "total_tokens": 202582
+      },
+      "cost_nano_usd": 25963925
+    },
+    {
+      "operation": "activation-code:12128a37394445f66c8cba08fbf109e2158b617a",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_02be6de1f7d56798016ae9709d862c87d184468f65d65a5bfa",
+      "usage": {
+        "input_tokens": 180038,
+        "input_tokens_details": {
+          "cache_write_tokens": 180035,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 180035
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 5386,
+        "output_tokens_details": {
+          "reasoning_tokens": 4660
+        },
+        "total_tokens": 185424
+      },
+      "cost_nano_usd": 251976750
+    },
+    {
+      "operation": "activation-dedup:8f704e502568872606725756f84427dce7c9a7db640b2bd64b5af82658e4c443",
+      "model": "gpt-6-luna",
+      "response_id": "resp_051f577e6a2e08e8016ae970f5c2b487d19d41381764d55dbe",
+      "usage": {
+        "input_tokens": 200867,
+        "input_tokens_details": {
+          "cache_write_tokens": 200864,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 200864
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 1643,
+        "output_tokens_details": {
+          "reasoning_tokens": 1168
+        },
+        "total_tokens": 202510
+      },
+      "cost_nano_usd": 25929800
+    },
+    {
+      "operation": "activation-code:7fc794a55b09c1b09ffd21a6d0c412eb5c46b0b2",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_0a283754cf334589016ae9755a45ec87d1afb481b51fb8acce",
+      "usage": {
+        "input_tokens": 259425,
+        "input_tokens_details": {
+          "cache_write_tokens": 259422,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 259422
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6964,
+        "output_tokens_details": {
+          "reasoning_tokens": 6518
+        },
+        "total_tokens": 266389
+      },
+      "cost_nano_usd": 359100500
+    },
+    {
+      "operation": "activation-dedup:16bb477a688a0fa54598a1410f77f5468acf3e51aab3bea323ca0c8a2f03697a",
+      "model": "gpt-6-luna",
+      "response_id": "resp_037fe04979684318016ae975c7433887d19d0d3347b3fab0f3",
+      "usage": {
+        "input_tokens": 273377,
+        "input_tokens_details": {
+          "cache_write_tokens": 273374,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 273374
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 2429,
+        "output_tokens_details": {
+          "reasoning_tokens": 1890
+        },
+        "total_tokens": 275806
+      },
+      "cost_nano_usd": 70165850
+    },
+    {
+      "operation": "activation-code:a829406bfe55fa1df649badbf8e75f35ce26b134",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_01fb8e53966d0752016ae979631d6487d1820d2d6f8a6ebbc9",
+      "usage": {
+        "input_tokens": 189488,
+        "input_tokens_details": {
+          "cache_write_tokens": 189485,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 189485
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 3496,
+        "output_tokens_details": {
+          "reasoning_tokens": 3106
+        },
+        "total_tokens": 192984
+      },
+      "cost_nano_usd": 254339250
+    },
+    {
+      "operation": "activation-dedup:4022a906eb425b00b76b67a932c16c6ce66e4faf2fa6daa2826a856efe795dba",
+      "model": "gpt-6-luna",
+      "response_id": "resp_0cc8bc21bdea976e016ae979acb3a087d18779f96c09514f61",
+      "usage": {
+        "input_tokens": 224618,
+        "input_tokens_details": {
+          "cache_write_tokens": 224615,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 224615
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 1649,
+        "output_tokens_details": {
+          "reasoning_tokens": 1100
+        },
+        "total_tokens": 226267
+      },
+      "cost_nano_usd": 28901675
+    },
+    {
+      "operation": "activation-code:d581b4578fe0b7b0ccae5bc2dcf04330fdde2f0a",
+      "model": "gpt-6.1-terra",
+      "response_id": "resp_02fc2ae9e51be048016ae97fcdec1c87d1b16d775bc672aadf",
+      "usage": {
+        "input_tokens": 192114,
+        "input_tokens_details": {
+          "cache_write_tokens": 192111,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 192111
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 6020,
+        "output_tokens_details": {
+          "reasoning_tokens": 5663
+        },
+        "total_tokens": 198134
+      },
+      "cost_nano_usd": 270241750
+    }
+  ]
+}

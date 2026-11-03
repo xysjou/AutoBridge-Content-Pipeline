@@ -1,0 +1,250 @@
+﻿2026-11-03T07:00:11.1286179Z Current runner version: '2.338.2'
+2026-11-03T07:00:11.1325883Z ##[group]Runner Image Provisioner
+2026-11-03T07:00:11.1327320Z Hosted Compute Agent
+2026-11-03T07:00:11.1328459Z Version: 20261021.618
+2026-11-03T07:00:11.1329743Z Commit: 21505ad2541d5be6135ed84fc33697146cf75b8e
+2026-11-03T07:00:11.1331154Z Build Date: 2026-10-21T00:45:21Z
+2026-11-03T07:00:11.1332459Z Worker ID: {f1745ec1-4cc0-4f5d-b2c7-f5a86738661f}
+2026-11-03T07:00:11.1334061Z Region: eastus
+2026-11-03T07:00:11.1335178Z Cloud: Azure
+2026-11-03T07:00:11.1336877Z ##[endgroup]
+2026-11-03T07:00:11.1339513Z ##[group]Operating System
+2026-11-03T07:00:11.1340701Z Ubuntu
+2026-11-03T07:00:11.1341702Z 26.04.1
+2026-11-03T07:00:11.1342730Z LTS
+2026-11-03T07:00:11.1344146Z ##[endgroup]
+2026-11-03T07:00:11.1345196Z ##[group]Runner Image
+2026-11-03T07:00:11.1346445Z Image: ubuntu-26.04
+2026-11-03T07:00:11.1347499Z Version: 20261025.179.1
+2026-11-03T07:00:11.1349983Z Included Software: https://github.com/actions/runner-images/blob/ubuntu26/20261025.179/images/ubuntu/Ubuntu2604-Readme.md
+2026-11-03T07:00:11.1352959Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu26%2F20261025.179
+2026-11-03T07:00:11.1355069Z ##[endgroup]
+2026-11-03T07:00:11.1357451Z ##[group]GITHUB_TOKEN Permissions
+2026-11-03T07:00:11.1360569Z Contents: write
+2026-11-03T07:00:11.1361718Z Metadata: read
+2026-11-03T07:00:11.1362728Z PullRequests: write
+2026-11-03T07:00:11.1364223Z ##[endgroup]
+2026-11-03T07:00:11.1367571Z Secret source: Actions
+2026-11-03T07:00:11.1369337Z Cache mode: write
+2026-11-03T07:00:11.1370861Z Prepare workflow directory
+2026-11-03T07:00:11.1884691Z Prepare all required actions
+2026-11-03T07:00:11.1961160Z Getting action download info
+2026-11-03T07:00:11.3497182Z Download action repository 'actions/checkout@11d5960a326750d5838078e36cf38b85af677262' (SHA:11d5960a326750d5838078e36cf38b85af677262)
+2026-11-03T07:00:11.4336110Z Download action repository 'actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065' (SHA:a26af69be951a213d495a4c3e4e4022e16d87065)
+2026-11-03T07:00:11.6060142Z Uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@b3f5a6cef20b8dc235f001af306e635f1eca0fdf
+2026-11-03T07:00:11.6065787Z ##[group] Inputs
+2026-11-03T07:00:11.6066476Z   mode: audit
+2026-11-03T07:00:11.6067084Z ##[endgroup]
+2026-11-03T07:00:11.6067707Z Complete job name: trusted / execute
+2026-11-03T07:00:11.7010304Z ##[group]Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+2026-11-03T07:00:11.7011421Z with:
+2026-11-03T07:00:11.7011928Z   ref: 99aaf70dce6ad5cd9552cb149360588c48b6ec87
+2026-11-03T07:00:11.7012550Z   persist-credentials: false
+2026-11-03T07:00:11.7013068Z   fetch-depth: 0
+2026-11-03T07:00:11.7013592Z   repository: xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:11.7017793Z   token: ***
+2026-11-03T07:00:11.7018258Z   ssh-strict: true
+2026-11-03T07:00:11.7018715Z   ssh-user: git
+2026-11-03T07:00:11.7019153Z   clean: true
+2026-11-03T07:00:11.7019634Z   sparse-checkout-cone-mode: true
+2026-11-03T07:00:11.7020207Z   fetch-tags: false
+2026-11-03T07:00:11.7020669Z   show-progress: true
+2026-11-03T07:00:11.7021144Z   lfs: false
+2026-11-03T07:00:11.7021574Z   submodules: false
+2026-11-03T07:00:11.7022037Z   set-safe-directory: true
+2026-11-03T07:00:11.7022562Z   allow-unsafe-pr-checkout: false
+2026-11-03T07:00:11.7023368Z ##[endgroup]
+2026-11-03T07:00:11.9519041Z Syncing repository: xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:11.9522597Z ##[group]Getting Git version info
+2026-11-03T07:00:11.9524990Z Working directory is '/home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline'
+2026-11-03T07:00:11.9527940Z [command]/usr/bin/git version
+2026-11-03T07:00:11.9529137Z git version 2.56.0
+2026-11-03T07:00:11.9546064Z ##[endgroup]
+2026-11-03T07:00:11.9558339Z Temporarily overriding HOME='/home/runner/work/_temp/ff1d9a98-13f5-43c5-8f98-956bf784e5a7' before making global git config changes
+2026-11-03T07:00:11.9561094Z Adding repository directory to the temporary git global config as a safe directory
+2026-11-03T07:00:11.9565035Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline
+2026-11-03T07:00:11.9630664Z Deleting the contents of '/home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline'
+2026-11-03T07:00:11.9643471Z ##[group]Initializing the repository
+2026-11-03T07:00:11.9655943Z [command]/usr/bin/git init /home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline
+2026-11-03T07:00:11.9796372Z hint: Using 'master' as the name for the initial branch. This default branch name
+2026-11-03T07:00:11.9798576Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+2026-11-03T07:00:11.9800502Z hint: to use in all of your new repositories, which will suppress this warning,
+2026-11-03T07:00:11.9802051Z hint: call:
+2026-11-03T07:00:11.9802918Z hint:
+2026-11-03T07:00:11.9804207Z hint: 	git config --global init.defaultBranch <name>
+2026-11-03T07:00:11.9805530Z hint:
+2026-11-03T07:00:11.9806787Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2026-11-03T07:00:11.9808659Z hint: 'development'. The just-created branch can be renamed via this command:
+2026-11-03T07:00:11.9810182Z hint:
+2026-11-03T07:00:11.9811034Z hint: 	git branch -m <name>
+2026-11-03T07:00:11.9812008Z hint:
+2026-11-03T07:00:11.9813280Z hint: Disable this message with "git config set advice.defaultBranchName false"
+2026-11-03T07:00:11.9821418Z Initialized empty Git repository in /home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline/.git/
+2026-11-03T07:00:11.9835368Z [command]/usr/bin/git remote add origin https://github.com/xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:11.9905078Z ##[endgroup]
+2026-11-03T07:00:11.9906959Z ##[group]Disabling automatic garbage collection
+2026-11-03T07:00:11.9916384Z [command]/usr/bin/git config --local gc.auto 0
+2026-11-03T07:00:11.9982830Z ##[endgroup]
+2026-11-03T07:00:11.9995637Z ##[group]Setting up auth
+2026-11-03T07:00:12.0006375Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-11-03T07:00:12.0016837Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-11-03T07:00:12.0498284Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-11-03T07:00:12.0535481Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-11-03T07:00:12.0820660Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-11-03T07:00:12.0871354Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-11-03T07:00:12.1169827Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2026-11-03T07:00:12.1215245Z ##[endgroup]
+2026-11-03T07:00:12.1217863Z ##[group]Fetching the repository
+2026-11-03T07:00:12.1227502Z [command]/usr/bin/git -c protocol.version=2 fetch --prune --no-recurse-submodules origin +refs/heads/*:refs/remotes/origin/* +refs/tags/*:refs/tags/*
+2026-11-03T07:00:14.0305736Z From https://github.com/xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:14.0309961Z  * [new branch]        approval/autobridge-audit-run-41565534967 -> origin/approval/autobridge-audit-run-41565534967
+2026-11-03T07:00:14.0314579Z  * [new branch]        approval/autobridge-audit-run-41566332318 -> origin/approval/autobridge-audit-run-41566332318
+2026-11-03T07:00:14.0319010Z  * [new branch]        approval/autobridge-audit-run-41567984919 -> origin/approval/autobridge-audit-run-41567984919
+2026-11-03T07:00:14.0324703Z  * [new branch]        approval/autobridge-audit-run-41568538201 -> origin/approval/autobridge-audit-run-41568538201
+2026-11-03T07:00:14.0329631Z  * [new branch]        approval/autobridge-audit-run-41569043182 -> origin/approval/autobridge-audit-run-41569043182
+2026-11-03T07:00:14.0334182Z  * [new branch]        approval/autobridge-audit-run-41569741472 -> origin/approval/autobridge-audit-run-41569741472
+2026-11-03T07:00:14.0337687Z  * [new branch]        approval/autobridge-audit-run-41573229246 -> origin/approval/autobridge-audit-run-41573229246
+2026-11-03T07:00:14.0342354Z  * [new branch]        approval/autobridge-audit-run-41574148394 -> origin/approval/autobridge-audit-run-41574148394
+2026-11-03T07:00:14.0346392Z  * [new branch]        approval/autobridge-audit-run-41574739966 -> origin/approval/autobridge-audit-run-41574739966
+2026-11-03T07:00:14.0350432Z  * [new branch]        approval/autobridge-audit-run-41575129753 -> origin/approval/autobridge-audit-run-41575129753
+2026-11-03T07:00:14.0356343Z  * [new branch]        approval/autobridge-audit-run-41576689138 -> origin/approval/autobridge-audit-run-41576689138
+2026-11-03T07:00:14.0362729Z  * [new branch]        approval/autobridge-audit-run-41578520750 -> origin/approval/autobridge-audit-run-41578520750
+2026-11-03T07:00:14.0369610Z  * [new branch]        approval/autobridge-audit-run-41578882268 -> origin/approval/autobridge-audit-run-41578882268
+2026-11-03T07:00:14.0375836Z  * [new branch]        approval/autobridge-audit-run-41582115064 -> origin/approval/autobridge-audit-run-41582115064
+2026-11-03T07:00:14.0380230Z  * [new branch]        approval/autobridge-audit-run-41583757749 -> origin/approval/autobridge-audit-run-41583757749
+2026-11-03T07:00:14.0385221Z  * [new branch]        approval/autobridge-audit-run-41585625361 -> origin/approval/autobridge-audit-run-41585625361
+2026-11-03T07:00:14.0389115Z  * [new branch]        approval/autobridge-audit-run-41587253586 -> origin/approval/autobridge-audit-run-41587253586
+2026-11-03T07:00:14.0392903Z  * [new branch]        approval/autobridge-audit-run-41590066862 -> origin/approval/autobridge-audit-run-41590066862
+2026-11-03T07:00:14.0397122Z  * [new branch]        approval/autobridge-audit-run-41593146158 -> origin/approval/autobridge-audit-run-41593146158
+2026-11-03T07:00:14.0401140Z  * [new branch]        approval/autobridge-pilot-20261102-audit -> origin/approval/autobridge-pilot-20261102-audit
+2026-11-03T07:00:14.0405985Z  * [new branch]        approval/autobridge-pilot-20261102-audit-r2 -> origin/approval/autobridge-pilot-20261102-audit-r2
+2026-11-03T07:00:14.0410312Z  * [new branch]        content/two-articles-12langs-20261102 -> origin/content/two-articles-12langs-20261102
+2026-11-03T07:00:14.0416519Z  * [new branch]        feature/api-multilingual-ready-20261102 -> origin/feature/api-multilingual-ready-20261102
+2026-11-03T07:00:14.0423679Z  * [new branch]        feature/disabled-manual-pilot-bootstrap-20261102 -> origin/feature/disabled-manual-pilot-bootstrap-20261102
+2026-11-03T07:00:14.0430478Z  * [new branch]        feature/work-cloud-pilot-core-20261102 -> origin/feature/work-cloud-pilot-core-20261102
+2026-11-03T07:00:14.0435329Z  * [new branch]        integration/work-cloud-pilot-m1-20261102 -> origin/integration/work-cloud-pilot-m1-20261102
+2026-11-03T07:00:14.0438726Z  * [new branch]        main       -> origin/main
+2026-11-03T07:00:14.0442456Z  * [new branch]        review/site-pilot-11-20260909 -> origin/review/site-pilot-11-20260909
+2026-11-03T07:00:14.0448091Z  * [new branch]        runtime/pinned-protected-20261103 -> origin/runtime/pinned-protected-20261103
+2026-11-03T07:00:14.0456998Z [command]/usr/bin/git rev-parse --verify --quiet 99aaf70dce6ad5cd9552cb149360588c48b6ec87^{object}
+2026-11-03T07:00:14.0461230Z 99aaf70dce6ad5cd9552cb149360588c48b6ec87
+2026-11-03T07:00:14.0467608Z ##[endgroup]
+2026-11-03T07:00:14.0470724Z ##[group]Determining the checkout info
+2026-11-03T07:00:14.0473558Z ##[endgroup]
+2026-11-03T07:00:14.0475491Z [command]/usr/bin/git sparse-checkout disable
+2026-11-03T07:00:14.0480426Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2026-11-03T07:00:14.0484971Z ##[group]Checking out the ref
+2026-11-03T07:00:14.0487650Z [command]/usr/bin/git checkout --progress --force 99aaf70dce6ad5cd9552cb149360588c48b6ec87
+2026-11-03T07:00:14.5688515Z Note: switching to '99aaf70dce6ad5cd9552cb149360588c48b6ec87'.
+2026-11-03T07:00:14.5689369Z 
+2026-11-03T07:00:14.5689836Z You are in 'detached HEAD' state. You can look around, make experimental
+2026-11-03T07:00:14.5691136Z changes and commit them, and you can discard any commits you make in this
+2026-11-03T07:00:14.5692332Z state without impacting any branches by switching back to a branch.
+2026-11-03T07:00:14.5692964Z 
+2026-11-03T07:00:14.5693327Z If you want to create a new branch to retain commits you create, you may
+2026-11-03T07:00:14.5694370Z do so (now or later) by using -c with the switch command. Example:
+2026-11-03T07:00:14.5694732Z 
+2026-11-03T07:00:14.5694879Z   git switch -c <new-branch-name>
+2026-11-03T07:00:14.5695113Z 
+2026-11-03T07:00:14.5695259Z Or undo this operation with:
+2026-11-03T07:00:14.5695477Z 
+2026-11-03T07:00:14.5695586Z   git switch -
+2026-11-03T07:00:14.5695780Z 
+2026-11-03T07:00:14.5696074Z Turn off this advice by setting config variable advice.detachedHead to false
+2026-11-03T07:00:14.5696502Z 
+2026-11-03T07:00:14.5696980Z HEAD is now at 99aaf70d Resolve accepted global Research origins and exclude writer QA from independent review inputs
+2026-11-03T07:00:14.5755709Z ##[endgroup]
+2026-11-03T07:00:14.5804819Z [command]/usr/bin/git log -1 --format=%H
+2026-11-03T07:00:14.5830492Z 99aaf70dce6ad5cd9552cb149360588c48b6ec87
+2026-11-03T07:00:14.5841121Z ##[group]Removing auth
+2026-11-03T07:00:14.5845194Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-11-03T07:00:14.5875749Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-11-03T07:00:14.6165145Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-11-03T07:00:14.6191153Z http.https://github.com/.extraheader
+2026-11-03T07:00:14.6198815Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2026-11-03T07:00:14.6232346Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-11-03T07:00:14.6516838Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-11-03T07:00:14.6550088Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-11-03T07:00:14.6829885Z ##[endgroup]
+2026-11-03T07:00:14.7175758Z ##[group]Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+2026-11-03T07:00:14.7176200Z with:
+2026-11-03T07:00:14.7176434Z   python-version: 3.11
+2026-11-03T07:00:14.7176681Z   check-latest: false
+2026-11-03T07:00:14.7179430Z   token: ***
+2026-11-03T07:00:14.7179691Z   update-environment: true
+2026-11-03T07:00:14.7179957Z   allow-prereleases: false
+2026-11-03T07:00:14.7180202Z   freethreaded: false
+2026-11-03T07:00:14.7180425Z ##[endgroup]
+2026-11-03T07:00:14.8618033Z ##[group]Installed versions
+2026-11-03T07:00:14.8724941Z (node:2474) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-11-03T07:00:14.8726216Z (Use `node --trace-deprecation ...` to show where the warning was created)
+2026-11-03T07:00:14.8727006Z Successfully set up CPython (3.11.17)
+2026-11-03T07:00:14.8746925Z ##[endgroup]
+2026-11-03T07:00:14.8892147Z ##[group]Run python3 -m cloud_pilot.multilingual.control
+2026-11-03T07:00:14.8892669Z [36;1mpython3 -m cloud_pilot.multilingual.control[0m
+2026-11-03T07:00:14.8942585Z shell: /usr/bin/bash -e {0}
+2026-11-03T07:00:14.8942865Z env:
+2026-11-03T07:00:14.8943157Z   pythonLocation: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:14.8943626Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib/pkgconfig
+2026-11-03T07:00:14.8944696Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:14.8945101Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:14.8945504Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:14.8945909Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib
+2026-11-03T07:00:14.8949020Z   AUTOBRIDGE_GITHUB_TOKEN: ***
+2026-11-03T07:00:14.8949432Z   AUTOBRIDGE_APPROVAL_COMMIT: ***
+2026-11-03T07:00:14.8949870Z   AUTOBRIDGE_APPROVED_CODE_SHA: 99aaf70dce6ad5cd9552cb149360588c48b6ec87
+2026-11-03T07:00:14.8950261Z ##[endgroup]
+2026-11-03T07:00:15.6531278Z ##[group]Run python3 -m cloud_pilot.multilingual preauthorize --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json" --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json" --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"
+2026-11-03T07:00:15.6533334Z [36;1mpython3 -m cloud_pilot.multilingual preauthorize --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json" --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json" --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"[0m
+2026-11-03T07:00:15.6565636Z shell: /usr/bin/bash -e {0}
+2026-11-03T07:00:15.6565913Z env:
+2026-11-03T07:00:15.6566194Z   pythonLocation: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:15.6566672Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib/pkgconfig
+2026-11-03T07:00:15.6567159Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:15.6567578Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:15.6568042Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:15.6568466Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib
+2026-11-03T07:00:15.6571510Z   AUTOBRIDGE_GITHUB_TOKEN: ***
+2026-11-03T07:00:15.6572036Z   AUTOBRIDGE_LIVE_APPROVAL_SHA256: ***
+2026-11-03T07:00:15.6572333Z ##[endgroup]
+2026-11-03T07:00:16.3743615Z {
+2026-11-03T07:00:16.3744568Z   "status": "PREAUTHORIZED_EXACT_RUN",
+2026-11-03T07:00:16.3745353Z   "code_sha": "99aaf70dce6ad5cd9552cb149360588c48b6ec87",
+2026-11-03T07:00:16.3746104Z   "run_id": "41593146158"
+2026-11-03T07:00:16.3746597Z }
+2026-11-03T07:00:16.3888119Z ##[group]Run python3 -m cloud_pilot.multilingual "$APPROVED_RUN_MODE" --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json" --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json" --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"
+2026-11-03T07:00:16.3890072Z [36;1mpython3 -m cloud_pilot.multilingual "$APPROVED_RUN_MODE" --plan "$RUNNER_TEMP/autobridge-approved/approved-plan.json" --prices "$RUNNER_TEMP/autobridge-approved/approved-prices.json" --permit "$RUNNER_TEMP/autobridge-approved/approved-permit.json"[0m
+2026-11-03T07:00:16.3922731Z shell: /usr/bin/bash -e {0}
+2026-11-03T07:00:16.3922987Z env:
+2026-11-03T07:00:16.3923263Z   pythonLocation: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:16.3924009Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib/pkgconfig
+2026-11-03T07:00:16.3924460Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:16.3924892Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:16.3925296Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.11.17/x64
+2026-11-03T07:00:16.3925700Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.11.17/x64/lib
+2026-11-03T07:00:16.3926707Z   OPENAI_API_KEY: ***
+2026-11-03T07:00:16.3929304Z   AUTOBRIDGE_GITHUB_TOKEN: ***
+2026-11-03T07:00:16.3929804Z   AUTOBRIDGE_LIVE_APPROVAL_SHA256: ***
+2026-11-03T07:00:16.3930095Z   APPROVED_RUN_MODE: audit
+2026-11-03T07:00:16.3930342Z ##[endgroup]
+2026-11-03T07:00:16.8706968Z From https://github.com/xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:16.8707899Z  * branch              main       -> FETCH_HEAD
+2026-11-03T07:00:17.1729639Z Switched to a new branch 'main'
+2026-11-03T07:00:17.2917149Z From https://github.com/xysjou/AutoBridge-Content-Pipeline
+2026-11-03T07:00:17.2918134Z  * branch              main       -> FETCH_HEAD
+2026-11-03T07:01:16.6996250Z {"status": "STOPPED", "reason": "PROGRAM_CAP_EXCEEDED"}
+2026-11-03T07:01:16.7132073Z ##[error]Process completed with exit code 2.
+2026-11-03T07:01:16.7277795Z Post job cleanup.
+2026-11-03T07:01:16.8191473Z [command]/usr/bin/git version
+2026-11-03T07:01:16.8238971Z git version 2.56.0
+2026-11-03T07:01:16.8281796Z Temporarily overriding HOME='/home/runner/work/_temp/213173c7-6a32-4472-a8cf-fcc9737f3808' before making global git config changes
+2026-11-03T07:01:16.8283228Z Adding repository directory to the temporary git global config as a safe directory
+2026-11-03T07:01:16.8289132Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/AutoBridge-Content-Pipeline/AutoBridge-Content-Pipeline
+2026-11-03T07:01:16.8334548Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-11-03T07:01:16.8376594Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-11-03T07:01:16.8690254Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-11-03T07:01:16.8729985Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-11-03T07:01:16.9072248Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-11-03T07:01:16.9112199Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-11-03T07:01:16.9562292Z Cleaning up orphan processes
+2026-11-03T07:01:16.9972785Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@11d5960a326750d5838078e36cf38b85af677262, actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
