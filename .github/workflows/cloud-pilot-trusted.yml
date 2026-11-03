@@ -5,6 +5,13 @@ on:
       mode:
         type: string
         required: true
+    secrets:
+      OPENAI_API_KEY:
+        required: true
+      AUTOBRIDGE_CONTROL_COMMIT:
+        required: true
+      AUTOBRIDGE_LIVE_APPROVAL_SHA256:
+        required: true
 permissions:
   contents: read
 jobs:

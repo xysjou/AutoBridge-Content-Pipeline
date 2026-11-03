@@ -17,6 +17,10 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@52547c7f5075a667f47ecbf504b532a52e485ace
+    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@a418353233e0a66a3385897a8845857fc09d2d26
     with:
       mode: ${{ inputs.mode }}
+    secrets:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      AUTOBRIDGE_CONTROL_COMMIT: ${{ secrets.AUTOBRIDGE_CONTROL_COMMIT }}
+      AUTOBRIDGE_LIVE_APPROVAL_SHA256: ${{ secrets.AUTOBRIDGE_LIVE_APPROVAL_SHA256 }}
