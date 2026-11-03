@@ -119,7 +119,7 @@ def writing_request(research,version,prior=None,findings=None):
         prior_article=prior,independent_revision_findings=findings,
         required_output=dict(title='plain English value',meta='plain English value',h1='plain English value',summary='plain English value',
             sections='list of {text,claim_ids:[allowed fact IDs]}',faq='list of {question,answer,claim_ids}',
-            internal_links='list of verified relative URLs or empty',human_reviewed=False,publish_approved=False),
+            internal_links='empty list; this pilot has no approved current live-link record',human_reviewed=False,publish_approved=False),
         instruction='Write at least 900 English words, natural article-specific prose, evidence-bound claims and restrained uncertainty. Do not include self-evaluation or internal workflow terms. Never invent images or source URLs. Follow the canonical Writing Skill in full.')
     if applies(research['topic']):
         result['instruction']+=' Use the immutable Research completion commit '+research.get('completion',{}).get('commit_sha','MISSING')+' as the Writing factual baseline; the pre-research main SHA is provenance only.'
@@ -157,8 +157,7 @@ def check_writing(result,research,version,history,prior_bodies):
     numeric_reference=' '.join(f['statement']+' '+str(f['scope']) for f in research['fact_sheet']['facts'] if f['id'] in allowed)
     numbers=lambda text:set(re.findall(r'\b\d+(?:\.\d+)?\b',text))
     require(numbers(body+' '+a['title']+' '+a['meta']+' '+a['summary'])<=numbers(numeric_reference),'UNSUPPORTED_NUMERIC_CLAIM')
-    urls={e.get('url') for e in history['entries']}
-    require(all(u in urls and u.startswith('/') for u in a['internal_links']),'UNKNOWN_INTERNAL_LINK')
+    require(a['internal_links']==[],'UNVERIFIED_LIVE_INTERNAL_LINK')
     maximum=max((similarity(body,b) for b in prior_bodies),default=0)
     require(maximum<.70,'FULL_BODY_SIMILARITY_FAIL')
     packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=research['article_id'],version=version,locale='en',

@@ -62,6 +62,8 @@ def corpus(root=ROOT):
     return result
 
 def dedup_request(plan,root=ROOT,source_evidence=None):
+    from .live_site import load as live_site
+    site=live_site(root)
     docs=corpus(root)
     related=[]
     # Full texts explicitly requested by the independent intake review, in
@@ -86,12 +88,12 @@ def dedup_request(plan,root=ROOT,source_evidence=None):
         topics=[{k:a[k] for k in ('article_id','search_intent','buyer_task','topic_key')} for a in plan['articles']],
         retrieved_reference_evidence={aid:[{k:e.get(k) for k in ('source_id','source_title','text','scope','tier','requested_url','retrieved_at','raw_sha256','text_sha256')}
             for e in items] for aid,items in (source_evidence or {}).items()},
-        corpus_index=index,related_full_text=related,
+        corpus_index=index,related_full_text=related,current_live_site=site,
         coverage='Current batch versions plus unique English daily/delivery source articles. Localizations are represented by their English originals. No title-only pass is allowed.',
         required_output=dict(decision='PASS | OVERLAP | NEEDS_MORE_EVIDENCE',
-            articles='list of {article_id,decision:DISTINCT|OVERLAP|NEEDS_MORE_EVIDENCE,nearest_paths:[existing paths],reason}',
+            articles='list of {article_id,decision:DISTINCT|OVERLAP|NEEDS_MORE_EVIDENCE,nearest_paths:[existing repository paths or live URLs],reason}',
             additional_paths='list of paths requiring full text before a pass',human_reviewed=False,publish_approved=False),
-        instruction='Independently assess search intent and buyer decision, using the index AND the related full texts. '
+        instruction='Independently assess search intent and buyer decision, using the repository index/related full texts AND every full current live-site document. A live-site duplicate is an overlap even if absent from the repository. If current live coverage is insufficient, return NEEDS_MORE_EVIDENCE and identify missing URLs; never claim website-wide uniqueness from repository-only evidence. '
           'Do not approve because dates, titles or brand names differ. Q05 has an older 2024 PHEV reserve: distinguish it '
           'from the 2026 BEV without assuming all Q05 pages are unique. Refrigerated-truck procurement may overlap '
           'the existing Foton Aumark buyer guide; require a distinct acceptance-evidence decision scope. '
@@ -199,7 +201,7 @@ def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestati
     rows=d.get('articles',[])
     require(len(rows)==2 and {a['article_id'] for a in rows}==ids,'AUDIT_DEDUP_COVERAGE')
     require(all(a['decision'] in ('DISTINCT','OVERLAP','NEEDS_MORE_EVIDENCE') for a in rows),'AUDIT_DEDUP_DECISION')
-    known={a['path'] for a in packet['corpus_index']}
+    known={a['path'] for a in packet['corpus_index']}|{a['url'] for a in packet.get('current_live_site',{}).get('documents',[])}
     require(all(set(a.get('nearest_paths',[]))<=known for a in rows),'AUDIT_UNKNOWN_ARTICLE_REFERENCE')
     passed=c['decision']=='PASS' and d['decision']=='PASS' and all(a['decision']=='DISTINCT' for a in rows) and d.get('additional_paths')==[]
     report=dict(status='ACTIVATION_REVIEW_PASS' if passed else ('CODE_REVIEW_BLOCKED' if c['decision']!='PASS' else 'TOPIC_REVIEW_HOLD'),

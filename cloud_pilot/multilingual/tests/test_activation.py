@@ -116,3 +116,51 @@ class BudgetAmendmentTests(unittest.TestCase):
             with self.assertRaises(GateError):append(genesis('synthetic'),'bad',dict(p,**{key:value}))
 
 if __name__=='__main__':unittest.main()
+
+class LiveSiteTests(unittest.TestCase):
+    def fixture(self,root):
+        import hashlib
+        from datetime import datetime,timezone
+        from cloud_pilot.multilingual.live_site import FOLDER,BASE
+        p=root/FOLDER;p.mkdir(parents=True);stamp=datetime.now(timezone.utc).isoformat()
+        url=BASE+'/en/guides/live-only-acceptance.html';text='Existing refrigerated truck acceptance buyer decision. '*12
+        xml=('<urlset><url><loc>'+url+'</loc></url></urlset>').encode();(p/'sitemap.xml').write_bytes(xml)
+        docs=[dict(url=url,final_url=url,http_status=200,retrieved_at=stamp,title='Existing acceptance',text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),raw_sha256='synthetic')]
+        b=json.dumps(docs).encode();(p/'pages-00.json').write_bytes(b)
+        m=dict(schema='autobridge-live-English-corpus/1',target_site=BASE+'/',captured_at=stamp,sitemap_sha256=hashlib.sha256(xml).hexdigest(),urls=[url],index_pages={'guides':dict(links=['/en/guides/live-only-acceptance.html'])},chunks=[dict(path='pages-00.json',sha256=hashlib.sha256(b).hexdigest())])
+        (p/'manifest.json').write_text(json.dumps(m));return p,m
+    def test_live_site_staleness_coverage_and_mutation_hold(self):
+        from cloud_pilot.multilingual.live_site import load
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td);p,m=self.fixture(root);self.assertEqual(1,len(load(root)['documents']))
+            old=copy.deepcopy(m);m['captured_at']='2020-01-01T00:00:00+00:00';(p/'manifest.json').write_text(json.dumps(m))
+            with self.assertRaisesRegex(GateError,'STALE'):load(root)
+            m=copy.deepcopy(old);m['urls']=[];(p/'manifest.json').write_text(json.dumps(m))
+            with self.assertRaisesRegex(GateError,'INVENTORY_INCOMPLETE'):load(root)
+            (p/'manifest.json').write_text(json.dumps(old));(p/'pages-00.json').write_text('[]')
+            with self.assertRaisesRegex(GateError,'CONTENT_CHANGED'):load(root)
+    def test_live_only_duplicate_reaches_independent_gate(self):
+        from cloud_pilot.multilingual.live_site import load
+        from cloud_pilot.contract import digest
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td);self.fixture(root);site=load(root)
+        p=json.loads((ROOT/'cloud_pilot/runtime/trade-two-articles.plan.json').read_text())
+        url=site['documents'][0]['url']
+        class M:
+            def call(self,op,stage,data):
+                c=dict(decision='PASS',findings=[],human_reviewed=False,publish_approved=False)
+                if stage=='research':
+                    assert data['current_live_site']['documents'][0]['text']==site['documents'][0]['text']
+                    c.update(decision='OVERLAP',articles=[dict(article_id=a['article_id'],decision='OVERLAP' if i else 'DISTINCT',nearest_paths=[url] if i else []) for i,a in enumerate(p['articles'])],additional_paths=[])
+                return dict(content=c)
+        with patch('cloud_pilot.multilingual.live_site.load',return_value=site),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
+            result=run(p,'code',Journal(),M(),workflow_evidence={'test':True},scope_attestation={'test':True})
+        self.assertEqual('TOPIC_REVIEW_HOLD',result['status'])
+    def test_unverified_historical_and_unavailable_live_links_are_rejected(self):
+        from cloud_pilot.stage2_tests.test_live import packets,writer_result
+        from cloud_pilot.live.stages import check_writing
+        _,_,research,_=packets()
+        for url in ['/historical-draft-only/','/previously-live-now-unavailable/']:
+            r=writer_result(research);r['content']['internal_links']=[url]
+            with self.assertRaisesRegex(GateError,'UNVERIFIED_LIVE_INTERNAL_LINK'):
+                check_writing(r,research,1,{'entries':[{'url':url}],'documents':[]},[])

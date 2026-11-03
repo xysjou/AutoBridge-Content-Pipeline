@@ -21,7 +21,8 @@ def build_request(stage,data):
         canonical(load_rules(include_historical=data.get('stage') not in
             ('independent_candidate_code_review','independent_topic_dedup'))))
     return dict(model=model,reasoning=dict(effort=effort),store=False,service_tier='default',
-        max_output_tokens=(MAX_OUTPUT if data.get('stage') in ('independent_candidate_code_review','independent_topic_dedup') else EDITORIAL_MAX_OUTPUT),prompt_cache_options=dict(mode='implicit',ttl='30m'),
+        max_output_tokens=(MAX_OUTPUT if data.get('stage')=='independent_candidate_code_review' or
+            (data.get('stage')=='independent_topic_dedup' and not data.get('current_live_site')) else EDITORIAL_MAX_OUTPUT),prompt_cache_options=dict(mode='implicit',ttl='30m'),
         input=[dict(role='developer',content=instructions),dict(role='user',content=canonical(data))],
         text=dict(format=dict(type='json_object')),tools=[])
 
