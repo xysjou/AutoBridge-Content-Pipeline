@@ -14,7 +14,7 @@ test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tes
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
 test_genuine_topic_receipt_reuses_only_a_technical_baseline_change (test_activation.Tests.test_genuine_topic_receipt_reuses_only_a_technical_baseline_change) ... ok
 test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
-test_unknown_formal_generation_remains_blocked_with_exact_variant_required (test_editorial_controls.ConditionalGenerationTests.test_unknown_formal_generation_remains_blocked_with_exact_variant_required) ... ok
+test_bev_reference_placeholder_cannot_authorize_parameters_without_generation (test_editorial_controls.ConditionalGenerationTests.test_bev_reference_placeholder_cannot_authorize_parameters_without_generation) ... ok
 test_active_quantitative_fact_without_value_or_unit_stops_research (test_editorial_controls.Tests.test_active_quantitative_fact_without_value_or_unit_stops_research) ... ok
 test_active_standard_classification_requires_current_fields_for_both_article_types (test_editorial_controls.Tests.test_active_standard_classification_requires_current_fields_for_both_article_types) ... ok
 test_alternate_regulation_citations_and_unrelated_primary_source_fail (test_editorial_controls.Tests.test_alternate_regulation_citations_and_unrelated_primary_source_fail) ... ok
@@ -93,6 +93,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 93 tests in 28.061s
+Ran 93 tests in 19.250s
 
 OK

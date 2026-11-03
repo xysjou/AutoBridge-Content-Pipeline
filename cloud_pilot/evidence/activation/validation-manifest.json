@@ -35,13 +35,13 @@
     "cloud_pilot/multilingual/localize.py": "dbcf4d87e1a08e2bf1b728a8b7a73b44e1f0e0fe827db231e8790d1cdeb8942e",
     "cloud_pilot/multilingual/pricing.py": "ad2b05a695043d99026dd8bc59ea4fb52a801172c61015a10a3c6be39dc8d1a4",
     "cloud_pilot/multilingual/publication.py": "a330dc4676168961c4d3387f4db70cdec1127fc4abd0be080bfb34bb0a799f17",
-    "cloud_pilot/multilingual/research_contract.py": "5e5294d2b32e2280ad9c634f706522515638e6e9ea3c3b8082e246d888d20454",
+    "cloud_pilot/multilingual/research_contract.py": "481b985f7676482e57f9a02e08e52fa25d44a4c3d3def8bf616d4bea1026aee4",
     "cloud_pilot/multilingual/research_records.py": "1fde30255f5db1257b590052b7f4ce5929de5f2cb4a668f60e59c2e1c0ba8b1f",
     "cloud_pilot/multilingual/source_cache.py": "7dca70c92e97004b42e2785afb5848b13a20355c4f19caa4063cb159cb882e7e",
     "cloud_pilot/multilingual/sources.py": "3b8c5abb48477f5c7009bc15e1d860866e38fd1b4e1d88242d3f56b6065f9604",
     "cloud_pilot/multilingual/startup.py": "c904b509392f67e55dbec07fd5cbfad9c30673473f0ba2fe77a1d5cb0b4fa35e",
     "cloud_pilot/multilingual/tests/test_activation.py": "f1d950f4232cd1c911bbee39c10a7c041d00648a13c1b62c38da9b30d217eb14",
-    "cloud_pilot/multilingual/tests/test_editorial_controls.py": "288fccf430ec85e7917a605738e59a1fece64e4bf2a7197047d2c7b9da52696b",
+    "cloud_pilot/multilingual/tests/test_editorial_controls.py": "3208e0fbf91c8d9803d45e58459f1bd1f8c6900322b9d9cc7ee8820491d8ac42",
     "cloud_pilot/multilingual/tests/test_multilingual.py": "63c92e7bda6f434b4176623e8114ea6ae43e72bf6ff08fd47352be4bbf301c96",
     "cloud_pilot/multilingual/tests/test_publication.py": "2bc105d5351057220a8bba5e3d6d350ced8737896e77c82cefcdd86f7bcc333f",
     "cloud_pilot/multilingual/tests/test_recovery.py": "3f7b6d30a47f43f5b140f677851d130dae21e2a54030b93e991942e8b5cfb494",
@@ -59,9 +59,9 @@
     "cloud_pilot/multilingual/similarity.py": "a05600ed2ecdbdbf4b1137f7a5d44892089573289ad04ec14b2cd94518b332f3"
   },
   "test_logs": {
-    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "be026a0b3ec97fc2d6c2924c621111af0b7345cac4c67aadc725f94ba7911484",
-    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "6e0a307bd4f26ced0d0a9032d6e261a499efd3d7fc4018a42c51f378b52c83b2",
-    "cloud_pilot/evidence/activation/current-m1-tests.txt": "5275e595ffce755feb511ce36250501fdc160d5edeefcffd9c43ab2fe799a8e1"
+    "cloud_pilot/evidence/activation/current-multilingual-tests.txt": "ae3efe870e0c3b49f7eb0a6fd03c545148a4ccd562ca01812d1fc3e9a5f78a1e",
+    "cloud_pilot/evidence/activation/current-stage2-tests.txt": "3f5b0daf9559aec74787dfea899b0d10f750cb4a9d53e7da74c26863278972a1",
+    "cloud_pilot/evidence/activation/current-m1-tests.txt": "c236b5ea54d080d31f8b7ad03e71a9cb10199823c830121e45770cc13ba840fe"
   },
   "method": "All three offline unittest suites passed against the exact source bytes in this manifest; commit SHA is assigned after creating the validated tree."
 }
