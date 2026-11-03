@@ -13,3 +13,11 @@ integration 调用入口提交：849464a2d623c8045bf513950cfdc8054fe3bd05。
 当前累计：3 次已完成模型请求，按返回 usage 计算 USD 0.259886425；总上限仍为 USD 3。两篇 API 英文稿 0，12 语种 API 稿 0。既有去重 PASS 保留；上一代码版本独立复审为 BLOCK，新修复版本尚未复审。网站未发布。
 
 恢复顺序：完成安全身份确认 → 核实代码绑定保存 → 为实际新运行编号生成新 control/permit，锚定当前完整账本并刷新价格/到期时间 → 在受保护环境保存控制提交号与许可指纹 → 核对准确调用/受保护工作流后正常审批 → 先预抓取来源和代码复审 → 两篇英文 Research/Writing/独立 Review → 完整 12 语种审核和 Markdown 交付。已完成请求、去重和费用记录必须复用，不清零账本、不盲目重发。
+
+
+2026-11-03 恢复执行记录：
+
+- 已再次通过连接器核对 integration 为 849464a2d623c8045bf513950cfdc8054fe3bd05；共享账本仍为 14 个事件、3 次已完成付费模型请求、USD 0.259886425，无新增生成。
+- 浏览器已退出登录。安全登录请求提交后进入 GitHub 邮件 Device verification；设备验证提交返回 submission_failed，页面显示 “Your browser did something unexpected. Please try again.”，未出现已登录成功证据。按安全登录指引停止自动重试；不将该通用错误认定为验证码错误或机器人封锁。
+- 连接器不具备 Actions dispatch、环境 Secret 或 Actions variable 设置能力；目前无法启动这次所需的受保护新运行。未修改 API Key、环境保护、许可指纹或代码绑定变量，也未发起新付费请求。
+- 修复代码 a5556a0a2307eb54595f12b1bc84748a5e998ccd 继续待真实在线复审。API 英文稿 0，API 多语种稿 0。不能用旧聊天草稿替代真实 API 交付。
