@@ -29,6 +29,12 @@ def skill_provenance(name,ref='HEAD'):
                 checkout_sha=git('rev-parse','HEAD'),content_hash=file_hash(ROOT/path))
 
 def verify(main_sha,plan):
+    # Perform the prescribed synchronization, then reject any live main drift.
+    # This runs before application credentials are read; no generation follows
+    # a pull that changes the approved revision.
+    git('fetch','origin','main')
+    git('checkout','-B','main',main_sha)
+    git('pull','--ff-only','origin','main')
     require(subprocess.run(['git','merge-base','--is-ancestor',main_sha,'HEAD'],cwd=ROOT).returncode==0,
             'EXECUTION_DOES_NOT_CONTAIN_APPROVED_MAIN')
     head=git('rev-parse','HEAD');origin=git('rev-parse','refs/remotes/origin/main')
@@ -43,6 +49,7 @@ def verify(main_sha,plan):
     # Current batch evidence starts with the approved manifest; Research supplies fresh fact/source handoffs.
     return dict(approved_main_sha=main_sha,execution_sha=git('rev-parse','HEAD'),
         startup_gate=dict(REPO_HEAD_SHA=head,ORIGIN_MAIN_HEAD=origin,
+            main_sync_commands=['git fetch origin main','git checkout -B main '+main_sha,'git pull --ff-only origin main'],
             LESSONS_LEARNED_SHA=git('rev-parse','HEAD:LESSONS_LEARNED.md'),
             LESSONS_LEARNED_COMMIT=git('log','-1','--format=%H','HEAD','--','LESSONS_LEARNED.md'),
             LESSONS_READ_AT=datetime.now(timezone.utc).isoformat(),

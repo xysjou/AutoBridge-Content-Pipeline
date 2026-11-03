@@ -1,5 +1,6 @@
 """Sequential durable pipeline; separate stateless model requests per responsibility."""
 from datetime import datetime
+from contextlib import nullcontext
 from ..contract import digest, require
 from .policy import BRANCH, timestamp, now
 from .stages import (validate_plan,research_request,check_research,writing_request,
@@ -74,7 +75,8 @@ class Engine:
             except Exception:
                 self.journal.halt(aid,'source',1,'SOURCE_FAILED_NO_WRITING');raise
             research=self.cached('research:'+aid)
-            if research is None:
+            proposal=self.cached('research-proposal:'+aid) if active else None
+            if research is None and proposal is None:
                 from ..multilingual.research_contract import applies
                 expected_version=1;data=research_request(topic,evidence)
                 if applies(topic):
@@ -83,24 +85,45 @@ class Engine:
                     data['instruction']+=' Set fact_sheet_version and source_log_version to '+str(expected_version)+'. This durable current Research version overrides the initial output-schema example.'
                 response=self.models.call(aid+':research','research',data)
                 try:research=check_research(response,topic,evidence,expected_version)
-                except Exception:
+                except Exception as error:
+                    if active:
+                        from ..multilingual.publication import persist_failed_research
+                        failed=persist_failed_research(self.github,response,topic,evidence,started,error)
+                        self.journal.checkpoint('failed-research:'+aid,failed)
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
                 if active:
                     editorial.assert_research(started)
                     from ..multilingual.publication import seal_research
-                    research=seal_research(self.github,research,started)
-                self.journal.checkpoint('research:'+aid,research)
-            require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
+                    proposal=seal_research(self.github,research,started)
+                    self.journal.checkpoint('research-proposal:'+aid,proposal)
+                    research=None
+                else:self.journal.checkpoint('research:'+aid,research)
             from ..multilingual.research_contract import applies,request as research_review_request,accept
             if applies(topic):
-                from ..multilingual.publication import verify_research
+                from ..multilingual.publication import verify_research,complete_research,persist_failed_research
+                if research is None:
+                    verify_research(self.github,proposal)
+                    require(proposal['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
+                    review_key='research-acceptance:'+proposal['research_hash']
+                    accepted=self.cached(review_key)
+                    if accepted is None:
+                        editorial.assert_research(proposal['research_start'])
+                        checked=self.models.call(aid+':research-review','review',research_review_request(proposal))
+                        editorial.assert_research(proposal['research_start'])
+                        try:accepted=accept(checked,proposal)
+                        except Exception as error:
+                            failed=persist_failed_research(self.github,dict(content=proposal['fact_sheet'],independent_review=checked),
+                                topic,evidence,proposal['research_start'],error)
+                            self.journal.checkpoint('failed-research:'+aid,failed)
+                            raise
+                        self.journal.checkpoint(review_key,accepted)
+                    editorial.assert_research(proposal['research_start'])
+                    research=complete_research(self.github,proposal,accepted)
+                    self.journal.checkpoint('research:'+aid,research)
                 verify_research(self.github,research)
-                review_key='research-acceptance:'+research['research_hash']
-                if self.cached(review_key) is None:
-                    checked=self.models.call(aid+':research-review','review',research_review_request(research))
-                    self.journal.checkpoint(review_key,accept(checked,research))
                 from ..multilingual.editorial_state import EditorialState
                 editorial=EditorialState(self.journal);editorial.lock(research)
+            require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions
                 self.guard()
@@ -114,19 +137,23 @@ class Engine:
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
                 if article is None:
-                    response=self.models.call(key+':writing','writing',writing_request(research,version,prior_article,findings))
-                    try:article=check_writing(response,research,version,self.history,prior)
-                    except Exception:
-                        self.journal.halt(aid,'writing',version,'WRITING_VALIDATION_FAILED');raise
-                    self.journal.checkpoint('article:'+key,article)
+                    with editorial.model_stage(research,key+':writing') if active else nullcontext():
+                        response=self.models.call(key+':writing','writing',writing_request(research,version,prior_article,findings))
+                        if active:editorial.check(research)
+                        try:article=check_writing(response,research,version,self.history,prior)
+                        except Exception:
+                            self.journal.halt(aid,'writing',version,'WRITING_VALIDATION_FAILED');raise
+                        self.journal.checkpoint('article:'+key,article)
                 require(article['research_hash']==research['research_hash'],'WRITER_RESEARCH_DRIFT')
                 review=self.cached('review:'+key)
                 if review is None:
-                    response=self.models.call(key+':review','review',review_request(article,research))
-                    try:review=check_review(response,article,research)
-                    except Exception:
-                        self.journal.halt(aid,'review',version,'INDEPENDENT_REVIEW_INVALID');raise
-                    self.journal.checkpoint('review:'+key,review)
+                    with editorial.model_stage(research,key+':review') if active else nullcontext():
+                        response=self.models.call(key+':review','review',review_request(article,research))
+                        if active:editorial.check(research)
+                        try:review=check_review(response,article,research)
+                        except Exception:
+                            self.journal.halt(aid,'review',version,'INDEPENDENT_REVIEW_INVALID');raise
+                        self.journal.checkpoint('review:'+key,review)
                 require(review['content_hash']==article['content_hash'],'STALE_REVIEW')
                 verdict=review['verdict']['decision']
                 if verdict=='REVIEW_PASS':

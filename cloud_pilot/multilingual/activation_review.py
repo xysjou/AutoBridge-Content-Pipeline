@@ -15,6 +15,7 @@ def code_paths(root=ROOT):
         'cloud_pilot/multilingual/tests/test_editorial_controls.py',
         'cloud_pilot/multilingual/tests/test_activation.py',
         'cloud_pilot/multilingual/tests/test_multilingual.py',
+        'cloud_pilot/multilingual/tests/test_publication.py',
         'cloud_pilot/stage2_tests/test_live.py']
 
 def intake(plan):
@@ -126,6 +127,7 @@ def code_request(plan,sha,root=ROOT,workflow_evidence=None,scope_attestation=Non
             'generation on resume, independent locale review, SSRF, source failures, and truthful delivery status. '
             'Trace the combined proposal-validation and mandatory independent fact-review path: lexical checks are early rejection, not semantic entailment. The independent reviewer must classify EVERY allowed fact by meaning regardless of Research labels; its per-fact classifications enforce core-spec tiers and vehicle applicability, same-vehicle identity context, and exclusion of all regulatory obligations from this two-topic pilot. No Writing call may precede that accepted review. '
             'Actual execute acquires Research locks before source refresh/transfer; audit-only source inspection does not produce or activate a Research handoff. Research heads and readiness are CAS-atomic in one state, pending starts are monotonically fenced, and publication briefly blocks Research mutations in the same CAS-protected ledger. Canonical Fact Sheet/Source Log/handoff files are pushed under daily Research paths and read from the actual completion commit before Writing; English and locale reader outputs use allowed articles/QA/deliveries paths. The operational ledger and historical raw archive are infrastructure copies, not editorial baselines. Locale texts are all reviewed before one fenced atomic Git commit exposes the whole delivery batch. Immutable historical drafts remain historical; only the current Research head can authorize a new delivery. Source transfers must be independently reconstructed from all raw blobs and match the operator-approved target digest even when cached. '
+            'Trace locked proposal versus independently accepted completion, canonical FAIL persistence, model-stage fences and immediate post-response checks, and protected permit publication_recovery abort before evidence validation. An abort verifies partial draft files, closes open draft PRs, persists canonical invalidation, marks old research UPDATE_REQUIRED and only then releases the fence; it never permits stale content to continue. Startup performs fetch/checkout/pull before verifying actual main identifiers and reading application credentials. '
             'Return BLOCK for a correctness or safety problem that prevents a real English pilot. '
             'Known disclosed limitations (manual source intake, no website deployment, missing image rights, '
             'conservative cap potentially stopping early) are not proof of implementation success or reason '

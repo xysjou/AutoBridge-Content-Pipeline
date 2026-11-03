@@ -111,6 +111,10 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     binding=dict(code_sha=sha,intake_hash=intake_hash(plan),rules=plan['rules'],
                  current_context_hash=digest(startup['read_files']),history_hash=plan['history_hash'])
     scoped=EpochJournal(journal,plan.get('evidence_revision',1),binding)
+    if permit.get('publication_recovery'):
+        require(not audit_only,'RECOVERY_EXECUTE_ONLY')
+        from .publication import recover_publication
+        recover_publication(github,scoped,permit['publication_recovery'])
     if not audit_only:
         # Source inspection for candidate audit is read-only pre-Research work.
         # Actual execution acquires Research fences before any refresh/transfer.

@@ -149,9 +149,10 @@ class Tests(unittest.TestCase):
 
     def test_descendant_checkout_is_not_the_current_main_startup_gate(self):
         from cloud_pilot.multilingual.startup import verify
-        with patch('cloud_pilot.multilingual.startup.subprocess.run') as run,patch('cloud_pilot.multilingual.startup.git',side_effect=['descendant','main']):
+        with patch('cloud_pilot.multilingual.startup.subprocess.run') as run,patch('cloud_pilot.multilingual.startup.git',side_effect=['','','','descendant','main']) as git:
             run.return_value.returncode=0
             with self.assertRaisesRegex(GateError,'PRE_RESEARCH_SYNC_FAIL'):verify('main',{})
+            self.assertEqual(('pull','--ff-only','origin','main'),git.call_args_list[2].args)
 
     def test_active_standard_classification_requires_current_fields_for_both_article_types(self):
         for kind in ('VEHICLE_RECOMMENDATION','BUYING_GUIDE'):

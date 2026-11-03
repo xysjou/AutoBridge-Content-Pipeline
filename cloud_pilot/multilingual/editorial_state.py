@@ -6,6 +6,7 @@ fence can become ready. Publication briefly defers Research mutations until its
 immutable draft transaction is confirmed or resumed by the same owner.
 """
 import copy
+from contextlib import contextmanager
 from ..contract import digest,require
 from ..live.ledger import append
 
@@ -102,6 +103,30 @@ class EditorialState:
         def change(state):
             if state['publication'] is None and token['fence'] in state['released']:return
             require(state['publication']==token,'PUBLICATION_FENCE_CHANGED')
+            state['publication']=None;state['released'].append(token['fence'])
+        self.mutate(change)
+
+    @contextmanager
+    def model_stage(self,research,owner):
+        # The same atomic guard fences stage starts and holds Research updates
+        # until the returned response has been checked and checkpointed.
+        token=self.begin_publication([research],'model:'+owner)
+        try:
+            self.check(research)
+            yield
+            self.check(research)
+        finally:self.end_publication(token)
+
+    def abort_publication(self,token,proof):
+        require(proof.get('fence')==token['fence'] and proof.get('status')=='VERIFIED_INVALIDATED',
+                'PUBLICATION_ABORT_PROOF_REQUIRED')
+        def change(state):
+            require(state['publication']==token,'PUBLICATION_FENCE_CHANGED')
+            for aid,old_hash in token['targets'].items():
+                a=self.article(state,aid)
+                a['updates'].append(dict(article_id=aid,status='UPDATE_REQUIRED',old_hash=old_hash,
+                    reason='OPERATOR_ABORTED_DELIVERY',proof_hash=digest(proof)))
+            state.setdefault('aborts',[]).append(proof)
             state['publication']=None;state['released'].append(token['fence'])
         self.mutate(change)
 

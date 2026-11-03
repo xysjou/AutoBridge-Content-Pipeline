@@ -34,6 +34,10 @@ test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.te
 test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
 test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
 test_engine_locks_before_source_collection_and_keeps_lock_on_failure (test_publication.Tests.test_engine_locks_before_source_collection_and_keeps_lock_on_failure) ... ok
+test_expired_evidence_abort_releases_fence_only_after_durable_invalidation (test_publication.Tests.test_expired_evidence_abort_releases_fence_only_after_durable_invalidation) ... ok
+test_failed_nonready_research_keeps_canonical_sources_and_blocked_facts (test_publication.Tests.test_failed_nonready_research_keeps_canonical_sources_and_blocked_facts) ... ok
+test_live_english_fences_writing_and_review_starts (test_publication.Tests.test_live_english_fences_writing_and_review_starts) ... ok
+test_live_localizer_fences_both_paid_stages_against_research (test_publication.Tests.test_live_localizer_fences_both_paid_stages_against_research) ... ok
 test_new_research_attempt_supersedes_pending_fence_monotonically (test_publication.Tests.test_new_research_attempt_supersedes_pending_fence_monotonically) ... ok
 test_pushed_research_has_canonical_files_and_actual_commit_baseline (test_publication.Tests.test_pushed_research_has_canonical_files_and_actual_commit_baseline) ... ok
 test_research_cannot_interleave_with_publication_and_release_is_idempotent (test_publication.Tests.test_research_cannot_interleave_with_publication_and_release_is_idempotent) ... ok
@@ -63,6 +67,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 63 tests in 15.629s
+Ran 67 tests in 17.259s
 
 OK

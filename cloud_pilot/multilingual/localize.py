@@ -1,5 +1,6 @@
 """Full-text localization with independent evidence-bound review and durable retries."""
 import copy
+from contextlib import nullcontext
 import re
 from datetime import datetime
 from ..live.policy import now
@@ -129,6 +130,9 @@ class Localizer:
     def __init__(self,models,journal):self.models,self.journal=models,journal
 
     def run(self,base,research,locale):
+        from .research_contract import applies
+        from .editorial_state import EditorialState
+        active=applies(research.get('topic',{}));editorial=EditorialState(self.journal) if active else None
         require(base['content_hash']==digest({k:v for k,v in base.items() if k!='content_hash'}),'BASE_ARTICLE_CHANGED')
         previous=findings=None
         # Bind checkpoint namespace to the approved English hash, not a mutable title.
@@ -137,18 +141,22 @@ class Localizer:
             key=prefix+':v'+str(version)
             article=self.journal.get_checkpoint(key+':article')
             if article is None:
-                result=self.models.call(key+':translate','writing',request(base,research,locale,version,previous,findings))
-                article=validate(result,base,locale,version)
-                self.journal.checkpoint(key+':article',article)
+                with editorial.model_stage(research,key+':translate') if active else nullcontext():
+                    result=self.models.call(key+':translate','writing',request(base,research,locale,version,previous,findings))
+                    if active:editorial.check(research)
+                    article=validate(result,base,locale,version)
+                    self.journal.checkpoint(key+':article',article)
             require(article['base_content_hash']==base['content_hash'] and article['locale']==locale,'CACHED_LOCALE_DRIFT')
             require(article['content_hash']==digest({k:v for k,v in article.items() if k!='content_hash'}),'CACHED_LOCALE_HASH')
             review=self.journal.get_checkpoint(key+':review')
             if review is None:
-                result=self.models.call(key+':review','review',review_request(article,base,research))
-                review=validate_review(result,article,base)
-                review['rendered_hash']=digest(markdown(article,research,research['topic'],public_only=True))
-                review['review_hash']=digest({k:v for k,v in review.items() if k!='review_hash'})
-                self.journal.checkpoint(key+':review',review)
+                with editorial.model_stage(research,key+':review') if active else nullcontext():
+                    result=self.models.call(key+':review','review',review_request(article,base,research))
+                    if active:editorial.check(research)
+                    review=validate_review(result,article,base)
+                    review['rendered_hash']=digest(markdown(article,research,research['topic'],public_only=True))
+                    review['review_hash']=digest({k:v for k,v in review.items() if k!='review_hash'})
+                    self.journal.checkpoint(key+':review',review)
             require(review['content_hash']==article['content_hash'],'CACHED_REVIEW_DRIFT')
             verdict=review['verdict']['decision']
             if verdict=='REVIEW_PASS':return dict(article=article,review=review)
