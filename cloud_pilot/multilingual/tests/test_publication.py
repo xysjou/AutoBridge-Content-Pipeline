@@ -377,3 +377,25 @@ class Tests(unittest.TestCase):
         with self.assertRaisesRegex(GateError,'CANONICAL_QA_PATH'):gh.put_canonical_qa('daily/2026-11-03/articles/arbitrary.json',b'{}')
         with self.assertRaisesRegex(GateError,'UPDATE_REQUIRED'):s.check(r)
         self.assertEqual(2,s.begin(r['article_id'],'fresh-source-epoch')['version'])
+
+class IndependentArticleHoldTests(unittest.TestCase):
+    def test_withheld_topic_does_not_block_other_research_or_allow_batch_completion(self):
+        topic,ev,response=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+        response['content']['handoff']['research_baseline_sha']='a'*40
+        response['content'].update(status='RESEARCH_CONDITIONAL',writing_ai_ready=False)
+        p=plan();second=copy.deepcopy(topic);second['article_id']=p['articles'][1]['article_id'];second['topic_key']=p['articles'][1]['topic_key'];second.update({k:p['articles'][1][k] for k in ('search_intent','buyer_task','proposed_url')});p['articles']=[topic,second]
+        j=ResponseJournal(ArtifactStore());gh=GitMemory();calls=[]
+        class Models:
+            def call(self,operation,stage,data):
+                assert stage=='research','Withheld research must never reach Writing'
+                aid=data['topic']['article_id'];calls.append(aid);r=copy.deepcopy(response)
+                r['content']['handoff'].update({k:data['topic'][k] for k in ('article_id','search_intent','buyer_task')})
+                return r
+        engine=Engine(p,history(),j,Models(),gh,None)
+        with patch.object(engine,'evidence',return_value=ev):
+            with self.assertRaisesRegex(GateError,'BATCH_RESEARCH_WITHHELD'):engine.run()
+        self.assertEqual([topic['article_id'],second['article_id']],calls)
+        self.assertIsNone(j.get_checkpoint('final:'+topic['article_id']))
+        with patch.object(engine,'evidence',side_effect=AssertionError('cached hold must not resend')):
+            with self.assertRaisesRegex(GateError,'BATCH_RESEARCH_WITHHELD'):engine.run()
+        self.assertEqual(2,len(calls))

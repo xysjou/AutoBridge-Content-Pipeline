@@ -82,6 +82,10 @@ def fetch(source,allowed):
            if source['source_id']==e['source_id'] and source['scope']==e['scope'])
     return e,e['text'].encode()
 
+# These fixtures contain invented test articles. Repository similarity is tested
+# with real temporary corpora in LocaleSimilarityTests; batch-to-batch checks
+# remain active here through prior_bodies.
+@patch('cloud_pilot.multilingual.similarity.corpus',lambda *args,**kwargs:[])
 class Tests(unittest.TestCase):
     def setUp(self):
         self.net=patch.object(socket.socket,'connect',side_effect=AssertionError('NETWORK_FORBIDDEN'))

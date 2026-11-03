@@ -219,3 +219,15 @@ class Tests(unittest.TestCase):
                 handoff_assessment([dict(path='old.json',applicable=True,reason='only old',superseded_by=None)])
 
 if __name__=='__main__':unittest.main()
+
+class ConditionalGenerationTests(unittest.TestCase):
+    def test_unknown_formal_generation_remains_blocked_with_exact_variant_required(self):
+        from cloud_pilot.multilingual.research_contract import validate
+        topic,ev,response=active_case('VEHICLE_RECOMMENDATION');r=response['content'];r['status']='RESEARCH_CONDITIONAL'
+        fid='I_generation';r['allowed_facts'].remove(fid);r['blocked_facts'].append(fid);r['handoff']['facts_not_allowed_in_body'].append(fid)
+        r['fact_boundary']['generation'].update(value='UNVERIFIED',confidence='UNVERIFIED',source_ids=[])
+        validate(r,topic,ev)
+        r['allowed_facts'].append(fid)
+        with self.assertRaisesRegex(GateError,'MUST_BE_BLOCKED'):validate(r,topic,ev)
+        r['allowed_facts'].remove(fid);r['fact_boundary']['model']['confidence']='UNVERIFIED'
+        with self.assertRaisesRegex(GateError,'CORE_IDENTITY_UNRESOLVED:model'):validate(r,topic,ev)

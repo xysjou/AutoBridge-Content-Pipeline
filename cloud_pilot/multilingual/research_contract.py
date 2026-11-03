@@ -45,6 +45,8 @@ def extend_request(payload):
     payload['instruction']+=' Each identity boundary value must be a literal source-language value appearing in each supporting quotation; keep Chinese source values in the internal identity object and translate their meaning only in English prose. Only T1 or T2 evidence may establish core vehicle identity/specifications; two T3 organizations do not establish a core specification. Independently classify standards/regulatory claims regardless of kind, including short citations and mandatory claims disguised as methods; UNCERTAIN cannot enter allowed_facts. Do not call an ordinary buyer recommendation a law or standard.'
     payload['instruction']+=' Set scope_match exactly to (scope_status == MATCHED). CONTEXT_ONLY means scope_match=false and official_source=false; it may support only accurately scoped contextual facts, never a VERIFIED fact about the reference vehicle.'
     payload['instruction']+=' For a vehicle recommendation, fact_boundary is directly the object with the ten identity keys; do not wrap it in a vehicle key. Every identity supporting fact must explicitly include identity_field. Sources credited for core identity or specifications must be MATCHED, never CONTEXT_ONLY.'
+    payload['instruction']+=' A formal generation name or number is not required to make this exact-trim shortlist decision when model, model year, trim, body style, BEV powertrain, drivetrain and reference market are directly established at the exact reference scope. If the formal generation is unproven, retain generation as UNVERIFIED, block its fact ID from prose and use RESEARCH_CONDITIONAL; never invent a generation, conflate the older PHEV, or treat a powertrain label as a generation name. Current stock, charging compatibility, service coverage, export eligibility and prices may only be seller-verification questions when unproven, not affirmative claims. Set writing_ai_ready=true only if the buyer task can actually be answered within these exclusions; independent factual acceptance remains mandatory.'
+    payload['instruction']+=' The handoff locks field is a list of runtime fences, not identity metadata: return locks=[] and research_locked=false, writing_locked=false, fact_update_required=false; the engine applies proposal locks itself. Each identity field needs its own supporting fact and identity_field, even when two fields share a quotation. The numeric provenance schema treats digit-bearing identifiers and year labels as numeric references: supply quantitative=true, value equal to the literal source label and unit="model identifier" or "model-year label" as appropriate; do not turn them into measured vehicle quantities. All boundary source values must literally occur in their supporting quotes; do not use the approved CN scope label as quoted proof of original sales market.'
     return payload
 
 def impact_check(impact):
@@ -90,8 +92,10 @@ def validate(r,topic,evidence,expected_version=1):
         for k,v in boundary.items():
             require(v.get('value') and isinstance(v.get('source_ids'),list),'VEHICLE_IDENTITY_EMPTY:'+k)
             require(set(v['source_ids'])<=sources.keys(),'VEHICLE_IDENTITY_UNKNOWN_SOURCE')
-            if k=='production_boundary' and v.get('confidence')=='UNVERIFIED':
-                require(r['status']=='RESEARCH_CONDITIONAL' and r['blocked_facts'],'PRODUCTION_BOUNDARY_MUST_BE_BLOCKED')
+            if k in ('production_boundary','generation') and v.get('confidence')=='UNVERIFIED':
+                require(r['status']=='RESEARCH_CONDITIONAL' and v.get('fact_ids')
+                        and set(v['fact_ids'])<=set(r['blocked_facts'])
+                        and not set(v['fact_ids'])&allowed,'UNVERIFIED_BOUNDARY_MUST_BE_BLOCKED')
             else:
                 require(v.get('confidence') in ('VERIFIED','CROSS_CHECKED','SINGLE_SOURCE','TIME_SENSITIVE') and v['source_ids'],'CORE_IDENTITY_UNRESOLVED:'+k)
                 ids=v.get('fact_ids',[])

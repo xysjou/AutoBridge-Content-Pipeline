@@ -68,11 +68,25 @@ class Engine:
     def run(self):
         from ..multilingual.research_contract import applies
         from ..multilingual.editorial_state import EditorialState
-        deliveries=[];prior=list(self.prior_bodies)
+        deliveries=[];prior=list(self.prior_bodies);withheld_articles=[]
         for topic in self.plan['articles']:
             self.guard()
             aid=topic['article_id']
             active=applies(topic);editorial=EditorialState(self.journal) if active else None
+            withheld=self.cached('withheld-research:'+aid) if active else None
+            if withheld is not None:
+                from ..multilingual.publication import verify_research
+                verify_research(self.github,withheld)
+                require(withheld['fact_sheet']['writing_ai_ready'] is False,'WITHHELD_RESEARCH_READINESS_DRIFT')
+                withheld_articles.append(aid)
+                continue
+            # A partial batch must not invalidate an accepted head from another
+            # epoch merely to retry its sibling. Fresh independent topics can
+            # still proceed; cross-epoch accepted work remains untouched.
+            if active and withheld_articles and self.cached('research:'+aid) is None:
+                previous=editorial.snapshot()['articles'].get(aid,{})
+                if previous.get('head') is not None and previous.get('research_lock') is None:
+                    continue
             started=None
             if active and self.cached('research:'+aid) is None:
                 started=editorial.begin(aid,getattr(self.journal,'prefix','')+':'+aid)
@@ -140,7 +154,8 @@ class Engine:
                         self.journal.checkpoint('withheld-research:'+aid,withheld)
                         self.sync_manifest()
                         self.journal.halt(aid,'research',expected_version,'RESEARCH_VERDICT_NOT_WRITING_READY')
-                        require(False,'RESEARCH_VERDICT_NOT_WRITING_READY')
+                        withheld_articles.append(aid)
+                        continue
                     proposal=seal_research(self.github,research,started)
                     self.journal.checkpoint('research-proposal:'+aid,proposal)
                     self.sync_manifest()
@@ -239,4 +254,5 @@ class Engine:
                     self.journal.halt(aid,'review',version,'MAX_TWO_REVISIONS_EXHAUSTED')
                     require(False,'MAX_TWO_REVISIONS_EXHAUSTED')
                 prior_article,findings=article,review['verdict']['findings']
+        require(not withheld_articles,'BATCH_RESEARCH_WITHHELD:'+','.join(withheld_articles))
         return deliveries

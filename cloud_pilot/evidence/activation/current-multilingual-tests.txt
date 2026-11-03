@@ -14,6 +14,7 @@ test_code_block_still_collects_topic_review_but_cannot_pass (test_activation.Tes
 test_current_pointer_excludes_old_version (test_activation.Tests.test_current_pointer_excludes_old_version) ... ok
 test_genuine_topic_receipt_reuses_only_a_technical_baseline_change (test_activation.Tests.test_genuine_topic_receipt_reuses_only_a_technical_baseline_change) ... ok
 test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_grants_dedup_pass) ... ok
+test_unknown_formal_generation_remains_blocked_with_exact_variant_required (test_editorial_controls.ConditionalGenerationTests.test_unknown_formal_generation_remains_blocked_with_exact_variant_required) ... ok
 test_active_quantitative_fact_without_value_or_unit_stops_research (test_editorial_controls.Tests.test_active_quantitative_fact_without_value_or_unit_stops_research) ... ok
 test_active_standard_classification_requires_current_fields_for_both_article_types (test_editorial_controls.Tests.test_active_standard_classification_requires_current_fields_for_both_article_types) ... ok
 test_alternate_regulation_citations_and_unrelated_primary_source_fail (test_editorial_controls.Tests.test_alternate_regulation_citations_and_unrelated_primary_source_fail) ... ok
@@ -46,6 +47,7 @@ test_real_execute_disabled_before_application_key_read (test_multilingual.Tests.
 test_source_script_only_and_ssrf_stop_without_models (test_multilingual.Tests.test_source_script_only_and_ssrf_stop_without_models) ... ok
 test_uncertain_api_result_archive_failure_never_resends (test_multilingual.Tests.test_uncertain_api_result_archive_failure_never_resends) ... ok
 test_whole_program_budget_can_stop_before_full_bundle (test_multilingual.Tests.test_whole_program_budget_can_stop_before_full_bundle) ... ok
+test_withheld_topic_does_not_block_other_research_or_allow_batch_completion (test_publication.IndependentArticleHoldTests.test_withheld_topic_does_not_block_other_research_or_allow_batch_completion) ... ok
 test_73_file_bundle_verifies_before_ref_and_recovers_interrupted_read (test_publication.Tests.test_73_file_bundle_verifies_before_ref_and_recovers_interrupted_read) ... ok
 test_cached_delivery_source_failure_also_updates_current_manifest (test_publication.Tests.test_cached_delivery_source_failure_also_updates_current_manifest) ... ok
 test_commit_file_pagination_73_and_173_files (test_publication.Tests.test_commit_file_pagination_73_and_173_files) ... ok
@@ -91,6 +93,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 91 tests in 97.164s
+Ran 93 tests in 28.061s
 
 OK
