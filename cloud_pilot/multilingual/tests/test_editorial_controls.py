@@ -12,7 +12,7 @@ def active_case(kind):
     topic=plan()['articles'][0];topic['content_type']=kind;ev=evidence(topic)
     response=research_result(topic,ev);r=response['content']
     for f in r['facts']:
-        f.update(kind='external_fact',standard_related=False,quantitative=True,value='synthetic ID',unit='test identifier',
+        f.update(kind='external_fact',standard_related=False,standard_assessment='NOT_REGULATORY',quantitative=True,value='synthetic ID',unit='test identifier',
                  checked_date='2026-11-03',buyer_applicability='Synthetic tests only')
     values=dict(brand='Testbrand',model='Testmodel',model_year='2026',generation='TEST',body_style='SUV',powertrain='TEST',drivetrain='2WD',original_sales_market='SYNTHETIC-ALPHA',production_boundary='Testproduction',trim_variant='TEST')
     if kind=='VEHICLE_RECOMMENDATION':
@@ -35,6 +35,38 @@ def active_case(kind):
     return topic,ev,response
 
 class Tests(unittest.TestCase):
+    def test_identity_rejects_unrelated_quote_and_t3_core_spec(self):
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION')
+        f=r['content']['facts'][-1];f['quotes'][0]['quote']='synthetic public evidence'
+        ev[0]['text']+=' synthetic public evidence'
+        with self.assertRaisesRegex(GateError,'IDENTITY_SCOPED_VALUE_QUOTE'):check_research(r,topic,ev)
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');ev[0]['tier']='T3'
+        for v in r['content']['fact_boundary'].values():v['confidence']='SINGLE_SOURCE'
+        for f in r['content']['facts']:f['confidence']='SINGLE_SOURCE'
+        for c in r['content']['source_checks']:
+            c['official_source']=next(e['tier'] for e in ev if e['source_id']==c['source_id'])=='T1'
+        with self.assertRaisesRegex(GateError,'CORE_SPEC_SOURCE_TIER'):check_research(r,topic,ev)
+
+    def test_regulatory_classification_cannot_hide_in_editorial_method(self):
+        from cloud_pilot.multilingual.research_contract import standard_gate
+        for claim in ('(EU) 2018/858 approval is mandatory','UN R100 applies','GB/T 7258 applies','ISO 9001 certification'):
+            f=dict(statement=claim,kind='editorial_method',standard_related=False,standard_assessment='NOT_REGULATORY')
+            with self.subTest(claim=claim),self.assertRaisesRegex(GateError,'STANDARD_CLASSIFICATION'):standard_gate(f,{})
+        with self.assertRaisesRegex(GateError,'UNCERTAIN'):
+            standard_gate(dict(statement='Unresolved applicability',standard_assessment='UNCERTAIN'),{})
+
+    def test_durable_writing_lock_detects_research_update_in_scoped_journal(self):
+        from cloud_pilot.multilingual.editorial_state import EditorialState
+        from cloud_pilot.multilingual.tests.test_multilingual import ArtifactStore
+        from cloud_pilot.multilingual.accounting import ResponseJournal
+        from cloud_pilot.multilingual.startup import EpochJournal
+        j=EpochJournal(ResponseJournal(ArtifactStore()),1,{'test':'lock'})
+        state=EditorialState(j);r=dict(article_id='PILOT-TEST',version=1,research_hash='first',fact_sheet={'handoff':{}})
+        state.lock(r);state.check(r)
+        changed=copy.deepcopy(r);changed.update(version=2,research_hash='second')
+        EditorialState(j).register(changed)
+        with self.assertRaisesRegex(GateError,'RESEARCH_CHANGED_AFTER_WRITING_STARTED'):state.check(r)
+        self.assertTrue(state.rows('update-required:PILOT-TEST:'))
     def test_forbidden_handoff_fact_stops_both_active_writing_transitions(self):
         for kind in ('VEHICLE_RECOMMENDATION','BUYING_GUIDE'):
             topic,ev,r=active_case(kind);packet=check_research(r,topic,ev)
@@ -60,7 +92,7 @@ class Tests(unittest.TestCase):
                 f=copy.deepcopy(r['content']['facts'][0]);f['statement']=citation
                 with self.subTest(kind=kind,citation=citation),self.assertRaisesRegex(GateError,'STANDARD_CLASSIFICATION'):
                     standard_gate(f,sources)
-            f.update(standard_related=True,current_version='2018',current_amendment='none',effective_date='2020-01-01',mandatory_from='2021-01-01',primary_source_url='https://unrelated.invalid/standard')
+            f.update(standard_related=True,standard_assessment='REGULATORY_OR_STANDARD',current_version='2018',current_amendment='none',effective_date='2020-01-01',mandatory_from='2021-01-01',primary_source_url='https://unrelated.invalid/standard')
             with self.assertRaisesRegex(GateError,'DIRECT_PRIMARY_SOURCE'):standard_gate(f,sources)
 
     def test_descendant_checkout_is_not_the_current_main_startup_gate(self):
@@ -72,6 +104,7 @@ class Tests(unittest.TestCase):
     def test_active_standard_classification_requires_current_fields_for_both_article_types(self):
         for kind in ('VEHICLE_RECOMMENDATION','BUYING_GUIDE'):
             topic,ev,r=active_case(kind);r['content']['facts'][0]['standard_related']=True
+            r['content']['facts'][0]['standard_assessment']='REGULATORY_OR_STANDARD'
             with self.subTest(kind=kind),self.assertRaisesRegex(GateError,'CURRENT_STANDARD_FIELDS'):
                 check_research(r,topic,ev)
 

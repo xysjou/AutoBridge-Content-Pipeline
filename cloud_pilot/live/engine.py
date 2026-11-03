@@ -50,6 +50,10 @@ class Engine:
                 self.evidence(topic)
                 final=self.cached('final:'+aid)
                 require(final and final['research']['topic']==topic,'CACHED_DELIVERY_TOPIC_DRIFT')
+                from ..multilingual.research_contract import applies
+                if applies(topic):
+                    from ..multilingual.editorial_state import EditorialState
+                    EditorialState(self.journal).check(final['research'])
                 current=self.github.deliver_candidate(final)
                 require(current==existing,'CACHED_DELIVERY_CHANGED')
                 deliveries.append(existing)
@@ -72,6 +76,8 @@ class Engine:
                 if self.cached(review_key) is None:
                     checked=self.models.call(aid+':research-review','review',research_review_request(research))
                     self.journal.checkpoint(review_key,accept(checked,research))
+                from ..multilingual.editorial_state import EditorialState
+                editorial=EditorialState(self.journal);editorial.lock(research)
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions
                 self.guard()
@@ -79,6 +85,7 @@ class Engine:
                 require(fresh==research,'RESEARCH_BASELINE_DRIFT')
                 if applies(topic):
                     from ..multilingual.research_contract import validate
+                    editorial.check(research)
                     validate(fresh['fact_sheet'],topic,evidence)
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
@@ -100,6 +107,7 @@ class Engine:
                 verdict=review['verdict']['decision']
                 if verdict=='REVIEW_PASS':
                     self.guard()
+                    if applies(topic):editorial.check(research)
                     package=dict(article=article,research=research,review=review)
                     self.journal.checkpoint('final:'+aid,package)
                     try:delivery=self.github.deliver_candidate(package)

@@ -197,7 +197,12 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
         require(all(0 <= (now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds() <= 86400
                     for e in research['evidence']),'LOCALIZATION_SOURCE_EVIDENCE_STALE')
         for locale in LOCALES:
+            from .research_contract import applies
+            if applies(topic):
+                from .editorial_state import EditorialState
+                EditorialState(journal).check(research)
             result=dict(article=base,review=final['review']) if locale=='en' else localizer.run(base,research,locale)
+            if applies(topic):EditorialState(journal).check(research)
             article=result['article']; filename=topic['article_id']+'.'+locale+'.md'
             path='cloud_pilot/live_artifacts/multilingual/'+base['content_hash']+'/'+locale+'/'+filename
             # The reviewed reader artifact is the deliverable. Keep S05 metadata

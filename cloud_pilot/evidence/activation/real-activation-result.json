@@ -1,34 +1,85 @@
 {
   "schema": "autobridge-real-activation-result/1.0",
-  "status": "HOLD_CODE_REVIEW_BLOCKED",
-  "date": "2026-11-02",
+  "status": "HOLD_CODE_AND_TOPIC_REVIEW",
+  "date": "2026-11-03",
   "target_site": "https://autobridgetrade.top/",
-  "account_check_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41419415388",
-  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41424557333",
-  "reviewed_code_sha": "fa49a0d70b0afb5a5f76d86e369d6e4717dd7878",
+  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41575129753",
+  "reviewed_code_sha": "ac1303e64dc595a35d8c978b9792e51cd1443ff9",
   "models_verified_by_actual_generation": [
     "gpt-6.1-terra",
     "gpt-6-luna"
   ],
-  "paid_generation_requests": 3,
-  "settled_cost_nano_usd": 259886425,
+  "paid_generation_requests": 7,
+  "settled_cost_nano_usd": 913486475,
   "budget_cap_nano_usd": 3000000000,
   "uncertain_operations": 0,
   "english_articles_generated": 0,
   "full_locale_articles_generated": 0,
   "website_published": false,
+  "code_review": {
+    "content": {
+      "decision": "BLOCK",
+      "findings": [
+        {
+          "detail": "Identity validation requires a field value in the fact statement, but not in its supporting quotation. A drivetrain fact stating AWD can therefore be bound to an unrelated quotation from a source whose declared scope matches the intake. Matching scope labels alone do not establish that the source supports the field.",
+          "file": "cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Bind each identity value to directly supporting source text and its exact vehicle context; add active-article tests for unrelated quotations and mismatched identity values.",
+          "severity": "high"
+        },
+        {
+          "detail": "The standard gate relies on a limited expression and skips classification checks for facts labeled editorial_method. A regulation cited without a recognized term, or mislabeled as an editorial method, can bypass current-version and primary-source requirements.",
+          "file": "cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Classify regulatory and standards claims independently of the supplied kind flag, fail closed when classification is uncertain, and test alternate citation formats and mislabeled mandatory claims.",
+          "severity": "high"
+        },
+        {
+          "detail": "CROSS_CHECKED requires two parent organizations but does not restrict the sources to tiers permitted for the fact. For the Q05 intake, Autohome and YooJia are declared T3; the gate can therefore accept their agreement as support for a core vehicle specification even though the repository limits T3 to background, process and case-study use.",
+          "file": "cloud_pilot/live/stages.py; cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Enforce fact-specific source-tier eligibility. Reclassify structured sources only after validating their actual publisher and content, and test that two T3 sources cannot establish a key vehicle specification.",
+          "severity": "high"
+        },
+        {
+          "detail": "The engine never sets a durable WRITING_LOCK while writing. It requires writing_locked=false and compares only its cached research checkpoint, so concurrent Research changes outside that immutable checkpoint are not signaled through UPDATE_REQUIRED or RESEARCH_CHANGED_AFTER_WRITING_STARTED.",
+          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/research_contract.py",
+          "required_fix": "Implement durable per-article lock and update signaling, re-read the current versioned Research handoff before completion, and test a Research change during writing.",
+          "severity": "high"
+        },
+        {
+          "detail": "The account-check job exposes the project key to code selected by AUTOBRIDGE_APPROVED_CODE_SHA without the protected permit and workflow-lease preauthorization used by execute. The application-level SHA check runs only after that selected code has received the key; the protected environment review does not itself bind the code to a reviewed account-check implementation.",
+          "file": ".github/workflows/cloud-pilot-trusted.yml",
+          "required_fix": "Run account checks from an independently pinned implementation, or validate a protected, code-bound account-check permit before exposing the project key.",
+          "severity": "high"
+        },
+        {
+          "detail": "When a target evidence checkpoint already exists, restore validates its declarations and internal hashes but does not compare its raw hashes, retrieval times or target hash with the approved origin transfer. It can then produce a transfer receipt associating cached evidence with an origin it did not verify against that cache.",
+          "file": "cloud_pilot/multilingual/source_cache.py",
+          "required_fix": "Bind every required transfer to the approved origin and expected target, and verify raw hashes, retrieval times, source declarations and target digest even when the target checkpoint already exists.",
+          "severity": "medium"
+        }
+      ],
+      "human_reviewed": false,
+      "publish_approved": false
+    },
+    "model": "gpt-6.1-terra",
+    "response_id": "resp_0e1da463929e02d3016ae95bd0a88c87d19650f491555f72c5"
+  },
   "topic_dedup": {
     "content": {
-      "additional_paths": [],
+      "additional_paths": [
+        "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md",
+        "batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md"
+      ],
       "articles": [
         {
           "article_id": "PILOT-Q05-2026",
-          "decision": "DISTINCT",
+          "decision": "NEEDS_MORE_EVIDENCE",
           "nearest_paths": [
             "daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md"
+            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md",
+            "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md",
+            "batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md"
           ],
-          "reason": "The reserve is a 2024 China-market Q05 PHEV parameter sheet, whereas the proposed buyer task concerns an identified 2026 BEV candidate and a shortlist decision involving exact-trim, charging, service and stock checks. Those are materially different search intents and buyer decisions; this does not imply that every Q05 article is distinct. The RHD guide only mentions NEVO Q05 as a Thai-market prospect within a broader RHD availability guide, not as an exact China-market BEV buying reference. Keep the new article tightly bound to evidence for the exact proposed vehicle and do not treat the older PHEV or the RHD prospect mention as proof of 2026 BEV identity, availability or specifications."
+          "reason": "The supplied full texts show the reserve is a 2024 China-market PHEV reference, while this proposal concerns a 2026 BEV and a specific shortlist decision; that is a meaningful year/powertrain distinction, not proof that all Q05 pages are unique. The RHD guide only mentions NEVO Q05 as a reported Thailand RHD prospect and focuses on factory-RHD verification, not evaluating this exact BEV as an urban sourcing candidate. However, the indexed Southeast Asia SUV shortlist and new-versus-used EV guide may address overlapping recommendation or buying decisions, and their full texts are needed to confirm whether Q05 is covered or the intent is already served."
         },
         {
           "article_id": "PILOT-REEFER-GUIDE",
@@ -38,74 +89,25 @@
             "daily/2026-09-04/articles/vehicle/AB-260904-V10_Dongfeng_TianjinKR.md",
             "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md"
           ],
-          "reason": "The existing Aumark and Tianjin KR articles primarily identify chassis and upfit choices and advise buyers what to specify or verify; the fleet guide covers general contract acceptance criteria. The proposed topic instead addresses the acceptance evidence and demonstration for a completed refrigerated truck, including identity reconciliation, operating conditions, temperature records, door-opening pattern, power modes and responsibility allocation. That is a distinct buyer decision if the guide remains focused on a documented acceptance protocol and does not become another general reefer specification, equipment-selection or fleet-procurement overview."
+          "reason": "The Aumark and Tianjin KR pages focus on vehicle configuration, chassis/upfit separation and buyer verification; the fleet guide discusses general tender-grade acceptance criteria. This proposal instead asks buyers and suppliers to agree on a pre-shipment acceptance demonstration and its evidence: VIN/equipment identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and responsibility boundaries. That is a distinct acceptance decision, provided the article stays focused on test protocol, records and sign-off rather than repeating model specifications or general reefer shopping advice."
         }
       ],
-      "decision": "PASS",
+      "decision": "NEEDS_MORE_EVIDENCE",
       "human_reviewed": false,
       "publish_approved": false
     },
     "model": "gpt-6-luna",
-    "response_id": "resp_0cb502476a28dc0f016ae85ec3c8b087d1bd14ce7cd75fd8df"
+    "response_id": "resp_02c32733b0a2772a016ae95c4e0ee487d191c1fd1ced189647"
   },
-  "code_review": {
-    "content": {
-      "decision": "BLOCK",
-      "findings": [
-        {
-          "detail": "Checkpoint namespaces bind only the evidence revision and article ID, not the approved plan or code. A newly approved plan that reuses an ID and revision can reuse old evidence, research, article and delivery checkpoints. The cached-delivery path also skips fresh PR verification.",
-          "file": "cloud_pilot/multilingual/startup.py; cloud_pilot/live/engine.py",
-          "required_fix": "Bind checkpoints to immutable plan, code, rules and evidence hashes. Validate those bindings and the current PR head, diff and draft state before returning any cached delivery.",
-          "severity": "critical"
-        },
-        {
-          "detail": "The workflow is loaded from the dispatched integration branch, while the permit checks only the separately checked-out code SHA. A changed workflow can access the environment secrets before the approved Python code checks its permit; the code SHA does not authenticate the executing workflow.",
-          "file": ".github/workflows/cloud-pilot-manual.yml",
-          "required_fix": "Run the secret-bearing entry point from a protected, independently controlled workflow revision, and bind the executing workflow to the approved revision. Restrict environment and branch access accordingly.",
-          "severity": "high"
-        },
-        {
-          "detail": "The cap depends on a mutable branch ledger. Hash-chain and CAS checks detect corruption during normal appends, but a reset to an older valid ledger is accepted and can discard recorded spend. The ledger also requires prior spend to be zero without establishing that from independent program billing evidence.",
-          "file": "cloud_pilot/live/ledger.py; cloud_pilot/live/http.py",
-          "required_fix": "Anchor ledger progression in an independently protected, monotonic store or equivalent trusted control, and verify the opening balance against whole-program billing evidence before authorizing calls.",
-          "severity": "high"
-        },
-        {
-          "detail": "The research gate can set WRITING_AI_READY while omitting mandatory vehicle identity fields such as body style, drivetrain and production boundary, as well as required fact and handoff fields. Literal quotation matching and a model-declared scope check do not establish that a quotation supports the asserted fact.",
-          "file": "cloud_pilot/live/stages.py",
-          "required_fix": "Validate the complete identity lock, per-fact provenance and applicability, conflicts, time-sensitive facts, allowed/blocked lists, locks and versioned handoff fields. Stop writing when core identity or direct support remains unresolved.",
-          "severity": "high"
-        },
-        {
-          "detail": "Startup loads a fixed list of review handoffs rather than determining the latest applicable handoff. It also records a negative skill-impact check without performing one. New applicable review files in an approved main can therefore be present but omitted from the model's rules and provenance.",
-          "file": "cloud_pilot/contract.py; cloud_pilot/multilingual/startup.py; cloud_pilot/live/policy.py",
-          "required_fix": "Sync and verify the current main baseline, discover and bind the latest applicable review and batch evidence, and record an actual skill-impact assessment. Stop if required current material is missing or has drifted.",
-          "severity": "high"
-        },
-        {
-          "detail": "The redirect allowlist includes every source URL in both articles. Consequently, one source may redirect to another source's URL even when no redirect was explicitly authorized, potentially attributing the returned text to the wrong declared publisher or scope.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/sources.py",
-          "required_fix": "Authorize redirects per source, validate each final URL and publisher against that mapping, and stop on an undeclared redirect.",
-          "severity": "high"
-        },
-        {
-          "detail": "Locale review covers the structured article, but the subsequently generated Markdown adds unreviewed English metadata, source-table headings and editorial text. It can report automated multilingual drafts complete with placeholder image text and draft-only URLs, which does not satisfy the repository's complete-locale requirements.",
-          "file": "cloud_pilot/multilingual/localize.py",
-          "required_fix": "Review and hash the final rendered locale artifact, localize and validate all public fields and tables, and report incomplete components explicitly rather than complete until their applicable gates are met.",
-          "severity": "medium"
-        }
-      ],
-      "human_reviewed": false,
-      "publish_approved": false
-    },
-    "model": "gpt-6.1-terra",
-    "response_id": "resp_01b77663746170ef016ae85e53ddac87d1b16b08a5028fa893"
-  },
-  "authorization": {
-    "current_permit_scope": "AUDIT_ONLY",
-    "writing_enabled_by_current_permit": false,
-    "publication_enabled": false
-  },
-  "decision": "Do not merge candidate or create article requests while the real independent code review is BLOCK. Preserve all receipts and costs; no blind retries or budget reset.",
-  "budget_note": "USD2.685 conservative reservation is required for any Terra request. Actual remaining credit under the program cap is not the same as available reservation capacity. No additional budget has been authorized."
+  "fixes_awaiting_independent_review": [
+    "Exact source-language identity value in matched quote",
+    "T1/T2 eligibility for core vehicle facts; explicit structured-source reclassification in protected intake",
+    "Standards assessment independent of fact kind; alternate regulatory citation detection",
+    "Shared durable versioned Research head, WRITING_LOCK and UPDATE_REQUIRED across English/localized writing",
+    "Legacy standalone account-check disabled; availability remains inside preauthorized execute",
+    "Cached source-transfer proof bound to approved origin raw hashes, dates and exact target digest",
+    "Two explicitly requested prior buyer-guide full texts added to independent dedup packet"
+  ],
+  "human_reviewed": false,
+  "publish_approved": false
 }

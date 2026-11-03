@@ -17,7 +17,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@a418353233e0a66a3385897a8845857fc09d2d26
+    uses: xysjou/AutoBridge-Content-Pipeline/.github/workflows/cloud-pilot-trusted.yml@b3f5a6cef20b8dc235f001af306e635f1eca0fdf
     with:
       mode: ${{ inputs.mode }}
     secrets:

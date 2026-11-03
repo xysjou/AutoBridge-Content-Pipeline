@@ -26,6 +26,8 @@ class Tests(unittest.TestCase):
         self.assertTrue(any('Aumark' in d['title'] for d in r['related_full_text']))
         self.assertTrue(any(d['context_role']=='reserve_not_published' for d in r['related_full_text']))
         self.assertTrue(all('text' in d for d in r['related_full_text']))
+        self.assertTrue(any('AB50_025_' in d['path'] for d in r['related_full_text']))
+        self.assertTrue(any('AB50_035_' in d['path'] for d in r['related_full_text']))
 
     def test_code_block_still_collects_topic_review_but_cannot_pass(self):
         p={'articles':[{'article_id':'A'},{'article_id':'B'}]}

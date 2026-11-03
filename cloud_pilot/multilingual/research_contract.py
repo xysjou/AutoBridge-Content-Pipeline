@@ -9,13 +9,15 @@ CHECKS=('identity_complete','facts_directly_supported','scope_locked','conflicts
 
 def applies(topic):return topic.get('content_type') in ('VEHICLE_RECOMMENDATION','BUYING_GUIDE')
 
-STANDARD=re.compile(r'\b(?:ISO|IMDG|UNECE|GSO|GB(?:/T)?|QC/T|ADR|Regulation|Directive|standard|certification|customs rule)\b|认证标准|海关规则|强制标准',re.I)
+STANDARD=re.compile(r'\b(?:ISO|IEC|IMDG|UNECE|GSO|GB(?:/T)?|QC/T|ADR|FMVSS|DOT|Regulation|Directive|standard|certification|customs rule|mandatory|legally|legislation|statutory|homologation|law)\b|\b(?:EU|EC|EEC|UN|EN)[\s()R-]*\d+[\s/-]*\d*|法规|认证标准|海关规则|强制标准|强制要求|依法',re.I)
 
 def standard_gate(f,sources):
     related=f.get('standard_related') is True or f.get('kind')=='standard'
-    if f.get('kind')!='editorial_method' and STANDARD.search(f['statement']):
+    if STANDARD.search(f['statement']):
         require(related,'STANDARD_CLASSIFICATION_REQUIRED')
-    if not related:return
+    if not related:
+        require(f.get('standard_assessment')=='NOT_REGULATORY','STANDARD_ASSESSMENT_REQUIRED_OR_UNCERTAIN')
+        return
     fields=('current_version','current_amendment','effective_date','mandatory_from','primary_source_url')
     require(all(f.get(k) for k in fields),'CURRENT_STANDARD_FIELDS_MISSING')
     primary=[s for s in f['source_ids'] if sources[s]['tier']=='T1'
@@ -28,6 +30,7 @@ def standard_gate(f,sources):
         require(row.get('source_id') in primary and len(row.get('quote',''))>=12
                 and row['quote'] in sources[row['source_id']]['text']
                 and str(f[key]).casefold() in row['quote'].casefold(),'STANDARD_FIELD_NOT_DIRECTLY_SUPPORTED')
+    require(f.get('standard_assessment')=='REGULATORY_OR_STANDARD','STANDARD_ASSESSMENT_DRIFT')
 
 def extend_request(payload):
     topic=payload['topic']
@@ -35,10 +38,11 @@ def extend_request(payload):
     payload['required_output'].update(
         fact_boundary='vehicle: object with '+', '.join(IDENTITY)+'; each value is {value,confidence,source_ids,fact_ids}; each supporting fact must declare identity_field equal to this one field and use the exact approved reference scope (first intake source scope), not family/different market/year/trim scope; guide: {scope,excluded_claims}',
         handoff='object {article_id,content_type,search_intent,buyer_task,research_baseline_sha,fact_sheet_version:1,source_log_version:1,conflict_list:[],time_sensitive_facts:[],facts_not_allowed_in_body:[],locks:[],research_locked:false,writing_locked:false,fact_update_required:false,skill_impact:{research,writing,lessons,update_required,reason},review_handoff_assessment:[{path,applicable:boolean,reason,superseded_by:null|path}]}')
-    payload['required_output']['facts']='list of {id,statement,kind:external_fact|editorial_method,standard_related:boolean,quantitative:boolean,confidence,scope,source_ids,quotes:[{source_id,quote}],checked_date,buyer_applicability}; identity facts additionally require identity_field (one of the ten fields) and each field needs its own fact; quantitative facts additionally require value and unit; standard-related facts require current_version,current_amendment,effective_date,mandatory_from,primary_source_url and standard_field_quotes:{each of the four version/date fields:{source_id,quote}} directly proving each exact field from its matched primary source'
+    payload['required_output']['facts']='list of {id,statement,kind:external_fact|editorial_method,standard_related:boolean,standard_assessment:NOT_REGULATORY|REGULATORY_OR_STANDARD|UNCERTAIN,quantitative:boolean,confidence,scope,source_ids,quotes:[{source_id,quote}],checked_date,buyer_applicability}; identity facts additionally require identity_field (one of the ten fields) and each field needs its own fact; quantitative facts additionally require value and unit; standard-related facts require current_version,current_amendment,effective_date,mandatory_from,primary_source_url and standard_field_quotes:{each of the four version/date fields:{source_id,quote}} directly proving each exact field from its matched primary source'
     payload['required_output']['source_checks']='one {source_id,publisher_match:boolean,scope_match:boolean,official_source:boolean,scope_status:MATCHED|CONTEXT_ONLY|MISMATCH} per source. official_source is true only for a directly used T1 source with MATCHED scope; never infer official status from source count.'
     payload['instruction']+=' Use research_baseline_sha '+topic.get('research_baseline_sha',BASELINE)+' in the handoff. The approved immutable historical baseline remains a separate contract identifier.'
     payload['instruction']+=' Lock all required identity fields. Never call a media alias an OEM-proven export equivalent. Unknown production end/current stock may remain explicitly UNVERIFIED and blocked under RESEARCH_CONDITIONAL; core model, year, market, trim, body style, powertrain and drivetrain must be established. Editorial procurement recommendations are methods, not government or manufacturer requirements. Assess Skill impact; do not invent a negative assessment. All facts not allowed in the body and conflicts must be listed in the handoff.'
+    payload['instruction']+=' Each identity boundary value must be a literal source-language value appearing in each supporting quotation; keep Chinese source values in the internal identity object and translate their meaning only in English prose. Only T1 or T2 evidence may establish core vehicle identity/specifications; two T3 organizations do not establish a core specification. Independently classify standards/regulatory claims regardless of kind, including short citations and mandatory claims disguised as methods; UNCERTAIN cannot enter allowed_facts. Do not call an ordinary buyer recommendation a law or standard.'
     return payload
 
 def impact_check(impact):
@@ -98,7 +102,9 @@ def validate(r,topic,evidence):
                     for sid in f['source_ids']:
                         e=sources[sid]
                         require(f['scope']==e['scope'] and any(q['source_id']==sid and q['quote'] in e['text']
-                                  for q in f['quotes']),'IDENTITY_SCOPED_QUOTE:'+k)
+                                  and str(v['value']).casefold() in q['quote'].casefold()
+                                  for q in f['quotes']),'IDENTITY_SCOPED_VALUE_QUOTE:'+k)
+                        require(e['tier'] in ('T1','T2'),'CORE_SPEC_SOURCE_TIER:'+k)
                 if v['confidence']=='VERIFIED':require(any(sources[s]['tier']=='T1' for s in v['source_ids']),'IDENTITY_PRIMARY_AUTHORITY')
                 if v['confidence']=='CROSS_CHECKED':require(len({sources[s]['parent_org'] for s in v['source_ids']})>=2,'IDENTITY_INDEPENDENT_SOURCES')
     else:require(boundary.get('scope') and isinstance(boundary.get('excluded_claims'),list),'GUIDE_SCOPE_BOUNDARY')
@@ -116,9 +122,11 @@ def validate(r,topic,evidence):
             require(f['quantitative'] is True and f.get('value') is not None and f.get('value')!=''
                     and isinstance(f.get('unit'),str) and f['unit'].strip(),'QUANTITATIVE_VALUE_UNIT_REQUIRED')
             if f['kind']=='external_fact':
-                numbers=lambda text:set(re.findall(r'\b\d+(?:\.\d+)?\b',str(text)))
+                numbers=lambda text:set(re.findall(r'\d+(?:\.\d+)?',str(text)))
                 quoted=' '.join(q['quote'] for q in f['quotes'])
                 require(numbers(f['value'])|numbers(f['statement'])<=numbers(quoted),'QUANTITATIVE_DIRECT_QUOTE_REQUIRED')
+            if topic['content_type']=='VEHICLE_RECOMMENDATION' and f['kind']=='external_fact' and f['scope']==topic['sources'][0]['scope']:
+                require(all(sources[s]['tier'] in ('T1','T2') for s in f['source_ids']),'CORE_SPEC_SOURCE_TIER')
         standard_gate(f,sources)
         if f.get('confidence')=='TIME_SENSITIVE':require(f['id'] in h['time_sensitive_facts'],'TIME_SENSITIVE_HANDOFF_MISSING')
     require(not allowed.intersection(h['conflict_list']),'CONFLICT_ALLOWED_IN_BODY')

@@ -53,14 +53,21 @@ def restore(permit,plan,journal,scoped,github,code_sha):
         old=journal.get_checkpoint(d['origin_checkpoint'])
         require(old and digest(old)==d['origin_evidence_hash'],'SOURCE_TRANSFER_ORIGIN_HASH')
         cached=scoped.get_checkpoint(key)
-        if cached is None:
+        prior=scoped.get_checkpoint('source-transfer:'+aid)
+        if cached is None or prior is None:
             require(len(old)==len(topic['sources']),'SOURCE_TRANSFER_COUNT')
             source={s['source_id']:s for s in topic['sources']};out=[]
             require({e['source_id'] for e in old}==set(source),'SOURCE_TRANSFER_IDS')
             for e in old:
                 s=source[e['source_id']]
-                require(all(e.get(k)==s[k] for k in ('publisher','parent_org','tier','scope'))
+                require(all(e.get(k)==s[k] for k in ('publisher','parent_org','scope'))
                         and e.get('requested_url')==s['url'],'SOURCE_TRANSFER_DECLARATION_DRIFT')
+                if e.get('tier')!=s['tier']:
+                    c=d.get('source_tier_reclassifications',{}).get(s['source_id'],{})
+                    require(c.get('from')==e.get('tier')=='T3' and c.get('to')==s['tier']=='T2'
+                            and c.get('publisher_verified') is True and c.get('basis')
+                            and re.fullmatch(r'https://(?:car\.autohome\.com\.cn/config/spec/\d+\.html|www\.yoojia\.com/m-\d+)',s['url']),
+                            'SOURCE_TIER_RECLASSIFICATION_UNPROVEN')
                 raw_hash=e.get('raw_sha256','');require(re.fullmatch('[0-9a-f]{64}',raw_hash),'SOURCE_TRANSFER_RAW_HASH')
                 path='cloud_pilot/live_artifacts/sources/'+raw_hash+'.bin'
                 require(path==e.get('raw_artifact_path'),'SOURCE_TRANSFER_RAW_PATH')
@@ -76,16 +83,23 @@ def restore(permit,plan,journal,scoped,github,code_sha):
                 text=extract(raw,content_type,s)
                 new={k:v for k,v in e.items() if k!='evidence_hash'}
                 new.update(text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),
-                           content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
+                           tier=s['tier'],content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
                 new['evidence_hash']=digest(new);out.append(new)
             validate(out,topic)
+            require(cached is None or cached==out,'SOURCE_TRANSFER_RECONSTRUCTED_TARGET_DRIFT')
             scoped.checkpoint(key,out);cached=out
         validate(cached,topic)
+        origins={e['source_id']:e for e in old}
+        require(all(e['raw_sha256']==origins[e['source_id']]['raw_sha256']
+                    and e['raw_artifact_blob']==origins[e['source_id']]['raw_artifact_blob']
+                    and e['retrieved_at']==origins[e['source_id']]['retrieved_at']
+                    and e['archive_origin_checkpoint']==d['origin_checkpoint']
+                    and e['representation_code_sha']==code_sha for e in cached),'SOURCE_TRANSFER_CACHED_ORIGIN_DRIFT')
         proof=dict(article_id=aid,origin_checkpoint=d['origin_checkpoint'],origin_evidence_hash=d['origin_evidence_hash'],
                    target_checkpoint=scoped.prefix+key,target_evidence_hash=digest(cached),
                    original_retrieval_times=[e['retrieved_at'] for e in cached],
-                   representation_code_sha=code_sha,raw_hashes=[e['raw_sha256'] for e in cached])
-        prior=scoped.get_checkpoint('source-transfer:'+aid)
+                   representation_code_sha=code_sha,raw_hashes=[e['raw_sha256'] for e in cached],
+                   tier_reclassifications=d.get('source_tier_reclassifications',{}))
         require(prior is None or prior==proof,'SOURCE_TRANSFER_PROOF_DRIFT')
         scoped.checkpoint('source-transfer:'+aid,proof);receipts.append(proof)
     return receipts

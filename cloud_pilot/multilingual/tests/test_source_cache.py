@@ -61,6 +61,15 @@ class Tests(unittest.TestCase):
         with self.assertRaisesRegex(GateError,'RAW_CONTENT'):restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
         self.assertIsNone(scoped.get_checkpoint('evidence:'+topic['article_id']))
 
+    def test_cached_transfer_cannot_claim_an_unrelated_origin(self):
+        topic,old,j,scoped,gh,p=self.transfer_fixture()
+        restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+        different=copy.deepcopy(old);different[0]['raw_sha256']='a'*64
+        j.checkpoint('another-origin',different)
+        d=p['source_evidence_transfers'][0];d.update(origin_checkpoint='another-origin',origin_evidence_hash=digest(different))
+        with self.assertRaisesRegex(GateError,'CACHED_ORIGIN_DRIFT|PROOF_DRIFT'):
+            restore(p,dict(articles=[topic]),j,scoped,gh,'new-code')
+
     def test_archive_charset_requires_exact_original_text_not_conflicting_meta(self):
         raw=('<meta charset="gb2312"><p>'+('公开车型参数测试 '*30)+'</p>').encode()
         text=extract(raw,'text/html;charset=utf-8',dict(url='https://example.invalid/'))

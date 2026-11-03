@@ -60,11 +60,19 @@ def corpus(root=ROOT):
 def dedup_request(plan,root=ROOT):
     docs=corpus(root)
     related=[]
+    # Full texts explicitly requested by the independent intake review, in
+    # addition to direct Q05 and refrigerated-truck matches.
+    requested_context={
+      'batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md',
+      'batches/batch_20260901_001/articles/AB50_035_Guide_new_vs_used_ev_southeast_asia/versions/v2.md'}
     for d in docs:
         t=d['text'].lower()
         q=bool(re.search(r'qiyuan\s*q05|nevo\s*q05|启源\s*q05',t))
         cold=bool(re.search(r'refrigerat|reefer|冷藏|cold[- ]chain',t))
-        if q or cold:related.append(dict(d,match=('Q05' if q else '')+(' cold-chain' if cold else '')))
+        if q or cold or d['path'] in requested_context:
+            related.append(dict(d,match=('Q05' if q else '')+(' cold-chain' if cold else '')+
+                                (' independent-review-requested buying intent' if d['path'] in requested_context else '')))
+    require(requested_context<={d['path'] for d in related},'REQUESTED_DEDUP_CONTEXT_MISSING')
     # No silently omitted matching articles. If too large, stop for explicit scoping.
     require(sum(len(x['text'].encode()) for x in related)<=900000,'RELATED_CORPUS_NEEDS_SCOPING')
     index=[{k:d[k] for k in ('path','title','url','text_hash','context_role')} for d in docs]

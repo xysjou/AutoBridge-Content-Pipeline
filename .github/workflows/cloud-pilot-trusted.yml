@@ -30,10 +30,9 @@ jobs:
           python-version: '3.11'
       - run: python3 -m cloud_pilot.multilingual preflight
   account-check:
-    if: >-
-      inputs.mode == 'account-check' &&
-      vars.AUTOBRIDGE_ACCOUNT_CHECK_ENABLED == 'true' &&
-      github.ref == 'refs/heads/integration/work-cloud-pilot-m1-20261102'
+    # Availability is inspected inside the code/lease-preauthorized execute path.
+    # Disable the legacy standalone key-bearing path permanently.
+    if: ${{ false }}
     environment: autobridge-pilot
     runs-on: ubuntu-latest
     timeout-minutes: 10
