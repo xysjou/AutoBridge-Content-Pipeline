@@ -73,7 +73,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
     sha=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     approval=os.environ.get('AUTOBRIDGE_LIVE_APPROVAL_SHA256','')
     check_permit(permit,plan,prices,sha,approval)
-    from .authorization import lease,workflows
+    from .authorization import lease,workflows,secret_scope
     lease(permit)
     require(permit.get('audit_only',False) is audit_only,'PERMIT_AUDIT_SCOPE')
     require(re.fullmatch(r'[0-9a-f]{40}',permit.get('approved_main_sha','')),'APPROVED_MAIN_REQUIRED')
@@ -96,7 +96,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         check_permit(permit,plan,prices,sha,approval)
         require(github.ref('main')==permit['approved_main_sha'],'APPROVED_MAIN_DRIFT')
     permission()
-    workflows(permit,github)
+    workflow_evidence=workflows(permit,github);secret_scope(permit,github)
     # Availability inspection uses only the approved project key and the two allowed model IDs.
     for model in RATES:
         status,obj=api.request('GET','/v1/models/'+model)
@@ -113,9 +113,10 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         from .activation_review import run
         probe=Engine(shape,history,scoped,raw_models,github,retrieve)
         for topic in plan['articles']:probe.evidence(topic)
-        return run(plan,sha,journal,raw_models)
+        return run(plan,sha,journal,raw_models,workflow_evidence=workflow_evidence,
+                   scope_attestation=permit['environment_only_attestation'])
     from .activation_review import verify_receipt
-    verify_receipt(plan,sha,journal)
+    verify_receipt(plan,sha,journal,workflow_evidence=workflow_evidence)
     revision=plan.get('evidence_revision',1)
     journal=scoped
     class EditorialModels:
@@ -132,7 +133,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
             return result
     models=EditorialModels()
     prior=[(ROOT/d['path']).read_text() for d in history['documents'] if d['path'].startswith(('batches/','daily/'))]
-    deliveries=Engine(plan,history,journal,models,github,retrieve,prior).run()
+    deliveries=Engine(plan,history,journal,models,github,retrieve,prior,guard=permission).run()
     if plan['execution_phase']=='english':
         return dict(status='ENGLISH_PHASE_COMPLETE_NOT_FULL_PRODUCTION',draft_prs=deliveries,
                     expected_final_drafts=24,website_published=False)

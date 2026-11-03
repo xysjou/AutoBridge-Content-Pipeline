@@ -6,10 +6,11 @@ from .stages import (validate_plan,research_request,check_research,writing_reque
                      check_writing,review_request,check_review)
 
 class Engine:
-    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=()):
+    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=(),guard=lambda:None):
         validate_plan(plan,history)
         self.plan,self.history,self.journal=plan,history,journal
         self.models,self.github,self.fetch,self.prior_bodies=models,github,fetch,tuple(prior_bodies)
+        self.guard=guard
 
     def cached(self,key):
         return self.journal.get_checkpoint(key)
@@ -37,6 +38,7 @@ class Engine:
     def run(self):
         deliveries=[];prior=list(self.prior_bodies)
         for topic in self.plan['articles']:
+            self.guard()
             aid=topic['article_id']
             existing=self.cached('delivery:'+aid)
             if existing is not None:
@@ -67,6 +69,12 @@ class Engine:
                     self.journal.checkpoint(review_key,accept(checked,research))
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions
+                self.guard()
+                fresh=self.cached('research:'+aid)
+                require(fresh==research,'RESEARCH_BASELINE_DRIFT')
+                if applies(topic):
+                    from ..multilingual.research_contract import validate
+                    validate(fresh['fact_sheet'],topic,evidence)
                 key=aid+':v'+str(version)
                 article=self.cached('article:'+key)
                 if article is None:
@@ -86,6 +94,7 @@ class Engine:
                 require(review['content_hash']==article['content_hash'],'STALE_REVIEW')
                 verdict=review['verdict']['decision']
                 if verdict=='REVIEW_PASS':
+                    self.guard()
                     package=dict(article=article,research=research,review=review)
                     self.journal.checkpoint('final:'+aid,package)
                     try:delivery=self.github.deliver_candidate(package)

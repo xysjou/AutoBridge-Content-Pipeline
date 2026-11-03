@@ -1,7 +1,7 @@
 """Independent API audit of the candidate and topic overlap before paid writing."""
 import re
 from pathlib import Path
-from ..contract import ROOT,digest,require
+from ..contract import ROOT,digest,require,file_hash
 
 def code_paths(root=ROOT):
     # Include every transitive pilot module, not a handpicked security subset.
@@ -12,6 +12,9 @@ def code_paths(root=ROOT):
         '.github/workflows/cloud-pilot-trusted.yml',
         'cloud_pilot/multilingual/tests/test_recovery.py',
         'cloud_pilot/multilingual/tests/test_security.py',
+        'cloud_pilot/multilingual/tests/test_editorial_controls.py',
+        'cloud_pilot/multilingual/tests/test_activation.py',
+        'cloud_pilot/multilingual/tests/test_multilingual.py',
         'cloud_pilot/stage2_tests/test_live.py']
 
 def intake(plan):
@@ -80,14 +83,26 @@ def dedup_request(plan,root=ROOT):
     packet['corpus_hash']=digest(index)
     return packet
 
-def code_request(plan,sha,root=ROOT):
+def code_request(plan,sha,root=ROOT,workflow_evidence=None,scope_attestation=None):
     from .startup import BATCH_CONTEXT
+    import json
+    manifest=json.loads((root/'cloud_pilot/evidence/activation/validation-manifest.json').read_text())
+    require(all(file_hash(root/p)==h for p,h in manifest['source_hashes'].items()),'TESTED_SOURCE_TREE_DRIFT')
+    require(manifest['suites']=={'multilingual':40,'stage2':47,'original':41},'OFFLINE_SUITE_COVERAGE')
+    if workflow_evidence:
+        require(set(workflow_evidence)=={'cloud-pilot-manual.yml','cloud-pilot-trusted.yml'},'AUDIT_WORKFLOW_COVERAGE')
+        for name,item in workflow_evidence.items():
+            require(item['content']==(root/'.github/workflows'/name).read_text()
+                    and item['content_hash']==digest(item['content']),'AUDIT_EXECUTABLE_WORKFLOW_DRIFT')
     files={p:(root/p).read_text() for p in code_paths(root)}
     files.update({p:(root/p).read_text() for p in BATCH_CONTEXT})
     files['cloud_pilot/evidence/activation/real-activation-result.json']=(root/'cloud_pilot/evidence/activation/real-activation-result.json').read_text()
-    for p in ('recovery-tests.txt','recovery-stage2-tests.txt','recovery-m1-tests.txt','recovery-boundary-tests.txt'):
+    files['cloud_pilot/evidence/activation/latest-independent-review.json']=(root/'cloud_pilot/evidence/activation/latest-independent-review.json').read_text()
+    for p in ('current-multilingual-tests.txt','current-stage2-tests.txt','current-m1-tests.txt'):
         files['cloud_pilot/evidence/activation/'+p]=(root/'cloud_pilot/evidence/activation'/p).read_text()
     return dict(stage='independent_candidate_code_review',code_sha=sha,plan=intake(plan),files=files,
+        executed_workflows=workflow_evidence,environment_scope_attestation=scope_attestation,
+        offline_validation_manifest=manifest,
         runtime_contract=dict(scope='Manual source-bound text drafts only; no website publication, image completion or human approval',
             trust_root='Operator-protected approval fingerprint plus required environment reviewer; approval binds one exact workflow run and attempt, immutable caller/reusable workflows, code/plan/rules/prices and a reconciled append-only ledger floor. Environment control commit and fingerprint are read only when the reviewed job starts.',
             recovery='Every new workflow run needs a newly reconciled protected floor and exact run lease. Completed operations are reused; sent/uncertain operations are never blindly resent. Adversarial GitHub owner/provider administrator changing protected approval is outside this owner-controlled pilot threat model.',
@@ -122,9 +137,10 @@ def verified_topic(journal,packet):
                            packet_hash=digest(packet),response_id=result['response_id'])
     return None,None
 
-def run(plan,sha,journal,models,root=ROOT):
+def run(plan,sha,journal,models,root=ROOT,workflow_evidence=None,scope_attestation=None):
     packet=dedup_request(plan,root) # Validate complete review inputs before the first paid request.
-    code=code_request(plan,sha,root)
+    require(workflow_evidence and scope_attestation,'REVIEW_EXECUTED_WORKFLOW_EVIDENCE_REQUIRED')
+    code=code_request(plan,sha,root,workflow_evidence,scope_attestation)
     code_result=models.call('activation-code:'+sha,'review',code)
     c=code_result['content']
     require(c.get('human_reviewed') is False and c.get('publish_approved') is False,'AUDIT_APPROVAL_FORBIDDEN')
@@ -147,12 +163,13 @@ def run(plan,sha,journal,models,root=ROOT):
     report=dict(status='ACTIVATION_REVIEW_PASS' if passed else ('CODE_REVIEW_BLOCKED' if c['decision']!='PASS' else 'TOPIC_REVIEW_HOLD'),
         code_sha=sha,intake_hash=intake_hash(plan),corpus_hash=packet['corpus_hash'],
         dedup_request_hash=digest(packet),
+        executed_workflows=workflow_evidence,environment_scope_attestation=scope_attestation,
         reused_topic_receipt=reused,
         code_review=code_result,topic_review=dedup,human_reviewed=False,publish_approved=False)
     journal.checkpoint('activation-review:'+sha+':'+intake_hash(plan),report)
     return report
 
-def verify_receipt(plan,sha,journal,root=ROOT):
+def verify_receipt(plan,sha,journal,root=ROOT,workflow_evidence=None):
     from ..live.responses import build_request
     packet=dedup_request(plan,root)
     receipt=journal.get_checkpoint('activation-review:'+sha+':'+intake_hash(plan))
@@ -160,9 +177,12 @@ def verify_receipt(plan,sha,journal,root=ROOT):
     require(receipt.get('code_sha')==sha and receipt.get('intake_hash')==intake_hash(plan)
             and receipt.get('corpus_hash')==packet['corpus_hash']
             and receipt.get('dedup_request_hash')==digest(packet),'INDEPENDENT_RECEIPT_DRIFT')
+    require(workflow_evidence and receipt.get('executed_workflows') and
+            {k:v['content_hash'] for k,v in workflow_evidence.items()}==
+            {k:v['content_hash'] for k,v in receipt['executed_workflows'].items()},'REVIEWED_EXECUTABLE_WORKFLOW_DRIFT')
     operations=journal.read()[2]['operations'].values()
     for key,operation,stage,data in (
-        ('code_review','activation-code:'+sha,'review',code_request(plan,sha,root)),
+        ('code_review','activation-code:'+sha,'review',code_request(plan,sha,root,receipt['executed_workflows'],receipt['environment_scope_attestation'])),
         ('topic_review','activation-dedup:'+digest(packet),'research',packet)):
         result=receipt[key]
         completed=[o for o in operations if o['operation']==operation and o['status']=='completed']

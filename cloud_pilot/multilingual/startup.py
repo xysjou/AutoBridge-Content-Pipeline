@@ -13,17 +13,9 @@ def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
 def review_context(root=ROOT,all_versions=False):
     files={p.relative_to(root).as_posix():p.read_text() for p in sorted((root/'reviews').rglob('*.json'))
            if 'handoff' in p.name.lower()}
-    if all_versions:return files
-    def date(path):return max((x.replace('-','') for x in re.findall(r'20\d{2}-?\d{2}-?\d{2}',path)),default='0')
-    groups=[lambda p:'review_handoff' in p.lower(),lambda p:'writing' in p.lower()]
-    selected=set()
-    for group in groups:
-        choices=[p for p in files if group(p)]
-        if choices:selected.add(max(choices,key=lambda p:(date(p),p)))
-    selected.update(p for p in files if re.search(r'q05|reefer|refrigerat',p,re.I))
-    latest=max((date(p) for p in selected),default='0')
-    require(not any(date(p)>latest for p in files if p not in selected),'NEW_REVIEW_HANDOFF_NEEDS_SCOPE_CLASSIFICATION')
-    return {p:files[p] for p in sorted(selected)}
+    # Supply every handoff. Research and Writing must each classify applicability
+    # against their actual topic; filename dates never silently remove evidence.
+    return files
 
 def git(*args):return subprocess.check_output(['git',*args],cwd=ROOT,text=True).strip()
 

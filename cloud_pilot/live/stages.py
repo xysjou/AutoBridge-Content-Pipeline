@@ -82,7 +82,7 @@ def check_research(result,topic,evidence):
         if f['confidence']=='VERIFIED':require(any(source[s]['tier']=='T1' for s in f['source_ids']),'T1_REQUIRED_FOR_VERIFIED')
         if f['confidence']=='CROSS_CHECKED':require(len({source[s]['parent_org'] for s in f['source_ids']})>=2,'CROSS_CHECK_INDEPENDENCE')
         if f['confidence']=='TIME_SENSITIVE':require(f.get('current_applicability_verified') is True,'CURRENTNESS_UNVERIFIED')
-        if f.get('kind')=='standard':
+        if f.get('kind')=='standard' or f.get('standard_related') is True:
             require(all(f.get(k) for k in ('current_version','current_amendment','effective_date','mandatory_from','primary_source_url')),'CURRENT_STANDARD_FIELDS_MISSING')
             require(f['primary_source_url'] in {x.get('final_url',x.get('requested_url')) for x in evidence if x['tier']=='T1'},'STANDARD_PRIMARY_SOURCE')
     require(used==source.keys(),'SOURCE_PADDING_OR_INCOMPLETE_BINDING')
@@ -100,18 +100,32 @@ def check_research(result,topic,evidence):
     return packet
 
 def writing_request(research,version,prior=None,findings=None):
-    return dict(stage='writing',schema=SCHEMA,version=version,research=research,
+    from ..multilingual.research_contract import applies,unlocked
+    if applies(research['topic']):unlocked(research['fact_sheet']['handoff'])
+    result=dict(stage='writing',schema=SCHEMA,version=version,research=research,
         prior_article=prior,independent_revision_findings=findings,
         required_output=dict(title='plain English value',meta='plain English value',h1='plain English value',summary='plain English value',
             sections='list of {text,claim_ids:[allowed fact IDs]}',faq='list of {question,answer,claim_ids}',
             internal_links='list of verified relative URLs or empty',human_reviewed=False,publish_approved=False),
         instruction='Write at least 900 English words, natural article-specific prose, evidence-bound claims and restrained uncertainty. Do not include self-evaluation or internal workflow terms. Never invent images or source URLs. Follow the canonical Writing Skill in full.')
+    if applies(research['topic']):
+        result['required_output'].update(skill_impact='internal object {research,writing,lessons,update_required,reason}',
+            review_handoff_assessment='internal list classifying every supplied handoff {path,applicable:boolean,reason,superseded_by:null|path}')
+    return result
 
 def check_writing(result,research,version,history,prior_bodies):
     from ..multilingual.startup import skill_provenance
     provenance=skill_provenance('writing')
     a=result['content']
-    require(set(a)=={'title','meta','h1','summary','sections','faq','internal_links','human_reviewed','publish_approved'},'WRITER_FIELDS_OR_SELF_EVALUATION')
+    from ..multilingual.research_contract import applies,impact_check,handoff_assessment,unlocked
+    fields={'title','meta','h1','summary','sections','faq','internal_links','human_reviewed','publish_approved'}
+    impact=None;assessment=None
+    if applies(research['topic']):
+        fields.update(('skill_impact','review_handoff_assessment'));unlocked(research['fact_sheet']['handoff'])
+        impact=a.get('skill_impact',{});impact_check(impact)
+        assessment=a.get('review_handoff_assessment');handoff_assessment(assessment)
+    require(set(a)==fields,'WRITER_FIELDS_OR_SELF_EVALUATION')
+    a={k:v for k,v in a.items() if k not in ('skill_impact','review_handoff_assessment')}
     require(a['human_reviewed'] is False and a['publish_approved'] is False,'WRITER_APPROVAL_FORBIDDEN')
     allowed=set(research['fact_sheet']['allowed_facts'])
     for value in [a['title'],a['meta'],a['h1'],a['summary']]:
@@ -138,7 +152,9 @@ def check_writing(result,research,version,history,prior_bodies):
         evidence_hash=research['evidence_hash'],writer_id='writer:'+result['response_id'],
         author='AutoBridge Export Editorial Team',ai_assisted=True,evidence=dict(first_hand=False),
         writing_skill_version_used=provenance['version'],writing_skill_commit_sha_used=provenance['commit'],
-        skill_provenance=provenance,skill_impact_check_done=True,skill_update_required=False,
+        skill_provenance=provenance,skill_impact_check_done=impact is not None,
+        skill_impact_assessment=impact,review_handoff_assessment=assessment,
+        skill_update_required=impact['update_required'] if impact else None,
         public=a,body=body,similarity_max=maximum,manual_similarity_review_required=maximum>.50,
         human_reviewed=False,publish_approved=False,production_eligible=False,
         production_holds=['EN_ONLY','IMAGE_RIGHTS_PENDING','HUMAN_APPROVAL_ABSENT','NO_WEBSITE_PUBLICATION_AUTHORITY'])

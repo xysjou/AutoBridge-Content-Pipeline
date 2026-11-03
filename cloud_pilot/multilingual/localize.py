@@ -200,7 +200,14 @@ def run_multilingual(plan,journal,models,github,english_deliveries):
             result=dict(article=base,review=final['review']) if locale=='en' else localizer.run(base,research,locale)
             article=result['article']; filename=topic['article_id']+'.'+locale+'.md'
             path='cloud_pilot/live_artifacts/multilingual/'+base['content_hash']+'/'+locale+'/'+filename
-            text=markdown(article,research,topic)
+            # The reviewed reader artifact is the deliverable. Keep S05 metadata
+            # as a separate explicitly unreviewed editorial sidecar.
+            text=markdown(article,research,topic,public_only=True)
+            require(result['review']['rendered_hash']==digest(text),'DELIVERED_RENDER_REVIEW_DRIFT')
+            sidecar=path.removesuffix('.md')+'.editorial.json'
+            github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,sidecar,
+                __import__('json').dumps(dict(status='UNREVIEWED_EDITORIAL_METADATA',article_id=article['article_id'],
+                    locale=locale,public=article['public'],image_complete=False,production_url_approved=False),ensure_ascii=False).encode())
             require(len(re.findall(r'^# ',text,re.M))==1,'EXPORT_SINGLE_H1')
             sha=github.put_immutable(__import__('cloud_pilot.live.policy',fromlist=['BRANCH']).BRANCH,path,text.encode())
             files[filename]=dict(path=path,blob_sha=sha,locale=locale,content_hash=article['content_hash'],review_hash=result['review']['review_hash'])

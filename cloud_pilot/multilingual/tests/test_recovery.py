@@ -35,7 +35,7 @@ class Tests(unittest.TestCase):
                 current[0]=value;p.update(caller_workflow_hash=digest(value),trusted_workflow_hash=digest(trusted))
                 if value==text:workflows(p,GH())
                 else:
-                    with self.assertRaisesRegex(GateError,'FORWARDING_SCOPE'):workflows(p,GH())
+                    with self.assertRaisesRegex(GateError,'FORWARDING_SCOPE|DIFFERS_FROM_REVIEWED_CODE'):workflows(p,GH())
 
     def test_provider_count_reserves_this_request_and_resume_never_recounts_or_resends(self):
         class API(ModelAPI):
@@ -103,15 +103,8 @@ class Tests(unittest.TestCase):
         self.assertNotIn('Editorial Review',rendered);self.assertNotIn('Pending rights',rendered)
 
     def test_complete_vehicle_identity_is_required_before_writing(self):
-        topic=plan()['articles'][0];topic['content_type']='VEHICLE_RECOMMENDATION'
-        ev=evidence(topic);r=research_result(topic,ev)['content']
-        for f in r['facts']:f.update(kind='external_fact',checked_date='2026-11-02',buyer_applicability='test only')
-        r['fact_boundary']={k:dict(value='synthetic',confidence='SINGLE_SOURCE',source_ids=['S0']) for k in IDENTITY}
-        r['handoff']={k:topic[k] for k in ('article_id','content_type','search_intent','buyer_task')}
-        from cloud_pilot.contract import BASELINE
-        r['handoff'].update(research_baseline_sha=BASELINE,fact_sheet_version=1,source_log_version=1,
-            conflict_list=[],time_sensitive_facts=[],facts_not_allowed_in_body=r['blocked_facts'],locks=[],
-            skill_impact=dict(research=False,writing=False,lessons=False,update_required=False,reason='synthetic unchanged rules'))
+        from cloud_pilot.multilingual.tests.test_editorial_controls import active_case
+        topic,ev,response=active_case('VEHICLE_RECOMMENDATION');r=response['content']
         research_validate(r,topic,ev)
         del r['fact_boundary']['drivetrain']
         with self.assertRaisesRegex(GateError,'IDENTITY_INCOMPLETE'):research_validate(r,topic,ev)

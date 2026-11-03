@@ -75,10 +75,10 @@
         },
         {
           "source_id": "S4",
-          "url": "https://www.yoojia.com/parameter/m-145670.html",
-          "publisher": "YooJia / Baidu",
-          "parent_org": "YooJia / Baidu",
-          "tier": "T3",
+          "url": "https://price.pcauto.com.cn/m136841/config.html",
+          "publisher": "PCauto",
+          "parent_org": "PCauto",
+          "tier": "T2",
           "scope": {
             "market": "CN",
             "model_year": "2026",
@@ -87,11 +87,11 @@
             "powertrain": "BEV",
             "test_cycle": "CLTC"
           },
-          "permitted_use": "Second configuration database corroborating the core reference figures."
+          "permitted_use": "Exact 2026 China-market 506激光Ultra+ configuration; do not substitute other trims."
         },
         {
           "source_id": "S5",
-          "url": "https://www.changan.com.cn/qiyuan/",
+          "url": "https://www.globalchangan.com/newsroom/changan-automobile-unveils-multi-brand-lineup-at-the-2025-guangzhou-international-automobile-exhibition.html",
           "publisher": "Changan",
           "parent_org": "Changan",
           "tier": "T1",
@@ -103,7 +103,7 @@
             "powertrain": "BEV",
             "test_cycle": "NOT_APPLICABLE"
           },
-          "permitted_use": "Manufacturer family-level corroboration only; not period-specific evidence of every 2026 feature."
+          "permitted_use": "Dated OEM model-family debut and urban battery-electric SUV identity only; no claim of China exact-trim/export equivalence, current availability or stock."
         },
         {
           "source_id": "S6",
@@ -234,7 +234,7 @@
     }
   ],
   "authorized_redirect_urls": [],
-  "note": "Populated real-topic intake, not authorization. Independent semantic dedup is pending. No earlier chat-authored article is passed as API output. Source access and scope must be rechecked during execution. The refrigerated-truck scope is narrowed to pre-shipment acceptance evidence to distinguish the existing Foton Aumark model/chassis/unit buyer guide.",
+  "note": "Populated real-topic intake, not authorization. Independent semantic dedup is pending. No earlier chat-authored article is passed as API output. Source access and scope must be rechecked during execution. The refrigerated-truck scope is narrowed to pre-shipment acceptance evidence to distinguish the existing Foton Aumark model/chassis/unit buyer guide. Source correction 2026-11-03: replace the empty YooJia parameter shell and Changan family shell with exact PCauto configuration and a dated OEM release. Keep the YooJia listing as evidence of listing status only. Independent intake dedup must be refreshed.",
   "target_site": "https://autobridgetrade.top/",
   "locales": [
     "en",

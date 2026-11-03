@@ -38,7 +38,7 @@ class Tests(unittest.TestCase):
                 return dict(content=c)
         m=M()
         with patch('cloud_pilot.multilingual.activation_review.dedup_request',return_value={'corpus_index':[],'corpus_hash':'hash'}),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
-            self.assertEqual('CODE_REVIEW_BLOCKED',run(p,'code',Journal(),m)['status'])
+            self.assertEqual('CODE_REVIEW_BLOCKED',run(p,'code',Journal(),m,workflow_evidence={'test':True},scope_attestation={'test':True})['status'])
         self.assertEqual(['review','research'],m.calls)
 
     def test_overlap_never_grants_dedup_pass(self):
@@ -50,6 +50,6 @@ class Tests(unittest.TestCase):
                 if stage=='research':content.update(decision='OVERLAP',articles=[dict(article_id='A',decision='DISTINCT',nearest_paths=[]),dict(article_id='B',decision='OVERLAP',nearest_paths=['existing.md'])],additional_paths=[])
                 return dict(content=content)
         with patch('cloud_pilot.multilingual.activation_review.dedup_request',return_value=packet),patch('cloud_pilot.multilingual.activation_review.code_request',return_value={}):
-            self.assertEqual('TOPIC_REVIEW_HOLD',run(p,'code',Journal(),M())['status'])
+            self.assertEqual('TOPIC_REVIEW_HOLD',run(p,'code',Journal(),M(),workflow_evidence={'test':True},scope_attestation={'test':True})['status'])
 
 if __name__=='__main__':unittest.main()

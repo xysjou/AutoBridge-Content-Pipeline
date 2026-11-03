@@ -97,7 +97,9 @@ class Tests(unittest.TestCase):
             text=self.gh.artifacts[f['path']].decode()
             self.assertEqual(1,len(re.findall(r'^# ',text,re.M)))
             from cloud_pilot.multilingual.localize import LABELS
-            self.assertIn('## SEO Metadata',text);self.assertIn('## '+LABELS[f['locale']][1],text)
+            self.assertNotIn('## SEO Metadata',text);self.assertIn('## '+LABELS[f['locale']][1],text)
+            sidecar=json.loads(self.gh.artifacts[f['path'].removesuffix('.md')+'.editorial.json'])
+            self.assertEqual('UNREVIEWED_EDITORIAL_METADATA',sidecar['status'])
         before=len(self.api.calls)
         again=run_multilingual(self.plan,self.journal,self.models,self.gh,self.english())
         self.assertEqual(result,again);self.assertEqual(before,len(self.api.calls))
