@@ -75,7 +75,26 @@ class Tests(unittest.TestCase):
         c.update(scope_status='CONTEXT_ONLY',official_source=False,scope_match=True)
         with self.assertRaisesRegex(GateError,'SCOPE_FIELDS_CONTRADICT'):validate(r['content'],topic,ev)
         c['scope_match']=False
-        with self.assertRaisesRegex(GateError,'MATCHED_PRIMARY'):validate(r['content'],topic,ev)
+        with self.assertRaisesRegex(GateError,'CONTEXT_ONLY_SOURCE'):validate(r['content'],topic,ev)
+
+    def test_context_only_t2_cannot_authorize_identity_or_core_spec(self):
+        from cloud_pilot.multilingual.research_contract import validate,accept
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION');c=r['content']['source_checks'][0]
+        ev[0]['tier']='T2';c.update(scope_status='CONTEXT_ONLY',scope_match=False,official_source=False)
+        for v in r['content']['fact_boundary'].values():v['confidence']='SINGLE_SOURCE'
+        for f in r['content']['facts']:
+            if 'S0' in f['source_ids']:f['confidence']='SINGLE_SOURCE'
+        with self.assertRaisesRegex(GateError,'CORE_IDENTITY_CONTEXT_ONLY'):validate(r['content'],topic,ev)
+        topic,ev,r=active_case('BUYING_GUIDE');p=check_research(r,topic,ev);review=self.acceptance(p)
+        p['evidence'][0]['tier']='T2';p['fact_sheet']['source_checks'][0].update(scope_status='CONTEXT_ONLY',scope_match=False,official_source=False)
+        review['content']['fact_assessments'][0]['role']='CORE_VEHICLE_SPEC'
+        with self.assertRaisesRegex(GateError,'INDEPENDENT_CORE_CONTEXT_ONLY'):accept(review,p)
+        topic,ev,r=active_case('VEHICLE_RECOMMENDATION')
+        ev[1]['tier']='T2';r['content']['source_checks'][1].update(scope_status='CONTEXT_ONLY',scope_match=False,official_source=False)
+        r['content']['facts'][1]['confidence']='SINGLE_SOURCE'
+        with self.assertRaisesRegex(GateError,'CORE_SPEC_CONTEXT_ONLY'):validate(r['content'],topic,ev)
+        ev[1]['scope']=dict(ev[1]['scope'],generation='FAMILY_CONTEXT');r['content']['facts'][1]['scope']=ev[1]['scope']
+        p=check_research(r,topic,ev);accept(self.acceptance(p),p)
 
     def test_real_second_research_epoch_locks_old_writer_before_replacement(self):
         from cloud_pilot.multilingual.editorial_state import EditorialState

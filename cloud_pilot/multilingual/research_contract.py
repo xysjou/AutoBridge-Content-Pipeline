@@ -44,6 +44,7 @@ def extend_request(payload):
     payload['instruction']+=' Lock all required identity fields. Never call a media alias an OEM-proven export equivalent. Unknown production end/current stock may remain explicitly UNVERIFIED and blocked under RESEARCH_CONDITIONAL; core model, year, market, trim, body style, powertrain and drivetrain must be established. Editorial procurement recommendations are methods, not government or manufacturer requirements. Assess Skill impact; do not invent a negative assessment. All facts not allowed in the body and conflicts must be listed in the handoff.'
     payload['instruction']+=' Each identity boundary value must be a literal source-language value appearing in each supporting quotation; keep Chinese source values in the internal identity object and translate their meaning only in English prose. Only T1 or T2 evidence may establish core vehicle identity/specifications; two T3 organizations do not establish a core specification. Independently classify standards/regulatory claims regardless of kind, including short citations and mandatory claims disguised as methods; UNCERTAIN cannot enter allowed_facts. Do not call an ordinary buyer recommendation a law or standard.'
     payload['instruction']+=' Set scope_match exactly to (scope_status == MATCHED). CONTEXT_ONLY means scope_match=false and official_source=false; it may support only accurately scoped contextual facts, never a VERIFIED fact about the reference vehicle.'
+    payload['instruction']+=' For a vehicle recommendation, fact_boundary is directly the object with the ten identity keys; do not wrap it in a vehicle key. Every identity supporting fact must explicitly include identity_field. Sources credited for core identity or specifications must be MATCHED, never CONTEXT_ONLY.'
     return payload
 
 def impact_check(impact):
@@ -103,6 +104,7 @@ def validate(r,topic,evidence,expected_version=1):
                 for f in support:
                     for sid in f['source_ids']:
                         e=sources[sid]
+                        require(checks[sid]['scope_status']=='MATCHED','CORE_IDENTITY_CONTEXT_ONLY_SOURCE')
                         require(f['scope']==e['scope'] and any(q['source_id']==sid and q['quote'] in e['text']
                                   and str(v['value']).casefold() in q['quote'].casefold()
                                   for q in f['quotes']),'IDENTITY_SCOPED_VALUE_QUOTE:'+k)
@@ -131,6 +133,7 @@ def validate(r,topic,evidence,expected_version=1):
                 require(numbers(f['value'])|numbers(f['statement'])<=numbers(quoted),'QUANTITATIVE_DIRECT_QUOTE_REQUIRED')
             if topic['content_type']=='VEHICLE_RECOMMENDATION' and f['kind']=='external_fact' and f['scope']==topic['sources'][0]['scope']:
                 require(all(sources[s]['tier'] in ('T1','T2') for s in f['source_ids']),'CORE_SPEC_SOURCE_TIER')
+                require(all(checks[s]['scope_status']=='MATCHED' for s in f['source_ids']),'CORE_SPEC_CONTEXT_ONLY_SOURCE')
         standard_gate(f,sources)
         if f.get('confidence')=='TIME_SENSITIVE':require(f['id'] in h['time_sensitive_facts'],'TIME_SENSITIVE_HANDOFF_MISSING')
     require(not allowed.intersection(h['conflict_list']),'CONFLICT_ALLOWED_IN_BODY')
@@ -165,6 +168,7 @@ def accept(result,packet):
     rows=r.get('fact_assessments',[])
     require(len(rows)==len(allowed) and {x.get('fact_id') for x in rows}==allowed,'INDEPENDENT_FACT_CLASSIFICATION_COVERAGE')
     sources={e['source_id']:e for e in packet['evidence']};topic=packet['topic']
+    checks={c['source_id']:c for c in packet['fact_sheet']['source_checks']}
     for row in rows:
         f=facts[row['fact_id']];role=row.get('role')
         require(role in ('CORE_VEHICLE_SPEC','REGULATORY_OR_STANDARD','BACKGROUND','EDITORIAL_METHOD')
@@ -175,6 +179,8 @@ def accept(result,packet):
         if role=='CORE_VEHICLE_SPEC':
             require(row.get('exact_vehicle_applicability') is True and all(sources[s]['tier'] in ('T1','T2') for s in f['source_ids']),
                     'INDEPENDENT_CORE_SPEC_TIER_OR_SCOPE')
+            require(all(checks[s]['scope_status']=='MATCHED' for s in f['source_ids']),
+                    'INDEPENDENT_CORE_CONTEXT_ONLY_SOURCE')
             if topic['content_type']=='VEHICLE_RECOMMENDATION':require(f['scope']==topic['sources'][0]['scope'],'INDEPENDENT_CORE_FAMILY_SCOPE')
         if f.get('identity_field'):
             contexts=row.get('identity_contexts',[]);markers=topic.get('source_vehicle_identity',{})

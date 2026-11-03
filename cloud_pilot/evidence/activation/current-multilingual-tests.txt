@@ -9,6 +9,7 @@ test_overlap_never_grants_dedup_pass (test_activation.Tests.test_overlap_never_g
 test_active_quantitative_fact_without_value_or_unit_stops_research (test_editorial_controls.Tests.test_active_quantitative_fact_without_value_or_unit_stops_research) ... ok
 test_active_standard_classification_requires_current_fields_for_both_article_types (test_editorial_controls.Tests.test_active_standard_classification_requires_current_fields_for_both_article_types) ... ok
 test_alternate_regulation_citations_and_unrelated_primary_source_fail (test_editorial_controls.Tests.test_alternate_regulation_citations_and_unrelated_primary_source_fail) ... ok
+test_context_only_t2_cannot_authorize_identity_or_core_spec (test_editorial_controls.Tests.test_context_only_t2_cannot_authorize_identity_or_core_spec) ... ok
 test_descendant_checkout_is_not_the_current_main_startup_gate (test_editorial_controls.Tests.test_descendant_checkout_is_not_the_current_main_startup_gate) ... ok
 test_durable_writing_lock_detects_research_update_in_scoped_journal (test_editorial_controls.Tests.test_durable_writing_lock_detects_research_update_in_scoped_journal) ... ok
 test_forbidden_handoff_fact_stops_both_active_writing_transitions (test_editorial_controls.Tests.test_forbidden_handoff_fact_stops_both_active_writing_transitions) ... ok
@@ -82,6 +83,6 @@ test_protected_transfer_checks_raw_hash_and_preserves_dates_and_declarations (te
 test_self_consistent_forged_cached_text_is_reconstructed_from_raw (test_source_cache.Tests.test_self_consistent_forged_cached_text_is_reconstructed_from_raw) ... ok
 
 ----------------------------------------------------------------------
-Ran 82 tests in 22.191s
+Ran 83 tests in 22.930s
 
 OK
