@@ -58,7 +58,12 @@ def check_research(result,topic,evidence,expected_version=1):
     require(set(r)==fields,'RESEARCH_OUTPUT_FIELDS')
     require(r.get('human_reviewed') is False and r.get('publish_approved') is False,'RESEARCH_APPROVAL_FORBIDDEN')
     require(r.get('status') in ('RESEARCH_PASS','RESEARCH_CONDITIONAL','RESEARCH_FAIL'),'RESEARCH_STATUS')
-    require(r['status']!='RESEARCH_FAIL' and r.get('writing_ai_ready') is True,'RESEARCH_STOPS_WRITING')
+    if applies(topic):
+        from ..multilingual.research_records import verdict_shape
+        verdict_shape(r,topic,evidence,expected_version)
+        if r['status']=='RESEARCH_FAIL' or r['writing_ai_ready'] is False:
+            return research_packet(result,topic,evidence,expected_version)
+    else:require(r['status']!='RESEARCH_FAIL' and r.get('writing_ai_ready') is True,'RESEARCH_STOPS_WRITING')
     source={e['source_id']:e for e in evidence}
     checks={c['source_id']:c for c in r['source_checks']}
     require(checks.keys()==source.keys(),'SOURCE_CHECK_COVERAGE')
@@ -90,6 +95,12 @@ def check_research(result,topic,evidence,expected_version=1):
     require(used==source.keys(),'SOURCE_PADDING_OR_INCOMPLETE_BINDING')
     if r['status']=='RESEARCH_CONDITIONAL':require(blocked,'CONDITIONAL_BLOCKLIST_REQUIRED')
     validate_handoff(r,topic,evidence,expected_version)
+    return research_packet(result,topic,evidence,expected_version)
+
+def research_packet(result,topic,evidence,expected_version):
+    from ..multilingual.startup import skill_provenance
+    from ..multilingual.research_contract import applies
+    r=result['content']
     packet=dict(schema=SCHEMA,program_id=PROGRAM,article_id=topic['article_id'],version=expected_version,
         baseline_sha=BASELINE,rules=rules(),researcher_id='research:'+result['response_id'],
         evidence_hash=digest(evidence),evidence=evidence,fact_sheet=r,topic=topic,

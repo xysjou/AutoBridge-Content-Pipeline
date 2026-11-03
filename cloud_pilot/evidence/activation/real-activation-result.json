@@ -2,10 +2,10 @@
   "schema": "autobridge-real-activation-result/1.0",
   "status": "HOLD_CODE_FIXES_PENDING_INDEPENDENT_REVIEW",
   "date": "2026-11-03",
-  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41582115064",
-  "reviewed_code_sha": "e59f6fa1a028dd1705f17c228a5742d5995d78ee",
-  "paid_generation_requests": 13,
-  "settled_cost_nano_usd": 1719443750,
+  "latest_audit_run": "https://github.com/xysjou/AutoBridge-Content-Pipeline/actions/runs/41583757749",
+  "reviewed_code_sha": "12128a37394445f66c8cba08fbf109e2158b617a",
+  "paid_generation_requests": 15,
+  "settled_cost_nano_usd": 1997350300,
   "budget_cap_nano_usd": 3000000000,
   "uncertain_operations": 0,
   "english_articles_generated": 0,
@@ -18,33 +18,33 @@
       "decision": "BLOCK",
       "findings": [
         {
-          "detail": "seal_research publishes an immutable RESEARCH_READY.json with WRITING_AI_READY=true before the mandatory independent fact review. The same file says that review is pending, while the handoff reports research_locked=false and the durable research lock remains active. A rejected proposal can therefore remain available as an apparently ready canonical handoff.",
-          "file": "cloud_pilot/multilingual/publication.py; cloud_pilot/live/engine.py",
-          "required_fix": "Persist the proposal as locked and not writing-ready. After independent fact acceptance, publish a final research handoff and review record with consistent readiness and lock fields, and bind writing to that completion commit.",
+          "detail": "Publication recovery attempts to write its invalidation record under daily/.../qa/, but the inherited put_immutable method accepts only cloud_pilot/live_artifacts/ paths. The real recovery path therefore raises ARTIFACT_PATH before invalidation or fence release. The regression test uses a fake transport that does not enforce this restriction.",
+          "file": "cloud_pilot/multilingual/publication.py; cloud_pilot/live/http.py",
+          "required_fix": "Add a narrowly scoped, immutable canonical QA writer and test recovery through the real transport path constraints, including expired evidence and a subsequent research epoch.",
           "severity": "high"
         },
         {
-          "detail": "Research can begin after the last editorial.check but while a writing or localization model call is in flight. The English path can checkpoint the stale article and call its reviewer before checking the changed research head again. Publication is subsequently fenced, but stale work and paid review can occur during research remediation.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/localize.py; cloud_pilot/multilingual/editorial_state.py",
-          "required_fix": "Fence model-stage starts against research mutation, and recheck the research fence immediately after each writing or localization call and before checkpointing or initiating review. Add interleaving tests for these active paths.",
+          "detail": "A source retrieval or archive failure produces only a generic halt. Successfully collected partial evidence, the failed source, blocked facts and a canonical research verdict are not persisted, so the required research handoff is missing.",
+          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/publication.py",
+          "required_fix": "Persist a non-writing-ready research failure with the available source log, access failure, blocked facts and handoff before stopping. Test failure at each source position.",
           "severity": "high"
         },
         {
-          "detail": "A delivery failure leaves the publication fence active. If the cached source evidence expires before recovery, the old epoch cannot pass evidence validation, while a new research epoch cannot begin because the fence blocks research mutations. No verified cancellation or reconciliation path is provided to release that fence.",
-          "file": "cloud_pilot/live/engine.py; cloud_pilot/multilingual/localize.py; cloud_pilot/multilingual/editorial_state.py",
-          "required_fix": "Implement an operator-authorized, auditable recovery or abort protocol that verifies or invalidates partially created draft artifacts before releasing the fence. Test recovery after evidence expiry, including a new research epoch.",
+          "detail": "check_research rejects every non-ready result before validating its verdict, and persist_failed_research unconditionally changes the result to RESEARCH_FAIL. A valid non-ready RESEARCH_CONDITIONAL verdict is therefore misreported as FAIL, and malformed responses can lack the required blocked-fact fields.",
+          "file": "cloud_pilot/live/stages.py; cloud_pilot/multilingual/publication.py",
+          "required_fix": "Validate and persist PASS, CONDITIONAL and FAIL separately, preserving legitimate non-ready conditional status and its boundaries. For malformed output, create an explicitly incomplete failure record with the missing fields and no writing readiness.",
           "severity": "high"
         },
         {
-          "detail": "check_research rejects RESEARCH_FAIL or writing_ai_ready=false before a research packet is persisted. The engine records only a generic halt, so a failed article does not receive the required canonical verdict, blocked facts, source log and handoff.",
-          "file": "cloud_pilot/live/stages.py; cloud_pilot/live/engine.py; cloud_pilot/multilingual/publication.py",
-          "required_fix": "Persist every research verdict, including FAIL and non-ready CONDITIONAL, under the research file boundary with its fact sheet, source log, blocked facts and handoff. Keep writing disabled until a fresh eligible version is completed.",
+          "detail": "The canonical handoff and source log omit mandatory publish-grade fields. In particular, source rows do not record source titles or supported facts, while HANDOFF.json lacks required allowed/blocked facts, source counts and scope status. Those values being partly available in other packet files does not make the handoff complete.",
+          "file": "cloud_pilot/multilingual/publication.py; cloud_pilot/multilingual/research_contract.py; cloud_pilot/multilingual/sources.py",
+          "required_fix": "Build and validate the complete per-package handoff and source log from directly supported evidence, including titles, supported facts, source counts, scope, allowed and blocked facts, confidence and applicable identity fields.",
           "severity": "high"
         },
         {
-          "detail": "The mandatory startup sequence requires a git pull before research and writing. The workflow checks out a pinned revision, and startup.verify compares local and remote-tracking identifiers, but the supplied active path does not perform the required pull. It nevertheless records PRE_RESEARCH_SYNC_PASS.",
-          "file": ".github/workflows/cloud-pilot-trusted.yml; cloud_pilot/multilingual/startup.py",
-          "required_fix": "Implement the prescribed main synchronization sequence before research, verify the live origin head and record the actual resulting identifiers. Fail the startup gate if synchronization cannot be completed.",
+          "detail": "The startup synchronization is recorded only in the operational journal, not in the Daily Manifest or RESEARCH_READY startup block as required. After research completes, the active path starts writing without the prescribed writing-stage pull and pre-writing startup checklist.",
+          "file": "cloud_pilot/multilingual/startup.py; cloud_pilot/live/engine.py; cloud_pilot/multilingual/publication.py",
+          "required_fix": "Record actual startup identifiers in the canonical batch artifact and perform and document the required writing-stage synchronization and checklist against the completed research baseline before any writing call.",
           "severity": "high"
         }
       ],
@@ -52,7 +52,7 @@
       "publish_approved": false
     },
     "model": "gpt-6.1-terra",
-    "response_id": "resp_00d8f5d212734a78016ae96d4939c887d28c69a0cf28918e48"
+    "response_id": "resp_02be6de1f7d56798016ae9709d862c87d184468f65d65a5bfa"
   },
   "topic_dedup": {
     "content": {
@@ -63,10 +63,9 @@
           "decision": "DISTINCT",
           "nearest_paths": [
             "daily/2026-09-02/research/reserves/AB-260902-VR2_Changan_Qiyuan_Q05_2024.md",
-            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md",
-            "batches/batch_20260901_001/articles/AB50_025_Guide_best_chinese_suvs_southeast_asia/versions/v4.md"
+            "daily/2026-09-02/articles/guides/AB-260902-G06_RHD_Chinese_Cars.md"
           ],
-          "reason": "The reserve covers a China-market 2024 Qiyuan Q05 PHEV, while the proposed task concerns an identified 2026 Q05 BEV and a shortlist decision that includes stock/availability, charging and service checks. The RHD guide mentions a Q05 Thai-market prospect, and the Southeast Asia SUV article supplies a country-specific shortlist method; neither answers the proposed vehicle-specific buying task. Keep the 2024 PHEV and 2026 BEV distinct, and do not assume the China and overseas names identify the same model without explicit OEM proof. Verification of the proposed 2026 vehicle identity and availability remains a research matter, not a deduplication finding."
+          "reason": "The reserve covers a China-market 2024 Q05 PHEV reference, while this topic is an urban-sourcing shortlist decision for an identified 2026 Q05 BEV, including stock, charging, service and exact-trim checks. The shared Q05 name alone does not establish identical vehicle identity or duplicate intent; keep the year, powertrain and configuration boundaries explicit."
         },
         {
           "article_id": "PILOT-REEFER-GUIDE",
@@ -75,9 +74,9 @@
             "daily/2026-09-02/articles/vehicle/AB-260902-V10_Foton_Aumark_Refrigerated_Truck.md",
             "daily/2026-09-04/articles/vehicle/AB-260904-V10_Dongfeng_TianjinKR.md",
             "daily/2026-09-02/articles/guides/AB-260902-G10_Commercial_Fleet_Procurement.md",
-            "daily/2026-09-02/articles/vehicle/AB-260902-V07_JAC_Kangling_Light_Truck.md"
+            "daily/2026-09-04/articles/guides/AB-260904-G05_PDI_Pre_Shipment.md"
           ],
-          "reason": "The nearest pages cover refrigerated-truck configurations, chassis/body/refrigeration-unit separation, procurement checks, or general fleet acceptance criteria. The proposed buyer task is narrower and different: agree and document acceptance evidence for the completed reefer, including identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and responsibility. Keep it focused on the acceptance demonstration and evidence record; avoid repeating chassis/unit selection and model-specification material."
+          "reason": "The existing reefer pages focus on chassis, body, refrigeration-unit specifications and sourcing checks; fleet procurement covers broader tender acceptance, while PDI covers general pre-shipment handover and carrier rules. This proposed guide has a distinct completed-truck acceptance-evidence decision scope: identity, cargo and ambient conditions, sensor records, door-opening pattern, power modes and responsibility allocation. Keep it centered on the acceptance demonstration rather than repeating equipment-selection advice."
         }
       ],
       "decision": "PASS",
@@ -85,12 +84,13 @@
       "publish_approved": false
     },
     "model": "gpt-6-luna",
-    "response_id": "resp_06ebb34d1fb0da48016ae96daab0b487d2a297376f7a707215"
+    "response_id": "resp_051f577e6a2e08e8016ae970f5c2b487d19d41381764d55dbe"
   },
   "fixes_awaiting_independent_review": [
-    "Locked proposal and canonical FAIL records; accepted completion and independent review committed before Writing",
-    "Atomic model-stage fencing with immediate post-response checks in actual English and locale paths",
-    "Protected operator abort verifies partial artifacts and closes draft PRs, persists canonical invalidation, marks old Research UPDATE_REQUIRED, then releases fence; available before stale evidence validation",
-    "Real fetch/checkout/pull main synchronization, with approved head verified before credentials"
+    "Narrow immutable canonical QA writer and real-transport recovery test",
+    "Source failures persist available partial evidence, failed source, canonical FAIL/handoff before stopping",
+    "Valid non-ready CONDITIONAL preserved; malformed FAIL explicitly incomplete with original response retained",
+    "Full canonical Source Log and package handoff including direct raw-HTML source titles, supported facts, scope, confidence, identity and allowed/blocked lists",
+    "Actual startup manifest, post-Research pull, immutable completion receipt, and pre-Writing pull/read/checklist with independent per-Lesson assessment"
   ]
 }

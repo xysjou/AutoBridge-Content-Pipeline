@@ -7,36 +7,40 @@ from .stages import (validate_plan,research_request,check_research,writing_reque
                      check_writing,review_request,check_review)
 
 class Engine:
-    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=(),guard=lambda:None):
+    def __init__(self,plan,history,journal,models,github,fetch,prior_bodies=(),guard=lambda:None,startup=None):
         validate_plan(plan,history)
         self.plan,self.history,self.journal=plan,history,journal
         self.models,self.github,self.fetch,self.prior_bodies=models,github,fetch,tuple(prior_bodies)
         self.guard=guard
+        self.startup=startup;self.partial_evidence=[];self.failed_source=None
 
     def cached(self,key):
         return self.journal.get_checkpoint(key)
 
     def evidence(self,topic):
+        self.partial_evidence=[];self.failed_source=None
         key='evidence:'+topic['article_id']
         old=self.cached(key)
         if old is not None:
+            self.partial_evidence=old
             require(all(0<=(now()-datetime.fromisoformat(e['retrieved_at'])).total_seconds()<=86400 for e in old),'SOURCE_EVIDENCE_STALE')
             from ..multilingual.research_contract import applies
             if applies(topic):
                 from ..multilingual.source_cache import validate
                 validate(old,topic)
             return old
-        evidence=[]
+        evidence=[];self.partial_evidence=evidence
         for source in topic['sources']:
+            self.failed_source=dict(source_id=source['source_id'],url=source['url'])
             redirects=source.get('authorized_redirect_urls',[])
             require(set(redirects)<=set(self.plan.get('authorized_redirect_urls',[])),'SOURCE_REDIRECT_NOT_APPROVED')
             allowed={source['url'],*redirects}
             result,raw=self.fetch(source,allowed)
+            evidence.append(result)
             path='cloud_pilot/live_artifacts/sources/'+result['raw_sha256']+'.bin'
             blob=self.github.put_immutable(BRANCH,path,raw)
             result.update(raw_artifact_path=path,raw_artifact_blob=blob)
             result.pop('evidence_hash',None);result['evidence_hash']=digest(result)
-            evidence.append(result)
         # Any source access/parse/persistence failure aborts before Research/Writing API.
         self.journal.checkpoint(key,evidence)
         return evidence
@@ -72,7 +76,12 @@ class Engine:
                 if final:prior.append(final['article']['body'])
                 continue
             try:evidence=self.evidence(topic)
-            except Exception:
+            except Exception as error:
+                if active:
+                    from ..multilingual.publication import persist_source_failure
+                    failure_start=started or editorial.begin(aid,getattr(self.journal,'prefix','')+':source-failure:'+aid)
+                    failed=persist_source_failure(self.github,topic,self.partial_evidence,failure_start,error,self.startup,self.failed_source)
+                    self.journal.checkpoint('failed-source-research:'+aid,failed)
                 self.journal.halt(aid,'source',1,'SOURCE_FAILED_NO_WRITING');raise
             research=self.cached('research:'+aid)
             proposal=self.cached('research-proposal:'+aid) if active else None
@@ -83,17 +92,34 @@ class Engine:
                     from ..multilingual.editorial_state import EditorialState
                     expected_version=started['version']
                     data['instruction']+=' Set fact_sheet_version and source_log_version to '+str(expected_version)+'. This durable current Research version overrides the initial output-schema example.'
-                response=self.models.call(aid+':research','research',data)
+                try:response=self.models.call(aid+':research','research',data)
+                except Exception as error:
+                    if active:
+                        from ..multilingual.publication import persist_failed_research
+                        failed=persist_failed_research(self.github,dict(content={},startup_gate=self.startup or {},
+                            failure='MODEL_RESULT_UNAVAILABLE_SEE_DURABLE_RESPONSE_LEDGER'),topic,evidence,started,error)
+                        self.journal.checkpoint('failed-research:'+aid,failed)
+                    raise
                 try:research=check_research(response,topic,evidence,expected_version)
                 except Exception as error:
                     if active:
                         from ..multilingual.publication import persist_failed_research
-                        failed=persist_failed_research(self.github,response,topic,evidence,started,error)
+                        failed=persist_failed_research(self.github,dict(response,startup_gate=self.startup or {}),topic,evidence,started,error)
                         self.journal.checkpoint('failed-research:'+aid,failed)
                     self.journal.halt(aid,'research',1,'RESEARCH_FAILED_NO_WRITING');raise
                 if active:
                     editorial.assert_research(started)
                     from ..multilingual.publication import seal_research
+                    research['startup_gate']=self.startup or {}
+                    if self.startup is not None:
+                        from ..multilingual.startup import verify
+                        research['research_end_gate']=verify(self.startup['approved_main_sha'],self.plan)
+                    if research['fact_sheet']['status']=='RESEARCH_FAIL' or research['fact_sheet']['writing_ai_ready'] is False:
+                        research['research_phase']='WITHHELD'
+                        withheld=seal_research(self.github,research,started)
+                        self.journal.checkpoint('withheld-research:'+aid,withheld)
+                        self.journal.halt(aid,'research',expected_version,'RESEARCH_VERDICT_NOT_WRITING_READY')
+                        require(False,'RESEARCH_VERDICT_NOT_WRITING_READY')
                     proposal=seal_research(self.github,research,started)
                     self.journal.checkpoint('research-proposal:'+aid,proposal)
                     research=None
@@ -118,11 +144,19 @@ class Engine:
                             raise
                         self.journal.checkpoint(review_key,accepted)
                     editorial.assert_research(proposal['research_start'])
-                    research=complete_research(self.github,proposal,accepted)
+                    completion_sync=None
+                    if self.startup is not None:
+                        from ..multilingual.startup import verify
+                        completion_sync=verify(self.startup['approved_main_sha'],self.plan)
+                    research=complete_research(self.github,proposal,accepted,completion_sync)
                     self.journal.checkpoint('research:'+aid,research)
                 verify_research(self.github,research)
                 from ..multilingual.editorial_state import EditorialState
                 editorial=EditorialState(self.journal);editorial.lock(research)
+                if self.startup is not None:
+                    from ..multilingual.startup import writing_startup
+                    writing_record=writing_startup(self.startup['approved_main_sha'],self.plan,research,self.github)
+                    self.journal.checkpoint('writing-startup:'+research['research_hash']+':'+digest(writing_record),writing_record)
             require(research['evidence_hash']==digest(evidence),'RESEARCH_EVIDENCE_CHANGED')
             prior_article,findings=None,None
             for version in range(1,4):  # v1 + at most two revisions

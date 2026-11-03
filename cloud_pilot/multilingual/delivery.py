@@ -1,11 +1,25 @@
 """Create one-file candidate commits; verify exact ancestry and PR diff on every return."""
 import base64
+import re
 from urllib.parse import quote
 from ..contract import canonical,digest,require
 from ..live.http import GitHubTransport
 from ..live.policy import BRANCH
 
 class VerifiedGitHub(GitHubTransport):
+    def put_canonical_qa(self,path,body):
+        require(re.fullmatch(r'daily/2026-11-03/qa/api-pilot/(?:publication-aborts|startup)/[0-9a-f]{64}\.json',path),'CANONICAL_QA_PATH')
+        status,obj=self.api.request('GET',self.prefix+'/contents/'+path+'?ref='+quote(BRANCH,safe=''))
+        if status==200:
+            require(base64.b64decode(obj['content'])==body,'CANONICAL_QA_IMMUTABLE_CONFLICT')
+            return obj['sha']
+        require(status==404,'CANONICAL_QA_LOOKUP')
+        status,obj=self.api.request('PUT',self.prefix+'/contents/'+path,dict(branch=BRANCH,
+            message='Add immutable pilot canonical QA record',content=base64.b64encode(body).decode()))
+        require(status==201,'CANONICAL_QA_WRITE_UNCONFIRMED')
+        status,read=self.api.request('GET',self.prefix+'/contents/'+path+'?ref='+quote(BRANCH,safe=''))
+        require(status==200 and read['sha']==obj['content']['sha'] and base64.b64decode(read['content'])==body,'CANONICAL_QA_READBACK')
+        return read['sha']
     def call(self,method,path,payload=None,expected=200):
         status,obj=self.api.request(method,self.prefix+path,payload)
         require(status==expected,'CANDIDATE_GITHUB_UNCONFIRMED:'+str(status));return obj

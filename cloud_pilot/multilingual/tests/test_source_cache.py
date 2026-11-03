@@ -27,7 +27,7 @@ class Tests(unittest.TestCase):
     def transfer_fixture(self):
         topic=plan()['articles'][0];topic['content_type']='BUYING_GUIDE';old=[];blobs={}
         for i,s in enumerate(topic['sources']):
-            raw=('<p>'+('synthetic public evidence '+str(i)+'; ')*20+'</p>').encode()
+            raw=('<title>Synthetic source '+str(i)+'</title><p>'+('synthetic public evidence '+str(i)+'; ')*20+'</p>').encode()
             sha=hashlib.sha256(raw).hexdigest();blob='blob-'+str(i);path='cloud_pilot/live_artifacts/sources/'+sha+'.bin'
             e=dict(source_id=s['source_id'],requested_url=s['url'],final_url=s['url'],
                 publisher=s['publisher'],parent_org=s['parent_org'],tier=s['tier'],scope=s['scope'],
@@ -45,8 +45,8 @@ class Tests(unittest.TestCase):
         j=ResponseJournal(ArtifactStore());j.checkpoint('origin',old);scoped=EpochJournal(j,1,{'code':'new'})
         permit=dict(source_evidence_transfers=[dict(article_id=topic['article_id'],origin_checkpoint='origin',origin_evidence_hash=digest(old),operator_verified=True)])
         out=[]
-        for e in old:
-            new=copy.deepcopy(e);new.update(content_type='text/html;charset=utf-8',representation_code_sha='new-code',archive_origin_checkpoint='origin')
+        for i,e in enumerate(old):
+            new=copy.deepcopy(e);new.update(content_type='text/html;charset=utf-8',source_title='Synthetic source '+str(i),representation_code_sha='new-code',archive_origin_checkpoint='origin')
             new['evidence_hash']=digest(new);out.append(new)
         permit['source_evidence_transfers'][0].update(expected_target_checkpoint=scoped.prefix+'evidence:'+topic['article_id'],expected_target_evidence_hash=digest(out))
         return topic,old,j,scoped,GH(),permit

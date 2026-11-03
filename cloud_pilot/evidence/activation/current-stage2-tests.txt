@@ -47,6 +47,6 @@ test_valid_permit_is_bound_to_code_plan_prices_and_expiry (test_live.LiveTests.t
 test_writer_blocks_unknown_claim_and_public_leak (test_live.LiveTests.test_writer_blocks_unknown_claim_and_public_leak) ... ok
 
 ----------------------------------------------------------------------
-Ran 47 tests in 3.608s
+Ran 47 tests in 6.433s
 
 OK

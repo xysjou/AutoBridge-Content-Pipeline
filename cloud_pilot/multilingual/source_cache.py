@@ -6,7 +6,7 @@ from datetime import datetime,timezone
 from urllib.parse import quote
 from ..contract import digest,require
 from ..live.policy import BRANCH
-from .sources import extract,MAX_BYTES
+from .sources import extract,source_title,MAX_BYTES
 from ..live.sources import PlainText
 
 def archive_content_type(raw,e):
@@ -82,8 +82,10 @@ def restore(permit,plan,journal,scoped,github,code_sha):
             text=extract(raw,content_type,s)
             new={k:v for k,v in e.items() if k!='evidence_hash'}
             new.update(text=text,text_sha256=hashlib.sha256(text.encode()).hexdigest(),
+                       source_title=source_title(raw,content_type),
                        tier=s['tier'],content_type=content_type,representation_code_sha=code_sha,archive_origin_checkpoint=d['origin_checkpoint'])
             new['evidence_hash']=digest(new);out.append(new)
+            scoped.checkpoint('source-transfer-progress:'+aid+':'+s['source_id'],out)
         validate(out,topic)
         require(d.get('expected_target_checkpoint')==scoped.prefix+key and digest(out)==d.get('expected_target_evidence_hash'),'SOURCE_TRANSFER_EXPECTED_TARGET_DRIFT')
         require(cached is None or cached==out,'SOURCE_TRANSFER_RECONSTRUCTED_TARGET_DRIFT')

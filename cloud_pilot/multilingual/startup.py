@@ -9,7 +9,15 @@ BATCH_CONTEXT=(
  'daily/2026-11-02/research/scope-alignment-feedback.json',
  'daily/2026-11-02/research/seo-acceptance-requirements.json')
 
-def batch_context():return {p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
+def batch_context():
+    files={p:(ROOT/p).read_text() for p in BATCH_CONTEXT}
+    # Actual related Fact Sheets/Source Logs and published URL state are read,
+    # rather than treating the article-title history index as their contents.
+    for p in sorted((ROOT/'daily').glob('**/research/**/*')):
+        if p.is_file() and p.suffix in ('.md','.json') and re.search(r'Q05|Aumark|Commercial_Fleet|PDI_Pre|Pre_Shipment|AB-260902-(?:V10|G10|VR2)|AB-260904-G05',p.name,re.I):
+            files[p.relative_to(ROOT).as_posix()]=p.read_text()
+    for p in sorted((ROOT/'state').glob('*.json')):files[p.relative_to(ROOT).as_posix()]=p.read_text()
+    return files
 
 def review_context(root=ROOT,all_versions=False):
     files={p.relative_to(root).as_posix():p.read_text() for p in sorted((root/'reviews').rglob('*.json'))
@@ -67,3 +75,29 @@ class EpochJournal:
     def checkpoint(self,key,value):return self.journal.checkpoint(self.prefix+key,value)
     def get_checkpoint(self,key):return self.journal.get_checkpoint(self.prefix+key)
     def __getattr__(self,key):return getattr(self.journal,key)
+
+def lesson_ids():
+    text=(ROOT/'LESSONS_LEARNED.md').read_text()
+    return sorted(set(re.findall(r'^#{2,3} LESSON:\s*([A-Z_]+)',text,re.M)+
+                      re.findall(r'^\d+\.\s+\*\*([A-Z_]+)\*\*',text,re.M)))
+
+def writing_startup(main_sha,plan,research,github):
+    import json,base64
+    from .publication import verify_research,json_bytes,DATE
+    record=verify(main_sha,plan) # Includes actual git pull and full rule reads.
+    completion=verify_research(github,research)
+    manifest=research['startup_gate']['canonical_daily_manifest']
+    obj=github.call('GET','/contents/'+manifest['path']+'?ref='+manifest['commit_sha'])
+    actual=json.loads(base64.b64decode(obj['content']))
+    from .activation_review import intake
+    require(digest(actual)==manifest['content_hash'] and intake(actual['plan'])==intake(plan),'WRITING_DAILY_MANIFEST_DRIFT')
+    rows=research['independent_fact_review']['verdict']['lesson_assessments']
+    require({r['lesson_id'] for r in rows}==set(lesson_ids()) and all(r['triggered'] is False for r in rows),'PRE_WRITING_LESSON_ERROR')
+    record.update(stage='PRE_WRITING',RESEARCH_BASELINE_SHA=completion['commit_sha'],
+        research_files_read=completion['files'],daily_manifest_read=manifest,lesson_assessments=rows,
+        checklist=dict(repo_pulled=True,lessons_read=True,fact_sheets_read=True,source_logs_read=True,
+            daily_manifest_read=True,each_lesson_checked=True,no_historical_error_triggered=True),
+        human_reviewed=False,publish_approved=False)
+    path=f'daily/{DATE}/qa/api-pilot/startup/{digest(record)}.json'
+    github.put_canonical_qa(path,json_bytes(record))
+    return record

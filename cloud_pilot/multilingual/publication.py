@@ -45,15 +45,19 @@ def isolated(gh,branch,parent,files,message):
 
 def research_files(raw):
     aid=raw['article_id'];require(re.fullmatch(r'PILOT-[A-Z0-9-]+',aid),'EDITORIAL_ARTICLE_ID')
-    path=f'daily/{DATE}/research/api-pilot/{aid}/versions/v{raw["version"]}/'
+    phase='accepted' if raw.get('research_phase')=='ACCEPTED' else 'proposals/'+raw['research_hash']
+    path=f'daily/{DATE}/research/api-pilot/{aid}/versions/v{raw["version"]}/{phase}/'
+    from .research_records import complete_records
+    sheet,log,handoff=complete_records(raw,path)
     accepted=raw.get('research_phase')=='ACCEPTED'
     ready=dict(article_id=aid,FACT_SHEET_VERSION=raw['version'],SOURCE_LOG_VERSION=raw['version'],
         RESEARCH_STATUS=raw['fact_sheet']['status'],WRITING_AI_READY=accepted,
         research_locked=not accepted,independent_fact_review='ACCEPTED' if accepted else 'PENDING_OR_FAILED',human_reviewed=False,publish_approved=False,
         source_url_count=len(raw['evidence']),source_org_count=len({e['parent_org'] for e in raw['evidence']}),
         immutable_research_hash=raw['research_hash'])
-    files={path+'FACT_SHEET.json':json_bytes(raw['fact_sheet']),path+'SOURCE_LOG.json':json_bytes(raw['evidence']),
-            path+'HANDOFF.json':json_bytes(raw['fact_sheet']['handoff']),path+'RESEARCH_READY.json':json_bytes(ready),
+    ready['startup_gate']=raw.get('startup_gate',{})
+    files={path+'FACT_SHEET.json':json_bytes(sheet),path+'SOURCE_LOG.json':json_bytes(log),
+            path+'HANDOFF.json':json_bytes(handoff),path+'RESEARCH_READY.json':json_bytes(ready),
             path+'research.json':json_bytes(raw)}
     if accepted:files[path+'INDEPENDENT_REVIEW.json']=json_bytes(raw['independent_fact_review'])
     return files
@@ -70,25 +74,65 @@ def seal_research(gh,research,start):
     sha=isolated(gh,branch,parent,files,message)
     raw['completion']=dict(commit_sha=sha,branch=branch,parent_sha=parent,input_research_hash=raw['research_hash'],
         files={p:hashlib.sha256(b).hexdigest() for p,b in files.items()},message=message)
+    if raw.get('research_phase')=='ACCEPTED':
+        receipt=dict(RESEARCH_COMPLETE_COMMIT_SHA=sha,ARTICLE_ID=raw['article_id'],FACT_SHEET_VERSION=raw['version'],
+            completion=copy.deepcopy(raw['completion']),WRITING_AI_READY=True,PUBLISH_APPROVED=False,HUMAN_REVIEWED=False)
+        receipt_path=f'daily/{DATE}/research/api-pilot/{raw["article_id"]}/versions/v{raw["version"]}/completion-receipt.json'
+        receipt_message='Record pushed Research completion '+sha
+        receipt_sha=isolated(gh,'research/api-completion-'+sha[:20],sha,{receipt_path:json_bytes(receipt)},receipt_message)
+        raw['completion']['receipt']=dict(commit_sha=receipt_sha,path=receipt_path,content_hash=digest(receipt),message=receipt_message)
     raw['research_hash']=digest({k:v for k,v in raw.items() if k!='research_hash'})
     return raw
 
-def complete_research(gh,proposal,accepted):
+def complete_research(gh,proposal,accepted,completion_sync=None):
     require(accepted['research_hash']==proposal['research_hash'] and accepted['verdict']['decision']=='ACCEPT','RESEARCH_ACCEPTANCE_REQUIRED')
     raw=copy.deepcopy(proposal);raw.pop('completion');raw.pop('research_hash')
     raw.update(research_phase='ACCEPTED',proposal_reference=proposal['completion'],independent_fact_review=accepted)
+    if completion_sync is not None:raw['research_completion_sync']=completion_sync
     raw['fact_sheet']['writing_ai_ready']=True
     raw['fact_sheet']['handoff'].update(research_locked=False,locks=[])
     return seal_research(gh,raw,proposal['research_start'])
 
 def persist_failed_research(gh,response,topic,evidence,start,error):
-    sheet=copy.deepcopy(response.get('content',{}))
-    sheet.update(status='RESEARCH_FAIL',writing_ai_ready=False,validation_error=str(error))
-    h=sheet.setdefault('handoff',{});h.update(research_baseline_sha=topic['research_baseline_sha'],
+    original=response.get('content',{});sheet=copy.deepcopy(original) if isinstance(original,dict) else {}
+    from .research_records import REQUIRED
+    missing=sorted(REQUIRED-set(sheet))
+    sheet.update(status='RESEARCH_FAIL',writing_ai_ready=False,validation_error=str(error),
+        record_completeness='INCOMPLETE_MODEL_OR_SOURCE_FAILURE',missing_output_fields=missing)
+    for k in ('facts','allowed_facts','source_checks','blocked_facts'):
+        if not isinstance(sheet.get(k),list):sheet[k]=[]
+    sheet['facts']=[f for f in sheet['facts'] if isinstance(f,dict) and isinstance(f.get('id'),str) and isinstance(f.get('statement'),str)]
+    for f in sheet['facts']:
+        if not isinstance(f.get('source_ids'),list):f['source_ids']=[]
+    for k in ('allowed_facts','blocked_facts'):sheet[k]=[x for x in sheet[k] if isinstance(x,str)]
+    if not isinstance(sheet.get('fact_boundary'),dict):sheet['fact_boundary']={}
+    sheet['blocked_facts']=list(dict.fromkeys(sheet['blocked_facts']+['INCOMPLETE_RESEARCH_RECORD:'+str(error)]))
+    if not isinstance(sheet.get('handoff'),dict):sheet['handoff']={}
+    h=sheet['handoff'];h.update(research_baseline_sha=topic['research_baseline_sha'],
         research_locked=True,writing_locked=False,locks=['RESEARCH_LOCK'],fact_update_required=True)
+    if not isinstance(h.get('facts_not_allowed_in_body'),list):h['facts_not_allowed_in_body']=[]
+    h['facts_not_allowed_in_body']=list(dict.fromkeys([x for x in h['facts_not_allowed_in_body'] if isinstance(x,str)]+sheet['blocked_facts']))
     raw=dict(article_id=topic['article_id'],version=start['version'],topic=topic,evidence=evidence,
-        fact_sheet=sheet,research_phase='FAILED',raw_model_response=response,human_reviewed=False,publish_approved=False)
+        fact_sheet=sheet,research_phase='FAILED',raw_model_response=response,startup_gate=response.get('startup_gate',{}),human_reviewed=False,publish_approved=False)
     return seal_research(gh,raw,start)
+
+def persist_source_failure(gh,topic,evidence,start,error,startup=None,failed_source=None):
+    response=dict(startup_gate=startup or {},content=dict(status='RESEARCH_FAIL',writing_ai_ready=False,facts=[],allowed_facts=[],
+        blocked_facts=['SOURCE_ACCESS_OR_ARCHIVE_FAILURE'],source_checks=[],fact_boundary={},handoff={},
+        access_failure=dict(error=str(error),failed_source=failed_source),human_reviewed=False,publish_approved=False))
+    record=persist_failed_research(gh,response,topic,evidence,start,error)
+    return record
+
+def push_startup_manifest(gh,startup,plan,run_id):
+    path=f'daily/{DATE}/research/api-pilot/startup/{run_id}/daily_manifest.json'
+    record=dict(BATCH_ID='api-pilot-'+DATE,STATUS='BLOCKED',TOTAL_MAIN=len(plan['articles']),TOTAL_RESERVE=0,
+        MAIN_PASS_COUNT=0,MAIN_CONDITIONAL_COUNT=0,MAIN_FAIL_COUNT=0,WRITING_READY_COUNT=0,
+        BLOCKED_ARTICLES=[t['article_id'] for t in plan['articles']],stage='PRE_RESEARCH',startup_gate=startup,
+        articles=[dict(ARTICLE_ID=t['article_id'],WRITING_AI_READY=False,RESEARCH_STATUS='PENDING') for t in plan['articles']],
+        plan=plan,PUBLISH_APPROVED=False,HUMAN_REVIEWED=False)
+    files={path:json_bytes(record)}
+    sha=isolated(gh,'research/api-startup-'+digest(record)[:20],startup['approved_main_sha'],files,'Record actual pilot Research startup '+digest(record))
+    return dict(commit_sha=sha,path=path,content_hash=digest(record))
 
 def verify_research(gh,research):
     require(research['research_hash']==digest({k:v for k,v in research.items() if k!='research_hash'}),'RESEARCH_PACKET_CHANGED')
@@ -98,6 +142,11 @@ def verify_research(gh,research):
     files=research_files(raw)
     require(c['files']=={p:hashlib.sha256(b).hexdigest() for p,b in files.items()},'RESEARCH_COMPLETION_FILES_DRIFT')
     verify_files(gh,c['commit_sha'],files,c['message'],c['parent_sha'])
+    if research.get('research_phase')=='ACCEPTED':
+        ref=c['receipt'];expected=dict(RESEARCH_COMPLETE_COMMIT_SHA=c['commit_sha'],ARTICLE_ID=research['article_id'],FACT_SHEET_VERSION=research['version'],
+            completion={k:v for k,v in c.items() if k!='receipt'},WRITING_AI_READY=True,PUBLISH_APPROVED=False,HUMAN_REVIEWED=False)
+        require(digest(expected)==ref['content_hash'],'RESEARCH_COMPLETION_RECEIPT_CHANGED')
+        verify_files(gh,ref['commit_sha'],{ref['path']:json_bytes(expected)},ref['message'],c['commit_sha'])
     return c
 
 def writing_files(package):
@@ -195,6 +244,6 @@ def recover_publication(gh,journal,authorization):
         consequence='Historical drafts invalidated. A fresh eligible Research epoch is required; no publication or CURRENT promotion.')
     path=f'daily/{DATE}/qa/api-pilot/publication-aborts/{token["fence"]}.json'
     proof['invalidation_path']=path
-    gh.put_immutable(BRANCH,path,json_bytes(proof))
+    gh.put_canonical_qa(path,json_bytes(proof))
     state.abort_publication(token,proof)
     return proof

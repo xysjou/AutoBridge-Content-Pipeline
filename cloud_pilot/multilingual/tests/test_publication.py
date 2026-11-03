@@ -37,7 +37,8 @@ class GitMemory:
             self.creates+=1;self.refs[payload['ref'].removeprefix('refs/heads/')]=payload['sha'];return dict(object=dict(sha=payload['sha']))
         if path.startswith('/commits/'):
             sha=path.rsplit('/',1)[1];c=self.commits[sha]
-            return dict(sha=sha,parents=[dict(sha=c['parent'])],commit=dict(message=c['message']),files=[dict(filename=p,status='added',sha=blob_hash(b)) for p,b in self.trees[c['tree']].items()])
+            before=self.trees[self.commits[c['parent']]['tree']]
+            return dict(sha=sha,parents=[dict(sha=c['parent'])],commit=dict(message=c['message']),files=[dict(filename=p,status='added' if p not in before else 'modified',sha=blob_hash(b)) for p,b in self.trees[c['tree']].items() if before.get(p)!=b])
         if path.startswith('/contents/'):
             name,ref=path.removeprefix('/contents/').split('?ref=');sha=self.refs.get(unquote(ref),unquote(ref));body=self.trees[self.commits[sha]['tree']][name]
             return dict(encoding='base64',content=base64.b64encode(body).decode(),sha=blob_hash(body))
@@ -77,14 +78,14 @@ class Tests(unittest.TestCase):
         with self.assertRaisesRegex(GateError,'RESEARCH_LOCK_UPDATE_REQUIRED'):s.check(r)
 
     def test_engine_locks_before_source_collection_and_keeps_lock_on_failure(self):
-        p=plan();topic,_,_=active_case('VEHICLE_RECOMMENDATION');p['articles'][0]=topic
+        p=plan();topic,_,_=active_case('VEHICLE_RECOMMENDATION');topic['research_baseline_sha']='a'*40;p['articles'][0]=topic
         j=ResponseJournal(ArtifactStore());state=EditorialState(j)
         class Models:
             def call(self,*args):raise AssertionError('SOURCE_FAILURE_MUST_PREVENT_MODELS')
         def fetch(*args):
             self.assertIsNotNone(state.snapshot()['articles'][topic['article_id']]['research_lock'])
             raise GateError('SOURCE_LIMITATION')
-        with self.assertRaisesRegex(GateError,'SOURCE_LIMITATION'):Engine(p,history(),j,Models(),GitHub(),fetch).run()
+        with self.assertRaisesRegex(GateError,'SOURCE_LIMITATION'):Engine(p,history(),j,Models(),GitMemory(),fetch).run()
         self.assertIsNotNone(state.snapshot()['articles'][topic['article_id']]['research_lock'])
 
     def test_pushed_research_has_canonical_files_and_actual_commit_baseline(self):
@@ -110,9 +111,68 @@ class Tests(unittest.TestCase):
         result['content'].update(status='RESEARCH_FAIL',writing_ai_ready=False,blocked_facts=['unsupported'])
         gh=GitMemory();failed=persist_failed_research(gh,result,topic,ev,dict(version=1),GateError('FACT_MISSING'))
         verify_research(gh,failed);self.assertEqual(ev,failed['evidence'])
-        self.assertEqual(['unsupported'],failed['fact_sheet']['blocked_facts'])
+        self.assertIn('unsupported',failed['fact_sheet']['blocked_facts'])
         self.assertFalse(failed['fact_sheet']['writing_ai_ready'])
         self.assertEqual(5,len(failed['completion']['files']))
+
+    def test_valid_nonready_conditional_verdict_is_preserved(self):
+        topic,ev,result=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+        result['content']['handoff']['research_baseline_sha']='a'*40
+        result['content'].update(status='RESEARCH_CONDITIONAL',writing_ai_ready=False)
+        packet=check_research(result,topic,ev);packet['research_phase']='WITHHELD'
+        gh=GitMemory();sealed=seal_research(gh,packet,dict(version=1))
+        self.assertEqual('RESEARCH_CONDITIONAL',sealed['fact_sheet']['status'])
+        self.assertFalse(sealed['fact_sheet']['writing_ai_ready']);verify_research(gh,sealed)
+
+    def test_source_failure_at_every_position_keeps_available_evidence_and_handoff(self):
+        for position in range(6):
+            with self.subTest(position=position):
+                p=plan();topic,ev,_=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40;p['articles'][0]=topic
+                j=ResponseJournal(ArtifactStore());gh=GitMemory();calls=[]
+                def fetch(source,allowed):
+                    i=len(calls);calls.append(source['source_id'])
+                    if i==position:raise GateError('SOURCE_ACCESS_FAILED')
+                    return copy.deepcopy(ev[i]),ev[i]['text'].encode()
+                gh.put_immutable=lambda *args:'synthetic-raw-blob'
+                class Models:
+                    def call(self,*args):raise AssertionError('FAILED_SOURCE_MUST_NOT_GENERATE')
+                with self.assertRaisesRegex(GateError,'SOURCE_ACCESS_FAILED'):Engine(p,history(),j,Models(),gh,fetch).run()
+                record=j.get_checkpoint('failed-source-research:'+topic['article_id'])
+                self.assertEqual(position,len(record['evidence']));self.assertFalse(record['fact_sheet']['writing_ai_ready'])
+                self.assertEqual(topic['sources'][position]['source_id'],record['fact_sheet']['access_failure']['failed_source']['source_id'])
+                verify_research(gh,record)
+
+    def test_complete_accepted_source_log_and_handoff_fields(self):
+        from cloud_pilot.multilingual.publication import research_files
+        topic,ev,result=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+        result['content']['handoff']['research_baseline_sha']='a'*40;gh=GitMemory()
+        proposal=seal_research(gh,check_research(result,topic,ev),dict(version=1))
+        complete=complete_research(gh,proposal,dict(research_hash=proposal['research_hash'],verdict=dict(decision='ACCEPT')))
+        files=research_files({k:v for k,v in complete.items() if k!='completion'})
+        log=json.loads(next(b for p,b in files.items() if p.endswith('/SOURCE_LOG.json')))
+        handoff=json.loads(next(b for p,b in files.items() if p.endswith('/HANDOFF.json')))
+        self.assertTrue(all(s['SOURCE_TITLE'] and s['SUPPORTED_FACT'] and s['CONFIDENCE'] for s in log))
+        self.assertEqual(6,handoff['SOURCE_URL_COUNT']);self.assertTrue(handoff['FACTS_ALLOWED_IN_BODY'])
+        self.assertTrue(handoff['WRITING_AI_READY']);self.assertIn('FACT_BOUNDARY_STATUS',handoff)
+
+    def test_writing_startup_reads_actual_manifest_and_research_completion(self):
+        from cloud_pilot.multilingual.publication import push_startup_manifest
+        from cloud_pilot.multilingual.startup import writing_startup,lesson_ids
+        topic,ev,result=active_case('BUYING_GUIDE');topic['research_baseline_sha']='a'*40
+        result['content']['handoff']['research_baseline_sha']='a'*40
+        p=dict(articles=[topic],execution_phase='english');gh=GitMemory()
+        startup=dict(approved_main_sha='a'*40,startup_gate=dict(REPO_HEAD_SHA='a'*40,LESSONS_LEARNED_SHA='b'*40))
+        startup['canonical_daily_manifest']=push_startup_manifest(gh,startup,p,'synthetic-run')
+        raw=check_research(result,topic,ev);raw['startup_gate']=startup
+        proposal=seal_research(gh,raw,dict(version=1))
+        rows=[dict(lesson_id=k,applicable=False,triggered=False,reason='Synthetic verified lesson') for k in lesson_ids()]
+        complete=complete_research(gh,proposal,dict(research_hash=proposal['research_hash'],verdict=dict(decision='ACCEPT',lesson_assessments=rows)))
+        writes=[];gh.put_canonical_qa=lambda path,body:writes.append((path,json.loads(body)))
+        with patch('cloud_pilot.multilingual.startup.verify',return_value=copy.deepcopy(startup)) as sync:
+            record=writing_startup('a'*40,p,complete,gh)
+        sync.assert_called_once_with('a'*40,p)
+        self.assertEqual(complete['completion']['commit_sha'],record['RESEARCH_BASELINE_SHA'])
+        self.assertTrue(all(record['checklist'].values()));self.assertEqual(1,len(writes))
 
     def test_live_localizer_fences_both_paid_stages_against_research(self):
         from cloud_pilot.multilingual.localize import Localizer,validate
@@ -162,15 +222,20 @@ class Tests(unittest.TestCase):
         from cloud_pilot.live.policy import BRANCH
         j=ResponseJournal(ArtifactStore());s=EditorialState(j);r=research();s.lock(r)
         token=s.begin_publication([r],'multilingual:old-bundle');writes=[]
-        class GH:
-            prefix='/repo';api=None
-            def request(self,*a):return 404,{}
-            def put_immutable(self,branch,path,body):
-                self.api=self;writes.append((path,json.loads(body)))
+        from cloud_pilot.multilingual.delivery import VerifiedGitHub
+        class API:
+            host='api.github.com'
+            stored=None
+            def request(self,method,path,payload=None):
+                if '/qa/api-pilot/publication-aborts/' not in path:return 404,{}
+                if method=='GET':return (200,self.stored) if self.stored else (404,{})
+                body=base64.b64decode(payload['content']);writes.append((path,json.loads(body)))
                 # The fence stays active until the invalidation is persisted.
                 if s.snapshot()['publication']!=token:raise AssertionError('EARLY_UNLOCK')
-        gh=GH();gh.api=gh
+                self.stored=dict(sha=blob_hash(body),content=payload['content']);return 201,dict(content=dict(sha=self.stored['sha']))
+        gh=VerifiedGitHub(API())
         proof=recover_publication(gh,j,dict(action='ABORT_AND_INVALIDATE',fence=token['fence'],reason='Evidence expired after delivery failure'))
         self.assertEqual('VERIFIED_INVALIDATED',proof['status']);self.assertEqual(1,len(writes))
+        with self.assertRaisesRegex(GateError,'CANONICAL_QA_PATH'):gh.put_canonical_qa('daily/2026-11-03/articles/arbitrary.json',b'{}')
         with self.assertRaisesRegex(GateError,'UPDATE_REQUIRED'):s.check(r)
         self.assertEqual(2,s.begin(r['article_id'],'fresh-source-epoch')['version'])

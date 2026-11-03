@@ -116,6 +116,8 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
         from .publication import recover_publication
         recover_publication(github,scoped,permit['publication_recovery'])
     if not audit_only:
+        from .publication import push_startup_manifest
+        startup['canonical_daily_manifest']=push_startup_manifest(github,startup,plan,os.environ['GITHUB_RUN_ID'])
         # Source inspection for candidate audit is read-only pre-Research work.
         # Actual execution acquires Research fences before any refresh/transfer.
         from .editorial_state import EditorialState
@@ -125,7 +127,19 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
                 start=editorial.begin(topic['article_id'],scoped.prefix+':'+topic['article_id'])
                 editorial.assert_research(start)
     from .source_cache import restore
-    source_transfers=restore(permit,plan,journal,scoped,github,sha)
+    try:source_transfers=restore(permit,plan,journal,scoped,github,sha)
+    except Exception as error:
+        if not audit_only:
+            from .publication import persist_source_failure
+            checkpoints=journal.read()[2]['checkpoints']
+            for topic in plan['articles']:
+                aid=topic['article_id'];prefix=scoped.prefix+'source-transfer-progress:'+aid+':'
+                candidates=[journal.get_checkpoint(k) for k in checkpoints if k.startswith(prefix)]
+                available=max(candidates,key=len,default=[])
+                start=editorial.begin(aid,scoped.prefix+':'+aid)
+                failed=persist_source_failure(github,topic,available,start,error,startup,'PROTECTED_SOURCE_TRANSFER')
+                scoped.checkpoint('failed-source-research:'+aid,failed)
+        raise
     if audit_only:
         from .activation_review import run
         probe=Engine(shape,history,scoped,raw_models,github,retrieve)
@@ -150,7 +164,7 @@ def execute(plan_path,prices_path,permit_path,audit_only=False):
             return result
     models=EditorialModels()
     prior=[(ROOT/d['path']).read_text() for d in history['documents'] if d['path'].startswith(('batches/','daily/'))]
-    deliveries=Engine(plan,history,journal,models,github,retrieve,prior,guard=permission).run()
+    deliveries=Engine(plan,history,journal,models,github,retrieve,prior,guard=permission,startup=startup).run()
     if plan['execution_phase']=='english':
         return dict(status='ENGLISH_PHASE_COMPLETE_NOT_FULL_PRODUCTION',draft_prs=deliveries,
                     expected_final_drafts=24,website_published=False)

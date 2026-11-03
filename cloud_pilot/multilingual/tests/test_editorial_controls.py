@@ -10,6 +10,8 @@ from cloud_pilot.multilingual.startup import review_context
 
 def active_case(kind):
     topic=plan()['articles'][0];topic['content_type']=kind;ev=evidence(topic)
+    topic['research_baseline_sha']=BASELINE
+    for e,s in zip(ev,topic['sources']):e.update(publisher=s['publisher'],requested_url=s['url'],source_title='Synthetic source '+s['source_id'])
     topic['source_vehicle_identity']=dict(model='Testmodel',model_year='2026',trim='TEST')
     response=research_result(topic,ev);r=response['content']
     for f in r['facts']:
@@ -46,7 +48,9 @@ class Tests(unittest.TestCase):
             if f.get('identity_field'):
                 row['identity_contexts']=[dict(source_id=q['source_id'],field_quote=q['quote'],vehicle_context_quote='Testmodel 2026 TEST exact vehicle reference heading',linked_same_vehicle=True) for q in f['quotes']]
             rows.append(row)
-        return dict(response_id='independent',content=dict(research_hash=packet['research_hash'],decision='ACCEPT',checks={k:True for k in CHECKS},findings=[],fact_assessments=rows,human_reviewed=False,publish_approved=False))
+        from cloud_pilot.multilingual.startup import lesson_ids
+        lessons=[dict(lesson_id=k,applicable=False,triggered=False,reason='Synthetic lesson check') for k in lesson_ids()]
+        return dict(response_id='independent',content=dict(research_hash=packet['research_hash'],decision='ACCEPT',checks={k:True for k in CHECKS},findings=[],fact_assessments=rows,lesson_assessments=lessons,human_reviewed=False,publish_approved=False))
 
     def test_independent_classification_catches_unlabelled_core_and_regulatory_claims(self):
         from cloud_pilot.multilingual.research_contract import accept

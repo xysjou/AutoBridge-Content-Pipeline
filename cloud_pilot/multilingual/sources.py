@@ -2,12 +2,29 @@
 import hashlib
 import re
 import json
+from html.parser import HTMLParser
 from urllib.parse import urljoin
 from ..contract import require,digest
 from ..live.sources import url_parts,public_addresses,PinnedHTTPS,PlainText
 from ..live.policy import timestamp
 
 MAX_BYTES=1_000_000  # Base64 evidence stays inside the existing 2 MB API read bound.
+
+def source_title(raw,content_type):
+    document=decode(raw,content_type)
+    if content_type.split(';')[0].strip().lower()!='text/html':return document.splitlines()[0].strip()
+    class Titles(HTMLParser):
+        def __init__(self):super().__init__(convert_charrefs=True);self.current=None;self.values={'title':[],'h1':[]}
+        def handle_starttag(self,tag,attrs):
+            if tag in self.values:self.current=tag
+        def handle_endtag(self,tag):
+            if tag==self.current:self.current=None
+        def handle_data(self,data):
+            if self.current:self.values[self.current].append(data)
+    p=Titles();p.feed(document)
+    title=' '.join(''.join(p.values['title'] or p.values['h1']).split())
+    require(title and len(title)<=2000,'SOURCE_TITLE_NOT_CAPTURED')
+    return title
 
 def extract(raw,content_type,source):
     text=decode(raw,content_type)
@@ -71,6 +88,7 @@ def retrieve(source,allowed,resolver=None,connection=PinnedHTTPS):
                 scope=source['scope'],retrieved_at=timestamp(),status=200,mime=mime,
                 raw_sha256=hashlib.sha256(raw).hexdigest(),text_sha256=hashlib.sha256(text.encode()).hexdigest(),
                 content_type=ct,resolved_ips=ips,connected_ip=ips[0],redirects=hops,text=text,
+                source_title=source_title(raw,ct),
                 authority_status='DECLARED_SOURCE_REQUIRES_RESEARCH_AND_REVIEW',synthetic=False)
             result['evidence_hash']=digest(result)
             return result,raw

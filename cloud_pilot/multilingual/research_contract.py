@@ -136,10 +136,13 @@ def validate(r,topic,evidence,expected_version=1):
     require(not allowed.intersection(h['conflict_list']),'CONFLICT_ALLOWED_IN_BODY')
 
 def request(packet):
+    from .startup import lesson_ids
     return dict(stage='independent_research_review',research=packet,
+        mandatory_lesson_ids=lesson_ids(),
         required_output=dict(research_hash=packet['research_hash'],decision='ACCEPT | NEEDS_RESEARCH',
             checks={k:'boolean' for k in CHECKS},findings='list of concrete factual deficiencies',
             fact_assessments='one independent {fact_id,role:CORE_VEHICLE_SPEC|REGULATORY_OR_STANDARD|BACKGROUND|EDITORIAL_METHOD,source_ids,entailed:boolean,exact_vehicle_applicability:boolean,reason,identity_contexts:[{source_id,field_quote,vehicle_context_quote,linked_same_vehicle:boolean}]} for EVERY allowed fact; classify meaning independently of Research labels. Each identity context must connect its field quote to the exact model, year and trim heading/table, not another vehicle on the page.',
+            lesson_assessments='one {lesson_id,applicable:boolean,triggered:boolean,reason} for EVERY supplied mandatory_lesson_id, assessed against the full supplied canonical Lessons and actual Research; any triggered lesson requires NEEDS_RESEARCH',
             human_reviewed=False,publish_approved=False),
         instruction='This is a locked proposal: writing_ai_ready=false and RESEARCH_LOCK deliberately remain until your independent acceptance. Assess factual eligibility; the pending lock is not a factual deficiency. Independently read every source text, each allowed fact and the full identity/handoff. A literal quote match does not prove entailment. Classify ALL facts by their meaning, regardless of kind, quantitative, identity_field or standard_assessment supplied by Research. A battery feature or family-scoped spec is still a core spec when used to describe the reference car; a compulsory permit is a regulatory obligation even without a named standard. Regulatory/legal obligations are outside this two-topic pilot and must be blocked rather than approved. ACCEPT only if every allowed external fact is directly supported at its exact scope, editorial methods are distinguished from external requirements, core identity is established by field and same-vehicle heading/table context, current stock/export equivalence is not inferred, and the buyer task is answerable without blocked facts. Unknown production end/current stock can remain a clearly blocked conditional boundary if the exact reference identity is established. Do not invent an editorial rule or human/publication approval.')
 
@@ -153,6 +156,11 @@ def accept(result,packet):
     require(r.get('decision')=='ACCEPT' and set(r.get('checks',{}))==set(CHECKS)
             and all(v is True for v in r['checks'].values()) and r.get('findings')==[],
             'INDEPENDENT_RESEARCH_REVIEW_REQUIRES_RESEARCH')
+    from .startup import lesson_ids
+    lessons=r.get('lesson_assessments',[])
+    require(len(lessons)==len(lesson_ids()) and {x.get('lesson_id') for x in lessons}==set(lesson_ids())
+            and all(type(x.get('applicable')) is bool and x.get('triggered') is False and x.get('reason') for x in lessons),
+            'INDEPENDENT_RESEARCH_LESSON_CHECK_REQUIRED')
     facts={f['id']:f for f in packet['fact_sheet']['facts']};allowed=set(packet['fact_sheet']['allowed_facts'])
     rows=r.get('fact_assessments',[])
     require(len(rows)==len(allowed) and {x.get('fact_id') for x in rows}==allowed,'INDEPENDENT_FACT_CLASSIFICATION_COVERAGE')
