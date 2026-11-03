@@ -1,0 +1,42 @@
+{
+  "schema": "autobridge-pricing/2.0",
+  "verified_at": "2026-11-03T11:02:42.192481+00:00",
+  "rates": {
+    "gpt-6-luna": {
+      "input": 100,
+      "cached": 10,
+      "write": 125,
+      "output": 500,
+      "long_input": 200,
+      "long_cached": 20,
+      "long_write": 250,
+      "long_output": 750
+    },
+    "gpt-6.1-terra": {
+      "input": 1000,
+      "cached": 50,
+      "write": 1250,
+      "output": 5000,
+      "long_input": 2000,
+      "long_cached": 100,
+      "long_write": 2500,
+      "long_output": 7500
+    }
+  },
+  "context": 1050000,
+  "max_output": 8000,
+  "service_tier": "default",
+  "cache_ttl": "30m",
+  "snapshot_ids": [
+    "gpt-6-luna",
+    "gpt-6.1-terra"
+  ],
+  "immutable_dated_snapshot_available": false,
+  "source_urls": [
+    "https://developers.openai.com/api/docs/pricing",
+    "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+    "https://developers.openai.com/api/docs/models/gpt-6-luna",
+    "https://developers.openai.com/api/docs/guides/prompt-caching"
+  ],
+  "editorial_max_output": 24000
+}
