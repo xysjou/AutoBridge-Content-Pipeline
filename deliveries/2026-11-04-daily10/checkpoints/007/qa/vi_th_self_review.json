@@ -1,0 +1,90 @@
+{
+  "reconstruction": true,
+  "reconstruction_note": "Rebuilt from preserved conversation, reconciled to new English; no original byte identity claim.",
+  "status": "PARTIAL_RECOVERY",
+  "completed_topics": [
+    "xpeng-g6",
+    "xpeng-g9"
+  ],
+  "remaining_topics": [
+    "nio-et5",
+    "smart-1",
+    "byd-seal-u-dm-i",
+    "odometer-service-history-reconciliation",
+    "flood-damage-evidence-used-car-purchase",
+    "srs-airbag-repair-evidence",
+    "towbar-trailer-rating-evidence",
+    "diesel-dpf-scr-maintenance-evidence"
+  ],
+  "body_count": 4,
+  "seo_count": 4,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "independent_review": "PENDING",
+  "files": [
+    {
+      "slug": "xpeng-g6",
+      "language": "vi",
+      "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "body_sha256": "f7384184ccc370197a0c38e68aa2c4745a479a0b70a92cf59f43307719591b95",
+      "paragraph_count": 37,
+      "paragraph_heading_table_counts_match": true,
+      "url_multiset_matches": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {
+        "9": 8,
+        "7": 2,
+        "11": 1
+      },
+      "extra_numeric_explanation": "Vietnamese numeric month names only.",
+      "semantic_review": "Full paragraph-by-paragraph comparison against newly frozen English; market, historical edition, claims/guarantees, named trims, charging caveats, safety findings and all FAQ retained. G6 includes new tested Long Range LHD scope. G9 keeps Green NCAP separate from WLTP and preserves poor driver pelvis/marginal rear chest findings. Source-list date simplifications matched to new master.",
+      "AI_LANGUAGE_QA": "PASS"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "th",
+      "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "body_sha256": "4035686fb20b4a9e395d5dc9beb899a5658bb5bd6f7c32270d307d19aa4f96f5",
+      "paragraph_count": 37,
+      "paragraph_heading_table_counts_match": true,
+      "url_multiset_matches": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {},
+      "extra_numeric_explanation": null,
+      "semantic_review": "Full paragraph-by-paragraph comparison against newly frozen English; market, historical edition, claims/guarantees, named trims, charging caveats, safety findings and all FAQ retained. G6 includes new tested Long Range LHD scope. G9 keeps Green NCAP separate from WLTP and preserves poor driver pelvis/marginal rear chest findings. Source-list date simplifications matched to new master.",
+      "AI_LANGUAGE_QA": "PASS"
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "vi",
+      "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "body_sha256": "267753841e4eb4b83a70a37c72535b5b5a9400188f00216671856b9b37450f2b",
+      "paragraph_count": 38,
+      "paragraph_heading_table_counts_match": true,
+      "url_multiset_matches": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {
+        "2": 3,
+        "7": 2,
+        "11": 1
+      },
+      "extra_numeric_explanation": "Vietnamese numeric month names only.",
+      "semantic_review": "Full paragraph-by-paragraph comparison against newly frozen English; market, historical edition, claims/guarantees, named trims, charging caveats, safety findings and all FAQ retained. G6 includes new tested Long Range LHD scope. G9 keeps Green NCAP separate from WLTP and preserves poor driver pelvis/marginal rear chest findings. Source-list date simplifications matched to new master.",
+      "AI_LANGUAGE_QA": "PASS"
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "th",
+      "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "body_sha256": "3b76174affac37d9c6956087b3157a93a86636480656c24a8365efbead94097d",
+      "paragraph_count": 38,
+      "paragraph_heading_table_counts_match": true,
+      "url_multiset_matches": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {},
+      "extra_numeric_explanation": null,
+      "semantic_review": "Full paragraph-by-paragraph comparison against newly frozen English; market, historical edition, claims/guarantees, named trims, charging caveats, safety findings and all FAQ retained. G6 includes new tested Long Range LHD scope. G9 keeps Green NCAP separate from WLTP and preserves poor driver pelvis/marginal rear chest findings. Source-list date simplifications matched to new master.",
+      "AI_LANGUAGE_QA": "PASS"
+    }
+  ]
+}

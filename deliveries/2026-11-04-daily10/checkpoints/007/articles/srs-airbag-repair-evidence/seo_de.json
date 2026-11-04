@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "de",
+  "title": "Nachweise zu Airbagreparaturen: Was Gebrauchtwagenkäufer anfordern sollten",
+  "h1": "Nachweise zu Airbagreparaturen: Was Gebrauchtwagenkäufer anfordern sollten",
+  "meta_description": "Fordern Sie Auslösungshistorie, rückverfolgbare Ersatzteile und qualifizierte Prüfung zu Airbagreparaturen eines Gebrauchtwagens an.",
+  "card_summary": "Eine erloschene Leuchte reicht nicht: Ereignis, Teile, Arbeiten und Prüfung vor der Annahme eines reparierten Autos verbinden.",
+  "suggested_url": "/de/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge-Beschaffungsleitfäden"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkatalog"
+    }
+  ],
+  "image": {
+    "alt": "Drei-Karten-Diagramm zu Auslösungshistorie, Ersatzteilen und qualifizierter Prüfung.",
+    "caption": "Empfohlene Nachweisprüfungen beim Gebrauchtwagenkauf.",
+    "labels": [
+      "Auslösungshistorie",
+      "Ersatzteile",
+      "Qualifizierte Prüfung"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "ja",
+  "title": "BYD SEAL U DM-i MY2026：ポーランド仕様の購入ガイド",
+  "meta_description": "ポーランドMY2026のBYD SEAL U DM-i Boost、Comfort、Designを電池、WLTP電動航続距離、充電機会、検査で比較。",
+  "h1": "BYD SEAL U DM-i MY2026：ポーランド仕様の購入ガイド",
+  "card_summary": "Comfortは最大電池、Designは全輪駆動です。ポーランドMY2026仕様を実際の充電習慣と用途で選びます。",
+  "suggested_url": "/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種別購入ガイド"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "車両調達ガイド"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "電池容量を比較、必要な駆動輪を選択、定期的な充電機会を確認を示す3枚のカード",
+    "caption": "購入前に確認したい主な証拠。",
+    "labels": [
+      "電池容量を比較",
+      "必要な駆動輪を選択",
+      "定期的な充電機会を確認"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/ja.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim."
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "ar",
+  "title": "BYD SEAL U DM-i MY2026: دليل شراء للمواصفات البولندية",
+  "meta_description": "قارن BYD SEAL U DM-i البولندية MY2026 بفئات Boost وComfort وDesign: البطارية ومدى WLTP الكهربائي والشحن وأولويات الفحص.",
+  "h1": "BYD SEAL U DM-i MY2026: دليل شراء للمواصفات البولندية",
+  "card_summary": "تقدم Comfort البطارية الأكبر وDesign الدفع بجميع العجلات. اختر وفق روتين الشحن والاستخدام المقصود.",
+  "suggested_url": "/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "أدلة شراء السيارات"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "إرشادات الشراء"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة شراء BYD SEAL U DM-i بثلاث بطاقات تشمل البطارية والدفع والشحن",
+    "caption": "اختر النسخة البولندية MY2026 وفق استخدامها المقصود.",
+    "labels": [
+      "قارن سعة البطارية",
+      "اختر العجلات المدفوعة المطلوبة",
+      "أكد إتاحة الشحن المنتظم"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

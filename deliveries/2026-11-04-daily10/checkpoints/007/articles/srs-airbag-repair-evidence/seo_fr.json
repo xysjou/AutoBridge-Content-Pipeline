@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "fr",
+  "title": "Preuves de réparation des airbags : ce que l’acheteur d’occasion devrait demander",
+  "h1": "Preuves de réparation des airbags : ce que l’acheteur d’occasion devrait demander",
+  "meta_description": "Demandez historique de déclenchement, traçabilité des pièces et inspection qualifiée pour évaluer les réparations d’airbags d’une occasion.",
+  "card_summary": "Un voyant éteint ne suffit pas : reliez événement, pièces, travaux et inspection avant d’accepter un véhicule réparé.",
+  "suggested_url": "/fr/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’approvisionnement AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Catalogue de véhicules"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes présentant l’historique de déclenchement, les pièces de remplacement et l’inspection qualifiée.",
+    "caption": "Vérifications documentaires recommandées pour l’achat d’un véhicule d’occasion.",
+    "labels": [
+      "Historique de déclenchement",
+      "Pièces de remplacement",
+      "Inspection qualifiée"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

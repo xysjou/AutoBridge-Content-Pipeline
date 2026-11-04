@@ -1,0 +1,140 @@
+{
+  "checkpoint": "007",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/ar.md",
+      "sha256": "e2cc56a2604ed5e08802a046a1cd5297026d565d7d589a02a302cdd088fde122",
+      "bytes": 12044
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/id.md",
+      "sha256": "3a115bdc8831605868f6835130d6de9a2e538aaccc0012bc4993e0305834c5de",
+      "bytes": 9181
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/ja.md",
+      "sha256": "ea4678e3a63b004a4bd57bd1f8894f2fc1c240cbb89302c925708de2ea83012e",
+      "bytes": 9512
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/ko.md",
+      "sha256": "8fd30200f337286f7500d93b90394cb6a793731646ee4b238525f81aadf86828",
+      "bytes": 9425
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_ar.json",
+      "sha256": "c60228f620affe831374db06b13904f882bb7c901e3af67c13d12ba5b923aaf6",
+      "bytes": 1865
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_id.json",
+      "sha256": "f985dda6580c8a9107ede8c1411c8f862d37a2705dfc91c97d32217a63ad6068",
+      "bytes": 1629
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_ja.json",
+      "sha256": "f8e57c252430be0a2d139145a521d2771eebfe7b76c38c16631c3f4f7a783721",
+      "bytes": 1658
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/byd-seal-u-dm-i/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_ko.json",
+      "sha256": "be0e26d6b3274c38df2fb27a25d1c9ae9812cdfbddbfa18c4c974bd707e6cb03",
+      "bytes": 1661
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/odometer-service-history-reconciliation/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/es.md",
+      "sha256": "fecb70e3cb22a3cd7cc3216b92cdfbc3125853df16ef2a46cec7199b8c406b42",
+      "bytes": 9415
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/odometer-service-history-reconciliation/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/pt.md",
+      "sha256": "cb42cb7fa538ca52c584dd4bcd4ae2cafe0af33dbe91f1753033d03fe453bb2d",
+      "bytes": 9673
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/odometer-service-history-reconciliation/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_es.json",
+      "sha256": "62b68f903abdb3c7536562a20e11ba222d1775dbf15211ece66a3347158b9c1a",
+      "bytes": 1505
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/odometer-service-history-reconciliation/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_pt.json",
+      "sha256": "4f24ae2024e3852f0874fdd273e8ad2ea98072b2c261fb0f9aae1381e264afb4",
+      "bytes": 1480
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/smart-1/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_zh.json",
+      "sha256": "11e3bc9c7878a787d693aad130d2517b707ccf3251b6e94f343ba30027c64289",
+      "bytes": 1555
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/smart-1/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/zh.md",
+      "sha256": "0bbe4b201a369d2f435865dfeaad5b697459bd644317757fe6aca24af3eb967f",
+      "bytes": 8179
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/srs-airbag-repair-evidence/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/de.md",
+      "sha256": "9e8bd7febbaaf280858d089bbf641bac333d658775a97697a7c8600de46a2b41",
+      "bytes": 9575
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/srs-airbag-repair-evidence/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/fr.md",
+      "sha256": "b21e9cf1b76955f2bbfe1925c16ba254628bd3b9b8d270c26910c537b886d876",
+      "bytes": 10291
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/srs-airbag-repair-evidence/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_de.json",
+      "sha256": "1fd4706e97e3307e2fcd77ca5b5952f8847b504b5f4344910e6348c3b147e694",
+      "bytes": 1412
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/srs-airbag-repair-evidence/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_fr.json",
+      "sha256": "fe8cf7d1a9982d6bd281b854ec334b6e5fde231a4bf0905fd1e2ccc237950d91",
+      "bytes": 1557
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/xpeng-g9/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_th.json",
+      "sha256": "f1befaad80b23d1cc62baebfdd3b797e9a320273d53435a88fd2f1cfd7f74f25",
+      "bytes": 2264
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/xpeng-g9/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_vi.json",
+      "sha256": "16b52bd4d99ef61eb2e43dd5821770739e4d3788abbccccd7329bb3b76fceb0e",
+      "bytes": 1792
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/articles/xpeng-g9/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/zh.md",
+      "sha256": "b1fa8299a21ed03410f43abc42081392bf4ca5a82b25967e55689279ead70d16",
+      "bytes": 7717
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/007/qa/vi_th_self_review.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/vi_th_self_review.json",
+      "sha256": "fae126d630af69e9fe1b5cc948be7c9ff4dd7a1a96926cc2a7fce31b09f0a343",
+      "bytes": 4599
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

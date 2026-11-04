@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "th",
+  "title": "XPENG G9: ประเมิน SUV Long Range เปิดตัวในยุโรปปี 2023",
+  "meta_description": "ประเมิน XPENG G9 Long Range ยุโรปรุ่นแรกจากระยะ WLTP ผลทดสอบพลังงานอิสระ และแผนตรวจรถสำหรับผู้ซื้อส่งออก",
+  "h1": "XPENG G9: ประเมิน SUV Long Range เปิดตัวในยุโรปปี 2023",
+  "card_summary": "ประเมินพลังงานตามเส้นทาง หลักฐานการชาร์จ และบริการหลังการขาย ก่อนเลือก G9 Long Range รุ่นแรก",
+  "suggested_url": "/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อ XPENG G9 แบบสามบัตร",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ตรวจให้ตรงรถชุดเปิดตัว",
+      "ประเมินการเดินทาง",
+      "ยืนยันการเข้าถึงบริการ"
+    ],
+    "asset": "../../assets/xpeng-g9/th.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim."
+}
