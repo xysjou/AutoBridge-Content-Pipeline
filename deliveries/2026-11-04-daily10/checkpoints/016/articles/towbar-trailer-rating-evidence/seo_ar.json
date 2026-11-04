@@ -1,0 +1,49 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "ar",
+  "locale": "ar",
+  "title": "تصنيفات قضيب القطر والمقطورة: الأدلة المطلوبة قبل الشراء",
+  "meta_description": "تحقق من حدود المركبة وهوية قضيب القطر والتركيب ووظائف فرامل المقطورة وأضوائها قبل قبول ادعاء القدرة على القطر.",
+  "h1": "تصنيفات قضيب القطر والمقطورة: الأدلة المطلوبة قبل الشراء",
+  "card_summary": "افصل حدود المركبة عن تصنيف قضيب القطر، وافحص المجموعة المحملة والتركيب والتوصيلات للمقطورة المقصودة.",
+  "suggested_url": "/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "أدلة المركبات"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "مكتبة أدلة المشتريات"
+    }
+  ],
+  "image": {
+    "alt": "ثلاث بطاقات توضح حدود المركبة وهوية قضيب القطر وفحوص كهرباء المقطورة.",
+    "caption": "قارن حدود المركبة ومعدات القطر وتوصيلات المقطورة بوصفها فحوص شراء منفصلة.",
+    "labels": [
+      "حدود أوزان المركبة المحددة",
+      "هوية قضيب القطر وتركيبه",
+      "كهرباء المقطورة وفراملها"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1215,
+  "body_sha256": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}

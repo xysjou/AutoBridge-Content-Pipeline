@@ -1,0 +1,80 @@
+{
+  "checkpoint": "016",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/ko.md",
+      "sha256": "7beebf5bfbf5cdbcdbb69ab5bc6b1618541703e4c6e551d4dcbad7eb8f97b289",
+      "bytes": 10006
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_ko.json",
+      "sha256": "4064d80186544400986f5552bdb84739795020c5c5e9c3096e786b3d74f0bf0a",
+      "bytes": 1616
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/th.md",
+      "sha256": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+      "bytes": 21630
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_th.json",
+      "sha256": "916e371a9ec570aea78e08841006af88768bc0eee84520ae23b9584669c94dd1",
+      "bytes": 2340
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/vi.md",
+      "sha256": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+      "bytes": 12493
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/srs-airbag-repair-evidence/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_vi.json",
+      "sha256": "6d0cbb388a080169ca38ab208e5a72fdf1623fb0bd661296ca3763b457b13e41",
+      "bytes": 1566
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/ar.md",
+      "sha256": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+      "bytes": 13849
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_ar.json",
+      "sha256": "41a2ea5fef0d462eb9ecc18583c1bd3827532eaf72c972395caad21811459e4f",
+      "bytes": 2250
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/es.md",
+      "sha256": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+      "bytes": 11011
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_es.json",
+      "sha256": "08a9251d3ed667550deba62dbf37d3fe1e3e7cfa3b3cddde6f63af6a6d01d4de",
+      "bytes": 1859
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/id.md",
+      "sha256": "009d6a250ef20ee35cde6459a9f9b1f1526dbafeffb6a96d64409daf70d7710a",
+      "bytes": 10472
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/016/articles/towbar-trailer-rating-evidence/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_id.json",
+      "sha256": "0726657d0132ce4632c420fb62820305fde4376c6a54ae50d15fea6c79914c08",
+      "bytes": 1925
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

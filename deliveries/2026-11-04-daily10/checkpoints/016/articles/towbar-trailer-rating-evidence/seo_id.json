@@ -1,0 +1,49 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "id",
+  "locale": "id",
+  "title": "Rating Towbar dan Trailer: Bukti yang Perlu Diminta Sebelum Membeli",
+  "meta_description": "Periksa batas kendaraan, identitas towbar, pemasangan, serta fungsi rem dan lampu trailer sebelum menerima klaim kemampuan penarikan.",
+  "h1": "Rating Towbar dan Trailer: Bukti yang Perlu Diminta Sebelum Membeli",
+  "card_summary": "Pisahkan batas kendaraan dari rating towbar, lalu nilai kombinasi bermuatan, pemasangan, dan sambungan untuk trailer yang dimaksud.",
+  "suggested_url": "/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "panduan kendaraan"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "pustaka panduan pengadaan"
+    }
+  ],
+  "image": {
+    "alt": "Tiga kartu menunjukkan batas kendaraan, identitas towbar, dan pemeriksaan kelistrikan trailer.",
+    "caption": "Bandingkan batas kendaraan, perangkat penarikan, dan sambungan trailer sebagai pemeriksaan pembelian terpisah.",
+    "labels": [
+      "Batas berat kendaraan yang tepat",
+      "Identitas dan pemasangan towbar",
+      "Kelistrikan dan rem trailer"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1292,
+  "body_sha256": "e4984c4f6cbc6f72b09f585f13683016c1e04d29ece9ec03ad2a85cf82e7cbfa",
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}

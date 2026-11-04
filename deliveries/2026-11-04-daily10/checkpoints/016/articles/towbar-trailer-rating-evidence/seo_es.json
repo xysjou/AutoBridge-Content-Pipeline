@@ -1,0 +1,47 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "es",
+  "locale": "es",
+  "title": "Capacidades del enganche y del remolque: pruebas que conviene pedir antes de comprar",
+  "meta_description": "Compruebe límites del vehículo, enganche, carga vertical e instalación antes de comprar. Separe capacidades y requisitos de cada mercado.",
+  "h1": "Capacidades del enganche y del remolque: pruebas que conviene pedir antes de comprar",
+  "card_summary": "Compare documentos, instalación y pruebas del conjunto cargado antes de aceptar una capacidad de remolque.",
+  "suggested_url": "/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de vehículos"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "guías de compra de AutoBridge"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de tres tarjetas sobre límites de masa del vehículo, identidad e instalación del enganche y electricidad y frenos del remolque.",
+    "caption": "Compare los límites del vehículo, el enganche y las conexiones del remolque como comprobaciones de compra separadas.",
+    "labels": [
+      "Límites de masa del vehículo concreto",
+      "Identidad e instalación del enganche",
+      "Electricidad y frenos del remolque"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1569,
+  "body_sha256": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202"
+}
