@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "en",
+  "title": "XPENG G6: Choosing the 2024 German Launch Version",
+  "meta_description": "Compare the German-launch XPENG G6 trims, battery chemistry and WLTP range, with charging and vehicle-identity checks for overseas buyers.",
+  "h1": "XPENG G6: Choosing the 2024 German Launch Version",
+  "card_summary": "Choose the original German G6 by battery and driven wheels, then check the offered car against its documents.",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for xpeng g6",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Identify the launch version",
+      "Compare battery and drive",
+      "Check charging evidence"
+    ],
+    "asset": "../../assets/xpeng-g6/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

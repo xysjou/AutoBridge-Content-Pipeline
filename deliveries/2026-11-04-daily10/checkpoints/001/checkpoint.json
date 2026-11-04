@@ -1,0 +1,38 @@
+{
+  "checkpoint": "001",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/001/articles/xpeng-g6/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md",
+      "sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "bytes": 8948
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/001/articles/xpeng-g6/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_en.json",
+      "sha256": "811e54dea2a247b566e2066488d5503e63e73507e1c46c5a32ef77ff345fadea",
+      "bytes": 1522
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/001/research/vehicles/xpeng-g6/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/fact_sheet.json",
+      "sha256": "c1aee20a7e41b70241d898fb724e251d10a3fae33b8cdc140e067898a1a37a0e",
+      "bytes": 7883
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/001/research/vehicles/xpeng-g6/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/source_log.json",
+      "sha256": "09d559b981fd27d3848326675f5769068df24631be89bce504869ab039ace09f",
+      "bytes": 2600
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/001/research/vehicles/xpeng-g6/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/english_self_review.json",
+      "sha256": "4f8506ecefcc8830d52f8c4aea6dda3173260b06a71ed5f7647d978fcb224ea6",
+      "bytes": 931
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
