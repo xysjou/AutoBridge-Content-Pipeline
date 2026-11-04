@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "id",
+  "title": "Panduan Membeli NIO ET5: Kepemilikan Baterai dan BaaS",
+  "meta_description": "Bandingkan sedan NIO ET5 Jerman, kepemilikan baterai, BaaS, bukti jarak dan layanan sebelum membeli mobil bekas atau lintas negara.",
+  "h1": "Panduan Membeli NIO ET5: Kepemilikan Baterai dan Sedan Jerman 2023",
+  "card_summary": "Pisahkan harga ET5, kepemilikan baterai dan kelayakan dukungan, dengan angka peluncuran dan pengujian berlabel jelas.",
+  "suggested_url": "/id/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Direktori kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa pembelian NIO ET5 dalam tiga kartu",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Identifikasi kendaraan",
+      "Pastikan hak atas baterai",
+      "Verifikasi dukungan setempat"
+    ],
+    "asset": "../../assets/nio-et5/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "8d4fd5ab1898be0688c0428310b3d66224a8ec75e07fa7a44fefd1a64ada9a42"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "951f9be43f876edaa44ef3aee5df9d526a2f6d88e4d1eb4197e94ed3227ffee2",
+  "word_count": 1160,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

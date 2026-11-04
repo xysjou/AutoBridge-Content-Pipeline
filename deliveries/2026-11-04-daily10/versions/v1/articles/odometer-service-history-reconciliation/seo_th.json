@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "th",
+  "title": "เทียบมาตรวัดระยะทางกับประวัติบำรุงรักษาก่อนซื้อรถมือสอง",
+  "h1": "เทียบมาตรวัดระยะทางกับประวัติบำรุงรักษาก่อนซื้อรถมือสอง",
+  "meta_description": "ตรวจระยะกับประวัติบริการ ตรวจสภาพ และรายงานประวัติ ระบุข้อขัดแย้งที่ยังอธิบายไม่ได้ก่อนรับซื้อรถมือสองเพื่อส่งออก",
+  "card_summary": "การเทียบระยะตามวันที่ช่วยแยกค่าที่มีหลักฐาน ข้อผิดพลาด และช่องว่างก่อนซื้อรถมือสองต่างประเทศ",
+  "suggested_url": "/th/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "แผนภาพสามบัตรแสดงค่าอ่านลงวันที่ ความขัดแย้งเอกสาร และการตัดสินใจซื้อ",
+    "caption": "จุดตรวจหลักฐานที่แนะนำสำหรับซื้อรถมือสอง",
+    "labels": [
+      "ค่าอ่านลงวันที่",
+      "ความขัดแย้งเอกสาร",
+      "การตัดสินใจซื้อ"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "31613b386fa7cf4000e4b9fc5113dc382446de706662bbcc6740d3e6a0ffa701"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "th",
+  "body_sha256": "604c9f2211780d5f8db5e7387f83abab0d629972005194d3618e767b60abf5e8",
+  "word_count": 1108,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

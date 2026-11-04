@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "th",
+  "title": "คู่มือซื้อ NIO ET5: กรรมสิทธิ์แบตเตอรี่และซีดานเยอรมนีปี 2023",
+  "meta_description": "ตรวจกรรมสิทธิ์แบตเตอรี่ NIO ET5 สเปกเปิดตัวเยอรมนี หลักฐานทดสอบ และการโอนบริการก่อนเทียบใบเสนอราคาต่างประเทศ",
+  "h1": "คู่มือซื้อ NIO ET5: กรรมสิทธิ์แบตเตอรี่และซีดานเยอรมนีปี 2023",
+  "card_summary": "แยกราคาซีดานจากสิทธิแบตเตอรี่ แล้วตรวจรถจริงและบริการที่ปลายทาง",
+  "suggested_url": "/th/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "เยอรมนี",
+  "reference_edition": "ซีดานเปิดตัวในเยอรมนีเดือนเมษายน 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อแบบสามบัตรสำหรับ NIO ET5",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ระบุตัวรถ",
+      "ยืนยันสิทธิแบตเตอรี่",
+      "ตรวจสอบบริการในพื้นที่"
+    ],
+    "asset": "../../assets/nio-et5/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "5140091650e991e2fe96df48004be14d9026c798bfac1b68750fd3b74b53fb81"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "th",
+  "body_sha256": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+  "word_count": 1275,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

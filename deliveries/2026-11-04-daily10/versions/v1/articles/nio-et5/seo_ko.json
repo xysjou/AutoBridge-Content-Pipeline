@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "ko",
+  "title": "NIO ET5 구매 가이드: 배터리 소유권과 2023년 독일 세단",
+  "meta_description": "독일 출시 NIO ET5 세단의 배터리 소유권, BaaS, 주행거리 증거와 서비스 조건을 비교하는 중고·해외 구매 가이드입니다.",
+  "h1": "NIO ET5 구매 가이드: 배터리 소유권과 2023년 독일 세단",
+  "card_summary": "차량 가격, 배터리 소유권, 지원 자격을 구분하고 출시 수치와 시험 결과를 따로 평가합니다.",
+  "suggested_url": "/ko/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "차종별 구매 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "차량 조달 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "NIO ET5 구매 확인 사항을 보여 주는 카드 세 장",
+    "caption": "개별 차량의 견적을 요청하기 전 확인할 주요 사항.",
+    "labels": [
+      "차량 식별",
+      "배터리 권리 확인",
+      "현지 지원 확인"
+    ],
+    "asset": "../../assets/nio-et5/ko.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "25425b1facf424cb0f4fc9a3c13f15e4a3a53bddae2e7743326979a553d62f55"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim.",
+  "locale": "ko",
+  "body_sha256": "a273e23cbce07d3632ce3a1e3db0223ee2be861e9cf1f8eaaec6b52be2307c78",
+  "word_count": 995,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

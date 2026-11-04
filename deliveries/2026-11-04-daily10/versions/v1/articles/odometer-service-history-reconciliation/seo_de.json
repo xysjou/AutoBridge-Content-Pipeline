@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "de",
+  "title": "Kilometerstand und Wartungshistorie vor dem Gebrauchtwagenkauf abgleichen",
+  "h1": "Kilometerstand und Wartungshistorie vor dem Gebrauchtwagenkauf abgleichen",
+  "meta_description": "Gleichen Sie Laufleistung mit Wartungs-, Prüf- und Historienbelegen ab. Erkennen Sie ungeklärte Abweichungen vor dem Gebrauchtwagenkauf für den Export.",
+  "card_summary": "Ein datierter Laufleistungsvergleich trennt belegte Stände, Erfassungsfehler und Lücken vor einem Gebrauchtwagenkauf im Ausland.",
+  "suggested_url": "/de/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge-Beschaffungsleitfäden",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkatalog",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Drei-Karten-Diagramm zu datierten Zählerständen, Abweichungen in Belegen und Kaufentscheidung.",
+    "caption": "Empfohlene Nachweisprüfungen beim Gebrauchtwagenkauf.",
+    "labels": [
+      "Datierte Zählerstände",
+      "Abweichungen in Belegen",
+      "Kaufentscheidung"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "c19798a58a5eb73dda8e9ad24658fb895f9e56c7a802f989f77b2c170dccccc3"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "de",
+  "body_sha256": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+  "word_count": 1190,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

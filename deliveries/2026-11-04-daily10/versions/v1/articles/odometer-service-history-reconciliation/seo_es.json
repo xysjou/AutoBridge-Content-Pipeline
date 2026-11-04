@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "es",
+  "title": "Odómetro e historial: qué comprobar al comprar un usado",
+  "h1": "Contraste odómetro e historial de mantenimiento antes de comprar un usado",
+  "meta_description": "Contraste kilometraje con registros de mantenimiento, inspección e historial. Identifique discrepancias antes de aceptar un vehículo usado para exportación.",
+  "card_summary": "Una comparación fechada del kilometraje ayuda a distinguir lecturas respaldadas, errores de registro y lagunas antes de comprar un usado en el extranjero.",
+  "suggested_url": "/es/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guías de adquisición",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Guías de compra de vehículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de tres tarjetas sobre lecturas fechadas, discrepancias y decisión de compra.",
+    "caption": "Comprobaciones documentales recomendadas para comprar un vehículo usado.",
+    "labels": [
+      "Lecturas fechadas",
+      "Discrepancias de registros",
+      "Decisión de compra"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/es.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "4529d98b10ee44ecb071214d32101d02c2c7b029bb0287378f3a665f76e0ff14"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "es",
+  "body_sha256": "4ab72e9f5a810361ee73dd00b6aa4cbb6a874a6df489c7280707158b4aea996f",
+  "word_count": 1261,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

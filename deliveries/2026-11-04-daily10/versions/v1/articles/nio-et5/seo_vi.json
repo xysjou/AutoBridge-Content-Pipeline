@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "vi",
+  "title": "Hướng dẫn mua NIO ET5: Quyền sở hữu pin và sedan Đức ra mắt năm 2023",
+  "meta_description": "Kiểm tra quyền sở hữu pin NIO ET5, cấu hình ra mắt Đức, bằng chứng thử nghiệm và chuyển giao dịch vụ trước khi so báo giá xe nước ngoài.",
+  "h1": "Hướng dẫn mua NIO ET5: Quyền sở hữu pin và sedan Đức ra mắt năm 2023",
+  "card_summary": "Tách giá sedan khỏi quyền sử dụng pin, rồi kiểm tra xe thực tế và hỗ trợ tại nơi đến.",
+  "suggested_url": "/vi/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Đức",
+  "reference_edition": "Sedan ra mắt tại Đức tháng 4 năm 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua NIO ET5",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Xác định chiếc xe",
+      "Xác nhận quyền đối với pin",
+      "Xác minh hỗ trợ tại địa phương"
+    ],
+    "asset": "../../assets/nio-et5/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "bbdc2b56c0162a993ec5d635a4819713d110a6b42783a493ea04d4cef8818e3e"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "vi",
+  "body_sha256": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+  "word_count": 1677,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

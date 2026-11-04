@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "ar",
+  "title": "طابق قراءة عداد المسافة مع سجل الصيانة قبل شراء سيارة مستعملة",
+  "h1": "طابق قراءة عداد المسافة مع سجل الصيانة قبل شراء سيارة مستعملة",
+  "meta_description": "تحقق من المسافة بمقارنتها بسجلات الصيانة والفحص والتاريخ، وحدد التناقضات غير المفسرة قبل قبول مركبة مستعملة للتصدير.",
+  "card_summary": "مقارنة مؤرخة للمسافة تميز بين القراءات المدعومة وأخطاء السجلات والفجوات قبل شراء سيارة مستعملة من الخارج.",
+  "suggested_url": "/ar/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "أدلة AutoBridge للمشتريات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "كتالوج المركبات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "مخطط من ثلاث بطاقات يوضح قراءات مؤرخة، تناقضات السجلات، قرار الشراء.",
+    "caption": "فحوص موصى بها للأدلة عند شراء مركبة مستعملة.",
+    "labels": [
+      "قراءات مؤرخة",
+      "تناقضات السجلات",
+      "قرار الشراء"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "ea04d5698d5fd4eab72e82f3c6b818af73199ef66f30a633b7b2a185705a4725"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+  "word_count": 1180,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

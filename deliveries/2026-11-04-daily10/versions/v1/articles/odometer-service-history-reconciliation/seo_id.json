@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "id",
+  "title": "Cocokkan Odometer dan Riwayat Servis Sebelum Membeli Mobil Bekas",
+  "h1": "Cocokkan Odometer dan Riwayat Servis Sebelum Membeli Mobil Bekas",
+  "meta_description": "Cocokkan jarak tempuh dengan catatan servis, inspeksi, dan riwayat. Temukan perbedaan yang belum terjelaskan sebelum membeli kendaraan bekas ekspor.",
+  "card_summary": "Perbandingan jarak tempuh bertanggal membedakan angka yang didukung, kesalahan catatan, dan kekosongan sebelum pembelian mobil bekas dari luar negeri.",
+  "suggested_url": "/id/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Angka bertanggal, Ketidaksesuaian catatan, Keputusan pembelian.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Angka bertanggal",
+      "Ketidaksesuaian catatan",
+      "Keputusan pembelian"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "5a53a05ed3e0a12dd634b9f0f12c742eb98449e1aa96b65c2a248ba7d875c746"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+  "word_count": 1167,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

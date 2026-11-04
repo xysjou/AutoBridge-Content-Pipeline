@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "fr",
+  "title": "Rapprocher kilométrage et historique d’entretien avant d’acheter une voiture d’occasion",
+  "h1": "Rapprocher kilométrage et historique d’entretien avant d’acheter une voiture d’occasion",
+  "meta_description": "Comparez le kilométrage aux documents d’entretien, de contrôle et d’historique. Repérez les écarts inexpliqués avant un achat pour exportation.",
+  "card_summary": "Une comparaison datée aide à distinguer les relevés étayés, les erreurs et les lacunes avant l’achat d’une voiture d’occasion à l’étranger.",
+  "suggested_url": "/fr/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’achat AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Catalogue de véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes présentant les relevés datés, les écarts entre documents et la décision d’achat.",
+    "caption": "Vérifications documentaires recommandées pour l’achat d’un véhicule d’occasion.",
+    "labels": [
+      "Relevés datés",
+      "Écarts entre documents",
+      "Décision d’achat"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "a2fd2bf89e7e4a30efe389eb5d6ad321aa15f3526c92270e4bb1ed5836a42cc6"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "fr",
+  "body_sha256": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+  "word_count": 1510,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

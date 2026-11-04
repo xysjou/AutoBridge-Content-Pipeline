@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "vi",
+  "title": "Đối chiếu đồng hồ quãng đường và lịch sử bảo dưỡng trước khi mua xe cũ",
+  "h1": "Đối chiếu đồng hồ quãng đường và lịch sử bảo dưỡng trước khi mua xe cũ",
+  "meta_description": "Đối chiếu quãng đường với bảo dưỡng, kiểm định và lịch sử. Nhận ra sai lệch chưa giải thích trước khi mua xe cũ để xuất khẩu.",
+  "card_summary": "So quãng đường theo ngày giúp phân biệt số có chứng cứ, lỗi ghi chép và khoảng trống trước khi mua xe cũ từ nước ngoài.",
+  "suggested_url": "/vi/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Sơ đồ ba thẻ về số quãng đường có ngày, sai lệch hồ sơ và quyết định mua.",
+    "caption": "Các bước kiểm tra bằng chứng được khuyến nghị khi mua xe cũ.",
+    "labels": [
+      "Số quãng đường có ngày",
+      "Sai lệch hồ sơ",
+      "Quyết định mua"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "30166bbf8aa2cf3429b843969d4ee9b393ebaf4ea28a61d7eb1515e6d1f5ca6b"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "vi",
+  "body_sha256": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+  "word_count": 1513,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

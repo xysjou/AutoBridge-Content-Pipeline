@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "pt",
+  "title": "NIO ET5: compra, propriedade da bateria e BaaS",
+  "meta_description": "Compare o sedã NIO ET5 alemão de lançamento, propriedade da bateria, BaaS, autonomia e suporte antes de escolher uma oferta usada ou internacional.",
+  "h1": "Guia de compra do NIO ET5: propriedade da bateria e sedã alemão de 2023",
+  "card_summary": "Guia do ET5 de referência alemã que separa preço do carro, propriedade da bateria e elegibilidade de suporte, com números de lançamento e testes identificados.",
+  "suggested_url": "/pt-br/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guias de compra de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guias de aquisição",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Alemanha",
+  "reference_edition": "Sedã do lançamento alemão de abril de 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra com três cartões para o NIO ET5",
+    "caption": "Verificações essenciais antes de solicitar uma cotação para um veículo específico.",
+    "labels": [
+      "Identifique a propriedade da bateria",
+      "Confirme a transferência da assistência",
+      "Identifique a versão alemã de lançamento"
+    ],
+    "asset": "../../assets/nio-et5/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "68a1c26337f6031ecfc4f4d49ddd2688f6efee551a4218c41a62e320f9ae8020"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "pt",
+  "body_sha256": "de58ef58501501a5a464275f408af335d99368d6ac1cbaeff618a43b5ec9b6ad",
+  "word_count": 1579,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

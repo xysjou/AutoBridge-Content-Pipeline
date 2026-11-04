@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "pt",
+  "title": "Hodômetro e histórico: o que conferir ao comprar um usado",
+  "h1": "Confira hodômetro e histórico de manutenção antes de comprar um usado",
+  "meta_description": "Confira quilometragem com registros de manutenção, inspeção e histórico. Identifique divergências antes de aceitar um usado para exportação.",
+  "card_summary": "Uma comparação datada de quilometragem ajuda a distinguir leituras comprovadas, erros e lacunas antes de comprar um usado no exterior.",
+  "suggested_url": "/pt-br/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guias de aquisição",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Guias de compra de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões sobre leituras datadas, divergências de registros e decisão de compra.",
+    "caption": "Verificações documentais recomendadas para comprar um veículo usado.",
+    "labels": [
+      "Leituras datadas",
+      "Divergências de registros",
+      "Decisão de compra"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "8ac4c0991e51e6140524dce94095eccd18bfe992d01075017f93ad60de8b413e"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "pt",
+  "body_sha256": "df7bc0a597ae85fb47a560fdbf1cb03463980c333dd4703c283fb630ae417955",
+  "word_count": 1306,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}
