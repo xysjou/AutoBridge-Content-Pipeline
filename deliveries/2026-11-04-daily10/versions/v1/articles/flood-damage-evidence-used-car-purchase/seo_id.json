@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "id",
+  "title": "Bukti Kerusakan Banjir yang Perlu Diminta Sebelum Membeli Mobil Bekas",
+  "h1": "Bukti Kerusakan Banjir yang Perlu Diminta Sebelum Membeli Mobil Bekas",
+  "meta_description": "Minta bukti paparan air, perbaikan, dan inspeksi independen sebelum membeli mobil bekas. Pahami batas laporan riwayat dan tanda kerusakan banjir.",
+  "card_summary": "Nilai catatan kerugian, kondisi yang diperiksa, dan bukti perbaikan tanpa menganggap kabin bersih sebagai jaminan bebas banjir.",
+  "suggested_url": "/id/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Riwayat paparan, Inspeksi terarah, Risiko yang belum terselesaikan.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Riwayat paparan",
+      "Inspeksi terarah",
+      "Risiko yang belum terselesaikan"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "5ebd4aada122c4725a808ba045760f26df0c2ac321681634843c98df8177038d"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+  "word_count": 1200,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

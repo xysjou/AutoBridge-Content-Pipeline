@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "pt",
+  "title": "Veículos diesel usados de frota: verifique as evidências de manutenção do DPF e SCR",
+  "meta_description": "Confira registros de DPF, SCR e DEF em diesel usados. Diferencie regeneração, limpeza de cinzas, reparos e interpretação da oficina.",
+  "h1": "Veículos diesel usados de frota: verifique as evidências de manutenção do DPF e SCR",
+  "card_summary": "Reconstrua as intervenções de pós-tratamento e compare-as com a inspeção e o trabalho futuro pretendido.",
+  "suggested_url": "/pt-br/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guias de compra da AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões sobre registros de manutenção do DPF, evidências do SCR e DEF e avaliação do veículo específico.",
+    "caption": "Separe os eventos de manutenção, as evidências do sistema de fluido e a avaliação final específica do veículo.",
+    "labels": [
+      "Registros de manutenção do DPF",
+      "Evidências do SCR e DEF",
+      "Avaliação específica do veículo"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "bf7265db770f31cdca657d738cb5689ee1f2434bc8e1ed0c089940ec8d5df810"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "pt",
+  "body_sha256": "cd0bb313d05390113acfd1ba2e34dde323a587dad7688d55a2319ffbaf0d8862",
+  "word_count": 1584,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

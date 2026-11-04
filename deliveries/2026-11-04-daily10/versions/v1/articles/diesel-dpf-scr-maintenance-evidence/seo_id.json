@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "id",
+  "title": "Kendaraan Armada Diesel Bekas: Periksa Bukti Perawatan DPF dan SCR",
+  "meta_description": "Periksa bukti regenerasi DPF, pembersihan abu, perawatan SCR, dan penanganan DEF sebelum membeli kendaraan armada diesel bekas dari luar negeri.",
+  "h1": "Kendaraan Armada Diesel Bekas: Periksa Bukti Perawatan DPF dan SCR",
+  "card_summary": "Pisahkan kejadian perawatan DPF, bukti sistem DEF, dan penilaian kendaraan tertentu, bukan mengandalkan cap servis atau ketiadaan peringatan.",
+  "suggested_url": "/id/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "halaman referensi kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Catatan servis DPF, Bukti SCR dan DEF, Penilaian khusus kendaraan.",
+    "caption": "Pisahkan kejadian perawatan, bukti sistem cairan, dan penilaian akhir khusus kendaraan.",
+    "labels": [
+      "Catatan servis DPF",
+      "Bukti SCR dan DEF",
+      "Penilaian khusus kendaraan"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "f4b6eaa874584baba66518e0fe15a28785ec7779613580a03623ff5872d2f3c0"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+  "word_count": 1358,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

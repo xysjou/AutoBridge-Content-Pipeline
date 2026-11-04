@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "ko",
+  "title": "중고 디젤 차량 구매: DPF와 SCR 정비 증거 확인하기",
+  "meta_description": "중고 디젤 트럭의 DPF 재생, 회분 제거, SCR·DEF 정비를 구분하세요. 기록과 전문 평가를 대조해 구매를 판단합니다.",
+  "h1": "중고 디젤 차량 구매: DPF와 SCR 정비 증거 확인하기",
+  "card_summary": "DPF 작업, DEF 취급, 엔진별 검사 결과를 연결해 차량군 구매에서 미해결 후처리 문제를 확인합니다.",
+  "suggested_url": "/ko/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge 구매 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "차량 카탈로그",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "DPF 정비 기록, SCR·DEF 증거, 차량별 평가를 보여 주는 카드 세 장.",
+    "caption": "정비 사건, 액체 시스템 증거, 최종 차량별 평가를 구분하세요.",
+    "labels": [
+      "DPF 정비 기록",
+      "SCR·DEF 증거",
+      "차량별 평가"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/ko.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "bf0dcb0bd586d5eb0130f4506b603fcb8837a4b20448b697e4a3aeb00070b7d5"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  },
+  "locale": "ko",
+  "body_sha256": "7fc003993883d4566b79783cad488b81feec801a2f6a80d5c150ca5b3d2576cf",
+  "word_count": 1086,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}
