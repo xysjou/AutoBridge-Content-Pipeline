@@ -1,0 +1,80 @@
+{
+  "checkpoint": "012",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/es.md",
+      "sha256": "9ded59a3a330f5e9c6602dd775214c54939760dc362de7cdaa6887785d1210fa",
+      "bytes": 10360
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/pt.md",
+      "sha256": "4a561c0f097c0657c6581b0050092b2dd599e79d2a3ceb9190a025c0f81da13a",
+      "bytes": 10592
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/th.md",
+      "sha256": "53602b4c02d26c87871d4bfa7d7d158ac3c0849bbfc258c99f0a08555418954e",
+      "bytes": 16340
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_th.json",
+      "sha256": "bc6d10a849a90734ba05b4a1699136df07f98fd83cdaf199eda43aad992f5f7a",
+      "bytes": 2247
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/vi.md",
+      "sha256": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+      "bytes": 9893
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/byd-seal-u-dm-i/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_vi.json",
+      "sha256": "2c95e39201272f68135fc5a6b90d3f119eb3f2241724f63686a5c6318149ff24",
+      "bytes": 1723
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/ar.md",
+      "sha256": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+      "bytes": 14390
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "sha256": "feb6f9fa6e7ae757f917c356c4d5b4b3e751f3844d950b670dd6483252a7d918",
+      "bytes": 1907
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "sha256": "ba94eb1f23f0d8337c11cac80587377508ab6bd81dcded9f2b43a284d2a62e80",
+      "bytes": 1610
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/id.md",
+      "sha256": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+      "bytes": 11426
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "sha256": "301e6ebc5813ed461b700e14ce03a35ef9733bc35f43289592b527f9e9c2fc5a",
+      "bytes": 1636
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/012/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "sha256": "54b8cd303fda7eb0f9bc8745caf73ddc45f1bba6b9b1a0fb01a9ff4aef23319b",
+      "bytes": 1589
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

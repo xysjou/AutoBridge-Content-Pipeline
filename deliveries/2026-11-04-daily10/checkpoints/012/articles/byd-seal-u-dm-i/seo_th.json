@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "th",
+  "title": "BYD SEAL U DM-i MY2026: คู่มือซื้อสเปกโปแลนด์",
+  "meta_description": "เปรียบเทียบรุ่น BYD SEAL U DM-i โปแลนด์ MY2026 ความจุแบตเตอรี่ ระยะไฟฟ้า WLTP และการเข้าถึงชาร์จ ก่อนขอราคารถเฉพาะคัน",
+  "h1": "BYD SEAL U DM-i MY2026: คู่มือซื้อสเปกโปแลนด์",
+  "card_summary": "เลือก Comfort เพื่อแบตเตอรี่ใหญ่สุดตามเอกสาร หรือพิจารณา Design สำหรับขับทุกล้อ พร้อมตรวจแผนชาร์จ",
+  "suggested_url": "/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อแบบสามบัตรสำหรับ BYD SEAL U DM-i",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "เทียบความจุแบตเตอรี่",
+      "เลือกล้อขับเคลื่อน",
+      "ยืนยันการเข้าถึงชาร์จ"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/th.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery."
+}

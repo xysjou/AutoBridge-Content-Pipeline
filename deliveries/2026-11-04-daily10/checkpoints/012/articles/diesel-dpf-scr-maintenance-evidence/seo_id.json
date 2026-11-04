@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "id",
+  "title": "Kendaraan Armada Diesel Bekas: Periksa Bukti Perawatan DPF dan SCR",
+  "meta_description": "Periksa bukti regenerasi DPF, pembersihan abu, perawatan SCR, dan penanganan DEF sebelum membeli kendaraan armada diesel bekas dari luar negeri.",
+  "h1": "Kendaraan Armada Diesel Bekas: Periksa Bukti Perawatan DPF dan SCR",
+  "card_summary": "Pisahkan kejadian perawatan DPF, bukti sistem DEF, dan penilaian kendaraan tertentu, bukan mengandalkan cap servis atau ketiadaan peringatan.",
+  "suggested_url": "/id/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Catatan servis DPF, Bukti SCR dan DEF, Penilaian khusus kendaraan.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Catatan servis DPF",
+      "Bukti SCR dan DEF",
+      "Penilaian khusus kendaraan"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}
