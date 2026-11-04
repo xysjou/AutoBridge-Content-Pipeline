@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "zh",
+  "title": "smart #1 Pro+还是Premium？英国上市规格采购指南",
+  "meta_description": "按2023年英国上市资料比较smart #1 Pro+与Premium，核查WLTP续航、交流充电条件、座舱设备与二手车证据。",
+  "h1": "smart #1 Pro+还是Premium？英国上市规格采购指南",
+  "card_summary": "把Pro+与Premium的历史配置、停车地点充电能力及实车状态放在一起比较，避免仅凭版本标识决定采购。",
+  "suggested_url": "/zh/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型目录",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指南",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "展示上市配置、停车充电条件与乘员体验三项比较内容的卡片图",
+    "caption": "按真实使用需求比较smart #1的两个配置。",
+    "labels": [
+      "核对上市配置",
+      "检查充电条件",
+      "试用乘员空间"
+    ],
+    "asset": "../../assets/smart-1/zh.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "d1e46544f94889b336be58c1038e3d6c5c112db2dbbe963821ff40695ccaa3f9"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "zh",
+  "body_sha256": "0bbe4b201a369d2f435865dfeaad5b697459bd644317757fe6aca24af3eb967f",
+  "word_count": 258,
+  "han_character_count": 2074,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "en",
+  "title": "smart #1 Pro+ or Premium? A UK Launch-Spec Buying Guide",
+  "meta_description": "Compare UK launch smart #1 Pro+ and Premium equipment, charging suitability and cabin fit before choosing an overseas vehicle quotation.",
+  "h1": "smart #1 Pro+ or Premium? A UK Launch-Spec Buying Guide",
+  "card_summary": "Check whether Premium equipment is useful at the intended charging location and verify the actual UK launch-version car.",
+  "suggested_url": "/en/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for smart 1",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Confirm the trim",
+      "Match the charger",
+      "Try the cabin"
+    ],
+    "asset": "../../assets/smart-1/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "54e2f2035b628735a917f427a80d240a6b46a81d0350a50bc6bfaebd17711cea"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "en",
+  "body_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+  "word_count": 1336,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

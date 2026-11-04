@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "fr",
+  "title": "smart #1 Pro+ ou Premium ? Guide d’achat des versions du lancement britannique",
+  "meta_description": "Comparez smart #1 Pro+ et Premium du lancement britannique 2023 : équipements, recharge AC, habitacle et preuves pour une occasion.",
+  "h1": "smart #1 Pro+ ou Premium ? Guide d’achat des versions du lancement britannique",
+  "card_summary": "Vérifiez si les fonctions Premium et la recharge annoncée servent votre usage, avec la configuration britannique de lancement comme référence.",
+  "suggested_url": "/fr/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guides d’achat de véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Conseils d’approvisionnement",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Royaume-Uni",
+  "reference_edition": "Lancement d’avril 2023, Pro+ et Premium",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste d’achat smart #1 en trois cartes sur la finition, la recharge et l’adéquation de l’habitacle.",
+    "caption": "Adaptez la version du lancement britannique à l’usage prévu.",
+    "labels": [
+      "Confirmer la finition",
+      "Vérifier la recharge adaptée",
+      "Essayer l’habitacle"
+    ],
+    "asset": "../../assets/smart-1/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "a6521f4f5ba5147725ee829abbc9851dbd23692601dd0210ea8f834957c8d53f"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "fr",
+  "body_sha256": "714c4ce052d48ec1d660d690ed4698c3a4c5dea3dae09f41bdc3479ed007d0fe",
+  "word_count": 1446,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

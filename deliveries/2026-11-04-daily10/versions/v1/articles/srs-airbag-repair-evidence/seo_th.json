@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "th",
+  "title": "หลักฐานการซ่อมถุงลม: สิ่งที่ผู้ซื้อรถมือสองควรขอ",
+  "h1": "หลักฐานการซ่อมถุงลมนิรภัย: สิ่งที่ผู้ซื้อรถมือสองควรขอ",
+  "meta_description": "ขอบันทึกซ่อมถุงลมนิรภัย ที่มาชิ้นส่วน และการตรวจโดยผู้มีคุณสมบัติก่อนซื้อรถที่ซ่อมมาแล้ว ภาพแผงหน้าปัดเพียงอย่างเดียวไม่เพียงพอ",
+  "card_summary": "ตรวจสอบย้อนกลับการซ่อมระบบยึดรั้ง ตั้งแต่ประวัติถุงลมทำงาน ชิ้นส่วนทดแทน ไปจนถึงการตรวจโดยผู้มีคุณสมบัติ",
+  "suggested_url": "/th/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/th/guides/",
+      "text": "คู่มือจัดซื้อ AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/th/vehicles/",
+      "text": "แค็ตตาล็อกรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "แผนภาพสามบัตรแสดงประวัติถุงลมทำงาน ชิ้นส่วนทดแทน และการตรวจโดยผู้มีคุณสมบัติ",
+    "caption": "การตรวจหลักฐานที่แนะนำสำหรับการซื้อรถมือสอง",
+    "labels": [
+      "ประวัติถุงลมทำงาน",
+      "ชิ้นส่วนทดแทน",
+      "การตรวจโดยผู้มีคุณสมบัติ"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "ebf30fd9f22d8ef198d6c5b0b4f4e0aced94fe1b50b6860873bb2f2c7ba68c32"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "th",
+  "body_sha256": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+  "word_count": 1429,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

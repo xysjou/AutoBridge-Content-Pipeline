@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "fr",
+  "locale": "fr",
+  "title": "Attelage et capacités de remorquage : les preuves à demander avant l’achat",
+  "meta_description": "Vérifiez limites du véhicule, identification de l’attelage, montage, masses chargées et connexions de remorque avant d’accepter une offre.",
+  "h1": "Attelage et capacités de remorquage : les preuves à demander avant l’achat",
+  "card_summary": "Un attelage présent ne prouve pas la capacité de remorquage : comparez les limites du véhicule, le montage et la remorque prévue.",
+  "suggested_url": "/fr/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guides de véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Bibliothèque de guides d’approvisionnement",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Trois cartes présentent les limites du véhicule, l’identité de l’attelage et les contrôles électriques de remorque.",
+    "caption": "Comparez séparément limites du véhicule, matériel d’attelage et connexions de remorque.",
+    "labels": [
+      "Limites de masse du véhicule exact",
+      "Identité et montage de l’attelage",
+      "Électricité et freins de remorque"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "a77b504a01bbdd6c55c96f73ad9216806b1762846eb05749118dfaa54352ab7e"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1533,
+  "body_sha256": "00680aed820ad4927a947d48ab78250fa13fd02f5252ace4113b0df09d58d7ea",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

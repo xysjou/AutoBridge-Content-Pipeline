@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "de",
+  "locale": "de",
+  "title": "Anhängerkupplung und Anhängelasten: Nachweise vor dem Kauf",
+  "meta_description": "Prüfen Sie Fahrzeuggrenzen, Kupplungsidentität, Einbau, beladene Gewichte und Anhängeranschlüsse vor der Angebotsannahme.",
+  "h1": "Anhängerkupplung und Anhängelasten: Nachweise vor dem Kauf",
+  "card_summary": "Eine montierte Kupplung belegt keine Zugfähigkeit: Fahrzeuggrenzen, Einbau und vorgesehenen Anhänger getrennt abgleichen.",
+  "suggested_url": "/de/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugleitfäden",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungsbibliothek",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Drei Karten zeigen Fahrzeuggrenzen, Kupplungsidentität und elektrische Anhängerprüfungen.",
+    "caption": "Fahrzeuggrenzen, Kupplungsteile und Anhängeranschlüsse als getrennte Kaufprüfungen vergleichen.",
+    "labels": [
+      "Gewichtsgrenzen des konkreten Autos",
+      "Kupplungsidentität und Einbau",
+      "Anhängerelektrik und Bremsen"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "d87b2dbbe00a29132cd32fa1d6b85f0dcc26ecb2c1a3dc9e291e6f5b97760f18"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1131,
+  "body_sha256": "25b5b6738c6472f521636960f99f6e276859d3414648f4f51620e594d36ecb0e",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

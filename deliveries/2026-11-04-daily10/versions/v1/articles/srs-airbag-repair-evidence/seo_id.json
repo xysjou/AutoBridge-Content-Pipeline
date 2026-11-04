@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "id",
+  "title": "Bukti Perbaikan Airbag: Apa yang Perlu Diminta Pembeli Mobil Bekas",
+  "h1": "Bukti Perbaikan Airbag: Apa yang Perlu Diminta Pembeli Mobil Bekas",
+  "meta_description": "Minta riwayat airbag mengembang, catatan komponen dan pekerjaan, serta inspeksi berkualifikasi sebelum membeli mobil bekas. Lampu padam bukan bukti lengkap.",
+  "card_summary": "Hubungkan riwayat kejadian, asal komponen, pekerjaan selesai, dan penilaian berkualifikasi sebelum menerima perbaikan sistem penahan penumpang.",
+  "suggested_url": "/id/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Riwayat airbag mengembang, Komponen pengganti, Inspeksi berkualifikasi.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Riwayat airbag mengembang",
+      "Komponen pengganti",
+      "Inspeksi berkualifikasi"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "eeae3024701be6d6fc26c8fd9e39bfcf931d18ab12633735cfbcb26e3e202cce"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+  "word_count": 1192,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

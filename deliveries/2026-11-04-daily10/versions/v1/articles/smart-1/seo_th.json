@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "th",
+  "title": "smart #1 Pro+ หรือ Premium? คู่มือซื้อสเปกเปิดตัวสหราชอาณาจักร",
+  "meta_description": "เปรียบเทียบอุปกรณ์ smart #1 Pro+ กับ Premium ชุดเปิดตัวสหราชอาณาจักร ความเหมาะสมการชาร์จและห้องโดยสาร ก่อนเลือกใบเสนอราคาต่างประเทศ",
+  "h1": "smart #1 Pro+ หรือ Premium? คู่มือซื้อสเปกเปิดตัวสหราชอาณาจักร",
+  "card_summary": "ตรวจว่าอุปกรณ์ Premium มีประโยชน์ที่สถานที่ชาร์จที่ตั้งใจหรือไม่ และยืนยันรถจริงรุ่นเปิดตัวสหราชอาณาจักร",
+  "suggested_url": "/th/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "สหราชอาณาจักร",
+  "reference_edition": "เปิดตัวในสหราชอาณาจักรเดือนเมษายน 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อแบบสามบัตรสำหรับ smart #1",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ยืนยันรุ่นย่อย",
+      "จับคู่เครื่องชาร์จ",
+      "ทดลองห้องโดยสาร"
+    ],
+    "asset": "../../assets/smart-1/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "fdfac8331de645dda6f6763b101f3019230644510b9f7ecab526b60fbb8c2de2"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "th",
+  "body_sha256": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+  "word_count": 1223,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

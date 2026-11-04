@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "ar",
+  "title": "أدلة إصلاح الوسائد الهوائية: ما الذي ينبغي أن يطلبه مشتري السيارات المستعملة؟",
+  "h1": "أدلة إصلاح الوسائد الهوائية: ما الذي ينبغي أن يطلبه مشتري السيارات المستعملة؟",
+  "meta_description": "اطلب سجل انتفاخ الوسائد الهوائية وقطع الاستبدال والعمل والفحص المؤهل قبل شراء سيارة مستعملة. انطفاء التحذير لا يثبت اكتمال الإصلاح.",
+  "card_summary": "اربط تاريخ الحدث بمصدر القطع والعمل المنجز والفحص المؤهل لتقييم أدلة إصلاح نظام تقييد الركاب.",
+  "suggested_url": "/ar/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "أدلة AutoBridge للمشتريات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "كتالوج المركبات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "مخطط من ثلاث بطاقات يوضح تاريخ انتفاخ الوسائد، قطع الاستبدال، فحص مؤهل.",
+    "caption": "فحوص موصى بها للأدلة عند شراء مركبة مستعملة.",
+    "labels": [
+      "تاريخ انتفاخ الوسائد",
+      "قطع الاستبدال",
+      "فحص مؤهل"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "b0edb6197c97c0e15435b94fb302962c3b9704136d3c67c1b5fdb29e71b314ec"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+  "word_count": 1192,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

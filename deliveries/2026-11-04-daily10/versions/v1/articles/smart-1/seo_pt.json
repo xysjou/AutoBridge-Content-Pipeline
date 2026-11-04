@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "pt",
+  "title": "smart #1 Pro+ ou Premium: guia de compra britânico",
+  "meta_description": "Compare smart #1 Pro+ e Premium com evidências do lançamento britânico e verificações de recarga em CA, cabine, equipamentos e documentos de usados.",
+  "h1": "smart #1 Pro+ ou Premium? Guia de compra da especificação britânica de lançamento",
+  "card_summary": "Escolha Pro+ ou Premium do lançamento britânico relacionando equipamentos documentados à instalação de recarga, aos passageiros e à condição do carro oferecido.",
+  "suggested_url": "/pt-br/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guias de compra de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guias de aquisição",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Reino Unido",
+  "reference_edition": "Lançamento britânico de abril de 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra do smart #1 com três cartões sobre versão, recarga e cabine.",
+    "caption": "Compare a versão britânica de lançamento ao uso pretendido.",
+    "labels": [
+      "Confirme a versão",
+      "Confira o carregador",
+      "Experimente a cabine"
+    ],
+    "asset": "../../assets/smart-1/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "a31274b8702aadaf5483b5d00aee0b4b2d91c00d25abb330f9c218c058e43268"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "pt",
+  "body_sha256": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+  "word_count": 1583,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

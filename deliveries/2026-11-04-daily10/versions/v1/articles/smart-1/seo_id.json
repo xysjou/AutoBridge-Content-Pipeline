@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "id",
+  "title": "smart #1 Pro+ vs Premium: Panduan Pembelian Inggris",
+  "meta_description": "Bandingkan smart #1 Pro+ dan Premium melalui bukti peluncuran Inggris, pemeriksaan pengisian AC, kecocokan kabin, perlengkapan dan dokumen mobil bekas.",
+  "h1": "smart #1 Pro+ atau Premium? Panduan Spesifikasi Peluncuran Inggris",
+  "card_summary": "Pilih Pro+ atau Premium dengan mencocokkan perlengkapan terdokumentasi dengan pengisian, kebutuhan penumpang dan kondisi mobil.",
+  "suggested_url": "/id/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Direktori kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa smart #1 tiga kartu meliputi varian, pengisian dan kabin",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Pastikan varian",
+      "Cocokkan pengisi daya",
+      "Coba kabin"
+    ],
+    "asset": "../../assets/smart-1/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "92c703c5c9674cda35fec7864ded7c36f5f1e16e56f77ed0712558bd6ab84613"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "4e63f82b13281ea653e39e5e6341d18db1e0bf0b6e77c2ace774f87a04a80c1f",
+  "word_count": 1123,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

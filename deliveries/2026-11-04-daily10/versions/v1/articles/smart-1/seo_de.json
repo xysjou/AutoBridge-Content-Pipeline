@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "de",
+  "title": "smart #1 Pro+ oder Premium? Kaufratgeber zur britischen Einführungsspezifikation",
+  "meta_description": "Vergleichen Sie smart #1 Pro+ und Premium zur britischen Einführung 2023: Ausstattung, AC-Laden, Innenraum und Gebrauchtwagennachweise.",
+  "h1": "smart #1 Pro+ oder Premium? Kaufratgeber zur britischen Einführungsspezifikation",
+  "card_summary": "Prüfen Sie den Alltagsnutzen der Premium-Funktionen und Ladefähigkeit anhand der dokumentierten britischen Einführungsversion.",
+  "suggested_url": "/de/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkaufratgeber",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungshinweise",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Vereinigtes Königreich",
+  "reference_edition": "Einführung April 2023, Pro+ und Premium",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Drei-Karten-Kaufcheckliste des smart #1 zu Variante, Laden und Innenraumeignung.",
+    "caption": "Die britische Einführungsversion mit der geplanten Nutzung abgleichen.",
+    "labels": [
+      "Variante bestätigen",
+      "Lader passend auswählen",
+      "Innenraum ausprobieren"
+    ],
+    "asset": "../../assets/smart-1/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "35ab4596fa0322984c9e513daf089abba09fc4f9dee9975523847fb7e97b5301"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "de",
+  "body_sha256": "0a066d8f711cf1a0141f1491e8a2fb8199634fa70e1ea248d71cbd1f359f2839",
+  "word_count": 1053,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

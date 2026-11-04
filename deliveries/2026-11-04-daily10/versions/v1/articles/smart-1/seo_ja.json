@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "ja",
+  "title": "smart #1 Pro+とPremium：英国発売仕様の購入ガイド",
+  "meta_description": "英国発売のsmart #1 Pro+とPremiumを比較。AC充電、室内の使い勝手、装備、中古車資料を確認します。",
+  "h1": "smart #1 Pro+とPremium：英国発売仕様の購入ガイド",
+  "card_summary": "英国発売仕様の装備を充電設備、乗員の条件、販売車両の状態に照らして選びます。",
+  "suggested_url": "/ja/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種別購入ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "車両調達ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "smart #1購入時の確認事項を示す3枚のカード",
+    "caption": "車両を特定した見積もりを依頼する前の主な確認事項。",
+    "labels": [
+      "グレードを確認",
+      "充電設備と照合",
+      "室内を試す"
+    ],
+    "asset": "../../assets/smart-1/ja.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "46ef811a3d5d088ec0887ce6f5a585391597b020a98adab9a60d6bf18df07509"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim.",
+  "locale": "ja",
+  "body_sha256": "2fc4a273a2e90cd754a5af77151e7591f44c689de3c6ac406ff4c92cbbe4aa8e",
+  "word_count": 266,
+  "han_character_count": 1288,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

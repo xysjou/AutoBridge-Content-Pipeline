@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "vi",
+  "title": "Bằng chứng sửa chữa túi khí: Người mua xe cũ cần gì?",
+  "h1": "Bằng chứng sửa chữa túi khí: Người mua xe cũ nên yêu cầu gì?",
+  "meta_description": "Yêu cầu hồ sơ sửa túi khí, nguồn gốc phụ tùng và kiểm tra có chuyên môn trước khi mua xe đã sửa. Ảnh bảng táp-lô là chưa đủ.",
+  "card_summary": "Truy xuất sửa chữa hệ thống bảo vệ người ngồi từ lịch sử bung túi khí đến phụ tùng thay thế và kiểm tra có chuyên môn.",
+  "suggested_url": "/vi/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/vi/guides/",
+      "text": "hướng dẫn mua hàng AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/vi/vehicles/",
+      "text": "danh mục xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Sơ đồ ba thẻ thể hiện lịch sử bung túi khí, phụ tùng thay thế và kiểm tra có chuyên môn.",
+    "caption": "Các bước kiểm tra bằng chứng được khuyến nghị khi mua xe đã qua sử dụng.",
+    "labels": [
+      "Lịch sử bung túi khí",
+      "Phụ tùng thay thế",
+      "Kiểm tra có chuyên môn"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "e270ed505e4b0e886e0238f761ea45a181b30524346383c8674555ef751b6b55"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "vi",
+  "body_sha256": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+  "word_count": 1999,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

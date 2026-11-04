@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "vi",
+  "title": "smart #1 Pro+ hay Premium? Hướng dẫn mua theo cấu hình ra mắt tại Anh",
+  "meta_description": "So sánh trang bị smart #1 Pro+ và Premium ra mắt tại Anh, sự phù hợp sạc và cabin trước khi chọn báo giá xe nước ngoài.",
+  "h1": "smart #1 Pro+ hay Premium? Hướng dẫn mua theo cấu hình ra mắt tại Anh",
+  "card_summary": "Kiểm tra trang bị Premium có hữu ích tại nơi sạc dự kiến không và xác minh xe thực tế thuộc đợt ra mắt Anh.",
+  "suggested_url": "/vi/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Vương quốc Anh",
+  "reference_edition": "Ra mắt tại Vương quốc Anh tháng 4 năm 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua smart #1",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Xác nhận phiên bản",
+      "Đối chiếu bộ sạc",
+      "Thử cabin"
+    ],
+    "asset": "../../assets/smart-1/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "d32d7ad9c1d58610679c7d4fdaccbd296602af394f46a8ccf746bb86ded2c737"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "vi",
+  "body_sha256": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+  "word_count": 1677,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

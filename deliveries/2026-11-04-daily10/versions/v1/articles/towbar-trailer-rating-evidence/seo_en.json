@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "en",
+  "locale": "en",
+  "title": "Towbar and Trailer Ratings: Buyer Evidence Checklist",
+  "meta_description": "Check vehicle towing limits, towbar identity, loaded weights and trailer electrics before accepting an imported car’s towing claim.",
+  "h1": "Towbar and Trailer Ratings: Evidence to Request Before Buying",
+  "card_summary": "A focused purchasing method for reconciling exact-vehicle limits with fitted towing hardware, loaded trailer plans and electrical-function evidence.",
+  "suggested_url": "/en/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "procurement guide library",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Three cards showing vehicle limits, towbar identity and trailer electrical checks.",
+    "caption": "Compare vehicle limits, towing hardware and trailer connections as separate purchase checks.",
+    "labels": [
+      "Exact-vehicle weight limits",
+      "Towbar identity and fitment",
+      "Trailer electrics and brakes"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "cea0a2cea8a5d707968059c27981481420a1df28c175352cea6d53b206e97dbe"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1338,
+  "body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

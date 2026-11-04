@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "ja",
+  "title": "エアバッグ修理の証拠：中古車購入者が求めるべき資料",
+  "h1": "エアバッグ修理の証拠：中古車購入者が求めるべき資料",
+  "meta_description": "中古車のエアバッグ修理について、展開歴、部品の来歴、作業記録、専門家の検査を確認。警告灯消灯だけでは分からない点を整理します。",
+  "card_summary": "修理前の履歴、部品と作業の記録、完了後の評価をつなぎ、乗員保護装置の未解決事項を明らかにします。",
+  "suggested_url": "/ja/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge調達ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "車種カタログ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "展開履歴、交換部品、専門家による検査を示す3枚のカード。",
+    "caption": "中古車購入時に推奨する証拠確認。",
+    "labels": [
+      "展開履歴",
+      "交換部品",
+      "専門家による検査"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/ja.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "f6835481ce29d57bfa44ecbef7041ee1d67a7f4fc0c242fb0496f035605b71ef"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  },
+  "locale": "ja",
+  "body_sha256": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+  "word_count": 247,
+  "han_character_count": 1444,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}
