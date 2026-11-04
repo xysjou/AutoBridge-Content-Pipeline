@@ -1,0 +1,26 @@
+{
+  "batch_id": "AB-20261104-D10",
+  "date": "2026-11-04",
+  "status": "RECOVERY_IN_PROGRESS",
+  "expected_topics": 10,
+  "expected_languages": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "pt",
+    "ja",
+    "ko",
+    "vi",
+    "th",
+    "id",
+    "ar",
+    "zh"
+  ],
+  "expected_bodies": 120,
+  "base_commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "preservation": "Only additive immutable checkpoint paths will be committed during recovery. A final independent version will be created after checks. Existing repository content will not be overwritten.",
+  "publication": "No deployment, no indexing claim, no paid API.",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
