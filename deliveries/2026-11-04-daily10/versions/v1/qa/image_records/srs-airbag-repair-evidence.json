@@ -1,0 +1,233 @@
+{
+  "slug": "srs-airbag-repair-evidence",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/srs-airbag-repair-evidence/ar.svg",
+      "sha256": "b0edb6197c97c0e15435b94fb302962c3b9704136d3c67c1b5fdb29e71b314ec",
+      "labels": [
+        "تاريخ انتفاخ الوسائد",
+        "قطع الاستبدال",
+        "فحص مؤهل"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/srs-airbag-repair-evidence/de.svg",
+      "sha256": "e145ac2a9082b72c5a0386c431461d447b4c0b7382fdaf46be977d06bf4ce6ed",
+      "labels": [
+        "Auslösungshistorie",
+        "Ersatzteile",
+        "Qualifizierte Prüfung"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/srs-airbag-repair-evidence/en.svg",
+      "sha256": "4af31d5b305a13873a33e5377f0568f4ecbfad3139d7afbf5cbb6eb9ec59404e",
+      "labels": [
+        "Deployment history",
+        "Replacement parts",
+        "Qualified inspection"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/srs-airbag-repair-evidence/es.svg",
+      "sha256": "80dc29c3f9a0354a04c79ae6fa7fb08ff14e329c141699db44e42372bc82ee50",
+      "labels": [
+        "Historial de activación",
+        "Piezas de recambio",
+        "Inspección cualificada"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/srs-airbag-repair-evidence/fr.svg",
+      "sha256": "353831eece6b427db77d32d1399f1456b2a5e064ed75c3526510b9d08c699755",
+      "labels": [
+        "Historique de déclenchement",
+        "Pièces de remplacement",
+        "Inspection qualifiée"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/srs-airbag-repair-evidence/id.svg",
+      "sha256": "eeae3024701be6d6fc26c8fd9e39bfcf931d18ab12633735cfbcb26e3e202cce",
+      "labels": [
+        "Riwayat airbag mengembang",
+        "Komponen pengganti",
+        "Inspeksi berkualifikasi"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/srs-airbag-repair-evidence/ja.svg",
+      "sha256": "f6835481ce29d57bfa44ecbef7041ee1d67a7f4fc0c242fb0496f035605b71ef",
+      "labels": [
+        "展開履歴",
+        "交換部品",
+        "専門家による検査"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/srs-airbag-repair-evidence/ko.svg",
+      "sha256": "d814c21ad6ef67145e5421dc9c4a81b802ab9ed1e56961a306a08bb3cb1b2693",
+      "labels": [
+        "전개 이력",
+        "교체 부품",
+        "적격 검사"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/srs-airbag-repair-evidence/pt.svg",
+      "sha256": "80426a846a31f878896a8a1a5e118870fe32650328a3859b03fb6fee2ecb87ae",
+      "labels": [
+        "Histórico de acionamento",
+        "Peças de reposição",
+        "Inspeção qualificada"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/srs-airbag-repair-evidence/th.svg",
+      "sha256": "ebf30fd9f22d8ef198d6c5b0b4f4e0aced94fe1b50b6860873bb2f2c7ba68c32",
+      "labels": [
+        "ประวัติถุงลมทำงาน",
+        "ชิ้นส่วนทดแทน",
+        "การตรวจโดยผู้มีคุณสมบัติ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/srs-airbag-repair-evidence/vi.svg",
+      "sha256": "e270ed505e4b0e886e0238f761ea45a181b30524346383c8674555ef751b6b55",
+      "labels": [
+        "Lịch sử bung túi khí",
+        "Phụ tùng thay thế",
+        "Kiểm tra có chuyên môn"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/srs-airbag-repair-evidence/zh.svg",
+      "sha256": "1a7fcd8536beacf66127d78fdbc3b4a4436646e12454261d98e4fcad670bd468",
+      "labels": [
+        "核对事件历史",
+        "确认零件来源",
+        "委托专业检查"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

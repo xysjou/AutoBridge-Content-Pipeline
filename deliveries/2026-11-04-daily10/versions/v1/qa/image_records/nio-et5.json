@@ -1,0 +1,233 @@
+{
+  "slug": "nio-et5",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/nio-et5/ar.svg",
+      "sha256": "8aeba18e69fbf4528694ae4a8668cd92f732a01a0f3e70b2bc480800c77ec8e4",
+      "labels": [
+        "حدد السيارة",
+        "أكد حقوق البطارية",
+        "تحقق من الدعم المحلي"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/nio-et5/de.svg",
+      "sha256": "abcc19ceb02019884d1aab2f0feaa5ce3531ba1aebb5c733a92f33c9b5145009",
+      "labels": [
+        "Fahrzeug identifizieren",
+        "Rechte an der Batterie bestätigen",
+        "Unterstützung vor Ort prüfen"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/nio-et5/en.svg",
+      "sha256": "ef40a19ca2a418933d2cbc79d73d77bd383cf7eb30fc760cc61cf94ba88c80e6",
+      "labels": [
+        "Identify the car",
+        "Confirm battery rights",
+        "Verify local support"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/nio-et5/es.svg",
+      "sha256": "e3b7a999426a7a99c40263f26c0af3fc208fe333a461b8e13a3b2f8c46067431",
+      "labels": [
+        "Identifique la propiedad de la batería",
+        "Confirme la transferencia del servicio",
+        "Identifique la versión alemana de lanzamiento"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/nio-et5/fr.svg",
+      "sha256": "662ae2cda568dc0950e37f366ccb122790ebe3f39fbb436ae777051213872152",
+      "labels": [
+        "Identifier le véhicule",
+        "Confirmer les droits sur la batterie",
+        "Vérifier l’assistance locale"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/nio-et5/id.svg",
+      "sha256": "8d4fd5ab1898be0688c0428310b3d66224a8ec75e07fa7a44fefd1a64ada9a42",
+      "labels": [
+        "Identifikasi kendaraan",
+        "Pastikan hak atas baterai",
+        "Verifikasi dukungan setempat"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/nio-et5/ja.svg",
+      "sha256": "631e6eded46bebf694667d88b90b73a15ce52eaef2aaf07683c644cb450695dc",
+      "labels": [
+        "車両の特定",
+        "電池の権利の確認",
+        "現地支援の確認"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/nio-et5/ko.svg",
+      "sha256": "25425b1facf424cb0f4fc9a3c13f15e4a3a53bddae2e7743326979a553d62f55",
+      "labels": [
+        "차량 식별",
+        "배터리 권리 확인",
+        "현지 지원 확인"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/nio-et5/pt.svg",
+      "sha256": "68a1c26337f6031ecfc4f4d49ddd2688f6efee551a4218c41a62e320f9ae8020",
+      "labels": [
+        "Identifique a propriedade da bateria",
+        "Confirme a transferência da assistência",
+        "Identifique a versão alemã de lançamento"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/nio-et5/th.svg",
+      "sha256": "5140091650e991e2fe96df48004be14d9026c798bfac1b68750fd3b74b53fb81",
+      "labels": [
+        "ระบุตัวรถ",
+        "ยืนยันสิทธิแบตเตอรี่",
+        "ตรวจสอบบริการในพื้นที่"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/nio-et5/vi.svg",
+      "sha256": "bbdc2b56c0162a993ec5d635a4819713d110a6b42783a493ea04d4cef8818e3e",
+      "labels": [
+        "Xác định chiếc xe",
+        "Xác nhận quyền đối với pin",
+        "Xác minh hỗ trợ tại địa phương"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/nio-et5/zh.svg",
+      "sha256": "2af35bbe827da96bc2b59ef8246f16d0343644877529b57223a6fcfe844d3414",
+      "labels": [
+        "确认电池权属",
+        "匹配具体配置",
+        "核实支持资格"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

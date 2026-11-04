@@ -1,0 +1,233 @@
+{
+  "slug": "smart-1",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/smart-1/ar.svg",
+      "sha256": "997d2f42111d8dd40218157d0a31d2874459421d866ec3cfc5701050f42eb8cb",
+      "labels": [
+        "أكد الفئة",
+        "طابق الشاحن",
+        "جرّب المقصورة"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/smart-1/de.svg",
+      "sha256": "35ab4596fa0322984c9e513daf089abba09fc4f9dee9975523847fb7e97b5301",
+      "labels": [
+        "Variante bestätigen",
+        "Lader passend auswählen",
+        "Innenraum ausprobieren"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/smart-1/en.svg",
+      "sha256": "54e2f2035b628735a917f427a80d240a6b46a81d0350a50bc6bfaebd17711cea",
+      "labels": [
+        "Confirm the trim",
+        "Match the charger",
+        "Try the cabin"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/smart-1/es.svg",
+      "sha256": "c03be14c888f543f7bc9d18ff997793bb6ebd2cdc9979e607db63c891d8e0cda",
+      "labels": [
+        "Confirme el acabado",
+        "Compruebe el cargador",
+        "Pruebe el habitáculo"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/smart-1/fr.svg",
+      "sha256": "a6521f4f5ba5147725ee829abbc9851dbd23692601dd0210ea8f834957c8d53f",
+      "labels": [
+        "Confirmer la finition",
+        "Vérifier la recharge adaptée",
+        "Essayer l’habitacle"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/smart-1/id.svg",
+      "sha256": "92c703c5c9674cda35fec7864ded7c36f5f1e16e56f77ed0712558bd6ab84613",
+      "labels": [
+        "Pastikan varian",
+        "Cocokkan pengisi daya",
+        "Coba kabin"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/smart-1/ja.svg",
+      "sha256": "46ef811a3d5d088ec0887ce6f5a585391597b020a98adab9a60d6bf18df07509",
+      "labels": [
+        "グレードを確認",
+        "充電設備と照合",
+        "室内を試す"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/smart-1/ko.svg",
+      "sha256": "1d4748ea2e730d17086b81315156572e64cc755b0612d920cf92b8a0e28388da",
+      "labels": [
+        "트림 확인",
+        "충전기 대조",
+        "실내 사용해 보기"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/smart-1/pt.svg",
+      "sha256": "a31274b8702aadaf5483b5d00aee0b4b2d91c00d25abb330f9c218c058e43268",
+      "labels": [
+        "Confirme a versão",
+        "Confira o carregador",
+        "Experimente a cabine"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/smart-1/th.svg",
+      "sha256": "fdfac8331de645dda6f6763b101f3019230644510b9f7ecab526b60fbb8c2de2",
+      "labels": [
+        "ยืนยันรุ่นย่อย",
+        "จับคู่เครื่องชาร์จ",
+        "ทดลองห้องโดยสาร"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/smart-1/vi.svg",
+      "sha256": "d32d7ad9c1d58610679c7d4fdaccbd296602af394f46a8ccf746bb86ded2c737",
+      "labels": [
+        "Xác nhận phiên bản",
+        "Đối chiếu bộ sạc",
+        "Thử cabin"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/smart-1/zh.svg",
+      "sha256": "d1e46544f94889b336be58c1038e3d6c5c112db2dbbe963821ff40695ccaa3f9",
+      "labels": [
+        "核对上市配置",
+        "检查充电条件",
+        "试用乘员空间"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

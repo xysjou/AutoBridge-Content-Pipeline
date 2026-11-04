@@ -1,0 +1,233 @@
+{
+  "slug": "byd-seal-u-dm-i",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/byd-seal-u-dm-i/ar.svg",
+      "sha256": "d14be06f4aaa505daad10f2cd429bbbe05ac05a2bf653563256309e0448c7682",
+      "labels": [
+        "قارن سعة البطارية",
+        "اختر العجلات المدفوعة المطلوبة",
+        "أكد إتاحة الشحن المنتظم"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/byd-seal-u-dm-i/de.svg",
+      "sha256": "ae759001c2a1c1a89e4df98899645042d8449ae50efa9e313c3b9013c4d0f82d",
+      "labels": [
+        "Batteriekapazitäten vergleichen",
+        "Benötigte Antriebsräder wählen",
+        "Regelmäßigen Ladezugang bestätigen"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/byd-seal-u-dm-i/en.svg",
+      "sha256": "64ce39193b18037612840c9a794e4ec785c8efde69349be5d8de155ac4a5baa9",
+      "labels": [
+        "Compare battery capacity",
+        "Choose driven wheels",
+        "Confirm charging access"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/byd-seal-u-dm-i/es.svg",
+      "sha256": "8709a36fd010bdc48e78f79386f7ca744b916a08b6b30627da9a6b10abe55886",
+      "labels": [
+        "Compare capacidad de batería",
+        "Elija las ruedas motrices necesarias",
+        "Confirme acceso habitual a recarga"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/byd-seal-u-dm-i/fr.svg",
+      "sha256": "e73fc5b5c4100784c30c2edcf86cf19e4e5a3d001caf204735970f4b56a5b5d4",
+      "labels": [
+        "Comparer les capacités de batterie",
+        "Choisir les roues motrices nécessaires",
+        "Confirmer une recharge régulière"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/byd-seal-u-dm-i/id.svg",
+      "sha256": "f137219d62ddfc8a4cf58a4d67789d99dcd598f3cfb4ea745a7e0e88cfe0a04f",
+      "labels": [
+        "Bandingkan kapasitas baterai",
+        "Pilih roda penggerak yang diperlukan",
+        "Pastikan akses pengisian rutin"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/byd-seal-u-dm-i/ja.svg",
+      "sha256": "f963185dd014c51381866ade4fc7223643bf708cbf5f63ca24dc5662bfa20fcf",
+      "labels": [
+        "電池容量を比較",
+        "必要な駆動輪を選択",
+        "定期的な充電機会を確認"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/byd-seal-u-dm-i/ko.svg",
+      "sha256": "2990fe12d7bd33048e6f25f90edf357f6f9ff2248ad5748be29211daf4364963",
+      "labels": [
+        "배터리 용량 비교",
+        "필요한 구동 바퀴 선택",
+        "정기 충전 접근 확인"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/byd-seal-u-dm-i/pt.svg",
+      "sha256": "c3287fdd3a7837c497c6dbab37dc768903097ac701a70aa2fe3e37c7bb2a2cb2",
+      "labels": [
+        "Compare a capacidade da bateria",
+        "Escolha as rodas motrizes necessárias",
+        "Confirme acesso regular à recarga"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/byd-seal-u-dm-i/th.svg",
+      "sha256": "0dd13bcf38fc2b08a4daef6ff6959915b43bd8d4dc207a1f9523f9df4af85f36",
+      "labels": [
+        "เทียบความจุแบตเตอรี่",
+        "เลือกล้อขับเคลื่อน",
+        "ยืนยันการเข้าถึงชาร์จ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/byd-seal-u-dm-i/vi.svg",
+      "sha256": "f255e5b3251f1cbd97075de0463e5eee6be30caf6f93b8ff66f326a392f449ae",
+      "labels": [
+        "So sánh dung lượng pin",
+        "Chọn bánh xe dẫn động",
+        "Xác nhận khả năng tiếp cận sạc"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/byd-seal-u-dm-i/zh.svg",
+      "sha256": "659cc943b031fc7c1261343883b44de2b9a3203564f0fb2b68554a0f09c6565f",
+      "labels": [
+        "比较电池与驱动",
+        "确认充电安排",
+        "检查具体车辆"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

@@ -1,0 +1,1082 @@
+{
+  "date": "2026-11-04",
+  "reviewed_at_utc": "2026-11-04T12:29:49.465057+00:00",
+  "recovery": "Second recovery: 14 preserved checkpoint bodies retained, 6 missing bodies and 6 SEO reconstructed. No byte-identical claim for reconstructed files.",
+  "bodies_present": 20,
+  "seo_present": 20,
+  "newly_reconstructed_bodies": 6,
+  "newly_reconstructed_seo": 6,
+  "preserved_bodies": 14,
+  "method": "Direct AI restoration; 6 restored translations compared to frozen EN; original page-by-page review retained in thread. Preserved 14 bodies verified against checkpoint bytes plus explicit patch log. Mechanical checks and full-body similarities newly executed on this workspace.",
+  "patches": [
+    {
+      "slug": "xpeng-g6",
+      "language": "fr",
+      "old": "Ces résultats concernent la configuration testée et les conditions d’évaluation",
+      "new": "Ces résultats concernent la configuration Long Range à conduite à gauche (LHD) testée et les conditions d’évaluation"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "fr",
+      "old": "lancement du G6, 3 septembre 2024",
+      "new": "lancement du G6, septembre 2024"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "fr",
+      "old": "G6 et G9 révisés, 11 juillet 2025",
+      "new": "G6 et G9 révisés, juillet 2025"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "de",
+      "old": "Diese Ergebnisse gelten für die geprüfte Konfiguration und die Prüfbedingungen",
+      "new": "Diese Ergebnisse gelten für die geprüfte Long-Range-Konfiguration mit Linkslenkung (LHD) und die Prüfbedingungen"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "de",
+      "old": "G6-Einführung, 3. September 2024",
+      "new": "G6-Einführung, September 2024"
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "de",
+      "old": "überarbeitete G6 und G9, 11. Juli 2025",
+      "new": "überarbeitete G6 und G9, Juli 2025"
+    },
+    {
+      "slug": "nio-et5",
+      "language": "fr",
+      "old": "publiée le 15 mai 2023, décrivant le lancement d’avril 2023",
+      "new": "publiée en mai 2023, décrivant le lancement d’avril"
+    },
+    {
+      "slug": "nio-et5",
+      "language": "de",
+      "old": "veröffentlicht am 15. Mai 2023, zur Einführung im April 2023",
+      "new": "veröffentlicht im Mai 2023, zur Einführung im April"
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "de",
+      "old": "Bedeutet ein unbelastetes Eigentumsdokument, dass kein Flutschaden vorliegt?",
+      "new": "Bedeutet ein Fahrzeugtitel ohne Schadensvermerk, dass kein Flutschaden vorliegt?"
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "fr",
+      "old": "Quelle est la meilleure raison d’arrêter ?",
+      "new": "Quel est le motif le plus important pour suspendre l’achat ?"
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "fr",
+      "old": "Demandez séparément les réparations et identifiez",
+      "new": "Demandez séparément les justificatifs de réparation et identifiez"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "fr",
+      "body_path": "articles/byd-seal-u-dm-i/fr.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_fr.json",
+      "body_sha256": "ea7c7587ef64114f13cd958c2368081cd3c3c06a1e3378b3af671bd05a5bba33",
+      "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "words_whitespace": 1410,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "Poland MY2026 January PDF, not Europe/global. Comfort range/battery versus Design AWD, total system power and PHEV charging context retained. Euro NCAP original Electric Design test versus listed PHEV applicability separated.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "de",
+      "body_path": "articles/byd-seal-u-dm-i/de.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_de.json",
+      "body_sha256": "7d4cb4d3aaa87474ad58986e3083cec78b21401f3a9660951c214898aba0828b",
+      "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "words_whitespace": 1119,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "Poland MY2026 January PDF, not Europe/global. Comfort range/battery versus Design AWD, total system power and PHEV charging context retained. Euro NCAP original Electric Design test versus listed PHEV applicability separated.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "fr",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/fr.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_fr.json",
+      "body_sha256": "072d4a51ad4238348521de916b6167e4bf3839cdbf7bbd13cdee498de0ad38aa",
+      "english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "words_whitespace": 1574,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Regeneration not ash cleaning; DPF not SCR/DEF; particle/chemical contamination separate. CARB/EPA historical technical context; Cummins procedure and Volvo contract not generalized; qualified staff not DIY.",
+      "review_provenance": "Preserved remote checkpoint 006/articles/diesel-dpf-scr-maintenance-evidence/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "de",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/de.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_de.json",
+      "body_sha256": "34aa859535a86e7d4dfba65905cb490ede2c83715e243d76dafe3f709b163b49",
+      "english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "words_whitespace": 1183,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Regeneration not ash cleaning; DPF not SCR/DEF; particle/chemical contamination separate. CARB/EPA historical technical context; Cummins procedure and Volvo contract not generalized; qualified staff not DIY.",
+      "review_provenance": "Preserved remote checkpoint 006/articles/diesel-dpf-scr-maintenance-evidence/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "fr",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_fr.json",
+      "body_sha256": "cecd2100cc9368c89f4c380e20ecb177455b8a4748578e09c2f829a2b0c4f69a",
+      "english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "words_whitespace": 1483,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Missing flood record not clearance; total loss not necessarily flood; independent targeted inspection and inaccessible areas; no DIY disassembly or high-voltage charging/drive experiment.",
+      "review_provenance": "Preserved remote checkpoint 005/articles/flood-damage-evidence-used-car-purchase/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "de",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/de.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_de.json",
+      "body_sha256": "22c1cd4387a7fd5d39f910c5bc1f809b0db77e34f5b6f842257f9c9a205d9654",
+      "english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "words_whitespace": 1129,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Missing flood record not clearance; total loss not necessarily flood; independent targeted inspection and inaccessible areas; no DIY disassembly or high-voltage charging/drive experiment.",
+      "review_provenance": "Preserved remote checkpoint 005/articles/flood-damage-evidence-used-car-purchase/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "nio-et5",
+      "language": "fr",
+      "body_path": "articles/nio-et5/fr.md",
+      "seo_path": "articles/nio-et5/seo_fr.json",
+      "body_sha256": "82dcffd3714bdcfda30cd2efd59d340a9967342879ccb503a3d4f84809fd41d2",
+      "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "words_whitespace": 1640,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "German April 2023 sedan distinct from Touring/China. BaaS ownership, contract transfer and provider confirmation. ADAC Ecotest with losses distinct from WLTP; ET5 warranty and Certified programme scope preserved.",
+      "review_provenance": "Preserved remote checkpoint 004/articles/nio-et5/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "nio-et5",
+      "language": "de",
+      "body_path": "articles/nio-et5/de.md",
+      "seo_path": "articles/nio-et5/seo_de.json",
+      "body_sha256": "6526b089f75d0280294660317abeb26fff6e27ae573e63db6456fe586c417dc4",
+      "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "words_whitespace": 1256,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "German April 2023 sedan distinct from Touring/China. BaaS ownership, contract transfer and provider confirmation. ADAC Ecotest with losses distinct from WLTP; ET5 warranty and Certified programme scope preserved.",
+      "review_provenance": "Preserved remote checkpoint 004/articles/nio-et5/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "fr",
+      "body_path": "articles/odometer-service-history-reconciliation/fr.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_fr.json",
+      "body_sha256": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+      "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "words_whitespace": 1465,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Display versus lifetime; units and event/issue dates; not fraud finding; UK/Northern Ireland and US scope; NMVTIS not repair history; VIN-specific acceptance.",
+      "review_provenance": "Preserved remote checkpoint 002/articles/odometer-service-history-reconciliation/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "de",
+      "body_path": "articles/odometer-service-history-reconciliation/de.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_de.json",
+      "body_sha256": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+      "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "words_whitespace": 1231,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Display versus lifetime; units and event/issue dates; not fraud finding; UK/Northern Ireland and US scope; NMVTIS not repair history; VIN-specific acceptance.",
+      "review_provenance": "Preserved remote checkpoint 002/articles/odometer-service-history-reconciliation/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "smart-1",
+      "language": "fr",
+      "body_path": "articles/smart-1/fr.md",
+      "seo_path": "articles/smart-1/seo_fr.json",
+      "body_sha256": "341e867d8ada47a2562814afc170561e435dae92a29c67354c0ed2ce26752437",
+      "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "words_whitespace": 1430,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "UK April 2023 Pro+/Premium; dash not absence; historical/current trims separate; AC/DC distinct. RAC attributed. Euro NCAP Premium 4x2, camera versus limiter credit; MOT not battery/title/import proof.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    },
+    {
+      "slug": "smart-1",
+      "language": "de",
+      "body_path": "articles/smart-1/de.md",
+      "seo_path": "articles/smart-1/seo_de.json",
+      "body_sha256": "0da46622ae1d1f5b2e1ce496e4660b67a5ae708b8f80d2b74c82ea8b78c9aa30",
+      "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "words_whitespace": 1100,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "UK April 2023 Pro+/Premium; dash not absence; historical/current trims separate; AC/DC distinct. RAC attributed. Euro NCAP Premium 4x2, camera versus limiter credit; MOT not battery/title/import proof.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "fr",
+      "body_path": "articles/srs-airbag-repair-evidence/fr.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_fr.json",
+      "body_sha256": "5df3e9e60289e855a8df200ca71275187f0b35e250d62622c7f1167050bc7694",
+      "english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "words_whitespace": 1393,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "History, parts/work and inspection distinct; estimate not completed invoice; no dismantling or fault clearing; Ford Australia/Model 3 Europe scope; recall is separate.",
+      "review_provenance": "Preserved remote checkpoint 007/articles/srs-airbag-repair-evidence/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "de",
+      "body_path": "articles/srs-airbag-repair-evidence/de.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_de.json",
+      "body_sha256": "9e8bd7febbaaf280858d089bbf641bac333d658775a97697a7c8600de46a2b41",
+      "english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "words_whitespace": 1084,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "History, parts/work and inspection distinct; estimate not completed invoice; no dismantling or fault clearing; Ford Australia/Model 3 Europe scope; recall is separate.",
+      "review_provenance": "Preserved remote checkpoint 007/articles/srs-airbag-repair-evidence/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "fr",
+      "body_path": "articles/towbar-trailer-rating-evidence/fr.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_fr.json",
+      "body_sha256": "00680aed820ad4927a947d48ab78250fa13fd02f5252ace4113b0df09d58d7ea",
+      "english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "words_whitespace": 1506,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Vehicle and towbar limits distinct; braked/unbraked, vertical/axle/train/load/electric checks. UK pre-1 August 1998 exception, NSW, Ford US and Volvo UK scopes retained. May need software update not universal.",
+      "review_provenance": "Preserved remote checkpoint 006/articles/towbar-trailer-rating-evidence/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "de",
+      "body_path": "articles/towbar-trailer-rating-evidence/de.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_de.json",
+      "body_sha256": "25b5b6738c6472f521636960f99f6e276859d3414648f4f51620e594d36ecb0e",
+      "english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "words_whitespace": 1173,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Vehicle and towbar limits distinct; braked/unbraked, vertical/axle/train/load/electric checks. UK pre-1 August 1998 exception, NSW, Ford US and Volvo UK scopes retained. May need software update not universal.",
+      "review_provenance": "Preserved remote checkpoint 006/articles/towbar-trailer-rating-evidence/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "fr",
+      "body_path": "articles/xpeng-g6/fr.md",
+      "seo_path": "articles/xpeng-g6/seo_fr.json",
+      "body_sha256": "1f44b37a6003d155a880da0edd1c1cd2f60e246d11edb6eae9b0569ac6dc60cc",
+      "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "words_whitespace": 1467,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Historical Germany September 2024; net battery capacity; LFP/NCM; individual WLTP/DC trim values. Long Range LHD crash-test scope restored. Rear chest weak protection retained.",
+      "review_provenance": "Preserved remote checkpoint 003/articles/xpeng-g6/fr.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "de",
+      "body_path": "articles/xpeng-g6/de.md",
+      "seo_path": "articles/xpeng-g6/seo_de.json",
+      "body_sha256": "55f690b2461b9f00bbcd42cae6a28165c361aaf158e35f85dc42dcae47816770",
+      "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "words_whitespace": 1195,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true,
+        "preserved_checkpoint_plus_only_listed_patches": true
+      },
+      "semantic_review_note": "Historical Germany September 2024; net battery capacity; LFP/NCM; individual WLTP/DC trim values. Long Range LHD crash-test scope restored. Rear chest weak protection retained.",
+      "review_provenance": "Preserved remote checkpoint 003/articles/xpeng-g6/de.md; verified unchanged except logged targeted repairs. Prior actual page-by-page semantic review remains in conversation history; not claimed as a new complete reread."
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "fr",
+      "body_path": "articles/xpeng-g9/fr.md",
+      "seo_path": "articles/xpeng-g9/seo_fr.json",
+      "body_sha256": "a2eb96028ab045dc4b023a8e916821f0191df8c03a2775d14b3c0bdbd344f986",
+      "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "words_whitespace": 1313,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "Four 2023 launch markets; RWD Long Range; stated 98 kWh not relabelled usable. Green NCAP 29 and 32.4 at -7°C kept separate from WLTP. Front pelvis poor/rear chest marginal results retained.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "de",
+      "body_path": "articles/xpeng-g9/de.md",
+      "seo_path": "articles/xpeng-g9/seo_de.json",
+      "body_sha256": "39ee9d9fc0e556e6f53c2b6fbe9bd0bf151236297e9b069ef0e8b42b7d98db14",
+      "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "words_whitespace": 1024,
+      "mechanical_checks": {
+        "numbers": true,
+        "external_urls": true,
+        "table_dimensions": true,
+        "faq_count": true,
+        "paragraph_count": true,
+        "h1_title": true,
+        "language": true,
+        "image_suffix": true,
+        "author_flags": true,
+        "public_fields_complete": true,
+        "no_workflow_leakage": true,
+        "no_cjk": true
+      },
+      "semantic_review_note": "Four 2023 launch markets; RWD Long Range; stated 98 kWh not relabelled usable. Green NCAP 29 and 32.4 at -7°C kept separate from WLTP. Front pelvis poor/rear chest marginal results retained.",
+      "review_provenance": "Reconstructed missing file from prior full text, compared with currently frozen EN."
+    }
+  ],
+  "failures": [],
+  "similarity_method": "Same-language full-body word 5-gram set Jaccard excluding Markdown destination URLs, all45 pairs per language",
+  "similarity": [
+    {
+      "language": "fr",
+      "pairs_checked": 45,
+      "max_pair": {
+        "a": "flood-damage-evidence-used-car-purchase",
+        "b": "odometer-service-history-reconciliation",
+        "jaccard": 0.00628099173553719
+      },
+      "manual_review_needed": false,
+      "pairs": [
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "diesel-dpf-scr-maintenance-evidence",
+          "jaccard": 0.00033112582781456954
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "flood-damage-evidence-used-car-purchase",
+          "jaccard": 0.000683526999316473
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "nio-et5",
+          "jaccard": 0.00032829940906106366
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.00034258307639602604
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "smart-1",
+          "jaccard": 0.000702000702000702
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.00070298769771529
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0010217983651226157
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "xpeng-g6",
+          "jaccard": 0.0024407252440725243
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "xpeng-g9",
+          "jaccard": 0.004439511653718091
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "flood-damage-evidence-used-car-purchase",
+          "jaccard": 0.0012734797835084368
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "nio-et5",
+          "jaccard": 0.0015342129487572874
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.0012767315671879987
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "smart-1",
+          "jaccard": 0.001632386549134835
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0016345210853220007
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0015867978419549348
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.00226904376012966
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.000341180484476288
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "nio-et5",
+          "jaccard": 0.000946969696969697
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.00628099173553719
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "smart-1",
+          "jaccard": 0.0013463480309660047
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0054145516074450084
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0006533812479581836
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "xpeng-g6",
+          "jaccard": 0.000667334000667334
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "xpeng-g9",
+          "jaccard": 0.0007049700387733521
+        },
+        {
+          "a": "nio-et5",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.0019005384859043396
+        },
+        {
+          "a": "nio-et5",
+          "b": "smart-1",
+          "jaccard": 0.003893575600259572
+        },
+        {
+          "a": "nio-et5",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0006476683937823834
+        },
+        {
+          "a": "nio-et5",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0006289308176100629
+        },
+        {
+          "a": "nio-et5",
+          "b": "xpeng-g6",
+          "jaccard": 0.004834031582339671
+        },
+        {
+          "a": "nio-et5",
+          "b": "xpeng-g9",
+          "jaccard": 0.00033818058843422386
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "smart-1",
+          "jaccard": 0.0013499831252109348
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.004066418163334463
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0006550933508024893
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "xpeng-g6",
+          "jaccard": 0.0016744809109176155
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "xpeng-g9",
+          "jaccard": 0.0007069635913750442
+        },
+        {
+          "a": "smart-1",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0006915629322268327
+        },
+        {
+          "a": "smart-1",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0013413816230717639
+        },
+        {
+          "a": "smart-1",
+          "b": "xpeng-g6",
+          "jaccard": 0.00205761316872428
+        },
+        {
+          "a": "smart-1",
+          "b": "xpeng-g9",
+          "jaccard": 0.0010873504893077202
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.001343183344526528
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.0010291595197255575
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.000725689404934688
+        },
+        {
+          "a": "towbar-trailer-rating-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.0009976720984369804
+        },
+        {
+          "a": "towbar-trailer-rating-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.0007022471910112359
+        },
+        {
+          "a": "xpeng-g6",
+          "b": "xpeng-g9",
+          "jaccard": 0.0046880634691669676
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "pairs_checked": 45,
+      "max_pair": {
+        "a": "flood-damage-evidence-used-car-purchase",
+        "b": "odometer-service-history-reconciliation",
+        "jaccard": 0.0021929824561403508
+      },
+      "manual_review_needed": false,
+      "pairs": [
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "diesel-dpf-scr-maintenance-evidence",
+          "jaccard": 0.0004450378282153983
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "flood-damage-evidence-used-car-purchase",
+          "jaccard": 0.0
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "nio-et5",
+          "jaccard": 0.0
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.0
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "smart-1",
+          "jaccard": 0.0
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0004701457451810061
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0004508566275924256
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "xpeng-g6",
+          "jaccard": 0.0009021199819576004
+        },
+        {
+          "a": "byd-seal-u-dm-i",
+          "b": "xpeng-g9",
+          "jaccard": 0.001931434089811685
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "flood-damage-evidence-used-car-purchase",
+          "jaccard": 0.0
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "nio-et5",
+          "jaccard": 0.0
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.0
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "smart-1",
+          "jaccard": 0.0
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0008984725965858042
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0008631851532153647
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.0008631851532153647
+        },
+        {
+          "a": "diesel-dpf-scr-maintenance-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.00045998160073597056
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "nio-et5",
+          "jaccard": 0.0021404109589041095
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.0021929824561403508
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "smart-1",
+          "jaccard": 0.001375515818431912
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "xpeng-g6",
+          "jaccard": 0.0
+        },
+        {
+          "a": "flood-damage-evidence-used-car-purchase",
+          "b": "xpeng-g9",
+          "jaccard": 0.0
+        },
+        {
+          "a": "nio-et5",
+          "b": "odometer-service-history-reconciliation",
+          "jaccard": 0.001639344262295082
+        },
+        {
+          "a": "nio-et5",
+          "b": "smart-1",
+          "jaccard": 0.00213857998289136
+        },
+        {
+          "a": "nio-et5",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "nio-et5",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0004177109440267335
+        },
+        {
+          "a": "nio-et5",
+          "b": "xpeng-g6",
+          "jaccard": 0.0
+        },
+        {
+          "a": "nio-et5",
+          "b": "xpeng-g9",
+          "jaccard": 0.00044444444444444447
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "smart-1",
+          "jaccard": 0.0013134851138353765
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.000427715996578272
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "xpeng-g6",
+          "jaccard": 0.0
+        },
+        {
+          "a": "odometer-service-history-reconciliation",
+          "b": "xpeng-g9",
+          "jaccard": 0.0
+        },
+        {
+          "a": "smart-1",
+          "b": "srs-airbag-repair-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "smart-1",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0
+        },
+        {
+          "a": "smart-1",
+          "b": "xpeng-g6",
+          "jaccard": 0.0
+        },
+        {
+          "a": "smart-1",
+          "b": "xpeng-g9",
+          "jaccard": 0.0
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "towbar-trailer-rating-evidence",
+          "jaccard": 0.0009103322712790169
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.0009103322712790169
+        },
+        {
+          "a": "srs-airbag-repair-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.0004868549172346641
+        },
+        {
+          "a": "towbar-trailer-rating-evidence",
+          "b": "xpeng-g6",
+          "jaccard": 0.0013117621337997377
+        },
+        {
+          "a": "towbar-trailer-rating-evidence",
+          "b": "xpeng-g9",
+          "jaccard": 0.0004662004662004662
+        },
+        {
+          "a": "xpeng-g6",
+          "b": "xpeng-g9",
+          "jaccard": 0.0013999066728884741
+        }
+      ]
+    }
+  ],
+  "AI_LANGUAGE_QA": "PASS",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "pending": [
+    "Independent cross-review",
+    "Parent image generation and verified locale links/final metadata normalization",
+    "Parent GitHub save"
+  ],
+  "git_mutations": false
+}

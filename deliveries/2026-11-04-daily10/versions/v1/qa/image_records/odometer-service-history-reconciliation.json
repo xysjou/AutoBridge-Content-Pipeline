@@ -1,0 +1,233 @@
+{
+  "slug": "odometer-service-history-reconciliation",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/odometer-service-history-reconciliation/ar.svg",
+      "sha256": "ea04d5698d5fd4eab72e82f3c6b818af73199ef66f30a633b7b2a185705a4725",
+      "labels": [
+        "قراءات مؤرخة",
+        "تناقضات السجلات",
+        "قرار الشراء"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/odometer-service-history-reconciliation/de.svg",
+      "sha256": "c19798a58a5eb73dda8e9ad24658fb895f9e56c7a802f989f77b2c170dccccc3",
+      "labels": [
+        "Datierte Zählerstände",
+        "Abweichungen in Belegen",
+        "Kaufentscheidung"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/odometer-service-history-reconciliation/en.svg",
+      "sha256": "b927e5b99e166f9b467d8b78bb34107ef7598e7b8e25eed832f134edc3eef0bc",
+      "labels": [
+        "Dated readings",
+        "Record discrepancies",
+        "Purchase decision"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/odometer-service-history-reconciliation/es.svg",
+      "sha256": "4529d98b10ee44ecb071214d32101d02c2c7b029bb0287378f3a665f76e0ff14",
+      "labels": [
+        "Lecturas fechadas",
+        "Discrepancias de registros",
+        "Decisión de compra"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/odometer-service-history-reconciliation/fr.svg",
+      "sha256": "a2fd2bf89e7e4a30efe389eb5d6ad321aa15f3526c92270e4bb1ed5836a42cc6",
+      "labels": [
+        "Relevés datés",
+        "Écarts entre documents",
+        "Décision d’achat"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/odometer-service-history-reconciliation/id.svg",
+      "sha256": "5a53a05ed3e0a12dd634b9f0f12c742eb98449e1aa96b65c2a248ba7d875c746",
+      "labels": [
+        "Angka bertanggal",
+        "Ketidaksesuaian catatan",
+        "Keputusan pembelian"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/odometer-service-history-reconciliation/ja.svg",
+      "sha256": "a6b50781b34069e0928c72686c85e02416ce5b43909bc2a4a691b3a676ee6f7b",
+      "labels": [
+        "日付付き走行距離",
+        "記録の食い違い",
+        "購入判断"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/odometer-service-history-reconciliation/ko.svg",
+      "sha256": "8f47323c299e54546c438651fbc53ccb70f07a0606ca16a51665f71705607098",
+      "labels": [
+        "날짜별 주행거리",
+        "기록 불일치",
+        "구매 결정"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/odometer-service-history-reconciliation/pt.svg",
+      "sha256": "8ac4c0991e51e6140524dce94095eccd18bfe992d01075017f93ad60de8b413e",
+      "labels": [
+        "Leituras datadas",
+        "Divergências de registros",
+        "Decisão de compra"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/odometer-service-history-reconciliation/th.svg",
+      "sha256": "31613b386fa7cf4000e4b9fc5113dc382446de706662bbcc6740d3e6a0ffa701",
+      "labels": [
+        "ค่าอ่านลงวันที่",
+        "ความขัดแย้งเอกสาร",
+        "การตัดสินใจซื้อ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/odometer-service-history-reconciliation/vi.svg",
+      "sha256": "30166bbf8aa2cf3429b843969d4ee9b393ebaf4ea28a61d7eb1515e6d1f5ca6b",
+      "labels": [
+        "Số quãng đường có ngày",
+        "Sai lệch hồ sơ",
+        "Quyết định mua"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/odometer-service-history-reconciliation/zh.svg",
+      "sha256": "db880ef45a41381f214fdc8097140a2e3ecf11fe0150f59aa58684332c5d8b07",
+      "labels": [
+        "核对当前读数",
+        "建立记录时间线",
+        "调查未解差异"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}
