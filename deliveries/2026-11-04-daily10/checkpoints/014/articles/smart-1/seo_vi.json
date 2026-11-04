@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "vi",
+  "title": "smart #1 Pro+ hay Premium? Hướng dẫn mua theo cấu hình ra mắt tại Anh",
+  "meta_description": "So sánh trang bị smart #1 Pro+ và Premium ra mắt tại Anh, sự phù hợp sạc và cabin trước khi chọn báo giá xe nước ngoài.",
+  "h1": "smart #1 Pro+ hay Premium? Hướng dẫn mua theo cấu hình ra mắt tại Anh",
+  "card_summary": "Kiểm tra trang bị Premium có hữu ích tại nơi sạc dự kiến không và xác minh xe thực tế thuộc đợt ra mắt Anh.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua smart #1",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Xác nhận phiên bản",
+      "Đối chiếu bộ sạc",
+      "Thử cabin"
+    ],
+    "asset": "../../assets/smart-1/vi.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery."
+}

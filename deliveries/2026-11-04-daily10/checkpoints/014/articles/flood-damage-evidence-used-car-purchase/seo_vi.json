@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "vi",
+  "title": "Bằng chứng ngập nước cần yêu cầu trước khi mua xe cũ",
+  "h1": "Bằng chứng về thiệt hại do ngập nước cần yêu cầu trước khi mua ô tô đã qua sử dụng",
+  "meta_description": "Đánh giá lịch sử ngập nước, hồ sơ quyền sở hữu và kiểm tra có trọng tâm trước khi mua xe cũ. Hiểu những gì báo cáo sạch không thể chứng minh.",
+  "card_summary": "Đối chiếu hồ sơ tiếp xúc nước với kết quả kiểm tra độc lập trước khi chấp nhận xe đã qua sử dụng.",
+  "suggested_url": "/vi/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/vi/guides/",
+      "text": "hướng dẫn mua hàng AutoBridge"
+    },
+    {
+      "url": "/vi/vehicles/",
+      "text": "danh mục xe"
+    }
+  ],
+  "image": {
+    "alt": "Sơ đồ ba thẻ thể hiện lịch sử tiếp xúc nước, kiểm tra có trọng tâm và rủi ro chưa giải quyết.",
+    "caption": "Các bước kiểm tra bằng chứng được khuyến nghị khi mua xe đã qua sử dụng.",
+    "labels": [
+      "Lịch sử tiếp xúc nước",
+      "Kiểm tra có trọng tâm",
+      "Rủi ro chưa giải quyết"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/vi.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "Ban biên tập xuất khẩu AutoBridge",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

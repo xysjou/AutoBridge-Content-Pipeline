@@ -1,0 +1,68 @@
+{
+  "checkpoint": "014",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/flood-damage-evidence-used-car-purchase/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/th.md",
+      "sha256": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+      "bytes": 23390
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/flood-damage-evidence-used-car-purchase/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_th.json",
+      "sha256": "5db5a1d4a296b79f0bcba4d0c8c52afb875a331767b71c289df697d9fe7ec4ae",
+      "bytes": 2311
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/flood-damage-evidence-used-car-purchase/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/vi.md",
+      "sha256": "f9dee6f6cb08aefbe04fa1b3ccb59d9edbbb15af59eb57ebecb07a83db65d8ec",
+      "bytes": 13306
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/flood-damage-evidence-used-car-purchase/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_vi.json",
+      "sha256": "2dc19bbc01426df8284c2ceb4786fa6610c90ead24e19761b3de697d98ea115f",
+      "bytes": 1659
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/odometer-service-history-reconciliation/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/th.md",
+      "sha256": "c0aaa01414c9f4001626db3a0888a9c71b20b9a27ebb9de50a1b8e6dfd3372a3",
+      "bytes": 15826
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/odometer-service-history-reconciliation/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_th.json",
+      "sha256": "337d0c36642815455a4a1948e49ed7d825f7f555069627ca875dda08078bf412",
+      "bytes": 2500
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/odometer-service-history-reconciliation/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/vi.md",
+      "sha256": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+      "bytes": 9595
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/odometer-service-history-reconciliation/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_vi.json",
+      "sha256": "77f62a6591b445f4cab67bfc15d89daf913ec4783cbef3039e59e17688f703b4",
+      "bytes": 1806
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/smart-1/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/vi.md",
+      "sha256": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+      "bytes": 10831
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/014/articles/smart-1/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_vi.json",
+      "sha256": "154a293c34fca89047a245ae72e32ba5a990c8e40088447e1c54669947ad2abe",
+      "bytes": 1642
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

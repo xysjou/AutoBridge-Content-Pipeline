@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "vi",
+  "title": "Đối chiếu đồng hồ quãng đường và lịch sử bảo dưỡng trước khi mua xe cũ",
+  "h1": "Đối chiếu đồng hồ quãng đường và lịch sử bảo dưỡng trước khi mua xe cũ",
+  "meta_description": "Đối chiếu quãng đường với bảo dưỡng, kiểm định và lịch sử. Nhận ra sai lệch chưa giải thích trước khi mua xe cũ để xuất khẩu.",
+  "card_summary": "So quãng đường theo ngày giúp phân biệt số có chứng cứ, lỗi ghi chép và khoảng trống trước khi mua xe cũ từ nước ngoài.",
+  "suggested_url": "/en/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe"
+    }
+  ],
+  "image": {
+    "alt": "Sơ đồ ba thẻ về số quãng đường có ngày, sai lệch hồ sơ và quyết định mua.",
+    "caption": "Các bước kiểm tra bằng chứng được khuyến nghị khi mua xe cũ.",
+    "labels": [
+      "Số quãng đường có ngày",
+      "Sai lệch hồ sơ",
+      "Quyết định mua"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/vi.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery."
+}
