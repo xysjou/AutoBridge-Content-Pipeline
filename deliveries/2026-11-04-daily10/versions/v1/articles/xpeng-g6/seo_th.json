@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "th",
+  "title": "XPENG G6: เลือกรุ่นเปิดตัวในเยอรมนีปี 2024",
+  "meta_description": "เปรียบเทียบ XPENG G6 ชุดเปิดตัวเยอรมนี ทั้งรุ่นย่อย เคมีแบตเตอรี่ ระยะ WLTP และการตรวจหลักฐานชาร์จกับตัวตนรถสำหรับผู้ซื้อต่างประเทศ",
+  "h1": "XPENG G6: เลือกรุ่นเปิดตัวในเยอรมนีปี 2024",
+  "card_summary": "เลือก G6 เยอรมนีชุดแรกตามแบตเตอรี่และล้อขับเคลื่อน แล้วตรวจรถเสนอขายกับเอกสาร",
+  "suggested_url": "/th/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "เยอรมนี",
+  "reference_edition": "เปิดตัวเดือนกันยายน 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อ XPENG G6 แบบสามบัตร",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ระบุรุ่นเปิดตัว",
+      "เทียบแบตเตอรี่และระบบขับเคลื่อน",
+      "ตรวจหลักฐานการชาร์จ"
+    ],
+    "asset": "../../assets/xpeng-g6/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "e3c5d1e575b77f9b6d1514e68601c9e24132659533244247cbca01e0ae625abe"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim.",
+  "locale": "th",
+  "body_sha256": "4035686fb20b4a9e395d5dc9beb899a5658bb5bd6f7c32270d307d19aa4f96f5",
+  "word_count": 1284,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

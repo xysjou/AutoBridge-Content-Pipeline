@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "fr",
+  "title": "XPENG G9 : évaluer le SUV Long Range européen de 2023",
+  "meta_description": "Évaluez le XPENG G9 RWD Long Range du lancement européen de 2023 : batterie, WLTP, essais Green NCAP et assistance à destination.",
+  "h1": "XPENG G9 : évaluer le SUV Long Range européen de 2023",
+  "card_summary": "Le G9 de lancement demande de relier version historique, trajets réels, recharge et service après-vente avant l’achat.",
+  "suggested_url": "/fr/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guides d’achat de véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Conseils d’approvisionnement",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Danemark, Norvège, Pays-Bas et Suède",
+  "reference_edition": "Lancement de février 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste de contrôle d’achat du XPENG G9 en trois cartes.",
+    "caption": "Points essentiels avant de demander un devis pour le véhicule précis.",
+    "labels": [
+      "Identifier le véhicule du lancement 2023",
+      "Évaluer le trajet prévu",
+      "Confirmer le service à destination"
+    ],
+    "asset": "../../assets/xpeng-g9/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "c4857a3b6adb737961bfd4a412146b7dc91af5b70d9b7e5461cc1bf140e7e7d3"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "fr",
+  "body_sha256": "a2eb96028ab045dc4b023a8e916821f0191df8c03a2775d14b3c0bdbd344f986",
+  "word_count": 1313,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

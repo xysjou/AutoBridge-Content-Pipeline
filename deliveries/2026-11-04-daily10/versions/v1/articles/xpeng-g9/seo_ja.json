@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "ja",
+  "title": "XPENG G9：2023年欧州発売のLong Range SUVを評価する",
+  "meta_description": "2023年欧州発売のXPENG G9 Long RangeをWLTP値、独立電費試験、輸出購入者向けの実用的な検査計画で評価します。",
+  "h1": "XPENG G9：2023年欧州発売のLong Range SUVを評価する",
+  "card_summary": "初期G9 Long Rangeでは電池容量は出発点です。ルートの消費電力、充電の証拠、サービス体制で候補を判断します。",
+  "suggested_url": "/ja/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種別購入ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "車両調達ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "XPENG G9購入時の確認事項を示す3枚のカード",
+    "caption": "車両を特定した見積もりを依頼する前の主な確認事項。",
+    "labels": [
+      "発売仕様車との照合",
+      "予定ルートの評価",
+      "サービス利用の確認"
+    ],
+    "asset": "../../assets/xpeng-g9/ja.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "042269670109907ddc5652666bafd0dad3a99f7f60d47e349a64f9a1b5e66377"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim.",
+  "locale": "ja",
+  "body_sha256": "6df4bd2635d5abcdb6da9f9f629f7f9f91d1d4180f4085d7913ed32f6616b024",
+  "word_count": 261,
+  "han_character_count": 1195,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

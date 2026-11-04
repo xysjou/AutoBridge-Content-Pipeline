@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "id",
+  "title": "XPENG G6: Memilih Versi Peluncuran Jerman 2024",
+  "meta_description": "Bandingkan varian XPENG G6 peluncuran Jerman, kimia baterai dan jarak WLTP, dengan pemeriksaan pengisian dan identitas mobil untuk pembeli luar negeri.",
+  "h1": "XPENG G6: Memilih Versi Peluncuran Jerman 2024",
+  "card_summary": "Pilih G6 Jerman awal menurut baterai dan roda penggerak, lalu cocokkan mobil dengan dokumennya.",
+  "suggested_url": "/id/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Panduan pembelian kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa pembelian XPENG G6 dalam tiga kartu",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Identifikasi versi peluncuran",
+      "Bandingkan baterai dan penggerak",
+      "Periksa bukti pengisian"
+    ],
+    "asset": "../../assets/xpeng-g6/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "99ebab5bb05a355996953f0f10a9dc89ca7a4ce11e31bee80ee36f81f86af324"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "88fcde9036a2072a2779ce6ec0f10488fa7b18207a44498fa15eff4b46bc3e8a",
+  "word_count": 1165,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

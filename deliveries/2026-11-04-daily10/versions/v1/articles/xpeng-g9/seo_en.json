@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "en",
+  "title": "XPENG G9: Assessing the 2023 European Long Range SUV",
+  "meta_description": "Assess the early European XPENG G9 Long Range using WLTP figures, independent energy tests and a practical inspection plan for export buyers.",
+  "h1": "XPENG G9: Assessing the 2023 European Long Range SUV",
+  "card_summary": "Evaluate route energy, charging evidence and aftersales support before selecting the early G9 Long Range.",
+  "suggested_url": "/en/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for xpeng g9",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Match the launch car",
+      "Assess the journey",
+      "Confirm service access"
+    ],
+    "asset": "../../assets/xpeng-g9/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "9a317549480022a0bf2d215c94fa3ab6beae867331e4c48b95c823111fe9cf34"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "en",
+  "body_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+  "word_count": 1281,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

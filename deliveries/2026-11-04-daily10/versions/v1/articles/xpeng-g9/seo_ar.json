@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "ar",
+  "title": "XPENG G9: تقييم سيارة Long Range الأوروبية عند إطلاقها في 2023",
+  "meta_description": "قيّم XPENG G9 Long Range الأوروبية لعام 2023 بأرقام WLTP واختبارات طاقة مستقلة وخطة فحص عملية لمشتري التصدير.",
+  "h1": "XPENG G9: تقييم سيارة Long Range الأوروبية عند إطلاقها في 2023",
+  "card_summary": "سعة البطارية بداية تقييم G9 Long Range. طاقة الرحلة وأدلة الشحن وجاهزية الخدمة تحدد جدوى الاختيار.",
+  "suggested_url": "/ar/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "أدلة شراء السيارات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "إرشادات الشراء",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة شراء XPENG G9 بثلاث بطاقات",
+    "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+    "labels": [
+      "طابق سيارة إطلاق 2023",
+      "قيّم الرحلة المقصودة",
+      "أكد الخدمة في الوجهة"
+    ],
+    "asset": "../../assets/xpeng-g9/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "16ec1c667a26e027c33f97c25cfd07dd06dec033aa445f7afef5fd4aeae02c6a"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "207c7e81cea87aedc47dc54675ce94b89499e09511c57e7c1c9474535ed0d856",
+  "word_count": 1094,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

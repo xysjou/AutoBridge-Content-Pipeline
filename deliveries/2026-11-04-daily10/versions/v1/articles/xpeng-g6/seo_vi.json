@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "vi",
+  "title": "XPENG G6: Chọn phiên bản ra mắt tại Đức năm 2024",
+  "meta_description": "So sánh XPENG G6 ra mắt tại Đức: phiên bản, hóa học pin, tầm hoạt động WLTP cùng kiểm tra sạc và nhận dạng xe cho người mua nước ngoài.",
+  "h1": "XPENG G6: Chọn phiên bản ra mắt tại Đức năm 2024",
+  "card_summary": "Chọn G6 Đức ban đầu theo pin và bánh xe dẫn động, rồi đối chiếu chiếc xe được chào bán với hồ sơ.",
+  "suggested_url": "/vi/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Đức",
+  "reference_edition": "Ra mắt tháng 9 năm 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua XPENG G6",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Xác định phiên bản ra mắt",
+      "So sánh pin và dẫn động",
+      "Kiểm tra bằng chứng sạc"
+    ],
+    "asset": "../../assets/xpeng-g6/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "df314769688a35e977b2baa1a9cc99b5b4de97cd34ef923f6977c75171b2d24d"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim.",
+  "locale": "vi",
+  "body_sha256": "f7384184ccc370197a0c38e68aa2c4745a479a0b70a92cf59f43307719591b95",
+  "word_count": 1680,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

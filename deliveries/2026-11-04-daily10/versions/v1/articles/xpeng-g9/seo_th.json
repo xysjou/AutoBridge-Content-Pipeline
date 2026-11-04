@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "th",
+  "title": "XPENG G9: ประเมิน SUV Long Range เปิดตัวในยุโรปปี 2023",
+  "meta_description": "ประเมิน XPENG G9 Long Range ยุโรปรุ่นแรกจากระยะ WLTP ผลทดสอบพลังงานอิสระ และแผนตรวจรถสำหรับผู้ซื้อส่งออก",
+  "h1": "XPENG G9: ประเมิน SUV Long Range เปิดตัวในยุโรปปี 2023",
+  "card_summary": "ประเมินพลังงานตามเส้นทาง หลักฐานการชาร์จ และบริการหลังการขาย ก่อนเลือก G9 Long Range รุ่นแรก",
+  "suggested_url": "/th/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "เดนมาร์ก นอร์เวย์ เนเธอร์แลนด์ สวีเดน",
+  "reference_edition": "เปิดตัวในยุโรปเดือนกุมภาพันธ์ 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อ XPENG G9 แบบสามบัตร",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ตรวจให้ตรงรถชุดเปิดตัว",
+      "ประเมินการเดินทาง",
+      "ยืนยันการเข้าถึงบริการ"
+    ],
+    "asset": "../../assets/xpeng-g9/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "963bd7ce8011b6faa35dc57e17a50d5594f69621924bc1dfc563a7774f82f04f"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim.",
+  "locale": "th",
+  "body_sha256": "3b76174affac37d9c6956087b3157a93a86636480656c24a8365efbead94097d",
+  "word_count": 1225,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

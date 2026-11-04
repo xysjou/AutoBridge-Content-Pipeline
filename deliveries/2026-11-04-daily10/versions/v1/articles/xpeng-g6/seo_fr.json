@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "fr",
+  "title": "XPENG G6 : choisir la version du lancement allemand de 2024",
+  "meta_description": "Comparez les finitions du XPENG G6 lancé en Allemagne en 2024, les batteries et l’autonomie WLTP, puis vérifiez recharge et devis d’exportation.",
+  "h1": "XPENG G6 : choisir la version du lancement allemand de 2024",
+  "card_summary": "La gamme G6 allemande initiale propose trois combinaisons batterie-transmission. Identifiez le véhicule avant de comparer autonomie et recharge rapide.",
+  "suggested_url": "/fr/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Comparer les guides d’achat de véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Découvrir les conseils d’approvisionnement automobile",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Allemagne",
+  "reference_edition": "Lancement de septembre 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste de contrôle d’achat du XPENG G6 en trois cartes.",
+    "caption": "Points essentiels à vérifier avant de demander un devis pour le véhicule précis.",
+    "labels": [
+      "Identifier la version de lancement",
+      "Comparer batterie et transmission",
+      "Vérifier les preuves de recharge"
+    ],
+    "asset": "../../assets/xpeng-g6/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "033ee1b9d0e7adf9dbc698d986fd06aed588e29953d1d4137954726a2385461c"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "fr",
+  "body_sha256": "1f44b37a6003d155a880da0edd1c1cd2f60e246d11edb6eae9b0569ac6dc60cc",
+  "word_count": 1473,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

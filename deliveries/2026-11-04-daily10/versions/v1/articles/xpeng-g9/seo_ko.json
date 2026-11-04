@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "ko",
+  "title": "XPENG G9: 2023년 유럽 출시 Long Range SUV 평가하기",
+  "meta_description": "2023년 유럽 출시 XPENG G9 Long Range를 WLTP 수치, 독립 에너지 시험, 수출 구매자를 위한 실용적인 검사 계획으로 평가합니다.",
+  "h1": "XPENG G9: 2023년 유럽 출시 Long Range SUV 평가하기",
+  "card_summary": "초기 G9 Long Range에서 배터리 크기는 시작일 뿐입니다. 경로별 소비량, 충전 증거, 서비스 준비 상태로 후보를 평가하세요.",
+  "suggested_url": "/ko/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "차종별 구매 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "차량 조달 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "XPENG G9 구매 확인 사항을 보여 주는 카드 세 장",
+    "caption": "개별 차량의 견적을 요청하기 전 확인할 주요 사항.",
+    "labels": [
+      "출시 차량 대조",
+      "예정 경로 평가",
+      "서비스 이용 확인"
+    ],
+    "asset": "../../assets/xpeng-g9/ko.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "e80b875b3da1eb320c95ecc4193ae449da26d307ae80833ee6d80a53951b70b9"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim.",
+  "locale": "ko",
+  "body_sha256": "b80f854562500f6383d5f778d943a68695818f9ac62b88ccb38203f052973d5e",
+  "word_count": 906,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

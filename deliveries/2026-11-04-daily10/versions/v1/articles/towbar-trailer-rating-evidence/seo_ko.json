@@ -1,0 +1,58 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "ko",
+  "locale": "ko",
+  "title": "견인장치와 트레일러 정격: 구매 전에 요청할 증거",
+  "meta_description": "중고차 견인장치, 차량 견인 한계, 수직 하중, 배선과 브레이크를 따로 확인하세요. 구매 전 서류와 기능 시연을 정리합니다.",
+  "h1": "견인장치와 트레일러 정격: 구매 전에 요청할 증거",
+  "card_summary": "견인장치 장착만으로 능력을 판단하지 않고 차량 한계, 설치, 적재 상태와 연결 기능 증거를 대조합니다.",
+  "suggested_url": "/ko/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "차량 카탈로그",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge 구매 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "해당 차량의 중량 한계, 견인장치 식별과 설치, 트레일러 전기·브레이크 항목을 보여 주는 카드 세 장.",
+    "caption": "차량 한계, 견인 장치, 트레일러 연결을 별도의 구매 확인 사항으로 비교하세요.",
+    "labels": [
+      "해당 차량의 중량 한계",
+      "견인장치 식별과 설치",
+      "트레일러 전기·브레이크"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/ko.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "857f2634d194e43869858b9a6a5d394f4c8f7b067fe876736ff032b6218f89b3"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 987,
+  "body_sha256": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  },
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

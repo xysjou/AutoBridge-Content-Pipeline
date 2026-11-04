@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "vi",
+  "locale": "vi",
+  "title": "Giới hạn thanh kéo và rơ-moóc: Bằng chứng cho người mua",
+  "meta_description": "Kiểm tra giới hạn kéo của xe, nhận dạng thanh kéo, khối lượng chất tải và điện rơ-moóc trước khi chấp nhận tuyên bố khả năng kéo của xe nhập khẩu.",
+  "h1": "Giới hạn thanh kéo và rơ-moóc: Bằng chứng cần yêu cầu trước khi mua",
+  "card_summary": "Phương pháp mua hàng đối chiếu giới hạn đúng xe với phần cứng kéo đã lắp, phương án tải rơ-moóc và bằng chứng chức năng điện.",
+  "suggested_url": "/vi/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/vi/vehicles/",
+      "text": "hướng dẫn về xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/vi/guides/",
+      "text": "thư viện hướng dẫn mua hàng",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Ba thẻ thể hiện giới hạn xe, nhận dạng thanh kéo và kiểm tra điện rơ-moóc.",
+    "caption": "Đối chiếu giới hạn xe, phần cứng kéo và kết nối rơ-moóc như các kiểm tra mua hàng riêng biệt.",
+    "labels": [
+      "Giới hạn khối lượng đúng xe",
+      "Nhận dạng và lắp thanh kéo",
+      "Điện và phanh rơ-moóc"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "ca6dffe2790a1768a5ed9f7d5e5c6d9cd1b51e2d102856de5572a382e2c961da"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1976,
+  "body_sha256": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "vi",
+  "title": "XPENG G9: Đánh giá SUV Long Range ra mắt tại châu Âu năm 2023",
+  "meta_description": "Đánh giá XPENG G9 Long Range châu Âu đời đầu qua số liệu WLTP, thử nghiệm năng lượng độc lập và kế hoạch kiểm tra cho người mua xuất khẩu.",
+  "h1": "XPENG G9: Đánh giá SUV Long Range ra mắt tại châu Âu năm 2023",
+  "card_summary": "Đánh giá năng lượng trên tuyến, bằng chứng sạc và hỗ trợ hậu mãi trước khi chọn G9 Long Range đời đầu.",
+  "suggested_url": "/vi/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Đan Mạch, Na Uy, Hà Lan, Thụy Điển",
+  "reference_edition": "Ra mắt tại châu Âu tháng 2 năm 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua XPENG G9",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Đối chiếu xe thuộc đợt ra mắt",
+      "Đánh giá hành trình",
+      "Xác nhận khả năng tiếp cận dịch vụ"
+    ],
+    "asset": "../../assets/xpeng-g9/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "97f6b4c4829e40e696be35347d1d5f1eb6d64b14cafb0f1aa332054f736355df"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim.",
+  "locale": "vi",
+  "body_sha256": "267753841e4eb4b83a70a37c72535b5b5a9400188f00216671856b9b37450f2b",
+  "word_count": 1615,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

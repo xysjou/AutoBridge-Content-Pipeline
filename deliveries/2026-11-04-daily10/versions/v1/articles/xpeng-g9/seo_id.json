@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "id",
+  "title": "XPENG G9: Menilai SUV Long Range Eropa Peluncuran 2023",
+  "meta_description": "Nilai XPENG G9 Long Range Eropa 2023 dengan angka WLTP, uji energi independen dan rencana inspeksi praktis bagi pembeli ekspor.",
+  "h1": "XPENG G9: Menilai SUV Long Range Eropa Peluncuran 2023",
+  "card_summary": "Kapasitas baterai hanyalah awal penilaian G9 Long Range. Energi rute, bukti pengisian dan kesiapan layanan menentukan pilihan.",
+  "suggested_url": "/id/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Panduan pembelian kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa pembelian XPENG G9 dalam tiga kartu",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Cocokkan mobil peluncuran 2023",
+      "Nilai perjalanan tujuan",
+      "Pastikan layanan di tujuan"
+    ],
+    "asset": "../../assets/xpeng-g9/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "6cf977dde7d50b7c084c0a017f7968524785f8f7c9ebf9466abdc940114cb261"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "c846b387ba32a08f0e0397b86b3c3125e936c22f395aa1216afd021bc037b76b",
+  "word_count": 1053,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

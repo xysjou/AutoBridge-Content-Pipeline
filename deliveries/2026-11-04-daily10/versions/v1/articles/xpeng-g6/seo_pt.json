@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "pt",
+  "title": "XPENG G6: versões alemãs de lançamento de 2024",
+  "meta_description": "Compare versões, química da bateria e autonomia WLTP do XPENG G6 alemão de 2024 e confira evidências de recarga e cotações de exportação.",
+  "h1": "XPENG G6: como escolher a versão alemã de lançamento de 2024",
+  "card_summary": "A linha alemã original do G6 oferece três combinações de bateria e tração. Identifique o carro antes de comparar autonomia ou recarga rápida.",
+  "suggested_url": "/pt-br/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guias de compra de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guias de aquisição",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Alemanha",
+  "reference_edition": "Lançamento de setembro de 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra com três cartões para o XPENG G6",
+    "caption": "Verificações essenciais antes de solicitar uma cotação para um veículo específico.",
+    "labels": [
+      "Standard Range: LFP e tração traseira",
+      "Long Range: bateria maior e tração traseira",
+      "Performance: bateria maior e tração integral"
+    ],
+    "asset": "../../assets/xpeng-g6/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "02beebde5b5e3cf65f470f9644d3225e54459111640d10692845cd4b281a62c6"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "pt",
+  "body_sha256": "913ff8e4a9de47a45857f3588b1cf63a9e4727df6ecd474b8ddf88e403bc7ae6",
+  "word_count": 1408,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}
