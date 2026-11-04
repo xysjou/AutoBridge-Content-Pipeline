@@ -1,0 +1,80 @@
+{
+  "checkpoint": "009",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/nio-et5/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/th.md",
+      "sha256": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+      "bytes": 17964
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/nio-et5/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_th.json",
+      "sha256": "0bc59c505a68a7289a3a5305e2ca75b83f2825e1ce8bcf82357e989b8603c197",
+      "bytes": 2280
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/nio-et5/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/vi.md",
+      "sha256": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+      "bytes": 10668
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/nio-et5/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_vi.json",
+      "sha256": "6f3c9259d50f505d3f52cda853427fa16dfef13c781a4908a195bc2d718b7111",
+      "bytes": 1713
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/ar.md",
+      "sha256": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+      "bytes": 12885
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_ar.json",
+      "sha256": "8cc68f8e8d8b00d2c5d3d88444d403d416fde29f9a340d234eef122dc7467c44",
+      "bytes": 1931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/id.md",
+      "sha256": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+      "bytes": 9772
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_id.json",
+      "sha256": "e50b2787d719cf08daedf844267216025fa888ad580673ba58d2bb3536e2d08c",
+      "bytes": 1647
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/ja.md",
+      "sha256": "443b09fc87f6831100e4ac7031f230bc55a1c5c27263334c0fa1c38b834dbb4e",
+      "bytes": 10473
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_ja.json",
+      "sha256": "1d27c7650d0d1ce88cd4a91341eb4c227996a0c400e5492ec2656681206b223d",
+      "bytes": 1660
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/ko.md",
+      "sha256": "b116c7e997539e54817275464afca52fad9b5cab45ac870421332958c9d9e020",
+      "bytes": 10044
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/009/articles/odometer-service-history-reconciliation/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_ko.json",
+      "sha256": "6a381d0715d8a29cc7026701d4bf28d34cb3fd7918dc9735a7f13b70cdaa5195",
+      "bytes": 1639
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

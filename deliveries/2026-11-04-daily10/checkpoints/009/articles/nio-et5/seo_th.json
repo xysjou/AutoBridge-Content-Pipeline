@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "th",
+  "title": "คู่มือซื้อ NIO ET5: กรรมสิทธิ์แบตเตอรี่และซีดานเยอรมนีปี 2023",
+  "meta_description": "ตรวจกรรมสิทธิ์แบตเตอรี่ NIO ET5 สเปกเปิดตัวเยอรมนี หลักฐานทดสอบ และการโอนบริการก่อนเทียบใบเสนอราคาต่างประเทศ",
+  "h1": "คู่มือซื้อ NIO ET5: กรรมสิทธิ์แบตเตอรี่และซีดานเยอรมนีปี 2023",
+  "card_summary": "แยกราคาซีดานจากสิทธิแบตเตอรี่ แล้วตรวจรถจริงและบริการที่ปลายทาง",
+  "suggested_url": "/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อแบบสามบัตรสำหรับ NIO ET5",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ระบุตัวรถ",
+      "ยืนยันสิทธิแบตเตอรี่",
+      "ตรวจสอบบริการในพื้นที่"
+    ],
+    "asset": "../../assets/nio-et5/th.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery."
+}

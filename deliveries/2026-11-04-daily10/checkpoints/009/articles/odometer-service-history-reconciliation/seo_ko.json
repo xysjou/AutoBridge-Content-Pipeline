@@ -1,0 +1,45 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "ko",
+  "title": "중고차 구매 전 주행거리계와 정비 이력 대조하기",
+  "h1": "중고차 구매 전 주행거리계와 정비 이력 대조하기",
+  "meta_description": "정비·검사·이력 기록과 주행거리를 대조하세요. 수출용 중고차를 인수하기 전에 설명되지 않는 불일치를 확인합니다.",
+  "card_summary": "날짜순 주행거리 비교로 해외 중고차 구매 전 근거 있는 수치, 기록 오류, 공백을 구분합니다.",
+  "suggested_url": "/en/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge 구매 가이드"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "차량 카탈로그"
+    }
+  ],
+  "image": {
+    "alt": "날짜별 주행거리, 기록 불일치, 구매 결정을 보여 주는 카드 세 장.",
+    "caption": "중고차 구매를 위한 권장 증거 확인.",
+    "labels": [
+      "날짜별 주행거리",
+      "기록 불일치",
+      "구매 결정"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/ko.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  }
+}

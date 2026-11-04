@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "ar",
+  "title": "طابق قراءة عداد المسافة مع سجل الصيانة قبل شراء سيارة مستعملة",
+  "h1": "طابق قراءة عداد المسافة مع سجل الصيانة قبل شراء سيارة مستعملة",
+  "meta_description": "تحقق من المسافة بمقارنتها بسجلات الصيانة والفحص والتاريخ، وحدد التناقضات غير المفسرة قبل قبول مركبة مستعملة للتصدير.",
+  "card_summary": "مقارنة مؤرخة للمسافة تميز بين القراءات المدعومة وأخطاء السجلات والفجوات قبل شراء سيارة مستعملة من الخارج.",
+  "suggested_url": "/ar/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "أدلة AutoBridge للمشتريات"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "كتالوج المركبات"
+    }
+  ],
+  "image": {
+    "alt": "مخطط من ثلاث بطاقات يوضح قراءات مؤرخة، تناقضات السجلات، قرار الشراء.",
+    "caption": "فحوص موصى بها للأدلة عند شراء مركبة مستعملة.",
+    "labels": [
+      "قراءات مؤرخة",
+      "تناقضات السجلات",
+      "قرار الشراء"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}
