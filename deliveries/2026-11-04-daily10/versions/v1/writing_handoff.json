@@ -1,0 +1,131 @@
+{
+  "BATCH_ID": "AB-20261104-D10",
+  "STATUS": "WRITING_REPAIR_CONDITIONAL",
+  "COMMIT_SHA": "Resolve the immutable commit containing this file; self-referential commit SHA cannot be embedded in its own content.",
+  "RESEARCH_BASELINE_SHA": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "TOTAL_ARTICLES": 10,
+  "FULL_LOCALE_EXPECTED": 120,
+  "FULL_LOCALE_COMPLETE": 120,
+  "MECHANICAL_LOCALE_CHECKS_PASS": 120,
+  "MECHANICAL_LOCALE_CHECKS_FAIL": 0,
+  "RESEARCH_PASS": 4,
+  "RESEARCH_CONDITIONAL": 6,
+  "RESEARCH_FAIL": 0,
+  "AI_TRANSLATION_CROSS_REVIEW": "110 translated bodies reviewed against English by a different AI; not human/native/professional certification. English independent source checks remain partial.",
+  "TOPIC_DEDUP": "CONDITIONAL: 3 existing model records; live authorized site inaccessible",
+  "SUMMARY_DUPLICATION_FAIL": 0,
+  "HASH_BASELINE": "manifest.json records current body, metadata, summary, image-text, image-asset, parameters, fact-sheet and source-log hashes. Earlier review hashes may predate documented corrections or final technical metadata normalization. Do not inherit blanket review approval.",
+  "IMAGE_RIGHTS": "120 original generated SVG diagrams; no OEM photographs copied",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "WAITING_FOR": [
+    "Independent full factual review and research gap closure",
+    "Legacy-model merge/archive decision and complete live-site duplication check",
+    "Confirmed canonical/internal-link routes and technical SEO review",
+    "Human/native-language review if publication policy requires it"
+  ],
+  "ARTICLES": [
+    {
+      "article_id": "AB-261104-D10-V05",
+      "slug": "byd-seal-u-dm-i",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/byd-seal-u-dm-i",
+      "fact_sheet": "research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "source_log": "research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-G05",
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "version": "v1",
+      "status": "RESEARCH_PASS",
+      "artifact_directory": "articles/diesel-dpf-scr-maintenance-evidence",
+      "fact_sheet": "research/guides/diesel-dpf-scr-maintenance-evidence/fact-sheet.json",
+      "source_log": "research/guides/diesel-dpf-scr-maintenance-evidence/source-log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-G02",
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "version": "v1",
+      "status": "RESEARCH_PASS",
+      "artifact_directory": "articles/flood-damage-evidence-used-car-purchase",
+      "fact_sheet": "research/guides/flood-damage-evidence-used-car-purchase/fact-sheet.json",
+      "source_log": "research/guides/flood-damage-evidence-used-car-purchase/source-log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-V03",
+      "slug": "nio-et5",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/nio-et5",
+      "fact_sheet": "research/vehicles/nio-et5/fact_sheet.json",
+      "source_log": "research/vehicles/nio-et5/source_log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-G01",
+      "slug": "odometer-service-history-reconciliation",
+      "version": "v1",
+      "status": "RESEARCH_PASS",
+      "artifact_directory": "articles/odometer-service-history-reconciliation",
+      "fact_sheet": "research/guides/odometer-service-history-reconciliation/fact-sheet.json",
+      "source_log": "research/guides/odometer-service-history-reconciliation/source-log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-V04",
+      "slug": "smart-1",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/smart-1",
+      "fact_sheet": "research/vehicles/smart-1/fact_sheet.json",
+      "source_log": "research/vehicles/smart-1/source_log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-G03",
+      "slug": "srs-airbag-repair-evidence",
+      "version": "v1",
+      "status": "RESEARCH_PASS",
+      "artifact_directory": "articles/srs-airbag-repair-evidence",
+      "fact_sheet": "research/guides/srs-airbag-repair-evidence/fact-sheet.json",
+      "source_log": "research/guides/srs-airbag-repair-evidence/source-log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-G04",
+      "slug": "towbar-trailer-rating-evidence",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/towbar-trailer-rating-evidence",
+      "fact_sheet": "research/guides/towbar-trailer-rating-evidence/fact-sheet.json",
+      "source_log": "research/guides/towbar-trailer-rating-evidence/source-log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-V01",
+      "slug": "xpeng-g6",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/xpeng-g6",
+      "fact_sheet": "research/vehicles/xpeng-g6/fact_sheet.json",
+      "source_log": "research/vehicles/xpeng-g6/source_log.json",
+      "hashes": "manifest.json#articles"
+    },
+    {
+      "article_id": "AB-261104-D10-V02",
+      "slug": "xpeng-g9",
+      "version": "v1",
+      "status": "RESEARCH_CONDITIONAL",
+      "artifact_directory": "articles/xpeng-g9",
+      "fact_sheet": "research/vehicles/xpeng-g9/fact_sheet.json",
+      "source_log": "research/vehicles/xpeng-g9/source_log.json",
+      "hashes": "manifest.json#articles"
+    }
+  ]
+}
