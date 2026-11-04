@@ -1,0 +1,2376 @@
+{
+  "version": "v1",
+  "sha256_scope": "All version files except this inventory itself",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "572bc1416ee2cf86aa944022d4bb31f0ebf1f05ba526887d253c3ff4beb4b5fd",
+      "bytes": 11312
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/ar.md",
+      "sha256": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d",
+      "bytes": 12060
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/de.md",
+      "sha256": "7d4cb4d3aaa87474ad58986e3083cec78b21401f3a9660951c214898aba0828b",
+      "bytes": 9338
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/en.md",
+      "sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "bytes": 9514
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/es.md",
+      "sha256": "056140f3b7be8f82e53fb0ab7321351d4b9f32dac777be830bc084aabeb60b6b",
+      "bytes": 10361
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/fr.md",
+      "sha256": "ea7c7587ef64114f13cd958c2368081cd3c3c06a1e3378b3af671bd05a5bba33",
+      "bytes": 10262
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/id.md",
+      "sha256": "3a115bdc8831605868f6835130d6de9a2e538aaccc0012bc4993e0305834c5de",
+      "bytes": 9181
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/ja.md",
+      "sha256": "ea4678e3a63b004a4bd57bd1f8894f2fc1c240cbb89302c925708de2ea83012e",
+      "bytes": 9512
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/ko.md",
+      "sha256": "8fd30200f337286f7500d93b90394cb6a793731646ee4b238525f81aadf86828",
+      "bytes": 9425
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/pt.md",
+      "sha256": "4a561c0f097c0657c6581b0050092b2dd599e79d2a3ceb9190a025c0f81da13a",
+      "bytes": 10592
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_ar.json",
+      "sha256": "2058ec6bdef80e7a82a1b652fa8adb7a193d99481f19fa5fc5542cf4aa5e1118",
+      "bytes": 2385
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_de.json",
+      "sha256": "f401642cde80085120cddc666984810803bec3dff196fd1d52b90ee1325d6931",
+      "bytes": 2214
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_en.json",
+      "sha256": "af81896433c342b76493393238f4ec7d6b6833a4844cba591a0288ea7d903dd9",
+      "bytes": 2135
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_es.json",
+      "sha256": "5c3bb7e8c2e2b374cebd5c6502535e05615f478551f2c5daf87c978caaf2b4da",
+      "bytes": 2260
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_fr.json",
+      "sha256": "3ac6978626fb1782d16c32ad597f35f1eeb0182d343df7d9d1c84eed76e78701",
+      "bytes": 2274
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_id.json",
+      "sha256": "609bd67f651bc1d3dab606dd0cacc6efe68776a44320198b64d4fc42aff00697",
+      "bytes": 2169
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_ja.json",
+      "sha256": "ca4e66364bc4e5410d410c37e8a93b08de78f9ef1d55df25dcb0ce7ab77b76a4",
+      "bytes": 2182
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_ko.json",
+      "sha256": "468c072c0774a5dbfc1bd0c1554379d04bb34c79b1ec0f05a23cea100006a44d",
+      "bytes": 2182
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_pt.json",
+      "sha256": "668a8b647681afa124e5a9475d6b6961ea50d4d2107d5c7e7e2e5bc34a3e6f7a",
+      "bytes": 2281
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_th.json",
+      "sha256": "7f967bc7a79419d3fb9d9ec025cb3b96cf0745aece7e39a8dc448d1565cb4eba",
+      "bytes": 2823
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_vi.json",
+      "sha256": "1594b52ddbe4efa2aee05e1a965a2cadc693e9aea995c82046007d98276c8693",
+      "bytes": 2265
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/seo_zh.json",
+      "sha256": "91cd1a6c0e262a7a61964b9d55e70152b7e716c01510643f6cdaa82242895fdc",
+      "bytes": 2115
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/th.md",
+      "sha256": "18aec16949c827d5a91daca53d353d8f8f0cc928b25e78c74416645dd92d6523",
+      "bytes": 16343
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/vi.md",
+      "sha256": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+      "bytes": 9893
+    },
+    {
+      "path": "articles/byd-seal-u-dm-i/zh.md",
+      "sha256": "d7d96abb86bd97faaeb319c8ac80b21590f763a112431ebf163bfc697dcf5365",
+      "bytes": 7840
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ar.md",
+      "sha256": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+      "bytes": 14390
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/de.md",
+      "sha256": "34aa859535a86e7d4dfba65905cb490ede2c83715e243d76dafe3f709b163b49",
+      "bytes": 10841
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/en.md",
+      "sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "bytes": 10799
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "sha256": "e4ae3ae6fcf608e3594e52a9ab706b1e4839452a90a7c9b954eef668cf560c39",
+      "bytes": 11852
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/fr.md",
+      "sha256": "072d4a51ad4238348521de916b6167e4bf3839cdbf7bbd13cdee498de0ad38aa",
+      "bytes": 11972
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/id.md",
+      "sha256": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+      "bytes": 11426
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+      "sha256": "afcce39577ba028b82ad77c02feb4eb3230f7e8024fa92614a69caf3e3d9574f",
+      "bytes": 11811
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "sha256": "7fc003993883d4566b79783cad488b81feec801a2f6a80d5c150ca5b3d2576cf",
+      "bytes": 10997
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "sha256": "cd0bb313d05390113acfd1ba2e34dde323a587dad7688d55a2319ffbaf0d8862",
+      "bytes": 11733
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/qa_en.json",
+      "sha256": "f060f8f1b9766625a4b4dcec2dc8c729626adf7b704f718b08d2810c911fba51",
+      "bytes": 1072
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "sha256": "9ced777808906504f56cd37cebf4573f047906fa15869534d615778d9056b6e6",
+      "bytes": 2424
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_de.json",
+      "sha256": "b5aa09dd2ec094f2a0359984e46a27bd94ae17fda40f2874b49d6b060d9fdf68",
+      "bytes": 2003
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_en.json",
+      "sha256": "00001a30d42be0714c48f6fe46ef1c1039fd21d7395e6774a990bfb123b709d5",
+      "bytes": 1978
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "sha256": "0430a6142f3c17d040b3cfa1031aae7eb13d03c13c74b0d72f22cc664f1eb4b8",
+      "bytes": 2075
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_fr.json",
+      "sha256": "6633373fb8ea5790a13e09601962f4314e382ddc2926590b90a680b29ac41b37",
+      "bytes": 2132
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "sha256": "5bc94242555ceb7445a247280a96918624df2ff0b681fa6b93fa1a087f9093ad",
+      "bytes": 2129
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ja.json",
+      "sha256": "c3154757a286a782e635f8728d5aafb9182e4f0b4ead260af5652dcf35696102",
+      "bytes": 2220
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ko.json",
+      "sha256": "626917aa6f8a6af6ef46687f206e3290f431777a0e86c98e4377436e780c97f0",
+      "bytes": 2131
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "sha256": "eaeed4cd64346b7eced4d39e63a267135b6ee2703731b889942aa901c472e62f",
+      "bytes": 2062
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_th.json",
+      "sha256": "d3a0b14151c32f800d11f4c40cfc229ff4ca6f80419de340656e974a3394f90a",
+      "bytes": 2769
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+      "sha256": "82980b60255a970e09b870bb9ce1839e2e498d310df249dd96c481033c3c5176",
+      "bytes": 2152
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_zh.json",
+      "sha256": "6847358557eb3e673de9ade961ddc5967fcf0d6d2f96f71dcec3ce4781c99535",
+      "bytes": 1909
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/th.md",
+      "sha256": "5c6d33aaae1de4d012e1a743e15c386f7cce7f82fbd65378d75155089efc617b",
+      "bytes": 23971
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/vi.md",
+      "sha256": "d6d023434cfe56ccdc201578bd3d69a289535b8833db7d6793c98e25507573a7",
+      "bytes": 13980
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/zh.md",
+      "sha256": "6dfb1da757ce04c117d9c9695a7d77cd834ca0d9029ecc1c431418b921981b89",
+      "bytes": 8652
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/ar.md",
+      "sha256": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+      "bytes": 13572
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/de.md",
+      "sha256": "907d58947a38a0c5f2f75d6db7117746dfb138133700ef389c594a073cb12850",
+      "bytes": 10106
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/en.md",
+      "sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "bytes": 9234
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/es.md",
+      "sha256": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+      "bytes": 11064
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "sha256": "33dbab312ce5e5aaf689cde1a9077c5dcb9a218cb40b67f7e97b87a804fc2a06",
+      "bytes": 11025
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/id.md",
+      "sha256": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+      "bytes": 10146
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/ja.md",
+      "sha256": "1c1ad2de38634ae5f17e880b24cf9785964230aad4c43f9f6f801780efca8a87",
+      "bytes": 10716
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/ko.md",
+      "sha256": "1b18e869fa757db8a4b3f87b5351c5a75e3a827a920b187c7d9968712bb8bea7",
+      "bytes": 10300
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/pt.md",
+      "sha256": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+      "bytes": 10615
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/qa_en.json",
+      "sha256": "ac451487cc46ecdfd4e94c76c0b255d234cf64101d3672cdef79067adc075397",
+      "bytes": 503
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "sha256": "1f9e12accc6dbd6ddc8bda8834d0dcea9abc244a194140d0a97275c94f84d9d9",
+      "bytes": 2376
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_de.json",
+      "sha256": "690495c87b3c70996560763022aabbc83391b38cbb3935546e82c68859aa3896",
+      "bytes": 1885
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_en.json",
+      "sha256": "dfdaa046e9951c90522f797f5a1b9051dbbb29ce3781e92c43eb85edc11ca638",
+      "bytes": 1850
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "sha256": "c10d5a4b376fae7b3fdadac8b1745bf93073469e6b2d0c604904f17951edfaa1",
+      "bytes": 1979
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_fr.json",
+      "sha256": "7feb5b28483d78d98fe03a99fc18926506ae89c7617c837abf272bd249cd3253",
+      "bytes": 2047
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "sha256": "f22518f196fd3629290905bdfc1fe8e7b584fa2f0471eb2bd1c3b33e72c276d6",
+      "bytes": 2112
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_ja.json",
+      "sha256": "3e355920d5c7c08039a8c47f0b734440c677f0079745a04917dc31e5b8c791c6",
+      "bytes": 2102
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "sha256": "f8e5b0e1d3e8cec43b86e0449117ee7ab18624e824b9ee702883085a56b35e48",
+      "bytes": 2088
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "sha256": "38483435cc4d77db35984f32b8ddd3a804ff235095434b134cfc569bf96287fd",
+      "bytes": 1951
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_th.json",
+      "sha256": "2822ab7d3a39b5912a3e2204b9793a91f140539af164b2089e95a2f1060af236",
+      "bytes": 2727
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_vi.json",
+      "sha256": "a89bb41c12b77b4513f2060534636661c50790ba76e944a72acaa6192218b31e",
+      "bytes": 2124
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_zh.json",
+      "sha256": "988b29d403218a932e57eb0eb24f4a22f419a8ed50d87a3096a37fd06bbec76a",
+      "bytes": 1821
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/th.md",
+      "sha256": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+      "bytes": 23390
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/vi.md",
+      "sha256": "612d7e2de276757461828a9e63f588b3d6e1b3d0eefcfd83377e0c87cfcfc7df",
+      "bytes": 13351
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/zh.md",
+      "sha256": "f2c61ece35242a0c2fe0835d9b20df5fead3de73e3f6ebc401ee8cdad2c532e6",
+      "bytes": 7343
+    },
+    {
+      "path": "articles/nio-et5/ar.md",
+      "sha256": "e0bc28fa48eb82963bdaffff4c8806623cbe83efbc2ce4ba3362a8ca4c3df551",
+      "bytes": 13492
+    },
+    {
+      "path": "articles/nio-et5/de.md",
+      "sha256": "271c66f5d49a0ec3280ca957c14a6365da58f734661ed066785b7977ecefcd87",
+      "bytes": 11129
+    },
+    {
+      "path": "articles/nio-et5/en.md",
+      "sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "bytes": 9853
+    },
+    {
+      "path": "articles/nio-et5/es.md",
+      "sha256": "41a6d4afb52d454c2b81d6a4fde73a3f787678590df30662371c53f3b2c51578",
+      "bytes": 11202
+    },
+    {
+      "path": "articles/nio-et5/fr.md",
+      "sha256": "8d7a46789f54de328b85800e86f8570f71d8cf56ae76df7f6b5f5a32f34d88c7",
+      "bytes": 11793
+    },
+    {
+      "path": "articles/nio-et5/id.md",
+      "sha256": "951f9be43f876edaa44ef3aee5df9d526a2f6d88e4d1eb4197e94ed3227ffee2",
+      "bytes": 9641
+    },
+    {
+      "path": "articles/nio-et5/ja.md",
+      "sha256": "53885e3ecf3cb99454b519d0722402f6f5d4f79092fb0727eb85470050683162",
+      "bytes": 10099
+    },
+    {
+      "path": "articles/nio-et5/ko.md",
+      "sha256": "a273e23cbce07d3632ce3a1e3db0223ee2be861e9cf1f8eaaec6b52be2307c78",
+      "bytes": 9948
+    },
+    {
+      "path": "articles/nio-et5/pt.md",
+      "sha256": "de58ef58501501a5a464275f408af335d99368d6ac1cbaeff618a43b5ec9b6ad",
+      "bytes": 11226
+    },
+    {
+      "path": "articles/nio-et5/seo_ar.json",
+      "sha256": "19eb800d8eb10a2d9f1155a93db2d8d5dbc69ee8801bdd814456e2c5d9dfef5c",
+      "bytes": 2266
+    },
+    {
+      "path": "articles/nio-et5/seo_de.json",
+      "sha256": "0b39f93fda4010158722728a77e63314f05a272482283ad02802bf7af64b8b3d",
+      "bytes": 2187
+    },
+    {
+      "path": "articles/nio-et5/seo_en.json",
+      "sha256": "ac5ab2339f1f6122deee1c254e4a97ad8951836706e08d27891316eec4c24464",
+      "bytes": 2081
+    },
+    {
+      "path": "articles/nio-et5/seo_es.json",
+      "sha256": "33ed30c27ae45350364c162b8a4088cd1d7fcd51b3b8ce919a4d95dd3e343300",
+      "bytes": 2278
+    },
+    {
+      "path": "articles/nio-et5/seo_fr.json",
+      "sha256": "d0b4ed3fdf6852ce4bb022202375077011e0624a84b15ee25e8a0fda7ca85045",
+      "bytes": 2253
+    },
+    {
+      "path": "articles/nio-et5/seo_id.json",
+      "sha256": "974d159c30cee5b2dc3521f30219daca8fa7589fd9fc1c7e34acc03e50d5957d",
+      "bytes": 2079
+    },
+    {
+      "path": "articles/nio-et5/seo_ja.json",
+      "sha256": "b7943a169514df3560373dca3b7e95e28484c1e40c29996233b919b370392fde",
+      "bytes": 2192
+    },
+    {
+      "path": "articles/nio-et5/seo_ko.json",
+      "sha256": "9ebc11932e7c5ce98b7ce248e216bec521ff1ecab12e2f54fff4a32afcb66722",
+      "bytes": 2158
+    },
+    {
+      "path": "articles/nio-et5/seo_pt.json",
+      "sha256": "29935e00c304726b3c2e47acee7a93686e9bd8e556bb3984e5f36f1dd98d8e85",
+      "bytes": 2269
+    },
+    {
+      "path": "articles/nio-et5/seo_th.json",
+      "sha256": "22574c3f00d0e063a726217012c71ced99c196b13959f58b4e311a9010095ef8",
+      "bytes": 2907
+    },
+    {
+      "path": "articles/nio-et5/seo_vi.json",
+      "sha256": "28aa7f7902e531775fcd8b041a319f28af3889baf96ccc698f39c0542914486d",
+      "bytes": 2270
+    },
+    {
+      "path": "articles/nio-et5/seo_zh.json",
+      "sha256": "6cd51c3c1b520f0bcf332ad4916af917d1be69ccc82ab5f0ce5dd1af55ae7cc0",
+      "bytes": 2076
+    },
+    {
+      "path": "articles/nio-et5/th.md",
+      "sha256": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+      "bytes": 17964
+    },
+    {
+      "path": "articles/nio-et5/vi.md",
+      "sha256": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+      "bytes": 10668
+    },
+    {
+      "path": "articles/nio-et5/zh.md",
+      "sha256": "116f471ccda0e65c64fd7651c254ccb559c3e1ae01a65d14eeebb6952e70e5a0",
+      "bytes": 8134
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/ar.md",
+      "sha256": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+      "bytes": 12885
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/de.md",
+      "sha256": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+      "bytes": 10421
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/en.md",
+      "sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "bytes": 8752
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/es.md",
+      "sha256": "4ab72e9f5a810361ee73dd00b6aa4cbb6a874a6df489c7280707158b4aea996f",
+      "bytes": 9417
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/fr.md",
+      "sha256": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+      "bytes": 10841
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/id.md",
+      "sha256": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+      "bytes": 9772
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/ja.md",
+      "sha256": "443b09fc87f6831100e4ac7031f230bc55a1c5c27263334c0fa1c38b834dbb4e",
+      "bytes": 10473
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/ko.md",
+      "sha256": "b116c7e997539e54817275464afca52fad9b5cab45ac870421332958c9d9e020",
+      "bytes": 10044
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/pt.md",
+      "sha256": "df7bc0a597ae85fb47a560fdbf1cb03463980c333dd4703c283fb630ae417955",
+      "bytes": 9666
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/qa_en.json",
+      "sha256": "2e562e25b023a6382a6a18a0d91586e53e329da833b2a76526ac850dad5e6219",
+      "bytes": 503
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_ar.json",
+      "sha256": "e6ab56447ef46d00701b0d78497f0677878d466a4881df663d21fa3ba337d071",
+      "bytes": 2404
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_de.json",
+      "sha256": "515d2892be3958a7586b61a74636a9de96f360aae63479bc16495d25a738399d",
+      "bytes": 1949
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_en.json",
+      "sha256": "a9ca294533adfbe10cb94c979784d6d64a43b17834bcfd0126f945af2acf2a77",
+      "bytes": 1883
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_es.json",
+      "sha256": "a50097d11f4bc90f2c38c0b4ef996d6d45b9158a5e90672b26f4e8ed0810856e",
+      "bytes": 1978
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_fr.json",
+      "sha256": "2391d79f01e07f32ffdcea1bc89058deab5922b4ac789ce812766d35cb4c46fc",
+      "bytes": 2059
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_id.json",
+      "sha256": "c76d5f8af0e2d1c3c52cbe871050182c1cda80d8f84fa3d6ce4511be7754eb50",
+      "bytes": 2120
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_ja.json",
+      "sha256": "619f375a4b90447430a2477403558f0b6de0d7d9f54540da8bdd4b2aab010781",
+      "bytes": 2135
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_ko.json",
+      "sha256": "d699f386e41441630b6c61e2cc01330e767e24a89049c6a55c1e067de40d7499",
+      "bytes": 2111
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_pt.json",
+      "sha256": "94eddedf32ef81c69b6d9a01cb6297c44d76d6e4b2e0d7e0a8a9ccc927994c02",
+      "bytes": 1956
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_th.json",
+      "sha256": "6e1b927ee581d9baa346973c4f80ccd7c58c16d3e567645795b3e60c37b652f9",
+      "bytes": 2973
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_vi.json",
+      "sha256": "d242ab44e9ba1a84d53ab4eff92963978a8d8fbf5a6b79006eaa5667d10d99ba",
+      "bytes": 2279
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/seo_zh.json",
+      "sha256": "d5c82c9f4ce4ea4ab55c6f8357c09499ca25e88971aa662c490a579bbca8c412",
+      "bytes": 1815
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/th.md",
+      "sha256": "604c9f2211780d5f8db5e7387f83abab0d629972005194d3618e767b60abf5e8",
+      "bytes": 15940
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/vi.md",
+      "sha256": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+      "bytes": 9595
+    },
+    {
+      "path": "articles/odometer-service-history-reconciliation/zh.md",
+      "sha256": "5c0342cba176c0cd818dd1659943d3c4b16945006f19312fe66ba66043e05166",
+      "bytes": 7035
+    },
+    {
+      "path": "articles/smart-1/ar.md",
+      "sha256": "e8b6aaf46d65adb0438e1e361be4549ebfa359abca4ac9632e4f92a52146046f",
+      "bytes": 12582
+    },
+    {
+      "path": "articles/smart-1/de.md",
+      "sha256": "0a066d8f711cf1a0141f1491e8a2fb8199634fa70e1ea248d71cbd1f359f2839",
+      "bytes": 10038
+    },
+    {
+      "path": "articles/smart-1/en.md",
+      "sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "bytes": 9829
+    },
+    {
+      "path": "articles/smart-1/es.md",
+      "sha256": "c5521c5f4dee17a1f9a5552eba48706a858e5537e105104d14ca7e3c7a803e8e",
+      "bytes": 11075
+    },
+    {
+      "path": "articles/smart-1/fr.md",
+      "sha256": "714c4ce052d48ec1d660d690ed4698c3a4c5dea3dae09f41bdc3479ed007d0fe",
+      "bytes": 10830
+    },
+    {
+      "path": "articles/smart-1/id.md",
+      "sha256": "4e63f82b13281ea653e39e5e6341d18db1e0bf0b6e77c2ace774f87a04a80c1f",
+      "bytes": 9451
+    },
+    {
+      "path": "articles/smart-1/ja.md",
+      "sha256": "2fc4a273a2e90cd754a5af77151e7591f44c689de3c6ac406ff4c92cbbe4aa8e",
+      "bytes": 10104
+    },
+    {
+      "path": "articles/smart-1/ko.md",
+      "sha256": "f7b1ecf68a5d351cccf83ceabd346abd78a73b06cc3b330399ae0ef795f26a8e",
+      "bytes": 9968
+    },
+    {
+      "path": "articles/smart-1/pt.md",
+      "sha256": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+      "bytes": 11429
+    },
+    {
+      "path": "articles/smart-1/seo_ar.json",
+      "sha256": "628d7c8b0fa80016a8b28b759165bd805be65e645325cb7abbdcbc1f544a5047",
+      "bytes": 2271
+    },
+    {
+      "path": "articles/smart-1/seo_de.json",
+      "sha256": "57c00c3ac43e5a8f12af0169289ba3c407d529ed0369361fc7079b74d744d841",
+      "bytes": 2217
+    },
+    {
+      "path": "articles/smart-1/seo_en.json",
+      "sha256": "274a7c9d46abdf837f6a5e3490ed148a368bcacab14e50f6fe1f0c1847e2976f",
+      "bytes": 2042
+    },
+    {
+      "path": "articles/smart-1/seo_es.json",
+      "sha256": "7ec224cd5b552acfeea6a14da8f68017792b80aa83eefc65fc213369e4860e3a",
+      "bytes": 2221
+    },
+    {
+      "path": "articles/smart-1/seo_fr.json",
+      "sha256": "6f831c00bc49993d7db90def5bbdbff86c63acc0bf438326fb16c4490bfd11bf",
+      "bytes": 2262
+    },
+    {
+      "path": "articles/smart-1/seo_id.json",
+      "sha256": "2528209587f3241b1c53e901514d9199894997536abb18afbb0dc52159190474",
+      "bytes": 2080
+    },
+    {
+      "path": "articles/smart-1/seo_ja.json",
+      "sha256": "db85d9ac96143900b40b0a24ce7adf21c7b28563de68f5e612da549aa90fa0a2",
+      "bytes": 2091
+    },
+    {
+      "path": "articles/smart-1/seo_ko.json",
+      "sha256": "2b4c7db54978864a32c052f7e9629bea72d7e5c709ccab8d9cd80230c0d1705b",
+      "bytes": 2066
+    },
+    {
+      "path": "articles/smart-1/seo_pt.json",
+      "sha256": "8bc6c91b8479f8693187609e3d191ccb3513b8cbf38f9a02f64a2e4102eff370",
+      "bytes": 2227
+    },
+    {
+      "path": "articles/smart-1/seo_th.json",
+      "sha256": "f01087b84fe977cf07eb7405a8e2a5bd6935521159b2c8bbeb5af7d9d4580fca",
+      "bytes": 3026
+    },
+    {
+      "path": "articles/smart-1/seo_vi.json",
+      "sha256": "2ab62b6afa43406b2258f054b84664c6b9a8d435cd89cde5e5b938d365557b16",
+      "bytes": 2227
+    },
+    {
+      "path": "articles/smart-1/seo_zh.json",
+      "sha256": "23b18c7f40ae5e68082cc97ecfd48003517ab32697484726c904808ca4973de2",
+      "bytes": 2094
+    },
+    {
+      "path": "articles/smart-1/th.md",
+      "sha256": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+      "bytes": 17432
+    },
+    {
+      "path": "articles/smart-1/vi.md",
+      "sha256": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+      "bytes": 10831
+    },
+    {
+      "path": "articles/smart-1/zh.md",
+      "sha256": "0bbe4b201a369d2f435865dfeaad5b697459bd644317757fe6aca24af3eb967f",
+      "bytes": 8179
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/ar.md",
+      "sha256": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+      "bytes": 13036
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/de.md",
+      "sha256": "9e8bd7febbaaf280858d089bbf641bac333d658775a97697a7c8600de46a2b41",
+      "bytes": 9575
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/en.md",
+      "sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "bytes": 9206
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/es.md",
+      "sha256": "a7058035547f59d7b9d0852a1eca45cd9bdabf41eb5f1743b4df7b1d2deac64c",
+      "bytes": 10231
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/fr.md",
+      "sha256": "1cd9e66b98f58fa509bebe03a777006091ae41c194ac2a3b807891bf193eeb78",
+      "bytes": 10318
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/id.md",
+      "sha256": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+      "bytes": 9994
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/ja.md",
+      "sha256": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+      "bytes": 10745
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/ko.md",
+      "sha256": "7beebf5bfbf5cdbcdbb69ab5bc6b1618541703e4c6e551d4dcbad7eb8f97b289",
+      "bytes": 10006
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/pt.md",
+      "sha256": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+      "bytes": 10066
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/qa_en.json",
+      "sha256": "db62478acadc9dbda22c345019957a5ab6226286869be2cd702391003e84da59",
+      "bytes": 503
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_ar.json",
+      "sha256": "fc82b6d2d935ed754e9f44df7fb2d5b5e3dc962ae697bae12bba829072537acc",
+      "bytes": 2451
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_de.json",
+      "sha256": "8b1f817c8177d50b0646792f4df80e0b19559d4cf852c0bdfdfbe4cd0a262f9e",
+      "bytes": 1885
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_en.json",
+      "sha256": "cabb804921bd874abd2edd28083451fbb1d39958522ae75a63acb20902abb4f0",
+      "bytes": 1826
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_es.json",
+      "sha256": "8854a4098bfdf257e9b97fed976d33b89801a7d6628c15c74f44da2073b0de9d",
+      "bytes": 1932
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_fr.json",
+      "sha256": "77ccf2707094d86e5873e1c44e68b7764df9bac296311efe3ad7a25c821b89e9",
+      "bytes": 2030
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_id.json",
+      "sha256": "0b0e997db11d3a83f5e3d69c912c84834223825aa4081bbe19ab0e46539dc763",
+      "bytes": 2115
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_ja.json",
+      "sha256": "c5e1e2b5906bab859269be9b89f7b1d076afb27445f54e863b4924aeb16f8b2c",
+      "bytes": 2145
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_ko.json",
+      "sha256": "08d7d90a406e75a9bc9a3b70d42bc770b9fa30d83ce1d2c5adb67b8f67b90182",
+      "bytes": 2088
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_pt.json",
+      "sha256": "53bdc215a6d130e137de41e9cf2c7218bbfa0b2df7aaf429cdd7849e932fd26c",
+      "bytes": 1916
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_th.json",
+      "sha256": "e3b5957a8abf8c0f7f14b4b95a3e0151d02826bd6df68a459e627c70dc0aeeb9",
+      "bytes": 2813
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_vi.json",
+      "sha256": "a10f7d4f65cf41c4583896d235df0bef03bc87a57dd446ee88e2014fdb571c32",
+      "bytes": 2039
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/seo_zh.json",
+      "sha256": "73c9293f3169bd3b1eb621b3bc9ab8b12576e0ee423fcc4ebefb6a94ed1e69f6",
+      "bytes": 1798
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/th.md",
+      "sha256": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+      "bytes": 21630
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/vi.md",
+      "sha256": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+      "bytes": 12493
+    },
+    {
+      "path": "articles/srs-airbag-repair-evidence/zh.md",
+      "sha256": "6964f7227318afd6c3cdebb890a3143dcea82845ead649fd3b94ea254521235c",
+      "bytes": 7214
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/ar.md",
+      "sha256": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+      "bytes": 13849
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/de.md",
+      "sha256": "25b5b6738c6472f521636960f99f6e276859d3414648f4f51620e594d36ecb0e",
+      "bytes": 10315
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/en.md",
+      "sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "bytes": 9884
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/es.md",
+      "sha256": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+      "bytes": 11011
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/fr.md",
+      "sha256": "00680aed820ad4927a947d48ab78250fa13fd02f5252ace4113b0df09d58d7ea",
+      "bytes": 11346
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/id.md",
+      "sha256": "009d6a250ef20ee35cde6459a9f9b1f1526dbafeffb6a96d64409daf70d7710a",
+      "bytes": 10472
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/ja.md",
+      "sha256": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+      "bytes": 11141
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/ko.md",
+      "sha256": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+      "bytes": 10485
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/pt.md",
+      "sha256": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+      "bytes": 10686
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/qa_en.json",
+      "sha256": "8d8092e98686e4670c577e1aada8f393b412e6ad33cf9c6a68d9a3c34e1bb523",
+      "bytes": 1903
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ar.json",
+      "sha256": "1a0813e2335f11d7425c3af46612aaea8494abc4927c5d07107e0e7e5d537d6e",
+      "bytes": 2563
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_de.json",
+      "sha256": "39fef2f4e0896f2e175ad2f129a71325845c8bf00e4f5b94b14f44a273a781a8",
+      "bytes": 2029
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_en.json",
+      "sha256": "4125b1c8a323a6fe925ed0ccbfcfd33cd9bae22f915515452347f09eba800df0",
+      "bytes": 2026
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_es.json",
+      "sha256": "51548d0618f7bad16fc721742799f03dca27ff24e45f3015398a592872e5e445",
+      "bytes": 2172
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_fr.json",
+      "sha256": "67e3905040a020aeb45310c334bd4cf156aaf1ae59b6f8388fb3de746b6834f4",
+      "bytes": 2159
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_id.json",
+      "sha256": "9d113068aaaba7c6b26a778624e929fa10ad5e100d605c768d95fb86a9c0f7e7",
+      "bytes": 2238
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "sha256": "07ac172a13541b2b9d9a7eafb311ba067de352ca30462c7de585e615b33dfb5a",
+      "bytes": 2387
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "sha256": "6fe5d3193200b66c66c9caadb894c9e30eaa06a6589c1d67db081765ab0c0dbd",
+      "bytes": 2360
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_pt.json",
+      "sha256": "5886b29f4bcb1d0f1d08588c3d1fd72d1aa2983b389dbc4ecc47b570f8fb1ee8",
+      "bytes": 2112
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_th.json",
+      "sha256": "30b391279cba5eba248e10dbb41dd08010ebf08cbee8a4cee38a2a1aebbbc88a",
+      "bytes": 2935
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_vi.json",
+      "sha256": "7a7a7148558b0f98c3684f9eb34dadd67705d2bb7c0216f03ccdc82160846c6a",
+      "bytes": 2234
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_zh.json",
+      "sha256": "bdc9952b896d701b5587ee2f4d11b9e49809e3a12a9555a01998132cb2fbac74",
+      "bytes": 1971
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/th.md",
+      "sha256": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+      "bytes": 21982
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/vi.md",
+      "sha256": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+      "bytes": 12824
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/zh.md",
+      "sha256": "e08e0a24be5c580b2ae11792def9f52163b2e4be4848dcbf73300debd6987342",
+      "bytes": 7783
+    },
+    {
+      "path": "articles/xpeng-g6/ar.md",
+      "sha256": "79582b8d79e66ea67c79ec83b3ccde817fac04d0c98e63d617aedd9ef46193a3",
+      "bytes": 12548
+    },
+    {
+      "path": "articles/xpeng-g6/de.md",
+      "sha256": "55f690b2461b9f00bbcd42cae6a28165c361aaf158e35f85dc42dcae47816770",
+      "bytes": 10029
+    },
+    {
+      "path": "articles/xpeng-g6/en.md",
+      "sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "bytes": 8948
+    },
+    {
+      "path": "articles/xpeng-g6/es.md",
+      "sha256": "f0da5589828889565d37b083f9a8bac311b6b5bf3cdf0b68c3ae3ee59003915c",
+      "bytes": 10093
+    },
+    {
+      "path": "articles/xpeng-g6/fr.md",
+      "sha256": "1f44b37a6003d155a880da0edd1c1cd2f60e246d11edb6eae9b0569ac6dc60cc",
+      "bytes": 10529
+    },
+    {
+      "path": "articles/xpeng-g6/id.md",
+      "sha256": "88fcde9036a2072a2779ce6ec0f10488fa7b18207a44498fa15eff4b46bc3e8a",
+      "bytes": 9320
+    },
+    {
+      "path": "articles/xpeng-g6/ja.md",
+      "sha256": "b07807b7beb045eafa6620c9e9aa42025c0ed34bf1807bbc0b27198c802cb4b3",
+      "bytes": 9095
+    },
+    {
+      "path": "articles/xpeng-g6/ko.md",
+      "sha256": "be0aa69e46358e5591f4b8b0c03b98fb95239450ec71e68a664ecfa7cf374df1",
+      "bytes": 9225
+    },
+    {
+      "path": "articles/xpeng-g6/pt.md",
+      "sha256": "913ff8e4a9de47a45857f3588b1cf63a9e4727df6ecd474b8ddf88e403bc7ae6",
+      "bytes": 9933
+    },
+    {
+      "path": "articles/xpeng-g6/seo_ar.json",
+      "sha256": "d705a69178e7692101a97b8f2ea08d324af2101867980c58cb81c5e284728b90",
+      "bytes": 2321
+    },
+    {
+      "path": "articles/xpeng-g6/seo_de.json",
+      "sha256": "f418a8889c7184ed2a38958913d0866887b7b61e6307539aa0da9eafd1814e03",
+      "bytes": 2201
+    },
+    {
+      "path": "articles/xpeng-g6/seo_en.json",
+      "sha256": "43ac500abedde5fd3a81822697667bb835fee5d6e4e2b3a68bf6e0cf2d60d728",
+      "bytes": 2064
+    },
+    {
+      "path": "articles/xpeng-g6/seo_es.json",
+      "sha256": "10559ae3121ff14dd726fd24dc5d4c7d6668ba69a778e8ad94b9446e8f4519e0",
+      "bytes": 2245
+    },
+    {
+      "path": "articles/xpeng-g6/seo_fr.json",
+      "sha256": "25902c51e5f53f880116203b71fa07f28182cbc4cc96ee00c179752ac2d70159",
+      "bytes": 2273
+    },
+    {
+      "path": "articles/xpeng-g6/seo_id.json",
+      "sha256": "7b9694402b7dc061687aebd4b3f882283a403da177591d4c9b8c080bb720ca85",
+      "bytes": 2061
+    },
+    {
+      "path": "articles/xpeng-g6/seo_ja.json",
+      "sha256": "6b24555c203e0056797b8491ed887509f0b80202e9a3264c7af8eb78fb1de620",
+      "bytes": 2098
+    },
+    {
+      "path": "articles/xpeng-g6/seo_ko.json",
+      "sha256": "253765b60742f599bca7151ccb233f4d39636dc2f117406185a21ee900105e5d",
+      "bytes": 2123
+    },
+    {
+      "path": "articles/xpeng-g6/seo_pt.json",
+      "sha256": "7ed7e4eb0b2dacbf3332fbea43c757386c1748133d3cacb11dd987fc31cd3f5f",
+      "bytes": 2240
+    },
+    {
+      "path": "articles/xpeng-g6/seo_th.json",
+      "sha256": "cb597054dada86c805e5d8540125766f281d28738f78843586289e20fdbf64a9",
+      "bytes": 2908
+    },
+    {
+      "path": "articles/xpeng-g6/seo_vi.json",
+      "sha256": "185480bab10e40e33ef3d8ebb777e2db1210a304e472c4eed5596fe4f64ab513",
+      "bytes": 2252
+    },
+    {
+      "path": "articles/xpeng-g6/seo_zh.json",
+      "sha256": "6e054c0ea628ee078150300716aeb01d1f8802b047e702a4dde11632b19da0e3",
+      "bytes": 1997
+    },
+    {
+      "path": "articles/xpeng-g6/th.md",
+      "sha256": "4035686fb20b4a9e395d5dc9beb899a5658bb5bd6f7c32270d307d19aa4f96f5",
+      "bytes": 18361
+    },
+    {
+      "path": "articles/xpeng-g6/vi.md",
+      "sha256": "f7384184ccc370197a0c38e68aa2c4745a479a0b70a92cf59f43307719591b95",
+      "bytes": 10470
+    },
+    {
+      "path": "articles/xpeng-g6/zh.md",
+      "sha256": "ec78c986789ece682c6a10aecd8d6f50054832a8c83103ec05f8457d0e62f061",
+      "bytes": 7656
+    },
+    {
+      "path": "articles/xpeng-g9/ar.md",
+      "sha256": "207c7e81cea87aedc47dc54675ce94b89499e09511c57e7c1c9474535ed0d856",
+      "bytes": 12083
+    },
+    {
+      "path": "articles/xpeng-g9/de.md",
+      "sha256": "39ee9d9fc0e556e6f53c2b6fbe9bd0bf151236297e9b069ef0e8b42b7d98db14",
+      "bytes": 8967
+    },
+    {
+      "path": "articles/xpeng-g9/en.md",
+      "sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "bytes": 9212
+    },
+    {
+      "path": "articles/xpeng-g9/es.md",
+      "sha256": "05bc277703524050a0aa4dc9b80d1fde847d007a936cd39a9711470cb5435aca",
+      "bytes": 10097
+    },
+    {
+      "path": "articles/xpeng-g9/fr.md",
+      "sha256": "a2eb96028ab045dc4b023a8e916821f0191df8c03a2775d14b3c0bdbd344f986",
+      "bytes": 9744
+    },
+    {
+      "path": "articles/xpeng-g9/id.md",
+      "sha256": "c846b387ba32a08f0e0397b86b3c3125e936c22f395aa1216afd021bc037b76b",
+      "bytes": 8751
+    },
+    {
+      "path": "articles/xpeng-g9/ja.md",
+      "sha256": "6df4bd2635d5abcdb6da9f9f629f7f9f91d1d4180f4085d7913ed32f6616b024",
+      "bytes": 9410
+    },
+    {
+      "path": "articles/xpeng-g9/ko.md",
+      "sha256": "b80f854562500f6383d5f778d943a68695818f9ac62b88ccb38203f052973d5e",
+      "bytes": 9264
+    },
+    {
+      "path": "articles/xpeng-g9/pt.md",
+      "sha256": "7f9614608d6ec20a87cd78e763575dde3cb5e36a833f61f0c6cdbf44ee842ab5",
+      "bytes": 10188
+    },
+    {
+      "path": "articles/xpeng-g9/seo_ar.json",
+      "sha256": "c65c17315d1453582a72709d38c9ec9033176ddda44ce56298407190aef1d4fe",
+      "bytes": 2346
+    },
+    {
+      "path": "articles/xpeng-g9/seo_de.json",
+      "sha256": "aee18db9f5266117bef838930990ad8eac9e72bbcd39924bc259d5c8f32f9942",
+      "bytes": 2142
+    },
+    {
+      "path": "articles/xpeng-g9/seo_en.json",
+      "sha256": "f1ffe728cc26bcb10a067857c650c617852431cb9e9f6e46819f7b40b9f74a3d",
+      "bytes": 2091
+    },
+    {
+      "path": "articles/xpeng-g9/seo_es.json",
+      "sha256": "4a7a325197704fe591796a557fbb71846dde5c4be205c422b34dd6810ad14e72",
+      "bytes": 2227
+    },
+    {
+      "path": "articles/xpeng-g9/seo_fr.json",
+      "sha256": "882845a14bb334a3531c46db3d30a2fcdfefb6ef995d6505be8b870bf78abced",
+      "bytes": 2194
+    },
+    {
+      "path": "articles/xpeng-g9/seo_id.json",
+      "sha256": "10f23a234bc887fe12269a74af31c61eefd6bea2e748463dd9f79a9625a55228",
+      "bytes": 2116
+    },
+    {
+      "path": "articles/xpeng-g9/seo_ja.json",
+      "sha256": "f31dc13ac583e44f1bb4ceec6b7610b454ebc0d72f0369d9e77c97df44b15d15",
+      "bytes": 2213
+    },
+    {
+      "path": "articles/xpeng-g9/seo_ko.json",
+      "sha256": "51545b69f71259b434f8b11318e78a932b59c6b6aa28000c7b0c0c8e5884bc7a",
+      "bytes": 2214
+    },
+    {
+      "path": "articles/xpeng-g9/seo_pt.json",
+      "sha256": "042d7e250ffbee94bd2bc92d8d945967594c64677a9773d28a7b8417aa84cfdd",
+      "bytes": 2248
+    },
+    {
+      "path": "articles/xpeng-g9/seo_th.json",
+      "sha256": "956256498b1e99eb12cbc43ad91480f34f213221db5edfe766e7f511dff7ba3c",
+      "bytes": 2938
+    },
+    {
+      "path": "articles/xpeng-g9/seo_vi.json",
+      "sha256": "39016a39760259b8c27606cbb6aa3e2ac344ffc15befdc063c561ab39fef22fc",
+      "bytes": 2355
+    },
+    {
+      "path": "articles/xpeng-g9/seo_zh.json",
+      "sha256": "e03a2ffed9276f196164e50ce935f2345325237cef13fac83b1aa0f5ed3d22f6",
+      "bytes": 2106
+    },
+    {
+      "path": "articles/xpeng-g9/th.md",
+      "sha256": "3b76174affac37d9c6956087b3157a93a86636480656c24a8365efbead94097d",
+      "bytes": 17635
+    },
+    {
+      "path": "articles/xpeng-g9/vi.md",
+      "sha256": "267753841e4eb4b83a70a37c72535b5b5a9400188f00216671856b9b37450f2b",
+      "bytes": 10279
+    },
+    {
+      "path": "articles/xpeng-g9/zh.md",
+      "sha256": "b1fa8299a21ed03410f43abc42081392bf4ca5a82b25967e55689279ead70d16",
+      "bytes": 7717
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/ar.svg",
+      "sha256": "d14be06f4aaa505daad10f2cd429bbbe05ac05a2bf653563256309e0448c7682",
+      "bytes": 2163
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/de.svg",
+      "sha256": "ae759001c2a1c1a89e4df98899645042d8449ae50efa9e313c3b9013c4d0f82d",
+      "bytes": 2318
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/en.svg",
+      "sha256": "64ce39193b18037612840c9a794e4ec785c8efde69349be5d8de155ac4a5baa9",
+      "bytes": 2124
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/es.svg",
+      "sha256": "8709a36fd010bdc48e78f79386f7ca744b916a08b6b30627da9a6b10abe55886",
+      "bytes": 2321
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/fr.svg",
+      "sha256": "e73fc5b5c4100784c30c2edcf86cf19e4e5a3d001caf204735970f4b56a5b5d4",
+      "bytes": 2341
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/id.svg",
+      "sha256": "f137219d62ddfc8a4cf58a4d67789d99dcd598f3cfb4ea745a7e0e88cfe0a04f",
+      "bytes": 2299
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/ja.svg",
+      "sha256": "f963185dd014c51381866ade4fc7223643bf708cbf5f63ca24dc5662bfa20fcf",
+      "bytes": 1946
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/ko.svg",
+      "sha256": "2990fe12d7bd33048e6f25f90edf357f6f9ff2248ad5748be29211daf4364963",
+      "bytes": 1826
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/pt.svg",
+      "sha256": "c3287fdd3a7837c497c6dbab37dc768903097ac701a70aa2fe3e37c7bb2a2cb2",
+      "bytes": 2328
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/th.svg",
+      "sha256": "0dd13bcf38fc2b08a4daef6ff6959915b43bd8d4dc207a1f9523f9df4af85f36",
+      "bytes": 2070
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/vi.svg",
+      "sha256": "f255e5b3251f1cbd97075de0463e5eee6be30caf6f93b8ff66f326a392f449ae",
+      "bytes": 2194
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/zh.svg",
+      "sha256": "659cc943b031fc7c1261343883b44de2b9a3203564f0fb2b68554a0f09c6565f",
+      "bytes": 1809
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ar.svg",
+      "sha256": "09409eaa05b897b85f9b690fb314abec68dcd92ce917db7dfdb69873f62fbb1f",
+      "bytes": 2133
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/de.svg",
+      "sha256": "14bd7a8c990a5c0104f0c9ea7fa3cbe7e49018c0fadfc817d9f5ae73b2bd100e",
+      "bytes": 2282
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/en.svg",
+      "sha256": "0b4e01c0ff994d756a9a7952b321fb1519a05a22a0847e8ce7db5921cf16bbd4",
+      "bytes": 2113
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/es.svg",
+      "sha256": "ddb3b914eed487a849d29785df41936fa844d489b8b5ada62fb540ac2046df73",
+      "bytes": 2324
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/fr.svg",
+      "sha256": "558825aabc51452d99b49732e21c7a0265d3438e876357d7968890a62d14e533",
+      "bytes": 2468
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/id.svg",
+      "sha256": "f4b6eaa874584baba66518e0fe15a28785ec7779613580a03623ff5872d2f3c0",
+      "bytes": 2102
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ja.svg",
+      "sha256": "a9a94ca91fab25653a13620c6586174468a38c64afaf40a06bef62717cb5b2b1",
+      "bytes": 1881
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ko.svg",
+      "sha256": "bf0dcb0bd586d5eb0130f4506b603fcb8837a4b20448b697e4a3aeb00070b7d5",
+      "bytes": 1835
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/pt.svg",
+      "sha256": "bf7265db770f31cdca657d738cb5689ee1f2434bc8e1ed0c089940ec8d5df810",
+      "bytes": 2426
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/th.svg",
+      "sha256": "2dbb7d06489edd1ea80d3299123851afe0b3c3fdcaab0603bf644de4589dffc5",
+      "bytes": 2230
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/vi.svg",
+      "sha256": "d6669b161b47e32a80fed05a15356d5ec0e870f307a2ac67360dc773b4853dae",
+      "bytes": 2090
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/zh.svg",
+      "sha256": "f370289153ba93727ddd27570e3146b3fb522bf673d07668399ed000607e7221",
+      "bytes": 1799
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ar.svg",
+      "sha256": "23f0b9ac981d58de49a355cafd0b5273c2ef78a6c2131d743564e8563b6ff14d",
+      "bytes": 1946
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/de.svg",
+      "sha256": "1ef913bdbf3f2dd9caa8558ccbfa6ccd36a384576dcbbaf82c58cc57dc5a1435",
+      "bytes": 2058
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/en.svg",
+      "sha256": "ad03b42c3df48896ac76a20351c0c9bf82976330feda86daf9c8619fa80783bf",
+      "bytes": 1800
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/es.svg",
+      "sha256": "23f8909c155234bd7050de8ffa5b87f0222015356f39202cb3c074010f25c27a",
+      "bytes": 2105
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/fr.svg",
+      "sha256": "cb2bcb5f291abfc1750c94db74680836077650c6f4eea565d30b8f30284bce63",
+      "bytes": 2142
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/id.svg",
+      "sha256": "5ebd4aada122c4725a808ba045760f26df0c2ac321681634843c98df8177038d",
+      "bytes": 2086
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ja.svg",
+      "sha256": "cb34e92324265f4292d35399be22826446478855239d114359764ab21a6c4238",
+      "bytes": 1806
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ko.svg",
+      "sha256": "60fc8d96459c252b7997b52b15e439e361467b28bc3bcb0a48f1e0f98f91c447",
+      "bytes": 1811
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/pt.svg",
+      "sha256": "1a3d5b25a6ce6b6f94bb00f6d86a3d121742b20d338c962f660d057746aa0384",
+      "bytes": 2098
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/th.svg",
+      "sha256": "3cafd8a6d8df2e3d35857b449703199c264c4e57767fbc9a85b127efa4298095",
+      "bytes": 2375
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/vi.svg",
+      "sha256": "4a62d337e0ea17462b72bbfb917e75727affdd6fadb4a6dc95aa8cfa499ab898",
+      "bytes": 2209
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/zh.svg",
+      "sha256": "9aec475b71d05a07f6537899ae10fc650b8e0a236a4bb2f0b8d1bc10206ba478",
+      "bytes": 1754
+    },
+    {
+      "path": "assets/nio-et5/ar.svg",
+      "sha256": "8aeba18e69fbf4528694ae4a8668cd92f732a01a0f3e70b2bc480800c77ec8e4",
+      "bytes": 2026
+    },
+    {
+      "path": "assets/nio-et5/de.svg",
+      "sha256": "abcc19ceb02019884d1aab2f0feaa5ce3531ba1aebb5c733a92f33c9b5145009",
+      "bytes": 2263
+    },
+    {
+      "path": "assets/nio-et5/en.svg",
+      "sha256": "ef40a19ca2a418933d2cbc79d73d77bd383cf7eb30fc760cc61cf94ba88c80e6",
+      "bytes": 2006
+    },
+    {
+      "path": "assets/nio-et5/es.svg",
+      "sha256": "e3b7a999426a7a99c40263f26c0af3fc208fe333a461b8e13a3b2f8c46067431",
+      "bytes": 2652
+    },
+    {
+      "path": "assets/nio-et5/fr.svg",
+      "sha256": "662ae2cda568dc0950e37f366ccb122790ebe3f39fbb436ae777051213872152",
+      "bytes": 2299
+    },
+    {
+      "path": "assets/nio-et5/id.svg",
+      "sha256": "8d4fd5ab1898be0688c0428310b3d66224a8ec75e07fa7a44fefd1a64ada9a42",
+      "bytes": 2252
+    },
+    {
+      "path": "assets/nio-et5/ja.svg",
+      "sha256": "631e6eded46bebf694667d88b90b73a15ce52eaef2aaf07683c644cb450695dc",
+      "bytes": 1952
+    },
+    {
+      "path": "assets/nio-et5/ko.svg",
+      "sha256": "25425b1facf424cb0f4fc9a3c13f15e4a3a53bddae2e7743326979a553d62f55",
+      "bytes": 1807
+    },
+    {
+      "path": "assets/nio-et5/pt.svg",
+      "sha256": "68a1c26337f6031ecfc4f4d49ddd2688f6efee551a4218c41a62e320f9ae8020",
+      "bytes": 2546
+    },
+    {
+      "path": "assets/nio-et5/th.svg",
+      "sha256": "5140091650e991e2fe96df48004be14d9026c798bfac1b68750fd3b74b53fb81",
+      "bytes": 2104
+    },
+    {
+      "path": "assets/nio-et5/vi.svg",
+      "sha256": "bbdc2b56c0162a993ec5d635a4819713d110a6b42783a493ea04d4cef8818e3e",
+      "bytes": 2211
+    },
+    {
+      "path": "assets/nio-et5/zh.svg",
+      "sha256": "2af35bbe827da96bc2b59ef8246f16d0343644877529b57223a6fcfe844d3414",
+      "bytes": 1796
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ar.svg",
+      "sha256": "ea04d5698d5fd4eab72e82f3c6b818af73199ef66f30a633b7b2a185705a4725",
+      "bytes": 2070
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/de.svg",
+      "sha256": "c19798a58a5eb73dda8e9ad24658fb895f9e56c7a802f989f77b2c170dccccc3",
+      "bytes": 2071
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/en.svg",
+      "sha256": "b927e5b99e166f9b467d8b78bb34107ef7598e7b8e25eed832f134edc3eef0bc",
+      "bytes": 1931
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/es.svg",
+      "sha256": "4529d98b10ee44ecb071214d32101d02c2c7b029bb0287378f3a665f76e0ff14",
+      "bytes": 2082
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/fr.svg",
+      "sha256": "a2fd2bf89e7e4a30efe389eb5d6ad321aa15f3526c92270e4bb1ed5836a42cc6",
+      "bytes": 2136
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/id.svg",
+      "sha256": "5a53a05ed3e0a12dd634b9f0f12c742eb98449e1aa96b65c2a248ba7d875c746",
+      "bytes": 2073
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ja.svg",
+      "sha256": "a6b50781b34069e0928c72686c85e02416ce5b43909bc2a4a691b3a676ee6f7b",
+      "bytes": 1815
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ko.svg",
+      "sha256": "8f47323c299e54546c438651fbc53ccb70f07a0606ca16a51665f71705607098",
+      "bytes": 1806
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/pt.svg",
+      "sha256": "8ac4c0991e51e6140524dce94095eccd18bfe992d01075017f93ad60de8b413e",
+      "bytes": 2089
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/th.svg",
+      "sha256": "31613b386fa7cf4000e4b9fc5113dc382446de706662bbcc6740d3e6a0ffa701",
+      "bytes": 2182
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/vi.svg",
+      "sha256": "30166bbf8aa2cf3429b843969d4ee9b393ebaf4ea28a61d7eb1515e6d1f5ca6b",
+      "bytes": 2133
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/zh.svg",
+      "sha256": "db880ef45a41381f214fdc8097140a2e3ecf11fe0150f59aa58684332c5d8b07",
+      "bytes": 1757
+    },
+    {
+      "path": "assets/smart-1/ar.svg",
+      "sha256": "997d2f42111d8dd40218157d0a31d2874459421d866ec3cfc5701050f42eb8cb",
+      "bytes": 2021
+    },
+    {
+      "path": "assets/smart-1/de.svg",
+      "sha256": "35ab4596fa0322984c9e513daf089abba09fc4f9dee9975523847fb7e97b5301",
+      "bytes": 2192
+    },
+    {
+      "path": "assets/smart-1/en.svg",
+      "sha256": "54e2f2035b628735a917f427a80d240a6b46a81d0350a50bc6bfaebd17711cea",
+      "bytes": 1751
+    },
+    {
+      "path": "assets/smart-1/es.svg",
+      "sha256": "c03be14c888f543f7bc9d18ff997793bb6ebd2cdc9979e607db63c891d8e0cda",
+      "bytes": 1971
+    },
+    {
+      "path": "assets/smart-1/fr.svg",
+      "sha256": "a6521f4f5ba5147725ee829abbc9851dbd23692601dd0210ea8f834957c8d53f",
+      "bytes": 2108
+    },
+    {
+      "path": "assets/smart-1/id.svg",
+      "sha256": "92c703c5c9674cda35fec7864ded7c36f5f1e16e56f77ed0712558bd6ab84613",
+      "bytes": 1922
+    },
+    {
+      "path": "assets/smart-1/ja.svg",
+      "sha256": "46ef811a3d5d088ec0887ce6f5a585391597b020a98adab9a60d6bf18df07509",
+      "bytes": 1804
+    },
+    {
+      "path": "assets/smart-1/ko.svg",
+      "sha256": "1d4748ea2e730d17086b81315156572e64cc755b0612d920cf92b8a0e28388da",
+      "bytes": 1797
+    },
+    {
+      "path": "assets/smart-1/pt.svg",
+      "sha256": "a31274b8702aadaf5483b5d00aee0b4b2d91c00d25abb330f9c218c058e43268",
+      "bytes": 1962
+    },
+    {
+      "path": "assets/smart-1/th.svg",
+      "sha256": "fdfac8331de645dda6f6763b101f3019230644510b9f7ecab526b60fbb8c2de2",
+      "bytes": 2203
+    },
+    {
+      "path": "assets/smart-1/vi.svg",
+      "sha256": "d32d7ad9c1d58610679c7d4fdaccbd296602af394f46a8ccf746bb86ded2c737",
+      "bytes": 1950
+    },
+    {
+      "path": "assets/smart-1/zh.svg",
+      "sha256": "d1e46544f94889b336be58c1038e3d6c5c112db2dbbe963821ff40695ccaa3f9",
+      "bytes": 1803
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ar.svg",
+      "sha256": "b0edb6197c97c0e15435b94fb302962c3b9704136d3c67c1b5fdb29e71b314ec",
+      "bytes": 2110
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/de.svg",
+      "sha256": "e145ac2a9082b72c5a0386c431461d447b4c0b7382fdaf46be977d06bf4ce6ed",
+      "bytes": 1945
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/en.svg",
+      "sha256": "4af31d5b305a13873a33e5377f0568f4ecbfad3139d7afbf5cbb6eb9ec59404e",
+      "bytes": 1935
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/es.svg",
+      "sha256": "80dc29c3f9a0354a04c79ae6fa7fb08ff14e329c141699db44e42372bc82ee50",
+      "bytes": 2211
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/fr.svg",
+      "sha256": "353831eece6b427db77d32d1399f1456b2a5e064ed75c3526510b9d08c699755",
+      "bytes": 2266
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/id.svg",
+      "sha256": "eeae3024701be6d6fc26c8fd9e39bfcf931d18ab12633735cfbcb26e3e202cce",
+      "bytes": 2198
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ja.svg",
+      "sha256": "f6835481ce29d57bfa44ecbef7041ee1d67a7f4fc0c242fb0496f035605b71ef",
+      "bytes": 1806
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ko.svg",
+      "sha256": "d814c21ad6ef67145e5421dc9c4a81b802ab9ed1e56961a306a08bb3cb1b2693",
+      "bytes": 1787
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/pt.svg",
+      "sha256": "80426a846a31f878896a8a1a5e118870fe32650328a3859b03fb6fee2ecb87ae",
+      "bytes": 2094
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/th.svg",
+      "sha256": "ebf30fd9f22d8ef198d6c5b0b4f4e0aced94fe1b50b6860873bb2f2c7ba68c32",
+      "bytes": 2226
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/vi.svg",
+      "sha256": "e270ed505e4b0e886e0238f761ea45a181b30524346383c8674555ef751b6b55",
+      "bytes": 2151
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/zh.svg",
+      "sha256": "1a7fcd8536beacf66127d78fdbc3b4a4436646e12454261d98e4fcad670bd468",
+      "bytes": 1760
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ar.svg",
+      "sha256": "77c7387cceb8a32d5cffc813f48ab15d7faebe477e625683139fc354a2169377",
+      "bytes": 2382
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/de.svg",
+      "sha256": "d87b2dbbe00a29132cd32fa1d6b85f0dcc26ecb2c1a3dc9e291e6f5b97760f18",
+      "bytes": 2345
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/en.svg",
+      "sha256": "cea0a2cea8a5d707968059c27981481420a1df28c175352cea6d53b206e97dbe",
+      "bytes": 2318
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/es.svg",
+      "sha256": "a5e1d4168818e53f926298ebfd603a802520cf17c59086a7c06558bb9de688b3",
+      "bytes": 2560
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/fr.svg",
+      "sha256": "a77b504a01bbdd6c55c96f73ad9216806b1762846eb05749118dfaa54352ab7e",
+      "bytes": 2402
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/id.svg",
+      "sha256": "5455db478d6167b8b9de17703701d490c1c1a8d39baebd42afc2e7e628ed1555",
+      "bytes": 2362
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ja.svg",
+      "sha256": "1931b32f5a2fdbeca69bd9b862e49d77b2a7d2ef6a0fdb9ca45ccb9fbae1f9f9",
+      "bytes": 2189
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ko.svg",
+      "sha256": "857f2634d194e43869858b9a6a5d394f4c8f7b067fe876736ff032b6218f89b3",
+      "bytes": 2062
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/pt.svg",
+      "sha256": "da729d390d9498cf44a0419b310e7a988125c11607b59f0bbfc27533a275cd41",
+      "bytes": 2399
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/th.svg",
+      "sha256": "1892db63a7ca9aba2a28b8002ba3a7276a1c9732372454c6988580a6fd64918a",
+      "bytes": 2327
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/vi.svg",
+      "sha256": "ca6dffe2790a1768a5ed9f7d5e5c6d9cd1b51e2d102856de5572a382e2c961da",
+      "bytes": 2298
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/zh.svg",
+      "sha256": "ad1294994f9fca6bf9deb1e6c1d53912cb63093c64e64d0f31b2ffc0f1a41e61",
+      "bytes": 1805
+    },
+    {
+      "path": "assets/xpeng-g6/ar.svg",
+      "sha256": "74d915fe4a54e90e098eaaf10498802f65fa3d4f23db121906daf9cfaad2b411",
+      "bytes": 1882
+    },
+    {
+      "path": "assets/xpeng-g6/de.svg",
+      "sha256": "652522d169b7cfe031469711c97c2522a4a032d6a65080f777828fcc53b0f10f",
+      "bytes": 2163
+    },
+    {
+      "path": "assets/xpeng-g6/en.svg",
+      "sha256": "5805935cb3f64117eba2672a6bdc8a99715ebfd811dcbe03f0a05ad6b230b111",
+      "bytes": 2098
+    },
+    {
+      "path": "assets/xpeng-g6/es.svg",
+      "sha256": "8706c3b90cb3764c50293ab59520022715c772b0178ec2900017e6586cd89a38",
+      "bytes": 2542
+    },
+    {
+      "path": "assets/xpeng-g6/fr.svg",
+      "sha256": "033ee1b9d0e7adf9dbc698d986fd06aed588e29953d1d4137954726a2385461c",
+      "bytes": 2301
+    },
+    {
+      "path": "assets/xpeng-g6/id.svg",
+      "sha256": "99ebab5bb05a355996953f0f10a9dc89ca7a4ce11e31bee80ee36f81f86af324",
+      "bytes": 2117
+    },
+    {
+      "path": "assets/xpeng-g6/ja.svg",
+      "sha256": "6bdb22d9cd35a81e5e253cc88c3cc3d6fcf7be58ae0e99cf383eee73a888de58",
+      "bytes": 1808
+    },
+    {
+      "path": "assets/xpeng-g6/ko.svg",
+      "sha256": "afdf02c6198290ff9e16abfa50196336f2318e4b2b0a2856fc049a1c355e1586",
+      "bytes": 1914
+    },
+    {
+      "path": "assets/xpeng-g6/pt.svg",
+      "sha256": "02beebde5b5e3cf65f470f9644d3225e54459111640d10692845cd4b281a62c6",
+      "bytes": 2548
+    },
+    {
+      "path": "assets/xpeng-g6/th.svg",
+      "sha256": "e3c5d1e575b77f9b6d1514e68601c9e24132659533244247cbca01e0ae625abe",
+      "bytes": 2182
+    },
+    {
+      "path": "assets/xpeng-g6/vi.svg",
+      "sha256": "df314769688a35e977b2baa1a9cc99b5b4de97cd34ef923f6977c75171b2d24d",
+      "bytes": 2163
+    },
+    {
+      "path": "assets/xpeng-g6/zh.svg",
+      "sha256": "d8254bba010a864a6ca1ec46be4a060f5c3702dbab5bab19800b9d3c61f99814",
+      "bytes": 1753
+    },
+    {
+      "path": "assets/xpeng-g9/ar.svg",
+      "sha256": "16ec1c667a26e027c33f97c25cfd07dd06dec033aa445f7afef5fd4aeae02c6a",
+      "bytes": 2007
+    },
+    {
+      "path": "assets/xpeng-g9/de.svg",
+      "sha256": "8817a478fe2cf259db63d7dbe11017e2489abd9a9f6fdb0c740e223adce66ada",
+      "bytes": 2262
+    },
+    {
+      "path": "assets/xpeng-g9/en.svg",
+      "sha256": "9a317549480022a0bf2d215c94fa3ab6beae867331e4c48b95c823111fe9cf34",
+      "bytes": 1871
+    },
+    {
+      "path": "assets/xpeng-g9/es.svg",
+      "sha256": "7a8e1a93398b5ba603ada41ab4365d6f7f39762f405dbe04bc3290a05626d7f7",
+      "bytes": 2263
+    },
+    {
+      "path": "assets/xpeng-g9/fr.svg",
+      "sha256": "c4857a3b6adb737961bfd4a412146b7dc91af5b70d9b7e5461cc1bf140e7e7d3",
+      "bytes": 2267
+    },
+    {
+      "path": "assets/xpeng-g9/id.svg",
+      "sha256": "6cf977dde7d50b7c084c0a017f7968524785f8f7c9ebf9466abdc940114cb261",
+      "bytes": 2120
+    },
+    {
+      "path": "assets/xpeng-g9/ja.svg",
+      "sha256": "042269670109907ddc5652666bafd0dad3a99f7f60d47e349a64f9a1b5e66377",
+      "bytes": 1825
+    },
+    {
+      "path": "assets/xpeng-g9/ko.svg",
+      "sha256": "e80b875b3da1eb320c95ecc4193ae449da26d307ae80833ee6d80a53951b70b9",
+      "bytes": 1804
+    },
+    {
+      "path": "assets/xpeng-g9/pt.svg",
+      "sha256": "435f2e69b8a08782279841ce7f61d7f25055cd67ce282c9d89dc9b0de0b1cb57",
+      "bytes": 2281
+    },
+    {
+      "path": "assets/xpeng-g9/th.svg",
+      "sha256": "963bd7ce8011b6faa35dc57e17a50d5594f69621924bc1dfc563a7774f82f04f",
+      "bytes": 2065
+    },
+    {
+      "path": "assets/xpeng-g9/vi.svg",
+      "sha256": "97f6b4c4829e40e696be35347d1d5f1eb6d64b14cafb0f1aa332054f736355df",
+      "bytes": 2208
+    },
+    {
+      "path": "assets/xpeng-g9/zh.svg",
+      "sha256": "2911d0bd68b495c2d5a3fe01b82ac2a818585faaabe7dae2b5f57385dab236bd",
+      "bytes": 1783
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "d8651b1be4d6ca6ab20753e0151d1286ce512ce3a731d5c4ffc4ba1db074d052",
+      "bytes": 124194
+    },
+    {
+      "path": "public_export_allowlist.json",
+      "sha256": "ec4198c190a377b9a3e4017a2acbab7a4ba38dda18a79b159ef2eedbf29037b6",
+      "bytes": 662
+    },
+    {
+      "path": "publication_plan.json",
+      "sha256": "362a9d229da1de718e8904c3d363060c35c3cebdf3c24f0ae42c4764ade7cae5",
+      "bytes": 9642
+    },
+    {
+      "path": "qa/ar_id_independent_review.json",
+      "sha256": "b7b357788614c2a0f118e39265442e44949692894d46962ab65c87d1cee89476",
+      "bytes": 47873
+    },
+    {
+      "path": "qa/ar_id_zh_self_review.json",
+      "sha256": "d108401b7b9871bcc4454ab0e4c31722c64cc6601f85faf78462ae4e04d76c7f",
+      "bytes": 22312
+    },
+    {
+      "path": "qa/authorized_site_check.json",
+      "sha256": "b10490f8aa27fd0a93a2d91f2b8d7c48a19049b0858d0d69388617e01ac59594",
+      "bytes": 1436
+    },
+    {
+      "path": "qa/en_independent_review.json",
+      "sha256": "e30f18393433667e822aa5347d831713794054bba768de96d72a2e4e3017f092",
+      "bytes": 3010
+    },
+    {
+      "path": "qa/es_pt_independent_review.json",
+      "sha256": "1a7b65830bd2237707b0c9c3d6923eed3bb27948751389a76f4d078cb5b2a58c",
+      "bytes": 52471
+    },
+    {
+      "path": "qa/es_pt_self_review.json",
+      "sha256": "8577635ef6f073f4b0aca927678a81bb8ae079bf69628d6b1e1cb2d112b9d70b",
+      "bytes": 14031
+    },
+    {
+      "path": "qa/finalization_changes/byd-seal-u-dm-i.json",
+      "sha256": "c55f72743ea9a9a438ed4276c40b28371da71a2cd4a4b2bade6a76d57d7fe95b",
+      "bytes": 5283
+    },
+    {
+      "path": "qa/finalization_changes/diesel-dpf-scr-maintenance-evidence.json",
+      "sha256": "462549c0869ee13c2f21494a03156f144385639f4db3709e2e505015523040f0",
+      "bytes": 7362
+    },
+    {
+      "path": "qa/finalization_changes/flood-damage-evidence-used-car-purchase.json",
+      "sha256": "7dbca7fab329a30a8d0b9ba23ef9a548e737346a9b1810284479b0095220ac7a",
+      "bytes": 7362
+    },
+    {
+      "path": "qa/finalization_changes/nio-et5.json",
+      "sha256": "27571bfb02c4e51c0ef9ccde52cd6f27301ceddced6ed395dc6453fc25bad4fc",
+      "bytes": 7741
+    },
+    {
+      "path": "qa/finalization_changes/odometer-service-history-reconciliation.json",
+      "sha256": "6db84c200064cebf7ced3e657fa13820e4ae371c6f765df065b84e6349f5914b",
+      "bytes": 7408
+    },
+    {
+      "path": "qa/finalization_changes/smart-1.json",
+      "sha256": "cacd41ed44e1e00abdadb47e8aab1c1d6f184fe1163e787fa80f5353b6b32cdd",
+      "bytes": 7757
+    },
+    {
+      "path": "qa/finalization_changes/srs-airbag-repair-evidence.json",
+      "sha256": "8162564b0ff208f35a87fe66e3c50be0de60f1ad161ffbba0906b00a06ceaeca",
+      "bytes": 7362
+    },
+    {
+      "path": "qa/finalization_changes/towbar-trailer-rating-evidence.json",
+      "sha256": "28aec159aa5a4c0e5fa1cff01cf50ab67fff1a868277647d22166d95835eb91a",
+      "bytes": 6787
+    },
+    {
+      "path": "qa/finalization_changes/xpeng-g6.json",
+      "sha256": "da82f832b409370c32b391389629f3ca44f41ada39c5fbbbfdd73634b82c0b4f",
+      "bytes": 7757
+    },
+    {
+      "path": "qa/finalization_changes/xpeng-g9.json",
+      "sha256": "06107d9c34b8c6e7e4bccb096ffb09a2537f779b15de4b0f5688b717dc4e03f6",
+      "bytes": 7757
+    },
+    {
+      "path": "qa/finalize_package.py",
+      "sha256": "59c23f4159d4ce457cb2cc820d36ca253279216ea1606a35f3a0dc61eac0cb3b",
+      "bytes": 9544
+    },
+    {
+      "path": "qa/fr_de_independent_review.json",
+      "sha256": "163c468327ca9bdec6ac54f5f3b3ee2ed1ee4fd97785713fb2fc0b6edecf8224",
+      "bytes": 40486
+    },
+    {
+      "path": "qa/fr_de_self_review.json",
+      "sha256": "f19d3abb054fe80efafd734748673ac9cdcae860343e52f290be2da14b7dce29",
+      "bytes": 42961
+    },
+    {
+      "path": "qa/generate_diagrams.py",
+      "sha256": "02896c5c304cdea8b2e5a798ce8b7e9300ca7917eba3c2e068ba33b9515da836",
+      "bytes": 3498
+    },
+    {
+      "path": "qa/image_records/byd-seal-u-dm-i.json",
+      "sha256": "d1898ed5b29df3ff965c18f98e4439610627c76ce51e9488abba135b1b52012f",
+      "bytes": 10176
+    },
+    {
+      "path": "qa/image_records/diesel-dpf-scr-maintenance-evidence.json",
+      "sha256": "b19860ba99667c74e12b713f2295817bc2a37a5ecb156cf61962ada786dc5d1d",
+      "bytes": 10158
+    },
+    {
+      "path": "qa/image_records/flood-damage-evidence-used-car-purchase.json",
+      "sha256": "ce90d1cf58405d4cce26cced671731eb21817a6d753650503f0f3521d196465f",
+      "bytes": 10180
+    },
+    {
+      "path": "qa/image_records/nio-et5.json",
+      "sha256": "7945dd918226e32bcd37fbaa1f85b3ef4397be9b200cab3d204ff67ad03c66cb",
+      "bytes": 9942
+    },
+    {
+      "path": "qa/image_records/odometer-service-history-reconciliation.json",
+      "sha256": "ae7a5c8ca1b008dd14829b009fe9671332f3d06b56431a59f1dbd08557e264f7",
+      "bytes": 10089
+    },
+    {
+      "path": "qa/image_records/smart-1.json",
+      "sha256": "4af0d1c00eefa75bea2645d7994e78364f476f45018a798bca5a99316422ca84",
+      "bytes": 9651
+    },
+    {
+      "path": "qa/image_records/srs-airbag-repair-evidence.json",
+      "sha256": "999dd5f07ea954383178971bcd5b09954d1033355a3cdbd25873cc9958f39141",
+      "bytes": 9956
+    },
+    {
+      "path": "qa/image_records/towbar-trailer-rating-evidence.json",
+      "sha256": "c1439ce3517e76824ba4e8b48ef6e42cb5947440bd3da7fc0cf8485df750590a",
+      "bytes": 10439
+    },
+    {
+      "path": "qa/image_records/xpeng-g6.json",
+      "sha256": "82f2ae9eb7a4d36573f4c902fc395d80583c65b70fc7956e17c51dd4245c76bf",
+      "bytes": 10090
+    },
+    {
+      "path": "qa/image_records/xpeng-g9.json",
+      "sha256": "e956b05f1875a35a6f9cc1c2fc217e505a00cfff445db45585d3d3656b79cbaa",
+      "bytes": 10028
+    },
+    {
+      "path": "qa/image_render_checks.json",
+      "sha256": "f751e1fc254aa544f3e1a8e0d58ec62dafd02aee1182158f2d5287e14d84312b",
+      "bytes": 17187
+    },
+    {
+      "path": "qa/image_visual_review.json",
+      "sha256": "8175a4db7937759bdb0855700c95297e088ce3a8cd2c007bafc8b6aae5c94d1d",
+      "bytes": 435
+    },
+    {
+      "path": "qa/ja_ko_independent_review.json",
+      "sha256": "48d420516dcab78d45b969da78610dc2c99a507bd46cfe96953d172f1635a08e",
+      "bytes": 49054
+    },
+    {
+      "path": "qa/ja_ko_independent_review_edits.json",
+      "sha256": "3239dba03f872b1430ad38179c69087bf19d8fc5f1fd1ea05dafa78343e03cac",
+      "bytes": 4477
+    },
+    {
+      "path": "qa/ja_ko_machine_checks.json",
+      "sha256": "ea89ef65cb9377a8ccd0d7bf9a0866cd07a51eb5e446d73f6fe18adf0fdd38a2",
+      "bytes": 15386
+    },
+    {
+      "path": "qa/ja_ko_self_review.json",
+      "sha256": "a4dcd9e045a1bec6e7579342e83c31ff1cd9dd8281bd18e711d5b15378c295e9",
+      "bytes": 5635
+    },
+    {
+      "path": "qa/locale_checks/byd-seal-u-dm-i.json",
+      "sha256": "024f441beaa59501e498522d1d8a0182ac98d883f9d6c9ae773a669ef4875766",
+      "bytes": 9344
+    },
+    {
+      "path": "qa/locale_checks/diesel-dpf-scr-maintenance-evidence.json",
+      "sha256": "feb8282daac913a1ad01c18ce88a370b5117c50a9fa41a249446f0f9b3733bdb",
+      "bytes": 9976
+    },
+    {
+      "path": "qa/locale_checks/flood-damage-evidence-used-car-purchase.json",
+      "sha256": "7a55c9b81f415b7223e311eda4405d797fececb0b326c9ed5bb271d76f60c45d",
+      "bytes": 10120
+    },
+    {
+      "path": "qa/locale_checks/nio-et5.json",
+      "sha256": "bbd4132038fed42896d1f2878efcf798c1b0d3eb9a11c107e957710722df716e",
+      "bytes": 9268
+    },
+    {
+      "path": "qa/locale_checks/odometer-service-history-reconciliation.json",
+      "sha256": "7921d79151e9e31e495383086107e598ac906f94d6091172644f0990b3299bc5",
+      "bytes": 10138
+    },
+    {
+      "path": "qa/locale_checks/smart-1.json",
+      "sha256": "a9457457aff3a011c8fe4777e2964b5ba3b79586445e671edb46701eaa732268",
+      "bytes": 9084
+    },
+    {
+      "path": "qa/locale_checks/srs-airbag-repair-evidence.json",
+      "sha256": "44890c5f672c43f810251dc9b70a457fadf6de827a8d8f9a5520efde6d9dc501",
+      "bytes": 9651
+    },
+    {
+      "path": "qa/locale_checks/towbar-trailer-rating-evidence.json",
+      "sha256": "edcaba7ad4381187199f380436af29526380abd9109603fb1497293b71eaa46a",
+      "bytes": 9837
+    },
+    {
+      "path": "qa/locale_checks/xpeng-g6.json",
+      "sha256": "47f6934118943b5dec5c7cd528dd78df8d192f0b2cf7626cf2b06beaaba4d8e2",
+      "bytes": 9309
+    },
+    {
+      "path": "qa/locale_checks/xpeng-g9.json",
+      "sha256": "ff33bba0c7441344c23493e1d5406bdaff564968c411218fff833747813738e0",
+      "bytes": 9266
+    },
+    {
+      "path": "qa/public_field_checks.json",
+      "sha256": "6059ae5c5b0df61d2acdc1f03c8d541572c75c719d59a82181a4c0aefab70e71",
+      "bytes": 762
+    },
+    {
+      "path": "qa/repository_topic_overlap.json",
+      "sha256": "f65760189f5cdca9d9672d845a2b7e785e2297b674ffc77352c95244e4ace096",
+      "bytes": 6650
+    },
+    {
+      "path": "qa/selected_source_recheck.json",
+      "sha256": "cfc63b86505522af3f0952bb3c3ffa1670bb8d7832e0a23375d92729d2f7982e",
+      "bytes": 1451
+    },
+    {
+      "path": "qa/similarity/ar.json",
+      "sha256": "806fac640c9965be7cc0c4015189d9339fda24373a4b47fa87c8ca27f8275be2",
+      "bytes": 6530
+    },
+    {
+      "path": "qa/similarity/de.json",
+      "sha256": "45795b453b55783cffc851cf6212bc3420b042db06e2112e00e1e5d04051b402",
+      "bytes": 6847
+    },
+    {
+      "path": "qa/similarity/en.json",
+      "sha256": "3f353dee4ee43e4a877c2464bcc0d7ab925d92acd1170c1dfaa5010e4a4ab1a2",
+      "bytes": 7315
+    },
+    {
+      "path": "qa/similarity/es.json",
+      "sha256": "b9d8890273530d8c6e653cd9b2de0c698bbb85c5a8f647c267dece38d549547c",
+      "bytes": 7567
+    },
+    {
+      "path": "qa/similarity/fr.json",
+      "sha256": "56d526df2020cb4c6834bd511225802b14f96dba1e3640e9bfe3713e2ba9da63",
+      "bytes": 7571
+    },
+    {
+      "path": "qa/similarity/id.json",
+      "sha256": "643c197d2c891c45054132881c431896843aa0bac5b67c64b3ae72116a0be46b",
+      "bytes": 7182
+    },
+    {
+      "path": "qa/similarity/ja.json",
+      "sha256": "4f04c9487e2e3c14cda9ef7c69f916ccdcfa5ada989f20b4a8bf31d813b416a5",
+      "bytes": 7466
+    },
+    {
+      "path": "qa/similarity/ko.json",
+      "sha256": "e0b4aa8e9589dbb0dc528504cf1d1b2f661d2f1925bd07f052a07ecb90272c44",
+      "bytes": 6600
+    },
+    {
+      "path": "qa/similarity/pt.json",
+      "sha256": "1b3c26835be74b2a1298815f1e44ac3c0e919f9811b86edd3062d4c3ea292bcd",
+      "bytes": 7581
+    },
+    {
+      "path": "qa/similarity/th.json",
+      "sha256": "7d397ca3503954fc207a391d22f20cddc15659e53ca8ac616fbab36724d2f9be",
+      "bytes": 7414
+    },
+    {
+      "path": "qa/similarity/vi.json",
+      "sha256": "89216f254fdafd98c83ede61ea8d6d20c33524ed8eaceaf561f167126440b163",
+      "bytes": 7332
+    },
+    {
+      "path": "qa/similarity/zh.json",
+      "sha256": "a0882c24340c24608b5450fa7db5c46cd5a2a3c51b55bb1d209ffd4621ad9687",
+      "bytes": 7565
+    },
+    {
+      "path": "qa/startup_and_baseline.json",
+      "sha256": "8f2ea429cecd0ca48da03cc09ca2bb78340a2bb84d16af19fe4cdccc7ddc8845",
+      "bytes": 1310
+    },
+    {
+      "path": "qa/structure_summary.json",
+      "sha256": "85d39fdaf20522b60f0dd2a701157f4899c874f1cf7c2a7127661ce9884f4a43",
+      "bytes": 254
+    },
+    {
+      "path": "qa/vi_th_four_guides_self_review.json",
+      "sha256": "b70b9dd01587a5aceb3ca276b0b9ca527eda1b13c62ff3f370af7522803c38cf",
+      "bytes": 23135
+    },
+    {
+      "path": "qa/vi_th_independent_review.json",
+      "sha256": "14cf13d5e9a80153cc42d3c430d9529c5912b5c6914398b61a0f0d0818fe74bd",
+      "bytes": 61616
+    },
+    {
+      "path": "qa/vi_th_resume_byd-seal-u-dm-i.json",
+      "sha256": "9f2b89a4403c1a525e56e6490538a2a2be7dd85169732d86720f6869bb97be12",
+      "bytes": 1961
+    },
+    {
+      "path": "qa/vi_th_resume_nio-et5.json",
+      "sha256": "6517dc70635b930927e913c8b95f21b096e2b005225431eb37c2687af799b013",
+      "bytes": 1985
+    },
+    {
+      "path": "qa/vi_th_resume_odometer-service-history-reconciliation.json",
+      "sha256": "3ab4fd4061b662e3461b1309640b2a594593ac277d44669005daa4dc15f9c34e",
+      "bytes": 2003
+    },
+    {
+      "path": "qa/vi_th_resume_smart-1.json",
+      "sha256": "a58d6d65247b9c1f6904353d50fe7b236e02662a6d2ee45af3599a08ced2ad5a",
+      "bytes": 1975
+    },
+    {
+      "path": "qa/vi_th_resume_vehicles_odometer_review.json",
+      "sha256": "dd818b1abad248fb8f5df36a2e9a740c614c8d83c8b80640211e3f7ee5a89a77",
+      "bytes": 9344
+    },
+    {
+      "path": "qa/vi_th_self_review.json",
+      "sha256": "fae126d630af69e9fe1b5cc948be7c9ff4dd7a1a96926cc2a7fce31b09f0a343",
+      "bytes": 4599
+    },
+    {
+      "path": "qa/zh_guides_independent_review.json",
+      "sha256": "e24c470c542e6c53741f17bbd7c682deed59658392ed9cf85c5b67a959af14bb",
+      "bytes": 847
+    },
+    {
+      "path": "qa/zh_vehicle_independent_review.json",
+      "sha256": "a4b9e60cff992f8ec5ce629f7e0f0722717cfb8517e37f31c83dd49784f3e1de",
+      "bytes": 1275
+    },
+    {
+      "path": "research/guides/diesel-dpf-scr-maintenance-evidence/fact-sheet.json",
+      "sha256": "09c2faf71989a495f5457d5d76298f7f875b8212fa113445c39bd1b649e1796b",
+      "bytes": 7701
+    },
+    {
+      "path": "research/guides/diesel-dpf-scr-maintenance-evidence/freeze.json",
+      "sha256": "82493961f4bb94021905752df072cabfef3345958499784ea88cd883cb6d1fed",
+      "bytes": 181
+    },
+    {
+      "path": "research/guides/diesel-dpf-scr-maintenance-evidence/source-log.json",
+      "sha256": "305bef56e11a49325ca40fc7bb3ebb23a5af78bb7b478e4ff4fc2e38a7ec19dd",
+      "bytes": 8280
+    },
+    {
+      "path": "research/guides/flood-damage-evidence-used-car-purchase/fact-sheet.json",
+      "sha256": "a7e12b53cca886bf302f717d40bf62435d3a7414880b2264cdbb83a7886bc9d2",
+      "bytes": 4978
+    },
+    {
+      "path": "research/guides/flood-damage-evidence-used-car-purchase/freeze.json",
+      "sha256": "d387e2993f901dd6bd7b70390b4df56192a54e91683be52916d6ab68a239740d",
+      "bytes": 308
+    },
+    {
+      "path": "research/guides/flood-damage-evidence-used-car-purchase/source-log.json",
+      "sha256": "d1be008c411ead80b6f54bf78bf34e36c442bfe88d8693f803388397f2af6a2f",
+      "bytes": 5702
+    },
+    {
+      "path": "research/guides/guides-handoff.json",
+      "sha256": "39332af6d25c8b3532c93dbd8f6491195f9c84f4b3c90e233d4a711fafe5357c",
+      "bytes": 4655
+    },
+    {
+      "path": "research/guides/odometer-service-history-reconciliation/fact-sheet.json",
+      "sha256": "f3df84ecc98bf19dbe1d96928ffd2b78522ad8ebc4e2ef02144c47ffb34a94cd",
+      "bytes": 4920
+    },
+    {
+      "path": "research/guides/odometer-service-history-reconciliation/freeze.json",
+      "sha256": "f69b98d33bfe995ae7d4b4c12728ffcfc112611941c836442676c99e0db20362",
+      "bytes": 308
+    },
+    {
+      "path": "research/guides/odometer-service-history-reconciliation/source-log.json",
+      "sha256": "e44aa79255056712dbcc1bbf69ddb32a67e84f10792e525a1b94c46362f9d331",
+      "bytes": 5575
+    },
+    {
+      "path": "research/guides/srs-airbag-repair-evidence/fact-sheet.json",
+      "sha256": "1424f7b82daafab496f81e88206170acb9a55a10a7e0144d7f03a219b35e9523",
+      "bytes": 4961
+    },
+    {
+      "path": "research/guides/srs-airbag-repair-evidence/freeze.json",
+      "sha256": "3c5812404b36cac5dfdf65f1f018551f3b36435dbe1818446a0afec5d1d8f9f3",
+      "bytes": 308
+    },
+    {
+      "path": "research/guides/srs-airbag-repair-evidence/source-log.json",
+      "sha256": "def6c2252a14d2359d2056ce45d1d3c25b4962138bd53184fd3583f6d98e2ace",
+      "bytes": 5717
+    },
+    {
+      "path": "research/guides/towbar-trailer-rating-evidence/fact-sheet.json",
+      "sha256": "3e55ab95961a60ac460280e0d93480507ce38ad7813d39433855439e1e02e982",
+      "bytes": 7453
+    },
+    {
+      "path": "research/guides/towbar-trailer-rating-evidence/source-log.json",
+      "sha256": "d6e22db95f1131fcc5bf0bbfe05ea1011dacbe30a3705eff6f0208c39fc33d6b",
+      "bytes": 8412
+    },
+    {
+      "path": "research/vehicles/byd-seal-u-dm-i/english_self_review.json",
+      "sha256": "da0e89d76afc9b99a0a06271c99ceb6b191884fa891ca37f30d1c61fb1454375",
+      "bytes": 931
+    },
+    {
+      "path": "research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "sha256": "b7484ede3128568f6fdd3e073c8881b6dc66e5fd48f62a032402b363398ca60b",
+      "bytes": 10258
+    },
+    {
+      "path": "research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "sha256": "050f4a14eba0643de98ecd365e097797f0d9ec88cb1659e8a44826958814a2c8",
+      "bytes": 3609
+    },
+    {
+      "path": "research/vehicles/nio-et5/english_self_review.json",
+      "sha256": "2f656ee9dd2dd3cacf308a5b842bf63f52a7226e8c49bca6d4e6a0fc9557a4ee",
+      "bytes": 931
+    },
+    {
+      "path": "research/vehicles/nio-et5/fact_sheet.json",
+      "sha256": "391fe5d2f351aaf58f7991f937a7252690804916336d1552d6e5f1bf8d459d00",
+      "bytes": 10438
+    },
+    {
+      "path": "research/vehicles/nio-et5/source_log.json",
+      "sha256": "6f646c9f499eb164a90d96f20d0d79c5e7f5e84d325b1bcdf77d3af35085a9f2",
+      "bytes": 4972
+    },
+    {
+      "path": "research/vehicles/smart-1/english_self_review.json",
+      "sha256": "b7a01f97526a7e3ae78e55fb52120ba9ac5d8c26ea75204e6970bdb90e6494c0",
+      "bytes": 931
+    },
+    {
+      "path": "research/vehicles/smart-1/fact_sheet.json",
+      "sha256": "9d3f4045c71a17dce1086e7c9e78dd121dc08f02252083b1512da2a59665a0d9",
+      "bytes": 10594
+    },
+    {
+      "path": "research/vehicles/smart-1/source_log.json",
+      "sha256": "670aa15eed77f729c2afca6eb3a08a116d91bece2e652935f1d75a6d6f5c41f9",
+      "bytes": 5382
+    },
+    {
+      "path": "research/vehicles/vehicle_english_handoff.json",
+      "sha256": "60bd5adde0aa0e89dce7b3a0fe32a86ace9733d8763d788a35d8a8bf78a1a123",
+      "bytes": 8286
+    },
+    {
+      "path": "research/vehicles/xpeng-g6/english_self_review.json",
+      "sha256": "b704fa4b44624b7c16072537340aa8eccb776c40b49554d9424b6f6a58b14150",
+      "bytes": 931
+    },
+    {
+      "path": "research/vehicles/xpeng-g6/fact_sheet.json",
+      "sha256": "2ca1d94ff38d9f1ed6de10ce162eacc5b03c19226c783419543166a977ac3300",
+      "bytes": 8367
+    },
+    {
+      "path": "research/vehicles/xpeng-g6/source_log.json",
+      "sha256": "10b56dbacf7e7e098988c74e6b8e4c077bf7694e7caf589253842f8acc7c4ce4",
+      "bytes": 2624
+    },
+    {
+      "path": "research/vehicles/xpeng-g9/english_self_review.json",
+      "sha256": "c35ba2eb851f2373f78a230ee8659bb8e37c03e38e7f68f6ef092c7ce4118555",
+      "bytes": 931
+    },
+    {
+      "path": "research/vehicles/xpeng-g9/fact_sheet.json",
+      "sha256": "15610ff7c7735de77bdf5d59bbabad525e3b4e88c63b8882c5bb887b496fe7c2",
+      "bytes": 9077
+    },
+    {
+      "path": "research/vehicles/xpeng-g9/source_log.json",
+      "sha256": "fd34be4ab4bf7e0f7e909e01cda81ef8bd863a9fbaafaca4e5ff45dc477570d2",
+      "bytes": 3524
+    },
+    {
+      "path": "writing_handoff.json",
+      "sha256": "6cdfb12ff824a01497ee166fa3a1f3483e5c414eb005d7ea64681f70185038fd",
+      "bytes": 5793
+    }
+  ]
+}

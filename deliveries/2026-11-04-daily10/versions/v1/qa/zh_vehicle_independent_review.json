@@ -1,0 +1,38 @@
+{
+  "method": "Independent English/Chinese paragraph, table, FAQ, source and SEO comparison reported by supervising reviewer on 2026-11-04 before workspace loss; reconstructed record, not a new review.",
+  "scope": [
+    "xpeng-g6",
+    "xpeng-g9",
+    "nio-et5",
+    "smart-1",
+    "byd-seal-u-dm-i"
+  ],
+  "changes": [
+    "Restored the reported G9 Chinese correction of Euro NCAP marginal chest protection from 一般 to 边缘."
+  ],
+  "files": [
+    {
+      "slug": "xpeng-g6",
+      "zh_sha256": "ec78c986789ece682c6a10aecd8d6f50054832a8c83103ec05f8457d0e62f061"
+    },
+    {
+      "slug": "xpeng-g9",
+      "zh_sha256": "b1fa8299a21ed03410f43abc42081392bf4ca5a82b25967e55689279ead70d16"
+    },
+    {
+      "slug": "nio-et5",
+      "zh_sha256": "116f471ccda0e65c64fd7651c254ccb559c3e1ae01a65d14eeebb6952e70e5a0"
+    },
+    {
+      "slug": "smart-1",
+      "zh_sha256": "0bbe4b201a369d2f435865dfeaad5b697459bd644317757fe6aca24af3eb967f"
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "zh_sha256": "d7d96abb86bd97faaeb319c8ac80b21590f763a112431ebf163bfc697dcf5365"
+    }
+  ],
+  "limits": "AI translation review only; no native-editor certification, complete source re-verification, or publication approval.",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

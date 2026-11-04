@@ -1,0 +1,307 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "title": "NIO ET5 Buying Guide: Battery Ownership and the 2023 German Sedan",
+  "content_type": "VEHICLES",
+  "search_intent": "Separate the sedan price from battery rights, then check the actual vehicle and destination support.",
+  "buyer_task": "Evaluate the exact supplied vehicle and decide which evidence is needed before a firm quotation.",
+  "fact_boundary": {
+    "brand_model": "nio-et5",
+    "original_sales_market": "Germany",
+    "model_year": "NOT_LOCKED_IN_FACT_SHEET; dated launch edition used instead",
+    "generation": "April 2023 German launch sedan",
+    "production_boundary": "April 2023 German launch sedan",
+    "body_style": "sedan",
+    "powertrain": "BEV",
+    "drivetrain": "Dual-motor",
+    "trim_variant": [
+      "Standard 75kWh",
+      "Long Range 100kWh"
+    ]
+  },
+  "facts": [
+    {
+      "fact_id": "F1",
+      "fact_name": "Battery",
+      "value": "75 / 100",
+      "unit": "kWh",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "Standard / Long Range",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F2",
+      "fact_name": "Maximum range",
+      "value": "456 / 590",
+      "unit": "km",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "Standard / Long Range",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F3",
+      "fact_name": "Motor output",
+      "value": 360,
+      "unit": "kW",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "launch sedan dual motor",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F4",
+      "fact_name": "Dimensions",
+      "value": "4790 × 1960 × 1499",
+      "unit": "mm",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "launch sedan",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F5",
+      "fact_name": "Wheelbase",
+      "value": 2888,
+      "unit": "mm",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "launch sedan",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F6",
+      "fact_name": "Cargo",
+      "value": 386,
+      "unit": "L",
+      "market": "Germany",
+      "model_year": "April2023 launch, published May2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "launch sedan",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.nio.com/de_DE/news/202305150001",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F7",
+      "fact_name": "Test range",
+      "value": 530,
+      "unit": "km",
+      "market": "Germany",
+      "model_year": "September2023 test",
+      "generation": "April 2023 German launch sedan",
+      "trim": "100kWh test car",
+      "powertrain": "BEV",
+      "test_cycle": "ADAC Ecotest",
+      "source_ids": [
+        "S3"
+      ],
+      "source_url": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/nio/et5/1generation/326778/",
+      "checked_date": "2026-11-04",
+      "confidence": "SINGLE_SOURCE",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F8",
+      "fact_name": "Test consumption",
+      "value": 19.7,
+      "unit": "kWh/100 km",
+      "market": "Germany",
+      "model_year": "September2023 test",
+      "generation": "April 2023 German launch sedan",
+      "trim": "100kWh test car",
+      "powertrain": "BEV",
+      "test_cycle": "ADAC Ecotest including charging losses",
+      "source_ids": [
+        "S3"
+      ],
+      "source_url": "https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/nio/et5/1generation/326778/",
+      "checked_date": "2026-11-04",
+      "confidence": "SINGLE_SOURCE",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F9",
+      "fact_name": "Safety findings",
+      "value": "Stable frontal-offset compartment; child-presence detection not credited",
+      "unit": "",
+      "market": "European test",
+      "model_year": "2023",
+      "generation": "April 2023 German launch sedan",
+      "trim": "75kWh LHD 19-inch",
+      "powertrain": "BEV",
+      "test_cycle": "Euro NCAP2023",
+      "source_ids": [
+        "S2"
+      ],
+      "source_url": "https://www.euroncap.com/assessments/nio/et5/1024/",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "European test"
+    },
+    {
+      "fact_id": "F10",
+      "fact_name": "ET5 warranty",
+      "value": "3 years or 90000 km, extension option; actual eligibility unconfirmed",
+      "unit": "",
+      "market": "Germany",
+      "model_year": "Current service page, checked 2026-11-04",
+      "generation": "April 2023 German launch sedan",
+      "trim": "German ET5 service terms",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S4"
+      ],
+      "source_url": "https://www.nio.com/de_DE/nio-service",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F11",
+      "fact_name": "BaaS",
+      "value": "Battery rental distinct; swap access linked to BaaS in German FAQ",
+      "unit": "",
+      "market": "Germany",
+      "model_year": "Current page checked 2026-11-04",
+      "generation": "April 2023 German launch sedan",
+      "trim": "German purchase information",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S5"
+      ],
+      "source_url": "https://www.nio.com/de_DE/get-your-nio/kauf",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    },
+    {
+      "fact_id": "F12",
+      "fact_name": "Certified programme",
+      "value": "Advertises pre-delivery maintenance, BaaS option, software updates",
+      "unit": "",
+      "market": "Germany",
+      "model_year": "Current page checked 2026-11-04",
+      "generation": "April 2023 German launch sedan",
+      "trim": "Programme only",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S6"
+      ],
+      "source_url": "https://www.nio.com/de_DE/nio-certified-gebrauchtwagen",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    }
+  ],
+  "facts_allowed_in_body": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9",
+    "F10",
+    "F11",
+    "F12"
+  ],
+  "facts_not_allowed_in_body": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "blocked_facts": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "conflict_list": [],
+  "time_sensitive_facts": [
+    "transaction-specific warranty, service and ownership arrangements"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL",
+  "writing_ai_ready": true,
+  "research_lock": false,
+  "fact_sheet_version": "recovery-1.0",
+  "source_log_version": "recovery-1.0",
+  "source_url_count": 6,
+  "source_org_count_normalized": 3,
+  "official_source_count": 5,
+  "source_scope_status": "MATCHED_PER_SOURCE",
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "freeze_timestamp": "2026-11-04T09:37:30.485405+00:00",
+  "image_status": "NO_ASSET; parent may create original diagram",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "source_count_gate": "CONDITIONAL",
+  "representative_countries": "N/A: reference vehicle market, not regional legal guidance",
+  "source_depth_gap": {
+    "additional_urls_needed": 0,
+    "additional_parent_organizations_needed": 1
+  },
+  "topic_duplicate": false,
+  "search_intent_duplicate": false,
+  "duplicate_evidence": "Same-day initial research inspected state/history and pending Nov2/3 branches; parent verified live sitemap absence. Recovery preserves selected topics."
+}

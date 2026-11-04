@@ -1,0 +1,22 @@
+{
+  "reconstruction": true,
+  "original_hash_comparison": "NOT_POSSIBLE",
+  "body_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+  "word_count": 1302,
+  "fact_sheet_sha256": "2ca1d94ff38d9f1ed6de10ce162eacc5b03c19226c783419543166a977ac3300",
+  "source_log_sha256": "10b56dbacf7e7e098988c74e6b8e4c077bf7694e7caf589253842f8acc7c4ce4",
+  "research_status": "RESEARCH_CONDITIONAL",
+  "writing_status": "LOCAL_EN_COMPLETE",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "independent_review": "PENDING",
+  "research_skill_version": "1.1",
+  "writing_skill_version": "1.3",
+  "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "skill_impact_check_done": true,
+  "skill_update_required": false,
+  "public_workflow_leakage": false,
+  "first_hand_claims": false,
+  "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+  "image_status": "PENDING"
+}

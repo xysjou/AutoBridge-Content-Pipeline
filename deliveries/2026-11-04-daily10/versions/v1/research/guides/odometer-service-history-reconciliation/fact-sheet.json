@@ -1,0 +1,117 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "title": "Reconcile Odometer and Service History Before Buying a Used Car",
+  "content_type": "PROCUREMENT_GUIDE",
+  "search_intent": "Determine whether claimed mileage is supported by dated records.",
+  "buyer_task": "Determine whether claimed mileage is supported by dated records.",
+  "primary_query": "odometer service history reconciliation",
+  "reference_market": "Bounded US/UK/OEM examples; international editorial purchasing method",
+  "fact_boundary": "Determine whether claimed mileage is supported by dated records.",
+  "facts": [
+    {
+      "fact_id": "F01",
+      "claim": "Compare the display with title, maintenance and inspection readings; digital alteration can be difficult to detect.",
+      "source_ids": [
+        "S01"
+      ],
+      "scope": "US consumer guidance",
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F02",
+      "claim": "MOT records include recorded test mileage and results within service coverage.",
+      "source_ids": [
+        "S02"
+      ],
+      "scope": "UK service coverage",
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F03",
+      "claim": "Correction route requires contemporaneous evidence for historic mileage; dashboard photo is not accepted proof.",
+      "source_ids": [
+        "S03"
+      ],
+      "scope": "Great Britain; Northern Ireland separate route",
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F04",
+      "claim": "Title/brand history and latest reported odometer are included; state practices differ; total loss need not mean physical destruction.",
+      "source_ids": [
+        "S04"
+      ],
+      "scope": "US NMVTIS",
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F05",
+      "claim": "NMVTIS does not contain repair history; other resources and independent inspection may be useful.",
+      "source_ids": [
+        "S05"
+      ],
+      "scope": "US NMVTIS",
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F06",
+      "claim": "History reports do not substitute for independent vehicle inspection.",
+      "source_ids": [
+        "S06"
+      ],
+      "scope": "US consumer advice",
+      "confidence": "VERIFIED"
+    }
+  ],
+  "facts_allowed_in_body": [
+    "Compare the display with title, maintenance and inspection readings; digital alteration can be difficult to detect.",
+    "MOT records include recorded test mileage and results within service coverage.",
+    "Correction route requires contemporaneous evidence for historic mileage; dashboard photo is not accepted proof.",
+    "Title/brand history and latest reported odometer are included; state practices differ; total loss need not mean physical destruction.",
+    "NMVTIS does not contain repair history; other resources and independent inspection may be useful.",
+    "History reports do not substitute for independent vehicle inspection.",
+    "Clearly identified original editorial document reconciliation and purchasing recommendations."
+  ],
+  "facts_not_allowed_in_body": [
+    "No individual vehicle has been inspected; no actual mileage, authenticity, safety or condition guarantee.",
+    "No universal legal, import or registration requirement or eligibility.",
+    "No universal diagnostic thresholds, repair sequences, costs or warranties.",
+    "No image asset rights established."
+  ],
+  "blocked_facts": [
+    "No individual vehicle has been inspected; no actual mileage, authenticity, safety or condition guarantee.",
+    "No universal legal, import or registration requirement or eligibility.",
+    "No universal diagnostic thresholds, repair sequences, costs or warranties.",
+    "No image asset rights established."
+  ],
+  "conflict_list": [],
+  "time_sensitive_facts": [],
+  "representative_countries": "N/A: not regional import guide",
+  "source_scope_status": "MATCHED",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "official_source_count": 6,
+  "research_status": "RESEARCH_PASS",
+  "writing_ai_ready": true,
+  "research_lock": false,
+  "fact_sheet_version": "recreated-1.0",
+  "source_log_version": "recreated-1.0",
+  "recreated_after_environment_loss": true,
+  "original_hash_not_claimed": true,
+  "frozen_at": "2026-11-04T09:33:26.261861+00:00",
+  "research_skill_version_used": "1.1",
+  "writing_skill_version_used": "1.3",
+  "skill_commit_sha_used": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "skill_impact_check_done": true,
+  "skill_update_required": false,
+  "dedup": {
+    "topic_duplicate": false,
+    "search_intent_duplicate": false,
+    "url_collision": false,
+    "cannibalization_risk": "LOW: narrow evidence decision distinct from broad inspection",
+    "evidence": "Earlier same-day state/history/Nov2-Nov3 branch checks plus parent 2120-URL live sitemap check retained in conversation"
+  },
+  "image_research_status": "PENDING_ASSET_AND_RIGHTS",
+  "human_reviewed": false,
+  "publish_approved": false
+}

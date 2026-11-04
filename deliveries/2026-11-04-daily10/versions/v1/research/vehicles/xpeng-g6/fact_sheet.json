@@ -1,0 +1,228 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "title": "XPENG G6: Choosing the 2024 German Launch Version",
+  "content_type": "VEHICLES",
+  "search_intent": "Choose the original German G6 by battery and driven wheels, then check the offered car against its documents.",
+  "buyer_task": "Evaluate the exact supplied vehicle and decide which evidence is needed before a firm quotation.",
+  "fact_boundary": {
+    "brand_model": "xpeng-g6",
+    "original_sales_market": "Germany",
+    "model_year": "NOT_LOCKED_IN_FACT_SHEET; dated launch edition used instead",
+    "generation": "September 2024 launch",
+    "production_boundary": "September 2024 launch",
+    "body_style": "SUV",
+    "powertrain": "BEV",
+    "drivetrain": "RWD / AWD",
+    "trim_variant": [
+      "RWD Standard Range",
+      "RWD Long Range",
+      "AWD Performance"
+    ]
+  },
+  "facts": [
+    {
+      "fact_id": "F1",
+      "fact_name": "Net battery capacity",
+      "value": "66 / 87.5 / 87.5",
+      "unit": "kWh",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range / Performance",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F2",
+      "fact_name": "Chemistry",
+      "value": "LFP / NCM / NCM",
+      "unit": "",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range / Performance",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F3",
+      "fact_name": "Output",
+      "value": "190 / 210 / 350",
+      "unit": "kW",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range / Performance",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F4",
+      "fact_name": "Range",
+      "value": "435 / 570 / 550",
+      "unit": "km",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range / Performance",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F5",
+      "fact_name": "Driven wheels",
+      "value": "RWD / RWD / AWD",
+      "unit": "",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range / Performance",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F6",
+      "fact_name": "Peak DC power",
+      "value": "215 / 280",
+      "unit": "kW",
+      "market": "Germany September 2024 launch",
+      "model_year": "September 2024 launch",
+      "generation": "September 2024 launch",
+      "trim": "Standard Range / Long Range",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany September 2024 launch"
+    },
+    {
+      "fact_id": "F7",
+      "fact_name": "Safety findings",
+      "value": "Stable frontal-offset compartment; maximum side barrier and pole points; weak rear-passenger chest full-width test",
+      "unit": "",
+      "market": "European assessment",
+      "model_year": "2024 assessment",
+      "generation": "September 2024 launch",
+      "trim": "Long Range LHD",
+      "powertrain": "BEV",
+      "test_cycle": "Euro NCAP 2024",
+      "source_ids": [
+        "S2"
+      ],
+      "source_url": "https://www.euroncap.com/assessments/xpeng/g6/1086/",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "European assessment"
+    },
+    {
+      "fact_id": "F8",
+      "fact_name": "Later revision",
+      "value": "Revised G6 announced July 2025",
+      "unit": "",
+      "market": "Germany revised model",
+      "model_year": "July 2025 announcement",
+      "generation": "September 2024 launch",
+      "trim": "later model only",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S3"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0197f5ede48c97e8d9368a02811e004b",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany revised model"
+    }
+  ],
+  "facts_allowed_in_body": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8"
+  ],
+  "facts_not_allowed_in_body": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "blocked_facts": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "conflict_list": [],
+  "time_sensitive_facts": [
+    "transaction-specific warranty, service and ownership arrangements"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL",
+  "writing_ai_ready": true,
+  "research_lock": false,
+  "fact_sheet_version": "recovery-1.0",
+  "source_log_version": "recovery-1.0",
+  "source_url_count": 3,
+  "source_org_count_normalized": 2,
+  "official_source_count": 3,
+  "source_scope_status": "MATCHED_PER_SOURCE",
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "freeze_timestamp": "2026-11-04T09:34:00.983768+00:00",
+  "image_status": "NO_ASSET; parent may create original diagram",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "source_count_gate": "CONDITIONAL",
+  "representative_countries": "N/A: reference vehicle market, not regional legal guidance",
+  "source_depth_gap": {
+    "additional_urls_needed": 3,
+    "additional_parent_organizations_needed": 2
+  },
+  "topic_duplicate": false,
+  "search_intent_duplicate": false,
+  "duplicate_evidence": "Same-day initial research inspected state/history and pending Nov2/3 branches; parent verified live sitemap absence. Recovery preserves selected topics."
+}

@@ -1,0 +1,180 @@
+{
+  "status": "LOCAL_RECONSTRUCTION_COMPLETE_FOR_ASSIGNED_FOUR_TOPICS",
+  "topics": [
+    "nio-et5",
+    "smart-1",
+    "byd-seal-u-dm-i",
+    "odometer-service-history-reconciliation"
+  ],
+  "languages": [
+    "vi",
+    "th"
+  ],
+  "full_bodies": 8,
+  "seo_files": 8,
+  "AI_LANGUAGE_QA": "PASS",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "independent_review": "PENDING_PARENT",
+  "reconstruction": true,
+  "original_byte_identity_claim": false,
+  "internal_links": "English live directory destinations preserved, no invented localized routes.",
+  "image_status": "Target-language metadata complete; image generation assigned to parent.",
+  "excluded_scope": "G6/G9 left unchanged; flood/SRS/towbar/diesel assigned to other workers and not touched.",
+  "review": [
+    {
+      "topic": "nio-et5",
+      "reconstruction": true,
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "review": "AI semantic comparison and structural checks, not independent review",
+      "locales": {
+        "vi": {
+          "body_sha256": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+          "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {
+            "4": 2,
+            "9": 2,
+            "11": 1,
+            "5": 1
+          },
+          "numeric_note": "Vietnamese numeric month names only",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "6f3c9259d50f505d3f52cda853427fa16dfef13c781a4908a195bc2d718b7111"
+        },
+        "th": {
+          "body_sha256": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+          "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {},
+          "numeric_note": "Exact numeric multiset",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "0bc59c505a68a7289a3a5305e2ca75b83f2825e1ce8bcf82357e989b8603c197"
+        }
+      },
+      "semantic_review": "Read and compared every paragraph in both full translations: German April 2023 sedan not Touring; May source publication; capacity not relabelled usable; battery ownership/BaaS separate contractual rights; ADAC Ecotest not WLTP or AutoBridge test; 75 kWh/19-inch/LHD safety-test identity and child-presence no-credit finding; ET5-specific warranty and transfer uncertainty.",
+      "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+    },
+    {
+      "topic": "smart-1",
+      "reconstruction": true,
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "review": "AI semantic comparison and structural checks, not independent review",
+      "locales": {
+        "vi": {
+          "body_sha256": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+          "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {
+            "4": 3,
+            "11": 1
+          },
+          "numeric_note": "Vietnamese numeric month names only",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "154a293c34fca89047a245ae72e32ba5a990c8e40088447e1c54669947ad2abe"
+        },
+        "th": {
+          "body_sha256": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+          "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {},
+          "numeric_note": "Exact numeric multiset",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "7df8b33499ee79e694701b08c755c8524f44077571a9451946cf64f8bbd1bb3a"
+        }
+      },
+      "semantic_review": "Read and compared every paragraph in both full translations: UK April 2023 historical launch; exact Pro+/Premium/current trim names; table dashes not absent-equipment claims; 22 kW three-phase AC not DC; miles WLTP unconverted; actual charging installation constraints; sliding-seat tradeoff; RAC attribution; Euro NCAP traffic-sign recognition versus speed-limiter distinction; MOT limitations.",
+      "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+    },
+    {
+      "topic": "byd-seal-u-dm-i",
+      "reconstruction": true,
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "review": "AI semantic comparison and structural checks, not independent review",
+      "locales": {
+        "vi": {
+          "body_sha256": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+          "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {
+            "1": 2,
+            "11": 1
+          },
+          "numeric_note": "Vietnamese numeric month names only",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "2c95e39201272f68135fc5a6b90d3f119eb3f2241724f63686a5c6318149ff24"
+        },
+        "th": {
+          "body_sha256": "53602b4c02d26c87871d4bfa7d7d158ac3c0849bbfc258c99f0a08555418954e",
+          "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {},
+          "numeric_note": "Exact numeric multiset",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "bc6d10a849a90734ba05b4a1699136df07f98fd83cdaf199eda43aad992f5f7a"
+        }
+      },
+      "semantic_review": "Read and compared every paragraph in both full translations: explicit Poland MY2026, three trims and correct battery/driven-wheel relationships; all technical table values and WLTP electric-only labels retained; total system power not sum; charging habits and capability limits; Electric Design original test versus PHEV applicability; destination eligibility not inferred.",
+      "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+    },
+    {
+      "topic": "odometer-service-history-reconciliation",
+      "reconstruction": true,
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "review": "AI semantic comparison and structural checks, not independent review",
+      "locales": {
+        "vi": {
+          "body_sha256": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+          "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {
+            "11": 1
+          },
+          "numeric_note": "Vietnamese numeric month names only",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "77f62a6591b445f4cab67bfc15d89daf913ec4783cbef3039e59e17688f703b4"
+        },
+        "th": {
+          "body_sha256": "c0aaa01414c9f4001626db3a0888a9c71b20b9a27ebb9de50a1b8e6dfd3372a3",
+          "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+          "complete_paragraph_translation": true,
+          "paragraph_heading_table_counts_match": true,
+          "urls_match": true,
+          "source_numeric_tokens_preserved": true,
+          "additional_numeric_tokens": {},
+          "numeric_note": "Exact numeric multiset",
+          "AI_LANGUAGE_QA": "PASS",
+          "seo_sha256": "337d0c36642815455a4a1948e49ed7d825f7f555069627ca875dda08078bf412"
+        }
+      },
+      "semantic_review": "Read and compared every paragraph in both full translations: event versus issue dates; original readings/units preserved; discrepancy not fraud; all evidence-table limitations; MOT contemporary evidence and Northern Ireland separate route; NMVTIS title/brand/reading not repair history; limited cross-border coverage; independent inspection limits; three recommended not legal/certified purchasing outcomes.",
+      "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+    }
+  ],
+  "blockers": []
+}

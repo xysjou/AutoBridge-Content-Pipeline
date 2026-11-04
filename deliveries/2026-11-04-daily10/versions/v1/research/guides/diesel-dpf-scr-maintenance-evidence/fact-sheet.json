@@ -1,0 +1,137 @@
+{
+  "ARTICLE_ID": "AB-261104-D10-G05",
+  "TITLE": "Used Diesel Fleet Vehicles: Check DPF and SCR Maintenance Evidence",
+  "CONTENT_TYPE": "PROCUREMENT_GUIDE",
+  "PRIMARY_QUERY": "used diesel truck DPF SCR maintenance records before purchase",
+  "SECONDARY_QUERY": [
+    "DPF cleaning versus regeneration evidence",
+    "used fleet DEF maintenance history"
+  ],
+  "SEARCH_INTENT": "Assess aftertreatment maintenance evidence before accepting a used diesel fleet vehicle",
+  "BUYER_TASK": "Decide whether records support purchase, require specialist inspection, or justify holding the offer",
+  "TARGET_BUYER": "Overseas fleet and commercial-vehicle buyers",
+  "WHY_THIS_TOPIC": "Specific aftertreatment evidence task, distinct from broad fleet procurement and general used-vehicle inspection",
+  "EXPECTED_DECISION": "Accept evidence, request targeted investigation, or hold pending diagnosis",
+  "REFERENCE_MARKET": "Manufacturer and US technical examples; not destination legal advice",
+  "TIME_SENSITIVE": false,
+  "FACT_BOUNDARY": "Technical explanation and explicitly editorial evidence requests; no universal numeric criteria",
+  "FACTS": [
+    {
+      "FACT_ID": "F01",
+      "claim": "Ash cannot be removed by regeneration; excess oil consumption can increase ash loading; manufacturer-approved cleaning and retained service records matter.",
+      "source_ids": [
+        "S01"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "California retrofit truck DPF maintenance guidance",
+      "checked_date": "2026-11-04"
+    },
+    {
+      "FACT_ID": "F02",
+      "claim": "Backpressure varies with particulate accumulation and regeneration; regeneration frequency depends on duty cycle, filter technology and other factors; manufacturer device-specific instructions govern maintenance.",
+      "source_ids": [
+        "S02"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "US historical retrofit DPF technical guidance, not current legal requirements",
+      "checked_date": "2026-11-04"
+    },
+    {
+      "FACT_ID": "F03",
+      "claim": "Cummins describes a restriction test after stationary regeneration when a DPF fault code is registered; no universal numerical threshold is supplied.",
+      "source_ids": [
+        "S03"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "Cummins North American product and technical guidance",
+      "checked_date": "2026-11-04"
+    },
+    {
+      "FACT_ID": "F04",
+      "claim": "Particle contamination can damage DEF pumps and dosers; chemical contamination can damage SCR catalyst; concentration changes and dilution can impair aftertreatment performance.",
+      "source_ids": [
+        "S04"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "Cummins SCR and DEF technical guidance",
+      "checked_date": "2026-11-04"
+    },
+    {
+      "FACT_ID": "F05",
+      "claim": "API recommends packaging and expiry checks, appropriate storage and dedicated dispensing equipment instead of equipment used for other fluids.",
+      "source_ids": [
+        "S05"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "API DEF purchasing and handling recommendations",
+      "checked_date": "2026-11-04"
+    },
+    {
+      "FACT_ID": "F06",
+      "claim": "Published preventive maintenance includes DPF cleaning, DEF tank/filter work and dosage-valve cleaning; adaptive maintenance considers transport cycle and idle time. This is not universal coverage or a universal interval.",
+      "source_ids": [
+        "S06"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "Volvo Trucks USA particular service offering",
+      "checked_date": "2026-11-04"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Ash cannot be removed by regeneration; excess oil consumption can increase ash loading; manufacturer-approved cleaning and retained service records matter.",
+    "Backpressure varies with particulate accumulation and regeneration; regeneration frequency depends on duty cycle, filter technology and other factors; manufacturer device-specific instructions govern maintenance.",
+    "Cummins describes a restriction test after stationary regeneration when a DPF fault code is registered; no universal numerical threshold is supplied.",
+    "Particle contamination can damage DEF pumps and dosers; chemical contamination can damage SCR catalyst; concentration changes and dilution can impair aftertreatment performance.",
+    "API recommends packaging and expiry checks, appropriate storage and dedicated dispensing equipment instead of equipment used for other fluids.",
+    "Published preventive maintenance includes DPF cleaning, DEF tank/filter work and dosage-valve cleaning; adaptive maintenance considers transport cycle and idle time. This is not universal coverage or a universal interval.",
+    "Editorial recommendations: identify vehicle, engine and aftertreatment; reconcile dated records; request qualified inspection and vehicle-linked diagnostic interpretation; assess duty cycle and hold unexplained problems."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No universal DPF pressure, soot percentage, regeneration time, service interval or diagnostic acceptance threshold.",
+    "No claim every diesel uses both DPF and SCR.",
+    "No import eligibility, emissions certification, current statutory obligation or tampering-law conclusion.",
+    "No guaranteed filter life, repair cost, warranty coverage or fuel-consumption improvement.",
+    "No forced-regeneration instructions for unidentified vehicles.",
+    "No transfer of Volvo contract coverage or Cummins diagnostic sequence to unrelated vehicles."
+  ],
+  "BLOCKED_FACTS": [
+    "No universal DPF pressure, soot percentage, regeneration time, service interval or diagnostic acceptance threshold.",
+    "No claim every diesel uses both DPF and SCR.",
+    "No import eligibility, emissions certification, current statutory obligation or tampering-law conclusion.",
+    "No guaranteed filter life, repair cost, warranty coverage or fuel-consumption improvement.",
+    "No forced-regeneration instructions for unidentified vehicles.",
+    "No transfer of Volvo contract coverage or Cummins diagnostic sequence to unrelated vehicles."
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [],
+  "REPRESENTATIVE_COUNTRIES": "N/A: not regional",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 5,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_COUNT_GATE": "PASS",
+  "SOURCE_SCOPE_STATUS": "MATCHED_WITH_EXPLICIT_APPLICATION_LIMITS",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "IMAGE_RESEARCH_STATUS": "PENDING_ORIGINAL_DIAGRAM_GENERATION",
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0-recovered",
+  "SOURCE_LOG_VERSION": "1.0-recovered",
+  "FROZEN_AT": "2026-11-04T09:33:19.544460+00:00",
+  "RESEARCH_START_REPO_SHA": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "RECOVERY_NOTE": "Recreated from exact source findings retained in conversation after environment loss; new artifact hashes, not claimed identical to lost originals.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW: specific aftertreatment maintenance evidence task",
+    "CHECKED": "Coordinating worker checked historical state and Nov2/3 branches; parent confirmed 2120 sitemap URLs without focused collision."
+  }
+}

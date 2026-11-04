@@ -1,0 +1,143 @@
+{
+  "batch": "2026-11-04-daily10",
+  "recreated_after_environment_loss": true,
+  "original_hash_not_claimed": true,
+  "articles": [
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "word_count_excluding_urls": 1206,
+      "body_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "seo_sha256": "0b6afed7ccd971d43225fb423c7dc4bc9b1d4664b6e6d55d4d8f4661ef3cfcac",
+      "research_status": "RESEARCH_PASS",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "word_count_excluding_urls": 1273,
+      "body_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "seo_sha256": "6d0f85e06dc27c74322b28ff1865bbb1681bb92db072a4ba211058e194668429",
+      "research_status": "RESEARCH_PASS",
+      "source_url_count": 6,
+      "source_org_count_normalized": 5
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "word_count_excluding_urls": 1276,
+      "body_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "seo_sha256": "7f0d52d5eeb559546b2d9f37908130602a381ff8bccdeae0621fe749bbd29997",
+      "research_status": "RESEARCH_PASS",
+      "source_url_count": 6,
+      "source_org_count_normalized": 5
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "word_count_excluding_urls": 1338,
+      "body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "seo_sha256": "d42a61f3d6c95ad53d3f2ec8ba410022a90841161f900e6e590e92871dd398a9",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "word_count_excluding_urls": 1449,
+      "body_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "seo_sha256": "ab26492f2db46b9e6a4bea5714984377958cbb4ad46eff7ec1af16f91a61ae52",
+      "research_status": "RESEARCH_PASS",
+      "source_url_count": 6,
+      "source_org_count_normalized": 5
+    }
+  ],
+  "similarity": [
+    {
+      "articles": [
+        "odometer-service-history-reconciliation",
+        "flood-damage-evidence-used-car-purchase"
+      ],
+      "jaccard_5gram": 0.002434077079107505
+    },
+    {
+      "articles": [
+        "odometer-service-history-reconciliation",
+        "srs-airbag-repair-evidence"
+      ],
+      "jaccard_5gram": 0.0024311183144246355
+    },
+    {
+      "articles": [
+        "odometer-service-history-reconciliation",
+        "towbar-trailer-rating-evidence"
+      ],
+      "jaccard_5gram": 0.0003944773175542406
+    },
+    {
+      "articles": [
+        "odometer-service-history-reconciliation",
+        "diesel-dpf-scr-maintenance-evidence"
+      ],
+      "jaccard_5gram": 0.0007561436672967864
+    },
+    {
+      "articles": [
+        "flood-damage-evidence-used-car-purchase",
+        "srs-airbag-repair-evidence"
+      ],
+      "jaccard_5gram": 0.0031583103039873666
+    },
+    {
+      "articles": [
+        "flood-damage-evidence-used-car-purchase",
+        "towbar-trailer-rating-evidence"
+      ],
+      "jaccard_5gram": 0.001153846153846154
+    },
+    {
+      "articles": [
+        "flood-damage-evidence-used-car-purchase",
+        "diesel-dpf-scr-maintenance-evidence"
+      ],
+      "jaccard_5gram": 0.0018456995201181247
+    },
+    {
+      "articles": [
+        "srs-airbag-repair-evidence",
+        "towbar-trailer-rating-evidence"
+      ],
+      "jaccard_5gram": 0.00038387715930902113
+    },
+    {
+      "articles": [
+        "srs-airbag-repair-evidence",
+        "diesel-dpf-scr-maintenance-evidence"
+      ],
+      "jaccard_5gram": 0.001105379513633014
+    },
+    {
+      "articles": [
+        "towbar-trailer-rating-evidence",
+        "diesel-dpf-scr-maintenance-evidence"
+      ],
+      "jaccard_5gram": 0.001080691642651297
+    }
+  ],
+  "max_jaccard_5gram": 0.0031583103039873666,
+  "research_pass_count": 4,
+  "research_conditional_count": 1,
+  "research_fail_count": 0,
+  "writing_ready_count": 5,
+  "unresolved": [
+    "G04 standards edition and exact-vehicle/destination approval not established; scoped conditional claims retained",
+    "Images pending parent generation",
+    "Translations coordinated by parent",
+    "Independent review pending",
+    "Remote persistence by parent not asserted here"
+  ],
+  "publish_approved": false,
+  "human_reviewed": false,
+  "skill_impact_check_done": true,
+  "skill_update_required": false,
+  "research_skill_version_used": "1.1",
+  "writing_skill_version_used": "1.3",
+  "skill_commit_sha_used": "012e444fa71f5ba136aaae7d1be230c6f8dba90e"
+}
