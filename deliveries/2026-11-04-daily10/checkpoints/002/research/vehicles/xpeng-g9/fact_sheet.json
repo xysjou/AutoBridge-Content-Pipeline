@@ -1,0 +1,237 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "title": "XPENG G9: Assessing the 2023 European Long Range SUV",
+  "content_type": "VEHICLES",
+  "search_intent": "Evaluate route energy, charging evidence and aftersales support before selecting the early G9 Long Range.",
+  "buyer_task": "Evaluate the exact supplied vehicle and decide which evidence is needed before a firm quotation.",
+  "fact_boundary": {
+    "brand_model": "xpeng-g9",
+    "original_sales_market": "Denmark, Norway, Netherlands, Sweden",
+    "model_year": "NOT_LOCKED_IN_FACT_SHEET; dated launch edition used instead",
+    "generation": "February 2023 European launch",
+    "production_boundary": "February 2023 European launch",
+    "body_style": "SUV",
+    "powertrain": "BEV",
+    "drivetrain": "RWD",
+    "trim_variant": [
+      "RWD Long Range"
+    ]
+  },
+  "facts": [
+    {
+      "fact_id": "F1",
+      "fact_name": "Launch markets",
+      "value": "Denmark, Norway, Netherlands, Sweden",
+      "unit": "",
+      "market": "Denmark Norway Netherlands Sweden launch",
+      "model_year": "February 2023 launch",
+      "generation": "February 2023 European launch",
+      "trim": "RWD Long Range",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Denmark Norway Netherlands Sweden launch"
+    },
+    {
+      "fact_id": "F2",
+      "fact_name": "Battery capacity",
+      "value": 98,
+      "unit": "kWh",
+      "market": "Denmark Norway Netherlands Sweden launch",
+      "model_year": "February 2023 launch",
+      "generation": "February 2023 European launch",
+      "trim": "launch 98kWh battery",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Denmark Norway Netherlands Sweden launch"
+    },
+    {
+      "fact_id": "F3",
+      "fact_name": "Range",
+      "value": 570,
+      "unit": "km",
+      "market": "Denmark Norway Netherlands Sweden launch",
+      "model_year": "February 2023 launch",
+      "generation": "February 2023 European launch",
+      "trim": "RWD Long Range",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Denmark Norway Netherlands Sweden launch"
+    },
+    {
+      "fact_id": "F4",
+      "fact_name": "Platform",
+      "value": 800,
+      "unit": "V",
+      "market": "Denmark Norway Netherlands Sweden launch",
+      "model_year": "February 2023 launch",
+      "generation": "February 2023 European launch",
+      "trim": "launch G9",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Denmark Norway Netherlands Sweden launch"
+    },
+    {
+      "fact_id": "F5",
+      "fact_name": "Charging",
+      "value": "10–80% in 20 minutes",
+      "unit": "",
+      "market": "Denmark Norway Netherlands Sweden launch",
+      "model_year": "February 2023 launch",
+      "generation": "February 2023 European launch",
+      "trim": "launch 98kWh battery",
+      "powertrain": "BEV",
+      "test_cycle": "OEM claim conditions apply",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Denmark Norway Netherlands Sweden launch"
+    },
+    {
+      "fact_id": "F6",
+      "fact_name": "Highway consumption",
+      "value": 29,
+      "unit": "kWh/100 km",
+      "market": "Green NCAP test scope",
+      "model_year": "2023 assessment",
+      "generation": "February 2023 European launch",
+      "trim": "E1L RWD test car",
+      "powertrain": "BEV",
+      "test_cycle": "Green NCAP highway",
+      "source_ids": [
+        "S3"
+      ],
+      "source_url": "https://news.euroncap.com/greenncap/choose-a-car/xpeng-g9---green-ncap-2023-results---5-stars/s/73116817-1887-4fda-91a5-065a2dd3bd29",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Green NCAP test scope"
+    },
+    {
+      "fact_id": "F7",
+      "fact_name": "Cold ambient consumption",
+      "value": 32.4,
+      "unit": "kWh/100 km",
+      "market": "Green NCAP test scope",
+      "model_year": "2023 assessment",
+      "generation": "February 2023 European launch",
+      "trim": "E1L RWD test car",
+      "powertrain": "BEV",
+      "test_cycle": "Green NCAP at -7°C",
+      "source_ids": [
+        "S3"
+      ],
+      "source_url": "https://news.euroncap.com/greenncap/choose-a-car/xpeng-g9---green-ncap-2023-results---5-stars/s/73116817-1887-4fda-91a5-065a2dd3bd29",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Green NCAP test scope"
+    },
+    {
+      "fact_id": "F8",
+      "fact_name": "Safety results",
+      "value": "Good side barrier protection; poor front-driver pelvis and marginal rear-passenger chest full-width test",
+      "unit": "",
+      "market": "European test scope",
+      "model_year": "2023 assessment",
+      "generation": "February 2023 European launch",
+      "trim": "tested configuration",
+      "powertrain": "BEV",
+      "test_cycle": "Euro NCAP 2023",
+      "source_ids": [
+        "S2"
+      ],
+      "source_url": "https://www.euroncap.com/assessments/xpeng/g9/1048/",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "European test scope"
+    },
+    {
+      "fact_id": "F9",
+      "fact_name": "Revised model",
+      "value": "Announced July 2025",
+      "unit": "",
+      "market": "Germany",
+      "model_year": "July 2025 announcement",
+      "generation": "February 2023 European launch",
+      "trim": "later G9",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S4"
+      ],
+      "source_url": "https://www.xpeng.com/de/news/0197f5ede48c97e8d9368a02811e004b",
+      "checked_date": "2026-11-04",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Germany"
+    }
+  ],
+  "facts_allowed_in_body": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9"
+  ],
+  "facts_not_allowed_in_body": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "blocked_facts": [
+    "Current prices, availability, export eligibility, destination registration and specific vehicle condition not established.",
+    "No global specification or model alias inferred.",
+    "No warranty/BaaS transfer entitlement inferred for a specific sale.",
+    "Only directly documented values allowed; no later-generation or other-market numerical substitution.",
+    "Source depth remains conditional wherever fewer than six URLs or four parent organizations."
+  ],
+  "conflict_list": [],
+  "time_sensitive_facts": [
+    "transaction-specific warranty, service and ownership arrangements"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL",
+  "writing_ai_ready": true,
+  "research_lock": false,
+  "fact_sheet_version": "recovery-1.0",
+  "source_log_version": "recovery-1.0",
+  "source_url_count": 4,
+  "source_org_count_normalized": 2,
+  "official_source_count": 4,
+  "source_scope_status": "MATCHED_PER_SOURCE",
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "freeze_timestamp": "2026-11-04T09:35:10.541035+00:00",
+  "image_status": "NO_ASSET; parent may create original diagram",
+  "human_reviewed": false,
+  "publish_approved": false
+}

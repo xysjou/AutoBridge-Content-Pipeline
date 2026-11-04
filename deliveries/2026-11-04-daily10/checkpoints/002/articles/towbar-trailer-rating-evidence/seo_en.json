@@ -1,0 +1,47 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "en",
+  "locale": "en",
+  "title": "Towbar and Trailer Ratings: Buyer Evidence Checklist",
+  "meta_description": "Check vehicle towing limits, towbar identity, loaded weights and trailer electrics before accepting an imported car’s towing claim.",
+  "h1": "Towbar and Trailer Ratings: Evidence to Request Before Buying",
+  "card_summary": "A focused purchasing method for reconciling exact-vehicle limits with fitted towing hardware, loaded trailer plans and electrical-function evidence.",
+  "suggested_url": "/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "procurement guide library"
+    }
+  ],
+  "image": {
+    "alt": "Three cards showing vehicle limits, towbar identity and trailer electrical checks.",
+    "caption": "Compare vehicle limits, towing hardware and trailer connections as separate purchase checks.",
+    "labels": [
+      "Exact-vehicle weight limits",
+      "Towbar identity and fitment",
+      "Trailer electrics and brakes"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1342,
+  "body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3"
+}

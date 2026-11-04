@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "en",
+  "title": "Airbag Repair Evidence: What Used-Car Buyers Should Request",
+  "h1": "Airbag Repair Evidence: What Used-Car Buyers Should Request",
+  "meta_description": "Request airbag repair records, parts provenance and qualified inspection before buying a repaired car. A dashboard photo is insufficient.",
+  "card_summary": "Trace restraint repairs from deployment history to replacement parts and qualified inspection.",
+  "suggested_url": "/en/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge procurement guides"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle catalogue"
+    }
+  ],
+  "image": {
+    "alt": "Three-card diagram showing deployment history, replacement parts, qualified inspection.",
+    "caption": "Recommended evidence checks for a used-vehicle purchase.",
+    "labels": [
+      "Deployment history",
+      "Replacement parts",
+      "Qualified inspection"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

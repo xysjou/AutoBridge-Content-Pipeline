@@ -1,0 +1,154 @@
+{
+  "ARTICLE_ID": "AB-261104-D10-G04",
+  "TITLE": "Towbar and Trailer Ratings: Evidence to Request Before Buying",
+  "CONTENT_TYPE": "PROCUREMENT_GUIDE",
+  "PRIMARY_QUERY": "towbar towing capacity evidence imported vehicle",
+  "SECONDARY_QUERY": [
+    "VIN towing rating",
+    "towbar fitment evidence",
+    "trailer electrical compatibility"
+  ],
+  "SEARCH_INTENT": "Decide whether the offered vehicle and fitted towing hardware can support a buyer-defined trailer task.",
+  "BUYER_TASK": "Compare exact-vehicle capacity evidence, hardware identity, loaded-mass plan and installed electrical functionality before accepting a towing claim.",
+  "TARGET_BUYER": "Overseas buyers of cars, SUVs and light pickups intended to tow a trailer",
+  "WHY_THIS_TOPIC": "Distinct installed-system acceptance task rather than broad pickup selection or general VIN inspection.",
+  "EXPECTED_DECISION": "Accept only documented configuration; request missing proof or reject towing premium.",
+  "REFERENCE_MARKET": "UK and NSW guidance examples; US Ford and UK Volvo OEM evidence only",
+  "TIME_SENSITIVE": true,
+  "FACT_BOUNDARY": "No numerical towing rating assigned to any offered vehicle. No global legal requirement or import approval conclusion.",
+  "FACTS": [
+    {
+      "fact_id": "F1",
+      "claim": "Handbook/specification towing limit; train weight includes loaded car and trailer; missing train weight is a stop signal under this guidance.",
+      "source_ids": [
+        "S1"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "UK car towing guidance"
+    },
+    {
+      "fact_id": "F2",
+      "claim": "Vehicle plate distinguishes vehicle, combined and axle limits; coupling, cable and lighting checks.",
+      "source_ids": [
+        "S2"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "England, Scotland and Wales; cars"
+    },
+    {
+      "fact_id": "F3",
+      "claim": "Towbar approval label identifies approval number and vehicle applicability; first-use-before-1-August-1998 exception.",
+      "source_ids": [
+        "S3"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "UK car towing guidance"
+    },
+    {
+      "fact_id": "F4",
+      "claim": "VIN-based towing calculator and vehicle guides; distinction between vehicle, combination, axle and tongue ratings.",
+      "source_ids": [
+        "S4"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "US Ford information; not a rating for an export vehicle"
+    },
+    {
+      "fact_id": "F5",
+      "claim": "Towbar can have a higher rating than vehicle; national restrictions can be lower; retrofit may need software update; trailer lighting test described.",
+      "source_ids": [
+        "S5"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "UK XC90 2026, 25w17 support version"
+    },
+    {
+      "fact_id": "F6",
+      "claim": "Towbar/coupling suitable type and capacity, electrical sockets, brake connections for power/electric brakes; manufacturer/part-number and capacity marking guidance.",
+      "source_ids": [
+        "S6"
+      ],
+      "confidence": "VERIFIED",
+      "scope": "New South Wales roads; relevant light vehicle procurement examples only"
+    },
+    {
+      "fact_id": "E1",
+      "claim": "The document checklist, acceptance tests, commercial hold points and evidence comparison method are editorial recommendations, not mandatory government forms.",
+      "source_ids": [],
+      "confidence": "N/A_EDITORIAL_METHOD",
+      "scope": "Procurement method"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Handbook/specification towing limit; train weight includes loaded car and trailer; missing train weight is a stop signal under this guidance.",
+    "Vehicle plate distinguishes vehicle, combined and axle limits; coupling, cable and lighting checks.",
+    "Towbar approval label identifies approval number and vehicle applicability; first-use-before-1-August-1998 exception.",
+    "VIN-based towing calculator and vehicle guides; distinction between vehicle, combination, axle and tongue ratings.",
+    "Towbar can have a higher rating than vehicle; national restrictions can be lower; retrofit may need software update; trailer lighting test described.",
+    "Towbar/coupling suitable type and capacity, electrical sockets, brake connections for power/electric brakes; manufacturer/part-number and capacity marking guidance.",
+    "The document checklist, acceptance tests, commercial hold points and evidence comparison method are editorial recommendations, not mandatory government forms."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Universal towing rating by badge or body shape",
+    "Towbar rating raises vehicle rating",
+    "Plug adapter proves lighting/brake/software compatibility",
+    "UK or NSW rules apply globally",
+    "Specific UN/EU/Australian standard amendment or certification validity not researched"
+  ],
+  "BLOCKED_FACTS": [
+    "Exact offered VIN capacity and destination approval require transaction-specific evidence; this guide does not certify either.",
+    "Underlying approval-standard current editions/amendments not independently locked; no standards-level compliance claim allowed."
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination towing, equipment and licensing requirements must be reconfirmed for intended use; named public guidance checked 2026-11-04."
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A; not a regional legal guide",
+  "SOURCE_SCOPE_STATUS": "MATCHED_FOR_NAMED_EXAMPLES",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "IMAGE_RESEARCH_STATUS": "PENDING_PARENT_DIAGRAM",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0-restored",
+  "SOURCE_LOG_VERSION": "1.0-restored",
+  "FROZEN_AT": "2026-11-04T09:33:16.651295+00:00",
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "WRITING_SKILL_VERSION_USED": "1.3",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "RESEARCH_START_REPO_SHA": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_COUNT_GATE": true,
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "recovery_note": "Recreated from retained conversation after workspace loss. Original hashes not preserved.",
+  "dedup": {
+    "topic_duplicate": false,
+    "search_intent_duplicate": false,
+    "url_collision": false,
+    "cannibalization_risk": "LOW; narrower than existing pickup-export pages",
+    "checked": [
+      "state/guide_database.json",
+      "state/published_urls.json",
+      "historical repository paths",
+      "Nov2/Nov3 refs per parent"
+    ]
+  },
+  "MODEL_YEAR": "N/A procurement guide, no rated model specification",
+  "GENERATION": "N/A procurement guide, no rated model specification",
+  "BODY_STYLE": "N/A procurement guide, no rated model specification",
+  "POWERTRAIN": "N/A procurement guide, no rated model specification",
+  "DRIVETRAIN": "N/A procurement guide, no rated model specification",
+  "ORIGINAL_SALES_MARKET": "N/A procurement guide, no rated model specification",
+  "PRODUCTION_BOUNDARY": "N/A procurement guide, no rated model specification",
+  "TRIM_VARIANT": "N/A procurement guide, no rated model specification"
+}

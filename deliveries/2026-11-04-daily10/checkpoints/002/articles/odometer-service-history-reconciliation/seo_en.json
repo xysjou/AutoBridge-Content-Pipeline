@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "en",
+  "title": "Reconcile Odometer and Service History Before Buying a Used Car",
+  "h1": "Reconcile Odometer and Service History Before Buying a Used Car",
+  "meta_description": "Check mileage against service, inspection and history records. Identify unexplained discrepancies before accepting a used vehicle for export.",
+  "card_summary": "A dated mileage comparison distinguishes supported readings, record errors and gaps before an overseas used-car purchase.",
+  "suggested_url": "/en/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge procurement guides"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle catalogue"
+    }
+  ],
+  "image": {
+    "alt": "Three-card diagram showing dated readings, record discrepancies, purchase decision.",
+    "caption": "Recommended evidence checks for a used-vehicle purchase.",
+    "labels": [
+      "Dated readings",
+      "Record discrepancies",
+      "Purchase decision"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

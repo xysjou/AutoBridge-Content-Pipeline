@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "fr",
+  "title": "Rapprocher kilométrage et historique d’entretien avant d’acheter une voiture d’occasion",
+  "h1": "Rapprocher kilométrage et historique d’entretien avant d’acheter une voiture d’occasion",
+  "meta_description": "Comparez le kilométrage aux documents d’entretien, de contrôle et d’historique. Repérez les écarts inexpliqués avant un achat pour exportation.",
+  "card_summary": "Une comparaison datée aide à distinguer les relevés étayés, les erreurs et les lacunes avant l’achat d’une voiture d’occasion à l’étranger.",
+  "suggested_url": "/fr/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’achat AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Catalogue de véhicules"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes présentant les relevés datés, les écarts entre documents et la décision d’achat.",
+    "caption": "Vérifications documentaires recommandées pour l’achat d’un véhicule d’occasion.",
+    "labels": [
+      "Relevés datés",
+      "Écarts entre documents",
+      "Décision d’achat"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

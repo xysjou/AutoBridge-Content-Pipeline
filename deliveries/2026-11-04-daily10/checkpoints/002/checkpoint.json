@@ -1,0 +1,236 @@
+{
+  "checkpoint": "002",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/qa_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/qa_en.json",
+      "sha256": "2e562e25b023a6382a6a18a0d91586e53e329da833b2a76526ac850dad5e6219",
+      "bytes": 503
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_en.json",
+      "sha256": "0b6afed7ccd971d43225fb423c7dc4bc9b1d4664b6e6d55d4d8f4661ef3cfcac",
+      "bytes": 1410
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/en.md",
+      "sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "bytes": 8752
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/odometer-service-history-reconciliation/freeze.json",
+      "original_path": "daily/2026-11-04/research/guides/odometer-service-history-reconciliation/freeze.json",
+      "sha256": "f69b98d33bfe995ae7d4b4c12728ffcfc112611941c836442676c99e0db20362",
+      "bytes": 308
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/odometer-service-history-reconciliation/source-log.json",
+      "original_path": "daily/2026-11-04/research/guides/odometer-service-history-reconciliation/source-log.json",
+      "sha256": "e44aa79255056712dbcc1bbf69ddb32a67e84f10792e525a1b94c46362f9d331",
+      "bytes": 5575
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/odometer-service-history-reconciliation/fact-sheet.json",
+      "original_path": "daily/2026-11-04/research/guides/odometer-service-history-reconciliation/fact-sheet.json",
+      "sha256": "f3df84ecc98bf19dbe1d96928ffd2b78522ad8ebc4e2ef02144c47ffb34a94cd",
+      "bytes": 4920
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/flood-damage-evidence-used-car-purchase/qa_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/qa_en.json",
+      "sha256": "ac451487cc46ecdfd4e94c76c0b255d234cf64101d3672cdef79067adc075397",
+      "bytes": 503
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/flood-damage-evidence-used-car-purchase/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_en.json",
+      "sha256": "6d0f85e06dc27c74322b28ff1865bbb1681bb92db072a4ba211058e194668429",
+      "bytes": 1377
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/flood-damage-evidence-used-car-purchase/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/en.md",
+      "sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "bytes": 9234
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/flood-damage-evidence-used-car-purchase/freeze.json",
+      "original_path": "daily/2026-11-04/research/guides/flood-damage-evidence-used-car-purchase/freeze.json",
+      "sha256": "d387e2993f901dd6bd7b70390b4df56192a54e91683be52916d6ab68a239740d",
+      "bytes": 308
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/flood-damage-evidence-used-car-purchase/source-log.json",
+      "original_path": "daily/2026-11-04/research/guides/flood-damage-evidence-used-car-purchase/source-log.json",
+      "sha256": "d1be008c411ead80b6f54bf78bf34e36c442bfe88d8693f803388397f2af6a2f",
+      "bytes": 5702
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/flood-damage-evidence-used-car-purchase/fact-sheet.json",
+      "original_path": "daily/2026-11-04/research/guides/flood-damage-evidence-used-car-purchase/fact-sheet.json",
+      "sha256": "a7e12b53cca886bf302f717d40bf62435d3a7414880b2264cdbb83a7886bc9d2",
+      "bytes": 4978
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/srs-airbag-repair-evidence/qa_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/qa_en.json",
+      "sha256": "db62478acadc9dbda22c345019957a5ab6226286869be2cd702391003e84da59",
+      "bytes": 503
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/srs-airbag-repair-evidence/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_en.json",
+      "sha256": "7f0d52d5eeb559546b2d9f37908130602a381ff8bccdeae0621fe749bbd29997",
+      "bytes": 1353
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/srs-airbag-repair-evidence/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/en.md",
+      "sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "bytes": 9206
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/srs-airbag-repair-evidence/freeze.json",
+      "original_path": "daily/2026-11-04/research/guides/srs-airbag-repair-evidence/freeze.json",
+      "sha256": "3c5812404b36cac5dfdf65f1f018551f3b36435dbe1818446a0afec5d1d8f9f3",
+      "bytes": 308
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/srs-airbag-repair-evidence/source-log.json",
+      "original_path": "daily/2026-11-04/research/guides/srs-airbag-repair-evidence/source-log.json",
+      "sha256": "def6c2252a14d2359d2056ce45d1d3c25b4962138bd53184fd3583f6d98e2ace",
+      "bytes": 5717
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/srs-airbag-repair-evidence/fact-sheet.json",
+      "original_path": "daily/2026-11-04/research/guides/srs-airbag-repair-evidence/fact-sheet.json",
+      "sha256": "1424f7b82daafab496f81e88206170acb9a55a10a7e0144d7f03a219b35e9523",
+      "bytes": 4961
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/towbar-trailer-rating-evidence/qa_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/qa_en.json",
+      "sha256": "8d8092e98686e4670c577e1aada8f393b412e6ad33cf9c6a68d9a3c34e1bb523",
+      "bytes": 1903
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/towbar-trailer-rating-evidence/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_en.json",
+      "sha256": "d42a61f3d6c95ad53d3f2ec8ba410022a90841161f900e6e590e92871dd398a9",
+      "bytes": 1712
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/towbar-trailer-rating-evidence/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/en.md",
+      "sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "bytes": 9884
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/towbar-trailer-rating-evidence/source-log.json",
+      "original_path": "daily/2026-11-04/research/guides/towbar-trailer-rating-evidence/source-log.json",
+      "sha256": "d6e22db95f1131fcc5bf0bbfe05ea1011dacbe30a3705eff6f0208c39fc33d6b",
+      "bytes": 8412
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/towbar-trailer-rating-evidence/fact-sheet.json",
+      "original_path": "daily/2026-11-04/research/guides/towbar-trailer-rating-evidence/fact-sheet.json",
+      "sha256": "3e55ab95961a60ac460280e0d93480507ce38ad7813d39433855439e1e02e982",
+      "bytes": 7453
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/diesel-dpf-scr-maintenance-evidence/qa_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/qa_en.json",
+      "sha256": "f060f8f1b9766625a4b4dcec2dc8c729626adf7b704f718b08d2810c911fba51",
+      "bytes": 1072
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/diesel-dpf-scr-maintenance-evidence/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_en.json",
+      "sha256": "ab26492f2db46b9e6a4bea5714984377958cbb4ad46eff7ec1af16f91a61ae52",
+      "bytes": 1505
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/diesel-dpf-scr-maintenance-evidence/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/en.md",
+      "sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "bytes": 10799
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/diesel-dpf-scr-maintenance-evidence/freeze.json",
+      "original_path": "daily/2026-11-04/research/guides/diesel-dpf-scr-maintenance-evidence/freeze.json",
+      "sha256": "82493961f4bb94021905752df072cabfef3345958499784ea88cd883cb6d1fed",
+      "bytes": 181
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/diesel-dpf-scr-maintenance-evidence/source-log.json",
+      "original_path": "daily/2026-11-04/research/guides/diesel-dpf-scr-maintenance-evidence/source-log.json",
+      "sha256": "305bef56e11a49325ca40fc7bb3ebb23a5af78bb7b478e4ff4fc2e38a7ec19dd",
+      "bytes": 8280
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/guides/diesel-dpf-scr-maintenance-evidence/fact-sheet.json",
+      "original_path": "daily/2026-11-04/research/guides/diesel-dpf-scr-maintenance-evidence/fact-sheet.json",
+      "sha256": "09c2faf71989a495f5457d5d76298f7f875b8212fa113445c39bd1b649e1796b",
+      "bytes": 7701
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/vehicles/xpeng-g9/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/source_log.json",
+      "sha256": "16c054c6ed9691b08f94ba8d7337cc3c077a050abebd85aabd80452ac4a79b1a",
+      "bytes": 3492
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/vehicles/xpeng-g9/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/fact_sheet.json",
+      "sha256": "ef1f9ff12a890dfffaba6b058b721d0a44ba7e60ac2f2cd54584a61525ff8774",
+      "bytes": 8593
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/research/vehicles/xpeng-g9/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/english_self_review.json",
+      "sha256": "976651858731a3afa772b50764309b36964a72834d9709deb5042b0900127dcf",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/xpeng-g9/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/en.md",
+      "sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "bytes": 9212
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/xpeng-g9/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_en.json",
+      "sha256": "8342b5ac4ba8af259b0df09aa27eb6dd6c3f5dfb3f2f2df0cfcc51ceab56e53c",
+      "bytes": 1549
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/fr.md",
+      "sha256": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+      "bytes": 10841
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/de.md",
+      "sha256": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+      "bytes": 10421
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_fr.json",
+      "sha256": "4caea3e42ceba402caa1d45b1041053955bcd6a02ffee618d49d2e3c27e5ed3c",
+      "bytes": 1586
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/002/articles/odometer-service-history-reconciliation/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_de.json",
+      "sha256": "0cb2b68908ffaa88a93df919bafdea4db4cefebbb75d0108e0718d373bf3d9c6",
+      "bytes": 1476
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

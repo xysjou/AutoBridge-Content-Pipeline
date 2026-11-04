@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "status": "WRITING_COMPLETE",
+  "delivery_status": "LOCAL_ONLY_WAITING_PARENT_PUSH",
+  "checked_date": "2026-11-04",
+  "english_word_count": 1342,
+  "public_workflow_findings": [],
+  "empty_headings": 0,
+  "fake_first_hand_claims": 0,
+  "numeric_scope_check": "No numerical towing capacities assigned; UK approval exception retained.",
+  "source_scope_check": "Named guidance and model-specific examples preserved; no global law or rating asserted.",
+  "internal_link_check": "Parent verified /en/guides/ and /en/vehicles/ HTTP 200 on 2026-11-04, reported in retained conversation.",
+  "research_status": "RESEARCH_CONDITIONAL",
+  "image_status": "PENDING_PARENT_GENERATION",
+  "semantic_review": "English master read in full; independent review pending",
+  "WRITING_SKILL_VERSION_USED": "1.3",
+  "WRITING_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "recovery_note": "Recreated from retained conversation after workspace loss. Hashes recalculated, not assumed identical.",
+  "hashes": {
+    "en.md": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "seo_en.json": "d42a61f3d6c95ad53d3f2ec8ba410022a90841161f900e6e590e92871dd398a9",
+    "fact-sheet.json": "3e55ab95961a60ac460280e0d93480507ce38ad7813d39433855439e1e02e982",
+    "source-log.json": "d6e22db95f1131fcc5bf0bbfe05ea1011dacbe30a3705eff6f0208c39fc33d6b"
+  },
+  "unresolved": [
+    "Exact offered VIN and destination approval remain transaction-specific.",
+    "Underlying approval-standard edition/amendment not independently established; no standards-level conclusion permitted.",
+    "Parent diagram generation pending.",
+    "Translations, cross-article similarity, independent review and GitHub push handled by parent."
+  ]
+}

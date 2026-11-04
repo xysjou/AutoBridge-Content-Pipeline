@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "en",
+  "title": "Flood-Damage Evidence to Request Before Buying a Used Car",
+  "h1": "Flood-Damage Evidence to Request Before Buying a Used Car",
+  "meta_description": "Assess flood history, title records and targeted inspection evidence before buying a used vehicle. Learn what clean reports cannot establish.",
+  "card_summary": "Compare water-exposure records with independent inspection findings before accepting a used vehicle.",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge procurement guides"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle catalogue"
+    }
+  ],
+  "image": {
+    "alt": "Three-card diagram showing exposure history, targeted inspection, unresolved risks.",
+    "caption": "Recommended evidence checks for a used-vehicle purchase.",
+    "labels": [
+      "Exposure history",
+      "Targeted inspection",
+      "Unresolved risks"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

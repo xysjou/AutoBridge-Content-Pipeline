@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "en",
+  "title": "XPENG G9: Assessing the 2023 European Long Range SUV",
+  "meta_description": "Assess the early European XPENG G9 Long Range using WLTP figures, independent energy tests and a practical inspection plan for export buyers.",
+  "h1": "XPENG G9: Assessing the 2023 European Long Range SUV",
+  "card_summary": "Evaluate route energy, charging evidence and aftersales support before selecting the early G9 Long Range.",
+  "suggested_url": "/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for xpeng g9",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Match the launch car",
+      "Assess the journey",
+      "Confirm service access"
+    ],
+    "asset": "../../assets/xpeng-g9/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}
