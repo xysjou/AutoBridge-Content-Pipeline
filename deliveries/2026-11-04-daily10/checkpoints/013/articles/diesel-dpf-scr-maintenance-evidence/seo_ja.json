@@ -1,0 +1,45 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "ja",
+  "title": "中古ディーゼル車の一括購入：DPF・SCR整備の証拠を確認する",
+  "meta_description": "中古ディーゼルトラックのDPF再生、灰分清掃、SCR・DEF整備を区別。記録と専門家の評価を照合して購入を判断します。",
+  "h1": "中古ディーゼル車の一括購入：DPF・SCR整備の証拠を確認する",
+  "card_summary": "DPF作業、DEFの取扱い、エンジン別の検査結果をつなぎ、車隊調達で未解決の後処理問題を見極めます。",
+  "suggested_url": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge調達ガイド"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "車種カタログ"
+    }
+  ],
+  "image": {
+    "alt": "DPF整備記録、SCR・DEFの証拠、車両固有の評価を示す3枚のカード。",
+    "caption": "整備の出来事、液系統の証拠、最終的な車両固有の評価を分けて確認します。",
+    "labels": [
+      "DPF整備記録",
+      "SCR・DEFの証拠",
+      "車両固有の評価"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/ja.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  }
+}

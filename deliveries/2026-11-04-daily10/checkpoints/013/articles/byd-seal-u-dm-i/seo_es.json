@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "es",
+  "title": "BYD SEAL U DM-i MY2026: guía de compra polaca",
+  "meta_description": "Compare BYD SEAL U DM-i Boost, Comfort y Design de Polonia MY2026: batería, autonomía eléctrica WLTP, acceso a recarga y prioridades de inspección.",
+  "h1": "BYD SEAL U DM-i MY2026: guía de compra de la especificación polaca",
+  "card_summary": "Comfort ofrece la mayor batería de esta gama polaca MY2026; Design añade tracción integral. Elija según la rutina de recarga, no el prestigio del acabado.",
+  "suggested_url": "/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guías de compra de vehículos"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guías de adquisición"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Polonia",
+  "reference_edition": "MY2026, especificación de enero de 2026",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra de tres tarjetas del BYD SEAL U DM-i sobre batería, tracción y acceso a recarga.",
+    "caption": "Elija la versión polaca MY2026 según el uso previsto.",
+    "labels": [
+      "Compare capacidad de batería",
+      "Elija las ruedas motrices necesarias",
+      "Confirme acceso habitual a recarga"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

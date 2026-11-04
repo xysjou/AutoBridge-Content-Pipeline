@@ -1,0 +1,45 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "ko",
+  "title": "중고차 구매 전에 요청할 침수 피해 증거",
+  "h1": "중고차 구매 전에 요청할 침수 피해 증거",
+  "meta_description": "침수 의심 중고차의 이력, 수리 기록, 독립 검사를 대조하세요. 증거의 한계와 구매를 보류할 조건을 확인합니다.",
+  "card_summary": "물 노출 기록, 실차 징후, 수리 증거를 구분해 해외 구매 전 미해결 우려를 드러냅니다.",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge 구매 가이드"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "차량 카탈로그"
+    }
+  ],
+  "image": {
+    "alt": "물 노출 이력, 표적 검사, 미해결 위험 항목을 보여 주는 카드 세 장.",
+    "caption": "중고차 구매를 위한 권장 증거 확인.",
+    "labels": [
+      "물 노출 이력",
+      "표적 검사",
+      "미해결 위험"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/ko.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  }
+}

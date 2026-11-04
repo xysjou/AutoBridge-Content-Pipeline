@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "es",
+  "title": "Vehículos diésel usados de flota: compruebe las pruebas de mantenimiento del DPF y SCR",
+  "meta_description": "Compruebe registros de DPF, SCR y DEF en diésel usados. Distinga regeneración, limpieza de cenizas, reparaciones y evaluación del taller.",
+  "h1": "Vehículos diésel usados de flota: compruebe las pruebas de mantenimiento del DPF y SCR",
+  "card_summary": "Reconstruya las intervenciones de postratamiento y compárelas con una inspección y el trabajo futuro previsto.",
+  "suggested_url": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guías de compra de AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de vehículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de tres tarjetas sobre registros de mantenimiento del DPF, pruebas del SCR y DEF y evaluación del vehículo concreto.",
+    "caption": "Separe las intervenciones de mantenimiento, las pruebas del sistema de fluido y la evaluación final del vehículo concreto.",
+    "labels": [
+      "Registros de mantenimiento del DPF",
+      "Pruebas del SCR y DEF",
+      "Evaluación específica del vehículo"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "pt",
+  "title": "Evidências de danos por enchente a pedir antes de comprar um carro usado",
+  "h1": "Evidências de danos por enchente a pedir antes de comprar um carro usado",
+  "meta_description": "Avalie histórico de enchente, registros e inspeção antes de comprar um usado. Entenda o que um relatório sem ocorrências não comprova.",
+  "card_summary": "Compare os registros de exposição à água com uma inspeção independente antes de aceitar um veículo usado.",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guias de compra da AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de veículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões sobre histórico de exposição, inspeção direcionada e riscos não resolvidos.",
+    "caption": "Verificações recomendadas antes de comprar um veículo usado.",
+    "labels": [
+      "Histórico de exposição",
+      "Inspeção direcionada",
+      "Riscos não resolvidos"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/pt.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

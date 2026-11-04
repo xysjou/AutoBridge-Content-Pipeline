@@ -1,0 +1,128 @@
+{
+  "checkpoint": "013",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/ar.md",
+      "sha256": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d",
+      "bytes": 12060
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/es.md",
+      "sha256": "056140f3b7be8f82e53fb0ab7321351d4b9f32dac777be830bc084aabeb60b6b",
+      "bytes": 10361
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_es.json",
+      "sha256": "09e2fe52f93d084e344117aa6504ed769670bc315ea6b8279fd6b582a027ae1d",
+      "bytes": 1723
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_ja.json",
+      "sha256": "03e964a44b0a38301919084f2731fc41447aeb23478256b75c68137be2707d4d",
+      "bytes": 1643
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_ko.json",
+      "sha256": "afa949f47bc8b109a244b0f99738b4eb40f1def8b06eb605a5b87c5dc2336caa",
+      "bytes": 1646
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/byd-seal-u-dm-i/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_pt.json",
+      "sha256": "e2acb176afd6df09344c03069c12396d994efb6a875372f0d1bb849baf0412e7",
+      "bytes": 1741
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "sha256": "66b8e61e9fea7c49a6dab8110593a17a5a1586da9c7a1b40a6458dd5bbf2fcd8",
+      "bytes": 1951
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "sha256": "e4ae3ae6fcf608e3594e52a9ab706b1e4839452a90a7c9b954eef668cf560c39",
+      "bytes": 11852
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "sha256": "ba854507578f69015d794cf7ea027f68a47c8c35eee99523651f5b1d45d14f5c",
+      "bytes": 1602
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "sha256": "cef6ca9db3173240ee842d9d37553cfe4bd62e43e77b8af1b35778a64eb64583",
+      "bytes": 1656
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+      "sha256": "b10ba123c5ceb3b6a1db081ce04d41dd7db6250b4e1ba453233f1bf539ece11a",
+      "bytes": 11766
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_ja.json",
+      "sha256": "49e87ab3fcefa422f6dca43343393d98faabe0062ee1ab32a749c399459a81c8",
+      "bytes": 1733
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "sha256": "1e6532f3c2c86d6ce8fd86f3204fb4fe1b4244c5cedde2a657690e2b1ef9b536",
+      "bytes": 10955
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_ko.json",
+      "sha256": "d1642ba9474af00b6144ac1cbe01235c13df3f75984f39eab0428d1ab8466fd3",
+      "bytes": 1658
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "sha256": "cd0bb313d05390113acfd1ba2e34dde323a587dad7688d55a2319ffbaf0d8862",
+      "bytes": 11733
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "sha256": "ad3a426dc555f60c7b43787229016e9629f7f4669cb7003e95b5146d7d149d82",
+      "bytes": 1586
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "sha256": "2224a263dbd94e9a131c74c55d6e8266f1352332cb9d9bd86c0b863963aae3b7",
+      "bytes": 1506
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/flood-damage-evidence-used-car-purchase/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ja.json",
+      "sha256": "baf8dd707c4d722360929df7148cb795b7001b2be66fea7197a5c1fdae9565d6",
+      "bytes": 1627
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "sha256": "fdc3e699ed872900b9e8aa7c9257421fc145a084d42e421ef210f6a96560ebd2",
+      "bytes": 1595
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/013/articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "sha256": "cfd7a78aaa15b3da372580583fdcdd2d718996eda2e99a14e361a2b7bf8788c2",
+      "bytes": 1475
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
