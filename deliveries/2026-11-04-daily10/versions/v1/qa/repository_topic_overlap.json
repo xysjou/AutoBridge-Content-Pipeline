@@ -1,0 +1,143 @@
+{
+  "checked_date": "2026-11-04",
+  "refs": [
+    {
+      "ref": "origin/main",
+      "commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "path_count": 5018,
+      "exact_slug_path_matches": {
+        "diesel-dpf-scr-maintenance-evidence": [],
+        "smart-1": [],
+        "srs-airbag-repair-evidence": [],
+        "xpeng-g9": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g9-2026.json"
+        ],
+        "odometer-service-history-reconciliation": [],
+        "flood-damage-evidence-used-car-purchase": [],
+        "byd-seal-u-dm-i": [],
+        "nio-et5": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--nio-et5-2026.json"
+        ],
+        "towbar-trailer-rating-evidence": [],
+        "xpeng-g6": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g6-2026.json"
+        ]
+      }
+    },
+    {
+      "ref": "origin/content/daily-10-20261103",
+      "commit": "1bf93cae21e7ac4eab1e6ce629b0a3c4014c17f2",
+      "path_count": 5395,
+      "exact_slug_path_matches": {
+        "diesel-dpf-scr-maintenance-evidence": [],
+        "smart-1": [],
+        "srs-airbag-repair-evidence": [],
+        "xpeng-g9": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g9-2026.json"
+        ],
+        "odometer-service-history-reconciliation": [],
+        "flood-damage-evidence-used-car-purchase": [],
+        "byd-seal-u-dm-i": [],
+        "nio-et5": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--nio-et5-2026.json"
+        ],
+        "towbar-trailer-rating-evidence": [],
+        "xpeng-g6": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g6-2026.json"
+        ]
+      }
+    },
+    {
+      "ref": "origin/content/direct-two-articles-12langs-20261103",
+      "commit": "933151a454211270ce3c3fe1fd6f89e0d03bb035",
+      "path_count": 5095,
+      "exact_slug_path_matches": {
+        "diesel-dpf-scr-maintenance-evidence": [],
+        "smart-1": [],
+        "srs-airbag-repair-evidence": [],
+        "xpeng-g9": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g9-2026.json"
+        ],
+        "odometer-service-history-reconciliation": [],
+        "flood-damage-evidence-used-car-purchase": [],
+        "byd-seal-u-dm-i": [],
+        "nio-et5": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--nio-et5-2026.json"
+        ],
+        "towbar-trailer-rating-evidence": [],
+        "xpeng-g6": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g6-2026.json"
+        ]
+      }
+    },
+    {
+      "ref": "origin/content/two-articles-12langs-20261102",
+      "commit": "6b7eb49655d7a28f72670fcfde0bf7143ba68330",
+      "path_count": 4900,
+      "exact_slug_path_matches": {
+        "diesel-dpf-scr-maintenance-evidence": [],
+        "smart-1": [],
+        "srs-airbag-repair-evidence": [],
+        "xpeng-g9": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g9-2026.json"
+        ],
+        "odometer-service-history-reconciliation": [],
+        "flood-damage-evidence-used-car-purchase": [],
+        "byd-seal-u-dm-i": [],
+        "nio-et5": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--nio-et5-2026.json"
+        ],
+        "towbar-trailer-rating-evidence": [],
+        "xpeng-g6": [
+          "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g6-2026.json"
+        ]
+      }
+    }
+  ],
+  "indexed_unique_markdown_articles": 553,
+  "search_scope": "Repository article paths and actual H1 titles, including latest three relevant delivery branches; not a comprehensive live-site crawl.",
+  "intent_distinction": {
+    "Vehicles": "New bodies use dated2023/2024 European editions or PolandMY2026. Three model names recur in legacy2026 quality-hold page records; historical intent alone does not resolve publication cannibalization.",
+    "Guides": "Five narrow evidence decisions: dated mileage reconciliation, flood assessment, post-repair SRS evidence, installed towing-system limits, and diesel aftertreatment maintenance. Broader used-car/VIN/inspection pages remain related rather than identical tasks."
+  },
+  "limitations": [
+    "Authorized website could not be accessed; no claim of exhaustive live-site non-duplication.",
+    "Repository JSON-only or embedded multilingual material is not fully represented in this Markdown title index."
+  ],
+  "legacy_model_overlap": [
+    {
+      "slug": "xpeng-g6",
+      "source_file": "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g6-2026.json",
+      "audit_at": "2026-09-05T15:55:37.359Z",
+      "old_content_key": "vehicles/xpeng-g6-2026",
+      "old_en_title": "G6 2026 export price, specs and sourcing",
+      "old_en_url": "https://www.autobridgeexport.com/vehicles/xpeng-g6-2026.html",
+      "current_source": false,
+      "publish_approved": false,
+      "decision": "Historical edition differs, but repeated model coverage exists. Do not claim a never-used topic or publish a competing evergreen hub without merge/archive review."
+    },
+    {
+      "slug": "xpeng-g9",
+      "source_file": "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--xpeng-g9-2026.json",
+      "audit_at": "2026-09-05T15:55:37.359Z",
+      "old_content_key": "vehicles/xpeng-g9-2026",
+      "old_en_title": "G9 2026 export price, specs and sourcing",
+      "old_en_url": "https://www.autobridgeexport.com/vehicles/xpeng-g9-2026.html",
+      "current_source": false,
+      "publish_approved": false,
+      "decision": "Historical edition differs, but repeated model coverage exists. Do not claim a never-used topic or publish a competing evergreen hub without merge/archive review."
+    },
+    {
+      "slug": "nio-et5",
+      "source_file": "reports/technical-diagnosis-20260905/review-defects-by-theme/vehicles--nio-et5-2026.json",
+      "audit_at": "2026-09-05T15:55:37.359Z",
+      "old_content_key": "vehicles/nio-et5-2026",
+      "old_en_title": "ET5 2026 export price, specs and sourcing",
+      "old_en_url": "https://www.autobridgeexport.com/vehicles/nio-et5-2026.html",
+      "current_source": false,
+      "publish_approved": false,
+      "decision": "Historical edition differs, but repeated model coverage exists. Do not claim a never-used topic or publish a competing evergreen hub without merge/archive review."
+    }
+  ],
+  "dedup_status": "CONDITIONAL_MODEL_OVERLAP_AND_LIVE_SITE_UNVERIFIED"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-04",
+  "scope": "Additional selected checks performed during reconstruction; not a full independent claim audit.",
+  "checks": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "source": "https://www.byd.com/material/byd-site/pl/pdfs/seal-u-dm-i/16012026Seal%20U%20Dmi-0126-BPS-PL-V1_Web_MY2026.pdf",
+      "method": "Direct download and visual inspection of specification page before second workspace reset.",
+      "result": "Boost/Comfort/Design batteries 18.3/26.6/18.3 kWh; combined output 160/160/238 kW; electric WLTP 80/125/70 km; AC 11 kW and DC 18 kW; FWD/FWD/AWD matched manuscript.",
+      "evidence_limit": "Downloaded PDF and rendered page lost in workspace reset; official URL retained. This record reconstructs the observed check, not a preserved screenshot."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "source": "https://www.gov.uk/towing-with-car/trailer-and-towing-equipment",
+      "result": "UK type-approval wording retains exemption for cars first used before 1 August 1998; does not establish global rule."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "source": "https://www.nhtsa.gov/hurricane-and-flood-damaged-vehicles",
+      "result": "EV/hybrid battery shock/fire risk and dealer assessment advice matched source."
+    }
+  ],
+  "new_facts_added": false,
+  "research_status_upgraded": false,
+  "human_reviewed": false,
+  "publish_approved": false
+}

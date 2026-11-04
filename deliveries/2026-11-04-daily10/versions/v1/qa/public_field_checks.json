@@ -1,0 +1,21 @@
+{
+  "summary_exact_duplicates": [],
+  "scope": "Exact full card-summary equality only, not proof of semantic uniqueness. Public text semantic reviews are separate.",
+  "machine_locale_issues": [],
+  "source_scope": "4 research PASS and 6 CONDITIONAL; no full independent fact certification",
+  "internal_link_gate": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "full_body_similarity": {
+    "en": 0.009495982468955442,
+    "fr": 0.012516469038208168,
+    "de": 0.00458295142071494,
+    "es": 0.013249651324965132,
+    "pt": 0.01342756183745583,
+    "ja": 0.07230046948356808,
+    "ko": 0.011506276150627616,
+    "vi": 0.018137847642079808,
+    "th": 0.30803858520900324,
+    "id": 0.013345195729537367,
+    "ar": 0.008865248226950355,
+    "zh": 0.022245762711864406
+  }
+}
