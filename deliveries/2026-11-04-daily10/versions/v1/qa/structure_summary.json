@@ -1,0 +1,8 @@
+{
+  "topics": 10,
+  "bodies": 120,
+  "issues": [],
+  "minimum_english_words": 1206,
+  "minimum_chinese_han_characters": 1963,
+  "scope": "Mechanical checks only; AI semantic reviews are separate and do not constitute human/professional certification."
+}

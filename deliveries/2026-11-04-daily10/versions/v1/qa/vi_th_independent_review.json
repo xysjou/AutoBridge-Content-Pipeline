@@ -1,0 +1,1097 @@
+{
+  "batch": "2026-11-04-daily10",
+  "reviewed_at_utc": "2026-11-04T12:43:24.889842+00:00",
+  "reviewer_role": "AI cross-reviewer who did not author vi/th texts",
+  "scope": "10topics × Vietnamese/Thai bodies and SEO; completed-page records below",
+  "method": "Read all recorded full bodies, every table/FAQ and SEO public values against the frozen EN masters, themselves read in full in this review. Reopened actual truncated output gaps. Mechanical checks supplement semantic reading, never substitute for it. Vietnamese numeric month names are removed only for number-multiset comparison because EN month names are words; calendar month/day meanings were separately read. Gregorian years checked unchanged; no Buddhist-year conversion.",
+  "status": "AI_CROSS_REVIEW_PASS",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "professional_or_native_certification_claimed": false,
+  "reviewed_body_count": 20,
+  "reviewed_seo_count": 20,
+  "repair_count": 41,
+  "articles": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "vi",
+      "body_path": "articles/byd-seal-u-dm-i/vi.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_vi.json",
+      "body_sha256_before": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+      "body_sha256_after": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+      "seo_sha256_before": "2c95e39201272f68135fc5a6b90d3f119eb3f2241724f63686a5c6318149ff24",
+      "seo_sha256_after": "d44cd9ac7706f118f2a85da5dbcc42ad7021e99f5b34221b43975ef6a431a8a9",
+      "frozen_english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs/table/4FAQs read. PolandMY2026January2026 document page5 scope retained, no global or China alias.",
+        "Boost/Comfort/Design batteries18.3/26.6/18.3,system160/160/238,electric80/125/70WLTP,11AC18DC/CCS2 preserved;Comfort largest battery/DesignAWD distinction intact.",
+        "Electric Design original EuroNCAP test versus PHEV applicability and no independent guarantee of everyPolishMY2026 retained. Maintenance both powertrain sides/no fixed fuel saving retained.",
+        "Thai charging heading made natural as charger power versus charging speed; public scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_vi.json",
+          "field": "reference_market",
+          "old": "Poland",
+          "new": "Ba Lan",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_vi.json",
+          "field": "reference_edition",
+          "old": "MY2026 January 2026 specification",
+          "new": "MY2026, cấu hình tháng 1 năm 2026",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "th",
+      "body_path": "articles/byd-seal-u-dm-i/th.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_th.json",
+      "body_sha256_before": "53602b4c02d26c87871d4bfa7d7d158ac3c0849bbfc258c99f0a08555418954e",
+      "body_sha256_after": "18aec16949c827d5a91daca53d353d8f8f0cc928b25e78c74416645dd92d6523",
+      "seo_sha256_before": "bc6d10a849a90734ba05b4a1699136df07f98fd83cdaf199eda43aad992f5f7a",
+      "seo_sha256_after": "5b7189d4606e1c2dc2081cecddb93f184566b9f2850e09f4f601a386e68de709",
+      "frozen_english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs/table/4FAQs read. PolandMY2026January2026 document page5 scope retained, no global or China alias.",
+        "Boost/Comfort/Design batteries18.3/26.6/18.3,system160/160/238,electric80/125/70WLTP,11AC18DC/CCS2 preserved;Comfort largest battery/DesignAWD distinction intact.",
+        "Electric Design original EuroNCAP test versus PHEV applicability and no independent guarantee of everyPolishMY2026 retained. Maintenance both powertrain sides/no fixed fuel saving retained.",
+        "Thai charging heading made natural as charger power versus charging speed; public scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/th.md",
+          "old": "## ขนาดกำลังเครื่องชาร์จกับความเร็วชาร์จต่างกัน",
+          "new": "## กำลังเครื่องชาร์จกับความเร็วในการชาร์จต่างกัน",
+          "occurrences": 1,
+          "reason": "Use natural power-rating wording, not an awkward size-power compound."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_th.json",
+          "field": "reference_market",
+          "old": "Poland",
+          "new": "โปแลนด์",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_th.json",
+          "field": "reference_edition",
+          "old": "MY2026 January 2026 specification",
+          "new": "MY2026 สเปกเดือนมกราคม 2026",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "vi",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/vi.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+      "body_sha256_before": "693c30735f3c157c2c618fd939251fce6b6624e9a6cdbc12235b1ad48db0fabe",
+      "body_sha256_after": "d6d023434cfe56ccdc201578bd3d69a289535b8833db7d6793c98e25507573a7",
+      "seo_sha256_before": "1e9d6d67d0f219ebbf2f04ad2aaec9ba9ce0919cefe16d1fa34feb0ecb5e0d4d",
+      "seo_sha256_after": "f98ba2c80d9a28184ec91b2021c3b4262a1f3938add470a1f57a59cdbb6d3d38",
+      "frozen_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and5FAQs read against frozen EN. DPF equipment not assumed on every diesel;regeneration/soot versus ash cleaning and separateSCR/DEF histories retained.",
+        "CARB/EPA technical/historical context not current import law. CumminsNorthAmerica restriction-test sequence not generalized; no universal pressure threshold or DIY regeneration instruction.",
+        "Particle contamination pumps/dosers versus chemical contaminationSCR catalyst, concentration/dilution and dedicatedDEF equipment retained.",
+        "Duty-cycle/idle/loading/service-access planning and VolvoUSSilver contract example remain scoped. Current dashboard not maintenance proof; prior repair not automatic rejection; import eligibility separate."
+      ],
+      "repairs": [
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/vi.md",
+          "old": "Xe diesel đội xe đã qua sử dụng",
+          "new": "Xe diesel đã qua sử dụng cho đội xe",
+          "reason": "Replace unnatural noun-stack in heading with natural fleet-procurement wording."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+          "field": "title",
+          "old": "Xe diesel đội xe đã qua sử dụng: Bằng chứng DPF và SCR",
+          "new": "Xe diesel đã qua sử dụng cho đội xe: Bằng chứng DPF và SCR",
+          "reason": "Remove unnatural repeated xe/đội xe noun stack; align title/H1 and fleet-procurement context."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+          "field": "h1",
+          "old": "Xe diesel đội xe đã qua sử dụng: Kiểm tra bằng chứng bảo dưỡng DPF và SCR",
+          "new": "Xe diesel đã qua sử dụng cho đội xe: Kiểm tra bằng chứng bảo dưỡng DPF và SCR",
+          "reason": "Remove unnatural repeated xe/đội xe noun stack; align title/H1 and fleet-procurement context."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+          "field": "meta_description",
+          "old": "Đánh giá hồ sơ làm sạch, tái sinh DPF và bảo dưỡng SCR trước khi mua xe diesel đội xe cũ. Biết cần bằng chứng nào và khi nào nên tạm dừng.",
+          "new": "Đánh giá hồ sơ làm sạch, tái sinh DPF và bảo dưỡng SCR trước khi mua xe diesel cũ cho đội xe. Biết cần bằng chứng nào và khi nào nên tạm dừng.",
+          "reason": "Remove unnatural repeated xe/đội xe noun stack; align title/H1 and fleet-procurement context."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+          "field": "card_summary",
+          "old": "Đối chiếu tái sinh DPF, làm sạch tro, phụ tùng thay thế và quản lý DEF với kiểm tra riêng cho xe trước khi chấp nhận xe đội xe cũ.",
+          "new": "Đối chiếu tái sinh DPF, làm sạch tro, phụ tùng thay thế và quản lý DEF với kiểm tra riêng cho xe trước khi chấp nhận xe diesel đã qua sử dụng cho đội xe.",
+          "reason": "Remove unnatural repeated xe/đội xe noun stack; align title/H1 and fleet-procurement context."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+          "field": "author",
+          "old": "Ban biên tập xuất khẩu AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "th",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/th.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_th.json",
+      "body_sha256_before": "aaef52afc624a3a16bcf67cfb5c24c2c4ccbe33f98cb66cb48aae70ca4f6f424",
+      "body_sha256_after": "5c6d33aaae1de4d012e1a743e15c386f7cce7f82fbd65378d75155089efc617b",
+      "seo_sha256_before": "1a9243bef8519b67dd0d54f2c3232da798fadfb86c40d927609faecfd7704368",
+      "seo_sha256_after": "0fd627736324852c4d9b005790d2b0835be7ad2a69f4807e768e35f4823925d1",
+      "frozen_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and5FAQs read against frozen EN. DPF equipment not assumed on every diesel;regeneration/soot versus ash cleaning and separateSCR/DEF histories retained.",
+        "CARB/EPA technical/historical context not current import law. CumminsNorthAmerica restriction-test sequence not generalized; no universal pressure threshold or DIY regeneration instruction.",
+        "Particle contamination pumps/dosers versus chemical contaminationSCR catalyst, concentration/dilution and dedicatedDEF equipment retained.",
+        "Duty-cycle/idle/loading/service-access planning and VolvoUSSilver contract example remain scoped. Current dashboard not maintenance proof; prior repair not automatic rejection; import eligibility separate."
+      ],
+      "repairs": [
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_th.json",
+          "field": "author",
+          "old": "กองบรรณาธิการด้านการส่งออก AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/th.md",
+          "old": "ระบบรีดักชันแบบเลือกเกิดปฏิกิริยาด้วยตัวเร่ง",
+          "new": "ระบบลดสารมลพิษแบบเลือกจำเพาะด้วยตัวเร่งปฏิกิริยา",
+          "reason": "Natural Thai expansion of selective catalytic reduction; preserves selective catalyst mechanism. Author suggested phrase; independently checked against EN."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "vi",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/vi.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_vi.json",
+      "body_sha256_before": "f9dee6f6cb08aefbe04fa1b3ccb59d9edbbb15af59eb57ebecb07a83db65d8ec",
+      "body_sha256_after": "612d7e2de276757461828a9e63f588b3d6e1b3d0eefcfd83377e0c87cfcfc7df",
+      "seo_sha256_before": "2dc19bbc01426df8284c2ceb4786fa6610c90ead24e19761b3de697d98ea115f",
+      "seo_sha256_after": "b54bcbd94f87aaa6361b5f19e6d13cd2796e631a85f8bc7ee0b60d811c2b60b8",
+      "frozen_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 40,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and4FAQs read. Exposure versus storm-region registration, total loss versus flood, no database-entry clearance and US service scope preserved.",
+        "Independent targeted assessment, observed corrosion versus inferred cause, inaccessible-area limits and no unsafe disassembly retained.",
+        "Flooded high-voltage shock/fire warning and no charging/driving experiment retained. Repair account, safety-before-price and substituteVIN checks retained.",
+        "Vietnamese salvage literal rescue wording corrected to a documented loss/salvage status. Clean-title FAQ accurately refers to absent adverse status markings, not ownership liens."
+      ],
+      "repairs": [
+        {
+          "slug": "flood-damage-evidence-used-car-purchase",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/vi.md",
+          "old": "xe cứu vớt",
+          "new": "xe được ghi nhận tình trạng tổn thất (salvage)",
+          "occurrences": 1,
+          "reason": "Salvage is a vehicle-record status, not literal physical rescue."
+        },
+        {
+          "slug": "flood-damage-evidence-used-car-purchase",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_vi.json",
+          "field": "author",
+          "old": "Ban biên tập xuất khẩu AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "th",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/th.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_th.json",
+      "body_sha256_before": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+      "body_sha256_after": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+      "seo_sha256_before": "5db5a1d4a296b79f0bcba4d0c8c52afb875a331767b71c289df697d9fe7ec4ae",
+      "seo_sha256_after": "0038700fcf03c5cbcaf6c8a5da234410dc5cdf3e799182158b12ebe213a64160",
+      "frozen_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 40,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and4FAQs read. Exposure versus storm-region registration, total loss versus flood, no database-entry clearance and US service scope preserved.",
+        "Independent targeted assessment, observed corrosion versus inferred cause, inaccessible-area limits and no unsafe disassembly retained.",
+        "Flooded high-voltage shock/fire warning and no charging/driving experiment retained. Repair account, safety-before-price and substituteVIN checks retained.",
+        "Vietnamese salvage literal rescue wording corrected to a documented loss/salvage status. Clean-title FAQ accurately refers to absent adverse status markings, not ownership liens."
+      ],
+      "repairs": [
+        {
+          "slug": "flood-damage-evidence-used-car-purchase",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_th.json",
+          "field": "author",
+          "old": "กองบรรณาธิการด้านการส่งออก AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "vi",
+      "body_path": "articles/nio-et5/vi.md",
+      "seo_path": "articles/nio-et5/seo_vi.json",
+      "body_sha256_before": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+      "body_sha256_after": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+      "seo_sha256_before": "6f3c9259d50f505d3f52cda853427fa16dfef13c781a4908a195bc2d718b7111",
+      "seo_sha256_after": "1efbcae47e7395f533046133703660a54306d467a0120d43b892141110afd141",
+      "frozen_english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 39,
+      "page_specific_findings": [
+        "All sections/table/4FAQs read. April2023German sedan distinguished fromTouring/China and later cars;75/100kWh not usable relabelled.",
+        "BaaS ownership/transfer/provider/destination, recurring charges and unknown-not-zero comparison preserved.",
+        "ADAC530km/19.7kWh per100km includes charging losses and remainsEcotest notWLTP.75kWh19inchLHD EuroNCAP/no child-presence credit retained.",
+        "Three-year/90,000km ET5 warranty and Certified-programme conditions preserved. English scope fields localized; no substantive omission found."
+      ],
+      "repairs": [
+        {
+          "slug": "nio-et5",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_vi.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Đức",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "nio-et5",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_vi.json",
+          "field": "reference_edition",
+          "old": "April 2023 German launch sedan",
+          "new": "Sedan ra mắt tại Đức tháng 4 năm 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "th",
+      "body_path": "articles/nio-et5/th.md",
+      "seo_path": "articles/nio-et5/seo_th.json",
+      "body_sha256_before": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+      "body_sha256_after": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+      "seo_sha256_before": "0bc59c505a68a7289a3a5305e2ca75b83f2825e1ce8bcf82357e989b8603c197",
+      "seo_sha256_after": "a85086837ce601cf1868108f101188fcb349f512388889dacaa6e74964626752",
+      "frozen_english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 39,
+      "page_specific_findings": [
+        "All sections/table/4FAQs read. April2023German sedan distinguished fromTouring/China and later cars;75/100kWh not usable relabelled.",
+        "BaaS ownership/transfer/provider/destination, recurring charges and unknown-not-zero comparison preserved.",
+        "ADAC530km/19.7kWh per100km includes charging losses and remainsEcotest notWLTP.75kWh19inchLHD EuroNCAP/no child-presence credit retained.",
+        "Three-year/90,000km ET5 warranty and Certified-programme conditions preserved. English scope fields localized; no substantive omission found."
+      ],
+      "repairs": [
+        {
+          "slug": "nio-et5",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_th.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "เยอรมนี",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "nio-et5",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_th.json",
+          "field": "reference_edition",
+          "old": "April 2023 German launch sedan",
+          "new": "ซีดานเปิดตัวในเยอรมนีเดือนเมษายน 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "vi",
+      "body_path": "articles/odometer-service-history-reconciliation/vi.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_vi.json",
+      "body_sha256_before": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+      "body_sha256_after": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+      "seo_sha256_before": "77f62a6591b445f4cab67bfc15d89daf913ec4783cbef3039e59e17688f703b4",
+      "seo_sha256_after": "77f62a6591b445f4cab67bfc15d89daf913ec4783cbef3039e59e17688f703b4",
+      "frozen_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 38,
+      "page_specific_findings": [
+        "All paragraphs,5-row table and4FAQs read. Display versus lifetime distance, original units, service-event versus document-issue dates retained.",
+        "No downward-reading fraud inference, replacement-cluster corroboration and perVIN/substitution comparison preserved.",
+        "UKMOT correction route andNorthernIreland separate;NMVTISUS/title/brands not repair history; missing coverage not clean history preserved.",
+        "Thai contemporary-document phrase clarified to documents created around the actual mileage event, avoiding merely modern documents. Vietnamese substantive meaning intact."
+      ],
+      "repairs": [],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "th",
+      "body_path": "articles/odometer-service-history-reconciliation/th.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_th.json",
+      "body_sha256_before": "c0aaa01414c9f4001626db3a0888a9c71b20b9a27ebb9de50a1b8e6dfd3372a3",
+      "body_sha256_after": "604c9f2211780d5f8db5e7387f83abab0d629972005194d3618e767b60abf5e8",
+      "seo_sha256_before": "337d0c36642815455a4a1948e49ed7d825f7f555069627ca875dda08078bf412",
+      "seo_sha256_after": "337d0c36642815455a4a1948e49ed7d825f7f555069627ca875dda08078bf412",
+      "frozen_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 38,
+      "page_specific_findings": [
+        "All paragraphs,5-row table and4FAQs read. Display versus lifetime distance, original units, service-event versus document-issue dates retained.",
+        "No downward-reading fraud inference, replacement-cluster corroboration and perVIN/substitution comparison preserved.",
+        "UKMOT correction route andNorthernIreland separate;NMVTISUS/title/brands not repair history; missing coverage not clean history preserved.",
+        "Thai contemporary-document phrase clarified to documents created around the actual mileage event, avoiding merely modern documents. Vietnamese substantive meaning intact."
+      ],
+      "repairs": [
+        {
+          "slug": "odometer-service-history-reconciliation",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/th.md",
+          "old": "เอกสารร่วมสมัย",
+          "new": "เอกสารที่จัดทำในช่วงเวลาที่มีการบันทึกค่าระยะทางนั้น",
+          "occurrences": 1,
+          "reason": "Contemporary mileage evidence means contemporaneous with the recorded event, not merely modern documents."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "vi",
+      "body_path": "articles/smart-1/vi.md",
+      "seo_path": "articles/smart-1/seo_vi.json",
+      "body_sha256_before": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+      "body_sha256_after": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+      "seo_sha256_before": "154a293c34fca89047a245ae72e32ba5a990c8e40088447e1c54669947ad2abe",
+      "seo_sha256_after": "1e209fc9d4eb112d9a7aec8688792cc19759bc78090e7b1b087837f95e61ea1a",
+      "frozen_english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 40,
+      "page_specific_findings": [
+        "All sections/table/4FAQs read. UK25April2023Pro+/Premium historical reference retained, including dashes meaning unspecified not absent.",
+        "260/273milesWLTP,Premium22kWthree-phase/heatpump,5seats2750mm/sliding row all retained. No AC capability converted into guaranteed home time/DC power.",
+        "RAC interface criticism attributed;2022EuroNCAPPremium4x2LHD/RHD applicability, camera no credit versus limiter credit retained. MOT not battery/ownership/import clearance.",
+        "Deposit FAQ remains about purchase deposit in both languages. Equipment/cables/software per vehicle and destination checks retained; scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "smart-1",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_vi.json",
+          "field": "reference_market",
+          "old": "UK",
+          "new": "Vương quốc Anh",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "smart-1",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_vi.json",
+          "field": "reference_edition",
+          "old": "April 2023 UK launch",
+          "new": "Ra mắt tại Vương quốc Anh tháng 4 năm 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "th",
+      "body_path": "articles/smart-1/th.md",
+      "seo_path": "articles/smart-1/seo_th.json",
+      "body_sha256_before": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+      "body_sha256_after": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+      "seo_sha256_before": "7df8b33499ee79e694701b08c755c8524f44077571a9451946cf64f8bbd1bb3a",
+      "seo_sha256_after": "959ba786c0c9e4b5fdf01a712f992e074f66bbbcd2aa9b7279a87fbe3dacd766",
+      "frozen_english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 40,
+      "page_specific_findings": [
+        "All sections/table/4FAQs read. UK25April2023Pro+/Premium historical reference retained, including dashes meaning unspecified not absent.",
+        "260/273milesWLTP,Premium22kWthree-phase/heatpump,5seats2750mm/sliding row all retained. No AC capability converted into guaranteed home time/DC power.",
+        "RAC interface criticism attributed;2022EuroNCAPPremium4x2LHD/RHD applicability, camera no credit versus limiter credit retained. MOT not battery/ownership/import clearance.",
+        "Deposit FAQ remains about purchase deposit in both languages. Equipment/cables/software per vehicle and destination checks retained; scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "smart-1",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_th.json",
+          "field": "reference_market",
+          "old": "UK",
+          "new": "สหราชอาณาจักร",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "smart-1",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_th.json",
+          "field": "reference_edition",
+          "old": "April 2023 UK launch",
+          "new": "เปิดตัวในสหราชอาณาจักรเดือนเมษายน 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "vi",
+      "body_path": "articles/srs-airbag-repair-evidence/vi.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_vi.json",
+      "body_sha256_before": "eddf36b0b1509f3622448bab1791a5961b2c0580bdcf66d953b65eadae232185",
+      "body_sha256_after": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+      "seo_sha256_before": "a92c6a1ec195b19fa5a164933014fd21634636f960b9dcd68c2df00450fd57f5",
+      "seo_sha256_after": "6d0cbb388a080169ca38ab208e5a72fdf1623fb0bd661296ca3763b457b13e41",
+      "frozen_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and4FAQs read; output truncation gaps reopened. History/parts-work/inspection distinction, estimate versus completed work and invoice versus installed part retained.",
+        "NoDIY dismantling/probing or fault-clearing, FordAustralia/EuropeanModel3 scopes and immediate-service/no-driving example retained.",
+        "Independent limits/no future-crash guarantee, perVIN/substitutions and recall separate preserved.",
+        "Vietnamese four OEM-brand wording instances changed to authenticity/real part, matching EN genuine rather than adding an original-equipment-only condition. Thai authenticity wording already correct."
+      ],
+      "repairs": [
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/vi.md",
+          "old": "bằng chứng phụ tùng chính hãng",
+          "new": "bằng chứng về tính xác thực của phụ tùng",
+          "occurrences": 1,
+          "reason": "Authenticity must not be narrowed to an OEM-only requirement."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/vi.md",
+          "old": "phụ tùng thay thế là chính hãng chỉ từ bao bì",
+          "new": "phụ tùng thay thế là hàng thật chỉ từ bao bì",
+          "occurrences": 1,
+          "reason": "Preserve genuine/authentic rather than exclusively manufacturer-branded."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/vi.md",
+          "old": "Tính chính hãng của phụ tùng",
+          "new": "Tính xác thực của phụ tùng",
+          "occurrences": 1,
+          "reason": "Preserve authenticity meaning."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/vi.md",
+          "old": "phụ tùng thay thế chính hãng không?",
+          "new": "phụ tùng thay thế là hàng thật không?",
+          "occurrences": 1,
+          "reason": "FAQ genuine replacement refers to authenticity."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_vi.json",
+          "field": "author",
+          "old": "Ban biên tập xuất khẩu AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "th",
+      "body_path": "articles/srs-airbag-repair-evidence/th.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_th.json",
+      "body_sha256_before": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+      "body_sha256_after": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+      "seo_sha256_before": "473f71da3a73547dcae5cef696247504d44158f578bca3db905787b9b1ac9dcc",
+      "seo_sha256_after": "916e371a9ec570aea78e08841006af88768bc0eee84520ae23b9584669c94dd1",
+      "frozen_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 41,
+      "page_specific_findings": [
+        "All paragraphs,6-row table and4FAQs read; output truncation gaps reopened. History/parts-work/inspection distinction, estimate versus completed work and invoice versus installed part retained.",
+        "NoDIY dismantling/probing or fault-clearing, FordAustralia/EuropeanModel3 scopes and immediate-service/no-driving example retained.",
+        "Independent limits/no future-crash guarantee, perVIN/substitutions and recall separate preserved.",
+        "Vietnamese four OEM-brand wording instances changed to authenticity/real part, matching EN genuine rather than adding an original-equipment-only condition. Thai authenticity wording already correct."
+      ],
+      "repairs": [
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_th.json",
+          "field": "author",
+          "old": "กองบรรณาธิการด้านการส่งออก AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "vi",
+      "body_path": "articles/towbar-trailer-rating-evidence/vi.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_vi.json",
+      "body_sha256_before": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+      "body_sha256_after": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+      "seo_sha256_before": "b41189687c0ceda41ffc5690953b9d3ebbfd45677e9eb83bf8acf8ceab9ad172",
+      "seo_sha256_after": "52d82c561692fbe666fd2cb8bbf4b16baac2c825601436a0f46dbf06afda4d70",
+      "frozen_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 35,
+      "page_specific_findings": [
+        "All paragraphs,7-row table and4FAQs read against EN. Vehicle/towbar, braked/unbraked, vertical load/axles/train limits distinct; missing values not assumed.",
+        "UK first-used-before1August1998 exception retained with Gregorian1998. NSW/local marking, USFord and UK2026XC90 scopes not generalized.",
+        "Controlled electrical/brake demonstration and conditional model-specific software update retained. Loaded occupants/tools/trailer cargo versus empty weights and no universal percentage preserved.",
+        "No substantive semantic correction required; SEO public values read and align with body."
+      ],
+      "repairs": [
+        {
+          "slug": "towbar-trailer-rating-evidence",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_vi.json",
+          "field": "author",
+          "old": "Ban biên tập xuất khẩu AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "th",
+      "body_path": "articles/towbar-trailer-rating-evidence/th.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_th.json",
+      "body_sha256_before": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+      "body_sha256_after": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+      "seo_sha256_before": "ee967714b55bc471d1f71ccb59597de232c9483c394be9a184db8e36a6a6f787",
+      "seo_sha256_after": "320eee106a91f36cb0d36c6fc6f26f2852bcff01dce0d7e257ad30358a3dff86",
+      "frozen_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 35,
+      "page_specific_findings": [
+        "All paragraphs,7-row table and4FAQs read against EN. Vehicle/towbar, braked/unbraked, vertical load/axles/train limits distinct; missing values not assumed.",
+        "UK first-used-before1August1998 exception retained with Gregorian1998. NSW/local marking, USFord and UK2026XC90 scopes not generalized.",
+        "Controlled electrical/brake demonstration and conditional model-specific software update retained. Loaded occupants/tools/trailer cargo versus empty weights and no universal percentage preserved.",
+        "No substantive semantic correction required; SEO public values read and align with body."
+      ],
+      "repairs": [
+        {
+          "slug": "towbar-trailer-rating-evidence",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_th.json",
+          "field": "author",
+          "old": "กองบรรณาธิการด้านการส่งออก AutoBridge",
+          "new": "AutoBridge Export Editorial Team",
+          "reason": "Restore required unlocalized canonical internal author identity; flags unchanged."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "vi",
+      "body_path": "articles/xpeng-g6/vi.md",
+      "seo_path": "articles/xpeng-g6/seo_vi.json",
+      "body_sha256_before": "f7384184ccc370197a0c38e68aa2c4745a479a0b70a92cf59f43307719591b95",
+      "body_sha256_after": "f7384184ccc370197a0c38e68aa2c4745a479a0b70a92cf59f43307719591b95",
+      "seo_sha256_before": "44df0d2e5689454b14799aeadffa82a9496b363f09cf53cfebd5f1f172ebb221",
+      "seo_sha256_after": "888cad8f6e6274c57f3159f1c9840798c3e319fad25844faab3ed8649c03ffc4",
+      "frozen_english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 37,
+      "page_specific_findings": [
+        "Opening/market table/charging/revision/safety/aftersales/4FAQs read against EN. Germany September2024 historical launch not formal MY and not China/global retained.",
+        "Net66/87.5kWh,LFP/NCM,190/210/350kW and435/570/550kmWLTP align by trim;215kW/upto280kW peaks remain conditional manufacturer statements.",
+        "Long Range LHD and weak rear-chest finding retained. No firsthand test, driving responsibility or destination warranty guarantee added.",
+        "English scope-field values localized in SEO; full substantive recommendations preserved in both locales."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g6",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_vi.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Đức",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "xpeng-g6",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_vi.json",
+          "field": "reference_edition",
+          "old": "September 2024 launch",
+          "new": "Ra mắt tháng 9 năm 2024",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "th",
+      "body_path": "articles/xpeng-g6/th.md",
+      "seo_path": "articles/xpeng-g6/seo_th.json",
+      "body_sha256_before": "4035686fb20b4a9e395d5dc9beb899a5658bb5bd6f7c32270d307d19aa4f96f5",
+      "body_sha256_after": "4035686fb20b4a9e395d5dc9beb899a5658bb5bd6f7c32270d307d19aa4f96f5",
+      "seo_sha256_before": "d71ed4225a98bde412ff018d8647baff167abf46144577a4a10b59b36e7afc08",
+      "seo_sha256_after": "642e8f9160e45555146af2c5b8734283720d65f980ab709ea38aca1b8c64514f",
+      "frozen_english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 37,
+      "page_specific_findings": [
+        "Opening/market table/charging/revision/safety/aftersales/4FAQs read against EN. Germany September2024 historical launch not formal MY and not China/global retained.",
+        "Net66/87.5kWh,LFP/NCM,190/210/350kW and435/570/550kmWLTP align by trim;215kW/upto280kW peaks remain conditional manufacturer statements.",
+        "Long Range LHD and weak rear-chest finding retained. No firsthand test, driving responsibility or destination warranty guarantee added.",
+        "English scope-field values localized in SEO; full substantive recommendations preserved in both locales."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g6",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_th.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "เยอรมนี",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "xpeng-g6",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_th.json",
+          "field": "reference_edition",
+          "old": "September 2024 launch",
+          "new": "เปิดตัวเดือนกันยายน 2024",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "vi",
+      "body_path": "articles/xpeng-g9/vi.md",
+      "seo_path": "articles/xpeng-g9/seo_vi.json",
+      "body_sha256_before": "267753841e4eb4b83a70a37c72535b5b5a9400188f00216671856b9b37450f2b",
+      "body_sha256_after": "267753841e4eb4b83a70a37c72535b5b5a9400188f00216671856b9b37450f2b",
+      "seo_sha256_before": "16b52bd4d99ef61eb2e43dd5821770739e4d3788abbccccd7329bb3b76fceb0e",
+      "seo_sha256_after": "74d6b121a5025db4a65b1fbbf21c21d7f171726309673bc0e0dbd1687a39ddde",
+      "frozen_english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 38,
+      "page_specific_findings": [
+        "All paragraphs, table and4FAQs read against EN. February2023 historical launch limited to Denmark/Norway/Netherlands/Sweden; no inferred model-year/global scope.",
+        "98kWh not recast as net;RWD distinct fromAWD;800V,570kmWLTP,10–80%20min manufacturer claim retained.",
+        "GreenNCAP E1L RWD29/32.4kWh per100km,-7°C test context separate fromWLTP. Poor driver pelvis/submarining and marginal rear-chest protection retained.",
+        "Route/cabin/installed-equipment and VIN/destination-specific service checks all retained; English scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g9",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_vi.json",
+          "field": "reference_market",
+          "old": "Denmark, Norway, Netherlands, Sweden",
+          "new": "Đan Mạch, Na Uy, Hà Lan, Thụy Điển",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "xpeng-g9",
+          "language": "vi",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_vi.json",
+          "field": "reference_edition",
+          "old": "February 2023 European launch",
+          "new": "Ra mắt tại châu Âu tháng 2 năm 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "th",
+      "body_path": "articles/xpeng-g9/th.md",
+      "seo_path": "articles/xpeng-g9/seo_th.json",
+      "body_sha256_before": "3b76174affac37d9c6956087b3157a93a86636480656c24a8365efbead94097d",
+      "body_sha256_after": "3b76174affac37d9c6956087b3157a93a86636480656c24a8365efbead94097d",
+      "seo_sha256_before": "f1befaad80b23d1cc62baebfdd3b797e9a320273d53435a88fd2f1cfd7f74f25",
+      "seo_sha256_after": "bc4a7d3c63d5bda804e302cc448dfa4adaf38b8d07d1140bbf5ce1f51eb8c871",
+      "frozen_english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraph_blocks_read": 38,
+      "page_specific_findings": [
+        "All paragraphs, table and4FAQs read against EN. February2023 historical launch limited to Denmark/Norway/Netherlands/Sweden; no inferred model-year/global scope.",
+        "98kWh not recast as net;RWD distinct fromAWD;800V,570kmWLTP,10–80%20min manufacturer claim retained.",
+        "GreenNCAP E1L RWD29/32.4kWh per100km,-7°C test context separate fromWLTP. Poor driver pelvis/submarining and marginal rear-chest protection retained.",
+        "Route/cabin/installed-equipment and VIN/destination-specific service checks all retained; English scope fields localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g9",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_th.json",
+          "field": "reference_market",
+          "old": "Denmark, Norway, Netherlands, Sweden",
+          "new": "เดนมาร์ก นอร์เวย์ เนเธอร์แลนด์ สวีเดน",
+          "reason": "Localize public scope field without changing historical market/edition."
+        },
+        {
+          "slug": "xpeng-g9",
+          "language": "th",
+          "file": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_th.json",
+          "field": "reference_edition",
+          "old": "February 2023 European launch",
+          "new": "เปิดตัวในยุโรปเดือนกุมภาพันธ์ 2023",
+          "reason": "Localize public scope field without changing historical market/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset_with_month_name_normalization": true,
+        "gregorian_years": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    }
+  ],
+  "failures": [],
+  "unresolved_semantic_items": [],
+  "pending_topics": [],
+  "boundaries": [
+    "Review assesses translation fidelity to frozen English; no new external-source factual research.",
+    "No native-speaker or professional certification; naturalness is an AI language assessment.",
+    "Actual SVG rendering, live link accessibility, publishing and Google indexing are not covered.",
+    "English fallback internal links and suggested_url locale conventions remain for parent normalization; canonical English slugs unchanged.",
+    "No Git mutations or edits to EN or other languages."
+  ],
+  "parent_followup": [
+    "Save modified vi/th files and report.",
+    "Refresh final body and SEO hashes after any URL normalization.",
+    "Generate/check diagrams against localized labels."
+  ]
+}

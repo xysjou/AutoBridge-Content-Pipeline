@@ -1,0 +1,38 @@
+{
+  "topic": "byd-seal-u-dm-i",
+  "reconstruction": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "review": "AI semantic comparison and structural checks, not independent review",
+  "locales": {
+    "vi": {
+      "body_sha256": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+      "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {
+        "1": 2,
+        "11": 1
+      },
+      "numeric_note": "Vietnamese numeric month names only",
+      "AI_LANGUAGE_QA": "PASS",
+      "seo_sha256": "2c95e39201272f68135fc5a6b90d3f119eb3f2241724f63686a5c6318149ff24"
+    },
+    "th": {
+      "body_sha256": "53602b4c02d26c87871d4bfa7d7d158ac3c0849bbfc258c99f0a08555418954e",
+      "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {},
+      "numeric_note": "Exact numeric multiset",
+      "AI_LANGUAGE_QA": "PASS",
+      "seo_sha256": "bc6d10a849a90734ba05b4a1699136df07f98fd83cdaf199eda43aad992f5f7a"
+    }
+  },
+  "semantic_review": "Read and compared every paragraph in both full translations: explicit Poland MY2026, three trims and correct battery/driven-wheel relationships; all technical table values and WLTP electric-only labels retained; total system power not sum; charging habits and capability limits; Electric Design original test versus PHEV applicability; destination eligibility not inferred.",
+  "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+}

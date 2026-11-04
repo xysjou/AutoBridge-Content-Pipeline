@@ -1,0 +1,275 @@
+{
+  "method": "Full Markdown body after removing URL destinations; Unicode words with CJK/Thai characters; same-language5-grams, Jaccard and overlap coefficient. No title-only shortcut.",
+  "pairs": [
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.006687785990848293,
+      "overlap": 0.01342756183745583
+    },
+    {
+      "a": "xpeng-g6",
+      "b": "xpeng-g9",
+      "jaccard": 0.0057409400789379264,
+      "overlap": 0.011461318051575931
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "odometer-service-history-reconciliation",
+      "jaccard": 0.005120702267739576,
+      "overlap": 0.010744435917114352
+    },
+    {
+      "a": "nio-et5",
+      "b": "smart-1",
+      "jaccard": 0.005116725295810681,
+      "overlap": 0.010256410256410256
+    },
+    {
+      "a": "smart-1",
+      "b": "xpeng-g6",
+      "jaccard": 0.004721753794266442,
+      "overlap": 0.01002865329512894
+    },
+    {
+      "a": "nio-et5",
+      "b": "xpeng-g6",
+      "jaccard": 0.0033944331296673455,
+      "overlap": 0.0071633237822349575
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "xpeng-g6",
+      "jaccard": 0.003150157507875394,
+      "overlap": 0.0064469914040114614
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "xpeng-g9",
+      "jaccard": 0.0031380753138075313,
+      "overlap": 0.006396588486140725
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "smart-1",
+      "jaccard": 0.002956636005256242,
+      "overlap": 0.006122448979591836
+    },
+    {
+      "a": "smart-1",
+      "b": "xpeng-g9",
+      "jaccard": 0.0026827632461435278,
+      "overlap": 0.005685856432125089
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "flood-damage-evidence-used-car-purchase",
+      "jaccard": 0.002311756935270806,
+      "overlap": 0.004844290657439446
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.0020006668889629878,
+      "overlap": 0.004240282685512367
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "nio-et5",
+      "jaccard": 0.001984126984126984,
+      "overlap": 0.004081632653061225
+    },
+    {
+      "a": "nio-et5",
+      "b": "odometer-service-history-reconciliation",
+      "jaccard": 0.0017494751574527643,
+      "overlap": 0.003837298541826554
+    },
+    {
+      "a": "odometer-service-history-reconciliation",
+      "b": "smart-1",
+      "jaccard": 0.0017355085039916696,
+      "overlap": 0.003837298541826554
+    },
+    {
+      "a": "odometer-service-history-reconciliation",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.0018429782528566164,
+      "overlap": 0.003837298541826554
+    },
+    {
+      "a": "odometer-service-history-reconciliation",
+      "b": "xpeng-g6",
+      "jaccard": 0.001855976243504083,
+      "overlap": 0.003837298541826554
+    },
+    {
+      "a": "nio-et5",
+      "b": "xpeng-g9",
+      "jaccard": 0.001688048615800135,
+      "overlap": 0.0035536602700781805
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0017259233690024164,
+      "overlap": 0.0034602076124567475
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "odometer-service-history-reconciliation",
+      "jaccard": 0.001444564824846515,
+      "overlap": 0.0030698388334612432
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "odometer-service-history-reconciliation",
+      "jaccard": 0.0013845621322256837,
+      "overlap": 0.0030698388334612432
+    },
+    {
+      "a": "odometer-service-history-reconciliation",
+      "b": "xpeng-g9",
+      "jaccard": 0.0014781966001478197,
+      "overlap": 0.0030698388334612432
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "xpeng-g6",
+      "jaccard": 0.0013413816230717639,
+      "overlap": 0.0028653295128939827
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "xpeng-g6",
+      "jaccard": 0.0014099400775467042,
+      "overlap": 0.0028653295128939827
+    },
+    {
+      "a": "srs-airbag-repair-evidence",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.001394700139470014,
+      "overlap": 0.0028268551236749115
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "smart-1",
+      "jaccard": 0.0013227513227513227,
+      "overlap": 0.002768166089965398
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0013144922773578706,
+      "overlap": 0.002745367192862045
+    },
+    {
+      "a": "srs-airbag-repair-evidence",
+      "b": "xpeng-g6",
+      "jaccard": 0.0010683760683760685,
+      "overlap": 0.002148997134670487
+    },
+    {
+      "a": "towbar-trailer-rating-evidence",
+      "b": "xpeng-g6",
+      "jaccard": 0.0010526315789473684,
+      "overlap": 0.002148997134670487
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "xpeng-g9",
+      "jaccard": 0.001002004008016032,
+      "overlap": 0.0021321961620469083
+    },
+    {
+      "a": "towbar-trailer-rating-evidence",
+      "b": "xpeng-g9",
+      "jaccard": 0.0010485844110450892,
+      "overlap": 0.0021321961620469083
+    },
+    {
+      "a": "nio-et5",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.001009421265141319,
+      "overlap": 0.0021201413427561835
+    },
+    {
+      "a": "smart-1",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.001001669449081803,
+      "overlap": 0.0021201413427561835
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "nio-et5",
+      "jaccard": 0.000999333777481679,
+      "overlap": 0.0020761245674740486
+    },
+    {
+      "a": "nio-et5",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0009953550099535502,
+      "overlap": 0.002059025394646534
+    },
+    {
+      "a": "smart-1",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0009878169245966415,
+      "overlap": 0.002059025394646534
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "nio-et5",
+      "jaccard": 0.0009532888465204957,
+      "overlap": 0.0019230769230769232
+    },
+    {
+      "a": "diesel-dpf-scr-maintenance-evidence",
+      "b": "smart-1",
+      "jaccard": 0.0009463722397476341,
+      "overlap": 0.0018951358180669614
+    },
+    {
+      "a": "odometer-service-history-reconciliation",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0007251631617113851,
+      "overlap": 0.0015349194167306216
+    },
+    {
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "xpeng-g9",
+      "jaccard": 0.0007017543859649122,
+      "overlap": 0.0014214641080312722
+    },
+    {
+      "a": "srs-airbag-repair-evidence",
+      "b": "xpeng-g9",
+      "jaccard": 0.0007092198581560284,
+      "overlap": 0.0014214641080312722
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.000693721817551162,
+      "overlap": 0.0014134275618374558
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "flood-damage-evidence-used-car-purchase",
+      "jaccard": 0.0006865774116031583,
+      "overlap": 0.001384083044982699
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0006837606837606838,
+      "overlap": 0.0013726835964310226
+    },
+    {
+      "a": "byd-seal-u-dm-i",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.0006540222367560497,
+      "overlap": 0.0013605442176870747
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "writing_start_head_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "completion_main_head_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "baseline_drift": false,
+  "rules": {
+    "LESSONS_LEARNED.md": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "research_skill_v1.1": "e4cdb94ec0d5e0b25b7c745921de205c410431d8",
+    "writing_skill_v1.3": "3db6eb8416ee47a464b1374d9489ca3b00446ee1"
+  },
+  "startup_gate": "PARTIAL_DOCUMENTATION: initial research read repository rules; one replacement translation worker read Writing skill only after drafting, then rechecked. No blanket startup compliance claim.",
+  "main_untouched": true,
+  "versioning": "All delivery paths are new; frozen batch v1 holds each independently identified article version. Per-article CURRENT/version.json identifies immutable artifacts. No existing version overwritten.",
+  "scope_limits": [
+    "Historical edition is not formal model-year code unless source explicitly says so.",
+    "Market, trim and test-cycle scopes remain attached.",
+    "No global specifications, first-hand testing or publication approval.",
+    "Official source count is separate from URL count.",
+    "Three legacy model overlaps require merge/archive decision.",
+    "Internal links are unverified placeholders, not publication-ready links."
+  ]
+}

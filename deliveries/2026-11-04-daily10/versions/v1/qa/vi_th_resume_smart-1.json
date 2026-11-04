@@ -1,0 +1,38 @@
+{
+  "topic": "smart-1",
+  "reconstruction": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "review": "AI semantic comparison and structural checks, not independent review",
+  "locales": {
+    "vi": {
+      "body_sha256": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+      "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {
+        "4": 3,
+        "11": 1
+      },
+      "numeric_note": "Vietnamese numeric month names only",
+      "AI_LANGUAGE_QA": "PASS",
+      "seo_sha256": "154a293c34fca89047a245ae72e32ba5a990c8e40088447e1c54669947ad2abe"
+    },
+    "th": {
+      "body_sha256": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+      "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {},
+      "numeric_note": "Exact numeric multiset",
+      "AI_LANGUAGE_QA": "PASS",
+      "seo_sha256": "7df8b33499ee79e694701b08c755c8524f44077571a9451946cf64f8bbd1bb3a"
+    }
+  },
+  "semantic_review": "Read and compared every paragraph in both full translations: UK April 2023 historical launch; exact Pro+/Premium/current trim names; table dashes not absent-equipment claims; 22 kW three-phase AC not DC; miles WLTP unconverted; actual charging installation constraints; sliding-seat tradeoff; RAC attribution; Euro NCAP traffic-sign recognition versus speed-limiter distinction; MOT limitations.",
+  "scope": "This topic in Vietnamese and Thai only. Reconstruction, not byte-identical recovery; independent cross-review still pending."
+}

@@ -1,0 +1,507 @@
+{
+  "batch": "2026-11-04-daily10",
+  "scope": "Four assigned guides, Vietnamese and Thai only: eight complete bodies and eight SEO files.",
+  "created_at": "2026-11-04T12:46:11.676019+00:00",
+  "status": "SELF_QA_PASS",
+  "status_scope": "Current local content and locale self-review only, not a blanket startup-process pass, independent publication approval, Git push or indexing guarantee.",
+  "translation_method": "AI-authored full translations from frozen English masters; no paid API, Argos or external machine-translation service used.",
+  "full_semantic_reread": {
+    "performed": true,
+    "method": "Read every English block alongside both full Vietnamese and Thai translations, including every table row, FAQ, source paragraph and public SEO field. Structural tests were used separately and not treated as proof of semantic quality.",
+    "articles_read": 4,
+    "full_locale_bodies_read": 8,
+    "seo_files_read": 8,
+    "aligned_blocks_read": 314,
+    "table_data_rows_read": 50,
+    "faq_pairs_read": 34
+  },
+  "startup_and_scope": {
+    "lessons_read_before_writing": true,
+    "general_writing_style_skill_read_before_writing": true,
+    "repository_writing_skill_read_before_writing": false,
+    "repository_writing_skill_read_during_self_review": true,
+    "repository_writing_skill_version": "1.3",
+    "startup_omission": "The general writing-style skill was initially mistaken for the requested repository-specific writing skill. Repository Writing Skill v1.3 was read in full during self-review. This omission was reported to the parent; no retrospective claim that the startup sequence passed is made.",
+    "remediation": "Checked all applicable locale gates against repository skill v1.3. Independent reviewer restored the required canonical author value; semantic, metadata, numbers, source URLs and scope reread completed afterward.",
+    "git_actions_taken": false,
+    "git_baseline_sync": "Managed by parent; this worker was explicitly instructed not to perform Git actions.",
+    "daily_manifest_read_by_worker": false,
+    "daily_manifest_note": "No current daily manifest found in restored daily root during initial inspection; current guides-handoff.json and each assigned fact sheet/source log were read. Parent owns batch startup and manifest reconciliation.",
+    "english_masters_and_research_modified": false,
+    "other_locales_or_topics_modified": false,
+    "lessons_sha256": "709662d853c21dbf034464c0eac422c8091ccf45c5432ba8012df828807cb339",
+    "writing_skill_sha256": "b46e15fb424ab2ed1d38aaaa6c69e12af2d6249b86bf9263d33ab7397d4fb063"
+  },
+  "corrections_and_coordination": [
+    {
+      "by": "Independent reviewer",
+      "topic": "flood-damage-evidence-used-car-purchase",
+      "change": "Vietnamese salvage wording clarified to xe được ghi nhận tình trạng tổn thất (salvage); retained and reread."
+    },
+    {
+      "by": "Independent reviewer",
+      "topic": "srs-airbag-repair-evidence",
+      "change": "Vietnamese authenticity wording clarified to avoid interpreting genuine solely as OEM; retained and reread."
+    },
+    {
+      "by": "Independent reviewer",
+      "topic": "all four guides",
+      "change": "SEO author restored to AutoBridge Export Editorial Team as fixed by repository Writing Skill section 14; other public SEO prose remains localized."
+    },
+    {
+      "by": "Independent reviewer",
+      "topic": "diesel-dpf-scr-maintenance-evidence",
+      "change": "Vietnamese fleet title/H1/summary word order improved; retained and reread."
+    },
+    {
+      "by": "Self-review suggestion applied by independent reviewer",
+      "topic": "diesel-dpf-scr-maintenance-evidence",
+      "change": "Thai SCR expansion improved to ระบบลดสารมลพิษแบบเลือกจำเพาะด้วยตัวเร่งปฏิกิริยา; reread in final body."
+    }
+  ],
+  "language_gates": {
+    "AI_LANGUAGE_QA": "PASS",
+    "SEMANTIC_LOCALIZATION_QUALITY_GATE": "PASS_AI_REREAD",
+    "PUBLIC_FIELD_VALUE_ONLY_GATE": "PASS",
+    "NUMERIC_TOKEN_PROTECTION": "PASS",
+    "MARKET_SCOPE_GATE": "PASS_AI_REREAD",
+    "MODEL_YEAR_TRIM_GATE": "PASS_AI_REREAD",
+    "UNIT_GATE": "PASS_NO_NEW_NUMERIC_SPECIFICATIONS",
+    "LANGUAGE_PURITY_GATE": "PASS_AI_REREAD_WITH_PROPER_NAMES_AND_TECHNICAL_ACRONYMS_RETAINED",
+    "SENTENCE_COMPLETENESS_GATE": "PASS_AI_REREAD",
+    "TITLE_META_H1_GATE": "PASS",
+    "ALT_GATE": "TEXT_LOCALIZED_FINAL_ASSET_REVIEW_PARENT_OWNED",
+    "INTERNAL_LINK_GATE": "LOCALE_PATH_AND_TEXT_MATCH_MASTER_PARENT_OWNS_LIVE_EXISTENCE_CHECK",
+    "PUBLIC_WORKFLOW_TEXT_GATE": "PASS"
+  },
+  "independent_review_report": "qa/vi_th_independent_review.json",
+  "articles": [
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "article_id": "AB-261104-D10-G02",
+      "english_body_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "english_seo_sha256": "6d0f85e06dc27c74322b28ff1865bbb1681bb92db072a4ba211058e194668429",
+      "semantic_notes": [
+        "Preserved clean title versus no flood damage distinction, total-loss versus flood distinction, incomplete NMVTIS coverage and repair-history exclusion.",
+        "Preserved qualified independent assessment, high-voltage shock/fire warning, no charging/driving experiment and no destination eligibility guarantee.",
+        "Retained independent reviewer correction of Vietnamese salvage terminology; no omitted paragraphs, rows or FAQs found."
+      ],
+      "research_status": "RESEARCH_PASS",
+      "locales": {
+        "vi": {
+          "body_sha256": "612d7e2de276757461828a9e63f588b3d6e1b3d0eefcfd83377e0c87cfcfc7df",
+          "seo_sha256": "b54bcbd94f87aaa6361b5f19e6d13cd2796e631a85f8bc7ee0b60d811c2b60b8",
+          "summary_sha256": "b85427669ec5cb333833ac9da4ba191a5bdf27ca6d1feee244656a4ca7c66076",
+          "image_text_sha256": "2d1d268375b4a95520a97c105d5a7c255f98100be170aff4b31ac63684b78477",
+          "body_characters": 10086,
+          "aligned_blocks": 40,
+          "faq_count": 4,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        },
+        "th": {
+          "body_sha256": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+          "seo_sha256": "0038700fcf03c5cbcaf6c8a5da234410dc5cdf3e799182158b12ebe213a64160",
+          "summary_sha256": "be8a9be22b7ce1d4c83c6b2b16296c310b4c51e84b480d257dd448d6ddc8f062",
+          "image_text_sha256": "0ea3cd7c1c8687764c1ef5946629dcceb332459100e8f99a1d9ee69e92e290d9",
+          "body_characters": 8372,
+          "aligned_blocks": 40,
+          "faq_count": 4,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        }
+      }
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "article_id": "AB-261104-D10-G03",
+      "english_body_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "english_seo_sha256": "7f0d52d5eeb559546b2d9f37908130602a381ff8bccdeae0621fe749bbd29997",
+      "semantic_notes": [
+        "Preserved event history, parts/work evidence and inspection evidence as separate layers; estimates do not prove completed repairs.",
+        "Preserved Ford Australia scope, European Model 3 immediate-service/no-driving instruction within its actual vehicle scope, and no DIY airbag work.",
+        "Retained independent reviewer distinction between authentic parts and an unqualified OEM-only claim in Vietnamese."
+      ],
+      "research_status": "RESEARCH_PASS",
+      "locales": {
+        "vi": {
+          "body_sha256": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+          "seo_sha256": "6d0cbb388a080169ca38ab208e5a72fdf1623fb0bd661296ca3763b457b13e41",
+          "summary_sha256": "099697056fbd2cfe6df9b6c722e4830e988366aea22043100cfd19fc4fdbb1b8",
+          "image_text_sha256": "c690f57ff3efd32f7d9e6c460db3ddb6bf5f410959213a262c91dd5789772aa5",
+          "body_characters": 9498,
+          "aligned_blocks": 41,
+          "faq_count": 4,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        },
+        "th": {
+          "body_sha256": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+          "seo_sha256": "916e371a9ec570aea78e08841006af88768bc0eee84520ae23b9584669c94dd1",
+          "summary_sha256": "c70b62df31672747ca6c755dd86be2e84f719026438ab00eb85e44a4e8d80897",
+          "image_text_sha256": "4b20b8f7d91a11484270f388f3b4a9af663e9b90593de2d6ecb017a5f3c1fdbb",
+          "body_characters": 7824,
+          "aligned_blocks": 41,
+          "faq_count": 4,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        }
+      }
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "article_id": "AB-261104-D10-G04",
+      "english_body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "english_seo_sha256": "d42a61f3d6c95ad53d3f2ec8ba410022a90841161f900e6e590e92871dd398a9",
+      "semantic_notes": [
+        "Preserved vehicle versus towbar limits, braked/unbraked distinction, vertical coupling load, loaded combination and both axle limits.",
+        "Preserved UK first-use-before-1 August 1998 exception, UK/Great Britain/NSW distinctions, US Ford and UK XC90 2026 examples.",
+        "Retained RESEARCH_CONDITIONAL; no universal rating, approval, coding requirement, legal rule or current standard edition invented."
+      ],
+      "research_status": "RESEARCH_CONDITIONAL",
+      "locales": {
+        "vi": {
+          "body_sha256": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+          "seo_sha256": "52d82c561692fbe666fd2cb8bbf4b16baac2c825601436a0f46dbf06afda4d70",
+          "summary_sha256": "7cce53b5014c4feb215612801c4954a2f57413152dcca5dc2f044c09cff2309e",
+          "image_text_sha256": "3a946cff9ad74f67f36c2603bb4e8a5fbbb5c742db81570c49617f6f7e74711b",
+          "body_characters": 9806,
+          "aligned_blocks": 35,
+          "faq_count": 4,
+          "table_data_rows": 7,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        },
+        "th": {
+          "body_sha256": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+          "seo_sha256": "320eee106a91f36cb0d36c6fc6f26f2852bcff01dce0d7e257ad30358a3dff86",
+          "summary_sha256": "55018811fd4f98f3d3d24f7f69c6e84cd6a66636f8d1f670a8c6128c67c2ea35",
+          "image_text_sha256": "7ccc2b5543fcdf050932a9d55592126e51ed3a3cef387c1794cd3d43caefe95f",
+          "body_characters": 8130,
+          "aligned_blocks": 35,
+          "faq_count": 4,
+          "table_data_rows": 7,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        }
+      }
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "article_id": "AB-261104-D10-G05",
+      "english_body_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "english_seo_sha256": "ab26492f2db46b9e6a4bea5714984377958cbb4ad46eff7ec1af16f91a61ae52",
+      "semantic_notes": [
+        "Preserved DPF regeneration versus ash cleaning, SCR/DEF maintenance as a separate history, qualified interpretation and no universal numeric threshold.",
+        "Preserved CARB/EPA technical and historical retrofit limits, Cummins North American diagnostic sequence, and Volvo Trucks USA service-offering scope.",
+        "Retained independent reviewer improvement to Vietnamese fleet title/summary and Thai SCR wording suggested during self-review."
+      ],
+      "research_status": "RESEARCH_PASS",
+      "locales": {
+        "vi": {
+          "body_sha256": "d6d023434cfe56ccdc201578bd3d69a289535b8833db7d6793c98e25507573a7",
+          "seo_sha256": "f98ba2c80d9a28184ec91b2021c3b4262a1f3938add470a1f57a59cdbb6d3d38",
+          "summary_sha256": "4cce25cc947cff8b210e92ecd1a6ad3d109494613acfb22183f1bf9de5b87294",
+          "image_text_sha256": "7b9dc390f665e8956f1f9143c6e9fb6d01f41408b3097ba86c5aefb7857ef031",
+          "body_characters": 10569,
+          "aligned_blocks": 41,
+          "faq_count": 5,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        },
+        "th": {
+          "body_sha256": "5c6d33aaae1de4d012e1a743e15c386f7cce7f82fbd65378d75155089efc617b",
+          "seo_sha256": "0fd627736324852c4d9b005790d2b0835be7ad2a69f4807e768e35f4823925d1",
+          "summary_sha256": "4121caf2814e0d499a834e993bc282a75a9b6a00916edd7d2363fa5798dc82b2",
+          "image_text_sha256": "466d5ba2e442ea5c59f910c1b328ec45ccdb46cb3a35a0cc4346c64c8e34fff2",
+          "body_characters": 8809,
+          "aligned_blocks": 41,
+          "faq_count": 5,
+          "table_data_rows": 6,
+          "external_source_urls": 6,
+          "checks": {
+            "json_keys_preserved": true,
+            "paragraph_block_count_matches": true,
+            "heading_sequence_matches": true,
+            "table_shape_matches": true,
+            "external_source_urls_exact": true,
+            "numeric_token_multiset_exact": true,
+            "h1_matches_seo": true,
+            "canonical_author_preserved": true,
+            "internal_locale_links_match": true,
+            "canonical_slug_preserved": true,
+            "asset_locale_path": true,
+            "flags_preserved": true,
+            "public_fields_value_only": true,
+            "public_workflow_leak_absent": true,
+            "empty_headings_absent": true,
+            "embedded_body_hash_current": true
+          },
+          "machine_locale_qa": "PASS",
+          "AI_LANGUAGE_QA": "PASS"
+        }
+      }
+    }
+  ],
+  "similarity": [
+    {
+      "language": "vi",
+      "method": "Full-body Unicode word-token 5-gram Jaccard after removing URL targets; Thai tokenization is diagnostic only, not proof of native naturalness.",
+      "comparisons": [
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "srs-airbag-repair-evidence"
+          ],
+          "jaccard": 0.00812807881773399
+        },
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "towbar-trailer-rating-evidence"
+          ],
+          "jaccard": 0.0034254954734524103
+        },
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.004662004662004662
+        },
+        {
+          "pair": [
+            "srs-airbag-repair-evidence",
+            "towbar-trailer-rating-evidence"
+          ],
+          "jaccard": 0.002789753994420492
+        },
+        {
+          "pair": [
+            "srs-airbag-repair-evidence",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.0021665864227250844
+        },
+        {
+          "pair": [
+            "towbar-trailer-rating-evidence",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.0038507821901323704
+        }
+      ],
+      "maximum": 0.00812807881773399,
+      "manual_review_threshold": 0.5,
+      "self_fail_threshold": 0.7,
+      "threshold_exceeded": false
+    },
+    {
+      "language": "th",
+      "method": "Full-body Unicode word-token 5-gram Jaccard after removing URL targets; Thai tokenization is diagnostic only, not proof of native naturalness.",
+      "comparisons": [
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "srs-airbag-repair-evidence"
+          ],
+          "jaccard": 0.00686106346483705
+        },
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "towbar-trailer-rating-evidence"
+          ],
+          "jaccard": 0.0006736274840013472
+        },
+        {
+          "pair": [
+            "flood-damage-evidence-used-car-purchase",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.0022335673261008296
+        },
+        {
+          "pair": [
+            "srs-airbag-repair-evidence",
+            "towbar-trailer-rating-evidence"
+          ],
+          "jaccard": 0.0006949270326615705
+        },
+        {
+          "pair": [
+            "srs-airbag-repair-evidence",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.0009845749917952085
+        },
+        {
+          "pair": [
+            "towbar-trailer-rating-evidence",
+            "diesel-dpf-scr-maintenance-evidence"
+          ],
+          "jaccard": 0.001948051948051948
+        }
+      ],
+      "maximum": 0.00686106346483705,
+      "manual_review_threshold": 0.5,
+      "self_fail_threshold": 0.7,
+      "threshold_exceeded": false
+    }
+  ],
+  "remaining_boundaries": [
+    "Towbar research remains RESEARCH_CONDITIONAL; current underlying approval-standard editions and transaction-specific ratings are not established.",
+    "Final diagram creation and asset/rights checks belong to parent; this worker localized the existing image descriptions only.",
+    "Parent owns final metadata/hash normalization, GitHub persistence and user delivery.",
+    "No native-speaker or professional human translation review is claimed."
+  ],
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "native_speaker_review_claimed": false,
+  "professional_review_claimed": false,
+  "new_lesson_candidates": [],
+  "post_review_body_or_seo_edits_by_this_worker": false,
+  "reviewed_artifact_count": 16
+}
