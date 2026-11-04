@@ -1,0 +1,104 @@
+{
+  "checkpoint": "011",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/byd-seal-u-dm-i/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/de.md",
+      "sha256": "7d4cb4d3aaa87474ad58986e3083cec78b21401f3a9660951c214898aba0828b",
+      "bytes": 9338
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/byd-seal-u-dm-i/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_de.json",
+      "sha256": "d7b2304bf42d775b22f8ec6250a35a90c26275f98098d690165e2bc7303b1776",
+      "bytes": 1680
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/byd-seal-u-dm-i/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/fr.md",
+      "sha256": "ea7c7587ef64114f13cd958c2368081cd3c3c06a1e3378b3af671bd05a5bba33",
+      "bytes": 10262
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/byd-seal-u-dm-i/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_fr.json",
+      "sha256": "70613f41a500654f1ff1825dbc5a899424608bf30c210d96933212f4f0a5ef34",
+      "bytes": 1740
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "sha256": "4011b9af4736cb42404125a6d6c6f080250cc3e20c503590600c26252b9d35ec",
+      "bytes": 11843
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "sha256": "0dc47d25ef7ab0a65843954d1522c298b03eef6b24cd468c9c73bdd48c55ebff",
+      "bytes": 1486
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "sha256": "50dc403ad49740e94b97b7745213c42775d84a41a376f90ac01cf1e83c681a22",
+      "bytes": 11724
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "sha256": "ddb126bc2b9a99f5583e447412af6aacdff69249cfb2337c1cc6c8432a56d671",
+      "bytes": 1475
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "sha256": "2a82687827fcb51782db391ba3f4e89528bc58323846a8b60a1156d1b2e95519",
+      "bytes": 1903
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/flood-damage-evidence-used-car-purchase/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/de.md",
+      "sha256": "22c1cd4387a7fd5d39f910c5bc1f809b0db77e34f5b6f842257f9c9a205d9654",
+      "bytes": 10080
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "sha256": "cecd2100cc9368c89f4c380e20ecb177455b8a4748578e09c2f829a2b0c4f69a",
+      "bytes": 11007
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "sha256": "ba4e21df07f27333d8fa6ebcf9fe49b7237ef2c32d9dc1a6f88001b713bb20e3",
+      "bytes": 1639
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/nio-et5/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/de.md",
+      "sha256": "6526b089f75d0280294660317abeb26fff6e27ae573e63db6456fe586c417dc4",
+      "bytes": 11134
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/nio-et5/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/fr.md",
+      "sha256": "82dcffd3714bdcfda30cd2efd59d340a9967342879ccb503a3d4f84809fd41d2",
+      "bytes": 11798
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/smart-1/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/th.md",
+      "sha256": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+      "bytes": 17432
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/011/articles/smart-1/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_th.json",
+      "sha256": "7df8b33499ee79e694701b08c755c8524f44077571a9451946cf64f8bbd1bb3a",
+      "bytes": 2368
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

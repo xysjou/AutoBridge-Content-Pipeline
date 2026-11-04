@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "ar",
+  "title": "أدلة أضرار الغمر التي ينبغي طلبها قبل شراء سيارة مستعملة",
+  "h1": "أدلة أضرار الغمر التي ينبغي طلبها قبل شراء سيارة مستعملة",
+  "meta_description": "اطلب أدلة التعرض للمياه والإصلاح والفحص المستقل قبل شراء سيارة مستعملة، وافهم حدود تقارير التاريخ وعلامات أضرار الغمر.",
+  "card_summary": "من سجل الخسارة إلى الفحص الموجه: كيف تقيّم أدلة أضرار المياه دون اعتبار المظهر النظيف ضمانًا.",
+  "suggested_url": "/ar/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "أدلة AutoBridge للمشتريات"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "كتالوج المركبات"
+    }
+  ],
+  "image": {
+    "alt": "مخطط من ثلاث بطاقات يوضح تاريخ التعرض، فحص محدد الهدف، مخاطر غير محسومة.",
+    "caption": "فحوص موصى بها للأدلة عند شراء مركبة مستعملة.",
+    "labels": [
+      "تاريخ التعرض",
+      "فحص محدد الهدف",
+      "مخاطر غير محسومة"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}

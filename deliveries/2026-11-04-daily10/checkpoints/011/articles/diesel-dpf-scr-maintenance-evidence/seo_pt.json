@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "pt",
+  "title": "Veículos diesel usados de frota: verifique as evidências de manutenção do DPF e SCR",
+  "meta_description": "Confira registros de DPF, SCR e DEF em diesel usados. Diferencie regeneração, limpeza de cinzas, reparos e interpretação da oficina.",
+  "h1": "Veículos diesel usados de frota: verifique as evidências de manutenção do DPF e SCR",
+  "card_summary": "Reconstrua as intervenções de pós-tratamento e compare-as com a inspeção e o trabalho futuro pretendido.",
+  "suggested_url": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guias de compra da AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de veículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões mostrando Histórico do DPF, Manutenção do SCR e DEF, Trabalho pretendido.",
+    "caption": "Verificações recomendadas antes de comprar um veículo usado.",
+    "labels": [
+      "Histórico do DPF",
+      "Manutenção do SCR e DEF",
+      "Trabalho pretendido"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/pt.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}
