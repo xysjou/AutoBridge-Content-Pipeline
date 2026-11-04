@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "th",
+  "title": "รถดีเซลมือสองจากกองรถ: หลักฐาน DPF และ SCR",
+  "meta_description": "ประเมินบันทึกทำความสะอาดและฟื้นฟู DPF กับบำรุงรักษา SCR ก่อนซื้อรถดีเซลมือสองจากกองรถ รู้ว่าควรขอหลักฐานใดและเมื่อใดควรพักการซื้อ",
+  "h1": "รถดีเซลมือสองจากกองรถ: ตรวจหลักฐานบำรุงรักษา DPF และ SCR",
+  "card_summary": "เทียบการฟื้นฟู DPF การกำจัดเถ้า ชิ้นส่วนทดแทน และวิธีจัดการ DEF กับผลตรวจเฉพาะรถก่อนยอมรับรถมือสองจากกองรถ",
+  "suggested_url": "/th/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/th/guides/",
+      "text": "คู่มือจัดซื้อ"
+    },
+    {
+      "url": "/th/vehicles/",
+      "text": "หน้าอ้างอิงรถ"
+    }
+  ],
+  "image": {
+    "alt": "แผนภาพสามบัตรแสดงบันทึกบริการ DPF หลักฐาน SCR และ DEF และการประเมินเฉพาะรถ",
+    "caption": "แยกเหตุการณ์บำรุงรักษา หลักฐานระบบน้ำยา และการประเมินขั้นสุดท้ายเฉพาะรถ",
+    "labels": [
+      "บันทึกบริการ DPF",
+      "หลักฐาน SCR และ DEF",
+      "การประเมินเฉพาะรถ"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/th.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "กองบรรณาธิการด้านการส่งออก AutoBridge",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

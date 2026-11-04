@@ -1,0 +1,68 @@
+{
+  "checkpoint": "015",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/diesel-dpf-scr-maintenance-evidence/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/th.md",
+      "sha256": "aaef52afc624a3a16bcf67cfb5c24c2c4ccbe33f98cb66cb48aae70ca4f6f424",
+      "bytes": 23959
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/diesel-dpf-scr-maintenance-evidence/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_th.json",
+      "sha256": "1a9243bef8519b67dd0d54f2c3232da798fadfb86c40d927609faecfd7704368",
+      "bytes": 2353
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/diesel-dpf-scr-maintenance-evidence/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/vi.md",
+      "sha256": "693c30735f3c157c2c618fd939251fce6b6624e9a6cdbc12235b1ad48db0fabe",
+      "bytes": 13976
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_vi.json",
+      "sha256": "1e9d6d67d0f219ebbf2f04ad2aaec9ba9ce0919cefe16d1fa34feb0ecb5e0d4d",
+      "bytes": 1647
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/ar.md",
+      "sha256": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+      "bytes": 13036
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_ar.json",
+      "sha256": "5f5662344903f091dee1c58422170dbc551f6f0b382b6083f407ab3dd8f5315f",
+      "bytes": 1978
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/id.md",
+      "sha256": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+      "bytes": 9994
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_id.json",
+      "sha256": "8222e8a904333c2ba66820a75910fda132e9ae24894280f78f2a0770767bbaf9",
+      "bytes": 1642
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/ja.md",
+      "sha256": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+      "bytes": 10745
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/015/articles/srs-airbag-repair-evidence/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_ja.json",
+      "sha256": "a301d47267fde3cf842cb840cca42e9fe9a05a4b34eb5a1c6f14feed30282123",
+      "bytes": 1670
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

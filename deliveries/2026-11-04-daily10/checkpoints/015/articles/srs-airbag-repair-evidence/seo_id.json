@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "id",
+  "title": "Bukti Perbaikan Airbag: Apa yang Perlu Diminta Pembeli Mobil Bekas",
+  "h1": "Bukti Perbaikan Airbag: Apa yang Perlu Diminta Pembeli Mobil Bekas",
+  "meta_description": "Minta riwayat airbag mengembang, catatan komponen dan pekerjaan, serta inspeksi berkualifikasi sebelum membeli mobil bekas. Lampu padam bukan bukti lengkap.",
+  "card_summary": "Hubungkan riwayat kejadian, asal komponen, pekerjaan selesai, dan penilaian berkualifikasi sebelum menerima perbaikan sistem penahan penumpang.",
+  "suggested_url": "/id/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Riwayat airbag mengembang, Komponen pengganti, Inspeksi berkualifikasi.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Riwayat airbag mengembang",
+      "Komponen pengganti",
+      "Inspeksi berkualifikasi"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}

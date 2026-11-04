@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "vi",
+  "title": "Xe diesel đội xe đã qua sử dụng: Bằng chứng DPF và SCR",
+  "meta_description": "Đánh giá hồ sơ làm sạch, tái sinh DPF và bảo dưỡng SCR trước khi mua xe diesel đội xe cũ. Biết cần bằng chứng nào và khi nào nên tạm dừng.",
+  "h1": "Xe diesel đội xe đã qua sử dụng: Kiểm tra bằng chứng bảo dưỡng DPF và SCR",
+  "card_summary": "Đối chiếu tái sinh DPF, làm sạch tro, phụ tùng thay thế và quản lý DEF với kiểm tra riêng cho xe trước khi chấp nhận xe đội xe cũ.",
+  "suggested_url": "/vi/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/vi/guides/",
+      "text": "hướng dẫn mua hàng"
+    },
+    {
+      "url": "/vi/vehicles/",
+      "text": "trang tham khảo xe"
+    }
+  ],
+  "image": {
+    "alt": "Sơ đồ ba thẻ thể hiện hồ sơ bảo dưỡng DPF, bằng chứng SCR và DEF, và đánh giá riêng cho xe.",
+    "caption": "Tách sự kiện bảo dưỡng, bằng chứng hệ thống dung dịch và đánh giá cuối cùng riêng cho xe.",
+    "labels": [
+      "Hồ sơ bảo dưỡng DPF",
+      "Bằng chứng SCR và DEF",
+      "Đánh giá riêng cho xe"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/vi.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "Ban biên tập xuất khẩu AutoBridge",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}
