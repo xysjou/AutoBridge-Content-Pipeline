@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "pt",
+  "locale": "pt",
+  "title": "Capacidades do engate e do reboque: evidências a pedir antes de comprar",
+  "meta_description": "Confira limites do veículo, engate, carga vertical e instalação antes da compra. Separe capacidades e exigências específicas de cada mercado.",
+  "h1": "Capacidades do engate e do reboque: evidências a pedir antes de comprar",
+  "card_summary": "Compare documentos, instalação e testes do conjunto carregado antes de aceitar a capacidade de reboque.",
+  "suggested_url": "/pt-br/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de veículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "guias de compra da AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões sobre limites de peso do veículo, identidade e instalação do engate e elétrica e freios do reboque.",
+    "caption": "Compare limites do veículo, engate e conexões do reboque como verificações de compra separadas.",
+    "labels": [
+      "Limites de peso do veículo exato",
+      "Identidade e instalação do engate",
+      "Elétrica e freios do reboque"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/pt.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "da729d390d9498cf44a0419b310e7a988125c11607b59f0bbfc27533a275cd41"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1460,
+  "body_sha256": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

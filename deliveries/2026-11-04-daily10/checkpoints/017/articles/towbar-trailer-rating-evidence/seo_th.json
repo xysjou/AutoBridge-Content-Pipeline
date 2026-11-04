@@ -1,0 +1,53 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "th",
+  "locale": "th",
+  "title": "พิกัดชุดลากและรถพ่วง: รายการหลักฐานสำหรับผู้ซื้อ",
+  "meta_description": "ตรวจขีดจำกัดการลากของรถ ข้อมูลชุดลาก น้ำหนักบรรทุก และระบบไฟรถพ่วง ก่อนยอมรับคำกล่าวเรื่องการลากของรถนำเข้า",
+  "h1": "พิกัดชุดลากจูงและรถพ่วง: หลักฐานที่ควรขอก่อนซื้อ",
+  "card_summary": "วิธีจัดซื้อที่เทียบขีดจำกัดเฉพาะรถกับชุดลากที่ติดตั้ง แผนบรรทุกรถพ่วง และหลักฐานการทำงานของระบบไฟฟ้า",
+  "suggested_url": "/th/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/th/vehicles/",
+      "text": "คู่มือรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/th/guides/",
+      "text": "คลังคู่มือจัดซื้อ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "สามบัตรแสดงขีดจำกัดรถ ข้อมูลชุดลากจูง และการตรวจระบบไฟฟ้ารถพ่วง",
+    "caption": "เปรียบเทียบขีดจำกัดรถ อุปกรณ์ลาก และการเชื่อมต่อรถพ่วงเป็นการตรวจจัดซื้อแยกแต่ละเรื่อง",
+    "labels": [
+      "ขีดจำกัดน้ำหนักเฉพาะรถ",
+      "ข้อมูลและการติดตั้งชุดลาก",
+      "ไฟฟ้าและเบรกรถพ่วง"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "1892db63a7ca9aba2a28b8002ba3a7276a1c9732372454c6988580a6fd64918a"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1463,
+  "body_sha256": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

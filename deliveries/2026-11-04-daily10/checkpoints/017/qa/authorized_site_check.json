@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-11-04",
+  "authorized_host": "autobridgeexport.com",
+  "redirects_followed": false,
+  "checks": [
+    {
+      "path": "/",
+      "error": "[Errno -3] Temporary failure in name resolution",
+      "status": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "error": "[Errno -3] Temporary failure in name resolution",
+      "status": null
+    },
+    {
+      "path": "/robots.txt",
+      "error": "[Errno -3] Temporary failure in name resolution",
+      "status": null
+    },
+    {
+      "path": "/en/vehicles/",
+      "error": "[Errno -3] Temporary failure in name resolution",
+      "status": null
+    },
+    {
+      "path": "/en/guides/",
+      "error": "[Errno -3] Temporary failure in name resolution",
+      "status": null
+    }
+  ],
+  "sitemap_url_count": 0,
+  "exact_slug_matches": {
+    "diesel-dpf-scr-maintenance-evidence": [],
+    "smart-1": [],
+    "srs-airbag-repair-evidence": [],
+    "xpeng-g9": [],
+    "odometer-service-history-reconciliation": [],
+    "flood-damage-evidence-used-car-purchase": [],
+    "byd-seal-u-dm-i": [],
+    "nio-et5": [],
+    "towbar-trailer-rating-evidence": [],
+    "xpeng-g6": []
+  },
+  "coverage": "Only explicitly authorized host checked; unverified other-domain aliases and redirects not followed. Empty or inaccessible sitemap cannot establish full-site absence.",
+  "internal_link_status": "Requires live deployment verification if matching hub unavailable"
+}

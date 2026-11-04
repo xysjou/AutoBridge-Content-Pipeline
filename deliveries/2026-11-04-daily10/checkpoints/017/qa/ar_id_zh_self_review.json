@@ -1,0 +1,459 @@
+{
+  "batch": "2026-11-04-daily10",
+  "reviewed_at_utc": "2026-11-04T12:35:00Z",
+  "status": "LOCAL_RECONSTRUCTION_SELF_REVIEW_COMPLETE_PENDING_PARENT_INDEPENDENT_REVIEW",
+  "reconstruction": true,
+  "byte_identical_recovery_claimed": false,
+  "method": "New complete AI translations reconstructed against recovered frozen English masters after repeated workspace loss. Each of the ten reconstructed pages was compared paragraph by paragraph during composition and semantically reviewed; structural checks below supplement, not replace, that review. No external translation API or human/professional review used.",
+  "scope": {
+    "new_full_articles": 10,
+    "new_seo_files": 10,
+    "languages": [
+      "ar",
+      "id"
+    ],
+    "topics": [
+      "odometer-service-history-reconciliation",
+      "flood-damage-evidence-used-car-purchase",
+      "srs-airbag-repair-evidence",
+      "towbar-trailer-rating-evidence",
+      "diesel-dpf-scr-maintenance-evidence"
+    ],
+    "retained_vehicle_translations": "Five vehicle ar/id pairs and G6 zh not rewritten or freshly certified in this recovery pass. BYD ar single necessary verb correction applied."
+  },
+  "authority_boundaries": {
+    "HUMAN_REVIEWED": false,
+    "PUBLISH_APPROVED": false,
+    "evidence.first_hand": false,
+    "git_operations_performed": false,
+    "source_research_repeated": false,
+    "source_basis": "Existing recovered frozen en.md and parent research baseline; no new external factual conclusions."
+  },
+  "pages": [
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "ar",
+      "body_path": "articles/odometer-service-history-reconciliation/ar.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_ar.json",
+      "current_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "current_body_sha256": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+      "word_count_whitespace": 1154,
+      "paragraph_blocks": 38,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "All dated evidence, unit uncertainty, invoice issue/event dates and per-VIN decisions retained.",
+        "UK MOT contemporary-document requirement and Northern Ireland separate route retained. US NMVTIS is not repair history; empty coverage is not a clean record. No fraud inference."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "id",
+      "body_path": "articles/odometer-service-history-reconciliation/id.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_id.json",
+      "current_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "current_body_sha256": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+      "word_count_whitespace": 1208,
+      "paragraph_blocks": 38,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "All dated evidence, unit uncertainty, invoice issue/event dates and per-VIN decisions retained.",
+        "UK MOT contemporary-document requirement and Northern Ireland separate route retained. US NMVTIS is not repair history; empty coverage is not a clean record. No fraud inference."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "ar",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/ar.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "current_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "current_body_sha256": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+      "word_count_whitespace": 1220,
+      "paragraph_blocks": 40,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Exposure history, targeted inspection, repair scope, unresolved risks and all six table rows retained.",
+        "Total loss is not synonymous with flooding; absent history is not clearance. No unsafe HV charging, driving or disassembly recommendation. Transport and import eligibility remain separate."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "id",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/id.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "current_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "current_body_sha256": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+      "word_count_whitespace": 1241,
+      "paragraph_blocks": 40,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Exposure history, targeted inspection, repair scope, unresolved risks and all six table rows retained.",
+        "Total loss is not synonymous with flooding; absent history is not clearance. No unsafe HV charging, driving or disassembly recommendation. Transport and import eligibility remain separate."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "ar",
+      "body_path": "articles/srs-airbag-repair-evidence/ar.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_ar.json",
+      "current_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "current_body_sha256": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+      "word_count_whitespace": 1182,
+      "paragraph_blocks": 41,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Event, part provenance, installed work and post-work inspection remain distinct. Estimate does not establish completed work.",
+        "NHTSA warning does not become a newly asserted legal prohibition. Ford Australia and European Model 3 examples remain bounded. No DIY inspection or recall/repair-history equivalence. Indonesian deployment rendered as airbag mengembang."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "id",
+      "body_path": "articles/srs-airbag-repair-evidence/id.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_id.json",
+      "current_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "current_body_sha256": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+      "word_count_whitespace": 1234,
+      "paragraph_blocks": 41,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Event, part provenance, installed work and post-work inspection remain distinct. Estimate does not establish completed work.",
+        "NHTSA warning does not become a newly asserted legal prohibition. Ford Australia and European Model 3 examples remain bounded. No DIY inspection or recall/repair-history equivalence. Indonesian deployment rendered as airbag mengembang."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "ar",
+      "body_path": "articles/towbar-trailer-rating-evidence/ar.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_ar.json",
+      "current_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "current_body_sha256": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+      "word_count_whitespace": 1215,
+      "paragraph_blocks": 35,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Vehicle, train, axle, towbar and vertical load limits remain distinct. All seven evidence rows and loaded-condition checks retained.",
+        "UK first use before 1 August 1998 exception retained; NSW and Ford US examples not globalized. Volvo UK XC90 2026 software example remains conditional. No universal vertical-load percentage invented."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "id",
+      "body_path": "articles/towbar-trailer-rating-evidence/id.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_id.json",
+      "current_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "current_body_sha256": "e4984c4f6cbc6f72b09f585f13683016c1e04d29ece9ec03ad2a85cf82e7cbfa",
+      "word_count_whitespace": 1292,
+      "paragraph_blocks": 35,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Vehicle, train, axle, towbar and vertical load limits remain distinct. All seven evidence rows and loaded-condition checks retained.",
+        "UK first use before 1 August 1998 exception retained; NSW and Ford US examples not globalized. Volvo UK XC90 2026 software example remains conditional. No universal vertical-load percentage invented."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "ar",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/ar.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ar.json",
+      "current_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "current_body_sha256": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+      "word_count_whitespace": 1308,
+      "paragraph_blocks": 41,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Regeneration and ash cleaning remain distinct; not every diesel has both DPF and SCR. DEF particle and chemical contamination consequences distinguished.",
+        "CARB/EPA historical technical context not current import law; Cummins restriction-test sequence retains North American application. Volvo Silver service not universal coverage. No DIY regeneration.",
+        "Indonesian idle time explicitly rendered waktu mesin menyala saat kendaraan berhenti; Arabic similarly says engine running while vehicle stopped."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "id",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/id.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_id.json",
+      "current_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "current_body_sha256": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+      "word_count_whitespace": 1401,
+      "paragraph_blocks": 41,
+      "checks": {
+        "paragraph_block_count_equal": true,
+        "heading_count_equal": true,
+        "table_row_count_equal": true,
+        "exact_link_multiset_equal": true,
+        "numeric_token_multiset_equal": true,
+        "h1_matches_body": true,
+        "language_matches": true,
+        "image_path_matches": true,
+        "safety_flags_preserved": true,
+        "no_english_paragraph_copy": true,
+        "no_production_markers": true
+      },
+      "AI_LANGUAGE_QA": "PASS",
+      "semantic_review": [
+        "Regeneration and ash cleaning remain distinct; not every diesel has both DPF and SCR. DEF particle and chemical contamination consequences distinguished.",
+        "CARB/EPA historical technical context not current import law; Cummins restriction-test sequence retains North American application. Volvo Silver service not universal coverage. No DIY regeneration.",
+        "Indonesian idle time explicitly rendered waktu mesin menyala saat kendaraan berhenti; Arabic similarly says engine running while vehicle stopped."
+      ],
+      "public_metadata_review": "Title/H1/meta/summary and image alt/caption/labels localized. Locale and inherited body hash/word count updated where present. Internal links retain recovered English URLs, with corresponding localized text; no unverified localized internal URL introduced."
+    }
+  ],
+  "retained_vehicle_patch": {
+    "path": "articles/byd-seal-u-dm-i/ar.md",
+    "reason": "Corrected ambiguous verb: model rating cannot establish retained restraint/sensor/body condition of a particular used vehicle. No other vehicle paragraph rewritten.",
+    "current_body_sha256": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d"
+  },
+  "full_body_fivegram_similarity": [
+    {
+      "language": "ar",
+      "a": "odometer-service-history-reconciliation",
+      "b": "flood-damage-evidence-used-car-purchase",
+      "jaccard": 0.00844
+    },
+    {
+      "language": "ar",
+      "a": "odometer-service-history-reconciliation",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.00772
+    },
+    {
+      "language": "ar",
+      "a": "odometer-service-history-reconciliation",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "odometer-service-history-reconciliation",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.00795
+    },
+    {
+      "language": "ar",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "srs-airbag-repair-evidence",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "srs-airbag-repair-evidence",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "towbar-trailer-rating-evidence",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.0011
+    },
+    {
+      "language": "id",
+      "a": "odometer-service-history-reconciliation",
+      "b": "flood-damage-evidence-used-car-purchase",
+      "jaccard": 0.0094
+    },
+    {
+      "language": "id",
+      "a": "odometer-service-history-reconciliation",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.00856
+    },
+    {
+      "language": "id",
+      "a": "odometer-service-history-reconciliation",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.00079
+    },
+    {
+      "language": "id",
+      "a": "odometer-service-history-reconciliation",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.00038
+    },
+    {
+      "language": "id",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "srs-airbag-repair-evidence",
+      "jaccard": 0.01086
+    },
+    {
+      "language": "id",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.00116
+    },
+    {
+      "language": "id",
+      "a": "flood-damage-evidence-used-car-purchase",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.00037
+    },
+    {
+      "language": "id",
+      "a": "srs-airbag-repair-evidence",
+      "b": "towbar-trailer-rating-evidence",
+      "jaccard": 0.00039
+    },
+    {
+      "language": "id",
+      "a": "srs-airbag-repair-evidence",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.00037
+    },
+    {
+      "language": "id",
+      "a": "towbar-trailer-rating-evidence",
+      "b": "diesel-dpf-scr-maintenance-evidence",
+      "jaccard": 0.00072
+    }
+  ],
+  "pending": [
+    "Parent independent semantic cross-review",
+    "Parent image asset generation/status verification",
+    "Parent Git save/push and remote verification",
+    "Any source/research conditional gates remain owned by parent; not upgraded by translation self-review"
+  ]
+}

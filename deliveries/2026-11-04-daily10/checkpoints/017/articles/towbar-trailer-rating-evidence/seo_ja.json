@@ -1,0 +1,58 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "ja",
+  "locale": "ja",
+  "title": "トウバーとトレーラーの許容値：購入前に求めたい証拠",
+  "meta_description": "中古車のトウバー、車両のけん引限度、垂直荷重、配線とブレーキを別々に確認。購入前に必要な資料と実演を整理します。",
+  "h1": "トウバーとトレーラーの許容値：購入前に求めたい証拠",
+  "card_summary": "トウバーの装着だけで能力を判断せず、車両制限、取付け、積載状態、接続機能の証拠を照合します。",
+  "suggested_url": "/ja/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種カタログ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge調達ガイド",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "対象車両の重量限度、トウバーの識別と取付け、トレーラーの電装とブレーキを示す3枚のカード。",
+    "caption": "車両の限度、けん引装置、トレーラー接続を、別々の購入確認として比較します。",
+    "labels": [
+      "対象車両の重量限度",
+      "トウバーの識別と取付け",
+      "トレーラーの電装とブレーキ"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/ja.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "1931b32f5a2fdbeca69bd9b862e49d77b2a7d2ef6a0fdb9ca45ccb9fbae1f9f9"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 244,
+  "body_sha256": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  },
+  "han_character_count": 1398,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+}

@@ -1,0 +1,80 @@
+{
+  "checkpoint": "017",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/ja.md",
+      "sha256": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+      "bytes": 11141
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "sha256": "07ac172a13541b2b9d9a7eafb311ba067de352ca30462c7de585e615b33dfb5a",
+      "bytes": 2387
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/ko.md",
+      "sha256": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+      "bytes": 10485
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "sha256": "6fe5d3193200b66c66c9caadb894c9e30eaa06a6589c1d67db081765ab0c0dbd",
+      "bytes": 2360
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/pt.md",
+      "sha256": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+      "bytes": 10686
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_pt.json",
+      "sha256": "5886b29f4bcb1d0f1d08588c3d1fd72d1aa2983b389dbc4ecc47b570f8fb1ee8",
+      "bytes": 2112
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/th.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/th.md",
+      "sha256": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+      "bytes": 21982
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/seo_th.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_th.json",
+      "sha256": "30b391279cba5eba248e10dbb41dd08010ebf08cbee8a4cee38a2a1aebbbc88a",
+      "bytes": 2935
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/vi.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/vi.md",
+      "sha256": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+      "bytes": 12824
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/articles/towbar-trailer-rating-evidence/seo_vi.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_vi.json",
+      "sha256": "7a7a7148558b0f98c3684f9eb34dadd67705d2bb7c0216f03ccdc82160846c6a",
+      "bytes": 2234
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/qa/ar_id_zh_self_review.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/ar_id_zh_self_review.json",
+      "sha256": "d108401b7b9871bcc4454ab0e4c31722c64cc6601f85faf78462ae4e04d76c7f",
+      "bytes": 22312
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/017/qa/authorized_site_check.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/authorized_site_check.json",
+      "sha256": "b10490f8aa27fd0a93a2d91f2b8d7c48a19049b0858d0d69388617e01ac59594",
+      "bytes": 1436
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
